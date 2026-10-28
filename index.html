@@ -78,7 +78,7 @@ ul.tips li{display:flex;gap:12px;align-items:center;margin:0}
 .alert{border-left:5px solid #b42318;background:var(--card);border-radius:12px;padding:14px;margin-top:12px;border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
 .term{border-bottom:1px solid var(--line);padding:12px 0}.term:last-child{border:0}
 .term b{font-family:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;font-size:17px;display:block}
-footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}
+footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer a{color:inherit}
 [hidden]{display:none!important}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 @media (prefers-reduced-motion:reduce){.band{transition:none}}
@@ -92,7 +92,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}
 <small>Heat guide for Nigeria</small>
 </div>
 <div class="seg" role="group" aria-label="Colour theme">
-<button id="th-auto" aria-label="Match my phone" title="Match my phone" ><span data-ic="sun-moon"></span></button><button id="th-light" aria-label="Light" title="Light" ><span data-ic="sun"></span></button><button id="th-dark" aria-label="Dark" title="Dark" ><span data-ic="moon"></span></button>
+<button id="th-light" aria-label="Light mode" title="Light mode"><span data-ic="sun"></span></button><button id="th-dark" aria-label="Dark mode" title="Dark mode"><span data-ic="moon"></span></button>
 </div>
 </header>
 <nav role="tablist"><button role="tab" id="t-today">Today</button><button role="tab" id="t-safe">Stay safe</button><button role="tab" id="t-words">Words</button></nav>
@@ -106,14 +106,14 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}
 <div class="panel">
 <h3><span data-ic="map-pin"></span>Where are you?</h3>
 <button class="btn s" id="loc"><span data-ic="locate"></span>Use my location</button>
-<input type="search" id="town" placeholder="Or search your town, e.g. Kano" autocomplete="off" aria-label="Search your town">
+<input type="search" id="town" placeholder="Or search a Nigerian town, e.g. Kano" autocomplete="off" aria-label="Search your town">
 <div class="results" id="results"></div>
 <div class="note" id="locmsg" aria-live="polite"></div>
 <p class="or">Or set the reading yourself</p>
 <label><span id="tl">Temperature</span><span id="tv"></span></label>
-<input type="range" id="t" min="20" max="50" step="1" value="34" aria-labelledby="tl">
+<input type="range" id="t" min="5" max="50" step="1" value="34" aria-labelledby="tl">
 <label><span id="hl">Humidity</span><span id="hv"></span></label>
-<input type="range" id="h" min="10" max="100" step="1" value="60" aria-labelledby="hl">
+<input type="range" id="h" min="1" max="100" step="1" value="60" aria-labelledby="hl">
 </div>
 
 <div class="panel wear"><h3>What to wear</h3><ul class="tips" id="wear"></ul></div>
@@ -132,7 +132,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}
 <div class="panel" id="terms"></div>
 </section>
 
-<footer>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer>Live readings come from the Open-Meteo weather model and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
@@ -206,7 +206,7 @@ const fmtDay=ms=>new Date(ms).toLocaleDateString("en-NG",{weekday:"short",day:"n
 // One line saying where the reading is from and how it was taken.
 function whereText(){
  if(!S.place)return {p:"Your reading",w:"Set your place below for live heat"};
- const r=S.t+"°C, "+S.h+"% humidity";
+ const r=Math.round(S.t)+"°C, "+Math.round(S.h)+"% humidity";
  if(S.manual)return {p:S.place.name,w:"Adjusted by hand · "+r};
  return {p:S.place.name,w:"Live reading "+fmtTime(S.at)+", "+fmtDay(S.at)+" · "+r};
 }
@@ -214,8 +214,8 @@ function tips(list,avoid){return list.map(([i,t,plain])=>"<li><span class='tic"+
 
 function render(){
  ["today","safe","words"].forEach(k=>{$("v-"+k).hidden=S.tab!==k;$("t-"+k).setAttribute("aria-selected",S.tab===k)});
- ["auto","light","dark"].forEach(k=>$("th-"+k).setAttribute("aria-pressed",S.theme===k));
- $("t").value=S.t;$("h").value=S.h;$("tv").textContent=S.t+"°C";$("hv").textContent=S.h+"%";
+ ["light","dark"].forEach(k=>$("th-"+k).setAttribute("aria-pressed",isDark()===(k==="dark")));
+ $("t").value=S.t;$("h").value=S.h;$("tv").textContent=Math.round(S.t)+"°C";$("hv").textContent=Math.round(S.h)+"%";
  const hi=hiC(S.t,S.h),lv=lvl(hi),wt=whereText();
  $("band").style.background=lv.c;$("hi").textContent=shown(hi);
  $("place").textContent=wt.p;$("when").textContent=wt.w;
@@ -228,22 +228,25 @@ function drawWords(){const q=$("q").value.trim().toLowerCase();
  const r=WORDS.filter(w=>!q||w[0].toLowerCase().includes(q)||w[1].toLowerCase().includes(q));
  $("terms").innerHTML=r.length?r.map(w=>"<div class='term'><b>"+w[0]+"</b>"+w[1]+"</div>").join(""):"No match found.";}
 
-// Theme: "auto" follows the phone's setting.
-function setTheme(t){S.theme=t;store.set("rh-theme",t);
- if(t==="auto")delete document.documentElement.dataset.theme;else document.documentElement.dataset.theme=t;
- syncThemeColor();render()}
-function syncThemeColor(){const dark=S.theme==="dark"||(S.theme==="auto"&&matchMedia("(prefers-color-scheme: dark)").matches);$("tc").content=dark?"#0b141a":"#eef4f6"}
-try{matchMedia("(prefers-color-scheme: dark)").addEventListener("change",syncThemeColor)}catch(e){}
+// Theme: follows the phone until someone picks Light or Dark.
+const isDark=()=>S.theme==="dark"||(S.theme==="auto"&&matchMedia("(prefers-color-scheme: dark)").matches);
+function setTheme(t){S.theme=t;store.set("rh-theme",t);document.documentElement.dataset.theme=t;syncThemeColor();render()}
+function syncThemeColor(){$("tc").content=isDark()?"#0b141a":"#eef4f6"}
+try{matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{syncThemeColor();render()})}catch(e){}
 
 // Live reading for a place. Open-Meteo gives current temperature and humidity.
 async function loadPlace(place,quiet){
- $("locmsg").textContent=quiet?"":"Getting the live reading for "+place.name+"…";
- try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m");
-  if(!r.ok)throw 0;const j=await r.json();
-  S.t=Math.min(50,Math.max(20,Math.round(j.current.temperature_2m)));S.h=Math.min(100,Math.max(10,Math.round(j.current.relative_humidity_2m)));
-  S.place=place;S.at=Date.now();S.manual=false;
+ if(!quiet)$("locmsg").textContent="Getting the live reading for "+place.name+"…";
+ try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&timezone=GMT");
+  if(!r.ok)throw 0;const j=await r.json(),c=j.current;
+  if(typeof c.temperature_2m!=="number"||typeof c.relative_humidity_2m!=="number")throw 0;
+  // Keep the exact values for the feels-like calculation; the screen rounds them.
+  S.t=c.temperature_2m;S.h=c.relative_humidity_2m;
+  // Time of the reading itself (GMT from Open-Meteo), not when the phone fetched it.
+  const at=Date.parse(c.time+"Z");S.at=isFinite(at)?at:Date.now();
+  S.place=place;S.manual=false;
   store.set("rh-last",{place,t:S.t,h:S.h,at:S.at});
-  $("locmsg").textContent="";
+  if(!quiet)$("locmsg").textContent="";
  }catch(e){
   const last=store.get("rh-last");
   if(last&&last.place&&last.place.name===place.name){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.manual=false;
@@ -252,25 +255,30 @@ async function loadPlace(place,quiet){
  }
  render();
 }
+// Reezr Heat covers Nigeria only. Rough box for links; country code for GPS and search.
+const inNigeria=(lat,lon)=>lat>=4&&lat<=14&&lon>=2.6&&lon<=14.7;
+const NOT_NG="Reezr Heat covers Nigeria only. Search a Nigerian town, or set the reading yourself below.";
 function nameFromBdc(j){const a=j.locality||j.city,b=j.principalSubdivision;return [a,b&&b!==a?b:""].filter(Boolean).join(", ")||j.countryName||"Your location"}
 $("loc").onclick=()=>{
  if(!navigator.geolocation){$("locmsg").textContent="Location isn’t available on this device. Search your town instead.";return}
  $("locmsg").textContent="Finding your location…";
  navigator.geolocation.getCurrentPosition(async p=>{
   // Two decimals is about 1 km: enough for weather, and the exact spot never leaves the phone.
-  const lat=+p.coords.latitude.toFixed(2),lon=+p.coords.longitude.toFixed(2);let name="Your location";
-  try{const r=await fetch("https://api-bdc.io/data/reverse-geocode-client?latitude="+lat+"&longitude="+lon+"&localityLanguage=en");if(r.ok)name=nameFromBdc(await r.json())}catch(e){}
+  const lat=+p.coords.latitude.toFixed(2),lon=+p.coords.longitude.toFixed(2);let name="Your location",ng=inNigeria(lat,lon);
+  try{const r=await fetch("https://api-bdc.io/data/reverse-geocode-client?latitude="+lat+"&longitude="+lon+"&localityLanguage=en");
+   if(r.ok){const j=await r.json();name=nameFromBdc(j);if(j.countryCode)ng=j.countryCode==="NG"}}catch(e){}
+  if(!ng){$("locmsg").textContent=NOT_NG;return}
   loadPlace({name,lat,lon});
  },()=>{$("locmsg").textContent="Couldn’t get your location. Allow location for this site, or search your town instead."},{timeout:15000,maximumAge:600000});
 };
-// Town search, Nigerian results first.
+// Town search, Nigerian towns only.
 let qT=0,qN=0;
 $("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
  if(q.length<2){$("results").innerHTML="";return}
  qT=setTimeout(async()=>{const n=++qN;
-  try{const r=await fetch("https://geocoding-api.open-meteo.com/v1/search?count=8&language=en&name="+encodeURIComponent(q));const j=await r.json();if(n!==qN)return;
-   const res=(j.results||[]).sort((a,b)=>(b.country_code==="NG")-(a.country_code==="NG")).slice(0,5);
-   $("results").innerHTML=res.length?res.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+esc([x.admin1,x.country].filter(Boolean).join(", "))+"</small></button>").join(""):"<div class='note'>No town found. Check the spelling.</div>";
+  try{const r=await fetch("https://geocoding-api.open-meteo.com/v1/search?count=10&language=en&countryCode=NG&name="+encodeURIComponent(q));const j=await r.json();if(n!==qN)return;
+   const seen=new Set(),res=(j.results||[]).filter(x=>x.country_code==="NG").filter(x=>{const k=x.name+"|"+x.admin1;return !seen.has(k)&&seen.add(k)}).slice(0,5);
+   $("results").innerHTML=res.length?res.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+esc(x.admin1||"")+"</small></button>").join(""):"<div class='note'>No Nigerian town found. Check the spelling.</div>";
    $("results").querySelectorAll("button").forEach(b=>b.onclick=()=>{const x=res[+b.dataset.i];
     $("results").innerHTML="";$("town").value="";
     loadPlace({name:[x.name,x.admin1&&x.admin1!==x.name?x.admin1:""].filter(Boolean).join(", "),lat:+x.latitude.toFixed(2),lon:+x.longitude.toFixed(2)})});
@@ -279,7 +287,7 @@ $("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
 $("t").oninput=e=>{S.t=+e.target.value;S.manual=true;render()};
 $("h").oninput=e=>{S.h=+e.target.value;S.manual=true;render()};
 ["today","safe","words"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render()});
-["auto","light","dark"].forEach(k=>$("th-"+k).onclick=()=>setTheme(k));
+["light","dark"].forEach(k=>$("th-"+k).onclick=()=>setTheme(k));
 $("q").oninput=drawWords;
 
 // Share link: opens the app on the same town for whoever receives it.
@@ -365,11 +373,11 @@ $("pic").onclick=async()=>{
 };
 
 // Start: a shared link's town first, then the last town used on this phone.
-S.theme=store.get("rh-theme")||"auto";syncThemeColor();
+S.theme=["light","dark"].includes(store.get("rh-theme"))?store.get("rh-theme"):"auto";syncThemeColor();
 drawSafe();drawWords();render();
 (()=>{const q=new URLSearchParams(location.search),lat=parseFloat(q.get("lat")),lon=parseFloat(q.get("lon"));
- if(isFinite(lat)&&isFinite(lon)&&Math.abs(lat)<=90&&Math.abs(lon)<=180)return loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2)});
- const last=store.get("rh-last");if(last&&last.place)loadPlace(last.place,true);})();
+ if(isFinite(lat)&&isFinite(lon)){if(inNigeria(lat,lon))return loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2)});$("locmsg").textContent=NOT_NG}
+ const last=store.get("rh-last");if(last&&last.place&&inNigeria(last.place.lat,last.place.lon))loadPlace(last.place,true);})();
 if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))}
 </script>
 </body>
