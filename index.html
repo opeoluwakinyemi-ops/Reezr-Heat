@@ -3,129 +3,169 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#0a6f8f">
-<meta name="description" content="Free heat safety guide for Nigeria: how hot it feels, what to wear, what to do, and a climate word list.">
+<meta name="theme-color" content="#eef4f6" id="tc">
+<meta name="description" content="Free heat safety guide for Nigeria: how hot it feels where you are, what to wear, what to do and what to avoid.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Reezr Heat">
+<meta property="og:title" content="Reezr Heat – Stay safe in the heat">
+<meta property="og:description" content="How hot it feels where you are, and what to do to stay safe. Free heat guide for Nigeria.">
+<meta property="og:url" content="https://reezrheat.com/">
+<meta property="og:image" content="https://reezrheat.com/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png">
-<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Reezr Heat">
 <title>Reezr Heat – Stay safe in the heat</title>
+<script>
+// Apply the saved theme before first paint so the page never flashes the wrong colours.
+try{const t=localStorage.getItem("rh-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}
+</script>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#eef4f6;--card:#fff;--ink:#12202b;--mut:#51606c;--line:#d3dee4;--acc:#0a6f8f;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#101a21;--card:#18262f;--ink:#e8f0f4;--mut:#9db0bb;--line:#2b3d48;--acc:#4cc3e6;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#101a21;--card:#18262f;--ink:#e8f0f4;--mut:#9db0bb;--line:#2b3d48;--acc:#4cc3e6;color-scheme:dark}
+:root{--bg:#eef4f6;--card:#fff;--ink:#12202b;--mut:#51606c;--line:#d3dee4;--acc:#0a6f8f;--heat:#c2410c;--do:#23784a;--do-bg:#e3f3e9;--av:#b42318;--av-bg:#fde8e6;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0b141a;--card:#15222b;--ink:#e8f0f4;--mut:#9db0bb;--line:#2b3d48;--acc:#4cc3e6;--heat:#ff8a4c;--do:#5fd391;--do-bg:#16352a;--av:#ff8a80;--av-bg:#3d1c1c;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0b141a;--card:#15222b;--ink:#e8f0f4;--mut:#9db0bb;--line:#2b3d48;--acc:#4cc3e6;--heat:#ff8a4c;--do:#5fd391;--do-bg:#16352a;--av:#ff8a80;--av-bg:#3d1c1c;color-scheme:dark}
 *,*::before,*::after{box-sizing:inherit}
-html{scroll-padding-top:env(safe-area-inset-top,0px)}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Instrument Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 h1,h2,h3,.big{font-family:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;margin:0}
 .wrap{max-width:560px;margin:0 auto;padding:16px 16px 40px}
+svg.i{width:20px;height:20px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;vertical-align:-4px}
 header{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:12px}
-header h1{font-size:22px;font-weight:800;letter-spacing:-.3px}
-header small{color:var(--mut);display:block;font-size:13px;font-weight:400;font-family:"Instrument Sans",system-ui,sans-serif;letter-spacing:0}
-.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--card)}
-.seg button{border:0;background:none;color:var(--mut);padding:7px 13px;font:600 14px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
+.brand{display:flex;align-items:baseline;gap:1px;font:800 24px/1.1 "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;letter-spacing:-.3px;color:var(--ink);text-decoration:none}
+.brand img{height:.86em;width:auto}
+.brand em{font-style:normal;color:var(--heat);margin-left:.25em}
+header small{color:var(--mut);display:block;font-size:13px;margin-top:2px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--card);flex:none}
+.seg button{border:0;background:none;color:var(--mut);width:40px;height:36px;display:grid;place-items:center;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
 nav{display:flex;gap:6px;margin:6px 0 14px}
 nav button{flex:1;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:10px 4px;border-radius:12px;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
 nav button[aria-selected="true"]{border-color:var(--acc);box-shadow:inset 0 -3px 0 var(--acc)}
-button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
-.band{border-radius:20px;padding:22px 20px;color:#fff;transition:background .35s}
+button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.band{border-radius:20px;padding:18px 20px 22px;color:#fff;transition:background .35s}
+.band .where{display:flex;gap:6px;align-items:flex-start;font-weight:600;font-size:15px;margin-bottom:6px}
+.band .where small{display:block;font-weight:400;opacity:.9;font-size:13px}
 .band .big{font-size:76px;font-weight:800;line-height:1;letter-spacing:-2px}
 .band .big span{font-size:30px;font-weight:600;letter-spacing:0}
 .band h2{font-size:24px;margin-top:8px;font-weight:800}
 .band p{margin:4px 0 0;opacity:.95}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin-top:12px}
-.panel h3{font-size:17px;margin-bottom:8px}
+.panel h3{font-size:17px;margin-bottom:8px;display:flex;gap:8px;align-items:center}
 label{display:flex;justify-content:space-between;font-weight:600;margin-top:10px}
 input[type=range]{width:100%;accent-color:var(--acc);height:32px}
-input[type=text]{width:100%;padding:11px 12px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:16px "Instrument Sans",system-ui,sans-serif}
+input[type=search],input[type=text]{width:100%;padding:11px 12px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:16px "Instrument Sans",system-ui,sans-serif;margin-top:10px}
+.results{display:grid;gap:6px;margin-top:6px}
+.results button{text-align:left;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:10px;padding:10px 12px;font:15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
+.results button small{color:var(--mut)}
+.or{color:var(--mut);font-size:14px;margin:14px 0 0;font-weight:600}
 ul{margin:0;padding-left:20px}li{margin:5px 0}
-.do h3{color:#23784a}.avoid h3{color:#b42318}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .do h3{color:#5fd391}:root:not([data-theme="light"]) .avoid h3{color:#ff8a80}}
-.btn{display:block;width:100%;text-align:center;text-decoration:none;border:0;border-radius:12px;padding:13px;font:600 16px "Instrument Sans",system-ui,sans-serif;cursor:pointer;margin-top:10px}
+ul.tips{list-style:none;padding:0;display:grid;gap:10px}
+ul.tips li{display:flex;gap:12px;align-items:center;margin:0}
+.tic{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;flex:none;position:relative}
+.tic svg.i{width:24px;height:24px}
+.do .tic,.wear .tic{background:var(--do-bg);color:var(--do)}
+.avoid .tic{background:var(--av-bg);color:var(--av)}
+.avoid .tic.x::after{content:"";position:absolute;left:5px;right:5px;top:50%;height:3px;margin-top:-1.5px;background:var(--av);border-radius:2px;transform:rotate(-45deg)}
+.do h3{color:var(--do)}.avoid h3{color:var(--av)}
+.btn{display:flex;gap:8px;justify-content:center;align-items:center;width:100%;text-align:center;text-decoration:none;border:0;border-radius:12px;padding:13px;font:600 16px "Instrument Sans",system-ui,sans-serif;cursor:pointer;margin-top:10px}
 .btn.p{background:#1a8f4c;color:#fff}.btn.s{background:var(--card);color:var(--ink);border:1px solid var(--line)}
+.btn[disabled]{opacity:.6;cursor:progress}
 .note{color:var(--mut);font-size:14px;margin-top:8px}
 .alert{border-left:5px solid #b42318;background:var(--card);border-radius:12px;padding:14px;margin-top:12px;border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
 .term{border-bottom:1px solid var(--line);padding:12px 0}.term:last-child{border:0}
 .term b{font-family:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;font-size:17px;display:block}
 footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}
 [hidden]{display:none!important}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 @media (prefers-reduced-motion:reduce){.band{transition:none}}
 </style>
 </head>
 <body>
 <div class="wrap">
 <header>
-<h1>Reezr Heat<small id="sub"></small></h1>
-<div class="seg" role="group" aria-label="Language"><button id="l-en" aria-pressed="true">English</button><button id="l-pcm" aria-pressed="false">Pidgin</button></div>
+<div>
+<h1><a class="brand" href="./" aria-label="Reezr Heat"><img src="icons/logo-mark.png" alt="" width="34" height="32"><span aria-hidden="true">eezr<em>Heat</em></span></a></h1>
+<small>Heat guide for Nigeria</small>
+</div>
+<div class="seg" role="group" aria-label="Colour theme">
+<button id="th-auto" aria-label="Match my phone" title="Match my phone" ><span data-ic="sun-moon"></span></button><button id="th-light" aria-label="Light" title="Light" ><span data-ic="sun"></span></button><button id="th-dark" aria-label="Dark" title="Dark" ><span data-ic="moon"></span></button>
+</div>
 </header>
-<nav role="tablist"><button role="tab" id="t-today"></button><button role="tab" id="t-safe"></button><button role="tab" id="t-words"></button></nav>
+<nav role="tablist"><button role="tab" id="t-today">Today</button><button role="tab" id="t-safe">Stay safe</button><button role="tab" id="t-words">Words</button></nav>
 
 <section id="v-today">
-<div class="band" id="band" aria-live="polite"><div class="big"><b id="hi">--</b><span>°C</span></div><h2 id="lvl"></h2><p id="lvlsub"></p></div>
-<div class="panel">
-<h3 id="hq"></h3>
-<label><span id="tl"></span><span id="tv"></span></label>
-<input type="range" id="t" min="20" max="50" step="1" value="34" aria-labelledby="tl">
-<label><span id="hl"></span><span id="hv"></span></label>
-<input type="range" id="h" min="10" max="100" step="1" value="60" aria-labelledby="hl">
-<button class="btn s" id="loc"></button>
-<div class="note" id="locmsg"></div>
+<div class="band" id="band" aria-live="polite">
+<div class="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small></div></div>
+<div class="big"><b id="hi">--</b><span>°C</span></div><h2 id="lvl"></h2><p id="lvlsub"></p>
 </div>
-<div class="panel"><h3 id="wh"></h3><div id="wear"></div></div>
-<div class="panel do"><h3 id="dh"></h3><ul id="do"></ul></div>
-<div class="panel avoid"><h3 id="ah"></h3><ul id="avoid"></ul></div>
+
+<div class="panel">
+<h3><span data-ic="map-pin"></span>Where are you?</h3>
+<button class="btn s" id="loc"><span data-ic="locate"></span>Use my location</button>
+<input type="search" id="town" placeholder="Or search your town, e.g. Kano" autocomplete="off" aria-label="Search your town">
+<div class="results" id="results"></div>
+<div class="note" id="locmsg" aria-live="polite"></div>
+<p class="or">Or set the reading yourself</p>
+<label><span id="tl">Temperature</span><span id="tv"></span></label>
+<input type="range" id="t" min="20" max="50" step="1" value="34" aria-labelledby="tl">
+<label><span id="hl">Humidity</span><span id="hv"></span></label>
+<input type="range" id="h" min="10" max="100" step="1" value="60" aria-labelledby="hl">
+</div>
+
+<div class="panel wear"><h3>What to wear</h3><ul class="tips" id="wear"></ul></div>
+<div class="panel do"><h3>Do</h3><ul class="tips" id="do"></ul></div>
+<div class="panel avoid"><h3>Avoid</h3><ul class="tips" id="avoid"></ul></div>
 <div class="alert" id="em" hidden></div>
-<a class="btn p" id="share" target="_blank" rel="noopener"></a>
-<button class="btn s" id="pic"></button>
+<button class="btn p" id="share"><span data-ic="share-2"></span><span id="share-l">Share link</span></button>
+<button class="btn s" id="pic"><span data-ic="image"></span><span id="pic-l">Share as a picture</span></button>
+<div class="note" id="sharemsg" aria-live="polite"></div>
 </section>
 
 <section id="v-safe" hidden></section>
 
 <section id="v-words" hidden>
-<input type="text" id="q" autocomplete="off">
+<input type="text" id="q" autocomplete="off" placeholder="Search a word, e.g. El Niño" aria-label="Search a word">
 <div class="panel" id="terms"></div>
 </section>
 
-<footer id="foot"></footer>
+<footer>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
+// Pictograms: Lucide icons (lucide.dev), ISC licence.
+const IC={"baby":"<path d=\"M9 12h.01\"/><path d=\"M15 12h.01\"/><path d=\"M10 16c.5.3 1.2.5 2 .5s1.5-.2 2-.5\"/><path d=\"M19 6.3a9 9 0 0 1 1.8 3.9 2 2 0 0 1 0 3.6 9 9 0 0 1-17.6 0 2 2 0 0 1 0-3.6A9 9 0 0 1 12 3c2 0 3.5 1.1 3.5 2.5s-.9 2.5-2 2.5c-.8 0-1.5-.4-1.5-1\"/>","bus":"<path d=\"M8 6v6\"/><path d=\"M15 6v6\"/><path d=\"M2 12h19.6\"/><path d=\"M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2 0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3\"/><circle cx=\"7\" cy=\"18\" r=\"2\"/><path d=\"M9 18h5\"/><circle cx=\"16\" cy=\"18\" r=\"2\"/>","car":"<path d=\"M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2\"/><circle cx=\"7\" cy=\"17\" r=\"2\"/><path d=\"M9 17h6\"/><circle cx=\"17\" cy=\"17\" r=\"2\"/>","clock":"<circle cx=\"12\" cy=\"12\" r=\"10\"/><polyline points=\"12 6 12 12 16 14\"/>","cooking-pot":"<path d=\"M2 12h20\"/><path d=\"M20 12v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8\"/><path d=\"m4 8 16-4\"/><path d=\"m8.86 6.78-.45-1.81a2 2 0 0 1 1.45-2.43l1.94-.48a2 2 0 0 1 2.43 1.46l.45 1.8\"/>","cup-soda":"<path d=\"m6 8 1.75 12.28a2 2 0 0 0 2 1.72h4.54a2 2 0 0 0 2-1.72L18 8\"/><path d=\"M5 8h14\"/><path d=\"M7 15a6.47 6.47 0 0 1 5 0 6.47 6.47 0 0 0 5 0\"/><path d=\"m12 8 1-6h2\"/>","door-closed":"<path d=\"M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14\"/><path d=\"M2 20h20\"/><path d=\"M14 12v.01\"/>","droplet":"<path d=\"M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z\"/>","droplets":"<path d=\"M7 16.3c2.2 0 4-1.83 4-4.05 0-1.16-.57-2.26-1.71-3.19S7.29 6.75 7 5.3c-.29 1.45-1.14 2.84-2.29 3.76S3 11.1 3 12.25c0 2.22 1.8 4.05 4 4.05z\"/><path d=\"M12.56 6.6A10.97 10.97 0 0 0 14 3.02c.5 2.5 2 4.9 4 6.5s3 3.5 3 5.5a6.98 6.98 0 0 1-11.91 4.97\"/>","eye":"<path d=\"M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>","fan":"<path d=\"M10.827 16.379a6.082 6.082 0 0 1-8.618-7.002l5.412 1.45a6.082 6.082 0 0 1 7.002-8.618l-1.45 5.412a6.082 6.082 0 0 1 8.618 7.002l-5.412-1.45a6.082 6.082 0 0 1-7.002 8.618l1.45-5.412Z\"/><path d=\"M12 12v.01\"/>","glass-water":"<path d=\"M5.116 4.104A1 1 0 0 1 6.11 3h11.78a1 1 0 0 1 .994 1.105L17.19 20.21A2 2 0 0 1 15.2 22H8.8a2 2 0 0 1-2-1.79z\"/><path d=\"M6 12a5 5 0 0 1 6 0 5 5 0 0 0 6 0\"/>","hammer":"<path d=\"m15 12-8.373 8.373a1 1 0 1 1-3-3L12 9\"/><path d=\"m18 15 4-4\"/><path d=\"m21.5 11.5-1.914-1.914A2 2 0 0 1 19 8.172V7l-2.26-2.26a6 6 0 0 0-4.202-1.756L9 2.96l.92.82A6.18 6.18 0 0 1 12 8.4V10l2 2h1.172a2 2 0 0 1 1.414.586L18.5 14.5\"/>","hard-hat":"<path d=\"M10 10V5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v5\"/><path d=\"M14 6a6 6 0 0 1 6 6v3\"/><path d=\"M4 15v-3a6 6 0 0 1 6-6\"/><rect x=\"2\" y=\"15\" width=\"20\" height=\"4\" rx=\"1\"/>","heart-pulse":"<path d=\"M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z\"/><path d=\"M3.22 12H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27\"/>","hourglass":"<path d=\"M5 22h14\"/><path d=\"M5 2h14\"/><path d=\"M17 22v-4.172a2 2 0 0 0-.586-1.414L12 12l-4.414 4.414A2 2 0 0 0 7 17.828V22\"/><path d=\"M7 2v4.172a2 2 0 0 0 .586 1.414L12 12l4.414-4.414A2 2 0 0 0 17 6.172V2\"/>","house":"<path d=\"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8\"/><path d=\"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"/>","image":"<rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\" ry=\"2\"/><circle cx=\"9\" cy=\"9\" r=\"2\"/><path d=\"m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21\"/>","locate":"<line x1=\"2\" x2=\"5\" y1=\"12\" y2=\"12\"/><line x1=\"19\" x2=\"22\" y1=\"12\" y2=\"12\"/><line x1=\"12\" x2=\"12\" y1=\"2\" y2=\"5\"/><line x1=\"12\" x2=\"12\" y1=\"19\" y2=\"22\"/><circle cx=\"12\" cy=\"12\" r=\"7\"/>","map-pin":"<path d=\"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/>","moon":"<path d=\"M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z\"/>","person-standing":"<circle cx=\"12\" cy=\"5\" r=\"1\"/><path d=\"m9 20 3-6 3 6\"/><path d=\"m6 8 6 2 6-2\"/><path d=\"M12 10v4\"/>","phone":"<path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"/>","search":"<circle cx=\"11\" cy=\"11\" r=\"8\"/><path d=\"m21 21-4.3-4.3\"/>","share-2":"<circle cx=\"18\" cy=\"5\" r=\"3\"/><circle cx=\"6\" cy=\"12\" r=\"3\"/><circle cx=\"18\" cy=\"19\" r=\"3\"/><line x1=\"8.59\" x2=\"15.42\" y1=\"13.51\" y2=\"17.49\"/><line x1=\"15.41\" x2=\"8.59\" y1=\"6.51\" y2=\"10.49\"/>","shirt":"<path d=\"M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z\"/>","siren":"<path d=\"M7 18v-6a5 5 0 1 1 10 0v6\"/><path d=\"M5 21a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-1a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2z\"/><path d=\"M21 12h1\"/><path d=\"M18.5 4.5 18 5\"/><path d=\"M2 12h1\"/><path d=\"M12 2v1\"/><path d=\"m4.929 4.929.707.707\"/><path d=\"M12 12v6\"/>","sun-moon":"<path d=\"M12 8a2.83 2.83 0 0 0 4 4 4 4 0 1 1-4-4\"/><path d=\"M12 2v2\"/><path d=\"M12 20v2\"/><path d=\"m4.9 4.9 1.4 1.4\"/><path d=\"m17.7 17.7 1.4 1.4\"/><path d=\"M2 12h2\"/><path d=\"M20 12h2\"/><path d=\"m6.3 17.7-1.4 1.4\"/><path d=\"m19.1 4.9-1.4 1.4\"/>","sun":"<circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2\"/><path d=\"M12 20v2\"/><path d=\"m4.93 4.93 1.41 1.41\"/><path d=\"m17.66 17.66 1.41 1.41\"/><path d=\"M2 12h2\"/><path d=\"M20 12h2\"/><path d=\"m6.34 17.66-1.41 1.41\"/><path d=\"m19.07 4.93-1.41 1.41\"/>","thermometer-sun":"<path d=\"M12 9a4 4 0 0 0-2 7.5\"/><path d=\"M12 3v2\"/><path d=\"m6.6 18.4-1.4 1.4\"/><path d=\"M20 4v10.54a4 4 0 1 1-4 0V4a2 2 0 0 1 4 0Z\"/><path d=\"M4 13H2\"/><path d=\"M6.34 7.34 4.93 5.93\"/>","tree-palm":"<path d=\"M13 8c0-2.76-2.46-5-5.5-5S2 5.24 2 8h2l1-1 1 1h4\"/><path d=\"M13 7.14A5.82 5.82 0 0 1 16.5 6c3.04 0 5.5 2.24 5.5 5h-3l-1-1-1 1h-3\"/><path d=\"M5.89 9.71c-2.15 2.15-2.3 5.47-.35 7.43l4.24-4.25.7-.7.71-.71 2.12-2.12c-1.95-1.96-5.27-1.8-7.42.35\"/><path d=\"M11 15.5c.5 2.5-.17 4.5-1 6.5h4c2-5.5-.5-12-1-14\"/>","users":"<path d=\"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M22 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/>","wind":"<path d=\"M12.8 19.6A2 2 0 1 0 14 16H2\"/><path d=\"M17.5 8a2.5 2.5 0 1 1 2 4H2\"/><path d=\"M9.8 4.4A2 2 0 1 1 11 8H2\"/>","wine":"<path d=\"M8 22h8\"/><path d=\"M7 10h10\"/><path d=\"M12 15v7\"/><path d=\"M12 15a5 5 0 0 0 5-5c0-2-.5-4-2-8H9c-1.5 4-2 6-2 8a5 5 0 0 0 5 5Z\"/>","zap-off":"<path d=\"M10.513 4.856 13.12 2.17a.5.5 0 0 1 .86.46l-1.377 4.317\"/><path d=\"M15.656 10H20a1 1 0 0 1 .78 1.63l-1.72 1.773\"/><path d=\"M16.273 16.273 10.88 21.83a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14H4a1 1 0 0 1-.78-1.63l4.507-4.643\"/><path d=\"m2 2 20 20\"/>"};
+const EM="<b>Emergency signs:</b> confusion, fainting, fits, very hot skin, or no sweating in the heat. Move the person to shade, cool them with wet cloth and a fan, and call <b>112</b> or go to the nearest hospital now.";
+// Tips are [icon, text]; an avoid tip with a third value true is shown without the cross.
 const LV=[
-{max:27,c:"#23784a",n:{en:"Comfortable",pcm:"E dey okay"},s:{en:"Normal precautions are enough.",pcm:"Normal care go do."},
- w:{en:"Light cotton clothes are fine.",pcm:"Light cotton cloth dey fine."},
- d:{en:["Drink water through the day.","Check again when it gets hotter."],pcm:["Drink water all day.","Check am again when sun start to hot."]},
- a:{en:["Nothing special. Stay aware."],pcm:["Nothing special. Just dey alert."]}},
-{max:32,c:"#8a6100",n:{en:"Warm",pcm:"Weather don warm"},s:{en:"Be mindful, especially outdoors.",pcm:"Take care, especially if you dey outside."},
- w:{en:"Loose, light-coloured cotton. Avoid tight or dark synthetic clothes.",pcm:"Loose, light-colour cotton cloth. No wear tight or dark nylon-type cloth."},
- d:{en:["Carry water and sip often.","Take breaks in the shade.","Check again around midday."],pcm:["Carry water, sip am often.","Rest for shade small-small.","Check weather again for afternoon."]},
- a:{en:["Long hard work in direct sun.","Tight, dark clothes."],pcm:["Long hard work under sun.","Tight, dark cloth."]}},
-{max:39.5,c:"#c2410c",n:{en:"Hot",pcm:"Heat dey hot"},s:{en:"Heat can make people sick. Take it seriously.",pcm:"This heat fit make person sick. Take am serious."},
- w:{en:"Loose, light-coloured cotton. Wear a cap, hat or head wrap outdoors.",pcm:"Loose, light-colour cotton. Wear cap, hat or scarf if you dey outside."},
- d:{en:["Drink a cup of water every 20–30 minutes, even if you aren’t thirsty.","Do hard work early morning or evening.","Rest in shade or an airy room.","Wet a cloth and cool your neck, face and wrists.","Check on elders, babies and sick neighbours."],
- pcm:["Drink water every 20–30 minutes, even if thirst no dey.","Do hard work for early morning or evening.","Rest for shade or where air dey flow.","Wet cloth, put am for neck, face and wrist.","Check elders, babies and sick neighbours."]},
- a:{en:["Outdoor work from 11am to 4pm.","Alcohol and lots of sugary drinks.","Leaving anyone in a parked car or a shut room."],pcm:["Work under sun from 11am to 4pm.","Alcohol and plenty sweet drink.","Leaving anybody inside parked car or locked room."]}},
-{max:51,c:"#a61b29",n:{en:"Dangerous",pcm:"Heat dey dangerous"},s:{en:"Heat illness is likely if you stay out or work hard.",pcm:"Person fit fall sick if you stay outside or work hard."},
- w:{en:"Very light, loose cotton, plus a head cover. Wet your clothes or head cloth if you can.",pcm:"Very light, loose cotton and head cover. Wet your cloth or head tie if you fit."},
- d:{en:["Stay in the coolest place you have. Go out only if you must, early or late.","Drink water often. If you sweat a lot, use ORS too.","Cool the body: wet cloth, fan, shower or bucket bath.","Check on elders, babies and sick people every few hours.","Learn the heat stroke signs (see Stay safe)."],
- pcm:["Stay where e dey coolest. Go out only if e must, early or late.","Drink water often. If sweat dey pour well-well, take ORS too.","Cool your body: wet cloth, fan, bath or bucket bath.","Check elders, babies and sick people every few hours.","Learn heat stroke signs (see Stay safe)."]},
- a:{en:["Hard work or sports in the sun.","Crowded hot rooms with no airflow.","Waiting until you feel thirsty."],pcm:["Hard work or sports under sun.","Crowded hot room wey no get air.","Waiting till thirst catch you."]}},
-{max:999,c:"#6b0f1f",n:{en:"Extreme danger",pcm:"Extreme danger"},s:{en:"Treat this as an emergency. Stay inside and keep cool.",pcm:"This one na emergency. Stay inside, keep your body cool."},
- w:{en:"Minimum light clothing indoors. Keep clothes and head cloth wet.",pcm:"Light cloth only for inside. Keep cloth and head tie wet."},
- d:{en:["Do not go out. Stay in the coolest, shadiest room.","Keep cooling the body all day: wet cloth, fan, bath.","Drink water and ORS often.","Check on everyone at risk every hour.","Anyone confused, fainting or very hot: call 112 or go to hospital now."],
- pcm:["No go out. Stay for coolest, shadiest room.","Dey cool your body all day: wet cloth, fan, bath.","Drink water and ORS often.","Check everybody wey fit suffer every hour.","Anybody wey dey confuse, faint or too hot: call 112 or go hospital now."]},
- a:{en:["Any outdoor work or travel if it can wait.","Closed rooms with no air.","Giving alcohol or only soft drinks."],pcm:["Any outside work or journey wey fit wait.","Closed room wey no get air.","Alcohol or only soft drink."]}}
+{max:27,c:"#23784a",n:"Comfortable",s:"Normal precautions are enough.",
+ w:[["shirt","Light cotton clothes are fine."]],
+ d:[["glass-water","Drink water through the day."],["clock","Check again when it gets hotter."]],
+ a:[["eye","Nothing special. Stay aware.",true]]},
+{max:32,c:"#8a6100",n:"Warm",s:"Be mindful, especially outdoors.",
+ w:[["shirt","Loose, light-coloured cotton. Avoid tight or dark synthetic clothes."]],
+ d:[["glass-water","Carry water and sip often."],["tree-palm","Take breaks in the shade."],["clock","Check again around midday."]],
+ a:[["hammer","Long hard work in direct sun."],["shirt","Tight, dark clothes."]]},
+{max:39.5,c:"#c2410c",n:"Hot",s:"Heat can make people sick. Take it seriously.",
+ w:[["shirt","Loose, light-coloured cotton. Wear a cap, hat or head wrap outdoors."]],
+ d:[["glass-water","Drink a cup of water every 20–30 minutes, even if you aren’t thirsty."],["clock","Do hard work early morning or evening."],["tree-palm","Rest in shade or an airy room."],["droplets","Wet a cloth and cool your neck, face and wrists."],["users","Check on elders, babies and sick neighbours."]],
+ a:[["sun","Outdoor work from 11am to 4pm."],["wine","Alcohol and lots of sugary drinks."],["car","Leaving anyone in a parked car or a shut room."]]},
+{max:51,c:"#a61b29",n:"Dangerous",s:"Heat illness is likely if you stay out or work hard.",
+ w:[["shirt","Very light, loose cotton, plus a head cover. Wet your clothes or head cloth if you can."]],
+ d:[["house","Stay in the coolest place you have. Go out only if you must, early or late."],["glass-water","Drink water often. If you sweat a lot, use ORS too."],["fan","Cool the body: wet cloth, fan, shower or bucket bath."],["users","Check on elders, babies and sick people every few hours."],["heart-pulse","Learn the heat stroke signs (see Stay safe)."]],
+ a:[["hammer","Hard work or sports in the sun."],["door-closed","Crowded hot rooms with no airflow."],["hourglass","Waiting until you feel thirsty."]]},
+{max:999,c:"#6b0f1f",n:"Extreme danger",s:"Treat this as an emergency. Stay inside and keep cool.",
+ w:[["shirt","Minimum light clothing indoors. Keep clothes and head cloth wet."]],
+ d:[["house","Do not go out. Stay in the coolest, shadiest room."],["fan","Keep cooling the body all day: wet cloth, fan, bath."],["glass-water","Drink water and ORS often."],["users","Check on everyone at risk every hour."],["phone","Anyone confused, fainting or very hot: call 112 or go to hospital now."]],
+ a:[["sun","Any outdoor work or travel if it can wait."],["door-closed","Closed rooms with no air."],["wine","Giving alcohol or only soft drinks."]]}
 ];
-const UI={
-en:{sub:"Heat guide for Nigeria",t1:"Today",t2:"Stay safe",t3:"Words",hq:"What is the heat like where you are?",tl:"Temperature",hl:"Humidity",loc:"Use my location",lm:"Or read the temperature and humidity from your phone’s weather app and enter them above.",lmfail:"Live data isn’t available here. Enter the temperature and humidity above.",lmask:"Finding your location…",wh:"What to wear",dh:"Do",ah:"Avoid",feels:"Feels like",em:"<b>Emergency signs:</b> confusion, fainting, fits, very hot skin, or no sweating in the heat. Move the person to shade, cool them with wet cloth and a fan, and call <b>112</b> or go to the nearest hospital now.",share:"Share today’s heat advice on WhatsApp",pic:"Share as a picture",sh:"Heat advice",ph:"Search a word, e.g. El Niño",foot:"Version 1. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.",none:"No match found."},
-pcm:{sub:"Heat guide for Naija",t1:"Today",t2:"Stay safe",t3:"Words",hq:"How the heat be for where you dey?",tl:"Temperature",hl:"Humidity",loc:"Use my location",lm:"Or check temperature and humidity for your phone weather app, then put am for up.",lmfail:"Live data no dey here. Put the temperature and humidity for up.",lmask:"We dey find where you dey…",wh:"Wetin to wear",dh:"Wetin to do",ah:"Wetin to avoid",feels:"E dey feel like",em:"<b>Emergency signs:</b> person dey confuse, faint, shake body, skin dey too hot, or sweat no dey come for heat. Carry am go shade, cool am with wet cloth and fan, then call <b>112</b> or rush am go hospital now.",share:"Share today heat advice for WhatsApp",pic:"Share as picture",sh:"Heat advice",ph:"Search word, like El Niño",foot:"Version 1. This na general guide, no be doctor. If person sick well-well, go clinic or hospital.",none:"We no see am."}
-};
 const SAFE=[
-{h:{en:"Stay cool without power",pcm:"How to stay cool without light"},b:{en:["Open windows on opposite sides of the room so air can pass through, especially at night.","Hang a wet cloth or wet sack over a sunny window or doorway.","Stay on the lowest, shadiest floor. Sit under a tree if the room is hotter than outside.","Cool your neck, wrists, armpits and face with a wet cloth.","Cook early morning or evening, and outside if you can."],pcm:["Open window for both sides of the room so air go pass, especially for night.","Hang wet cloth or wet sack for window or door wey sun dey enter.","Stay for the lowest, shadiest floor. Sit under tree if room hotter pass outside.","Cool neck, wrist, armpit and face with wet cloth.","Cook for early morning or evening, and outside if you fit."]}},
-{h:{en:"Water and ORS",pcm:"Water and ORS"},b:{en:["Sip water through the day. Don’t wait for thirst.","If you sweat a lot, have diarrhoea or vomit, use an ORS sachet. Mix it with exactly the amount of clean water written on the pack.","Drink only clean or treated water. Boil, filter or treat it if you are unsure.","Limit alcohol and very sugary drinks."],pcm:["Sip water all day. No wait for thirst.","If you sweat plenty, run belle or vomit, use ORS sachet. Mix am with the exact quantity of clean water wey dem write for the pack.","Drink only clean or treated water. Boil, filter or treat am if you no sure.","Reduce alcohol and sweet drink."]}},
-{h:{en:"Who is at most risk",pcm:"Who dey most at risk"},b:{en:["Babies and young children","Elders and people who live alone","Pregnant women","People with heart, kidney, diabetes or other long-term illness","Outdoor workers: farmers, traders, builders, drivers, bike riders"],pcm:["Babies and small children","Elders and people wey dey live alone","Pregnant women","People wey get heart, kidney, sugar or other long sickness","People wey dey work outside: farmers, traders, builders, drivers, okada riders"]}},
-{h:{en:"Heat stroke: act fast",pcm:"Heat stroke: act fast"},b:{en:["Signs: confusion, severe headache, fainting, fits, very hot skin, fast pulse, or no sweating.","Move the person to shade. Remove extra clothes.","Cool with wet cloth, fanning and water on the skin.","Give sips of water only if they are awake and alert.","Call 112 or take them to the nearest hospital now."],pcm:["Signs: confusion, serious headache, faint, fits, skin too hot, fast pulse, or sweat no dey come.","Carry the person go shade. Remove extra cloth.","Cool am with wet cloth, fan and water for skin.","Give small water only if the person dey awake and alert.","Call 112 or carry am go nearest hospital now."]}}
+{i:"zap-off",h:"Stay cool without power",b:["Open windows on opposite sides of the room so air can pass through, especially at night.","Hang a wet cloth or wet sack over a sunny window or doorway.","Stay on the lowest, shadiest floor. Sit under a tree if the room is hotter than outside.","Cool your neck, wrists, armpits and face with a wet cloth.","Cook early morning or evening, and outside if you can."]},
+{i:"glass-water",h:"Water and ORS",b:["Sip water through the day. Don’t wait for thirst.","If you sweat a lot, have diarrhoea or vomit, use an ORS sachet. Mix it with exactly the amount of clean water written on the pack.","Drink only clean or treated water. Boil, filter or treat it if you are unsure.","Limit alcohol and very sugary drinks."]},
+{i:"users",h:"Who is at most risk",b:["Babies and young children","Elders and people who live alone","Pregnant women","People with heart, kidney, diabetes or other long-term illness","Outdoor workers: farmers, traders, builders, drivers, bike riders"]},
+{i:"siren",h:"Heat stroke: act fast",b:["Signs: confusion, severe headache, fainting, fits, very hot skin, fast pulse, or no sweating.","Move the person to shade. Remove extra clothes.","Cool with wet cloth, fanning and water on the skin.","Give sips of water only if they are awake and alert.","Call 112 or take them to the nearest hospital now."]}
 ];
 const WORDS=[
 ["El Niño","A natural warming of the central and eastern Pacific Ocean that changes weather around the world. It often pushes global temperatures up and shifts where rain falls, but effects differ from place to place."],
@@ -143,8 +183,15 @@ const WORDS=[
 ["Harmattan","A dry, dusty wind from the Sahara that blows over West Africa, mostly from November to March. It brings dry air, haze and cooler nights."],
 ["Early warning","A message that tells people a hazard is coming in time to prepare, such as a heat or flood alert."]
 ];
-let S={t:34,h:60,l:"en",tab:"today"};
+
+// place: {name, lat, lon}; at: time of the live reading (ms); manual: sliders moved since then.
+let S={t:34,h:60,tab:"today",place:null,at:0,manual:false,theme:"auto"};
 const $=id=>document.getElementById(id);
+const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const svg=n=>'<svg class="i" viewBox="0 0 24 24" aria-hidden="true">'+(IC[n]||"")+"</svg>";
+document.querySelectorAll("[data-ic]").forEach(e=>e.outerHTML=svg(e.dataset.ic));
+
 function hiC(tc,rh){const T=tc*9/5+32;let hi=0.5*(T+61+(T-68)*1.2+rh*0.094);
  if((hi+T)/2>=80){hi=-42.379+2.04901523*T+10.14333127*rh-0.22475541*T*rh-0.00683783*T*T-0.05481717*rh*rh+0.00122874*T*T*rh+0.00085282*T*rh*rh-0.00000199*T*T*rh*rh;
  if(rh<13&&T>=80&&T<=112)hi-=((13-rh)/4)*Math.sqrt((17-Math.abs(T-95))/17);
@@ -154,69 +201,175 @@ function hiC(tc,rh){const T=tc*9/5+32;let hi=0.5*(T+61+(T-68)*1.2+rh*0.094);
 // gives numbers nobody experiences (e.g. 86°C), so show "55+" instead.
 function shown(hi){const n=Math.round(hi);return n>55?"55+":String(n)}
 function lvl(v){return LV.find(x=>v<x.max)}
-function lst(a){return a.map(x=>"<li>"+x+"</li>").join("")}
-function render(){
- const L=S.l,u=UI[L];
- document.documentElement.lang=L==="en"?"en":"pcm";
- $("sub").textContent=u.sub;$("t-today").textContent=u.t1;$("t-safe").textContent=u.t2;$("t-words").textContent=u.t3;
- $("l-en").setAttribute("aria-pressed",L==="en");$("l-pcm").setAttribute("aria-pressed",L==="pcm");
- ["today","safe","words"].forEach(k=>{$("v-"+k).hidden=S.tab!==k;$("t-"+k).setAttribute("aria-selected",S.tab===k)});
- $("hq").textContent=u.hq;$("tl").textContent=u.tl;$("hl").textContent=u.hl;$("loc").textContent=u.loc;
- $("tv").textContent=S.t+"°C";$("hv").textContent=S.h+"%";
- if(!$("locmsg").dataset.k)$("locmsg").textContent=u.lm;else $("locmsg").textContent=u[$("locmsg").dataset.k];
- const hi=hiC(S.t,S.h),lv=lvl(hi);
- $("band").style.background=lv.c;$("hi").textContent=shown(hi);
- $("lvl").textContent=u.feels+" · "+lv.n[L];$("lvlsub").textContent=lv.s[L];
- $("wh").textContent=u.wh;$("wear").textContent=lv.w[L];
- $("dh").textContent=u.dh;$("do").innerHTML=lst(lv.d[L]);
- $("ah").textContent=u.ah;$("avoid").innerHTML=lst(lv.a[L]);
- const hot=hi>=32;$("em").hidden=!hot;$("em").innerHTML=u.em;
- $("share").textContent=u.share;$("pic").textContent=u.pic;
- const msg="Reezr Heat: "+shown(hi)+"°C feels-like ("+lv.n.en+"). "+lv.s.en+" Drink water often, avoid the sun from 11am to 4pm, check on elders and children. Emergency: 112.";
- $("share").href="https://wa.me/?text="+encodeURIComponent(msg);
- $("v-safe").innerHTML=SAFE.map(s=>"<div class='panel'><h3>"+s.h[L]+"</h3><ul>"+lst(s.b[L])+"</ul></div>").join("");
- $("q").placeholder=u.ph;drawWords();$("foot").textContent=u.foot;
+const fmtTime=ms=>new Date(ms).toLocaleTimeString("en-NG",{hour:"numeric",minute:"2-digit",hour12:true});
+const fmtDay=ms=>new Date(ms).toLocaleDateString("en-NG",{weekday:"short",day:"numeric",month:"short"});
+// One line saying where the reading is from and how it was taken.
+function whereText(){
+ if(!S.place)return {p:"Your reading",w:"Set your place below for live heat"};
+ const r=S.t+"°C, "+S.h+"% humidity";
+ if(S.manual)return {p:S.place.name,w:"Adjusted by hand · "+r};
+ return {p:S.place.name,w:"Live reading "+fmtTime(S.at)+", "+fmtDay(S.at)+" · "+r};
 }
+function tips(list,avoid){return list.map(([i,t,plain])=>"<li><span class='tic"+(avoid&&!plain?" x":"")+"'>"+svg(i)+"</span><span>"+t+"</span></li>").join("")}
+
+function render(){
+ ["today","safe","words"].forEach(k=>{$("v-"+k).hidden=S.tab!==k;$("t-"+k).setAttribute("aria-selected",S.tab===k)});
+ ["auto","light","dark"].forEach(k=>$("th-"+k).setAttribute("aria-pressed",S.theme===k));
+ $("t").value=S.t;$("h").value=S.h;$("tv").textContent=S.t+"°C";$("hv").textContent=S.h+"%";
+ const hi=hiC(S.t,S.h),lv=lvl(hi),wt=whereText();
+ $("band").style.background=lv.c;$("hi").textContent=shown(hi);
+ $("place").textContent=wt.p;$("when").textContent=wt.w;
+ $("lvl").textContent="Feels like · "+lv.n;$("lvlsub").textContent=lv.s;
+ $("wear").innerHTML=tips(lv.w);$("do").innerHTML=tips(lv.d);$("avoid").innerHTML=tips(lv.a,true);
+ $("em").hidden=hi<32;$("em").innerHTML=EM;
+}
+function drawSafe(){$("v-safe").innerHTML=SAFE.map(s=>"<div class='panel'><h3>"+svg(s.i)+s.h+"</h3><ul>"+s.b.map(x=>"<li>"+x+"</li>").join("")+"</ul></div>").join("")}
 function drawWords(){const q=$("q").value.trim().toLowerCase();
  const r=WORDS.filter(w=>!q||w[0].toLowerCase().includes(q)||w[1].toLowerCase().includes(q));
- $("terms").innerHTML=r.length?r.map(w=>"<div class='term'><b>"+w[0]+"</b>"+w[1]+"</div>").join(""):UI[S.l].none;}
-$("t").oninput=e=>{S.t=+e.target.value;render()};
-$("h").oninput=e=>{S.h=+e.target.value;render()};
-$("l-en").onclick=()=>{S.l="en";render()};$("l-pcm").onclick=()=>{S.l="pcm";render()};
-["today","safe","words"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render()});
-$("q").oninput=drawWords;
-function wrap(g,t,x,y,w,lh){const ws=t.split(" ");let l="";for(const k of ws){const n=l?l+" "+k:k;if(g.measureText(n).width>w&&l){g.fillText(l,x,y);y+=lh;l=k}else l=n}g.fillText(l,x,y);return y+lh}
-$("pic").onclick=async()=>{
- const L=S.l,u=UI[L],hi=hiC(S.t,S.h),lv=lvl(hi),W=1080,H=1350,c=document.createElement("canvas");c.width=W;c.height=H;const g=c.getContext("2d");
- const hf='"Bricolage Grotesque","Trebuchet MS",sans-serif',bf='"Instrument Sans",system-ui,sans-serif';
- try{await Promise.all([document.fonts.load('800 60px "Bricolage Grotesque"'),document.fonts.load('500 30px "Instrument Sans"')])}catch(e){}
- g.fillStyle="#fff";g.fillRect(0,0,W,H);g.fillStyle=lv.c;g.fillRect(0,0,W,600);
- g.fillStyle="#fff";g.textBaseline="alphabetic";
- g.font="600 38px "+bf;g.fillText("Reezr Heat · "+new Date().toLocaleDateString("en-NG",{weekday:"long",day:"numeric",month:"long"}),60,86);
- const n=shown(hi);g.font="800 250px "+hf;g.fillText(n,60,340);
- const nw=g.measureText(n).width;g.font="600 80px "+hf;g.fillText("°C",60+nw+12,340);
- g.font="800 62px "+hf;g.fillText(u.feels+" · "+lv.n[L],60,430);
- g.font="500 38px "+bf;wrap(g,lv.s[L],60,490,960,48);
- g.fillStyle="#12202b";g.font="800 54px "+hf;g.fillText(u.dh,60,690);
- g.font="500 38px "+bf;let y=755;
- for(const t of lv.d[L].slice(0,3)){g.fillText("•",60,y);y=wrap(g,t,105,y,915,50)+14}
- g.fillStyle=lv.c;g.fillRect(60,1235,960,4);
- g.fillStyle="#51606c";g.font="600 36px "+bf;g.fillText(L==="en"?"Emergency: call 112. Share with your family.":"Emergency: call 112. Share am with your people.",60,1295);
- const b=await new Promise(r=>c.toBlob(r,"image/png"));
- const f=new File([b],"reezr-heat-"+new Date().toISOString().slice(0,10)+".png",{type:"image/png"});
- try{if(navigator.canShare&&navigator.canShare({files:[f]})){await navigator.share({files:[f]});return}}catch(e){if(e&&e.name==="AbortError")return}
- const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=f.name;document.body.appendChild(a);a.click();a.remove();
-};
-function fail(){$("locmsg").dataset.k="lmfail";render()}
+ $("terms").innerHTML=r.length?r.map(w=>"<div class='term'><b>"+w[0]+"</b>"+w[1]+"</div>").join(""):"No match found.";}
+
+// Theme: "auto" follows the phone's setting.
+function setTheme(t){S.theme=t;store.set("rh-theme",t);
+ if(t==="auto")delete document.documentElement.dataset.theme;else document.documentElement.dataset.theme=t;
+ syncThemeColor();render()}
+function syncThemeColor(){const dark=S.theme==="dark"||(S.theme==="auto"&&matchMedia("(prefers-color-scheme: dark)").matches);$("tc").content=dark?"#0b141a":"#eef4f6"}
+try{matchMedia("(prefers-color-scheme: dark)").addEventListener("change",syncThemeColor)}catch(e){}
+
+// Live reading for a place. Open-Meteo gives current temperature and humidity.
+async function loadPlace(place,quiet){
+ $("locmsg").textContent=quiet?"":"Getting the live reading for "+place.name+"…";
+ try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m");
+  if(!r.ok)throw 0;const j=await r.json();
+  S.t=Math.min(50,Math.max(20,Math.round(j.current.temperature_2m)));S.h=Math.min(100,Math.max(10,Math.round(j.current.relative_humidity_2m)));
+  S.place=place;S.at=Date.now();S.manual=false;
+  store.set("rh-last",{place,t:S.t,h:S.h,at:S.at});
+  $("locmsg").textContent="";
+ }catch(e){
+  const last=store.get("rh-last");
+  if(last&&last.place&&last.place.name===place.name){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.manual=false;
+   $("locmsg").textContent="No connection. Showing the last reading for "+place.name+".";}
+  else $("locmsg").textContent="Couldn’t get live data right now. Check your connection, or set the reading yourself below.";
+ }
+ render();
+}
+function nameFromBdc(j){const a=j.locality||j.city,b=j.principalSubdivision;return [a,b&&b!==a?b:""].filter(Boolean).join(", ")||j.countryName||"Your location"}
 $("loc").onclick=()=>{
- if(!navigator.geolocation)return fail();
- $("locmsg").dataset.k="lmask";render();
+ if(!navigator.geolocation){$("locmsg").textContent="Location isn’t available on this device. Search your town instead.";return}
+ $("locmsg").textContent="Finding your location…";
  navigator.geolocation.getCurrentPosition(async p=>{
-  try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+p.coords.latitude+"&longitude="+p.coords.longitude+"&current=temperature_2m,relative_humidity_2m");
-   const j=await r.json();S.t=Math.min(50,Math.max(20,Math.round(j.current.temperature_2m)));S.h=Math.min(100,Math.max(10,Math.round(j.current.relative_humidity_2m)));
-   $("t").value=S.t;$("h").value=S.h;delete $("locmsg").dataset.k;render();}catch(e){fail()}
- },fail,{timeout:10000});};
-render();
+  // Two decimals is about 1 km: enough for weather, and the exact spot never leaves the phone.
+  const lat=+p.coords.latitude.toFixed(2),lon=+p.coords.longitude.toFixed(2);let name="Your location";
+  try{const r=await fetch("https://api-bdc.io/data/reverse-geocode-client?latitude="+lat+"&longitude="+lon+"&localityLanguage=en");if(r.ok)name=nameFromBdc(await r.json())}catch(e){}
+  loadPlace({name,lat,lon});
+ },()=>{$("locmsg").textContent="Couldn’t get your location. Allow location for this site, or search your town instead."},{timeout:15000,maximumAge:600000});
+};
+// Town search, Nigerian results first.
+let qT=0,qN=0;
+$("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
+ if(q.length<2){$("results").innerHTML="";return}
+ qT=setTimeout(async()=>{const n=++qN;
+  try{const r=await fetch("https://geocoding-api.open-meteo.com/v1/search?count=8&language=en&name="+encodeURIComponent(q));const j=await r.json();if(n!==qN)return;
+   const res=(j.results||[]).sort((a,b)=>(b.country_code==="NG")-(a.country_code==="NG")).slice(0,5);
+   $("results").innerHTML=res.length?res.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+esc([x.admin1,x.country].filter(Boolean).join(", "))+"</small></button>").join(""):"<div class='note'>No town found. Check the spelling.</div>";
+   $("results").querySelectorAll("button").forEach(b=>b.onclick=()=>{const x=res[+b.dataset.i];
+    $("results").innerHTML="";$("town").value="";
+    loadPlace({name:[x.name,x.admin1&&x.admin1!==x.name?x.admin1:""].filter(Boolean).join(", "),lat:+x.latitude.toFixed(2),lon:+x.longitude.toFixed(2)})});
+  }catch(err){if(n===qN)$("results").innerHTML="<div class='note'>Search needs an internet connection.</div>"}
+ },350)};
+$("t").oninput=e=>{S.t=+e.target.value;S.manual=true;render()};
+$("h").oninput=e=>{S.h=+e.target.value;S.manual=true;render()};
+["today","safe","words"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render()});
+["auto","light","dark"].forEach(k=>$("th-"+k).onclick=()=>setTheme(k));
+$("q").oninput=drawWords;
+
+// Share link: opens the app on the same town for whoever receives it.
+function shareUrl(){const u=new URL(location.origin+"/");
+ if(S.place&&!S.manual){u.searchParams.set("place",S.place.name);u.searchParams.set("lat",S.place.lat);u.searchParams.set("lon",S.place.lon)}
+ return u.toString()}
+function flash(id,text){const e=$(id),old=e.dataset.l||e.textContent;e.dataset.l=old;e.textContent=text;setTimeout(()=>e.textContent=old,2500)}
+$("share").onclick=async()=>{
+ const url=shareUrl(),text=S.place&&!S.manual?"How hot it feels in "+S.place.name+" right now, and how to stay safe:":"Check how hot it feels where you are, and how to stay safe:";
+ $("sharemsg").textContent="";
+ try{if(navigator.share){await navigator.share({title:"Reezr Heat",text,url});return}}catch(e){if(e&&e.name==="AbortError")return}
+ try{await navigator.clipboard.writeText(url);flash("share-l","Link copied");$("sharemsg").textContent="Paste it into WhatsApp, SMS or anywhere."}
+ catch(e){$("sharemsg").textContent="Copy this link: "+url}
+};
+
+// Share as a picture: the full advice for this reading, with pictograms, place and time.
+// Split text into lines that fit width w in the current font.
+function lines(g,t,w){const out=[];let l="";for(const k of t.split(" ")){const n=l?l+" "+k:k;if(g.measureText(n).width>w&&l){out.push(l);l=k}else l=n}out.push(l);return out}
+function iconImg(name,color){return new Promise(r=>{const i=new Image();i.onload=()=>r(i);i.onerror=()=>r(null);
+ i.src="data:image/svg+xml,"+encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 24 24" fill="none" stroke="'+color+'" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'+(IC[name]||"")+"</svg>")})}
+function imgLoad(src){return new Promise(r=>{const i=new Image();i.onload=()=>r(i);i.onerror=()=>r(null);i.src=src})}
+async function makePicture(){
+ const hi=hiC(S.t,S.h),lv=lvl(hi),wt=whereText(),W=1080,P=60,TW=W-2*P;
+ const hf='"Bricolage Grotesque","Trebuchet MS",sans-serif',bf='"Instrument Sans",system-ui,sans-serif';
+ try{await Promise.all([document.fonts.load('800 60px "Bricolage Grotesque"'),document.fonts.load('500 30px "Instrument Sans"'),document.fonts.load('600 30px "Instrument Sans"')])}catch(e){}
+ const GO="#23784a",GOB="#e3f3e9",NO="#b42318",NOB="#fde8e6",INK="#12202b";
+ const names=[...new Set([...lv.w,...lv.d,...lv.a].map(x=>x[0]))],icD={},icA={};
+ await Promise.all(names.map(async n=>{icD[n]=await iconImg(n,GO);icA[n]=await iconImg(n,NO)}));
+ const pin=await iconImg("map-pin","#ffffff"),logo=await imgLoad("icons/logo-mark.png");
+ // Draw on a tall canvas, then crop to the height actually used.
+ const c=document.createElement("canvas");c.width=W;c.height=4200;const g=c.getContext("2d");
+ g.fillStyle="#fff";g.fillRect(0,0,W,c.height);g.textBaseline="alphabetic";
+ // Coloured top: measure first so the background can be painted before the text.
+ g.font="700 44px "+bf;const pL=lines(g,wt.p,TW-56);
+ g.font="500 30px "+bf;const wL=lines(g,wt.w,TW-56);
+ g.font="500 36px "+bf;const sL=lines(g,lv.s,TW);
+ const yLogo=P+50,yPlace=yLogo+90,yWhen=yPlace+(pL.length-1)*52+44,yBig=yWhen+(wL.length-1)*40+200,yLvl=yBig+82,ySent=yLvl+58;
+ let y=ySent+(sL.length-1)*48+46;
+ g.fillStyle=lv.c;g.fillRect(0,0,W,y);g.fillStyle="#fff";
+ if(logo){const lh=56,lw=logo.width*lh/logo.height;g.drawImage(logo,P,yLogo-lh+8,lw,lh);g.font="800 52px "+hf;g.fillText("eezr Heat",P+lw+2,yLogo)}
+ else{g.font="800 52px "+hf;g.fillText("Reezr Heat",P,yLogo)}
+ g.font="600 30px "+bf;g.textAlign="right";g.fillText("reezrheat.com",W-P,yLogo);g.textAlign="left";
+ if(pin)g.drawImage(pin,P,yPlace-38,44,44);
+ g.font="700 44px "+bf;pL.forEach((l,i)=>g.fillText(l,P+56,yPlace+i*52));
+ g.font="500 30px "+bf;wL.forEach((l,i)=>g.fillText(l,P+56,yWhen+i*40));
+ const n=shown(hi);g.font="800 210px "+hf;g.fillText(n,P,yBig);
+ const nw=g.measureText(n).width;g.font="600 72px "+hf;g.fillText("°C",P+nw+12,yBig);
+ g.font="800 60px "+hf;g.fillText("Feels like · "+lv.n,P,yLvl);
+ g.font="500 36px "+bf;sL.forEach((l,i)=>g.fillText(l,P,ySent+i*48));
+ // Advice, one pictogram per tip.
+ const section=(title,color,list,avoid)=>{
+  y+=76;g.fillStyle=color;g.font="800 50px "+hf;g.fillText(title,P,y);y+=30;
+  for(const [ic,t,plain] of list){
+   g.font="500 36px "+bf;const L=lines(g,t,TW-110),th=L.length*46,rowH=Math.max(80,th+10),cy=y+rowH/2;
+   g.fillStyle=avoid?NOB:GOB;g.beginPath();g.arc(P+40,cy,40,0,Math.PI*2);g.fill();
+   const im=(avoid?icA:icD)[ic];if(im)g.drawImage(im,P+16,cy-24,48,48);
+   if(avoid&&!plain){g.save();g.translate(P+40,cy);g.rotate(-Math.PI/4);g.fillStyle=NO;g.fillRect(-34,-3,68,6);g.restore()}
+   g.fillStyle=INK;L.forEach((l,i)=>g.fillText(l,P+110,cy-th/2+34+i*46));
+   y+=rowH+22;
+  }
+ };
+ section("What to wear",GO,lv.w,false);
+ section("Do",GO,lv.d,false);
+ section("Avoid",NO,lv.a,true);
+ if(hi>=32){y+=40;g.font="500 34px "+bf;const L=lines(g,EM.replace(/<[^>]+>/g,""),TW-70),h=L.length*44+44;
+  g.fillStyle="#fdecea";g.fillRect(P,y,TW,h);g.fillStyle=NO;g.fillRect(P,y,10,h);
+  g.fillStyle=INK;L.forEach((l,i)=>g.fillText(l,P+40,y+56+i*44));y+=h;}
+ y+=56;g.fillStyle=lv.c;g.fillRect(P,y,TW,4);y+=64;
+ g.fillStyle="#51606c";g.font="600 34px "+bf;g.fillText("Emergency: call 112. Share with your family.",P,y);
+ y+=50;g.font="500 30px "+bf;g.fillText("Live heat advice for your town: reezrheat.com",P,y);y+=54;
+ const out=document.createElement("canvas");out.width=W;out.height=y;out.getContext("2d").drawImage(c,0,0);
+ return out;
+}
+$("pic").onclick=async()=>{
+ $("pic").disabled=true;$("sharemsg").textContent="";
+ try{const c=await makePicture();const b=await new Promise(r=>c.toBlob(r,"image/png"));
+  const f=new File([b],"reezr-heat-"+new Date().toISOString().slice(0,10)+".png",{type:"image/png"});
+  try{if(navigator.canShare&&navigator.canShare({files:[f]})){await navigator.share({files:[f],title:"Reezr Heat"});return}}catch(e){if(e&&e.name==="AbortError")return}
+  const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=f.name;document.body.appendChild(a);a.click();a.remove();
+  $("sharemsg").textContent="Picture saved to your downloads.";
+ }catch(e){$("sharemsg").textContent="Couldn’t make the picture. Please try again."}
+ finally{$("pic").disabled=false}
+};
+
+// Start: a shared link's town first, then the last town used on this phone.
+S.theme=store.get("rh-theme")||"auto";syncThemeColor();
+drawSafe();drawWords();render();
+(()=>{const q=new URLSearchParams(location.search),lat=parseFloat(q.get("lat")),lon=parseFloat(q.get("lon"));
+ if(isFinite(lat)&&isFinite(lon)&&Math.abs(lat)<=90&&Math.abs(lon)<=180)return loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2)});
+ const last=store.get("rh-last");if(last&&last.place)loadPlace(last.place,true);})();
 if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))}
 </script>
 </body>
