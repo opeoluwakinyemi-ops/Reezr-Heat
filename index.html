@@ -132,7 +132,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 <div class="panel" id="terms"></div>
 </section>
 
-<footer>Live readings come from the Open-Meteo weather model and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer>Live readings come from the Open-Meteo weather model and are usually within 1–2°C of nearby weather stations. Because the model tends to run slightly cool in Nigeria, live “feels like” readings include a 1°C safety margin. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
@@ -200,6 +200,11 @@ function hiC(tc,rh){const T=tc*9/5+32;let hi=0.5*(T+61+(T-68)*1.2+rh*0.094);
 // The heat index formula is only meant for values up to about 55-58°C; past that it
 // gives numbers nobody experiences (e.g. 86°C), so show "55+" instead.
 function shown(hi){const n=Math.round(hi);return n>55?"55+":String(n)}
+// Checked against 555 hourly reports from 21 Nigerian weather stations (Oct 2026): the
+// weather model's feels-like ran about 1°C cooler than the stations, so live readings add
+// 1°C to lean towards warning. Readings set by hand are used as entered.
+const MARGIN=1;
+const feels=()=>hiC(S.t,S.h)+(S.place&&!S.manual?MARGIN:0);
 function lvl(v){return LV.find(x=>v<x.max)}
 const fmtTime=ms=>new Date(ms).toLocaleTimeString("en-NG",{hour:"numeric",minute:"2-digit",hour12:true});
 const fmtDay=ms=>new Date(ms).toLocaleDateString("en-NG",{weekday:"short",day:"numeric",month:"short"});
@@ -216,7 +221,7 @@ function render(){
  ["today","safe","words"].forEach(k=>{$("v-"+k).hidden=S.tab!==k;$("t-"+k).setAttribute("aria-selected",S.tab===k)});
  ["light","dark"].forEach(k=>$("th-"+k).setAttribute("aria-pressed",isDark()===(k==="dark")));
  $("t").value=S.t;$("h").value=S.h;$("tv").textContent=Math.round(S.t)+"°C";$("hv").textContent=Math.round(S.h)+"%";
- const hi=hiC(S.t,S.h),lv=lvl(hi),wt=whereText();
+ const hi=feels(),lv=lvl(hi),wt=whereText();
  $("band").style.background=lv.c;$("hi").textContent=shown(hi);
  $("place").textContent=wt.p;$("when").textContent=wt.w;
  $("lvl").textContent="Feels like · "+lv.n;$("lvlsub").textContent=lv.s;
@@ -310,7 +315,7 @@ function iconImg(name,color){return new Promise(r=>{const i=new Image();i.onload
  i.src="data:image/svg+xml,"+encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 24 24" fill="none" stroke="'+color+'" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'+(IC[name]||"")+"</svg>")})}
 function imgLoad(src){return new Promise(r=>{const i=new Image();i.onload=()=>r(i);i.onerror=()=>r(null);i.src=src})}
 async function makePicture(){
- const hi=hiC(S.t,S.h),lv=lvl(hi),wt=whereText(),W=1080,P=60,TW=W-2*P;
+ const hi=feels(),lv=lvl(hi),wt=whereText(),W=1080,P=60,TW=W-2*P;
  const hf='"Bricolage Grotesque","Trebuchet MS",sans-serif',bf='"Instrument Sans",system-ui,sans-serif';
  try{await Promise.all([document.fonts.load('800 60px "Bricolage Grotesque"'),document.fonts.load('500 30px "Instrument Sans"'),document.fonts.load('600 30px "Instrument Sans"')])}catch(e){}
  const GO="#23784a",GOB="#e3f3e9",NO="#b42318",NOB="#fde8e6",INK="#12202b";
