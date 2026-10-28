@@ -1,0 +1,10 @@
+// Cloudflare Worker "reezrheat": serves this folder as static files, no server code.
+// Connected to this GitHub repo via Workers Builds; every push to main redeploys it.
+// The name must match the Worker in the dashboard.
+{
+  "name": "reezrheat",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "."
+  }
+}

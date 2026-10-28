@@ -1,0 +1,6 @@
+# Repo files that should not be served publicly.
+wrangler.jsonc
+README.txt
+.assetsignore
+.wrangler
+.gitignore
