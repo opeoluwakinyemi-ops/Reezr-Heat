@@ -1,2 +1,4 @@
 # Wrangler local state (Cloudflare CLI)
 .wrangler/
+.dev.vars
+node_modules/

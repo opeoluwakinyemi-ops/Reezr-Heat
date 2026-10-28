@@ -132,7 +132,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 <div class="panel" id="terms"></div>
 </section>
 
-<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Live readings come from the Open-Meteo weather model and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>We count anonymous visits and shares to show how many people Reezr Heat reaches. No names, phone numbers or locations are collected.<br><br>Live readings come from the Open-Meteo weather model and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
@@ -190,6 +190,33 @@ const WORDS=[
 let S={t:34,h:60,tab:"today",place:null,at:0,manual:false,theme:"auto"};
 const $=id=>document.getElementById(id);
 const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+
+// Anonymous usage counts for reports (worker.js lists exactly what is stored). Each phone
+// gets a random ID; no names, numbers or locations are sent. Open the site once with
+// ?notrack=1 to stop counting this phone (for testing), ?notrack=0 to undo.
+const track=(()=>{
+ const nt=new URLSearchParams(location.search).get("notrack");
+ if(nt==="1")store.set("rh-notrack",true);else if(nt==="0")store.set("rh-notrack",false);
+ const off=store.get("rh-notrack")===true;
+ const rid=()=>crypto.randomUUID?crypto.randomUUID():Date.now().toString(36)+"-"+Math.random().toString(36).slice(2,14);
+ let dev=store.get("rh-id");const isNew=!dev;if(!dev){dev=rid();store.set("rh-id",dev)}
+ const ses=rid();let q=store.get("rh-q")||[],timer=0,busy=false,shownAt=document.visibilityState==="visible"?performance.now():null;
+ const save=()=>store.set("rh-q",q.slice(-200)),body=b=>JSON.stringify({d:dev,s:ses,ev:b});
+ // Events wait on the phone until they're sent, so offline use is counted later.
+ async function flush(){
+  if(off||busy||!q.length||!navigator.onLine)return;busy=true;const b=q.slice(0,30);
+  try{const r=await fetch("/api/e",{method:"POST",headers:{"content-type":"application/json"},body:body(b),keepalive:true});if(r.ok){q=q.slice(b.length);save()}}catch(e){}
+  busy=false;if(q.length)timer=setTimeout(flush,5000)}
+ function beacon(){if(off||!q.length||!navigator.sendBeacon)return;const b=q.slice(0,30);
+  try{if(navigator.sendBeacon("/api/e",new Blob([body(b)],{type:"application/json"}))){q=q.slice(b.length);save()}}catch(e){}}
+ function track(n,p){if(off)return;q.push({n,p:p||{},t:Date.now(),s:ses});save();clearTimeout(timer);timer=setTimeout(flush,1500)}
+ // Time used: seconds the page was on screen, sent each time it's hidden.
+ function hidden(){if(shownAt===null)return;track("hide",{secs:(performance.now()-shownAt)/1000});shownAt=null;beacon()}
+ document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="hidden")hidden();else shownAt=performance.now()});
+ addEventListener("pagehide",hidden);addEventListener("online",flush);
+ addEventListener("appinstalled",()=>track("install"));
+ track.isNew=isNew;timer=setTimeout(flush,1500);
+ return track})();
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const svg=n=>'<svg class="i" viewBox="0 0 24 24" aria-hidden="true">'+(IC[n]||"")+"</svg>";
 document.querySelectorAll("[data-ic]").forEach(e=>e.outerHTML=svg(e.dataset.ic));
@@ -242,7 +269,7 @@ function syncThemeColor(){$("tc").content=isDark()?"#0b141a":"#eef4f6"}
 try{matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{syncThemeColor();render()})}catch(e){}
 
 // Live reading for a place. Open-Meteo gives current temperature and humidity.
-async function loadPlace(place,quiet){
+async function loadPlace(place,quiet,src){
  if(!quiet)$("locmsg").textContent="Getting the live reading for "+place.name+"…";
  try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&timezone=GMT");
   if(!r.ok)throw 0;const j=await r.json(),c=j.current;
@@ -253,6 +280,7 @@ async function loadPlace(place,quiet){
   const at=Date.parse(c.time+"Z");S.at=isFinite(at)?at:Date.now();
   S.place=place;S.manual=false;
   store.set("rh-last",{place,t:S.t,h:S.h,at:S.at});
+  if(src)track("reading",{lv:lvl(feels()).n,src});
   if(!quiet)$("locmsg").textContent="";
  }catch(e){
   const last=store.get("rh-last");
@@ -267,16 +295,16 @@ const inNigeria=(lat,lon)=>lat>=4&&lat<=14&&lon>=2.6&&lon<=14.7;
 const NOT_NG="Reezr Heat covers Nigeria only. Search a Nigerian town, or set the reading yourself below.";
 function nameFromBdc(j){const a=j.locality||j.city,b=j.principalSubdivision;return [a,b&&b!==a?b:""].filter(Boolean).join(", ")||j.countryName||"Your location"}
 $("loc").onclick=()=>{
- if(!navigator.geolocation){$("locmsg").textContent="Location isn’t available on this device. Search your town instead.";return}
+ if(!navigator.geolocation){track("location",{ok:"unsupported"});$("locmsg").textContent="Location isn’t available on this device. Search your town instead.";return}
  $("locmsg").textContent="Finding your location…";
  navigator.geolocation.getCurrentPosition(async p=>{
   // Two decimals is about 1 km: enough for weather, and the exact spot never leaves the phone.
   const lat=+p.coords.latitude.toFixed(2),lon=+p.coords.longitude.toFixed(2);let name="Your location",ng=inNigeria(lat,lon);
   try{const r=await fetch("https://api-bdc.io/data/reverse-geocode-client?latitude="+lat+"&longitude="+lon+"&localityLanguage=en");
    if(r.ok){const j=await r.json();name=nameFromBdc(j);if(j.countryCode)ng=j.countryCode==="NG"}}catch(e){}
-  if(!ng){$("locmsg").textContent=NOT_NG;return}
-  loadPlace({name,lat,lon});
- },()=>{$("locmsg").textContent="Couldn’t get your location. Allow location for this site, or search your town instead."},{timeout:15000,maximumAge:600000});
+  if(!ng){track("location",{ok:"outside"});$("locmsg").textContent=NOT_NG;return}
+  track("location",{ok:"granted"});loadPlace({name,lat,lon},false,"gps");
+ },()=>{track("location",{ok:"denied"});$("locmsg").textContent="Couldn’t get your location. Allow location for this site, or search your town instead."},{timeout:15000,maximumAge:600000});
 };
 // Town search, Nigerian towns only.
 let qT=0,qN=0;
@@ -288,12 +316,12 @@ $("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
    $("results").innerHTML=res.length?res.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+esc(x.admin1||"")+"</small></button>").join(""):"<div class='note'>No Nigerian town found. Check the spelling.</div>";
    $("results").querySelectorAll("button").forEach(b=>b.onclick=()=>{const x=res[+b.dataset.i];
     $("results").innerHTML="";$("town").value="";
-    loadPlace({name:[x.name,x.admin1&&x.admin1!==x.name?x.admin1:""].filter(Boolean).join(", "),lat:+x.latitude.toFixed(2),lon:+x.longitude.toFixed(2)})});
+    loadPlace({name:[x.name,x.admin1&&x.admin1!==x.name?x.admin1:""].filter(Boolean).join(", "),lat:+x.latitude.toFixed(2),lon:+x.longitude.toFixed(2)},false,"search")});
   }catch(err){if(n===qN)$("results").innerHTML="<div class='note'>Search needs an internet connection.</div>"}
  },350)};
 $("t").oninput=e=>{S.t=+e.target.value;S.manual=true;render()};
 $("h").oninput=e=>{S.h=+e.target.value;S.manual=true;render()};
-["today","safe","words"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render()});
+["today","safe","words"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render();track("tab",{tab:k})});
 ["light","dark"].forEach(k=>$("th-"+k).onclick=()=>setTheme(k));
 $("q").oninput=drawWords;
 
@@ -305,9 +333,9 @@ function flash(id,text){const e=$(id),old=e.dataset.l||e.textContent;e.dataset.l
 $("share").onclick=async()=>{
  const url=shareUrl(),text=S.place&&!S.manual?"How hot it feels in "+S.place.name+" right now, and how to stay safe:":"Check how hot it feels where you are, and how to stay safe:";
  $("sharemsg").textContent="";
- try{if(navigator.share){await navigator.share({title:"Reezr Heat",text,url});return}}catch(e){if(e&&e.name==="AbortError")return}
- try{await navigator.clipboard.writeText(url);flash("share-l","Link copied");$("sharemsg").textContent="Paste it into WhatsApp, SMS or anywhere."}
- catch(e){$("sharemsg").textContent="Copy this link: "+url}
+ try{if(navigator.share){await navigator.share({title:"Reezr Heat",text,url});track("share_link",{m:"native"});return}}catch(e){if(e&&e.name==="AbortError"){track("share_link",{m:"cancel"});return}}
+ try{await navigator.clipboard.writeText(url);track("share_link",{m:"copy"});flash("share-l","Link copied");$("sharemsg").textContent="Paste it into WhatsApp, SMS or anywhere."}
+ catch(e){track("share_link",{m:"fail"});$("sharemsg").textContent="Copy this link: "+url}
 };
 
 // Share as a picture: the full advice for this reading, with pictograms, place and time.
@@ -372,10 +400,10 @@ $("pic").onclick=async()=>{
  $("pic").disabled=true;$("sharemsg").textContent="";
  try{const c=await makePicture();const b=await new Promise(r=>c.toBlob(r,"image/png"));
   const f=new File([b],"reezr-heat-"+new Date().toISOString().slice(0,10)+".png",{type:"image/png"});
-  try{if(navigator.canShare&&navigator.canShare({files:[f]})){await navigator.share({files:[f],title:"Reezr Heat"});return}}catch(e){if(e&&e.name==="AbortError")return}
+  try{if(navigator.canShare&&navigator.canShare({files:[f]})){await navigator.share({files:[f],title:"Reezr Heat"});track("share_picture",{m:"native"});return}}catch(e){if(e&&e.name==="AbortError"){track("share_picture",{m:"cancel"});return}}
   const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=f.name;document.body.appendChild(a);a.click();a.remove();
-  $("sharemsg").textContent="Picture saved to your downloads.";
- }catch(e){$("sharemsg").textContent="Couldn’t make the picture. Please try again."}
+  track("share_picture",{m:"download"});$("sharemsg").textContent="Picture saved to your downloads.";
+ }catch(e){track("share_picture",{m:"fail"});$("sharemsg").textContent="Couldn’t make the picture. Please try again."}
  finally{$("pic").disabled=false}
 };
 
@@ -383,8 +411,9 @@ $("pic").onclick=async()=>{
 S.theme=["light","dark"].includes(store.get("rh-theme"))?store.get("rh-theme"):"auto";syncThemeColor();
 drawSafe();drawWords();render();
 (()=>{const q=new URLSearchParams(location.search),lat=parseFloat(q.get("lat")),lon=parseFloat(q.get("lon"));
- if(isFinite(lat)&&isFinite(lon)){if(inNigeria(lat,lon))return loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2)});$("locmsg").textContent=NOT_NG}
- const last=store.get("rh-last");if(last&&last.place&&inNigeria(last.place.lat,last.place.lon))loadPlace(last.place,true);})();
+ const open=src=>track("open",{src,new:track.isNew,inst:matchMedia("(display-mode: standalone)").matches});
+ if(isFinite(lat)&&isFinite(lon)){if(inNigeria(lat,lon)){open("link");return loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2)},false,"link")}$("locmsg").textContent=NOT_NG}
+ const last=store.get("rh-last");if(last&&last.place&&inNigeria(last.place.lat,last.place.lon)){open("saved");loadPlace(last.place,true,"saved")}else open("none");})();
 if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))}
 </script>
 </body>

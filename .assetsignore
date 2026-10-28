@@ -4,3 +4,6 @@ README.txt
 .assetsignore
 .wrangler
 .gitignore
+worker.js
+node_modules
+.dev.vars

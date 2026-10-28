@@ -1,10 +1,22 @@
-// Cloudflare Worker "reezrheat": serves this folder as static files, no server code.
+// Cloudflare Worker "reezrheat": serves this folder as static files, plus worker.js for
+// the anonymous usage counter under /api/. Static files are served first; worker.js
+// only runs for paths that aren't files.
 // Connected to this GitHub repo via Workers Builds; every push to main redeploys it.
 // The name must match the Worker in the dashboard.
+// STATS_TOKEN (the key for /api/stats) is a secret set in the Cloudflare dashboard.
 {
   "name": "reezrheat",
+  "main": "worker.js",
   "compatibility_date": "2025-09-01",
   "assets": {
-    "directory": "."
-  }
+    "directory": ".",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "reezrheat-analytics",
+      "database_id": "REPLACE_WITH_D1_DATABASE_ID"
+    }
+  ]
 }
