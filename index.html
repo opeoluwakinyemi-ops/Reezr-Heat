@@ -53,6 +53,8 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .band .big span{font-size:30px;font-weight:600;letter-spacing:0}
 .band h2{font-size:24px;margin-top:8px;font-weight:800}
 .band p{margin:4px 0 0;opacity:.95}
+.acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.acts button{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:999px;padding:10px 14px;background:#fff;color:#0a4f66;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin-top:12px}
 .panel h3{font-size:17px;margin-bottom:8px;display:flex;gap:8px;align-items:center}
 label{display:flex;justify-content:space-between;font-weight:600;margin-top:10px}
@@ -99,8 +101,10 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 
 <section id="v-today">
 <div class="band" id="band" aria-live="polite">
-<div class="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small></div></div>
-<div class="big"><b id="hi">--</b><span>°C</span></div><h2 id="lvl"></h2><p id="lvlsub"></p>
+<div class="where" id="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small></div></div>
+<div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><p id="lvlsub"></p></div>
+<div id="start"><h2 id="sh">How hot does it feel where you are?</h2><p id="sp">See the live heat for your town and what to do to stay safe.</p>
+<div class="acts" id="acts"><button id="go-loc"><span data-ic="locate"></span>Use my location</button><button id="go-town"><span data-ic="search"></span>Search my town</button></div></div>
 </div>
 
 <div class="panel">
@@ -161,6 +165,10 @@ const LV=[
  d:[["house","Do not go out. Stay in the coolest, shadiest room."],["fan","Keep cooling the body all day: wet cloth, fan, bath."],["glass-water","Drink water and ORS often."],["users","Check on everyone at risk every hour."],["phone","Anyone confused, fainting or very hot: call 112 or go to hospital now."]],
  a:[["sun","Any outdoor work or travel if it can wait."],["door-closed","Closed rooms with no air."],["wine","Giving alcohol or only soft drinks."]]}
 ];
+// Shown before there is a reading: true on any hot day.
+const GEN={w:[["shirt","Light, loose, light-coloured cotton clothes."]],
+ d:[["glass-water","Drink water through the day, even before you feel thirsty."],["tree-palm","Rest in the shade during the hottest hours, 11am to 4pm."],["users","Check on elders, babies and sick neighbours."]],
+ a:[["sun","Hard work in direct sun around midday."],["car","Leaving anyone in a parked car or a shut room."]]};
 const SAFE=[
 {i:"zap-off",h:"Stay cool without power",b:["Open windows on opposite sides of the room so air can pass through, especially at night.","Hang a wet cloth or wet sack over a sunny window or doorway.","Stay on the lowest, shadiest floor. Sit under a tree if the room is hotter than outside.","Cool your neck, wrists, armpits and face with a wet cloth.","Cook early morning or evening, and outside if you can."]},
 {i:"glass-water",h:"Water and ORS",b:["Sip water through the day. Don’t wait for thirst.","If you sweat a lot, have diarrhoea or vomit, use an ORS sachet. Mix it with exactly the amount of clean water written on the pack.","Drink only clean or treated water. Boil, filter or treat it if you are unsure.","Limit alcohol and very sugary drinks."]},
@@ -187,7 +195,8 @@ const WORDS=[
 ];
 
 // place: {name, lat, lon}; at: time of the live reading (ms); manual: sliders moved since then.
-let S={t:34,h:60,tab:"today",place:null,at:0,manual:false,theme:"auto"};
+// t/h stay null until there is a real reading; loading is the place being fetched.
+let S={t:null,h:null,tab:"today",place:null,at:0,manual:false,theme:"auto",loading:null,err:""};
 const $=id=>document.getElementById(id);
 const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 
@@ -239,23 +248,36 @@ const fmtTime=ms=>new Date(ms).toLocaleTimeString("en-NG",{hour:"numeric",minute
 const fmtDay=ms=>new Date(ms).toLocaleDateString("en-NG",{weekday:"short",day:"numeric",month:"short"});
 // One line saying where the reading is from and how it was taken.
 function whereText(){
- if(!S.place)return {p:"Your reading",w:"Set your place below for live heat"};
+ if(S.t==null)return {p:S.loading?S.loading.name:"",w:""};
  const r=Math.round(S.t)+"°C, "+Math.round(S.h)+"% humidity";
+ if(!S.place)return {p:"Your own reading",w:r};
  if(S.manual)return {p:S.place.name,w:"Adjusted by hand · "+r};
- return {p:S.place.name,w:"Live reading "+fmtTime(S.at)+", "+fmtDay(S.at)+" · "+r};
+ // A saved reading more than two hours old is labelled as such until the refresh arrives.
+ return {p:S.place.name,w:(Date.now()-S.at>72e5?"Last reading ":"Live reading ")+fmtTime(S.at)+", "+fmtDay(S.at)+" · "+r};
 }
 function tips(list,avoid){return list.map(([i,t,plain])=>"<li><span class='tic"+(avoid&&!plain?" x":"")+"'>"+svg(i)+"</span><span>"+t+"</span></li>").join("")}
 
 function render(){
  ["today","safe","words"].forEach(k=>{$("v-"+k).hidden=S.tab!==k;$("t-"+k).setAttribute("aria-selected",S.tab===k)});
  ["light","dark"].forEach(k=>$("th-"+k).setAttribute("aria-pressed",isDark()===(k==="dark")));
- $("t").value=S.t;$("h").value=S.h;$("tv").textContent=Math.round(S.t)+"°C";$("hv").textContent=Math.round(S.h)+"%";
- const hi=feels(),lv=lvl(hi),wt=whereText();
- $("band").style.background=lv.c;$("hi").textContent=shown(hi);
+ const has=S.t!=null,wt=whereText();
+ $("reading").hidden=!has;$("start").hidden=has;$("where").hidden=!wt.p;$("pic").hidden=!has;
  $("place").textContent=wt.p;$("when").textContent=wt.w;
+ if(has){$("t").value=S.t;$("h").value=S.h}
+ $("tv").textContent=has?Math.round(S.t)+"°C":"–";$("hv").textContent=has?Math.round(S.h)+"%":"–";
+ $("em").innerHTML=EM;
+ if(!has){
+  // No reading yet: never show a number. Invite a place, and give advice that is always true.
+  $("band").style.background="#0a6f8f";$("acts").hidden=!!S.loading;
+  $("sh").textContent=S.loading?"Getting the live reading…":"How hot does it feel where you are?";
+  $("sp").textContent=S.loading?"This usually takes a few seconds.":S.err||"See the live heat for your town and what to do to stay safe.";
+  $("wear").innerHTML=tips(GEN.w);$("do").innerHTML=tips(GEN.d);$("avoid").innerHTML=tips(GEN.a,true);$("em").hidden=false;
+  return}
+ const hi=feels(),lv=lvl(hi);
+ $("band").style.background=lv.c;$("hi").textContent=shown(hi);
  $("lvl").textContent="Feels like · "+lv.n;$("lvlsub").textContent=lv.s;
  $("wear").innerHTML=tips(lv.w);$("do").innerHTML=tips(lv.d);$("avoid").innerHTML=tips(lv.a,true);
- $("em").hidden=hi<32;$("em").innerHTML=EM;
+ $("em").hidden=hi<32;
 }
 function drawSafe(){$("v-safe").innerHTML=SAFE.map(s=>"<div class='panel'><h3>"+svg(s.i)+s.h+"</h3><ul>"+s.b.map(x=>"<li>"+x+"</li>").join("")+"</ul></div>").join("")}
 function drawWords(){const q=$("q").value.trim().toLowerCase();
@@ -270,8 +292,10 @@ try{matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{sy
 
 // Live reading for a place. Open-Meteo gives current temperature and humidity.
 async function loadPlace(place,quiet,src){
- if(!quiet)$("locmsg").textContent="Getting the live reading for "+place.name+"…";
- try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&timezone=GMT");
+ if(!quiet){$("locmsg").textContent="Getting the live reading for "+place.name+"…";S.loading=place;S.err="";render()}
+ // Give up after 10 seconds rather than leave people waiting on a weak connection.
+ const ctl=new AbortController(),tm=setTimeout(()=>ctl.abort(),10000);
+ try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&timezone=GMT",{signal:ctl.signal});
   if(!r.ok)throw 0;const j=await r.json(),c=j.current;
   if(typeof c.temperature_2m!=="number"||typeof c.relative_humidity_2m!=="number")throw 0;
   // Keep the exact values for the feels-like calculation; the screen rounds them.
@@ -286,8 +310,10 @@ async function loadPlace(place,quiet,src){
   const last=store.get("rh-last");
   if(last&&last.place&&last.place.name===place.name){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.manual=false;
    $("locmsg").textContent="No connection. Showing the last reading for "+place.name+".";}
-  else $("locmsg").textContent="Couldn’t get live data right now. Check your connection, or set the reading yourself below.";
+  else{$("locmsg").textContent="Couldn’t get live data right now. Check your connection, or set the reading yourself below.";
+   S.err="Couldn’t get the live reading for "+place.name+". Check your connection and try again, or set it yourself below."}
  }
+ clearTimeout(tm);S.loading=null;
  render();
 }
 // Reezr Heat covers Nigeria only. Rough box for links; country code for GPS and search.
@@ -319,8 +345,9 @@ $("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
     loadPlace({name:[x.name,x.admin1&&x.admin1!==x.name?x.admin1:""].filter(Boolean).join(", "),lat:+x.latitude.toFixed(2),lon:+x.longitude.toFixed(2)},false,"search")});
   }catch(err){if(n===qN)$("results").innerHTML="<div class='note'>Search needs an internet connection.</div>"}
  },350)};
-$("t").oninput=e=>{S.t=+e.target.value;S.manual=true;render()};
-$("h").oninput=e=>{S.h=+e.target.value;S.manual=true;render()};
+$("t").oninput=$("h").oninput=()=>{S.t=+$("t").value;S.h=+$("h").value;S.manual=true;render()};
+$("go-loc").onclick=()=>$("loc").click();
+$("go-town").onclick=()=>{$("town").scrollIntoView({block:"center"});$("town").focus()};
 ["today","safe","words"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render();track("tab",{tab:k})});
 ["light","dark"].forEach(k=>$("th-"+k).onclick=()=>setTheme(k));
 $("q").oninput=drawWords;
@@ -409,11 +436,15 @@ $("pic").onclick=async()=>{
 
 // Start: a shared link's town first, then the last town used on this phone.
 S.theme=["light","dark"].includes(store.get("rh-theme"))?store.get("rh-theme"):"auto";syncThemeColor();
-drawSafe();drawWords();render();
 (()=>{const q=new URLSearchParams(location.search),lat=parseFloat(q.get("lat")),lon=parseFloat(q.get("lon"));
  const open=src=>track("open",{src,new:track.isNew,inst:matchMedia("(display-mode: standalone)").matches});
- if(isFinite(lat)&&isFinite(lon)){if(inNigeria(lat,lon)){open("link");return loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2)},false,"link")}$("locmsg").textContent=NOT_NG}
- const last=store.get("rh-last");if(last&&last.place&&inNigeria(last.place.lat,last.place.lon)){open("saved");loadPlace(last.place,true,"saved")}else open("none");})();
+ const link=isFinite(lat)&&isFinite(lon)&&inNigeria(lat,lon),last=store.get("rh-last");
+ const saved=last&&last.place&&inNigeria(last.place.lat,last.place.lon)&&typeof last.t==="number"&&typeof last.h==="number";
+ if(!link&&saved){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at}
+ drawSafe();drawWords();render();
+ if(isFinite(lat)&&isFinite(lon)&&!link)$("locmsg").textContent=NOT_NG;
+ if(link){open("link");loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2)},false,"link")}
+ else if(saved){open("saved");loadPlace(last.place,true,"saved")}else open("none");})();
 if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))}
 </script>
 </body>
