@@ -150,6 +150,9 @@ function hiC(tc,rh){const T=tc*9/5+32;let hi=0.5*(T+61+(T-68)*1.2+rh*0.094);
  if(rh<13&&T>=80&&T<=112)hi-=((13-rh)/4)*Math.sqrt((17-Math.abs(T-95))/17);
  if(rh>85&&T>=80&&T<=87)hi+=((rh-85)/10)*((87-T)/5);}
  return Math.max((hi-32)*5/9,tc);}
+// The heat index formula is only meant for values up to about 55-58°C; past that it
+// gives numbers nobody experiences (e.g. 86°C), so show "55+" instead.
+function shown(hi){const n=Math.round(hi);return n>55?"55+":String(n)}
 function lvl(v){return LV.find(x=>v<x.max)}
 function lst(a){return a.map(x=>"<li>"+x+"</li>").join("")}
 function render(){
@@ -162,14 +165,14 @@ function render(){
  $("tv").textContent=S.t+"°C";$("hv").textContent=S.h+"%";
  if(!$("locmsg").dataset.k)$("locmsg").textContent=u.lm;else $("locmsg").textContent=u[$("locmsg").dataset.k];
  const hi=hiC(S.t,S.h),lv=lvl(hi);
- $("band").style.background=lv.c;$("hi").textContent=Math.round(hi);
+ $("band").style.background=lv.c;$("hi").textContent=shown(hi);
  $("lvl").textContent=u.feels+" · "+lv.n[L];$("lvlsub").textContent=lv.s[L];
  $("wh").textContent=u.wh;$("wear").textContent=lv.w[L];
  $("dh").textContent=u.dh;$("do").innerHTML=lst(lv.d[L]);
  $("ah").textContent=u.ah;$("avoid").innerHTML=lst(lv.a[L]);
  const hot=hi>=32;$("em").hidden=!hot;$("em").innerHTML=u.em;
  $("share").textContent=u.share;$("pic").textContent=u.pic;
- const msg="Reezr Heat: "+Math.round(hi)+"°C feels-like ("+lv.n.en+"). "+lv.s.en+" Drink water often, avoid the sun from 11am to 4pm, check on elders and children. Emergency: 112.";
+ const msg="Reezr Heat: "+shown(hi)+"°C feels-like ("+lv.n.en+"). "+lv.s.en+" Drink water often, avoid the sun from 11am to 4pm, check on elders and children. Emergency: 112.";
  $("share").href="https://wa.me/?text="+encodeURIComponent(msg);
  $("v-safe").innerHTML=SAFE.map(s=>"<div class='panel'><h3>"+s.h[L]+"</h3><ul>"+lst(s.b[L])+"</ul></div>").join("");
  $("q").placeholder=u.ph;drawWords();$("foot").textContent=u.foot;
@@ -190,7 +193,7 @@ $("pic").onclick=async()=>{
  g.fillStyle="#fff";g.fillRect(0,0,W,H);g.fillStyle=lv.c;g.fillRect(0,0,W,600);
  g.fillStyle="#fff";g.textBaseline="alphabetic";
  g.font="600 38px "+bf;g.fillText("Reezr Heat · "+new Date().toLocaleDateString("en-NG",{weekday:"long",day:"numeric",month:"long"}),60,86);
- const n=String(Math.round(hi));g.font="800 250px "+hf;g.fillText(n,60,340);
+ const n=shown(hi);g.font="800 250px "+hf;g.fillText(n,60,340);
  const nw=g.measureText(n).width;g.font="600 80px "+hf;g.fillText("°C",60+nw+12,340);
  g.font="800 62px "+hf;g.fillText(u.feels+" · "+lv.n[L],60,430);
  g.font="500 38px "+bf;wrap(g,lv.s[L],60,490,960,48);

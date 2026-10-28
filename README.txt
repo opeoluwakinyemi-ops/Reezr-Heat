@@ -1,4 +1,4 @@
-Reezr Heat – free heat safety guide for Nigeria (static PWA, no build step)
+Reezr Heat â€“ free heat safety guide for Nigeria (static PWA, no build step)
 Live: https://reezrheat.com  (backup: https://reezrheat.reezrclimate.workers.dev)
 
 Hosting: Cloudflare Worker "reezrheat" (static assets only, no server code),
@@ -10,5 +10,5 @@ Files kept off the public site: .assetsignore.
 Install: open the https link on a phone. Chrome shows "Add to Home screen" / Install.
 Live temperature ("Use my location") only works over https.
 
-Change the cache name in sw.js (reezr-heat-v3) whenever you ship a new version.
+Change the cache name in sw.js (reezr-heat-v4) whenever you ship a new version.
 Local preview: python -m http.server 8765
