@@ -7,3 +7,4 @@ README.txt
 worker.js
 node_modules
 .dev.vars
+.git
