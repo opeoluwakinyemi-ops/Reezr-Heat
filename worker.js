@@ -9,7 +9,7 @@
 //   GET  /api/stats  totals for reports; needs ?key=<STATS_TOKEN>, add &format=csv for a
 //                    daily spreadsheet and &days=N (default 30) for the period
 
-const EVENTS = new Set(["open", "hide", "reading", "location", "share_link", "share_picture", "tab", "install"]);
+const EVENTS = new Set(["open", "hide", "reading", "location", "share_link", "share_picture", "tab", "install", "plan"]);
 // Allowed values for each optional field; anything else is dropped.
 const FIELDS = {
   src: ["link", "saved", "none", "gps", "search"],
@@ -104,6 +104,7 @@ async function stats(env, url) {
       SUM(name='reading' AND src='search') AS searched_town,
       SUM(name='reading' AND lv IN ('Dangerous','Extreme danger')) AS dangerous_readings,
       SUM(name='install') AS installs,
+      SUM(name='plan') AS used_plan_ahead,
       ROUND(SUM(CASE WHEN name='hide' THEN secs ELSE 0 END)/60.0, 1) AS minutes_used
     FROM events WHERE day >= ? GROUP BY day ORDER BY day`, from);
   const [tot] = await q(`SELECT COUNT(DISTINCT device) AS people, COUNT(DISTINCT session) AS visits,
@@ -112,6 +113,7 @@ async function stats(env, url) {
       SUM(name='share_picture' AND m IN ('native','download')) AS picture_shares,
       SUM(name='open' AND src='link') AS opened_from_shared_link,
       SUM(name='install') AS installs,
+      SUM(name='plan') AS used_plan_ahead,
       SUM(name='reading' AND lv IN ('Dangerous','Extreme danger')) AS dangerous_readings
     FROM events WHERE day >= ?`, from);
   // People who used the app on two or more different days in the period.

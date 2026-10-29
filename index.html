@@ -55,6 +55,14 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .band p{margin:4px 0 0;opacity:.95}
 .acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .acts button{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:999px;padding:10px 14px;background:#fff;color:#0a4f66;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
+.plan .day{display:block;width:100%;text-align:left;border:1px solid var(--line);border-left:6px solid var(--c);background:var(--bg);color:var(--ink);border-radius:12px;padding:10px 12px;margin-top:8px;font:15px/1.45 "Instrument Sans",system-ui,sans-serif;cursor:pointer}
+.plan .day b{display:block;font-size:16px}.plan .day small{display:block;color:var(--mut);font-size:14px;margin-top:2px}
+.hours{display:flex;gap:6px;overflow-x:auto;margin:12px -4px 0;padding:4px;scroll-snap-type:x proximity}
+.hours button{flex:none;width:58px;border:0;border-radius:12px;padding:6px 0;color:#fff;font:600 13px/1.25 "Instrument Sans",system-ui,sans-serif;cursor:pointer;scroll-snap-align:start}
+.hours button b{display:block;font:800 19px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif}
+.hours button.now{background:var(--card);color:var(--ink);border:1px solid var(--line)}
+.hours button[aria-pressed="true"]{outline:3px solid var(--ink);outline-offset:1px}
+.hours .sep{flex:none;align-self:center;writing-mode:vertical-rl;transform:rotate(180deg);font-size:12px;font-weight:600;color:var(--mut)}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin-top:12px}
 .panel h3{font-size:17px;margin-bottom:8px;display:flex;gap:8px;align-items:center}
 label{display:flex;justify-content:space-between;font-weight:600;margin-top:10px}
@@ -102,9 +110,17 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 <section id="v-today">
 <div class="band" id="band" aria-live="polite">
 <div class="where" id="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small></div></div>
-<div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><p id="lvlsub"></p></div>
+<div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><p id="lvlsub"></p>
+<div class="acts" id="back-w" hidden><button id="back"><span data-ic="clock"></span>Back to now</button></div></div>
 <div id="start"><h2 id="sh">How hot does it feel where you are?</h2><p id="sp">See the live heat for your town and what to do to stay safe.</p>
 <div class="acts" id="acts"><button id="go-loc"><span data-ic="locate"></span>Use my location</button><button id="go-town"><span data-ic="search"></span>Search my town</button></div></div>
+</div>
+
+<div class="panel plan" id="plan" hidden>
+<h3><span data-ic="clock"></span>Plan ahead</h3>
+<div id="days"></div>
+<div class="hours" id="hours" role="group" aria-label="Feels like, hour by hour"></div>
+<div class="note">Tap a time to see what to do then. This is a forecast and can be a few degrees off, so check again before you go out.</div>
 </div>
 
 <div class="panel">
@@ -196,7 +212,8 @@ const WORDS=[
 
 // place: {name, lat, lon}; at: time of the live reading (ms); manual: sliders moved since then.
 // t/h stay null until there is a real reading; loading is the place being fetched.
-let S={t:null,h:null,tab:"today",place:null,at:0,manual:false,theme:"auto",loading:null,err:""};
+// fc: hourly forecast {lat, lon, h:[{at,t,h}]}; sel: time (ms) of the forecast hour picked, or null for now.
+let S={t:null,h:null,tab:"today",place:null,at:0,manual:false,theme:"auto",loading:null,err:"",fc:null,sel:null};
 const $=id=>document.getElementById(id);
 const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 
@@ -242,13 +259,29 @@ function shown(hi){const n=Math.round(hi);return n>55?"55+":String(n)}
 // weather model's feels-like ran about 1°C cooler than the stations, so live readings add
 // 1°C to lean towards warning. Readings set by hand are used as entered.
 const MARGIN=1;
-const feels=()=>hiC(S.t,S.h)+(S.place&&!S.manual?MARGIN:0);
+// Forecasts were checked over 11 days at 22 stations (Oct 2026): they run coolest from midday to
+// evening (day-ahead feels-like 2.5–3.7°C too cool) and close to live readings at other hours.
+// Adding 2.5°C from 12pm to 8pm and the live margin otherwise matched the station's danger
+// level 73% of hours a day ahead, and the day's peak level 76% of days.
+const fcFeels=x=>{const h=hourOf(x.at);return hiC(x.t,x.h)+(h>=12&&h<=20?2.5:MARGIN)};
+// Forecast hours still to come, up to the end of tomorrow, for the place on screen.
+function fcHours(){const f=S.fc,now=Date.now(),end=dayKey(now+864e5);
+ if(!f||!S.place||f.lat!==S.place.lat||f.lon!==S.place.lon)return [];
+ return f.h.filter(x=>x.at>now&&dayKey(x.at)<=end)}
+const picked=()=>S.sel==null?null:fcHours().find(x=>x.at===S.sel)||null;
+const nowFeels=()=>hiC(S.t,S.h)+(S.place&&!S.manual?MARGIN:0);
+const feels=()=>{const f=picked();return f?fcFeels(f):nowFeels()};
 function lvl(v){return LV.find(x=>v<x.max)}
-const fmtTime=ms=>new Date(ms).toLocaleTimeString("en-NG",{hour:"numeric",minute:"2-digit",hour12:true});
-const fmtDay=ms=>new Date(ms).toLocaleDateString("en-NG",{weekday:"short",day:"numeric",month:"short"});
+// All places are in Nigeria, so times are shown in Nigerian time (WAT, UTC+1).
+const fmtTime=ms=>new Date(ms).toLocaleTimeString("en-NG",{hour:"numeric",minute:"2-digit",hour12:true,timeZone:"Africa/Lagos"});
+const fmtDay=ms=>new Date(ms).toLocaleDateString("en-NG",{weekday:"short",day:"numeric",month:"short",timeZone:"Africa/Lagos"});
+const dayKey=ms=>new Date(ms+36e5).toISOString().slice(0,10),hourOf=ms=>new Date(ms+36e5).getUTCHours();
+const hr=h=>(h%12||12)+(h%24<12?"am":"pm"),daytime=h=>h>=6&&h<=21;
 // One line saying where the reading is from and how it was taken.
 function whereText(){
  if(S.t==null)return {p:S.loading?S.loading.name:"",w:""};
+ const f=picked();
+ if(f)return {p:S.place.name,w:"Forecast for "+fmtTime(f.at)+", "+fmtDay(f.at)+" · "+Math.round(f.t)+"°C, "+Math.round(f.h)+"% humidity"};
  const r=Math.round(S.t)+"°C, "+Math.round(S.h)+"% humidity";
  if(!S.place)return {p:"Your own reading",w:r};
  if(S.manual)return {p:S.place.name,w:"Adjusted by hand · "+r};
@@ -260,8 +293,10 @@ function tips(list,avoid){return list.map(([i,t,plain])=>"<li><span class='tic"+
 function render(){
  ["today","safe","words"].forEach(k=>{$("v-"+k).hidden=S.tab!==k;$("t-"+k).setAttribute("aria-selected",S.tab===k)});
  ["light","dark"].forEach(k=>$("th-"+k).setAttribute("aria-pressed",isDark()===(k==="dark")));
+ if(S.sel!=null&&!picked())S.sel=null;
  const has=S.t!=null,wt=whereText();
  $("reading").hidden=!has;$("start").hidden=has;$("where").hidden=!wt.p;$("pic").hidden=!has;
+ $("back-w").hidden=S.sel==null;drawPlan();
  $("place").textContent=wt.p;$("when").textContent=wt.w;
  if(has){$("t").value=S.t;$("h").value=S.h}
  $("tv").textContent=has?Math.round(S.t)+"°C":"–";$("hv").textContent=has?Math.round(S.h)+"%":"–";
@@ -279,6 +314,40 @@ function render(){
  $("wear").innerHTML=tips(lv.w);$("do").innerHTML=tips(lv.d);$("avoid").innerHTML=tips(lv.a,true);
  $("em").hidden=hi<32;
 }
+// Plan ahead: the hottest part of the rest of today and of tomorrow, the cooler hours to go
+// out, and every hour to tap for its advice.
+function drawPlan(){
+ const H=S.t==null?[]:fcHours();$("plan").hidden=!H.length;if(!H.length)return;
+ const now=Date.now(),today=dayKey(now);
+ const days=[["Rest of today",today],["Tomorrow",dayKey(now+864e5)]]
+  .map(([n,k])=>({n,hs:H.filter(x=>dayKey(x.at)===k)})).filter(d=>d.hs.some(x=>daytime(hourOf(x.at))));
+ $("days").innerHTML=days.map((d,i)=>{
+  const v=d.hs.map(fcFeels),top=Math.max(...v),pk=v.indexOf(top);let a=pk,b=pk;
+  // The hottest stretch: hours next to the peak that are within 1°C of it.
+  while(a>0&&v[a-1]>=top-1)a--;while(b<v.length-1&&v[b+1]>=top-1)b++;
+  const lv=lvl(top),range=hr(hourOf(d.hs[a].at))+"–"+hr(hourOf(d.hs[b].at)+1);
+  return "<button class='day' data-d='"+i+"' style='--c:"+lv.c+"'><b>"+d.n+"</b>Hottest "+range+", feels like "+shown(top)+"°C · "+lv.n+"<small>"+cooler(d.hs,top)+"</small></button>"}).join("");
+ $("days").querySelectorAll("button").forEach(b=>b.onclick=()=>{const d=days[+b.dataset.d],v=d.hs.map(fcFeels);pick(d.hs[v.indexOf(Math.max(...v))].at)});
+ let last=today;
+ $("hours").innerHTML="<button class='now' data-at='' aria-pressed='"+(S.sel==null)+"'>Now<b>"+shown(nowFeels())+"°</b></button>"+H.map(x=>{
+  const f=fcFeels(x),lv=lvl(f),k=dayKey(x.at),h=hr(hourOf(x.at)),sep=k!==last?"<span class='sep'>Tomorrow</span>":"";last=k;
+  return sep+"<button data-at='"+x.at+"' style='background:"+lv.c+"' aria-pressed='"+(S.sel===x.at)+"' aria-label='"+h+(k===today?" today":" tomorrow")+", feels like "+shown(f)+"°C, "+lv.n+"'>"+h+"<b>"+shown(f)+"°</b></button>"}).join("");
+ $("hours").querySelectorAll("button").forEach(b=>b.onclick=()=>pick(b.dataset.at?+b.dataset.at:null));
+}
+// When it is cooler to go out: hours from 6am to 9pm that are below Hot.
+function cooler(hs,top){
+ if(top<32)return "No hot hours expected.";
+ const ok=hs.filter(x=>daytime(hourOf(x.at))&&fcFeels(x)<32).map(x=>hourOf(x.at)),runs=[];
+ for(const h of ok){const r=runs[runs.length-1];if(r&&h===r[1]+1)r[1]=h;else runs.push([h,h])}
+ if(!runs.length)return "No cooler daytime hours. If you must go out, keep it short.";
+ const first=hourOf(hs.find(x=>daytime(hourOf(x.at))).at);
+ const t=runs.map(([a,b])=>a===first?"before "+hr(b+1):b===21?"after "+hr(a):hr(a)+"–"+hr(b+1));
+ return "Cooler to go out: "+t.join(", ").replace(/, ([^,]*)$/," and $1")+".";
+}
+let planSeen=false;
+function pick(at){S.sel=at;render();
+ const b=$("hours").querySelector("[aria-pressed='true']");if(b)b.scrollIntoView({block:"nearest",inline:"nearest"});
+ if(at!=null&&!planSeen){planSeen=true;track("plan")}}
 function drawSafe(){$("v-safe").innerHTML=SAFE.map(s=>"<div class='panel'><h3>"+svg(s.i)+s.h+"</h3><ul>"+s.b.map(x=>"<li>"+x+"</li>").join("")+"</ul></div>").join("")}
 function drawWords(){const q=$("q").value.trim().toLowerCase();
  const r=WORDS.filter(w=>!q||w[0].toLowerCase().includes(q)||w[1].toLowerCase().includes(q));
@@ -290,25 +359,27 @@ function setTheme(t){S.theme=t;store.set("rh-theme",t);document.documentElement.
 function syncThemeColor(){$("tc").content=isDark()?"#0b141a":"#eef4f6"}
 try{matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{syncThemeColor();render()})}catch(e){}
 
-// Live reading for a place. Open-Meteo gives current temperature and humidity.
+// Live reading for a place, plus the hourly forecast to the end of tomorrow, in one request.
+// The forecast is saved with the reading so Plan ahead still works later without data.
 async function loadPlace(place,quiet,src){
  if(!quiet){$("locmsg").textContent="Getting the live reading for "+place.name+"…";S.loading=place;S.err="";render()}
  // Give up after 10 seconds rather than leave people waiting on a weak connection.
  const ctl=new AbortController(),tm=setTimeout(()=>ctl.abort(),10000);
- try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&timezone=GMT",{signal:ctl.signal});
+ try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&hourly=temperature_2m,relative_humidity_2m&forecast_days=3&timezone=GMT",{signal:ctl.signal});
   if(!r.ok)throw 0;const j=await r.json(),c=j.current;
   if(typeof c.temperature_2m!=="number"||typeof c.relative_humidity_2m!=="number")throw 0;
   // Keep the exact values for the feels-like calculation; the screen rounds them.
   S.t=c.temperature_2m;S.h=c.relative_humidity_2m;
   // Time of the reading itself (GMT from Open-Meteo), not when the phone fetched it.
   const at=Date.parse(c.time+"Z");S.at=isFinite(at)?at:Date.now();
-  S.place=place;S.manual=false;
-  store.set("rh-last",{place,t:S.t,h:S.h,at:S.at});
+  if(!S.place||S.place.lat!==place.lat||S.place.lon!==place.lon)S.sel=null;
+  S.place=place;S.manual=false;S.fc=readForecast(j.hourly,place);
+  store.set("rh-last",{place,t:S.t,h:S.h,at:S.at,fc:S.fc});
   if(src)track("reading",{lv:lvl(feels()).n,src});
   if(!quiet)$("locmsg").textContent="";
  }catch(e){
   const last=store.get("rh-last");
-  if(last&&last.place&&last.place.name===place.name){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.manual=false;
+  if(last&&last.place&&last.place.name===place.name){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.manual=false;S.fc=savedForecast(last);
    $("locmsg").textContent="No connection. Showing the last reading for "+place.name+".";}
   else{$("locmsg").textContent="Couldn’t get live data right now. Check your connection, or set the reading yourself below.";
    S.err="Couldn’t get the live reading for "+place.name+". Check your connection and try again, or set it yourself below."}
@@ -316,6 +387,12 @@ async function loadPlace(place,quiet,src){
  clearTimeout(tm);S.loading=null;
  render();
 }
+// Hourly forecast from Open-Meteo (GMT times), keeping only complete hours.
+function readForecast(hy,place){
+ const h=[];if(hy&&Array.isArray(hy.time))hy.time.forEach((t,i)=>{const at=Date.parse(t+"Z"),a=hy.temperature_2m[i],b=hy.relative_humidity_2m[i];
+  if(isFinite(at)&&typeof a==="number"&&typeof b==="number")h.push({at,t:a,h:b})});
+ return h.length?{lat:place.lat,lon:place.lon,h}:null}
+const savedForecast=last=>last.fc&&Array.isArray(last.fc.h)?last.fc:null;
 // Reezr Heat covers Nigeria only. Rough box for links; country code for GPS and search.
 const inNigeria=(lat,lon)=>lat>=4&&lat<=14&&lon>=2.6&&lon<=14.7;
 const NOT_NG="Reezr Heat covers Nigeria only. Search a Nigerian town, or set the reading yourself below.";
@@ -345,7 +422,8 @@ $("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
     loadPlace({name:[x.name,x.admin1&&x.admin1!==x.name?x.admin1:""].filter(Boolean).join(", "),lat:+x.latitude.toFixed(2),lon:+x.longitude.toFixed(2)},false,"search")});
   }catch(err){if(n===qN)$("results").innerHTML="<div class='note'>Search needs an internet connection.</div>"}
  },350)};
-$("t").oninput=$("h").oninput=()=>{S.t=+$("t").value;S.h=+$("h").value;S.manual=true;render()};
+$("t").oninput=$("h").oninput=()=>{S.t=+$("t").value;S.h=+$("h").value;S.manual=true;S.sel=null;render()};
+$("back").onclick=()=>pick(null);
 $("go-loc").onclick=()=>$("loc").click();
 $("go-town").onclick=()=>{$("town").scrollIntoView({block:"center"});$("town").focus()};
 ["today","safe","words"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render();track("tab",{tab:k})});
@@ -440,7 +518,7 @@ S.theme=["light","dark"].includes(store.get("rh-theme"))?store.get("rh-theme"):"
  const open=src=>track("open",{src,new:track.isNew,inst:matchMedia("(display-mode: standalone)").matches});
  const link=isFinite(lat)&&isFinite(lon)&&inNigeria(lat,lon),last=store.get("rh-last");
  const saved=last&&last.place&&inNigeria(last.place.lat,last.place.lon)&&typeof last.t==="number"&&typeof last.h==="number";
- if(!link&&saved){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at}
+ if(!link&&saved){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.fc=savedForecast(last)}
  drawSafe();drawWords();render();
  if(isFinite(lat)&&isFinite(lon)&&!link)$("locmsg").textContent=NOT_NG;
  if(link){open("link");loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2)},false,"link")}

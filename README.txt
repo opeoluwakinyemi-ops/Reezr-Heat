@@ -10,7 +10,7 @@ Files kept off the public site: .assetsignore.
 Install: open the https link on a phone. Chrome shows "Add to Home screen" / Install.
 Live temperature ("Use my location") only works over https.
 
-Change the cache name in sw.js (reezr-heat-v14) whenever you ship a new version.
+Change the cache name in sw.js (reezr-heat-v15) whenever you ship a new version.
 Local preview: python -m http.server 8765
 
 Usage stats (anonymous; worker.js lists exactly what is stored):
