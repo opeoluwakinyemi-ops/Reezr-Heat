@@ -152,7 +152,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 <div class="panel" id="terms"></div>
 </section>
 
-<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Live readings come from the Open-Meteo weather model and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
@@ -255,21 +255,25 @@ function hiC(tc,rh){const T=tc*9/5+32;let hi=0.5*(T+61+(T-68)*1.2+rh*0.094);
 // The heat index formula is only meant for values up to about 55-58°C; past that it
 // gives numbers nobody experiences (e.g. 86°C), so show "55+" instead.
 function shown(hi){const n=Math.round(hi);return n>55?"55+":String(n)}
-// Checked against 555 hourly reports from 21 Nigerian weather stations (Oct 2026): the
-// weather model's feels-like ran about 1°C cooler than the stations, so live readings add
-// 1°C to lean towards warning. Readings set by hand are used as entered.
-const MARGIN=1;
-// Forecasts were checked over 11 days at 22 stations (Oct 2026): they run coolest from midday to
-// evening (day-ahead feels-like 2.5–3.7°C too cool) and close to live readings at other hours.
-// Adding 2.5°C from 12pm to 8pm and the live margin otherwise matched the station's danger
-// level 73% of hours a day ahead, and the day's peak level 76% of days.
-const fcFeels=x=>{const h=hourOf(x.at);return hiC(x.t,x.h)+(h>=12&&h<=20?2.5:MARGIN)};
+// Readings and forecasts blend three weather models and correct them towards what Nigerian
+// stations record. Tested on 23,856 hourly reports from 23 stations across the hot season,
+// Harmattan, rains and October, scoring only seasons and stations the method had not seen
+// (see README). OFF_T/OFF_H: average temperature and humidity correction for each 3-hour block
+// of the day, starting at midnight Nigerian time. LEAN: extra °C on feels-like, so the hottest
+// part of the day leans towards warning. Readings set by hand are used as entered.
+const MODELS=["icon_global","meteofrance_arpege_world","ecmwf_aifs025_single"];
+const OFF_T=[-.2,-.3,-.4,.1,.1,.7,0,-.2],OFF_H=[2,2,3,2,1,-1,2,3],LEAN=.7;
+// Corrected reading for a time. Each correction belongs to the middle of its block; hours
+// between take a share of the two nearest, so nothing jumps at a block's edge.
+function adjust(at,t,h){const p=((hourOf(at)+23)%24)/3,a=Math.floor(p),b=(a+1)%8,w=p-a;
+ return {at,t:t+OFF_T[a]*(1-w)+OFF_T[b]*w,h:Math.max(1,Math.min(100,h+OFF_H[a]*(1-w)+OFF_H[b]*w))}}
+const fcFeels=x=>hiC(x.t,x.h)+LEAN;
 // Forecast hours still to come, up to the end of tomorrow, for the place on screen.
 function fcHours(){const f=S.fc,now=Date.now(),end=dayKey(now+864e5);
  if(!f||!S.place||f.lat!==S.place.lat||f.lon!==S.place.lon)return [];
  return f.h.filter(x=>x.at>now&&dayKey(x.at)<=end)}
 const picked=()=>S.sel==null?null:fcHours().find(x=>x.at===S.sel)||null;
-const nowFeels=()=>hiC(S.t,S.h)+(S.place&&!S.manual?MARGIN:0);
+const nowFeels=()=>hiC(S.t,S.h)+(S.place&&!S.manual?LEAN:0);
 const feels=()=>{const f=picked();return f?fcFeels(f):nowFeels()};
 function lvl(v){return LV.find(x=>v<x.max)}
 // All places are in Nigeria, so times are shown in Nigerian time (WAT, UTC+1).
@@ -365,15 +369,17 @@ async function loadPlace(place,quiet,src){
  if(!quiet){$("locmsg").textContent="Getting the live reading for "+place.name+"…";S.loading=place;S.err="";render()}
  // Give up after 10 seconds rather than leave people waiting on a weak connection.
  const ctl=new AbortController(),tm=setTimeout(()=>ctl.abort(),10000);
- try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&hourly=temperature_2m,relative_humidity_2m&forecast_days=3&timezone=GMT",{signal:ctl.signal});
-  if(!r.ok)throw 0;const j=await r.json(),c=j.current;
-  if(typeof c.temperature_2m!=="number"||typeof c.relative_humidity_2m!=="number")throw 0;
-  // Keep the exact values for the feels-like calculation; the screen rounds them.
-  S.t=c.temperature_2m;S.h=c.relative_humidity_2m;
+ try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&hourly=temperature_2m,relative_humidity_2m&forecast_days=3&models="+MODELS.join(",")+"&timezone=GMT",{signal:ctl.signal});
+  if(!r.ok)throw 0;const j=await r.json(),c=j.current||{};
   // Time of the reading itself (GMT from Open-Meteo), not when the phone fetched it.
-  const at=Date.parse(c.time+"Z");S.at=isFinite(at)?at:Date.now();
+  const p=Date.parse(c.time+"Z"),at=isFinite(p)?p:Date.now(),fc=readForecast(j.hourly,place);
+  // The blend at this moment; Open-Meteo's single current value only if the blend is missing.
+  let n=fc&&blendAt(fc.h,at);
+  if(!n){if(typeof c.temperature_2m!=="number"||typeof c.relative_humidity_2m!=="number")throw 0;n=adjust(at,c.temperature_2m,c.relative_humidity_2m)}
+  // Keep the exact values for the feels-like calculation; the screen rounds them.
+  S.t=n.t;S.h=n.h;S.at=at;
   if(!S.place||S.place.lat!==place.lat||S.place.lon!==place.lon)S.sel=null;
-  S.place=place;S.manual=false;S.fc=readForecast(j.hourly,place);
+  S.place=place;S.manual=false;S.fc=fc;
   store.set("rh-last",{place,t:S.t,h:S.h,at:S.at,fc:S.fc});
   if(src)track("reading",{lv:lvl(feels()).n,src});
   if(!quiet)$("locmsg").textContent="";
@@ -387,11 +393,17 @@ async function loadPlace(place,quiet,src){
  clearTimeout(tm);S.loading=null;
  render();
 }
-// Hourly forecast from Open-Meteo (GMT times), keeping only complete hours.
+// Hourly forecast from Open-Meteo (GMT times): the average of the models that have that hour,
+// corrected. If a model is down the others carry on.
 function readForecast(hy,place){
- const h=[];if(hy&&Array.isArray(hy.time))hy.time.forEach((t,i)=>{const at=Date.parse(t+"Z"),a=hy.temperature_2m[i],b=hy.relative_humidity_2m[i];
-  if(isFinite(at)&&typeof a==="number"&&typeof b==="number")h.push({at,t:a,h:b})});
+ const h=[];if(hy&&Array.isArray(hy.time))hy.time.forEach((t,i)=>{const at=Date.parse(t+"Z");let a=0,b=0,n=0;
+  for(const m of MODELS){const x=(hy["temperature_2m_"+m]||[])[i],y=(hy["relative_humidity_2m_"+m]||[])[i];
+   if(typeof x==="number"&&typeof y==="number"){a+=x;b+=y;n++}}
+  if(isFinite(at)&&n)h.push(adjust(at,a/n,b/n))});
  return h.length?{lat:place.lat,lon:place.lon,h}:null}
+// The forecast at any moment, a straight line between the two hours either side of it.
+function blendAt(h,at){const i=h.findIndex(x=>x.at>at);if(i<1)return null;const a=h[i-1],b=h[i],w=(at-a.at)/(b.at-a.at);
+ return {at,t:a.t+(b.t-a.t)*w,h:a.h+(b.h-a.h)*w}}
 const savedForecast=last=>last.fc&&Array.isArray(last.fc.h)?last.fc:null;
 // Reezr Heat covers Nigeria only. Rough box for links; country code for GPS and search.
 const inNigeria=(lat,lon)=>lat>=4&&lat<=14&&lon>=2.6&&lon<=14.7;
