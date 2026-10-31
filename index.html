@@ -26,9 +26,9 @@ try{const t=JSON.parse(localStorage.getItem("rh-theme"));if(t==="light"||t==="da
 </script>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#eef4f6;--card:#fff;--ink:#12202b;--mut:#51606c;--line:#d3dee4;--acc:#0a6f8f;--heat:#c2410c;--do:#23784a;--do-bg:#e3f3e9;--av:#b42318;--av-bg:#fde8e6;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0b141a;--card:#15222b;--ink:#e8f0f4;--mut:#9db0bb;--line:#2b3d48;--acc:#4cc3e6;--heat:#ff8a4c;--do:#5fd391;--do-bg:#16352a;--av:#ff8a80;--av-bg:#3d1c1c;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#0b141a;--card:#15222b;--ink:#e8f0f4;--mut:#9db0bb;--line:#2b3d48;--acc:#4cc3e6;--heat:#ff8a4c;--do:#5fd391;--do-bg:#16352a;--av:#ff8a80;--av-bg:#3d1c1c;color-scheme:dark}
+:root{--bg:#eef4f6;--card:#fff;--ink:#12202b;--mut:#51606c;--line:#d3dee4;--acc:#0a6f8f;--heat:#c2410c;--do:#23784a;--do-bg:#e3f3e9;--av:#b42318;--av-bg:#fde8e6;--cb:1;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0b141a;--card:#15222b;--ink:#e8f0f4;--mut:#9db0bb;--line:#2b3d48;--acc:#4cc3e6;--heat:#ff8a4c;--do:#5fd391;--do-bg:#16352a;--av:#ff8a80;--av-bg:#3d1c1c;--cb:1.5;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0b141a;--card:#15222b;--ink:#e8f0f4;--mut:#9db0bb;--line:#2b3d48;--acc:#4cc3e6;--heat:#ff8a4c;--do:#5fd391;--do-bg:#16352a;--av:#ff8a80;--av-bg:#3d1c1c;--cb:1.5;color-scheme:dark}
 *,*::before,*::after{box-sizing:inherit}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Instrument Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 h1,h2,h3,.big{font-family:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;margin:0}
@@ -58,12 +58,21 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .acts button{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:999px;padding:10px 14px;background:#fff;color:#0a4f66;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
 .plan .day{display:block;width:100%;text-align:left;border:1px solid var(--line);border-left:6px solid var(--c);background:var(--bg);color:var(--ink);border-radius:12px;padding:10px 12px;margin-top:8px;font:15px/1.45 "Instrument Sans",system-ui,sans-serif;cursor:pointer}
 .plan .day b{display:block;font-size:16px}.plan .day small{display:block;color:var(--mut);font-size:14px;margin-top:2px}
-.hours{display:flex;gap:6px;overflow-x:auto;margin:12px -4px 0;padding:4px;scroll-snap-type:x proximity}
-.hours button{flex:none;width:58px;border:0;border-radius:12px;padding:6px 0;color:#fff;font:600 13px/1.25 "Instrument Sans",system-ui,sans-serif;cursor:pointer;scroll-snap-align:start}
-.hours button b{display:block;font:800 19px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif}
-.hours button.now{background:var(--card);color:var(--ink);border:1px solid var(--line)}
-.hours button[aria-pressed="true"]{outline:3px solid var(--ink);outline-offset:1px}
-.hours .sep{flex:none;align-self:center;writing-mode:vertical-rl;transform:rotate(180deg);font-size:12px;font-weight:600;color:var(--mut)}
+.curve{position:relative;margin-top:12px;border-radius:12px}
+.curve:has(input:focus-visible){outline:3px solid var(--acc);outline-offset:2px}
+#curve-svg{display:block;width:100%;overflow:visible}
+#curve-svg text{fill:var(--mut);font:500 11px "Instrument Sans",system-ui,sans-serif}
+#curve-svg .grid{stroke:var(--line);stroke-dasharray:3 4}
+#curve-svg .line{filter:brightness(var(--cb))}
+#curve-svg .peak{fill:var(--ink);font-weight:700;font-size:13px}
+#curve-svg .tom{fill:var(--ink);font-weight:700}
+#cv-l{stroke:var(--ink);stroke-width:1.5}
+#cv-d{stroke:var(--card);stroke-width:3}
+.curve-tip{position:absolute;top:0;left:0;padding:3px 10px;border-radius:999px;color:#fff;font:600 13px "Instrument Sans",system-ui,sans-serif;white-space:nowrap;pointer-events:none}
+/* The slider lies invisibly over the chart: it does the tapping, dragging and keyboard work. */
+#curve-r{position:absolute;inset:0;width:100%;height:100%;margin:0;opacity:0;cursor:pointer;touch-action:pan-y;-webkit-appearance:none;appearance:none}
+#curve-r::-webkit-slider-thumb{-webkit-appearance:none;width:1px;height:200px}
+#curve-r::-moz-range-thumb{width:1px;height:200px;border:0}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin-top:12px}
 .panel h3{font-size:17px;margin-bottom:8px;display:flex;gap:8px;align-items:center}
 input[type=search],input[type=text]{width:100%;padding:11px 12px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:16px "Instrument Sans",system-ui,sans-serif;margin-top:10px}
@@ -127,10 +136,6 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
 .col-b>.panel:first-child,.col-b>.advice:first-child{margin-top:0}
 .col-b>#plan[hidden]+.advice{margin-top:0}
 .band .big{font-size:92px}
-/* Every hour at a glance, so nobody needs to scroll sideways with a mouse. */
-.hours{display:grid;grid-template-columns:repeat(auto-fill,minmax(54px,1fr));overflow:visible;margin:12px 0 0;padding:4px 2px}
-.hours button{width:auto}
-.hours .sep{grid-column:1/-1;writing-mode:horizontal-tb;transform:none;font-size:13px;margin-top:6px}
 }
 /* The reading stays in view while reading the advice, where the screen is tall enough for it. */
 @media (min-width:1000px) and (min-height:600px){
@@ -138,7 +143,6 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
 }
 @media (hover:hover){
 .plan .day:hover,.results button:hover,nav button:hover,.btn.s:hover{border-color:var(--acc)}
-.hours button:hover{filter:brightness(1.12)}
 .btn.p:hover{filter:brightness(1.08)}
 .acts button:hover{filter:brightness(.94)}
 }
@@ -183,7 +187,7 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
 <div class="panel plan" id="plan" hidden>
 <h3><span data-ic="clock"></span>Plan ahead</h3>
 <div id="days"></div>
-<div class="hours" id="hours" role="group" aria-label="Feels like, hour by hour"></div>
+<div class="curve" id="curve"><svg id="curve-svg" aria-hidden="true"></svg><div class="curve-tip" id="curve-tip"></div><input type="range" id="curve-r" min="0" max="1" step="1" value="0" aria-label="Choose a time"></div>
 <div class="note">Tap a time to see what to do then. This is a forecast and can be a few degrees off, so check again before you go out.</div>
 </div>
 
@@ -382,12 +386,50 @@ function drawPlan(){
   const {top,from,to}=hottest(d.hs),lv=lvl(top);
   return "<button class='day' data-d='"+i+"' style='--c:"+lv.c+"'><b>"+d.n+"</b>Hottest "+from+"–"+to+", feels like "+shown(top)+"°C · "+lv.n+"<small>"+cooler(d.hs,top)+"</small></button>"}).join("");
  $("days").querySelectorAll("button").forEach(b=>b.onclick=()=>{const d=days[+b.dataset.d],v=d.hs.map(fcFeels);pick(d.hs[v.indexOf(Math.max(...v))].at)});
- let last=today;
- $("hours").innerHTML="<button class='now' data-at='' aria-pressed='"+(S.sel==null)+"'>Now<b>"+shown(nowFeels())+"°</b></button>"+H.map(x=>{
-  const f=fcFeels(x),lv=lvl(f),k=dayKey(x.at),h=hr(hourOf(x.at)),sep=k!==last?"<span class='sep'>Tomorrow</span>":"";last=k;
-  return sep+"<button data-at='"+x.at+"' style='background:"+lv.c+"' aria-pressed='"+(S.sel===x.at)+"' aria-label='"+h+(k===today?" today":" tomorrow")+", feels like "+shown(f)+"°C, "+lv.n+"'>"+h+"<b>"+shown(f)+"°</b></button>"}).join("");
- $("hours").querySelectorAll("button").forEach(b=>b.onclick=()=>pick(b.dataset.at?+b.dataset.at:null));
+ drawCurve();
 }
+// Heat curve: now, then every forecast hour. Drawn again only when the data or width changes;
+// picking a time just moves the marker, so dragging stays smooth.
+const curve={key:"",pts:[]};
+function drawCurve(){
+ const box=$("curve"),W=box.clientWidth,H=fcHours();if(!W||!H.length)return;
+ const pts=[{at:null,f:nowFeels()},...H.map(x=>({at:x.at,f:fcFeels(x)}))],n=pts.length,ht=W<600?190:230,L=8,R=8,T=34,B=24;
+ const key=[W,...pts.map(p=>p.at+":"+p.f.toFixed(1))].join();
+ const X=i=>L+i*(W-L-R)/(n-1),f=pts.map(p=>p.f),lo=Math.min(...f)-1.5,hi=Math.max(...f)+1.5,Y=v=>T+(hi-v)*(ht-T-B)/(hi-lo);
+ Object.assign(curve,{pts,X,Y,W});
+ if(key!==curve.key){curve.key=key;
+  const q=f.map((v,i)=>[X(i),Y(v)]);let d="M"+q[0];
+  // A smooth line through every hour.
+  for(let i=0;i<n-1;i++){const a=q[i-1]||q[i],b=q[i],c=q[i+1],e=q[i+2]||c;d+="C"+[b[0]+(c[0]-a[0])/6,b[1]+(c[1]-a[1])/6,c[0]-(e[0]-b[0])/6,c[1]-(e[1]-b[1])/6,c[0],c[1]]}
+  const stops=pts.map((p,i)=>"<stop offset='"+i/(n-1)+"' stop-color='"+lvl(p.f).c+"'/>").join("");
+  const grid=[[27,"Warm"],[32,"Hot"],[39.5,"Dangerous"],[51,"Extreme danger"]].filter(g=>g[0]>lo&&g[0]<hi).map(g=>"<line class='grid' x1='"+L+"' x2='"+(W-R)+"' y1='"+Y(g[0])+"' y2='"+Y(g[0])+"'/><text x='"+(W-R)+"' y='"+(Y(g[0])-4)+"' text-anchor='end'>"+g[1]+"</text>").join("");
+  const today=dayKey(Date.now());let marks="<text class='tom' x='"+L+"' y='"+(ht-6)+"'>Now</text>";
+  pts.forEach((p,i)=>{if(!i)return;const h=hourOf(p.at),first=dayKey(p.at)!==today&&(i===1||dayKey(pts[i-1].at||Date.now())===today);
+   if(first)marks+="<line class='grid' x1='"+X(i)+"' x2='"+X(i)+"' y1='"+T+"' y2='"+(ht-B)+"'/><text class='tom' x='"+X(i)+"' y='"+(ht-6)+"' text-anchor='middle'>Tomorrow</text>";
+   else if(h%6===0&&X(i)>34&&X(i)<W-20&&!pts.some((o,j)=>j&&o.at&&dayKey(o.at)!==today&&dayKey(pts[j-1].at||Date.now())===today&&Math.abs(X(j)-X(i))<46))marks+="<text x='"+X(i)+"' y='"+(ht-6)+"' text-anchor='middle'>"+hr(h)+"</text>"});
+  // The peak of each day gets its number.
+  [today,dayKey(Date.now()+864e5)].forEach(k=>{const idx=pts.map((p,i)=>p.at&&dayKey(p.at)===k?i:-1).filter(i=>i>=0);if(!idx.length)return;
+   const t=idx.reduce((a,b)=>f[b]>f[a]?b:a);if(X(t)<34)return;marks+="<circle cx='"+X(t)+"' cy='"+Y(f[t])+"' r='3.5' fill='"+lvl(f[t]).c+"'/><text class='peak' x='"+Math.min(Math.max(X(t),16),W-16)+"' y='"+(Y(f[t])-9)+"' text-anchor='middle'>"+shown(f[t])+"°</text>"});
+  const svg=$("curve-svg");svg.setAttribute("viewBox","0 0 "+W+" "+ht);svg.setAttribute("height",ht);
+  svg.innerHTML="<defs><linearGradient id='cv-g' gradientUnits='userSpaceOnUse' x1='"+L+"' x2='"+(W-R)+"' y1='0' y2='0'>"+stops+"</linearGradient></defs>"+grid+"<path d='"+d+"L"+X(n-1)+","+(ht-B)+"L"+L+","+(ht-B)+"Z' fill='url(#cv-g)' opacity='.18'/><path class='line' d='"+d+"' fill='none' stroke='url(#cv-g)' stroke-width='3.5' stroke-linecap='round'/>"+marks+"<line id='cv-l' y1='"+T+"' y2='"+(ht-B)+"'/><circle id='cv-d' r='7'/>";
+ }
+ const r=$("curve-r");r.max=n-1;
+ const i=S.sel==null?0:Math.max(0,pts.findIndex(p=>p.at===S.sel));r.value=i;showTime(i,true);
+}
+function timeLabel(i){const p=curve.pts[i];return !i?"Now":hr(hourOf(p.at))+(dayKey(p.at)===dayKey(Date.now())?" today":" tomorrow")}
+// Move the marker. A hover only previews: the reading and advice change when a time is chosen.
+function showTime(i,chosen){
+ const p=curve.pts[i],lv=lvl(p.f),x=curve.X(i),tip=$("curve-tip"),text=timeLabel(i)+" · "+shown(p.f)+"° · "+lv.n;
+ $("cv-l").setAttribute("x1",x);$("cv-l").setAttribute("x2",x);
+ $("cv-d").setAttribute("cx",x);$("cv-d").setAttribute("cy",curve.Y(p.f));$("cv-d").setAttribute("fill",lv.c);
+ tip.textContent=text;tip.style.background=lv.c;
+ tip.style.left=Math.max(0,Math.min(x-tip.offsetWidth/2,curve.W-tip.offsetWidth))+"px";
+ if(chosen)$("curve-r").setAttribute("aria-valuetext",timeLabel(i)+", feels like "+shown(p.f)+" degrees Celsius, "+lv.n);
+}
+$("curve-r").oninput=e=>{const i=+e.target.value;pick(i?curve.pts[i].at:null)};
+$("curve-r").onpointermove=e=>{if(e.pointerType==="mouse"&&curve.pts.length)showTime(Math.max(0,Math.min(curve.pts.length-1,Math.round((e.offsetX-8)/(curve.W-16)*(curve.pts.length-1)))))};
+$("curve-r").onpointerleave=()=>{if(curve.pts.length)showTime(+$("curve-r").value,true)};
+addEventListener("resize",()=>{if(S.t!=null&&S.tab==="today")drawCurve()});
 // The hottest stretch of some hours: the peak, and the hours next to it within 1°C of it.
 function hottest(hs){const v=hs.map(fcFeels),top=Math.max(...v),pk=v.indexOf(top);let a=pk,b=pk;
  while(a>0&&v[a-1]>=top-1)a--;while(b<v.length-1&&v[b+1]>=top-1)b++;
@@ -426,7 +468,6 @@ function answer(){
 }
 let planSeen=false;
 function pick(at){S.sel=at;render();
- const b=$("hours").querySelector("[aria-pressed='true']");if(b)b.scrollIntoView({block:"nearest",inline:"nearest"});
  if(at!=null&&!planSeen){planSeen=true;track("plan")}}
 function drawSafe(){$("v-safe").innerHTML=SAFE.map(s=>"<div class='panel'><h3>"+svg(s.i)+s.h+"</h3><ul>"+s.b.map(x=>"<li>"+x+"</li>").join("")+"</ul></div>").join("")}
 // Wider screens list the words and open one at a time. Phones, and a search, show the meanings.
