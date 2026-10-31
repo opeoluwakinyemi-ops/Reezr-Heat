@@ -49,7 +49,8 @@ Mile 4|Rivers|4.83|6.98|?
 Oroworukwo|Rivers|4.82|7.00|?
 Brigade|Kano|12.02|8.56|?
 Ogbor Hill|Abia|5.13|7.36|?
-Umungasi|Abia|5.13|7.34|?
+Umungasi|Abia|5.125|7.345
+Umungasi|Abia|5.608|7.451
 Odoakpu|Anambra|6.15|6.78|?
 Evbuotubu|Edo|6.33|5.59|?
 Ewet Housing|Akwa Ibom|5.03|7.91|?
