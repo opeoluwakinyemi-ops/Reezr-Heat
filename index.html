@@ -285,12 +285,13 @@ const hr=h=>(h%12||12)+(h%24<12?"am":"pm"),daytime=h=>h>=6&&h<=21;
 function whereText(){
  if(S.t==null)return {p:S.loading?S.loading.name:"",w:""};
  const f=picked();
- if(f)return {p:S.place.name,w:"Forecast for "+fmtTime(f.at)+", "+fmtDay(f.at)+" · "+Math.round(f.t)+"°C, "+Math.round(f.h)+"% humidity"};
+ const near=S.place&&S.place.approx?"Approximate location · ":"";
+ if(f)return {p:S.place.name,w:near+"Forecast for "+fmtTime(f.at)+", "+fmtDay(f.at)+" · "+Math.round(f.t)+"°C, "+Math.round(f.h)+"% humidity"};
  const r=Math.round(S.t)+"°C, "+Math.round(S.h)+"% humidity";
  if(!S.place)return {p:"Your own reading",w:r};
  if(S.manual)return {p:S.place.name,w:"Adjusted by hand · "+r};
  // A saved reading more than two hours old is labelled as such until the refresh arrives.
- return {p:S.place.name,w:(Date.now()-S.at>72e5?"Last reading ":"Live reading ")+fmtTime(S.at)+", "+fmtDay(S.at)+" · "+r};
+ return {p:S.place.name,w:near+(Date.now()-S.at>72e5?"Last reading ":"Live reading ")+fmtTime(S.at)+", "+fmtDay(S.at)+" · "+r};
 }
 function tips(list,avoid){return list.map(([i,t,plain])=>"<li><span class='tic"+(avoid&&!plain?" x":"")+"'>"+svg(i)+"</span><span>"+t+"</span></li>").join("")}
 
@@ -435,8 +436,8 @@ const wordsOf=s=>norm(s).split(/[^a-z0-9]+/).filter(Boolean);
 const shardCache={};
 function loadShard(k){return shardCache[k]||(shardCache[k]=(async()=>{
  const r=await fetch("places/"+k+".txt");if(r.status===404)return [];if(!r.ok)throw 0;
- return (await r.text()).split("\n").filter(Boolean).map(l=>{const [name,area,state,lat,lon,kind,alts]=l.split("\t");
-  return {name,area,state,lat:+lat,lon:+lon,kind:Math.min(+kind,2),big:kind==="3",alts,words:wordsOf(name+" "+alts),where:wordsOf(area+" "+state)}})
+ return (await r.text()).split("\n").filter(Boolean).map(l=>{const [name,area,state,lat,lon,kind,alts,mark]=l.split("\t");
+  return {name,area,state,lat:+lat,lon:+lon,kind:Math.min(+kind,2),big:kind==="3",alts,approx:mark==="?",words:wordsOf(name+" "+alts),where:wordsOf(area+" "+state)}})
 })().catch(e=>{delete shardCache[k];throw e}))}
 // Spelling slips: one wrong letter in a short word, two in a long one.
 function closeTo(a,b){const lim=b.length>=8?2:1;if(b.length<4||Math.abs(a.length-b.length)>lim)return false;
@@ -498,10 +499,10 @@ function showPlaces(res,q){
  const top=res.slice(0,6),name=wordsOf(q).join(" "),same=res.filter(x=>wordsOf(x.name).join(" ")===name).length;
  // Many towns share a name, such as Sabon Gari; not every list needs this hint.
  const many=same>=3&&res.length>6?"<div class='note'>Many places share this name. Add your state to narrow it down.</div>":"";
- $("results").innerHTML=top.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+(x.around?"around "+esc(x.around)+", ":"")+esc(uniq([x.area!==x.name?x.area:"",stateName(x.state)]).join(", "))+"</small></button>").join("")+many;
+ $("results").innerHTML=top.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+(x.around?"around "+esc(x.around)+", ":"")+esc(uniq([x.area!==x.name?x.area:"",stateName(x.state)]).join(", "))+(x.approx?" · approximate location":"")+"</small></button>").join("")+many;
  $("results").querySelectorAll("button").forEach(b=>b.onclick=()=>{const x=top[+b.dataset.i];
   $("results").innerHTML="";$("town").value="";
-  loadPlace({name:placeLabel(x),lat:+x.lat.toFixed(2),lon:+x.lon.toFixed(2)},false,"search")})}
+  loadPlace({name:placeLabel(x),lat:+x.lat.toFixed(2),lon:+x.lon.toFixed(2),approx:!!x.approx},false,"search")})}
 let qT=0,qN=0;
 // deep: someone pressed Enter or tapped "Search more", so the backup may be asked as well.
 async function searchPlaces(q,deep){
@@ -531,7 +532,7 @@ $("q").oninput=drawWords;
 
 // Share link: opens the app on the same town for whoever receives it.
 function shareUrl(){const u=new URL(location.origin+"/");
- if(S.place&&!S.manual){u.searchParams.set("place",S.place.name);u.searchParams.set("lat",S.place.lat);u.searchParams.set("lon",S.place.lon)}
+ if(S.place&&!S.manual){u.searchParams.set("place",S.place.name);u.searchParams.set("lat",S.place.lat);u.searchParams.set("lon",S.place.lon);if(S.place.approx)u.searchParams.set("approx","1")}
  return u.toString()}
 function flash(id,text){const e=$(id),old=e.dataset.l||e.textContent;e.dataset.l=old;e.textContent=text;setTimeout(()=>e.textContent=old,2500)}
 $("share").onclick=async()=>{
@@ -620,7 +621,7 @@ S.theme=["light","dark"].includes(store.get("rh-theme"))?store.get("rh-theme"):"
  if(!link&&saved){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.fc=savedForecast(last)}
  drawSafe();drawWords();render();
  if(isFinite(lat)&&isFinite(lon)&&!link)$("locmsg").textContent=NOT_NG;
- if(link){open("link");loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2)},false,"link")}
+ if(link){open("link");loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2),approx:q.get("approx")==="1"},false,"link")}
  else if(saved){open("saved");loadPlace(last.place,true,"saved")}else open("none");})();
 if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))}
 </script>

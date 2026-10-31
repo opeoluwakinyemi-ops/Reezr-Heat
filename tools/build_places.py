@@ -7,7 +7,8 @@ them, so besides the map's own places this adds:
   - GeoNames towns, villages and wards, with their other spellings
   - known_areas.txt, areas checked by hand (guessing areas from street names produced nonsense)
 Each row is stored once per first two letters of its words, so a search only downloads a small file.
-Row: name, LGA, state, lat, lon, kind (0 landmark, 1 street, 2 place, 3 city or town), other names.
+Row: name, LGA, state, lat, lon, kind (0 landmark, 1 street, 2 place, 3 city or town), other names,
+and "?" at the end when the location is unconfirmed.
 Data © OpenStreetMap contributors (ODbL) and GeoNames (CC BY 4.0).
 """
 import sys, unicodedata, re
@@ -127,7 +128,7 @@ for line in open(known, encoding="utf-8"):
     else:
         unplaced.append(f[0])
         continue
-    known_rows.append([f[0], "", lat, lon, 2, lga, f[1], "known"])
+    known_rows.append([f[0], "?" if f[-1] == "?" else "", lat, lon, 2, lga, f[1], "known"])
 print("known areas", len(known_rows), "unplaced", unplaced, flush=True)
 
 # Places first, so a street or landmark never replaces a place of the same name nearby.
@@ -141,7 +142,9 @@ for name, alts, lat, lon, k, lga, state, src in everything:
         continue
     seen.add(key)
     kept[src] += 1
-    row = "\t".join((name, lga, state, f"{lat:.3f}", f"{lon:.3f}", str(k), alts))
+    # For hand-checked areas the other-names column only carries the unconfirmed mark.
+    unconfirmed, alts = (alts == "?", "") if src == "known" else (False, alts)
+    row = "\t".join((name, lga, state, f"{lat:.3f}", f"{lon:.3f}", str(k), alts) + (("?",) if unconfirmed else ()))
     # Words nearly every row shares would only make their files large for no use.
     for c in {w[:2] for w in words_of(name + " " + alts) if len(w) >= 2 and w not in COMMON}:
         shards[c].append(row)

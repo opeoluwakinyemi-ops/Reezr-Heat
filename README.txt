@@ -10,7 +10,7 @@ Files kept off the public site: .assetsignore.
 Install: open the https link on a phone. Chrome shows "Add to Home screen" / Install.
 Live temperature ("Use my location") only works over https.
 
-Change the cache name in sw.js (reezr-heat-v18) whenever you ship a new version.
+Change the cache name in sw.js (reezr-heat-v19) whenever you ship a new version.
 Local preview: python -m http.server 8765
 
 Accuracy (constants at the top of the feels-like code in index.html):
@@ -24,6 +24,7 @@ Place search (places/ holds names from OpenStreetMap, ODbL, and GeoNames, CC BY 
   Rebuild from a Geofabrik extract and GeoNames' NG.txt: tools/osm_extract.py, then tools/build_places.py.
   Needs pip packages osmium and shapely. Extracting Nigeria took about 9 hours on a laptop.
   Real areas missing from those sources go in tools/known_areas.txt. Reports from users belong there too.
+  Locations nobody has confirmed end in |? there, and the app labels them approximate.
 
 Usage stats (anonymous; worker.js lists exactly what is stored):
   Events go to the Cloudflare D1 database "reezrheat-analytics" (binding DB).
