@@ -98,6 +98,11 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 #curve-r::-webkit-slider-thumb{-webkit-appearance:none;width:1px;height:200px}
 #curve-r::-moz-range-thumb{width:1px;height:200px;border:0}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin-top:12px}
+.who{margin-top:12px}
+.who>span{display:block;font-weight:600;font-size:14px;color:var(--mut);margin-bottom:6px}
+#who-b{display:flex;flex-wrap:wrap;gap:6px}
+#who-b button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:8px 13px;font:600 14px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
+#who-b button[aria-pressed="true"]{background:var(--acc);border-color:var(--acc);color:var(--card)}
 .panel h3{font-size:17px;margin-bottom:8px;display:flex;gap:8px;align-items:center}
 input[type=search],input[type=text]{width:100%;padding:11px 12px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:16px "Instrument Sans",system-ui,sans-serif;margin-top:10px}
 .results{display:grid;gap:6px;margin-top:6px}
@@ -126,7 +131,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 #v-today{display:flex;flex-direction:column}
 .col-a,.col-b{display:contents}
 #band{order:1}#plan{order:2}.col-a>.panel{order:3}
-.advice,#em,.sharebar,#sharemsg{order:4}
+.who,#who-p,.advice,#em,.sharebar,#sharemsg{order:4}
 /* Tablet and up: advice side by side, Stay safe and Words use the width. */
 @media (min-width:720px){
 .wrap{max-width:760px}
@@ -158,7 +163,7 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
 #v-today:not([hidden]){display:grid;grid-template-columns:minmax(360px,440px) minmax(0,1fr);gap:20px;align-items:start}
 .col-a,.col-b{display:block}
 .col-b>.panel:first-child,.col-b>.advice:first-child{margin-top:0}
-.col-b>#plan[hidden]+.advice{margin-top:0}
+.col-b>#plan[hidden]+.who{margin-top:0}
 .band .big{font-size:92px}
 }
 /* The reading stays in view while reading the advice, where the screen is tall enough for it. */
@@ -216,6 +221,8 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
 <div class="note">Tap a time to see what to do then. This is a forecast and can be a few degrees off, so check again before you go out.</div>
 </div>
 
+<div class="who" id="who" role="group" aria-label="Advice for"><span>Advice for</span><div id="who-b"></div></div>
+<div class="panel do" id="who-p" hidden><h3 id="who-h"></h3><ul class="tips" id="who-l"></ul></div>
 <div class="advice">
 <div class="panel wear"><h3>What to wear</h3><ul class="tips" id="wear"></ul></div>
 <div class="panel do"><h3>Do</h3><ul class="tips" id="do"></ul></div>
@@ -268,6 +275,33 @@ const LV=[
  d:[["house","Do not go out. Stay in the coolest, shadiest room."],["fan","Keep cooling the body all day: wet cloth, fan, bath."],["glass-water","Drink water and ORS often."],["users","Check on everyone at risk every hour."],["phone","Anyone confused, fainting or very hot: call 112 or go to hospital now."]],
  a:[["sun","Any outdoor work or travel if it can wait."],["door-closed","Closed rooms with no air."],["wine","Giving alcohol or only soft drinks."]]}
 ];
+// Extra advice by who someone is, for each of the five levels. General guidance only.
+const WHO={
+ worker:{n:"Outdoor worker",h:"For outdoor workers",l:[
+  [["glass-water","Keep water with you at work."]],
+  [["glass-water","Keep water within reach and drink before you feel thirsty."],["tree-palm","Take short breaks in the shade."]],
+  [["clock","Do the heaviest work early or late in the day."],["tree-palm","Rest in the shade for a few minutes every hour."],["users","Work with someone and watch each other for signs of heat illness."]],
+  [["clock","Stop heavy work from 11am to 4pm if you can."],["tree-palm","Rest in the shade often, about 15 minutes every hour."],["users","Never work alone. Watch each other for confusion or fainting."]],
+  [["house","Stop outdoor work if at all possible."],["users","If work cannot stop, keep it short, with a partner, with water and rest."]]]},
+ parent:{n:"Parent",h:"For parents of babies and children",l:[
+  [["shirt","Dress children in light clothes."]],
+  [["glass-water","Breastfeed as often as your baby wants. Offer older children water often."],["tree-palm","Keep babies out of direct sun."]],
+  [["glass-water","Breastfeed more often. Babies under 6 months need no extra water. Offer older children water regularly."],["car","Never leave a child alone in a car, even for a minute."],["droplets","Cool children with a wet cloth."]],
+  [["house","Keep children in the coolest room during the hottest hours."],["droplets","Cool babies and children with a wet cloth or a lukewarm bath."],["heart-pulse","Go to a clinic if a baby has few wet nappies, a dry mouth or is very sleepy."]],
+  [["house","Keep children in the coolest place you have, all day."],["droplets","Keep cooling them with a wet cloth or a lukewarm bath."],["heart-pulse","Get medical help at once if a child is very sleepy, confused or very hot to touch."]]]},
+ elder:{n:"Elder",h:"For elders",l:[
+  [["glass-water","Drink regularly. Thirst can fade with age."]],
+  [["glass-water","Drink regularly, even when you are not thirsty."],["house","Rest in the coolest part of your home."]],
+  [["glass-water","Drink on a schedule. If a doctor limits your fluids, ask how much to drink."],["phone","Ask someone to check on you every day."],["clock","Do errands in the early morning."]],
+  [["house","Stay in the coolest room during the hot hours."],["phone","Ask someone to check on you at least twice a day."],["heart-pulse","Ask a health worker how heat affects your medicines. Do not stop any on your own."]],
+  [["house","Do not go out. Stay in the coolest place you have."],["phone","Keep someone with you, or have them check on you every few hours."],["heart-pulse","Get help at once for confusion, dizziness or fainting."]]]},
+ trader:{n:"Trader",h:"For traders",l:[
+  [["glass-water","Keep water at your stall."]],
+  [["glass-water","Keep water at your stall and sip often."],["tree-palm","Trade under a canopy or umbrella if you can."]],
+  [["tree-palm","Keep your stall under a canopy or umbrella."],["glass-water","Keep water at your stall and sip often."],["clock","Do your carrying and deliveries early or late."]],
+  [["clock","Close or move to deep shade from 11am to 4pm if you can."],["users","Ask a neighbour to watch your stall while you cool down."],["glass-water","Drink water often. If you sweat a lot, use ORS too."]],
+  [["house","Stay home if you can. Trading can wait."],["users","If you must trade, keep it short and keep someone beside you."]]]}
+};
 // Shown before there is a reading: true on any hot day.
 const GEN={w:[["shirt","Light, loose, light-coloured cotton clothes."]],
  d:[["glass-water","Drink water through the day, even before you feel thirsty."],["tree-palm","Rest in the shade during the hottest hours, 11am to 4pm."],["users","Check on elders, babies and sick neighbours."]],
@@ -386,6 +420,7 @@ function render(){
  if(S.sel!=null&&!picked())S.sel=null;
  const has=S.t!=null,wt=whereText();
  drawSky(has?feels():null);
+ $("who").hidden=!has;if(!has)$("who-p").hidden=true;
  $("reading").hidden=!has;$("start").hidden=has;$("where").hidden=!wt.p;$("pic").hidden=!has;
  $("back-w").hidden=S.sel==null;drawPlan();
  $("place").textContent=wt.p;$("when").textContent=wt.w;
@@ -403,7 +438,16 @@ function render(){
  $("wear").innerHTML=tips(lv.w);$("do").innerHTML=tips(lv.d);$("avoid").innerHTML=tips(lv.a,true);
  $("em").hidden=hi<32;
  drawScale(hi,lv);
+ drawWho(lv);
  const vs=S.sel==null?yesterday():"";$("vs").hidden=!vs;$("vs").textContent=vs;
+}
+// Who the advice is for: remembered on this phone, and never sent anywhere.
+function drawWho(lv){
+ const k=WHO[S.who]?S.who:"all",w=WHO[k];
+ $("who-b").innerHTML=[["all","Everyone"],...Object.keys(WHO).map(x=>[x,WHO[x].n])].map(([x,n])=>"<button data-k='"+x+"' aria-pressed='"+(x===k)+"'>"+n+"</button>").join("");
+ $("who-b").querySelectorAll("button").forEach(b=>b.onclick=()=>{S.who=b.dataset.k;store.set("rh-who",S.who);render()});
+ $("who-p").hidden=!w;if(!w)return;
+ $("who-h").textContent=w.h;$("who-l").innerHTML=tips(w.l[LV.indexOf(lv)]);
 }
 // How now compares with this time yesterday, from the same blend of models, so the difference is fair.
 function yesterday(){
@@ -726,7 +770,8 @@ async function makePicture(){
  const hf='"Bricolage Grotesque","Trebuchet MS",sans-serif',bf='"Instrument Sans",system-ui,sans-serif';
  try{await Promise.all([document.fonts.load('800 60px "Bricolage Grotesque"'),document.fonts.load('500 30px "Instrument Sans"'),document.fonts.load('600 30px "Instrument Sans"')])}catch(e){}
  const GO="#23784a",GOB="#e3f3e9",NO="#b42318",NOB="#fde8e6",INK="#12202b";
- const names=[...new Set([...lv.w,...lv.d,...lv.a].map(x=>x[0]))],icD={},icA={};
+ const who=WHO[S.who],extra=who?who.l[LV.indexOf(lv)]:[];
+ const names=[...new Set([...lv.w,...lv.d,...lv.a,...extra].map(x=>x[0]))],icD={},icA={};
  await Promise.all(names.map(async n=>{icD[n]=await iconImg(n,GO);icA[n]=await iconImg(n,NO)}));
  const pin=await iconImg("map-pin","#ffffff"),logo=await imgLoad("icons/logo-mark.png");
  // Draw on a tall canvas, then crop to the height actually used.
@@ -761,6 +806,7 @@ async function makePicture(){
    y+=rowH+22;
   }
  };
+ if(who)section(who.h,GO,extra,false);
  section("What to wear",GO,lv.w,false);
  section("Do",GO,lv.d,false);
  section("Avoid",NO,lv.a,true);
@@ -786,6 +832,7 @@ $("pic").onclick=async()=>{
 
 // Start: a shared link's town first, then the last town used on this phone.
 S.theme=["light","dark"].includes(store.get("rh-theme"))?store.get("rh-theme"):"auto";syncThemeColor();
+S.who=store.get("rh-who")||"all";
 (()=>{const q=new URLSearchParams(location.search),lat=parseFloat(q.get("lat")),lon=parseFloat(q.get("lon"));
  const open=src=>track("open",{src,new:track.isNew,inst:matchMedia("(display-mode: standalone)").matches});
  const link=isFinite(lat)&&isFinite(lon)&&inNigeria(lat,lon),last=store.get("rh-last");
