@@ -1,3 +1,28 @@
+Boju-Ega	Oturkpo	Benue	7.348	8.045	3	Ogobia
+Boria	Baruten	Kwara	9.415	3.159	3	
+Bomadi	Bomadi	Delta	5.159	5.923	3	
+Bolorunduro	Ondo East	Ondo	7.166	4.964	3	Mobolorunduro
+Boudjouma	Mubi South	Adamawa	10.105	13.318	3	
+Bori	Khana	Rivers	4.675	7.366	3	
+Boi	Bogoro	Bauchi	9.568	9.495	3	
+Bodo	Gokana	Rivers	4.627	7.270	3	
+Bonny	Bonny	Rivers	4.434	7.175	3	Bonny Town
+Wuro Bokki	Fufore	Adamawa	9.388	12.795	3	
+Gulbin Boka	Mariga	Niger	10.800	5.362	3	
+Pulka	Gwoza	Borno	11.225	13.781	3	Pulka Bokko
+Bosso	Bosso	Borno	13.700	13.311	3	
+Bodinga	Bodinga	Sokoto	12.844	5.146	3	
+Boje	Boki	Cross River	6.273	8.919	3	Boji
+Kumbotso	Kumbotso	Kano	11.890	8.503	3	Kum Botso
+Ugbokpo	Apa	Benue	7.653	7.884	3	Bopa|Bopo
+Bokkos	Bokkos	Plateau	9.299	8.995	3	
+Bogoro	Bogoro	Bauchi	9.669	9.605	3	Mogaro
+Bode Saadu	Moro	Kwara	8.939	4.782	3	Bode Sadu|Bode-Sadu
+Bode Osi	Ola Oluwa	Osun	7.749	4.228	3	Bode-Olla|Bode-Olle|Ibede-Osi|Ibode-Osi
+Agbor	Ika South	Delta	6.254	6.194	3	Afbor|Agbor-BoIIboji
+Boh	Shongom	Gombe	9.782	11.279	3	
+Bompai	Nassarawa	Kano	12.011	8.558	2	
+Bodija	Ibadan North	Oyo	7.432	3.915	2	
 Boukar-Boutouri	Diffa	Borno	13.231	12.560	2	
 Bossossoua	Magaria	Katsina	13.135	8.360	2	
 Bourbourwa	Gouré	Yobe	13.322	10.450	2	
@@ -5,7 +30,6 @@ Boula Lawani	Goudoumaria	Yobe	13.376	10.823	2
 Gréma Bokardi I	Goudoumaria	Yobe	13.394	11.291	2	
 Rijia Boule	Tessaoua	Katsina	13.234	8.230	2	
 Bode Ase	Ipokia	Ogun	6.550	2.767	2	Bodashe;Bode Ase
-Boju-Ega	Oturkpo	Benue	7.348	8.045	3	Ogobia
 Tunga Yelwa Borgu	Bagudo	Kebbi	11.304	4.177	2	
 Bonuwagbene	Burutu	Delta	5.261	5.712	2	
 Borokiri	Port-Harcourt	Rivers	4.747	7.037	2	
@@ -39,7 +63,6 @@ Borkulok	Shani	Borno	10.249	11.971	2	Buruluk
 Borno Kiji	Bayo	Borno	10.714	11.759	2	Bornukice
 Bototi	Agaie	Niger	8.917	6.400	2	
 Bornuescu	Gulani	Yobe	10.950	11.650	2	Bornuesa
-Boria	Baruten	Kwara	9.415	3.159	3	
 Boyekai	Goronyo	Sokoto	13.366	5.567	2	
 Ungwan Bogobiri	Bunza	Kebbi	12.220	3.791	2	
 Bofawa	Argungu	Kebbi	12.694	4.412	2	
@@ -51,12 +74,9 @@ Bokunji	Shanga	Kebbi	10.957	4.649	2
 Botawa	Arewa Dandi	Kebbi	13.159	4.191	2	
 Zango Bogaje	Sabon Birni	Sokoto	13.517	5.957	2	
 Obotebe	Burutu	Delta	5.351	5.679	2	Bombatobo
-Bomadi	Bomadi	Delta	5.159	5.923	3	
-Bolorunduro	Ondo East	Ondo	7.166	4.964	3	Mobolorunduro
 Bornu Yassu	Magumeri	Borno	12.275	12.569	2	
 Botem	Tai	Rivers	4.730	7.281	2	
 Bourrah Ouango	Mubi North	Adamawa	10.274	13.477	2	Bourrah-Wango;Bourha Wango;Bourrah Ouango;Bourrah Vango
-Boudjouma	Mubi South	Adamawa	10.105	13.318	3	
 Ibode-Osi	Ola Oluwa	Osun	7.750	4.233	2	Bode-Olle;Ibode-Osi;Bode-Olla;Ibede-Osi
 Bambula	Chibok	Borno	10.894	12.686	2	Bombula Bula-Fali
 Marakim-Bure	Gudu	Sokoto	13.647	4.482	2	Maraken Bori
@@ -69,8 +89,6 @@ Wuro Abba	Demsa	Adamawa	9.317	12.133	2	Wuro Bokki
 Botoro	Maiyama	Kebbi	12.176	4.126	2	
 Bodinga	Gwaram	Jigawa	11.395	9.784	2	Bodinga (2)
 Tambo-Boka	Arewa Dandi	Kebbi	12.837	4.013	2	
-Bori	Khana	Rivers	4.675	7.366	3	
-Boi	Bogoro	Bauchi	9.568	9.495	3	
 Tunga Bombo	Bagudo	Kebbi	11.355	4.181	2	
 Wuro Hammagu	Mubi South	Adamawa	10.217	13.267	2	Wuro Bobbowa;Bobbowa
 Baga	Marte	Borno	12.535	13.851	2	Boderi
@@ -86,7 +104,6 @@ Bornawa	Wurno	Sokoto	13.216	5.395	2
 Bolere	Dange-Shuni	Sokoto	12.864	5.400	2	Boolairi
 Bore	Augie	Kebbi	12.817	4.703	2	
 Bodinga	Birnin Kudu	Jigawa	11.345	9.521	2	Bodinga (1)
-Bodo	Gokana	Rivers	4.627	7.270	3	
 Goran Bongo	Illela	Sokoto	13.649	5.467	2	
 Boruboru	Obafemi Owode	Ogun	7.100	3.517	2	Boru
 Atsuran	Warri North	Delta	5.793	5.103	2	Atsuran Bobi
@@ -97,13 +114,14 @@ Bokwari	Gujba	Yobe	11.572	12.322	2
 Bololo	Geidam	Yobe	12.632	12.387	2	
 Bonny-Owuwukiri	Bonny	Rivers	4.557	7.240	2	
 Buri	Alkaleri	Bauchi	10.011	10.463	2	Bori
+Yola Mbodewa	Gassol	Taraba	8.483	10.567	2	Yola Bodewa;Mbodewa
 Egbanti Bororo	Katcha	Niger	9.017	6.117	2	Gbokogi;Bororo
 Bogomari	Bama	Borno	11.494	14.016	2	Bogumari
 Bobbini	Guyuk	Adamawa	10.000	11.933	2	Bobini
 Boto	Tafawa-Balewa	Bauchi	9.725	9.233	2	
 Bougha Ouango	Mubi North	Adamawa	10.274	13.477	2	
 Bosso Charikari	Abadam	Borno	13.675	13.318	2	Boso Charkari
-Bolleri	Karim Lamido	Adamawa	9.517	11.433	2	Boleri
+Bolleri	Karim Lamido	Taraba	9.517	11.433	2	Boleri
 Boskeri	Larmurde	Adamawa	9.631	11.833	2	
 Bobore	Shelleng	Adamawa	9.698	12.027	2	
 Bolaii	Bungudu	Zamfara	12.214	6.466	2	
@@ -117,15 +135,15 @@ Bolou-Ndoro	Burutu	Delta	5.072	5.614	2	Bulou Ndoro;Ndoro
 Bogeya	Rabah	Sokoto	12.900	5.617	2	Bageya
 Orita-Bodun	Epe	Lagos	6.608	3.873	2	Orita;Ajebandele
 Boma	Koko-Besse	Kebbi	11.232	4.459	2	
-Bonny	Bonny	Rivers	4.434	7.175	3	Bonny Town
 Boji-Boji	Ika South	Delta	6.253	6.205	2	
 Kalan Boli	Kirfi	Bauchi	10.532	10.456	2	
 Boli	Kirfi	Bauchi	10.558	10.467	2	
+Gidan Boro	Kurmi	Taraba	7.067	10.583	2	Boro
 Bode Sadu	Moro	Kwara	8.937	4.781	2	
+Bokki	Bali	Taraba	8.117	10.767	2	Wuro Bokki
 Ungwan Boka	Arewa Dandi	Kebbi	12.462	3.946	2	
 Bumbula	Chibok	Borno	10.906	12.717	2	Bombula Bula-Wosa
 Biga Bozare	Bunza	Kebbi	12.130	3.853	2	
-Wuro Bokki	Fufore	Adamawa	9.388	12.795	3	
 Bodo	Odeda	Ogun	7.217	3.717	2	Gbodo
 Bolungu	Bama	Borno	11.434	13.793	2	Bulongu;Bulungu
 Bobo	Talata Mafara	Zamfara	12.286	6.145	2	
@@ -143,7 +161,6 @@ Mboko	Kala-Balge	Borno	12.339	14.466	2	Umm Bok
 Borobie	Baruten	Kwara	8.950	3.033	2	Barobia;Burobie
 Bolowa	Abadam	Borno	13.501	13.091	2	
 Bosombarari	Abadam	Borno	13.594	13.336	2	
-Gulbin Boka	Mariga	Niger	10.800	5.362	3	
 Botsotsowar Daura	Baure	Katsina	12.674	8.752	2	Gunji
 Bolorunduro	Odigbo	Ondo	6.732	5.002	2	
 Dan Ashitan	Ingawa	Katsina	12.639	8.180	2	Bowaji;Rowaji
@@ -152,21 +169,13 @@ Bolai	Talata Mafara	Zamfara	12.302	6.032	2
 Boka	Tureta	Sokoto	12.586	5.325	2	
 Bokodo	Warri South	Delta	5.586	5.679	2	
 Bongo	Igabi	Kaduna	10.652	7.678	2	Bango Darina;Bango
-Bob Izua Motor Park	Oredo	Edo	6.343	5.633	0	
-Bobizua Shopping Mall	Oredo	Edo	6.335	5.615	0	
 Balanga	Abadam	Borno	13.513	13.092	2	Bolunga
-Bodija Market	Ibadan North	Oyo	7.437	3.916	0	
-Bodija Train Station	Ibadan North	Oyo	7.432	3.915	0	
-Bovas Petrol Station	Ibadan North	Oyo	7.427	3.910	0	
-Bodija Market Stop	Ibadan North	Oyo	7.434	3.912	0	
+G. Boro	Kurmi	Taraba	7.071	10.594	2	
+Bodija Market	Ibadan North	Oyo	7.436	3.916	2	
 New Bodija	Ibadan North	Oyo	7.423	3.915	2	
 Old Bodija	Ibadan North	Oyo	7.419	3.906	2	
 Bobo	Kala-Balge	Borno	12.360	14.460	2	Bodo
-Bojos Dispensary	Alkaleri	Bauchi	10.271	10.333	0	Kunzun Health Post
-Boluwaji Health Centre	Ibadan South East	Oyo	7.343	3.906	0	
-Boluwaji Bus Stop	Ibadan South East	Oyo	7.341	3.907	0	
 Boko Maïgao	Madarounfa	Katsina	13.117	7.144	2	
-Pulka	Gwoza	Borno	11.225	13.781	3	Pulka Bokko
 Bogum	Mobbar	Borno	13.376	12.797	2	Bogum Lawanti
 Boa	Mafa	Borno	11.912	13.574	2	
 Bolori Gana	Maiduguri	Borno	11.878	13.136	2	Bolorigana
@@ -203,7 +212,6 @@ Madinatu Borehole	Mafa	Borno	11.906	13.554	2
 Bongobari B	Gubio	Borno	12.695	12.752	2	
 Bongobari C	Gubio	Borno	12.694	12.752	2	
 Bongobari	Gubio	Borno	12.691	12.753	2	
-Bongobari	Gubio	Borno	12.697	12.748	2	
 Boloramti	Gubio	Borno	12.595	12.930	2	
 Borchelluramdi	Nganzai	Borno	12.647	13.165	2	
 Bodoiri	Gubio	Borno	12.597	12.655	2	
@@ -221,7 +229,6 @@ Borno Yesu Lawanti	Magumeri	Borno	12.159	12.515	2
 Kyari Bori	Magumeri	Borno	12.303	12.601	2	
 Jauro Boyi	Shani	Borno	10.062	12.033	2	
 Wuro Boki Umar	Shani	Borno	10.076	12.054	2	
-Wuro Boki	Shani	Borno	10.073	12.054	2	
 Ardo Boga	Shani	Borno	10.311	12.206	2	
 Leda Borno	Shani	Borno	10.271	12.187	2	
 Bogum Gomiye	Mobbar	Borno	13.108	12.831	2	
@@ -236,10 +243,6 @@ Amodi Boza	Biu	Borno	10.787	11.761	2
 Bolori Layout	Maiduguri	Borno	11.858	13.138	2	
 Bosori	Damboa	Borno	11.238	12.248	2	
 Bori	Damboa	Borno	11.148	12.723	2	
-St Louis Secondary School Bompai	Nassarawa	Kano	12.019	8.563	0	
-Bodo Primary School	Kala-Balge	Borno	12.361	14.461	0	
-ADO BOBI PRIMARY SCHOOL.	Mariga	Niger	10.136	6.022	0	
-Bosso	Bosso	Borno	13.700	13.311	3	
 Bouji	Bosso	Borno	13.523	13.088	2	
 Boula Gana I	Bosso	Borno	13.678	13.293	2	
 Boula Gana II	Bosso	Borno	13.678	13.296	2	
@@ -277,83 +280,537 @@ Shuwari Borehole	Konduga	Borno	11.872	13.052	2
 Bonami	Konduga	Borno	11.570	12.955	2	
 Boireri	Konduga	Borno	11.696	13.222	2	
 Borkurari	Konduga	Borno	11.862	12.769	2	
-Borosa Filling Station	Uvwie	Delta	5.565	5.760	0	
-Bonosik Oil and Gas Filling Station	Uvwie	Delta	5.534	5.762	0	
-Bobby Filling Station	Obio/Akpor	Rivers	4.855	6.973	0	
-Borno Express Station	Maiduguri	Borno	11.835	13.116	0	
-Bonny Camp	Eti Osa	Lagos	6.438	3.409	0	
-Bovag	Ojo	Lagos	6.486	3.167	0	
 Boraye	Kware	Sokoto	13.022	5.397	2	
-Bodinga	Bodinga	Sokoto	12.844	5.146	3	
 Borum	Boki	Cross River	6.443	8.811	2	
-Bolorunduro Market	Ondo East	Ondo	7.169	4.964	0	
 Boukou	Kantché	Katsina	13.180	8.300	2	
-Bovas	Ibadan North West	Oyo	7.427	3.881	0	
-Bovas Filling Station	Ogbomosho North	Oyo	8.136	4.237	0	
-Bowen School of Nursing	Ogbomosho North	Oyo	8.136	4.235	0	
 Boèdè	Borgu	Niger	10.581	3.847	2	
-PEN RESOURCE ACADEMY (boarding sch)& ROBOTICS CENTER	Akko	Gombe	10.290	11.053	0	
 Bokawa	Dawakin Tofa	Kano	12.069	8.419	2	
 Tsamiyar Boka	Makoda	Kano	12.510	8.493	2	
 Gidan Boka	Minjibir	Kano	12.198	8.611	2	
 Botangyal	Ajingi	Kano	12.000	9.154	2	
 Botai	Ajingi	Kano	11.892	9.142	2	
-General Hospital Bodingal	Bodinga	Sokoto	12.851	5.144	0	
-Bokko Dispensary	Gwoza	Borno	11.078	13.691	0	
-boro heath post	Jada	Adamawa	8.643	12.108	0	
-Acf Water Board IDP Camp Clinic	Monguno	Borno	12.683	13.614	0	
-bolon health	Demsa	Adamawa	9.412	11.995	0	
-boken dispensary clinic	Maiha	Adamawa	10.002	13.246	0	
-Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
-Bonny National Grammar School, BNGS	Bonny	Rivers	4.437	7.172	0	
-Government Primary School, Bonny	Bonny	Rivers	4.437	7.166	0	
-General Hospital, Bonny	Bonny	Rivers	4.436	7.176	0	
-Bowen University	Iwo	Osun	7.621	4.192	0	
 Bomadi	Ndokwa East	Delta	5.434	6.517	2	
-Gbemisola Memorial hospital, Boluwaji Area, Ibadan	Oluyole	Oyo	7.338	3.905	0	
-Bolajoko Hospital(Badejoko Hospital) Mokola road, after GTBank	Ibadan North	Oyo	7.412	3.892	0	
-Olive Pry Health Centre, iso pako, Bodija	Ibadan North	Oyo	7.440	3.920	0	
-Bovas Gas Station	Ìsẹ́yìn	Oyo	7.961	3.611	0	
 Bolu Angiama	Patani	Delta	5.201	6.108	2	
 Boluapelebri	Patani	Delta	5.179	6.029	2	
-Bovas filling station Gamajigo	Jos North	Plateau	9.980	8.849	0	
-Plateau State Primary Health care Board	Jos North	Plateau	9.942	8.874	0	
 Karama Boukari	Gouré	Yobe	13.120	9.938	2	
-Government Secondary School Bomo BOMO	Sabon Gari	Kaduna	11.182	7.632	0	
-Federal University of Technology Minna, Bosso Campus	Chanchaga	Niger	9.656	6.529	0	
-Bovas	Osogbo	Osun	7.757	4.565	0	
-Boje	Boki	Cross River	6.273	8.919	3	Boji
 Boshi	Obanliku	Cross River	6.550	9.252	2	
-GDSS Bolari East Gombe	Gombe	Gombe	10.277	11.183	0	
-Tashan Boi	Bogoro	Bauchi	9.562	9.507	0	
-Both Public And Private Hospitals And Clinics No21 Sani Sambo Avenue	Kaduna North	Kaduna	10.547	7.441	0	
-Okokomaiko Primary Health Care Board	Ojo	Lagos	6.471	3.191	0	
-Bossom Hospital And Maternity	Ojo	Lagos	6.484	3.187	0	
-Bolus Coudlescent Center	Ojo	Lagos	6.484	3.187	0	
-Bonne Fante Hospital	Amuwo Odofin	Lagos	6.459	3.229	0	
-Jag-Bon Medical Center	Mushin	Lagos	6.520	3.367	0	
-Bogije Primary Health Center	Amuwo Odofin	Lagos	6.470	3.307	0	
-Bola kasim market	Kosofe	Lagos	6.606	3.409	0	
-BARDEN BOKO COLLEGE	Ungongo	Kano	12.039	8.570	0	
 Badejo	Potiskum	Yobe	11.655	11.103	2	Bodejo
 Bozoganga	Fika	Yobe	11.264	11.241	2	Bozaganga
 Colare Bornu	Gulani	Yobe	11.097	11.545	2	Kolare Bornu
-BOVAS	Ibadan North	Oyo	7.399	3.909	0	
-Bonimas	Owerri Municipal	Imo	5.492	7.059	0	
-Bovas	Municipal Area Council	FCT Abuja	8.993	7.403	0	
-Bonny Camp (VI)	Eti Osa	Lagos	6.436	3.405	0	
-Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
-Bovas, Ibrahim Taiwo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.482	4.548	0	
 Bobori	Dungass	Jigawa	12.832	9.344	2	
-bonny camp (victoria island)	Eti Osa	Lagos	6.436	3.405	0	
-boat club (ikoyi)	Eti Osa	Lagos	6.443	3.409	0	
-boundary (apapa)/number 3 (apapa) waterside	Apapa	Lagos	6.450	3.352	0	
-Bolien Mall	Eti Osa	Lagos	6.443	3.481	0	
-Boss Special Systems Limited	Municipal Area Council	FCT Abuja	9.133	7.388	0	
-Near Charley Boy Bus Stop	Municipal Area Council	FCT Abuja	9.120	7.391	0	
 Seme Border	Badagry	Lagos	6.382	2.722	2	
 Bokalum	Boki	Cross River	6.342	9.114	2	
-Boja Arts Theatre	Ede South	Osun	7.682	4.457	0	
+Borno Kiji	Fune	Yobe	12.201	11.323	2	
+Bolewa B	Potiskum	Yobe	11.702	11.088	2	
+Borsari	Borsari	Yobe	12.706	11.479	2	
+Bolewa A	Potiskum	Yobe	11.707	11.076	2	
+Bogo	Machina	Yobe	12.847	9.731	2	
+Ruwan Bore-Mirkidi	Talata Mafara	Zamfara	12.501	5.978	2	
+Ruwan Bore	Gusau	Zamfara	12.185	6.952	2	
+Boko	Zurmi	Zamfara	12.782	6.496	2	
+Bodinga Tauma	Bodinga	Sokoto	12.834	5.160	2	
+Bodai	Dange-Shuni	Sokoto	12.781	5.345	2	
+Bodinga	Bodinga	Sokoto	12.811	5.172	2	
+Boyekai	Goronyo	Sokoto	13.434	5.555	2	
+Bokana	Sanga	Kaduna	9.334	8.576	2	
+Bondong	Kaura	Kaduna	9.710	8.560	2	
+Bomo	Sabon Gari	Kaduna	11.189	7.631	2	
+Bono	Bunkure	Kano	11.717	8.624	2	
+Borindawa	Malumfashi	Katsina	11.793	7.658	2	
+Boko	Kusada	Katsina	12.511	7.947	2	
+Bomadi	Bomadi	Delta	5.226	5.810	2	
+Borgu	Borgu	Niger	10.197	4.092	2	
+Boripe	Boripe	Osun	7.862	4.659	2	
+Boluwaduro	Boluwaduro	Osun	7.947	4.809	2	
+Bokkos	Bokkos	Plateau	9.229	8.895	2	
+Borko	Geidam	Yobe	12.619	12.306	2	
+Borgozo	Kaga	Borno	11.608	12.658	2	
+Bogomari	Bama	Borno	11.499	13.959	2	
+Bolori II	Maiduguri	Borno	11.879	13.138	2	
+Boboshe	Dikwa	Borno	11.948	13.912	2	
+Pulka Bokko	Gwoza	Borno	11.231	13.808	2	
+Boi B	Bogoro	Bauchi	9.557	9.529	2	
+Boi A	Bogoro	Bauchi	9.666	9.625	2	
+Bogoro	Bogoro	Bauchi	9.637	9.620	2	
+Bolori I	Maiduguri	Borno	11.876	13.097	2	
+Borno Yesu	Magumeri	Borno	12.207	12.480	2	
+Bogum	Mobbar	Borno	13.266	12.955	2	
+Borsori	Marte	Borno	12.458	13.790	2	
+Bosso	Bosso	Niger	9.601	6.347	2	
+Ogu Bolo	Ogu Bolo	Rivers	4.674	7.202	2	
+Bonny	Bonny	Rivers	4.506	7.203	2	
+Boki	Boki	Cross River	6.268	9.029	2	
+Bourha Ouango	Mubi North	Adamawa	10.270	13.475	2	Bourha Wango|Bourrah Ouango|Bourrah Vango|Bourrah-Wango
+Zuturu Bogo	Zangon Kataf	Kaduna	9.811	8.102	2	Zunturo Mugu
+Wuro Umaru Boronuna	Shani	Borno	10.067	12.070	2	
+Wuro Hammagu	Mubi South	Adamawa	10.207	13.254	2	Bobbowa|Wuro Bobbowa
+Wuro Bornu Ladde	Ardo-Kola	Taraba	8.815	11.324	2	
+Wuro Boman	Fufore	Adamawa	9.056	12.192	2	
+Wuro Bokki	Hong	Adamawa	10.175	12.887	2	
+Wuro Bokki	Shani	Borno	10.075	12.053	2	
+Wuro Bokki	Song	Adamawa	9.694	12.867	2	
+Wuro Bokki	Girei	Adamawa	9.508	12.271	2	
+Wuro-Bokki	Fufore	Adamawa	9.389	12.795	2	Wuro Bokki
+Wuro-Bokki	Yola North	Adamawa	9.176	12.588	2	Wuro Bokki
+Wuro Bogga	Shira	Bauchi	11.447	10.181	2	
+Wuro Bobo	Mayo-Belwa	Adamawa	9.080	12.037	2	
+Wuro Bobbori	Fufore	Adamawa	9.163	12.293	2	
+Wuro Abba	Demsa	Adamawa	9.312	12.122	2	Wuro Bokki
+Barrakin Chori	Jaba	Kaduna	9.499	8.047	2	Borrakin Chori|Galadima|Unguwar Galadima
+Ugbokodo	Warri South	Delta	5.586	5.679	2	Bokodo
+Tungan Boka	Magama	Niger	10.604	4.993	2	
+Tungan Bogudu	Agwara	Niger	10.667	4.600	2	
+Tunga Kwaku	Bagudo	Kebbi	11.361	4.126	2	Jidere Bode
+Tunga Jidero Bode	Bagudo	Kebbi	11.379	4.117	2	
+Tugan Boma	Suru	Kebbi	11.813	4.181	2	
+Tabang Bula Boni	Chibok	Borno	10.732	12.898	2	
+Sarakin Bokka	Kurmi	Taraba	7.270	10.645	2	
+Sango-Bon	Ido	Oyo	7.632	3.752	2	Sango Bon|SangoBon
+Passa Bonga	Jos North	Plateau	9.933	8.951	2	
+Oke Bola	Ori Ire	Oyo	8.302	4.151	2	Okebola
+Noddere Bokki	Maiha	Adamawa	10.064	13.087	2	
+Bolon	Demsa	Adamawa	9.410	11.995	2	Ngbolung
+Morake Bori	Gudu	Sokoto	13.667	4.560	2	
+Abdungus	Kala-Balge	Borno	12.340	14.466	2	Mboko|Umm Bok
+Mallam Boyi	Ardo-Kola	Taraba	8.774	11.278	2	
+Lenfa-Bororo	Katcha	Niger	9.192	6.228	2	
+Ladan	Gurara	Niger	9.364	6.975	2	Bonu
+Kwatan Boya	Wukari	Taraba	7.970	10.067	2	
+Kosheli Bodel	Mayo-Belwa	Adamawa	8.918	12.189	2	
+Kauyen Boyi	Ibi	Taraba	8.144	9.793	2	
+Kaudi Boima	Gombi	Adamawa	10.154	12.615	2	
+Jauro Boli	Fufore	Adamawa	8.865	12.236	2	
+Gungi-Boku	Mokwa	Niger	9.304	4.669	2	Gungiborku|Wasa
+Goram Boto	Tafawa-Balewa	Bauchi	9.774	9.242	2	
+Gidan Maigari Boka	Rafi	Niger	10.467	6.350	2	
+Gidan Bango	Illela	Sokoto	13.650	5.467	2	Gidan Bongo|Goran Bongo
+Garin Jauro Bose	Ardo-Kola	Taraba	8.818	11.341	2	
+Ganmeni Boduri	Bali	Taraba	8.403	11.381	2	
+Gang Boni	Bali	Taraba	8.502	11.518	2	
+Egbanti Bororo	Katcha	Niger	9.014	6.123	2	Bororo|Gbokogi
+Dajina	Geidam	Yobe	12.885	12.289	2	Dajina Bonegaral|Dajina Bonegarel|Dajina Bonigoral
+Bolo	Akuku Toru	Rivers	4.450	6.812	2	Balo|Dagogokiri
+Daga Bornu	Fika	Yobe	11.319	11.293	2	
+Boibokokiri	Degema	Rivers	4.596	6.835	2	Buoybokokiri|Buoybokukiri
+Bomanda	Karim Lamido	Taraba	9.070	10.876	2	Bumanda
+Bukunji	Shanga	Kebbi	10.956	4.650	2	Bokunji
+Buka Bokwai	Barkin Ladi	Plateau	9.473	8.958	2	
+Budun Gulum	Shani	Borno	10.054	11.871	2	Bodun Gulum
+Bubila	Song	Adamawa	9.592	12.337	2	Boduba
+Bozzazi	Fika	Yobe	11.532	11.143	2	Bozazi
+Boza	Fika	Yobe	11.463	11.158	2	
+Boza	Hawul	Borno	10.611	12.524	2	
+Boyu	Mayo-Belwa	Adamawa	8.713	11.885	2	
+Boyi	Takum	Taraba	7.344	10.025	2	
+Boswas	Kanam	Plateau	9.374	10.040	2	Bowas
+Bovtari	Chibok	Borno	10.887	12.946	2	
+Bouva	Hawul	Borno	10.420	12.327	2	
+Boudamanga	Jada	Adamawa	8.680	12.164	2	
+Boube	Teungo	Adamawa	8.184	12.081	2	
+Botwer	Ushongo	Benue	7.148	8.964	2	
+Botokiri	Brass	Bayelsa	4.449	6.496	2	
+Boto	Gudu	Sokoto	13.402	4.314	2	
+Botin	Ori Ire	Oyo	8.519	4.197	2	
+Botawa	Arewa Dandi	Kebbi	13.168	4.178	2	
+Botan	Edati	Niger	8.956	5.762	2	
+Botalu	Mokwa	Niger	9.250	5.417	2	
+Botala	Gombi	Adamawa	10.076	12.556	2	
+Bota	Oluyole	Oyo	7.340	3.850	2	
+Bosso	Chanchaga	Niger	9.653	6.516	2	
+Boshi	Obanliku	Cross River	6.547	9.266	2	
+Bosere	Abeokuta North	Ogun	7.136	3.253	2	
+Bosaro	Olorunsogo	Oyo	8.887	4.190	2	
+Bosaji	Bodinga	Sokoto	12.717	5.200	2	
+Borugu	Lapai	Niger	9.094	6.595	2	
+Borrong	Demsa	Adamawa	9.539	12.179	2	
+Borozo	Kaga	Borno	11.662	12.601	2	Bargozo
+Borowandu	Ganye	Adamawa	8.557	11.872	2	
+Bororo	Katcha	Niger	9.197	6.280	2	
+Boro	Jada	Adamawa	8.619	12.384	2	
+Boro	Ori Ire	Oyo	8.506	4.075	2	
+Bornu Kiji	Fune	Yobe	12.270	11.318	2	
+Bornukice	Bayo	Borno	10.713	11.765	2	
+Borno	Jada	Adamawa	8.594	12.406	2	
+Bornesu	Zaki	Bauchi	12.335	10.353	2	
+Bori Zinha	Zing	Taraba	8.919	11.723	2	
+Borin Dawa	Malumfashi	Katsina	11.824	7.622	2	
+Borgomi	Song	Adamawa	9.670	12.905	2	
+Boragu	Shani	Borno	10.090	11.966	2	Bargu
+Boor	Ushongo	Benue	7.036	8.940	2	
+Bonu	Shira	Bauchi	11.597	9.999	2	
+Bonu	Gurara	Niger	9.339	7.000	2	
+Bonongo	Konshisha	Benue	7.122	8.665	2	
+Bonni	Moro	Kwara	8.780	4.227	2	
+Bongvong	Donga	Taraba	7.300	10.390	2	
+Bongo	Shelleng	Adamawa	10.064	12.115	2	
+Bongladi	Fufore	Adamawa	8.938	12.542	2	
+Bongi	Edati	Niger	8.964	5.714	2	
+Bongara	Shelleng	Adamawa	10.194	12.265	2	
+Bonga	Alkaleri	Bauchi	10.058	10.380	2	
+Bonga	Bogoro	Bauchi	9.538	9.590	2	
+Bonga	Mangu	Plateau	9.464	9.166	2	
+Bong	Kurmi	Taraba	7.163	10.239	2	
+Bonani	Teungo	Adamawa	8.311	11.675	2	
+Bomu	Yola North	Adamawa	9.375	12.322	2	Wumu
+Bomu	Gokana	Rivers	4.639	7.298	2	
+Bongni	Ganye	Adamawa	8.552	11.811	2	
+Bombula Bula-Wosa	Chibok	Borno	10.899	12.692	2	
+Bombula Bula-Fali	Chibok	Borno	10.893	12.686	2	
+Bombata	Jama'Are	Bauchi	11.756	9.935	2	
+Bom Bami	Maru	Zamfara	12.256	6.377	2	
+Bomala	Dukku	Gombe	10.611	10.698	2	
+Boma	Dandi	Kebbi	11.645	3.720	2	
+Bolowojaiye	Lagelu	Oyo	7.477	4.048	2	
+Bolougbene	Southern Ijaw	Bayelsa	4.736	6.077	2	
+Bolorunduro	Ife North	Osun	7.263	4.476	2	
+Bolorunduro	Ife South	Osun	7.206	4.498	2	
+Bolorunduro	Ondo West	Ondo	6.972	4.686	2	
+Bolori	Maiduguri	Borno	11.883	13.089	2	
+Boloko	Fufore	Adamawa	9.551	13.107	2	
+Bolobolore	Yola North	Adamawa	9.210	12.429	2	
+Bolo-Bolo	Kontagora	Niger	10.324	5.297	2	
+Bolkolo	Gujba	Yobe	11.547	11.873	2	Bulakolobe
+Bolki	Numan	Adamawa	9.382	11.623	2	
+Bolki	Song	Adamawa	9.783	12.562	2	Bulke
+Boli	Jada	Adamawa	8.798	12.786	2	
+Boolairi	Dange-Shuni	Sokoto	12.862	5.404	2	Bolere
+Bole	Yola North	Adamawa	9.134	12.519	2	
+Bolakel Villages	Chibok	Borno	10.940	12.886	2	
+Boladna	Shiroro	Niger	10.033	6.833	2	
+Bolabunji	Gombi	Adamawa	10.445	12.570	2	
+Bola	Hawul	Borno	10.497	12.092	2	Bwala
+Bola	Hawul	Borno	10.295	12.045	2	
+Bola	Oluyole	Oyo	7.356	3.798	2	
+Bowari	Gujba	Yobe	11.572	12.321	2	Bokwari
+Boku	Paikoro	Niger	9.415	6.888	2	
+Boku	Gurara	Niger	9.276	6.839	2	
+Boku	Agaie	Niger	9.082	6.474	2	
+Bokolori	Maradun	Zamfara	12.466	6.203	2	Bakolori
+Bokoko	Nasarawa	Nasarawa	8.667	7.740	2	
+Bokoki	Toro	Bauchi	10.386	9.047	2	
+Boko	Zurmi	Zamfara	12.770	6.461	2	
+Boko	Ido	Oyo	7.412	3.785	2	
+Bokki	Song	Adamawa	10.033	12.636	2	
+Bokki	Song	Adamawa	9.844	12.534	2	
+Bokki	Bali	Taraba	8.111	10.761	2	Wuro Bokki
+Bokken	Maiha	Adamawa	9.992	13.253	2	
+Bokiau	Gwer East	Benue	7.364	8.532	2	
+Bokani	Mokwa	Niger	9.433	5.200	2	
+Bojude	Kwami	Gombe	10.543	11.025	2	
+Boju	Ohimini	Benue	7.356	7.893	2	
+Bojov	Gboko	Benue	7.406	8.678	2	
+Bojohum	Gulani	Yobe	10.716	11.694	2	
+Bojimay	Ussa	Taraba	7.421	10.243	2	
+Boji-Boji	Ika South	Delta	6.256	6.213	2	
+Boikadi	Fika	Yobe	11.459	11.307	2	
+Boigo	Guma	Benue	7.861	8.618	2	
+Boi	Ussa	Taraba	7.299	10.186	2	
+Boher	Akwanga	Nasarawa	9.011	8.414	2	
+Bogwas	Alkaleri	Bauchi	9.563	10.484	2	
+Bogurum	Dukku	Gombe	10.854	10.587	2	
+Bogunmbe	Ido	Oyo	7.512	3.758	2	
+Bogundu	Shani	Borno	10.300	11.861	2	
+Bogun	Ìsẹ́yìn	Oyo	7.686	3.322	2	
+Bogumari	Bama	Borno	11.500	14.017	2	
+Bogu	Kuje	FCT Abuja	8.640	7.399	2	
+Bogoro	Bogoro	Bauchi	9.648	9.624	2	Mogaro
+Bogi	Wushishi	Niger	9.712	6.060	2	
+Boggare	Song	Adamawa	9.785	12.685	2	
+Boggare	Fufore	Adamawa	9.374	12.745	2	
+Boggare	Fufore	Adamawa	9.132	12.227	2	
+Bogene	Obanliku	Cross River	6.613	9.291	2	
+Bogalere	Yola North	Adamawa	9.333	12.383	2	
+Boga	Gombi	Adamawa	10.132	12.392	2	
+Bofowo	Olorunsogo	Oyo	8.639	4.006	2	
+Bofowo	Doma	Nasarawa	8.317	8.250	2	
+Bodude	Aiyedade	Osun	7.234	4.249	2	
+Bodor	Funakaye	Gombe	10.732	11.341	2	
+Bodole	Dutsin Ma	Katsina	12.370	7.404	2	
+Bodinga	Shira	Bauchi	11.576	9.963	2	
+Bodinga	Fufore	Adamawa	9.003	12.259	2	
+Bodere	Fufore	Adamawa	9.294	12.741	2	
+Bode-Olude	Abeokuta North	Ogun	7.201	3.354	2	Bode Olude
+Bodenu	Shani	Borno	10.027	11.983	2	
+Bodel	Teungo	Adamawa	7.730	11.753	2	
+Bode-Igbo	Ido	Oyo	7.396	3.789	2	Bode Igbo
+Idosa-Bode Ase	Ipokia	Ogun	6.543	2.740	2	Bodashe|Bode Ase
+Boda	Dange-Shuni	Sokoto	12.806	5.351	2	Bodai|Bode
+Bode	Safana	Katsina	12.413	7.403	2	
+Boda	Saki West	Oyo	8.674	3.371	2	
+Babakoro	Ethiope West	Delta	5.801	5.890	2	Boborokun
+Bobo	Katcha	Niger	9.393	6.473	2	
+Dobare	Gudu	Sokoto	13.438	4.333	2	Bobare
+Boba	Binji	Sokoto	13.167	4.550	2	
+Boagundu	Kwande	Benue	6.685	9.564	2	
+Boropakomo	Akuku Toru	Rivers	4.464	6.609	2	Barapakama
+Bale-Bode	Kajola	Oyo	7.882	3.356	2	Bale Bode|BaleBode
+Bakureji	Alkaleri	Bauchi	9.635	10.723	2	Bakwari|Bokurehi
+Bakari Goso	Jada	Adamawa	8.545	12.271	2	Bakari Busau|Bakari-Gosso|Belo's|Bokari Busso
+Badejo	Potiskum	Yobe	11.656	11.103	2	Bodejo
+Boi	Municipal Area Council	FCT Abuja	9.012	7.562	2	
+Bokobokiri	Asari-Toru	Rivers	4.756	6.869	2	
+Bola	Akinyele	Oyo	7.511	3.954	2	
+Bororo	Kokona	Nasarawa	8.947	7.969	2	
+Jaba Boti	Karu	Nasarawa	8.749	7.889	2	
+Bageya	Rabah	Sokoto	12.900	5.617	2	Bogeya
+Wuro Bokki	Michika	Adamawa	10.648	13.518	2	
+Wuro Bororo	Gwoza	Borno	10.951	13.576	2	
+Kodo Bodi	Bama	Borno	11.316	14.255	2	
+Nburaya Bogoro	Kala-Balge	Borno	11.696	14.285	2	
+Bogashiri	Dikwa	Borno	11.783	14.078	2	
+Bogoro	Bama	Borno	11.707	14.238	2	
+Bosheri	Bama	Borno	11.502	14.086	2	
+Bonwan	Bama	Borno	11.566	14.150	2	
+Bowari	Abadam	Borno	13.475	13.396	2	Karam
+Bolunga	Abadam	Borno	13.512	13.092	2	
+Boso Charkari	Abadam	Borno	13.673	13.317	2	
+Bosomari	Abadam	Borno	13.622	13.270	2	
+Bokubokiri	Akuku Toru	Rivers	4.422	6.541	2	
+Bogoubo	Ọ̀wọ̀	Ondo	7.027	5.616	2	
+Ago-Bolorunduro	Idanre	Ondo	7.044	5.307	2	
+Bolorunduro	Ose	Ondo	7.053	5.686	2	
+Boluwaduro	Akure North	Ondo	7.226	5.395	2	
+Bolorunduro	Akure North	Ondo	7.264	5.348	2	
+Bolorunduro	Ise/Orun	Ekiti	7.321	5.421	2	
+Boropa	Akoko North East	Ondo	7.534	5.852	2	
+Bolorunduro	Ikole	Ekiti	7.863	5.504	2	
+Wuro Bokki	Gombi	Adamawa	10.116	12.487	2	
+Bonta	Shelleng	Adamawa	10.136	12.186	2	
+Kwana Jauro Borono	Hawul	Borno	10.314	12.163	2	
+Bola	Kwaya Kusar	Borno	10.431	12.040	2	
+Bogo	Gwer East	Benue	7.240	8.410	2	
+Boo	Gboko	Benue	7.444	8.896	2	
+Bokyaa	Gboko	Benue	7.475	8.982	2	
+Bodanyi	Gwer West	Benue	7.616	8.188	2	
+Bobo	Apa	Benue	7.645	8.072	2	
+Boju	Agatu	Benue	7.855	8.095	2	
+Bongwega	Takum	Taraba	6.546	9.702	2	
+Ungwan Boto	Bunza	Kebbi	12.387	3.945	2	
+Ungwan Bogobiri	Bunza	Kebbi	12.209	3.796	2	
+Ago Bonema	Okitipupa	Ondo	6.492	4.823	2	Ago-Bonema
+Botsotsoa	Baure	Katsina	12.823	8.715	2	
+Borro	Baure	Katsina	12.796	8.868	2	
+Botsotsowa	Babura	Jigawa	12.658	8.873	2	
+Borowatara	Babura	Jigawa	12.593	8.758	2	
+Kaki Boko	Kazaure	Jigawa	12.660	8.661	2	
+Bori	Shanono	Kano	12.051	8.095	2	
+Boji	Mashi	Katsina	12.964	8.007	2	
+Bodeyel	Kazaure	Jigawa	12.659	8.479	2	
+Wuro Bodgeh	Hong	Adamawa	10.177	12.905	2	
+Bora	Batagarawa	Katsina	12.814	7.614	2	
+Bore	Dan Musa	Katsina	12.166	7.311	2	
+Bornawa	Wurno	Sokoto	13.214	5.395	2	
+Bola	Wamako	Sokoto	13.120	5.030	2	
+Boya	Wamako	Sokoto	13.030	5.087	2	
+Tungan Bori	Agwara	Niger	10.626	4.657	2	
+Gidan-Boba	Wurno	Sokoto	13.271	5.419	2	
+Kada Boki	Kankara	Katsina	11.995	7.420	2	
+Boro	Kankara	Katsina	11.830	7.396	2	
+Bohari	Funtua	Katsina	11.526	7.251	2	
+Bori	Kafur	Katsina	11.516	7.589	2	
+Magaji Bobo	Funtua	Katsina	11.504	7.298	2	
+Bormo	Kudan	Kaduna	11.338	7.727	2	
+Ungwan Boka	Kudan	Kaduna	11.314	7.727	2	
+Ungwan Boyi	Giwa	Kaduna	11.134	7.286	2	
+Tudun Bode	Koko-Besse	Kebbi	11.213	4.390	2	
+Tunga Boka	Bagudo	Kebbi	11.357	4.255	2	
+Kacheri Boduke	Rijau	Niger	11.247	4.877	2	
+Bomobolo	Warri South	Delta	5.521	5.591	2	
+Boyoutugbene	Burutu	Delta	5.307	5.694	2	
+Bokkiru	Dukku	Gombe	10.409	10.964	2	
+Garin Mallam Bossai	Dukku	Gombe	10.383	10.947	2	
+Bomala	Dukku	Gombe	10.379	10.982	2	
+Bomala	Akko	Gombe	10.369	10.995	2	
+Boatmangbene	Ekeremor	Bayelsa	4.978	5.616	2	
+Bomiyegbene	Ekeremor	Bayelsa	4.811	5.595	2	
+Bokamgbene	Southern Ijaw	Bayelsa	4.629	5.722	2	Bokumogbene
+Boune	Ekeremor	Bayelsa	4.848	5.489	2	
+Boya	Borgu	Niger	10.356	3.847	2	
+Bogor	Gokana	Rivers	4.682	7.341	2	
+Boni	Ndokwa East	Delta	5.743	6.614	2	
+Bomadi Camp	Ndokwa East	Delta	5.517	6.525	2	
+Bouygbene	Isoko South	Delta	5.236	6.173	2	
+Borutu-Gbene	Sagbama	Bayelsa	5.068	6.054	2	
+Bodinga	Bodinga	Sokoto	12.883	5.167	2	
+Borgu	Borgu	Niger	10.378	4.163	2	Agbegbe Ijoba Ibile Borgu|Area de governo local de Borgu|Borgu Local Government Area
+Boki	Boki	Cross River	6.250	9.033	2	Agbegbe Ijoba Ibile Boki|boki
+Borsari	Borsari	Yobe	12.699	11.426	2	Bursari
+Boluwaduro	Boluwaduro	Osun	7.919	4.813	2	Agbegbe Ijoba Ibile Boluwaduro
+Boripe	Boripe	Osun	7.856	4.669	2	Agbegbe Ijoba Ibile Boripe
+Ogu Bolo	Ogu Bolo	Rivers	4.648	7.186	2	
+Bokkos	Bokkos	Plateau	9.227	8.927	2	Agbegbe Ijoba Ibile Bokkos|Bokkos Local Government Area|bokkosu
+Bonny	Bonny	Rivers	4.440	7.233	2	Bonny Local Government Area
+Chibok	Chibok	Borno	10.836	12.771	2	Agbegbe Ijoba Ibile Chibok|Chibok Local Government Area|chiboku|chybwk|qi bo ke|z'ybwq
+Wuro Bobbo	Fufore	Adamawa	9.542	13.122	2	
+Wuro Bokki	Maiha	Adamawa	9.608	13.215	2	
+Wuro Bokki	Song	Adamawa	9.612	13.054	2	
+Kowagol Boshe	Maiha	Adamawa	9.967	13.163	2	
+Wuro Bobbo	Maiha	Adamawa	9.933	13.242	2	
+Bokko Sato Clan	Gwoza	Borno	11.143	13.795	2	
+Bokko Tinta Clan	Gwoza	Borno	11.180	13.760	2	
+Botori	Marte	Borno	12.420	13.938	2	
+Borwati	Kukawa	Borno	12.811	13.711	2	Kirsuma
+Bolori	Monguno	Borno	12.758	13.501	2	
+Boderi Ganna	Marte	Borno	12.526	13.865	2	
+Wuro Bokki	Mubi North	Adamawa	10.108	13.198	2	
+Bolori	Maiduguri	Borno	11.861	13.129	2	
+Bolari	Dukku	Gombe	11.014	11.116	2	
+Joure-Bose	Gulani	Yobe	11.116	11.857	2	
+Jouro-Bose	Gulani	Yobe	11.014	11.755	2	
+Buka Bokwo	Jos North	Plateau	9.869	8.852	2	Kuka Bokwo
+Bar Bonga	Jos North	Plateau	9.932	8.969	2	
+Boje	Boki	Cross River	6.233	8.939	2	
+Boyi	Gwer East	Benue	7.255	8.482	2	
+Boyi	Gwer East	Benue	7.261	8.409	2	
+Bokoko	Gassol	Taraba	8.246	10.538	2	
+Garin Bode	Bali	Taraba	8.178	10.633	2	
+Boboshe	Dikwa	Borno	11.957	13.906	2	
+Bogomari	Bama	Borno	11.527	13.993	2	
+Pulka Bokko	Gwoza	Borno	11.244	13.807	2	
+Boyekai	Goronyo	Sokoto	13.415	5.553	2	
+Borno Kiji	Fune	Yobe	12.204	11.329	2	
+Ruwan Bore-Mirkidi	Talata Mafara	Zamfara	12.493	5.985	2	
+Boko	Zurmi	Zamfara	12.773	6.483	2	
+Bomo	Sabon Gari	Kaduna	11.191	7.636	2	
+Bogum	Mobbar	Borno	13.278	12.939	2	
+Boi	Bogoro	Bauchi	9.556	9.526	2	
+Ogu/Bolo	Ogu Bolo	Rivers	4.669	7.203	2	Ogu/Bolo
+Bokia	Gwer West	Benue	7.609	8.200	2	
+Bosua	Logo	Benue	7.767	9.241	2	
+Bonjiir	Guma	Benue	7.600	9.008	2	
+Bosua	Wukari	Taraba	7.775	9.891	2	
+Bosua	Ukum	Benue	7.574	9.608	2	
+Borkyo	Katsina-Ala	Benue	7.540	9.813	2	
+Bosha	Donga	Taraba	7.625	9.895	2	
+Boki	Gboko	Benue	7.406	9.032	2	
+Boogundu	Buruku	Benue	7.475	9.126	2	
+Boyi	Buruku	Benue	7.314	9.152	2	
+Bokyaa	Katsina-Ala	Benue	7.492	9.387	2	
+Boagudu	Katsina-Ala	Benue	7.311	9.409	2	Boagundu
+Bonkyaa	Ushongo	Benue	7.043	9.163	2	
+Boagundu	Buruku	Benue	7.210	9.219	2	
+Bojime	Buruku	Benue	7.209	9.213	2	
+Boager	Ushongo	Benue	7.074	9.209	2	
+Boyi	Ushongo	Benue	7.020	9.261	2	
+Bon	Gboko	Benue	7.399	8.821	2	
+Bong	Gboko	Benue	7.386	8.841	2	
+Bonneykiri	Brass	Bayelsa	4.282	6.086	2	
+Buoy Boko	Brass	Bayelsa	4.323	6.329	2	
+Bokungi	Lavun	Niger	9.148	5.570	2	
+Botingi	Edati	Niger	9.058	5.696	2	
+Katamba Bologi	Edati	Niger	9.130	5.631	2	
+Kuka Boata	Machina	Yobe	13.073	10.030	2	
+Bodi	Katcha	Niger	9.350	6.404	2	
+Bogoro	Bogoro	Bauchi	9.613	9.529	2	
+Gidan Boka	Shiroro	Niger	9.777	6.648	2	
+Bouda	Jada	Adamawa	8.672	12.088	2	
+Dan Borom	Jada	Adamawa	8.617	12.359	2	
+Bojou	Jada	Adamawa	8.564	12.420	2	
+Boi	Fufore	Adamawa	8.844	12.470	2	
+Bojo	Jada	Adamawa	8.737	12.467	2	
+Botanical Garden	Lagos Mainland	Lagos	6.478	3.373	2	
+Bozi	Karu	Nasarawa	9.270	7.903	2	
+Boduga	Zing	Taraba	8.848	11.681	2	
+Wuro Mallam Bodejo	Ardo-Kola	Taraba	8.855	11.337	2	
+Lamido Bornu	Ardo-Kola	Taraba	8.838	11.310	2	
+Garin Hamma Bose	Ardo-Kola	Taraba	8.785	10.998	2	
+Boret	Shendam	Plateau	8.924	9.568	2	
+Boiyo	Takum	Taraba	7.535	10.047	2	
+Bora Chori	Jaba	Kaduna	9.443	8.060	2	
+Ungwan Bororo	Zangon Kataf	Kaduna	9.904	8.397	2	
+Bonkwa	Zangon Kataf	Kaduna	9.712	8.286	2	
+Bot	Zangon Kataf	Kaduna	9.681	8.307	2	
+Boor	Qua'An Pan	Plateau	8.935	9.271	2	
+Bokanga	Demsa	Adamawa	9.488	12.129	2	
+Lainde Boggare Hamlets	Yola North	Adamawa	9.346	12.380	2	
+Boloko	Girei	Adamawa	9.493	12.483	2	
+Boilare	Yola North	Adamawa	9.319	12.402	2	
+Boillire	Yola North	Adamawa	9.177	12.403	2	Boilire
+Boggalabbi	Fufore	Adamawa	9.257	12.258	2	
+Wuro Bokki	Demsa	Adamawa	9.231	12.035	2	
+Yolde Boile Bakari	Mayo-Belwa	Adamawa	9.184	12.033	2	
+Bobbore	Demsa	Adamawa	9.296	12.149	2	
+Wuro Bokki	Mayo-Belwa	Adamawa	9.088	12.033	2	
+Bokki Lauru Dundere	Mayo-Belwa	Adamawa	9.147	12.051	2	
+Boilere Jaura Buba Kindam	Mayo-Belwa	Adamawa	9.144	12.054	2	
+Wuro Bobo	Mayo-Belwa	Adamawa	9.014	12.127	2	
+Boilire	Fufore	Adamawa	9.138	12.142	2	
+Yolde Boile	Fufore	Adamawa	9.136	12.113	2	
+Boilire	Fufore	Adamawa	9.128	12.182	2	
+Bonbure	Larmurde	Adamawa	9.470	11.502	2	
+Boidawadi	Larmurde	Adamawa	9.420	11.592	2	
+Wuro-Bobboi	Lau	Taraba	9.221	11.617	2	
+Jauro-Bosesote	Yorro	Taraba	9.054	11.553	2	
+Bosum	Yorro	Taraba	9.073	11.689	2	
+Bonro	Demsa	Adamawa	9.323	11.904	2	
+Wuro Bokki Dakusun	Demsa	Adamawa	9.210	11.921	2	
+Wuro Bogga	Alkaleri	Bauchi	9.662	10.693	2	Bohga
+Ungwar Boyi	Karim Lamido	Taraba	9.306	11.133	2	
+Bombo	Karim Lamido	Taraba	9.230	11.002	2	
+Bowoje	Obafemi Owode	Ogun	7.028	3.379	2	
+Bolukefun	Obafemi Owode	Ogun	7.075	3.442	2	
+Bonubla	Odeda	Ogun	7.271	3.343	2	
+Boreke	Ona Ara	Oyo	7.274	4.073	2	
+Bojowa	Ijebu North	Ogun	7.029	4.020	2	
+Bolaji	Ona Ara	Oyo	7.304	4.079	2	
+Bolorunduro Alugbin	Surulere	Oyo	7.990	4.523	2	
+Bolorunduro	Atakunmosa West	Osun	7.592	4.636	2	
+Bojuro	Atakunmosa West	Osun	7.660	4.579	2	
+Boredun	Boripe	Osun	7.781	4.626	2	
+Bolarinwa	Yewa North	Ogun	7.335	2.984	2	
+Bole-Kilaru	Yola North	Adamawa	9.116	12.522	2	Bole Kilaru
+Bodere	Yola North	Adamawa	9.156	12.502	2	Boilare
+Rumnde-Bokki	Fufore	Adamawa	9.216	12.880	2	Rumnde Bokki
+Wuro Boloke	Fufore	Adamawa	9.126	12.855	2	
+Bonafe	Yola North	Adamawa	9.186	12.514	2	
+Bole-Kilaru-Hamlets	Yola North	Adamawa	9.130	12.507	2	Bole Kilaru Hamlets
+Boni	Baruten	Kwara	9.514	3.198	2	
+Bodebe	Baruten	Kwara	9.015	3.536	2	
+Bolorunduro	Ife South	Osun	7.070	4.596	2	
+Bowale	Atakunmosa West	Osun	7.469	4.641	2	
+Bolorunduro	Ife South	Osun	7.231	4.654	2	
+Bolorunduro	Ile Oluji/Okeigbo	Ondo	7.220	4.758	2	
+Bolorunduro-Irowa	Ondo West	Ondo	7.094	4.756	2	
+Bolorunduro	Oriade	Osun	7.433	4.846	2	
+Bokesogun	Ondo West	Ondo	7.046	4.897	2	
+Bomode-Oku	Ondo East	Ondo	7.154	4.906	2	
+Bosunla	Ori Ire	Oyo	8.105	4.160	2	
+Bofowo	Ori Ire	Oyo	8.319	4.256	2	
+Bolanta	Surulere	Oyo	8.154	4.440	2	
+Bolekun	Moro	Kwara	8.738	4.306	2	
+Bogungbe	Ibarapa North	Oyo	7.681	3.146	2	
+Bolorunduro	Ifelodun	Kwara	8.472	5.085	2	
+Bodo-Gbada	Offa	Kwara	8.127	4.630	2	
+Boshon Bisa	Nasarawa Egon	Nasarawa	8.802	8.474	2	Boshon-Bisa|BoshonBisa
+Angwan-Boro	Kokona	Nasarawa	8.968	8.169	2	
+Bolorunduro	Ifelodun	Kwara	8.411	4.936	2	
+Bolorunduro	Ifelodun	Kwara	8.356	4.949	2	
+Bobon	Ganye	Adamawa	8.398	12.125	2	
+Borokoto	Song	Adamawa	9.981	12.399	2	
+Yolde Bokki	Shelleng	Adamawa	9.917	12.034	2	YoldeBokki
+Bondi	Song	Adamawa	9.818	12.479	2	
+Boburo Fulani	Shelleng	Adamawa	9.829	12.050	2	BoburoFulani
+Boburo Arna	Shelleng	Adamawa	9.837	12.041	2	BoburoArna
+Boon	Shelleng	Adamawa	9.773	12.187	2	
+Bowotisa	Song	Adamawa	9.695	12.410	2	
+Bobormi	Song	Adamawa	9.695	12.281	2	
+Boi	Song	Adamawa	9.829	12.360	2	
+Bokile	Song	Adamawa	9.694	12.445	2	River Bokile|RiverBokile
+Bolon Jalo	Girei	Adamawa	9.556	12.462	2	BolonJalo
+Bolawa	Girei	Adamawa	9.506	12.418	2	
+Bongo	Song	Adamawa	9.818	12.611	2	
+Borongoi	Song	Adamawa	9.838	12.551	2	
+Wuro Boyi	Girei	Adamawa	9.547	12.503	2	WuroBoyi
+Bolorunduro	Ilorin South	Kwara	8.446	4.641	2	
+Bologi	Katcha	Niger	8.964	6.260	2	
+Bonspan	Teungo	Adamawa	7.962	12.003	2	
+Bokwoi	Kwali	FCT Abuja	8.625	7.080	2	
+Bom	Sardauna	Taraba	6.883	11.147	2	
+Bolunduro	Lagelu	Oyo	7.581	4.115	2	
+Jauro Bose	Ardo-Kola	Taraba	8.828	11.296	2	
+Bole	Yola North	Adamawa	9.161	12.489	2	
+Boman	Fufore	Adamawa	9.055	12.179	2	
+Bode-Ase	Ipokia	Ogun	6.561	2.757	2	
 Bola Ajibola Street	Ikeja	Lagos	6.601	3.355	1	
 Bode Thomas Street	Mushin	Lagos	6.535	3.367	1	
 Pulka Bokko - Kerawa Road	Gwoza	Borno	11.210	13.793	1	
@@ -365,7 +822,6 @@ Charles Bonnet Crescent	Kaduna North	Kaduna	10.539	7.473	1
 Old Bodija Roundabout	Ibadan North	Oyo	7.418	3.902	1	
 Tipper road/Borrow pit	Oredo	Edo	6.318	5.580	1	
 Bob-Oshodin Street	Egor	Edo	6.364	5.627	1	
-GSS Doka Boys School	Kaduna North	Kaduna	10.503	7.429	0	
 Patrick O. Bokkor Crescent	Municipal Area Council	FCT Abuja	9.070	7.429	1	
 Boye Street	Oshodi/Isolo	Lagos	6.559	3.343	1	
 Boladale Street	Oshodi/Isolo	Lagos	6.556	3.346	1	
@@ -436,25 +892,17 @@ Bonny Lane	Enugu North	Enugu	6.445	7.498	1
 Bonny Close	Enugu North	Enugu	6.444	7.499	1	
 Bordman Lane	Enugu South	Enugu	6.425	7.495	1	
 Cooperative Boulevard	Enugu East	Enugu	6.474	7.492	1	
-Bompai road	Nassarawa	Kano	12.011	8.558	1	
 Bolodeoku Crescent	Ifako/Ijaye	Lagos	6.631	3.336	1	
 Bordman Street	Enugu North	Enugu	6.426	7.495	1	
 Bode Fapounda Street	Oshodi/Isolo	Lagos	6.507	3.301	1	
-Bode Thomas Street	Surulere	Lagos	6.490	3.354	1	
 Bolaji Benson Street	Ìkòròdú	Lagos	6.623	3.489	1	
 Boye Adekanmbi Crescent	Ìkòròdú	Lagos	6.638	3.497	1	
 Bolanle Adekoya Street	Ìkòròdú	Lagos	6.628	3.478	1	
-BALA MUHD BORODO STREET	Kano Municipal	Kano	11.974	8.528	1	
-Tudun Bojuwa Health Post	Fagge	Kano	12.050	8.487	0	
+Bala Muhd Borodo Street	Kano Municipal	Kano	11.974	8.528	1	
 Kunya to Niger Border Road	Babura	Jigawa	12.428	8.832	1	
-Bourdillon Road	Eti Osa	Lagos	6.445	3.447	1	
 Atlantic Boulevard	Eti Osa	Lagos	6.431	3.551	1	
 Boda Ajakaiye Street	Eti Osa	Lagos	6.424	3.520	1	
-Bono Dispensary	Shira	Bauchi	11.381	9.956	0	
 Bolowupelu Street	Alimosho	Lagos	6.545	3.272	1	
-Bogoro Maternal and Child Health Clinic	Bogoro	Bauchi	9.661	9.598	0	
-Health Clinic Bongah	Bogoro	Bauchi	9.627	9.562	0	
-Bonga Health Center	Bogoro	Bauchi	9.655	9.571	0	Mwari Pmss Clinic
 Bovi Muroko Drive	Eti Osa	Lagos	6.469	3.660	1	
 Bore-Hole Rd	Esan West	Edo	6.723	6.142	1	
 Bola Matanmi Street	Eti Osa	Lagos	6.449	3.572	1	
@@ -466,12 +914,8 @@ Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.618	13.266	1
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.510	13.194	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.516	13.148	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.565	13.241	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.560	13.236	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.576	13.256	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.653	13.323	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.594	13.266	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.605	13.266	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.662	13.328	1	
 Bolorunduro Street	Ede North	Osun	7.721	4.493	1	
 Bola Balogun Street	Ibeju Lekki	Lagos	6.482	3.726	1	
 Bola Lawal Street	Eti Osa	Lagos	6.473	3.656	1	
@@ -482,17 +926,11 @@ Bolo Street	Port-Harcourt	Rivers	4.803	7.005	1
 Isaac Boro Expressway	Yenegoa	Bayelsa	4.943	6.343	1	
 Isaac Boro Expressway	Yenegoa	Bayelsa	4.954	6.358	1	
 Isaac Boro Expressway	Yenegoa	Bayelsa	4.907	6.289	1	
-Isaac Boro Expressway	Yenegoa	Bayelsa	4.909	6.296	1	
 Ankpa - Boju-Ega Road	Ankpa	Kogi	7.414	7.765	1	
-Altantic Hall Boarding School	Epe	Lagos	6.613	3.965	0	
-Bonus Pastor (Catholic) Junior Seminar and Secondary School	Ideato North	Imo	5.876	7.094	0	
 Ankpa - Boju-Ega Road	Ohimini	Benue	7.348	7.944	1	
 Ankpa - Boju-Ega Road	Ankpa	Kogi	7.416	7.618	1	
-Ankpa - Boju-Ega Road	Ankpa	Kogi	7.411	7.628	1	
 T. O. Last Born Street	Adó-Èkìtì	Ekiti	7.611	5.213	1	
 Eko Boulevard	Eti Osa	Lagos	6.421	3.413	1	
-Eko Boulevard	Eti Osa	Lagos	6.408	3.419	1	
-Eko Boulevard	Eti Osa	Lagos	6.415	3.416	1	
 Boyle Street	Shomolu	Lagos	6.534	3.372	1	
 Bode Onifade Street	Oshodi/Isolo	Lagos	6.566	3.337	1	
 Monsuru Bolade Street	Alimosho	Lagos	6.636	3.287	1	
@@ -505,58 +943,36 @@ Borokini street	Ìkòròdú	Lagos	6.605	3.506	1
 Bola Ayorinde Street	Eti Osa	Lagos	6.471	3.583	1	
 Bolanle Adesanya Close	Eti Osa	Lagos	6.507	3.585	1	
 Bola Ige Street	Obokun	Osun	7.750	4.880	1	
-Bosso health post	Demsa	Adamawa	9.559	12.147	0	
 Bourdillon Road	Eti Osa	Lagos	6.445	3.433	1	
 Bola Arowolo	Kosofe	Lagos	6.551	3.383	1	
 Bola Yussuph Street	Eti Osa	Lagos	6.449	3.483	1	
-Methodist Boys' High School	Eti Osa	Lagos	6.427	3.435	0	
 Bozimo Close	Uvwie	Delta	5.547	5.772	1	
+Boundary Road	Oredo	Edo	6.310	5.621	1	
 Boundary Road	Oredo	Edo	6.315	5.613	1	
 Boundary Road	Ovia North-East	Edo	6.449	5.602	1	
-Gold Cross Hospital - Bourdillon	Eti Osa	Lagos	6.446	3.438	0	
 Major Bowen Road	Sapele	Delta	5.884	5.688	1	
 Bon j street	Karu	Nasarawa	9.005	7.641	1	
-Isaac Boro Expressway	Yenegoa	Bayelsa	4.937	6.334	1	
 Bobo Close	Municipal Area Council	FCT Abuja	9.079	7.498	1	
 Bola Ebun Close	Eti Osa	Lagos	6.471	3.652	1	
 Bonny Terminal	Bonny	Rivers	4.429	7.174	1	
-ABUJA BOULEVARD	Bonny	Rivers	4.388	7.180	1	
+Abuja Boulevard	Bonny	Rivers	4.388	7.180	1	
 Adeyemi Bola Street	Eti Osa	Lagos	6.501	3.594	1	
 Emmanuel Mbaka Boulevard	Municipal Area Council	FCT Abuja	8.963	7.361	1	
 Bonny-Bodo Road	Bonny	Rivers	4.416	7.242	1	
-Bodija-Ashi Road	Ibadan North	Oyo	7.432	3.921	1	
 Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.111	7.444	1	
 Federal Road F.128 Benin Border - Bisagana	Mobbar	Borno	13.087	12.533	1	
 Markus Kangye Boulevard	Municipal Area Council	FCT Abuja	9.004	7.465	1	
 Nal Boulevard	Municipal Area Council	FCT Abuja	9.054	7.477	1	
 Bola Aganga Crescent	Ilorin South	Kwara	8.491	4.615	1	
-Ladoke Akintola Boulevard	Municipal Area Council	FCT Abuja	9.024	7.496	1	
-Ladoke Akintola Boulevard	Municipal Area Council	FCT Abuja	9.027	7.498	1	
 Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.452	1	
 Sunrise Boulevard	Municipal Area Council	FCT Abuja	9.064	7.526	1	
-Abbot Boys Secondary School Ihiala	Ihiala	Anambra	5.839	6.860	0	
-Boniface Street	Enugu South	Enugu	6.386	7.480	1	
 Suleiman E. Bogoro Way	Municipal Area Council	FCT Abuja	8.971	7.438	1	
-Cooperative Boulevard	Enugu East	Enugu	6.475	7.491	1	
 Ankpa - Boju-Ega Road	Ankpa	Kogi	7.426	7.599	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.514	13.136	1	
-Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.113	7.430	1	
 Bola Emmanuel Drive	Municipal Area Council	FCT Abuja	9.046	7.535	1	
 Bradley Boulevard	Mobbar	Borno	13.076	12.513	1	
 Legacy Boulevard	Eti Osa	Lagos	6.428	3.551	1	
-Bonny Airport	Bonny	Rivers	4.410	7.188	0	
-Bovas	Ìkòròdú	Lagos	6.619	3.464	0	
-Boundary Market	Ajeromi/Ifelodun	Lagos	6.455	3.353	0	Alayabiagba Market
 Bolarin Street	Ibeju Lekki	Lagos	6.465	3.704	1	
-Suleiman E. Bogoro Way	Municipal Area Council	FCT Abuja	8.984	7.447	1	
-Bono Health Post	Bunkure	Kano	11.704	8.632	0	
-Bokavo Health Post	Fagge	Kano	12.033	8.508	0	
-General Hospital Bogoro	Bogoro	Bauchi	9.685	9.601	0	
-Bada Koshi Primary Health Center	Bogoro	Bauchi	9.554	9.504	0	Boi Primary Health Center
-Borno Medical Clinic	Maiduguri	Borno	11.853	13.145	0	
-Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.825	13.145	0	
-Zonal Hospital, Bori	Khana	Rivers	4.674	7.378	0	
-Borno State Specialist Hospital	Maiduguri	Borno	11.837	13.151	0	
 Bonny-Bodo Road	Bonny	Rivers	4.606	7.262	1	
 Bonny-Bodo Road	Bonny	Rivers	4.600	7.259	1	
 Bonny-Bodo Road	Bonny	Rivers	4.499	7.275	1	
@@ -565,13 +981,116 @@ Bonny-Bodo Road	Bonny	Rivers	4.484	7.275	1
 Bonny-Bodo Road	Bonny	Rivers	4.489	7.275	1	
 Bonny-Bodo Road	Gokana	Rivers	4.660	7.301	1	
 Kpopie Roundabout - Bonny-Bodo Road	Gokana	Rivers	4.694	7.303	1	
-Isaac Boro Expressway	Yenegoa	Bayelsa	4.952	6.354	1	
-Borno Way	Lagos Mainland	Lagos	6.487	3.382	1	
 Boundary Road	Egor	Edo	6.327	5.569	1	
 Boarding Primary School IDP Camp	Konduga	Borno	11.666	13.414	1	
-Wuro Boki Dispensary	Shani	Borno	10.075	12.053	0	
-bolon	Demsa	Adamawa	9.410	11.995	0	
 Boarding School Street	Yenegoa	Bayelsa	4.876	6.216	1	
+Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.462	1	
+Bola Ahmed Tinubu Way	Eti Osa	Lagos	6.475	3.585	1	
+Afolabi Bolaji Drive	Eti Osa	Lagos	6.446	3.574	1	
+Boki Road	Ogoja	Cross River	6.619	8.788	1	
+Isaac Boro Street	Port-Harcourt	Rivers	4.788	7.006	1	
+Boge Authentic Avenue	Ìkòròdú	Lagos	6.684	3.542	1	
+Bonny-Bodo Road	Bonny	Rivers	4.461	7.271	1	
+Bonny-Bodo Road	Bonny	Rivers	4.532	7.271	1	
+Boki Road	Ogoja	Cross River	6.645	8.789	1	
+Bobby's Compound Road	Njaba	Imo	5.689	7.022	1	
+Balogun Boulevard Street	Esan West	Edo	6.771	6.125	1	
+Bola Ahmed Tinubu Way	Eti Osa	Lagos	6.471	3.585	1	
+Bonny Terminal	Bonny	Rivers	4.604	7.261	1	
+Bonny-Bodo Road	Gokana	Rivers	4.621	7.277	1	
+Bonny-Bodo Road	Bonny	Rivers	4.455	7.268	1	
+Bonny Terminal	Bonny	Rivers	4.412	7.194	1	
+Boye Adekanbi Street	Ìkòròdú	Lagos	6.636	3.501	1	
+Bob Izua Motor Park	Oredo	Edo	6.343	5.633	0	
+Bobizua Shopping Mall	Oredo	Edo	6.335	5.615	0	
+Bodija Train Station	Ibadan North	Oyo	7.432	3.915	0	
+Bovas Petrol Station	Ibadan North	Oyo	7.427	3.910	0	
+Bodija Market Stop	Ibadan North	Oyo	7.434	3.912	0	
+Bojos Dispensary	Alkaleri	Bauchi	10.271	10.333	0	Kunzun Health Post
+Boluwaji Health Centre	Ibadan South East	Oyo	7.343	3.906	0	
+Boluwaji Bus Stop	Ibadan South East	Oyo	7.341	3.907	0	
+St Louis Secondary School Bompai	Nassarawa	Kano	12.019	8.563	0	
+Bodo Primary School	Kala-Balge	Borno	12.361	14.461	0	
+Ado Bobi Primary School.	Mariga	Niger	10.136	6.022	0	
+Borosa Filling Station	Uvwie	Delta	5.565	5.760	0	
+Bonosik Oil and Gas Filling Station	Uvwie	Delta	5.534	5.762	0	
+Bobby Filling Station	Obio/Akpor	Rivers	4.855	6.973	0	
+Borno Express Station	Maiduguri	Borno	11.835	13.116	0	
+Bonny Camp	Eti Osa	Lagos	6.438	3.409	0	
+Bovag	Ojo	Lagos	6.486	3.167	0	
+Bolorunduro Market	Ondo East	Ondo	7.169	4.964	0	
+Bovas	Ibadan North West	Oyo	7.427	3.881	0	
+Bovas Filling Station	Ogbomosho North	Oyo	8.136	4.237	0	
+Bowen School of Nursing	Ogbomosho North	Oyo	8.136	4.235	0	
+PEN RESOURCE ACADEMY (boarding sch)& ROBOTICS CENTER	Akko	Gombe	10.290	11.053	0	
+General Hospital Bodingal	Bodinga	Sokoto	12.851	5.144	0	
+Bokko Dispensary	Gwoza	Borno	11.078	13.691	0	
+boro heath post	Jada	Adamawa	8.643	12.108	0	
+Acf Water Board IDP Camp Clinic	Monguno	Borno	12.683	13.614	0	
+bolon health	Demsa	Adamawa	9.412	11.995	0	
+boken dispensary clinic	Maiha	Adamawa	10.002	13.246	0	
+Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
+Bonny National Grammar School, BNGS	Bonny	Rivers	4.437	7.172	0	
+Government Primary School, Bonny	Bonny	Rivers	4.437	7.166	0	
+General Hospital, Bonny	Bonny	Rivers	4.436	7.176	0	
+Bowen University	Iwo	Osun	7.621	4.192	0	
+Gbemisola Memorial hospital, Boluwaji Area, Ibadan	Oluyole	Oyo	7.338	3.905	0	
+Bolajoko Hospital(Badejoko Hospital) Mokola road, after GTBank	Ibadan North	Oyo	7.412	3.892	0	
+Olive Pry Health Centre, iso pako, Bodija	Ibadan North	Oyo	7.440	3.920	0	
+Bovas Gas Station	Ìsẹ́yìn	Oyo	7.961	3.611	0	
+Bovas filling station Gamajigo	Jos North	Plateau	9.980	8.849	0	
+Plateau State Primary Health care Board	Jos North	Plateau	9.942	8.874	0	
+Government Secondary School Bomo BOMO	Sabon Gari	Kaduna	11.182	7.632	0	
+Federal University of Technology Minna, Bosso Campus	Chanchaga	Niger	9.656	6.529	0	
+Bovas	Osogbo	Osun	7.757	4.565	0	
+GDSS Bolari East Gombe	Gombe	Gombe	10.277	11.183	0	
+Tashan Boi	Bogoro	Bauchi	9.562	9.507	0	
+Both Public And Private Hospitals And Clinics No21 Sani Sambo Avenue	Kaduna North	Kaduna	10.547	7.441	0	
+Okokomaiko Primary Health Care Board	Ojo	Lagos	6.471	3.191	0	
+Bossom Hospital And Maternity	Ojo	Lagos	6.484	3.187	0	
+Bolus Coudlescent Center	Ojo	Lagos	6.484	3.187	0	
+Bonne Fante Hospital	Amuwo Odofin	Lagos	6.459	3.229	0	
+Jag-Bon Medical Center	Mushin	Lagos	6.520	3.367	0	
+Bogije Primary Health Center	Amuwo Odofin	Lagos	6.470	3.307	0	
+Bola kasim market	Kosofe	Lagos	6.606	3.409	0	
+Barden Boko College	Ungongo	Kano	12.039	8.570	0	
+Bovas	Ibadan North	Oyo	7.399	3.909	0	
+Bonimas	Owerri Municipal	Imo	5.492	7.059	0	
+Bovas	Municipal Area Council	FCT Abuja	8.993	7.403	0	
+Bonny Camp (VI)	Eti Osa	Lagos	6.436	3.405	0	
+Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
+Bovas, Ibrahim Taiwo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.482	4.548	0	
+bonny camp (victoria island)	Eti Osa	Lagos	6.436	3.405	0	
+boat club (ikoyi)	Eti Osa	Lagos	6.443	3.409	0	
+boundary (apapa)/number 3 (apapa) waterside	Apapa	Lagos	6.450	3.352	0	
+Bolien Mall	Eti Osa	Lagos	6.443	3.481	0	
+Boss Special Systems Limited	Municipal Area Council	FCT Abuja	9.133	7.388	0	
+Near Charley Boy Bus Stop	Municipal Area Council	FCT Abuja	9.120	7.391	0	
+Boja Arts Theatre	Ede South	Osun	7.682	4.457	0	
+GSS Doka Boys School	Kaduna North	Kaduna	10.503	7.429	0	
+Tudun Bojuwa Health Post	Fagge	Kano	12.050	8.487	0	
+Bono Dispensary	Shira	Bauchi	11.381	9.956	0	
+Bogoro Maternal and Child Health Clinic	Bogoro	Bauchi	9.661	9.598	0	
+Health Clinic Bongah	Bogoro	Bauchi	9.627	9.562	0	
+Bonga Health Center	Bogoro	Bauchi	9.655	9.571	0	Mwari Pmss Clinic
+Altantic Hall Boarding School	Epe	Lagos	6.613	3.965	0	
+Bonus Pastor (Catholic) Junior Seminar and Secondary School	Ideato North	Imo	5.876	7.094	0	
+Bosso health post	Demsa	Adamawa	9.559	12.147	0	
+Methodist Boys' High School	Eti Osa	Lagos	6.427	3.435	0	
+Gold Cross Hospital - Bourdillon	Eti Osa	Lagos	6.446	3.438	0	
+Abbot Boys Secondary School Ihiala	Ihiala	Anambra	5.839	6.860	0	
+Bonny Airport	Bonny	Rivers	4.410	7.188	0	
+Bovas	Ìkòròdú	Lagos	6.619	3.464	0	
+Boundary Market	Ajeromi/Ifelodun	Lagos	6.455	3.353	0	Alayabiagba Market
+Bono Health Post	Bunkure	Kano	11.704	8.632	0	
+Bokavo Health Post	Fagge	Kano	12.033	8.508	0	
+General Hospital Bogoro	Bogoro	Bauchi	9.685	9.601	0	
+Bada Koshi Primary Health Center	Bogoro	Bauchi	9.554	9.504	0	Boi Primary Health Center
+Borno Medical Clinic	Maiduguri	Borno	11.853	13.145	0	
+Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.825	13.145	0	
+Zonal Hospital, Bori	Khana	Rivers	4.674	7.378	0	
+Borno State Specialist Hospital	Maiduguri	Borno	11.837	13.151	0	
+Wuro Boki Dispensary	Shani	Borno	10.075	12.053	0	
 Bosivani Health Post	Fufore	Adamawa	8.799	12.485	0	
 Uncompleted Maternity Health Clinic Bokki Chamba	Fufore	Adamawa	8.833	12.497	0	
 boloko madel heath center	Fufore	Adamawa	9.552	13.106	0	
@@ -580,81 +1099,6 @@ Wuro Bokki Maternal And Child Health Clinic	Fufore	Adamawa	9.386	12.795	0
 Wuro Bokki Primary Health Care Center	Fufore	Adamawa	9.391	12.795	0	
 Bornokichi Health Clinic	Fune	Yobe	12.270	11.315	0	
 Wuro Bokki Health Post	Hong	Adamawa	10.178	12.885	0	
-Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.462	1	
-Markus Kangye Boulevard	Municipal Area Council	FCT Abuja	9.000	7.463	1	
 Miskay Boutique	Eti Osa	Lagos	6.443	3.477	0	Miskay Boutique Lekki
 Asiwaju Bola Tinubu Station	Apapa	Lagos	6.452	3.369	0	
-Bola Ahmed Tinubu Way	Eti Osa	Lagos	6.475	3.585	1	
 Bowen University Teaching Hospital	Ogbomosho North	Oyo	8.139	4.232	0	
-Afolabi Bolaji Drive	Eti Osa	Lagos	6.446	3.574	1	
-Boki Road	Ogoja	Cross River	6.619	8.788	1	
-Isaac Boro Street	Port-Harcourt	Rivers	4.788	7.006	1	
-Boge Authentic Avenue	Ìkòròdú	Lagos	6.684	3.542	1	
-Bonny-Bodo Road	Bonny	Rivers	4.472	7.276	1	
-Bonny-Bodo Road	Bonny	Rivers	4.461	7.271	1	
-Bonny-Bodo Road	Bonny	Rivers	4.532	7.271	1	
-Bonny-Bodo Road	Bonny	Rivers	4.548	7.264	1	
-Bonny-Bodo Road	Bonny	Rivers	4.592	7.258	1	
-Bonny-Bodo Road	Bonny	Rivers	4.585	7.258	1	
-Federal University of Technology Minna, Bosso Campus	Chanchaga	Niger	9.652	6.526	0	
-Boki Road	Ogoja	Cross River	6.645	8.789	1	
-Bobby's Compound Road	Njaba	Imo	5.689	7.022	1	
-Suleiman E. Bogoro Way	Municipal Area Council	FCT Abuja	8.964	7.434	1	
-Bode Thomas Street	Mushin	Lagos	6.537	3.367	1	
-Balogun Boulevard Street	Esan West	Edo	6.771	6.125	1	
-Suleiman E. Bogoro Way	Municipal Area Council	FCT Abuja	8.980	7.444	1	
-Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.110	7.451	1	
-Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.465	1	
-Bola Ahmed Tinubu Way	Eti Osa	Lagos	6.471	3.585	1	
-Bonny-Bodo Road	Bonny	Rivers	4.506	7.274	1	
-Bonny-Bodo Road	Bonny	Rivers	4.516	7.273	1	
-Bonny-Bodo Road	Bonny	Rivers	4.558	7.262	1	
-Bonny Terminal	Bonny	Rivers	4.604	7.261	1	
-Bonny-Bodo Road	Gokana	Rivers	4.621	7.277	1	
-Bonny-Bodo Road	Gokana	Rivers	4.647	7.279	1	
-Bonny-Bodo Road	Bonny	Rivers	4.455	7.268	1	
-Bonny-Bodo Road	Bonny	Rivers	4.433	7.257	1	
-Bonny Terminal	Bonny	Rivers	4.412	7.194	1	
-Bonny-Bodo Road	Bonny	Rivers	4.543	7.266	1	
-Boye Adekanbi Street	Ìkòròdú	Lagos	6.636	3.501	1	
-Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.826	13.142	0	
-Borno Kiji	Fune	Yobe	12.201	11.323	2	
-Bolewa B	Potiskum	Yobe	11.702	11.088	2	
-Borsari	Borsari	Yobe	12.706	11.479	2	
-Bolewa A	Potiskum	Yobe	11.707	11.076	2	
-Bogo	Machina	Yobe	12.847	9.731	2	
-Ruwan Bore-Mirkidi	Talata Mafara	Zamfara	12.501	5.978	2	
-Ruwan Bore	Gusau	Zamfara	12.185	6.952	2	
-Boko	Zurmi	Zamfara	12.782	6.496	2	
-Bodinga Tauma	Bodinga	Sokoto	12.834	5.160	2	
-Bodai	Dange-Shuni	Sokoto	12.781	5.345	2	
-Bodinga	Bodinga	Sokoto	12.811	5.172	2	
-Boyekai	Goronyo	Sokoto	13.434	5.555	2	
-Bokana	Sanga	Kaduna	9.334	8.576	2	
-Bondong	Kaura	Kaduna	9.710	8.560	2	
-Bomo	Sabon Gari	Kaduna	11.189	7.631	2	
-Bono	Bunkure	Kano	11.717	8.624	2	
-Borindawa	Malumfashi	Katsina	11.793	7.658	2	
-Boko	Kusada	Katsina	12.511	7.947	2	
-Bomadi	Bomadi	Delta	5.226	5.810	2	
-Borgu	Borgu	Niger	10.197	4.092	2	
-Boripe	Boripe	Osun	7.862	4.659	2	
-Boluwaduro	Boluwaduro	Osun	7.947	4.809	2	
-Bokkos	Bokkos	Plateau	9.229	8.895	2	
-Borko	Geidam	Yobe	12.619	12.306	2	
-Borgozo	Kaga	Borno	11.608	12.658	2	
-Bogomari	Bama	Borno	11.499	13.959	2	
-Bolori II	Maiduguri	Borno	11.879	13.138	2	
-Boboshe	Dikwa	Borno	11.948	13.912	2	
-Pulka Bokko	Gwoza	Borno	11.231	13.808	2	
-Boi B	Bogoro	Bauchi	9.557	9.529	2	
-Boi A	Bogoro	Bauchi	9.666	9.625	2	
-Bogoro	Bogoro	Bauchi	9.637	9.620	2	
-Bolori I	Maiduguri	Borno	11.876	13.097	2	
-Borno Yesu	Magumeri	Borno	12.207	12.480	2	
-Bogum	Mobbar	Borno	13.266	12.955	2	
-Borsori	Marte	Borno	12.458	13.790	2	
-Bosso	Bosso	Niger	9.601	6.347	2	
-Ogu Bolo	Ogu Bolo	Rivers	4.674	7.202	2	
-Bonny	Bonny	Rivers	4.506	7.203	2	
-Boki	Boki	Cross River	6.268	9.029	2	

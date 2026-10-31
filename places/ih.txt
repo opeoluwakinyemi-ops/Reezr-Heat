@@ -1,35 +1,122 @@
+Ihuo	Ikeduru	Imo	5.577	7.096	3	
+Ihiala	Ihiala	Anambra	5.855	6.860	3	
+Ihiagwa	Owerri West	Imo	5.401	7.012	3	
+Oke Iho	Kajola	Oyo	8.034	3.349	3	
+Okeho	Kajola	Oyo	8.035	3.348	3	Oke-Iho
+Iho	Ikeduru	Imo	5.582	7.099	3	Ihuo
+Ehor	Uhunmwonde	Edo	6.615	5.982	3	Iho
+Ihogbe	Oredo	Edo	6.346	5.617	2	
 Osuakwa	Ogbaru	Anambra	5.867	6.783	2	Ihala
 Ihumbaw	Ipokia	Ogun	6.692	2.855	2	
 Ihi	Gwadabawa	Sokoto	13.319	5.153	2	
 Ihite Nansa	Orsu	Imo	5.867	7.000	2	Igitemasa
-Ihuo	Ikeduru	Imo	5.577	7.096	3	
 Iho	Uhunmwonde	Edo	6.614	5.985	2	
 Ihie Ndume	Umuahia North	Abia	5.517	7.517	2	
 Iheuokpara	Nkanu East	Enugu	6.311	7.678	2	Ihuokopara
 Ihevbie	Owan East	Edo	7.040	6.133	2	
 Ihuibe	Aninri	Enugu	5.983	7.700	2	
-Ihiala	Ihiala	Anambra	5.855	6.860	3	
 Aka	Igbo-Eze-South	Enugu	6.915	7.420	2	Ihaka
 Ihuama	Ahoada East	Rivers	4.976	6.675	2	Ehuama
 Ihunsa	Ipokia	Ogun	6.686	2.777	2	
 Ahia	Ikwerre	Rivers	5.177	6.963	2	Ihia
-Ihiagwa	Owerri West	Imo	5.401	7.012	3	
 Aku Ihube	Okigwe	Imo	5.900	7.333	2	Akulhube
 Ihoke	Apa	Benue	7.627	7.801	2	Ifoke
-Oke Iho	Kajola	Oyo	8.034	3.349	3	
-Ihama Mini Market	Oredo	Edo	6.311	5.614	0	
-Ihogbe College	Oredo	Edo	6.351	5.617	0	
-Ihiebve Central Park	Owan East	Edo	7.042	6.123	0	
 Ihubulu	Ahoada East	Rivers	5.088	6.604	2	
 Iheke	Ahoada East	Rivers	5.068	6.622	2	
 Ihubogo	Ahoada East	Rivers	5.182	6.663	2	
 Ihowo	Ahoada East	Rivers	5.008	6.662	2	
 Ihuaba	Ahoada East	Rivers	5.035	6.677	2	
-Al Ihsan Clinics and Surgery	Tarauni	Kano	11.946	8.558	0	
 Ihulu Village	Aguata	Anambra	6.050	7.034	2	
+Ihitte/Uboma	Ihitte/Uboma	Imo	5.649	7.381	2	
+Osuakwa	Ihiala	Anambra	5.857	6.797	2	Ihala
+Oke-Iho	Ibarapa Central	Oyo	7.468	3.191	2	Oke Iho
+Obiohia Ihenzu	Bende	Abia	5.706	7.557	2	
+Ihyev	Markurdi	Benue	7.841	8.523	2	
+Ihunbo	Ipokia	Ogun	6.691	2.858	2	Ihumbaw
+Ihuibe	Aninri	Enugu	5.981	7.693	2	
+Ihugh	Vandeikya	Benue	7.013	9.026	2	
+Ihube	Okigwe	Imo	5.861	7.374	2	
+Ihua	Konshisha	Benue	7.085	8.703	2	
+Ihongu	Guma	Benue	8.064	8.787	2	
+Ihom	Tarka	Benue	7.714	8.879	2	
+Ihom	Gwer East	Benue	7.432	8.556	2	
+Ihom	Ushongo	Benue	7.149	8.955	2	
+Iho	Asa	Kwara	8.491	4.417	2	
+Ihiuna	Gboko	Benue	7.328	8.639	2	
+Ihitte Ogwa	Mbaitoli	Imo	5.617	7.098	2	
+Ihitte	Ahiazu-Mbaise	Imo	5.602	7.289	2	
+Ihite Owerri	Orsu	Imo	5.871	7.010	2	
+Ihite-Nansa	Orsu	Imo	5.874	6.993	2	Igitemasa
+Ihite-Ihiala	Ihiala	Anambra	5.825	6.815	2	
+Ihite	Ezinihitte	Imo	5.486	7.282	2	
+Ihite	Owerri North	Imo	5.488	7.101	2	
+Ihite	Ngor-Okpala	Imo	5.365	7.185	2	
+Ihioma	Orlu	Imo	5.807	6.998	2	
+Ihim	Ikwuano	Abia	5.466	7.573	2	
+Ihie-Ndume	Umuahia North	Abia	5.515	7.515	2	
+Ihie	Umuahia North	Abia	5.543	7.535	2	
+Ihie	Ugwunagbo	Abia	5.016	7.313	2	Ikei
+Iheuokpara	Nkanu East	Enugu	6.312	7.665	2	Ihuokopara
+Iheorji	Obi Ngwa	Abia	5.167	7.400	2	
+Ihenta	Ohafia	Abia	5.615	7.822	2	
+Ihembosi	Ekwusigo	Anambra	5.924	6.884	2	
+Ihembe	Ushongo	Benue	7.202	8.922	2	
+Ihembe	Ushongo	Benue	7.150	8.959	2	
+Ihemba	Kwande	Benue	6.684	9.555	2	
+Ihe	Awgu	Enugu	6.225	7.450	2	
+Ihanme	Vandeikya	Benue	7.010	8.987	2	
+Ihange	Vandeikya	Benue	7.009	8.898	2	
+Ihalav	Guma	Benue	7.912	8.589	2	
+Ihaija	Yala	Cross River	6.585	8.457	2	
+Aku Ihube	Okigwe	Imo	5.900	7.345	2	Akulhube
+Ihuama	Ahoada East	Rivers	4.977	6.675	2	Ehuama
+Ihura	Oturkpo	Benue	7.215	8.240	2	
+Ihuma	Gboko	Benue	7.403	8.810	2	
+Ihyungwa	Gboko	Benue	7.445	8.774	2	
+Ihongu	Gwer West	Benue	7.673	8.320	2	
+Ihor	Gwer West	Benue	7.781	8.246	2	
+Ihe	Awgu	Enugu	6.234	7.461	2	
+Ihapin	Ilaje	Ondo	6.315	4.660	2	
+Ihie	Isiala-Ngwa South	Abia	5.405	7.345	2	
+Ihumudumu	Esan West	Edo	6.746	6.111	2	Ihumudum
+Ihembosi	Ekwusigo	Anambra	5.950	6.851	2	
+Ihaigba	Owerri West	Imo	5.405	6.968	2	
+Ihie Farm Settlement	Ohaji/Egbema	Imo	5.278	6.825	2	
+Ihie	Ohaji/Egbema	Imo	5.299	6.841	2	
+Ihaba	Ahoada East	Rivers	5.033	6.676	2	
+Ihitte/Uboma	Ihitte/Uboma	Imo	5.622	7.365	2	Agbegbe Ijoba Ibile Ihitte Uboma
+Ihiagu	Nsukka	Enugu	6.837	7.415	2	
+Ihase	Doma	Nasarawa	7.935	8.299	2	
+Ihuna	Gwer West	Benue	7.550	8.197	2	
+Ihom	Gwer East	Benue	7.566	8.418	2	
+Ihom	Logo	Benue	7.742	9.033	2	
+Ihongo	Logo	Benue	7.682	9.345	2	
+Ihuwe	Wukari	Taraba	7.881	9.901	2	
+Ihiev	Buruku	Benue	7.485	9.056	2	
+Ihugh	Gboko	Benue	7.282	9.010	2	
+Ihambe	Gboko	Benue	7.373	9.104	2	
+Ihom	Buruku	Benue	7.377	9.152	2	
+Iholon	Gboko	Benue	7.346	9.094	2	
+Ihoon	Buruku	Benue	7.438	9.184	2	
+Ihamber	Buruku	Benue	7.252	9.214	2	
+Ihimba	Ushongo	Benue	7.106	9.178	2	
+Ihom	Katsina-Ala	Benue	7.164	9.335	2	
+Ihiambe	Kwande	Benue	7.026	9.385	2	
+Iho	Gboko	Benue	7.491	8.900	2	
+Ihyough	Gboko	Benue	7.435	8.948	2	
+Ihongu	Gboko	Benue	7.392	8.756	2	
+Ihiel	Gboko	Benue	7.340	8.781	2	
+Ibhiolulu	Esan Central	Edo	6.785	6.358	2	Ibiololo|Ihiolo
+Eko-Ihigame	Etsako West	Edo	6.822	6.287	2	
+Ihieme	Esan Central	Edo	6.800	6.284	2	
+Ihenwen-Ewuh	Esan Central	Edo	6.808	6.244	2	
+Ihom	Donga	Taraba	7.742	10.154	2	
+Iho-Okoko	Odeda	Ogun	7.322	3.290	2	
+Ihundo	Ado Odo/Ota	Ogun	6.528	2.913	2	
+Ihom	Keana	Nasarawa	8.174	8.595	2	
+Ihughor	Lafia	Nasarawa	8.555	8.789	2	
 Ihama Road	Oredo	Edo	6.310	5.615	1	
 Ihondor Street	Oredo	Edo	6.337	5.626	1	
-Ihenhen medical centre	Oredo	Edo	6.326	5.596	0	
 Ihiala Street	Municipal Area Council	FCT Abuja	9.034	7.480	1	
 Ihuntayi Road	Eti Osa	Lagos	6.429	3.447	1	
 Ogbeide-Ihama Street	Oredo	Edo	6.330	5.606	1	
@@ -50,23 +137,22 @@ Ben Ihejirika Street	Enugu South	Enugu	6.414	7.517	1
 Ihuokpara Crescent	Enugu East	Enugu	6.506	7.511	1	
 Ihiala -Orlu Rd	Orsu	Imo	5.826	6.944	1	
 Ihiala -Orlu Rd	Orlu	Imo	5.800	7.019	1	
-Ihiala -Orlu Rd	Orlu	Imo	5.798	7.025	1	
-Ihiala Street	Municipal Area Council	FCT Abuja	9.036	7.480	1	
 Elder Ned Ihunwo Street	Obio/Akpor	Rivers	4.830	7.058	1	
 Ihunwo Street	Obio/Akpor	Rivers	4.832	7.052	1	
 Ihumudum-Ujumen Road	Esan West	Edo	6.749	6.093	1	
 Ihute Street	Port-Harcourt	Rivers	4.802	6.992	1	
 Iheoji Avenue	Aba South	Abia	5.069	7.373	1	
 Ihembosi Street	Onitsha North	Anambra	6.136	6.792	1	
+Iheanacho Denson Street	Obio/Akpor	Rivers	4.832	6.943	1	
+Ihama Mini Market	Oredo	Edo	6.311	5.614	0	
+Ihogbe College	Oredo	Edo	6.351	5.617	0	
+Ihiebve Central Park	Owan East	Edo	7.042	6.123	0	
+Al Ihsan Clinics and Surgery	Tarauni	Kano	11.946	8.558	0	
+Ihenhen medical centre	Oredo	Edo	6.326	5.596	0	
 Nkwogbe Ihiala	Ihiala	Anambra	5.853	6.862	0	
 Abbot Boys Secondary School Ihiala	Ihiala	Anambra	5.839	6.860	0	
-Ihiala Avenue	Enugu North	Enugu	6.461	7.537	1	
-Iheanacho Denson Street	Obio/Akpor	Rivers	4.832	6.943	1	
 balaur iheath post	Jada	Adamawa	8.646	12.328	0	
 Ihya;ussunnah Jauro kuna	Gombe	Gombe	10.311	11.171	0	
-Ihuntayi Road	Eti Osa	Lagos	6.430	3.445	1	
 Iho Basic Health Center	Ikeduru	Imo	5.567	7.105	0	
 Ihie Ukwu Primary Health Care Center	Ugwunagbo	Abia	5.007	7.309	0	
 Ihugh Primary Health Center	Vandeikya	Benue	7.008	9.025	0	
-Ihiala	Ihiala	Anambra	5.844	6.873	2	
-Ihitte/Uboma	Ihitte/Uboma	Imo	5.649	7.381	2	

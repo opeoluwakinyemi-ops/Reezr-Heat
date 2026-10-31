@@ -1,3 +1,8 @@
+Akwa Etiti	Idemili South	Anambra	6.034	6.966	3	
+Etinan	Etinan	Akwa Ibom	4.843	7.853	3	Etinam
+Utu Etim Ekpo	Etim Ekpo	Akwa Ibom	5.004	7.612	3	
+Eti Osa	Eti Osa	Lagos	6.442	3.550	3	
+Eti-Osa	Oshodi/Isolo	Lagos	6.531	3.326	3	
 Etikumi	Akamkpa	Cross River	5.319	8.397	2	
 Eteo	Eleme	Rivers	4.750	7.185	2	Eteu
 Ete Nawo	Olamaboro	Kogi	7.083	7.383	2	Ete Naw;Ete Nawaw
@@ -17,9 +22,7 @@ Eto Mkpe Yellow Duke	Akpabuyo	Cross River	4.953	8.456	2	Eto Nkpe
 Urua Etak Uyo	Odukpani	Cross River	5.078	8.214	2	
 Etene	Kalgo	Kebbi	12.240	4.026	2	
 Ikot Etetuk	Ikot Abasi	Akwa Ibom	4.582	7.587	2	
-Akwa Etiti	Idemili South	Anambra	6.034	6.966	3	
 Etandere	Yala	Cross River	6.790	8.879	2	Atandere
-Etinan	Etinan	Akwa Ibom	4.843	7.853	3	Etinam
 Itit Eto	Nsit Ubium	Akwa Ibom	4.722	7.914	2	
 Oroma Etiti	Anambra West	Anambra	6.333	6.750	2	Anam;Onoma
 Etok	Mbo	Akwa Ibom	4.595	8.307	2	
@@ -32,32 +35,156 @@ Etutekpe	Dekina	Kogi	7.719	7.282	2
 Etutekpo	Dekina	Kogi	7.719	7.282	2	
 Ikot Uko Eto	Essien Udim	Akwa Ibom	5.082	7.577	2	
 Ikot Uko Eto	Essien Udim	Akwa Ibom	5.105	7.566	2	
-Utu Etim Ekpo	Etim Ekpo	Akwa Ibom	5.004	7.612	3	
-ALPHA ET OMEGA	Ipokia	Ogun	6.637	2.736	0	
 Gogone I Et II	Bosso	Borno	13.613	13.241	2	
-Eterna Filling Station	Obio/Akpor	Rivers	4.825	7.039	0	
-Eterna	Municipal Area Council	FCT Abuja	9.003	7.281	0	
 Etigi	Katcha	Niger	8.769	6.340	2	
-Eti Ose Market	Akoko South East	Ondo	7.448	5.962	0	
-Eterna	Ojo	Lagos	6.491	3.199	0	
 Etche	Port-Harcourt	Rivers	4.744	7.047	2	
-Etsu Yahaya Abubakar Health Center	Katcha	Niger	9.279	6.194	0	
-moslem primary school i, etitale	Ìjẹ̀bú Òde	Ogun	6.819	3.921	0	
-moslem primary school ii, etitale	Ìjẹ̀bú Òde	Ogun	6.819	3.921	0	
-Eti-Osa	Eti Osa	Lagos	6.463	3.585	0	
 Etekuru	Ohaji/Egbema	Imo	5.447	6.780	2	
 Etioha	Ohaji/Egbema	Imo	5.265	6.965	2	
 Etefe	Ughelli North	Delta	5.581	6.056	2	
-ETF-CERC GOMBE Admin block comprence room 2	Gombe	Gombe	10.303	11.160	0	
-Eterna	Municipal Area Council	FCT Abuja	9.070	7.479	0	
-St Grace Natural Medical Clinic And Me Eternity	Alimosho	Lagos	6.507	3.262	0	
-Eterna	Oshimili South	Delta	6.180	6.739	0	
-Eterna	Onitsha North	Anambra	6.138	6.802	0	
 Aja-Etan	Warri South	Delta	5.557	5.690	2	
-Etegbin	Ojo	Lagos	6.449	3.144	0	
-Eterna Petroleum, Oko Erin, Nigeria	Ilorin East	Kwara	8.455	4.580	0	
-Eterna Plc	Calabar Municipal	Cross River	4.996	8.334	0	
+Etegbin	Ojo	Lagos	6.452	3.135	2	
 Etuleze Village	Aguata	Anambra	6.047	7.025	2	
+Etinan	Etinan	Akwa Ibom	4.846	7.843	2	
+Etim Ekpo	Etim Ekpo	Akwa Ibom	4.955	7.574	2	
+Ethiope East	Ethiope East	Delta	5.667	5.972	2	
+Ethiope West	Ethiope West	Delta	5.911	5.776	2	
+Etsako West	Etsako West	Edo	6.997	6.302	2	
+Etsako Central	Etsako Central	Edo	6.978	6.516	2	
+Igbo-Etiti	Igbo-Etiti	Enugu	6.689	7.406	2	
+Etsako East	Etsako East	Edo	7.187	6.517	2	
+Etche	Etche	Rivers	5.077	7.093	2	
+Etung	Etung	Cross River	5.874	8.808	2	
+Umu-Etchem	Etche	Rivers	5.007	7.032	2	Igrtia-Umuechem
+Umu-Etchem	Ngor-Okpala	Imo	5.352	7.208	2	Umu Echem
+Ote-Etile	Asa	Kwara	8.384	4.426	2	Awterere|Ote Etile|Oterere
+Obo Etok	Nsit Ibom	Akwa Ibom	4.907	7.884	2	
+Nung Ete	Ibesikpo Asutan	Akwa Ibom	4.956	7.973	2	
+Nkwuot-Ikot Ete	Ikono	Akwa Ibom	5.274	7.791	2	
+Nkuot Etok	Ini	Akwa Ibom	5.338	7.707	2	
+Nkpa Eto	Onna	Akwa Ibom	4.613	7.823	2	
+Ndiya Etuk	Ikono	Akwa Ibom	5.227	7.729	2	
+Mbiabong Etoi	Uyo	Akwa Ibom	4.986	7.973	2	
+Mbiabong Etim	Ini	Akwa Ibom	5.314	7.701	2	
+Etiam-Etoi	Uyo	Akwa Ibom	5.005	7.955	2	Itiam Etoi
+Ikot Etuk Udo	Abak	Akwa Ibom	5.108	7.806	2	
+Ikot Etobo	Nsit Ubium	Akwa Ibom	4.729	7.907	2	
+Ikot Eto	Ibesikpo Asutan	Akwa Ibom	4.957	7.954	2	
+Ikot Etim	Ini	Akwa Ibom	5.352	7.688	2	
+Ikot Etim	Ukanafun	Akwa Ibom	4.863	7.571	2	
+Ikot Etenghe Ndon	Ikot Abasi	Akwa Ibom	4.618	7.609	2	
+Ikot Etefia	Mkpat Enin	Akwa Ibom	4.655	7.784	2	
+Ikot Ene	Akpabuyo	Cross River	4.927	8.474	2	Ikot Ene Etim
+Ikot Akpa Etok	Ibesikpo Asutan	Akwa Ibom	4.932	7.964	2	
+Igbo-Etiti	Uzo-Uwani	Enugu	6.738	7.268	2	
+Ibong Okpo-Etor	Obot Akara	Akwa Ibom	5.270	7.590	2	
+Etutekpe	Dekina	Kogi	7.689	7.247	2	Etutekpo
+Etura	Obubra	Cross River	5.921	8.290	2	
+Etu	Aninri	Enugu	6.062	7.662	2	
+Etsu-Mama	Katcha	Niger	9.325	6.262	2	
+Etsuisa	Gbako	Niger	9.513	6.178	2	
+Etsugale	Katcha	Niger	9.170	6.288	2	Etsu Gaie
+Etsubache	Katcha	Niger	9.312	6.265	2	
+Etsu Abu	Gbako	Niger	9.426	6.099	2	
+Etsu	Lavun	Niger	9.317	5.450	2	
+Etsangi	Mashegu	Niger	9.769	5.320	2	
+Etono 1	Biase	Cross River	5.629	8.017	2	Etono|Ibinagbam
+Etomi	Etung	Cross River	5.960	8.784	2	
+Etok Nung Ukim	Mkpat Enin	Akwa Ibom	4.734	7.707	2	
+Etoi	Uyo	Akwa Ibom	5.007	7.899	2	
+Etobodom	Nsit Atai	Akwa Ibom	4.811	8.052	2	
+Etip Ediene	Ikono	Akwa Ibom	5.191	7.801	2	
+Eti-Oni	Atakunmosa East	Osun	7.389	4.755	2	Duni|Eti Oni
+Etim	Ogoja	Cross River	6.528	8.847	2	
+Etikan	Ilaje	Ondo	6.274	4.631	2	
+Etiema	Nembe	Bayelsa	4.563	6.368	2	
+Etieke Ndung	Okobo	Akwa Ibom	4.778	8.149	2	
+Ete Nawo	Olamaboro	Kogi	7.127	7.392	2	Ete Naw|Ete Nawaw
+Etehentem	Odukpani	Cross River	5.234	8.053	2	
+Ete-Erumu	Ika North East	Delta	6.131	6.268	2	
+Etebi	Esit Eket	Akwa Ibom	4.652	8.128	2	
+Eteben	Oruk Anam	Akwa Ibom	4.791	7.700	2	
+Ete	Igbo-Eze-North	Enugu	7.090	7.453	2	
+Etchi	Pategi	Kwara	8.689	5.945	2	
+Etara	Etung	Cross River	5.850	8.683	2	
+Etara	Ikom	Cross River	5.783	8.533	2	
+Etankpini	Odukpani	Cross River	5.114	8.395	2	
+Etan	Ekiti	Kwara	8.039	5.216	2	
+Etali	Biase	Cross River	5.763	7.939	2	
+Etako	Ikom	Cross River	6.051	8.573	2	
+Etak Ekom	Ogoja	Cross River	6.380	8.583	2	Etak-Ekon
+Ebighi Eta	Okobo	Akwa Ibom	4.841	8.146	2	
+Atuar-Etiti	Ndokwa West	Delta	6.004	6.385	2	Atuar
+Akwa-Etiti	Idemili South	Anambra	6.036	6.961	2	
+Etibiligbologbo	Degema	Rivers	4.785	6.770	2	Etibiligbologobo
+Etibiligbologobo	Degema	Rivers	4.785	6.772	2	
+Etioro	Akoko South West	Ondo	7.438	5.724	2	
+Etikpa	Bekwarra	Cross River	6.685	8.925	2	
+Eto Mkpe Archibong Edem	Akpabuyo	Cross River	4.966	8.438	2	
+Etisang Ebughu	Mbo	Akwa Ibom	4.702	8.266	2	
+Etebi Idung Ita	Esit Eket	Akwa Ibom	4.661	8.133	2	
+Turu	Ekeremor	Bayelsa	4.938	5.531	2	Etebregbene
+Etikagbene	Ekeremor	Bayelsa	4.877	5.582	2	
+Eturegbene	Southern Ijaw	Bayelsa	4.503	5.958	2	Etukegbene
+Eti	Ukwa East	Abia	4.915	7.405	2	
+Ikot Etefia	Mkpat Enin	Akwa Ibom	4.650	7.713	2	
+Iwo Eto	Etinan	Akwa Ibom	4.723	7.829	2	
+Ikot Ete Ekpo	Etinan	Akwa Ibom	4.722	7.862	2	
+Ikot Etefia	Ikot Abasi	Akwa Ibom	4.675	7.681	2	
+Etiti-Ulo	Bende	Abia	5.534	7.645	2	
+Etu-Iduot	Ini	Akwa Ibom	5.420	7.773	2	
+Ikot Etifia	Ikono	Akwa Ibom	5.252	7.727	2	
+Offiong Eto	Obot Akara	Akwa Ibom	5.230	7.628	2	Ofiong Eto
+Nto Etuk Udo	Ika	Akwa Ibom	5.003	7.519	2	
+Utu-Etong	Obot Akara	Akwa Ibom	5.307	7.626	2	
+Ibiong Okpo Eto II	Obot Akara	Akwa Ibom	5.292	7.583	2	
+Ekpo-Etor	Obot Akara	Akwa Ibom	5.288	7.570	2	
+Nto Eton	Obot Akara	Akwa Ibom	5.198	7.581	2	Nto Etom
+Ikot Etim	Ibiono Ibom	Akwa Ibom	5.212	7.928	2	
+Obot Etim	Itu	Akwa Ibom	5.198	7.976	2	
+Mbiabong Odung Etim	Ibiono Ibom	Akwa Ibom	5.174	7.864	2	
+Ikot Ukpon Eto	Essien Udim	Akwa Ibom	5.154	7.631	2	
+Etak Ikpe	Essien Udim	Akwa Ibom	5.104	7.741	2	
+Ikot Etuko	Obi Ngwa	Abia	5.052	7.520	2	
+Ikot Idiong Eto	Ika	Akwa Ibom	5.051	7.571	2	
+Utu Etim Ekpo	Etim Ekpo	Akwa Ibom	5.001	7.602	2	
+Etok	Uyo	Akwa Ibom	5.002	7.898	2	
+Etitiama	Ohafia	Abia	5.768	7.769	2	
+Eteye	Owan East	Edo	6.958	6.025	2	Ogele
+Etewe Quarters	Isoko North	Delta	5.540	6.231	2	
+Eteifia	Patani	Delta	5.201	6.128	2	
+Etekuru	Ogba/Egbema/Ndoni	Rivers	5.475	6.744	2	
+Umukunne	Ohaji/Egbema	Imo	5.265	6.943	2	Etoona
+Etche	Etche	Rivers	4.991	7.054	2	Agbegbe Ijoba Ibile Etche|Etse|etxes
+Ethiope West	Ethiope West	Delta	5.920	5.729	2	Ethiope Ouest|Ethiope ta Yamma|Se Ethiope|merku ettiyoppiyan
+Ethiope East	Ethiope East	Delta	5.688	5.984	2	Ethiope Est|Ethiope ta Gabas|Ethiope-East|Tang Ethiope
+Etsako Central	Etsako Central	Edo	6.972	6.512	2	Estako-Central|Etsako Central Local Government Area|Etsako ta Tsakiya
+Etim Ekpo	Etim Ekpo	Akwa Ibom	4.978	7.592	2	Agbegbe Ijoba Ibile Etim Ekpo|Etim Ekpo Local Government Area|Etim-Ekpo
+Etinan	Etinan	Akwa Ibom	4.819	7.845	2	Etinan Local Government Area
+Etung	Etung	Cross River	5.859	8.792	2	Etung Local Government Area
+Ete	Ebonyi	Ebonyi	6.543	8.147	2	
+Eti	Ukum	Benue	7.598	9.524	2	
+Etuenigbene	Brass	Bayelsa	4.299	6.062	2	
+Etsumaka	Gbako	Niger	9.432	5.943	2	
+Chechefu Etan	Lavun	Niger	9.141	5.774	2	
+Etsuworo	Lavun	Niger	9.071	5.771	2	
+Etsuworo	Lavun	Niger	9.220	5.699	2	
+Etsu Zuberu	Gbako	Niger	9.393	6.119	2	
+Etsudiko	Gbako	Niger	9.220	6.022	2	
+Etsufoma	Gbako	Niger	9.207	6.195	2	
+Etsusho	Katcha	Niger	9.191	6.274	2	
+Etsu-Audu	Agaie	Niger	9.080	6.317	2	
+Etsu Gana	Edati	Niger	9.034	6.081	2	
+Etsu Itsa	Edati	Niger	9.031	6.083	2	
+Etsumusa	Bosso	Niger	9.578	6.282	2	
+Ete-Iyama	Ika North East	Delta	6.143	6.273	2	
+Etegbin	Ojo	Lagos	6.454	3.128	2	
+Etemere	Southern Ijaw	Bayelsa	4.727	5.738	2	
+Eta	Odeda	Ogun	7.309	3.488	2	
+Etitaie	Ijebu North	Ogun	7.053	3.991	2	
+Elewu Etu	Moro	Kwara	8.790	4.330	2	
+Etuwere	Ibarapa North	Oyo	7.545	3.192	2	
+Eti-Osa	Ibeju Lekki	Lagos	6.463	3.679	2	
+Alapako-Etile	Asa	Kwara	8.298	4.515	2	Alapako Etile|AlapakoEtile
 Etitinwo Street	Port-Harcourt	Rivers	4.817	7.025	1	
 Dan Etete Road	Obio/Akpor	Rivers	4.899	6.918	1	
 Dan Etete Road	Obio/Akpor	Rivers	4.894	6.915	1	
@@ -72,7 +199,6 @@ Eti-Osa Way	Eti Osa	Lagos	6.457	3.417	1
 Anthony Etukudo Avenue	Eti Osa	Lagos	6.439	3.457	1	
 Abayomi Durosinmi-Etti Street	Eti Osa	Lagos	6.428	3.466	1	
 Ethiope Close	Municipal Area Council	FCT Abuja	9.091	7.494	1	
-Itobe	Ofu	Kogi	7.423	6.735	2	Etobe
 Kehinde Etaoko Street	Amuwo Odofin	Lagos	6.446	3.265	1	
 Eta-Erin Road	Offa	Kwara	8.151	4.722	1	
 Awka Etiti Street	Enugu East	Enugu	6.481	7.505	1	
@@ -101,24 +227,25 @@ Afia Etoi	Uyo	Akwa Ibom	5.024	7.929	1
 Bisola Durotimi Etti Drive	Eti Osa	Lagos	6.437	3.469	1	
 Akpan Etuk street	Uyo	Akwa Ibom	5.029	7.939	1	
 Etiti Road	Udi	Enugu	6.423	7.445	1	
-Etiki Street	Enugu North	Enugu	6.472	7.475	1	
-Etunrenren Primary School	Ìkòròdú	Lagos	6.618	3.501	0	
 Akpan Wilson Etuk-Udo Close	Municipal Area Council	FCT Abuja	9.104	7.410	1	
-Eternal Love School	Municipal Area Council	FCT Abuja	8.957	7.441	0	
 Etokeren Road	Ikot Ekpene	Akwa Ibom	5.179	7.715	1	
-Kehinde Etaoko Street	Amuwo Odofin	Lagos	6.445	3.260	1	
-Eterna	Municipal Area Council	FCT Abuja	9.054	7.474	0	
 Etim Iyang Cresent	Eti Osa	Lagos	6.432	3.434	1	
 Etunrenren Street	Ìkòròdú	Lagos	6.618	3.501	1	
-Etene	Kalgo	Kebbi	12.248	4.012	2	
-Etinan	Etinan	Akwa Ibom	4.846	7.843	2	
-Etim Ekpo	Etim Ekpo	Akwa Ibom	4.955	7.574	2	
-Ethiope East	Ethiope East	Delta	5.667	5.972	2	
-Ethiope West	Ethiope West	Delta	5.911	5.776	2	
-Etsako West	Etsako West	Edo	6.997	6.302	2	
-Etsako Central	Etsako Central	Edo	6.978	6.516	2	
-Igbo-Etiti	Igbo-Etiti	Enugu	6.689	7.406	2	
-Etsako East	Etsako East	Edo	7.187	6.517	2	
-Etche	Etche	Rivers	5.077	7.093	2	
-Etung	Etung	Cross River	5.874	8.808	2	
-Eti Osa	Eti Osa	Lagos	6.459	3.532	2	
+Alpha Et Omega	Ipokia	Ogun	6.637	2.736	0	
+Eterna Filling Station	Obio/Akpor	Rivers	4.825	7.039	0	
+Eterna	Municipal Area Council	FCT Abuja	9.003	7.281	0	
+Eti Ose Market	Akoko South East	Ondo	7.448	5.962	0	
+Eterna	Ojo	Lagos	6.491	3.199	0	
+Etsu Yahaya Abubakar Health Center	Katcha	Niger	9.279	6.194	0	
+moslem primary school i, etitale	Ìjẹ̀bú Òde	Ogun	6.819	3.921	0	
+moslem primary school ii, etitale	Ìjẹ̀bú Òde	Ogun	6.819	3.921	0	
+Eti-Osa	Eti Osa	Lagos	6.463	3.585	0	
+ETF-CERC GOMBE Admin block comprence room 2	Gombe	Gombe	10.303	11.160	0	
+Eterna	Municipal Area Council	FCT Abuja	9.070	7.479	0	
+St Grace Natural Medical Clinic And Me Eternity	Alimosho	Lagos	6.507	3.262	0	
+Eterna	Oshimili South	Delta	6.180	6.739	0	
+Eterna	Onitsha North	Anambra	6.138	6.802	0	
+Eterna Petroleum, Oko Erin, Nigeria	Ilorin East	Kwara	8.455	4.580	0	
+Eterna Plc	Calabar Municipal	Cross River	4.996	8.334	0	
+Etunrenren Primary School	Ìkòròdú	Lagos	6.618	3.501	0	
+Eternal Love School	Municipal Area Council	FCT Abuja	8.957	7.441	0	

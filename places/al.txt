@@ -1,9 +1,33 @@
 Dutsen Alhaji	Municipal Area Council	FCT Abuja	9.140	7.373	3	
+Alamoji	Adó-Èkìtì	Ekiti	7.665	5.248	3	
+Aliero	Aleiro	Kebbi	12.288	4.471	3	Aleru
+Katsina Ala	Buruku	Benue	7.167	9.283	3	
+Alkamu	Wurno	Sokoto	13.137	5.373	3	
+Angwa A D	Hawul	Borno	10.492	12.417	3	Tashon Alade
+Alesa	Eleme	Rivers	4.786	7.117	3	
+Alaro City	Epe	Lagos	6.559	3.945	3	
+Yamma	Albasu	Kano	11.674	9.141	3	Albasu
+Alor	Idemili South	Anambra	6.080	6.965	3	
+Ala	Odogbolu	Ogun	6.753	3.879	3	
+Alaro City	Epe	Lagos	6.562	3.977	3	
+Katsina-Ala	Buruku	Benue	7.169	9.285	3	Katsena Ala
+Ilorin	Ilorin East	Kwara	8.497	4.542	3	ILR|Illorin|Ilorinas|Iloryn|alwrn|alwryn|aylwryn|illolin|ilorina|irorin|yi luo lin
+Efon-Alaaye	Efon	Ekiti	7.656	4.922	3	Effon-Alaiye|Efon|Efon Alaaye|Efon Alaaye-Ekiti|Efon Alaye|Efon-Alaae|Efon-Alaiye
+Alkaleri	Alkaleri	Bauchi	10.267	10.332	3	Alkalere
+Aliayabiagba	Ajeromi/Ifelodun	Lagos	6.450	3.333	3	Alaiyabiagba|Aliajabiagba
+Aliade	Gwer East	Benue	7.296	8.483	3	Eleyeddi
+Albasu	Albasu	Kano	11.674	9.141	3	
+Alasia	Ojo	Lagos	6.475	3.169	3	
+Alimosho	Alimosho	Lagos	6.607	3.302	3	Alimoso
+Alapere	Kosofe	Lagos	6.588	3.399	2	
+Allen	Ikeja	Lagos	6.601	3.353	2	
+Alagbaka	Akure North	Ondo	7.253	5.216	2	
+Alafara	Ibadan North East	Oyo	7.382	3.905	2	
+Aladinma	Owerri Municipal	Imo	5.490	7.040	2	
 Alijiri	Gouré	Yobe	13.305	10.452	2	
 Alya Founouri	Maïné Soroa	Yobe	13.139	12.219	2	
 Guidan Alassane	Kaita	Katsina	13.296	7.724	2	
 Allah Sini	Kaita	Katsina	13.237	7.635	2	
-Alamoji	Adó-Èkìtì	Ekiti	7.665	5.248	3	
 Alapoti	Ado Odo/Ota	Ogun	6.632	3.029	2	Olorunsola
 Garin Alkali	Borsari	Yobe	12.837	11.066	2	
 Singiokolo Creek	Ado Odo/Ota	Ogun	6.621	3.036	2	Alagba
@@ -11,13 +35,13 @@ Abule Alfa	Yewa South	Ogun	6.799	2.967	2
 Rafi Alhaji	Koko-Besse	Kebbi	11.366	4.479	2	
 Alwaza	Argungu	Kebbi	12.619	4.438	2	Aluhasa
 Aljena	Arewa Dandi	Kebbi	12.774	4.011	2	
-Aliero	Aleiro	Kebbi	12.288	4.471	3	Aleru
 Tunga Alhaji	Bagudo	Kebbi	11.428	4.256	2	
 Alu	Shanga	Kebbi	11.203	4.528	2	
 Alelu	Jega	Kebbi	12.194	4.463	2	Allelu
 Aliagwai Agbor	Ika South	Delta	6.238	6.157	2	Alihagwu
 Alidima	Ika South	Delta	6.024	6.295	2	Aledimma
 Alkalere	Alkaleri	Bauchi	10.266	10.335	2	
+Gidan Ali	Kurmi	Taraba	7.333	10.583	2	Ali
 Alwo-Esin	Ido	Oyo	7.417	3.733	2	Alwo-Esin;Alowo Esin
 Alimi	Olamaboro	Kogi	7.183	7.333	2	Alim
 AlakIa	Egbeda	Oyo	7.391	3.974	2	
@@ -25,7 +49,6 @@ Inaja Alaro	Oyun	Kwara	8.080	4.585	2
 Alapamowo	Ori Ire	Oyo	8.450	4.283	2	Alapamawaw;Alapamawo
 Alapa	Yewa South	Ogun	6.788	2.914	2	
 Allagarno	Damboa	Borno	11.128	13.111	2	
-Katsina Ala	Buruku	Benue	7.167	9.283	3	
 Bula Alita	Bama	Borno	11.390	13.850	2	
 Alyar	Kwaya Kusar	Borno	10.467	12.001	2	Aleyar
 Mai Anguwa Ali	Kwaya Kusar	Borno	10.399	12.017	2	Shafa
@@ -53,7 +76,6 @@ Ore-Alaba	Odigbo	Ondo	6.724	4.878	2
 Alade	Ifelodun	Kwara	8.482	4.996	2	
 Alozo	Obio/Akpor	Rivers	4.874	6.982	2	
 Alagarno	Kukawa	Borno	13.149	13.562	2	Yebi-Tamsugua;Yebi Tamsugua
-Alkamu	Wurno	Sokoto	13.137	5.373	3	
 Aluku	Kaura Namoda	Zamfara	12.496	6.511	2	
 Gidan Ali	Wamako	Sokoto	13.004	5.154	2	
 Ungwan Alabo	Makarfi	Kaduna	11.405	7.936	2	Alabo
@@ -62,7 +84,6 @@ Ungwan Alhaji Tijani	Giwa	Kaduna	11.102	7.266	2	Alhaji
 Guidan Alu	Gusau	Zamfara	12.074	6.678	2	
 Olota	Ughelli South	Delta	5.209	5.861	2	Alota
 Aleibri	Ekeremor	Bayelsa	5.070	5.872	2	Alobri;Alebri
-Angwa A D	Hawul	Borno	10.492	12.417	3	Tashon Alade
 Allagoakiri	Nembe	Bayelsa	4.591	6.281	2	
 Alagbafama	Ogbia	Bayelsa	4.806	6.261	2	Alagbafame
 Eha-Alumona	Nsukka	Enugu	6.823	7.457	2	Ehalumona
@@ -90,7 +111,6 @@ Illela Alu	Bagudo	Kebbi	11.557	4.348	2
 Allah Karrim	Kukawa	Borno	13.116	13.868	2	
 Aloa	Ikwerre	Rivers	4.934	6.949	2	Allua;Aloa
 Alagarno	Barde	Yobe	12.698	11.102	2	Allaguerno
-Aliade	Gwer East	Benue	7.297	8.486	2	
 Alhassan	Tambuwal	Sokoto	12.277	4.717	2	
 Alfala	Silame	Sokoto	12.955	4.787	2	
 Awali	Madobi	Kano	11.848	8.332	2	Alwali
@@ -114,7 +134,6 @@ Allagoakiri	Akuku Toru	Rivers	4.695	6.570	2
 Ala-Ajagbusin	Idanre	Ondo	7.084	5.363	2	Ala-Ajagbusi;Igbatoro
 Ungwan Alu	Aleiro	Kebbi	12.289	4.408	2	
 Aladja	Udu	Delta	5.486	5.755	2	
-Alesa	Eleme	Rivers	4.786	7.117	3	
 Alonchia-Igobama	Eleme	Rivers	4.749	7.108	2	
 Owa-Alero	Ika North East	Delta	6.208	6.219	2	Aleru;Alero;Owa-Alero Aleru
 Alihagun	Ika South	Delta	6.273	6.086	2	Alihagu
@@ -213,19 +232,11 @@ Alhamsa	Dikwa	Borno	11.865	14.271	2
 Alawa	Shiroro	Niger	10.325	6.655	2	
 Guidan Alhasan	Maradun	Zamfara	12.713	6.230	2	
 Alasia	Ojo	Lagos	6.495	3.137	2	
-Alagomeji	Lagos Mainland	Lagos	6.500	3.378	0	
-Almohap NIG LTD	Jos North	Plateau	9.960	8.889	0	
-Christ for All Ministry	Egor	Edo	6.367	5.586	0	
 Kalimbori Bulama Ali	Mobbar	Borno	13.307	12.723	2	
 Alheri Mai Mai	Abadam	Borno	13.693	13.373	2	
-Alfa Medical Center	Enugu North	Enugu	6.464	7.496	0	
-All Saints Ekulu Nursery & Primary School	Enugu North	Enugu	6.454	7.485	0	
-Aleshinloye Market	Ibadan South West	Oyo	7.389	3.870	0	
 Alalubosa	Ibadan South West	Oyo	7.384	3.862	2	
-Alhazawa Health Post	Kiru	Kano	11.709	8.167	0	
 Kafin Alu	Tarauni	Kano	11.959	8.572	2	Kauye Alu
 Yan Alewa	Gwale	Kano	11.986	8.506	2	
-Alafara Aderogba Health Centre	Ibadan North East	Oyo	7.383	3.905	0	
 Ali Sheriffti	Kukawa	Borno	12.858	13.855	2	
 Alhaji Buremti	Mobbar	Borno	13.100	12.511	2	
 Saboda Allah	Hawul	Borno	10.406	12.536	2	
@@ -396,7 +407,6 @@ Alagarno	Damboa	Borno	11.195	13.062	2
 Shuwari Allamin	Damboa	Borno	11.230	12.849	2	
 Alla Lawanti	Marte	Borno	12.271	13.705	2	
 Abdu Ali	Hawul	Borno	10.544	12.384	2	
-Alau Health Clinic	Jere	Borno	11.731	13.235	0	
 Alhaji Abba	Biu	Borno	10.718	12.152	2	
 Dula B. Ali	Biu	Borno	10.668	12.167	2	
 Maina Tochi	Biu	Borno	10.696	12.161	2	Alhaji Bakari
@@ -409,25 +419,19 @@ Alisu	Damboa	Borno	11.141	12.572	2
 Alimiriaa	Damboa	Borno	11.145	12.714	2	
 Gumsuri Lawn Ali	Damboa	Borno	11.055	12.813	2	
 Alhajiri	Konduga	Borno	11.473	12.882	2	
-Alhajiri Primary Health Clinic	Konduga	Borno	11.475	12.881	0	
 Ardo Aliri	Chibok	Borno	10.751	12.770	2	
-Allaby Resources Ltd	Ejigbo	Osun	7.884	4.320	0	
 Alaasan	Egbedore	Osun	7.836	4.406	2	
-ALPHA ET OMEGA	Ipokia	Ogun	6.637	2.736	0	
-alafia loola	Ipokia	Ogun	6.673	2.753	0	
 Alaouri	Maïné Soroa	Yobe	13.191	11.991	2	
 Alla Dallaram	Diffa	Borno	13.441	12.821	2	
 Alla Dewia	Diffa	Borno	13.439	12.821	2	
 Alla Garno Maloumdi	Diffa	Borno	13.409	12.790	2	
 Alla Houri	Diffa	Borno	13.445	12.823	2	
-Alden Schools	Uvwie	Delta	5.540	5.780	0	
 Chirawa Alajiri	Kukawa	Borno	12.761	13.594	2	
 Ali Anari	Monguno	Borno	12.323	13.349	2	
 Aligollamnari	Monguno	Borno	12.567	13.723	2	
 Bo'O Alagarno	Monguno	Borno	12.554	13.655	2	
 Alajiri	Monguno	Borno	12.473	13.433	2	
 Ali Kundiriri	Kukawa	Borno	12.792	13.579	2	
-Almina Montessori School	Yenegoa	Bayelsa	4.953	6.349	0	
 Alhajiri	Kukawa	Borno	12.781	13.662	2	
 Kallamare Alhajiri	Guzamala	Borno	12.912	13.487	2	
 Aliri	Guzamala	Borno	12.677	13.257	2	
@@ -458,7 +462,6 @@ Ali Gajiri	Guzamala	Borno	12.978	12.953	2
 La Aliri Moduri	Nganzai	Borno	12.642	13.264	2	
 Ali Zarmari Alhajiri	Guzamala	Borno	12.635	13.393	2	
 Alhaji Bukarkururi	Guzamala	Borno	12.942	13.179	2	
-Altest International School	Okpe	Delta	5.593	5.709	0	
 Kontori B Ali	Konduga	Borno	11.844	12.824	2	
 Alhajiri	Konduga	Borno	11.930	12.694	2	
 Ali Abbari	Konduga	Borno	11.721	13.362	2	
@@ -476,33 +479,10 @@ Alhajiri	Jere	Borno	11.791	13.245	2
 Alhaji Yakubu 1	Konduga	Borno	11.437	13.057	2	
 Alhajiri	Konduga	Borno	11.671	12.983	2	
 Alhaji Grema	Konduga	Borno	11.850	13.101	2	
-Alphameric Schools	Warri South	Delta	5.530	5.752	0	
-All Nations for Christ Bible Institute	Obio/Akpor	Rivers	4.828	7.047	0	
 Gidan Alwali	Goronyo	Sokoto	13.547	5.822	2	
 Gidan Alfawa	Gada	Sokoto	13.583	5.557	2	
 Sabon Garin Alhaji	Wurno	Sokoto	13.295	5.605	2	
 Alkamo	Wurno	Sokoto	13.154	5.365	2	
-Aleru University	Aleiro	Kebbi	12.307	4.489	0	
-FederalUniversity Ndufu Alike Ikwo	Ikwo	Ebonyi	6.132	8.144	0	
-FederalUniversity Ndufu Alike Ikwo	Ikwo	Ebonyi	6.134	8.147	0	
-Al-muhibbah Islamic academy	Igabi	Kaduna	10.591	7.474	0	
-Alaro City	Epe	Lagos	6.559	3.945	3	
-Alade Atosin Market	Idanre	Ondo	7.145	5.099	0	
-Alade Idanre Market	Idanre	Ondo	7.141	5.095	0	
-Alapata New Market	Akoko North East	Ondo	7.524	5.763	0	
-Alao Village Market	Ọ̀wọ̀	Ondo	7.152	5.697	0	
-Alshabab gas station	Kaduna North	Kaduna	10.541	7.433	0	
-Al Oil	Egbeda	Oyo	7.450	4.033	0	
-Al Gas	Egbeda	Oyo	7.450	4.033	0	
-Alade Global Filling Station	Ogbomosho North	Oyo	8.123	4.225	0	
-Alade Global	Ogbomosho North	Oyo	8.154	4.254	0	
-Al-Moruf Oil	Alimosho	Lagos	6.577	3.272	0	
-Alimosho	Alimosho	Lagos	6.611	3.296	0	
-Rufai Ahmad Alkali	Gombe	Gombe	10.306	11.172	0	
-Alhaji Ibrahim G Abdulkarim filling station	Yamaltu/Deba	Gombe	10.277	11.257	0	
-Muna Da`Alti 2B Refugee Site	Jere	Borno	11.867	13.251	0	
-Ali Jodi PHC	Sokoto South	Sokoto	13.061	5.229	0	
-Ali Jodi PHC	Sokoto South	Sokoto	13.047	5.257	0	
 Yammawa Hausawa	Karaye	Kano	11.749	7.928	2	Ungwan Alhazi
 Mai Alkama	Karaye	Kano	11.660	7.938	2	Ungwan Randi
 Alhazawa	Karaye	Kano	11.693	8.043	2	
@@ -522,128 +502,1200 @@ Kankwana Alalula	Gabasawa	Kano	12.061	8.858	2
 Alitini	Warawa	Kano	11.960	8.783	2	
 Alkali	Kura	Kano	11.800	8.458	2	
 Alkalawa	Gaya	Kano	11.813	8.984	2	
-Yamma	Albasu	Kano	11.674	9.141	3	Albasu
 Alfindi	Sumaila	Kano	11.522	8.998	2	
 Nata'Ala	Tudun Wada	Kano	11.267	8.568	2	
 Alhazawa	Tudun Wada	Kano	11.330	8.487	2	
 Kafin Alhaji	Rano	Kano	11.492	8.587	2	
-Alor Town Hall	Idemili South	Anambra	6.080	6.965	0	
-gang alada clinic	Jada	Adamawa	8.703	12.039	0	
 Elele Alimini	Emuoha	Rivers	5.055	6.731	2	
-St. Alloysius Catholic. Pry School, Iloti.	Ifo	Ogun	6.702	3.342	0	
-All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.689	3.229	0	
-All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.676	3.223	0	
-All Saints Primary School, Araromi Ota	Ifo	Ogun	6.812	3.197	0	
-Ansar Ud Deen Primary School Ii, Alaagba	Ifo	Ogun	6.755	3.185	0	
-Ansar Ud Deen Primary School I, Alaagba	Ado Odo/Ota	Ogun	6.724	3.163	0	
-United Anglican Primary School, Alapako-Sogunje	Ado Odo/Ota	Ogun	6.623	3.143	0	
-St. Paul Primary School, Alagbo Ofin	Ado Odo/Ota	Ogun	6.604	3.067	0	
-United Anglican Primary School, Alapako-Sogunje	Ifo	Ogun	6.795	3.122	0	
-St. Alloysius Catholic. Pry School, Iloti.	Ìjẹ̀bú Òde	Ogun	6.726	3.999	0	
-All Saints Primary School, Araromi Ota	Ado Odo/Ota	Ogun	6.712	3.076	0	
-Local Government Primary School, Ilewo Alaga	Ado Odo/Ota	Ogun	6.685	3.085	0	
-Ansar Ud Deen Primary School I, Alaagba	Ado Odo/Ota	Ogun	6.614	3.225	0	
-Ansar Ud Deen Primary School Ii, Alaagba	Ado Odo/Ota	Ogun	6.613	3.228	0	
-All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.939	0	
-All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.530	3.136	0	
-St. Paul Primary School, Alagbo Ofin	Shagamu	Ogun	6.846	3.648	0	
 Alagamé	Sabon Birni	Sokoto	13.695	6.021	2	
 Ala-Ahoada	Ahoada East	Rivers	5.105	6.627	2	
-Alafia Hospital, Mokola, Ibadan	Ibadan North West	Oyo	7.399	3.888	0	
-Al-Lateef Medical Hospital, Akingbile Junction	Akinyele	Oyo	7.513	3.913	0	
-Tioluwani Private hospital, Idiose, along diplomate school	Akinyele	Oyo	7.505	3.921	0	
-Al-Ameen Hospital, Awotan, Apete	Ido	Oyo	7.449	3.862	0	
-Baba David Clinic (Faithbased Clinic) Oke Alasepe Abaeja	Akinyele	Oyo	7.476	3.917	0	
-Ikeja Along	Ikeja	Lagos	6.599	3.334	0	
-Aladja Town Hall	Udu	Delta	5.489	5.756	0	
 Alagba	Isoko North	Delta	5.466	6.118	2	
 Ala - Ifeku	Etsako Central	Edo	6.846	6.611	2	
 Allah-Ifeku I	Etsako Central	Edo	6.796	6.607	2	
 Allah-Ifeku II	Esan South-East	Edo	6.790	6.609	2	
-Albishir Clinic	Jos North	Plateau	9.965	8.849	0	
-Albarka Clinic	Jos North	Plateau	9.972	8.841	0	
-Faith Alive foundation hospital annex	Jos North	Plateau	9.928	8.881	0	
-Al-Zunnur Clinic and Maternity	Bassa	Plateau	9.993	8.852	0	
-Alheri Health clinic & Maternity	Jos North	Plateau	9.933	8.922	0	
-Al Afrah Health Care Centre	Jos North	Plateau	9.915	8.902	0	
-Gordita clinic and maternity Alheri	Jos North	Plateau	9.937	8.872	0	
-Alhaji umaru ngelzarma	Jos North	Plateau	9.972	8.895	0	
-Al Yusra petroleum nig ltd	Jos North	Plateau	9.977	8.896	0	
-Al Fauzan clinic	Jos North	Plateau	9.950	8.876	0	
-Albakans pre science school	Jos North	Plateau	9.898	8.865	0	
-Primary Health Care Center Dutse Alhaji	Municipal Area Council	FCT Abuja	9.142	7.373	0	
-L. E. A primary school Dutse Alhaji	Municipal Area Council	FCT Abuja	9.141	7.372	0	
-Oloye Olajumoke Akinjide Shopping Arcade Dutse Alhaji	Municipal Area Council	FCT Abuja	9.139	7.369	0	
 Alders Town	Warri South	Delta	5.512	5.753	2	
-Alders Town Primary School Warri	Warri South	Delta	5.511	5.754	0	
-Alaba	Surulere	Lagos	6.464	3.325	0	
 Aletu	Eleme	Rivers	4.799	7.110	2	
-Alor	Idemili South	Anambra	6.080	6.965	3	
-Alfurqan Clinic and Maternity	Bauchi	Bauchi	10.291	9.801	0	
-Alfurqan International Academy	Bauchi	Bauchi	10.291	9.799	0	
-All Saints' College Gombe	Gombe	Gombe	10.300	11.146	0	
-madarasatul Alaramma malan gambo littah fizzul Quran	Gombe	Gombe	10.289	11.159	0	
-Alheri Hospital And Maternity	Kaduna South	Kaduna	10.476	7.410	0	
-Al Fijir Clinics	Kaduna South	Kaduna	10.502	7.387	0	
-Al Ramadan Nursing And Maternity Home Nassarawa	Chikun	Kaduna	10.471	7.395	0	
-Al Mansur Specialist Hospital	Kaduna North	Kaduna	10.551	7.460	0	
-Farin Gida Alpha Specialist Hospital	Kaduna North	Kaduna	10.582	7.418	0	
-Alexander Memorial Hospital Olugbemi Agric	Ojo	Lagos	6.458	3.220	0	
-Heaven Hospital Alagbado	Alimosho	Lagos	6.679	3.261	0	
-Alaso Amikanle Primary Health Care Center	Alimosho	Lagos	6.650	3.245	0	
-Alanni Traditional Hospital and Maternity Home	Alimosho	Lagos	6.592	3.237	0	
-Alimosho Health Centre	Alimosho	Lagos	6.600	3.300	0	
-St Alexander Hospital And Maternity Home	Alimosho	Lagos	6.615	3.296	0	
-Alegongo Secondary School	Lagelu	Oyo	7.439	3.951	0	
-Alimosho Local Goverment Egbe Idimu Lcda Health Center	Alimosho	Lagos	6.571	3.288	0	
-Alimosho General Hospital	Alimosho	Lagos	6.561	3.251	0	
-Alafiatayo Hospital	Mushin	Lagos	6.528	3.346	0	
-Alhameed Conval Hospital	Mushin	Lagos	6.526	3.355	0	
-Alves Primary Health Center	Mushin	Lagos	6.515	3.345	0	
-Always Center	Akure South	Ondo	7.286	5.150	0	
-Oja Ale	Iwo	Osun	7.635	4.180	0	
-Al ibadah children School	Alimosho	Lagos	6.522	3.237	0	
-Alpha comprehensive schools	Alimosho	Lagos	6.530	3.232	0	
-MAL. AUDU MAI ALMAJIRAI	Ungongo	Kano	12.048	8.568	0	
-MADARASATUL TA'ALIMUL QUR'AN	Ungongo	Kano	12.040	8.570	0	
-MALAN KABIRU ALMAJIRI SCHOOL	Ungongo	Kano	12.043	8.565	0	
-MALAN USMAN ALMAJIRI SCHOOL	Ungongo	Kano	12.043	8.567	0	
-ALHAJI YUSUF GARBA ALI ISLAMIC FOUNDATION	Ungongo	Kano	12.036	8.565	0	
-ALMUHAJIRUN WAL ANSAR LITAHFIZUL QUR AN WADDARASATUK ILAMIYYA	Ungongo	Kano	12.054	8.577	0	
-ALHASAN MEMORIAL	Ungongo	Kano	12.040	8.565	0	
-AL-HIKIMA ISLAMIC INSTITUTE	Ungongo	Kano	12.043	8.572	0	
-SHAMSUL HUDA AL ISLAMIYYA	Ungongo	Kano	12.042	8.573	0	
-ALQAMAR COLLEGE KANO	Gwale	Kano	11.963	8.478	0	
-MAKARANTAR TASIU MAI ALMAJIRAI	Gwale	Kano	11.961	8.467	0	
-AL-ITKAN ACADEMY	Gwale	Kano	11.959	8.470	0	
-ALISHBA ACADEMY	Gwale	Kano	11.954	8.471	0	
-ALKHAIRAT ACADEMY	Gwale	Kano	11.961	8.467	0	
-Al Jazeera International Academy	Gwale	Kano	11.960	8.474	0	
-MADINA;ALKHAIR COCKING GAS AND ENGINEERING	Gwale	Kano	11.962	8.476	0	
-NASHRUL ULUMI AL-ISLAMIYYA PRIMARY SEC.DORAYI KARAMA	Gwale	Kano	11.964	8.480	0	
-ALYUSIRA MODEL SCHOOLS	Gwale	Kano	11.960	8.470	0	
-AL-FAUZ GLOBAL COLLEGE	Gwale	Kano	11.968	8.470	0	
-AL AZHAR COLLEGE OF SCIENCE AND HUMANITIES	Gwale	Kano	11.962	8.476	0	
-Allens Unit/Alex Apapa	Apapa	Lagos	6.435	3.370	0	
 Alokpa	Burutu	Delta	5.389	5.537	2	
-Alluvia Marine/Afisco (Lekki 1)	Eti Osa	Lagos	6.448	3.459	0	
-Al-Bishir Clinic & Maternity	Bauchi	Bauchi	10.299	9.796	0	
-Gbagba Alagbado Behind Sobi Specialist Hospital, Illorin, Nigeria	Ilorin West	Kwara	8.527	4.525	0	
-Alagbado Primary School, Ilorin, Nigeria	Ilorin East	Kwara	8.535	4.538	0	
-Ala	Odogbolu	Ogun	6.753	3.879	3	
-Al Ihsan Clinics and Surgery	Tarauni	Kano	11.946	8.558	0	
-alelegbene	Apapa	Lagos	6.426	3.356	0	
-alluvia marine/afisco (lekki phase 1)	Eti Osa	Lagos	6.448	3.459	0	
-Almustapha Mosque	Municipal Area Council	FCT Abuja	9.114	7.254	0	
-Dutsen Alhaji	Municipal Area Council	FCT Abuja	9.131	7.365	0	
 Alaba	Surulere	Lagos	6.466	3.323	2	
 Alagbado	Alimosho	Lagos	6.660	3.256	2	
+Alagarno	Fune	Yobe	11.915	11.667	2	
+Alhaji Barka	Gumel	Jigawa	12.576	9.374	2	
+Albasu	Sule Tankakar	Jigawa	12.577	9.079	2	
+Hamma Ali Marabawa	Kware	Sokoto	13.195	5.313	2	
+Alkanmu	Wurno	Sokoto	13.134	5.366	2	
+Aliero Dangaladima II	Aleiro	Kebbi	12.245	4.455	2	
+Alelu	Jega	Kebbi	12.172	4.493	2	
+Aliero S Fada Ii	Aleiro	Kebbi	12.320	4.438	2	
+Faga Alasan	Tambuwal	Sokoto	12.328	4.597	2	
+Dada Alelu	Koko-Besse	Kebbi	11.528	4.443	2	
+Aleiro	Aleiro	Kebbi	12.320	4.453	2	
+Alwasa	Argungu	Kebbi	12.609	4.421	2	
+Aljannare	Suru	Kebbi	11.582	3.899	2	
+Aliero S Fada I	Aleiro	Kebbi	12.282	4.496	2	
+Aliero Dangaladima I	Aleiro	Kebbi	12.263	4.488	2	
+Dan Alhaji	Lere	Kaduna	10.545	8.750	2	
+Alajawa	Shanono	Kano	12.092	7.948	2	
+Unguwa Uku Kauyen Alu	Tarauni	Kano	11.956	8.574	2	
+Nata-Ala	Tudun Wada	Kano	11.280	8.545	2	
+Garin Ali	Garko	Kano	11.547	8.868	2	
+Albasu Central	Albasu	Kano	11.686	9.137	2	
+Gandu Albasa	Kano Municipal	Kano	11.974	8.526	2	
+Albasu	Albasu	Kano	11.646	9.040	2	
+Dan Alhaji Yangayya	Batsari	Katsina	12.859	7.336	2	
+Dan Ali	Dan Musa	Katsina	12.136	7.489	2	
+Na'Alma	Malumfashi	Katsina	11.983	7.622	2	
+Alimosho	Alimosho	Lagos	6.584	3.258	2	
+Katsina-Ala	Katsina-Ala	Benue	7.314	9.566	2	
+Ala	Marte	Borno	12.158	13.922	2	
+Alagarno	Kukawa	Borno	13.209	13.611	2	
+Alarge	Nganzai	Borno	12.543	13.318	2	
+Alagarno	Gamawa	Bauchi	12.182	10.689	2	
+Alkaleri West	Alkaleri	Bauchi	10.257	10.315	2	
+Alagarno	Gamawa	Bauchi	12.223	10.487	2	
+Alkaleri East	Alkaleri	Bauchi	10.211	10.442	2	
+Alangawari	Zaki	Bauchi	11.922	10.399	2	
+Alkaleri	Alkaleri	Bauchi	9.897	10.431	2	
+Alau	Jere	Borno	11.745	13.254	2	
+Yebi Tamsugua	Kukawa	Borno	13.149	13.561	2	Alagarno|Yebi-Tamsugua
+Wuyaku Birma Ali	Biu	Borno	10.853	11.817	2	Wuyaku
+Wuro Alkali	Hong	Adamawa	10.233	13.096	2	
+Wuro Ali Magini	Akko	Gombe	10.229	11.164	2	
+Wuro Ali	Shelleng	Adamawa	9.986	12.058	2	
+Wuro Alhaji	Shelleng	Adamawa	10.032	12.063	2	
+Wuro Alhaji	Maiha	Adamawa	9.915	13.235	2	
+Wakili Alim	Mayo-Belwa	Adamawa	8.861	12.050	2	
+Waakwa Alhaji	Lafia	Nasarawa	8.496	8.575	2	
+Uteh-Alohen	Ika North East	Delta	6.193	6.255	2	
+Ungwan Alu	Tambuwal	Sokoto	12.453	4.825	2	
+Ungwan Alhazai	Soba	Kaduna	11.124	7.929	2	
+Ungwan Alhaji	Kafur	Katsina	11.612	7.701	2	
+Aluku	Kaura Namoda	Zamfara	12.494	6.511	2	Unguwar Aluku
+Umu Ala	Isiala-Ngwa South	Abia	5.367	7.450	2	
+Tungan-Aluwasi	Agwara	Niger	10.721	4.571	2	
+Aliu	Sakaba	Kebbi	11.181	5.383	2	Tungan Aliu
+Tungan Ali	Mashegu	Niger	9.967	5.803	2	
+Tungan Ali	Municipal Area Council	FCT Abuja	9.007	7.210	2	
+Tungan Alhaji	Suru	Kebbi	11.588	3.945	2	
+Tashon Alade	Hawul	Borno	10.488	12.420	2	
+Rugar Alkali	Shagari	Sokoto	12.743	5.126	2	Rugan Kale|Rugga Alkali
+Papalanto	Ewekoro	Ogun	6.887	3.198	2	Papa Alanto
+Owa-Alizomor	Ika North East	Delta	6.197	6.186	2	
+Owa-Aliosimi	Ika North East	Delta	6.222	6.198	2	
+Owa-Alidima	Ika South	Delta	6.027	6.284	2	Owa Aledimma
+Oru-Alade	Ife South	Osun	7.211	4.492	2	Oru Alade
+Opo-Alafara	Iwajowa	Oyo	7.927	3.171	2	Opo Alafara|OpoAlafara
+Omu-Alajo	Aiyedade	Osun	7.309	4.342	2	Omu Alajo
+Omo-Alao	Asa	Kwara	8.249	4.536	2	Omo Alao|OmoAlao
+Omo-Ala	Moro	Kwara	8.857	4.332	2	Omo Ala
+Oluga-Alli	Odeda	Ogun	7.200	3.651	2	Oluga Alli
+Oloruko-Alfa	Yewa North	Ogun	6.965	2.818	2	Oloruko Alfa
+Oke-Alapata	Ogbomosho South	Oyo	8.094	4.215	2	Oke Alapata
+Mgbede Ala	Osisioma Ngwa	Abia	5.283	7.348	2	
+Mallam Ali	Biu	Borno	10.866	11.773	2	
+Maiangwa Alim	Teungo	Adamawa	7.785	11.678	2	
+Madagwa-Alhaji	Doma	Nasarawa	8.423	8.467	2	Madagwa Alhaji|MadagwaAlhaji
+Lawan Alalubosa	Ibarapa North	Oyo	7.612	3.293	2	LawanAlalubosa|Lawani Alalubosa|LawaniAlalubosa
+Ungwan Ali Nungu	Sanga	Kaduna	9.195	8.167	2	Kwakwasa|Kwankwasa
+Kunbi-Alangwa	Olorunsogo	Oyo	8.670	4.102	2	Kunbi Alangwa
+Kondoro-Alagbede	Asa	Kwara	8.638	4.379	2	Kondoro Alagbede
+Koda Alisila	Chibok	Borno	10.892	12.859	2	
+Kash’alla	Fune	Yobe	11.732	11.249	2	
+Jauro Alim	Jada	Adamawa	8.740	12.147	2	
+Jauro Ali	Funakaye	Gombe	10.872	11.390	2	
+Jauro Alhaji	Jada	Adamawa	8.618	12.041	2	
+Inaja-Olomi	Oyun	Kwara	8.086	4.583	2	Inaja Alaro|InajaAlaro
+Illah Waterside	Oshimili North	Delta	6.456	6.672	2	Allah
+Igbo-Ale	Yewa North	Ogun	6.951	2.880	2	Igbo Ale
+Igan-Alade	Yewa North	Ogun	7.056	2.905	2	Igan|Igan Alade
+Idi-Agbon Alagbede	Asa	Kwara	8.622	4.359	2	Idi Agbon Alagbede
+Ibeku-Alase	Yewa North	Ogun	7.011	2.799	2	Ibeku|Ibeku Alase
+Hayin Alhaji	Tsafe	Zamfara	12.060	7.114	2	
+Haran-Ali	Hawul	Borno	10.566	12.467	2	Haran
+Gidan Ardo Ali	Sardauna	Taraba	7.143	11.059	2	
+Gidan Almustafa	Gada	Sokoto	13.683	5.633	2	
+Gidan Alkuru	Ankpa	Kogi	7.314	7.427	2	Alkuru
+Gidan Alkali	Kachia	Kaduna	9.942	7.457	2	
+Guidan Aljeni	Gusau	Zamfara	12.251	6.892	2	Gidan Aljeni
+Guidan Ali	Bungudu	Zamfara	12.217	6.615	2	Gidan Ali
+Gidan Ali	Kurmi	Taraba	7.337	10.588	2	Ali
+Gidan Alhaji	Sardauna	Taraba	7.144	11.039	2	
+Gbaro Allah	Rafi	Niger	10.001	6.360	2	
+Garun Ali	Garko	Kano	11.567	8.859	2	
+Garin Alhaji	Nafada	Gombe	11.114	11.198	2	
+Garin Alhaji	Akko	Gombe	10.064	11.134	2	
+Ezi Alayi	Bende	Abia	5.731	7.590	2	Alayi
+Ezi Ala	Isiala-Ngwa South	Abia	5.367	7.417	2	
+Eiye-Alada	Irewole	Osun	7.376	4.302	2	Eiye Alada
+Eha-Alumona	Nsukka	Enugu	6.823	7.453	2	
+Dar-El-Jamal	Bama	Borno	11.326	13.967	2	Dar el Jamal|Dar-al-Jimeil|Dar-el-Jimel
+Dan Alhaji	Lere	Kaduna	10.535	8.693	2	
+Dan Alhaji	Lere	Kaduna	10.416	8.525	2	
+Bukar Allah	Lafia	Nasarawa	8.533	8.517	2	
+Budo-Alfa-Situ	Moro	Kwara	8.767	4.308	2	Budo Alfa Situ
+Budo-Alegbe	Asa	Kwara	8.289	4.499	2	Budo Alegbe|Elegbedde
+Baba Aladura	Itesiwaju	Oyo	8.323	3.556	2	
+Aluko	Asari-Toru	Rivers	4.789	6.858	2	Atuka
+Ate Albaji	Dekina	Kogi	7.619	7.094	2	
+Aro-Alara	Egbedore	Osun	7.830	4.391	2	Aro Alara|AroAlara
+Abiakpo-Alacha	Obot Akara	Akwa Ibom	5.306	7.577	2	Apiakpo-Alacha
+Apata-Alaje	Ori Ire	Oyo	8.602	4.040	2	Apata Alaje
+Angwan Alura	Karu	Nasarawa	9.014	7.908	2	Angwa Alura
+Alya Hausawa	Tangaza	Sokoto	13.535	4.995	2	Alia
+Alya Fulani	Tangaza	Sokoto	13.533	4.990	2	
+Alwei	Konshisha	Benue	7.023	8.804	2	
+Aluti-Erin	Ife South	Osun	7.211	4.526	2	Aluti Erin
+Alusekere	Olorunsogo	Oyo	8.628	4.003	2	
+Alusekere	Asa	Kwara	8.614	4.304	2	
+Alusekere	Asa	Kwara	8.599	4.334	2	
+Alusekere	Atiba	Oyo	8.137	3.872	2	
+Aluntse	Ushongo	Benue	7.213	8.886	2	
+Alingani	Lafia	Nasarawa	8.719	8.828	2	Alungane
+Alumo	Konshisha	Benue	7.037	8.669	2	
+Alumche	Ushongo	Benue	7.254	8.930	2	
+Alulu	Ngor-Okpala	Imo	5.214	7.227	2	
+Alukpe	Paikoro	Niger	9.502	6.605	2	
+Aluko	Ìsẹ́yìn	Oyo	7.798	3.719	2	
+Ani-Ujeh	Aniocha South	Delta	6.190	6.415	2	Ahijo|Aluje
+Aluhasa	Argungu	Kebbi	12.617	4.437	2	Alwaza
+Alugbin	Akinyele	Oyo	7.617	4.067	2	
+Alufa	Akinyele	Oyo	7.599	4.038	2	
+Alufa	Egbeda	Oyo	7.392	4.119	2	
+Alufa	Odeda	Ogun	7.406	3.426	2	
+Alubosa	Ori Ire	Oyo	8.125	4.142	2	
+Alozo	Obio/Akpor	Rivers	4.881	6.978	2	
+Alowo-Esin	Ido	Oyo	7.426	3.728	2	Alowo Esin|Alwo-Esin
+Alowo	Ori Ire	Oyo	8.569	4.170	2	
+Alowo	Ido	Oyo	7.463	3.727	2	
+Aloshi	Keana	Nasarawa	8.241	8.803	2	
+Alore	Kura	Kano	11.756	8.392	2	
+Alonjirori	Yusufari	Yobe	12.978	11.112	2	
+Alomaja	Oluyole	Oyo	7.268	3.857	2	
+Alom	Ushongo	Benue	7.080	8.980	2	
+Alokura	Igalamela-Odolu	Kogi	7.233	7.162	2	Alakura
+Aloko	Lagelu	Oyo	7.463	4.002	2	
+Alok	Ikom	Cross River	6.317	8.649	2	
+Alojori	Dekina	Kogi	7.583	7.033	2	
+Aloja	Irepodun	Kwara	8.133	4.800	2	
+Alogi	Dekina	Kogi	7.417	6.954	2	
+Alogani	Nasarawa Egon	Nasarawa	8.717	8.533	2	
+Alofe	Odeda	Ogun	7.266	3.554	2	
+Alobaloke	Ijebu North	Ogun	7.077	4.153	2	
+Aloba Ile	Olorunsogo	Oyo	8.653	4.104	2	
+Aloba	Asa	Kwara	8.333	4.505	2	
+Aloba	Ughelli South	Delta	5.369	5.900	2	
+Aluu	Ikwerre	Rivers	4.934	6.949	2	Allua|Aloa
+Alo	Ofu	Kogi	7.417	6.733	2	
+Allomo	Ofu	Kogi	7.321	7.237	2	
+Alli-Oge	Obafemi Owode	Ogun	7.123	3.779	2	Alli Oge
+Alli-Iwo	Odeda	Ogun	7.183	3.477	2	Alli Iwo
+Alli Bale	Odeda	Ogun	7.483	3.450	2	
+Alli	Odeda	Ogun	7.192	3.555	2	
+Allah Nana	Sanga	Kaduna	9.060	8.521	2	
+Allah	Kogi	Kogi	8.183	6.967	2	
+Allah	Abeokuta North	Ogun	7.220	3.091	2	
+Allagoakiri	Akuku Toru	Rivers	4.695	6.570	2	
+Allaguarno	Fune	Yobe	11.923	11.641	2	Allagarno|Allaguerno
+Allagarno	Nangere	Yobe	11.612	11.047	2	
+Allagarno	Kaga	Borno	11.428	12.633	2	
+Allagarno	Gulani	Yobe	11.038	11.778	2	
+Allabuzum	Fune	Yobe	11.829	11.291	2	
+Allabuzum	Fika	Yobe	11.645	11.248	2	
+Akalimanga Sum	Mayo-Belwa	Adamawa	9.139	11.770	2	Alkaliman|Alkalimanga
+Alkaijji	Yabo	Sokoto	12.834	4.987	2	Alkaliji
+Alkali Gwa	Yorro	Taraba	8.840	11.479	2	
+Aljenaari	Suru	Kebbi	11.587	3.912	2	
+Auzaga	Nasarawa Egon	Nasarawa	8.729	8.547	2	Alizaga
+Aliya	Konshisha	Benue	7.127	8.553	2	
+Aliutsa	Gboko	Benue	7.362	8.748	2	
+Ali-Ukwa	Odukpani	Cross River	5.465	7.955	2	
+Aliu	Ibarapa Central	Oyo	7.481	3.297	2	
+Alisor	Ika South	Delta	6.299	6.121	2	
+Alisomor	Ika South	Delta	6.284	6.120	2	
+Akisimie One	Ika South	Delta	6.300	6.158	2	Alisitne|Alisitue
+Alionahi	Obio/Akpor	Rivers	4.867	7.033	2	
+Alimi	Atisbo	Oyo	8.341	3.446	2	
+Alime	Konshisha	Benue	7.082	8.505	2	
+Alilu	Katcha	Niger	9.427	6.235	2	
+Ali Kurmiri	Konduga	Borno	11.332	12.866	2	Arri Kurumiri
+Aliko	Agaie	Niger	8.959	6.537	2	
+Alike	Obowo	Imo	5.563	7.319	2	
+Alijemisi	Ika South	Delta	6.288	6.159	2	Alisime
+Alihagu	Ika South	Delta	6.246	6.130	2	
+Aligi Ado	Ofu	Kogi	7.402	7.275	2	Aligi Ada
+Aligholo	Ovia South-West	Edo	6.631	5.220	2	
+Aligbo	Takum	Taraba	7.512	10.071	2	
+Aligba	Gboko	Benue	7.329	8.783	2	
+Aligba	Konshisha	Benue	7.156	8.611	2	
+Alibrada	Emuoha	Rivers	4.904	6.854	2	
+Alibokolo	Fika	Yobe	11.581	11.285	2	
+Alibaruhu	Ebonyi	Ebonyi	6.522	8.142	2	
+Alibaroho	Ohaukwu	Ebonyi	6.462	8.045	2	
+Aliagwai-Agbor	Ika South	Delta	6.237	6.159	2	Alihagwu
+Ali	Ganye	Adamawa	8.294	12.043	2	
+Ali	Konshisha	Benue	7.326	8.607	2	
+Ali	Konshisha	Benue	7.029	8.816	2	
+Alhajiri	Kaga	Borno	11.658	12.316	2	
+Alhajiri	Misau	Bauchi	11.350	10.392	2	
+Alhaji	Fune	Yobe	11.680	11.349	2	
+Algeta	Jada	Adamawa	8.669	11.979	2	
+Alfa-Iwo	Ori Ire	Oyo	8.568	4.078	2	Alfa Iwo
+Alfa	Yewa South	Ogun	6.799	2.968	2	Abule Alfa
+Aleyar	Kwaya Kusar	Borno	10.465	12.005	2	
+Alev	Kwande	Benue	6.665	9.563	2	
+Alese	Eleme	Rivers	4.785	7.120	2	
+Aleri	Lagelu	Oyo	7.480	3.974	2	
+Alere	Lere	Kaduna	10.623	8.369	2	
+Alenje Ile	Olorunsogo	Oyo	8.688	4.169	2	
+Alenje-Iju	Olorunsogo	Oyo	8.693	4.125	2	Alenje Iju
+Alelo	Ido	Oyo	7.557	3.780	2	
+Alelerin	Afijio	Oyo	7.720	3.992	2	
+Alegbette	Etsako Central	Edo	6.834	6.583	2	Alegbetta
+Alebo	Yala	Cross River	6.518	8.427	2	
+Ale	Moro	Kwara	8.589	4.469	2	
+Ale	Badagry	Lagos	6.474	3.008	2	
+Albert	Ife South	Osun	7.197	4.541	2	
+Albasu	Sule Tankakar	Jigawa	12.576	9.072	2	
+Albasawa	Sumaila	Kano	11.263	8.804	2	
+Alayo	Aiyedade	Osun	7.276	4.323	2	
+Alayo	Konshisha	Benue	7.178	8.544	2	
+Alayin-Oke	Afijio	Oyo	7.669	3.993	2	Alayin Oke|AlayinOke
+Alayin	Offa	Kwara	8.160	4.669	2	
+Alayin	Afijio	Oyo	7.673	3.991	2	
+Alayidi	Misau	Bauchi	11.437	10.474	2	
+Alaye	Ibarapa East	Oyo	7.634	3.413	2	
+Alayande	Ibarapa East	Oyo	7.520	3.445	2	
+Alayan	Ori Ire	Oyo	8.587	4.218	2	
+Alayan	Ori Ire	Oyo	8.533	4.200	2	
+Alaya	Moro	Kwara	8.635	4.485	2	
+Alawusa	Afijio	Oyo	7.744	3.966	2	
+Alawure	Ibarapa East	Oyo	7.748	3.622	2	
+Alawowo	Ori Ire	Oyo	8.441	4.185	2	
+Alawodi	Ori Ire	Oyo	8.455	4.148	2	
+Alawode	Kajola	Oyo	7.920	3.317	2	
+Alawo	Oyo West	Oyo	8.010	3.848	2	
+Alawere	Ori Ire	Oyo	8.308	4.171	2	
+Alawedo	Odeda	Ogun	7.257	3.520	2	
+Alawasi	Ori Ire	Oyo	8.575	4.196	2	
+Alawa	Olorunsogo	Oyo	8.839	4.162	2	
+Alawa	Olorunsogo	Oyo	8.817	4.072	2	
+Alausa	Ogo Oluwa	Oyo	8.021	4.161	2	
+Alausa	Ori Ire	Oyo	8.008	4.138	2	
+Alatise	Odeda	Ogun	7.325	3.676	2	
+Alatibaba	Odeda	Ogun	7.368	3.388	2	
+Alateko	Moro	Kwara	8.695	4.399	2	
+Alate-Iju	Olorunsogo	Oyo	8.898	4.249	2	Alate Iju
+Alate	Moro	Kwara	8.874	4.266	2	
+Alate	Ori Ire	Oyo	8.101	4.094	2	
+Alate	Egbedore	Osun	7.816	4.402	2	
+Alatare	Akinyele	Oyo	7.579	4.027	2	
+Alatare	Ifo	Ogun	6.864	3.076	2	
+Alatan	Odeda	Ogun	7.313	3.435	2	
+Alata	Asa	Kwara	8.400	4.350	2	
+Alata	Asa	Kwara	8.174	4.508	2	
+Alaso-Osun	Akinyele	Oyo	7.631	4.002	2	Alaso Osun|AlasoOsun
+Alaso-Osun	Aiyedade	Osun	7.223	4.170	2	Alaso Osun
+Alasoko	Ogo Oluwa	Oyo	7.938	4.157	2	
+Alasiri	Ori Ire	Oyo	8.323	4.294	2	
+Alase	Ogo Oluwa	Oyo	7.945	4.218	2	
+Alase	Akinyele	Oyo	7.537	3.912	2	Alashe
+Alasaru	Ifelodun	Kwara	8.492	4.853	2	
+Alasapa	Ori Ire	Oyo	8.523	4.153	2	
+Alaruru	Surulere	Oyo	8.224	4.385	2	
+Alaruru	Ogo Oluwa	Oyo	7.984	4.198	2	
+Alarupo	Lagelu	Oyo	7.451	3.953	2	
+Alaropo	Ori Ire	Oyo	8.233	4.233	2	
+Alarode	Moro	Kwara	8.772	4.340	2	
+Alaro	Asa	Kwara	8.672	4.308	2	
+Alaro	Ìsẹ́yìn	Oyo	7.846	3.556	2	
+Alaro	Ido	Oyo	7.554	3.788	2	
+Alaro	Aiyedade	Osun	7.313	4.387	2	
+Alariwo	Ibarapa East	Oyo	7.579	3.403	2	
+Alari	Ipokia	Ogun	6.748	2.793	2	Abule Alari
+Alarge	Nganzai	Borno	12.542	13.254	2	
+Alarasan	Egbedore	Osun	7.836	4.406	2	
+Alarara	Atiba	Oyo	8.114	3.902	2	
+Alara-Iju	Atiba	Oyo	8.063	3.970	2	Alara Iju
+Alara-Ile	Atiba	Oyo	8.043	3.904	2	Alara Ile
+Alaraba	Nangere	Yobe	11.828	11.234	2	
+Alaraba	Ori Ire	Oyo	8.295	4.306	2	
+Alaraba	Atiba	Oyo	8.128	3.773	2	
+Alapo	Moro	Kwara	8.759	4.282	2	
+Alapo	Moro	Kwara	8.735	4.474	2	
+Alapo	Afijio	Oyo	7.752	4.028	2	
+Alapo	Oluyole	Oyo	7.271	3.794	2	
+Alapinni	Obafemi Owode	Ogun	7.067	3.467	2	
+Alapinni	Ijebu North	Ogun	7.112	4.074	2	
+Alapete	Olorunsogo	Oyo	8.783	4.031	2	
+Alapete	Moro	Kwara	8.713	4.299	2	
+Alapepe	Akinyele	Oyo	7.608	3.998	2	
+Alape	Afijio	Oyo	7.802	3.833	2	
+Alape	Lagelu	Oyo	7.571	4.078	2	
+Alape	Ido	Oyo	7.414	3.754	2	
+Alape	Odeda	Ogun	7.378	3.539	2	
+Alape	Ife North	Osun	7.342	4.440	2	
+Alapata	Ori Ire	Oyo	8.129	4.078	2	
+Alapata	Ogbomosho South	Oyo	8.067	4.292	2	
+Alapata	Surulere	Oyo	8.046	4.433	2	
+Alapata	Odo Otin	Osun	8.029	4.723	2	
+Alapata	Surulere	Oyo	7.920	4.402	2	
+Alapata	Oyo West	Oyo	7.923	3.757	2	
+Alapata	Afijio	Oyo	7.783	4.019	2	
+Alapata	Ibarapa East	Oyo	7.583	3.491	2	
+Alapata	Akinyele	Oyo	7.502	3.943	2	
+Alapata	Aiyedade	Osun	7.513	4.314	2	
+Alapata	Ife North	Osun	7.345	4.494	2	Alapala
+Alaparun	Ori Ire	Oyo	8.430	4.268	2	
+Alapara	Odeda	Ogun	7.177	3.467	2	
+Alapapo	Ifo	Ogun	6.835	3.083	2	
+Alapandi	Ifo	Ogun	6.811	3.314	2	
+Alapa Market	Ibarapa East	Oyo	7.654	3.537	2	
+Alapako	Asa	Kwara	8.267	4.467	2	
+Alapako	Ìsẹ́yìn	Oyo	7.855	3.560	2	
+Alapako	Obafemi Owode	Ogun	7.149	3.752	2	
+Alapako	Ifo	Ogun	6.800	3.133	2	
+Alapake	Lagelu	Oyo	7.467	4.117	2	
+Alapa	Asa	Kwara	8.617	4.383	2	
+Alapa	Ori Ire	Oyo	8.221	4.107	2	
+Alapa	Ogbomosho South	Oyo	8.072	4.287	2	
+Alapa	Ibarapa East	Oyo	7.653	3.534	2	
+Alapa	Ibarapa East	Oyo	7.614	3.515	2	
+Ala Oji	Ugwunagbo	Abia	5.033	7.317	2	
+Alaocha	Ikwerre	Rivers	4.920	6.866	2	
+Alao	Ido	Oyo	7.408	3.790	2	
+Alanjoni	Koko-Besse	Kebbi	11.217	4.300	2	
+Alangua	Ori Ire	Oyo	8.431	4.153	2	
+Alangangkee	Ogoja	Cross River	6.410	8.572	2	
+Alamo	Isokan	Osun	7.247	4.138	2	
+Alambong	Ogoja	Cross River	6.465	8.731	2	
+Alamala	Abeokuta North	Ogun	7.186	3.244	2	
+Alama	Ifelodun	Kwara	8.435	5.027	2	
+Alalubosa	Ibarapa North	Oyo	7.600	3.283	2	
+Alalafo	Kontagora	Niger	10.458	5.564	2	
+Bamkikiri	Akuku Toru	Rivers	4.487	6.813	2	Alalabo Obenikiri|Bankikiri
+Alala-Ariam	Ikwuano	Abia	5.355	7.612	2	
+Alakwa	Igalamela-Odolu	Kogi	7.027	7.198	2	
+Alakuko	Asa	Kwara	8.614	4.434	2	
+Alakowe	Ede South	Osun	7.646	4.398	2	
+Alako	Ori Ire	Oyo	8.146	4.134	2	
+Alako	Surulere	Oyo	7.939	4.412	2	
+Alako	Isokan	Osun	7.271	4.215	2	
+Alako	Obafemi Owode	Ogun	7.106	3.404	2	
+Alakija	Igalamela-Odolu	Kogi	6.860	6.977	2	
+Alakia	Moro	Kwara	8.812	4.646	2	
+Alake	Surulere	Oyo	8.134	4.365	2	
+Alakasu	Atiba	Oyo	8.091	4.015	2	
+Alakaso	Ido	Oyo	7.409	3.739	2	
+Alaka Pupa	Asa	Kwara	8.467	4.333	2	
+Alakani	Doma	Nasarawa	8.233	8.217	2	
+Alakali	Gboko	Benue	7.257	8.675	2	
+Alakalh	Konshisha	Benue	7.237	8.556	2	
+Alaka	Ido	Oyo	7.532	3.695	2	
+Alaka	Akinyele	Oyo	7.492	3.930	2	
+Alaka	Egbeda	Oyo	7.392	3.975	2	
+Alajogun	Odeda	Ogun	7.277	3.352	2	
+Alajere	Moro	Kwara	8.761	4.242	2	
+Alaje	Ori Ire	Oyo	8.538	4.064	2	
+Alaje	Ona Ara	Oyo	7.225	4.048	2	
+Alajata	Ido	Oyo	7.543	3.807	2	
+Alaja	Moro	Kwara	8.836	4.321	2	
+Alaja	Ori Ire	Oyo	8.339	4.334	2	
+Alaja	Ori Ire	Oyo	8.310	4.123	2	
+Alaja	Akinyele	Oyo	7.567	3.967	2	
+Alaja	Ibarapa Central	Oyo	7.501	3.335	2	
+Alaiye	Yewa North	Ogun	7.364	2.974	2	
+Alaidan	Ori Ire	Oyo	8.436	4.110	2	
+Alahoke	Mayo-Belwa	Adamawa	8.633	11.847	2	
+Alaho	Oluyole	Oyo	7.164	3.802	2	
+Alaha	Aiyedade	Osun	7.278	4.373	2	
+Alagutan	Olorunsogo	Oyo	8.662	4.002	2	
+Alagutan-Oniya	Olorunsogo	Oyo	8.633	3.996	2	Alagutan Oniya
+Alagutan	Ori Ire	Oyo	8.628	4.202	2	
+Alagutan	Ori Ire	Oyo	8.621	4.138	2	
+Alaguntan	Aiyedade	Osun	7.315	4.300	2	Alagutan
+Alagutan	Ijebu North	Ogun	7.150	4.147	2	
+Alaguodo	Ogo Oluwa	Oyo	7.896	4.174	2	
+Alagogo Weru	Moro	Kwara	8.758	4.372	2	
+Alagogo-Oke	Moro	Kwara	8.760	4.376	2	Alagogo Oke
+Alagogo	Moro	Kwara	8.767	4.328	2	
+Alagogo	Asa	Kwara	8.562	4.329	2	
+Alagogo	Ori Ire	Oyo	8.466	4.279	2	
+Alagogo	Imeko Afon	Ogun	7.465	3.069	2	
+Alagogo	Ado Odo/Ota	Ogun	6.600	3.050	2	Alago
+Alagh	Keana	Nasarawa	8.252	8.580	2	
+Alagbon	Olorunsogo	Oyo	8.772	4.037	2	
+Alagbon	Ori Ire	Oyo	8.426	4.173	2	
+Alagbon	Oyun	Kwara	8.131	4.564	2	
+Alagbon	Surulere	Oyo	8.016	4.423	2	
+Alagbon	Yewa North	Ogun	7.338	2.875	2	
+Alagbon	Yewa South	Ogun	6.700	3.017	2	
+Alagbo	Moro	Kwara	8.816	4.201	2	
+Alagbo	Surulere	Oyo	8.104	4.377	2	
+Alagbede-Faji	Ori Ire	Oyo	8.020	4.051	2	Alagbede Faji
+Alagbede	Moro	Kwara	8.866	4.520	2	Abuyanrin
+Alagbede	Asa	Kwara	8.544	4.448	2	
+Alagbede	Surulere	Oyo	8.271	4.414	2	
+Alagbede	Ori Ire	Oyo	8.272	4.299	2	
+Alagbede	Ori Ire	Oyo	8.187	4.089	2	
+Alagbede	Itesiwaju	Oyo	8.128	3.653	2	
+Alagbede	Ori Ire	Oyo	8.097	4.074	2	
+Alagbede	Surulere	Oyo	7.974	4.394	2	
+Alagbede	Ibarapa East	Oyo	7.684	3.498	2	
+Alagbede	Yewa North	Ogun	7.363	2.963	2	
+Alagbede	Odeda	Ogun	7.325	3.501	2	
+Alagbede	Aiyedade	Osun	7.215	4.338	2	
+Alagbede	Aiyedade	Osun	7.225	4.298	2	
+Alagbede	Yewa North	Ogun	7.172	3.015	2	
+Alagbede	Yewa North	Ogun	6.892	2.921	2	
+Alagbede	Surulere	Lagos	6.483	3.367	2	
+Alagbe	Ìsẹ́yìn	Oyo	7.760	3.707	2	
+Alagbe	Yewa South	Ogun	6.774	2.943	2	
+Alagbayun	Ori Ire	Oyo	8.060	4.159	2	
+Alagbana	Ibarapa East	Oyo	7.651	3.390	2	
+Alagbagba	Iwajowa	Oyo	7.921	3.203	2	
+Alagbagba	Imeko Afon	Ogun	7.426	3.077	2	
+Alagbado-Ile	Ifako/Ijaye	Lagos	6.675	3.271	2	
+Alagbado	Asa	Kwara	8.404	4.467	2	
+Alagbado	Surulere	Oyo	8.283	4.367	2	
+Alagbado	Ibarapa North	Oyo	7.595	3.191	2	
+Alagbado	Ifo	Ogun	6.682	3.295	2	
+Alagba	Atiba	Oyo	8.091	4.001	2	
+Alagba	Akinyele	Oyo	7.572	3.858	2	
+Alagba	Ibarapa North	Oyo	7.599	3.302	2	
+Alagba	Ibarapa East	Oyo	7.452	3.524	2	
+Alagba	Ona Ara	Oyo	7.265	4.032	2	
+Alagarno II	Askira-Uba	Borno	10.672	12.563	2	
+Alagarno I	Askira-Uba	Borno	10.709	12.740	2	
+Alagarno	Biu	Borno	10.820	12.398	2	
+Alagangan	Asa	Kwara	8.628	4.345	2	
+Alaga	Atisbo	Oyo	8.280	3.419	2	
+Alaga	Ori Ire	Oyo	8.146	4.119	2	
+Alafose	Ibarapa Central	Oyo	7.401	3.163	2	
+Alafon	Ori Ire	Oyo	8.450	4.238	2	
+Alafiaro	Baruten	Kwara	9.761	3.368	2	Alafiyarou|Alafiyaru
+Alafia	Aiyedade	Osun	7.174	4.345	2	
+Alafara	Moro	Kwara	8.770	4.372	2	
+Alafa	Gwoza	Borno	11.384	13.604	2	
+Alafa	Ori Ire	Oyo	8.357	4.161	2	
+Aladura	Aiyedade	Osun	7.162	4.292	2	
+Aladura	Ipokia	Ogun	6.678	2.815	2	
+Aladorin	Oluyole	Oyo	7.259	3.854	2	
+Aladodo	Atakunmosa East	Osun	7.394	4.767	2	
+Alado	Atiba	Oyo	7.935	3.956	2	
+Aladje	Isoko South	Delta	5.325	6.179	2	Aladja
+Aladiro	Ona Ara	Oyo	7.168	4.062	2	
+Aladim	Ogoja	Cross River	6.555	8.718	2	
+Aladie-Ile	Ori Ire	Oyo	8.489	4.274	2	Aladie Ile
+Aladie	Ori Ire	Oyo	8.541	4.130	2	
+Aladere-Ode	Asa	Kwara	8.322	4.459	2	Aladere Ode|Seidu
+Aladere-Mogaji	Asa	Kwara	8.330	4.464	2	Aladere Mogaji
+Aladere	Ori Ire	Oyo	8.393	4.072	2	
+Alade	Ilorin East	Kwara	8.632	4.816	2	
+Alade	Ifelodun	Kwara	8.480	5.025	2	
+Alade	Oyo West	Oyo	7.826	3.889	2	
+Alade	Akinyele	Oyo	7.603	4.018	2	
+Alade	Akinyele	Oyo	7.522	3.914	2	Awbada
+Alade	Idanre	Ondo	7.142	5.101	2	
+Alade	Abeokuta North	Ogun	7.159	3.097	2	
+Alada	Olorunsogo	Oyo	8.856	4.160	2	
+Alabuke	Egbeda	Oyo	7.385	4.122	2	
+Alabidun	Ori Ire	Oyo	8.043	4.048	2	
+Alabidun	Oluyole	Oyo	7.215	4.011	2	
+Alabi	Ibarapa Central	Oyo	7.477	3.163	2	
+Alabi	Ona Ara	Oyo	7.192	4.070	2	
+Alabebe	Iwajowa	Oyo	7.898	3.266	2	
+Alabata	Asa	Kwara	8.652	4.336	2	
+Alabata	Asa	Kwara	8.333	4.417	2	
+Alabata	Akinyele	Oyo	7.588	3.871	2	
+Alabar	Takum	Taraba	7.528	10.012	2	
+Alabameta	Ife South	Osun	7.148	4.524	2	
+Alabakan Amututu	Ife South	Osun	7.232	4.479	2	
+Alabafi	Saki East	Oyo	8.855	3.422	2	
+Alaba	Moro	Kwara	8.812	4.228	2	
+Alaba	Egbeda	Oyo	7.445	4.113	2	
+Ala-Agba	Ori Ire	Oyo	8.148	4.067	2	Ala Agba
+Ala	Abadam	Borno	13.427	12.827	2	
+Ala	Kwande	Benue	6.624	9.577	2	
+Ago-Alawode	Afijio	Oyo	7.820	4.049	2	Ago Alawode|AgoAlawode
+Ago-Alabi	Moro	Kwara	8.608	4.484	2	Ago Alabi
+Ade-Alesu	Oyo West	Oyo	7.915	3.895	2	Ade Alesu|AdeAlesu
+Abule-Alagbede	Asa	Kwara	8.571	4.378	2	Abule Alagbede
+Abata-Egba	Ife East	Osun	7.321	4.605	2	Abata Egba|Alaba Egi
+Aba Ala	Obi Ngwa	Abia	5.044	7.487	2	
+Alapako	Amuwo Odofin	Lagos	6.450	3.294	2	
+Alakuko	Alimosho	Lagos	6.680	3.259	2	
+Igwuruto Ali	Ikwerre	Rivers	4.969	6.987	2	Igwuruta-Ali|Ozuaha
+Alakohia	Obio/Akpor	Rivers	4.886	6.924	2	
+Alimini	Ikwerre	Rivers	4.998	6.875	2	Alimini-Isiokpo|Alumiri-Isiokpo|Alumirir-Isiokpo
+Alase	Afijio	Oyo	7.745	3.968	2	
+Alawusa	Afijio	Oyo	7.708	3.857	2	
+Alagbe	Afijio	Oyo	7.688	3.848	2	
+Alabata	Afijio	Oyo	7.684	3.994	2	
+Alagba	Afijio	Oyo	7.655	3.845	2	
+Alore	Akinyele	Oyo	7.621	3.856	2	
+Alapo	Akinyele	Oyo	7.584	3.838	2	
+Aleru	Akinyele	Oyo	7.569	3.819	2	
+Alada	Akinyele	Oyo	7.554	3.879	2	
+Alaikola	Akinyele	Oyo	7.518	3.856	2	
+Alaja	Ido	Oyo	7.514	3.827	2	
+Alase	Ido	Oyo	7.513	3.837	2	
+Alaraba	Ido	Oyo	7.517	3.757	2	
+Alagba	Akinyele	Oyo	7.610	3.899	2	
+Alasa	Akinyele	Oyo	7.588	3.878	2	
+Alawusa	Akinyele	Oyo	7.574	3.905	2	
+Alagbede	Akinyele	Oyo	7.553	3.958	2	
+Alagbon	Akinyele	Oyo	7.529	3.990	2	
+Alagba	Akinyele	Oyo	7.519	3.979	2	
+Alingbu	Obio/Akpor	Rivers	4.870	7.056	2	
+Aligbolu	Obio/Akpor	Rivers	4.862	7.016	2	
+Aliosu	Obio/Akpor	Rivers	4.863	7.023	2	
+Alode	Eleme	Rivers	4.785	7.124	2	
+Maraya Alhaji Ahmadu	Gezawa	Kano	12.012	8.724	2	
+Alapata	Lagelu	Oyo	7.465	3.969	2	
+Alamu	Ibadan South West	Oyo	7.382	3.823	2	
+Alagba	Oluyole	Oyo	7.355	3.808	2	
+Alkamsa	Kala-Balge	Borno	11.710	14.316	2	
+Aljie	Dikwa	Borno	11.811	14.105	2	
+Aleparawan	Obio/Akpor	Rivers	4.836	6.926	2	
+Alagbado	Ado Odo/Ota	Ogun	6.621	3.036	2	
+Ibokun-Alege	Obafemi Owode	Ogun	6.848	3.487	2	
+Alahun	Shagamu	Ogun	6.775	3.478	2	
+Alapadi	Ìkòròdú	Lagos	6.641	3.541	2	
+Ita-Alasela	Shagamu	Ogun	6.767	3.641	2	
+Alhaji	Obafemi Owode	Ogun	6.930	3.533	2	
+Omi-Alaja	Idanre	Ondo	7.008	5.104	2	
+Oke-Alafia	Idanre	Ondo	7.015	5.231	2	
+Ala-Ogbo	Idanre	Ondo	7.063	5.209	2	
+Ago-Aladura	Idanre	Ondo	7.067	5.316	2	
+Oke-Alafia	Idanre	Ondo	7.067	5.009	2	
+Ala-Isa	Idanre	Ondo	7.071	5.205	2	
+Alufa	Akure North	Ondo	7.093	5.444	2	
+Alesha-Ashamo	Ọ̀wọ̀	Ondo	7.133	5.542	2	
+Alesaluwala	Ọ̀wọ̀	Ondo	7.134	5.529	2	
+Alasha	Ọ̀wọ̀	Ondo	7.153	5.519	2	
+Alajo	Ọ̀wọ̀	Ondo	7.192	5.459	2	
+Alaso-Adura	Akure North	Ondo	7.220	5.366	2	
+Alabidon	Akure South	Ondo	7.221	5.113	2	
+Alodifi	Akure North	Ondo	7.245	5.296	2	
+Alayere	Akure North	Ondo	7.258	5.358	2	
+Alademehin	Akure South	Ondo	7.263	5.110	2	
+Ago-Alagbara	Ile Oluji/Okeigbo	Ondo	7.275	5.040	2	
+Ago-Yesufu Alli	Ise/Orun	Ekiti	7.316	5.420	2	
+Ale-Owena	Ifedore	Ondo	7.407	5.016	2	
+Alu	Yagba East	Kogi	7.836	5.740	2	
+Oyi-Alabari	Ijero	Ekiti	7.907	5.034	2	
+Alare	Ijero	Ekiti	7.955	5.027	2	
+Sangwa Bulama Ali	Shani	Borno	10.325	12.198	2	
+Allan	Ado	Benue	7.013	8.088	2	
+Alemen	Gwer East	Benue	7.340	8.279	2	
+Alam	Gwer East	Benue	7.384	8.487	2	
+Alabusa	Markurdi	Benue	7.728	8.493	2	
+Alawaye	Markurdi	Benue	7.812	8.419	2	
+Aloma	Oju	Benue	6.806	8.230	2	
+Alebo	Yala	Cross River	6.493	8.447	2	
+Alonye	Yala	Cross River	6.818	8.862	2	
+Tungan Alhaji	Suru	Kebbi	11.608	3.889	2	
+Aljenaari	Suru	Kebbi	11.601	3.893	2	
+Ago Alejo	Ilaje	Ondo	6.383	4.737	2	Ago-Alejo
+Ilu-Alaso	Ilaje	Ondo	6.397	4.593	2	
+Alasia	Odigbo	Ondo	6.884	4.861	2	
+Dan Alili	Babura	Jigawa	12.485	8.760	2	
+Ungwan Ali	Sandamu	Katsina	12.881	8.339	2	
+Alumu	Batagarawa	Katsina	12.762	7.548	2	
+Allaraini	Rimi	Katsina	12.728	7.756	2	
+Dan Albasa	Safana	Katsina	12.444	7.403	2	
+Dan Alikima	Dan Musa	Katsina	12.232	7.326	2	
+Tashana Aleya	Dan Musa	Katsina	12.231	7.389	2	
+Dan Ali	Dan Musa	Katsina	12.134	7.527	2	
+Gidan Aligeta	Birnin Gwari	Kaduna	10.583	6.409	2	
+Aleji	Shiroro	Niger	10.299	6.953	2	
+Kiwo-Allah	Gudu	Sokoto	13.592	4.475	2	
+Alela	Tangaza	Sokoto	13.364	4.996	2	
+Aleta	Binji	Sokoto	13.078	4.698	2	
+Alfagei	Gudu	Sokoto	13.449	4.148	2	
+Kwarma Alikali	Gada	Sokoto	13.626	5.724	2	
+Alela	Gwadabawa	Sokoto	13.387	5.336	2	
+Gidan-Alamu	Gwadabawa	Sokoto	13.342	5.171	2	
+Gidan Alfa	Goronyo	Sokoto	13.217	5.903	2	
+Alibawa	Wamako	Sokoto	13.173	5.185	2	
+Gidan Alkali	Wamako	Sokoto	13.142	5.202	2	
+Tungan Alayafi	Borgu	Niger	10.840	4.331	2	
+Tungan Alalaci	Borgu	Niger	10.826	4.316	2	
+Tungan Alkali	Borgu	Niger	10.784	4.337	2	
+Alunguci	Ngaski	Kebbi	10.352	4.871	2	
+Gidan Almuwa	Gwadabawa	Sokoto	13.513	5.297	2	
+Gidan Aihasan	Illela	Sokoto	13.509	5.458	2	Gidan Alhasan
+Alikere	Faskari	Katsina	11.813	7.090	2	
+Alikeai	Faskari	Katsina	11.778	7.099	2	
+Ungwan Alhazi	Karaye	Kano	11.748	7.932	2	
+Alkali	Bakori	Katsina	11.545	7.447	2	
+Hayin Mai Alewa	Bakori	Katsina	11.515	7.555	2	
+Ungwan Ali	Dandume	Katsina	11.412	7.265	2	
+Mallam Alhaji	Dandume	Katsina	11.384	7.200	2	
+Ungwan Ala	Sabuwa	Katsina	11.408	7.099	2	
+Kaura Dan Alasan	Dandume	Katsina	11.299	7.283	2	
+Ungwan Alananan	Dandume	Katsina	11.267	7.208	2	
+Ungwan Ali Maikano	Giwa	Kaduna	11.188	7.444	2	
+Ungwan Mallam Alassan	Giwa	Kaduna	11.177	7.224	2	
+Mai Alvanssa	Giwa	Kaduna	11.115	7.225	2	
+Ungwan Alu	Zaria	Kaduna	11.068	7.592	2	
+Gidan Mallam Ali	Zaria	Kaduna	11.013	7.543	2	
+Alsure	Suru	Kebbi	11.783	4.130	2	
+Sha Aluashi	Kebbe	Sokoto	11.637	4.559	2	Garin Magaji
+Alhaji Dula	Koko-Besse	Kebbi	11.391	4.367	2	
+Tungan Alhai Sakar	Koko-Besse	Kebbi	11.392	4.374	2	
+Tunga Allahma	Bagudo	Kebbi	11.090	4.325	2	
+Gajeri Alu	Shanga	Kebbi	11.460	4.714	2	
+Aladja Omia	Udu	Delta	5.486	5.754	2	Aladja
+Alumagbene	Burutu	Delta	5.318	5.528	2	
+Gidan Ali Maikaga	Aleiro	Kebbi	12.261	4.544	2	
+Alpagay	Birnin Kebbi	Kebbi	12.579	4.207	2	
+Aladinggbene	Ekeremor	Bayelsa	4.906	5.571	2	
+Alaru Camp	Ekeremor	Bayelsa	4.958	5.633	2	Alaru
+Alagboloe	Southern Ijaw	Bayelsa	4.540	5.812	2	
+Alagbene	Southern Ijaw	Bayelsa	4.529	5.795	2	Agengbene|Bendicgbene
+Ama-Alibi	Andoni	Rivers	4.488	7.468	2	
+Mai Dakin Alkali	Bebeji	Kano	11.665	8.297	2	
+Okpu Ala Uku	Osisioma Ngwa	Abia	5.258	7.351	2	
+Amabia-Ala	Arochukwu	Abia	5.649	7.678	2	
+Aliko	Ibaji	Kogi	6.823	6.782	2	
+Alke	Ibaji	Kogi	6.792	6.779	2	Aike
+Alabanisi	Ughelli North	Delta	5.329	6.050	2	
+Alegu	Ogba/Egbema/Ndoni	Rivers	5.306	6.624	2	
+Wiri-Ale	Orhionmwon	Edo	6.352	6.233	2	
+Aliliha	Ika South	Delta	6.295	6.120	2	
+Alisimie Two	Ika South	Delta	6.310	6.162	2	Alisimie II
+Alimosho	Alimosho	Lagos	6.589	3.249	2	
+Katsina-Ala	Katsina-Ala	Benue	7.290	9.553	2	Agbegbe Ijoba Ibile Katsina-Ala|Katsina Ala
+Aliokpu-Agbor	Ika South	Delta	6.246	6.168	2	
+Aleiro	Aleiro	Kebbi	12.297	4.428	2	Agbegbe Ijoba Ibile Aleiro|Aleiro Local Government Area|Aleyro|alyrw
+Albasu	Albasu	Kano	11.662	9.103	2	Agbegbe Ijoba Ibile Albasu|Albasu Local Government Area|albasw
+Alkaleri	Alkaleri	Bauchi	9.890	10.480	2	Agbegbe Ijoba Ibile Alkaleri|Alkaleri Local Government Area|alkalry
+Wuro Alim	Maiha	Adamawa	9.923	13.236	2	
+Wuro Alhamdu	Maiha	Adamawa	9.728	13.243	2	
+Ali-Kannori	Kukawa	Borno	13.132	13.581	2	
+Ali-Meleri	Kukawa	Borno	13.115	13.632	2	
+Bula Alamia	Bama	Borno	11.474	13.804	2	
+Ali-Ngollomari	Monguno	Borno	12.569	13.724	2	
+Ali-Wango	Monguno	Borno	12.527	13.763	2	
+Alo	Jere	Borno	11.736	13.254	2	
+Gari Alhaji	Gujba	Yobe	11.410	11.761	2	
+Alagh	Gwer East	Benue	7.164	8.275	2	
+Alaglanu	Ohimini	Benue	7.245	8.014	2	
+Alibaluhu	Ezza South	Ebonyi	6.178	8.149	2	
+Garin Alhaji	Gassol	Taraba	8.454	10.638	2	
+Ala	Marte	Borno	12.182	13.891	2	
+Aliero  Dangaladima Ii	Aleiro	Kebbi	12.246	4.456	2	
+Garin Ali	Garko	Kano	11.545	8.863	2	
+Dan Ali	Dan Musa	Katsina	12.131	7.497	2	
+Na'Alma	Malumfashi	Katsina	11.989	7.639	2	
+Alwasa	Argungu	Kebbi	12.608	4.428	2	
+Aliero  Dangaladima I	Aleiro	Kebbi	12.259	4.491	2	
+Alau	Jere	Borno	11.745	13.255	2	
+Alkaleri East	Alkaleri	Bauchi	10.228	10.429	2	
+Alangawari	Zaki	Bauchi	11.925	10.397	2	
+Alana	Doma	Nasarawa	7.934	8.296	2	
+Ali	Markurdi	Benue	7.734	8.403	2	
+Alishi	Logo	Benue	7.769	9.072	2	
+Ala	Ukum	Benue	7.789	9.482	2	
+Aloo	Logo	Benue	7.733	9.057	2	
+Ali	Logo	Benue	7.579	9.118	2	
+Aliutsa	Logo	Benue	7.682	9.328	2	
+Alaghgn	Logo	Benue	7.583	9.317	2	
+Alabusa	Wukari	Taraba	7.822	9.712	2	
+Alya	Ukum	Benue	7.714	9.681	2	
+Alam	Wukari	Taraba	7.729	9.763	2	
+Aligba	Gboko	Benue	7.377	9.049	2	
+Alayo	Buruku	Benue	7.480	9.152	2	
+Alaha	Buruku	Benue	7.468	9.142	2	
+Alu	Buruku	Benue	7.411	9.156	2	
+Alashi	Buruku	Benue	7.459	9.265	2	
+Alam	Katsina-Ala	Benue	7.258	9.396	2	
+Alam	Katsina-Ala	Benue	7.441	9.462	2	
+Alegh	Ushongo	Benue	7.139	9.052	2	
+Alabar	Vandeikya	Benue	7.007	9.041	2	
+Alough	Buruku	Benue	7.157	9.174	2	
+Aluka	Buruku	Benue	7.158	9.157	2	
+Alem	Ushongo	Benue	7.074	9.123	2	
+Aloor	Katsina-Ala	Benue	7.109	9.477	2	
+Alund	Ukum	Benue	7.434	9.583	2	
+Oraluga	Gboko	Benue	7.439	8.752	2	Or-Aluga
+Alio	Gboko	Benue	7.453	8.971	2	
+Alaka	Gboko	Benue	7.422	8.959	2	
+Alu	Gboko	Benue	7.387	8.851	2	
+Aloho	Gboko	Benue	7.368	8.872	2	
+Aligbe	Gboko	Benue	7.260	8.773	2	
+Alar	Ushongo	Benue	7.261	8.951	2	
+Alagarno	Zaki	Bauchi	12.199	10.279	2	
+Alishi	Gamawa	Bauchi	12.052	10.478	2	
+Alisonkiri	Brass	Bayelsa	4.421	6.448	2	Ijawkiri
+Alatoru	Nembe	Bayelsa	4.370	6.359	2	
+Algeta	Mokwa	Niger	9.391	5.886	2	
+Emitsu Alinasan	Gbako	Niger	9.062	5.862	2	
+Garin Mallam Alhaji	Karasuwa	Yobe	13.096	10.800	2	
+Garin Allahrechi	Yusufari	Yobe	13.093	10.984	2	
+Sofon Aliayeta	Gbako	Niger	9.326	6.036	2	
+Alkaliko	Katcha	Niger	9.353	6.220	2	
+Aliugoy	Gbako	Niger	9.183	6.005	2	
+Aluyagi	Gbako	Niger	9.186	6.124	2	
+Gidan Alkali	Gbako	Niger	9.158	6.076	2	
+Alugi	Katcha	Niger	9.065	6.233	2	
+Ale	Shiroro	Niger	9.874	6.700	2	
+Gidan Alugoy	Munya	Niger	9.777	6.877	2	
+Tungan Alade	Bosso	Niger	9.571	6.595	2	
+Alamindu	Mayo-Belwa	Adamawa	8.866	12.060	2	
+Wuro Alhaji	Jada	Adamawa	8.786	12.142	2	
+Alaba	Ajeromi/Ifelodun	Lagos	6.460	3.324	2	
+Alaba	Ojo	Lagos	6.454	3.181	2	
+Alaka	Surulere	Lagos	6.482	3.363	2	
+Alim	Jada	Adamawa	8.736	12.307	2	
+Alajire	Fufore	Adamawa	8.789	12.430	2	
+Albani	Jada	Adamawa	8.560	12.420	2	
+Wuro Ali	Jada	Adamawa	8.548	12.417	2	
+Ali Moukila	Jada	Adamawa	8.739	12.462	2	
+Araromi Ale	Badagry	Lagos	6.470	3.048	2	
+Alayabiagba	Ajeromi/Ifelodun	Lagos	6.459	3.352	2	
+Alakoto	Ajeromi/Ifelodun	Lagos	6.442	3.337	2	
+Alafia	Apapa	Lagos	6.475	3.344	2	
+Mosa Alasai Agoro	Mushin	Lagos	6.521	3.349	2	
+Alafia Adeoye	Mushin	Lagos	6.527	3.341	2	
+Alakara	Mushin	Lagos	6.524	3.365	2	
+Alagbeji	Oshodi/Isolo	Lagos	6.537	3.331	2	
+Alabata	Alimosho	Lagos	6.603	3.296	2	
+Alaguntan	Alimosho	Lagos	6.612	3.299	2	
+Alagbado Alakuko	Alimosho	Lagos	6.671	3.256	2	
+Alakuko Ajegunle	Ifako/Ijaye	Lagos	6.693	3.267	2	
+Alagbado Kollinton	Ifako/Ijaye	Lagos	6.681	3.275	2	
+Oyewole Alagba	Agege	Lagos	6.621	3.304	2	
+Alade	Ikeja	Lagos	6.602	3.347	2	
+Arowosegbe Alapere	Kosofe	Lagos	6.583	3.399	2	
+Okesuna Alase	Shomolu	Lagos	6.533	3.380	2	
+Orile Somolu Alade	Shomolu	Lagos	6.537	3.375	2	
+Alagomeji	Lagos Mainland	Lagos	6.498	3.380	2	
+Aloba Desalu	Surulere	Lagos	6.484	3.370	2	
+Maroko Okun Alfa	Eti Osa	Lagos	6.429	3.515	2	
+Alagba Obadina	Lagos Island	Lagos	6.455	3.389	2	
+Ala na Onugwe	Ibaji	Kogi	6.543	6.677	2	
+Gidan Alan	Karu	Nasarawa	9.110	7.908	2	
+Gidan Aleku	Karu	Nasarawa	9.056	7.820	2	
+Wuro Alkali	Zing	Taraba	8.899	11.788	2	
+Alhaji Jida	Ganye	Adamawa	8.645	11.889	2	
+Zongon Kobi Jauro Ali	Ardo-Kola	Taraba	8.810	11.053	2	
+Ali Jada	Ardo-Kola	Taraba	8.759	11.072	2	
+Ali Zinna	Ardo-Kola	Taraba	8.847	11.137	2	
+Garin Mallam Alim	Ardo-Kola	Taraba	8.842	11.139	2	
+Mallam Ali Gora	Ardo-Kola	Taraba	8.933	11.190	2	
+Wuro Alhaji Umaru	Jalingo	Taraba	8.918	11.295	2	
+Alagarno	Ardo-Kola	Taraba	8.835	11.314	2	
+Wuro Alan	Ardo-Kola	Taraba	8.825	11.316	2	
+Alkali Yabba	Ardo-Kola	Taraba	8.791	11.317	2	
+Alkali Sunbu	Yorro	Taraba	8.974	11.400	2	
+Garin Ali	Gassol	Taraba	8.587	10.714	2	
+Garin Jauro Ali	Gassol	Taraba	8.720	10.885	2	
+Gidan Ali	Wase	Plateau	8.893	9.881	2	
+Alluwa	Riyom	Plateau	9.465	8.708	2	
+Alisongbene	Southern Ijaw	Bayelsa	4.764	5.752	2	
+Rumnde Alkali	Yola North	Adamawa	9.285	12.190	2	
+Alim Nyuyuji	Yola North	Adamawa	9.276	12.193	2	
+Alarba	Yola North	Adamawa	9.132	12.483	2	
+Almaha	Lau	Taraba	9.324	11.594	2	
+Alkali	Lau	Taraba	9.194	11.555	2	
+Alkaleri	Alkaleri	Bauchi	9.699	10.791	2	Yelwan Akalere
+Alkali Sule	Alkaleri	Bauchi	9.738	10.843	2	
+Alubo	Karim Lamido	Taraba	9.311	10.788	2	
+Garu Alhaji	Karim Lamido	Taraba	9.183	11.023	2	
+Ojubu-Alade	Imeko Afon	Ogun	7.399	3.051	2	
+Alagbe	Odeda	Ogun	7.336	3.256	2	
+Igbo Alata	Odeda	Ogun	7.305	3.261	2	
+Alagada	Obafemi Owode	Ogun	7.069	3.337	2	
+Alade	Obafemi Owode	Ogun	7.052	3.437	2	
+Aladin	Obafemi Owode	Ogun	7.136	3.434	2	
+Alaro	Odeda	Ogun	7.211	3.458	2	
+Alagbede	Odeda	Ogun	7.228	3.454	2	
+Alako	Odeda	Ogun	7.234	3.378	2	
+Alagbede	Ibarapa East	Oyo	7.494	3.499	2	
+Alabe	Lagelu	Oyo	7.491	4.012	2	
+Alaga	Lagelu	Oyo	7.474	4.036	2	
+Aloba	Egbeda	Oyo	7.469	4.028	2	
+Alewe	Egbeda	Oyo	7.445	4.013	2	
+Alagba	Egbeda	Oyo	7.442	4.033	2	
+Alaro	Ona Ara	Oyo	7.357	4.009	2	
+Alaikola	Ona Ara	Oyo	7.318	4.037	2	
+Alago	Ona Ara	Oyo	7.322	4.024	2	
+Alagbede	Ona Ara	Oyo	7.292	4.012	2	
+Alakaso	Ona Ara	Oyo	7.295	4.024	2	
+Alufa	Ona Ara	Oyo	7.286	4.036	2	
+Alaiye-Nla	Irewole	Osun	7.463	4.142	2	
+Alaiye-Kekere	Irewole	Osun	7.462	4.142	2	
+Alakaso	Ona Ara	Oyo	7.242	4.067	2	
+Alawiye	Ona Ara	Oyo	7.232	4.073	2	
+Alaro	Ona Ara	Oyo	7.145	4.066	2	
+Alesinloye	Ijebu North	Ogun	7.081	4.065	2	
+Alli-Panu	Aiyedade	Osun	7.159	4.131	2	
+Aloyin	Ona Ara	Oyo	7.258	4.075	2	
+Alago	Ona Ara	Oyo	7.243	4.077	2	
+Alagbede	Ona Ara	Oyo	7.315	4.085	2	
+Alase	Ona Ara	Oyo	7.310	4.107	2	
+Alaka	Egbeda	Oyo	7.360	4.073	2	
+Aloba	Egbeda	Oyo	7.407	4.109	2	
+Taiwo-Alaja	Egbeda	Oyo	7.435	4.130	2	
+Alaiye	Irewole	Osun	7.449	4.165	2	
+Alade	Irewole	Osun	7.470	4.202	2	
+Alagba	Irewole	Osun	7.436	4.180	2	
+Alape	Isokan	Osun	7.292	4.158	2	
+Alabameta	Aiyedade	Osun	7.250	4.192	2	
+Alusekere	Irewole	Osun	7.401	4.244	2	
+Alabakun	Irewole	Osun	7.384	4.233	2	
+Alagba	Isokan	Osun	7.311	4.213	2	
+Mopa-Alaran	Isokan	Osun	7.300	4.228	2	
+Alabamejo	Isokan	Osun	7.282	4.232	2	
+Alemo	Aiyedade	Osun	7.259	4.230	2	
+Alape	Aiyedade	Osun	7.246	4.218	2	
+Alapa	Aiyedade	Osun	7.202	4.269	2	
+Alaga	Aiyedade	Osun	7.211	4.276	2	
+Alagberi	Aiyedade	Osun	7.183	4.293	2	
+Alomo	Aiyedade	Osun	7.219	4.287	2	
+Alagbaja	Isokan	Osun	7.336	4.256	2	
+Alahun-Alapata	Irewole	Osun	7.371	4.258	2	
+Aluko	Aiyedade	Osun	7.397	4.316	2	
+Alusekere	Irewole	Osun	7.417	4.264	2	
+Alape	Aiyedade	Osun	7.484	4.338	2	
+Alayande	Aiyedade	Osun	7.425	4.331	2	
+Alate	Aiyedade	Osun	7.398	4.338	2	
+Alice	Ife North	Osun	7.395	4.383	2	
+Alakodi	Aiyedade	Osun	7.328	4.350	2	
+Alapata	Aiyedade	Osun	7.258	4.377	2	
+Alage	Aiyedade	Osun	7.239	4.360	2	
+Alagbede	Ife North	Osun	7.410	4.497	2	
+Jogun-Alado	Ife North	Osun	7.424	4.424	2	
+Alagba	Ife North	Osun	7.425	4.432	2	
+Alafa	Ife North	Osun	7.412	4.424	2	
+Alagbogbo	Ife North	Osun	7.397	4.484	2	
+Apamu-Alagbede	Ife North	Osun	7.308	4.460	2	
+Bolorunduro Alugbin	Surulere	Oyo	7.990	4.523	2	
+Alapata	Olorunda	Osun	7.926	4.542	2	
+Alagbaka	Irepodun	Osun	7.919	4.530	2	
+Alayinko	Orolu	Osun	7.927	4.514	2	
+Alayinko	Irepodun	Osun	7.916	4.516	2	
+Alapata	Olorunda	Osun	7.893	4.551	2	
+Alabiye	Ede North	Osun	7.716	4.500	2	
+Alaru	Ede South	Osun	7.701	4.511	2	
+Alajue	Ede South	Osun	7.658	4.520	2	
+Alage	Ede South	Osun	7.652	4.510	2	
+Alawode	Ede South	Osun	7.652	4.526	2	
+Alaje	Ede South	Osun	7.641	4.522	2	
+Alagbede	Ife Central	Osun	7.608	4.535	2	
+Aloba	Ife Central	Osun	7.602	4.526	2	
+Alakowe	Ife Central	Osun	7.546	4.577	2	
+Alagbede	Ife North	Osun	7.509	4.505	2	
+Alaba Oke	Atakunmosa West	Osun	7.507	4.660	2	
+Alaba	Atakunmosa West	Osun	7.501	4.652	2	
+Alatise	Atakunmosa West	Osun	7.558	4.624	2	
+Alajue	Atakunmosa West	Osun	7.636	4.556	2	
+Alaga	Atakunmosa West	Osun	7.622	4.610	2	
+Alusekere	Atakunmosa West	Osun	7.639	4.573	2	
+Alajue	Ede South	Osun	7.666	4.547	2	
+Alape	Obokun	Osun	7.767	4.624	2	
+Alafon	Obokun	Osun	7.718	4.649	2	
+Jagun-Alagbado	Boripe	Osun	7.871	4.650	2	
+Aladanla	Obokun	Osun	7.775	4.768	2	
+Alamo	Ila	Osun	7.888	4.857	2	
+Alowo	Ila	Osun	7.908	4.873	2	
+Alayo	Efon	Ekiti	7.765	4.949	2	
+Alawaye	Efon	Ekiti	7.747	4.971	2	
+Alapo	Egbeda	Oyo	7.434	4.035	2	
+Alagbon-Ajibola	Yewa North	Ogun	7.380	2.986	2	
+Olola-Alabede	Yewa North	Ogun	7.399	2.911	2	
+Alada	Aiyedade	Osun	7.285	4.307	2	
+Alagbe-Osupa	Imeko Afon	Ogun	7.423	2.748	2	
+Aba-Ale	Yewa North	Ogun	6.945	2.882	2	
+Alaparun	Yewa North	Ogun	6.948	2.999	2	
+Iya-Alaboto	Yewa South	Ogun	6.886	2.965	2	
+Ita Alao	Ipokia	Ogun	6.760	2.833	2	
+Alaje	Ado Odo/Ota	Ogun	6.613	2.989	2	
+Alari-Isadan	Ipokia	Ogun	6.734	2.788	2	Alari
+Mbamba Rumnde Alkali	Yola North	Adamawa	9.197	12.571	2	
+Alajire	Fufore	Adamawa	9.201	12.699	2	
+Rumnde Alkali	Yola North	Adamawa	9.197	12.542	2	
+Ago-Aletile	Ilaje	Ondo	6.337	4.666	2	
+Ago-Alejo	Ilaje	Ondo	6.334	4.632	2	
+Alase	Ife East	Osun	7.474	4.599	2	
+Alaka	Ife East	Osun	7.471	4.626	2	
+Alabameta	Ife East	Osun	7.429	4.588	2	
+Alofe	Ife North	Osun	7.413	4.530	2	
+Alaga	Ife North	Osun	7.380	4.508	2	
+Alase	Ife North	Osun	7.349	4.517	2	
+Ogunleye Alanomo	Ife North	Osun	7.315	4.506	2	
+Alarin	Ife South	Osun	7.308	4.578	2	
+Alera	Ife South	Osun	7.280	4.582	2	
+Okusu-Aloro	Ife South	Osun	7.161	4.556	2	
+Okusu-Alera	Ife South	Osun	7.151	4.552	2	
+Imalegba-Alafia	Ife South	Osun	7.189	4.631	2	
+Alatare	Ife South	Osun	7.210	4.609	2	
+Alapako	Atakunmosa West	Osun	7.491	4.632	2	
+Alapaede	Atakunmosa West	Osun	7.394	4.690	2	
+Aladire	Ife South	Osun	7.357	4.649	2	
+Aiye-Aluko	Ife South	Osun	7.380	4.688	2	
+Aluko	Atakunmosa West	Osun	7.338	4.733	2	
+Alate	Ife South	Osun	7.270	4.665	2	
+Ale-Ahanran	Ife South	Osun	7.217	4.675	2	
+Alamula	Ile Oluji/Okeigbo	Ondo	7.196	4.732	2	
+Alafia	Ondo West	Ondo	7.059	4.758	2	
+Ajagba-Alafia	Ondo West	Ondo	7.063	4.762	2	
+Oke-Alafia	Ile Oluji/Okeigbo	Ondo	7.279	4.762	2	
+Alarere	Atakunmosa West	Osun	7.321	4.762	2	
+Alagbon	Ile Oluji/Okeigbo	Ondo	7.235	4.824	2	
+Alapa	Ondo East	Ondo	7.145	4.897	2	
+Aloki	Ondo East	Ondo	7.183	4.969	2	
+Alagbon	Ile Oluji/Okeigbo	Ondo	7.258	4.947	2	
+Oke-Alafia	Ile Oluji/Okeigbo	Ondo	7.313	4.983	2	
+Alonge	Oriade	Osun	7.389	4.981	2	
+Alaropo	Ori Ire	Oyo	8.234	4.072	2	
+Alufa	Ori Ire	Oyo	8.143	4.074	2	
+Alamola	Ori Ire	Oyo	8.084	4.040	2	
+Alako	Ori Ire	Oyo	8.494	4.213	2	
+Alapete	Ori Ire	Oyo	8.465	4.213	2	
+Alata	Ori Ire	Oyo	8.365	4.217	2	
+Alate	Ori Ire	Oyo	8.311	4.377	2	
+Aloba	Asa	Kwara	8.393	4.366	2	
+Alufa	Asa	Kwara	8.401	4.363	2	
+Alufa	Ori Ire	Oyo	8.382	4.306	2	
+Aluko	Asa	Kwara	8.227	4.489	2	
+Alagbe-Oloro	Surulere	Oyo	8.185	4.369	2	
+Alayin	Surulere	Oyo	8.161	4.388	2	
+Igbolasa Alada	Ogbomosho North	Oyo	8.109	4.294	2	
+Alabanju	Surulere	Oyo	8.119	4.481	2	
+Alabere	Surulere	Oyo	8.173	4.448	2	
+Alawode	Surulere	Oyo	8.071	4.474	2	
+Alayin	Surulere	Oyo	8.047	4.465	2	
+Alfa	Surulere	Oyo	8.020	4.436	2	
+Alade	Surulere	Oyo	8.017	4.409	2	
+Alasa	Surulere	Oyo	8.047	4.374	2	
+Alatan	Surulere	Oyo	8.033	4.328	2	
+Alagbede	Ogbomosho South	Oyo	8.056	4.280	2	
+Iro-Alade	Odeda	Ogun	7.284	3.521	2	
+Alufa	Obafemi Owode	Ogun	7.142	3.558	2	
+Alaha	Obafemi Owode	Ogun	7.137	3.631	2	
+Alakija	Odeda	Ogun	7.281	3.592	2	
+Aloba	Odeda	Ogun	7.421	3.697	2	
+Alade	Odeda	Ogun	7.387	3.659	2	
+Alagba	Odeda	Ogun	7.367	3.684	2	
+Alaho	Ido	Oyo	7.328	3.736	2	
+Alapata	Ido	Oyo	7.330	3.740	2	
+Alatan	Odeda	Ogun	7.204	3.743	2	
+Alafin	Remo North	Ogun	7.071	3.746	2	
+Alli	Ijebu North	Ogun	7.028	3.873	2	
+Alagba	Oluyole	Oyo	7.192	3.907	2	
+Alata	Oluyole	Oyo	7.226	3.895	2	
+Alapata	Oluyole	Oyo	7.230	3.904	2	
+Alaba	Olorunsogo	Oyo	8.876	4.153	2	
+Alayan	Moro	Kwara	8.871	4.258	2	
+Alaro	Moro	Kwara	8.802	4.355	2	
+Alagbede	Moro	Kwara	8.747	4.261	2	
+Alakoko	Moro	Kwara	8.745	4.274	2	
+Alaje	Moro	Kwara	8.721	4.301	2	
+Alakasu	Moro	Kwara	8.765	4.423	2	
+Alaso	Asa	Kwara	8.673	4.348	2	
+Alaparo	Asa	Kwara	8.687	4.342	2	
+Budo-Alufa	Asa	Kwara	8.693	4.236	2	
+Alaba	Olorunsogo	Oyo	8.689	4.041	2	
+Alapata	Asa	Kwara	8.642	4.253	2	
+Alagba	Asa	Kwara	8.630	4.266	2	
+Budo-Alapa	Asa	Kwara	8.623	4.280	2	
+Aladere	Asa	Kwara	8.621	4.309	2	
+Asi-Alaro	Asa	Kwara	8.630	4.322	2	
+Alakawa	Asa	Kwara	8.658	4.346	2	
+Idi-Agbon Alaro	Asa	Kwara	8.625	4.368	2	
+Alapa Koro	Asa	Kwara	8.634	4.388	2	
+Alhaji	Moro	Kwara	8.657	4.414	2	
+Alawuye	Moro	Kwara	8.627	4.438	2	
+Alawuyon	Moro	Kwara	8.634	4.441	2	
+Alaherekan	Moro	Kwara	8.642	4.437	2	
+Alaida	Asa	Kwara	8.599	4.396	2	
+Alangba	Asa	Kwara	8.588	4.399	2	
+Oke-Alaro	Asa	Kwara	8.586	4.394	2	
+Aladere	Asa	Kwara	8.587	4.372	2	
+Aloba	Asa	Kwara	8.608	4.324	2	
+Ala	Ori Ire	Oyo	8.585	4.254	2	
+Alaka	Ori Ire	Oyo	8.573	4.114	2	
+Alope	Ori Ire	Oyo	8.597	4.090	2	
+Alabere	Ori Ire	Oyo	8.602	4.054	2	
+Alaba	Ori Ire	Oyo	8.572	4.055	2	
+Budo-Alade-Atu	Ori Ire	Oyo	8.582	4.040	2	
+Alahere	Ori Ire	Oyo	8.587	4.043	2	
+Aloba	Olorunsogo	Oyo	8.619	4.010	2	
+Alatori	Ori Ire	Oyo	8.546	4.018	2	
+Alawode	Ori Ire	Oyo	8.514	4.088	2	
+Alagbede	Ori Ire	Oyo	8.555	4.217	2	
+Alaba	Ori Ire	Oyo	8.541	4.223	2	
+Alaba	Asa	Kwara	8.542	4.296	2	
+Igbo-Alanu	Asa	Kwara	8.534	4.307	2	
+Alaparo	Asa	Kwara	8.512	4.442	2	
+Alalubosa	Ilorin West	Kwara	8.556	4.478	2	
+Alawu	Ilorin West	Kwara	8.515	4.499	2	
+Alete	Asa	Kwara	8.506	4.443	2	
+Alhaji	Asa	Kwara	8.507	4.384	2	
+Aladura	Ibarapa North	Oyo	7.629	3.138	2	
+Alaba	Ibarapa North	Oyo	7.564	3.086	2	
+Alagba	Ibarapa North	Oyo	7.542	3.137	2	
+Alli	Ibarapa North	Oyo	7.511	3.179	2	
+Aladie	Ibarapa North	Oyo	7.527	3.195	2	
+Lawani Alalade	Ibarapa North	Oyo	7.570	3.173	2	
+Alagba-Tapa	Ibarapa North	Oyo	7.627	3.238	2	
+Alomaso	Ibarapa North	Oyo	7.530	3.329	2	
+Alapinni	Ibarapa East	Oyo	7.677	3.472	2	
+Alagbede	Ìsẹ́yìn	Oyo	7.715	3.322	2	
+Budo-Alli	Ifelodun	Kwara	8.463	5.052	2	
+Alabe	Isin	Kwara	8.162	5.079	2	
+Alebi-Osu	Ìsẹ́yìn	Oyo	7.761	3.634	2	
+Alenwa	Nasarawa Egon	Nasarawa	8.772	8.540	2	
+Alawagana	Lafia	Nasarawa	8.626	8.773	2	
+Gidan-Alkali	Lafia	Nasarawa	8.643	8.656	2	Gidan-Aikali
+Alakio	Lafia	Nasarawa	8.595	8.666	2	
+Alawon	Asa	Kwara	8.205	4.504	2	
+Alaba	Oyun	Kwara	8.166	4.649	2	
+Alaya	Offa	Kwara	8.141	4.658	2	
+Alenibora	Offa	Kwara	8.133	4.635	2	
+Aladi	Oyun	Kwara	8.106	4.612	2	
+Alaguta	Oyun	Kwara	8.109	4.617	2	
+Igbo-Alu	Oyun	Kwara	8.080	4.565	2	
+Alagba	Oyun	Kwara	8.062	4.554	2	
+Alam	Akwanga	Nasarawa	8.972	8.349	2	
+Alagani	Nasarawa Egon	Nasarawa	8.793	8.434	2	
+Alatula	Ìsẹ́yìn	Oyo	7.811	3.672	2	
+Alapata	Ìsẹ́yìn	Oyo	7.806	3.714	2	
+Igbo-Alayin	Oyo West	Oyo	7.982	3.749	2	
+Alaga	Afijio	Oyo	7.790	3.757	2	
+Alawo	Afijio	Oyo	7.755	3.791	2	
+Igbo-Alata	Oyo West	Oyo	7.955	3.792	2	
+Alagbede	Oyo West	Oyo	7.977	3.837	2	
+Alagbon	Oyo West	Oyo	7.900	3.784	2	
+Alawo	Oyo West	Oyo	7.889	3.818	2	
+Alaguma	Oyo West	Oyo	7.893	3.824	2	
+Alagba	Oyo West	Oyo	7.980	3.865	2	
+Alagba	Oyo West	Oyo	7.936	3.867	2	
+Alaran	Afijio	Oyo	7.831	3.787	2	
+Alesinloye	Oyo West	Oyo	7.852	3.834	2	
+Alabanla	Atiba	Oyo	7.907	3.990	2	
+Alayin	Oyo East	Oyo	7.888	3.998	2	
+Alapo	Oyo East	Oyo	7.852	3.986	2	
+Alapinni	Afijio	Oyo	7.789	3.922	2	
+Alagbede	Afijio	Oyo	7.785	3.988	2	
+Alaka	Ifelodun	Kwara	8.431	4.841	2	
+Alo	Ifelodun	Kwara	8.420	4.836	2	
+Aladodo	Ifelodun	Kwara	8.414	4.803	2	
+Alufa	Ifelodun	Kwara	8.408	4.782	2	
+Aladi	Ifelodun	Kwara	8.401	4.758	2	
+Alufa	Ifelodun	Kwara	8.353	4.772	2	
+Alaro	Isin	Kwara	8.323	4.978	2	
+Alowo Esin	Oyo East	Oyo	7.884	4.002	2	
+Alaka	Afijio	Oyo	7.813	4.029	2	
+Alase	Afijio	Oyo	7.807	4.048	2	
+Alagba	Ogo Oluwa	Oyo	7.971	4.139	2	
+Alapo	Ogo Oluwa	Oyo	8.003	4.196	2	
+Alaye	Ogo Oluwa	Oyo	7.995	4.219	2	
+Alagba	Ejigbo	Osun	7.791	4.336	2	
+Alara	Ogo Oluwa	Oyo	7.919	4.346	2	
+Alokun	Ogo Oluwa	Oyo	7.956	4.327	2	
+Aladi	Surulere	Oyo	7.994	4.373	2	
+Alapata	Oyun	Kwara	8.103	4.667	2	
+Inaja-Alaro	Oyun	Kwara	8.080	4.584	2	
+Alkali	Bali	Taraba	8.440	11.099	2	
+Wuro Allah	Song	Adamawa	9.846	12.487	2	WuroAllah
+Jauro Jauro Ali	Song	Adamawa	9.630	12.478	2	JauroJauroAli
+Wuro Alhaji	Shelleng	Adamawa	9.865	12.037	2	WuroAlhaji
+Aleyo	Asa	Kwara	8.390	4.581	2	
+Alumiya	Ilorin South	Kwara	8.402	4.608	2	
+Ale-Ara	Ilorin West	Kwara	8.422	4.559	2	
+Alaja	Ilorin East	Kwara	8.451	4.619	2	
+Alase	Ilorin West	Kwara	8.419	4.540	2	
+Daniel Alufa	Ilorin East	Kwara	8.461	4.603	2	DanielAlufa
+Alapako-Etile	Asa	Kwara	8.298	4.515	2	Alapako Etile|AlapakoEtile
+Alasape	Asa	Kwara	8.353	4.553	2	
+Ita-Alamu	Ilorin East	Kwara	8.443	4.586	2	
+Alagbako	Ilorin West	Kwara	8.422	4.573	2	
+Alakuko	Ifelodun	Kwara	8.349	4.748	2	
+Alaba	Asa	Kwara	8.369	4.641	2	
+Alaja	Asa	Kwara	8.256	4.518	2	
+Oke-Alufa	Ilorin West	Kwara	8.469	4.530	2	Oke Alufa|OkeAlufa
+Aleniboro	Ilorin South	Kwara	8.488	4.603	2	
+Ita-Alagbon	Ilorin East	Kwara	8.447	4.588	2	
+Alaha	Asa	Kwara	8.373	4.508	2	
+Alleri	Nasarawa	Nasarawa	8.528	7.631	2	
+Alita	Municipal Area Council	FCT Abuja	8.990	7.407	2	
+Alagani	Nasarawa Egon	Nasarawa	8.672	8.494	2	
+Alaru	Nasarawa Egon	Nasarawa	8.656	8.426	2	
+Also	Sardauna	Taraba	6.950	11.357	2	
+Alhaji Jibo	Sardauna	Taraba	6.574	11.246	2	
+Alhaji Mamagado	Sardauna	Taraba	6.861	11.190	2	
+Alapata	Akinyele	Oyo	7.577	4.005	2	
+Alagbon	Egbedore	Osun	7.687	4.360	2	
+Alagba	Aiyedire	Osun	7.533	4.205	2	
+Aladire	Ede South	Osun	7.621	4.431	2	
+Alaruwa	Lagelu	Oyo	7.569	4.049	2	
+Alapinni	Afijio	Oyo	7.709	4.010	2	
+Alada	Akinyele	Oyo	7.610	4.010	2	
+Alawe	Iwo	Osun	7.678	4.103	2	
+Alakanle	Aiyedade	Osun	7.556	4.361	2	
+Alapa	Aiyedade	Osun	7.580	4.329	2	
+Alagbede	Aiyedade	Osun	7.513	4.373	2	
+Alawuje	Ola Oluwa	Osun	7.661	4.262	2	
+Aladun	Ede South	Osun	7.665	4.379	2	
+Alli Fagbura	Lagelu	Oyo	7.558	4.048	2	AlliFagbura
+Alapa	Ede South	Osun	7.628	4.425	2	
+Alafomi	Ede North	Osun	7.714	4.487	2	
+Alabata	Aiyedire	Osun	7.532	4.251	2	
+Alara	Aiyedire	Osun	7.546	4.235	2	
+Alapa	Aiyedade	Osun	7.559	4.323	2	
+Alaran	Akinyele	Oyo	7.581	4.015	2	
+Alawe	Akinyele	Oyo	7.661	4.070	2	
+Alufa	Lagelu	Oyo	7.505	4.082	2	
+Are-Alasa	Iwo	Osun	7.699	4.164	2	
+Alagbede	Aiyedade	Osun	7.517	4.345	2	
+Alaja	Lagelu	Oyo	7.523	4.051	2	
+Alagbede	Aiyedade	Osun	7.583	4.323	2	
+Alakija	Aiyedire	Osun	7.542	4.220	2	
+Alhaji	Iwo	Osun	7.634	4.105	2	
+Akere-Ale	Akinyele	Oyo	7.614	4.028	2	
+Alaja-Lake	Akinyele	Oyo	7.642	4.021	2	
+Alase	Aiyedade	Osun	7.572	4.341	2	
+Alatage	Iwo	Osun	7.707	4.146	2	
+Alebiosu	Ola Oluwa	Osun	7.746	4.281	2	
+Alagbana	Aiyedade	Osun	7.532	4.300	2	
+Alamo	Aiyedire	Osun	7.508	4.214	2	
+Alagba	Afijio	Oyo	7.724	4.040	2	
+Alagbon	Afijio	Oyo	7.738	4.026	2	
+Alli	Aiyedire	Osun	7.517	4.199	2	
+Alagbede	Iwo	Osun	7.669	4.146	2	
+Alibaruhu	Izzi	Ebonyi	6.540	8.175	2	
+Aligba	Gboko	Benue	7.426	8.996	2	
+Alim	Mayo-Belwa	Adamawa	8.852	12.026	2	
+Alagba	Ona Ara	Oyo	7.322	4.005	2	
+Alagba	Ona Ara	Oyo	7.292	4.060	2	
+Alakasu	Ori Ire	Oyo	8.115	4.049	2	
+Alata	Ori Ire	Oyo	8.355	4.288	2	
+Alagbede	Asa	Kwara	8.335	4.388	2	
+Alaja	Asa	Kwara	8.395	4.391	2	
+Alagbede	Asa	Kwara	8.246	4.492	2	
+Alapa	Surulere	Oyo	8.041	4.291	2	
+Aloba	Olorunsogo	Oyo	8.625	4.103	2	
+Alagutan	Olorunsogo	Oyo	8.622	4.083	2	
+Alaya	Moro	Kwara	8.574	4.487	2	
+Alusekere	Asa	Kwara	8.580	4.380	2	
+Alagbede	Asa	Kwara	8.591	4.346	2	
+Alapata	Oyun	Kwara	8.092	4.729	2	
+Alagbede	Atiba	Oyo	7.993	4.050	2	
+Alagbede	Egbedore	Osun	7.897	4.400	2	
+Ali	Ganye	Adamawa	8.264	12.092	2	
+Alaya	Aiyedire	Osun	7.538	4.248	2	
+Alagbede	Afijio	Oyo	7.730	4.003	2	
+Alaya	Aiyedire	Osun	7.548	4.237	2	
+Alagbede	Ede South	Osun	7.631	4.488	2	
+Alaya	Aiyedire	Osun	7.582	4.227	2	
 Ajayi Crowther Road	Municipal Area Council	FCT Abuja	9.052	7.527	1	Alhaji Crowther Street
 Oba Aladejobi Street	Ikeja	Lagos	6.586	3.349	1	
 Alfred Rewane Road	Eti Osa	Lagos	6.448	3.429	1	
 Alfred Rewane	Eti Osa	Lagos	6.442	3.426	1	
 Alabe Street	Oshodi/Isolo	Lagos	6.534	3.329	1	
-Alfred Rewane Road	Eti Osa	Lagos	6.458	3.432	1	
 Alhaji Owolewa Street	Agege	Lagos	6.630	3.312	1	
 Adeyemo Alakija Street	Eti Osa	Lagos	6.435	3.425	1	
 Alhaji Kanike Street	Eti Osa	Lagos	6.441	3.417	1	
@@ -682,7 +1734,6 @@ Alh Adeyemi Street	Shomolu	Lagos	6.541	3.371	1
 Alakia Road	Ona Ara	Oyo	7.377	3.961	1	
 Alao Akala Way	Lagelu	Oyo	7.439	3.966	1	
 Otunba Frank Alamu Street	Ibadan North	Oyo	7.434	3.931	1	
-Alafara Olubadan Road	Ibadan North East	Oyo	7.382	3.906	1	
 Alfara Basorun Road	Ibadan North East	Oyo	7.386	3.908	1	
 Alaafia Avenue	Lagelu	Oyo	7.430	3.938	1	
 Alawode Street	Ibadan North	Oyo	7.450	3.918	1	
@@ -737,7 +1788,6 @@ Allen Lane	Ikeja	Lagos	6.600	3.354	1
 Alayode Close	Ikeja	Lagos	6.598	3.358	1	
 Alfred Olaiya Street	Ikeja	Lagos	6.588	3.366	1	
 Alade Avenue	Ikeja	Lagos	6.603	3.348	1	
-Alade Avenue	Ikeja	Lagos	6.605	3.347	1	
 Adeyemo Alakija Street	Ikeja	Lagos	6.579	3.353	1	
 Ademola Alabi Street	Ikeja	Lagos	6.585	3.372	1	
 Jimoh Alaka Street	Oshodi/Isolo	Lagos	6.512	3.312	1	
@@ -766,9 +1816,7 @@ Alade Odunewu Street	Eti Osa	Lagos	6.464	3.441	1
 Chief Albert Iyorah Street	Eti Osa	Lagos	6.453	3.476	1	
 Alh. Dr. Akami Azeez Street	Eti Osa	Lagos	6.428	3.495	1	
 Ali Akilu Road	Kaduna North	Kaduna	10.588	7.448	1	
-Ali Akilu Road	Kaduna North	Kaduna	10.584	7.446	1	
 Ali Akilu Road	Kaduna North	Kaduna	10.552	7.445	1	
-Ali Akilu Road	Kaduna North	Kaduna	10.551	7.445	1	
 Alhaji Kadiri Salami Street	Ajeromi/Ifelodun	Lagos	6.444	3.322	1	
 Alaba Lane	Ajeromi/Ifelodun	Lagos	6.456	3.353	1	
 Suru Alaba Road	Ajeromi/Ifelodun	Lagos	6.462	3.324	1	
@@ -777,7 +1825,6 @@ Alpha Clinic Street	Municipal Area Council	FCT Abuja	9.134	7.386	1
 Katsina Ala Street	Municipal Area Council	FCT Abuja	9.094	7.493	1	
 Lake Alau Close	Municipal Area Council	FCT Abuja	9.091	7.502	1	
 Alvan Ikoku Way	Municipal Area Council	FCT Abuja	9.099	7.481	1	
-Alvan Ikoku Way	Municipal Area Council	FCT Abuja	9.093	7.479	1	
 Alvan Ikoku Way	Municipal Area Council	FCT Abuja	9.106	7.484	1	
 Algeria Street	Municipal Area Council	FCT Abuja	9.063	7.472	1	
 Ibrahim Alli Close	Municipal Area Council	FCT Abuja	9.002	7.477	1	
@@ -806,9 +1853,7 @@ Alhaji Kayode Close	Surulere	Lagos	6.489	3.345	1
 Alhaji Salami Street	Surulere	Lagos	6.487	3.340	1	
 Ali Baba Crescent	Municipal Area Council	FCT Abuja	9.070	7.430	1	
 Alu Avenue	Nassarawa	Kano	11.994	8.550	1	
-Alu Avenue	Nassarawa	Kano	11.994	8.556	1	
 Alex Ekwueme Way	Municipal Area Council	FCT Abuja	9.069	7.413	1	
-Alhaji Masha Road	Surulere	Lagos	6.500	3.355	1	
 Alhaji Wasiu Ogunlana Road	Amuwo Odofin	Lagos	6.477	3.312	1	
 Alakoso Avenue	Amuwo Odofin	Lagos	6.484	3.318	1	
 Alexander Avenue	Eti Osa	Lagos	6.447	3.450	1	
@@ -830,7 +1875,6 @@ Alabi Ayiemojuba Street	Alimosho	Lagos	6.580	3.247	1
 Alafia Street	Alimosho	Lagos	6.638	3.296	1	
 Alirat Badejo Street	Alimosho	Lagos	6.636	3.297	1	
 Alh Olaiya Street	Agege	Lagos	6.625	3.312	1	
-Alafia Street	Agege	Lagos	6.621	3.303	1	
 Alhaji Yusuf Street	Alimosho	Lagos	6.651	3.294	1	
 Alexander Street	Agege	Lagos	6.645	3.310	1	
 Alowonle Street	Agege	Lagos	6.619	3.315	1	
@@ -892,10 +1936,6 @@ Kao Alabi Crescent	Ìkòròdú	Lagos	6.618	3.481	1
 Aliyu Adamu Wakili Street	Ungongo	Kano	11.977	8.450	1	
 Dr. Aliyu Jibia Street	Ungongo	Kano	11.972	8.441	1	
 Liman Sharif Ali Street	Ungongo	Kano	11.973	8.442	1	
-Albasu Cottage Primary Health Centre	Albasu	Kano	11.668	9.128	0	
-Alfindi Health Post	Sumaila	Kano	11.524	8.999	0	
-Alajawa Health Post	Bagwai	Kano	12.102	7.994	0	
-Alajawa Health Post	Shanono	Kano	12.115	7.966	0	
 Alaiyelunwa Ologunkutere Street	Eti Osa	Lagos	6.433	3.464	1	
 Alhaji Kuburat Lawal	Eti Osa	Lagos	6.439	3.477	1	
 point one kwanan Alheri, Gona Div	Gombe	Gombe	10.278	11.189	1	
@@ -906,10 +1946,6 @@ Pacific Alley	Eti Osa	Lagos	6.429	3.551	1
 Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.344	8.364	1	
 Alh. N.A. Adebayo Street	Eti Osa	Lagos	6.487	3.591	1	
 Allan Balogun Street	Eti Osa	Lagos	6.443	3.514	1	
-Alganari Health Facility	Zaki	Bauchi	12.437	10.356	0	
-Alganari Dispensary	Zaki	Bauchi	12.389	10.387	0	Mainako Rimindi
-Tashan Mai Allo Dispensary	Toro	Bauchi	10.102	9.224	0	
-Dan Albarka C and M	Toro	Bauchi	10.060	9.099	0	
 Alilonu Walter Street	Oshodi/Isolo	Lagos	6.518	3.296	1	
 Alhaji Yekini Olawale Bakare Avenue	Eti Osa	Lagos	6.453	3.520	1	
 Aladin Close	Eti Osa	Lagos	6.457	3.527	1	
@@ -919,7 +1955,6 @@ Alhaji Folami Street	Eti Osa	Lagos	6.456	3.568	1
 Alli St	Esan West	Edo	6.746	6.136	1	
 Alpha Mead Crescent	Eti Osa	Lagos	6.468	3.616	1	
 Alaafin Crescent	Eti Osa	Lagos	6.466	3.575	1	
-Alaafin Crescent	Eti Osa	Lagos	6.466	3.576	1	
 Alake Avenue	Eti Osa	Lagos	6.464	3.575	1	
 Alvan Ikoku	Lagos Mainland	Lagos	6.512	3.398	1	
 Owode - Alusekere Road	Ede South	Osun	7.668	4.560	1	
@@ -935,7 +1970,6 @@ Tijani Alausa Street	Ibeju Lekki	Lagos	6.481	3.732	1
 Komauah Alayande Close	Eti Osa	Lagos	6.477	3.659	1	
 Alexandria Road	Eti Osa	Lagos	6.468	3.647	1	
 Akobi Aluko Street	Ibeju Lekki	Lagos	6.479	3.778	1	
-Alabe Street	Oshodi/Isolo	Lagos	6.536	3.330	1	
 Alade Street	Shomolu	Lagos	6.531	3.374	1	
 Alao Street	Oshodi/Isolo	Lagos	6.546	3.334	1	
 Alafia Street	Alimosho	Lagos	6.567	3.304	1	
@@ -949,7 +1983,6 @@ Alamieyesiegha Road	Yenegoa	Bayelsa	4.948	6.345	1
 Alamieyesiegha Road	Yenegoa	Bayelsa	4.946	6.346	1	
 Alpine Drive	Eti Osa	Lagos	6.464	3.510	1	
 Almond Drive	Eti Osa	Lagos	6.456	3.512	1	
-Altantic Hall Boarding School	Epe	Lagos	6.613	3.965	0	
 Modupe Alakija Crescent	Eti Osa	Lagos	6.463	3.434	1	
 Alafia Close	Ekiti West	Ekiti	7.700	5.043	1	
 Alapata Street	Akinyele	Oyo	7.483	3.910	1	
@@ -1005,7 +2038,6 @@ Aletu Street	Alimosho	Lagos	6.552	3.220	1
 Alhaji Ashafa St	Kosofe	Lagos	6.626	3.366	1	
 Alh. S. Olowoeyo Close	Eti Osa	Lagos	6.466	3.633	1	
 Ayodele Alaba Street	Ifo	Ogun	6.683	3.361	1	
-Ayodele Alaba Street	Ifo	Ogun	6.685	3.362	1	
 Alhaji Lawal Street	Alimosho	Lagos	6.675	3.262	1	
 Ajayi Alder Street	Alimosho	Lagos	6.671	3.264	1	
 Alhaji Bishi Street	Alimosho	Lagos	6.673	3.260	1	
@@ -1024,9 +2056,7 @@ Alafia Street	Ifo	Ogun	6.706	3.303	1
 Alice Ijigade Street	Ado Odo/Ota	Ogun	6.744	3.253	1	
 Oba Mobolake Alebiosu Street	Ejigbo	Osun	7.900	4.317	1	
 Alaafia Tayọ Estate	Ede North	Osun	7.725	4.502	1	
-Alima Clinic	Jere	Borno	11.866	13.245	0	
 Alegbe Close	Kosofe	Lagos	6.569	3.371	1	
-Alexander Avenue	Eti Osa	Lagos	6.460	3.436	1	
 Alagamo	Ngelzarma	Yobe	11.819	11.810	1	
 Alimi Road	Kaduna North	Kaduna	10.535	7.435	1	
 Umaru Alhaji Road	Kaduna North	Kaduna	10.577	7.426	1	
@@ -1060,7 +2090,6 @@ Alh. Aliyu Ladan Road	Kaduna North	Kaduna	10.576	7.462	1
 Alara Street	Ede North	Osun	7.767	4.534	1	
 Alexander Street	Ughelli North	Delta	5.482	5.999	1	
 Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.339	8.340	1	
-Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.340	8.346	1	
 Alhaji Dasofunjo Close	Ede North	Osun	7.720	4.443	1	
 Alake Road	Ijero	Ekiti	7.834	5.038	1	
 Folakode Alaseje Crescent	Ekiti West	Ekiti	7.705	5.053	1	
@@ -1093,7 +2122,6 @@ alumni road	Nsukka	Enugu	6.865	7.409	1
 Al Munir Street	Lafia	Nasarawa	8.503	8.533	1	
 Almond Alley	Eti Osa	Lagos	6.429	3.555	1	
 Alhaji Wasiu Ogunlana Road	Amuwo Odofin	Lagos	6.477	3.317	1	
-Alakoso Avenue	Amuwo Odofin	Lagos	6.472	3.317	1	
 Alhaji Jimoh Street	Ìkòròdú	Lagos	6.550	3.542	1	
 Alh Badmus Street	Egbeda	Oyo	7.449	4.031	1	
 Alh Dauda Street	Suleja	Niger	9.196	7.189	1	
@@ -1106,7 +2134,6 @@ Alapata Street	Akinyele	Oyo	7.486	3.914	1
 Alowonle Street	Agege	Lagos	6.617	3.316	1	
 Saint Aleyi Street	Municipal Area Council	FCT Abuja	8.992	7.588	1	
 Ali Baba Street	Lokoja	Kogi	7.796	6.723	1	
-Alao Akala Way	Lagelu	Oyo	7.443	3.952	1	
 Alao Akala Way	Lagelu	Oyo	7.433	3.983	1	
 Alh. Alowonle Makere Street	Ìkòròdú	Lagos	6.586	3.609	1	
 Adedoyin Alaran Close	Ìjẹ̀bú Òde	Ogun	6.820	3.943	1	
@@ -1123,20 +2150,15 @@ Al Amin Daggash Street	Municipal Area Council	FCT Abuja	9.049	7.553	1
 Alafin Close	Eti Osa	Lagos	6.507	3.597	1	
 Alhaji Ronke Aiku Street	Eti Osa	Lagos	6.502	3.586	1	
 Aliyu Sabi Street	Municipal Area Council	FCT Abuja	9.141	7.505	1	
-Alvan Ikoku Avenue	Enugu North	Enugu	6.441	7.510	1	
 SA Alao Street	Municipal Area Council	FCT Abuja	9.047	7.554	1	
 Alhaji Alabi Olobi Street	Ilorin East	Kwara	8.474	4.621	1	
 Alakuko Road	Ifo	Ogun	6.684	3.295	1	
-Alakuko Road	Ifo	Ogun	6.683	3.299	1	
 Layin Alaramma Mal Haruna	Kumbotso	Kano	11.954	8.475	1	
 Alhaji Lasisi Street	Mushin	Lagos	6.524	3.362	1	
 Lekki Toll - Alternative Route	Eti Osa	Lagos	6.448	3.546	1	
-Lekki Toll - Alternative Route	Eti Osa	Lagos	6.452	3.541	1	
 Alexander Street	Agege	Lagos	6.643	3.310	1	
 Albayyanu Street	Tarauni	Kano	11.976	8.559	1	
 Saka Alao Close	Lagos Mainland	Lagos	6.470	3.365	1	
-Alagbaka Road	Akure North	Ondo	7.251	5.215	1	
-Al-Hikmah University, Ilorin	Ilorin West	Kwara	8.480	4.504	0	
 Alhaji Masha Street	Eti Osa	Lagos	6.441	3.414	1	
 Alhaji Muibi Daramola Road	Eti Osa	Lagos	6.437	3.501	1	
 Ikot Ekpuk Odot Alwa Ibom	Nsit Atai	Akwa Ibom	4.824	8.042	1	
@@ -1145,19 +2167,215 @@ Alh Ariyo Street	Kosofe	Lagos	6.540	3.400	1
 Alh. Jamiu Kebe Str	Alimosho	Lagos	6.533	3.269	1	
 Allen Close	Uvwie	Delta	5.535	5.761	1	
 Alice Emefiele Street	Municipal Area Council	FCT Abuja	9.038	7.534	1	
-Umuawa-Alaocha Central School	Umuahia North	Abia	5.559	7.468	0	
-Alimosho General Hospital Igando	Alimosho	Lagos	6.560	3.253	0	
 Eleme/Alese Community Road	Tai	Rivers	4.717	7.250	1	
 Air Marshal Issac Alpa Road	Municipal Area Council	FCT Abuja	8.975	7.263	1	
 Alhaji Yekini Olawale Bakare Street	Eti Osa	Lagos	6.440	3.546	1	
 Bello Alaka Street	Ojo	Lagos	6.488	3.194	1	
-Boundary Market	Ajeromi/Ifelodun	Lagos	6.455	3.353	0	Alayabiagba Market
-Total - Alapere 1	Kosofe	Lagos	6.595	3.401	0	
-Alilonu Walter Street	Oshodi/Isolo	Lagos	6.512	3.297	1	
-Alaka	Ìkòròdú	Lagos	6.628	3.510	0	
 Adamu Aliero Road	Birnin Kebbi	Kebbi	12.460	4.206	1	
 Alhaji Adebesin Street	Kosofe	Lagos	6.560	3.392	1	
 Alex Akande Street	Ikpoba-Okha	Edo	6.268	5.650	1	
+Alafia Street	Mushin	Lagos	6.512	3.338	1	
+P Alabosun Street	Municipal Area Council	FCT Abuja	9.041	7.550	1	
+Elele - Elele Alimini Road	Emuoha	Rivers	5.056	6.731	1	
+Elele - Elele Alimini Road	Emuoha	Rivers	5.058	6.737	1	
+Link 13 Alh. Bello Malami Street	Gwale	Kano	11.973	8.473	1	
+Raji Kehinde Alfa-Oja Street	Asa	Kwara	8.479	4.482	1	
+I Alfa Close	Municipal Area Council	FCT Abuja	9.046	7.546	1	
+Alhaji Oseni Olanrewaju Mosque	Ilorin East	Kwara	8.486	4.565	1	
+Alayaki Street	Ifo	Ogun	6.765	3.218	1	
+IM Alfa Close	Municipal Area Council	FCT Abuja	9.042	7.545	1	
+Arin Alade Sawyer Close	Alimosho	Lagos	6.583	3.240	1	
+Alhaji Bello Jiwa Street	Municipal Area Council	FCT Abuja	9.085	7.311	1	
+Amoke Alashela Street	Alimosho	Lagos	6.620	3.283	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.981	3.620	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.019	3.702	1	
+Alabata - Eboyomi Road	Akinyele	Oyo	7.599	3.844	1	
+Alabata - Eboyomi Road	Akinyele	Oyo	7.594	3.818	1	
+Alabata - Eboyomi Road	Akinyele	Oyo	7.562	3.812	1	
+Alapajo Street	Odigbo	Ondo	6.755	4.887	1	
+Aliyu Makama Road	Kaduna South	Kaduna	10.491	7.425	1	
+Alaafia Street	Ilesha West	Osun	7.625	4.721	1	
+Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.497	4.516	1	
+Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.510	4.519	1	
+Alhaji Bishi Street	Oshodi/Isolo	Lagos	6.487	3.294	1	
+Aladelola Street	Kosofe	Lagos	6.611	3.375	1	
+Alhaji Idowu Street	Alimosho	Lagos	6.605	3.304	1	
+Shaki - Alagbafi Road	Saki West	Oyo	8.669	3.396	1	
+Ali Haruna Street	Tarauni	Kano	11.938	8.546	1	
+Aliyu Tiggi Street	Tafa	Niger	9.217	7.211	1	
+Alhaji Sule Maito Street	Ìkòròdú	Lagos	6.621	3.500	1	
+Alkalawa Road	Kaduna South	Kaduna	10.511	7.419	1	
+Ken Alli Close	Eti Osa	Lagos	6.473	3.571	1	
+Alexander Ezuzu Street	Eti Osa	Lagos	6.457	3.614	1	
+Alh. Tijani Azeez Street	Oriade	Osun	7.567	4.887	1	
+Alabs Ene Avenue	Port-Harcourt	Rivers	4.789	7.059	1	
+Alhaji Oloko Oba Street	Eti Osa	Lagos	6.470	3.661	1	
+Prof. Martin E. Allison Road	Yenegoa	Bayelsa	4.875	6.216	1	
+Alhaji Alarape Street	Mushin	Lagos	6.526	3.367	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.997	3.650	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.039	3.767	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.028	3.732	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.031	3.742	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.049	3.799	1	
+Adebayo Alao-Akala Memorial Highway	Atiba	Oyo	8.075	3.847	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.188	4.090	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.154	4.012	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.171	4.045	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.180	4.117	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.172	4.132	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.151	4.160	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.144	4.185	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.974	3.604	1	
+All Saints Avenue	Eti Osa	Lagos	6.460	3.616	1	
+Alhaji Jimoh Kareem Close	Eti Osa	Lagos	6.471	3.619	1	
+Almohap NIG LTD	Jos North	Plateau	9.960	8.889	0	
+Christ for All Ministry	Egor	Edo	6.367	5.586	0	
+Alfa Medical Center	Enugu North	Enugu	6.464	7.496	0	
+All Saints Ekulu Nursery & Primary School	Enugu North	Enugu	6.454	7.485	0	
+Aleshinloye Market	Ibadan South West	Oyo	7.389	3.870	0	
+Alhazawa Health Post	Kiru	Kano	11.709	8.167	0	
+Alafara Aderogba Health Centre	Ibadan North East	Oyo	7.383	3.905	0	
+Alau Health Clinic	Jere	Borno	11.731	13.235	0	
+Alhajiri Primary Health Clinic	Konduga	Borno	11.475	12.881	0	
+Allaby Resources Ltd	Ejigbo	Osun	7.884	4.320	0	
+Alpha Et Omega	Ipokia	Ogun	6.637	2.736	0	
+alafia loola	Ipokia	Ogun	6.673	2.753	0	
+Alden Schools	Uvwie	Delta	5.540	5.780	0	
+Almina Montessori School	Yenegoa	Bayelsa	4.953	6.349	0	
+Altest International School	Okpe	Delta	5.593	5.709	0	
+Alphameric Schools	Warri South	Delta	5.530	5.752	0	
+All Nations for Christ Bible Institute	Obio/Akpor	Rivers	4.828	7.047	0	
+Aleru University	Aleiro	Kebbi	12.307	4.489	0	
+FederalUniversity Ndufu Alike Ikwo	Ikwo	Ebonyi	6.132	8.144	0	
+FederalUniversity Ndufu Alike Ikwo	Ikwo	Ebonyi	6.134	8.147	0	
+Al-muhibbah Islamic academy	Igabi	Kaduna	10.591	7.474	0	
+Alade Atosin Market	Idanre	Ondo	7.145	5.099	0	
+Alade Idanre Market	Idanre	Ondo	7.141	5.095	0	
+Alapata New Market	Akoko North East	Ondo	7.524	5.763	0	
+Alao Village Market	Ọ̀wọ̀	Ondo	7.152	5.697	0	
+Alshabab gas station	Kaduna North	Kaduna	10.541	7.433	0	
+Al Oil	Egbeda	Oyo	7.450	4.033	0	
+Al Gas	Egbeda	Oyo	7.450	4.033	0	
+Alade Global Filling Station	Ogbomosho North	Oyo	8.123	4.225	0	
+Alade Global	Ogbomosho North	Oyo	8.154	4.254	0	
+Al-Moruf Oil	Alimosho	Lagos	6.577	3.272	0	
+Rufai Ahmad Alkali	Gombe	Gombe	10.306	11.172	0	
+Alhaji Ibrahim G Abdulkarim filling station	Yamaltu/Deba	Gombe	10.277	11.257	0	
+Muna Da`Alti 2B Refugee Site	Jere	Borno	11.867	13.251	0	
+Ali Jodi PHC	Sokoto South	Sokoto	13.061	5.229	0	
+Ali Jodi PHC	Sokoto South	Sokoto	13.047	5.257	0	
+Alor Town Hall	Idemili South	Anambra	6.080	6.965	0	
+gang alada clinic	Jada	Adamawa	8.703	12.039	0	
+St. Alloysius Catholic. Pry School, Iloti.	Ifo	Ogun	6.702	3.342	0	
+All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.689	3.229	0	
+All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.676	3.223	0	
+All Saints Primary School, Araromi Ota	Ifo	Ogun	6.812	3.197	0	
+Ansar Ud Deen Primary School Ii, Alaagba	Ifo	Ogun	6.755	3.185	0	
+Ansar Ud Deen Primary School I, Alaagba	Ado Odo/Ota	Ogun	6.724	3.163	0	
+United Anglican Primary School, Alapako-Sogunje	Ado Odo/Ota	Ogun	6.623	3.143	0	
+St. Paul Primary School, Alagbo Ofin	Ado Odo/Ota	Ogun	6.604	3.067	0	
+United Anglican Primary School, Alapako-Sogunje	Ifo	Ogun	6.795	3.122	0	
+St. Alloysius Catholic. Pry School, Iloti.	Ìjẹ̀bú Òde	Ogun	6.726	3.999	0	
+All Saints Primary School, Araromi Ota	Ado Odo/Ota	Ogun	6.712	3.076	0	
+Local Government Primary School, Ilewo Alaga	Ado Odo/Ota	Ogun	6.685	3.085	0	
+Ansar Ud Deen Primary School I, Alaagba	Ado Odo/Ota	Ogun	6.614	3.225	0	
+Ansar Ud Deen Primary School Ii, Alaagba	Ado Odo/Ota	Ogun	6.613	3.228	0	
+All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.939	0	
+All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.530	3.136	0	
+St. Paul Primary School, Alagbo Ofin	Shagamu	Ogun	6.846	3.648	0	
+Alafia Hospital, Mokola, Ibadan	Ibadan North West	Oyo	7.399	3.888	0	
+Al-Lateef Medical Hospital, Akingbile Junction	Akinyele	Oyo	7.513	3.913	0	
+Tioluwani Private hospital, Idiose, along diplomate school	Akinyele	Oyo	7.505	3.921	0	
+Al-Ameen Hospital, Awotan, Apete	Ido	Oyo	7.449	3.862	0	
+Baba David Clinic (Faithbased Clinic) Oke Alasepe Abaeja	Akinyele	Oyo	7.476	3.917	0	
+Ikeja Along	Ikeja	Lagos	6.599	3.334	0	
+Aladja Town Hall	Udu	Delta	5.489	5.756	0	
+Albishir Clinic	Jos North	Plateau	9.965	8.849	0	
+Albarka Clinic	Jos North	Plateau	9.972	8.841	0	
+Faith Alive foundation hospital annex	Jos North	Plateau	9.928	8.881	0	
+Al-Zunnur Clinic and Maternity	Bassa	Plateau	9.993	8.852	0	
+Alheri Health clinic & Maternity	Jos North	Plateau	9.933	8.922	0	
+Al Afrah Health Care Centre	Jos North	Plateau	9.915	8.902	0	
+Gordita clinic and maternity Alheri	Jos North	Plateau	9.937	8.872	0	
+Alhaji umaru ngelzarma	Jos North	Plateau	9.972	8.895	0	
+Al Yusra petroleum nig ltd	Jos North	Plateau	9.977	8.896	0	
+Al Fauzan clinic	Jos North	Plateau	9.950	8.876	0	
+Albakans pre science school	Jos North	Plateau	9.898	8.865	0	
+Primary Health Care Center Dutse Alhaji	Municipal Area Council	FCT Abuja	9.142	7.373	0	
+L. E. A primary school Dutse Alhaji	Municipal Area Council	FCT Abuja	9.141	7.372	0	
+Oloye Olajumoke Akinjide Shopping Arcade Dutse Alhaji	Municipal Area Council	FCT Abuja	9.139	7.369	0	
+Alders Town Primary School Warri	Warri South	Delta	5.511	5.754	0	
+Alfurqan Clinic and Maternity	Bauchi	Bauchi	10.291	9.801	0	
+Alfurqan International Academy	Bauchi	Bauchi	10.291	9.799	0	
+All Saints' College Gombe	Gombe	Gombe	10.300	11.146	0	
+madarasatul Alaramma malan gambo littah fizzul Quran	Gombe	Gombe	10.289	11.159	0	
+Alheri Hospital And Maternity	Kaduna South	Kaduna	10.476	7.410	0	
+Al Fijir Clinics	Kaduna South	Kaduna	10.502	7.387	0	
+Al Ramadan Nursing And Maternity Home Nassarawa	Chikun	Kaduna	10.471	7.395	0	
+Al Mansur Specialist Hospital	Kaduna North	Kaduna	10.551	7.460	0	
+Farin Gida Alpha Specialist Hospital	Kaduna North	Kaduna	10.582	7.418	0	
+Alexander Memorial Hospital Olugbemi Agric	Ojo	Lagos	6.458	3.220	0	
+Heaven Hospital Alagbado	Alimosho	Lagos	6.679	3.261	0	
+Alaso Amikanle Primary Health Care Center	Alimosho	Lagos	6.650	3.245	0	
+Alanni Traditional Hospital and Maternity Home	Alimosho	Lagos	6.592	3.237	0	
+Alimosho Health Centre	Alimosho	Lagos	6.600	3.300	0	
+St Alexander Hospital And Maternity Home	Alimosho	Lagos	6.615	3.296	0	
+Alegongo Secondary School	Lagelu	Oyo	7.439	3.951	0	
+Alimosho Local Goverment Egbe Idimu Lcda Health Center	Alimosho	Lagos	6.571	3.288	0	
+Alimosho General Hospital	Alimosho	Lagos	6.561	3.251	0	
+Alafiatayo Hospital	Mushin	Lagos	6.528	3.346	0	
+Alhameed Conval Hospital	Mushin	Lagos	6.526	3.355	0	
+Alves Primary Health Center	Mushin	Lagos	6.515	3.345	0	
+Always Center	Akure South	Ondo	7.286	5.150	0	
+Oja Ale	Iwo	Osun	7.635	4.180	0	
+Al ibadah children School	Alimosho	Lagos	6.522	3.237	0	
+Alpha comprehensive schools	Alimosho	Lagos	6.530	3.232	0	
+Mal. Audu Mai Almajirai	Ungongo	Kano	12.048	8.568	0	
+Madarasatul Ta'Alimul Qur'An	Ungongo	Kano	12.040	8.570	0	
+Malan Kabiru Almajiri School	Ungongo	Kano	12.043	8.565	0	
+Malan Usman Almajiri School	Ungongo	Kano	12.043	8.567	0	
+Alhaji Yusuf Garba Ali Islamic Foundation	Ungongo	Kano	12.036	8.565	0	
+Almuhajirun Wal Ansar Litahfizul Qur An Waddarasatuk Ilamiyya	Ungongo	Kano	12.054	8.577	0	
+Alhasan Memorial	Ungongo	Kano	12.040	8.565	0	
+Al-Hikima Islamic Institute	Ungongo	Kano	12.043	8.572	0	
+Shamsul Huda Al Islamiyya	Ungongo	Kano	12.042	8.573	0	
+Alqamar College Kano	Gwale	Kano	11.963	8.478	0	
+Makarantar Tasiu Mai Almajirai	Gwale	Kano	11.961	8.467	0	
+Al-Itkan Academy	Gwale	Kano	11.959	8.470	0	
+Alishba Academy	Gwale	Kano	11.954	8.471	0	
+Alkhairat Academy	Gwale	Kano	11.961	8.467	0	
+Al Jazeera International Academy	Gwale	Kano	11.960	8.474	0	
+Madina;Alkhair Cocking Gas And Engineering	Gwale	Kano	11.962	8.476	0	
+Nashrul Ulumi Al-Islamiyya Primary Sec.Dorayi Karama	Gwale	Kano	11.964	8.480	0	
+Alyusira Model Schools	Gwale	Kano	11.960	8.470	0	
+Al-Fauz Global College	Gwale	Kano	11.968	8.470	0	
+Al Azhar College Of Science And Humanities	Gwale	Kano	11.962	8.476	0	
+Allens Unit/Alex Apapa	Apapa	Lagos	6.435	3.370	0	
+Alluvia Marine/Afisco (Lekki 1)	Eti Osa	Lagos	6.448	3.459	0	
+Al-Bishir Clinic & Maternity	Bauchi	Bauchi	10.299	9.796	0	
+Gbagba Alagbado Behind Sobi Specialist Hospital, Illorin, Nigeria	Ilorin West	Kwara	8.527	4.525	0	
+Alagbado Primary School, Ilorin, Nigeria	Ilorin East	Kwara	8.535	4.538	0	
+Al Ihsan Clinics and Surgery	Tarauni	Kano	11.946	8.558	0	
+alelegbene	Apapa	Lagos	6.426	3.356	0	
+alluvia marine/afisco (lekki phase 1)	Eti Osa	Lagos	6.448	3.459	0	
+Almustapha Mosque	Municipal Area Council	FCT Abuja	9.114	7.254	0	
+Dutsen Alhaji	Municipal Area Council	FCT Abuja	9.131	7.365	0	
+Albasu Cottage Primary Health Centre	Albasu	Kano	11.668	9.128	0	
+Alfindi Health Post	Sumaila	Kano	11.524	8.999	0	
+Alajawa Health Post	Bagwai	Kano	12.102	7.994	0	
+Alajawa Health Post	Shanono	Kano	12.115	7.966	0	
+Alganari Health Facility	Zaki	Bauchi	12.437	10.356	0	
+Alganari Dispensary	Zaki	Bauchi	12.389	10.387	0	Mainako Rimindi
+Tashan Mai Allo Dispensary	Toro	Bauchi	10.102	9.224	0	
+Dan Albarka C and M	Toro	Bauchi	10.060	9.099	0	
+Altantic Hall Boarding School	Epe	Lagos	6.613	3.965	0	
+Alima Clinic	Jere	Borno	11.866	13.245	0	
+Al-Hikmah University, Ilorin	Ilorin West	Kwara	8.480	4.504	0	
+Umuawa-Alaocha Central School	Umuahia North	Abia	5.559	7.468	0	
+Alimosho General Hospital Igando	Alimosho	Lagos	6.560	3.253	0	
+Boundary Market	Ajeromi/Ifelodun	Lagos	6.455	3.353	0	Alayabiagba Market
+Total - Alapere 1	Kosofe	Lagos	6.595	3.401	0	
+Alaka	Ìkòròdú	Lagos	6.628	3.510	0	
 Aljumah Maternity and Nursing Home	Egor	Edo	6.371	5.634	0	
 Alpha Specialist Hospital	Enugu East	Enugu	6.479	7.494	0	
 Allah bamu Lafiya Hospital	Muhammadu Dikko Stadium	Katsina	12.993	7.608	0	
@@ -1168,7 +2386,6 @@ Alwadati Consultant Clinic	Bauchi	Bauchi	10.314	9.818	0
 Al-Fallah Hospital	Asa	Kwara	8.492	4.469	0	
 Aleiro General Hospital	Aleiro	Kebbi	12.294	4.468	0	
 Alegongo Primary Health Care Centre	Lagelu	Oyo	7.441	3.952	0	
-Alafia Street	Mushin	Lagos	6.512	3.338	1	
 Arawa Dispensary	Jama'Are	Bauchi	11.714	9.928	0	Fatiske Jauro Alabura North
 Alabukun Oil	Ìkòròdú	Lagos	6.625	3.527	0	
 Tatari Ali Maternity	Katagum	Bauchi	11.692	10.201	0	
@@ -1178,132 +2395,16 @@ wro alhaji healthy clinic	Maiha	Adamawa	9.920	13.238	0
 wuro alhaji	Maiha	Adamawa	9.925	13.237	0	
 Alagarno Maternal and Child Health Care	Fune	Yobe	11.923	11.639	0	
 Aliero General Hospital	Aleiro	Kebbi	12.295	4.469	0	
-ALSCON STAFF SCHOOL	Ikot Abasi	Akwa Ibom	4.582	7.596	0	
-P Alabosun Street	Municipal Area Council	FCT Abuja	9.041	7.550	1	
-Elele - Elele Alimini Road	Emuoha	Rivers	5.056	6.731	1	
-Elele - Elele Alimini Road	Emuoha	Rivers	5.058	6.737	1	
+Alscon Staff School	Ikot Abasi	Akwa Ibom	4.582	7.596	0	
 Elele Alimini General Hospital	Emuoha	Rivers	5.059	6.711	0	
-Link 13 Alh. Bello Malami Street	Gwale	Kano	11.973	8.473	1	
-Raji Kehinde Alfa-Oja Street	Asa	Kwara	8.479	4.482	1	
 Agboyi Nursery/ Primary School, Alakpere Ketu	Kosofe	Lagos	6.578	3.410	0	
-I Alfa Close	Municipal Area Council	FCT Abuja	9.046	7.546	1	
-Alhaji Oseni Olanrewaju Mosque	Ilorin East	Kwara	8.486	4.565	1	
-Alayaki Street	Ifo	Ogun	6.765	3.218	1	
-IM Alfa Close	Municipal Area Council	FCT Abuja	9.042	7.545	1	
-Arin Alade Sawyer Close	Alimosho	Lagos	6.583	3.240	1	
-Alhaji Bello Jiwa Street	Municipal Area Council	FCT Abuja	9.085	7.311	1	
-Chris Alli Crescent	Eti Osa	Lagos	6.462	3.427	1	
-UNIVERSAL PRIMARYY SCHOOL ALKAHIRA	Gombe	Gombe	10.313	11.169	0	
-NURAIN SCHOOL ALKAHIRA	Gombe	Gombe	10.319	11.161	0	
+Universal Primaryy School Alkahira	Gombe	Gombe	10.313	11.169	0	
+Nurain School Alkahira	Gombe	Gombe	10.319	11.161	0	
 Aliyu Usman El-Nafaty	Gombe	Gombe	10.308	11.175	0	
-Amoke Alashela Street	Alimosho	Lagos	6.620	3.283	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.981	3.620	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.019	3.702	1	
 All Saints' School	Municipal Area Council	FCT Abuja	9.060	7.470	0	
-Alabata - Eboyomi Road	Akinyele	Oyo	7.599	3.844	1	
-Alabata - Eboyomi Road	Akinyele	Oyo	7.594	3.818	1	
-Alabata - Eboyomi Road	Akinyele	Oyo	7.595	3.811	1	
-Alabata - Eboyomi Road	Akinyele	Oyo	7.577	3.810	1	
-Alabata - Eboyomi Road	Akinyele	Oyo	7.562	3.812	1	
-Alapajo Street	Odigbo	Ondo	6.755	4.887	1	
-Alaafia Street	Ilesha West	Osun	7.625	4.721	1	
-Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.497	4.516	1	
-Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.510	4.519	1	
-Alhaji Bishi Street	Oshodi/Isolo	Lagos	6.487	3.294	1	
-Aladelola Street	Kosofe	Lagos	6.611	3.375	1	
 Alliance Francaise - Mike Adenuga Center	Eti Osa	Lagos	6.460	3.433	0	
 Almannar Academy Kado	Municipal Area Council	FCT Abuja	9.083	7.413	0	
-Alhaji Idowu Street	Alimosho	Lagos	6.605	3.304	1	
-Shaki - Alagbafi Road	Saki West	Oyo	8.669	3.396	1	
-Aluu Drive	Obio/Akpor	Rivers	4.899	6.926	1	
-Alaro City	Epe	Lagos	6.562	3.977	3	
-Alice Emefiele Street	Municipal Area Council	FCT Abuja	9.038	7.536	1	
-Shaki - Alagbafi Road	Saki West	Oyo	8.678	3.396	1	
-Alakuko Road	Ifo	Ogun	6.684	3.306	1	
-Ali Haruna Street	Tarauni	Kano	11.938	8.546	1	
-Aliyu Tiggi Street	Tafa	Niger	9.217	7.211	1	
-Alhaji Sule Maito Street	Ìkòròdú	Lagos	6.621	3.500	1	
 PEGE, Dutsen Alhaji	Municipal Area Council	FCT Abuja	9.140	7.372	0	
 Al-Ansar University	Maiduguri	Borno	11.867	13.126	0	
 Al-Ansar Academy	Maiduguri	Borno	11.815	13.154	0	
-Alkalawa Road	Kaduna South	Kaduna	10.511	7.419	1	
-Ken Alli Close	Eti Osa	Lagos	6.473	3.571	1	
-Alexander Ezuzu Street	Eti Osa	Lagos	6.457	3.614	1	
-Alh. Tijani Azeez Street	Oriade	Osun	7.567	4.887	1	
-Alabs Ene Avenue	Port-Harcourt	Rivers	4.789	7.059	1	
-Alhaji Oloko Oba Street	Eti Osa	Lagos	6.470	3.661	1	
-Prof. Martin E. Allison Road	Yenegoa	Bayelsa	4.875	6.216	1	
 Alaglanu Primary Health Center	Ohimini	Benue	7.235	8.023	0	
-Alhaji Alarape Street	Mushin	Lagos	6.526	3.367	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.993	3.642	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.997	3.650	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.002	3.666	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.039	3.767	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.028	3.732	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.031	3.742	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.034	3.752	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.036	3.757	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.049	3.799	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.043	3.780	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.045	3.786	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.045	3.788	1	
-Adebayo Alao-Akala Memorial Highway	Atiba	Oyo	8.075	3.847	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.188	4.090	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.154	4.012	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.158	4.014	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.161	4.020	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.165	4.030	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.171	4.045	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.174	4.053	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.182	4.073	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.180	4.117	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.183	4.108	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.006	3.679	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.014	3.686	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.172	4.132	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.168	4.141	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.151	4.160	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.146	4.181	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.144	4.185	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.141	4.188	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.974	3.604	1	
-All Saints Avenue	Eti Osa	Lagos	6.460	3.616	1	
-Alhaji Jimoh Kareem Close	Eti Osa	Lagos	6.471	3.619	1	
-Alagarno	Fune	Yobe	11.915	11.667	2	
-Alhaji Barka	Gumel	Jigawa	12.576	9.374	2	
-Albasu	Sule Tankakar	Jigawa	12.577	9.079	2	
-Hamma Ali Marabawa	Kware	Sokoto	13.195	5.313	2	
-Alkanmu	Wurno	Sokoto	13.134	5.366	2	
-Aliero Dangaladima II	Aleiro	Kebbi	12.245	4.455	2	
-Alelu	Jega	Kebbi	12.172	4.493	2	
-Aliero S Fada Ii	Aleiro	Kebbi	12.320	4.438	2	
-Faga Alasan	Tambuwal	Sokoto	12.328	4.597	2	
-Dada Alelu	Koko-Besse	Kebbi	11.528	4.443	2	
-Aleiro	Aleiro	Kebbi	12.320	4.453	2	
-Alwasa	Argungu	Kebbi	12.609	4.421	2	
-Aljannare	Suru	Kebbi	11.582	3.899	2	
-Aliero S Fada I	Aleiro	Kebbi	12.282	4.496	2	
-Aliero Dangaladima I	Aleiro	Kebbi	12.263	4.488	2	
-Dan Alhaji	Lere	Kaduna	10.545	8.750	2	
-Alajawa	Shanono	Kano	12.092	7.948	2	
-Unguwa Uku Kauyen Alu	Tarauni	Kano	11.956	8.574	2	
-Nata-Ala	Tudun Wada	Kano	11.280	8.545	2	
-Garin Ali	Garko	Kano	11.547	8.868	2	
-Albasu Central	Albasu	Kano	11.686	9.137	2	
-Gandu Albasa	Kano Municipal	Kano	11.974	8.526	2	
-Albasu	Albasu	Kano	11.646	9.040	2	
-Dan Alhaji Yangayya	Batsari	Katsina	12.859	7.336	2	
-Dan Ali	Dan Musa	Katsina	12.136	7.489	2	
-Na'Alma	Malumfashi	Katsina	11.983	7.622	2	
-Alimosho	Alimosho	Lagos	6.584	3.258	2	
-Katsina-Ala	Katsina-Ala	Benue	7.314	9.566	2	
-Ala	Marte	Borno	12.158	13.922	2	
-Alagarno	Kukawa	Borno	13.209	13.611	2	
-Alarge	Nganzai	Borno	12.543	13.318	2	
-Alagarno	Gamawa	Bauchi	12.182	10.689	2	
-Alkaleri West	Alkaleri	Bauchi	10.257	10.315	2	
-Alagarno	Gamawa	Bauchi	12.223	10.487	2	
-Alkaleri East	Alkaleri	Bauchi	10.211	10.442	2	
-Alangawari	Zaki	Bauchi	11.922	10.399	2	
-Alkaleri	Alkaleri	Bauchi	9.897	10.431	2	
-Alau	Jere	Borno	11.745	13.254	2	

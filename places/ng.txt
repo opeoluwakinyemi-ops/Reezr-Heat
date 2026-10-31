@@ -1,3 +1,16 @@
+Nguroje	Sardauna	Taraba	6.958	11.117	3	
+Ngelzarma	Fune	Yobe	11.685	11.621	3	Ngelzerma
+Umuneke Ngor	Ngor-Okpala	Imo	5.335	7.152	3	Umu Neke
+Burari	Bama	Borno	11.470	13.758	3	Bulanga;Ngurosoye;Nguro Seyo;Ngura-Seyo
+Nguru	Nguru	Yobe	12.876	10.454	3	N’gourou
+Ngadarma Bila Yahi	Chibok	Borno	10.722	12.884	3	Ngadarma Bulayahi
+Ngo	Andoni	Rivers	4.483	7.415	3	
+Nguzu Edda	Edda	Ebonyi	5.754	7.816	3	
+Ngodo	Umu-Nneochi	Abia	5.965	7.386	3	
+Ngwo	Udi	Enugu	6.431	7.428	3	
+Umuneke-Ngor	Ngor-Okpala	Imo	5.336	7.152	3	Nmu Neke|Umu-Neke|Umuneke
+Nguru	Nguru	Yobe	12.877	10.455	3	N'gourou
+Okpuala-Ngwa	Isiala-Ngwa South	Abia	5.357	7.388	3	
 Ngbalang	Numan	Adamawa	9.518	12.022	2	
 Bulabulin Ngaburawa	Konduga	Borno	11.390	12.909	2	Bulabulin
 Zirgi Ngelewa	Geidam	Yobe	12.563	12.404	2	
@@ -18,7 +31,6 @@ Ngugu	Ikeduru	Imo	5.586	7.101	2
 Ngelegede	Abakaliki	Ebonyi	6.219	8.214	2	Ngeleged
 Kunar Ngwa	Hawul	Borno	10.543	12.210	2	
 Ngaiwa	Ngala	Borno	12.081	14.063	2	
-Ngelzarma	Fune	Yobe	11.685	11.621	3	Ngelzerma
 Nkunaya	Akamkpa	Cross River	5.343	8.442	2	Ngon Aya
 Nkwelegwu	Uzo-Uwani	Enugu	6.785	7.181	2	Ngalakwu
 Ngoromari	Bama	Borno	11.443	13.616	2	
@@ -28,6 +40,7 @@ Ngarwa Yau	Abadam	Borno	13.509	13.159	2
 Ngabu	Hawul	Borno	10.338	12.009	2	
 Nguradina	Chibok	Borno	10.831	12.967	2	Nguradina II
 Ngelewa	Marte	Borno	12.526	13.772	2	
+Ngaruwa	Karim Lamido	Taraba	9.116	11.043	2	
 Ngilirma	Geidam	Yobe	12.438	11.961	2	
 Old Ngabarawa	Ngelzarma	Yobe	11.770	12.081	2	Ngabarawa
 Ngukulagbene	Southern Ijaw	Bayelsa	4.467	5.926	2	
@@ -38,7 +51,6 @@ Wuro Ngangandi	Michika	Adamawa	10.729	13.385	2
 Ngarannam	Damboa	Borno	11.220	13.085	2	
 Ngwalangugwalang	Hawul	Borno	10.389	12.226	2	Ngwalangwalam
 Ngorkoli	Chibok	Borno	10.768	12.796	2	Ngabarawa
-Umuneke Ngor	Ngor-Okpala	Imo	5.335	7.152	3	Umu Neke
 Ngaboru	Gada	Sokoto	13.851	5.582	2	
 Ngurucinguwa	Fune	Yobe	11.892	11.651	2	
 Ngarbia Fulani	Gujba	Yobe	11.434	11.763	2	Ngabia Fulani
@@ -48,20 +60,17 @@ Ngoba	Mubi South	Adamawa	10.241	13.346	2
 Wankom	Yala	Cross River	6.603	8.421	2	Wankom;Wanakom;Ngidi
 Ngohi	Askira-Uba	Borno	10.672	12.691	2	Ngohi Kofan Hakimi
 Doyari	Chibok	Borno	10.847	12.966	2	Nguradina I
-Burari	Bama	Borno	11.470	13.758	3	Bulanga;Ngurosoye;Nguro Seyo;Ngura-Seyo
 Ngala	Ngala	Borno	12.118	14.195	2	
 Ngarje	Maiyama	Kebbi	11.830	4.545	2	
-Nguru	Nguru	Yobe	12.876	10.454	3	N’gourou
 Ngalda	Fika	Yobe	11.105	11.376	2	
 Ngeltowa	Gulani	Yobe	11.048	11.724	2	
 Ngaburawa	Magumeri	Borno	12.046	12.832	2	Ngabarawa
 Ngurore Yebbi	Ganye	Adamawa	8.583	11.967	2	Yebbi
 Ngamale	Abadam	Borno	13.171	13.147	2	
 Jongo Ngrabawa	Gwoza	Borno	11.300	13.672	2	
-Ngadarma Bila Yahi	Chibok	Borno	10.722	12.884	3	Ngadarma Bulayahi
 Ngelewa	Geidam	Yobe	12.674	12.483	2	
+Golbembal	Gassol	Taraba	8.533	10.667	2	Ngol Bembal
 Ngala	Ngala	Borno	12.340	14.187	2	
-Ngo	Andoni	Rivers	4.483	7.415	3	
 Tungan Daudu Ngare	Bagudo	Kebbi	11.467	3.671	2	
 Tasha Ngwa	Hawul	Borno	10.531	12.207	2	
 Ngwadana	Hawul	Borno	10.345	12.200	2	Ngudana
@@ -78,11 +87,11 @@ Ngassam	Hawul	Borno	10.501	12.179	2	Ngasam
 Ngabu Dauda	Shani	Borno	10.154	12.028	2	Ngabu
 Ngilangshimtu	Hawul	Borno	10.331	12.162	2	Gilamshemu
 Ngudda	Mafa	Borno	11.970	13.280	2	
-Nguru	Nguru	Yobe	12.860	10.435	0	
 Ngibya	Maïné Soroa	Yobe	13.122	12.094	2	
 Ngudowa Bulama Matta Kellu	Mobbar	Borno	13.323	12.764	2	
 Nguma B	Biu	Borno	10.734	12.360	2	
 Ngaburo Ganna	Abadam	Borno	13.545	13.213	2	
+Ngadi	Takum	Taraba	6.902	9.814	2	Gadin
 Ngam West	Abadam	Borno	13.495	12.947	2	
 Ngowum	Mafa	Borno	11.883	13.344	2	Ngwom
 Tamsu Ngamduwa	Mafa	Borno	11.828	13.277	2	
@@ -102,9 +111,7 @@ Ngortowa	Gubio	Borno	12.454	12.785	2
 Nguluri	Magumeri	Borno	12.386	12.675	2	
 Ngalimiri	Gubio	Borno	12.543	12.913	2	
 Ngubdori	Nganzai	Borno	12.385	12.901	2	
-Ngubdori	Nganzai	Borno	12.390	12.908	2	
 Nguzo	Nganzai	Borno	12.498	12.980	2	
-Nguzo	Nganzai	Borno	12.513	12.976	2	
 Nganzuna	Nganzai	Borno	12.514	13.162	2	
 Ngumari	Nganzai	Borno	12.472	13.233	2	
 Goni Ngamari	Magumeri	Borno	12.373	12.685	2	
@@ -209,14 +216,11 @@ Ngwamya	Biu	Borno	10.605	12.338	2
 Ngalimari	Konduga	Borno	11.563	13.660	2	
 Nguma	Biu	Borno	10.726	12.363	2	
 Lamido Ngabdo	Biu	Borno	10.881	11.789	2	
-Ngohi Kofan Hakimi Medical Dispensary	Askira-Uba	Borno	10.671	12.690	0	
 Ali Ngomti	Damboa	Borno	11.135	12.577	2	
 Ngotori	Damboa	Borno	11.164	12.935	2	
 Ngaurari	Damboa	Borno	11.096	12.731	2	
 Ngwashari	Damboa	Borno	11.062	12.713	2	
 Ngabrawa Kura	Gwoza	Borno	11.243	13.942	2	
-Group School, Ezuhu Nguru, Aboh Mbaise	Aboh-Mbaise	Imo	5.483	7.266	0	
-Eke Ngwuru	Aboh-Mbaise	Imo	5.495	7.262	0	
 N'Gouroun Ngouroun	Bosso	Borno	13.652	13.276	2	
 Ngumatiana Mammanti	Monguno	Borno	12.349	13.508	2	
 Bullabulin Ngeleya	Monguno	Borno	12.530	13.757	2	
@@ -252,105 +256,9 @@ Ngomari	Magumeri	Borno	11.867	13.034	2
 Nguzamiri	Konduga	Borno	11.623	12.989	2	
 Nguro Nguro	Konduga	Borno	11.696	13.178	2	
 Buniya Ngumari	Magumeri	Borno	12.000	12.714	2	
-Nguru Airstrip	Karasuwa	Yobe	12.833	10.541	0	
-Nganzai Family Support Clinic	Nganzai	Borno	12.489	13.213	0	
-Ngungwaling Health Post	Demsa	Adamawa	9.509	12.212	0	
-NGbobenge heath post	Larmurde	Adamawa	9.659	11.820	0	
-King Nnah Ngonwa Memory Hall	Tai	Rivers	4.741	7.203	0	
-Skom ng	Jos North	Plateau	9.956	8.898	0	
-Alhaji umaru ngelzarma	Jos North	Plateau	9.972	8.895	0	
-Nguzu Edda	Edda	Ebonyi	5.754	7.816	3	
-Ngodo	Umu-Nneochi	Abia	5.965	7.386	3	
-Okpuala-Ngwa	Isiala-Ngwa South	Abia	5.357	7.388	2	
-Ngwo	Udi	Enugu	6.431	7.428	3	
-Hadejia to Nguru Road	Kiri Kasama	Jigawa	12.656	10.235	1	
-Nguru to Geidam Road	Karasuwa	Yobe	12.889	10.700	1	
-Nguru to Geidam Road	Barde	Yobe	12.861	11.046	1	
-Nguru to Machina Road	Nguru	Yobe	12.951	10.350	1	
-Ngozi Okonjo-Iweala	Municipal Area Council	FCT Abuja	9.073	7.447	1	
-Beeluxury.ng, Sabo Oke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.489	4.575	1	
-Ngoke Street	Enugu South	Enugu	6.412	7.510	1	
-Nguego Street	Enugu East	Enugu	6.481	7.521	1	
-Prince Ngene Lane	Enugu East	Enugu	6.469	7.588	1	
-Ngene Street	Enugu South	Enugu	6.395	7.484	1	
-Umunnaji Ngene Street	Enugu South	Enugu	6.422	7.531	1	
-Ngenevu Zone 2	Enugu North	Enugu	6.432	7.476	1	
-Dan Ngene Agbo Street	Enugu North	Enugu	6.443	7.534	1	
-Dan Ngene Agbo Close	Enugu North	Enugu	6.443	7.533	1	
-Chief Ngwu Agbowo Avenue	Enugu East	Enugu	6.499	7.505	1	
-Ngwunwani Lane	Enugu East	Enugu	6.476	7.582	1	
-Lady Ngozi Umeoji Avenue	Enugu North	Enugu	6.452	7.562	1	
-Ngwu Street	Enugu North	Enugu	6.423	7.475	1	
-Ngwu-Afor Street	Enugu North	Enugu	6.401	7.577	1	
-Ngene Close	Enugu South	Enugu	6.398	7.481	1	
-Umunshi Ngwu Avenue	Nkanu West	Enugu	6.370	7.514	1	
-Ngwo Street	Enugu East	Enugu	6.481	7.517	1	
-Nguru	Fagge	Kano	12.031	8.533	1	
 Ngwo-A	Enugu South	Enugu	6.394	7.470	2	
 Ngwu-Agu Layout Trans-Ekulu	Enugu North	Enugu	6.467	7.469	2	
-Obi Ngoka Street	Enugu East	Enugu	6.479	7.591	1	
-Prince Ngene Street	Enugu East	Enugu	6.470	7.588	1	
-Gujba - Ngalda Road	Gulani	Yobe	11.098	11.554	1	
 Okwonjo-Ngwo	Udi	Enugu	6.486	7.440	2	
-Nguru to Geidam Road	Borsari	Yobe	12.763	11.480	1	
-Gideon Ngwaba Street	Eti Osa	Lagos	6.488	3.590	1	
-Ngaima Health Center	Nangere	Yobe	11.775	10.893	0	
-Ngebiji Dispensary	Tafawa-Balewa	Bauchi	9.609	9.325	0	Tawa Dispensary
-Gujba - Ngalda Road	Gujba	Yobe	11.433	11.857	1	
-Umuezie Nguru/Ahiato/Umuoda Road	Aboh-Mbaise	Imo	5.495	7.199	1	
-Oboama Enyiogugu/Umuezie Nguru/ Aforajala Road	Aboh-Mbaise	Imo	5.492	7.191	1	
-Ngollam Health Clinic	Monguno	Borno	12.530	13.699	0	
-Ngelzarma to Jajere road	Fune	Yobe	11.844	11.474	1	
-Ngelzarma to Mashio road	Fune	Yobe	11.829	11.608	1	
-Ngelzarma Maternal and Child Health Center	Fune	Yobe	11.686	11.628	0	
-Oboama Enyiogugu/Umuezie Nguru/Amakohia Ikeduru Road	Aboh-Mbaise	Imo	5.502	7.187	1	
-Avuvu Ikeduru/Umuezie Nguru Aboh Mbaise Road	Aboh-Mbaise	Imo	5.496	7.191	1	
-Umuezie Nguru/Umueze Enyiogugu Road	Aboh-Mbaise	Imo	5.488	7.194	1	
-Ngozi Okonjo-Iweala	Municipal Area Council	FCT Abuja	9.052	7.444	1	
-Ngozi Okonjo-Iweala	Municipal Area Council	FCT Abuja	9.058	7.444	1	
-Ngozi Okonjo-Iweala	Municipal Area Council	FCT Abuja	9.065	7.447	1	
-Chris Ngadi Street	Oshodi/Isolo	Lagos	6.501	3.301	1	
-NGO Maternity	Obio/Akpor	Rivers	4.875	6.916	0	
-Ohaeri's Crescent Umuezie Nguru	Aboh-Mbaise	Imo	5.494	7.182	1	
-Ndi Egu Eziobodo Alechara / Ngelelato Road	Awgu	Enugu	6.118	7.512	1	
-Hadejia to Nguru Road	Hadejia	Jigawa	12.457	10.041	1	
-Nguru to Geidam Road	Geidam	Yobe	12.892	11.924	1	
-Nguru to Geidam Road	Nguru	Yobe	12.868	10.449	1	
-Hadejia to Nguru Road	Guri	Jigawa	12.821	10.349	1	
-Hadejia to Nguru Road	Nguru	Yobe	12.869	10.418	1	
-Ngwa Road	Aba South	Abia	5.088	7.384	1	
-Gujba - Ngalda Road	Fika	Yobe	11.100	11.424	1	
-Gujba - Ngalda Road	Fika	Yobe	11.101	11.413	1	
-Ngenevu Zone 2	Enugu North	Enugu	6.433	7.475	1	
-Lady Ngozi Umeoji Avenue	Enugu North	Enugu	6.455	7.562	1	
-Ngwu-Afor Street	Enugu North	Enugu	6.405	7.577	1	
-Gujba - Ngalda Road	Gulani	Yobe	11.171	11.684	1	
-Gujba - Ngalda Road	Gujba	Yobe	11.299	11.733	1	
-Ngojin Health Facility	Potiskum	Yobe	11.653	11.070	0	
-Dr. Emeka Njoku's Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.193	1	
-Prince Maxwell Igwe Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.188	1	
-Federal Medical Centre, Nguru	Nguru	Yobe	12.885	10.446	0	
-Ngurno Health Center	Monguno	Borno	12.717	13.690	0	
-Ngalimari Health Clinic	Konduga	Borno	11.562	13.660	0	
-Ngbekendewe Health Post	Demsa	Adamawa	9.401	11.880	0	
-Ngbekwe Health Clinic	Demsa	Adamawa	9.400	11.880	0	
-Ngirabo Health Clinic	Yunusari	Yobe	13.293	11.590	0	
-Ngurore Health Post	Fufore	Adamawa	8.977	12.617	0	
-NGlama heath center	Madagali	Adamawa	10.729	13.625	0	
-Turmi Ngazari Dispensary	Fika	Yobe	11.352	11.421	0	
-Ngetra Primary Health Center	Nangere	Yobe	11.906	10.928	0	
-Ngelshengele Dispensary	Fune	Yobe	11.551	11.607	0	
-Ngurore Gantum Health Post	Ganye	Adamawa	8.331	12.226	0	
-Ngolojo Street	Umuahia North	Abia	5.637	7.432	1	
-Route Akanliko - Ngale	Obanliku	Cross River	6.465	9.455	1	
-Route Akanliko - Ngale	Obanliku	Cross River	6.439	9.469	1	
-Route Akanliko - Ngale	Obanliku	Cross River	6.450	9.463	1	
-Anthony Ngaji Kuti Close	Idemili North	Anambra	6.141	6.826	1	
-GH Ngo	Andoni	Rivers	4.479	7.411	0	
-Ngozi irondi street	Oshodi/Isolo	Lagos	6.515	3.297	1	
-Nigeria Arabic Language Village Ngala	Maiduguri	Borno	11.820	13.162	0	
-Nguwom Primary Health Center	Mafa	Borno	11.884	13.345	0	
-Ngoshe Primary Health Clinic	Gwoza	Borno	11.133	13.793	0	
 Ngojin	Potiskum	Yobe	11.631	11.140	2	
 Ngurbuwa	Gujba	Yobe	11.518	12.091	2	
 Ngelzarma B	Fune	Yobe	11.562	11.674	2	
@@ -381,3 +289,383 @@ Nganzai	Nganzai	Borno	12.449	13.125	2
 Ngetra	Gubio	Borno	12.685	12.640	2	
 Ngala	Ngala	Borno	12.376	14.085	2	
 Ngaski	Ngaski	Kebbi	10.577	4.721	2	
+Ngawa	Nangere	Yobe	11.758	11.013	2	Watinani
+Wanakom Ngidi	Yala	Cross River	6.604	8.424	2	Ngidi|Wanakom|Wankom
+Usenyi Ngurore	Gombi	Adamawa	10.214	12.677	2	
+Uhuda Ngodo	Umu-Nneochi	Abia	5.919	7.408	2	
+Tading Ngurore	Ganye	Adamawa	8.551	11.864	2	Grori|Gurore
+Ovu Ngwu	Isiala-Ngwa North	Abia	5.319	7.378	2	
+Onicha Ngwa	Obi Ngwa	Abia	5.148	7.509	2	
+Ochicha Ngugo	Ikeduru	Imo	5.580	7.146	2	
+Oboama-Nguru	Aboh-Mbaise	Imo	5.508	7.246	2	
+Nguot-Ikot-Umo	Ikono	Akwa Ibom	5.257	7.818	2	Nkwot Ikot Umo|Nquot|Nquot Ikot Umo
+Ngyolun	Konshisha	Benue	7.052	8.836	2	
+Ngyoloko	Ushongo	Benue	7.066	8.916	2	
+Ngwo-Uno	Udi	Enugu	6.442	7.414	2	Ngwo
+Ngwalti	Numan	Adamawa	9.473	11.718	2	
+Ngwalangwalam	Hawul	Borno	10.404	12.263	2	
+Ngwa	Takum	Taraba	7.416	10.025	2	
+Ngurunbile	Gulani	Yobe	11.075	11.787	2	Ngurunbite
+Ngurum	Gulani	Yobe	11.026	11.804	2	
+Nguru	Gubio	Borno	12.548	12.788	2	
+Nguru	Aboh-Mbaise	Imo	5.486	7.238	2	
+Nguru	Ngor-Okpala	Imo	5.371	7.129	2	
+Ngurtuwa	Guzamala	Borno	13.077	13.566	2	Ngurutuwa
+Ngurosoye	Bama	Borno	11.467	13.767	2	Ngura-Seyo|Nguro Seyo
+Ngurore	Yola North	Adamawa	9.289	12.240	2	
+Ngurore	Fufore	Adamawa	8.976	12.616	2	
+Ngurore	Bali	Taraba	7.848	11.039	2	
+Ngornu	Monguno	Borno	12.715	13.696	2	Ngonu|Ngurno
+Ngurmi	Bungudu	Zamfara	11.868	6.555	2	
+Ngurkyegh	Gboko	Benue	7.322	8.663	2	
+Ngurara	Nangere	Yobe	11.813	11.054	2	
+Nguradina II	Chibok	Borno	10.831	12.968	2	
+Nguradina I	Chibok	Borno	10.844	12.967	2	
+Ngur	Konshisha	Benue	7.198	8.533	2	
+Ngulya	Ogoja	Cross River	6.490	8.573	2	
+Nguli	Alkaleri	Bauchi	9.777	9.907	2	
+Ngulde	Askira-Uba	Borno	10.666	12.545	2	
+Ngukpen	Konshisha	Benue	7.054	8.692	2	
+Nguga	Donga	Taraba	7.644	10.025	2	
+Nguengu	Ushongo	Benue	7.081	8.986	2	
+Ngudda	Jere	Borno	11.923	13.221	2	
+Ngubin	Sardauna	Taraba	6.837	11.251	2	
+Ngubdori	Bama	Borno	11.476	13.835	2	
+Ngubala	Gubio	Borno	12.440	12.484	2	
+Nguagwa	Konshisha	Benue	7.097	8.686	2	
+Ngu	Gboko	Benue	7.323	8.663	2	
+Ngu	Bende	Abia	5.622	7.553	2	
+Ngov	Konshisha	Benue	7.364	8.563	2	
+Ngotso	Konshisha	Benue	7.133	8.637	2	
+Ngorkori	Chibok	Borno	10.767	12.795	2	Ngabarawa
+Ngor	Ngor-Okpala	Imo	5.333	7.167	2	
+Ngolwanwurta	Gombi	Adamawa	10.246	12.390	2	
+Ngolomba	Yola North	Adamawa	9.311	12.409	2	Golumba
+Ngolomba	Jada	Adamawa	8.749	12.605	2	
+Ngolirde	Fufore	Adamawa	9.165	12.358	2	
+Ngojin	Potiskum	Yobe	11.595	11.174	2	
+Ngizam	Mafa	Borno	12.191	13.370	2	
+Ngiyee	Konshisha	Benue	7.296	8.576	2	
+Ngirna	Damboa	Borno	11.159	12.891	2	
+Ngine	Nkanu West	Enugu	6.368	7.531	2	
+Ngikar	Sardauna	Taraba	6.772	11.116	2	
+Ngigh	Gboko	Benue	7.301	8.727	2	
+Ngiegba	Konshisha	Benue	7.116	8.738	2	
+Nggalbije	Gombi	Adamawa	10.133	12.541	2	
+Nggadadamai Hamlets	Madagali	Adamawa	10.900	13.521	2	
+Ngettanni	Misau	Bauchi	11.329	10.367	2	
+Ngetera	Gubio	Borno	12.583	12.681	2	
+Ngererewa	Yusufari	Yobe	13.261	11.148	2	
+Ngeneugbo	Awgu	Enugu	6.163	7.467	2	
+Ngelzarma	Fune	Yobe	11.685	11.620	2	Ngelzerma
+Ngel Nyaki	Sardauna	Taraba	7.074	11.063	2	
+Ngelforo	Sardauna	Taraba	7.012	11.122	2	
+Ngelewa	Marte	Borno	12.525	13.772	2	Ngilaiwa
+Ngeleun	Ushongo	Benue	7.094	8.949	2	
+Ngele-Ata	Arochukwu	Abia	5.453	7.816	2	
+Ngederen	Larmurde	Adamawa	9.514	11.769	2	
+Ngeare	Gombi	Adamawa	10.067	12.262	2	
+Ngbyanakaa	Vandeikya	Benue	7.031	8.956	2	
+Ngbukon	Gwer East	Benue	7.424	8.521	2	
+Bolon	Demsa	Adamawa	9.410	11.995	2	Ngbolung
+Ngbo-Agbaja	Ebonyi	Ebonyi	6.364	8.152	2	Ngbo
+Ngbo	Ohaukwu	Ebonyi	6.453	7.978	2	Ngba
+Mgbele	Oguta	Imo	5.676	6.853	2	Ngbele|Ngebele
+Ngbegha	Gboko	Benue	7.345	8.714	2	
+Ngbegha	Konshisha	Benue	7.140	8.604	2	
+Ngbebe	Wukari	Taraba	7.828	10.003	2	
+Ngbande	Gboko	Benue	7.318	8.731	2	
+Ngbanaocha	Nkanu East	Enugu	6.169	7.685	2	
+Ngbana-Eze	Nkanu East	Enugu	6.194	7.733	2	
+Ngbalapin	Numan	Adamawa	9.445	11.784	2	
+Ngbakowan	Larmurde	Adamawa	9.520	11.804	2	
+Ngbabeluzo	Abakaliki	Ebonyi	6.252	8.387	2	
+Ngba	Zing	Taraba	8.792	11.698	2	
+Ngaski	Ngaski	Kebbi	10.407	4.718	2	
+Ngasam	Hawul	Borno	10.498	12.180	2	
+Ngorowa	Karim Lamido	Taraba	9.123	11.047	2	Ngaruwa
+Ngarno	Biriniwa	Jigawa	13.003	10.253	2	
+Ngarje	Maiyama	Kebbi	11.835	4.546	2	
+Ngarbia Kare Kare	Gujba	Yobe	11.448	11.783	2	
+Ngarbia	Fune	Yobe	11.975	11.232	2	
+Ngarbia	Fune	Yobe	11.638	11.441	2	
+Ngarabo	Yunusari	Yobe	13.199	11.402	2	
+Ngarabe	Abi	Cross River	5.985	8.025	2	
+Nganawa	Yunusari	Yobe	13.218	11.807	2	
+Ngawama	Bosso	Borno	13.518	13.195	2	Ngama|Ngamma
+Ngamma	Magumeri	Borno	12.371	12.707	2	
+Ngamdu	Fika	Yobe	11.336	11.126	2	
+Ngalibin	Hong	Adamawa	10.177	12.922	2	
+Ngalbiamari	Konduga	Borno	11.617	13.656	2	Ngalbaimari
+Ngalakwu	Igbo-Etiti	Enugu	6.707	7.390	2	
+Ngaladum	Fune	Yobe	11.647	11.425	2	
+Ngaje	Kala-Balge	Borno	11.744	14.565	2	Koutelaha|Kutelaha
+Ngadaya	Konduga	Borno	11.656	13.248	2	Ngadaiya|Nqadaiya
+Ngadarma Butu	Chibok	Borno	10.733	12.850	2	
+Ngadarma Bulayahi	Chibok	Borno	10.713	12.872	2	
+Ngaburawa	Chibok	Borno	10.820	12.965	2	
+Ngabu	Hawul	Borno	10.334	12.011	2	
+Ngabu	Shani	Borno	10.153	12.027	2	
+Ngabelani	Mayo-Belwa	Adamawa	8.848	11.963	2	
+Ngabarawa	Magumeri	Borno	12.054	12.830	2	
+Ngabal	Nangere	Yobe	11.845	11.018	2	
+New Ngabarawa	Ngelzarma	Yobe	11.722	12.126	2	
+Mintur	Monguno	Borno	12.534	13.695	2	Ngollom Mayintari
+Mayo Nguli	Maiha	Adamawa	10.053	13.220	2	
+Mayo Nggalbihi	Song	Adamawa	9.864	12.989	2	
+Mayo Ngalbihi	Jada	Adamawa	8.662	12.143	2	
+Nguzowa	Gulani	Yobe	11.057	11.561	2	Kusuwa
+Kappere Wuro Ngura	Maiha	Adamawa	10.129	13.120	2	
+Izge-Nguru	Gwoza	Borno	10.983	13.305	2	
+Golbembal	Gassol	Taraba	8.535	10.661	2	Ngol Bembal
+Ngaburo Ganna	Abadam	Borno	13.535	13.213	2	Gabora
+Enugu-Ngwo	Udi	Enugu	6.423	7.445	2	Ngwo
+Bale-Ti-Ngbeko	Ibarapa East	Oyo	7.685	3.515	2	Bale Ti Ngbeko|BaleTiNgbeko
+Ameke-Ngwo	Udi	Enugu	6.438	7.402	2	Ameke
+Ama-Ngwu	Ohafia	Abia	5.667	7.870	2	
+Amai-Nge	Ndokwa West	Delta	5.752	6.228	2	
+Ngbagidi	Ikwerre	Rivers	4.936	6.900	2	Ngbogidi
+Ngoshe	Gwoza	Borno	11.143	13.780	2	
+Wuro Ngiki	Michika	Adamawa	10.695	13.395	2	
+Bula Ngubdoye	Bama	Borno	11.508	14.226	2	
+Ngaburo Kura	Abadam	Borno	13.541	13.211	2	
+Ngrimeri	Abadam	Borno	13.624	13.345	2	
+Ngeribrama	Degema	Rivers	4.377	6.955	2	
+Ngojikiri	Akuku Toru	Rivers	4.520	6.627	2	
+Mgbuodo	Emuoha	Rivers	4.954	6.689	2	Ngbodo
+Mgbuhie	Emuoha	Rivers	4.952	6.688	2	Ngbuhie
+Ngolfije	Gombi	Adamawa	10.232	12.383	2	
+Ngudana	Hawul	Borno	10.344	12.202	2	
+Ngii	Konshisha	Benue	7.160	8.500	2	
+Ngutswen	Gwer East	Benue	7.343	8.420	2	
+Abaja-Ngwo	Udi	Enugu	6.433	7.424	2	
+Ngo	Ikom	Cross River	6.188	8.484	2	
+Ngom	Yala	Cross River	6.436	8.469	2	
+Rogogo Ngabbas	Zango	Katsina	12.922	8.562	2	
+Ngorgege	Zango	Katsina	12.906	8.547	2	
+Nguruma	Gabasawa	Kano	12.116	8.781	2	
+Ngaboru	Gada	Sokoto	13.844	5.584	2	
+Angala-Ngala	Ughelli South	Delta	5.358	5.790	2	
+Ngolobagbene	Ekeremor	Bayelsa	4.923	5.918	2	
+Nguseyegbene	Southern Ijaw	Bayelsa	4.600	5.707	2	
+Ngbokoro	Southern Ijaw	Bayelsa	4.528	5.822	2	Angbakore
+Ngwaiyiekwe	Ukwa West	Abia	4.974	7.282	2	
+Ngboji	Oyigbo	Rivers	4.847	7.331	2	
+Ngalaka	Bonny	Rivers	4.417	7.307	2	
+Ngwogwa	Ivo	Ebonyi	5.956	7.572	2	
+Ngwugwu	Ikwuano	Abia	5.442	7.586	2	
+Ngbala	Oguta	Imo	5.552	6.884	2	
+Ngbisi	Ohaji/Egbema	Imo	5.263	6.868	2	
+Isiala-Ngwa South	Isiala-Ngwa South	Abia	5.362	7.400	2	
+Isiala-Ngwa North	Isiala-Ngwa North	Abia	5.268	7.391	2	
+Ngor-Okpala	Ngor-Okpala	Imo	5.320	7.159	2	Ngor-Okpala Local Government Area
+Osisioma Ngwa	Osisioma Ngwa	Abia	5.199	7.331	2	Agbegbe Ijoba Ibile Osisioma-Ngwa|Osisioma|Osisioma Ngwa Local Government Area|Ozisioma Ngva
+Nganzai	Nganzai	Borno	12.509	13.104	2	Agbegbe Ijoba Ibile Nganzai|Nganzai Local Government Area|en gan zha yi
+Ngala	Ngala	Borno	12.215	14.183	2	Agbegbe Ijoba Ibile Ngala|Ngala Local Government Area|en jia la
+Nguru	Nguru	Yobe	12.980	10.399	2	Nguru Local Government Area
+Ngilan	Maiha	Adamawa	9.980	13.093	2	
+Ngawa	Maiha	Adamawa	9.774	13.105	2	
+Ngurta’a Lwanti	Guzamala	Borno	13.026	13.440	2	
+Malum Ngubdori	Guzamala	Borno	12.993	13.490	2	
+Ngabrawa	Gwoza	Borno	11.280	13.670	2	
+Ngoshe Clan	Gwoza	Borno	11.131	13.781	2	
+Ngalori	Marte	Borno	12.498	13.895	2	
+Tumbara Ngabuli	Michika	Adamawa	10.635	13.355	2	
+Ngaranna	Monguno	Borno	12.606	13.728	2	
+Ngollom Koshiri	Monguno	Borno	12.529	13.702	2	
+Ali-Ngollomari	Monguno	Borno	12.569	13.724	2	
+Ngilaiwa Bulabulin	Monguno	Borno	12.530	13.757	2	
+Ngaranam	Mafa	Borno	11.912	13.574	2	
+Ngabda	Mubi North	Adamawa	10.267	13.333	2	
+Ngaburari	Damboa	Borno	11.214	13.095	2	
+Ngiti	Ogoja	Cross River	6.451	8.558	2	
+Ngag	Ogoja	Cross River	6.389	8.651	2	
+Umuezaka Ngbo	Ohaukwu	Ebonyi	6.478	8.033	2	
+Ngbabo	Izzi	Ebonyi	6.458	8.413	2	Ngabo
+Ngogabbi	Gassol	Taraba	8.395	10.581	2	
+Nguldupa	Gassol	Taraba	8.409	10.609	2	
+Nabayi Ngollaide	Gassol	Taraba	8.451	10.720	2	
+Lariski Ngollaide	Gassol	Taraba	8.456	10.743	2	
+Ngohi	Askira-Uba	Borno	10.647	12.701	2	
+Ngamdu	Kaga	Borno	11.821	12.314	2	
+Ngubala Bamma	Magumeri	Borno	11.922	13.039	2	
+Ngurno	Monguno	Borno	12.870	13.913	2	
+Ngudoram	Dikwa	Borno	12.044	13.996	2	
+Nguwa	Biriniwa	Jigawa	12.888	10.126	2	
+Ngarbi	Nguru	Yobe	12.857	10.434	2	
+Ngalda	Fika	Yobe	11.118	11.462	2	
+Ngelzarma B	Fune	Yobe	11.565	11.665	2	
+Nglaiwa	Nguru	Yobe	12.894	10.456	2	
+Ngetra	Gubio	Borno	12.673	12.646	2	
+Isiala Ngwa North	Isiala-Ngwa South	Abia	5.403	7.420	2	Isiala Ngwa North
+Isiala Ngwa South	Isiala-Ngwa North	Abia	5.327	7.392	2	Isiala Ngwa South
+Nguede	Gwer West	Benue	7.533	8.202	2	
+Ngor	Gwer West	Benue	7.626	8.277	2	
+Ngutswen	Logo	Benue	7.604	9.055	2	
+Ngugban	Logo	Benue	7.507	9.375	2	
+Ngbea	Ukum	Benue	7.661	9.520	2	
+Ngira	Ukum	Benue	7.568	9.558	2	Ayuwa
+Ngyoloko	Ukum	Benue	7.507	9.720	2	
+Ngbianagba	Ukum	Benue	7.565	9.746	2	
+Ngienev	Katsina-Ala	Benue	7.586	9.830	2	
+Ngutologh	Takum	Taraba	7.520	9.936	2	
+Ngyete	Gboko	Benue	7.390	9.033	2	
+Ngutu	Gboko	Benue	7.343	9.051	2	
+Ngutswen	Gboko	Benue	7.363	9.017	2	
+Ngbegha	Gboko	Benue	7.271	9.093	2	
+Ngiegba	Buruku	Benue	7.461	9.143	2	
+Ngor	Buruku	Benue	7.274	9.246	2	
+Ngegh	Katsina-Ala	Benue	7.431	9.398	2	
+Ngobua	Katsina-Ala	Benue	7.482	9.499	2	
+Ngor	Katsina-Ala	Benue	7.358	9.491	2	
+Ngavan	Ushongo	Benue	7.119	9.067	2	
+Ngigh	Buruku	Benue	7.223	9.103	2	
+Ngigh	Buruku	Benue	7.188	9.152	2	
+Ngoroko	Buruku	Benue	7.150	9.157	2	
+Ngbea	Ushongo	Benue	7.077	9.232	2	
+Ngavan	Katsina-Ala	Benue	7.181	9.325	2	
+Ngibo	Katsina-Ala	Benue	7.249	9.392	2	
+Ngbiankume	Katsina-Ala	Benue	7.180	9.397	2	
+Ngobua	Katsina-Ala	Benue	7.247	9.494	2	
+Ngueku	Gboko	Benue	7.468	8.778	2	
+Ngokyamba	Gboko	Benue	7.483	8.847	2	
+Ngor	Gboko	Benue	7.488	8.892	2	
+Ngbon	Gboko	Benue	7.492	8.945	2	
+Ngbor	Gboko	Benue	7.425	8.844	2	
+Nguengba	Gboko	Benue	7.317	8.804	2	
+Ngbegba	Gboko	Benue	7.306	8.981	2	
+Nguekuiyor	Gboko	Benue	7.267	8.823	2	
+Ngabarawa	Machina	Yobe	13.120	10.049	2	
+Ngikura	Yusufari	Yobe	13.134	11.226	2	
+Ngiribia	Yusufari	Yobe	13.118	11.025	2	
+Taso Ngurore	Jada	Adamawa	8.771	12.085	2	
+Ngurore	Jada	Adamawa	8.571	12.118	2	
+Nguruja	Jada	Adamawa	8.561	12.305	2	
+Gidan Ngeru	Karu	Nasarawa	9.122	7.907	2	
+Ngurore Ajia	Mayo-Belwa	Adamawa	8.930	11.975	2	
+Wuro Ngura	Mayo-Belwa	Adamawa	8.969	11.993	2	
+Ngwan	Shendam	Plateau	8.871	9.738	2	
+Ngamo	Akwanga	Nasarawa	9.017	8.386	2	
+Ngatukpa	Sanga	Kaduna	9.194	8.233	2	
+Ngras	Shendam	Plateau	8.879	9.360	2	
+Ngawa	Girei	Adamawa	9.493	12.447	2	
+Ngakore	Girei	Adamawa	9.411	12.480	2	
+Ngesa Lamido	Yola North	Adamawa	9.214	12.449	2	
+Ngorole	Mayo-Belwa	Adamawa	9.132	12.030	2	
+Ngurore Sanda	Fufore	Adamawa	9.037	12.128	2	
+Ngabire	Fufore	Adamawa	9.098	12.168	2	
+Ngin	Demsa	Adamawa	9.326	11.877	2	
+Ngumari	Kala-Balge	Borno	12.265	14.460	2	
+Ngwogwo	Karim Lamido	Taraba	9.355	11.086	2	
+Ngolirde	Fufore	Adamawa	9.079	12.682	2	
+Ngarawo	Fufore	Adamawa	9.018	12.628	2	
+Mayo-Nggalbije	Fufore	Adamawa	9.207	12.639	2	Mayo Nggalbije
+Digino-Ngarawo	Fufore	Adamawa	9.371	12.639	2	Digino Ngarawo
+Ngolirde	Girei	Adamawa	9.420	12.582	2	
+Ngankri	Akwanga	Nasarawa	8.925	8.411	2	
+Ngadugu	Akwanga	Nasarawa	8.922	8.405	2	
+Ngongokete	Nasarawa	Nasarawa	8.457	8.182	2	
+Ngurore Wuro Ma'Auda	Song	Adamawa	9.939	12.616	2	NguroreWuroMa'Auda
+Ngawa	Song	Adamawa	9.805	12.614	2	
+Nggabalo	Song	Adamawa	9.785	12.727	2	
+Wuro Ngwaro	Song	Adamawa	9.713	12.960	2	WuroNgwaro
+Ngotabakka	Song	Adamawa	9.677	12.844	2	
+Ngur	Sardauna	Taraba	6.718	11.382	2	
+Ngaga	Sardauna	Taraba	6.778	11.318	2	
+Nguni	Sardauna	Taraba	6.618	11.200	2	
+Ngoba	Sardauna	Taraba	6.899	11.441	2	
+Ngoba	Sardauna	Taraba	6.628	11.451	2	
+Ngiteriye	Sardauna	Taraba	6.742	11.426	2	
+Ngwai	Sardauna	Taraba	6.843	11.323	2	
+Nggadadamai	Madagali	Adamawa	10.901	13.495	2	
+Ngo	Ikom	Cross River	6.167	8.447	2	
+Ngolirde	Yola South	Adamawa	9.229	12.409	2	Ngalirde
+Hadejia to Nguru Road	Kiri Kasama	Jigawa	12.656	10.235	1	
+Nguru to Geidam Road	Karasuwa	Yobe	12.889	10.700	1	
+Nguru to Geidam Road	Barde	Yobe	12.861	11.046	1	
+Nguru to Machina Road	Nguru	Yobe	12.951	10.350	1	
+Ngozi Okonjo-Iweala	Municipal Area Council	FCT Abuja	9.073	7.447	1	
+Beeluxury.ng, Sabo Oke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.489	4.575	1	
+Ngoke Street	Enugu South	Enugu	6.412	7.510	1	
+Nguego Street	Enugu East	Enugu	6.481	7.521	1	
+Prince Ngene Lane	Enugu East	Enugu	6.469	7.588	1	
+Ngene Street	Enugu South	Enugu	6.395	7.484	1	
+Umunnaji Ngene Street	Enugu South	Enugu	6.422	7.531	1	
+Ngenevu Zone 2	Enugu North	Enugu	6.432	7.476	1	
+Dan Ngene Agbo Street	Enugu North	Enugu	6.443	7.534	1	
+Dan Ngene Agbo Close	Enugu North	Enugu	6.443	7.533	1	
+Chief Ngwu Agbowo Avenue	Enugu East	Enugu	6.499	7.505	1	
+Ngwunwani Lane	Enugu East	Enugu	6.476	7.582	1	
+Lady Ngozi Umeoji Avenue	Enugu North	Enugu	6.452	7.562	1	
+Ngwu Street	Enugu North	Enugu	6.423	7.475	1	
+Ngwu-Afor Street	Enugu North	Enugu	6.401	7.577	1	
+Ngene Close	Enugu South	Enugu	6.398	7.481	1	
+Umunshi Ngwu Avenue	Nkanu West	Enugu	6.370	7.514	1	
+Ngwo Street	Enugu East	Enugu	6.481	7.517	1	
+Nguru	Fagge	Kano	12.031	8.533	1	
+Obi Ngoka Street	Enugu East	Enugu	6.479	7.591	1	
+Prince Ngene Street	Enugu East	Enugu	6.470	7.588	1	
+Gujba - Ngalda Road	Gulani	Yobe	11.098	11.554	1	
+Nguru to Geidam Road	Borsari	Yobe	12.763	11.480	1	
+Gideon Ngwaba Street	Eti Osa	Lagos	6.488	3.590	1	
+Gujba - Ngalda Road	Gujba	Yobe	11.433	11.857	1	
+Umuezie Nguru/Ahiato/Umuoda Road	Aboh-Mbaise	Imo	5.495	7.199	1	
+Oboama Enyiogugu/Umuezie Nguru/ Aforajala Road	Aboh-Mbaise	Imo	5.492	7.191	1	
+Ngelzarma to Jajere road	Fune	Yobe	11.844	11.474	1	
+Ngelzarma to Mashio road	Fune	Yobe	11.829	11.608	1	
+Oboama Enyiogugu/Umuezie Nguru/Amakohia Ikeduru Road	Aboh-Mbaise	Imo	5.502	7.187	1	
+Avuvu Ikeduru/Umuezie Nguru Aboh Mbaise Road	Aboh-Mbaise	Imo	5.496	7.191	1	
+Umuezie Nguru/Umueze Enyiogugu Road	Aboh-Mbaise	Imo	5.488	7.194	1	
+Chris Ngadi Street	Oshodi/Isolo	Lagos	6.501	3.301	1	
+Ohaeri's Crescent Umuezie Nguru	Aboh-Mbaise	Imo	5.494	7.182	1	
+Ndi Egu Eziobodo Alechara / Ngelelato Road	Awgu	Enugu	6.118	7.512	1	
+Hadejia to Nguru Road	Hadejia	Jigawa	12.457	10.041	1	
+Nguru to Geidam Road	Geidam	Yobe	12.892	11.924	1	
+Nguru to Geidam Road	Nguru	Yobe	12.868	10.449	1	
+Hadejia to Nguru Road	Guri	Jigawa	12.821	10.349	1	
+Hadejia to Nguru Road	Nguru	Yobe	12.869	10.418	1	
+Ngwa Road	Aba South	Abia	5.088	7.384	1	
+Gujba - Ngalda Road	Fika	Yobe	11.100	11.424	1	
+Gujba - Ngalda Road	Fika	Yobe	11.101	11.413	1	
+Ngwu-Afor Street	Enugu North	Enugu	6.405	7.577	1	
+Gujba - Ngalda Road	Gulani	Yobe	11.171	11.684	1	
+Gujba - Ngalda Road	Gujba	Yobe	11.299	11.733	1	
+Dr. Emeka Njoku's Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.193	1	
+Prince Maxwell Igwe Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.188	1	
+Ngolojo Street	Umuahia North	Abia	5.637	7.432	1	
+Route Akanliko - Ngale	Obanliku	Cross River	6.465	9.455	1	
+Route Akanliko - Ngale	Obanliku	Cross River	6.439	9.469	1	
+Anthony Ngaji Kuti Close	Idemili North	Anambra	6.141	6.826	1	
+Ngozi irondi street	Oshodi/Isolo	Lagos	6.515	3.297	1	
+Ngohi Kofan Hakimi Medical Dispensary	Askira-Uba	Borno	10.671	12.690	0	
+Group School, Ezuhu Nguru, Aboh Mbaise	Aboh-Mbaise	Imo	5.483	7.266	0	
+Eke Ngwuru	Aboh-Mbaise	Imo	5.495	7.262	0	
+Nguru Airstrip	Karasuwa	Yobe	12.833	10.541	0	
+Nganzai Family Support Clinic	Nganzai	Borno	12.489	13.213	0	
+Ngungwaling Health Post	Demsa	Adamawa	9.509	12.212	0	
+NGbobenge heath post	Larmurde	Adamawa	9.659	11.820	0	
+King Nnah Ngonwa Memory Hall	Tai	Rivers	4.741	7.203	0	
+Skom ng	Jos North	Plateau	9.956	8.898	0	
+Alhaji umaru ngelzarma	Jos North	Plateau	9.972	8.895	0	
+Ngaima Health Center	Nangere	Yobe	11.775	10.893	0	
+Ngebiji Dispensary	Tafawa-Balewa	Bauchi	9.609	9.325	0	Tawa Dispensary
+Ngollam Health Clinic	Monguno	Borno	12.530	13.699	0	
+Ngelzarma Maternal and Child Health Center	Fune	Yobe	11.686	11.628	0	
+NGO Maternity	Obio/Akpor	Rivers	4.875	6.916	0	
+Ngojin Health Facility	Potiskum	Yobe	11.653	11.070	0	
+Federal Medical Centre, Nguru	Nguru	Yobe	12.885	10.446	0	
+Ngurno Health Center	Monguno	Borno	12.717	13.690	0	
+Ngalimari Health Clinic	Konduga	Borno	11.562	13.660	0	
+Ngbekendewe Health Post	Demsa	Adamawa	9.401	11.880	0	
+Ngbekwe Health Clinic	Demsa	Adamawa	9.400	11.880	0	
+Ngirabo Health Clinic	Yunusari	Yobe	13.293	11.590	0	
+Ngurore Health Post	Fufore	Adamawa	8.977	12.617	0	
+NGlama heath center	Madagali	Adamawa	10.729	13.625	0	
+Turmi Ngazari Dispensary	Fika	Yobe	11.352	11.421	0	
+Ngetra Primary Health Center	Nangere	Yobe	11.906	10.928	0	
+Ngelshengele Dispensary	Fune	Yobe	11.551	11.607	0	
+Ngurore Gantum Health Post	Ganye	Adamawa	8.331	12.226	0	
+GH Ngo	Andoni	Rivers	4.479	7.411	0	
+Nigeria Arabic Language Village Ngala	Maiduguri	Borno	11.820	13.162	0	
+Nguwom Primary Health Center	Mafa	Borno	11.884	13.345	0	
+Ngoshe Primary Health Clinic	Gwoza	Borno	11.133	13.793	0	

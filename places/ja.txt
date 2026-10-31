@@ -1,11 +1,27 @@
+Jalingo	Jalingo	Taraba	8.895	11.360	3	
+Jakusko	Jakusko	Yobe	12.369	10.774	3	
+Jahun	Jahun	Jigawa	12.075	9.626	3	
+Maiha	Maiha	Adamawa	10.062	13.184	3	Jalingo Maiha
+Jada	Jada	Adamawa	8.757	12.155	3	
+James Town	Mbo	Akwa Ibom	4.650	8.307	3	
+Jaudiri	Bama	Borno	11.493	13.718	3	
+Jakande	Eti Osa	Lagos	6.434	3.508	3	
+Jos	Jos North	Plateau	9.928	8.892	3	Cos|Dzhos|Dzos|JOS|jas|jasa|josa|joseu|josi|josu|jws|jws  nayjyrya|qiao si
+Angware	Jos East	Plateau	9.991	9.108	3	Jarawa
+Jama’are	Jama'Are	Bauchi	11.670	9.928	3	Jama'are|Jamaare|Jamaari|Jemma'are
+Jajimaji	Karasuwa	Yobe	12.899	10.807	3	Jaji Maji|Jajimari
+Khaddamari	Jere	Borno	11.926	13.231	3	Jadamari
 Jâlido	Magaria	Katsina	13.111	8.384	2	
 Jambéri	Guidan Roumdji	Sokoto	13.632	6.394	2	
-Jagindi	Jema'A	Kaduna	9.344	8.229	0	
 Tudun Jatau	Igabi	Kaduna	10.755	7.298	2	Tudun Jarau
+Wuro Jam	Gassol	Taraba	8.483	10.250	2	
 Jalomiri	Damboa	Borno	11.270	13.120	2	
 Lisa	Odeda	Ogun	7.250	3.600	2	Jagemo
+Jato	Kurmi	Taraba	7.033	10.583	2	Gidan Jato;Jato
 Jatayi;Gbodna	Paikoro	Niger	9.500	6.800	2	
 Jajage	Birnin Kebbi	Kebbi	12.537	4.130	2	
+Jauro Majo	Ardo-Kola	Taraba	8.691	11.285	2	
+Garin Jauro Adamu	Bali	Taraba	8.466	11.117	2	
 Jakana	Bama	Borno	11.665	14.041	2	
 Tola Jabu	Mayo-Belwa	Adamawa	8.767	11.933	2	Tola
 Jadadi	Jega	Kebbi	12.207	4.514	2	
@@ -66,7 +82,6 @@ Guidan Mai-Jatau	Gusau	Zamfara	12.171	6.971	2
 Dan Jatau	Bakori	Katsina	11.647	7.421	2	Angwan Danjatau
 Jalla	Warri South	Delta	5.539	5.692	2	
 Ijanikin	Ojo	Lagos	6.497	3.121	2	Janikin
-Jakusko	Jakusko	Yobe	12.369	10.774	3	
 Jato Aka	Kwande	Benue	6.890	9.506	2	Jato Ako;Jato
 Jaja Dogowa	Tambuwal	Sokoto	12.310	4.801	2	
 Jagala	Fakai	Kebbi	11.564	4.671	2	
@@ -76,24 +91,21 @@ Wuro Jauro Atiku	Shelleng	Adamawa	9.650	12.100	2	Gwomba
 Malum Jalumiri	Bama	Borno	11.495	13.637	2	
 Jabbari	Bama	Borno	11.537	14.058	2	Jabari
 Sabon Sofon Jaaba	Gbako	Niger	9.450	6.017	2	Jaaba
-Jama’are	Jama'Are	Bauchi	11.667	9.931	2	
 Jalingo	Akko	Gombe	10.026	11.315	2	
 Jajel	Konduga	Borno	11.780	13.037	2	
 Jaja	Arewa Dandi	Kebbi	13.146	4.399	2	
 Ungwan Jaki	Makarfi	Kaduna	11.345	7.948	2	Jaki
-Jahun	Jahun	Jigawa	12.075	9.626	3	
 Duba Jalo	Goronyo	Sokoto	13.506	5.940	2	
 Ungwan Jamo	Giwa	Kaduna	11.204	7.511	2	
 Jasai	Mai'Adua	Katsina	13.103	8.358	2	
 Jajere	Fune	Yobe	11.978	11.441	2	Lajere
-Jajimaji	Karasuwa	Yobe	12.899	10.808	2	Jajimari;Jaji Maji
 Janzomo	Birnin Kebbi	Kebbi	12.447	4.381	2	
 Tunga Jato	Koko-Besse	Kebbi	11.354	4.419	2	
 Jalingo	Yola South	Adamawa	9.250	12.467	2	
 Jarara Aganda	Birnin Kebbi	Kebbi	12.567	4.146	2	
+Yoro Sidi	Gassol	Taraba	8.167	10.350	2	Jauro Sidi
 Jauro Yaji	Teungo	Adamawa	8.200	12.033	2	
 Darel Jamal	Bama	Borno	11.326	13.966	2	Dar el Jamal
-Maiha	Maiha	Adamawa	10.062	13.184	3	Jalingo Maiha
 Jagun Elesin	Ona Ara	Oyo	7.355	3.984	2	
 Njobbore	Girei	Adamawa	9.300	12.483	2	Jabura
 Jangargari	Birnin Kudu	Jigawa	11.506	9.629	2	
@@ -119,7 +131,6 @@ Kauyen Jatau	Tsafe	Zamfara	11.910	6.827	2
 Jajekal	Buji	Jigawa	11.605	9.681	2	
 Ungwan Jatau	Zangon Kataf	Kaduna	9.883	8.217	2	Ungwan Jatu
 Jikas	Gwaram	Jigawa	11.367	9.867	2	Jakas
-Jada	Jada	Adamawa	8.757	12.155	3	
 Njoboli	Yola North	Adamawa	9.217	12.583	2	Jabolio
 Gwoi	Agaie	Niger	9.133	6.450	2	Jazu
 Jalingo	Mubi South	Adamawa	10.181	13.317	2	
@@ -127,6 +138,7 @@ Jakali	Kwaya Kusar	Borno	10.473	11.976	2	Jakari
 Jambutu	Yola South	Adamawa	9.283	12.417	2	
 Jama'Are	Shani	Borno	10.099	11.862	2	Auro Jamari
 Jauro Jaudi	Jada	Adamawa	8.516	12.233	2	
+Jauro Yinu	Ardo-Kola	Taraba	8.895	11.290	2	
 Jagara	Bungudu	Zamfara	12.243	6.745	2	
 Shadadi	Shanga	Kebbi	11.328	4.647	2	Jadadi
 Ungwan Mai Jaki	Makarfi	Kaduna	11.268	8.012	2	Mai-Jaki
@@ -143,6 +155,7 @@ Jampali	Wasagu-Danko	Kebbi	11.262	6.015	2
 Jalingo	Shelleng	Adamawa	9.967	12.083	2	Yolian
 Jamata	Lokoja	Kogi	8.065	6.766	2	
 Jarana	Lapai	Niger	8.744	6.782	2	
+Jauro Miya	Jalingo	Taraba	8.916	11.314	2	
 Jawa	Yusufari	Yobe	13.010	10.978	2	
 Janumawa	Garki	Jigawa	12.417	9.033	2	Jarumawa
 Jama’a Haro	Makoda	Kano	12.545	8.523	2	
@@ -164,12 +177,13 @@ Jarang	Mayo-Belwa	Adamawa	8.967	11.900	2	Jereng
 Wuro Jauro Jabbo	Song	Adamawa	9.967	12.717	2	Goila
 Jauro Isa Dama	Shani	Borno	10.086	11.876	2	Dama
 Jamtari	Mubi South	Adamawa	10.220	13.301	2	
+Tabari Jauro Manu	Ardo-Kola	Taraba	8.719	11.261	2	
 Garin Jauri	Bunza	Kebbi	12.266	3.814	2	
 Zira Bulama Jagwa	Biu	Borno	10.820	12.173	2	Zura Birmari
 Jabbagaya	Hong	Adamawa	10.451	12.997	2	Jabagaya;Jabagya
 Jalingo	Hong	Adamawa	10.018	12.944	2	
 Jauro Hamma	Shani	Borno	10.107	12.059	2	Wuro Jauro Hamadu
-James Town	Mbo	Akwa Ibom	4.650	8.307	3	
+Jatau Sum	Bali	Taraba	8.367	11.300	2	Jatua Sum
 Jangebe	Talata Mafara	Zamfara	12.223	6.072	2	Dengebe
 Jankasa	Zangon Kataf	Kaduna	9.717	8.467	2	
 Jarawa	Kala-Balge	Borno	11.959	14.400	2	
@@ -181,13 +195,8 @@ Ungwan Janbiri	Ikara	Kaduna	11.242	8.125	2	Janbiri
 Jaji	Igabi	Kaduna	10.825	7.571	2	
 Jahunu	Lere	Kaduna	10.581	8.602	2	
 Dadadi	Koko-Besse	Kebbi	11.660	4.258	2	Jadadi
-Jayfield Int'l high School	Egor	Edo	6.365	5.569	0	
 Jauro Gotel	Shani	Borno	10.096	11.750	2	
 Tumbun Jaki	Abadam	Borno	13.568	13.460	2	
-Jacob Memorial Clinic	Enugu North	Enugu	6.438	7.502	0	
-Jajaye Primary Health Centre	Rogo	Kano	11.557	7.936	0	
-Jama'A Primary Health Centre	Gwarzo	Kano	11.815	7.866	0	
-Janguza Market	Tofa	Kano	11.967	8.401	0	
 Unguwar Jatau	Doguwa	Kano	11.141	8.535	2	Ungwar Jato
 Yankamaya Jarawa	Tsanyawa	Kano	12.329	7.930	2	Yan Kamaye
 Unguwar Jakada	Gwale	Kano	11.965	8.462	2	
@@ -195,7 +204,6 @@ Jakara	Kano Municipal	Kano	12.004	8.512	2
 Jammaje	Tudun Wada	Kano	11.248	8.355	2	
 Maiakusa	Tudun Wada	Kano	11.249	8.449	2	Jandutse
 Jaroji	Tudun Wada	Kano	11.319	8.435	2	
-G/Jarma	Damban	Bauchi	11.455	10.897	0	
 Jaja Kura East	Abadam	Borno	13.671	13.342	2	
 Jaja Kura West	Abadam	Borno	13.673	13.339	2	
 Jakali	Kwaya Kusar	Borno	10.357	11.950	2	
@@ -206,7 +214,6 @@ Jauro Babayo	Shani	Borno	10.056	11.937	2
 Jauro Yayari	Shani	Borno	10.076	12.006	2	
 Jamio	Shani	Borno	10.257	11.850	2	
 Jaraka	Shani	Borno	10.237	11.871	2	
-Jauro Baba Wuro Dispensary	Shani	Borno	10.260	11.872	0	
 Jauro Bahago	Shani	Borno	10.260	11.819	2	
 Jauro Baiyo	Shani	Borno	10.279	11.889	2	
 Jauro Bello Deba	Shani	Borno	10.222	11.828	2	
@@ -290,7 +297,6 @@ Jauro Sada Shiu	Shani	Borno	10.169	11.739	2
 Jauro Sale	Shani	Borno	10.147	11.758	2	
 Jauroalhaji Narumawa	Shani	Borno	10.171	11.776	2	
 Jajel Nomadic	Chibok	Borno	10.699	12.924	2	
-Jajel Nomadic	Chibok	Borno	10.706	12.922	2	
 Jajel Pabu	Chibok	Borno	10.721	12.918	2	
 Jajel Puba	Chibok	Borno	10.716	12.920	2	
 Jajere	Chibok	Borno	10.716	12.989	2	
@@ -329,7 +335,6 @@ Kopandi Jibir	Shani	Borno	10.120	11.951	2	Kopondi Jauro Jibbir
 Lapepel 2	Shani	Borno	10.059	11.942	2	Jauro Yaya
 Sabon Fegi	Shani	Borno	10.082	11.830	2	Jauro Isa Bello
 Kyamti Bukar Jalomi	Magumeri	Borno	12.176	12.768	2	
-Jauro Gotel Primary Health Centre	Shani	Borno	10.100	11.750	0	
 Jakallam	Magumeri	Borno	12.007	12.391	2	
 Fulatari Jauro Isa	Magumeri	Borno	12.096	12.236	2	
 Disa Jauro Adamu	Kwaya Kusar	Borno	10.451	11.843	2	
@@ -358,10 +363,8 @@ Jauro Yusuf	Kwaya Kusar	Borno	10.483	11.924	2
 Jawo	Kwaya Kusar	Borno	10.471	11.947	2	
 Kasheri Jauro	Bayo	Borno	10.335	11.785	2	
 Laro Jauro Dahiru	Kwaya Kusar	Borno	10.412	11.815	2	
-Laro Jauro Dahiru	Kwaya Kusar	Borno	10.415	11.819	2	
 Laro Jauro Ishaku	Kwaya Kusar	Borno	10.419	11.823	2	
 Laro Jauro Tukur	Kwaya Kusar	Borno	10.410	11.812	2	
-Laro Jauro Tukur	Kwaya Kusar	Borno	10.421	11.817	2	
 Maiba Jauro Umar	Kwaya Kusar	Borno	10.486	11.861	2	
 Moku Jakali	Kwaya Kusar	Borno	10.368	11.917	2	
 Tashan Tsamiya Jauro Saidu	Kwaya Kusar	Borno	10.451	11.848	2	
@@ -442,7 +445,6 @@ Bantam Jauro Sakani	Kwaya Kusar	Borno	10.513	11.986	2
 Jauro Ahmadu	Biu	Borno	10.593	11.967	2	
 Jalingo	Biu	Borno	10.643	12.222	2	
 Jalo Umaru	Mafa	Borno	11.782	13.784	2	
-Jarawa Dispensary	Kala-Balge	Borno	11.960	14.399	0	
 Jauro Baba	Biu	Borno	10.723	11.945	2	
 Jauro Lawalo	Biu	Borno	10.720	11.943	2	
 Jauro Musa	Biu	Borno	10.720	11.937	2	
@@ -458,8 +460,6 @@ Jauro Dadi	Biu	Borno	10.875	11.836	2
 Jauro Shanono	Biu	Borno	10.867	11.810	2	
 Jabe	Bama	Borno	11.395	13.944	2	
 Jameri	Bama	Borno	11.382	13.948	2	
-Jaudiri	Bama	Borno	11.493	13.718	3	
-Jakande Market	Eti Osa	Lagos	6.435	3.508	0	
 Janakadi	Monguno	Borno	12.442	13.514	2	
 Jamnari	Monguno	Borno	12.479	13.439	2	
 Jarawa	Monguno	Borno	12.642	13.732	2	
@@ -469,12 +469,7 @@ Jabure B Modu Fanda	Guzamala	Borno	12.959	12.972	2
 Jabbari	Guzamala	Borno	12.972	13.140	2	
 Jawuri	Konduga	Borno	11.800	13.034	2	
 Jallomirir	Konduga	Borno	11.477	13.126	2	
-Janice International School	Port-Harcourt	Rivers	4.820	7.051	0	
-MHT2(Jajeri Kantudu)	Maiduguri	Borno	11.879	13.133	0	
-Armed Forces Command and Staff College Secondary School, Jaji.	Igabi	Kaduna	10.843	7.561	0	
-Jaji Military Cantonement Hospital	Igabi	Kaduna	10.838	7.577	0	
 Jabga	Kebbe	Sokoto	12.125	4.828	2	
-Jauro Secondary school	Gombe	Gombe	10.299	11.172	0	
 Kofar Fada	Rogo	Kano	11.560	7.936	2	Gidan Jajaye
 Jama'A A	Gwarzo	Kano	11.805	7.864	2	Jamaa
 Jama'Ar Manzo	Karaye	Kano	11.684	7.944	2	Ma
@@ -504,46 +499,983 @@ Jama'Ar Ganji Hadin Kansila	Gaya	Kano	11.842	9.181	2
 Jallorawa	Bunkure	Kano	11.739	8.550	2	
 Jali Dudan	Sumaila	Kano	11.365	9.061	2	
 Jan Garu C	Rano	Kano	11.483	8.595	2	
-Jaji Airstrip	Igabi	Kaduna	10.833	7.538	0	
-jamtari hetath center	Maiha	Adamawa	9.561	13.166	0	
-jaba jaba heath clinic	Maiha	Adamawa	9.974	13.227	0	
-jalingo buhu heath post	Maiha	Adamawa	10.040	13.157	0	
-Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
 Jabi District	Municipal Area Council	FCT Abuja	9.065	7.421	2	
 Jahi District	Municipal Area Council	FCT Abuja	9.110	7.439	2	
-St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.742	3.263	0	
-St. James School African Church School,Seriki	Shagamu	Ogun	6.686	3.580	0	
-St. James School African Church School,Seriki	Ifo	Ogun	6.812	3.246	0	
-St. James Anglican Primary School I Iado Odo	Ado Odo/Ota	Ogun	6.684	3.235	0	
-St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.683	3.237	0	
-University Health Service, Jaja Clinic, UI	Ibadan North	Oyo	7.443	3.901	0	
 Kofar Jauro	Funakaye	Gombe	10.816	11.473	2	
-Jama'a Hospital Rikkos	Jos North	Plateau	9.916	8.900	0	
-Jasher International Academy	Jos North	Plateau	9.903	8.945	0	
-Jama'a Nursing And Maternity Home	Kaduna North	Kaduna	10.600	7.455	0	
-National Hospital Abuja No4mm Lawal Jafaru Isa Road	Kaduna North	Kaduna	10.542	7.472	0	
-Jadan Clinic And Maternity	Kaduna South	Kaduna	10.440	7.407	0	
-Barau Dikko Teaching Hospital Jama'a Road Kadaure	Chikun	Kaduna	10.524	7.489	0	
-Okoko Central Hospital Jakande New Site	Ojo	Lagos	6.468	3.180	0	
-Jag-Bon Medical Center	Mushin	Lagos	6.520	3.367	0	
-Deoyefemi Clinic Block 4 Jakande Estate Mile 2	Amuwo Odofin	Lagos	6.464	3.307	0	
-Jes And Jes Mosque Road Jakande Estate	Amuwo Odofin	Lagos	6.463	3.312	0	
 Jada	Alkaleri	Bauchi	9.992	10.733	2	
-MAKARANTAR MALAM MAI JAN LEBE	Ungongo	Kano	12.039	8.564	0	
-Al Jazeera International Academy	Gwale	Kano	11.960	8.474	0	
-ASHABUL KAHFI QADIRIYYA RIYADUL JANNAH	Gwale	Kano	11.960	8.476	0	
-JAUDATU SPECIAL PRIMARY SCHOOL	Gwale	Kano	11.959	8.470	0	
 Jangadoli	Fika	Yobe	11.435	11.260	2	
-Jauro Tudun Wada Primary School	Gombe	Gombe	10.300	11.171	0	
 Jawalki Zango Tachalao	Madaoua	Sokoto	13.682	6.229	2	
-St James CAC Schools, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.554	0	
 Jakpa	Warri North	Delta	5.834	5.091	2	
-Jakande	Eti Osa	Lagos	6.434	3.508	3	
-Jahi Junction	Municipal Area Council	FCT Abuja	9.118	7.455	0	
-Jabi Central Bus Station	Municipal Area Council	FCT Abuja	9.065	7.434	0	
-Aktc Jabi	Municipal Area Council	FCT Abuja	9.068	7.433	0	
-Delta Line - Jabi/Utako	Municipal Area Council	FCT Abuja	9.063	7.436	0	
-Jabi Motor Park	Municipal Area Council	FCT Abuja	9.064	7.433	0	
+Jaba	Jakusko	Yobe	12.425	11.168	2	
+Janga	Fika	Yobe	11.535	11.181	2	
+Jajere	Fune	Yobe	12.030	11.470	2	
+Jajeri	Karasuwa	Yobe	12.995	10.538	2	
+Jawa G Dole	Borsari	Yobe	12.800	11.212	2	
+Jawur Katamma	Jakusko	Yobe	12.713	10.989	2	
+Jaji Maji	Karasuwa	Yobe	12.912	10.806	2	
+Jabarna	Jahun	Jigawa	12.004	9.535	2	
+Jae	Kaugama	Jigawa	12.525	9.725	2	
+Jahun	Jahun	Jigawa	12.096	9.588	2	
+Jajeri	Maigatari	Jigawa	12.653	9.733	2	
+Jabbo	Kafin Hausa	Jigawa	12.316	10.060	2	
+Jahun	Jahun	Jigawa	12.053	9.559	2	
+Jangeru	Shinkafi	Zamfara	12.983	6.483	2	
+Janbako	Maradun	Zamfara	12.774	6.176	2	
+Jamali	Binji	Sokoto	13.290	4.790	2	
+Jaredi	Shagari	Sokoto	12.765	5.118	2	
+Jabo-Kagara	Tambuwal	Sokoto	12.410	5.038	2	
+Jadadi	Koko-Besse	Kebbi	11.647	4.288	2	
+Jandutsi Birnin Malam	Jega	Kebbi	12.057	4.546	2	
+Janbirni	Sakaba	Kebbi	11.154	5.650	2	
+Lema-Jantullu	Arewa Dandi	Kebbi	12.937	4.230	2	
+Feske-Jaffeji	Arewa Dandi	Kebbi	12.685	3.939	2	
+Jagindi	Jema'A	Kaduna	9.346	8.264	2	
+Jampalan	Ikara	Kaduna	11.167	8.270	2	
+Jama A	Sabon Gari	Kaduna	11.137	7.666	2	
+Gidan Jatau	Zangon Kataf	Kaduna	9.680	8.203	2	
+Jaba	Jaba	Kaduna	9.475	8.012	2	
+Jajaye	Rogo	Kano	11.554	7.955	2	
+Jauben Kudu	Tofa	Kano	12.036	8.324	2	
+Janguza	Tofa	Kano	11.957	8.387	2	
+Jandutse	Tudun Wada	Kano	11.250	8.461	2	
+Jalli	Dawakin Tofa	Kano	12.194	8.476	2	
+Jargaba	Bakori	Katsina	11.649	7.440	2	
+Jama'A	Gwarzo	Kano	11.812	7.881	2	
+Jani	Mani	Katsina	12.828	7.818	2	
+Jalingo	Jalingo	Taraba	8.906	11.336	2	
+Jakana	Konduga	Borno	11.824	12.852	2	
+Jabullam	Abadam	Borno	13.486	13.115	2	
+Jarawa	Kala-Balge	Borno	11.916	14.352	2	
+Jakusko	Jakusko	Yobe	12.344	10.802	2	
+Jakusko	Jakusko	Yobe	12.411	10.978	2	
+Jama'are A	Jama'Are	Bauchi	11.664	9.919	2	
+Jangu	Ningi	Bauchi	10.911	9.571	2	
+Jama'are D	Jama'Are	Bauchi	11.690	9.922	2	
+Jama'are B	Jama'Are	Bauchi	11.669	9.938	2	
+Janda	Damban	Bauchi	11.540	10.901	2	
+Jadori	Gamawa	Bauchi	12.232	10.574	2	
+Jalam	Damban	Bauchi	11.559	10.823	2	
+Jarkasa	Misau	Bauchi	11.455	10.481	2	
+Jama'are C	Jama'Are	Bauchi	11.657	9.928	2	
+Jama'a	Toro	Bauchi	10.354	9.540	2	
+Jara-Gol	Bayo	Borno	10.267	11.629	2	
+Jara-Dali	Bayo	Borno	10.256	11.734	2	
+Jahi	Municipal Area Council	FCT Abuja	9.108	7.439	2	
+Jada	Jada	Adamawa	8.696	12.322	2	
+Jama'Are	Jama'Are	Bauchi	11.652	9.889	2	
+Jabi	Municipal Area Council	FCT Abuja	9.064	7.422	2	
+Zongon Konbi Jauro Shuaibu	Ardo-Kola	Taraba	8.803	11.050	2	
+Zham	Hawul	Borno	10.464	12.272	2	Jam
+Ybiri	Bama	Borno	11.348	14.075	2	Jabiri|Yabiri
+Wurro Jabbo	Song	Adamawa	10.009	13.003	2	
+Wuro Jauro Tukur	Ardo-Kola	Taraba	8.781	11.088	2	
+Wuro Jauro Maiganga	Shani	Borno	10.098	12.067	2	
+Wuro Jauro Isa	Hong	Adamawa	10.219	12.814	2	
+Wuro Jauro Hamadu	Shani	Borno	10.107	12.070	2	
+Wuro Jauro Dachere	Shelleng	Adamawa	9.999	12.232	2	
+Wuro Jauro Bello	Shani	Borno	10.071	12.061	2	
+Wuro Jauro Barka	Shani	Borno	10.058	12.087	2	
+Wuro Jauro Bakari	Song	Adamawa	9.841	12.988	2	
+Wuro Jaudu Amodu	Fufore	Adamawa	9.551	12.804	2	
+Wuro Jauro Amadu	Guyuk	Adamawa	9.645	12.000	2	
+Wuro Jauro Abdu	Maiha	Adamawa	9.950	13.183	2	
+Wuro Jato	Mayo-Belwa	Adamawa	8.933	12.056	2	
+Wuro Jato	Mayo-Belwa	Adamawa	8.814	11.939	2	
+Wuro Jato	Jada	Adamawa	8.602	12.353	2	
+Wuro Jato	Jada	Adamawa	8.593	12.078	2	
+Wuro Jato	Bali	Taraba	8.531	11.625	2	
+Wuro Jatau	Shani	Borno	10.116	12.069	2	
+Wuro Jatau	Girei	Adamawa	9.472	12.393	2	
+Wuro Jatau	Bali	Taraba	8.345	11.224	2	
+Wuro Jatau	Bali	Taraba	8.169	11.442	2	
+Wuro Jatau	Teungo	Adamawa	7.995	11.511	2	
+Wuro Jam	Gassol	Taraba	8.489	10.245	2	
+Wuro Jalami Hamlets	Gwoza	Borno	10.933	13.550	2	
+Wuro Jabi	Jada	Adamawa	8.861	12.202	2	
+Wuro Jabbo	Gombi	Adamawa	10.184	12.600	2	
+Wauro Jabbe	Yola South	Adamawa	9.261	12.398	2	Wuro Jebbe
+Jajire	Yusufari	Yobe	13.050	11.140	2	Waro
+Wakki Jaleka	Bali	Taraba	8.370	11.146	2	
+Wakiri Jabo	Teungo	Adamawa	7.987	11.992	2	
+Ungwan Jato	Akwanga	Nasarawa	9.148	8.407	2	
+Ungwan Jato	Wamba	Nasarawa	9.013	8.639	2	
+Ungwan Jangel	Kafur	Katsina	11.624	7.663	2	
+Ungwan Jalatu	Bakori	Katsina	11.624	7.595	2	
+Ungwan Jaje	Karaye	Kano	11.763	7.938	2	
+Ungwan Ja’e	Malumfashi	Katsina	11.726	7.611	2	
+Ungwan Jabawa	Giwa	Kaduna	11.164	7.514	2	
+Unguwar Jaja	Toro	Bauchi	10.113	9.140	2	Jaja
+Tunga Jankua	Municipal Area Council	FCT Abuja	8.740	7.527	2	
+Tawa Jabbi	Fufore	Adamawa	9.015	12.388	2	
+Tua	Ardo-Kola	Taraba	9.070	11.102	2	Jakan|Tau
+Sindigawo Jauro Yahaya	Mayo-Belwa	Adamawa	9.181	12.050	2	
+Sabongida Jabare	Gombi	Adamawa	10.058	12.606	2	
+Sabongari Jahadi	Shelleng	Adamawa	10.007	12.021	2	
+Rugar Jatau	Bodinga	Sokoto	12.962	5.129	2	Ruggar Jatau|Tungan Jauta
+Rugan Jauro Adamu	Ganjuwa	Bauchi	10.836	10.374	2	
+Rafin Jatau	Paikoro	Niger	9.231	6.547	2	
+Rafin Jaki	Jos North	Plateau	10.018	8.926	2	
+Pola Jauro Baba	Ganye	Adamawa	8.656	11.901	2	
+Paruji Jabbi	Gombi	Adamawa	10.261	12.717	2	
+Nyukkara Jauro	Maiha	Adamawa	10.054	13.081	2	
+Njoma Jato	Askira-Uba	Borno	10.598	12.969	2	
+Njoboli	Yola North	Adamawa	9.204	12.587	2	Jabolio
+Njobbore	Girei	Adamawa	9.296	12.499	2	Jabura
+Mazan Jadum	Ardo-Kola	Taraba	8.713	11.186	2	
+Mayo Jamtari	Teungo	Adamawa	7.786	11.409	2	
+Mayo Jaa	Teungo	Adamawa	7.724	11.831	2	
+Ungwar Jarau	Karim Lamido	Taraba	9.324	11.114	2	Marabi
+Maga Jayewa	Mafa	Borno	12.215	13.337	2	
+Lumde Jamtari	Mayo-Belwa	Adamawa	8.979	11.920	2	
+Lisa	Odeda	Ogun	7.242	3.593	2	Jagemo
+Lainde Jalo	Fufore	Adamawa	9.063	12.312	2	
+Kolayang-Jauro Bending	Yorro	Taraba	9.053	11.621	2	Kwoliar
+Kurmin Jatau	Jaba	Kaduna	9.586	7.954	2	
+Kugama Jarumei	Mayo-Belwa	Adamawa	9.154	12.016	2	
+Kubaje Jauro Salatu	Maiha	Adamawa	10.001	13.130	2	
+Kona Jabe	Jada	Adamawa	8.841	12.156	2	
+Kaudi Jauro Sule	Gombi	Adamawa	10.146	12.600	2	
+Karlahi Jauro Adamu	Fufore	Adamawa	9.069	12.878	2	
+Jiman Jangale	Teungo	Adamawa	7.835	11.720	2	
+Jama'an Gayan	Kokona	Nasarawa	8.711	7.935	2	Jama'anGayan|Jemaan Gayam|JemaanGayam
+Jagara Waji	Ngala	Borno	12.420	14.125	2	Jegara Waji
+Jazu	Paikoro	Niger	9.428	6.668	2	
+Jazaka	Kaura Namoda	Zamfara	12.444	6.665	2	
+Jaydna	Shiroro	Niger	10.317	6.883	2	
+Jaya	Garki	Jigawa	12.387	9.184	2	
+Jawur	Jakusko	Yobe	12.740	10.922	2	
+Jawo	Giade	Bauchi	11.557	10.257	2	
+Yammia	Yusufari	Yobe	13.009	10.978	2	Jawa
+Jawa	Barde	Yobe	12.814	11.040	2	
+Javela	Ushongo	Benue	7.202	8.920	2	
+Jauro Zinki	Bali	Taraba	8.279	11.039	2	
+Jauro Yahaya	Mayo-Belwa	Adamawa	8.780	11.927	2	
+Jauro Wundingo	Ganye	Adamawa	8.574	11.862	2	
+Jauro Wangu	Jada	Adamawa	8.500	12.298	2	
+Jauro Wala	Ardo-Kola	Taraba	8.694	11.178	2	
+Jauro Voti	Jalingo	Taraba	8.991	11.268	2	
+Jauro Umaru	Jada	Adamawa	8.466	12.090	2	
+Jauro-Umaru	Ganye	Adamawa	8.407	12.070	2	Jauro Umaru|JauroUmaru
+Jauro Tuku	Akko	Gombe	10.068	11.204	2	
+Jauro Tapare	Jada	Adamawa	8.600	12.406	2	
+Jauro Sule	Akko	Gombe	9.889	11.028	2	
+Yoro Sidi	Gassol	Taraba	8.176	10.337	2	Jauro Sidi
+Jauro Shomwa	Ardo-Kola	Taraba	8.817	11.281	2	
+Jauro Shofo	Jalingo	Taraba	8.925	11.284	2	
+Jauro Sheudo	Ardo-Kola	Taraba	8.833	11.293	2	
+Jauro Shebu	Bali	Taraba	8.436	11.090	2	
+Jauro Sent	Ardo-Kola	Taraba	8.822	11.286	2	
+Jauro Saweli	Jada	Adamawa	8.686	12.178	2	
+Jauro Sanda	Ardo-Kola	Taraba	8.789	11.335	2	
+Jauro Sale	Yamaltu/Deba	Gombe	10.237	11.402	2	
+Jauro-Papa	Jada	Adamawa	8.474	12.101	2	Jauro Papa|JauroPapa
+Jauro Nyama	Ardo-Kola	Taraba	8.743	11.228	2	
+Jauro Nubin	Jalingo	Taraba	8.944	11.265	2	
+Jauro Noko	Jalingo	Taraba	8.970	11.274	2	
+Jauro Misa	Mayo-Belwa	Adamawa	8.899	12.166	2	
+Jauro Mashi	Ardo-Kola	Taraba	8.735	11.203	2	
+Jauro Mani Nzebe	Zing	Taraba	8.901	11.636	2	
+Jauro Mallam	Bayo	Borno	10.328	11.818	2	
+Jauro Majo	Ardo-Kola	Taraba	8.708	11.250	2	
+Jauro Maje	Ardo-Kola	Taraba	8.756	11.377	2	
+Jauro Magu	Yorro	Taraba	8.911	11.435	2	
+Jauro Luman	Fufore	Adamawa	8.960	12.404	2	
+Jauro Kurungu	Ardo-Kola	Taraba	8.743	11.053	2	
+Jauro Kubura	Jada	Adamawa	8.514	12.298	2	
+Jauro Kedu	Jada	Adamawa	8.902	12.193	2	
+Jauro Karlahi	Fufore	Adamawa	8.938	12.406	2	
+Jauro Jalo	Ardo-Kola	Taraba	8.825	11.288	2	
+Jauro Joda	Jada	Adamawa	8.695	11.989	2	
+Jauro Joda	Jada	Adamawa	8.649	12.117	2	
+Jauro-Iya	Ganye	Adamawa	8.218	12.098	2	Jauro Iya|JauroIya
+Jauro Hamma Tukar	Maiha	Adamawa	10.004	13.090	2	
+Jauro Hamawa	Jada	Adamawa	8.610	12.269	2	
+Jauro Haman	Mayo-Belwa	Adamawa	8.643	11.872	2	
+Jauro Hamajoda	Jada	Adamawa	8.807	12.170	2	
+Jauro Gotel	Bali	Taraba	8.245	11.088	2	
+Jauro-Gotel	Teungo	Adamawa	8.147	12.028	2	Jauro Gotel|JauroGotel
+Jauro Gomki	Bali	Taraba	8.408	11.133	2	
+Jauro Gombi	Demsa	Adamawa	9.266	12.034	2	
+Jauro Girji	Bali	Taraba	8.439	11.113	2	
+Jauro Gelado	Jada	Adamawa	8.768	12.225	2	
+Jauro Gatani	Bali	Taraba	7.982	11.315	2	
+Jauro Garmaho	Shendam	Plateau	8.967	9.417	2	
+Jauro Garba	Teungo	Adamawa	8.111	12.044	2	
+Jauro Ganau	Kwami	Gombe	10.541	11.016	2	
+Jauro Gabdo	Bali	Taraba	8.441	11.114	2	
+Jauro Fuen	Jada	Adamawa	8.516	12.076	2	
+Jauro Duvo	Ardo-Kola	Taraba	8.736	11.241	2	
+Jauro Dogo	Ardo-Kola	Taraba	8.742	11.255	2	
+Jauro Dewa	Teungo	Adamawa	7.717	11.889	2	
+Jauro Danwei	Ardo-Kola	Taraba	8.828	11.287	2	
+Jauro Buba	Mayo-Belwa	Adamawa	8.995	12.039	2	
+Jauro Buba	Mayo-Belwa	Adamawa	8.726	11.833	2	
+Jauro Buba	Jada	Adamawa	8.642	12.095	2	
+Jauro Boli	Fufore	Adamawa	8.865	12.236	2	
+Jauro Bello	Jada	Adamawa	8.734	12.561	2	
+Jauro Belleri	Bali	Taraba	8.379	11.110	2	
+Jauro Belel	Jada	Adamawa	8.617	12.406	2	
+Jauro Ba Nasarawo	Zing	Taraba	8.883	11.824	2	
+Jauro Bamvo	Jalingo	Taraba	8.903	11.317	2	
+Jauro Babale	Fufore	Adamawa	8.831	12.389	2	
+Jauro Baba	Nafada	Gombe	11.042	11.168	2	
+Jauro Baba	Akko	Gombe	10.073	11.006	2	
+Jauro Awa	Ardo-Kola	Taraba	8.624	11.240	2	
+Jauro Amadu	Kwami	Gombe	10.545	11.008	2	
+Jauro Amadu	Jada	Adamawa	8.561	12.344	2	
+Jauro Alim	Jada	Adamawa	8.740	12.147	2	
+Jauro Ali	Funakaye	Gombe	10.872	11.390	2	
+Jauro Alhaji	Jada	Adamawa	8.618	12.041	2	
+Jauro Adamu Yampina	Bali	Taraba	8.461	11.147	2	
+Jauro Adamu Jiri	Fufore	Adamawa	8.879	12.253	2	
+Jauro Adamu	Ardo-Kola	Taraba	8.811	11.330	2	
+Jauro Adamu	Ardo-Kola	Taraba	8.629	11.245	2	
+Jauro Abo	Fufore	Adamawa	8.769	12.462	2	
+Jauro Abdulahi	Jada	Adamawa	8.704	12.174	2	
+Jauro Abdulahi	Jada	Adamawa	8.624	12.059	2	
+Jauro Abba	Ardo-Kola	Taraba	8.747	11.218	2	
+Jauro Abba	Ardo-Kola	Taraba	8.615	11.226	2	
+Jauro Abare	Nafada	Gombe	10.929	11.305	2	
+Jauro	Toro	Bauchi	10.293	9.351	2	
+Jaurara	Kwaya Kusar	Borno	10.322	11.870	2	
+Jauke	Obafemi Owode	Ogun	7.052	3.472	2	
+Jatso	Konshisha	Benue	7.108	8.639	2	
+Jatou	Wukari	Taraba	7.817	10.006	2	
+Jatou	Kurmi	Taraba	7.172	10.980	2	
+Jato-Kanshio	Konshisha	Benue	7.053	8.621	2	
+Jato	Ori Ire	Oyo	8.317	4.331	2	
+Jato	Omala	Kogi	7.867	7.417	2	
+Jato	Konshisha	Benue	7.385	8.581	2	
+Jato	Konshisha	Benue	7.188	8.617	2	
+Jatitor	Sapele	Delta	5.722	5.666	2	
+Jatina	Ife North	Osun	7.389	4.422	2	
+Jatayi	Paikoro	Niger	9.496	6.797	2	
+Jatawo	Akinyele	Oyo	7.557	3.958	2	
+Jatau Tiv	Bali	Taraba	7.842	10.608	2	Jatau
+Jatau Sobti	Bali	Taraba	8.244	11.101	2	
+Jatau Dakum	Bali	Taraba	8.493	11.132	2	
+Jatau	Ardo-Kola	Taraba	8.644	11.299	2	
+Jatau	Bali	Taraba	8.478	11.419	2	
+Jatau	Bali	Taraba	8.346	11.063	2	
+Jatau	Bali	Taraba	8.245	11.106	2	
+Jatau	Teungo	Adamawa	7.981	11.540	2	
+Jatau	Bali	Taraba	7.720	10.392	2	
+Jatan Imo	Bali	Taraba	7.865	10.628	2	
+Jatadna	Chikun	Kaduna	10.400	7.033	2	
+Jassi	Lau	Taraba	9.058	11.384	2	
+Jasori	Zing	Taraba	8.969	11.643	2	
+Jasori	Zing	Taraba	8.918	11.731	2	
+Jasenu	Surulere	Oyo	8.033	4.367	2	
+Jasegi	Katcha	Niger	8.870	6.227	2	
+Jarmari	Gamawa	Bauchi	11.825	10.643	2	
+Jarma Gansa	Bali	Taraba	8.404	11.103	2	
+Jarmi	Fika	Yobe	11.618	11.231	2	Jarma
+Jarkasa	Kaugama	Jigawa	12.767	9.747	2	
+Jariga	Gurara	Niger	9.315	6.755	2	
+Jargaba	Goronyo	Sokoto	13.559	5.911	2	Jergaba
+Jargaba	Bakori	Katsina	11.676	7.449	2	
+Jarendi	Ganye	Adamawa	8.538	11.915	2	
+Jare	Biu	Borno	10.709	12.163	2	
+Jarawan Kogi	Jos East	Plateau	10.017	9.133	2	
+Jaranso	Aiyedade	Osun	7.345	4.347	2	
+Jarang	Bali	Taraba	8.202	11.350	2	
+Jaranda	Jada	Adamawa	8.642	12.189	2	
+Jaranda	Jada	Adamawa	8.592	12.098	2	
+Jaragwol	Bayo	Borno	10.223	11.617	2	
+Jara	Hawul	Borno	10.411	12.131	2	
+Jara	Gombi	Adamawa	10.123	12.561	2	
+Jabbe	Fika	Yobe	11.295	11.137	2	Japde
+Jaori	Konduga	Borno	11.800	13.034	2	
+Jantulu	Arewa Dandi	Kebbi	12.894	4.093	2	Fantalu
+Janrua	Bama	Borno	11.317	14.233	2	
+Jan Kyankyan	Karaye	Kano	11.783	7.883	2	
+Jan Kyankyan	Karaye	Kano	11.783	7.867	2	
+Jankunvo	Jalingo	Taraba	8.945	11.284	2	
+Jankuka	Safana	Katsina	12.344	7.290	2	
+Jankollawa	Malumfashi	Katsina	11.879	7.834	2	
+Jankata	Ibarapa East	Oyo	7.553	3.537	2	
+Jankassa	Zangon Kataf	Kaduna	9.715	8.465	2	Jankasa
+Jankar	Awe	Nasarawa	8.454	9.346	2	
+Janka Dusu	Hawul	Borno	10.503	12.125	2	
+Janjin	Bassa	Plateau	10.060	8.714	2	
+Janjala	Kagarko	Kaduna	9.547	7.681	2	
+Janjabulan	Fika	Yobe	11.526	11.179	2	
+Jani	Mani	Katsina	12.830	7.808	2	
+Janhol	Ganye	Adamawa	8.440	12.081	2	
+Janguza	Tofa	Kano	11.958	8.381	2	
+Jangti	Song	Adamawa	9.719	12.956	2	
+Jangjangre	Fufore	Adamawa	9.222	12.738	2	
+Jangira	Dukku	Gombe	10.675	10.610	2	
+Jang	Shani	Borno	10.217	11.982	2	Jangi
+Jangi	Mokwa	Niger	9.267	5.217	2	
+Jan Gwara	Kiyawa	Jigawa	11.683	9.517	2	
+Jangero	Shinkafi	Zamfara	12.987	6.489	2	
+Jangen Nagora	Kafur	Katsina	11.751	7.766	2	
+Jangefe	Kubau	Kaduna	11.062	8.336	2	
+Jange	Bayo	Borno	10.251	11.791	2	Zange
+Jangaru	Rafi	Niger	9.829	6.064	2	
+Jangaru	Bosso	Niger	9.626	6.447	2	
+Jangari	Garki	Jigawa	12.443	9.087	2	
+Jangargari	Birnin Kudu	Jigawa	11.500	9.633	2	
+Jangare	Bali	Taraba	8.533	11.488	2	
+Jangarawa	Buji	Jigawa	11.600	9.783	2	
+Jangara	Song	Adamawa	10.020	12.453	2	
+Janga Maro	Fika	Yobe	11.468	11.075	2	
+Jangalawaji	Fika	Yobe	11.456	11.663	2	
+Jangala	Gombi	Adamawa	10.257	12.391	2	
+Jangade	Funakaye	Gombe	10.685	11.439	2	
+Jangadagu	Sumaila	Kano	11.361	8.882	2	
+Janfalan	Ikara	Kaduna	11.150	8.233	2	
+Jandu	Kachia	Kaduna	9.907	7.974	2	
+Jande	Tarka	Benue	7.663	8.808	2	
+Jandang	Shani	Borno	10.226	11.770	2	
+Janda	Damban	Bauchi	11.527	10.878	2	
+Janda	Danja	Katsina	11.411	7.578	2	
+Janbargu	Jalingo	Taraba	8.935	11.296	2	
+Jana	Gulani	Yobe	10.789	11.671	2	
+Jana	Afijio	Oyo	7.740	3.743	2	
+Jan	Riyom	Plateau	9.509	8.726	2	
+Jamtari	Gujba	Yobe	11.293	11.848	2	
+Jamtali	Jada	Adamawa	8.680	12.090	2	
+Jampuli	Ganye	Adamawa	8.592	11.949	2	
+Jamoje	Akinyele	Oyo	7.478	3.901	2	
+Jamji	Akko	Gombe	10.385	10.891	2	
+Jamiri	Bali	Taraba	7.851	10.992	2	
+Jamdudi	Fufore	Adamawa	9.015	12.261	2	
+Jamda	Bauchi	Bauchi	10.063	9.697	2	
+Jambutu	Song	Adamawa	10.007	12.513	2	
+Jambutu	Fufore	Adamawa	9.553	12.862	2	
+Jambutu	Yola South	Adamawa	9.288	12.424	2	
+Jambutu	Lau	Taraba	9.201	11.451	2	
+Jambil	Tafawa-Balewa	Bauchi	9.951	9.753	2	
+Jam Bari	Zaki	Bauchi	12.366	10.667	2	Jamberi
+Jambari	Kanam	Plateau	9.460	9.938	2	
+Jambalo	Kwami	Gombe	10.480	11.258	2	
+Jamaga	Miga	Jigawa	12.304	9.662	2	
+Jama’ar Gade Bawa	Garki	Jigawa	12.414	9.238	2	
+Jama’are	Rijau	Niger	11.075	5.285	2	
+Jamaan Mamar	Kiyawa	Jigawa	11.933	9.800	2	
+Jamaa Kosa	Karaye	Kano	11.777	7.998	2	
+Jamaa	Gwarzo	Kano	11.810	7.868	2	
+Jamaa	Jada	Adamawa	8.540	12.010	2	
+Jam	Kanam	Plateau	9.426	10.090	2	
+Jam	Takum	Taraba	7.467	10.100	2	
+Jam	Kwande	Benue	6.854	9.502	2	
+Jalori	Kaga	Borno	11.517	12.429	2	
+Ehoroke	Warri North	Delta	5.774	5.070	2	Jalla
+Jalkatari Madaki	Funakaye	Gombe	10.687	11.395	2	
+Jalingo Tara	Maiha	Adamawa	9.643	13.149	2	
+Jalingo Pewuri	Maiha	Adamawa	10.080	13.171	2	
+Jalingo Maiha	Maiha	Adamawa	10.062	13.183	2	
+Jalingo Fulani	Jada	Adamawa	8.716	12.378	2	
+Jalingo Faran	Fufore	Adamawa	9.578	12.995	2	
+Jalingo Dukuma	Mubi North	Adamawa	10.389	13.211	2	
+Jalingo Chamba	Jada	Adamawa	8.723	12.409	2	
+Jalingo	Shira	Bauchi	11.399	10.059	2	
+Jalingo	Nafada	Gombe	10.882	11.308	2	
+Jalingo	Shelleng	Adamawa	10.311	12.310	2	
+Jalingo	Hong	Adamawa	10.288	12.959	2	
+Jalingo	Hong	Adamawa	10.210	12.818	2	
+Jalingo	Hong	Adamawa	10.104	12.950	2	
+Jalingo	Song	Adamawa	10.022	13.039	2	
+Jalingo	Shelleng	Adamawa	9.978	12.075	2	Yolian
+Jalingo	Maiha	Adamawa	9.935	13.078	2	
+Jalingo	Fufore	Adamawa	9.260	12.687	2	
+Jalingo	Yola South	Adamawa	9.251	12.459	2	
+Jalingo	Jada	Adamawa	8.774	12.336	2	
+Jalingo	Ganye	Adamawa	8.464	12.178	2	
+Jalima	Hawul	Borno	10.538	12.350	2	
+Jali	Dawakin Tofa	Kano	12.182	8.463	2	
+Jali	Jos East	Plateau	10.020	9.169	2	
+Jalango	Fufore	Adamawa	8.929	12.497	2	
+Jalam	Damban	Bauchi	11.568	10.842	2	
+Jala	Fune	Yobe	11.753	11.248	2	
+Jal	Riyom	Plateau	9.660	8.633	2	Garuwa
+Dansu	Lavun	Niger	9.330	5.574	2	Jakudosu
+Ugogegin	Warri North	Delta	5.791	5.074	2	Jakpa
+Jakpa	Okpe	Delta	5.711	5.724	2	
+Jakoro	Tafa	Niger	9.244	7.295	2	
+Jakoli	Mayo-Belwa	Adamawa	8.845	11.955	2	
+Jakka	Teungo	Adamawa	7.806	11.675	2	
+Jakari	Kwaya Kusar	Borno	10.472	11.975	2	
+Jakankan	Aiyedade	Osun	7.264	4.309	2	
+Jakadi	Nangere	Yobe	11.752	11.089	2	
+Jaka	Shira	Bauchi	11.400	10.000	2	
+Jaka	Ido	Oyo	7.428	3.716	2	
+Jaju Budo Nla	Asa	Kwara	8.317	4.467	2	Liasu
+Jaju	Asa	Kwara	8.317	4.433	2	
+Jajiyaya	Fika	Yobe	11.326	11.174	2	
+Jajibiriri	Yunusari	Yobe	13.002	11.862	2	
+Lajere	Fune	Yobe	11.980	11.440	2	Jajere
+Jaja Hurga	Rafi	Niger	10.283	6.450	2	
+Jaja	Lere	Kaduna	10.442	8.674	2	
+Jahuri	Sumaila	Kano	11.301	9.060	2	
+Jahunawa	Misau	Bauchi	11.467	10.617	2	
+Jahuna	Wukari	Taraba	8.169	10.151	2	
+Jahi	Municipal Area Council	FCT Abuja	9.104	7.442	2	
+Jagwana	Shiroro	Niger	10.081	6.819	2	
+Jagun-Olorunda	Ibarapa North	Oyo	7.503	3.136	2	Jagun Olorunda|JagunOlorunda
+Jagunode	Ibarapa Central	Oyo	7.390	3.236	2	
+Jagunode	Aiyedade	Osun	7.174	4.372	2	
+Jagun-Elesin	Ona Ara	Oyo	7.355	3.982	2	Jagun Elesin
+Jagun	Ede South	Osun	7.638	4.445	2	Jagun Ede|JagunEde
+Jaguna	Odeda	Ogun	7.381	3.535	2	
+Jaguna	Odeda	Ogun	7.344	3.222	2	
+Jaguna	Obafemi Owode	Ogun	7.128	3.479	2	
+Jaguna	Ewekoro	Ogun	6.856	3.307	2	
+Jaguna	Epe	Lagos	6.540	3.970	2	
+Jagun	Ori Ire	Oyo	8.502	4.276	2	
+Jagun	Itesiwaju	Oyo	8.268	3.652	2	
+Jagun	Ogbomosho South	Oyo	8.068	4.284	2	
+Jagun	Ogo Oluwa	Oyo	8.023	4.175	2	
+Jagun	Ede South	Osun	7.622	4.455	2	
+Jagun	Lagelu	Oyo	7.507	4.145	2	
+Jagun	Ibarapa North	Oyo	7.499	3.147	2	
+Jagun	Aiyedade	Osun	7.398	4.327	2	
+Jagun	Oluyole	Oyo	7.261	3.926	2	
+Jagun	Ewekoro	Ogun	7.055	3.247	2	
+Jagulu	Odeda	Ogun	7.206	3.563	2	
+Jagogi	Katcha	Niger	9.007	6.162	2	
+Jagindi	Jema'A	Kaduna	9.384	8.208	2	
+Jaggu	Fufore	Adamawa	9.006	12.376	2	
+Jaggu	Jada	Adamawa	8.494	12.189	2	
+Jagemo	Odeda	Ogun	7.260	3.601	2	
+Jagbodo	Paikoro	Niger	9.446	6.977	2	
+Jagbe	Ori Ire	Oyo	8.426	4.230	2	
+Jagbe	Surulere	Oyo	7.978	4.417	2	
+Jagbe	Etsako West	Edo	6.826	6.285	2	
+Jagbada	Abeokuta North	Ogun	7.168	3.100	2	
+Jagba	Konshisha	Benue	7.414	8.612	2	
+Jagana	Gamawa	Bauchi	12.204	10.506	2	
+Jagana	Gwaram	Jigawa	11.401	9.756	2	
+Jagali	Yamaltu/Deba	Gombe	10.134	11.645	2	Jagale
+Jagabay Ugwa	Shiroro	Niger	10.067	6.750	2	
+Jaga	Gwarzo	Kano	11.902	7.857	2	
+Jafegi	Arewa Dandi	Kebbi	12.632	3.913	2	
+Jaekil	Jama'Are	Bauchi	11.676	10.014	2	
+Jadadi	Jega	Kebbi	12.217	4.517	2	
+Jada	Kirfi	Bauchi	10.254	10.763	2	
+Jada	Kurmi	Taraba	7.088	10.806	2	
+Jaccingo	Fufore	Adamawa	9.122	12.345	2	
+Jabular	Kwami	Gombe	10.373	11.060	2	
+Jabu	Sardauna	Taraba	6.841	11.471	2	
+Jabshili	Hong	Adamawa	10.133	13.013	2	
+Jabo	Paikoro	Niger	9.429	6.692	2	
+Jabi	Ushongo	Benue	7.211	8.906	2	
+Jabi	Konshisha	Benue	7.093	8.631	2	
+Jabela	Markurdi	Benue	7.676	8.605	2	
+Jabdo	Misau	Bauchi	11.452	10.450	2	
+Jabbo Kokri	Teungo	Adamawa	7.748	12.013	2	
+Jabata	Surulere	Oyo	8.243	4.396	2	
+Jabansi	Zing	Taraba	8.926	11.763	2	
+Jaban Kogo	Kachia	Kaduna	9.656	8.086	2	
+Jaaji Villages	Gwoza	Borno	10.969	13.586	2	
+Gwoi	Agaie	Niger	9.139	6.446	2	Jazu
+Gura Jawa	Nafada	Gombe	10.892	11.332	2	
+Guidan Jatto	Gusau	Zamfara	12.140	6.978	2	Gidan Jatto
+Gidan Jatto	Chikun	Kaduna	10.400	7.455	2	
+Mazaki	Zangon Kataf	Kaduna	9.868	8.418	2	Gidan Jatto
+Gidan Jatau	Zangon Kataf	Kaduna	9.857	8.386	2	Gidan Jatto
+Gidan Jato	Kachia	Kaduna	10.100	7.450	2	
+Gidan Jatau	Kachia	Kaduna	9.950	7.520	2	Mai-Gari
+Gidan Jatau	Donga	Taraba	7.431	10.379	2	
+Gidan Jan Bako	Rafi	Niger	10.067	6.250	2	
+Guidan Janari	Bungudu	Zamfara	12.136	6.505	2	Gidan Janari
+Garin Sarkin Janga	Fune	Yobe	11.646	11.305	2	
+Garin Mallam Jatau	Dukku	Gombe	10.522	10.679	2	
+Garin Jauro Manu	Gassol	Taraba	8.568	10.957	2	Jauro Manu
+Garin Jauro Gurama	Ardo-Kola	Taraba	8.778	10.934	2	
+Garin Jauro Bose	Ardo-Kola	Taraba	8.818	11.341	2	
+Garin Jauro Babba	Gassol	Taraba	8.543	10.988	2	
+Garin Jauro Adamu	Bali	Taraba	8.462	11.113	2	
+Garin Jatau	Bali	Taraba	7.905	10.655	2	
+Garin Jangam	Fika	Yobe	11.262	11.220	2	
+Gambo Jatau	Bali	Taraba	7.722	10.507	2	
+Dongo Jaure Usman	Gombi	Adamawa	10.215	12.700	2	
+Dendi Jawere	Zing	Taraba	8.711	11.794	2	
+Dar-El-Jamal	Bama	Borno	11.326	13.967	2	Dar el Jamal|Dar-al-Jimeil|Dar-el-Jimel
+Dan Janku	Musawa	Katsina	12.047	7.703	2	
+Dan Jaba	Soba	Kaduna	10.835	7.856	2	
+Dan Jaba	Lere	Kaduna	10.383	8.632	2	
+Dagon Jaji	Jama'Are	Bauchi	11.741	9.957	2	
+Chofa-Jaule	Fufore	Adamawa	9.316	12.865	2	Chofa Jaule|Dulo
+Auro Jamari	Shani	Borno	10.095	11.873	2	
+Arna Jatau	Ganye	Adamawa	8.313	12.005	2	
+Angwan Jakada	Kagarko	Kaduna	9.452	7.790	2	Anguwar Jekada|Jekada
+Akumza Janme	Lafia	Nasarawa	8.469	8.599	2	Akunzan
+Ajegunle-Jankiri	Oyun	Kwara	8.145	4.560	2	Ajegunle Jankiri|AjegunleJankiri
+Abba Jabari	Magumeri	Borno	12.213	13.108	2	
+Jawu	Karu	Nasarawa	9.083	7.600	2	
+Jama an Sani Baka	Igabi	Kaduna	10.719	7.392	2	
+Japota	Afijio	Oyo	7.746	3.947	2	
+Japata	Afijio	Oyo	7.742	3.906	2	
+Jagun	Afijio	Oyo	7.710	3.787	2	
+Jarija	Ido	Oyo	7.632	3.758	2	
+Jagun	Akinyele	Oyo	7.547	3.966	2	
+Mai Jama’a	Kumbotso	Kano	11.934	8.414	2	
+Janjala	Kokona	Nasarawa	8.978	7.975	2	
+Jaba Boti	Karu	Nasarawa	8.749	7.889	2	
+Jamtari	Hong	Adamawa	10.254	13.026	2	
+Jan lamba	Hong	Adamawa	10.307	13.127	2	
+Jaba	Damboa	Borno	11.099	13.016	2	
+Jameri	Kala-Balge	Borno	11.662	14.341	2	
+Jabari	Bama	Borno	11.535	14.057	2	
+Maga Jayewa Masu	Mafa	Borno	12.215	13.338	2	
+Jabullam	Abadam	Borno	13.514	13.080	2	
+Jacobkiri	Akuku Toru	Rivers	4.485	6.664	2	
+Jambu	Ifo	Ogun	6.790	3.154	2	
+Jako-Petedo	Ado Odo/Ota	Ogun	6.514	3.077	2	
+Janoke	Ìkòròdú	Lagos	6.677	3.620	2	
+Jaguna	Ewekoro	Ogun	6.910	3.218	2	
+Jaguna	Obafemi Owode	Ogun	6.899	3.504	2	
+Jange	Shelleng	Adamawa	10.163	12.226	2	
+Jamjam	Shani	Borno	10.217	12.024	2	
+Jange	Hawul	Borno	10.286	12.131	2	
+Jangta	Hawul	Borno	10.300	12.069	2	
+Kwana Jauro Borono	Hawul	Borno	10.314	12.163	2	
+Jabura	Hawul	Borno	10.359	12.085	2	
+Jaga	Gwer West	Benue	7.768	8.264	2	
+Jado	Guma	Benue	7.954	8.420	2	
+Ago-Jabo	Irele	Ondo	6.379	4.984	2	
+Jama’a Malamai	Yankwashi	Jigawa	12.795	8.514	2	
+Jama’a Liman Garba	Yankwashi	Jigawa	12.760	8.531	2	
+Jan Sa’a	Babura	Jigawa	12.637	8.834	2	
+Janzomo	Babura	Jigawa	12.630	8.912	2	
+Jabar	Tsanyawa	Kano	12.189	8.019	2	
+Jama’a	Tsanyawa	Kano	12.190	8.077	2	
+Jarmawa	Bagwai	Kano	12.079	8.136	2	
+Jami’s Dandal Yandemo	Babura	Jigawa	12.410	8.775	2	
+Jarkuka	Gezawa	Kano	12.015	8.837	2	
+Jagwardo	Sandamu	Katsina	12.876	8.362	2	
+Jammajen Kudu	Gwiwa	Jigawa	12.679	8.271	2	
+Jabaro	Bindawa	Katsina	12.681	7.828	2	
+Dan Jakko	Charanchi	Katsina	12.631	7.703	2	
+Koda Jalli	Charanchi	Katsina	12.627	7.715	2	
+Jaka	Dutsin Ma	Katsina	12.547	7.589	2	
+Gidan Jataobuki	Rafi	Niger	10.308	6.209	2	
+Jatayi	Shiroro	Niger	10.278	6.817	2	
+Gidan Jato Simamba	Rafi	Niger	10.215	6.220	2	
+Jagu	Illela	Sokoto	13.567	5.465	2	
+Tungan Jakai	Gwadabawa	Sokoto	13.455	5.517	2	
+Tungan Jato	Agwara	Niger	10.605	4.435	2	
+Tungan Jato	Agwara	Niger	10.612	4.428	2	
+Janyau	Magama	Niger	10.002	4.721	2	
+Jatalawa	Gada	Sokoto	13.765	5.605	2	
+Jamboriji	Gwarzo	Kano	11.957	7.906	2	
+Jan Ruwa	Kankara	Katsina	11.908	7.488	2	
+Jaga	Kankara	Katsina	11.886	7.380	2	
+Jaje	Gwarzo	Kano	11.862	7.890	2	
+Jamaa Makuku	Gwarzo	Kano	11.825	7.975	2	
+Jangen Mani	Kafur	Katsina	11.745	7.774	2	
+Jargaba	Kafur	Katsina	11.712	7.753	2	
+Jatau	Bakori	Katsina	11.692	7.417	2	
+Jarumai	Danja	Katsina	11.532	7.439	2	
+Jaki	Sabuwa	Katsina	11.448	7.072	2	
+Jarumai	Dandume	Katsina	11.463	7.147	2	
+Ungwan Idi Mai Jakkai	Dandume	Katsina	11.444	7.300	2	
+Ungwan Jatau	Sabuwa	Katsina	11.212	7.149	2	
+Jagala	Fakai	Kebbi	11.573	4.662	2	
+Oro-Jango	Fakai	Kebbi	11.473	4.813	2	
+Tajigidi Jaaparu	Shanga	Kebbi	11.305	4.566	2	
+Janrua	Koko-Besse	Kebbi	11.323	4.230	2	
+Jaghala	Warri South-West	Delta	5.595	5.265	2	
+Jagarau	Akko	Gombe	10.352	10.949	2	
+Jauro Bappa	Akko	Gombe	10.092	10.993	2	
+Jalingo	Akko	Gombe	10.302	10.928	2	
+Jasha Amadu	Argungu	Kebbi	12.643	4.477	2	
+Janare	Jega	Kebbi	12.207	4.310	2	
+Janbarde	Gwarzo	Kano	11.940	8.043	2	
+Jama an	Kiru	Kano	11.753	8.110	2	
+Jangaru	Rano	Kano	11.490	8.573	2	
+Ungwan Jaka	Ikara	Kaduna	11.443	8.115	2	
+Jammaje	Tudun Wada	Kano	11.246	8.355	2	
+Ungwar Jato	Doguwa	Kano	11.140	8.535	2	
+Jaweregbene	Patani	Delta	5.232	6.174	2	
+James Camp	Patani	Delta	5.152	6.090	2	
+Jahun	Jahun	Jigawa	12.080	9.555	2	Agbegbe Ijoba Ibile Jahun|Jahun Local Government Area
+Jama'Are	Jama'Are	Bauchi	11.722	9.913	2	Jama'are|Jama'are Local Government Area
+Jema'A	Jema'A	Kaduna	9.383	8.268	2	Jama'a|Jama'a Local Government Area|Jema'a|Jemaa
+Jaba	Jaba	Kaduna	9.482	8.044	2	Agbegbe Ijoba Ibile Jaba|Jaba Local Government Area|jab  nayjyrya
+Yamaltu/Deba	Yamaltu/Deba	Gombe	10.238	11.442	2	Agbegbe Ijoba Ibile Yamaltu/Deba|Jamaltu/Deba|Yamaltu/Deba Local Government Area|ya ma er tu/de ba|yamaltw/dba|yamarutou
+Jakusko	Jakusko	Yobe	12.456	10.912	2	Agbegbe Ijoba Ibile Jakusko|Dzakusko|Dzhakusko|Jakuskas|Jakusko Local Government Area|Tzakousko|cakhas kho|jakskko|jakus
+Wuro Jauro Bakare	Maiha	Adamawa	9.669	13.201	2	
+Jalingo Sadu	Maiha	Adamawa	9.996	13.093	2	
+Jamtari	Maiha	Adamawa	9.889	13.136	2	
+Lugga Jauro Usmanu	Maiha	Adamawa	9.958	13.283	2	
+Jeba-Jaba	Maiha	Adamawa	9.975	13.230	2	
+Mayo Jaule	Maiha	Adamawa	9.945	13.202	2	
+Jamtari	Maiha	Adamawa	9.751	13.115	2	
+Karum Jalomi	Marte	Borno	12.457	13.931	2	
+Jaja’a	Monguno	Borno	12.568	13.692	2	
+Wuru Jauro	Mubi North	Adamawa	10.265	13.286	2	
+Jangama	Nafada	Gombe	11.137	11.178	2	
+Jajiri	Fune	Yobe	11.995	11.120	2	
+Jada	Fune	Yobe	11.646	11.409	2	
+Jouro-Jallo	Gulani	Yobe	11.054	11.760	2	
+Namtari Jambuti	Madagali	Adamawa	10.881	13.640	2	
+Jamare	Madagali	Adamawa	10.857	13.610	2	
+Jaruwa	Jos North	Plateau	9.921	8.871	2	
+Jantar Extension	Jos North	Plateau	9.938	8.871	2	
+Garin Jauro Jingi	Gassol	Taraba	8.306	10.611	2	
+Jauben Kudu	Tofa	Kano	12.037	8.328	2	
+Jakana	Konduga	Borno	11.812	12.823	2	
+Jabbo	Kafin Hausa	Jigawa	12.315	10.061	2	
+Jajaye	Rogo	Kano	11.540	7.966	2	
+Jandutse	Tudun Wada	Kano	11.277	8.424	2	
+Feske-Jaffeji	Arewa Dandi	Kebbi	12.681	3.953	2	
+Lema-Jantullu	Arewa Dandi	Kebbi	12.980	4.213	2	
+Jandutsi Birnin Malam	Jega	Kebbi	12.054	4.538	2	
+Jabo-Kagara	Tambuwal	Sokoto	12.398	5.029	2	
+Jawa G Dole	Borsari	Yobe	12.804	11.198	2	
+Jaji  Maji	Karasuwa	Yobe	12.910	10.807	2	
+Jawur Katamma	Jakusko	Yobe	12.716	10.949	2	
+Jakusko	Jakusko	Yobe	12.343	10.818	2	
+Janbako	Maradun	Zamfara	12.769	6.147	2	
+Jama A	Sabon Gari	Kaduna	11.143	7.662	2	
+Jagindi	Jema'A	Kaduna	9.340	8.250	2	
+Gidan Jatau	Zangon Kataf	Kaduna	9.677	8.205	2	
+Jangeru	Shinkafi	Zamfara	12.972	6.514	2	
+Jarkasa	Misau	Bauchi	11.454	10.490	2	
+Jangu	Ningi	Bauchi	10.893	9.565	2	
+Jama'a	Toro	Bauchi	10.197	9.506	2	
+Jaga	Gwer West	Benue	7.683	8.128	2	
+Jato	Buruku	Benue	7.506	9.026	2	
+Jato	Wukari	Taraba	7.909	9.510	2	
+Jape	Katsina-Ala	Benue	7.521	9.843	2	
+Jato	Takum	Taraba	7.599	9.947	2	
+Jape	Gboko	Benue	7.343	9.085	2	
+Jande	Gboko	Benue	7.293	9.053	2	
+Jabi	Katsina-Ala	Benue	7.456	9.351	2	
+Jaatar	Gboko	Benue	7.468	8.975	2	
+Jande	Gboko	Benue	7.331	8.882	2	
+Jaji Kole	Yusufari	Yobe	13.069	10.945	2	
+Jaburma	Yusufari	Yobe	13.047	10.967	2	
+Lawandi Jambo	Yusufari	Yobe	13.007	10.936	2	
+Jajire Gabas	Yusufari	Yobe	13.036	11.156	2	
+Buloma Jaji	Yusufari	Yobe	13.030	11.094	2	
+Tasa Jaaba	Gbako	Niger	9.465	6.030	2	
+Buki Jaaba	Gbako	Niger	9.428	6.027	2	
+Jatua	Katcha	Niger	9.252	6.497	2	
+Jabki	Shiroro	Niger	9.963	6.586	2	
+Gidan Jagbawaya	Shiroro	Niger	9.959	6.676	2	
+Tunga Jagbaba	Shiroro	Niger	9.924	6.684	2	
+Gidan Jakaba Masa	Shiroro	Niger	9.900	6.634	2	
+Ja Ape Hill	Munya	Niger	9.731	6.864	2	Jaape Hill
+Jaipe	Shiroro	Niger	9.680	6.696	2	
+Jatayi	Bosso	Niger	9.630	6.598	2	
+Janfuru	Mayo-Belwa	Adamawa	8.998	12.045	2	
+Sate Jauro Hamalua	Mayo-Belwa	Adamawa	8.974	12.088	2	
+Sate Jauro Bila	Mayo-Belwa	Adamawa	8.977	12.082	2	
+Jafure	Mayo-Belwa	Adamawa	8.870	12.046	2	
+Jauro Buba	Jada	Adamawa	8.525	12.078	2	
+Jauro Bako	Jada	Adamawa	8.508	12.096	2	
+Jauro Jida	Mayo-Belwa	Adamawa	8.903	12.140	2	
+Jauro Bala	Jada	Adamawa	8.850	12.129	2	
+Jauro Natu	Jada	Adamawa	8.840	12.132	2	
+Jauro Baba	Jada	Adamawa	8.835	12.169	2	
+Jauro Amadu	Jada	Adamawa	8.800	12.172	2	
+Iri Jaka	Jada	Adamawa	8.750	12.118	2	
+Jauro Jada	Jada	Adamawa	8.753	12.099	2	
+Jauro Madiro	Jada	Adamawa	8.609	12.110	2	
+Jarendi	Jada	Adamawa	8.616	12.142	2	
+Jauro Hamajode	Jada	Adamawa	8.849	12.206	2	
+Jauro Jato	Jada	Adamawa	8.707	12.246	2	
+Jauro Sombo	Jada	Adamawa	8.679	12.271	2	
+Jauro Chamba	Jada	Adamawa	8.757	12.311	2	
+Jarandi	Jada	Adamawa	8.662	12.317	2	
+Jauro Bello	Jada	Adamawa	8.655	12.312	2	
+Jauro Yahaya	Fufore	Adamawa	8.832	12.399	2	
+Jauro Nyiganso	Fufore	Adamawa	8.770	12.440	2	
+Jauro Manu	Jada	Adamawa	8.707	12.390	2	
+Tapare Jangla	Jada	Adamawa	8.660	12.445	2	
+Jauro Jato	Jada	Adamawa	8.587	12.413	2	
+Jauro Mahamudu	Fufore	Adamawa	8.778	12.465	2	
+Jauro Dahiru	Jada	Adamawa	8.750	12.472	2	
+Jauro Hamadu	Jada	Adamawa	8.690	12.466	2	
+Jauro Bajam	Jada	Adamawa	8.672	12.488	2	
+Jauro Jida	Jada	Adamawa	8.671	12.477	2	
+James Camp	Aniocha South	Delta	6.140	6.527	2	
+Jataye	Munya	Niger	9.648	7.175	2	
+Jache	Munya	Niger	9.636	7.005	2	
+Kukam Jaba	Kagarko	Kaduna	9.312	7.758	2	
+Jababe	Karu	Nasarawa	9.261	7.814	2	
+Mushe Jaba	Karu	Nasarawa	9.255	7.808	2	
+Kukam Jaba	Kagarko	Kaduna	9.315	7.889	2	
+Gidan Jawo	Karu	Nasarawa	9.113	7.917	2	
+Gida Jatau	Karu	Nasarawa	9.097	7.977	2	
+Jakoro	Zing	Taraba	8.811	11.650	2	
+Jadubu	Zing	Taraba	8.946	11.841	2	
+Jaturu	Zing	Taraba	8.863	11.878	2	
+Jarandi	Mayo-Belwa	Adamawa	8.935	11.963	2	
+Jauro Mahumudu	Mayo-Belwa	Adamawa	8.977	11.966	2	
+Jauro Hamman	Mayo-Belwa	Adamawa	8.822	11.996	2	
+Ardo Jamaa	Mayo-Belwa	Adamawa	8.761	11.947	2	
+Dendi Jarandi	Zing	Taraba	8.712	11.805	2	
+Jauro Hamajam	Ganye	Adamawa	8.628	11.863	2	
+Jauro Buba	Mayo-Belwa	Adamawa	8.614	11.841	2	
+Jauro Dabo	Ganye	Adamawa	8.574	11.867	2	
+Jauro Umaru	Mayo-Belwa	Adamawa	8.747	11.992	2	
+Jarandi	Jada	Adamawa	8.716	11.991	2	
+Garin Baba Audu Ja	Ardo-Kola	Taraba	8.827	11.097	2	
+Zongon Kobi Jauro Ali	Ardo-Kola	Taraba	8.810	11.053	2	
+Zongon Konbi Jauro Habu	Ardo-Kola	Taraba	8.795	11.037	2	
+Zongon Konbi Jauro Dadi	Ardo-Kola	Taraba	8.796	11.028	2	
+Ali Jada	Ardo-Kola	Taraba	8.759	11.072	2	
+Wuro Jauro Mashi	Ardo-Kola	Taraba	8.978	11.173	2	
+Jauro Jivunu	Ardo-Kola	Taraba	8.943	11.118	2	
+Jauro Kanze	Ardo-Kola	Taraba	8.890	11.166	2	
+Jauro Dampu	Ardo-Kola	Taraba	8.879	11.162	2	
+Jauro Yaro	Ardo-Kola	Taraba	8.867	11.162	2	
+Jauro Dua	Ardo-Kola	Taraba	8.861	11.152	2	
+Jauro Nyambu	Ardo-Kola	Taraba	8.860	11.169	2	
+Jauro Kari	Ardo-Kola	Taraba	8.856	11.177	2	
+Jauro Mabi	Ardo-Kola	Taraba	8.775	11.094	2	
+Jauro Awai	Ardo-Kola	Taraba	8.983	11.230	2	
+Jauro Konkan	Ardo-Kola	Taraba	8.978	11.226	2	
+Jara	Ardo-Kola	Taraba	8.955	11.245	2	
+Jauro Shibo	Ardo-Kola	Taraba	8.949	11.243	2	
+Jauro Nyasaba	Ardo-Kola	Taraba	8.944	11.235	2	
+Jauro Namsu	Ardo-Kola	Taraba	8.938	11.189	2	
+Jauro Koto	Ardo-Kola	Taraba	8.889	11.200	2	
+Jauro Abi	Ardo-Kola	Taraba	8.877	11.217	2	
+Jauro Majo Bazim	Ardo-Kola	Taraba	8.832	11.187	2	
+Jauro Dori	Ardo-Kola	Taraba	8.832	11.211	2	
+Jauro Javo	Ardo-Kola	Taraba	8.824	11.234	2	
+Jauro Mading	Ardo-Kola	Taraba	8.761	11.191	2	
+Jauro Mazan	Ardo-Kola	Taraba	8.758	11.198	2	
+Garin Jalo	Ardo-Kola	Taraba	8.736	11.089	2	
+Jauro Lawan	Bali	Taraba	8.537	11.155	2	
+Jauro Abbi	Ardo-Kola	Taraba	8.815	11.261	2	
+Shamberu Jauro Jabam	Ardo-Kola	Taraba	8.811	11.258	2	
+Jauro Voko	Jalingo	Taraba	8.925	11.329	2	
+Jauro Tipi	Ardo-Kola	Taraba	8.859	11.274	2	
+Jauro Soti	Ardo-Kola	Taraba	8.834	11.319	2	
+Jauro Abba	Ardo-Kola	Taraba	8.814	11.285	2	
+Jauro Kusin	Ardo-Kola	Taraba	8.773	11.304	2	
+Jauro Voto	Ardo-Kola	Taraba	8.759	11.271	2	
+Jauro Tanvo	Ardo-Kola	Taraba	8.757	11.289	2	
+Jauro Yuku	Ardo-Kola	Taraba	8.761	11.314	2	
+Jatu	Yorro	Taraba	8.977	11.378	2	
+Jauro Bisa	Yorro	Taraba	8.991	11.396	2	
+Jauro Mashi	Yorro	Taraba	8.982	11.397	2	
+Jauro Garmaho	Yorro	Taraba	8.975	11.412	2	
+Javo	Yorro	Taraba	8.948	11.381	2	
+Jauro Kusin	Yorro	Taraba	8.903	11.415	2	
+Jauro Bakari	Jalingo	Taraba	8.844	11.399	2	
+Jasa	Yorro	Taraba	8.852	11.418	2	
+Jauro Manu	Ardo-Kola	Taraba	8.812	11.374	2	
+Jauro Ladde	Ardo-Kola	Taraba	8.801	11.374	2	
+Jauro Sanya	Ardo-Kola	Taraba	8.788	11.396	2	
+Jauro Dankum	Yorro	Taraba	8.841	11.485	2	
+Jauro Mawa	Ardo-Kola	Taraba	8.727	11.364	2	
+Jauro Kashi	Ardo-Kola	Taraba	8.703	11.305	2	
+Jauro Maya	Ardo-Kola	Taraba	8.690	11.285	2	
+Jauro Mashi	Ardo-Kola	Taraba	8.683	11.305	2	
+Jauro Kutumba	Ardo-Kola	Taraba	8.693	11.311	2	
+Tunga Jalo	Gassol	Taraba	8.631	10.554	2	
+Wuro Jam	Gassol	Taraba	8.526	10.683	2	
+Jauro Gotel	Karim Lamido	Taraba	8.981	10.859	2	
+Garin Jauro Audu	Gassol	Taraba	8.570	10.786	2	
+Garin Buba Jabule	Gassol	Taraba	8.743	10.876	2	
+Garin Jauro Ali	Gassol	Taraba	8.720	10.885	2	
+Garin Jauro Aji	Gassol	Taraba	8.502	10.904	2	
+Dan Jauro	Gassol	Taraba	8.552	10.438	2	
+Jayu	Shendam	Plateau	8.855	9.701	2	
+Jarak	Langtang North	Plateau	8.883	9.822	2	
+Jabzin	Shendam	Plateau	8.833	9.755	2	
+Jawuri	Wase	Plateau	8.673	9.978	2	
+Jalo	Bali	Taraba	7.950	10.381	2	
+Jauro Ahmadu	Bali	Taraba	7.909	10.398	2	
+Ungwan Jatau	Sanga	Kaduna	9.204	8.210	2	
+Ungwan Madaki Janda	Kokona	Nasarawa	9.030	8.112	2	
+Ungwan Jatau Sada	Sanga	Kaduna	9.078	8.189	2	
+Ungwan Jatau	Akwanga	Nasarawa	8.999	8.243	2	
+Tor Jalingo	Donga	Taraba	7.651	10.035	2	
+Ungwan Jabba	Zangon Kataf	Kaduna	9.760	8.425	2	
+Jasu	Zangon Kataf	Kaduna	9.680	8.296	2	
+Gidan Jato	Zangon Kataf	Kaduna	9.702	8.177	2	
+Ungwan Jatau	Zangon Kataf	Kaduna	9.648	8.166	2	
+Ungwan Madakin Jada	Zangon Kataf	Kaduna	9.998	8.119	2	
+Jak	Qua'An Pan	Plateau	8.812	9.192	2	
+Janyaro	Qua'An Pan	Plateau	8.582	9.268	2	
+Jakpa Tie	Warri North	Delta	5.819	5.101	2	
+Jangra	Demsa	Adamawa	9.490	12.074	2	
+Wuro Jaro Naro	Demsa	Adamawa	9.395	12.042	2	
+Jaramta	Yola North	Adamawa	9.425	12.323	2	
+Wuro Jauro Kirike	Girei	Adamawa	9.497	12.442	2	
+Jauro Hamidu	Girei	Adamawa	9.385	12.486	2	
+Wuro Jauro Yahaya	Girei	Adamawa	9.350	12.443	2	
+Jalingo	Yola North	Adamawa	9.295	12.237	2	
+Fattude Jauro	Fufore	Adamawa	9.223	12.230	2	
+Jamdudi	Fufore	Adamawa	9.210	12.192	2	
+Wuro Jabbi	Demsa	Adamawa	9.223	12.019	2	
+Jauro Korkei	Mayo-Belwa	Adamawa	9.170	12.014	2	
+Jauro Sidiki	Mayo-Belwa	Adamawa	9.159	12.012	2	
+Chakwo Jauro Kadiri	Mayo-Belwa	Adamawa	9.160	12.051	2	
+Wuro Jabbe	Fufore	Adamawa	9.171	12.133	2	
+Wuro Jarumei	Mayo-Belwa	Adamawa	9.146	12.007	2	
+Jauro Bakare	Mayo-Belwa	Adamawa	9.140	12.003	2	
+Jauro Denye	Mayo-Belwa	Adamawa	9.100	12.011	2	
+Boilere Jaura Buba Kindam	Mayo-Belwa	Adamawa	9.144	12.054	2	
+Jauro Jingeru	Mayo-Belwa	Adamawa	9.100	12.047	2	Jauro Jingeni
+Vamngo Jabbi	Fufore	Adamawa	9.071	12.061	2	
+Jarenga	Mayo-Belwa	Adamawa	9.058	12.030	2	
+Jauro Mallamja	Mayo-Belwa	Adamawa	9.018	12.000	2	
+Jalingo	Mayo-Belwa	Adamawa	9.051	12.038	2	
+Jamtari	Mayo-Belwa	Adamawa	9.029	12.053	2	
+Jauro Sadu	Fufore	Adamawa	9.064	12.089	2	
+Jauro Bapaji	Fufore	Adamawa	9.082	12.082	2	
+Mayo Jage	Fufore	Adamawa	9.014	12.205	2	
+Jauro Goni	Fufore	Adamawa	9.104	12.171	2	
+Jaci	Fufore	Adamawa	9.113	12.186	2	
+Jauro Misa	Fufore	Adamawa	9.091	12.214	2	
+Jauro Billa	Fufore	Adamawa	9.132	12.237	2	
+Jagadi	Fufore	Adamawa	9.059	12.470	2	
+Kaurame Jauro Bakari	Demsa	Adamawa	9.245	12.014	2	
+Jallo	Lau	Taraba	9.289	11.601	2	
+Wuro-Jauro-Tuba	Lau	Taraba	9.224	11.515	2	
+Jauro-Bosesote	Yorro	Taraba	9.054	11.553	2	
+Jauro Majo	Yorro	Taraba	9.059	11.546	2	
+Wuro-Jauro	Yorro	Taraba	9.067	11.517	2	
+Jauro-Saje	Lau	Taraba	9.073	11.506	2	
+Kodong-Jauro	Lau	Taraba	9.199	11.557	2	
+Wuro-Jauro-Manu	Lau	Taraba	9.198	11.634	2	
+Wuro-Jalo	Lau	Taraba	9.213	11.620	2	
+Wuro Jam	Numan	Adamawa	9.401	11.791	2	
+Jauro Yanga	Demsa	Adamawa	9.333	11.840	2	
+Jagala	Mayo-Belwa	Adamawa	9.070	11.914	2	
+Janyu	Mayo-Belwa	Adamawa	9.090	11.912	2	
+Wuro Jauro Hassana	Mayo-Belwa	Adamawa	9.121	11.978	2	
+Wuro Jauro Kadiri	Mayo-Belwa	Adamawa	9.126	11.964	2	
+Bali Jatau	Demsa	Adamawa	9.303	11.789	2	
+Jawando	Wase	Plateau	9.034	10.112	2	
+Jauro Hamma	Alkaleri	Bauchi	9.859	10.908	2	Gidan Jauro Hamma
+Jauro Gani	Alkaleri	Bauchi	9.839	10.882	2	Gidan Jauro Gano
+Jauro Baba	Alkaleri	Bauchi	9.840	10.870	2	
+Jada	Alkaleri	Bauchi	9.827	10.914	2	
+Jauro Wabi	Akko	Gombe	9.867	10.944	2	
+Ture Janga	Karim Lamido	Taraba	9.479	10.999	2	
+Jan Taba	Karim Lamido	Taraba	9.352	10.761	2	
+Raban Jaji	Karim Lamido	Taraba	9.335	10.782	2	
+Garin Jaka	Karim Lamido	Taraba	9.337	10.796	2	
+Ungwar Jarawa	Karim Lamido	Taraba	9.277	10.985	2	
+Tukulusi Jauro	Karim Lamido	Taraba	9.242	10.849	2	
+Jangu	Karim Lamido	Taraba	9.249	10.903	2	
+Jambutu	Karim Lamido	Taraba	9.247	10.921	2	
+Unguwar Jatau	Karim Lamido	Taraba	9.222	10.938	2	
+Jakum	Karim Lamido	Taraba	9.445	11.068	2	
+Jos Jarawa	Jos North	Plateau	9.912	8.860	2	
+Jansan	Lagelu	Oyo	7.474	4.051	2	
+Jaiyeola	Ona Ara	Oyo	7.299	4.002	2	
+Jakan	Aiyedade	Osun	7.192	4.356	2	
+Jaran	Ife North	Osun	7.444	4.477	2	
+Jagun	Ife North	Osun	7.340	4.475	2	
+Jasa	Ede North	Osun	7.736	4.532	2	
+Jagudugbe	Atakunmosa West	Osun	7.551	4.643	2	
+Jagun	Atakunmosa West	Osun	7.661	4.583	2	
+Jagun	Ifelodun	Osun	7.858	4.609	2	
+Jagun	Obokun	Osun	7.772	4.652	2	
+Jagun-Alagbado	Boripe	Osun	7.871	4.650	2	
+Jagbaru	Ado Odo/Ota	Ogun	6.577	2.938	2	
+Fattude Jauro Namoda	Fufore	Adamawa	9.403	12.784	2	
+Jauro Bello	Fufore	Adamawa	9.388	12.788	2	
+Jamare	Fufore	Adamawa	9.261	12.838	2	
+Jalingo-Jauro-Buji	Fufore	Adamawa	9.065	12.881	2	Jalingo Jauro Buji
+Jalingo-Verere	Fufore	Adamawa	9.036	12.647	2	Jalingo Verere
+Yokasala-Jauro-Bello	Fufore	Adamawa	9.153	12.694	2	Yokasala Jauro Bello
+Jabbi	Yola North	Adamawa	9.191	12.517	2	
+Jambutu	Fufore	Adamawa	9.342	12.684	2	
+Ago-James	Okitipupa	Ondo	6.457	4.757	2	
+Jagun-Osin	Ife North	Osun	7.410	4.533	2	
+Jaran	Ife South	Osun	7.362	4.631	2	
+Jagun	Atakunmosa West	Osun	7.461	4.655	2	
+Ago-Jacob	Atakunmosa West	Osun	7.294	4.696	2	
+Jaju-Onigbo	Asa	Kwara	8.308	4.462	2	
+Jaguna	Odeda	Ogun	7.282	3.552	2	
+Jagbe	Moro	Kwara	8.845	4.390	2	
+Olowo-Jata	Moro	Kwara	8.694	4.499	2	
+Jaleagbon	Ibarapa East	Oyo	7.647	3.548	2	
+Jagun-Sagbo	Ìsẹ́yìn	Oyo	7.816	3.557	2	
+Jagun	Ibarapa East	Oyo	7.626	3.501	2	
+Janjan	Oyo West	Oyo	7.918	3.836	2	
+Jade	Edu	Kwara	9.039	4.926	2	
+Jagun	Oyo East	Oyo	7.849	4.050	2	
+Jagun	Afijio	Oyo	7.827	4.037	2	
+Jabata	Afijio	Oyo	7.788	4.036	2	
+Janta	Nasarawa	Nasarawa	8.483	8.010	2	
+Jauro Wari	Fufore	Adamawa	8.887	12.722	2	JauroWari
+Jauro Bello	Ganye	Adamawa	8.445	12.096	2	JauroBello
+River Janvani	Ganye	Adamawa	8.443	12.299	2	RiverJanvani
+Jauro-Sambo	Teungo	Adamawa	8.173	12.053	2	Jauro Sambo|JauroSambo
+Jauro Gotel	Jada	Adamawa	8.460	12.042	2	JauroGotel
+Jauro Gagere	Bali	Taraba	8.441	11.111	2	JauroGagere
+Jauro Manu	Bali	Taraba	8.437	11.107	2	JauroManu
+Jauro Jatau	Bali	Taraba	8.412	11.149	2	JauroJatau
+Jauro Amidu	Bali	Taraba	8.296	11.030	2	JauroAmidu
+Wuro Jalo	Bali	Taraba	8.242	11.066	2	WuroJalo
+Jangani	Ganye	Adamawa	8.420	11.957	2	
+Jamtari	Ganye	Adamawa	8.411	11.961	2	
+Jauro Adamu	Ganye	Adamawa	8.483	11.952	2	JauroAdamu
+Jangla	Ganye	Adamawa	8.359	11.737	2	
+Jalo	Ganye	Adamawa	8.497	11.950	2	
+Jauro Adamu Maaj	Ganye	Adamawa	8.492	11.943	2	JauroAdamuMaaj
+Jamali Baba	Shelleng	Adamawa	9.858	12.079	2	JamaliBaba
+Jamali Fulani	Shelleng	Adamawa	9.873	12.067	2	JamaliFulani
+Jaben	Song	Adamawa	9.814	12.237	2	
+Wuro Jauro	Shelleng	Adamawa	9.826	12.060	2	WuroJauro
+Wuro Jauro Sale	Shelleng	Adamawa	9.843	12.049	2	WuroJauroSale
+Jakenda Baba	Shelleng	Adamawa	9.798	12.123	2	JakendaBaba
+Jauro Jauro Ali	Song	Adamawa	9.630	12.478	2	JauroJauroAli
+Jabam	Song	Adamawa	9.560	12.308	2	
+Jambe	Shelleng	Adamawa	9.903	12.089	2	
+Wuro Jauro Sale	Guyuk	Adamawa	9.650	12.004	2	WuroJauroSale
+Wuro Jauro Sheduri	Numan	Adamawa	9.636	12.012	2	WuroJauroSheduri
+Jalo Jambo	Shelleng	Adamawa	9.700	12.154	2	JaloJambo
+Bolon Jalo	Girei	Adamawa	9.556	12.462	2	BolonJalo
+Jalingo	Song	Adamawa	9.922	12.565	2	
+Jabbure	Song	Adamawa	9.847	12.589	2	
+Wuro Jalo	Song	Adamawa	9.838	12.639	2	WuroJalo
+Karewa Jauro Gorga	Song	Adamawa	9.758	12.869	2	KarewaJauroGorga
+Wuro Jauro Hamman	Fufore	Adamawa	9.733	12.728	2	WuroJauroHamman
+Jalingo	Song	Adamawa	9.607	12.567	2	
+Rumnde Jauro Barka	Fufore	Adamawa	9.687	12.728	2	RumndeJauroBarka
+Jauro Hammawa	Fufore	Adamawa	9.579	12.931	2	JauroHammawa
+Jauro Gotel	Fufore	Adamawa	9.591	12.780	2	JauroGotel
+Jamali	Girei	Adamawa	9.558	12.505	2	
+Jangele	Asa	Kwara	8.378	4.556	2	
+Jagun	Asa	Kwara	8.291	4.564	2	
+Jato	Ilorin East	Kwara	8.448	4.614	2	
+Yaki Da Jahilci	Katcha	Niger	8.954	6.211	2	YakiDaJahilci
+Janurduri	Teungo	Adamawa	7.910	11.744	2	
+Jando	Sardauna	Taraba	6.841	10.860	2	
+Jaita	Municipal Area Council	FCT Abuja	8.861	7.392	2	
+Gidan Jatau	Municipal Area Council	FCT Abuja	8.932	7.254	2	GidanJatau
+Jadabuta	Kwali	FCT Abuja	8.820	7.039	2	
+Jamaalu	Kokona	Nasarawa	8.746	8.005	2	
+Jankanwan	Nasarawa	Nasarawa	8.533	8.172	2	
+Jauro Jelani	Sardauna	Taraba	6.860	11.181	2	
+Jauro Bakari	Sardauna	Taraba	6.933	11.256	2	
+Jauro Afili	Sardauna	Taraba	6.784	11.041	2	
+Jaligi	Sardauna	Taraba	6.923	11.168	2	
+Jato	Iwo	Osun	7.683	4.165	2	
+Jagun-Oro	Lagelu	Oyo	7.615	4.093	2	
+Jagun	Aiyedire	Osun	7.568	4.263	2	
+Jaiyeoba	Lagelu	Oyo	7.604	4.107	2	
+Jagun	Iwo	Osun	7.706	4.181	2	
+Jagun	Afijio	Oyo	7.737	4.009	2	
+Jagun	Aiyedire	Osun	7.586	4.285	2	
+Jabata	Afijio	Oyo	7.693	4.031	2	
+Jato	Gboko	Benue	7.453	8.978	2	
+Jauro Mashi	Ardo-Kola	Taraba	8.720	11.237	2	
+Jatau	Ardo-Kola	Taraba	8.718	11.247	2	
+Jauro Bose	Ardo-Kola	Taraba	8.828	11.296	2	
+Jagun	Abeokuta North	Ogun	7.101	3.246	2	
+Jakankan	Aiyedade	Osun	7.223	4.353	2	
+Jagun	Afijio	Oyo	7.786	3.829	2	
+Wuro Jauro Amadu	Numan	Adamawa	9.587	12.020	2	WuroJauroAmadu
+Jalingo	Song	Adamawa	9.656	12.963	2	
+Jabata	Afijio	Oyo	7.705	4.003	2	
+Jagun	Aiyedire	Osun	7.542	4.180	2	
 Lateef Jakande Road	Ikeja	Lagos	6.631	3.354	1	
 Jabi Road West	Kaduna North	Kaduna	10.542	7.446	1	
 Jabi Road East	Kaduna North	Kaduna	10.541	7.457	1	
@@ -558,12 +1490,10 @@ Sheikh Jafar Mahmud Way	Kumbotso	Kano	11.958	8.479	1
 James Robertson Street	Surulere	Lagos	6.504	3.354	1	
 Jadesola Faderera Street	Lagelu	Oyo	7.431	3.939	1	
 Jaja Avenue	Ibadan North	Oyo	7.443	3.900	1	
-AJANLEKOKO STREET,JAGUN.	Egbeda	Oyo	7.389	3.959	1	
+Ajanlekoko Street,Jagun.	Egbeda	Oyo	7.389	3.959	1	
 Jadesola Osodi Street	Surulere	Lagos	6.488	3.342	1	
-Jatto Memorial Christian College	Oredo	Edo	6.325	5.589	0	
 Jare Alade Street	Ibadan North West	Oyo	7.400	3.859	1	
 Lateef Jakande Avenue	Eti Osa	Lagos	6.449	3.438	1	Bell Avenue
-Lateef Jakande Road	Ikeja	Lagos	6.616	3.354	1	
 Jacob Sonola Street	Ikeja	Lagos	6.647	3.343	1	
 Ayo Jagun Street	Eti Osa	Lagos	6.438	3.461	1	
 Jaiye Balogun Street	Eti Osa	Lagos	6.462	3.441	1	
@@ -580,53 +1510,38 @@ Jaivbo Ojigbo Street	Eti Osa	Lagos	6.495	3.589	1
 Aina Jakande Street	Eti Osa	Lagos	6.489	3.582	1	
 minor road from Jankwano to excellent bridge, Angwan soya Jos	Jos North	Plateau	9.932	8.877	1	
 Jalupon Close	Surulere	Lagos	6.495	3.356	1	
-Jalupon Close	Surulere	Lagos	6.495	3.354	1	
 Jacob Street	Mushin	Lagos	6.529	3.364	1	
 Olumoroti Jaiyesimi	Shomolu	Lagos	6.546	3.383	1	
 FJHH+V7Q, jalala ring road, Ole odo, Ilorin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.478	4.629	1	
 James Ademola St	Alimosho	Lagos	6.627	3.280	1	
 James Oyedele Street	Alimosho	Lagos	6.681	3.263	1	
 james street	Warri South	Delta	5.507	5.755	1	
+Jalingo - Wukari Road	Ardo-Kola	Taraba	8.896	11.290	1	
+Jalingo - Yola Road	Yorro	Taraba	8.949	11.358	1	
 Jalingo Street	Enugu East	Enugu	6.481	7.505	1	
 Polly Jaja Drive	Enugu North	Enugu	6.439	7.532	1	
 James Anoko Street	Enugu East	Enugu	6.473	7.494	1	
 Calli James Street	Enugu East	Enugu	6.472	7.596	1	
-MASALLACIN JALLI STREET	Kano Municipal	Kano	11.993	8.525	1	
-Jankara Market	Lagos Island	Lagos	6.460	3.392	0	
+Masallacin Jalli Street	Kano Municipal	Kano	11.993	8.525	1	
 Ado Jaafar Street	Tarauni	Kano	11.970	8.562	1	
+Beli - Jamtari Road	Bali	Taraba	7.858	10.972	1	
 Jonah David Jang Way	Jos South	Plateau	9.849	8.901	1	
 Jakande Estate Road	Amuwo Odofin	Lagos	6.463	3.309	1	
 James Odingbe Crescent	Oshodi/Isolo	Lagos	6.494	3.294	1	
 Jamiu Ali Balogun Street	Apapa	Lagos	6.465	3.366	1	
 Jacob Banjoko	Ikeja	Lagos	6.600	3.341	1	
-Jaube Health Post	Dawakin Tofa	Kano	12.157	8.209	0	
-Jauben Health Post	Tofa	Kano	12.026	8.317	0	
-Jajira Health Post	Ungongo	Kano	12.033	8.425	0	
-Jama'Ar Hazo Health Post	Makoda	Kano	12.546	8.521	0	
-Jalli Health Post	Dawakin Tofa	Kano	12.184	8.463	0	
-Jaba Primary Health Centre	Fagge	Kano	12.059	8.546	0	
 James Adejumo Close	Eti Osa	Lagos	6.455	3.477	1	
 Sabon Line Street	Gombe	Gombe	10.269	11.172	1	JAURO BAPPI STREET
+Beli - Jamtari Road	Bali	Taraba	7.836	11.015	1	
 Jasper Ike Street	Eti Osa	Lagos	6.427	3.462	1	
 Folashade Jacobs Street	Eti Osa	Lagos	6.444	3.545	1	
 Dele Jaiyesimi	Eti Osa	Lagos	6.437	3.560	1	
 Stiv-Jaka Avenue	Eti Osa	Lagos	6.504	3.623	1	
 Mo. Jafar Close	Eti Osa	Lagos	6.485	3.587	1	
 John Jafar Close	Eti Osa	Lagos	6.485	3.587	1	
-Jadori Dispensary	Gamawa	Bauchi	12.224	10.596	0	
-Jawo Dispensary	Giade	Bauchi	11.555	10.254	0	
-Jarmawo Maternal And Child Health Clinic	Giade	Bauchi	11.544	10.320	0	
-G/Jalo Dispensary	Damban	Bauchi	11.670	10.905	0	
-Janda Dispensary	Damban	Bauchi	11.524	10.876	0	
-Jama'are Clinic	Jama'Are	Bauchi	11.673	9.934	0	
-Jamda Dispensary	Bauchi	Bauchi	10.066	9.698	0	
-Jalingo Health Clinc	Bauchi	Bauchi	10.120	10.149	0	
-Jamda Dispensary	Alkaleri	Bauchi	9.886	9.875	0	
-Jada Dispensary	Alkaleri	Bauchi	9.993	10.732	0	
 Jagun Olukosi Street	Eti Osa	Lagos	6.428	3.582	1	
 Briyel - Jara Dali Road	Bayo	Borno	10.321	11.640	1	
 Briyel - Jara Dali Road	Bayo	Borno	10.286	11.683	1	
-Briyel - Jara Dali Road	Bayo	Borno	10.299	11.655	1	
 Layin Jauro	Ngelzarma	Yobe	11.749	11.976	1	
 Ngelzarma to Jajere road	Fune	Yobe	11.844	11.474	1	
 Jare Afolabi Street	Lagelu	Oyo	7.441	3.963	1	
@@ -643,7 +1558,6 @@ Jauro Bappi Street	Gombe	Gombe	10.275	11.169	1
 Rd jaji Sanfo	Igabi	Kaduna	10.822	7.606	1	
 Edward Jacobs cres.	Owerri Municipal	Imo	5.485	7.015	1	
 Road track Jaji Wusono	Igabi	Kaduna	10.841	7.528	1	
-Jabi Lake Mall	Municipal Area Council	FCT Abuja	9.078	7.426	0	
 Jacob Taiwo Street	Oshodi/Isolo	Lagos	6.573	3.344	1	
 Adeniyi Jakande Close	Surulere	Lagos	6.494	3.358	1	
 Kolade James Street	Kosofe	Lagos	6.553	3.383	1	
@@ -651,11 +1565,9 @@ Jacob Nwazota Street	Kosofe	Lagos	6.568	3.386	1
 Janet Akitola Street	Eti Osa	Lagos	6.483	3.584	1	
 Jamiu Adeyinka Street	Ìkòròdú	Lagos	6.619	3.522	1	
 Bless Jah Crescent	Alimosho	Lagos	6.598	3.279	1	
-Jajere Maternal And Child Health Care	Fune	Yobe	11.983	11.437	0	
 Jakpa Road	Uvwie	Delta	5.560	5.775	1	Ekpan-Effurun road
 Jakpa Road	Uvwie	Delta	5.561	5.774	1	Effurun, Warri to Shell Ogunu
 Jaiyeoba Road	Alimosho	Lagos	6.585	3.307	1	
-Jafaru LEA Primary School Playground	Sabon Gari	Kaduna	11.111	7.735	0	
 Jacob street	Mushin	Lagos	6.511	3.368	1	
 James Anyaeche Avenue	Eti Osa	Lagos	6.446	3.527	1	
 Jasmine Court	Eti Osa	Lagos	6.501	3.619	1	
@@ -665,9 +1577,7 @@ Ja Abdulkadir Close	Kaduna North	Kaduna	10.521	7.461	1
 Jonah David Jang Way	Jos South	Plateau	9.831	8.892	1	
 jalan residensial	Ungongo	Kano	12.044	8.458	1	
 jalan kecil	Ungongo	Kano	12.040	8.461	1	
-SABON LINE STREET	Gombe	Gombe	10.283	11.173	1	JAURO BAPPI STREET
-Janicole Street	Obio/Akpor	Rivers	4.855	6.962	1	
-Sheikh Jafar Mahmud Way	Gwale	Kano	11.979	8.485	1	
+Sabon Line Street	Gombe	Gombe	10.283	11.173	1	JAURO BAPPI STREET
 Jesse Jackson Street	Municipal Area Council	FCT Abuja	9.045	7.509	1	
 Jaivbo Ojigbo Street	Eti Osa	Lagos	6.495	3.589	1	
 Jackjack Avenue	Bonny	Rivers	4.428	7.179	1	
@@ -678,9 +1588,82 @@ Jistice James Ogebe Street	Municipal Area Council	FCT Abuja	9.049	7.531	1
 Jagun Molu Street	Shomolu	Lagos	6.524	3.385	1	
 James Esu Street	Shomolu	Lagos	6.539	3.399	1	
 Alh. Jamiu Kebe Str	Alimosho	Lagos	6.533	3.269	1	
-Jakpa Road	Uvwie	Delta	5.564	5.752	1	Effurun, Warri to Shell Ogunu
 Jagun Molu St	Shomolu	Lagos	6.547	3.395	1	
 Jasmine Road	Eti Osa	Lagos	6.444	3.558	1	
+jalan	Ungongo	Kano	12.042	8.457	1	
+Jay Jones Avenue	Oredo	Edo	6.259	5.614	1	
+D. M. Jaja Street	Ogba/Egbema/Ndoni	Rivers	5.326	6.643	1	
+Jesse Jackson Street	Municipal Area Council	FCT Abuja	9.047	7.511	1	
+James Ayelagbe Crescent	Eti Osa	Lagos	6.477	3.582	1	
+Jagindi	Jema'A	Kaduna	9.344	8.229	0	
+Jayfield Int'l high School	Egor	Edo	6.365	5.569	0	
+Jacob Memorial Clinic	Enugu North	Enugu	6.438	7.502	0	
+Jajaye Primary Health Centre	Rogo	Kano	11.557	7.936	0	
+Jama'A Primary Health Centre	Gwarzo	Kano	11.815	7.866	0	
+Janguza Market	Tofa	Kano	11.967	8.401	0	
+G/Jarma	Damban	Bauchi	11.455	10.897	0	
+Jauro Baba Wuro Dispensary	Shani	Borno	10.260	11.872	0	
+Jauro Gotel Primary Health Centre	Shani	Borno	10.100	11.750	0	
+Jarawa Dispensary	Kala-Balge	Borno	11.960	14.399	0	
+Jakande Market	Eti Osa	Lagos	6.435	3.508	0	
+Janice International School	Port-Harcourt	Rivers	4.820	7.051	0	
+MHT2(Jajeri Kantudu)	Maiduguri	Borno	11.879	13.133	0	
+Armed Forces Command and Staff College Secondary School, Jaji.	Igabi	Kaduna	10.843	7.561	0	
+Jaji Military Cantonement Hospital	Igabi	Kaduna	10.838	7.577	0	
+Jauro Secondary school	Gombe	Gombe	10.299	11.172	0	
+Jaji Airstrip	Igabi	Kaduna	10.833	7.538	0	
+jamtari hetath center	Maiha	Adamawa	9.561	13.166	0	
+jaba jaba heath clinic	Maiha	Adamawa	9.974	13.227	0	
+jalingo buhu heath post	Maiha	Adamawa	10.040	13.157	0	
+Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
+St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.742	3.263	0	
+St. James School African Church School,Seriki	Shagamu	Ogun	6.686	3.580	0	
+St. James School African Church School,Seriki	Ifo	Ogun	6.812	3.246	0	
+St. James Anglican Primary School I Iado Odo	Ado Odo/Ota	Ogun	6.684	3.235	0	
+St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.683	3.237	0	
+University Health Service, Jaja Clinic, UI	Ibadan North	Oyo	7.443	3.901	0	
+Jama'a Hospital Rikkos	Jos North	Plateau	9.916	8.900	0	
+Jasher International Academy	Jos North	Plateau	9.903	8.945	0	
+Jama'a Nursing And Maternity Home	Kaduna North	Kaduna	10.600	7.455	0	
+National Hospital Abuja No4mm Lawal Jafaru Isa Road	Kaduna North	Kaduna	10.542	7.472	0	
+Jadan Clinic And Maternity	Kaduna South	Kaduna	10.440	7.407	0	
+Barau Dikko Teaching Hospital Jama'a Road Kadaure	Chikun	Kaduna	10.524	7.489	0	
+Okoko Central Hospital Jakande New Site	Ojo	Lagos	6.468	3.180	0	
+Jag-Bon Medical Center	Mushin	Lagos	6.520	3.367	0	
+Deoyefemi Clinic Block 4 Jakande Estate Mile 2	Amuwo Odofin	Lagos	6.464	3.307	0	
+Jes And Jes Mosque Road Jakande Estate	Amuwo Odofin	Lagos	6.463	3.312	0	
+Makarantar Malam Mai Jan Lebe	Ungongo	Kano	12.039	8.564	0	
+Al Jazeera International Academy	Gwale	Kano	11.960	8.474	0	
+Ashabul Kahfi Qadiriyya Riyadul Jannah	Gwale	Kano	11.960	8.476	0	
+Jaudatu Special Primary School	Gwale	Kano	11.959	8.470	0	
+Jauro Tudun Wada Primary School	Gombe	Gombe	10.300	11.171	0	
+St James CAC Schools, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.554	0	
+Jahi Junction	Municipal Area Council	FCT Abuja	9.118	7.455	0	
+Jabi Central Bus Station	Municipal Area Council	FCT Abuja	9.065	7.434	0	
+Aktc Jabi	Municipal Area Council	FCT Abuja	9.068	7.433	0	
+Delta Line - Jabi/Utako	Municipal Area Council	FCT Abuja	9.063	7.436	0	
+Jabi Motor Park	Municipal Area Council	FCT Abuja	9.064	7.433	0	
+Jatto Memorial Christian College	Oredo	Edo	6.325	5.589	0	
+Jankara Market	Lagos Island	Lagos	6.460	3.392	0	
+Jaube Health Post	Dawakin Tofa	Kano	12.157	8.209	0	
+Jauben Health Post	Tofa	Kano	12.026	8.317	0	
+Jajira Health Post	Ungongo	Kano	12.033	8.425	0	
+Jama'Ar Hazo Health Post	Makoda	Kano	12.546	8.521	0	
+Jalli Health Post	Dawakin Tofa	Kano	12.184	8.463	0	
+Jaba Primary Health Centre	Fagge	Kano	12.059	8.546	0	
+Jadori Dispensary	Gamawa	Bauchi	12.224	10.596	0	
+Jawo Dispensary	Giade	Bauchi	11.555	10.254	0	
+Jarmawo Maternal And Child Health Clinic	Giade	Bauchi	11.544	10.320	0	
+G/Jalo Dispensary	Damban	Bauchi	11.670	10.905	0	
+Janda Dispensary	Damban	Bauchi	11.524	10.876	0	
+Jama'are Clinic	Jama'Are	Bauchi	11.673	9.934	0	
+Jamda Dispensary	Bauchi	Bauchi	10.066	9.698	0	
+Jalingo Health Clinc	Bauchi	Bauchi	10.120	10.149	0	
+Jamda Dispensary	Alkaleri	Bauchi	9.886	9.875	0	
+Jada Dispensary	Alkaleri	Bauchi	9.993	10.732	0	
+Jabi Lake Mall	Municipal Area Council	FCT Abuja	9.078	7.426	0	
+Jajere Maternal And Child Health Care	Fune	Yobe	11.983	11.437	0	
+Jafaru LEA Primary School Playground	Sabon Gari	Kaduna	11.111	7.735	0	
 Jacsam	Alimosho	Lagos	6.572	3.253	0	
 ST James Clinic and Maternity	Egor	Edo	6.366	5.583	0	
 Jauben Yamma Health Post	Bagwai	Kano	12.067	8.056	0	
@@ -706,70 +1689,10 @@ Anguwan Jaji Health Clinic	Potiskum	Yobe	11.715	11.048	0
 Jama'a Clinic and Maternity	Potiskum	Yobe	11.705	11.099	0	
 Jaggu Primary Health Care Center	Jada	Adamawa	8.489	12.191	0	
 Ihya;ussunnah Jauro kuna	Gombe	Gombe	10.311	11.171	0	
-JAURO TUDUN WADA PRIMARY T/WADA	Gombe	Gombe	10.300	11.171	0	
-jalan	Ungongo	Kano	12.042	8.457	1	
-Jay Jones Avenue	Oredo	Edo	6.259	5.614	1	
-D. M. Jaja Street	Ogba/Egbema/Ndoni	Rivers	5.326	6.643	1	
-Jesse Jackson Street	Municipal Area Council	FCT Abuja	9.047	7.511	1	
-FEDERAL MEDICAL CENTER, JABI	Municipal Area Council	FCT Abuja	9.016	7.408	0	
-Jatto Memorial Christian College	Oredo	Edo	6.325	5.587	0	
+Jauro Tudun Wada Primary T/Wada	Gombe	Gombe	10.300	11.171	0	
+Federal Medical Center, Jabi	Municipal Area Council	FCT Abuja	9.016	7.408	0	
+Specialist Hospital Jalingo	Yorro	Taraba	8.909	11.393	0	
+Jalingo Airport	Ardo-Kola	Taraba	8.902	11.294	0	
+Jalingo Shopping Mall	Jalingo	Taraba	8.933	11.339	0	
+Federal Medical Centre Jalingo	Jalingo	Taraba	8.901	11.370	0	
 Bulama Jalo Primary School	Maiduguri	Borno	11.805	13.135	0	
-James Ayelagbe Crescent	Eti Osa	Lagos	6.477	3.582	1	
-Jaba	Jakusko	Yobe	12.425	11.168	2	
-Janga	Fika	Yobe	11.535	11.181	2	
-Jajere	Fune	Yobe	12.030	11.470	2	
-Jajeri	Karasuwa	Yobe	12.995	10.538	2	
-Jawa G Dole	Borsari	Yobe	12.800	11.212	2	
-Jawur Katamma	Jakusko	Yobe	12.713	10.989	2	
-Jaji Maji	Karasuwa	Yobe	12.912	10.806	2	
-Jabarna	Jahun	Jigawa	12.004	9.535	2	
-Jae	Kaugama	Jigawa	12.525	9.725	2	
-Jahun	Jahun	Jigawa	12.096	9.588	2	
-Jajeri	Maigatari	Jigawa	12.653	9.733	2	
-Jabbo	Kafin Hausa	Jigawa	12.316	10.060	2	
-Jahun	Jahun	Jigawa	12.053	9.559	2	
-Jangeru	Shinkafi	Zamfara	12.983	6.483	2	
-Jangebe	Talata Mafara	Zamfara	12.197	6.065	2	
-Janbako	Maradun	Zamfara	12.774	6.176	2	
-Jamali	Binji	Sokoto	13.290	4.790	2	
-Jaredi	Shagari	Sokoto	12.765	5.118	2	
-Jabo-Kagara	Tambuwal	Sokoto	12.410	5.038	2	
-Jadadi	Koko-Besse	Kebbi	11.647	4.288	2	
-Jandutsi Birnin Malam	Jega	Kebbi	12.057	4.546	2	
-Janbirni	Sakaba	Kebbi	11.154	5.650	2	
-Lema-Jantullu	Arewa Dandi	Kebbi	12.937	4.230	2	
-Feske-Jaffeji	Arewa Dandi	Kebbi	12.685	3.939	2	
-Jagindi	Jema'A	Kaduna	9.346	8.264	2	
-Jampalan	Ikara	Kaduna	11.167	8.270	2	
-Jama A	Sabon Gari	Kaduna	11.137	7.666	2	
-Gidan Jatau	Zangon Kataf	Kaduna	9.680	8.203	2	
-Jaba	Jaba	Kaduna	9.475	8.012	2	
-Jajaye	Rogo	Kano	11.554	7.955	2	
-Jauben Kudu	Tofa	Kano	12.036	8.324	2	
-Janguza	Tofa	Kano	11.957	8.387	2	
-Jandutse	Tudun Wada	Kano	11.250	8.461	2	
-Jalli	Dawakin Tofa	Kano	12.194	8.476	2	
-Jargaba	Bakori	Katsina	11.649	7.440	2	
-Jama'A	Gwarzo	Kano	11.812	7.881	2	
-Jani	Mani	Katsina	12.828	7.818	2	
-Jakana	Konduga	Borno	11.824	12.852	2	
-Jabullam	Abadam	Borno	13.486	13.115	2	
-Jarawa	Kala-Balge	Borno	11.916	14.352	2	
-Jakusko	Jakusko	Yobe	12.344	10.802	2	
-Jakusko	Jakusko	Yobe	12.411	10.978	2	
-Jama'are A	Jama'Are	Bauchi	11.664	9.919	2	
-Jangu	Ningi	Bauchi	10.911	9.571	2	
-Jama'are D	Jama'Are	Bauchi	11.690	9.922	2	
-Jama'are B	Jama'Are	Bauchi	11.669	9.938	2	
-Janda	Damban	Bauchi	11.540	10.901	2	
-Jadori	Gamawa	Bauchi	12.232	10.574	2	
-Jalam	Damban	Bauchi	11.559	10.823	2	
-Jarkasa	Misau	Bauchi	11.455	10.481	2	
-Jama'are C	Jama'Are	Bauchi	11.657	9.928	2	
-Jama'a	Toro	Bauchi	10.354	9.540	2	
-Jara-Gol	Bayo	Borno	10.267	11.629	2	
-Jara-Dali	Bayo	Borno	10.256	11.734	2	
-Jahi	Municipal Area Council	FCT Abuja	9.108	7.439	2	
-Jada	Jada	Adamawa	8.696	12.322	2	
-Jama'Are	Jama'Are	Bauchi	11.652	9.889	2	
-Jabi	Municipal Area Council	FCT Abuja	9.064	7.422	2	

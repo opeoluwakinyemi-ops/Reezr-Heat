@@ -1,5 +1,3 @@
-Oke Ado Hospital, SW7/217, Ibukun Olu Street, Oke Ado, Ibadan	Ibadan South West	Oyo	7.378	3.880	0	
-Gomna Awan Hospital Queen Amina College Pobox 211	Kaduna South	Kaduna	10.475	7.423	0	
 Road 21	Lagelu	Oyo	7.430	3.945	1	
 213 Close	Eti Osa	Lagos	6.455	3.462	1	
 217 Close	Eti Osa	Lagos	6.453	3.458	1	
@@ -14,3 +12,5 @@ Federal Road F.215 Owo - Tegina	Edati	Niger	8.990	5.951	1
 Federal Road F.212 Wara - Ibeto	Magama	Niger	10.319	4.979	1	
 21 Road	Obio/Akpor	Rivers	4.811	6.977	1	
 Road 21	Ife Central	Osun	7.534	4.540	1	
+Oke Ado Hospital, SW7/217, Ibukun Olu Street, Oke Ado, Ibadan	Ibadan South West	Oyo	7.378	3.880	0	
+Gomna Awan Hospital Queen Amina College Pobox 211	Kaduna South	Kaduna	10.475	7.423	0	

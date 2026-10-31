@@ -1,3 +1,9 @@
+Edor-Abangork	Ikom	Cross River	6.197	8.632	3	
+Ikot Edibon	Nsit Ubium	Akwa Ibom	4.769	7.931	3	
+Nguzu Edda	Edda	Ebonyi	5.754	7.816	3	
+Nto Edino	Obot Akara	Akwa Ibom	5.257	7.576	3	
+Ede	Ede North	Osun	7.736	4.435	3	Edde
+Edjeba	Warri South	Delta	5.542	5.734	2	
 Edipe Eke	Olamaboro	Kogi	7.126	7.569	2	
 Edukwu Iyima	Izzi	Ebonyi	6.721	8.175	2	
 Usuk Obio Ediene	Ikono	Akwa Ibom	5.233	7.833	2	
@@ -8,7 +14,6 @@ Ekpene Edi	Esit Eket	Akwa Ibom	4.632	8.113	2	Afaha Ekpene Edi
 Edjophe	Udu	Delta	5.466	5.883	2	Edjovhe
 Mbiabo Ikot Edem	Odukpani	Cross River	5.226	8.057	2	
 Ikot Ukpong Edem	Oruk Anam	Akwa Ibom	4.738	7.676	2	Ikot Ukpong Eden
-Ede	Ede North	Osun	7.733	4.433	2	
 Eddan	Mashegu	Niger	9.700	5.167	2	
 Ikot Edikpe	Nsit Ubium	Akwa Ibom	4.740	7.945	2	
 Edila	Odeda	Ogun	7.200	3.567	2	Eddila
@@ -25,66 +30,182 @@ Ikot Ndem	Akpabuyo	Cross River	4.919	8.454	2	Ikot Asukwo Edem;Ikot Asuquo Edem
 Edotsu	Agaie	Niger	9.049	6.403	2	
 Edoli	Gada	Sokoto	13.773	5.667	2	
 Otor-Edo	Ughelli South	Delta	5.470	5.905	2	Otedo
-Ede Station	Ede North	Osun	7.750	4.433	0	
 Eddykiri	Akuku Toru	Rivers	4.364	6.698	2	
 Edebuk	Eket	Akwa Ibom	4.617	7.950	2	Edehbuk
 Edebom	Nsit Ubium	Akwa Ibom	4.702	7.955	2	
 Ikot Ebe Ekpo	Onna	Akwa Ibom	4.624	7.870	2	Ikot Ede Ekpo
 Edeoha	Ahoada East	Rivers	5.029	6.630	2	Oduaha
 Edidi Oja	Isin	Kwara	8.231	4.943	2	
-Edor-Abangork	Ikom	Cross River	6.197	8.632	3	
-Edo College	Ikpoba-Okha	Edo	6.332	5.647	0	
-Edo Line	Oredo	Edo	6.344	5.628	0	
-King's and Queen's Education Centre	Egor	Edo	6.367	5.630	0	
-Destiny Education Centre	Egor	Edo	6.371	5.587	0	
-St. Phillips Education School	Egor	Edo	6.362	5.577	0	
-Firm Foundation Adult Education Center	Oredo	Edo	6.336	5.632	0	
-ST. Mary Dedication Education Centre	Oredo	Edo	6.322	5.617	0	
-Edegbe Line	Oredo	Edo	6.345	5.629	0	
-Universal Basic Education	Oredo	Edo	6.339	5.625	0	
-Old Edo College	Oredo	Edo	6.343	5.618	0	
-Enugu State College Of Education (Technical), Enugu	Enugu North	Enugu	6.460	7.499	0	
-Enugu State College Of Education Technical Enugu	Enugu North	Enugu	6.460	7.499	0	
 Ikot Edem Udo	Essien Udim	Akwa Ibom	5.096	7.623	2	
 Ikot Obon Edon	Ikot Ekpene	Akwa Ibom	5.183	7.699	2	
 Utu Edem Usung	Ikot Ekpene	Akwa Ibom	5.144	7.718	2	
-Educational Advancement Centre	Ibadan North	Oyo	7.418	3.901	0	
-Edgeba Estate School	Warri South	Delta	5.538	5.734	0	
-College of Education	Warri South	Delta	5.542	5.744	0	
-Edulyn  School	Uvwie	Delta	5.564	5.755	0	
-Edel Montessori School	Okpe	Delta	5.593	5.708	0	
-Edulyn College	Uvwie	Delta	5.565	5.755	0	
-EDS Exceptional Diamond School	Port-Harcourt	Rivers	4.822	7.052	0	
-Eulex Educational Center	Obio/Akpor	Rivers	4.839	7.045	0	
-Shehu Shagari Collage of Education	Wamako	Sokoto	12.997	5.214	0	
-Early Child Care Development Education Primary School	Gombe	Gombe	10.300	11.173	0	
-Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
-Salvation Army Primary School III, Edu Agbara	Ado Odo/Ota	Ogun	6.505	3.101	0	
-Salvation Army Primary School I, Edu Agbara	Ifo	Ogun	6.817	3.206	0	
-Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.559	2.929	0	
-Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.538	3.064	0	
-Salvation Army Primary School I, Edu Agbara	Ado Odo/Ota	Ogun	6.536	3.067	0	
-edozie bus stop	Enugu North	Enugu	6.428	7.494	0	
 Edegbere	Yenegoa	Bayelsa	5.180	6.502	2	
 Ise Edeugbana	Ndokwa East	Delta	5.620	6.588	2	
 Iwrekpokpor	Isoko North	Delta	5.561	6.124	2	Edjeba
 Edukugho	Warri South	Delta	5.505	5.766	2	
-Ikot Edibon	Nsit Ubium	Akwa Ibom	4.769	7.931	3	
 Ediba	Abi	Cross River	5.874	8.022	2	
-Nguzu Edda	Edda	Ebonyi	5.754	7.816	3	
-Nto Edino	Obot Akara	Akwa Ibom	5.257	7.576	3	
-Special Education Center	Bauchi	Bauchi	10.280	9.800	0	
-Kwaine College of Education (KCOE) Yelanguruza Gombe	Gombe	Gombe	10.272	11.196	0	
-Edo Convalescent Homeclinic And Easy Delivery	Ojo	Lagos	6.458	3.154	0	
-Federal college of Education	Iwo	Osun	7.645	4.171	0	
-EDUCATION	Gwale	Kano	11.959	8.472	0	
-HisGrace College of Education Ilorin, Mubo Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.503	4.572	0	
-Edinwo Mall, Fate Tanke Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.602	0	
-Edinwo Plaza Muritala, Ilorin, Kwara, Nigeria	Ilorin East	Kwara	8.485	4.564	0	
-Abdulmu'unin Educational Foundation	Bauchi	Bauchi	10.254	10.094	0	
-Faculty of Education	Ife Central	Osun	7.513	4.525	0	English
-Technology Education Department	Kaduna North	Kaduna	10.612	7.442	0	
-Redeemers University, Ede	Ede South	Osun	7.680	4.460	0	
+Edukugho Community	Warri South	Delta	5.503	5.764	2	
+Edda	Edda	Ebonyi	5.827	7.784	2	
+Edu	Edu	Kwara	8.845	5.212	2	
+Edati	Edati	Niger	8.963	6.000	2	
+Akoko-Edo	Akoko-Edo	Edo	7.352	6.125	2	
+Ede North	Ede North	Osun	7.734	4.474	2	
+Ede South	Ede South	Osun	7.659	4.464	2	
+Use Ikot Edet	Ibiono Ibom	Akwa Ibom	5.109	7.846	2	
+Urua Edetobo	Obot Akara	Akwa Ibom	5.179	7.621	2	
+Sanka	Agaie	Niger	9.049	6.403	2	Edotsu
+Oko-Ede	Ogo Oluwa	Oyo	7.992	4.161	2	Oko Ede|OkoEde
+Ndabashi	Katcha	Niger	9.306	6.250	2	Edigi
+Jagun	Ede South	Osun	7.638	4.445	2	Jagun Ede|JagunEde
+Edet Obo	Ikot Ekpene	Akwa Ibom	5.191	7.736	2	Itak Edet Obo
+Ikot Umuiang Ede	Etinan	Akwa Ibom	4.754	7.873	2	
+Ikot Eyo Edem	Akpabuyo	Cross River	4.902	8.516	2	
+Ikot Edung	Ibiono Ibom	Akwa Ibom	5.223	7.878	2	
+Ikot Edun	Uruan	Akwa Ibom	4.958	8.044	2	
+Ikot Edok	Nsit Ubium	Akwa Ibom	4.724	8.012	2	
+Ikot Edet Nsa	Akpabuyo	Cross River	4.876	8.519	2	
+Ikot Edet	Etim Ekpo	Akwa Ibom	4.956	7.608	2	
+Ikot Edem Udo	Ikono	Akwa Ibom	5.244	7.785	2	
+Ikot Edem Oku	Akpabuyo	Cross River	4.847	8.526	2	
+Ikot Edem Odo	Akpabuyo	Cross River	4.886	8.418	2	
+Ikot Edeghe	Ikot Abasi	Akwa Ibom	4.671	7.689	2	
+Ikot Eda	Essien Udim	Akwa Ibom	5.078	7.757	2	
+Ikot Akpa Edu	Ibesikpo Asutan	Akwa Ibom	4.960	7.905	2	
+Igbo-Edun	Ogun Waterside	Ogun	6.382	4.521	2	
+Igbo-Edu	Ori Ire	Oyo	8.394	4.290	2	Igbo Edu
+Igbo Ede	Asa	Kwara	8.283	4.483	2	
+Etip Ediene	Ikono	Akwa Ibom	5.191	7.801	2	
+Edjeba	Ughelli North	Delta	5.619	6.102	2	Ejeba
+Eduweke	Orhionmwon	Edo	6.171	5.986	2	
+Edunjo	Olorunsogo	Oyo	8.865	4.070	2	
+Edunabon	Ife North	Osun	7.549	4.454	2	Awdunabon
+Edun	Lavun	Niger	9.751	5.508	2	
+Edun	Lavun	Niger	9.729	5.514	2	
+Edun	Lagelu	Oyo	7.467	4.050	2	
+Edun	Egbeda	Oyo	7.367	4.033	2	
+Edumega	Uhunmwonde	Edo	6.404	5.756	2	
+Edugi	Mokwa	Niger	9.317	5.217	2	
+Edu	Biase	Cross River	5.746	7.942	2	
+Edosalagi	Edati	Niger	8.978	5.777	2	
+Edor	Ikom	Cross River	6.196	8.559	2	
+Edor	Esit Eket	Akwa Ibom	4.637	8.022	2	
+Edondon	Obubra	Cross River	5.865	8.428	2	
+Edobaba	Edati	Niger	8.962	5.896	2	
+Edjovhe	Udu	Delta	5.450	5.883	2	
+Editaha	Essien Udim	Akwa Ibom	5.170	7.580	2	
+Edipe Eke	Olamaboro	Kogi	7.160	7.559	2	
+Edi Kalama	Abua/Odual	Rivers	4.777	6.751	2	Edikalama
+Ediene Esa	Oruk Anam	Akwa Ibom	4.711	7.633	2	
+Ediene	Ikono	Akwa Ibom	5.146	7.828	2	
+Ediene	Uyo	Akwa Ibom	5.022	7.852	2	
+Ediene	Abak	Akwa Ibom	4.987	7.824	2	
+Ediene	Oruk Anam	Akwa Ibom	4.786	7.719	2	
+Ediduo	Ikot Abasi	Akwa Ibom	4.618	7.600	2	
+Edidi Oja	Isin	Kwara	8.233	4.933	2	Edidi
+Edewo	Ovia South-West	Edo	6.483	5.400	2	
+Ede Urua	Eket	Akwa Ibom	4.633	7.961	2	
+Ede Obom	Nsit Ibom	Akwa Ibom	4.889	7.927	2	
+Edem Urua	Ibiono Ibom	Akwa Ibom	5.209	7.848	2	
+Edem-Nwosu	Odukpani	Cross River	5.251	7.984	2	
+Edem Idim	Onna	Akwa Ibom	4.663	7.855	2	
+Edema	Ishielu	Ebonyi	6.465	7.760	2	
+Edede	Warri South-West	Delta	5.492	5.196	2	
+Ede	Olamaboro	Kogi	7.295	7.697	2	
+Ede	Olamaboro	Kogi	7.221	7.642	2	
+Ede	Olamaboro	Kogi	7.146	7.539	2	
+Eddan	Mashegu	Niger	9.650	5.212	2	
+Ebighi Edu	Okobo	Akwa Ibom	4.858	8.165	2	
+Atai Obio Ediene	Ikono	Akwa Ibom	5.216	7.825	2	
+Afaha Eduok	Oron	Akwa Ibom	4.785	8.260	2	
+Edepie	Yenegoa	Bayelsa	4.950	6.362	2	
+Eddykiri	Akuku Toru	Rivers	4.366	6.697	2	
+Eli Ehia	Emuoha	Rivers	4.860	6.711	2	Edi|Eli-Ehio
+Edina	Shagamu	Ogun	6.772	3.590	2	
+Eda-Oniyo	Ilejemeje	Ekiti	7.958	5.260	2	
+Ediku	Oturkpo	Benue	7.214	8.145	2	
+Ediko	Apa	Benue	7.638	8.000	2	
+Edik Iko	Odukpani	Cross River	5.059	8.172	2	
+Esuk Ediong	Odukpani	Cross River	5.230	8.058	2	
+Edukwu Iyima	Izzi	Ebonyi	6.721	8.174	2	
+Edukwu Egbu	Izzi	Ebonyi	6.748	8.227	2	
+Edor	Ikom	Cross River	6.194	8.607	2	
+Ediba Beach	Calabar Municipal	Cross River	4.983	8.372	2	
+Eto Mkpe Archibong Edem	Akpabuyo	Cross River	4.966	8.438	2	
+Edem Esa	Akpabuyo	Cross River	4.904	8.471	2	
+Edem Ibiok	Nsit Atai	Akwa Ibom	4.897	8.011	2	
+Ikot Edebo	Nsit Atai	Akwa Ibom	4.891	8.012	2	
+Ediko	Udung Uko	Akwa Ibom	4.749	8.225	2	Edikor
+Afaha Ekpene Edi	Esit Eket	Akwa Ibom	4.651	8.111	2	
+Edik Okon Idem	Akpabuyo	Cross River	4.832	8.565	2	
+Edik Idim	Akpabuyo	Cross River	4.811	8.506	2	
+Edunbiye	Irele	Ondo	6.409	4.940	2	
+Edemogbene	Burutu	Delta	5.152	5.630	2	
+Edem	Etim Ekpo	Akwa Ibom	4.949	7.527	2	
+Ikot Edor	Onna	Akwa Ibom	4.612	7.829	2	
+Ediene	Oruk Anam	Akwa Ibom	4.867	7.759	2	
+Ikot Edim	Mkpat Enin	Akwa Ibom	4.658	7.805	2	
+Edem-Idim	Ini	Akwa Ibom	5.390	7.833	2	
+Ekwuot-Edem-Edet	Ikono	Akwa Ibom	5.278	7.756	2	
+Edem Urua	Ini	Akwa Ibom	5.411	7.827	2	
+Ibam-Edet	Ini	Akwa Ibom	5.348	7.764	2	
+Itak-Edem-Isa	Ini	Akwa Ibom	5.314	7.679	2	
+Nto Edino	Obot Akara	Akwa Ibom	5.248	7.552	2	Nto-Edino No. 1|Nto-Edino Number One
+Ikot Ediet	Ikot Ekpene	Akwa Ibom	5.234	7.685	2	
+Ikot Edo	Ibiono Ibom	Akwa Ibom	5.162	7.914	2	
+Mbiabong Edem Edik	Ibiono Ibom	Akwa Ibom	5.168	7.870	2	
+Ekpene Ediene	Ikono	Akwa Ibom	5.178	7.804	2	
+Ikot Akpa Edet	Ikono	Akwa Ibom	5.178	7.793	2	
+Ikot Akpa Edok	Ikono	Akwa Ibom	5.169	7.760	2	
+Ibiaku Ikot Edet	Ikot Ekpene	Akwa Ibom	5.148	7.761	2	
+Osuk-Ediene	Ikono	Akwa Ibom	5.146	7.805	2	
+Ikot Obio Edi	Abak	Akwa Ibom	5.117	7.791	2	
+Edo-Ogwashi-Uku	Aniocha South	Delta	6.260	6.554	2	Abo-Ogwashi-Ukwu
+Edoide	Ughelli North	Delta	5.566	6.087	2	
+Edherie	Isoko South	Delta	5.378	6.316	2	
+Ise-Edeogbana	Ndokwa East	Delta	5.555	6.532	2	
+Ede	Ogba/Egbema/Ndoni	Rivers	5.275	6.645	2	
+Eilo-Edo	Uhunmwonde	Edo	6.436	6.120	2	
+Edhou	Ika South	Delta	6.308	6.121	2	Ozanogogo
+Ede North	Ede North	Osun	7.707	4.509	2	Agbegbe Ijoba Ibile Ariwa Ede|Ede Nord|Ede ta Arewa|Ndi North|Pak Ede
+Edati	Edati	Niger	9.027	5.618	2	Agbegbe Ijoba Ibile Edati
+Edu	Edu	Kwara	8.892	5.210	2	Edu Local Government Area|Ijoba Agbegbe Edu
+Akpa-Edem	Nsukka	Enugu	6.881	7.324	2	
+Ozi-Edem	Nsukka	Enugu	6.863	7.333	2	
+Edemani	Nsukka	Enugu	6.848	7.343	2	
+Ede-Oballa	Nsukka	Enugu	6.792	7.424	2	
+Edep	Ogoja	Cross River	6.470	8.655	2	
+Edufachi	Izzi	Ebonyi	6.582	8.184	2	
+Odagire-Edda	Abakaliki	Ebonyi	6.241	8.173	2	
+Edide	Ogoja	Cross River	6.574	8.921	2	Edede
+Ede	Buruku	Benue	7.174	9.235	2	
+Edeborikiri	Brass	Bayelsa	4.433	6.091	2	
+Edo	Lavun	Niger	9.074	5.761	2	
+Edobagi	Gbako	Niger	9.115	5.856	2	
+Edozhigi	Gbako	Niger	9.103	5.852	2	
+Edogi	Edati	Niger	9.083	5.591	2	
+Edigi	Agaie	Niger	9.168	6.343	2	
+Dotatsu Edotsu	Agaie	Niger	9.143	6.490	2	
+Edoro	Agaie	Niger	9.112	6.323	2	
+Edotsu	Katcha	Niger	9.054	6.157	2	
+Edele	Obafemi Owode	Ogun	7.104	3.414	2	
+Aba-Ede	Ona Ara	Oyo	7.185	4.035	2	
+Edotumi	Boripe	Osun	7.841	4.630	2	
+Edoji	Obokun	Osun	7.759	4.777	2	
+Ede	Ila	Osun	7.886	4.886	2	
+Edun	Yewa North	Ogun	7.080	2.877	2	
+Edunda	Ogun Waterside	Ogun	6.470	4.527	2	
+Edemo	Ogun Waterside	Ogun	6.418	4.518	2	
+Edu	Ife South	Osun	7.342	4.536	2	
+Edun-Abon	Ife South	Osun	7.281	4.544	2	
+Ede	Atakunmosa West	Osun	7.365	4.712	2	
+Edetedo	Ekiti South-West	Ekiti	7.446	4.993	2	
+Igbe-Ede	Moro	Kwara	8.578	4.475	2	
+Budo-Edun	Ifelodun	Kwara	8.396	4.811	2	
+Edeko	Agaie	Niger	8.920	6.378	2	
+Edo	Agaie	Niger	8.809	6.340	2	
+Edaji	Toto	Nasarawa	8.371	7.355	2	
+Edihan	Akinyele	Oyo	7.625	4.090	2	
+Edunabon	Ede South	Osun	7.619	4.448	2	
 Ede Street	Port-Harcourt	Rivers	4.807	7.014	1	
 Edibe Edibe ROAD	Calabar South	Cross River	4.930	8.312	1	
 Edo Textile Mill road	Egor	Edo	6.359	5.607	1	
@@ -108,18 +229,12 @@ Edo-Osagie Street	Egor	Edo	6.324	5.568	1
 Edosomwan Lane	Oredo	Edo	6.342	5.604	1	
 Edo Osagie Lane	Oredo	Edo	6.320	5.611	1	
 Edo Lodge Street	Egor	Edo	6.364	5.622	1	
-Centre for Community Development Education	Oredo	Edo	6.327	5.621	0	
-Rakie Educational Centre	Oredo	Edo	6.325	5.614	0	
-HIGH TOWER EDUCATION	Egor	Edo	6.375	5.630	0	
-TMJ Education Service	Oredo	Edo	6.311	5.609	0	
-Edi International Hospital	Oredo	Edo	6.327	5.620	0	
 Chief Edobor Crescent	Ibadan North	Oyo	7.425	3.934	1	
 Adebomi Edun Street	Alimosho	Lagos	6.609	3.301	1	
 Ede Street	Apapa	Lagos	6.444	3.370	1	
 Seed Education Center Road	Eti Osa	Lagos	6.439	3.490	1	
 Edidi Street	Ajeromi/Ifelodun	Lagos	6.470	3.345	1	
-Winfosa Education Center	Egor	Edo	6.378	5.631	0	
-EDEMUDIA STREET	Egor	Edo	6.359	5.580	1	
+Edemudia Street	Egor	Edo	6.359	5.580	1	
 Edeki Street	Egor	Edo	6.369	5.570	1	
 Edenaboye Street	Egor	Edo	6.360	5.575	1	
 Edenamigho Lane	Egor	Edo	6.363	5.579	1	
@@ -127,7 +242,6 @@ Oni Edigin Lane 1	Egor	Edo	6.363	5.574	1
 Oni Edigin Lane 2	Egor	Edo	6.363	5.574	1	
 Oni Edigin Street	Egor	Edo	6.363	5.575	1	
 Edo-ovbiye Street	Egor	Edo	6.367	5.632	1	
-Federal College of Education Pankshin	Pankshin	Plateau	9.335	9.394	0	
 Edebiri Street	Oredo	Edo	6.331	5.606	1	
 Dr. Festus Edobor Close	Oredo	Edo	6.301	5.591	1	
 Ederaro Avenue	Oredo	Edo	6.313	5.608	1	
@@ -146,8 +260,6 @@ education board street	Warri South	Delta	5.509	5.751	1
 Eda Street	Warri South	Delta	5.530	5.747	1	
 Edumijeke Close	Uvwie	Delta	5.543	5.782	1	
 Edomwandagbo close	Oredo	Edo	6.329	5.599	1	
-Federal College of Education, Obudu	Obudu	Cross River	6.678	9.170	0	
-Edosomwan lane	Oredo	Edo	6.325	5.612	1	
 Edoba Asemota Street	Oredo	Edo	6.321	5.580	1	
 Edebiri Lane	Oredo	Edo	6.332	5.604	1	
 Osaro Ediae Avenue	Oredo	Edo	6.322	5.588	1	
@@ -189,16 +301,10 @@ Edeson Crescent	Enugu North	Enugu	6.464	7.591	1
 Edozie Close	Enugu North	Enugu	6.440	7.516	1	
 Education Road	Tofa	Kano	12.054	8.271	1	
 Edubikore Orenuga Street	Ìkòròdú	Lagos	6.623	3.490	1	
-Department of Education	Ungongo	Kano	11.974	8.430	0	
-Faculty of Education Complex	Ungongo	Kano	11.973	8.430	0	
 Ede - Abeere Road	Ede North	Osun	7.744	4.499	1	
 Edomiya Street	Eti Osa	Lagos	6.493	3.584	1	
 Olatunji Edidi Street	Eti Osa	Lagos	6.491	3.591	1	
-NOWA Educational centre	Karu	Nasarawa	8.885	7.606	0	
-College of Education	Katagum	Bauchi	11.675	10.210	0	
 Ede - Owode Road	Ede North	Osun	7.719	4.480	1	
-Ede - Owode Road	Ede North	Osun	7.724	4.463	1	
-Faculty of Education	Ibadan North	Oyo	7.448	3.896	0	
 Ede - Abeere Road	Ede North	Osun	7.743	4.447	1	
 Ede - Abeere Road	Ede North	Osun	7.743	4.460	1	
 Ede - Ejigbo Road	Ejigbo	Osun	7.903	4.314	1	
@@ -214,32 +320,23 @@ Edionwele St	Esan West	Edo	6.738	6.151	1
 Edeoghon Street	Esan West	Edo	6.744	6.109	1	
 Edimeke St	Esan West	Edo	6.755	6.054	1	
 Edward Jacobs cres.	Owerri Municipal	Imo	5.485	7.015	1	
-General Edet Akpan Avenue	Uyo	Akwa Ibom	5.024	7.954	1	
-General Edet Akpan Avenue	Uyo	Akwa Ibom	5.009	7.951	1	
 Eyo Edem St	Calabar Municipal	Cross River	4.960	8.318	1	
 John Edah Avenue	Eti Osa	Lagos	6.476	3.577	1	
 Abusi Edumare Street	Alimosho	Lagos	6.642	3.256	1	
 Samuel Edosa St	Kosofe	Lagos	6.619	3.387	1	
 Eddie Eleje Street	Eti Osa	Lagos	6.445	3.519	1	
 Edobor Street	Ikpoba-Okha	Edo	6.205	5.631	1	
-Edobor Street	Ikpoba-Okha	Edo	6.205	5.638	1	
 Edun Street	Oshodi/Isolo	Lagos	6.569	3.339	1	
 Edosomwan Street	Oredo	Edo	6.270	5.578	1	
 Edokpolor Street	Ikpoba-Okha	Edo	6.228	5.633	1	
 Edem Street	Chikun	Kaduna	10.465	7.463	1	
 Ede/Ido-Osun/Osogbo Road	Egbedore	Osun	7.774	4.481	1	
 Edo Street	Ikpoba-Okha	Edo	6.260	5.703	1	
-Edjeba Road	Warri South	Delta	5.542	5.734	1	
-Edo Textile Mill road	Egor	Edo	6.359	5.618	1	
-Edo Textile Mill road	Egor	Edo	6.359	5.599	1	
 Ede Road	Igabi	Kaduna	10.507	7.374	1	
-Ede - Abeere Road	Ede North	Osun	7.733	4.515	1	
 Erin osun - Ede Road	Egbedore	Osun	7.765	4.445	1	
-Ejigbo - Ede Road	Egbedore	Osun	7.770	4.434	1	
-Ejigbo - Ede Road	Egbedore	Osun	7.762	4.434	1	
 Edokpa Street	Egor	Edo	6.390	5.597	1	
 Arch. John E. Edokpolor Street	Oredo	Edo	6.293	5.574	1	
-EDOKPAYI STREET	Oredo	Edo	6.301	5.574	1	
+Edokpayi Street	Oredo	Edo	6.301	5.574	1	
 Edukugho Road	Warri South	Delta	5.505	5.764	1	
 Edobor Collins Street	Ibeju Lekki	Lagos	6.449	3.674	1	
 Edegele Street	Obio/Akpor	Rivers	4.904	6.986	1	
@@ -248,7 +345,6 @@ Godwin Eduak Close	Eti Osa	Lagos	6.471	3.661	1
 Nsikak Eduok Avenue	Uyo	Akwa Ibom	5.006	7.944	1	
 Akpan Edoh Street	Uyo	Akwa Ibom	5.029	7.945	1	
 Eda Street	Uyo	Akwa Ibom	5.028	7.963	1	
-Ede - Ejigbo Road	Ejigbo	Osun	7.899	4.316	1	
 Eda Street	Uyo	Akwa Ibom	5.024	7.966	1	
 Maine - Edgerly Road	Calabar South	Cross River	4.939	8.322	1	
 Maine - Edgerly Road	Calabar South	Cross River	4.923	8.315	1	
@@ -256,39 +352,84 @@ College of Education Road	Ilorin West	Kwara	8.475	4.531	1
 Ekikhalo Edosomwan Road	Oredo	Edo	6.275	5.607	1	
 Edith Asekun Close	Eti Osa	Lagos	6.446	3.469	1	
 Edogun Avenue	Uvwie	Delta	5.553	5.771	1	
-Edjeba Primary School	Warri South	Delta	5.543	5.732	0	
-Federal College of Education	Yola South	Adamawa	9.247	12.472	0	FCE
-Federal College of Education (Technical), Akoka	Shomolu	Lagos	6.522	3.383	0	
-Kith & Kin Educational Schools	Ìkòròdú	Lagos	6.564	3.478	0	
-Adeniran Ogunsanya College of Education	Ado Odo/Ota	Ogun	6.502	3.110	0	AOCOED
 Edijana Street	Oredo	Edo	6.249	5.629	1	
-Edunabon Community Health Centre	Ife North	Osun	7.553	4.458	0	
 Eddie Street	Umuahia North	Abia	5.634	7.434	1	
-Edo State University, Iyamho	Etsako West	Edo	7.130	6.303	0	Edo University
-The Federal College of Education (Technical), Omoku	Ogba/Egbema/Ndoni	Rivers	5.333	6.649	0	
-Institution of continuing education Warri	Warri South	Delta	5.519	5.746	0	I.C.E
-FCT department of mass education	Municipal Area Council	FCT Abuja	8.822	7.569	0	
 edge avenue	Enugu East	Enugu	6.507	7.525	1	
 New EDM	Ife Central	Osun	7.516	4.529	1	
 Eromosele Emoyon Edokpa Street	Esan Central	Edo	6.800	6.236	1	
-Edem Street	Chikun	Kaduna	10.468	7.460	1	
-Edukugho Community	Warri South	Delta	5.503	5.764	2	
-Educare Private Schools	Jos North	Plateau	9.860	8.867	0	
-newton education center	Jos North	Plateau	9.943	8.867	0	
-Ophenna Edda health centre	Abakaliki	Ebonyi	6.183	8.359	0	
-Edward Nnaji Park Street	Enugu North	Enugu	6.454	7.525	1	
-Faculty of Technology Education	Kaduna North	Kaduna	10.612	7.442	0	
 Joshua Edo Street	Oredo	Edo	6.226	5.583	1	
 NE Eduok Crescent	Municipal Area Council	FCT Abuja	9.037	7.548	1	
 Ede Street	Ovia North-East	Edo	6.464	5.568	1	
 Ede Street	Ovia North-East	Edo	6.466	5.572	1	
 Ede Street	Ovia North-East	Edo	6.463	5.564	1	
 Onyekachi Edeh Street	Eti Osa	Lagos	6.469	3.635	1	
+Ede Station	Ede North	Osun	7.750	4.433	0	
+Edo College	Ikpoba-Okha	Edo	6.332	5.647	0	
+Edo Line	Oredo	Edo	6.344	5.628	0	
+King's and Queen's Education Centre	Egor	Edo	6.367	5.630	0	
+Destiny Education Centre	Egor	Edo	6.371	5.587	0	
+St. Phillips Education School	Egor	Edo	6.362	5.577	0	
+Firm Foundation Adult Education Center	Oredo	Edo	6.336	5.632	0	
+ST. Mary Dedication Education Centre	Oredo	Edo	6.322	5.617	0	
+Edegbe Line	Oredo	Edo	6.345	5.629	0	
+Universal Basic Education	Oredo	Edo	6.339	5.625	0	
+Old Edo College	Oredo	Edo	6.343	5.618	0	
+Enugu State College Of Education (Technical), Enugu	Enugu North	Enugu	6.460	7.499	0	
+Enugu State College Of Education Technical Enugu	Enugu North	Enugu	6.460	7.499	0	
+Educational Advancement Centre	Ibadan North	Oyo	7.418	3.901	0	
+Edgeba Estate School	Warri South	Delta	5.538	5.734	0	
+College of Education	Warri South	Delta	5.542	5.744	0	
+Edulyn  School	Uvwie	Delta	5.564	5.755	0	
+Edel Montessori School	Okpe	Delta	5.593	5.708	0	
+Edulyn College	Uvwie	Delta	5.565	5.755	0	
+EDS Exceptional Diamond School	Port-Harcourt	Rivers	4.822	7.052	0	
+Eulex Educational Center	Obio/Akpor	Rivers	4.839	7.045	0	
+Shehu Shagari Collage of Education	Wamako	Sokoto	12.997	5.214	0	
+Early Child Care Development Education Primary School	Gombe	Gombe	10.300	11.173	0	
+Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
+Salvation Army Primary School III, Edu Agbara	Ado Odo/Ota	Ogun	6.505	3.101	0	
+Salvation Army Primary School I, Edu Agbara	Ifo	Ogun	6.817	3.206	0	
+Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.559	2.929	0	
+Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.538	3.064	0	
+Salvation Army Primary School I, Edu Agbara	Ado Odo/Ota	Ogun	6.536	3.067	0	
+edozie bus stop	Enugu North	Enugu	6.428	7.494	0	
+Special Education Center	Bauchi	Bauchi	10.280	9.800	0	
+Kwaine College of Education (KCOE) Yelanguruza Gombe	Gombe	Gombe	10.272	11.196	0	
+Edo Convalescent Homeclinic And Easy Delivery	Ojo	Lagos	6.458	3.154	0	
+Federal college of Education	Iwo	Osun	7.645	4.171	0	
+Education	Gwale	Kano	11.959	8.472	0	
+HisGrace College of Education Ilorin, Mubo Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.503	4.572	0	
+Edinwo Mall, Fate Tanke Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.602	0	
+Edinwo Plaza Muritala, Ilorin, Kwara, Nigeria	Ilorin East	Kwara	8.485	4.564	0	
+Abdulmu'unin Educational Foundation	Bauchi	Bauchi	10.254	10.094	0	
+Faculty of Education	Ife Central	Osun	7.513	4.525	0	English
+Technology Education Department	Kaduna North	Kaduna	10.612	7.442	0	
+Redeemers University, Ede	Ede South	Osun	7.680	4.460	0	
+Centre for Community Development Education	Oredo	Edo	6.327	5.621	0	
+Rakie Educational Centre	Oredo	Edo	6.325	5.614	0	
+High Tower Education	Egor	Edo	6.375	5.630	0	
+TMJ Education Service	Oredo	Edo	6.311	5.609	0	
+Edi International Hospital	Oredo	Edo	6.327	5.620	0	
+Winfosa Education Center	Egor	Edo	6.378	5.631	0	
+Federal College of Education Pankshin	Pankshin	Plateau	9.335	9.394	0	
+Federal College of Education, Obudu	Obudu	Cross River	6.678	9.170	0	
+Department of Education	Ungongo	Kano	11.974	8.430	0	
+Faculty of Education Complex	Ungongo	Kano	11.973	8.430	0	
+NOWA Educational centre	Karu	Nasarawa	8.885	7.606	0	
+College of Education	Katagum	Bauchi	11.675	10.210	0	
+Faculty of Education	Ibadan North	Oyo	7.448	3.896	0	
+Edjeba Primary School	Warri South	Delta	5.543	5.732	0	
+Federal College of Education	Yola South	Adamawa	9.247	12.472	0	FCE
+Federal College of Education (Technical), Akoka	Shomolu	Lagos	6.522	3.383	0	
+Kith & Kin Educational Schools	Ìkòròdú	Lagos	6.564	3.478	0	
+Adeniran Ogunsanya College of Education	Ado Odo/Ota	Ogun	6.502	3.110	0	AOCOED
+Edunabon Community Health Centre	Ife North	Osun	7.553	4.458	0	
+Edo State University, Iyamho	Etsako West	Edo	7.130	6.303	0	Edo University
+The Federal College of Education (Technical), Omoku	Ogba/Egbema/Ndoni	Rivers	5.333	6.649	0	
+Institution of continuing education Warri	Warri South	Delta	5.519	5.746	0	I.C.E
+FCT department of mass education	Municipal Area Council	FCT Abuja	8.822	7.569	0	
+Educare Private Schools	Jos North	Plateau	9.860	8.867	0	
+newton education center	Jos North	Plateau	9.943	8.867	0	
+Ophenna Edda health centre	Abakaliki	Ebonyi	6.183	8.359	0	
+Faculty of Technology Education	Kaduna North	Kaduna	10.612	7.442	0	
 Nwafor Orizu College of Education	Anambra East	Anambra	6.216	6.802	0	
-Edmund Crescent	Shomolu	Lagos	6.517	3.370	1	
-Edda	Edda	Ebonyi	5.827	7.784	2	
-Edu	Edu	Kwara	8.845	5.212	2	
-Edati	Edati	Niger	8.963	6.000	2	
-Akoko-Edo	Akoko-Edo	Edo	7.352	6.125	2	
-Ede North	Ede North	Osun	7.734	4.474	2	
-Ede South	Ede South	Osun	7.659	4.464	2	

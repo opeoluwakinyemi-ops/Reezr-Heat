@@ -1,13 +1,16 @@
+Nyuar	Balanga	Gombe	9.780	11.753	3	
+Abonnema	Akuku Toru	Rivers	4.732	6.772	3	Abonema|Nyemoni
 Nyakasang	Odukpani	Cross River	5.139	8.212	2	Ayakasang
 Nyutsa	Guma	Benue	7.962	8.569	2	
 Nyogor Luekon	Khana	Rivers	4.750	7.434	2	Nwogor Luekon
 Nyimoa	Bassa	Kogi	7.867	7.083	2	Nemoa;Nimua
+Nyikusum	Bali	Taraba	8.400	11.450	2	Yunkussum
+Nyankola	Wukari	Taraba	8.200	10.017	2	Yakola
 Nyibango Ardo Musa	Maiha	Adamawa	10.072	13.120	2	
 Nyakire	Gujba	Yobe	11.335	11.772	2	
 Nyaleri	Damboa	Borno	11.294	12.850	2	Kuka Kowa
 Nyanga Hausawa	Kalgo	Kebbi	12.309	4.051	2	
 Nyibiri	Michika	Adamawa	10.604	13.535	2	Nébri
-Nyuar	Balanga	Gombe	9.780	11.753	3	
 Nyatkpok	Ikom	Cross River	6.288	8.533	2	
 Nyanga Fulani	Gusau	Zamfara	12.305	7.084	2	
 Nyokebika	Odukpani	Cross River	5.079	8.312	2	Ikot Okon Archibong
@@ -34,17 +37,286 @@ Jauro Nyele	Shani	Borno	10.038	11.876	2
 Nyi	Essien Udim	Akwa Ibom	5.065	7.623	2	
 Nyawi	Kwaya Kusar	Borno	10.443	11.896	2	
 Nylemsu	Shani	Borno	10.251	12.135	2	
-Nyawi Dispensary	Bayo	Borno	10.665	11.776	0	
-Nyaleri Primary Health Clinic	Damboa	Borno	11.295	12.848	0	
-Azman filling station Nyanya	Municipal Area Council	FCT Abuja	9.028	7.579	0	
-Nyanya bus station	Municipal Area Council	FCT Abuja	9.023	7.571	0	
-Before Bridge Bus Stop Nyanya	Municipal Area Council	FCT Abuja	9.023	7.570	0	
+Tungan Nyadia	Dandi	Kebbi	11.837	3.885	2	
+Nyebu	Bassa	Kogi	8.009	7.363	2	Onyebu
+Nyukkara Jauro	Maiha	Adamawa	10.054	13.081	2	
+Nyuaji	Ushongo	Benue	7.152	8.939	2	
+Nyounkiri	Akuku Toru	Rivers	4.467	6.534	2	
+Nyor	Gboko	Benue	7.291	8.748	2	
+Nyor	Ushongo	Benue	7.114	8.974	2	
+Nyom	Ushongo	Benue	7.236	8.985	2	
+Nyolum	Ushongo	Benue	7.107	8.792	2	
+Nyoborde	Mayo-Belwa	Adamawa	8.963	12.047	2	
+Nykwagh	Ushongo	Benue	7.247	8.986	2	
+Nyiyopgu	Ushongo	Benue	7.207	8.962	2	
+Nyivu	Donga	Taraba	7.526	10.215	2	
+Nyivu	Donga	Taraba	7.323	10.253	2	
+Nyityo	Takum	Taraba	7.436	10.138	2	
+Nyityo	Gboko	Benue	7.366	8.703	2	
+Nyityo	Konshisha	Benue	7.177	8.618	2	
+Nyityo	Kwande	Benue	6.785	9.544	2	
+Nyiti	Ussa	Taraba	7.159	10.143	2	
+Nyitel	Ushongo	Benue	7.167	8.939	2	
+Nyitanen	Ushongo	Benue	7.062	8.833	2	
+Nyita	Damboa	Borno	10.932	12.604	2	
+Nyita	Donga	Taraba	7.429	10.306	2	
+Nyishima	Konshisha	Benue	7.095	8.725	2	
+Nyipila	Konshisha	Benue	7.012	8.752	2	
+Nyior-Yongu	Konshisha	Benue	7.081	8.643	2	
+Nyior	Gboko	Benue	7.371	8.743	2	
+Nyior	Konshisha	Benue	7.235	8.615	2	
+Nyior	Konshisha	Benue	7.099	8.648	2	
+Nyinya	Gboko	Benue	7.472	8.736	2	
+Nyinya	Gboko	Benue	7.292	8.678	2	
+Nyinemba	Gboko	Benue	7.324	8.635	2	
+Nyinga	Hong	Adamawa	10.224	12.925	2	
+Nyimwe	Donga	Taraba	7.408	10.298	2	
+Nyimgba	Konshisha	Benue	7.007	8.855	2	
+Nyimbo	Abaji	FCT Abuja	8.896	6.885	2	
+Nyikyaa	Ushongo	Benue	7.205	8.859	2	
+Nyikyaa	Ushongo	Benue	7.167	8.869	2	
+Nyikwagh	Bali	Taraba	7.870	10.803	2	
+Nyikwa	Gboko	Benue	7.399	8.657	2	
+Nyikua	Markurdi	Benue	7.693	8.587	2	
+Nyigh	Konshisha	Benue	7.095	8.721	2	
+Nyigan	Kurmi	Taraba	7.283	10.712	2	
+Nyietar	Ushongo	Benue	7.179	8.986	2	
+Nyido	Kurmi	Taraba	7.180	10.288	2	
+Nyido	Ussa	Taraba	7.103	10.101	2	
+Nyichie	Ushongo	Benue	7.102	8.802	2	
+Nyibango Yerima Belle	Maiha	Adamawa	10.071	13.122	2	
+Nyibango Keremi	Jada	Adamawa	8.535	12.138	2	
+Nyibango	Madagali	Adamawa	10.816	13.606	2	
+Nyibango	Gombi	Adamawa	10.241	12.582	2	
+Nyibango	Song	Adamawa	9.815	12.717	2	
+Nyibango	Song	Adamawa	9.683	13.050	2	
+Nyibango	Girei	Adamawa	9.525	12.494	2	
+Nyibango	Fufore	Adamawa	9.127	12.174	2	
+Nyibango	Fufore	Adamawa	9.003	12.339	2	
+Nyibango	Jada	Adamawa	8.532	12.118	2	
+Nyiam	Guma	Benue	7.775	8.664	2	
+Nyenge	Konshisha	Benue	7.173	8.594	2	
+Nyene Kusun	Biase	Cross River	5.372	8.146	2	
+Nyelan	Pankshin	Plateau	9.442	9.410	2	
+Nyekpur	Gwer East	Benue	7.388	8.545	2	
+Nyekpor	Konshisha	Benue	7.286	8.609	2	
+Nyegba	Toto	Nasarawa	8.189	7.228	2	
+Nyebu	Bassa	Kogi	7.991	7.305	2	
+Nyazo	Ussa	Taraba	7.067	10.037	2	
+Nyavun	Ardo-Kola	Taraba	8.672	11.105	2	
+Nyavo	Zing	Taraba	8.886	11.732	2	
+Nyatsel	Hong	Adamawa	10.303	12.904	2	
+Nyasikasi	Teungo	Adamawa	7.857	11.632	2	Yashakashi
+Nyaregh	Konshisha	Benue	7.154	8.625	2	
+Nyapuri	Ussa	Taraba	7.041	10.120	2	
+Nyanon	Paikoro	Niger	9.448	6.597	2	
+Nyamvior	Konshisha	Benue	7.266	8.540	2	
+Nyamtyavel	Konshisha	Benue	7.088	8.671	2	
+Nyamtsam	Konshisha	Benue	7.041	8.694	2	
+Nyamshar	Konshisha	Benue	7.005	8.649	2	
+Nyamkyo	Konshisha	Benue	7.077	8.646	2	
+Nyamkpev	Kwande	Benue	6.635	9.580	2	
+Nyamkor	Markurdi	Benue	7.767	8.621	2	
+Nyamgha Mainta	Askira-Uba	Borno	10.653	12.506	2	
+Nyamgha Bulama Pindar	Askira-Uba	Borno	10.675	12.491	2	
+Nyamgha Bulagara	Askira-Uba	Borno	10.649	12.511	2	
+Nyamge	Ushongo	Benue	7.170	8.987	2	
+Nyambula	Fufore	Adamawa	8.981	12.204	2	
+Nyamata-Manda	Gassol	Taraba	8.477	10.926	2	Nyamat Marda
+Nyamadi	Yorro	Taraba	8.948	11.545	2	
+Nyam	Keana	Nasarawa	8.212	8.551	2	
+Nyam	Konshisha	Benue	7.362	8.581	2	
+Nyali	Zing	Taraba	8.956	11.767	2	
+Nyakwe	Kurmi	Taraba	7.124	10.882	2	
+Nyakuri	Bali	Taraba	8.298	11.239	2	
+Nyakura	Ussa	Taraba	7.359	10.227	2	
+Nyaku	Ushongo	Benue	7.129	8.963	2	
+Nyakpan	Ardo-Kola	Taraba	8.900	11.268	2	
+Nyakre	Gujba	Yobe	11.334	11.771	2	Nyakire
+Nyaja	Yorro	Taraba	8.892	11.579	2	
+Nyagwa	Shiroro	Niger	9.828	6.770	2	
+Nyagobni	Paikoro	Niger	9.437	6.592	2	
+Nyagba	Konshisha	Benue	7.166	8.673	2	
+Nyagba	Ushongo	Benue	7.062	8.882	2	
+Nyagang	Jada	Adamawa	8.658	12.108	2	
+Nyagan	Jada	Adamawa	8.531	12.397	2	
+Nyagam	Bali	Taraba	8.178	11.105	2	
+Nyadanya	Gombi	Adamawa	10.165	12.781	2	
+Nyabe	Donga	Taraba	7.402	10.293	2	
+Nyaba	Kogi	Kogi	8.359	6.862	2	
+Nya	Konshisha	Benue	7.276	8.566	2	
+Nya	Mkpat Enin	Akwa Ibom	4.810	7.789	2	
+Ngel Nyaki	Sardauna	Taraba	7.074	11.063	2	
+Mai Nyebe	Sardauna	Taraba	7.038	10.999	2	
+Jauro Nyama	Ardo-Kola	Taraba	8.743	11.228	2	
+Ikot Nya Ono	Ibiono Ibom	Akwa Ibom	5.239	7.871	2	
+Ikot Nya	Odukpani	Cross River	5.137	8.077	2	
+Arnado-Nyiri	Ganye	Adamawa	8.329	12.227	2	Arnado Nyiri|ArnadoNyiri
+Nyamkan	Ushongo	Benue	7.185	8.977	2	
+Nyikwagh	Ushongo	Benue	7.250	8.910	2	
+Nyietaghel	Gboko	Benue	7.278	8.805	2	
+Nyiatagher	Gwer East	Benue	7.280	8.249	2	
+Nyitse	Gboko	Benue	7.289	8.832	2	
+Nyom	Gboko	Benue	7.314	8.796	2	
+Nyor	Gboko	Benue	7.357	8.846	2	
+Nyam	Gboko	Benue	7.398	8.952	2	
+Nyhiemba	Gboko	Benue	7.465	8.948	2	Nyiashuna
+Nyiongo	Gwer West	Benue	7.589	8.241	2	
+Nyiti	Gwer East	Benue	7.645	8.397	2	
+Nyili	Markurdi	Benue	7.668	8.409	2	
+Nyikia	Gwer West	Benue	7.705	8.121	2	
+Nyikia	Gwer West	Benue	7.713	8.167	2	
+Nyamsando	Markurdi	Benue	7.753	8.401	2	
+Nyortim	Gwer West	Benue	7.828	8.159	2	
+Nyitar	Guma	Benue	7.968	8.422	2	
+Ukem Ikot Nyong	Odukpani	Cross River	5.070	8.215	2	
+Ikot Nya	Itu	Akwa Ibom	5.160	8.057	2	
+Nyan	Ese Odo	Ondo	6.184	4.978	2	Nyan I|Nyan One
+Nyowi Bangha	Khana	Rivers	4.743	7.468	2	
+Nyobe Beeri	Khana	Rivers	4.714	7.466	2	
+Ekoi-Ikot Nyoho	Ini	Akwa Ibom	5.381	7.736	2	
+Nyara Enyin	Obot Akara	Akwa Ibom	5.195	7.655	2	
+Ikot Nya	Ikono	Akwa Ibom	5.208	7.770	2	
+Ikot Nyoho	Ikono	Akwa Ibom	5.200	7.776	2	
+Ikot Nya	Itu	Akwa Ibom	5.164	7.992	2	
+Nyanya	Municipal Area Council	FCT Abuja	9.067	7.483	2	
+Kanke	Kanke	Plateau	9.393	9.633	2	Agbegbe Ijoba Ibile Kanke|Kanke Local Government Area|kankh nyjryh
+Nyamaram	Guzamala	Borno	13.022	13.396	2	
+Nyiraa	Gwer East	Benue	7.288	8.429	2	
+Nyaghbough	Konshisha	Benue	7.148	8.496	2	
+Nyamngee	Konshisha	Benue	7.133	8.494	2	
+Nyughbough	Konshisha	Benue	7.084	8.490	2	
+Nyamngee	Konshisha	Benue	7.077	8.488	2	
+Nyumbe	Konshisha	Benue	7.039	8.467	2	
+Okwu-Nyonu	Ikwo	Ebonyi	6.194	8.315	2	
+Baba Nyamde	Gassol	Taraba	8.450	10.687	2	
+Nyeli	Bali	Taraba	8.089	10.686	2	
+Nyon	Gwer West	Benue	7.675	8.196	2	
+Nyaka	Gwer West	Benue	7.658	8.107	2	
+Nyaibo	Gwer West	Benue	7.568	8.161	2	
+Nyiago	Gwer West	Benue	7.735	8.314	2	
+Nyer	Markurdi	Benue	7.682	8.444	2	
+Nyiaka	Gwer West	Benue	7.814	8.131	2	
+Nyitor	Guma	Benue	7.798	9.014	2	
+Nyiter	Logo	Benue	7.796	9.239	2	
+Nyam	Buruku	Benue	7.514	9.071	2	
+Nyibam	Buruku	Benue	7.528	9.024	2	
+Nyardwen	Logo	Benue	7.623	9.099	2	
+Nyough	Logo	Benue	7.588	9.130	2	
+Nyam	Buruku	Benue	7.506	9.153	2	
+Nvakyor	Logo	Benue	7.721	9.235	2	Nyakyor
+Tsavhee Nyamko	Logo	Benue	7.670	9.217	2	
+Nyoso	Ukum	Benue	7.726	9.431	2	
+Nyor	Ukum	Benue	7.609	9.470	2	
+Nyam	Wukari	Taraba	7.956	9.572	2	
+Nyoosu	Wukari	Taraba	7.844	9.909	2	
+Nyajo	Ukum	Benue	7.632	9.616	2	
+Nyior	Ukum	Benue	7.637	9.708	2	
+Nyitemen	Ukum	Benue	7.611	9.760	2	
+Nyikwagh	Gboko	Benue	7.475	9.044	2	
+Nyiekpoughor	Gboko	Benue	7.403	9.024	2	
+Nyeam	Gboko	Benue	7.336	9.065	2	
+Nyitamen	Gboko	Benue	7.299	9.007	2	
+Nyajo	Gboko	Benue	7.283	9.087	2	
+Nyor	Gboko	Benue	7.284	9.043	2	
+Nyamkume	Buruku	Benue	7.486	9.124	2	
+Nyor	Gboko	Benue	7.360	9.178	2	
+Nyor	Gboko	Benue	7.325	9.116	2	
+Nyam	Buruku	Benue	7.295	9.156	2	
+Nyiyongo	Buruku	Benue	7.275	9.126	2	
+Nyam	Buruku	Benue	7.264	9.120	2	
+Nyamgee	Buruku	Benue	7.361	9.242	2	
+Nyantswam	Buruku	Benue	7.270	9.238	2	
+Nyor	Logo	Benue	7.496	9.264	2	
+Nyagher	Katsina-Ala	Benue	7.268	9.297	2	
+Nyikaa	Katsina-Ala	Benue	7.252	9.356	2	
+Nyikyaa	Katsina-Ala	Benue	7.284	9.419	2	
+Nyitse	Katsina-Ala	Benue	7.275	9.403	2	
+Nyiekpoughol	Buruku	Benue	7.199	9.089	2	
+Nyaghkibough	Ushongo	Benue	7.211	9.007	2	
+Nyior	Gboko	Benue	7.201	9.035	2	
+Nyianshima	Buruku	Benue	7.154	9.077	2	
+Nyam	Buruku	Benue	7.203	9.122	2	
+Nyior	Buruku	Benue	7.154	9.098	2	
+Nyoto	Vandeikya	Benue	7.013	9.101	2	
+Nyitse	Ushongo	Benue	7.060	9.231	2	
+Nyitse	Katsina-Ala	Benue	7.186	9.294	2	
+Nyamkume	Gboko	Benue	7.478	8.765	2	
+Nyaregh	Gboko	Benue	7.475	8.997	2	
+Nyihemba	Gboko	Benue	7.448	8.922	2	
+Nyeka	Gboko	Benue	7.382	8.822	2	
+Nyamkyegh	Gboko	Benue	7.387	8.856	2	
+Nyiataghe	Gboko	Benue	7.389	8.911	2	
+Nyitamen	Gboko	Benue	7.387	8.962	2	
+Nyamkwume	Gboko	Benue	7.384	8.965	2	
+Nyi	Gboko	Benue	7.374	8.803	2	
+Nyiyongu	Gboko	Benue	7.296	8.897	2	
+Nyikpam	Gboko	Benue	7.299	8.856	2	
+Nyigh	Ushongo	Benue	7.257	8.929	2	
+Nyabo	Bosso	Niger	9.676	6.625	2	
+Nyama	Jada	Adamawa	8.690	12.289	2	
+Nyagan	Jada	Adamawa	8.618	12.333	2	
+Nyibango	Fufore	Adamawa	8.848	12.453	2	
+Jauro Nyiganso	Fufore	Adamawa	8.770	12.440	2	
+Wuro Nyako	Mayo-Belwa	Adamawa	8.799	11.994	2	
+Nyagang	Ganye	Adamawa	8.566	11.905	2	
+Nyavo Domuyo	Ardo-Kola	Taraba	8.873	11.128	2	
+Nyavo Sule	Ardo-Kola	Taraba	8.874	11.151	2	
+Jauro Nyambu	Ardo-Kola	Taraba	8.860	11.169	2	
+Jauro Nyasaba	Ardo-Kola	Taraba	8.944	11.235	2	
+Nyangwe	Jalingo	Taraba	8.843	11.391	2	
+Nyanve	Ardo-Kola	Taraba	8.812	11.400	2	
+Nyangran	Ardo-Kola	Taraba	8.685	11.318	2	
+Nyapkay	Langtang North	Plateau	8.907	9.817	2	
+Nyer	Langtang North	Plateau	8.898	9.816	2	
+Nyer	Langtang North	Plateau	8.892	9.810	2	
+Nyigh	Donga	Taraba	7.545	10.124	2	
+Nymuse	Shendam	Plateau	8.547	9.382	2	
+Nyeberre	Yola South	Adamawa	9.245	12.343	2	
+Nyibango	Yola South	Adamawa	9.229	12.434	2	
+Nyibango	Fufore	Adamawa	9.243	12.250	2	
+Alim Nyuyuji	Yola North	Adamawa	9.276	12.193	2	
+Nyuyuje	Demsa	Adamawa	9.284	12.029	2	
+Nyadan Ndiyamdadi	Mayo-Belwa	Adamawa	9.097	12.021	2	
+Nyukkinde	Fufore	Adamawa	9.047	12.207	2	
+Nyadabi	Demsa	Adamawa	9.193	11.714	2	
+Nyadabi	Lau	Taraba	9.214	11.684	2	
+Nyabang	Lau	Taraba	9.162	11.585	2	
+Mayo Nyalbi	Demsa	Adamawa	9.288	11.959	2	
+Nyambulo	Karim Lamido	Taraba	9.266	10.834	2	
+Nyukki	Karim Lamido	Taraba	9.285	10.806	2	
+Nyibango	Fufore	Adamawa	9.296	12.867	2	
+Rumnde-Nyako	Yola North	Adamawa	9.185	12.531	2	Rumnde Nyako
+Nyibango	Girei	Adamawa	9.280	12.518	2	
+Nyibiam	Guma	Benue	8.055	8.552	2	
+Nyityo	Keana	Nasarawa	8.142	8.603	2	
+Nyiongu	Keana	Nasarawa	8.211	8.575	2	
+Nyikyaa	Guma	Benue	8.013	8.640	2	
+Chandum Nyam	Guma	Benue	8.004	8.718	2	
+Nyibango	Ganye	Adamawa	8.444	12.301	2	
+Nyawanti	Bali	Taraba	8.230	11.446	2	
+Nyaba	Song	Adamawa	9.961	12.664	2	
+Nyukki	Song	Adamawa	9.903	12.651	2	
+Nyibango	Song	Adamawa	9.742	12.868	2	
+Nyanji	Toto	Nasarawa	8.339	7.343	2	
+Nyankur	Sardauna	Taraba	6.875	11.447	2	
+Nywa	Sardauna	Taraba	6.811	11.109	2	
+Nya	Sardauna	Taraba	6.758	11.118	2	
+Nyoo	Sardauna	Taraba	6.782	11.345	2	
+Nyachi	Sardauna	Taraba	6.762	11.318	2	
+Nyongor	Sardauna	Taraba	6.806	11.329	2	
+Nyam	Gboko	Benue	7.416	8.992	2	
+Nyam	Gboko	Benue	7.396	8.911	2	
+Nyam	Gboko	Benue	7.382	8.979	2	
+Nyam	Gboko	Benue	7.367	8.868	2	
+Nyinya	Gboko	Benue	7.290	8.763	2	
+Nyaja	Zing	Taraba	8.864	11.652	2	
+Nyibango	Fufore	Adamawa	9.138	12.138	2	
 Julius Nyerere Crescent	Municipal Area Council	FCT Abuja	9.044	7.523	1	
 Nyebuchi Street	Obio/Akpor	Rivers	4.827	7.047	1	
 Nyebuchi Ikomi Close	Obio/Akpor	Rivers	4.822	7.017	1	
 River Nyaba Street	Enugu East	Enugu	6.479	7.523	1	
 Julius Nyerere Drive	Enugu North	Enugu	6.454	7.528	1	
-Takai Nysc General Hospital	Takai	Kano	11.566	9.109	0	
 Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	8.828	7.569	1	
 Murtala Nyako Road	Chanchaga	Niger	9.650	6.517	1	
 Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	8.951	7.550	1	
@@ -57,8 +329,14 @@ Dr. Richard Nyong Close	Obio/Akpor	Rivers	4.904	6.910	1
 Nyong Essien	Uyo	Akwa Ibom	5.029	7.928	1	
 Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	9.014	7.574	1	
 Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	9.018	7.573	1	
-Shelleng NYSC Site	Shelleng	Adamawa	9.884	12.024	0	
-Nyibango Health Post	Fufore	Adamawa	9.005	12.339	0	
-Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	8.987	7.566	1	
+Jolly Nyame Bye Pass Road	Yorro	Taraba	8.967	11.391	1	
 Nyerere road	Chikun	Kaduna	10.458	7.446	1	
 Nyerere Street	Ibadan North West	Oyo	7.406	3.885	1	
+Nyawi Dispensary	Bayo	Borno	10.665	11.776	0	
+Nyaleri Primary Health Clinic	Damboa	Borno	11.295	12.848	0	
+Azman filling station Nyanya	Municipal Area Council	FCT Abuja	9.028	7.579	0	
+Nyanya bus station	Municipal Area Council	FCT Abuja	9.023	7.571	0	
+Before Bridge Bus Stop Nyanya	Municipal Area Council	FCT Abuja	9.023	7.570	0	
+Takai Nysc General Hospital	Takai	Kano	11.566	9.109	0	
+Shelleng NYSC Site	Shelleng	Adamawa	9.884	12.024	0	
+Nyibango Health Post	Fufore	Adamawa	9.005	12.339	0	

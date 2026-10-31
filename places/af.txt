@@ -1,3 +1,14 @@
+Afuze	Owan East	Edo	6.969	6.043	3	Afuji
+Afaha Offiong	Nsit Ibom	Akwa Ibom	4.871	7.908	3	Afaha Obio Offiong;Afaha Obio Ofiong
+Afikpo	Afikpo North	Ebonyi	5.884	7.937	3	Ehugbo
+Afaha Ikot Ebak	Essien Udim	Akwa Ibom	5.127	7.659	3	Ikot Ebak Efagha
+Afa	Udi	Enugu	6.602	7.324	3	
+Afor-Oru	Ahiazu-Mbaise	Imo	5.541	7.268	3	Afororu|Oru
+Obollo-Afor	Udenu	Enugu	6.916	7.518	3	Obolo
+Agbor	Ika South	Delta	6.254	6.194	3	Afbor|Agbor-BoIIboji
+Afon	Asa	Kwara	8.313	4.527	3	
+Afam	Oyigbo	Rivers	4.790	7.312	3	Afam Uka|Afam Uko|Afam-Uku
+Shelter Afrique	Uyo	Akwa Ibom	5.050	7.920	2	
 Afaka	Igabi	Kaduna	10.667	7.388	2	
 Efafo	Olamaboro	Kogi	7.196	7.705	2	Ifa Afaw
 Afana	Etsako West	Edo	7.140	6.391	2	
@@ -14,7 +25,6 @@ Afang	Riyom	Plateau	9.467	8.683	2	Afam
 Ma'afa	Mafa	Borno	12.110	13.701	2	Mafa
 Afoto	Buji	Jigawa	11.639	9.793	2	
 Afaha Ukwa	Eket	Akwa Ibom	4.631	7.947	2	Afaha Uqua
-Afuze	Owan East	Edo	6.969	6.043	3	Afuji
 Afriski	Marte	Borno	12.311	13.713	2	Abriski
 Masa	Ori Ire	Oyo	8.400	4.267	2	Afoda
 Afam	Oyigbo	Rivers	4.817	7.317	2	Afam Uko;Afam Uka;Afam-Uku
@@ -23,12 +33,10 @@ Afaja Belo	Bunza	Kebbi	12.402	3.975	2
 Ekpene Edi	Esit Eket	Akwa Ibom	4.632	8.113	2	Afaha Ekpene Edi
 Afowo Doforo	Badagry	Lagos	6.427	2.843	2	Afowo Doforo;Doforo
 Afia Nsit	Eket	Akwa Ibom	4.662	7.939	2	
-Afaha Offiong	Nsit Ibom	Akwa Ibom	4.871	7.908	3	Afaha Obio Offiong;Afaha Obio Ofiong
 Afriski	Monguno	Borno	12.434	13.695	2	
 Afowowa	Atiba	Oyo	8.067	3.800	2	
 Afoye	Dikwa	Borno	11.966	14.109	2	
 Afikpo Road Station	Ivo	Ebonyi	5.899	7.550	2	
-Afikpo	Afikpo North	Ebonyi	5.884	7.937	3	Ehugbo
 Afagba	Igalamela-Odolu	Kogi	7.033	7.117	2	Afogba
 Afao-Ekiti	Irepodun/Ifelodun	Ekiti	7.697	5.312	2	Afao
 Afuye	Ipokia	Ogun	6.749	2.793	2	
@@ -37,7 +45,6 @@ Umuachi Afor	Ndokwa East	Delta	5.785	6.461	2
 Afikpo Road	Ivo	Ebonyi	5.901	7.548	2	
 Afurtu	Sabon Birni	Sokoto	13.643	6.289	2	
 Aboto Afa	Asa	Kwara	8.167	4.583	2	
-Afojupa	Obafemi Owode	Ogun	6.924	3.432	2	Afojupa-Kekere
 Ofodua	Obubra	Cross River	5.973	8.259	2	Afodun
 Afo	Ose	Ondo	7.366	5.829	2	
 Afo	Asa	Kwara	8.536	4.357	2	
@@ -45,22 +52,293 @@ Afnori	Abadam	Borno	13.639	13.352	2
 Afono	Biase	Cross River	5.733	7.950	2	
 Afiaelem	Ikwo	Ebonyi	6.044	8.150	2	Ifilimi
 Ntak Afa	Ukanafun	Akwa Ibom	4.910	7.646	2	
-Ebenezer African Church School	Ibadan North West	Oyo	7.392	3.887	0	
 Afura	Nasarawa	Nasarawa	8.037	7.876	2	
 Afaha Esang	Abak	Akwa Ibom	5.050	7.716	2	
-Afaha Ikot Ebak	Essien Udim	Akwa Ibom	5.127	7.659	3	Ikot Ebak Efagha
 Eriam Afaha Obong	Abak	Akwa Ibom	5.042	7.723	2	
 Afuye	Dikwa	Borno	11.984	13.993	2	
 Afofo	Diffa	Yobe	13.092	12.353	2	
-iya afin jetty	Badagry	Lagos	6.446	2.861	0	
 Afofo Kiska	Diffa	Yobe	13.095	12.357	2	
 Afursku	Monguno	Borno	12.384	13.680	2	
+Afana Tayu	Zangon Kataf	Kaduna	9.540	8.199	2	
+Afanawa Layin Alhaji Nasidu	Minjibir	Kano	12.116	8.578	2	Afanawa
+Afia-Nkwo	Ndokwa East	Delta	5.492	6.527	2	
+Afor Obogwe	Owerri West	Imo	5.461	6.903	2	
+Afiesere	Ughelli North	Delta	5.522	6.012	2	
+Opaetenem-Afiaze	Ndokwa East	Delta	5.685	6.460	2	
+Afafanyi	Abi	Cross River	5.884	7.994	2	
+Afaha Udo Eyod	Ibesikpo Asutan	Akwa Ibom	4.896	7.937	2	
+Amokwu Afa	Udi	Enugu	6.612	7.357	2	
+Obollo Afor	Udenu	Enugu	6.916	7.517	2	
+Afunori	Nguru	Yobe	13.057	10.315	2	
+Afogo	Kajuru	Kaduna	10.284	7.835	2	
+Afaka	Igabi	Kaduna	10.673	7.348	2	
+Afikpo North	Afikpo North	Ebonyi	5.860	7.918	2	
+Afijio	Afijio	Oyo	7.748	3.897	2	
+Imeko Afon	Imeko Afon	Ogun	7.669	2.860	2	
+Afuye	Dikwa	Borno	11.944	14.009	2	
+Uyo Afaha Nkan	Ikono	Akwa Ibom	5.175	7.813	2	
+Umuachi-Ator	Ndokwa East	Delta	5.788	6.459	2	Umuachi Afor
+Ope-Afifia	Izzi	Ebonyi	6.446	8.243	2	Ope-Afia
+Ikot Afanga	Oruk Anam	Akwa Ibom	4.857	7.707	2	
+Afuwagi	Mokwa	Niger	9.135	5.485	2	Efuwagi
+Efafo	Olamaboro	Kogi	7.182	7.724	2	Ifa Afaw
+Doforo-Ganyingbo	Badagry	Lagos	6.425	2.848	2	Afowo Doforo|Doforo
+Bendiga Afi	Ikom	Cross River	6.119	8.697	2	
+Batu Afi	Kurmi	Taraba	7.085	10.909	2	
+Afuye	Ibarapa East	Oyo	7.579	3.377	2	
+Afuwagi	Katcha	Niger	9.205	6.324	2	
+Afurefure	Ese Odo	Ondo	6.167	5.117	2	
+Afurangu	Markurdi	Benue	7.815	8.460	2	
+Afun-Ile	Ori Ire	Oyo	8.563	4.121	2	Afun Ile
+Afun-Iju	Ori Ire	Oyo	8.554	4.091	2	Afun Iju
+Afulugo	Igalamela-Odolu	Kogi	6.921	7.191	2	Avuruge
+Afuda	Esan Central	Edo	6.802	6.364	2	
+Afua	Ibiono Ibom	Akwa Ibom	5.268	7.887	2	
+Aftaka	Misau	Bauchi	11.345	10.469	2	
+Afrikum	Jahun	Jigawa	12.006	9.607	2	
+Afrike	Bekwarra	Cross River	6.611	8.858	2	
+Afoyasoro	Ibarapa East	Oyo	7.699	3.525	2	
+Afowowa	Oyo West	Oyo	8.060	3.794	2	
+Afowowa	Ewekoro	Ogun	6.950	3.248	2	
+Afo-Ukwu	Bende	Abia	5.721	7.630	2	
+Afor-Ugwu	Ezeagu	Enugu	6.374	7.266	2	
+Aforoye	Ezeagu	Enugu	6.434	7.302	2	
+Afo Owebe	Olamaboro	Kogi	7.213	7.759	2	Afaw Owebe
+Afonrinwo	Aiyedire	Osun	7.570	4.258	2	
+Afonja	Ìsẹ́yìn	Oyo	7.864	3.705	2	
+Afonja	Oluyole	Oyo	7.333	3.816	2	
+Afon	Asa	Kwara	8.450	4.333	2	
+Afolu-Oba	Isokan	Osun	7.268	4.225	2	Afolu Oba
+Afolu-Ibadan	Aiyedade	Osun	7.257	4.217	2	Afolu Ibadan
+Afolabi	Ife North	Osun	7.293	4.487	2	
+Afolabi	Ona Ara	Oyo	7.183	4.050	2	
+Afolabi	Oluyole	Oyo	7.156	4.008	2	
+Afogba	Ori Ire	Oyo	8.528	4.200	2	
+Afogamgam	Apa	Benue	7.479	7.770	2	
+Afo	Odeda	Ogun	7.217	3.667	2	
+Afo	Kurmi	Taraba	7.024	10.858	2	
+Afin	Ifelodun	Kwara	8.415	5.099	2	
+Afilala	Oyo East	Oyo	7.890	4.086	2	
+Afikpo Road Station	Ivo	Ebonyi	5.894	7.548	2	Afikpo Road
+Afieki	Bomadi	Delta	5.233	5.833	2	
+Afia Usu	Bende	Abia	5.670	7.626	2	
+Afia Nsit	Nsit Ibom	Akwa Ibom	4.841	7.923	2	
+Afiaelem	Ikwo	Ebonyi	6.046	8.136	2	Ifilimi
+Afel	Gboko	Benue	7.450	8.651	2	
+Afejewe	Ori Ire	Oyo	8.236	4.147	2	
+Afefu	Ibarapa North	Oyo	7.541	3.263	2	
+Afawgi	Dekina	Kogi	7.420	7.272	2	
+Afata	Ushongo	Benue	7.240	8.980	2	
+Afaran	Surulere	Oyo	8.011	4.395	2	
+Afara	Umuahia South	Abia	5.492	7.482	2	
+Afara	Etche	Rivers	5.084	7.084	2	
+Afanji	Ipokia	Ogun	6.494	2.779	2	
+Afang	Riyom	Plateau	9.475	8.687	2	Afam
+Afanangbe	Ogoja	Cross River	6.374	8.567	2	
+Tudun Wada	Jema'A	Kaduna	9.513	8.160	2	Afana
+Afam Uku	Tai	Rivers	4.783	7.317	2	
+Afamju	Ogoja	Cross River	6.498	8.635	2	
+Afami	Yewa North	Ogun	7.013	3.059	2	
+Afami	Ipokia	Ogun	6.541	2.872	2	
+Afake	Ejigbo	Osun	7.818	4.291	2	
+Afaka	Igabi	Kaduna	10.665	7.387	2	
+Afaja Belo	Bunza	Kebbi	12.401	3.976	2	
+Afaha Offot	Uyo	Akwa Ibom	5.026	7.907	2	
+Afaha-Nsai	Ibiono Ibom	Akwa Ibom	5.105	7.897	2	
+Afaha Ikot Udoe	Itu	Akwa Ibom	5.173	8.023	2	
+Afaha Ikot	Ukanafun	Akwa Ibom	4.983	7.741	2	
+Afaha Ibesikpo	Ibesikpo Asutan	Akwa Ibom	4.971	7.936	2	
+Afaha Eket	Eket	Akwa Ibom	4.632	7.934	2	
+Afaha Eduok	Oron	Akwa Ibom	4.785	8.260	2	
+Afaha Atai	Onna	Akwa Ibom	4.681	7.816	2	
+Afaha Atai	Eket	Akwa Ibom	4.640	7.969	2	
+Afaha Abia	Nsit Ibom	Akwa Ibom	4.884	7.892	2	
+Afaha	Obi Ngwa	Abia	5.183	7.512	2	
+Afaha	Ikono	Akwa Ibom	5.141	7.823	2	
+Afaha	Odukpani	Cross River	5.111	8.197	2	
+Afaha	Ibiono Ibom	Akwa Ibom	5.088	7.904	2	
+Afago	Kajuru	Kaduna	10.368	7.822	2	
+Afaga	Mariga	Niger	10.817	5.867	2	
+Afa	Kaga	Borno	11.356	12.535	2	
+Afa	Igalamela-Odolu	Kogi	6.920	6.961	2	
+Adum Afo	Olamaboro	Kogi	7.187	7.413	2	Adum|Adum Afaw
+Abriski	Monguno	Borno	12.435	13.692	2	Afriski
+Abriski	Marte	Borno	12.311	13.713	2	Afriski
+Aboto-Afa	Asa	Kwara	8.167	4.580	2	Aboto Afa|AbotoAfa
+Afanawa	Minjibir	Kano	12.115	8.579	2	
+Afnori	Abadam	Borno	13.699	13.337	2	
+Afolu-Modi	Ise/Orun	Ekiti	7.461	5.374	2	
+Afodide	Ikere	Ekiti	7.464	5.298	2	
+Afukpilla	Etsako East	Edo	7.291	6.387	2	
+Afgha	Gwer East	Benue	7.432	8.276	2	
+Afaha Udo Oko	Itu	Akwa Ibom	5.190	8.019	2	
+Afia Isong	Odukpani	Cross River	5.248	8.018	2	
+Afia Isong	Biase	Cross River	5.410	8.053	2	
+Afafanyi	Abi	Cross River	5.879	8.002	2	
+Ikot Asuquo Afon Anye	Akpabuyo	Cross River	4.926	8.505	2	
+Afaha Ekpene Edi	Esit Eket	Akwa Ibom	4.651	8.111	2	
+Afieki	Ughelli South	Delta	5.225	5.909	2	
+Afam-Nta	Oyigbo	Rivers	4.806	7.345	2	
+Afam-Uku	Oyigbo	Rivers	4.790	7.311	2	
+Afaha Ikot	Nsit Ibom	Akwa Ibom	4.807	7.889	2	
+Ikot-Obio-Afa	Ikono	Akwa Ibom	5.261	7.809	2	
+Afaha-Ise	Ibiono Ibom	Akwa Ibom	5.273	7.886	2	
+Obot-Afia	Ibiono Ibom	Akwa Ibom	5.266	7.921	2	
+Ikot Afaha	Ibiono Ibom	Akwa Ibom	5.248	7.905	2	
+Afaha Itiat	Ibiono Ibom	Akwa Ibom	5.206	7.920	2	
+Afahana Itak	Ikono	Akwa Ibom	5.125	7.839	2	
+Afaha Ikot Adaha	Ibiono Ibom	Akwa Ibom	5.135	7.908	2	
+Afaha Itam	Itu	Akwa Ibom	5.094	7.933	2	
+Afagha Obio Enwang	Ikono	Akwa Ibom	5.083	7.835	2	
+Afaha Oku	Uyo	Akwa Ibom	5.048	7.922	2	
+Afaha Ube	Uyo	Akwa Ibom	5.042	7.908	2	
+Afahan Obong	Abak	Akwa Ibom	5.033	7.744	2	Afaha Obong
+Afozuru	Orsu	Imo	5.817	6.987	2	
+Afoegbu	Oguta	Imo	5.762	6.822	2	
+Afiawa Lake	Isoko South	Delta	5.354	6.306	2	
+Afia-Meeting	Ogba/Egbema/Ndoni	Rivers	5.504	6.621	2	
+Afikpo North	Afikpo North	Ebonyi	5.893	7.937	2	Afikpo Nord|Afikpo Norte|Afikpo ta Arewa|Agbegbe Ijoba Ibile Ariwa Afikpo|Pak Afikpo
+Afijio	Afijio	Oyo	7.738	3.864	2	
+Zangon Kataf	Zangon Kataf	Kaduna	9.841	8.255	2	Agbegbe Ijoba Ibile Zangon-Kataf|Nietcen Afakan|Zango Kataf|Zangon-Kataf|Zangon-Kataf Local Government Area
+Imeko Afon	Imeko Afon	Ogun	7.662	2.864	2	Agbegbe Ijoba Ibile Imeko-Afon|Imeko-Afon|Imeko-Afon Local Government Area
+Afikpo South	Edda	Ebonyi	5.849	7.799	2	
+Afam	Awgu	Enugu	6.149	7.470	2	Aram
+Affa	Udi	Enugu	6.555	7.199	2	
+Obinagu-Affa	Udi	Enugu	6.540	7.266	2	
+Umunoka-Affa	Udi	Enugu	6.615	7.360	2	
+Amokwue-Affa	Udi	Enugu	6.607	7.357	2	
+Ikedinkpa-Affa	Udi	Enugu	6.601	7.325	2	
+Afaga	Gwer East	Benue	7.246	8.287	2	
+Afiaenwe	Izzi	Ebonyi	6.629	8.188	2	
+Ma'Afa	Mafa	Borno	12.137	13.716	2	
+Afia	Ukum	Benue	7.755	9.493	2	
+Afanyo	Logo	Benue	7.539	9.298	2	
+Afati	Ukum	Benue	7.512	9.638	2	
+Afanga	Gboko	Benue	7.278	9.024	2	
+Afokaa	Katsina-Ala	Benue	7.299	9.378	2	
+Afera	Katsina-Ala	Benue	7.243	9.408	2	
+Oke Afa	Oshodi/Isolo	Lagos	6.521	3.302	2	
+Afariogun	Oshodi/Isolo	Lagos	6.554	3.339	2	
+Oke-Afa	Oshodi/Isolo	Lagos	6.519	3.296	2	
+Eko-Afuda	Iguegben	Edo	6.572	6.231	2	
+Egen-Afuda	Esan North-East	Edo	6.711	6.321	2	
+Afana Kaje	Zangon Kataf	Kaduna	9.550	8.202	2	
+Afana Kaje	Zangon Kataf	Kaduna	9.544	8.217	2	
+Afalara	Warri North	Delta	5.947	5.158	2	
+Afirin	Warri South-West	Delta	5.558	5.183	2	
+Afara	Obafemi Owode	Ogun	7.007	3.417	2	
+Afo-Eruku	Obafemi Owode	Ogun	7.048	3.479	2	
+Oke-Afolu	Isokan	Osun	7.281	4.242	2	
+Afijagba	Isokan	Osun	7.267	4.233	2	
+Afa	Ife South	Osun	7.237	4.491	2	
+Afon	Atakunmosa West	Osun	7.594	4.655	2	
+Afin One	Yewa North	Ogun	7.367	2.937	2	Afin I
+Afin Two	Yewa North	Ogun	7.365	2.934	2	Afin II
+Afanye	Iwajowa	Oyo	8.123	2.733	2	
+Aferiku	Ipokia	Ogun	6.630	2.762	2	
+Affiam	Obi	Nasarawa	8.356	8.992	2	
+Afasagboye	Ife East	Osun	7.426	4.620	2	
+Afekulu	Ori Ire	Oyo	8.499	4.208	2	
+Ga-Afingba	Ori Ire	Oyo	8.478	4.251	2	
+Afa	Asa	Kwara	8.517	4.480	2	
+Afade	Lafia	Nasarawa	8.648	8.664	2	
+Afeyin	Asa	Kwara	8.226	4.577	2	
+River Afidiwo	Asa	Kwara	8.153	4.503	2	RiverAfidiwo
+Afijagba	Oyun	Kwara	8.114	4.560	2	
+Afin	Surulere	Oyo	8.058	4.521	2	
+Afunso	Oyo West	Oyo	7.845	3.852	2	
+Afele	Ifelodun	Kwara	8.369	4.834	2	
+Abata-Afolayan	Isin	Kwara	8.328	4.913	2	
+Afin-Oro	Irepodun	Kwara	8.254	4.893	2	
+Afeyin-Odo	Ilorin South	Kwara	8.498	4.674	2	
+Afwa	Toto	Nasarawa	8.481	7.219	2	
+Aforabe	Sardauna	Taraba	6.863	10.883	2	
+Jauro Afili	Sardauna	Taraba	6.784	11.041	2	
+Afonle	Aiyedade	Osun	7.583	4.497	2	
+Aba-Afa	Lagelu	Oyo	7.581	4.111	2	
+Afo	Iwo	Osun	7.714	4.135	2	
+Afoyasoro	Ibarapa East	Oyo	7.657	3.548	2	
+Afariogun Street	Oshodi/Isolo	Lagos	6.553	3.340	1	
+African Church Road	Oredo	Edo	6.332	5.630	1	
+Afe Miracle Ave	Oredo	Edo	6.311	5.625	1	
+Afric Road	Surulere	Lagos	6.485	3.369	1	
+Afribank Street	Eti Osa	Lagos	6.435	3.426	1	
+African Church Road	Oshodi/Isolo	Lagos	6.569	3.340	1	
+Affini Street	Surulere	Lagos	6.499	3.351	1	
+Adekunle Adebola Afun Avenue	Kosofe	Lagos	6.632	3.368	1	
+Afariogun Street	Ikeja	Lagos	6.599	3.341	1	
+Aboaba Afilaka Avenue	Ifako/Ijaye	Lagos	6.639	3.330	1	
+Afuwape Fakunmoju Street	Ìkòròdú	Lagos	6.619	3.496	1	
+Afolabi Lawal Street	Agege	Lagos	6.611	3.326	1	
+Africa Lane	Eti Osa	Lagos	6.456	3.473	1	
+Afolabi Dada Street	Surulere	Lagos	6.504	3.343	1	
+Bisi Afolabi Street	Eti Osa	Lagos	6.485	3.586	1	
+Afikpo Road	Abakaliki	Ebonyi	6.319	8.112	1	
+Afikpo Road	Abakaliki	Ebonyi	6.315	8.108	1	
+Afikpo Street	Abakaliki	Ebonyi	6.322	8.116	1	
+Afolabi Brown Street	Shomolu	Lagos	6.526	3.391	1	
+Ayo Afolabi Street	Alimosho	Lagos	6.626	3.279	1	
+Affa Street	Enugu South	Enugu	6.420	7.488	1	
+Ofuobi Africa	Enugu North	Enugu	6.440	7.527	1	
+Afia Nine Street	Enugu North	Enugu	6.439	7.504	1	
+Afikpo Close	Enugu South	Enugu	6.416	7.491	1	
+Ngwu-Afor Street	Enugu North	Enugu	6.401	7.577	1	
+Isale Afon Road	Ogbomosho North	Oyo	8.134	4.248	1	
+Afikpo Street	Enugu South	Enugu	6.415	7.490	1	
+Ndindago afa Road	Enugu South	Enugu	6.403	7.543	1	
+Africanus Horton Road	Ibadan North	Oyo	7.446	3.893	1	
+Giwa Afunpotu Street	Ìkòròdú	Lagos	6.625	3.501	1	
+Afolabi Yusuf Street	Ìkòròdú	Lagos	6.646	3.493	1	
+Akinwunmi Afuye Street	Ìkòròdú	Lagos	6.642	3.495	1	
+Samuel Afolayan road	Karu	Nasarawa	8.883	7.610	1	
+Oluwole Afolabi Street	Eti Osa	Lagos	6.457	3.577	1	
+Afolabi Toye Road	Ilorin South	Kwara	8.479	4.674	1	
+Oboama Enyiogugu/Umuezie Nguru/ Aforajala Road	Aboh-Mbaise	Imo	5.492	7.191	1	
+Jare Afolabi Street	Lagelu	Oyo	7.441	3.963	1	
+Asa Afariogun Street	Oshodi/Isolo	Lagos	6.547	3.330	1	
+Afara St	Umuahia North	Abia	5.533	7.503	1	
+Chief Afolabi Street	Ife Central	Osun	7.495	4.538	1	
+Abraham Afolabi Street	Ifako/Ijaye	Lagos	6.659	3.295	1	
+Afuda Road	Esan North-East	Edo	6.708	6.316	1	
+Afolabi Sole	Oshodi/Isolo	Lagos	6.522	3.314	1	
+Tunde Afolabi Street	Eti Osa	Lagos	6.472	3.563	1	
+Afolabi Balogun Crescent	Ìkòròdú	Lagos	6.638	3.485	1	
+Afeez Aleje Street	Ìkòròdú	Lagos	6.627	3.503	1	
+Progress Estate - Afobaje Road	Ado Odo/Ota	Ogun	6.679	3.216	1	
+Afolabi Close	Ado Odo/Ota	Ogun	6.694	3.146	1	
+AFRIGIST Road	Ife Central	Osun	7.508	4.523	1	
+Mai Afaku Road	Kaduna North	Kaduna	10.569	7.460	1	
+Upper Afiesere Road	Ughelli North	Delta	5.502	6.008	1	
+Dele Afolabi Crescent	Ogbomosho North	Oyo	8.158	4.248	1	
+Alhaji Afusat Muniru Street	Eti Osa	Lagos	6.454	3.611	1	
+Afonta Street	Ibadan South West	Oyo	7.389	3.879	1	
+Afolabi Close	Egbeda	Oyo	7.420	4.005	1	
+Afolabi Street	Badagry	Lagos	6.482	3.014	1	
+Afia Etoi	Uyo	Akwa Ibom	5.024	7.929	1	
+Bisi Afolabi Street	Eti Osa	Lagos	6.487	3.583	1	
+Abakaliki-Afikpo Road	Onicha	Ebonyi	6.026	8.007	1	
+Abakaliki-Afikpo Road	Onicha	Ebonyi	6.004	8.005	1	
+Fatai Afolabi street	Ilorin East	Kwara	8.483	4.601	1	
+Abakaliki-Afikpo Road	Abi	Cross River	5.981	7.992	1	
+Usong Afaha Obo	Ukanafun	Akwa Ibom	4.864	7.646	1	
+Abakaliki-Afikpo Road	Ezza South	Ebonyi	6.105	8.008	1	
+Ngwu-Afor Street	Enugu North	Enugu	6.405	7.577	1	
+Afekhena Drive	Oredo	Edo	6.263	5.623	1	
+Afaka Road	Kaduna South	Kaduna	10.517	7.420	1	
+Afolabi Bolaji Drive	Eti Osa	Lagos	6.446	3.574	1	
+Afon Road	Asa	Kwara	8.369	4.566	1	
+Abakaliki-Afikpo Road	Abakaliki	Ebonyi	6.274	8.103	1	
+Abakaliki-Afikpo Road	Abakaliki	Ebonyi	6.213	8.066	1	
+Afon Road	Asa	Kwara	8.323	4.532	1	
+Afon Road	Asa	Kwara	8.335	4.542	1	
+Abakaliki-Afikpo Road	Abakaliki	Ebonyi	6.235	8.098	1	
+Afolabi Street	Kosofe	Lagos	6.612	3.408	1	
+Ebenezer African Church School	Ibadan North West	Oyo	7.392	3.887	0	
+iya afin jetty	Badagry	Lagos	6.446	2.861	0	
 Messiah African Church Group of Schools	Warri South	Delta	5.530	5.745	0	
 AFRIGIST (Ex. RECTAS) O.A.U Campus Ile-Ife	Ife Central	Osun	7.505	4.524	0	
 Afo Market	Ose	Ondo	7.368	5.828	0	
-Afana Tayu	Zangon Kataf	Kaduna	9.540	8.199	2	
 Afro-American Wealth Oil and Gaz	Alimosho	Lagos	6.582	3.284	0	
-Afanawa Layin Alhaji Nasidu	Minjibir	Kano	12.116	8.578	2	Afanawa
 University of Africa, Toru-Orua	Sagbama	Bayelsa	5.100	6.066	0	
 african church central school, ososun	Ifo	Ogun	6.821	3.233	0	
 first african church mission school ii adenrele ifo	Ifo	Ogun	6.808	3.193	0	
@@ -164,25 +442,19 @@ Ebenezer African Church Primary School, Olorunda Atan	Ado Odo/Ota	Ogun	6.731	3.1
 Ebenezer African Church Primary School I, Ewupe Ota	Ado Odo/Ota	Ogun	6.716	3.203	0	
 African Methodist Church Primary School, Elemoki	Ado Odo/Ota	Ogun	6.675	2.983	0	
 Ebenezer African Church, Aganna Olorunnda	Ado Odo/Ota	Ogun	6.731	3.124	0	
-Afia-Nkwo	Ndokwa East	Delta	5.492	6.527	2	
 Bolajoko Hospital(Badejoko Hospital) Mokola road, after GTBank	Ibadan North	Oyo	7.412	3.892	0	
-Afor Obogwe	Owerri West	Imo	5.461	6.903	2	
-Afiesere	Ughelli North	Delta	5.522	6.012	2	
-Opaetenem-Afiaze	Ndokwa East	Delta	5.685	6.460	2	
 Al Afrah Health Care Centre	Jos North	Plateau	9.915	8.902	0	
-Afafanyi	Abi	Cross River	5.884	7.994	2	
-Afaha Udo Eyod	Ibesikpo Asutan	Akwa Ibom	4.896	7.937	2	
 Afonja Eye Clinic	Alimosho	Lagos	6.522	3.258	0	
 Afriglobal Medicare	Alimosho	Lagos	6.556	3.248	0	
 Students Affairs	Akure South	Ondo	7.301	5.138	0	Prof. Kolade Ipinmoroti Building
 Afazib Filling Station	Ejigbo	Osun	7.898	4.311	0	
-USMAN BN AFFAN COLLEGE OF ISLAMIC STUDIES	Ungongo	Kano	12.049	8.572	0	
-AFDB HALL	Municipal Area Council	FCT Abuja	8.999	7.420	0	
+Usman Bn Affan College Of Islamic Studies	Ungongo	Kano	12.049	8.572	0	
+Afdb Hall	Municipal Area Council	FCT Abuja	8.999	7.420	0	
 Alluvia Marine/Afisco (Lekki 1)	Eti Osa	Lagos	6.448	3.459	0	
 Air Force Research And Development Centre (AFRDC)	Kaduna North	Kaduna	10.611	7.443	0	
 AFIT Electrical Electronics Department	Kaduna North	Kaduna	10.611	7.441	0	
 AFIT Armament Engineering Department	Kaduna North	Kaduna	10.611	7.443	0	
-AFIT CLINIC	Kaduna North	Kaduna	10.613	7.446	0	
+Afit Clinic	Kaduna North	Kaduna	10.613	7.446	0	
 Wa-Afia (NawAfia)	Ezeagu	Enugu	6.345	7.362	0	
 Dean Of Student Affairs Building	Ovia North-East	Edo	6.744	5.406	0	
 alluvia marine/afisco (lekki phase 1)	Eti Osa	Lagos	6.448	3.459	0	
@@ -190,112 +462,23 @@ After The Idu Railway Junction	Municipal Area Council	FCT Abuja	9.001	7.346	0
 Afoson And Company;Usman Fashion Store	Municipal Area Council	FCT Abuja	9.129	7.391	0	
 Bus Stop After Bridge Zone 3	Municipal Area Council	FCT Abuja	9.064	7.471	0	
 W3Rv+Rw4 After The Bridge	Gwagwalada	FCT Abuja	8.942	7.095	0	
-Afa	Udi	Enugu	6.602	7.324	3	
-Amokwu Afa	Udi	Enugu	6.612	7.357	2	
 African Medical Centre of Excellence	Municipal Area Council	FCT Abuja	8.951	7.473	0	
-Obollo Afor	Udenu	Enugu	6.916	7.517	2	
-Afariogun Street	Oshodi/Isolo	Lagos	6.553	3.340	1	
-African Church Road	Oredo	Edo	6.332	5.630	1	
-Afe Miracle Ave	Oredo	Edo	6.311	5.625	1	
-Afric Road	Surulere	Lagos	6.485	3.369	1	
-Afribank Street	Eti Osa	Lagos	6.435	3.426	1	
-African Church Road	Oshodi/Isolo	Lagos	6.569	3.340	1	
 Students Affairs	Ibadan North	Oyo	7.444	3.899	0	
-Affini Street	Surulere	Lagos	6.499	3.351	1	
-Adekunle Adebola Afun Avenue	Kosofe	Lagos	6.632	3.368	1	
-Afariogun Street	Ikeja	Lagos	6.599	3.341	1	
-Aboaba Afilaka Avenue	Ifako/Ijaye	Lagos	6.639	3.330	1	
-Afuwape Fakunmoju Street	Ìkòròdú	Lagos	6.619	3.496	1	
-Afolabi Lawal Street	Agege	Lagos	6.611	3.326	1	
-Africa Lane	Eti Osa	Lagos	6.456	3.473	1	
-Afolabi Dada Street	Surulere	Lagos	6.504	3.343	1	
-Bisi Afolabi Street	Eti Osa	Lagos	6.485	3.586	1	
-Afikpo Road	Abakaliki	Ebonyi	6.319	8.112	1	
-Afikpo Road	Abakaliki	Ebonyi	6.315	8.108	1	
-Afikpo Street	Abakaliki	Ebonyi	6.322	8.116	1	
-Afolabi Brown Street	Shomolu	Lagos	6.526	3.391	1	
-Ayo Afolabi Street	Alimosho	Lagos	6.626	3.279	1	
-Affa Street	Enugu South	Enugu	6.420	7.488	1	
-Ofuobi Africa	Enugu North	Enugu	6.440	7.527	1	
-Afia Nine Street	Enugu North	Enugu	6.439	7.504	1	
-Afikpo Close	Enugu South	Enugu	6.416	7.491	1	
-Ngwu-Afor Street	Enugu North	Enugu	6.401	7.577	1	
-Isale Afon Road	Ogbomosho North	Oyo	8.134	4.248	1	
-Afikpo Street	Enugu South	Enugu	6.415	7.490	1	
-Ndindago afa Road	Enugu South	Enugu	6.403	7.543	1	
-Africanus Horton Road	Ibadan North	Oyo	7.446	3.893	1	
-Giwa Afunpotu Street	Ìkòròdú	Lagos	6.625	3.501	1	
-Afolabi Yusuf Street	Ìkòròdú	Lagos	6.646	3.493	1	
-Akinwunmi Afuye Street	Ìkòròdú	Lagos	6.642	3.495	1	
 Centre for African Entrepreneurship Research & Traininng	Ungongo	Kano	11.974	8.429	0	
-Afikpo Road	Abakaliki	Ebonyi	6.310	8.103	1	
-Samuel Afolayan road	Karu	Nasarawa	8.883	7.610	1	
-Oluwole Afolabi Street	Eti Osa	Lagos	6.457	3.577	1	
-Afolabi Toye Road	Ilorin South	Kwara	8.479	4.674	1	
-Oboama Enyiogugu/Umuezie Nguru/ Aforajala Road	Aboh-Mbaise	Imo	5.492	7.191	1	
-Jare Afolabi Street	Lagelu	Oyo	7.441	3.963	1	
-Asa Afariogun Street	Oshodi/Isolo	Lagos	6.547	3.330	1	
-Afara St	Umuahia North	Abia	5.533	7.503	1	
 Afor Market Urualla	Ideato North	Imo	5.870	7.079	0	
-Chief Afolabi Street	Ife Central	Osun	7.495	4.538	1	
-Abraham Afolabi Street	Ifako/Ijaye	Lagos	6.659	3.295	1	
-Afuda Road	Esan North-East	Edo	6.708	6.316	1	
-Afolabi Sole	Oshodi/Isolo	Lagos	6.522	3.314	1	
-Tunde Afolabi Street	Eti Osa	Lagos	6.472	3.563	1	
 African univeristy of science and technology	Municipal Area Council	FCT Abuja	8.995	7.429	0	
-Afolabi Balogun Crescent	Ìkòròdú	Lagos	6.638	3.485	1	
-Afeez Aleje Street	Ìkòròdú	Lagos	6.627	3.503	1	
 Essence International School African Heritage Village	Kaduna North	Kaduna	10.536	7.455	0	
-Progress Estate - Afobaje Road	Ado Odo/Ota	Ogun	6.679	3.216	1	
-Afolabi Close	Ado Odo/Ota	Ogun	6.694	3.146	1	
-Asa Afariogun Street	Oshodi/Isolo	Lagos	6.546	3.325	1	
-AFRIGIST Road	Ife Central	Osun	7.508	4.523	1	
-Mai Afaku Road	Kaduna North	Kaduna	10.569	7.460	1	
-Upper Afiesere Road	Ughelli North	Delta	5.502	6.008	1	
-Dele Afolabi Crescent	Ogbomosho North	Oyo	8.158	4.248	1	
-Alhaji Afusat Muniru Street	Eti Osa	Lagos	6.454	3.611	1	
-Afonta Street	Ibadan South West	Oyo	7.389	3.879	1	
-Afolabi Close	Egbeda	Oyo	7.420	4.005	1	
-Afolabi Street	Badagry	Lagos	6.482	3.014	1	
-Afia Etoi	Uyo	Akwa Ibom	5.024	7.929	1	
-Bisi Afolabi Street	Eti Osa	Lagos	6.487	3.583	1	
-Abakaliki-Afikpo Road	Onicha	Ebonyi	6.026	8.007	1	
-Abakaliki-Afikpo Road	Onicha	Ebonyi	6.004	8.005	1	
-Fatai Afolabi street	Ilorin East	Kwara	8.483	4.601	1	
-Abakaliki-Afikpo Road	Onicha	Ebonyi	5.994	7.999	1	
-Abakaliki-Afikpo Road	Abi	Cross River	5.981	7.992	1	
 Afor Igwe Market	Ihiala	Anambra	5.872	6.831	0	
-Usong Afaha Obo	Ukanafun	Akwa Ibom	4.864	7.646	1	
-Abakaliki-Afikpo Road	Ezza South	Ebonyi	6.105	8.008	1	
-Ngwu-Afor Street	Enugu North	Enugu	6.405	7.577	1	
-Afekhena Drive	Oredo	Edo	6.263	5.623	1	
 African Church Primary School	Alimosho	Lagos	6.674	3.269	0	
 Afariogun Primary school	Oshodi/Isolo	Lagos	6.553	3.340	0	
-Afaka Road	Kaduna South	Kaduna	10.517	7.420	1	
 African Church Central Primary School, Agege	Agege	Lagos	6.615	3.320	0	
 Afe Babalola University	Adó-Èkìtì	Ekiti	7.600	5.310	0	ABUAD
 Afbope filling station	Shagamu	Ogun	6.694	3.513	0	
 Afikpo North Local Government Headquarters	Afikpo North	Ebonyi	5.891	7.925	0	
 Africa University of Science and Technology	Municipal Area Council	FCT Abuja	8.997	7.426	0	
-Afolabi Bolaji Drive	Eti Osa	Lagos	6.446	3.574	1	
-Afon Road	Asa	Kwara	8.369	4.566	1	
-Abakaliki-Afikpo Road	Abakaliki	Ebonyi	6.274	8.103	1	
-Abakaliki-Afikpo Road	Abakaliki	Ebonyi	6.213	8.066	1	
 Ime Afor Umuakah	Njaba	Imo	5.670	7.016	0	
 AFDIN filling station	Municipal Area Council	FCT Abuja	9.030	7.437	0	
-Afon Road	Asa	Kwara	8.323	4.532	1	
-Afon Road	Asa	Kwara	8.335	4.542	1	
 African Church Grammar School	Akoko South West	Ondo	7.463	5.796	0	
 Afor Opi N'ato	Nsukka	Enugu	6.766	7.434	0	
 AIR FORCE INSTITUTE OF TECHNOLOGY (AFIT), Kaduna	Kaduna North	Kaduna	10.613	7.462	0	
-Abakaliki-Afikpo Road	Abakaliki	Ebonyi	6.235	8.098	1	
 Afia Eke, Agbani	Nkanu West	Enugu	6.309	7.547	0	
-Afolabi Street	Kosofe	Lagos	6.612	3.408	1	
-Afunori	Nguru	Yobe	13.057	10.315	2	
-Afogo	Kajuru	Kaduna	10.284	7.835	2	
-Afaka	Igabi	Kaduna	10.673	7.348	2	
-Afikpo North	Afikpo North	Ebonyi	5.860	7.918	2	
-Afijio	Afijio	Oyo	7.748	3.897	2	
-Imeko Afon	Imeko Afon	Ogun	7.669	2.860	2	
-Ma'Afa	Mafa	Borno	12.126	13.709	2	
-Afuye	Dikwa	Borno	11.944	14.009	2	

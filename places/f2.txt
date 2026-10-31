@@ -4,7 +4,6 @@ Federal Road F215 Owo - Tegina	Bida	Niger	9.085	6.010	1
 Federal Road F215 Owo - Tegina	Gbako	Niger	9.488	6.038	1	
 Federal Road F215 Owo - Tegina	Rafi	Niger	9.946	6.140	1	
 Federal Road F215 Owo - Tegina	Bida	Niger	9.070	6.005	1	
-Federal Road F215 Owo - Tegina	Bida	Niger	9.079	6.010	1	
 Federal Road F215 Owo - Tegina	Edati	Niger	8.894	5.870	1	
 Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.455	5.470	1	
 Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.310	5.444	1	
@@ -17,8 +16,6 @@ Federal Road F215 Owo - Tegina	Wushishi	Niger	9.828	6.153	1
 Federal Road F259 Bama - Gambaru	Ngala	Borno	12.366	14.250	1	
 Federal Road F259 Bama - Gambaru	Bama	Borno	11.531	13.694	1	
 Federal Road F259 Bama - Gambaru	Ngala	Borno	12.360	14.224	1	
-Federal Road F259 Bama - Gambaru	Ngala	Borno	12.361	14.234	1	
-Federal Road F259 Bama - Gambaru	Ngala	Borno	12.364	14.240	1	
 Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.199	5.647	1	
 Federal Road F215 Owo - Tegina	Akoko South West	Ondo	7.389	5.723	1	
 Federal Road F215 Owo - Tegina	Ijumu	Kogi	7.811	5.747	1	
@@ -28,15 +25,12 @@ Federal Road F215 Owo - Tegina	Pategi	Kwara	8.719	5.743	1
 Federal Road F215 Owo - Tegina	Yagba East	Kogi	7.913	5.763	1	
 Federal Road F215 Owo - Tegina	Edati	Niger	8.880	5.855	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.726	5.801	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.768	5.723	1	
 Federal Road F259 Bama - Gambaru	Bama	Borno	11.578	13.853	1	
 Federal Road F259 Bama - Gambaru	Ngala	Borno	12.356	14.204	1	
 Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	11.893	14.322	1	
 Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.258	14.487	1	
 Federal Road F259 Bama - Gambaru	Bama	Borno	11.774	14.237	1	
-Federal Road F215 Owo - Tegina	Wushishi	Niger	9.822	6.160	1	
 Federal Road F259 Bama - Gambaru	Bama	Borno	11.535	13.716	1	
-Federal Road F215 Owo - Tegina	Edati	Niger	8.873	5.843	1	
 Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.681	5.751	1	
 Federal Road F215 Owo - Tegina	Akoko South West	Ondo	7.310	5.664	1	
 Federal Road F215 Owo - Tegina	Ọ̀wọ̀	Ondo	7.264	5.624	1	
@@ -46,30 +40,19 @@ Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	11.994	14.430	1
 Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	11.958	14.399	1	
 Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.051	14.456	1	
 Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.721	5.735	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.723	5.733	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.731	5.724	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.736	5.721	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.753	5.719	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.756	5.721	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.767	5.726	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.765	5.731	1	
+Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.725	5.728	1	
 Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.523	5.752	1	
 Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.506	5.745	1	
 Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.610	5.769	1	
 Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.644	5.759	1	
 Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.483	5.737	1	
 Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.562	5.766	1	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.538	5.768	1	
 Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.209	5.638	1	
-Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.204	5.641	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.610	5.638	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.614	5.649	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.621	5.661	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.647	5.682	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.671	5.707	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.678	5.710	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.690	5.725	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.735	5.803	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.735	5.810	1	
 Federal Road F215 Owo - Tegina	Wushishi	Niger	9.585	6.024	1	
 Federal Road F215 Owo - Tegina	Wushishi	Niger	9.585	6.024	1	
@@ -77,14 +60,6 @@ Federal Road F215 Owo - Tegina	Gbako	Niger	9.354	6.030	1
 Federal Road F215 Owo - Tegina	Gbako	Niger	9.234	6.027	1	
 Federal Road F215 Owo - Tegina	Wushishi	Niger	9.727	6.081	1	
 Federal Road F215 Owo - Tegina	Bida	Niger	9.121	6.012	1	
-Federal Road F215 Owo - Tegina	Bida	Niger	9.103	6.010	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.725	5.742	1	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.535	5.766	1	
-Federal Road F259 Bama - Gambaru	Ngala	Borno	12.366	14.258	1	
-Federal Road F259 Bama - Gambaru	Ngala	Borno	12.364	14.268	1	
 Federal Road F259 Bama - Gambaru	Ngala	Borno	12.347	14.296	1	
-Federal Road F259 Bama - Gambaru	Ngala	Borno	12.356	14.312	1	
-Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.364	14.324	1	
 Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.365	14.326	1	
-Federal Road F259 Bama - Gambaru	Ngala	Borno	12.361	14.280	1	
 Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.500	5.750	1	

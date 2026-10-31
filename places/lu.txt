@@ -1,4 +1,10 @@
-Iyara	Ijumu	Kogi	7.843	5.974	2	Ilukpa;Lupa
+Luma	Borgu	Niger	10.320	4.259	3	
+Luma	Borgu	Niger	10.523	4.359	3	
+Zungeru	Wushishi	Niger	9.807	6.152	3	zong gai lu|zungeru|zwngrw
+Uromi	Esan North-East	Edo	6.700	6.333	3	wu luo mi
+Kagoro	Kaura	Kaduna	9.608	8.390	3	Gwoot|ka ge luo
+Iyara	Ijumu	Kogi	7.843	5.971	3	Ilukpa|Lupa
+Ilorin	Ilorin East	Kwara	8.497	4.542	3	ILR|Illorin|Ilorinas|Iloryn|alwrn|alwryn|aylwryn|illolin|ilorina|irorin|yi luo lin
 Lukosi	Ife East	Osun	7.367	4.583	2	Idu Jimoti;Lukosi
 Luka	Shanga	Kebbi	11.432	4.596	2	
 Nyogor Luekon	Khana	Rivers	4.750	7.434	2	Nwogor Luekon
@@ -13,7 +19,6 @@ Dunkule	Paikoro	Niger	9.333	6.650	2	Lukpan;Lupna
 Luggarewa	Maiha	Adamawa	10.047	13.077	2	
 Eluke	Kabba/Bunu	Kogi	8.150	6.100	2	Luke
 Lukwatudu	Gwadabawa	Sokoto	13.275	5.354	2	
-Luma	Borgu	Niger	10.320	4.259	3	
 Lumbu	Ningi	Bauchi	11.117	9.334	2	
 Lukwa	Gwadabawa	Sokoto	13.286	5.358	2	
 Wiikwe Luebon	Khana	Rivers	4.777	7.414	2	Wiikwe Luekon
@@ -37,11 +42,13 @@ Lumu	Kebbe	Sokoto	11.689	4.687	2
 Lugu	Isa	Sokoto	13.197	6.449	2	
 Lugbowo	Ijebu North	Ogun	7.033	3.867	2	Lubawrawgi;Luborogi
 Sime Luekon	Khana	Rivers	4.792	7.466	2	Sime Luek
+Lumbu	Ussa	Taraba	7.100	10.067	2	Lumbo
 Dlima	Hawul	Borno	10.363	12.102	2	Luma
 Ligel	Faskari	Katsina	11.778	7.245	2	Lugel
 Lugamani	Gwandu	Kebbi	12.641	4.591	2	
 Mayo Lugungel	Mubi North	Adamawa	10.469	13.268	2	
 Lubara	Khana	Rivers	4.662	7.455	2	Luubara
+Lufu	Takum	Taraba	7.033	9.783	2	
 Lugga	Maru	Zamfara	12.361	6.392	2	
 Lumburam	Mobbar	Borno	13.224	12.556	2	
 Jiyayya Lungo	Ajingi	Kano	11.988	9.084	2	
@@ -52,13 +59,8 @@ Lumda	Mafa	Borno	11.977	13.733	2
 Lurdi	Gubio	Borno	12.768	12.867	2	
 Lugulugu	Biu	Borno	10.663	11.921	2	
 CBN Quaters Lugbe Phase 2	Municipal Area Council	FCT Abuja	8.991	7.357	2	
-St Luke Petroleum	Uvwie	Delta	5.546	5.774	0	
-St. Luke Pet. Ltd. Filling Station	Uvwie	Delta	5.559	5.776	0	
-St. Luke's School	Uvwie	Delta	5.547	5.771	0	
 Lukshe Primary	Konduga	Borno	11.493	13.346	2	
 Lukshe Alibe	Konduga	Borno	11.517	13.343	2	
-Luther Academy	Uvwie	Delta	5.565	5.772	0	
-Luri	Ojo	Lagos	6.477	3.186	0	
 Lugge	Bodinga	Sokoto	12.657	5.251	2	
 Lungu	Dange-Shuni	Sokoto	12.934	5.315	2	
 Unguwar Lungu	Madobi	Kano	11.825	8.297	2	
@@ -67,17 +69,163 @@ Luran	Dawakin Kudu	Kano	11.697	8.658	2
 Sabon Gari Luran	Dawakin Kudu	Kano	11.698	8.656	2	
 Lufur	Rano	Kano	11.542	8.567	2	
 Lufurawa	Rano	Kano	11.548	8.522	2	
-Lugge Health Post	Darazo	Bauchi	10.962	10.348	0	
-Martin Luther Agwai International Peace Keeping Centre	Igabi	Kaduna	10.811	7.544	0	
-Lupanga Health Post	Demsa	Adamawa	9.287	11.991	0	
-ludga maternity and child heath	Maiha	Adamawa	9.969	13.281	0	
-Luna Union Hospital	Jos North	Plateau	9.933	8.907	0	
-Luma	Borgu	Niger	10.523	4.359	3	
-Lugbe Bus Stop	Municipal Area Council	FCT Abuja	8.981	7.380	0	
-Aveli Luxe	Municipal Area Council	FCT Abuja	9.120	7.391	0	
-Sector F Junction To Lugbe Junction	Municipal Area Council	FCT Abuja	8.995	7.373	0	
-Lugbe By Car Wash Bridge	Municipal Area Council	FCT Abuja	8.964	7.381	0	
-Nnpc Limited - Lugbe	Municipal Area Council	FCT Abuja	8.969	7.354	0	
+Sifawa Lukuyawa	Bodinga	Sokoto	12.837	5.070	2	
+Lukshi	Dass	Bauchi	10.033	9.403	2	
+Umulumgbe	Udi	Enugu	6.596	7.419	2	Umu-Lumbe
+Ototo-Lukoye	Obafemi Owode	Ogun	7.099	3.388	2	Ototo Lukoye
+Mai Lumba	Toro	Bauchi	10.790	8.988	2	
+Luwako	Ijebu East	Ogun	6.601	4.179	2	
+Luwa	Shiroro	Niger	9.828	6.314	2	
+Luwa	Khana	Rivers	4.672	7.482	2	
+Lusi	Zing	Taraba	8.831	11.701	2	
+Lushi	Bauchi	Bauchi	10.266	9.809	2	
+Lushe	Lau	Taraba	9.162	11.366	2	
+Lusa Jeji	Bogoro	Bauchi	9.555	9.608	2	
+Lusa Jeji	Bogoro	Bauchi	9.542	9.599	2	
+Lusabe	Obafemi Owode	Ogun	7.026	3.359	2	
+Lusa	Bogoro	Bauchi	9.613	9.595	2	
+Lupwe	Ussa	Taraba	7.202	9.994	2	
+Lunjo	Konshisha	Benue	7.187	8.589	2	
+Lungura	Mubi South	Adamawa	10.154	13.412	2	
+Lungu	Doguwa	Kano	10.713	8.642	2	
+Lundu	Bassa	Kogi	7.867	7.017	2	
+Lumogo	Ijebu East	Ogun	6.713	4.278	2	
+Lumogede	Ijebu North	Ogun	7.050	4.006	2	
+Lumogede	Ijebu North	Ogun	7.050	4.000	2	
+Lumde Jamtari	Mayo-Belwa	Adamawa	8.979	11.920	2	
+Lumde Giwa	Mayo-Belwa	Adamawa	8.978	12.152	2	
+Lumde Baro	Mayo-Belwa	Adamawa	8.990	12.067	2	
+Lumbo	Damban	Bauchi	11.667	10.805	2	
+Lumba	Wase	Plateau	9.211	10.013	2	
+Luma	Bauchi	Bauchi	10.367	10.100	2	
+Luma	Borgu	Niger	10.295	4.284	2	
+Lulin Sama	Dukku	Gombe	10.760	10.594	2	
+Lulu	Ardo-Kola	Taraba	8.729	11.378	2	
+Lukunde	Nangere	Yobe	11.755	11.116	2	
+Lukuma	Munya	Niger	9.956	7.223	2	
+Luku	Munya	Niger	9.813	7.263	2	
+Lukosi	Abeokuta North	Ogun	7.213	3.244	2	
+Lukosi	Obafemi Owode	Ogun	6.862	3.343	2	
+Lukodna	Munya	Niger	9.918	6.949	2	
+Luke	Ife South	Osun	7.151	4.497	2	
+Lujia	Yusufari	Yobe	13.282	10.878	2	
+Luhu	Magama	Niger	10.517	4.867	2	
+Lugzo	Fufore	Adamawa	9.029	12.428	2	
+Lugudi	Jama'Are	Bauchi	11.583	9.850	2	
+Lugshari	Hawul	Borno	10.569	12.127	2	
+Lugo	Dukku	Gombe	10.839	10.581	2	
+Luggudi	Misau	Bauchi	11.379	10.469	2	
+Luggere	Song	Adamawa	9.783	12.658	2	
+Lugge	Darazo	Bauchi	10.954	10.351	2	
+Lugge	Bauchi	Bauchi	10.102	9.661	2	
+Lugga Zum	Hong	Adamawa	10.111	13.056	2	
+Luggarewo	Fufore	Adamawa	9.058	12.656	2	
+Lugga	Hong	Adamawa	10.138	13.102	2	
+Lugga	Shiroro	Niger	10.522	6.858	2	
+Lugga	Yola North	Adamawa	9.327	12.343	2	
+Lugga	Fufore	Adamawa	9.312	12.657	2	
+Lugga	Fufore	Adamawa	9.288	12.636	2	
+Lugga	Fufore	Adamawa	8.936	12.340	2	
+Lugeru	Fufore	Adamawa	8.909	12.247	2	
+Lugere Ibi	Jada	Adamawa	8.870	12.158	2	
+Lugere Geita	Yola North	Adamawa	9.095	12.529	2	
+Lugere	Mayo-Belwa	Adamawa	8.925	12.044	2	
+Lugdira Kuli	Mubi South	Adamawa	10.096	13.212	2	
+Lugdira	Maiha	Adamawa	10.087	13.191	2	
+Lugarewo	Fufore	Adamawa	9.035	12.257	2	
+Luga Chamba	Fufore	Adamawa	8.858	12.582	2	
+Luga	Gboko	Benue	7.283	8.706	2	
+Lufu	Takum	Taraba	7.049	9.749	2	Ncha
+Lufoko	Obafemi Owode	Ogun	7.043	3.405	2	
+Lufodo	Odeda	Ogun	7.246	3.667	2	
+Luekue Banghan	Khana	Rivers	4.759	7.510	2	
+Luegbo	Khana	Rivers	4.671	7.437	2	
+Luebe	Khana	Rivers	4.799	7.418	2	
+Ludumi	Ganjuwa	Bauchi	10.794	10.321	2	
+Lude Luekon	Khana	Rivers	4.751	7.444	2	
+Luchi	Toro	Bauchi	10.002	9.298	2	
+Luchambi	Damban	Bauchi	11.741	10.835	2	
+Lubu	Gombi	Adamawa	10.274	12.687	2	
+Lubatari	Sardauna	Taraba	6.892	11.543	2	
+Luubara	Khana	Rivers	4.663	7.450	2	Lubara
+Lungu	Shagari	Sokoto	12.534	5.058	2	Longo
+Likingo	Tambuwal	Sokoto	12.305	4.750	2	Lukingo
+Jauro Luman	Fufore	Adamawa	8.960	12.404	2	
+Idu-Jimoti	Ife East	Osun	7.360	4.593	2	Idu Jimoti|Lukosi
+Eluke	Kabba/Bunu	Kogi	8.144	6.110	2	Luke
+Ban Luekon	Khana	Rivers	4.759	7.439	2	
+Banga Luri	Ganjuwa	Bauchi	10.670	10.461	2	
+Agbani Luekon	Khana	Rivers	4.763	7.423	2	
+Luga Habere	Madagali	Adamawa	10.901	13.632	2	
+Lurdi	Gubio	Borno	12.820	12.903	2	
+Lukosi	Ifo	Ogun	6.779	3.154	2	
+Lufape	Obafemi Owode	Ogun	6.864	3.490	2	
+Luma	Hawul	Borno	10.361	12.103	2	
+Lupaye	Ijebu East	Ogun	6.573	4.131	2	
+Ago-Lulu	Ilaje	Ondo	6.410	4.631	2	
+Lugga	Sandamu	Katsina	12.945	8.399	2	
+Lungusi	Gada	Sokoto	13.761	5.665	2	
+Lukpo	Gwadabawa	Sokoto	13.377	5.313	2	
+Lukwatudu	Gwadabawa	Sokoto	13.274	5.355	2	
+Ungwan Lumbayi	Zaria	Kaduna	11.111	7.667	2	
+Maigaraja Lumu	Kebbe	Sokoto	11.685	4.657	2	
+Karimi-Lugga	Tambuwal	Sokoto	12.316	4.862	2	
+Lulugbene	Ekeremor	Bayelsa	4.787	5.610	2	
+Korokoro Luekon	Khana	Rivers	4.746	7.434	2	
+Tem Luekon	Khana	Rivers	4.743	7.440	2	
+Luere	Khana	Rivers	4.672	7.430	2	
+Lugbe	Municipal Area Council	FCT Abuja	8.973	7.384	2	
+Arochukwu	Arochukwu	Abia	5.486	7.766	2	Agbegbe Ijoba Ibile Arochukwu|Arochokwu|Arochukvu|Arochukwu Local Government Area|a luo qiu ku
+Lugga Jauro Usmanu	Maiha	Adamawa	9.958	13.283	2	
+Luhuva Clan	Gwoza	Borno	11.135	13.725	2	
+Kubura-Lufa	Gwoza	Borno	10.935	13.476	2	
+Lukunyi	Michika	Adamawa	10.624	13.371	2	
+Lumputi	Nafada	Gombe	11.111	11.179	2	
+Luku	Gwer East	Benue	7.569	8.358	2	
+Lukor	Buruku	Benue	7.549	9.071	2	
+Lulugh	Ukum	Benue	7.656	9.531	2	
+Lughlugh	Buruku	Benue	7.470	9.220	2	
+Lumun	Katsina-Ala	Benue	7.274	9.363	2	
+Luga	Katsina-Ala	Benue	7.465	9.444	2	
+Lughlugh	Katsina-Ala	Benue	7.274	9.468	2	
+Lukoo	Katsina-Ala	Benue	7.248	9.349	2	
+Lujo	Katsina-Ala	Benue	7.208	9.372	2	
+Lukol	Gboko	Benue	7.465	8.752	2	
+Luuga	Gboko	Benue	7.435	8.830	2	
+Luuga	Gboko	Benue	7.365	8.895	2	
+Luga	Gboko	Benue	7.290	8.867	2	
+Lukoro	Lavun	Niger	9.170	5.770	2	
+Diko-Lupe	Lavun	Niger	9.191	5.677	2	
+Lussi	Yusufari	Yobe	13.098	11.047	2	
+Lukusi	Yusufari	Yobe	13.108	11.240	2	
+Lukoko	Gbako	Niger	9.156	6.034	2	
+Lugboyi	Bosso	Niger	9.673	6.375	2	
+Gidan Lugwo	Munya	Niger	9.670	6.889	2	
+Lugopi	Paikoro	Niger	9.530	6.761	2	
+Lumo	Fufore	Adamawa	8.939	12.366	2	
+Luki	Karu	Nasarawa	9.180	7.859	2	
+Gidan Lukwi	Karu	Nasarawa	9.118	7.790	2	
+Lunkat	Mikang	Plateau	8.942	9.553	2	
+Lugere	Yola South	Adamawa	9.272	12.447	2	
+Lugere	Yola South	Adamawa	9.233	12.439	2	
+Holare Yolde Luwa	Demsa	Adamawa	9.291	12.058	2	
+Lulu	Demsa	Adamawa	9.344	11.897	2	
+Lunga	Karim Lamido	Taraba	9.379	10.990	2	
+Ungwar Luye	Karim Lamido	Taraba	9.353	11.194	2	
+Lubebe	Ife North	Osun	7.390	4.494	2	
+Lukosi	Ife East	Osun	7.477	4.584	2	
+Orile-Lukosi	Ife South	Osun	7.372	4.611	2	
+Abanla Lukosi	Ife South	Osun	7.382	4.609	2	
+Lushere-Agunla	Ile Oluji/Okeigbo	Ondo	7.287	4.924	2	
+Lusodo	Odeda	Ogun	7.175	3.506	2	
+Lufowora	Obafemi Owode	Ogun	7.086	3.545	2	
+Gidan Yakubu	Lafia	Nasarawa	8.688	8.687	2	Gidan Yakubu Lungu|GidanYakubu|GidanYakubuLungu
+Lugere	Jada	Adamawa	8.848	12.698	2	
+Lugere	Teungo	Adamawa	8.196	12.056	2	
+Lugere	Teungo	Adamawa	8.191	11.977	2	
+Luru	Song	Adamawa	9.595	12.281	2	
+Luwa	Sardauna	Taraba	6.802	11.409	2	
+Lugbe	Municipal Area Council	FCT Abuja	8.977	7.358	2	
 Lucinda Johnson Street	Surulere	Lagos	6.497	3.360	1	
 Lucky Igbinedion Way	Ikpoba-Okha	Edo	6.364	5.660	1	
 Luwei Close	Oredo	Edo	6.247	5.630	1	
@@ -100,28 +248,40 @@ Lumumba Street	Enugu North	Enugu	6.456	7.519	1
 Lungun Malamai Road	Tofa	Kano	12.058	8.275	1	
 Luke Muoh Street	Oshodi/Isolo	Lagos	6.510	3.298	1	
 Bankole Lukmon Street	Eti Osa	Lagos	6.432	3.513	1	
+Lugard St	Calabar Municipal	Cross River	4.956	8.322	1	
+Lukman Atobajeun Street	Oshodi/Isolo	Lagos	6.541	3.323	1	
+Lucky Freeman Street	Oshodi/Isolo	Lagos	6.486	3.294	1	
+Lucky Ogbebor Street	Oredo	Edo	6.292	5.568	1	
+Nosakhare Street	Oredo	Edo	6.293	5.566	1	LUCKY OGBEBOR STREET
+Patrice Lumumba Lane	Eti Osa	Lagos	6.467	3.649	1	
+Lundi Close	Municipal Area Council	FCT Abuja	9.092	7.490	1	
+Lugard Road	Lokoja	Kogi	7.804	6.742	1	
+Luwei Street	Oredo	Edo	6.247	5.626	1	
+Lugard Osuji Close	Owerri Municipal	Imo	5.482	6.997	1	
+Luvu Road	Karu	Nasarawa	9.010	7.671	1	
+St Luke Petroleum	Uvwie	Delta	5.546	5.774	0	
+St. Luke Pet. Ltd. Filling Station	Uvwie	Delta	5.559	5.776	0	
+St. Luke's School	Uvwie	Delta	5.547	5.771	0	
+Luther Academy	Uvwie	Delta	5.565	5.772	0	
+Luri	Ojo	Lagos	6.477	3.186	0	
+Lugge Health Post	Darazo	Bauchi	10.962	10.348	0	
+Martin Luther Agwai International Peace Keeping Centre	Igabi	Kaduna	10.811	7.544	0	
+Lupanga Health Post	Demsa	Adamawa	9.287	11.991	0	
+ludga maternity and child heath	Maiha	Adamawa	9.969	13.281	0	
+Luna Union Hospital	Jos North	Plateau	9.933	8.907	0	
+Lugbe Bus Stop	Municipal Area Council	FCT Abuja	8.981	7.380	0	
+Aveli Luxe	Municipal Area Council	FCT Abuja	9.120	7.391	0	
+Sector F Junction To Lugbe Junction	Municipal Area Council	FCT Abuja	8.995	7.373	0	
+Lugbe By Car Wash Bridge	Municipal Area Council	FCT Abuja	8.964	7.381	0	
+Nnpc Limited - Lugbe	Municipal Area Council	FCT Abuja	8.969	7.354	0	
 Luchambi Dispensary	Damban	Bauchi	11.756	10.830	0	
 Primary Heath Care Luda	Bauchi	Bauchi	10.045	9.872	0	
 Lukshi Maternity	Dass	Bauchi	10.022	9.376	0	
 Tsohon Garin Lukshi Health Center	Dass	Bauchi	10.031	9.420	0	
-Lugard St	Calabar Municipal	Cross River	4.956	8.322	1	
-Lukman Atobajeun Street	Oshodi/Isolo	Lagos	6.541	3.323	1	
-Lucky Freeman Street	Oshodi/Isolo	Lagos	6.486	3.294	1	
-Lugard Avenue	Eti Osa	Lagos	6.455	3.433	1	
-LUCKY OGBEBOR STREET	Oredo	Edo	6.292	5.568	1	
-NOSAKHARE STREET	Oredo	Edo	6.293	5.566	1	LUCKY OGBEBOR STREET
-Patrice Lumumba Lane	Eti Osa	Lagos	6.467	3.649	1	
-Lundi Close	Municipal Area Council	FCT Abuja	9.092	7.490	1	
-Lugard Road	Lokoja	Kogi	7.804	6.742	1	
 Lagos University Teaching Hospital	Mushin	Lagos	6.516	3.355	0	LUTH
 Luwasa High School	Ìkòròdú	Lagos	6.582	3.593	0	
-Luwei Street	Oredo	Edo	6.247	5.626	1	
 Lusa Maternal and Child Health Clinic	Bogoro	Bauchi	9.617	9.592	0	
 St. LukeÃ¢Â€Â˜s medical center	Surulere	Lagos	6.498	3.330	0	
 Model Primary Health Center Lusa	Bogoro	Bauchi	9.639	9.711	0	Gobbiya Model Primary Health Center
 St Lukes	Jos North	Plateau	9.868	8.862	0	
-Lugard Osuji Close	Owerri Municipal	Imo	5.482	6.997	1	
-Luvu Road	Karu	Nasarawa	9.010	7.671	1	
 O. B. Lulu Briggs Health Center	Obio/Akpor	Rivers	4.902	6.909	0	
-Sifawa Lukuyawa	Bodinga	Sokoto	12.837	5.070	2	
-Lukshi	Dass	Bauchi	10.033	9.403	2	

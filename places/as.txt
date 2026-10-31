@@ -1,3 +1,11 @@
+Ashigashiya	Gwoza	Borno	11.136	13.874	3	
+Ashaka	Ndokwa East	Delta	5.634	6.400	3	
+Ashaka	Funakaye	Gombe	10.885	11.515	3	
+Askira	Askira-Uba	Borno	10.652	12.913	3	
+Asaba	Oshimili South	Delta	6.186	6.730	3	
+Azare	Hawul	Borno	10.526	12.291	3	Asari
+Asaba	Oshimili South	Delta	6.198	6.732	3	ABB|asaba
+Asero	Obafemi Owode	Ogun	7.120	3.340	2	
 Guidan Asan	Isa	Sokoto	13.328	6.688	2	
 Asafo	Yewa South	Ogun	6.799	2.931	2	
 Asa-Oke-Oko	Ewekoro	Ogun	6.936	3.078	2	Asha-Oke-Oko;Asha-Oke-Obo
@@ -8,7 +16,6 @@ Aseseru	Asa	Kwara	8.669	4.365	2
 Asagba	Udu	Delta	5.483	5.783	2	Egeregere
 Asipa	Ife North	Osun	7.500	4.433	2	Ashipa
 Ashipa	Alimosho	Lagos	6.583	3.255	2	
-Ashigashiya	Gwoza	Borno	11.136	13.874	3	
 Asileke	Ori Ire	Oyo	8.283	4.333	2	Ashelekke
 Ason	Ìkòròdú	Lagos	6.572	3.518	2	Ason;Ashon
 Asese	Obafemi Owode	Ogun	6.767	3.417	2	Asheshe
@@ -38,7 +45,6 @@ Asa Amuhi	Ugwunagbo	Abia	5.017	7.333	2
 Azu	Tafa	Niger	9.317	7.333	2	Asu
 Asipa	Asa	Kwara	8.167	4.583	2	
 Ashipa	Yewa North	Ogun	6.883	2.917	2	
-Ashaka	Ndokwa East	Delta	5.634	6.400	3	
 Asagba	Ethiope West	Delta	5.786	5.830	2	
 Asala Fura	Jere	Borno	12.052	13.200	2	
 Asa	Obafemi Owode	Ogun	7.083	3.333	2	Asha
@@ -73,7 +79,6 @@ Asamari	Damboa	Borno	11.248	13.063	2
 Asarara	Dandi	Kebbi	11.781	3.962	2	
 Asiboro	Ese Odo	Ondo	6.128	5.031	2	
 Sangwa Bulama Ibrahim Dembe	Shani	Borno	10.330	12.210	2	Sangwa Bulama Asuku
-Azare	Hawul	Borno	10.526	12.291	2	Asari
 Asara	Wamako	Sokoto	13.052	5.139	2	Asare
 Asa	Ewekoro	Ogun	6.829	3.290	2	Asha
 Assamanka	Akpabuyo	Cross River	5.060	8.428	2	Asabanga
@@ -82,12 +87,9 @@ Asarara	Kalgo	Kebbi	12.274	4.132	2
 Tunga Asarara	Bagudo	Kebbi	11.138	4.068	2	
 Eggon Fulani	Asa	Kwara	8.333	4.450	2	Asani;Eggon Fulani
 Aso	Municipal Area Council	FCT Abuja	9.052	7.530	2	
-Ashaka	Funakaye	Gombe	10.885	11.515	3	
 Asaga Amangwu	Edda	Ebonyi	5.833	7.867	2	
 Ajebo	Obafemi Owode	Ogun	7.117	3.717	2	Asha
-Askira	Askira-Uba	Borno	10.652	12.913	3	
 Ikot Ndem	Akpabuyo	Cross River	4.919	8.454	2	Ikot Asukwo Edem;Ikot Asuquo Edem
-Asewele	Odigbo	Ondo	6.869	4.858	2	
 Asola	Tsafe	Zamfara	11.991	7.036	2	
 Gidan Sarikin Aski	Kebbe	Sokoto	11.673	4.664	2	
 Njahasang	Akamkpa	Cross River	5.208	8.294	2	Njakasang;Nya Asang
@@ -97,14 +99,6 @@ Asu	Obafemi Owode	Ogun	7.033	3.450	2	Ashu
 Asi	Ibadan North	Oyo	7.426	3.932	2	
 Dan Ashitan	Ingawa	Katsina	12.639	8.180	2	Bowaji;Rowaji
 Asisa	Ilaje	Ondo	6.160	4.714	2	Ashisha
-Asaba	Oshimili South	Delta	6.186	6.730	3	
-ASCL Staff Comprehensive Secondary School III	Ajaokuta	Kogi	7.553	6.630	0	
-ASCL Staff Comprehensive Secondary School II	Ajaokuta	Kogi	7.554	6.645	0	
-ASCo Camp Market	Ajaokuta	Kogi	7.540	6.678	0	
-ASCL Staff Secondary School I	Ajaokuta	Kogi	7.550	6.600	0	
-Ascon Filling Station	Ikpoba-Okha	Edo	6.330	5.635	0	
-Asoro Primary School	Oredo	Edo	6.331	5.626	0	
-Asemota Shopping Plaza	Oredo	Edo	6.335	5.619	0	
 Ashi	Ibadan North	Oyo	7.432	3.923	2	
 Unguwar Nasarawa	Doguwa	Kano	10.670	8.546	2	Asada
 Digawan Asayaya	Ajingi	Kano	11.975	9.130	2	
@@ -127,23 +121,13 @@ Ta'Asa A	Abadam	Borno	13.474	12.894	2
 Ta'Asa B	Abadam	Borno	13.454	12.910	2	
 Mallumri Asga	Mafa	Borno	11.833	13.781	2	
 Leno Asanye	Bama	Borno	11.408	13.947	2	
-Total Asokoro	Municipal Area Council	FCT Abuja	9.051	7.507	0	
 Assaga Koura/Gana	Diffa	Borno	13.314	12.708	2	
-ASCL PRIMARY SCHOOL II	Ajaokuta	Kogi	7.559	6.637	0	
-Ascon Filling Station	Uvwie	Delta	5.565	5.758	0	
-Aso Treasures Standard High School	Yenegoa	Bayelsa	4.930	6.307	0	
 Assanti	Monguno	Borno	12.594	13.683	2	
 Ngurno Asikya	Monguno	Borno	12.722	13.689	2	
 Asharamti	Guzamala	Borno	12.644	13.290	2	
 Asanti	Guzamala	Borno	12.804	13.159	2	
 Ashemiri	Konduga	Borno	11.676	13.252	2	
 Mamman Asheri	Konduga	Borno	11.656	13.405	2	
-Ascension Intl. School	Uvwie	Delta	5.556	5.775	0	
-Asolyn Filling Station	Uvwie	Delta	5.541	5.754	0	
-Asolo	Ìkòròdú	Lagos	6.657	3.476	0	
-Asana Tatonmi Market	Ile Oluji/Okeigbo	Ondo	7.121	4.742	0	
-Asanta Oja Market	Ondo East	Ondo	6.989	4.957	0	
-PHC Assada	Sokoto North	Sokoto	13.066	5.239	0	
 Ashakata	Dawakin Tofa	Kano	12.132	8.273	2	
 Asayaya	Dambatta	Kano	12.327	8.669	2	
 Zango Mai Asibiti	Minjibir	Kano	12.252	8.700	2	
@@ -152,38 +136,468 @@ Asayaya	Gabasawa	Kano	12.158	8.912	2
 Uran Asayaya	Gezawa	Kano	12.062	8.814	2	Asayaya
 Yansoro Asibit	Gaya	Kano	11.724	8.919	2	
 Layin Asbiti	Kibiya	Kano	11.390	8.666	2	
-Ashigashiya Primary Health Centre	Gwoza	Borno	11.139	13.870	0	
-tito asibiti	Larmurde	Adamawa	9.554	11.731	0	
 Ashura	Toro	Bauchi	10.434	8.770	2	
 Asokoro District	Municipal Area Council	FCT Abuja	9.042	7.520	2	
-Ashaka School	Funakaye	Gombe	10.920	11.482	0	
-St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ifo	Ogun	6.683	3.321	0	
-St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ado Odo/Ota	Ogun	6.583	3.024	0	
 Asidani	Isoko South	Delta	5.265	6.280	2	
 Ase	Isoko South	Delta	5.341	6.332	2	
-As-salam Medical Centre, Office bus-stop Sasa	Akinyele	Oyo	7.486	3.914	0	
 Asaba-Utchi	Ndokwa East	Delta	5.937	6.674	2	
 Asume	Isoko North	Delta	5.483	6.139	2	
-Ashed Specialist Hospital	Jos North	Plateau	9.940	8.868	0	
-Asibitin Salisu	Jos North	Plateau	9.948	8.887	0	
 Rivers State House of Assembly Quarters	Obio/Akpor	Rivers	4.824	7.009	2	
-Asibitinyara Health Center	Kaduna South	Kaduna	10.505	7.411	0	
-Hajia Asama'u Ahmad Makarfi Health Center Barnawa	Kaduna South	Kaduna	10.481	7.430	0	
-Askolaye Primary Health Center	Kaduna South	Kaduna	10.533	7.402	0	
-National Assembly Lodge	Akure South	Ondo	7.291	5.145	0	
-Divine Assurance Abode	Akure South	Ondo	7.289	5.147	0	
-Blessed Assurance Maternity Home	Amuwo Odofin	Lagos	6.457	3.303	0	
-Asheco Hospital	Amuwo Odofin	Lagos	6.439	3.312	0	
-ASSAYYADA AISHA COLLEGE	Ungongo	Kano	12.035	8.565	0	
-ASHABUL KAHFI QADIRIYYA RIYADUL JANNAH	Gwale	Kano	11.960	8.476	0	
 ogbon asolo	Ise/Orun	Ekiti	7.465	5.428	2	
 Asick Obufa	Akamkpa	Cross River	5.460	8.726	2	
-Agaka Petroleum Asa Dam, Asa-Dam Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.459	4.532	0	
-Assumpta Roundabout	Owerri Municipal	Imo	5.489	7.020	0	
-Aso Junction Opposite Fota Church	Municipal Area Council	FCT Abuja	8.959	7.343	0	
 Ashishie	Boki	Cross River	6.421	9.116	2	
+Asata	Enugu North	Enugu	6.439	7.499	2	
+Asheikri 2	Geidam	Yobe	12.879	11.961	2	
+Asheikri 1	Geidam	Yobe	12.952	11.934	2	
+Askandu	Kaugama	Jigawa	12.400	9.845	2	
+Asara	Gwadabawa	Sokoto	13.468	5.287	2	
+Asso	Jema'A	Kaduna	9.340	8.174	2	
+Ibesikpo Asutan	Ibesikpo Asutan	Akwa Ibom	4.918	7.965	2	
+Asa	Asa	Kwara	8.413	4.442	2	
+Asari-Toru	Asari-Toru	Rivers	4.753	6.835	2	
+Askira East	Askira-Uba	Borno	10.630	12.963	2	
+Asaga	Mobbar	Borno	13.293	12.737	2	
+Askira-Uba	Askira-Uba	Borno	10.725	13.157	2	
+Hausawa Asibiti	Potiskum	Yobe	11.729	11.063	2	
+Asokoro	Municipal Area Council	FCT Abuja	9.042	7.522	2	
+Ungwan Ashau	Igabi	Kaduna	10.914	7.770	2	
+Tungan Ashirkali	Agwara	Niger	10.653	4.624	2	
+Shiuba	Rafi	Niger	10.383	6.067	2	Ashisha
+Oyoku Asang	Okobo	Akwa Ibom	4.749	8.093	2	
+Oyere-Asujo	Ife North	Osun	7.263	4.431	2	Oyere Asujo
+Oke Asha	Surulere	Oyo	8.050	4.417	2	
+Oke-Asa	Surulere	Oyo	8.159	4.437	2	Oke Asa
+Odan-Asun	Ife North	Osun	7.524	4.482	2	Asun|Odan Asun
+Ochadam	Ofu	Kogi	7.396	7.038	2	Asadam|Assadam
+Nta Asim	Odukpani	Cross River	5.183	8.176	2	
+Leno Asanye	Bagudo	Kebbi	11.400	3.950	2	
+Issele-Azagba	Aniocha South	Delta	6.270	6.596	2	Issele Asaba
+Imala-Asipa	Imeko Afon	Ogun	7.421	3.016	2	Ashipa|Imala Asipa
+Idua Asan	Okobo	Akwa Ibom	4.841	8.187	2	
+Gidan Ashafa	Zangon Kataf	Kaduna	9.823	8.187	2	Gidanashafa
+Gankoi Ase	Bali	Taraba	7.576	10.361	2	
+Ewuji-Asa	Olorunsogo	Oyo	8.888	4.175	2	Ewuji Asa
+Eggon-Fulani	Asa	Kwara	8.333	4.448	2	Asani|Eggon Fulani
+Idosa-Bode Ase	Ipokia	Ogun	6.543	2.740	2	Bodashe|Bode Ase
+Azu	Tafa	Niger	9.314	7.326	2	Asu
+Azagba-Ogwashi	Aniocha South	Delta	6.243	6.595	2	Asaba-Ogwashi
+Asure-Ola	Ori Ire	Oyo	8.606	4.134	2	Asure Ola
+Asunora	Ipokia	Ogun	6.597	2.743	2	
+Asunnora	Ibarapa North	Oyo	7.655	3.115	2	Asunawra|Asunora
+Asunnara	Isokan	Osun	7.265	4.171	2	
+Asungbene	Southern Ijaw	Bayelsa	4.735	6.084	2	
+Asundu	Konshisha	Benue	7.212	8.523	2	
+Asunda	Tarka	Benue	7.548	8.845	2	
+Asun	Obafemi Owode	Ogun	7.022	3.499	2	
+Asuman	Ede South	Osun	7.644	4.409	2	
+Asukurubia	Odukpani	Cross River	5.313	7.985	2	
+Asugh	Gboko	Benue	7.311	8.648	2	
+Asue	Tarka	Benue	7.679	8.873	2	
+Asudzun	Ussa	Taraba	7.070	10.153	2	
+Asu	Obafemi Owode	Ogun	7.036	3.455	2	Ashu
+Asto	Karasuwa	Yobe	12.918	10.637	2	
+Assaya	Mariga	Niger	10.316	6.042	2	
+Assamara	Ovia South-West	Edo	6.283	5.383	2	
+Assaikia	Lafia	Nasarawa	8.596	8.849	2	Assaikio
+Assai	Riyom	Plateau	9.450	8.716	2	
+Assob Barshi	Jema'A	Kaduna	9.517	8.436	2	
+Asough	Keana	Nasarawa	8.138	8.583	2	
+Asou	Tarka	Benue	7.553	8.840	2	
+Asortal	Gboko	Benue	7.253	8.694	2	
+Asorope	Ifelodun	Kwara	8.595	5.172	2	
+Asoro	Ibadan North West	Oyo	7.407	3.847	2	
+Asore	Ado Odo/Ota	Ogun	6.683	3.100	2	
+Asor	Gwer West	Benue	7.470	8.188	2	
+Asor	Gboko	Benue	7.329	8.678	2	
+Asor	Ushongo	Benue	7.036	8.926	2	
+Asor	Konshisha	Benue	7.021	8.556	2	
+Asongu	Gboko	Benue	7.323	8.638	2	
+Asongu	Gboko	Benue	7.286	8.673	2	
+Asong	Mkpat Enin	Akwa Ibom	4.645	7.820	2	
+Abosan	Ìkòròdú	Lagos	6.572	3.518	2	Ashon|Ason
+Asom	Kwande	Benue	6.672	9.500	2	
+Asokoro	Municipal Area Council	FCT Abuja	9.053	7.528	2	Aso
+Asoko	Oshimili North	Delta	6.298	6.696	2	
+Asoke	Zaki	Bauchi	12.212	10.257	2	
+Asogbe	Doma	Nasarawa	8.369	8.297	2	
+Asogba	Lagelu	Oyo	7.500	4.017	2	
+Aso	Jema'A	Kaduna	9.434	8.166	2	Asau
+Aso	Tarka	Benue	7.645	8.831	2	
+Askandu	Kaugama	Jigawa	12.385	9.813	2	
+Askanabi	Ussa	Taraba	7.237	10.184	2	
+Askale	Ikara	Kaduna	11.204	8.285	2	
+Asipa-Oniyangi	Akinyele	Oyo	7.661	4.054	2	Asipa Oniyangi|AsipaOniyangi
+Asipa	Oyo East	Oyo	7.904	4.031	2	
+Asipa	Ejigbo	Osun	7.833	4.083	2	
+Asipa	Afijio	Oyo	7.827	4.026	2	
+Asipa	Akinyele	Oyo	7.600	3.952	2	
+Asipa	Aiyedade	Osun	7.543	4.343	2	Ashipa
+Asipa	Egbeda	Oyo	7.396	3.981	2	
+Asipa	Ona Ara	Oyo	7.333	4.050	2	
+Asipa	Odeda	Ogun	7.300	3.326	2	
+Asipa	Yewa North	Ogun	7.277	2.951	2	
+Asipa	Abeokuta North	Ogun	7.169	3.277	2	
+Asipa	Obafemi Owode	Ogun	7.083	3.393	2	
+Asipa	Ewekoro	Ogun	7.050	3.272	2	
+Asine	Bali	Taraba	7.937	10.953	2	
+Asi-Moniyi	Asa	Kwara	8.632	4.318	2	Asi Moniyi
+Asikoro	Yenegoa	Bayelsa	4.892	6.291	2	
+Asiga	Yakurr	Cross River	5.944	8.169	2	Asigo
+Asibi	Kurmi	Taraba	7.328	10.545	2	
+Asia Umu Nka	Ugwunagbo	Abia	5.047	7.322	2	Asia Umu-Ukia
+Asia Nnentu	Aba South	Abia	5.067	7.350	2	
+Asia Amanhie	Ugwunagbo	Abia	5.017	7.333	2	Asta Amanhie
+Asi	Ila	Osun	8.067	4.783	2	
+Ashwe	Konshisha	Benue	7.352	8.566	2	
+Ashwe	Gboko	Benue	7.325	8.641	2	
+Ashuk	Ogoja	Cross River	6.365	8.611	2	
+Ashuban	Boki	Cross River	6.254	8.923	2	Ashoban
+Ashogho	Isoko South	Delta	5.266	6.176	2	
+Ashiya	Donga	Taraba	7.773	10.005	2	
+Ashimbe	Gboko	Benue	7.358	8.684	2	
+Ashige	Lafia	Nasarawa	8.581	8.810	2	
+Ashigashiya	Gwoza	Borno	11.135	13.877	2	Ashigasiga|Assigachiga|Assigassia|Ishigashiya
+Ashiga	Obi	Nasarawa	8.417	8.641	2	
+Ashie	Ushongo	Benue	7.140	8.890	2	
+Ashie	Konshisha	Benue	7.021	8.536	2	
+Ashi Arage	Bali	Taraba	7.969	10.392	2	
+Asheru	Ìsẹ́yìn	Oyo	8.027	3.720	2	
+Asherifa	Kiyawa	Jigawa	11.930	9.559	2	
+Ashera	Kwali	FCT Abuja	8.590	6.876	2	
+Ashehu	Igabi	Kaduna	10.800	7.717	2	
+Ashefe	Obi	Nasarawa	8.400	8.676	2	Ahefe
+Ashar Lafia	Maru	Zamfara	12.225	6.324	2	
+Ashar	Kwande	Benue	6.944	9.605	2	
+Asham	Kauru	Kaduna	10.350	8.283	2	
+Asham	Kwande	Benue	6.707	9.221	2	
+Ashaka	Funakaye	Gombe	10.833	11.512	2	
+Asha	Shiroro	Niger	9.940	6.783	2	
+Asha	Guma	Benue	7.989	8.557	2	
+Asha	Ushongo	Benue	7.209	8.912	2	
+Asha	Kurmi	Taraba	7.089	10.784	2	
+Asesu	Ìsẹ́yìn	Oyo	8.003	3.712	2	
+Asosan	Abeokuta North	Ogun	7.365	3.063	2	Asesan
+Aserawo	Ogo Oluwa	Oyo	7.903	4.391	2	
+Aseperi	Akinyele	Oyo	7.580	3.942	2	
+Asema	Ushongo	Benue	7.120	8.965	2	
+Aselebe	Ori Ire	Oyo	8.617	4.233	2	
+Asebe	Odeda	Ogun	7.228	3.390	2	
+Ase	Oluyole	Oyo	7.317	3.849	2	
+Ase	Isoko South	Delta	5.413	6.343	2	
+Asurbum	Zaki	Bauchi	12.435	10.327	2	Asburbum
+Asayaya	Taura	Jigawa	12.321	9.200	2	
+Asawo	Ogo Oluwa	Oyo	7.990	4.277	2	
+Asawo	Ede South	Osun	7.650	4.442	2	
+Asawe	Konshisha	Benue	7.119	8.509	2	
+Asawa-Uzel	Konshisha	Benue	7.104	8.520	2	
+Asawaka	Augie	Kebbi	12.871	4.652	2	
+Asasi	Abeokuta North	Ogun	7.185	3.273	2	
+Asarope	Asa	Kwara	8.250	4.483	2	
+Asarogun	Ife North	Osun	7.445	4.472	2	
+Asare	Wamako	Sokoto	13.049	5.136	2	Asara
+Asarara Kaura	Kebbe	Sokoto	12.128	4.695	2	
+Asarara	Birnin Kebbi	Kebbi	12.533	4.383	2	
+Asarara	Gummi	Zamfara	12.099	4.914	2	
+Asarama	Opobo/Nkoro	Rivers	4.562	7.456	2	
+Samana	Andoni	Rivers	4.565	7.372	2	Asarama
+Asara	Gwadabawa	Sokoto	13.441	5.279	2	Asura
+Asape	Shiroro	Niger	10.283	7.000	2	
+Asa-Olowo	Ewekoro	Ogun	6.921	3.079	2	
+Asa Obinti	Ewekoro	Ogun	6.917	3.083	2	
+Asanyi-Kubegi	Agaie	Niger	9.123	6.353	2	Chata|Kubegi
+Asanting	Ini	Akwa Ibom	5.334	7.753	2	
+Asantin	Ikono	Akwa Ibom	5.289	7.693	2	
+Asantan	Ondo East	Ondo	6.989	4.968	2	
+Asanmimi	Atiba	Oyo	8.090	3.892	2	
+Asanle	Obafemi Owode	Ogun	6.900	3.517	2	
+Asani	Ori Ire	Oyo	7.996	4.096	2	
+Asani	Akinyele	Oyo	7.549	3.852	2	
+Asangbomole	Surulere	Oyo	8.020	4.347	2	
+Asanga	Oruk Anam	Akwa Ibom	4.893	7.726	2	
+Asang	Odukpani	Cross River	5.284	7.943	2	
+Asang	Nsit Ibom	Akwa Ibom	4.933	7.876	2	
+Asande	Konshisha	Benue	7.024	8.558	2	
+Asan	Konshisha	Benue	7.396	8.611	2	
+Asan	Konshisha	Benue	7.327	8.609	2	
+Asamakaha	Markurdi	Benue	7.813	8.515	2	
+Samagidi	Ethiope East	Delta	5.707	5.997	2	Asamagidi
+Asalu	Afijio	Oyo	7.808	4.019	2	
+Asale-Apata	Egbeda	Oyo	7.400	4.049	2	Asale Apata
+Asako	Ibarapa East	Oyo	7.615	3.492	2	
+Asaka	Ibarapa Central	Oyo	7.497	3.313	2	
+Asaju	Atisbo	Oyo	8.337	3.457	2	
+Asaju	Atisbo	Oyo	8.310	3.428	2	
+Asaju	Afijio	Oyo	7.675	3.825	2	
+Asagh	Konshisha	Benue	7.019	8.871	2	
+Asagbene	Ekeremor	Bayelsa	4.880	5.732	2	
+Asagar	Mobbar	Borno	13.305	12.710	2	
+Asaga-Amangwu	Edda	Ebonyi	5.836	7.874	2	
+Asaga	Ohafia	Abia	5.622	7.860	2	
+Asafa	Yewa South	Ogun	6.799	2.931	2	Asafo|Asafu
+Asa Egba	Ewekoro	Ogun	6.950	3.083	2	
+Asaba-Assay	Isoko South	Delta	5.294	6.293	2	Asaba-Ase
+Asa-Awure	Olorunsogo	Oyo	8.867	4.218	2	Asa Awure
+Asa	Mashegu	Niger	10.200	5.493	2	
+Asa	Mashegu	Niger	10.002	5.586	2	
+Asa	Ola Oluwa	Osun	7.789	4.229	2	Asha
+Asa	Ohaji/Egbema	Imo	5.383	6.776	2	
+Asa	Ughelli South	Delta	5.209	5.989	2	
+Asa	Ukwa West	Abia	4.942	7.260	2	
+Ajagase	Ola Oluwa	Osun	7.828	4.210	2	Ajaga-Ase
+Ashegogo	Lafia	Nasarawa	8.590	8.846	2	Achigogo
+Asipa	Alimosho	Lagos	6.583	3.255	2	
+Aso	Karu	Nasarawa	9.049	7.608	2	
+Aso	Municipal Area Council	FCT Abuja	9.042	7.523	2	
+Ashata	Municipal Area Council	FCT Abuja	8.902	7.568	2	
+Asawo	Afijio	Oyo	7.726	3.852	2	
+Asipa	Afijio	Oyo	7.725	3.990	2	
+Asanla	Akinyele	Oyo	7.645	3.947	2	
+Asipa	Ido	Oyo	7.613	3.789	2	
+Asafia	Akuku Toru	Rivers	4.745	6.717	2	
+Asepe-Musin	Badagry	Lagos	6.462	3.026	2	
+Asehan	Obafemi Owode	Ogun	6.992	3.579	2	
+Asorogun	Idanre	Ondo	7.071	5.327	2	
+Alesha-Ashamo	Ọ̀wọ̀	Ondo	7.133	5.542	2	
+Asaba-Odo	Ọ̀wọ̀	Ondo	7.161	5.492	2	
+Asolo	Ise/Orun	Ekiti	7.310	5.379	2	
+Oko-Aso	Ikere	Ekiti	7.473	5.293	2	
+Odo-Asa	Adó-Èkìtì	Ekiti	7.570	5.266	2	
+Igbo-Aso	Ekiti South-West	Ekiti	7.581	5.170	2	
+Ase	Akoko North West	Ondo	7.601	5.885	2	
+Asenya	Song	Adamawa	10.001	12.296	2	
+Sangwa Bulama Asuku	Shani	Borno	10.327	12.210	2	
+Asa	Oturkpo	Benue	7.158	8.150	2	
+Asen	Ushongo	Benue	7.177	8.953	2	
+Asema	Gboko	Benue	7.253	8.867	2	
+Asaka	Gwer West	Benue	7.708	8.134	2	
+Asuir	Markurdi	Benue	7.741	8.498	2	
+Asuk Arim	Akamkpa	Cross River	5.107	8.465	2	
+Asakaya	Biase	Cross River	5.402	8.128	2	
+Asaba	Ogoja	Cross River	6.565	8.888	2	
+Ikot Asuquo Afon Anye	Akpabuyo	Cross River	4.926	8.505	2	
+Asana Ikang	Mbo	Akwa Ibom	4.708	8.271	2	
+Asaboro	Ikpoba-Okha	Edo	6.061	5.724	2	
+Asiata	Ese Odo	Ondo	6.260	4.889	2	
+Asayaya	Garki	Jigawa	12.417	8.850	2	
+Asayaya	Gezawa	Kano	12.061	8.815	2	
+Asayaya	Ajingi	Kano	12.042	8.974	2	
+Magajin Aska	Malumfashi	Katsina	11.714	7.450	2	
+Doka Ashafa	Dandume	Katsina	11.459	7.153	2	
+Tunga Asarara	Bagudo	Kebbi	11.112	4.071	2	
+Asoro	Ethiope East	Delta	5.706	5.888	2	
+Asubi	Okpe	Delta	5.595	5.828	2	
+Asarara	Aleiro	Kebbi	12.293	4.543	2	
+Asakagbene	Ekeremor	Bayelsa	4.983	5.663	2	
+Asorbelema	Degema	Rivers	4.670	7.006	2	
+Asuk-Ama	Andoni	Rivers	4.475	7.479	2	
+Asuk-Oyet	Andoni	Rivers	4.475	7.478	2	
+Asaga	Arochukwu	Abia	5.400	7.874	2	
+Asuk-Ekpo	Ibiono Ibom	Akwa Ibom	5.356	7.873	2	
+Ikot-Udo Asan	Ini	Akwa Ibom	5.324	7.716	2	
+Asana	Ikwuano	Abia	5.311	7.541	2	
+Ikot Obio Asa	Ibiono Ibom	Akwa Ibom	5.210	7.874	2	
+Assa	Orsu	Imo	5.854	6.994	2	
+Asafo	Ndokwa East	Delta	5.368	6.342	2	
+Aseazaga	Ogbaru	Anambra	5.846	6.667	2	
+Asikpai	Ndokwa East	Delta	5.778	6.508	2	
+Ase	Ogba/Egbema/Ndoni	Rivers	5.543	6.624	2	
+Aseimonte	Ogba/Egbema/Ndoni	Rivers	5.515	6.628	2	
+Asabase	Isoko South	Delta	5.238	6.248	2	
+Asa	Ughelli South	Delta	5.193	6.023	2	
+Asa	Asa	Kwara	8.430	4.426	2	
+Askira-Uba	Askira-Uba	Borno	10.636	12.878	2	Askira/Uba|Askira/Uba Local Government Area
+Bula Gayemaye	Bama	Borno	11.427	13.867	2	Asambye
+Asenti	Monguno	Borno	12.594	13.683	2	
+Asika	Ogoja	Cross River	6.432	8.644	2	
+Ase	Gwer East	Benue	7.352	8.303	2	
+Asua	Gwer East	Benue	7.321	8.348	2	
+Ashiwe	Gwer East	Benue	7.266	8.260	2	
+Asev	Gwer East	Benue	7.247	8.394	2	
+Asheikri 1	Geidam	Yobe	12.942	11.940	2	
+Asheikri 2	Geidam	Yobe	12.886	11.954	2	
+Asso	Jema'A	Kaduna	9.352	8.164	2	
+Asagba	Doma	Nasarawa	7.933	8.298	2	
+Asagh	Markurdi	Benue	7.669	8.439	2	
+Tse-Asinbe	Markurdi	Benue	7.637	8.458	2	
+Ashaver	Logo	Benue	7.783	9.084	2	
+Ashange	Guma	Benue	7.658	9.004	2	
+Asha	Buruku	Benue	7.515	9.108	2	
+Asanma	Logo	Benue	7.705	9.281	2	
+Asom	Logo	Benue	7.554	9.377	2	
+Ashiyan	Ukum	Benue	7.727	9.459	2	
+Tse Ashiker	Ukum	Benue	7.665	9.518	2	
+Asen	Ukum	Benue	7.523	9.528	2	
+Asawa	Ukum	Benue	7.519	9.599	2	
+Ashin	Ukum	Benue	7.703	9.657	2	
+Asenge	Ukum	Benue	7.579	9.677	2	
+Genyi	Donga	Taraba	7.700	9.892	2	Asom
+Asaa	Buruku	Benue	7.497	9.124	2	
+Ashinya	Gboko	Benue	7.426	9.100	2	
+Asaa	Buruku	Benue	7.412	9.179	2	
+Asav	Buruku	Benue	7.396	9.144	2	
+Asom	Gboko	Benue	7.307	9.132	2	
+Asaachiar	Buruku	Benue	7.278	9.232	2	
+Asuwa	Buruku	Benue	7.261	9.242	2	
+Ashwe	Buruku	Benue	7.252	9.203	2	
+Ashe	Buruku	Benue	7.311	9.264	2	
+Asoor	Katsina-Ala	Benue	7.409	9.332	2	
+Ashwe	Buruku	Benue	7.292	9.276	2	
+Ashwa	Katsina-Ala	Benue	7.455	9.393	2	
+Asamber	Gboko	Benue	7.221	9.031	2	
+Asom	Ushongo	Benue	7.186	9.022	2	
+Ashika	Ushongo	Benue	7.067	9.068	2	
+Asua	Vandeikya	Benue	7.027	9.035	2	
+Ashav	Vandeikya	Benue	7.030	9.091	2	
+Asoasu	Ushongo	Benue	7.056	9.091	2	
+Ashamina	Buruku	Benue	7.246	9.227	2	
+Asember	Buruku	Benue	7.225	9.233	2	
+Ashir	Buruku	Benue	7.145	9.212	2	
+Asawa	Ushongo	Benue	7.039	9.242	2	
+Asuda	Ushongo	Benue	7.103	9.288	2	
+Tse-Ashwa	Gboko	Benue	7.464	8.831	2	
+Asuwe	Gboko	Benue	7.491	8.941	2	
+Asaagwa	Gboko	Benue	7.466	8.948	2	
+Asom	Gboko	Benue	7.431	8.847	2	
+Asaatyo	Gboko	Benue	7.415	8.822	2	
+Asenda	Gboko	Benue	7.422	8.756	2	
+Asema	Gboko	Benue	7.381	8.914	2	
+Asase	Gboko	Benue	7.397	8.929	2	
+Asango	Gboko	Benue	7.359	8.969	2	
+Asongu	Gboko	Benue	7.348	8.836	2	
+Asor	Gboko	Benue	7.337	8.786	2	
+Asongbe	Gboko	Benue	7.306	8.818	2	
+Ashika	Gboko	Benue	7.315	8.845	2	
+Asator	Gboko	Benue	7.320	8.951	2	
+Asongo	Gboko	Benue	7.304	8.965	2	
+Asatse	Gboko	Benue	7.277	8.957	2	
+Asongu	Gboko	Benue	7.293	8.978	2	
+Ashwe	Gboko	Benue	7.251	8.809	2	
+Asor	Ushongo	Benue	7.051	9.018	2	
+Ashe	Takum	Taraba	7.283	10.036	2	
+Asakai	Zaki	Bauchi	12.205	10.276	2	
+Garin Askarami	Karasuwa	Yobe	13.096	10.895	2	
+Garin Ashiyami	Yusufari	Yobe	13.018	11.058	2	
+Sabon Asanyi	Agaie	Niger	9.119	6.387	2	
+Ashama Ubulunok	Aniocha South	Delta	6.114	6.423	2	
+Papa-Ashafa	Agege	Lagos	6.617	3.322	2	
+Papa Ashafa	Agege	Lagos	6.617	3.309	2	
+Asaba	Uzo-Uwani	Enugu	6.725	6.983	2	
+Ashal	Karu	Nasarawa	9.281	7.892	2	
+Gidan Ashe	Karu	Nasarawa	9.111	7.920	2	
+Ashin	Jalingo	Taraba	8.829	11.397	2	
+Ma Ashonpa	Bali	Taraba	8.582	11.423	2	
+Asakye	Shendam	Plateau	8.823	9.688	2	
+Asawa	Donga	Taraba	7.538	10.107	2	
+Asonkwai	Zangon Kataf	Kaduna	9.683	8.198	2	
+Askonu	Warri South-West	Delta	5.626	5.293	2	
+Ashira Mabba	Demsa	Adamawa	9.291	12.145	2	
+Ungwar Ashen	Karim Lamido	Taraba	9.321	11.206	2	
+Asowole	Abeokuta North	Ogun	7.348	3.041	2	
+Asalu	Abeokuta North	Ogun	7.179	3.225	2	
+Iiugun-Asalu	Abeokuta North	Ogun	7.171	3.273	2	
+Asipa-Ijemo	Obafemi Owode	Ogun	7.090	3.342	2	
+Asode	Obafemi Owode	Ogun	7.034	3.425	2	
+Asode	Obafemi Owode	Ogun	7.080	3.403	2	
+Asalu	Odeda	Ogun	7.174	3.497	2	
+Asade	Odeda	Ogun	7.222	3.404	2	
+Asanike	Ona Ara	Oyo	7.274	4.008	2	
+Asanwo	Oluyole	Oyo	7.170	4.012	2	
+Asejire	Isokan	Osun	7.356	4.127	2	
+Asala	Egbeda	Oyo	7.382	4.130	2	
+Asi	Irewole	Osun	7.417	4.158	2	
+Asewele	Isokan	Osun	7.308	4.174	2	
+Asunnara-Oke	Isokan	Osun	7.252	4.159	2	
+Aseyin	Irewole	Osun	7.429	4.230	2	
+Asalu	Isokan	Osun	7.305	4.210	2	
+Asalu	Isokan	Osun	7.294	4.212	2	
+Asalu-Agbede	Isokan	Osun	7.292	4.217	2	
+Asa	Ife North	Osun	7.486	4.445	2	
+Asaju	Ife North	Osun	7.420	4.481	2	
+Asalu	Ife North	Osun	7.424	4.443	2	
+Asamu	Ife North	Osun	7.411	4.455	2	
+Asade-Ifon	Irepodun	Osun	7.928	4.523	2	
+Asangbe	Irepodun	Osun	7.882	4.534	2	
+Asipa	Olorunda	Osun	7.875	4.568	2	
+Asegbo	Atakunmosa West	Osun	7.557	4.642	2	
+Asawo	Atakunmosa West	Osun	7.629	4.577	2	
+Aba-Asalu	Atakunmosa West	Osun	7.632	4.568	2	
+Asaobi	Atakunmosa West	Osun	7.626	4.600	2	
+Asunnara	Atakunmosa West	Osun	7.639	4.557	2	
+Asipa	Atakunmosa West	Osun	7.662	4.587	2	
+Oko-Asa	Atakunmosa West	Osun	7.624	4.649	2	
+Abule Ashake	Obokun	Osun	7.726	4.662	2	
+Asolo	Obokun	Osun	7.749	4.778	2	
+Ashejire	Imeko Afon	Ogun	7.416	2.968	2	
+Asipakesan	Imeko Afon	Ogun	7.411	2.998	2	
+Asere-Oke	Imeko Afon	Ogun	7.451	2.908	2	
+Asere-Odo	Imeko Afon	Ogun	7.454	2.900	2	
+Asanpo	Yewa North	Ogun	7.343	2.763	2	
+Ashipa	Ipokia	Ogun	6.747	2.826	2	
+Ago-Asharun	Ese Odo	Ondo	6.446	4.893	2	
+Asere	Ese Odo	Ondo	6.119	4.979	2	
+Asere-Bubogho	Ese Odo	Ondo	6.119	4.974	2	
+Asumogha	Ilaje	Ondo	6.068	4.819	2	
+Ashiri	Keana	Nasarawa	8.224	8.632	2	
+Asawure	Ife South	Osun	7.236	4.673	2	
+Asio	Ondo East	Ondo	7.171	4.863	2	
+Asokin	Ile Oluji/Okeigbo	Ondo	7.266	4.917	2	
+Asipa	Ori Ire	Oyo	8.490	4.133	2	
+Asanyi	Ori Ire	Oyo	8.236	4.136	2	
+Asiwokeu	Ori Ire	Oyo	8.393	4.210	2	
+Asipa	Surulere	Oyo	8.139	4.382	2	
+Asogboni	Obafemi Owode	Ogun	7.044	3.638	2	
+Asore	Obafemi Owode	Ogun	7.117	3.612	2	
+Asiwaju	Ido	Oyo	7.451	3.732	2	
+Asa	Ido	Oyo	7.420	3.735	2	
+Asami-Obi	Oluyole	Oyo	7.085	3.889	2	
+Moloko-Asipa	Obafemi Owode	Ogun	7.003	3.541	2	
+Asuru	Baruten	Kwara	9.367	3.166	2	
+Asegbe	Moro	Kwara	8.840	4.492	2	
+Asimu	Moro	Kwara	8.789	4.491	2	
+Asogba	Moro	Kwara	8.807	4.296	2	
+Asogba	Asa	Kwara	8.664	4.353	2	
+Asi-Alaro	Asa	Kwara	8.630	4.322	2	
+Asunoro	Asa	Kwara	8.569	4.452	2	
+Asapo	Asa	Kwara	8.600	4.396	2	
+Asure-Ola	Asa	Kwara	8.616	4.278	2	
+Asanre	Ori Ire	Oyo	8.607	4.126	2	
+Asipa	Ibarapa North	Oyo	7.581	3.115	2	
+Asa-Olu	Ibarapa North	Oyo	7.535	3.073	2	
+Asaju	Ibarapa North	Oyo	7.553	3.071	2	
+Asanlu	Ifedayo	Osun	8.021	5.013	2	
+Asomoku	Lafia	Nasarawa	8.618	8.944	2	
+Ashangwa	Lafia	Nasarawa	8.568	8.784	2	
+Ashaba	Lafia	Nasarawa	8.663	8.653	2	
+Asa-Oye	Oyun	Kwara	8.112	4.625	2	
+Asapate	Oyun	Kwara	8.078	4.679	2	
+Aseke	Oyo West	Oyo	7.919	3.826	2	
+Asegi	Oyo West	Oyo	7.879	3.821	2	
+Ashorogun	Moro	Kwara	9.030	4.873	2	
+Asia	Atiba	Oyo	7.962	4.044	2	
+Bale-Asun	Asa	Kwara	8.365	4.523	2	
+Asufa	Ilorin South	Kwara	8.432	4.651	2	
+Asufa	Ilorin South	Kwara	8.446	4.650	2	
+Ashere	Toto	Nasarawa	8.373	7.032	2	
+Ashinga	Toto	Nasarawa	8.410	7.083	2	
+Ashikwe	Kurmi	Taraba	6.998	10.748	2	
+Gidan-Aso	Karu	Nasarawa	8.742	7.660	2	
+Asuku	Kokona	Nasarawa	8.700	8.232	2	
+Kasuwa-Asabar	Nasarawa Egon	Nasarawa	8.571	8.260	2	
+Asani	Akinyele	Oyo	7.592	4.017	2	
+Asipade	Ede South	Osun	7.662	4.402	2	
+Asunmara	Ede South	Osun	7.621	4.461	2	
+Asalu	Aiyedire	Osun	7.527	4.215	2	
+Asunmoge	Afijio	Oyo	7.712	4.030	2	
+Asipa	Obafemi Owode	Ogun	7.026	3.462	2	
+Bode-Ase	Ipokia	Ogun	6.561	2.757	2	
+Asa	Olorunsogo	Oyo	8.871	4.228	2	
+Asa	Moro	Kwara	8.773	4.230	2	
+Asipa	Atiba	Oyo	7.913	3.947	2	
+Asipa	Oyun	Kwara	8.123	4.590	2	Labisi
+Asipa	Afijio	Oyo	7.761	4.008	2	
+Asipa	Iwo	Osun	7.643	4.139	2	
+Asipa	Iwo	Osun	7.648	4.099	2	
 Ashipa Street	Agege	Lagos	6.628	3.313	1	
-Administrative Staff College Of Nigeria	Badagry	Lagos	6.413	2.940	0	ASCON
 Association Road	Eti Osa	Lagos	6.458	3.418	1	
 Assbifi Road	Ikeja	Lagos	6.618	3.356	1	
 Asanke Street	Ibadan South East	Oyo	7.367	3.908	1	
@@ -194,7 +608,6 @@ Asemota Street	Oredo	Edo	6.325	5.613	1
 Asologun Street	Ikpoba-Okha	Edo	6.308	5.635	1	
 Asemota Street	Oredo	Edo	6.293	5.599	1	
 Asemota Street	Egor	Edo	6.371	5.637	1	
-Success Assurance Group of School	Oredo	Edo	6.332	5.618	0	
 Ashogbon Street	Lagos Island	Lagos	6.463	3.389	1	
 Assoland Street	Oshodi/Isolo	Lagos	6.570	3.335	1	
 Ashimowu Bakare Street	Surulere	Lagos	6.509	3.338	1	
@@ -207,12 +620,10 @@ Association Close	Kosofe	Lagos	6.576	3.396	1
 Ashafa Tijani Street	Kosofe	Lagos	6.562	3.394	1	
 House of Assembly	Ikeja	Lagos	6.617	3.362	1	
 Ashabi Cole Street	Ikeja	Lagos	6.620	3.356	1	
-Ashabi Cole Street	Ikeja	Lagos	6.621	3.355	1	
 Babington Ashaye Crescent	Ikeja	Lagos	6.638	3.357	1	
 Ashogbon Street	Ikeja	Lagos	6.609	3.343	1	
 Ashorobi Street	Ifako/Ijaye	Lagos	6.636	3.330	1	
 Asenuga Street	Ikeja	Lagos	6.593	3.361	1	
-Ashiata street	Agege	Lagos	6.612	3.325	1	
 Ashiata street	Agege	Lagos	6.612	3.325	1	
 Ashanti Road	Apapa	Lagos	6.441	3.368	1	
 Aso Street	Eti Osa	Lagos	6.458	3.441	1	
@@ -227,7 +638,6 @@ ASCL Bump	Ajaokuta	Kogi	7.538	6.678	1
 Asa Street	Municipal Area Council	FCT Abuja	9.076	7.499	1	
 Asibor street	Egor	Edo	6.354	5.578	1	
 Asa Dam Road	Ilorin West	Kwara	8.458	4.529	1	
-Asa Dam Road	Ilorin West	Kwara	8.454	4.534	1	
 Omupo - Amodu Asungbolu Road	Ifelodun	Kwara	8.284	4.768	1	
 Asoluka Street	Mushin	Lagos	6.513	3.345	1	
 Asma'u Link	Nassarawa	Kano	11.991	8.571	1	
@@ -256,8 +666,6 @@ Asaba Lane	Enugu North	Enugu	6.447	7.501	1
 Asuoha Lane	Enugu East	Enugu	6.472	7.594	1	
 Onu Asata Street	Enugu North	Enugu	6.442	7.503	1	
 Ascension Road	Enugu South	Enugu	6.420	7.535	1	
-Ascension Road	Enugu South	Enugu	6.425	7.530	1	
-Asata	Enugu North	Enugu	6.439	7.499	2	
 Asadu Street	Enugu East	Enugu	6.471	7.534	1	
 Asuke Drive	Enugu East	Enugu	6.506	7.510	1	
 Barr.Asigwa Street	Enugu East	Enugu	6.515	7.516	1	
@@ -279,10 +687,8 @@ Asa Estate	Kosofe	Lagos	6.559	3.387	1
 Asalu Close	Oshodi/Isolo	Lagos	6.548	3.320	1	
 Asunny Adewole Street	Alimosho	Lagos	6.570	3.299	1	
 Association Avenue	Kosofe	Lagos	6.617	3.374	1	
-Osun State Hospital Management, Asubiaro	Osogbo	Osun	7.763	4.543	0	
 Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.376	11.166	1	
 Emma Asodike Street	Owerri Municipal	Imo	5.486	7.016	1	
-Migration Health Assessment Center - Abuja	Municipal Area Council	FCT Abuja	9.086	7.472	0	
 Ashimolowo Street	Ado Odo/Ota	Ogun	6.685	3.252	1	
 Asama Street	Ojo	Lagos	6.460	3.171	1	
 Assembly Road	Ifako/Ijaye	Lagos	6.641	3.320	1	
@@ -300,41 +706,84 @@ Asunara Street	Alimosho	Lagos	6.667	3.251	1
 Aswani Road	Oshodi/Isolo	Lagos	6.540	3.334	1	
 Aswani Mechanic Village	Oshodi/Isolo	Lagos	6.541	3.329	1	
 Assoland Crescent	Ìkòròdú	Lagos	6.682	3.494	1	
-Ase Lights	Akure North	Ondo	7.282	5.215	0	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.340	11.146	1	
 Asawale street	Akinyele	Oyo	7.482	3.905	1	
 Gbenga Ashafa Road	Eti Osa	Lagos	6.459	3.447	1	
-Asa Afariogun Street	Oshodi/Isolo	Lagos	6.546	3.325	1	
 Nosiru Asa Street	Oshodi/Isolo	Lagos	6.545	3.323	1	
 Asejire Close	Eti Osa	Lagos	6.465	3.423	1	
 Ibode Aseyori Crescent	Akure South	Ondo	7.248	5.168	1	
 Benson Asore Close	Uvwie	Delta	5.561	5.779	1	
 Asoleso Street	Ondo West	Ondo	7.100	4.817	1	
 Onitsha-Asaba Road	Oshimili South	Delta	6.200	6.696	1	
-ASEMOTA STREET	Oredo	Edo	6.287	5.564	1	GBELE GBELE STREET
+Asemota Street	Oredo	Edo	6.287	5.564	1	GBELE GBELE STREET
 Odeh Street	Oredo	Edo	6.290	5.568	1	Asemota Street
 Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.390	11.175	1	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.388	11.174	1	
-Asanke Street	Ibadan South East	Oyo	7.370	3.901	1	
 Ashonibare Danaja Street	Eti Osa	Lagos	6.429	3.589	1	
 House of Assembly road	Uyo	Akwa Ibom	5.006	7.934	1	
 Asuquo Ibanga Street	Uyo	Akwa Ibom	5.030	7.977	1	
-Home Science Association Nursery & Primary School Ikoyi	Eti Osa	Lagos	6.451	3.446	0	
 Asukwo Ekpo Street	Calabar South	Cross River	4.943	8.333	1	
-Bodija-Ashi Road	Ibadan North	Oyo	7.432	3.921	1	
 Asaba Crescent	Municipal Area Council	FCT Abuja	9.105	7.404	1	
 Asaba Crescent	Municipal Area Council	FCT Abuja	9.107	7.404	1	
 Asajon Way	Eti Osa	Lagos	6.474	3.631	1	
 AS Badeh Street	Municipal Area Council	FCT Abuja	9.047	7.554	1	
-AS Badeh Street	Municipal Area Council	FCT Abuja	9.049	7.555	1	
 Asses Avenue	Kosofe	Lagos	6.544	3.401	1	
 Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.475	11.294	1	
 Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.488	11.310	1	
-Ascon Fuel Station	Eti Osa	Lagos	6.447	3.462	0	
 Edith Asekun Close	Eti Osa	Lagos	6.446	3.469	1	
 Omupo - Amodu Asungbolu Road	Ifelodun	Kwara	8.278	4.791	1	
 ASCL Bump	Ajaokuta	Kogi	7.538	6.673	1	
 Asiugwuru Street	Warri South	Delta	5.528	5.755	1	
+Association Avenue	Mushin	Lagos	6.548	3.362	1	
+Asusu Street	Umuahia North	Abia	5.634	7.432	1	
+ogwashi Asaba	Aniocha South	Delta	6.239	6.593	1	
+Onitsha-Asaba Road	Oshimili South	Delta	6.194	6.715	1	
+Onitsha-Asaba Road	Oshimili South	Delta	6.175	6.746	1	
+Association Road	Ifo	Ogun	6.681	3.434	1	
+Asoro Street	Ovia North-East	Edo	6.411	5.547	1	
+Nelson Okuoimose Avenue	Eti Osa	Lagos	6.477	3.629	1	Asajon Way
+ASCL Staff Comprehensive Secondary School III	Ajaokuta	Kogi	7.553	6.630	0	
+ASCL Staff Comprehensive Secondary School II	Ajaokuta	Kogi	7.554	6.645	0	
+ASCo Camp Market	Ajaokuta	Kogi	7.540	6.678	0	
+ASCL Staff Secondary School I	Ajaokuta	Kogi	7.550	6.600	0	
+Ascon Filling Station	Ikpoba-Okha	Edo	6.330	5.635	0	
+Asoro Primary School	Oredo	Edo	6.331	5.626	0	
+Asemota Shopping Plaza	Oredo	Edo	6.335	5.619	0	
+Total Asokoro	Municipal Area Council	FCT Abuja	9.051	7.507	0	
+Ascl Primary School Ii	Ajaokuta	Kogi	7.559	6.637	0	
+Ascon Filling Station	Uvwie	Delta	5.565	5.758	0	
+Aso Treasures Standard High School	Yenegoa	Bayelsa	4.930	6.307	0	
+Ascension Intl. School	Uvwie	Delta	5.556	5.775	0	
+Asolyn Filling Station	Uvwie	Delta	5.541	5.754	0	
+Asolo	Ìkòròdú	Lagos	6.657	3.476	0	
+Asana Tatonmi Market	Ile Oluji/Okeigbo	Ondo	7.121	4.742	0	
+Asanta Oja Market	Ondo East	Ondo	6.989	4.957	0	
+PHC Assada	Sokoto North	Sokoto	13.066	5.239	0	
+Ashigashiya Primary Health Centre	Gwoza	Borno	11.139	13.870	0	
+tito asibiti	Larmurde	Adamawa	9.554	11.731	0	
+Ashaka School	Funakaye	Gombe	10.920	11.482	0	
+St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ifo	Ogun	6.683	3.321	0	
+St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ado Odo/Ota	Ogun	6.583	3.024	0	
+As-salam Medical Centre, Office bus-stop Sasa	Akinyele	Oyo	7.486	3.914	0	
+Ashed Specialist Hospital	Jos North	Plateau	9.940	8.868	0	
+Asibitin Salisu	Jos North	Plateau	9.948	8.887	0	
+Asibitinyara Health Center	Kaduna South	Kaduna	10.505	7.411	0	
+Hajia Asama'u Ahmad Makarfi Health Center Barnawa	Kaduna South	Kaduna	10.481	7.430	0	
+Askolaye Primary Health Center	Kaduna South	Kaduna	10.533	7.402	0	
+National Assembly Lodge	Akure South	Ondo	7.291	5.145	0	
+Divine Assurance Abode	Akure South	Ondo	7.289	5.147	0	
+Blessed Assurance Maternity Home	Amuwo Odofin	Lagos	6.457	3.303	0	
+Asheco Hospital	Amuwo Odofin	Lagos	6.439	3.312	0	
+Assayyada Aisha College	Ungongo	Kano	12.035	8.565	0	
+Ashabul Kahfi Qadiriyya Riyadul Jannah	Gwale	Kano	11.960	8.476	0	
+Agaka Petroleum Asa Dam, Asa-Dam Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.459	4.532	0	
+Assumpta Roundabout	Owerri Municipal	Imo	5.489	7.020	0	
+Aso Junction Opposite Fota Church	Municipal Area Council	FCT Abuja	8.959	7.343	0	
+Administrative Staff College Of Nigeria	Badagry	Lagos	6.413	2.940	0	ASCON
+Success Assurance Group of School	Oredo	Edo	6.332	5.618	0	
+Osun State Hospital Management, Asubiaro	Osogbo	Osun	7.763	4.543	0	
+Migration Health Assessment Center - Abuja	Municipal Area Council	FCT Abuja	9.086	7.472	0	
+Ase Lights	Akure North	Ondo	7.282	5.215	0	
+Home Science Association Nursery & Primary School Ikoyi	Eti Osa	Lagos	6.451	3.446	0	
+Ascon Fuel Station	Eti Osa	Lagos	6.447	3.462	0	
 Ashgrove Academy	Ikwerre	Rivers	4.910	6.915	0	
 Ashade Market	Ikeja	Lagos	6.614	3.330	0	
 Ascon	Lagos Mainland	Lagos	6.488	3.381	0	
@@ -342,34 +791,11 @@ Ascon Oil	Eti Osa	Lagos	6.450	3.553	0
 German Leprosy & Tb Relief Association	Enugu South	Enugu	6.427	7.518	0	
 ASD Mall	Kaduna North	Kaduna	10.514	7.441	0	
 ashi health center ( basorun)	Ibadan North	Oyo	7.426	3.931	0	
-Association Avenue	Mushin	Lagos	6.548	3.362	1	
-Asusu Street	Umuahia North	Abia	5.634	7.432	1	
-Asa Dam Road	Ilorin West	Kwara	8.449	4.543	1	
 Asiwaju Bola Tinubu Station	Apapa	Lagos	6.452	3.369	0	
-ogwashi Asaba	Aniocha South	Delta	6.239	6.593	1	
 Assemblies of God School	Kosofe	Lagos	6.580	3.413	0	
 As-Salam Clinic & Maternity Home	Bauchi	Bauchi	10.357	9.861	0	
 Asokor District Hospital, ASOKORO	Municipal Area Council	FCT Abuja	9.047	7.524	0	
-Onitsha-Asaba Road	Oshimili South	Delta	6.194	6.715	1	
-Onitsha-Asaba Road	Oshimili South	Delta	6.175	6.746	1	
-Association Road	Ifo	Ogun	6.681	3.434	1	
 Asokoro District Hospital	Municipal Area Council	FCT Abuja	9.045	7.523	0	
 Asibitin Malan Barau	Muhammadu Dikko Stadium	Katsina	12.983	7.595	0	
-Asoro Street	Ovia North-East	Edo	6.411	5.547	1	
-Nelson Okuoimose Avenue	Eti Osa	Lagos	6.477	3.629	1	Asajon Way
 Asa Umuakwa Primary Health Center	Ugwunagbo	Abia	5.012	7.325	0	
 Asbitin Murtala, Wambai Kano	Kano Municipal	Kano	12.000	8.521	0	
-Asheikri 2	Geidam	Yobe	12.879	11.961	2	
-Asheikri 1	Geidam	Yobe	12.952	11.934	2	
-Askandu	Kaugama	Jigawa	12.400	9.845	2	
-Asara	Gwadabawa	Sokoto	13.468	5.287	2	
-Asso	Jema'A	Kaduna	9.340	8.174	2	
-Ibesikpo Asutan	Ibesikpo Asutan	Akwa Ibom	4.918	7.965	2	
-Asa	Asa	Kwara	8.413	4.442	2	
-Asari-Toru	Asari-Toru	Rivers	4.753	6.835	2	
-Askira East	Askira-Uba	Borno	10.630	12.963	2	
-Asaga	Mobbar	Borno	13.293	12.737	2	
-Askira-Uba	Askira-Uba	Borno	10.725	13.157	2	
-Hausawa Asibiti	Potiskum	Yobe	11.729	11.063	2	
-Asokoro	Municipal Area Council	FCT Abuja	9.042	7.522	2	
-Ashigashiya	Gwoza	Borno	11.142	13.848	2	

@@ -1,7 +1,10 @@
+Jimeta	Girei	Adamawa	9.278	12.453	3	
+Jibia	Jibia	Katsina	13.094	7.226	3	Djibia|Jibiya
 Lukosi	Ife East	Osun	7.367	4.583	2	Idu Jimoti;Lukosi
 Angwan Jikambara	Maru	Zamfara	11.389	6.517	2	
 Jiwawa	Wushishi	Niger	9.824	5.920	2	
 Jirgi Kumata	Yabo	Sokoto	12.884	5.054	2	
+Jubu	Gassol	Taraba	8.300	9.983	2	Jibu
 Gini	Munya	Niger	9.717	6.917	2	Jimi
 Jibe	Munya	Niger	9.983	7.083	2	Jigwe;Jigbe
 Falomo	Eti Osa	Lagos	6.450	3.433	2	Jinadu
@@ -39,14 +42,12 @@ Gidan Jilde	Kebbe	Sokoto	11.535	4.504	2
 Jigiri	Kebbe	Sokoto	12.154	4.825	2	Zigiri
 Jikwa	Sapele	Delta	5.950	5.633	2	Jikwa;Ojikwa
 Jigbodo	Gwagwalada	FCT Abuja	9.228	7.068	2	Jigodo
-Jimeta	Girei	Adamawa	9.278	12.453	3	
 Nadare Sarkin Yaki	Hong	Adamawa	10.163	13.107	2	Naddere Jire
 Nzimbaru	Biu	Borno	10.676	11.990	2	Jimbaru
 Jibhuhui	Hawul	Borno	10.610	12.489	2	Juhuhui
 Jikakuchi	Municipal Area Council	FCT Abuja	9.108	7.559	2	
 Jima	Edati	Niger	8.983	5.917	2	
 Tungan-Jibo	Suru	Kebbi	11.991	4.070	2	
-Jibia	Jibia	Katsina	13.095	7.224	2	Djibia;Jibiya
 Barikin Jirga Summa	Jos North	Plateau	9.866	8.898	2	
 Lawanga Jiri	Abadam	Borno	13.616	13.286	2	
 Jikai	Babura	Jigawa	12.611	8.678	2	
@@ -76,6 +77,7 @@ Abule Jiga	Yewa South	Ogun	6.797	2.969	2
 Jidawa	Dutse	Jigawa	11.744	9.188	2	
 Jingin	Tudun Wada	Kano	11.321	8.686	2	
 Jigape	Gwagwalada	FCT Abuja	9.088	7.115	2	Jigapa
+Jilehi	Lau	Taraba	9.233	11.519	2	
 Jikpmegi	Agaie	Niger	9.078	6.362	2	
 Jie	Dikwa	Borno	11.967	14.055	2	
 Goni Yanari	Nganzai	Borno	12.623	13.275	2	Jigalta
@@ -84,8 +86,6 @@ Jigo	Gudu	Sokoto	13.505	4.748	2
 Ungwan Jikan Mama	Makarfi	Kaduna	11.221	7.854	2	
 Tungan Jigo	Illela	Sokoto	13.520	5.412	2	Tunga Jigo
 Magaji Jirgi	Tsafe	Zamfara	11.854	7.101	2	
-Jinie Schools	Kaduna South	Kaduna	10.472	7.430	0	
-Jinjimawa Health Post	Bichi	Kano	12.331	8.274	0	
 Jigawa	Ajingi	Kano	12.013	9.027	2	
 Kafi Jirgi Magiji Masallaci Yamma	Gaya	Kano	11.746	9.140	2	
 Jikan Bawa	Doguwa	Kano	10.649	8.680	2	
@@ -121,10 +121,8 @@ Jimeta	Kwaya Kusar	Borno	10.551	11.946	2
 Malam Ali Jimeta	Kwaya Kusar	Borno	10.548	11.949	2	
 Bantam Wakil Jibir	Kwaya Kusar	Borno	10.517	11.983	2	
 Dalbo Jibrin	Mafa	Borno	11.778	13.779	2	
-Jilbe Dispensary	Kala-Balge	Borno	11.917	14.636	0	
 Jimbam Nomadic	Bayo	Borno	10.663	11.792	2	
 Jimbam	Bayo	Borno	10.663	11.790	2	
-Jiddari Primary Health Centre	Jere	Borno	11.795	13.146	0	
 Ardo Jidda	Chibok	Borno	10.822	12.821	2	
 Jiyeram	Monguno	Borno	12.638	13.501	2	
 Jiwari	Monguno	Borno	12.469	13.725	2	
@@ -134,9 +132,7 @@ Karna Jidiyari	Guzamala	Borno	13.082	13.026	2
 Abba Jille	Konduga	Borno	11.595	13.008	2	
 Bararrarahe Jindilu	Tangaza	Sokoto	13.350	5.090	2	
 Jiko	Munya	Niger	9.914	7.278	2	
-Jilalu Market	Akure South	Ondo	7.249	5.160	0	
 Kurmin Jibrin	Kagarko	Kaduna	9.470	7.936	2	
-JIDADU VENTURES LTD	Akko	Gombe	10.269	11.117	0	
 Jirgwai	Madobi	Kano	11.739	8.358	2	
 Jigawar Satame	Makoda	Kano	12.316	8.564	2	
 Jirgabawa Unguwar Transformer	Minjibir	Kano	12.200	8.545	2	
@@ -152,14 +148,311 @@ Unguwar Jibi	Warawa	Kano	11.928	8.771	2
 Jijiyawa Kwari	Warawa	Kano	11.935	8.789	2	
 Jiralo Cikin Gari	Albasu	Kano	11.574	9.279	2	
 Jigawa	Takai	Kano	11.424	9.215	2	
-MCH Jikpan	Chanchaga	Niger	9.651	6.525	0	
 jidda	Kubau	Kaduna	10.688	8.363	2	
-Jim-Ris Filling Station	Iwo	Osun	7.653	4.207	0	
-JIGATES DIGITAL SCHOOL	Alimosho	Lagos	6.530	3.236	0	
 Jimba-Oja, Nigeria	Ifelodun	Kwara	8.394	4.682	2	
-Jifatu	Bauchi	Bauchi	10.319	9.821	0	
-Jiggy Barbers	Municipal Area Council	FCT Abuja	9.120	7.393	0	
-Jikwoyi Phase 2 Cele Bus Stop	Municipal Area Council	FCT Abuja	8.979	7.561	0	
+Jirima	Garki	Jigawa	12.359	8.904	2	
+Jigawa	Babura	Jigawa	12.652	8.988	2	
+Unguwar Jibrin	Kaugama	Jigawa	12.410	9.652	2	
+Jijima	Yauri	Kebbi	10.682	4.727	2	
+Jiga Birni	Aleiro	Kebbi	12.310	4.521	2	
+Kurmin Jibrin	Kagarko	Kaduna	9.429	7.945	2	
+Jigawar Tsada	Dutse	Jigawa	11.679	9.296	2	
+Jita	Tudun Wada	Kano	11.204	8.496	2	
+Jibga	Makoda	Kano	12.518	8.506	2	
+Jigawa	Warawa	Kano	11.895	8.845	2	
+Jili	Rimin Gado	Kano	11.911	8.282	2	
+Jibia A	Jibia	Katsina	13.079	7.230	2	
+Gana Jigawa	Mashi	Katsina	13.053	7.951	2	
+Jibia B	Jibia	Katsina	13.089	7.244	2	
+Jiba	Danja	Katsina	11.456	7.420	2	
+Jino	Batagarawa	Katsina	12.929	7.551	2	
+Jibia	Jibia	Katsina	12.983	7.468	2	
+Jikamshi	Musawa	Katsina	12.175	7.763	2	
+Jibawa	Bindawa	Katsina	12.722	7.843	2	
+Jigalta	Nganzai	Borno	12.610	13.296	2	
+Jilbe	Kala-Balge	Borno	11.863	14.585	2	
+Zigiri	Kebbe	Sokoto	12.154	4.826	2	Jigiri
+Yerima Jira	Bali	Taraba	8.320	11.032	2	
+Wuro Malum Jibru	Biu	Borno	10.827	12.123	2	
+Wuro Jijiwa	Fufore	Adamawa	9.616	12.942	2	
+Ungwan Mallam Jibirin	Soba	Kaduna	11.150	7.967	2	
+Ungua Jiburu	Kaugama	Jigawa	12.410	9.689	2	
+Tungan Maikaho	Yauri	Kebbi	10.875	4.828	2	Jinsani
+Tunga Kwaku	Bagudo	Kebbi	11.361	4.126	2	Jidere Bode
+Tunga Jipere	Bagudo	Kebbi	11.265	4.175	2	Jifferi
+Tunga Jidero Bode	Bagudo	Kebbi	11.379	4.117	2	
+Tse Jir	Gwer East	Benue	7.604	8.636	2	
+Tse-Jime	Konshisha	Benue	7.084	8.525	2	
+Sofon Jigbeji	Bosso	Niger	9.583	6.296	2	Jibeyi
+Shamiger-Jine	Ushongo	Benue	7.149	8.986	2	
+Sebore Wuro Jiji	Mayo-Belwa	Adamawa	8.915	12.123	2	
+Junleri	Yorro	Taraba	9.070	11.439	2	Jimleri|Jumleri
+Jiwolowo	Moro	Kwara	8.695	4.333	2	
+Jiwi	Hong	Adamawa	10.237	12.821	2	
+Jiwawa	Wushishi	Niger	9.826	5.920	2	
+Jiwangi	Mashegu	Niger	9.736	5.121	2	
+Jiwafa	Kauru	Kaduna	10.234	8.359	2	
+Jiura	Igabi	Kaduna	10.835	7.459	2	
+Jitar	Bauchi	Bauchi	10.224	9.863	2	
+Jita	Tudun Wada	Kano	11.227	8.575	2	
+Jita	Paikoro	Niger	9.364	6.594	2	
+Jita	Paikoro	Niger	9.268	6.650	2	
+Jiru Wudaru	Ardo-Kola	Taraba	8.973	10.950	2	
+Jiru	Municipal Area Council	FCT Abuja	9.115	7.456	2	
+Jirkyor	Konshisha	Benue	7.186	8.590	2	
+Jirima	Garki	Jigawa	12.318	8.886	2	
+Jiriku	Mashegu	Niger	9.908	5.714	2	
+Jiriga	Bodinga	Sokoto	12.878	5.153	2	
+Jiri	Gujba	Yobe	11.258	12.028	2	
+Jirhemba	Takum	Taraba	7.351	10.049	2	
+Jirgu	Bodinga	Sokoto	12.783	5.300	2	
+Jirgba	Konshisha	Benue	7.109	8.581	2	
+Jirgba	Konshisha	Benue	7.079	8.652	2	
+Jirawa	Bauchi	Bauchi	10.249	9.943	2	
+Jira	Toro	Bauchi	10.676	9.119	2	
+Jira	Hawul	Borno	10.449	12.333	2	
+Zhinmpa	Lavun	Niger	9.340	5.565	2	Jipun
+Jinuwiji	Bayo	Borno	10.647	11.776	2	
+Jinjere	Kogi	Kogi	8.046	6.954	2	
+Jingr	Lere	Kaduna	10.349	8.475	2	
+Jingba-Nege	Konshisha	Benue	7.012	8.892	2	
+Jinadu	Ife North	Osun	7.339	4.479	2	
+Jimta	Hong	Adamawa	10.105	13.073	2	
+Jimmu	Chikun	Kaduna	10.367	7.267	2	
+Jimmi	Ningi	Bauchi	10.944	9.287	2	
+Jimjabuta	Gombi	Adamawa	10.229	12.497	2	
+Jimiya	Wamba	Nasarawa	8.958	8.828	2	
+Jimin	Darazo	Bauchi	11.152	10.354	2	
+Jimin	Darazo	Bauchi	10.875	10.473	2	
+Jimin	Gwer East	Benue	7.398	8.191	2	
+Jimin	Konshisha	Benue	7.029	8.856	2	
+Jimeta	Bali	Taraba	8.138	10.790	2	
+Jimeta	Bali	Taraba	7.515	10.503	2	
+Jimen	Takum	Taraba	7.410	10.056	2	
+Jime	Ushongo	Benue	7.195	8.985	2	
+Jimbom	Kirfi	Bauchi	10.356	10.628	2	
+Jimboi	Paikoro	Niger	9.309	6.604	2	
+Jimbim	Ganjuwa	Bauchi	10.864	9.981	2	
+Jimbaru	Biu	Borno	10.681	11.978	2	
+Jimbam	Nafada	Gombe	10.869	11.305	2	
+Jimba	Ifelodun	Kwara	8.394	4.681	2	Mba
+Jimanli	Gbako	Niger	9.483	5.933	2	
+Jiman Jangale	Teungo	Adamawa	7.835	11.720	2	
+Jimango	Madagali	Adamawa	10.816	13.634	2	
+Jiman Buwanga	Teungo	Adamawa	7.875	11.727	2	
+Jimaku	Mashegu	Niger	9.846	5.842	2	
+Jima	Gbako	Niger	9.050	5.867	2	
+Jilli Mbalare	Fufore	Adamawa	9.072	12.382	2	
+Jilli	Gubio	Borno	12.614	12.467	2	
+Jilli	Fufore	Adamawa	9.090	12.388	2	
+Jillahi	Funakaye	Gombe	10.770	11.402	2	
+Jilivi	Hawul	Borno	10.461	12.080	2	
+Jili	Tudun Wada	Kano	11.278	8.263	2	
+Jikoko	Municipal Area Council	FCT Abuja	9.141	7.468	2	
+Jiko	Rafi	Niger	9.871	6.420	2	
+Jiko	Kwande	Benue	6.922	9.593	2	
+Jikar	Gboko	Benue	7.211	8.745	2	
+Jija	Takum	Taraba	7.545	10.063	2	
+Jigwada	Hong	Adamawa	10.269	12.944	2	
+Jigirochadi	Chibok	Borno	10.815	12.752	2	
+Jigiro	Igabi	Kaduna	10.817	7.733	2	
+Jigilawa	Tsanyawa	Kano	12.191	8.085	2	
+Jigi	Mangu	Plateau	9.617	9.317	2	
+Jigbodo	Gwagwalada	FCT Abuja	9.229	7.056	2	Jigodo
+Jigbeji	Bosso	Niger	9.628	6.313	2	
+Jigba	Konshisha	Benue	7.103	8.659	2	
+Jigawar Sawai	Dan Musa	Katsina	12.295	7.223	2	
+Jigawa Kuka	Nafada	Gombe	11.165	11.109	2	
+Jigawa	Babura	Jigawa	12.645	8.967	2	
+Jigawa	Kebbe	Sokoto	11.775	4.737	2	
+Jigawa	Birnin Kudu	Jigawa	11.367	9.533	2	
+Jigawa	Gwaram	Jigawa	11.300	9.750	2	
+Jigawa	Nafada	Gombe	11.159	11.113	2	
+Jigawa	Ningi	Bauchi	11.133	9.417	2	
+Jigawa	Bogoro	Bauchi	9.621	9.750	2	
+Jigawa	Numan	Adamawa	9.600	12.013	2	
+Jigawa	Tafawa-Balewa	Bauchi	9.598	9.808	2	
+Jigawa	Karim Lamido	Taraba	8.757	10.524	2	
+Jiga-Orile	Yewa North	Ogun	7.112	3.124	2	Jiga|Jiga Orile
+Jigan	Ona Ara	Oyo	7.300	4.017	2	
+Jigan	Ona Ara	Oyo	7.208	4.035	2	
+Jigalta	Nganzai	Borno	12.624	13.275	2	
+Jiga	Konshisha	Benue	7.336	8.587	2	
+Jiga	Yewa South	Ogun	6.797	2.969	2	Abule Jiga
+Jidu	Municipal Area Council	FCT Abuja	9.018	7.376	2	
+Jidda	Wamba	Nasarawa	9.004	8.661	2	
+Jidawa	Dutse	Jigawa	11.750	9.183	2	
+Jidadi	Dandume	Katsina	11.332	7.293	2	
+Jida	Jada	Adamawa	8.620	12.364	2	
+Jibis	Ikara	Kaduna	11.159	8.254	2	
+Jiberu	Girei	Adamawa	9.502	12.577	2	
+Jibbirti	Borsari	Yobe	12.991	11.459	2	
+Jibam	Pankshin	Plateau	9.176	9.339	2	
+Jauro Adamu Jiri	Fufore	Adamawa	8.879	12.253	2	
+Idu-Jimoti	Ife East	Osun	7.360	4.593	2	Idu Jimoti|Lukosi
+Gurbe Jibu	Wukari	Taraba	8.218	9.889	2	
+Jirlahi	Lau	Taraba	9.224	11.519	2	Gidan Jilehi
+Gidan-Jigo	Wasagu-Danko	Kebbi	11.399	6.045	2	
+Gidan Jibri	Kachia	Kaduna	9.633	8.093	2	Gidan Jibir
+Elomojiga	Yewa North	Ogun	7.327	2.961	2	Elemo Jiga
+Dou Jiman	Teungo	Adamawa	7.859	11.870	2	
+Dogon Jigawa	Kurmi	Taraba	7.143	10.379	2	
+Dar-El-Jamal	Bama	Borno	11.326	13.967	2	Dar el Jamal|Dar-al-Jimeil|Dar-el-Jimel
+Bar Jirg Summa	Jos South	Plateau	9.864	8.903	2	Bar Jirgi Summa|Barikin Jirga Summa
+Araromi-Jiga	Yewa North	Ogun	6.983	2.990	2	Araromi Jiga
+Adamu Jimi	Teungo	Adamawa	8.100	11.983	2	
+Jibowu	Ifako/Ijaye	Lagos	6.659	3.299	2	Libowu
+Jimpe	Bwari	FCT Abuja	9.197	7.543	2	
+Jikoyi	Municipal Area Council	FCT Abuja	8.971	7.570	2	
+Jijipe	Karu	Nasarawa	8.766	7.613	2	
+Jigalambu	Michika	Adamawa	10.572	13.325	2	
+Jingori	Dikwa	Borno	11.804	14.215	2	
+Jilli	Bama	Borno	11.655	14.173	2	
+Faida Jinba	Abadam	Borno	13.680	13.340	2	
+Langa Jiri	Abadam	Borno	13.621	13.342	2	
+Jibowu	Obafemi Owode	Ogun	6.941	3.535	2	
+Jimgbe	Idanre	Ondo	6.998	5.188	2	
+Jilim	Shelleng	Adamawa	10.161	12.173	2	
+Jimadawa	Shani	Borno	10.217	12.020	2	
+Jilikewe	Shani	Borno	10.232	12.203	2	
+Jintaba	Shani	Borno	10.269	12.027	2	
+Tungan-Jibo	Dandi	Kebbi	11.714	3.712	2	
+Ago Jimmy	Ovia North-East	Edo	6.141	5.299	2	
+Ungua Jibo	Baure	Katsina	12.783	8.816	2	
+Kakare Jimawa	Babura	Jigawa	12.540	8.920	2	
+Jimada	Dambatta	Kano	12.554	8.664	2	
+Ungua Jita	Dambatta	Kano	12.500	8.600	2	
+Jigba	Makoda	Kano	12.427	8.480	2	
+Jigoro	Gabasawa	Kano	12.143	8.932	2	
+Jinowol	Kazaure	Jigawa	12.727	8.493	2	
+Jibawa	Bindawa	Katsina	12.698	7.857	2	
+Rugar Jibir	Charanchi	Katsina	12.687	7.810	2	
+Jikamshi	Matazu	Katsina	12.215	7.767	2	
+Jimba	Binji	Sokoto	13.227	4.873	2	
+Jiariaje	Wamako	Sokoto	13.071	5.017	2	
+Jiaoji	Wamako	Sokoto	13.025	5.119	2	
+Jiba	Danja	Katsina	11.517	7.406	2	
+Ungwan Jibo	Giwa	Kaduna	11.256	7.283	2	
+Jigo	Sabuwa	Katsina	11.139	7.169	2	
+Rugan Jidde	Shanga	Kebbi	11.492	4.537	2	
+Jirigi	Fakai	Kebbi	11.418	4.953	2	
+Hardo Jiba	Akko	Gombe	10.065	10.985	2	
+Jinuare	Ekeremor	Bayelsa	4.985	5.634	2	
+Rituagbene	Southern Ijaw	Bayelsa	4.538	5.724	2	Jituagbene
+Ungwan Jifa	Tudun Wada	Kano	11.354	8.345	2	
+Anka	Anka	Zamfara	11.961	5.987	2	Agbegbe Ijoba Ibile Anka|Anka Local Government Area|an ka (nai ji li ya)|an ka (ni ri li ya)
+Jibia	Jibia	Katsina	13.040	7.289	2	Agbegbe Ijoba Ibile Jibia|Jibia Local Government Area
+Ajaokuta	Ajaokuta	Kogi	7.524	6.581	2	Adzhaokuta|Agbegbe Ijoba Ibile Ajaokuta|Ajaokuta Local Government Area|a jiao ku ta|ajaokuta|ajaykwta
+Donga	Donga	Taraba	7.591	10.213	2	Agbegbe Ijoba Ibile Donga|Donga Local Government Area|tang jia
+Ngala	Ngala	Borno	12.215	14.183	2	Agbegbe Ijoba Ibile Ngala|Ngala Local Government Area|en jia la
+Konduga	Konduga	Borno	11.586	13.003	2	Konduga Local Government Area|kondouga|kong du jia
+Jibiro	Maiha	Adamawa	9.616	13.220	2	
+Jimet	Song	Adamawa	9.667	13.005	2	
+Jimeta	Maiha	Adamawa	9.993	13.062	2	
+Jibiro	Maiha	Adamawa	9.837	13.223	2	
+Faide Jimba	Kukawa	Borno	13.136	13.667	2	
+Jibrile Clan	Gwoza	Borno	11.089	13.838	2	
+Kubur Jibje	Michika	Adamawa	10.675	13.329	2	Kubur-Jibje
+Jirgar	Askira-Uba	Borno	10.521	13.021	2	
+Jimeri	Monguno	Borno	12.572	13.770	2	
+Jirgin Sama	Jos North	Plateau	9.884	8.955	2	
+Jimin	Gwer East	Benue	7.335	8.441	2	
+Garin Jauro Jingi	Gassol	Taraba	8.306	10.611	2	
+Jilbe	Kala-Balge	Borno	11.885	14.597	2	
+Unguwar Jibrin	Kaugama	Jigawa	12.404	9.646	2	
+Jibga	Makoda	Kano	12.489	8.502	2	
+Jita	Tudun Wada	Kano	11.201	8.507	2	
+Jibawa	Bindawa	Katsina	12.723	7.848	2	
+Jirima	Ringim	Jigawa	12.333	8.996	2	
+Jir	Apa	Benue	7.654	8.037	2	
+Jindu	Markurdi	Benue	7.729	8.475	2	
+Jibo	Wukari	Taraba	7.939	9.337	2	
+Jingir	Logo	Benue	7.623	9.305	2	
+Jiji	Logo	Benue	7.565	9.342	2	
+Jigba	Wukari	Taraba	7.890	9.697	2	
+Jika	Ukum	Benue	7.729	9.675	2	
+Jirkange	Gboko	Benue	7.436	9.097	2	
+Jime	Gboko	Benue	7.272	9.095	2	
+Jirgba	Buruku	Benue	7.273	9.148	2	
+Jindi	Ushongo	Benue	7.051	9.078	2	
+Jika	Ushongo	Benue	7.131	9.303	2	
+Jila	Ushongo	Benue	7.076	9.276	2	
+Jir	Katsina-Ala	Benue	7.225	9.427	2	
+Ji	Katsina-Ala	Benue	7.130	9.420	2	
+Jil	Gboko	Benue	7.473	8.933	2	
+Jirgba	Gboko	Benue	7.389	8.771	2	
+Jiaga	Gboko	Benue	7.398	8.888	2	
+Jirgba	Gboko	Benue	7.390	8.991	2	
+Tse-Jijingi	Ushongo	Benue	7.279	8.930	2	
+Jian	Gboko	Benue	7.273	8.868	2	
+Jiga	Lavun	Niger	9.422	5.657	2	
+Jingidi	Yusufari	Yobe	13.148	11.182	2	
+Jiyako	Gbako	Niger	9.466	6.122	2	
+Jigada	Gbako	Niger	9.195	6.089	2	
+Jimada	Katcha	Niger	9.076	6.182	2	
+Ungwan Jibape	Munya	Niger	9.709	6.931	2	
+Gidan Jikwo	Shiroro	Niger	9.678	6.806	2	
+Jilima	Mayo-Belwa	Adamawa	8.996	12.069	2	
+Jauro Jida	Mayo-Belwa	Adamawa	8.903	12.140	2	
+Jida	Fufore	Adamawa	8.881	12.246	2	
+Wuro Jibiri	Jada	Adamawa	8.665	12.278	2	
+Jiberu	Jada	Adamawa	8.762	12.347	2	
+Jijiwa	Jada	Adamawa	8.628	12.346	2	
+Jili	Fufore	Adamawa	8.989	12.393	2	
+Jirani	Jada	Adamawa	8.717	12.423	2	
+Jimbare	Jada	Adamawa	8.627	12.437	2	
+Jimen	Jada	Adamawa	8.581	12.414	2	
+Jauro Jida	Jada	Adamawa	8.671	12.477	2	
+Jinadu Aiyetoro	Surulere	Lagos	6.490	3.340	2	
+Kurmin-Jibrin	Kagarko	Kaduna	9.470	7.937	2	
+Alhaji Jida	Ganye	Adamawa	8.645	11.889	2	
+Jauro Jivunu	Ardo-Kola	Taraba	8.943	11.118	2	
+Jinti	Ardo-Kola	Taraba	8.874	11.199	2	
+Jiru Kiriga	Ardo-Kola	Taraba	8.939	10.945	2	
+Garin Jibrin	Gassol	Taraba	8.550	10.978	2	
+Jidadi	Langtang North	Plateau	8.915	9.862	2	
+Jir	Wase	Plateau	8.772	9.915	2	
+Ungwan Jibrin Sada	Sanga	Kaduna	9.078	8.182	2	
+Jifo	Zangon Kataf	Kaduna	9.711	8.269	2	
+Jifo	Zangon Kataf	Kaduna	9.702	8.281	2	
+Jipbiyai	Lafia	Nasarawa	8.976	9.030	2	
+Jiakat	Qua'An Pan	Plateau	8.929	9.246	2	
+Jir	Shendam	Plateau	8.553	9.368	2	
+Jigari	Demsa	Adamawa	9.440	12.058	2	
+Jauro Jingeru	Mayo-Belwa	Adamawa	9.100	12.047	2	Jauro Jingeni
+Jilma	Fufore	Adamawa	9.022	12.077	2	
+Jilli	Fufore	Adamawa	9.092	12.245	2	
+Wuro Jibiri	Mayo-Belwa	Adamawa	9.128	11.959	2	
+Jinya	Demsa	Adamawa	9.183	11.856	2	
+Jibb Abawo	Karim Lamido	Taraba	9.166	11.047	2	
+Ndiyam-Jirlahi-Hamlets	Fufore	Adamawa	9.030	12.502	2	Ndiyam Jirlahi Hamlets
+Jibiro	Fufore	Adamawa	9.205	12.878	2	
+Jinga	Guma	Benue	8.124	8.602	2	
+Ago-Jim	Ondo West	Ondo	7.029	4.835	2	
+Jihu	Lapai	Niger	8.308	6.719	2	
+Jingini	Oyun	Kwara	8.065	4.663	2	
+Jimo	Oyo West	Oyo	7.832	3.886	2	
+Gidan-Jirigi	Nasarawa	Nasarawa	8.224	8.121	2	
+River Jilayi	Fufore	Adamawa	8.958	12.604	2	RiverJilayi
+Jima	Teungo	Adamawa	8.142	11.999	2	
+Jimbol	Song	Adamawa	9.811	12.211	2	
+Jimbo	Shelleng	Adamawa	9.882	12.128	2	
+Jifun	Song	Adamawa	9.555	12.284	2	
+Jimti	Song	Adamawa	9.922	12.642	2	
+Jimajima Tappare	Song	Adamawa	9.843	12.585	2	JimajimaTappare
+Mayel Jibijibi	Song	Adamawa	9.781	12.582	2	MayelJibijibi
+Jiroma	Song	Adamawa	9.840	12.556	2	
+Jibowu	Ilorin South	Kwara	8.466	4.699	2	
+Jimdiko	Toto	Nasarawa	8.107	7.265	2	
+Jimbaseve	Toto	Nasarawa	8.278	7.261	2	
+Jimbada	Toto	Nasarawa	8.444	7.449	2	
+Jidda	Sardauna	Taraba	6.893	11.128	2	
+Alhaji Jibo	Sardauna	Taraba	6.574	11.246	2	
+Hamman Jidda	Sardauna	Taraba	6.907	11.453	2	
+Jimam	Sardauna	Taraba	6.847	11.145	2	
+Jimbi	Sardauna	Taraba	6.821	11.155	2	
+Jire	Sardauna	Taraba	6.773	11.282	2	
+Jinadu	Akinyele	Oyo	7.610	4.021	2	
 Jibowu Street	Shomolu	Lagos	6.519	3.370	1	
 Usman Jikan Toro Road	Kaduna North	Kaduna	10.582	7.468	1	
 A.A. Jibrilla Avenue	Kaduna North	Kaduna	10.576	7.462	1	
@@ -191,9 +484,7 @@ Ganye - Jimeta Federal Road	Yola North	Adamawa	9.158	12.598	1
 Jim Rossie Close	Oredo	Edo	6.300	5.591	1	
 Ganye - Jimeta Federal Road	Yola South	Adamawa	9.275	12.433	1	
 Ganye - Jimeta Federal Road	Yola South	Adamawa	9.263	12.451	1	
-Ganye - Jimeta Federal Road	Yola South	Adamawa	9.274	12.434	1	
 Ganye - Jimeta Federal Road	Yola North	Adamawa	9.213	12.465	1	
-Ganye - Jimeta Federal Road	Yola South	Adamawa	9.259	12.457	1	
 Ganye - Jimeta Federal Road	Yola South	Adamawa	9.226	12.456	1	
 Ganye - Jimeta Federal Road	Yola North	Adamawa	9.215	12.463	1	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.781	6.770	1	
@@ -211,38 +502,23 @@ Kaura Namoda - Jibiya Road	Jibia	Katsina	13.055	7.163	1
 Kaura Namoda - Jibiya Road	Jibia	Katsina	12.986	7.050	1	
 Kaura Namoda - Jibiya Road	Jibia	Katsina	13.003	7.077	1	
 Kaura Namoda - Jibiya Road	Jibia	Katsina	13.106	7.252	1	
-Kaura Namoda - Jibiya Road	Jibia	Katsina	13.059	7.173	1	
 Kaura Namoda - Jibiya Road	Jibia	Katsina	13.009	7.102	1	
 Jibril Wudil street	Tarauni	Kano	11.975	8.562	1	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.717	6.721	1	
-Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.720	6.727	1	
 Alhaji Jimoh Street	Surulere	Lagos	6.481	3.348	1	
 Alaji Jimoh Sokoye Street	Ìkòròdú	Lagos	6.631	3.494	1	
 Dr. Aliyu Jibia Street	Ungongo	Kano	11.972	8.441	1	
-Jigar Health Post	Albasu	Kano	11.664	9.169	0	
-Jirago Health Post	Albasu	Kano	11.576	9.279	0	
-Jili Health Post	Rimin Gado	Kano	11.899	8.278	0	
-Jibawa Health Post	Gaya	Kano	11.782	8.979	0	
-Jiyayya Health Post	Ajingi	Kano	11.981	9.094	0	
-Jigilawa Health Post	Tsanyawa	Kano	12.194	8.064	0	
-Jibga Fulani Health Post	Makoda	Kano	12.401	8.488	0	
-Jigawa Satame Health Post	Makoda	Kano	12.317	8.560	0	
-Sheikh Muhammed Jidda General Hospital	Fagge	Kano	12.011	8.535	0	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.946	6.963	1	
-Kaura Namoda - Jibiya Road	Jibia	Katsina	12.995	7.062	1	
-Kaura Namoda - Jibiya Road	Jibia	Katsina	12.988	7.056	1	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.920	6.927	1	
 Kaura Namoda - Jibiya Road	Jibia	Katsina	13.065	7.181	1	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.731	6.736	1	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.894	6.900	1	
-Kaura Namoda - Jibiya Road	Jibia	Katsina	12.997	7.065	1	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.759	6.765	1	
 Kaura Namoda - Jibiya Road	Jibia	Katsina	13.094	7.224	1	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.912	6.927	1	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.708	6.694	1	
 Kaura Namoda - Jibiya Road	Jibia	Katsina	13.072	7.188	1	
 Jibayo Ewuola Close	Eti Osa	Lagos	6.502	3.605	1	
-Jindu Dispensary	Zaki	Bauchi	12.464	10.617	0	Tikirje Dispensary - Ladari Dispensary
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.796	12.546	1	
 Ganye - Jimeta Federal Road	Fufore	Adamawa	8.852	12.580	1	
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.582	12.398	1	
@@ -251,21 +527,12 @@ Ganye - Jimeta Federal Road	Fufore	Adamawa	8.822	12.570	1
 Ganye - Jimeta Federal Road	Fufore	Adamawa	8.883	12.586	1	
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.671	12.469	1	
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.586	12.407	1	
-Ganye - Jimeta Federal Road	Jada	Adamawa	8.791	12.547	1	
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.623	12.434	1	
 Ganye - Jimeta Federal Road	Fufore	Adamawa	9.083	12.666	1	
-Ganye - Jimeta Federal Road	Fufore	Adamawa	8.857	12.581	1	
-Ganye - Jimeta Federal Road	Yola North	Adamawa	9.159	12.595	1	
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.649	12.447	1	
-Ganye - Jimeta Federal Road	Jada	Adamawa	8.632	12.440	1	
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.662	12.462	1	
-Ganye - Jimeta Federal Road	Fufore	Adamawa	8.893	12.588	1	
-Ganye - Jimeta Federal Road	Fufore	Adamawa	8.842	12.572	1	
 Ganye - Jimeta Federal Road	Fufore	Adamawa	8.865	12.585	1	
-Ganye - Jimeta Federal Road	Jada	Adamawa	8.606	12.423	1	
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.688	12.483	1	
-Ganye - Jimeta Federal Road	Fufore	Adamawa	8.812	12.563	1	
-Ganye - Jimeta Federal Road	Jada	Adamawa	8.575	12.385	1	
 Ganye - Jimeta Federal Road	Fufore	Adamawa	8.945	12.606	1	
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.727	12.514	1	
 Ganye - Jimeta Federal Road	Jada	Adamawa	8.554	12.306	1	
@@ -294,49 +561,42 @@ Alhaji Jimoh Street	Ìkòròdú	Lagos	6.550	3.542	1
 Jimoh Tiamiyu Street	Eti Osa	Lagos	6.497	3.583	1	
 Jijel Street	Chanchaga	Niger	9.594	6.571	1	
 Jistice James Ogebe Street	Municipal Area Council	FCT Abuja	9.049	7.531	1	
-Jinadu Street	Agege	Lagos	6.625	3.322	1	
 Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.970	7.017	1	
-Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.983	7.039	1	
 Lateef Jinadu Dosunmu Street	Ikeja	Lagos	6.626	3.357	1	
 Kaura Namoda - Jibiya Road	Jibia	Katsina	13.036	7.140	1	
 Kaura Namoda - Jibiya Road	Jibia	Katsina	13.023	7.126	1	
-Kaura Namoda - Jibiya Road	Jibia	Katsina	13.107	7.266	1	
+Jideofor Adibe Street	Municipal Area Council	FCT Abuja	9.085	7.386	1	
+JI Chukwu Crescent	Municipal Area Council	FCT Abuja	9.038	7.546	1	
+Jibrin R. Haske Close	Municipal Area Council	FCT Abuja	9.104	7.412	1	
+Alhaji Bello Jiwa Street	Municipal Area Council	FCT Abuja	9.085	7.311	1	
+Adeoye Lati Jimoh Street	Obafemi Owode	Ogun	7.129	3.376	1	
+Jim Momoh Street	Etsako West	Edo	7.085	6.231	1	
+Alhaji Jimoh Kareem Close	Eti Osa	Lagos	6.471	3.619	1	
+Jinie Schools	Kaduna South	Kaduna	10.472	7.430	0	
+Jinjimawa Health Post	Bichi	Kano	12.331	8.274	0	
+Jilbe Dispensary	Kala-Balge	Borno	11.917	14.636	0	
+Jiddari Primary Health Centre	Jere	Borno	11.795	13.146	0	
+Jilalu Market	Akure South	Ondo	7.249	5.160	0	
+Jidadu Ventures Ltd	Akko	Gombe	10.269	11.117	0	
+MCH Jikpan	Chanchaga	Niger	9.651	6.525	0	
+Jim-Ris Filling Station	Iwo	Osun	7.653	4.207	0	
+Jigates Digital School	Alimosho	Lagos	6.530	3.236	0	
+Jifatu	Bauchi	Bauchi	10.319	9.821	0	
+Jiggy Barbers	Municipal Area Council	FCT Abuja	9.120	7.393	0	
+Jikwoyi Phase 2 Cele Bus Stop	Municipal Area Council	FCT Abuja	8.979	7.561	0	
+Jigar Health Post	Albasu	Kano	11.664	9.169	0	
+Jirago Health Post	Albasu	Kano	11.576	9.279	0	
+Jili Health Post	Rimin Gado	Kano	11.899	8.278	0	
+Jibawa Health Post	Gaya	Kano	11.782	8.979	0	
+Jiyayya Health Post	Ajingi	Kano	11.981	9.094	0	
+Jigilawa Health Post	Tsanyawa	Kano	12.194	8.064	0	
+Jibga Fulani Health Post	Makoda	Kano	12.401	8.488	0	
+Jigawa Satame Health Post	Makoda	Kano	12.317	8.560	0	
+Sheikh Muhammed Jidda General Hospital	Fagge	Kano	12.011	8.535	0	
+Jindu Dispensary	Zaki	Bauchi	12.464	10.617	0	Tikirje Dispensary - Ladari Dispensary
 Jitar Primary Health Center	Bauchi	Bauchi	10.239	9.934	0	
 Jilima Health Post	Fufore	Adamawa	9.021	12.078	0	
 Jili Health Center	Fufore	Adamawa	9.088	12.387	0	
 Bari Jimila Health Post	Ganye	Adamawa	8.471	12.247	0	
-Jideofor Adibe Street	Municipal Area Council	FCT Abuja	9.085	7.386	1	
-JI Chukwu Crescent	Municipal Area Council	FCT Abuja	9.038	7.546	1	
-JIBWIS ARAWA	Gombe	Gombe	10.313	11.174	0	
-Jibrin R. Haske Close	Municipal Area Council	FCT Abuja	9.104	7.412	1	
-Jibowu Road	Ifako/Ijaye	Lagos	6.667	3.303	1	
-Alhaji Bello Jiwa Street	Municipal Area Council	FCT Abuja	9.085	7.311	1	
-Adeoye Lati Jimoh Street	Obafemi Owode	Ogun	7.129	3.376	1	
-Jim Momoh Street	Etsako West	Edo	7.085	6.231	1	
-Ganye - Jimeta Federal Road	Yola South	Adamawa	9.265	12.447	1	
-Ganye - Jimeta Federal Road	Yola South	Adamawa	9.252	12.456	1	
-Ganye - Jimeta Federal Road	Yola South	Adamawa	9.239	12.456	1	
+Jibwis Arawa	Gombe	Gombe	10.313	11.174	0	
 Jigawa Health Post	Mashi	Katsina	13.004	7.950	0	
-Alhaji Jimoh Kareem Close	Eti Osa	Lagos	6.471	3.619	1	
-Jirima	Garki	Jigawa	12.359	8.904	2	
-Jigawa	Babura	Jigawa	12.652	8.988	2	
-Unguwar Jibrin	Kaugama	Jigawa	12.410	9.652	2	
-Jijima	Yauri	Kebbi	10.682	4.727	2	
-Jiga Birni	Aleiro	Kebbi	12.310	4.521	2	
-Kurmin Jibrin	Kagarko	Kaduna	9.429	7.945	2	
-Jigawar Tsada	Dutse	Jigawa	11.679	9.296	2	
-Jido	Dawakin Kudu	Kano	11.920	8.650	2	
-Jita	Tudun Wada	Kano	11.204	8.496	2	
-Jibga	Makoda	Kano	12.518	8.506	2	
-Jigawa	Warawa	Kano	11.895	8.845	2	
-Jili	Rimin Gado	Kano	11.911	8.282	2	
-Jibia A	Jibia	Katsina	13.079	7.230	2	
-Gana Jigawa	Mashi	Katsina	13.053	7.951	2	
-Jibia B	Jibia	Katsina	13.089	7.244	2	
-Jiba	Danja	Katsina	11.456	7.420	2	
-Jino	Batagarawa	Katsina	12.929	7.551	2	
-Jibia	Jibia	Katsina	12.983	7.468	2	
-Jikamshi	Musawa	Katsina	12.175	7.763	2	
-Jibawa	Bindawa	Katsina	12.722	7.843	2	
-Jigalta	Nganzai	Borno	12.610	13.296	2	
-Jilbe	Kala-Balge	Borno	11.863	14.585	2	

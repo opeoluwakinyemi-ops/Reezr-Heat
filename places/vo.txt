@@ -1,17 +1,33 @@
 Vodni	Mangu	Plateau	9.400	9.273	2	
+Vom	Jos South	Plateau	9.731	8.792	2	
+Vola Kariyo	Jema'A	Kaduna	9.419	8.199	2	Yola Kariyo
+Vosho	Jalingo	Taraba	8.915	11.284	2	
+Vwang	Jos South	Plateau	9.686	8.740	2	V Wang|Vom Wang|Wang
+Vomni	Fufore	Adamawa	8.890	12.415	2	
+Vokuna	Mubi North	Adamawa	10.131	13.170	2	
+Panti-Vorobe	Yorro	Taraba	8.979	11.483	2	
+Jauro Voti	Jalingo	Taraba	8.991	11.268	2	
+Vorokotok	Madagali	Adamawa	10.836	13.665	2	
+Vonge	Gwer East	Benue	7.310	8.461	2	
+Vongu	Katsina-Ala	Benue	7.358	9.320	2	
+Volkswagen	Ojo	Lagos	6.463	3.224	2	
+Voro	Jalingo	Taraba	8.940	11.322	2	
+Jauro Voko	Jalingo	Taraba	8.925	11.329	2	
+Jauro Voto	Ardo-Kola	Taraba	8.759	11.271	2	
+Wuro Voto	Yorro	Taraba	8.923	11.431	2	
+Vorkadang Hamlets	Demsa	Adamawa	9.352	12.166	2	
+Vonfera	Shelleng	Adamawa	9.714	12.172	2	
+Upper Volta Street	Kaduna North	Kaduna	10.560	7.467	1	
+Volta Street	Municipal Area Council	FCT Abuja	9.101	7.479	1	
+Vosan Drive	Enugu North	Enugu	6.438	7.539	1	
+Upper Volta Crescent	Kaduna North	Kaduna	10.561	7.468	1	
 Benhill Vocational Training Centre	Oredo	Edo	6.318	5.623	0	
 Olu Aka Di Mma Vocational Technical Training Centre	Enugu North	Enugu	6.431	7.478	0	
 vokini heath facility	Mubi North	Adamawa	10.132	13.169	0	
 Vochmal oil	Jos North	Plateau	9.941	8.908	0	
 Vochmal Oil and Gas	Jos North	Plateau	9.959	8.858	0	
 GSTC Vocational Gombe state	Gombe	Gombe	10.296	11.178	0	
-GOLDEN VOICE ACADEMY	Ungongo	Kano	12.051	8.570	0	
-Vom	Jos South	Plateau	9.731	8.792	2	
+Golden Voice Academy	Ungongo	Kano	12.051	8.570	0	
 Voice of Islam Hospital	Lafia	Nasarawa	8.523	8.524	0	
 Voice Of Nigeria Estate, Doctors Quarters, Phase 2	Municipal Area Council	FCT Abuja	8.968	7.369	0	
-Upper Volta Street	Kaduna North	Kaduna	10.560	7.467	1	
-Volta Street	Municipal Area Council	FCT Abuja	9.101	7.479	1	
-Vosan Drive	Enugu North	Enugu	6.438	7.539	1	
-Upper Volta Crescent	Kaduna North	Kaduna	10.561	7.468	1	
-Vosan Drive	Enugu North	Enugu	6.440	7.532	1	
 Lagos State Rehabilitation and Vocational Training Centre	Ifo	Ogun	6.640	3.377	0	

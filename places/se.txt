@@ -1,7 +1,9 @@
-Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
+Burari	Bama	Borno	11.470	13.758	3	Bulanga;Ngurosoye;Nguro Seyo;Ngura-Seyo
+Serti		Taraba	7.500	11.370	2	
 Sèrkin Abzin Saboa	Guidan Roumdji	Sokoto	13.259	6.750	2	
 Yola Dâd'in Serki	Madarounfa	Katsina	13.190	7.541	2	
 Seko	Moro	Kwara	8.783	4.433	2	Logun
+Mayo Selbe	Sardauna	Taraba	7.283	11.133	2	Selbe
 Sengri	Jada	Adamawa	8.688	12.670	2	
 Gidan Segi	Talata Mafara	Zamfara	12.231	6.053	2	
 Seribi	Bagudo	Kebbi	11.622	4.199	2	Sherabi
@@ -26,7 +28,6 @@ Senchi	Zuru	Kebbi	11.342	5.202	2
 Sefu	Obafemi Owode	Ogun	6.756	3.413	2	Shefu-Ota
 Sebta	Song	Adamawa	9.822	12.218	2	
 Selwai	Arewa Dandi	Kebbi	12.659	3.835	2	Salwe
-Burari	Bama	Borno	11.470	13.758	3	Bulanga;Ngurosoye;Nguro Seyo;Ngura-Seyo
 Gidan Tsofon Sariki	Shiroro	Niger	10.449	6.807	2	Sarkin Kutusu;Serikin Kutusu
 Sepeti	Ewekoro	Ogun	6.904	3.253	2	Sapeti
 Serebia	Abua/Odual	Rivers	4.843	6.705	2	Seregbia;Sereobia
@@ -45,6 +46,332 @@ Sesheda	Gwandu	Kebbi	12.528	4.688	2
 Ofalubagbene	Southern Ijaw	Bayelsa	4.552	5.700	2	Urhobo Settlement;Leigbene
 Sepeteri	Saki East	Oyo	8.633	3.650	2	Shepeteri
 Semore	Ijebu North	Ogun	7.033	3.800	2	Shemore
+Sudagu	Nganzai	Borno	12.527	13.029	2	Sedagu
+Senenak	Jere	Borno	12.061	13.105	2	
+Secretariat Junction	Jos North	Plateau	9.891	8.879	2	
+Federal Secretary Quarters	Maiduguri	Borno	11.831	13.118	2	
+Jauro Seini	Shani	Borno	10.129	11.783	2	
+Maridi Peulh (Sehendou)	Maïné Soroa	Yobe	13.347	11.608	2	
+point seven Pandaya 1 Gona Div.	Yamaltu/Deba	Gombe	10.200	11.237	2	
+Ohaji Farm Settlement	Ohaji/Egbema	Imo	5.460	6.828	2	
+Segpe	Southern Ijaw	Bayelsa	4.552	5.818	2	
+Seitoro Camp	Burutu	Delta	5.191	5.558	2	
+Secreteriat	Enugu North	Enugu	6.443	7.486	2	
+Seme Border	Badagry	Lagos	6.382	2.722	2	
+Senchi	Zuru	Kebbi	11.295	5.076	2	
+Dabai Seme	Zuru	Kebbi	11.442	5.119	2	
+Wuro Senbe	Jalingo	Taraba	8.854	11.403	2	
+Wango Sete	Mayo-Belwa	Adamawa	8.921	12.142	2	
+Ungwan Seriki	Birnin Gwari	Kaduna	10.711	6.542	2	
+Sodengi	Edu	Kwara	8.863	5.039	2	Sedudungi
+Sigal	Kala-Balge	Borno	12.286	14.536	2	Segel|Ssigal
+Seyoram	Kukawa	Borno	13.044	13.776	2	
+Sevo	Yorro	Taraba	8.837	11.433	2	
+Sevav	Buruku	Benue	7.431	9.258	2	
+Sev	Konshisha	Benue	7.225	8.573	2	
+Seterato	Edati	Niger	9.133	5.667	2	
+Seteku	Agwara	Niger	10.644	4.677	2	Suteku
+Sesoya	Borgu	Niger	10.433	3.883	2	
+Serwela	Song	Adamawa	9.693	12.402	2	
+Seriki-Okusan	Obafemi Owode	Ogun	7.043	3.630	2	Seriki Okusan
+Seriki-Oko	Ifo	Ogun	6.809	3.249	2	
+Seriki-Oje	Akinyele	Oyo	7.591	3.925	2	Seriki Oje|SerikiOje
+Serikin Ladan	Gwagwalada	FCT Abuja	9.127	7.148	2	
+Serikingabas	Gagarawa	Jigawa	12.570	9.520	2	
+Seriki	Odeda	Ogun	7.362	3.469	2	
+Seriki	Ibarapa Central	Oyo	7.368	3.310	2	
+Seriki	Odeda	Ogun	7.342	3.244	2	
+Seriki	Ona Ara	Oyo	7.328	4.031	2	
+Seriki	Obafemi Owode	Ogun	7.116	3.744	2	
+Seriki	Obafemi Owode	Ogun	6.993	3.621	2	
+Seri	Kanke	Plateau	9.391	9.701	2	
+Serebia	Abua/Odual	Rivers	4.841	6.704	2	Seregbia|Sereobia
+Sere	Surulere	Oyo	8.204	4.368	2	
+Serakye	Lau	Taraba	9.125	11.341	2	
+Seraka	Lavun	Niger	9.148	5.784	2	
+Ser	Konshisha	Benue	7.044	8.801	2	
+Sepeteri	Saki East	Oyo	8.628	3.644	2	Shepeteri
+Senti	Ardo-Kola	Taraba	8.856	11.303	2	
+Sentare	Jada	Adamawa	8.560	12.315	2	
+Senmger	Ushongo	Benue	7.218	8.972	2	
+Senke	Ibarapa Central	Oyo	7.377	3.199	2	
+Sengri	Jada	Adamawa	8.675	12.669	2	
+Senge	Karim Lamido	Taraba	9.493	10.943	2	Anjodo
+Sendirdi	Gassol	Taraba	8.587	10.362	2	Sendedi
+Sendeye	Vandeikya	Benue	7.014	8.906	2	
+Sender	Konshisha	Benue	7.019	8.883	2	
+Sendem	Tarka	Benue	7.633	8.824	2	
+Sende	Gboko	Benue	7.281	8.733	2	
+Senda	Ushongo	Benue	7.188	8.945	2	
+Senchi	Zuru	Kebbi	11.366	5.215	2	
+Semti	Fufore	Adamawa	9.056	12.250	2	
+Semore	Ijebu North	Ogun	7.038	3.799	2	Shemore
+Semolika	Akoko-Edo	Edo	7.317	6.126	2	
+Seluga	Ushongo	Benue	7.204	8.915	2	
+Sekpore	Kaura Namoda	Zamfara	12.455	6.599	2	
+Sekonyi	Markurdi	Benue	7.809	8.546	2	
+Sekona	Saki East	Oyo	8.860	3.427	2	
+Sekona	Ede South	Osun	7.622	4.440	2	
+Sekeseke	Oyo West	Oyo	7.903	3.777	2	
+Sekemgbede	Surulere	Oyo	8.116	4.373	2	
+Seke	Ibarapa East	Oyo	7.709	3.471	2	
+Sejoro	Shelleng	Adamawa	9.942	12.132	2	
+Seji	Rano	Kano	11.485	8.549	2	
+Seje I	Badagry	Lagos	6.467	2.897	2	Seje
+Seja-Odo	Ilaje	Ondo	6.194	4.687	2	Seja Odo
+Seikna	Shiroro	Niger	9.853	6.479	2	
+Seibokorogha	Kolokuma/Opokuma	Bayelsa	5.033	6.245	2	
+Seh	Ushongo	Benue	7.210	8.969	2	
+Segile	Odeda	Ogun	7.183	3.561	2	
+Segera	Gada	Sokoto	13.789	5.491	2	
+Sefu	Paikoro	Niger	9.449	6.612	2	
+Sedu	Ori Ire	Oyo	8.062	4.137	2	
+Sedilu	Akko	Gombe	10.152	11.039	2	
+Sedagu	Nganzai	Borno	12.540	13.044	2	
+Sebore Wuro Jiji	Mayo-Belwa	Adamawa	8.915	12.123	2	
+Sebore Tinkobo	Jada	Adamawa	8.676	12.024	2	
+Sebore Shembole	Mayo-Belwa	Adamawa	8.906	12.126	2	
+Sebore Gumbi	Mayo-Belwa	Adamawa	8.912	12.128	2	
+Sebore Dadoru	Mayo-Belwa	Adamawa	8.911	11.970	2	
+Sebore Bata	Mayo-Belwa	Adamawa	8.719	11.868	2	
+Sebore	Misau	Bauchi	11.413	10.451	2	
+Sebore	Yola North	Adamawa	9.123	12.577	2	
+Sebe	Owan East	Edo	7.040	6.133	2	Ishibi
+Sangeko	Maru	Zamfara	11.097	6.052	2	Sangeku|Sengiakun
+Sengana	Brass	Bayelsa	4.334	5.985	2	Sangama|Sangana
+Salwe	Arewa Dandi	Kebbi	12.659	3.835	2	Selwai
+Senta-Osiele	Odeda	Ogun	7.191	3.448	2	Awshile|Oshiele|Osiele
+Oji River Settlement	Oji-River	Enugu	6.239	7.282	2	
+Odo-Senlu	Odogbolu	Ogun	6.706	3.715	2	
+Odeda Farm Settlement	Odeda	Ogun	7.221	3.511	2	Odeda
+Ngurosoye	Bama	Borno	11.467	13.767	2	Ngura-Seyo|Nguro Seyo
+Jauro Sent	Ardo-Kola	Taraba	8.822	11.286	2	
+Ijora Village	Apapa	Lagos	6.467	3.367	2	New Ijora Settlement
+Ibibio Palm Tapper Settlement	Akuku Toru	Rivers	4.746	6.638	2	
+Gbokutaru-Sewu	Ijebu North	Ogun	7.045	4.148	2	Gbokutaru Sewu
+Duba Sarikin Pawa	Goronyo	Sokoto	13.502	5.929	2	Duba Serikin Pawa|Duban Sarkin Pawa|Gidan Sarkin Pawa
+Dagel Sere	Kaga	Borno	11.438	12.471	2	
+Seyi	Gabasawa	Kano	12.265	8.895	2	Badawa
+Aladere-Ode	Asa	Kwara	8.322	4.459	2	Aladere Ode|Seidu
+Seriki	Akinyele	Oyo	7.510	3.919	2	
+Senimikiri	Akuku Toru	Rivers	4.484	6.575	2	
+Segikiri	Akuku Toru	Rivers	4.468	6.692	2	
+Settlement Isioba	Ikwerre	Rivers	4.915	6.907	2	
+Seidu	Shagamu	Ogun	6.724	3.514	2	
+Sefu-Sote	Obafemi Owode	Ogun	6.756	3.400	2	
+Otwa Sebe	Owan East	Edo	7.063	6.129	2	
+Seriki	Gwer West	Benue	7.692	8.085	2	
+Seriki	Gwer West	Benue	7.736	8.126	2	
+Sejen	Ovia South-West	Edo	6.472	5.266	2	
+Gidan Seria	Birnin Gwari	Kaduna	10.605	6.180	2	
+Obodo-Omadino Farm Settlement	Warri South	Delta	5.644	5.658	2	
+Seidogbene	Southern Ijaw	Bayelsa	4.794	5.697	2	
+Sesoya	Borgu	Niger	10.393	3.869	2	
+Awomama Catholic Seminary	Oru East	Imo	5.658	6.943	2	
+Sekingbene	Sagbama	Bayelsa	5.229	6.228	2	
+Seikir Gbene	Patani	Delta	5.176	6.138	2	
+Ohaji Farm Settlement	Ohaji/Egbema	Imo	5.442	6.831	2	
+Ihie Farm Settlement	Ohaji/Egbema	Imo	5.278	6.825	2	
+Mbiri Farm Settlement	Ika North East	Delta	6.338	6.275	2	
+Okpaga	Ayamelum	Anambra	6.430	6.929	2	Okpaga Farm Settlement
+Ahoada West	Ahoada West	Rivers	5.086	6.471	2	Agbegbe Ijoba Ibile Iwoorun Ahoada|Ahoada Oeste|Ahoada Ouest|Ahoada ta Yamma|Se Ahoada|ghrb ahwada
+Anambra West	Anambra West	Anambra	6.359	6.750	2	Agbegbe Ijoba Ibile Iwoorun Anambra|Anambra Ouest|Anambra ta Yamma|Anambra-Oeste|Se Anambra|anambra ghrby
+Ethiope West	Ethiope West	Delta	5.920	5.729	2	Ethiope Ouest|Ethiope ta Yamma|Se Ethiope|merku ettiyoppiyan
+Isoko North	Isoko North	Delta	5.525	6.234	2	Isoco Setentrional|Isoko Nord|Isoko ta Arewa|Pak Isoko
+Ndokwa West	Ndokwa West	Delta	5.773	6.392	2	Ndokwa Ouest|Ndokwa ta Yamma|Se Ndokwa
+Oru West	Oru West	Imo	5.742	6.911	2	Agbegbe Ijoba Ibile Iwoorun Oru|Oru Oeste|Oru Ouest|Oru ta Yamma|Se Oru
+Owerri West	Owerri West	Imo	5.432	6.980	2	Agbegbe Ijoba Ibile Iwoorun Owerri|Owerri Ouest|Owerri ta Yamma|Se Owerri|owerri west|xioueri
+Yagba West	Yagba West	Kogi	8.296	5.527	2	Se Yagba|Yagba Oeste|Yagba Ouest|Yagba ta Yamma
+Saki West	Saki West	Oyo	8.570	3.147	2	Iwooorun Saki|Saki Ouest|Saki ta Yamma|Se Saki
+Ukwa West	Ukwa West	Abia	4.954	7.239	2	Agbegbe Ijoba Ibile Iwoorun Ukwa|Se Ukwa|Ukwa Ouest|Ukwa ta Yamma|Zakhidna Ukva
+Ovia South-West	Ovia South-West	Edo	6.396	5.272	2	Ovia South West|Ovia Sud Ouest|Ovia ta Kudu maso Yamma|Se-lam Ovia
+Nkanu West	Nkanu West	Enugu	6.311	7.509	2	Agbegbe Ijoba Ibile Iwoorun Nkanu|Nkanu Oeste|Nkanu ta Yamma|Se Nkanu
+Ekiti West	Ekiti West	Ekiti	7.687	5.028	2	Agbegbe Ijoba Ibile Iwoorun Ekiti|Ekiti Ouest|Ekiti West Local Government Area|Ekiti ta Yamma|Se Ekiti
+Ondo West	Ondo West	Ondo	7.016	4.746	2	Ondo Ouest|Ondo West Local Government Area|Ondo ta Yamma|Se Ondo
+Esan West	Esan West	Edo	6.662	6.129	2	Esan Ouest|Esan West Local Government Area|Esan ta Yamma|Se Esan
+Dadin Kowa Semo	Fika	Yobe	11.235	11.146	2	
+Ezza Settlement	Ebonyi	Ebonyi	6.405	8.080	2	
+Dabai Seme	Zuru	Kebbi	11.434	5.102	2	
+Senchi	Zuru	Kebbi	11.296	5.077	2	
+Segeadum	Buruku	Benue	7.552	9.057	2	
+See	Buruku	Benue	7.561	9.113	2	
+Sega	Wukari	Taraba	7.844	9.808	2	
+Sev	Ukum	Benue	7.601	9.724	2	
+Sendetyo	Buruku	Benue	7.439	9.148	2	
+Sendem	Buruku	Benue	7.363	9.243	2	
+Sendem	Buruku	Benue	7.366	9.256	2	
+Semaka	Katsina-Ala	Benue	7.272	9.370	2	
+Seta	Katsina-Ala	Benue	7.264	9.423	2	
+Sende	Gboko	Benue	7.493	8.860	2	
+Sena	Gboko	Benue	7.360	8.848	2	
+Senekubo	Brass	Bayelsa	4.425	6.053	2	
+Sekikiri	Nembe	Bayelsa	4.473	6.237	2	
+Terminus Settlement	Brass	Bayelsa	4.298	6.241	2	
+Sebekiri	Brass	Bayelsa	4.323	6.403	2	
+Seegbe	Bosso	Niger	9.708	6.610	2	
+Wuro Sete	Mayo-Belwa	Adamawa	8.915	12.103	2	
+Seriki-Aro	Ikeja	Lagos	6.606	3.342	2	
+Seriki-Okuta	Shomolu	Lagos	6.543	3.396	2	
+Idumu-Selu Two	Esan South-East	Edo	6.514	6.350	2	
+Idumu-Selu One	Esan South-East	Edo	6.510	6.330	2	
+Senti Na Mallam	Ardo-Kola	Taraba	8.790	11.162	2	
+Gidan Seriki Numa	Gassol	Taraba	8.526	10.476	2	
+Sedia	Wase	Plateau	8.686	9.950	2	
+Sesumogbene	Southern Ijaw	Bayelsa	4.618	5.807	2	
+Selbere	Fufore	Adamawa	9.051	12.214	2	
+Sella	Mayo-Belwa	Adamawa	9.160	11.926	2	
+Garin Hamma Seyo	Akko	Gombe	9.967	11.000	2	
+Seben	Karim Lamido	Taraba	9.474	11.221	2	
+Seriki	Obafemi Owode	Ogun	7.035	3.365	2	
+Sebioyo	Ona Ara	Oyo	7.247	4.014	2	
+Seleru	Ijebu North	Ogun	7.006	4.011	2	
+Sekona	Irewole	Osun	7.482	4.201	2	
+Seje II	Badagry	Lagos	6.431	2.879	2	
+Setame	Ipokia	Ogun	6.536	2.805	2	
+Seje Camp	Ipokia	Ogun	6.514	2.840	2	
+Semde	Fufore	Adamawa	9.272	12.618	2	
+Seriki Sofo	Baruten	Kwara	9.726	3.378	2	
+Serikin-Gando	Baruten	Kwara	9.513	3.208	2	
+Seja-Oke	Ilaje	Ondo	6.186	4.684	2	
+Abalala Seaside	Ilaje	Ondo	6.203	4.661	2	
+Sev	Obi	Nasarawa	8.287	8.528	2	
+Saki Clan Settlement	Saki West	Oyo	8.620	3.411	2	
+Sekunde-Igbomina	Ife South	Osun	7.219	4.608	2	
+Sekunde-Ibadan	Ife South	Osun	7.222	4.608	2	
+Senge	Atakunmosa West	Osun	7.298	4.721	2	
+Seran	Ondo West	Ondo	7.059	4.718	2	
+Sekuderu	Asa	Kwara	8.490	4.327	2	
+Sekete	Surulere	Oyo	8.030	4.411	2	
+Seriki	Ibarapa North	Oyo	7.596	3.051	2	
+Onikun-Sendu	Ibarapa North	Oyo	7.630	3.171	2	
+Senge	Asa	Kwara	8.205	4.572	2	
+Sekongba	Oyun	Kwara	8.144	4.614	2	
+Serin	Afijio	Oyo	7.792	3.757	2	
+Senumona	Atiba	Oyo	7.983	3.942	2	
+Angwan-Seriki	Doma	Nasarawa	8.384	8.466	2	
+Semla	Song	Adamawa	9.837	12.416	2	
+Sekwa	Katcha	Niger	8.870	6.208	2	
+Sechi	Katcha	Niger	8.953	6.279	2	
+Serki Dole	Kaiama	Kwara	9.668	4.061	2	SerkiDole
+Sekua	Kurmi	Taraba	6.993	10.798	2	
+Seke-Raji	Afijio	Oyo	7.728	4.001	2	
+Seke-Odofin	Afijio	Oyo	7.726	4.006	2	
+Sentare	Jada	Adamawa	8.544	12.369	2	
+Federal Secretariat Road	Eti Osa	Lagos	6.457	3.421	1	
+Second Erie Lane	Oredo	Edo	6.329	5.631	1	
+Second West Circular Road	Oredo	Edo	6.354	5.612	1	
+Abiola Segun Ajayi Street	Eti Osa	Lagos	6.433	3.437	1	
+Old Secretariat Rd	Calabar Municipal	Cross River	4.970	8.327	1	
+Selesi Street	Shomolu	Lagos	6.548	3.376	1	
+Seke Abimbola Street	Oshodi/Isolo	Lagos	6.515	3.308	1	
+Sere Close	Mushin	Lagos	6.550	3.364	1	
+Segun Omolale Street	Oshodi/Isolo	Lagos	6.515	3.316	1	
+Segun Kujore Street	Kosofe	Lagos	6.609	3.373	1	
+Segun Sonaike Close	Ifo	Ogun	6.642	3.379	1	
+Seriki Aro Avenue	Ikeja	Lagos	6.602	3.339	1	
+Old Secretariat Road	Ikeja	Lagos	6.587	3.344	1	
+Segun Majekodunmi Street	Alimosho	Lagos	6.607	3.300	1	
+Sebiotimo Street	Agege	Lagos	6.610	3.328	1	
+Seed Education Center Road	Eti Osa	Lagos	6.439	3.490	1	
+Sefadu Street	Municipal Area Council	FCT Abuja	9.067	7.481	1	
+Senanga Street	Municipal Area Council	FCT Abuja	9.062	7.463	1	
+Seine Close	Municipal Area Council	FCT Abuja	9.091	7.482	1	
+Sentinel Crescent	Municipal Area Council	FCT Abuja	9.030	7.463	1	
+Segun Festus Oluwa Street	Municipal Area Council	FCT Abuja	9.072	7.442	1	
+Sen. Isa Kachiko Road	Tarauni	Kano	11.979	8.553	1	
+Second Ewemade Street	Egor	Edo	6.358	5.574	1	
+Secretariat Road	Jos North	Plateau	9.892	8.877	1	
+fire service road	Jos North	Plateau	9.925	8.888	1	
+Secretariat Road	Wamako	Sokoto	13.022	5.242	1	
+Seriki Street	Shomolu	Lagos	6.540	3.397	1	
+Red Sea Close	Municipal Area Council	FCT Abuja	9.084	7.482	1	
+Safuratu Sekoni Street	Shomolu	Lagos	6.548	3.392	1	Morenikeji Street
+Alhaji Sekoni Street	Olorunda	Osun	7.791	4.559	1	
+University Senior Staff Quarters Road	Ilorin South	Kwara	8.467	4.643	1	
+Seidu Toriola	Alimosho	Lagos	6.625	3.291	1	
+Segun Famuwagun Street	Alimosho	Lagos	6.636	3.285	1	
+Secretariat Quarters Road	Enugu North	Enugu	6.450	7.505	1	
+Seminary School Road	Enugu North	Enugu	6.426	7.489	1	
+Secretariat Road	Enugu North	Enugu	6.445	7.490	1	
+Second Avenue	Enugu North	Enugu	6.451	7.518	1	
+Fire Service Road	Enugu South	Enugu	6.418	7.487	1	
+Secretariate Road 4	Enugu North	Enugu	6.442	7.486	1	
+Federal Inland Revenue Service Road	Enugu North	Enugu	6.442	7.486	1	
+Secretariate Road 3	Enugu North	Enugu	6.444	7.487	1	
+Federal Secretariat Road	Enugu North	Enugu	6.431	7.516	1	
+Seventy Four Close	Enugu South	Enugu	6.398	7.504	1	
+Second Avenue Close	Enugu North	Enugu	6.451	7.519	1	
+Secretariate Road	Enugu North	Enugu	6.446	7.486	1	
+BUK Second gate	Gwale	Kano	11.976	8.471	1	
+Seni Adeoye S Street	Ogbomosho North	Oyo	8.117	4.232	1	
+Permanent Secretary Quarters	Enugu North	Enugu	6.448	7.522	1	
+Serah Awa Street	Enugu North	Enugu	6.463	7.575	1	
+Seriki Aro Link	Ikeja	Lagos	6.598	3.341	1	
+Ayo Seriki Crescent	Alimosho	Lagos	6.584	3.288	1	
+Segun Oshin Close	Eti Osa	Lagos	6.455	3.478	1	
+Ademola Sewoniku Close	Eti Osa	Lagos	6.487	3.583	1	
+Osun State Government Secretariat Round About	Ede North	Osun	7.733	4.515	1	
+Nigeria Immigration Services Road	Ede North	Osun	7.752	4.526	1	
+Secretariat Road	Ibadan North	Oyo	7.398	3.917	1	
+Olabisi Seriki Street	Eti Osa	Lagos	6.476	3.657	1	
+Secretariat road	Umuahia North	Abia	5.521	7.508	1	
+Olakunle Selesi Crescent	Oshodi/Isolo	Lagos	6.548	3.330	1	
+Seriki Abass Crescent	Oshodi/Isolo	Lagos	6.544	3.332	1	
+State Secretariat Road	Umuahia North	Abia	5.521	7.507	1	
+Segun Salau Street	Kosofe	Lagos	6.609	3.387	1	
+Sebastian Street	Kosofe	Lagos	6.614	3.373	1	
+Sedenu Avenue	Obio/Akpor	Rivers	4.876	6.996	1	
+Serti Street	Yola South	Adamawa	9.265	12.459	1	
+Senator Akin Olasunkanmi St	Kosofe	Lagos	6.621	3.383	1	
+Adebowale Senbanjo Street	Kosofe	Lagos	6.617	3.373	1	
+Seidu Okeleji Street	Alimosho	Lagos	6.651	3.276	1	
+Sere Ejembi Cl	Kosofe	Lagos	6.627	3.367	1	
+Sesan Ajayi Ln	Ifo	Ogun	6.678	3.299	1	
+Second Avenue	Ado Odo/Ota	Ogun	6.691	3.279	1	
+Segun Onamade Street	Ìkòròdú	Lagos	6.644	3.491	1	
+Selems Street	Akure North	Ondo	7.261	5.216	1	
+St. Peters' unity sec. school Road	Akure South	Ondo	7.258	5.185	1	
+Ijapo Second Gate	Akure North	Ondo	7.271	5.215	1	
+Seinde Callisto Street	Oshodi/Isolo	Lagos	6.553	3.342	1	
+Second Avenue	Obio/Akpor	Rivers	4.810	6.977	1	2nd Avenue
+New Secretariate Road	Adó-Èkìtì	Ekiti	7.635	5.201	1	
+Secretariate Road	Adó-Èkìtì	Ekiti	7.630	5.209	1	
+Second Gate	Akure North	Ondo	7.259	5.251	1	
+Segun Fagbohun Close	Eti Osa	Lagos	6.477	3.658	1	
+Secretariat Gate 2	Ede North	Osun	7.728	4.512	1	
+Senator Isiaka Adetunji Adeleke Free Way	Osogbo	Osun	7.777	4.544	1	
+Cherubim and Seraphim St	Esan West	Edo	6.755	6.056	1	
+Sekona Grammar School	Ede South	Osun	7.637	4.444	1	
+Senu Abel Crescent	Badagry	Lagos	6.431	2.902	1	
+a.a services road	Gombe	Gombe	10.274	11.164	1	
+State Secrtariat Road	Umuahia North	Abia	5.522	7.502	1	
+Gwale Secretariat Road	Gwale	Kano	11.985	8.505	1	
+Selewu Road	Ìkòròdú	Lagos	6.582	3.527	1	
+Segun Amokeodo Crescent	Eti Osa	Lagos	6.494	3.591	1	
+Seliu Oje Street	Alimosho	Lagos	6.527	3.268	1	
+Sedenu Mews	Obio/Akpor	Rivers	4.876	6.996	1	
+University Senior Staff Quarters Road	Ilorin South	Kwara	8.476	4.641	1	
+Segun Ajanakun Crescent	Eti Osa	Lagos	6.506	3.598	1	
+Senate Building Road	Akure South	Ondo	7.301	5.140	1	
+Sebe Road	Enugu North	Enugu	6.428	7.459	1	
+Second East Circular Road	Ikpoba-Okha	Edo	6.340	5.639	1	
+Senrolu Street	Eti Osa	Lagos	6.425	3.442	1	
+Second Niger Bridge	Ogbaru	Anambra	6.117	6.762	1	Second Onitsha Bridge
+Cherubim & Seraphim Road	Ovia North-East	Edo	6.451	5.608	1	
+Ibadan Circular Road	Ona Ara	Oyo	7.335	4.047	1	South East segment Ibadan circular road
+Seyi Oluwatade Street	Oredo	Edo	6.241	5.583	1	
+Seaplane Road	Apapa	Lagos	6.439	3.377	1	
+sendero peatonal	Yola North	Adamawa	9.297	12.230	1	
+Ibadan Circular Road	Egbeda	Oyo	7.367	4.071	1	South East segment Ibadan circular road
+Fed secretariat road	Gombe	Gombe	10.289	11.136	1	
+Ibadan Circular Road	Oluyole	Oyo	7.238	3.838	1	South East segment Ibadan circular road
+Sebiotimo Street	Ado Odo/Ota	Ogun	6.711	3.165	1	
+second street	Dange-Shuni	Sokoto	12.934	5.318	1	
+service road to the Veritas University gate	Bwari	FCT Abuja	9.289	7.417	1	
+Ibadan Circular Road	Egbeda	Oyo	7.364	4.067	1	South East segment Ibadan circular road
+Ibadan Circular Road	Egbeda	Oyo	7.348	4.061	1	South East segment Ibadan circular road
+Secretariat Road	Wamako	Sokoto	13.017	5.228	1	
+Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
 Kings Citadel Seminary School	Egor	Edo	6.365	5.625	0	
 Osimike Health Service	Egor	Edo	6.378	5.635	0	
 Harvesters Int'l Theological Seminary	Oredo	Edo	6.331	5.626	0	
@@ -52,19 +379,12 @@ Oredo Girls Junior/ Senior Secondary School	Oredo	Edo	6.324	5.630	0
 Young ScholarAcademy Secondry School	Oredo	Edo	6.330	5.599	0	
 Sure mercies eye clinic & services	Enugu North	Enugu	6.450	7.493	0	
 Secretariat Stop	Ibadan North	Oyo	7.409	3.911	0	
-Sudagu	Nganzai	Borno	12.527	13.029	2	Sedagu
-Senenak	Jere	Borno	12.061	13.105	2	
-Secretariat Junction	Jos North	Plateau	9.891	8.879	2	
-Federal Secretary Quarters	Maiduguri	Borno	11.831	13.118	2	
-Jauro Seini	Shani	Borno	10.129	11.783	2	
 Iya Segun bus stop	Alimosho	Lagos	6.499	3.245	0	
-Maridi Peulh (Sehendou)	Maïné Soroa	Yobe	13.347	11.608	2	
 Girls Seconadry School	Owerri Municipal	Imo	5.487	7.021	0	
 Taurari Trend Setters School	Kaduna North	Kaduna	10.552	7.456	0	
-point seven Pandaya 1 Gona Div.	Yamaltu/Deba	Gombe	10.200	11.237	2	
 SCIENCE PROJECT PRI and SEC SCHOOL, UNGUWA UKU	Tarauni	Kano	11.958	8.562	0	
-GOVT SEC SCH KUNDILA	Tarauni	Kano	11.965	8.556	0	
-INTERCONTINENTAL SCHOOLS, SEC	Tarauni	Kano	11.979	8.554	0	
+Govt Sec Sch Kundila	Tarauni	Kano	11.965	8.556	0	
+Intercontinental Schools, Sec	Tarauni	Kano	11.979	8.554	0	
 Senior Staff Cop Filling Station	Warri South	Delta	5.545	5.744	0	
 Mother of Redeemer Cat. Sec School	Uvwie	Delta	5.549	5.781	0	
 Holy Martyrs of Uganda Seminary	Uvwie	Delta	5.547	5.782	0	
@@ -89,7 +409,6 @@ Gombe State Transport Services (Gombe Line)	Gombe	Gombe	10.287	11.165	0
 St. James School African Church School,Seriki	Shagamu	Ogun	6.686	3.580	0	
 St. James School African Church School,Seriki	Ifo	Ogun	6.812	3.246	0	
 Total - Numan Ferry Service Station	Numan	Adamawa	9.469	12.031	0	
-Ohaji Farm Settlement	Ohaji/Egbema	Imo	5.460	6.828	2	
 University Health Service, Jaja Clinic, UI	Ibadan North	Oyo	7.443	3.901	0	
 Secretariat Staff Clinic , Total Garden road	Ibadan North	Oyo	7.411	3.908	0	
 Professor seddi sabastine Maimako faculty of management sciences	Jos North	Plateau	9.966	8.879	0	
@@ -125,22 +444,19 @@ Serenity and Wellbeing Health Care Services	Jos North	Plateau	9.895	8.887	0
 Outreach Medical Service	Amuwo Odofin	Lagos	6.421	3.245	0	
 Optimum Diagnostics & Clinical Services	Bauchi	Bauchi	10.320	9.828	0	
 kingfield diagnostic services	Kosofe	Lagos	6.607	3.422	0	
-AISHATU BEST ACADEMY (SENIOR)	Ungongo	Kano	12.042	8.571	0	
-WISDOM INTERNATIONAL JUNIOR SEC. SCH.	Ungongo	Kano	12.044	8.572	0	
-NASHRUL ULUMI AL-ISLAMIYYA PRIMARY SEC.DORAYI KARAMA	Gwale	Kano	11.964	8.480	0	
-GOV'T SECOND SCHOOL DORAYI KARAMA	Gwale	Kano	11.968	8.473	0	
-Segpe	Southern Ijaw	Bayelsa	4.552	5.818	2	
+Aishatu Best Academy (Senior)	Ungongo	Kano	12.042	8.571	0	
+Wisdom International Junior Sec. Sch.	Ungongo	Kano	12.044	8.572	0	
+Nashrul Ulumi Al-Islamiyya Primary Sec.Dorayi Karama	Gwale	Kano	11.964	8.480	0	
+Gov'T Second School Dorayi Karama	Gwale	Kano	11.968	8.473	0	
 Mustard Seed Nursery And Primary School	Jos North	Plateau	9.936	8.919	0	
-Seitoro Camp	Burutu	Delta	5.191	5.558	2	
 second rainbow landing	Amuwo Odofin	Lagos	6.426	3.262	0	
 Ayedere Ajibola Junior Secoundary School	Kosofe	Lagos	6.609	3.388	0	
 Ayedere Ajibola Sernior High School.	Kosofe	Lagos	6.607	3.388	0	
 Senior Secondary School Danialu, Agbabiaka Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.458	4.612	0	
 Dr. Bash Medical Care And Services	Bauchi	Bauchi	10.317	9.819	0	
 Fire Service	Enugu North	Enugu	6.459	7.510	0	
-Secreteriat	Enugu North	Enugu	6.443	7.486	2	
 second badagry	Ajeromi/Ifelodun	Lagos	6.441	3.349	0	
-NNPC MULTISPECIALTY HOSPITAL SERVICES	Municipal Area Council	FCT Abuja	9.064	7.446	0	
+Nnpc Multispecialty Hospital Services	Municipal Area Council	FCT Abuja	9.064	7.446	0	
 Ojo Senior High School	Ojo	Lagos	6.453	3.218	0	
 Osolu Junior and Senior High School	Ojo	Lagos	6.417	3.144	0	
 Methodist Senior High School, Badagry	Badagry	Lagos	6.413	2.899	0	
@@ -154,132 +470,20 @@ Head Of Service Bus Stop	Municipal Area Council	FCT Abuja	9.058	7.503	0
 Bridge Global Services Solutions	Municipal Area Council	FCT Abuja	9.076	7.399	0	
 Cyber Security Department	Kaduna North	Kaduna	10.611	7.446	0	
 Martha medical services	Yenegoa	Bayelsa	4.965	6.368	0	
-Seme Border	Badagry	Lagos	6.382	2.722	2	
 Lagos State Senior Model College, Kankon	Badagry	Lagos	6.421	2.759	0	
 Senate Building	Ede South	Osun	7.681	4.458	0	
-Federal Secretariat Road	Eti Osa	Lagos	6.457	3.421	1	
-Second Erie Lane	Oredo	Edo	6.329	5.631	1	
-Second West Circular Road	Oredo	Edo	6.354	5.612	1	
 Uzebu Community Secretariat	Oredo	Edo	6.340	5.611	0	
 TMJ Education Service	Oredo	Edo	6.311	5.609	0	
-Abiola Segun Ajayi Street	Eti Osa	Lagos	6.433	3.437	1	
-Old Secretariat Rd	Calabar Municipal	Cross River	4.970	8.327	1	
-Selesi Street	Shomolu	Lagos	6.548	3.376	1	
-Seke Abimbola Street	Oshodi/Isolo	Lagos	6.515	3.308	1	
-Sere Close	Mushin	Lagos	6.550	3.364	1	
-Segun Omolale Street	Oshodi/Isolo	Lagos	6.515	3.316	1	
-Segun Kujore Street	Kosofe	Lagos	6.609	3.373	1	
-Segun Sonaike Close	Ifo	Ogun	6.642	3.379	1	
-Seriki Aro Avenue	Ikeja	Lagos	6.602	3.339	1	
-Old Secretariat Road	Ikeja	Lagos	6.587	3.344	1	
-Segun Majekodunmi Street	Alimosho	Lagos	6.607	3.300	1	
-Sebiotimo Street	Agege	Lagos	6.610	3.328	1	
-Seed Education Center Road	Eti Osa	Lagos	6.439	3.490	1	
-Sefadu Street	Municipal Area Council	FCT Abuja	9.067	7.481	1	
-Senanga Street	Municipal Area Council	FCT Abuja	9.062	7.463	1	
-Seine Close	Municipal Area Council	FCT Abuja	9.091	7.482	1	
-Sentinel Crescent	Municipal Area Council	FCT Abuja	9.030	7.463	1	
-Segun Festus Oluwa Street	Municipal Area Council	FCT Abuja	9.072	7.442	1	
-Sen. Isa Kachiko Road	Tarauni	Kano	11.979	8.553	1	
-OSIMIKE HEALTH SERVICE	Egor	Edo	6.378	5.635	0	
-Second Ewemade Street	Egor	Edo	6.358	5.574	1	
-Secretariat Road	Jos North	Plateau	9.892	8.877	1	
-fire service road	Jos North	Plateau	9.925	8.888	1	
-Secretariat Road	Wamako	Sokoto	13.022	5.242	1	
-Secretariat Road	Jos North	Plateau	9.898	8.872	1	
-Seriki Street	Shomolu	Lagos	6.540	3.397	1	
-Red Sea Close	Municipal Area Council	FCT Abuja	9.084	7.482	1	
-Safuratu Sekoni Street	Shomolu	Lagos	6.548	3.392	1	Morenikeji Street
-Alhaji Sekoni Street	Olorunda	Osun	7.791	4.559	1	
-University Senior Staff Quarters Road	Ilorin South	Kwara	8.467	4.643	1	
-Seidu Toriola	Alimosho	Lagos	6.625	3.291	1	
-Segun Famuwagun Street	Alimosho	Lagos	6.636	3.285	1	
-Secretariat Quarters Road	Enugu North	Enugu	6.450	7.505	1	
-Seminary School Road	Enugu North	Enugu	6.426	7.489	1	
-Secretariat Road	Enugu North	Enugu	6.445	7.490	1	
-Second Avenue	Enugu North	Enugu	6.451	7.518	1	
-Fire Service Road	Enugu South	Enugu	6.418	7.487	1	
-Secretariate Road 4	Enugu North	Enugu	6.442	7.486	1	
-Federal Inland Revenue Service Road	Enugu North	Enugu	6.442	7.486	1	
-Secretariate Road 3	Enugu North	Enugu	6.444	7.487	1	
-Federal Secretariat Road	Enugu North	Enugu	6.431	7.516	1	
-Seventy Four Close	Enugu South	Enugu	6.398	7.504	1	
-Secretariat Road	Enugu North	Enugu	6.444	7.488	1	
-Second Avenue Close	Enugu North	Enugu	6.451	7.519	1	
-Secretariate Road	Enugu North	Enugu	6.446	7.486	1	
-BUK Second gate	Gwale	Kano	11.976	8.471	1	
-Seni Adeoye S Street	Ogbomosho North	Oyo	8.117	4.232	1	
-Secreteriat	Enugu North	Enugu	6.449	7.485	2	
-Secretariat Road	Enugu North	Enugu	6.449	7.503	1	
-Permanent Secretary Quarters	Enugu North	Enugu	6.448	7.522	1	
-Serah Awa Street	Enugu North	Enugu	6.463	7.575	1	
-Seriki Aro Link	Ikeja	Lagos	6.598	3.341	1	
-HAUSAWA MODELBOYS SEC SCHOOL	Tarauni	Kano	11.965	8.540	0	
+Hausawa Modelboys Sec School	Tarauni	Kano	11.965	8.540	0	
 Security Office	Ungongo	Kano	11.968	8.429	0	
-Ayo Seriki Crescent	Alimosho	Lagos	6.584	3.288	1	
-Segun Oshin Close	Eti Osa	Lagos	6.455	3.478	1	
-Ademola Sewoniku Close	Eti Osa	Lagos	6.487	3.583	1	
-Osun State Government Secretariat Round About	Ede North	Osun	7.733	4.515	1	
-Nigeria Immigration Services Road	Ede North	Osun	7.752	4.526	1	
-Secretariat Road	Ibadan North	Oyo	7.398	3.917	1	
-Olabisi Seriki Street	Eti Osa	Lagos	6.476	3.657	1	
-Secretariat road	Umuahia North	Abia	5.521	7.508	1	
-Olakunle Selesi Crescent	Oshodi/Isolo	Lagos	6.548	3.330	1	
-Seriki Abass Crescent	Oshodi/Isolo	Lagos	6.544	3.332	1	
-State Secretariat Road	Umuahia North	Abia	5.521	7.507	1	
-Segun Salau Street	Kosofe	Lagos	6.609	3.387	1	
-Sebastian Street	Kosofe	Lagos	6.614	3.373	1	
-Sedenu Avenue	Obio/Akpor	Rivers	4.876	6.996	1	
 Bonus Pastor (Catholic) Junior Seminar and Secondary School	Ideato North	Imo	5.876	7.094	0	
-Serti Street	Yola South	Adamawa	9.265	12.459	1	
-Senator Akin Olasunkanmi St	Kosofe	Lagos	6.621	3.383	1	
-Adebowale Senbanjo Street	Kosofe	Lagos	6.617	3.373	1	
 Sea School	Amuwo Odofin	Lagos	6.428	3.351	0	
-Seidu Okeleji Street	Alimosho	Lagos	6.651	3.276	1	
-Sere Ejembi Cl	Kosofe	Lagos	6.627	3.367	1	
-Sesan Ajayi Ln	Ifo	Ogun	6.678	3.299	1	
-Second Avenue	Ado Odo/Ota	Ogun	6.691	3.279	1	
-Segun Onamade Street	Ìkòròdú	Lagos	6.644	3.491	1	
-Selems Street	Akure North	Ondo	7.261	5.216	1	
-St. Peters' unity sec. school Road	Akure South	Ondo	7.258	5.185	1	
-Ijapo Second Gate	Akure North	Ondo	7.271	5.215	1	
-Seinde Callisto Street	Oshodi/Isolo	Lagos	6.553	3.342	1	
-Second West Circular Road	Egor	Edo	6.361	5.615	1	
-Second Avenue	Obio/Akpor	Rivers	4.810	6.977	1	2nd Avenue
-New Secretariate Road	Adó-Èkìtì	Ekiti	7.635	5.201	1	
-Secretariate Road	Adó-Èkìtì	Ekiti	7.630	5.209	1	
-Second Gate	Akure North	Ondo	7.259	5.251	1	
-Segun Fagbohun Close	Eti Osa	Lagos	6.477	3.658	1	
-Secretariat Gate 2	Ede North	Osun	7.728	4.512	1	
-Senator Isiaka Adetunji Adeleke Free Way	Osogbo	Osun	7.777	4.544	1	
-Cherubim and Seraphim St	Esan West	Edo	6.755	6.056	1	
-Sekona Grammar School	Ede South	Osun	7.637	4.444	1	
-Senu Abel Crescent	Badagry	Lagos	6.431	2.902	1	
-a.a services road	Gombe	Gombe	10.274	11.164	1	
-Secretariat road	Umuahia North	Abia	5.525	7.510	1	
-State Secrtariat Road	Umuahia North	Abia	5.522	7.502	1	
-Gwale Secretariat Road	Gwale	Kano	11.985	8.505	1	
-Olabisi Seriki Street	Eti Osa	Lagos	6.474	3.658	1	
-Selewu Road	Ìkòròdú	Lagos	6.582	3.527	1	
-Segun Amokeodo Crescent	Eti Osa	Lagos	6.494	3.591	1	
-Seliu Oje Street	Alimosho	Lagos	6.527	3.268	1	
-Sedenu Mews	Obio/Akpor	Rivers	4.876	6.996	1	
-University Senior Staff Quarters Road	Ilorin South	Kwara	8.476	4.641	1	
-Segun Ajanakun Crescent	Eti Osa	Lagos	6.506	3.598	1	
-Senate Building Road	Akure South	Ondo	7.301	5.140	1	
-Sebe Road	Enugu North	Enugu	6.428	7.459	1	
-Second East Circular Road	Ikpoba-Okha	Edo	6.340	5.639	1	
-Second East Circular Road	Ikpoba-Okha	Edo	6.323	5.635	1	
-Senrolu Street	Eti Osa	Lagos	6.425	3.442	1	
 Obafemi Awolowo University Service Station	Ife North	Osun	7.498	4.524	0	
-Second Niger Bridge	Ogbaru	Anambra	6.117	6.762	1	Second Onitsha Bridge
-Cherubim & Seraphim Road	Ovia North-East	Edo	6.451	5.608	1	
 Ayangburen Senior High School	Ìkòròdú	Lagos	6.619	3.502	0	
 Lagos State Civil Service College	Ìkòròdú	Lagos	6.596	3.518	0	
 Oriwu Senior Model College	Ìkòròdú	Lagos	6.605	3.518	0	
 Ikosi Senior High School	Kosofe	Lagos	6.598	3.381	0	
 Babington Macaulay Junior Seminary	Ìkòròdú	Lagos	6.639	3.600	0	BMJS
-Ibadan Circular Road	Ona Ara	Oyo	7.335	4.047	1	South East segment Ibadan circular road
 Ansar Ud Deen Senior Grammar School	Ìkòròdú	Lagos	6.654	3.670	0	
 Community Junior & Senior Grammar School, Gberigbe	Ìkòròdú	Lagos	6.605	3.619	0	
 Cherubim & Seraphim Primary School, Majidun	Ìkòròdú	Lagos	6.617	3.478	0	
@@ -288,26 +492,9 @@ Ipakodo Junior / Senior Grammar School	Ìkòròdú	Lagos	6.610	3.485	0
 Senate Bus Stop	Akure South	Ondo	7.302	5.140	0	
 Ikorodu Senior Grammar School	Ìkòròdú	Lagos	6.619	3.519	0	
 Seventh-day Adventist Hospital and Motherless Babies' Home, ABA	Aba North	Abia	5.123	7.385	0	
-Seyi Oluwatade Street	Oredo	Edo	6.241	5.583	1	
 MacJob Junior Sec. School	Abeokuta South	Ogun	7.122	3.336	0	
 University Health Services Fed University Of Technology Minna	Chanchaga	Niger	9.653	6.529	0	
 Secondary Technical School, Ofeme (SETESCO)	Umuahia North	Abia	5.640	7.435	0	
-Seaplane Road	Apapa	Lagos	6.439	3.377	1	
-Second Niger Bridge	Oshimili South	Delta	6.122	6.749	1	Second Onitsha Bridge
-sendero peatonal	Yola North	Adamawa	9.297	12.230	1	
 LEA Primary, Junior and Senior Secondary School Kuchigoro	Municipal Area Council	FCT Abuja	9.014	7.419	0	
-Ibadan Circular Road	Egbeda	Oyo	7.367	4.071	1	South East segment Ibadan circular road
-Ibadan Circular Road	Ona Ara	Oyo	7.333	4.044	1	South East segment Ibadan circular road
 St louis girls secoundary school	Jos North	Plateau	9.926	8.880	0	
-Fed secretariat road	Gombe	Gombe	10.289	11.136	1	
-Ibadan Circular Road	Oluyole	Oyo	7.238	3.838	1	South East segment Ibadan circular road
-Sebiotimo Street	Ado Odo/Ota	Ogun	6.711	3.165	1	
 Reri Secoundry School	Ìkòròdú	Lagos	6.539	3.518	0	
-second street	Dange-Shuni	Sokoto	12.934	5.318	1	
-service road to the Veritas University gate	Bwari	FCT Abuja	9.289	7.417	1	
-Ibadan Circular Road	Egbeda	Oyo	7.364	4.067	1	South East segment Ibadan circular road
-Ibadan Circular Road	Egbeda	Oyo	7.348	4.061	1	South East segment Ibadan circular road
-Ibadan Circular Road	Egbeda	Oyo	7.352	4.065	1	South East segment Ibadan circular road
-Secretariat Road	Wamako	Sokoto	13.017	5.228	1	
-Senchi	Zuru	Kebbi	11.295	5.076	2	
-Dabai Seme	Zuru	Kebbi	11.442	5.119	2	

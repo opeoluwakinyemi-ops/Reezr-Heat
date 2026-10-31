@@ -1,3 +1,15 @@
+Ita Egbe	Ipokia	Ogun	6.647	2.832	3	
+Oko Ita	Ibiono Ibom	Akwa Ibom	5.189	7.895	3	Okolta
+Itu	Itu	Akwa Ibom	5.201	7.978	3	
+Ita-Ogbolu	Akure North	Ondo	7.368	5.247	3	
+Itigidi	Abi	Cross River	5.892	8.021	3	
+Itu	Ezinihitte	Imo	5.464	7.331	3	
+Itori	Ewekoro	Ogun	6.931	3.221	3	
+Obarike-Ito	Obi	Benue	7.024	8.324	3	Ito|Oborike-Ito
+Itas	Itas/Gadau	Bauchi	11.857	9.964	3	Itass
+Isanlu	Yagba East	Kogi	8.288	5.818	3	Isanlu Itedo|Isanlu-Itedo|IsanluItedo
+Itele	Ado Odo/Ota	Ogun	6.684	3.231	2	
+Itekun	Ado Odo/Ota	Ogun	6.516	3.170	2	
 Itamaga	Ìkòròdú	Lagos	6.631	3.533	2	
 Okom Ita	Akamkpa	Cross River	5.336	8.332	2	
 Ita-Oniyan	Akure South	Ondo	7.272	5.093	2	Ita Oniga
@@ -18,7 +30,6 @@ Itaka	Etung	Cross River	5.790	8.749	2
 Itache	Kubau	Kaduna	11.021	8.404	2	
 Ita Olowo	Ifelodun	Kwara	8.462	5.030	2	
 Ikot Mbonde	Itu	Akwa Ibom	5.067	7.917	2	Ikot Mbonde Itam
-Ita Egbe	Ipokia	Ogun	6.647	2.832	3	
 Ukap Itak	Uyo	Akwa Ibom	5.067	7.817	2	
 Ikot Andem Itam	Itu	Akwa Ibom	5.145	7.954	2	Ikot Andem
 Nung Ita	Oruk Anam	Akwa Ibom	4.936	7.728	2	
@@ -27,8 +38,6 @@ Itapaji	Ikole	Ekiti	7.926	5.476	2	Itapalu
 Itekpa	Yala	Cross River	6.785	8.652	2	Itaka
 Ilagbo	Ibeju Lekki	Lagos	6.416	4.157	2	Itagbo
 Itoki	Zuru	Kebbi	11.282	5.195	2	
-Itas	Itas/Gadau	Bauchi	11.859	9.967	2	
-Oko Ita	Ibiono Ibom	Akwa Ibom	5.189	7.895	3	Okolta
 Ugbene	Ilaje	Ondo	6.417	4.867	2	Italuwa
 Ita Egge	Ipokia	Ogun	6.767	2.780	2	
 Itak Edet Obo	Ikot Ekpene	Akwa Ibom	5.183	7.733	2	
@@ -54,9 +63,7 @@ Ita Epini	Odogbolu	Ogun	6.773	3.729	2	Ita-Epinni
 Ito-Omu	Epe	Lagos	6.501	3.631	2	
 Itakpe Junction	Adavi	Kogi	7.624	6.301	2	
 Ithevuegbe	Etsako East	Edo	7.143	6.648	2	
-Itu	Itu	Akwa Ibom	5.201	7.978	3	
 Ityu	Konshisha	Benue	7.067	8.492	2	Ityo
-Ita-Ogbolu	Akure North	Ondo	7.368	5.247	3	
 Ita Ege	Ipokia	Ogun	6.767	2.780	2	
 Itirin	Eti Osa	Lagos	6.433	3.433	2	
 Itobe	Ofu	Kogi	7.422	6.724	2	
@@ -65,47 +72,267 @@ Itama	Dekina	Kogi	7.564	7.364	2
 Ita	Nasarawa	Nasarawa	8.164	7.736	2	
 Itung	Ika	Akwa Ibom	5.040	7.596	2	
 Tashan Itache North	Bayo	Borno	10.366	11.648	2	
-Itori	Ewekoro	Ogun	6.929	3.224	0	
-Itaigho Ventures Filling Station	Udu	Delta	5.508	5.827	0	
 Itakpe	Adavi	Kogi	7.635	6.331	2	
-Itogbo Station	Etsako East	Edo	7.174	6.676	0	
-Itakpe Station	Adavi	Kogi	7.620	6.322	0	
-Ita Oloorun market	Idanre	Ondo	7.167	5.135	0	
 Ikot Itike Ikot Arankere	Ukanafun	Akwa Ibom	4.869	7.650	2	
 Walawa Dan Itace	Dawakin Tofa	Kano	12.195	8.493	2	
-Imo Transport Company ITC Park	Port-Harcourt	Rivers	4.816	7.008	0	
-our savior anglican primary school, italowayode	Ìjẹ̀bú Òde	Ogun	6.825	3.910	0	
-emmanuel anglican primary school ii, italupe	Ìjẹ̀bú Òde	Ogun	6.809	3.919	0	
-emmanuel anglican. primary school i, italupe	Ìjẹ̀bú Òde	Ogun	6.810	3.919	0	
-Local Government Primary School, Ita-Merin	Ado Odo/Ota	Ogun	6.684	3.235	0	
-St. Peters Anglican Primary School Itele-Ota	Ifo	Ogun	6.716	3.354	0	
-Roman Catholic Mission Primary School, Itire	Ojo	Lagos	6.517	3.199	0	
-St.John'S African Church Primary School, Itoki	Ado Odo/Ota	Ogun	6.661	3.092	0	
-Local Government School Itori-Ota	Ifo	Ogun	6.690	3.294	0	
-Local Government Primary School, Ita-Merin	Shagamu	Ogun	6.753	3.601	0	
-St.John'S African Church Primary School, Itoki	Ifo	Ogun	6.713	3.288	0	
-Local Government Schl Itori-Ota	Ado Odo/Ota	Ogun	6.638	3.156	0	
-St. Peters Anglican Primary School Itele-Ota	Ado Odo/Ota	Ogun	6.584	3.192	0	
-Roman Catholic Mission Primary School, Itire	Ado Odo/Ota	Ogun	6.527	2.927	0	
-St. Jude'S Anglican Primary School Itekun	Ado Odo/Ota	Ogun	6.518	3.169	0	
 Itobi-Ige	Isoko North	Delta	5.446	6.417	2	
 Itebiege	Ndokwa East	Delta	5.392	6.456	2	
 Itsekiri Camp	Ndokwa East	Delta	5.777	6.608	2	
 Ekurede-itsekiri	Warri South	Delta	5.526	5.730	2	
-Itigidi	Abi	Cross River	5.892	8.021	3	
-Itireijesha Primary Health Care	Mushin	Lagos	6.510	3.337	0	
-APEX SUCCESS ITNL SCHOOLS	Ungongo	Kano	12.045	8.565	0	
-MAL. MUSA MAI ITACE	Ungongo	Kano	12.041	8.572	0	
-AL-ITKAN ACADEMY	Gwale	Kano	11.959	8.470	0	
-itu agan/itun agan	Apapa	Lagos	6.428	3.359	0	
-Itomoro	Apapa	Lagos	6.418	3.362	0	
-Ita Amodu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.539	0	
-ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0	
-itekun (ogun)	Ado Odo/Ota	Ogun	6.514	3.171	0	
-kabiyesi itomu jetty	Eti Osa	Lagos	6.502	3.627	0	
-itomu jetty	Epe	Lagos	6.501	3.629	0	
-Strong Bridge It Solutions	Municipal Area Council	FCT Abuja	9.045	7.412	0	
 Itire	Mushin	Lagos	6.508	3.330	2	
+Ekurede Itsekiri Community	Warri South	Delta	5.521	5.730	2	
+Itedo Village	Ogun Waterside	Ogun	6.423	4.537	2	
+Itesiwaju	Itesiwaju	Oyo	8.211	3.548	2	
+Itas	Itas/Gadau	Bauchi	11.877	9.984	2	
+Itas/Gadau	Itas/Gadau	Bauchi	11.877	10.045	2	
+Itu	Itu	Akwa Ibom	5.145	8.003	2	
+Uyo Itam	Itu	Akwa Ibom	5.112	7.948	2	
+Urua Ita	Okobo	Akwa Ibom	4.731	8.065	2	
+Ukpap-Itak	Ikono	Akwa Ibom	5.075	7.822	2	Ukap Itak
+Uko Itak	Urue Offong/Oruko	Akwa Ibom	4.720	8.221	2	
+Ukim Ita	Odukpani	Cross River	5.016	8.257	2	
+Itabata	Ipokia	Ogun	6.611	2.776	2	Tabata
+Ozu-Item	Bende	Abia	5.599	7.604	2	
+Osuk Ita	Uruan	Akwa Ibom	5.091	7.998	2	
+Ono Ikot Itiat	Ibiono Ibom	Akwa Ibom	5.244	7.870	2	
+Okoko Item	Obot Akara	Akwa Ibom	5.233	7.617	2	
+Isale-Okere	Ipokia	Ogun	6.679	2.789	2	Ita Okere|Okere
+Oja-Ituko	Odeda	Ogun	7.363	3.211	2	Oja Ituko
+Ode Itsekiri	Warri South	Delta	5.488	5.703	2	Ode-Itsekri
+Obot-Ito Ikpo	Odukpani	Cross River	5.309	7.965	2	
+Obom Itiat	Odukpani	Cross River	5.249	8.067	2	
+Ndi-Ite	Arochukwu	Abia	5.544	7.747	2	
+Mbiabong Ito	Odukpani	Cross River	5.355	7.927	2	
+Mbiabong-Itam	Itu	Akwa Ibom	5.102	7.930	2	
+Mbak Itam	Ibiono Ibom	Akwa Ibom	5.062	7.885	2	
+Ityozende	Ushongo	Benue	7.048	8.925	2	
+Ityohemba	Obi	Nasarawa	8.286	8.526	2	
+Ityo	Donga	Taraba	7.777	10.164	2	
+Itu Ukpa	Obi Ngwa	Abia	5.167	7.467	2	
+Ituru	Sapele	Delta	5.775	5.709	2	
+Itunta	Ikwuano	Abia	5.449	7.636	2	
+Itung	Abak	Akwa Ibom	4.922	7.789	2	
+Itung	Oruk Anam	Akwa Ibom	4.797	7.701	2	
+Itu Ndem	Ibiono Ibom	Akwa Ibom	5.195	7.852	2	
+Itumkwel	Obanliku	Cross River	6.483	9.160	2	
+Ituku	Awgu	Enugu	6.290	7.454	2	
+Ituko	Ona Ara	Oyo	7.224	4.075	2	
+Itukho	Ibiono Ibom	Akwa Ibom	5.236	7.849	2	
+Itu Ikala	Obi Ngwa	Abia	5.186	7.464	2	
+Itu Agwagune	Biase	Cross River	5.648	8.021	2	Itu
+Itsegema	Buruku	Benue	7.647	8.950	2	
+Itosi-Akowe	Afijio	Oyo	7.721	3.774	2	Itosi Akowe|ItosiAkowe
+Itori	Oluyole	Oyo	7.307	3.749	2	
+Itori	Obafemi Owode	Ogun	7.094	3.434	2	
+Iton Mong	Ikono	Akwa Ibom	5.290	7.795	2	
+Iton	Mkpat Enin	Akwa Ibom	4.721	7.794	2	
+Itoku	Imeko Afon	Ogun	7.490	3.070	2	
+Itoku	Odeda	Ogun	7.269	3.510	2	
+Itoku	Obafemi Owode	Ogun	6.983	3.400	2	
+Itoko-Ajegunle	Odeda	Ogun	7.214	3.479	2	Itoko Ajegunle
+Itoko	Odeda	Ogun	7.345	3.570	2	
+Itoko	Odeda	Ogun	7.184	3.539	2	
+Itoko	Obafemi Owode	Ogun	7.150	3.681	2	
+Itoko	Odeda	Ogun	7.154	3.591	2	
+Itoko	Ibesikpo Asutan	Akwa Ibom	4.930	7.918	2	
+Itoki	Ifo	Ogun	6.714	3.286	2	
+Itokin	Epe	Lagos	6.656	3.795	2	Itawikin|Itoikin
+Itohun	Badagry	Lagos	6.466	2.887	2	
+Itobalogo Iju	Ibarapa North	Oyo	7.651	3.336	2	
+Itire	Surulere	Lagos	6.492	3.326	2	
+Itimkwel	Obanliku	Cross River	6.517	9.150	2	Itimkwell
+Itimale	Ibarapa Central	Oyo	7.423	3.340	2	
+Itier	Konshisha	Benue	7.227	8.535	2	
+Itie-Ikpe	Ini	Akwa Ibom	5.378	7.799	2	
+Itibe	Ikom	Cross River	6.344	8.660	2	
+Etiam-Etoi	Uyo	Akwa Ibom	5.005	7.955	2	Itiam Etoi
+Itelepa	Yala	Cross River	6.651	8.645	2	
+Itele	Ijebu East	Ogun	6.764	4.062	2	
+Itele	Ado Odo/Ota	Ogun	6.580	3.190	2	
+Iteku	Ado Odo/Ota	Ogun	6.513	3.167	2	
+Itekpe	Ikom	Cross River	6.334	8.738	2	
+Itedo	Ogun Waterside	Ogun	6.412	4.536	2	
+Itebu-Manuwa	Ogun Waterside	Ogun	6.456	4.545	2	Itebu
+Ite	Ovia North-East	Edo	6.349	5.468	2	
+Itchi	Igbo-Eze-South	Enugu	6.974	7.359	2	
+Ita-Yomu-Yomu	Moro	Kwara	8.572	4.478	2	Ita Yomu Yomu
+Itatele	Atisbo	Oyo	8.307	3.332	2	
+Itasin	Ijebu East	Ogun	6.590	4.110	2	
+Itasa	Iwajowa	Oyo	8.021	3.042	2	
+Itara	Obubra	Cross River	5.797	8.463	2	
+Itar	Ushongo	Benue	7.197	8.927	2	
+Ita-Otu	Ogun Waterside	Ogun	6.525	4.353	2	
+Ita-Onimosa	Ipokia	Ogun	6.524	2.755	2	Ita Onimosa
+Ita-Olowo	Ifelodun	Kwara	8.461	5.031	2	Ita Olowo|Otaloro|Otaluro
+Itan Unan	Biase	Cross River	5.418	8.104	2	
+Itan	Biase	Cross River	5.401	8.077	2	
+Itamoga	Ìkòròdú	Lagos	6.631	3.533	2	
+Italiwo	Ijebu North	Ogun	7.004	4.060	2	
+Itak Udara	Ikot Ekpene	Akwa Ibom	5.168	7.722	2	
+Itak-Ikot-Oboise	Ini	Akwa Ibom	5.319	7.685	2	Itak Ikot Obaise
+Itak-Ikot-Akap	Ikono	Akwa Ibom	5.252	7.761	2	
+Itakete	Yewa South	Ogun	6.817	2.867	2	
+Edet Obo	Ikot Ekpene	Akwa Ibom	5.191	7.736	2	Itak Edet Obo
+Itaja	Umuahia South	Abia	5.478	7.505	2	
+Itai Idoro	Ibiono Ibom	Akwa Ibom	5.281	7.922	2	
+Itagunmodi	Atakunmosa West	Osun	7.530	4.648	2	
+Itagbe	Itesiwaju	Oyo	8.201	3.703	2	
+Ita-Egbe	Ipokia	Ogun	6.770	2.772	2	Ita Ege|Ita Egge
+Ita-Egbe	Ipokia	Ogun	6.645	2.832	2	Ita Egbe
+Ita-Egba	Ijebu North	Ogun	7.017	3.990	2	
+Itachurch	Remo North	Ogun	7.063	3.803	2	Ita Church
+Ita	Uruan	Akwa Ibom	5.088	8.020	2	
+Isanlu-Itedoijowa	Yagba East	Kogi	8.273	5.835	2	Isanlu Itedoijowa|IsanluItedoijowa
+Ikot Andem Itam	Itu	Akwa Ibom	5.144	7.955	2	Ikot Andem
+Ikot Akpadung Itak	Uyo	Akwa Ibom	5.048	7.827	2	
+Igbota One	Yewa North	Ogun	7.082	2.847	2	Igbo Ita|Igbota I
+Idi Itala	Ese Odo	Ondo	6.453	4.898	2	Idi-Itala
+Iboho Ito	Odukpani	Cross River	5.322	8.012	2	
+Ekit-Itam	Uruan	Akwa Ibom	5.113	7.972	2	
+Ekim Ito	Odukpani	Cross River	5.331	7.972	2	
+Balogun-Itesi	Odeda	Ogun	7.191	3.577	2	Balogun Itesi
+Angwan Ita	Kachia	Kaduna	9.919	7.927	2	
+Akpab Okon Ene Ita	Akpabuyo	Cross River	4.859	8.515	2	
+Ago-Ita	Ese Odo	Ondo	6.233	5.052	2	
+Idi-Ito	Afijio	Oyo	7.741	3.911	2	Idi Ito|IdiIto
+Ituwa	Bosso	Borno	13.608	13.250	2	
+Itori	Ado Odo/Ota	Ogun	6.643	3.178	2	
+Itori-Odo	Obafemi Owode	Ogun	6.967	3.317	2	
+Itori	Obafemi Owode	Ogun	6.974	3.352	2	
+Ita	Ìkòròdú	Lagos	6.644	3.620	2	
+Itamerio	Shagamu	Ogun	6.749	3.598	2	
+Itamerin	Shagamu	Ogun	6.736	3.656	2	
+Iturin	Odogbolu	Ogun	6.809	3.880	2	
+Ita-Arapa	Ijebu North	Ogun	6.961	3.846	2	
+Ita-Ereke	Ijebu North	Ogun	6.964	3.894	2	
+Ita-Alasela	Shagamu	Ogun	6.767	3.641	2	
+Ita-Olorun	Idanre	Ondo	7.169	5.137	2	
+Italepo-Oda	Akure South	Ondo	7.199	5.231	2	
+Ita Lisa	Akure South	Ondo	7.262	5.119	2	
+Ita Oniyan	Akure South	Ondo	7.293	5.162	2	
+Ita-Eku	Adó-Èkìtì	Ekiti	7.601	5.244	2	
+Itogo	Obi	Benue	7.061	8.365	2	
+Ityoka	Oturkpo	Benue	7.129	8.201	2	
+Ukim Ita	Odukpani	Cross River	5.030	8.239	2	
+Obio Inwang Itu	Itu	Akwa Ibom	5.243	8.022	2	
+Ekpene Itu	Odukpani	Cross River	5.244	8.058	2	
+Idun Itu	Biase	Cross River	5.391	8.082	2	
+Itu	Yakurr	Cross River	5.714	8.145	2	
+Itinta	Ikom	Cross River	6.186	8.473	2	
+Okoroba Oyo Ita	Akpabuyo	Cross River	4.889	8.472	2	
+Etebi Idung Ita	Esit Eket	Akwa Ibom	4.661	8.133	2	
+Itak	Okobo	Akwa Ibom	4.800	8.136	2	
+Itamarun	Ijebu East	Ogun	6.848	4.008	2	
+Italita	Ilaje	Ondo	6.419	4.620	2	
+Iterigbi	Uvwie	Delta	5.576	5.842	2	
+Ungwan Itakawa	Faskari	Katsina	11.588	6.962	2	
+Ikot Obio Iton	Mkpat Enin	Akwa Ibom	4.675	7.781	2	
+Itim	Edda	Ebonyi	5.803	7.859	2	
+Okoko Item	Bende	Abia	5.739	7.636	2	
+Itu Mbauzo	Ini	Akwa Ibom	5.497	7.701	2	Itu Mbuso
+Itu	Umuahia South	Abia	5.475	7.518	2	
+Iboho-Ito	Odukpani	Cross River	5.321	7.997	2	
+Enen-Ito	Odukpani	Cross River	5.329	7.971	2	
+Osung-Ita	Ini	Akwa Ibom	5.354	7.748	2	
+Itak-Edem-Isa	Ini	Akwa Ibom	5.314	7.679	2	
+Ikpe Usung Ita	Obot Akara	Akwa Ibom	5.277	7.683	2	
+Iton Odoro	Obot Akara	Akwa Ibom	5.274	7.694	2	
+Itak-Ikot	Ikono	Akwa Ibom	5.275	7.727	2	
+Ikot-Okpa-Itam	Ibiono Ibom	Akwa Ibom	5.280	7.861	2	
+Afaha Itiat	Ibiono Ibom	Akwa Ibom	5.206	7.920	2	
+Ituatan	Ibiono Ibom	Akwa Ibom	5.156	7.894	2	
+Afahana Itak	Ikono	Akwa Ibom	5.125	7.839	2	
+Afaha Itam	Itu	Akwa Ibom	5.094	7.933	2	
+Obot Itiat	Ibiono Ibom	Akwa Ibom	5.113	7.907	2	Obot Itiat No.2
+Nung Udoe Itak	Ikono	Akwa Ibom	5.098	7.848	2	
+Iton	Abak	Akwa Ibom	5.071	7.809	2	
+Ekit-Itam	Itu	Akwa Ibom	5.046	7.878	2	
+Obio-Itak	Ikono	Akwa Ibom	5.045	7.836	2	
+Itiam Okopedi	Uyo	Akwa Ibom	5.007	7.934	2	
+Itiam Ikot Ebia	Uyo	Akwa Ibom	5.002	7.940	2	
+Ita	Uruan	Akwa Ibom	5.089	7.990	2	
+Okoh Itukperi	Ethiope East	Delta	5.717	6.015	2	
+Itobi-Ige	Isoko North	Delta	5.444	6.417	2	
+Itifuru Camp	Ndokwa East	Delta	5.747	6.616	2	
+Ituogwugwu	Ohaji/Egbema	Imo	5.596	6.701	2	
+Itu	Ogba/Egbema/Ndoni	Rivers	5.221	6.706	2	Erema
+Itu	Itu	Akwa Ibom	5.143	7.978	2	Agbegbe Ijoba Ibile Itu|Itu Local Government Area|itou
+Itakpa	Obi	Benue	7.049	8.210	2	
+Item	Ikwo	Ebonyi	6.009	8.079	2	
+Itegaokudu	Ogoja	Cross River	6.584	8.661	2	
+Itas	Itas/Gadau	Bauchi	11.928	10.008	2	
+Ityochur	Ukum	Benue	7.803	9.387	2	
+Itya	Wukari	Taraba	7.748	9.706	2	
+Ityaikya	Ukum	Benue	7.563	9.598	2	
+Ityongon	Gboko	Benue	7.454	9.087	2	
+Ityem	Gboko	Benue	7.448	9.049	2	
+Ityem	Gboko	Benue	7.280	9.017	2	
+Iti	Buruku	Benue	7.417	9.162	2	
+Ityav	Gboko	Benue	7.357	9.148	2	
+Ityozenda	Katsina-Ala	Benue	7.442	9.353	2	
+Ityav	Katsina-Ala	Benue	7.253	9.314	2	
+Itseba	Katsina-Ala	Benue	7.376	9.458	2	
+Itijime	Buruku	Benue	7.227	9.108	2	
+Ityough	Buruku	Benue	7.210	9.096	2	
+Ityowanye	Buruku	Benue	7.248	9.201	2	
+Ityohuna	Buruku	Benue	7.213	9.254	2	
+Itse	Gboko	Benue	7.403	8.878	2	
+Ityogbenda	Gboko	Benue	7.354	8.783	2	
+Etsu Itsa	Edati	Niger	9.031	6.083	2	
+Egebin Itunoliwo	Ìkòròdú	Lagos	6.569	3.624	2	
+Itoyo	Warri North	Delta	5.947	5.021	2	
+Egun-Itoku	Obafemi Owode	Ogun	7.054	3.491	2	
+Itoku	Obafemi Owode	Ogun	7.119	3.377	2	
+Itesi	Odeda	Ogun	7.208	3.478	2	
+Ita-Marun	Aiyedade	Osun	7.209	4.311	2	
+Itamerin	Irewole	Osun	7.365	4.272	2	
+Itamerin	Aiyedade	Osun	7.370	4.338	2	
+Ita-Odo	Ife North	Osun	7.478	4.451	2	
+Ita-Elewa	Ife Central	Osun	7.569	4.507	2	
+Itamerin	Atakunmosa West	Osun	7.558	4.600	2	
+Itagbon	Atakunmosa West	Osun	7.512	4.662	2	
+Itikan	Atakunmosa West	Osun	7.542	4.672	2	
+Ita Osan	Atakunmosa West	Osun	7.613	4.675	2	
+Itiya	Obokun	Osun	7.801	4.753	2	
+Itawure	Efon	Ekiti	7.727	4.952	2	
+Ita-Iddo	Efon	Ekiti	7.732	4.960	2	
+Itolu	Yewa South	Ogun	6.886	2.988	2	
+Ita Alao	Ipokia	Ogun	6.760	2.833	2	
+Ita-Agboinu	Ipokia	Ogun	6.579	2.776	2	
+Itadotedo	Ipokia	Ogun	6.538	2.856	2	
+Itafoja	Ipokia	Ogun	6.610	2.745	2	
+Itakoko	Ipokia	Ogun	6.603	2.771	2	
+Ita-Iponran	Ipokia	Ogun	6.553	2.819	2	
+Italowo	Ilaje	Ondo	6.411	4.611	2	
+Itamerin	Ese Odo	Ondo	6.390	4.886	2	
+Itage	Ilaje	Ondo	6.289	4.779	2	
+Ityohuna	Obi	Nasarawa	8.309	8.514	2	
+Itanjasa	Ife East	Osun	7.450	4.601	2	
+Ita-Abiye	Ife East	Osun	7.433	4.586	2	
+Ita-Osa	Ife East	Osun	7.432	4.567	2	
+Itapa	Ife North	Osun	7.424	4.537	2	
+Isoya Ita-Oto	Ife North	Osun	7.364	4.538	2	
+Ita-Agba	Ife South	Osun	7.172	4.616	2	
+Itamarun	Ife East	Osun	7.405	4.597	2	
+Itare	Atakunmosa West	Osun	7.448	4.674	2	
+Itapa	Atakunmosa East	Osun	7.414	4.763	2	
+Itamesi	Ile Oluji/Okeigbo	Ondo	7.240	4.897	2	
+Itanla	Ondo East	Ondo	7.122	4.866	2	
+Italu-Owo	Ondo East	Ondo	7.114	4.863	2	
+Itagbogi	Ondo West	Ondo	7.061	4.924	2	
+Ita Elemoso	Ondo East	Ondo	7.167	4.950	2	
+Ago-Ita	Ondo East	Ondo	7.131	4.910	2	
+Ita-Adaja	Ondo East	Ondo	7.148	4.900	2	
+Itoku	Obafemi Owode	Ogun	7.112	3.564	2	
+Itori-Oke	Obafemi Owode	Ogun	7.108	3.549	2	
+Itamerin	Ijebu North	Ogun	7.016	3.867	2	
+Ita-Raufu	Asa	Kwara	8.222	4.542	2	
+Ita-Yesa	Ilorin East	Kwara	8.439	4.600	2	
+Ita-Okeogun	Ilorin East	Kwara	8.463	4.606	2	
+Ita-Alamu	Ilorin East	Kwara	8.443	4.586	2	
+Ita-Alagbon	Ilorin East	Kwara	8.447	4.588	2	
+Itichimen	Toto	Nasarawa	8.247	7.345	2	
+Itoku	Obafemi Owode	Ogun	7.003	3.374	2	
 Itire Road	Surulere	Lagos	6.513	3.356	1	
 Itam Road	Itu	Akwa Ibom	5.055	7.899	1	
 Calabar - Itu Road	Odukpani	Cross River	5.177	8.072	1	
@@ -116,10 +343,7 @@ Itolo Street	Surulere	Lagos	6.486	3.352	1
 Itafaji Road	Eti Osa	Lagos	6.456	3.414	1	
 Itaji Street	Ifako/Ijaye	Lagos	6.644	3.336	1	
 Itapeju Avenue	Apapa	Lagos	6.444	3.371	1	
-Itapeju Avenue	Apapa	Lagos	6.447	3.370	1	
 Itirin Court	Eti Osa	Lagos	6.434	3.433	1	
-Itidiare Care	Egor	Edo	6.392	5.602	0	
-Itobe	Ofu	Kogi	7.423	6.735	2	Etobe
 Itoje Avenue	Oredo	Edo	6.293	5.597	1	
 Itedo Oluwa Street	Ede North	Osun	7.767	4.528	1	
 Itogbe Street	Agege	Lagos	6.632	3.316	1	
@@ -131,13 +355,9 @@ Itire Road	Ajeromi/Ifelodun	Lagos	6.463	3.333	1
 Calabar - Itu Road	Odukpani	Cross River	5.167	8.146	1	
 Calabar - Itu Road	Itu	Akwa Ibom	5.178	8.052	1	
 Calabar - Itu Road	Itu	Akwa Ibom	5.181	7.985	1	
-Calabar - Itu Road	Itu	Akwa Ibom	5.180	8.058	1	
 Old Calabar - Itu Road	Itu	Akwa Ibom	5.182	7.985	1	
 Calabar - Itu Road	Itu	Akwa Ibom	5.173	8.018	1	
-Dan Itache Health Post	Dawakin Tofa	Kano	12.208	8.497	0	
 Itumi Ogbonna Road	Eti Osa	Lagos	6.444	3.480	1	
-National Polio Immunization Office Itas	Itas/Gadau	Bauchi	11.853	9.963	0	
-Itas Town Dispensary	Itas/Gadau	Bauchi	11.857	9.965	0	
 Ito-omu / eleranigbe road	Epe	Lagos	6.501	3.650	1	
 Old Itu Road	Ikot Ekpene	Akwa Ibom	5.172	7.721	1	
 Item Street	Owerri Municipal	Imo	5.500	7.038	1	
@@ -153,35 +373,58 @@ Ekurede-itsekiri Road	Warri South	Delta	5.525	5.733	1
 Itele Road	Ado Odo/Ota	Ogun	6.655	3.219	1	
 Itele Road	Ado Odo/Ota	Ogun	6.686	3.233	1	
 Itire Road	Mushin	Lagos	6.511	3.335	1	
-Enrico Mattei Italian International School Lagos	Eti Osa	Lagos	6.444	3.466	0	
 Iju-Itagbolu	Ise/Orun	Ekiti	7.457	5.416	1	
 Ekurede itsekiri-Ugbori Express Junction	Warri South	Delta	5.521	5.731	1	
 Itoga Road	Badagry	Lagos	6.425	2.929	1	
 Itam Road	Itu	Akwa Ibom	5.051	7.895	1	
-Itam Road	Itu	Akwa Ibom	5.053	7.895	1	
 Itaken Street	Calabar Municipal	Cross River	5.044	8.356	1	
 Calabar - Itu Road	Odukpani	Cross River	5.179	8.230	1	
 Calabar - Itu Road	Odukpani	Cross River	5.187	8.297	1	
-Idi-Ito High School	Lagelu	Oyo	7.454	4.059	0	
 Calabar - Itu Road	Odukpani	Cross River	5.155	8.346	1	
-Calabar - Itu Road	Itu	Akwa Ibom	5.172	7.998	1	
 Itaoluwo road	Shagamu	Ogun	6.689	3.497	1	
 Old Itu Road	Ikono	Akwa Ibom	5.187	7.782	1	
-Itual Medical centre	Oredo	Edo	6.341	5.596	0	
-General Hospital Itas	Itas/Gadau	Bauchi	11.852	9.969	0	
-Itas Town Maternity	Itas/Gadau	Bauchi	11.856	9.968	0	
-Ekurede Itsekiri Community	Warri South	Delta	5.521	5.730	2	
 Itinrin Road	Eti Osa	Lagos	6.441	3.563	1	
 Item Street	Owerri Municipal	Imo	5.493	7.035	1	
 Calabar - Itu Road	Odukpani	Cross River	5.178	8.240	1	
-Calabar - Itu Road	Odukpani	Cross River	5.188	8.261	1	
 Itakogun Street	Ife Central	Osun	7.481	4.556	1	
-Calabar - Itu Road	Odukpani	Cross River	5.162	8.336	1	
 Calabar - Itu Road	Odukpani	Cross River	5.172	8.319	1	
-Itoga Road	Badagry	Lagos	6.427	2.931	1	
-Itedo Village	Ogun Waterside	Ogun	6.423	4.537	2	
-Itele Road	Ado Odo/Ota	Ogun	6.684	3.231	1	
-Itesiwaju	Itesiwaju	Oyo	8.211	3.548	2	
-Itas	Itas/Gadau	Bauchi	11.877	9.984	2	
-Itas/Gadau	Itas/Gadau	Bauchi	11.877	10.045	2	
-Itu	Itu	Akwa Ibom	5.145	8.003	2	
+Itaigho Ventures Filling Station	Udu	Delta	5.508	5.827	0	
+Itogbo Station	Etsako East	Edo	7.174	6.676	0	
+Itakpe Station	Adavi	Kogi	7.620	6.322	0	
+Ita Oloorun market	Idanre	Ondo	7.167	5.135	0	
+Imo Transport Company ITC Park	Port-Harcourt	Rivers	4.816	7.008	0	
+our savior anglican primary school, italowayode	Ìjẹ̀bú Òde	Ogun	6.825	3.910	0	
+emmanuel anglican primary school ii, italupe	Ìjẹ̀bú Òde	Ogun	6.809	3.919	0	
+emmanuel anglican. primary school i, italupe	Ìjẹ̀bú Òde	Ogun	6.810	3.919	0	
+Local Government Primary School, Ita-Merin	Ado Odo/Ota	Ogun	6.684	3.235	0	
+St. Peters Anglican Primary School Itele-Ota	Ifo	Ogun	6.716	3.354	0	
+Roman Catholic Mission Primary School, Itire	Ojo	Lagos	6.517	3.199	0	
+St.John'S African Church Primary School, Itoki	Ado Odo/Ota	Ogun	6.661	3.092	0	
+Local Government School Itori-Ota	Ifo	Ogun	6.690	3.294	0	
+Local Government Primary School, Ita-Merin	Shagamu	Ogun	6.753	3.601	0	
+St.John'S African Church Primary School, Itoki	Ifo	Ogun	6.713	3.288	0	
+Local Government Schl Itori-Ota	Ado Odo/Ota	Ogun	6.638	3.156	0	
+St. Peters Anglican Primary School Itele-Ota	Ado Odo/Ota	Ogun	6.584	3.192	0	
+Roman Catholic Mission Primary School, Itire	Ado Odo/Ota	Ogun	6.527	2.927	0	
+St. Jude'S Anglican Primary School Itekun	Ado Odo/Ota	Ogun	6.518	3.169	0	
+Itireijesha Primary Health Care	Mushin	Lagos	6.510	3.337	0	
+Apex Success Itnl Schools	Ungongo	Kano	12.045	8.565	0	
+Mal. Musa Mai Itace	Ungongo	Kano	12.041	8.572	0	
+Al-Itkan Academy	Gwale	Kano	11.959	8.470	0	
+itu agan/itun agan	Apapa	Lagos	6.428	3.359	0	
+Itomoro	Apapa	Lagos	6.418	3.362	0	
+Ita Amodu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.539	0	
+ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0	
+itekun (ogun)	Ado Odo/Ota	Ogun	6.514	3.171	0	
+kabiyesi itomu jetty	Eti Osa	Lagos	6.502	3.627	0	
+itomu jetty	Epe	Lagos	6.501	3.629	0	
+Strong Bridge It Solutions	Municipal Area Council	FCT Abuja	9.045	7.412	0	
+Itidiare Care	Egor	Edo	6.392	5.602	0	
+Dan Itache Health Post	Dawakin Tofa	Kano	12.208	8.497	0	
+National Polio Immunization Office Itas	Itas/Gadau	Bauchi	11.853	9.963	0	
+Itas Town Dispensary	Itas/Gadau	Bauchi	11.857	9.965	0	
+Enrico Mattei Italian International School Lagos	Eti Osa	Lagos	6.444	3.466	0	
+Idi-Ito High School	Lagelu	Oyo	7.454	4.059	0	
+Itual Medical centre	Oredo	Edo	6.341	5.596	0	
+General Hospital Itas	Itas/Gadau	Bauchi	11.852	9.969	0	
+Itas Town Maternity	Itas/Gadau	Bauchi	11.856	9.968	0	

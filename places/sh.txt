@@ -1,15 +1,31 @@
 Saki	Saki West	Oyo	8.674	3.397	3	Shaki
 Shangunu	Borgu	Niger	10.341	4.469	3	
-Shakwata Station	Bosso	Niger	9.664	6.623	0	
+Sangotedo	Eti Osa	Lagos	6.471	3.636	3	Shangotedo
+Anguwar Babeto	Shani	Borno	10.219	12.062	3	Shani
+Garbe Shege	Bali	Taraba	8.450	11.112	3	
+Shellem	Shelleng	Adamawa	9.895	12.007	3	
+Shagari	Shagari	Sokoto	12.628	4.993	3	
+Garin Shanono	Shanono	Kano	12.051	7.992	3	Shanono
+Benisheikh	Kaga	Borno	11.809	12.492	3	Benisheik;Beni Sheik
+Shana	Fika	Yobe	11.546	10.990	3	
+Shomolu	Shomolu	Lagos	6.539	3.374	3	Somolu
+Shinkafi	Shinkafi	Zamfara	13.073	6.506	3	Shinkafe
+Shendam	Shendam	Plateau	8.879	9.535	3	
+Shelleng	Shelleng	Adamawa	9.896	12.006	3	Shellem|Shellen
+Share	Ifelodun	Kwara	8.823	4.976	3	
+Shanono	Shanono	Kano	12.052	7.992	3	Shanomo
+Shani	Shani	Borno	10.218	12.061	3	
+Shanga	Shanga	Kebbi	11.214	4.579	3	
+Shagamu	Shagamu	Ogun	6.848	3.646	3	Sagamu
+Ago-Amodu	Saki East	Oyo	8.623	3.614	3	Ago Amadu|Shepeteri
+Shelter Afrique	Uyo	Akwa Ibom	5.050	7.920	2	
 Central Shen	Barkin Ladi	Plateau	9.767	8.950	2	
 Sare	Obafemi Owode	Ogun	6.987	3.341	2	Share
-Sangotedo	Eti Osa	Lagos	6.471	3.636	3	Shangotedo
 Sharifuri	Kirfi	Bauchi	10.316	10.570	2	
 Shagiya	Zuru	Kebbi	11.394	4.989	2	
 Shuni	Dange-Shuni	Sokoto	12.946	5.285	2	
 Shabua	Shira	Bauchi	11.511	9.852	2	
 Tungin-Shakushe	Fakai	Kebbi	11.703	4.822	2	
-Shinkafi	Shinkafi	Zamfara	13.075	6.511	2	Shinkafe
 Kaffin-Sanu	Karu	Nasarawa	8.716	7.830	2	Keffin Shanu
 Shanla	Agaie	Niger	8.917	6.350	2	
 Shania	Agaie	Niger	8.917	6.350	2	
@@ -17,7 +33,6 @@ Shaki	Lapai	Niger	9.350	6.800	2	Shaku
 Shiwari	Damboa	Borno	11.198	13.027	2	
 Shimbo	Abaji	FCT Abuja	9.100	6.883	2	
 Faifaiku	Roni	Jigawa	12.664	8.237	2	Shumfida
-Anguwar Babeto	Shani	Borno	10.219	12.062	3	Shani
 Shawa	Biu	Borno	10.716	12.022	2	
 Mai Anguwa Ali	Kwaya Kusar	Borno	10.399	12.017	2	Shafa
 Shimtami	Hawul	Borno	10.392	12.240	2	
@@ -45,7 +60,6 @@ Shiki	Chibok	Borno	10.843	12.856	2
 Shilaffa	Hawul	Borno	10.328	12.159	2	Shilfafa
 Shaffa Kutagar	Hawul	Borno	10.427	12.261	2	Shata Aga
 Shetani	Hawul	Borno	10.391	12.241	2	
-Share	Ifelodun	Kwara	8.823	4.975	2	
 Gidan Shaba	Kokona	Nasarawa	8.680	7.971	2	Shaba
 Share Bachaka	Arewa Dandi	Kebbi	13.163	4.144	2	
 Shebu	Tsafe	Zamfara	12.011	6.959	2	
@@ -109,7 +123,7 @@ Shata	Nasarawa	Nasarawa	8.020	7.772	2
 Shara	Abaji	FCT Abuja	9.100	6.883	2	
 Shugule	Madagali	Adamawa	10.835	13.519	2	
 Shamari	Bama	Borno	11.718	14.053	2	
-Shellem	Shelleng	Adamawa	9.895	12.007	3	
+Chong	Kurmi	Taraba	7.033	10.767	2	Shonga;Schonga
 Shagalle	Dutsi	Katsina	12.958	8.106	2	Shargalle
 Panchani Danfaro	Shani	Borno	10.210	12.042	2	Pan-Shani
 Shakala Bube	Bunza	Kebbi	12.203	3.781	2	
@@ -152,10 +166,9 @@ Sherfuri	Dikwa	Borno	11.895	14.245	2
 Shosan-Isale	Akoko South East	Ondo	7.407	5.923	2	Shosan
 Sekungba	Epe	Lagos	6.633	3.883	2	Shekungba
 Shungurun	Birnin Kudu	Jigawa	11.438	9.560	2	
-Shagari	Shagari	Sokoto	12.628	4.993	3	
-Shendam	Shendam	Plateau	8.878	9.540	2	
 Songbe	Ejigbo	Osun	7.750	4.317	2	Shawmawgbe
 Sangote	Saki West	Oyo	8.667	3.367	2	Shongote
+Shuwa	Bali	Taraba	8.399	11.067	2	
 Shingile	Yala	Cross River	6.706	8.422	2	
 Shikarkir Lawanti	Chibok	Borno	10.802	12.780	2	Shikarkir
 Shako	Bunza	Kebbi	12.170	3.965	2	Chakao
@@ -185,48 +198,13 @@ Sheksharwa	Shani	Borno	10.212	12.097	2	Shaka-Shora
 Shagwa	Magama	Niger	10.104	4.703	2	Shakwa
 Shanyasu	Tangaza	Sokoto	13.417	4.803	2	
 Bikwo	Shiroro	Niger	10.263	6.883	2	Shalope;Shalupe
-Sharon Oil	Kaduna South	Kaduna	10.486	7.419	0	
-Sharon	Kaduna South	Kaduna	10.488	7.418	0	
-Sharon	Chikun	Kaduna	10.433	7.404	0	
-Shiroro Airport	Shiroro	Niger	9.883	6.815	0	
-Sheraton School	Surulere	Lagos	6.487	3.375	0	
-Sheikh Lawal Abubakar Islamic School	Kaduna North	Kaduna	10.508	7.433	0	
-A.Y.M Shafa	Jos North	Plateau	9.959	8.886	0	
-Shemi	Faskari	Katsina	11.708	7.163	0	
-Shopping Mall	Egor	Edo	6.364	5.589	0	
-Shopping Mall	Oredo	Edo	6.309	5.618	0	
-Sheik Muhammad Awwal School	Ifelodun	Kwara	8.275	4.793	0	
-Shopping Complex	Oredo	Edo	6.307	5.617	0	
-Shopping Mall	Oredo	Edo	6.298	5.603	0	
-Shafa	Municipal Area Council	FCT Abuja	9.000	7.473	0	
-Shops	Oredo	Edo	6.328	5.594	0	
-Shopping Complex	Oredo	Edo	6.344	5.610	0	
-shops	Oredo	Edo	6.331	5.596	0	
-Shopping Mall	Oredo	Edo	6.334	5.606	0	
-shop	Oredo	Edo	6.345	5.598	0	
-Shopping Mall	Oredo	Edo	6.335	5.608	0	
-Shopping Complex & Offices	Oredo	Edo	6.338	5.612	0	
-Patanne medical equipment shop	Oredo	Edo	6.327	5.625	0	
-Asemota Shopping Plaza	Oredo	Edo	6.335	5.619	0	
-Shopping complex	Oredo	Edo	6.336	5.620	0	
-Christ The Shepherd International School	Oredo	Edo	6.324	5.599	0	
-Shopping Mall	Egor	Edo	6.330	5.587	0	
-Aye Shopping Mall	Oredo	Edo	6.338	5.616	0	
-Shopping plaza	Oredo	Edo	6.338	5.616	0	
-Bobizua Shopping Mall	Oredo	Edo	6.335	5.615	0	
-Ero Shopping Mall	Oredo	Edo	6.349	5.622	0	
-Provision Shop	Enugu East	Enugu	6.466	7.596	0	
-Viva Healthfoo Shop & Dietetic Clinic	Enugu South	Enugu	6.418	7.495	0	
-El-Shaddai International Schools	Enugu East	Enugu	6.481	7.526	0	
-Dariyar Shere Primary Health Centre	Doguwa	Kano	10.671	8.741	0	
-Garin Shanono	Shanono	Kano	12.051	7.992	3	Shanono
+Shia	Sardauna	Taraba	6.795	10.854	2	
 Dariye Shere	Doguwa	Kano	10.672	8.740	2	Dariyar Shere|Shere
 Shahuchi	Kano Municipal	Kano	12.001	8.516	2	
 Sharada	Kano Municipal	Kano	11.974	8.506	2	
 Sheshe	Kano Municipal	Kano	11.997	8.514	2	She She
 Ali Sheriffti	Kukawa	Borno	12.858	13.855	2	
 Shaffa Ly Angwa Hassan	Hawul	Borno	10.509	12.325	2	
-Shadeen	Kagarko	Kaduna	9.572	7.425	0	
 Zara Zham	Hawul	Borno	10.474	12.435	2	Shahahiru
 Buba Shandu	Biu	Borno	10.836	11.739	2	
 Shagari Lowcost	Maiduguri	Borno	11.903	13.090	2	
@@ -303,8 +281,6 @@ Sheruri	Magumeri	Borno	11.992	12.960	2
 Shettimari	Magumeri	Borno	11.974	12.971	2	
 Shefan Abakwa	Toto	Nasarawa	8.285	7.122	2	
 Baba Shanya	Shani	Borno	10.114	11.941	2	
-Pilak Health Post Kombo Shani	Shani	Borno	10.064	11.832	0	
-Benisheikh	Kaga	Borno	11.809	12.492	3	Benisheik;Beni Sheik
 Shariff Gambo	Mobbar	Borno	12.879	12.396	2	
 Shariff Sulumdi	Mobbar	Borno	12.891	12.406	2	
 Shikwi	Kwaya Kusar	Borno	10.325	11.867	2	
@@ -318,7 +294,6 @@ Masho Sheruri	Mobbar	Borno	12.852	12.483	2
 Sheruri	Gubio	Borno	12.790	12.651	2	
 Sheruri	Mobbar	Borno	12.803	12.581	2	
 Shamtara	Kwaya Kusar	Borno	10.478	11.748	2	
-Shani MCH Clinic	Shani	Borno	10.218	12.065	0	
 Sharuwuri	Abadam	Borno	13.064	13.254	2	
 Sheri Bultuwa	Mobbar	Borno	13.341	12.935	2	
 Ali Shuwari	Nganzai	Borno	12.557	13.376	2	
@@ -334,22 +309,16 @@ Shaua	Damboa	Borno	11.211	13.087	2
 Shuwari Abbari	Damboa	Borno	11.225	12.849	2	
 Shuwari Abdul	Damboa	Borno	11.227	12.855	2	
 Shuwari Allamin	Damboa	Borno	11.230	12.849	2	
-Shittimari Primary Health Care	Kaga	Borno	11.526	12.412	0	
 Marja Shettima	Hawul	Borno	10.502	12.347	2	
 Shuwashuwa	Bayo	Borno	10.671	11.809	2	
-Shehuri Primary Health Clinic	Maiduguri	Borno	11.846	13.156	0	
 Shikwi	Biu	Borno	10.723	12.197	2	
 Geidam Alhaji Shanono	Biu	Borno	10.868	11.810	2	
 Jauro Shanono	Biu	Borno	10.867	11.810	2	
 Shuyaya Galdiri	Damboa	Borno	11.180	12.775	2	
-Shikarkir Primary Health Center	Chibok	Borno	10.803	12.776	0	
 Ajari Shuwa	Chibok	Borno	10.876	12.694	2	
 Shettima Dawari	Damboa	Borno	11.083	12.729	2	
 Shuwari Low-Cost	Damboa	Borno	11.178	12.774	2	
 Shikarkir Hiykeha	Chibok	Borno	10.773	12.767	2	
-Shoprite	Kano Municipal	Kano	11.978	8.535	0	
-Hadidi Shopping Complex	Kaduna North	Kaduna	10.547	7.464	0	
-Sharon Petrol Station	Municipal Area Council	FCT Abuja	8.988	7.355	0	
 Sharp corner Lowcost div	Gombe	Gombe	10.274	11.180	2	
 Sherumusari	Monguno	Borno	12.578	13.522	2	
 Jele Shuwari	Monguno	Borno	12.293	13.306	2	
@@ -374,18 +343,8 @@ Sheworam	Konduga	Borno	11.889	12.710	2
 Shuwari 1	Konduga	Borno	11.858	13.069	2	
 Shettimari	Konduga	Borno	11.601	12.988	2	
 Chilari Shuwari	Konduga	Borno	11.875	12.794	2	
-Good Shepard Academy	Port-Harcourt	Rivers	4.818	7.066	0	
 Tungar Shadadi	Bakura	Zamfara	12.346	5.818	2	
-EL SHADDAI CLINIC	Odogbolu	Ogun	6.803	3.904	0	
 Shehuri	Monguno	Borno	12.376	13.451	2	
-Palms Shopping Mall	Ibadan South West	Oyo	7.364	3.865	0	
-Shalom Medical Centre	Ogbomosho North	Oyo	8.143	4.247	0	
-Shehu Shagari Collage of Education	Wamako	Sokoto	12.997	5.214	0	
-A Y M Shafa filling station liji cross	Yamaltu/Deba	Gombe	10.277	11.230	0	
-Sadiqu shehu and sons filling station	Yamaltu/Deba	Gombe	10.278	11.267	0	
-JSS SHONGO IDRISA	Akko	Gombe	10.290	11.080	0	
-SHONGO HEALTH CLINIC	Akko	Gombe	10.289	11.080	0	
-Sheikh Gummi PHC	Wamako	Sokoto	13.019	5.227	0	
 Shengel A	Kunchi	Kano	12.480	8.315	2	
 Sharifawa	Bichi	Kano	12.304	8.162	2	
 Yan Shado	Dawakin Tofa	Kano	12.115	8.295	2	
@@ -418,6 +377,1008 @@ Shukutu	Takai	Kano	11.372	9.207	2
 Sharifawa	Garko	Kano	11.554	8.817	2	
 Shayawa	Garko	Kano	11.568	8.859	2	
 Shabburi	Bunkure	Kano	11.648	8.611	2	
+Shembire	Fika	Yobe	11.401	11.264	2	
+Shemi	Faskari	Katsina	11.705	7.162	2	
+Shinkafa	Kagarko	Kaduna	9.330	7.779	2	
+Shibiri	Ojo	Lagos	6.461	3.150	2	
+Shekau	Tarmua	Yobe	12.158	11.675	2	
+Shoye	Fika	Yobe	11.252	11.141	2	
+Shaiya	Malam Maduri	Jigawa	12.449	9.851	2	
+Shabaru	Sule Tankakar	Jigawa	12.578	9.190	2	
+Shuwarin	Kiyawa	Jigawa	11.775	9.404	2	
+Shinkafi South	Shinkafi	Zamfara	13.060	6.507	2	
+Shinkafi North	Shinkafi	Zamfara	13.076	6.494	2	
+Shanawa	Shinkafi	Zamfara	13.097	6.474	2	
+Shagari	Shagari	Sokoto	12.594	4.991	2	
+Shagari	Shagari	Sokoto	12.543	5.072	2	
+Shuni	Dange-Shuni	Sokoto	12.926	5.271	2	
+Shinkafi	Shinkafi	Zamfara	13.037	6.370	2	
+Shinaka	Goronyo	Sokoto	13.536	5.668	2	
+Dange-Shuni	Dange-Shuni	Sokoto	12.826	5.419	2	
+Lani Shiba	Koko-Besse	Kebbi	11.644	4.385	2	
+Yalmo Shindi Wari	Wasagu-Danko	Kebbi	11.642	5.254	2	
+Shanga	Shanga	Kebbi	11.209	4.643	2	
+Shanga	Shanga	Kebbi	11.196	4.606	2	
+Sharabi Kwanguwai	Bagudo	Kebbi	11.605	4.222	2	
+Shiko	Dandi	Kebbi	11.810	3.852	2	
+Dandiya Shema	Suru	Kebbi	11.999	4.108	2	
+Shika	Giwa	Kaduna	11.205	7.558	2	
+Shuwaki	Tudun Wada	Kano	11.323	8.379	2	
+Shamakawa	Kunchi	Kano	12.414	8.299	2	
+She She	Kano Municipal	Kano	11.997	8.513	2	
+Shakogi	Shanono	Kano	12.030	8.029	2	
+Garun Sheme	Kunchi	Kano	12.376	8.204	2	
+Shuwaki	Kunchi	Kano	12.458	8.222	2	
+Shagogo	Gaya	Kano	11.868	8.965	2	
+Shinkafi 1	Muhammadu Dikko Stadium	Katsina	13.050	7.657	2	
+Shinkafi 2	Muhammadu Dikko Stadium	Katsina	13.003	7.662	2	
+Shibdawa	Bindawa	Katsina	12.764	7.811	2	
+Shafe	Gwiwa	Jigawa	12.805	8.269	2	
+Sheme	Faskari	Katsina	11.708	7.124	2	
+Shema	Dutsin Ma	Katsina	12.506	7.529	2	
+Shanono	Shanono	Kano	12.097	7.926	2	
+Shiroro	Shiroro	Niger	10.084	6.719	2	
+Shagamu	Shagamu	Ogun	6.808	3.589	2	
+Shendam	Shendam	Plateau	8.737	9.516	2	
+Shehuri	Bama	Borno	11.507	14.170	2	
+Shehuri North	Maiduguri	Borno	11.852	13.160	2	
+Shehuri South	Maiduguri	Borno	11.844	13.158	2	
+Shaffa	Hawul	Borno	10.513	12.366	2	
+Shani	Shani	Borno	10.201	12.019	2	
+Shirarkir	Chibok	Borno	10.772	12.745	2	
+Shongom	Shongom	Gombe	9.736	11.273	2	
+Shongo	Kirfi	Bauchi	10.530	10.365	2	
+Shira	Shira	Bauchi	11.476	10.088	2	
+Shira	Shira	Bauchi	11.465	10.063	2	
+Shere	Doguwa	Kano	10.657	8.784	2	
+Shelleng	Shelleng	Adamawa	9.978	12.108	2	
+Shani	Shani	Borno	10.195	11.948	2	
+Shettimari	Kaga	Borno	11.472	12.383	2	
+Shehuri	Ngala	Borno	12.416	14.145	2	
+Shaba	Kaduna North	Kaduna	10.521	7.435	2	
+Unguwar Shanu	Kaduna North	Kaduna	10.543	7.427	2	
+Shomolu	Shomolu	Lagos	6.534	3.384	2	
+Shugbe	Bassa	Kogi	8.008	7.250	2	Zugbe
+Zongon Konbi Jauro Shuaibu	Ardo-Kola	Taraba	8.803	11.050	2	
+Wuro Waziri Shabal	Numan	Adamawa	9.577	12.021	2	
+Wuro Shiji	Gombe	Gombe	10.258	11.166	2	
+Wuro Sheku	Hong	Adamawa	10.179	13.119	2	
+Wuro Shakau	Gassol	Taraba	8.511	10.286	2	
+Shere	Toto	Nasarawa	8.206	7.303	2	Ushere
+Ungwar Sarkin Shiga	Shelleng	Adamawa	10.259	12.289	2	
+Ungwan Shinkafa	Kubau	Kaduna	10.683	8.100	2	
+Ungwan Shika	Arewa Dandi	Kebbi	12.580	3.929	2	
+Ungwan Shida	Gwarzo	Kano	11.961	7.834	2	
+Ungwan Shekaro	Birnin Gwari	Kaduna	10.676	6.563	2	
+Tsohon Shani	Shani	Borno	10.207	12.056	2	
+Taram	Qua'An Pan	Plateau	8.786	9.148	2	Shindei
+Shufa	Gamawa	Bauchi	12.154	10.428	2	Sufa
+Showoshi	Shanga	Kebbi	11.092	4.680	2	Sowashe
+Shimawa	Shagamu	Ogun	6.764	3.488	2	Simawa
+Shuwe	Dukku	Gombe	10.705	10.877	2	
+Shuwate	Ngaski	Kebbi	10.183	4.683	2	
+Shuwari	Misau	Bauchi	11.291	10.468	2	
+Shuwari	Dukku	Gombe	10.865	10.607	2	
+Shuwaki	Tudun Wada	Kano	11.311	8.395	2	
+Shuwaka	Kurmi	Taraba	7.383	10.792	2	
+Shuwa	Hong	Adamawa	10.259	13.046	2	Madbula
+Shuul	Konshisha	Benue	7.016	8.830	2	
+Shundu	Ushongo	Benue	7.082	8.974	2	
+Shun	Guma	Benue	7.982	8.810	2	
+Shulo	Akko	Gombe	10.104	11.287	2	
+Shugh	Guma	Benue	8.029	8.519	2	
+Shuaka	Birnin Gwari	Kaduna	10.717	6.283	2	
+Showa	Munya	Niger	9.971	7.217	2	
+Shauda	Maru	Zamfara	11.251	6.336	2	Shouda
+Shonre	Yorro	Taraba	8.991	11.527	2	
+Shonpa Gana	Bali	Taraba	8.483	11.433	2	
+Shonkyaa	Takum	Taraba	7.493	10.086	2	
+Shomulekiri	Kabba/Bunu	Kogi	8.209	6.160	2	
+Shombo	Rijau	Niger	10.967	5.250	2	
+Shom	Gboko	Benue	7.417	8.723	2	
+Shom	Gboko	Benue	7.360	8.616	2	
+Shom	Gboko	Benue	7.296	8.701	2	
+Shom	Konshisha	Benue	7.114	8.745	2	
+Shom	Ushongo	Benue	7.102	8.979	2	
+Sholbo	Konshisha	Benue	7.261	8.614	2	
+Shoku	Oyo West	Oyo	7.900	3.744	2	
+Shoho	Obi	Nasarawa	8.299	8.828	2	
+Shoho	Wukari	Taraba	7.849	10.054	2	
+Shog	Riyom	Plateau	9.485	8.757	2	
+Shiwun	Obafemi Owode	Ogun	6.950	3.533	2	
+Shiwua	Guma	Benue	7.876	8.608	2	
+Shiwoku	Ifako/Ijaye	Lagos	6.667	3.283	2	
+Shiwer	Kanke	Plateau	9.316	9.672	2	
+Shiwari	Kiyawa	Jigawa	11.789	9.405	2	
+Shiwaki	Sumaila	Kano	11.277	9.041	2	
+Shiuba	Rafi	Niger	10.383	6.067	2	Ashisha
+Shitire	Obi	Nasarawa	8.361	8.932	2	
+Shitima Mainari	Gujba	Yobe	11.525	12.318	2	
+Shitalo	Gudu	Sokoto	13.333	4.149	2	
+Shishiwaji	Gulani	Yobe	11.095	11.862	2	
+Shishi Bako	Akko	Gombe	10.145	11.187	2	
+Shishi	Gbako	Niger	9.253	6.012	2	
+Shishi	Konshisha	Benue	7.104	8.734	2	
+Shirwun	Gombi	Adamawa	10.082	12.674	2	
+Shirraba	Kala-Balge	Borno	11.814	14.436	2	
+Shiroro	Shiroro	Niger	9.993	6.819	2	
+Shiroma Ladu	Kafur	Katsina	11.400	7.600	2	
+Shirigari	Birnin Gwari	Kaduna	10.825	6.427	2	
+Shiri	Katcha	Niger	9.368	6.460	2	
+Shirgi	Bungudu	Zamfara	12.314	6.607	2	
+Shirfaya Hamlets	Chibok	Borno	10.863	12.787	2	
+Shirba	Gombi	Adamawa	10.288	12.376	2	
+Shipo	Agaie	Niger	8.915	6.407	2	
+Shinye	Ibi	Taraba	8.273	9.767	2	
+Shintaku	Bassa	Kogi	7.718	6.761	2	
+Shinkafi	Muhammadu Dikko Stadium	Katsina	13.029	7.644	2	
+Shinkafa	Takum	Taraba	7.253	10.040	2	
+Shingule	Gboko	Benue	7.462	8.643	2	
+Shinginjelan	Fika	Yobe	11.517	11.025	2	Shinginjelam
+Shingere	Gurara	Niger	9.383	7.124	2	
+Shingenge	Konshisha	Benue	7.011	8.702	2	
+Shingabe	Maiha	Adamawa	9.721	13.137	2	
+Shindiwi	Shelleng	Adamawa	9.721	12.030	2	
+Shindifu	Hawul	Borno	10.499	12.357	2	
+Shindaruru	Baruten	Kwara	9.058	3.325	2	
+Shinbo	Gboko	Benue	7.464	8.640	2	
+Shimmar	Lafia	Nasarawa	8.850	8.883	2	
+Shimkwari	Gombi	Adamawa	10.176	12.568	2	
+Shimfida	Jibia	Katsina	12.883	7.067	2	
+Shimem	Konshisha	Benue	7.097	8.583	2	
+Shime	Song	Adamawa	10.028	12.454	2	
+Shime	Song	Adamawa	9.552	12.271	2	
+Shimbi	Paikoro	Niger	9.483	6.985	2	
+Shimbe	Konshisha	Benue	7.094	8.747	2	
+Shimana	Konshisha	Benue	7.072	8.711	2	
+Shimakpe	Ushongo	Benue	7.099	8.923	2	
+Shima	Gombi	Adamawa	10.100	12.614	2	
+Shima	Konshisha	Benue	7.050	8.789	2	
+Shima	Vandeikya	Benue	7.016	8.952	2	
+Shilo	Kala-Balge	Borno	12.233	14.533	2	Ssulo
+Kuwa	Toto	Nasarawa	8.148	7.131	2	Shikokwa|Shikwokwa
+Shikokwa	Toto	Nasarawa	8.131	7.108	2	
+Shiko	Dandi	Kebbi	11.778	3.838	2	
+Shikini	Fufore	Adamawa	8.875	12.557	2	
+Shike	Kibiya	Kano	11.491	8.655	2	
+Shikaku	Kogi	Kogi	7.874	6.800	2	
+Shikaa	Awe	Nasarawa	8.326	9.107	2	
+Shika	Mokwa	Niger	9.483	4.733	2	
+Shika	Gassol	Taraba	8.640	10.581	2	
+Shigbolu	Kachia	Kaduna	9.762	7.541	2	
+Shigba	Ushongo	Benue	7.076	8.967	2	
+Shigacawa	Madobi	Kano	11.828	8.422	2	
+Shielil	Konshisha	Benue	7.219	8.606	2	
+Shidisaba	Katcha	Niger	8.959	6.143	2	
+Shidimda	Gombi	Adamawa	10.088	12.506	2	
+Shiburu	Doguwa	Kano	10.743	8.665	2	
+Shibi	Toro	Bauchi	10.666	8.915	2	
+Shibi	Hong	Adamawa	10.111	12.924	2	
+Shibera	Hawul	Borno	10.361	12.316	2	
+Shiam	Bama	Borno	11.471	13.730	2	
+Shiajil	Gboko	Benue	7.323	8.715	2	
+Sheuda	Paikoro	Niger	9.461	6.888	2	
+Shettimari	Borsari	Yobe	12.685	11.642	2	
+Sheta	Bosso	Niger	9.752	6.501	2	
+Sheshi Ewowara	Edati	Niger	8.950	6.082	2	
+Sheru	Toro	Bauchi	10.518	9.064	2	
+Sherifuri	Funakaye	Gombe	10.842	11.401	2	
+Shereti	Municipal Area Council	FCT Abuja	8.944	7.443	2	Sherete
+Share	Jos East	Plateau	9.972	9.049	2	Shere
+Shere	Bwari	FCT Abuja	9.235	7.497	2	Share
+Suletu	Toto	Nasarawa	8.190	7.127	2	Sheratu
+Sheppi	Shiroro	Niger	10.305	7.042	2	
+Sheppi	Chikun	Kaduna	10.267	7.167	2	
+Sheno	Shelleng	Adamawa	10.117	12.185	2	
+Shengu	Shongom	Gombe	9.662	11.107	2	
+Shenge-Shenge	Kaltungo	Gombe	9.981	11.387	2	Shenge Shenge|ShengeShenge
+Shenge	Gwer East	Benue	7.422	8.572	2	
+Shenge	Konshisha	Benue	7.039	8.528	2	
+Shenagu	Gwagwalada	FCT Abuja	9.084	7.148	2	
+Shen	Jos South	Plateau	9.765	8.910	2	
+Shemeli	Teungo	Adamawa	7.772	11.732	2	
+Sheme	Kunchi	Kano	12.400	8.240	2	
+Shembulu	Shelleng	Adamawa	9.809	12.147	2	
+Shembire	Fika	Yobe	11.343	11.261	2	
+Shember	Gboko	Benue	7.204	8.739	2	
+Shembel	Ushongo	Benue	7.161	8.954	2	
+Shematawer	Konshisha	Benue	7.250	8.617	2	
+Shemankar	Shendam	Plateau	8.632	9.524	2	
+Shemage	Nasarawa	Nasarawa	8.628	7.783	2	Shemagi
+Shema	Dutsin Ma	Katsina	12.467	7.517	2	
+Shellim	Katagum	Bauchi	11.664	10.534	2	
+Shela	Billiri	Gombe	9.730	11.100	2	
+Shekusum	Bali	Taraba	8.116	11.137	2	
+Shekeuru-Yayi	Fufore	Adamawa	9.449	12.958	2	Shekeuru Yayi
+Shekeuru Gori	Fufore	Adamawa	9.469	12.968	2	
+Shekato	Kafin Hausa	Jigawa	12.180	10.100	2	
+Sheigba	Awe	Nasarawa	8.108	9.057	2	
+Shehla	Sardauna	Taraba	7.222	11.018	2	
+Shegi	Gurara	Niger	9.461	7.115	2	
+Shegh	Gboko	Benue	7.263	8.704	2	
+Shegh	Konshisha	Benue	7.205	8.643	2	
+Shege	Toto	Nasarawa	8.114	7.318	2	
+Shegau	Tarmua	Yobe	12.148	11.686	2	
+Shefunda	Gombi	Adamawa	10.215	12.334	2	
+Shafan-Abakwa	Toto	Nasarawa	8.285	7.122	2	Shefan Abakwa|ShefanAbakwa
+Shedori	Dukku	Gombe	10.814	10.557	2	
+Shedemu	Kogi	Kogi	8.390	6.938	2	
+Shede	Jada	Adamawa	8.715	12.480	2	
+Shebona	Gwagwalada	FCT Abuja	9.143	7.031	2	
+Shebole	Jada	Adamawa	8.746	12.154	2	
+Shebere	Song	Adamawa	10.034	12.315	2	
+Sheba	Koko-Besse	Kebbi	11.717	4.307	2	Ileia
+Sheba	Fufore	Adamawa	9.051	12.420	2	
+Shayimi	Fufore	Adamawa	8.800	12.498	2	
+Shaya	Malam Maduri	Jigawa	12.438	9.754	2	
+Shawon	Markurdi	Benue	7.854	8.516	2	
+Shawon	Konshisha	Benue	7.375	8.574	2	
+Shawon	Gboko	Benue	7.329	8.727	2	
+Shawon	Gboko	Benue	7.332	8.668	2	
+Shaware	Dan Musa	Katsina	12.274	7.274	2	
+Shawa	Askira-Uba	Borno	10.854	13.125	2	
+Shaukikafuta	Bosso	Niger	9.543	6.526	2	
+Shau	Toro	Bauchi	10.469	9.148	2	
+Shateri	Kiyawa	Jigawa	11.876	9.694	2	
+Shata Aga	Hawul	Borno	10.427	12.260	2	
+Shashuwa	Magama	Niger	10.550	5.217	2	
+Shashau	Hong	Adamawa	10.324	12.855	2	
+Shasha	Aiyedade	Osun	7.128	4.378	2	
+Sharu	Riyom	Plateau	9.475	8.770	2	
+Sharowa	Alkaleri	Bauchi	9.990	10.214	2	
+Sharkawa	Kaugama	Jigawa	12.376	9.710	2	
+Sherifuri	Kirfi	Bauchi	10.315	10.573	2	Sharifuri|Sherfuri
+Sharangi	Kwaya Kusar	Borno	10.356	11.953	2	
+Sharabutu	Riyom	Plateau	9.514	8.693	2	
+Shara	Gwagwalada	FCT Abuja	9.091	6.886	2	
+Shara	Yorro	Taraba	8.698	11.682	2	
+Shara	Lafia	Nasarawa	8.467	8.523	2	
+Shar	Gboko	Benue	7.305	8.735	2	
+Shapai	Chikun	Kaduna	10.424	7.015	2	
+Shao	Moro	Kwara	8.594	4.556	2	
+Shanu	Kagarko	Kaduna	9.401	7.250	2	
+Shanshani	Toro	Bauchi	10.685	8.984	2	
+Shansha	Konshisha	Benue	7.088	8.685	2	
+Shanpu	Bali	Taraba	8.584	11.116	2	
+Shankwabunu	Jada	Adamawa	8.496	12.111	2	
+Shankadade	Mashegu	Niger	9.517	4.567	2	
+Shani	Lere	Kaduna	10.379	8.757	2	
+Shango	Tarka	Benue	7.556	8.856	2	
+Shanger-De	Konshisha	Benue	7.150	8.578	2	
+Shanganawa	Nafada	Gombe	10.946	11.282	2	
+Shanengem	Takum	Taraba	7.387	10.122	2	
+Shanbalegbo	Gbako	Niger	9.443	6.072	2	Shabalegbo
+Shana	Fika	Yobe	11.534	10.970	2	
+Shamo	Konshisha	Benue	7.117	8.576	2	
+Shaminau	Gboko	Benue	7.246	8.814	2	
+Shami Mairi	Geidam	Yobe	12.852	11.907	2	
+Shamiki	Shiroro	Niger	10.010	6.726	2	
+Shamiger-Jine	Ushongo	Benue	7.149	8.986	2	
+Shamiga	Ushongo	Benue	7.191	8.980	2	
+Shamiambu	Rafi	Niger	10.367	6.300	2	
+Shambayi	Nangere	Yobe	11.804	11.085	2	
+Shamange	Konshisha	Benue	7.039	8.849	2	
+Shamaki	Warji	Bauchi	11.224	9.653	2	
+Shamaki	Jada	Adamawa	8.618	12.316	2	
+Shamaki	Ussa	Taraba	7.013	10.101	2	
+Sham	Konshisha	Benue	7.132	8.654	2	
+Shaluko	Bosso	Niger	9.575	6.611	2	Shalko
+Shalodi	Dukku	Gombe	10.769	10.791	2	
+Sharawa	Minjibir	Kano	12.196	8.612	2	Shallawa
+Shala	Epe	Lagos	6.621	3.914	2	
+Shakyo	Konshisha	Benue	7.211	8.625	2	
+Shakwoi	Gurara	Niger	9.393	7.075	2	
+Shakwatu	Shiroro	Niger	9.658	6.706	2	Shakwata
+Shakwada	Giwa	Kaduna	10.933	7.017	2	
+Shakwada	Shiroro	Niger	9.912	6.814	2	
+Shakwa	Konshisha	Benue	7.245	8.532	2	
+Shakulalu	Chikun	Kaduna	10.118	6.947	2	Shakulafi
+Shakuda	Hawul	Borno	10.574	12.016	2	
+Shaku	Gbako	Niger	9.550	6.166	2	
+Shakpeshi	Gurara	Niger	9.400	7.023	2	
+Shakpere	Paikoro	Niger	9.481	7.005	2	
+Shakochi	Edati	Niger	8.911	6.041	2	
+Shaki	Boluwaduro	Osun	7.900	4.767	2	
+Shakda	Hawul	Borno	10.486	12.016	2	
+Shakayna	Chikun	Kaduna	10.095	6.961	2	
+Shakar	Konshisha	Benue	7.301	8.564	2	
+Shakafito	Dan Musa	Katsina	12.308	7.327	2	
+Shaibawa	Nangere	Yobe	11.847	11.179	2	
+Shai	Paikoro	Niger	9.499	6.700	2	
+Shahahiru	Hawul	Borno	10.473	12.438	2	
+Shagerawa	Birnin Magaji-Kiyaw	Zamfara	12.417	6.701	2	
+Sagbon	Yewa North	Ogun	7.015	2.932	2	Shagbon
+Shagbaor	Awe	Nasarawa	8.100	9.073	2	
+Shagba	Konshisha	Benue	7.178	8.599	2	
+Shagba	Ushongo	Benue	7.045	8.988	2	
+Shagarda	Ardo-Kola	Taraba	8.804	10.903	2	
+Shaga	Shiroro	Niger	9.966	6.766	2	
+Shafun	Gassol	Taraba	8.568	11.010	2	
+Shafula Karemi	Hong	Adamawa	10.294	12.780	2	
+Shafula	Hong	Adamawa	10.288	12.802	2	
+Shafi	Shiroro	Niger	10.206	6.789	2	
+Shaffini	Mashegu	Niger	9.884	4.742	2	
+Shafe	Madobi	Kano	11.755	8.266	2	
+Shafar	Ringim	Jigawa	12.107	9.226	2	
+Shafan Bano	Alkaleri	Bauchi	10.035	10.385	2	
+Shafada	Gwaram	Jigawa	11.078	9.933	2	
+Shafa	Kwaya Kusar	Borno	10.399	12.017	2	
+Shafa	Alkaleri	Bauchi	9.696	10.240	2	
+Shaegb	Konshisha	Benue	7.060	8.657	2	
+Shadugh	Ganye	Adamawa	8.351	11.973	2	
+Shadowanka	Bauchi	Bauchi	10.337	9.814	2	
+Shadi	Potiskum	Yobe	11.695	11.051	2	
+Shadareki	Darazo	Bauchi	10.892	10.382	2	
+Shadamai	Yankwashi	Jigawa	12.821	8.551	2	
+Shadadi	Chikun	Kaduna	10.650	7.167	2	
+Shadadi	Shiroro	Niger	10.300	6.583	2	
+Shabomi	Ese Odo	Ondo	6.441	4.892	2	
+Shabiwa	Dukku	Gombe	10.804	10.773	2	
+Shabiru	Sule Tankakar	Jigawa	12.567	9.177	2	
+Shabal	Misau	Bauchi	11.283	10.533	2	
+Shaapela	Gboko	Benue	7.334	8.704	2	
+Shaangahar	Konshisha	Benue	7.075	8.660	2	
+Shaanengel	Konshisha	Benue	7.068	8.705	2	
+Shaana	Gwer East	Benue	7.444	8.508	2	
+Shaahu	Gboko	Benue	7.394	8.653	2	
+Sepeteri	Saki East	Oyo	8.628	3.644	2	Shepeteri
+Semore	Ijebu North	Ogun	7.038	3.799	2	Shemore
+Sebore Shembole	Mayo-Belwa	Adamawa	8.906	12.126	2	
+Sawonjo	Yewa North	Ogun	7.088	3.005	2	Shawawnpa
+Sarkin Shanu	Bebeji	Kano	11.451	8.373	2	
+Share	Baruten	Kwara	9.674	3.343	2	Sare
+Sanni	Saki West	Oyo	8.738	3.076	2	Shenne
+Sala-Orile	Yewa North	Ogun	7.213	2.974	2	Sala Orile|Shala
+Rugar Shaudu	Tambuwal	Sokoto	12.467	4.817	2	Ruggar Shaudu
+Rigan Mallam Shehu	Darazo	Bauchi	10.923	10.451	2	
+Pan-Shani	Shani	Borno	10.209	12.040	2	
+Ode-Saka	Surulere	Oyo	8.252	4.430	2	Awde-Shaka|Ode Saka|Ode-Shaka
+Obafemi	Obafemi Owode	Ogun	7.115	3.613	2	Shilade
+Maje	Gwagwalada	FCT Abuja	9.100	6.892	2	Shimbo
+Mai Shera	Kurmi	Taraba	7.217	10.701	2	
+Lamba Shawari	Dukku	Gombe	10.765	10.563	2	
+Jauro Shomwa	Ardo-Kola	Taraba	8.817	11.281	2	
+Jauro Shofo	Jalingo	Taraba	8.925	11.284	2	
+Jauro Sheudo	Ardo-Kola	Taraba	8.833	11.293	2	
+Jauro Shebu	Bali	Taraba	8.436	11.090	2	
+Gidan Shere	Doguwa	Kano	10.671	8.741	2	Shere
+Gidan Shekaro	Chikun	Kaduna	10.433	7.367	2	
+Guidan Shanono	Bungudu	Zamfara	12.209	6.524	2	Gidan Shanono
+Guidan Shagwo	Gusau	Zamfara	12.011	6.674	2	Gidan Shagwa
+Gidan Shabagu	Rafi	Niger	10.350	6.350	2	
+Gidan Shaba	Gwagwalada	FCT Abuja	9.166	6.878	2	
+Shaba	Kokona	Nasarawa	8.652	7.937	2	Gidan Shaba
+Garin Lamido Shanu	Nangere	Yobe	11.789	11.209	2	
+Fan Shanu	Igabi	Kaduna	10.688	7.739	2	
+Shole Buba	Nafada	Gombe	11.024	11.346	2	Chole
+Chakao	Bunza	Kebbi	12.170	3.966	2	Shako
+Apowa-Shangel Area	Lau	Taraba	9.119	11.536	2	Apawa
+Agosasa	Ipokia	Ogun	6.583	2.768	2	Agaw Shasha|Ago Sasa
+Shogunle	Oshodi/Isolo	Lagos	6.574	3.343	2	
+Shangisha	Kosofe	Lagos	6.613	3.374	2	Sagisa
+Ungwar Shanu	Kaduna North	Kaduna	10.546	7.426	2	
+Sherifawa	Gezawa	Kano	12.005	8.736	2	
+Shosho	Askira-Uba	Borno	10.678	13.161	2	
+Shirawa	Kala-Balge	Borno	11.815	14.436	2	
+Shelma	Kala-Balge	Borno	11.944	14.415	2	
+Shetimanganari	Abadam	Borno	13.580	13.272	2	
+Shimningo	Shelleng	Adamawa	10.009	12.036	2	
+Shinyi	Shelleng	Adamawa	10.045	12.239	2	
+Shaka-Shora	Shani	Borno	10.207	12.105	2	
+Shilfafa	Hawul	Borno	10.325	12.162	2	
+Shugduku	Hawul	Borno	10.377	12.222	2	
+Shafa	Kwaya Kusar	Borno	10.444	12.047	2	
+Shenge	Gwer East	Benue	7.247	8.241	2	
+Shaa	Gwer East	Benue	7.283	8.415	2	
+Shagba	Gwer West	Benue	7.512	8.145	2	
+Shapera	Oturkpo	Benue	7.557	8.080	2	
+Shiver	Gwer West	Benue	7.569	8.291	2	
+Shuur	Gwer West	Benue	7.688	8.118	2	
+Sheair	Gwer West	Benue	7.748	8.358	2	
+Ungwan Shekarao	Kalgo	Kebbi	12.459	3.951	2	
+Shado	Baure	Katsina	12.839	8.835	2	
+Shanteky	Babura	Jigawa	12.562	8.775	2	
+Shiwaki	Kunchi	Kano	12.420	8.177	2	
+Shakogi	Shanono	Kano	12.051	8.079	2	
+Kankare Shiriyan	Babura	Jigawa	12.489	8.812	2	
+Shadokufata	Garki	Jigawa	12.352	8.784	2	
+Shedigalla	Dutsi	Katsina	12.898	8.120	2	
+Shafe	Gwiwa	Jigawa	12.801	8.263	2	
+Sharawa	Daura	Katsina	12.921	8.238	2	
+Shabou	Dutsi	Katsina	12.924	8.108	2	
+Shibdawa	Bindawa	Katsina	12.753	7.821	2	
+Shadawa	Bindawa	Katsina	12.612	7.877	2	
+Shaya	Dan Musa	Katsina	12.176	7.486	2	
+Shadadi	Birnin Gwari	Kaduna	10.661	6.431	2	
+Shanyasu	Tangaza	Sokoto	13.452	4.774	2	
+Gidan Shekaro	Madaoua	Sokoto	13.720	5.984	2	
+Gidan Shibkau	Sabon Birni	Sokoto	13.529	5.991	2	
+Ugwan Shakidi	Agwara	Niger	10.886	4.410	2	
+Shafaci	Borgu	Niger	10.799	4.307	2	
+Ungwan Shehu	Kankara	Katsina	11.889	7.607	2	
+Ungwan Dan Shuni	Bakori	Katsina	11.739	7.297	2	
+Shatanbaya	Malumfashi	Katsina	11.781	7.439	2	
+Shamaki	Malumfashi	Katsina	11.753	7.487	2	
+Shuwaki	Malumfashi	Katsina	11.723	7.479	2	
+Ungwan Mai Shanu	Dandume	Katsina	11.496	7.243	2	
+Ungwan Shadauro	Ikara	Kaduna	11.449	7.996	2	
+Ungwan Shatambaya	Dandume	Katsina	11.286	7.272	2	
+Ungwan Shika	Kudan	Kaduna	11.261	7.693	2	
+Ungwan Mai Shanu	Giwa	Kaduna	11.144	7.590	2	
+Shika	Sabon Gari	Kaduna	11.139	7.764	2	
+Ungwan Sharubutu	Zaria	Kaduna	11.035	7.797	2	
+Sha Aluashi	Kebbe	Sokoto	11.637	4.559	2	Garin Magaji
+Shabanda	Shanga	Kebbi	11.041	4.593	2	
+Ungwan Shantali	Tsafe	Zamfara	11.830	6.774	2	
+Shado	Giwa	Kaduna	11.191	6.946	2	
+Shafawa	Garum Mallam	Kano	11.722	8.442	2	
+Shiye	Bunkure	Kano	11.645	8.468	2	
+Iyere Shrine	Isoko North	Delta	5.618	6.300	2	
+Anambra East	Anambra East	Anambra	6.267	6.817	2	Agbegbe Ijoba Ibile Ilaorun Anambra|Anambra Est|Anambra ta Gabas|Anambra-Leste|Tang Anambra|anmbas shrqy
+Chanchaga	Chanchaga	Niger	9.605	6.514	2	Agbegbe Ijoba Ibile Chanchaga|shantshagha
+Shagamu	Shagamu	Ogun	6.799	3.568	2	
+Shomolu	Shomolu	Lagos	6.556	3.369	2	
+Shanono	Shanono	Kano	12.046	7.951	2	Agbegbe Ijoba Ibile Shanono|Xanono|shanwnw
+Shanga	Shanga	Kebbi	11.212	4.610	2	Shanga Local Government Area
+Shagari	Shagari	Sokoto	12.560	5.130	2	Shagari Local Government Area
+Shinkafi	Shinkafi	Zamfara	13.038	6.512	2	Agbegbe Ijoba Ibile Shinkafi|Shinkafi Local Government Area
+Shira	Shira	Bauchi	11.504	10.017	2	Agbegbe Ijoba Ibile Shira|Shira Local Government Area
+Shiroro	Shiroro	Niger	10.115	6.683	2	Shiroro Local Government Area
+Wushishi	Wushishi	Niger	9.702	5.937	2	Agbegbe Ijoba Ibile Wushishi|Wushishi Local Government Area|wu shen shi
+Shomgom	Shongom	Gombe	9.674	11.257	2	Shongom|Shongom Local Government Area
+Shelleng	Shelleng	Adamawa	9.948	12.127	2	Shelleng Local Government Area
+Shani	Shani	Borno	10.184	11.964	2	Agbegbe Ijoba Ibile Shani|Shani Local|Shani Local Government Area
+Shangaram	Kukawa	Borno	13.281	13.831	2	
+Sharawa	Abadam	Borno	13.034	13.337	2	
+Gmawa Shiwari	Marte	Borno	12.387	13.912	2	
+Shike	Michika	Adamawa	10.547	13.450	2	
+Shikagana	Michika	Adamawa	10.562	13.254	2	
+Shehuri	Maiduguri	Borno	11.853	13.162	2	
+Shokwari	Jere	Borno	11.856	13.188	2	
+Shugula	Fika	Yobe	11.326	11.075	2	
+Sherfuri	Fika	Yobe	11.044	11.474	2	
+Shole Karama	Nafada	Gombe	11.041	11.352	2	
+Shamka	Fune	Yobe	11.596	11.608	2	
+Shamu	Gwer East	Benue	7.254	8.408	2	
+Shishi	Gwer East	Benue	7.256	8.299	2	
+Shiada	Gwer East	Benue	7.282	8.249	2	
+Shehuri	Bama	Borno	11.518	14.188	2	
+Shettimari	Kaga	Borno	11.449	12.357	2	
+Shuwarin	Kiyawa	Jigawa	11.782	9.408	2	
+Shere	Doguwa	Kano	10.670	8.778	2	
+Shagogo	Gaya	Kano	11.852	8.964	2	
+Garun Sheme	Kunchi	Kano	12.377	8.211	2	
+Shagari	Shagari	Sokoto	12.600	4.995	2	
+Sharabi Kwanguwai	Bagudo	Kebbi	11.611	4.205	2	
+Shiko	Dandi	Kebbi	11.815	3.866	2	
+Shanga	Shanga	Kebbi	11.205	4.649	2	
+Shinaka	Goronyo	Sokoto	13.517	5.688	2	
+Shanawa	Shinkafi	Zamfara	13.094	6.471	2	
+Shinkafi North	Shinkafi	Zamfara	13.076	6.495	2	
+Shimaibo	Gwer West	Benue	7.529	8.200	2	
+Shuur	Markurdi	Benue	7.659	8.487	2	
+Shimaguma	Gwer East	Benue	7.592	8.393	2	
+Shiar	Gwer West	Benue	7.783	8.149	2	
+Shinyi	Logo	Benue	7.756	9.268	2	
+Shie	Wukari	Taraba	7.881	9.332	2	
+Shchiaa	Wukari	Taraba	7.837	9.299	2	Shichiaa
+Shausu	Wukari	Taraba	7.891	9.426	2	
+Shiva	Wukari	Taraba	7.990	9.487	2	
+Shenge	Wukari	Taraba	7.935	9.489	2	
+Shima	Ukum	Benue	7.808	9.484	2	
+Shirgba	Guma	Benue	7.745	9.007	2	
+Shamiga	Logo	Benue	7.644	9.059	2	
+Shamee	Buruku	Benue	7.571	9.028	2	
+Shima	Logo	Benue	7.658	9.174	2	
+Shagba	Logo	Benue	7.607	9.100	2	
+Shaga	Buruku	Benue	7.533	9.095	2	Shagba
+Shivela	Logo	Benue	7.559	9.277	2	
+Shetire	Ukum	Benue	7.725	9.421	2	
+Shapera	Ukum	Benue	7.693	9.450	2	
+Shagwase	Logo	Benue	7.510	9.394	2	
+Shidawa	Kurmi	Taraba	7.358	10.522	2	
+Shember	Wukari	Taraba	7.892	9.688	2	
+Shaapela	Ukum	Benue	7.610	9.599	2	
+Shir	Ukum	Benue	7.584	9.566	2	
+Shelegh	Ukum	Benue	7.518	9.676	2	
+Shuen	Ukum	Benue	7.568	9.755	2	
+Shaakaa	Donga	Taraba	7.652	9.901	2	
+Shie	Takum	Taraba	7.562	9.858	2	
+Shorkaa	Takum	Taraba	7.595	9.985	2	
+Sharegh	Gboko	Benue	7.448	9.033	2	
+Shanka	Gboko	Benue	7.374	9.053	2	
+Shir	Gboko	Benue	7.259	9.069	2	
+Shirsha	Buruku	Benue	7.478	9.133	2	
+Shor	Gboko	Benue	7.355	9.114	2	
+Shaapera	Gboko	Benue	7.346	9.144	2	
+Shima	Buruku	Benue	7.309	9.156	2	
+Shav	Gboko	Benue	7.278	9.102	2	
+Shemeja	Buruku	Benue	7.253	9.180	2	
+Shile	Buruku	Benue	7.467	9.190	2	
+Shapera	Buruku	Benue	7.370	9.217	2	
+Shior	Buruku	Benue	7.330	9.184	2	
+Shaa	Buruku	Benue	7.351	9.268	2	
+Shendike	Katsina-Ala	Benue	7.447	9.326	2	
+Shiejil	Katsina-Ala	Benue	7.370	9.333	2	Shiejiil
+Shanjo	Katsina-Ala	Benue	7.274	9.497	2	
+Shenge	Katsina-Ala	Benue	7.260	9.494	2	
+Shausu	Ushongo	Benue	7.141	9.069	2	
+Shirga	Ushongo	Benue	7.087	9.084	2	
+Shiishi	Ushongo	Benue	7.041	9.089	2	
+Shaihom	Buruku	Benue	7.210	9.151	2	
+Shoun	Ushongo	Benue	7.013	9.170	2	
+Shamiga	Buruku	Benue	7.233	9.186	2	
+Shindi	Buruku	Benue	7.175	9.193	2	
+Shuur	Ushongo	Benue	7.075	9.241	2	
+Shiwua	Ushongo	Benue	7.024	9.224	2	
+Shiwua	Ushongo	Benue	7.010	9.229	2	
+Shedu	Buruku	Benue	7.234	9.262	2	
+Shiishi	Ushongo	Benue	7.066	9.333	2	
+Shomngi	Katsina-Ala	Benue	7.219	9.373	2	
+Shayongo	Katsina-Ala	Benue	7.217	9.394	2	
+Shenden	Katsina-Ala	Benue	7.165	9.412	2	
+Shamija	Katsina-Ala	Benue	7.103	9.419	2	
+Shinyi	Katsina-Ala	Benue	7.217	9.492	2	
+Shir	Katsina-Ala	Benue	7.208	9.478	2	
+Shapera	Katsina-Ala	Benue	7.139	9.465	2	
+Shaghel	Gboko	Benue	7.488	8.760	2	
+Shiil	Gboko	Benue	7.441	8.850	2	
+Shegh	Gboko	Benue	7.463	8.845	2	
+Shawa	Gboko	Benue	7.495	8.861	2	
+Shindi	Gboko	Benue	7.461	8.907	2	
+Shilkaa	Gboko	Benue	7.434	8.999	2	
+Shekondo	Gboko	Benue	7.444	8.954	2	
+Shilshi	Gboko	Benue	7.421	8.891	2	
+Shoogee	Gboko	Benue	7.451	8.911	2	Shoagee
+Shenga	Gboko	Benue	7.453	8.858	2	
+Shir	Gboko	Benue	7.434	8.808	2	
+Shieyom	Gboko	Benue	7.434	8.759	2	
+Shiko	Gboko	Benue	7.390	8.777	2	
+Shija	Gboko	Benue	7.407	8.881	2	
+Shien	Gboko	Benue	7.377	8.966	2	
+Shim	Gboko	Benue	7.371	8.950	2	
+Sharaka	Gboko	Benue	7.306	8.865	2	
+Shom	Gboko	Benue	7.315	8.951	2	
+Shum	Gboko	Benue	7.318	8.956	2	
+Shagee	Gboko	Benue	7.302	8.978	2	
+Shemo	Gboko	Benue	7.309	8.985	2	
+Shaukpar	Gboko	Benue	7.270	8.981	2	
+Shom	Gboko	Benue	7.282	8.982	2	
+Shenge	Gboko	Benue	7.291	8.976	2	
+Shaage	Gboko	Benue	7.295	8.978	2	
+Shenge	Gboko	Benue	7.293	8.829	2	
+Shamiondu	Gboko	Benue	7.252	8.814	2	
+Sheshi	Gbako	Niger	9.344	5.985	2	
+Sheshiylsa	Lavun	Niger	9.308	5.815	2	
+Shidagba	Lavun	Niger	9.274	5.830	2	
+Shegba	Mokwa	Niger	9.254	5.830	2	
+Shabakolo	Gbako	Niger	9.027	5.920	2	
+Sheshiaudu	Gbako	Niger	9.056	5.849	2	
+Sheshigoya Emishabadangana	Gbako	Niger	9.018	5.830	2	
+Shebe	Lavun	Niger	9.203	5.627	2	
+Shabafu	Lavun	Niger	9.217	5.718	2	
+Sharufu	Lavun	Niger	9.169	5.732	2	
+Sherifori	Yusufari	Yobe	13.000	11.166	2	
+Evuntagi Shiru	Gbako	Niger	9.459	6.018	2	
+Shiru	Gbako	Niger	9.458	6.027	2	
+Sheshi	Gbako	Niger	9.327	6.053	2	
+Sheshi	Gbako	Niger	9.306	6.040	2	
+Shidiagba	Katcha	Niger	9.270	6.292	2	
+Sheshirani	Gbako	Niger	9.175	6.016	2	
+Shashatoba	Gbako	Niger	9.192	6.134	2	
+Shabamaliki	Katcha	Niger	9.118	6.204	2	
+Sheshi	Edati	Niger	9.105	6.111	2	
+Shasha	Gbako	Niger	9.143	6.098	2	
+Shaba	Agaie	Niger	9.044	6.397	2	
+Shaba	Edati	Niger	9.020	6.074	2	
+Shigbe	Paikoro	Niger	9.443	6.823	2	
+Shetu Giwan	Lapai	Niger	9.125	6.681	2	
+Shafa	Bosso	Niger	9.567	6.491	2	
+Shadne	Bosso	Niger	9.592	6.422	2	Shadna
+Shakada	Shiroro	Niger	9.932	6.713	2	
+Shapi	Shiroro	Niger	9.806	6.676	2	
+Shaga	Shiroro	Niger	9.806	6.666	2	
+Shipada	Bosso	Niger	9.722	6.564	2	
+Sharuwadan	Shiroro	Niger	9.676	6.688	2	
+Sharipata	Bosso	Niger	9.666	6.558	2	
+Shanu	Chanchaga	Niger	9.608	6.505	2	
+Shamasu	Paikoro	Niger	9.517	6.585	2	
+Shekuwa	Mayo-Belwa	Adamawa	8.860	12.037	2	
+Wuro Sheli	Fufore	Adamawa	8.872	12.243	2	
+Wuro Sheli	Jada	Adamawa	8.847	12.243	2	
+Shemi	Jada	Adamawa	8.751	12.310	2	
+Shidiki	Fufore	Adamawa	8.997	12.391	2	
+Shafe	Munya	Niger	9.979	7.085	2	
+Shitta Bank Olemola	Surulere	Lagos	6.503	3.355	2	
+Shangisha Magodo	Kosofe	Lagos	6.622	3.384	2	
+Gidan Shehu	Karu	Nasarawa	9.179	7.874	2	
+Shesoko	Bwari	FCT Abuja	9.257	7.579	2	
+Shongre	Yorro	Taraba	8.984	11.508	2	
+Garin Mallam Shehu	Ardo-Kola	Taraba	8.781	11.071	2	
+Shugaba Zinnawa	Ardo-Kola	Taraba	8.854	11.118	2	Shugaba Zinnawo
+Shonti	Ardo-Kola	Taraba	9.000	11.194	2	
+Dogari Shonti	Jalingo	Taraba	8.990	11.233	2	
+Jauro Shibo	Ardo-Kola	Taraba	8.949	11.243	2	
+Magu Sharabi	Ardo-Kola	Taraba	8.931	11.198	2	
+Shontu	Ardo-Kola	Taraba	8.857	11.251	2	
+Shamberu Jauro Jabam	Ardo-Kola	Taraba	8.811	11.258	2	
+Shamberu	Ardo-Kola	Taraba	8.804	11.268	2	
+Shonti	Jalingo	Taraba	8.966	11.289	2	
+Shonpa Gana	Yorro	Taraba	8.978	11.443	2	
+Shavung	Yorro	Taraba	8.941	11.379	2	
+Shonti	Yorro	Taraba	8.913	11.409	2	
+Panti-Shonfa	Yorro	Taraba	8.969	11.468	2	
+Shonpa	Jalingo	Taraba	8.963	11.290	2	
+Shakamidari	Gassol	Taraba	8.558	10.992	2	
+Shanlang	Shendam	Plateau	8.849	9.551	2	
+Shendwar	Shendam	Plateau	8.792	9.567	2	
+Shiko	Langtang North	Plateau	8.970	9.846	2	
+Shizur	Wase	Plateau	8.835	9.888	2	
+Shilur	Langtang North	Plateau	8.792	9.874	2	
+Shogwa	Zangon Kataf	Kaduna	9.746	8.280	2	
+Shok	Bokkos	Plateau	9.416	8.993	2	
+Shumish	Barkin Ladi	Plateau	9.345	8.756	2	
+Sha	Bokkos	Plateau	9.193	8.768	2	
+Shivir	Qua'An Pan	Plateau	8.607	9.137	2	
+Galadima	Qua'An Pan	Plateau	8.916	9.285	2	Shanfu
+Shepwan	Shendam	Plateau	8.818	9.399	2	
+Shargam	Shendam	Plateau	8.743	9.458	2	
+Shakamidari	Fufore	Adamawa	9.085	12.075	2	
+Mayel Shanono	Fufore	Adamawa	9.125	12.208	2	
+Wuro-Shanu	Lau	Taraba	9.227	11.608	2	
+Shontiya	Lau	Taraba	9.170	11.603	2	
+Shafrau	Numan	Adamawa	9.460	11.917	2	
+Shafa	Demsa	Adamawa	9.314	11.964	2	
+Mbamnga Yerima-Shauya	Lau	Taraba	9.155	11.587	2	
+Hamma Shehu	Akko	Gombe	9.911	10.970	2	
+Shagad	Karim Lamido	Taraba	9.246	10.859	2	
+Wuro Shoful	Karim Lamido	Taraba	9.066	10.871	2	
+Shikadi	Bunza	Kebbi	12.198	4.131	2	
+Shagamu Idi-Orombo	Ijebu North	Ogun	7.045	4.016	2	
+Shasha	Atakunmosa West	Osun	7.591	4.647	2	
+Hunsu-Sheki	Ado Odo/Ota	Ogun	6.554	2.914	2	
+Sawun-Shamba	Fufore	Adamawa	9.010	12.813	2	Sawun Shamba
+Shigari	Fufore	Adamawa	9.068	12.663	2	
+Beli-Shuti	Fufore	Adamawa	9.184	12.638	2	Beli Shuti
+Ago-Sheba	Okitipupa	Ondo	6.435	4.756	2	
+Ago-Shadrach	Ilaje	Ondo	6.197	4.815	2	
+Shosu	Guma	Benue	8.093	8.553	2	
+Shaki	Surulere	Oyo	8.105	4.397	2	
+Ijemo-Shotan	Odeda	Ogun	7.149	3.583	2	
+Shenugbe	Baruten	Kwara	9.491	3.473	2	
+Shigo	Edu	Kwara	9.039	4.978	2	
+Shamu	Oyo East	Oyo	7.862	4.083	2	
+Shimayina	Nasarawa	Nasarawa	8.206	8.097	2	
+Arnado-Shehu	Teungo	Adamawa	8.064	12.008	2	
+Arnado Shodo	Teungo	Adamawa	8.174	12.078	2	ArnadoShodo
+Shanga	Ganye	Adamawa	8.419	12.011	2	
+Gadima Shatani	Bali	Taraba	8.377	11.143	2	GadimaShatani
+Wuro Gardima Shepcin	Bali	Taraba	8.372	11.180	2	WuroGardimaShepcin
+Shangbem	Ganye	Adamawa	8.434	11.921	2	
+Shonbole	Shelleng	Adamawa	9.700	12.031	2	
+Shingir	Song	Adamawa	9.929	12.264	2	
+Shure	Song	Adamawa	9.844	12.288	2	
+Wuro Jauro Sheduri	Numan	Adamawa	9.636	12.012	2	WuroJauroSheduri
+Shiware	Song	Adamawa	9.886	12.620	2	
+Sheshi	Agaie	Niger	8.928	6.370	2	
+Shabawoshi	Agaie	Niger	8.872	6.337	2	
+Shafan-Koto	Toto	Nasarawa	8.314	7.095	2	
+Shamangi	Toto	Nasarawa	8.098	7.163	2	
+Shere	Toto	Nasarawa	8.291	7.202	2	
+Shinshi Geneshi	Toto	Nasarawa	8.278	7.125	2	ShinshiGeneshi
+Shewu	Toto	Nasarawa	8.351	7.003	2	
+Sherat	Municipal Area Council	FCT Abuja	8.922	7.432	2	Cheche
+Sheda	Kwali	FCT Abuja	8.865	7.064	2	
+Gangaren-Shehu	Nasarawa	Nasarawa	8.533	8.049	2	
+Shongo Bene	Sardauna	Taraba	6.809	11.498	2	
+Shehu	Sardauna	Taraba	6.870	11.362	2	
+Shurgu	Sardauna	Taraba	6.553	11.259	2	
+Shibang	Sardauna	Taraba	6.531	11.171	2	
+Shirge	Sardauna	Taraba	6.794	11.457	2	
+Shebo	Sardauna	Taraba	6.935	11.303	2	
+Shiwari	Guzamala	Borno	13.022	13.710	2	
+Sheuda	Paikoro	Niger	9.477	6.922	2	
+Shadai	Paikoro	Niger	9.581	7.047	2	
+Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.060	7.501	1	
+Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.045	7.511	1	
+Aderibigbe Shitta Street	Ikeja	Lagos	6.576	3.368	1	
+Shipeolu Street	Shomolu	Lagos	6.539	3.369	1	
+Abimbola Shadipe Street	Surulere	Lagos	6.506	3.363	1	
+Shyllon Street	Mushin	Lagos	6.540	3.365	1	
+Shiro Street	Shomolu	Lagos	6.524	3.371	1	
+Sharada Road	Kano Municipal	Kano	11.968	8.510	1	
+Shere to Pategi Road	Ifelodun	Kwara	8.823	4.974	1	
+Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.450	1	
+Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.076	7.413	1	
+Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.093	7.479	1	
+Sheik Salisu Mu'Azu Road	Kaduna North	Kaduna	10.552	7.463	1	
+Shooting Range Road	Kaduna North	Kaduna	10.502	7.450	1	
+Sheikh Lawal Abubakar Road	Kaduna North	Kaduna	10.579	7.467	1	
+Shagari Road	Kaduna North	Kaduna	10.569	7.466	1	
+Stephen Shekari Avenue	Kaduna South	Kaduna	10.471	7.423	1	
+Shehu Laminu Avenue	Kaduna North	Kaduna	10.529	7.461	1	
+Shehu Crescent	Kaduna North	Kaduna	10.539	7.457	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.536	8.719	1	
+Shittu Crescent	Oredo	Edo	6.303	5.617	1	
+Shendam Road	Kaduna North	Kaduna	10.530	7.435	1	
+Sheikh Jafar Mahmud Way	Kumbotso	Kano	11.958	8.479	1	
+Shagbemi Street	Lagos Island	Lagos	6.462	3.391	1	
+Shofuntere Street	Surulere	Lagos	6.484	3.376	1	
+Sam Shonibare Street	Surulere	Lagos	6.510	3.349	1	
+Shamura Street	Oshodi/Isolo	Lagos	6.560	3.334	1	
+Shokoya Street	Oshodi/Isolo	Lagos	6.564	3.337	1	
+Shodimu Street	Shomolu	Lagos	6.538	3.375	1	
+Salami Shuaibu Street	Shomolu	Lagos	6.545	3.373	1	
+Shobande Street	Lagelu	Oyo	7.436	3.963	1	
+Bola Shadu Street	Surulere	Lagos	6.501	3.349	1	
+Shomade Crescent	Surulere	Lagos	6.498	3.358	1	
+Taiwo Shoremekun Street	Oshodi/Isolo	Lagos	6.506	3.318	1	
+Mohammed Shefiu Street	Oshodi/Isolo	Lagos	6.515	3.304	1	
+Sholape Oworu Street	Oshodi/Isolo	Lagos	6.502	3.307	1	
+Adetayo Shode Street	Surulere	Lagos	6.495	3.343	1	
+Oyindamola Shogbesan Street	Oshodi/Isolo	Lagos	6.493	3.305	1	
+Shololu Avenue	Eti Osa	Lagos	6.455	3.412	1	
+Shell Trustees Close	Eti Osa	Lagos	6.460	3.421	1	
+Ade Sheke Street	Kosofe	Lagos	6.551	3.398	1	
+Shasha Road	Alimosho	Lagos	6.606	3.310	1	
+Shobowale Street	Alimosho	Lagos	6.604	3.307	1	
+Shonola Street	Alimosho	Lagos	6.609	3.307	1	
+Shokoya Street	Kosofe	Lagos	6.548	3.403	1	
+Okeowo Shomorin Street	Kosofe	Lagos	6.560	3.393	1	
+Shoyebi Street	Kosofe	Lagos	6.633	3.375	1	
+Sheindemi Street	Kosofe	Lagos	6.633	3.375	1	
+Shonibare St	Ikeja	Lagos	6.644	3.366	1	
+Shoyemi St	Ikeja	Lagos	6.645	3.366	1	
+Shorinmade Street	Ikeja	Lagos	6.639	3.346	1	
+Shonola Street	Ikeja	Lagos	6.639	3.345	1	
+Shanu Street	Ikeja	Lagos	6.600	3.342	1	
+Showonuola Street	Agege	Lagos	6.622	3.330	1	
+Shiaba Street	Agege	Lagos	6.620	3.328	1	
+Shoetan Street	Ifako/Ijaye	Lagos	6.634	3.327	1	
+Moses Shomefun Street	Ifako/Ijaye	Lagos	6.642	3.327	1	
+Egbe Bowale Shofolahan Close	Ifako/Ijaye	Lagos	6.641	3.326	1	
+Shobola Street	Ifako/Ijaye	Lagos	6.641	3.335	1	
+Shonny Highway	Ikeja	Lagos	6.574	3.364	1	
+Ayo Shonubi Street	Oshodi/Isolo	Lagos	6.514	3.309	1	
+Olaitan Shebajo Street	Eti Osa	Lagos	6.442	3.457	1	
+Abayomi Shonuga Crescent	Eti Osa	Lagos	6.441	3.470	1	
+Shodipe Street	Lagos Mainland	Lagos	6.500	3.382	1	
+Shoremekun Street	Alimosho	Lagos	6.585	3.302	1	
+Shoyinka Street	Alimosho	Lagos	6.580	3.308	1	
+Alhaji Shodeke Street	Ikeja	Lagos	6.605	3.320	1	
+Shitta Street	Agege	Lagos	6.612	3.316	1	
+Shobayo Street	Agege	Lagos	6.607	3.329	1	
+Shomide Street	Agege	Lagos	6.611	3.328	1	
+Shakiru Anjorin Street	Eti Osa	Lagos	6.452	3.471	1	
+Ige Shonubi Crescent	Eti Osa	Lagos	6.457	3.439	1	
+Shafi Sule Street	Eti Osa	Lagos	6.446	3.456	1	
+Shosilva Lane	Apapa	Lagos	6.442	3.353	1	
+Shittu Street	Mushin	Lagos	6.520	3.348	1	
+Shasha Crescent	Municipal Area Council	FCT Abuja	9.098	7.497	1	
+Shere to Pategi Road	Edu	Kwara	8.828	5.097	1	
+Shere to Pategi Road	Pategi	Kwara	8.746	5.650	1	
+Bala Shehu Crescent	Municipal Area Council	FCT Abuja	9.015	7.442	1	
+Y. P. O. Shodeinde Street	Municipal Area Council	FCT Abuja	9.072	7.440	1	
+Ishaya Shekari Crescent	Municipal Area Council	FCT Abuja	9.115	7.425	1	
+Ship Builders Road	Port-Harcourt	Rivers	4.750	7.009	1	
+Ilellah Shopping Complex Roundabout	Bauchi	Bauchi	10.306	9.829	1	
+Shoyinka Street	Surulere	Lagos	6.507	3.338	1	
+Shonde Street	Surulere	Lagos	6.508	3.340	1	
+Shoyomokun Street	Surulere	Lagos	6.511	3.342	1	
+Ralph Shodeinde Street	Municipal Area Council	FCT Abuja	9.053	7.497	1	
+Madam Meg Shegbe Otone Street	Eti Osa	Lagos	6.479	3.605	1	
+Mpape - Shishipe	Municipal Area Council	FCT Abuja	9.144	7.504	1	
+Shofidiya Close	Surulere	Lagos	6.505	3.349	1	
+Bola Shodipe Close	Surulere	Lagos	6.502	3.349	1	
+Shade Shomefun Street	Surulere	Lagos	6.500	3.340	1	
+Shotayo Hughes Street	Surulere	Lagos	6.501	3.342	1	
+Alade Shonubi Street	Surulere	Lagos	6.498	3.347	1	
+Alhaji Shittu Street	Surulere	Lagos	6.496	3.346	1	
+Shittu Oridota Street	Surulere	Lagos	6.490	3.345	1	
+Shaki Crescent	Surulere	Lagos	6.498	3.339	1	
+Shobande Street	Shomolu	Lagos	6.528	3.386	1	
+Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.495	4.515	1	
+Bashiru Shekoni Street	Oshodi/Isolo	Lagos	6.532	3.308	1	
+Shoremekun Street	Alimosho	Lagos	6.626	3.277	1	
+Oluwole Showemimo Street	Ifako/Ijaye	Lagos	6.671	3.277	1	
+Shittu Abiola St	Ifo	Ogun	6.684	3.290	1	
+Shoyinka Street	Ifako/Ijaye	Lagos	6.661	3.314	1	
+Shobo Street	Ado Odo/Ota	Ogun	6.686	3.285	1	
+Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.566	5.744	1	
+Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.562	5.778	1	
+Shitta-bey Street	Kosofe	Lagos	6.567	3.381	1	
+Effurun, Shell Ogunu RD	Uvwie	Delta	5.572	5.735	1	
+Effurun, Shell Ogunu RD	Uvwie	Delta	5.569	5.745	1	
+Shere to Pategi Road	Pategi	Kwara	8.728	5.717	1	
+Shittu Street	Ibadan North	Oyo	7.426	3.914	1	Adebajo Street
+Shute Street	Enugu North	Enugu	6.439	7.495	1	
+Shekinah Avenue	Enugu East	Enugu	6.484	7.486	1	
+Bishop Shannahan Road	Enugu East	Enugu	6.495	7.499	1	
+Shuwa Close	Enugu North	Enugu	6.458	7.508	1	
+Sharada Mallam Street	Kano Municipal	Kano	11.978	8.508	1	
+Link 7 Alh. Shuaibu Talba Street	Gwale	Kano	11.974	8.475	1	
+Shira - Azare Federal Road	Shira	Bauchi	11.495	10.075	1	
+Shira - Azare Federal Road	Katagum	Bauchi	11.668	10.186	1	
+Rufar Shehu Street	Ungongo	Kano	11.980	8.449	1	
+Muhammad Sheshe Street	Tarauni	Kano	11.958	8.538	1	
+Shere to Pategi Road	Pategi	Kwara	8.729	5.700	1	
+Shehu Laminu Way	Maiduguri	Borno	11.859	13.156	1	
+Shola Agboola Street	Amuwo Odofin	Lagos	6.439	3.271	1	
+Olaseni Shonubi Street	Oshodi/Isolo	Lagos	6.499	3.304	1	
+Suleiman Shoderu Street	Ìkòròdú	Lagos	6.626	3.502	1	
+Salami Sholebo Street	Ìkòròdú	Lagos	6.617	3.488	1	
+Kunle Shobajo Street	Ìkòròdú	Lagos	6.621	3.487	1	
+Raheem Sho-Oja Street	Ìkòròdú	Lagos	6.621	3.489	1	
+David Sholarin Street	Ìkòròdú	Lagos	6.620	3.500	1	
+Ombo Shokelu Street	Ìkòròdú	Lagos	6.651	3.512	1	
+Shofunwa Crescent	Ìkòròdú	Lagos	6.622	3.483	1	
+Tukur Shanono Street	Ungongo	Kano	11.977	8.451	1	
+Liman Sharif Ali Street	Ungongo	Kano	11.973	8.442	1	
+Sheka Makaranta Street	Kumbotso	Kano	11.955	8.531	1	
+Lafia to Shendam Road	Shendam	Plateau	8.874	9.532	1	
+Lafia to Shendam Road	Shendam	Plateau	8.812	9.445	1	
+Lafia to Shendam Road	Shendam	Plateau	8.852	9.490	1	
+Shalom Close	Eti Osa	Lagos	6.444	3.456	1	
+Shasanya Street	Eti Osa	Lagos	6.424	3.530	1	
+Bayo Shodipo Street	Eti Osa	Lagos	6.493	3.599	1	
+Engr Mohammed Sharu Road	Chanchaga	Niger	9.641	6.517	1	
+Shehu Kangiwa Road	Chanchaga	Niger	9.597	6.549	1	
+Shehu Kangiwa Road	Chanchaga	Niger	9.604	6.556	1	
+Kamal Shasi Street	Eti Osa	Lagos	6.452	3.520	1	
+Chief Shittu Saka Musa Street	Eti Osa	Lagos	6.459	3.567	1	
+Shiroro Bridge	Shiroro	Niger	9.984	6.819	1	
+Effurun, Warri to Shell Ogunu	Warri South	Delta	5.533	5.715	1	
+Sherifat Ajibola Street	Eti Osa	Lagos	6.455	3.574	1	
+Shaki - Alagbafi Road	Saki West	Oyo	8.794	3.395	1	
+Sheu Tijani Odofin Street	Ibeju Lekki	Lagos	6.478	3.730	1	
+Shomoye Street	Ifako/Ijaye	Lagos	6.673	3.281	1	
+Stella Sholanke Street	Oshodi/Isolo	Lagos	6.551	3.323	1	
+Shodeke Street	Shomolu	Lagos	6.536	3.371	1	
+Baale Shekoni Street	Oshodi/Isolo	Lagos	6.535	3.320	1	
+Kolawole Shonibare Street	Oshodi/Isolo	Lagos	6.542	3.328	1	
+Akinwale Shittu	Eti Osa	Lagos	6.475	3.577	1	
+Chief Abu King Shuluwa Road	Markurdi	Benue	7.698	8.555	1	
+Shell Road	Sapele	Delta	5.867	5.694	1	
+Shehu Shagari Crescent	Nasarawa	Nasarawa	8.540	7.719	1	
+El-Shaddai	Akure North	Ondo	7.252	5.222	1	
+Sheik Mayowa Street	Saki West	Oyo	8.669	3.391	1	
+Alhaji Bashiru Shittu Street	Kosofe	Lagos	6.622	3.373	1	
+Lanre Shittu Close	Kosofe	Lagos	6.624	3.374	1	
+Shehu Abubakar Road	Gombe	Gombe	10.294	11.176	1	
+Shoyode Street	Alimosho	Lagos	6.537	3.269	1	
+Sheikh Falaki Street	Alimosho	Lagos	6.585	3.276	1	
+Shomoye Drive	Agege	Lagos	6.633	3.315	1	
+Kolawole Shonibare Street	Mushin	Lagos	6.549	3.362	1	
+Shopeju Street	Oshodi/Isolo	Lagos	6.569	3.344	1	
+Shodiya Street	Ifo	Ogun	6.684	3.318	1	
+Shoretire Street	Agege	Lagos	6.636	3.307	1	
+Chief Hakeem Shobande Close	Eti Osa	Lagos	6.473	3.575	1	
+Omo Oba Shamsideen Street	Eti Osa	Lagos	6.473	3.578	1	
+Pa Shekoni Street	Eti Osa	Lagos	6.475	3.629	1	Asajon Way
+Shobowale Street	Alimosho	Lagos	6.678	3.256	1	
+Shogbesan Avenue	Alimosho	Lagos	6.671	3.262	1	
+Shobanke Street	Ìkòròdú	Lagos	6.634	3.484	1	
+Kunle Shodiya	Ìkòròdú	Lagos	6.638	3.484	1	
+Jakpa Road	Uvwie	Delta	5.561	5.774	1	Effurun, Warri to Shell Ogunu
+Babs Shokeni Street	Alimosho	Lagos	6.604	3.313	1	
+Shasha Road	Alimosho	Lagos	6.573	3.306	1	
+Shodipo Street	Agege	Lagos	6.619	3.313	1	
+Alhaji Bashiru Shittu Street	Kosofe	Lagos	6.622	3.381	1	
+Shittu Animashaun Street	Shomolu	Lagos	6.545	3.382	1	
+Akanni Showunmi Street	Oshodi/Isolo	Lagos	6.568	3.334	1	
+Harrison Sholaja Street	Oshodi/Isolo	Lagos	6.511	3.306	1	
+Shallom Close	Chikun	Kaduna	10.461	7.438	1	
+Shakiru Odofin Street	Ibeju Lekki	Lagos	6.478	3.732	1	
+Lafia to Shendam Road	Qua'An Pan	Plateau	8.751	9.294	1	
+Lafia to Shendam Road	Qua'An Pan	Plateau	8.623	8.953	1	
+Lafia to Shendam Road	Qua'An Pan	Plateau	8.714	9.194	1	
+Lafia to Shendam Road	Qua'An Pan	Plateau	8.675	9.042	1	
+De Sholly Street	Badagry	Lagos	6.472	2.999	1	
+Sharada Road	Gwale	Kano	11.950	8.489	1	
+Sharada Road	Kano Municipal	Kano	11.965	8.504	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.499	8.517	1	
+Mpape - Shishipe	Municipal Area Council	FCT Abuja	9.161	7.519	1	
+Adamu Shaibu Cresecent	Municipal Area Council	FCT Abuja	9.112	7.381	1	
+Adamu Shaibu Crescent	Municipal Area Council	FCT Abuja	9.114	7.385	1	
+Shedvic Avenue	Ado Odo/Ota	Ogun	6.670	3.189	1	
+Bayo Shodipo Street	Eti Osa	Lagos	6.495	3.599	1	
+Shitta Street	Agege	Lagos	6.611	3.312	1	
+Alhaji Shittu Street	Olorunda	Osun	7.820	4.593	1	
+Sheikh Jafar Mahmud Way	Gwale	Kano	11.944	8.475	1	
+Shororo Hotel gate	Chanchaga	Niger	9.586	6.545	1	
+Shittu Street	Ibadan North	Oyo	7.424	3.917	1	Adebajo Street
+shaguna road	Jos North	Plateau	9.972	8.843	1	
+Shodipo Street	Ibadan North West	Oyo	7.390	3.884	1	
+El Shaddai	Akure North	Ondo	7.240	5.224	1	
+Falailat Shomade Street	Eti Osa	Lagos	6.437	3.500	1	
+Shere to Pategi Road	Pategi	Kwara	8.762	5.611	1	
+Shere to Pategi Road	Pategi	Kwara	8.752	5.510	1	
+Shere to Pategi Road	Edu	Kwara	8.767	5.380	1	
+Shere to Pategi Road	Edu	Kwara	8.760	5.261	1	
+Gbenga Shabi Street	Kosofe	Lagos	6.543	3.403	1	
+Shobowale street	Agege	Lagos	6.623	3.334	1	
+Shoyinka Street	Ifako/Ijaye	Lagos	6.661	3.315	1	
+Shehu Yusuf Street	Bwari	FCT Abuja	9.162	7.366	1	
+Ago_Are - Shaki Road	Saki West	Oyo	8.657	3.395	1	
+Sholanke Street	Shomolu	Lagos	6.528	3.385	1	
+Shagari Road	Akure South	Ondo	7.285	5.201	1	
+K. K. Shaw Street	Municipal Area Council	FCT Abuja	8.932	7.578	1	
+Shadda Koko	Tarauni	Kano	11.976	8.561	1	
+Shehu Sani Street	Gwale	Kano	11.979	8.470	1	
+Sharif Maulana Street	Gwale	Kano	11.975	8.473	1	
+Shonola Street	Ikeja	Lagos	6.635	3.345	1	
+David Shopeju street	Kosofe	Lagos	6.567	3.392	1	
+Shamseydeen Close	Eti Osa	Lagos	6.476	3.628	1	
+Jumoke Shoderu Close	Ìkòròdú	Lagos	6.621	3.521	1	
+Tunde Shitta Street	Ifo	Ogun	6.759	3.182	1	
+Shabomi-Akotogbo Road	Ese Odo	Ondo	6.431	4.912	1	
+Shabomi Road	Ese Odo	Ondo	6.443	4.899	1	
+Dotun Shobukola Street	Alimosho	Lagos	6.558	3.265	1	
+Shehu Laminu Avenue	Kaduna North	Kaduna	10.525	7.454	1	
+Shira - Azare Federal Road	Katagum	Bauchi	11.658	10.173	1	
+Shogbiyanju Street	Ewekoro	Ogun	6.878	3.167	1	
+Shogbiyanju Street	Ewekoro	Ogun	6.875	3.162	1	
+Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.497	4.516	1	
+Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.510	4.519	1	
+Shaki - Alagbafi Road	Saki West	Oyo	8.669	3.396	1	
+Ago_Are - Shaki Road	Saki West	Oyo	8.595	3.401	1	
+Ago_Are - Shaki Road	Saki West	Oyo	8.641	3.402	1	
+Ibidapo Shobowale Street	Ìkòròdú	Lagos	6.622	3.482	1	
+Shadipe Lane	Eti Osa	Lagos	6.449	3.615	1	
+Shoyoye Street	Eti Osa	Lagos	6.453	3.611	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.507	8.537	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.530	8.578	1	
+Shakwata Station	Bosso	Niger	9.664	6.623	0	
+Sharon Oil	Kaduna South	Kaduna	10.486	7.419	0	
+Sharon	Kaduna South	Kaduna	10.488	7.418	0	
+Sharon	Chikun	Kaduna	10.433	7.404	0	
+Shiroro Airport	Shiroro	Niger	9.883	6.815	0	
+Sheraton School	Surulere	Lagos	6.487	3.375	0	
+Sheikh Lawal Abubakar Islamic School	Kaduna North	Kaduna	10.508	7.433	0	
+A.Y.M Shafa	Jos North	Plateau	9.959	8.886	0	
+Shopping Mall	Egor	Edo	6.364	5.589	0	
+Shopping Mall	Oredo	Edo	6.309	5.618	0	
+Sheik Muhammad Awwal School	Ifelodun	Kwara	8.275	4.793	0	
+Shopping Complex	Oredo	Edo	6.307	5.617	0	
+Shafa	Municipal Area Council	FCT Abuja	9.000	7.473	0	
+Shops	Oredo	Edo	6.328	5.594	0	
+Shopping Complex	Oredo	Edo	6.344	5.610	0	
+shops	Oredo	Edo	6.331	5.596	0	
+Shopping Mall	Oredo	Edo	6.334	5.606	0	
+shop	Oredo	Edo	6.345	5.598	0	
+Shopping Complex & Offices	Oredo	Edo	6.338	5.612	0	
+Patanne medical equipment shop	Oredo	Edo	6.327	5.625	0	
+Asemota Shopping Plaza	Oredo	Edo	6.335	5.619	0	
+Christ The Shepherd International School	Oredo	Edo	6.324	5.599	0	
+Shopping Mall	Egor	Edo	6.330	5.587	0	
+Aye Shopping Mall	Oredo	Edo	6.338	5.616	0	
+Shopping plaza	Oredo	Edo	6.338	5.616	0	
+Bobizua Shopping Mall	Oredo	Edo	6.335	5.615	0	
+Ero Shopping Mall	Oredo	Edo	6.349	5.622	0	
+Provision Shop	Enugu East	Enugu	6.466	7.596	0	
+Viva Healthfoo Shop & Dietetic Clinic	Enugu South	Enugu	6.418	7.495	0	
+El-Shaddai International Schools	Enugu East	Enugu	6.481	7.526	0	
+Dariyar Shere Primary Health Centre	Doguwa	Kano	10.671	8.741	0	
+Shadeen	Kagarko	Kaduna	9.572	7.425	0	
+Pilak Health Post Kombo Shani	Shani	Borno	10.064	11.832	0	
+Shani MCH Clinic	Shani	Borno	10.218	12.065	0	
+Shittimari Primary Health Care	Kaga	Borno	11.526	12.412	0	
+Shehuri Primary Health Clinic	Maiduguri	Borno	11.846	13.156	0	
+Shikarkir Primary Health Center	Chibok	Borno	10.803	12.776	0	
+Shoprite	Kano Municipal	Kano	11.978	8.535	0	
+Hadidi Shopping Complex	Kaduna North	Kaduna	10.547	7.464	0	
+Sharon Petrol Station	Municipal Area Council	FCT Abuja	8.988	7.355	0	
+Good Shepard Academy	Port-Harcourt	Rivers	4.818	7.066	0	
+El Shaddai Clinic	Odogbolu	Ogun	6.803	3.904	0	
+Shago Oil and Gas Ltd Fuel Station	Sardauna	Taraba	6.955	11.119	0	
+Palms Shopping Mall	Ibadan South West	Oyo	7.364	3.865	0	
+Shalom Medical Centre	Ogbomosho North	Oyo	8.143	4.247	0	
+Shehu Shagari Collage of Education	Wamako	Sokoto	12.997	5.214	0	
+A Y M Shafa filling station liji cross	Yamaltu/Deba	Gombe	10.277	11.230	0	
+Sadiqu shehu and sons filling station	Yamaltu/Deba	Gombe	10.278	11.267	0	
+Jss Shongo Idrisa	Akko	Gombe	10.290	11.080	0	
+Shongo Health Clinic	Akko	Gombe	10.289	11.080	0	
+Sheikh Gummi PHC	Wamako	Sokoto	13.019	5.227	0	
 Unguwar Shanu PHC	Kaduna North	Kaduna	10.547	7.438	0	
 Shepard Clinic	Sokoto South	Sokoto	13.036	5.250	0	
 Shasha market	Akure North	Ondo	7.277	5.244	0	
@@ -464,12 +1425,10 @@ Shopping Complex Ejigbo	Ejigbo	Osun	7.902	4.314	0
 Adeeyo Shopping Complex	Ejigbo	Osun	7.902	4.315	0	
 Shalom Riyyah Hospital And Maternity	Amuwo Odofin	Lagos	6.468	3.242	0	
 Good shepherd Catholic church hospital	Kosofe	Lagos	6.601	3.421	0	
-SIDI SHARE FOUNDATION	Ungongo	Kano	12.049	8.569	0	
-SHAMSUL HUDA AL ISLAMIYYA	Ungongo	Kano	12.042	8.573	0	
+Sidi Share Foundation	Ungongo	Kano	12.049	8.569	0	
+Shamsul Huda Al Islamiyya	Ungongo	Kano	12.042	8.573	0	
 Sharif Nuhu Memorial	Gwale	Kano	11.960	8.476	0	
 Sheikh Abubakar Ramadan Litahfizul Quran	Gwale	Kano	11.960	8.474	0	
-Shana	Fika	Yobe	11.546	10.990	3	
-Shembire	Fika	Yobe	11.401	11.264	2	
 Shanaham	Onitsha North	Anambra	6.162	6.779	0	
 Shema	Municipal Area Council	FCT Abuja	9.018	7.427	0	
 Shafa	Municipal Area Council	FCT Abuja	8.981	7.265	0	
@@ -483,172 +1442,23 @@ ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0
 Charis Shopping Complex, Post Office, Ilorin, Nigeria	Ilorin East	Kwara	8.488	4.563	0	
 Shoprite Mall	Enugu North	Enugu	6.460	7.496	0	
 Shehu Marafa Model Primary School Nasarawa Burkullu	Bukkuyum	Zamfara	12.052	5.742	0	
-Shinkafa	Kagarko	Kaduna	9.330	7.779	2	
-Shibiri	Ojo	Lagos	6.461	3.150	2	
 Shola Autos	Municipal Area Council	FCT Abuja	9.121	7.387	0	
 Sheraton Junction	Municipal Area Council	FCT Abuja	9.063	7.479	0	
 The Bridge 360 Show	Municipal Area Council	FCT Abuja	9.081	7.477	0	
 Sharon Stars International School	Obio/Akpor	Rivers	4.882	6.981	0	
-Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.060	7.501	1	
-Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.045	7.511	1	
-Aderibigbe Shitta Street	Ikeja	Lagos	6.576	3.368	1	
-Shipeolu Street	Shomolu	Lagos	6.539	3.369	1	
-Abimbola Shadipe Street	Surulere	Lagos	6.506	3.363	1	
-Shyllon Street	Mushin	Lagos	6.540	3.365	1	
-Shiro Street	Shomolu	Lagos	6.524	3.371	1	
-SHARADA ROAD	Kano Municipal	Kano	11.968	8.510	1	
-Shere to Pategi Road	Ifelodun	Kwara	8.823	4.974	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.450	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.076	7.413	1	
-Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.093	7.479	1	
-Sheik Salisu Mu'Azu Road	Kaduna North	Kaduna	10.552	7.463	1	
-Shooting Range Road	Kaduna North	Kaduna	10.502	7.450	1	
-Sheikh Lawal Abubakar Road	Kaduna North	Kaduna	10.579	7.467	1	
-Shagari Road	Kaduna North	Kaduna	10.569	7.466	1	
-Stephen Shekari Avenue	Kaduna South	Kaduna	10.471	7.423	1	
-Shehu Laminu Avenue	Kaduna North	Kaduna	10.529	7.461	1	
-Shehu Crescent	Kaduna North	Kaduna	10.539	7.457	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.536	8.719	1	
-Shittu Crescent	Oredo	Edo	6.303	5.617	1	
-Shendam Road	Kaduna North	Kaduna	10.530	7.435	1	
 Uwa Shopping Plaza	Oredo	Edo	6.347	5.608	0	
-Sheikh Jafar Mahmud Way	Kumbotso	Kano	11.958	8.479	1	
 Shopping Mall (Phone village)	Oredo	Edo	6.336	5.621	0	
 Shepherd's Lab	Oredo	Edo	6.332	5.598	0	
-Shopping Mall	Oredo	Edo	6.338	5.617	0	
 Osasco Shopping Mall	Oredo	Edo	6.339	5.619	0	
 Abi Shopping Mall	Oredo	Edo	6.312	5.609	0	
-Shagbemi Street	Lagos Island	Lagos	6.462	3.391	1	
-Shofuntere Street	Surulere	Lagos	6.484	3.376	1	
-Sam Shonibare Street	Surulere	Lagos	6.510	3.349	1	
-Shamura Street	Oshodi/Isolo	Lagos	6.560	3.334	1	
-Shokoya Street	Oshodi/Isolo	Lagos	6.564	3.337	1	
-Shodimu Street	Shomolu	Lagos	6.538	3.375	1	
-Salami Shuaibu Street	Shomolu	Lagos	6.545	3.373	1	
-Shobande Street	Lagelu	Oyo	7.436	3.963	1	
-Bola Shadu Street	Surulere	Lagos	6.501	3.349	1	
-Shomade Crescent	Surulere	Lagos	6.498	3.358	1	
-Taiwo Shoremekun Street	Oshodi/Isolo	Lagos	6.506	3.318	1	
-Mohammed Shefiu Street	Oshodi/Isolo	Lagos	6.515	3.304	1	
-Sholape Oworu Street	Oshodi/Isolo	Lagos	6.502	3.307	1	
-Adetayo Shode Street	Surulere	Lagos	6.495	3.343	1	
-Oyindamola Shogbesan Street	Oshodi/Isolo	Lagos	6.493	3.305	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.420	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.427	1	
-Shololu Avenue	Eti Osa	Lagos	6.455	3.412	1	
-Shell Trustees Close	Eti Osa	Lagos	6.460	3.421	1	
 Sherryville	Ikeja	Lagos	6.639	3.368	0	
-Ade Sheke Street	Kosofe	Lagos	6.551	3.398	1	
-Shasha Road	Alimosho	Lagos	6.606	3.310	1	
-Shasha Road	Alimosho	Lagos	6.604	3.310	1	
-Shobowale Street	Alimosho	Lagos	6.604	3.307	1	
-Shonola Street	Alimosho	Lagos	6.609	3.307	1	
-Shokoya Street	Kosofe	Lagos	6.548	3.403	1	
-Okeowo Shomorin Street	Kosofe	Lagos	6.560	3.393	1	
-Shoyebi Street	Kosofe	Lagos	6.633	3.375	1	
-Sheindemi Street	Kosofe	Lagos	6.633	3.375	1	
-Shonibare St	Ikeja	Lagos	6.644	3.366	1	
-Shoyemi St	Ikeja	Lagos	6.645	3.366	1	
-Shorinmade Street	Ikeja	Lagos	6.639	3.346	1	
-Shonola Street	Ikeja	Lagos	6.639	3.345	1	
-Shanu Street	Ikeja	Lagos	6.600	3.342	1	
-Showonuola Street	Agege	Lagos	6.622	3.330	1	
-Shiaba Street	Agege	Lagos	6.620	3.328	1	
-Shoetan Street	Ifako/Ijaye	Lagos	6.634	3.327	1	
-Moses Shomefun Street	Ifako/Ijaye	Lagos	6.642	3.327	1	
-Egbe Bowale Shofolahan Close	Ifako/Ijaye	Lagos	6.641	3.326	1	
-Shobola Street	Ifako/Ijaye	Lagos	6.641	3.335	1	
-Shonny Highway	Ikeja	Lagos	6.574	3.364	1	
-Ayo Shonubi Street	Oshodi/Isolo	Lagos	6.514	3.309	1	
-Olaitan Shebajo Street	Eti Osa	Lagos	6.442	3.457	1	
-Abayomi Shonuga Crescent	Eti Osa	Lagos	6.441	3.470	1	
-Shodipe Street	Lagos Mainland	Lagos	6.500	3.382	1	
-Shoremekun Street	Alimosho	Lagos	6.585	3.302	1	
-Shoyinka Street	Alimosho	Lagos	6.580	3.308	1	
-Alhaji Shodeke Street	Ikeja	Lagos	6.605	3.320	1	
-Shitta Street	Agege	Lagos	6.612	3.316	1	
-Shobayo Street	Agege	Lagos	6.607	3.329	1	
-Shomide Street	Agege	Lagos	6.611	3.328	1	
-Shakiru Anjorin Street	Eti Osa	Lagos	6.452	3.471	1	
-Ige Shonubi Crescent	Eti Osa	Lagos	6.457	3.439	1	
-Shafi Sule Street	Eti Osa	Lagos	6.446	3.456	1	
-Shosilva Lane	Apapa	Lagos	6.442	3.353	1	
-Shittu Street	Mushin	Lagos	6.520	3.348	1	
-Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.067	7.497	1	
-Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.046	7.510	1	
-Shasha Crescent	Municipal Area Council	FCT Abuja	9.098	7.497	1	
-Shere to Pategi Road	Edu	Kwara	8.828	5.097	1	
-Shere to Pategi Road	Pategi	Kwara	8.746	5.650	1	
-Bala Shehu Crescent	Municipal Area Council	FCT Abuja	9.015	7.442	1	
-Y. P. O. Shodeinde Street	Municipal Area Council	FCT Abuja	9.072	7.440	1	
-Ishaya Shekari Crescent	Municipal Area Council	FCT Abuja	9.115	7.425	1	
-Ship Builders Road	Port-Harcourt	Rivers	4.750	7.009	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.076	7.438	1	
 Abuja Shopping Complex	Municipal Area Council	FCT Abuja	9.032	7.483	0	
-Ilellah Shopping Complex Roundabout	Bauchi	Bauchi	10.306	9.829	1	
-Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.055	7.505	1	
-Shoyinka Street	Surulere	Lagos	6.507	3.338	1	
-Shonde Street	Surulere	Lagos	6.508	3.340	1	
-Shoyomokun Street	Surulere	Lagos	6.511	3.342	1	
-Ralph Shodeinde Street	Municipal Area Council	FCT Abuja	9.053	7.497	1	
-QUEEN HANNAHBEL DEMOSTRATION SHCOOL	Egor	Edo	6.359	5.628	0	
-Madam Meg Shegbe Otone Street	Eti Osa	Lagos	6.479	3.605	1	
-Mpape - Shishipe	Municipal Area Council	FCT Abuja	9.144	7.504	1	
-Shofidiya Close	Surulere	Lagos	6.505	3.349	1	
-Bola Shodipe Close	Surulere	Lagos	6.502	3.349	1	
-Shade Shomefun Street	Surulere	Lagos	6.500	3.340	1	
-Shotayo Hughes Street	Surulere	Lagos	6.501	3.342	1	
-Alade Shonubi Street	Surulere	Lagos	6.498	3.347	1	
-Alhaji Shittu Street	Surulere	Lagos	6.496	3.346	1	
-Shittu Oridota Street	Surulere	Lagos	6.490	3.345	1	
-Shaki Crescent	Surulere	Lagos	6.498	3.339	1	
+Queen Hannahbel Demostration Shcool	Egor	Edo	6.359	5.628	0	
 Shopping Time	Nassarawa	Kano	11.986	8.569	0	
 Wuse Shopping Plaza	Municipal Area Council	FCT Abuja	9.067	7.463	0	
 Silverbird Cinemas & Shopping Centre	Municipal Area Council	FCT Abuja	9.067	7.486	0	
 Park 'N' Shop	Municipal Area Council	FCT Abuja	9.084	7.468	0	
-Shobande Street	Shomolu	Lagos	6.528	3.386	1	
-Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.495	4.515	1	
-Bashiru Shekoni Street	Oshodi/Isolo	Lagos	6.532	3.308	1	
-Shoremekun Street	Alimosho	Lagos	6.626	3.277	1	
-Oluwole Showemimo Street	Ifako/Ijaye	Lagos	6.671	3.277	1	
-Shittu Abiola St	Ifo	Ogun	6.684	3.290	1	
-Shoyinka Street	Ifako/Ijaye	Lagos	6.661	3.314	1	
-Shobo Street	Ado Odo/Ota	Ogun	6.686	3.285	1	
-Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.566	5.744	1	
-Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.562	5.778	1	
-Shitta-bey Street	Kosofe	Lagos	6.567	3.381	1	
-Effurun, Shell Ogunu RD	Uvwie	Delta	5.572	5.735	1	
-Effurun, Shell Ogunu RD	Uvwie	Delta	5.569	5.745	1	
-Shere to Pategi Road	Pategi	Kwara	8.728	5.717	1	
-Shere to Pategi Road	Pategi	Kwara	8.727	5.729	1	
-Shere to Pategi Road	Pategi	Kwara	8.726	5.739	1	
-Shittu Street	Ibadan North	Oyo	7.426	3.914	1	Adebajo Street
-Shute Street	Enugu North	Enugu	6.439	7.495	1	
-Shekinah Avenue	Enugu East	Enugu	6.484	7.486	1	
-Bishop Shannahan Road	Enugu East	Enugu	6.495	7.499	1	
-Bishop Shannahan Road	Enugu East	Enugu	6.495	7.492	1	
-Shuwa Close	Enugu North	Enugu	6.458	7.508	1	
-Sharada Mallam Street	Kano Municipal	Kano	11.978	8.508	1	
-Link 7 Alh. Shuaibu Talba Street	Gwale	Kano	11.974	8.475	1	
-Shira - Azare Federal Road	Shira	Bauchi	11.495	10.075	1	
-Shira - Azare Federal Road	Katagum	Bauchi	11.668	10.186	1	
-Rufar Shehu Street	Ungongo	Kano	11.980	8.449	1	
-Muhammad Sheshe Street	Tarauni	Kano	11.958	8.538	1	
-Shere to Pategi Road	Pategi	Kwara	8.729	5.700	1	
-Shehu Laminu Way	Maiduguri	Borno	11.859	13.156	1	
-Shola Agboola Street	Amuwo Odofin	Lagos	6.439	3.271	1	
-Olaseni Shonubi Street	Oshodi/Isolo	Lagos	6.499	3.304	1	
-Suleiman Shoderu Street	Ìkòròdú	Lagos	6.626	3.502	1	
-Salami Sholebo Street	Ìkòròdú	Lagos	6.617	3.488	1	
-Kunle Shobajo Street	Ìkòròdú	Lagos	6.621	3.487	1	
-Raheem Sho-Oja Street	Ìkòròdú	Lagos	6.621	3.489	1	
-David Sholarin Street	Ìkòròdú	Lagos	6.620	3.500	1	
-Ombo Shokelu Street	Ìkòròdú	Lagos	6.651	3.512	1	
-Shofunwa Crescent	Ìkòròdú	Lagos	6.622	3.483	1	
-Tukur Shanono Street	Ungongo	Kano	11.977	8.451	1	
-Liman Sharif Ali Street	Ungongo	Kano	11.973	8.442	1	
 Shawu Health Post	Takai	Kano	11.437	9.137	0	
-Sheka Makaranta Street	Kumbotso	Kano	11.955	8.531	1	
 Sharifai Health Post	Rimin Gado	Kano	11.924	8.246	0	
 Shadau Health Post	Kabo	Kano	11.875	8.210	0	
 Shuwaki Primary Health Centre	Kunchi	Kano	12.425	8.173	0	
@@ -659,236 +1469,50 @@ Shiddar Health Post	Dambatta	Kano	12.375	8.567	0
 Shauni Primary Health Centre	Ungongo	Kano	12.048	8.609	0	
 Mallam Shuaibu Primary Health Centre	Nassarawa	Kano	12.021	8.557	0	
 Sheikh Muhammed Jidda General Hospital	Fagge	Kano	12.011	8.535	0	
-Lafia to Shendam Road	Shendam	Plateau	8.874	9.532	1	
-Lafia to Shendam Road	Shendam	Plateau	8.812	9.445	1	
-Lafia to Shendam Road	Shendam	Plateau	8.852	9.490	1	
-Lafia to Shendam Road	Shendam	Plateau	8.877	9.536	1	
-Shalom Close	Eti Osa	Lagos	6.444	3.456	1	
-Shasanya Street	Eti Osa	Lagos	6.424	3.530	1	
-Bayo Shodipo Street	Eti Osa	Lagos	6.493	3.599	1	
 Shafia Clinic	Katagum	Bauchi	11.675	10.195	0	
 Sharaba Dispensary	Jama'Are	Bauchi	11.674	10.037	0	
 Shalgwantar Dispensary	Dass	Bauchi	9.977	9.508	0	
 Shira Health Clinic	Alkaleri	Bauchi	10.050	10.279	0	
 Shall A	Tafawa-Balewa	Bauchi	9.879	9.538	0	
 Sigdin Shehu Dispensary	Tafawa-Balewa	Bauchi	9.680	9.299	0	
-Engr Mohammed Sharu Road	Chanchaga	Niger	9.641	6.517	1	
-Shehu Kangiwa Road	Chanchaga	Niger	9.597	6.549	1	
-Shehu Kangiwa Road	Chanchaga	Niger	9.604	6.556	1	
-Kamal Shasi Street	Eti Osa	Lagos	6.452	3.520	1	
-Chief Shittu Saka Musa Street	Eti Osa	Lagos	6.459	3.567	1	
-Shiroro Bridge	Shiroro	Niger	9.984	6.819	1	
-Effurun, Warri to Shell Ogunu	Warri South	Delta	5.533	5.715	1	
-Sherifat Ajibola Street	Eti Osa	Lagos	6.455	3.574	1	
 Shadow Petroleum	Ede North	Osun	7.717	4.493	0	
-Shaki - Alagbafi Road	Saki West	Oyo	8.794	3.395	1	
-Sheu Tijani Odofin Street	Ibeju Lekki	Lagos	6.478	3.730	1	
-Shomoye Street	Ifako/Ijaye	Lagos	6.673	3.281	1	
-Stella Sholanke Street	Oshodi/Isolo	Lagos	6.551	3.323	1	
-Shodeke Street	Shomolu	Lagos	6.536	3.371	1	
-Baale Shekoni Street	Oshodi/Isolo	Lagos	6.535	3.320	1	
-Kolawole Shonibare Street	Oshodi/Isolo	Lagos	6.542	3.328	1	
-Akinwale Shittu	Eti Osa	Lagos	6.475	3.577	1	
-CHIEF ABU KING SHULUWA ROAD	Markurdi	Benue	7.698	8.555	1	
 Betsay Shopping Mall	Olorunda	Osun	7.780	4.557	0	
 Olatundun Shopping Plaza	Olorunda	Osun	7.781	4.556	0	
 Oba Oyewole Shopping Plaza	Olorunda	Osun	7.781	4.554	0	
-Shell Road	Sapele	Delta	5.867	5.694	1	
-Shehu Shagari Crescent	Nasarawa	Nasarawa	8.540	7.719	1	
-El-Shaddai	Akure North	Ondo	7.252	5.222	1	
-Sheik Mayowa Street	Saki West	Oyo	8.669	3.391	1	
-Alhaji Bashiru Shittu Street	Kosofe	Lagos	6.622	3.373	1	
-Lanre Shittu Close	Kosofe	Lagos	6.624	3.374	1	
-Shehu Abubakar Road	Gombe	Gombe	10.294	11.176	1	
-Shoyode Street	Alimosho	Lagos	6.537	3.269	1	
-Sheikh Falaki Street	Alimosho	Lagos	6.585	3.276	1	
-Shomoye Drive	Agege	Lagos	6.633	3.315	1	
-Kolawole Shonibare Street	Mushin	Lagos	6.549	3.362	1	
-Shopeju Street	Oshodi/Isolo	Lagos	6.569	3.344	1	
-Shodiya Street	Ifo	Ogun	6.684	3.318	1	
-Shoretire Street	Agege	Lagos	6.636	3.307	1	
-Chief Hakeem Shobande Close	Eti Osa	Lagos	6.473	3.575	1	
-Omo Oba Shamsideen Street	Eti Osa	Lagos	6.473	3.578	1	
-Pa Shekoni Street	Eti Osa	Lagos	6.475	3.629	1	Asajon Way
-Shobowale Street	Alimosho	Lagos	6.678	3.256	1	
-Shogbesan Avenue	Alimosho	Lagos	6.671	3.262	1	
-Shobanke Street	Ìkòròdú	Lagos	6.634	3.484	1	
-Kunle Shodiya	Ìkòròdú	Lagos	6.638	3.484	1	
-Jakpa Road	Uvwie	Delta	5.561	5.774	1	Effurun, Warri to Shell Ogunu
-Babs Shokeni Street	Alimosho	Lagos	6.604	3.313	1	
-ShaSha Road	Alimosho	Lagos	6.595	3.303	1	
-Shasha Road	Alimosho	Lagos	6.573	3.306	1	
-Shodipo Street	Agege	Lagos	6.619	3.313	1	
-Alhaji Bashiru Shittu Street	Kosofe	Lagos	6.622	3.381	1	
-Shittu Animashaun Street	Shomolu	Lagos	6.545	3.382	1	
-Akanni Showunmi Street	Oshodi/Isolo	Lagos	6.568	3.334	1	
-Kolawole Shonibare Street	Oshodi/Isolo	Lagos	6.546	3.326	1	
-Harrison Sholaja Street	Oshodi/Isolo	Lagos	6.511	3.306	1	
-Shallom Close	Chikun	Kaduna	10.461	7.438	1	
-Shakiru Odofin Street	Ibeju Lekki	Lagos	6.478	3.732	1	
-Shagari Road	Kaduna North	Kaduna	10.563	7.458	1	
-Lafia to Shendam Road	Qua'An Pan	Plateau	8.751	9.294	1	
-Lafia to Shendam Road	Qua'An Pan	Plateau	8.623	8.953	1	
-Lafia to Shendam Road	Qua'An Pan	Plateau	8.714	9.194	1	
-Lafia to Shendam Road	Qua'An Pan	Plateau	8.675	9.042	1	
-Stephen Shekari Avenue	Kaduna South	Kaduna	10.459	7.424	1	
-Sharada Mallam Street	Kano Municipal	Kano	11.975	8.508	1	
-Sheikh Jafar Mahmud Way	Gwale	Kano	11.979	8.485	1	
-De Sholly Street	Badagry	Lagos	6.472	2.999	1	
-SHARADA ROAD	Kano Municipal	Kano	11.973	8.517	1	
-SHARADA ROAD	Kano Municipal	Kano	11.978	8.521	1	
-SHARADA ROAD	Gwale	Kano	11.950	8.489	1	
-SHARADA ROAD	Kano Municipal	Kano	11.965	8.504	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.499	8.517	1	
-Mpape - Shishipe	Municipal Area Council	FCT Abuja	9.152	7.514	1	
-Mpape - Shishipe	Municipal Area Council	FCT Abuja	9.161	7.519	1	
-ADAMU SHAIBU CRESECENT	Municipal Area Council	FCT Abuja	9.112	7.381	1	
-Adamu Shaibu Crescent	Municipal Area Council	FCT Abuja	9.114	7.385	1	
-Shedvic Avenue	Ado Odo/Ota	Ogun	6.670	3.189	1	
-Bayo Shodipo Street	Eti Osa	Lagos	6.495	3.599	1	
-Shitta Street	Agege	Lagos	6.611	3.312	1	
-Alhaji Shittu Street	Olorunda	Osun	7.820	4.593	1	
-Sheikh Jafar Mahmud Way	Gwale	Kano	11.944	8.475	1	
-Shororo Hotel gate	Chanchaga	Niger	9.586	6.545	1	
-Shittu Street	Ibadan North	Oyo	7.424	3.917	1	Adebajo Street
-shaguna road	Jos North	Plateau	9.972	8.843	1	
-Shodipo Street	Ibadan North West	Oyo	7.390	3.884	1	
-El Shaddai	Akure North	Ondo	7.240	5.224	1	
-Falailat Shomade Street	Eti Osa	Lagos	6.437	3.500	1	
-Shere to Pategi Road	Pategi	Kwara	8.762	5.611	1	
-Shere to Pategi Road	Pategi	Kwara	8.752	5.510	1	
-Shere to Pategi Road	Edu	Kwara	8.767	5.380	1	
-Shere to Pategi Road	Edu	Kwara	8.760	5.261	1	
 Shop D World Plaza	Owerri North	Imo	5.509	7.037	0	
-Gbenga Shabi Street	Kosofe	Lagos	6.543	3.403	1	
-Shobowale street	Agege	Lagos	6.623	3.334	1	
 Rasheed Shekoni Hospital	Dutse	Jigawa	11.678	9.340	0	
 Sharks Park Station	Port-Harcourt	Rivers	4.766	7.018	0	
-Jakpa Road	Uvwie	Delta	5.564	5.752	1	Effurun, Warri to Shell Ogunu
-Shoyinka Street	Ifako/Ijaye	Lagos	6.661	3.315	1	
 Tejuosho Shopping Centre	Surulere	Lagos	6.508	3.371	0	Tejuosho Ultramodern Shopping Centre
-Shehu Yusuf Street	Bwari	FCT Abuja	9.162	7.366	1	
-Ago_Are - Shaki Road	Saki West	Oyo	8.657	3.395	1	
 Unilag Shuttle Bus Station	Shomolu	Lagos	6.518	3.395	0	
 General Hospital Shira Yana	Shira	Bauchi	11.442	10.034	0	
-UNIVERSITY SHUTTLE BUS STATION	Akure South	Ondo	7.304	5.135	0	
+University Shuttle Bus Station	Akure South	Ondo	7.304	5.135	0	
 Sharaf Dispensary	Ningi	Bauchi	11.303	9.514	0	
 Shirgiya Health Clinic	Sumaila	Kano	11.317	9.119	0	
 Shau Dispensary	Toro	Bauchi	10.472	9.147	0	
 Sharfuri Maternal Clinic	Kirfi	Bauchi	10.316	10.569	0	
 Shafa Primary Health Center	Bauchi	Bauchi	10.154	10.129	0	
 Atafowa Primary Health Center	Itas/Gadau	Bauchi	11.964	10.064	0	Sharfori Dispensary
-Shani General Hospital	Shani	Borno	10.227	12.055	0	
 Shelleng NYSC Site	Shelleng	Adamawa	9.884	12.024	0	
 Shagari Health Clinic	Yola North	Adamawa	9.190	12.479	0	
 Chief Shepherd Hospital	Yenegoa	Bayelsa	4.934	6.312	0	
 Good Shepherd Specialist hospital	Yenegoa	Bayelsa	4.932	6.309	0	
 Shawsand Medical Centre	Obio/Akpor	Rivers	4.859	7.073	0	
-Sholanke Street	Shomolu	Lagos	6.528	3.385	1	
 Shashau Health Post Shashau	Hong	Adamawa	10.325	12.852	0	
 Akure Shopping Mall	Akure South	Ondo	7.236	5.214	0	
 Shanga Mmaternal And Child Health Care	Fune	Yobe	11.754	11.500	0	
 Shekau Dispensary	Tarmua	Yobe	12.147	11.689	0	
 Shekke Health Clinic	Yusufari	Yobe	13.039	10.942	0	
-Shagari Road	Akure South	Ondo	7.285	5.201	1	
 Garin Shera Dispensary	Nangere	Yobe	11.663	10.929	0	
 she Maternal and Child Health Care	Fune	Yobe	11.592	11.536	0	
 Shamka Dispensary	Fune	Yobe	11.579	11.699	0	
-K. K. Shaw Street	Municipal Area Council	FCT Abuja	8.932	7.578	1	
-Shadda Koko	Tarauni	Kano	11.976	8.561	1	
-Shehu Sani Street	Gwale	Kano	11.979	8.470	1	
-Sharif Maulana Street	Gwale	Kano	11.975	8.473	1	
-Shonola Street	Ikeja	Lagos	6.635	3.345	1	
-David Shopeju street	Kosofe	Lagos	6.567	3.392	1	
-Shamseydeen Close	Eti Osa	Lagos	6.476	3.628	1	
-Jumoke Shoderu Close	Ìkòròdú	Lagos	6.621	3.521	1	
-Tunde Shitta Street	Ifo	Ogun	6.759	3.182	1	
-Shabomi-Akotogbo Road	Ese Odo	Ondo	6.431	4.912	1	
-Shabomi Road	Ese Odo	Ondo	6.443	4.899	1	
 Secondary School  Sheretti	Municipal Area Council	FCT Abuja	8.943	7.438	0	
-Dotun Shobukola Street	Alimosho	Lagos	6.558	3.265	1	
 Sherma filling station	Municipal Area Council	FCT Abuja	9.017	7.427	0	
-AYM SHAFFA	Municipal Area Council	FCT Abuja	9.033	7.443	0	
-Shehu Laminu Avenue	Kaduna North	Kaduna	10.525	7.454	1	
+Aym Shaffa	Municipal Area Council	FCT Abuja	9.033	7.443	0	
 Bama Motor Park Shopping centre	Jere	Borno	11.805	13.184	0	
-Bama Motor Park Shopping centre	Jere	Borno	11.805	13.184	0	
+Bama Motor Park Shopping centre	Jere	Borno	11.804	13.184	0	
 Bama Motor Park Shopping centre	Jere	Borno	11.804	13.186	0	
-Shira - Azare Federal Road	Katagum	Bauchi	11.658	10.173	1	
-Shira - Azare Federal Road	Katagum	Bauchi	11.661	10.177	1	
+Jalingo Shopping Mall	Jalingo	Taraba	8.933	11.339	0	
 Professor Wole Shoyinka Station, Laderin	Obafemi Owode	Ogun	7.129	3.398	0	
-Shogbiyanju Street	Ewekoro	Ogun	6.878	3.167	1	
-Shogbiyanju Street	Ewekoro	Ogun	6.875	3.162	1	
-Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.497	4.516	1	
-Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.510	4.519	1	
 Falomo Shopping Mall	Eti Osa	Lagos	6.444	3.428	0	
-Shaki - Alagbafi Road	Saki West	Oyo	8.669	3.396	1	
-Shaki - Alagbafi Road	Saki West	Oyo	8.678	3.396	1	
-Ago_Are - Shaki Road	Saki West	Oyo	8.595	3.401	1	
-Shehu Shagari Way	Municipal Area Council	FCT Abuja	9.096	7.475	1	
-Ago_Are - Shaki Road	Saki West	Oyo	8.641	3.402	1	
-Ibidapo Shobowale Street	Ìkòròdú	Lagos	6.622	3.482	1	
 Kasuwan Shanu	Maiduguri	Borno	11.860	13.178	0	
 Shehu Garbai Government School	Maiduguri	Borno	11.830	13.143	0	
-Shadipe Lane	Eti Osa	Lagos	6.449	3.615	1	
-Shoyoye Street	Eti Osa	Lagos	6.453	3.611	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.507	8.537	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.530	8.578	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.523	8.566	1	
-Shekau	Tarmua	Yobe	12.158	11.675	2	
-Shoye	Fika	Yobe	11.252	11.141	2	
-Shaiya	Malam Maduri	Jigawa	12.449	9.851	2	
-Shabaru	Sule Tankakar	Jigawa	12.578	9.190	2	
-Shuwarin	Kiyawa	Jigawa	11.775	9.404	2	
-Shinkafi South	Shinkafi	Zamfara	13.060	6.507	2	
-Shinkafi North	Shinkafi	Zamfara	13.076	6.494	2	
-Shanawa	Shinkafi	Zamfara	13.097	6.474	2	
-Shagari	Shagari	Sokoto	12.594	4.991	2	
-Shagari	Shagari	Sokoto	12.543	5.072	2	
-Shuni	Dange-Shuni	Sokoto	12.926	5.271	2	
-Shinkafi	Shinkafi	Zamfara	13.037	6.370	2	
-Shinaka	Goronyo	Sokoto	13.536	5.668	2	
-Dange-Shuni	Dange-Shuni	Sokoto	12.826	5.419	2	
-Lani Shiba	Koko-Besse	Kebbi	11.644	4.385	2	
-Yalmo Shindi Wari	Wasagu-Danko	Kebbi	11.642	5.254	2	
-Shanga	Shanga	Kebbi	11.209	4.643	2	
-Shanga	Shanga	Kebbi	11.196	4.606	2	
-Sharabi Kwanguwai	Bagudo	Kebbi	11.605	4.222	2	
-Shiko	Dandi	Kebbi	11.810	3.852	2	
-Dandiya Shema	Suru	Kebbi	11.999	4.108	2	
-Shika	Giwa	Kaduna	11.205	7.558	2	
-Shanono	Shanono	Kano	12.048	7.989	2	
-Shuwaki	Tudun Wada	Kano	11.323	8.379	2	
-Shamakawa	Kunchi	Kano	12.414	8.299	2	
-She She	Kano Municipal	Kano	11.997	8.513	2	
-Shakogi	Shanono	Kano	12.030	8.029	2	
-Garun Sheme	Kunchi	Kano	12.376	8.204	2	
-Shuwaki	Kunchi	Kano	12.458	8.222	2	
-Shagogo	Gaya	Kano	11.868	8.965	2	
-Shinkafi 1	Muhammadu Dikko Stadium	Katsina	13.050	7.657	2	
-Shinkafi 2	Muhammadu Dikko Stadium	Katsina	13.003	7.662	2	
-Shibdawa	Bindawa	Katsina	12.764	7.811	2	
-Shafe	Gwiwa	Jigawa	12.805	8.269	2	
-Sheme	Faskari	Katsina	11.708	7.124	2	
-Shema	Dutsin Ma	Katsina	12.506	7.529	2	
-Shanono	Shanono	Kano	12.097	7.926	2	
-Shiroro	Shiroro	Niger	10.084	6.719	2	
-Shagamu	Shagamu	Ogun	6.808	3.589	2	
-Shendam	Shendam	Plateau	8.737	9.516	2	
-Shehuri	Bama	Borno	11.507	14.170	2	
-Shehuri North	Maiduguri	Borno	11.852	13.160	2	
-Shehuri South	Maiduguri	Borno	11.844	13.158	2	
-Shaffa	Hawul	Borno	10.513	12.366	2	
-Shani	Shani	Borno	10.201	12.019	2	
-Shirarkir	Chibok	Borno	10.772	12.745	2	
-Shongom	Shongom	Gombe	9.736	11.273	2	
-Shongo	Kirfi	Bauchi	10.530	10.365	2	
-Shira	Shira	Bauchi	11.476	10.088	2	
-Shira	Shira	Bauchi	11.465	10.063	2	
-Shere	Doguwa	Kano	10.657	8.784	2	
-Shelleng	Shelleng	Adamawa	9.978	12.108	2	
-Shani	Shani	Borno	10.195	11.948	2	
-Shettimari	Kaga	Borno	11.472	12.383	2	
-Shehuri	Ngala	Borno	12.416	14.145	2	
-Shaba	Kaduna North	Kaduna	10.521	7.435	2	
-Unguwar Shanu	Kaduna North	Kaduna	10.543	7.427	2	
-Shomolu	Shomolu	Lagos	6.534	3.384	2	

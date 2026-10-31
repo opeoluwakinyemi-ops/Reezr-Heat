@@ -9,20 +9,10 @@ Gyadi-Gyadin Arewa	Tarauni	Kano	11.975	8.541	2	Gyadi Gyadi Arewa
 Gyadi-Gyadin Kudu	Tarauni	Kano	11.969	8.546	2	Gyadi Gyadi Kudu
 Gyaranya	Gwale	Kano	11.999	8.508	2	
 Gyarha	Hawul	Borno	10.621	12.330	2	
-GYADI GYADI, GIRLS SECONDARY SCHOOL	Tarauni	Kano	11.968	8.545	0	
-GYADI GYADI SPECIAL PRIMARY SCHOOL	Tarauni	Kano	11.968	8.546	0	
 Gyauro Cikin Gari	Bichi	Kano	12.253	8.469	2	
 Gyadawa Musa	Ajingi	Kano	12.003	8.954	2	
 Unguwar Gyada Arewa	Gaya	Kano	11.758	8.944	2	
 Gyautawa	Toro	Bauchi	10.450	8.813	2	
-Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
-Gyadi-Gyadi Baban Layi	Tarauni	Kano	11.970	8.545	1	
-Unguwar Gyartai Health Post	Kunchi	Kano	12.441	8.168	0	
-Gyaranya Health Post	Minjibir	Kano	12.196	8.590	0	
-Gynescope Specialist Hospital	Obio/Akpor	Rivers	4.853	7.015	0	
-Gynescope Specialist Hospital	Obio/Akpor	Rivers	4.855	7.015	0	
-gyawana maternity clinic	Larmurde	Adamawa	9.571	11.884	0	
-Gyakan maternal and child clinic	Larmurde	Adamawa	9.494	11.552	0	
 Gyalganye	Gummi	Zamfara	12.126	4.987	2	
 Gyellesu	Zaria	Kaduna	11.056	7.737	2	
 Gyadi Gyadi Arewa	Tarauni	Kano	11.975	8.542	2	
@@ -30,3 +20,60 @@ Gyadi Gyadi Kudu	Tarauni	Kano	11.969	8.546	2
 Kunduru Gyaza	Kankia	Katsina	12.399	7.742	2	
 Gyara	Bogoro	Bauchi	9.616	9.504	2	
 Gyara	Itas/Gadau	Bauchi	11.782	9.986	2	
+Ungwan Gyargu	Bunza	Kebbi	12.208	3.749	2	
+Pakka Gyegeri	Mubi South	Adamawa	10.104	13.209	2	
+Gyushage	Guma	Benue	7.736	8.705	2	
+Gyura	Konshisha	Benue	7.016	8.870	2	
+Gyungu	Gboko	Benue	7.343	8.745	2	
+Gyido	Gboko	Benue	7.392	8.642	2	
+Gyewudin	Hong	Adamawa	10.193	12.935	2	
+Gyete	Konshisha	Benue	7.254	8.510	2	
+Gyele	Konshisha	Benue	7.169	8.611	2	
+Gyel	Jos South	Plateau	9.790	8.844	2	
+Gyel	Gboko	Benue	7.300	8.720	2	
+Gye Gwe Adinya	Gwer East	Benue	7.648	8.641	2	
+Gyaza	Kankia	Katsina	12.404	7.724	2	
+Geyu	Sabon Birni	Sokoto	13.563	5.921	2	Gyaya
+Gyawan	Song	Adamawa	9.666	12.484	2	
+Gyarta	Mashi	Katsina	13.062	8.026	2	
+Gyaro	Ushongo	Benue	7.065	8.882	2	
+Gyanga	Konshisha	Benue	7.023	8.863	2	
+Gyambar	Kanam	Plateau	9.461	9.883	2	
+Gyakpo	Tarka	Benue	7.584	8.852	2	
+Gyaa	Konshisha	Benue	7.184	8.518	2	
+Gya	Konshisha	Benue	7.206	8.650	2	
+Gyomakugwe	Askira-Uba	Borno	10.654	13.088	2	
+Gyungu	Gwer East	Benue	7.374	8.488	2	
+Ungwan Gyada	Dan Musa	Katsina	12.289	7.296	2	
+Gyauri	Tsafe	Zamfara	12.009	7.167	2	
+Gyazama	Dandume	Katsina	11.432	7.249	2	
+Ungwan Mai Gyadan	Kudan	Kaduna	11.217	7.654	2	
+Gyalande	Dange-Shuni	Sokoto	12.959	5.338	2	
+Kunduru Gyaza	Kankia	Katsina	12.394	7.706	2	
+Gyalganye	Gummi	Zamfara	12.123	5.000	2	
+Gyarkpa	Markurdi	Benue	7.628	8.479	2	
+Gyundu	Ukum	Benue	7.679	9.500	2	
+Gyenku	Wukari	Taraba	7.887	9.529	2	
+Gyaase	Wukari	Taraba	7.775	9.962	2	
+Tse Gyuba	Ukum	Benue	7.751	9.530	2	
+Gyigya	Ukum	Benue	7.672	9.528	2	
+Gyegu	Ukum	Benue	7.615	9.565	2	
+Gyugu	Ukum	Benue	7.625	9.584	2	
+Gyegu	Ukum	Benue	7.651	9.718	2	
+Gyuse	Gboko	Benue	7.276	9.028	2	
+Gyuse	Katsina-Ala	Benue	7.355	9.387	2	
+Tse-Gye	Gboko	Benue	7.261	8.816	2	
+Angwan Gyara	Jaba	Kaduna	9.377	7.954	2	
+Kurmin Gyada	Kachia	Kaduna	9.676	8.061	2	
+Gyani	Kachia	Kaduna	9.616	8.015	2	
+Gyani	Kachia	Kaduna	9.611	8.017	2	
+Gyende	Ganye	Adamawa	8.451	12.259	2	
+Gyadi-Gyadi Baban Layi	Tarauni	Kano	11.970	8.545	1	
+Gyadi Gyadi, Girls Secondary School	Tarauni	Kano	11.968	8.545	0	
+Gyadi Gyadi Special Primary School	Tarauni	Kano	11.968	8.546	0	
+Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
+Unguwar Gyartai Health Post	Kunchi	Kano	12.441	8.168	0	
+Gyaranya Health Post	Minjibir	Kano	12.196	8.590	0	
+Gynescope Specialist Hospital	Obio/Akpor	Rivers	4.853	7.015	0	
+gyawana maternity clinic	Larmurde	Adamawa	9.571	11.884	0	
+Gyakan maternal and child clinic	Larmurde	Adamawa	9.494	11.552	0	

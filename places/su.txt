@@ -1,3 +1,13 @@
+Suya	Baruten	Kwara	9.469	3.182	3	
+Suru	Suru	Kebbi	11.924	4.182	3	
+Surulere	Surulere	Lagos	6.501	3.357	3	Suru-Lere
+Sunawa	Lokoja	Kogi	8.414	6.433	3	
+W B Sule	Kwaya Kusar	Borno	10.567	11.956	3	Gongdi
+Sunkani	Ardo-Kola	Taraba	8.704	11.258	3	
+Sumaila	Sumaila	Kano	11.530	8.956	3	
+Sule Tankarkar	Sule Tankakar	Jigawa	12.667	9.228	3	Sule Tankarka|Sule-Tankar-Kar
+Suleja	Suleja	Niger	9.181	7.179	3	Abudzha|Abuja|Sulaija|Suleija
+Kosofe	Kosofe	Lagos	6.601	3.409	3	ke suo fei|kosofe
 Sunkani	Kirfi	Bauchi	10.379	10.806	2	Sunkari
 Sukandu	Dange-Shuni	Sokoto	12.882	5.434	2	
 Sulu	Ifelodun	Kwara	8.317	4.767	2	
@@ -20,7 +30,6 @@ Sugu	Ganye	Adamawa	8.367	12.067	2	Tsugu
 Kutiko	Katcha	Niger	9.333	6.483	2	Sunbwagi
 Suzawa	Michika	Adamawa	10.486	13.349	2	
 Suroru	Tangaza	Sokoto	13.292	5.019	2	
-Suya	Baruten	Kwara	9.469	3.182	3	
 Sununu	Ngaski	Kebbi	10.337	4.722	2	
 Sunnayu	Shiroro	Niger	10.342	6.825	2	Sunnai
 Jimojimi Sule	Gudu	Sokoto	13.720	4.691	2	
@@ -31,6 +40,7 @@ Sumaila	Asa	Kwara	8.350	4.450	2	Eggon Tomori;Sumaila
 Dabiya	Chibok	Borno	10.749	12.732	2	Ardo Sule
 Suna Goru	Arewa Dandi	Kebbi	12.348	3.754	2	
 Surimi	Maru	Zamfara	11.521	5.885	2	
+Suntai Bakundi	Bali	Taraba	7.599	10.400	2	
 Sutiyari	Fune	Yobe	12.369	11.298	2	Tsutiari
 Sunsuni	Gwandu	Kebbi	12.419	4.679	2	
 Ungwan Sule	Kalgo	Kebbi	12.501	4.063	2	
@@ -49,15 +59,13 @@ Suwa	Kala-Balge	Borno	11.932	14.289	2
 Tungan Sule	Arewa Dandi	Kebbi	12.444	3.733	2	
 Ungwan Sule	Bunza	Kebbi	12.370	3.963	2	
 Suida	Arewa Dandi	Kebbi	13.157	4.372	2	
-Suru	Suru	Kebbi	11.924	4.182	3	
 Adamu Suka	Fune	Yobe	11.437	11.459	2	
 Surimi	Wasagu-Danko	Kebbi	11.564	5.813	2	
 Kuka-Suguriwa	Nangere	Yobe	11.907	10.931	2	
-Suleja	Suleja	Niger	9.176	7.181	2	Abuja;Suleija;Sulaija
 Siche	Paikoro	Niger	9.533	7.117	2	Suche
 Sudugi	Agaie	Niger	9.117	6.533	2	Sudiji
 Banda Sule	Gwandu	Kebbi	12.586	4.548	2	
-Gidan Sufa	Wukari	Nasarawa	7.950	9.300	2	Fanu;Sufa;Dansufa
+Gidan Sufa	Wukari	Taraba	7.950	9.300	2	Fanu;Sufa;Dansufa
 Sugundere	Nganzai	Borno	12.474	13.263	2	
 Surr	Bogoro	Bauchi	9.550	9.750	2	
 Sunsai	Musawa	Katsina	12.236	7.835	2	
@@ -69,17 +77,10 @@ Ungwan Sulai	Kiru	Kano	11.328	8.261	2
 Sudaye	Tafawa-Balewa	Bauchi	9.658	9.333	2	
 Surugu	Suru	Kebbi	11.619	3.924	2	
 Sugudidi	Babura	Jigawa	12.638	8.986	2	
-Surulere	Surulere	Lagos	6.501	3.357	3	Suru-Lere
-Sunawa	Lokoja	Kogi	8.414	6.433	3	
 Sunti	Edu	Kwara	9.087	5.165	2	
-Sunroni bussiness center	Oredo	Edo	6.330	5.627	0	
-Sunshine Crèche	Enugu North	Enugu	6.447	7.488	0	
-Sure mercies eye clinic & services	Enugu North	Enugu	6.450	7.493	0	
-Subola Memorial School	Ibadan North	Oyo	7.403	3.911	0	
-Sundu Health Post	Rogo	Kano	11.381	7.761	0	
+Jatau Sum	Bali	Taraba	8.367	11.300	2	Jatua Sum
 Sunusi	Tudun Wada	Kano	11.240	8.511	2	Unguwar Sunusi
 Sumana	Tudun Wada	Kano	11.276	8.319	2	
-W B Sule	Kwaya Kusar	Borno	10.567	11.956	3	Gongdi
 Sudingo	Shani	Borno	10.250	11.873	2	
 Abba Suguri	Magumeri	Borno	12.156	13.005	2	
 Bukar Suguri	Gubio	Borno	12.550	12.511	2	
@@ -138,8 +139,6 @@ Sura	Biu	Borno	10.602	12.382	2
 Lamido Sule	Biu	Borno	10.784	11.849	2	
 Wawa Sulvawa	Damboa	Borno	11.078	12.670	2	
 Surdewala Clan	Gwoza	Borno	11.235	13.880	2	
-Supasa Oil and Gas Filling Station	Okpe	Delta	5.598	5.702	0	
-Sunny Eru Motors	Uvwie	Delta	5.567	5.797	0	
 Kafi Sungul Modu Fantami	Guzamala	Borno	12.684	13.474	2	
 Galgal Suwa	Monguno	Borno	12.329	13.384	2	
 Sure Lawanti	Monguno	Borno	12.386	13.486	2	
@@ -155,69 +154,270 @@ Abatcha Suguri	Nganzai	Borno	12.570	13.343	2
 Goni Suwuri Bulamari	Guzamala	Borno	12.692	13.292	2	
 Aliari B Modu Sugu	Guzamala	Borno	13.031	12.982	2	
 Sumori	Konduga	Borno	11.710	13.007	2	
-Wellspring Surgical Clinic	Uvwie	Delta	5.543	5.776	0	
-Sure Success Group of Schools	Warri South	Delta	5.537	5.755	0	
-Sure Success School	Warri South	Delta	5.529	5.751	0	
-Sudi Medical Services	Obio/Akpor	Rivers	4.850	7.063	0	
 Doron Sule	Wurno	Sokoto	13.262	5.574	2	
 Sunke	Anka	Zamfara	11.896	5.912	2	
-Supare Akoko Market	Akoko South West	Ondo	7.447	5.689	0	
-Sunday Adeyi Olaogun Petrol Station	Ogbomosho North	Oyo	8.117	4.224	0	
-Sungaz	Alimosho	Lagos	6.533	3.218	0	
-Great Success School	Gwagwalada	FCT Abuja	9.090	7.207	0	
-Sunnah Hospital	Gombe	Gombe	10.286	11.185	0	
 Unguwar Sunusi	Makoda	Kano	12.450	8.418	2	
 Sukuma	Ajingi	Kano	11.920	9.101	2	
 Kwanar Sumaila A	Albasu	Kano	11.621	8.956	2	
 Sulluru	Takai	Kano	11.398	9.066	2	
-Nganzai Family Support Clinic	Nganzai	Borno	12.489	13.213	0	
-suwa primary heath center	Larmurde	Adamawa	9.534	11.607	0	
-sukur settlement heath post	Madagali	Adamawa	10.880	13.609	0	
-sukur sama heath post	Madagali	Adamawa	10.742	13.584	0	
-Bamaiyi Sundume Memorial Medical Health Centre	Zuru	Kebbi	11.316	5.233	0	
 Ung Sule	Toro	Bauchi	10.429	8.780	2	
-Suzan Hospital	Suleja	Niger	9.183	7.186	0	
-St. John'S Anglican Primary School, Sunren Okenla Ifo	Ifo	Ogun	6.728	3.329	0	
-Community Primary School, Abule Sule	Ìjẹ̀bú Òde	Ogun	6.821	3.915	0	
-St. John'S Anglican Primary School, Sunren Okenla Ifo	Ewekoro	Ogun	6.873	3.298	0	
-Community Primary School, Abule Sule	Ifo	Ogun	6.765	3.258	0	
-family support	Ngelzarma	Yobe	11.764	11.956	0	
-Ben-Dominics Dental Surgery clinic	Jos North	Plateau	9.907	8.892	0	
-Rosy Premium Success Academy Nursery and Primary School Kuchigoro	Municipal Area Council	FCT Abuja	9.018	7.420	0	
-Sunshine Int'l	Bauchi	Bauchi	10.300	9.805	0	
-family support nursery and primary school.Gombe	Gombe	Gombe	10.307	11.167	0	
-Sunnyvale Hospitals	Municipal Area Council	FCT Abuja	8.985	7.446	0	
-Sunnyvale Mall	Municipal Area Council	FCT Abuja	8.986	7.447	0	
-NNPC Hospital No2 Sultan Road Unguwan Rimi Gra Kaduna	Kaduna North	Kaduna	10.536	7.452	0	
-Barau Dikko Teaching Hospital No1 Suleiman Ahmed Road Shagari Lowcost	Kaduna South	Kaduna	10.464	7.432	0	
-Yusuf Dantsoho Hospital Pq 12 Danladi Inusa Road Uguwan Sunusi Kaduna	Kaduna South	Kaduna	10.528	7.404	0	
-Summy Indeel Laboratary	Ojo	Lagos	6.458	3.131	0	
-Surulere Primary Health Care Center	Alimosho	Lagos	6.654	3.260	0	
-Victory Success Maternity Home	Alimosho	Lagos	6.586	3.246	0	
-Summit Hospital And Maternity Home	Alimosho	Lagos	6.594	3.304	0	
-Sunlight Villa	Akure South	Ondo	7.285	5.150	0	
-Land & Sea Suite	Akure South	Ondo	7.288	5.147	0	
 Sumbe	Akko	Gombe	9.995	10.955	2	
-Modrosatul Darus Sunnah, Adeleye	Egbeda	Oyo	7.452	4.043	0	
-Amazing success model academy	Alimosho	Lagos	6.532	3.235	0	
-APEX SUCCESS ITNL SCHOOLS	Ungongo	Kano	12.045	8.565	0	
-MADARASATUL SUNNATU NABIYYI	Ungongo	Kano	12.043	8.568	0	
-SUCCESS ACADEMY	Ungongo	Kano	12.042	8.564	0	
-MAKARANTAR MALAM SUNUSI	Ungongo	Kano	12.041	8.562	0	
-MUHAMMADU SUNUSI RAYADU SALIHIN SCHOOL	Gwale	Kano	11.959	8.477	0	
-IMAM SULAIMAN ACADEMY	Gwale	Kano	11.961	8.471	0	
-Yoruba Road Market Ilorin, Sulu Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.565	0	
-NNPC, Surulere Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.539	0	
-General Hospital, Ilorin, Surulere Road, Ilorin, Nigeria	Ilorin West	Kwara	8.479	4.534	0	
-Al Ihsan Clinics and Surgery	Tarauni	Kano	11.946	8.558	0	
 Maïkiriya Sud	Dungass	Jigawa	12.829	9.316	2	
-Summit Science Academy	Karu	Nasarawa	8.952	7.669	0	
-Doncent Electronics (Oliver Twist Supermarket )	Municipal Area Council	FCT Abuja	8.969	7.359	0	
-Tcn Sub Station, Zhidu Junction	Municipal Area Council	FCT Abuja	9.009	7.373	0	
-Living Faith Church, Mai Suya Junction, New Jerusalem, Dutse Makaranta	Bwari	FCT Abuja	9.168	7.386	0	
-Sunrise Restaurant	Municipal Area Council	FCT Abuja	9.121	7.385	0	
-Oliver Twist Super Store	Municipal Area Council	FCT Abuja	8.976	7.363	0	
-Purchasing And Supply Chain Management Department- NBTE	Kaduna North	Kaduna	10.611	7.444	0	
+SunnyVale Estate	Municipal Area Council	FCT Abuja	8.979	7.443	2	
+Sumbar	Yusufari	Yobe	13.197	10.595	2	
+Sungul Koka	Tarmua	Yobe	12.064	11.992	2	
+Sule Tankakar	Sule Tankakar	Jigawa	12.625	9.175	2	
+Sundimina	Birnin Kudu	Jigawa	11.632	9.579	2	
+Sutti	Tangaza	Sokoto	13.340	5.082	2	
+Mamman Suka	Gwadabawa	Sokoto	13.576	5.326	2	
+Suru	Suru	Kebbi	11.869	4.220	2	
+Suru	Suru	Kebbi	11.792	4.146	2	
+Kurun Sumau	Kura	Kano	11.772	8.425	2	
+Sukuntuni	Kankia	Katsina	12.307	7.791	2	
+Suleja	Suleja	Niger	9.208	7.187	2	
+Sulumthla	Biu	Borno	10.611	12.205	2	
+Sugundare	Nganzai	Borno	12.441	13.279	2	
+Sure	Monguno	Borno	12.426	13.438	2	
+Sumaila	Sumaila	Kano	11.258	8.870	2	
+Surko	Birnin Kudu	Jigawa	11.330	9.488	2	
+Kafin Sule	Misau	Bauchi	11.371	10.347	2	
+Surulere	Surulere	Oyo	8.091	4.415	2	
+Surulere	Surulere	Lagos	6.486	3.354	2	
+Zumbulum	Gwoza	Borno	11.267	13.915	2	Sumbulim|Sumbulimbe
+Wuya Suma	Gbako	Niger	9.141	5.863	2	
+Wuro Sundani	Hong	Adamawa	10.197	13.110	2	
+Wuro Sulei	Jada	Adamawa	8.793	12.270	2	
+Suwe	Donga	Taraba	7.609	10.072	2	
+Suware	Maiha	Adamawa	10.055	13.104	2	
+Suware	Hong	Adamawa	10.028	13.052	2	
+Suta	Asa	Kwara	8.300	4.467	2	
+Susu	Kwande	Benue	6.457	9.544	2	
+Surutawa	Doguwa	Kano	10.791	8.563	2	
+Gbengbeleku	Baruten	Kwara	9.085	3.147	2	Suru
+Surturi	Akko	Gombe	10.167	11.020	2	
+Surr	Bogoro	Bauchi	9.570	9.747	2	Zur
+Surku	Birnin Kudu	Jigawa	11.333	9.517	2	
+Surimi	Maru	Zamfara	11.533	5.900	2	
+Suriaretin	Magumeri	Borno	12.088	12.966	2	Tsuriaretin
+Surdu	Soba	Kaduna	11.138	7.898	2	
+Surame	Silame	Sokoto	13.086	4.899	2	Surami
+Supen	Teungo	Adamawa	7.999	11.574	2	
+Sunyi	Gombi	Adamawa	10.199	12.752	2	
+Sununu	Ngaski	Kebbi	10.346	4.730	2	
+Sunti	Edu	Kwara	9.067	5.183	2	
+Suntale	Mokwa	Niger	9.033	5.817	2	
+Suntai Bakundi	Bali	Taraba	7.611	10.396	2	
+Suntai	Bali	Taraba	7.908	10.380	2	
+Sunpate	Gbako	Niger	9.300	5.883	2	
+Sunowa	Borsari	Yobe	12.730	11.382	2	
+Sunkuru	Kurmi	Taraba	7.461	10.843	2	
+Sunkani	Ganjuwa	Bauchi	10.666	10.456	2	
+Sungdung	Hawul	Borno	10.583	12.139	2	
+Sunbare	Ido	Oyo	7.467	3.740	2	
+Sunawara	Ganye	Adamawa	8.256	12.138	2	
+Sumore	Jada	Adamawa	8.822	12.203	2	
+Sumba	Shira	Bauchi	11.520	9.985	2	
+Sum Apir	Markurdi	Benue	7.628	8.565	2	
+Sumana	Tudun Wada	Kano	11.295	8.331	2	
+Sumakr	Gbako	Niger	9.450	5.917	2	
+Sumaila	Shiroro	Niger	9.927	6.589	2	
+Sulubawa	Malumfashi	Katsina	11.755	7.555	2	
+Sulo	Fufore	Adamawa	8.891	12.239	2	
+Sulibawa	Rijau	Niger	10.893	5.284	2	
+Sulei	Jada	Adamawa	8.553	12.282	2	
+Sule	Itesiwaju	Oyo	8.192	3.649	2	
+Sukuru	Lagelu	Oyo	7.498	4.094	2	
+Sukuku	Kwali	FCT Abuja	8.751	7.037	2	
+Suku	Kabba/Bunu	Kogi	8.243	6.236	2	
+Suko	Nafada	Gombe	11.110	11.114	2	
+Suka	Dukku	Gombe	10.829	10.989	2	
+Sugur	Jere	Borno	12.139	13.088	2	
+Sugumi	Kaga	Borno	11.667	12.183	2	
+Sugum	Guri	Jigawa	12.672	10.580	2	
+Suguboya	Magumeri	Borno	12.288	12.286	2	
+Sugu	Suru	Kebbi	11.993	4.125	2	
+Sugh	Konshisha	Benue	7.017	8.868	2	
+Sufeneti	Edu	Kwara	8.968	5.033	2	
+Sufawa	Rafi	Niger	10.049	6.319	2	
+Shufa	Gamawa	Bauchi	12.154	10.428	2	Sufa
+Sudingo	Nafada	Gombe	10.911	11.322	2	
+Subura	Shelleng	Adamawa	9.904	12.209	2	
+Subunum	Magumeri	Borno	12.107	13.055	2	
+Suborogi	Shira	Bauchi	11.618	9.989	2	
+Subon	Hawul	Borno	10.481	12.336	2	
+Suberu Oje	Alimosho	Lagos	6.667	3.267	2	
+Suberu	Atisbo	Oyo	8.315	3.386	2	
+Subalo	Baruten	Kwara	9.021	3.387	2	
+Sua	Konshisha	Benue	7.087	8.698	2	
+Sutti	Tangaza	Sokoto	13.340	4.968	2	Sitti|Suti
+Sullubawa	Shagari	Sokoto	12.615	5.238	2	Silbawa
+Siche	Paikoro	Niger	9.540	7.127	2	Suche
+Suletu	Toto	Nasarawa	8.190	7.127	2	Sheratu
+Seteku	Agwara	Niger	10.644	4.677	2	Suteku
+Sunwa-Market	Yewa North	Ogun	7.150	2.955	2	Sanwo Market
+Sabon Gida Mai Suna	Donga	Taraba	7.481	10.501	2	
+Oke-Sunsun	Iwajowa	Oyo	7.927	3.151	2	Oke Sunsun|OkeSunsun
+Oke-Su	Iwajowa	Oyo	7.975	3.181	2	Oke Su|OkeSu
+Sunga	Toto	Nasarawa	8.423	7.124	2	Niagba
+Nafuta Sutumi	Toro	Bauchi	10.188	9.286	2	
+Mayo Sumsum	Teungo	Adamawa	8.229	12.137	2	
+Mayo Sumsum	Teungo	Adamawa	7.992	12.011	2	
+Kurama Suko	Fakai	Kebbi	11.585	4.613	2	Kangi
+Kaudi Jauro Sule	Gombi	Adamawa	10.146	12.600	2	
+Jauro Sule	Akko	Gombe	9.889	11.028	2	
+Gurgu Sudan	Sardauna	Taraba	7.000	11.083	2	
+Gidan Sule	Kagarko	Kaduna	9.541	7.878	2	
+Gidan Sufa	Wukari	Taraba	7.921	9.220	2	Dansufa|Fanu|Sufa
+Gidan Dikon Sulare	Gwandu	Kebbi	12.610	4.515	2	
+Garin Suya	Arewa Dandi	Kebbi	12.390	3.781	2	
+Eyo Sung	Udung Uko	Akwa Ibom	4.756	8.249	2	
+Eggon-Tomori	Asa	Kwara	8.342	4.448	2	Eggon Tomori|Sumaila
+Dogo-Sule-Nee	Konshisha	Benue	7.069	8.544	2	
+Budo-Sule	Ìsẹ́yìn	Oyo	7.760	3.409	2	Budo Sule|BudoSule
+Gulmare	Dandi	Kebbi	12.079	3.858	2	Bele Sumbe
+Bar Jirg Summa	Jos South	Plateau	9.864	8.903	2	Bar Jirgi Summa|Barikin Jirga Summa
+Banda Sule	Gwandu	Kebbi	12.583	4.550	2	
+Akalimanga Sum	Mayo-Belwa	Adamawa	9.139	11.770	2	Alkaliman|Alkalimanga
+Adamu Suka	Fune	Yobe	11.445	11.452	2	
+Sulu	Afijio	Oyo	7.731	3.997	2	
+Suru Lere	Ijero	Ekiti	7.941	5.055	2	
+Sumbula	Shelleng	Adamawa	10.005	12.221	2	
+Susura	Gombi	Adamawa	10.097	12.399	2	
+Sugwa	Hawul	Borno	10.481	12.100	2	
+Sugum	Hawul	Borno	10.498	12.032	2	
+Suku	Gboko	Benue	7.392	8.794	2	
+Sule	Gboko	Benue	7.429	8.837	2	
+Suem	Gwer West	Benue	7.784	8.167	2	
+Sululu	Kazaure	Jigawa	12.603	8.526	2	
+Surfan	Bagwai	Kano	12.147	8.007	2	
+Sumaila	Roni	Jigawa	12.649	8.288	2	
+Birchi Sugune	Dan Musa	Katsina	12.241	7.226	2	
+Gidan Sunauma	Rafi	Niger	10.446	6.417	2	
+Gidan Sarikan Sufana	Rafi	Niger	10.065	6.306	2	
+Surimi	Wasagu-Danko	Kebbi	11.566	5.816	2	
+Suroru	Tangaza	Sokoto	13.291	5.030	2	
+Ungwan Sule Dangambo	Giwa	Kaduna	11.063	7.171	2	
+Tugan Suya	Fakai	Kebbi	11.645	4.666	2	
+Gidan Sule	Rijau	Niger	11.210	4.841	2	
+Sunmoun	Ekeremor	Bayelsa	4.945	5.836	2	
+Kerubu-Suoto	Ekeremor	Bayelsa	4.852	5.480	2	
+Ungwar Sunusi	Tudun Wada	Kano	11.239	8.511	2	
+Sukoro	Etsako Central	Edo	6.961	6.466	2	Isukoro
+Sumasegbene	Patani	Delta	5.181	6.196	2	
+Suberu Debowa Camp	Orhionmwon	Edo	6.330	6.091	2	
+Awka South	Awka South	Anambra	6.207	7.068	2	Agbegbe Ijoba Ibile Guusu Awka|Awka Sud|Awka ta Kudu|Lam Awka|Ndida Awka
+Ife South	Ife South	Osun	7.200	4.600	2	Agbegbe Ijoba Ibile Guusu Ife|Ife SouthLGA|Ife Sud|Ife ta Kudu|Lam Ife
+Idemili South	Idemili South	Anambra	6.048	6.950	2	Agbegbe Ijoba Ibile Guusu Idemili|Idemili Sud|Idemili ta Kudu|Lam Idemili
+Nnewi South	Nnewi South	Anambra	5.933	6.923	2	Agbegbe Ijoba Ibile Guusu Nnewi|Lam Nnewi|Nnewi Sud|Nnewi ta Kudu
+Aniocha South	Aniocha South	Delta	6.128	6.483	2	Agbegbe Ijoba Ibile Guusu Aniocha|Aniocha Sud|Aniocha ta Kudu|Lam Aniocha
+Ika South	Ika South	Delta	6.171	6.129	2	Ika Sud|Ika ta Kudu|Lam Ika
+Isoko South	Isoko South	Delta	5.382	6.214	2	Isoco Meridional|Isoko Sud|Isoko ta Kudu|Lam Isoko
+Oshimili South	Oshimili South	Delta	6.092	6.682	2	Lam Oshimili|Oshimili Sud|Oshimili ta Kudu|nan ao xi mi li
+Ughelli South	Ughelli South	Delta	5.343	5.951	2	Lam Ughelli|Ughelli Sud|Ughelli ta Kudu|Ughilli South
+Warri South	Warri South	Delta	5.613	5.611	2	Agbegbe Ijoba Ibile Guusu Warri|Lam Warri|Warri Sud|Warri ta Kudu
+Surulere	Surulere	Oyo	8.072	4.415	2	
+Umuahia South	Umuahia South	Abia	5.462	7.440	2	Agbegbe Ijoba Ibile Guusu Umuahia|Lam Umuahia|Pivdenna Umuakhija|Umuahia Sud|Umuahia ta Kudu
+Ovia South-West	Ovia South-West	Edo	6.396	5.272	2	Ovia South West|Ovia Sud Ouest|Ovia ta Kudu maso Yamma|Se-lam Ovia
+Suru	Suru	Kebbi	11.830	4.097	2	Agbegbe Ijoba Ibile Suru|Suru Local Government Area
+Sumaila	Sumaila	Kano	11.327	8.914	2	Agbegbe Ijoba Ibile Sumaila|Sumaila Local Government Area|smylt
+Sule Tankakar	Sule Tankakar	Jigawa	12.656	9.188	2	Sule Tankarkar|Sule Tankarkar Local Government Area|Sule-Tankar-Kar
+Langtang South	Langtang South	Plateau	8.602	9.810	2	Agbegbe Ijoba Ibile Guusu Langtang|Lam Langtang|Langtang South Local Government Area|Langtang Sud|Langtang ta Kudu|Langt
+Abeokuta South	Abeokuta South	Ogun	7.154	3.355	2	Abeokuta South Local Government Area|Abeokuta Sud|Abeokuta ta Kudu|Abeokuta-South|Abeokuta-Sul|Agbegbe Ijoba Ibile Guusu
+Ekiti South-West	Ekiti South-West	Ekiti	7.513	5.052	2	Agbegbe Ijoba Ibile Guusu-Iwoorun Ekiti|Ekiti South West|Ekiti South West Local Government Area|Ekiti Sud Ouest|Ekiti Su
+Akure South	Akure South	Ondo	7.205	5.188	2	Agbegbe Ijoba Ibile Guusu Akure|Akure South Local Government Area|Akure Sud|Akure ta Kudu|Lam Akure|jnwb akwr
+Esan South-East	Esan South-East	Edo	6.587	6.476	2	Esan South East|Esan South East Local Government Area|Esan Sud Est|Esan ta Kudu maso Gabas|Tang-lam Esan
+Onitsha South	Onitsha South	Anambra	6.127	6.777	2	Agbegbe Ijoba Ibile Guusu Onitsha|Lam Onitsha|Onitsha South Local Government Area|Onitsha Sud|Onitsha ta Kudu|Onitsha-Su
+Southern Ijaw	Southern Ijaw	Bayelsa	4.677	5.942	2	Agbegbe Ijoba Ibile Apaguusu Ijaw|Southern Ijaw Local Government Area|Southern-Ijaw|Southern/Ndida Ijaw|Sud Ijaw
+Calabar South	Calabar South	Cross River	4.864	8.336	2	Calabar South Local Government Area|Calabar Sud|Kalabar ta Kudu|Lam Calabar
+Mubi South	Mubi South	Adamawa	10.187	13.396	2	Agbegbe Ijoba Ibile Guusu Mubi|Lam Mubi|Mubi South Local Government Area|Mubi Sud|Mubi ta Kudu
+Yola South	Yola South	Adamawa	9.253	12.436	2	Agbegbe Ijoba Ibile Guusu Yola|Lam Yola|Yola Fombina|Yola South Local Government Area|Yola Sud|Yola ta Kudu|ywla jnwby
+Bukar Suguri	Marte	Borno	12.477	13.811	2	
+Bukar Suguri	Kukawa	Borno	12.893	13.633	2	
+Surttaram	Monguno	Borno	12.595	13.790	2	
+Dade Sule	Fika	Yobe	11.323	11.177	2	
+Sudande	Fune	Yobe	11.604	11.694	2	
+Sule	Gwer East	Benue	7.351	8.300	2	
+Garin Sumailu	Gassol	Taraba	8.479	10.698	2	
+Garin Sumai	Gassol	Taraba	8.309	10.621	2	
+Sukuntuni	Kankia	Katsina	12.306	7.774	2	
+Suru	Suru	Kebbi	11.872	4.210	2	
+Mamman Suka	Gwadabawa	Sokoto	13.569	5.325	2	
+Sumbar	Yusufari	Yobe	13.224	10.618	2	
+Sugundare	Nganzai	Borno	12.430	13.271	2	
+Surko	Birnin Kudu	Jigawa	11.325	9.478	2	
+Sue	Gboko	Benue	7.294	9.123	2	
+Sughu	Buruku	Benue	7.125	9.146	2	
+Suswam	Ushongo	Benue	7.057	9.333	2	
+Sufa	Takum	Taraba	7.144	9.872	2	
+Suwe	Gboko	Benue	7.262	8.826	2	
+Suttua	Zaki	Bauchi	12.213	10.307	2	
+Subayo	Gamawa	Bauchi	12.182	10.475	2	
+Sualagi	Lavun	Niger	9.234	5.763	2	
+Sunbwaji	Katcha	Niger	9.299	6.337	2	
+Sulegoran	Edati	Niger	9.066	6.068	2	
+Gidan Sule	Shiroro	Niger	9.922	6.686	2	
+Gidan Sulfida	Shiroro	Niger	9.788	6.622	2	
+Gidan Sule	Munya	Niger	9.793	6.870	2	
+Gidan Sugbi	Bosso	Niger	9.716	6.623	2	
+Sunpeana	Shiroro	Niger	9.724	6.734	2	
+Sabon Gari Supa	Bosso	Niger	9.569	6.649	2	
+Sufeni	Jada	Adamawa	8.612	12.120	2	
+Surumaki	Jada	Adamawa	8.518	12.147	2	
+Sule Mainu	Jada	Adamawa	8.839	12.247	2	
+Sumari	Jada	Adamawa	8.799	12.262	2	
+Subero Oje	Alimosho	Lagos	6.645	3.266	2	
+Sulo	Fufore	Adamawa	8.941	12.340	2	
+Sulo	Fufore	Adamawa	8.853	12.351	2	
+Sulei	Jada	Adamawa	8.656	12.362	2	
+Sulei	Jada	Adamawa	8.670	12.437	2	
+Nyavo Sule	Ardo-Kola	Taraba	8.874	11.151	2	
+Alkali Sunbu	Yorro	Taraba	8.974	11.400	2	
+Garin Sule	Gassol	Taraba	8.614	10.692	2	
+Sunkuru	Gassol	Taraba	8.520	10.833	2	
+Suakan	Mikang	Plateau	8.969	9.574	2	
+Sumunaka	Wase	Plateau	8.846	9.874	2	
+Ungwan Sukargani	Akwanga	Nasarawa	9.015	8.412	2	
+Suryang	Zangon Kataf	Kaduna	9.719	8.329	2	Kankada
+Suwadumagbene	Southern Ijaw	Bayelsa	4.758	5.755	2	
+Sumoge	Warri South-West	Delta	5.630	5.138	2	
+Sunkani	Demsa	Adamawa	9.301	12.146	2	
+Kupuru Sum	Mayo-Belwa	Adamawa	9.084	11.772	2	
+Sudingo	Akko	Gombe	9.940	10.938	2	
+Sunkani	Akko	Gombe	9.878	10.942	2	
+Alkali Sule	Alkaleri	Bauchi	9.738	10.843	2	
+Ungwar Mai Sukuni	Karim Lamido	Taraba	9.261	10.954	2	
+Subiojo	Obafemi Owode	Ogun	7.055	3.434	2	
+Sule	Egbeda	Oyo	7.440	4.018	2	
+Sumbare	Ijebu North	Ogun	7.071	4.098	2	
+Surawi	Fufore	Adamawa	9.068	12.647	2	
+Wuro-Suratu	Girei	Adamawa	9.387	12.575	2	Wuro Suratu
+Suwawo	Fufore	Adamawa	9.463	12.660	2	
+Suwawo	Fufore	Adamawa	9.497	12.796	2	
+Sule	Keana	Nasarawa	8.201	8.580	2	
+Sule	Keana	Nasarawa	8.189	8.610	2	
+Sumaka	Guma	Benue	8.052	8.662	2	
+Olowo Sunmoye	Ile Oluji/Okeigbo	Ondo	7.234	4.935	2	
+Aba-Sule	Ogo Oluwa	Oyo	8.007	4.289	2	
+Ago-Sumonu	Ido	Oyo	7.392	3.713	2	
+Subayo	Baruten	Kwara	9.041	3.337	2	
+Surulere	Irepodun	Kwara	8.147	5.011	2	
+Sukalafia	Lapai	Niger	8.328	6.605	2	
+Arikya-Suni	Nasarawa Egon	Nasarawa	8.795	8.668	2	
+Sum	Akwanga	Nasarawa	8.917	8.365	2	
+Angwan Suka	Kokona	Nasarawa	8.788	8.105	2	
+Sunko	Mokwa	Niger	9.298	4.692	2	
+Sunfada	Edu	Kwara	9.011	4.928	2	
+Sumula	Song	Adamawa	9.879	12.231	2	
+Wuro Suleimanu	Girei	Adamawa	9.577	12.461	2	WuroSuleimanu
+Sumshi	Shelleng	Adamawa	9.758	12.186	2	
+Su	Ilorin South	Kwara	8.424	4.589	2	
+Oke-Suna	Ilorin West	Kwara	8.472	4.531	2	Oke Suna|OkeSuna
+Suanya	Katcha	Niger	8.938	6.176	2	
+Sule	Toto	Nasarawa	8.096	7.016	2	
+Sukuku	Kwali	FCT Abuja	8.741	7.052	2	
+Mayo Sumsum	Sardauna	Taraba	6.939	11.065	2	
+Sufa	Gamawa	Bauchi	12.122	10.454	2	
+Sukuku	Kwali	FCT Abuja	8.769	7.075	2	
 Maitama Sule	Municipal Area Council	FCT Abuja	9.048	7.522	1	
 Sule Road	Agege	Lagos	6.609	3.327	1	
 Surulere Road	Agege	Lagos	6.610	3.309	1	
@@ -229,7 +429,6 @@ Sullubawa Road	Kaduna North	Kaduna	10.549	7.450	1
 Sultan Close	Kaduna North	Kaduna	10.537	7.448	1	
 Sulieman Ahmed Road	Kaduna South	Kaduna	10.463	7.434	1	
 Sultan Road	Kaduna North	Kaduna	10.536	7.452	1	
-Success Assurance Group of School	Oredo	Edo	6.332	5.618	0	
 Subuola Road	Surulere	Lagos	6.509	3.351	1	
 Surulere Street	Ibadan North	Oyo	7.423	3.897	1	
 Femi Sule Street	Eti Osa	Lagos	6.427	3.445	1	
@@ -242,10 +441,8 @@ Suru Street	Agege	Lagos	6.625	3.332	1
 Haruna Subairu Street	Oshodi/Isolo	Lagos	6.572	3.344	1	
 Abike Sulaiman Street	Eti Osa	Lagos	6.438	3.467	1	
 Alhaji Hussein Sunmonu Street	Eti Osa	Lagos	6.443	3.462	1	
-Sule Road	Agege	Lagos	6.609	3.324	1	
 Sunday Farm Estate Phase II	Agege	Lagos	6.609	3.318	1	
 Shafi Sule Street	Eti Osa	Lagos	6.446	3.456	1	
-Yusuf Maitama Sule University Kano, city campus	Kano Municipal	Kano	11.991	8.531	0	
 Suru Alaba Road	Ajeromi/Ifelodun	Lagos	6.462	3.324	1	
 Suez Crescent	Municipal Area Council	FCT Abuja	9.061	7.484	1	
 Sunny Okosun Crescent	Municipal Area Council	FCT Abuja	9.109	7.408	1	
@@ -281,7 +478,6 @@ Sunday Ezuma Street	Enugu North	Enugu	6.465	7.571	1
 Hon Sunday Ugwu Street	Enugu North	Enugu	6.430	7.554	1	
 Sunday Ugwunwanba Crescent	Enugu North	Enugu	6.429	7.532	1	
 Suleiman Crescent	Nassarawa	Kano	12.003	8.569	1	Aminuddeen Abubakar Road
-Adamwa Sunshine Motor Park	Maiduguri	Borno	11.838	13.146	0	
 sussex road	Enugu East	Enugu	6.509	7.527	1	
 Dan Sudu Road	Tofa	Kano	12.007	8.365	1	
 Rano - Sumaila road	Sumaila	Kano	11.513	8.901	1	
@@ -290,11 +486,8 @@ Sunday Aghedo Street	Oshodi/Isolo	Lagos	6.498	3.303	1
 Suleiman Shoderu Street	Ìkòròdú	Lagos	6.626	3.502	1	
 Sunday Adebanjo Street	Ìkòròdú	Lagos	6.622	3.491	1	
 Rabiu Sulaiman Bichi Street	Ungongo	Kano	11.975	8.440	1	
-Sule Galadima Garo General Hospital	Kabo	Kano	11.956	8.098	0	
 Suleiman Road	Nassarawa	Kano	11.999	8.572	1	
 Sulaimon Adekanmbi Close	Eti Osa	Lagos	6.432	3.522	1	
-Garin Sura Dispensary	Damban	Bauchi	11.598	10.914	0	
-Sutumi Dispensary	Toro	Bauchi	10.165	9.293	0	
 Sulaiman Abdulahi Street	Eti Osa	Lagos	6.445	3.515	1	
 Sultana Street	Eti Osa	Lagos	6.458	3.521	1	
 Sunflower Street	Eti Osa	Lagos	6.459	3.522	1	
@@ -313,7 +506,6 @@ Sunday Farm Estate	Agege	Lagos	6.609	3.317	1
 Survey Avenue	Ifako/Ijaye	Lagos	6.640	3.319	1	
 Sunkanmi Awoyugbo Street	Oshodi/Isolo	Lagos	6.566	3.338	1	
 Sunday Oyawoye Street	Alimosho	Lagos	6.551	3.215	1	
-Sungul Dispensary	Tarmua	Yobe	12.130	12.138	0	
 Sule Akanni Street	Ifako/Ijaye	Lagos	6.655	3.316	1	
 Sule Bada St	Mushin	Lagos	6.535	3.362	1	
 Suraju Onajowo St	Ifo	Ogun	6.680	3.316	1	
@@ -332,7 +524,6 @@ Usman Sulaiman Street	Eti Osa	Lagos	6.494	3.587	1
 Alhaji Sumonu Street	Oshodi/Isolo	Lagos	6.539	3.308	1	
 Sundico Street	Onitsha North	Anambra	6.178	6.785	1	
 Sunday Dare Close	Eti Osa	Lagos	6.427	3.498	1	
-Substation road	Obafemi Owode	Ogun	7.104	3.395	1	
 Surveying Road	Kaduna North	Kaduna	10.526	7.454	1	
 Sullubawa Close	Kaduna North	Kaduna	10.549	7.453	1	
 Surulere Street	Oriade	Osun	7.571	4.894	1	
@@ -344,59 +535,97 @@ Substation Road	Sabon Gari	Kaduna	11.125	7.714	1
 Arowodasa Success Street	Ibadan North	Oyo	7.427	3.934	1	
 Suleiman Crescent	Nassarawa	Kano	12.003	8.561	1	Aminuddeen Abubakar Road
 Sunrise Boulevard	Municipal Area Council	FCT Abuja	9.064	7.526	1	
-Ibrahim Sule Panda Street	Nassarawa	Kano	11.976	8.585	1	
 Sunday Dejo Close	Shomolu	Lagos	6.542	3.372	1	
-Surulere	Abeokuta South	Ogun	7.141	3.325	1	
 Suleiman E. Bogoro Way	Municipal Area Council	FCT Abuja	8.971	7.438	1	
-Surulere Street	Kosofe	Lagos	6.547	3.406	1	
-Randle General Hospital	Surulere	Lagos	6.508	3.358	0	Surulere General Hospital
-Supreme High School	Kosofe	Lagos	6.617	3.379	0	
-Supreme Child School	Ìkòròdú	Lagos	6.621	3.495	0	
-Suleiman E. Bogoro Way	Municipal Area Council	FCT Abuja	8.984	7.447	1	
 Sunview Street	Eti Osa	Lagos	6.436	3.518	1	
-Surgical Ward, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.495	0	
 Sumonu Animashaun Street	Eti Osa	Lagos	6.479	3.572	1	
-Monguno Family Support Programme Clinic	Monguno	Borno	12.667	13.618	0	
-Sumbar Dispensary	Yusufari	Yobe	13.165	10.519	0	
 Suleman Street	Etsako West	Edo	7.050	6.257	1	
 Subuola Abu Street	Eti Osa	Lagos	6.446	3.610	1	
 Link 8 Kaabul Abas Sunusi Street	Gwale	Kano	11.974	8.475	1	
 Sunbo Ileyemi Close	Eti Osa	Lagos	6.471	3.580	1	
-Federal School of Surveying	Oyo East	Oyo	7.840	3.951	0	
-Sultan Road	Kaduna North	Kaduna	10.535	7.452	1	
-Suleiman E. Bogoro Way	Municipal Area Council	FCT Abuja	8.964	7.434	1	
 Sunday Leko Str.	Eleme	Rivers	4.779	7.123	1	
 Adeoye Sunday Close	Eti Osa	Lagos	6.447	3.609	1	
 Supo Gbabe Street	Alimosho	Lagos	6.635	3.271	1	
-SunnyVale Estate	Municipal Area Council	FCT Abuja	8.979	7.443	2	
-Suleiman E. Bogoro Way	Municipal Area Council	FCT Abuja	8.980	7.444	1	
-Sunflower Mall	Municipal Area Council	FCT Abuja	8.979	7.469	0	
 Susan Adoba Street	Municipal Area Council	FCT Abuja	9.069	7.402	1	
-DEPARTMENT OF SURVEYING AND GEOINFORMATICS	Birnin Kebbi	Kebbi	12.465	4.239	0	
 Alhaji Sule Maito Street	Ìkòròdú	Lagos	6.621	3.500	1	
 Sulu Close	Ìkòròdú	Lagos	6.637	3.499	1	
-Johnson Suleman Street	Municipal Area Council	FCT Abuja	8.995	7.477	1	
-Prof Mbonu Surgical Ward	Nnewi North	Anambra	5.997	6.880	0	
+Sunroni bussiness center	Oredo	Edo	6.330	5.627	0	
+Sunshine Crèche	Enugu North	Enugu	6.447	7.488	0	
+Sure mercies eye clinic & services	Enugu North	Enugu	6.450	7.493	0	
+Subola Memorial School	Ibadan North	Oyo	7.403	3.911	0	
+Sundu Health Post	Rogo	Kano	11.381	7.761	0	
+Supasa Oil and Gas Filling Station	Okpe	Delta	5.598	5.702	0	
+Sunny Eru Motors	Uvwie	Delta	5.567	5.797	0	
+Wellspring Surgical Clinic	Uvwie	Delta	5.543	5.776	0	
+Sure Success Group of Schools	Warri South	Delta	5.537	5.755	0	
+Sure Success School	Warri South	Delta	5.529	5.751	0	
+Sudi Medical Services	Obio/Akpor	Rivers	4.850	7.063	0	
+Supare Akoko Market	Akoko South West	Ondo	7.447	5.689	0	
+Sunday Adeyi Olaogun Petrol Station	Ogbomosho North	Oyo	8.117	4.224	0	
+Sungaz	Alimosho	Lagos	6.533	3.218	0	
+Great Success School	Gwagwalada	FCT Abuja	9.090	7.207	0	
+Sunnah Hospital	Gombe	Gombe	10.286	11.185	0	
+Nganzai Family Support Clinic	Nganzai	Borno	12.489	13.213	0	
+suwa primary heath center	Larmurde	Adamawa	9.534	11.607	0	
+sukur settlement heath post	Madagali	Adamawa	10.880	13.609	0	
+sukur sama heath post	Madagali	Adamawa	10.742	13.584	0	
+Bamaiyi Sundume Memorial Medical Health Centre	Zuru	Kebbi	11.316	5.233	0	
+Suzan Hospital	Suleja	Niger	9.183	7.186	0	
+St. John'S Anglican Primary School, Sunren Okenla Ifo	Ifo	Ogun	6.728	3.329	0	
+Community Primary School, Abule Sule	Ìjẹ̀bú Òde	Ogun	6.821	3.915	0	
+St. John'S Anglican Primary School, Sunren Okenla Ifo	Ewekoro	Ogun	6.873	3.298	0	
+Community Primary School, Abule Sule	Ifo	Ogun	6.765	3.258	0	
+family support	Ngelzarma	Yobe	11.764	11.956	0	
+Ben-Dominics Dental Surgery clinic	Jos North	Plateau	9.907	8.892	0	
+Rosy Premium Success Academy Nursery and Primary School Kuchigoro	Municipal Area Council	FCT Abuja	9.018	7.420	0	
+Sunshine Int'l	Bauchi	Bauchi	10.300	9.805	0	
+family support nursery and primary school.Gombe	Gombe	Gombe	10.307	11.167	0	
+Sunnyvale Hospitals	Municipal Area Council	FCT Abuja	8.985	7.446	0	
+Sunnyvale Mall	Municipal Area Council	FCT Abuja	8.986	7.447	0	
+NNPC Hospital No2 Sultan Road Unguwan Rimi Gra Kaduna	Kaduna North	Kaduna	10.536	7.452	0	
+Barau Dikko Teaching Hospital No1 Suleiman Ahmed Road Shagari Lowcost	Kaduna South	Kaduna	10.464	7.432	0	
+Yusuf Dantsoho Hospital Pq 12 Danladi Inusa Road Uguwan Sunusi Kaduna	Kaduna South	Kaduna	10.528	7.404	0	
+Summy Indeel Laboratary	Ojo	Lagos	6.458	3.131	0	
+Surulere Primary Health Care Center	Alimosho	Lagos	6.654	3.260	0	
+Victory Success Maternity Home	Alimosho	Lagos	6.586	3.246	0	
+Summit Hospital And Maternity Home	Alimosho	Lagos	6.594	3.304	0	
+Sunlight Villa	Akure South	Ondo	7.285	5.150	0	
+Land & Sea Suite	Akure South	Ondo	7.288	5.147	0	
+Modrosatul Darus Sunnah, Adeleye	Egbeda	Oyo	7.452	4.043	0	
+Amazing success model academy	Alimosho	Lagos	6.532	3.235	0	
+Apex Success Itnl Schools	Ungongo	Kano	12.045	8.565	0	
+Madarasatul Sunnatu Nabiyyi	Ungongo	Kano	12.043	8.568	0	
+Success Academy	Ungongo	Kano	12.042	8.564	0	
+Makarantar Malam Sunusi	Ungongo	Kano	12.041	8.562	0	
+Muhammadu Sunusi Rayadu Salihin School	Gwale	Kano	11.959	8.477	0	
+Imam Sulaiman Academy	Gwale	Kano	11.961	8.471	0	
+Yoruba Road Market Ilorin, Sulu Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.565	0	
+NNPC, Surulere Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.539	0	
+General Hospital, Ilorin, Surulere Road, Ilorin, Nigeria	Ilorin West	Kwara	8.479	4.534	0	
+Al Ihsan Clinics and Surgery	Tarauni	Kano	11.946	8.558	0	
+Summit Science Academy	Karu	Nasarawa	8.952	7.669	0	
+Doncent Electronics (Oliver Twist Supermarket )	Municipal Area Council	FCT Abuja	8.969	7.359	0	
+Tcn Sub Station, Zhidu Junction	Municipal Area Council	FCT Abuja	9.009	7.373	0	
+Living Faith Church, Mai Suya Junction, New Jerusalem, Dutse Makaranta	Bwari	FCT Abuja	9.168	7.386	0	
+Sunrise Restaurant	Municipal Area Council	FCT Abuja	9.121	7.385	0	
+Oliver Twist Super Store	Municipal Area Council	FCT Abuja	8.976	7.363	0	
+Purchasing And Supply Chain Management Department- NBTE	Kaduna North	Kaduna	10.611	7.444	0	
+Success Assurance Group of School	Oredo	Edo	6.332	5.618	0	
+Yusuf Maitama Sule University Kano, city campus	Kano Municipal	Kano	11.991	8.531	0	
+Adamwa Sunshine Motor Park	Maiduguri	Borno	11.838	13.146	0	
+Sule Galadima Garo General Hospital	Kabo	Kano	11.956	8.098	0	
+Garin Sura Dispensary	Damban	Bauchi	11.598	10.914	0	
+Sutumi Dispensary	Toro	Bauchi	10.165	9.293	0	
+Sungul Dispensary	Tarmua	Yobe	12.130	12.138	0	
+Randle General Hospital	Surulere	Lagos	6.508	3.358	0	Surulere General Hospital
+Supreme High School	Kosofe	Lagos	6.617	3.379	0	
+Supreme Child School	Ìkòròdú	Lagos	6.621	3.495	0	
+Surgical Ward, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.495	0	
+Monguno Family Support Programme Clinic	Monguno	Borno	12.667	13.618	0	
+Sumbar Dispensary	Yusufari	Yobe	13.165	10.519	0	
+Federal School of Surveying	Oyo East	Oyo	7.840	3.951	0	
+Sunflower Mall	Municipal Area Council	FCT Abuja	8.979	7.469	0	
+Department Of Surveying And Geoinformatics	Birnin Kebbi	Kebbi	12.465	4.239	0	
+Prof Mbonu Surgical	Nnewi North	Anambra	5.997	6.880	0	
 Surgical Out-Patient Clinic	Nnewi North	Anambra	5.999	6.881	0	
 Sir Muhammad Sunusi Hospital Hadejia Road	Nassarawa	Kano	12.010	8.597	0	
-Sumbar	Yusufari	Yobe	13.197	10.595	2	
-Sungul Koka	Tarmua	Yobe	12.064	11.992	2	
-Sule Tankakar	Sule Tankakar	Jigawa	12.625	9.175	2	
-Sule Tankarkar	Sule Tankakar	Jigawa	12.651	9.248	2	
-Sundimina	Birnin Kudu	Jigawa	11.632	9.579	2	
-Sutti	Tangaza	Sokoto	13.340	5.082	2	
-Mamman Suka	Gwadabawa	Sokoto	13.576	5.326	2	
-Suru	Suru	Kebbi	11.869	4.220	2	
-Suru	Suru	Kebbi	11.792	4.146	2	
-Kurun Sumau	Kura	Kano	11.772	8.425	2	
-Sumaila	Sumaila	Kano	11.507	8.962	2	
-Sukuntuni	Kankia	Katsina	12.307	7.791	2	
-Suleja	Suleja	Niger	9.208	7.187	2	
-Sulumthla	Biu	Borno	10.611	12.205	2	
-Sugundare	Nganzai	Borno	12.441	13.279	2	
-Sure	Monguno	Borno	12.426	13.438	2	
-Sumaila	Sumaila	Kano	11.258	8.870	2	
-Surko	Birnin Kudu	Jigawa	11.330	9.488	2	
-Kafin Sule	Misau	Bauchi	11.371	10.347	2	
-Surulere	Surulere	Oyo	8.091	4.415	2	
-Surulere	Surulere	Lagos	6.486	3.354	2	

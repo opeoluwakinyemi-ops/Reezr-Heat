@@ -1,7 +1,19 @@
+Ayangba	Dekina	Kogi	7.506	7.176	3	
+Ayale	Dekina	Kogi	7.634	7.319	3	
+Otan Ayegbaju	Boluwaduro	Osun	7.947	4.787	3	
+Ayegbaju	Oye	Ekiti	7.793	5.295	3	
+Iye-Ekiti	Ilejemeje	Ekiti	7.955	5.233	3	Aye|Iye
+Ilorin	Ilorin East	Kwara	8.497	4.542	3	ILR|Illorin|Ilorinas|Iloryn|alwrn|alwryn|aylwryn|illolin|ilorina|irorin|yi luo lin
+Ikeja	Ikeja	Lagos	6.597	3.342	3	Ikedzha|akja|akyja|aykyja|ikeja
+Idi-Ayunre	Oluyole	Oyo	7.233	3.862	3	
+Ayetoro	Yewa North	Ogun	7.243	3.026	3	Aiyetoro
+Ayete	Ibarapa North	Oyo	7.544	3.223	3	Aiyete
+Ado-Ekiti	Adó-Èkìtì	Ekiti	7.623	5.221	3	Ado|Ado-Ehkiti|EKK|ado-ekiti|adw akyty|adw-aykty|lidiyeti lisano
 Iye	Ilejemeje	Ekiti	7.956	5.237	2	Aye;Iye
 Nyakasang	Odukpani	Cross River	5.139	8.212	2	Ayakasang
 Ayibobiri	Kolokuma/Opokuma	Bayelsa	5.080	6.258	2	
 Idofin Ayekale	Oke Ero	Kwara	8.221	5.294	2	
+Ayaboro	Kurmi	Taraba	7.019	10.729	2	
 Ayagawa	Kaura Namoda	Zamfara	12.332	6.830	2	
 Anyama	Yenegoa	Bayelsa	4.869	6.210	2	Ayama
 Ayanmasa	Ekeremor	Bayelsa	5.128	5.920	2	Anyamasama;Ayamassa;Ayamasa
@@ -32,7 +44,6 @@ Ayakoromo	Burutu	Delta	5.322	5.742	2	Ayakorama
 Ayantola	Oluyole	Oyo	7.312	3.804	2	
 Aye Ekiti	Ido-Osi	Ekiti	7.804	5.221	2	Aye
 Ayere	Ijumu	Kogi	7.704	5.972	2	Aiere
-Ayangba	Dekina	Kogi	7.506	7.176	3	
 Ayoguri	Etsako West	Edo	7.112	6.396	2	
 Ayong	Abua/Odual	Rivers	4.848	6.481	2	
 Doka Ayi	Maru	Zamfara	11.123	6.087	2	
@@ -47,54 +58,292 @@ Ayedi	Odeda	Ogun	7.167	3.550	2	Ayedi;Oluwo Akeusi
 Araromi Ayeka	Irele	Ondo	6.464	4.833	2	Araromi;Araromi-Ayeka;Ayeka
 Ayukasa	Ikom	Cross River	6.159	8.614	2	Ghana
 Ode-Aye	Okitipupa	Ondo	6.588	4.744	2	Aye
-Ayela Uwangue School	Egor	Edo	6.360	5.626	0	
-Ayolik Medical Center	Oredo	Edo	6.331	5.627	0	
-Aye Shopping Mall	Oredo	Edo	6.338	5.616	0	
 Lawanti	Magumeri	Borno	12.090	12.739	2	Ka'ayijiya Lawanti
 Buramti Ayya	Nganzai	Borno	12.656	13.068	2	
-Ayale	Dekina	Kogi	7.634	7.319	3	
 Ka'ayijiwa Fandanari	Magumeri	Borno	12.074	12.741	2	
 Bila Ayuba	Chibok	Borno	10.799	12.701	2	
 Nchiha Ayuba Nom	Chibok	Borno	10.828	12.734	2	
 Nchiha Ayuba	Chibok	Borno	10.797	12.700	2	
-Otan Ayegbaju	Boluwaduro	Osun	7.947	4.787	3	
-Ayenayeri Filling Station	Uvwie	Delta	5.542	5.766	0	
-Ayakpo Nursery and Primary School	Yenegoa	Bayelsa	4.940	6.327	0	
 Ruggar Ayama	Tangaza	Sokoto	13.408	4.927	2	
-Ayede Market	Idanre	Ondo	7.017	5.159	0	
-Ayede Ogbese Market	Akure North	Ondo	7.259	5.374	0	
-Ayegunle Market	Ọ̀wọ̀	Ondo	7.171	5.619	0	
-Ayeka Market	Okitipupa	Ondo	6.492	4.789	0	
-AYR filling station	Akko	Gombe	10.257	11.185	0	
 Gidan Ayu	Madobi	Kano	11.749	8.262	2	
-Ayegbaju	Oye	Ekiti	7.793	5.295	3	
 Ayama	Yenegoa	Bayelsa	5.072	6.337	2	
-Arolat Petrol station, Ayetoro	Yewa North	Ogun	7.241	3.029	0	
-Ayetunde Medical Centre Tegina	Rafi	Niger	10.069	6.189	0	
-st. paul primary school, ayepe road	Shagamu	Ogun	6.836	3.659	0	
-Local Government Primary School, Ayede	Ifo	Ogun	6.808	3.161	0	
-African Church Primary School, Ayede Ifo	Odogbolu	Ogun	6.850	3.911	0	
-St. Paul'S Anglican Primary School, Ayetoro	Shagamu	Ogun	6.831	3.502	0	
-African Church Primary School, Ayede Ifo	Ifo	Ogun	6.793	3.203	0	
-Local Government Primary School, Ayede	Ado Odo/Ota	Ogun	6.562	2.943	0	
-Origbegi Satisfaction maternity hospital, Ayeye	Ibadan North West	Oyo	7.383	3.893	0	
-Ayele Primary Health Clinic	Nasarawa	Nasarawa	8.010	7.896	0	
-Ayete health center	Ibarapa North	Oyo	7.544	3.221	0	
-AYM Shafa filling station	Gwale	Kano	11.986	8.481	0	
-Unguwar Ayaba Dispensary	Chikun	Kaduna	10.342	7.455	0	
-Denow Ayetoro Medical Center	Ojo	Lagos	6.488	3.154	0	
-Ayobo Primary Health Care Centre	Alimosho	Lagos	6.606	3.235	0	
-Ayodamola Health Careand Maternity Home	Alimosho	Lagos	6.523	3.238	0	
-Ayatuga Health Care	Mushin	Lagos	6.533	3.354	0	
-Ayantuga Primary Health Centre	Mushin	Lagos	6.533	3.355	0	
 Ayip-Mgbaghe	Akamkpa	Cross River	5.587	8.821	2	
 Ayip-Onor	Akamkpa	Cross River	5.584	8.820	2	
-Ayedere Ajibola Junior Secoundary School	Kosofe	Lagos	6.609	3.388	0	
-Ayedere Ajibola Sernior High School.	Kosofe	Lagos	6.607	3.388	0	
 Ayawa	Dungass	Jigawa	12.821	9.339	2	
-epe ayetoro jetty	Epe	Lagos	6.577	3.975	0	
-Aya Bus Stop, Abuja, Nigeria	Municipal Area Council	FCT Abuja	9.049	7.527	0	
 Ayobo	Alimosho	Lagos	6.602	3.244	2	
+Ayan	Auyo	Jigawa	12.405	10.083	2	
+Ayama	Auyo	Jigawa	12.264	9.877	2	
+Ayu	Wasagu-Danko	Kebbi	11.192	5.904	2	
+Zangon Aya	Igabi	Kaduna	10.934	7.695	2	
+Ayamelum	Ayamelum	Anambra	6.535	6.975	2	
+Ayu	Sanga	Kaduna	9.215	8.603	2	
+Ayi Yasku	Magumeri	Borno	11.952	12.856	2	
+Ungwan Ayuba	Soba	Kaduna	10.984	8.044	2	
+Ubiane	Etsako West	Edo	7.011	6.278	2	Ayeri-Ubiane
+Ope-Ayoola	Aiyedade	Osun	7.202	4.332	2	Ope Ayoola
+Oluwo-Akeusi	Odeda	Ogun	7.163	3.555	2	Ayedi|Oluwo Akeusi
+Olode-Ayope	Aiyedade	Osun	7.219	4.260	2	Olode Ayope
+Odo-Ayandelu	Epe	Lagos	6.678	3.711	2	
+Makun	Agaie	Niger	9.010	6.527	2	Kurmin Ayaba
+Iyale	Dekina	Kogi	7.635	7.317	2	Ayale|Yari
+Ikot Ayan Ndiya	Ikono	Akwa Ibom	5.182	7.764	2	
+Ikot Ayan	Ikono	Akwa Ibom	5.165	7.815	2	
+Ikot Ayan	Itu	Akwa Ibom	5.122	7.994	2	
+Igbo Ayeka	Okitipupa	Ondo	6.451	4.795	2	Igbo-Ayeka
+Idi-Ayin	Imeko Afon	Ogun	7.416	2.990	2	Idiayin
+Idi-Ayin	Saki West	Oyo	8.839	3.418	2	Idi Ayin
+Idi-Ayin	Ogo Oluwa	Oyo	8.002	4.168	2	Idi Ayin
+Budo-Ayan	Moro	Kwara	8.720	4.735	2	Budo Ayan
+Bendiga Ayuk	Etung	Cross River	6.013	8.855	2	
+Ayuwu	Konshisha	Benue	7.098	8.621	2	
+Ayukasa	Ikom	Cross River	6.176	8.627	2	
+Ayua	Gboko	Benue	7.342	8.613	2	
+Ayua	Gwer East	Benue	7.326	8.248	2	
+Ayua	Gboko	Benue	7.283	8.748	2	
+Ayua	Konshisha	Benue	7.165	8.536	2	
+Ayua	Konshisha	Benue	7.142	8.679	2	
+Ayougbene	Southern Ijaw	Bayelsa	4.630	6.157	2	
+Ayorinde	Oluyole	Oyo	7.154	3.969	2	
+Ayoo	Gboko	Benue	7.361	8.625	2	
+Ayoo	Gboko	Benue	7.320	8.663	2	
+Ayoo	Ushongo	Benue	7.170	8.840	2	
+Ayongo	Konshisha	Benue	7.222	8.518	2	
+Ayomaya	Akinyele	Oyo	7.588	3.942	2	
+Ayom	Gboko	Benue	7.404	8.701	2	
+Ayolave	Konshisha	Benue	7.108	8.531	2	
+Ayodele	Itesiwaju	Oyo	8.216	3.594	2	
+Ayo	Odeda	Ogun	7.418	3.702	2	
+Ayo	Abeokuta North	Ogun	7.293	3.099	2	
+Ayo	Abeokuta North	Ogun	7.109	3.207	2	
+Ayo	Konshisha	Benue	7.106	8.757	2	
+Ayisa	Gwer East	Benue	7.617	8.650	2	
+Ayinrin	Atakunmosa West	Osun	7.363	4.717	2	Adedaji
+Ayinla	Ewekoro	Ogun	7.057	3.146	2	
+Ayinde	Ibarapa East	Oyo	7.535	3.529	2	
+Ayimta	Gboko	Benue	7.336	8.637	2	
+Ayila	Buruku	Benue	7.615	8.925	2	
+Ayila	Ushongo	Benue	7.186	8.948	2	
+Ayila	Ogun Waterside	Ogun	6.562	4.543	2	
+Ayigbiri	Ogo Oluwa	Oyo	7.907	4.383	2	
+Ayidina	Egbedore	Osun	7.806	4.390	2	
+Ayev	Guma	Benue	7.906	8.674	2	
+Ayev	Konshisha	Benue	7.070	8.570	2	
+Ayertyo	Konshisha	Benue	7.097	8.721	2	
+Ayere	Awe	Nasarawa	8.057	9.140	2	
+Ayer	Ushongo	Benue	7.074	8.917	2	
+Ayenigianran	Ovia South-West	Edo	6.633	5.267	2	
+Ayen	Uhunmwonde	Edo	6.450	5.739	2	
+Ayem	Konshisha	Benue	7.140	8.550	2	
+Ayeeshio	Ushongo	Benue	7.063	8.879	2	
+Aye Ekan	Moba	Ekiti	8.050	5.117	2	
+Ayedi	Ovia South-West	Edo	6.417	5.433	2	
+Ayebabiri	Kolokuma/Opokuma	Bayelsa	5.080	6.253	2	Ayibobiri
+Aye	Ejigbo	Osun	7.924	4.249	2	
+Aye	Kwande	Benue	6.936	9.528	2	
+Ayayi	Ussa	Taraba	7.182	10.173	2	
+Ayara Agu	Ivo	Ebonyi	5.882	7.585	2	
+Ayanyemi	Ibarapa North	Oyo	7.607	3.287	2	
+Ayantade	Ìsẹ́yìn	Oyo	7.827	3.561	2	
+Ayankunle	Ibarapa East	Oyo	7.577	3.373	2	
+Ayangor	Konshisha	Benue	7.112	8.660	2	
+Ayange	Konshisha	Benue	7.342	8.565	2	
+Ayange	Konshisha	Benue	7.234	8.621	2	
+Ayangba	Olamaboro	Kogi	7.139	7.454	2	
+Ayamfaga	Konshisha	Benue	7.265	8.546	2	
+Ayama	Kwande	Benue	6.898	9.637	2	
+Ayama	Warri South-West	Delta	5.432	5.758	2	
+Ayama	Andoni	Rivers	4.562	7.329	2	
+Ayakunle	Ife North	Osun	7.418	4.437	2	
+Ayakpa	Konshisha	Benue	7.094	8.590	2	
+Ayaka	Tarka	Benue	7.546	8.808	2	
+Ayaisi	Konshisha	Benue	7.056	8.779	2	
+Ayaghel	Gboko	Benue	7.291	8.717	2	
+Ayagha	Ughelli South	Delta	5.375	5.860	2	
+Ayaga	Kafur	Katsina	11.696	7.604	2	
+Ayaga	Konshisha	Benue	7.155	8.632	2	
+Ayadeghe	Itu	Akwa Ibom	5.165	8.051	2	
+Ayabo	Owan East	Edo	7.185	5.949	2	
+Ayabagir	Donga	Taraba	7.658	10.165	2	
+Ayaba	Mafa	Borno	11.976	13.319	2	
+Ayaba	Biase	Cross River	5.438	8.133	2	
+Ayaan	Donga	Taraba	7.549	10.096	2	
+Aya-Ama	Kolokuma/Opokuma	Bayelsa	5.073	6.292	2	
+Ayaakaa	Konshisha	Benue	7.146	8.640	2	
+Averkaan-Ayem	Ushongo	Benue	7.146	8.985	2	
+Atan Aya	Ibiono Ibom	Akwa Ibom	5.144	7.852	2	
+Araromi Ayeka	Irele	Ondo	6.467	4.832	2	Araromi|Araromi-Ayeka|Ayeka
+Aondu	Awe	Nasarawa	8.413	9.106	2	Ayeso
+Aye	Imeko Afon	Ogun	7.457	2.987	2	Abule Aja|Aje
+Aiyedero	Ijumu	Kogi	8.114	5.999	2	Ayiedero
+Ayiwawa	Toto	Nasarawa	8.228	7.235	2	Aiwawa
+Ayinde	Afijio	Oyo	7.710	3.832	2	
+Ayun	Akinyele	Oyo	7.634	3.944	2	
+Ayantokun	Akinyele	Oyo	7.557	3.856	2	
+Ayagaga	Akinyele	Oyo	7.503	3.979	2	
+Ayigoro	Ido	Oyo	7.479	3.814	2	
+Umu-Ayanmele	Ikwerre	Rivers	5.205	6.922	2	
+Egure-Ayadi	Idanre	Ondo	7.134	5.181	2	
+Ayalodi	Akure North	Ondo	7.248	5.328	2	
+Aye	Akure South	Ondo	7.340	5.181	2	
+Ayo Ajegunle	Ise/Orun	Ekiti	7.523	5.458	2	
+Aye	Irepodun/Ifelodun	Ekiti	7.679	5.297	2	
+Ayetoro	Owan East	Edo	7.193	6.067	2	
+Ayuwa	Gboko	Benue	7.466	8.845	2	
+Ayo	Gwer East	Benue	7.580	8.451	2	
+Ayo	Gwer East	Benue	7.597	8.440	2	
+Ayodo	Doma	Nasarawa	7.974	8.278	2	
+Ayukaba	Etung	Cross River	5.776	8.735	2	
+Ayo-Isule	Ovia North-East	Edo	6.634	5.577	2	
+Oke Aye	Ijebu North East	Ogun	6.908	4.029	2	
+Ayania	Babura	Jigawa	12.587	8.939	2	
+Aya	Baure	Katsina	12.742	8.633	2	
+Ungwan Ayuba	Birnin Gwari	Kaduna	10.525	6.273	2	
+Ayaba	Shiroro	Niger	10.530	6.902	2	
+Ayaga Kwari	Rogo	Kano	11.621	7.782	2	
+Ayaga	Rogo	Kano	11.608	7.780	2	
+Tunga Ayi	Koko-Besse	Kebbi	11.347	4.267	2	
+Ayetugbene	Warri South	Delta	5.540	5.628	2	
+Ayamabene	Ekeremor	Bayelsa	4.996	5.981	2	
+Ayeseigbene	Ekeremor	Bayelsa	4.907	5.523	2	
+Tamogbene	Ekeremor	Bayelsa	4.975	5.748	2	Ayama|Tomogbene
+Ayama	Oyigbo	Rivers	4.853	7.264	2	
+Ayama-Ekede	Andoni	Rivers	4.485	7.440	2	
+Ayama-Agana	Andoni	Rivers	4.475	7.368	2	
+Ayama-Ibotokpon	Andoni	Rivers	4.464	7.339	2	
+Ikot Akpa Ayara	Ikono	Akwa Ibom	5.194	7.764	2	
+Ayinneji	Ihiala	Anambra	5.779	6.865	2	
+Ayamabele	Yenegoa	Bayelsa	5.140	6.435	2	
+Ayokorama	Kolokuma/Opokuma	Bayelsa	5.071	6.288	2	
+Agwara	Agwara	Niger	10.775	4.540	2	Agbegbe Ijoba Ibile Agwara|agwara|aqwara|aygwara
+Ikom	Ikom	Cross River	6.083	8.617	2	aykwm
+Ayeteju	Mopa-Muro	Kogi	8.123	5.897	2	
+Aiyedire	Aiyedire	Osun	7.581	4.235	2	Agbegbe Ijoba Ibile Aiyedire|Aijedire|Ayedire|Ayedire Local Government Area|aydyr
+Aiyedade	Aiyedade	Osun	7.334	4.349	2	Aiyeda Ade|Ayedaade|Ayedaade Local Government Area
+Ayamelum	Ayamelum	Anambra	6.554	6.987	2	Agbegbe Ijoba Ibile Ayamelum|Ayamelum Local Government Area
+Wuro Sarki Ayi	Maiha	Adamawa	9.692	13.164	2	
+Ayo	Nkanu West	Enugu	6.365	7.546	2	
+Yange Ayila	Gwer East	Benue	7.353	8.330	2	
+Ayira	Gwer East	Benue	7.263	8.277	2	
+Ayua	Gwer East	Benue	7.245	8.426	2	
+Ayadie	Bekwarra	Cross River	6.701	8.953	2	
+Ayi Yasku	Magumeri	Borno	11.959	12.843	2	
+Ayu	Sanga	Kaduna	9.229	8.613	2	
+Zangon Aya	Igabi	Kaduna	10.935	7.694	2	
+Ayambo	Gwer West	Benue	7.737	8.328	2	
+Ayodu	Markurdi	Benue	7.698	8.457	2	
+Tse Ayira	Markurdi	Benue	7.648	8.460	2	
+Ayaga	Guma	Benue	7.678	9.021	2	
+Ayosun	Buruku	Benue	7.558	9.078	2	
+Ayatse	Logo	Benue	7.651	9.147	2	
+Ayughtse	Buruku	Benue	7.507	9.162	2	
+Ayongo	Logo	Benue	7.549	9.321	2	
+Ayoo	Logo	Benue	7.541	9.405	2	
+Aye	Wukari	Taraba	7.913	9.826	2	
+Sabon Ayua	Wukari	Taraba	7.693	9.741	2	
+Ngira	Ukum	Benue	7.568	9.558	2	Ayuwa
+Ayange	Ukum	Benue	7.551	9.569	2	
+Ayavga	Ukum	Benue	7.663	9.697	2	
+Aye	Ukum	Benue	7.600	9.698	2	
+Ayem	Ukum	Benue	7.577	9.641	2	
+Ayaka	Ukum	Benue	7.560	9.731	2	
+Ayati	Katsina-Ala	Benue	7.513	9.747	2	
+Igo-Ayaka	Ukum	Benue	7.632	9.767	2	
+Ayagua	Katsina-Ala	Benue	7.505	9.816	2	
+Aye	Donga	Taraba	7.662	9.909	2	
+Ayongo	Gboko	Benue	7.335	9.078	2	
+Aya	Gboko	Benue	7.265	9.019	2	
+Ayaka	Gboko	Benue	7.319	9.135	2	
+Ayoo	Buruku	Benue	7.311	9.148	2	
+Ayongo	Buruku	Benue	7.271	9.173	2	
+Ayange	Logo	Benue	7.494	9.241	2	
+Ayo	Buruku	Benue	7.328	9.252	2	
+Ayaka	Katsina-Ala	Benue	7.432	9.349	2	
+Ayamke	Katsina-Ala	Benue	7.357	9.443	2	
+Ayaukgh	Katsina-Ala	Benue	7.326	9.393	2	
+Ayua	Katsina-Ala	Benue	7.272	9.417	2	
+Ayev	Gboko	Benue	7.213	9.056	2	
+Ayol	Ushongo	Benue	7.148	9.043	2	
+Ayavga	Ushongo	Benue	7.108	9.010	2	
+Ayaze	Ushongo	Benue	7.120	9.080	2	
+Ayua	Ushongo	Benue	7.090	9.085	2	
+Ayabo	Ushongo	Benue	7.088	9.073	2	
+Ayauga	Buruku	Benue	7.211	9.190	2	
+Aye	Buruku	Benue	7.200	9.203	2	
+Ayugh	Katsina-Ala	Benue	7.236	9.345	2	
+Aya	Katsina-Ala	Benue	7.164	9.362	2	
+Ayange	Katsina-Ala	Benue	7.210	9.458	2	
+Ayuwa	Katsina-Ala	Benue	7.192	9.395	2	
+Ayabo	Katsina-Ala	Benue	7.173	9.438	2	
+Ayaga	Kwande	Benue	7.021	9.468	2	
+Ayongo	Gboko	Benue	7.286	9.037	2	Anyogo
+Ayatsav	Gboko	Benue	7.425	8.994	2	
+Ayev	Gboko	Benue	7.431	8.970	2	
+Ayegh	Gboko	Benue	7.367	8.985	2	
+Ayu	Gboko	Benue	7.365	8.987	2	
+Ayagwa	Gboko	Benue	7.345	8.995	2	
+Ayoosu	Gboko	Benue	7.361	8.935	2	
+Ayem	Gboko	Benue	7.369	8.919	2	
+Aya	Gboko	Benue	7.367	8.888	2	
+Ayabyo	Gboko	Benue	7.309	8.841	2	
+Ayande	Gboko	Benue	7.300	8.859	2	
+Ayiligh	Gboko	Benue	7.311	8.964	2	
+Ayoo	Gboko	Benue	7.288	8.850	2	
+Ayangawua	Gboko	Benue	7.298	8.767	2	
+Babatunde Ayilara	Surulere	Lagos	6.510	3.354	2	
+Isale Odo Ayige	Agege	Lagos	6.628	3.303	2	
+Ayegbami Odoro	Ìkòròdú	Lagos	6.572	3.607	2	
+Ayegbe	Etsako West	Edo	6.911	6.361	2	
+Ayagan	Zangon Kataf	Kaduna	9.704	8.256	2	
+Ayuge	Warri South-West	Delta	5.612	5.323	2	
+Ayoyo	Odeda	Ogun	7.302	3.308	2	
+Ayigbede	Ibarapa East	Oyo	7.447	3.476	2	
+Ayinde	Egbeda	Oyo	7.376	4.067	2	
+Ayanda	Isokan	Osun	7.263	4.138	2	
+Ayorunbo	Ife Central	Osun	7.581	4.562	2	
+Ayiwe	Ife Central	Osun	7.541	4.575	2	
+Aye-Ile	Atakunmosa West	Osun	7.565	4.671	2	
+Aye	Atakunmosa West	Osun	7.570	4.660	2	
+Oke-Ayo	Atakunmosa East	Osun	7.521	4.802	2	
+Aye	Ijero	Ekiti	7.907	4.978	2	
+Ago-Ayadi	Ese Odo	Ondo	6.371	4.909	2	
+Ugbo-Ayiku Junction	Ilaje	Ondo	6.142	4.803	2	Aiyetoro
+Ayor	Obi	Nasarawa	8.298	8.513	2	
+Oyere-Ayani	Ife North	Osun	7.337	4.501	2	
+Ayingin	Ife South	Osun	7.349	4.576	2	
+Idu-Ayo	Ife East	Osun	7.357	4.593	2	
+Ayibiowu	Atakunmosa West	Osun	7.474	4.647	2	
+Ayadi	Ondo West	Ondo	7.014	4.693	2	
+Ayodele	Odeda	Ogun	7.349	3.544	2	
+Ayo-Olorunda	Odeda	Ogun	7.343	3.646	2	
+Ayegbami	Odeda	Ogun	7.265	3.686	2	
+Ayifo	Moro	Kwara	8.821	4.271	2	
+Igbo-Ayin	Ibarapa North	Oyo	7.598	3.072	2	
+Aya	Ibarapa North	Oyo	7.623	3.151	2	
+Aya	Ibarapa North	Oyo	7.528	3.091	2	
+Ayanbude	Ìsẹ́yìn	Oyo	7.741	3.411	2	
+Ayoyan	Ibarapa East	Oyo	7.551	3.517	2	
+Ayoyi	Asa	Kwara	8.237	4.515	2	
+Igbo-Ayin	Asa	Kwara	8.226	4.532	2	
+Ayeni	Oyun	Kwara	8.247	4.708	2	
+Ayo	Oyun	Kwara	8.076	4.628	2	
+Ayobiamo	Oyun	Kwara	8.071	4.636	2	
+Ayanbi	Oyo West	Oyo	7.953	3.916	2	
+Ayo	Oyo West	Oyo	7.849	3.847	2	
+Ayoola	Afijio	Oyo	7.801	3.843	2	
+Idi-Ayin	Oyo East	Oyo	7.903	3.999	2	
+Ayeja	Ifelodun	Kwara	8.463	4.856	2	
+Ayoejowo	Moro	Kwara	9.092	4.804	2	
+Ayo	Afijio	Oyo	7.827	4.003	2	
+Ayandiji	Surulere	Oyo	7.979	4.415	2	
+Ayo	Ola Oluwa	Osun	7.753	4.126	2	
+Ayuba	Ganye	Adamawa	8.419	11.984	2	
+Idi-Ayan	Asa	Kwara	8.277	4.580	2	
+Ayamu	Kokona	Nasarawa	8.700	7.998	2	
+Ayigbiri	Iwo	Osun	7.660	4.107	2	
+Ayem	Ushongo	Benue	7.094	9.012	2	
+Ayope	Aiyedade	Osun	7.215	4.312	2	
+Ayeka	Okitipupa	Ondo	6.453	4.798	2	
+Aye-Ekiti	Moba	Ekiti	8.006	5.136	2	
 Ayigbe Street	Agege	Lagos	6.628	3.310	1	
 Ayopo Adebiyi Street	Agege	Lagos	6.611	3.315	1	
 Ajaokuta-Ayangba Road	Dekina	Kogi	7.416	6.876	1	
@@ -138,7 +387,6 @@ Ayonuga Street	Mushin	Lagos	6.527	3.366	1
 Ayodele Street	Lagos Mainland	Lagos	6.492	3.380	1	
 Ayodele Street	Lagos Mainland	Lagos	6.509	3.388	1	
 Ayinke Street	Shomolu	Lagos	6.526	3.384	1	
-Ayinke Street	Shomolu	Lagos	6.542	3.384	1	
 Ayodeji Otegbola Street	Shomolu	Lagos	6.545	3.388	1	
 Ayoola Street	Alimosho	Lagos	6.593	3.275	1	
 Alabi Ayiemojuba Street	Alimosho	Lagos	6.580	3.247	1	
@@ -178,7 +426,6 @@ Ayetoro Street	Kosofe	Lagos	6.601	3.387	1
 Ayinde Sanni	Kosofe	Lagos	6.619	3.370	1	
 Ayobami Street	Ede North	Osun	7.721	4.492	1	
 Navy Captain Ayeni Road	Yenegoa	Bayelsa	4.926	6.308	1	
-Ayegbaju International Modern Market	Ede North	Osun	7.765	4.536	0	
 Ayegbami Street	Oriade	Osun	7.573	4.894	1	
 Idi-Ayan Street	Oriade	Osun	7.570	4.892	1	
 Oke Oja/Temidire/Ayegunle/Ijero Road	Ido-Osi	Ekiti	7.866	5.160	1	
@@ -199,10 +446,9 @@ Ayanwale Street	Ifako/Ijaye	Lagos	6.670	3.284	1
 Ayandeji Street	Mushin	Lagos	6.521	3.349	1	
 Kokoro Aye	Ifo	Ogun	6.683	3.294	1	
 Ayodele Alaba Street	Ifo	Ogun	6.683	3.361	1	
-Ayodele Alaba Street	Ifo	Ogun	6.685	3.362	1	
 Ezekiel Ayobola	Ado Odo/Ota	Ogun	6.690	3.272	1	
 Ayinde Are Street	Ìkòròdú	Lagos	6.630	3.506	1	
-IORCHIA AYU ROAD	Markurdi	Benue	7.726	8.541	1	
+Iorchia Ayu Road	Markurdi	Benue	7.726	8.541	1	
 Bola Ayorinde Street	Eti Osa	Lagos	6.471	3.583	1	
 Ayemowa Close	Lagos Mainland	Lagos	6.506	3.387	1	
 Lady Virginia Ayolugbe Street	Onitsha North	Anambra	6.180	6.785	1	
@@ -211,7 +457,6 @@ Ayodele Okeowo Street	Kosofe	Lagos	6.556	3.387	1
 Ayodele Street	Oshodi/Isolo	Lagos	6.561	3.328	1	
 Ayeni Village Road	Oshodi/Isolo	Lagos	6.567	3.336	1	
 Adetola Ayeni Street	Eti Osa	Lagos	6.448	3.485	1	
-Ayinke Daniels Drive	Eti Osa	Lagos	6.475	3.576	1	
 Ayemenre Street	Oredo	Edo	6.269	5.595	1	
 Yakubu Ayenajeyi	Chikun	Kaduna	10.464	7.441	1	
 Ayovodia Street	Uvwie	Delta	5.564	5.769	1	
@@ -231,37 +476,60 @@ Muslimat Ayelesa	Ilorin East	Kwara	8.522	4.597	1
 Ayo Bello Street	Ilorin East	Kwara	8.460	4.573	1	
 Ayeni street	Abeokuta South	Ogun	7.121	3.325	1	
 Ayo Adebanjo Close	Eti Osa	Lagos	6.441	3.463	1	
-Ligali Ayorinde Street	Eti Osa	Lagos	6.423	3.442	1	
 Ajaokuta-Ayangba Road	Ofu	Kogi	7.402	6.779	1	
 Ajaokuta-Ayangba Road	Ofu	Kogi	7.419	6.737	1	
 Ayo Street	Uvwie	Delta	5.565	5.783	1	
 Aya Road	Ikot Ekpene	Akwa Ibom	5.168	7.732	1	
-Ayangburen Primary School	Ìkòròdú	Lagos	6.619	3.501	0	
-Ayangburen Senior High School	Ìkòròdú	Lagos	6.619	3.502	0	
 Ayangburen Road	Ìkòròdú	Lagos	6.618	3.503	1	
 Ayemenre Street	Oredo	Edo	6.267	5.600	1	
-Ayuko hospital	Akoko-Edo	Edo	7.446	6.062	0	
-Ayekale Community Maternity Centre, Agugu	Ibadan North East	Oyo	7.377	3.928	0	
-Ayeitoro PHC	Lagos Mainland	Lagos	6.493	3.388	0	
 Dr Ayodele Close	Eti Osa	Lagos	6.469	3.660	1	
 Sani Ayuba Street	Ungongo	Kano	11.977	8.444	1	
 Daniel Ayomike Street	Eti Osa	Lagos	6.455	3.483	1	
 Pa Matthew Ayinde close	Ilorin East	Kwara	8.480	4.622	1	
 Felix Ayogu Street	Obafemi Owode	Ogun	6.878	3.429	1	
 Ijebu Ode-Idi Ayunre Road	Oluyole	Oyo	7.232	3.863	1	
-Ijebu Ode-Idi Ayunre Road	Oluyole	Oyo	7.230	3.866	1	
 Ayegbaju Street	Ife Central	Osun	7.482	4.567	1	
 Ayala Lane	Ife Central	Osun	7.475	4.560	1	
-AYM SHAFFA	Municipal Area Council	FCT Abuja	9.033	7.443	0	
-Ayotola Hospital Specialist	Shagamu	Ogun	6.843	3.640	0	
 Fadan-Ayu Street	Kaduna South	Kaduna	10.466	7.412	1	
-Bishop Ayogu Street	Enugu South	Enugu	6.420	7.493	1	
 Ayangburen Road	Ìkòròdú	Lagos	6.615	3.502	1	
 James Ayelagbe Crescent	Eti Osa	Lagos	6.477	3.582	1	
-Ayan	Auyo	Jigawa	12.405	10.083	2	
-Ayama	Auyo	Jigawa	12.264	9.877	2	
-Ayu	Wasagu-Danko	Kebbi	11.192	5.904	2	
-Zangon Aya	Igabi	Kaduna	10.934	7.695	2	
-Ayamelum	Ayamelum	Anambra	6.535	6.975	2	
-Ayu	Sanga	Kaduna	9.215	8.603	2	
-Ayi Yasku	Magumeri	Borno	11.952	12.856	2	
+Ayela Uwangue School	Egor	Edo	6.360	5.626	0	
+Ayolik Medical Center	Oredo	Edo	6.331	5.627	0	
+Aye Shopping Mall	Oredo	Edo	6.338	5.616	0	
+Ayenayeri Filling Station	Uvwie	Delta	5.542	5.766	0	
+Ayakpo Nursery and Primary School	Yenegoa	Bayelsa	4.940	6.327	0	
+Ayede Market	Idanre	Ondo	7.017	5.159	0	
+Ayede Ogbese Market	Akure North	Ondo	7.259	5.374	0	
+Ayegunle Market	Ọ̀wọ̀	Ondo	7.171	5.619	0	
+Ayeka Market	Okitipupa	Ondo	6.492	4.789	0	
+AYR filling station	Akko	Gombe	10.257	11.185	0	
+Arolat Petrol station, Ayetoro	Yewa North	Ogun	7.241	3.029	0	
+Ayetunde Medical Centre Tegina	Rafi	Niger	10.069	6.189	0	
+st. paul primary school, ayepe road	Shagamu	Ogun	6.836	3.659	0	
+Local Government Primary School, Ayede	Ifo	Ogun	6.808	3.161	0	
+African Church Primary School, Ayede Ifo	Odogbolu	Ogun	6.850	3.911	0	
+St. Paul'S Anglican Primary School, Ayetoro	Shagamu	Ogun	6.831	3.502	0	
+African Church Primary School, Ayede Ifo	Ifo	Ogun	6.793	3.203	0	
+Local Government Primary School, Ayede	Ado Odo/Ota	Ogun	6.562	2.943	0	
+Origbegi Satisfaction maternity hospital, Ayeye	Ibadan North West	Oyo	7.383	3.893	0	
+Ayele Primary Health Clinic	Nasarawa	Nasarawa	8.010	7.896	0	
+Ayete health center	Ibarapa North	Oyo	7.544	3.221	0	
+AYM Shafa filling station	Gwale	Kano	11.986	8.481	0	
+Unguwar Ayaba Dispensary	Chikun	Kaduna	10.342	7.455	0	
+Denow Ayetoro Medical Center	Ojo	Lagos	6.488	3.154	0	
+Ayobo Primary Health Care Centre	Alimosho	Lagos	6.606	3.235	0	
+Ayodamola Health Careand Maternity Home	Alimosho	Lagos	6.523	3.238	0	
+Ayatuga Health Care	Mushin	Lagos	6.533	3.354	0	
+Ayantuga Primary Health Centre	Mushin	Lagos	6.533	3.355	0	
+Ayedere Ajibola Junior Secoundary School	Kosofe	Lagos	6.609	3.388	0	
+Ayedere Ajibola Sernior High School.	Kosofe	Lagos	6.607	3.388	0	
+epe ayetoro jetty	Epe	Lagos	6.577	3.975	0	
+Aya Bus Stop, Abuja, Nigeria	Municipal Area Council	FCT Abuja	9.049	7.527	0	
+Ayegbaju International Modern Market	Ede North	Osun	7.765	4.536	0	
+Ayangburen Primary School	Ìkòròdú	Lagos	6.619	3.501	0	
+Ayangburen Senior High School	Ìkòròdú	Lagos	6.619	3.502	0	
+Ayuko hospital	Akoko-Edo	Edo	7.446	6.062	0	
+Ayekale Community Maternity Centre, Agugu	Ibadan North East	Oyo	7.377	3.928	0	
+Ayeitoro PHC	Lagos Mainland	Lagos	6.493	3.388	0	
+Aym Shaffa	Municipal Area Council	FCT Abuja	9.033	7.443	0	
+Ayotola Hospital Specialist	Shagamu	Ogun	6.843	3.640	0	

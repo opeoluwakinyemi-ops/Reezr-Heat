@@ -1,3 +1,25 @@
+Zaria	Sabon Gari	Kaduna	11.114	7.719	3	
+Zango	Zango	Katsina	13.054	8.486	3	
+Zambuk	Yamaltu/Deba	Gombe	10.320	11.356	3	
+Zakowan	Larmurde	Adamawa	9.669	11.829	3	
+Zadawa Yama	Askira-Uba	Borno	10.649	12.903	3	
+Zariagi	Adavi	Kogi	7.812	6.639	3	
+Zauro	Birnin Kebbi	Kebbi	12.501	4.306	3	
+Ajingi	Ajingi	Kano	11.968	9.037	3	Zango
+Zango Waje	Bagwai	Kano	12.153	8.068	3	
+Sabon Gari	Rogo	Kano	11.399	7.812	3	Zarewa
+Zango Bichi	Bichi	Kano	12.233	8.240	3	Bichi
+Zaure Bakwai	Garum Mallam	Kano	11.686	8.370	3	
+Zakiri Maigari	Gabasawa	Kano	12.101	8.885	3	Zakirai
+Zango Layin Gidan Mai Unguwar	Gaya	Kano	11.864	9.001	3	
+Zangon Baure	Bunkure	Kano	11.699	8.540	3	Bunkure
+Zango	Bunkure	Kano	11.696	8.703	3	Kumurya
+Zango	Sumaila	Kano	11.530	8.956	3	
+Zango	Garko	Kano	11.649	8.803	3	Garko
+Zango	Kibiya	Kano	11.530	8.659	3	Kibiya
+Zaranda	Toro	Bauchi	10.234	9.515	3	
+Zonkwa	Zangon Kataf	Kaduna	9.785	8.291	3	Zankuwa|Zenkuwa
+Zakirai	Gabasawa	Kano	12.100	8.885	3	
 Gâ-zabi	Magaria	Katsina	13.088	8.471	2	
 D'aga-zari	Jibia	Katsina	13.224	7.616	2	
 Zanko	Oturkpo	Benue	7.530	8.073	2	Zauku
@@ -14,7 +36,6 @@ Zaman	Kwaya Kusar	Borno	10.379	12.018	2
 Tungan Zau	Shanga	Kebbi	11.265	4.755	2	
 Baraia Zaki	Bungudu	Zamfara	12.260	6.455	2	
 Unguwar Zaria	Akwanga	Nasarawa	9.017	8.217	2	Unguwar Zaria;Ungwan Zaria;Zaria
-Zaria	Sabon Gari	Kaduna	11.114	7.719	3	
 Tunga Zagi	Bagudo	Kebbi	11.453	4.159	2	
 Zalau	Toro	Bauchi	10.392	9.012	2	
 Zabaruma	Tambuwal	Sokoto	12.350	4.653	2	
@@ -22,7 +43,6 @@ Zakara	Gwandu	Kebbi	12.417	4.715	2
 Zagi	Fakai	Kebbi	11.403	4.876	2	
 Zabamawa	Gwandu	Kebbi	12.615	4.461	2	
 Tungan Dan Zaki	Rijau	Niger	11.293	4.775	2	
-Zango	Zango	Katsina	13.054	8.486	3	
 Zagabutu	Kuje	FCT Abuja	8.521	7.231	2	Zagabuta
 Zali	Hawul	Borno	10.552	12.277	2	Zari
 Gwapopolok	Shani	Borno	10.254	12.165	2	Zarayaro
@@ -39,11 +59,11 @@ Zamon Lafia	Tsafe	Zamfara	11.875	6.794	2	Zaman Lafia
 Zungon Katab	Zangon Kataf	Kaduna	9.833	8.400	2	Zangwan Katab;Zangon Katab;Katab;Zungon Katab
 Zabamawa	Augie	Kebbi	12.852	4.502	2	
 Zazagawa	Argungu	Kebbi	12.734	4.393	2	
+Zaga	Bali	Taraba	7.690	10.469	2	
 Zagwan-Daji	Nasarawa	Nasarawa	8.341	7.629	2	Zangwan Daji
 Sauna	Illela	Sokoto	13.574	5.192	2	Zauna
 Fakon Zamau	Arewa Dandi	Kebbi	12.607	3.850	2	
 Zac Zawan	Sanga	Kaduna	9.419	8.544	2	
-Zambuk	Yamaltu/Deba	Gombe	10.320	11.356	3	
 Ungwan Zangi	Ikara	Kaduna	11.249	8.091	2	Zangi
 Kafin Zaki	Ningi	Bauchi	10.861	9.584	2	Kogin Zaki
 Zabi	Giade	Bauchi	11.501	10.304	2	
@@ -73,20 +93,19 @@ Zainabi	Doguwa	Kano	10.788	8.772	2	Zenabi
 Zaraina	Birnin Kudu	Jigawa	11.396	9.528	2	
 Zara;Zora	Ganjuwa	Bauchi	10.907	10.000	2	
 Zauni	Gusau	Zamfara	11.786	6.593	2	
-Zakowan	Larmurde	Adamawa	9.669	11.829	3	
 Zango	Tafawa-Balewa	Bauchi	9.761	9.368	2	
+Zaure Uku	Bali	Taraba	8.483	11.400	2	Zaure Uke
 Zaiki	Agaie	Niger	8.933	6.300	2	
 Zakarai	Gabasawa	Kano	12.228	8.913	2	
 Birnin Zauma	Bukkuyum	Zamfara	12.144	5.413	2	
 Zangero	Wasagu-Danko	Kebbi	11.229	6.035	2	
 Zangon Aya	Igabi	Kaduna	10.915	7.664	2	Zangan Aya;Zangwan Aya
 Zaranuma	Maiyama	Kebbi	12.155	4.332	2	
-Zandi	Zing	Adamawa	9.006	11.731	2	
+Zandi	Zing	Taraba	9.006	11.731	2	
 Tugan Zakara	Shanga	Kebbi	10.906	4.772	2	
 Sagwo	Agaie	Niger	8.699	6.419	2	Zago
 Zarameri	Damboa	Borno	11.253	13.065	2	
 Zaman Giru	Bungudu	Zamfara	12.153	6.779	2	Zaman Gira
-Zadawa Yama	Askira-Uba	Borno	10.649	12.903	3	
 Zabehidna	Kagarko	Kaduna	9.380	7.237	2	
 Ungwan Zakara	Zaria	Kaduna	11.000	7.717	2	Angwan Zakara
 Zungoro	Shiroro	Niger	10.070	6.561	2	Zangoro
@@ -97,7 +116,6 @@ Zango	Illela	Sokoto	13.512	5.481	2
 Gidan Dan Mai Zare	Gusau	Zamfara	12.041	6.668	2	
 Samaneggi	Koko-Besse	Kebbi	11.164	4.465	2	Zamanagi
 Zakara	Ningi	Bauchi	10.931	9.600	2	
-Zariagi	Adavi	Kogi	7.812	6.639	3	
 Zamfur	Kauru	Kaduna	10.206	8.360	2	Zamfaru
 Zaure	Igabi	Kaduna	10.613	7.514	2	
 Zara	Bayo	Borno	10.665	11.775	2	
@@ -111,7 +129,6 @@ Zamanbanza	Wasagu-Danko	Kebbi	11.255	6.005	2
 Gazo Zabaruma	Birnin Kebbi	Kebbi	12.459	4.290	2	
 Zartake	Igabi	Kaduna	10.792	7.242	2	
 Zarra	Jega	Kebbi	12.190	4.321	2	
-Zauro	Birnin Kebbi	Kebbi	12.501	4.306	3	
 Zazka	Birnin Kudu	Jigawa	11.481	9.550	2	
 Zaodo	Augie	Kebbi	12.791	4.698	2	
 Dzathu B	Kwaya Kusar	Borno	10.455	11.973	2	Zaltu
@@ -121,11 +138,6 @@ Zabu	Hawul	Borno	10.469	12.283	2
 Ungwan Zamakway	Arewa Dandi	Kebbi	12.504	3.933	2	
 Mara Zamfarawa	Dan Musa	Katsina	12.234	7.261	2	Dan Musa
 Guidan Dan Mai-Zare	Gusau	Zamfara	12.041	6.668	2	
-Zarewa Primary Health Centre	Rogo	Kano	11.397	7.812	0	
-Zangun Majema Health Post	Karaye	Kano	11.816	8.002	0	
-Zangon Mata Health Post	Dawakin Tofa	Kano	12.233	8.414	0	
-Ajingi	Ajingi	Kano	11.968	9.037	3	Zango
-Zango Waje	Bagwai	Kano	12.153	8.068	3	
 Zainabi East	Doguwa	Kano	10.788	8.774	2	Zainabi A
 Zainabi West	Doguwa	Kano	10.787	8.770	2	Zainabi B
 Zangeru	Fagge	Kano	12.028	8.526	2	
@@ -140,7 +152,6 @@ Zango Dan Nadada	Gwarzo	Kano	11.902	7.995	2
 Zango	Gwarzo	Kano	11.917	7.946	2	
 Unguwar Zanko	Tsanyawa	Kano	12.288	8.074	2	
 Zawanday	Michika	Adamawa	10.470	13.430	2	
-Kafin Zaka Dispensary	Misau	Bauchi	11.493	10.662	0	
 Zarwaram	Diffa	Borno	13.152	12.522	2	
 Zarawuyaku	Biu	Borno	10.617	12.197	2	Zarawiyaku
 Zara Zham	Hawul	Borno	10.474	12.435	2	Shahahiru
@@ -235,10 +246,6 @@ Dagumba B Zainabe	Mafa	Borno	11.788	13.766	2
 Dogon Zaga	Bayo	Borno	10.678	11.792	2	
 Zaggam	Biu	Borno	10.738	12.184	2	
 Angoa Zanoa	Dioundiou	Kebbi	12.581	3.679	2	
-Zakirai	Gabasawa	Kano	12.098	8.891	0	
-Zaria	Akwanga	Nasarawa	9.025	8.199	0	
-Nuhu Bamalli Polytechnic Zaria	Zaria	Kaduna	11.037	7.674	0	
-Zamani Junior Secondary	Kaduna North	Kaduna	10.543	7.456	0	
 Zankali	Monguno	Borno	12.624	13.610	2	
 Za'An	Monguno	Borno	12.388	13.369	2	
 Dabar Masara Bulama Goni Zarami	Monguno	Borno	12.714	13.638	2	
@@ -265,9 +272,7 @@ Zaize	Kware	Sokoto	13.012	5.391	2
 Zangon Yamma	Kware	Sokoto	13.007	5.369	2	
 Zango	Shagari	Sokoto	12.709	5.178	2	
 Sarkin Zamfara A	Sokoto South	Sokoto	13.055	5.240	2	
-Zafeeroon Global Ventures	Billiri	Gombe	9.870	11.194	0	
 Zangon Dabira	Madarounfa	Katsina	13.115	7.199	2	
-Sabon Gari	Rogo	Kano	11.399	7.812	3	Zarewa
 Zamfarawa	Rogo	Kano	11.567	7.794	2	
 Yola Zauna Gari	Karaye	Kano	11.713	7.943	2	Zauna Gari
 Ungwan Zangina	Gwarzo	Kano	11.955	7.830	2	
@@ -275,11 +280,9 @@ Zango	Karaye	Kano	11.790	8.087	2
 Zango	Bagwai	Kano	12.009	8.130	2	
 Sabon Garin Zango B	Bebeji	Kano	11.598	8.214	2	
 Zango	Kabo	Kano	11.906	8.229	2	
-Zango Bichi	Bichi	Kano	12.233	8.240	3	Bichi
 Danzabuwa Cikin Gari	Bichi	Kano	12.343	8.110	2	Dan Zabuwa
 Zango Ciki	Rimin Gado	Kano	11.948	8.310	2	
 Zango	Bebeji	Kano	11.556	8.267	2	
-Zaure Bakwai	Garum Mallam	Kano	11.686	8.370	3	
 Zangon Dawanau	Dawakin Tofa	Kano	12.091	8.397	2	
 Tagama Zango	Dawakin Tofa	Kano	12.192	8.407	2	
 Zangon Mata Cikin Gari	Dawakin Tofa	Kano	12.231	8.413	2	
@@ -305,51 +308,425 @@ Yan Zaki	Minjibir	Kano	12.182	8.638	2	Sabon Gari Yanzaki
 Fagen Zaki	Wudil	Kano	11.742	8.838	2	
 Kwaimawar Zango	Gezawa	Kano	12.092	8.712	2	
 Zango	Gabasawa	Kano	12.118	8.825	2	
-Zakiri Maigari	Gabasawa	Kano	12.101	8.885	3	Zakirai
 Zangon Guliya	Ajingi	Kano	12.047	8.953	2	Zangon Gulya
 Zambur	Gaya	Kano	11.906	8.911	2	
 Zambur Cikin Gari	Gaya	Kano	11.904	8.921	2	
 Larabar Zango	Ajingi	Kano	11.995	9.168	2	
 Kadawa Zango	Gezawa	Kano	11.998	8.723	2	
 Zango	Kura	Kano	11.824	8.493	2	
-Zango Layin Gidan Mai Unguwar	Gaya	Kano	11.864	9.001	3	
-Zangon Baure	Bunkure	Kano	11.699	8.540	3	Bunkure
 Zango	Warawa	Kano	11.810	8.817	2	
 Zabaro	Wudil	Kano	11.864	8.948	2	
 Fidalami Zanguwar Kanawa	Gaya	Kano	11.738	9.005	2	
-Zango	Bunkure	Kano	11.696	8.703	3	Kumurya
 Zango	Takai	Kano	11.523	9.062	2	
-Zango	Sumaila	Kano	11.530	8.956	3	
-Zango	Garko	Kano	11.649	8.803	3	Garko
 Zango	Kibiya	Kano	11.565	8.719	2	
 Gidan Zakarai	Sumaila	Kano	11.293	8.801	2	
-Zango	Kibiya	Kano	11.530	8.659	3	Kibiya
 Zangon Kanawa	Tudun Wada	Kano	11.390	8.775	2	
 Zaiga	Tudun Wada	Kano	11.415	8.789	2	
 Zango	Kibiya	Kano	11.378	8.642	2	
 Unguwar Zana	Kibiya	Kano	11.505	8.674	2	
 Zangon Buhari	Bunkure	Kano	11.662	8.549	2	
 Saji Zango	Rano	Kano	11.462	8.588	2	
-Zafafi Hospital	Sokoto South	Sokoto	13.051	5.239	0	
-Twaidi Zaidi Basic Health Centre	Binji	Sokoto	13.251	4.936	0	
-Zajeri Primary Health Center	Maiduguri	Borno	11.873	13.127	0	
-Zauro Ambrusa General Hospital	Birnin Kebbi	Kebbi	12.497	4.313	0	
-Islamic Medical Foundation Musawa Road Zango	Kaduna South	Kaduna	10.505	7.406	0	
-Zango Road Primary Health Center	Kaduna South	Kaduna	10.503	7.409	0	
-Aman Clinic Makera Cd 35 Zango Road Sabon Gari South	Kaduna South	Kaduna	10.507	7.407	0	
-Zakari Memorial Clinic Primary Health Center	Kaduna North	Kaduna	10.509	7.432	0	
-Zaitun Clinic	Kaduna South	Kaduna	10.520	7.396	0	
-Zaitun Clinic Buwaya	Chikun	Kaduna	10.408	7.406	0	
-MADRASATUL ZADUL MA AM ISLAMIYYA	Ungongo	Kano	12.055	8.582	0	
-ZAHEERA INTERNATIONAL SCHOOL	Ungongo	Kano	12.052	8.574	0	
-ZAM-ZAM INTL SCHOOL KANO	Gwale	Kano	11.963	8.467	0	
-ZAM ZAM INTERNATIONAL SCHOOL	Gwale	Kano	11.963	8.467	0	
 Zamba	Fika	Yobe	11.389	11.347	2	
 Zarun Kwari	Faskari	Katsina	11.807	7.294	2	
 Zari	Faskari	Katsina	11.800	7.283	2	
 Jawalki Zango Tachalao	Madaoua	Sokoto	13.682	6.229	2	
 Zangon Guidan Maidouma	Madaoua	Sokoto	13.740	5.922	2	
-Zaranda	Toro	Bauchi	10.234	9.515	3	
+Zangaya Mazawaun	Fika	Yobe	11.262	11.496	2	
+Zango	Barde	Yobe	12.872	11.059	2	
+Zabudum Dachia	Yunusari	Yobe	13.072	11.827	2	
+Zabudum Dachia	Jakusko	Yobe	12.729	10.798	2	
+Zarada	Gagarawa	Jigawa	12.549	9.473	2	
+Zareku	Miga	Jigawa	12.190	9.794	2	
+Zauma	Gwiwa	Jigawa	12.695	8.345	2	
+Zango	Gumel	Jigawa	12.624	9.406	2	
+Zauma	Bukkuyum	Zamfara	12.231	5.429	2	
+Barayar Zaki	Anka	Zamfara	12.186	5.758	2	
+Zarummai	Bukkuyum	Zamfara	12.022	5.478	2	
+Sarkin Zamfara B	Sokoto South	Sokoto	13.045	5.230	2	
+Kashin Zama	Aleiro	Kebbi	12.377	4.478	2	
+Zaria Amiru	Koko-Besse	Kebbi	11.306	4.243	2	
+Zauro	Birnin Kebbi	Kebbi	12.501	4.282	2	
+Zagga Kwasara	Bagudo	Kebbi	11.546	4.099	2	
+Zamare	Yauri	Kebbi	10.745	4.733	2	
+Zazzagawa	Argungu	Kebbi	12.737	4.390	2	
+Zangon Aya	Igabi	Kaduna	10.934	7.695	2	
+Zabi	Sabon Gari	Kaduna	11.153	7.755	2	
+Zango Urban	Zangon Kataf	Kaduna	9.837	8.407	2	
+Zankan	Kaura	Kaduna	9.623	8.531	2	
+Zabi	Kudan	Kaduna	11.287	7.727	2	
+Zaman Dabo	Zangon Kataf	Kaduna	9.852	8.462	2	
+Zaria	Zaria	Kaduna	11.025	7.652	2	
+Zabi	Kubau	Kaduna	10.722	8.139	2	
+Zangon Kataf	Zangon Kataf	Kaduna	9.897	8.258	2	
+Zango	Rimin Gado	Kano	11.999	8.274	2	
+Zarewa	Rogo	Kano	11.410	7.800	2	
+Zakarawa	Garko	Kano	11.573	8.829	2	
+Zarogi	Tsanyawa	Kano	12.233	7.984	2	
+Zango	Ungongo	Kano	12.045	8.575	2	
+Zango	Gezawa	Kano	12.074	8.700	2	
+Rijiyar Zaki	Ungongo	Kano	11.984	8.440	2	
+Zakka B	Safana	Katsina	12.587	7.294	2	
+Zango	Zango	Katsina	12.954	8.545	2	
+Zango	Zango	Katsina	13.050	8.513	2	
+Zakka A	Safana	Katsina	12.632	7.361	2	
+Zango	Kankara	Katsina	11.972	7.249	2	
+Zari	Mobbar	Borno	13.112	12.728	2	
+Zara	Bayo	Borno	10.706	11.784	2	
+Zageri	Bama	Borno	11.691	14.174	2	
+Zaga Ngalori	Marte	Borno	12.532	13.926	2	
+Hausari Zadawa	Askira-Uba	Borno	10.627	12.869	2	
+Zangebe	Mafa	Borno	12.033	13.651	2	
+Zago Kura	Kafin Hausa	Jigawa	12.053	10.034	2	
+Zainabi	Doguwa	Kano	10.844	8.709	2	
+Zaura	Damban	Bauchi	11.758	10.863	2	
+Zandam Nagogo	Gwaram	Jigawa	11.300	9.832	2	
+Zabi	Giade	Bauchi	11.488	10.310	2	
+Zaranda	Toro	Bauchi	10.282	9.400	2	
+Zalau	Toro	Bauchi	10.401	9.026	2	
+Zadawa	Misau	Bauchi	11.427	10.353	2	
+Zaki	Zaki	Bauchi	12.187	10.245	2	
+Zarawuyaku	Biu	Borno	10.667	12.224	2	
+Zazagawa	Argungu	Kebbi	12.738	4.392	2	Zazzagawa
+Zazaga	Munya	Niger	9.899	7.088	2	
+Zazaga	Munya	Niger	9.871	7.122	2	
+Zazabo	Maigatari	Jigawa	12.762	9.371	2	
+Zawan	Jos South	Plateau	9.755	8.875	2	
+Zawaciki	Kumbotso	Kano	11.916	8.465	2	
+Zawa	Abaji	FCT Abuja	8.667	6.797	2	
+Zavatiniyan	Gombi	Adamawa	10.145	12.762	2	
+Zava	Ardo-Kola	Taraba	8.905	11.284	2	
+Zauru	Ussa	Taraba	6.883	9.853	2	
+Zauka	Gwer East	Benue	7.380	8.163	2	
+Zatsha	Tarka	Benue	7.661	8.849	2	
+Zato	Chikun	Kaduna	10.668	7.214	2	
+Zashir	Konshisha	Benue	7.103	8.652	2	
+Zarya	Toro	Bauchi	10.378	8.834	2	
+Zaru	Darazo	Bauchi	11.367	10.683	2	
+Zarmi	Agaie	Niger	9.003	6.470	2	
+Zariyawa	Ikara	Kaduna	11.126	8.486	2	
+Zari Kasake	Mobbar	Borno	12.995	12.711	2	
+Zaria	Koko-Besse	Kebbi	11.262	4.262	2	
+Zari	Hawul	Borno	10.550	12.278	2	
+Zaran Mai Chibi	Darazo	Bauchi	10.951	10.358	2	
+Zaran Fulani	Darazo	Bauchi	10.944	10.367	2	
+Zaranda Habe	Toro	Bauchi	10.289	9.560	2	
+Zaranda	Biu	Borno	10.780	12.012	2	
+Zaranda	Hong	Adamawa	10.456	12.961	2	
+Zaranda	Toro	Bauchi	10.219	9.528	2	
+Zaramari	Biu	Borno	10.874	11.662	2	
+Zarama	Yenegoa	Bayelsa	5.083	6.400	2	
+Zaraki	Edati	Niger	8.900	5.880	2	
+Zaragi	Wushishi	Niger	9.656	6.018	2	
+Zara	Ganjuwa	Bauchi	10.907	10.000	2	Zora
+Zara	Bayo	Borno	10.665	11.793	2	
+Zara	Rafi	Niger	10.508	6.429	2	
+Zar	Hawul	Borno	10.571	12.112	2	
+Zanzi	Yorro	Taraba	8.958	11.383	2	
+Zanzara	Yorro	Taraba	8.916	11.506	2	Zanzala
+Zankoro	Chikun	Kaduna	10.642	7.165	2	
+Zankam	Misau	Bauchi	11.342	10.303	2	
+Zangulu Yusufu	Hawul	Borno	10.389	12.546	2	
+Zangula Kwalamba	Gombi	Adamawa	10.373	12.563	2	
+Zangula Kilba	Hong	Adamawa	10.298	12.772	2	
+Zangula	Hong	Adamawa	10.474	12.600	2	
+Zango Marke	Bakori	Katsina	11.576	7.545	2	
+Zangon Maihanchi	Kafur	Katsina	11.788	7.727	2	
+Zango Katab	Zangon Kataf	Kaduna	9.835	8.406	2	Katab|Zangon Katab|Zangwan Katab|Zungon Katab
+Zangon Kanya	Ringim	Jigawa	12.176	9.197	2	
+Zangon Gulya	Ajingi	Kano	12.046	8.954	2	
+Zangongoye	Jahun	Jigawa	12.085	9.548	2	
+Zango	Dutsin Ma	Katsina	12.375	7.593	2	
+Zango	Garki	Jigawa	12.349	9.109	2	
+Zango	Ringim	Jigawa	12.171	9.098	2	
+Zango	Rimin Gado	Kano	11.983	8.281	2	
+Zango	Gwarzo	Kano	11.900	8.000	2	
+Zango	Kafur	Katsina	11.781	7.832	2	
+Zango-Kara	Municipal Area Council	FCT Abuja	8.823	7.349	2	Zango
+Zangli	Alkaleri	Bauchi	9.933	10.133	2	
+Zangeri	Bama	Borno	11.671	14.169	2	
+Zangera	Song	Adamawa	9.986	12.463	2	
+Zange	Akko	Gombe	10.052	11.153	2	
+Zangaya	Fika	Yobe	11.280	11.437	2	
+Zankan	Jema'A	Kaduna	9.390	8.297	2	Zangan Kogo
+Zang	Zing	Taraba	8.896	11.702	2	
+Zandi	Song	Adamawa	9.605	12.364	2	
+Zandan Nagogo	Gwaram	Jigawa	11.326	9.852	2	
+Zandan	Gwaram	Jigawa	11.346	9.892	2	
+Zandam	Jibia	Katsina	13.033	7.250	2	
+Zandam	Darazo	Bauchi	11.300	10.600	2	
+Zanaka	Kurmi	Taraba	7.019	10.177	2	
+Zampa	Yorro	Taraba	8.821	11.510	2	
+Zamkwa	Hawul	Borno	10.470	12.255	2	
+Zamko	Langtang North	Plateau	9.007	9.849	2	
+Zamfarawa	Kafur	Katsina	11.809	7.845	2	
+Zamfarawa	Yamaltu/Deba	Gombe	10.241	11.324	2	
+Zamerum	Langtang North	Plateau	9.094	9.831	2	
+Zambuka	Kurmi	Taraba	7.034	10.207	2	
+Zambuk	Yamaltu/Deba	Gombe	10.317	11.355	2	
+Zambugga	Rafi	Niger	10.283	6.167	2	
+Zambufu	Edu	Kwara	8.783	5.178	2	
+Zambu	Alkaleri	Bauchi	10.022	10.422	2	
+Zambana	Donga	Taraba	7.517	10.213	2	
+Zamba	Gombi	Adamawa	10.322	12.458	2	
+Zamba	Song	Adamawa	9.889	12.279	2	
+Zamau	Kware	Sokoto	12.983	5.357	2	
+Zarmari	Biu	Borno	10.711	12.151	2	Zamari
+Zaman-Lafia	Maru	Zamfara	11.341	6.432	2	
+Zamani	Kirfi	Bauchi	10.408	10.416	2	
+Zaman Dabo	Zangon Kataf	Kaduna	9.862	8.471	2	
+Zamon Awon	Zangon Kataf	Kaduna	9.774	8.463	2	Zaman Dabo
+Zaman	Kauru	Kaduna	9.779	8.522	2	
+Zamalak	Lafia	Nasarawa	8.898	8.981	2	
+Zama	Shani	Borno	10.343	12.228	2	
+Zalfu	Kwaya Kusar	Borno	10.459	11.970	2	Zaltu
+Zalanga	Ganjuwa	Bauchi	10.614	10.176	2	
+Zala Kura	Bama	Borno	11.420	14.110	2	
+Zakyi	Gboko	Benue	7.227	8.693	2	
+Zakwa	Suru	Kebbi	11.860	4.101	2	Zokwa
+Za-Kuri	Michika	Adamawa	10.443	13.487	2	
+Zagom	Zangon Kataf	Kaduna	9.857	8.157	2	Zakum
+Zaku	Zangon Kataf	Kaduna	9.663	8.319	2	
+Zakshi	Toro	Bauchi	9.936	9.331	2	
+Zakka	Safana	Katsina	12.650	7.351	2	
+Zakibiam	Ussa	Taraba	7.172	10.160	2	
+Zaki	Gboko	Benue	7.220	8.686	2	
+Zakau	Rano	Kano	11.402	8.435	2	
+Zakari	Lere	Kaduna	10.350	8.689	2	
+Zakakulu	Agwara	Niger	10.630	4.593	2	
+Zakajiki	Maradun	Zamfara	12.434	6.431	2	
+Zakagi	Mokwa	Niger	8.918	5.843	2	
+Zaka	Ganjuwa	Bauchi	10.732	10.365	2	Zakka
+Zaji	Borgu	Niger	9.875	4.469	2	
+Zaji	Borgu	Niger	9.845	4.524	2	
+Zaje	Kaiama	Kwara	9.702	3.885	2	
+Zaje	Paikoro	Niger	9.360	6.506	2	
+Zahara	Gombi	Adamawa	10.148	12.511	2	
+Zagun	Bassa	Plateau	9.967	8.693	2	
+Zago	Kafin Hausa	Jigawa	12.063	10.023	2	
+Zagi	Kogi	Kogi	7.987	6.936	2	
+Zagezagi	Bakori	Katsina	11.618	7.549	2	
+Zagara	Gwoza	Borno	11.314	13.712	2	
+Zagani	Nangere	Yobe	11.815	11.145	2	
+Zagami	Faskari	Katsina	11.736	7.081	2	
+Zagam	Fune	Yobe	11.705	11.259	2	
+Zagala	Hong	Adamawa	10.331	12.916	2	
+Zagaina	Funakaye	Gombe	10.856	11.392	2	
+Zagaina	Kirfi	Bauchi	10.454	10.541	2	
+Zagabutu	Kuje	FCT Abuja	8.514	7.212	2	Zagabuta
+Zagabo	Arewa Dandi	Kebbi	12.840	4.297	2	
+Zaga	Marte	Borno	12.437	13.810	2	
+Zaga	Bagudo	Kebbi	11.567	4.123	2	Zagga
+Zadawa Gabas	Askira-Uba	Borno	10.650	12.919	2	
+Zadawa	Fika	Yobe	11.330	11.125	2	
+Zadawa	Funakaye	Gombe	10.875	11.401	2	
+Sabon Gidan Zawan	Sanga	Kaduna	9.417	8.540	2	Zac Zawan
+Zabu	Hawul	Borno	10.435	12.376	2	
+Zabin Zaria	Sabon Gari	Kaduna	11.145	7.738	2	
+Zaodo	Augie	Kebbi	12.797	4.699	2	Zabdo
+Zabamawa	Gwandu	Kebbi	12.613	4.462	2	
+Zabam	Song	Adamawa	9.574	12.312	2	
+Zabadam	Jakusko	Yobe	12.698	10.834	2	
+Zaar	Obi	Nasarawa	8.337	8.980	2	
+Ungwan Zarumayi	Shiroro	Niger	9.809	6.534	2	
+Ungwan Zakara	Kafur	Katsina	11.518	7.619	2	
+Koha	Akwanga	Nasarawa	9.014	8.219	2	Unguwar Zaria|Ungwan Zaria|Zaria
+Danzaki	Gezawa	Kano	12.021	8.675	2	Ungua Zaki
+Tunga Zabarmawa	Bagudo	Kebbi	11.468	4.160	2	
+Zazagawa	Argungu	Kebbi	12.705	4.369	2	Tunga Zazagawa|Tungar Zazzagawa
+Tungan Zau	Shanga	Kebbi	11.267	4.750	2	Zau
+Tungan Dan Zaki	Rijau	Niger	11.300	4.767	2	Dan Zaki
+Tugan Zakara	Shanga	Kebbi	10.900	4.767	2	
+Tattaura	Sanga	Kaduna	9.205	8.487	2	Zambur
+Sara	Tafawa-Balewa	Bauchi	9.631	9.425	2	Zara
+Ungwan Zaria	Akwanga	Nasarawa	9.016	8.295	2	Ancho|Rinze
+Rimin Zakara	Ungongo	Kano	11.996	8.452	2	
+Mama-Zagi	Agaie	Niger	9.137	6.390	2	
+Kankada	Zangon Kataf	Kaduna	9.683	8.314	2	Zat
+Jange	Bayo	Borno	10.251	11.791	2	Zange
+Gidan Zari	Shiroro	Niger	9.762	6.790	2	Zari
+Garin Zamna	Gassol	Taraba	8.561	11.070	2	
+Garin Zaka	Misau	Bauchi	11.500	10.667	2	
+Duduke	Jega	Kebbi	12.191	4.321	2	Zarra
+Darofoi	Karim Lamido	Taraba	9.258	10.950	2	Darfai|Darofo|Zailani
+Dan Zabuwa	Bichi	Kano	12.341	8.110	2	
+Dan Zabia	Kaugama	Jigawa	12.442	9.649	2	
+Bassan-Zarange	Nasarawa	Nasarawa	8.472	8.165	2	Bassan Zarangi|BassanZarangi
+Baban Zaure	Gbako	Niger	9.518	6.050	2	
+Zango	Gezawa	Kano	12.094	8.683	2	
+Zaurawa	Gezawa	Kano	12.101	8.725	2	
+Zainawa	Gezawa	Kano	12.032	8.640	2	
+Zaura	Ungongo	Kano	12.059	8.624	2	
+Zangeri	Bama	Borno	11.654	14.131	2	
+Zayam	Toro	Bauchi	10.074	9.242	2	
+Zange	Song	Adamawa	10.016	12.332	2	
+Zarayaro	Shani	Borno	10.248	12.157	2	
+Zaku	Hawul	Borno	10.449	12.112	2	
+Zala	Ganjuwa	Bauchi	10.804	10.029	2	
+Zaria	Ogoja	Cross River	6.580	8.813	2	
+Gidan Zana	Bagudo	Kebbi	11.465	3.572	2	
+Zanbarkiya	Kazaure	Jigawa	12.638	8.544	2	
+Zaumae Mahauta	Gwiwa	Jigawa	12.684	8.366	2	
+Zanguna	Roni	Jigawa	12.645	8.297	2	
+Zangokaya	Roni	Jigawa	12.646	8.339	2	
+Zakata	Bindawa	Katsina	12.798	7.810	2	
+Zango	Bindawa	Katsina	12.633	7.808	2	
+Zango	Kusada	Katsina	12.589	7.955	2	
+Gidan Zamai	Mariga	Niger	10.241	6.032	2	
+Gidan Zata	Birnin Gwari	Kaduna	10.386	6.211	2	
+Gidan Zamfara	Shiroro	Niger	10.317	6.581	2	
+Ungwan Zakara	Birnin Gwari	Kaduna	10.591	6.301	2	
+Gidan Zarmai	Shiroro	Niger	10.463	6.896	2	
+Toidi Zaidi	Binji	Sokoto	13.248	4.934	2	
+Gidan Zabarmawa	Wamako	Sokoto	13.194	5.150	2	
+Zabarmawa	Wamako	Sokoto	13.180	5.153	2	
+Zabaru	Dange-Shuni	Sokoto	13.012	5.274	2	
+Zamare	Agwara	Niger	10.771	4.702	2	
+Tungan Zango	Illela	Sokoto	13.605	5.416	2	
+Zamache	Goronyo	Sokoto	13.589	5.657	2	
+Ban Zara Hill	Maru	Zamfara	12.216	6.381	2	
+Zango	Kankara	Katsina	11.953	7.268	2	
+Zangarmawa	Gwarzo	Kano	11.934	7.885	2	
+Zango Bayaro	Faskari	Katsina	11.887	7.151	2	
+Zagin Kara	Bakori	Katsina	11.788	7.354	2	
+Zagi Makeda	Bakori	Katsina	11.761	7.359	2	
+Zanginawa	Karaye	Kano	11.742	7.986	2	
+Zauna Gari	Karaye	Kano	11.712	7.945	2	
+Zadferawa	Faskari	Katsina	11.665	7.033	2	
+Dan Zaria	Funtua	Katsina	11.586	7.184	2	
+Dogon Zagi	Funtua	Katsina	11.549	7.266	2	
+Ungwan Dan Zaria	Funtua	Katsina	11.489	7.223	2	
+Ungwan Dan Zaki	Danja	Katsina	11.454	7.411	2	
+Zango Marke	Danja	Katsina	11.450	7.495	2	
+Ungwan Zabo	Ikara	Kaduna	11.388	7.985	2	
+Ungwan Zarumai	Giwa	Kaduna	11.103	7.616	2	
+Zamanagi	Koko-Besse	Kebbi	11.165	4.464	2	
+Zabarma	Shanga	Kebbi	11.111	4.601	2	
+Koramo-Zaki	Bagudo	Kebbi	11.061	4.116	2	
+Zarumai	Shanga	Kebbi	11.012	4.815	2	
+Zaphor	Warri South-West	Delta	5.436	5.514	2	
+Zangoma	Kirfi	Bauchi	10.426	10.784	2	
+Zadawa	Alkaleri	Bauchi	10.148	10.688	2	
+Zamawa	Arewa Dandi	Kebbi	12.591	4.032	2	
+Zare	Karaye	Kano	11.679	8.054	2	
+Zam	Kiru	Kano	11.709	8.211	2	
+Zango	Garum Mallam	Kano	11.703	8.357	2	
+Zangaro	Bebeji	Kano	11.514	8.423	2	
+Zamara Eple	Yenegoa	Bayelsa	5.113	6.419	2	
+Zamara-Yambiri	Yenegoa	Bayelsa	5.110	6.414	2	
+Ukwa West	Ukwa West	Abia	4.954	7.239	2	Agbegbe Ijoba Ibile Iwoorun Ukwa|Se Ukwa|Ukwa Ouest|Ukwa ta Yamma|Zakhidna Ukva
+Zaria	Zaria	Kaduna	10.989	7.696	2	
+Zango	Zango	Katsina	12.931	8.533	2	Zango Local Government Area
+Zaki	Zaki	Bauchi	12.299	10.309	2	Agbegbe Ijoba Ibile Zaki|Zaki Local Government Area|Zakki
+Zangon Kataf	Zangon Kataf	Kaduna	9.841	8.255	2	Agbegbe Ijoba Ibile Zangon-Kataf|Nietcen Afakan|Zango Kataf|Zangon-Kataf|Zangon-Kataf Local Government Area
+Za Mogha	Michika	Adamawa	10.485	13.475	2	
+Zakwa	Hong	Adamawa	10.391	13.150	2	
+Zajiri	Maiduguri	Borno	11.869	13.133	2	
+Zarazeng	Jos North	Plateau	9.889	8.962	2	
+Zaria	Ogoja	Cross River	6.530	8.896	2	
+Zango	Gumel	Jigawa	12.627	9.396	2	
+Hausari Zadawa	Askira-Uba	Borno	10.622	12.889	2	
+Zarawuyaku	Biu	Borno	10.674	12.229	2	
+Zago Kura	Kafin Hausa	Jigawa	12.056	10.040	2	
+Zainabi	Doguwa	Kano	10.845	8.716	2	
+Zakarawa	Garko	Kano	11.587	8.848	2	
+Zango	Gezawa	Kano	12.081	8.688	2	
+Zango	Kankara	Katsina	11.990	7.263	2	
+Zazzagawa	Argungu	Kebbi	12.726	4.380	2	
+Zaria Amiru	Koko-Besse	Kebbi	11.298	4.254	2	
+Kashin Zama	Aleiro	Kebbi	12.361	4.480	2	
+Zabudum Dachia	Yunusari	Yobe	13.061	11.809	2	
+Zauma	Bukkuyum	Zamfara	12.213	5.405	2	
+Zangon Aya	Igabi	Kaduna	10.935	7.694	2	
+Rijiyar Zaki	Ungongo	Kano	11.994	8.431	2	
+Zarummai	Bukkuyum	Zamfara	12.014	5.468	2	
+Zaura	Nangere	Yobe	11.773	10.884	2	
+Zaranda	Toro	Bauchi	10.397	9.433	2	
+Zaka	Ukum	Benue	7.601	9.602	2	
+Zagwa	Wukari	Taraba	7.709	9.763	2	
+Zaka	Donga	Taraba	7.617	9.902	2	
+Zaki	Gboko	Benue	7.340	9.070	2	
+Zakifura	Buruku	Benue	7.422	9.291	2	
+Zaki	Katsina-Ala	Benue	7.406	9.315	2	
+Zangwa	Buruku	Benue	7.266	9.284	2	
+Zakaa	Gboko	Benue	7.195	9.035	2	
+Zakpe	Ushongo	Benue	7.142	9.041	2	
+Zawua	Buruku	Benue	7.135	9.187	2	
+Zahankaan	Gboko	Benue	7.486	8.810	2	
+Zaki	Gboko	Benue	7.421	8.809	2	
+Zakpe	Gboko	Benue	7.346	8.955	2	
+Zakel	Gboko	Benue	7.360	8.909	2	
+Zanzan	Gboko	Benue	7.304	8.950	2	
+Zaki	Gboko	Benue	7.284	8.830	2	
+Zanchita	Gbako	Niger	9.126	5.930	2	
+Emigi-Zana	Gbako	Niger	9.397	6.002	2	
+Sala-Zagi	Gbako	Niger	9.299	6.052	2	
+Gidan Zana	Gbako	Niger	9.298	6.083	2	
+Zanangphausa	Wushishi	Niger	9.654	6.049	2	
+Gidan Zarumai	Shiroro	Niger	9.955	6.658	2	
+Gidan Zarumai Dongari	Shiroro	Niger	9.874	6.627	2	
+Gidan Zarumai	Shiroro	Niger	9.834	6.734	2	
+Gidan Zarumai	Shiroro	Niger	9.783	6.618	2	
+Gidan Zarumayi	Shiroro	Niger	9.919	6.824	2	
+Gidan Zaria	Shiroro	Niger	9.943	6.771	2	
+G. Zarumayi	Munya	Niger	9.777	6.896	2	
+Gidan Zangkaray	Munya	Niger	9.799	6.980	2	
+Gidan Zarumayi	Munya	Niger	9.708	6.981	2	
+Zazaga	Munya	Niger	9.791	7.038	2	
+Zanzara	Karu	Nasarawa	9.262	7.931	2	
+Zanyo	Mayo-Belwa	Adamawa	8.996	11.873	2	
+Zabi	Mayo-Belwa	Adamawa	8.844	11.926	2	
+Zange	Ardo-Kola	Taraba	8.909	11.272	2	
+Garin Zaki	Gassol	Taraba	8.622	10.752	2	
+Zamar	Wase	Plateau	8.626	10.029	2	
+Zantani	Wase	Plateau	8.930	9.884	2	
+Zambang	Langtang South	Plateau	8.762	9.875	2	
+Zambang	Langtang South	Plateau	8.760	9.889	2	
+Zamtu	Wase	Plateau	8.996	9.951	2	
+Ungwan Madaki Zambur	Sanga	Kaduna	9.184	8.468	2	
+Ungwan Mai-Zanko	Akwanga	Nasarawa	9.016	8.257	2	
+Zanbe	Wukari	Taraba	7.955	10.094	2	
+Zamani Dabo	Zangon Kataf	Kaduna	9.845	8.463	2	
+Ungwan Zango	Kauru	Kaduna	9.916	8.428	2	
+Zansak	Zangon Kataf	Kaduna	9.758	8.301	2	
+Zangan II	Kaura	Kaduna	9.684	8.408	2	
+Zangan I	Kaura	Kaduna	9.680	8.395	2	
+Zauro	Zangon Kataf	Kaduna	9.613	8.291	2	Zauru
+Zazon	Zangon Kataf	Kaduna	9.691	8.191	2	
+Tsofon Zagom	Zangon Kataf	Kaduna	9.746	8.235	2	
+Gidan Zango	Kachia	Kaduna	9.634	8.056	2	
+Zagom	Zangon Kataf	Kaduna	9.852	8.174	2	
+Zagom	Zangon Kataf	Kaduna	9.858	8.203	2	
+Zagom	Zangon Kataf	Kaduna	9.849	8.204	2	
+Zambian	Numan	Adamawa	9.432	11.898	2	
+Zagum	Mayo-Belwa	Adamawa	9.075	11.889	2	
+Zaiwan	Demsa	Adamawa	9.222	11.983	2	
+Zange	Alkaleri	Bauchi	9.744	10.865	2	Jenge
+Zak	Karim Lamido	Taraba	9.349	10.760	2	
+Zaral	Karim Lamido	Taraba	9.469	11.100	2	
+Zanguru	Karim Lamido	Taraba	9.397	11.189	2	
+Ungwan Zabaruma	Birnin Kebbi	Kebbi	12.382	4.225	2	
+Angwan-Zaria	Nasarawa Egon	Nasarawa	8.722	8.681	2	
+Zageyo	Lafia	Nasarawa	8.558	8.744	2	
+Zamgba	Mokwa	Niger	9.443	4.804	2	
+Zaguiana	Moro	Kwara	9.056	4.824	2	
+Gidan Zabutu	Nasarawa	Nasarawa	8.200	8.072	2	Gidan-Zabutu|GidanZabutu
+Zange	Shelleng	Adamawa	9.984	12.187	2	
+Zata	Song	Adamawa	9.703	12.427	2	
+Zambayo	Song	Adamawa	9.706	12.381	2	
+Zange	Song	Adamawa	9.765	12.216	2	
+Zamata	Toto	Nasarawa	8.429	7.273	2	
+Zano	Toto	Nasarawa	8.302	7.136	2	
+Zagia	Toto	Nasarawa	8.452	7.294	2	
+Zangon Kara	Kuje	FCT Abuja	8.714	7.395	2	ZangonKara
+Zabe	Sardauna	Taraba	6.824	10.866	2	
+Zakun-Sarki	Karu	Nasarawa	8.723	7.725	2	
+Zakun-Bello	Nasarawa	Nasarawa	8.668	7.715	2	
+Zabutu	Nasarawa	Nasarawa	8.699	7.668	2	
+Zakwu	Nasarawa	Nasarawa	8.702	7.654	2	
+Zakun-Bello	Karu	Nasarawa	8.732	7.681	2	
+Chabbal Zance	Sardauna	Taraba	6.688	11.541	2	
+Zamko	Langtang North	Plateau	8.975	9.859	2	
+Zamba	Song	Adamawa	9.814	12.316	2	
 Kano-Zaria Highway	Sabon Gari	Kaduna	11.130	7.705	1	
 Zambezi Crescent	Municipal Area Council	FCT Abuja	9.080	7.491	1	
 Zaria GRA Link road	Sabon Gari	Kaduna	11.121	7.715	1	
@@ -394,19 +771,62 @@ Zansi Close	Lagos Mainland	Lagos	6.507	3.386	1
 Kano-Zaria Highway	Kura	Kano	11.755	8.423	1	
 Kano-Zaria Highway	Kura	Kano	11.841	8.516	1	
 Kano-Zaria Highway	Kura	Kano	11.799	8.460	1	
-Kano-Zaria Highway	Kura	Kano	11.774	8.421	1	
 Kano-Zaria Highway	Sabon Gari	Kaduna	11.150	7.742	1	
 Kano-Zaria Highway	Makarfi	Kaduna	11.369	7.968	1	
 Kano-Zaria Highway	Kudan	Kaduna	11.200	7.778	1	
-Kano-Zaria Highway	Kiru	Kano	11.466	8.200	1	
 Zawiyat Crescent	Ado Odo/Ota	Ogun	6.698	3.266	1	
 Zakks Avenue	Enugu South	Enugu	6.420	7.519	1	
 Zaria Street	Enugu East	Enugu	6.481	7.508	1	
 Zaruma Close	Jos North	Plateau	9.960	8.864	1	
-ABU Zaria Sick Bay	Sabon Gari	Kaduna	11.155	7.652	0	
-Zaria High Street	Zaria	Kaduna	11.078	7.710	1	
 Kano-Zaria Highway	Kura	Kano	11.817	8.490	1	
 Zangina Bala Street	Ungongo	Kano	11.976	8.451	1	
+Kano-Zaria Highway	Makarfi	Kaduna	11.263	7.840	1	
+Kano-Zaria Highway	Makarfi	Kaduna	11.339	7.905	1	
+Makurdi to Zaki Biam Road	Ukum	Benue	7.497	9.519	1	
+Makurdi to Zaki Biam Road	Logo	Benue	7.495	9.300	1	
+Zanders Street	Owerri West	Imo	5.451	7.036	1	
+Zainab Crescent	Kosofe	Lagos	6.557	3.382	1	
+Makurdi to Zaki Biam Road	Tarka	Benue	7.636	8.878	1	
+Zakariyya Maimalari Road	Kaduna North	Kaduna	10.576	7.428	1	
+Makurdi to Zaki Biam Road	Gboko	Benue	7.366	9.043	1	
+Hajia Zara Street	Kuje	FCT Abuja	8.883	7.208	1	
+Zaria GRA Link road	Sabon Gari	Kaduna	11.109	7.720	1	
+Alh. Zakwan Miko Street	Ungongo	Kano	11.973	8.442	1	
+Zakaria Maimalari Street	Municipal Area Council	FCT Abuja	9.043	7.484	1	
+Zakaria Maimalari Street	Municipal Area Council	FCT Abuja	9.045	7.485	1	
+Kano-Zaria Highway	Tarauni	Kano	11.966	8.552	1	
+Makurdi to Zaki Biam Road	Markurdi	Benue	7.711	8.656	1	
+Makurdi to Zaki Biam Road	Markurdi	Benue	7.713	8.646	1	
+Makurdi to Zaki Biam Road	Logo	Benue	7.494	9.384	1	
+Makurdi to Zaki Biam Road	Buruku	Benue	7.463	9.210	1	
+Zalanga Street	Bauchi	Bauchi	10.302	9.793	1	
+Zane Nzemeke Close	Oshimili North	Delta	6.178	6.674	1	
+Makurdi to Zaki Biam Road	Logo	Benue	7.498	9.365	1	
+Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.483	9.415	1	
+Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.487	9.445	1	
+Zarewa Primary Health Centre	Rogo	Kano	11.397	7.812	0	
+Zangun Majema Health Post	Karaye	Kano	11.816	8.002	0	
+Zangon Mata Health Post	Dawakin Tofa	Kano	12.233	8.414	0	
+Kafin Zaka Dispensary	Misau	Bauchi	11.493	10.662	0	
+Zaria	Akwanga	Nasarawa	9.025	8.199	0	
+Nuhu Bamalli Polytechnic Zaria	Zaria	Kaduna	11.037	7.674	0	
+Zamani Junior Secondary	Kaduna North	Kaduna	10.543	7.456	0	
+Zafeeroon Global Ventures	Billiri	Gombe	9.870	11.194	0	
+Zafafi Hospital	Sokoto South	Sokoto	13.051	5.239	0	
+Twaidi Zaidi Basic Health Centre	Binji	Sokoto	13.251	4.936	0	
+Zajeri Primary Health Center	Maiduguri	Borno	11.873	13.127	0	
+Zauro Ambrusa General Hospital	Birnin Kebbi	Kebbi	12.497	4.313	0	
+Islamic Medical Foundation Musawa Road Zango	Kaduna South	Kaduna	10.505	7.406	0	
+Zango Road Primary Health Center	Kaduna South	Kaduna	10.503	7.409	0	
+Aman Clinic Makera Cd 35 Zango Road Sabon Gari South	Kaduna South	Kaduna	10.507	7.407	0	
+Zakari Memorial Clinic Primary Health Center	Kaduna North	Kaduna	10.509	7.432	0	
+Zaitun Clinic	Kaduna South	Kaduna	10.520	7.396	0	
+Zaitun Clinic Buwaya	Chikun	Kaduna	10.408	7.406	0	
+Madrasatul Zadul Ma Am Islamiyya	Ungongo	Kano	12.055	8.582	0	
+Zaheera International School	Ungongo	Kano	12.052	8.574	0	
+Zam-Zam Intl School Kano	Gwale	Kano	11.963	8.467	0	
+Zam Zam International School	Gwale	Kano	11.963	8.467	0	
+ABU Zaria Sick Bay	Sabon Gari	Kaduna	11.155	7.652	0	
 Zango Health Post	Minjibir	Kano	12.251	8.700	0	
 Zananne Health Post	Albasu	Kano	11.636	9.256	0	
 Zarogi Health Post	Tsanyawa	Kano	12.248	7.992	0	
@@ -419,34 +839,14 @@ Zango Health Post	Gezawa	Kano	12.093	8.685	0
 Zaura Babba Primary Health Centre	Ungongo	Kano	12.059	8.620	0	
 Zangon Barebari Health Post	Ungongo	Kano	12.070	8.486	0	
 Zabainawar Dansudu Health Post	Minjibir	Kano	12.159	8.511	0	
-Kano-Zaria Highway	Makarfi	Kaduna	11.263	7.840	1	
-Kano-Zaria Highway	Makarfi	Kaduna	11.339	7.905	1	
-Makurdi to Zaki Biam Road	Ukum	Benue	7.497	9.519	1	
-Makurdi to Zaki Biam Road	Logo	Benue	7.495	9.300	1	
 Zaure Dispensary	Damban	Bauchi	11.724	10.784	0	
 Kowa Health Clinic Rimin Zayam	Toro	Bauchi	10.140	9.290	0	
 Mainasara Nursing Home Zimin Zayam	Toro	Bauchi	10.136	9.283	0	
 Zakshi Primary Health Center	Toro	Bauchi	9.941	9.347	0	
 Zari Maku Dispensary	Toro	Bauchi	9.932	9.290	0	
 Zaki Health Center	Bogoro	Bauchi	9.660	9.597	0	
-Zanders Street	Owerri West	Imo	5.451	7.036	1	
-Zaria High street	Zaria	Kaduna	11.095	7.718	1	
-Zainab Crescent	Kosofe	Lagos	6.557	3.382	1	
-Makurdi to Zaki Biam Road	Tarka	Benue	7.636	8.878	1	
 Zakari Isah Memorial Hospital	Kaduna North	Kaduna	10.509	7.432	0	
-Zabayor Street	Oredo	Edo	6.340	5.616	1	
 Zamani College	Kaduna North	Kaduna	10.548	7.468	0	
-Zakariyya Maimalari Road	Kaduna North	Kaduna	10.576	7.428	1	
-Makurdi to Zaki Biam Road	Gboko	Benue	7.366	9.043	1	
-Hajia Zara Street	Kuje	FCT Abuja	8.883	7.208	1	
-Cemetery Road Sabon Gari Zaria	Sabon Gari	Kaduna	11.110	7.738	1	
-Zaria GRA Link road	Sabon Gari	Kaduna	11.109	7.720	1	
-Alh. Zakwan Miko Street	Ungongo	Kano	11.973	8.442	1	
-Zakaria Maimalari Street	Municipal Area Council	FCT Abuja	9.043	7.484	1	
-Zakaria Maimalari Street	Municipal Area Council	FCT Abuja	9.045	7.485	1	
-Kano-Zaria Highway	Tarauni	Kano	11.966	8.552	1	
-Makurdi to Zaki Biam Road	Markurdi	Benue	7.711	8.656	1	
-Makurdi to Zaki Biam Road	Markurdi	Benue	7.713	8.646	1	
 Zawa Chiki Primary Health Centre	Kumbotso	Kano	11.919	8.466	0	
 Ligada Dispensary	Shira	Bauchi	11.397	10.071	0	Zawabari Dispensary
 Model Primary Health Center Zabi	Giade	Bauchi	11.498	10.296	0	
@@ -468,67 +868,4 @@ Zai Dispensary	Yunusari	Yobe	12.959	11.853	0
 Zangaya Dispensary	Fika	Yobe	11.281	11.437	0	
 Zakawon Primary Health Centerc	Larmurde	Adamawa	9.666	11.832	0	
 Dogon Zare Maternity and Child Health Center	Potiskum	Yobe	11.700	11.086	0	
-Makurdi to Zaki Biam Road	Logo	Benue	7.494	9.384	1	
-Makurdi to Zaki Biam Road	Buruku	Benue	7.463	9.210	1	
-Zalanga Street	Bauchi	Bauchi	10.302	9.793	1	
-Zane Nzemeke Close	Oshimili North	Delta	6.178	6.674	1	
 Zainab bulkachuwa women & children hospital	Gombe	Gombe	10.293	11.181	0	
-Makurdi to Zaki Biam Road	Logo	Benue	7.498	9.365	1	
-Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.483	9.415	1	
-Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.487	9.445	1	
-Zangaya Mazawaun	Fika	Yobe	11.262	11.496	2	
-Zango	Barde	Yobe	12.872	11.059	2	
-Zabudum Dachia	Yunusari	Yobe	13.072	11.827	2	
-Zabudum Dachia	Jakusko	Yobe	12.729	10.798	2	
-Zarada	Gagarawa	Jigawa	12.549	9.473	2	
-Zareku	Miga	Jigawa	12.190	9.794	2	
-Zauma	Gwiwa	Jigawa	12.695	8.345	2	
-Zango	Gumel	Jigawa	12.624	9.406	2	
-Zauma	Bukkuyum	Zamfara	12.231	5.429	2	
-Barayar Zaki	Anka	Zamfara	12.186	5.758	2	
-Zarummai	Bukkuyum	Zamfara	12.022	5.478	2	
-Sarkin Zamfara B	Sokoto South	Sokoto	13.045	5.230	2	
-Kashin Zama	Aleiro	Kebbi	12.377	4.478	2	
-Zaria Amiru	Koko-Besse	Kebbi	11.306	4.243	2	
-Zauro	Birnin Kebbi	Kebbi	12.501	4.282	2	
-Zagga Kwasara	Bagudo	Kebbi	11.546	4.099	2	
-Zamare	Yauri	Kebbi	10.745	4.733	2	
-Zazzagawa	Argungu	Kebbi	12.737	4.390	2	
-Zangon Aya	Igabi	Kaduna	10.934	7.695	2	
-Zabi	Sabon Gari	Kaduna	11.153	7.755	2	
-Zango Urban	Zangon Kataf	Kaduna	9.837	8.407	2	
-Zankan	Kaura	Kaduna	9.623	8.531	2	
-Zabi	Kudan	Kaduna	11.287	7.727	2	
-Zaman Dabo	Zangon Kataf	Kaduna	9.852	8.462	2	
-Zaria	Zaria	Kaduna	11.025	7.652	2	
-Zabi	Kubau	Kaduna	10.722	8.139	2	
-Zangon Kataf	Zangon Kataf	Kaduna	9.897	8.258	2	
-Zango	Rimin Gado	Kano	11.999	8.274	2	
-Zarewa	Rogo	Kano	11.410	7.800	2	
-Zakarawa	Garko	Kano	11.573	8.829	2	
-Zarogi	Tsanyawa	Kano	12.233	7.984	2	
-Zango	Kano Municipal	Kano	12.000	8.525	2	
-Zango	Ungongo	Kano	12.045	8.575	2	
-Zango	Gezawa	Kano	12.074	8.700	2	
-Rijiyar Zaki	Ungongo	Kano	11.984	8.440	2	
-Zakka B	Safana	Katsina	12.587	7.294	2	
-Zango	Zango	Katsina	12.954	8.545	2	
-Zango	Zango	Katsina	13.050	8.513	2	
-Zakka A	Safana	Katsina	12.632	7.361	2	
-Zango	Kankara	Katsina	11.972	7.249	2	
-Zari	Mobbar	Borno	13.112	12.728	2	
-Zara	Bayo	Borno	10.706	11.784	2	
-Zageri	Bama	Borno	11.691	14.174	2	
-Zaga Ngalori	Marte	Borno	12.532	13.926	2	
-Hausari Zadawa	Askira-Uba	Borno	10.627	12.869	2	
-Zangebe	Mafa	Borno	12.033	13.651	2	
-Zago Kura	Kafin Hausa	Jigawa	12.053	10.034	2	
-Zainabi	Doguwa	Kano	10.844	8.709	2	
-Zaura	Damban	Bauchi	11.758	10.863	2	
-Zandam Nagogo	Gwaram	Jigawa	11.300	9.832	2	
-Zabi	Giade	Bauchi	11.488	10.310	2	
-Zaranda	Toro	Bauchi	10.282	9.400	2	
-Zalau	Toro	Bauchi	10.401	9.026	2	
-Zadawa	Misau	Bauchi	11.427	10.353	2	
-Zaki	Zaki	Bauchi	12.187	10.245	2	
-Zarawuyaku	Biu	Borno	10.667	12.224	2	

@@ -1,3 +1,10 @@
+Afaha Offiong	Nsit Ibom	Akwa Ibom	4.871	7.908	3	Afaha Obio Offiong;Afaha Obio Ofiong
+Ijagbo Offa	Offa	Kwara	8.156	4.723	3	
+Urue Offong	Urue Offong/Oruko	Akwa Ibom	4.752	8.166	3	
+Offa, Nigeria	Offa	Kwara	8.139	4.717	3	
+Offa	Offa	Kwara	8.149	4.721	3	
+Iyana-Ofa	Lagelu	Oyo	7.502	4.082	3	Iyana-Offa
+Eyofin	Udung Uko	Akwa Ibom	4.752	8.231	3	Eyo-Ofin
 Ofokopi	Ofu	Kogi	7.279	6.974	2	
 Ofoni	Patani	Delta	5.100	6.050	2	Afoni
 Ofunyeonu	Izzi	Ebonyi	6.381	8.383	2	
@@ -12,7 +19,6 @@ Ofunatam	Ikom	Cross River	6.149	8.459	2	Afunatam;Afuntam
 Ikot Offiong	Akpabuyo	Cross River	4.933	8.421	2	Ikot Offiong Ambai;Ikot Offiong Mbia
 Ofada	Obafemi Owode	Ogun	6.863	3.429	2	
 Oforachi	Igalamela-Odolu	Kogi	7.093	6.874	2	Oforochi
-Afaha Offiong	Nsit Ibom	Akwa Ibom	4.871	7.908	3	Afaha Obio Offiong;Afaha Obio Ofiong
 Ofianko	Izzi	Ebonyi	6.708	8.252	2	
 Ofunmi	Ifelodun	Kwara	8.424	5.010	2	
 Ikot-Offiong	Itu	Akwa Ibom	5.157	8.059	2	Oku Iboku
@@ -28,7 +34,6 @@ Ovoko	Igbo-Eze-South	Enugu	6.886	7.458	2	Ofoko
 Ofagbe	Isoko North	Delta	5.552	6.345	2	
 Oforekpe	Izzi	Ebonyi	6.575	8.245	2	Oferekpe;Oforekpe Agbaja
 Ofe-Iyiokwu	Abakaliki	Ebonyi	6.311	8.105	2	
-Ijagbo Offa	Offa	Kwara	8.156	4.723	3	
 Offorboko	Akuku Toru	Rivers	4.436	6.661	2	
 Ofalubagbene	Southern Ijaw	Bayelsa	4.552	5.700	2	Urhobo Settlement;Leigbene
 Ofinada	Asa	Kwara	8.267	4.483	2	Ofiada
@@ -36,48 +41,130 @@ Ofere	Kabba/Bunu	Kogi	8.183	6.150	2	Offere
 Ofuogbene	Burutu	Delta	5.304	5.451	2	Ofogbene
 Ovwori	Okpe	Delta	5.787	5.798	2	Ofori
 Ogba Ofu Quarters	Ukwuani	Delta	5.850	6.150	2	
-Shopping Complex & Offices	Oredo	Edo	6.338	5.612	0	
 Custom Officers Mess	Fagge	Kano	12.032	8.520	2	
 Officer's Quaters	Jere	Borno	11.897	13.112	2	
 Ofanwa	Dekina	Kogi	7.544	7.426	2	
 Ofonwa	Dekina	Kogi	7.544	7.426	2	
 Ikot Offiong	Essien Udim	Akwa Ibom	5.115	7.666	2	
-Offa Railway	Oyun	Kwara	8.155	4.727	0	
-Ofugo-Inye road	Ankpa	Kogi	7.511	7.670	0	
-Epid Unit Offices	Sokoto South	Sokoto	13.050	5.246	0	
-Warrant Officers Academy	Igabi	Kaduna	10.813	7.546	0	
-st. collemciles primary school. ofin	Shagamu	Ogun	6.847	3.655	0	
-St. Collemciles Primary School. Ofin	Ado Odo/Ota	Ogun	6.609	2.994	0	
-St. Paul Primary School, Alagbo Ofin	Ado Odo/Ota	Ogun	6.604	3.067	0	
-Ansar U Deen Primary School, Ofin Sagamu	Shagamu	Ogun	6.851	3.656	0	
-St. Paul Primary School, Alagbo Ofin	Shagamu	Ogun	6.846	3.648	0	
 Ofonibagha	Sagbama	Bayelsa	5.313	6.491	2	
-Oluyoro Catholic Hospital, Oke Ofa, Ibadan	Ibadan North East	Oyo	7.388	3.920	0	
-As-salam Medical Centre, Office bus-stop Sasa	Akinyele	Oyo	7.486	3.914	0	
 Oforola	Owerri West	Imo	5.422	6.927	2	
 Ofuoma	Ughelli North	Delta	5.568	6.030	2	
-St. George's RCM Primary School, Ofatedo	Egbedore	Osun	7.781	4.503	0	
-Urue Offong	Urue Offong/Oruko	Akwa Ibom	4.752	8.166	3	
 Ofat	Obubra	Cross River	5.957	8.256	2	
-HOD office	Gombe	Gombe	10.306	11.175	0	
-Geology Visiting lecturers Office	Gombe	Gombe	10.305	11.175	0	
-44 Army Hospital No13 Abba Road Off Lea Primary School Kagoro Road	Kaduna North	Kaduna	10.557	7.441	0	
-General Hospital Marafa Close Off Independence Way Marafa	Kaduna North	Kaduna	10.514	7.441	0	
-Primary Health Care Off Sarki Street Opp Bahago School Rido	Chikun	Kaduna	10.401	7.498	0	
-Ore Ofe Hospital Ijanikin	Ojo	Lagos	6.495	3.126	0	
-Primary Health Center Ese Ofin Riverine	Ojo	Lagos	6.444	3.147	0	
 Ofoni	Sagbama	Bayelsa	5.121	5.978	2	
-Offin, Ikorodu	Ìkòròdú	Lagos	6.539	3.501	0	
-Ese Ofin	Ojo	Lagos	6.450	3.144	0	
-St Anthony School, Office Road, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.572	0	
-Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
-St. Joseph Centenary Catholic College, Office Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.571	0	
-Offas Garage Roundabout, Oko Erin, Nigeria	Ilorin East	Kwara	8.453	4.581	0	
-Offa, Nigeria	Offa	Kwara	8.139	4.717	3	
-Charis Shopping Complex, Post Office, Ilorin, Nigeria	Ilorin East	Kwara	8.488	4.563	0	
-Roemichs international school Ajase-Ipo Road, Offa Garage, Ilorin	Ilorin East	Kwara	8.459	4.576	0	
-Off Airport Junction	Municipal Area Council	FCT Abuja	9.056	7.412	0	
-The Bridge Office	Municipal Area Council	FCT Abuja	9.105	7.485	0	
+Offatedo	Egbedore	Osun	7.779	4.485	2	
+Urue Offong/Oruko	Urue Offong/Oruko	Akwa Ibom	4.722	8.169	2	
+Ofu	Ofu	Kogi	7.329	7.069	2	
+Offa	Offa	Kwara	8.165	4.687	2	
+Use Offot	Uyo	Akwa Ibom	5.023	7.971	2	
+Usaka-Umu-Ofo	Obi Ngwa	Abia	5.297	7.511	2	
+Umu-Ezeala Ofor	Nwangele	Imo	5.708	7.150	2	Umu-Ezoalo-Ofor
+Udung Offiong	Okobo	Akwa Ibom	4.738	8.072	2	
+Owode	Ifelodun	Kwara	8.374	5.092	2	Ofaro|Oforo
+Owa-Ofie	Ika North East	Delta	6.206	6.178	2	
+Ofugo	Ankpa	Kogi	7.560	7.624	2	Otugo
+Otere-Ofie	Ebonyi	Ebonyi	6.395	8.067	2	
+Ogba-Ofu Quarters	Ukwuani	Delta	5.855	6.155	2	
+Ofurekpe	Ikwo	Ebonyi	6.180	8.312	2	
+Ofunmengbe	Ovia North-East	Edo	6.773	5.445	2	
+Ofosu	Idanre	Ondo	6.756	5.140	2	
+Ofoniama	Kolokuma/Opokuma	Bayelsa	5.158	6.367	2	
+Ofonbonga	Obubra	Cross River	6.114	8.429	2	
+Ofoko-Koto	Kogi	Kogi	8.302	6.854	2	Ofoko Koto|OfokoKoto
+Ofoko-Gwari	Kogi	Kogi	8.309	6.867	2	Ofoko Gwari|OfokoGwari
+Ofokofi	Ofu	Kogi	7.279	6.974	2	
+Ofo-Ape	Odeda	Ogun	7.318	3.275	2	Ofo Ape
+Ofin	Ìkòròdú	Lagos	6.540	3.500	2	Awfin
+Ofiki-Ope	Ibarapa Central	Oyo	7.470	3.207	2	Ofiki Ope
+Ofiki	Atisbo	Oyo	8.444	3.333	2	
+Ofiaokuma	Izzi	Ebonyi	6.392	8.281	2	
+Ofia Ekpone	Warri South	Delta	5.729	5.619	2	
+Offot	Oruk Anam	Akwa Ibom	4.717	7.619	2	
+Offorsuokiri	Akuku Toru	Rivers	4.421	6.681	2	
+Offi Uda	Mbo	Akwa Ibom	4.645	8.205	2	
+Offa-Igbo	Lagelu	Oyo	7.510	4.114	2	Awfa-Igbo|Offa Igbo
+Offa	Ogo Oluwa	Oyo	7.970	4.314	2	
+Oforekpe	Izzi	Ebonyi	6.552	8.238	2	Oferekpe|Oforekpe Agbaja
+Oferekpe	Yakurr	Cross River	5.913	8.115	2	
+Ofeku	Ede South	Osun	7.631	4.442	2	
+Ofe	Atiba	Oyo	8.132	3.915	2	
+Ofe	Ibarapa East	Oyo	7.533	3.481	2	
+Ofatura	Obubra	Cross River	5.995	8.275	2	
+Ofatedo	Egbedore	Osun	7.780	4.500	2	
+Ofante	Olamaboro	Kogi	7.105	7.517	2	
+Ofanran	Obafemi Owode	Ogun	7.034	3.554	2	
+Ofambe	Obudu	Cross River	6.467	9.037	2	
+Ofafu	Igalamela-Odolu	Kogi	7.173	7.207	2	
+Ofa	Ogo Oluwa	Oyo	7.985	4.232	2	
+Ofa	Ogo Oluwa	Oyo	7.897	4.098	2	
+Oba-Offa	Ola Oluwa	Osun	7.797	4.263	2	Oba Offa|ObaOffa
+Nsukara-Offot	Uyo	Akwa Ibom	5.027	7.988	2	
+Ndi Offia	Izzi	Ebonyi	6.405	8.222	2	
+Iya-Offa	Akinyele	Oyo	7.636	3.958	2	Iya Offa|IyaOffa
+Ikot-Offon	Ini	Akwa Ibom	5.408	7.725	2	
+Ikot Offiong	Odukpani	Cross River	5.317	7.900	2	
+Ikot Offiong	Oruk Anam	Akwa Ibom	4.835	7.701	2	
+Ijagbo-Offa	Oyun	Kwara	8.173	4.735	2	Ijagbo|Ijagbo Offa
+Idi-Ofe	Ado Odo/Ota	Ogun	6.607	2.989	2	Idi Ofe|Idi-Off
+Idebe Offiong Umo	Akpabuyo	Cross River	4.847	8.441	2	
+Ahere-Offa	Surulere	Oyo	8.108	4.333	2	Ahere Offa
+Afaha Offot	Uyo	Akwa Ibom	5.026	7.907	2	
+Ofodo	Akinyele	Oyo	7.512	3.971	2	
+Offor	Akuku Toru	Rivers	4.434	6.647	2	
+Ofamo	Degema	Rivers	4.382	6.960	2	Otama
+Ofosun	Idanre	Ondo	7.061	5.228	2	
+Ofin	Adó-Èkìtì	Ekiti	7.667	5.244	2	
+Ofale	Ijero	Ekiti	7.959	5.051	2	
+Ikot Offiong Ebe	Odukpani	Cross River	5.121	8.167	2	
+Ofafuk	Ikom	Cross River	6.170	8.495	2	
+Ofofadim	Ikom	Cross River	6.162	8.444	2	
+Ofumana	Ikwo	Ebonyi	6.160	8.335	2	
+Ofunikpangha	Obubra	Cross River	6.059	8.396	2	
+Ofurekpe	Ikwo	Ebonyi	6.042	8.267	2	
+Osu Ofi	Urue Offong/Oruko	Akwa Ibom	4.754	8.182	2	
+Ovade-Ofo	Ethiope West	Delta	5.801	5.798	2	
+Ikot-Offiong	Ini	Akwa Ibom	5.409	7.657	2	
+Offiong Eto	Obot Akara	Akwa Ibom	5.230	7.628	2	Ofiong Eto
+Ukana Ikot Ofok	Essien Udim	Akwa Ibom	5.111	7.742	2	
+Ikot Akpan Ofiong	Ika	Akwa Ibom	5.054	7.540	2	
+Ibiaku Offot	Uyo	Akwa Ibom	5.026	7.968	2	
+Aka Ofot	Uyo	Akwa Ibom	5.023	7.925	2	
+Iboko Offot	Uyo	Akwa Ibom	5.030	7.921	2	
+Efiat Ofot	Uyo	Akwa Ibom	5.023	7.918	2	
+Obio Offot	Uyo	Akwa Ibom	5.015	7.870	2	
+Ofuoma	Ughelli North	Delta	5.564	6.030	2	
+Ofogbogbene	Sagbama	Bayelsa	5.225	6.252	2	
+Ofouigbene	Sagbama	Bayelsa	5.066	6.121	2	
+Ofonibiri	Kolokuma/Opokuma	Bayelsa	5.071	6.279	2	
+Adia Wati-Ofu	Ogba/Egbema/Ndoni	Rivers	5.428	6.540	2	
+Ofu	Ofu	Kogi	7.303	7.038	2	Agbegbe Ijoba Ibile Ofu
+Offa	Offa	Kwara	8.143	4.688	2	Offa Local Government Area
+Ofehe	Obi	Benue	7.042	8.213	2	
+Ofianfu	Izzi	Ebonyi	6.361	8.251	2	
+Ofiaoku	Abakaliki	Ebonyi	6.306	8.298	2	
+Ofonbong	Obubra	Cross River	6.090	8.359	2	
+Ofonekom	Obubra	Cross River	6.214	8.422	2	
+Ofonagama	Obubra	Cross River	6.127	8.380	2	
+Baiyeku Oreta Offin	Ìkòròdú	Lagos	6.535	3.516	2	
+Ofuo Camp	Warri South-West	Delta	5.466	5.432	2	
+Offa	Abeokuta North	Ogun	7.235	3.269	2	
+Ofeku	Atakunmosa West	Osun	7.661	4.575	2	
+Ofa	Yewa South	Ogun	6.766	2.948	2	
+Ogwa-Ofara	Okitipupa	Ondo	6.427	4.708	2	
+Ofa	Ori Ire	Oyo	8.024	4.058	2	
+Offa	Surulere	Oyo	8.029	4.412	2	
+Ago-Offa	Surulere	Oyo	8.010	4.372	2	
+Ofiki	Ibarapa North	Oyo	7.629	3.206	2	
+Ago-Offa	Offa	Kwara	8.176	4.670	2	
+Ago-Offa	Oyun	Kwara	8.118	4.582	2	
+Ago-Offa	Oyun	Kwara	8.084	4.744	2	
+Ofuku	Asa	Kwara	8.333	4.575	2	
+Rudu-Ofo	Toto	Nasarawa	8.305	7.218	2	
+Ofu	Toto	Nasarawa	8.424	7.225	2	
+Ofijanran	Lagelu	Oyo	7.507	4.030	2	
+Ofogun	Akinyele	Oyo	7.601	4.026	2	
+Ofodo	Akinyele	Oyo	7.610	4.011	2	
+Ofijanran	Lagelu	Oyo	7.592	4.067	2	
+Ofa	Ogo Oluwa	Oyo	8.003	4.156	2	
 Ofrima Roundabout	Obio/Akpor	Rivers	4.903	6.921	1	
 2nd Ofumwengbe Street	Oredo	Edo	6.349	5.626	1	
 Ofumwen Street	Oredo	Edo	6.351	5.626	1	
@@ -97,7 +184,6 @@ Post Office Road	Fagge	Kano	12.004	8.537	1
 Offa road	Ilorin East	Kwara	8.488	4.566	1	
 Idemudia Street Off Market Road	Egor	Edo	6.365	5.585	1	
 Okpamen Lane Off Palace Road	Egor	Edo	6.364	5.582	1	
-Okungbowa Street Off Useh Market Road	Egor	Edo	6.364	5.584	1	
 St. Jame's Street Off Okpamen Lane	Egor	Edo	6.365	5.582	1	
 Ijaiye Road	Ifako/Ijaye	Lagos	6.667	3.287	1	Post Office Road
 Ofo Street	Kosofe	Lagos	6.575	3.375	1	
@@ -117,17 +203,12 @@ Anayo Offor Street	Enugu North	Enugu	6.473	7.485	1
 NABTEB South East Zonal Office	Enugu North	Enugu	6.437	7.505	1	
 Ofokaire Street	Oshodi/Isolo	Lagos	6.505	3.304	1	
 Emmanuel Offor Street	Oshodi/Isolo	Lagos	6.493	3.294	1	
-Security Office	Ungongo	Kano	11.968	8.429	0	
-National Polio Immunization Office	Zaki	Bauchi	12.284	10.345	0	Town Maternity
-National Polio Immunization Office Itas	Itas/Gadau	Bauchi	11.853	9.963	0	
 Office Depot Street	Eti Osa	Lagos	6.470	3.657	1	
 Ofatedo Road	Egbedore	Osun	7.759	4.460	1	
 Obi Ofala Street	Ungongo	Kano	11.969	8.433	1	
-Offatedo	Egbedore	Osun	7.779	4.485	2	
 Koko-Atanda-Offa Road	Ifelodun	Kwara	8.313	4.726	1	
 Issac-Iboh Ofu Street	Eti Osa	Lagos	6.470	3.575	1	
 Oke-Ofa	Oye	Ekiti	7.793	5.295	1	
-Federal University Dutsin Ma - Take off Campus	Dutsin Ma	Katsina	12.473	7.483	0	
 Umuezie/Ofeama Road	Aboh-Mbaise	Imo	5.498	7.196	1	
 Umuezie Primary School/Ofeama Road Aboh Mbaise	Aboh-Mbaise	Imo	5.498	7.198	1	
 Chibo Ofodile Close	Eti Osa	Lagos	6.459	3.476	1	
@@ -141,16 +222,46 @@ Post Office Road	Akure South	Ondo	7.253	5.194	1
 Ikot Ekong/Akpang Offop Road Odot Akwa Ibom	Nsit Atai	Akwa Ibom	4.808	8.039	1	
 Offia Ndiofutu Road	Ikwo	Ebonyi	6.164	8.299	1	
 Igbogbo-Oreta-Ofin Road	Ìkòròdú	Lagos	6.581	3.523	1	
-Offin Oreta Road	Ìkòròdú	Lagos	6.536	3.510	1	
-National Polio Immunization Office	Gamawa	Bauchi	12.133	10.534	0	
-OFFA OWODE MARKET	Oyun	Kwara	8.158	4.724	0	
-Secondary Technical School, Ofeme (SETESCO)	Umuahia North	Abia	5.640	7.435	0	
 Officer Street	Udu	Delta	5.445	5.849	1	
 Office Street	Amuwo Odofin	Lagos	6.459	3.305	1	
 Ofegwu Street	Oshimili North	Delta	6.165	6.613	1	
-casher office	Langtang North	Plateau	9.187	9.878	0	
 Offugbo Street	Yenegoa	Bayelsa	4.873	6.216	1	
-Sir Emeka Offor Medical Ward	Nnewi North	Anambra	5.998	6.880	0	
-Urue Offong/Oruko	Urue Offong/Oruko	Akwa Ibom	4.722	8.169	2	
-Ofu	Ofu	Kogi	7.329	7.069	2	
-Offa	Offa	Kwara	8.165	4.687	2	
+Shopping Complex & Offices	Oredo	Edo	6.338	5.612	0	
+Offa Railway	Oyun	Kwara	8.155	4.727	0	
+Ofugo-Inye road	Ankpa	Kogi	7.511	7.670	0	
+Epid Unit Offices	Sokoto South	Sokoto	13.050	5.246	0	
+Warrant Officers Academy	Igabi	Kaduna	10.813	7.546	0	
+st. collemciles primary school. ofin	Shagamu	Ogun	6.847	3.655	0	
+St. Collemciles Primary School. Ofin	Ado Odo/Ota	Ogun	6.609	2.994	0	
+St. Paul Primary School, Alagbo Ofin	Ado Odo/Ota	Ogun	6.604	3.067	0	
+Ansar U Deen Primary School, Ofin Sagamu	Shagamu	Ogun	6.851	3.656	0	
+St. Paul Primary School, Alagbo Ofin	Shagamu	Ogun	6.846	3.648	0	
+Oluyoro Catholic Hospital, Oke Ofa, Ibadan	Ibadan North East	Oyo	7.388	3.920	0	
+As-salam Medical Centre, Office bus-stop Sasa	Akinyele	Oyo	7.486	3.914	0	
+St. George's RCM Primary School, Ofatedo	Egbedore	Osun	7.781	4.503	0	
+HOD office	Gombe	Gombe	10.306	11.175	0	
+Geology Visiting lecturers Office	Gombe	Gombe	10.305	11.175	0	
+44 Army Hospital No13 Abba Road Off Lea Primary School Kagoro Road	Kaduna North	Kaduna	10.557	7.441	0	
+General Hospital Marafa Close Off Independence Way Marafa	Kaduna North	Kaduna	10.514	7.441	0	
+Primary Health Care Off Sarki Street Opp Bahago School Rido	Chikun	Kaduna	10.401	7.498	0	
+Ore Ofe Hospital Ijanikin	Ojo	Lagos	6.495	3.126	0	
+Primary Health Center Ese Ofin Riverine	Ojo	Lagos	6.444	3.147	0	
+Offin, Ikorodu	Ìkòròdú	Lagos	6.539	3.501	0	
+Ese Ofin	Ojo	Lagos	6.450	3.144	0	
+St Anthony School, Office Road, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.572	0	
+Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
+St. Joseph Centenary Catholic College, Office Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.571	0	
+Offas Garage Roundabout, Oko Erin, Nigeria	Ilorin East	Kwara	8.453	4.581	0	
+Charis Shopping Complex, Post Office, Ilorin, Nigeria	Ilorin East	Kwara	8.488	4.563	0	
+Roemichs international school Ajase-Ipo Road, Offa Garage, Ilorin	Ilorin East	Kwara	8.459	4.576	0	
+Off Airport Junction	Municipal Area Council	FCT Abuja	9.056	7.412	0	
+The Bridge Office	Municipal Area Council	FCT Abuja	9.105	7.485	0	
+Security Office	Ungongo	Kano	11.968	8.429	0	
+National Polio Immunization Office	Zaki	Bauchi	12.284	10.345	0	Town Maternity
+National Polio Immunization Office Itas	Itas/Gadau	Bauchi	11.853	9.963	0	
+Federal University Dutsin Ma - Take off Campus	Dutsin Ma	Katsina	12.473	7.483	0	
+National Polio Immunization Office	Gamawa	Bauchi	12.133	10.534	0	
+Offa Owode Market	Oyun	Kwara	8.158	4.724	0	
+Secondary Technical School, Ofeme (SETESCO)	Umuahia North	Abia	5.640	7.435	0	
+casher office	Langtang North	Plateau	9.187	9.878	0	
+Sir Emeka Offor Medical	Nnewi North	Anambra	5.998	6.880	0	

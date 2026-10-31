@@ -1,12 +1,78 @@
-Cliffosa Motor Park	Oredo	Edo	6.347	5.624	0	
-Hiltops Clinics	Enugu East	Enugu	6.474	7.501	0	
-Hansa Clinics	Enugu North	Enugu	6.430	7.496	0	
-Trisa Clinics	Enugu North	Enugu	6.440	7.511	0	
 Kusha Kucha Clan	Gwoza	Borno	11.224	13.895	2	
 Surdewala Clan	Gwoza	Borno	11.235	13.880	2	
 Warrabe Clan	Gwoza	Borno	11.184	13.755	2	
 Wija Clan	Gwoza	Borno	11.191	13.811	2	
-CLINIQUE FIFATIN	Ipokia	Ogun	6.646	2.744	0	
+Mezeo Clan	Michika	Adamawa	10.555	13.388	2	
+Ijiegwu maa clan	Yala	Cross River	6.824	8.870	2	
+Futu Clan	Michika	Adamawa	10.568	13.453	2	Futu
+Orubou	Ekeremor	Bayelsa	4.932	5.690	2	Clarks-Camp
+Agumbagwa Clan	Gwoza	Borno	11.205	13.830	2	
+Hidazoka Clan	Gwoza	Borno	11.176	13.802	2	
+Bokko Sato Clan	Gwoza	Borno	11.143	13.795	2	
+Halawa Agapalawa Clan	Gwoza	Borno	11.105	13.813	2	
+Jibrile Clan	Gwoza	Borno	11.089	13.838	2	
+Walla Gawva Clan	Gwoza	Borno	11.154	13.744	2	
+Luhuva Clan	Gwoza	Borno	11.135	13.725	2	
+Bokko Tinta Clan	Gwoza	Borno	11.180	13.760	2	
+Ngoshe Clan	Gwoza	Borno	11.131	13.781	2	
+Arbokko Clan	Gwoza	Borno	11.069	13.797	2	
+Horessa Clan	Gwoza	Borno	11.026	13.762	2	
+Vadagum Clan	Gwoza	Borno	11.028	13.666	2	
+Futu Les Clan	Michika	Adamawa	10.603	13.458	2	Futu-Les Clan
+Futudu Clan	Michika	Adamawa	10.547	13.474	2	
+Nde Clan	Ikom	Cross River	6.090	8.664	2	
+Umuaru Clan	Ezza North	Ebonyi	6.289	8.055	2	
+Igbagu Clan	Izzi	Ebonyi	6.347	8.291	2	
+Clementkiri	Nembe	Bayelsa	4.421	6.346	2	
+Saki Clan Settlement	Saki West	Oyo	8.620	3.411	2	
+Bill Clinton Drive	Municipal Area Council	FCT Abuja	8.978	7.261	1	
+Social Club Road	Ifako/Ijaye	Lagos	6.654	3.308	1	
+Ikoyi Club Road	Eti Osa	Lagos	6.453	3.428	1	Mulliner Road
+Club Road	Kaduna North	Kaduna	10.530	7.444	1	
+Prince Clifford Street	Oredo	Edo	6.303	5.596	1	
+Clegg Street	Surulere	Lagos	6.507	3.361	1	
+Duro Cl	Shomolu	Lagos	6.536	3.380	1	
+Adediran Cl	Alimosho	Lagos	6.594	3.298	1	
+Club road	Nassarawa	Kano	12.013	8.550	1	
+Club Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.111	7.731	1	
+Clarkson Street	Uvwie	Delta	5.560	5.754	1	
+Gen Clark Close	Udu	Delta	5.542	5.785	1	
+Dr Clement Isong	Municipal Area Council	FCT Abuja	9.057	7.529	1	
+Soga Tikare Cl	Kosofe	Lagos	6.589	3.405	1	
+Udo Club Close	Enugu South	Enugu	6.397	7.499	1	
+Udo Club Street	Enugu South	Enugu	6.396	7.499	1	
+Clement Nnakwe Street	Enugu East	Enugu	6.486	7.514	1	
+Clifford Street	Enugu North	Enugu	6.431	7.483	1	
+Clenz Metals Street	Enugu North	Enugu	6.462	7.547	1	
+Club Avenue	Enugu North	Enugu	6.447	7.487	1	
+Clemany Drive	Enugu North	Enugu	6.438	7.528	1	
+Chief Cletus Nnaji Street	Enugu East	Enugu	6.494	7.517	1	
+Clement Ifedioranma Street	Enugu North	Enugu	6.464	7.578	1	
+Clifford Nnaji Crescent	Enugu East	Enugu	6.509	7.504	1	
+Olisaemeka Ezeaku Cls	Enugu East	Enugu	6.480	7.486	1	
+Ikorodu Club Avenue	Ìkòròdú	Lagos	6.606	3.507	1	
+Cletus Adodu Avenue	Eti Osa	Lagos	6.471	3.662	1	
+Club Rd	Shomolu	Lagos	6.519	3.379	1	
+Adejumo Tennis Club Road	Oshodi/Isolo	Lagos	6.541	3.310	1	
+maris clos	Obio/Akpor	Rivers	4.878	6.995	1	
+Clover Road	Eti Osa	Lagos	6.463	3.514	1	
+Orio world cl.	Owerri Municipal	Imo	5.484	7.012	1	
+Sugar Cl.	Owerri Municipal	Imo	5.483	7.013	1	
+Clerks Alley	Calabar Municipal	Cross River	4.956	8.321	1	
+Clem Road	Ifako/Ijaye	Lagos	6.672	3.285	1	
+Sere Ejembi Cl	Kosofe	Lagos	6.627	3.367	1	
+Akintola Cl	Kosofe	Lagos	6.601	3.394	1	
+Chief Clement Eke Street	Obio/Akpor	Rivers	4.826	7.059	1	
+Clem Road	Ifako/Ijaye	Lagos	6.672	3.287	1	
+Clover Road	Eti Osa	Lagos	6.446	3.560	1	
+Bill Clinton Drive	Municipal Area Council	FCT Abuja	9.002	7.280	1	
+Bill Clinton Drive	Municipal Area Council	FCT Abuja	8.991	7.272	1	
+Chief Clement Ogu Avenue	Owerri Municipal	Imo	5.468	7.050	1	
+Cliffosa Motor Park	Oredo	Edo	6.347	5.624	0	
+Hiltops Clinics	Enugu East	Enugu	6.474	7.501	0	
+Hansa Clinics	Enugu North	Enugu	6.430	7.496	0	
+Trisa Clinics	Enugu North	Enugu	6.440	7.511	0	
+Clinique Fifatin	Ipokia	Ogun	6.646	2.744	0	
 Clinique La paix	Ipokia	Ogun	6.538	2.732	0	
 Gilgal Dental Clinics	Eti Osa	Lagos	6.448	3.430	0	
 Classical Int.  School	Warri South	Delta	5.522	5.761	0	
@@ -31,62 +97,17 @@ Debof Clinicks Ltd	Mushin	Lagos	6.538	3.345	0
 Saint Claire Hospital Ltd	Mushin	Lagos	6.537	3.340	0	
 St Clements Hospital	Amuwo Odofin	Lagos	6.465	3.287	0	
 Optimum Diagnostics & Clinical Services	Bauchi	Bauchi	10.320	9.828	0	
-FIRST CLASS CLINIC AND MATERNITY	Gwale	Kano	11.963	8.480	0	
+First Class Clinic And Maternity	Gwale	Kano	11.963	8.480	0	
 Al Ihsan Clinics and Surgery	Tarauni	Kano	11.946	8.558	0	
 boat club (ikoyi)	Eti Osa	Lagos	6.443	3.409	0	
 Clara School	Municipal Area Council	FCT Abuja	9.031	7.586	0	
 Evergreen Clinics & Maternity	Municipal Area Council	FCT Abuja	9.032	7.588	0	
-Bill Clinton Drive	Municipal Area Council	FCT Abuja	8.978	7.261	1	
-Social Club Road	Ifako/Ijaye	Lagos	6.654	3.308	1	
-Ikoyi Club Road	Eti Osa	Lagos	6.453	3.428	1	Mulliner Road
-Club Road	Kaduna North	Kaduna	10.530	7.444	1	
-Prince Clifford Street	Oredo	Edo	6.303	5.596	1	
-Clegg Street	Surulere	Lagos	6.507	3.361	1	
-Duro Cl	Shomolu	Lagos	6.536	3.380	1	
-Clegg Street	Surulere	Lagos	6.509	3.366	1	
-Adediran Cl	Alimosho	Lagos	6.594	3.298	1	
-Club road	Nassarawa	Kano	12.013	8.550	1	
-Club Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.111	7.731	1	
 Faith classic Group of schools	Egor	Edo	6.380	5.633	0	
-Clarkson Street	Uvwie	Delta	5.560	5.754	1	
-Gen Clark Close	Udu	Delta	5.542	5.785	1	
-Dr Clement Isong	Municipal Area Council	FCT Abuja	9.057	7.529	1	
-Soga Tikare Cl	Kosofe	Lagos	6.589	3.405	1	
-Udo Club Close	Enugu South	Enugu	6.397	7.499	1	
-Udo Club Street	Enugu South	Enugu	6.396	7.499	1	
-Clement Nnakwe Street	Enugu East	Enugu	6.486	7.514	1	
-Clifford Street	Enugu North	Enugu	6.431	7.483	1	
-Clenz Metals Street	Enugu North	Enugu	6.462	7.547	1	
-Club Avenue	Enugu North	Enugu	6.447	7.487	1	
-Clemany Drive	Enugu North	Enugu	6.438	7.528	1	
-Chief Cletus Nnaji Street	Enugu East	Enugu	6.494	7.517	1	
-Clement Ifedioranma Street	Enugu North	Enugu	6.464	7.578	1	
-Clifford Nnaji Crescent	Enugu East	Enugu	6.509	7.504	1	
-Olisaemeka Ezeaku Cls	Enugu East	Enugu	6.480	7.486	1	
-Ikorodu Club Avenue	Ìkòròdú	Lagos	6.606	3.507	1	
 Jalingo Health Clinc	Bauchi	Bauchi	10.120	10.149	0	
-Cletus Adodu Avenue	Eti Osa	Lagos	6.471	3.662	1	
-Club Rd	Shomolu	Lagos	6.519	3.379	1	
-Adejumo Tennis Club Road	Oshodi/Isolo	Lagos	6.541	3.310	1	
-maris clos	Obio/Akpor	Rivers	4.878	6.995	1	
-Clover Road	Eti Osa	Lagos	6.463	3.514	1	
-Orio world cl.	Owerri Municipal	Imo	5.484	7.012	1	
-Sugar Cl.	Owerri Municipal	Imo	5.483	7.013	1	
-Clerks Alley	Calabar Municipal	Cross River	4.956	8.321	1	
-Clem Road	Ifako/Ijaye	Lagos	6.672	3.285	1	
-Sere Ejembi Cl	Kosofe	Lagos	6.627	3.367	1	
-Akintola Cl	Kosofe	Lagos	6.601	3.394	1	
-Bill Clinton Drive	Municipal Area Council	FCT Abuja	8.964	7.246	1	
 Word of Faith Group of Schools Classroom	Obio/Akpor	Rivers	4.825	7.050	0	
-Chief Clement Eke Street	Obio/Akpor	Rivers	4.826	7.059	1	
-Clem Road	Ifako/Ijaye	Lagos	6.672	3.287	1	
-Clover Road	Eti Osa	Lagos	6.446	3.560	1	
 dankunkung prmary health clnc	Demsa	Adamawa	9.212	11.888	0	
 dong health cliinic	Demsa	Adamawa	9.403	11.916	0	
 Woryabi Memorial Clinicimary	Demsa	Adamawa	9.498	12.143	0	
-Bill Clinton Drive	Municipal Area Council	FCT Abuja	9.002	7.280	1	
-Bill Clinton Drive	Municipal Area Council	FCT Abuja	8.991	7.272	1	
-Chief Clement Ogu Avenue	Owerri Municipal	Imo	5.468	7.050	1	
 Abuja Clinics Nigeria	Municipal Area Council	FCT Abuja	9.098	7.485	0	
 First Class Grammar School	Egbedore	Osun	7.777	4.527	0	
 class rooms	Langtang North	Plateau	9.187	9.878	0	

@@ -1,14 +1,30 @@
+Odoro Ikpe	Ini	Akwa Ibom	5.357	7.750	3	Ududu Ikpe
+Odolu	Igalamela-Odolu	Kogi	6.977	7.163	3	
+Oruko	Urue Offong/Oruko	Akwa Ibom	4.715	8.178	3	Oduko
+Odot	Nsit Atai	Akwa Ibom	4.830	8.038	3	
+Ijebu-Ode	Ìjẹ̀bú Òde	Ogun	6.814	3.915	3	
+Oja Odan	Yewa North	Ogun	6.895	2.844	3	
+Odukpani	Odukpani	Cross River	5.132	8.339	3	
+Odi	Kolokuma/Opokuma	Bayelsa	5.176	6.298	3	
+Odoni	Sagbama	Bayelsa	5.244	6.380	3	
+Odogbolu	Odogbolu	Ogun	6.840	3.763	3	Odogbolo
+Odo-Ere	Yagba West	Kogi	8.251	5.551	3	Eri|Odo Ere|Odo Ore|OdoEre
+Odeda	Odeda	Ogun	7.231	3.525	3	Awdeda|Odedah
+Ode	Ekiti East	Ekiti	7.790	5.712	3	Awde|Oda
+Ode-Ekiti	Gbonyin	Ekiti	7.648	5.549	3	Ode
+Ode-Irele	Irele	Ondo	6.494	4.870	3	Irele
+Ijebu Ode	Ìjẹ̀bú Òde	Ogun	6.819	3.917	3	Idzhebu-Ode|Ijebu-Ode
+Igbara-Odo	Ekiti South-West	Ekiti	7.503	5.063	3	Igbarra-Odo
+Odoakpu	Onitsha South	Anambra	6.150	6.780	2	
 Odo-Mola	Epe	Lagos	6.607	3.986	2	Odo-Mala
 Odiama	Brass	Bayelsa	4.329	6.431	2	
 Odokoro	Ijumu	Kogi	7.945	5.998	2	Dokoro
 Odo-Igbira	Ikole	Ekiti	7.816	5.580	2	
-Ode	Ekiti East	Ekiti	7.790	5.712	2	Awde
 Ode	Gbonyin	Ekiti	7.646	5.552	2	
 Ode Oke	Ijero	Ekiti	7.935	5.035	2	Oke-Ode
 Odekiri	Brass	Bayelsa	4.667	6.509	2	
 Odige	Etsako West	Edo	6.867	6.266	2	Odigie;Odigi
 Odo Oba	Oyo East	Oyo	7.900	4.083	2	Odo Oba;Ile-Oba;Ie-Awbe
-Odoro Ikpe	Ini	Akwa Ibom	5.357	7.750	3	Ududu Ikpe
 Odi Odeyale	Ona Ara	Oyo	7.317	4.017	2	Odi Adejale;Odi Odeyale
 Oke Ode	Ifelodun	Kwara	8.550	5.033	2	Oke Ode;Oke Odde
 Oko Ode	Ifelodun	Kwara	8.350	4.767	2	
@@ -19,7 +35,6 @@ Oke Odo	Odigbo	Ondo	6.717	5.067	2
 Odjedi	Okpe	Delta	5.640	5.819	2	
 Ododeyo	Ijebu North East	Ogun	6.899	4.067	2	Ododayo
 Odo-Isa	Idanre	Ondo	7.057	5.114	2	
-Odolu	Igalamela-Odolu	Kogi	6.977	7.163	3	
 Odiabidi	Ahoada East	Rivers	4.950	6.636	2	
 Odejo	Agatu	Benue	7.772	8.033	2	Odeji
 Orile Odo	Oluyole	Oyo	7.253	3.856	2	
@@ -29,12 +44,10 @@ Ado Odo	Ado Odo/Ota	Ogun	6.600	2.933	2	Ado;Ado Odo;Addo
 Oke Odan	Yewa South	Ogun	6.700	2.900	2	Oke Awdan;Oke Odan
 Odobo	Okobo	Akwa Ibom	4.825	8.110	2	
 Ode-Igbodigo	Okitipupa	Ondo	6.465	4.753	2	Igbodigo
-Oruko	Urue Offong/Oruko	Akwa Ibom	4.715	8.178	3	Oduko
 Odoro Atasong	Nsit Ubium	Akwa Ibom	4.712	7.993	2	
 Ode-Omu	Aiyedade	Osun	7.533	4.400	2	
 Odibokiri	Akuku Toru	Rivers	4.551	6.724	2	Okoroboko
 Odo Omi	Oke Ero	Kwara	8.217	5.217	2	Odo Ore
-Odeda	Odeda	Ogun	7.217	3.517	2	
 Idofin Odoaga	Oke Ero	Kwara	8.211	5.278	2	
 Dogu	Yala	Cross River	6.703	8.390	2	Odogu
 Ododo Okpa	Izzi	Ebonyi	6.413	8.382	2	
@@ -46,7 +59,6 @@ Ode Itsekiri Warri Island	Warri South	Delta	5.489	5.703	2
 Odo Ragun	Epe	Lagos	6.658	3.990	2	
 Odo-Owa	Ijero	Ekiti	7.885	5.070	2	Odo Erin;Odo-Ehin
 Odo Oro	Ikole	Ekiti	7.806	5.512	2	Odo Ara
-Igbara-Odo	Ekiti South-West	Ekiti	7.503	5.063	2	Igbarra-Odo
 Oduape	Kabba/Bunu	Kogi	7.896	6.206	2	Odoape
 Odosin	Yagba East	Kogi	8.333	5.700	2	Odochin
 Odo Eku	Isin	Kwara	8.335	4.981	2	
@@ -54,7 +66,6 @@ Imoto Odan	Yewa North	Ogun	7.083	2.867	2
 Odo Ona	Akinyele	Oyo	7.487	3.915	2	
 Ode	Ori Ire	Oyo	8.383	4.317	2	Adeosi
 Gbelemotin-Odo	Ovia South-West	Edo	6.373	5.074	2	Gbelemotin (1)
-Odot	Nsit Atai	Akwa Ibom	4.830	8.038	3	
 Odau	Abua/Odual	Rivers	4.921	6.450	2	Odan;Odua
 Oke-Lisa	Ìkòròdú	Lagos	6.598	3.660	2	Oke Odo
 Ode-Remo	Remo North	Ogun	6.970	3.676	2	
@@ -70,15 +81,12 @@ Duru	Bassa	Kogi	7.833	7.050	2	Oduru
 Ode Saka	Surulere	Oyo	8.250	4.433	2	Awde-Shaka;Ode-Shaka;Ode Saka
 Ogiedi	Sapele	Delta	5.739	5.702	2	Odjedi
 Oke-Odo	Epe	Lagos	6.641	3.755	2	Oke
-Ijebu-Ode	Ìjẹ̀bú Òde	Ogun	6.814	3.915	3	
-Odogbolu	Odogbolu	Ogun	6.837	3.764	2	
 Odoko	Idanre	Ondo	7.106	5.052	2	
 Nsun Odot	Odukpani	Cross River	5.173	8.161	2	Usun Odot
 Iyiowa Odekpa	Ogbaru	Anambra	6.089	6.757	2	Iyiowa-Odekpa;Oyiowa Odekpa
 Odo Oshun	Surulere	Oyo	8.117	4.400	2	Odo Awshun
 Odo Ona	Oluyole	Oyo	7.294	3.867	2	
 Odo Igbo	Atakunmosa East	Osun	7.518	4.763	2	
-Oja Odan	Yewa North	Ogun	6.895	2.844	3	
 Odo Ore	Isin	Kwara	8.335	5.044	2	
 Odore	Isin	Kwara	8.335	5.044	2	
 Odariko	Izzi	Ebonyi	6.398	8.399	2	
@@ -99,7 +107,6 @@ Odole	Okitipupa	Ondo	6.416	4.777	2	Ago Woli
 Odegune	Esan South-East	Edo	6.617	6.650	2	Odegume
 Ukan	Okpe	Delta	5.603	5.859	2	Ukan Market;Odiete Market
 Ikwake Amatangolo Odirogu	Degema	Rivers	4.753	6.967	2	
-Odukpani	Odukpani	Cross River	5.132	8.339	3	
 Odan Asun	Ife North	Osun	7.517	4.483	2	Asun
 Odiapa	Obi	Benue	7.051	8.322	2	Odapa
 Odudaje	Oturkpo	Benue	7.284	8.173	2	Ododaje
@@ -119,79 +126,473 @@ Odu	Dekina	Kogi	7.628	7.129	2
 Odagba	Omala	Kogi	7.989	7.524	2	
 Odagbo	Omala	Kogi	7.989	7.524	2	
 Ikom Odom	Etim Ekpo	Akwa Ibom	5.009	7.681	2	
-Odo-odi	Ile Oluji/Okeigbo	Ondo	7.164	4.729	0	
-ODIA PRIMARY SCHOOL	Oredo	Edo	6.284	5.568	0	
-Ijebu Ode Park to Lagos	Ìjẹ̀bú Òde	Ogun	6.811	3.910	0	
-Ode Igbisin Market	Okitipupa	Ondo	6.498	4.646	0	
-Odigbo Market	Odigbo	Ondo	6.795	4.872	0	
-Ode-Irele Market	Irele	Ondo	6.491	4.871	0	
-Ode Omi Market	Irele	Ondo	6.478	4.889	0	
-Ode Iyansan Market	Irele	Ondo	6.463	5.121	0	
-Ode Erinje Market	Okitipupa	Ondo	6.433	4.726	0	
-Ode Bara Market	Ejigbo	Osun	7.904	4.315	0	
-ijon odo (ogun)	Ado Odo/Ota	Ogun	6.562	3.196	0	
-UDUA ODUNG	Ukanafun	Akwa Ibom	4.873	7.652	2	
+Udua Odung	Ukanafun	Akwa Ibom	4.873	7.652	2	
 Ije Ododo	Alimosho	Lagos	6.499	3.249	2	
 Odoji	Gabasawa	Kano	12.053	8.863	2	
-Odi	Kolokuma/Opokuma	Bayelsa	5.176	6.298	3	
-Odoni	Sagbama	Bayelsa	5.244	6.380	3	
-st. andrew's anglican primary school, odoasonyin	Ìjẹ̀bú Òde	Ogun	6.832	3.935	0	
-African Church Primary School,Odan Abuja	Ifo	Ogun	6.702	3.355	0	
-St. John'S Anglican Primary School, Ode-Lemo	Ado Odo/Ota	Ogun	6.561	2.961	0	
-St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.742	3.263	0	
-Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.638	3.207	0	
-All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.676	3.223	0	
-St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Shagamu	Ogun	6.851	3.650	0	
-St. Peters Anglican Primary School Odan Otun	Ado Odo/Ota	Ogun	6.661	3.182	0	
-Local Government Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.662	3.182	0	
-Our Savior /Mary Primary School, Odokwu	Ado Odo/Ota	Ogun	6.613	3.228	0	
-Nawair Ud Deen Primary School, Odulagun	Ado Odo/Ota	Ogun	6.673	3.176	0	
-Methodist Primary School, Odugbe	Ifo	Ogun	6.751	3.273	0	
-Ansar U Deen Primary School, Odelemo	Ifo	Ogun	6.793	3.203	0	
-Emmanuel Anglican Church School, Ibogun Odejimi	Shagamu	Ogun	6.851	3.642	0	
-St.Joseph'S Anglican Primary School,Odonoko	Ado Odo/Ota	Ogun	6.742	3.255	0	
-Ansar U Deen Primary School, Odelemo	Ikenne	Ogun	6.834	3.722	0	
-Emmanuel Anglican Church School, Ibogun Odejimi	Ifo	Ogun	6.812	3.114	0	
-Nawair Ud Deen Primary School, Odulagun	Ifo	Ogun	6.749	3.308	0	
-St. John'S Anglican Primary School, Ode-Lemo	Shagamu	Ogun	6.746	3.663	0	
-Our Savior /Mary Primary School, Odokwu	Ìjẹ̀bú Òde	Ogun	6.734	3.982	0	
-St. James Anglican Primary School I Iado Odo	Ado Odo/Ota	Ogun	6.684	3.235	0	
-St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.683	3.237	0	
-St. Peters Anglican Primary School Odan Otun	Ado Odo/Ota	Ogun	6.638	3.207	0	
-Methodist Primary School, Odugbe	Ado Odo/Ota	Ogun	6.617	3.087	0	
-African Church Primary School,Odan Abuja	Ado Odo/Ota	Ogun	6.603	3.196	0	
-Methodist Central Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
-All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.939	0	
-Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
-Ansar Ud Deen Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.591	2.945	0	
-United African Methodist Church Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.589	2.942	0	
-Local Government Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.588	2.931	0	
-St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
-St. Joseph Roman Catholic Mission Primary  School 1 Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
-St. Joseph Anglican School, Odonoko	Ìjẹ̀bú Òde	Ogun	6.744	4.003	0	
 Odali	Yenegoa	Bayelsa	5.169	6.501	2	
 Oduorugu	Patani	Delta	5.140	6.005	2	
 Odiderengwaji	Ahoada West	Rivers	5.063	6.467	2	
 Odiopiti	Ahoada West	Rivers	5.044	6.453	2	
 Odieke	Ahoada West	Rivers	5.020	6.440	2	
 Odimeneyi	Ahoada East	Rivers	5.141	6.665	2	
-2 Div Military Hospital, Odogbo Cantonment, Ojoo	Akinyele	Oyo	7.471	3.918	0	
 Oduophori	Patani	Delta	5.147	6.057	2	
 Odovie	Ughelli North	Delta	5.577	6.016	2	
-Odu Primary Health Clinic	Nasarawa	Nasarawa	8.455	7.895	0	
 Odion	Warri South	Delta	5.510	5.758	2	
 Oderiga	Obubra	Cross River	5.949	8.257	2	
-Odugbe Hosipal	Ado Odo/Ota	Ogun	6.617	3.092	0	
-Odan Abuja Primary Health Center	Ado Odo/Ota	Ogun	6.578	3.175	0	
-Odus Health Center	Mushin	Lagos	6.521	3.345	0	
-Odus Specialist Clinic	Mushin	Lagos	6.521	3.345	0	
-Odonton Ville Dental Clinic	Mushin	Lagos	6.557	3.364	0	
-Odo Ori	Iwo	Osun	7.656	4.189	0	
 Odidi	Warri South-West	Delta	5.519	5.470	2	
 Olusumere-Odo	Burutu	Delta	5.455	5.224	2	
-Gaa Odota Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.460	4.509	0	
-oto owu odo (ogun)	Ado Odo/Ota	Ogun	6.552	3.198	0	
 Amuwo Odofin	Amuwo Odofin	Lagos	6.478	3.312	2	
+Odion Community	Warri South	Delta	5.508	5.757	2	
+Igalamela-Odolu	Igalamela-Odolu	Kogi	7.035	7.059	2	
+Ado Odo/Ota	Ado Odo/Ota	Ogun	6.624	3.082	2	
+Odogbolu	Odogbolu	Ogun	6.808	3.814	2	
+Odigbo	Odigbo	Ondo	6.732	4.885	2	
+Ese Odo	Ese Odo	Ondo	6.231	4.953	2	
+Odo Otin	Odo Otin	Osun	8.007	4.679	2	
+Abua/Odual	Abua/Odual	Rivers	4.847	6.560	2	
+Amuwo Odofin	Amuwo Odofin	Lagos	6.447	3.266	2	
+Ìjẹ̀bú Òde	Ìjẹ̀bú Òde	Ogun	6.784	3.955	2	
+Odeda	Odeda	Ogun	7.313	3.456	2	
+Odukpani	Odukpani	Cross River	5.187	8.198	2	
+Oduma	Aninri	Enugu	6.094	7.623	2	Uduma
+Odomowo	Ikwo	Ebonyi	6.058	8.238	2	Udimowo|Udomowo
+Tse-Ode	Konshisha	Benue	7.324	8.547	2	
+Seja-Odo	Ilaje	Ondo	6.194	4.687	2	Seja Odo
+Orile-Odo	Oluyole	Oyo	7.252	3.857	2	Orile Odo
+Omifun-Odo	Ilaje	Ondo	6.241	4.623	2	Omifun Odo
+Oko-Ode	Ifelodun	Kwara	8.344	4.764	2	Oko Ode|OkoOde
+Oke Odun	Odogbolu	Ogun	6.717	3.883	2	
+Oke-Odo	Surulere	Oyo	8.046	4.456	2	Oke Odo
+Oke-Odo	Surulere	Oyo	8.043	4.311	2	Oke Odo
+Oke-Odo	Yewa North	Ogun	7.274	2.949	2	Oke Odo
+Oke-Odo	Yewa North	Ogun	7.201	2.945	2	Oke Odo
+Oke-Odo	Irele	Ondo	6.715	5.090	2	Oke-Ode
+Oke-Ode	Ifelodun	Kwara	8.551	5.033	2	Oke Odde|Oke Ode
+Oke-Odan	Yewa South	Ogun	6.703	2.900	2	Oke Awdan|Oke Odan
+Oja-Odan	Yewa North	Ogun	6.896	2.844	2	Awja Awdaw|Oja Odan
+Oduting	Okobo	Akwa Ibom	4.808	8.166	2	
+Odutanje	Ifelodun	Kwara	8.546	4.817	2	
+Oduro	Ewekoro	Ogun	6.967	3.267	2	
+Oduonim Ison Inyiang	Mbo	Akwa Ibom	4.672	8.236	2	
+Oduoha	Emuoha	Rivers	4.920	6.835	2	
+Oduoha	Emuoha	Rivers	4.819	6.913	2	
+Odunewu	Ido	Oyo	7.608	3.747	2	
+Odunbaku	Odeda	Ogun	7.290	3.493	2	
+Odunaro	Kajola	Oyo	8.046	3.443	2	
+Odumekpang	Boki	Cross River	6.152	8.744	2	
+Oduliey	Riyom	Plateau	9.712	8.678	2	
+Odugiri	Ogba/Egbema/Ndoni	Rivers	5.606	6.614	2	Odugri
+Odugbo	Bassa	Kogi	7.804	6.973	2	
+Odugbo	Apa	Benue	7.645	8.012	2	
+Odugbeho	Agatu	Benue	7.800	8.036	2	
+Odufor	Etche	Rivers	5.109	7.041	2	
+Oduenyi	Arochukwu	Abia	5.585	7.724	2	
+Odudugberedu	Afijio	Oyo	7.826	4.054	2	
+Odubade	Abeokuta North	Ogun	7.217	3.196	2	
+Oduoha	Ahoada East	Rivers	5.028	6.631	2	Oduaha
+Odu	Toto	Nasarawa	8.611	7.474	2	
+Odu	Odukpani	Cross River	5.124	8.095	2	
+Odozienu	Oshimili North	Delta	6.330	6.642	2	
+Odoye	Ijebu North	Ogun	6.992	3.795	2	
+Odoyanta	Ìjẹ̀bú Òde	Ogun	6.867	3.917	2	
+Odowara	Akoko South West	Ondo	7.441	5.766	2	
+Odot Uyi	Odukpani	Cross River	5.183	8.147	2	
+Odoto	Ìsẹ́yìn	Oyo	8.028	3.516	2	
+Odosimadegun	Ijebu North East	Ogun	6.883	4.050	2	
+Odo-Senlu	Odogbolu	Ogun	6.706	3.715	2	
+Odorubo	Patani	Delta	5.130	5.984	2	
+Odoro Ikot	Oruk Anam	Akwa Ibom	4.807	7.555	2	
+Odoro Enen	Eket	Akwa Ibom	4.668	7.948	2	
+Odo Pete	Yagba West	Kogi	8.241	5.610	2	
+Odo-Oya	Ogo Oluwa	Oyo	7.985	4.297	2	Odo Oya|OdoOya
+Odo-Owo Ile	Atiba	Oyo	8.071	3.847	2	Odo Owo Ile
+Odo-Owe	Odeda	Ogun	7.295	3.373	2	Odo Owe
+Ode-Ore	Ifelodun	Kwara	8.352	5.030	2	Odo Ore|Odore
+Odo-Onanla	Oluyole	Oyo	7.230	3.870	2	Odo Onanla
+Odo-Ona	Akinyele	Oyo	7.486	3.913	2	Odo Ona
+Odo-Ona	Ibadan South West	Oyo	7.403	3.853	2	Odo Ona
+Odo-Ona	Oluyole	Oyo	7.293	3.867	2	Odo Ona
+Odo-Ogun	Orelope	Oyo	8.932	3.738	2	Odo Ogun
+Odo-Ogun	Oyo West	Oyo	7.904	3.723	2	Odo Ogun|OdoOgun
+Odo-Ogun	Ìsẹ́yìn	Oyo	7.903	3.507	2	Odo Ogun|OdoOgun
+Odo Ode	Asa	Kwara	8.283	4.533	2	
+Odo-Oba Ejemu	Afijio	Oyo	7.847	4.080	2	Odo Oba Ejemu|Odo-Awba|Odo-Oba|Odo-ObaEjemu
+Odo-Oba	Oyo East	Oyo	7.902	4.079	2	Ie-Awbe|Ile-Oba|Odo Oba
+Odo-Oba	Aiyedire	Osun	7.586	4.280	2	Odo Oba|OdoOba
+Odo Oba	Lagelu	Oyo	7.467	4.133	2	
+Odonigi	Moro	Kwara	8.712	4.386	2	
+Odongala	Obubra	Cross River	5.915	8.450	2	
+Odomu-Ajegunle	Ìsẹ́yìn	Oyo	7.944	3.637	2	Odomu Ajegunle|OdomuAjegunle
+Odomu	Ede South	Osun	7.650	4.414	2	
+Odomoke	Ohaukwu	Ebonyi	6.489	8.061	2	
+Odo Lewu	Ìjẹ̀bú Òde	Ogun	6.733	3.983	2	
+Odo-Ijesa	Obafemi Owode	Ogun	7.120	3.565	2	Odo Ijesa
+Odo-Igbo	Atakunmosa East	Osun	7.519	4.764	2	Odo Igbo
+Odogu	Oredo	Edo	6.150	5.517	2	
+Odo-Gbuwa	Odogbolu	Ogun	6.782	3.770	2	
+Odogbo	Kabba/Bunu	Kogi	8.126	6.121	2	
+Odogbo	Ori Ire	Oyo	8.088	4.063	2	
+Odogbo	Ori Ire	Oyo	8.077	4.057	2	
+Odogbo	Ovia North-East	Edo	6.367	5.467	2	
+Odogbe	Yagba East	Kogi	8.342	5.795	2	
+Odofo	Ogo Oluwa	Oyo	7.984	4.149	2	
+Odofin-Odoaga	Oke Ero	Kwara	8.211	5.278	2	Odofin Odoaga|OdofinOdoaga
+Odofin Igbana	Oke Ero	Kwara	8.200	5.255	2	Idofin Igbanna|Odofin Igbanna
+Odofin Eyinafo	Oke Ero	Kwara	8.211	5.286	2	
+Odofin Aiyekale	Oke Ero	Kwara	8.220	5.293	2	
+Odofin	Iwajowa	Oyo	7.888	3.311	2	
+Odofin	Ibarapa East	Oyo	7.649	3.393	2	
+Odo Eri	Yagba West	Kogi	8.279	5.584	2	
+Odo-Eku	Isin	Kwara	8.335	4.980	2	Odo Eku|OdoEku
+Odo Ekerin	Ijebu North	Ogun	6.967	3.883	2	
+Ododegbo	Ughelli North	Delta	5.537	5.963	2	Ododegho
+Odobu	Ibaji	Kogi	6.950	6.850	2	
+Odobor	Sagbama	Bayelsa	5.117	6.067	2	
+Odoba	Ogbadibo	Benue	7.120	7.758	2	
+Odo-Ayandelu	Epe	Lagos	6.678	3.711	2	
+Odo	Akinyele	Oyo	7.609	3.932	2	
+Odo	Atakunmosa East	Osun	7.542	4.822	2	
+Odo	Odeda	Ogun	7.153	3.428	2	
+Odo	Epe	Lagos	6.660	3.829	2	
+Odo	Ìkòròdú	Lagos	6.670	3.537	2	
+Odjeva	Uhunmwonde	Edo	6.383	5.750	2	
+Odirogu	Degema	Rivers	4.753	6.966	2	Ikwake Amatangolo Odirogu|Odirogo
+Odiok	Odukpani	Cross River	5.324	7.990	2	
+Odiok	Itu	Akwa Ibom	5.089	7.929	2	
+Odi-Odeyale	Ona Ara	Oyo	7.321	4.011	2	Odi Adejale|Odi Odeyale
+Odigietue	Ovia North-East	Edo	6.672	5.770	2	
+Odigi	Orhionmwon	Edo	5.939	5.909	2	
+Odighi	Ovia North-East	Edo	6.267	5.450	2	
+Odigbo	Odigbo	Ondo	6.789	4.866	2	
+Odida	Idemili North	Anambra	6.111	6.951	2	Odidu
+Odibuba	Warri North	Delta	6.050	5.217	2	
+Odi-Aperin	Ona Ara	Oyo	7.317	3.995	2	Odi Aperin
+Odeyinka	Aiyedade	Osun	7.323	4.368	2	
+Odeya	Ọ̀wọ̀	Ondo	7.260	5.538	2	
+Odewunmi	Ido	Oyo	7.458	3.774	2	Odewumi
+Odetola	Ido	Oyo	7.444	3.723	2	
+Ode-Saka	Surulere	Oyo	8.252	4.430	2	Awde-Shaka|Ode Saka|Ode-Shaka
+Oderinde	Atiba	Oyo	8.099	3.850	2	
+Oderinale	Egbeda	Oyo	7.355	4.095	2	
+Ode-Pupa Ile	Ori Ire	Oyo	8.596	4.102	2	Ode Pupa Ile
+Ode-Pupa Iju	Ori Ire	Oyo	8.599	4.054	2	Ode Pupa Iju
+Odepata-Apiti	Ipokia	Ogun	6.524	2.808	2	Odepata
+Ode-Ote	Lagelu	Oyo	7.517	4.156	2	Odeote
+Odeosun	Ife North	Osun	7.309	4.430	2	
+Ode-Omi	Epe	Lagos	6.402	4.333	2	
+Odenyi	Bassa	Kogi	7.780	7.054	2	Adenye|Udenyi
+Odenigbo	Abakaliki	Ebonyi	6.272	8.192	2	
+Odeleye	Itesiwaju	Oyo	8.080	3.667	2	
+Ode-Lemo	Shagamu	Ogun	6.743	3.664	2	Ode-Lemaw
+Odekpe	Ogbaru	Anambra	6.048	6.738	2	Odekbe
+Ode Itsekiri	Warri South	Delta	5.488	5.703	2	Ode-Itsekri
+Ode-Igbodigo	Okitipupa	Ondo	6.467	4.752	2	Igbodigo
+Odegune	Esan South-East	Edo	6.607	6.654	2	Odegume
+Odegumu	Esan South-East	Edo	6.634	6.647	2	
+Ode-Erinje	Okitipupa	Ondo	6.442	4.728	2	
+Odedara	Ibarapa North	Oyo	7.614	3.338	2	
+Odeda Farm Settlement	Odeda	Ogun	7.221	3.511	2	Odeda
+Odebode	Surulere	Oyo	8.071	4.369	2	
+Odebo	Odeda	Ogun	7.303	3.661	2	
+Ode	Asa	Kwara	8.453	4.323	2	
+Ode	Ori Ire	Oyo	8.333	4.241	2	
+Ode	Lagelu	Oyo	7.482	3.995	2	
+Odareko	Izzi	Ebonyi	6.403	8.402	2	Odariko
+Odan-Remi	Ipokia	Ogun	6.789	2.820	2	Odan Remi
+Odan-Popo	Ipokia	Ogun	6.540	2.856	2	Odan Popo
+Odan-Egun	Yewa North	Ogun	6.956	2.743	2	Odan Egun
+Odanban	Ogo Oluwa	Oyo	8.037	4.267	2	
+Odan-Asun	Ife North	Osun	7.524	4.482	2	Asun|Odan Asun
+Odan-Igun	Ipokia	Ogun	6.604	2.903	2	Odan
+Odamgbe	Konshisha	Benue	7.046	8.519	2	
+Odamadi	Ifelodun	Kwara	8.532	4.815	2	
+Odaga	Ahoada East	Rivers	4.950	6.667	2	
+Oda	Akure South	Ondo	7.175	5.236	2	
+Odugiri Obagwe	Ogbaru	Anambra	5.816	6.660	2	Obagwe
+Mbukpo Oduobo	Okobo	Akwa Ibom	4.719	8.085	2	
+Katuanode	Boki	Cross River	6.458	8.874	2	Katuan Ode
+Jericho Odaubialagu	Oturkpo	Benue	7.332	8.006	2	
+Iyiowa Odek	Ogbaru	Anambra	6.092	6.757	2	Iyiowa-Odekpa|Oyiowa Odekpa
+Iyana-Odi	Ibarapa East	Oyo	7.646	3.385	2	Iyana Odi|IyanaOdi
+Imoto-Odan	Yewa North	Ogun	7.092	2.876	2	Imoto|Imoto I|Imoto Odan
+Ile-Odu	Surulere	Oyo	8.122	4.449	2	Ile Odu
+Ile-Odu	Surulere	Oyo	8.072	4.416	2	Ile Odu
+Ila Odo	Oyun	Kwara	8.067	4.700	2	
+Ikot Odiong	Ibiono Ibom	Akwa Ibom	5.154	7.904	2	
+Ikot Obio Odono	Ibesikpo Asutan	Akwa Ibom	4.935	7.951	2	
+Ikot Edem Odo	Akpabuyo	Cross River	4.886	8.418	2	
+Ijo-Odo	Ilaje	Ondo	6.188	4.697	2	Ijo Odo
+Ife-Odan	Ejigbo	Osun	7.831	4.130	2	Ife Odan|IfeOdan
+Gidan Odu	Ibi	Taraba	8.318	9.750	2	
+Ga-Odanban	Ogo Oluwa	Oyo	8.031	4.263	2	Ga Odanban
+Ewu-Ode	Shagamu	Ogun	6.848	3.572	2	
+Esuk Odot	Odukpani	Cross River	5.191	8.217	2	
+Esa-Odo	Obokun	Osun	7.755	4.821	2	Esa Odo|Essa-Odo|Imessa Odo
+Eruna-Odo	Ilaje	Ondo	6.116	4.777	2	Eruna Odo
+Erin-Odo	Oriade	Osun	7.570	4.895	2	Erin Odo
+Budo-Ode Ajado	Ori Ire	Oyo	8.583	4.041	2	Budo Ode Ajado
+Logun	Moro	Kwara	9.090	4.882	2	Budo Ode|BudoOde
+Budo-Ode	Ori Ire	Oyo	8.606	4.158	2	Budo Ode
+Budo-Ode	Olorunsogo	Oyo	8.823	4.192	2	Budo Ode
+Budo-Ode	Moro	Kwara	8.679	4.391	2	Budo Ode
+Baba-Ode	Itesiwaju	Oyo	8.204	3.214	2	Baba Ode|Baba-awde
+Baba-Ode	Surulere	Oyo	8.157	4.370	2	Baba Ode
+Baba-Ode	Ibarapa East	Oyo	7.514	3.474	2	Baba Ode
+Atan Odot	Odukpani	Cross River	5.221	8.177	2	
+Apapa-Odan	Akinyele	Oyo	7.620	3.938	2	Apapa Odan|ApapaOdan
+Aladere-Ode	Asa	Kwara	8.322	4.459	2	Aladere Ode|Seidu
+Ajebo	Epe	Lagos	6.644	3.770	2	Odo
+Agbori Odo	Abeokuta North	Ogun	7.354	3.008	2	
+Agada-Odede	Yewa North	Ogun	7.351	2.995	2	Agada Apesi|Agada Odede
+Ado-Odo	Ado Odo/Ota	Ogun	6.595	2.942	2	Addo|Ado|Ado Odo
+Abule-Odo	Itesiwaju	Oyo	8.217	3.730	2	Abule Odo
+Aba-Odedele	Akinyele	Oyo	7.666	4.067	2	Aba Odedele|AbaOdedele
+Aba-Ode	Egbedore	Osun	7.833	4.391	2	Aba Ode|AbaOde
+Aba-Oba	Aiyedade	Osun	7.572	4.306	2	Aba Oba|Odo-Oba|Oko-Awba
+Oduwole	Alimosho	Lagos	6.589	3.281	2	
+Rumuodo	Ikwerre	Rivers	4.946	6.928	2	Rumuoda|Umu-Oda
+Odusi	Afijio	Oyo	7.743	3.995	2	
+Odofin	Afijio	Oyo	7.719	3.850	2	
+Aba-Odan	Afijio	Oyo	7.675	3.901	2	Aba Odan|AbaOdan
+Aba-Odo	Akinyele	Oyo	7.542	3.857	2	Aba Odo|AbaOdo
+Oke-Odo	Akinyele	Oyo	7.509	3.852	2	Oke Odo|OkeOdo
+Aba-Odo	Ido	Oyo	7.537	3.788	2	Aba Odo|AbaOdo
+Aba-Ode	Akinyele	Oyo	7.579	3.968	2	Aba Ode|AbaOde
+Oyo-Ode	Akinyele	Oyo	7.573	3.969	2	Oyo Ode|OyoOde
+Odagba	Etche	Rivers	4.966	7.091	2	
+Odo-Ona	Oluyole	Oyo	7.337	3.859	2	Odo Ona
+Odo-Ogun	Oluyole	Oyo	7.302	3.837	2	Odo Ogun
+Odoni	Akuku Toru	Rivers	4.388	6.738	2	
+Odumo	Degema	Rivers	4.444	6.984	2	
+Odaga	Abua/Odual	Rivers	4.845	6.654	2	
+Odala	Abua/Odual	Rivers	4.858	6.702	2	
+Itori-Odo	Obafemi Owode	Ogun	6.967	3.317	2	
+Odofin	Obafemi Owode	Ogun	6.891	3.397	2	
+Oduatayo	Obafemi Owode	Ogun	6.949	3.575	2	
+Odo-Idako	Ijebu North	Ogun	6.938	3.815	2	
+Odo-Ajatun	Ìjẹ̀bú Òde	Ogun	6.738	3.956	2	
+Oko-Odo	Ijebu North	Ogun	6.967	3.884	2	
+Odosenlu	Ijebu North	Ogun	6.990	3.838	2	
+Orita-Odo	Shagamu	Ogun	6.758	3.644	2	
+Odoroga	Ìjẹ̀bú Òde	Ogun	6.750	4.010	2	
+Labuwa-Odole	Idanre	Ondo	7.047	5.272	2	
+Odole	Idanre	Ondo	7.096	5.149	2	
+Ododin Odewu	Idanre	Ondo	7.105	5.172	2	
+Odoko	Idanre	Ondo	7.110	5.056	2	
+Ododin-Adaja	Idanre	Ondo	7.120	5.195	2	
+Ago-Odode	Idanre	Ondo	7.125	5.163	2	
+Ijama-Odo	Idanre	Ondo	7.129	5.051	2	
+Asaba-Odo	Ọ̀wọ̀	Ondo	7.161	5.492	2	
+Emiloro-Oda	Akure South	Ondo	7.176	5.230	2	
+Italepo-Oda	Akure South	Ondo	7.199	5.231	2	
+Sabere Odo	Ọ̀wọ̀	Ondo	7.211	5.461	2	
+Ode	Ọ̀wọ̀	Ondo	7.224	5.471	2	
+Odogun	Ise/Orun	Ekiti	7.306	5.367	2	
+Odofin	Ise/Orun	Ekiti	7.316	5.410	2	
+Odofin	Ise/Orun	Ekiti	7.336	5.371	2	
+Odo-Asa	Adó-Èkìtì	Ekiti	7.570	5.266	2	
+Odo	Adó-Èkìtì	Ekiti	7.614	5.132	2	
+Odugh	Gwer East	Benue	7.207	8.311	2	
+Odogbo	Doma	Nasarawa	7.934	8.247	2	
+Odor Atam	Ikom	Cross River	6.146	8.480	2	
+Ikot Efio-Odiong Ene	Akpabuyo	Cross River	4.841	8.514	2	
+Odoro Nkot	Esit Eket	Akwa Ibom	4.630	8.082	2	
+Odometi	Ijebu East	Ogun	6.806	4.037	2	
+Abereke-Odo	Ilaje	Ondo	6.251	4.627	2	
+Odulagba	Ilaje	Ondo	6.256	4.747	2	
+Ago Odukuye Isobo	Ese Odo	Ondo	6.394	4.896	2	Ago-Odukuye Isobo
+Orisa-Odo	Ese Odo	Ondo	6.406	4.891	2	
+Odulawo	Okitipupa	Ondo	6.450	4.711	2	
+Odoshi	Rijau	Niger	11.221	4.995	2	
+Ogirisen	Sapele	Delta	5.740	5.712	2	Odjedi
+Odiete	Okpe	Delta	5.623	5.854	2	
+Olugbo-Odo	Warri South-West	Delta	5.485	5.670	2	
+Olusumere-Odo II	Burutu	Delta	5.456	5.224	2	
+Odima	Ughelli South	Delta	5.265	5.899	2	
+Odakori	Ughelli South	Delta	5.274	5.866	2	
+Odagba	Etche	Rivers	4.947	7.123	2	
+Iton Odoro	Obot Akara	Akwa Ibom	5.274	7.694	2	
+Ikot Odube	Ibiono Ibom	Akwa Ibom	5.250	7.871	2	
+Mbiabong Odung Etim	Ibiono Ibom	Akwa Ibom	5.174	7.864	2	
+Useh Ikot Odiong	Ibiono Ibom	Akwa Ibom	5.151	7.859	2	
+Ikot Odung	Abak	Akwa Ibom	5.060	7.810	2	
+Ikot Odon	Abak	Akwa Ibom	5.113	7.794	2	
+Odame	Etsako West	Edo	6.985	6.372	2	
+Odjighori	Ughelli North	Delta	5.555	6.078	2	
+Odiowe-Gbene	Sagbama	Bayelsa	5.254	6.348	2	
+Odoni	Sagbama	Bayelsa	5.243	6.372	2	
+Odi	Kolokuma/Opokuma	Bayelsa	5.174	6.300	2	Emblama
+Oduophori In-Land	Patani	Delta	5.145	6.059	2	Ogele|Uduophori
+Odoni	Ogba/Egbema/Ndoni	Rivers	5.436	6.610	2	
+Odieke	Ogba/Egbema/Ndoni	Rivers	5.203	6.679	2	
+Odiemudi	Ahoada East	Rivers	5.191	6.676	2	
+Odereke	Ahoada West	Rivers	5.184	6.551	2	
+Oduaha	Ahoada East	Rivers	5.041	6.628	2	
+Odekpe	Anambra West	Anambra	6.525	6.680	2	Odekpu
+Ogbe-Odogwu	Aniocha South	Delta	6.156	6.498	2	
+Ogbe-Odogwu	Aniocha South	Delta	6.131	6.494	2	
+Odo Otin	Odo Otin	Osun	8.017	4.700	2	Agbegbe Ijoba Ibile Odo Otin|Odo-Otin
+Igalamela-Odolu	Igalamela-Odolu	Kogi	7.057	7.019	2	Igalamela Odolu
+Amuwo Odofin	Amuwo Odofin	Lagos	6.472	3.263	2	
+Odogbolu	Odogbolu	Ogun	6.786	3.805	2	Agbegbe Ijoba Ibile Odogbolu
+Odigbo	Odigbo	Ondo	6.765	4.727	2	Agbegbe Ijoba Ibile Odigbo
+Odeda	Odeda	Ogun	7.296	3.520	2	Odeda Local Government Area|Odedah|Odedah Local Government Area
+Ese Odo	Ese Odo	Ondo	6.217	4.965	2	Ese-Odo|Ese-Odo Local Government Area
+Abua/Odual	Abua/Odual	Rivers	4.830	6.567	2	Abua/Odual Local Government Area
+Odukpani	Odukpani	Cross River	5.185	8.133	2	Agbegbe Ijoba Ibile Odukpani|Odukpani Local Government Area
+Odogunyan	Ìkòròdú	Lagos	6.600	3.500	2	
+Atsenga Ode	Gwer East	Benue	7.263	8.404	2	
+Odonto	Okpokwu	Benue	7.042	8.004	2	
+Odagire-Edda	Abakaliki	Ebonyi	6.241	8.173	2	
+Odajie	Ogoja	Cross River	6.557	8.866	2	
+Odam	Gboko	Benue	7.334	8.976	2	
+Odufie	Brass	Bayelsa	4.351	6.390	2	
+Oke-Odo	Alimosho	Lagos	6.628	3.279	2	
+Ode	Anambra West	Anambra	6.415	6.708	2	
+Odofin	Amuwo Odofin	Lagos	6.466	3.310	2	
+Oduduwa	Apapa	Lagos	6.446	3.353	2	
+Odolowu	Surulere	Lagos	6.497	3.324	2	
+Gbaja Obele-Odan	Surulere	Lagos	6.505	3.360	2	
+Odo Eran Ogunlana	Mushin	Lagos	6.504	3.325	2	
+Odusela Ola	Mushin	Lagos	6.510	3.331	2	
+Idi Oro Odi Olowo	Mushin	Lagos	6.528	3.360	2	
+Oke-Odo	Alimosho	Lagos	6.634	3.286	2	
+Isale Odo Ayige	Agege	Lagos	6.628	3.303	2	
+Ayegbami Odoro	Ìkòròdú	Lagos	6.572	3.607	2	
+Odomola	Epe	Lagos	6.598	3.974	2	
+Odoragunsin	Epe	Lagos	6.664	3.995	2	
+Araromi Odo	Lagos Island	Lagos	6.447	3.405	2	
+Odan	Lagos Island	Lagos	6.445	3.399	2	
+Ekperi-Odame	Etsako Central	Edo	6.998	6.442	2	
+Odukhuo	Uhunmwonde	Edo	6.655	6.085	2	
+Odoigbene	Southern Ijaw	Bayelsa	4.659	5.664	2	
+Odako	Lau	Taraba	9.231	11.615	2	
+Aga-Odofin	Yewa North	Ogun	7.030	3.074	2	
+Oke-Odo	Abeokuta North	Ogun	7.227	3.156	2	
+Odo-Erin	Odeda	Ogun	7.299	3.305	2	
+Odofin	Obafemi Owode	Ogun	7.102	3.378	2	
+Aba-Ode	Lagelu	Oyo	7.499	4.026	2	
+Oduja	Ijebu North	Ogun	7.076	4.034	2	
+Popo-Odeyale	Ijebu North	Ogun	7.127	4.123	2	
+Odedele	Ona Ara	Oyo	7.238	4.098	2	
+Odofin	Irewole	Osun	7.427	4.176	2	
+Odosun	Isokan	Osun	7.286	4.184	2	
+Odofin	Irewole	Osun	7.461	4.271	2	
+Odofin	Irewole	Osun	7.460	4.209	2	
+Odofin	Isokan	Osun	7.300	4.213	2	
+Odofin	Aiyedade	Osun	7.234	4.266	2	
+Odogbo	Irewole	Osun	7.352	4.282	2	
+Odokoto	Irewole	Osun	7.416	4.296	2	
+Odole	Aiyedade	Osun	7.229	4.358	2	
+Odurin	Ife North	Osun	7.472	4.464	2	
+Ita-Odo	Ife North	Osun	7.478	4.451	2	
+Odan	Ife North	Osun	7.445	4.414	2	
+Oke-Odo	Ife Central	Osun	7.592	4.525	2	
+Odewale	Ife Central	Osun	7.575	4.566	2	
+Odetayo	Atakunmosa West	Osun	7.577	4.581	2	
+Odesanmi	Atakunmosa West	Osun	7.598	4.589	2	
+Ile-Ode	Atakunmosa West	Osun	7.643	4.549	2	
+Odo-Ogun	Atakunmosa West	Osun	7.691	4.621	2	
+Odokoto	Atakunmosa West	Osun	7.645	4.619	2	
+Iwaro-Odo	Atakunmosa West	Osun	7.618	4.638	2	
+Odo-Iju	Ilesha East	Osun	7.584	4.711	2	
+Odoka	Obokun	Osun	7.864	4.751	2	
+Oke Odo	Oriade	Osun	7.611	4.816	2	
+Odofin	Ila	Osun	7.889	4.868	2	
+Odunfa	Ila	Osun	7.899	4.877	2	
+Odo-Owo Iju	Atiba	Oyo	8.110	3.879	2	
+Iko-Odo	Yewa North	Ogun	7.248	2.943	2	
+Asere-Odo	Imeko Afon	Ogun	7.454	2.900	2	
+Fongi-Odo	Ipokia	Ogun	6.477	2.869	2	
+Odofunfun	Yewa North	Ogun	6.899	2.886	2	
+Ido-Ogun-Odo	Ipokia	Ogun	6.591	2.771	2	
+Ajegunle Oke-Odo	Yewa South	Ogun	6.840	2.905	2	
+Ago-Odofin	Okitipupa	Ondo	6.403	4.741	2	
+Arowojolu-Odo	Irele	Ondo	6.423	4.956	2	
+Gbeleju-Odo	Irele	Ondo	6.339	4.974	2	
+Odudanoghe	Ilaje	Ondo	6.334	4.659	2	
+Odan Ajan	Irepo	Oyo	9.068	3.851	2	
+Ilaka-Odo	Ife South	Osun	7.288	4.577	2	
+Oke-Odun	Ife South	Osun	7.266	4.518	2	
+Odu	Ife South	Osun	7.353	4.635	2	
+Oke-Odo	Atakunmosa West	Osun	7.394	4.730	2	
+Aiye-Odemuyiwa	Ife South	Osun	7.295	4.645	2	
+Oke-Odo	Ondo East	Ondo	7.117	4.856	2	
+Odowo	Ondo West	Ondo	7.003	4.800	2	
+Odogu	Ile Oluji/Okeigbo	Ondo	7.259	4.929	2	
+Odo	Ile Oluji/Okeigbo	Ondo	7.292	4.938	2	
+Odowo	Ile Oluji/Okeigbo	Ondo	7.336	4.976	2	
+Omi-Odan	Ori Ire	Oyo	8.441	4.056	2	
+Odedara	Ori Ire	Oyo	8.128	4.028	2	
+Odeda	Ori Ire	Oyo	8.115	4.053	2	
+Odoje	Ogbomosho South	Oyo	8.068	4.204	2	
+Odo-Omo	Asa	Kwara	8.342	4.422	2	
+Odoje	Ori Ire	Oyo	8.357	4.350	2	
+Odunmorun	Surulere	Oyo	8.106	4.369	2	
+Odo-Okoto	Surulere	Oyo	8.102	4.383	2	
+Odo-Odan	Surulere	Oyo	8.030	4.438	2	
+Odubono	Odeda	Ogun	7.314	3.518	2	
+Fagbohun-Ode	Odeda	Ogun	7.305	3.528	2	
+Odofin-Bamgbose	Odeda	Ogun	7.293	3.536	2	
+Odofin	Odeda	Ogun	7.292	3.525	2	
+Odofin	Obafemi Owode	Ogun	7.118	3.569	2	
+Odegbesan	Obafemi Owode	Ogun	7.082	3.568	2	
+Oduroye	Obafemi Owode	Ogun	7.061	3.539	2	
+Oke-Odo	Odeda	Ogun	7.261	3.594	2	
+Ona-Odo	Odeda	Ogun	7.394	3.612	2	
+Iporo-Oderinde	Odeda	Ogun	7.240	3.684	2	
+Ode	Remo North	Ogun	7.056	3.753	2	
+Oke-Odo	Remo North	Ogun	7.058	3.791	2	
+Odun-Ewu	Oluyole	Oyo	7.180	3.990	2	
+Odelana	Oluyole	Oyo	7.225	3.962	2	
+Odegiwa	Asa	Kwara	8.683	4.298	2	
+Odunfa	Ori Ire	Oyo	8.657	4.183	2	
+Odunjo	Asa	Kwara	8.623	4.251	2	
+Isale-Odo	Asa	Kwara	8.638	4.386	2	
+Ode	Asa	Kwara	8.617	4.259	2	
+Odesanwo	Ori Ire	Oyo	8.573	4.013	2	
+Budo-Ode	Asa	Kwara	8.627	4.249	2	
+Baba-Ode	Ibarapa North	Oyo	7.524	3.161	2	
+Soni-Ode	Oyun	Kwara	8.119	4.579	2	
+Odo-Ogun	Offa	Kwara	8.118	4.657	2	
+Oko-Ode	Oyo West	Oyo	7.949	3.778	2	
+Odoje	Oyo West	Oyo	7.901	3.765	2	
+Odediran	Afijio	Oyo	7.809	3.792	2	
+Oke-Odo	Ifelodun	Kwara	8.482	4.836	2	
+Odi-Ologbo	Ifelodun	Kwara	8.490	4.947	2	
+Oke-Odo	Oyo East	Oyo	7.888	4.001	2	
+Odejin	Oyo East	Oyo	7.852	4.020	2	
+Agboye Odebisi	Afijio	Oyo	7.767	4.010	2	
+Odogbo	Ori Ire	Oyo	7.993	4.126	2	
+Oke-Odo	Ogo Oluwa	Oyo	7.898	4.188	2	
+Odo-Oba	Ori Ire	Oyo	7.997	4.129	2	
+Ododo	Ola Oluwa	Osun	7.820	4.180	2	
+Odumarun	Ejigbo	Osun	7.797	4.337	2	
+Odo-Ota	Ilorin West	Kwara	8.456	4.518	2	
+Afeyin-Odo	Ilorin South	Kwara	8.498	4.674	2	
+Odoge	Asa	Kwara	8.295	4.573	2	
+Odoje	Asa	Kwara	8.314	4.582	2	
+Odore	Ilorin West	Kwara	8.421	4.534	2	
+Baba-Ode	Ilorin East	Kwara	8.457	4.564	2	
+Ode-Ote	Lagelu	Oyo	7.502	4.155	2	
+Odejayi	Akinyele	Oyo	7.587	4.004	2	
+Oduro	Aiyedire	Osun	7.518	4.178	2	
+Odan	Afijio	Oyo	7.721	4.046	2	
+Seke-Odofin	Afijio	Oyo	7.726	4.006	2	
+Bale-Odo	Aiyedire	Osun	7.580	4.154	2	
+Ododo	Iwo	Osun	7.738	4.138	2	
+Oduo	Afijio	Oyo	7.660	4.034	2	
+Odeyokun	Iwo	Osun	7.696	4.140	2	
+Odo-Aba	Aiyedire	Osun	7.520	4.190	2	
+Ododo	Ola Oluwa	Osun	7.691	4.235	2	
+Odo	Obafemi Owode	Ogun	7.132	3.389	2	
+Balogun	Aiyedade	Osun	7.341	4.369	2	Odesilo
+Odan	Ado Odo/Ota	Ogun	6.537	2.949	2	
+Ado-Odo	Ado Odo/Ota	Ogun	6.632	2.966	2	
+Ode	Ori Ire	Oyo	8.528	4.064	2	
+Odomu	Ede South	Osun	7.665	4.477	2	
+Odomu	Ede South	Osun	7.646	4.450	2	
+Odofin	Irewole	Osun	7.502	4.197	2	
 Adeola Odeku Street	Eti Osa	Lagos	6.431	3.414	1	
 Odetunde Street	Ifo	Ogun	6.667	3.316	1	
 Oduduwa Way	Ikeja	Lagos	6.572	3.355	1	
@@ -210,7 +611,6 @@ Odo Aje	Ibadan North East	Oyo	7.388	3.909	1
 Odunea Street	Lagos Island	Lagos	6.456	3.394	1	
 Odo Street	Eti Osa	Lagos	6.449	3.413	1	
 Jimoh Odutola Street	Surulere	Lagos	6.480	3.354	1	
-Odunea Street	Lagos Island	Lagos	6.455	3.395	1	
 Prince Ade Odedina Street	Eti Osa	Lagos	6.428	3.438	1	
 Adagun Odo	Oshodi/Isolo	Lagos	6.523	3.324	1	
 Ire - Ode road	Ikole	Ekiti	7.723	5.411	1	
@@ -228,7 +628,6 @@ Boltex Odesanya Street	Alimosho	Lagos	6.530	3.265	1
 Odelola Street	Alimosho	Lagos	6.539	3.261	1	
 Timothy Odutola Road	Ibadan South West	Oyo	7.384	3.884	1	
 Odunlami Street	Lagos Island	Lagos	6.452	3.392	1	
-Adeola Odeku Street	Eti Osa	Lagos	6.431	3.416	1	
 Ayo Odungbesan Street	Kosofe	Lagos	6.556	3.402	1	
 Odugbemi Street	Kosofe	Lagos	6.547	3.402	1	
 Abiodun Odeseye Street	Kosofe	Lagos	6.563	3.395	1	
@@ -258,12 +657,9 @@ Odessa Street	Municipal Area Council	FCT Abuja	8.986	7.430	1
 Oduduwa Street	Surulere	Lagos	6.504	3.340	1	
 Odubiyi Street	Surulere	Lagos	6.508	3.341	1	
 Odeh Lane	Egor	Edo	6.370	5.588	1	
-Odeh Street	Egor	Edo	6.364	5.586	1	
-Odiase Street	Egor	Edo	6.361	5.588	1	
 Odondiri Avenue	Egor	Edo	6.364	5.569	1	
 Odia Street	Egor	Edo	6.366	5.573	1	
 Peter Odili Road	Port-Harcourt	Rivers	4.806	7.048	1	
-Peter Odili Road	Port-Harcourt	Rivers	4.804	7.049	1	
 Odo-Uwhosi Market Road	Akoko-Edo	Edo	7.440	6.088	1	
 Odutayo Street	Surulere	Lagos	6.499	3.348	1	
 Odia Close	Oredo	Edo	6.296	5.597	1	
@@ -288,7 +684,6 @@ Odubanwo Street	Ifo	Ogun	6.677	3.305	1
 Odogun Avenue	Uvwie	Delta	5.561	5.760	1	
 Chief Odiete Street	Uvwie	Delta	5.562	5.758	1	
 Odudu Lane	Oredo	Edo	6.328	5.600	1	
-Oduduwa Road	Ibadan North	Oyo	7.443	3.905	1	
 odion road warri	Warri South	Delta	5.508	5.753	1	
 Odo Ozo Close	Enugu East	Enugu	6.480	7.519	1	
 Sir Odebeatu Street	Enugu East	Enugu	6.496	7.485	1	
@@ -325,14 +720,12 @@ Odumbaku Street	Oshodi/Isolo	Lagos	6.554	3.337	1
 Adeyemi Odukomaya	Kosofe	Lagos	6.614	3.373	1	
 Oduntan Street	Kosofe	Lagos	6.608	3.389	1	
 Oduweze Road, Aluu	Ikwerre	Rivers	4.921	6.910	1	
-ODES petroleum	Ede North	Osun	7.719	4.497	0	
 Gilbert Odior Street	Eti Osa	Lagos	6.471	3.578	1	
 Odo-Idofin Street	Oriade	Osun	7.569	4.897	1	
 Uro-Odo Street	Oriade	Osun	7.568	4.894	1	
 Odo Ogan Road	Oye	Ekiti	7.804	5.356	1	
 Oke Ode	Oye	Ekiti	7.793	5.294	1	
 Odo-Osunmu Street	Ilesha West	Osun	7.630	4.733	1	
-Odo-Osunmu Street	Ilesha West	Osun	7.627	4.736	1	
 Fajuyi /Oduduwa College Road	Ife Central	Osun	7.487	4.550	1	
 Oduduwa Street	Ife Central	Osun	7.485	4.560	1	
 Oduduwa Street	Ife Central	Osun	7.489	4.556	1	
@@ -370,23 +763,20 @@ Leonard Odiodio Street	Oredo	Edo	6.249	5.571	1
 Odaro Street	Oredo	Edo	6.291	5.571	1	
 Chief Oduwole Fawole Street	Ife Central	Osun	7.511	4.550	1	
 Oduduwa Street	Ondo West	Ondo	7.079	4.825	1	
-Oduduwa Street	Ondo West	Ondo	7.080	4.826	1	
 Shakiru Odofin Street	Ibeju Lekki	Lagos	6.478	3.732	1	
 Odeh Street	Ika South	Delta	6.255	6.218	1	
-Odo Arufe Street	Ekiti East	Ekiti	7.765	5.748	1	
 Odo-Uwhosi Market Road	Akoko-Edo	Edo	7.452	6.050	1	
 Odooye Street	Ijero	Ekiti	7.811	5.061	1	
 Odiolowo Street	Ijero	Ekiti	7.835	5.032	1	
-ODION STREET	Oredo	Edo	6.292	5.573	1	
+Odion Street	Oredo	Edo	6.292	5.573	1	
 Odeh Street	Oredo	Edo	6.290	5.568	1	Asemota Street
-OMORUYI STREET	Oredo	Edo	6.288	5.563	1	ODEH STREET
+Omoruyi Street	Oredo	Edo	6.288	5.563	1	ODEH STREET
 Odomoba St	Ise/Orun	Ekiti	7.462	5.425	1	
 Oke-Odi /Agbado Road	Ise/Orun	Ekiti	7.466	5.428	1	
 Odo Oro Street	Ijebu North	Ogun	6.966	3.997	1	
 Oduntan Street	Odeda	Ogun	7.184	3.398	1	
 Odeloba Alebi	Ogbomosho North	Oyo	8.150	4.256	1	
 Odara Street	Obio/Akpor	Rivers	4.845	6.949	1	
-Odo Ikoyi Road	Akure South	Ondo	7.256	5.195	1	
 Oda Adebimpe Road	Ibadan South West	Oyo	7.384	3.885	1	
 Odoni Street	Port-Harcourt	Rivers	4.791	7.009	1	
 Odim street	Nsukka	Enugu	6.872	7.414	1	
@@ -394,7 +784,6 @@ Odonla Road	Ìkòròdú	Lagos	6.673	3.538	1
 Lady Uzo Odukwe Street	Awka South	Anambra	6.252	7.100	1	
 Kunle Odugbesan Street	Ijebu North	Ogun	6.946	3.928	1	
 Odugbesan Street	Ijebu North	Ogun	6.947	3.926	1	
-Odo Aje	Ibadan North East	Oyo	7.384	3.910	1	
 Odudu Road	Ìkòròdú	Lagos	6.553	3.542	1	
 Ode Adeka Avenue	Municipal Area Council	FCT Abuja	9.120	7.364	1	
 Odozi Street	Ifo	Ogun	6.648	3.366	1	Oremeta/Yakoyo Road
@@ -404,61 +793,97 @@ Odubiyi Street	Mushin	Lagos	6.521	3.347	1
 Ebun Odebode Close	Eti Osa	Lagos	6.507	3.598	1	
 Oke - Ode close	Ilorin East	Kwara	8.486	4.568	1	
 Oduwale Street	Agege	Lagos	6.631	3.312	1	
-Chukwuemeka Odumegwu Ojukwu University, Uli	Ihiala	Anambra	5.772	6.837	0	
 Odeku Street	Agege	Lagos	6.624	3.321	1	
 Olu Odo Road	Ìkòròdú	Lagos	6.587	3.500	1	
 Oduduwa Road	Akure South	Ondo	7.293	5.150	1	
-Oduduwa Road	Akure South	Ondo	7.296	5.146	1	
 Odoro Mbot	Ukanafun	Akwa Ibom	4.864	7.657	1	
 Usong Udua Odung	Ukanafun	Akwa Ibom	4.869	7.652	1	
 Odopetu Street	Akure South	Ondo	7.247	5.194	1	
-Odo-Uwhosi Market Road	Akoko-Edo	Edo	7.439	6.073	1	
 Odot 2 Akwa Ibom	Nsit Atai	Akwa Ibom	4.832	8.042	1	
 Ikot Ekong/Akpang Offop Road Odot Akwa Ibom	Nsit Atai	Akwa Ibom	4.808	8.039	1	
 Ikot Ekpuk Odot Alwa Ibom	Nsit Atai	Akwa Ibom	4.824	8.042	1	
 Eastern Nsit Secondary School Odot	Nsit Atai	Akwa Ibom	4.831	8.034	1	
-Odoma Clinic and Maternity	Igalamela-Odolu	Kogi	7.131	6.770	0	
 Adeyiga Odunukan Street	Kosofe	Lagos	6.545	3.404	1	
 Odogbolu Street	Alimosho	Lagos	6.534	3.268	1	
-Olu Odo Road	Ìkòròdú	Lagos	6.597	3.500	1	
-Amuwo Odofin Maternal & Childcare Centre	Amuwo Odofin	Lagos	6.462	3.302	0	
 Epe - Ijebu-ode Expressway	Epe	Lagos	6.604	3.985	1	
 Paul Odili Crescent	Municipal Area Council	FCT Abuja	8.973	7.348	1	
-Paul Odili Crescent	Municipal Area Council	FCT Abuja	8.976	7.346	1	
 Odiabidi Aminigboko Rd	Abua/Odual	Rivers	4.928	6.628	1	
-Farm Settlement Community Primary School, Odogunyan	Ìkòròdú	Lagos	6.659	3.520	0	
 Oduduwa Road	Akure South	Ondo	7.303	5.139	1	
-Odinjo Comprehensive Health Center	Ibadan South East	Oyo	7.359	3.913	0	
-Ode Aje Health Centre	Ibadan North East	Oyo	7.382	3.916	0	
-Odongunyan Secondary School	Ìkòròdú	Lagos	6.663	3.521	0	
 Layin OD Street	Gwale	Kano	11.977	8.472	1	
 Oladele Oduekun Street	Oshodi/Isolo	Lagos	6.500	3.294	1	
-Odo-Okun Secondary School, Oboghoro	Warri North	Delta	5.808	5.086	0	
-Paul Odili Crescent	Municipal Area Council	FCT Abuja	8.975	7.344	1	
 Odeyemi Street	Ìkòròdú	Lagos	6.567	3.532	1	
 Odudu str	Ojo	Lagos	6.457	3.224	1	
 Ijebu Ode-Idi Ayunre Road	Oluyole	Oyo	7.232	3.863	1	
-Ijebu Ode-Idi Ayunre Road	Oluyole	Oyo	7.230	3.866	1	
-Odion Community	Warri South	Delta	5.508	5.757	2	
-Odion Primary School	Isoko North	Delta	5.511	6.116	0	
-Odo Okun Health Center	Oluyole	Oyo	7.298	3.844	0	
 Mojeen Odofin Street	Ibeju Lekki	Lagos	6.486	3.725	1	
 Oda Road	Akure South	Ondo	7.229	5.215	1	
-Oda Road	Akure South	Ondo	7.197	5.229	1	
 Oja Odan Road, Ilaro	Yewa South	Ogun	6.886	2.994	1	
-Oja Odan Road, Ilaro	Yewa South	Ogun	6.887	3.006	1	
 Adefowope Odukoya Street	Ìkòròdú	Lagos	6.626	3.480	1	
 Oja Odan Road, Ilaro	Yewa North	Ogun	6.897	2.861	1	
 Oja Odan Road, Ilaro	Yewa North	Ogun	6.894	2.903	1	
 Paul Odulaja Crescent	Kosofe	Lagos	6.561	3.393	1	
-Igalamela-Odolu	Igalamela-Odolu	Kogi	7.035	7.059	2	
-Ado Odo/Ota	Ado Odo/Ota	Ogun	6.624	3.082	2	
-Odogbolu	Odogbolu	Ogun	6.808	3.814	2	
-Odigbo	Odigbo	Ondo	6.732	4.885	2	
-Ese Odo	Ese Odo	Ondo	6.231	4.953	2	
-Odo Otin	Odo Otin	Osun	8.007	4.679	2	
-Abua/Odual	Abua/Odual	Rivers	4.847	6.560	2	
-Amuwo Odofin	Amuwo Odofin	Lagos	6.447	3.266	2	
-Ìjẹ̀bú Òde	Ìjẹ̀bú Òde	Ogun	6.784	3.955	2	
-Odeda	Odeda	Ogun	7.313	3.456	2	
-Odukpani	Odukpani	Cross River	5.187	8.198	2	
+Odo-odi	Ile Oluji/Okeigbo	Ondo	7.164	4.729	0	
+Odia Primary School	Oredo	Edo	6.284	5.568	0	
+Ijebu Ode Park to Lagos	Ìjẹ̀bú Òde	Ogun	6.811	3.910	0	
+Ode Igbisin Market	Okitipupa	Ondo	6.498	4.646	0	
+Odigbo Market	Odigbo	Ondo	6.795	4.872	0	
+Ode-Irele Market	Irele	Ondo	6.491	4.871	0	
+Ode Omi Market	Irele	Ondo	6.478	4.889	0	
+Ode Iyansan Market	Irele	Ondo	6.463	5.121	0	
+Ode Erinje Market	Okitipupa	Ondo	6.433	4.726	0	
+Ode Bara Market	Ejigbo	Osun	7.904	4.315	0	
+ijon odo (ogun)	Ado Odo/Ota	Ogun	6.562	3.196	0	
+st. andrew's anglican primary school, odoasonyin	Ìjẹ̀bú Òde	Ogun	6.832	3.935	0	
+African Church Primary School,Odan Abuja	Ifo	Ogun	6.702	3.355	0	
+St. John'S Anglican Primary School, Ode-Lemo	Ado Odo/Ota	Ogun	6.561	2.961	0	
+St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.742	3.263	0	
+Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.638	3.207	0	
+All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.676	3.223	0	
+St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Shagamu	Ogun	6.851	3.650	0	
+St. Peters Anglican Primary School Odan Otun	Ado Odo/Ota	Ogun	6.661	3.182	0	
+Local Government Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.662	3.182	0	
+Our Savior /Mary Primary School, Odokwu	Ado Odo/Ota	Ogun	6.613	3.228	0	
+Nawair Ud Deen Primary School, Odulagun	Ado Odo/Ota	Ogun	6.673	3.176	0	
+Methodist Primary School, Odugbe	Ifo	Ogun	6.751	3.273	0	
+Ansar U Deen Primary School, Odelemo	Ifo	Ogun	6.793	3.203	0	
+Emmanuel Anglican Church School, Ibogun Odejimi	Shagamu	Ogun	6.851	3.642	0	
+St.Joseph'S Anglican Primary School,Odonoko	Ado Odo/Ota	Ogun	6.742	3.255	0	
+Ansar U Deen Primary School, Odelemo	Ikenne	Ogun	6.834	3.722	0	
+Emmanuel Anglican Church School, Ibogun Odejimi	Ifo	Ogun	6.812	3.114	0	
+Nawair Ud Deen Primary School, Odulagun	Ifo	Ogun	6.749	3.308	0	
+St. John'S Anglican Primary School, Ode-Lemo	Shagamu	Ogun	6.746	3.663	0	
+Our Savior /Mary Primary School, Odokwu	Ìjẹ̀bú Òde	Ogun	6.734	3.982	0	
+St. James Anglican Primary School I Iado Odo	Ado Odo/Ota	Ogun	6.684	3.235	0	
+St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.683	3.237	0	
+St. Peters Anglican Primary School Odan Otun	Ado Odo/Ota	Ogun	6.638	3.207	0	
+Methodist Primary School, Odugbe	Ado Odo/Ota	Ogun	6.617	3.087	0	
+African Church Primary School,Odan Abuja	Ado Odo/Ota	Ogun	6.603	3.196	0	
+Methodist Central Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
+All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.939	0	
+Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
+Ansar Ud Deen Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.591	2.945	0	
+United African Methodist Church Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.589	2.942	0	
+Local Government Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.588	2.931	0	
+St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
+St. Joseph Roman Catholic Mission Primary  School 1 Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
+St. Joseph Anglican School, Odonoko	Ìjẹ̀bú Òde	Ogun	6.744	4.003	0	
+2 Div Military Hospital, Odogbo Cantonment, Ojoo	Akinyele	Oyo	7.471	3.918	0	
+Odu Primary Health Clinic	Nasarawa	Nasarawa	8.455	7.895	0	
+Odugbe Hosipal	Ado Odo/Ota	Ogun	6.617	3.092	0	
+Odan Abuja Primary Health Center	Ado Odo/Ota	Ogun	6.578	3.175	0	
+Odus Health Center	Mushin	Lagos	6.521	3.345	0	
+Odus Specialist Clinic	Mushin	Lagos	6.521	3.345	0	
+Odonton Ville Dental Clinic	Mushin	Lagos	6.557	3.364	0	
+Odo Ori	Iwo	Osun	7.656	4.189	0	
+Gaa Odota Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.460	4.509	0	
+oto owu odo (ogun)	Ado Odo/Ota	Ogun	6.552	3.198	0	
+ODES petroleum	Ede North	Osun	7.719	4.497	0	
+Chukwuemeka Odumegwu Ojukwu University, Uli	Ihiala	Anambra	5.772	6.837	0	
+Odoma Clinic and Maternity	Igalamela-Odolu	Kogi	7.131	6.770	0	
+Amuwo Odofin Maternal & Childcare Centre	Amuwo Odofin	Lagos	6.462	3.302	0	
+Farm Settlement Community Primary School, Odogunyan	Ìkòròdú	Lagos	6.659	3.520	0	
+Odinjo Comprehensive Health Center	Ibadan South East	Oyo	7.359	3.913	0	
+Ode Aje Health Centre	Ibadan North East	Oyo	7.382	3.916	0	
+Odongunyan Secondary School	Ìkòròdú	Lagos	6.663	3.521	0	
+Odo-Okun Secondary School, Oboghoro	Warri North	Delta	5.808	5.086	0	
+Odion Primary School	Isoko North	Delta	5.511	6.116	0	
+Odo Okun Health Center	Oluyole	Oyo	7.298	3.844	0	

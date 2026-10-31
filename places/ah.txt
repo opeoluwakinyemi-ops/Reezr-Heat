@@ -1,4 +1,5 @@
-Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
+Ahoada	Ahoada East	Rivers	5.085	6.647	3	
+Ahoada	Ahoada East	Rivers	5.083	6.650	3	Ahoadao
 Guidan Ahmed	Sabon Birni	Sokoto	13.653	6.134	2	
 Ahonda	Fakai	Kebbi	11.672	4.853	2	
 Gari-Ahoda	Gudu	Sokoto	13.505	4.320	2	
@@ -14,7 +15,6 @@ Aho	Surulere	Oyo	8.283	4.383	2	Ahoyaya
 Ahia	Ikwerre	Rivers	5.177	6.963	2	Ihia
 Aha	Saki East	Oyo	8.583	3.500	2	
 Ahumanum	Ikwo	Ebonyi	6.033	8.107	2	
-Ahoada	Ahoada East	Rivers	5.085	6.647	3	
 Ungwan Ahyaya	Ikara	Kaduna	11.391	8.083	2	Ahyaya
 Ahun	Yagba West	Kogi	8.333	5.333	2	Aun
 Ahia Aba	Isiala-Ngwa South	Abia	5.388	7.347	2	
@@ -25,17 +25,165 @@ Jauro Ahmadu	Bayo	Borno	10.339	11.619	2
 Jauro Ahmed	Hawul	Borno	10.389	12.423	2	
 Jauro Ahmadu	Biu	Borno	10.593	11.967	2	
 Ahuyahuya	Damboa	Borno	11.024	12.908	2	
-General Hospital ahoada	Ahoada East	Rivers	5.093	6.645	0	
 Ahmoduri Goni	Guzamala	Borno	12.648	13.272	2	
-Ahiara Technical College (ATC) Nnarambia	Ahiazu-Mbaise	Imo	5.525	7.262	0	
-Rufai Ahmad Alkali	Gombe	Gombe	10.306	11.172	0	
 Ala-Ahoada	Ahoada East	Rivers	5.105	6.627	2	
-Ahmis nig ltd	Jos North	Plateau	9.982	8.898	0	
-Eke-Ahiara Junction	Ahiazu-Mbaise	Imo	5.525	7.267	0	
-Barau Dikko Teaching Hospital No1 Suleiman Ahmed Road Shagari Lowcost	Kaduna South	Kaduna	10.464	7.432	0	
-Hajia Asama'u Ahmad Makarfi Health Center Barnawa	Kaduna South	Kaduna	10.481	7.430	0	
-MA AHAD	Nassarawa	Kano	12.034	8.561	0	
-BINTA AHMAD MEMORIAL ACADEMY	Gwale	Kano	11.961	8.474	0	
+Ahiazu-Mbaise	Ahiazu-Mbaise	Imo	5.563	7.264	2	
+Ahoada East	Ahoada East	Rivers	5.050	6.643	2	
+Ahoada West	Ahoada West	Rivers	5.042	6.513	2	
+Ahoto	Buji	Jigawa	11.650	9.789	2	
+Zum Ahmadu	Hong	Adamawa	10.133	13.100	2	
+Zum	Hong	Adamawa	10.115	13.048	2	Zum Ahmadu
+Wuro Ahmadu Kulu	Ardo-Kola	Taraba	8.730	11.268	2	
+Wuro Ahmadu	Hong	Adamawa	10.069	12.970	2	
+Wuro-Ahi	Fufore	Adamawa	9.458	12.621	2	Wuro Ahi
+Ungwar Ahmadu	Ardo-Kola	Taraba	8.823	10.951	2	
+Ahar	Sanga	Kaduna	9.129	8.230	2	Minzishu
+Ashefe	Obi	Nasarawa	8.400	8.676	2	Ahefe
+Ani-Ujeh	Aniocha South	Delta	6.190	6.415	2	Ahijo|Aluje
+Ahuwo	Ikwuano	Abia	5.408	7.537	2	
+Ahute	Gboko	Benue	7.341	8.670	2	
+Ahun	Ipokia	Ogun	6.660	2.785	2	
+Ahuma	Arochukwu	Abia	5.489	7.773	2	
+Ahula	Konshisha	Benue	7.309	8.604	2	
+Ahula	Ushongo	Benue	7.168	8.948	2	
+Ahua	Takum	Taraba	7.433	10.246	2	
+Ahua	Konshisha	Benue	7.103	8.724	2	
+Ahu	Konshisha	Benue	7.042	8.599	2	
+Ahovo	Ipokia	Ogun	6.458	2.839	2	
+Ahoukia	Ushongo	Benue	7.153	8.940	2	
+Ahoro-Elemo	Ori Ire	Oyo	8.235	4.138	2	Ahoro Elemo
+Ahoro-Agba	Iwajowa	Oyo	7.923	3.140	2	Ahoro Agba|AhoroAgba
+Ahoro-Adan	Saki East	Oyo	8.708	3.709	2	Ahoro Adan
+Ahoro	Asa	Kwara	8.379	4.451	2	
+Ahoro	Oluyole	Oyo	7.279	3.769	2	
+Ahonge	Konshisha	Benue	7.213	8.503	2	
+Ahongba-Nwave	Konshisha	Benue	7.166	8.502	2	
+Aho-Igbada	Oyun	Kwara	8.095	4.540	2	Aho Igbada|AhoIgbada
+Aho	Surulere	Oyo	8.258	4.420	2	
+Aho	Guma	Benue	7.992	8.558	2	
+Jouro-Ahmadu	Gulani	Yobe	11.038	11.751	2	Ahmadu
+Ahiyangan	Ibarapa East	Oyo	7.725	3.475	2	
+Ahinza	Toto	Nasarawa	8.413	7.084	2	
+Ahimua	Ika South	Delta	6.314	6.155	2	
+Ahile	Gboko	Benue	7.253	8.744	2	
+Ahile	Konshisha	Benue	7.013	8.817	2	
+Ahia	Esan South-East	Edo	6.645	6.453	2	
+Ahi	Konshisha	Benue	7.086	8.744	2	
+Ahere-Oloke	Ìsẹ́yìn	Oyo	8.027	3.541	2	Ahere Oloke
+Ahere-Offa	Surulere	Oyo	8.108	4.333	2	Ahere Offa
+Ahere	Itesiwaju	Oyo	8.259	3.535	2	
+Ahenda	Ussa	Taraba	7.351	10.230	2	
+Ahen	Gboko	Benue	7.397	8.618	2	
+Ahen	Ushongo	Benue	7.204	8.886	2	
+Ahemba	Ushongo	Benue	7.082	8.818	2	
+Ahanfe	Badagry	Lagos	6.438	2.768	2	
+Ahai	Emuoha	Rivers	4.837	6.905	2	
+Ahaba	Isuikwuato	Abia	5.719	7.559	2	
+Abugi	Lokoja	Kogi	8.562	6.245	2	Ahuji
+Ahiaeke	Emuoha	Rivers	4.931	6.827	2	Ahia-Eke
+Ahiakwo	Ikwerre	Rivers	4.923	6.888	2	Ahiakwo-Umoko
+Rumu-Aholu	Obio/Akpor	Rivers	4.876	6.987	2	
+Ahia Ahor	Emuoha	Rivers	4.851	6.873	2	
+Abiankwo	Emuoha	Rivers	4.828	6.834	2	Ahiankwo
+Maraya Alhaji Ahmadu	Gezawa	Kano	12.012	8.724	2	
+Ahachi	Toto	Nasarawa	8.346	7.021	2	Chiji
+Rumu-Ahunwa	Ikwerre	Rivers	4.928	6.935	2	
+Ahanechi	Okene	Kogi	7.566	6.226	2	
+Ahmadu	Hawul	Borno	10.489	12.168	2	
+Ahule	Ushongo	Benue	7.261	8.904	2	
+Ahumahum	Ikwo	Ebonyi	6.035	8.109	2	Ahumanum
+Ahaba	Ikwuano	Abia	5.380	7.546	2	
+Ahia Ukwu	Umuahia South	Abia	5.489	7.505	2	
+Ahiaeke Ndume	Umuahia North	Abia	5.510	7.529	2	
+Ahoada West	Ahoada West	Rivers	5.086	6.471	2	Agbegbe Ijoba Ibile Iwoorun Ahoada|Ahoada Oeste|Ahoada Ouest|Ahoada ta Yamma|Se Ahoada|ghrb ahwada
+Ahoada East	Ahoada East	Rivers	5.070	6.643	2	Agbegbe Ijoba Ibile Ilaorun Ahoada|Ahoada East Local Government Area|Ahoada Est|Ahoada Leste|Ahoada ta Gabas|Tang Ahoada
+Ahamse	Gwer East	Benue	7.353	8.328	2	
+Ahar	Gwer East	Benue	7.253	8.388	2	
+Ahilogbo	Oturkpo	Benue	7.082	8.021	2	
+Ahura	Gwer West	Benue	7.666	8.094	2	
+Ahaa	Gwer West	Benue	7.568	8.207	2	
+Ahondana	Gwer West	Benue	7.508	8.179	2	
+Ahumbe	Gwer East	Benue	7.573	8.394	2	
+Ahwa	Logo	Benue	7.789	9.290	2	
+Ahula	Buruku	Benue	7.522	9.099	2	
+Ahhua	Logo	Benue	7.607	9.323	2	
+Ahoo	Ukum	Benue	7.604	9.703	2	
+Ahua-Bileje	Ukum	Benue	7.544	9.752	2	
+Ahan	Donga	Taraba	7.624	9.822	2	
+Ahure	Buruku	Benue	7.434	9.145	2	
+Aha	Buruku	Benue	7.386	9.171	2	
+Ahangba	Buruku	Benue	7.285	9.169	2	
+Ahhe	Buruku	Benue	7.260	9.183	2	
+Ahambe	Buruku	Benue	7.374	9.260	2	
+Ahemba	Katsina-Ala	Benue	7.404	9.384	2	
+Ahungwa	Katsina-Ala	Benue	7.305	9.427	2	
+Ahamber	Katsina-Ala	Benue	7.272	9.445	2	
+Ahua	Katsina-Ala	Benue	7.290	9.480	2	
+Ahokaa	Gboko	Benue	7.247	9.069	2	
+Ahemba	Ushongo	Benue	7.168	9.015	2	
+Ahula	Buruku	Benue	7.130	9.089	2	
+Ahua	Ushongo	Benue	7.125	9.088	2	
+Ahemba	Ushongo	Benue	7.093	9.064	2	
+Ahire	Vandeikya	Benue	7.032	9.045	2	
+Ahange	Buruku	Benue	7.192	9.149	2	
+Ahua	Buruku	Benue	7.163	9.110	2	
+Ahembe	Buruku	Benue	7.138	9.093	2	
+Ahen	Ushongo	Benue	7.122	9.099	2	
+Ahen	Buruku	Benue	7.135	9.145	2	
+Ahua	Ushongo	Benue	7.056	9.105	2	
+Ahua	Ushongo	Benue	7.052	9.145	2	
+Ahee	Katsina-Ala	Benue	7.247	9.353	2	
+Ahuwa	Katsina-Ala	Benue	7.241	9.350	2	
+Ahambe	Katsina-Ala	Benue	7.212	9.287	2	
+Ahilenyaze	Katsina-Ala	Benue	7.186	9.343	2	
+Ahua	Kwande	Benue	7.027	9.357	2	
+Ahile	Katsina-Ala	Benue	7.211	9.392	2	
+Ahembe	Katsina-Ala	Benue	7.214	9.448	2	
+Ahirejime	Kwande	Benue	7.039	9.389	2	
+Ahura	Kwande	Benue	7.014	9.446	2	
+Ahule	Gboko	Benue	7.483	8.759	2	
+Ahua	Gboko	Benue	7.468	8.776	2	
+Ahile	Gboko	Benue	7.486	8.805	2	
+Ahule	Gboko	Benue	7.463	8.806	2	
+Ahile	Gboko	Benue	7.481	8.901	2	
+Ahile	Gboko	Benue	7.473	8.937	2	
+Ahua	Gboko	Benue	7.422	8.951	2	
+Ahula	Gboko	Benue	7.385	8.755	2	
+Ahua	Gboko	Benue	7.383	8.754	2	
+Ahula	Gboko	Benue	7.410	8.918	2	
+Ahulzaa	Gboko	Benue	7.406	8.990	2	
+Ahua	Gboko	Benue	7.360	8.957	2	
+Ahile	Gboko	Benue	7.335	8.780	2	
+Ahua	Gboko	Benue	7.310	8.841	2	
+Ahoo	Gboko	Benue	7.321	8.938	2	
+Ahangba	Gboko	Benue	7.338	8.951	2	
+Ahue	Gboko	Benue	7.338	8.966	2	
+Ahua	Ushongo	Benue	7.268	8.940	2	
+Ahuhe	Ushongo	Benue	7.265	8.968	2	
+Ahunde	Gboko	Benue	7.285	8.901	2	
+Ahon	Gboko	Benue	7.291	8.901	2	
+Ahovikoh	Badagry	Lagos	6.424	2.904	2	
+Ahiara	Ahiazu-Mbaise	Imo	5.528	7.273	2	
+Garin Ahmadu	Ardo-Kola	Taraba	8.581	11.254	2	
+Jauro Ahmadu	Bali	Taraba	7.909	10.398	2	
+Idi-Ahun	Irewole	Osun	7.464	4.151	2	
+Ahere	Yewa North	Ogun	7.343	2.886	2	
+Ahire	Fufore	Adamawa	9.220	12.621	2	
+Ahere	Irele	Ondo	6.479	4.964	2	
+Ahii	Guma	Benue	8.081	8.551	2	
+Ahana	Keana	Nasarawa	8.226	8.654	2	
+Ahanran	Ife South	Osun	7.223	4.660	2	
+Ale-Ahanran	Ife South	Osun	7.217	4.675	2	
+Ahanran-Omosebi	Ife South	Osun	7.196	4.657	2	
+Aho	Ori Ire	Oyo	8.424	4.072	2	
+Ahere-Abata	Ori Ire	Oyo	8.104	4.113	2	
+Ahere-Onirin	Moro	Kwara	8.690	4.490	2	
+Aho	Asa	Kwara	8.655	4.352	2	
+Ahodudu	Asa	Kwara	8.239	4.547	2	
+Bakin-Ahini	Kokona	Nasarawa	8.749	8.059	2	
+Aho	Afijio	Oyo	7.816	3.753	2	
+Ahoro	Ifelodun	Kwara	8.401	4.796	2	
+Ahwaki	Toto	Nasarawa	8.051	7.213	2	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.073	7.486	1	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.088	7.408	1	
 Ahmadu Bello Way	Eti Osa	Lagos	6.439	3.405	1	
@@ -48,35 +196,24 @@ Ahmed Road	Kaduna North	Kaduna	10.579	7.457	1
 Sulieman Ahmed Road	Kaduna South	Kaduna	10.463	7.434	1	
 Ahorhan Street	Oredo	Edo	6.331	5.616	1	
 Ahie street	Egor	Edo	6.350	5.577	1	
-Ahmadu Bello Campus	Sabon Gari	Kaduna	11.153	7.655	1	
 Ahmadu Bello Way	Lagos Island	Lagos	6.441	3.403	1	
 Ahmadu Bello Way	Kaduna North	Kaduna	10.542	7.432	1	
-Ahmadu Bello Way	Eti Osa	Lagos	6.423	3.410	1	
-Ahmadu Bello Way	Eti Osa	Lagos	6.423	3.419	1	
 Ahmadu Bello Road	Surulere	Lagos	6.495	3.373	1	
 Ahmed Onibudo Street	Eti Osa	Lagos	6.434	3.428	1	
-Ahmadu Bello Way	Kaduna North	Kaduna	10.525	7.430	1	
 Ahmadu Bello Way	Kaduna North	Kaduna	10.511	7.431	1	
-Ahmadu Bello Way	Kaduna North	Kaduna	10.518	7.430	1	
 Ahmadu Bello Way	Nassarawa	Kano	11.996	8.559	1	
 Fela Ahmed Street	Ìkòròdú	Lagos	6.625	3.483	1	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.084	7.463	1	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.021	7.482	1	Apo Bridge
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.032	7.496	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.088	7.420	1	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.089	7.428	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.088	7.448	1	
 Ahmed Musa Crescent	Municipal Area Council	FCT Abuja	9.068	7.431	1	
 Ahmadu A. Ali Street	Municipal Area Council	FCT Abuja	9.065	7.441	1	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.106	7.397	1	
 Ahoada Street	Port-Harcourt	Rivers	4.761	7.032	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.056	7.499	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.054	7.500	1	
 Ahmed Avenue	Port-Harcourt	Rivers	4.739	7.028	1	
 Ahmed Daku Road	Tarauni	Kano	11.979	8.552	1	
 Ahmed Yekedima Road	Tarauni	Kano	11.979	8.555	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.026	7.487	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.064	7.494	1	
 Ahme Street	Surulere	Lagos	6.507	3.348	1	
 Ahmadu Bello Way, Ilorin 240211, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.566	1	
 Ahmadu Bello Way	Birnin Kebbi	Kebbi	12.448	4.198	1	
@@ -85,7 +222,6 @@ Ahmadu Bello Way, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.468	4.574	
 Olusoji Ahmed Street	Ifako/Ijaye	Lagos	6.662	3.302	1	
 Garba Ahmad Link	Fagge	Kano	11.997	8.539	1	
 Yakubu Ahmed Avenue	Nassarawa	Kano	12.004	8.566	1	
-Ahmadu Bello Teaching Hospital	Zaria	Kaduna	11.079	7.715	0	
 Ahmad Tijani Otton Street	Eti Osa	Lagos	6.445	3.472	1	
 Ahmed Ajikobi Street	Eti Osa	Lagos	6.453	3.571	1	
 Umuezie Nguru/Ahiato/Umuoda Road	Aboh-Mbaise	Imo	5.495	7.199	1	
@@ -101,8 +237,6 @@ Nurudeen Ahmed Street	Alimosho	Lagos	6.551	3.221	1
 Tijani Ahmed Way	Oshodi/Isolo	Lagos	6.587	3.336	1	
 Mohammed Ahmad CLose	Oshodi/Isolo	Lagos	6.584	3.340	1	
 Ahmed Kasumu Street	Eti Osa	Lagos	6.441	3.521	1	
-Ahmadu Bello Campus	Sabon Gari	Kaduna	11.157	7.652	1	
-Ahmadu Bello Way	Eti Osa	Lagos	6.425	3.410	1	
 Omudioga to Ahia FS Rd	Ikwerre	Rivers	5.151	6.846	1	
 Ahmed Kumasi Street	Kaduna North	Kaduna	10.574	7.423	1	
 Ahmed Mohammed Way	Alimosho	Lagos	6.646	3.303	1	
@@ -110,31 +244,32 @@ Ahia FS Location Rd	Emuoha	Rivers	5.185	6.779	1
 Ahmed Amusa Street	Ibeju Lekki	Lagos	6.478	3.729	1	
 Ahmadu Bello way	Lokoja	Kogi	7.813	6.749	1	
 Ahmad Daku Street	Municipal Area Council	FCT Abuja	8.993	7.487	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.095	7.407	1	
 Ahmed Oguntunde Street	Ìkòròdú	Lagos	6.620	3.646	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.076	7.475	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.081	7.466	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.038	7.500	1	
 Ahmed Mohammed Way	Alimosho	Lagos	6.644	3.301	1	
 Ahmadu Bello Road	Surulere	Lagos	6.491	3.373	1	
 Ahoada- Abua Rd	Ahoada East	Rivers	5.073	6.652	1	
 Hospital Road (Old Ahoada Road)	Emuoha	Rivers	5.059	6.714	1	
-Mahmud Ahmadiyya College	Ìkòròdú	Lagos	6.584	3.590	0	
-Sir Ahmadu Bello International Airport	Birnin Kebbi	Kebbi	12.485	4.375	0	
 Ahoada- Abua Road	Ahoada East	Rivers	5.076	6.655	1	
-Ahmad Ado Bayero Primary Health Centre	Kumbotso	Kano	11.927	8.580	0	
-Ahip Primary Health Centre	Garko	Kano	11.644	8.802	0	
-Ahoada- Abua Rd	Ahoada East	Rivers	5.083	6.653	1	
-Ahoada- Abua Rd	Ahoada East	Rivers	5.083	6.655	1	
-AHIZ STREET	Uhunmwonde	Edo	6.410	5.709	1	
-Eyn Dispensary Kwakwa'ah	Hong	Adamawa	10.183	13.046	0	
-Wuro Ahi Primary Health Center	Fufore	Adamawa	9.458	12.621	0	
+Ahiz Street	Uhunmwonde	Edo	6.410	5.709	1	
 Ahoada- Abua Rd	Ahoada East	Rivers	4.954	6.633	1	
 Ahia FS Location Rd	Emuoha	Rivers	5.196	6.763	1	
 Dr. Ahmed Close	Kaduna North	Kaduna	10.525	7.454	1	
 Bola Ahmed Tinubu Way	Eti Osa	Lagos	6.475	3.585	1	
 Bola Ahmed Tinubu Way	Eti Osa	Lagos	6.471	3.585	1	
-Ahiazu-Mbaise	Ahiazu-Mbaise	Imo	5.563	7.264	2	
-Ahoada East	Ahoada East	Rivers	5.050	6.643	2	
-Ahoada West	Ahoada West	Rivers	5.042	6.513	2	
-Ahoto	Buji	Jigawa	11.650	9.789	2	
+Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
+General Hospital ahoada	Ahoada East	Rivers	5.093	6.645	0	
+Ahiara Technical College (ATC) Nnarambia	Ahiazu-Mbaise	Imo	5.525	7.262	0	
+Rufai Ahmad Alkali	Gombe	Gombe	10.306	11.172	0	
+Ahmis nig ltd	Jos North	Plateau	9.982	8.898	0	
+Eke-Ahiara Junction	Ahiazu-Mbaise	Imo	5.525	7.267	0	
+Barau Dikko Teaching Hospital No1 Suleiman Ahmed Road Shagari Lowcost	Kaduna South	Kaduna	10.464	7.432	0	
+Hajia Asama'u Ahmad Makarfi Health Center Barnawa	Kaduna South	Kaduna	10.481	7.430	0	
+Ma Ahad	Nassarawa	Kano	12.034	8.561	0	
+Binta Ahmad Memorial Academy	Gwale	Kano	11.961	8.474	0	
+Ahmadu Bello Teaching Hospital	Zaria	Kaduna	11.079	7.715	0	
+Mahmud Ahmadiyya College	Ìkòròdú	Lagos	6.584	3.590	0	
+Sir Ahmadu Bello International Airport	Birnin Kebbi	Kebbi	12.485	4.375	0	
+Ahmad Ado Bayero Primary Health Centre	Kumbotso	Kano	11.927	8.580	0	
+Ahip Primary Health Centre	Garko	Kano	11.644	8.802	0	
+Eyn Dispensary Kwakwa'ah	Hong	Adamawa	10.183	13.046	0	
+Wuro Ahi Primary Health Center	Fufore	Adamawa	9.458	12.621	0	

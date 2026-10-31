@@ -1,5 +1,5 @@
-class Room 1A	Gombe	Gombe	10.307	11.167	0	
-Number 1A Waterside	Apapa	Lagos	6.443	3.349	0	
 Road 1A	Lagelu	Oyo	7.433	3.935	1	
 Road-1A	Municipal Area Council	FCT Abuja	8.971	7.437	1	
 Road 1A	Ife North	Osun	7.507	4.492	1	
+class Room 1A	Gombe	Gombe	10.307	11.167	0	
+Number 1A Waterside	Apapa	Lagos	6.443	3.349	0	

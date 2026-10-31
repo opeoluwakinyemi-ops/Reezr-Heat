@@ -1,8 +1,4 @@
-FHXP+25X, Fate Rd, Oko Erin 240102, Kwara, Nigeria	Ilorin South	Kwara	8.498	4.586	0	
-FHW2+V3J, Gambari Rd, Oko Erin 240212, Kwara, Nigeria	Ilorin East	Kwara	8.497	4.550	0	
 Babaoko Market Rd, Oja Oba, Kwara, Nigeria	Ilorin East	Kwara	8.487	4.539	1	
-Total comfort filling station, Agbabiaka Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.463	4.588	0	
-28a University Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.598	0	
 Jatau Rd	Chikun	Kaduna	10.456	7.459	1	
 Delta Crescent Rd	Oredo	Edo	6.310	5.625	1	
 Calabar - Ikang Rd	Calabar Municipal	Cross River	4.964	8.332	1	
@@ -38,7 +34,6 @@ Warri Benin Rd	Ethiope West	Delta	5.920	5.701	1
 Warri Benin Rd	Ethiope West	Delta	5.939	5.688	1	
 Opoji Rd	Esan Central	Edo	6.699	6.182	1	
 Uwelelen Odie Rd	Esan West	Edo	6.740	6.144	1	
-Warri Benin Rd	Ethiope West	Delta	5.903	5.733	1	
 Ukhun-Idoa Rd	Esan West	Edo	6.752	6.153	1	
 Ughelli-Patani Rd	Ughelli North	Delta	5.456	6.023	1	
 Mgbidi-Orlu Rd	Oru East	Imo	5.787	6.951	1	
@@ -46,7 +41,6 @@ Orlu-Osina-Akokwa-Uga Rd	Orlu	Imo	5.810	7.063	1
 Ihiala -Orlu Rd	Orsu	Imo	5.826	6.944	1	
 Orlu-Osina-Akokwa-Uga Rd	Orlu	Imo	5.799	7.039	1	
 Ihiala -Orlu Rd	Orlu	Imo	5.800	7.019	1	
-Ihiala -Orlu Rd	Orlu	Imo	5.798	7.025	1	
 Ozara-Ohakpu Rd	Oru West	Imo	5.733	6.858	1	
 Ibiasogbe-Ubulu-Awoidemili Rd	Oru East	Imo	5.782	6.909	1	
 Tobi Lawal Rd	Shomolu	Lagos	6.516	3.377	1	
@@ -105,8 +99,6 @@ East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.875	6.923	1
 Rd Track	Igabi	Kaduna	10.842	7.551	1	
 Track Rd	Igabi	Kaduna	10.845	7.550	1	
 Ota-Agbara Rd	Ado Odo/Ota	Ogun	6.661	3.089	1	
-Barracks Rd	Calabar Municipal	Cross River	4.964	8.325	1	
-Calabar - Ikang Rd	Calabar Municipal	Cross River	4.967	8.328	1	
 RCC Rd	Calabar Municipal	Cross River	5.000	8.329	1	
 Calabar - Ikang Rd	Calabar Municipal	Cross River	4.992	8.359	1	
 Idi-Osan - Oke-omi Rd	Egbeda	Oyo	7.448	4.024	1	
@@ -120,16 +112,12 @@ Rd Track	Igabi	Kaduna	10.800	7.583	1
 Azungwu Secondary Sch Rd	Aniocha South	Delta	6.170	6.514	1	
 Ilah-Okwe Rd	Oshimili South	Delta	6.183	6.746	1	
 Odiabidi Aminigboko Rd	Abua/Odual	Rivers	4.928	6.628	1	
-Ahoada- Abua Rd	Ahoada East	Rivers	5.083	6.653	1	
-Ahoada- Abua Rd	Ahoada East	Rivers	5.083	6.655	1	
 Ahoada- Abua Rd	Ahoada East	Rivers	4.954	6.633	1	
 Ahia FS Location Rd	Emuoha	Rivers	5.196	6.763	1	
 Candis Rd	Ohaji/Egbema	Imo	5.458	6.776	1	
-Egbema – Ndoni Rd	Ogba/Egbema/Ndoni	Rivers	5.340	6.654	1	
 Warri Benin Rd	Ethiope West	Delta	5.871	5.730	1	
 Jelisa Sch Rd.	Port-Harcourt	Rivers	4.786	6.962	1	
 Eze Obiekweihe Palace Rd	Oru East	Imo	5.789	6.930	1	
-Ama Agabi-Ubahadara Rd	Oru East	Imo	5.788	6.933	1	
 Egemole-Ubahadara-Amagu Ring Rd	Oru East	Imo	5.790	6.932	1	
 Ota-Agbara Rd	Ado Odo/Ota	Ogun	6.587	3.084	1	
 Ota-Agbara Rd	Ado Odo/Ota	Ogun	6.582	3.083	1	
@@ -137,3 +125,7 @@ Nike Art Gallery Rd	Eti Osa	Lagos	6.433	3.482	1
 East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.868	7.028	1	
 Track Rd	Markurdi	Benue	7.687	8.472	1	
 Ubahadara Rd	Oru East	Imo	5.789	6.930	1	
+FHXP+25X, Fate Rd, Oko Erin 240102, Kwara, Nigeria	Ilorin South	Kwara	8.498	4.586	0	
+FHW2+V3J, Gambari Rd, Oko Erin 240212, Kwara, Nigeria	Ilorin East	Kwara	8.497	4.550	0	
+Total comfort filling station, Agbabiaka Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.463	4.588	0	
+28a University Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.598	0	

@@ -1,3 +1,9 @@
+Maiduguri	Maiduguri	Borno	11.847	13.157	3	MIU|Maidiguri|Maidugari|Maiduguris|Majduguri|ma'iduguri|mai du gu li|maidouguri|maiduguli|maiduguri|maydwghwry|maydwgwrw
+Lissam	Ussa	Taraba	7.196	10.046	3	Kaduna Lissam
+Ilorin	Ilorin East	Kwara	8.497	4.542	3	ILR|Illorin|Ilorinas|Iloryn|alwrn|alwryn|aylwryn|illolin|ilorina|irorin|yi luo lin
+Ado-Ekiti	Adó-Èkìtì	Ekiti	7.623	5.221	3	Ado|Ado-Ehkiti|EKK|ado-ekiti|adw akyty|adw-aykty|lidiyeti lisano
+Life Camp	Municipal Area Council	FCT Abuja	9.068	7.404	2	
+Liji	Yamaltu/Deba	Gombe	10.277	11.230	2	
 Angwan-Lima	Maru	Zamfara	11.281	6.527	2	
 Limido Kwai	Kiru	Kano	11.672	8.187	2	Lamido Kwai
 Lisa	Odeda	Ogun	7.250	3.600	2	Jagemo
@@ -42,17 +48,7 @@ Ungwan Liman	Funtua	Katsina	11.267	7.333	2	Angwan Liman
 Lira	Mubi North	Adamawa	10.290	13.323	2	
 Unguwar Lilu	Gusau	Zamfara	12.265	6.904	2	
 Litingo	Binji	Sokoto	13.159	4.982	2	
-Life Camp Junction	Municipal Area Council	FCT Abuja	9.068	7.404	0	
-Edo Line	Oredo	Edo	6.344	5.628	0	
-Pengana Concept Limited	Jos North	Plateau	9.956	8.862	0	
-Divine Light Group of Schools	Egor	Edo	6.356	5.572	0	
-New Life In Christ Group of Schools	Egor	Edo	6.363	5.578	0	
-Life Line Medicare Clinic	Oredo	Edo	6.332	5.627	0	
-Crystay Line Park	Oredo	Edo	6.344	5.632	0	
-Edegbe Line	Oredo	Edo	6.345	5.629	0	
 Links Reservation	Ibadan North West	Oyo	7.403	3.878	2	
-Unguwar Liman Health Post	Rogo	Kano	11.405	7.744	0	
-Kauyen Liman Health Post	Rogo	Kano	11.543	7.821	0	
 Liringo	Bagwai	Kano	12.158	8.101	2	
 Limawa	Tarauni	Kano	11.968	8.571	2	
 Liya	Biu	Borno	10.701	12.389	2	
@@ -70,51 +66,16 @@ Fulani Lina	Hawul	Borno	10.380	12.320	2
 Locoja Lina	Hawul	Borno	10.375	12.334	2	
 Liwur	Abadam	Borno	13.490	13.156	2	
 Lingir	Monguno	Borno	12.689	13.512	2	
-Lingir Health Clinic	Monguno	Borno	12.688	13.511	0	
 Litawa Kashimri	Damboa	Borno	11.080	12.833	2	
 Litawa Lawanti	Damboa	Borno	11.087	12.837	2	
 Litawe Kura	Damboa	Borno	11.084	12.835	2	
-Amazing Investments Limited	Lagelu	Oyo	7.435	3.944	0	
-Admus Concept Nigeria Limited	Akinyele	Oyo	7.524	3.918	0	
-Lazemos Ventures Limited	Akinyele	Oyo	7.513	3.918	0	
-Linkfield Int'l School	Owerri Municipal	Imo	5.483	7.012	0	
-Liman Katagum	Bauchi	Bauchi	10.006	9.782	0	
 Litri	Kukawa	Borno	13.402	13.866	2	
 Ligaridi Kale	Goudoumaria	Yobe	13.382	11.076	2	
 Kanamai Ligaridi	Maïné Soroa	Yobe	13.119	12.110	2	
-Liberty Bus-Stop	Alimosho	Lagos	6.613	3.267	0	
-LIVING STONE SCHOOL	Tarauni	Kano	11.962	8.536	0	
-New Bridge Light Petroleum	Warri South	Delta	5.536	5.745	0	
-Libra Motors	Uvwie	Delta	5.548	5.781	0	
-Multi Line	Uvwie	Delta	5.543	5.778	0	
-Safe Transport Line	Uvwie	Delta	5.548	5.781	0	
-X-class Links	Uvwie	Delta	5.549	5.781	0	
 Lila	Monguno	Borno	12.370	13.358	2	
 Lisa	Monguno	Borno	12.265	13.400	2	
 Lingir	Monguno	Borno	12.733	13.559	2	
-New Life Clinic	Yenegoa	Bayelsa	4.952	6.349	0	
 Limanti	Guzamala	Borno	12.840	13.238	2	
-Fountain of Life Hospital	Yenegoa	Bayelsa	4.936	6.321	0	
-Life Spring Model School	Uvwie	Delta	5.542	5.784	0	
-Light Life Group of Schools	Uvwie	Delta	5.543	5.782	0	
-Lizmart Clinic	Uvwie	Delta	5.564	5.776	0	
-New Life School	Uvwie	Delta	5.564	5.770	0	
-Chit-Lish Filling Station	Uvwie	Delta	5.566	5.760	0	
-Unity Life Nusary and Primary School	Warri South	Delta	5.536	5.754	0	
-Bioscreen Health Services Limited	Warri South	Delta	5.531	5.747	0	
-Lifetop Intl. School	Obio/Akpor	Rivers	4.833	7.027	0	
-Liberation Model Nursery and Primary School	Obio/Akpor	Rivers	4.835	7.028	0	
-Liquid Bulk Filling Station	Obio/Akpor	Rivers	4.853	7.062	0	
-Livelong Filling Station	Uvwie	Delta	5.560	5.793	0	
-Mafoni liberty Primary School	Maiduguri	Borno	11.804	13.139	0	
-Apapa Liverpool Jetty	Apapa	Lagos	6.439	3.359	0	
-MISASCO SYSTEMS LIMITED	Ogbomosho North	Oyo	8.149	4.247	0	
-Hafdala corporate Limited	Toro	Bauchi	10.226	9.511	0	
-LIMAN PRIMARY DCHOOL	Gombe	Gombe	10.301	11.174	0	
-A Y M Shafa filling station liji cross	Yamaltu/Deba	Gombe	10.277	11.230	0	
-Total filling station liji	Yamaltu/Deba	Gombe	10.277	11.230	0	
-Liquid power filling station BCJ	Gombe	Gombe	10.278	11.199	0	
-Liberty College	Alimosho	Lagos	6.592	3.228	0	
 Gidan Liman	Kiru	Kano	11.398	8.138	2	
 Limanchi	Karaye	Kano	11.781	8.014	2	
 Limawa	Kabo	Kano	11.801	8.210	2	Dugabau
@@ -124,80 +85,162 @@ Litau	Warawa	Kano	11.876	8.860	2
 Littafawa	Warawa	Kano	11.941	8.813	2	
 Unguwar Liman	Sumaila	Kano	11.369	8.840	2	
 Hayin Liman	Tudun Wada	Kano	11.292	8.482	2	
-lihyambula health clinic	Madagali	Adamawa	10.860	13.507	0	
-Sabon line junction Gombe	Gombe	Gombe	10.284	11.173	0	
-Gombe State Transport Services (Gombe Line)	Gombe	Gombe	10.287	11.165	0	
-Liberty Hospital	Suleja	Niger	9.188	7.179	0	
-Africa Church Primary School, Liasu Balogun	Ado Odo/Ota	Ogun	6.679	3.135	0	
-Africa Church Primary School, Liasu Balogun	Ado Odo/Ota	Ogun	6.676	3.224	0	
-Better Life Health Care, Agbowo	Ibadan North	Oyo	7.442	3.909	0	
-Heritage Little lambs academy Jos	Jos North	Plateau	9.956	8.855	0	
-Akawu Na Mata Oil and Gas Limited	Jos North	Plateau	9.957	8.895	0	
-Jengre Links Oil & Gas LTD	Bassa	Plateau	9.995	8.845	0	
-New Life Fountain Hospital	Jos North	Plateau	9.924	8.914	0	
-Jevicho Oil and Gas Limited	Jos North	Plateau	9.915	8.913	0	
-Akatapa Nigeria Limited	Jos North	Plateau	9.903	8.910	0	
-P.c.Ejims Limited	Jos North	Plateau	9.982	8.898	0	
-Streams of Life Hospital	Owerri North	Imo	5.447	7.061	0	
-Echemass limited	Abakaliki	Ebonyi	6.316	8.095	0	
-SeaExpress Transit Limited	Calabar Municipal	Cross River	4.973	8.323	0	
-Kamjaza Ventures Limited	Girei	Adamawa	9.339	12.502	0	
-Little Angels Private School	Jos North	Plateau	9.912	8.911	0	
-Sen. Joshua Lidani	Gombe	Gombe	10.305	11.172	0	
-Dhadi Petroleum Co. Nig. Limited	Gombe	Gombe	10.307	11.149	0	
-madarasatul Alaramma malan gambo littah fizzul Quran	Gombe	Gombe	10.289	11.159	0	
-44 Reference Hospital Plot A12 By Rail Line	Kaduna North	Kaduna	10.578	7.444	0	
-Primary Haelth Care No1 River Line Road Kabala Coastin	Kaduna North	Kaduna	10.501	7.440	0	
-Ever Life Hospital	Ojo	Lagos	6.495	3.139	0	
-New Merit Hospital Limited	Alimosho	Lagos	6.670	3.254	0	
-Limad Hospital Ltd	Alimosho	Lagos	6.643	3.255	0	
-Light Hospital	Alimosho	Lagos	6.606	3.300	0	
-Life Anchor Hospital	Alimosho	Lagos	6.588	3.298	0	
-Victory Life Medical Diagnostic	Alimosho	Lagos	6.516	3.255	0	
-Life Fount Medical Center	Alimosho	Lagos	6.557	3.227	0	
-Aishat Specialist Hospital Limited	Mushin	Lagos	6.519	3.351	0	
-Little Tokyo Lodge	Akure South	Ondo	7.291	5.149	0	
-School Of Life Sciences	Akure South	Ondo	7.302	5.134	0	
-Abundant Life Hostel	Akure South	Ondo	7.288	5.150	0	
-Happy Link	Akure South	Ondo	7.285	5.150	0	
-Life Spring School	Akure South	Ondo	7.289	5.150	0	
-Life Spring's Covenant Life Nursery & Primary School	Akure South	Ondo	7.289	5.148	0	
-Linopmedical Laboratory Services	Amuwo Odofin	Lagos	6.471	3.274	0	
-Life Hope Multi Medical Center	Amuwo Odofin	Lagos	6.454	3.261	0	
-DARUSSUNNAH LITAHFEEZIL QUR'AN	Ungongo	Kano	12.039	8.564	0	
-ALMUHAJIRUN WAL ANSAR LITAHFIZUL QUR AN WADDARASATUK ILAMIYYA	Ungongo	Kano	12.054	8.577	0	
-Sheikh Abubakar Ramadan Litahfizul Quran	Gwale	Kano	11.960	8.474	0	
-HAFSA LITAHAFEZUL QUR AN	Gwale	Kano	11.959	8.473	0	
-Better life Hospital	Alimosho	Lagos	6.529	3.237	0	
 Liama	Brass	Bayelsa	4.286	6.177	2	
-Liverpool (Apapa)	Apapa	Lagos	6.439	3.359	0	
-Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
-RAINOIL LIMITED, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.449	4.584	0	
-Liberty	Enugu East	Enugu	6.486	7.516	0	
-Ebere Links	Owerri Municipal	Imo	5.494	7.035	0	
-power line	Amuwo Odofin	Lagos	6.416	3.248	0	
-Adebayo Living Tower Hospital	Badagry	Lagos	6.436	2.984	0	
-Lizdav Academy	Municipal Area Council	FCT Abuja	9.050	7.590	0	
-Licensing School	Kaduna North	Kaduna	10.611	7.440	0	
-Life Fort Stars Model Academy	Karu	Nasarawa	8.959	7.690	0	
-Litertif Lounge And Bar	Municipal Area Council	FCT Abuja	8.988	7.369	0	
-Life Gate Foods And Catering Services	Municipal Area Council	FCT Abuja	8.955	7.373	0	
-Beenish Auto Limited	Municipal Area Council	FCT Abuja	9.120	7.393	0	
-Boss Special Systems Limited	Municipal Area Council	FCT Abuja	9.133	7.388	0	
-Squareroot Multy Services Company Limited	Municipal Area Council	FCT Abuja	9.142	7.372	0	
-Living Faith Church, Mai Suya Junction, New Jerusalem, Dutse Makaranta	Bwari	FCT Abuja	9.168	7.386	0	
-Louis Pasteur Hospital Complex Limited, Abuja	Municipal Area Council	FCT Abuja	9.111	7.377	0	
-Lily'Snatural	Municipal Area Council	FCT Abuja	8.957	7.365	0	
-Nnpc Limited - Lugbe	Municipal Area Council	FCT Abuja	8.969	7.354	0	
-Delta Line - Jabi/Utako	Municipal Area Council	FCT Abuja	9.063	7.436	0	
-Deeper Life Bus Stop	Municipal Area Council	FCT Abuja	9.044	7.511	0	
-Greener Line Transport Limited	Municipal Area Council	FCT Abuja	9.069	7.442	0	
-Life Camp Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.404	0	
-Life Camp Bus Station	Municipal Area Council	FCT Abuja	9.068	7.403	0	
-Mr Putty Screeding Plasters Limited	Municipal Area Council	FCT Abuja	9.114	7.279	0	
-Ace Bridge Limited	Municipal Area Council	FCT Abuja	9.079	7.482	0	
-The Bridge Concepts Nigeria Limited	Municipal Area Council	FCT Abuja	9.072	7.445	0	
-Jewel Iykson Nigeria Limited	Municipal Area Council	FCT Abuja	9.154	7.346	0	
+Limawa	Dutse	Jigawa	11.756	9.334	2	
+Liba	Maiyama	Kebbi	11.779	4.345	2	
+Likoro	Kudan	Kaduna	11.184	7.808	2	
+Limancin Kona	Zaria	Kaduna	11.050	7.697	2	
+Libata	Ngaski	Kebbi	10.160	4.591	2	
+Likama	Chibok	Borno	10.911	12.864	2	
+Limanti	Mafa	Borno	11.949	13.418	2	
+Lim Kundak	Alkaleri	Bauchi	9.730	10.322	2	
+Limanti	Maiduguri	Borno	11.847	13.164	2	
+Wuro Liman	Mayo-Belwa	Adamawa	8.846	12.041	2	
+Ungwan Liman Riyawa	Chikun	Kaduna	10.683	7.200	2	
+Tubuama	Brass	Bayelsa	4.311	6.174	2	Liama|Tuluama
+Tsauni Liman	Birnin Gwari	Kaduna	10.883	6.950	2	
+Tashandori	Yusufari	Yobe	13.226	11.075	2	Ligaleri Kuram
+New Libata	Ngaski	Kebbi	10.201	4.628	2	
+Liziga	Shani	Borno	10.354	12.235	2	Lesga
+Lizai	Itas/Gadau	Bauchi	11.785	10.306	2	
+Lium	Ushongo	Benue	7.103	8.794	2	
+Little Akbokum	Etung	Cross River	5.915	8.722	2	Little Agbokum|Little Obokum
+Liton	Ussa	Taraba	7.109	10.136	2	
+Litawa	Damboa	Borno	10.987	12.549	2	
+Lissam Sambo	Ussa	Taraba	7.006	10.077	2	
+Lissam	Ussa	Taraba	7.176	10.034	2	
+Lisa	Odeda	Ogun	7.268	3.343	2	
+Lisa	Odeda	Ogun	7.242	3.593	2	Jagemo
+Lisa	Abeokuta North	Ogun	7.213	3.294	2	
+Lirini	Gamawa	Bauchi	11.701	10.579	2	
+Liringo	Fufore	Adamawa	9.028	12.160	2	
+Liringo	Mayo-Belwa	Adamawa	8.877	12.050	2	
+Lipetu	Obafemi Owode	Ogun	7.082	3.452	2	
+Linga Tassala	Demsa	Adamawa	9.504	12.125	2	
+Limoro	Bassa	Plateau	10.232	8.900	2	
+Limna	Jere	Borno	12.130	13.164	2	
+Limawa	Ringim	Jigawa	12.313	9.094	2	
+Limanti	Mafa	Borno	11.870	13.399	2	
+Limankara	Gwoza	Borno	10.983	13.661	2	
+Liman	Sabuwa	Katsina	11.531	7.081	2	
+Lillz	Sanga	Kaduna	9.183	8.283	2	
+Lilingo	Tangaza	Sokoto	13.607	4.944	2	Dilingo
+Likosi	Shagamu	Ogun	6.761	3.534	2	
+Likoro	Mashegu	Niger	10.055	5.046	2	
+Likora	Igabi	Kaduna	10.613	7.645	2	
+Likingo	Tambuwal	Sokoto	12.305	4.750	2	Lukingo
+Like	Igbo-Eze-South	Enugu	6.902	7.472	2	
+Barwa	Municipal Area Council	FCT Abuja	8.904	7.343	2	Ligwai
+Liguri	Tafawa-Balewa	Bauchi	9.500	9.433	2	
+Ligiri	Karim Lamido	Taraba	9.436	10.763	2	Ligri
+Ligon	Konshisha	Benue	7.020	8.768	2	
+Ligda	Gulani	Yobe	11.146	11.927	2	Ligdir
+Ligarma	Igabi	Kaduna	10.667	7.267	2	
+Ligari	Chikun	Kaduna	10.417	7.333	2	
+Ligagin	Magumeri	Borno	12.164	12.724	2	
+Lifuojong	Ikom	Cross River	6.026	8.637	2	
+Lidin	Lere	Kaduna	10.156	8.571	2	
+Libu	Mariga	Niger	10.504	5.699	2	
+Librou	Jada	Adamawa	8.650	12.667	2	
+Libeli	Magama	Niger	10.599	4.937	2	Libelli
+Loli	Demsa	Adamawa	9.659	12.241	2	Libari
+Liba	Hawul	Borno	10.522	12.356	2	
+Liam	Vandeikya	Benue	7.030	8.984	2	
+Kafin Liman	Ganjuwa	Bauchi	10.607	9.757	2	
+Jaju Budo Nla	Asa	Kwara	8.317	4.467	2	Liasu
+Igodan-Lisa	Okitipupa	Ondo	6.445	4.774	2	
+Gori Limankare	Gwoza	Borno	10.968	13.608	2	
+Gidan Liman	Kachia	Kaduna	9.858	7.886	2	
+Gidan Limam	Kware	Sokoto	13.100	5.267	2	
+Gidan Lifidi	Mikang	Plateau	9.028	9.393	2	
+Garin Buba Liman	Gassol	Taraba	8.754	10.919	2	
+Barakin Limoro	Bassa	Plateau	10.244	8.924	2	
+Araromi-Lisa	Okitipupa	Ondo	6.489	4.728	2	
+Jibowu	Ifako/Ijaye	Lagos	6.659	3.299	2	Libowu
+Matalawa Liman	Gezawa	Kano	12.047	8.699	2	
+Dirba Limda	Bama	Borno	11.464	13.855	2	
+Ligia	Bama	Borno	11.723	14.215	2	
+Litan	Obafemi Owode	Ogun	6.982	3.535	2	
+Lisagha	Idanre	Ondo	7.058	5.291	2	
+Ita Lisa	Akure South	Ondo	7.262	5.119	2	
+Lifehun	Shelleng	Adamawa	10.249	12.296	2	
+Garin Likita	Bunza	Kebbi	12.045	3.984	2	
+Jama’a Liman Garba	Yankwashi	Jigawa	12.760	8.531	2	
+Liringo	Bagwai	Kano	12.032	8.184	2	
+Lili	Rimi	Katsina	12.754	7.761	2	
+Ligeri	Wamako	Sokoto	13.103	5.073	2	
+Liman	Faskari	Katsina	11.865	7.293	2	
+Liman	Faskari	Katsina	11.660	7.016	2	
+Limawa	Rogo	Kano	11.598	7.812	2	
+Ungwan Liman	Rogo	Kano	11.543	7.820	2	
+Ungwan Liman Koshe	Danja	Katsina	11.476	7.447	2	
+Ungwan Liman	Funtua	Katsina	11.485	7.352	2	
+Ungwan Liman	Dandume	Katsina	11.409	7.206	2	
+Ungwan Liman	Sabuwa	Katsina	11.338	7.127	2	
+Gidan Liman	Dandume	Katsina	11.372	7.166	2	
+Ungwan Liman	Dandume	Katsina	11.371	7.196	2	
+Gidan Liman	Dandume	Katsina	11.294	7.195	2	
+Gidan Liman	Sabuwa	Katsina	11.152	7.181	2	
+Gidan Liman	Ikara	Kaduna	11.254	8.116	2	
+Ungwan Limam	Soba	Kaduna	11.055	8.049	2	
+Lilu	Ihiala	Anambra	5.887	6.946	2	
+Oshimili South	Oshimili South	Delta	6.092	6.682	2	Lam Oshimili|Oshimili Sud|Oshimili ta Kudu|nan ao xi mi li
+Anka	Anka	Zamfara	11.961	5.987	2	Agbegbe Ijoba Ibile Anka|Anka Local Government Area|an ka (nai ji li ya)|an ka (ni ri li ya)
+Batsari	Batsari	Katsina	12.779	7.234	2	Agbegbe Ijoba Ibile Batsari|Batsari Local Government Area|ba te sa li
+Ogun Waterside	Ogun Waterside	Ogun	6.484	4.386	2	Agbegbe Ijoba Ibile Ogun Waterside|Ogun Water Side|Ogun Waterside Local Government Area|Ogun littoral
+Okrika	Okrika	Rivers	4.638	7.082	2	Agbegbe Ijoba Ibile Okrika|Ocrica|Okrika Local Government Area|ao ke li ka|okurika gang
+Malari Limanti	Guzamala	Borno	13.008	13.357	2	
+Limadu	Madagali	Adamawa	10.744	13.438	2	
+Lilde	Michika	Adamawa	10.630	13.437	2	
+Liriba	Mubi North	Adamawa	10.321	13.400	2	
+Liam	Gwer East	Benue	7.309	8.352	2	
+Liam	Konshisha	Benue	7.253	8.486	2	
+Limanti	Bayo	Borno	10.578	11.665	2	
+Libata	Ngaski	Kebbi	10.150	4.593	2	
+Liba	Maiyama	Kebbi	11.775	4.375	2	
+Lim Kundak	Alkaleri	Bauchi	9.726	10.296	2	
+Liman Katagum	Bauchi	Bauchi	10.092	9.750	2	
+Liiam	Wukari	Taraba	7.680	9.779	2	Lijam
+Lisha	Buruku	Benue	7.478	9.169	2	
+Liam	Gboko	Benue	7.448	8.885	2	
+Lium	Gboko	Benue	7.393	8.752	2	
+Liam	Gboko	Benue	7.341	8.941	2	
+Liam	Gboko	Benue	7.344	8.925	2	
+Lihe	Gboko	Benue	7.346	8.839	2	
+Liman	Nguru	Yobe	13.027	10.244	2	
+Liman	Gbako	Niger	9.152	6.044	2	
+Liringo Kohi	Mayo-Belwa	Adamawa	8.872	12.042	2	
+Liringo Lede	Mayo-Belwa	Adamawa	8.860	12.030	2	
+Egbe-Liasu	Alimosho	Lagos	6.551	3.278	2	
+Libi	Kagarko	Kaduna	9.468	7.655	2	
+Lissebi	Mayo-Belwa	Adamawa	8.614	11.827	2	
+Wuro Liman	Ardo-Kola	Taraba	8.850	11.153	2	
+Livergbene	Southern Ijaw	Bayelsa	4.612	5.992	2	
+Limi	Fufore	Adamawa	9.159	12.232	2	
+Rumnde Liman	Fufore	Adamawa	9.133	12.351	2	
+Garin Liman	Alkaleri	Bauchi	9.701	10.779	2	
+Limman Lange	Alkaleri	Bauchi	9.782	10.887	2	
+Liwo-Awolaja	Ijebu North	Ogun	7.061	4.074	2	
+Litare	Fufore	Adamawa	9.151	12.695	2	
+Litare	Fufore	Adamawa	9.199	12.781	2	
+Limokutu	Ese Odo	Ondo	6.349	4.913	2	
+Likin	Ondo West	Ondo	7.063	4.731	2	
+Litaye	Ondo West	Ondo	7.051	4.764	2	
+Liyetu	Ondo West	Ondo	7.020	4.835	2	
+Likokojiya	Ondo East	Ondo	7.078	4.989	2	
+Likokojiya	Ondo East	Ondo	7.133	4.974	2	
+Lisa-Erumbe	Obafemi Owode	Ogun	7.032	3.636	2	
+Liasu	Moro	Kwara	8.838	4.444	2	
+Kurmin Linkafa	Kokona	Nasarawa	8.861	8.236	2	
+Liafu	Mokwa	Niger	9.236	4.795	2	
+Livo	Song	Adamawa	9.912	12.570	2	
+Litare	Fufore	Adamawa	9.642	12.777	2	
+Limanu	Ilorin East	Kwara	8.465	4.566	2	
+Likan	Agaie	Niger	8.849	6.352	2	
+Litibu	Bassa	Kogi	8.024	7.412	2	
+Lina	Lafia	Nasarawa	8.614	8.328	2	
+Litini	Nasarawa Egon	Nasarawa	8.677	8.411	2	
+Lip	Sardauna	Taraba	6.511	11.150	2	
 Oginigba Link Road	Port-Harcourt	Rivers	4.820	7.031	1	
 Zaria GRA Link road	Sabon Gari	Kaduna	11.121	7.715	1	
 Liberty Road	Ibadan South West	Oyo	7.369	3.874	1	
@@ -208,18 +251,12 @@ limca Road	Idemili North	Anambra	6.147	6.825	1
 Godwin Abbe (aka Limit)	Oredo	Edo	6.282	5.628	1	
 limit road	Ikpoba-Okha	Edo	6.288	5.629	1	
 Liberty Street	Oredo	Edo	6.311	5.617	1	
-Lily Hospital	Oredo	Edo	6.318	5.610	0	
-Fountain Life Group of Schools	Egor	Edo	6.360	5.628	0	
 Liman Ciroma Close	Kaduna North	Kaduna	10.512	7.461	1	
 Ligali Ayorinde Street	Eti Osa	Lagos	6.436	3.439	1	
 Liverpool Road	Apapa	Lagos	6.441	3.360	1	
 Liverpool Roundabout	Apapa	Lagos	6.440	3.359	1	
-Liverpool Road	Apapa	Lagos	6.449	3.368	1	
 Opebi Link Road	Ikeja	Lagos	6.597	3.366	1	
-Opebi Link Road	Ikeja	Lagos	6.595	3.364	1	
-Opebi Link Road	Ikeja	Lagos	6.593	3.361	1	
 Opebi Link Road	Ikeja	Lagos	6.585	3.362	1	
-Liverpool Road	Apapa	Lagos	6.445	3.365	1	
 Kaduna Airport Link Road	Igabi	Kaduna	10.593	7.362	1	
 Link L	Amuwo Odofin	Lagos	6.464	3.307	1	
 Libreville Crescent	Municipal Area Council	FCT Abuja	9.076	7.461	1	
@@ -276,7 +313,6 @@ Link3	Enugu East	Enugu	6.480	7.492	1
 Linus Eze Street	Enugu North	Enugu	6.449	7.506	1	
 Ogui Link	Enugu North	Enugu	6.454	7.505	1	
 Deeper Life Close	Enugu North	Enugu	6.455	7.505	1	
-Hospital Road Link Road	Enugu North	Enugu	6.457	7.495	1	
 Rangers Avenue Link Road	Enugu North	Enugu	6.441	7.513	1	
 Aria Market Road Link	Enugu North	Enugu	6.448	7.482	1	
 Woodward Link	Enugu North	Enugu	6.453	7.501	1	
@@ -303,22 +339,18 @@ Cemetery Road Link	Enugu North	Enugu	6.446	7.480	1
 Nanka Link Road	Enugu North	Enugu	6.456	7.517	1	
 IBB Link Road	Enugu East	Enugu	6.466	7.553	1	
 Enugu Porthacourt Link Road	Enugu North	Enugu	6.453	7.540	1	
-Park Avenue Link Road	Enugu North	Enugu	6.462	7.497	1	
 Park Avenue Link Road	Enugu North	Enugu	6.454	7.485	1	
 Enugu Onitsha Express Link Road	Enugu North	Enugu	6.468	7.470	1	
 Enugu Onitsha Express Link Road	Enugu East	Enugu	6.471	7.496	1	
-Enugu Onitsha Express Link Road	Enugu East	Enugu	6.471	7.494	1	
-Enugu Porthacourt Link Road	Enugu North	Enugu	6.461	7.539	1	
 Enugu Porthacourt Link Road	Enugu South	Enugu	6.377	7.497	1	
-Enugu Porthacourt Link Road	Enugu South	Enugu	6.392	7.511	1	
 Amechi Link Road	Enugu South	Enugu	6.393	7.511	1	
+Abakpa Junction Link Road	Enugu North	Enugu	6.465	7.522	1	
 Abakpa Junction Link Road	Enugu North	Enugu	6.465	7.522	1	
 Ekulu Avenue Link Road	Enugu East	Enugu	6.471	7.495	1	
 Abakpa Nike Link Road	Enugu East	Enugu	6.474	7.518	1	
 Onitsha Link Road	Enugu North	Enugu	6.454	7.485	1	
 Abakiliki Link Road	Enugu North	Enugu	6.457	7.495	1	
 Enugu Porthacourt Link Road	Enugu South	Enugu	6.416	7.531	1	
-Enugu Porthacourt Link Road	Enugu South	Enugu	6.414	7.529	1	
 Agbani Link Road	Enugu South	Enugu	6.381	7.496	1	
 Rangers Avenue Link Road	Enugu North	Enugu	6.447	7.516	1	
 Umar Sanusi Link	Fagge	Kano	11.998	8.540	1	
@@ -327,7 +359,6 @@ Barrister Nasir A. Dangiri link	Fagge	Kano	11.998	8.541	1
 Garba Ahmad Link	Fagge	Kano	11.997	8.539	1	
 Yalwan Danzial link	Fagge	Kano	11.999	8.541	1	
 Hamisu Dankaka link	Fagge	Kano	11.998	8.542	1	
-National library	Jos North	Plateau	9.884	8.876	0	
 Link 7 Alh. Shuaibu Talba Street	Gwale	Kano	11.974	8.475	1	
 Link 3	Gwale	Kano	11.975	8.476	1	
 Abba Habib link	Fagge	Kano	11.995	8.542	1	
@@ -342,7 +373,7 @@ Liard Road	Ibadan North	Oyo	7.450	3.886	1
 Lishabi Crescent	Ibadan North	Oyo	7.448	3.892	1	
 Liard Place	Ibadan North	Oyo	7.449	3.886	1	
 Link Road	Enugu North	Enugu	6.453	7.516	1	
-WHITE HOUSE LINE 2	Jere	Borno	11.820	13.192	1	
+White House Line 2	Jere	Borno	11.820	13.192	1	
 Lisabi Road	Apapa	Lagos	6.445	3.360	1	
 Seriki Aro Link	Ikeja	Lagos	6.598	3.341	1	
 Link 19	Gwale	Kano	11.972	8.471	1	
@@ -352,10 +383,6 @@ Liman Sharif Ali Street	Ungongo	Kano	11.973	8.442	1
 19th Link	Tarauni	Kano	11.969	8.537	1	
 Sabon Line Street	Gombe	Gombe	10.269	11.172	1	JAURO BAPPI STREET
 Lilly Lane	Eti Osa	Lagos	6.497	3.614	1	
-Lizai Dispensary	Itas/Gadau	Bauchi	11.784	10.302	0	
-Kajala Dispensary	Ningi	Bauchi	10.899	9.104	0	Limi Dispensary
-Liman Katagum Town Dispensary	Bauchi	Bauchi	10.014	9.774	0	
-Lirr Maternity	Dass	Bauchi	10.071	9.502	0	
 S.M. Orija Street Line 2	Ede North	Osun	7.725	4.482	1	
 S.M. Orija Street Line 1	Ede North	Osun	7.724	4.482	1	
 Libadan Road	Hawul	Borno	10.385	12.088	1	
@@ -368,7 +395,6 @@ Jibril Liadi Street	Kosofe	Lagos	6.617	3.384	1
 Ekpan Link Road	Uvwie	Delta	5.557	5.743	1	
 Living Gospel Avenue	Ado Odo/Ota	Ogun	6.687	3.245	1	
 Liberty Close	Eti Osa	Lagos	6.469	3.584	1	
-Ase Lights	Akure North	Ondo	7.282	5.215	0	
 Agbani Link Road	Enugu North	Enugu	6.435	7.481	1	
 Agbani Link Road	Enugu North	Enugu	6.435	7.481	1	
 Liman Ciroma Road	Kaduna North	Kaduna	10.580	7.433	1	
@@ -376,8 +402,6 @@ Ligali Ayorinde Street	Eti Osa	Lagos	6.435	3.439	1
 Road link	Ife Central	Osun	7.518	4.523	1	
 Link	Ife Central	Osun	7.517	4.523	1	
 Road 1 link	Ife North	Osun	7.498	4.523	1	
-Road link	Ife Central	Osun	7.538	4.539	1	
-Road link	Ife Central	Osun	7.526	4.535	1	
 Mbabi Mbayo Line 1	Ife Central	Osun	7.501	4.546	1	
 Mbabi Mbayo Line 2	Ife Central	Osun	7.503	4.546	1	
 Godwin Abbe (aka Limit)	Oredo	Edo	6.282	5.619	1	
@@ -385,10 +409,8 @@ Lilly Estate	Ijero	Ekiti	7.839	5.042	1
 Libia Street	Okpe	Delta	5.601	5.697	1	
 Kaduna Airport Link Road	Igabi	Kaduna	10.648	7.347	1	
 Ajamimogha Link Road	Warri South	Delta	5.526	5.739	1	
-Ajamimogha Link Road	Warri South	Delta	5.523	5.738	1	
 Rumuakparali Link Road	Obio/Akpor	Rivers	4.874	6.908	1	
-Liberty Road	Ibadan South West	Oyo	7.372	3.882	1	
-SABON LINE STREET	Gombe	Gombe	10.283	11.173	1	JAURO BAPPI STREET
+Sabon Line Street	Gombe	Gombe	10.283	11.173	1	JAURO BAPPI STREET
 Liberty Road	Ibadan South West	Oyo	7.362	3.867	1	
 Rumuola - Stadium Link Road	Obio/Akpor	Rivers	4.830	7.013	1	Cosmic Homes Road
 Liberty Street	Nsukka	Enugu	6.866	7.387	1	
@@ -401,19 +423,10 @@ Ubale Liman Street	Ungongo	Kano	11.971	8.441	1
 Kabo Link	Nassarawa	Kano	11.992	8.569	1	
 Living-Proof Church Street	Ifako/Ijaye	Lagos	6.630	3.331	1	
 19th Link	Tarauni	Kano	11.968	8.534	1	
-Little Angel Schools	Muhammadu Dikko Stadium	Katsina	13.004	7.631	0	
-Ligali Ayorinde Street	Eti Osa	Lagos	6.423	3.442	1	
 Living Street	Obio/Akpor	Rivers	4.875	6.918	1	
 Link road 7	Dutse	Jigawa	11.667	9.340	1	
-Railway Line Ogbete Market	Enugu North	Enugu	6.433	7.482	0	
 Kaduna Airport Link Road	Igabi	Kaduna	10.691	7.331	1	
 Robert Lilly Street	Obio/Akpor	Rivers	4.857	6.992	1	
-Limi Children`s Hospital	Municipal Area Council	FCT Abuja	9.070	7.486	0	
-Tom-Tan Limited	Amuwo Odofin	Lagos	6.473	3.313	0	
-Liberty Clinic	Ajaokuta	Kogi	7.540	6.679	0	
-Fouintain Of Life Hospital	Oredo	Edo	6.328	5.625	0	
-Ligada Dispensary	Shira	Bauchi	11.397	10.071	0	Zawabari Dispensary
-Lily Hospitals Limited	Egor	Edo	6.320	5.571	0	
 Link 2	Gwale	Kano	11.976	8.477	1	
 Link 4	Gwale	Kano	11.975	8.476	1	
 Link 5 Bar. Bala Fagge Street	Gwale	Kano	11.975	8.476	1	
@@ -430,23 +443,144 @@ Link 16 Yamadawa Gabas Street	Gwale	Kano	11.972	8.472	1
 Link 17	Gwale	Kano	11.972	8.472	1	
 Link 18	Gwale	Kano	11.972	8.472	1	
 Liberty Way	Municipal Area Council	FCT Abuja	8.979	7.336	1	
-Lilybest academy	Ohaji/Egbema	Imo	5.502	6.725	0	
 Pipeline, Pipe Line Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.469	4.589	1	
 Nigerian Army Barrack Link	Enugu South	Enugu	6.391	7.492	1	
-Library road	Nsukka	Enugu	6.862	7.404	1	
 Command Link Road	Kaduna South	Kaduna	10.451	7.423	1	
-Verdic Life Care Hospital	Eti Osa	Lagos	6.432	3.472	0	
 Maryland-Opebi-Ojota Link Bridge	Ikeja	Lagos	6.581	3.369	1	
 Oliver Agbo Link	Enugu South	Enugu	6.400	7.490	1	
-Maryland-Opebi-Ojota Link Bridge	Ikeja	Lagos	6.583	3.375	1	
-Liason Road	Bonny	Rivers	4.414	7.162	1	
 Irone Avenue Link	Surulere	Lagos	6.491	3.336	1	
-Limawa	Dutse	Jigawa	11.756	9.334	2	
-Liba	Maiyama	Kebbi	11.779	4.345	2	
-Likoro	Kudan	Kaduna	11.184	7.808	2	
-Limancin Kona	Zaria	Kaduna	11.050	7.697	2	
-Libata	Ngaski	Kebbi	10.160	4.591	2	
-Likama	Chibok	Borno	10.911	12.864	2	
-Limanti	Mafa	Borno	11.949	13.418	2	
-Lim Kundak	Alkaleri	Bauchi	9.730	10.322	2	
-Limanti	Maiduguri	Borno	11.847	13.164	2	
+Life Camp Junction	Municipal Area Council	FCT Abuja	9.068	7.404	0	
+Edo Line	Oredo	Edo	6.344	5.628	0	
+Pengana Concept Limited	Jos North	Plateau	9.956	8.862	0	
+Divine Light Group of Schools	Egor	Edo	6.356	5.572	0	
+New Life In Christ Group of Schools	Egor	Edo	6.363	5.578	0	
+Life Line Medicare Clinic	Oredo	Edo	6.332	5.627	0	
+Crystay Line Park	Oredo	Edo	6.344	5.632	0	
+Edegbe Line	Oredo	Edo	6.345	5.629	0	
+Unguwar Liman Health Post	Rogo	Kano	11.405	7.744	0	
+Kauyen Liman Health Post	Rogo	Kano	11.543	7.821	0	
+Lingir Health Clinic	Monguno	Borno	12.688	13.511	0	
+Amazing Investments Limited	Lagelu	Oyo	7.435	3.944	0	
+Admus Concept Nigeria Limited	Akinyele	Oyo	7.524	3.918	0	
+Lazemos Ventures Limited	Akinyele	Oyo	7.513	3.918	0	
+Linkfield Int'l School	Owerri Municipal	Imo	5.483	7.012	0	
+Liberty Bus-Stop	Alimosho	Lagos	6.613	3.267	0	
+Living Stone School	Tarauni	Kano	11.962	8.536	0	
+New Bridge Light Petroleum	Warri South	Delta	5.536	5.745	0	
+Libra Motors	Uvwie	Delta	5.548	5.781	0	
+Multi Line	Uvwie	Delta	5.543	5.778	0	
+Safe Transport Line	Uvwie	Delta	5.548	5.781	0	
+X-class Links	Uvwie	Delta	5.549	5.781	0	
+New Life Clinic	Yenegoa	Bayelsa	4.952	6.349	0	
+Fountain of Life Hospital	Yenegoa	Bayelsa	4.936	6.321	0	
+Life Spring Model School	Uvwie	Delta	5.542	5.784	0	
+Light Life Group of Schools	Uvwie	Delta	5.543	5.782	0	
+Lizmart Clinic	Uvwie	Delta	5.564	5.776	0	
+New Life School	Uvwie	Delta	5.564	5.770	0	
+Chit-Lish Filling Station	Uvwie	Delta	5.566	5.760	0	
+Unity Life Nusary and Primary School	Warri South	Delta	5.536	5.754	0	
+Bioscreen Health Services Limited	Warri South	Delta	5.531	5.747	0	
+Lifetop Intl. School	Obio/Akpor	Rivers	4.833	7.027	0	
+Liberation Model Nursery and Primary School	Obio/Akpor	Rivers	4.835	7.028	0	
+Liquid Bulk Filling Station	Obio/Akpor	Rivers	4.853	7.062	0	
+Livelong Filling Station	Uvwie	Delta	5.560	5.793	0	
+Mafoni liberty Primary School	Maiduguri	Borno	11.804	13.139	0	
+Apapa Liverpool Jetty	Apapa	Lagos	6.439	3.359	0	
+Misasco Systems Limited	Ogbomosho North	Oyo	8.149	4.247	0	
+Hafdala corporate Limited	Toro	Bauchi	10.226	9.511	0	
+Liman Primary Dchool	Gombe	Gombe	10.301	11.174	0	
+A Y M Shafa filling station liji cross	Yamaltu/Deba	Gombe	10.277	11.230	0	
+Total filling station liji	Yamaltu/Deba	Gombe	10.277	11.230	0	
+Liquid power filling station BCJ	Gombe	Gombe	10.278	11.199	0	
+Liberty College	Alimosho	Lagos	6.592	3.228	0	
+lihyambula health clinic	Madagali	Adamawa	10.860	13.507	0	
+Sabon line junction Gombe	Gombe	Gombe	10.284	11.173	0	
+Gombe State Transport Services (Gombe Line)	Gombe	Gombe	10.287	11.165	0	
+Liberty Hospital	Suleja	Niger	9.188	7.179	0	
+Africa Church Primary School, Liasu Balogun	Ado Odo/Ota	Ogun	6.679	3.135	0	
+Africa Church Primary School, Liasu Balogun	Ado Odo/Ota	Ogun	6.676	3.224	0	
+Better Life Health Care, Agbowo	Ibadan North	Oyo	7.442	3.909	0	
+Heritage Little lambs academy Jos	Jos North	Plateau	9.956	8.855	0	
+Akawu Na Mata Oil and Gas Limited	Jos North	Plateau	9.957	8.895	0	
+Jengre Links Oil & Gas LTD	Bassa	Plateau	9.995	8.845	0	
+New Life Fountain Hospital	Jos North	Plateau	9.924	8.914	0	
+Jevicho Oil and Gas Limited	Jos North	Plateau	9.915	8.913	0	
+Akatapa Nigeria Limited	Jos North	Plateau	9.903	8.910	0	
+P.c.Ejims Limited	Jos North	Plateau	9.982	8.898	0	
+Streams of Life Hospital	Owerri North	Imo	5.447	7.061	0	
+Echemass limited	Abakaliki	Ebonyi	6.316	8.095	0	
+SeaExpress Transit Limited	Calabar Municipal	Cross River	4.973	8.323	0	
+Kamjaza Ventures Limited	Girei	Adamawa	9.339	12.502	0	
+Little Angels Private School	Jos North	Plateau	9.912	8.911	0	
+Sen. Joshua Lidani	Gombe	Gombe	10.305	11.172	0	
+Dhadi Petroleum Co. Nig. Limited	Gombe	Gombe	10.307	11.149	0	
+madarasatul Alaramma malan gambo littah fizzul Quran	Gombe	Gombe	10.289	11.159	0	
+44 Reference Hospital Plot A12 By Rail Line	Kaduna North	Kaduna	10.578	7.444	0	
+Primary Haelth Care No1 River Line Road Kabala Coastin	Kaduna North	Kaduna	10.501	7.440	0	
+Ever Life Hospital	Ojo	Lagos	6.495	3.139	0	
+New Merit Hospital Limited	Alimosho	Lagos	6.670	3.254	0	
+Limad Hospital Ltd	Alimosho	Lagos	6.643	3.255	0	
+Light Hospital	Alimosho	Lagos	6.606	3.300	0	
+Life Anchor Hospital	Alimosho	Lagos	6.588	3.298	0	
+Victory Life Medical Diagnostic	Alimosho	Lagos	6.516	3.255	0	
+Life Fount Medical Center	Alimosho	Lagos	6.557	3.227	0	
+Aishat Specialist Hospital Limited	Mushin	Lagos	6.519	3.351	0	
+Little Tokyo Lodge	Akure South	Ondo	7.291	5.149	0	
+School Of Life Sciences	Akure South	Ondo	7.302	5.134	0	
+Abundant Life Hostel	Akure South	Ondo	7.288	5.150	0	
+Happy Link	Akure South	Ondo	7.285	5.150	0	
+Life Spring School	Akure South	Ondo	7.289	5.150	0	
+Life Spring's Covenant Life Nursery & Primary School	Akure South	Ondo	7.289	5.148	0	
+Linopmedical Laboratory Services	Amuwo Odofin	Lagos	6.471	3.274	0	
+Life Hope Multi Medical Center	Amuwo Odofin	Lagos	6.454	3.261	0	
+Darussunnah Litahfeezil Qur'An	Ungongo	Kano	12.039	8.564	0	
+Almuhajirun Wal Ansar Litahfizul Qur An Waddarasatuk Ilamiyya	Ungongo	Kano	12.054	8.577	0	
+Sheikh Abubakar Ramadan Litahfizul Quran	Gwale	Kano	11.960	8.474	0	
+Hafsa Litahafezul Qur An	Gwale	Kano	11.959	8.473	0	
+Better life Hospital	Alimosho	Lagos	6.529	3.237	0	
+Liverpool (Apapa)	Apapa	Lagos	6.439	3.359	0	
+Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
+RAINOIL LIMITED, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.449	4.584	0	
+Liberty	Enugu East	Enugu	6.486	7.516	0	
+Ebere Links	Owerri Municipal	Imo	5.494	7.035	0	
+power line	Amuwo Odofin	Lagos	6.416	3.248	0	
+Adebayo Living Tower Hospital	Badagry	Lagos	6.436	2.984	0	
+Lizdav Academy	Municipal Area Council	FCT Abuja	9.050	7.590	0	
+Licensing School	Kaduna North	Kaduna	10.611	7.440	0	
+Life Fort Stars Model Academy	Karu	Nasarawa	8.959	7.690	0	
+Litertif Lounge And Bar	Municipal Area Council	FCT Abuja	8.988	7.369	0	
+Life Gate Foods And Catering Services	Municipal Area Council	FCT Abuja	8.955	7.373	0	
+Beenish Auto Limited	Municipal Area Council	FCT Abuja	9.120	7.393	0	
+Boss Special Systems Limited	Municipal Area Council	FCT Abuja	9.133	7.388	0	
+Squareroot Multy Services Company Limited	Municipal Area Council	FCT Abuja	9.142	7.372	0	
+Living Faith Church, Mai Suya Junction, New Jerusalem, Dutse Makaranta	Bwari	FCT Abuja	9.168	7.386	0	
+Louis Pasteur Hospital Complex Limited, Abuja	Municipal Area Council	FCT Abuja	9.111	7.377	0	
+Lily'Snatural	Municipal Area Council	FCT Abuja	8.957	7.365	0	
+Nnpc Limited - Lugbe	Municipal Area Council	FCT Abuja	8.969	7.354	0	
+Delta Line - Jabi/Utako	Municipal Area Council	FCT Abuja	9.063	7.436	0	
+Deeper Life Bus Stop	Municipal Area Council	FCT Abuja	9.044	7.511	0	
+Greener Line Transport Limited	Municipal Area Council	FCT Abuja	9.069	7.442	0	
+Life Camp Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.404	0	
+Life Camp Bus Station	Municipal Area Council	FCT Abuja	9.068	7.403	0	
+Mr Putty Screeding Plasters Limited	Municipal Area Council	FCT Abuja	9.114	7.279	0	
+Ace Bridge Limited	Municipal Area Council	FCT Abuja	9.079	7.482	0	
+The Bridge Concepts Nigeria Limited	Municipal Area Council	FCT Abuja	9.072	7.445	0	
+Jewel Iykson Nigeria Limited	Municipal Area Council	FCT Abuja	9.154	7.346	0	
+Lily Hospital	Oredo	Edo	6.318	5.610	0	
+Fountain Life Group of Schools	Egor	Edo	6.360	5.628	0	
+National library	Jos North	Plateau	9.884	8.876	0	
+Lizai Dispensary	Itas/Gadau	Bauchi	11.784	10.302	0	
+Kajala Dispensary	Ningi	Bauchi	10.899	9.104	0	Limi Dispensary
+Liman Katagum Town Dispensary	Bauchi	Bauchi	10.014	9.774	0	
+Lirr Maternity	Dass	Bauchi	10.071	9.502	0	
+Ase Lights	Akure North	Ondo	7.282	5.215	0	
+Little Angel Schools	Muhammadu Dikko Stadium	Katsina	13.004	7.631	0	
+Railway Line Ogbete Market	Enugu North	Enugu	6.433	7.482	0	
+Limi Children`s Hospital	Municipal Area Council	FCT Abuja	9.070	7.486	0	
+Tom-Tan Limited	Amuwo Odofin	Lagos	6.473	3.313	0	
+Liberty Clinic	Ajaokuta	Kogi	7.540	6.679	0	
+Fouintain Of Life Hospital	Oredo	Edo	6.328	5.625	0	
+Ligada Dispensary	Shira	Bauchi	11.397	10.071	0	Zawabari Dispensary
+Lily Hospitals Limited	Egor	Edo	6.320	5.571	0	
+Lilybest academy	Ohaji/Egbema	Imo	5.502	6.725	0	
+Verdic Life Care Hospital	Eti Osa	Lagos	6.432	3.472	0	

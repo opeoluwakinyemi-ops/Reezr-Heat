@@ -1,6 +1,9 @@
+Isiokpo	Ikwerre	Rivers	5.001	6.873	3	Nsokpo
+Nsukka	Nsukka	Enugu	6.856	7.393	3	
+Nsugbe	Anambra East	Anambra	6.223	6.805	3	
+Nsukka	Nsukka	Enugu	6.858	7.396	3	QNK
 Ikot Akpan Nsek	Oruk Anam	Akwa Ibom	4.729	7.570	2	
 Centre Nsukwa	Aniocha South	Delta	6.032	6.463	2	
-Isiokpo	Ikwerre	Rivers	5.001	6.873	3	Nsokpo
 Afia Nsit	Eket	Akwa Ibom	4.662	7.939	2	
 Nsarum	Etung	Cross River	5.767	8.733	2	
 Nsadup	Boki	Cross River	6.323	8.762	2	Nsodup;Nsadop
@@ -12,7 +15,6 @@ Nsofang	Etung	Cross River	5.807	8.706	2	Insofan
 Nsugpe	Anambra East	Anambra	6.265	6.822	2	
 Nsobo	Ikwo	Ebonyi	6.012	8.116	2	Nsob
 Ishe	Akoko North East	Ondo	7.512	5.918	2	Nse
-Nsukka	Nsukka	Enugu	6.856	7.393	3	
 Ifian Nsung	Akpabuyo	Cross River	4.850	8.551	2	Ifiang Nsung
 Nsanaragati	Etung	Cross River	5.862	8.908	2	
 Nsasak	Essien Udim	Akwa Ibom	5.087	7.700	2	
@@ -22,7 +24,58 @@ Nsit Ikpe	Ikot Ekpene	Akwa Ibom	5.252	7.682	2
 Nto Nsea	Essien Udim	Akwa Ibom	5.135	7.659	2	
 Nsuluwa	Guzamala	Borno	12.896	13.080	2	
 Nsude	Udi	Enugu	6.397	7.401	2	
-Nsugbe	Anambra East	Anambra	6.223	6.805	3	
+Nsit Atai	Nsit Atai	Akwa Ibom	4.819	8.014	2	
+Nsit Ibom	Nsit Ibom	Akwa Ibom	4.904	7.897	2	
+Nsit Ubium	Nsit Ubium	Akwa Ibom	4.760	7.949	2	
+Nsukka	Nsukka	Enugu	6.864	7.363	2	
+Utu Nsekhe	Etim Ekpo	Akwa Ibom	4.966	7.686	2	
+Ohuhu-Nsulu	Ikwuano	Abia	5.344	7.547	2	
+Nsukwa	Aniocha South	Delta	6.017	6.444	2	
+Nsukara-Offot	Uyo	Akwa Ibom	5.027	7.988	2	
+Nsugbe	Anambra East	Anambra	6.264	6.819	2	
+Nsudimo	Umuahia South	Abia	5.474	7.391	2	
+Nsu	Ehime Mbano	Imo	5.642	7.310	2	
+Nsobo	Ikwo	Ebonyi	6.019	8.105	2	Nsob
+Nsidung	Ika	Akwa Ibom	5.023	7.530	2	
+Nsia	Nsit Atai	Akwa Ibom	4.774	8.056	2	
+Nshupere	Konshisha	Benue	7.060	8.531	2	
+Nselle	Ikom	Cross River	6.231	8.518	2	
+Nsan	Akamkpa	Cross River	5.351	8.394	2	
+Nsak	Ikom	Cross River	6.117	8.593	2	
+Nda Nsit	Nsit Atai	Akwa Ibom	4.834	7.991	2	
+Isiokpo Water Side	Ikwerre	Rivers	4.913	6.881	2	Isiokpo|Nsokpo|Water Side
+Inen Nsai	Ukanafun	Akwa Ibom	4.925	7.692	2	
+Ikputu Nsuru	Isiala-Ngwa South	Abia	5.424	7.473	2	
+Ikot Obio Nsu	Etim Ekpo	Akwa Ibom	4.938	7.663	2	
+Ikot Ntuen Nsit	Nsit Ibom	Akwa Ibom	5.004	7.869	2	Ikot Ntuen
+Ikot Nsung	Uyo	Akwa Ibom	4.937	7.824	2	
+Ikot Nsidibe	Eket	Akwa Ibom	4.670	7.908	2	
+Ikot Edet Nsa	Akpabuyo	Cross River	4.876	8.519	2	
+Eyo Nsek	Udung Uko	Akwa Ibom	4.757	8.236	2	
+Centre-Nsukwa	Aniocha South	Delta	6.033	6.464	2	
+Akarekwu Nsidi	Obi	Nasarawa	8.349	8.580	2	
+Afia Nsit	Nsit Ibom	Akwa Ibom	4.841	7.923	2	
+Afaha-Nsai	Ibiono Ibom	Akwa Ibom	5.105	7.897	2	
+Nsokpo	Emuoha	Rivers	4.875	6.856	2	
+Nsakpa	Gwer East	Benue	7.343	8.494	2	
+Nsisat	Odukpani	Cross River	5.177	8.132	2	
+Nshebori	Ogoja	Cross River	6.642	8.814	2	
+Aqua Obio Inwang Nsidung	Akpabuyo	Cross River	4.827	8.435	2	
+Nsharuwa	Babura	Jigawa	12.719	8.960	2	
+Ikot Obio Nso	Oruk Anam	Akwa Ibom	4.824	7.751	2	
+Nsasi	Ibiono Ibom	Akwa Ibom	5.213	7.882	2	
+Nkwuot-Ikot-Nseyen	Ikono	Akwa Ibom	5.266	7.807	2	
+Nsit-Ikpe	Ini	Akwa Ibom	5.358	7.738	2	
+Nsan	Ibiono Ibom	Akwa Ibom	5.155	7.883	2	
+Atan Nsai	Ibiono Ibom	Akwa Ibom	5.117	7.869	2	
+Ekpiri Nsukara	Uyo	Akwa Ibom	5.034	7.962	2	
+Nsit Atai	Nsit Atai	Akwa Ibom	4.818	8.026	2	
+Nsit Ubium	Nsit Ubium	Akwa Ibom	4.743	7.949	2	
+Nsukka	Nsukka	Enugu	6.853	7.348	2	Nsukka Local Government Area
+Nsele	Ikom	Cross River	6.265	8.522	2	
+Nsinjob	Ogoja	Cross River	6.472	8.722	2	
+Nsuba-Opuitumo	Ikwo	Ebonyi	6.045	8.071	2	
+Oba-Nsola	Ede South	Osun	7.689	4.476	2	
 Nsugbe Street	Ebonyi	Ebonyi	6.329	8.111	1	
 Nsukka Lane	Enugu North	Enugu	6.427	7.492	1	
 Nsude Street	Enugu East	Enugu	6.475	7.590	1	
@@ -43,7 +96,3 @@ Ikot Nsidem Road	Abak	Akwa Ibom	5.000	7.778	1
 Eastern Nsit Secondary School Odot	Nsit Atai	Akwa Ibom	4.831	8.034	1	
 Mutuku Nsida Health Post	Hong	Adamawa	10.315	12.970	0	
 University of Nigeria Nsukka	Nsukka	Enugu	6.869	7.417	0	
-Nsit Atai	Nsit Atai	Akwa Ibom	4.819	8.014	2	
-Nsit Ibom	Nsit Ibom	Akwa Ibom	4.904	7.897	2	
-Nsit Ubium	Nsit Ubium	Akwa Ibom	4.760	7.949	2	
-Nsukka	Nsukka	Enugu	6.864	7.363	2	

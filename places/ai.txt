@@ -1,5 +1,7 @@
-Azare Airstrip	Giade	Bauchi	11.591	10.232	0	
-Old Ibadan Airport	Ibadan North	Oyo	7.432	3.909	0	
+Aiyetoro	Ilaje	Ondo	6.105	4.778	3	
+Aiyepe	Ife South	Osun	7.263	4.636	3	
+Ayetoro	Yewa North	Ogun	7.243	3.026	3	Aiyetoro
+Ayete	Ibarapa North	Oyo	7.544	3.223	3	Aiyete
 Aifam	Ogbadibo	Benue	6.978	7.720	2	Aifamu
 Aiyekale	Asa	Kwara	8.283	4.483	2	Boroko
 Ita-Aiyelala	Ilaje	Ondo	6.303	4.818	2	
@@ -33,19 +35,14 @@ Aiyetoro	Ido-Osi	Ekiti	7.925	5.155	2	Iyapa
 Olokun	Ori Ire	Oyo	8.350	4.317	2	Aileru
 Aiyerose	Obafemi Owode	Ogun	7.100	3.433	2	Aiyeose
 Aihuobabekun	Ovia North-East	Edo	6.540	5.678	2	Awiwabekun;Aihobabekun
-Aiyetoro	Ilaje	Ondo	6.105	4.778	3	
 Gidan Aikaw	Kware	Sokoto	13.152	5.288	2	
 Aiyetoro Gbede	Ijumu	Kogi	7.982	5.993	2	Aiyetoro
 Anyi	Biase	Cross River	5.281	8.115	2	Ainyi
 Aisegba	Gbonyin	Ekiti	7.606	5.479	2	
 Aiyetoro	Oluyole	Oyo	7.313	3.960	2	
 Aipate	Akinyele	Oyo	7.667	4.050	2	Arapate
-Aiyepe	Ife South	Osun	7.263	4.636	3	
 Aiyetoro	Ipokia	Ogun	6.701	2.813	2	
 Sarkin Aiki	Faskari	Katsina	11.843	7.270	2	Mununu
-Shiroro Airport	Shiroro	Niger	9.883	6.815	0	
-Bida Airport	Bida	Niger	9.102	6.012	0	
-Airforce Pry Sch	Oredo	Edo	6.302	5.592	0	
 Nigerian Air Force Base	Fagge	Kano	12.034	8.530	2	NAF Base
 Aisari	Magumeri	Borno	12.207	12.919	2	
 Ali Aidamiri	Magumeri	Borno	12.084	12.962	2	
@@ -73,7 +70,6 @@ Kayiram Aisami	Magumeri	Borno	12.085	12.831	2
 Aisami Shewalma	Gubio	Borno	12.741	12.649	2	
 Buwar Aisamiri	Mobbar	Borno	12.778	12.538	2	
 Aita	Damboa	Borno	11.099	12.870	2	
-Bebi Airstrip	Obanliku	Cross River	6.621	9.320	0	
 Aida Kuram	Kukawa	Borno	12.809	13.537	2	
 Aida Kura'am Ajidiri	Kukawa	Borno	12.812	13.537	2	
 Aida Kura'am Kyari Miramti	Kukawa	Borno	12.812	13.533	2	
@@ -84,39 +80,263 @@ Aisaka A	Guzamala	Borno	13.022	13.126	2
 Gongi Aisori Gana	Guzamala	Borno	12.692	13.427	2	
 Moworam Lawan Bukar Aisami	Guzamala	Borno	12.723	13.273	2	
 Lambamari Bukar Aisami	Nganzai	Borno	12.576	13.369	2	
-371 Nigerian Air Force Medical Center	Uvwie	Delta	5.583	5.714	0	
 Aisadari	Magumeri	Borno	11.850	13.025	2	
-Nguru Airstrip	Karasuwa	Yobe	12.833	10.541	0	
-Bacita Airstrip	Edu	Kwara	9.043	4.919	0	
-Airport	Municipal Area Council	FCT Abuja	9.007	7.272	0	
-AIRFORCE SCHOOL	Egbeda	Oyo	7.388	3.970	0	
-Jaji Airstrip	Igabi	Kaduna	10.833	7.538	0	
-Usman Aisha Hospital	Bida	Niger	9.095	6.019	0	
-Maternal And Child Health Care Old Airport	Chanchaga	Niger	9.625	6.537	0	
 Abadoned construction of Oba Airport	Idemili South	Anambra	6.088	6.832	2	
 Ega-Aika Iyegbi	Esan South-East	Edo	6.746	6.597	2	
-AIB and company Ltd	Jos North	Plateau	9.960	8.888	0	
-Aibeth Centre	Jos North	Plateau	9.907	8.944	0	
-Osubi Airport	Okpe	Delta	5.595	5.819	0	
-Barau Dikko Teaching Hospital Dana Old Airport Kawo Kaduna	Kaduna North	Kaduna	10.591	7.446	0	
-Prestige Medical Clinic 6a Aina Obembe Street Ipaja	Alimosho	Lagos	6.601	3.254	0	
-Aishat Specialist Hospital Limited	Mushin	Lagos	6.519	3.351	0	
-Aipate Baptist Church Grammar School	Iwo	Osun	7.630	4.168	0	
-AISHATU BEST ACADEMY (SENIOR)	Ungongo	Kano	12.042	8.571	0	
-AISHATU BEST ACADEMY (JUNIOR)	Ungongo	Kano	12.042	8.571	0	
-AISHATU BEST ACADEMY (NUR./PRI.)	Ungongo	Kano	12.042	8.571	0	
-ASSAYYADA AISHA COLLEGE	Ungongo	Kano	12.035	8.565	0	
-Air Force Research And Development Centre (AFRDC)	Kaduna North	Kaduna	10.611	7.443	0	
-General Tunde Idiagbon International Airport, Ilorin, Ilorin, Nigeria	Asa	Kwara	8.435	4.495	0	
-Lekki Epe International Airport (Proposed Site)	Epe	Lagos	6.566	3.933	0	
-Off Airport Junction	Municipal Area Council	FCT Abuja	9.056	7.412	0	
-Airport Junction	Municipal Area Council	FCT Abuja	9.066	7.412	0	
 Aiyeteju	Ibeju Lekki	Lagos	6.471	3.817	2	
+Airforce Base	Enugu East	Enugu	6.474	7.515	2	
+Nigerian Air Force Base Abuja	Municipal Area Council	FCT Abuja	8.967	7.260	2	NAF Base
+Aiyete	Ibarapa North	Oyo	7.554	3.228	2	
+Aiyedade	Aiyedade	Osun	7.345	4.361	2	
+Aiyedire	Aiyedire	Osun	7.572	4.216	2	
+Tse-Aike	Gboko	Benue	7.280	8.662	2	
+Ora-Aiyegbaju	Ekiti	Kwara	8.078	5.324	2	Ora Aiyegbaju|OraAiyegbaju
+Olokun	Ori Ire	Oyo	8.356	4.309	2	Aileru
+Oke-Aiye	Asa	Kwara	8.527	4.318	2	Oke Aiye
+Odofin Aiyekale	Oke Ero	Kwara	8.220	5.293	2	
+Obo-Aiyegunle	Ekiti	Kwara	8.022	5.269	2	Obo Aiyegunle|OboAiyegunle
+Inye	Ankpa	Kogi	7.515	7.634	2	Ainya
+Igbo-Aiye	Surulere	Oyo	8.098	4.340	2	Igbo Aiye
+Elesun-Aiyetoro	Ori Ire	Oyo	8.305	4.034	2	Elesun Aiyetoro
+Dallol Aisha	Darazo	Bauchi	10.840	10.534	2	
+Budo-Aiyekale	Asa	Kwara	8.668	4.265	2	Budo Aiyekale
+Aiyetoro Kale	Surulere	Oyo	8.185	4.387	2	
+Aiyetoro Iyawo-Ogun	Surulere	Oyo	8.255	4.350	2	Aiyetoro Iyawo Ogun
+Aiyetoro Egbunbe	Owan East	Edo	6.800	6.083	2	
+Aiyetoro	Ifelodun	Kwara	8.660	5.075	2	
+Aiyetoro	Ori Ire	Oyo	8.438	4.083	2	
+Aiyetoro	Itesiwaju	Oyo	8.330	3.505	2	
+Aiyetoro	Ori Ire	Oyo	8.306	4.368	2	
+Aiyetoro	Atiba	Oyo	8.077	3.799	2	
+Aiyetoro	Kajola	Oyo	8.047	3.340	2	
+Aiyetoro	Ori Ire	Oyo	7.996	4.112	2	
+Aiyetoro	Iwajowa	Oyo	7.993	3.083	2	
+Aiyetoro	Ogo Oluwa	Oyo	7.953	4.196	2	
+Aiyetoro	Lagelu	Oyo	7.495	4.126	2	
+Aiyetoro	Irewole	Osun	7.351	4.274	2	
+Aiyetoro	Akoko-Edo	Edo	7.322	6.094	2	
+Aiyetoro	Ona Ara	Oyo	7.295	4.119	2	
+Aiyetero	Odeda	Ogun	7.255	3.433	2	Aiyetoro
+Aiyetoro	Ondo East	Ondo	6.994	4.989	2	
+Aiyetoro Olayode	Ipokia	Ogun	6.687	2.812	2	Aiyetoro
+Aiyetoro	Ado Odo/Ota	Ogun	6.605	3.216	2	
+Aiyetoro	Ilaje	Ondo	6.106	4.776	2	
+Aiyetinbo	Ondo West	Ondo	6.926	4.748	2	
+Aiyesan	Ijebu North	Ogun	7.060	3.906	2	
+Aiyerose	Obafemi Owode	Ogun	7.094	3.428	2	Aiyeose
+Aiyeroju	Moro	Kwara	8.637	4.457	2	
+Aiyereke-Titun	Ifelodun	Kwara	8.498	4.870	2	Aiyereke Titun
+Aiyereke	Moro	Kwara	8.603	4.467	2	
+Aiyepola	Akinyele	Oyo	7.640	4.006	2	
+Aiyepe-Olode	Ife South	Osun	7.262	4.635	2	Aiyepe|Aiyepe Olode
+Aiyepe	Ori Ire	Oyo	8.403	4.253	2	
+Aiyepe	Aiyedade	Osun	7.288	4.285	2	
+Aiyeleso	Odeda	Ogun	7.323	3.472	2	
+Aiyelade	Ori Ire	Oyo	7.972	4.078	2	
+Aiyekoto	Asa	Kwara	8.433	4.367	2	
+Aiyekale	Olorunsogo	Oyo	8.691	4.008	2	
+Aiyekale	Saki West	Oyo	8.661	3.373	2	
+Aiyekale	Atisbo	Oyo	8.401	3.422	2	
+Aiyekale	Ori Ire	Oyo	8.324	4.340	2	
+Aiyekale	Ori Ire	Oyo	8.269	4.268	2	
+Aiyekale	Oyo West	Oyo	8.042	3.801	2	
+Aiyekale	Oyo East	Oyo	7.890	4.029	2	
+Aiye Gu Ulu	Kabba/Bunu	Kogi	7.885	6.189	2	
+Aiyegun-Nla	Irewole	Osun	7.441	4.189	2	Aiyegun Nla
+Aiyegunle	Kabba/Bunu	Kogi	8.289	6.275	2	
+Aiyegunle	Ijumu	Kogi	8.036	6.042	2	
+Aiyegunle	Ijero	Ekiti	7.845	5.109	2	Inu
+Aiyegunle	Ejigbo	Osun	7.801	4.305	2	
+Aiyegunle	Akoko-Edo	Edo	7.351	6.081	2	
+Aiyegun	Asa	Kwara	8.429	4.435	2	
+Aiyegun	Ori Ire	Oyo	8.378	4.197	2	
+Aiyegun	Ori Ire	Oyo	8.133	4.132	2	
+Aiyegun	Ori Ire	Oyo	8.137	4.053	2	
+Aiyegun	Ogo Oluwa	Oyo	8.038	4.220	2	
+Aiyegun	Iwajowa	Oyo	8.000	2.750	2	
+Aiyegun	Oluyole	Oyo	7.292	3.923	2	
+Aiyegbeyo	Ibarapa Central	Oyo	7.454	3.178	2	
+Aiyedero	Ijumu	Kogi	8.114	5.999	2	Ayiedero
+Aiyede	Asa	Kwara	8.491	4.456	2	
+Aiyede	Asa	Kwara	8.310	4.390	2	
+Aiyede	Mopa-Muro	Kogi	8.162	5.968	2	
+Aiyede	Yagba East	Kogi	8.113	5.693	2	
+Aiyede	Ogo Oluwa	Oyo	7.982	4.137	2	
+Aiyede	Oye	Ekiti	7.890	5.337	2	
+Aiyede	Egbeda	Oyo	7.446	4.089	2	
+Aiyede	Odigbo	Ondo	6.612	4.546	2	
+Aiyede	Ado Odo/Ota	Ogun	6.562	2.942	2	
+Aiye Coker	Ife South	Osun	7.294	4.605	2	
+Aiye	Ijumu	Kogi	7.983	6.050	2	
+Aiye	Oturkpo	Benue	7.474	8.047	2	
+Aiye	Irewole	Osun	7.358	4.330	2	
+Aiye	Ijebu East	Ogun	6.750	4.283	2	
+Ayiwawa	Toto	Nasarawa	8.228	7.235	2	Aiwawa
+Ainyade	Abua/Odual	Rivers	4.837	6.695	2	
+Aimeke	Oju	Benue	6.778	8.462	2	
+Aima	Auyo	Jigawa	12.295	9.877	2	
+Aile	Arewa Dandi	Kebbi	12.538	3.867	2	
+Aila	Agatu	Benue	7.872	8.008	2	
+Aikola	Olorunsogo	Oyo	8.624	4.017	2	
+Aigbin	Atiba	Oyo	8.114	3.992	2	
+Aigaji	Ohimini	Benue	7.255	8.024	2	
+Aigada	Fune	Yobe	11.764	11.299	2	
+Aifesoba	Ovia South-West	Edo	6.525	5.376	2	Aifesoaba
+Aidun Mangoro	Dan Musa	Katsina	12.283	7.333	2	
+Aidu	Dan Musa	Katsina	12.275	7.341	2	
+Aibu-Idiroko	Atiba	Oyo	7.978	3.940	2	Aibu Idiroko|AibuIdiroko
+Abissa	Akuku Toru	Rivers	4.396	6.766	2	Aiya Abissa
+Abinabo Aiko	Zaki	Bauchi	12.506	10.587	2	
+Aiyetoro	Ajeromi/Ifelodun	Lagos	6.459	3.342	2	
+Wasimi-Aiyetoro	Ifako/Ijaye	Lagos	6.684	3.268	2	
+Aiyetoro	Afijio	Oyo	7.720	3.853	2	
+Aiyedun	Akinyele	Oyo	7.536	3.867	2	
+Aiyedudu	Akinyele	Oyo	7.629	3.985	2	
+Aiku	Akinyele	Oyo	7.541	3.942	2	
+Aiyetoro	Oluyole	Oyo	7.306	3.873	2	
+Aiyetoro	Ado Odo/Ota	Ogun	6.672	3.180	2	
+Aiyetoro	Shagamu	Ogun	6.767	3.544	2	
+Igbo-Epo-Aiyemofewa	Idanre	Ondo	7.044	5.092	2	
+Aiyefemi	Idanre	Ondo	7.083	5.024	2	
+Apafa-Aiyede	Idanre	Ondo	7.091	5.368	2	
+Aiyede	Ondo East	Ondo	7.146	5.015	2	
+Aiyelaboro	Akure South	Ondo	7.182	5.285	2	
+Aiyeteju	Akoko-Edo	Edo	7.343	5.997	2	
+Aiyegbaju	Ijero	Ekiti	7.934	5.005	2	
+Aiyatoro Babunde	Kabba/Bunu	Kogi	7.800	6.087	2	
+Aiyegunle Bunu	Kabba/Bunu	Kogi	7.872	6.175	2	
+Aiyegunle	Ijumu	Kogi	7.992	6.056	2	
+Ainu Ogbogwu	Gwer East	Benue	7.095	8.433	2	
+Ainu	Gwer East	Benue	7.100	8.443	2	
+Aije	Gwer West	Benue	7.521	8.237	2	
+Ungua Ainaji	Babura	Jigawa	12.566	8.722	2	
+Aisawa	Bindawa	Katsina	12.781	7.951	2	
+Gidan Aihasan	Illela	Sokoto	13.509	5.458	2	Gidan Alhasan
+Ungwan Sarkin Aiki Ibiran	Faskari	Katsina	11.696	7.027	2	
+Alke	Ibaji	Kogi	6.792	6.779	2	Aike
+Ohaji/Egbema	Ohaji/Egbema	Imo	5.402	6.825	2	Agbegbe Ijoba Ibile Ohaji/Egbema|ai bei ma
+Aiyedire	Aiyedire	Osun	7.581	4.235	2	Agbegbe Ijoba Ibile Aiyedire|Aijedire|Ayedire|Ayedire Local Government Area|aydyr
+Aiyedade	Aiyedade	Osun	7.334	4.349	2	Aiyeda Ade|Ayedaade|Ayedaade Local Government Area
+Aitakuraram	Kukawa	Borno	12.801	13.540	2	
+Aigrayin	Gwer West	Benue	7.710	8.256	2	
+Aiim	Guma	Benue	7.619	9.006	2	
+Aiena	Gboko	Benue	7.364	9.106	2	
+Aii	Logo	Benue	7.497	9.241	2	
+Aikighe	Gboko	Benue	7.385	8.849	2	
+Aishi	Zaki	Bauchi	12.067	10.353	2	
+Wuro Aiwa	Jada	Adamawa	8.740	12.334	2	
+Aiyetoro	Ajeromi/Ifelodun	Lagos	6.460	3.346	2	
+Jinadu Aiyetoro	Surulere	Lagos	6.490	3.340	2	
+Airways	Surulere	Lagos	6.490	3.328	2	
+Ailegun	Oshodi/Isolo	Lagos	6.533	3.295	2	
+Aiyetoro Mafowoku	Shomolu	Lagos	6.539	3.387	2	
+Adekunle Aiyetoro	Lagos Mainland	Lagos	6.493	3.381	2	
+Oke-Oyinbo Aiyetoro	Ìkòròdú	Lagos	6.573	3.587	2	
+Aige Solomade	Ìkòròdú	Lagos	6.602	3.507	2	
+Aishong	Zangon Kataf	Kaduna	9.816	8.298	2	
+Aiyetoro	Obafemi Owode	Ogun	7.013	3.468	2	
+Aiyegun	Egbeda	Oyo	7.380	4.074	2	
+Aiyesan	Ijebu North	Ogun	7.112	4.003	2	
+Aiyesan	Ijebu North	Ogun	7.063	4.069	2	
+Aiyesari	Ijebu North	Ogun	7.054	4.126	2	
+Aiyegunle	Egbeda	Oyo	7.361	4.124	2	
+Aiyede-Oko	Egbeda	Oyo	7.402	4.118	2	
+Aiyede-Egan	Irewole	Osun	7.415	4.130	2	
+Aiyegunle	Lagelu	Oyo	7.498	4.105	2	
+Aiyegun-Kekere	Irewole	Osun	7.441	4.180	2	
+Aiyegbiri	Isokan	Osun	7.289	4.168	2	
+Egbu-Aiyede	Irewole	Osun	7.381	4.246	2	
+Aiyegunle	Isokan	Osun	7.287	4.228	2	
+Ailodu	Irewole	Osun	7.357	4.312	2	
+Aiyegunle	Aiyedade	Osun	7.250	4.378	2	
+Aiyekale	Irepodun	Osun	7.923	4.522	2	
+Aiyetoro	Ife Central	Osun	7.607	4.526	2	
+Aibinu	Aiyedade	Osun	7.591	4.501	2	
+Aiyeteju	Ife Central	Osun	7.543	4.578	2	
+Aiyegunle	Atakunmosa West	Osun	7.668	4.634	2	
+Aiyetoro	Atakunmosa West	Osun	7.522	4.705	2	
+Aiyegunle	Ilesha East	Osun	7.571	4.730	2	
+Aiyegbaju	Ilesha East	Osun	7.576	4.733	2	
+Illo-Aiyegunle	Ilesha West	Osun	7.659	4.777	2	
+Aiyekele	Boripe	Osun	7.840	4.665	2	
+Aiyegunle	Atakunmosa East	Osun	7.526	4.793	2	
+Aiyegunle	Oriade	Osun	7.600	4.866	2	
+Aiyegunle	Ifedayo	Osun	7.920	4.951	2	
+Aiyetoro Ogunba	Yewa North	Ogun	7.082	2.772	2	
+Ainasu	Ado Odo/Ota	Ogun	6.552	2.916	2	
+Aiyede	Ese Odo	Ondo	6.363	4.912	2	
+Aiyetoro Wharf	Ilaje	Ondo	6.176	4.821	2	
+Ugbo-Ayiku Junction	Ilaje	Ondo	6.142	4.803	2	Aiyetoro
+Aiye-Obafemi	Ife South	Osun	7.279	4.588	2	
+Aiye-Amodu	Ife South	Osun	7.246	4.576	2	
+Aiyesan	Ife South	Osun	7.188	4.552	2	
+Aiyetoro	Ife South	Osun	7.112	4.570	2	
+Aiyetoro Abagun	Ondo West	Ondo	7.054	4.622	2	
+Aiyetimibo	Ondo West	Ondo	7.039	4.621	2	
+Aiye-Oba	Ife South	Osun	7.288	4.609	2	
+Aiyegbaju	Ife South	Osun	7.298	4.607	2	
+Aiyedade	Atakunmosa West	Osun	7.473	4.655	2	
+Aiye	Ife South	Osun	7.359	4.683	2	
+Aiye-Aluko	Ife South	Osun	7.380	4.688	2	
+Aiye-Odemuyiwa	Ife South	Osun	7.295	4.645	2	
+Aiyetoro	Atakunmosa West	Osun	7.300	4.751	2	
+Aiyesan	Ile Oluji/Okeigbo	Ondo	7.281	4.839	2	
+Aiye	Ondo East	Ondo	7.165	4.880	2	
+Ago-Aiyesanmi	Ondo West	Ondo	7.047	4.917	2	
+Sasere-Aiyeferere	Ondo East	Ondo	7.050	4.994	2	
+Aiyetoro-Agunla	Ile Oluji/Okeigbo	Ondo	7.273	4.915	2	
+Aiyede	Ile Oluji/Okeigbo	Ondo	7.268	4.934	2	
+Aiyede	Ile Oluji/Okeigbo	Ondo	7.264	4.981	2	
+Aiyegun-Agunla	Ile Oluji/Okeigbo	Ondo	7.309	4.953	2	
+Aiyedade	Ile Oluji/Okeigbo	Ondo	7.325	4.934	2	
+Aiyesanmi	Ile Oluji/Okeigbo	Ondo	7.315	4.985	2	
+Aiya Genge	Ogbomosho North	Oyo	8.191	4.231	2	
+Aiyetoro	Asa	Kwara	8.435	4.372	2	
+Aiyetoro	Asa	Kwara	8.303	4.492	2	
+Aiyegun Oloye	Ogbomosho South	Oyo	8.069	4.244	2	
+Aiyekale	Olorunsogo	Oyo	8.865	4.144	2	
+Aiyekale	Moro	Kwara	8.673	4.468	2	
+Aiyekale	Moro	Kwara	8.670	4.432	2	
+Aiyekere	Asa	Kwara	8.610	4.322	2	
+Aiyekale	Asa	Kwara	8.570	4.326	2	
+Aiyepe	Asa	Kwara	8.537	4.323	2	
+Aiyegoro	Asa	Kwara	8.535	4.350	2	
+Aiyereke-Tapa	Ifelodun	Kwara	8.485	4.999	2	
+Gidan-Alkali	Lafia	Nasarawa	8.643	8.656	2	Gidan-Aikali
+Aiyekale	Asa	Kwara	8.238	4.574	2	
+Idowu-Aiku	Oyo West	Oyo	7.976	3.756	2	
+Aiyekale	Ifelodun	Kwara	8.495	4.980	2	
+Aiyekale	Ifelodun	Kwara	8.461	4.917	2	
+Aiyetoro	Ifelodun	Kwara	8.473	4.823	2	
+Aiyetoro	Moro	Kwara	9.036	4.860	2	
+Aiyereke-Ile	Ilorin South	Kwara	8.468	4.719	2	
+Aiyekale	Ifelodun	Kwara	8.307	4.741	2	
+Aiyekale	Asa	Kwara	8.363	4.556	2	
+Aiyekale	Ilorin South	Kwara	8.451	4.720	2	
+Aiyetoro	Ilorin West	Kwara	8.458	4.523	2	
+Aiyekale	Ilorin South	Kwara	8.498	4.678	2	
+Aiyelagbe	Asa	Kwara	8.269	4.512	2	
+Aikogi	Agaie	Niger	8.966	6.310	2	
+Amasa	Toto	Nasarawa	8.256	7.346	2	Ainasa
+Aiyelale	Aiyedire	Osun	7.537	4.169	2	
+Aiyelagbe	Lagelu	Oyo	7.514	4.003	2	
+Aiyegbaju	Aiyedade	Osun	7.582	4.444	2	
+Aiyede	Iwo	Osun	7.726	4.147	2	
+Aiyepate	Iwo	Osun	7.689	4.123	2	
+Aiyegunle	Iwo	Osun	7.735	4.142	2	
+Aiyepe	Akinyele	Oyo	7.631	4.037	2	
+Aiyetutu	Iwo	Osun	7.659	4.223	2	
+Aiyetoro	Irewole	Osun	7.491	4.163	2	
+Aiyedade	Ife North	Osun	7.476	4.432	2	
+Aiyegun	Ori Ire	Oyo	8.160	4.080	2	
+Aiyegun	Asa	Kwara	8.398	4.468	2	
+Aiyereke	Ifelodun	Kwara	8.488	4.873	2	
+Aiyegun	Ogo Oluwa	Oyo	7.996	4.217	2	
 Aina Eleko Lane	Ikeja	Lagos	6.570	3.365	1	
 Aiyepe Street	Shomolu	Lagos	6.535	3.378	1	
 Aina Eleko Street	Ikeja	Lagos	6.568	3.365	1	
 Ajayi Aina Street	Kosofe	Lagos	6.557	3.389	1	
-AIRPORT ROAD	Egbeda	Oyo	7.391	3.969	1	
+Airport Road	Egbeda	Oyo	7.391	3.969	1	
 Airport Road	Bodinga	Sokoto	12.928	5.195	1	
 Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.983	6.917	1	
 Aigbedion Street	Ikpoba-Okha	Edo	6.339	5.645	1	
@@ -132,8 +352,8 @@ Aigbe Street	Egor	Edo	6.370	5.586	1
 Airenakhue Street	Egor	Edo	6.365	5.630	1	
 Aiyanyor Ave.	Oredo	Edo	6.300	5.598	1	
 Aigbangbe Street	Oredo	Edo	6.312	5.601	1	
-AIBANGBEE STREET	Egor	Edo	6.357	5.585	1	
-AITUARIAGBON STREET	Egor	Edo	6.357	5.584	1	
+Aibangbee Street	Egor	Edo	6.357	5.585	1	
+Aituariagbon Street	Egor	Edo	6.357	5.584	1	
 Aiyeomoghe Drive	Oredo	Edo	6.323	5.590	1	
 Aiyevere Street	Oredo	Edo	6.351	5.613	1	
 Aibuedefe Avenue	Oredo	Edo	6.299	5.587	1	
@@ -142,7 +362,7 @@ Aifuwa Street	Egor	Edo	6.368	5.586	1
 Aimufua Street	Egor	Edo	6.370	5.626	1	
 Aisosa Stret	Egor	Edo	6.370	5.631	1	
 Aiwuyor Street	Egor	Edo	6.362	5.576	1	
-AIKHIONBARE STREET	Egor	Edo	6.377	5.639	1	
+Aikhionbare Street	Egor	Edo	6.377	5.639	1	
 Aigbedion Street	Oredo	Edo	6.341	5.598	1	
 Aisien Street	Egor	Edo	6.376	5.639	1	
 Augustus Aikhomu Way	Municipal Area Council	FCT Abuja	9.072	7.437	1	
@@ -157,14 +377,10 @@ Alhaji Aiyedun Street	Ibadan South West	Oyo	7.386	3.883	1
 International Airport Road	Ikeja	Lagos	6.557	3.322	1	
 International Airport Road	Oshodi/Isolo	Lagos	6.555	3.324	1	
 Airport Road	Ikeja	Lagos	6.589	3.335	1	
-Airport Road	Ikeja	Lagos	6.590	3.335	1	
 Airport Road	Ikeja	Lagos	6.572	3.334	1	
-Airport Road	Ikeja	Lagos	6.581	3.334	1	
-Airport Road	Ikeja	Lagos	6.566	3.324	1	
 Aina Akingbala Street	Kosofe	Lagos	6.630	3.369	1	
 Aiyedun Street	Kosofe	Lagos	6.633	3.376	1	
 Aina Street	Ikeja	Lagos	6.644	3.363	1	
-Aina Street	Ifo	Ogun	6.644	3.369	1	
 Aina Street	Ifo	Ogun	6.649	3.366	1	
 Aina Ajobo Street	Ifako/Ijaye	Lagos	6.638	3.340	1	
 Aiyetoro Street	Ikeja	Lagos	6.604	3.320	1	
@@ -172,19 +388,11 @@ Olusegun Aina Street	Eti Osa	Lagos	6.463	3.444	1
 Kaduna Airport Link Road	Igabi	Kaduna	10.593	7.362	1	
 Airport Road	Fagge	Kano	12.026	8.542	1	
 Airport Road	Fagge	Kano	12.037	8.517	1	
-Airport Road	Fagge	Kano	12.028	8.515	1	
 Aiyepe Street	Ajeromi/Ifelodun	Lagos	6.466	3.333	1	
 Igwuruta to Airport ‘Junction, Omagwa	Ikwerre	Rivers	4.966	6.989	1	
-Mallam Aminu Kano International Airport	Fagge	Kano	12.056	8.543	0	
-Maiduguri International Airport	Maiduguri	Borno	11.871	13.099	0	
 Aigbokhian street	Egor	Edo	6.379	5.630	1	
 Aina Jakande Street	Eti Osa	Lagos	6.489	3.582	1	
-Ajaokuta Airport	Okene	Kogi	7.461	6.465	0	
-Yola Airport	Yola South	Adamawa	9.237	12.433	0	
 Airport Road	Asa	Kwara	8.426	4.489	1	
-Gombe Lawanti International Airport	Akko	Gombe	10.310	10.911	0	
-Yakubu Gowon Airport	Riyom	Plateau	9.636	8.871	0	
-Katsina Airport	Muhammadu Dikko Stadium	Katsina	13.004	7.661	0	
 Aiyetoro Street	Mushin	Lagos	6.528	3.365	1	
 Old Airport Road	Jos North	Plateau	9.874	8.879	1	
 Aiyedun Street	Shomolu	Lagos	6.536	3.400	1	
@@ -196,34 +404,23 @@ Aina Obembe Street	Alimosho	Lagos	6.597	3.259	1
 Aina Akera Street	Agege	Lagos	6.633	3.315	1	
 Aina Street	Kosofe	Lagos	6.585	3.381	1	
 Aina Street	Kosofe	Lagos	6.585	3.381	1	
-Makurdi Airport	Markurdi	Benue	7.713	8.621	0	
 Aideyan Street	Oredo	Edo	6.324	5.616	1	
 Okunola Aina Street	Kosofe	Lagos	6.568	3.374	1	
 AIT Road	Enugu North	Enugu	6.473	7.466	1	
 Airport Road	Enugu North	Enugu	6.460	7.553	1	
 Aiyedogbon Close	Ifako/Ijaye	Lagos	6.643	3.330	1	
-Airforce Base	Enugu East	Enugu	6.474	7.515	2	
 Jola Aina Fakomaya Street	Ìkòròdú	Lagos	6.650	3.515	1	
-Nigerian Air Force Primary Health Centre	Fagge	Kano	12.045	8.532	0	
 Utomi Aire Avenue	Eti Osa	Lagos	6.444	3.477	1	
-Eket Airstrip	Eket	Akwa Ibom	4.650	7.951	0	
 Airport Road	Bosso	Niger	9.665	6.473	1	
-Airport Road	Bosso	Niger	9.660	6.465	1	
-Minna Airport	Bosso	Niger	9.663	6.470	0	
-Kaduna Airport	Igabi	Kaduna	10.687	7.306	0	
 Aimasiko Street	Alimosho	Lagos	6.530	3.265	1	
-Murtala Mohammed International Airport	Oshodi/Isolo	Lagos	6.588	3.334	0	
-Airport road	Ona Ara	Oyo	7.380	3.973	1	
 Airport road	Ona Ara	Oyo	7.371	3.975	1	
 Airport road	Ona Ara	Oyo	7.360	3.972	1	
 Chief Francis Aiyegbeni close	Ibadan South West	Oyo	7.370	3.859	1	
 Opolo New Road-AIT-Elebele-Kolocreek-Imiringi	Yenegoa	Bayelsa	4.912	6.340	1	
 Opolo New Road-AIT-Elebele-Kolocreek-Imiringi	Ogbia	Bayelsa	4.862	6.348	1	
 Opolo New Road-AIT-Elebele-Kolocreek-Imiringi	Ogbia	Bayelsa	4.873	6.338	1	
-Port Harcourt International Airport	Ikwerre	Rivers	5.006	6.949	0	
 Aigbomian St	Esan West	Edo	6.748	6.051	1	
 Airport Road	Markurdi	Benue	7.710	8.633	1	
-Victor Attah International  Airport	Uruan	Akwa Ibom	4.908	8.087	0	
 Airport Road	Uvwie	Delta	5.541	5.763	1	
 Aina Omiteru Street	Ojo	Lagos	6.455	3.172	1	
 Aina George Street	Mushin	Lagos	6.551	3.365	1	
@@ -235,18 +432,13 @@ Aiyedun St	Ifako/Ijaye	Lagos	6.684	3.280	1
 Josiah Aina Street	Ifako/Ijaye	Lagos	6.689	3.273	1	
 Sunday Aina	Ado Odo/Ota	Ogun	6.691	3.270	1	
 Aina Ajayi street	Ifako/Ijaye	Lagos	6.686	3.276	1	
-Benin City Airport	Oredo	Edo	6.317	5.604	0	Benin Airport
 Kehinde Aina Street	Ìkòròdú	Lagos	6.651	3.513	1	
 Aiyegbusi Close	Alimosho	Lagos	6.663	3.256	1	
 Aina Close	Eti Osa	Lagos	6.497	3.589	1	
-Bajoga Northeast Airport	Funakaye	Gombe	10.925	11.506	0	
 Nana Aisha Road	Sokoto North	Sokoto	13.071	5.201	1	
 Nana Aisha Road 3	Sokoto North	Sokoto	13.070	5.200	1	
 Nana Aisha Road 2	Sokoto North	Sokoto	13.070	5.200	1	
-Nigerian Air Force Base Abuja	Municipal Area Council	FCT Abuja	8.967	7.260	2	NAF Base
 Airport Lane	Oredo	Edo	6.317	5.604	1	
-Dutse International Airport	Dutse	Jigawa	11.792	9.300	0	
-Bauchi State Airport	Bauchi	Bauchi	10.456	9.747	0	
 Airport Road	Oredo	Edo	6.318	5.607	1	
 Airport Road	Oredo	Edo	6.299	5.593	1	
 Airport Road	Akure North	Ondo	7.255	5.295	1	
@@ -254,16 +446,14 @@ Aideyan Osaro Royal Street	Municipal Area Council	FCT Abuja	8.989	7.351	1
 Aina Aladi Street	Alimosho	Lagos	6.667	3.252	1	
 Aina Street	Ifako/Ijaye	Lagos	6.667	3.296	1	
 Freedom Aizebamwan Street	Oredo	Edo	6.263	5.576	1	
-Ibadan Airport	Ona Ara	Oyo	7.358	3.970	0	
 Oba- ile - Airport Road	Akure North	Ondo	7.261	5.265	1	
 Airport Road	Akure North	Ondo	7.276	5.296	1	
 Oba- ile - Airport Road	Akure North	Ondo	7.276	5.296	1	
-Akanu Ibiam International Airport	Enugu East	Enugu	6.473	7.571	0	
 Airport Road	Enugu East	Enugu	6.467	7.562	1	
-AIMENOFONA STREET	Oredo	Edo	6.287	5.564	1	AJAYI STREET
+Aimenofona Street	Oredo	Edo	6.287	5.564	1	AJAYI STREET
 Kaduna Airport Link Road	Igabi	Kaduna	10.648	7.347	1	
 Airport Road	Bauchi	Bauchi	10.308	9.819	1	
-VANCO JUNCTION AI	Abakaliki	Ebonyi	6.319	8.112	1	
+Vanco Junction Ai	Abakaliki	Ebonyi	6.319	8.112	1	
 Abraham Aimuel Street	Municipal Area Council	FCT Abuja	9.133	7.378	1	
 Airport Road	Ilorin West	Kwara	8.460	4.519	1	
 Airport Road	Ilorin West	Kwara	8.454	4.514	1	
@@ -271,23 +461,76 @@ Air Marshal Oluseyi Petinrin Drive	Municipal Area Council	FCT Abuja	8.972	7.260	
 Alhaji Ronke Aiku Street	Eti Osa	Lagos	6.502	3.586	1	
 Airport Road	Bosso	Niger	9.677	6.482	1	
 Aishat Oyeronke Street	Ilorin East	Kwara	8.477	4.620	1	
-Osubi Airport	Uvwie	Delta	5.590	5.811	0	
 Oba- ile - Airport Road	Akure North	Ondo	7.261	5.261	1	
 Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	5.084	6.832	1	
 Ikiri Airport Road	Ogba/Egbema/Ndoni	Rivers	5.321	6.671	1	
+Airport Road	Yenegoa	Bayelsa	4.971	6.205	1	
+Air Marshal Issac Alpa Road	Municipal Area Council	FCT Abuja	8.975	7.263	1	
+Airport Road	Bauchi	Bauchi	10.494	9.757	1	
+Kaduna Airport Link Road	Igabi	Kaduna	10.691	7.331	1	
+Aiyevbomwan Avenue	Eti Osa	Lagos	6.444	3.607	1	
+Airport Road	Ikwerre	Rivers	4.982	6.950	1	
+Airport Road	Ezza South	Ebonyi	6.186	8.037	1	
+Biodun Akin-Aina Crescent	Municipal Area Council	FCT Abuja	9.100	7.472	1	
+Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.994	6.886	1	
+Azare Airstrip	Giade	Bauchi	11.591	10.232	0	
+Old Ibadan Airport	Ibadan North	Oyo	7.432	3.909	0	
+Shiroro Airport	Shiroro	Niger	9.883	6.815	0	
+Bida Airport	Bida	Niger	9.102	6.012	0	
+Airforce Pry Sch	Oredo	Edo	6.302	5.592	0	
+Bebi Airstrip	Obanliku	Cross River	6.621	9.320	0	
+371 Nigerian Air Force Medical Center	Uvwie	Delta	5.583	5.714	0	
+Nguru Airstrip	Karasuwa	Yobe	12.833	10.541	0	
+Bacita Airstrip	Edu	Kwara	9.043	4.919	0	
+Airport	Municipal Area Council	FCT Abuja	9.007	7.272	0	
+Airforce School	Egbeda	Oyo	7.388	3.970	0	
+Jaji Airstrip	Igabi	Kaduna	10.833	7.538	0	
+Usman Aisha Hospital	Bida	Niger	9.095	6.019	0	
+Maternal And Child Health Care Old Airport	Chanchaga	Niger	9.625	6.537	0	
+AIB and company Ltd	Jos North	Plateau	9.960	8.888	0	
+Aibeth Centre	Jos North	Plateau	9.907	8.944	0	
+Osubi Airport	Okpe	Delta	5.595	5.819	0	
+Barau Dikko Teaching Hospital Dana Old Airport Kawo Kaduna	Kaduna North	Kaduna	10.591	7.446	0	
+Prestige Medical Clinic 6a Aina Obembe Street Ipaja	Alimosho	Lagos	6.601	3.254	0	
+Aishat Specialist Hospital Limited	Mushin	Lagos	6.519	3.351	0	
+Aipate Baptist Church Grammar School	Iwo	Osun	7.630	4.168	0	
+Aishatu Best Academy (Senior)	Ungongo	Kano	12.042	8.571	0	
+Aishatu Best Academy (Junior)	Ungongo	Kano	12.042	8.571	0	
+Aishatu Best Academy (Nur./Pri.)	Ungongo	Kano	12.042	8.571	0	
+Assayyada Aisha College	Ungongo	Kano	12.035	8.565	0	
+Air Force Research And Development Centre (AFRDC)	Kaduna North	Kaduna	10.611	7.443	0	
+General Tunde Idiagbon International Airport, Ilorin, Ilorin, Nigeria	Asa	Kwara	8.435	4.495	0	
+Lekki Epe International Airport (Proposed Site)	Epe	Lagos	6.566	3.933	0	
+Off Airport Junction	Municipal Area Council	FCT Abuja	9.056	7.412	0	
+Airport Junction	Municipal Area Council	FCT Abuja	9.066	7.412	0	
+Mallam Aminu Kano International Airport	Fagge	Kano	12.056	8.543	0	
+Maiduguri International Airport	Maiduguri	Borno	11.871	13.099	0	
+Ajaokuta Airport	Okene	Kogi	7.461	6.465	0	
+Yola Airport	Yola South	Adamawa	9.237	12.433	0	
+Gombe Lawanti International Airport	Akko	Gombe	10.310	10.911	0	
+Yakubu Gowon Airport	Riyom	Plateau	9.636	8.871	0	
+Katsina Airport	Muhammadu Dikko Stadium	Katsina	13.004	7.661	0	
+Makurdi Airport	Markurdi	Benue	7.713	8.621	0	
+Nigerian Air Force Primary Health Centre	Fagge	Kano	12.045	8.532	0	
+Eket Airstrip	Eket	Akwa Ibom	4.650	7.951	0	
+Minna Airport	Bosso	Niger	9.663	6.470	0	
+Kaduna Airport	Igabi	Kaduna	10.687	7.306	0	
+Murtala Mohammed International Airport	Oshodi/Isolo	Lagos	6.588	3.334	0	
+Port Harcourt International Airport	Ikwerre	Rivers	5.006	6.949	0	
+Victor Attah International  Airport	Uruan	Akwa Ibom	4.908	8.087	0	
+Benin City Airport	Oredo	Edo	6.317	5.604	0	Benin Airport
+Bajoga Northeast Airport	Funakaye	Gombe	10.925	11.506	0	
+Dutse International Airport	Dutse	Jigawa	11.792	9.300	0	
+Bauchi State Airport	Bauchi	Bauchi	10.456	9.747	0	
+Ibadan Airport	Ona Ara	Oyo	7.358	3.970	0	
+Akanu Ibiam International Airport	Enugu East	Enugu	6.473	7.571	0	
+Osubi Airport	Uvwie	Delta	5.590	5.811	0	
 Margaret Ekpo International Airport	Calabar Municipal	Cross River	4.969	8.347	0	
 Nigerian Airforce Hospital Owerri	Owerri North	Imo	5.423	7.108	0	
 Nigerian Air Force Port Harcourt	Obio/Akpor	Rivers	4.856	7.026	0	
 Air Force Comprehensive School	Dawakin Tofa	Kano	12.145	8.383	0	
-International Airport Road	Ikeja	Lagos	6.575	3.321	1	
-International Airport Road	Ikeja	Lagos	6.569	3.321	1	
-Airport Road	Yenegoa	Bayelsa	4.971	6.205	1	
-Air Marshal Issac Alpa Road	Municipal Area Council	FCT Abuja	8.975	7.263	1	
 Bonny Airport	Bonny	Rivers	4.410	7.188	0	
 Nigerian Air Force (NAF) Hospital	Municipal Area Council	FCT Abuja	8.975	7.265	0	063 Nigerian Air Force Hospital
-Airport Road	Bauchi	Bauchi	10.494	9.757	1	
-Kaduna Airport Link Road	Igabi	Kaduna	10.691	7.331	1	
-Airport Road	Bodinga	Sokoto	12.920	5.197	1	
 Sadiq Abubakar III International Airport	Bodinga	Sokoto	12.923	5.227	0	
 Sir Ahmadu Bello International Airport	Birnin Kebbi	Kebbi	12.485	4.375	0	
 Ilorin International Airport	Asa	Kwara	8.440	4.501	0	
@@ -295,25 +538,18 @@ Aisami Health Post	Gwale	Kano	11.995	8.500	0
 Aido Dispensary	Gamawa	Bauchi	11.842	10.590	0	Raga Maternity
 Aie Oil	Ìkòròdú	Lagos	6.600	3.625	0	
 Ailos	Eti Osa	Lagos	6.486	3.577	0	
-Opolo New Road-AIT-Elebele-Kolocreek-Imiringi	Ogbia	Bayelsa	4.859	6.344	1	
 Cottage Hospital Wuro Ai	Fufore	Adamawa	9.217	12.664	0	
-Aiyete	Ibarapa North	Oyo	7.554	3.228	2	
 Aigada Maikasuwa Health Clinic	Fune	Yobe	11.761	11.293	0	
-Aiyevbomwan Avenue	Eti Osa	Lagos	6.444	3.607	1	
+Kashimbila Dam Airstrip	Takum	Taraba	6.889	9.725	0	
 Kainji Air Base	Borgu	Niger	9.897	4.496	0	
 Chinua Achebe International Airport	Anambra East	Anambra	6.255	6.855	0	
-Airport Road	Ikwerre	Rivers	4.982	6.950	1	
 Akure Airport	Akure North	Ondo	7.251	5.300	0	
 Gateway International Airport	Ikenne	Ogun	6.933	3.705	0	Ogun Gateway Agro-Cargo Airport
-Airport Road	Ezza South	Ebonyi	6.186	8.037	1	
+Jalingo Airport	Ardo-Kola	Taraba	8.902	11.294	0	
 Air Force Girls Comprehensive School	Municipal Area Council	FCT Abuja	8.979	7.265	0	
 AIR FORCE INSTITUTE OF TECHNOLOGY (AFIT), Kaduna	Kaduna North	Kaduna	10.613	7.462	0	
 Ekiti State Airport	Adó-Èkìtì	Ekiti	7.657	5.355	0	
 MKO Abiola international Airport	Egbedore	Osun	7.766	4.475	0	
 Obajana Airstrip	Lokoja	Kogi	7.941	6.439	0	
-Biodun Akin-Aina Crescent	Municipal Area Council	FCT Abuja	9.100	7.472	1	
 Abia State Airport	Isiala-Ngwa South	Abia	5.401	7.463	0	
 Mangal Airstrip	Ijumu	Kogi	8.027	5.939	0	
-Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.994	6.886	1	
-Aiyedade	Aiyedade	Osun	7.345	4.361	2	
-Aiyedire	Aiyedire	Osun	7.572	4.216	2	

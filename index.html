@@ -152,7 +152,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 <div class="panel" id="terms"></div>
 </section>
 
-<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0). Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors.<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0). Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
@@ -461,8 +461,31 @@ async function findNominatim(q){
   return {name:x.name,area:a.city||a.town||a.suburb||a.village||a.county,state:stateName(a.state),lat:+x.lat,lon:+x.lon,kind:x.category==="place"||x.category==="boundary"?2:x.category==="highway"?1:0,big:["city","town"].includes(x.type)}})}
 // Best match first: the words typed appearing in the name matter most, then real places over
 // streets over landmarks. Equal scores keep Open-Meteo's order, which puts bigger towns first.
-function rankPlaces(q,list){
- const ws=wordsOf(q),low=ws.join(" "),first=wordsOf(q.split(",")[0]).join(" ");
+// Many areas are mapped only through streets or landmarks named after them. When no place in
+// Nigeria has the name typed, but a street or landmark is plainly named after it, offer the name
+// itself and say what it is based on. "Shasha Road" counts; "Old Lagos Road" and "Akin Shasha
+// Street" do not, since those may be named after a city or a person somewhere else.
+const TYPE_WORDS=new Set("road rd street st avenue ave close crescent cresent way drive lane link expressway highway bypass junction roundabout bridge bus stop terminal park motor garage market main new hospital clinic health centre center primary secondary school college".split(" "));
+const NOT_AREA=/^(street|road|avenue|close|crescent|drive|lane|junction|bridge|market|school|college|hospital|clinic|church|mosque|bank|station|stop|park|garage|terminal|hotel|estate|primary|secondary|health|centre|center|total|mobil|oando|mortuary|pharmacy|filling|stores?|shop|plaza|mall|roundabout|expressway|highway|university|polytechnic|academy|ministry|office|police|army|barracks|ferry|jetty|stadium|nursery|maternity|dispensary|care)$/;
+// Famous people many roads are named after, so a road does not make them an area.
+const PEOPLE=/^(ahmadu bello|bello|herbert macaulay|macaulay|awolowo|obafemi awolowo|azikiwe|nnamdi azikiwe|zik|murtala|murtala muhammed|murtala mohammed|tafawa balewa|balewa|aminu kano|yakubu gowon|gowon|babangida|ibrahim babangida|abacha|sani abacha|obasanjo|olusegun obasanjo|buhari|muhammadu buhari|yar adua|goodluck jonathan|ojukwu|akintola|ladoke akintola|funmilayo ransome kuti|ransome kuti|tinubu|bola tinubu|mobolaji johnson|johnson)$/;
+function areaGuesses(q,list){
+ const ws=wordsOf(q),out=[];
+ const core=x=>{const n=wordsOf(x.name);
+  for(let l=ws.length;l>0;l--)for(let s=0;s+l<=ws.length;s++){const t=ws.slice(s,s+l),rest=ws.filter((_,i)=>i<s||i>=s+l),inWhere=rest.every(w=>wordsOf(x.area+" "+stateName(x.state)).some(a=>a.startsWith(w)));
+   if(!inWhere)continue;
+   const atStart=t.every((w,j)=>n[j]===w)&&n.length>l&&n.slice(l).every(w=>TYPE_WORDS.has(w));
+   const atEnd=x.kind===0&&n.length>l&&t.every((w,j)=>n[n.length-l+j]===w);
+   if(atStart||atEnd)return t.join(" ")}
+  return ""};
+ for(const x of list){if(x.kind===2||out.length>=2)continue;
+  const c=core(x);if(c.length<4||NOT_AREA.test(c)||PEOPLE.test(c))continue;
+  // A real place of that name, anywhere in the results, always wins.
+  if(list.some(y=>y.kind===2&&wordsOf(y.name).join(" ")===c))return [];
+  if(!out.some(y=>y.state===x.state&&y.area===x.area))out.push({name:c.replace(/\b[a-z]/g,m=>m.toUpperCase()),area:x.area,state:x.state,lat:x.lat,lon:x.lon,kind:2,big:false,around:x.name})}
+ return out}
+function rankPlaces(q,all){
+ const list=[...areaGuesses(q,all),...all],ws=wordsOf(q),low=ws.join(" "),first=wordsOf(q.split(",")[0]).join(" ");
  const scored=list.map((x,i)=>{const names=x.words||wordsOf(x.name+" "+(x.alts||"")),where=x.where||wordsOf(x.area+" "+x.state),n=wordsOf(x.name).join(" ");let v=x.kind;
   if(n===low||n===first)v+=6+(x.big?2:0);
   for(const w of ws)v+=names.some(a=>a.startsWith(w))?3:where.some(a=>a.startsWith(w))?1:0;
@@ -475,7 +498,7 @@ function showPlaces(res,q){
  const top=res.slice(0,6),name=wordsOf(q).join(" "),same=res.filter(x=>wordsOf(x.name).join(" ")===name).length;
  // Many towns share a name, such as Sabon Gari; not every list needs this hint.
  const many=same>=3&&res.length>6?"<div class='note'>Many places share this name. Add your state to narrow it down.</div>":"";
- $("results").innerHTML=top.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+esc(uniq([x.area!==x.name?x.area:"",stateName(x.state)]).join(", "))+"</small></button>").join("")+many;
+ $("results").innerHTML=top.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+(x.around?"around "+esc(x.around)+", ":"")+esc(uniq([x.area!==x.name?x.area:"",stateName(x.state)]).join(", "))+"</small></button>").join("")+many;
  $("results").querySelectorAll("button").forEach(b=>b.onclick=()=>{const x=top[+b.dataset.i];
   $("results").innerHTML="";$("town").value="";
   loadPlace({name:placeLabel(x),lat:+x.lat.toFixed(2),lon:+x.lon.toFixed(2)},false,"search")})}

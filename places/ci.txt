@@ -1,3 +1,10 @@
+Benin City	Oredo	Edo	6.333	5.622	3	
+Gorondutse Cikin Gari	Shanono	Kano	12.160	7.870	3	Goran Dutse
+Alaro City	Epe	Lagos	6.559	3.945	3	
+Dandalama Cikin Gari	Dawakin Tofa	Kano	12.145	8.463	3	Dan Dalama
+Alaro City	Epe	Lagos	6.562	3.977	3	
+New Enugu Smart City	Enugu North	Enugu	6.415	7.605	3	
+Benin City	Oredo	Edo	6.338	5.626	3	BNI|Benim|Benin|Benin Siti|Benin by|Benin-Sici|Benin-Siti|Benin-Stadt|Benin-stad|Beninas|Beninborg|Beninurbo|Ciudad de B
 Ungua Cinai	Babura	Jigawa	12.603	8.652	2	
 Ungwan Citama	Maru	Zamfara	11.389	6.540	2	
 Garin Cinai	Baure	Katsina	12.833	8.950	2	
@@ -13,13 +20,7 @@ Cirairai	Jega	Kebbi	12.284	4.298	2
 Cibiki Karimi	Arewa Dandi	Kebbi	12.474	3.850	2	
 Ungua Cinai	Kazaure	Jigawa	12.614	8.547	2	Ungua Chimi
 Cicia	Baure	Katsina	12.706	8.768	2	Ungwan Adamu;Adamu;Unguwar Adamu
-Kings Citadel Seminary School	Egor	Edo	6.365	5.625	0	
-Benin City	Oredo	Edo	6.333	5.622	3	
-City Primary School	Enugu North	Enugu	6.432	7.477	0	
-Lead City High School	Ibadan North West	Oyo	7.399	3.863	0	
-Ibadan Civic Centre	Ibadan North	Oyo	7.401	3.923	0	
 Gurduba Cikin Gari	Ajingi	Kano	12.022	9.003	2	
-Gorondutse Cikin Gari	Shanono	Kano	12.160	7.870	3	Goran Dutse
 Gaba Biyu Cikin Gari	Doguwa	Kano	11.086	8.591	2	Gada Biyu Cikin Gari|Gada
 Yankame Cikin Gari	Tsanyawa	Kano	12.315	7.900	2	
 Dorayi Babba Cikin Gari	Gwale	Kano	11.969	8.461	2	
@@ -27,12 +28,6 @@ Jiyayya Cikin Gari	Ajingi	Kano	11.983	9.094	2	Jiyayya
 Yarmariya Cikin Gari	Tudun Wada	Kano	11.265	8.348	2	Yarmaraya
 Kokai Cikin Gari	Tsanyawa	Kano	12.219	8.025	2	Kokai
 Victoria Garden City	Eti Osa	Lagos	6.464	3.546	2	
-St. Paul's Nursery and Primary School, Warri City	Warri South	Delta	5.508	5.763	0	
-New Citizen Filling Station	Uvwie	Delta	5.552	5.744	0	
-CIWA	Obio/Akpor	Rivers	4.844	7.043	0	
-Ikeja City Mall	Ikeja	Lagos	6.615	3.357	0	
-Civil Engineering Hydraulic Basin	Shomolu	Lagos	6.519	3.397	0	
-Alaro City	Epe	Lagos	6.559	3.945	3	
 Tsara Cikin Gari	Rogo	Kano	11.450	7.730	2	
 Ba'Awa Cikin Gari	Kiru	Kano	11.597	7.986	2	Ba’awa
 Kwarin Malam	Karaye	Kano	11.651	7.928	2	Citama
@@ -79,7 +74,6 @@ Zango Cikin Gari	Ungongo	Kano	12.071	8.441	2
 Kududufawa Cikin Gari	Ungongo	Kano	12.042	8.446	2	
 Koranci Cikin Gari	Ungongo	Kano	12.083	8.556	2	
 Goda Cikin Gari	Minjibir	Kano	12.214	8.560	2	Goda
-Dandalama Cikin Gari	Dawakin Tofa	Kano	12.145	8.463	3	Dan Dalama
 Madaci Cikin Gari	Dawakin Tofa	Kano	12.198	8.473	2	Madachi
 Zango Cikin Gari	Gezawa	Kano	12.095	8.683	2	Zango
 Kazawa Cikin Gari	Minjibir	Kano	12.162	8.669	2	
@@ -108,6 +102,71 @@ Gwaneri Cikin Gari	Bunkure	Kano	11.676	8.629	2
 Buran Cikin Gari	Rano	Kano	11.446	8.566	2	
 Chirin Cikin Gari	Bunkure	Kano	11.629	8.522	2	Chirin;Chirim
 Barnawa Cikin Gari	Bunkure	Kano	11.594	8.476	2	Barnawa
+Cinkoso	Madobi	Kano	11.804	8.276	2	
+Unguwa Uku Cikin Gari	Tarauni	Kano	11.957	8.564	2	
+Dilwa Cira	Hong	Adamawa	10.205	13.118	2	
+Ciromawa	Bebeji	Kano	11.598	8.218	2	
+Pakarau	Nangere	Yobe	11.868	11.063	2	Ciroma Dayi|Ciromaday
+Cirim	Bunkure	Kano	11.627	8.523	2	Chirin
+Cinkara	Kogi	Kogi	8.391	6.932	2	
+Masama	Arewa Dandi	Kebbi	12.474	3.843	2	Cibiki Baba|Massama
+Cibauna	Funtua	Katsina	11.534	7.187	2	Chibauna
+Chigwa	Kagarko	Kaduna	9.369	7.819	2	Cigwa
+Kafin Ciroma	Kazaure	Jigawa	12.717	8.504	2	
+Cikakoshi	Babura	Jigawa	12.631	8.722	2	
+Citama	Karaye	Kano	11.650	7.931	2	
+Chikun	Chikun	Kaduna	10.315	7.274	2	Agbegbe Ijoba Ibile Chikun|Ciikun|Cikun
+Cilongji	Maiha	Adamawa	9.794	13.116	2	
+Cihikwagh	Ushongo	Benue	7.102	9.260	2	
+Cila	Kagarko	Kaduna	9.387	7.707	2	
+Gidan-Ciso	Kagarko	Kaduna	9.383	7.714	2	
+Cigwa Daji	Kagarko	Kaduna	9.352	7.798	2	Chigwa
+Cida	Kuje	FCT Abuja	8.774	7.292	2	
+Circular Road	Obio/Akpor	Rivers	4.823	7.028	1	
+Benin City Bypass	Ovia North-East	Edo	6.462	5.622	1	
+Benin City Bypass	Uhunmwonde	Edo	6.418	5.706	1	
+Second West Circular Road	Oredo	Edo	6.354	5.612	1	
+Liman Ciroma Close	Kaduna North	Kaduna	10.512	7.461	1	
+City Road	Fagge	Kano	12.009	8.532	1	
+Civic Centre Road	Fagge	Kano	12.001	8.536	1	
+Adamu Ciroma Crescent	Municipal Area Council	FCT Abuja	9.074	7.430	1	
+City Mart Close	Municipal Area Council	FCT Abuja	8.997	7.430	1	
+Cicely Avenue	Eti Osa	Lagos	6.494	3.611	1	
+First East Circular	Ikpoba-Okha	Edo	6.331	5.635	1	
+City Layout	Enugu North	Enugu	6.460	7.537	1	
+Coal City Garden Estate	Enugu North	Enugu	6.449	7.489	1	
+Coal City	Enugu North	Enugu	6.450	7.487	1	
+Sure City Avenue	Enugu North	Enugu	6.472	7.472	1	
+Citadel Crescent	Enugu South	Enugu	6.418	7.524	1	
+Ciroma Street	Zaria	Kaduna	11.086	7.729	1	
+Cinnamon Close	Eti Osa	Lagos	6.463	3.511	1	
+Accra Circle	Ikwerre	Rivers	4.906	6.912	1	
+Banjul Circle	Obio/Akpor	Rivers	4.904	6.910	1	
+Banjul Circle	Ikwerre	Rivers	4.905	6.909	1	
+Circular Road	Port-Harcourt	Rivers	4.794	7.023	1	
+Benin City Bypass	Uhunmwonde	Edo	6.453	5.645	1	
+Liman Ciroma Road	Kaduna North	Kaduna	10.580	7.433	1	
+Gwagwada CI	Chikun	Kaduna	10.465	7.462	1	
+New World City Road	Warri South	Delta	5.527	5.713	1	
+Creek View Road (New World city)	Warri South	Delta	5.528	5.711	1	
+Civic center Street	Ibadan North East	Oyo	7.400	3.924	1	
+Second East Circular Road	Ikpoba-Okha	Edo	6.340	5.639	1	
+Ibadan Circular Road	Ona Ara	Oyo	7.335	4.047	1	South East segment Ibadan circular road
+City Drive	Oluyole	Oyo	7.341	3.820	1	
+Vivian Olunwa Circle	Port-Harcourt	Rivers	4.792	7.030	1	
+Ibadan Circular Road	Egbeda	Oyo	7.367	4.071	1	South East segment Ibadan circular road
+Ibadan Circular Road	Oluyole	Oyo	7.238	3.838	1	South East segment Ibadan circular road
+Ibadan Circular Road	Egbeda	Oyo	7.364	4.067	1	South East segment Ibadan circular road
+Ibadan Circular Road	Egbeda	Oyo	7.348	4.061	1	South East segment Ibadan circular road
+Kings Citadel Seminary School	Egor	Edo	6.365	5.625	0	
+City Primary School	Enugu North	Enugu	6.432	7.477	0	
+Lead City High School	Ibadan North West	Oyo	7.399	3.863	0	
+Ibadan Civic Centre	Ibadan North	Oyo	7.401	3.923	0	
+St. Paul's Nursery and Primary School, Warri City	Warri South	Delta	5.508	5.763	0	
+New Citizen Filling Station	Uvwie	Delta	5.552	5.744	0	
+CIWA	Obio/Akpor	Rivers	4.844	7.043	0	
+Ikeja City Mall	Ikeja	Lagos	6.615	3.357	0	
+Civil Engineering Hydraulic Basin	Shomolu	Lagos	6.519	3.397	0	
 City girls College	Enugu North	Enugu	6.433	7.503	0	
 Coal City University Enugu	Enugu North	Enugu	6.462	7.587	0	
 City Comprehensive	Bauchi	Bauchi	10.319	9.823	0	
@@ -118,68 +177,16 @@ Civil and Environmental Engineering Department (CEED) - MILITARY	Kaduna North	Ka
 City Specialist Hospital	Karu	Nasarawa	9.034	7.593	0	
 Project City	Municipal Area Council	FCT Abuja	9.126	7.389	0	
 Zinq Bridge Aparments - Family Apartment, Balcony, City View	Municipal Area Council	FCT Abuja	9.099	7.423	0	
-Circular Road	Obio/Akpor	Rivers	4.823	7.028	1	
-Benin City Bypass	Ovia North-East	Edo	6.462	5.622	1	
-Benin City Bypass	Uhunmwonde	Edo	6.418	5.706	1	
-Second West Circular Road	Oredo	Edo	6.354	5.612	1	
-Liman Ciroma Close	Kaduna North	Kaduna	10.512	7.461	1	
-City Road	Fagge	Kano	12.009	8.532	1	
-City Road	Fagge	Kano	12.005	8.533	1	
-Civic Centre Road	Fagge	Kano	12.001	8.536	1	
 Yusuf Maitama Sule University Kano, city campus	Kano Municipal	Kano	11.991	8.531	0	
-Adamu Ciroma Crescent	Municipal Area Council	FCT Abuja	9.074	7.430	1	
-City Mart Close	Municipal Area Council	FCT Abuja	8.997	7.430	1	
-Cicely Avenue	Eti Osa	Lagos	6.494	3.611	1	
 Silverbird Cinemas & Shopping Centre	Municipal Area Council	FCT Abuja	9.067	7.486	0	
-First East Circular	Ikpoba-Okha	Edo	6.331	5.635	1	
-City Layout	Enugu North	Enugu	6.460	7.537	1	
-Coal City Garden Estate	Enugu North	Enugu	6.449	7.489	1	
-Coal City	Enugu North	Enugu	6.450	7.487	1	
-Sure City Avenue	Enugu North	Enugu	6.472	7.472	1	
-Citadel Crescent	Enugu South	Enugu	6.418	7.524	1	
-Ciroma Street	Zaria	Kaduna	11.086	7.729	1	
-Cinnamon Close	Eti Osa	Lagos	6.463	3.511	1	
 Benin City Airport	Oredo	Edo	6.317	5.604	0	Benin Airport
-Second West Circular Road	Egor	Edo	6.361	5.615	1	
-Accra Circle	Ikwerre	Rivers	4.906	6.912	1	
-Banjul Circle	Obio/Akpor	Rivers	4.904	6.910	1	
-Banjul Circle	Ikwerre	Rivers	4.905	6.909	1	
-Circular Road	Port-Harcourt	Rivers	4.794	7.023	1	
-Benin City Bypass	Uhunmwonde	Edo	6.453	5.645	1	
-Benin City Bypass	Uhunmwonde	Edo	6.424	5.700	1	
-Benin City Bypass	Uhunmwonde	Edo	6.453	5.645	1	
-Liman Ciroma Road	Kaduna North	Kaduna	10.580	7.433	1	
-Gwagwada CI	Chikun	Kaduna	10.465	7.462	1	
-New World City Road	Warri South	Delta	5.527	5.713	1	
-Creek View Road (New World city)	Warri South	Delta	5.528	5.711	1	
-City Road	Fagge	Kano	11.994	8.534	1	
-Circular Road	Port-Harcourt	Rivers	4.820	7.024	1	
-Circular Road	Port-Harcourt	Rivers	4.796	7.024	1	
-Circular Road	Port-Harcourt	Rivers	4.795	7.026	1	
-Civic center Street	Ibadan North East	Oyo	7.400	3.924	1	
-Citadel Crescent	Enugu South	Enugu	6.420	7.525	1	
-Second East Circular Road	Ikpoba-Okha	Edo	6.340	5.639	1	
-Second East Circular Road	Ikpoba-Okha	Edo	6.323	5.635	1	
 Owerri City Mall	Owerri Municipal	Imo	5.476	7.057	0	
 City Mall	Lagos Island	Lagos	6.444	3.403	0	
 Lagos State Civil Service College	Ìkòròdú	Lagos	6.596	3.518	0	
-Ibadan Circular Road	Ona Ara	Oyo	7.335	4.047	1	South East segment Ibadan circular road
 Badagry City Hall	Badagry	Lagos	6.413	2.883	0	
-City Drive	Oluyole	Oyo	7.341	3.820	1	
 Lead City University Jericho Campus	Ibadan North West	Oyo	7.400	3.867	0	
 Sick Bay,PH City Council	Port-Harcourt	Rivers	4.771	7.018	0	
-Vivian Olunwa Circle	Port-Harcourt	Rivers	4.792	7.030	1	
 korinya city technical academy	Konshisha	Benue	6.909	8.905	0	
 adzer beke college korinya city	Konshisha	Benue	6.924	8.933	0	
-Ibadan Circular Road	Egbeda	Oyo	7.367	4.071	1	South East segment Ibadan circular road
-Ibadan Circular Road	Ona Ara	Oyo	7.333	4.044	1	South East segment Ibadan circular road
-Ibadan Circular Road	Oluyole	Oyo	7.238	3.838	1	South East segment Ibadan circular road
-Ibadan Circular Road	Egbeda	Oyo	7.364	4.067	1	South East segment Ibadan circular road
-Alaro City	Epe	Lagos	6.562	3.977	3	
-Ibadan Circular Road	Egbeda	Oyo	7.348	4.061	1	South East segment Ibadan circular road
-Ibadan Circular Road	Egbeda	Oyo	7.352	4.065	1	South East segment Ibadan circular road
-New Enugu Smart City	Enugu North	Enugu	6.415	7.605	3	
 Civil and Environmental Engineering Department (CEED)  - NBTE	Kaduna North	Kaduna	10.613	7.442	0	
 Aerotropolis (Aero City Awka 2.0)	Orumba North	Anambra	6.186	7.175	0	
-Cinkoso	Madobi	Kano	11.804	8.276	2	
-Unguwa Uku Cikin Gari	Tarauni	Kano	11.957	8.564	2	

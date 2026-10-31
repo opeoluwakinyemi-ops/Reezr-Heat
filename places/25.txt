@@ -1,4 +1,3 @@
-FHXP+25X, Fate Rd, Oko Erin 240102, Kwara, Nigeria	Ilorin South	Kwara	8.498	4.586	0	
 Road 25	Lagelu	Oyo	7.429	3.946	1	
 Road 25A	Lagelu	Oyo	7.434	3.946	1	
 Upper North 5th Road 25	Enugu East	Enugu	6.483	7.487	1	
@@ -7,3 +6,4 @@ Road 25	Eti Osa	Lagos	6.466	3.544	1
 Road 25	Lagelu	Oyo	7.433	3.945	1	
 Road 25	Ife Central	Osun	7.538	4.543	1	
 Road 25	Municipal Area Council	FCT Abuja	8.963	7.438	1	
+FHXP+25X, Fate Rd, Oko Erin 240102, Kwara, Nigeria	Ilorin South	Kwara	8.498	4.586	0	

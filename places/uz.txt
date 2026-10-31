@@ -1,18 +1,53 @@
+Uzere	Isoko South	Delta	5.342	6.229	3	Usere
 Ebu	Esan North-East	Edo	6.866	6.462	2	Uzua
 Uzebba	Owan West	Edo	6.995	5.905	2	
 Uzaku	Ukwa West	Abia	4.905	7.183	2	Ozuako;Ozuaku;Osuaku
 Ama Uzu	Kolokuma/Opokuma	Bayelsa	5.183	6.367	2	Ara
 Uzanu	Etsako East	Edo	7.195	6.634	2	
 Izombe	Oguta	Imo	5.626	6.869	2	Uzombe
-Uzere	Isoko South	Delta	5.342	6.229	3	Usere
 Uzele-Ogbaku	Mbaitoli	Imo	5.569	6.957	2	
 Filin A'uzu	Abadam	Borno	13.549	13.744	2	
-De Uzoma Clinic	Amuwo Odofin	Lagos	6.441	3.264	0	
+Isi-Uzo	Isi-Uzo	Enugu	6.742	7.681	2	
+Uzo-Uwani	Uzo-Uwani	Enugu	6.690	7.162	2	
+Uzum	Giade	Bauchi	11.527	10.206	2	
+Uzuakoli	Bende	Abia	5.628	7.555	2	Ozu Akoli|Uzuakloi
+Uzuaban	Gwer East	Benue	7.377	8.191	2	
+Uzuaba	Ikeduru	Imo	5.554	7.133	2	
+Uzu	Konshisha	Benue	7.170	8.600	2	
+Uzomon	Konshisha	Benue	7.171	8.560	2	
+Uzo-Uwani	Uzo-Uwani	Enugu	6.518	7.104	2	Uzo-Awan
+Uzo	Agwara	Niger	10.910	4.662	2	
+Uze	Konshisha	Benue	7.126	8.517	2	
+Uzawo	Kontagora	Niger	10.459	5.677	2	
+Uzam	Awe	Nasarawa	8.338	9.033	2	
+Uzalla	Uhunmwonde	Edo	6.453	5.719	2	
+Asawa-Uzel	Konshisha	Benue	7.104	8.520	2	
+Uzuwa	Gwer East	Benue	7.321	8.447	2	Nzuwa
+Uzever	Markurdi	Benue	7.664	8.497	2	
+Uzogholo	Esan Central	Edo	6.786	6.252	2	
+Isi-Uzo	Isi-Uzo	Enugu	6.731	7.693	2	
+Uzo-Uwani	Uzo-Uwani	Enugu	6.741	7.138	2	
+Uzer	Gwer East	Benue	7.295	8.450	2	
+Uzeza	Markurdi	Benue	7.716	8.465	2	
+Uzer	Logo	Benue	7.761	9.088	2	
+Uzaar	Buruku	Benue	7.569	9.024	2	
+Uzade	Ukum	Benue	7.542	9.520	2	
+Uze	Ukum	Benue	7.581	9.667	2	
+Uza	Ukum	Benue	7.579	9.692	2	
+Uzegyo	Takum	Taraba	7.518	9.958	2	Uzer
+Uzer	Gboko	Benue	7.429	9.073	2	
+Uzua	Gboko	Benue	7.401	9.032	2	
+Uza	Katsina-Ala	Benue	7.255	9.323	2	
+Uzel	Gboko	Benue	7.480	8.754	2	
+Uzenke	Gboko	Benue	7.373	8.774	2	
+Uzogbon	Esan South-East	Edo	6.750	6.461	2	
+Uzebu	Esan Central	Edo	6.708	6.235	2	
+Uziegbe	Uhunmwonde	Edo	6.673	6.082	2	
+Uzeb	Keana	Nasarawa	8.175	8.604	2	
 Uzama street	Oredo	Edo	6.343	5.607	1	
 2nd Uzama Street	Oredo	Edo	6.345	5.606	1	
 2nd Uzama lane	Oredo	Edo	6.345	5.608	1	
 1st Uzama Lane	Oredo	Edo	6.342	5.604	1	
-Uzebu Community Secretariat	Oredo	Edo	6.340	5.611	0	
 Obinna Uzoh Crescent	Oshodi/Isolo	Lagos	6.503	3.320	1	
 Uzoh Street	Ajeromi/Ifelodun	Lagos	6.454	3.342	1	
 Mal Uzairu street	Tarauni	Kano	11.972	8.557	1	
@@ -34,16 +69,15 @@ C.O Uzor Way	Ideato North	Imo	5.874	7.109	1
 Uzo Onucha Road	Igbo-Eze-North	Enugu	6.942	7.447	1	
 Uzo Oyibo	Ihiala	Anambra	5.870	6.821	1	
 Lady Uzo Odukwe Street	Awka South	Anambra	6.252	7.100	1	
-ELEKPE - UZO OPHUNU- OBEAGU ROAD	Ikwo	Ebonyi	6.175	8.304	1	
+Elekpe - Uzo Ophunu- Obeagu Road	Ikwo	Ebonyi	6.175	8.304	1	
 Chief Uzor Chukwunuwike Street	Uvwie	Delta	5.564	5.777	1	
 Uzamdun Road	Nkanu West	Enugu	6.366	7.545	1	
-Uzum Dispensary	Giade	Bauchi	11.520	10.204	0	
-Uzum Maternal And Child Health Clinic	Giade	Bauchi	11.519	10.206	0	
 Uzama Road	Ikpoba-Okha	Edo	6.275	5.697	1	
 Uzo Ogbanzu Amaowerre	Orumba South	Anambra	6.028	7.215	1	Uzo Amaowerre
 Uzonta Road	Ikwuano	Abia	5.413	7.543	1	Okezue Road
 Adigom Uzonwa Drive	Awka South	Anambra	6.180	7.068	1	
+De Uzoma Clinic	Amuwo Odofin	Lagos	6.441	3.264	0	
+Uzebu Community Secretariat	Oredo	Edo	6.340	5.611	0	
+Uzum Dispensary	Giade	Bauchi	11.520	10.204	0	
+Uzum Maternal And Child Health Clinic	Giade	Bauchi	11.519	10.206	0	
 Okougha Uzebba Medical Center	Owan West	Edo	7.003	5.917	0	
-Isi-Uzo	Isi-Uzo	Enugu	6.742	7.681	2	
-Uzo-Uwani	Uzo-Uwani	Enugu	6.690	7.162	2	
-Uzum	Giade	Bauchi	11.527	10.206	2	

@@ -1,3 +1,29 @@
+Mangu Town	Mangu	Plateau	9.486	9.141	3	
+Creek Town	Odukpani	Cross River	4.990	8.275	3	
+Toungo	Teungo	Adamawa	8.117	12.047	3	
+Opobo Town	Opobo/Nkoro	Rivers	4.513	7.538	3	
+Brass	Brass	Bayelsa	4.311	6.241	3	Brass Town
+Bonny	Bonny	Rivers	4.434	7.175	3	Bonny Town
+Toru-Ndoro	Ekeremor	Bayelsa	5.039	5.598	3	
+James Town	Mbo	Akwa Ibom	4.650	8.307	3	
+Duke Town	Calabar Municipal	Cross River	4.967	8.317	3	
+Toto	Toto	Nasarawa	8.386	7.080	3	
+Ebiaji Town	Ezza North	Ebonyi	6.222	7.995	3	
+Vandeikya Town	Vandeikya	Benue	6.788	9.062	3	
+Queens Town	Opobo/Nkoro	Rivers	4.488	7.568	3	
+Wanka town	Soba	Kaduna	11.041	7.886	3	
+Agbele Town	Irepodun	Kwara	8.165	4.914	3	
+random town	Zurmi	Zamfara	12.640	6.806	3	
+Oko Town	Orumba North	Anambra	6.056	7.108	3	
+Toro	Toro	Bauchi	10.059	9.069	3	
+Tofa	Tofa	Kano	12.058	8.273	3	
+Otu-Jeremi	Udu	Delta	5.438	5.878	3	Jeremi Town|Otu-Chievwen|Otu-Ghievwen|Otu-Ughievwen|Otughievwen|Otujeremi
+Opobo	Opobo/Nkoro	Rivers	4.514	7.538	3	Opobo Town
+Dawakin Tofa	Dawakin Tofa	Kano	12.105	8.330	3	Dawaki|Dawakin Tofo
+Twon-Brass	Brass	Bayelsa	4.312	6.241	3	Brass|Brass Town|Bross
+Oghara	Ethiope West	Delta	5.936	5.666	3	Oghara Town|Ogharefe
+Festac Town	Amuwo Odofin	Lagos	6.470	3.283	3	Festac
+Essien Town	Calabar Municipal	Cross River	5.010	8.330	2	
 Toumfafi	Magaria	Katsina	13.038	8.595	2	
 Toub'é	Magaria	Katsina	13.054	8.581	2	
 Araromi-Tope	Ibeju Lekki	Lagos	6.510	3.788	2	
@@ -20,14 +46,12 @@ Tomogbene	Ekeremor	Bayelsa	4.975	5.748	2
 Tubule	Bayo	Borno	10.312	11.754	2	Tobali
 Tope	Asa	Kwara	8.467	4.450	2	Tawpe
 Ozara Town	Isuikwuato	Abia	5.783	7.533	2	Ozara Town;Otampa
-Mangu Town	Mangu	Plateau	9.486	9.141	3	
 Tozo	Kalgo	Kebbi	12.397	3.929	2	
 Tuaniako	Dekina	Kogi	7.467	7.167	2	Tuoniako;Toniyonko
 Tobi	Binji	Sokoto	13.290	4.878	2	
 Toidi Zaidi	Binji	Sokoto	13.250	4.936	2	
 Torugbene	Burutu	Delta	5.057	5.737	2	Tukama
 Twoni	Akuku Toru	Rivers	4.485	6.575	2	Tonie
-Toro	Toro	Bauchi	10.055	9.068	2	
 Tokwatcho	Tambuwal	Sokoto	12.337	5.049	2	
 Umabu	Ayamelum	Anambra	6.527	7.006	2	Water Town Umabu;Umabu
 Todi	Billiri	Gombe	9.767	11.139	2	
@@ -45,13 +69,12 @@ Eyamba Town	Bonny	Rivers	4.443	7.167	2
 Sumaila	Asa	Kwara	8.350	4.450	2	Eggon Tomori;Sumaila
 Tourou	Gwoza	Borno	10.927	13.731	2	
 Ungua Toro	Babura	Jigawa	12.689	8.906	2	Uku Dasisi
-Creek Town	Odukpani	Cross River	4.990	8.275	3	
 Togoa	Arewa Dandi	Kebbi	12.621	3.888	2	
-Toungo	Teungo	Adamawa	8.117	12.047	3	
 Tofa	Maru	Zamfara	11.321	6.581	2	
 Toto-Owu	Ado Odo/Ota	Ogun	6.560	3.191	2	Oto-Owu
 Old Dunlop Town	Akamkpa	Cross River	5.324	8.339	2	
 Umon Town	Biase	Cross River	5.319	8.083	2	
+Tomi	Kurmi	Taraba	7.167	10.733	2	Gidan Tomi
 Tudun Wada	Bayo	Borno	10.544	11.597	2	Todinwadi
 Tokurwa	Dandi	Kebbi	11.885	3.628	2	Tukuruwa;Tukurwa
 Tarabbe	Igabi	Kaduna	10.926	7.490	2	Torabbe
@@ -62,24 +85,20 @@ Tobinkubo	Bonny	Rivers	4.562	7.170	2
 Tokiya	Madagali	Adamawa	10.726	13.498	2	
 Gura Top	Jos South	Plateau	9.833	8.883	2	
 Toma	Bodinga	Sokoto	12.831	5.161	2	
-Opobo Town	Opobo/Nkoro	Rivers	4.513	7.538	3	
 Tohuwa	Miga	Jigawa	12.216	9.664	2	
 Sabo Tondi	Yauri	Kebbi	10.883	4.750	2	
 Tozo	Silame	Sokoto	13.016	4.915	2	Toso
 Tungan Toso	Silame	Sokoto	13.018	4.710	2	
 Dudu Town	Warri North	Delta	5.939	5.244	2	Dudu
-Brass	Brass	Bayelsa	4.311	6.241	3	Brass Town
 Elem-Tombia	Degema	Rivers	4.468	6.991	2	
 Toruibene	Sagbama	Bayelsa	4.975	6.075	2	
 Toronkawa	Yabo	Sokoto	12.734	4.854	2	
 Tofa	Bungudu	Zamfara	12.213	6.820	2	
-Bonny	Bonny	Rivers	4.434	7.175	3	Bonny Town
 Sekwa Town	Hawul	Borno	10.501	12.203	2	Aga
 Tozai	Illela	Sokoto	13.667	5.381	2	
 Totari	Gusau	Zamfara	12.094	6.972	2	
 Ungwan Tonga	Dandume	Katsina	11.351	7.231	2	Tonga
 Maro Marun Tonka	Bodinga	Sokoto	12.926	5.178	2	
-Toru-Ndoro	Ekeremor	Bayelsa	5.039	5.598	3	
 Tonkere	Aiyedade	Osun	7.617	4.517	2	Tawnkerre
 Spiffs Town	Brass	Bayelsa	4.300	6.235	2	
 Tobani	Tsafe	Zamfara	11.856	6.830	2	Tabani
@@ -88,40 +107,12 @@ Tongo	Funakaye	Gombe	10.709	11.361	2
 Tola	Ido	Oyo	7.582	3.769	2	Akintawla
 Tokombere	Gwoza	Borno	11.221	13.488	2	
 Doka-Tofa	Shendam	Plateau	9.100	9.333	2	Dokan Tofa
-James Town	Mbo	Akwa Ibom	4.650	8.307	3	
 Ungwan Tofa	Funtua	Katsina	11.384	7.303	2	Tofa;Angwan Tofa
-Duke Town	Calabar Municipal	Cross River	4.967	8.317	3	
-Total	Kaduna South	Kaduna	10.452	7.423	0	
-Total	Zaria	Kaduna	11.093	7.718	0	
-Total	Sabon Gari	Kaduna	11.105	7.724	0	
-Total energies	Jos North	Plateau	9.958	8.881	0	
-Greter Tomorow Secondary School	Oredo	Edo	6.302	5.605	0	
-Greter tomorro nurstry and primary school	Oredo	Edo	6.310	5.618	0	
-TotalEnergies	Oredo	Edo	6.327	5.625	0	
-Omupo Town Hall	Ifelodun	Kwara	8.278	4.792	0	
-Greater Tomorrow Group of Schools	Oredo	Edo	6.301	5.605	0	
-Unique Touch School	Oredo	Edo	6.310	5.598	0	
-Total	Municipal Area Council	FCT Abuja	9.053	7.484	0	
-Total	Municipal Area Council	FCT Abuja	9.066	7.456	0	
-Total	Ikeja	Lagos	6.611	3.369	0	
-Total Gas Station	Oredo	Edo	6.343	5.635	0	
-Greater Tomorrow International School (Nur & Pri)	Enugu South	Enugu	6.413	7.496	0	
-Total	Muhammadu Dikko Stadium	Katsina	12.983	7.603	0	
-Total Petrol station	Ibadan North	Oyo	7.423	3.898	0	
-Tolulope Plaza	Ibadan North	Oyo	7.438	3.910	0	
-Total	Ibadan South West	Oyo	7.383	3.871	0	
-Unguwar Tofa Health Post	Karaye	Kano	11.786	7.960	0	
-Damfamin Tofa Health Post	Dawakin Tofa	Kano	12.223	8.428	0	
-Tofawa Health Post	Kunchi	Kano	12.347	8.329	0	
 Tokarawa	Nassarawa	Kano	12.006	8.607	2	
-Total	Amuwo Odofin	Lagos	6.471	3.309	0	
 Tsohuwar Toranke	Ajingi	Kano	12.066	9.184	2	
 Tourou	Michika	Adamawa	10.540	13.440	2	
-Total Filling Station	Ibadan North West	Oyo	7.389	3.893	0	
 Layi Town	Mobbar	Borno	12.917	12.616	2	Dudu
-Ejigbo Town Hall	Ejigbo	Osun	7.903	4.314	0	
 Torowa	Nganzai	Borno	12.540	13.284	2	
-Toto	Toto	Nasarawa	8.386	7.080	3	
 Toskorom	Nganzai	Borno	12.662	13.097	2	Taskoram
 Tokulamdi	Shani	Borno	10.330	11.944	2	
 Dodon Tofuwa	Bayo	Borno	10.363	11.627	2	
@@ -129,51 +120,12 @@ Towolo	Abadam	Borno	13.454	12.863	2
 Touromari	Nganzai	Borno	12.539	13.363	2	
 Tondi	Bayo	Borno	10.582	11.775	2	
 Tobolo	Kaga	Borno	11.553	12.551	2	
-Tobolo Health Clinic	Kaga	Borno	11.557	12.550	0	
 Fulani Toro	Biu	Borno	10.684	12.178	2	
 Maina Tochi	Biu	Borno	10.696	12.161	2	Alhaji Bakari
 Satellite Town	Amuwo Odofin	Lagos	6.450	3.256	2	
-Total Filling Station	Kano Municipal	Kano	11.967	8.530	0	
-Tongo	Funakaye	Gombe	10.705	11.367	0	
-Toll Gate Ota	Ado Odo/Ota	Ogun	6.692	3.257	0	
-Total Asokoro	Municipal Area Council	FCT Abuja	9.051	7.507	0	
 Toumboun Mota (Kaota Moya)	Bosso	Borno	13.716	13.466	2	
 Tourban Guida	Diffa	Borno	13.275	12.574	2	
-Total	Lagos Island	Lagos	6.451	3.401	0	
-Total petrol station	Aba South	Abia	5.115	7.381	0	
-Total Filling Station	Sabon Gari	Kaduna	11.104	7.721	0	
-UTAGBAN TOWN HALL	Oredo	Edo	6.294	5.564	0	
-Total Filling Station	Warri South	Delta	5.532	5.740	0	
-Total Filling Station	Uvwie	Delta	5.568	5.785	0	
-Top Nursery and Primary School	Uvwie	Delta	5.537	5.761	0	
-Magic Touch schools	Warri South	Delta	5.530	5.757	0	
-Total Filling Station	Port-Harcourt	Rivers	4.813	7.044	0	
-Total Filling Station	Obio/Akpor	Rivers	4.845	7.041	0	
-Total Filling Station	Obio/Akpor	Rivers	4.839	7.029	0	
-Total Filling Station	Obio/Akpor	Rivers	4.851	7.058	0	
-Tower Gate Montessori School	Obio/Akpor	Rivers	4.834	7.032	0	
-Tani-Tobi Filling Station	Obio/Akpor	Rivers	4.843	7.041	0	
-Filling Station	Yenegoa	Bayelsa	5.032	6.402	0	Tony's Filling Station
-Total Filling Station	Warri South	Delta	5.529	5.747	0	
-Total	Ojo	Lagos	6.493	3.151	0	
-Ijebu Ode Park to Lagos	Ìjẹ̀bú Òde	Ogun	6.811	3.910	0	
-Mountain Top University	Obafemi Owode	Ogun	6.731	3.414	0	
-Total Fuel Station	Tofa	Kano	11.964	8.405	0	
-Ikoya Town Market	Okitipupa	Ondo	6.503	4.692	0	
-Total	Ibadan North	Oyo	7.398	3.909	0	
-town Hall	Ìkòròdú	Lagos	6.614	3.503	0	
 Tounga Aoudou	Dandi	Kebbi	11.732	3.629	2	
-Total	Borgu	Niger	9.876	4.521	0	
-Total	Ibadan North	Oyo	7.424	3.882	0	
-Ogbomoso Town Hall	Ogbomosho North	Oyo	8.131	4.248	0	
-Total Filling Station	Ogbomosho North	Oyo	8.135	4.219	0	
-Total Oshodi	Ikeja	Lagos	6.559	3.364	0	
-Total	Ojo	Lagos	6.493	3.199	0	
-Migbewe 1 Town Hall	Lagos Mainland	Lagos	6.495	3.388	0	
-Bale Towe Town Hall	Lagos Mainland	Lagos	6.495	3.389	0	
-Total filling station liji	Yamaltu/Deba	Gombe	10.277	11.230	0	
-TOMPKINS SOLID ACADEMY GOMBE	Akko	Gombe	10.288	11.080	0	
-Total	Kaduna South	Kaduna	10.471	7.434	0	
 Tofa	Karaye	Kano	11.774	7.864	2	Kwanyawa
 Unguwar Tofa	Karaye	Kano	11.786	7.965	2	Ungwan Tofa
 Tofawa Cikin Gari	Kunchi	Kano	12.343	8.316	2	
@@ -187,85 +139,347 @@ Tohon Karfi	Takai	Kano	11.424	9.177	2
 Tohon Diribo	Takai	Kano	11.424	9.181	2	
 Fancha Tohon Gari	Kibiya	Kano	11.453	8.716	2	
 Tofa	Rano	Kano	11.614	8.617	2	
-Alor Town Hall	Idemili South	Anambra	6.080	6.965	0	
-Total	Akure South	Ondo	7.253	5.196	0	
-Gwoza Town Health Clinic	Gwoza	Borno	11.086	13.701	0	
-TOTAL	Obio/Akpor	Rivers	4.821	7.007	0	
-University of Africa, Toru-Orua	Sagbama	Bayelsa	5.100	6.066	0	
-Primary Health Centre, Toru-Ebeni	Sagbama	Bayelsa	4.980	6.076	0	
-Marine Police Training School, Toru-Orua	Sagbama	Bayelsa	5.101	6.066	0	
-Umaualumaku/Umuihim Town Union	Ehime Mbano	Imo	5.633	7.287	0	
-Local Government Primary School, Totowu	Ado Odo/Ota	Ogun	6.695	3.237	0	
-St. Peter'S Anglican Primary School, Tomoba	Ado Odo/Ota	Ogun	6.662	3.093	0	
-St. Peter'S Anglican Primary School, Tomoba	Odogbolu	Ogun	6.732	3.848	0	
-Local Government Primary School, Totowu	Ojo	Lagos	6.518	3.199	0	
-Total	Enugu North	Enugu	6.434	7.495	0	
-IELTS, TOEFL, PTE, GRE, SAT CENTER IN ENUGU	Enugu North	Enugu	6.458	7.525	0	
 Toru-Orua	Sagbama	Bayelsa	5.102	6.066	2	
-Total - Numan Ferry Service Station	Numan	Adamawa	9.469	12.031	0	
-Secretariat Staff Clinic , Total Garden road	Ibadan North	Oyo	7.411	3.908	0	
 Toru-Angiama	Patani	Delta	5.146	6.107	2	
-Aladja Town Hall	Udu	Delta	5.489	5.756	0	
-Ekorhon Town Hall	Udu	Delta	5.491	5.757	0	
-Total Filling Station	Olorunsogo	Oyo	8.748	4.133	0	
-Total health care	Jos North	Plateau	9.925	8.882	0	
-Total	Jos North	Plateau	9.950	8.907	0	
-Total fuel station	Jos North	Plateau	9.921	8.890	0	
-Ido-Osun Town Hall	Egbedore	Osun	7.780	4.482	0	
 Tongata	Warri North	Delta	5.880	5.161	2	
-Cars to Osogbo	Ife North	Osun	7.498	4.520	0	
-Total	Municipal Area Council	FCT Abuja	8.938	7.313	0	
-Total Filling Station	Shagamu	Ogun	6.857	3.630	0	
 Alders Town	Warri South	Delta	5.512	5.753	2	
-Alders Town Primary School Warri	Warri South	Delta	5.511	5.754	0	
-Ebiaji Town	Ezza North	Ebonyi	6.222	7.995	3	
-Total	Bauchi	Bauchi	10.276	9.796	0	
-Total	Bauchi	Bauchi	10.319	9.833	0	
-Total	Bauchi	Bauchi	10.320	9.819	0	
-Vandeikya Town	Vandeikya	Benue	6.788	9.062	3	
-Total Filling Station	Eti Osa	Lagos	6.473	3.625	0	
-Total	Odigbo	Ondo	6.747	4.876	0	
-Town Hall	Ejigbo	Osun	7.830	4.128	0	
-44 Hospital No8 Togo Street Malali	Kaduna North	Kaduna	10.562	7.468	0	
-Tokache Health Clinic	Chikun	Kaduna	10.528	7.616	0	
-General Hospital Kaduna Keke B Main Township Road	Chikun	Kaduna	10.556	7.494	0	
-Tower Of Glory Hospital	Ojo	Lagos	6.496	3.171	0	
-Garden Hospital Sabo Oniba Town	Ojo	Lagos	6.462	3.175	0	
-Toluwalope Clinic and Maternity	Ado Odo/Ota	Ogun	6.512	3.092	0	
-Tofaan's Hopital	Alimosho	Lagos	6.599	3.245	0	
-Top Talent Hospital	Alimosho	Lagos	6.603	3.292	0	
-Tolajide Health Centre	Mushin	Lagos	6.529	3.357	0	
-Little Tokyo Lodge	Akure South	Ondo	7.291	5.149	0	
-Ade Torton Hostel	Akure South	Ondo	7.288	5.152	0	
-Tomorrow Villa	Akure South	Ondo	7.289	5.148	0	
-Levan Hospital First Avenue G Close Festac Town	Amuwo Odofin	Lagos	6.470	3.296	0	
-Emel Specialist Hospital Festac Town	Amuwo Odofin	Lagos	6.476	3.289	0	
-Pentecost Medical Center 112 Festac Town	Amuwo Odofin	Lagos	6.470	3.293	0	
-Rhowil Total Care Medical Center	Amuwo Odofin	Lagos	6.453	3.263	0	
-Divine Care Neighborhood Clinic And Maternity Satellite Town	Amuwo Odofin	Lagos	6.453	3.252	0	
-Satellite Town Primary Health Care Center	Amuwo Odofin	Lagos	6.450	3.265	0	
-Ezinifite (Augusta) Town Hall	Jos North	Plateau	9.924	8.886	0	
-Gasoline total energies	Oshimili South	Delta	6.196	6.739	0	
-ikare town landing	Amuwo Odofin	Lagos	6.418	3.237	0	
 Tomagbene	Warri South-West	Delta	5.534	5.247	2	
 Okoi Toru II	Warri South-West	Delta	5.787	5.410	2	
 Okoi Toru I	Warri South-West	Delta	5.791	5.410	2	
 Doké-Tôgô	Ifangni	Ogun	6.623	2.729	2	
-TotalEnergies	Municipal Area Council	FCT Abuja	8.879	7.239	0	
-Tobi Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.541	0	
-Total comfort filling station, Agbabiaka Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.463	4.588	0	
-Tolulope Clinic & Maternity, Oko Erin, Nigeria	Ilorin East	Kwara	8.485	4.601	0	
 Welcome to Erin-Ijesa	Oriade	Osun	7.559	4.880	2	
-Hill Top Model Academy	Bauchi	Bauchi	10.294	9.787	0	
-Queens Town	Opobo/Nkoro	Rivers	4.488	7.568	3	
-Wanka town	Soba	Kaduna	11.041	7.886	3	
-Adebayo Living Tower Hospital	Badagry	Lagos	6.436	2.984	0	
-Sector F Junction To Lugbe Junction	Municipal Area Council	FCT Abuja	8.995	7.373	0	
-Kabusa Park - To Gudu Market	Municipal Area Council	FCT Abuja	8.956	7.444	0	
-Tower Bridge Ltd	Municipal Area Council	FCT Abuja	9.100	7.411	0	
-Gwagwalada Town Clinic	Gwagwalada	FCT Abuja	8.941	7.087	0	
+Toshia	Yunusari	Yobe	13.189	11.881	2	
+Tofa	Ringim	Jigawa	12.157	9.035	2	
+Dumadumi Toka	Kafin Hausa	Jigawa	12.089	9.878	2	
+Toni Kutara	Malam Maduri	Jigawa	12.516	10.016	2	
+Tofa	Bungudu	Zamfara	12.230	6.815	2	
+Tozai	Isa	Sokoto	13.278	6.477	2	
+Tozai	Illela	Sokoto	13.692	5.401	2	
+Torankawa	Yabo	Sokoto	12.752	4.836	2	
+Tondi	Yauri	Kebbi	10.888	4.742	2	
+Dawakin Tofa	Dawakin Tofa	Kano	12.142	8.361	2	
+Toranke	Ajingi	Kano	12.023	9.185	2	
+Tofa	Tofa	Kano	12.025	8.342	2	
+Toto	Toto	Nasarawa	8.262	7.197	2	
+Asari-Toru	Asari-Toru	Rivers	4.753	6.835	2	
+Tobolo	Kaga	Borno	11.574	12.562	2	
+Toro	Toro	Bauchi	10.108	9.274	2	
+Tofu	Misau	Bauchi	11.419	10.421	2	
+Toro	Toro	Bauchi	10.350	9.329	2	
+Akuku Toru	Akuku Toru	Rivers	4.534	6.679	2	
+Young Town	Warri North	Delta	5.905	5.296	2	
+Yar Tofa	Bagwai	Kano	12.079	8.132	2	
+Yarima Tongo	Bali	Taraba	8.240	11.340	2	
+Ungwan Tofa	Karaye	Kano	11.782	7.982	2	
+Umumbo	Ayamelum	Anambra	6.528	7.005	2	Umabu|Water Town Umabu
+Tungan Tofa	Kwali	FCT Abuja	8.842	6.956	2	
+Tuaniako	Dekina	Kogi	7.446	7.204	2	Toniyonko|Tuoniako
+Tse-Tor	Gboko	Benue	7.286	8.637	2	
+Toso	Silame	Sokoto	13.016	4.915	2	Tozo
+Tozei	Isa	Sokoto	13.259	6.419	2	
+Toza	Fufore	Adamawa	8.900	12.592	2	
+Toza	Fufore	Adamawa	8.889	12.583	2	
+Toyin	Yewa North	Ogun	7.193	2.946	2	
+Toyar	Gboko	Benue	7.372	8.713	2	
+Towal	Dukku	Gombe	10.839	10.614	2	
+Toto-Owu	Ado Odo/Ota	Ogun	6.550	3.196	2	Oto-Owu
+Tatongabiya	Toto	Nasarawa	8.437	7.102	2	Toton Gebia|TotonGebia
+Totondo	Bali	Taraba	7.897	10.987	2	
+Totari	Tsafe	Zamfara	12.076	6.981	2	
+Tosso	Kurmi	Taraba	6.923	10.230	2	
+Torzape Mange	Vandeikya	Benue	7.013	8.920	2	
+Torzape	Vandeikya	Benue	7.024	8.927	2	
+Toryough	Gboko	Benue	7.312	8.701	2	
+Toryough	Ushongo	Benue	7.043	8.937	2	
+Toryogh	Takum	Taraba	7.437	10.075	2	
+Torugh	Konshisha	Benue	7.324	8.562	2	
+Torugh	Gboko	Benue	7.271	8.706	2	
+Torugbene	Sagbama	Bayelsa	4.975	6.075	2	Toruibene
+Torto	Konshisha	Benue	7.128	8.584	2	
+Tor-Tiv	Gwer East	Benue	7.346	8.516	2	
+Tor Ruwam	Wukari	Taraba	7.884	10.088	2	
+Toropani	Sagbama	Bayelsa	5.300	6.331	2	
+Toroko	Gbako	Niger	9.499	6.027	2	
+Toroko	Asa	Kwara	8.427	4.412	2	
+Torok	Riyom	Plateau	9.567	8.735	2	
+Toro	Ife North	Osun	7.393	4.498	2	
+Toro	Ushongo	Benue	7.053	8.886	2	
+Tornyi	Takum	Taraba	7.364	10.122	2	
+Torkaa	Obi	Nasarawa	8.349	9.009	2	
+Tori	Uvwie	Delta	5.567	5.750	2	
+Torhemba	Keana	Nasarawa	8.214	8.677	2	
+Torgyen-Nengel	Konshisha	Benue	7.063	8.750	2	
+Torgyen	Konshisha	Benue	7.106	8.534	2	
+Torgbihi	Gboko	Benue	7.356	8.689	2	
+Torfa	Ningi	Bauchi	11.067	9.083	2	
+Tor Donga	Katsina-Ala	Benue	7.236	9.701	2	
+Torcam	Obi	Nasarawa	8.344	8.769	2	
+Torbunde	Konshisha	Benue	7.382	8.579	2	
+Toranke	Ajingi	Kano	12.049	9.190	2	
+Topo	Badagry	Lagos	6.410	2.931	2	Tawpo
+Tope	Asa	Kwara	8.467	4.317	2	
+Tonode	Akinyele	Oyo	7.579	3.930	2	
+Tono	Fika	Yobe	11.554	11.103	2	
+Tonkere	Aiyedade	Osun	7.611	4.507	2	Tawnkerre
+Tongu	Fufore	Adamawa	8.790	12.427	2	
+Tongopetel	Teungo	Adamawa	7.900	11.600	2	
+Tongo	Fika	Yobe	11.486	11.051	2	
+Tongo	Maiha	Adamawa	10.142	13.113	2	
+Tongo	Mubi North	Adamawa	10.123	13.182	2	
+Tonga Yashi	Bali	Taraba	8.550	11.678	2	
+Tongare	Yola South	Adamawa	9.250	12.377	2	
+Tongare	Fufore	Adamawa	9.043	12.452	2	
+Tondo	Buruku	Benue	7.569	8.901	2	
+Tondo	Gboko	Benue	7.380	8.742	2	
+Tondi	Bagudo	Kebbi	11.611	3.598	2	Tondio
+Tonde	Kwami	Gombe	10.347	11.166	2	
+Tona	Dambatta	Kano	12.315	8.730	2	
+Tomoloju	Ijebu North	Ogun	7.070	4.049	2	
+Tomykiri	Nembe	Bayelsa	4.409	6.250	2	Tomkiri
+Tombia	Degema	Rivers	4.789	6.892	2	
+Tolo-Tolo	Ilorin West	Kwara	8.539	4.500	2	Tolo Tolo
+Tolore	Bayo	Borno	10.561	11.689	2	
+Tola	Mayo-Belwa	Adamawa	8.762	11.967	2	
+Tokwacho	Tambuwal	Sokoto	12.333	5.046	2	Tokwatcho
+Tokura	Guma	Benue	8.027	8.897	2	
+Tokuor	Konshisha	Benue	7.153	8.548	2	
+Tokunzhi	Gbako	Niger	9.154	6.129	2	
+Tokunji	Wushishi	Niger	9.552	5.822	2	
+Tokunbo	Ibarapa East	Oyo	7.628	3.561	2	
+Tokolo	Bwari	FCT Abuja	9.328	7.481	2	
+Tokare	Potiskum	Yobe	11.638	11.114	2	Tokarai
+Tokar	Hawul	Borno	10.338	12.084	2	
+Toho	Konshisha	Benue	7.354	8.583	2	
+Toho	Konshisha	Benue	7.125	8.580	2	
+Toho	Konshisha	Benue	7.095	8.527	2	
+Togunberu	Ijebu North	Ogun	7.053	4.107	2	
+Togun	Ibarapa North	Oyo	7.490	3.122	2	
+Toguaza	Konshisha	Benue	7.133	8.521	2	
+Tofa	Shagari	Sokoto	12.583	4.900	2	
+Tofa	Gusau	Zamfara	11.858	6.620	2	
+Tofa	Karaye	Kano	11.778	7.893	2	
+Tofa	Birnin Gwari	Kaduna	10.950	6.933	2	
+Tofa	Sanga	Kaduna	9.091	8.547	2	
+Tofa	Ipokia	Ogun	6.476	2.862	2	Tafa
+Todu	Ijebu North	Ogun	7.015	4.069	2	
+Todinwadi	Yamaltu/Deba	Gombe	10.542	11.581	2	
+Todi	Billiri	Gombe	9.754	11.158	2	
+Tobor	Warri North	Delta	6.017	5.333	2	
+Tobolo	Yewa North	Ogun	7.262	2.763	2	
+Tobalogo	Ibarapa North	Oyo	7.533	3.282	2	
+Tobali	Bayo	Borno	10.311	11.759	2	
+Tobdiri	Bali	Taraba	8.187	11.483	2	
+Toba	Odeda	Ogun	7.175	3.593	2	
+Toba	Obafemi Owode	Ogun	7.062	3.501	2	
+Taskoram	Nganzai	Borno	12.662	13.097	2	Toskorom
+Spiff’s Town	Brass	Bayelsa	4.306	6.247	2	Gbobokiri|Spiff's Town
+Ozara	Isuikwuato	Abia	5.794	7.524	2	Otampa|Ozara Town
+Owode-Tomoloju	Ilaje	Ondo	6.408	4.647	2	Owode Tomoloju
+Old Nana Town	Warri North	Delta	5.910	5.206	2	
+Mbulo Tocha	Mayo-Belwa	Adamawa	8.742	11.980	2	
+Mayo Tolore	Sardauna	Taraba	7.028	11.383	2	
+Harrys Town	Degema	Rivers	4.796	6.776	2	Harry's Town
+Gidan Tomi	Kurmi	Taraba	7.179	10.733	2	Tomi
+Gidan Sarikin Togwoma	Rafi	Niger	10.333	6.283	2	Togwoma
+Eggon-Tomori	Asa	Kwara	8.342	4.448	2	Eggon Tomori|Sumaila
+Dummadummi Toka	Kafin Hausa	Jigawa	12.088	9.893	2	
+Doka Tofa	Qua'An Pan	Plateau	9.096	9.321	2	Dokan Tofa
+Bear Town	Warri North	Delta	5.937	5.183	2	
+Akaahan Usadoo Toren	Vandeikya	Benue	7.014	8.922	2	
+Tosa	Afijio	Oyo	7.738	3.978	2	
+Tose	Akinyele	Oyo	7.538	3.922	2	
+Yola Tofa	Minjibir	Kano	12.188	8.658	2	
+Kadage Topfa	Gezawa	Kano	12.002	8.741	2	
+Turubiam	Akuku Toru	Rivers	4.350	6.788	2	Torubiama
+Torotoro	Obafemi Owode	Ogun	6.818	3.400	2	
+Tortya	Gboko	Benue	7.344	8.782	2	
+Tondu	Gboko	Benue	7.367	8.937	2	
+Tor	Gwer West	Benue	7.702	8.121	2	
+Top	Agatu	Benue	7.832	8.136	2	
+Ishie Town	Calabar Municipal	Cross River	4.994	8.337	2	
+Mimbo Town	Ibeno	Akwa Ibom	4.553	8.182	2	
+Tonka Kure	Arewa Dandi	Kebbi	12.729	3.963	2	
+Tomoba	Ìjẹ̀bú Òde	Ogun	6.689	4.061	2	
+Togusilu	Ijebu East	Ogun	6.649	4.201	2	
+Tololu	Ijebu East	Ogun	6.899	4.087	2	
+Totsi	Baure	Katsina	12.817	8.924	2	
+Torankawa	Baure	Katsina	12.676	8.795	2	
+Torankawo	Mani	Katsina	12.939	7.934	2	
+Tokawa	Rimi	Katsina	12.869	7.747	2	
+Torankawa	Rimi	Katsina	12.837	7.680	2	
+Tofa	Bindawa	Katsina	12.697	7.938	2	
+Toidi Zaidi	Binji	Sokoto	13.248	4.934	2	
+Toranki	Arewa Dandi	Kebbi	13.147	4.445	2	
+Dan Toro	Kankara	Katsina	11.899	7.486	2	
+Maro Marum Tonka	Bodinga	Sokoto	12.922	5.178	2	Maro Marun Tonka
+Ekpan	Uvwie	Delta	5.569	5.740	2	Tori
+Effurun Tor	Ughelli South	Delta	5.479	5.939	2	
+Torogbene	Warri South-West	Delta	5.415	5.416	2	
+Torfagbene	Burutu	Delta	5.383	5.581	2	
+Tokogbene	Burutu	Delta	5.276	5.665	2	
+New-Town	Burutu	Delta	5.305	5.708	2	
+Tongo	Akko	Gombe	10.305	10.936	2	
+Rafin Tofa	Maiyama	Kebbi	12.038	4.248	2	
+Tamogbene	Ekeremor	Bayelsa	4.975	5.748	2	Ayama|Tomogbene
+Torukirigbene	Ekeremor	Bayelsa	4.893	5.719	2	
+Tono	Ekeremor	Bayelsa	4.992	5.506	2	
+Torequebia	Borgu	Niger	10.406	3.739	2	
+Four Towns	Uyo	Akwa Ibom	5.025	7.924	2	
+Torunbubo Camp III	Sagbama	Bayelsa	5.208	6.200	2	
+Tobolayefagbene	Sagbama	Bayelsa	5.234	6.344	2	
+Torunbubo Camp I	Patani	Delta	5.202	6.194	2	
+Torunbubo Camp II	Patani	Delta	5.205	6.194	2	
+Akuku Toru	Akuku Toru	Rivers	4.562	6.752	2	
+Dawakin Tofa	Dawakin Tofa	Kano	12.126	8.399	2	Agbegbe Ijoba Ibile Dawakin Tofa|Dawakin Tofa Local Government Area|Dawakin Toofa
+Toro	Toro	Bauchi	10.446	9.221	2	Agbegbe Ijoba Ibile Toro|Toro Local Government Area|Toto
+Teungo	Teungo	Adamawa	7.996	11.842	2	Toungo|Toungo Local Government Area
+Toungo	Maiha	Adamawa	9.856	13.218	2	
+Tongo	Maiha	Adamawa	9.982	13.282	2	
+Tobiri	Bama	Borno	11.492	13.786	2	
+Tobi	Oturkpo	Benue	7.113	8.168	2	
+Tofa	Ringim	Jigawa	12.165	9.056	2	
+Tofa	Rabah	Sokoto	13.111	5.411	2	
+Toshia	Yunusari	Yobe	13.191	11.859	2	
+Tofu	Misau	Bauchi	11.418	10.440	2	
+Toro	Toro	Bauchi	10.047	9.082	2	
+Togor	Gwer West	Benue	7.637	8.331	2	
+Toradi	Logo	Benue	7.779	9.360	2	
+Tor	Ukum	Benue	7.799	9.402	2	
+Torough	Ukum	Benue	7.761	9.426	2	
+Tondu	Logo	Benue	7.681	9.042	2	
+Torgenga	Buruku	Benue	7.530	9.089	2	
+Tormure	Logo	Benue	7.686	9.145	2	
+Torhemen	Logo	Benue	7.530	9.342	2	
+Torbir	Ukum	Benue	7.693	9.489	2	
+Tor Dwen	Logo	Benue	7.705	9.284	2	
+Torbunde	Wukari	Taraba	7.984	9.817	2	
+Torlwam	Wukari	Taraba	7.853	9.934	2	
+Torsar	Ukum	Benue	7.634	9.534	2	
+Torlanve	Ukum	Benue	7.620	9.543	2	
+Torngjime	Ukum	Benue	7.573	9.595	2	Tornajime
+Torwua	Ukum	Benue	7.703	9.668	2	
+Tortia	Ukum	Benue	7.520	9.650	2	
+Tor	Ukum	Benue	7.517	9.670	2	
+Torbume	Wukari	Taraba	7.737	9.776	2	
+Torgema	Donga	Taraba	7.651	9.876	2	
+Torkyough	Donga	Taraba	7.655	9.923	2	
+Torwajir	Donga	Taraba	7.631	9.949	2	
+Torzan	Donga	Taraba	7.629	9.963	2	Tsegbomgom
+Tornyinya	Takum	Taraba	7.507	9.922	2	
+Tor	Takum	Taraba	7.505	9.943	2	
+Toragee	Gboko	Benue	7.448	9.075	2	
+Tondu	Gboko	Benue	7.446	9.089	2	
+Tor	Gboko	Benue	7.370	9.079	2	
+Tor	Buruku	Benue	7.390	9.181	2	
+Tough	Buruku	Benue	7.254	9.148	2	
+Tombo	Buruku	Benue	7.480	9.207	2	
+Tombo	Buruku	Benue	7.471	9.195	2	
+To	Buruku	Benue	7.479	9.223	2	
+Toryila	Buruku	Benue	7.337	9.219	2	
+Torough	Buruku	Benue	7.333	9.223	2	
+Tombo	Logo	Benue	7.482	9.295	2	
+Tor	Katsina-Ala	Benue	7.352	9.339	2	
+Togi	Katsina-Ala	Benue	7.294	9.335	2	
+Toryila	Katsina-Ala	Benue	7.278	9.322	2	
+Torkukwa	Katsina-Ala	Benue	7.501	9.452	2	
+Torkaa	Katsina-Ala	Benue	7.473	9.439	2	
+Torsue	Katsina-Ala	Benue	7.310	9.374	2	
+Tongou	Katsina-Ala	Benue	7.480	9.488	2	
+Toom	Ushongo	Benue	7.051	9.067	2	
+Tor	Buruku	Benue	7.110	9.147	2	
+Torkura	Buruku	Benue	7.145	9.209	2	
+Tor	Buruku	Benue	7.150	9.217	2	
+Torkpa	Ushongo	Benue	7.018	9.250	2	
+Toransha	Katsina-Ala	Benue	7.172	9.452	2	
+Tor	Gboko	Benue	7.437	8.832	2	
+Tojii	Gboko	Benue	7.469	8.838	2	
+Tomve	Gboko	Benue	7.405	8.810	2	
+Torwaa	Gboko	Benue	7.347	8.996	2	
+Toryila	Gboko	Benue	7.308	8.842	2	
+Too-Anyela	Gboko	Benue	7.316	8.911	2	
+Torkan	Gboko	Benue	7.295	8.892	2	
+Tor	Gboko	Benue	7.282	8.868	2	
+Too	Gboko	Benue	7.297	8.857	2	
+Toven	Ushongo	Benue	7.255	8.980	2	
+Togoyo	Zaki	Bauchi	12.211	10.304	2	
+Kemmers Town	Brass	Bayelsa	4.319	6.242	2	
+Toburakiri	Akuku Toru	Rivers	4.339	6.583	2	
+Satellite Town	Amuwo Odofin	Lagos	6.444	3.252	2	
+Tomse	Fufore	Adamawa	8.833	12.421	2	
+Topo Idale	Badagry	Lagos	6.407	2.932	2	
+Ajara Topa	Badagry	Lagos	6.438	2.866	2	
+Ojo Town	Ojo	Lagos	6.457	3.196	2	
+Tomaro Ilado	Amuwo Odofin	Lagos	6.420	3.314	2	
+Tolu	Ajeromi/Ifelodun	Lagos	6.444	3.347	2	
+Ungwan Toka	Kachia	Kaduna	9.707	7.658	2	
+Bappa Todo	Yorro	Taraba	8.974	11.421	2	
+Todiri	Bali	Taraba	8.626	11.427	2	
+Tontong	Langtang North	Plateau	8.830	9.843	2	
+Ungwan Tofa	Akwanga	Nasarawa	9.076	8.463	2	
+Tor Jalingo	Donga	Taraba	7.651	10.035	2	
+Ungwan Toro	Zangon Kataf	Kaduna	9.995	8.069	2	
+Tof	Bokkos	Plateau	9.088	8.785	2	
+Torbutu	Shendam	Plateau	8.527	9.371	2	
+Tobugbene	Ekeremor	Bayelsa	4.831	5.777	2	
+Totoigbene	Southern Ijaw	Bayelsa	4.763	5.757	2	
+Todogbene	Southern Ijaw	Bayelsa	4.689	5.578	2	
+Tongafa	Warri North	Delta	5.870	5.162	2	
+Tomadon	Warri South-West	Delta	5.581	5.385	2	
+Tongare	Yola North	Adamawa	9.309	12.250	2	
+Tongare	Fufore	Adamawa	9.158	12.237	2	
+Togal	Lau	Taraba	9.229	11.532	2	
+Tongo	Karim Lamido	Taraba	9.048	10.683	2	
+Tongo Manarru	Akko	Gombe	9.846	10.981	2	
+Ungwar Tonga	Karim Lamido	Taraba	9.486	10.996	2	
+Toungo	Karim Lamido	Taraba	9.050	10.863	2	
+Ungwar Tolo	Karim Lamido	Taraba	9.333	11.199	2	
+Ungwar Toro	Karim Lamido	Taraba	9.177	11.053	2	
+Tonwose	Obafemi Owode	Ogun	7.028	3.365	2	
+Towolo	Ijebu North	Ogun	7.088	4.003	2	
+Tola	Ijebu North	Ogun	7.073	4.021	2	
+Tomo-Olorun	Ijebu North	Ogun	7.041	4.022	2	
+Totimosun	Ijebu North	Ogun	7.024	4.017	2	
+Tolotun	Ijebu North	Ogun	7.016	4.030	2	
+Togedengbe	Ijebu North	Ogun	7.027	4.041	2	
+Totunba	Ijebu North	Ogun	7.003	4.036	2	
+Tologundudu	Ijebu North	Ogun	7.084	4.095	2	
+Tomoloju	Ijebu North	Ogun	7.093	4.161	2	
+Tomi-Orun	Irewole	Osun	7.437	4.223	2	
+Tokan	Aiyedade	Osun	7.192	4.341	2	
+Tokode	Ede South	Osun	7.639	4.542	2	
+Ajara-Topa	Badagry	Lagos	6.431	2.884	2	
+Tongo	Fufore	Adamawa	9.398	12.773	2	
+Toppere	Yola North	Adamawa	9.183	12.590	2	
+Tongare	Fufore	Adamawa	9.191	12.803	2	
+Tofade	Ife South	Osun	7.379	4.617	2	
+Toba	Ife East	Osun	7.427	4.649	2	
+Tobalase	Atakunmosa West	Osun	7.422	4.698	2	
+Tope	Ori Ire	Oyo	8.460	4.083	2	
+Tolase	Odeda	Ogun	7.228	3.570	2	
+Towobowo	Odeda	Ogun	7.407	3.613	2	
+Tosun	Odeda	Ogun	7.316	3.676	2	
+Sarki Toudou Saboua	Guidan Roumdji	Sokoto	13.605	6.462	2	Dan Dela
+Toro	Baruten	Kwara	9.209	3.450	2	
+Tolagbe	Moro	Kwara	8.716	4.240	2	
+Tondo	Lafia	Nasarawa	8.582	8.918	2	
+Togun	Oyun	Kwara	8.081	4.553	2	
+Tokura	Akwanga	Nasarawa	8.903	8.261	2	
+Tokan	Ifelodun	Kwara	8.483	4.814	2	
+Tope	Moro	Kwara	9.049	4.796	2	
+Togunde	Afijio	Oyo	7.835	4.081	2	
+Tonti	Bali	Taraba	8.017	11.157	2	
+Tofi	Song	Adamawa	9.940	12.275	2	
+Toungo	Song	Adamawa	9.832	12.628	2	
+Tongolo	Ilorin South	Kwara	8.431	4.737	2	
+Tonai	Agaie	Niger	8.863	6.571	2	
+Takushira	Municipal Area Council	FCT Abuja	8.874	7.459	2	Tor Gwari|TorGwari
+Tombo	Sardauna	Taraba	6.728	11.470	2	
+Toto	Ola Oluwa	Osun	7.676	4.234	2	
+Toko	Iwo	Osun	7.687	4.142	2	
+Tokiya	Madagali	Adamawa	10.708	13.565	2	
+Tongare	Yola North	Adamawa	9.285	12.292	2	
+Tope	Asa	Kwara	8.451	4.422	2	
 Olaide Tomori Street	Ikeja	Lagos	6.595	3.338	1	
-Total Filling Station	Mushin	Lagos	6.512	3.359	0	
 Tombia Street	Obio/Akpor	Rivers	4.821	7.002	1	
 Shere to Pategi Road	Ifelodun	Kwara	8.823	4.974	1	
 Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.061	6.464	1	
@@ -276,12 +490,10 @@ Free Town Street	Kaduna North	Kaduna	10.525	7.467	1
 Togo Street	Kaduna North	Kaduna	10.561	7.468	1	
 Gumel to Maigatari Road	Maigatari	Jigawa	12.716	9.401	1	
 Mbiama to Effurun, Warri	Yenegoa	Bayelsa	5.080	6.418	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.062	6.451	1	
 Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.983	6.917	1	
 Lafia to Shendam Road	Lafia	Nasarawa	8.536	8.719	1	
 Tony Anenih Way	Oredo	Edo	6.308	5.621	1	
 Watch Tower Street	Oredo	Edo	6.322	5.586	1	
-HIGH TOWER EDUCATION	Egor	Edo	6.375	5.630	0	
 Toyan Street	Eti Osa	Lagos	6.448	3.413	1	
 Tolu Road	Ajeromi/Ifelodun	Lagos	6.449	3.349	1	
 Tony Anegbode Street	Eti Osa	Lagos	6.428	3.434	1	
@@ -317,14 +529,13 @@ Gumel to Hadejia Road	Kaugama	Jigawa	12.606	9.776	1
 Hadejia to Nguru Road	Kiri Kasama	Jigawa	12.656	10.235	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.249	8.412	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.346	8.303	1	
-Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.333	8.311	1	
 Rahama to Kafin Mayaki Road	Bebeji	Kano	11.380	8.274	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.278	8.340	1	
-Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.337	8.309	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.238	8.427	1	
 Rahama to Kafin Mayaki Road	Lere	Kaduna	10.555	8.678	1	
 Geidam to Niger Border Road	Yunusari	Yobe	12.991	11.970	1	
 Geidam to Niger Border Road	Yunusari	Yobe	13.034	11.985	1	
+Lankoviri to Lau Road	Lau	Taraba	9.195	11.302	1	
 Makurdi to Zaki Biam Road	Buruku	Benue	7.436	9.111	1	
 minor road from Jankwano to excellent bridge, Angwan soya Jos	Jos North	Plateau	9.932	8.877	1	
 Nguru to Geidam Road	Karasuwa	Yobe	12.889	10.700	1	
@@ -340,13 +551,10 @@ Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.566	5.744	1
 Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.562	5.778	1	
 Toppers Avenue	Oredo	Edo	6.321	5.579	1	
 Shere to Pategi Road	Pategi	Kwara	8.728	5.717	1	
-Shere to Pategi Road	Pategi	Kwara	8.727	5.729	1	
-Shere to Pategi Road	Pategi	Kwara	8.726	5.739	1	
 Tobias Ugwu Street	Enugu East	Enugu	6.487	7.511	1	
 Town School Close	Enugu East	Enugu	6.471	7.582	1	
 Sir Tobias Emeh Avenue	Enugu North	Enugu	6.466	7.575	1	
 Town School Street	Enugu East	Enugu	6.471	7.581	1	
-Town Market	Ijumu	Kogi	7.980	5.991	0	
 Enterance to PRTV	Jos South	Plateau	9.842	8.898	1	
 Tofa Road	Rimin Gado	Kano	12.018	8.281	1	
 Dawakin Tofa Road	Tofa	Kano	12.068	8.298	1	
@@ -358,10 +566,6 @@ Toyo Ayantunde Crescent	Oshodi/Isolo	Lagos	6.509	3.296	1
 Satellite Town, Nwankwo Street	Amuwo Odofin	Lagos	6.441	3.257	1	
 Nicon Town Road	Eti Osa	Lagos	6.437	3.500	1	
 Ikara to Tudun Wada Road	Ikara	Kaduna	11.177	8.295	1	
-Toranke Primary Health Centre	Ajingi	Kano	11.993	9.172	0	
-Tona Health Post	Dambatta	Kano	12.315	8.729	0	
-SSS Dawakin Tofa Health Post	Dawakin Tofa	Kano	12.118	8.339	0	
-Tony Chetta Collage	Fagge	Kano	12.029	8.531	0	
 Rahama to Kafin Mayaki Road	Doguwa	Kano	10.631	8.645	1	
 Keffi to Kachia Road	Kagarko	Kaduna	9.468	7.940	1	
 Keffi to Kachia Road	Karu	Nasarawa	9.248	8.034	1	
@@ -382,14 +586,14 @@ Dan Tatashi to Gwarzo Road	Gwarzo	Kano	11.931	7.855	1
 Nguru to Geidam Road	Borsari	Yobe	12.763	11.480	1	
 Makurdi to Zaki Biam Road	Ukum	Benue	7.497	9.519	1	
 Makurdi to Zaki Biam Road	Logo	Benue	7.495	9.300	1	
-Mutum Daya to Filiya Road	Karim Lamido	Gombe	9.524	10.966	1	
+Mutum Daya to Filiya Road	Karim Lamido	Taraba	9.524	10.966	1	
+Mutum Daya to Filiya Road	Karim Lamido	Taraba	9.426	10.980	1	
+Mutum Daya to Filiya Road	Karim Lamido	Taraba	9.385	11.025	1	
 Lafia to Shendam Road	Shendam	Plateau	8.874	9.532	1	
 Lafia to Shendam Road	Shendam	Plateau	8.812	9.445	1	
 Lafia to Shendam Road	Shendam	Plateau	8.852	9.490	1	
-Lafia to Shendam Road	Shendam	Plateau	8.877	9.536	1	
 Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.539	7.707	1	
 Abaji to Nassarawa Road	Toto	Nasarawa	8.457	7.015	1	
-Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.535	7.700	1	
 Abaji to Nassarawa Road	Toto	Nasarawa	8.423	7.266	1	
 Loko to Nassarawa Road	Nasarawa	Nasarawa	8.464	7.738	1	
 Loko to Nassarawa Road	Nasarawa	Nasarawa	8.415	7.755	1	
@@ -402,26 +606,15 @@ Tobiloba Lawal Road	Eti Osa	Lagos	6.435	3.513	1
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.225	8.446	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.203	8.499	1	
 Emmanuel Tombia Street	Eti Osa	Lagos	6.487	3.594	1	
-Emmanuel Tombia Street	Eti Osa	Lagos	6.484	3.590	1	
-National Polio Immunization Office	Zaki	Bauchi	12.284	10.345	0	Town Maternity
-Itas Town Dispensary	Itas/Gadau	Bauchi	11.857	9.965	0	
-Town Dispensary	Damban	Bauchi	11.676	10.708	0	Dambam Dispensary
-Town Maternity	Jama'Are	Bauchi	11.666	9.927	0	
-Town Dispensary	Katagum	Bauchi	11.673	10.188	0	
 Towobola Close	Eti Osa	Lagos	6.440	3.522	1	
-Liman Katagum Town Dispensary	Bauchi	Bauchi	10.014	9.774	0	
-Toro Maternity	Toro	Bauchi	10.058	9.065	0	
 Olugborogan Town Road	Eti Osa	Lagos	6.444	3.540	1	
 Toronto Avenue	Chanchaga	Niger	9.597	6.570	1	
-Agbele Town	Irepodun	Kwara	8.165	4.914	3	
 Afolabi Toye Road	Ilorin South	Kwara	8.479	4.674	1	
 Isan to Eleranigbe road	Epe	Lagos	6.512	3.678	1	
 Tony Elgbokhan Street	Eti Osa	Lagos	6.470	3.657	1	
 Effurun, Warri to Shell Ogunu	Warri South	Delta	5.533	5.715	1	
 Mbiama to Effurun, Warri	Ughelli North	Delta	5.579	5.868	1	
 Mbiama to Effurun, Uvwie	Uvwie	Delta	5.574	5.792	1	
-Mbiama to Effurun, Warri	Uvwie	Delta	5.579	5.827	1	
-Mbiama to Effurun, Warri	Uvwie	Delta	5.578	5.825	1	
 Tokunbo Adenigba Road	Eti Osa	Lagos	6.450	3.603	1	
 Toyin Ebenezer Street	Eti Osa	Lagos	6.467	3.635	1	
 Oladeinde Tonade Street	Ede North	Osun	7.717	4.492	1	
@@ -439,7 +632,6 @@ Abaji to Nassarawa Road	Abaji	FCT Abuja	8.476	6.943	1
 Keffi to Kachia Road	Kokona	Nasarawa	8.912	7.886	1	
 Keffi to Kachia Road	Karu	Nasarawa	9.155	7.950	1	
 Loko to Nassarawa Road	Nasarawa	Nasarawa	8.533	7.712	1	
-Loko to Nassarawa Road	Nasarawa	Nasarawa	8.520	7.708	1	
 Town Road	Kachia	Kaduna	9.873	7.954	1	
 Ngelzarma to Jajere road	Fune	Yobe	11.844	11.474	1	
 Ngelzarma to Mashio road	Fune	Yobe	11.829	11.608	1	
@@ -452,11 +644,8 @@ Opolo - Tombia Road	Yenegoa	Bayelsa	5.000	6.246	1
 Etelebou through Tombia-Amassoma Rd	Kolokuma/Opokuma	Bayelsa	4.980	6.185	1	
 East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.876	7.036	1	
 Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.958	6.364	1	
-Opolo - Tombia Road	Yenegoa	Bayelsa	4.955	6.357	1	
-Opolo - Tombia Road	Yenegoa	Bayelsa	4.963	6.351	1	
 Tombia Roundabout- Berger Junction	Yenegoa	Bayelsa	4.923	6.315	1	
 Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.006	6.386	1	
-Total	Kano Municipal	Kano	11.967	8.530	0	
 Toyin Amusan Street	Eti Osa	Lagos	6.467	3.583	1	
 Tolu Fadahunsi Close	Eti Osa	Lagos	6.473	3.574	1	
 Toso Akinleye Way (New Street)	Oriade	Osun	7.569	4.892	1	
@@ -479,12 +668,7 @@ Towobola Ajasa Street	Ìkòròdú	Lagos	6.621	3.524	1
 Tony Momoh Close	Municipal Area Council	FCT Abuja	9.130	7.430	1	
 Makurdi to Zaki Biam Road	Tarka	Benue	7.636	8.878	1	
 Tofowomo Street	Akure South	Ondo	7.261	5.163	1	
-Total	Kaduna North	Kaduna	10.528	7.460	0	
-Total	Akure North	Ondo	7.281	5.222	0	
-Total	Kaduna North	Kaduna	10.502	7.426	0	
-Total	Kaduna North	Kaduna	10.530	7.430	0	
 Towobola Street	Ifo	Ogun	6.737	3.275	1	
-Isemi Ile Town Hall	Kajola	Oyo	7.989	3.372	0	
 Tonade Street	Ikeja	Lagos	6.595	3.343	1	
 Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.058	6.670	1	
 Jakpa Road	Uvwie	Delta	5.561	5.774	1	Effurun, Warri to Shell Ogunu
@@ -495,27 +679,21 @@ Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.978	6.748	1
 Omudioga to Ahia FS Rd	Ikwerre	Rivers	5.151	6.846	1	
 Toyosi Adetoro	Eti Osa	Lagos	6.442	3.523	1	
 Tobias Alaribe Street	Oshodi/Isolo	Lagos	6.538	3.312	1	
-Tofowomo Street	Akure South	Ondo	7.250	5.166	1	
 Toyin Adefala Street	Eti Osa	Lagos	6.489	3.591	1	
 Mbiama to Effurun, Warri	Uvwie	Delta	5.573	5.791	1	
 Tom Iffie Crescent	Uvwie	Delta	5.546	5.772	1	
 Green Top Street	Ife Central	Osun	7.490	4.547	1	
 Mbiama to Effurun, Warri	Ughelli North	Delta	5.262	6.096	1	
 Mbiama to Effurun, Warri	Ughelli North	Delta	5.268	6.088	1	
-Ikara to Tudun Wada Road	Ikara	Kaduna	11.196	8.324	1	
 Ikara to Tudun Wada Road	Ikara	Kaduna	11.220	8.364	1	
 Tola Road	Kaduna North	Kaduna	10.562	7.450	1	
 Togo Crescent	Kaduna North	Kaduna	10.561	7.469	1	
 Ikara to Tudun Wada Road	Tudun Wada	Kano	11.243	8.383	1	
 Olomoro Town Road	Isoko South	Delta	5.423	6.134	1	
-Total	Yewa South	Ogun	6.693	2.982	0	
-Total	Yewa South	Ogun	6.888	3.022	0	
 Eniyan Tonwe Close	Warri South	Delta	5.526	5.717	1	
 Gumel to Hadejia Road	Hadejia	Jigawa	12.457	10.041	1	
 Hadejia to Nguru Road	Hadejia	Jigawa	12.457	10.041	1	
-Opolo - Tombia Road	Yenegoa	Bayelsa	4.978	6.331	1	
 Opolo - Tombia Road	Yenegoa	Bayelsa	4.986	6.310	1	
-Opolo - Tombia Road	Yenegoa	Bayelsa	4.990	6.295	1	
 Makurdi to Zaki Biam Road	Gboko	Benue	7.366	9.043	1	
 Rayfield-Gura Topp Road	Jos South	Plateau	9.808	8.896	1	
 Lafia to Shendam Road	Qua'An Pan	Plateau	8.751	9.294	1	
@@ -532,7 +710,7 @@ Nguru to Geidam Road	Nguru	Yobe	12.868	10.449	1
 Hill top gate road	Nsukka	Enugu	6.864	7.411	1	
 Lafia to Shendam Road	Lafia	Nasarawa	8.499	8.517	1	
 Toriola Street	Imeko Afon	Ogun	7.458	2.833	1	
-SATELLITE TOWN	Calabar Municipal	Cross River	4.957	8.347	1	
+Satellite Town	Calabar Municipal	Cross River	4.957	8.347	1	
 Hadejia to Nguru Road	Guri	Jigawa	12.821	10.349	1	
 Hadejia to Nguru Road	Nguru	Yobe	12.869	10.418	1	
 Gumel to Maigatari Road	Gumel	Jigawa	12.623	9.385	1	
@@ -542,34 +720,24 @@ tooka way	Ungongo	Kano	12.070	8.484	1
 Cape Town Street	Municipal Area Council	FCT Abuja	9.065	7.474	1	
 Rahama to Kafin Mayaki Road	Lere	Kaduna	10.441	8.655	1	
 Keffi to Kachia Road	Kachia	Kaduna	9.852	7.972	1	
-Umuegorom Town Hall	Ihiala	Anambra	5.873	6.845	0	
 Lekki Toll - Alternative Route	Eti Osa	Lagos	6.448	3.546	1	
-Lekki Toll - Alternative Route	Eti Osa	Lagos	6.452	3.541	1	
 Ikara to Tudun Wada Road	Ikara	Kaduna	11.167	8.239	1	
 Keffi to Kachia Road	Kachia	Kaduna	9.801	7.968	1	
-Keffi to Kachia Road	Kachia	Kaduna	9.839	7.968	1	
-Keffi to Kachia Road	Kachia	Kaduna	9.828	7.968	1	
 Keffi to Kachia Road	Jaba	Kaduna	9.345	8.032	1	
 Keffi to Kachia Road	Jema'A	Kaduna	9.323	8.033	1	
-Keffi to Kachia Road	Jaba	Kaduna	9.369	8.030	1	
 Keffi to Kachia Road	Jema'A	Kaduna	9.287	8.046	1	
 Keffi to Kachia Road	Kachia	Kaduna	9.673	7.954	1	
-Town Planning Way	Mushin	Lagos	6.557	3.360	1	
-Town Planning Way	Mushin	Lagos	6.557	3.365	1	
 Eaguwa to Dorogo Road	Dutsin Ma	Katsina	12.483	7.545	1	
 Eaguwa to Dorogo Road	Kurfi	Katsina	12.590	7.548	1	
-Total Filling Station	Muhammadu Dikko Stadium	Katsina	12.975	7.597	0	
 Keffi to Kachia Road	Karu	Nasarawa	9.050	7.928	1	
 Keffi to Kachia Road	Karu	Nasarawa	8.974	7.895	1	
 Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.498	7.518	1	
 Abaji to Nassarawa Road	Toto	Nasarawa	8.493	7.480	1	
 Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.501	7.546	1	
-Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.500	7.538	1	
 Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.521	7.602	1	
 Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.516	7.569	1	
 Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.536	7.672	1	
 Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.532	7.641	1	
-Keffi to Kachia Road	Kokona	Nasarawa	8.900	7.884	1	
 Keffi to Kachia Road	Kokona	Nasarawa	8.892	7.880	1	
 Abaji to Nassarawa Road	Toto	Nasarawa	8.495	7.438	1	
 Abaji to Nassarawa Road	Toto	Nasarawa	8.503	7.393	1	
@@ -579,10 +747,6 @@ Mutum Daya to Filiya Road	Billiri	Gombe	9.809	11.165	1
 Mutum Daya to Filiya Road	Billiri	Gombe	9.784	11.146	1	
 Mutum Daya to Filiya Road	Billiri	Gombe	9.751	11.142	1	
 Mutum Daya to Filiya Road	Billiri	Gombe	9.874	11.199	1	
-Total Fuel Station	Eti Osa	Lagos	6.437	3.450	0	
-Total Fuel Station	Eti Osa	Lagos	6.442	3.416	0	
-Total	Eti Osa	Lagos	6.435	3.496	0	
-Total Oil Fuel Station	Eti Osa	Lagos	6.439	3.518	0	
 Dan Tatashi to Gwarzo Road	Malumfashi	Katsina	11.947	7.788	1	
 Dan Tatashi to Gwarzo Road	Malumfashi	Katsina	11.967	7.741	1	
 Mbiama to Effurun, Warri	Kolokuma/Opokuma	Bayelsa	5.149	6.266	1	
@@ -590,28 +754,215 @@ Shere to Pategi Road	Pategi	Kwara	8.762	5.611	1
 Shere to Pategi Road	Pategi	Kwara	8.752	5.510	1	
 Shere to Pategi Road	Edu	Kwara	8.767	5.380	1	
 Shere to Pategi Road	Edu	Kwara	8.760	5.261	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.645	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.643	1	
 Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.514	1	
 Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.064	6.526	1	
 Mbiama to Effurun, Warri	Sagbama	Bayelsa	5.224	6.197	1	
 Mbiama to Effurun, Warri	Kolokuma/Opokuma	Bayelsa	5.164	6.252	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.264	6.093	1	
 Mutum Daya to Filiya Road	Shongom	Gombe	9.662	11.120	1	
 Mutum Daya to Filiya Road	Billiri	Gombe	9.714	11.145	1	
 Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	5.084	6.832	1	
-ECHALIKE TO NOYO JUNCTION ROAD	Abakaliki	Ebonyi	6.205	8.222	1	
-NOYO TO NDIAGU ECHARA	Ikwo	Ebonyi	6.183	8.245	1	
-NOYO TO NDIAGU ECHAR IKW	Ikwo	Ebonyi	6.162	8.265	1	
-Ndiofutu Town Hall	Ikwo	Ebonyi	6.162	8.295	0	
-ECHALIKE TO NOYO JUNCTION ROAD	Abakaliki	Ebonyi	6.200	8.228	1	
-Usokun Town Hall	Degema	Rivers	4.783	6.770	0	
-Jakpa Road	Uvwie	Delta	5.564	5.752	1	Effurun, Warri to Shell Ogunu
-Ndiaguazu townhall	Ikwo	Ebonyi	6.166	8.286	0	
+Echalike To Noyo Junction Road	Abakaliki	Ebonyi	6.205	8.222	1	
+Noyo To Ndiagu Echara	Ikwo	Ebonyi	6.183	8.245	1	
+Noyo To Ndiagu Echar Ikw	Ikwo	Ebonyi	6.162	8.265	1	
 Tonkere road	Aiyedade	Osun	7.582	4.485	1	
-Total Gas station	Jos South	Plateau	9.856	8.866	0	
-Computed Tomography Unit	Maiduguri	Borno	11.865	13.118	0	
 Nassarawa to Keffi Road	Karu	Nasarawa	8.731	7.834	1	
 Nassarawa to Keffi Road	Nasarawa	Nasarawa	8.653	7.799	1	
+small road to go residential area	Abaji	FCT Abuja	9.212	6.841	1	
+small road to residential area	Abaji	FCT Abuja	9.214	6.843	1	
+Tombia Roundabout- Berger Junction	Yenegoa	Bayelsa	4.926	6.318	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.966	6.368	1	
+George Town Avenue	Ikpoba-Okha	Edo	6.181	5.648	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.054	6.433	1	
+Hill Top Street	Kwande	Benue	6.808	9.212	1	
+Sani Tofa Street	Ungongo	Kano	11.975	8.445	1	
+Mbiama to Effurun, Warri	Ughelli North	Delta	5.335	6.063	1	
+Makurdi to Zaki Biam Road	Logo	Benue	7.494	9.384	1	
+Makurdi to Zaki Biam Road	Buruku	Benue	7.463	9.210	1	
+Agbugwu to New Market Road	Nsukka	Enugu	6.852	7.397	1	
+Lankoviri to Lau Road	Yorro	Taraba	9.037	11.408	1	
+Lankoviri to Lau Road	Lau	Taraba	9.063	11.377	1	
+Loko to Nassarawa Road	Nasarawa	Nasarawa	8.022	7.837	1	
+Main Entrance to Law Auditorium	Ovia North-East	Edo	6.744	5.405	1	
+New Towns Road	Ifako/Ijaye	Lagos	6.639	3.320	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.868	7.028	1	
+Mutum Daya to Filiya Road	Shongom	Gombe	9.634	11.093	1	
+Mutum Daya to Filiya Road	Shongom	Gombe	9.610	11.095	1	
+Abaji to Nassarawa Road	Toto	Nasarawa	8.497	7.354	1	
+service road to the Veritas University gate	Bwari	FCT Abuja	9.289	7.417	1	
+Loko to Nassarawa Road	Nasarawa	Nasarawa	8.552	7.716	1	
+Nassarawa to Keffi Road	Nasarawa	Nasarawa	8.554	7.718	1	
+Makurdi to Zaki Biam Road	Logo	Benue	7.498	9.365	1	
+Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.483	9.415	1	
+Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.487	9.445	1	
+Lankoviri to Lau Road	Lau	Taraba	9.139	11.326	1	
+Lankoviri to Lau Road	Lau	Taraba	9.134	11.330	1	
+Lankoviri to Lau Road	Lau	Taraba	9.154	11.316	1	
+Lankoviri to Lau Road	Lau	Taraba	9.094	11.345	1	
+Tobi Lawal Street	Ìkòròdú	Lagos	6.622	3.490	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.062	6.599	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.059	6.576	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.507	8.537	1	
+Tonyllen Crescent	Uyo	Akwa Ibom	5.019	7.957	1	
+Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.994	6.886	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.530	8.578	1	
+Total	Kaduna South	Kaduna	10.452	7.423	0	
+Total	Zaria	Kaduna	11.093	7.718	0	
+Total energies	Jos North	Plateau	9.958	8.881	0	
+Greter Tomorow Secondary School	Oredo	Edo	6.302	5.605	0	
+Greter tomorro nurstry and primary school	Oredo	Edo	6.310	5.618	0	
+TotalEnergies	Oredo	Edo	6.327	5.625	0	
+Omupo Town Hall	Ifelodun	Kwara	8.278	4.792	0	
+Greater Tomorrow Group of Schools	Oredo	Edo	6.301	5.605	0	
+Unique Touch School	Oredo	Edo	6.310	5.598	0	
+Total	Municipal Area Council	FCT Abuja	9.053	7.484	0	
+Total	Ikeja	Lagos	6.611	3.369	0	
+Total Gas Station	Oredo	Edo	6.343	5.635	0	
+Greater Tomorrow International School (Nur & Pri)	Enugu South	Enugu	6.413	7.496	0	
+Total	Muhammadu Dikko Stadium	Katsina	12.983	7.603	0	
+Total Petrol station	Ibadan North	Oyo	7.423	3.898	0	
+Tolulope Plaza	Ibadan North	Oyo	7.438	3.910	0	
+Total	Ibadan South West	Oyo	7.383	3.871	0	
+Unguwar Tofa Health Post	Karaye	Kano	11.786	7.960	0	
+Damfamin Tofa Health Post	Dawakin Tofa	Kano	12.223	8.428	0	
+Tofawa Health Post	Kunchi	Kano	12.347	8.329	0	
+Total	Amuwo Odofin	Lagos	6.471	3.309	0	
+Total Filling Station	Ibadan North West	Oyo	7.389	3.893	0	
+Ejigbo Town Hall	Ejigbo	Osun	7.903	4.314	0	
+Tobolo Health Clinic	Kaga	Borno	11.557	12.550	0	
+Total Filling Station	Kano Municipal	Kano	11.967	8.530	0	
+Toll Gate Ota	Ado Odo/Ota	Ogun	6.692	3.257	0	
+Total Asokoro	Municipal Area Council	FCT Abuja	9.051	7.507	0	
+Total	Lagos Island	Lagos	6.451	3.401	0	
+Total petrol station	Aba South	Abia	5.115	7.381	0	
+Total Filling Station	Sabon Gari	Kaduna	11.104	7.721	0	
+Utagban Town Hall	Oredo	Edo	6.294	5.564	0	
+Total Filling Station	Warri South	Delta	5.532	5.740	0	
+Total Filling Station	Uvwie	Delta	5.568	5.785	0	
+Top Nursery and Primary School	Uvwie	Delta	5.537	5.761	0	
+Magic Touch schools	Warri South	Delta	5.530	5.757	0	
+Total Filling Station	Port-Harcourt	Rivers	4.813	7.044	0	
+Total Filling Station	Obio/Akpor	Rivers	4.845	7.041	0	
+Total Filling Station	Obio/Akpor	Rivers	4.839	7.029	0	
+Tower Gate Montessori School	Obio/Akpor	Rivers	4.834	7.032	0	
+Tani-Tobi Filling Station	Obio/Akpor	Rivers	4.843	7.041	0	
+Filling Station	Yenegoa	Bayelsa	5.032	6.402	0	Tony's Filling Station
+Total Filling Station	Warri South	Delta	5.529	5.747	0	
+Total	Ojo	Lagos	6.493	3.151	0	
+Ijebu Ode Park to Lagos	Ìjẹ̀bú Òde	Ogun	6.811	3.910	0	
+Mountain Top University	Obafemi Owode	Ogun	6.731	3.414	0	
+Total Fuel Station	Tofa	Kano	11.964	8.405	0	
+Ikoya Town Market	Okitipupa	Ondo	6.503	4.692	0	
+Total	Ibadan North	Oyo	7.398	3.909	0	
+town Hall	Ìkòròdú	Lagos	6.614	3.503	0	
+Total	Borgu	Niger	9.876	4.521	0	
+Total	Ibadan North	Oyo	7.424	3.882	0	
+Ogbomoso Town Hall	Ogbomosho North	Oyo	8.131	4.248	0	
+Total Filling Station	Ogbomosho North	Oyo	8.135	4.219	0	
+Total Oshodi	Ikeja	Lagos	6.559	3.364	0	
+Total	Ojo	Lagos	6.493	3.199	0	
+Migbewe 1 Town Hall	Lagos Mainland	Lagos	6.495	3.388	0	
+Bale Towe Town Hall	Lagos Mainland	Lagos	6.495	3.389	0	
+Total filling station liji	Yamaltu/Deba	Gombe	10.277	11.230	0	
+Tompkins Solid Academy Gombe	Akko	Gombe	10.288	11.080	0	
+Total	Kaduna South	Kaduna	10.471	7.434	0	
+Alor Town Hall	Idemili South	Anambra	6.080	6.965	0	
+Total	Akure South	Ondo	7.253	5.196	0	
+Gwoza Town Health Clinic	Gwoza	Borno	11.086	13.701	0	
+Total	Obio/Akpor	Rivers	4.821	7.007	0	
+University of Africa, Toru-Orua	Sagbama	Bayelsa	5.100	6.066	0	
+Primary Health Centre, Toru-Ebeni	Sagbama	Bayelsa	4.980	6.076	0	
+Marine Police Training School, Toru-Orua	Sagbama	Bayelsa	5.101	6.066	0	
+Umaualumaku/Umuihim Town Union	Ehime Mbano	Imo	5.633	7.287	0	
+Local Government Primary School, Totowu	Ado Odo/Ota	Ogun	6.695	3.237	0	
+St. Peter'S Anglican Primary School, Tomoba	Ado Odo/Ota	Ogun	6.662	3.093	0	
+St. Peter'S Anglican Primary School, Tomoba	Odogbolu	Ogun	6.732	3.848	0	
+Local Government Primary School, Totowu	Ojo	Lagos	6.518	3.199	0	
+Total	Enugu North	Enugu	6.434	7.495	0	
+Ielts, Toefl, Pte, Gre, Sat Center In Enugu	Enugu North	Enugu	6.458	7.525	0	
+Total - Numan Ferry Service Station	Numan	Adamawa	9.469	12.031	0	
+Secretariat Staff Clinic , Total Garden road	Ibadan North	Oyo	7.411	3.908	0	
+Aladja Town Hall	Udu	Delta	5.489	5.756	0	
+Ekorhon Town Hall	Udu	Delta	5.491	5.757	0	
+Total Filling Station	Olorunsogo	Oyo	8.748	4.133	0	
+Total health care	Jos North	Plateau	9.925	8.882	0	
+Total	Jos North	Plateau	9.950	8.907	0	
+Total fuel station	Jos North	Plateau	9.921	8.890	0	
+Ido-Osun Town Hall	Egbedore	Osun	7.780	4.482	0	
+Cars to Osogbo	Ife North	Osun	7.498	4.520	0	
+Total	Municipal Area Council	FCT Abuja	8.938	7.313	0	
+Total Filling Station	Shagamu	Ogun	6.857	3.630	0	
+Alders Town Primary School Warri	Warri South	Delta	5.511	5.754	0	
+Total	Bauchi	Bauchi	10.276	9.796	0	
+Total	Bauchi	Bauchi	10.319	9.833	0	
+Total	Bauchi	Bauchi	10.320	9.819	0	
+Total Filling Station	Eti Osa	Lagos	6.473	3.625	0	
+Total	Odigbo	Ondo	6.747	4.876	0	
+Town Hall	Ejigbo	Osun	7.830	4.128	0	
+44 Hospital No8 Togo Street Malali	Kaduna North	Kaduna	10.562	7.468	0	
+Tokache Health Clinic	Chikun	Kaduna	10.528	7.616	0	
+General Hospital Kaduna Keke B Main Township Road	Chikun	Kaduna	10.556	7.494	0	
+Tower Of Glory Hospital	Ojo	Lagos	6.496	3.171	0	
+Garden Hospital Sabo Oniba Town	Ojo	Lagos	6.462	3.175	0	
+Toluwalope Clinic and Maternity	Ado Odo/Ota	Ogun	6.512	3.092	0	
+Tofaan's Hopital	Alimosho	Lagos	6.599	3.245	0	
+Top Talent Hospital	Alimosho	Lagos	6.603	3.292	0	
+Tolajide Health Centre	Mushin	Lagos	6.529	3.357	0	
+Little Tokyo Lodge	Akure South	Ondo	7.291	5.149	0	
+Ade Torton Hostel	Akure South	Ondo	7.288	5.152	0	
+Tomorrow Villa	Akure South	Ondo	7.289	5.148	0	
+Levan Hospital First Avenue G Close Festac Town	Amuwo Odofin	Lagos	6.470	3.296	0	
+Emel Specialist Hospital Festac Town	Amuwo Odofin	Lagos	6.476	3.289	0	
+Pentecost Medical Center 112 Festac Town	Amuwo Odofin	Lagos	6.470	3.293	0	
+Rhowil Total Care Medical Center	Amuwo Odofin	Lagos	6.453	3.263	0	
+Divine Care Neighborhood Clinic And Maternity Satellite Town	Amuwo Odofin	Lagos	6.453	3.252	0	
+Satellite Town Primary Health Care Center	Amuwo Odofin	Lagos	6.450	3.265	0	
+Ezinifite (Augusta) Town Hall	Jos North	Plateau	9.924	8.886	0	
+Gasoline total energies	Oshimili South	Delta	6.196	6.739	0	
+ikare town landing	Amuwo Odofin	Lagos	6.418	3.237	0	
+TotalEnergies	Municipal Area Council	FCT Abuja	8.879	7.239	0	
+Tobi Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.541	0	
+Total comfort filling station, Agbabiaka Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.463	4.588	0	
+Tolulope Clinic & Maternity, Oko Erin, Nigeria	Ilorin East	Kwara	8.485	4.601	0	
+Hill Top Model Academy	Bauchi	Bauchi	10.294	9.787	0	
+Adebayo Living Tower Hospital	Badagry	Lagos	6.436	2.984	0	
+Sector F Junction To Lugbe Junction	Municipal Area Council	FCT Abuja	8.995	7.373	0	
+Kabusa Park - To Gudu Market	Municipal Area Council	FCT Abuja	8.956	7.444	0	
+Tower Bridge Ltd	Municipal Area Council	FCT Abuja	9.100	7.411	0	
+Gwagwalada Town Clinic	Gwagwalada	FCT Abuja	8.941	7.087	0	
+Total Filling Station	Mushin	Lagos	6.512	3.359	0	
+High Tower Education	Egor	Edo	6.375	5.630	0	
+Town Market	Ijumu	Kogi	7.980	5.991	0	
+Toranke Primary Health Centre	Ajingi	Kano	11.993	9.172	0	
+Tona Health Post	Dambatta	Kano	12.315	8.729	0	
+SSS Dawakin Tofa Health Post	Dawakin Tofa	Kano	12.118	8.339	0	
+Tony Chetta Collage	Fagge	Kano	12.029	8.531	0	
+National Polio Immunization Office	Zaki	Bauchi	12.284	10.345	0	Town Maternity
+Itas Town Dispensary	Itas/Gadau	Bauchi	11.857	9.965	0	
+Town Dispensary	Damban	Bauchi	11.676	10.708	0	Dambam Dispensary
+Town Maternity	Jama'Are	Bauchi	11.666	9.927	0	
+Town Dispensary	Katagum	Bauchi	11.673	10.188	0	
+Liman Katagum Town Dispensary	Bauchi	Bauchi	10.014	9.774	0	
+Toro Maternity	Toro	Bauchi	10.058	9.065	0	
+Total	Kano Municipal	Kano	11.967	8.530	0	
+Total	Kaduna North	Kaduna	10.528	7.460	0	
+Total	Akure North	Ondo	7.281	5.222	0	
+Total	Kaduna North	Kaduna	10.502	7.426	0	
+Total	Kaduna North	Kaduna	10.530	7.430	0	
+Isemi Ile Town Hall	Kajola	Oyo	7.989	3.372	0	
+Total	Yewa South	Ogun	6.693	2.982	0	
+Total	Yewa South	Ogun	6.888	3.022	0	
+Umuegorom Town Hall	Ihiala	Anambra	5.873	6.845	0	
+Total Filling Station	Muhammadu Dikko Stadium	Katsina	12.975	7.597	0	
+Total Fuel Station	Eti Osa	Lagos	6.437	3.450	0	
+Total Fuel Station	Eti Osa	Lagos	6.442	3.416	0	
+Total	Eti Osa	Lagos	6.435	3.496	0	
+Total Oil Fuel Station	Eti Osa	Lagos	6.439	3.518	0	
+Ndiofutu Town Hall	Ikwo	Ebonyi	6.162	8.295	0	
+Usokun Town Hall	Degema	Rivers	4.783	6.770	0	
+Ndiaguazu townhall	Ikwo	Ebonyi	6.166	8.286	0	
+Total Gas station	Jos South	Plateau	9.856	8.866	0	
+Computed Tomography Unit	Maiduguri	Borno	11.865	13.118	0	
 Totym	Akure South	Ondo	7.299	5.160	0	
 Ijede Town Hall	Ìkòròdú	Lagos	6.564	3.591	0	
 Total - Alapere 1	Kosofe	Lagos	6.595	3.401	0	
@@ -640,89 +991,21 @@ Total	Shagamu	Ogun	6.697	3.512	0
 Total	Eti Osa	Lagos	6.476	3.569	0	
 Golong tobal health clinic	Song	Adamawa	10.004	12.650	0	
 Toungo Health Clinic	Yola North	Adamawa	9.204	12.484	0	
-small road to go residential area	Abaji	FCT Abuja	9.212	6.841	1	
-small road to residential area	Abaji	FCT Abuja	9.214	6.843	1	
 Town Maternity	Dass	Bauchi	10.002	9.511	0	
-Tombia Roundabout- Berger Junction	Yenegoa	Bayelsa	4.926	6.318	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.964	6.368	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.966	6.368	1	
-George Town Avenue	Ikpoba-Okha	Edo	6.181	5.648	1	
 Total	Akure South	Ondo	7.269	5.167	0	
 Tofab School	Akure South	Ondo	7.247	5.176	0	
 Monguno Town Dispensary	Monguno	Borno	12.671	13.616	0	
 Toshia Maternity and Child Health Center	Yunusari	Yobe	13.229	11.836	0	
 mdg town primary heath clinic	Madagali	Adamawa	10.805	13.456	0	
 Tomsoro Health Post	Fufore	Adamawa	9.052	12.482	0	
-TEENEE TODDS DAY NURSERY	Municipal Area Council	FCT Abuja	9.107	7.481	0	
-Mbiama to Effurun, Warri	Sagbama	Bayelsa	5.175	6.237	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.978	6.369	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.446	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.066	6.443	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.054	6.433	1	
-Hill Top Street	Kwande	Benue	6.808	9.212	1	
-Sani Tofa Street	Ungongo	Kano	11.975	8.445	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.335	6.063	1	
+Teenee Todds Day Nursery	Municipal Area Council	FCT Abuja	9.107	7.481	0	
 Towolo Community Primary School	Ìkòròdú	Lagos	6.613	3.441	0	
-random town	Zurmi	Zamfara	12.640	6.806	3	
 Amuro Town Hall	Afikpo North	Ebonyi	5.886	7.933	0	
 Town Hall	Moba	Ekiti	8.022	5.066	0	
-Makurdi to Zaki Biam Road	Logo	Benue	7.494	9.384	1	
-Makurdi to Zaki Biam Road	Buruku	Benue	7.463	9.210	1	
-Agbugwu to New Market Road	Nsukka	Enugu	6.852	7.397	1	
 Karshi Development Town Hall	Municipal Area Council	FCT Abuja	8.828	7.567	0	
-Loko to Nassarawa Road	Nasarawa	Nasarawa	8.022	7.837	1	
-Loko to Nassarawa Road	Nasarawa	Nasarawa	8.002	7.839	1	
 lambi town	Enugu South	Enugu	6.415	7.482	0	
 Town School Obiakpu	Ohaji/Egbema	Imo	5.503	6.756	0	
 Tani tobi Station	Obio/Akpor	Rivers	4.843	7.041	0	
-Main Entrance to Law Auditorium	Ovia North-East	Edo	6.744	5.405	1	
-New Towns Road	Ifako/Ijaye	Lagos	6.639	3.320	1	
 Igbeti Town Hall	Olorunsogo	Oyo	8.748	4.129	0	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.868	7.028	1	
 Total Petrol Station	Ede North	Osun	7.756	4.526	0	
-Gumel to Maigatari Road	Gumel	Jigawa	12.627	9.384	1	
-Mutum Daya to Filiya Road	Shongom	Gombe	9.634	11.093	1	
-Mutum Daya to Filiya Road	Shongom	Gombe	9.610	11.095	1	
-Abaji to Nassarawa Road	Toto	Nasarawa	8.502	7.375	1	
-Abaji to Nassarawa Road	Toto	Nasarawa	8.497	7.354	1	
-service road to the Veritas University gate	Bwari	FCT Abuja	9.289	7.417	1	
-Oko Town	Orumba North	Anambra	6.056	7.108	3	
-Loko to Nassarawa Road	Nasarawa	Nasarawa	8.552	7.716	1	
-Nassarawa to Keffi Road	Nasarawa	Nasarawa	8.554	7.718	1	
-Abaji to Nassarawa Road	Nasarawa	Nasarawa	8.549	7.714	1	
-Makurdi to Zaki Biam Road	Logo	Benue	7.498	9.365	1	
-Nassarawa to Keffi Road	Nasarawa	Nasarawa	8.559	7.722	1	
-Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.483	9.415	1	
-Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.487	9.445	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.044	6.411	1	
-Tobi Lawal Street	Ìkòròdú	Lagos	6.622	3.490	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.062	6.599	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.059	6.576	1	
-Toyin Ebenezer Street	Eti Osa	Lagos	6.469	3.635	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.507	8.537	1	
-Tonyllen Crescent	Uyo	Akwa Ibom	5.019	7.957	1	
 Toluwani Medical Center	Iwo	Osun	7.647	4.190	0	
-Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.994	6.886	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.530	8.578	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.523	8.566	1	
-Toshia	Yunusari	Yobe	13.189	11.881	2	
-Tofa	Ringim	Jigawa	12.157	9.035	2	
-Dumadumi Toka	Kafin Hausa	Jigawa	12.089	9.878	2	
-Toni Kutara	Malam Maduri	Jigawa	12.516	10.016	2	
-Tofa	Bungudu	Zamfara	12.230	6.815	2	
-Tozai	Isa	Sokoto	13.278	6.477	2	
-Tofa	Rabah	Sokoto	13.112	5.420	2	
-Tozai	Illela	Sokoto	13.692	5.401	2	
-Torankawa	Yabo	Sokoto	12.752	4.836	2	
-Tondi	Yauri	Kebbi	10.888	4.742	2	
-Tofa	Tofa	Kano	12.055	8.270	2	
-Dawakin Tofa	Dawakin Tofa	Kano	12.142	8.361	2	
-Toranke	Ajingi	Kano	12.023	9.185	2	
-Tofa	Tofa	Kano	12.025	8.342	2	
-Toto	Toto	Nasarawa	8.262	7.197	2	
-Asari-Toru	Asari-Toru	Rivers	4.753	6.835	2	
-Tobolo	Kaga	Borno	11.574	12.562	2	
-Toro	Toro	Bauchi	10.108	9.274	2	
-Tofu	Misau	Bauchi	11.419	10.421	2	
-Toro	Toro	Bauchi	10.350	9.329	2	
-Akuku Toru	Akuku Toru	Rivers	4.534	6.679	2	

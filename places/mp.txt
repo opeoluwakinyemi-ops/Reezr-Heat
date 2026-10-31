@@ -1,9 +1,20 @@
 Mpan	Mangu	Plateau	9.301	9.188	2	
 Ikot Mpon	Uyo	Akwa Ibom	5.033	7.833	2	Ikot Mbon
-ANWA MPKARANWA	Ukanafun	Akwa Ibom	4.867	7.653	2	
-New Police Station Road Mpape	Municipal Area Council	FCT Abuja	8.957	7.367	0	
+Anwa Mpkaranwa	Ukanafun	Akwa Ibom	4.867	7.653	2	
+Mpu	Aninri	Enugu	5.995	7.647	2	
+Mpape	Municipal Area Council	FCT Abuja	9.142	7.499	2	
+Mpangu	Tarka	Benue	7.543	8.792	2	
+Mpamgbenyi	Ogoja	Cross River	6.513	8.906	2	
+Mpam	Ahiazu-Mbaise	Imo	5.583	7.283	2	
+Mpakurche	Obio/Akpor	Rivers	4.861	7.030	2	
+Mpamaji	Ogoja	Cross River	6.548	8.913	2	Jerusalem
+Ikot Mpon	Itu	Akwa Ibom	5.060	7.912	2	Ikot Mbon
+Mpambeku	Ogoja	Cross River	6.532	8.857	2	Mpumbeku
+Mpamaji	Ogoja	Cross River	6.567	8.897	2	
+Mpambekwel	Ogoja	Cross River	6.543	8.876	2	
+Mpam Bentem	Ogoja	Cross River	6.515	8.861	2	
 Mpape - Shishipe	Municipal Area Council	FCT Abuja	9.144	7.504	1	
-Wurno Community Primary Health Center	Tafawa-Balewa	Bauchi	9.799	9.892	0	Burda Mph
-Mpape - Shishipe	Municipal Area Council	FCT Abuja	9.152	7.514	1	
 Mpape - Shishipe	Municipal Area Council	FCT Abuja	9.161	7.519	1	
+New Police Station Road Mpape	Municipal Area Council	FCT Abuja	8.957	7.367	0	
+Wurno Community Primary Health Center	Tafawa-Balewa	Bauchi	9.799	9.892	0	Burda Mph
 MPH	Awka North	Anambra	6.244	7.117	0	

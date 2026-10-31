@@ -1,3 +1,15 @@
+Ukpata	Uzo-Uwani	Enugu	6.640	7.171	3	Ukpata;Okpatu
+Enugwu-Ukwu	Njikoka	Anambra	6.171	7.005	3	
+Issele Uku	Aniocha North	Delta	6.316	6.477	3	
+Ukpor	Nnewi South	Anambra	5.943	6.929	3	Upor
+Udung Uko	Udung Uko	Akwa Ibom	4.760	8.244	3	
+Ogwashi-Uku	Aniocha South	Delta	6.182	6.533	3	Ogwashi-Ukwu
+Igbo-Ukwu	Aguata	Anambra	6.016	7.026	3	
+Ukpo	Dunukofia	Anambra	6.214	6.967	3	Ukpo-Akpu
+Ogwashi-Uku	Aniocha South	Delta	6.178	6.525	3	Ogvashi-Uku|Ugwashi-Uku
+Issele-Uku	Aniocha North	Delta	6.316	6.476	3	
+Enugu-Ukwu	Njikoka	Anambra	6.171	7.005	3	Enugu|Enugwu-Ukwu
+Afam	Oyigbo	Rivers	4.790	7.312	3	Afam Uka|Afam Uko|Afam-Uku
 Ukoshie	Obanliku	Cross River	6.555	9.123	2	Ukashie
 Ikot Ukpong Manta	Oruk Anam	Akwa Ibom	4.685	7.560	2	
 Ubulu-uku	Aniocha South	Delta	6.234	6.446	2	
@@ -11,11 +23,9 @@ Abo-Ogwashi Ukwu	Aniocha South	Delta	6.165	6.563	2	Abo-Ogwashi-Ukwu
 Agburu Uke	Obi Ngwa	Abia	5.050	7.434	2	
 Ukphototen	Owan West	Edo	6.933	5.867	2	Ukpototen
 Ovwakwa	Ughelli South	Delta	5.383	5.833	2	Ukwakwa
-Ukpata	Uzo-Uwani	Enugu	6.640	7.171	3	Ukpata;Okpatu
 Ukwodoko	Ankpa	Kogi	7.405	7.852	2	Okodoko
 Kominio/Ukhomunyio	Etsako East	Edo	7.291	6.381	2	
 Afaha Ukwa	Eket	Akwa Ibom	4.631	7.947	2	Afaha Uqua
-Enugwu-Ukwu	Njikoka	Anambra	6.171	7.005	3	
 Ukap Itak	Uyo	Akwa Ibom	5.067	7.817	2	
 Afam	Oyigbo	Rivers	4.817	7.317	2	Afam Uko;Afam Uka;Afam-Uku
 Ukuko	Urue Offong/Oruko	Akwa Ibom	4.774	8.197	2	
@@ -24,13 +34,11 @@ Ukata	Mariga	Niger	10.834	5.828	2
 Uku-Nzu	Aniocha North	Delta	6.384	6.473	2	
 Ikot Ukpong Edem	Oruk Anam	Akwa Ibom	4.738	7.676	2	Ikot Ukpong Eden
 Ikot Ukpo Inua	Ikot Abasi	Akwa Ibom	4.596	7.608	2	
-Issele Uku	Aniocha North	Delta	6.316	6.477	3	
 Ukambu	Wamba	Nasarawa	8.968	8.680	2	
 Ungua Toro	Babura	Jigawa	12.689	8.906	2	Uku Dasisi
-Ukpor	Nnewi South	Anambra	5.943	6.929	3	Upor
 Ukpom Anwana	Ikono	Akwa Ibom	5.217	7.767	2	Ukpom
 Ukpokiti	Warri South	Delta	5.629	5.626	2	
-Udung Uko	Udung Uko	Akwa Ibom	4.760	8.244	3	
+Zaure Uku	Bali	Taraba	8.483	11.400	2	Zaure Uke
 Mbukpo Uko Akai	Urue Offong/Oruko	Akwa Ibom	4.739	8.196	2	
 Ukuru	Mariga	Niger	10.373	5.984	2	
 Ukolo	Ngaski	Kebbi	10.576	4.637	2	
@@ -41,12 +49,10 @@ Umuomayi Uku	Isiala-Ngwa South	Abia	5.423	7.416	2
 Ikot Ukwak	Biase	Cross River	5.324	8.043	2	Ikot Ukwuk
 Ukukwa	Awka North	Anambra	6.260	7.136	2	Ukukwa-Amanse
 Ukwulu	Dunukofia	Anambra	6.275	6.965	2	
-Ogwashi-Uku	Aniocha South	Delta	6.182	6.533	3	Ogwashi-Ukwu
 Ukpom Usung Ubom	Ikono	Akwa Ibom	5.233	7.750	2	Ukpom Usung Ubon
 Uki	Fufore	Adamawa	9.083	12.567	2	Uke
 Ukpiovwi	Udu	Delta	5.445	5.845	2	Ukpovwi
 Ukan	Okpe	Delta	5.603	5.859	2	Ukan Market;Odiete Market
-Igbo-Ukwu	Aguata	Anambra	6.016	7.026	3	
 Ukat Aran	Nsit Ubium	Akwa Ibom	4.735	7.969	2	
 Ukpo Akpu	Njikoka	Anambra	6.198	6.971	2	
 Ukhun	Esan West	Edo	6.807	6.175	2	Ukun
@@ -65,8 +71,6 @@ Ukana Akpa Utong	Essien Udim	Akwa Ibom	5.100	7.718	2
 Ukana Iba	Essien Udim	Akwa Ibom	5.111	7.721	2	
 Ukanafun	Ukanafun	Akwa Ibom	5.003	7.744	2	
 Ukut Ata	Abak	Akwa Ibom	5.004	7.716	2	
-SCIENCE PROJECT PRI and SEC SCHOOL, UNGUWA UKU	Tarauni	Kano	11.958	8.562	0	
-Delta State Polytechnic, Ogwashi-Uku	Aniocha South	Delta	6.225	6.571	0	
 Ukubio	Southern Ijaw	Bayelsa	4.688	5.834	2	
 Rimi Uku	Rano	Kano	11.549	8.571	2	
 Ukperede	Ahoada West	Rivers	5.085	6.537	2	
@@ -77,6 +81,284 @@ Ukpodu	Etsako Central	Edo	6.804	6.598	2
 Ozara-Ukwu	Afikpo North	Ebonyi	5.901	7.908	2	
 Uke	Idemili North	Anambra	6.110	6.919	2	
 Ukpabi Nimbo	Uzo-Uwani	Enugu	6.767	7.237	2	
+Unguwa Uku Kauyen Alu	Tarauni	Kano	11.956	8.574	2	
+Unguwa Uku Cikin Gari	Tarauni	Kano	11.957	8.564	2	
+Ukwa East	Ukwa East	Abia	4.937	7.403	2	
+Ukwuani	Ukwuani	Delta	5.849	6.252	2	
+Ukanafun	Ukanafun	Akwa Ibom	4.904	7.606	2	
+Ukwa West	Ukwa West	Abia	4.979	7.265	2	
+Ukum	Ukum	Benue	7.608	9.606	2	
+Udung Uko	Udung Uko	Akwa Ibom	4.751	8.263	2	
+Wendu-Uki	Fufore	Adamawa	9.063	12.574	2	Wendu Uki
+Umu Ukpo	Etche	Rivers	5.150	7.183	2	
+Umu Okoro Uku	Isiala-Ngwa North	Abia	5.250	7.400	2	
+Umu Ohie Uku	Ngor-Okpala	Imo	5.317	7.250	2	
+Umu Iku Uko	Omumma	Rivers	5.093	7.262	2	
+Umu-Eze Uku	Isiala-Ngwa South	Abia	5.417	7.458	2	
+Ukywl-Amu	Konshisha	Benue	7.187	8.586	2	
+Ukwu-Nzu	Aniocha North	Delta	6.387	6.479	2	Uku-Nzu
+Ukwu-Abwa	Anambra East	Anambra	6.230	6.807	2	
+Ukwu	Aniocha South	Delta	6.046	6.488	2	
+Ukworoko	Nsukka	Enugu	6.964	7.281	2	
+Ukwole	Wamba	Nasarawa	8.883	8.733	2	
+Ukwa-Nkasi	Odukpani	Cross River	5.502	7.970	2	
+Ukwa	Ukanafun	Akwa Ibom	4.816	7.533	2	
+Ukusu	Rafi	Niger	10.400	6.300	2	
+Ukushiwura	Gombi	Adamawa	10.136	12.602	2	
+Ukuru	Mariga	Niger	10.373	5.986	2	
+Ukuowhe	Isoko South	Delta	5.369	6.177	2	
+Ukum	Takum	Taraba	7.388	10.114	2	
+Uku da Sisi	Sule Tankakar	Jigawa	12.548	9.084	2	
+Ukuba	Agwara	Niger	10.761	4.587	2	
+Ukpulugu	Nkanu East	Enugu	6.379	7.604	2	
+Ukuani-Iyegbu	Oshimili North	Delta	6.385	6.619	2	
+Ukpom Usung Ubom	Ikono	Akwa Ibom	5.226	7.759	2	Ukpom Usung Ubon
+Ukpom Ikot Ntuen	Ikono	Akwa Ibom	5.245	7.755	2	
+Ukome-Isieke	Umuahia North	Abia	5.563	7.542	2	
+Ukpom	Oruk Anam	Akwa Ibom	4.883	7.757	2	
+Ukpom	Oruk Anam	Akwa Ibom	4.699	7.650	2	
+Ukpo	Awe	Nasarawa	8.307	9.179	2	
+Okpo	Igbo-Eze-North	Enugu	7.059	7.477	2	Ukpo
+Ukpiam	Guma	Benue	7.969	8.636	2	
+Ukpe	Gwer West	Benue	7.464	8.176	2	
+Ukpe	Akoko South East	Ondo	7.416	5.851	2	
+Ukpe	Konshisha	Benue	7.308	8.597	2	
+Ukpap-Itak	Ikono	Akwa Ibom	5.075	7.822	2	Ukap Itak
+Ukpana	Onna	Akwa Ibom	4.588	7.829	2	
+Ukpan	Oturkpo	Benue	7.367	8.117	2	
+Ukpam	Ushongo	Benue	7.042	8.930	2	
+Ukpakiri	Obi Ngwa	Abia	5.108	7.431	2	
+Ukpah-Ribo	Bekwarra	Cross River	6.626	8.916	2	
+Ukpah	Bekwarra	Cross River	6.646	8.872	2	
+Ukpagada	Ogoja	Cross River	6.568	8.734	2	
+Ukpada	Bekwarra	Cross River	6.715	8.901	2	
+Ukpabi-Nimbo	Uzo-Uwani	Enugu	6.800	7.148	2	
+Uko Udo	Ukanafun	Akwa Ibom	4.858	7.532	2	
+Ukor	Doma	Nasarawa	8.230	8.464	2	
+Ukor	Markurdi	Benue	7.886	8.509	2	
+Uko Ntigha	Mbo	Akwa Ibom	4.645	8.227	2	
+Ukoni	Esan North-East	Edo	6.718	6.363	2	
+Ukon	Konshisha	Benue	7.201	8.550	2	
+Uko Itak	Urue Offong/Oruko	Akwa Ibom	4.720	8.221	2	
+Ukoi	Gboko	Benue	7.439	8.724	2	
+Ukodu	Ahoada West	Rivers	5.188	6.557	2	
+Ukinkina	Birnin Gwari	Kaduna	10.650	6.350	2	
+Ukim Ita	Odukpani	Cross River	5.016	8.257	2	
+Ukeyima	Kwande	Benue	6.589	9.566	2	
+Ukend	Ogoja	Cross River	6.593	8.740	2	
+Ukem Ikot Ekpo Ene	Odukpani	Cross River	5.073	8.218	2	
+Ukema	Gwer East	Benue	7.320	8.218	2	
+Ukehe	Igbo-Etiti	Enugu	6.652	7.412	2	
+Uke	Aninri	Enugu	5.982	7.645	2	
+Ukat	Nsit Ibom	Akwa Ibom	4.958	7.881	2	
+Ukange	Konshisha	Benue	7.320	8.556	2	
+Ukanga	Ikom	Cross River	6.045	8.575	2	
+Ukana	Udi	Enugu	6.510	7.407	2	
+Ukana	Abak	Akwa Ibom	5.048	7.788	2	
+Ukan	Ikot Abasi	Akwa Ibom	4.626	7.584	2	
+Okambu	Wamba	Nasarawa	8.958	8.727	2	Ukambu
+Ukambo	Birnin Gwari	Kaduna	11.014	6.344	2	
+Ukam	Mkpat Enin	Akwa Ibom	4.662	7.785	2	
+Ukaado	Gwer East	Benue	7.347	8.529	2	
+Ukaa	Lafia	Nasarawa	8.420	8.863	2	
+Udun Ukpo	Urue Offong/Oruko	Akwa Ibom	4.689	8.160	2	
+Tudu Uku	Toto	Nasarawa	8.519	7.448	2	
+Ruwa Uku	Warji	Bauchi	11.094	9.784	2	
+Oru Ukwa	Biase	Cross River	5.518	8.022	2	
+Onicha-Ukwu	Aniocha North	Delta	6.367	6.464	2	
+Okuko	Urue Offong/Oruko	Akwa Ibom	4.775	8.194	2	Ukuko
+Okubie	Southern Ijaw	Bayelsa	4.686	5.836	2	Ikubio|Okubio|Ukubio
+Umokpara	Udi	Enugu	6.561	7.413	2	Okpata|Okpatu|Okpatu-Ukehe
+Okpata	Uzo-Uwani	Enugu	6.640	7.170	2	Okpatu|Ukpata
+Ukya	Toto	Nasarawa	8.450	7.031	2	Okia
+Ogwashi-Uku-Junction	Aniocha South	Delta	6.248	6.608	2	
+Obete Uku	Obi Ngwa	Abia	5.073	7.510	2	
+Nung Ukot	Itu	Akwa Ibom	5.050	7.902	2	
+Nung Ukim Ikot Esien	Ikono	Akwa Ibom	5.276	7.767	2	Ikot Esien|Nung Ukim
+Nung Ukim	Abak	Akwa Ibom	5.003	7.825	2	
+Nung Ukana	Ibesikpo Asutan	Akwa Ibom	4.923	7.955	2	
+Ukputuke	Isiala-Ngwa North	Abia	5.314	7.415	2	Nkputuke
+Ndi-Uduma Ukwu	Ohafia	Abia	5.644	7.793	2	
+Mbiabong	Odukpani	Cross River	5.475	7.968	2	Ukwa
+Mbiabong	Uyo	Akwa Ibom	5.011	7.839	2	Ukwa
+Loli Uki	Fufore	Adamawa	9.052	12.541	2	
+Itu Ukpa	Obi Ngwa	Abia	5.167	7.467	2	
+Ikot Ukporo	Ibiono Ibom	Akwa Ibom	5.287	7.860	2	
+Ikot Ukpong	Obot Akara	Akwa Ibom	5.223	7.639	2	
+Ikot Ukpong	Etinan	Akwa Ibom	4.740	7.872	2	
+Ikot Ukpo Mua	Ikot Abasi	Akwa Ibom	4.594	7.609	2	
+Ikot Uko	Ini	Akwa Ibom	5.409	7.642	2	
+Ifite-Ukpo	Dunukofia	Anambra	6.201	6.956	2	Ifita Ukpo
+Ibiaku Ikot Ukpong	Ibiono Ibom	Akwa Ibom	5.064	7.854	2	
+Etok Nung Ukim	Mkpat Enin	Akwa Ibom	4.734	7.707	2	
+Ekpene Ukim	Nsit Ubium	Akwa Ibom	4.733	8.019	2	
+Ebam Ukot	Ini	Akwa Ibom	5.397	7.747	2	
+Asia Umu Nka	Ugwunagbo	Abia	5.047	7.322	2	Asia Umu-Ukia
+Ama-Uke	Ohafia	Abia	5.631	7.858	2	
+Ali-Ukwa	Odukpani	Cross River	5.465	7.955	2	
+Agburu Uke	Obi Ngwa	Abia	5.200	7.483	2	
+Agburu Uke	Obi Ngwa	Abia	5.134	7.478	2	
+Agburu-Uke	Obi Ngwa	Abia	5.050	7.433	2	
+Afo-Ukwu	Bende	Abia	5.721	7.630	2	
+Afam Uku	Tai	Rivers	4.783	7.317	2	
+Adiabo Ikot Ukpa	Odukpani	Cross River	5.090	8.248	2	
+UBULU UKU ( Ubulu Ezemu)	Aniocha South	Delta	6.234	6.448	2	Abuluku|Ubulu-Uku
+Aboh-Ogwashi-Ukwu	Aniocha South	Delta	6.166	6.563	2	Abo-Ogwashi-Ukwu
+Aba Ukpo	Ibesikpo Asutan	Akwa Ibom	4.920	7.935	2	
+Abak Ukpum	Obot Akara	Akwa Ibom	5.179	7.594	2	
+Ukpa	Oju	Benue	7.003	8.416	2	
+Ukpute	Gwer East	Benue	7.085	8.395	2	
+Ukuse	Gwer East	Benue	7.266	8.340	2	
+Ukanan	Gwer East	Benue	7.422	8.331	2	
+Ukwe	Gwer East	Benue	7.593	8.357	2	
+Ukegh	Gwer West	Benue	7.661	8.173	2	
+Ukim Ita	Odukpani	Cross River	5.030	8.239	2	
+Ukpakata	Odukpani	Cross River	5.038	8.273	2	
+Ukem Ikot Nyong	Odukpani	Cross River	5.070	8.215	2	
+Esuk Ukot Ebi	Odukpani	Cross River	5.154	8.131	2	
+Ukip	Odukpani	Cross River	5.298	8.006	2	
+Ukwa	Odukpani	Cross River	5.469	8.011	2	
+Ukpe	Ogoja	Cross River	6.541	8.763	2	
+Oro Ukun	Akpabuyo	Cross River	5.000	8.396	2	
+Ukolo	Ngaski	Kebbi	10.572	4.632	2	
+Ukolo	Ngaski	Kebbi	10.592	4.669	2	
+Ukunuse	Ethiope East	Delta	5.715	5.968	2	
+Ukpatatube	Southern Ijaw	Bayelsa	4.784	5.845	2	Okparatubo
+Ikot-Uko	Ika	Akwa Ibom	4.969	7.482	2	
+Iwuo-Ukem	Etim Ekpo	Akwa Ibom	4.943	7.491	2	
+Afam-Uku	Oyigbo	Rivers	4.790	7.311	2	
+Ikot Ukobo	Nsit Ubium	Akwa Ibom	4.752	7.904	2	
+Ukat	Onna	Akwa Ibom	4.647	7.871	2	
+Nung Ukim	Mkpat Enin	Akwa Ibom	4.742	7.761	2	
+Eka Nung Ukim	Mkpat Enin	Akwa Ibom	4.710	7.687	2	
+Ikot Akpan Ukam	Mkpat Enin	Akwa Ibom	4.653	7.767	2	
+Ikot Obong Ukam	Mkpat Enin	Akwa Ibom	4.649	7.775	2	
+Ikot-Ukpong	Ibiono Ibom	Akwa Ibom	5.052	7.857	2	
+Ndi-Ukwu	Umu-Nneochi	Abia	5.929	7.269	2	
+Ake-Eze Ukwu	Ivo	Ebonyi	5.917	7.704	2	
+Ikot Ukpong	Ini	Akwa Ibom	5.368	7.789	2	
+Ikot Ukpon	Obot Akara	Akwa Ibom	5.210	7.637	2	Ikot Ukpong
+Okpu Ala Uku	Osisioma Ngwa	Abia	5.258	7.351	2	
+Ukana	Essien Udim	Akwa Ibom	5.124	7.773	2	
+Ahia Ukwu	Umuahia South	Abia	5.489	7.505	2	
+Ukpom	Ikwuano	Abia	5.497	7.595	2	
+Ewen-Ukwa	Odukpani	Cross River	5.470	7.989	2	
+Ukuakpu	Arochukwu	Abia	5.427	7.900	2	
+Ezi Uku	Ikwuano	Abia	5.410	7.544	2	
+Ukwuke Oronta	Ikwuano	Abia	5.424	7.541	2	
+Obot-Ukpa	Ini	Akwa Ibom	5.403	7.834	2	
+Ukwuok	Ini	Akwa Ibom	5.305	7.778	2	
+Ikot-Ukana	Obot Akara	Akwa Ibom	5.276	7.606	2	
+Ikot Ubo Ikot-Uko	Ibiono Ibom	Akwa Ibom	5.261	7.890	2	
+Obot-Ukim	Ibiono Ibom	Akwa Ibom	5.260	7.910	2	
+Ukpom Usung Ubon	Ikono	Akwa Ibom	5.240	7.741	2	
+Ikot Ukana	Ibiono Ibom	Akwa Ibom	5.215	7.891	2	
+Ikot Ukap	Itu	Akwa Ibom	5.155	7.957	2	
+Ikot Ukpon Eto	Essien Udim	Akwa Ibom	5.154	7.631	2	
+Ikot Ukono	Itu	Akwa Ibom	5.108	7.946	2	
+Ukana Ikot Ofok	Essien Udim	Akwa Ibom	5.111	7.742	2	
+Ukana Ikot Akpan	Essien Udim	Akwa Ibom	5.088	7.737	2	
+Nto Ukara	Ika	Akwa Ibom	5.016	7.553	2	
+Ukpom	Abak	Akwa Ibom	5.020	7.826	2	
+Ama-Ukwu	Ohafia	Abia	5.693	7.671	2	
+Ukpom	Bende	Abia	5.513	7.604	2	
+Uke	Esan West	Edo	6.732	6.098	2	
+Ukpenu	Esan West	Edo	6.729	6.122	2	Urpene|Urpeno
+Edo-Ogwashi-Uku	Aniocha South	Delta	6.260	6.554	2	Abo-Ogwashi-Ukwu
+Ukpor	Ihiala	Anambra	5.908	6.934	2	
+Ukwugba	Ohaji/Egbema	Imo	5.554	6.755	2	
+Ukpemo Camp	Ndokwa East	Delta	5.432	6.368	2	
+Ukpude	Isoko South	Delta	5.409	6.322	2	
+Ukwuisik Camp	Ogba/Egbema/Ndoni	Rivers	5.540	6.592	2	
+Ukpremini	Ahoada East	Rivers	5.171	6.713	2	
+Ukperede	Ahoada West	Rivers	5.083	6.536	2	
+Ukwa East	Ukwa East	Abia	4.900	7.367	2	Agbegbe Ijoba Ibile Ilaorun Ukwa|Skhidna Ukva|Tang Ukwa|Ukva-Ist|Ukwa Est|Ukwa ta Gabas
+Ukwa West	Ukwa West	Abia	4.954	7.239	2	Agbegbe Ijoba Ibile Iwoorun Ukwa|Se Ukwa|Ukwa Ouest|Ukwa ta Yamma|Zakhidna Ukva
+Ukanafun	Ukanafun	Akwa Ibom	4.897	7.597	2	Agbegbe Ijoba Ibile Ukanafun|Ukanafun Local Government Area
+Udung Uko	Udung Uko	Akwa Ibom	4.752	8.265	2	Udung Uko Local Government Area|Udung-Uko
+Ukum	Ukum	Benue	7.644	9.564	2	Agbegbe Ijoba Ibile Ukum|Ukum Local Government Area
+Ukume	Udi	Enugu	6.544	7.259	2	
+Ukpaku	Konshisha	Benue	7.275	8.494	2	
+Ukorho	Gwer East	Benue	7.285	8.437	2	
+Ukpee	Gwer East	Benue	7.172	8.350	2	
+Ukwanyim	Ikwo	Ebonyi	6.044	8.226	2	
+Ukabichi	Gwer West	Benue	7.647	8.093	2	
+Ukpuengwa	Gwer West	Benue	7.561	8.107	2	
+Ukpanya	Gwer West	Benue	7.721	8.256	2	
+Uko	Markurdi	Benue	7.734	8.493	2	
+Tse-Ukuhumbe	Gwer West	Benue	7.643	8.340	2	
+Ukusa	Buruku	Benue	7.587	9.058	2	
+Ukar	Logo	Benue	7.600	9.141	2	
+Ukum	Buruku	Benue	7.502	9.132	2	
+Ukpera	Logo	Benue	7.649	9.216	2	
+Ukange	Logo	Benue	7.562	9.358	2	
+Ukor	Logo	Benue	7.539	9.344	2	
+Ukor	Ukum	Benue	7.700	9.417	2	
+Uke	Ukum	Benue	7.702	9.500	2	
+Ukoom	Ukum	Benue	7.697	9.463	2	
+Ukor	Wukari	Taraba	7.992	9.964	2	
+Ukende	Ukum	Benue	7.721	9.584	2	
+Ukar	Ukum	Benue	7.702	9.614	2	
+Ukume	Ukum	Benue	7.684	9.658	2	
+Ukor	Ukum	Benue	7.660	9.700	2	
+Ukuka	Ukum	Benue	7.590	9.750	2	
+Ukpen	Wukari	Taraba	7.682	9.834	2	
+Ukpe	Donga	Taraba	7.647	9.898	2	
+Ukana	Takum	Taraba	7.581	9.898	2	
+Ukusa	Donga	Taraba	7.612	9.977	2	
+Ukula	Buruku	Benue	7.496	9.025	2	
+Ukase	Gboko	Benue	7.478	9.048	2	
+Uka	Gboko	Benue	7.297	9.000	2	
+Ukange	Buruku	Benue	7.413	9.176	2	
+Uke	Buruku	Benue	7.410	9.138	2	
+Ukuma	Gboko	Benue	7.350	9.121	2	
+Uke	Gboko	Benue	7.353	9.141	2	
+Ukpe	Gboko	Benue	7.283	9.116	2	
+Ukaha	Buruku	Benue	7.360	9.194	2	
+Ukura	Buruku	Benue	7.352	9.193	2	
+Ukor	Buruku	Benue	7.340	9.207	2	
+Ukwye	Katsina-Ala	Benue	7.441	9.337	2	
+Uka	Katsina-Ala	Benue	7.274	9.312	2	
+Ukum	Katsina-Ala	Benue	7.445	9.457	2	
+Ukpo	Katsina-Ala	Benue	7.442	9.501	2	
+Uke	Ushongo	Benue	7.145	9.049	2	
+Ukwa	Vandeikya	Benue	7.001	9.044	2	
+Ukpa	Buruku	Benue	7.229	9.206	2	
+Ukpen	Buruku	Benue	7.197	9.206	2	
+Ukaa	Buruku	Benue	7.182	9.209	2	
+Ukaa	Katsina-Ala	Benue	7.250	9.352	2	
+Ukange	Ushongo	Benue	7.139	9.320	2	
+Ukumu	Katsina-Ala	Benue	7.208	9.385	2	
+Ukpera	Katsina-Ala	Benue	7.174	9.371	2	
+Uke	Katsina-Ala	Benue	7.169	9.397	2	
+Uke	Gboko	Benue	7.495	8.893	2	
+Ukor	Gboko	Benue	7.465	8.898	2	
+Ukaa	Gboko	Benue	7.462	8.940	2	
+Uke	Gboko	Benue	7.466	8.939	2	
+Ukula	Gboko	Benue	7.461	8.935	2	
+Ukesa	Gboko	Benue	7.424	8.936	2	
+Ukende	Gboko	Benue	7.425	8.893	2	
+Ukor	Gboko	Benue	7.390	8.757	2	
+Ukan	Gboko	Benue	7.337	8.958	2	
+Kona Uku	Jada	Adamawa	8.706	12.165	2	
+Papa-Uku Olusanya	Agege	Lagos	6.621	3.322	2	
+Tudu Uku	Karu	Nasarawa	9.071	7.948	2	
+Tudu Uku	Karu	Nasarawa	9.046	7.925	2	
+Ukhiodo-Maternity	Esan Central	Edo	6.805	6.234	2	
+Ukpoke-Ezomo	Esan North-East	Edo	6.721	6.388	2	
+Ukhuanlen	Esan South-East	Edo	6.649	6.435	2	
+Ukpaja	Esan South-East	Edo	6.650	6.406	2	
+Uki-Sama	Fufore	Adamawa	9.057	12.517	2	Uki Sama
+Gapsin-Uki	Fufore	Adamawa	9.072	12.590	2	Gapsin Uki
+Ukpalan	Keana	Nasarawa	8.251	8.543	2	
+Ukehemba	Guma	Benue	8.022	8.567	2	
+Ukpate	Wamba	Nasarawa	8.922	8.665	2	
+Ukaya	Wamba	Nasarawa	8.914	8.615	2	
+Ukwaa	Lafia	Nasarawa	8.630	8.691	2	
+Gidan Ukoh	Nasarawa	Nasarawa	8.209	8.109	2	
+Ukpute	Oju	Benue	7.018	8.446	2	
+Ukpah	Bekwarra	Cross River	6.650	8.906	2	
+Tudu-Uku	Toto	Nasarawa	8.496	7.486	2	
 Ukhegie Street	Oredo	Edo	6.348	5.614	1	
 Ukunbor Lane	Oredo	Edo	6.326	5.612	1	
 Ukhiri Palace Road	Ikpoba-Okha	Edo	6.246	5.738	1	
@@ -86,7 +368,6 @@ Ifite Ukpo Street	Oshodi/Isolo	Lagos	6.511	3.309	1
 Justice Rose Ukeje Street	Eti Osa	Lagos	6.428	3.465	1	
 Ukanafun Street	Municipal Area Council	FCT Abuja	9.031	7.479	1	
 Uke Street	Municipal Area Council	FCT Abuja	9.036	7.495	1	
-Uke Street	Municipal Area Council	FCT Abuja	9.035	7.496	1	
 Nnanna Ukaegbu Street	Municipal Area Council	FCT Abuja	8.972	7.502	1	
 Ukpabi Asika Street	Municipal Area Council	FCT Abuja	9.055	7.527	1	
 Ukana Street	Enugu North	Enugu	6.475	7.482	1	
@@ -105,7 +386,6 @@ Ukah Lane	Enugu East	Enugu	6.467	7.569	1
 Ukwulu Street	Enugu East	Enugu	6.474	7.524	1	
 Chief Kalu Ukiwe Street	Enugu East	Enugu	6.485	7.478	1	
 Ukpatu Street	Enugu East	Enugu	6.473	7.580	1	
-Chief Kalu Ukiwe Street	Enugu East	Enugu	6.486	7.478	1	
 Ukwunna Street	Enugu East	Enugu	6.487	7.518	1	
 Ifite Ukpo Avenue	Enugu North	Enugu	6.457	7.531	1	
 Ukpor Street	Enugu North	Enugu	6.454	7.520	1	
@@ -119,19 +399,15 @@ Ukwulu Street	Enugu East	Enugu	6.476	7.503	1
 Ukehe Street	Enugu North	Enugu	6.450	7.533	1	
 Ukehe Close	Enugu East	Enugu	6.475	7.581	1	
 Ukwulu Close	Enugu East	Enugu	6.490	7.506	1	
-UKHIRI HEALTH CENTRE	Ikpoba-Okha	Edo	6.255	5.724	0	
-UKHIRI PRIMARY SCHOOL	Ikpoba-Okha	Edo	6.252	5.731	0	
 Hadi Ukashatu Close	Nassarawa	Kano	12.005	8.570	1	
-Unguwar Uku Primary Health Centre	Tarauni	Kano	11.958	8.561	0	
 Ukhun-Idoa Rd	Esan West	Edo	6.752	6.153	1	
 Ukaegbu Road	Aba North	Abia	5.119	7.389	1	
 ekpene ukim road	Nsit Atai	Akwa Ibom	4.877	8.052	1	
 Uke Road	Esan West	Edo	6.738	6.102	1	
 Ukpenu Road	Esan West	Edo	6.742	6.136	1	
-ekpene ukim road	Nsit Atai	Akwa Ibom	4.901	8.037	1	
 Mazi Ukodike Ibe Street	Eti Osa	Lagos	6.482	3.583	1	
 Uku Close	Uvwie	Delta	5.562	5.752	1	
-UKHERE STREET	Oredo	Edo	6.293	5.562	1	
+Ukhere Street	Oredo	Edo	6.293	5.562	1	
 Uke Road	Esan West	Edo	6.734	6.096	1	
 Ukaka Street	Aba North	Abia	5.117	7.354	1	
 Ukubie Street	Port-Harcourt	Rivers	4.802	7.005	1	
@@ -142,21 +418,18 @@ Uko Street	Aba South	Abia	5.097	7.356	1
 Ebitu Ukiwe Street	Municipal Area Council	FCT Abuja	9.064	7.423	1	
 Ukpebor Osayande Street	Ikpoba-Okha	Edo	6.210	5.648	1	
 Cyril Ukpaka Close	Eti Osa	Lagos	6.479	3.607	1	
-Ukponmwan Foudation Hospital	Oredo	Edo	6.345	5.628	0	
-Ukwugba Community School Egbema	Ohaji/Egbema	Imo	5.555	6.754	0	
-Ukwu Ebelebe	Njaba	Imo	5.684	7.024	0	
 Chief Ndukwe Ukpai Memorial Close	Owerri Municipal	Imo	5.477	6.994	1	
 Ukodhiko Jonathan Street	Municipal Area Council	FCT Abuja	8.989	7.466	1	
 ekpene ukim road	Nsit Atai	Akwa Ibom	4.862	8.059	1	
 ekpene ukim road	Nsit Atai	Akwa Ibom	4.845	8.052	1	
+SCIENCE PROJECT PRI and SEC SCHOOL, UNGUWA UKU	Tarauni	Kano	11.958	8.562	0	
+Delta State Polytechnic, Ogwashi-Uku	Aniocha South	Delta	6.225	6.571	0	
+Ukhiri Health Centre	Ikpoba-Okha	Edo	6.255	5.724	0	
+Ukhiri Primary School	Ikpoba-Okha	Edo	6.252	5.731	0	
+Unguwar Uku Primary Health Centre	Tarauni	Kano	11.958	8.561	0	
+Ukponmwan Foudation Hospital	Oredo	Edo	6.345	5.628	0	
+Ukwugba Community School Egbema	Ohaji/Egbema	Imo	5.555	6.754	0	
+Ukwu Ebelebe	Njaba	Imo	5.684	7.024	0	
 Ukhua Primary School	Etsako East	Edo	7.138	6.586	0	
 Okpodi Ukhua Primary School	Etsako East	Edo	7.139	6.599	0	
 Ihie Ukwu Primary Health Care Center	Ugwunagbo	Abia	5.007	7.309	0	
-Unguwa Uku Kauyen Alu	Tarauni	Kano	11.956	8.574	2	
-Unguwa Uku Cikin Gari	Tarauni	Kano	11.957	8.564	2	
-Ukwa East	Ukwa East	Abia	4.937	7.403	2	
-Ukwuani	Ukwuani	Delta	5.849	6.252	2	
-Ukanafun	Ukanafun	Akwa Ibom	4.904	7.606	2	
-Ukwa West	Ukwa West	Abia	4.979	7.265	2	
-Ukum	Ukum	Benue	7.608	9.606	2	
-Udung Uko	Udung Uko	Akwa Ibom	4.751	8.263	2	

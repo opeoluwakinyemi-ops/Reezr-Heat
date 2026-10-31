@@ -1,3 +1,18 @@
+Arogbo	Ese Odo	Ondo	6.260	4.997	3	
+Argungu	Argungu	Kebbi	12.748	4.527	3	
+Arochukwu	Arochukwu	Abia	5.388	7.907	3	Arochuku
+Omu Aran	Irepodun	Kwara	8.139	5.101	3	
+Armatawa	Garum Mallam	Kano	11.636	8.404	3	
+Ungogo Arewa	Ungongo	Kano	12.092	8.495	3	Ungogo
+Unguwar Arewa	Wudil	Kano	11.791	8.835	3	
+Araromi Obo Ekiti	Irepodun/Ifelodun	Ekiti	7.685	5.325	3	
+Omu-Aran	Irepodun	Kwara	8.134	5.100	3	Omu
+Jama’are	Jama'Are	Bauchi	11.670	9.928	3	Jama'are|Jamaare|Jamaari|Jemma'are
+Araromi-Opin	Ekiti	Kwara	8.065	5.256	3	Araromi-Osi
+Aramoko-Ekiti	Ekiti West	Ekiti	7.705	5.041	3	Ara|Aramoko|Araomoko Ekiti
+Ariaria	Aba North	Abia	5.112	7.335	2	
+Area 1	Municipal Area Council	FCT Abuja	9.040	7.480	2	
+Area 11	Municipal Area Council	FCT Abuja	9.040	7.490	2	
 Gounki Arjika	Arewa Dandi	Kebbi	12.251	3.656	2	
 Rigal Arda	Magaria	Katsina	13.086	8.504	2	
 Arouwou-Goumsouri	Diffa	Borno	13.328	12.729	2	
@@ -12,10 +27,8 @@ Opu Arugbana	Degema	Rivers	4.642	7.011	2
 Arawsaya	Kebbe	Sokoto	11.817	4.594	2	
 Ungwan Ardua	Kalgo	Kebbi	12.342	4.169	2	
 Olude	Ido	Oyo	7.483	3.838	2	Olude;Olude Araromi
-Araromi-Opin	Ekiti	Kwara	8.067	5.250	2	Araromi-Osi
 Arrimakpan	Boki	Cross River	6.129	8.893	2	Arrinokpen;Arrimakpan
 Tungan Arawa	Bagudo	Kebbi	11.423	3.772	2	
-Arogbo	Ese Odo	Ondo	6.260	4.997	3	
 Aragba	Ughelli North	Delta	5.730	6.137	2	
 Avuye	Lapai	Niger	8.333	6.733	2	Aruye
 Jemma’are	Jama'Are	Bauchi	11.667	9.931	2	
@@ -45,7 +58,6 @@ Araromi Jiga	Yewa North	Ogun	6.983	2.983	2
 Ardoram	Magumeri	Borno	12.344	12.659	2	
 Tungan Arawa	Gwandu	Kebbi	12.357	4.527	2	
 Jajjayen-Arna	Shanga	Kebbi	11.368	4.569	2	
-Argungu	Argungu	Kebbi	12.748	4.527	3	
 Araromi Balogun	Aiyedade	Osun	7.050	4.217	2	Araromi Balogun;Araromi
 Arun	Lagelu	Oyo	7.476	3.986	2	
 Aradhe	Isoko North	Delta	5.618	6.300	2	
@@ -55,7 +67,6 @@ Araromi Seaside	Ilaje	Ondo	6.332	4.495	2
 Guidan Ardo	Gusau	Zamfara	12.113	6.658	2	
 Iri Arna	Kajuru	Kaduna	10.123	7.835	2	
 Odo Oro	Ikole	Ekiti	7.806	5.512	2	Odo Ara
-Aramoko-Ekiti	Ekiti West	Ekiti	7.707	5.041	2	
 Araromi	Ose	Ondo	7.003	5.627	2	
 Araromi-Gbadegun	Emure	Ekiti	7.317	5.484	2	
 Nyokebika	Odukpani	Cross River	5.079	8.312	2	Ikot Okon Archibong
@@ -64,17 +75,14 @@ Kugama Ama	Mayo-Belwa	Adamawa	9.150	12.050	2	Kugama Arna
 Araromi	Aiyedade	Osun	7.167	4.367	2	Araromi Owu;Araromi
 Dabiya	Chibok	Borno	10.749	12.732	2	Ardo Sule
 Atijere	Ogun Waterside	Ogun	6.415	4.527	2	Artijere
-Jama’are	Jama'Are	Bauchi	11.667	9.931	2	
 Arum Karimi	Wamba	Nasarawa	9.117	8.650	2	Arum Kurmi;Arum-Karmi
 Tugan Arawa	Borgu	Niger	10.883	4.253	2	
 Gidan Ardo	Gusau	Zamfara	12.112	6.659	2	
 Ungwan Sarkin Arna	Makarfi	Kaduna	11.278	8.100	2	Sarkin Arna
 Ebiet Okon Archibong	Akpabuyo	Cross River	5.030	8.415	2	Archibong
-Arochukwu	Arochukwu	Abia	5.388	7.907	3	Arochuku
 Rarema	Tambuwal	Sokoto	12.600	4.797	2	Arerema
 Arugbana	Degema	Rivers	4.646	7.008	2	
 Ikot Arankere	Ukanafun	Akwa Ibom	4.870	7.655	2	
-Omu Aran	Irepodun	Kwara	8.139	5.101	3	
 Ama Uzu	Kolokuma/Opokuma	Bayelsa	5.183	6.367	2	Ara
 Arowosaiye	Ori Ire	Oyo	8.550	4.200	2	Arrowshaiye
 Aru	Ikwo	Ebonyi	6.093	8.176	2	
@@ -131,16 +139,12 @@ Arowomole	Ìsẹ́yìn	Oyo	7.787	3.500	2
 Arba	Wurno	Sokoto	13.280	5.550	2	
 Gidan Ardo	Shagari	Sokoto	12.630	5.119	2	
 Sirisanga Arawa	Suru	Kebbi	11.582	4.001	2	
-Army Children School Iwo-Road	Ibadan North East	Oyo	7.405	3.936	0	
-Arinze Primary School	Ikpoba-Okha	Edo	6.322	5.632	0	
 Argu Goni Mutti	Mobbar	Borno	13.312	12.731	2	
-Arisen Grace & Faith Schools	Oredo	Edo	6.330	5.632	0	
 Argu	Mobbar	Borno	13.321	12.727	2	
 Archibong	Akpabuyo	Cross River	4.814	8.619	2	
 Yantama Arewa	Doguwa	Kano	10.746	8.613	2	Yantama
 Gyadi-Gyadin Arewa	Tarauni	Kano	11.975	8.541	2	Gyadi Gyadi Arewa
 Fatan Arewa	Tudun Wada	Kano	11.199	8.458	2	
-Mari-ari Health Center	Alkaleri	Bauchi	10.273	10.342	0	
 Army Barrack	Biu	Borno	10.596	12.190	2	
 Arege	Damboa	Borno	11.153	12.761	2	
 Ardo Bayu	Shani	Borno	10.292	11.927	2	
@@ -210,7 +214,6 @@ Jam'are Makeri	Biu	Borno	10.618	11.923	2
 Jama Are	Biu	Borno	10.632	11.913	2	
 Ardo Sanda	Hawul	Borno	10.595	12.049	2	
 Arawi Fulani	Biu	Borno	10.660	12.300	2	
-Ariganbori Clinic	Guzamala	Borno	12.660	13.371	0	
 Fulani Arewa	Biu	Borno	10.685	12.171	2	
 Ardo Dada	Biu	Borno	10.671	12.307	2	
 Ardo Aman	Chibok	Borno	10.865	12.751	2	Babayel
@@ -229,8 +232,6 @@ Arewa	Diffa	Borno	13.500	12.862	2
 Argou I	Diffa	Borno	13.328	12.729	2	
 Chetimari Gremah Artori	Nganzai	Borno	12.637	13.298	2	
 Grema Artori	Diffa	Borno	13.295	12.636	2	
-Oke Ari Health Post	Lagos Island	Lagos	6.460	3.385	0	
-Aribet Ventures Filling Station	Uvwie	Delta	5.569	5.777	0	
 Arasa	Monguno	Borno	12.470	13.682	2	
 Army Barrack	Monguno	Borno	12.701	13.638	2	
 Kelono Modu Arimami	Guzamala	Borno	12.748	13.372	2	
@@ -240,128 +241,1012 @@ La'ari Jamri	Nganzai	Borno	12.574	13.341	2
 Aliari Artobe	Guzamala	Borno	13.029	12.995	2	
 Artori	Guzamala	Borno	12.857	13.050	2	
 Artari	Guzamala	Borno	12.865	13.182	2	
-Arkclinic	Uvwie	Delta	5.544	5.784	0	
 Arori	Konduga	Borno	11.518	12.998	2	
 Ari Ka Amiri	Konduga	Borno	11.602	13.181	2	
 Arnari	Konduga	Borno	11.721	13.457	2	
-Aries Montessori School	Obio/Akpor	Rivers	4.827	7.048	0	
-Arigbau	Ado Odo/Ota	Ogun	6.510	3.081	0	
-Armed Forces Command and Staff College Secondary School, Jaji.	Igabi	Kaduna	10.843	7.561	0	
 Gidan Ardo	Kebbe	Sokoto	12.054	4.856	2	
-Primary health care centre Dabagin Ardo	Dange-Shuni	Sokoto	12.954	5.382	0	
 East Argungu	Argungu	Kebbi	12.744	4.532	2	
 South Argungu	Argungu	Kebbi	12.742	4.522	2	
 North Argungu	Argungu	Kebbi	12.748	4.524	2	
 Ari Arnari	Diffa	Borno	13.219	12.527	2	
-Araromi Omoladun Market	Ifedore	Ondo	7.365	5.174	0	
-Ariyo Ii Market	Odigbo	Ondo	6.847	4.973	0	
-Arigidi Akoko Market	Akoko North West	Ondo	7.564	5.766	0	
-Arimogija Market	Ose	Ondo	6.826	5.708	0	
-Aruna Bus Stop	Ìkòròdú	Lagos	6.625	3.493	0	
 Nnown Ikot Arankere	Ukanafun	Akwa Ibom	4.864	7.652	2	
 Ikot Itike Ikot Arankere	Ukanafun	Akwa Ibom	4.869	7.650	2	
-Arue Secondary School	Esan North-East	Edo	6.737	6.303	0	
 Jama'Ar Manzo	Karaye	Kano	11.684	7.944	2	Ma
 Karar Kwari	Gwarzo	Kano	11.843	7.962	2	Jama’ar Kasa
 Arewawa	Bebeji	Kano	11.409	8.269	2	
-Armatawa	Garum Mallam	Kano	11.636	8.404	3	
 Janguza Army Barrack	Tofa	Kano	11.956	8.390	2	Janguza
 Kofar Arewa	Dawakin Tofa	Kano	12.059	8.392	2	
 Yautar Arewa	Gabasawa	Kano	12.217	8.767	2	
-Ungogo Arewa	Ungongo	Kano	12.092	8.495	3	Ungogo
 Jama'Ar Yan Barkono	Minjibir	Kano	12.186	8.510	2	
 Unguwar Arewa	Ajingi	Kano	12.051	9.003	2	
 Gamarya Arewa	Gaya	Kano	11.898	8.925	2	
 Sabon Gari Arewa	Gaya	Kano	11.805	9.039	2	
-Unguwar Arewa	Wudil	Kano	11.791	8.835	3	
 Sabon Gari Arewa	Wudil	Kano	11.797	8.839	2	
 Jama'Ar Ganji Hadin Kansila	Gaya	Kano	11.842	9.181	2	
 Unguwar Gyada Arewa	Gaya	Kano	11.758	8.944	2	
 Sani Arewa	Garko	Kano	11.531	9.022	2	Kogin Sani
 Fita Arewa	Takai	Kano	11.478	9.063	2	
 Funkuyi Danya Arewa	Rano	Kano	11.464	8.559	2	
-Arboko Health Clinic	Gwoza	Borno	11.146	13.856	0	
-Arolat Petrol station, Ayetoro	Yewa North	Ogun	7.241	3.029	0	
-Aromiwe Primary Health Care	Egbedore	Osun	7.835	4.481	0	
-ArgJoe Petroleum Nig. Ltd.	Ogbia	Bayelsa	4.829	6.351	0	
-Salvation Army Primary School III, Edu Agbara	Ado Odo/Ota	Ogun	6.505	3.101	0	
-Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.592	2.942	0	
-Salvation Army Primary School I, Agbara	Ado Odo/Ota	Ogun	6.584	3.192	0	
-Community Primary School, Araromi Oke-Aro	Ado Odo/Ota	Ogun	6.667	3.129	0	
-Salvation Army Primary School,Idoye	Ado Odo/Ota	Ogun	6.527	2.927	0	
-Salvation Army Primary School I, Edu Agbara	Ifo	Ogun	6.817	3.206	0	
-Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.559	2.929	0	
-All Saints Primary School, Araromi Ota	Ifo	Ogun	6.812	3.197	0	
-St. Peter'S African Church School, Oke-Aro	Ìjẹ̀bú Òde	Ogun	6.734	3.982	0	
-Salvation Army Primary School Egudu-Baale	Ìjẹ̀bú Òde	Ogun	6.714	3.962	0	
-St. Peter School Ii, Oke-Aro	Ìjẹ̀bú Òde	Ogun	6.818	3.930	0	
-Salvation Army School, Coker	Ado Odo/Ota	Ogun	6.709	3.236	0	
-Salvation Army Primary School Ijaba-Ota	Ado Odo/Ota	Ogun	6.737	3.260	0	
-Salvation Army School, Coker	Ifo	Ogun	6.816	3.196	0	
-All Saints Primary School, Araromi Ota	Ado Odo/Ota	Ogun	6.712	3.076	0	
-Community Primary School, Araromi Oke-Aro	Ifo	Ogun	6.704	3.320	0	
-St. Peter'S African Church School, Oke-Aro	Ifo	Ogun	6.683	3.321	0	
-St. Peter School Ii, Oke-Aro	Ifo	Ogun	6.683	3.321	0	
-Salvation Army Primary School Ijaba-Ota	Ado Odo/Ota	Ogun	6.644	3.171	0	
-Salvation Army Primary School,Idoye	Ado Odo/Ota	Ogun	6.591	3.069	0	
-Salvation Army Primary School Egudu-Baale	Ado Odo/Ota	Ogun	6.552	3.045	0	
-Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.538	3.064	0	
-Salvation Army Primary School I, Edu Agbara	Ado Odo/Ota	Ogun	6.536	3.067	0	
-Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.529	3.134	0	
-Salvation Army Primary School I, Agbara	Ado Odo/Ota	Ogun	6.505	3.102	0	
-Salvation Army Primary School II, Agbara	Ado Odo/Ota	Ogun	6.504	3.102	0	
-Old Artisan Market	Enugu North	Enugu	6.454	7.501	0	
 Araya	Isoko South	Delta	5.360	6.292	2	
-Gbemisola Memorial hospital, Boluwaji Area, Ibadan	Oluyole	Oyo	7.338	3.905	0	
-Aroro Pry Health Centre, Ojoo	Akinyele	Oyo	7.523	3.958	0	
 Uto-Arawarien	Ughelli North	Delta	5.253	6.016	2	
-Araromi Market	Olorunsogo	Oyo	8.723	4.157	0	
 Post Housing Army Engineer	Jos North	Plateau	9.973	8.849	2	
-ST. Maria Goretti Academy Army engineer Jos	Jos North	Plateau	9.974	8.853	0	
 Arunton Ebrohimi	Warri North	Delta	5.867	5.188	2	
-Oloye Olajumoke Akinjide Shopping Arcade Dutse Alhaji	Municipal Area Council	FCT Abuja	9.139	7.369	0	
-School for Arqabic and Islamic Studies	Yola North	Adamawa	9.207	12.488	0	
-Army Children School	Bauchi	Bauchi	10.331	9.814	0	
-DEPARTMENT OF ARCHITECTURE	Owerri West	Imo	5.384	6.991	0	
-Ark Of God Covenant Clinics And Maternity	Kaduna South	Kaduna	10.467	7.410	0	
-44 Army Hospital No13 Abba Road Off Lea Primary School Kagoro Road	Kaduna North	Kaduna	10.557	7.441	0	
-44 Army Hospital No27 Idenpence Way Kaduna	Kaduna North	Kaduna	10.513	7.441	0	
-312 Artenary Kalapanzi Barracks Primary Health Center	Kaduna South	Kaduna	10.455	7.420	0	
-312 Artillery Hospital	Kaduna South	Kaduna	10.459	7.420	0	
-Giltoo Aris Specialist Hospital	Kaduna South	Kaduna	10.482	7.428	0	
-Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.535	7.422	0	
-The Ark Hospital And Maternity Centre	Alimosho	Lagos	6.606	3.254	0	
-Araba Medical Center	Alimosho	Lagos	6.640	3.278	0	
-Rauf Aregbesola Flagship Pry Healthcare Center	Alimosho	Lagos	6.595	3.283	0	
-Faculty of Arts	Jos North	Plateau	9.967	8.884	0	
-RAMLA ACADEMY ARABIC AND ENGLISH	Ungongo	Kano	12.049	8.571	0	
-DAR ARQAM	Ungongo	Kano	12.057	8.583	0	
-PREMIER COLLEGE OF ART AND SCIENCE SCHOOL	Gwale	Kano	11.963	8.480	0	
-Artemis Hospital	Owerri Municipal	Imo	5.493	7.058	0	
-Keny Armani	Oshimili North	Delta	6.210	6.671	0	
 Arogbogbene	Warri South-West	Delta	5.528	5.251	2	
-Faculty of Art Unilag	Shomolu	Lagos	6.520	3.398	0	Faculty of Art
-AFIT Armament Engineering Department	Kaduna North	Kaduna	10.611	7.443	0	
-FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
-FGVV+JQH, Omu-Aran-Oja Oba, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.494	4.544	0	
-Eruda L.G.E.A School, Eruda Area, Temidire Street, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.543	0	
-New Artisan	Enugu North	Enugu	6.453	7.542	0	
-Arts and social science	Ovia North-East	Edo	6.742	5.406	0	
-Theatre Art Department	Ovia North-East	Edo	6.741	5.406	0	
 Arun-Owun	Sapele	Delta	5.931	5.521	2	
-Arepo Bustop	Obafemi Owode	Ogun	6.736	3.419	0	
-Noah's Ark International School	Karu	Nasarawa	9.045	7.596	0	
-Faculty of Arts	Ife Central	Osun	7.513	4.525	0	English
-Smarth Sports Academy/Arena	Municipal Area Council	FCT Abuja	9.109	7.377	0	
-Arab Junction	Municipal Area Council	FCT Abuja	8.965	7.496	0	
-Arab Junction	Municipal Area Council	FCT Abuja	9.068	7.447	0	
-Area 3 Junction	Municipal Area Council	FCT Abuja	9.025	7.476	0	
-Area One	Municipal Area Council	FCT Abuja	9.029	7.470	0	
-Area 8 Bus Station	Municipal Area Council	FCT Abuja	9.035	7.488	0	
-Arab Junction Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.445	0	
-Area 10 Bus Stop	Municipal Area Council	FCT Abuja	9.039	7.486	0	
-Boja Arts Theatre	Ede South	Osun	7.682	4.457	0	
 Idi Araba	Mushin	Lagos	6.514	3.348	2	
+82 Division Army Barracks	Enugu East	Enugu	6.472	7.511	2	
+Aria	Enugu North	Enugu	6.460	7.478	2	
+Maigatari Arewa	Maigatari	Jigawa	12.797	9.401	2	
+Kofar Arewa	Gumel	Jigawa	12.641	9.390	2	
+Arki	Malam Maduri	Jigawa	12.409	9.933	2	
+Arbus	Kaugama	Jigawa	12.574	9.796	2	
+Unguwar Arewa	Kazaure	Jigawa	12.663	8.408	2	
+Araba	Illela	Sokoto	13.752	5.358	2	
+Arewa Dandi	Arewa Dandi	Kebbi	12.722	4.075	2	
+Argungu	Argungu	Kebbi	12.697	4.447	2	
+Aribi	Kagarko	Kaduna	9.572	7.884	2	
+Arak	Sanga	Kaduna	9.287	8.337	2	
+Gyadi Gyadi Arewa	Tarauni	Kano	11.975	8.542	2	
+Yautar Arewa	Gabasawa	Kano	12.248	8.741	2	
+Arewa 2	Muhammadu Dikko Stadium	Katsina	13.022	7.576	2	
+Arewa 1	Muhammadu Dikko Stadium	Katsina	12.995	7.595	2	
+Arochukwu	Arochukwu	Abia	5.519	7.869	2	
+Municipal Area Council	Municipal Area Council	FCT Abuja	8.898	7.394	2	
+Ona Ara	Ona Ara	Oyo	7.259	4.065	2	
+Ardo-Kola	Ardo-Kola	Taraba	8.847	11.133	2	
+Ardoram	Magumeri	Borno	12.182	12.669	2	
+Arege	Abadam	Borno	13.418	13.417	2	
+Ari	Ningi	Bauchi	10.973	9.536	2	
+Jama'are A	Jama'Are	Bauchi	11.664	9.919	2	
+Jama'are D	Jama'Are	Bauchi	11.690	9.922	2	
+Jama'are B	Jama'Are	Bauchi	11.669	9.938	2	
+Jama'are C	Jama'Are	Bauchi	11.657	9.928	2	
+Ardimini	Gubio	Borno	12.456	12.561	2	
+Jama'Are	Jama'Are	Bauchi	11.652	9.889	2	
+Arkilla	Wamako	Sokoto	13.023	5.214	2	
+Yalwa ta Arewa	Tudun Wada	Kano	11.345	8.431	2	
+Wuro Ardo Ribadu	Maiha	Adamawa	10.038	13.067	2	
+Wuro Ardo Nana	Gombi	Adamawa	10.086	12.574	2	
+Wuro-Ardo-Kyari	Yola North	Adamawa	9.156	12.600	2	Wuro Ardo Kyari
+Ungwan Ari	Malumfashi	Katsina	11.723	7.624	2	
+Ungwan Arduna	Kalgo	Kebbi	12.342	4.169	2	Ungwan Ardua
+Unguwar Ari	Garki	Jigawa	12.324	9.055	2	
+Umu Aro	Obi Ngwa	Abia	5.229	7.477	2	
+Tungan Arake	Shanga	Kebbi	10.956	4.760	2	
+Temidire-Araromi	Iwajowa	Oyo	7.898	3.230	2	Temidire Araromi|TemidireAraromi
+Osun-Aro	Oluyole	Oyo	7.245	3.979	2	Osun Aro
+Arolu	Surulere	Oyo	7.996	4.430	2	Orolu
+Orogun	Ndokwa West	Delta	5.683	6.183	2	Arogun
+Orile-Aro	Akinyele	Oyo	7.464	3.894	2	Orile Aro
+Orere-Ara	Ilaje	Ondo	6.403	4.688	2	
+Olude-Araromi	Ido	Oyo	7.483	3.839	2	Olude|Olude Araromi
+Oke-Aro	Ifo	Ogun	6.683	3.318	2	
+Ojo-Aro	Olorunsogo	Oyo	8.684	4.054	2	Ojo Aro
+Monguna	Bokkos	Plateau	9.330	8.807	2	Arna|Monguna Arna
+Mongu Arna	Mangu	Plateau	9.489	9.140	2	
+Garin Mallam Arube	Karasuwa	Yobe	13.071	10.807	2	Malamabe
+Mai-Ari	Alkaleri	Bauchi	10.223	10.707	2	
+Leho Arewa	Askira-Uba	Borno	10.708	12.783	2	
+Kurmin Arna	Mubi North	Adamawa	10.237	13.161	2	
+Kaurwatik-ari	Chibok	Borno	10.825	12.987	2	Kwatagari
+Kassa Arna	Barkin Ladi	Plateau	9.587	8.914	2	
+Kara Aragbada	Obafemi Owode	Ogun	6.833	3.400	2	
+Kachachare Arna	Kaura	Kaduna	9.733	8.530	2	
+Jama’ar Gade Bawa	Garki	Jigawa	12.414	9.238	2	
+Jama’are	Rijau	Niger	11.075	5.285	2	
+Ile Aro	Akoko-Edo	Edo	7.392	6.235	2	
+Ikot Eso Archibong	Akpabuyo	Cross River	5.037	8.413	2	
+Ikot-Aragha	Ibiono Ibom	Akwa Ibom	5.353	7.863	2	
+Igbo-Aran	Asa	Kwara	8.142	4.534	2	Igbo Aran|IgboAran
+Ibudo-Are	Olorunsogo	Oyo	8.664	4.054	2	Ibudo Are
+Iboku Aro	Obafemi Owode	Ogun	6.850	3.483	2	
+Arna	Bokkos	Plateau	9.277	8.788	2	Hurti
+Gidan Ardo Ali	Sardauna	Taraba	7.143	11.059	2	
+Eke Aro	Osisioma Ngwa	Abia	5.216	7.310	2	
+Daddy-Aro	Obafemi Owode	Ogun	7.058	3.483	2	Daddy Aro
+Dabagin Ardo	Dange-Shuni	Sokoto	12.953	5.387	2	Dabage Ardu|Dabegin Ardo
+Budo-Aro	Asa	Kwara	8.202	4.516	2	Budo Aro|BudoAro
+Budo-Are	Ifelodun	Kwara	8.499	4.730	2	Budo Are
+Mnbamnga-Ardido	Lau	Taraba	9.183	11.583	2	Bamga
+Ashi Arage	Bali	Taraba	7.969	10.392	2	
+Arutu	Ido	Oyo	7.499	3.727	2	
+Arun-Oloparun	Yewa North	Ogun	7.278	2.981	2	Arun Oloparun
+Arungbo	Ori Ire	Oyo	8.419	4.218	2	
+Aruna-Kata	Edu	Kwara	8.826	5.245	2	Aruna Kata
+Arun	Yewa North	Ogun	7.274	3.013	2	
+Arum Kadau	Wamba	Nasarawa	9.096	8.662	2	
+Arum Ada	Ideato South	Imo	5.776	7.141	2	
+Arum	Wamba	Nasarawa	9.096	8.653	2	
+Arum	Akwanga	Nasarawa	9.053	8.451	2	
+Arulogun	Akinyele	Oyo	7.567	3.987	2	Arulugun
+Arukwo	Abua/Odual	Rivers	4.860	6.617	2	
+Arukwa	Abua/Odual	Rivers	4.872	6.599	2	Arukwa Waterside|Water Side|Water-Side
+Old-Arugwadu	Nasarawa Egon	Nasarawa	8.760	8.641	2	Arugwadu
+Arugagwu	Awe	Nasarawa	8.350	9.206	2	
+Arufu	Wukari	Taraba	7.835	9.249	2	Arafu
+Arua Camp I	Sagbama	Bayelsa	5.106	6.121	2	Arua
+Aroro	Nguru	Yobe	12.879	10.351	2	Arroro
+Orimokpang	Boki	Cross River	6.100	8.836	2	Arrimakpan|Arrinokpen
+Arriam-Eluelu	Ikwuano	Abia	5.340	7.621	2	
+Arowosaiye-Iju	Ori Ire	Oyo	8.531	4.064	2	Arowosaiye Iju
+Arowosaiye	Ori Ire	Oyo	8.322	4.295	2	
+Arowomole	Ogo Oluwa	Oyo	8.050	4.195	2	
+Arowomole	Ogo Oluwa	Oyo	8.012	4.179	2	
+Arowomole	Ìsẹ́yìn	Oyo	7.896	3.463	2	
+Arowomokun	Ori Ire	Oyo	8.408	4.287	2	
+Arowolo	Yewa North	Ogun	7.201	3.016	2	
+Aroso	Ori Ire	Oyo	8.202	4.114	2	
+Arosa	Odeda	Ogun	7.297	3.437	2	
+Aropa	Owan West	Edo	6.983	5.833	2	
+Aronwon	Sapele	Delta	5.932	5.520	2	
+Arolewa	Ese Odo	Ondo	6.369	4.885	2	
+Arola	Asa	Kwara	8.252	4.558	2	
+Arokpa	Ikom	Cross River	6.294	8.563	2	
+Aroko	Ori Ire	Oyo	8.076	4.041	2	
+Aroko	Owan East	Edo	7.141	5.985	2	
+Aroje	Itesiwaju	Oyo	8.212	3.674	2	
+Aroje	Ogo Oluwa	Oyo	8.034	4.187	2	
+Aroje	Itesiwaju	Oyo	8.037	3.553	2	
+Aroja	Ogo Oluwa	Oyo	7.919	4.102	2	
+Aroipa	Umu-Nneochi	Abia	5.924	7.278	2	
+Arohunpe	Ori Ire	Oyo	8.083	4.084	2	
+Arogunjo	Asa	Kwara	8.487	4.392	2	
+Arogundade	Aiyedade	Osun	7.568	4.290	2	
+Arogede	Itesiwaju	Oyo	8.295	3.546	2	
+Aroge	Ori Ire	Oyo	8.559	4.229	2	
+Aroge	Ewekoro	Ogun	7.030	3.263	2	
+Arogbo	Ejigbo	Osun	7.797	4.346	2	
+Arogbo	Odeda	Ogun	7.293	3.437	2	Arogbaw
+Arobom	Obubra	Cross River	5.946	8.274	2	
+Arobadi	Moro	Kwara	8.677	4.399	2	
+Aro-Alara	Egbedore	Osun	7.830	4.391	2	Aro Alara|AroAlara
+Aro Ake Eze	Ohaozara	Ebonyi	5.929	7.737	2	
+Aroade	Atiba	Oyo	8.101	3.925	2	
+Aro	Moro	Kwara	9.050	4.617	2	
+Aro	Ori Ire	Oyo	8.369	4.214	2	
+Aro	Egbedore	Osun	7.824	4.442	2	
+Aro	Ola Oluwa	Osun	7.749	4.266	2	
+Aro	Odeda	Ogun	7.309	3.614	2	
+Aro	Abeokuta South	Ogun	7.136	3.308	2	
+Arne da Bako	Teungo	Adamawa	8.050	11.800	2	
+Arnado-Nyiri	Ganye	Adamawa	8.329	12.227	2	Arnado Nyiri|ArnadoNyiri
+Arnado Furu	Jada	Adamawa	8.506	12.315	2	
+Arnado Dogo	Ganye	Adamawa	8.213	12.034	2	
+Arnado-Debb0	Ganye	Adamawa	8.411	12.057	2	Arnado Debb|Arnado Debbo|ArnadoDebb|ArnadoDebbo
+Arna Jatau	Ganye	Adamawa	8.313	12.005	2	
+Arku	Omala	Kogi	7.706	7.587	2	
+Arki	Malam Maduri	Jigawa	12.416	9.964	2	
+Arjali	Potiskum	Yobe	11.674	11.146	2	
+Ariyo	Itesiwaju	Oyo	8.240	3.606	2	
+Ariyewon	Atisbo	Oyo	8.326	3.465	2	
+Ariye	Ijebu North	Ogun	7.076	3.873	2	
+Ariwo	Odeda	Ogun	7.311	3.285	2	
+Ariori	Moro	Kwara	8.699	4.662	2	
+Ariogheta	Isoko South	Delta	5.259	6.209	2	
+Arinola	Ife North	Osun	7.414	4.419	2	
+Arinokuta	Ona Ara	Oyo	7.316	4.070	2	
+Arinkinkin	Atiba	Oyo	8.033	3.905	2	
+Arinkinkin	Surulere	Oyo	7.985	4.332	2	
+Arinkinkin	Aiyedade	Osun	7.214	4.201	2	
+Arinago	Surulere	Oyo	8.109	4.397	2	
+Arinago	Atiba	Oyo	8.044	3.877	2	
+Arinago	Oyo East	Oyo	7.848	4.007	2	
+Arimogija	Ose	Ondo	6.821	5.704	2	
+Arim	Jos North	Plateau	9.916	8.979	2	
+Ariku	Lagelu	Oyo	7.506	4.078	2	
+Arikola	Odeda	Ogun	7.277	3.319	2	
+Ariko	Kachia	Kaduna	9.747	7.684	2	
+Arikya	Lafia	Nasarawa	8.829	8.673	2	Arikia
+Arikanki	Afijio	Oyo	7.661	3.893	2	
+Arijo	Ori Ire	Oyo	8.567	4.250	2	
+Arijan	Ogun Waterside	Ogun	6.533	4.524	2	
+Arigo	Ado Odo/Ota	Ogun	6.547	2.924	2	
+Arigidi	Oye	Ekiti	7.794	5.295	2	
+Arigidi	Akoko North West	Ondo	7.572	5.797	2	
+Arigbajo	Ibarapa Central	Oyo	7.438	3.267	2	
+Arigbajo	Ewekoro	Ogun	7.003	3.243	2	
+Arigbajo	Ewekoro	Ogun	6.850	3.200	2	
+Arigbabu	Shagamu	Ogun	6.783	3.564	2	
+Kaugyada	Fune	Yobe	11.990	11.018	2	Arigana
+Arigana	Fune	Yobe	11.850	11.612	2	
+Ariduarmi	Fune	Yobe	11.845	11.646	2	
+Aridiogo	Afijio	Oyo	7.759	3.867	2	
+Aribaba	Ori Ire	Oyo	8.468	4.305	2	
+Aria	Gamawa	Bauchi	12.224	10.335	2	
+Ari	Ningi	Bauchi	11.041	9.533	2	
+Argida	Rijau	Niger	10.867	5.183	2	
+Arewawa	Gwarzo	Kano	11.954	7.878	2	
+Arewa	Ife North	Osun	7.388	4.446	2	
+Areta	Odeda	Ogun	7.354	3.453	2	
+Arerema	Tambuwal	Sokoto	12.600	4.797	2	Rarema
+Aremu	Ilorin West	Kwara	8.430	4.575	2	
+Aremu	Ido	Oyo	7.396	3.737	2	
+Aremu	Odeda	Ogun	7.333	3.495	2	
+Aremu	Ijebu North	Ogun	7.096	3.962	2	
+Aremo	Atiba	Oyo	7.970	3.951	2	
+Aregbe	Atisbo	Oyo	8.414	3.255	2	
+Aredi	Ijebu North	Ogun	7.062	3.913	2	
+Areatan	Abeokuta North	Ogun	7.250	3.294	2	
+Are-Ago	Ibarapa East	Oyo	7.620	3.552	2	Are Ago|AreAgo
+Are	Obafemi Owode	Ogun	7.095	3.558	2	
+Ardoya	Fufore	Adamawa	8.995	12.401	2	
+Ardo Sovini	Bali	Taraba	8.291	11.007	2	
+Ardo Sambo	Teungo	Adamawa	7.939	12.020	2	
+Ardo Salato	Yamaltu/Deba	Gombe	10.259	11.296	2	
+Ardori	Geidam	Yobe	12.539	11.829	2	
+Ardo Abaki	Bali	Taraba	7.851	10.894	2	
+Ardimini	Gubio	Borno	12.488	12.612	2	
+Ardawa	Matazu	Katsina	12.342	7.585	2	
+Arbuschasko	Maigatari	Jigawa	12.628	9.721	2	
+Arbus	Kaugama	Jigawa	12.597	9.799	2	
+Arbakwe	Gudu	Sokoto	13.306	4.169	2	Arbakwai
+Arawsaya	Kebbe	Sokoto	11.803	4.582	2	
+Arawa	Kirfi	Bauchi	10.290	10.415	2	
+Arawa	Ijebu North	Ogun	7.049	3.900	2	
+Aratan	Ibarapa East	Oyo	7.478	3.373	2	
+Araromi-Owu	Aiyedade	Osun	7.167	4.364	2	Araromi|Araromi Owu
+Araromi-Owode	Yewa North	Ogun	6.987	2.985	2	Araromi Owode|Owode
+Araromi-Orita	Ado Odo/Ota	Ogun	6.708	3.075	2	
+Araromi-Okeodo	Ife South	Osun	7.152	4.454	2	Araromi Okeodo
+Araromi-Logi	Ijebu North	Ogun	7.022	3.916	2	Araromi Logi
+Araromi-Lisa	Okitipupa	Ondo	6.489	4.728	2	
+Araromi-Jiga	Yewa North	Ogun	6.983	2.990	2	Araromi Jiga
+Araromi-Idera	Odeda	Ogun	7.198	3.467	2	Araromi Idera
+Araromi-Egba	Yewa North	Ogun	6.980	2.999	2	Araromi Egba
+Araromi-Ebi	Kajola	Oyo	7.935	3.330	2	Araromi Ebi|AraromiEbi
+Araromi Ayeka	Irele	Ondo	6.467	4.832	2	Araromi|Araromi-Ayeka|Ayeka
+Araromi-Aperin	Ona Ara	Oyo	7.171	4.035	2	Araromi|Araromi Aperin
+Araromi	Ijebu North	Ogun	6.931	3.780	2	
+Araromi-Ajana	Yewa North	Ogun	7.170	2.950	2	Araromi Ajana
+Araromi	Moro	Kwara	8.869	4.421	2	Maliki
+Araromi	Asa	Kwara	8.401	4.469	2	
+Araromi	Ori Ire	Oyo	8.350	4.229	2	
+Araromi	Surulere	Oyo	8.264	4.361	2	
+Araromi	Ori Ire	Oyo	8.232	4.124	2	
+Araromi	Ogbomosho North	Oyo	8.210	4.243	2	
+Araromi	Itesiwaju	Oyo	8.211	3.646	2	
+Araromi	Surulere	Oyo	8.035	4.362	2	
+Araromi	Ijumu	Kogi	7.934	6.020	2	
+Araromi	Ogo Oluwa	Oyo	7.913	4.378	2	
+Araromi	Ìsẹ́yìn	Oyo	7.850	3.720	2	
+Araromi	Ìsẹ́yìn	Oyo	7.753	3.504	2	
+Araromi	Ibarapa East	Oyo	7.702	3.494	2	
+Araromi	Ibarapa East	Oyo	7.675	3.428	2	
+Araromi	Ede South	Osun	7.612	4.391	2	
+Araromi	Odeda	Ogun	7.439	3.698	2	
+Araromi	Yewa North	Ogun	7.403	2.957	2	
+Araromi-Igbagbo	Yewa North	Ogun	7.398	2.957	2	Araromi
+Araromi	Odeda	Ogun	7.383	3.405	2	
+Araromi	Abeokuta North	Ogun	7.387	3.024	2	
+Araromi	Yewa North	Ogun	6.962	3.022	2	
+Araromi	Shagamu	Ogun	6.871	3.595	2	
+Araromi	Ewekoro	Ogun	6.875	3.081	2	
+Araromi	Yewa South	Ogun	6.825	2.960	2	
+Araromi	Yewa South	Ogun	6.775	2.976	2	
+Araromi	Ado Odo/Ota	Ogun	6.683	3.017	2	
+Araromi	Ibeju Lekki	Lagos	6.529	3.893	2	
+Araromi	Irele	Ondo	6.483	5.133	2	
+Araromi	Eti Osa	Lagos	6.450	3.467	2	
+Araro	Ori Ire	Oyo	8.420	4.235	2	
+Ara-Oyo	Atiba	Oyo	7.950	3.975	2	Ara Oyo|AraOyo
+Arandun	Irepodun	Kwara	8.083	4.950	2	
+Aragban	Ogoja	Cross River	6.567	8.937	2	Arakp|Arakpa
+Aragay	Doma	Nasarawa	8.358	8.258	2	Arage
+Aradogun	Badagry	Lagos	6.438	2.956	2	Aradagun
+Ara	Nasarawa	Nasarawa	8.610	7.582	2	Arabishi
+Arabana	Misau	Bauchi	11.332	10.304	2	
+Araba	Tangaza	Sokoto	13.215	5.036	2	Araba Birni
+Araba	Dekina	Kogi	7.461	6.984	2	
+Araba	Dekina	Kogi	7.440	6.984	2	
+Ara	Egbedore	Osun	7.854	4.382	2	
+Apowa-Shangel Area	Lau	Taraba	9.119	11.536	2	Apawa
+Anguwan Ari	Ganjuwa	Bauchi	10.891	9.831	2	
+Ali Kurmiri	Konduga	Borno	11.332	12.866	2	Arri Kurumiri
+Alala-Ariam	Ikwuano	Abia	5.355	7.612	2	
+Ago-Are	Atisbo	Oyo	8.505	3.421	2	Agaw-Are|Ago Are
+Arigidana	Ori Ire	Oyo	8.564	4.012	2	Agbedegun
+Abu-Aro	Imeko Afon	Ogun	7.455	2.994	2	Abu Aro
+Arida	Alimosho	Lagos	6.560	3.271	2	
+Arafejojo	Afijio	Oyo	7.706	3.963	2	
+Arewa	Ido	Oyo	7.529	3.807	2	
+Araro	Akinyele	Oyo	7.523	3.843	2	
+Arogunjo	Akinyele	Oyo	7.515	3.871	2	
+Aregbe	Akinyele	Oyo	7.541	3.907	2	
+Aruna	Akinyele	Oyo	7.579	3.986	2	
+Aroro	Akinyele	Oyo	7.521	3.951	2	
+Are-Idon	Akinyele	Oyo	7.517	3.921	2	Are Idon|AreIdon
+Arinago	Akinyele	Oyo	7.505	3.934	2	
+Arulogun	Akinyele	Oyo	7.508	3.987	2	
+Aroye	Ona Ara	Oyo	7.377	3.961	2	
+Ariku	Oluyole	Oyo	7.309	3.765	2	
+Arapaja	Oluyole	Oyo	7.295	3.856	2	
+Ariori	Oluyole	Oyo	7.290	3.952	2	
+Arusukiri	Akuku Toru	Rivers	4.728	6.755	2	
+Wuro Ardo Ballo	Madagali	Adamawa	10.851	13.658	2	
+Aricingori	Bama	Borno	11.673	14.125	2	
+Are-Ago	Ifo	Ogun	6.832	3.122	2	
+Araromi	Ado Odo/Ota	Ogun	6.571	3.042	2	
+Arugudu	Ifo	Ogun	6.787	3.292	2	
+Oke-Arobi	Shagamu	Ogun	6.687	3.602	2	
+Araromi	Shagamu	Ogun	6.776	3.625	2	
+Ita-Arapa	Ijebu North	Ogun	6.961	3.846	2	
+Arodara	Obafemi Owode	Ogun	6.935	3.503	2	
+Opa-Arapa	Idanre	Ondo	7.081	5.176	2	
+Araromi	Akure South	Ondo	7.113	5.277	2	
+Igbodi-Aragbaiye	Ọ̀wọ̀	Ondo	7.145	5.458	2	
+Arere	Ọ̀wọ̀	Ondo	7.176	5.492	2	
+Araromi	Akure North	Ondo	7.190	5.325	2	
+Araromi-Adofure	Akure South	Ondo	7.192	5.158	2	
+Araromi	Ọ̀wọ̀	Ondo	7.243	5.458	2	
+Araromi	Akure North	Ondo	7.278	5.287	2	
+Araromi	Ọ̀wọ̀	Ondo	7.301	5.491	2	
+Araromi-Oloba	Ise/Orun	Ekiti	7.304	5.419	2	
+Gbadegur	Emure	Ekiti	7.317	5.484	2	Araromi-Gbadegun
+Arowojaiye	Ise/Orun	Ekiti	7.328	5.370	2	
+Ago-Araromi	Adó-Èkìtì	Ekiti	7.620	5.360	2	
+Ara-Ijero	Ijero	Ekiti	7.768	5.112	2	
+Arima	Ijumu	Kogi	7.645	6.024	2	
+Fufera Arna	Song	Adamawa	10.037	12.409	2	
+Asuk Arim	Akamkpa	Cross River	5.107	8.465	2	
+Eto Mkpe Archibong Edem	Akpabuyo	Cross River	4.966	8.438	2	
+Araromi	Epe	Lagos	6.420	4.299	2	
+Araromi	Ilaje	Ondo	6.377	4.744	2	
+Araromi	Ilaje	Ondo	6.382	4.834	2	
+Are	Rimi	Katsina	12.768	7.696	2	
+Arahiya	Kankia	Katsina	12.554	7.867	2	
+Arguila	Wamako	Sokoto	13.025	5.188	2	
+Gidan Arizu	Kware	Sokoto	13.211	5.295	2	
+Arawa	Goronyo	Sokoto	13.460	5.989	2	
+Arewawa	Gwarzo	Kano	11.964	7.872	2	
+Ungwan Aruwa	Giwa	Kaduna	11.049	7.358	2	
+Aragba-Okpe	Okpe	Delta	5.769	5.826	2	
+Aragba	Ughelli South	Delta	5.525	5.858	2	
+Arenza	Sumaila	Kano	11.464	8.992	2	
+Aro-Ndibisi	Okigwe	Imo	5.818	7.307	2	
+Aru-Okporoenyi	Ikwuano	Abia	5.478	7.600	2	
+Aro Ajatakiri	Ikwuano	Abia	5.393	7.522	2	
+Ariam	Ikwuano	Abia	5.363	7.612	2	
+Obeoma Ariam	Ikwuano	Abia	5.349	7.606	2	
+Ndiorie Ariam	Ikwuano	Abia	5.333	7.615	2	
+Ogoubi-Aro	Arochukwu	Abia	5.534	7.706	2	
+Arayaokpare	Isoko South	Delta	5.362	6.300	2	
+Aruke	Patani	Delta	5.237	6.202	2	
+Arua Camp II	Sagbama	Bayelsa	5.103	6.125	2	
+Arua Camp III	Sagbama	Bayelsa	5.095	6.126	2	
+Arua Camps	Sagbama	Bayelsa	5.082	6.131	2	
+Ede North	Ede North	Osun	7.707	4.509	2	Agbegbe Ijoba Ibile Ariwa Ede|Ede Nord|Ede ta Arewa|Ndi North|Pak Ede
+Ona Ara	Ona Ara	Oyo	7.283	4.033	2	Ona-Ara
+Idemili North	Idemili North	Anambra	6.128	6.933	2	Agbegbe Ijoba Ibile Ariwa Idemili|Idemili Nord|Idemili ta Arewa|Pak Idemili
+Orumba North	Orumba North	Anambra	6.067	7.083	2	Agbegbe Ijoba Ibile Ariwa Orumba|Orumba Nord|Orumba ta Arewa|Pak Orumba
+Ika North East	Ika North East	Delta	6.229	6.290	2	Ika Nord Est|Ika ta Arewa maso Gabas|Pak Ika
+Isoko North	Isoko North	Delta	5.525	6.234	2	Isoco Setentrional|Isoko Nord|Isoko ta Arewa|Pak Isoko
+Oshimili North	Oshimili North	Delta	6.323	6.644	2	Oshimili Nord|Oshimili ta Arewa|Pak Oshimili
+Ughelli North	Ughelli North	Delta	5.511	6.048	2	Pak Ughelli|Ughelli Nord|Ughelli ta Arewa|Ughilli North
+Warri North	Warri North	Delta	5.882	5.277	2	Agbegbe Ijoba Ibile Ariwa Warri|Pak Warri|Warri Nord|Warri ta Arewa
+Borgu	Borgu	Niger	10.378	4.163	2	Agbegbe Ijoba Ibile Borgu|Area de governo local de Borgu|Borgu Local Government Area
+Afikpo North	Afikpo North	Ebonyi	5.893	7.937	2	Afikpo Nord|Afikpo Norte|Afikpo ta Arewa|Agbegbe Ijoba Ibile Ariwa Afikpo|Pak Afikpo
+Ibarapa North	Ibarapa North	Oyo	7.646	3.159	2	Ariwa Ibarapa|Ibarapa Nord|Ibarapa ta Arewa|Pak Ibarapa
+Ovia North-East	Ovia North-East	Edo	6.645	5.580	2	Ovia Nord Est|Ovia North East|Ovia ta Arewa maso Gabas|Tang-pak Ovia
+Umuahia North	Umuahia North	Abia	5.558	7.469	2	Agbegbe Ijoba Ibile Ariwa Umuahia|Pak Umuahia|Pivnichna Umuakhija|Umuahia Nord|Umuahia ta Arewa
+Shanga	Shanga	Kebbi	11.212	4.610	2	Shanga Local Government Area
+Dandi	Dandi	Kebbi	11.844	3.809	2	Dandi Local Government Area
+Suru	Suru	Kebbi	11.830	4.097	2	Agbegbe Ijoba Ibile Suru|Suru Local Government Area
+Bunza	Bunza	Kebbi	12.168	3.915	2	Agbegbe Ijoba Ibile Bunza|Bunza Local Government Area|Buunza|bunza
+Kalgo	Kalgo	Kebbi	12.283	4.101	2	Agbegbe Ijoba Ibile Kalgo|Kalgo Local Government Area
+Sakaba	Sakaba	Kebbi	11.162	5.541	2	Agbegbe Ijoba Ibile Sakaba|Sakaba Local Government Area
+Wasagu-Danko	Wasagu-Danko	Kebbi	11.429	5.675	2	Danko Wasagu|Wasagu/Danko|Wasagu/Danko Local Government Area
+Aleiro	Aleiro	Kebbi	12.297	4.428	2	Agbegbe Ijoba Ibile Aleiro|Aleiro Local Government Area|Aleyro|alyrw
+Birnin Kebbi	Birnin Kebbi	Kebbi	12.458	4.263	2	Birnin Kebbi Local Government Area|Birnin-Kebbi
+Argungu	Argungu	Kebbi	12.688	4.404	2	Argungu Local Government Area
+Augie	Augie	Kebbi	12.919	4.564	2	Augie Local Government Area
+Arewa Dandi	Arewa Dandi	Kebbi	12.698	4.031	2	Agbegbe Ijoba Ibile Arewa-Dandi|Arewa-Dandi|Arewa-Dandi Local Government Area
+Gudu	Gudu	Sokoto	13.432	4.495	2	Gudu Local Government Area
+Binji	Binji	Sokoto	13.209	4.833	2	Binji Local Government Area
+Tangaza	Tangaza	Sokoto	13.497	4.963	2	Tangaza Local Government Area
+Gwadabawa	Gwadabawa	Sokoto	13.448	5.311	2	Gwadabawa Local Government Area
+Sabon Birni	Sabon Birni	Sokoto	13.485	6.264	2	Sabon Birni Local Government Area|Sabon-Birni
+Goronyo	Goronyo	Sokoto	13.391	5.800	2	Goronyo Local Government Area
+Isa	Isa	Sokoto	13.222	6.338	2	Isa Local Government Area
+Wurno	Wurno	Sokoto	13.257	5.486	2	Wurno Local Government Area
+Rabah	Rabah	Sokoto	13.013	5.720	2	Rabah Local Government Area
+Tureta	Tureta	Sokoto	12.486	5.494	2	Tureta Local Government Area
+Shagari	Shagari	Sokoto	12.560	5.130	2	Shagari Local Government Area
+Tambuwal	Tambuwal	Sokoto	12.366	4.849	2	Tambuwal Local Government Area
+Kebbe	Kebbe	Sokoto	11.936	4.753	2	Kebbe Local Government Area
+Shinkafi	Shinkafi	Zamfara	13.038	6.512	2	Agbegbe Ijoba Ibile Shinkafi|Shinkafi Local Government Area
+Maradun	Maradun	Zamfara	12.778	6.245	2	Agbegbe Ijoba Ibile Maradun|Maradun Local Government Area
+Zurmi	Zurmi	Zamfara	12.811	6.794	2	Zurmi Local Government Area
+Kaura Namoda	Kaura Namoda	Zamfara	12.562	6.576	2	Kaura-Namoda|Kauran Namoda|Kauran Namoda Local Government Area
+Bakura	Bakura	Zamfara	12.617	5.858	2	Agbegbe Ijoba Ibile Bakura|Bakura Local Government Area
+Talata Mafara	Talata Mafara	Zamfara	12.384	6.054	2	Agbegbe Ijoba Ibile Talata Mafara|Talata Mafara Local Government Area|Talata-Mafara|ta la ta ma fa la
+Maru	Maru	Zamfara	11.538	6.279	2	Agbegbe Ijoba Ibile Maru|Maru Local Government Area
+Bukkuyum	Bukkuyum	Zamfara	11.975	5.587	2	Agbegbe Ijoba Ibile Bukkuyum|Bukkuyum Local Government Area|Bukkuyuum
+Anka	Anka	Zamfara	11.961	5.987	2	Agbegbe Ijoba Ibile Anka|Anka Local Government Area|an ka (nai ji li ya)|an ka (ni ri li ya)
+Bungudu	Bungudu	Zamfara	12.189	6.489	2	Agbegbe Ijoba Ibile Bungudu|Bungudu Local Government Area|ben gu du
+Gusau	Gusau	Zamfara	11.876	6.620	2	Gusau Local Government Area
+Tsafe	Tsafe	Zamfara	11.883	6.895	2	Tsafe Local Government Area
+Jibia	Jibia	Katsina	13.040	7.289	2	Agbegbe Ijoba Ibile Jibia|Jibia Local Government Area
+Batsari	Batsari	Katsina	12.779	7.234	2	Agbegbe Ijoba Ibile Batsari|Batsari Local Government Area|ba te sa li
+Katsina	Muhammadu Dikko Stadium	Katsina	13.006	7.614	2	Katsina Local Government Area
+Kaita	Kaita	Katsina	13.172	7.728	2	Agbegbe Ijoba Ibile Kaita|Kaita Local Government Area
+Rimi	Rimi	Katsina	12.839	7.693	2	Agbegbe Ijoba Ibile Rimi|Rimi Local Government Area
+Kurfi	Kurfi	Katsina	12.710	7.463	2	Kurfi Local Government Area
+Bindawa	Bindawa	Katsina	12.711	7.832	2	Bindawa Local Government Area
+Mani	Mani	Katsina	12.878	7.926	2	Agbegbe Ijoba Ibile Mani|Mani Local Government Area
+Mashi	Mashi	Katsina	13.132	7.993	2	Mashi Local Government Area
+Daura	Daura	Katsina	12.982	8.252	2	Daura Local Government Area
+Dutsi	Dutsi	Katsina	12.913	8.149	2	Agbegbe Ijoba Ibile Dutsi|Dutsi Local Government Area|du qi
+Sandamu	Sandamu	Katsina	12.897	8.364	2	Agbegbe Ijoba Ibile Sandamu|Sandamu Local Government Area
+Zango	Zango	Katsina	12.931	8.533	2	Zango Local Government Area
+Charanchi	Charanchi	Katsina	12.602	7.684	2	Agbegbe Ijoba Ibile Charanchi|Caranci|Charanchi Local Government Area
+Dutsin Ma	Dutsin Ma	Katsina	12.454	7.522	2	Dutsinma|Dutsinma Local Government Area
+Safana	Safana	Katsina	12.495	7.253	2	Safana Local Government Area
+Dan Musa	Dan Musa	Katsina	12.232	7.330	2	Agbegbe Ijoba Ibile Dan Musa|Dan Musa Local Government Area|Dan-Musa
+Matazu	Matazu	Katsina	12.259	7.618	2	Agbegbe Ijoba Ibile Matazu|Matazu Local Government Area
+Musawa	Musawa	Katsina	12.085	7.689	2	Agbegbe Ijoba Ibile Musawa|Musawa Local Government Area
+Malumfashi	Malumfashi	Katsina	11.859	7.656	2	Agbegbe Ijoba Ibile Malumfashi|Malumfashi Local Government Area
+Bakori	Bakori	Katsina	11.640	7.429	2	Agbegbe Ijoba Ibile Bakori|Bakori Local Government Area
+Faskari	Faskari	Katsina	11.675	7.086	2	Faskari Local Government Area
+Dandume	Dandume	Katsina	11.413	7.190	2	Agbegbe Ijoba Ibile Dandume|Dandume Local Government Area
+Funtua	Funtua	Katsina	11.472	7.307	2	Funtua Local Government Area|feng tu a|funtoua
+Danja	Danja	Katsina	11.395	7.549	2	Agbegbe Ijoba Ibile Danja|Danja Local Government Area
+Dambatta	Dambatta	Kano	12.420	8.634	2	Agbegbe Ijoba Ibile Dambatta|Dambata|Dambatta Local Government Area
+Gabasawa	Gabasawa	Kano	12.145	8.862	2	Agbegbe Ijoba Ibile Gabasawa|Gabasawa Local Government Area
+Bichi	Bichi	Kano	12.234	8.279	2	Agbegbe Ijoba Ibile Bichi|Bichi Local Government Area
+Gwarzo	Gwarzo	Kano	11.884	7.956	2	Agbegbe Ijoba Ibile Gwarzo|Guarzo|Gwarzo Local Government Area
+Dawakin Tofa	Dawakin Tofa	Kano	12.126	8.399	2	Agbegbe Ijoba Ibile Dawakin Tofa|Dawakin Tofa Local Government Area|Dawakin Toofa
+Madobi	Madobi	Kano	11.824	8.385	2	Agbegbe Ijoba Ibile Madobi|Madboi|Madobi Local Government Area
+Ajingi	Ajingi	Kano	11.959	9.067	2	Agbegbe Ijoba Ibile Ajingi|Ajingi Local Government Area|ajyngy|ajynjy|ajynqy
+Gaya	Gaya	Kano	11.782	9.029	2	Agbegbe Ijoba Ibile Gaya|Gaya Local Government Area
+Albasu	Albasu	Kano	11.662	9.103	2	Agbegbe Ijoba Ibile Albasu|Albasu Local Government Area|albasw
+Karaye	Karaye	Kano	11.762	8.010	2	Agbegbe Ijoba Ibile Karaye|Karaye Local Government Area
+Garko	Garko	Kano	11.573	8.835	2	Garko Local Government Area
+Sumaila	Sumaila	Kano	11.327	8.914	2	Agbegbe Ijoba Ibile Sumaila|Sumaila Local Government Area|smylt
+Tudun Wada	Tudun Wada	Kano	11.283	8.599	2	Tudun Wada Local Government Area|Tudun-Wada
+Nassarawa	Nassarawa	Kano	12.005	8.555	2	Nasarawa|Nassarawa Local Government Area
+Gwale	Gwale	Kano	11.982	8.498	2	Agbegbe Ijoba Ibile Gwale|Gwale Local Government Area
+Yankwashi	Yankwashi	Jigawa	12.770	8.537	2	Agbegbe Ijoba Ibile Yankwashi|Yankwashi Local Government Area
+Roni	Roni	Jigawa	12.549	8.331	2	Agbegbe Ijoba Ibile Roni|Roni Local Government Area|reani
+Kazaure	Makoda	Kano	12.597	8.514	2	Kazaure Local Government Area
+Babura	Babura	Jigawa	12.614	8.859	2	Agbegbe Ijoba Ibile Babura|Babura Local Government Area|ba bu la
+Garki	Garki	Jigawa	12.430	9.061	2	Garki Local Government Area
+Sule Tankakar	Sule Tankakar	Jigawa	12.656	9.188	2	Sule Tankarkar|Sule Tankarkar Local Government Area|Sule-Tankar-Kar
+Maigatari	Maigatari	Jigawa	12.725	9.586	2	Agbegbe Ijoba Ibile Maigatari|Maigatari Local Government Area
+Gagarawa	Gagarawa	Jigawa	12.511	9.537	2	Agbegbe Ijoba Ibile Gagarawa|Gagarawa Local Government Area
+Ringim	Ringim	Jigawa	12.186	9.104	2	Agbegbe Ijoba Ibile Ringim|Ringim Local Government Area
+Taura	Taura	Jigawa	12.256	9.384	2	Taura Local Government Area
+Kaugama	Kaugama	Jigawa	12.503	9.767	2	Agbegbe Ijoba Ibile Kaugama|Kaugama Local Government Area
+Jahun	Jahun	Jigawa	12.080	9.555	2	Agbegbe Ijoba Ibile Jahun|Jahun Local Government Area
+Dutse	Dutse	Jigawa	11.803	9.307	2	Dutse Local Government Area
+Kiyawa	Kiyawa	Jigawa	11.841	9.537	2	Kiyawa Local Government Area
+Auyo	Auyo	Jigawa	12.377	9.988	2	Auyo Local Government Area
+Hadejia	Kiri Kasama	Jigawa	12.435	10.053	2	Hadejia Local Government Area
+Guri	Guri	Jigawa	12.658	10.470	2	Guri Local Government Area
+Kiri Kasama	Kiri Kasama	Jigawa	12.565	10.252	2	Agbegbe Ijoba Ibile Kiri Kasama|Kiri Kasama Local Government Area|Kiri-Kasamma
+Malam Maduri	Malam Maduri	Jigawa	12.560	9.986	2	Malam Madori|Malam Madori Local Government Area|Malam-Maduri
+Birnin Kudu	Birnin Kudu	Jigawa	11.490	9.494	2	Birnin Kudu Local Government Area|Birnin-Kudu
+Buji	Buji	Jigawa	11.579	9.720	2	Buji Local Government Area
+Gwaram	Gwaram	Jigawa	11.186	9.969	2	Agbegbe Ijoba Ibile Gwaram|Gwaram Local Government Area
+Ningi	Ningi	Bauchi	11.062	9.205	2	Ningi Local Government Area|ningi
+Toro	Toro	Bauchi	10.446	9.221	2	Agbegbe Ijoba Ibile Toro|Toro Local Government Area|Toto
+Giade	Giade	Bauchi	11.406	10.283	2	Agbegbe Ijoba Ibile Giade|Giade Local Government Area
+Shira	Shira	Bauchi	11.504	10.017	2	Agbegbe Ijoba Ibile Shira|Shira Local Government Area
+Damban	Damban	Bauchi	11.626	10.786	2	Agbegbe Ijoba Ibile Damban|Dambam|Damban Local Government Area
+Jama'Are	Jama'Are	Bauchi	11.722	9.913	2	Jama'are|Jama'are Local Government Area
+Katagum	Katagum	Bauchi	11.704	10.327	2	Katagum Local Government Area
+Zaki	Zaki	Bauchi	12.299	10.309	2	Agbegbe Ijoba Ibile Zaki|Zaki Local Government Area|Zakki
+Gamawa	Gamawa	Bauchi	12.073	10.586	2	Agbegbe Ijoba Ibile Gamawa|Gamawa Local Government Area
+Kirfi	Kirfi	Bauchi	10.394	10.532	2	Agbegbe Ijoba Ibile Kirfi|Kirfi Local Government Area
+Alkaleri	Alkaleri	Bauchi	9.890	10.480	2	Agbegbe Ijoba Ibile Alkaleri|Alkaleri Local Government Area|alkalry
+Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.825	9.582	2	Tafawa-Balewa Local Government Area
+Kanam	Kanam	Plateau	9.549	10.097	2	Kanam Local Government Area
+Kanke	Kanke	Plateau	9.393	9.633	2	Agbegbe Ijoba Ibile Kanke|Kanke Local Government Area|kankh nyjryh
+Wase	Wase	Plateau	9.083	10.205	2	Wase Local Government Area
+Mangu	Mangu	Plateau	9.391	9.180	2	Agbegbe Ijoba Ibile Mangu|Mangu Local Government Area|manghw_|mangu
+Bokkos	Bokkos	Plateau	9.227	8.927	2	Agbegbe Ijoba Ibile Bokkos|Bokkos Local Government Area|bokkosu
+Barkin Ladi	Barkin Ladi	Plateau	9.550	8.934	2	Agbegbe Ijoba Ibile Barkin Ladi|B'ladi|Barkin Ladi Local Government Area
+Riyom	Riyom	Plateau	9.568	8.685	2	Agbegbe Ijoba Ibile Riyom|Riyom Local Government Area
+Jos North	Jos North	Plateau	9.939	8.902	2	Agbegbe Ijoba Ibile Ariwa Jos|Jos Nord|Jos North Local Government Area|Jos ta Arewa|Pak Jos
+Jos East	Jos East	Plateau	9.891	9.118	2	Agbegbe Ijoba Ibile Ilaorun Jos|Jos East Local Government Area|Jos Est|Jos ta Gabas|Tang Jos
+Bassa	Bassa	Plateau	10.082	8.785	2	Agbegbe Ijoba Ibile Bassa|Bassa Local Government Area
+Mikang	Mikang	Plateau	9.007	9.608	2	Agbegbe Ijoba Ibile Mikang|Mikang Local Government Area
+Qua'An Pan	Qua'An Pan	Plateau	8.761	9.161	2	Qua'an Pan|Qua'an Pan Local Government Area|Qua'an-Pan
+Langtang South	Langtang South	Plateau	8.602	9.810	2	Agbegbe Ijoba Ibile Guusu Langtang|Lam Langtang|Langtang South Local Government Area|Langtang Sud|Langtang ta Kudu|Langt
+Zangon Kataf	Zangon Kataf	Kaduna	9.841	8.255	2	Agbegbe Ijoba Ibile Zangon-Kataf|Nietcen Afakan|Zango Kataf|Zangon-Kataf|Zangon-Kataf Local Government Area
+Kaura	Kaura	Kaduna	9.612	8.470	2	Agbegbe Ijoba Ibile Kaura|Kaura Local Government Area|Watyap
+Jema'A	Jema'A	Kaduna	9.383	8.268	2	Jama'a|Jama'a Local Government Area|Jema'a|Jemaa
+Kauru	Kauru	Kaduna	10.230	8.294	2	Kauru Local Government Area
+Kajuru	Kajuru	Kaduna	10.277	7.858	2	Agbegbe Ijoba Ibile Kajuru|Ajure|Kajuru Local Government Area
+Ikara	Ikara	Kaduna	11.248	8.200	2	Ikara Local Government Area
+Kuban	Kubau	Kaduna	10.879	8.383	2	Kubau|Kubau Local Government Area
+Jaba	Jaba	Kaduna	9.482	8.044	2	Agbegbe Ijoba Ibile Jaba|Jaba Local Government Area|jab  nayjyrya
+Rijau	Rijau	Niger	11.099	5.188	2	Agbegbe Ijoba Ibile Rijau|Rijau Local Government Area
+Mariga	Mariga	Niger	10.699	5.840	2	Mariga Local Government Area
+Kontagora	Kontagora	Niger	10.452	5.479	2	Kontagora Local Government Area
+Shiroro	Shiroro	Niger	10.115	6.683	2	Shiroro Local Government Area
+Mashegu	Mashegu	Niger	9.930	5.234	2	Agbegbe Ijoba Ibile Mashegu|Mashegu Local Government Area
+Wushishi	Wushishi	Niger	9.702	5.937	2	Agbegbe Ijoba Ibile Wushishi|Wushishi Local Government Area|wu shen shi
+Gwagwalada	Gwagwalada	FCT Abuja	9.076	6.985	2	Gwagwalada Area Council
+Abaji	Abaji	FCT Abuja	8.892	6.818	2	Abaji Area Council
+Kuje	Kuje	FCT Abuja	8.659	7.270	2	Kuje Area Council
+Municipal Area Council	Municipal Area Council	FCT Abuja	9.000	7.378	2	Abuja|Abuja Municipal|Abuja Municipal Area Council
+Karu	Karu	Nasarawa	9.047	7.764	2	Karu Local Government Area
+Nasarawa Egon	Nasarawa Egon	Nasarawa	8.749	8.440	2	Nasarawa Eggon|Nasarawa Eggon Local Government Area|Nassarawa Eggon
+Wamba	Wamba	Nasarawa	8.982	8.695	2	Agbegbe Ijoba Ibile Wamba|Uamba|Wamba Local Government Area|wanba
+Doma	Doma	Nasarawa	8.203	8.305	2	Doma Local Government Area
+Awe	Awe	Nasarawa	8.275	9.185	2	Awe Local Government Area
+Moro	Moro	Kwara	8.845	4.557	2	Ijoba Agbegbe Moro|Moro Local Government Area
+Ilorin East	Ilorin East	Kwara	8.571	4.728	2	Ilorin East Local Government Area
+Offa	Offa	Kwara	8.143	4.688	2	Offa Local Government Area
+Irepodun	Irepodun	Kwara	8.147	4.913	2	Irepodun Local Government Area
+Isin	Isin	Kwara	8.267	5.054	2	Agbegbe Ijoba Ibile Isin|Isin Local Government Area
+Oke Ero	Oke Ero	Kwara	8.170	5.234	2	Ijoba Agbegbe Oke Ero|Oke-Ero|Oke-Ero Local Government Area
+Ekiti	Ekiti	Kwara	8.118	5.320	2	Ekiti Local Government Area
+Edu	Edu	Kwara	8.892	5.210	2	Edu Local Government Area|Ijoba Agbegbe Edu
+Saki East	Saki East	Oyo	8.705	3.589	2	Ilaoorun Saki|Saki East Local Government Area|Saki Est|Saki ta Gabas|Tang Saki
+Atisbo	Atisbo	Oyo	8.370	3.247	2	Atigbo|Atisbo Local Government Area
+Atiba	Atiba	Oyo	8.266	3.887	2	Atiba Local Government Area
+Ogo Oluwa	Ogo Oluwa	Oyo	7.990	4.215	2	Ogo-Oluwa|Ogo-Oluwa Local Government Area
+Ibarapa Central	Ibarapa Central	Oyo	7.437	3.268	2	Gbongan Ibarapa|Ibarapa Central Local Government Area|Ibarapa ta Tsakiya
+Imeko Afon	Imeko Afon	Ogun	7.662	2.864	2	Agbegbe Ijoba Ibile Imeko-Afon|Imeko-Afon|Imeko-Afon Local Government Area
+Egbado North	Yewa North	Ogun	7.147	2.918	2	Egbado North Local Government Area|Egbado-North
+Egbado South	Yewa South	Ogun	6.798	2.961	2	Egbado South Local Government Area|Egbado-South
+Ifo	Ifo	Ogun	6.782	3.252	2	Ifo Local Government Area
+Odeda	Odeda	Ogun	7.296	3.520	2	Odeda Local Government Area|Odedah|Odedah Local Government Area
+Abeokuta North	Abeokuta North	Ogun	7.231	3.168	2	Abeokuta Nord|Abeokuta North Local Government Area|Abeokuta ta Arewa|Abeokuta-Norte|Abeokuta-North|Agbegbe Ijoba Ibile A
+Abeokuta South	Abeokuta South	Ogun	7.154	3.355	2	Abeokuta South Local Government Area|Abeokuta Sud|Abeokuta ta Kudu|Abeokuta-South|Abeokuta-Sul|Agbegbe Ijoba Ibile Guusu
+Ijebu North	Ijebu North	Ogun	6.996	3.971	2	Agbegbe Ijoba Ibile Ariwa Ijebu|Ijebu Nord|Ijebu North Local Government Area|Ijebu ta Arewa|Ijebu-Norte|Pak Ijebu
+Ogun Waterside	Ogun Waterside	Ogun	6.484	4.386	2	Agbegbe Ijoba Ibile Ogun Waterside|Ogun Water Side|Ogun Waterside Local Government Area|Ogun littoral
+Ejigbo	Ejigbo	Osun	7.867	4.286	2	Ejigbo Local Government Area
+Aiyedire	Aiyedire	Osun	7.581	4.235	2	Agbegbe Ijoba Ibile Aiyedire|Aijedire|Ayedire|Ayedire Local Government Area|aydyr
+Aiyedade	Aiyedade	Osun	7.334	4.349	2	Aiyeda Ade|Ayedaade|Ayedaade Local Government Area
+Ifedayo	Ifedayo	Osun	7.978	4.989	2	Agbegbe Ijoba Ibile Ifedayo|Ife Dayo|Ifedajo|Ifedayo Local Government Area
+Obokun	Obokun	Osun	7.787	4.763	2	Agbegbe Ijoba Ibile Obokun|Obokun Local Government Area|obokun
+Ilesha East	Ilesha East	Osun	7.601	4.762	2	Ilesa East|Ilesa East Local Government Area
+Ife North	Ife North	Osun	7.267	4.447	2	Agbegbe Ijoba Ibile Ariwa Ife|Ife Nord|Ife North Local Government Area|Ife ta Arewa|Ife-North|Pak Ife
+Efon	Efon	Ekiti	7.696	4.937	2	Efon Local Government Area
+Ekiti West	Ekiti West	Ekiti	7.687	5.028	2	Agbegbe Ijoba Ibile Iwoorun Ekiti|Ekiti Ouest|Ekiti West Local Government Area|Ekiti ta Yamma|Se Ekiti
+Ijero	Ijero	Ekiti	7.846	5.057	2	Ijero Local Government Area
+Moba	Moba	Ekiti	8.001	5.132	2	Moba Local Government Area
+Ilejemeje	Ilejemeje	Ekiti	7.958	5.237	2	Agbegbe Ijoba Ibile Ilejemeje|Ilejemeje Local Government Area
+Ekiti East	Ekiti East	Ekiti	7.735	5.669	2	Agbegbe Ijoba Ibile Ilaorun Ekiti|Ekiti East Local Government Area|Ekiti Est|Ekiti Leste|Ekiti ta Gabas|Tang Ekiti
+Irepodun/Ifelodun	Irepodun/Ifelodun	Ekiti	7.716	5.229	2	Agbegbe Ijoba Ibile Irepodun/Ifelodun|Ifelodun/Irepodun|Irepodun/Ifelodun Local Government Area
+Ise/Orun	Ise/Orun	Ekiti	7.445	5.394	2	Ise/Orun Local Government Area
+Ekiti South-West	Ekiti South-West	Ekiti	7.513	5.052	2	Agbegbe Ijoba Ibile Guusu-Iwoorun Ekiti|Ekiti South West|Ekiti South West Local Government Area|Ekiti Sud Ouest|Ekiti Su
+Ese Odo	Ese Odo	Ondo	6.217	4.965	2	Ese-Odo|Ese-Odo Local Government Area
+Okitipupa	Okitipupa	Ondo	6.548	4.699	2	Agbegbe Ijoba Ibile Okitipupa|Okitipupa Local Government Area
+Irele	Irele	Ondo	6.535	5.009	2	Irele Local Government Area
+Ondo West	Ondo West	Ondo	7.016	4.746	2	Ondo Ouest|Ondo West Local Government Area|Ondo ta Yamma|Se Ondo
+Ile Oluji/Okeigbo	Ile Oluji/Okeigbo	Ondo	7.278	4.888	2	Ile-Oluji-Okeigbo|Ile-Oluji/Oke-igbo|Ile-Oluji/Okeigbo|Ile-Oluji/Okeigbo Local Government Area
+Akure South	Akure South	Ondo	7.205	5.188	2	Agbegbe Ijoba Ibile Guusu Akure|Akure South Local Government Area|Akure Sud|Akure ta Kudu|Lam Akure|jnwb akwr
+Owo	Ọ̀wọ̀	Ondo	7.166	5.580	2	Owo Local Government Area
+Akoko North East	Akoko North East	Ondo	7.527	5.810	2	Akoko North-East|Akoko North-East Local Government Area
+Akoko North West	Akoko North West	Ondo	7.641	5.794	2	Akoko North-West|Akoko North-West Local Government Area
+Egor	Egor	Edo	6.357	5.575	2	Egor Local Government Area
+Iguegben	Iguegben	Edo	6.528	6.243	2	Igueben|Igueben Local Government Area
+Esan West	Esan West	Edo	6.662	6.129	2	Esan Ouest|Esan West Local Government Area|Esan ta Yamma|Se Esan
+Esan Central	Esan Central	Edo	6.710	6.193	2	Esan Central Local Government Area|Esan ta Tsakiya
+Esan North-East	Esan North-East	Edo	6.755	6.397	2	Ehsan Nort-Ist|Esan Nord Est|Esan North East|Esan North East Local Government Area|Esan ta Arewa maso Gabas|Tang-pak Esa
+Esan South-East	Esan South-East	Edo	6.587	6.476	2	Esan South East|Esan South East Local Government Area|Esan Sud Est|Esan ta Kudu maso Gabas|Tang-lam Esan
+Owan East	Owan East	Edo	7.032	6.079	2	Owan East Local Government Area|Owan Est|Owan ta Gabas|Tang Owan
+Etsako Central	Etsako Central	Edo	6.972	6.512	2	Estako-Central|Etsako Central Local Government Area|Etsako ta Tsakiya
+Kogi	Kogi	Kogi	8.146	6.857	2	Kogi Local Government Area
+Lokoja	Lokoja	Kogi	8.205	6.563	2	Lokoja Local Government Area
+Ajaokuta	Ajaokuta	Kogi	7.524	6.581	2	Adzhaokuta|Agbegbe Ijoba Ibile Ajaokuta|Ajaokuta Local Government Area|a jiao ku ta|ajaokuta|ajaykwta
+Dekina	Dekina	Kogi	7.584	7.173	2	Dekina Local Government Area
+Ankpa	Ankpa	Kogi	7.448	7.632	2	Ankpa Local Government Area
+Olamaboro	Olamaboro	Kogi	7.187	7.528	2	Agbegbe Ijoba Ibile Olamaboro|Olamaboro Local Government Area
+Sapele	Sapele	Delta	5.826	5.654	2	Sapele Local Government Area
+Okpe	Okpe	Delta	5.686	5.783	2	Okpe Local Government Area
+Burutu	Burutu	Delta	5.212	5.603	2	Burutu Local Government Area
+Patani	Patani	Delta	5.179	6.098	2	Patani Local Government Area
+Ayamelum	Ayamelum	Anambra	6.554	6.987	2	Agbegbe Ijoba Ibile Ayamelum|Ayamelum Local Government Area
+Aguata	Aguata	Anambra	5.991	7.081	2	Agbegbe Ijoba Ibile Aguata|Aguata Local Government Area|agwata|aqwata
+Onitsha South	Onitsha South	Anambra	6.127	6.777	2	Agbegbe Ijoba Ibile Guusu Onitsha|Lam Onitsha|Onitsha South Local Government Area|Onitsha Sud|Onitsha ta Kudu|Onitsha-Su
+Ekeremor	Ekeremor	Bayelsa	4.922	5.716	2	Ekeremor Local Government Area
+Southern Ijaw	Southern Ijaw	Bayelsa	4.677	5.942	2	Agbegbe Ijoba Ibile Apaguusu Ijaw|Southern Ijaw Local Government Area|Southern-Ijaw|Southern/Ndida Ijaw|Sud Ijaw
+Yenegoa	Yenegoa	Bayelsa	5.032	6.359	2	Yenegoa Local Government Area
+Kolokuma/Opokuma	Kolokuma/Opokuma	Bayelsa	5.099	6.264	2	Kolokuma/Opokuma Local Government Area
+Ogbia	Ogbia	Bayelsa	4.774	6.327	2	Agbegbe Ijoba Ibile Ogbia|Ogbia Local Government Area|ke bi ya
+Nembe	Nembe	Bayelsa	4.525	6.294	2	Nembe Local Government Area
+Brass	Brass	Bayelsa	4.366	6.455	2	Brass Local Government Area
+Ahoada East	Ahoada East	Rivers	5.070	6.643	2	Agbegbe Ijoba Ibile Ilaorun Ahoada|Ahoada East Local Government Area|Ahoada Est|Ahoada Leste|Ahoada ta Gabas|Tang Ahoada
+Abua/Odual	Abua/Odual	Rivers	4.830	6.567	2	Abua/Odual Local Government Area
+Emuoha	Emuoha	Rivers	5.007	6.747	2	Emuoha Local Government Area
+Degema	Degema	Rivers	4.574	6.938	2	Degema Local Government Area
+Bonny	Bonny	Rivers	4.440	7.233	2	Bonny Local Government Area
+Eleme	Eleme	Rivers	4.787	7.144	2	Eleme Local Government Area
+Okrika	Okrika	Rivers	4.638	7.082	2	Agbegbe Ijoba Ibile Okrika|Ocrica|Okrika Local Government Area|ao ke li ka|okurika gang
+Opobo/Nkoro	Opobo/Nkoro	Rivers	4.561	7.444	2	Opobo/Nkoro Local Government Area
+Oguta	Oguta	Imo	5.669	6.800	2	Oguta Local Government Area
+Ngor-Okpala	Ngor-Okpala	Imo	5.320	7.159	2	Ngor-Okpala Local Government Area
+Ikeduru	Ikeduru	Imo	5.568	7.153	2	Agbegbe Ijoba Ibile Ikeduru|Ikeduru Local Government Area
+Ezinihitte	Ezinihitte	Imo	5.479	7.326	2	Ezinihitte Mbaise|Ezinihitte Mbaise Local Government Area
+Ideato North	Ideato North	Imo	5.885	7.131	2	Agbegbe Ijoba Ibile Ariwa Ideato|Ideato Nord|Ideato Norte|Ideato North Local Government Area|Ideato ta Arewa|Pak Ideato
+Nwangele	Nwangele	Imo	5.710	7.126	2	Nwangele Local Government Area
+Owerri North	Owerri North	Imo	5.457	7.103	2	Agbegbe Ijoba Ibile Ariwa Owerri|Owerri Nord|Owerri North Local Government Area|Owerri ta Arewa|Pak Owerri|beioueri
+Arochukwu	Arochukwu	Abia	5.486	7.766	2	Agbegbe Ijoba Ibile Arochukwu|Arochokwu|Arochukvu|Arochukwu Local Government Area|a luo qiu ku
+Osisioma Ngwa	Osisioma Ngwa	Abia	5.199	7.331	2	Agbegbe Ijoba Ibile Osisioma-Ngwa|Osisioma|Osisioma Ngwa Local Government Area|Ozisioma Ngva
+Ikono	Ikono	Akwa Ibom	5.210	7.794	2	Agbegbe Ijoba Ibile Ikono|Ikono Local Government Area
+Ibiono Ibom	Ibiono Ibom	Akwa Ibom	5.207	7.893	2	Ibiono Ibom Local Government Area
+Itu	Itu	Akwa Ibom	5.143	7.978	2	Agbegbe Ijoba Ibile Itu|Itu Local Government Area|itou
+Etim Ekpo	Etim Ekpo	Akwa Ibom	4.978	7.592	2	Agbegbe Ijoba Ibile Etim Ekpo|Etim Ekpo Local Government Area|Etim-Ekpo
+Uyo	Uyo	Akwa Ibom	5.019	7.903	2	Uyo Local Government Area
+Ukanafun	Ukanafun	Akwa Ibom	4.897	7.597	2	Agbegbe Ijoba Ibile Ukanafun|Ukanafun Local Government Area
+Etinan	Etinan	Akwa Ibom	4.819	7.845	2	Etinan Local Government Area
+Ikot Abasi	Ikot Abasi	Akwa Ibom	4.606	7.624	2	Ikot Abasi Local Government Area|Ikot-Abasi
+Ibeno	Ibeno	Akwa Ibom	4.565	8.073	2	Agbegbe Ijoba Ibile Ibeno|Ibeno Local Government Area
+Udung Uko	Udung Uko	Akwa Ibom	4.752	8.265	2	Udung Uko Local Government Area|Udung-Uko
+Okobo	Okobo	Akwa Ibom	4.827	8.132	2	Agbegbe Ijoba Ibile Okobo|Okobo Local Government Area
+Yala	Yala	Cross River	6.654	8.549	2	Agbegbe Ijoba Ibile Yala|Yala Local Government Area|yala  nayjyrya
+Bekwarra	Bekwarra	Cross River	6.696	8.911	2	Agbegbe Ijoba Ibile Bekwarra|Bekwara|Bekwarra Local Government Area
+Obanliku	Obanliku	Cross River	6.537	9.307	2	Agbegbe Ijoba Ibile Obanliku|Obanliku Local Government Area
+Etung	Etung	Cross River	5.859	8.792	2	Etung Local Government Area
+Yakurr	Yakurr	Cross River	5.806	8.175	2	Yakurr Local Government Area
+Biase	Biase	Cross River	5.559	8.078	2	Agbegbe Ijoba Ibile Biase|Biase Local Government Area
+Akamkpa	Akamkpa	Cross River	5.427	8.519	2	Agbegbe Ijoba Ibile Akamkpa|Akamkpa Local Government Area|akamkpa
+Odukpani	Odukpani	Cross River	5.185	8.133	2	Agbegbe Ijoba Ibile Odukpani|Odukpani Local Government Area
+Calabar Municipal	Calabar Municipal	Cross River	4.991	8.303	2	Calabar Municipal Local Government Area|Calabar Ville|Calabar-Municipal|Kalabar Municipal
+Calabar South	Calabar South	Cross River	4.864	8.336	2	Calabar South Local Government Area|Calabar Sud|Kalabar ta Kudu|Lam Calabar
+Ohaukwu	Ohaukwu	Ebonyi	6.533	8.023	2	Agbegbe Ijoba Ibile Ohaukwu|Ohaukwu Local Government Area
+Ebonyi	Ebonyi	Ebonyi	6.522	8.130	2	Agbegbe Ijoba Ibile Ebonyi|Ebonyi Local Government Area
+Abakaliki	Abakaliki	Ebonyi	6.256	8.211	2	Abakaliki Local Government Area
+Onicha	Onicha	Ebonyi	6.099	7.841	2	Agbegbe Ijoba Ibile Onicha|Onicha Local Government Area
+Ohaozara	Ohaozara	Ebonyi	6.011	7.777	2	Agbegbe Ijoba Ibile Ohaozara|Ohaozara Local Government Area
+Ivo	Ivo	Ebonyi	5.884	7.623	2	Agbegbe Ijoba Ibile Ivo|Ivo Local Government Area
+Udenu	Udenu	Enugu	6.872	7.567	2	Agbegbe Ijoba Ibile Udenu|Udenu Local Government Area|adynw|ywdnw
+Igbo-Eze-South	Igbo-Eze-South	Enugu	6.934	7.367	2	Igbo Eze South|Igbo Eze South Local Government Area|Igbo-Eze South|Igboeze South
+Nsukka	Nsukka	Enugu	6.853	7.348	2	Nsukka Local Government Area
+Ezeagu	Ezeagu	Enugu	6.411	7.215	2	Ezeagu Local Government Area
+Apa	Apa	Benue	7.630	7.871	2	Agbegbe Ijoba Ibile Apa|Apa Local Government Area
+Tarka	Tarka	Benue	7.621	8.882	2	Agbegbe Ijoba Ibile Tarka|Tarka Local Government Area
+Ado	Ado	Benue	6.799	8.005	2	Ado Local Government Area|Ador
+Obi	Obi	Benue	7.022	8.294	2	Agbegbe Ijoba Ibile Obi|Obi Local Government Area
+Ukum	Ukum	Benue	7.644	9.564	2	Agbegbe Ijoba Ibile Ukum|Ukum Local Government Area
+Karim Lamido	Karim Lamido	Taraba	9.222	10.865	2	Karim Lamido Local Government Area
+Lau	Lau	Taraba	9.187	11.420	2	Agbegbe Ijoba Ibile Lau|Lau Local Government Area|Law|lw  nayjrya
+Zing	Zing	Taraba	8.883	11.745	2	Zing Local Government Area
+Yorro	Yorro	Taraba	8.909	11.484	2	Yorro Local Government Area
+Ardo-Kola	Ardo-Kola	Taraba	8.804	11.167	2	Ardo Kola|Ardo-Kola Local Government Area
+Ibi	Ibi	Taraba	8.351	9.887	2	Ibi Local Government Area
+Gassol	Gassol	Taraba	8.473	10.544	2	Agbegbe Ijoba Ibile Gassol|Gassol Local Government Area
+Bali	Bali	Taraba	8.155	10.969	2	Agbegbe Ijoba Ibile Bali|Bali Local Government Area|bari de fang xing zheng qu
+Wukari	Wukari	Taraba	7.963	9.848	2	Wukari Local Government Area
+Donga	Donga	Taraba	7.591	10.213	2	Agbegbe Ijoba Ibile Donga|Donga Local Government Area|tang jia
+Takum	Takum	Taraba	7.412	10.045	2	Agbegbe Ijoba Ibile Takum|Takum Local Government Area
+Ussa	Ussa	Taraba	7.087	10.038	2	Agbegbe Ijoba Ibile Ussa|Ussa Local Government Area
+Kurmi	Kurmi	Taraba	7.285	10.587	2	Kurmi Local Government Area
+Sardauna	Sardauna	Taraba	6.875	11.212	2	Sardauna Local Government Area
+Shomgom	Shongom	Gombe	9.674	11.257	2	Shongom|Shongom Local Government Area
+Billiri	Billiri	Gombe	9.816	11.124	2	Agbegbe Ijoba Ibile Billiri|Billiri Local Government Area
+Balanga	Balanga	Gombe	9.810	11.786	2	Agbegbe Ijoba Ibile Balanga|Balanga Local Government Area
+Kaltungo	Kaltungo	Gombe	9.824	11.422	2	Agbegbe Ijoba Ibile Kaltungo|Kaltungo Local Government Area
+Akko	Akko	Gombe	10.100	11.048	2	Akko Local Government Area
+Yamaltu/Deba	Yamaltu/Deba	Gombe	10.238	11.442	2	Agbegbe Ijoba Ibile Yamaltu/Deba|Jamaltu/Deba|Yamaltu/Deba Local Government Area|ya ma er tu/de ba|yamaltw/dba|yamarutou
+Dukku	Dukku	Gombe	10.803	10.828	2	Dukku Local Government Area
+Funakaye	Funakaye	Gombe	10.742	11.408	2	Agbegbe Ijoba Ibile Funakaye|Funakaye Local Government Area
+Nafada	Nafada	Gombe	11.091	11.216	2	Nafada Local Government Area
+Mubi North	Mubi North	Adamawa	10.350	13.406	2	Agbegbe Ijoba Ibile Ariwa Mubi|Mubi Nord|Mubi North Local Government Area|Mubi ta Arewa|Pak Mubi
+Mubi South	Mubi South	Adamawa	10.187	13.396	2	Agbegbe Ijoba Ibile Guusu Mubi|Lam Mubi|Mubi South Local Government Area|Mubi Sud|Mubi ta Kudu
+Hong	Hong	Adamawa	10.310	12.925	2	Agbegbe Ijoba Ibile Hong|Hong Local Government Area
+Maiha	Maiha	Adamawa	9.870	13.205	2	Maiha Local Government Area
+Gombi	Gombi	Adamawa	10.189	12.528	2	Gombi Local Government Area
+Shelleng	Shelleng	Adamawa	9.948	12.127	2	Shelleng Local Government Area
+Guyuk	Guyuk	Adamawa	9.823	11.920	2	Agbegbe Ijoba Ibile Guyuk|Gayuk|Guyuk Local Government Area|kywk
+Larmurde	Larmurde	Adamawa	9.570	11.718	2	Lamurde|Lamurde Local Government Area
+Numan	Numan	Adamawa	9.454	11.837	2	Numan Local Government Area|nu man|numan|nwman
+Demsa	Demsa	Adamawa	9.356	12.078	2	Demsa Local Government Area
+Yola South	Yola South	Adamawa	9.253	12.436	2	Agbegbe Ijoba Ibile Guusu Yola|Lam Yola|Yola Fombina|Yola South Local Government Area|Yola Sud|Yola ta Kudu|ywla jnwby
+Mayo-Belwa	Mayo-Belwa	Adamawa	8.971	11.977	2	Mayo-Belwa Local Government Area
+Ganye	Ganye	Adamawa	8.368	11.946	2	Ganye Local Government Area
+Teungo	Teungo	Adamawa	7.996	11.842	2	Toungo|Toungo Local Government Area
+Abadam	Abadam	Borno	13.432	13.313	2	Abadam Local Government Area|Agbegbe Ijoba Ibile Abadam|abadam
+Kukawa	Kukawa	Borno	13.131	13.738	2	Kukawa Local Government Area
+Guzamala	Guzamala	Borno	12.918	13.214	2	Agbegbe Ijoba Ibile Guzamala|Guzamala Local Government Area
+Gubio	Gubio	Borno	12.678	12.754	2	Gubio Local Government Area
+Nganzai	Nganzai	Borno	12.509	13.104	2	Agbegbe Ijoba Ibile Nganzai|Nganzai Local Government Area|en gan zha yi
+Monguno	Monguno	Borno	12.579	13.617	2	Monguno Local Government Area
+Magumeri	Magumeri	Borno	12.173	12.631	2	Magumeri Local Government Area
+Marte	Marte	Borno	12.410	13.873	2	Agbegbe Ijoba Ibile Marte|Marte Local Government Area|ma er te
+Ngala	Ngala	Borno	12.215	14.183	2	Agbegbe Ijoba Ibile Ngala|Ngala Local Government Area|en jia la
+Kala-Balge	Kala-Balge	Borno	12.046	14.481	2	Kala/Balge|Kala/Balge Local Government Area
+Mafa	Mafa	Borno	12.002	13.537	2	Mafa Local Government Area
+Dikwa	Dikwa	Borno	11.901	14.027	2	Dikwa Local Government Area
+Jere	Jere	Borno	11.899	13.292	2	Agbegbe Ijoba Ibile Jere|Jere Local Government Area
+Konduga	Konduga	Borno	11.586	13.003	2	Konduga Local Government Area|kondouga|kong du jia
+Kaga	Kaga	Borno	11.645	12.452	2	Agbegbe Ijoba Ibile Kaga|Kaga Local Government Area
+Bama	Bama	Borno	11.521	14.097	2	Bama Local Government Area
+Gwoza	Gwoza	Borno	11.176	13.579	2	Gwoza Local Government Area
+Damboa	Damboa	Borno	11.098	12.764	2	Damboa Local Government Area
+Chibok	Chibok	Borno	10.836	12.771	2	Agbegbe Ijoba Ibile Chibok|Chibok Local Government Area|chiboku|chybwk|qi bo ke|z'ybwq
+Askira-Uba	Askira-Uba	Borno	10.636	12.878	2	Askira/Uba|Askira/Uba Local Government Area
+Biu	Biu	Borno	10.817	12.088	2	Biu Local Government Area
+Hawul	Hawul	Borno	10.433	12.247	2	Agbegbe Ijoba Ibile Hawul|Hawul Local Government Area
+Bayo	Bayo	Borno	10.423	11.706	2	Bayo Local Government Area
+Shani	Shani	Borno	10.184	11.964	2	Agbegbe Ijoba Ibile Shani|Shani Local|Shani Local Government Area
+Kwaya Kusar	Kwaya Kusar	Borno	10.443	11.991	2	Kwaya Kusar Local Government Area|Kwaya-Kusar
+Machina	Machina	Yobe	13.045	9.985	2	Agbegbe Ijoba Ibile Machina|Machina Local Government Area|Macina|machina|machyna  nayyjyrya
+Nguru	Nguru	Yobe	12.980	10.399	2	Nguru Local Government Area
+Yusufari	Yusufari	Yobe	13.220	10.883	2	Yusufari Local Government Area
+Yunusari	Yunusari	Yobe	13.104	11.786	2	Agbegbe Ijoba Ibile Yunusari|Yunusari Local Government Area|yunusari|ywnsry
+Karasuwa	Karasuwa	Yobe	12.963	10.783	2	Agbegbe Ijoba Ibile Karasuwa|Karasuwa Local Government Area|karasuwa
+Geidam	Geidam	Yobe	12.655	12.067	2	Agbegbe Ijoba Ibile Geidam|Geidam Local Government Area|Geidama|Geidamas|Geidan|Gejdam|Nkeintam|gai da mu|ge'idama|geida
+Jakusko	Jakusko	Yobe	12.456	10.912	2	Agbegbe Ijoba Ibile Jakusko|Dzakusko|Dzhakusko|Jakuskas|Jakusko Local Government Area|Tzakousko|cakhas kho|jakskko|jakus
+Tarmua	Tarmua	Yobe	12.178	11.802	2	Tarmuwa|Tarmuwa Local Government Area
+Damaturu	Ngelzarma	Yobe	11.780	11.979	2	Damaturu Local Government Area
+Fune	Fune	Yobe	11.852	11.449	2	Agbegbe Ijoba Ibile Fune|Fune Local Government Area|fune
+Nangere	Nangere	Yobe	11.820	10.971	2	Agbegbe Ijoba Ibile Nangere|Nangere Local Government Area|nangere
+Potiskum	Potiskum	Yobe	11.711	11.157	2	Potiskum Local Government Area
+Fika	Fika	Yobe	11.377	11.237	2	Agbegbe Ijoba Ibile Fika|Fika Local Government Area|fika
+Ka’arra	Guzamala	Borno	13.027	13.258	2	
+Arbokko Clan	Gwoza	Borno	11.069	13.797	2	
+Kamburo Arna	Madagali	Adamawa	10.863	13.621	2	
+Illela	Illela	Sokoto	13.695	5.361	2	Illela Local Government Area
+Afam	Awgu	Enugu	6.149	7.470	2	Aram
+Arugbaru-Nkareku	Ebonyi	Ebonyi	6.506	8.140	2	
+Araragha	Obubra	Cross River	6.137	8.395	2	
+Aro	Isuikwuato	Abia	5.826	7.399	2	
+Arege	Abadam	Borno	13.425	13.458	2	
+Ardoram	Magumeri	Borno	12.199	12.680	2	
+Ardimini	Gubio	Borno	12.453	12.544	2	
+Kofar Arewa	Gumel	Jigawa	12.649	9.396	2	
+Maigatari Arewa	Maigatari	Jigawa	12.806	9.412	2	
+Yautar Arewa	Gabasawa	Kano	12.243	8.753	2	
+Aribi	Kagarko	Kaduna	9.595	7.847	2	
+Arak	Sanga	Kaduna	9.275	8.360	2	
+Arki	Malam Maduri	Jigawa	12.402	9.945	2	
+Ari	Ningi	Bauchi	10.972	9.520	2	
+Oshodi-Isolo	Oshodi/Isolo	Lagos	6.561	3.335	2	Oshodi|Oshodi Local Government Area|Oshodi-Isolo
+Aritsa	Ukum	Benue	7.784	9.495	2	
+Ari	Buruku	Benue	7.465	9.246	2	
+Arigba	Buruku	Benue	7.148	9.161	2	
+Aribo	Buruku	Benue	7.142	9.180	2	
+Araghga	Buruku	Benue	7.158	9.223	2	
+Ardori	Zaki	Bauchi	12.159	10.352	2	
+Garin Ari	Yusufari	Yobe	12.997	10.917	2	
+Gidan Arigani	Shiroro	Niger	9.936	6.770	2	
+Ikeja Government Reserved Area	Ikeja	Lagos	6.580	3.352	2	Ikeja G.R.A.
+Armisa	Fufore	Adamawa	8.917	12.308	2	
+Aradagun Mowo	Badagry	Lagos	6.455	2.971	2	
+Araromi Ale	Badagry	Lagos	6.470	3.048	2	
+Aralile	Surulere	Lagos	6.500	3.364	2	
+Seriki-Aro	Ikeja	Lagos	6.606	3.342	2	
+Government Reserve Area	Ikeja	Lagos	6.584	3.349	2	G.R.A. Ward
+Araromi Ifako	Kosofe	Lagos	6.560	3.387	2	
+Arowosegbe Alapere	Kosofe	Lagos	6.583	3.399	2	
+Araromi	Lagos Mainland	Lagos	6.483	3.389	2	
+Araromi Odo	Lagos Island	Lagos	6.447	3.405	2	
+Oke-Arin Idumota	Lagos Island	Lagos	6.461	3.385	2	
+Arefe	Igalamela-Odolu	Kogi	6.967	6.967	2	
+Aribio	Kagarko	Kaduna	9.492	7.851	2	Aribi
+Arue	Esan North-East	Edo	6.734	6.300	2	
+Mbambe Arna	Zing	Taraba	8.854	11.874	2	
+Ardo Jamaa	Mayo-Belwa	Adamawa	8.761	11.947	2	
+Wadata Arewa	Wase	Plateau	8.799	9.989	2	
+Arumgona	Akwanga	Nasarawa	9.043	8.470	2	
+Arak	Jema'A	Kaduna	9.387	8.364	2	
+Ungwan Sarki Ara	Sanga	Kaduna	9.229	8.226	2	
+Arikaripor	Southern Ijaw	Bayelsa	4.684	5.584	2	
+Arunton	Burutu	Delta	5.200	5.447	2	
+Arugwato Camps	Warri North	Delta	5.924	5.262	2	
+Aruntun	Warri North	Delta	5.886	5.219	2	
+Aruton	Warri South-West	Delta	5.603	5.192	2	
+Arunton Tebu	Warri North	Delta	5.836	5.138	2	
+Kedemure Ardo Tukur	Demsa	Adamawa	9.321	12.007	2	
+Jegang Ardido	Lau	Taraba	9.227	11.538	2	
+Pantilade Area	Yorro	Taraba	9.125	11.676	2	
+Apowa Manga Area	Lau	Taraba	9.112	11.507	2	
+Mbamnga Punznu Area	Yorro	Taraba	9.128	11.647	2	
+Kwajji-Bako Area	Lau	Taraba	9.128	11.570	2	
+Yaboko-Area	Zing	Taraba	9.066	11.710	2	
+Ga Arna	Mayo-Belwa	Adamawa	9.178	11.881	2	
+Arowomole	Ogbomosho South	Oyo	8.083	4.241	2	
+Aro	Odeda	Ogun	7.161	3.418	2	
+Ariwo	Odeda	Ogun	7.186	3.482	2	
+Aruke Egba	Odeda	Ogun	7.234	3.397	2	
+Aremo	Odeda	Ogun	7.272	3.410	2	
+Idi-Araba	Egbeda	Oyo	7.460	4.005	2	
+Arije	Egbeda	Oyo	7.454	4.049	2	
+Arowasi	Egbeda	Oyo	7.424	4.022	2	
+Areke	Egbeda	Oyo	7.418	4.037	2	
+Areokuta	Egbeda	Oyo	7.360	4.018	2	
+Arona	Ona Ara	Oyo	7.302	4.029	2	
+Araromi	Ona Ara	Oyo	7.273	4.043	2	
+Arowasu	Ijebu North	Ogun	7.115	4.142	2	
+Araro-Sanni	Isokan	Osun	7.227	4.101	2	
+Eleiyele-Arowasi	Isokan	Osun	7.251	4.120	2	
+Arosun	Irewole	Osun	7.412	4.209	2	
+Arigboyo	Isokan	Osun	7.325	4.208	2	
+Arademi	Irewole	Osun	7.389	4.239	2	
+Ara-Owu	Aiyedade	Osun	7.244	4.295	2	
+Arifanla	Aiyedade	Osun	7.259	4.262	2	
+Aro	Aiyedade	Osun	7.269	4.255	2	
+Arikoko	Aiyedade	Osun	7.288	4.268	2	
+Aro	Aiyedade	Osun	7.295	4.279	2	
+Arosun	Isokan	Osun	7.331	4.279	2	
+Aro	Irewole	Osun	7.394	4.277	2	
+Aredemi	Aiyedade	Osun	7.415	4.330	2	
+Aroge	Aiyedade	Osun	7.410	4.343	2	
+Arosaiye	Aiyedade	Osun	7.381	4.357	2	
+Arinkinkin	Aiyedade	Osun	7.282	4.334	2	
+Arosun	Aiyedade	Osun	7.281	4.329	2	
+Ara-Apomu	Aiyedade	Osun	7.261	4.393	2	
+Ara-Origbo	Ife North	Osun	7.383	4.465	2	
+Arubidi	Ife North	Osun	7.364	4.497	2	
+Omowu-Are	Ife North	Osun	7.351	4.439	2	
+Arenja	Irepodun	Osun	7.938	4.540	2	
+Araromi	Irepodun	Osun	7.922	4.534	2	
+Araromi	Irepodun	Osun	7.884	4.505	2	
+Areja	Ede North	Osun	7.712	4.507	2	
+Aranyin	Ede North	Osun	7.705	4.507	2	
+Aregbe	Ife Central	Osun	7.584	4.524	2	
+Arowo-Ogun	Ife Central	Osun	7.550	4.526	2	
+Aro	Ife Central	Osun	7.538	4.550	2	
+Araromi	Atakunmosa West	Osun	7.524	4.622	2	
+Ariyelepe	Atakunmosa West	Osun	7.518	4.661	2	
+Arigbabu	Atakunmosa West	Osun	7.548	4.614	2	
+Aregba	Ede South	Osun	7.647	4.562	2	
+Aridiogo	Ede South	Osun	7.658	4.545	2	
+Arinago	Ede South	Osun	7.662	4.546	2	
+Araromi	Olorunda	Osun	7.803	4.598	2	
+Aromadu	Boripe	Osun	7.808	4.641	2	
+Araro	Atakunmosa West	Osun	7.698	4.614	2	
+Arubu	Atakunmosa West	Osun	7.666	4.640	2	
+Gbodo Araromi	Atakunmosa West	Osun	7.595	4.649	2	
+Aruaji	Atakunmosa West	Osun	7.589	4.641	2	
+Araromi	Ilesha West	Osun	7.632	4.688	2	
+Arojiji	Obokun	Osun	7.736	4.777	2	
+Oko Aro	Efon	Ekiti	7.755	4.949	2	
+Arapate	Ijero	Ekiti	7.906	4.991	2	
+Arun	Ekiti West	Ekiti	7.786	4.982	2	
+Arogundade	Yewa North	Ogun	7.338	2.983	2	
+Arejedo	Ipokia	Ogun	6.630	2.832	2	
+Aromokala	Ado Odo/Ota	Ogun	6.671	2.985	2	
+Araromi Papanla	Yewa South	Ogun	6.840	2.949	2	
+Wuro-Ardo	Fufore	Adamawa	9.224	12.717	2	Wuro Ardo
+Arigo	Ogun Waterside	Ogun	6.463	4.539	2	
+Arowojolu-Oke	Irele	Ondo	6.426	4.954	2	
+Arowojolu-Odo	Irele	Ondo	6.423	4.956	2	
+Araromi	Ilaje	Ondo	6.250	4.758	2	
+Aroje	Atisbo	Oyo	8.567	3.406	2	
+Araromi Adesiyan	Ife South	Osun	7.084	4.585	2	
+Aratu	Ile Oluji/Okeigbo	Ondo	7.088	4.630	2	
+Ose-Arowolo	Ife South	Osun	7.173	4.626	2	
+Aratu	Ife South	Osun	7.251	4.625	2	
+Araromi	Ife East	Osun	7.328	4.600	2	
+Aroko	Ife East	Osun	7.378	4.575	2	
+Arewa	Atakunmosa West	Osun	7.490	4.651	2	
+Arogunjo	Atakunmosa West	Osun	7.457	4.652	2	
+Arode	Atakunmosa West	Osun	7.429	4.666	2	
+Araromi	Atakunmosa West	Osun	7.439	4.711	2	
+Arugbo	Ife East	Osun	7.410	4.635	2	
+Arokomo	Ife South	Osun	7.406	4.654	2	
+Arode	Ife South	Osun	7.323	4.656	2	
+Araromi	Ife South	Osun	7.279	4.668	2	
+Aroke	Ife South	Osun	7.217	4.700	2	
+Arowolo	Ile Oluji/Okeigbo	Ondo	7.154	4.676	2	
+Araromi Ajegunle	Ile Oluji/Okeigbo	Ondo	7.087	4.646	2	
+Araromi Awo	Ile Oluji/Okeigbo	Ondo	7.262	4.870	2	
+Araromi-Masole	Ondo West	Ondo	7.006	4.920	2	
+Araromi-Oko	Ondo West	Ondo	7.016	4.899	2	
+Arowa	Ile Oluji/Okeigbo	Ondo	7.218	4.982	2	
+Araromi Akinyemi	Ile Oluji/Okeigbo	Ondo	7.281	4.956	2	
+Araromi-Atakumosa	Ile Oluji/Okeigbo	Ondo	7.356	4.931	2	
+Omu-Aran	Ekiti South-West	Ekiti	7.450	4.977	2	
+Ariyibi	Asa	Kwara	8.469	4.392	2	
+Arunbe	Asa	Kwara	8.305	4.449	2	
+Arowosaiye	Asa	Kwara	8.284	4.414	2	
+Arokoyo	Asa	Kwara	8.234	4.493	2	
+Araromi	Surulere	Oyo	8.158	4.376	2	
+Aresejowi	Surulere	Oyo	8.127	4.335	2	
+Araro	Surulere	Oyo	8.082	4.364	2	
+Araro	Surulere	Oyo	8.105	4.393	2	
+Arowosegbe	Odeda	Ogun	7.370	3.509	2	
+Araromi	Odeda	Ogun	7.200	3.570	2	
+Aropa	Obafemi Owode	Ogun	7.143	3.509	2	
+Areago	Odeda	Ogun	7.163	3.603	2	
+Arede	Odeda	Ogun	7.229	3.631	2	
+Araromi-Adipo	Odeda	Ogun	7.307	3.649	2	
+Araba	Obafemi Owode	Ogun	7.126	3.679	2	
+Aragba	Obafemi Owode	Ogun	7.067	3.711	2	
+Arboko	Gwoza	Borno	11.053	13.503	2	
+Aragba	Moro	Kwara	8.739	4.218	2	
+Budo-Are	Moro	Kwara	8.688	4.438	2	
+Budo-Are	Asa	Kwara	8.662	4.348	2	
+Budo-Are	Asa	Kwara	8.653	4.251	2	
+Arowora-Keke	Moro	Kwara	8.658	4.423	2	
+Budo-Arin	Asa	Kwara	8.575	4.293	2	
+Aroge	Asa	Kwara	8.508	4.347	2	
+Enu-Araiye	Ori Ire	Oyo	8.507	4.292	2	
+Arigi	Ori Ire	Oyo	8.506	4.094	2	
+Arigidana	Ori Ire	Oyo	8.510	4.055	2	
+Arenijohan	Ibarapa North	Oyo	7.522	3.141	2	
+Aregbe	Ibarapa North	Oyo	7.502	3.314	2	
+Oke-Aran	Isin	Kwara	8.160	5.016	2	
+Are	Ekiti	Kwara	8.098	5.241	2	
+Omu-Aran	Isin	Kwara	8.162	5.072	2	
+Araromi	Isin	Kwara	8.163	5.075	2	
+Iporin Araromi	Afijio	Oyo	7.766	3.769	2	
+Arugwadun Guna	Nasarawa Egon	Nasarawa	8.779	8.683	2	
+Arikya-Suni	Nasarawa Egon	Nasarawa	8.795	8.668	2	
+Arugwa	Lafia	Nasarawa	8.630	8.662	2	
+Arugwa	Lafia	Nasarawa	8.595	8.636	2	
+Arimose	Asa	Kwara	8.246	4.515	2	
+Araromi	Oyun	Kwara	8.105	4.601	2	
+Arrowopale	Oyo West	Oyo	7.937	3.787	2	
+Arinusegun	Oyo West	Oyo	7.880	3.840	2	
+Arin-Ago	Oyo West	Oyo	7.988	3.871	2	
+Araromi	Afijio	Oyo	7.817	3.851	2	
+Ariaje	Afijio	Oyo	7.763	3.885	2	
+Idi-Araba	Atiba	Oyo	7.908	3.947	2	
+Idi-Araba	Oyo East	Oyo	7.845	3.992	2	
+Idi-Aro	Oyo East	Oyo	7.845	3.973	2	
+Arowo	Ifelodun	Kwara	8.497	4.977	2	
+Aroya	Ifelodun	Kwara	8.425	4.791	2	
+Arun	Egbedore	Osun	7.860	4.412	2	
+Arilewola	Afijio	Oyo	7.771	4.003	2	
+Arowosegbe	Afijio	Oyo	7.759	4.016	2	
+Arogbo	Ogo Oluwa	Oyo	7.922	4.177	2	
+Araromi	Ogo Oluwa	Oyo	7.960	4.194	2	
+Aremole	Ogo Oluwa	Oyo	7.977	4.321	2	
+Oye-Araromi	Orolu	Osun	7.924	4.467	2	
+Gidan-Arago	Doma	Nasarawa	8.365	8.282	2	
+Angwa-Arume	Nasarawa	Nasarawa	8.362	8.078	2	
+Arnado-Shehu	Teungo	Adamawa	8.064	12.008	2	
+Arnado Shodo	Teungo	Adamawa	8.174	12.078	2	ArnadoShodo
+Boburo Arna	Shelleng	Adamawa	9.837	12.041	2	BoburoArna
+Wuro Ardo	Shelleng	Adamawa	9.697	12.132	2	WuroArdo
+Ale-Ara	Ilorin West	Kwara	8.422	4.559	2	
+Arogun	Asa	Kwara	8.254	4.570	2	
+Ilu-Aru	Asa	Kwara	8.345	4.593	2	
+Arikaji Irena	Toto	Nasarawa	8.025	7.239	2	ArikajiIrena
+Araba	Toto	Nasarawa	8.416	7.244	2	
+Araba	Nasarawa	Nasarawa	8.709	7.719	2	
+Arubo	Nasarawa	Nasarawa	8.667	7.658	2	
+Ara-Sabo	Nasarawa	Nasarawa	8.729	7.560	2	
+Araba	Nasarawa	Nasarawa	8.567	7.612	2	
+Aridi	Lafia	Nasarawa	8.588	8.392	2	
+Arepa	Nasarawa Egon	Nasarawa	8.648	8.395	2	
+Barup Arna	Sardauna	Taraba	6.656	11.135	2	
+Ardo Amadu	Sardauna	Taraba	6.548	11.194	2	
+Ardo Bakari	Sardauna	Taraba	6.952	11.206	2	
+Ardo Gore	Sardauna	Taraba	6.860	11.122	2	
+Ardo Bairo	Sardauna	Taraba	6.955	11.135	2	
+Ardo Masoba	Sardauna	Taraba	6.964	11.453	2	
+Ardo Mama	Sardauna	Taraba	6.833	11.130	2	
+Aro	Iwo	Osun	7.616	4.137	2	
+Aroloyin	Afijio	Oyo	7.739	4.043	2	
+Ariku-Oko	Lagelu	Oyo	7.524	4.148	2	
+Arere	Aiyedade	Osun	7.559	4.356	2	
+Arusa	Ola Oluwa	Osun	7.727	4.253	2	
+Idi-Ara	Ola Oluwa	Osun	7.727	4.265	2	
+Aru	Ola Oluwa	Osun	7.748	4.255	2	
+Arekese	Lagelu	Oyo	7.530	4.151	2	
+Arogun	Iwo	Osun	7.624	4.124	2	
+Araromi	Ejigbo	Osun	7.736	4.319	2	
+Arun	Aiyedade	Osun	7.547	4.371	2	
+Are-Alasa	Iwo	Osun	7.699	4.164	2	
+Aragba	Aiyedire	Osun	7.540	4.229	2	
+Arinmajagbe	Afijio	Oyo	7.692	4.015	2	
+Arola	Ede South	Osun	7.622	4.486	2	
+Arifanla	Aiyedade	Osun	7.540	4.364	2	
+Idi-Araba	Mushin	Lagos	6.514	3.343	2	
+Bamga Area	Yorro	Taraba	9.111	11.612	2	
+Aro	Abeokuta South	Ogun	7.146	3.385	2	
+Aro	Ona Ara	Oyo	7.271	4.051	2	
+Araromi	Yewa North	Ogun	6.891	2.931	2	
+Araromi	Ado Odo/Ota	Ogun	6.610	2.988	2	
+Araromi	Okitipupa	Ondo	6.395	4.711	2	
+Aro	Obafemi Owode	Ogun	7.027	3.526	2	
+Arowosaiye	Ori Ire	Oyo	8.371	4.276	2	
+Araromi	Surulere	Oyo	8.212	4.379	2	
+Araromi	Ifelodun	Kwara	8.409	5.033	2	
+Araromi	Ifelodun	Kwara	8.380	5.028	2	
+Arugwadu	Nasarawa Egon	Nasarawa	8.757	8.689	2	
+Arogbo	Ejigbo	Osun	7.881	4.337	2	
+Aro	Egbedore	Osun	7.827	4.472	2	
+Idi-Araba	Lagelu	Oyo	7.501	4.016	2	
+Idi-Araba	Lagelu	Oyo	7.519	4.027	2	
 Oke Aro Road	Ifo	Ogun	6.678	3.321	1	
 Sobo Arobiodu Street	Ikeja	Lagos	6.578	3.358	1	
 Arowojobe Street	Oshodi/Isolo	Lagos	6.563	3.342	1	
@@ -397,8 +1282,6 @@ Oba Fatai Aromire Way	Apapa	Lagos	6.469	3.376	1
 Tiamiyu Bello Aromire Street	Kosofe	Lagos	6.632	3.370	1	
 Aromire Street	Ikeja	Lagos	6.607	3.349	1	
 Seriki Aro Avenue	Ikeja	Lagos	6.602	3.339	1	
-Sobo Arobiodu Street	Ikeja	Lagos	6.579	3.349	1	
-Araromi Street	Ikeja	Lagos	6.571	3.364	1	
 Arufa Street	Ojo	Lagos	6.458	3.222	1	
 Archbishop Okojie Street	Oshodi/Isolo	Lagos	6.519	3.311	1	
 Wole Ariyo Street	Eti Osa	Lagos	6.446	3.459	1	
@@ -441,7 +1324,6 @@ Arc Onwualu link Road	Enugu South	Enugu	6.425	7.531	1
 Arc Ike Onwualu link Road	Enugu South	Enugu	6.425	7.532	1	
 Hon. Arum Close	Enugu South	Enugu	6.382	7.493	1	
 Artisan Road	Enugu North	Enugu	6.449	7.503	1	
-Artisan Road	Enugu North	Enugu	6.452	7.505	1	
 Arochukwu Street	Enugu North	Enugu	6.428	7.479	1	
 Arc.Ike Onwualu Street	Enugu South	Enugu	6.426	7.531	1	
 Aria Street	Enugu East	Enugu	6.479	7.521	1	
@@ -465,21 +1347,14 @@ Artisan Market Road	Enugu North	Enugu	6.453	7.505	1
 Nigerian Army Barack	Enugu South	Enugu	6.392	7.491	1	
 Arakan Road	Nassarawa	Kano	12.002	8.548	1	
 Ari Ori Street	Oshodi/Isolo	Lagos	6.552	3.335	1	
-82 Division Army Barracks	Enugu East	Enugu	6.472	7.511	2	
 Aroh Street	Enugu South	Enugu	6.425	7.493	1	
-Aria	Enugu North	Enugu	6.460	7.478	2	
 Chief Emeka H. Arinze Street	Enugu East	Enugu	6.467	7.551	1	
 Jude Arinze Street	Oshodi/Isolo	Lagos	6.495	3.295	1	
 Arogundade Street	Surulere	Lagos	6.493	3.343	1	
 Amaize Are Street	Ìkòròdú	Lagos	6.633	3.507	1	
 Seriki Aro Link	Ikeja	Lagos	6.598	3.341	1	
-Jama'Ar Hazo Health Post	Makoda	Kano	12.546	8.521	0	
 Nike Art Gallery Road	Eti Osa	Lagos	6.427	3.482	1	
 Abolakale Lateef Arikawe Drive	Eti Osa	Lagos	6.426	3.528	1	
-Art & Craft Market	Municipal Area Council	FCT Abuja	9.070	7.410	0	
-Ariri Dispensary	Zaki	Bauchi	12.418	10.411	0	
-Jama'are Clinic	Jama'Are	Bauchi	11.673	9.934	0	
-Mai Ari	Alkaleri	Bauchi	10.017	10.683	0	
 Aromire Crescent	Eti Osa	Lagos	6.462	3.579	1	
 Ona-Ara Street	Ede North	Osun	7.720	4.492	1	
 Okoi Arikpo Street	Municipal Area Council	FCT Abuja	9.069	7.440	1	
@@ -488,8 +1363,7 @@ Mogaji Araromi Street	Alimosho	Lagos	6.524	3.245	1
 Oke-Aro Street	Oriade	Osun	7.571	4.895	1	
 Araromi Street	Oriade	Osun	7.571	4.891	1	
 Arutu Street	Isokan	Osun	7.355	4.179	1	
-ARAROMI OBO EKITI ROAD	Irepodun/Ifelodun	Ekiti	7.675	5.309	1	
-Government Arabic College	Gombe	Gombe	10.309	11.168	0	
+Araromi Obo Ekiti Road	Irepodun/Ifelodun	Ekiti	7.675	5.309	1	
 Salvation Army Road	Oshodi/Isolo	Lagos	6.533	3.315	1	
 Yinka Arogundade Street	Eti Osa	Lagos	6.474	3.569	1	
 Archbishop Ademowo Crescent	Oshodi/Isolo	Lagos	6.500	3.301	1	
@@ -507,7 +1381,6 @@ Kayode Arapatile Street	Ìkòròdú	Lagos	6.622	3.495	1
 Ayinde Are Street	Ìkòròdú	Lagos	6.630	3.506	1	
 Ishola Arojojoye Street	Eti Osa	Lagos	6.496	3.587	1	
 Arakale Road	Akure South	Ondo	7.251	5.194	1	
-44 Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.532	7.421	0	
 Araromi Street	Akure North	Ondo	7.256	5.212	1	
 Residential Areas	Geidam	Yobe	12.840	12.169	1	
 Departures and Arrivals	Bauchi	Bauchi	10.489	9.748	1	
@@ -525,7 +1398,6 @@ Sanni Arewa Aro Street	Eti Osa	Lagos	6.455	3.567	1
 Arigbabola Street	Ondo West	Ondo	7.101	4.819	1	
 Araromi Obo Ekiti Road	Irepodun/Ifelodun	Ekiti	7.697	5.313	1	
 Araromi Street	Adó-Èkìtì	Ekiti	7.604	5.215	1	
-Odo Arufe Street	Ekiti East	Ekiti	7.765	5.748	1	
 Arthur Richard Street	Oshimili South	Delta	6.181	6.748	1	
 Victorious Rd, Isekolowo Area, Oyo, Nigeria.	Oyo West	Oyo	7.878	3.928	1	
 Arch. John E. Edokpolor Street	Oredo	Edo	6.293	5.574	1	
@@ -546,21 +1418,136 @@ Arowodasa Success Street	Ibadan North	Oyo	7.427	3.934	1
 Salvation Army Road	Ibadan North West	Oyo	7.399	3.886	1	
 Aro Bamgbose Close	Eti Osa	Lagos	6.433	3.469	1	
 Arietallin Street	Yenegoa	Bayelsa	4.929	6.275	1	
-College of Arabic and Islamic Studies	Muhammadu Dikko Stadium	Katsina	12.976	7.601	0	
 arche road	Enugu East	Enugu	6.510	7.528	1	
-General Hospital Area	Asari-Toru	Rivers	4.740	6.860	0	
 Alh Ariyo Street	Kosofe	Lagos	6.540	3.400	1	
 MMIA Arrivals	Ikeja	Lagos	6.577	3.321	1	
+Ago_Are - Shaki Road	Saki West	Oyo	8.657	3.395	1	
+Hamzat Aramon Close	Obafemi Owode	Ogun	6.793	3.417	1	
+commercial area track road	Gombe	Gombe	10.307	11.174	1	
+Taiwo Aremu Street	Ifo	Ogun	6.675	3.305	1	
+Arogundade Close	Ìkòròdú	Lagos	6.622	3.524	1	
+small road to go residential area	Abaji	FCT Abuja	9.212	6.841	1	
+small road to residential area	Abaji	FCT Abuja	9.214	6.843	1	
+Baba Ari Street	Municipal Area Council	FCT Abuja	9.044	7.549	1	
+Nigerian Army Barrack Link	Enugu South	Enugu	6.391	7.492	1	
+Arin Alade Sawyer Close	Alimosho	Lagos	6.583	3.240	1	
+Nike Art Gallery Rd	Eti Osa	Lagos	6.433	3.482	1	
+Araromi Street	Mushin	Lagos	6.529	3.344	1	
+Aramoko - Ilesha Road	Irepodun/Ifelodun	Ekiti	7.661	5.141	1	
+Arepo Street	Epe	Lagos	6.590	3.967	1	
+Ago_Are - Shaki Road	Saki West	Oyo	8.595	3.401	1	
+Adekunle Araba Street	Oshodi/Isolo	Lagos	6.520	3.319	1	
+Ago_Are - Shaki Road	Saki West	Oyo	8.641	3.402	1	
+Amusa Arowolo Street	Ìkòròdú	Lagos	6.622	3.503	1	
+Baale Araromi Street	Eti Osa	Lagos	6.455	3.565	1	
+Fred Aranse Street	Alimosho	Lagos	6.658	3.278	1	
+Army Children School Iwo-Road	Ibadan North East	Oyo	7.405	3.936	0	
+Arinze Primary School	Ikpoba-Okha	Edo	6.322	5.632	0	
+Arisen Grace & Faith Schools	Oredo	Edo	6.330	5.632	0	
+Mari-ari Health Center	Alkaleri	Bauchi	10.273	10.342	0	
+Ariganbori Clinic	Guzamala	Borno	12.660	13.371	0	
+Oke Ari Health Post	Lagos Island	Lagos	6.460	3.385	0	
+Aribet Ventures Filling Station	Uvwie	Delta	5.569	5.777	0	
+Arkclinic	Uvwie	Delta	5.544	5.784	0	
+Aries Montessori School	Obio/Akpor	Rivers	4.827	7.048	0	
+Arigbau	Ado Odo/Ota	Ogun	6.510	3.081	0	
+Armed Forces Command and Staff College Secondary School, Jaji.	Igabi	Kaduna	10.843	7.561	0	
+Primary health care centre Dabagin Ardo	Dange-Shuni	Sokoto	12.954	5.382	0	
+Araromi Omoladun Market	Ifedore	Ondo	7.365	5.174	0	
+Ariyo Ii Market	Odigbo	Ondo	6.847	4.973	0	
+Arigidi Akoko Market	Akoko North West	Ondo	7.564	5.766	0	
+Arimogija Market	Ose	Ondo	6.826	5.708	0	
+Aruna Bus Stop	Ìkòròdú	Lagos	6.625	3.493	0	
+Arue Secondary School	Esan North-East	Edo	6.737	6.303	0	
+Arboko Health Clinic	Gwoza	Borno	11.146	13.856	0	
+Arolat Petrol station, Ayetoro	Yewa North	Ogun	7.241	3.029	0	
+Aromiwe Primary Health Care	Egbedore	Osun	7.835	4.481	0	
+ArgJoe Petroleum Nig. Ltd.	Ogbia	Bayelsa	4.829	6.351	0	
+Salvation Army Primary School III, Edu Agbara	Ado Odo/Ota	Ogun	6.505	3.101	0	
+Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.592	2.942	0	
+Salvation Army Primary School I, Agbara	Ado Odo/Ota	Ogun	6.584	3.192	0	
+Community Primary School, Araromi Oke-Aro	Ado Odo/Ota	Ogun	6.667	3.129	0	
+Salvation Army Primary School,Idoye	Ado Odo/Ota	Ogun	6.527	2.927	0	
+Salvation Army Primary School I, Edu Agbara	Ifo	Ogun	6.817	3.206	0	
+Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.559	2.929	0	
+All Saints Primary School, Araromi Ota	Ifo	Ogun	6.812	3.197	0	
+St. Peter'S African Church School, Oke-Aro	Ìjẹ̀bú Òde	Ogun	6.734	3.982	0	
+Salvation Army Primary School Egudu-Baale	Ìjẹ̀bú Òde	Ogun	6.714	3.962	0	
+St. Peter School Ii, Oke-Aro	Ìjẹ̀bú Òde	Ogun	6.818	3.930	0	
+Salvation Army School, Coker	Ado Odo/Ota	Ogun	6.709	3.236	0	
+Salvation Army Primary School Ijaba-Ota	Ado Odo/Ota	Ogun	6.737	3.260	0	
+Salvation Army School, Coker	Ifo	Ogun	6.816	3.196	0	
+All Saints Primary School, Araromi Ota	Ado Odo/Ota	Ogun	6.712	3.076	0	
+Community Primary School, Araromi Oke-Aro	Ifo	Ogun	6.704	3.320	0	
+St. Peter'S African Church School, Oke-Aro	Ifo	Ogun	6.683	3.321	0	
+St. Peter School Ii, Oke-Aro	Ifo	Ogun	6.683	3.321	0	
+Salvation Army Primary School Ijaba-Ota	Ado Odo/Ota	Ogun	6.644	3.171	0	
+Salvation Army Primary School,Idoye	Ado Odo/Ota	Ogun	6.591	3.069	0	
+Salvation Army Primary School Egudu-Baale	Ado Odo/Ota	Ogun	6.552	3.045	0	
+Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.538	3.064	0	
+Salvation Army Primary School I, Edu Agbara	Ado Odo/Ota	Ogun	6.536	3.067	0	
+Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.529	3.134	0	
+Salvation Army Primary School I, Agbara	Ado Odo/Ota	Ogun	6.505	3.102	0	
+Salvation Army Primary School II, Agbara	Ado Odo/Ota	Ogun	6.504	3.102	0	
+Old Artisan Market	Enugu North	Enugu	6.454	7.501	0	
+Gbemisola Memorial hospital, Boluwaji Area, Ibadan	Oluyole	Oyo	7.338	3.905	0	
+Aroro Pry Health Centre, Ojoo	Akinyele	Oyo	7.523	3.958	0	
+Araromi Market	Olorunsogo	Oyo	8.723	4.157	0	
+ST. Maria Goretti Academy Army engineer Jos	Jos North	Plateau	9.974	8.853	0	
+Oloye Olajumoke Akinjide Shopping Arcade Dutse Alhaji	Municipal Area Council	FCT Abuja	9.139	7.369	0	
+School for Arqabic and Islamic Studies	Yola North	Adamawa	9.207	12.488	0	
+Army Children School	Bauchi	Bauchi	10.331	9.814	0	
+Department Of Architecture	Owerri West	Imo	5.384	6.991	0	
+Ark Of God Covenant Clinics And Maternity	Kaduna South	Kaduna	10.467	7.410	0	
+44 Army Hospital No13 Abba Road Off Lea Primary School Kagoro Road	Kaduna North	Kaduna	10.557	7.441	0	
+44 Army Hospital No27 Idenpence Way Kaduna	Kaduna North	Kaduna	10.513	7.441	0	
+312 Artenary Kalapanzi Barracks Primary Health Center	Kaduna South	Kaduna	10.455	7.420	0	
+312 Artillery Hospital	Kaduna South	Kaduna	10.459	7.420	0	
+Giltoo Aris Specialist Hospital	Kaduna South	Kaduna	10.482	7.428	0	
+Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.535	7.422	0	
+The Ark Hospital And Maternity Centre	Alimosho	Lagos	6.606	3.254	0	
+Araba Medical Center	Alimosho	Lagos	6.640	3.278	0	
+Rauf Aregbesola Flagship Pry Healthcare Center	Alimosho	Lagos	6.595	3.283	0	
+Faculty of Arts	Jos North	Plateau	9.967	8.884	0	
+Ramla Academy Arabic And English	Ungongo	Kano	12.049	8.571	0	
+Dar Arqam	Ungongo	Kano	12.057	8.583	0	
+Premier College Of Art And Science School	Gwale	Kano	11.963	8.480	0	
+Artemis Hospital	Owerri Municipal	Imo	5.493	7.058	0	
+Keny Armani	Oshimili North	Delta	6.210	6.671	0	
+Faculty of Art Unilag	Shomolu	Lagos	6.520	3.398	0	Faculty of Art
+AFIT Armament Engineering Department	Kaduna North	Kaduna	10.611	7.443	0	
+FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
+FGVV+JQH, Omu-Aran-Oja Oba, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.494	4.544	0	
+Eruda L.G.E.A School, Eruda Area, Temidire Street, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.543	0	
+New Artisan	Enugu North	Enugu	6.453	7.542	0	
+Arts and social science	Ovia North-East	Edo	6.742	5.406	0	
+Theatre Art Department	Ovia North-East	Edo	6.741	5.406	0	
+Arepo Bustop	Obafemi Owode	Ogun	6.736	3.419	0	
+Noah's Ark International School	Karu	Nasarawa	9.045	7.596	0	
+Faculty of Arts	Ife Central	Osun	7.513	4.525	0	English
+Smarth Sports Academy/Arena	Municipal Area Council	FCT Abuja	9.109	7.377	0	
+Arab Junction	Municipal Area Council	FCT Abuja	8.965	7.496	0	
+Arab Junction	Municipal Area Council	FCT Abuja	9.068	7.447	0	
+Area 3 Junction	Municipal Area Council	FCT Abuja	9.025	7.476	0	
+Area One	Municipal Area Council	FCT Abuja	9.029	7.470	0	
+Area 8 Bus Station	Municipal Area Council	FCT Abuja	9.035	7.488	0	
+Arab Junction Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.445	0	
+Area 10 Bus Stop	Municipal Area Council	FCT Abuja	9.039	7.486	0	
+Boja Arts Theatre	Ede South	Osun	7.682	4.457	0	
+Jama'Ar Hazo Health Post	Makoda	Kano	12.546	8.521	0	
+Art & Craft Market	Municipal Area Council	FCT Abuja	9.070	7.410	0	
+Ariri Dispensary	Zaki	Bauchi	12.418	10.411	0	
+Jama'are Clinic	Jama'Are	Bauchi	11.673	9.934	0	
+Mai Ari	Alkaleri	Bauchi	10.017	10.683	0	
+Government Arabic College	Gombe	Gombe	10.309	11.168	0	
+44 Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.532	7.421	0	
+College of Arabic and Islamic Studies	Muhammadu Dikko Stadium	Katsina	12.976	7.601	0	
+General Hospital Area	Asari-Toru	Rivers	4.740	6.860	0	
 Army Barrack Health Clinic	Nguru	Yobe	12.878	10.491	0	
 Ariaria International Market	Aba North	Abia	5.117	7.337	0	
-Ago_Are - Shaki Road	Saki West	Oyo	8.657	3.395	1	
 Arigbajo Market	Ifo	Ogun	6.842	3.193	0	
-Hamzat Aramon Close	Obafemi Owode	Ogun	6.793	3.417	1	
-Victoria Arobieke Street	Eti Osa	Lagos	6.448	3.472	1	
 Rauf Aregbesola Primary School	Alimosho	Lagos	6.597	3.303	0	
-commercial area track road	Gombe	Gombe	10.307	11.174	1	
 Aronsaye Maternity	Oredo	Edo	6.337	5.631	0	
-Taiwo Aremu Street	Ifo	Ogun	6.675	3.305	1	
 Armed Forces	Fagge	Kano	12.033	8.517	0	
 33 Artillery Brigade Medical Center	Bauchi	Bauchi	10.323	9.816	0	33 AB MC
 Salvation Army Primary School	Ìkòròdú	Lagos	6.620	3.507	0	
@@ -568,63 +1555,18 @@ Health Clinic, Aremo, Atipe	Ibadan North East	Oyo	7.378	3.916	0
 Arkilla PHC	Wamako	Sokoto	13.034	5.199	0	
 Ariri Maternity	Zaki	Bauchi	12.416	10.410	0	
 Arawa Dispensary	Jama'Are	Bauchi	11.714	9.928	0	Fatiske Jauro Alabura North
-Arogundade Close	Ìkòròdú	Lagos	6.622	3.524	1	
 Art Faculty	Awka North	Anambra	6.244	7.117	0	
 Ar-Raqeeb Oil & Gas	Ifako/Ijaye	Lagos	6.636	3.337	0	
 231 Tank Batallion Nigerian Army Medical Corps	Biu	Borno	10.595	12.193	0	231/331 MRS
-small road to go residential area	Abaji	FCT Abuja	9.212	6.841	1	
-small road to residential area	Abaji	FCT Abuja	9.214	6.843	1	
 Arnari Health Clinic	Konduga	Borno	11.722	13.454	0	
 Wuro Ardo Health Clinic	Yola North	Adamawa	9.158	12.598	0	
 kwabuon ardo heath clinic	Maiha	Adamawa	10.039	13.134	0	
 Garin Ari Health Clinic	Fika	Yobe	11.326	11.464	0	
 Arnado Debbo Primary Health Care	Ganye	Adamawa	8.409	12.059	0	
 General Hospital Argungu	Argungu	Kebbi	12.736	4.527	0	
-JIBWIS ARAWA	Gombe	Gombe	10.313	11.174	0	
-Wole Ariyo Street	Eti Osa	Lagos	6.444	3.459	1	
-Baba Ari Street	Municipal Area Council	FCT Abuja	9.044	7.549	1	
-Nigerian Army Barrack Link	Enugu South	Enugu	6.391	7.492	1	
+Jibwis Arawa	Gombe	Gombe	10.313	11.174	0	
 Nigerian Army University, Biu	Biu	Borno	10.605	12.132	0	
-Arin Alade Sawyer Close	Alimosho	Lagos	6.583	3.240	1	
-Nike Art Gallery Rd	Eti Osa	Lagos	6.433	3.482	1	
 Armament Engineering Department - NBTE	Kaduna North	Kaduna	10.612	7.443	0	
-Araromi Street	Mushin	Lagos	6.529	3.344	1	
-Aramoko - Ilesha Road	Irepodun/Ifelodun	Ekiti	7.661	5.141	1	
 Arewa Specialist Hospital	Municipal Area Council	FCT Abuja	9.072	7.416	0	
-ARAROMI OBO EKITI	Irepodun/Ifelodun	Ekiti	7.685	5.325	3	
-Arepo Street	Epe	Lagos	6.590	3.967	1	
-Ago_Are - Shaki Road	Saki West	Oyo	8.595	3.401	1	
-Adekunle Araba Street	Oshodi/Isolo	Lagos	6.520	3.319	1	
-Ago_Are - Shaki Road	Saki West	Oyo	8.641	3.402	1	
-Amusa Arowolo Street	Ìkòròdú	Lagos	6.622	3.503	1	
 Nigeria Arabic Language Village Ngala	Maiduguri	Borno	11.820	13.162	0	
-Baale Araromi Street	Eti Osa	Lagos	6.455	3.565	1	
 Prince Arthur Eze Mother & Child Complex	Nnewi North	Anambra	5.997	6.880	0	
-Fred Aranse Street	Alimosho	Lagos	6.658	3.278	1	
-Maigatari Arewa	Maigatari	Jigawa	12.797	9.401	2	
-Kofar Arewa	Gumel	Jigawa	12.641	9.390	2	
-Arki	Malam Maduri	Jigawa	12.409	9.933	2	
-Arbus	Kaugama	Jigawa	12.574	9.796	2	
-Unguwar Arewa	Kazaure	Jigawa	12.663	8.408	2	
-Araba	Illela	Sokoto	13.752	5.358	2	
-Arewa Dandi	Arewa Dandi	Kebbi	12.722	4.075	2	
-Argungu	Argungu	Kebbi	12.697	4.447	2	
-Aribi	Kagarko	Kaduna	9.572	7.884	2	
-Arak	Sanga	Kaduna	9.287	8.337	2	
-Gyadi Gyadi Arewa	Tarauni	Kano	11.975	8.542	2	
-Yautar Arewa	Gabasawa	Kano	12.248	8.741	2	
-Arewa 2	Muhammadu Dikko Stadium	Katsina	13.022	7.576	2	
-Arewa 1	Muhammadu Dikko Stadium	Katsina	12.995	7.595	2	
-Arochukwu	Arochukwu	Abia	5.519	7.869	2	
-Municipal Area Council	Municipal Area Council	FCT Abuja	8.898	7.394	2	
-Ona Ara	Ona Ara	Oyo	7.259	4.065	2	
-Ardoram	Magumeri	Borno	12.182	12.669	2	
-Arege	Abadam	Borno	13.418	13.417	2	
-Ari	Ningi	Bauchi	10.973	9.536	2	
-Jama'are A	Jama'Are	Bauchi	11.664	9.919	2	
-Jama'are D	Jama'Are	Bauchi	11.690	9.922	2	
-Jama'are B	Jama'Are	Bauchi	11.669	9.938	2	
-Jama'are C	Jama'Are	Bauchi	11.657	9.928	2	
-Ardimini	Gubio	Borno	12.456	12.561	2	
-Jama'Are	Jama'Are	Bauchi	11.652	9.889	2	
-Arkilla	Wamako	Sokoto	13.023	5.214	2	

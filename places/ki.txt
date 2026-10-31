@@ -1,3 +1,16 @@
+Kirkatha	Shani	Borno	10.088	11.957	3	Bargu
+Kiri	Guyuk	Adamawa	9.685	11.999	3	
+Kinsha	Gamawa	Bauchi	12.319	10.694	3	
+Kishi	Irepo	Oyo	9.083	3.850	3	
+Kiru	Kiru	Kano	11.702	8.135	3	
+Zango	Kibiya	Kano	11.530	8.659	3	Kibiya
+Kiyawa	Kiyawa	Jigawa	11.784	9.607	3	
+Kisi	Irepo	Oyo	9.083	3.852	3	Kishi
+Karkarna	Yankwashi	Jigawa	12.767	8.510	3	Kirkirna
+Kiri Kasamma	Kiri Kasama	Jigawa	12.693	10.255	3	Kiri Kasama|Kirikasama|Kirikasamma
+Kirfi	Kirfi	Bauchi	10.406	10.405	3	Kirfin Kasa|Kirifi
+Auyo	Auyo	Jigawa	12.333	9.939	3	Kiggin
+Kibiya	Kibiya	Kano	11.528	8.661	3	
 Tabkin Kiria	Isa	Sokoto	13.310	6.706	2	
 Kigam	Sakaba	Kebbi	11.105	5.825	2	
 Katti Kime	Tarmua	Yobe	12.099	12.191	2	Kati Kime
@@ -12,7 +25,6 @@ Kiahun	Ngaski	Kebbi	10.414	4.843	2
 Kiasa	Kware	Sokoto	13.109	5.274	2	
 Kilya	Gwadabawa	Sokoto	13.482	5.347	2	
 Kitakite	Tibiri	Kebbi	13.181	4.138	2	
-Kirkatha	Shani	Borno	10.088	11.957	3	Bargu
 Kiadan Tudu	Arewa Dandi	Kebbi	12.973	4.171	2	Kiada
 Kiyun	Baruten	Kwara	8.717	2.983	2	Kiyon;Kyanu
 Kiyako	Birnin Kudu	Jigawa	11.382	9.529	2	Kiyato
@@ -50,13 +62,11 @@ Kinkiya	Ngaski	Kebbi	10.297	4.853	2
 Kimu	Ngaski	Kebbi	10.816	4.890	2	
 Gidan Kitchira	Silame	Sokoto	13.009	4.687	2	
 Kiri	Fakai	Kebbi	11.627	4.901	2	
-Kiri Kasamma	Kiri Kasama	Jigawa	12.693	10.255	2	Kiri Kasama;Kirikasamma;Kirikasama
 Kirikashima	Konduga	Borno	11.389	12.964	2	
 Tunga Kilmo	Bagudo	Kebbi	11.032	4.381	2	
 Bio-Kikwana	Bagudo	Kebbi	11.523	4.208	2	
 Kilibiama	Opobo/Nkoro	Rivers	4.524	7.510	2	
 Kimtir	Shani	Borno	10.339	11.958	2	
-Kiri	Guyuk	Adamawa	9.685	11.999	3	
 Tiraku Kirbwala	Hawul	Borno	10.484	12.355	2	Tiraku
 Kijawal	Ringim	Jigawa	12.107	8.947	2	
 Kida Wakaya	Hawul	Borno	10.499	12.091	2	Kidda Fulani
@@ -66,6 +76,7 @@ Kililawa	Gwadabawa	Sokoto	13.245	5.335	2
 Kirikakiri	Akuku Toru	Rivers	4.598	6.643	2	
 Kigbera	Borgu	Niger	10.877	3.878	2	
 Kirzuma	Monguno	Borno	12.600	13.662	2	
+Kifam	Ussa	Taraba	7.250	10.117	2	Kisam
 Kidda	Mubi South	Adamawa	10.227	13.306	2	
 Kimba	Biu	Borno	10.826	12.420	2	
 Kinging	Hong	Adamawa	10.386	12.734	2	Kingin
@@ -93,7 +104,6 @@ Kirare	Goronyo	Sokoto	13.425	5.654	2
 Kiawa	Birnin Magaji-Kiyaw	Zamfara	12.436	6.801	2	
 Kiri Kwanawa	Gada	Sokoto	13.623	5.551	2	
 Karim Kir	Kwaya Kusar	Borno	10.559	11.975	2	Karin Kura
-Kinsha	Gamawa	Bauchi	12.319	10.694	3	
 Bukr Kimeri	Magumeri	Borno	12.103	12.469	2	
 Kirfin Kasa	Kirfi	Bauchi	10.405	10.403	2	
 Kirdidila Dakwama	Askira-Uba	Borno	10.646	13.123	2	Kilindilla
@@ -115,23 +125,15 @@ Kiriya	Binji	Sokoto	13.261	4.916	2
 Kitikwa	Paikoro	Niger	9.417	7.050	2	Kitikw
 Kirawa	Gwoza	Borno	11.193	13.909	2	Kerawa;Keraua
 Kyari Keluri	Mobbar	Borno	13.373	12.883	2	Kindil Chiro
-Kishi	Irepo	Oyo	9.083	3.850	3	
 Chamalwa	Biu	Borno	10.822	12.432	2	Kimba Chamalwa
 Kirkidang	Hawul	Borno	10.546	12.174	2	Kirkidum
 Kuba	Hawul	Borno	10.541	12.121	2	Kirbola
 Kirbila	Hawul	Borno	10.419	12.100	2	
 Kircha	Bama	Borno	11.344	13.961	2	
-Kings Citadel Seminary School	Egor	Edo	6.365	5.625	0	
-King's and Queen's Education Centre	Egor	Edo	6.367	5.630	0	
-Royal Kiddies Academy	Oredo	Edo	6.345	5.608	0	
 Gidan Kiriya	Illela	Sokoto	13.789	5.344	2	
-Kiddies International Primary School	Muhammadu Dikko Stadium	Katsina	12.986	7.618	0	
 Kidjimatari	Bama	Borno	11.303	13.999	2	
-Kiru General Hospital	Kiru	Kano	11.707	8.135	0	
-Kirya Health Post	Dawakin Tofa	Kano	12.213	8.389	0	
 Dorawar Yan Kifi	Ungongo	Kano	12.006	8.466	2	
 Kiroro	Ajingi	Kano	11.959	9.118	2	Kirara
-Kicks Filling Station	Ibadan South East	Oyo	7.342	3.907	0	
 Garere Kiriye	Abadam	Borno	13.198	13.266	2	Gariye
 Kinging	Hawul	Borno	10.534	12.230	2	
 Kirbiri	Hawul	Borno	10.544	12.121	2	
@@ -185,7 +187,6 @@ S Kishiw	Hawul	Borno	10.636	12.016	2	Samavina Kishiw
 Thye Kida	Hawul	Borno	10.582	12.026	2	
 Kingal	Biu	Borno	10.595	12.245	2	
 Kirtumpui	Hawul	Borno	10.558	12.167	2	
-Kimeri Primary Health Clinic	Jere	Borno	11.709	13.320	0	
 Diwa Kitsa	Biu	Borno	10.677	12.362	2	
 Mararaba Kimba	Biu	Borno	10.788	12.416	2	
 Mararaba Kimbaq	Biu	Borno	10.797	12.411	2	
@@ -194,15 +195,9 @@ Kiazarati	Damboa	Borno	11.055	12.528	2
 Kirkasama	Damboa	Borno	11.159	12.748	2	
 Kircha Agashiwa	Bama	Borno	11.351	13.956	2	
 Kircha Dungus	Bama	Borno	11.368	13.955	2	
-Knowledge Base International Kiddies Embassy	Akinyele	Oyo	7.527	3.925	0	
-Kingdom Heritage Schools	Owerri Municipal	Imo	5.482	7.013	0	
 Malam Kiaridi Barou	Goudoumaria	Yobe	13.382	11.341	2	
 Afofo Kiska	Diffa	Yobe	13.095	12.357	2	
 Kiri Koudo	Diffa	Yobe	13.088	12.353	2	
-Kimiowe Filling Station	Kolokuma/Opokuma	Bayelsa	5.121	6.296	0	
-Kinmason Pet Filling Station	Uvwie	Delta	5.544	5.769	0	
-Perfect Kiddies	Uvwie	Delta	5.548	5.776	0	
-Christ d King School	Uvwie	Delta	5.559	5.774	0	
 Garu Kire Abatchori	Monguno	Borno	12.705	13.566	2	
 Garu Kime Annori	Monguno	Borno	12.714	13.567	2	
 Garu Kime Kyari Kanu	Monguno	Borno	12.701	13.569	2	
@@ -217,21 +212,9 @@ Moworam Bukar Kiriyaye	Guzamala	Borno	12.830	13.274	2
 Kingiri Buzabe	Nganzai	Borno	12.645	13.252	2	
 Kingarwa Gana	Nganzai	Borno	12.578	13.363	2	
 Nolwodo Mallum Kinnari	Guzamala	Borno	12.751	13.353	2	
-Kidscomputer Academy	Uvwie	Delta	5.546	5.771	0	
-Christ the King Schools	Uvwie	Delta	5.563	5.773	0	
-Glorious Kid Academy	Uvwie	Delta	5.554	5.778	0	
-Glorious Kiddies School	Uvwie	Delta	5.566	5.782	0	
-The Kiib School	Obio/Akpor	Rivers	4.835	7.028	0	
-Kiri Market	Gada	Sokoto	13.583	5.567	0	
 Kisani	Bukkuyum	Zamfara	12.001	5.678	2	
 Kiluje	Bodinga	Sokoto	12.655	5.324	2	Keloji
 Kona Kinba	Dange-Shuni	Sokoto	12.967	5.290	2	
-Oro Kingdom Market	Odigbo	Ondo	6.901	4.897	0	
-Kiribo Market	Ese Odo	Ondo	6.340	4.920	0	
-Windsor Locks School, Kingston Estate	Municipal Area Council	FCT Abuja	9.092	7.378	0	
-Kingdom Heritage Model School	Ogbomosho North	Oyo	8.164	4.258	0	
-Monika Kindergarten	Ikot Ekpene	Akwa Ibom	5.171	7.729	0	
-Kiru	Kiru	Kano	11.702	8.135	3	
 Kilishi	Karaye	Kano	11.698	8.042	2	
 Kirama	Kunchi	Kano	12.393	8.357	2	
 Kirya Cikin Gari	Dawakin Tofa	Kano	12.211	8.397	2	
@@ -240,41 +223,345 @@ Kiyawa	Gabasawa	Kano	12.073	8.828	2
 Kakau	Gabasawa	Kano	12.082	8.827	2	Kiawa
 Kirya Tudu	Kura	Kano	11.819	8.452	2	
 Kim	Tudun Wada	Kano	11.337	8.660	2	
-Zango	Kibiya	Kano	11.530	8.659	3	Kibiya
 Kin Kin	Garko	Kano	11.681	8.773	2	
-King Fahad Hospital	Gusau	Zamfara	12.153	6.694	0	
-Kirawe General Hospital	Gwoza	Borno	11.199	13.903	0	
-Kirawa Dispensary	Gwoza	Borno	11.190	13.911	0	
-kilange heath post	Maiha	Adamawa	10.171	13.124	0	
-Kimiowei Filling Station	Yenegoa	Bayelsa	4.934	6.285	0	
-King Koko Express	Yenegoa	Bayelsa	4.935	6.285	0	
-King Pearl's Learning Field, Elelenwo	Eleme	Rivers	4.826	7.082	0	
-Christ the king Hospital	Enugu East	Enugu	6.478	7.487	0	
 Kiagbodor	Isoko South	Delta	5.416	6.113	2	
-King Nnah Ngonwa Memory Hall	Tai	Rivers	4.741	7.203	0	
-Kingdomite Academy	Jos North	Plateau	9.874	8.934	0	
-Kiramisau Health Post	Kiri Kasama	Jigawa	12.551	10.141	0	
 Kirfin Sama	Kirfi	Bauchi	10.409	10.421	2	
-Barau Dikko Hospital NoBN13 Kinshasha Road Unguwan Rimi Kaduna	Kaduna North	Kaduna	10.534	7.462	0	
-Irewe Primary Care Health Center Osulu Kingdom	Ojo	Lagos	6.418	3.145	0	
-Kiladejo Hospital	Ojo	Lagos	6.470	3.195	0	
-Saint Kizito Clinic	Mushin	Lagos	6.521	3.352	0	
-Kikimore Lodge	Akure South	Ondo	7.288	5.149	0	
-Denoy kids academy & college	Alimosho	Lagos	6.522	3.228	0	
-kingfield diagnostic services	Kosofe	Lagos	6.607	3.422	0	
-MAKARANTAR LAYIN ISIYAKU MAI KIFI	Gwale	Kano	11.957	8.472	0	
 Kiagbodo	Ughelli South	Delta	5.375	5.893	2	
-Ebony Kids International School	Idemili South	Anambra	6.037	6.928	0	
-Kirikiri	Lagos Island	Lagos	6.489	3.436	0	
-Precious Kids Academy	Bauchi	Bauchi	10.272	9.803	0	
-Kingsland College oke foma ilorin, Ilorin, Nigeria	Ilorin West	Kwara	8.494	4.505	0	
-Ero Omo Hospital, Kilanko Road, Ilorin, Nigeria	Ilorin East	Kwara	8.453	4.585	0	
-Kilanko Primary School, Ilorin, Nigeria	Ilorin East	Kwara	8.448	4.600	0	
-The Kingsway Private School	Ojo	Lagos	6.465	3.150	0	
-Ambassador Kingsley Motors Nig Ltd	Municipal Area Council	FCT Abuja	9.121	7.386	0	
-Mum'S Kitchen	Municipal Area Council	FCT Abuja	9.142	7.374	0	
-Udddy King Petol Station	Calabar Municipal	Cross River	4.998	8.335	0	
 King Point	Akpabuyo	Cross River	4.694	8.500	2	
+Borno Kiji	Fune	Yobe	12.201	11.323	2	
+Kila	Gwaram	Jigawa	11.315	9.775	2	
+Kiri	Taura	Jigawa	12.277	9.474	2	
+Kiri Kasamma	Kiri Kasama	Jigawa	12.684	10.241	2	
+Kiyako	Birnin Kudu	Jigawa	11.352	9.584	2	
+Kiyana N Malami	Birnin Magaji-Kiyaw	Zamfara	12.423	6.833	2	
+Kilgori	Yabo	Sokoto	12.820	5.010	2	
+Kiri	Gada	Sokoto	13.578	5.551	2	
+Kimba	Jega	Kebbi	12.032	4.411	2	
+Rafin Kirya	Shanga	Kebbi	11.432	4.583	2	
+Kidandan	Giwa	Kaduna	10.935	7.119	2	
+Kinkiba	Soba	Kaduna	10.942	7.918	2	
+Kiyawa	Bagwai	Kano	12.120	8.175	2	
+Kiru	Kiru	Kano	11.708	8.162	2	
+Kibiya 1	Kibiya	Kano	11.531	8.660	2	
+Kibiya 2	Kibiya	Kano	11.517	8.693	2	
+Kibiya	Kibiya	Kano	11.493	8.697	2	
+Kiru	Kiru	Kano	11.557	8.099	2	
+Birnin Magaji-Kiyaw	Birnin Magaji-Kiyaw	Zamfara	12.472	6.869	2	
+Kira	Musawa	Katsina	12.169	7.822	2	
+Kirenowa	Marte	Borno	12.515	13.998	2	
+Kingarawa	Guzamala	Borno	12.607	13.409	2	
+Kirawa	Gwoza	Borno	11.237	13.899	2	
+Marama Kidang	Hawul	Borno	10.416	12.154	2	
+Kiyawa	Kiyawa	Jigawa	11.798	9.625	2	
+Kiyawa	Kiyawa	Jigawa	11.796	9.519	2	
+Kiri Kasama	Kiri Kasama	Jigawa	12.598	10.251	2	
+Kilbori B	Shira	Bauchi	11.514	10.152	2	
+Kilbori A	Shira	Bauchi	11.546	10.054	2	
+Kirfi	Kirfi	Bauchi	10.439	10.536	2	
+Kidda	Hawul	Borno	10.585	12.285	2	
+Kingowa	Gubio	Borno	12.603	12.880	2	
+Kinemuba	Ngala	Borno	12.285	14.117	2	Zilad
+Zangula Kilba	Hong	Adamawa	10.298	12.772	2	
+Yerima Killa	Ardo-Kola	Taraba	8.745	11.375	2	
+Ungwan Sarkin Kida	Tudun Wada	Kano	11.268	8.366	2	Sarkin Kida
+Unguwan Kigo	Karaye	Kano	11.768	8.048	2	
+Tajiri Kila	Jada	Adamawa	8.717	12.462	2	
+Sabon-Gidan Kireyi	Lafia	Nasarawa	8.532	8.687	2	Kireyi|Sabon Gida|Sabon-GidanKireyi|SabonGida
+Rumnde Kila	Yola South	Adamawa	9.220	12.409	2	Runde Kila
+Ruan Kiria	Koko-Besse	Kebbi	11.300	4.350	2	
+Rafin Kiria	Fakai	Kebbi	11.528	4.499	2	
+Osolo-Kilarigbe	Ejigbo	Osun	7.793	4.335	2	Osolo Kilarigbe|OsoloKilarigbe
+New Kitimi	Kauru	Kaduna	10.311	8.270	2	
+Mawadaci	Maru	Zamfara	11.139	6.109	2	Kiyu|Mawadach
+Kirshigi	Funakaye	Gombe	11.022	11.443	2	Kursigi
+Kizhi	Mashegu	Niger	9.765	5.199	2	
+Kizanchie	Kaura	Kaduna	9.713	8.574	2	Kizanche
+Kiyun	Baruten	Kwara	8.729	2.987	2	Kiyon|Kyanu
+Kiyeseni	Afijio	Oyo	7.734	4.064	2	
+Kiyawa	Birnin Magaji-Kiyaw	Zamfara	12.441	6.809	2	Kiawa
+Kiyawa	Bagwai	Kano	12.117	8.188	2	Kivawa
+Kiyato	Birnin Kudu	Jigawa	11.383	9.533	2	Kiyako
+Kivingigh	Keana	Nasarawa	8.084	8.769	2	
+Kituku	Toto	Nasarawa	8.253	7.245	2	
+Kitirinda	Gombi	Adamawa	10.247	12.479	2	
+Kitikuri	Igabi	Kaduna	10.782	7.311	2	
+Kitibir	Zangon Kataf	Kaduna	9.864	8.495	2	Kitibin
+Kitsa	Lavun	Niger	9.410	5.714	2	Kitcha
+Kitbin	Kauru	Kaduna	9.888	8.510	2	
+Kita	Ori Ire	Oyo	8.487	4.239	2	
+Kita	Garki	Jigawa	12.418	9.053	2	
+Kisogana	Yusufari	Yobe	13.109	10.722	2	
+Kiso	Gudu	Sokoto	13.456	4.353	2	Kisso
+Kishr	Gassol	Taraba	8.567	10.317	2	
+Kisirtimi	Gombi	Adamawa	10.072	12.626	2	
+Kisiltimi	Gombi	Adamawa	10.095	12.653	2	
+Kishi	Ushongo	Benue	7.162	8.820	2	
+Kishesha	Bassa	Plateau	9.780	8.652	2	
+Kishesha	Kauru	Kaduna	9.769	8.624	2	
+Kisa	Shendam	Plateau	8.781	9.483	2	Fentum|Kissa
+Kiru	Gombi	Adamawa	10.042	12.285	2	
+Kirrikasamma	Kafin Hausa	Jigawa	12.275	10.092	2	
+Kirmi	Hawul	Borno	10.522	12.433	2	
+Kirmbote	Hawul	Borno	10.507	12.204	2	
+Kirkidum	Hawul	Borno	10.545	12.174	2	
+Kiriya	Binji	Sokoto	13.267	4.900	2	
+Kiringoro	Magumeri	Borno	12.083	12.774	2	
+Kiringivin	Hawul	Borno	10.347	12.022	2	
+Kirindi	Damban	Bauchi	11.467	10.717	2	
+Kirim	Karim Lamido	Taraba	9.336	10.905	2	
+Kirikakiri	Brass	Bayelsa	4.333	6.255	2	
+Kiriji	Abeokuta North	Ogun	7.105	3.244	2	
+Kiri	Taura	Jigawa	12.285	9.471	2	
+Kiri	Gombi	Adamawa	10.127	12.608	2	
+Kiri	Fufore	Adamawa	9.098	12.223	2	
+Kiri	Teungo	Adamawa	8.150	11.950	2	
+Kirgamu	Machina	Yobe	12.854	9.882	2	
+Kireyi	Lafia	Nasarawa	8.533	8.683	2	
+Kiremi	Lagelu	Oyo	7.558	4.038	2	
+Kircha Dungus	Bagudo	Kebbi	11.367	3.950	2	
+Kirbutu	Hawul	Borno	10.484	12.432	2	
+Kirbori	Shira	Bauchi	11.610	10.039	2	
+Kirbola	Hawul	Borno	10.543	12.120	2	
+Kirbi	Ardo-Kola	Taraba	8.854	11.256	2	
+Kirba	Yusufari	Yobe	13.085	11.325	2	
+Kirazare	Gabasawa	Kano	12.137	8.820	2	
+Kiraso	Birnin Gwari	Kaduna	10.859	6.720	2	
+Kirare	Goronyo	Sokoto	13.423	5.656	2	
+Kirara	Ajingi	Kano	11.967	9.117	2	
+Kirana	Jos South	Plateau	9.803	8.867	2	
+Kipi	Bassa	Kogi	7.855	7.119	2	Chikpi
+Kintinkis	Fika	Yobe	11.544	11.073	2	
+Kintaru	Kachia	Kaduna	9.650	7.617	2	
+Kinna	Maigatari	Jigawa	12.646	9.754	2	
+Kinkinyinun	Ife North	Osun	7.333	4.400	2	Kinkinginun
+Kinkiba	Soba	Kaduna	11.004	7.879	2	
+Kinikini	Saki West	Oyo	8.665	3.379	2	
+Kingoa	Guzamala	Borno	13.044	13.552	2	
+Kingoa	Geidam	Yobe	12.615	11.965	2	
+Kingoa	Gubio	Borno	12.526	12.906	2	
+Kingoa	Borsari	Yobe	12.447	11.323	2	
+Kingoa	Magumeri	Borno	12.065	12.896	2	
+Kingking	Askira-Uba	Borno	10.709	13.115	2	
+Kinduru	Dange-Shuni	Sokoto	12.843	5.332	2	Kindiru
+Kindilwa	Borsari	Yobe	12.682	11.735	2	
+Kindil Chiro	Mobbar	Borno	13.374	12.883	2	
+Kindagirma	Maiha	Adamawa	9.567	13.100	2	
+Kinci	Darazo	Bauchi	11.267	10.567	2	
+Kinchau	Warawa	Kano	11.957	8.781	2	
+Kinashi	Giwa	Kaduna	11.025	7.006	2	
+Kimuru	Kauru	Kaduna	10.238	8.380	2	
+Kimodo	Kaiama	Kwara	9.671	3.927	2	
+Kimigbene	Southern Ijaw	Bayelsa	4.655	6.149	2	
+Kimbi	Mariga	Niger	10.533	5.983	2	
+Kimbi	Konshisha	Benue	7.274	8.502	2	
+Kimba Chamalwa	Biu	Borno	10.820	12.436	2	
+Kilpin	Ganjuwa	Bauchi	10.697	9.918	2	
+Kilishi	Karaye	Kano	11.687	8.010	2	
+Kilim	Hong	Adamawa	10.217	13.093	2	
+Kilibi	Lagelu	Oyo	7.522	4.007	2	
+Kile	Imeko Afon	Ogun	7.475	3.005	2	
+Kile	Kwande	Benue	6.579	9.556	2	
+Kilbula	Hawul	Borno	10.577	12.114	2	
+Kilboa	Yusufari	Yobe	13.326	11.267	2	
+Kilboa	Yusufari	Yobe	13.291	11.215	2	
+Kilawa	Akko	Gombe	10.023	11.015	2	
+Kilating	Sardauna	Taraba	6.583	11.350	2	
+Kiliarnga	Askira-Uba	Borno	10.704	12.761	2	Kilarnga
+Kilar	Gombi	Adamawa	10.054	12.358	2	
+Kila Kumagun	Yunusari	Yobe	13.226	11.350	2	
+Kila Kila	Gombi	Adamawa	10.068	12.709	2	
+Kilakasa	Askira-Uba	Borno	10.868	13.161	2	
+Kila Daje	Bali	Taraba	8.237	11.051	2	
+Kilabo	Biriniwa	Jigawa	12.781	9.792	2	
+Kila	Gwaram	Jigawa	11.333	9.767	2	
+Kila	Jada	Adamawa	8.819	12.711	2	
+Kila	Mayo-Belwa	Adamawa	8.622	11.823	2	
+Kila	Bali	Taraba	8.405	11.486	2	
+Kikundu	Wukari	Taraba	7.990	10.017	2	
+Kikobi	Kauru	Kaduna	9.840	8.621	2	
+Kiki	Gboko	Benue	7.167	8.733	2	
+Kigo	Igabi	Kaduna	10.933	7.683	2	
+Kighir	Kwande	Benue	6.901	9.522	2	
+Kighil	Konshisha	Benue	7.138	8.640	2	
+Kigana	Birnin Gwari	Kaduna	10.500	6.133	2	
+Kigagba	Konshisha	Benue	7.062	8.715	2	
+Kiel	Jama'Are	Bauchi	11.600	9.850	2	
+Kideye	Kala-Balge	Borno	11.739	14.360	2	
+Kidda Fulani	Hawul	Borno	10.494	12.093	2	
+Kidda	Hawul	Borno	10.497	12.159	2	
+Kidari	Bama	Borno	11.442	13.798	2	
+Kidari	Hawul	Borno	10.514	12.095	2	
+Kidandan	Giwa	Kaduna	11.054	7.196	2	
+Kidan	Hawul	Borno	10.427	12.146	2	Kidang
+Kibori	Zangon Kataf	Kaduna	9.857	8.422	2	Kibari
+Kibon	Mayo-Belwa	Adamawa	8.751	11.939	2	
+Kibla	Gombi	Adamawa	10.306	12.429	2	
+Kibiare	Yabo	Sokoto	12.823	4.897	2	
+Kiberi	Gamawa	Bauchi	12.189	10.499	2	
+Kibam	Sanga	Kaduna	9.339	8.392	2	Kiban
+Kiyayo	Nafada	Gombe	11.156	11.191	2	Kiayo
+Kiari Karamri	Geidam	Yobe	12.542	12.245	2	L. Karami
+Kiaku	Toto	Nasarawa	8.276	7.074	2	
+Kia	Anka	Zamfara	11.959	6.060	2	
+Kilogbe	Baruten	Kwara	10.057	3.618	2	Kemugbe|Kenugbe
+Kaura	Wamako	Sokoto	13.047	5.113	2	Kaura Kimba
+Bakin Kogi Kazare	Zangon Kataf	Kaduna	9.909	8.420	2	Gidan Kigudu
+Gengere Kibo	Riyom	Plateau	9.517	8.624	2	
+Gende-Kila	Teungo	Adamawa	7.917	11.883	2	Gende Kila|Kila
+Garu Kime	Geidam	Yobe	12.861	12.016	2	
+Keronowa	Marte	Borno	12.425	13.937	2	Fage|Kirinowa|Krenowa
+Bornu Kiji	Fune	Yobe	12.270	11.318	2	
+Audukenchi	Lavun	Niger	9.382	5.750	2	Awodu Kinchi
+Kishou	Jalingo	Taraba	9.004	11.235	2	Abare
+Rugar Kimaw	Madobi	Kano	11.868	8.374	2	
+Kirigupo	Nembe	Bayelsa	4.563	6.354	2	
+Kiva	Gwoza	Borno	11.207	13.756	2	
+Kinga	Mubi South	Adamawa	10.092	13.297	2	
+Kilambala	Maiha	Adamawa	10.053	13.232	2	
+Kirfu	Askira-Uba	Borno	10.853	13.160	2	
+Kuvu-Kiva	Askira-Uba	Borno	10.764	13.129	2	
+Kilindilla Njekuva	Askira-Uba	Borno	10.647	13.112	2	
+Kiniyande	Dikwa	Borno	11.804	14.134	2	
+Kirinowa	Marte	Borno	12.424	13.925	2	
+Kirta Wulgo	Monguno	Borno	12.793	14.121	2	
+Kiari Kagari	Abadam	Borno	13.697	13.336	2	
+Kiriburuje	Akuku Toru	Rivers	4.496	6.790	2	
+Kirikokiri	Akuku Toru	Rivers	4.598	6.644	2	Kirikakiri
+Kidamanza	Shani	Borno	10.244	12.129	2	
+Kinawurshi	Fika	Yobe	11.597	11.193	2	
+Kir	Bauchi	Bauchi	10.152	9.874	2	
+Kiliye	Giade	Bauchi	11.386	10.224	2	
+Kirowa	Baure	Katsina	12.783	8.687	2	
+Gidan Kili	Garki	Jigawa	12.508	8.943	2	
+Kiawa	Gabasawa	Kano	12.072	8.829	2	
+Dutsin Kiye Forest Reserve	Kazaure	Jigawa	12.715	8.466	2	
+Kijibta	Bindawa	Katsina	12.816	7.890	2	
+Kiriya	Bindawa	Katsina	12.706	7.812	2	
+Kirkini	Charanchi	Katsina	12.586	7.693	2	
+Gidan Kibiji	Rafi	Niger	10.326	6.134	2	
+Gidan Kigana	Birnin Gwari	Kaduna	10.643	6.142	2	
+Kiwo-Allah	Gudu	Sokoto	13.592	4.475	2	
+Gidan Kiasu	Illela	Sokoto	13.730	5.343	2	
+Kirekafada	Gada	Sokoto	13.635	5.665	2	
+Kianga	Tangaza	Sokoto	13.475	5.164	2	
+Kinke	Ngaski	Kebbi	10.336	4.917	2	
+Kiafi	Agwara	Niger	10.593	4.456	2	
+Kiliya	Agwara	Niger	10.823	4.421	2	
+Ungwan Daudu Kira	Dandume	Katsina	11.471	7.253	2	
+Ungwan Kibo	Dandume	Katsina	11.375	7.294	2	
+Ungwan Kimba	Sabuwa	Katsina	11.377	7.026	2	
+Tsaunin Kisini Hill	Danja	Katsina	11.356	7.649	2	
+Kirare	Danja	Katsina	11.318	7.662	2	
+Tungan Kibia	Bagudo	Kebbi	11.552	4.371	2	
+Rafin Kiriya	Shanga	Kebbi	11.479	4.535	2	
+Kisira	Shanga	Kebbi	11.444	4.677	2	
+Kiyafa	Shanga	Kebbi	11.101	4.628	2	
+Ungwan Kimba	Birnin Kebbi	Kebbi	12.432	4.164	2	
+Kingbene	Ekeremor	Bayelsa	4.807	5.574	2	
+Kituagbene	Southern Ijaw	Bayelsa	4.571	5.702	2	
+Welsenkingbogbene	Southern Ijaw	Bayelsa	4.588	5.954	2	Welson Kinbogbene
+Kiriam	Okrika	Rivers	4.704	7.119	2	
+Kingilokiri	Degema	Rivers	4.658	7.012	2	
+Kimgbene	Patani	Delta	5.211	6.192	2	
+Kiru	Kiru	Kano	11.543	8.149	2	
+Birnin Magaji-Kiyaw	Birnin Magaji-Kiyaw	Zamfara	12.425	6.891	2	Birnin Magaji/Kiyaw|Birnin-Magaji
+Kiyawa	Kiyawa	Jigawa	11.841	9.537	2	Kiyawa Local Government Area
+Kiri Kasama	Kiri Kasama	Jigawa	12.565	10.252	2	Agbegbe Ijoba Ibile Kiri Kasama|Kiri Kasama Local Government Area|Kiri-Kasamma
+Kirfi	Kirfi	Bauchi	10.394	10.532	2	Agbegbe Ijoba Ibile Kirfi|Kirfi Local Government Area
+Kiri Bula	Kukawa	Borno	13.294	13.793	2	
+Giwa Kirkoma	Askira-Uba	Borno	10.516	13.146	2	
+Kirikasam	Guzamala	Borno	12.918	13.570	2	
+Borwati	Kukawa	Borno	12.811	13.711	2	Kirsuma
+Kiriya	Michika	Adamawa	10.458	13.401	2	
+Hawan Kibu	Riyom	Plateau	9.541	8.647	2	
+Kibough	Konshisha	Benue	7.020	8.473	2	
+Kirawa	Gwoza	Borno	11.251	13.909	2	
+Kirenowa	Marte	Borno	12.502	13.985	2	
+Kimba	Jega	Kebbi	12.009	4.466	2	
+Borno Kiji	Fune	Yobe	12.204	11.329	2	
+Kidandan	Giwa	Kaduna	10.950	7.139	2	
+Kingowa	Gubio	Borno	12.582	12.882	2	
+Kiyako	Birnin Kudu	Jigawa	11.360	9.562	2	
+Kilbori A	Shira	Bauchi	11.560	10.075	2	
+Kiighir	Wukari	Taraba	7.765	9.750	2	Kiighin
+Kinyoose	Wukari	Taraba	7.770	9.752	2	
+Kimbi	Wukari	Taraba	7.974	9.979	2	
+Kina	Ukum	Benue	7.540	9.700	2	
+Kin	Buruku	Benue	7.467	9.216	2	
+Kighir	Ushongo	Benue	7.045	9.033	2	
+Kina	Vandeikya	Benue	7.015	9.153	2	
+Kiasi	Gboko	Benue	7.476	8.779	2	
+Kindigh	Gboko	Benue	7.485	8.861	2	
+Kiakwe	Gboko	Benue	7.420	8.787	2	
+Kine	Gboko	Benue	7.331	8.809	2	
+Kiavel	Gboko	Benue	7.324	8.900	2	
+Kiawe	Gboko	Benue	7.321	8.902	2	
+Kiawe	Gboko	Benue	7.293	8.900	2	
+Otokolo-Kiri	Brass	Bayelsa	4.460	6.048	2	
+Kinshaindi	Yusufari	Yobe	13.208	10.945	2	
+Kilbua	Karasuwa	Yobe	13.138	10.820	2	
+Kiukapa	Bosso	Niger	9.663	6.549	2	
+Wuro Kiri	Jada	Adamawa	8.859	12.228	2	
+Kilbawo	Jada	Adamawa	8.832	12.244	2	
+Kila Manga	Jada	Adamawa	8.661	12.369	2	
+Rafin-Kinba	Kagarko	Kaduna	9.446	7.674	2	
+Kigwale	Kachia	Kaduna	9.703	7.582	2	
+Gang Kita	Bali	Taraba	8.542	11.544	2	
+Kira	Ganye	Adamawa	8.546	11.997	2	
+Kir	Gassol	Taraba	8.634	10.561	2	
+Jiru Kiriga	Ardo-Kola	Taraba	8.939	10.945	2	
+Garin Kiyari	Gassol	Taraba	8.575	10.761	2	
+Kiriya	Langtang North	Plateau	8.895	9.843	2	
+Kiriya	Langtang North	Plateau	8.883	9.831	2	
+Kirom	Wase	Plateau	8.987	9.930	2	
+Kinze	Sanga	Kaduna	9.205	8.253	2	
+Kibam	Jema'A	Kaduna	9.430	8.381	2	
+Kiti	Jema'A	Kaduna	9.360	8.140	2	
+Kizari	Kauru	Kaduna	9.891	8.460	2	
+Kirachi	Kauru	Kaduna	9.896	8.476	2	
+Kan Kibori	Zangon Kataf	Kaduna	9.832	8.432	2	
+Ungwan Kifi	Jaba	Kaduna	9.585	8.104	2	
+Wuro Jauro Kirike	Girei	Adamawa	9.497	12.442	2	
+Kirkere	Yola North	Adamawa	9.263	12.242	2	
+Wuro Kila	Mayo-Belwa	Adamawa	9.190	12.025	2	
+Boilere Jaura Buba Kindam	Mayo-Belwa	Adamawa	9.144	12.054	2	
+Kiri Hiluk	Fufore	Adamawa	9.096	12.220	2	
+Kikkan	Numan	Adamawa	9.463	11.681	2	
+Wuro Kila	Mayo-Belwa	Adamawa	9.146	11.898	2	
+Kibil	Shongom	Gombe	9.699	10.968	2	
+Kilashi	Karim Lamido	Taraba	9.448	10.982	2	
+Kinsha	Karim Lamido	Taraba	9.416	10.927	2	
+Madakan Kifi	Karim Lamido	Taraba	9.254	11.236	2	
+Kindang	Lau	Taraba	9.116	11.208	2	
+Kimo	Lau	Taraba	9.074	11.225	2	
+Kiyan	Egbeda	Oyo	7.424	4.045	2	
+Kilanko	Ife North	Osun	7.407	4.450	2	
+Kiki	Ado Odo/Ota	Ogun	6.544	2.914	2	
+Bole-Kilaru	Yola North	Adamawa	9.116	12.522	2	Bole Kilaru
+Kilaru	Fufore	Adamawa	9.069	12.652	2	
+Bole-Kilaru-Hamlets	Yola North	Adamawa	9.130	12.507	2	Bole Kilaru Hamlets
+Kito	Keana	Nasarawa	8.158	8.538	2	
+Kinikini	Baruten	Kwara	9.498	3.720	2	
+Kiguna	Lafia	Nasarawa	8.655	8.904	2	
+Kinanegh	Lafia	Nasarawa	8.584	8.931	2	
+Kiyeseni	Afijio	Oyo	7.777	3.776	2	
+Kila Dogo	Ganye	Adamawa	8.416	12.037	2	KilaDogo
+Kila	Teungo	Adamawa	8.167	11.969	2	
+Kinto	Song	Adamawa	9.976	12.493	2	
+Wuro Kitaku	Song	Adamawa	9.772	12.392	2	WuroKitaku
+Kiram	Song	Adamawa	9.668	12.301	2	
+Kinde	Song	Adamawa	9.897	12.399	2	
+Kita	Song	Adamawa	9.900	12.280	2	
+Kindo	Song	Adamawa	9.882	12.265	2	
+Kinde	Song	Adamawa	9.786	12.428	2	
+Ndasso Kiri	Numan	Adamawa	9.637	12.052	2	NdassoKiri
+Kichu	Song	Adamawa	9.780	12.602	2	
+Kigbe	Kuje	FCT Abuja	8.699	7.117	2	
+Kimbe Yamin	Sardauna	Taraba	6.787	11.428	2	
+Kilayang	Sardauna	Taraba	6.915	11.392	2	
+Kila	Sardauna	Taraba	6.542	11.231	2	
+Kiladep	Sardauna	Taraba	6.621	11.283	2	
+Kibori	Zangon Kataf	Kaduna	9.887	8.417	2	
 Kings College Road	Lagos Island	Lagos	6.449	3.399	1	
 King Perekule Street	Obio/Akpor	Rivers	4.822	6.996	1	
 King's Square	Oredo	Edo	6.332	5.623	1	
@@ -311,27 +598,86 @@ Christ The King Street	Enugu East	Enugu	6.469	7.535	1
 Danladi Kifasi Crescent	Municipal Area Council	FCT Abuja	9.059	7.445	1	
 Gidan Kifi Street	Kano Municipal	Kano	11.974	8.532	1	
 Kasuwan Kifi street	Akko	Gombe	10.277	11.203	1	
-Kiroro Health Post	Ajingi	Kano	11.962	9.118	0	
 Kikelomo Abogun	Eti Osa	Lagos	6.436	3.524	1	
-Kirchibuwa Dispensary	Zaki	Bauchi	12.271	10.306	0	
-Kili Dispensary	Darazo	Bauchi	11.070	10.430	0	
 Kingsley Uwagbale Street	Eti Osa	Lagos	6.465	3.635	1	
 Ghuma - Kida Road	Hawul	Borno	10.547	12.260	1	
 Yawi - Kida Road	Hawul	Borno	10.570	12.237	1	
 Egnr Kimiebi Ojujoh Close	Ibeju Lekki	Lagos	6.476	3.723	1	
-CHIEF ABU KING SHULUWA ROAD	Markurdi	Benue	7.698	8.555	1	
+Chief Abu King Shuluwa Road	Markurdi	Benue	7.698	8.555	1	
 HRM. King G. A. Week Road	Yenegoa	Bayelsa	4.868	6.209	1	
 HRM. King Ebenezer Akakuro Kagbo Road	Yenegoa	Bayelsa	4.870	6.208	1	
 Kikelomo Ayoola Crescent	Eti Osa	Lagos	6.475	3.578	1	
-Kinkino Road	Kaduna North	Kaduna	10.541	7.444	1	
-King's College "Annex" Victoria Island Campus	Eti Osa	Lagos	6.436	3.427	0	
 Kingsley Osuh Avenue	Eti Osa	Lagos	6.508	3.583	1	
 Igbeti-Kisi Bypass	Olorunsogo	Oyo	8.736	4.152	1	
 King Jesus Road	Esan West	Edo	6.750	6.078	1	
-King Creek Road	Port-Harcourt	Rivers	4.759	7.022	1	
 King David Avenue	Eti Osa	Lagos	6.471	3.659	1	
 Kiama Rd	Ilorin West	Kwara	8.479	4.521	1	
-St. Kizito Clinic & Maternity Ward	Eti Osa	Lagos	6.435	3.505	0	
+Prof. Ibrahim A. Kiyawa Street	Gwale	Kano	11.981	8.472	1	
+Atogi Kipe Avenue	Obio/Akpor	Rivers	4.873	7.081	1	
+King Temitope Crescent	Ife Central	Osun	7.497	4.531	1	
+Kid Court Street	Eti Osa	Lagos	6.457	3.538	1	
+Kilema road	Doma	Nasarawa	8.390	8.362	1	
+Major/King Agara Street	Obio/Akpor	Rivers	4.813	6.962	1	
+HRM. King Amen Sariki Road	Yenegoa	Bayelsa	4.867	6.210	1	
+Kings Citadel Seminary School	Egor	Edo	6.365	5.625	0	
+King's and Queen's Education Centre	Egor	Edo	6.367	5.630	0	
+Royal Kiddies Academy	Oredo	Edo	6.345	5.608	0	
+Kiddies International Primary School	Muhammadu Dikko Stadium	Katsina	12.986	7.618	0	
+Kiru General Hospital	Kiru	Kano	11.707	8.135	0	
+Kirya Health Post	Dawakin Tofa	Kano	12.213	8.389	0	
+Kicks Filling Station	Ibadan South East	Oyo	7.342	3.907	0	
+Kimeri Primary Health Clinic	Jere	Borno	11.709	13.320	0	
+Knowledge Base International Kiddies Embassy	Akinyele	Oyo	7.527	3.925	0	
+Kingdom Heritage Schools	Owerri Municipal	Imo	5.482	7.013	0	
+Kimiowe Filling Station	Kolokuma/Opokuma	Bayelsa	5.121	6.296	0	
+Kinmason Pet Filling Station	Uvwie	Delta	5.544	5.769	0	
+Perfect Kiddies	Uvwie	Delta	5.548	5.776	0	
+Christ d King School	Uvwie	Delta	5.559	5.774	0	
+Kidscomputer Academy	Uvwie	Delta	5.546	5.771	0	
+Christ the King Schools	Uvwie	Delta	5.563	5.773	0	
+Glorious Kid Academy	Uvwie	Delta	5.554	5.778	0	
+Glorious Kiddies School	Uvwie	Delta	5.566	5.782	0	
+The Kiib School	Obio/Akpor	Rivers	4.835	7.028	0	
+Kiri Market	Gada	Sokoto	13.583	5.567	0	
+Oro Kingdom Market	Odigbo	Ondo	6.901	4.897	0	
+Kiribo Market	Ese Odo	Ondo	6.340	4.920	0	
+Windsor Locks School, Kingston Estate	Municipal Area Council	FCT Abuja	9.092	7.378	0	
+Kingdom Heritage Model School	Ogbomosho North	Oyo	8.164	4.258	0	
+Monika Kindergarten	Ikot Ekpene	Akwa Ibom	5.171	7.729	0	
+King Fahad Hospital	Gusau	Zamfara	12.153	6.694	0	
+Kirawe General Hospital	Gwoza	Borno	11.199	13.903	0	
+Kirawa Dispensary	Gwoza	Borno	11.190	13.911	0	
+kilange heath post	Maiha	Adamawa	10.171	13.124	0	
+Kimiowei Filling Station	Yenegoa	Bayelsa	4.934	6.285	0	
+King Koko Express	Yenegoa	Bayelsa	4.935	6.285	0	
+King Pearl's Learning Field, Elelenwo	Eleme	Rivers	4.826	7.082	0	
+Christ the king Hospital	Enugu East	Enugu	6.478	7.487	0	
+King Nnah Ngonwa Memory Hall	Tai	Rivers	4.741	7.203	0	
+Kingdomite Academy	Jos North	Plateau	9.874	8.934	0	
+Kiramisau Health Post	Kiri Kasama	Jigawa	12.551	10.141	0	
+Barau Dikko Hospital NoBN13 Kinshasha Road Unguwan Rimi Kaduna	Kaduna North	Kaduna	10.534	7.462	0	
+Irewe Primary Care Health Center Osulu Kingdom	Ojo	Lagos	6.418	3.145	0	
+Kiladejo Hospital	Ojo	Lagos	6.470	3.195	0	
+Saint Kizito Clinic	Mushin	Lagos	6.521	3.352	0	
+Kikimore Lodge	Akure South	Ondo	7.288	5.149	0	
+Denoy kids academy & college	Alimosho	Lagos	6.522	3.228	0	
+kingfield diagnostic services	Kosofe	Lagos	6.607	3.422	0	
+Makarantar Layin Isiyaku Mai Kifi	Gwale	Kano	11.957	8.472	0	
+Ebony Kids International School	Idemili South	Anambra	6.037	6.928	0	
+Kirikiri	Lagos Island	Lagos	6.489	3.436	0	
+Precious Kids Academy	Bauchi	Bauchi	10.272	9.803	0	
+Kingsland College oke foma ilorin, Ilorin, Nigeria	Ilorin West	Kwara	8.494	4.505	0	
+Ero Omo Hospital, Kilanko Road, Ilorin, Nigeria	Ilorin East	Kwara	8.453	4.585	0	
+Kilanko Primary School, Ilorin, Nigeria	Ilorin East	Kwara	8.448	4.600	0	
+The Kingsway Private School	Ojo	Lagos	6.465	3.150	0	
+Ambassador Kingsley Motors Nig Ltd	Municipal Area Council	FCT Abuja	9.121	7.386	0	
+Mum'S Kitchen	Municipal Area Council	FCT Abuja	9.142	7.374	0	
+Udddy King Petol Station	Calabar Municipal	Cross River	4.998	8.335	0	
+Kiroro Health Post	Ajingi	Kano	11.962	9.118	0	
+Kirchibuwa Dispensary	Zaki	Bauchi	12.271	10.306	0	
+Kili Dispensary	Darazo	Bauchi	11.070	10.430	0	
+King's College "Annex" Victoria Island Campus	Eti Osa	Lagos	6.436	3.427	0	
+St. Kizito Clinic & Maternity	Eti Osa	Lagos	6.435	3.505	0	
 Kith & Kin Educational Schools	Ìkòròdú	Lagos	6.564	3.478	0	
 Kingsfield College	Ìkòròdú	Lagos	6.610	3.582	0	
 King Ado Junior High School	Lagos Island	Lagos	6.460	3.391	0	
@@ -350,44 +696,4 @@ kinchinga primary heath clinic	Madagali	Adamawa	10.785	13.351	0
 Kiri Health Post	Fufore	Adamawa	9.096	12.220	0	
 Kiri Kolere Primary Health Care Center	Fufore	Adamawa	9.096	12.220	0	
 Kins Comprehensive College	Ogba/Egbema/Ndoni	Rivers	5.329	6.643	0	
-Prof. Ibrahim A. Kiyawa Street	Gwale	Kano	11.981	8.472	1	
-Atogi Kipe Avenue	Obio/Akpor	Rivers	4.873	7.081	1	
-King Temitope Crescent	Ife Central	Osun	7.497	4.531	1	
-Kid Court Street	Eti Osa	Lagos	6.457	3.538	1	
-Kilema road	Doma	Nasarawa	8.390	8.362	1	
 Kirfin Sama Primary School	Kirfi	Bauchi	10.408	10.421	0	
-Major/King Agara Street	Obio/Akpor	Rivers	4.813	6.962	1	
-HRM. King Amen Sariki Road	Yenegoa	Bayelsa	4.867	6.210	1	
-Borno Kiji	Fune	Yobe	12.201	11.323	2	
-Kila	Gwaram	Jigawa	11.315	9.775	2	
-Kiri	Taura	Jigawa	12.277	9.474	2	
-Kiri Kasamma	Kiri Kasama	Jigawa	12.684	10.241	2	
-Kiyako	Birnin Kudu	Jigawa	11.352	9.584	2	
-Kiyana N Malami	Birnin Magaji-Kiyaw	Zamfara	12.423	6.833	2	
-Kilgori	Yabo	Sokoto	12.820	5.010	2	
-Kiri	Gada	Sokoto	13.578	5.551	2	
-Kimba	Jega	Kebbi	12.032	4.411	2	
-Rafin Kirya	Shanga	Kebbi	11.432	4.583	2	
-Kidandan	Giwa	Kaduna	10.935	7.119	2	
-Kinkiba	Soba	Kaduna	10.942	7.918	2	
-Kiyawa	Bagwai	Kano	12.120	8.175	2	
-Kiru	Kiru	Kano	11.708	8.162	2	
-Kibiya 1	Kibiya	Kano	11.531	8.660	2	
-Kibiya 2	Kibiya	Kano	11.517	8.693	2	
-Kibiya	Kibiya	Kano	11.493	8.697	2	
-Kiru	Kiru	Kano	11.557	8.099	2	
-Birnin Magaji-Kiyaw	Birnin Magaji-Kiyaw	Zamfara	12.472	6.869	2	
-Kira	Musawa	Katsina	12.169	7.822	2	
-Kirenowa	Marte	Borno	12.515	13.998	2	
-Kingarawa	Guzamala	Borno	12.607	13.409	2	
-Kirawa	Gwoza	Borno	11.237	13.899	2	
-Marama Kidang	Hawul	Borno	10.416	12.154	2	
-Kiyawa	Kiyawa	Jigawa	11.798	9.625	2	
-Kiyawa	Kiyawa	Jigawa	11.796	9.519	2	
-Kiri Kasama	Kiri Kasama	Jigawa	12.598	10.251	2	
-Kilbori B	Shira	Bauchi	11.514	10.152	2	
-Kilbori A	Shira	Bauchi	11.546	10.054	2	
-Kirfi	Kirfi	Bauchi	10.439	10.536	2	
-Kirfi	Kirfi	Bauchi	10.425	10.543	2	
-Kidda	Hawul	Borno	10.585	12.285	2	
-Kingowa	Gubio	Borno	12.603	12.880	2	

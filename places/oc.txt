@@ -9,11 +9,40 @@ Ochillo	Ngaski	Kebbi	10.452	4.718	2
 Ochumeku	Apa	Benue	7.671	7.904	2	Ochumohu
 Ochigba	Ahoada East	Rivers	4.998	6.587	2	Ochiba
 Ochobo	Ohimini	Benue	7.183	7.977	2	Ochobu
-Ochuks Academy	Uvwie	Delta	5.539	5.762	0	
-Ochet Oil Filling Station	Obio/Akpor	Rivers	4.828	7.064	0	
 Ochika	Ahoada West	Rivers	5.073	6.563	2	
 Ochebele	Ahoada West	Rivers	5.142	6.503	2	
 Ochuche-Umuodo	Ogbaru	Anambra	5.956	6.730	2	
+Umu Ocham	Osisioma Ngwa	Abia	5.133	7.350	2	
+Mboko Umu Ocha	Osisioma Ngwa	Abia	5.196	7.385	2	Umu Ocha
+Ochogbe	Ogoja	Cross River	6.600	8.979	2	Ogberia
+Ochokwu	Ikwo	Ebonyi	6.024	8.206	2	Otabo|Otobo
+Ochokocho-Obo	Degema	Rivers	4.596	7.011	2	Chokorocho|Ochokorocho
+Ochikwachikwa	Igalamela-Odolu	Kogi	6.939	7.139	2	
+Ochigi	Dekina	Kogi	7.387	7.220	2	
+Ochigba	Izzi	Ebonyi	6.583	8.217	2	
+Ochichi	Yala	Cross River	6.622	8.671	2	
+Ochicha Ngugo	Ikeduru	Imo	5.580	7.146	2	
+Ochicha	Ngor-Okpala	Imo	5.317	7.133	2	
+Ocheobo	Abakaliki	Ebonyi	6.288	8.210	2	
+Ochegbe	Ogoja	Cross River	6.595	8.900	2	
+Ochea	Gwer East	Benue	7.701	8.705	2	
+Ochadam	Ofu	Kogi	7.396	7.038	2	Asadam|Assadam
+Ochanja	Dekina	Kogi	7.433	7.286	2	Ocbanja
+Rumuachara	Emuoha	Rivers	4.929	6.675	2	Ocheranyan
+Ochinyini	Obi	Benue	7.014	8.388	2	
+Ochinebe	Obi	Benue	7.073	8.295	2	
+Ochu	Gwer East	Benue	7.286	8.436	2	
+Ochio	Gwer West	Benue	7.678	8.265	2	
+Ocholonyan	Doma	Nasarawa	7.898	8.113	2	
+Ochamini Betem	Biase	Cross River	5.490	8.166	2	
+Ochonum	Yala	Cross River	6.630	8.348	2	
+Ochongo	Bekwarra	Cross River	6.809	8.931	2	
+Ochuche-Umuodo	Ogbaru	Anambra	5.950	6.730	2	
+Ochiba	Ahoada East	Rivers	5.025	6.599	2	
+Okrika	Okrika	Rivers	4.638	7.082	2	Agbegbe Ijoba Ibile Okrika|Ocrica|Okrika Local Government Area|ao ke li ka|okurika gang
+Ochoko-Okwu	Ebonyi	Ebonyi	6.396	8.045	2	
+Ochobo	Abakaliki	Ebonyi	6.276	8.255	2	
+Ochanyim	Ikwo	Ebonyi	6.003	8.086	2	
 Ocnee Street	Lagelu	Oyo	7.431	3.984	1	
 Ocean Boulevard	Lagelu	Oyo	7.432	3.985	1	
 Samuel Ochefu Close	Municipal Area Council	FCT Abuja	9.005	7.479	1	
@@ -32,8 +61,10 @@ Ocean Bay Drive	Eti Osa	Lagos	6.429	3.554	1
 Ochendo bypass	Umuahia North	Abia	5.525	7.510	1	
 Samuel Ochei Cresent	Ojo	Lagos	6.486	3.147	1	
 Ochima Close	Eti Osa	Lagos	6.494	3.588	1	
-Ocean Crest School	Eti Osa	Lagos	6.429	3.466	0	
 Inalegwu Ochepo Street	Municipal Area Council	FCT Abuja	8.968	7.507	1	
 Ochi Close	Enugu South	Enugu	6.414	7.497	1	
 ocean lane	Enugu East	Enugu	6.507	7.524	1	
 Ochonma Street	Emuoha	Rivers	5.062	6.732	1	
+Ochuks Academy	Uvwie	Delta	5.539	5.762	0	
+Ochet Oil Filling Station	Obio/Akpor	Rivers	4.828	7.064	0	
+Ocean Crest School	Eti Osa	Lagos	6.429	3.466	0	

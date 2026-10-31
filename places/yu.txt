@@ -1,5 +1,6 @@
 Kwardum Yunana	Kwaya Kusar	Borno	10.426	11.968	2	Kurdun
 Yupe	Jada	Adamawa	8.665	12.651	2	
+Nyikusum	Bali	Taraba	8.400	11.450	2	Yunkussum
 Yunu	Borgu	Niger	10.432	4.455	2	
 Aumma L Yuguda	Damboa	Borno	11.096	12.468	2	Agum
 Tunga-Yusufu	Kware	Sokoto	13.315	5.281	2	Tungan Yusufu
@@ -37,19 +38,85 @@ Yusuri	Abadam	Borno	13.341	12.990	2
 Yuramti	Guzamala	Borno	12.682	13.359	2	
 Yuwuri Mundaye	Konduga	Borno	11.628	13.028	2	
 Yuramti	Konduga	Borno	11.675	13.051	2	
-Yusuf Dantsoho	Kaduna South	Kaduna	10.520	7.416	0	
 Yumbu	Gabasawa	Kano	12.235	8.781	2	Yimbu
 Yumdawan Mataci	Dawakin Tofa	Kano	12.183	8.485	2	
 Kawo Yukana	Minjibir	Kano	12.204	8.696	2	Kawo
 Yukana	Minjibir	Kano	12.204	8.707	2	
-Al Yusra petroleum nig ltd	Jos North	Plateau	9.977	8.896	0	
-Yusuf Dantsoho Hospital Kv 206 Lbrahim Taiwo Road Tudun Wada Kaduna	Kaduna South	Kaduna	10.512	7.411	0	
-Orthopedic Hospital No12 B Ustaz Yunuz Street	Kaduna North	Kaduna	10.544	7.432	0	
-Yusuf Dantsoho Hospital Pq 12 Danladi Inusa Road Uguwan Sunusi Kaduna	Kaduna South	Kaduna	10.528	7.404	0	
-MALAN YUSHA'U NA ANNABI QUR'ANIC SCHOOL	Ungongo	Kano	12.043	8.565	0	
-ALHAJI YUSUF GARBA ALI ISLAMIC FOUNDATION	Ungongo	Kano	12.036	8.565	0	
-Yusjib Industrial Medicare, Ajasse-Ipo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.461	4.575	0	
-YUSJIB COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY (YUSCOHTECH)	Ilorin South	Kwara	8.432	4.596	0	
+Yusufari	Yusufari	Yobe	13.215	11.252	2	
+Yunusari	Yunusari	Yobe	13.250	11.489	2	
+Yusufari	Yusufari	Yobe	13.157	10.492	2	
+Yunusari	Yunusari	Yobe	13.114	11.769	2	
+Yumbu	Gabasawa	Kano	12.266	8.882	2	
+Yuwa	Ningi	Bauchi	10.903	9.128	2	
+Zangulu Yusufu	Hawul	Borno	10.389	12.546	2	
+Yuwo	Abadam	Borno	13.459	13.210	2	
+Yutiage	Shendam	Plateau	8.414	9.704	2	
+Yusufari	Yusufari	Yobe	13.066	11.173	2	
+Yushewe	Guma	Benue	7.886	8.841	2	
+Yusa Habe	Lau	Taraba	9.163	11.475	2	
+Yusa	Lau	Taraba	9.220	11.449	2	
+Yurakwati	Ussa	Taraba	7.293	10.185	2	
+Yupe	Jada	Adamawa	8.660	12.644	2	
+Yunmu	Borgu	Niger	10.441	4.468	2	Yunu
+Yungu	Rijau	Niger	10.929	5.212	2	
+Yimoa	Toto	Nasarawa	8.309	7.053	2	Yumoa
+Yumga	Takum	Taraba	7.402	10.021	2	
+Yumbu	Kwaya Kusar	Borno	10.392	11.818	2	
+Yumalu	Konshisha	Benue	7.097	8.607	2	
+Yuli	Wase	Plateau	9.396	10.272	2	
+Yukwa	Zing	Taraba	8.848	11.731	2	
+Yuko Tsachia	Guma	Benue	7.971	8.779	2	
+Yugbu	Guma	Benue	7.712	8.689	2	
+Yubunga	Darazo	Bauchi	11.250	10.583	2	
+Yuba	Sumaila	Kano	11.269	8.722	2	
+Yuan	Konshisha	Benue	7.183	8.572	2	
+Yua	Konshisha	Benue	7.069	8.820	2	
+Wuro Yuware	Mayo-Belwa	Adamawa	8.785	11.990	2	
+Gidan Yusufu	Kagarko	Kaduna	9.500	7.467	2	
+Yueh	Gwer West	Benue	7.782	8.133	2	
+Yunmu	Ngaski	Kebbi	10.444	4.490	2	
+Tungan Yusufu	Kware	Sokoto	13.314	5.282	2	Tunga-Yusufu
+Yumpa	Kankara	Katsina	11.911	7.460	2	
+Ungwan Yusufu	Giwa	Kaduna	11.225	7.266	2	
+Yusufari	Yusufari	Yobe	13.220	10.883	2	Yusufari Local Government Area
+Yunusari	Yunusari	Yobe	13.104	11.786	2	Agbegbe Ijoba Ibile Yunusari|Yunusari Local Government Area|yunusari|ywnsry
+Yuramti	Monguno	Borno	12.773	13.525	2	
+Yumbu	Gabasawa	Kano	12.275	8.837	2	
+Yuwa	Ningi	Bauchi	10.904	9.139	2	
+Yugh	Gwer West	Benue	7.777	8.210	2	
+Yugh	Ukum	Benue	7.656	9.565	2	
+Yua	Ukum	Benue	7.600	9.706	2	
+Yuate	Wukari	Taraba	7.721	9.802	2	
+Yughul	Katsina-Ala	Benue	7.446	9.424	2	
+Yuwa	Buruku	Benue	7.192	9.165	2	
+Yua	Gboko	Benue	7.479	8.756	2	
+Yue	Gboko	Benue	7.429	8.996	2	
+Yuwe	Gboko	Benue	7.350	8.998	2	
+Yua	Gboko	Benue	7.260	8.997	2	
+Yua	Gboko	Benue	7.260	8.795	2	
+Yunu	Lavun	Niger	9.359	5.656	2	
+Gidan Yukwi	Shiroro	Niger	9.785	6.674	2	
+Gidan Yusufu	Kachia	Kaduna	9.750	7.475	2	
+Yusufu Camp	Etsako West	Edo	6.957	6.273	2	
+Yubon	Zing	Taraba	8.938	11.800	2	
+Yulong	Zing	Taraba	8.959	11.880	2	
+Yugang	Ardo-Kola	Taraba	8.846	11.345	2	
+Jauro Yuku	Ardo-Kola	Taraba	8.761	11.314	2	
+Garin Yusufu	Gassol	Taraba	8.501	10.662	2	
+Yurtinga	Demsa	Adamawa	9.225	12.098	2	
+Yunguwa	Lau	Taraba	9.264	11.525	2	
+Yutigagabe	Lau	Taraba	9.173	11.700	2	
+Yutibala	Mayo-Belwa	Adamawa	9.154	11.709	2	
+Yutigazoko	Mayo-Belwa	Adamawa	9.129	11.743	2	
+Yutiyigile	Mayo-Belwa	Adamawa	9.126	11.733	2	
+Yutigbondin	Mayo-Belwa	Adamawa	9.115	11.726	2	
+Dansore Yuzoko	Yorro	Taraba	9.088	11.694	2	
+Yutikila	Lau	Taraba	9.190	11.682	2	
+Yuzenti	Mayo-Belwa	Adamawa	9.076	11.732	2	
+Yusulu	Ifelodun	Kwara	9.003	4.883	2	
+Wuro Yuriti	Shelleng	Adamawa	9.774	12.045	2	WuroYuriti
+Jera Yuguda	Fufore	Adamawa	9.613	12.783	2	JeraYuguda
+Yusa Habe	Lau	Taraba	9.166	11.515	2	
 Yussuf Sanusi Street	Surulere	Lagos	6.497	3.359	1	
 Mohammed Yusuf Lere Drive	Kaduna North	Kaduna	10.512	7.453	1	
 Danladi Yunusa Road	Kaduna South	Kaduna	10.529	7.406	1	
@@ -61,7 +128,6 @@ Yusuf Street	Oshodi/Isolo	Lagos	6.548	3.299	1
 Ishola Yusuf Street	Agege	Lagos	6.612	3.325	1	
 Alfa Yusuf Street	Agege	Lagos	6.607	3.316	1	
 Layi Yusuf Crescent	Eti Osa	Lagos	6.438	3.456	1	
-Yusuf Maitama Sule University Kano, city campus	Kano Municipal	Kano	11.991	8.531	0	
 Yusuf Esan Street	Ajeromi/Ifelodun	Lagos	6.464	3.341	1	
 Bello Yusuf Street	Municipal Area Council	FCT Abuja	9.074	7.431	1	
 Yusuf street	Jos North	Plateau	9.926	8.887	1	
@@ -71,7 +137,6 @@ Alhaji Yusuf Street	Alimosho	Lagos	6.651	3.294	1
 Nureni Yusuf Road	Ado Odo/Ota	Ogun	6.684	3.287	1	
 Yusuf Street	Ifo	Ogun	6.681	3.294	1	
 Afolabi Yusuf Street	Ìkòròdú	Lagos	6.646	3.493	1	
-Yumbu Health Post	Gabasawa	Kano	12.237	8.781	0	
 Yusuph Street	Mushin	Lagos	6.539	3.342	1	
 Nurani Yusuf Road	Oshodi/Isolo	Lagos	6.588	3.336	1	
 Toyibat Yusuf Street	Kosofe	Lagos	6.556	3.382	1	
@@ -83,19 +148,22 @@ Nureni Yusuf Road	Ifako/Ijaye	Lagos	6.678	3.278	1
 Bola Yussuph Street	Eti Osa	Lagos	6.449	3.483	1	
 Yusuf Isma'il Road	Kaduna North	Kaduna	10.527	7.453	1	
 Lawal Yusuf Crescent	Daura	Katsina	13.020	8.327	1	
-Chief Yusuf Owo Street	Agege	Lagos	6.620	3.324	1	
-Yunusari General Hospital	Yunusari	Yobe	13.094	12.104	0	
 Shehu Yusuf Street	Bwari	FCT Abuja	9.162	7.366	1	
+Yusuf Street	Ikeja	Lagos	6.649	3.342	1	
+Yusuf Dantsoho	Kaduna South	Kaduna	10.520	7.416	0	
+Al Yusra petroleum nig ltd	Jos North	Plateau	9.977	8.896	0	
+Yusuf Dantsoho Hospital Kv 206 Lbrahim Taiwo Road Tudun Wada Kaduna	Kaduna South	Kaduna	10.512	7.411	0	
+Orthopedic Hospital No12 B Ustaz Yunuz Street	Kaduna North	Kaduna	10.544	7.432	0	
+Yusuf Dantsoho Hospital Pq 12 Danladi Inusa Road Uguwan Sunusi Kaduna	Kaduna South	Kaduna	10.528	7.404	0	
+Malan Yusha'U Na Annabi Qur'Anic School	Ungongo	Kano	12.043	8.565	0	
+Alhaji Yusuf Garba Ali Islamic Foundation	Ungongo	Kano	12.036	8.565	0	
+Yusjib Industrial Medicare, Ajasse-Ipo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.461	4.575	0	
+Yusjib College Of Health Sciences And Technology (Yuscohtech)	Ilorin South	Kwara	8.432	4.596	0	
+Yusuf Maitama Sule University Kano, city campus	Kano Municipal	Kano	11.991	8.531	0	
+Yumbu Health Post	Gabasawa	Kano	12.237	8.781	0	
+Yunusari General Hospital	Yunusari	Yobe	13.094	12.104	0	
 Yujim	Ejigbo	Osun	7.900	4.316	0	
-Layi Yusuf Crescent	Eti Osa	Lagos	6.438	3.454	1	
 Yubunga Primary Health Center	Darazo	Bauchi	11.247	10.580	0	Zandam Dispensary
 Yuli Dispensary	Ganjuwa	Bauchi	10.379	9.935	0	
 Yuguda Primary Health Center	Bauchi	Bauchi	10.050	10.025	0	
 Yusufari Maternal And Child Health Care	Yusufari	Yobe	13.069	11.175	0	
-Yusuf Street	Ikeja	Lagos	6.649	3.342	1	
-Yusufari	Yusufari	Yobe	13.215	11.252	2	
-Yunusari	Yunusari	Yobe	13.250	11.489	2	
-Yusufari	Yusufari	Yobe	13.157	10.492	2	
-Yunusari	Yunusari	Yobe	13.114	11.769	2	
-Yumbu	Gabasawa	Kano	12.266	8.882	2	
-Yuwa	Ningi	Bauchi	10.903	9.128	2	

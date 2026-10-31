@@ -2,8 +2,6 @@ Hema Fulani	Kwaya Kusar	Borno	10.434	11.950	2	Hyama
 Hyera Central	Hawul	Borno	10.475	12.305	2	Hyera
 Lokaja Hyera	Hawul	Borno	10.462	12.304	2	Lokwoja Hyera
 Bulama Hyendugu	Shani	Borno	10.345	12.227	2	Sangwa Bulama Hyeldugu
-Hydret Filling Station	Oredo	Edo	6.350	5.621	0	
-School of Hygiene	Ibadan North West	Oyo	7.411	3.867	0	
 Hyen Alh Zaki	Kwaya Kusar	Borno	10.413	11.863	2	
 Hyen jauro Alhaji Garba	Kwaya Kusar	Borno	10.414	11.863	2	
 Hyemansura	Shani	Borno	10.076	12.039	2	
@@ -11,13 +9,28 @@ Hyelgar	Shani	Borno	10.288	12.198	2
 Hyentira	Hawul	Borno	10.394	12.245	2	
 Hyera South	Hawul	Borno	10.470	12.307	2	
 Hyera Taptsara	Hawul	Borno	10.476	12.301	2	
-Hyera Primary Health Centre	Hawul	Borno	10.476	12.304	0	
 Tiraku Hyefur	Hawul	Borno	10.499	12.367	2	
+Zenda-Hyo-Igbana	Konshisha	Benue	7.104	8.537	2	
+Lokwoja Hyera	Hawul	Borno	10.462	12.306	2	
+Hyoo	Ushongo	Benue	7.196	8.983	2	
+Hyongu	Konshisha	Benue	7.072	8.710	2	
+Hyom	Ushongo	Benue	7.100	8.959	2	
+Hyera	Hawul	Borno	10.472	12.309	2	
+Hyawa	Gwoza	Borno	11.083	13.799	2	
+Hyama	Hawul	Borno	10.565	12.165	2	Hayama
+Hyama	Kwaya Kusar	Borno	10.432	11.954	2	
+Hyohemba	Markurdi	Benue	7.716	8.412	2	
+Hyperia bts	Ibadan South West	Oyo	7.362	3.861	2	
+Hyinga	Ushongo	Benue	7.019	9.236	2	
+Hyembeato	Gboko	Benue	7.318	8.755	2	
+Chief Hyacinth Udeani Street	Enugu North	Enugu	6.460	7.570	1	
+Hydret Filling Station	Oredo	Edo	6.350	5.621	0	
+School of Hygiene	Ibadan North West	Oyo	7.411	3.867	0	
+Hyera Primary Health Centre	Hawul	Borno	10.476	12.304	0	
 Hybrid Medical Diagotics	Yenegoa	Bayelsa	4.943	6.326	0	
 Hydropet Filling Station	Obio/Akpor	Rivers	4.850	7.054	0	
 Civil Engineering Hydraulic Basin	Shomolu	Lagos	6.519	3.397	0	
 Hyssop Eye Clinic	Ojo	Lagos	6.494	3.125	0	
-Chief Hyacinth Udeani Street	Enugu North	Enugu	6.460	7.570	1	
 Hydropet	Obio/Akpor	Rivers	4.880	6.910	0	
 hyambula primary heath post	Madagali	Adamawa	10.868	13.525	0	
 Hytel Plaza	Owerri Municipal	Imo	5.491	7.037	0	

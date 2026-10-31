@@ -1,3 +1,28 @@
+Nkum Plantation	Ikom	Cross River	5.985	8.665	2	
+Ploti	Karim Lamido	Taraba	9.202	10.910	2	
+Ploti Jukun	Karim Lamido	Taraba	9.204	10.917	2	
+Saban Plyore	Municipal Area Council	FCT Abuja	8.957	7.487	2	SabanPlyore
+Planking Street	Ikeja	Lagos	6.594	3.337	1	
+Town Planning Road	Ibadan South West	Oyo	7.368	3.856	1	
+Town Planning Way	Mushin	Lagos	6.556	3.354	1	
+Trailhead Pl.	Ikeja	Lagos	6.561	3.366	1	
+Plateau Road	Apapa	Lagos	6.438	3.368	1	
+Plateau Street	Municipal Area Council	FCT Abuja	9.035	7.479	1	
+Town Planning Road	Ebonyi	Ebonyi	6.328	8.110	1	
+Plymouth Road	Oredo	Edo	6.335	5.615	1	
+Ijoma Place	Ibadan North	Oyo	7.445	3.890	1	
+Liard Place	Ibadan North	Oyo	7.449	3.886	1	
+Plateau Place	Ibadan North	Oyo	7.440	3.892	1	
+Platinum Way	Eti Osa	Lagos	6.441	3.502	1	
+Oluge Place	Eti Osa	Lagos	6.440	3.538	1	
+Mobolaji Johnson Place	Eti Osa	Lagos	6.433	3.470	1	
+Plank Market street	Ife Central	Osun	7.502	4.549	1	
+Plaza Hotel Road	Lokoja	Kogi	7.803	6.736	1	
+Plaza Hotel Road	Lokoja	Kogi	7.803	6.735	1	
+plato street	Gombe	Gombe	10.274	11.167	1	
+Platinum Street	Eti Osa	Lagos	6.440	3.501	1	
+PL Gbenekannu Street	Municipal Area Council	FCT Abuja	9.048	7.553	1	
+providence plaza	Eti Osa	Lagos	6.475	3.611	1	
 Millipat Plaza	Municipal Area Council	FCT Abuja	9.033	7.443	0	
 Mega Plaza	Kaduna South	Kaduna	10.440	7.405	0	
 Faith plaza	Oredo	Edo	6.333	5.596	0	
@@ -37,47 +62,24 @@ Mr Putty Screeding Plasters Limited	Municipal Area Council	FCT Abuja	9.114	7.279
 Smart Bridge Plaza	Municipal Area Council	FCT Abuja	9.072	7.438	0	
 Department of Geography and Planning	Jos North	Plateau	9.967	8.880	0	
 Eterna Plc	Calabar Municipal	Cross River	4.996	8.334	0	
-Planking Street	Ikeja	Lagos	6.594	3.337	1	
 Osawaru Mega Plaza	Oredo	Edo	6.336	5.621	0	
 Uwa Shopping Plaza	Oredo	Edo	6.347	5.608	0	
-Town Planning Road	Ibadan South West	Oyo	7.368	3.856	1	
-Town Planning Way	Mushin	Lagos	6.556	3.354	1	
-Trailhead Pl.	Ikeja	Lagos	6.561	3.366	1	
-Plateau Road	Apapa	Lagos	6.438	3.368	1	
-Plateau Street	Municipal Area Council	FCT Abuja	9.035	7.479	1	
 MKK Plaza	Municipal Area Council	FCT Abuja	9.001	7.472	0	
 Landmark Plaza	Municipal Area Council	FCT Abuja	9.092	7.500	0	
-Town Planning Road	Ebonyi	Ebonyi	6.328	8.110	1	
 Plateau riders	Jos North	Plateau	9.922	8.886	0	
 Wuse Shopping Plaza	Municipal Area Council	FCT Abuja	9.067	7.463	0	
-Plymouth Road	Oredo	Edo	6.335	5.615	1	
-Ijoma Place	Ibadan North	Oyo	7.445	3.890	1	
-Liard Place	Ibadan North	Oyo	7.449	3.886	1	
-Plateau Place	Ibadan North	Oyo	7.440	3.892	1	
-Platinum Way	Eti Osa	Lagos	6.441	3.502	1	
-Oluge Place	Eti Osa	Lagos	6.440	3.538	1	
 Ceddi Plaza	Municipal Area Council	FCT Abuja	9.055	7.490	0	
 Treasure Plaza	Olorunda	Osun	7.781	4.557	0	
 Olatundun Shopping Plaza	Olorunda	Osun	7.781	4.556	0	
 Oba Oyewole Shopping Plaza	Olorunda	Osun	7.781	4.554	0	
-Mobolaji Johnson Place	Eti Osa	Lagos	6.433	3.470	1	
 Oando Plc	Kaduna North	Kaduna	10.502	7.426	0	
 Coorperate Plaza	Kaduna North	Kaduna	10.548	7.454	0	
 Jafaru LEA Primary School Playground	Sabon Gari	Kaduna	11.111	7.735	0	
-Plank Market street	Ife Central	Osun	7.502	4.549	1	
-Plaza Hotel Road	Lokoja	Kogi	7.803	6.736	1	
-Plaza Hotel Road	Lokoja	Kogi	7.803	6.735	1	
-plato street	Gombe	Gombe	10.274	11.167	1	
-Platinum Street	Eti Osa	Lagos	6.440	3.501	1	
-Town Planning Way	Mushin	Lagos	6.557	3.360	1	
-Town Planning Way	Mushin	Lagos	6.557	3.365	1	
 Emporium Plaza	Ikeja	Lagos	6.598	3.353	0	
 Shop D World Plaza	Owerri North	Imo	5.509	7.037	0	
 Plank Market	Ìkòròdú	Lagos	6.635	3.538	0	
 Family Planning Clinic Kofawa	Bauchi	Bauchi	10.294	9.844	0	
-PL Gbenekannu Street	Municipal Area Council	FCT Abuja	9.048	7.553	1	
 Robinson Plaza Warri	Warri South	Delta	5.526	5.762	0	
-providence plaza	Eti Osa	Lagos	6.475	3.611	1	
 Nana Firdausi Plaza	Gusau	Zamfara	12.170	6.676	0	
 Intercontinental Plaza	Municipal Area Council	FCT Abuja	9.062	7.471	0	
 Dummec Plaza	Municipal Area Council	FCT Abuja	9.033	7.472	0	

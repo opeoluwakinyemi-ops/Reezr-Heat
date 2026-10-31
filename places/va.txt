@@ -1,13 +1,60 @@
+Vandeikya Town	Vandeikya	Benue	6.788	9.062	3	
+Vandeikya	Vandeikya	Benue	6.785	9.068	3	Vande Ikya
 Bourrah Ouango	Mubi North	Adamawa	10.274	13.477	2	Bourrah-Wango;Bourha Wango;Bourrah Ouango;Bourrah Vango
 Vaatita	Mubi South	Adamawa	10.249	13.290	2	
 Vaatita	Mubi North	Adamawa	10.414	13.262	2	
-valid petro	Oredo	Edo	6.332	5.597	0	
-Uwhie Ladies Vanguard Primary School	Uvwie	Delta	5.555	5.766	0	
-Valangide Hospital	Gwoza	Borno	11.070	13.689	0	
-Vandeikya Town	Vandeikya	Benue	6.788	9.062	3	
-Flo Valley	Oshimili South	Delta	6.188	6.725	0	
-Royal Crescent Valley International School, Ilorin, Nigeria	Asa	Kwara	8.465	4.495	0	
 Iva Valley	Enugu North	Enugu	6.459	7.469	2	
+NAF Valley Estate	Municipal Area Council	FCT Abuja	9.048	7.545	2	
+Vandeikya	Vandeikya	Benue	6.833	9.046	2	
+Bourha Ouango	Mubi North	Adamawa	10.270	13.475	2	Bourha Wango|Bourrah Ouango|Bourrah Vango|Bourrah-Wango
+Wakili Vavum	Yorro	Taraba	8.788	11.507	2	
+Vaase	Wukari	Taraba	7.888	9.556	2	Gusa Vaase|Vassa
+Vasimindi	Hong	Adamawa	10.159	13.119	2	
+Vanonga	Ushongo	Benue	7.114	8.953	2	
+Vankyongu	Gboko	Benue	7.464	8.723	2	
+Vanive	Konshisha	Benue	7.111	8.745	2	
+Vange	Konshisha	Benue	7.315	8.539	2	
+Vange	Konshisha	Benue	7.289	8.519	2	
+Vangbya	Ushongo	Benue	7.051	8.943	2	
+Vanam	Gboko	Benue	7.301	8.625	2	
+Vamula	Hong	Adamawa	10.233	12.782	2	
+Vambe	Vandeikya	Benue	7.035	8.934	2	
+Valave	Ushongo	Benue	7.205	8.910	2	
+Val	Vandeikya	Benue	7.033	8.936	2	
+Vabak	Sanga	Kaduna	9.229	8.338	2	
+Vaayongu	Gboko	Benue	7.322	8.645	2	
+Vaarikpa	Ushongo	Benue	7.061	8.968	2	
+Vaakaa	Konshisha	Benue	7.142	8.649	2	
+Vagbak	Sanga	Kaduna	9.194	8.344	2	Ungwan Mallam Isa
+Mayo Vamde	Maiha	Adamawa	9.717	13.117	2	
+Vande	Gwer West	Benue	7.609	8.140	2	
+Vande	Gwer West	Benue	7.674	8.196	2	
+Vadagum Clan	Gwoza	Borno	11.028	13.666	2	
+Vande	Ukum	Benue	7.554	9.513	2	
+Vachia	Ukum	Benue	7.520	9.596	2	
+Vande	Ukum	Benue	7.599	9.813	2	
+Varvar	Katsina-Ala	Benue	7.515	9.753	2	
+Vange	Gboko	Benue	7.455	9.039	2	
+Vaakyav	Gboko	Benue	7.427	9.014	2	
+Vav	Buruku	Benue	7.410	9.153	2	
+Vaaswen	Gboko	Benue	7.321	9.123	2	
+Vanger	Gboko	Benue	7.315	9.107	2	
+Vanger	Buruku	Benue	7.430	9.190	2	
+Vav	Buruku	Benue	7.342	9.195	2	
+Vaahumbe	Ushongo	Benue	7.082	9.090	2	
+Vagi	Buruku	Benue	7.171	9.120	2	
+Vaa	Buruku	Benue	7.161	9.159	2	
+Vange	Gboko	Benue	7.322	8.944	2	
+Vav	Gboko	Benue	7.290	8.891	2	
+Vanbei	Jada	Adamawa	8.690	12.478	2	
+Vande	Mikang	Plateau	8.981	9.662	2	
+Vamngo Jabbi	Fufore	Adamawa	9.071	12.061	2	
+Vamgo Dogo	Fufore	Adamawa	9.002	12.394	2	
+Vava	Song	Adamawa	9.699	12.331	2	
+Valu	Song	Adamawa	9.697	12.323	2	
+Vaatita	Fufore	Adamawa	9.672	12.844	2	
+Vayiri	Sardauna	Taraba	6.774	11.259	2	
+Vakkude	Sardauna	Taraba	6.644	11.299	2	
 Vaal Street	Municipal Area Council	FCT Abuja	9.106	7.487	1	
 Vannern Crescent	Municipal Area Council	FCT Abuja	9.092	7.476	1	
 Lake Valencia Crescent	Municipal Area Council	FCT Abuja	9.093	7.498	1	
@@ -28,8 +75,11 @@ Valerian Crescent	Eti Osa	Lagos	6.464	3.524	1
 Valentine Osaya Asemota Street	Eti Osa	Lagos	6.449	3.567	1	
 Iva Valley Road	Enugu North	Enugu	6.460	7.472	1	
 Iva Valley Road	Enugu North	Enugu	6.451	7.453	1	
-VANCO JUNCTION AI	Abakaliki	Ebonyi	6.319	8.112	1	
+Vanco Junction Ai	Abakaliki	Ebonyi	6.319	8.112	1	
 Van George close	Fagge	Kano	12.027	8.527	1	
 Vattern Crescent	Municipal Area Council	FCT Abuja	9.101	7.485	1	
-NAF Valley Estate	Municipal Area Council	FCT Abuja	9.048	7.545	2	
-Vandeikya	Vandeikya	Benue	6.833	9.046	2	
+valid petro	Oredo	Edo	6.332	5.597	0	
+Uwhie Ladies Vanguard Primary School	Uvwie	Delta	5.555	5.766	0	
+Valangide Hospital	Gwoza	Borno	11.070	13.689	0	
+Flo Valley	Oshimili South	Delta	6.188	6.725	0	
+Royal Crescent Valley International School, Ilorin, Nigeria	Asa	Kwara	8.465	4.495	0	

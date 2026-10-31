@@ -1,3 +1,21 @@
+Garin Yarima Musa	Yamaltu/Deba	Gombe	10.249	11.343	3	
+Buni Yadi	Gujba	Yobe	11.276	12.008	3	
+Ngadarma Bila Yahi	Chibok	Borno	10.722	12.884	3	Ngadarma Bulayahi
+Zadawa Yama	Askira-Uba	Borno	10.649	12.903	3	
+Yakubu	Bauchi	Bauchi	10.306	9.840	3	
+Yakoba	Bauchi	Bauchi	10.314	9.850	3	
+Yammawa	Shanono	Kano	12.093	7.875	3	
+Yar Dole	Jere	Borno	11.930	13.243	3	
+Yar Kasuwa	Tofa	Kano	12.058	8.273	3	
+Yarako	Gezawa	Kano	12.025	8.700	3	
+Niima Yamma	Gaya	Kano	11.800	9.024	3	
+Yanbarau	Dawakin Kudu	Kano	11.838	8.596	3	
+Yamma	Albasu	Kano	11.674	9.141	3	Albasu
+Yamusawa	Takai	Kano	11.537	9.227	3	
+Yambade	Takai	Kano	11.576	9.108	3	
+Yankaji	Garko	Kano	11.585	8.922	3	
+Yabo	Yabo	Sokoto	12.722	5.013	3	
+Yana	Shira	Bauchi	11.407	10.013	3	
 Dan Kolio Yammâ	Gazaoua	Katsina	13.342	7.893	2	
 Yashikera	Baruten	Kwara	9.771	3.398	2	
 Yarumen Dan Galadima	Wamako	Sokoto	13.011	4.998	2	
@@ -30,7 +48,7 @@ Sainyinan Yabo	Shagari	Sokoto	12.582	4.891	2
 Karofi Yashi	Rimin Gado	Kano	11.881	8.344	2	Karofin Yashi
 Yangba	Borgu	Niger	9.871	4.488	2	
 Yashi Mission	Sanga	Kaduna	9.182	8.632	2	
-Garin Yarima Musa	Yamaltu/Deba	Gombe	10.249	11.343	3	
+Nyankola	Wukari	Taraba	8.200	10.017	2	Yakola
 Tula Yiri	Kaltungo	Gombe	9.800	11.500	2	Tula Yari
 Yafa	Askira-Uba	Borno	10.779	13.309	2	
 Yau Lawanti	Abadam	Borno	13.558	13.233	2	Yo
@@ -52,6 +70,7 @@ Bornu Yassu	Magumeri	Borno	12.275	12.569	2
 Ungwan Yari	Jega	Kebbi	12.319	4.331	2	
 Yarjega	Maiyama	Kebbi	11.716	4.419	2	
 Yalwa	Rano	Kano	11.409	8.518	2	Yelwa
+Sabuwar Yamma	Karim Lamido	Taraba	9.200	10.783	2	Yamma;Sabuwar Yamma
 Yadimari	Damboa	Borno	11.199	13.037	2	
 Yaungo	Fufore	Adamawa	9.450	12.650	2	Yaongo
 Bula Yagujabala	Bama	Borno	11.448	13.626	2	
@@ -65,7 +84,6 @@ Yandogaye	Bunza	Kebbi	12.231	3.785	2
 Yakuba	Ngaski	Kebbi	10.890	5.001	2	
 Bin Yauri	Ngaski	Kebbi	10.785	4.806	2	
 Yamu	Gudu	Sokoto	13.496	4.356	2	
-Buni Yadi	Gujba	Yobe	11.276	12.008	3	
 Yanemi	Lokoja	Kogi	7.987	6.748	2	
 Yahaya	Shanga	Kebbi	11.325	4.524	2	
 Barden Yana	Kaduna South	Kaduna	10.474	7.433	2	Bardon Yana
@@ -119,8 +137,6 @@ Yaldu	Arewa Dandi	Kebbi	12.787	4.267	2
 Gidan Yargora	Ikara	Kaduna	11.388	8.048	2	Yargora
 Kuchin Pwere	Tafa	Niger	9.248	7.234	2	Yaguru
 Yaleri Kurnawa	Konduga	Borno	11.669	13.393	2	
-Ngadarma Bila Yahi	Chibok	Borno	10.722	12.884	3	Ngadarma Bulayahi
-Zadawa Yama	Askira-Uba	Borno	10.649	12.903	3	
 Yan Ali	Ungongo	Kano	12.067	8.613	2	
 Yakasawa	Ringim	Jigawa	12.096	9.161	2	
 Garin Malam Yako	Fika	Yobe	11.346	11.217	2	Garin Mallam Yako
@@ -166,23 +182,11 @@ Yagarmawa	Gada	Sokoto	13.689	5.700	2
 Dabagin Yari	Wurno	Sokoto	13.270	5.463	2	
 Ungwan-Dan-Yaro	Maru	Zamfara	11.302	6.515	2	
 Sire Yamusa	Bagudo	Kebbi	11.221	4.077	2	
-Yakubu	Bauchi	Bauchi	10.306	9.840	3	
-Yakoba	Bauchi	Bauchi	10.314	9.850	3	
-Kwanar Yan Dusa	Gwale	Kano	11.988	8.516	0	
-Yanoko Primary Health Centre	Rogo	Kano	11.456	7.918	0	
-Yammedi Primary Health Centre	Karaye	Kano	11.824	8.092	0	
-Yako Primary Health Centre	Kiru	Kano	11.656	8.193	0	
-Yalwa Health Post	Kiru	Kano	11.486	8.187	0	
-Yalwan Dan Musa Health Post	Doguwa	Kano	10.576	8.716	0	
-Yanbundu Health Post	Bichi	Kano	12.269	8.293	0	
-Yangwarzo Health Post	Bichi	Kano	12.274	8.156	0	
-Yanmamman Health Post	Tsanyawa	Kano	12.262	8.041	0	
 Yakinta	Ajingi	Kano	12.019	8.969	2	Yankinta
 Kafi Jirgi Magiji Masallaci Yamma	Gaya	Kano	11.746	9.140	2	
 Kofar Yamma	Bagwai	Kano	12.094	8.036	2	
 Yelwan Dan Musa	Doguwa	Kano	10.575	8.716	2	Yalwan Dan Musa
 Yantama Arewa	Doguwa	Kano	10.746	8.613	2	Yantama
-Yammawa	Shanono	Kano	12.093	7.875	3	
 Yankame Cikin Gari	Tsanyawa	Kano	12.315	7.900	2	
 Yan Kaura	Doguwa	Kano	11.132	8.530	2	
 Yan Tabarmi	Doguwa	Kano	11.103	8.593	2	
@@ -207,7 +211,6 @@ Yarkawo	Tudun Wada	Kano	11.208	8.492	2
 Yarmariya Cikin Gari	Tudun Wada	Kano	11.265	8.348	2	Yarmaraya
 Yaryasa	Tudun Wada	Kano	11.336	8.307	2	Yaryasa-ta-Yamma
 Yalwa K	Hawul	Borno	10.407	12.551	2	
-Yar Dole	Jere	Borno	11.930	13.243	3	
 Yauri	Jere	Borno	11.765	13.216	2	
 Jauro Yayari	Shani	Borno	10.076	12.006	2	
 Jauro Yayaji	Shani	Borno	10.308	11.908	2	
@@ -250,7 +253,6 @@ Yangila Chariri	Gubio	Borno	12.628	12.717	2
 Dala Yazaraye	Maiduguri	Borno	11.773	13.099	2	
 Yana Kauri	Gubio	Borno	12.676	12.695	2	
 Yaumari Bulamari	Gubio	Borno	12.941	12.804	2	
-Yaumari Bulamari	Gubio	Borno	12.942	12.822	2	
 Yaumari Lawanti	Gubio	Borno	12.947	12.823	2	
 Shewari B Yau	Magumeri	Borno	12.059	12.817	2	
 Shewari Bulama Yau	Magumeri	Borno	12.061	12.796	2	
@@ -312,18 +314,13 @@ Yarda Sanda	Biu	Borno	10.688	11.883	2
 Yaya Bukar	Biu	Borno	10.719	11.951	2	
 Yaulari	Biu	Borno	10.727	12.163	2	
 Yabal	Konduga	Borno	11.736	13.432	2	
-Yale Clinic	Bama	Borno	11.707	13.707	0	
 Yaulari	Biu	Borno	10.837	12.409	2	
 Gur Yabanjau	Biu	Borno	10.841	12.190	2	
 Karagaji-Yamati	Bama	Borno	11.461	13.818	2	
-Yajiwa Health Clinic	Kaga	Borno	11.389	12.723	0	
-Buni Yadi	Gujba	Yobe	11.274	12.008	0	
 Yaonia	Bosso	Borno	13.567	13.218	2	
 Yamkone	Maïné Soroa	Yobe	13.248	11.894	2	
-Yar Akija Basic Health Clinic	Sokoto South	Sokoto	13.054	5.236	0	Akija Clinic
 Yarta	Diffa	Borno	13.399	12.784	2	
 Yakubawa Gari	Magaria	Katsina	13.076	8.489	2	
-Laila Dogon Yaro	Kaduna North	Kaduna	10.537	7.434	0	
 Gorun Yamma	Dandi	Kebbi	11.984	3.700	2	
 Yarimari	Monguno	Borno	12.344	13.412	2	
 Kenza Yakku	Kukawa	Borno	12.928	13.577	2	
@@ -357,9 +354,7 @@ Yargusau	Gummi	Zamfara	12.011	5.054	2
 Gidan Yausi	Tureta	Sokoto	12.578	5.294	2	
 Yarunfa	Dange-Shuni	Sokoto	12.930	5.309	2	
 Yargalma	Bukkuyum	Zamfara	11.973	5.516	2	
-NASFTS Buni Yadi	Gujba	Yobe	11.245	12.014	0	
 Yam Zone	Port-Harcourt	Rivers	4.758	7.027	2	
-Yajiwa Camp Kusheri Refugee Site	Jere	Borno	11.789	13.131	0	
 Yanoko	Rogo	Kano	11.454	7.921	2	Ungwan Yanoko
 Yammawa Hausawa	Karaye	Kano	11.749	7.928	2	Ungwan Alhazi
 Yalwa	Karaye	Kano	11.767	7.890	2	Gorawa
@@ -379,7 +374,6 @@ Yandutse Cikin Gari	Bichi	Kano	12.263	8.255	2
 Yalwa	Bichi	Kano	12.378	8.148	2	Malikawan Safari
 Yanbundu Cikin Gari	Bichi	Kano	12.266	8.292	2	Yan-Bundu
 Dan Dushe	Bichi	Kano	12.234	8.272	2	Yan Dutse
-Yar Kasuwa	Tofa	Kano	12.058	8.273	3	
 Yanoka	Tofa	Kano	12.055	8.296	2	
 Yan Shado	Dawakin Tofa	Kano	12.115	8.295	2	
 Yansabo	Tofa	Kano	12.055	8.318	2	
@@ -409,7 +403,6 @@ Jama'Ar Yan Barkono	Minjibir	Kano	12.186	8.510	2
 Yanjoma	Dawakin Kudu	Kano	11.901	8.630	2	
 Sabuwar Jumar Yamma	Warawa	Kano	11.938	8.635	2	
 Yan Daudu	Dawakin Kudu	Kano	11.900	8.623	2	
-Yarako	Gezawa	Kano	12.025	8.700	3	
 Yabawa	Minjibir	Kano	12.114	8.614	2	
 Matallawa Yamadi	Gezawa	Kano	12.047	8.692	2	Matalawa
 Yamadi	Gezawa	Kano	12.059	8.678	2	
@@ -440,314 +433,31 @@ Yankunu	Ajingi	Kano	11.950	9.079	2
 Yar Kanya	Kura	Kano	11.800	8.438	2	
 Yakasai	Kura	Kano	11.817	8.494	2	
 Yalwa	Madobi	Kano	11.860	8.491	2	
-Niima Yamma	Gaya	Kano	11.800	9.024	3	
 Gidan Yawa	Gezawa	Kano	12.023	8.788	2	
 Yafata	Gezawa	Kano	11.984	8.738	2	
 Yanlanya	Warawa	Kano	11.877	8.755	2	
 Yan Bukar	Dawakin Kudu	Kano	11.800	8.796	2	
 Yansarki	Wudil	Kano	11.786	8.838	2	
-Yanbarau	Dawakin Kudu	Kano	11.838	8.596	3	
 Yanbarau	Dawakin Kudu	Kano	11.822	8.583	2	
-Yanbarau	Dawakin Kudu	Kano	11.827	8.582	2	
 Yan Audu	Gaya	Kano	11.837	8.915	2	
 Kalahaddi Yamma	Gaya	Kano	11.717	9.025	2	
 Barade Yamma	Dawakin Kudu	Kano	11.723	8.681	2	
-Yamma	Albasu	Kano	11.674	9.141	3	Albasu
 Auzara Yamma	Takai	Kano	11.521	9.322	2	
 Yansoro Asibit	Gaya	Kano	11.724	8.919	2	
 Handawaki Yamma	Gaya	Kano	11.777	8.908	2	
 Yansoro	Gaya	Kano	11.739	8.913	2	
-Yamusawa	Takai	Kano	11.537	9.227	3	
-Yambade	Takai	Kano	11.576	9.108	3	
 Yakaduna	Sumaila	Kano	11.297	9.059	2	
 Yalwa	Rano	Kano	11.432	8.528	2	
-Yankaji	Garko	Kano	11.585	8.922	3	
 Unguwar Yaro	Tudun Wada	Kano	11.316	8.755	2	
 Kuruma Yamma	Bunkure	Kano	11.667	8.536	2	
 Yama	Rano	Kano	11.443	8.553	2	
 Doka Yalwa	Rano	Kano	11.444	8.505	2	
-Yamtake Dispensary	Gwoza	Borno	11.108	13.507	0	
-Etsu Yahaya Abubakar Health Center	Katcha	Niger	9.279	6.194	0	
-Yanawo Clinic and Maternity Farin Gada Jos	Jos North	Plateau	9.963	8.861	0	
-Yalwan Soba, Primary Health Centre	Karu	Nasarawa	8.774	7.907	0	
-Yankari Motor park	Bauchi	Bauchi	10.308	9.844	0	
-Primary Health Care By Yakowa Way Karjipu	Chikun	Kaduna	10.496	7.467	0	
-General Hospital Barodikko No1b Yarima Street Ang Pama	Chikun	Kaduna	10.456	7.456	0	
-Yaba	Mushin	Lagos	6.511	3.370	0	
-MALAN YARO ISLAMIYYA	Ungongo	Kano	12.044	8.570	0	
-MAKARANTAR MALAM IBRAHIM MAI YAR HULA	Ungongo	Kano	12.040	8.564	0	
-Katako Yan Gwanjo	Jos North	Plateau	9.943	8.878	0	
-Apata Yakuba Junior Secondary., Apata Yakuba, Nigeria	Ilorin East	Kwara	8.528	4.620	0	
 Yaba	Lagos Mainland	Lagos	6.507	3.376	2	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.956	7.255	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.957	7.255	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.961	7.245	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.953	7.264	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.285	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.943	7.292	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.009	7.418	1	Dantata Bridge
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.972	7.362	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.992	7.400	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.309	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.304	1	
-Yakubu Gowon Crescent	Municipal Area Council	FCT Abuja	9.053	7.526	1	
-Yakubu Gowon Crescent	Municipal Area Council	FCT Abuja	9.057	7.524	1	
-Yakubu Gowon Crescent	Municipal Area Council	FCT Abuja	9.043	7.525	1	
-Yakoyo Road	Ikeja	Lagos	6.654	3.357	1	
-Yankari National Park approach road	Alkaleri	Bauchi	10.130	10.193	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.450	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.076	7.413	1	
-Yahaya Road	Kaduna North	Kaduna	10.542	7.466	1	
-Yaounde Street	Kaduna North	Kaduna	10.525	7.465	1	
-Dr. Yahaya Hamza Street	Kaduna North	Kaduna	10.513	7.452	1	
-Yakubu Avenue	Kaduna North	Kaduna	10.536	7.447	1	
-Yaza Abdullahi Road	Kaduna North	Kaduna	10.581	7.462	1	
-Musa Yakubu Crescent	Kaduna North	Kaduna	10.557	7.455	1	
-Yahaya Road	Kaduna North	Kaduna	10.540	7.461	1	
-James Yakubu Pam Street	Municipal Area Council	FCT Abuja	9.040	7.465	1	
-Yanga Market	Oredo	Edo	6.335	5.618	0	
-Yan Dutse Road	Nassarawa	Kano	11.988	8.543	1	
-Musa Yardua Street	Eti Osa	Lagos	6.432	3.417	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.420	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.427	1	
-Yaba Road	Lagos Mainland	Lagos	6.492	3.381	1	
-Yaru Street	Surulere	Lagos	6.508	3.340	1	
-Yakubu Street	Kosofe	Lagos	6.608	3.377	1	
-Yakubu Gowan Way	Kaduna North	Kaduna	10.521	7.426	1	
-Yahaya Crescent	Ajeromi/Ifelodun	Lagos	6.450	3.339	1	
-Yawuri Street	Municipal Area Council	FCT Abuja	9.028	7.486	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.986	7.389	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.984	7.388	1	
-Yalinga Street	Municipal Area Council	FCT Abuja	9.072	7.479	1	
-Yamoyus Petrol Station	Municipal Area Council	FCT Abuja	9.082	7.466	0	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.076	7.438	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.005	7.161	1	
-Yabuku Roundabout	Bauchi	Bauchi	10.309	9.844	1	
-Sarkin Yaki	Fagge	Kano	12.027	8.535	1	
-Yakubu Gowon Airport	Riyom	Plateau	9.636	8.871	0	
-Yakubu Gowon Way	Jos South	Plateau	9.834	8.867	1	
-Emir Yahaya Road	Sokoto South	Sokoto	13.052	5.237	1	
-Yahaya Madaki Way	Muhammadu Dikko Stadium	Katsina	12.981	7.614	1	
-Yarhere Street	Uvwie	Delta	5.534	5.762	1	
-Yakubu Avenue	Kaduna North	Kaduna	10.534	7.450	1	
-Yauri Road	Wamako	Sokoto	13.022	5.224	1	
-Yalwan Danzial link	Fagge	Kano	11.999	8.541	1	
-Yakubu Ahmed Avenue	Nassarawa	Kano	12.004	8.566	1	
-Ali Yamani Street	Kano Municipal	Kano	11.971	8.503	1	
-Yakubu Gowon Way	Jos South	Plateau	9.836	8.867	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.029	7.438	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.286	1	
-Aa Yari Road	Maru	Zamfara	12.316	6.409	1	
-Yahaya Gusail Road	Wamako	Sokoto	13.018	5.235	1	
-YAN WANKI ROAD	Dambatta	Kano	12.429	8.518	1	
-Garba Yagaji street	Tarauni	Kano	11.976	8.560	1	
-Yan Nana Road	Wudil	Kano	11.801	8.840	1	
-Yaya Abatan Road	Ifako/Ijaye	Lagos	6.636	3.340	1	
-Yanoko Road	Tofa	Kano	12.055	8.290	1	
-Kofar Yamma	Tofa	Kano	12.058	8.267	1	
-Yar Maraya - Ikara Road	Tudun Wada	Kano	11.276	8.303	1	
-Alh. Yahaya Lawan Close	Maiduguri	Borno	11.811	13.178	1	
-Yale Okeowo Street	Oshodi/Isolo	Lagos	6.509	3.297	1	
-Yan Daudu Road	Wudil	Kano	11.806	8.842	1	
-Kofar Yamma Close	Wudil	Kano	11.808	8.843	1	
-Yakubu Bako Close	Nassarawa	Kano	11.996	8.557	1	
-Justice Nuhu Yahaya Street	Gwale	Kano	11.980	8.469	1	
-Rabiu Yazid Street	Kano Municipal	Kano	11.976	8.533	1	
-Takai yamma road	Dambatta	Kano	12.324	8.607	1	
-Yar Maraya - Ikara Road	Ikara	Kaduna	11.246	8.250	1	
-Yar Maraya - Ikara Road	Ikara	Kaduna	11.215	8.233	1	
-Yar Maraya - Ikara Road	Ikara	Kaduna	11.178	8.237	1	
-Yar Maraya - Ikara Road	Ikara	Kaduna	11.175	8.235	1	
-Yar Maraya - Ikara Road	Ikara	Kaduna	11.191	8.229	1	
-Yartofa Health Post	Bagwai	Kano	12.078	8.136	0	
-Yaryasa - Jeli B Road	Tudun Wada	Kano	11.298	8.271	1	
-Yawurma Health Post	Albasu	Kano	11.648	9.168	0	
-Yanchibi Health Post	Tsanyawa	Kano	12.240	7.892	0	
-Yanganau Health Post	Tsanyawa	Kano	12.254	7.958	0	
-Yartofa Health Post	Warawa	Kano	11.930	8.688	0	
-Yarimawa Primary Health Centre	Tofa	Kano	12.027	8.369	0	
-Yalwa Primary Health Centre	Rimin Gado	Kano	11.953	8.310	0	
-Karofin Yashi Health Post	Rimin Gado	Kano	11.883	8.350	0	
-Yango Health Post	Rimin Gado	Kano	11.996	8.228	0	
-Yarkasuwa Health Post	Gwarzo	Kano	11.917	7.935	0	
-Yan Bawa Health Post	Sumaila	Kano	11.371	9.059	0	
-Yauwra Health Post	Albasu	Kano	11.610	8.969	0	
-Yan Kau Health Post	Gaya	Kano	11.760	8.979	0	
-Yankwada Health Post	Shanono	Kano	12.203	7.876	0	
-Yankamaye Health Post	Tsanyawa	Kano	12.314	7.897	0	
-Yaan'Awaki Health Post	Tsanyawa	Kano	12.366	8.018	0	
-Yankamaye Primary Health Centre	Tsanyawa	Kano	12.329	7.929	0	
-Yakanawa Primary Health Centre	Tsanyawa	Kano	12.194	7.984	0	
-Yan'Amar Health Post	Tsanyawa	Kano	12.413	8.080	0	
-Yandadi Primary Health Centre	Kunchi	Kano	12.453	8.235	0	
-Yankifi Health Post	Kunchi	Kano	12.473	8.269	0	
-Yammawa Health Post	Dambatta	Kano	12.508	8.469	0	
-Yan Bawa Health Post	Makoda	Kano	12.534	8.497	0	
-Yammawa Gamji Health Post	Dambatta	Kano	12.488	8.476	0	
-Yammawa Wanzari Health Post	Dambatta	Kano	12.511	8.655	0	
-Yama Health Post	Gabasawa	Kano	12.271	8.812	0	
-Yar Zabaina Health Post	Gabasawa	Kano	12.155	8.799	0	
-Yaranchi Health Post	Gabasawa	Kano	12.166	8.755	0	
-Yautar Kudu Primary Health Centre	Gabasawa	Kano	12.197	8.759	0	
-Yatsi Health Post	Bichi	Kano	12.255	8.471	0	
-Yammata Health Post	Fagge	Kano	12.064	8.473	0	
-Yakasai Health Post	Dawakin Tofa	Kano	12.156	8.483	0	
-Yarrutu Health Post	Dawakin Tofa	Kano	12.117	8.296	0	
-Yakasai Health Post	Bichi	Kano	12.202	8.292	0	
-Yalwa Karama Health Post	Tofa	Kano	12.058	8.335	0	
-Yanoko Primary Health Centre	Tofa	Kano	12.055	8.298	0	
-Yar Kasuwa Road	Tofa	Kano	12.060	8.275	1	
-Hon. Yaya Dosunmu Way	Eti Osa	Lagos	6.445	3.508	1	
-Hon. Yaya Dosunmu Way	Eti Osa	Lagos	6.437	3.508	1	
-Yaryasa - Bargi Road	Tudun Wada	Kano	11.335	8.302	1	
-Yar Maraya - Ikara Road	Ikara	Kaduna	11.276	8.262	1	
-Yaryasa - Jeli B Road	Tudun Wada	Kano	11.321	8.289	1	
-Yaryasa - Jeli B Road	Tudun Wada	Kano	11.328	8.299	1	
-Yaryasa - Bargi Road	Kiru	Kano	11.327	8.269	1	
-Yaryasa - Bargi Road	Kiru	Kano	11.336	8.297	1	
-Sabakuwa Yamma	Zaki	Bauchi	12.377	10.364	0	
-Yaraye Health Center	Itas/Gadau	Bauchi	11.832	9.844	0	
-Yarimari Dispensary	Giade	Bauchi	11.576	10.202	0	
-Garin Kure Yamma Dispensary	Nangere	Yobe	11.825	10.834	0	
-Yayari	Damban	Bauchi	11.576	10.637	0	
-Yangamai Dispensary	Jama'Are	Bauchi	11.667	9.902	0	
-Muna Kori Bula Yalaye	Jere	Borno	11.871	13.240	1	
-Gidan YanBama	Jere	Borno	11.791	13.178	1	
-Yakanaji Dispensary	Toro	Bauchi	10.105	9.349	0	
-Yalwan Duguri Model Primary Health Center	Alkaleri	Bauchi	9.960	10.184	0	
-Sarkin Yaki Road	Zaria	Kaduna	11.088	7.726	1	
-Yabo Road	Sokoto North	Sokoto	13.063	5.216	1	
-Dogon Yaro Roundabout	Bauchi	Bauchi	10.302	9.808	1	
-Yawi - Kida Road	Hawul	Borno	10.570	12.237	1	
-Patrick Yakowa Way	Kaduna North	Kaduna	10.509	7.460	1	
-yarmani Batagarawa	Batagarawa	Katsina	12.902	7.620	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.035	7.448	1	
-Rd birnin Yaro	Igabi	Kaduna	10.783	7.552	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.904	10.361	1	
-Yankari National Park approach road	Alkaleri	Bauchi	10.063	10.279	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.035	7.449	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.018	7.427	1	
-Yaba Street	Alimosho	Lagos	6.582	3.275	1	
-Alhaji Yahaya Street	Oshodi/Isolo	Lagos	6.522	3.334	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.949	7.274	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.968	7.230	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.992	7.183	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.989	7.187	1	
-Gidan YanManguno	Jere	Borno	11.806	13.176	1	
-Hon. Yaya Dosunmu Way Roundabout	Eti Osa	Lagos	6.453	3.509	1	
-Yakubu Pam Street	Kaduna North	Kaduna	10.578	7.427	1	
-Umaru Musa Yar'adua Way	Kaduna North	Kaduna	10.539	7.473	1	
-Umaru Musa Yar'adua Way	Kaduna North	Kaduna	10.538	7.475	1	
-Umaru Musa Yar'adua Way	Chikun	Kaduna	10.532	7.484	1	
-Umaru Musa Yar'adua Way	Chikun	Kaduna	10.531	7.486	1	
-Yaba Flyover Bridge	Shomolu	Lagos	6.510	3.371	1	
-Yakubu Ayenajeyi	Chikun	Kaduna	10.464	7.441	1	
-Yaryasa - Bargi Road	Kiru	Kano	11.338	8.253	1	
-Yaba Street	Ondo West	Ondo	7.105	4.850	1	
-Yaba Street	Ondo West	Ondo	7.104	4.848	1	
-Yaounde Crescent	Kaduna North	Kaduna	10.524	7.465	1	
-Abu-Yasir Close	Kaduna North	Kaduna	10.528	7.457	1	
-M. Yahaya Mahmud Close	Kaduna North	Kaduna	10.527	7.454	1	
-Jirgin na yaya street	Gombe	Gombe	10.277	11.141	1	
-Sarkin Yaki	Fagge	Kano	12.027	8.541	1	
-Yahaya Gusail Road	Wamako	Sokoto	13.023	5.234	1	
-Yaya Street	Eti Osa	Lagos	6.425	3.584	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.005	7.161	1	
-Odozi Street	Ifo	Ogun	6.648	3.366	1	Oremeta/Yakoyo Road
-Yakubu Bauchi Road	Ungongo	Kano	11.970	8.435	1	
-Yakubu Bauchi Road	Ungongo	Kano	11.970	8.435	1	
-Yakubu Imam Street	Eti Osa	Lagos	6.474	3.632	1	
-Yakubu James Pam Street	Municipal Area Council	FCT Abuja	9.056	7.478	1	
-IJ Yahaya Close	Municipal Area Council	FCT Abuja	9.046	7.553	1	
-Layin Ya Malan	Kumbotso	Kano	11.951	8.475	1	
-Yanshana Street	Kumbotso	Kano	11.939	8.568	1	
-Yankari National Park approach road	Bauchi	Bauchi	10.240	10.147	1	
-Yankari National Park approach road	Bauchi	Bauchi	10.229	10.151	1	
-Umar Musa Yaraddua University, Katsina	Batagarawa	Katsina	12.878	7.587	0	
-Government Day Secondary School Yandaka	Muhammadu Dikko Stadium	Katsina	12.976	7.587	0	
-Yankari National Park approach road	Alkaleri	Bauchi	9.947	10.345	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.946	10.345	1	
-Yankari National Park approach road	Alkaleri	Bauchi	10.012	10.311	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.884	10.383	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.886	10.381	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.871	10.395	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.845	10.411	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.820	10.429	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.803	10.446	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.809	10.440	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.780	10.479	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.763	10.507	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.765	10.505	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.795	10.455	1	
-Yaba College of Technology	Shomolu	Lagos	6.520	3.376	0	Yabatech|YabaTech|YCT
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.965	7.235	1	
-Yakubu Gowon Way	Jos North	Plateau	9.891	8.880	1	
-Yakubu Gowon Way	Jos North	Plateau	9.879	8.874	1	
-Yakubu Gowon Way	Jos North	Plateau	9.870	8.871	1	
-Yakubu Gowon Way	Jos South	Plateau	9.855	8.866	1	
-Yaba Bus Terminal	Shomolu	Lagos	6.510	3.371	0	
-Mohammed Yahaya Close	Municipal Area Council	FCT Abuja	9.129	7.434	1	
-Oremeta/Yakoyo Road	Ikeja	Lagos	6.656	3.355	1	
-Yakoyo Road	Ikeja	Lagos	6.655	3.355	1	
-Yakoyo Road	Ikeja	Lagos	6.657	3.354	1	
-Oremeta/Yakoyo Road	Ikeja	Lagos	6.657	3.355	1	
-Yakoyo Road	Ifo	Ogun	6.678	3.367	1	
-Oremeta/Yakoyo Road	Ifo	Ogun	6.654	3.356	1	
-Yakoyo Road	Ifo	Ogun	6.671	3.358	1	
-IA Yahaya Street	Municipal Area Council	FCT Abuja	9.047	7.548	1	
-Yakun Health Post	Madobi	Kano	11.740	8.265	0	
-Yaryasa Health Post	Tudun Wada	Kano	11.337	8.308	0	
-Turai Yar'Adua Primary Health Centre	Kumbotso	Kano	11.953	8.515	0	
-Jauben Yamma Health Post	Bagwai	Kano	12.067	8.056	0	
-Yana Health Clinic	Shira	Bauchi	11.412	10.014	0	
-Yana Maternity	Shira	Bauchi	11.406	10.016	0	
-General Hospital Shira Yana	Shira	Bauchi	11.442	10.034	0	
-Yarka Dispensary	Shira	Bauchi	11.467	10.075	0	
-Yalwa Primary Health Center	Giade	Bauchi	11.250	10.246	0	
-Yayari Maternity	Warji	Bauchi	11.195	9.646	0	
-Ruda Yausa Dispensary	Ganjuwa	Bauchi	10.466	9.847	0	
-Maternity Clinic Kusu Yalwan Kagadama	Bauchi	Bauchi	10.266	9.793	0	
-Maraba Gumai Yamma	Zaki	Bauchi	11.955	10.245	0	
-Dogon Jeji Health Clinic	Jama'Are	Bauchi	11.739	9.955	0	Kofar Yamma
-Yame Model Primary Health Center	Damban	Bauchi	11.592	10.647	0	
-Yayu Primary Health Center	Katagum	Bauchi	11.543	10.557	0	
-Primary Health Center Yangamai	Jama'Are	Bauchi	11.667	9.902	0	
-Federal Psychiatric Hospital Yaba	Shomolu	Lagos	6.510	3.374	0	
-Yada Gungume Primary Health Center	Ningi	Bauchi	10.865	9.057	0	
-Yabal Dispensary	Konduga	Borno	11.733	13.433	0	
-Kakam Yali Maternal Child Hospital	Konduga	Borno	11.653	13.415	0	
-Yadini health post	Demsa	Adamawa	9.226	11.752	0	
-Yahau Model Health Center	Demsa	Adamawa	9.511	12.168	0	
-Yadim Health Facility	Fufore	Adamawa	8.973	12.402	0	
-Yadim Maternal And Child Health Center	Fufore	Adamawa	8.973	12.402	0	
-Yaro Karekare Health Post	Nangere	Yobe	11.681	10.939	0	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.949	7.331	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.954	7.336	1	
-Musa Yar' Adua Way	Owerri Municipal	Imo	5.493	7.014	1	
-Link 16 Yamadawa Gabas Street	Gwale	Kano	11.972	8.472	1	
-Kwanar Bazawara, Yankaba	Nassarawa	Kano	12.011	8.583	1	
-MUSA YAR'ADUA MEMORIAL PRIMARY SCHOOL (AMBUTTAI)	Muhammadu Dikko Stadium	Katsina	12.992	7.598	0	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.003	7.412	1	
-Umaru Musa Yar'adua Way	Chikun	Kaduna	10.515	7.523	1	
-Yakubu Gowon Crescent	Municipal Area Council	FCT Abuja	9.056	7.514	1	
-Yakubu Gowon Crescent	Municipal Area Council	FCT Abuja	9.055	7.512	1	
 Wuro Yaji	Gombi	Adamawa	10.098	12.672	2	
-Yakubu Gowon Crescent	Municipal Area Council	FCT Abuja	9.048	7.517	1	
-Yakubu Gowan Way	Kaduna North	Kaduna	10.531	7.441	1	
-Yakubu Gowan Way	Kaduna North	Kaduna	10.524	7.442	1	
-Umaru Musa Yar'adua Way	Chikun	Kaduna	10.513	7.527	1	
-Musa Yar' Adua Way	Owerri Municipal	Imo	5.494	7.016	1	
-Yaba Lafewa Street	Ondo West	Ondo	7.086	4.828	1	
-Yakubu Lane	Agege	Lagos	6.613	3.327	1	
-Yakubu Avenue	Kaduna North	Kaduna	10.538	7.441	1	
-Buba Yadi Street	Ngelzarma	Yobe	11.751	11.972	1	
-Yan Dutse Road	Nassarawa	Kano	11.988	8.546	1	
-Buni Yadi Primary Health Care Center	Gujba	Yobe	11.281	12.002	0	
 Buni Yadi	Gujba	Yobe	11.288	12.034	2	
 Kofar Yamma	Gumel	Jigawa	12.634	9.388	2	
 Yalawa	Gagarawa	Jigawa	12.475	9.516	2	
 Yankoli	Hadejia	Jigawa	12.451	10.064	2	
-Yankwashi	Yankwashi	Jigawa	12.755	8.560	2	
 Yandutse	Ringim	Jigawa	12.161	9.233	2	
 Yayari	Hadejia	Jigawa	12.438	10.043	2	
 Yalo	Kaugama	Jigawa	12.356	9.675	2	
@@ -784,9 +494,7 @@ Yautar Kudu	Gabasawa	Kano	12.156	8.798	2
 Yako	Kiru	Kano	11.647	8.199	2	
 Yanoko	Tofa	Kano	12.065	8.311	2	
 Yallami	Bichi	Kano	12.310	8.329	2	
-Yalwa	Rano	Kano	11.415	8.528	2	
 Karofin Yashi	Rimin Gado	Kano	11.895	8.367	2	
-Yalwa	Kiru	Kano	11.481	8.178	2	
 Yammedi	Karaye	Kano	11.828	8.070	2	
 Yada Kwari	Garum Mallam	Kano	11.703	8.411	2	
 Yankatsari	Dawakin Kudu	Kano	11.902	8.628	2	
@@ -803,7 +511,6 @@ Yankamaye	Tsanyawa	Kano	12.306	7.927	2
 Yashe A	Kusada	Katsina	12.370	7.936	2	
 Dan Alhaji Yangayya	Batsari	Katsina	12.859	7.336	2	
 Yanduna	Baure	Katsina	12.814	8.599	2	
-Yankwashi	Yankwashi	Jigawa	12.740	8.561	2	
 Yardaje	Zango	Katsina	13.002	8.577	2	
 Yankuzo A	Tsafe	Zamfara	11.908	7.097	2	
 Yankara	Faskari	Katsina	11.784	7.074	2	
@@ -839,7 +546,6 @@ Yagba East	Yagba East	Kogi	8.135	5.705	2
 Yagba West	Yagba West	Kogi	8.276	5.556	2	
 Birnin Yauri	Ngaski	Kebbi	10.785	4.990	2	
 Yabiri	Bama	Borno	11.391	14.072	2	
-Yawi	Biu	Borno	10.589	12.218	2	
 Yale	Konduga	Borno	11.653	13.415	2	
 Yayarin Tukur	Buji	Jigawa	11.552	9.799	2	
 Yamrat	Bauchi	Bauchi	10.090	9.819	2	
@@ -861,3 +567,922 @@ Yabal	Konduga	Borno	11.557	13.458	2
 Yawa	Abadam	Borno	13.656	13.305	2	
 Yauri	Yauri	Kebbi	10.777	4.734	2	
 Yau	Abadam	Borno	13.522	13.242	2	
+Yalwata Wuji	Lafia	Nasarawa	8.532	8.706	2	YalwataWuji|Yelwata
+Ybiri	Bama	Borno	11.348	14.075	2	Jabiri|Yabiri
+Yazun	Gboko	Benue	7.336	8.668	2	
+Yaye	Ilaje	Ondo	6.133	4.752	2	
+Yayari	Gwaram	Jigawa	11.269	9.959	2	
+Yaya	Ose	Ondo	7.331	5.868	2	
+Yawe	Biu	Borno	10.599	12.223	2	Yohwi
+Yawar	Rano	Kano	11.483	8.571	2	
+Garin Yawale	Fika	Yobe	11.315	11.241	2	Yawale
+Yawa Fulbe	Mubi South	Adamawa	10.259	13.337	2	
+Yavun	Ardo-Kola	Taraba	8.719	11.342	2	
+Yautabaki	Birnin Magaji-Kiyaw	Zamfara	12.457	6.671	2	
+Yausi	Donga	Taraba	7.330	10.419	2	
+Yaulari	Biu	Borno	10.733	12.099	2	
+Yaulari	Hawul	Borno	10.556	12.404	2	
+Yau	Abadam	Borno	13.556	13.233	2	Yo
+Yau	Gombi	Adamawa	10.372	12.605	2	
+Yatsav	Gboko	Benue	7.348	8.725	2	
+Yatamen	Konshisha	Benue	7.299	8.615	2	
+Yasku	Gubio	Borno	12.390	12.495	2	
+Yasisule	Kogi	Kogi	7.908	6.799	2	
+Yashin Tuwo	Ardo-Kola	Taraba	8.923	10.931	2	
+Yashikira	Baruten	Kwara	9.768	3.398	2	Yashikera
+Yashi	Kusada	Katsina	12.369	7.929	2	
+Yashi	Konshisha	Benue	7.024	8.779	2	
+Yashavoko	Zing	Taraba	8.901	11.780	2	
+Yasev	Konshisha	Benue	7.261	8.611	2	
+Yasam	Tarka	Benue	7.686	8.766	2	
+Yasam	Konshisha	Benue	7.133	8.602	2	
+Yasabazi	Yorro	Taraba	8.981	11.366	2	
+Yaryasa-ta-Yamma	Tudun Wada	Kano	11.334	8.308	2	
+Yaryasa	Doguwa	Kano	11.021	8.681	2	
+Yarwa	Bama	Borno	11.428	14.130	2	
+Yartsamiya	Kankara	Katsina	12.096	7.267	2	
+Yar Tofa	Bagwai	Kano	12.079	8.132	2	
+Yar Samawa	Bungudu	Zamfara	12.278	6.738	2	
+Yarogye	Tarka	Benue	7.571	8.877	2	
+Yarogel	Mai'Adua	Katsina	13.063	8.251	2	
+Yaro	Yunusari	Yobe	12.894	12.177	2	
+Yarma	Suru	Kebbi	11.977	3.998	2	
+Yarma	Fune	Yobe	11.781	11.260	2	
+Yarma	Birnin Kudu	Jigawa	11.364	9.229	2	
+Yarkwan	Ushongo	Benue	7.187	8.978	2	
+Yar Kurashe	Garki	Jigawa	12.333	9.145	2	
+Yarima Tongo	Bali	Taraba	8.240	11.340	2	
+Yarimar Tukur	Kirfi	Bauchi	10.403	10.420	2	
+Yarimari	Gamawa	Bauchi	12.111	10.620	2	
+Yarijo	Konshisha	Benue	7.152	8.613	2	
+Yari	Konshisha	Benue	7.292	8.512	2	
+Yargunu	Chikun	Kaduna	10.517	7.233	2	
+Yargule	Gboko	Benue	7.461	8.637	2	
+Yargidi	Ganjuwa	Bauchi	10.567	10.019	2	
+Yargeba	Gusau	Zamfara	12.158	6.978	2	
+Yar Gaya	Dawakin Kudu	Kano	11.895	8.662	2	
+Yarfulani	Tudun Wada	Kano	11.183	8.470	2	
+Yarfi	Gwaram	Jigawa	11.135	9.988	2	
+Yarda	Biu	Borno	10.698	11.884	2	
+Yarchida	Chibok	Borno	10.904	12.718	2	
+Yabum	Kachia	Kaduna	9.710	8.063	2	Yarbum|Yarbun
+Yarbulas	Nafada	Gombe	11.069	11.282	2	
+Yaran Sote	Song	Adamawa	9.732	12.268	2	Sote|Yaran|YaranSote
+Yaragusa	Kwande	Benue	6.545	9.579	2	
+Yapar	Fufore	Adamawa	8.894	12.565	2	
+Yanzughul	Konshisha	Benue	7.135	8.623	2	
+Yanzaki	Roni	Jigawa	12.587	8.455	2	
+Yanyang	Taura	Jigawa	12.258	9.287	2	
+Yan Turu	Gwarzo	Kano	11.817	7.917	2	
+Yan Tumaki	Dan Musa	Katsina	12.198	7.478	2	
+Yan Tashar	Malumfashi	Katsina	11.964	7.746	2	
+Yantama	Tsafe	Zamfara	11.893	7.030	2	
+Yantama	Doguwa	Kano	10.756	8.604	2	
+Yan Talata	Kafur	Katsina	11.766	7.689	2	
+Yantala	Bagudo	Kebbi	11.500	3.922	2	
+Yanshuali	Mayo-Belwa	Adamawa	8.808	11.996	2	
+Yan Rawa	Gwarzo	Kano	11.826	7.860	2	
+Yanpu	Yorro	Taraba	8.998	11.440	2	
+Yanni	Shelleng	Adamawa	10.077	12.219	2	
+Yan Maulu	Baure	Katsina	12.773	8.857	2	Yan Molo
+Yan Mamman	Tsanyawa	Kano	12.267	8.033	2	
+Yan Malamai	Dan Musa	Katsina	12.304	7.220	2	
+Yankyaar	Ushongo	Benue	7.238	8.987	2	
+Yankya	Ushongo	Benue	7.210	8.905	2	
+Yan Kusa	Kumbotso	Kano	11.916	8.488	2	
+Yan Kuni	Tofa	Kano	11.960	8.283	2	
+Yankpako	Bosso	Niger	9.404	6.279	2	
+Yankiria	Kazaure	Jigawa	12.711	8.673	2	
+Yankatsare	Dawakin Kudu	Kano	11.896	8.620	2	
+Yankari	Alkaleri	Bauchi	9.616	10.637	2	
+Yankamaye	Tsanyawa	Kano	12.314	7.901	2	
+Yankaa	Konshisha	Benue	7.065	8.707	2	
+Yan Guruza	Gwarzo	Kano	11.901	8.071	2	
+Yang Pudoko	Yorro	Taraba	8.941	11.492	2	
+Yangora	Bindawa	Katsina	12.812	7.938	2	
+Yangoji	Kwali	FCT Abuja	8.778	6.993	2	
+Yango	Talata Mafara	Zamfara	12.285	6.100	2	
+Yangiri	Borgu	Niger	9.871	4.489	2	Yangba
+Yangi	Surulere	Oyo	8.193	4.326	2	
+Yangedda	Lavun	Niger	9.580	5.614	2	
+Yange	Gboko	Benue	7.472	8.708	2	
+Yange	Gboko	Benue	7.444	8.720	2	
+Yange	Gboko	Benue	7.435	8.793	2	
+Yange	Ushongo	Benue	7.137	8.875	2	
+Yange	Ushongo	Benue	7.085	8.976	2	
+Yan Gauta	Bakori	Katsina	11.608	7.502	2	
+Yangamaku	Jama'Are	Bauchi	11.665	9.900	2	
+Yangal	Zangon Kataf	Kaduna	9.760	8.124	2	
+Yangafe	Gwaram	Jigawa	11.118	9.976	2	
+Ungwar Bisa	Larmurde	Adamawa	9.429	11.606	2	Yanga
+Yanga	Lafia	Nasarawa	8.933	8.983	2	
+Yan Dutse	Ringim	Jigawa	12.194	9.240	2	
+Yan Duna	Miga	Jigawa	12.168	9.680	2	
+Yandev	Gboko	Benue	7.363	9.042	2	
+Yande	Konshisha	Benue	7.154	8.684	2	
+Yande	Konshisha	Benue	7.024	8.785	2	
+Yande	Kwande	Benue	6.907	9.608	2	
+Yan Daura	Kafur	Katsina	11.491	7.578	2	Yan Durai
+Yan Dammo	Sule Tankakar	Jigawa	12.702	9.148	2	
+Yanda Kulus	Damban	Bauchi	11.467	10.750	2	
+Yan Daki	Kaita	Katsina	13.059	7.697	2	
+Yandake	Gabasawa	Kano	12.242	8.829	2	
+Yanchibi	Tsanyawa	Kano	12.237	7.895	2	Yanehibi
+Yancheri	Chibok	Borno	10.804	12.725	2	
+Yanbi-Oke	Atiba	Oyo	8.033	3.856	2	Yanbi Oke
+Yanbi	Atiba	Oyo	8.038	3.892	2	
+Yanagho	Warri North	Delta	5.761	5.085	2	Inyanagu|Orere
+Yamusa	Ussa	Taraba	6.905	9.911	2	
+Yamtar	Gombi	Adamawa	10.207	12.343	2	
+Yamtage	Gwoza	Borno	11.107	13.509	2	Yamtaji
+Yamsala	Biu	Borno	10.746	12.092	2	
+Yamsa Achilo	Ussa	Taraba	7.051	10.042	2	
+Yamrat	Bauchi	Bauchi	10.112	9.826	2	
+Yampina	Bali	Taraba	8.456	11.154	2	
+Yammama	Malumfashi	Katsina	11.880	7.658	2	
+Yamma	Gabasawa	Kano	12.255	8.781	2	
+Dogorum	Gujba	Yobe	11.277	11.824	2	Yamma
+Yamintoro	Moro	Kwara	8.722	4.303	2	
+Yamini	Shendam	Plateau	8.523	9.661	2	
+Yamil	Dutsi	Katsina	12.886	8.106	2	
+Yamesa	Takum	Taraba	7.327	10.148	2	
+Yamere	Ibi	Taraba	8.339	9.749	2	
+Yamdugu	Nguru	Yobe	12.861	10.555	2	
+Yamari	Biu	Borno	10.698	12.154	2	
+Yamai	Damban	Bauchi	11.565	10.647	2	
+Yamagadu	Chibok	Borno	10.792	12.723	2	
+Yamadela	Tambuwal	Sokoto	12.349	4.782	2	
+Yam	Kanam	Plateau	9.750	10.067	2	
+Yalwa ta Arewa	Tudun Wada	Kano	11.345	8.431	2	
+Yalwar Tukur	Buji	Jigawa	11.540	9.769	2	Tukur
+Yalwa Bariki	Biu	Borno	10.599	12.217	2	
+Yalwa	Rimin Gado	Kano	11.947	8.311	2	Yalwa (1)
+Yalwa	Kiyawa	Jigawa	11.899	9.787	2	
+Yalwa	Kiyawa	Jigawa	11.776	9.578	2	
+Yalwa	Katagum	Bauchi	11.491	10.434	2	
+Yalwa	Misau	Bauchi	11.467	10.683	2	
+Yalwa	Tudun Wada	Kano	11.307	8.695	2	Yalwa (3)
+Yalwa	Igabi	Kaduna	10.883	7.333	2	
+Yalwa	Doguwa	Kano	10.809	8.727	2	
+Yalwa	Hawul	Borno	10.505	12.273	2	
+Yalum	Jada	Adamawa	8.843	12.717	2	
+Yalo	Kaugama	Jigawa	12.345	9.633	2	
+Yalo	Hawul	Borno	10.342	12.212	2	
+Yalo	Alkaleri	Bauchi	9.740	10.814	2	Yolo
+Yalo	Konshisha	Benue	7.038	8.784	2	
+Yalkum	Kurmi	Taraba	7.215	10.638	2	
+Yalen	Buruku	Benue	7.573	8.902	2	
+Yale Garu	Bama	Borno	11.707	13.709	2	Yale
+Yalawa	Machina	Yobe	12.959	9.937	2	
+Yalake	Ganye	Adamawa	8.422	12.098	2	
+Yakundi	Lavun	Niger	9.333	5.483	2	
+Yakubu	Atisbo	Oyo	8.334	3.404	2	
+Yakuba	Ngaski	Kebbi	10.879	4.993	2	
+Yakoyo	Ori Ire	Oyo	8.328	4.351	2	
+Yakoyo	Surulere	Oyo	8.071	4.511	2	
+Yakoyo	Ife North	Osun	7.528	4.451	2	
+Yakoko	Zing	Taraba	8.914	11.712	2	
+Yako	Shiroro	Niger	10.017	6.750	2	
+Yakka	Gudu	Sokoto	13.338	4.368	2	
+Yakila	Rafi	Niger	9.925	6.134	2	Yakita
+Yakid	Irele	Ondo	6.516	5.150	2	
+Yakeru	Baruten	Kwara	9.016	3.136	2	
+Yakawada	Giwa	Kaduna	11.267	7.392	2	
+Yakase	Jama'Are	Bauchi	11.610	9.921	2	
+Yakassa	Ingawa	Katsina	12.617	8.195	2	
+Yakasawa	Ringim	Jigawa	12.108	9.171	2	
+Yakasai	Soba	Kaduna	11.047	7.849	2	
+Yakanari	Yabo	Sokoto	12.834	4.828	2	Yakunari
+Yakaji	Danja	Katsina	11.330	7.621	2	
+Yaka	Buji	Jigawa	11.712	9.744	2	
+Yaji	Ganye	Adamawa	8.428	12.213	2	
+Yaji	Gboko	Benue	7.364	8.743	2	
+Yaji	Ushongo	Benue	7.093	8.881	2	
+Yaja	Lau	Taraba	9.088	11.490	2	
+Yaiko	Markurdi	Benue	7.677	8.570	2	
+Yaidna	Tafa	Niger	9.335	7.319	2	
+Yagwola	Biu	Borno	10.776	12.224	2	
+Yagwaram	Darazo	Bauchi	10.955	10.440	2	
+Yaguru	Tafa	Niger	9.261	7.232	2	
+Yagebari	Kaga	Borno	11.697	12.294	2	
+Yagawel	Tambuwal	Sokoto	12.360	4.726	2	
+Yaga	Ganjuwa	Bauchi	10.540	10.142	2	
+Yaga	Konshisha	Benue	7.405	8.603	2	
+Yae	Khana	Rivers	4.755	7.475	2	
+Yadna	Munya	Niger	10.000	6.883	2	
+Yadim	Fufore	Adamawa	8.972	12.403	2	
+Yade	Gabasawa	Kano	12.295	8.817	2	Yadi
+Yadel	Fufore	Adamawa	8.986	12.361	2	
+Yadasi	Fufore	Adamawa	8.929	12.421	2	Yadas
+Yadan	Paikoro	Niger	9.458	6.569	2	
+Yadakwari	Garum Mallam	Kano	11.697	8.410	2	
+Yada Kunya	Ungongo	Kano	12.083	8.633	2	
+Yadai	Zangon Kataf	Kaduna	10.019	8.261	2	
+Yadafa	Mubi North	Adamawa	10.201	13.197	2	
+Yachiga	Kwande	Benue	6.969	9.607	2	
+Yache	Konshisha	Benue	7.137	8.684	2	
+Yabri	Jada	Adamawa	8.653	12.608	2	
+Yabo	Kuje	FCT Abuja	8.630	7.163	2	
+Yabatagi	Gbako	Niger	9.535	6.051	2	
+Yabatagi	Gbako	Niger	9.314	6.035	2	
+Yabara	Fufore	Adamawa	8.875	12.544	2	
+Yabal	Gulani	Yobe	11.026	11.739	2	
+Yabada	Shongom	Gombe	9.634	11.078	2	
+Yaba	Malumfashi	Katsina	11.813	7.562	2	
+Yaba	Katagum	Bauchi	11.775	10.094	2	
+Yaba	Abaji	FCT Abuja	8.682	6.796	2	
+Yaba	Shomolu	Lagos	6.514	3.374	2	
+Yaavul	Konshisha	Benue	7.096	8.657	2	
+Yaan	Gwer East	Benue	7.388	8.562	2	
+Yaakwan	Gboko	Benue	7.243	8.813	2	
+Yaakwan	Ushongo	Benue	7.144	8.994	2	
+Yaakuu	Konshisha	Benue	7.234	8.591	2	
+Wuro Yapi	Fufore	Adamawa	8.975	12.382	2	
+Wuro Yanka	Yola North	Adamawa	9.291	12.229	2	
+Wuro Yaluk	Fufore	Adamawa	8.971	12.386	2	
+Wuro Yakubu	Mayo-Belwa	Adamawa	8.765	11.854	2	
+Wuro Yako	Mayo-Belwa	Adamawa	8.780	11.951	2	
+Wuro Yafaki	Mayo-Belwa	Adamawa	8.954	11.917	2	
+Wuro Yabbe	Kirfi	Bauchi	10.404	10.775	2	
+Wakir Yamma	Askira-Uba	Borno	10.579	12.992	2	
+Ungwan Yaro	Malumfashi	Katsina	11.757	7.625	2	
+Ungwan Yaro	Soba	Kaduna	11.149	7.997	2	
+Ungwan Yari	Bakori	Katsina	11.557	7.527	2	
+Ungwan Yanoko	Rogo	Kano	11.454	7.923	2	Yanoko
+Ungwan Yakubu	Bebeji	Kano	11.348	8.313	2	Yakubu
+Katanza	Akwanga	Nasarawa	9.064	8.220	2	Unguwar Yamusa|Ungwan Yamusa|Yamusa
+Unguwar Yaiyaro	Funakaye	Gombe	10.932	11.361	2	
+Ungkwan Yawa	Rafi	Niger	10.417	6.317	2	
+Tungan-Yauri	Agwara	Niger	10.678	4.596	2	
+Tonga Yashi	Bali	Taraba	8.550	11.678	2	
+Tagimba	Gudu	Sokoto	13.708	4.600	2	El Tagimba|Yatagimba|Yatamgimba
+Sindigawo Jauro Yahaya	Mayo-Belwa	Adamawa	9.181	12.050	2	
+Shekeuru-Yayi	Fufore	Adamawa	9.449	12.958	2	Shekeuru Yayi
+Sarkin Yanma	Jada	Adamawa	8.754	12.179	2	
+Godobe	Karim Lamido	Taraba	9.206	10.784	2	Sabuwar Yamma|Yamma
+Rugar Yantu	Bodinga	Sokoto	12.982	5.135	2	Rugan Yantu|Ruggar Yantau
+Old Yanke	Kachia	Kaduna	9.547	7.244	2	
+Olaho	Gwadabawa	Sokoto	13.387	5.209	2	Yalao
+Nyasikasi	Teungo	Adamawa	7.857	11.632	2	Yashakashi
+Mallam Yaro	Bali	Taraba	8.123	10.677	2	
+Mala Yagari	Nganzai	Borno	12.436	13.252	2	
+Mai Yarda	Jada	Adamawa	8.865	12.731	2	
+Leho Yahi-Chiroma	Askira-Uba	Borno	10.663	12.880	2	
+Leho Mbulla-Ufa Yamma	Askira-Uba	Borno	10.692	12.820	2	
+Leho Bulama Yaro	Askira-Uba	Borno	10.679	12.771	2	
+Kpambo Yashe	Ussa	Taraba	7.012	10.013	2	
+Kashi Yawo	Jada	Adamawa	8.669	12.145	2	
+Kashi Yawo	Jada	Adamawa	8.637	12.082	2	
+Garba Yashe	Karim Lamido	Taraba	9.340	11.139	2	Kan Salla
+Yammia	Yusufari	Yobe	13.009	10.978	2	Jawa
+Jauro Yahaya	Mayo-Belwa	Adamawa	8.780	11.927	2	
+Jauro Adamu Yampina	Bali	Taraba	8.461	11.147	2	
+Iyale	Dekina	Kogi	7.635	7.317	2	Ayale|Yari
+Ishangev Ya	Kwande	Benue	6.798	9.199	2	
+Gwari-Yamma	Toto	Nasarawa	8.452	7.123	2	Gwaragwada|Gwargwada
+Gidan Yausa	Kurmi	Taraba	7.328	10.457	2	
+Gidan Yango	Lafia	Nasarawa	8.549	8.744	2	
+Gidan Yange	Birnin Kebbi	Kebbi	12.525	4.401	2	
+Guidan Yakubu	Bungudu	Zamfara	12.170	6.532	2	Gidan Yakubu
+Gidana-Yanmu	Kachia	Kaduna	9.872	7.839	2	
+Garin Yaro	Bali	Taraba	8.588	11.342	2	
+Garin Mallam Yaya	Ardo-Kola	Taraba	8.732	11.370	2	
+Farin Yashe	Jos East	Plateau	9.873	8.994	2	
+Fadiya Yadsanu	Zangon Kataf	Kaduna	9.815	8.220	2	
+Ekopapo Yagi	Pategi	Kwara	8.742	5.984	2	Ekopapoyagi
+Donga Yawa	Jada	Adamawa	8.807	12.154	2	
+Dogon Yaro	Bassa	Plateau	10.233	8.786	2	
+Dan Yashi	Mai'Adua	Katsina	13.113	8.194	2	
+Yan Tabaruma	Baure	Katsina	12.741	8.732	2	Dan Kuliya
+Chanchan Bulguman Yamma	Askira-Uba	Borno	10.668	12.897	2	
+Bin Yauri	Ngaski	Kebbi	10.782	4.811	2	
+Barakin Yampita	Jos North	Plateau	9.966	8.849	2	
+Apata-Yakuba	Ilorin East	Kwara	8.548	4.655	2	Apata Yakuba
+Angwan Yara-Mada	Doma	Nasarawa	8.285	8.476	2	Angwan Yara Mada|AngwanYara-Mada|AngwanYaraMada
+Anguwan Dan Yaya	Giwa	Kaduna	10.967	7.017	2	
+Aba Yawu	Ilorin West	Kwara	8.409	4.584	2	
+Tunga Yalwa	Tafa	Niger	9.229	7.213	2	
+Yanyan	Municipal Area Council	FCT Abuja	9.025	7.575	2	
+Ungwan Yamu	Kumbotso	Kano	11.898	8.434	2	
+Geza Yangia	Dawakin Tofa	Kano	12.207	8.513	2	
+Yakasai	Kura	Kano	11.794	8.483	2	
+Sabon Gari Yanzaki	Minjibir	Kano	12.181	8.639	2	
+Yan Dutse	Bichi	Kano	12.242	8.287	2	
+Yankaba	Nassarawa	Kano	12.010	8.580	2	
+Yaratu	Dawakin Tofa	Kano	12.108	8.293	2	
+Yabiye	Oluyole	Oyo	7.350	3.846	2	
+Guva Yashi	Hong	Adamawa	10.339	13.114	2	
+Yau Mawango	Abadam	Borno	13.506	13.158	2	
+Yawa	Abadam	Borno	13.651	13.281	2	
+Yakanta	Song	Adamawa	10.010	12.477	2	
+Wuro Momo Yaro	Shani	Borno	10.036	12.040	2	
+Yang Karemi	Shelleng	Adamawa	10.100	12.228	2	
+Yang Karemi	Gombi	Adamawa	10.099	12.264	2	
+Yamhora	Gombi	Adamawa	10.169	12.337	2	
+Yantira	Hawul	Borno	10.331	12.164	2	
+Yarbamu	Bauchi	Bauchi	10.132	9.811	2	
+Yamanange	Gwer West	Benue	7.630	8.235	2	
+Yagba	Gwer West	Benue	7.755	8.204	2	
+Yantuba Fulani	Zango	Katsina	12.880	8.587	2	
+Yan Tuba	Babura	Jigawa	12.651	8.757	2	
+Yantuba Gidan Gide	Babura	Jigawa	12.538	8.825	2	
+Yadda Girma	Babura	Jigawa	12.535	8.845	2	
+Sabon Gari Yajile	Kazaure	Jigawa	12.705	8.681	2	
+Ungua Yarima	Kazaure	Jigawa	12.658	8.653	2	
+Yadia Fako	Kazaure	Jigawa	12.649	8.622	2	
+Yawa	Makoda	Kano	12.546	8.542	2	
+Kafa Yau	Tsanyawa	Kano	12.284	8.060	2	
+Yan Gwarzo	Bichi	Kano	12.275	8.157	2	
+Yan-Bundu	Bichi	Kano	12.268	8.288	2	
+Ungwan Yamma	Bagwai	Kano	12.105	8.029	2	
+Dan Yaye	Babura	Jigawa	12.435	8.762	2	
+Jami’s Dandal Yandemo	Babura	Jigawa	12.410	8.775	2	
+Yautan Kudu	Gabasawa	Kano	12.198	8.760	2	Yautar Kudu
+Yaranchi	Gabasawa	Kano	12.168	8.756	2	
+Yankinta	Ajingi	Kano	12.018	8.970	2	
+Yanfari	Dutsi	Katsina	12.944	8.069	2	
+Yakawada	Sandamu	Katsina	12.899	8.413	2	
+Yada Dabo	Sandamu	Katsina	12.905	8.407	2	
+Yandoma	Ingawa	Katsina	12.742	8.074	2	
+Yakurutu	Ingawa	Katsina	12.638	8.021	2	
+Yanabu	Rimi	Katsina	12.878	7.736	2	
+Yanali	Batagarawa	Katsina	12.818	7.562	2	
+Yana	Rimi	Katsina	12.757	7.648	2	
+Yankaura	Ingawa	Katsina	12.660	7.969	2	
+Yaganji	Batagarawa	Katsina	12.729	7.534	2	
+Yakasai	Kurfi	Katsina	12.690	7.514	2	
+Yanuku	Charanchi	Katsina	12.686	7.623	2	
+Dan Yadawa	Dutsin Ma	Katsina	12.532	7.561	2	
+Yan Yabi	Dutsin Ma	Katsina	12.536	7.524	2	
+Ungwan Yangwanki	Safana	Katsina	12.449	7.326	2	
+Yan Kamaye	Tsanyawa	Kano	12.328	7.931	2	
+Gidan Yameyao	Rafi	Niger	10.392	6.064	2	
+Yaka Numan Hill	Gudu	Sokoto	13.475	4.238	2	
+Yarume Rafi	Wamako	Sokoto	13.008	4.985	2	
+Yarume Roga	Wamako	Sokoto	13.011	4.992	2	
+Gidan Yafara	Sabon Birni	Sokoto	13.579	5.927	2	
+Yardole	Goronyo	Sokoto	13.481	5.620	2	
+Yargada	Gwadabawa	Sokoto	13.258	5.325	2	
+Yawurno	Wurno	Sokoto	13.287	5.410	2	
+Yauwarawa	Wamako	Sokoto	13.158	5.184	2	
+Tungan Yami	Agwara	Niger	10.784	4.699	2	
+Yawurno	Wurno	Sokoto	13.290	5.418	2	
+Dan Yaji	Kankara	Katsina	11.888	7.333	2	
+Yargoje	Kankara	Katsina	11.869	7.476	2	
+Kwarsa Yariga	Malumfashi	Katsina	11.817	7.608	2	
+Yalwa	Karaye	Kano	11.749	7.911	2	
+Dutsen Yanki	Kafur	Katsina	11.707	7.789	2	
+Yaroro	Bakori	Katsina	11.679	7.340	2	
+Yankwani	Bakori	Katsina	11.580	7.368	2	
+Dan Yama	Sabuwa	Katsina	11.553	7.099	2	
+Kauran Yankwani	Bakori	Katsina	11.562	7.392	2	
+Yalwa	Rogo	Kano	11.489	7.822	2	
+Yankinda	Sabuwa	Katsina	11.511	7.048	2	
+Ungwan Yalwa	Kudan	Kaduna	11.284	7.779	2	
+Yakawada	Giwa	Kaduna	11.279	7.418	2	
+Ungwan Yaro	Giwa	Kaduna	11.151	7.471	2	
+Yandala	Giwa	Kaduna	11.141	7.502	2	
+Yarjega	Maiyama	Kebbi	11.715	4.420	2	
+Yar Mahuta	Fakai	Kebbi	11.470	4.992	2	
+Yahaya	Shanga	Kebbi	11.324	4.525	2	
+Yarbarhe	Shanga	Kebbi	11.252	4.535	2	
+Yakana	Rijau	Niger	11.280	4.837	2	
+Yarda	Akko	Gombe	10.091	10.976	2	
+Yadia Rugamiya	Silame	Sokoto	12.973	4.878	2	
+Yarwel	Kalgo	Kebbi	12.229	4.030	2	
+Yaa	Eleme	Rivers	4.736	7.153	2	
+Yadau	Gwarzo	Kano	11.921	8.082	2	
+Yan Bashi	Gwarzo	Kano	11.914	8.109	2	
+Yan Medi	Karaye	Kano	11.820	8.079	2	
+Yakum	Madobi	Kano	11.731	8.265	2	
+Dan Yakubu	Bebeji	Kano	11.703	8.254	2	
+Yanaba	Garum Mallam	Kano	11.654	8.373	2	
+Yandatsa	Bebeji	Kano	11.628	8.339	2	
+Gidan Mallm Yako	Ikara	Kaduna	11.393	8.118	2	
+Yar Maraya	Tudun Wada	Kano	11.265	8.349	2	
+K. Yar Maraya	Ajingi	Kano	11.947	8.982	2	
+Yamma	Sumaila	Kano	11.452	8.928	2	
+Umuoga Yam	Ndokwa East	Delta	5.887	6.606	2	
+Zamara-Yambiri	Yenegoa	Bayelsa	5.110	6.414	2	
+Ahoada West	Ahoada West	Rivers	5.086	6.471	2	Agbegbe Ijoba Ibile Iwoorun Ahoada|Ahoada Oeste|Ahoada Ouest|Ahoada ta Yamma|Se Ahoada|ghrb ahwada
+Anambra West	Anambra West	Anambra	6.359	6.750	2	Agbegbe Ijoba Ibile Iwoorun Anambra|Anambra Ouest|Anambra ta Yamma|Anambra-Oeste|Se Anambra|anambra ghrby
+Ethiope West	Ethiope West	Delta	5.920	5.729	2	Ethiope Ouest|Ethiope ta Yamma|Se Ethiope|merku ettiyoppiyan
+Ndokwa West	Ndokwa West	Delta	5.773	6.392	2	Ndokwa Ouest|Ndokwa ta Yamma|Se Ndokwa
+Oru West	Oru West	Imo	5.742	6.911	2	Agbegbe Ijoba Ibile Iwoorun Oru|Oru Oeste|Oru Ouest|Oru ta Yamma|Se Oru
+Owerri West	Owerri West	Imo	5.432	6.980	2	Agbegbe Ijoba Ibile Iwoorun Owerri|Owerri Ouest|Owerri ta Yamma|Se Owerri|owerri west|xioueri
+Yagba East	Yagba East	Kogi	8.164	5.761	2	Tang Yagba|Yagba Est|Yagba Leste|Yagba fuunaange|Yagba ta Gabas
+Yagba West	Yagba West	Kogi	8.296	5.527	2	Se Yagba|Yagba Oeste|Yagba Ouest|Yagba ta Yamma
+Saki West	Saki West	Oyo	8.570	3.147	2	Iwooorun Saki|Saki Ouest|Saki ta Yamma|Se Saki
+Ukwa West	Ukwa West	Abia	4.954	7.239	2	Agbegbe Ijoba Ibile Iwoorun Ukwa|Se Ukwa|Ukwa Ouest|Ukwa ta Yamma|Zakhidna Ukva
+Ovia South-West	Ovia South-West	Edo	6.396	5.272	2	Ovia South West|Ovia Sud Ouest|Ovia ta Kudu maso Yamma|Se-lam Ovia
+Yabo	Yabo	Sokoto	12.789	4.950	2	
+Nkanu West	Nkanu West	Enugu	6.311	7.509	2	Agbegbe Ijoba Ibile Iwoorun Nkanu|Nkanu Oeste|Nkanu ta Yamma|Se Nkanu
+Anka	Anka	Zamfara	11.961	5.987	2	Agbegbe Ijoba Ibile Anka|Anka Local Government Area|an ka (nai ji li ya)|an ka (ni ri li ya)
+Yankwashi	Yankwashi	Jigawa	12.770	8.537	2	Agbegbe Ijoba Ibile Yankwashi|Yankwashi Local Government Area
+Ekiti West	Ekiti West	Ekiti	7.687	5.028	2	Agbegbe Ijoba Ibile Iwoorun Ekiti|Ekiti Ouest|Ekiti West Local Government Area|Ekiti ta Yamma|Se Ekiti
+Ondo West	Ondo West	Ondo	7.016	4.746	2	Ondo Ouest|Ondo West Local Government Area|Ondo ta Yamma|Se Ondo
+Esan West	Esan West	Edo	6.662	6.129	2	Esan Ouest|Esan West Local Government Area|Esan ta Yamma|Se Esan
+Ogbia	Ogbia	Bayelsa	4.774	6.327	2	Agbegbe Ijoba Ibile Ogbia|Ogbia Local Government Area|ke bi ya
+Yala	Yala	Cross River	6.654	8.549	2	Agbegbe Ijoba Ibile Yala|Yala Local Government Area|yala  nayjyrya
+Yakurr	Yakurr	Cross River	5.806	8.175	2	Yakurr Local Government Area
+Yamaltu/Deba	Yamaltu/Deba	Gombe	10.238	11.442	2	Agbegbe Ijoba Ibile Yamaltu/Deba|Jamaltu/Deba|Yamaltu/Deba Local Government Area|ya ma er tu/de ba|yamaltw/dba|yamarutou
+Mow Yard	Gwoza	Borno	11.119	13.697	2	
+Yabali	Michika	Adamawa	10.698	13.356	2	
+Yau	Hong	Adamawa	10.141	13.036	2	
+Yaguda	Mubi North	Adamawa	10.278	13.254	2	
+Wawugo Yawa	Mubi North	Adamawa	10.279	13.312	2	
+Mai Yanga	Fika	Yobe	11.174	11.232	2	
+Yayaro	Funakaye	Gombe	11.020	11.413	2	
+Yadi Kukuwa	Gulani	Yobe	11.150	11.882	2	
+Yange Ayila	Gwer East	Benue	7.353	8.330	2	
+Yanr	Gwer East	Benue	7.290	8.468	2	
+Yaguji	Gwer East	Benue	7.261	8.438	2	
+Yahemba	Gwer East	Benue	7.171	8.362	2	
+Garin Yadudu	Gassol	Taraba	8.471	10.691	2	
+Wurubo Yakushamaki	Gassol	Taraba	8.211	10.590	2	
+Yawi	Biu	Borno	10.593	12.226	2	
+Ayi Yasku	Magumeri	Borno	11.959	12.843	2	
+Unguwar Ya	Birnin Kudu	Jigawa	11.384	9.268	2	
+Yalwan Damai	Birnin Kudu	Jigawa	11.443	9.317	2	
+Yayarin Tukur	Buji	Jigawa	11.544	9.791	2	
+Yankoli	Hadejia	Jigawa	12.449	10.066	2	
+Yandutse	Ringim	Jigawa	12.165	9.204	2	
+Yallami	Bichi	Kano	12.315	8.357	2	
+Yautar Arewa	Gabasawa	Kano	12.243	8.753	2	
+Yardaje	Zango	Katsina	13.006	8.590	2	
+Yalwa	Kiru	Kano	11.471	8.177	2	
+Yalwa	Rano	Kano	11.402	8.541	2	
+Karofin Yashi	Rimin Gado	Kano	11.899	8.356	2	
+Yalwan Danziyal	Rimin Gado	Kano	11.942	8.323	2	
+Yada Kunya	Ungongo	Kano	12.079	8.606	2	
+Yau-Yau Malamawa	Batsari	Katsina	12.978	7.316	2	
+Yamel A	Dutsi	Katsina	12.881	8.117	2	
+Yar Malamai	Faskari	Katsina	11.857	7.213	2	
+Yangayya	Jibia	Katsina	13.038	7.350	2	
+Yargoje	Kankara	Katsina	11.873	7.446	2	
+Yartsamiya	Kankara	Katsina	12.099	7.278	2	
+Yashe A	Kusada	Katsina	12.374	7.934	2	
+Yashe B	Kankia	Katsina	12.363	7.864	2	
+Yaba	Malumfashi	Katsina	11.784	7.509	2	
+Birnin Yauri	Ngaski	Kebbi	10.772	4.924	2	
+Yar Besse	Shanga	Kebbi	11.269	4.597	2	
+Soron Yamma	Binji	Sokoto	13.158	4.646	2	
+Yanfako	Isa	Sokoto	13.258	6.666	2	
+Yarstakuwa	Rabah	Sokoto	12.849	5.883	2	
+Yabo A	Yabo	Sokoto	12.699	5.023	2	
+Yanbuki-Dutsi	Zurmi	Zamfara	12.842	6.626	2	
+Yandoton Daji	Tsafe	Zamfara	12.039	6.858	2	
+Yanware	Tsafe	Zamfara	11.991	7.037	2	
+Yakawada	Giwa	Kaduna	11.200	7.360	2	
+Yankuzo B	Tsafe	Zamfara	12.019	7.124	2	
+Yamrat	Bauchi	Bauchi	10.067	9.861	2	
+Yalo 1	Alkaleri	Bauchi	9.750	10.835	2	
+Yali	Ganjuwa	Bauchi	10.474	9.905	2	
+Kudu Yamma	Ningi	Bauchi	10.939	9.344	2	
+Yautare	Darazo	Bauchi	10.905	10.625	2	
+Yayu	Katagum	Bauchi	11.559	10.572	2	
+Yanda	Damban	Bauchi	11.507	10.734	2	
+Yauri	Shanga	Kebbi	11.021	4.515	2	Yauri
+Yaga	Gwer West	Benue	7.733	8.125	2	
+Yaji	Gwer West	Benue	7.674	8.170	2	
+Yaji	Gwer East	Benue	7.524	8.361	2	
+Yado	Guma	Benue	7.590	9.010	2	
+Yakur	Buruku	Benue	7.553	9.081	2	
+Yaga	Buruku	Benue	7.534	9.093	2	
+Yaji	Logo	Benue	7.612	9.271	2	
+Yaayom	Logo	Benue	7.543	9.405	2	
+Yanor	Wukari	Taraba	7.821	9.908	2	
+Yanar	Wukari	Taraba	7.801	9.853	2	
+Yaka	Ukum	Benue	7.682	9.533	2	
+Yasa	Ukum	Benue	7.626	9.636	2	
+Yavshi	Ukum	Benue	7.588	9.607	2	
+Yalhundu	Ukum	Benue	7.584	9.613	2	
+Yaya	Ukum	Benue	7.608	9.696	2	
+Yange	Buruku	Benue	7.478	9.055	2	
+Yandev	Gboko	Benue	7.447	9.028	2	
+Yaasa	Gboko	Benue	7.423	9.036	2	
+Yawe	Gboko	Benue	7.395	9.029	2	
+Yaakwan	Gboko	Benue	7.388	9.034	2	
+Yagi	Gboko	Benue	7.375	9.034	2	
+Ya	Gboko	Benue	7.285	9.066	2	
+Yaneyer	Gboko	Benue	7.256	9.079	2	Yoneyer
+Yange	Buruku	Benue	7.445	9.109	2	
+Yaku	Gboko	Benue	7.324	9.144	2	
+Yarkwan	Buruku	Benue	7.492	9.231	2	
+Yakyuu	Katsina-Ala	Benue	7.267	9.413	2	
+Yachivin	Gboko	Benue	7.233	9.079	2	
+Yankyaa	Gboko	Benue	7.219	9.072	2	
+Yandue	Ushongo	Benue	7.091	9.074	2	
+Yaor	Vandeikya	Benue	7.029	9.063	2	
+Yamto	Ushongo	Benue	7.041	9.083	2	
+Yanduwe	Buruku	Benue	7.175	9.101	2	
+Yaangege	Buruku	Benue	7.124	9.125	2	
+Yanjo	Ushongo	Benue	7.071	9.143	2	
+Yambe	Buruku	Benue	7.199	9.232	2	
+Yanku	Katsina-Ala	Benue	7.182	9.309	2	
+Yaasa	Ushongo	Benue	7.172	9.302	2	
+Yange	Katsina-Ala	Benue	7.156	9.418	2	
+Yar	Katsina-Ala	Benue	7.133	9.392	2	
+Yange	Gboko	Benue	7.415	8.628	2	
+Yahim	Gboko	Benue	7.389	8.764	2	
+Yankyaa	Gboko	Benue	7.356	8.978	2	
+Yanmon	Gboko	Benue	7.359	8.908	2	
+Yangayer	Gboko	Benue	7.368	8.894	2	
+Yar	Gboko	Benue	7.342	8.974	2	
+Yakwagh	Gboko	Benue	7.269	8.991	2	
+Yawe	Gboko	Benue	7.291	8.762	2	
+Yask	Gubio	Borno	12.411	12.489	2	
+Yanmigi	Mokwa	Niger	9.487	5.900	2	
+Yagbinti	Edati	Niger	9.126	5.758	2	
+Yabatagi	Gbako	Niger	9.066	5.853	2	
+Yankutagi	Lavun	Niger	9.143	5.748	2	
+Gidan Yarbawa	Gbako	Niger	9.345	6.048	2	
+Yazhigi	Gbako	Niger	9.253	6.056	2	
+Yajigi	Gbako	Niger	9.240	6.057	2	
+Yagbachi	Agaie	Niger	9.032	6.387	2	
+Egbanti-Yanzangi	Katcha	Niger	9.020	6.125	2	
+Old Yakila	Rafi	Niger	9.942	6.150	2	
+Gidan Yarima Sama	Shiroro	Niger	9.881	6.504	2	
+Yarima	Shiroro	Niger	9.813	6.581	2	
+Yanuako	Shiroro	Niger	9.756	6.618	2	
+Gidan Yaro	Shiroro	Niger	9.935	6.810	2	
+Yatayi	Bosso	Niger	9.649	6.506	2	
+Yatapi	Paikoro	Niger	9.519	6.559	2	
+Wuro Yadam	Mayo-Belwa	Adamawa	8.932	12.162	2	
+Yaya Lawal	Mayo-Belwa	Adamawa	8.917	12.165	2	
+Wuro Yaya	Jada	Adamawa	8.828	12.193	2	
+Yawa	Jada	Adamawa	8.840	12.234	2	
+Wuro Yaya	Jada	Adamawa	8.804	12.217	2	
+Wuro Yayajika	Jada	Adamawa	8.774	12.223	2	
+Wuro Yahaya	Jada	Adamawa	8.739	12.205	2	
+Yalake	Jada	Adamawa	8.643	12.256	2	
+Yatari	Fufore	Adamawa	8.834	12.346	2	
+Yabe	Jada	Adamawa	8.699	12.363	2	
+Wuro Yarga	Jada	Adamawa	8.732	12.334	2	
+Yaya	Jada	Adamawa	8.676	12.343	2	
+Bello Yagos	Fufore	Adamawa	8.957	12.370	2	
+Yaul	Fufore	Adamawa	8.964	12.419	2	
+Yasuro	Fufore	Adamawa	8.888	12.391	2	
+Jauro Yahaya	Fufore	Adamawa	8.832	12.399	2	
+Mushe Yaskwa	Karu	Nasarawa	9.256	7.821	2	
+Angwan Yari	Karu	Nasarawa	9.230	7.796	2	
+Gidan Dogon Yaro	Kagarko	Kaduna	9.609	7.687	2	
+Kodin Yaka	Yorro	Taraba	8.845	11.514	2	
+Yanyo	Zing	Taraba	8.981	11.815	2	
+Yam	Mayo-Belwa	Adamawa	8.910	11.903	2	
+Bura Yamsi	Mayo-Belwa	Adamawa	8.843	11.895	2	
+Jauro Yaro	Ardo-Kola	Taraba	8.867	11.162	2	
+Yawai	Jalingo	Taraba	8.971	11.246	2	
+Yanzi	Ardo-Kola	Taraba	8.933	11.249	2	
+Yapai	Ardo-Kola	Taraba	8.931	11.231	2	
+Yazan	Jalingo	Taraba	8.969	11.292	2	
+Yali	Jalingo	Taraba	8.915	11.349	2	
+Yali	Jalingo	Taraba	8.869	11.357	2	
+Yali	Ardo-Kola	Taraba	8.850	11.310	2	
+Alkali Yabba	Ardo-Kola	Taraba	8.791	11.317	2	
+Yawai	Ardo-Kola	Taraba	8.760	11.361	2	
+Yasaba	Yorro	Taraba	8.968	11.370	2	
+Yandang	Jalingo	Taraba	8.881	11.367	2	
+Yanvun Ganga	Jalingo	Taraba	8.810	11.434	2	
+Yangmaimai	Yorro	Taraba	8.752	11.493	2	
+Garin Yayani Na Tsohowa	Gassol	Taraba	8.534	10.724	2	
+Yashin Garba	Karim Lamido	Taraba	8.866	10.795	2	
+Yawurde	Ardo-Kola	Taraba	8.836	10.909	2	
+Garin Kachala Yaji	Gassol	Taraba	8.655	10.809	2	
+Garin Yakubu	Gassol	Taraba	8.532	10.839	2	
+Yarja	Shendam	Plateau	8.811	9.508	2	
+Yashe	Shendam	Plateau	8.862	9.665	2	
+Yashi	Shendam	Plateau	8.863	9.707	2	
+Yak	Mikang	Plateau	8.896	9.786	2	
+Yak	Langtang North	Plateau	8.877	9.791	2	
+Yal	Wase	Plateau	8.808	9.890	2	
+Yamini	Langtang South	Plateau	8.625	9.972	2	
+Ungwan Yantai	Sanga	Kaduna	9.208	8.213	2	
+Ungwan Yara	Sanga	Kaduna	9.168	8.171	2	
+Ungwan Yaskwa	Sanga	Kaduna	9.052	8.102	2	
+Yakot	Langtang North	Plateau	9.033	9.781	2	
+Yama	Zangon Kataf	Kaduna	9.882	8.425	2	
+Fadiya-Yazanom	Zangon Kataf	Kaduna	9.823	8.202	2	
+Yabama	Sanga	Kaduna	9.260	8.586	2	
+Yayil	Qua'An Pan	Plateau	8.804	9.149	2	
+Yalda	Qua'An Pan	Plateau	8.734	9.150	2	
+Wuro Jauro Yahaya	Girei	Adamawa	9.350	12.443	2	
+Wuro Dole Yakamle	Yola South	Adamawa	9.235	12.448	2	
+Yakamle	Yola South	Adamawa	9.232	12.444	2	
+Wuro Yaungo	Mayo-Belwa	Adamawa	9.141	12.025	2	
+Yandang	Fufore	Adamawa	9.092	12.079	2	
+Wuro Yandang	Fufore	Adamawa	9.127	12.240	2	
+Sabongari Yahayaji	Girei	Adamawa	9.380	12.401	2	
+Yadini	Demsa	Adamawa	9.229	11.738	2	
+Wuro Yakoko	Yorro	Taraba	9.126	11.584	2	
+Yakoko Lawan	Yorro	Taraba	9.123	11.596	2	
+Yaboko-Area	Zing	Taraba	9.066	11.710	2	
+Jauro Yanga	Demsa	Adamawa	9.333	11.840	2	
+Yamie	Mayo-Belwa	Adamawa	9.177	11.752	2	
+Yadani	Demsa	Adamawa	9.234	11.751	2	
+Yabun	Demsa	Adamawa	9.192	11.806	2	
+Yapatali	Mayo-Belwa	Adamawa	9.130	11.783	2	
+Yanga	Mayo-Belwa	Adamawa	9.067	11.843	2	
+Yolon Garuza	Alkaleri	Bauchi	9.727	10.818	2	Yalon Garuza
+Sarkin Yaki Mala	Alkaleri	Bauchi	9.681	10.737	2	Sabon Yaki Mallam
+Yalwa	Karim Lamido	Taraba	9.588	10.843	2	Yelwa
+Garin Maliam Yabbalo	Alkaleri	Bauchi	9.826	10.926	2	
+Mallam Yaya	Alkaleri	Bauchi	9.752	10.841	2	
+Yamma	Karim Lamido	Taraba	9.436	10.801	2	
+Sarkin Yamma	Karim Lamido	Taraba	9.371	10.999	2	
+Sarkin Yamma	Karim Lamido	Taraba	9.316	10.936	2	
+Yashi	Karim Lamido	Taraba	9.353	11.103	2	
+Ungwar Yaye	Karim Lamido	Taraba	9.350	11.224	2	
+Bakan Yangla	Karim Lamido	Taraba	9.305	11.085	2	
+Yay Muri	Karim Lamido	Taraba	9.179	11.029	2	
+Ungwan Yauli	Kalgo	Kebbi	12.458	4.025	2	
+Yabawa	Bunza	Kebbi	12.142	4.115	2	
+Aba Yakubu	Atakunmosa West	Osun	7.653	4.627	2	
+Yako	Yewa North	Ogun	7.250	2.960	2	
+Yaru	Ifelodun	Kwara	8.464	4.884	2	
+Jonwurokio Yashikira	Baruten	Kwara	9.702	3.448	2	
+Yamri	Baruten	Kwara	9.583	3.249	2	
+Yakira	Baruten	Kwara	8.994	3.078	2	
+Yawuyi	Ori Ire	Oyo	8.050	4.117	2	
+Yaku	Ori Ire	Oyo	8.171	4.184	2	
+Yakoyo	Asa	Kwara	8.465	4.353	2	
+Yakoyo	Odeda	Ogun	7.210	3.573	2	
+Yanbeleku	Baruten	Kwara	9.085	3.127	2	
+Yanku	Ori Ire	Oyo	8.628	4.217	2	
+Yakoyo	Ori Ire	Oyo	8.556	4.110	2	
+Gidan Yakubu	Lafia	Nasarawa	8.688	8.687	2	Gidan Yakubu Lungu|GidanYakubu|GidanYakubuLungu
+Angwan Yara	Akwanga	Nasarawa	8.972	8.219	2	
+Yanko	Kokona	Nasarawa	8.900	8.205	2	
+Yakubu	Kokona	Nasarawa	8.843	8.199	2	
+Baba-Yaji	Oyo West	Oyo	7.865	3.838	2	
+Yakoyo	Oyo East	Oyo	7.888	4.012	2	
+Yerima Yaji	Teungo	Adamawa	8.100	11.991	2	YerimaYaji
+Yara	Song	Adamawa	9.683	12.374	2	
+Yadadi	Girei	Adamawa	9.536	12.429	2	
+Wuro Yakubu	Song	Adamawa	9.812	12.618	2	WuroYakubu
+Wuro Yahaya	Song	Adamawa	9.758	12.707	2	WuroYahaya
+Yaya	Asa	Kwara	8.395	4.548	2	
+Yawuti	Abaji	FCT Abuja	8.529	6.962	2	
+Yaki Da Jahilci	Katcha	Niger	8.954	6.211	2	YakiDaJahilci
+Yance	Kwali	FCT Abuja	8.628	7.099	2	
+Yambabu	Kwali	FCT Abuja	8.656	7.019	2	
+Yarwa	Kuje	FCT Abuja	8.764	7.374	2	
+Yanga	Kuje	FCT Abuja	8.797	7.357	2	
+Yanga	Municipal Area Council	FCT Abuja	8.835	7.407	2	
+Angwan Yakubu	Nasarawa Egon	Nasarawa	8.747	8.257	2	
+Wakili Yaso	Sardauna	Taraba	6.704	11.351	2	
+Kimbe Yamin	Sardauna	Taraba	6.787	11.428	2	
+Yambam	Sardauna	Taraba	6.643	11.248	2	
+Yarbela	Sardauna	Taraba	6.600	11.409	2	
+Ndum Yaji	Sardauna	Taraba	6.595	11.096	2	
+Yara	Sardauna	Taraba	6.691	11.437	2	
+Yaji	Sardauna	Taraba	6.619	11.429	2	
+Yana	Sardauna	Taraba	6.856	11.352	2	
+Yaji	Sardauna	Taraba	6.549	11.116	2	
+Yayu	Lagelu	Oyo	7.586	4.115	2	
+Yalumo	Lagelu	Oyo	7.516	4.029	2	
+Yamusa	Ussa	Taraba	6.863	9.855	2	
+Yatsav	Gboko	Benue	7.372	8.760	2	
+Garin Yaro	Bali	Taraba	8.539	11.405	2	
+Yanga	Numan	Adamawa	9.407	11.662	2	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.956	7.255	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.961	7.245	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.953	7.264	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.285	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.009	7.418	1	Dantata Bridge
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.972	7.362	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.309	1	
+Yakubu Gowon Crescent	Municipal Area Council	FCT Abuja	9.053	7.526	1	
+Yakubu Gowon Crescent	Municipal Area Council	FCT Abuja	9.043	7.525	1	
+Yakoyo Road	Ikeja	Lagos	6.654	3.357	1	
+Yankari National Park approach road	Alkaleri	Bauchi	10.130	10.193	1	
+Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.450	1	
+Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.076	7.413	1	
+Yahaya Road	Kaduna North	Kaduna	10.542	7.466	1	
+Yaounde Street	Kaduna North	Kaduna	10.525	7.465	1	
+Dr. Yahaya Hamza Street	Kaduna North	Kaduna	10.513	7.452	1	
+Yakubu Avenue	Kaduna North	Kaduna	10.536	7.447	1	
+Yaza Abdullahi Road	Kaduna North	Kaduna	10.581	7.462	1	
+Musa Yakubu Crescent	Kaduna North	Kaduna	10.557	7.455	1	
+James Yakubu Pam Street	Municipal Area Council	FCT Abuja	9.040	7.465	1	
+Yan Dutse Road	Nassarawa	Kano	11.988	8.543	1	
+Musa Yardua Street	Eti Osa	Lagos	6.432	3.417	1	
+Yaba Road	Lagos Mainland	Lagos	6.492	3.381	1	
+Yaru Street	Surulere	Lagos	6.508	3.340	1	
+Yakubu Street	Kosofe	Lagos	6.608	3.377	1	
+Yakubu Gowan Way	Kaduna North	Kaduna	10.521	7.426	1	
+Yahaya Crescent	Ajeromi/Ifelodun	Lagos	6.450	3.339	1	
+Yawuri Street	Municipal Area Council	FCT Abuja	9.028	7.486	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.986	7.389	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.984	7.388	1	
+Yalinga Street	Municipal Area Council	FCT Abuja	9.072	7.479	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.005	7.161	1	
+Yabuku Roundabout	Bauchi	Bauchi	10.309	9.844	1	
+Sarkin Yaki	Fagge	Kano	12.027	8.535	1	
+Yakubu Gowon Way	Jos South	Plateau	9.834	8.867	1	
+Emir Yahaya Road	Sokoto South	Sokoto	13.052	5.237	1	
+Yahaya Madaki Way	Muhammadu Dikko Stadium	Katsina	12.981	7.614	1	
+Yarhere Street	Uvwie	Delta	5.534	5.762	1	
+Yauri Road	Wamako	Sokoto	13.022	5.224	1	
+Yalwan Danzial link	Fagge	Kano	11.999	8.541	1	
+Yakubu Ahmed Avenue	Nassarawa	Kano	12.004	8.566	1	
+Ali Yamani Street	Kano Municipal	Kano	11.971	8.503	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.029	7.438	1	
+Aa Yari Road	Maru	Zamfara	12.316	6.409	1	
+Yahaya Gusail Road	Wamako	Sokoto	13.018	5.235	1	
+Yan Wanki Road	Dambatta	Kano	12.429	8.518	1	
+Garba Yagaji street	Tarauni	Kano	11.976	8.560	1	
+Yan Nana Road	Wudil	Kano	11.801	8.840	1	
+Yaya Abatan Road	Ifako/Ijaye	Lagos	6.636	3.340	1	
+Yanoko Road	Tofa	Kano	12.055	8.290	1	
+Kofar Yamma	Tofa	Kano	12.058	8.267	1	
+Yar Maraya - Ikara Road	Tudun Wada	Kano	11.276	8.303	1	
+Alh. Yahaya Lawan Close	Maiduguri	Borno	11.811	13.178	1	
+Yale Okeowo Street	Oshodi/Isolo	Lagos	6.509	3.297	1	
+Yan Daudu Road	Wudil	Kano	11.806	8.842	1	
+Kofar Yamma Close	Wudil	Kano	11.808	8.843	1	
+Yakubu Bako Close	Nassarawa	Kano	11.996	8.557	1	
+Justice Nuhu Yahaya Street	Gwale	Kano	11.980	8.469	1	
+Rabiu Yazid Street	Kano Municipal	Kano	11.976	8.533	1	
+Takai yamma road	Dambatta	Kano	12.324	8.607	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.246	8.250	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.215	8.233	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.178	8.237	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.175	8.235	1	
+Yaryasa - Jeli B Road	Tudun Wada	Kano	11.298	8.271	1	
+Yar Kasuwa Road	Tofa	Kano	12.060	8.275	1	
+Hon. Yaya Dosunmu Way	Eti Osa	Lagos	6.445	3.508	1	
+Yaryasa - Bargi Road	Tudun Wada	Kano	11.335	8.302	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.276	8.262	1	
+Yaryasa - Jeli B Road	Tudun Wada	Kano	11.328	8.299	1	
+Yaryasa - Bargi Road	Kiru	Kano	11.327	8.269	1	
+Muna Kori Bula Yalaye	Jere	Borno	11.871	13.240	1	
+Gidan YanBama	Jere	Borno	11.791	13.178	1	
+Sarkin Yaki Road	Zaria	Kaduna	11.088	7.726	1	
+Yabo Road	Sokoto North	Sokoto	13.063	5.216	1	
+Dogon Yaro Roundabout	Bauchi	Bauchi	10.302	9.808	1	
+Yawi - Kida Road	Hawul	Borno	10.570	12.237	1	
+Patrick Yakowa Way	Kaduna North	Kaduna	10.509	7.460	1	
+yarmani Batagarawa	Batagarawa	Katsina	12.902	7.620	1	
+Rd birnin Yaro	Igabi	Kaduna	10.783	7.552	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.904	10.361	1	
+Yankari National Park approach road	Alkaleri	Bauchi	10.063	10.279	1	
+Yaba Street	Alimosho	Lagos	6.582	3.275	1	
+Alhaji Yahaya Street	Oshodi/Isolo	Lagos	6.522	3.334	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.989	7.187	1	
+Gidan YanManguno	Jere	Borno	11.806	13.176	1	
+Hon. Yaya Dosunmu Way Roundabout	Eti Osa	Lagos	6.453	3.509	1	
+Yakubu Pam Street	Kaduna North	Kaduna	10.578	7.427	1	
+Umaru Musa Yar'adua Way	Kaduna North	Kaduna	10.539	7.473	1	
+Umaru Musa Yar'adua Way	Chikun	Kaduna	10.531	7.486	1	
+Yaba Flyover Bridge	Shomolu	Lagos	6.510	3.371	1	
+Yakubu Ayenajeyi	Chikun	Kaduna	10.464	7.441	1	
+Yaryasa - Bargi Road	Kiru	Kano	11.338	8.253	1	
+Yaba Street	Ondo West	Ondo	7.105	4.850	1	
+Yaounde Crescent	Kaduna North	Kaduna	10.524	7.465	1	
+Abu-Yasir Close	Kaduna North	Kaduna	10.528	7.457	1	
+M. Yahaya Mahmud Close	Kaduna North	Kaduna	10.527	7.454	1	
+Jirgin na yaya street	Gombe	Gombe	10.277	11.141	1	
+Sarkin Yaki	Fagge	Kano	12.027	8.541	1	
+Yahaya Gusail Road	Wamako	Sokoto	13.023	5.234	1	
+Yaya Street	Eti Osa	Lagos	6.425	3.584	1	
+Odozi Street	Ifo	Ogun	6.648	3.366	1	Oremeta/Yakoyo Road
+Yakubu Bauchi Road	Ungongo	Kano	11.970	8.435	1	
+Yakubu Imam Street	Eti Osa	Lagos	6.474	3.632	1	
+Yakubu James Pam Street	Municipal Area Council	FCT Abuja	9.056	7.478	1	
+IJ Yahaya Close	Municipal Area Council	FCT Abuja	9.046	7.553	1	
+Layin Ya Malan	Kumbotso	Kano	11.951	8.475	1	
+Yanshana Street	Kumbotso	Kano	11.939	8.568	1	
+Yankari National Park approach road	Bauchi	Bauchi	10.240	10.147	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.947	10.345	1	
+Yankari National Park approach road	Alkaleri	Bauchi	10.012	10.311	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.884	10.383	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.886	10.381	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.871	10.395	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.845	10.411	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.820	10.429	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.780	10.479	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.763	10.507	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.765	10.505	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.795	10.455	1	
+Yakubu Gowon Way	Jos North	Plateau	9.891	8.880	1	
+Yakubu Gowon Way	Jos North	Plateau	9.879	8.874	1	
+Mohammed Yahaya Close	Municipal Area Council	FCT Abuja	9.129	7.434	1	
+Oremeta/Yakoyo Road	Ikeja	Lagos	6.656	3.355	1	
+Yakoyo Road	Ifo	Ogun	6.678	3.367	1	
+IA Yahaya Street	Municipal Area Council	FCT Abuja	9.047	7.548	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.954	7.336	1	
+Musa Yar' Adua Way	Owerri Municipal	Imo	5.493	7.014	1	
+Link 16 Yamadawa Gabas Street	Gwale	Kano	11.972	8.472	1	
+Kwanar Bazawara, Yankaba	Nassarawa	Kano	12.011	8.583	1	
+Umaru Musa Yar'adua Way	Chikun	Kaduna	10.515	7.523	1	
+Yakubu Gowon Crescent	Municipal Area Council	FCT Abuja	9.056	7.514	1	
+Umaru Musa Yar'adua Way	Chikun	Kaduna	10.513	7.527	1	
+Yaba Lafewa Street	Ondo West	Ondo	7.086	4.828	1	
+Yakubu Lane	Agege	Lagos	6.613	3.327	1	
+Buba Yadi Street	Ngelzarma	Yobe	11.751	11.972	1	
+Kwanar Yan Dusa	Gwale	Kano	11.988	8.516	0	
+Yanoko Primary Health Centre	Rogo	Kano	11.456	7.918	0	
+Yammedi Primary Health Centre	Karaye	Kano	11.824	8.092	0	
+Yako Primary Health Centre	Kiru	Kano	11.656	8.193	0	
+Yalwa Health Post	Kiru	Kano	11.486	8.187	0	
+Yalwan Dan Musa Health Post	Doguwa	Kano	10.576	8.716	0	
+Yanbundu Health Post	Bichi	Kano	12.269	8.293	0	
+Yangwarzo Health Post	Bichi	Kano	12.274	8.156	0	
+Yanmamman Health Post	Tsanyawa	Kano	12.262	8.041	0	
+Yale Clinic	Bama	Borno	11.707	13.707	0	
+Yajiwa Health Clinic	Kaga	Borno	11.389	12.723	0	
+Yar Akija Basic Health Clinic	Sokoto South	Sokoto	13.054	5.236	0	Akija Clinic
+Laila Dogon Yaro	Kaduna North	Kaduna	10.537	7.434	0	
+NASFTS Buni Yadi	Gujba	Yobe	11.245	12.014	0	
+Yajiwa Camp Kusheri Refugee Site	Jere	Borno	11.789	13.131	0	
+Yamtake Dispensary	Gwoza	Borno	11.108	13.507	0	
+Etsu Yahaya Abubakar Health Center	Katcha	Niger	9.279	6.194	0	
+Yanawo Clinic and Maternity Farin Gada Jos	Jos North	Plateau	9.963	8.861	0	
+Yalwan Soba, Primary Health Centre	Karu	Nasarawa	8.774	7.907	0	
+Yankari Motor park	Bauchi	Bauchi	10.308	9.844	0	
+Primary Health Care By Yakowa Way Karjipu	Chikun	Kaduna	10.496	7.467	0	
+General Hospital Barodikko No1b Yarima Street Ang Pama	Chikun	Kaduna	10.456	7.456	0	
+Malan Yaro Islamiyya	Ungongo	Kano	12.044	8.570	0	
+Makarantar Malam Ibrahim Mai Yar Hula	Ungongo	Kano	12.040	8.564	0	
+Katako Yan Gwanjo	Jos North	Plateau	9.943	8.878	0	
+Apata Yakuba Junior Secondary., Apata Yakuba, Nigeria	Ilorin East	Kwara	8.528	4.620	0	
+Yanga Market	Oredo	Edo	6.335	5.618	0	
+Yamoyus Petrol Station	Municipal Area Council	FCT Abuja	9.082	7.466	0	
+Yakubu Gowon Airport	Riyom	Plateau	9.636	8.871	0	
+Yartofa Health Post	Bagwai	Kano	12.078	8.136	0	
+Yawurma Health Post	Albasu	Kano	11.648	9.168	0	
+Yanchibi Health Post	Tsanyawa	Kano	12.240	7.892	0	
+Yanganau Health Post	Tsanyawa	Kano	12.254	7.958	0	
+Yartofa Health Post	Warawa	Kano	11.930	8.688	0	
+Yarimawa Primary Health Centre	Tofa	Kano	12.027	8.369	0	
+Yalwa Primary Health Centre	Rimin Gado	Kano	11.953	8.310	0	
+Karofin Yashi Health Post	Rimin Gado	Kano	11.883	8.350	0	
+Yango Health Post	Rimin Gado	Kano	11.996	8.228	0	
+Yarkasuwa Health Post	Gwarzo	Kano	11.917	7.935	0	
+Yan Bawa Health Post	Sumaila	Kano	11.371	9.059	0	
+Yauwra Health Post	Albasu	Kano	11.610	8.969	0	
+Yan Kau Health Post	Gaya	Kano	11.760	8.979	0	
+Yankwada Health Post	Shanono	Kano	12.203	7.876	0	
+Yankamaye Health Post	Tsanyawa	Kano	12.314	7.897	0	
+Yaan'Awaki Health Post	Tsanyawa	Kano	12.366	8.018	0	
+Yankamaye Primary Health Centre	Tsanyawa	Kano	12.329	7.929	0	
+Yakanawa Primary Health Centre	Tsanyawa	Kano	12.194	7.984	0	
+Yan'Amar Health Post	Tsanyawa	Kano	12.413	8.080	0	
+Yandadi Primary Health Centre	Kunchi	Kano	12.453	8.235	0	
+Yankifi Health Post	Kunchi	Kano	12.473	8.269	0	
+Yammawa Health Post	Dambatta	Kano	12.508	8.469	0	
+Yan Bawa Health Post	Makoda	Kano	12.534	8.497	0	
+Yammawa Gamji Health Post	Dambatta	Kano	12.488	8.476	0	
+Yammawa Wanzari Health Post	Dambatta	Kano	12.511	8.655	0	
+Yama Health Post	Gabasawa	Kano	12.271	8.812	0	
+Yar Zabaina Health Post	Gabasawa	Kano	12.155	8.799	0	
+Yaranchi Health Post	Gabasawa	Kano	12.166	8.755	0	
+Yautar Kudu Primary Health Centre	Gabasawa	Kano	12.197	8.759	0	
+Yatsi Health Post	Bichi	Kano	12.255	8.471	0	
+Yammata Health Post	Fagge	Kano	12.064	8.473	0	
+Yakasai Health Post	Dawakin Tofa	Kano	12.156	8.483	0	
+Yarrutu Health Post	Dawakin Tofa	Kano	12.117	8.296	0	
+Yakasai Health Post	Bichi	Kano	12.202	8.292	0	
+Yalwa Karama Health Post	Tofa	Kano	12.058	8.335	0	
+Yanoko Primary Health Centre	Tofa	Kano	12.055	8.298	0	
+Sabakuwa Yamma	Zaki	Bauchi	12.377	10.364	0	
+Yaraye Health Center	Itas/Gadau	Bauchi	11.832	9.844	0	
+Yarimari Dispensary	Giade	Bauchi	11.576	10.202	0	
+Garin Kure Yamma Dispensary	Nangere	Yobe	11.825	10.834	0	
+Yayari	Damban	Bauchi	11.576	10.637	0	
+Yangamai Dispensary	Jama'Are	Bauchi	11.667	9.902	0	
+Yakanaji Dispensary	Toro	Bauchi	10.105	9.349	0	
+Yalwan Duguri Model Primary Health Center	Alkaleri	Bauchi	9.960	10.184	0	
+Umar Musa Yaraddua University, Katsina	Batagarawa	Katsina	12.878	7.587	0	
+Government Day Secondary School Yandaka	Muhammadu Dikko Stadium	Katsina	12.976	7.587	0	
+Yaba College of Technology	Shomolu	Lagos	6.520	3.376	0	Yabatech|YabaTech|YCT
+Yaba Bus Terminal	Shomolu	Lagos	6.510	3.371	0	
+Yakun Health Post	Madobi	Kano	11.740	8.265	0	
+Yaryasa Health Post	Tudun Wada	Kano	11.337	8.308	0	
+Turai Yar'Adua Primary Health Centre	Kumbotso	Kano	11.953	8.515	0	
+Jauben Yamma Health Post	Bagwai	Kano	12.067	8.056	0	
+Yana Health Clinic	Shira	Bauchi	11.412	10.014	0	
+Yana Maternity	Shira	Bauchi	11.406	10.016	0	
+General Hospital Shira Yana	Shira	Bauchi	11.442	10.034	0	
+Yarka Dispensary	Shira	Bauchi	11.467	10.075	0	
+Yalwa Primary Health Center	Giade	Bauchi	11.250	10.246	0	
+Yayari Maternity	Warji	Bauchi	11.195	9.646	0	
+Ruda Yausa Dispensary	Ganjuwa	Bauchi	10.466	9.847	0	
+Maternity Clinic Kusu Yalwan Kagadama	Bauchi	Bauchi	10.266	9.793	0	
+Maraba Gumai Yamma	Zaki	Bauchi	11.955	10.245	0	
+Dogon Jeji Health Clinic	Jama'Are	Bauchi	11.739	9.955	0	Kofar Yamma
+Yame Model Primary Health Center	Damban	Bauchi	11.592	10.647	0	
+Yayu Primary Health Center	Katagum	Bauchi	11.543	10.557	0	
+Primary Health Center Yangamai	Jama'Are	Bauchi	11.667	9.902	0	
+Federal Psychiatric Hospital Yaba	Shomolu	Lagos	6.510	3.374	0	
+Yada Gungume Primary Health Center	Ningi	Bauchi	10.865	9.057	0	
+Yabal Dispensary	Konduga	Borno	11.733	13.433	0	
+Kakam Yali Maternal Child Hospital	Konduga	Borno	11.653	13.415	0	
+Yadini health post	Demsa	Adamawa	9.226	11.752	0	
+Yahau Model Health Center	Demsa	Adamawa	9.511	12.168	0	
+Yadim Health Facility	Fufore	Adamawa	8.973	12.402	0	
+Yadim Maternal And Child Health Center	Fufore	Adamawa	8.973	12.402	0	
+Yaro Karekare Health Post	Nangere	Yobe	11.681	10.939	0	
+Musa Yar'Adua Memorial Primary School (Ambuttai)	Muhammadu Dikko Stadium	Katsina	12.992	7.598	0	
+Buni Yadi Primary Health Care Center	Gujba	Yobe	11.281	12.002	0	

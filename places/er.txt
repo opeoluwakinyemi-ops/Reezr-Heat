@@ -1,15 +1,26 @@
-Eruwa Railway Station	Ibarapa East	Oyo	7.398	3.485	0	
-Eruwa Road Station	Ibarapa East	Oyo	7.401	3.482	0	
+Eruwa Titun	Ibarapa East	Oyo	7.550	3.450	3	
+Erin-Ijesa	Oriade	Osun	7.567	4.883	3	Erin-ijesa
+Erin Ile	Oyun	Kwara	8.105	4.702	3	Erin Ile;Erin
+Eruwa	Ibarapa East	Oyo	7.533	3.417	3	
+Erin-osun	Egbedore	Osun	7.828	4.484	3	
+Ora-Eri	Aguata	Anambra	6.034	7.010	3	
+Oja Tuntun, Oko Erin, Nigeria	Ilorin East	Kwara	8.488	4.538	3	
+Oja Oba, Oko Erin, Nigeria	Ilorin West	Kwara	8.488	4.534	3	
+Oja Tutun, Oko Erin, Nigeria	Ilorin West	Kwara	8.490	4.533	3	
+Eriwe	Odogbolu	Ogun	6.775	3.883	3	
+Erin-Ijesa	Oriade	Osun	7.585	4.878	3	Erin-Ijesha
+Orita-Eruwa	Ibarapa East	Oyo	7.556	3.441	3	Orita Eruwa
+Odo-Ere	Yagba West	Kogi	8.251	5.551	3	Eri|Odo Ere|Odo Ore|OdoEre
+Makurdi	Markurdi	Benue	7.734	8.521	3	MDI|Makurdu|ma ku er di|makuleudi|makuradi|makurdi|makuridi|makurudi|makwrdy
+Calabar	Calabar Municipal	Cross River	4.959	8.327	3	CBQ|Kalabar|Kalabaras|Kalabaro|ka la ba er|kalabar|kalabara|kalabari|kallabaleu|karabaru
 Eredo	Epe	Lagos	6.642	3.990	2	
 Erema	Ogba/Egbema/Ndoni	Rivers	5.217	6.700	2	Erima
-Eruwa Titun	Ibarapa East	Oyo	7.550	3.450	3	
 Eruku	Ekiti	Kwara	8.150	5.417	2	Erufu
 Erinmope Ekiti	Moba	Ekiti	8.033	5.150	2	Erinmope Ekiti;Erimope;Erinnope;Erinmope
 Erjabe	Wamako	Sokoto	13.165	5.229	2	
 Ergata Dutse	Wamako	Sokoto	13.095	5.157	2	
 Eremo Ogbagoro	Port-Harcourt	Rivers	4.790	6.971	2	
 Eripa Iwaju	Yewa North	Ogun	7.183	2.983	2	Abule Apena
-Erin-Ijesa	Oriade	Osun	7.567	4.883	3	Erin-ijesa
 Erimi Oguntade	Yewa South	Ogun	6.780	2.887	2	
 Erure Meji	Warri South	Delta	5.552	5.620	2	
 Eripa	Yewa North	Ogun	7.167	2.983	2	Bale Apena
@@ -19,11 +30,9 @@ Fodoko	Obafemi Owode	Ogun	7.117	3.650	2	Erunwan
 Ebute-Ero	Ilaje	Ondo	6.360	4.616	2	
 Eruwon	Odeda	Ogun	7.200	3.633	2	Erunwan
 Erekiti	Badagry	Lagos	6.483	2.917	2	Ilikiti;Erekiti
-Erin Ile	Oyun	Kwara	8.105	4.702	3	Erin Ile;Erin
 Odo-Owa	Ijero	Ekiti	7.885	5.070	2	Odo Erin;Odo-Ehin
 Erinle	Ado Odo/Ota	Ogun	6.628	3.109	2	
 Iwaye	Epe	Lagos	6.600	4.000	2	Erage-Oki;Eraye-Ok
-Eruwa	Ibarapa East	Oyo	7.533	3.417	3	
 Ere	Ado Odo/Ota	Ogun	6.533	2.900	2	
 Ere-Ise	Epe	Lagos	6.566	4.027	2	
 Ereyi Market	Ondo West	Ondo	6.983	4.849	2	
@@ -35,7 +44,6 @@ Ebute Erinje	Okitipupa	Ondo	6.416	4.716	2	Obode;Ebute-Erinje
 Ere	Gwadabawa	Sokoto	13.415	5.312	2	
 Eroghor	Warri South	Delta	5.705	5.631	2	
 Erifun	Adó-Èkìtì	Ekiti	7.605	5.288	2	
-Erifun	Adó-Èkìtì	Ekiti	7.611	5.265	2	
 Erebia	Degema	Rivers	4.459	6.903	2	
 Erisekiri	Akuku Toru	Rivers	4.681	6.782	2	
 Eri	Yagba West	Kogi	8.250	5.550	2	
@@ -50,114 +58,220 @@ Erunmu	Egbeda	Oyo	7.450	4.066	2
 Eroko	Bassa	Kogi	7.571	6.711	2	
 Odo Ere	Yagba West	Kogi	8.250	5.550	2	
 Ere	Oriade	Osun	7.721	4.790	2	
-Ero Shopping Mall	Oredo	Edo	6.349	5.622	0	
 Eriam Afaha Obong	Abak	Akwa Ibom	5.042	7.723	2	
 Ikot Obong Erong	Ikot Ekpene	Akwa Ibom	5.166	7.692	2	
-Erin-osun	Egbedore	Osun	7.828	4.484	3	
-Ora-Eri	Aguata	Anambra	6.034	7.010	3	
-Sunny Eru Motors	Uvwie	Delta	5.567	5.797	0	
-Ericbrain Schools	Warri South	Delta	5.534	5.761	0	
-Ero Market	Ifedore	Ondo	7.382	5.085	0	
-Erusu Akoko Market	Akoko North West	Ondo	7.587	5.815	0	
-Ode Erinje Market	Okitipupa	Ondo	6.433	4.726	0	
-baptist day school, ereko	Ìjẹ̀bú Òde	Ogun	6.816	3.930	0	
-St. Peter'S And Paul'S School Eruku	Ado Odo/Ota	Ogun	6.672	3.045	0	
-Methodist Primary School, Soki Ere	Ado Odo/Ota	Ogun	6.583	3.024	0	
-Local Government Primary School, Eriyo Gbaga	Ifo	Ogun	6.812	3.197	0	
-Wesley Primary School, Erufu-Ogijo	Shagamu	Ogun	6.748	3.495	0	
-St. Peter'S And Paul'S School Eruku	Ado Odo/Ota	Ogun	6.541	3.012	0	
-Methodist Primary School, Soki Ere	Ado Odo/Ota	Ogun	6.535	2.898	0	
-Local Government Primary School, Eriyo Gbaga	Shagamu	Ogun	6.736	3.534	0	
-Ori Eru PHC	Ibadan North West	Oyo	7.381	3.891	0	
-Oreofe Maternity, Ori Eru	Ibadan North West	Oyo	7.388	3.889	0	
 Eroh-Obaro	Ughelli North	Delta	5.660	6.087	2	
 Erho Korhi	Ethiope East	Delta	5.668	6.022	2	
 Ero-Ikeh	Ughelli North	Delta	5.643	6.068	2	
 Erawah	Isoko North	Delta	5.545	6.168	2	
-New Era Clinic	Jos North	Plateau	9.939	8.875	0	
 Ereku	Warri South	Delta	5.512	5.760	2	
-Erin-Ile Secondary School	Oyun	Kwara	8.109	4.706	0	
-Government Technocal College, Erin-Ile	Oyun	Kwara	8.112	4.704	0	
-Era Primary Health Care Center	Ojo	Lagos	6.477	3.124	0	
-Eromon Specialist Hospital	Amuwo Odofin	Lagos	6.452	3.292	0	
 Eruama	Ilaje	Ondo	6.322	4.505	2	
-Ebute Ero	Lagos Island	Lagos	6.463	3.382	0	
-Tobi Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.541	0	
-Tipper Garage Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.493	4.617	0	
-St James CAC Schools, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.554	0	
-Soludero Bus Terminal, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.564	0	
-Shoprite Kwara Mall, Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.586	0	
-Ose Olohun Petroleum Nig. Ltd., Ipo, Ajasse, Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.468	4.568	0	
-Olupelu Clinic and Maternity, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.511	0	
-Olumawu Basic School, Oni Kanga Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.477	4.567	0	
-Olalomi Hospital, Stadium Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.479	4.550	0	
-Ola Olu Hospital, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.569	0	
-Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.580	0	
-Okelele Secondary School, Okelele, Oko Erin, Nigeria	Ilorin West	Kwara	8.514	4.530	0	
-Oja Tuntun, Oko Erin, Nigeria	Ilorin East	Kwara	8.488	4.538	3	
-Oja Oba, Oko Erin, Nigeria	Ilorin West	Kwara	8.488	4.534	3	
-Obbo fish and pork, Obo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.561	0	
-New Kulende Market, Jebba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.514	4.589	0	
-Minaret Islamic School, Awolowo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.471	4.612	0	
-messiah high school, Tipper Garage Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.494	4.617	0	
-Matanmi Shopping Complex, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.484	4.564	0	
-Khadijat Memorial Hospital, Sango Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.511	4.588	0	
-Kankatu Market, Okelele Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.506	4.546	0	
-Joel Best Legacy Int'L Nursery/Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.468	4.540	0	
-Ita Amodu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.539	0	
-HisGrace College of Education Ilorin, Mubo Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.503	4.572	0	
-Grace Christian Schools, G.R.A, Fate Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.491	4.584	0	
-Gaa saka Zone D, Unnamed Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.497	0	
-FJM3+9PR, Tipper Garage Road, Oko Erin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.604	0	
-FHXP+25X, Fate Rd, Oko Erin 240102, Kwara, Nigeria	Ilorin South	Kwara	8.498	4.586	0	
-FHW2+V3J, Gambari Rd, Oko Erin 240212, Kwara, Nigeria	Ilorin East	Kwara	8.497	4.550	0	
-FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
-FGQJ+WXH, Oja Tutun, Oja Oba, Oko Erin 240281, Kwara, Nigeria	Ilorin West	Kwara	8.490	4.532	0	
-Eterna Petroleum, Oko Erin, Nigeria	Ilorin East	Kwara	8.455	4.580	0	
-Eruda L.G.E.A School, Eruda Area, Temidire Street, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.543	0	
-Ero Omo Hospital, Kilanko Road, Ilorin, Nigeria	Ilorin East	Kwara	8.453	4.585	0	
-Energy filling station, Basin Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.595	0	
-Edinwo Mall, Fate Tanke Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.602	0	
-Ebenezer High School, Agba-Dam Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.585	0	
-Children Specialist Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.554	0	
-Bovas, Ibrahim Taiwo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.482	4.548	0	
-Balogun Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.542	0	
-Ago Market, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
-Ago Market Health Centre, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
-Agaka Petroleum Asa Dam, Asa-Dam Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.459	4.532	0	
-Adeta Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.491	4.522	0	
-Yusjib Industrial Medicare, Ajasse-Ipo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.461	4.575	0	
-Yoruba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.565	0	
-Yoruba Road Market Ilorin, Sulu Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.565	0	
-Tolulope Clinic & Maternity, Oko Erin, Nigeria	Ilorin East	Kwara	8.485	4.601	0	
-Station Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.589	0	
-St. Joseph Centenary Catholic College, Office Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.571	0	
-Senior Secondary School Danialu, Agbabiaka Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.458	4.612	0	
-Ola Olu Hospital, Murtala Mohammed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.569	0	
-Ojagboro, Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.501	4.560	0	
-Oja Tutun, Oko Erin, Nigeria	Ilorin West	Kwara	8.490	4.533	3	
-Offas Garage Roundabout, Oko Erin, Nigeria	Ilorin East	Kwara	8.453	4.581	0	
-NNPC, Surulere Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.539	0	
-MFM Close, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.620	1	
-JSS junction gbagba ilorin, Oko Erin, Nigeria	Asa	Kwara	8.444	4.505	0	
-ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0	
-General Hospital Ilorin, Oko Erin, Nigeria	Ilorin West	Kwara	8.480	4.533	0	
-GDJSS GAA-AKANBI, ILORIN., Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.589	0	
-Gbagba LGEA Nursery and Primary School Ilorin, Oko Erin, Nigeria	Ilorin East	Kwara	8.515	4.577	0	
-Gaa Odota Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.460	4.509	0	
-Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.498	4.585	0	
-Danialu Junior Secondary School, Danialu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.601	0	
-Computer Village, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.555	0	
-Chapel Secondary School, University Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.590	0	
-Baboko Community Secondary School, Oko Erin, Nigeria	Ilorin East	Kwara	8.490	4.539	0	
-Ankara lounge & more, Mandate Square, Oko Erin, Nigeria	Ilorin West	Kwara	8.475	4.502	0	
-Eriwe	Odogbolu	Ogun	6.775	3.883	3	
 Erure	Warri South	Delta	5.541	5.627	2	
-Community Market, Erin-Ijesa	Oriade	Osun	7.569	4.894	0	
 Welcome to Erin-Ijesa	Oriade	Osun	7.559	4.880	2	
-General Hospital Erin-Ijesa	Oriade	Osun	7.561	4.879	0	
-Erin-Ijesa Primary Health Centre	Oriade	Osun	7.569	4.891	0	
-Erin-Ijesa Grammar School	Oriade	Osun	7.568	4.890	0	
+Ereku Community	Warri South	Delta	5.511	5.761	2	
+Ge Ere Gajara	Dange-Shuni	Sokoto	12.949	5.448	2	
+Oke Ero	Oke Ero	Kwara	8.180	5.296	2	
+Wa Eri	Toro	Bauchi	10.444	8.977	2	
+Ori-Eran	Surulere	Oyo	8.138	4.461	2	Ori Eran
+Omo-Erin	Ori Ire	Oyo	8.512	4.281	2	Omo Erin
+Olukotun Eruwa	Ibarapa East	Oyo	7.554	3.371	2	
+Olori-Eru	Afijio	Oyo	7.803	3.742	2	Olori Eru|OloriEru
+Osin-Okete	Ilorin West	Kwara	8.433	4.583	2	Oko Erin|OkoErin
+Okere	Yagba West	Kogi	8.205	5.564	2	Oke-Eri
+Oke Erinja	Yewa South	Ogun	6.733	3.000	2	
+Oke-Erigba	Ijebu North	Ogun	7.018	3.877	2	Oke Erigba
+Oke-Eri	Ìjẹ̀bú Òde	Ogun	6.870	3.946	2	
+Oke-Eraye	Ijebu North	Ogun	7.060	3.829	2	Oke Eraye
+Ogbe Eruku	Obafemi Owode	Ogun	6.996	3.493	2	
+Odo Eri	Yagba West	Kogi	8.279	5.584	2	
+Ode-Erinje	Okitipupa	Ondo	6.442	4.728	2	
+Erefu	Shagamu	Ogun	6.725	3.485	2	
+Iyano-Eruwa	Ibarapa East	Oyo	7.403	3.486	2	Eruwa|Iyano Eruwa
+Erhe	Ughelli North	Delta	5.302	6.069	2	Iwhrerhe
+Isagbo-Ere	Yewa South	Ogun	6.626	2.918	2	Isagbo Ere
+Elikiti	Badagry	Lagos	6.483	2.912	2	Erekiti|Ilikiti
+Igbotako-Erinje	Okitipupa	Ondo	6.412	4.754	2	
+Eyin-Eregu	Ijebu North	Ogun	7.012	4.064	2	Eyin Eregu
+Ete-Erumu	Ika North East	Delta	6.131	6.268	2	
+Eruwa-Titun	Ibarapa East	Oyo	7.549	3.444	2	Eruwa Titun|EruwaTitun
+Erushu	Akoko North West	Ondo	7.584	5.816	2	
+Erunwon	Odeda	Ogun	7.281	3.741	2	
+Erunwon	Odeda	Ogun	7.245	3.692	2	
+Erunwon	Obafemi Owode	Ogun	7.113	3.697	2	
+Erunwon	Ìjẹ̀bú Òde	Ogun	6.834	3.965	2	
+Erunmu	Egbeda	Oyo	7.446	4.062	2	Erumu
+Erunkan	Kosofe	Lagos	6.606	3.396	2	Erukan
+Erunbe	Obafemi Owode	Ogun	7.000	3.403	2	
+Eruna-Odo	Ilaje	Ondo	6.116	4.777	2	Eruna Odo
+Eruna Lagbe	Ogbaru	Anambra	6.117	6.783	2	
+Eruna-Eru	Ilaje	Ondo	6.116	4.771	2	
+Eruna	Ilaje	Ondo	6.109	4.781	2	
+Eruku	Ekiti	Kwara	8.137	5.422	2	Erufu
+Eruku	Abeokuta North	Ogun	7.112	3.273	2	
+Eruku	Ado Odo/Ota	Ogun	6.519	3.013	2	
+Erugbin	Shagamu	Ogun	6.817	3.583	2	
+Eruemukohwarien	Ughelli North	Delta	5.526	5.934	2	
+Eruele	Owan West	Edo	7.060	5.928	2	
+Erua	Uhunmwonde	Edo	6.577	5.908	2	
+Erong	Olamaboro	Kogi	7.167	7.700	2	
+Ero	Ajaokuta	Kogi	7.579	6.691	2	
+Ero	Ifedore	Ondo	7.390	5.098	2	
+Ero	Odeda	Ogun	7.318	3.503	2	
+Eriti	Akoko North West	Ondo	7.728	5.793	2	
+Eripa	Boluwaduro	Osun	7.939	4.745	2	
+Eripa	Ona Ara	Oyo	7.250	4.053	2	
+Eripa	Yewa North	Ogun	7.171	2.985	2	Bale Apena
+Erin-Oke	Oriade	Osun	7.563	4.893	2	Erin|Erin Oke
+Erin-Odo	Oriade	Osun	7.570	4.895	2	Erin Odo
+Erinmope-Ekiti	Moba	Ekiti	8.046	5.145	2	Erimope|Erinmope|Erinmope Ekiti|Erinnope
+Erinmope	Irepodun	Kwara	8.077	5.090	2	
+Erinmi	Egbeda	Oyo	7.371	4.112	2	
+Erinmerunmu	Obafemi Owode	Ogun	6.777	3.409	2	
+Erinle	Ife North	Osun	7.466	4.472	2	
+Erinla	Ondo West	Ondo	6.961	4.817	2	
+Erinje	Ife North	Osun	7.449	4.476	2	
+Erinja	Yewa South	Ogun	6.733	3.017	2	
+Erin-Ile	Oyun	Kwara	8.093	4.705	2	Erin|Erin Ile
+Erin-Aboro	Ibarapa East	Oyo	7.577	3.501	2	Erin|Erin Aboro
+Erin	Egbedore	Osun	7.828	4.484	2	
+Erin	Ibarapa East	Oyo	7.578	3.510	2	
+Erin	Obafemi Owode	Ogun	7.037	3.362	2	
+Erimo	Oriade	Osun	7.625	4.859	2	
+Ebute-Oguntade	Yewa South	Ogun	6.780	2.887	2	Erimi Oguntade
+Erimi	Yewa South	Ogun	6.770	2.899	2	Erimi Ebute
+Erigo	Nasarawa	Nasarawa	8.526	7.880	2	
+Erigboro	Ijebu North	Ogun	7.068	4.098	2	
+Erifun Ogunsola	Obafemi Owode	Ogun	6.933	3.467	2	
+Erieata	Ayamelum	Anambra	6.552	6.940	2	
+Eridu	Ijebu North	Ogun	7.103	3.994	2	
+Erialaji	Ifelodun	Kwara	8.607	5.070	2	
+Erhuware	Ughelli South	Delta	5.393	5.884	2	
+Erhurigbedi	Ughelli North	Delta	5.357	6.028	2	
+Ereweibio	Brass	Bayelsa	4.329	6.033	2	
+Erereghakiri	Brass	Bayelsa	4.363	6.386	2	
+Ererefe	Ikot Abasi	Akwa Ibom	4.598	7.583	2	
+Erema	Ogba/Egbema/Ndoni	Rivers	5.224	6.664	2	Erima
+Eredo	Ijebu North	Ogun	6.962	3.797	2	
+Eredo	Yewa South	Ogun	6.771	3.001	2	
+Ere	Ado Odo/Ota	Ogun	6.535	2.895	2	
+Era	Ojo	Lagos	6.483	3.133	2	
+Elese-Erin	Oluyole	Oyo	7.223	4.003	2	Elese Erin
+Aluti-Erin	Ife South	Osun	7.211	4.526	2	Aluti Erin
+Ago Erierie	Ovia North-East	Edo	6.200	5.483	2	
+Abule Eruwa	Ibarapa East	Oyo	7.602	3.517	2	
+Ori-Eru	Akinyele	Oyo	7.518	3.865	2	Ori Eru|OriEru
+Erunmu	Egbeda	Oyo	7.423	3.998	2	
+Eresu	Ido	Oyo	7.366	3.770	2	
+Erere	Kala-Balge	Borno	11.724	14.263	2	
+Erebio	Degema	Rivers	4.459	6.903	2	Erebia
+Erisekiri	Akuku Toru	Rivers	4.723	6.784	2	Abelkiri|Frisekiri
+Eredo	Odogbolu	Ogun	6.708	3.914	2	
+Ita-Ereke	Ijebu North	Ogun	6.964	3.894	2	
+Eregu	Ijebu East	Ogun	6.726	4.232	2	
+Erutan	Kosofe	Lagos	6.606	3.394	2	Erukan|Erunkan
+Eripose	Idanre	Ondo	7.128	5.037	2	
+Ero	Ọ̀wọ̀	Ondo	7.230	5.454	2	
+Erifun	Adó-Èkìtì	Ekiti	7.611	5.265	2	
+Erio	Ekiti West	Ekiti	7.731	5.007	2	
+Eron	Obi	Benue	7.065	8.406	2	
+Eridu	Ijebu East	Ogun	6.750	4.145	2	
+Erikekere	Ijebu North	Ogun	6.971	4.065	2	
+Erekiti	Okitipupa	Ondo	6.580	4.624	2	
+Erinje-Ekeji	Okitipupa	Ondo	6.403	4.755	2	
+Erhua	Ethiope East	Delta	5.691	5.980	2	
+Erhomeghwu	Ethiope East	Delta	5.678	5.993	2	
+Erure	Warri South	Delta	5.552	5.622	2	
+Erhievhio	Udu	Delta	5.473	5.871	2	
+Erebugbene	Southern Ijaw	Bayelsa	4.622	5.653	2	
+Ereyefeyre	Ekeremor	Bayelsa	4.862	5.482	2	
+Eriam Ata Essien	Abak	Akwa Ibom	5.055	7.740	2	
+Eriam Ikpan Ikpong	Abak	Akwa Ibom	5.066	7.734	2	Eriam Ikpan Ikpo
+Eranaka	Ethiope East	Delta	5.606	6.035	2	
+Erovie Quarters	Isoko North	Delta	5.538	6.229	2	
+Eriem Fields	Ughelli North	Delta	5.523	6.070	2	
+Igule Erohwa	Sagbama	Bayelsa	5.294	6.409	2	
+Erininlagbene	Patani	Delta	5.173	6.076	2	
+Itu	Ogba/Egbema/Ndoni	Rivers	5.221	6.706	2	Erema
+Oke Ero	Oke Ero	Kwara	8.170	5.234	2	Ijoba Agbegbe Oke Ero|Oke-Ero|Oke-Ero Local Government Area
+Yamaltu/Deba	Yamaltu/Deba	Gombe	10.238	11.442	2	Agbegbe Ijoba Ibile Yamaltu/Deba|Jamaltu/Deba|Yamaltu/Deba Local Government Area|ya ma er tu/de ba|yamaltw/dba|yamarutou
+Marte	Marte	Borno	12.410	13.873	2	Agbegbe Ijoba Ibile Marte|Marte Local Government Area|ma er te
+Erebomakiri	Degema	Rivers	4.793	6.884	2	
+Ge Ere Gajara	Dange-Shuni	Sokoto	12.944	5.454	2	
+Erihii	Katsina-Ala	Benue	7.226	9.493	2	
+Iponri Eric Moore	Surulere	Lagos	6.484	3.357	2	
+Odo Eran Ogunlana	Mushin	Lagos	6.504	3.325	2	
+Erukan Orishigun	Kosofe	Lagos	6.603	3.393	2	
+Erha	Owan East	Edo	6.845	6.166	2	
+Orelo-Eran	Owan East	Edo	6.823	6.087	2	
+Erhiboerhibo	Uhunmwonde	Edo	6.600	6.054	2	
+Eror	Esan North-East	Edo	6.715	6.302	2	
+Eriebok	Zangon Kataf	Kaduna	9.677	8.290	2	
+Erebi	Southern Ijaw	Bayelsa	4.704	5.753	2	
+Eripa Elepo	Yewa North	Ogun	7.202	3.008	2	
+Odo-Erin	Odeda	Ogun	7.299	3.305	2	
+Afo-Eruku	Obafemi Owode	Ogun	7.048	3.479	2	
+Erinle	Odeda	Ogun	7.296	3.482	2	
+Ojo-Erin	Oluyole	Oyo	7.237	4.003	2	
+Erilope	Ijebu North	Ogun	7.097	4.002	2	
+Erifon	Ijebu North	Ogun	7.060	4.002	2	
+Erioloro	Ijebu North	Ogun	7.050	4.037	2	
+Erega	Ijebu North	Ogun	7.041	4.043	2	
+Eriwere	Ijebu North	Ogun	7.026	4.004	2	
+Oke-Ere	Ijebu North	Ogun	7.073	4.096	2	
+Eruku	Isokan	Osun	7.297	4.146	2	
+Eruku	Aiyedade	Osun	7.296	4.310	2	
+Eredi	Aiyedade	Osun	7.296	4.317	2	
+Erin	Irepodun	Osun	7.908	4.522	2	
+Erinta	Ife East	Osun	7.519	4.594	2	
+Mokuro Erinta	Ife East	Osun	7.514	4.618	2	
+Erepa	Obokun	Osun	7.740	4.669	2	
+Ajebandele Oke Erinle	Obokun	Osun	7.790	4.699	2	
+Erinwo	Boripe	Osun	7.861	4.677	2	
+Ereguru	Efon	Ekiti	7.738	4.965	2	
+Eripa Ajiboye	Yewa North	Ogun	7.179	2.995	2	
+Erin	Yewa South	Ogun	6.845	2.968	2	
+Erimi-Fasade	Yewa South	Ogun	6.769	2.888	2	
+Ago-Erinje	Okitipupa	Ondo	6.487	4.800	2	
+Eruna Lagbe	Ilaje	Ondo	6.112	4.781	2	Eruna-Lagbe
+Erefe	Ife East	Osun	7.419	4.567	2	
+Erinburo	Atakunmosa West	Osun	7.468	4.688	2	
+Erin	Atakunmosa West	Osun	7.345	4.741	2	
+Owode-Erintuntun	Atakunmosa West	Osun	7.322	4.749	2	
+Erose	Ondo West	Ondo	7.041	4.898	2	
+Eriki	Ori Ire	Oyo	8.380	4.301	2	
+Eruku	Surulere	Oyo	8.027	4.355	2	
+Erunwon	Odeda	Ogun	7.169	3.517	2	
+Erifun	Obafemi Owode	Ogun	7.019	3.578	2	
+Lisa-Erumbe	Obafemi Owode	Ogun	7.032	3.636	2	
+Apena-Erumbe	Obafemi Owode	Ogun	7.052	3.611	2	
+Erinwusi	Ido	Oyo	7.456	3.729	2	
+Erinle	Obafemi Owode	Ogun	7.096	3.675	2	
+Erilawo	Ijebu North	Ogun	7.033	3.883	2	
+Erikurudu	Ijebu North	Ogun	7.050	3.990	2	
+Erilamo	Ijebu North	Ogun	7.080	3.859	2	
+Erunwon	Oluyole	Oyo	7.203	3.781	2	
+Budo-Ere	Olorunsogo	Oyo	8.678	4.143	2	
+Olowo-Eru	Asa	Kwara	8.557	4.365	2	
+Eru-Obodo	Asa	Kwara	8.249	4.501	2	
+Eriho	Asa	Kwara	8.191	4.581	2	
+Erombi	Oyun	Kwara	8.131	4.620	2	
+River Erinle	Surulere	Oyo	8.070	4.525	2	RiverErinle
+Erin-Ile Railway Station	Oyun	Kwara	8.094	4.713	2	Erin-IleRailwayStation
+Ernigbo	Edu	Kwara	9.014	4.963	2	
+Eruoba	Asa	Kwara	8.420	4.523	2	
+Eruoba	Asa	Kwara	8.410	4.557	2	
+Oke-Erin	Ilorin West	Kwara	8.475	4.540	2	
+Erioke	Ilorin South	Kwara	8.440	4.650	2	
+Ero-Omo	Ilorin East	Kwara	8.454	4.581	2	
+Ereje	Ifelodun	Kwara	8.386	4.639	2	
+Erupa	Nasarawa Egon	Nasarawa	8.689	8.356	2	
+Aba-Ero	Akinyele	Oyo	7.612	4.084	2	
+Igbo Erinwo	Aiyedire	Osun	7.527	4.208	2	IgboErinwo
+Eruku	Iwo	Osun	7.624	4.093	2	
+Elewe-Eran	Lagelu	Oyo	7.527	4.141	2	
+Eruku	Obafemi Owode	Ogun	7.001	3.446	2	
+Erunwon	Odeda	Ogun	7.281	3.704	2	
+MFM Close, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.620	1	
 Era Road	Ojo	Lagos	6.487	3.143	1	
 Abule Era Road	Ojo	Lagos	6.479	3.132	1	
 Eric Manuel Cresent	Surulere	Lagos	6.491	3.361	1	
@@ -212,13 +326,12 @@ Ero Drive	Oredo	Edo	6.331	5.598	1
 Erhaomo Lane	Oredo	Edo	6.339	5.601	1	
 Erhumwensw avenue	Oredo	Edo	6.319	5.579	1	
 Peter Eruteya Street	Kosofe	Lagos	6.571	3.380	1	
-Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.498	4.585	1	
+Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.498	4.584	1	
 Prof Ernest Adibe Avenue	Enugu North	Enugu	6.478	7.482	1	
 Otti Ernest Street	Enugu East	Enugu	6.473	7.493	1	
 Dr Ernest Ugo Street	Enugu North	Enugu	6.432	7.483	1	
 Erin osun - Ede Road	Egbedore	Osun	7.800	4.466	1	
 Ojutu-Erin road	Egbedore	Osun	7.828	4.492	1	
-Ebute Ero Market	Lagos Island	Lagos	6.462	3.385	0	
 Eric & Maric Close	Enugu East	Enugu	6.484	7.507	1	
 Chief Eric Obiechina Crescent	Enugu East	Enugu	6.485	7.547	1	
 Eric Eboh Close	Enugu East	Enugu	6.488	7.496	1	
@@ -245,35 +358,118 @@ Eratake Street	Uvwie	Delta	5.540	5.761	1
 Erin osun - Ede Road	Egbedore	Osun	7.765	4.445	1	
 Erinwa-Ikere Road	Ise/Orun	Ekiti	7.464	5.420	1	
 Erin-Ijesa Road	Oriade	Osun	7.564	4.891	1	
-Erin-Ijesa Road	Oriade	Osun	7.553	4.884	1	
-Erin-Ijesa Road	Oriade	Osun	7.571	4.893	1	
 Lower Erejuwa	Warri South	Delta	5.519	5.756	1	
 Oladele Onile-Ere Street	Eti Osa	Lagos	6.459	3.615	1	
 Erelu Abiola Dosumu Street	Eti Osa	Lagos	6.445	3.565	1	
 Ori Eru street	Ibadan North West	Oyo	7.382	3.891	1	
 2 BABA ABUBAKAR street, Sobi Rd, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.506	4.552	1	
 Coca Cola Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.417	4.555	1	
-Abule Era Road	Ojo	Lagos	6.477	3.124	1	
 Mubo Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.498	4.570	1	
 Gaa-Kanbi Rd, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.466	4.575	1	
-Oluyemi Erinosho Street	Ikeja	Lagos	6.635	3.349	1	
 Sadiku Erinfolami Street	Eti Osa	Lagos	6.437	3.501	1	
 Oke Eri Street	Kosofe	Lagos	6.554	3.404	1	
-New Era Model School	Uvwie	Delta	5.557	5.776	0	
-Era Road	Ojo	Lagos	6.482	3.143	1	
-Erekesan Market	Akure South	Ondo	7.253	5.195	0	
 Unity Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.549	1	
 Eruwa Road	Ido	Oyo	7.445	3.823	1	
-Eruwa Road	Ido	Oyo	7.439	3.827	1	
 Barr. Obi Eregbuonye Street	Oshimili North	Delta	6.179	6.668	1	
 Pipeline, Pipe Line Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.469	4.589	1	
 Florence Eribo Street	Oredo	Edo	6.256	5.574	1	
 Erhunmwunse Street	Oredo	Edo	6.343	5.602	1	
 Eromosele Emoyon Edokpa Street	Esan Central	Edo	6.800	6.236	1	
-Ereku Community	Warri South	Delta	5.511	5.761	2	
 Erinjakun Street	Ifo	Ogun	6.806	3.288	1	
 Philip Erara Street	Ìkòròdú	Lagos	6.621	3.486	1	
-Erin-Ijesa	Oriade	Osun	7.585	4.878	3	Erin-Ijesha
 Princess Pere-ere Doodei Week Street	Yenegoa	Bayelsa	4.876	6.213	1	
-Ge Ere Gajara	Dange-Shuni	Sokoto	12.949	5.448	2	
-Oke Ero	Oke Ero	Kwara	8.180	5.296	2	
+Eruwa Railway Station	Ibarapa East	Oyo	7.398	3.485	0	
+Eruwa Road Station	Ibarapa East	Oyo	7.401	3.482	0	
+Ero Shopping Mall	Oredo	Edo	6.349	5.622	0	
+Sunny Eru Motors	Uvwie	Delta	5.567	5.797	0	
+Ericbrain Schools	Warri South	Delta	5.534	5.761	0	
+Ero Market	Ifedore	Ondo	7.382	5.085	0	
+Erusu Akoko Market	Akoko North West	Ondo	7.587	5.815	0	
+Ode Erinje Market	Okitipupa	Ondo	6.433	4.726	0	
+baptist day school, ereko	Ìjẹ̀bú Òde	Ogun	6.816	3.930	0	
+St. Peter'S And Paul'S School Eruku	Ado Odo/Ota	Ogun	6.672	3.045	0	
+Methodist Primary School, Soki Ere	Ado Odo/Ota	Ogun	6.583	3.024	0	
+Local Government Primary School, Eriyo Gbaga	Ifo	Ogun	6.812	3.197	0	
+Wesley Primary School, Erufu-Ogijo	Shagamu	Ogun	6.748	3.495	0	
+St. Peter'S And Paul'S School Eruku	Ado Odo/Ota	Ogun	6.541	3.012	0	
+Methodist Primary School, Soki Ere	Ado Odo/Ota	Ogun	6.535	2.898	0	
+Local Government Primary School, Eriyo Gbaga	Shagamu	Ogun	6.736	3.534	0	
+Ori Eru PHC	Ibadan North West	Oyo	7.381	3.891	0	
+Oreofe Maternity, Ori Eru	Ibadan North West	Oyo	7.388	3.889	0	
+New Era Clinic	Jos North	Plateau	9.939	8.875	0	
+Erin-Ile Secondary School	Oyun	Kwara	8.109	4.706	0	
+Government Technocal College, Erin-Ile	Oyun	Kwara	8.112	4.704	0	
+Era Primary Health Care Center	Ojo	Lagos	6.477	3.124	0	
+Eromon Specialist Hospital	Amuwo Odofin	Lagos	6.452	3.292	0	
+Ebute Ero	Lagos Island	Lagos	6.463	3.382	0	
+Tobi Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.541	0	
+Tipper Garage Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.493	4.617	0	
+St James CAC Schools, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.554	0	
+Soludero Bus Terminal, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.564	0	
+Shoprite Kwara Mall, Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.586	0	
+Ose Olohun Petroleum Nig. Ltd., Ipo, Ajasse, Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.468	4.568	0	
+Olupelu Clinic and Maternity, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.511	0	
+Olumawu Basic School, Oni Kanga Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.477	4.567	0	
+Olalomi Hospital, Stadium Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.479	4.550	0	
+Ola Olu Hospital, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.569	0	
+Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.580	0	
+Okelele Secondary School, Okelele, Oko Erin, Nigeria	Ilorin West	Kwara	8.514	4.530	0	
+Obbo fish and pork, Obo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.561	0	
+New Kulende Market, Jebba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.514	4.589	0	
+Minaret Islamic School, Awolowo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.471	4.612	0	
+messiah high school, Tipper Garage Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.494	4.617	0	
+Matanmi Shopping Complex, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.484	4.564	0	
+Khadijat Memorial Hospital, Sango Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.511	4.588	0	
+Kankatu Market, Okelele Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.506	4.546	0	
+Joel Best Legacy Int'L Nursery/Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.468	4.540	0	
+Ita Amodu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.539	0	
+HisGrace College of Education Ilorin, Mubo Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.503	4.572	0	
+Grace Christian Schools, G.R.A, Fate Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.491	4.584	0	
+Gaa saka Zone D, Unnamed Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.497	0	
+FJM3+9PR, Tipper Garage Road, Oko Erin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.604	0	
+FHXP+25X, Fate Rd, Oko Erin 240102, Kwara, Nigeria	Ilorin South	Kwara	8.498	4.586	0	
+FHW2+V3J, Gambari Rd, Oko Erin 240212, Kwara, Nigeria	Ilorin East	Kwara	8.497	4.550	0	
+FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
+FGQJ+WXH, Oja Tutun, Oja Oba, Oko Erin 240281, Kwara, Nigeria	Ilorin West	Kwara	8.490	4.532	0	
+Eterna Petroleum, Oko Erin, Nigeria	Ilorin East	Kwara	8.455	4.580	0	
+Eruda L.G.E.A School, Eruda Area, Temidire Street, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.543	0	
+Ero Omo Hospital, Kilanko Road, Ilorin, Nigeria	Ilorin East	Kwara	8.453	4.585	0	
+Energy filling station, Basin Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.595	0	
+Edinwo Mall, Fate Tanke Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.602	0	
+Ebenezer High School, Agba-Dam Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.585	0	
+Children Specialist Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.554	0	
+Bovas, Ibrahim Taiwo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.482	4.548	0	
+Balogun Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.542	0	
+Ago Market, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
+Ago Market Health Centre, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
+Agaka Petroleum Asa Dam, Asa-Dam Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.459	4.532	0	
+Adeta Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.491	4.522	0	
+Yusjib Industrial Medicare, Ajasse-Ipo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.461	4.575	0	
+Yoruba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.565	0	
+Yoruba Road Market Ilorin, Sulu Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.565	0	
+Tolulope Clinic & Maternity, Oko Erin, Nigeria	Ilorin East	Kwara	8.485	4.601	0	
+Station Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.589	0	
+St. Joseph Centenary Catholic College, Office Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.571	0	
+Senior Secondary School Danialu, Agbabiaka Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.458	4.612	0	
+Ola Olu Hospital, Murtala Mohammed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.569	0	
+Ojagboro, Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.501	4.560	0	
+Offas Garage Roundabout, Oko Erin, Nigeria	Ilorin East	Kwara	8.453	4.581	0	
+NNPC, Surulere Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.539	0	
+JSS junction gbagba ilorin, Oko Erin, Nigeria	Asa	Kwara	8.444	4.505	0	
+ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0	
+General Hospital Ilorin, Oko Erin, Nigeria	Ilorin West	Kwara	8.480	4.533	0	
+GDJSS GAA-AKANBI, ILORIN., Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.589	0	
+Gbagba LGEA Nursery and Primary School Ilorin, Oko Erin, Nigeria	Ilorin East	Kwara	8.515	4.577	0	
+Gaa Odota Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.460	4.509	0	
+Danialu Junior Secondary School, Danialu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.601	0	
+Computer Village, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.555	0	
+Chapel Secondary School, University Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.590	0	
+Baboko Community Secondary School, Oko Erin, Nigeria	Ilorin East	Kwara	8.490	4.539	0	
+Ankara lounge & more, Mandate Square, Oko Erin, Nigeria	Ilorin West	Kwara	8.475	4.502	0	
+Community Market, Erin-Ijesa	Oriade	Osun	7.569	4.894	0	
+General Hospital Erin-Ijesa	Oriade	Osun	7.561	4.879	0	
+Erin-Ijesa Primary Health Centre	Oriade	Osun	7.569	4.891	0	
+Erin-Ijesa Grammar School	Oriade	Osun	7.568	4.890	0	
+Ebute Ero Market	Lagos Island	Lagos	6.462	3.385	0	
+New Era Model School	Uvwie	Delta	5.557	5.776	0	
+Erekesan Market	Akure South	Ondo	7.253	5.195	0	

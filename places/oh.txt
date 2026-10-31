@@ -1,3 +1,7 @@
+Ohafia	Ohafia	Abia	5.633	7.829	3	
+Ohafia-Ifigh	Ohafia	Abia	5.615	7.812	3	
+Ezza-Ohu	Ebonyi	Ebonyi	6.441	8.084	3	
+Ebem Ohafia	Ohafia	Abia	5.631	7.830	3	Ebem|Isiama|Isiama Ohafia|Ohafia
 Ohambele	Ukwa East	Abia	4.890	7.415	2	Ohanbele
 Ohoba	Ohaji/Egbema	Imo	5.413	6.881	2	
 Ohaglede	Ebonyi	Ebonyi	6.692	8.144	2	
@@ -21,7 +25,6 @@ Okwode	Ethiope West	Delta	5.867	5.782	2	Oherel;Orhere;Okwode Orhere
 Ohuhu Nsulu	Ikwuano	Abia	5.334	7.543	2	
 Ohijo	Baruten	Kwara	9.060	2.943	2	
 Ohike	Ikwo	Ebonyi	6.095	8.284	2	Oheki
-Ohafia	Ohafia	Abia	5.633	7.829	3	
 Ohunfumi	Ifelodun	Kwara	8.424	5.010	2	
 Isi Ohumini	Ebonyi	Ebonyi	6.640	8.160	2	Isiohummini
 Ohio	Oju	Benue	6.801	8.605	2	
@@ -29,20 +32,103 @@ Oha Obu	Ukanafun	Akwa Ibom	4.860	7.504	2	Oha Abu
 Ohia	Umuahia South	Abia	5.520	7.447	2	
 Ohaifo	Omala	Kogi	7.972	7.516	2	
 Ohaifor	Omala	Kogi	7.972	7.516	2	
-Pato Ohis Filling Station	Uvwie	Delta	5.541	5.783	0	
-Ori Ohin Market	Ose	Ondo	6.963	5.744	0	
 Ohalielu	Ogba/Egbema/Ndoni	Rivers	5.283	6.614	2	
 Ohaji Farm Settlement	Ohaji/Egbema	Imo	5.460	6.828	2	
 Ohi	Mbaitoli	Imo	5.551	6.997	2	
 Oheze-Naka	Orhionmwon	Edo	6.202	6.018	2	
-Ohayirumba	Emuoha	Rivers	4.967	6.816	0	
-Ohhbee Hospital	Alimosho	Lagos	6.541	3.280	0	
+Ohunene	Ajaokuta	Kogi	7.466	6.667	2	
+Ohafia	Ohafia	Abia	5.663	7.832	2	
+Ohaukwu	Ohaukwu	Ebonyi	6.524	8.011	2	
+Ohaozara	Ohaozara	Ebonyi	6.005	7.794	2	
+Ohimini	Ohimini	Benue	7.250	7.957	2	
+Ohaji/Egbema	Ohaji/Egbema	Imo	5.423	6.839	2	
+Umu Ohie Uku	Ngor-Okpala	Imo	5.317	7.250	2	
+Umu-Ohia	Obi Ngwa	Abia	5.140	7.395	2	
+Urho	Esan South-East	Edo	6.553	6.610	2	Ohro|Uhro
+Ohunru	Obi Ngwa	Abia	5.160	7.423	2	
+Ohumola	Bende	Abia	5.684	7.649	2	
+Ohunbe	Yewa North	Ogun	6.928	2.745	2	Ohumbe
+Ohuhu-Nsulu	Ikwuano	Abia	5.344	7.547	2	
+Ohuada	Dekina	Kogi	7.597	6.993	2	
+Ohu	Ibarapa East	Oyo	7.578	3.405	2	
+Ohoro	Asa	Kwara	8.619	4.382	2	
+Uokhuelen-Ohordua	Esan South-East	Edo	6.528	6.411	2	Ohordua|Ohordwa
+Ohoke	Izzi	Ebonyi	6.438	8.184	2	
+Ohoile	Bassa	Kogi	7.694	6.996	2	
+Ohogua	Ovia North-East	Edo	6.433	5.567	2	
+Ohofia-Agba	Ishielu	Ebonyi	6.301	7.854	2	
+Ohoba	Ohaji/Egbema	Imo	5.412	6.887	2	
+Ohizen Katurou	Adavi	Kogi	7.578	6.249	2	
+Ohinki	Lokoja	Kogi	8.052	6.770	2	
+Ohijo	Baruten	Kwara	9.070	2.965	2	
+Ohere	Ikpoba-Okha	Edo	6.254	5.724	2	
+Ohen	Ikpoba-Okha	Edo	6.217	5.733	2	
+Ohekelem	Ngor-Okpala	Imo	5.337	7.235	2	
+Ohebo	Igbo-Etiti	Enugu	6.701	7.375	2	
+Ohe	Uhunmwonde	Edo	6.424	6.046	2	
+Ohanze	Obi Ngwa	Abia	5.117	7.471	2	
+Ohankwu	Ikwo	Ebonyi	6.133	8.167	2	
+Ohana	Obubra	Cross River	5.968	8.364	2	
+Ohagulode	Izzi	Ebonyi	6.369	8.214	2	
+Ohafia	Bende	Abia	5.692	7.646	2	
+Ohachikwe	Abakaliki	Ebonyi	6.235	8.326	2	
+Ohabiam	Aba South	Abia	5.071	7.332	2	
+Oha	Ikpoba-Okha	Edo	6.195	5.639	2	
+Oha	Okpe	Delta	5.635	5.857	2	
+Ohrerhe	Ughelli North	Delta	5.566	5.855	2	Oghrerhe
+Ndiabo Ohoke	Ebonyi	Ebonyi	6.349	8.044	2	
+Nde Ohinhin	Okigwe	Imo	5.783	7.367	2	
+Isi Ohumini	Ebonyi	Ebonyi	6.636	8.101	2	Isiohummini
+Isi-Ohumini	Izzi	Ebonyi	6.466	8.190	2	
+Ohame	Owan East	Edo	7.096	6.002	2	
+Oha	Ezeagu	Enugu	6.414	7.274	2	
+Ohuma	Oju	Benue	6.985	8.490	2	Obuma
+Ohagelede	Ebonyi	Ebonyi	6.691	8.138	2	Ohaglede
+Oharhe	Uvwie	Delta	5.623	5.776	2	
+Ohrerhe Waterside	Uvwie	Delta	5.568	5.850	2	
+Ohwase	Udu	Delta	5.507	5.790	2	
+Ohuru	Ukwa East	Abia	4.961	7.367	2	
+Ohanku	Ukwa East	Abia	4.953	7.409	2	
+Ohandu	Ukwa West	Abia	4.882	7.327	2	
+Ohango	Ukwa East	Abia	4.889	7.369	2	
+Ohaobu	Etim Ekpo	Akwa Ibom	4.882	7.498	2	
+Umu Agwa	Obi Ngwa	Abia	5.085	7.515	2	Ohanze Umu Agwa
+Abayi Ohanze	Obi Ngwa	Abia	5.132	7.429	2	
+Ohori-Uvwedor	Ughelli North	Delta	5.274	6.085	2	
+Ohaji Farm Settlement	Ohaji/Egbema	Imo	5.442	6.831	2	
+Ohali Usosimi	Ogba/Egbema/Ndoni	Rivers	5.295	6.615	2	
+Obajie-Oheze	Orhionmwon	Edo	6.265	6.038	2	
+Ohaji/Egbema	Ohaji/Egbema	Imo	5.402	6.825	2	Agbegbe Ijoba Ibile Ohaji/Egbema|ai bei ma
+Ohafia	Ohafia	Abia	5.658	7.769	2	
+Ohimini	Ohimini	Benue	7.207	7.950	2	Agbegbe Ijoba Ibile Ohimini
+Ohaukwu	Ohaukwu	Ebonyi	6.533	8.023	2	Agbegbe Ijoba Ibile Ohaukwu|Ohaukwu Local Government Area
+Ohaozara	Ohaozara	Ebonyi	6.011	7.777	2	Agbegbe Ijoba Ibile Ohaozara|Ohaozara Local Government Area
+Ohaja-Agwu	Awgu	Enugu	6.071	7.495	2	
+Ohina	Gwer East	Benue	7.251	8.388	2	
+Ohage	Ebonyi	Ebonyi	6.700	8.109	2	
+Obeagu-Ezza Ohu	Ebonyi	Ebonyi	6.470	8.093	2	
+Ohamini	Abakaliki	Ebonyi	6.223	8.083	2	
+Ohatekwe	Ikwo	Ebonyi	6.059	8.107	2	
+Obuagu-Ohatekwe	Ikwo	Ebonyi	6.066	8.140	2	
+Ohana	Gwer West	Benue	7.691	8.101	2	
+Ohenruwa	Esan North-East	Edo	6.787	6.394	2	
+Ohe-Irrua	Esan North-East	Edo	6.785	6.399	2	
+Ohoghor	Uhunmwonde	Edo	6.571	6.056	2	
+Ohon	Esan West	Edo	6.601	6.089	2	
+Ozeyen-Ohordwa	Esan South-East	Edo	6.512	6.406	2	
+Eguare-Ohordua	Esan South-East	Edo	6.516	6.408	2	
+Ohun	Ijebu North	Ogun	7.133	4.142	2	
+Abule-Ohori	Yewa North	Ogun	7.184	2.793	2	
+Ohori-Ije	Yewa North	Ogun	7.200	2.791	2	
+Abule-Ohori	Yewa North	Ogun	7.228	2.787	2	
+Ohori-Iyapupa	Yewa North	Ogun	7.294	2.917	2	
+Ohu	Ori Ire	Oyo	8.501	4.040	2	
+Ago-Ohewu	Oyo West	Oyo	7.971	3.816	2	
 Ohinoyi Road	Kaduna North	Kaduna	10.535	7.458	1	
 Ohunwo street	Egor	Edo	6.351	5.580	1	
 Ohuoba Street	Oredo	Edo	6.330	5.625	1	
 Ohenhen Street	Egor	Edo	6.363	5.572	1	
 Ohuntan Street	Ajeromi/Ifelodun	Lagos	6.449	3.342	1	
-Ohunene	Ajaokuta	Kogi	7.466	6.667	2	
 Ohenhen Street	Oredo	Edo	6.306	5.606	1	
 Ohwoadjeke Close	Warri South	Delta	5.532	5.751	1	
 Ohaezue Okongwu Street	Enugu South	Enugu	6.424	7.535	1	
@@ -61,10 +147,8 @@ Ohinoyi Road	Kaduna North	Kaduna	10.532	7.454	1
 Ohaeri's Crescent Umuezie Nguru	Aboh-Mbaise	Imo	5.494	7.182	1	
 Ohia Street	Port-Harcourt	Rivers	4.792	7.013	1	
 Ichie Chief Ohale Street	Owerri Municipal	Imo	5.510	7.013	1	
-Ohia Street	Port-Harcourt	Rivers	4.793	7.015	1	
 Malik Ohanugo Close	Eti Osa	Lagos	6.476	3.578	1	
-Ohafia	Ohafia	Abia	5.663	7.832	2	
-Ohaukwu	Ohaukwu	Ebonyi	6.524	8.011	2	
-Ohaozara	Ohaozara	Ebonyi	6.005	7.794	2	
-Ohimini	Ohimini	Benue	7.250	7.957	2	
-Ohaji/Egbema	Ohaji/Egbema	Imo	5.423	6.839	2	
+Pato Ohis Filling Station	Uvwie	Delta	5.541	5.783	0	
+Ori Ohin Market	Ose	Ondo	6.963	5.744	0	
+Ohayirumba	Emuoha	Rivers	4.967	6.816	0	
+Ohhbee Hospital	Alimosho	Lagos	6.541	3.280	0	

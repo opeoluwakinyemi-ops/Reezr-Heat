@@ -2,17 +2,94 @@ Winstanley Head	Bonny	Rivers	4.535	7.234	2	Winstanley Point
 Hema Fulani	Kwaya Kusar	Borno	10.434	11.950	2	Hyama
 Sangwa Bulama Heldugu	Shani	Borno	10.335	12.218	2	
 Heddi	Kebbe	Sokoto	11.678	4.513	2	
-Mijuwana Health Clinic	Shani	Borno	10.095	12.056	0	Feshingo
 Hema 2	Hawul	Borno	10.566	12.166	2	Hayama
 Hammari	Dange-Shuni	Sokoto	12.918	5.454	2	Hetereti
 Hena	Hawul	Borno	10.399	12.106	2	
 Henume	Badagry	Lagos	6.400	2.850	2	
 Idibo KM 18 Health Centre	Ajaokuta	Kogi	7.489	6.578	2	
 Helanae	Argungu	Kebbi	12.682	4.490	2	Felende
+Hema 1	Hawul	Borno	10.561	12.160	2	
+Helma Pindar	Shani	Borno	10.190	12.018	2	
+Hema	Kwaya Kusar	Borno	10.432	11.955	2	
+Hentara	Hawul	Borno	10.328	12.173	2	
+Tshuyam Mamman Wani Hel	Hawul	Borno	10.575	12.034	2	Mamman Wanihil
+Hellomari	Konduga	Borno	11.575	12.934	2	
+Herini Madachi	Koko-Besse	Kebbi	11.363	4.340	2	
+Sakwa Hema	Hawul	Borno	10.525	12.193	2	
+Wuro Hesso	Mubi South	Adamawa	10.213	13.247	2	
+Wuro Hesso	Song	Adamawa	9.986	12.630	2	
+Wuro Hesso	Song	Adamawa	9.639	13.037	2	
+Tse-Hemba Gbantule	Konshisha	Benue	7.081	8.546	2	
+Hewu	Bali	Taraba	8.587	11.110	2	
+Het	Bassa	Plateau	9.991	8.704	2	
+Hentira	Shani	Borno	10.056	12.034	2	
+Henee	Konshisha	Benue	7.271	8.574	2	
+Hembe	Markurdi	Benue	7.665	8.569	2	
+Hembe	Konshisha	Benue	7.180	8.600	2	
+Hembavor	Gwer East	Benue	7.440	8.526	2	
+Hembatsau-Anyol	Konshisha	Benue	7.024	8.507	2	
+Hembaor	Gboko	Benue	7.360	8.697	2	
+Hembaor	Konshisha	Benue	7.086	8.713	2	
+Hembaer	Gboko	Benue	7.396	8.655	2	
+Felende	Argungu	Kebbi	12.690	4.502	2	Helande
+Heipang	Barkin Ladi	Plateau	9.645	8.892	2	Haifam
+Heghel	Konshisha	Benue	7.333	8.573	2	
+Hege	Vandeikya	Benue	7.014	8.912	2	
+Heentso	Ushongo	Benue	7.138	8.944	2	
+Heenga	Konshisha	Benue	7.286	8.584	2	
+Gidan-Here	Binji	Sokoto	13.275	4.878	2	
+Here	Illela	Sokoto	13.632	5.448	2	
+Headmanbiri	Kolokuma/Opokuma	Bayelsa	5.083	6.268	2	
+Hegenyo	Gwer East	Benue	7.373	8.497	2	
+Hench	Markurdi	Benue	7.728	8.487	2	
+Heegh	Logo	Benue	7.612	9.153	2	
+Hembe	Takum	Taraba	7.566	9.868	2	
+Hembe	Ushongo	Benue	7.046	9.163	2	
+Hernyo	Katsina-Ala	Benue	7.130	9.432	2	
+Heghel	Gboko	Benue	7.429	8.758	2	
+Hege	Gboko	Benue	7.320	8.752	2	
+Heweigbene	Southern Ijaw	Bayelsa	4.610	5.828	2	Ileweigbene
+Ago-Helena	Ile Oluji/Okeigbo	Ondo	7.251	4.883	2	
+Hembaor	Gboko	Benue	7.347	8.777	2	
+Herbert Macaulay Street	Port-Harcourt	Rivers	4.792	7.008	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.064	7.476	1	
+Paul Hendrickse Road	Ibadan North	Oyo	7.425	3.913	1	
+Herbert Macaulay Way	Lagos Mainland	Lagos	6.486	3.385	1	
+Herbert Macaulay Street	Mushin	Lagos	6.516	3.367	1	
+Henry Adefowope	Ikeja	Lagos	6.584	3.368	1	
+Herbert Maculay Crescent	Ikeja	Lagos	6.581	3.345	1	
+Herbert Macaulay Street	Lagos Mainland	Lagos	6.481	3.387	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.053	7.485	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.044	7.491	1	
+Herbert Maacaulay Way	Municipal Area Council	FCT Abuja	9.056	7.483	1	
+Herbert Macaulay Way	Lagos Mainland	Lagos	6.508	3.378	1	
+Heritage Hotel Street	Ede North	Osun	7.763	4.537	1	
+Sacred Heart Street	Enugu South	Enugu	6.422	7.488	1	
+Health Centre Street	Enugu East	Enugu	6.480	7.516	1	
+kingdom Heritage Model School Link	Enugu North	Enugu	6.443	7.505	1	
+Hezekiah Nnaji Crescent	Enugu South	Enugu	6.393	7.509	1	
+Herbert Orji Avenue	Eti Osa	Lagos	6.447	3.510	1	
+Health Center Road	Ikwerre	Rivers	4.918	6.910	1	
+Eyin Oke Health Centre	Atakunmosa West	Osun	7.604	4.697	1	
+Sacred Heart Close	Eti Osa	Lagos	6.475	3.571	1	
+Herik Close	Ifo	Ogun	6.685	3.322	1	
+Henry Fajemirokun Street	Akure North	Ondo	7.264	5.209	1	
+Open Heaven Church Road	Obio/Akpor	Rivers	4.877	6.913	1	
+Herbert Macauley Road	Port-Harcourt	Rivers	4.791	7.010	1	
+Hewett St	Calabar Municipal	Cross River	4.958	8.320	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.067	7.454	1	
+Cardia Heart Street	Kumbotso	Kano	11.950	8.478	1	
+CS Hedima Street	Municipal Area Council	FCT Abuja	9.045	7.552	1	
+Henry Miami Street	Oshimili North	Delta	6.220	6.649	1	
+Henrik Road	Mobbar	Borno	13.075	12.508	1	
+E. Henry Street	Port-Harcourt	Rivers	4.761	7.034	1	
+Eyin Oke Health Centre	Ilesha West	Osun	7.620	4.732	1	
+Health Centre Street	Yenegoa	Bayelsa	4.867	6.208	1	
+Heraldome lane	Uyo	Akwa Ibom	5.009	7.903	1	
+Mijuwana Health Clinic	Shani	Borno	10.095	12.056	0	Feshingo
 Useh Primary Health Care	Egor	Edo	6.367	5.578	0	
 Osimike Health Service	Egor	Edo	6.378	5.635	0	
 Urban Health Center	Oredo	Edo	6.336	5.631	0	
-Hema 1	Hawul	Borno	10.561	12.160	2	
 Hematology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
 Ndiagu Amechi Uwani Health Center	Enugu South	Enugu	6.408	7.532	0	
 Viva Healthfoo Shop & Dietetic Clinic	Enugu South	Enugu	6.418	7.495	0	
@@ -161,7 +238,6 @@ Lagelu Youth Friendly Health Centre, Agugu	Ibadan North East	Oyo	7.384	3.927	0
 St. Peters Maternity Health Centre, Aperin	Ibadan North East	Oyo	7.375	3.919	0	
 Agbongbon Health Center	Ibadan South East	Oyo	7.367	3.900	0	
 Zwall Health Clinic	Tafawa-Balewa	Bauchi	9.837	9.474	0	
-Helma Pindar	Shani	Borno	10.190	12.018	2	
 Kor Angilin Health Centre	Chibok	Borno	10.865	12.711	0	
 Primary Health Centre Chibok	Chibok	Borno	10.866	12.854	0	Garu Primary Health Centre
 Gomboru Health Clinic	Ngala	Borno	12.370	14.211	0	
@@ -174,8 +250,6 @@ Hoyo Health Clinic	Magumeri	Borno	12.000	12.950	0
 Jauro Gotel Primary Health Centre	Shani	Borno	10.100	11.750	0	
 Kareji Health Post	Shani	Borno	10.036	11.860	0	
 Pilak Health Post Kombo Shani	Shani	Borno	10.064	11.832	0	
-Hema	Kwaya Kusar	Borno	10.432	11.955	2	
-Hentara	Hawul	Borno	10.328	12.173	2	
 Kubo Comprehensive Health Center	Shani	Borno	10.108	12.031	0	
 Labau Health Clinic	Shani	Borno	10.052	12.015	0	
 Primary Health Centre Clinic	Shani	Borno	10.029	11.972	0	
@@ -183,7 +257,6 @@ Buma Maternity and Child Health	Hawul	Borno	10.329	12.178	0
 Hyera Primary Health Centre	Hawul	Borno	10.476	12.304	0	
 Primary Health Centre Gari 2	Shani	Borno	10.216	12.110	0	
 Uba Primary Health Center	Askira-Uba	Borno	10.459	13.214	0	
-Tshuyam Mamman Wani Hel	Hawul	Borno	10.575	12.034	2	Mamman Wanihil
 Doro Duguri Health Clinic	Kukawa	Borno	13.271	13.804	0	
 Cocin Rural Health Programme	Kukawa	Borno	13.095	13.815	0	
 Aduwa Health Clinic	Guzamala	Borno	12.945	13.176	0	
@@ -269,7 +342,6 @@ Pinnacle Ace Health Center	Uvwie	Delta	5.548	5.774	0
 Royal Heritage School	Uvwie	Delta	5.544	5.779	0	
 Health Center	Okpe	Delta	5.592	5.706	0	
 Primary Health Care	Yenegoa	Bayelsa	4.944	6.334	0	
-Hellomari	Konduga	Borno	11.575	12.934	2	
 Precious Height Academy	Okpe	Delta	5.590	5.710	0	
 Bioscreen Health Services Limited	Warri South	Delta	5.531	5.747	0	
 Model Primary Health Care Center	Obio/Akpor	Rivers	4.830	7.071	0	
@@ -289,11 +361,11 @@ Primary Oral Health Centre, Idikan (UCH Annex)	Ibadan North West	Oyo	7.383	3.891
 Sasa Community Health Centre	Akinyele	Oyo	7.486	3.914	0	
 Primary Health Care Kwadom	Yamaltu/Deba	Gombe	10.277	11.288	0	
 Balogun Primary Healthcare Center.	Alimosho	Lagos	6.591	3.228	0	
-SHONGO HEALTH CLINIC	Akko	Gombe	10.289	11.080	0	
+Shongo Health Clinic	Akko	Gombe	10.289	11.080	0	
 Primary Health Center Ota	Ado Odo/Ota	Ogun	6.691	3.237	0	
 Ajiua Health Centre	Girei	Adamawa	9.278	12.459	0	
 Primary Health Care Romon Sarki	Tambuwal	Sokoto	12.229	4.602	0	
-PHC ILORA	Afijio	Oyo	7.800	3.900	0	Primary Health Centre, Ilora
+Phc Ilora	Afijio	Oyo	7.800	3.900	0	Primary Health Centre, Ilora
 Lugge Health Post	Darazo	Bauchi	10.962	10.348	0	
 Twaidi Zaidi Basic Health Centre	Binji	Sokoto	13.251	4.936	0	
 Kware Comprehensive Health Centre	Kware	Sokoto	13.228	5.259	0	
@@ -667,17 +739,17 @@ Satellite Town Primary Health Care Center	Amuwo Odofin	Lagos	6.450	3.265	0
 Irede Primary Health Center	Amuwo Odofin	Lagos	6.441	3.265	0	
 Akingbade Health Bay	Ife Central	Osun	7.505	4.522	0	
 Ajegunle Primary Health care Centre	Kosofe	Lagos	6.607	3.431	0	
-PEAK HELGHT NURSERY SCHOOL	Ungongo	Kano	12.040	8.565	0	
-HEART LAND SPECIAL ACADEMY	Gwale	Kano	11.960	8.470	0	
-MADINA COLLEGE OF HEALTH SCIENCES	Gwale	Kano	11.967	8.478	0	
-DORAYI KARAMA PRIMARY HEALTH CARE	Gwale	Kano	11.965	8.477	0	
+Peak Helght Nursery School	Ungongo	Kano	12.040	8.565	0	
+Heart Land Special Academy	Gwale	Kano	11.960	8.470	0	
+Madina College Of Health Sciences	Gwale	Kano	11.967	8.478	0	
+Dorayi Karama Primary Health Care	Gwale	Kano	11.965	8.477	0	
 Babatunde Sanwo-Olu primary health care center Okerube	Alimosho	Lagos	6.529	3.239	0	
 Ago Market Health Centre, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
-YUSJIB COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY (YUSCOHTECH)	Ilorin South	Kwara	8.432	4.596	0	
+Yusjib College Of Health Sciences And Technology (Yuscohtech)	Ilorin South	Kwara	8.432	4.596	0	
 ibido health clinic	Odogbolu	Ogun	6.711	3.869	0	
 Heavens gate redeem, F Division Road, Tanke	Ilorin South	Kwara	8.499	4.588	0	
 Kamo Primary Health Care (PHC Kamo)	Kaltungo	Gombe	9.957	11.344	0	
-HEADQUARTERS	Kaduna North	Kaduna	10.608	7.442	0	
+Headquarters	Kaduna North	Kaduna	10.608	7.442	0	
 Erin-Ijesa Primary Health Centre	Oriade	Osun	7.569	4.891	0	
 Garu Islamic College Of Health Technology Bauchi	Bauchi	Bauchi	10.305	9.788	0	
 Innovative Heritage Academy	Municipal Area Council	FCT Abuja	9.046	7.587	0	
@@ -691,33 +763,14 @@ Ajaka Comprehensive Health Centre	Igalamela-Odolu	Kogi	7.176	6.825	0
 Egge Basic Health Care	Okene	Kogi	7.568	6.194	0	
 Okuta Mobile Health Clinic	Baruten	Kwara	9.219	3.197	0	
 Mother Of Perpetual Help Nursery and Primary School	Ojo	Lagos	6.459	3.182	0	
-Herbert Macaulay Street	Port-Harcourt	Rivers	4.792	7.008	1	
-Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.064	7.476	1	
 Center for Research and Preventive Health Care	Oredo	Edo	6.339	5.598	0	
-Paul Hendrickse Road	Ibadan North	Oyo	7.425	3.913	1	
-Herbert Macaulay Way	Lagos Mainland	Lagos	6.486	3.385	1	
-Herbert Macaulay Street	Mushin	Lagos	6.516	3.367	1	
-Henry Adefowope	Ikeja	Lagos	6.584	3.368	1	
-Herbert Maculay Crescent	Ikeja	Lagos	6.581	3.345	1	
-Herbert Macaulay Street	Lagos Mainland	Lagos	6.481	3.387	1	
-Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.053	7.485	1	
-Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.044	7.491	1	
-Herbert Maacaulay Way	Municipal Area Council	FCT Abuja	9.056	7.483	1	
-OSIMIKE HEALTH SERVICE	Egor	Edo	6.378	5.635	0	
 Royal Height Comprehensive College	Egor	Edo	6.364	5.630	0	
-Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.055	7.484	1	
-Herbert Macaulay Way	Lagos Mainland	Lagos	6.508	3.378	1	
-Heritage Hotel Street	Ede North	Osun	7.763	4.537	1	
-Sacred Heart Street	Enugu South	Enugu	6.422	7.488	1	
-Health Centre Street	Enugu East	Enugu	6.480	7.516	1	
-kingdom Heritage Model School Link	Enugu North	Enugu	6.443	7.505	1	
 Primary Health Centre	Ogoja	Cross River	6.498	8.553	0	
-Hezekiah Nnaji Crescent	Enugu South	Enugu	6.393	7.509	1	
 Fuskar Gabas Primary Health Centre	Kano Municipal	Kano	12.005	8.518	0	
 Geza Health Post	Minjibir	Kano	12.188	8.508	0	
 Rafin Tsamiya Health Post	Tsanyawa	Kano	12.195	8.041	0	
 Kasuwar Kuka Primary Health Centre	Kunchi	Kano	12.430	8.353	0	
-UKHIRI HEALTH CENTRE	Ikpoba-Okha	Edo	6.255	5.724	0	
+Ukhiri Health Centre	Ikpoba-Okha	Edo	6.255	5.724	0	
 Kwarkiya Health Post	Minjibir	Kano	12.247	8.596	0	
 Garke Health Post	Minjibir	Kano	12.211	8.589	0	
 Kankarawa Health Post	Minjibir	Kano	12.223	8.624	0	
@@ -1162,7 +1215,6 @@ Mwari Maternity and Child Health Center	Bogoro	Bauchi	9.669	9.575	0
 Anglican Health Clinic Sara	Tafawa-Balewa	Bauchi	9.633	9.427	0	
 Taki Health Clinic	Tafawa-Balewa	Bauchi	9.635	9.941	0	
 Lere Primary Health Center	Tafawa-Balewa	Bauchi	9.713	9.338	0	
-Herbert Orji Avenue	Eti Osa	Lagos	6.447	3.510	1	
 Gamboru Primary Health Care Center	Ngala	Borno	12.370	14.211	0	
 Gora Health Clinic	Shani	Borno	10.046	11.913	0	Gora Dispensry
 Ngollam Health Clinic	Monguno	Borno	12.530	13.699	0	
@@ -1170,37 +1222,22 @@ Masba Abbari Health Clinic	Konduga	Borno	11.599	13.020	0
 Matta Gujjari Health Clinic	Mafa	Borno	11.806	13.689	0	
 Mukhtari Health Clinic	Mafa	Borno	11.824	13.598	0	
 Ngelzarma Maternal and Child Health Center	Fune	Yobe	11.686	11.628	0	
-Health Center Road	Ikwerre	Rivers	4.918	6.910	1	
 mildu model primary heath center	Madagali	Adamawa	10.829	13.570	0	
 Charles Heary Secondary School	Ideato North	Imo	5.856	7.104	0	
 Gamboru A Health Post	Ngala	Borno	12.362	14.208	0	
-Eyin Oke Health Centre	Atakunmosa West	Osun	7.604	4.697	1	
-Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.063	7.474	1	
 Migration Health Assessment Center - Abuja	Municipal Area Council	FCT Abuja	9.086	7.472	0	
-Sacred Heart Close	Eti Osa	Lagos	6.475	3.571	1	
 Kessangarola Health Post	Nganzai	Borno	12.136	13.268	0	
-Herik Close	Ifo	Ogun	6.685	3.322	1	
-CHIBRA HEALTH POST	Bayo	Borno	10.375	11.810	0	
+Chibra Health Post	Bayo	Borno	10.375	11.810	0	
 Dambitam dispensary health post	Bayo	Borno	10.447	11.746	0	
 Jajere Maternal And Child Health Care	Fune	Yobe	11.983	11.437	0	
-Henry Fajemirokun Street	Akure North	Ondo	7.264	5.209	1	
 Gurigwa Health Clinic	Fufore	Adamawa	8.916	12.597	0	
 Essence International School African Heritage Village	Kaduna North	Kaduna	10.536	7.455	0	
 Bosso health post	Demsa	Adamawa	9.559	12.147	0	
 Logumani Health Clinic	Ngala	Borno	12.200	14.017	0	
 Degubi Model Health Centre	Nangere	Yobe	11.646	10.987	0	
 Open Heaven Academy	Obio/Akpor	Rivers	4.877	6.913	0	
-Open Heaven Church Road	Obio/Akpor	Rivers	4.877	6.913	1	
 Bannalewa Health Post	Fune	Yobe	12.051	11.513	0	
-Herbert Macauley Road	Port-Harcourt	Rivers	4.791	7.010	1	
-Hewett St	Calabar Municipal	Cross River	4.958	8.320	1	
 Comprehensive Health Center Bakeko	Katcha	Niger	8.958	6.210	0	
-Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.066	7.468	1	
-Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.068	7.463	1	
-Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.067	7.454	1	
-Cardia Heart Street	Kumbotso	Kano	11.950	8.478	1	
-CS Hedima Street	Municipal Area Council	FCT Abuja	9.045	7.552	1	
-Henry Miami Street	Oshimili North	Delta	6.220	6.649	1	
 Idikan Community Health Centre (UCH Annex)	Ibadan North West	Oyo	7.383	3.891	0	
 OAU Health Centre	Ife Central	Osun	7.519	4.516	0	
 Maternity Health Post	Yunusari	Yobe	13.158	11.672	0	
@@ -1212,12 +1249,10 @@ Dubbol Model Primary Health Care	Fune	Yobe	11.462	11.467	0
 Army Barrack Health Clinic	Nguru	Yobe	12.878	10.491	0	
 Heliport Ugborikoko	Uvwie	Delta	5.542	5.769	0	
 Calabar Municipal Government Headquarters	Calabar Municipal	Cross River	4.974	8.342	0	
-Henrik Road	Mobbar	Borno	13.075	12.508	1	
 Ngojin Health Facility	Potiskum	Yobe	11.653	11.070	0	
 Onikan Health Centre	Lagos Island	Lagos	6.445	3.405	0	
 Primary Health center	Ìkòròdú	Lagos	6.613	3.503	0	
 Ikwette Health Center	Obanliku	Cross River	6.399	9.406	0	
-E. Henry Street	Port-Harcourt	Rivers	4.761	7.034	1	
 Our Lady's Health of the Sick Hospital	Port-Harcourt	Rivers	4.801	7.019	0	
 Obussa Primary Health Center	Oju	Benue	6.830	8.295	0	
 Ebute Metta Health Centre	Lagos Mainland	Lagos	6.488	3.385	0	
@@ -1468,7 +1503,7 @@ Toungo Health Clinic	Yola North	Adamawa	9.204	12.484	0
 Dwam Health Clinic	Demsa	Adamawa	9.462	12.089	0	
 Udo Primary Health Center	Ovia South-West	Edo	6.481	5.370	0	
 MRS Barracks Primary Health Centre	Tofa	Kano	11.953	8.392	0	
-PRIMARY HEALTH CARE	Oredo	Edo	6.294	5.565	0	
+Primary Health Care	Oredo	Edo	6.294	5.565	0	
 Ugborikoko Primary Health Center	Uvwie	Delta	5.535	5.760	0	
 Maternal and New Child Health Clinic, Kofar Guga	Muhammadu Dikko Stadium	Katsina	12.990	7.585	0	
 College of Health Sciences	Warri South	Delta	5.518	5.734	0	
@@ -1795,7 +1830,6 @@ Mbila Health Clinic Mbilla Bilachi	Fufore	Adamawa	9.397	12.877	0
 Wuro Bokki Maternal And Child Health Clinic	Fufore	Adamawa	9.386	12.795	0	
 Wuro Bokki Primary Health Care Center	Fufore	Adamawa	9.391	12.795	0	
 Wurobokki Primary Health Centerc	Fufore	Adamawa	9.392	12.794	0	
-Nahuta Health Clinic	Potiskum	Yobe	11.690	11.075	0	
 Dogon Kuka B Maternal And Child Health Care	Fune	Yobe	11.910	11.059	0	
 Babande Health Post	Fune	Yobe	12.052	11.236	0	
 Bati Health Post	Fufore	Adamawa	8.886	12.460	0	
@@ -1807,7 +1841,6 @@ Gubana Maternal And Child Health Care	Fune	Yobe	11.563	11.325	0
 Nyibango Health Post	Fufore	Adamawa	9.005	12.339	0	
 Dogon Kuka A Maternal And Child Health Care	Fune	Yobe	11.668	11.414	0	
 Ogburi Health Post	Fufore	Adamawa	8.800	12.421	0	
-Dubbol Model Primary Health Care	Fune	Yobe	11.463	11.463	0	
 Maltumba Bilal Health Post	Fune	Yobe	11.706	11.326	0	
 Ugi Health Post	Fufore	Adamawa	8.981	12.434	0	
 Bula Health Facility	Fune	Yobe	11.739	11.262	0	
@@ -1959,18 +1992,15 @@ Primary Health Center	Gulani	Yobe	10.937	11.681	0
 Primary Health Clinic	Gulani	Yobe	10.931	11.680	0	
 Health Post	Gulani	Yobe	10.923	11.760	0	
 Primary Health Clinic	Gulani	Yobe	11.070	11.794	0	
-Primary Health Clinic	Gulani	Yobe	11.068	11.797	0	
 Health Post	Gulani	Yobe	11.105	11.898	0	
 Primary Health Center	Gulani	Yobe	11.151	11.878	0	
 Health Post	Gulani	Yobe	11.096	11.865	0	
 Primary Health Clinic	Gulani	Yobe	11.032	11.730	0	
 Primary Health Clinic	Gulani	Yobe	10.629	11.569	0	
-Primary Health Clinic	Gulani	Yobe	10.611	11.587	0	
 Primary Health Center	Gulani	Yobe	10.957	11.615	0	
 primary Health Center	Gulani	Yobe	10.765	11.673	0	
 Primary Health Clinic	Gulani	Yobe	10.891	11.656	0	
 Health Post	Gulani	Yobe	10.911	11.546	0	
-Primary Health Clinic	Gulani	Yobe	10.880	11.673	0	
 Health Post	Gulani	Yobe	10.877	11.600	0	
 Health Post	Gulani	Yobe	10.876	11.634	0	
 Health Post	Gulani	Yobe	10.869	11.567	0	
@@ -1995,7 +2025,7 @@ Ganchanji Primary Health Center	Jada	Adamawa	8.646	12.078	0
 Afikpo North Local Government Headquarters	Afikpo North	Ebonyi	5.891	7.925	0	
 Abeugo Health Centre	Abi	Cross River	5.880	8.003	0	
 Nassarawo Demsa Primary Health Center	Demsa	Adamawa	9.451	12.047	0	
-AGBARHA HEALTH CENTER	Ughelli North	Delta	5.534	6.074	0	
+Agbarha Health Center	Ughelli North	Delta	5.534	6.074	0	
 Balanshi Primary Health Center	Bauchi	Bauchi	10.160	10.059	0	
 Amihie Umuchu Primary Health Center	Aguata	Anambra	5.953	7.132	0	
 Isokun Primary Health Center	Oyo West	Oyo	7.847	3.921	0	
@@ -2011,11 +2041,9 @@ Kenyi Health Centre	Kagarko	Kaduna	9.542	7.924	0
 Nwofe Health Center	Izzi	Ebonyi	6.516	8.163	0	
 O. B. Lulu Briggs Health Center	Obio/Akpor	Rivers	4.902	6.909	0	
 Njimtilo Primary Health Clinic	Magumeri	Borno	11.849	13.018	0	
-Eyin Oke Health Centre	Ilesha West	Osun	7.620	4.732	1	
 College of Basic Medical and Health Sciences	Konduga	Borno	11.855	12.983	0	
 Nguwom Primary Health Center	Mafa	Borno	11.884	13.345	0	
-COLLEGE OF HEALTH TECHNOLOGY	Maiduguri	Borno	11.830	13.144	0	
-Health Centre Street	Yenegoa	Bayelsa	4.867	6.208	1	
+College Of Health Technology	Maiduguri	Borno	11.830	13.144	0	
 Iho Basic Health Center	Ikeduru	Imo	5.567	7.105	0	
 Ngoshe Primary Health Clinic	Gwoza	Borno	11.133	13.793	0	
 Tampul Primary Health Clinic	Askira-Uba	Borno	10.578	13.223	0	
@@ -2026,6 +2054,7 @@ Ihie Ukwu Primary Health Care Center	Ugwunagbo	Abia	5.007	7.309	0
 Alaglanu Primary Health Center	Ohimini	Benue	7.235	8.023	0	
 Awenabo National Model Primary Health Center	Buruku	Benue	7.679	8.932	0	
 Ihugh Primary Health Center	Vandeikya	Benue	7.008	9.025	0	
+Dankum Dutse Primary Health Clinic	Yorro	Taraba	8.816	11.586	0	
 Rawan Dutsi Maternity and  Child Health Clinic	Sandamu	Katsina	12.844	8.352	0	
 Jigawa Health Post	Mashi	Katsina	13.004	7.950	0	
 Rijiyar Tsamiya Maternity and  Child Health Clinic	Sandamu	Katsina	12.880	8.273	0	
@@ -2042,6 +2071,3 @@ Kwanjamawa Health Post	Jahun	Jigawa	12.108	9.592	0
 Safa Health Post	Auyo	Jigawa	12.239	9.861	0	
 Mu’Azu Health Post	Sule Tankakar	Jigawa	12.756	9.301	0	
 Duhuwa Primary Health Clinic	Gumel	Jigawa	12.554	9.380	0	
-Heraldome lane	Uyo	Akwa Ibom	5.009	7.903	1	
-Herini Madachi	Koko-Besse	Kebbi	11.363	4.340	2	
-Sakwa Hema	Hawul	Borno	10.525	12.193	2	

@@ -1,13 +1,44 @@
-Are-Ekiti	Irepodun/Ifelodun	Ekiti	7.710	5.300	2	Are
 Igede-Ekiti	Irepodun/Ifelodun	Ekiti	7.668	5.126	3	
+Eket	Eket	Akwa Ibom	4.642	7.926	3	
+Igbo-Ekhe	Etche	Rivers	4.949	7.084	3	
+Eku	Ethiope East	Delta	5.745	5.989	3	
+Ekeremor	Ekeremor	Bayelsa	5.055	5.780	3	
+Ise - Ekiti	Ise/Orun	Ekiti	7.463	5.428	3	
+Ekuri	Yakurr	Cross River	5.885	8.121	3	
+Ilawe-Ekiti	Ekiti South-West	Ekiti	7.599	5.106	3	Ilawe
+Ido Ekiti	Ido-Osi	Ekiti	7.847	5.181	3	
+Ekpoma	Esan West	Edo	6.742	6.139	3	
+Ikot Ekpene	Ikot Ekpene	Akwa Ibom	5.182	7.713	3	
+Ado Ekiti	Adó-Èkìtì	Ekiti	7.623	5.223	3	
+ekiti state government territory	Adó-Èkìtì	Ekiti	7.623	5.213	3	
+Ikere Ekiti	Ikere	Ekiti	7.493	5.235	3	
+Utu Etim Ekpo	Etim Ekpo	Akwa Ibom	5.004	7.612	3	
+Eko Atlantic	Eti Osa	Lagos	6.413	3.418	3	
+Orun Ekiti	Ise/Orun	Ekiti	7.457	5.433	3	
+Ekwulobia	Aguata	Anambra	6.024	7.082	3	
+Araromi Obo Ekiti	Irepodun/Ifelodun	Ekiti	7.685	5.325	3	
+Oye-Ekiti	Oye	Ekiti	7.800	5.332	3	Oye
+Otun-Ekiti	Moba	Ekiti	7.989	5.123	3	Awtun|Otun
+Ode-Ekiti	Gbonyin	Ekiti	7.648	5.549	3	Ode
+Iye-Ekiti	Ilejemeje	Ekiti	7.955	5.233	3	Aye|Iye
+Ise-Ekiti	Ise/Orun	Ekiti	7.465	5.423	3	Ise
+Ikole-Ekiti	Ikole	Ekiti	7.791	5.509	3	Ikole
+Ikere-Ekiti	Ikere	Ekiti	7.497	5.230	3	Ikare|Ikere|Ikerre
+Ijero-Ekiti	Ijero	Ekiti	7.815	5.067	3	Ijero
+Ido-Ekiti	Ido-Osi	Ekiti	7.846	5.183	3	Iddo|Iddo-Ekiti|Ido
+Emure-Ekiti	Emure	Ekiti	7.436	5.459	3	Emure
+Efon-Alaaye	Efon	Ekiti	7.656	4.922	3	Effon-Alaiye|Efon|Efon Alaaye|Efon Alaaye-Ekiti|Efon Alaye|Efon-Alaae|Efon-Alaiye
+Aramoko-Ekiti	Ekiti West	Ekiti	7.705	5.041	3	Ara|Aramoko|Araomoko Ekiti
+Ado-Ekiti	Adó-Èkìtì	Ekiti	7.623	5.221	3	Ado|Ado-Ehkiti|EKK|ado-ekiti|adw akyty|adw-aykty|lidiyeti lisano
+Trans Ekulu	Enugu East	Enugu	6.476	7.488	2	
+Ekenwan	Egor	Edo	6.360	5.580	2	
+Are-Ekiti	Irepodun/Ifelodun	Ekiti	7.710	5.300	2	Are
 Eyio Ekiti	Irepodun/Ifelodun	Ekiti	7.728	5.183	2	Igin
 Ekongahaku	Akamkpa	Cross River	5.057	8.622	2	
 Ekukata	Etung	Cross River	5.857	8.879	2	
 Edipe Eke	Olamaboro	Kogi	7.126	7.569	2	
 Ekete	Uvwie	Delta	5.506	5.803	2	
-Eket	Eket	Akwa Ibom	4.642	7.926	3	
 Afaha Eket	Eket	Akwa Ibom	4.639	7.928	2	
-Igbo-Ekhe	Etche	Rivers	4.949	7.084	3	
 Umu Ekwune	Ngor-Okpala	Imo	5.276	7.028	2	
 Eki	Lokoja	Kogi	8.627	6.277	2	
 Erinmope Ekiti	Moba	Ekiti	8.033	5.150	2	Erinmope Ekiti;Erimope;Erinnope;Erinmope
@@ -25,7 +56,6 @@ Obolo-Eke (2)	Ogbadibo	Benue	6.867	7.667	2
 Ekara Mbang	Calabar Municipal	Cross River	5.082	8.359	2	Akan Mbang
 Abule-Eko	Ìkòròdú	Lagos	6.584	3.595	2	
 Eko-Ende	Ifelodun	Osun	7.943	4.595	2	Eko Onde;Eko-Ende;Eko-Oyinde
-Eku	Ethiope East	Delta	5.745	5.989	3	
 Ekeme	Southern Ijaw	Bayelsa	4.692	5.575	2	
 Ekparakwa	Oruk Anam	Akwa Ibom	4.797	7.731	2	Ikparakwa
 Ekogboro	Ethiope East	Delta	5.820	6.122	2	
@@ -33,13 +63,11 @@ Ekwakwa	Nasarawa	Nasarawa	7.933	7.983	2	Eke
 Ekpe	Ndokwa East	Delta	5.432	6.358	2	
 Ekuro	Egbedore	Osun	7.733	4.367	2	Ekuraw
 Utu Ikot Obio Ekp	Oruk Anam	Akwa Ibom	4.728	7.599	2	
-Ekeremor	Ekeremor	Bayelsa	5.055	5.780	3	
 Ehwerhe	Ughelli North	Delta	5.608	5.896	2	Ekwese
 Ekrebuo Isiokolo	Ethiope East	Delta	5.597	5.991	2	
 Ekinrin	Ijumu	Kogi	7.832	5.866	2	Ikinri
 Osi Ekiti	Ido-Osi	Ekiti	7.788	5.155	2	
 Ire-Ekiti	Ikole	Ekiti	7.739	5.397	2	Ire
-Ise - Ekiti	Ise/Orun	Ekiti	7.463	5.428	3	
 Ekwotso	Etsako East	Edo	7.061	6.592	2	
 Ekpan	Uvwie	Delta	5.562	5.740	2	
 Ekeni	Southern Ijaw	Bayelsa	4.692	5.575	2	
@@ -53,7 +81,6 @@ Ekiadolor	Ovia North-East	Edo	6.492	5.588	2	Ikiadolor;Iguiodia
 Ekpene Edi	Esit Eket	Akwa Ibom	4.632	8.113	2	Afaha Ekpene Edi
 Ekeke	Owan East	Edo	6.850	6.117	2	Akeke
 Eke	Olamaboro	Kogi	7.167	7.483	2	Ike
-Aramoko-Ekiti	Ekiti West	Ekiti	7.707	5.041	2	
 Ijan-Ekiti	Gbonyin	Ekiti	7.623	5.389	2	
 Ekwegbe	Igbo-Etiti	Enugu	6.715	7.428	2	Akwebe
 Ekenekiri	Degema	Rivers	4.805	6.744	2	
@@ -68,10 +95,8 @@ Ekiambiri	Southern Ijaw	Bayelsa	4.665	6.093	2	Ikianbiri
 Ekanakiri	Nembe	Bayelsa	4.433	6.319	2	Ekemakiri
 Isan-Ekiti	Oye	Ekiti	7.921	5.319	2	Ishan
 Awo Ekiti	Irepodun/Ifelodun	Ekiti	7.714	5.151	2	
-Ekuri	Yakurr	Cross River	5.885	8.121	3	
 Ekimaya	Etung	Cross River	5.854	8.723	2	Akimaya
 Idao-Ekiti	Ijero	Ekiti	7.829	5.088	2	
-Ilawe-Ekiti	Ekiti South-West	Ekiti	7.599	5.106	3	Ilawe
 Ekokor 2	Warri South	Delta	5.685	5.651	2	
 Ekpan-Ovu	Ethiope East	Delta	5.746	5.902	2	
 Ikosin	Odo Otin	Osun	8.033	4.617	2	Ekosin
@@ -85,14 +110,12 @@ Ekwuoke	Ngor-Okpala	Imo	5.301	7.037	2
 Utu Ikot Obio Ekpo	Oruk Anam	Akwa Ibom	4.728	7.599	2	
 Ekwilema	Akuku Toru	Rivers	4.599	6.756	2	
 Ilemeso Ekiti	Oye	Ekiti	7.956	5.366	2	Elemosho
-Ido Ekiti	Ido-Osi	Ekiti	7.847	5.181	3	
 Aye Ekiti	Ido-Osi	Ekiti	7.804	5.221	2	Aye
 Iko Ekperem	Akamkpa	Cross River	5.636	8.198	2	
 Iyin-Ekiti	Irepodun/Ifelodun	Ekiti	7.660	5.164	2	
 Afao-Ekiti	Irepodun/Ifelodun	Ekiti	7.697	5.312	2	Afao
 Agoi Ekpo	Yakurr	Cross River	5.837	8.262	2	Agoi-Ikpo
 Ekuri Awai	Akamkpa	Cross River	5.731	8.392	2	
-Emure-Ekiti	Emure	Ekiti	7.436	5.459	2	Emure
 Ekusa	Odo Otin	Osun	8.011	4.655	2	
 Ikot Ekpan	Nsit Ubium	Akwa Ibom	4.710	7.917	2	
 Ekigwe Camp	Ile Oluji/Okeigbo	Ondo	7.279	5.037	2	
@@ -104,7 +127,6 @@ Utu Ikot Obio Ekpe	Oruk Anam	Akwa Ibom	4.728	7.599	2
 Gbege Eke	Warri North	Delta	5.881	4.991	2	Eke
 Ekpe Ajaokotie	Warri North	Delta	5.873	5.557	2	Ajakotie
 Ekowe	Southern Ijaw	Bayelsa	4.700	6.086	2	
-Ijero-Ekiti	Ijero	Ekiti	7.816	5.067	2	
 Itapa-Ekiti	Oye	Ekiti	7.817	5.383	2	Itapa
 Ekpene	Odukpani	Cross River	5.258	8.122	2	
 Ekong	Akamkpa	Cross River	5.275	8.556	2	
@@ -114,8 +136,6 @@ Ekowe	Sagbama	Bayelsa	5.285	6.417	2
 Ekperigadagbene	Southern Ijaw	Bayelsa	4.798	5.997	2	
 Ama-Ekut	Andoni	Rivers	4.449	7.485	2	
 Ibiaku Ikot Ekpenyong	Mkpat Enin	Akwa Ibom	4.807	7.778	2	Ikot Ekpenyong;Ibiaku Ikotekpenyon
-Ekpoma	Esan West	Edo	6.742	6.139	3	
-Ikot Ekpene	Ikot Ekpene	Akwa Ibom	5.182	7.713	3	
 Utu Ikot Ekpenyong	Ikot Ekpene	Akwa Ibom	5.167	7.750	2	Utu Ikot
 Ekagi	Katcha	Niger	8.800	6.334	2	
 Ekudaji	Ifelodun	Kwara	8.420	4.964	2	
@@ -123,7 +143,6 @@ Ekpagi	Agaie	Niger	9.004	6.390	2
 Ekeke	Yenegoa	Bayelsa	4.930	6.296	2	
 Eketube	Abakaliki	Ebonyi	6.209	8.210	2	Ekepobe
 Ekau	Southern Ijaw	Bayelsa	4.700	6.086	2	
-Ikere-Ekiti	Ikere	Ekiti	7.491	5.232	2	Ikerre;Ikare;Ikere
 Ekraka	Ethiope East	Delta	5.691	5.998	2	
 Ikot Ekpuk	Ikot Abasi	Akwa Ibom	4.623	7.629	2	Ikot Okpok
 Ekwoke	Andoni	Rivers	4.494	7.362	2	
@@ -136,18 +155,8 @@ Okosora	Ikom	Cross River	6.038	8.531	2	Ekosaro
 Ekpene Esuk	Akpabuyo	Cross River	4.806	8.425	2	Ekpene Esuk Essighi
 Oko-Eko	Ijebu East	Ogun	6.764	4.130	2	Alakuko;Alaluko;Alakuka
 Ekpan	Uvwie	Delta	5.567	5.750	2	
-Ado Ekiti	Adó-Èkìtì	Ekiti	7.623	5.223	3	
-Oyekpa primary school, Ekpesa	Akoko-Edo	Edo	7.424	6.074	0	
-Ekhaguere Primary School	Oredo	Edo	6.296	5.600	0	
-All Saints Ekulu Nursery & Primary School	Enugu North	Enugu	6.454	7.485	0	
-Trans Ekulu Girls Secondary School	Enugu East	Enugu	6.477	7.502	0	
-Trans Ekulu Primary School	Enugu East	Enugu	6.476	7.495	0	
 Ekang	Akamkpa	Cross River	5.677	8.843	2	
 Ekok	Etung	Cross River	5.807	8.854	2	
-ekiti state government territory	Adó-Èkìtì	Ekiti	7.623	5.213	3	
-Ikere Ekiti	Ikere	Ekiti	7.493	5.235	3	
-Ekeamainyi Market Amainyi	Obowo	Imo	5.586	7.386	0	
-Ekeikpa Market Amainyi	Ihitte/Uboma	Imo	5.603	7.381	0	
 Ekpa	Nasarawa	Nasarawa	8.004	7.861	2	
 Eka Uruk Esiet	Etim Ekpo	Akwa Ibom	5.026	7.666	2	
 Ekpenyong Atai No.2	Essien Udim	Akwa Ibom	5.063	7.677	2	
@@ -159,45 +168,398 @@ Ikot Ekefere Okon	Essien Udim	Akwa Ibom	5.058	7.599	2
 Ikot Ekefere	Essien Udim	Akwa Ibom	5.064	7.598	2	
 Ikot Ekpenyong	Essien Udim	Akwa Ibom	5.067	7.611	2	
 Ntak Ekpenyong	Essien Udim	Akwa Ibom	5.070	7.682	2	
-Utu Etim Ekpo	Etim Ekpo	Akwa Ibom	5.004	7.612	3	
-Eke Ngwuru	Aboh-Mbaise	Imo	5.495	7.262	0	
 Ekori Beach	Yakurr	Cross River	5.928	8.104	2	
-Eki 1 Global Energy Filling Station	Ughelli North	Delta	5.552	5.912	0	
-Ekpan Secondary School	Uvwie	Delta	5.563	5.747	0	
-Eko Atlantic	Eti Osa	Lagos	6.413	3.418	3	
-Igueben-Ekhen Station	Iguegben	Edo	6.620	6.260	0	
 Eke	Ogbaru	Anambra	6.084	6.734	2	
-Federal Polytechnic, Ekowe	Southern Ijaw	Bayelsa	4.710	6.093	0	
-Ekeki Motor Park	Yenegoa	Bayelsa	4.929	6.295	0	
-baptist day school, ekundayo	Ifo	Ogun	6.819	3.157	0	
-Trans-Ekulu	Enugu East	Enugu	6.478	7.494	0	
-Eke Obinagu Market	Enugu East	Enugu	6.469	7.601	0	
 Ekpeniwhare	Sagbama	Bayelsa	5.318	6.470	2	
 Ekeregbesi	Isoko South	Delta	5.313	6.311	2	
 Ekpena	Ahoada East	Rivers	5.083	6.668	2	
 Ekpeaga	Ogba/Egbema/Ndoni	Rivers	5.410	6.729	2	
-Ekorhon Town Hall	Udu	Delta	5.491	5.757	0	
 Ekrejeba	Ughelli North	Delta	5.515	6.031	2	
 Ekpe	Isoko North	Delta	5.486	6.375	2	
 Eke Poro	Warri North	Delta	5.829	5.024	2	
 Eke Tie	Warri North	Delta	5.845	5.020	2	
-Eke-Ahiara Junction	Ahiazu-Mbaise	Imo	5.525	7.267	0	
 Ekurede-itsekiri	Warri South	Delta	5.526	5.730	2	
 Ekurede-Urhobo	Warri South	Delta	5.533	5.728	2	
-Ekwo Market Obile	Ohaji/Egbema	Imo	5.388	6.773	0	
 Eka	Ezza South	Ebonyi	6.176	8.011	2	
-Ekpebiwei Primary School Ogulagha	Burutu	Delta	5.361	5.346	0	
-Ekiugbo Grammer School	Ughelli North	Delta	5.517	5.971	0	
 Ekumugbene	Burutu	Delta	5.159	5.565	2	
 Ekogbene	Burutu	Delta	5.152	5.568	2	
-Orun Ekiti	Ise/Orun	Ekiti	7.457	5.433	3	
 Eke	Warri North	Delta	5.783	5.071	2	
 Ekeagu	Ezeagu	Enugu	6.351	7.366	2	
+Trans-Ekulu	Enugu East	Enugu	6.479	7.488	2	
 Trans-Ekulu Extension	Enugu East	Enugu	6.499	7.489	2	
-Ekwulobia	Aguata	Anambra	6.024	7.082	3	
-Lord Ekong's PS 1	Ibesikpo Asutan	Akwa Ibom	4.964	7.986	0	
-E.Ekesons & Bros Transport Nig. Ltd	Municipal Area Council	FCT Abuja	9.067	7.444	0	
 Eko Akete	Ibeju Lekki	Lagos	6.461	3.683	2	
+Ngwu-Agu Layout Trans-Ekulu	Enugu North	Enugu	6.467	7.469	2	
+Trans-Ekulu	Enugu North	Enugu	6.470	7.481	2	
+Eko Atlantic	Eti Osa	Lagos	6.414	3.457	2	
+Ekurede Itsekiri Community	Warri South	Delta	5.521	5.730	2	
+Esit Eket	Esit Eket	Akwa Ibom	4.643	8.076	2	
+Eket	Eket	Akwa Ibom	4.636	7.958	2	
+Etim Ekpo	Etim Ekpo	Akwa Ibom	4.955	7.574	2	
+Ekwusigo	Ekwusigo	Anambra	5.988	6.840	2	
+Adó-Èkìtì	Adó-Èkìtì	Ekiti	7.605	5.284	2	
+Ekiti East	Ekiti East	Ekiti	7.721	5.660	2	
+Ekiti	Ekiti	Kwara	8.112	5.344	2	
+Ekiti South-West	Ekiti South-West	Ekiti	7.523	5.033	2	
+Ekiti West	Ekiti West	Ekiti	7.721	5.034	2	
+Ekeremor	Ekeremor	Bayelsa	4.944	5.710	2	
+Umu Ekewo	Omumma	Rivers	5.117	7.250	2	
+Umu Eke Nne	Isiala-Ngwa North	Abia	5.243	7.291	2	
+Ukem Ikot Ekpo Ene	Odukpani	Cross River	5.073	8.218	2	
+Pabi-Ekun	Akinyele	Oyo	7.549	4.009	2	Pabi Ekum|PabiEkum
+Osun Ekiti	Moba	Ekiti	8.017	5.067	2	Awsun|Osan
+Opu Ekweboko	Degema	Rivers	4.688	6.961	2	
+Omuo-Ekiti	Ekiti East	Ekiti	7.758	5.722	2	Omuo|Omuo-Kota
+Omu-Ekene	Ibiono Ibom	Akwa Ibom	5.297	7.894	2	
+Ofia Ekpone	Warri South	Delta	5.729	5.619	2	
+Odo-Eku	Isin	Kwara	8.335	4.980	2	Odo Eku|OdoEku
+Odo Ekerin	Ijebu North	Ogun	6.967	3.883	2	
+Obot Ekpene	Odukpani	Cross River	5.249	8.166	2	
+Obolo-Eke (1)	Udenu	Enugu	6.883	7.633	2	Obolo Eke
+Obolo-Eke	Udenu	Enugu	6.872	7.640	2	
+Obi Ekwensu	Osisioma Ngwa	Abia	5.300	7.383	2	
+Nto Ekpe	Obot Akara	Akwa Ibom	5.282	7.566	2	
+Ndi-Ekete	Arochukwu	Abia	5.541	7.734	2	
+Nda Ekom	Ikot Abasi	Akwa Ibom	4.671	7.661	2	
+Kala Ekweboko	Degema	Rivers	4.692	6.962	2	
+Ineme-Ekpe	Akoko-Edo	Edo	7.418	6.174	2	
+Ikot Okon Ekpri Iwon	Akpabuyo	Cross River	4.853	8.515	2	
+Ikot Obio Eket	Onna	Akwa Ibom	4.710	7.875	2	
+Ikot-Ekwere	Ibiono Ibom	Akwa Ibom	5.254	7.935	2	
+Ikot Ekwere	Nsit Ubium	Akwa Ibom	4.784	7.970	2	
+Ikot Ekpow	Mkpat Enin	Akwa Ibom	4.845	7.784	2	
+Ikot Ekpo Eyo	Akpabuyo	Cross River	4.887	8.396	2	
+Ikot Ekpo	Calabar Municipal	Cross River	5.076	8.350	2	
+Ikot Ekpene Udo	Nsit Ubium	Akwa Ibom	4.692	7.943	2	
+Ikot Ekpe	Ibiono Ibom	Akwa Ibom	5.277	7.834	2	
+Ikot Ekpe	Uyo	Akwa Ibom	5.015	7.888	2	
+Ikot Ekot	Etinan	Akwa Ibom	4.730	7.815	2	
+Iko Eket	Eket	Akwa Ibom	4.640	7.980	2	
+Ikot Ekan	Etinan	Akwa Ibom	4.914	7.843	2	
+Ikot Ebit Ekpe	Abak	Akwa Ibom	5.052	7.775	2	
+Ikot Akpa Ekan	Uruan	Akwa Ibom	4.969	8.015	2	
+Ibiaku Esa Ekpo	Mkpat Enin	Akwa Ibom	4.701	7.783	2	
+Ibiabong Eki	Biase	Cross River	5.293	8.078	2	
+Etak Ekom	Ogoja	Cross River	6.380	8.583	2	Etak-Ekon
+Erinmope-Ekiti	Moba	Ekiti	8.046	5.145	2	Erimope|Erinmope|Erinmope Ekiti|Erinnope
+Emin Ekpon	Abi	Cross River	5.929	8.026	2	
+Ekwuti	Katcha	Niger	8.914	6.160	2	
+Ekwuroko	Igalamela-Odolu	Kogi	6.920	7.151	2	
+Ekwerazu	Ahiazu-Mbaise	Imo	5.543	7.229	2	Ekwurazu
+Ekwuoke	Ngor-Okpala	Imo	5.300	7.033	2	
+Ekwulumili	Nnewi South	Anambra	5.977	7.019	2	
+Ekelemo	Akuku Toru	Rivers	4.599	6.756	2	Ekwilema
+Ekwerazu-Ogwa	Mbaitoli	Imo	5.613	7.090	2	
+Ekwereku	Abi	Cross River	5.999	8.031	2	Ekwere Kunta|Ekwerekunta
+Ekwere Azu	Obi Ngwa	Abia	5.239	7.527	2	
+Ekweme-Kalama	Degema	Rivers	4.713	6.931	2	
+Ekwe	Isu	Imo	5.686	7.047	2	
+Ekuso	Ori Ire	Oyo	8.476	4.091	2	
+Ekushe	Birnin Gwari	Kaduna	10.467	6.117	2	
+Ekuro	Egbedore	Osun	7.730	4.364	2	Ekuraw
+Ekuri Owai	Akamkpa	Cross River	5.795	8.431	2	
+Ekunuga	Abua/Odual	Rivers	4.850	6.533	2	
+Ekundayo	Ifo	Ogun	6.817	3.167	2	
+Ekun	Ori Ire	Oyo	8.067	4.081	2	
+Ekumugbene	Burutu	Delta	5.159	5.562	2	
+Ekumtak	Ogoja	Cross River	6.545	8.883	2	
+Umusa-Dege	Ndokwa West	Delta	6.012	6.290	2	Ekum Osadegbe
+Ekuma-Abavo	Ika South	Delta	6.157	6.157	2	
+Ekule	Moro	Kwara	8.782	4.237	2	
+Ekulama	Akuku Toru	Rivers	4.573	6.746	2	
+Ekuku	Oluyole	Oyo	7.082	3.765	2	
+Ekuaro	Ogoja	Cross River	6.477	8.578	2	
+Eku	Asa	Kwara	8.475	4.367	2	
+Eku	Guma	Benue	7.914	8.820	2	
+Eku	Ethiope East	Delta	5.767	6.050	2	
+Ekrokpe	Ughelli South	Delta	5.522	5.892	2	
+Ekrejegbe	Ughelli South	Delta	5.503	5.897	2	
+Ekpugeromo	Ogoja	Cross River	6.424	8.517	2	
+Ekpon	Uhunmwonde	Edo	6.719	5.945	2	
+Ekpon	Iguegben	Edo	6.412	6.267	2	Ekpo
+Ekpokpa	Ikom	Cross River	6.000	8.616	2	
+Ekpiri	Ikwuano	Abia	5.345	7.598	2	
+Ekpeshi	Akoko-Edo	Edo	7.146	6.184	2	
+Ekpesa	Akoko-Edo	Edo	7.409	6.076	2	
+Ekperinyi	Yala	Cross River	6.738	8.834	2	
+Ekpene Ukim	Nsit Ubium	Akwa Ibom	4.733	8.019	2	
+Ekpene Tete	Akpabuyo	Cross River	4.931	8.431	2	
+Ekpene Obo	Esit Eket	Akwa Ibom	4.658	8.028	2	
+Ekpene Ikpan	Etinan	Akwa Ibom	4.967	7.843	2	
+Ekpene Ebom	Ikono	Akwa Ibom	5.188	7.782	2	
+Ekpemiong	Ikono	Akwa Ibom	5.095	7.849	2	
+Ekpemi	Akoko South East	Ondo	7.456	5.862	2	
+Ekperikiri	Ogbia	Bayelsa	4.693	6.243	2	Ekpeinbiri
+Ekparikabo	Bekwarra	Cross River	6.674	8.978	2	
+Ekpari	Ogoja	Cross River	6.487	8.693	2	
+Ekpag	Agaie	Niger	9.004	6.390	2	Ekpagi
+Ekpa	Gwagwalada	FCT Abuja	9.091	7.207	2	
+Ekpa	Nasarawa	Nasarawa	8.001	7.841	2	
+Ekose	Uhunmwonde	Edo	6.426	5.750	2	
+Ekosa	Ikpoba-Okha	Edo	6.124	5.664	2	
+Ekopapo Yagi	Pategi	Kwara	8.742	5.984	2	Ekopapoyagi
+Eko-Onde	Ifelodun	Osun	7.942	4.595	2	Eko Onde|Eko-Ende|Eko-Oyinde
+Eko-Okoh	Esan South-East	Edo	6.738	6.591	2	
+Eko-Oboye	Esan South-East	Edo	6.561	6.561	2	
+Ekonobore	Ovia North-East	Edo	6.565	5.663	2	
+Ekongahaku	Akamkpa	Cross River	5.057	8.644	2	
+Ekon	Akoko-Edo	Edo	7.456	6.042	2	
+Ekomodda	Esan North-East	Edo	6.699	6.306	2	
+Ekom Agoi	Yakurr	Cross River	5.866	8.227	2	
+Ekoli	Edda	Ebonyi	5.750	7.847	2	
+Ekole	Ovia North-East	Edo	6.544	5.531	2	
+Ekoi-Ikot Udofe	Ini	Akwa Ibom	5.389	7.738	2	
+Eko-Ibadin	Iguegben	Edo	6.643	6.281	2	
+Ekoi	Ini	Akwa Ibom	5.391	7.723	2	
+Ekogi	Gbako	Niger	9.201	6.015	2	
+Eko-Bekor	Esan South-East	Edo	6.677	6.424	2	
+Ekoarmufua	Uhunmwonde	Edo	6.537	5.753	2	
+Eko-Ajala	Ifelodun	Osun	7.943	4.621	2	Eko Ajala
+Eko	Oshimili North	Delta	6.485	6.641	2	
+Oke	Ethiope East	Delta	5.730	5.896	2	Eko
+Ekit-Itam	Uruan	Akwa Ibom	5.113	7.972	2	
+Ekinigbene	Southern Ijaw	Bayelsa	4.683	5.683	2	
+Ekim Ito	Odukpani	Cross River	5.331	7.972	2	
+Ekim Enen	Uruan	Akwa Ibom	4.972	8.026	2	
+Ekim Ebebit	Odukpani	Cross River	5.225	8.117	2	
+Ekim	Ibiono Ibom	Akwa Ibom	5.226	7.898	2	
+Ekim	Itu	Akwa Ibom	5.142	7.962	2	
+Ekim	Mkpat Enin	Akwa Ibom	4.627	7.754	2	
+Ekiambiri	Southern Ijaw	Bayelsa	4.665	6.096	2	Ikianbiri
+Ekhor	Uhunmwonde	Edo	6.333	5.817	2	
+Ekeya	Okobo	Akwa Ibom	4.879	8.144	2	Idibi Enen Ekeya
+Eke-Ugwu	Ezeagu	Enugu	6.410	7.301	2	
+Eketube	Abakaliki	Ebonyi	6.214	8.178	2	Ekepobe
+Eketekwe	Yala	Cross River	6.535	8.408	2	
+Ekete	Udu	Delta	5.503	5.804	2	
+Ekerin	Odeda	Ogun	7.395	3.453	2	
+Ekerin	Abeokuta North	Ogun	7.148	3.165	2	
+Ekerigwe	Ebonyi	Ebonyi	6.432	8.155	2	
+Ekeola	Akinyele	Oyo	7.608	3.953	2	
+Ekenge	Odukpani	Cross River	5.130	8.223	2	
+Eke-Moha	Ezza South	Ebonyi	6.161	8.034	2	
+Ekemakiri	Nembe	Bayelsa	4.432	6.320	2	Ekanakiri|Ekernakiri
+Ekeje	Ìsẹ́yìn	Oyo	7.905	3.505	2	
+Ekeje	Oyo East	Oyo	7.871	4.018	2	
+Ekeje	Oyo East	Oyo	7.858	4.083	2	
+Ekeh	Okpokwu	Benue	7.140	7.904	2	
+Ekeffe	Oruk Anam	Akwa Ibom	4.775	7.547	2	
+Ekefa	Atiba	Oyo	8.017	4.007	2	
+Ekefa	Oyo West	Oyo	7.844	3.755	2	
+Ekefa	Akinyele	Oyo	7.608	3.981	2	
+Ekebedi	Ikwuano	Abia	5.382	7.580	2	
+Eke Aro	Osisioma Ngwa	Abia	5.216	7.310	2	
+Eke Amanenga	Olamaboro	Kogi	7.144	7.309	2	
+Ekeakoto	Iwajowa	Oyo	7.920	3.155	2	
+Eke	Okpokwu	Benue	7.201	7.780	2	
+Eke	Ogbadibo	Benue	7.062	7.633	2	
+Eke	Udi	Enugu	6.458	7.359	2	
+Eke	Warri North	Delta	5.878	4.986	2	Gbege Eke
+Ekas	Ussa	Taraba	7.210	10.020	2	
+Ekamtonofo	Ikom	Cross River	6.062	8.633	2	
+Ekakpamre	Ughelli South	Delta	5.518	5.904	2	
+Eka Ekong	Ogoja	Cross River	6.412	8.531	2	Ekakong
+Eka	Gwagwalada	FCT Abuja	9.027	7.060	2	
+Eka	Abeokuta North	Ogun	7.126	3.266	2	
+Ehwerhe	Ughelli North	Delta	5.609	5.895	2	Ekwese
+Edipe Eke	Olamaboro	Kogi	7.160	7.559	2	
+Baba-Eko	Ori Ire	Oyo	8.518	4.200	2	Baba Eko
+Aye Ekan	Moba	Ekiti	8.050	5.117	2	
+Atan Eki	Odukpani	Cross River	5.286	8.039	2	
+Atabrikang Ekeme	Eastern Obolo	Akwa Ibom	4.528	7.792	2	
+Ameke	Umuahia North	Abia	5.564	7.514	2	Ama Eke
+Ama-Ekpu	Edda	Ebonyi	5.823	7.851	2	
+Ama-Ekpu	Bende	Abia	5.785	7.713	2	
+Ama Ekpu	Isiala-Ngwa North	Abia	5.333	7.333	2	
+Ama-Eke	Bende	Abia	5.751	7.686	2	
+Ekuku-Agbor	Ika South	Delta	6.082	6.308	2	Akuku-Agbo|Akuku-Agbor
+Aka Ekpeme	Ikono	Akwa Ibom	5.173	7.792	2	Aka Ekpene
+Aka Ekpeme	Ikono	Akwa Ibom	5.131	7.829	2	
+Afaha Eket	Eket	Akwa Ibom	4.632	7.934	2	
+Ade-Eko	Ìsẹ́yìn	Oyo	7.663	3.370	2	Ade Eko|AdeEko
+Ekoro	Alimosho	Lagos	6.645	3.291	2	
+Rumu-Eketu	Ikwerre	Rivers	4.989	6.918	2	Umu-Eketu
+Rumu-Eket	Ikwerre	Rivers	4.986	6.927	2	Rumu-Eke|Umu-Eket
+Ahiaeke	Emuoha	Rivers	4.931	6.827	2	Ahia-Eke
+Ekerin	Ido	Oyo	7.461	3.832	2	
+Ekesitoko	Nembe	Bayelsa	4.553	6.378	2	
+Old Ekunuga	Abua/Odual	Rivers	4.870	6.485	2	
+Ekenfa	Yenegoa	Bayelsa	4.997	6.376	2	
+Ekpikakiri	Brass	Bayelsa	4.474	6.505	2	
+Ekutche	Emuoha	Rivers	4.991	6.685	2	
+Ekunchoro	Emuoha	Rivers	4.948	6.730	2	Ekunchara-Omofo
+Oko-Eko	Ìkòròdú	Lagos	6.582	3.594	2	
+Omi-Eku	Adó-Èkìtì	Ekiti	7.585	5.263	2	
+Ita-Eku	Adó-Èkìtì	Ekiti	7.601	5.244	2	
+Omu-Ekiti	Oye	Ekiti	7.884	5.414	2	
+Ikot Ekawan	Odukpani	Cross River	5.003	8.252	2	
+Ikot Efiok-Ekpenyong	Odukpani	Cross River	5.054	8.176	2	
+Ekimbe	Odukpani	Cross River	5.071	8.244	2	
+Ekpri Adiabo	Odukpani	Cross River	5.115	8.238	2	
+Ekenge Beach	Odukpani	Cross River	5.134	8.236	2	
+Ikot Essien Ekpe Inyang	Odukpani	Cross River	5.178	8.072	2	
+Akwa-Ekim	Odukpani	Cross River	5.200	8.154	2	
+Ikot Ekanem Inyang	Odukpani	Cross River	5.216	8.237	2	
+Ekpene Itu	Odukpani	Cross River	5.244	8.058	2	
+Esuk Atan Eki	Odukpani	Cross River	5.303	8.012	2	
+Ekukunela	Ikom	Cross River	5.937	8.536	2	
+Ekoti	Yala	Cross River	6.713	8.390	2	
+Ekunpa	Boki	Cross River	6.490	8.809	2	
+Esuk Ekpo Eyo	Calabar Municipal	Cross River	4.943	8.393	2	
+Ekpri Ikang	Akpabuyo	Cross River	4.830	8.514	2	
+Ikot Ekpot	Nsit Atai	Akwa Ibom	4.783	8.003	2	
+Udung Ekim	Udung Uko	Akwa Ibom	4.758	8.214	2	
+Aba Ekpe	Esit Eket	Akwa Ibom	4.639	8.004	2	
+Afaha Ekpene Edi	Esit Eket	Akwa Ibom	4.651	8.111	2	
+Oke-Eki	Ijebu North East	Ogun	6.862	4.054	2	
+Erinje-Ekeji	Okitipupa	Ondo	6.403	4.755	2	
+Ekroda	Ethiope West	Delta	5.852	5.838	2	
+Ekpan	Ethiope East	Delta	5.747	5.901	2	Ovu
+Ekpagha	Ethiope East	Delta	5.673	5.900	2	
+Ekpagha	Ethiope East	Delta	5.672	5.975	2	
+Ekpan	Uvwie	Delta	5.569	5.740	2	Tori
+Ekiugbo	Ughelli North	Delta	5.512	5.977	2	
+Ekrota	Ughelli South	Delta	5.422	5.806	2	
+Ekorogbene	Burutu	Delta	5.356	5.629	2	
+Ekpekpe	Ughelli South	Delta	5.331	5.816	2	
+Ekpotiegbene	Burutu	Delta	5.153	5.637	2	
+Ekpogegbene	Burutu	Delta	5.136	5.520	2	
+Friday Eko	Ekeremor	Bayelsa	4.947	5.616	2	
+Ekengbene	Ekeremor	Bayelsa	4.987	5.683	2	
+Ekembagbene	Ekeremor	Bayelsa	4.795	5.671	2	
+Ekeogbene	Southern Ijaw	Bayelsa	4.687	5.731	2	
+Nkpukpu-Ekerenta	Oyigbo	Rivers	4.857	7.412	2	
+Ekwoke	Andoni	Rivers	4.494	7.367	2	
+Ayama-Ekede	Andoni	Rivers	4.485	7.440	2	
+Ama-Ekut	Andoni	Rivers	4.447	7.483	2	
+Ikot Use Ekong	Eket	Akwa Ibom	4.661	7.976	2	
+Eka Nung Ukim	Mkpat Enin	Akwa Ibom	4.710	7.687	2	
+Ikot Ete Ekpo	Etinan	Akwa Ibom	4.722	7.862	2	
+Ikot Ekop	Mkpat Enin	Akwa Ibom	4.675	7.755	2	
+Ikot Ekpuk	Mkpat Enin	Akwa Ibom	4.664	7.753	2	
+Atan Eka Eko	Ikot Abasi	Akwa Ibom	4.630	7.614	2	
+Ikot Aba Ekim	Mkpat Enin	Akwa Ibom	4.627	7.747	2	
+Ikot Obio Ekpong	Mkpat Enin	Akwa Ibom	4.638	7.796	2	
+Ikot Ekong	Mkpat Enin	Akwa Ibom	4.626	7.793	2	
+Umu Ekwule	Umuahia North	Abia	5.593	7.456	2	
+Ekwuot-Edem-Edet	Ikono	Akwa Ibom	5.278	7.756	2	
+Ikot Ekwere	Ibiono Ibom	Akwa Ibom	5.236	7.934	2	
+Ekoi-Ikot Nyoho	Ini	Akwa Ibom	5.381	7.736	2	
+Ekim	Odukpani	Cross River	5.339	7.966	2	
+Asuk-Ekpo	Ibiono Ibom	Akwa Ibom	5.356	7.873	2	
+Ndi-Eke	Ikwuano	Abia	5.350	7.654	2	
+Ekpo-Etor	Obot Akara	Akwa Ibom	5.288	7.570	2	
+Nto-Ekpu	Obot Akara	Akwa Ibom	5.260	7.665	2	
+Ikot-Ekpenyon	Ibiono Ibom	Akwa Ibom	5.266	7.887	2	
+Ekoi	Ibiono Ibom	Akwa Ibom	5.271	7.929	2	
+Ikot Ekpenyon	Ibiono Ibom	Akwa Ibom	5.192	7.919	2	
+Ikot Ekpot	Ibiono Ibom	Akwa Ibom	5.172	7.932	2	
+Ikot Inyang Ekpe	Ibiono Ibom	Akwa Ibom	5.155	7.844	2	
+Ekpene Ediene	Ikono	Akwa Ibom	5.178	7.804	2	
+Ikot Akpa Ekpuk	Ikono	Akwa Ibom	5.164	7.761	2	
+Ikot Udo Ekpat	Essien Udim	Akwa Ibom	5.174	7.633	2	
+Ekpenyong Ufum	Essien Udim	Akwa Ibom	5.159	7.584	2	
+Ikot Ekpuk	Itu	Akwa Ibom	5.053	7.900	2	
+Ikot Ekpuk	Itu	Akwa Ibom	5.051	7.906	2	
+Ekpiri Nsukara	Uyo	Akwa Ibom	5.034	7.962	2	
+Ekit-Itam	Itu	Akwa Ibom	5.046	7.878	2	
+Ikot Ekop	Ibiono Ibom	Akwa Ibom	5.054	7.861	2	
+Utu Etim Ekpo	Etim Ekpo	Akwa Ibom	5.001	7.602	2	
+Ekpe Obio	Uyo	Akwa Ibom	5.012	7.880	2	
+Ama-Ekpu	Ohafia	Abia	5.650	7.834	2	
+Eko-Ewuh	Esan Central	Edo	6.768	6.238	2	Eko
+Oriakhi Camp	Uhunmwonde	Edo	6.647	6.031	2	Ekana
+Eko-Ekpon	Iguegben	Edo	6.412	6.290	2	
+Owa-Eke	Ika North East	Delta	6.226	6.217	2	Owa-Ekel
+Okoh Ekrudu	Ethiope East	Delta	5.708	6.020	2	
+Ekreka	Isoko North	Delta	5.532	6.163	2	
+Ekwusigo	Ekwusigo	Anambra	5.971	6.835	2	
+Ekpara	Nnewi South	Anambra	5.983	6.972	2	
+Ekuigbo	Isoko North	Delta	5.479	6.076	2	
+Utuechi	Sagbama	Bayelsa	5.313	6.494	2	Ekperiware
+Ekregbesi	Isoko South	Delta	5.316	6.314	2	
+Ekorkore	Sagbama	Bayelsa	5.283	6.336	2	
+Ekuku	Ndokwa East	Delta	5.804	6.611	2	
+Ekpete Oma Camp	Ndokwa East	Delta	5.739	6.610	2	
+Ekenebiri	Patani	Delta	5.153	6.085	2	
+Ekeugba	Ohaji/Egbema	Imo	5.499	6.754	2	
+Ekpeazizi	Ogba/Egbema/Ndoni	Rivers	5.424	6.731	2	
+Ekpemgbede	Ogba/Egbema/Ndoni	Rivers	5.387	6.726	2	
+Ekata	Ahoada East	Rivers	5.032	6.607	2	
+Esit Eket	Esit Eket	Akwa Ibom	4.631	8.071	2	Agbegbe Ijoba Ibile Esit Eket|Esit-Eket
+Ekiti	Ekiti	Kwara	8.118	5.320	2	Ekiti Local Government Area
+Ekiti West	Ekiti West	Ekiti	7.687	5.028	2	Agbegbe Ijoba Ibile Iwoorun Ekiti|Ekiti Ouest|Ekiti West Local Government Area|Ekiti ta Yamma|Se Ekiti
+Ekiti East	Ekiti East	Ekiti	7.735	5.669	2	Agbegbe Ijoba Ibile Ilaorun Ekiti|Ekiti East Local Government Area|Ekiti Est|Ekiti Leste|Ekiti ta Gabas|Tang Ekiti
+Ekiti South-West	Ekiti South-West	Ekiti	7.513	5.052	2	Agbegbe Ijoba Ibile Guusu-Iwoorun Ekiti|Ekiti South West|Ekiti South West Local Government Area|Ekiti Sud Ouest|Ekiti Su
+Ekeremor	Ekeremor	Bayelsa	4.922	5.716	2	Ekeremor Local Government Area
+Etim Ekpo	Etim Ekpo	Akwa Ibom	4.978	7.592	2	Agbegbe Ijoba Ibile Etim Ekpo|Etim Ekpo Local Government Area|Etim-Ekpo
+Ekunchara-Egamini	Emuoha	Rivers	4.943	6.724	2	
+Ekpolokown	Ogoja	Cross River	6.422	8.723	2	
+Bendeghe-Ekim	Etung	Cross River	6.015	8.875	2	
+Ekka	Ohaukwu	Ebonyi	6.606	8.075	2	
+Ekebeligwe	Ohaukwu	Ebonyi	6.545	8.092	2	
+Ekaeru-Inyimagu	Abakaliki	Ebonyi	6.323	8.155	2	
+Eke-Beligwe	Izzi	Ebonyi	6.374	8.259	2	
+Ndi-Ekpe	Abakaliki	Ebonyi	6.228	8.190	2	
+Eka	Buruku	Benue	7.171	9.237	2	
+Ekota	Edati	Niger	9.020	5.986	2	
+Ekpangi	Gbako	Niger	9.047	5.836	2	
+Ekowodu	Lavun	Niger	9.226	5.746	2	
+Ekpangi	Edati	Niger	9.125	5.748	2	
+Samma Ekoshakwata	Bosso	Niger	9.668	6.628	2	
+Eko Akete	Amuwo Odofin	Lagos	6.480	3.308	2	
+Oke-Eletu Abule Eko	Ìkòròdú	Lagos	6.594	3.593	2	
+Ekperi-Odame	Etsako Central	Edo	6.998	6.442	2	
+Eko-Egbor	Etsako West	Edo	6.832	6.256	2	
+Eko-Ihigame	Etsako West	Edo	6.822	6.287	2	
+Eko-Akhaluavbalu	Esan Central	Edo	6.816	6.312	2	
+Ekilor	Etsako West	Edo	6.831	6.355	2	
+Eko-Idernudie	Esan South-East	Edo	6.782	6.460	2	
+Ekpoma	Esan West	Edo	6.822	6.141	2	
+Ekeke One	Owan East	Edo	6.857	6.146	2	
+Eko-Illeh	Esan West	Edo	6.724	6.172	2	
+Eko-Irrua	Esan Central	Edo	6.721	6.211	2	
+Eko-Onugie	Esan West	Edo	6.624	6.105	2	
+Ekhuere	Esan West	Edo	6.608	6.101	2	
+Eko-Afuda	Iguegben	Edo	6.572	6.231	2	
+Eko-Omon	Esan North-East	Edo	6.700	6.299	2	
+Ekukhun	Esan South-East	Edo	6.692	6.434	2	
+Ekogba	Esan South-East	Edo	6.682	6.476	2	
+Ekiha Camp	Esan South-East	Edo	6.603	6.409	2	
+Idumu-Eka	Esan South-East	Edo	6.521	6.361	2	
+Ekemode	Ona Ara	Oyo	7.316	4.004	2	
+Ekerin	Ona Ara	Oyo	7.330	4.037	2	
+Baba-Ekun	Ona Ara	Oyo	7.138	4.084	2	
+Ekefa	Aiyedade	Osun	7.437	4.336	2	
+Ekeyinmi	Ife North	Osun	7.457	4.478	2	
+Igbo-Ekiti	Egbedore	Osun	7.860	4.542	2	
+Ekuntan	Ede South	Osun	7.701	4.522	2	
+Eku-Ojo	Atakunmosa West	Osun	7.690	4.612	2	
+Ekukoro	Boripe	Osun	7.817	4.622	2	
+Isalegbodo Ekesa	Ipokia	Ogun	6.707	2.793	2	
+Oroke-Eku	Ife East	Osun	7.477	4.605	2	
+Ekusobo	Ife East	Osun	7.397	4.557	2	
+Baba-Eko	Ife South	Osun	7.201	4.512	2	
+Eko-Obu	Ife South	Osun	7.379	4.655	2	
+Baba-Eko	Ile Oluji/Okeigbo	Ondo	7.236	4.922	2	
+Ekoro	Moro	Kwara	8.674	4.459	2	
+Ele-Eku	Asa	Kwara	8.620	4.245	2	
+Ekerin	Ibarapa North	Oyo	7.518	3.084	2	
+Budo-Ekun	Oyun	Kwara	8.116	4.527	2	
+Ekwo	Nasarawa Egon	Nasarawa	8.852	8.272	2	
+Ekerin	Oyo West	Oyo	7.994	3.761	2	
+Ekede	Oyo East	Oyo	7.842	3.998	2	
+Ekpanyanborozdi	Borgu	Niger	9.371	4.599	2	
+Aba-Eku	Afijio	Oyo	7.844	4.049	2	
+Ekarun	Ogo Oluwa	Oyo	7.878	4.135	2	
+Ekwojilima	Agaie	Niger	8.949	6.327	2	
+Ekpagi	Mokwa	Niger	9.084	5.328	2	
+Ekopata	Mokwa	Niger	9.199	5.473	2	
+Ekun-Ade	Afijio	Oyo	7.679	4.027	2	
+Ekerin	Lagelu	Oyo	7.506	4.026	2	
+Ekukunela	Ikom	Cross River	6.005	8.556	2	
+Eko	Esan South-East	Edo	6.629	6.459	2	
+Aye-Ekiti	Moba	Ekiti	8.006	5.136	2	
+Ekefa	Afijio	Oyo	7.840	3.794	2	
 Kasumu Ekemode Street	Eti Osa	Lagos	6.425	3.422	1	
 Eko Bridge	Lagos Mainland	Lagos	6.476	3.375	1	
 Elder Emenike Eks Close	Obio/Akpor	Rivers	4.823	7.067	1	
@@ -212,11 +574,9 @@ Ekhoguagbon Street	Oredo	Edo	6.291	5.598	1	Egharevba Avenue
 Ekpen Avenue	Oredo	Edo	6.291	5.595	1	
 Ekalanderhan Estate Lane	Oredo	Edo	6.319	5.597	1	
 Ekhaguere Primary School Road	Oredo	Edo	6.296	5.600	1	
-Ekiwa Market	Oredo	Edo	6.353	5.612	0	
 Ekiti Street	Ibadan North	Oyo	7.417	3.902	1	
 Ekiti Close	Ibadan North	Oyo	7.416	3.902	1	
 Samuel Ekuwola Street	Oshodi/Isolo	Lagos	6.500	3.312	1	
-Eko Bridge	Lagos Mainland	Lagos	6.474	3.376	1	
 Eko Bridge	Surulere	Lagos	6.483	3.367	1	
 Ade-Eko Street	Ifako/Ijaye	Lagos	6.644	3.330	1	
 Chief Joshua Eke Street	Oshodi/Isolo	Lagos	6.514	3.310	1	
@@ -226,7 +586,7 @@ Eko Street	Eti Osa	Lagos	6.459	3.444	1
 Eket Close	Municipal Area Council	FCT Abuja	9.033	7.487	1	
 Ado Ekiti Street	Municipal Area Council	FCT Abuja	9.042	7.496	1	
 Ekoro Oruro River Street	Municipal Area Council	FCT Abuja	9.098	7.493	1	
-EKHATOR STREET	Egor	Edo	6.362	5.568	1	
+Ekhator Street	Egor	Edo	6.362	5.568	1	
 Ojo-Eki street	Egor	Edo	6.355	5.579	1	
 Aba - Ikot Ekpene Road	Aba South	Abia	5.116	7.377	1	
 Aba - Ikot Ekpene Road	Obi Ngwa	Abia	5.109	7.414	1	
@@ -255,7 +615,6 @@ Ekulu West Close	Enugu North	Enugu	6.462	7.489	1
 Ekweazu Street	Enugu East	Enugu	6.484	7.533	1	
 Godwin Ekuma Street	Enugu East	Enugu	6.474	7.524	1	
 Ekulu Lane	Enugu East	Enugu	6.475	7.583	1	
-Eketoke Street	Enugu East	Enugu	6.485	7.528	1	
 Eke Street	Enugu North	Enugu	6.430	7.478	1	
 Umu Ekwulumili Street	Enugu North	Enugu	6.430	7.517	1	
 Ekwulobia Ind. Link Street	Enugu South	Enugu	6.392	7.504	1	
@@ -267,20 +626,15 @@ Sir Ekwy Ezeike Street	Enugu North	Enugu	6.466	7.590	1
 Chief Ekwueme Street	Enugu South	Enugu	6.420	7.488	1	
 Ekwulobia Street	Enugu South	Enugu	6.411	7.500	1	
 Ekulu Avenue Link Road	Enugu East	Enugu	6.471	7.495	1	
-Ngwu-Agu Layout Trans-Ekulu	Enugu North	Enugu	6.467	7.469	2	
-Trans-Ekulu	Enugu North	Enugu	6.470	7.481	2	
-Trans-Ekulu Extension	Enugu East	Enugu	6.506	7.488	2	
 Chief Cally Ekenechukwu Close	Enugu East	Enugu	6.508	7.516	1	
 Chief Simon Ekezie Crescent	Enugu East	Enugu	6.478	7.484	1	
 Dom Ekete Avenue	Enugu East	Enugu	6.510	7.520	1	
 Eke Road/ Ojide Street	Enugu South	Enugu	6.383	7.473	1	
 Umu Ekwulumili Close	Enugu North	Enugu	6.430	7.517	1	
 Awka Ekiti Street	Oshodi/Isolo	Lagos	6.495	3.307	1	
-Aba - Ikot Ekpene Road	Aba South	Abia	5.115	7.383	1	
 Aba - Ikot Ekpene Road	Obi Ngwa	Abia	5.120	7.473	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.442	5.231	1	
 Ekena Street	Aba South	Abia	5.112	7.376	1	
-Eket Airstrip	Eket	Akwa Ibom	4.650	7.951	0	
 Osubi - Eku Road	Okpe	Delta	5.638	5.858	1	
 Umuahia-Ikot Ekpene Road	Ikwuano	Abia	5.396	7.570	1	
 Eket Street	Umuahia North	Abia	5.535	7.499	1	
@@ -289,24 +643,18 @@ Ekori beach road	Yakurr	Cross River	5.907	8.115	1
 Ekorinim Road	Calabar Municipal	Cross River	5.000	8.321	1	
 Ekong Street	Eket	Akwa Ibom	4.665	7.947	1	
 Aba - Ikot Ekpene Road	Essien Udim	Akwa Ibom	5.154	7.592	1	
-Eko Atlantic	Eti Osa	Lagos	6.414	3.457	2	
 Ikot Ekpene Road	Uyo	Akwa Ibom	5.036	7.924	1	
-Ikot Ekpene Road	Uyo	Akwa Ibom	5.040	7.912	1	
-Ikot Ekpene Road	Uyo	Akwa Ibom	5.035	7.928	1	
 ekpene ukim road	Nsit Atai	Akwa Ibom	4.877	8.052	1	
 Denis "Ekwueme" Ndubizu Avenue	Ideato North	Imo	5.869	7.085	1	
 Dr. Ona Ekhomu Street	Eti Osa	Lagos	6.471	3.575	1	
 Ekute Street	Adó-Èkìtì	Ekiti	7.613	5.213	1	
 Ekrejebor Road	Ughelli North	Delta	5.511	6.027	1	
-ARAROMI OBO EKITI ROAD	Irepodun/Ifelodun	Ekiti	7.675	5.309	1	
+Araromi Obo Ekiti Road	Irepodun/Ifelodun	Ekiti	7.675	5.309	1	
 Old Eke-Ahiara road	Ahiazu-Mbaise	Imo	5.527	7.266	1	
 Obasanjo way, Ita-Eko	Abeokuta South	Ogun	7.143	3.329	1	
 Eko Boulevard	Eti Osa	Lagos	6.421	3.413	1	
-Eko Boulevard	Eti Osa	Lagos	6.408	3.419	1	
-Eko Boulevard	Eti Osa	Lagos	6.415	3.416	1	
 Captain Iniobong Ekong Avenue	Uyo	Akwa Ibom	5.008	7.963	1	
 A. E. Ekukinam Street	Municipal Area Council	FCT Abuja	9.067	7.441	1	
-ekpene ukim road	Nsit Atai	Akwa Ibom	4.901	8.037	1	
 Ekpen Roundabout	Warri South	Delta	5.526	5.745	1	
 Ekpen Road	Warri South	Delta	5.526	5.745	1	
 Ekpan road	Uvwie	Delta	5.565	5.737	1	
@@ -317,7 +665,6 @@ Ora Ekpen	Kosofe	Lagos	6.553	3.390	1
 Thomas Ekun Street	Alimosho	Lagos	6.671	3.265	1	
 Route Eyumodjock - Ekok	Etung	Cross River	5.807	8.854	1	
 Ekenhuan Road	Egor	Edo	6.322	5.577	1	
-Ekenhuan Road	Oredo	Edo	6.329	5.591	1	
 Jakpa Road	Uvwie	Delta	5.560	5.775	1	Ekpan-Effurun road
 Aba - Ikot Ekpene Road	Ikot Ekpene	Akwa Ibom	5.176	7.686	1	
 Aba - Ikot Ekpene Road	Essien Udim	Akwa Ibom	5.156	7.663	1	
@@ -325,14 +672,11 @@ Ekoigiawe Avenue	Ikpoba-Okha	Edo	6.278	5.635	1
 Aba - Ikot Ekpene Road	Ikot Ekpene	Akwa Ibom	5.176	7.715	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.374	5.250	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.295	5.230	1	
-Akure - Ado Ekiti Road	Akure North	Ondo	7.385	5.261	1	
 Araromi Obo Ekiti Road	Irepodun/Ifelodun	Ekiti	7.697	5.313	1	
 Ekenhuan Road	Oredo	Edo	6.338	5.616	1	
 Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.618	5.224	1	
 Hon Isaac Ekene I. Street	Oshimili North	Delta	6.179	6.671	1	
 Festus Ekogiawe Street	Ovia North-East	Edo	6.426	5.615	1	
-Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.614	5.223	1	
-Ekuase Street	Ikpoba-Okha	Edo	6.274	5.652	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.559	5.213	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.485	5.229	1	
 Ekuase Street	Ikpoba-Okha	Edo	6.287	5.651	1	
@@ -349,17 +693,11 @@ Ifaki - Ikole - Omuo Ekiti Road	Ikole	Ekiti	7.792	5.455	1
 Ado Ekiti / Efon Road	Ekiti West	Ekiti	7.688	5.082	1	
 Ekurede itsekiri-Ugbori Express Junction	Warri South	Delta	5.521	5.731	1	
 Ekreghware	Udu	Delta	5.487	5.754	1	
-Ekreghware	Udu	Delta	5.484	5.755	1	
 Chief Clement Eke Street	Obio/Akpor	Rivers	4.826	7.059	1	
-Aba - Ikot Ekpene Road	Aba South	Abia	5.116	7.372	1	
 Ikot Ekpene - Uyo Road	Itu	Akwa Ibom	5.045	7.898	1	
-Ikot Ekpene - Uyo Road	Itu	Akwa Ibom	5.046	7.894	1	
 Ekpenyong Street	Uyo	Akwa Ibom	5.035	7.933	1	
 Ekpo Obot Street	Uyo	Akwa Ibom	5.033	7.934	1	
-Ikot Ekpene Road	Uyo	Akwa Ibom	5.036	7.925	1	
 Ekpanya Street	Uyo	Akwa Ibom	5.040	7.922	1	
-Ikot Ekpene - Uyo Road	Ikono	Akwa Ibom	5.101	7.842	1	
-Ikot Ekpene - Uyo Road	Ibiono Ibom	Akwa Ibom	5.052	7.880	1	
 Ikot Ekpene - Uyo Road	Ikot Ekpene	Akwa Ibom	5.145	7.760	1	
 udo ekpo mkpo street	Uyo	Akwa Ibom	5.023	7.957	1	
 Ekene Odum Street	Ìkòròdú	Lagos	6.587	3.510	1	
@@ -368,54 +706,52 @@ Asukwo Ekpo Street	Calabar South	Cross River	4.943	8.333	1
 Ekpo Eyo Street	Calabar South	Cross River	4.939	8.338	1	
 Ekweani Close	Enugu South	Enugu	6.416	7.515	1	Thomas Okonkwo Close
 Ekoro Agbelekale	Alimosho	Lagos	6.644	3.289	1	
-Ike Ekweremadu Avenue	Enugu North	Enugu	6.432	7.536	1	
-Akure - Ado Ekiti Road	Akure North	Ondo	7.280	5.213	1	
-Akure - Ado Ekiti Road	Akure North	Ondo	7.282	5.221	1	
 Ekikhalo Edosomwan Road	Oredo	Edo	6.275	5.607	1	
-Eke Road	Enugu South	Enugu	6.387	7.474	1	
-Ekori beach road	Yakurr	Cross River	5.869	8.121	1	
-Akure - Ado Ekiti Road	Ikere	Ekiti	7.501	5.230	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.532	5.221	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.320	5.238	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.346	5.250	1	
 Ikot Ekong/Akpang Offop Road Odot Akwa Ibom	Nsit Atai	Akwa Ibom	4.808	8.039	1	
 Ikot Akpa Ekpu	Nsit Atai	Akwa Ibom	4.814	8.046	1	
 Ikot Ekpuk Odot Alwa Ibom	Nsit Atai	Akwa Ibom	4.824	8.042	1	
-Margaret Ekpo International Airport	Calabar Municipal	Cross River	4.969	8.347	0	
-Aba - Ikot Ekpene Road	Ikot Ekpene	Akwa Ibom	5.181	7.712	1	
 Ikot Ekpene - Uyo Road	Essien Udim	Akwa Ibom	5.139	7.765	1	
 Route Eyumodjock - Ekok	Etung	Cross River	5.819	8.874	1	
 Isale Eko Avenue	Eti Osa	Lagos	6.461	3.418	1	
 Ekpe Street	Ikpoba-Okha	Edo	6.280	5.699	1	
-Federal Polytechnic, Ado-Ekiti	Adó-Èkìtì	Ekiti	7.590	5.304	0	FPA
 Ekude Street	Umuahia North	Abia	5.638	7.429	1	
-Route Eyumodjock - Ekok	Etung	Cross River	5.814	8.857	1	
-Route Eyumodjock - Ekok	Etung	Cross River	5.815	8.859	1	
-Festus Ekogiawe Street	Ovia North-East	Edo	6.425	5.616	1	
-Ekurede Itsekiri Community	Warri South	Delta	5.521	5.730	2	
 Ado Ekiti - Ilawe-Ilaramokin Road	Ifedore	Ondo	7.458	5.065	1	
 First Ekogiawe Street	Ovia North-East	Edo	6.422	5.613	1	
-Ekurede-Urhobo	Warri South	Delta	5.532	5.721	2	
 Ekekwe Street	Isuikwuato	Abia	5.718	7.468	1	
 EK Ojo Street	Municipal Area Council	FCT Abuja	9.045	7.547	1	
-ARAROMI OBO EKITI	Irepodun/Ifelodun	Ekiti	7.685	5.325	3	
-Ekenhuan Road	Oredo	Edo	6.336	5.609	1	
-Ekenhuan Road	Oredo	Edo	6.332	5.602	1	
-Eke Mgbidi Mordern Market	Oru West	Imo	5.733	6.892	0	
-Ekiti State Airport	Adó-Èkìtì	Ekiti	7.657	5.355	0	
-Afia Eke, Agbani	Nkanu West	Enugu	6.309	7.547	0	
 ekpene ukim road	Nsit Atai	Akwa Ibom	4.862	8.059	1	
 ekpene ukim road	Nsit Atai	Akwa Ibom	4.845	8.052	1	
 Sylvester Ekoh Street	Enugu East	Enugu	6.475	7.537	1	
 Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.605	5.222	1	
-Ikot Ekpene	Ikot Ekpene	Akwa Ibom	5.200	7.705	2	
-Esit Eket	Esit Eket	Akwa Ibom	4.643	8.076	2	
-Eket	Eket	Akwa Ibom	4.636	7.958	2	
-Etim Ekpo	Etim Ekpo	Akwa Ibom	4.955	7.574	2	
-Ekwusigo	Ekwusigo	Anambra	5.988	6.840	2	
-Adó-Èkìtì	Adó-Èkìtì	Ekiti	7.605	5.284	2	
-Ekiti East	Ekiti East	Ekiti	7.721	5.660	2	
-Ekiti	Ekiti	Kwara	8.112	5.344	2	
-Ekiti South-West	Ekiti South-West	Ekiti	7.523	5.033	2	
-Ekiti West	Ekiti West	Ekiti	7.721	5.034	2	
-Ekeremor	Ekeremor	Bayelsa	4.944	5.710	2	
+Oyekpa primary school, Ekpesa	Akoko-Edo	Edo	7.424	6.074	0	
+Ekhaguere Primary School	Oredo	Edo	6.296	5.600	0	
+All Saints Ekulu Nursery & Primary School	Enugu North	Enugu	6.454	7.485	0	
+Trans Ekulu Girls Secondary School	Enugu East	Enugu	6.477	7.502	0	
+Trans Ekulu Primary School	Enugu East	Enugu	6.476	7.495	0	
+Ekeamainyi Market Amainyi	Obowo	Imo	5.586	7.386	0	
+Ekeikpa Market Amainyi	Ihitte/Uboma	Imo	5.603	7.381	0	
+Eke Ngwuru	Aboh-Mbaise	Imo	5.495	7.262	0	
+Eki 1 Global Energy Filling Station	Ughelli North	Delta	5.552	5.912	0	
+Ekpan Secondary School	Uvwie	Delta	5.563	5.747	0	
+Igueben-Ekhen Station	Iguegben	Edo	6.620	6.260	0	
+Federal Polytechnic, Ekowe	Southern Ijaw	Bayelsa	4.710	6.093	0	
+Ekeki Motor Park	Yenegoa	Bayelsa	4.929	6.295	0	
+baptist day school, ekundayo	Ifo	Ogun	6.819	3.157	0	
+Eke Obinagu Market	Enugu East	Enugu	6.469	7.601	0	
+Ekorhon Town Hall	Udu	Delta	5.491	5.757	0	
+Eke-Ahiara Junction	Ahiazu-Mbaise	Imo	5.525	7.267	0	
+Ekwo Market Obile	Ohaji/Egbema	Imo	5.388	6.773	0	
+Ekpebiwei Primary School Ogulagha	Burutu	Delta	5.361	5.346	0	
+Ekiugbo Grammer School	Ughelli North	Delta	5.517	5.971	0	
+Lord Ekong's PS 1	Ibesikpo Asutan	Akwa Ibom	4.964	7.986	0	
+E.Ekesons & Bros Transport Nig. Ltd	Municipal Area Council	FCT Abuja	9.067	7.444	0	
+Ekiwa Market	Oredo	Edo	6.353	5.612	0	
+Eket Airstrip	Eket	Akwa Ibom	4.650	7.951	0	
+Margaret Ekpo International Airport	Calabar Municipal	Cross River	4.969	8.347	0	
+Federal Polytechnic, Ado-Ekiti	Adó-Èkìtì	Ekiti	7.590	5.304	0	FPA
+Eke Mgbidi Mordern Market	Oru West	Imo	5.733	6.892	0	
+Ekiti State Airport	Adó-Èkìtì	Ekiti	7.657	5.355	0	
+Afia Eke, Agbani	Nkanu West	Enugu	6.309	7.547	0	

@@ -1,17 +1,57 @@
 Mkpani	Yakurr	Cross River	5.824	8.157	3	
+Mkpat Enin	Mkpat Enin	Akwa Ibom	4.734	7.749	3	Nkpat Enin
+Nkpor	Idemili North	Anambra	6.150	6.830	3	Mkpor
 Mkpot Akpankpang	Akamkpa	Cross River	5.660	8.694	2	Mkot
 Issele Mkpitime	Aniocha North	Delta	6.336	6.540	2	
 Eto Mkpe Yellow Duke	Akpabuyo	Cross River	4.953	8.456	2	Eto Nkpe
 Mkpor-Agwu	Igbo-Eze-North	Enugu	6.970	7.415	2	Mkpor-Agu;Mkpor-Agwu
 Mkpumeakwaokoro	Izzi	Ebonyi	6.550	8.283	2	
-Mkpat Enin	Mkpat Enin	Akwa Ibom	4.734	7.749	3	Nkpat Enin
 Mkpu	Ini	Akwa Ibom	5.463	7.737	2	
 Mkpatak	Essien Udim	Akwa Ibom	5.052	7.670	2	
-Mkpokiti Bus Stop	Enugu North	Enugu	6.440	7.511	0	
 Mkpataku	Ohaji/Egbema	Imo	5.595	6.769	2	
-MKK Plaza	Municipal Area Council	FCT Abuja	9.001	7.472	0	
+Mkpat Enin	Mkpat Enin	Akwa Ibom	4.705	7.761	2	
+Nkpani	Yakurr	Cross River	5.824	8.158	2	Mkpani
+Mku	Gboko	Benue	7.418	8.635	2	
+Mkpot Isong	Etung	Cross River	5.800	8.718	2	Mkpot
+Nkpor-Agu	Igbo-Eze-North	Enugu	6.973	7.415	2	Mkpor-Agu|Mkpor-Agwu
+Mkpok	Onna	Akwa Ibom	4.637	7.861	2	
+Mkpauno	Odukpani	Cross River	5.181	8.122	2	
+Mkpatuk	Odukpani	Cross River	5.275	8.109	2	
+Mkpatala	Ikom	Cross River	6.194	8.534	2	
+Mkpara	Ikom	Cross River	6.048	8.577	2	
+Mki	Gboko	Benue	7.283	8.692	2	
+Mkar	Gboko	Benue	7.316	9.047	2	
+Mka	Ushongo	Benue	7.244	8.952	2	
+Mka	Kwande	Benue	6.923	9.605	2	
+Issele-Mkpitime	Aniocha North	Delta	6.339	6.536	2	
+Ikot Mkpo	Nsit Atai	Akwa Ibom	4.879	8.048	2	
+Mkpoku	Obio/Akpor	Rivers	4.865	7.001	2	
+Ikot Mkpang	Odukpani	Cross River	5.030	8.233	2	
+Mkpara	Odukpani	Cross River	5.072	8.281	2	
+Mkpor	Igbo-Eze-North	Enugu	6.975	7.407	2	
+Mkpaya	Ikom	Cross River	6.208	8.436	2	
+Eto Mkpe Archibong Edem	Akpabuyo	Cross River	4.966	8.438	2	
+Mkpanak	Ibeno	Akwa Ibom	4.567	7.991	2	
+Mkpakpi	Arochukwu	Abia	5.434	7.915	2	
+Mkap	Obot Akara	Akwa Ibom	5.301	7.596	2	
+Mkpataku	Ohaji/Egbema	Imo	5.596	6.770	2	
+Mkpute	Ogoja	Cross River	6.556	8.760	2	
+Mka	Buruku	Benue	7.570	9.017	2	
+Mku	Wukari	Taraba	7.895	9.500	2	
+Mkavga	Ukum	Benue	7.719	9.564	2	
+Mke	Gboko	Benue	7.271	9.022	2	
+Mkaan	Gboko	Benue	7.337	9.096	2	
+Mkovur	Buruku	Benue	7.323	9.173	2	
+Mkoso	Katsina-Ala	Benue	7.212	9.294	2	
+Mkem	Katsina-Ala	Benue	7.205	9.447	2	
+Mku	Gboko	Benue	7.476	8.823	2	
+Mkaanaan	Gboko	Benue	7.402	8.883	2	
+Mkilim	Gboko	Benue	7.350	8.937	2	
+Mkungu	Gboko	Benue	7.311	8.788	2	
+Mkor	Guma	Benue	8.085	8.660	2	
 Mkpofia Street	Enugu South	Enugu	6.418	7.495	1	
 Mkpong Street	Uyo	Akwa Ibom	5.029	7.919	1	
 udo ekpo mkpo street	Uyo	Akwa Ibom	5.023	7.957	1	
+Mkpokiti Bus Stop	Enugu North	Enugu	6.440	7.511	0	
+MKK Plaza	Municipal Area Council	FCT Abuja	9.001	7.472	0	
 MKO Abiola international Airport	Egbedore	Osun	7.766	4.475	0	
-Mkpat Enin	Mkpat Enin	Akwa Ibom	4.705	7.761	2	

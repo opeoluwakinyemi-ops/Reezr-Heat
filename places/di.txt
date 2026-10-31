@@ -1,3 +1,11 @@
+Dikenafai	Ideato South	Imo	5.770	7.154	3	
+Disina	Shira	Bauchi	11.482	9.918	3	
+Difa	Yamaltu/Deba	Gombe	10.358	11.429	3	
+Dikwa	Dikwa	Borno	12.035	13.919	3	Dikoa
+Dirinbaji	Sakaba	Kebbi	11.246	5.467	3	
+Dilpurtu	Hong	Adamawa	10.230	12.929	3	
+Aku Diewa	Igbo-Etiti	Enugu	6.696	7.339	3	
+Makurdi	Markurdi	Benue	7.734	8.521	3	MDI|Makurdu|ma ku er di|makuleudi|makuradi|makurdi|makuridi|makurudi|makwrdy
 Wuse II District	Municipal Area Council	FCT Abuja	9.076	7.476	2	
 Diboni	Birni N'Konni	Sokoto	13.750	4.983	2	
 Diga	Diffa	Borno	13.414	12.825	2	
@@ -7,16 +15,14 @@ Fai	Kaga	Borno	11.294	12.665	2	Digmari
 Dimbogo	Jega	Kebbi	12.291	4.332	2	
 Ungwan Dikko	Kalgo	Kebbi	12.333	4.221	2	
 Dindibus	Shira	Bauchi	11.495	9.803	2	
-Dikenafai	Ideato South	Imo	5.770	7.154	3	
+Didango	Karim Lamido	Taraba	9.159	11.041	2	
+Didan	Kurmi	Taraba	7.333	10.550	2	Didon;Diden
 Dingel	Gombi	Adamawa	10.119	12.305	2	Dingai
 Dirbishi	Mubi South	Adamawa	10.197	13.411	2	
 Diki	Arewa Dandi	Kebbi	13.157	4.220	2	
 Mai Didi	Gusau	Zamfara	12.201	6.613	2	
 Umo Diogo	Emuoha	Rivers	5.172	6.798	2	Omo Doga;Umo Diogo
-Disina	Shira	Bauchi	11.482	9.918	3	
-Difa	Yamaltu/Deba	Gombe	10.358	11.429	3	
 Disa	Gwoza	Borno	11.026	13.585	2	Dīssa
-Dikwa	Dikwa	Borno	12.035	13.919	3	Dikoa
 Kwajaffa	Hawul	Borno	10.467	12.417	2	Kwajaffa Dispensary
 Diggi	Dandi	Kebbi	11.706	3.729	2	
 Baban Jori Dikko	Bunza	Kebbi	12.142	3.998	2	
@@ -28,7 +34,6 @@ Difekir	Kala-Balge	Borno	12.051	14.620	2
 Tungan Rafin Dinya	Kachia	Kaduna	9.767	7.450	2	Rafin Dinya
 Tungan Dindani	Shanga	Kebbi	10.889	4.848	2	
 Dibbwol	Fika	Yobe	11.274	11.524	2	
-Dirinbaji	Sakaba	Kebbi	11.246	5.467	3	
 Dikko	Koko-Besse	Kebbi	11.337	4.513	2	
 Dingiri	Itas/Gadau	Bauchi	11.757	9.661	2	
 Dishe	Zango	Katsina	12.986	8.614	2	
@@ -56,7 +61,6 @@ Ungwan Diko	Augie	Kebbi	12.831	4.715	2
 Bula Dilima	Bama	Borno	11.334	13.955	2	
 Diwar Sharpu	Biu	Borno	10.680	12.165	2	Diuwa
 Dishi	Zango	Katsina	12.986	8.614	2	
-Dilpurtu	Hong	Adamawa	10.230	12.929	3	
 Diraku	Hawul	Borno	10.462	12.080	2	Duragu
 Ungua Babon Gari Diyan	Dambatta	Kano	12.559	8.688	2	
 Diaka	Hawul	Borno	10.308	12.157	2	Dega
@@ -80,36 +84,20 @@ Gwanga-Dikko	Tambuwal	Sokoto	12.316	4.631	2
 Gidan Diko	Fakai	Kebbi	11.600	4.643	2	
 Sakdiya Bulama	Bayo	Borno	10.431	11.772	2	Sayo Diya
 Dinya	Wase	Plateau	9.250	10.183	2	Dinia
+Didango	Lau	Taraba	9.231	11.558	2	
 Didif	Mubi North	Adamawa	10.376	13.226	2	
 Dille	Askira-Uba	Borno	10.751	13.216	2	Delli
 Digawa Sarki	Gabasawa	Kano	12.255	8.896	2	
 Digim	Wurno	Sokoto	13.277	5.756	2	
-Divine Light Group of Schools	Egor	Edo	6.356	5.572	0	
-Diamond School Academy	Oredo	Edo	6.305	5.604	0	
-Diamond care nursery and primary school	Oredo	Edo	6.326	5.599	0	
-Viva Healthfoo Shop & Dietetic Clinic	Enugu South	Enugu	6.418	7.495	0	
-Olu Aka Di Mma Vocational Technical Training Centre	Enugu North	Enugu	6.431	7.478	0	
 Dirimin Iya	Kano Municipal	Kano	11.995	8.521	2	
 Diso	Gwale	Kano	11.987	8.513	2	
 Digawan Asayaya	Ajingi	Kano	11.975	9.130	2	
 Digawan Gafasa	Ajingi	Kano	11.973	9.125	2	
-Gadiya Dispensary	Gamawa	Bauchi	11.963	10.445	0	
-Kesa Dispensary	Gamawa	Bauchi	11.964	10.698	0	
-Makawa Dispensary	Zaki	Bauchi	12.206	10.200	0	
-Dorawa Dispensary	Damban	Bauchi	11.576	10.918	0	
-Kafin Zaka Dispensary	Misau	Bauchi	11.493	10.662	0	
-Yelwa Sarman Dispensary	Misau	Bauchi	11.477	10.671	0	
-Makafiya Dispensary	Darazo	Bauchi	11.188	10.935	0	
-Iyayi Dispensary	Ningi	Bauchi	11.308	9.250	0	
-Bakin Kogi Model Primary Health Center	Alkaleri	Bauchi	10.260	10.301	0	Galen Duguri HC - Gangar Dispensary
-Bojos Dispensary	Alkaleri	Bauchi	10.271	10.333	0	Kunzun Health Post
-Guruntun Dispensary	Alkaleri	Bauchi	10.261	10.300	0	Badaram Dutsi
 Diza	Biu	Borno	10.623	12.180	2	
 Didango Lawan Ibrahim	Shani	Borno	10.187	11.939	2	
 Diki Diki Gamji	Shani	Borno	10.291	11.889	2	
 Diki Diki Gor Ba	Shani	Borno	10.288	11.889	2	
 Dikidiki	Shani	Borno	10.290	11.888	2	
-Jauro Baba Wuro Dispensary	Shani	Borno	10.260	11.872	0	
 Kwahara Dispensary	Shani	Borno	10.303	11.892	2	
 Dinamari	Gubio	Borno	12.548	12.788	2	
 Dingilti	Nganzai	Borno	12.389	12.960	2	
@@ -125,39 +113,21 @@ Disa Jauro Adamu	Kwaya Kusar	Borno	10.451	11.843	2
 Disa Jauro Buba	Kwaya Kusar	Borno	10.471	11.841	2	
 Disa Jauro Manu	Kwaya Kusar	Borno	10.453	11.827	2	
 Disa Jauro Saidu	Kwaya Kusar	Borno	10.460	11.833	2	
-Nahuta Dispensary	Shani	Borno	10.316	11.943	0	Bidam Dispensary
 Dinga	Shani	Borno	10.096	11.969	2	
-Dinga	Shani	Borno	10.100	11.957	2	
 Diaka Bllazi	Hawul	Borno	10.306	12.155	2	
 Diaka Chamtura	Hawul	Borno	10.314	12.155	2	
 Dira	Hawul	Borno	10.340	12.202	2	
 Pelabirni Dispensary	Hawul	Borno	10.406	12.370	2	
-Bakaina Dispensary	Shani	Borno	10.139	12.036	0	
-Lakundum Dispensary	Shani	Borno	10.183	11.960	0	
-Pama Dispensary	Hawul	Borno	10.478	12.248	0	
-Wunje Dispensary	Shani	Borno	10.186	12.008	0	
 Bongo Diyau	Abadam	Borno	13.380	13.112	2	
 Kuthi Dika	Kwaya Kusar	Borno	10.538	11.894	2	
 Daniel Diki	Hawul	Borno	10.489	12.276	2	
 Dimsira	Hawul	Borno	10.523	12.208	2	
-Jilbe Dispensary	Kala-Balge	Borno	11.917	14.636	0	
-Jarawa Dispensary	Kala-Balge	Borno	11.960	14.399	0	
-Karagawaru Dispensary	Kaga	Borno	11.906	12.554	0	
-Burguma Dispensary	Kaga	Borno	11.601	12.405	0	
-Guwo Laanti Dispensary	Kaga	Borno	11.625	12.530	0	
 Dibrami	Hawul	Borno	10.580	12.348	2	
 Disa	Biu	Borno	10.713	12.067	2	
-Nyawi Dispensary	Bayo	Borno	10.665	11.776	0	
 Diwa Kamda	Biu	Borno	10.680	12.366	2	
 Diwa Kitsa	Biu	Borno	10.677	12.362	2	
 Diwa Mbula	Biu	Borno	10.691	12.375	2	
-Ngohi Kofan Hakimi Medical Dispensary	Askira-Uba	Borno	10.671	12.690	0	
 Bamjir Bila Dize	Chibok	Borno	10.831	12.800	2	
-GUÉRISON DIVINE	Badagry	Lagos	6.353	2.795	0	
-PHC Kambama	Shagari	Sokoto	12.614	5.223	0	Kambama Upgraded Dispensary
-Kagara Primary Health Clinic and Dispensary	Goronyo	Sokoto	13.393	5.602	0	
-Dialogue Computer Training School	Kaduna North	Kaduna	10.546	7.439	0	
-Diagnostic Center	Kaduna North	Kaduna	10.530	7.455	0	
 Diba	Kala-Balge	Borno	12.109	14.653	2	
 point five wuro yolde, Gombe Div.	Kwami	Gombe	10.338	11.185	2	
 Rumbuna, Gombe div	Kwami	Gombe	10.332	11.127	2	
@@ -173,22 +143,13 @@ Goje's house Lowcost div	Gombe	Gombe	10.275	11.171	2
 Tundun wada Lowcost div	Gombe	Gombe	10.255	11.175	2	
 Borunde bypass Lowcost div	Akko	Gombe	10.258	11.184	2	
 Sharp corner Lowcost div	Gombe	Gombe	10.274	11.180	2	
-Timber Market Lowcost div	Gombe	Gombe	10.281	11.187	0	
 Pz close Lowcost div	Gombe	Gombe	10.293	11.186	2	
 Pz junction Lowcost div	Gombe	Gombe	10.291	11.183	2	
 Point 3 Pantami Division	Akko	Gombe	10.275	11.124	2	
 Diya	Monguno	Borno	12.512	13.558	2	
 Difinowa	Monguno	Borno	12.607	13.730	2	
-Hybrid Medical Diagotics	Yenegoa	Bayelsa	4.943	6.326	0	
 Abbari Dina	Jere	Borno	11.706	13.302	2	
-Divine Grace Schools	Uvwie	Delta	5.540	5.773	0	
-Cheers Medical and Diagontics  Center	Warri South	Delta	5.534	5.748	0	
-Divine Victory School	Warri South	Delta	5.533	5.756	0	
-EDS Exceptional Diamond School	Port-Harcourt	Rivers	4.822	7.052	0	
-Dingyadi Market	Bodinga	Sokoto	12.930	5.129	0	
 Dirinbaji East	Sakaba	Kebbi	11.247	5.471	2	
-Distance Learning Institute	Lagos Mainland	Lagos	6.512	3.393	0	
-Mosolape clinic and diagnosis centre	Akinyele	Oyo	7.483	3.906	0	
 Kouloum-Dina	Kala-Balge	Borno	11.714	14.595	2	
 Dishishi	Kunchi	Kano	12.430	8.345	2	
 Dindaye	Dawakin Tofa	Kano	12.177	8.332	2	
@@ -206,8 +167,416 @@ Tohon Diribo	Takai	Kano	11.424	9.181	2
 Dinganmu	Sumaila	Kano	11.393	9.051	2	
 Gidan Dinya	Sumaila	Kano	11.328	8.800	2	
 Dimi	Rano	Kano	11.579	8.614	2	
-DICON Staff clinic	Kaduna South	Kaduna	10.488	7.420	0	
 Digawa	Tudun Wada	Kano	11.333	8.477	2	
+Wuse District	Municipal Area Council	FCT Abuja	9.062	7.467	2	
+Asokoro District	Municipal Area Council	FCT Abuja	9.042	7.520	2	
+Maitama District	Municipal Area Council	FCT Abuja	9.090	7.491	2	
+Garki District	Municipal Area Council	FCT Abuja	9.035	7.482	2	
+Garki II District	Municipal Area Council	FCT Abuja	9.032	7.499	2	
+Guzape District	Municipal Area Council	FCT Abuja	9.011	7.507	2	
+Utako District	Municipal Area Council	FCT Abuja	9.069	7.444	2	
+Mabushi District	Municipal Area Council	FCT Abuja	9.084	7.449	2	
+Kado District	Municipal Area Council	FCT Abuja	9.091	7.427	2	
+Durumi District	Municipal Area Council	FCT Abuja	9.020	7.464	2	
+Gudu District	Municipal Area Council	FCT Abuja	9.008	7.480	2	
+Jabi District	Municipal Area Council	FCT Abuja	9.065	7.421	2	
+Kukwaba District	Municipal Area Council	FCT Abuja	9.034	7.450	2	
+Wuye District	Municipal Area Council	FCT Abuja	9.050	7.442	2	
+Jahi District	Municipal Area Council	FCT Abuja	9.110	7.439	2	
+Dakibiyu District	Municipal Area Council	FCT Abuja	9.041	7.421	2	
+Kaura District	Municipal Area Council	FCT Abuja	9.003	7.446	2	
+Katampe District	Municipal Area Council	FCT Abuja	9.103	7.462	2	
+Umu Dikwu Ibeku Opi	Nsukka	Enugu	6.781	7.423	2	Umu Dikwu Agbor
+82 Division Army Barracks	Enugu East	Enugu	6.472	7.511	2	
+Dilala	Yunusari	Yobe	13.150	11.656	2	
+Diginsa	Biriniwa	Jigawa	12.859	10.010	2	
+Dinawa	Wurno	Sokoto	13.228	5.435	2	
+Dimbiso	Wurno	Sokoto	13.332	5.473	2	
+Diggi	Kalgo	Kebbi	12.362	4.039	2	
+Dikko	Argungu	Kebbi	12.727	4.500	2	
+Gorun Dikko	Arewa Dandi	Kebbi	12.575	3.995	2	
+Dindere	Tofa	Kano	12.097	8.271	2	
+Dissi	Matazu	Katsina	12.175	7.690	2	
+Muhammadu Dikko Stadium	Muhammadu Dikko Stadium	Katsina	13.018	7.624	2	
+Dikwa	Dikwa	Borno	12.058	13.909	2	
+Dikwa	Dikwa	Borno	11.944	14.071	2	
+Dille Huyim	Askira-Uba	Borno	10.831	13.177	2	
+Disina B	Shira	Bauchi	11.398	9.907	2	
+Dingaya	Gwaram	Jigawa	11.181	10.041	2	
+Diga	Itas/Gadau	Bauchi	11.924	10.001	2	
+Disina A	Shira	Bauchi	11.479	9.902	2	
+Dingis	Ningi	Bauchi	11.150	9.513	2	
+Central Business District	Municipal Area Council	FCT Abuja	9.058	7.494	2	
+Ungwan Didila	Toro	Bauchi	10.286	9.004	2	
+Umu-Dioga	Emuoha	Rivers	5.171	6.797	2	Omo Doga|Umo Diogo
+Umu Dim	Ezinihitte	Imo	5.443	7.285	2	
+Umu Dike	Ehime Mbano	Imo	5.617	7.250	2	
+Umu Dike I	Omumma	Rivers	5.055	7.227	2	Umu Dike
+Tungan-Rafin-Dinya	Kachia	Kaduna	9.759	7.451	2	Rafin Dinya
+Tunga Dindani	Shanga	Kebbi	10.890	4.848	2	Tungan Dindani
+Tungan Dikko	Birnin Gwari	Kaduna	10.817	6.983	2	
+Sago Diya	Bayo	Borno	10.423	11.727	2	Sayo Diya
+Sango-Diran	Aiyedade	Osun	7.208	4.347	2	Sango Diran
+Rafin Dinga	Ningi	Bauchi	10.847	9.093	2	
+Njoma Dikwa	Askira-Uba	Borno	10.585	12.937	2	
+Lilingo	Tangaza	Sokoto	13.607	4.944	2	Dilingo
+Lambadisa	Fika	Yobe	11.302	11.214	2	Lamba Disa
+Gidan Dikon Sulare	Gwandu	Kebbi	12.610	4.515	2	
+Dogon Dinia	Bassa	Plateau	9.764	8.728	2	
+Dogo Digiyan	Maru	Zamfara	11.206	6.400	2	Dogo Gigiyan
+Diyawa	Biu	Borno	10.930	12.206	2	
+Diiv	Gwer East	Benue	7.309	8.238	2	Div
+Diuwa	Biu	Borno	10.677	12.166	2	
+Disu	Yewa North	Ogun	7.301	2.910	2	
+Disi	Matazu	Katsina	12.175	7.676	2	
+Dishibi	Hong	Adamawa	10.231	12.882	2	
+Diru	Yunusari	Yobe	13.149	11.752	2	
+Diriya	Ganjuwa	Bauchi	10.648	10.175	2	
+Diriwasila	Hong	Adamawa	10.180	13.111	2	
+Dirindaji	Sakaba	Kebbi	11.246	5.463	2	Dirinbaji
+Diri	Ningi	Bauchi	10.945	9.269	2	
+Diri	Kwami	Gombe	10.534	10.960	2	
+Diri	Tafawa-Balewa	Bauchi	9.757	9.303	2	Dare
+Dirba	Mubi South	Adamawa	10.100	13.236	2	
+Dira	Fune	Yobe	11.614	11.322	2	
+Diobu	Port-Harcourt	Rivers	4.799	6.992	2	Dobu
+Dinyaja Prussa	Yorro	Taraba	8.916	11.556	2	
+Dinya	Wase	Plateau	9.256	10.179	2	Dinia
+Dinya	Yorro	Taraba	8.813	11.631	2	
+Dinkoso	Katcha	Niger	9.169	6.201	2	Dinkuso
+Dingding	Zing	Taraba	8.846	11.763	2	
+Dingaya	Nafada	Gombe	10.827	11.335	2	
+Dingare	Ringim	Jigawa	12.094	9.018	2	
+Dingare	Gombi	Adamawa	10.158	12.528	2	
+Dinga	Gombi	Adamawa	10.229	12.637	2	
+Dindima	Bauchi	Bauchi	10.226	10.151	2	Dindawa
+Dindima	Bauchi	Bauchi	10.252	10.209	2	
+Dindi	Funakaye	Gombe	11.006	11.368	2	
+Dindi	Funakaye	Gombe	11.004	11.399	2	
+Dinchi	Damban	Bauchi	11.602	10.864	2	
+Dinawa	Kwami	Gombe	10.544	11.399	2	
+Dina	Atiba	Oyo	8.086	3.809	2	
+Din	Bauchi	Bauchi	10.096	9.780	2	
+Dimnaeze	Ihitte/Uboma	Imo	5.678	7.351	2	
+Dimkusu Dumku	Jada	Adamawa	8.531	12.109	2	
+Dimkata	Hawul	Borno	10.496	12.245	2	
+Dimis	Alkaleri	Bauchi	9.887	10.148	2	
+Dimeso	Jada	Adamawa	8.610	12.105	2	
+Dimbiweri	Ganye	Adamawa	8.564	12.002	2	
+Dimbi	Ganye	Adamawa	8.273	12.079	2	
+Dimbe	Bali	Taraba	8.411	11.425	2	
+Digmari	Ngelzarma	Yobe	11.730	11.900	2	Dimari
+Dilwa Cira	Hong	Adamawa	10.205	13.118	2	
+Dilvwa	Hong	Adamawa	10.288	12.919	2	
+Dilvwa	Hong	Adamawa	10.161	12.929	2	
+Dilpurtu	Hong	Adamawa	10.228	12.894	2	
+Dilpalma Karemi	Hong	Adamawa	10.318	12.867	2	
+Dilpalma Baba	Hong	Adamawa	10.343	12.884	2	
+Dilmava	Hong	Adamawa	10.298	12.962	2	
+Dilli	Demsa	Adamawa	9.531	12.151	2	
+Dilla Magaji	Yorro	Taraba	8.965	11.511	2	
+Dilla	Yorro	Taraba	8.981	11.527	2	
+Dilimbula	Hong	Adamawa	10.404	12.728	2	
+Dilkanda	Hong	Adamawa	10.048	12.986	2	
+Dil Hamlets	Hong	Adamawa	10.527	12.976	2	
+Dilfafa	Hong	Adamawa	10.129	12.973	2	
+Dilfafa	Hong	Adamawa	10.099	12.967	2	
+Diler	Hong	Adamawa	10.111	12.967	2	
+Dildar	Hong	Adamawa	10.073	12.994	2	
+Dilchidama	Hong	Adamawa	10.167	12.972	2	
+Dilbuni	Hong	Adamawa	10.212	12.895	2	
+Dilbali	Hong	Adamawa	10.122	12.963	2	
+Dilau	Yorro	Taraba	8.863	11.568	2	
+Diko	Suleja	Niger	9.267	7.204	2	
+Diko Tifin	Edati	Niger	9.103	5.535	2	Diko
+Diko	Mayo-Belwa	Adamawa	8.826	11.986	2	
+Dikdiu	Jada	Adamawa	8.589	12.199	2	
+Dikasa	Yorro	Taraba	8.949	11.536	2	
+Dijo	Ido	Oyo	7.528	3.700	2	
+Digge	Dukku	Gombe	11.053	11.080	2	Diji
+Digunzan	Yorro	Taraba	8.948	11.512	2	
+Digra	Hawul	Borno	10.323	12.173	2	
+Digisa	Shira	Bauchi	11.642	9.985	2	
+Digriga	Abua/Odual	Rivers	4.835	6.692	2	Digiriga
+Digira	Hawul	Borno	10.447	12.159	2	
+Digil	Mubi North	Adamawa	10.316	13.266	2	
+Diggi	Kalgo	Kebbi	12.358	4.024	2	
+Digbolu	Ijebu North	Ogun	7.049	3.965	2	
+Digawa	Ajingi	Kano	11.971	9.125	2	
+Digaskeri	Gubio	Borno	12.561	12.793	2	
+Digamari	Kaga	Borno	11.295	12.665	2	Digmari
+Diema	Brass	Bayelsa	4.303	6.333	2	
+Diebu	Southern Ijaw	Bayelsa	4.623	6.128	2	
+Didiri	Kaga	Borno	11.528	12.416	2	
+Didiku	Hong	Adamawa	10.158	12.905	2	
+Didango Kofa	Fufore	Adamawa	9.597	12.790	2	Kofa|Kota
+Didango	Yola North	Adamawa	9.110	12.481	2	
+Didan	Kurmi	Taraba	7.330	10.542	2	Diden|Didon
+Dida	Lapai	Niger	8.440	6.726	2	
+Did	Bogoro	Bauchi	9.577	9.681	2	
+Dibra	Gombi	Adamawa	10.128	12.597	2	
+Dibra	Gombi	Adamawa	10.045	12.644	2	
+Dibobo	Zing	Taraba	8.939	11.582	2	
+Dibbwol	Fune	Yobe	11.461	11.466	2	
+Dibbiri	Kaga	Borno	11.712	12.333	2	
+Dibir	Kanke	Plateau	9.479	9.745	2	
+Diba	Gwoza	Borno	10.985	13.610	2	
+Dan Dije	Tsafe	Zamfara	11.842	6.930	2	
+Njendure	Demsa	Adamawa	9.402	11.881	2	Bakin Diwe
+Anguwan Dirti	Bauchi	Bauchi	9.984	9.773	2	
+Anguwan Digawa	Ganjuwa	Bauchi	11.031	9.658	2	
+Diminabokiri	Asari-Toru	Rivers	4.784	6.797	2	
+Diepreye	Degema	Rivers	4.777	6.765	2	
+Disu	Afijio	Oyo	7.709	3.823	2	
+Elekohahia Diobu	Obio/Akpor	Rivers	4.824	7.040	2	
+Dingim	Minjibir	Kano	12.168	8.648	2	
+Dirba Limda	Bama	Borno	11.464	13.855	2	
+Zida Dingli	Madagali	Adamawa	10.886	13.709	2	
+Giwa Digir	Askira-Uba	Borno	10.716	13.099	2	
+Dieb	Gboko	Benue	7.269	8.659	2	
+Digiza	Bagudo	Kebbi	11.399	3.960	2	
+Digawa Kwando	Babura	Jigawa	12.587	8.953	2	
+Sabon Gari Dan Dinyan	Babura	Jigawa	12.531	8.814	2	
+Sabon Digawa	Garki	Jigawa	12.341	8.976	2	
+Digilo	Gabasawa	Kano	12.272	8.811	2	
+Digawa Sarki	Gabasawa	Kano	12.255	8.897	2	
+Diehu Baba	Ringim	Jigawa	12.250	8.975	2	
+Digawa Fulani	Gabasawa	Kano	12.147	8.889	2	
+Digawa	Ringim	Jigawa	12.090	8.935	2	
+Rugar Dila	Batagarawa	Katsina	12.853	7.651	2	
+Tunga Diya	Illela	Sokoto	13.543	5.407	2	
+Dimbisu	Wurno	Sokoto	13.328	5.484	2	
+Roga Diko	Wamako	Sokoto	13.007	5.193	2	
+Ungwan Dinya	Malumfashi	Katsina	11.830	7.854	2	
+Ungwan Dinya	Bakori	Katsina	11.552	7.461	2	
+Runtuan-Diro	Fakai	Kebbi	11.593	4.864	2	
+Dikko	Fakai	Kebbi	11.483	4.802	2	
+Disiwe	Warri South-West	Delta	5.428	5.412	2	
+Dinawa	Dukku	Gombe	10.397	10.998	2	
+Dirikigbene	Ekeremor	Bayelsa	4.919	5.694	2	
+Dilagbene	Ekeremor	Bayelsa	4.805	5.607	2	
+Diebor	Ekeremor	Bayelsa	4.866	5.479	2	
+Dikiborotori-Sinka	Bonny	Rivers	4.567	7.074	2	
+Dinye	Soba	Kaduna	11.149	8.009	2	
+Otta	Orhionmwon	Edo	6.310	6.210	2	Ditah
+Diori Camp	Sagbama	Bayelsa	5.318	6.337	2	
+Dikwa	Dikwa	Borno	11.901	14.027	2	Dikwa Local Government Area
+Didango	Song	Adamawa	9.607	13.028	2	
+Dillor	Maiha	Adamawa	9.974	13.139	2	
+Didango	Maiha	Adamawa	9.696	13.157	2	
+Dinge	Bama	Borno	11.453	13.638	2	
+Dinge Bruma	Bama	Borno	11.425	13.625	2	
+Gadan Dilachin	Michika	Adamawa	10.542	13.298	2	
+Difinoa	Monguno	Borno	12.606	13.751	2	
+Dillilliga	Hong	Adamawa	10.444	13.080	2	
+Didio	Fika	Yobe	11.246	11.151	2	
+Dimbaka	Fika	Yobe	11.574	11.245	2	
+Dindiwai	Fune	Yobe	11.750	11.722	2	
+Diginsa	Biriniwa	Jigawa	12.860	9.995	2	
+Dingyadi	Bodinga	Sokoto	12.935	5.115	2	
+Dilala	Yunusari	Yobe	13.151	11.595	2	
+Dingaya	Gwaram	Jigawa	11.191	10.086	2	
+Diga	Itas/Gadau	Bauchi	11.873	9.985	2	
+Dingis	Ningi	Bauchi	11.144	9.511	2	
+Disina A	Shira	Bauchi	11.475	9.900	2	
+Diarkume	Markurdi	Benue	7.646	8.493	2	
+Digume	Katsina-Ala	Benue	7.466	9.415	2	
+Diaka	Buruku	Benue	7.203	9.194	2	
+Diin	Gboko	Benue	7.482	8.993	2	
+Disa	Gboko	Benue	7.382	8.936	2	
+Dio	Gboko	Benue	7.328	8.778	2	
+Dikko Dabban	Lavun	Niger	9.266	5.741	2	
+Dikko	Gbako	Niger	9.366	5.898	2	
+Dingi	Gbako	Niger	9.183	5.861	2	
+Diko-Lupe	Lavun	Niger	9.191	5.677	2	
+Dipchari	Yusufari	Yobe	13.185	11.146	2	
+Disiari	Yusufari	Yobe	13.104	11.089	2	
+Dimmuk	Qua'An Pan	Plateau	8.949	9.244	2	
+Disanti	Gbako	Niger	9.308	6.061	2	
+Diko-Tako	Edati	Niger	9.103	5.543	2	
+Diko-Ndaloci	Edati	Niger	9.096	5.543	2	
+Gidan Dingge	Munya	Niger	9.652	6.848	2	
+Gidan Dibata	Munya	Niger	9.651	6.845	2	
+Dingala	Jada	Adamawa	8.555	12.031	2	
+Dimbiga	Jada	Adamawa	8.516	12.350	2	
+Dinki Bello	Fufore	Adamawa	8.852	12.456	2	
+Diko	Kagarko	Kaduna	9.403	7.699	2	Dako
+Dinkanka	Yorro	Taraba	8.906	11.549	2	
+Dipi	Ardo-Kola	Taraba	8.843	11.235	2	
+Mallam Diya	Ardo-Kola	Taraba	8.753	11.341	2	
+Dinawa	Gassol	Taraba	8.541	10.674	2	
+Diaghegbene	Southern Ijaw	Bayelsa	4.770	5.767	2	
+Didango	Demsa	Adamawa	9.424	12.072	2	
+Wuro Dingan	Demsa	Adamawa	9.293	12.133	2	
+Disowo	Mayo-Belwa	Adamawa	9.005	12.084	2	
+Dingsare	Fufore	Adamawa	9.047	12.227	2	
+Biri	Fufore	Adamawa	9.091	12.219	2	Diri
+Dingala	Fufore	Adamawa	9.123	12.220	2	
+Wuro Dibu	Lau	Taraba	9.214	11.564	2	
+Divirlkoko	Yorro	Taraba	9.053	11.599	2	
+Dingle	Demsa	Adamawa	9.267	11.854	2	
+Digiyo	Kala-Balge	Borno	12.365	14.404	2	
+Diji	Alkaleri	Bauchi	9.617	10.878	2	
+Digare	Alkaleri	Bauchi	9.653	10.748	2	Duguri
+Ungwan Mama Dikko	Kalgo	Kebbi	12.282	4.072	2	
+Dipe	Ona Ara	Oyo	7.242	4.092	2	
+Didi	Aiyedade	Osun	7.380	4.381	2	
+Didango	Fufore	Adamawa	9.303	12.865	2	
+Digino-Ngarawo	Fufore	Adamawa	9.371	12.639	2	Digino Ngarawo
+Didango	Girei	Adamawa	9.269	12.497	2	
+Digbolu	Okitipupa	Ondo	6.488	4.651	2	
+Omin-Digbolu	Ijebu North	Ogun	7.074	3.964	2	
+Diko	Ifelodun	Kwara	8.498	5.024	2	
+Dijo	Afijio	Oyo	7.764	3.760	2	
+Dishiba	Ganye	Adamawa	8.291	12.009	2	
+Mai Dime	Teungo	Adamawa	8.076	12.007	2	MaiDime
+Disol	Ganye	Adamawa	8.326	12.057	2	
+Dishigba	Ganye	Adamawa	8.282	11.992	2	
+Dimbangela	Teungo	Adamawa	8.179	11.914	2	
+Disol	Ganye	Adamawa	8.332	11.961	2	
+Dimbara	Ganye	Adamawa	8.479	11.932	2	
+Didango	Shelleng	Adamawa	9.998	12.104	2	
+Dira	Shelleng	Adamawa	9.944	12.113	2	
+Dingpenta	Song	Adamawa	9.807	12.372	2	
+Dirma	Song	Adamawa	9.810	12.334	2	
+Didango	Song	Adamawa	9.789	12.603	2	
+Didango Malabu	Fufore	Adamawa	9.588	12.782	2	DidangoMalabu
+Digbe	Kuje	FCT Abuja	8.775	7.398	2	
+Dirimi-Sabo	Municipal Area Council	FCT Abuja	8.998	7.466	2	
+Dikwa	Gwagwalada	FCT Abuja	8.990	7.080	2	
+Dik	Sardauna	Taraba	6.617	11.222	2	
+Diko	Mayo-Belwa	Adamawa	8.834	12.028	2	
+Dimkusu	Jada	Adamawa	8.520	12.104	2	
+Dimmuk	Qua'An Pan	Plateau	8.871	9.199	2	
+Dijo	Afijio	Oyo	7.756	3.806	2	
+Dipeolu Street	Ikeja	Lagos	6.606	3.349	1	
+Adedotun Dina Crescent	Kosofe	Lagos	6.574	3.372	1	
+Dikwa - Kauwa Road	Kukawa	Borno	12.800	13.675	1	
+Dikko Road	Kaduna North	Kaduna	10.522	7.452	1	
+Diplomatic Drive	Municipal Area Council	FCT Abuja	9.037	7.468	1	
+Dimeji Longe Avenue	Surulere	Lagos	6.495	3.345	1	
+Disu Dosunmu street	Alimosho	Lagos	6.511	3.278	1	
+Dipo Olubi Street	Surulere	Lagos	6.502	3.341	1	
+Dipo Awolesi	Kosofe	Lagos	6.618	3.373	1	
+Dipo Orepitan Street	Eti Osa	Lagos	6.457	3.422	1	
+Oladipo Diya Crescent	Eti Osa	Lagos	6.458	3.424	1	
+Diya Street	Shomolu	Lagos	6.549	3.394	1	
+Hakeen Dickson Drive	Eti Osa	Lagos	6.426	3.462	1	
+Hakeem Dickson Road	Eti Osa	Lagos	6.435	3.475	1	
+R.B. Dikko Road	Municipal Area Council	FCT Abuja	9.050	7.505	1	
+Oladipo Diya Road	Municipal Area Council	FCT Abuja	8.995	7.481	1	
+Dire-Dawa Street	Municipal Area Council	FCT Abuja	9.071	7.458	1	
+Umaru Dikko Street	Municipal Area Council	FCT Abuja	9.068	7.425	1	
+Dimeji Bankole Street	Municipal Area Council	FCT Abuja	9.057	7.440	1	
+Diobe Street	Port-Harcourt	Rivers	4.760	7.028	1	
+Dimaro Str.	Oredo	Edo	6.293	5.587	1	
+Muhammad Dikko Road	Muhammadu Dikko Stadium	Katsina	13.005	7.604	1	
+Dimony Street	Warri South	Delta	5.532	5.756	1	
+Adedotun Dina Street	Kosofe	Lagos	6.574	3.370	1	
+Kenneth Dike Way	Ibadan North	Oyo	7.440	3.907	1	
+Chief Dike Egwuonwu Crescent	Enugu East	Enugu	6.474	7.488	1	
+Dim Anyaeji Street	Enugu East	Enugu	6.482	7.527	1	
+82 Division Army Barracks Road	Enugu North	Enugu	6.462	7.513	1	
+82 Division Army Barracks Ro	Enugu North	Enugu	6.461	7.517	1	
+Diana Crescent	Enugu North	Enugu	6.450	7.506	1	
+Divine Favor Street	Enugu South	Enugu	6.381	7.489	1	
+Diaba Street	Enugu East	Enugu	6.490	7.522	1	
+82 Division Army Barracks Road	Enugu North	Enugu	6.463	7.519	1	
+Dina Road	Ibadan North	Oyo	7.454	3.899	1	
+Dikwa - Kauwa Road	Dikwa	Borno	12.052	13.921	1	
+Dikwa - Kauwa Road	Monguno	Borno	12.680	13.616	1	
+Dick Tiger Avenue	Enugu South	Enugu	6.424	7.503	1	
+82 Division Primary School Road	Enugu North	Enugu	6.462	7.514	1	
+Cecilia Dike Street	Enugu North	Enugu	6.476	7.482	1	
+Dina Road	Ibadan North	Oyo	7.460	3.899	1	
+Hakeem Dickson Road	Eti Osa	Lagos	6.440	3.475	1	
+point one kwanan Alheri, Gona Div	Gombe	Gombe	10.278	11.189	1	
+Festus Dike Avenue	Eti Osa	Lagos	6.472	3.660	1	
+Dibue Road	Ikot Ekpene	Akwa Ibom	5.187	7.707	1	
+Dimrose Road	Yenegoa	Bayelsa	4.941	6.333	1	
+Dibor Street	Oshodi/Isolo	Lagos	6.518	3.322	1	
+Dipeolu Street	Oshodi/Isolo	Lagos	6.558	3.346	1	
+Omo Disu Close	Kosofe	Lagos	6.610	3.379	1	
+Dimeji Sofowora Street	Kosofe	Lagos	6.624	3.367	1	
+Disu St	Ifako/Ijaye	Lagos	6.689	3.270	1	
+Dina Okolo Street	Eti Osa	Lagos	6.495	3.590	1	
+Dick Wami Avenue	Port-Harcourt	Rivers	4.811	6.993	1	
+Dipcharima Close	Eti Osa	Lagos	6.442	3.423	1	
+Divine Street	Ovia North-East	Edo	6.474	5.585	1	
+Divvy Street	Owerri North	Imo	5.411	7.051	1	
+Fred Igwe Dikibo Street	Port-Harcourt	Rivers	4.795	7.050	1	
+Diamond Close	Obio/Akpor	Rivers	4.887	7.021	1	
+Rasulu Balogun Disu Street	Eti Osa	Lagos	6.425	3.586	1	
+Muhammad Dikko Road	Muhammadu Dikko Stadium	Katsina	13.009	7.615	1	
+Dike Street	Obio/Akpor	Rivers	4.899	7.034	1	
+Dike Street	Obio/Akpor	Rivers	4.900	7.035	1	
+Dipo Oyebadejo Street	Alimosho	Lagos	6.538	3.260	1	
+Dipo Omotayo Street	Eti Osa	Lagos	6.487	3.590	1	
+Oladipo Diya	Municipal Area Council	FCT Abuja	9.020	7.587	1	
+Dikwa - Kauwa Road	Kukawa	Borno	12.946	13.672	1	
+Divine Close	Eti Osa	Lagos	6.505	3.584	1	
+Kenneth Dike Way	Ibadan North	Oyo	7.415	3.911	1	
+Dick Road	Ibadan South West	Oyo	7.387	3.871	1	
+Dirt Road Road	Yunusari	Yobe	13.063	11.630	1	
+PC Dike Crescent	Municipal Area Council	FCT Abuja	9.047	7.550	1	
+Dikwa - Kauwa Road	Marte	Borno	12.388	13.801	1	
+Dirt Road	Sabon Birni	Sokoto	13.561	6.128	1	
+Small Dirt Road	Sabon Birni	Sokoto	13.568	6.120	1	
+Maybe Dirt Road	Sabon Birni	Sokoto	13.531	6.119	1	
+Maybe Small dirt road	Sabon Birni	Sokoto	13.540	6.120	1	
+Dirt Road	Sabon Birni	Sokoto	13.543	6.109	1	
+Small dirt road	Sabon Birni	Sokoto	13.541	6.115	1	
+Tiny small dirt road	Sabon Birni	Sokoto	13.546	6.108	1	
+Maybe tiny dirt road	Sabon Birni	Sokoto	13.557	6.105	1	
+Diamond Close	Oshodi/Isolo	Lagos	6.486	3.292	1	
+Idjerhe Dickson Crescent	Sapele	Delta	5.857	5.702	1	
+Divine Close	Obio/Akpor	Rivers	4.872	7.090	1	
+Dikibo Crescent	Obio/Akpor	Rivers	4.886	7.024	1	
+Olaseni Diyaolu Street	Surulere	Lagos	6.500	3.345	1	
+Divine Light Group of Schools	Egor	Edo	6.356	5.572	0	
+Diamond School Academy	Oredo	Edo	6.305	5.604	0	
+Diamond care nursery and primary school	Oredo	Edo	6.326	5.599	0	
+Viva Healthfoo Shop & Dietetic Clinic	Enugu South	Enugu	6.418	7.495	0	
+Olu Aka Di Mma Vocational Technical Training Centre	Enugu North	Enugu	6.431	7.478	0	
+Gadiya Dispensary	Gamawa	Bauchi	11.963	10.445	0	
+Kesa Dispensary	Gamawa	Bauchi	11.964	10.698	0	
+Makawa Dispensary	Zaki	Bauchi	12.206	10.200	0	
+Dorawa Dispensary	Damban	Bauchi	11.576	10.918	0	
+Kafin Zaka Dispensary	Misau	Bauchi	11.493	10.662	0	
+Yelwa Sarman Dispensary	Misau	Bauchi	11.477	10.671	0	
+Makafiya Dispensary	Darazo	Bauchi	11.188	10.935	0	
+Iyayi Dispensary	Ningi	Bauchi	11.308	9.250	0	
+Bakin Kogi Model Primary Health Center	Alkaleri	Bauchi	10.260	10.301	0	Galen Duguri HC - Gangar Dispensary
+Bojos Dispensary	Alkaleri	Bauchi	10.271	10.333	0	Kunzun Health Post
+Guruntun Dispensary	Alkaleri	Bauchi	10.261	10.300	0	Badaram Dutsi
+Jauro Baba Wuro Dispensary	Shani	Borno	10.260	11.872	0	
+Nahuta Dispensary	Shani	Borno	10.316	11.943	0	Bidam Dispensary
+Bakaina Dispensary	Shani	Borno	10.139	12.036	0	
+Lakundum Dispensary	Shani	Borno	10.183	11.960	0	
+Pama Dispensary	Hawul	Borno	10.478	12.248	0	
+Wunje Dispensary	Shani	Borno	10.186	12.008	0	
+Jilbe Dispensary	Kala-Balge	Borno	11.917	14.636	0	
+Jarawa Dispensary	Kala-Balge	Borno	11.960	14.399	0	
+Karagawaru Dispensary	Kaga	Borno	11.906	12.554	0	
+Burguma Dispensary	Kaga	Borno	11.601	12.405	0	
+Guwo Laanti Dispensary	Kaga	Borno	11.625	12.530	0	
+Nyawi Dispensary	Bayo	Borno	10.665	11.776	0	
+Ngohi Kofan Hakimi Medical Dispensary	Askira-Uba	Borno	10.671	12.690	0	
+Guérison Divine	Badagry	Lagos	6.353	2.795	0	
+PHC Kambama	Shagari	Sokoto	12.614	5.223	0	Kambama Upgraded Dispensary
+Kagara Primary Health Clinic and Dispensary	Goronyo	Sokoto	13.393	5.602	0	
+Dialogue Computer Training School	Kaduna North	Kaduna	10.546	7.439	0	
+Diagnostic Center	Kaduna North	Kaduna	10.530	7.455	0	
+Timber Market Lowcost div	Gombe	Gombe	10.281	11.187	0	
+Hybrid Medical Diagotics	Yenegoa	Bayelsa	4.943	6.326	0	
+Divine Grace Schools	Uvwie	Delta	5.540	5.773	0	
+Cheers Medical and Diagontics  Center	Warri South	Delta	5.534	5.748	0	
+Divine Victory School	Warri South	Delta	5.533	5.756	0	
+EDS Exceptional Diamond School	Port-Harcourt	Rivers	4.822	7.052	0	
+Dingyadi Market	Bodinga	Sokoto	12.930	5.129	0	
+Distance Learning Institute	Lagos Mainland	Lagos	6.512	3.393	0	
+Mosolape clinic and diagnosis centre	Akinyele	Oyo	7.483	3.906	0	
+DICON Staff clinic	Kaduna South	Kaduna	10.488	7.420	0	
 Dumun Dispensary	Ganjuwa	Bauchi	10.502	9.900	0	
 Marabawa upgraded dispensary	Kware	Sokoto	13.218	5.306	0	
 Kadassaka Dispensary	Gada	Sokoto	13.677	5.566	0	
@@ -240,24 +609,6 @@ boken dispensary clinic	Maiha	Adamawa	10.002	13.246	0
 Babarejo Dispensary	Suru	Kebbi	11.563	3.987	0	
 Daniya Dispensary	Suru	Kebbi	12.016	4.091	0	
 MDGS Clinic B Division	Suleja	Niger	9.165	7.193	0	
-Wuse District	Municipal Area Council	FCT Abuja	9.062	7.467	2	
-Asokoro District	Municipal Area Council	FCT Abuja	9.042	7.520	2	
-Maitama District	Municipal Area Council	FCT Abuja	9.090	7.491	2	
-Garki District	Municipal Area Council	FCT Abuja	9.035	7.482	2	
-Garki II District	Municipal Area Council	FCT Abuja	9.032	7.499	2	
-Guzape District	Municipal Area Council	FCT Abuja	9.011	7.507	2	
-Utako District	Municipal Area Council	FCT Abuja	9.069	7.444	2	
-Mabushi District	Municipal Area Council	FCT Abuja	9.084	7.449	2	
-Kado District	Municipal Area Council	FCT Abuja	9.091	7.427	2	
-Durumi District	Municipal Area Council	FCT Abuja	9.020	7.464	2	
-Gudu District	Municipal Area Council	FCT Abuja	9.008	7.480	2	
-Jabi District	Municipal Area Council	FCT Abuja	9.065	7.421	2	
-Kukwaba District	Municipal Area Council	FCT Abuja	9.034	7.450	2	
-Wuye District	Municipal Area Council	FCT Abuja	9.050	7.442	2	
-Jahi District	Municipal Area Council	FCT Abuja	9.110	7.439	2	
-Dakibiyu District	Municipal Area Council	FCT Abuja	9.041	7.421	2	
-Kaura District	Municipal Area Council	FCT Abuja	9.003	7.446	2	
-Katampe District	Municipal Area Council	FCT Abuja	9.103	7.462	2	
 BHC Dije Bala	Suleja	Niger	9.175	7.179	0	
 Divine Mercy Clinic And Maternity	Shiroro	Niger	9.919	6.805	0	
 Health Clinic Dikko Dabban	Lavun	Niger	9.267	5.739	0	
@@ -317,65 +668,17 @@ Divine Assurance Abode	Akure South	Ondo	7.289	5.147	0
 Divine Care Neighborhood Clinic And Maternity Satellite Town	Amuwo Odofin	Lagos	6.453	3.252	0	
 Optimum Diagnostics & Clinical Services	Bauchi	Bauchi	10.320	9.828	0	
 Dikwa General Hospitl	Dikwa	Borno	12.042	13.912	0	
-JIGATES DIGITAL SCHOOL	Alimosho	Lagos	6.530	3.236	0	
+Jigates Digital School	Alimosho	Lagos	6.530	3.236	0	
 kingfield diagnostic services	Kosofe	Lagos	6.607	3.422	0	
 Sims digital Center	Municipal Area Council	FCT Abuja	9.083	7.477	0	
-Umu Dikwu Ibeku Opi	Nsukka	Enugu	6.781	7.423	2	Umu Dikwu Agbor
 Divine Grace Secondary School	Jos North	Plateau	9.938	8.917	0	
 Heavens gate redeem, F Division Road, Tanke	Ilorin South	Kwara	8.499	4.588	0	
 Wuse District Hospital Bus Stop	Municipal Area Council	FCT Abuja	9.063	7.468	0	
 Digital Bridge	Municipal Area Council	FCT Abuja	9.072	7.434	0	
 Digital Bridge Institute	Municipal Area Council	FCT Abuja	9.068	7.435	0	
 DIKOR Comprehensive College	Badagry	Lagos	6.428	2.808	0	
-Aku Diewa	Igbo-Etiti	Enugu	6.696	7.339	3	
-Dipeolu Street	Ikeja	Lagos	6.606	3.349	1	
-Adedotun Dina Crescent	Kosofe	Lagos	6.574	3.372	1	
-Dikwa - Kauwa Road	Kukawa	Borno	12.800	13.675	1	
-Dikko Road	Kaduna North	Kaduna	10.522	7.452	1	
-Diplomatic Drive	Municipal Area Council	FCT Abuja	9.037	7.468	1	
-Dimeji Longe Avenue	Surulere	Lagos	6.495	3.345	1	
-Disu Dosunmu street	Alimosho	Lagos	6.511	3.278	1	
-Dipo Olubi Street	Surulere	Lagos	6.502	3.341	1	
-Dipo Awolesi	Kosofe	Lagos	6.618	3.373	1	
-Dipo Orepitan Street	Eti Osa	Lagos	6.457	3.422	1	
-Oladipo Diya Crescent	Eti Osa	Lagos	6.458	3.424	1	
-Diya Street	Shomolu	Lagos	6.549	3.394	1	
-Diya Street	Kosofe	Lagos	6.547	3.397	1	
-Hakeen Dickson Drive	Eti Osa	Lagos	6.426	3.462	1	
-Hakeem Dickson Road	Eti Osa	Lagos	6.435	3.475	1	
-R.B. Dikko Road	Municipal Area Council	FCT Abuja	9.050	7.505	1	
-Oladipo Diya Road	Municipal Area Council	FCT Abuja	8.995	7.481	1	
-Dire-Dawa Street	Municipal Area Council	FCT Abuja	9.071	7.458	1	
-Umaru Dikko Street	Municipal Area Council	FCT Abuja	9.068	7.425	1	
-Dimeji Bankole Street	Municipal Area Council	FCT Abuja	9.057	7.440	1	
-Diobe Street	Port-Harcourt	Rivers	4.760	7.028	1	
-Oladipo Diya Road	Municipal Area Council	FCT Abuja	9.009	7.460	1	
-Dimaro Str.	Oredo	Edo	6.293	5.587	1	
-Muhammad Dikko Road	Muhammadu Dikko Stadium	Katsina	13.005	7.604	1	
-Dimony Street	Warri South	Delta	5.532	5.756	1	
-Adedotun Dina Street	Kosofe	Lagos	6.574	3.370	1	
-Kenneth Dike Way	Ibadan North	Oyo	7.440	3.907	1	
-Kenneth Dike Way	Ibadan North	Oyo	7.431	3.913	1	
-Chief Dike Egwuonwu Crescent	Enugu East	Enugu	6.474	7.488	1	
-Dim Anyaeji Street	Enugu East	Enugu	6.482	7.527	1	
-82 Division Army Barracks Road	Enugu North	Enugu	6.462	7.513	1	
-82 Division Army Barracks Ro	Enugu North	Enugu	6.461	7.517	1	
-Diana Crescent	Enugu North	Enugu	6.450	7.506	1	
-Divine Favor Street	Enugu South	Enugu	6.381	7.489	1	
-Diaba Street	Enugu East	Enugu	6.490	7.522	1	
-82 Division Army Barracks Road	Enugu North	Enugu	6.463	7.519	1	
-Dina Road	Ibadan North	Oyo	7.454	3.899	1	
-Dikwa - Kauwa Road	Dikwa	Borno	12.052	13.921	1	
-Dikwa - Kauwa Road	Monguno	Borno	12.680	13.616	1	
-Dick Tiger Avenue	Enugu South	Enugu	6.424	7.503	1	
-82 Division Primary School Road	Enugu North	Enugu	6.462	7.514	1	
-82 Division Army Barracks	Enugu East	Enugu	6.472	7.511	2	
-Cecilia Dike Street	Enugu North	Enugu	6.476	7.482	1	
-Dina Road	Ibadan North	Oyo	7.460	3.899	1	
 Diggol Health Post	Dambatta	Kano	12.525	8.559	0	
 Dindere Health Post	Tofa	Kano	12.091	8.265	0	
-Hakeem Dickson Road	Eti Osa	Lagos	6.440	3.475	1	
-point one kwanan Alheri, Gona Div	Gombe	Gombe	10.278	11.189	1	
 Alganari Dispensary	Zaki	Bauchi	12.389	10.387	0	Mainako Rimindi
 Gauya Dispensary	Zaki	Bauchi	12.396	10.474	0	
 Ariri Dispensary	Zaki	Bauchi	12.418	10.411	0	
@@ -534,46 +837,16 @@ Sara Dispensary	Tafawa-Balewa	Bauchi	9.633	9.421	0
 Digare Dispensary	Alkaleri	Bauchi	9.657	10.746	0	
 Wuro Geje Dispensary	Tafawa-Balewa	Bauchi	9.725	9.803	0	
 Gaji Dispensary	Alkaleri	Bauchi	9.702	10.191	0	
-Festus Dike Avenue	Eti Osa	Lagos	6.472	3.660	1	
 Gamboru C Dispensary	Ngala	Borno	12.370	14.211	0	
 Gora Health Clinic	Shani	Borno	10.046	11.913	0	Gora Dispensry
 Burashika Dispensary	Shani	Borno	10.141	11.921	0	
 Buma Dispensary	Hawul	Borno	10.329	12.178	0	Buba Mch
 Mofio Dispensary	Monguno	Borno	12.304	13.419	0	
-Dibue Road	Ikot Ekpene	Akwa Ibom	5.187	7.707	1	
-Dimrose Road	Yenegoa	Bayelsa	4.941	6.333	1	
 Sungul Dispensary	Tarmua	Yobe	12.130	12.138	0	
-Dibor Street	Oshodi/Isolo	Lagos	6.518	3.322	1	
-Dipeolu Street	Oshodi/Isolo	Lagos	6.558	3.346	1	
-Omo Disu Close	Kosofe	Lagos	6.610	3.379	1	
-Dimeji Sofowora Street	Kosofe	Lagos	6.624	3.367	1	
-Disu St	Ifako/Ijaye	Lagos	6.689	3.270	1	
-Dina Okolo Street	Eti Osa	Lagos	6.495	3.590	1	
 Dambitam dispensary health post	Bayo	Borno	10.447	11.746	0	
 Dietams International Secondary School	Port-Harcourt	Rivers	4.797	7.034	0	
-Dick Wami Avenue	Port-Harcourt	Rivers	4.811	6.993	1	
 Mbella Sarki Dispensary	Nangere	Yobe	11.616	10.990	0	
-Dipcharima Close	Eti Osa	Lagos	6.442	3.423	1	
-Divine Street	Ovia North-East	Edo	6.474	5.585	1	
-Divvy Street	Owerri North	Imo	5.411	7.051	1	
-Fred Igwe Dikibo Street	Port-Harcourt	Rivers	4.795	7.050	1	
-Diamond Close	Obio/Akpor	Rivers	4.887	7.021	1	
-Rasulu Balogun Disu Street	Eti Osa	Lagos	6.425	3.586	1	
-Diplomatic Drive	Municipal Area Council	FCT Abuja	9.041	7.478	1	
 Divine Mercy Secondary School	Municipal Area Council	FCT Abuja	9.049	7.511	0	
-Muhammad Dikko Road	Muhammadu Dikko Stadium	Katsina	13.009	7.615	1	
-Dike Street	Obio/Akpor	Rivers	4.899	7.034	1	
-Dike Street	Obio/Akpor	Rivers	4.900	7.035	1	
-Dipo Oyebadejo Street	Alimosho	Lagos	6.538	3.260	1	
-Dipo Omotayo Street	Eti Osa	Lagos	6.487	3.590	1	
-Oladipo Diya	Municipal Area Council	FCT Abuja	9.020	7.587	1	
-Dikwa - Kauwa Road	Kukawa	Borno	12.946	13.672	1	
-Oladipo Diya Road	Municipal Area Council	FCT Abuja	9.000	7.473	1	
-Divine Close	Eti Osa	Lagos	6.505	3.584	1	
-Kenneth Dike Way	Ibadan North	Oyo	7.415	3.911	1	
-Kenneth Dike Way	Ibadan North	Oyo	7.411	3.912	1	
-R.B. Dikko Road	Municipal Area Council	FCT Abuja	9.049	7.503	1	
-Dick Road	Ibadan South West	Oyo	7.387	3.871	1	
 Garin Gada Dispensary	Yunusari	Yobe	12.987	11.969	0	
 Degeltura Dispensary	Yunusari	Yobe	12.976	12.236	0	
 Bula Malla Dispensary	Yunusari	Yobe	13.205	11.408	0	
@@ -589,12 +862,10 @@ Bultuwa Dispensary	Yunusari	Yobe	12.969	12.048	0
 Kafiya Dispensary	Yunusari	Yobe	13.073	11.673	0	
 Gursulu Dispensary	Yunusari	Yobe	13.040	12.052	0	
 Dekwa Dispensary	Yunusari	Yobe	13.080	12.140	0	
-Dirt Road Road	Yunusari	Yobe	13.063	11.630	1	
 St Raphael Divine Mercy Specialist Hospital	Ìkòròdú	Lagos	6.625	3.550	0	
 Divine Favour, Nursery and Primary School	Akinyele	Oyo	7.488	3.922	0	
 Bakre Disu Oshodi Memorial High School	Agege	Lagos	6.613	3.317	0	
 Diamond Pearls	Ikeja	Lagos	6.626	3.347	0	
-PC Dike Crescent	Municipal Area Council	FCT Abuja	9.047	7.550	1	
 1 Division Hospital	Kaduna North	Kaduna	10.591	7.451	0	
 Enugu State Medical Diagnostic Centre	Enugu North	Enugu	6.455	7.495	0	
 Niger Foundation Hospital &Diagnostic Center	Enugu North	Enugu	6.442	7.514	0	
@@ -693,8 +964,6 @@ Bujiyel Dispensary	Toro	Bauchi	10.013	9.000	0
 Tilde Dispensary	Toro	Bauchi	10.040	8.987	0	Tilde Maternity and Tilde Health Clinic
 Pegin Doka Dispensary	Dass	Bauchi	10.026	9.599	0	
 Gungu Dispensary	Bauchi	Bauchi	9.989	9.720	0	
-Dikwa - Kauwa Road	Marte	Borno	12.388	13.801	1	
-Dikwa - Kauwa Road	Dikwa	Borno	12.056	13.922	1	
 Loskuri Dispensary	Mafa	Borno	11.832	13.408	0	
 Maafa Dispensary	Mafa	Borno	12.108	13.699	0	
 Gashala Mamudu Dispensary	Hong	Adamawa	10.404	13.083	0	
@@ -703,7 +972,7 @@ Monguno Town Dispensary	Monguno	Borno	12.671	13.616	0
 Gamboru C Dispensary Temp	Ngala	Borno	12.370	14.211	0	
 Sakdiya Dispensary	Bayo	Borno	10.434	11.771	0	
 Manawaji Dispensary	Ngala	Borno	12.421	14.128	0	
-BULABULIN  DISPENSARY	Fika	Yobe	11.405	11.414	0	
+Bulabulin  Dispensary	Fika	Yobe	11.405	11.414	0	
 Yabal Dispensary	Konduga	Borno	11.733	13.433	0	
 Dalahat Dispensary	Shani	Borno	10.187	12.080	0	
 Wuro Boki Dispensary	Shani	Borno	10.075	12.053	0	
@@ -736,7 +1005,6 @@ Zai Dispensary	Yunusari	Yobe	12.959	11.853	0
 Gumshi Dispensary	Yusufari	Yobe	13.171	10.257	0	
 Maibugori Dispensary	Yusufari	Yobe	13.031	11.365	0	
 Jebuwa Dispensary	Yusufari	Yobe	13.037	10.941	0	
-Kajimaranm Dispensary	Yusufari	Yobe	13.194	10.559	0	
 Sumbar Dispensary	Yusufari	Yobe	13.165	10.519	0	
 tigno kogi dispensary	Larmurde	Adamawa	9.507	11.734	0	
 bulkutu dispensary	Larmurde	Adamawa	9.510	11.569	0	
@@ -800,43 +1068,8 @@ Tikau Dispensary	Potiskum	Yobe	11.707	11.072	0
 Dimgam Health Post	Ganye	Adamawa	8.448	11.955	0	
 Lawan Bukarti Dispensary	Geidam	Yobe	12.834	11.844	0	
 Moborti Dispensary	Geidam	Yobe	12.862	11.834	0	
-Dirt Road	Sabon Birni	Sokoto	13.561	6.128	1	
-Small Dirt Road	Sabon Birni	Sokoto	13.568	6.120	1	
-Small dirt road	Sabon Birni	Sokoto	13.564	6.118	1	
-Maybe Dirt Road	Sabon Birni	Sokoto	13.531	6.119	1	
-Maybe Small dirt road	Sabon Birni	Sokoto	13.540	6.120	1	
-Dirt Road	Sabon Birni	Sokoto	13.543	6.109	1	
-Small dirt road	Sabon Birni	Sokoto	13.541	6.115	1	
-Tiny small dirt road	Sabon Birni	Sokoto	13.546	6.108	1	
-Small Dirt Road	Sabon Birni	Sokoto	13.558	6.107	1	
-Maybe tiny dirt road	Sabon Birni	Sokoto	13.557	6.105	1	
-Diamond Close	Oshodi/Isolo	Lagos	6.486	3.292	1	
-Idjerhe Dickson Crescent	Sapele	Delta	5.857	5.702	1	
-Divine Close	Obio/Akpor	Rivers	4.872	7.090	1	
-Dikibo Crescent	Obio/Akpor	Rivers	4.886	7.024	1	
 Asokor District Hospital, ASOKORO	Municipal Area Council	FCT Abuja	9.047	7.524	0	
 Asokoro District Hospital	Municipal Area Council	FCT Abuja	9.045	7.523	0	
 dispensary	Langtang North	Plateau	9.198	9.881	0	
-Olaseni Diyaolu Street	Surulere	Lagos	6.500	3.345	1	
 Divine Health Clinic	Idemili North	Anambra	6.120	6.840	0	
 Diamond Springs School	Ado Odo/Ota	Ogun	6.680	3.211	0	DSS
-Dilala	Yunusari	Yobe	13.150	11.656	2	
-Diginsa	Biriniwa	Jigawa	12.859	10.010	2	
-Dinawa	Wurno	Sokoto	13.228	5.435	2	
-Dingyadi	Bodinga	Sokoto	12.943	5.124	2	
-Dimbiso	Wurno	Sokoto	13.332	5.473	2	
-Diggi	Kalgo	Kebbi	12.362	4.039	2	
-Dikko	Argungu	Kebbi	12.727	4.500	2	
-Gorun Dikko	Arewa Dandi	Kebbi	12.575	3.995	2	
-Dindere	Tofa	Kano	12.097	8.271	2	
-Dissi	Matazu	Katsina	12.175	7.690	2	
-Muhammadu Dikko Stadium	Muhammadu Dikko Stadium	Katsina	13.018	7.624	2	
-Dikwa	Dikwa	Borno	12.058	13.909	2	
-Dikwa	Dikwa	Borno	11.944	14.071	2	
-Dille Huyim	Askira-Uba	Borno	10.831	13.177	2	
-Disina B	Shira	Bauchi	11.398	9.907	2	
-Dingaya	Gwaram	Jigawa	11.181	10.041	2	
-Diga	Itas/Gadau	Bauchi	11.924	10.001	2	
-Disina A	Shira	Bauchi	11.479	9.902	2	
-Dingis	Ningi	Bauchi	11.150	9.513	2	
-Central Business District	Municipal Area Council	FCT Abuja	9.058	7.494	2	

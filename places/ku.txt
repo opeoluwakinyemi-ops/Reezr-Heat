@@ -1,6 +1,33 @@
 Kukawa	Guzamala	Borno	12.925	13.566	3	Koukawa;Koukaoua
-Kuru	Jos South	Plateau	9.648	8.809	0	
-Kulp Bible School	Hong	Adamawa	10.327	13.170	0	
+Kumo	Akko	Gombe	10.049	11.210	3	
+Birnin Kudu	Birnin Kudu	Jigawa	11.451	9.477	3	
+Kujama	Chikun	Kaduna	10.478	7.638	3	
+Kula	Akuku Toru	Rivers	4.342	6.645	3	
+Kurjelli	Yamaltu/Deba	Gombe	10.156	11.558	3	
+Kurugu	Kwami	Gombe	10.494	11.310	3	
+Kofar Kudu Dumbulum	Tsanyawa	Kano	12.184	8.019	3	Dumbulum
+Unguwar Kudu	Tsanyawa	Kano	12.344	7.976	3	
+Kubwa	Municipal Area Council	FCT Abuja	9.153	7.341	3	
+Kauji Kura	Damboa	Borno	11.040	12.704	3	
+Kuje	Kuje	FCT Abuja	8.880	7.227	3	
+Kudu	Mokwa	Niger	9.268	5.348	3	
+Kunya	Minjibir	Kano	12.223	8.531	3	
+Zango	Bunkure	Kano	11.696	8.703	3	Kumurya
+Sitti Kudu	Sumaila	Kano	11.284	8.783	3	Sitti
+Kuta	Shiroro	Niger	9.870	6.708	3	
+Kunini	Lau	Taraba	9.243	11.400	3	
+Marte	Marte	Borno	12.365	13.829	3	Marte-Kuna
+Makurdi	Markurdi	Benue	7.734	8.521	3	MDI|Makurdu|ma ku er di|makuleudi|makuradi|makurdi|makuridi|makurudi|makwrdy
+Kwaya Kusar	Kwaya Kusar	Borno	10.503	11.843	3	Kawaya Tera|Kwaia|Kwaya|Kwaya Tera|Kwaya Terra
+Kutigi	Lavun	Niger	9.201	5.595	3	
+Kusada	Kusada	Katsina	12.466	7.978	3	
+Kurfi	Kurfi	Katsina	12.666	7.485	3	
+Kura	Kura	Kano	11.772	8.426	3	
+Kunchi	Kunchi	Kano	12.503	8.271	3	
+Kumbotso	Kumbotso	Kano	11.890	8.503	3	Kum Botso
+Gummi	Gummi	Zamfara	12.145	5.118	3	Gunmi|Kunmi
+Dawakin Kudu	Dawakin Kudu	Kano	11.837	8.597	3	Dawaki|Dawaki Kudu
+Kuchigoro	Municipal Area Council	FCT Abuja	9.016	7.419	2	
 Kureke	Obanliku	Cross River	6.475	9.448	2	
 Kukun	Zuru	Kebbi	11.416	5.183	2	
 Kupti	Magumeri	Borno	12.338	12.519	2	
@@ -21,7 +48,6 @@ Kusoziko	Mokwa	Niger	9.057	5.210	2
 Kutansami	Mai'Adua	Katsina	13.121	8.327	2	
 Bararam Kura	Bama	Borno	11.482	13.616	2	
 Kumumza	Gwoza	Borno	10.906	13.318	2	Kumbosa
-Kumo	Akko	Gombe	10.049	11.210	3	
 Kurra	Barkin Ladi	Plateau	9.401	8.743	2	
 Kutalifi	Chikun	Kaduna	10.333	7.333	2	Kutali
 Kurgungun	Garki	Jigawa	12.385	8.817	2	
@@ -57,7 +83,10 @@ Kunyu	Gwandu	Kebbi	12.567	4.736	2
 Kundu	Ikara	Kaduna	11.131	8.433	2	Kunda
 Machiyan Kuka	Tafawa-Balewa	Bauchi	9.867	9.700	2	
 Kubuku Kadaka	Kwaya Kusar	Borno	10.428	11.928	2	Kubuku Kaduga
+Adamu Kulu	Ardo-Kola	Taraba	8.705	11.216	2	
 Goni Kurmi	Mafa	Borno	11.731	13.639	2	
+Kurnahi	Jalingo	Taraba	8.917	11.317	2	
+Garin Kunini	Yorro	Taraba	9.069	11.532	2	
 Kunadlang	Kwaya Kusar	Borno	10.333	11.904	2	Deba
 Kurmin Dangana	Kagarko	Kaduna	9.594	7.905	2	
 Kunmi	Ifelodun	Kwara	8.465	4.884	2	
@@ -77,6 +106,7 @@ Shaffa Kutagar	Hawul	Borno	10.427	12.261	2	Shata Aga
 Tudun Kulul	Gada	Sokoto	13.685	5.625	2	
 Kukin Burera	Jama'Are	Bauchi	11.595	9.886	2	
 Kulatawa	Kware	Sokoto	13.201	5.215	2	
+Kuson	Yorro	Taraba	8.917	11.402	2	
 Sabongari Kuda	Michika	Adamawa	10.719	13.417	2	
 Guidan Kurau	Sabon Birni	Sokoto	13.364	6.281	2	Gidan Kurau
 Gwanki	Mani	Katsina	12.994	7.819	2	Kurabo
@@ -107,7 +137,7 @@ Kuru	Jos South	Plateau	9.683	8.800	2
 Kumuo	Shira	Bauchi	11.456	9.903	2	
 Kubodeno	Shani	Borno	10.220	11.822	2	Gasi
 Asanyi Kubegi	Agaie	Niger	9.117	6.333	2	Chata;Kubegi
-KUNDULUN	Akko	Gombe	10.321	11.182	2	
+Kundulun	Akko	Gombe	10.321	11.182	2	
 Kutiko	Katcha	Niger	9.333	6.483	2	Sunbwagi
 Chongolo Kura	Bama	Borno	11.381	13.993	2	
 Kukaragi	Lokoja	Kogi	8.686	6.299	2	
@@ -121,6 +151,7 @@ Dancale Kufani	Baure	Katsina	12.848	8.914	2
 Kurtu	Baure	Katsina	12.811	8.899	2	Ungua Kurtu
 Kurungulung	Shani	Borno	10.242	11.806	2	Kurgulum
 Unguan Kutare	Balanga	Gombe	9.966	11.628	2	
+Kufayin Sale	Donga	Taraba	7.517	10.533	2	
 Kuchingoro	Municipal Area Council	FCT Abuja	9.016	7.420	2	
 Kuchikpa	Agaie	Niger	8.810	6.528	2	
 Kura	Binji	Sokoto	13.127	4.784	2	Duchin Kura
@@ -140,7 +171,6 @@ Dogon Kuka	Fika	Yobe	11.327	11.495	2
 Kujum	Zaki	Bauchi	12.310	10.470	2	
 Shame Kura	Geidam	Yobe	12.837	11.882	2	Shami Kura
 Kupalo	Ona Ara	Oyo	7.317	4.100	2	Kupolo
-Birnin Kudu	Birnin Kudu	Jigawa	11.451	9.477	3	
 Kunkuru	Argungu	Kebbi	12.679	4.589	2	
 Kulba	Bunza	Kebbi	12.264	4.168	2	
 Kursa	Rabah	Sokoto	13.009	5.858	2	
@@ -156,6 +186,7 @@ Kuduwa	Gwoza	Borno	11.302	13.688	2
 Kuva	Bayo	Borno	10.577	11.673	2	Kuba
 Kulani	Balanga	Gombe	9.799	11.633	2	
 Kuchi	Munya	Niger	9.938	7.020	2	
+Kungana	Bali	Taraba	7.817	10.583	2	Kungana Habe
 Kutiluko	Agaie	Niger	9.183	6.450	2	
 Kusabuni	Sabon Birni	Sokoto	13.419	6.116	2	
 Birnin Kuka	Mashi	Katsina	13.318	7.987	2	
@@ -173,6 +204,7 @@ Kumci Baba	Arewa Dandi	Kebbi	12.477	3.708	2
 Kumba	Hawul	Borno	10.574	12.046	2	
 Kurawe	Ilaje	Ondo	6.234	4.809	2	Rawe;Perawe
 Kumbulewari	Marte	Borno	12.422	13.851	2	
+Gidan Kunama	Kurmi	Taraba	7.467	10.717	2	Kunama
 Kubure	Baruten	Kwara	8.867	3.100	2	Kuburi;Kobure
 Arum Karimi	Wamba	Nasarawa	9.117	8.650	2	Arum Kurmi;Arum-Karmi
 Kumari	Askira-Uba	Borno	10.417	13.192	2	
@@ -224,10 +256,8 @@ Kuminya	Goronyo	Sokoto	13.479	5.822	2
 Kutosheka	Kankara	Katsina	11.825	7.579	2	Makauraci
 Kutcheri	Tsafe	Zamfara	11.831	7.019	2	
 Kutako	Giwa	Kaduna	10.800	7.128	2	Kuako
-Kujama	Chikun	Kaduna	10.478	7.638	3	
 Gulbin Kuka	Fakai	Kebbi	11.390	4.782	2	Gidan Kuka
 Cross Kauwa	Kukawa	Borno	12.946	13.672	2	Kuros Kauwa
-Kula	Akuku Toru	Rivers	4.342	6.645	3	
 Kunjum	Gamawa	Bauchi	12.002	10.779	2	
 Kundeve	Obanliku	Cross River	6.518	9.348	2	Kundege;Kundfve
 Kurfaida	Arewa Dandi	Kebbi	12.686	4.082	2	
@@ -235,7 +265,6 @@ Kuham Gaika	Arewa Dandi	Kebbi	12.948	4.126	2
 Tungan-Kura	Fakai	Kebbi	11.584	4.957	2	
 Gidan Kuru	Fakai	Kebbi	11.590	4.852	2	
 Dan Kuku	Maru	Zamfara	11.450	6.398	2	
-Kurjelli	Yamaltu/Deba	Gombe	10.156	11.558	3	
 Sasawa Kura	Gwoza	Borno	11.189	13.463	2	Sasawa-Kura
 Kuchin Pwere	Tafa	Niger	9.248	7.234	2	Yaguru
 Makun	Agaie	Niger	9.017	6.533	2	Kurmin Ayaba
@@ -266,8 +295,6 @@ Ungwan Kunkumi	Makarfi	Kaduna	11.350	8.030	2	Kunkumi
 Karim Kir	Kwaya Kusar	Borno	10.559	11.975	2	Karin Kura
 Kurmin Sauchi	Birnin Gwari	Kaduna	11.288	6.988	2	
 Kufita	Birnin Gwari	Kaduna	11.040	6.622	2	Kofita
-Kutura	Kajuru	Kaduna	10.198	7.692	0	
-Kurugu	Kwami	Gombe	10.494	11.310	3	
 Kurugbaba	Brass	Bayelsa	4.358	6.267	2	Korugbaba
 Kokuwa	Gulani	Yobe	11.106	11.902	2	Kukawa
 Kursigi	Funakaye	Gombe	11.022	11.443	2	
@@ -288,6 +315,7 @@ Gala Kura	Bama	Borno	11.319	14.190	2
 Yawa-Kura	Abadam	Borno	13.653	13.282	2	
 Kutari	Abadam	Borno	13.616	13.256	2	
 Kukwal	Bayo	Borno	10.648	11.778	2	Gokwal
+Tepkwar	Sardauna	Taraba	6.667	11.117	2	Kouar;Kuar
 Kuihuma	Chibok	Borno	10.735	12.736	2	Korohuma Bulama Bulabukar
 Gura Kuchi	Biu	Borno	10.585	12.186	2	Gura
 Kurugbene	Ilaje	Ondo	6.359	4.804	2	Krugbene
@@ -303,6 +331,7 @@ Kuruga	Bagudo	Kebbi	11.518	4.233	2
 Kudaru	Lere	Kaduna	10.635	8.469	2	
 Setorun	Warri South-West	Delta	5.581	5.346	2	Serorun;Kurutie;Setorum
 Kote Kura / Awaram	Bama	Borno	11.416	14.048	2	
+Garin Kufai	Karim Lamido	Taraba	8.783	10.567	2	Kupai;Kogin Kupai
 Kurihiawa	Gada	Sokoto	13.590	5.681	2	
 Kuka Panjam	Rijau	Niger	11.041	5.312	2	Tungan Kuka Panjam
 Kusuluwa	Geidam	Yobe	12.807	12.364	2	
@@ -314,9 +343,9 @@ Kursasa	Shinkafi	Zamfara	13.002	6.558	2
 Kubuku Garu	Kwaya Kusar	Borno	10.420	11.925	2	Kukuku Garu
 Kurumo	Asa	Kwara	8.467	4.333	2	Karuma
 Abba Kumbo	Fufore	Adamawa	9.399	12.842	2	
-Marte	Marte	Borno	12.365	13.830	2	Marte-Kuna
 Kauwa Kura	Diffa	Borno	13.389	12.792	2	Kowa
 Kusuma	Ngala	Borno	12.206	14.189	2	
+Bagoni	Bali	Taraba	7.883	10.717	2	Kungana Bagoni
 Kukoki	Arewa Dandi	Kebbi	12.956	4.143	2	
 Kubacha	Kagarko	Kaduna	9.445	7.808	2	
 Payamapu	Chibok	Borno	10.796	12.823	2	Payamopu Kura
@@ -336,18 +365,13 @@ Kubuta	Goronyo	Sokoto	13.194	5.889	2
 Kwolajiya	Tangaza	Sokoto	13.487	4.872	2	Kualaje
 Kubaye	Shanga	Kebbi	11.198	4.722	2	Kube
 Kuroko	Ajaokuta	Kogi	7.656	6.730	2	
-Kurmin Biri	Kachia	Kaduna	10.040	8.021	0	
 Jugulu Kura	Mobbar	Borno	13.363	12.788	2	
 Kulani	Balanga	Gombe	9.775	11.666	2	
-Kurugu Health Post	Karaye	Kano	11.833	8.040	0	
-Kuku Primary Health Centre	Kunchi	Kano	12.373	8.282	0	
 Kullumi	Ajingi	Kano	12.033	9.032	2	
 Gul Kudu	Gaya	Kano	11.777	9.111	2	
 Kurta	Gaya	Kano	11.757	9.114	2	
 Kundara	Dawakin Kudu	Kano	11.826	8.693	2	
-Kofar Kudu Dumbulum	Tsanyawa	Kano	12.184	8.019	3	Dumbulum
 Tagwaye	Doguwa	Kano	10.778	8.596	2	Tsangayar Kudu
-Unguwar Kudu	Tsanyawa	Kano	12.344	7.976	3	
 Gyadi-Gyadin Kudu	Tarauni	Kano	11.969	8.546	2	Gyadi Gyadi Kudu
 Kundila Phase 3	Tarauni	Kano	11.965	8.557	2	Kundila
 Kurma	Kumbotso	Kano	11.908	8.602	2	
@@ -355,14 +379,10 @@ Kunkurawa	Ajingi	Kano	11.972	9.064	2
 Fatan Kudu	Tudun Wada	Kano	11.195	8.458	2	
 Kuguru	Tudun Wada	Kano	11.225	8.463	2	
 Kurkujawa	Tudun Wada	Kano	11.186	8.523	2	
-Bojos Dispensary	Alkaleri	Bauchi	10.271	10.333	0	Kunzun Health Post
-Kubwa	Municipal Area Council	FCT Abuja	9.153	7.341	3	
 Jaja Kura East	Abadam	Borno	13.671	13.342	2	
 Jaja Kura West	Abadam	Borno	13.673	13.339	2	
-Kauji Kura	Damboa	Borno	11.040	12.704	3	
 Kundeng	Shani	Borno	10.278	11.894	2	
 Kurmiri	Nganzai	Borno	12.768	13.152	2	
-Kurmiri	Nganzai	Borno	12.789	13.147	2	
 Mallam Kuluri	Nganzai	Borno	12.730	13.082	2	
 Buluri Kura	Magumeri	Borno	12.196	12.882	2	
 Buwa Kundindiri	Magumeri	Borno	12.179	12.998	2	
@@ -470,7 +490,6 @@ Fanda Kurumiri	Gubio	Borno	12.603	12.849	2
 Gambo Kuramari	Gubio	Borno	12.607	12.979	2	
 Gambo Kurmari	Gubio	Borno	12.607	12.947	2	
 Kujerti	Gubio	Borno	12.720	12.871	2	
-Kubodeno Clinic	Shani	Borno	10.223	11.820	0	
 Gaskeri Kura	Jere	Borno	11.753	13.229	2	
 Bukar Kudiri	Nganzai	Borno	12.648	13.090	2	
 Bukar Kurnari	Nganzai	Borno	12.578	13.146	2	
@@ -509,7 +528,6 @@ Masta Kurari	Nganzai	Borno	12.623	13.352	2
 Munduri Kura	Nganzai	Borno	12.601	13.204	2	
 Kukami	Magumeri	Borno	12.022	12.929	2	
 Musa Kurumiri	Magumeri	Borno	12.034	12.942	2	
-Kuje	Kuje	FCT Abuja	8.880	7.227	3	
 Kukuri	Bassa	Kogi	7.944	7.206	2	
 Kuru	Toto	Nasarawa	8.399	7.215	2	
 Garin Mai Kura	Shani	Borno	10.095	11.904	2	
@@ -553,7 +571,6 @@ Kuthi Adamu	Kwaya Kusar	Borno	10.463	12.004	2
 Kuthi Hizi	Hawul	Borno	10.363	12.056	2	
 Kuthi Sikami	Kwaya Kusar	Borno	10.463	12.007	2	
 Zara Kuthi	Kwaya Kusar	Borno	10.393	12.014	2	Kuthli Yamta
-Kubo Comprehensive Health Center	Shani	Borno	10.108	12.031	0	
 Kusulluwa	Abadam	Borno	13.397	13.118	2	
 Kudo Kwale	Mobbar	Borno	13.368	12.871	2	
 Kudo Tul	Mobbar	Borno	13.402	12.898	2	
@@ -566,17 +583,14 @@ Kurhl	Hawul	Borno	10.524	12.031	2
 Gura Viu Kuthla	Biu	Borno	10.613	12.242	2	
 Kubala	Biu	Borno	10.600	12.257	2	
 Viu Kuthla	Biu	Borno	10.619	12.246	2	
-Kumaga Health Clinic	Kala-Balge	Borno	12.136	14.620	0	
 Kumaga	Kala-Balge	Borno	12.135	14.620	2	
 Kudiye	Dikwa	Borno	11.970	13.991	2	
 Chobal Kura	Magumeri	Borno	11.954	13.004	2	
-Chobal Kura Primary Health Centre	Magumeri	Borno	11.955	13.002	0	
 Gur Kutangaru	Biu	Borno	10.776	12.224	2	
 Kana Kuthli Madu	Biu	Borno	10.764	12.322	2	
 Kurtum	Biu	Borno	10.696	12.318	2	
 Kuran Mota	Biu	Borno	10.837	11.644	2	
 Kuffi	Biu	Borno	11.035	12.083	2	
-Kumshe Clinic	Bama	Borno	11.356	14.210	0	
 Kudabala	Damboa	Borno	11.060	12.539	2	
 Litawe Kura	Damboa	Borno	11.084	12.835	2	
 Mulimari Kura	Damboa	Borno	11.103	12.666	2	
@@ -584,9 +598,6 @@ Kusha Kucha Clan	Gwoza	Borno	11.224	13.895	2
 Ngabrawa Kura	Gwoza	Borno	11.243	13.942	2	
 Bararam Kura	Bama	Borno	11.496	13.652	2	Kelluri
 Kuruhi	Sabon Birni	Sokoto	13.652	5.975	2	
-Kubwa	Bwari	FCT Abuja	9.164	7.325	0	
-KUNDILA PRIMARY SCHOOL KUNDILA	Tarauni	Kano	11.965	8.556	0	
-GOVT SEC SCH KUNDILA	Tarauni	Kano	11.965	8.556	0	
 Guzumbri Kura	Monguno	Borno	12.307	13.416	2	
 Bida Kura	Monguno	Borno	12.332	13.455	2	
 Kaguran Kura	Monguno	Borno	12.598	13.664	2	
@@ -646,8 +657,6 @@ Kusham	Konduga	Borno	11.662	13.250	2
 Bukar Kurari	Konduga	Borno	11.844	12.781	2	
 Balonguwa Kura	Konduga	Borno	11.711	12.989	2	
 Tarwashe Kura	Konduga	Borno	11.645	13.208	2	
-Kukwaba II	Municipal Area Council	FCT Abuja	9.031	7.423	0	
-Kukwaba I	Municipal Area Council	FCT Abuja	9.040	7.441	0	
 Kura Mota	Isa	Sokoto	13.169	6.337	2	
 Kuka Nadada	Isa	Sokoto	13.184	6.310	2	
 Kukaduke	Bukkuyum	Zamfara	11.937	5.580	2	
@@ -659,11 +668,8 @@ Kuruwa	Tureta	Sokoto	12.468	5.659	2
 Kulalo	Bodinga	Sokoto	12.918	5.231	2	
 Kukoki	Rafi	Niger	10.113	6.430	2	
 Kutungi	Mokwa	Niger	9.111	5.208	2	
-Kudu	Mokwa	Niger	9.268	5.348	3	
 Kurmin Jibrin	Kagarko	Kaduna	9.470	7.936	2	
 Kuchidna	Karu	Nasarawa	9.153	7.628	2	
-Yajiwa Camp Kusheri Refugee Site	Jere	Borno	11.789	13.131	0	
-Kessa Kura Refugee Site	Jere	Borno	11.919	13.193	0	
 Kudanci	Rogo	Kano	11.483	7.782	2	
 Kogon Kura	Gwarzo	Kano	11.925	7.900	2	
 Unguwar Kudu	Kiru	Kano	11.708	8.094	2	
@@ -671,7 +677,6 @@ Kunkurawa A	Kiru	Kano	11.722	8.161	2
 Kurugu	Karaye	Kano	11.833	8.041	2	
 Unguwar Kure	Karaye	Kano	11.807	8.066	2	
 Kurje	Kunchi	Kano	12.444	8.162	2	
-Kunchi	Kunchi	Kano	12.502	8.271	2	
 Bulawa	Bichi	Kano	12.338	8.150	2	Lambar Kunchi
 Kurma	Bichi	Kano	12.234	8.288	2	
 Kukar Tanko	Bebeji	Kano	11.550	8.329	2	
@@ -689,7 +694,6 @@ Tsahar Kuturu	Dawakin Tofa	Kano	12.131	8.396	2
 San Kura Dubu	Kunchi	Kano	12.358	8.367	2	
 Unguwar Kusa	Makoda	Kano	12.568	8.468	2	
 Kurna	Makoda	Kano	12.543	8.481	2	
-Kunya	Minjibir	Kano	12.223	8.531	3	
 Kuka Bakwai	Minjibir	Kano	12.230	8.554	2	
 Kuka	Gabasawa	Kano	12.223	8.726	2	
 Kuru	Minjibir	Kano	12.171	8.551	2	
@@ -714,10 +718,8 @@ Kutil	Gezawa	Kano	12.028	8.744	2
 Kuibar	Dawakin Kudu	Kano	11.782	8.752	2	
 Tsaida Kudu	Gaya	Kano	11.834	9.123	2	
 Kurna	Wudil	Kano	11.785	8.888	2	
-Kurna	Gaya	Kano	11.787	8.889	2	
 Gunda Kudu	Gaya	Kano	11.800	8.900	2	
 Kazurawa Kudu	Gaya	Kano	11.775	9.018	2	
-Zango	Bunkure	Kano	11.696	8.703	3	Kumurya
 Kumburau A	Dawakin Kudu	Kano	11.757	8.641	2	
 Unguwar Busau	Garko	Kano	11.557	8.996	2	Unguwar Kuka;Unguwan Kuka
 Kofar Kudu	Takai	Kano	11.442	9.089	2	
@@ -725,7 +727,6 @@ Kula Hanyar Gala	Sumaila	Kano	11.395	8.941	2	Kula
 Kurido	Takai	Kano	11.414	9.155	2	
 Kur	Rano	Kano	11.366	8.602	2	
 Kunfada	Garko	Kano	11.622	8.853	2	
-Sitti Kudu	Sumaila	Kano	11.284	8.783	3	Sitti
 Gidan Kudu	Sumaila	Kano	11.279	8.727	2	
 Makama Kudu	Garko	Kano	11.569	8.765	2	
 Kofar Kudu	Tudun Wada	Kano	11.367	8.673	2	
@@ -733,211 +734,15 @@ Kuruma Yamma	Bunkure	Kano	11.667	8.536	2
 Kurmi A	Rano	Kano	11.500	8.600	2	
 Unguwar Kudu	Garum Mallam	Kano	11.694	8.438	2	
 Kundu	Rano	Kano	11.538	8.496	2	Kundun
-PHC Ruggar Kura	Dange-Shuni	Sokoto	12.923	5.248	0	
-Kundesana Clinic	Gwoza	Borno	11.088	13.687	0	
-Kughum Health Clinic	Gwoza	Borno	11.054	13.791	0	
-Kuma Dispensary	Askira-Uba	Borno	10.416	13.196	0	
-kurang heath post	Madagali	Adamawa	10.713	13.592	0	
-Kuelu Primary Health Care	Egbedore	Osun	7.841	4.483	0	
 Kukwaba District	Municipal Area Council	FCT Abuja	9.034	7.450	2	
 Kube	Kagarko	Kaduna	9.314	7.796	2	
-Rural Hospital Kuta	Shiroro	Niger	9.857	6.713	0	
 Kugbedi	Isoko North	Delta	5.483	6.117	2	
-Kumurya	Bunkure	Kano	11.691	8.702	0	
-Kure Market	Chanchaga	Niger	9.617	6.531	0	
-Rosy Premium Success Academy Nursery and Primary School Kuchigoro	Municipal Area Council	FCT Abuja	9.018	7.420	0	
-Kurmin Mashi181 Primary Health Care	Kaduna South	Kaduna	10.553	7.415	0	
-Kubau Road Primary Health Center	Kaduna South	Kaduna	10.520	7.407	0	
-Kujama Gari Primary Health Center	Chikun	Kaduna	10.458	7.638	0	
-General Hospital Kujama Kujama Market Kaduna	Chikun	Kaduna	10.476	7.637	0	
-Primary Healthcare Tudun Wada No2 Bugai Road Kujama	Chikun	Kaduna	10.477	7.643	0	
-Governor Awan General Hospital No43 Bugai Road Kujama	Chikun	Kaduna	10.476	7.645	0	
-Rural Hospital Kujama	Chikun	Kaduna	10.481	7.651	0	
-Primary Health Center Tudun Wada Opposite New Market Kujama	Chikun	Kaduna	10.476	7.633	0	
-Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
 Kumail	Alkaleri	Bauchi	9.878	10.933	2	
-Kudar Clinic And Maternity	Jos North	Plateau	9.903	8.872	0	
-MAKARANTAR MALAM MAI KUMSA	Gwale	Kano	11.962	8.475	0	
-Kuta	Shiroro	Niger	9.870	6.708	3	
 Kumpani	Faskari	Katsina	11.725	7.162	2	
 Kulama	Southern Ijaw	Bayelsa	4.473	5.775	2	
 Kulaiperigbene	Southern Ijaw	Bayelsa	4.757	5.702	2	
 Kurukunama	Warri South-West	Delta	5.584	5.327	2	
-New Kulende Market, Jebba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.514	4.589	0	
-number 2 (ajegunle) waterside/kumuyi street(ajegunle)	Ajeromi/Ifelodun	Lagos	6.448	3.351	0	
-Kuje	Kuje	FCT Abuja	8.894	7.186	0	
-Car Drop Tipper Garage Kuje	Municipal Area Council	FCT Abuja	8.879	7.240	0	
-Kugbo Second Gate Bus Stop	Municipal Area Council	FCT Abuja	9.028	7.550	0	
-Kugbo Bus Stop	Municipal Area Council	FCT Abuja	9.028	7.549	0	
-Welder Bus Stop Kubwa	Municipal Area Council	FCT Abuja	9.145	7.347	0	
-Abiodun Kuye Street	Ifako/Ijaye	Lagos	6.657	3.313	1	
-Kufeji Street	Lagos Mainland	Lagos	6.500	3.381	1	
-Kudeti Avenue	Ibadan North West	Oyo	7.396	3.881	1	
-Kudan Street	Kaduna North	Kaduna	10.581	7.462	1	
-Kubau Road	Kaduna North	Kaduna	10.581	7.460	1	
-Kufena Road	Kaduna North	Kaduna	10.530	7.451	1	
-Kunama Road	Lokoja	Kogi	7.800	6.736	1	
-Kunle Abass Street	Ibadan North	Oyo	7.419	3.917	1	
-Kusa Street	Shomolu	Lagos	6.541	3.382	1	
-Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.025	7.486	1	
-T.F. Kuboye Road	Eti Osa	Lagos	6.429	3.464	1	
-Adekunle Kuy Street	Surulere	Lagos	6.499	3.344	1	
-Kusimo Street	Surulere	Lagos	6.497	3.330	1	
-Kunle Akinosi Street	Oshodi/Isolo	Lagos	6.555	3.347	1	
-kunle otukoya / banjoko street	Kosofe	Lagos	6.564	3.394	1	
-Segun Kujore Street	Kosofe	Lagos	6.609	3.373	1	
-Kunle Olaleye Street	Ikeja	Lagos	6.651	3.354	1	
-Ore Kupolati Street	Ikeja	Lagos	6.638	3.349	1	
-Kudirat Abiola Way	Ikeja	Lagos	6.599	3.366	1	
-Adewole Kuku Street	Eti Osa	Lagos	6.442	3.480	1	
-Kudirat Abiola Street	Alimosho	Lagos	6.586	3.296	1	
-Kuramo Close	Eti Osa	Lagos	6.443	3.445	1	
-Kunle Ogunba Street	Eti Osa	Lagos	6.453	3.479	1	Otunba Adeleke Adeshina Street
-Kusenla Road	Eti Osa	Lagos	6.444	3.491	1	
-Kura Close	Municipal Area Council	FCT Abuja	9.091	7.503	1	
-Kumasi Crescent	Municipal Area Council	FCT Abuja	9.083	7.480	1	
-Kumo Street	Municipal Area Council	FCT Abuja	9.023	7.483	1	
-Kumba Street	Municipal Area Council	FCT Abuja	9.060	7.460	1	
-River Kubani Crescent	Municipal Area Council	FCT Abuja	9.093	7.482	1	
-Kunle Sulieman Street	Municipal Area Council	FCT Abuja	9.074	7.393	1	
-Kukawa Close	Municipal Area Council	FCT Abuja	9.039	7.504	1	
-Kukawa - Baga Road	Kukawa	Borno	12.967	13.691	1	
-Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.029	7.485	1	
-Kur Mohammed Avenue	Municipal Area Council	FCT Abuja	9.062	7.490	1	
-Kunene Street	Municipal Area Council	FCT Abuja	9.080	7.498	1	
-Ransome Kuti Road	Shomolu	Lagos	6.513	3.390	1	
-Kushoro Street	Agege	Lagos	6.623	3.310	1	
-Kujore Street	Kosofe	Lagos	6.579	3.378	1	
-Adewale Kuku Street	Kosofe	Lagos	6.557	3.376	1	
-Kusti Close	Municipal Area Council	FCT Abuja	9.073	7.471	1	
-Kurna Baban Layi	Dala	Kano	12.034	8.490	1	
-Kuka Bulukiya Road	Dala	Kano	12.005	8.501	1	
-Kumbotso L/G road	Kumbotso	Kano	11.903	8.492	1	
-Kurunmi Road	Ibadan North	Oyo	7.448	3.888	1	
-Kunmi Adebiyi Street	Oshodi/Isolo	Lagos	6.512	3.322	1	
-Balogun Kuku Street	Surulere	Lagos	6.484	3.332	1	
-Abosede Kuboye Street	Surulere	Lagos	6.484	3.354	1	
-Kunle Shobajo Street	Ìkòròdú	Lagos	6.621	3.487	1	
-Dele Kuti street	Ìkòròdú	Lagos	6.606	3.492	1	
-Kasuwar Kuka Primary Health Centre	Kunchi	Kano	12.430	8.353	0	
-Dan Kura Street	Kano Municipal	Kano	11.972	8.530	1	
-Kutama - Mainika Road	Gwarzo	Kano	11.898	7.869	1	
-Kwanar kuda	Kumbotso	Kano	11.890	8.502	1	
-Kullumi Health Post	Ajingi	Kano	12.031	9.030	0	
-Kunkurawa Health Post	Ajingi	Kano	11.975	9.064	0	
-Kundila Health Post	Shanono	Kano	12.130	7.985	0	
-Kuraku Health Post	Shanono	Kano	12.170	7.917	0	
-Kunchi Primary Health Centre	Kunchi	Kano	12.502	8.275	0	
-Kurna Health Post	Makoda	Kano	12.546	8.480	0	
-Kumbo Health Post	Gabasawa	Kano	12.204	8.884	0	
-Yautar Kudu Primary Health Centre	Gabasawa	Kano	12.197	8.759	0	
-Kungu Health Post	Bichi	Kano	12.271	8.445	0	
-Kurna Primary Health Centre	Dala	Kano	12.045	8.482	0	
-Kuru Health Post	Minjibir	Kano	12.169	8.530	0	
-Kunnawa Health Post	Dawakin Tofa	Kano	12.175	8.333	0	
-Kunya to Niger Border Road	Babura	Jigawa	12.428	8.832	1	
-Alhaji Kuburat Lawal	Eti Osa	Lagos	6.439	3.477	1	
-Kuramo Crescent	Eti Osa	Lagos	6.429	3.552	1	
-Garin Kure Yamma Dispensary	Nangere	Yobe	11.825	10.834	0	
-Kunjeri Dispensary	Buji	Jigawa	11.591	9.835	0	
-Kujuru Dispensary	Katagum	Bauchi	11.669	10.148	0	Kazunu Dispensary
-Kungas Health Clinic	Bauchi	Bauchi	10.064	9.896	0	
-Kufai Dispensary	Toro	Bauchi	10.009	9.262	0	
-Kumbala Health Clinic	Alkaleri	Bauchi	9.893	10.041	0	
-Kukuruku Close	Municipal Area Council	FCT Abuja	9.082	7.509	1	
-Kukawa - Baga Road	Kukawa	Borno	13.080	13.798	1	
-Kukawa - Baga Road	Guzamala	Borno	12.926	13.516	1	
-Kutumbawa Road	Kano Municipal	Kano	11.995	8.521	1	
-Kuchiako Roundabout	Municipal Area Council	FCT Abuja	8.874	7.252	1	
-Kuforiji Olubi Road	Abeokuta South	Ogun	7.129	3.321	1	
-Kudirat Adenekan Street	Oshodi/Isolo	Lagos	6.540	3.314	1	
-Kuye Road	Surulere	Oyo	8.187	4.332	1	
-Kumoluyi Street	Ifako/Ijaye	Lagos	6.654	3.315	1	
-Kunle Ajagbe Street	Kosofe	Lagos	6.625	3.369	1	
-Kutama - Mainika Road	Gwarzo	Kano	11.880	7.869	1	
-Kutama - Mainika Road	Gwarzo	Kano	11.874	7.868	1	
-Kunle Akinsanya Street	Alimosho	Lagos	6.549	3.252	1	
-olatunji kuti close	Alimosho	Lagos	6.569	3.279	1	
-Kuzi-Orizu Street	Eti Osa	Lagos	6.450	3.579	1	
-Kusimo Street	Alimosho	Lagos	6.672	3.259	1	
-Kunle Shodiya	Ìkòròdú	Lagos	6.638	3.484	1	
-Balogun Kuku Street	Ìkòròdú	Lagos	6.652	3.513	1	
-Kur Muhammed Road	Kaduna North	Kaduna	10.579	7.429	1	
-Ahmed Kumasi Street	Kaduna North	Kaduna	10.574	7.423	1	
-Kuramo Waters Close	Eti Osa	Lagos	6.425	3.439	1	
-Dele Kulajolu Street	Oshodi/Isolo	Lagos	6.512	3.314	1	
-Kumasi Drive	Ikwerre	Rivers	4.907	6.910	1	
-Birni Kudu Road	Kaduna South	Kaduna	10.521	7.425	1	
-AVM. Ibrahim Kure Road	Kaduna North	Kaduna	10.526	7.453	1	
-Kubau Street	Kaduna North	Kaduna	10.578	7.461	1	
-KUNDULUN ROAD	Akko	Gombe	10.321	11.176	1	
-Kunle Owuye Street	Amuwo Odofin	Lagos	6.475	3.297	1	
-Bayo Kuku Road	Eti Osa	Lagos	6.459	3.434	1	
-Dan Kura Street	Kano Municipal	Kano	11.975	8.529	1	
-Kunle Odugbesan Street	Ijebu North	Ogun	6.946	3.928	1	
-Kukwaba Street	Municipal Area Council	FCT Abuja	9.145	7.322	1	
-Rufus Kupolati Road	Lokoja	Kogi	7.808	6.742	1	
-Prince Kunle Owoade Close	Ìkòròdú	Lagos	6.633	3.538	1	
-Kukawa - Baga Road	Kukawa	Borno	12.946	13.672	1	
-Otunba Yinka Kuye Street	Eti Osa	Lagos	6.477	3.652	1	
-Goke Kupolati Street	Eti Osa	Lagos	6.479	3.654	1	
-Kofar Kudu Road	Tofa	Kano	12.057	8.273	1	
-Kunle Owuye Street	Amuwo Odofin	Lagos	6.482	3.293	1	
-I Kure Street	Municipal Area Council	FCT Abuja	9.045	7.550	1	
-Kudurun Health Post	Madobi	Kano	11.789	8.378	0	
-Kutama Primary Health Centre	Gwarzo	Kano	11.870	7.873	0	
-Kundum Dispensary	Bauchi	Bauchi	10.419	9.727	0	
-Kusi	Bauchi	Bauchi	10.472	9.691	0	
-Kukadi Maternity	Misau	Bauchi	11.302	10.463	0	
-Kumbi Dispensary	Kirfi	Bauchi	10.302	10.287	0	
-Kurwala Kamfani Dispensary	Bauchi	Bauchi	10.249	10.204	0	
-Maternity Clinic Kusu Yalwan Kagadama	Bauchi	Bauchi	10.266	9.793	0	
-Kubwa General Hospital	Municipal Area Council	FCT Abuja	9.157	7.341	0	
-Bakar Kuka Primary Health Center	Itas/Gadau	Bauchi	12.001	10.122	0	
-Maduma Maternity	Zaki	Bauchi	12.037	10.275	0	Bura Kura
-Kutunas Dispensary	Gamawa	Bauchi	12.209	10.329	0	
-Kubdiya Dispensary	Gamawa	Bauchi	12.282	10.385	0	
-Kujjin Dispensary	Zaki	Bauchi	12.309	10.469	0	
-Kundak Primary Health Center.	Alkaleri	Bauchi	9.795	9.900	0	
-General Hospital Kukawa	Guzamala	Borno	12.922	13.582	0	
-Kuva Gaya Primary Health Center	Hong	Adamawa	10.444	13.003	0	
-Chobal Kura Primary Health Center	Magumeri	Borno	11.955	13.002	0	
-Kudiri maternity and child health clinic	Girei	Adamawa	9.477	12.289	0	kudiri primary
-Dara Kura Health Post	Yunusari	Yobe	13.138	11.905	0	
-Kuriyaji Health Clinic	Song	Adamawa	9.639	13.036	0	
-Kuryaji Primary Health Center	Song	Adamawa	9.639	13.037	0	
-Abba Kumbo Health Clinic	Fufore	Adamawa	9.218	12.651	0	
-kuba heath center	Madagali	Adamawa	10.858	13.390	0	
-wulla kushirir primary heath center	Madagali	Adamawa	10.742	13.632	0	
-Gazara Kuma Health Post	Fune	Yobe	12.070	11.002	0	
-Dogon Kuka B Mch	Fune	Yobe	12.068	11.000	0	
-Dogon Kuka B Maternal And Child Health Care	Fune	Yobe	11.910	11.059	0	
-Dogon Kuka A Maternal And Child Health Care	Fune	Yobe	11.668	11.414	0	
-Kurum Maternity	Ganye	Adamawa	8.324	11.978	0	
-Kukuri Dispensary	Nangere	Yobe	11.888	10.857	0	
-Kukuri Maternal and Child Health Care	Nangere	Yobe	11.887	10.853	0	
-Kwanan Kuka Health Post	Hong	Adamawa	10.235	12.993	0	
-Kubtava Health Clinic	Hong	Adamawa	10.345	12.904	0	
-GT Kurubo Street	Municipal Area Council	FCT Abuja	9.041	7.548	1	
-Ihya;ussunnah Jauro kuna	Gombe	Gombe	10.311	11.171	0	
-KUNDULUN ROAD	Akko	Gombe	10.320	11.187	1	
-Kusenla Road	Eti Osa	Lagos	6.434	3.491	1	
-Kukawa - Baga Road	Guzamala	Borno	12.927	13.581	1	
-Malam Kuri Riyal Road	Gombe	Gombe	10.263	11.168	1	
-LEA Primary, Junior and Senior Secondary School Kuchigoro	Municipal Area Council	FCT Abuja	9.014	7.419	0	
-Atiku Kurawa Close	Kano Municipal	Kano	11.998	8.517	1	
-GSS kufang	Jos North	Plateau	9.868	8.857	0	
-Kufang Medical center	Jos North	Plateau	9.864	8.864	0	
-Anthony Ngaji Kuti Close	Idemili North	Anambra	6.141	6.826	1	
-Ransom Kuti Road	Shomolu	Lagos	6.514	3.387	1	
 Kuriga	Chikun	Kaduna	10.704	6.812	2	
-Kusimo Street	Surulere	Lagos	6.497	3.336	1	
-Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.025	7.487	1	
-Muna Kumburi GDSS	Jere	Borno	11.849	13.175	1	
-Muna Kumburi GDSS	Mafa	Borno	11.911	13.578	1	
-Muna Kumburi GDSS	Jere	Borno	11.860	13.214	1	
-Kurchi Health Clinic	Mai'Adua	Katsina	13.080	8.173	0	
-Kudai Primary Health Clinic	Dutse	Jigawa	11.631	9.340	0	
 Kusur	Geidam	Yobe	12.605	12.039	2	
 Gwio-Kura	Barde	Yobe	12.655	11.112	2	
 Kushimaga	Gulani	Yobe	10.742	11.560	2	
@@ -998,7 +803,6 @@ Kasuwar Kuka	Kunchi	Kano	12.390	8.346	2
 Kurugu	Karaye	Kano	11.814	8.000	2	
 Kunkurawa	Ajingi	Kano	11.952	9.094	2	
 Kunya	Minjibir	Kano	12.245	8.544	2	
-Kunchi	Kunchi	Kano	12.511	8.286	2	
 Kuka	Takai	Kano	11.532	9.083	2	
 Kulluwa	Bunkure	Kano	11.630	8.569	2	
 Kureken Sani	Kumbotso	Kano	11.933	8.592	2	
@@ -1010,7 +814,6 @@ Kubaraci	Madobi	Kano	11.781	8.354	2
 Kura	Kura	Kano	11.779	8.474	2	
 Kudai	Dutse	Jigawa	11.610	9.324	2	
 Kunchi	Kunchi	Kano	12.468	8.259	2	
-Kusada	Kusada	Katsina	12.453	7.966	2	
 Kudan	Kudan	Kaduna	11.264	7.718	2	
 Kuki B	Dutsin Ma	Katsina	12.376	7.567	2	
 Kurkujan B	Musawa	Katsina	12.112	7.739	2	
@@ -1067,8 +870,1371 @@ Kupti	Magumeri	Borno	12.385	12.559	2
 Kukawa	Kukawa	Borno	12.921	13.627	2	
 Kukawa	Kukawa	Borno	13.124	13.778	2	
 Kurba Gayi	Kwaya Kusar	Borno	10.449	11.830	2	
-Kwaya Kusar	Kwaya Kusar	Borno	10.486	11.854	2	
 Maigatari Kudu	Maigatari	Jigawa	12.787	9.449	2	
 Kurawa	Sabon Birni	Sokoto	13.449	6.232	2	
 Kukwaba	Municipal Area Council	FCT Abuja	9.034	7.450	2	
+Kurmi	Kurmi	Taraba	7.264	10.701	2	
 Kuranabasa	Gwoza	Borno	10.997	13.708	2	
+Zala Kura	Bama	Borno	11.420	14.110	2	
+Za-Kuri	Michika	Adamawa	10.443	13.487	2	
+Yebi Bandi	Kukawa	Borno	13.241	13.481	2	Kudo Kowa|Yebi-Bandi
+Yar Kurashe	Garki	Jigawa	12.333	9.145	2	
+Yan Kusa	Kumbotso	Kano	11.916	8.488	2	
+Yan Kuni	Tofa	Kano	11.960	8.283	2	
+Yanda Kulus	Damban	Bauchi	11.467	10.750	2	
+Yada Kunya	Ungongo	Kano	12.083	8.633	2	
+Wuro Kurori	Maiha	Adamawa	9.550	13.129	2	
+Wuro Ahmadu Kulu	Ardo-Kola	Taraba	8.730	11.268	2	
+Unthlur Kuthli	Biu	Borno	10.773	12.036	2	
+Ungwan Madawaikin Kurebe	Borgu	Niger	10.483	3.867	2	
+Ungwan Kuriya	Maiyama	Kebbi	12.143	4.367	2	
+Ungwan Kurama	Lere	Kaduna	10.412	8.480	2	
+Kulodo	Bungudu	Zamfara	12.120	6.794	2	Unguwar Kulodo
+Unguwar Kuka	Garko	Kano	11.556	8.999	2	Ungwan Kuka
+Unguan Kutare	Balanga	Gombe	9.963	11.623	2	
+Tun Kuda	Birnin Magaji-Kiyaw	Zamfara	12.278	6.857	2	
+Banganna	Bunza	Kebbi	12.298	3.962	2	Tungan Manun Kulu
+Tungan-Mai-Kujeri	Rafi	Niger	10.277	6.292	2	Tungan Mai Kujeyra
+Tse-Kumkpev	Gwer East	Benue	7.469	8.246	2	
+Tepkwar	Sardauna	Taraba	6.673	11.149	2	Kouar|Kuar
+Tashandori	Yusufari	Yobe	13.226	11.075	2	Ligaleri Kuram
+Sofon Kuyelo	Giwa	Kaduna	11.204	6.938	2	Kwiello
+Kuwa	Toto	Nasarawa	8.148	7.131	2	Shikokwa|Shikwokwa
+Sasawa-Kura	Gwoza	Borno	11.189	13.463	2	Sasawa Kura
+Sarkin Kudu	Ibi	Taraba	8.317	9.725	2	
+Sarkin Kudu	Kurmi	Taraba	7.246	10.441	2	
+Sarkin Kudu	Donga	Taraba	7.255	10.353	2	
+Sara Kulinyi	Hong	Adamawa	10.180	12.991	2	
+Sabon Kuyelo	Birnin Gwari	Kaduna	11.213	6.908	2	
+Sabo Kukwaba	Municipal Area Council	FCT Abuja	9.024	7.423	2	
+Ruwan Kura	Kaura Namoda	Zamfara	12.387	6.713	2	
+Rumnde Kudin	Jalingo	Taraba	8.886	11.330	2	
+Gidan Kura	Dange-Shuni	Sokoto	12.923	5.253	2	Rugan Kura
+Rafin Kura	Kaduna North	Kaduna	10.600	7.450	2	
+Pola Kuni	Mayo-Belwa	Adamawa	8.664	11.893	2	
+Payamopu Kura	Chibok	Borno	10.794	12.824	2	
+Panti Kura	Bali	Taraba	8.650	11.679	2	
+Olofunji-Kugbeyin	Yewa North	Ogun	7.118	2.946	2	Olofinji
+Old Kurmi	Kafur	Katsina	11.759	7.705	2	
+Nyene Kusun	Biase	Cross River	5.372	8.146	2	
+Ngaje	Kala-Balge	Borno	11.744	14.565	2	Koutelaha|Kutelaha
+New Kurwasa	Borgu	Niger	9.967	4.550	2	
+Machiyan Kuka	Tafawa-Balewa	Bauchi	9.869	9.711	2	Michiyan Kuka
+Merwa Kura	Nguru	Yobe	13.029	10.260	2	Murba Kura
+Mbulla Kuduga Kura	Askira-Uba	Borno	10.715	12.726	2	
+Mbulla Kuduga Gana	Askira-Uba	Borno	10.722	12.711	2	
+Mbowa Kura	Chibok	Borno	10.946	12.775	2	
+Matia-Kuka	Yauri	Kebbi	10.740	4.718	2	
+Mancho Kurmi	Akwanga	Nasarawa	8.967	8.350	2	
+Mallam Kule	Potiskum	Yobe	11.714	11.223	2	
+Mal Kurri	Magumeri	Borno	12.273	12.450	2	Mal Kuri
+Makun	Agaie	Niger	9.010	6.527	2	Kurmin Ayaba
+Lugdira Kuli	Mubi South	Adamawa	10.096	13.212	2	
+Leno Kura	Bama	Borno	11.436	13.913	2	
+Kyahakilba Kura	Askira-Uba	Borno	10.530	12.999	2	
+Kuro	Kuje	FCT Abuja	8.488	7.051	2	Kworro
+Kualaje	Tangaza	Sokoto	13.486	4.872	2	Kwolajiya
+Kwana Kura	Askira-Uba	Borno	10.663	12.861	2	
+Kwamjilari Kura	Chibok	Borno	10.915	13.066	2	
+Kuwaydo	Augie	Kebbi	13.033	4.666	2	Kwaido
+Kuagiri	Kachia	Kaduna	9.639	7.968	2	Kwagiri
+Kuzuntu	Kubau	Kaduna	10.886	8.304	2	
+Kuzum	Michika	Adamawa	10.520	13.263	2	Kusum
+Kuyiteni	Maiyama	Kebbi	11.848	4.541	2	
+Kuyi	Bosso	Niger	9.664	6.433	2	
+Kuye	Ido	Oyo	7.415	3.793	2	
+Kuye	Ona Ara	Oyo	7.261	4.037	2	Aba-Kuye
+Kuyan	Kumbotso	Kano	11.923	8.426	2	
+Kuwiya	Monguno	Borno	12.649	13.649	2	
+Kuwa	Damboa	Borno	11.331	12.426	2	
+Kuvul	Hawul	Borno	10.515	12.289	2	
+Kuvor	Hong	Adamawa	10.236	12.970	2	
+Kuvani	Jada	Adamawa	8.535	11.995	2	
+Kuvai	Hawul	Borno	10.395	12.174	2	
+Kuutse	Gboko	Benue	7.352	8.618	2	
+Kuu	Takum	Taraba	7.341	10.032	2	
+Kutura	Kajuru	Kaduna	10.192	7.693	2	Kutura Station
+Kutunku	Wushishi	Niger	9.781	6.065	2	
+Kutungusa	Nangere	Yobe	11.686	11.019	2	
+Kutungi	Mokwa	Niger	9.350	5.400	2	
+Kutunas	Gamawa	Bauchi	12.207	10.329	2	
+Kutukwo	Ussa	Taraba	7.205	10.156	2	
+Kutukpachi	Wushishi	Niger	9.661	6.047	2	
+Kutug	Pategi	Kwara	8.716	5.841	2	
+Kotohari	Gudu	Sokoto	13.484	4.742	2	Kuafuri|Kutufari
+Kutufa	Chikun	Kaduna	10.231	7.148	2	
+Kutudibi	Tafa	Niger	9.277	7.297	2	
+Kutu	Gboko	Benue	7.290	8.631	2	
+Kutsuku	Konshisha	Benue	7.267	8.552	2	
+Kutse	Gboko	Benue	7.344	8.629	2	
+Kutriko-Tachi	Agaie	Niger	9.241	6.489	2	
+Kutoworonda	Gombi	Adamawa	10.126	12.504	2	
+Kutoho	Kachia	Kaduna	9.689	7.922	2	
+Kuto	Abeokuta South	Ogun	7.138	3.355	2	
+Kutiwenji	Lavun	Niger	9.512	5.676	2	
+Kutilax	Kala-Balge	Borno	11.832	14.492	2	
+Kutikwa	Katcha	Niger	9.352	6.285	2	
+Kutigi	Katcha	Niger	9.428	6.181	2	
+Kutigberi	Katcha	Niger	9.028	6.251	2	
+Kutia	Obudu	Cross River	6.595	9.085	2	
+Kuti	Odeda	Ogun	7.162	3.508	2	
+Kutembeya	Hawul	Borno	10.405	12.248	2	
+Kutayi	Lagelu	Oyo	7.566	4.050	2	
+Kutava	Ussa	Taraba	7.329	10.191	2	
+Kutaru	Alkaleri	Bauchi	9.904	9.835	2	
+Kutaran Buzu	Kachia	Kaduna	10.029	7.817	2	
+Kutama	Gwarzo	Kano	11.864	7.871	2	
+Kutai	Wushishi	Niger	9.681	6.116	2	
+Kuta	Aiyedire	Osun	7.645	4.284	2	
+Kuta	Konshisha	Benue	7.214	8.522	2	
+Kuta	Abeokuta North	Ogun	7.079	3.215	2	
+Nguzowa	Gulani	Yobe	11.057	11.561	2	Kusuwa
+Kusulwa	Potiskum	Yobe	11.616	11.114	2	
+Kusuku	Sardauna	Taraba	6.879	11.136	2	
+Kusugh	Gboko	Benue	7.383	8.613	2	
+Kusugh	Konshisha	Benue	7.190	8.593	2	
+Kusugh	Konshisha	Benue	7.009	8.773	2	
+Kusturi	Gubio	Borno	12.382	12.856	2	
+Kusoti	Agaie	Niger	8.916	6.368	2	Gusoli
+Kusoti	Pategi	Kwara	8.683	6.017	2	
+Kusotako	Gbako	Niger	9.284	6.015	2	
+Kuson	Yorro	Taraba	8.926	11.392	2	
+Kusomono	Edu	Kwara	8.910	5.039	2	
+Kusoko	Mashegu	Niger	9.766	5.749	2	
+Kusoji	Pategi	Kwara	8.717	5.933	2	
+Kusivan	Ganye	Adamawa	8.512	11.887	2	
+Kusinawa	Toro	Bauchi	10.210	9.600	2	
+Kushinahu	Madagali	Adamawa	10.739	13.541	2	
+Kushidaya	Fika	Yobe	11.567	11.187	2	
+Kushi	Akko	Gombe	9.863	11.017	2	
+Kushi	Shongom	Gombe	9.596	11.191	2	
+Kusheka	Kauru	Kaduna	10.141	8.291	2	
+Kushe	Kagarko	Kaduna	9.507	7.795	2	
+Kusharki	Giwa	Kaduna	10.817	7.150	2	
+Kushan	Bama	Borno	11.333	14.033	2	
+Kusela	Lagelu	Oyo	7.546	4.054	2	
+Kusegi	Lavun	Niger	9.200	5.633	2	
+Kuse	Takum	Taraba	7.413	10.010	2	
+Kusamani	Kauru	Kaduna	10.165	8.272	2	
+Kusako	Mokwa	Niger	9.267	5.417	2	
+Kusaki	Kuje	FCT Abuja	8.792	7.420	2	
+Kusaka	Magama	Niger	10.217	4.728	2	
+Kusa-Da-Gida	Kogi	Kogi	8.262	6.857	2	Kusa da Gida|KusadaGida
+Kusa	Jibia	Katsina	13.064	7.498	2	
+Koryas	Jaba	Kaduna	9.541	8.108	2	Kurya
+Kurve	Konshisha	Benue	7.127	8.669	2	
+Kurusati	Ussa	Taraba	7.183	10.159	2	
+Kurusalia	Yusufari	Yobe	13.322	10.673	2	
+Kurunkudu	Maiyama	Kebbi	11.973	4.393	2	Kurunkudo|Tungakaya
+Kurungupi	Soba	Kaduna	11.124	8.043	2	
+Kurungu	Awe	Nasarawa	8.408	9.181	2	
+Kurun	Ningi	Bauchi	11.117	9.417	2	
+Kurum	Ganye	Adamawa	8.309	12.031	2	
+Kurukurugbene	Ovia South-West	Edo	6.200	5.083	2	
+Kurukuru	Sabon Birni	Sokoto	13.539	6.002	2	
+Kuruku	Takum	Taraba	7.256	10.010	2	
+Kuru Karama	Jos South	Plateau	9.717	8.861	2	
+Kurubta	Gombi	Adamawa	10.094	12.514	2	
+Kuruawa	Borsari	Yobe	12.702	11.227	2	
+Kurua	Tureta	Sokoto	12.482	5.640	2	Karua
+Kuru	Jos South	Plateau	9.728	8.835	2	
+Kuru	Toto	Nasarawa	8.393	7.176	2	
+Kuru	Konshisha	Benue	7.034	8.550	2	
+Kirshigi	Funakaye	Gombe	11.022	11.443	2	Kursigi
+Kursazia	Yusufari	Yobe	13.329	10.651	2	
+Kursasa	Shinkafi	Zamfara	13.017	6.567	2	
+Kurusawa	Illela	Sokoto	13.744	5.409	2	Kursa
+Kuroko	Lokoja	Kogi	7.938	6.751	2	
+Kuroghakiri	Akuku Toru	Rivers	4.357	6.584	2	Koniyiboko|Kuroghakkiri
+Kurnawa	Nganzai	Borno	12.733	13.099	2	
+Kurnari	Kaga	Borno	11.675	12.301	2	
+Kurmin Warji	Soba	Kaduna	11.033	8.055	2	
+Kurmin Sarki	Malumfashi	Katsina	11.696	7.598	2	
+Kurmin Rizga	Kauru	Kaduna	9.880	8.534	2	
+Kurmin Musa	Kachia	Kaduna	9.584	8.019	2	
+Kurmin Mazuga	Kachia	Kaduna	9.879	8.049	2	
+Kurmin Mayo Lope	Mubi North	Adamawa	10.240	13.156	2	
+Kurmin Mata	Kachia	Kaduna	9.650	7.981	2	
+Kurmin Masara	Zangon Kataf	Kaduna	9.843	8.441	2	
+Kurmin Kwaram	Giwa	Kaduna	10.883	7.017	2	
+Kurmin Kogi	Ikara	Kaduna	11.190	8.089	2	
+Kurmin Kare	Kachia	Kaduna	9.768	7.468	2	
+Kurmin Kaduna	Chikun	Kaduna	10.317	7.066	2	
+Kurmin Jatau	Jaba	Kaduna	9.586	7.954	2	
+Kurmin Iya	Kachia	Kaduna	9.660	7.352	2	
+Kurmin Gwasa	Kachia	Kaduna	9.666	7.940	2	Kurmin Gwas
+Kurmin Gurmana	Shiroro	Niger	10.020	6.654	2	
+Goro	Sanga	Kaduna	9.479	8.548	2	Kurmin Goro
+Kurmin Giwa	Paikoro	Niger	9.633	7.284	2	
+Kurmin Dodo	Lere	Kaduna	10.156	8.633	2	
+Kurmin Dawaki	Zangon Kataf	Kaduna	9.735	8.443	2	
+Kurmin Dangarna	Kagarko	Kaduna	9.592	7.907	2	Kurmin Dangana
+Kurmin Biri	Kachia	Kaduna	10.040	8.012	2	Kurmin Biri Station
+Kurmin Arna	Mubi North	Adamawa	10.237	13.161	2	
+Kurimi Baba	Paikoro	Niger	9.674	7.242	2	Kurmi Baba
+Kurmi	Kafur	Katsina	11.781	7.704	2	
+Kermi	Fika	Yobe	11.573	11.260	2	Kurmi
+Kurmi	Ikara	Kaduna	11.224	8.422	2	Kurmin
+Kurmi	Ningi	Bauchi	11.017	9.033	2	
+Kurmi	Kajuru	Kaduna	10.232	7.883	2	
+Kurmi	Wase	Plateau	8.680	10.085	2	Kurumi
+Kurmaza Kasa	Rafi	Niger	10.533	6.533	2	
+Kurmaza Bisa	Rafi	Niger	10.533	6.533	2	
+Kurkudawa	Rogo	Kano	11.528	7.697	2	
+Kuriya	Kaura Namoda	Zamfara	12.487	6.551	2	
+Kuriya	Kauru	Kaduna	10.166	8.335	2	
+Kuririga	Birnin Gwari	Kaduna	10.883	6.700	2	
+Kuriri	Malumfashi	Katsina	11.897	7.744	2	
+Kuringafa	Kafur	Katsina	11.720	7.575	2	
+Kurkyo	Lafia	Nasarawa	8.530	8.546	2	Kurikyo
+Kuriki	Shiroro	Niger	10.197	6.674	2	
+Kuri	Nasarawa	Nasarawa	8.484	7.903	2	
+Gashinge Kundulu	Nafada	Gombe	11.057	11.126	2	Kurgulum
+Kurgulum	Shani	Borno	10.241	11.806	2	
+Kurgo	Shira	Bauchi	11.500	9.917	2	
+Kurfi	Kubau	Kaduna	11.031	8.432	2	
+Kurfi	Doguwa	Kano	10.709	8.577	2	
+Kurfeji	Ingawa	Katsina	12.711	7.973	2	
+Kurere	Abeokuta North	Ogun	7.057	3.200	2	
+Kurege	Hong	Adamawa	10.245	13.122	2	
+Kurechi	Dutsin Ma	Katsina	12.322	7.378	2	
+Kure	Kala-Balge	Borno	11.839	14.443	2	
+Kure	Magama	Niger	10.183	4.717	2	
+Kure	Moro	Kwara	8.798	4.453	2	
+Kure	Ilorin East	Kwara	8.660	4.866	2	
+Kure	Lagelu	Oyo	7.541	4.005	2	
+Kure	Ona Ara	Oyo	7.300	4.033	2	
+Kure	Konshisha	Benue	7.010	8.749	2	
+Kurdun	Kwaya Kusar	Borno	10.429	11.994	2	
+Kurbau	Birnin Gwari	Kaduna	10.617	6.183	2	
+Kurbagayi	Kwaya Kusar	Borno	10.472	11.777	2	Kurbagay
+Kurba	Kankara	Katsina	11.945	7.511	2	
+Kurayo	Konshisha	Benue	7.023	8.546	2	
+Kurayeme	Konshisha	Benue	7.166	8.545	2	
+Kuraye	Charanchi	Katsina	12.711	7.628	2	
+Kuraye	Kubau	Kaduna	11.016	8.273	2	
+Kuratyo	Kwande	Benue	6.626	9.534	2	
+Kurama Suko	Fakai	Kebbi	11.585	4.613	2	Kangi
+Kuraman Jura	Lere	Kaduna	10.528	8.645	2	
+Kurajan	Kagarko	Kaduna	9.600	7.813	2	Kusho
+Kurage Goga	Arewa Dandi	Kebbi	12.698	3.957	2	
+Kuraga	Wamba	Nasarawa	9.037	8.598	2	
+Kurafe	Kware	Sokoto	13.062	5.284	2	
+Kurafe	Karu	Nasarawa	8.802	7.631	2	
+Kurafawa	Fune	Yobe	11.931	11.480	2	
+Kurada	Chikun	Kaduna	10.400	7.317	2	
+Kurabu	Toto	Nasarawa	8.215	7.366	2	
+Kuraa	Mariga	Niger	10.837	5.392	2	
+Kura	Itas/Gadau	Bauchi	11.917	9.933	2	
+Kura	Michika	Adamawa	10.620	13.316	2	
+Kura	Magama	Niger	10.248	5.032	2	
+Kura	Ibarapa North	Oyo	7.550	3.323	2	
+Kura	Remo North	Ogun	7.079	3.755	2	
+Kupti	Magumeri	Borno	12.315	12.477	2	
+Kupta	Kaga	Borno	11.326	12.727	2	
+Kupafu	Edati	Niger	8.943	6.007	2	
+Kup	Pankshin	Plateau	9.215	9.580	2	
+Kunukunu	Munya	Niger	9.654	7.067	2	Kunakuna
+Kunu	Shiroro	Niger	9.795	6.408	2	
+Kuntur	Machina	Yobe	12.863	9.831	2	
+Kuntubaro	Baruten	Kwara	8.917	3.188	2	
+Kuntaru	Baure	Katsina	12.796	8.785	2	
+Kunpo	Katcha	Niger	8.972	6.143	2	
+Kunnunu	Kafin Hausa	Jigawa	12.201	9.844	2	
+Kunluvrun	Song	Adamawa	10.039	12.362	2	
+Kunkyan	Kanam	Plateau	9.320	9.963	2	
+Kankuti	Lavun	Niger	9.193	5.794	2	Kunkuti
+Kunkurawa	Ringim	Jigawa	12.222	9.110	2	
+Kunkun	Shani	Borno	10.030	11.888	2	
+Kunkulagio	Lavun	Niger	9.283	5.767	2	
+Kunkele	Gbako	Niger	9.318	6.038	2	
+Kunjumo	Gamawa	Bauchi	12.003	10.779	2	Kunjum
+Kunjiel	Yamaltu/Deba	Gombe	10.287	11.287	2	
+Kunji	Shanga	Kebbi	11.133	4.467	2	
+Kuni	Dukku	Gombe	10.700	10.692	2	
+Kungu	Konshisha	Benue	7.037	8.532	2	
+Kungoshin	Lapai	Niger	9.370	6.816	2	
+Kungo	Lapai	Niger	9.380	6.834	2	
+Kungo	Gurara	Niger	9.314	6.968	2	
+Kungare	Konduga	Borno	11.502	13.562	2	
+Kungana	Bali	Taraba	7.812	10.584	2	Kungana Habe
+Kune	Ushongo	Benue	7.145	8.897	2	
+Kundurum	Madobi	Kano	11.815	8.402	2	
+Kunduru	Kankia	Katsina	12.398	7.650	2	
+Kundun	Rano	Kano	11.537	8.496	2	
+Kundum	Giwa	Kaduna	11.100	7.550	2	
+Kundum	Tafawa-Balewa	Bauchi	9.860	9.363	2	
+Kundum	Ushongo	Benue	7.046	8.898	2	
+Kundu	Kwali	FCT Abuja	8.900	6.926	2	
+Kundo	Babura	Jigawa	12.510	8.711	2	
+Kundi	Bali	Taraba	7.988	10.805	2	
+Kunde	Dukku	Gombe	10.714	10.530	2	
+Kunde	Obi	Nasarawa	8.386	9.003	2	
+Kunde	Konshisha	Benue	7.327	8.574	2	
+Kunde	Ushongo	Benue	7.103	8.928	2	
+Kundak	Alkaleri	Bauchi	9.792	9.899	2	
+Kunbi-Alangwa	Olorunsogo	Oyo	8.670	4.102	2	Kunbi Alangwa
+Kunamawa	Safana	Katsina	12.358	7.377	2	
+Kunaga	Ganye	Adamawa	8.595	11.953	2	
+Kunadur	Damboa	Borno	11.033	12.656	2	
+Kuna	Ganjuwa	Bauchi	10.626	10.245	2	
+Kuna	Munya	Niger	9.659	7.089	2	
+Kuna	Kagarko	Kaduna	9.500	7.317	2	
+Kuna	Gwer East	Benue	7.313	8.242	2	
+Kumurya	Bunkure	Kano	11.696	8.703	2	Garko
+Kumunu	Rafi	Niger	10.117	6.250	2	
+Kumun	Shira	Bauchi	11.433	9.917	2	
+Kumun	Gboko	Benue	7.298	8.648	2	
+Kumtso	Ussa	Taraba	7.194	10.189	2	
+Kumsi	Konduga	Borno	11.473	12.882	2	
+Kumshe	Bama	Borno	11.355	14.213	2	
+Kumpa	Giwa	Kaduna	11.030	7.341	2	
+Kumpa	Akwanga	Nasarawa	8.983	8.333	2	
+Kumoyan	Ipokia	Ogun	6.640	2.740	2	
+Kumon	Yorro	Taraba	8.877	11.566	2	
+Kumo	Hong	Adamawa	10.187	12.832	2	
+Kumo	Shani	Borno	10.079	11.932	2	
+Kumgas	Bauchi	Bauchi	10.060	9.893	2	
+Kume	Gboko	Benue	7.335	8.718	2	
+Kume	Kwande	Benue	6.847	9.506	2	
+Kumdurum	Hawul	Borno	10.292	12.122	2	
+Kumuru	Wamba	Nasarawa	8.975	8.815	2	Kumburu
+Kumburu	Doma	Nasarawa	7.936	8.316	2	
+Kumbur	Takum	Taraba	7.356	10.004	2	
+Kumbur	Konshisha	Benue	7.162	8.671	2	
+Kumbur	Kwande	Benue	6.907	9.549	2	
+Kumbuli	Bauchi	Bauchi	10.177	9.660	2	
+Kumbul	Gboko	Benue	7.309	8.701	2	
+Kumbu	Ussa	Taraba	7.301	10.211	2	
+Kumbo	Rafi	Niger	9.977	6.073	2	
+Kumbo	Donga	Taraba	7.319	10.326	2	
+Kumbe	Gboko	Benue	7.335	8.643	2	
+Kumbawa	Gwarzo	Kano	11.816	7.875	2	
+Kumbala	Alkaleri	Bauchi	9.900	10.067	2	
+Kumba	Mayo-Belwa	Adamawa	9.030	12.002	2	
+Kumaun	Konshisha	Benue	7.382	8.599	2	
+Kumariya	Yusufari	Yobe	12.995	10.962	2	
+Kumao	Kuje	FCT Abuja	8.599	7.296	2	
+Kumala	Konduga	Borno	11.490	12.965	2	
+Kumagunnam	Yusufari	Yobe	13.155	10.635	2	Kumaganum|Kumagunam
+Kumaga	Donga	Taraba	7.650	10.104	2	
+Kumaga	Gwer East	Benue	7.407	8.597	2	
+Kumaga	Konshisha	Benue	7.393	8.601	2	
+Kumaga	Gboko	Benue	7.277	8.700	2	
+Kuma	Song	Adamawa	9.689	12.296	2	
+Kuma	Awe	Nasarawa	8.072	9.148	2	
+Kuma	Kogi	Kogi	7.985	6.797	2	
+Kuma	Sardauna	Taraba	6.887	11.383	2	
+Kuluntun	Bauchi	Bauchi	10.253	9.712	2	
+Kulafasa	Bodinga	Sokoto	12.950	5.114	2	Kulufasa
+Kulluru	Ringim	Jigawa	12.204	9.206	2	
+Kulluk	Yunusari	Yobe	13.314	11.572	2	
+Kulli	Marte	Borno	12.271	13.704	2	
+Kulli	Koko-Besse	Kebbi	11.233	4.300	2	
+Kulkul	Billiri	Gombe	9.878	11.090	2	
+Kuli	Fika	Yobe	11.317	11.135	2	
+Kulhi	Gudu	Sokoto	13.242	4.392	2	
+Kulfo	Magama	Niger	10.038	4.831	2	
+Kulele	Fune	Yobe	11.912	11.230	2	
+Kulbire	Shelleng	Adamawa	10.203	12.292	2	
+Kulaun	Konshisha	Benue	7.047	8.558	2	
+Kulari Hamlets	Damboa	Borno	10.979	12.934	2	
+Kulera	Shani	Borno	10.191	11.963	2	Kulara
+Kulara	Gombi	Adamawa	10.141	12.611	2	
+Kulango	Yola North	Adamawa	9.361	12.296	2	Kalangu|Kulangu
+Kulalum	Akko	Gombe	10.319	11.181	2	
+Kula	Sumaila	Kano	11.393	8.940	2	
+Kula	Bogoro	Bauchi	9.535	9.623	2	
+Kula	Kanke	Plateau	9.517	9.631	2	
+Kula	Ushongo	Benue	7.038	8.881	2	
+Kula	Akuku Toru	Rivers	4.343	6.646	2	
+Kukwaba	Municipal Area Council	FCT Abuja	9.037	7.458	2	Kunkwaba
+Kukuta	Ningi	Bauchi	11.300	9.267	2	
+Kukusa	Gwaram	Jigawa	11.367	9.800	2	
+Kukurupu	Hawul	Borno	10.396	12.542	2	
+Kukuri	Kagarko	Kaduna	9.310	7.814	2	
+Kukurahe	Hong	Adamawa	10.384	12.712	2	
+Kukuma	Buji	Jigawa	11.450	9.700	2	
+Kubuku Garu	Kwaya Kusar	Borno	10.419	11.925	2	Kukuku Garu
+Kukukiri	Nembe	Bayelsa	4.617	6.300	2	
+Kukui	Kagarko	Kaduna	9.377	7.828	2	
+Kuku	Kunchi	Kano	12.372	8.283	2	
+Kuku	Taura	Jigawa	12.246	9.159	2	
+Kuku	Jalingo	Taraba	8.811	11.426	2	
+Kukoki	Rafi	Niger	10.447	6.285	2	
+Kukoki	Rafi	Niger	10.126	6.440	2	Kukoki Guda
+Kukin Burera	Jama'Are	Bauchi	11.600	9.883	2	
+Kuki	Dutsin Ma	Katsina	12.408	7.597	2	
+Kuki	Birnin Gwari	Kaduna	10.409	6.193	2	
+Kukwari	Nafada	Gombe	11.062	11.212	2	Kukawaro
+Kukawa	Biriniwa	Jigawa	12.836	10.183	2	
+Kukawa	Fika	Yobe	11.369	11.248	2	Kukuwa
+Kukayesku	Maigatari	Jigawa	12.674	9.524	2	
+Kukau	Chikun	Kaduna	10.346	7.422	2	
+Kukatania	Maigatari	Jigawa	12.644	9.630	2	Kukatana
+Kukar Mikiya	Garki	Jigawa	12.499	9.016	2	
+Kukaragi	Lokoja	Kogi	8.683	6.300	2	
+Kukar	Alkaleri	Bauchi	9.967	10.183	2	
+Kukangiwa	Biriniwa	Jigawa	12.807	10.092	2	
+Kuka Madogara	Malumfashi	Katsina	11.777	7.672	2	
+Kukalbaldi	Sule Tankakar	Jigawa	12.720	9.119	2	
+Kuka Kubata	Machina	Yobe	13.062	10.049	2	
+Kuka Kowa	Damboa	Borno	11.294	12.850	2	
+Kuka	Mashi	Katsina	13.318	7.980	2	Birnikuka|Birnin Kuka
+Kuka	Kalgo	Kebbi	12.451	4.002	2	Birnin Kuka
+Kuka	Tarmua	Yobe	12.373	11.340	2	
+Kuka	Kunchi	Kano	12.426	8.356	2	
+Kuka	Magama	Niger	10.617	4.805	2	
+Kuka	Alkaleri	Bauchi	10.054	10.356	2	
+Kuka	Shongom	Gombe	9.564	11.056	2	
+Kuka	Lau	Taraba	9.138	11.332	2	
+Kuka	Shendam	Plateau	8.448	9.695	2	
+Kujeri	Yunusari	Yobe	12.892	11.714	2	
+Kujemi	Maru	Zamfara	11.291	6.531	2	
+Kujela	Gombi	Adamawa	10.331	12.643	2	
+Kujekpa	Kuje	FCT Abuja	8.580	7.377	2	Kujakwa
+Kuillanu	Fune	Yobe	12.123	11.478	2	
+Kuhwa	Gboko	Benue	7.287	8.696	2	
+Kuhasa	Gboko	Benue	7.292	8.696	2	
+Kuha	Tarka	Benue	7.670	8.752	2	
+Kugwa	Tarka	Benue	7.640	8.878	2	
+Kugu	Shiroro	Niger	10.548	6.622	2	
+Kugosi	Chikun	Kaduna	10.161	7.166	2	
+Kugon Kuremi	Zing	Taraba	8.845	11.776	2	
+Kugo	Chikun	Kaduna	10.100	7.150	2	
+Kugeji	Kaiama	Kwara	9.635	3.897	2	
+Kugbo	Odeda	Ogun	7.361	3.599	2	
+Kugbe	Konshisha	Benue	7.103	8.591	2	
+Kugara	Kaugama	Jigawa	12.413	9.777	2	
+Kugama Jarumei	Mayo-Belwa	Adamawa	9.154	12.016	2	
+Kugama	Fufore	Adamawa	9.166	12.125	2	
+Kufi	Lagelu	Oyo	7.585	4.070	2	
+Kufi	Lagelu	Oyo	7.521	4.019	2	
+Kufi	Ussa	Taraba	7.156	10.067	2	
+Kufi	Takum	Taraba	7.150	9.888	2	
+Kufazigai	Chibok	Borno	10.878	12.950	2	
+Kufayin Sale	Donga	Taraba	7.513	10.539	2	
+Kufaru	Fika	Yobe	11.540	11.257	2	
+Kufantanbu	Kafur	Katsina	11.690	7.583	2	
+Kufan Gaza	Birnin Kudu	Jigawa	11.417	9.300	2	
+Kufana	Kajuru	Kaduna	10.296	7.754	2	
+Kufain	Kachia	Kaduna	9.895	7.706	2	
+Kufai	Kurmi	Taraba	7.175	10.367	2	
+Kufabani	Gombi	Adamawa	10.167	12.555	2	
+Kufa	Ganjuwa	Bauchi	10.659	10.215	2	
+Kudyare	Fune	Yobe	11.674	11.782	2	
+Kuduru	Giwa	Kaduna	10.967	7.063	2	
+Kuduru	Chikun	Kaduna	10.139	6.946	2	
+Kudu Mondu	Funakaye	Gombe	11.033	11.433	2	
+Kudu Gwari	Toto	Nasarawa	8.200	7.339	2	
+Kuduguwa	Nasarawa Egon	Nasarawa	8.817	8.533	2	
+Kuduge	Dikwa	Borno	11.961	13.924	2	
+Kudugi	Lavun	Niger	9.439	5.758	2	Kuduge
+Kududufawa	Garki	Jigawa	12.352	8.794	2	
+Kudore	Teungo	Adamawa	7.981	11.552	2	
+Kudo	Chikun	Kaduna	10.367	7.117	2	
+Kudla	Askira-Uba	Borno	10.468	12.661	2	
+Kudiri	Girei	Adamawa	9.476	12.293	2	
+Kudiri	Kagarko	Kaduna	9.409	7.667	2	Kuduri
+Kudhura	Gombi	Adamawa	10.187	12.399	2	
+Kuderi	Kachia	Kaduna	10.033	7.317	2	
+Kudenda	Chikun	Kaduna	10.479	7.379	2	
+Kudedu	Jos East	Plateau	9.846	9.076	2	
+Kude	Dutse	Jigawa	11.633	9.350	2	
+Kudawa	Arewa Dandi	Kebbi	12.665	4.075	2	
+Kudaru	Kokona	Nasarawa	8.785	8.246	2	
+Kudan	Kudan	Kaduna	11.307	7.732	2	
+Kudan	Gurara	Niger	9.173	6.780	2	
+Kudame	Munya	Niger	9.653	7.135	2	
+Kudaa	Kachia	Kaduna	9.695	7.953	2	
+Kuda	Nganzai	Borno	12.511	13.134	2	
+Kuda	Karu	Nasarawa	9.214	7.864	2	
+Kuchiya	Kirfi	Bauchi	10.432	10.388	2	
+Kuchiribi	Paikoro	Niger	9.596	7.068	2	
+Kuchiri	Paikoro	Niger	9.547	7.213	2	
+Kuchipi	Paikoro	Niger	9.449	6.982	2	
+Kuchiko	Suleja	Niger	9.266	7.185	2	
+Kuchigi	Gbako	Niger	9.050	5.933	2	
+Kuchi	Kebbe	Sokoto	11.701	4.482	2	
+Kuchi	Kagarko	Kaduna	9.568	7.771	2	
+Kuchi	Paikoro	Niger	9.500	7.067	2	
+Kucha	Awe	Nasarawa	8.252	9.007	2	
+Kubuwa	Itas/Gadau	Bauchi	11.930	10.211	2	
+Kubusupe	Chikun	Kaduna	10.251	7.183	2	
+Kuburmbula	Chibok	Borno	10.877	12.924	2	
+Kuburiwita	Askira-Uba	Borno	10.928	13.166	2	
+Kuburihu	Chibok	Borno	10.926	13.023	2	
+Kuburdugu	Hawul	Borno	10.485	12.170	2	
+Kubuku Kaduga	Kwaya Kusar	Borno	10.426	11.927	2	
+Kubu	Madagali	Adamawa	10.837	13.400	2	
+Kubu	Hong	Adamawa	10.325	12.950	2	
+Kubo Dugu	Hawul	Borno	10.510	12.212	2	
+Kubo	Kwaya Kusar	Borno	10.372	12.011	2	
+Kubo	Shani	Borno	10.100	12.029	2	
+Kubo	Nasarawa	Nasarawa	8.270	7.892	2	
+Kubli	Borgu	Niger	10.391	4.132	2	
+Kubiri	Maiyama	Kebbi	12.143	4.275	2	Kuberi
+Kubi	Michika	Adamawa	10.650	13.296	2	
+Kubi	Jada	Adamawa	8.652	12.450	2	
+Kubeli	Markurdi	Benue	7.761	8.571	2	
+Kubbi	Mayo-Belwa	Adamawa	8.624	11.849	2	
+Kube	Shanga	Kebbi	11.197	4.722	2	Kubaye
+Kubau	Kubau	Kaduna	10.799	8.154	2	
+Kubare	Kokona	Nasarawa	8.889	8.186	2	
+Kubarachi	Madobi	Kano	11.773	8.356	2	
+Kubara	Fufore	Adamawa	9.486	12.984	2	
+Kubanhazo	Malumfashi	Katsina	11.930	7.774	2	
+Kubaji	Teungo	Adamawa	7.941	11.802	2	
+Kubaje Jauro Salatu	Maiha	Adamawa	10.001	13.130	2	
+Kubaje Wamngo	Maiha	Adamawa	10.006	13.130	2	
+Kubaje	Ganye	Adamawa	8.471	12.247	2	
+Kubachia	Kagarko	Kaduna	9.443	7.812	2	Kubacha
+Kuba	Bayo	Borno	10.574	11.675	2	
+Kuba	Yamaltu/Deba	Gombe	10.549	11.560	2	
+Kuba	Song	Adamawa	9.849	12.443	2	
+Kuba	Mashegu	Niger	9.837	5.792	2	
+Kuawe	Konshisha	Benue	7.131	8.649	2	
+Kuatansule	Guma	Benue	7.722	8.962	2	
+Kua	Gboko	Benue	7.379	8.619	2	
+Ku	Gwer East	Benue	7.438	8.589	2	
+Ku	Sardauna	Taraba	6.672	11.231	2	
+Kote Kura	Bama	Borno	11.374	14.018	2	Kote
+Klare Kuda	Biu	Borno	10.854	11.977	2	
+Kila Kumagun	Yunusari	Yobe	13.226	11.350	2	
+Kauthlama Kura	Chibok	Borno	10.758	12.817	2	
+Karim Kura	Kwaya Kusar	Borno	10.552	11.971	2	Karin Kura
+Kamsta Kuwa	Lafia	Nasarawa	8.476	8.608	2	
+Kuttu	Garki	Jigawa	12.438	9.018	2	Kafin Kuttu
+Jigawa Kuka	Nafada	Gombe	11.165	11.109	2	
+Jejin Kudu	Sumaila	Kano	11.365	8.949	2	
+Jauro Kurungu	Ardo-Kola	Taraba	8.743	11.053	2	
+Jauro Kubura	Jada	Adamawa	8.514	12.298	2	
+Isuanin Kura	Gwagwalada	FCT Abuja	9.062	7.063	2	
+Ilela	Gwandu	Kebbi	12.565	4.722	2	Illela Kunyu
+Igodan Kuda	Ogun Waterside	Ogun	6.557	4.568	2	
+Gwio Kura	Barde	Yobe	12.675	11.067	2	Gwio kura
+Goshala Kufam	Hong	Adamawa	10.359	13.103	2	
+Goni Kurmi	Mafa	Borno	11.733	13.633	2	
+Gidan Sarikin Kukunga	Mariga	Niger	10.583	6.100	2	
+Gidan Kuyambana	Rafi	Niger	10.254	6.390	2	
+Gidan Kurao	Rafi	Niger	10.450	6.417	2	
+Gidan Kuka	Fakai	Kebbi	11.417	4.817	2	Kuka
+Guidan Kuje	Gusau	Zamfara	12.195	6.697	2	Gidan Kuje
+Gayo Kura	Chibok	Borno	10.762	12.756	2	
+Garun Kurama	Lere	Kaduna	10.170	8.579	2	
+Garin Kusa	Gassol	Taraba	8.263	10.537	2	
+Garin Kuri	Bali	Taraba	8.419	11.152	2	
+Gada	Yorro	Taraba	9.069	11.532	2	Garin Kunini
+Gang Kurin	Bali	Taraba	8.374	11.569	2	
+Ganadere Kuku	Bali	Taraba	8.121	11.168	2	
+Fadan Kuower	Kagarko	Kaduna	9.584	7.791	2	
+Gang	Zangon Kataf	Kaduna	9.931	8.300	2	Fadan Ikulu|Kurmin Gandu
+Ekwereku	Abi	Cross River	5.999	8.031	2	Ekwere Kunta|Ekwerekunta
+Dutsin Kura	Tsafe	Zamfara	11.679	6.766	2	Dutsin Kura Sauri
+Dutsin Kura	Talata Mafara	Zamfara	12.479	6.081	2	
+Dutsin Kura	Kafur	Katsina	11.452	7.688	2	
+Dutchen Kuka	Kebbe	Sokoto	11.739	4.373	2	
+Kura	Binji	Sokoto	13.125	4.783	2	Duchin Kura
+Dogon-Kurmi	Doma	Nasarawa	8.414	8.293	2	Dogon Kurmi|DogonKurmi
+Dogon Kuka	Fune	Yobe	11.668	11.417	2	
+Dogo Kurmi	Tafa	Niger	9.312	7.305	2	
+Dan Kurma	Jos East	Plateau	9.994	9.127	2	
+Dan Kuri	Maigatari	Jigawa	12.678	9.583	2	
+Yan Tabaruma	Baure	Katsina	12.741	8.732	2	Dan Kuliya
+Dam Kumbo	Maigatari	Jigawa	12.772	9.353	2	
+Chigarker Mumzu-Kutsa	Chibok	Borno	10.782	12.779	2	
+Bwangwar Kubaje	Maiha	Adamawa	10.006	13.143	2	
+Binda Kura	Fune	Yobe	12.032	11.234	2	
+Kelluri	Bama	Borno	11.496	13.652	2	Bararam Kura
+Barakin Kuru Baba	Jos South	Plateau	9.681	8.803	2	
+Barakin Kuru Three	Jos South	Plateau	9.692	8.872	2	Barakin Kuru|Barakin Kuru III
+Kukawa	Lau	Taraba	9.320	11.597	2	Bang
+Baiona	Paikoro	Niger	9.401	6.889	2	Baidna|Tungan Kuka
+Asanyi-Kubegi	Agaie	Niger	9.123	6.353	2	Chata|Kubegi
+Angawan Kutari	Ganjuwa	Bauchi	10.634	10.185	2	Anguwan Kutari|Ungwan Kutari
+Amadu Kulu	Bali	Taraba	8.553	11.291	2	
+Ali Kurmiri	Konduga	Borno	11.332	12.866	2	Arri Kurumiri
+Akarekwu Kunde	Obi	Nasarawa	8.339	8.551	2	
+Akara Kumo	Badagry	Lagos	6.414	2.961	2	Akarakumo
+Kupe	Karu	Nasarawa	9.197	7.628	2	
+Kugwaru	Karu	Nasarawa	9.186	7.685	2	Kagwaru
+Kubabo	Municipal Area Council	FCT Abuja	9.109	7.534	2	
+Kubobbagi	Karu	Nasarawa	9.104	7.654	2	
+Kujupi	Karu	Nasarawa	9.075	7.720	2	
+Kusafe	Municipal Area Council	FCT Abuja	9.019	7.520	2	
+Kugo	Municipal Area Council	FCT Abuja	9.022	7.547	2	
+Kubewa	Karu	Nasarawa	9.027	7.603	2	
+Kurudu	Municipal Area Council	FCT Abuja	8.931	7.550	2	
+Kupai	Municipal Area Council	FCT Abuja	8.839	7.571	2	
+Kurmin Mashi	Kaduna South	Kaduna	10.553	7.418	2	
+Kudefu	Afijio	Oyo	7.677	3.852	2	
+Kukoyi	Akinyele	Oyo	7.586	3.934	2	
+Kofar Kudu	Tarauni	Kano	11.952	8.540	2	
+Kusuba	Kumbotso	Kano	11.913	8.408	2	
+Kurdu	Gabasawa	Kano	12.216	8.721	2	
+Aujarawa Kurma	Gezawa	Kano	12.010	8.658	2	
+Garin Kuka	Gezawa	Kano	12.087	8.750	2	
+Maraya Kuka	Gezawa	Kano	12.076	8.733	2	
+Kubuta	Gezawa	Kano	12.033	8.663	2	
+Kunnawa	Dawakin Tofa	Kano	12.168	8.351	2	
+Kukukiri	Nembe	Bayelsa	4.597	6.308	2	
+Kulepe	Chikun	Kaduna	10.273	7.050	2	
+Kura	Chikun	Kaduna	10.446	7.457	2	
+Kurata	Keffi	Nasarawa	8.784	7.808	2	
+Kududamulu	Hong	Adamawa	10.341	13.076	2	
+Kuvu-Kiva	Askira-Uba	Borno	10.764	13.129	2	
+Kumare	Askira-Uba	Borno	10.416	13.196	2	
+Kugang	Hong	Adamawa	10.322	13.142	2	
+Kuda	Madagali	Adamawa	10.816	13.391	2	
+Bula Kursoye	Bama	Borno	11.553	14.243	2	
+Ngaburo Kura	Abadam	Borno	13.541	13.211	2	
+Kalauwa Kura	Abadam	Borno	13.499	13.073	2	
+Bula Ganna Kura	Abadam	Borno	13.652	13.303	2	
+Kudakurgu	Abadam	Borno	13.642	13.348	2	
+Kulakiri	Brass	Bayelsa	4.325	6.538	2	
+Kudoro	Obafemi Owode	Ogun	6.981	3.582	2	
+Kuntu	Song	Adamawa	10.021	12.335	2	
+Kunboon	Gombi	Adamawa	10.067	12.449	2	
+Kulachanchan	Gombi	Adamawa	10.107	12.387	2	
+Kuichalata	Gombi	Adamawa	10.157	12.442	2	
+Kulaya	Gombi	Adamawa	10.176	12.392	2	
+Kurkasi	Gombi	Adamawa	10.185	12.309	2	
+Ruwa-Kuskupda	Shelleng	Adamawa	10.235	12.270	2	
+Kunguru	Kwaya Kusar	Borno	10.397	12.020	2	
+Kumba	Hawul	Borno	10.491	12.033	2	
+Kuleve	Gboko	Benue	7.274	8.758	2	
+Kuewe	Gwer East	Benue	7.354	8.270	2	
+Kuha	Gboko	Benue	7.394	8.873	2	
+Tse-Kucha	Gboko	Benue	7.423	8.969	2	
+Kuwan	Gboko	Benue	7.476	8.830	2	Kawen
+Kudu	Gwer East	Benue	7.539	8.469	2	
+Kusugh	Gwer East	Benue	7.565	8.297	2	
+Kurkyor	Markurdi	Benue	7.638	8.499	2	
+Kura	Gwer East	Benue	7.645	8.386	2	
+Kuman	Markurdi	Benue	7.671	8.409	2	
+Kuman	Gwer West	Benue	7.692	8.370	2	
+Kumbur	Gwer West	Benue	7.702	8.090	2	
+Ikorkpen Kumbar	Gwer West	Benue	7.779	8.230	2	
+Kuronto	Dandi	Kebbi	11.662	3.756	2	
+Tonka Kure	Arewa Dandi	Kebbi	12.729	3.963	2	
+Kuri Mallamal	Baure	Katsina	12.871	8.644	2	
+Kuriyantuba	Baure	Katsina	12.867	8.642	2	
+Kunbi	Baure	Katsina	12.737	8.891	2	
+Unguwar Kullu	Babura	Jigawa	12.660	8.989	2	
+Kumikumi	Babura	Jigawa	12.607	8.842	2	
+Kuwadige	Garki	Jigawa	12.521	8.999	2	
+Dan Kulia	Kazaure	Jigawa	12.674	8.690	2	
+Kurfi	Kazaure	Jigawa	12.614	8.584	2	
+Lambar Kunchi	Bichi	Kano	12.339	8.150	2	
+Kurma Forest Reserve	Makoda	Kano	12.350	8.483	2	
+Ungua Gaiya Kuwaru	Garki	Jigawa	12.356	8.888	2	
+Kukan Mairuwa	Ringim	Jigawa	12.234	8.976	2	
+Sabon Gari Kumbo	Gabasawa	Kano	12.197	8.896	2	
+Yautan Kudu	Gabasawa	Kano	12.198	8.760	2	Yautar Kudu
+Kulumi	Ringim	Jigawa	12.135	8.976	2	
+Larbawa Kugur	Gezawa	Kano	12.059	8.778	2	
+Rijiya Kufar	Dutsi	Katsina	12.931	8.142	2	
+Kumbursa	Dutsi	Katsina	12.859	8.113	2	
+Kuda Walawa	Yankwashi	Jigawa	12.768	8.441	2	
+Jammajen Kudu	Gwiwa	Jigawa	12.679	8.271	2	
+Kundu Waje	Ingawa	Katsina	12.610	8.004	2	
+Kurabau	Rimi	Katsina	12.958	7.793	2	
+Kuydawa	Batagarawa	Katsina	12.917	7.647	2	
+Kuki	Bindawa	Katsina	12.711	7.836	2	
+Kuma	Bindawa	Katsina	12.678	7.881	2	
+Kuwatau	Bindawa	Katsina	12.674	7.760	2	
+Kufan Agga	Kurfi	Katsina	12.657	7.557	2	
+Kurkur	Kurfi	Katsina	12.559	7.571	2	
+Kukiya	Charanchi	Katsina	12.557	7.675	2	
+Gidan Madawakin Kura	Mariga	Niger	10.293	6.055	2	
+Kulepma	Shiroro	Niger	10.383	6.815	2	
+Kundimidna	Shiroro	Niger	10.261	6.829	2	
+Gidan Kurihau	Birnin Gwari	Kaduna	10.687	6.120	2	
+Gidan Kubizaro	Birnin Gwari	Kaduna	10.670	6.207	2	
+Kurebe	Shiroro	Niger	10.473	6.862	2	
+Kurdula-Sabarumowa	Gudu	Sokoto	13.581	4.373	2	
+Kulhi Kondo	Gudu	Sokoto	13.242	4.387	2	
+Kuanawa	Tangaza	Sokoto	13.238	4.987	2	
+Kunkurwo	Binji	Sokoto	13.159	4.959	2	
+Kulfo	Mashegu	Niger	10.005	5.104	2	
+Gidan Kuka	Gada	Sokoto	13.721	5.826	2	
+Gidan Kura	Illela	Sokoto	13.669	5.446	2	
+Ku	Goronyo	Sokoto	13.460	5.892	2	
+Kulukulu	Kware	Sokoto	13.226	5.294	2	
+Kudukudu	Rabah	Sokoto	13.060	5.535	2	
+Kursa	Rabah	Sokoto	13.003	5.881	2	
+Kundus	Rabah	Sokoto	13.022	5.594	2	
+Kuso	Sabon Birni	Sokoto	13.523	5.976	2	
+Roga Kuka	Wamako	Sokoto	13.009	5.189	2	
+Kura	Kankara	Katsina	11.906	7.439	2	
+Kukurtawa	Faskari	Katsina	11.863	7.284	2	
+Dan Kumeji	Kankara	Katsina	11.837	7.419	2	
+Kutcheri	Tsafe	Zamfara	11.810	7.043	2	
+Kudi	Bakori	Katsina	11.741	7.418	2	
+Kurma	Malumfashi	Katsina	11.738	7.441	2	
+Kunnuwa	Kafur	Katsina	11.707	7.743	2	
+Kuka	Bakori	Katsina	11.625	7.469	2	
+Baban Kufai	Faskari	Katsina	11.619	7.241	2	
+Ungwan Kubanni	Zaria	Kaduna	11.127	7.650	2	
+Ungwan Kurbawa	Giwa	Kaduna	11.079	7.145	2	
+Kundage	Bagudo	Kebbi	11.436	4.381	2	
+Kunte	Rijau	Niger	11.181	4.806	2	
+Tsaunin Kura	Chikun	Kaduna	10.446	7.438	2	
+Kurei	Auyo	Jigawa	12.352	9.986	2	
+Ungwan Sarkin Kudu	Alkaleri	Bauchi	10.247	10.322	2	
+Wuro Kudou	Kirfi	Bauchi	10.425	10.822	2	
+Garin Buba Kuppe	Dukku	Gombe	10.391	10.952	2	
+Kufa	Alkaleri	Bauchi	10.023	10.695	2	
+Kumkoro	Burutu	Delta	5.340	5.517	2	
+Kuka Mada	Tsafe	Zamfara	11.843	6.844	2	
+Kunkuru	Kebbe	Sokoto	12.132	4.791	2	
+Kulama II	Southern Ijaw	Bayelsa	4.430	5.828	2	Koluama II|Kulama
+Kulaingbene	Southern Ijaw	Bayelsa	4.427	5.849	2	
+Kurogbene	Ekeremor	Bayelsa	4.935	5.552	2	
+Kulaiperigbene	Southern Ijaw	Bayelsa	4.742	5.705	2	
+Kuiwa	Garum Mallam	Kano	11.721	8.370	2	
+Kuture	Isoko South	Delta	5.320	6.143	2	
+Kuonubogbene	Sagbama	Bayelsa	5.215	6.212	2	
+Awka South	Awka South	Anambra	6.207	7.068	2	Agbegbe Ijoba Ibile Guusu Awka|Awka Sud|Awka ta Kudu|Lam Awka|Ndida Awka
+Mokwa	Mokwa	Niger	9.200	5.333	2	Agbegbe Ijoba Ibile Mokwa|mo kua
+Ife South	Ife South	Osun	7.200	4.600	2	Agbegbe Ijoba Ibile Guusu Ife|Ife SouthLGA|Ife Sud|Ife ta Kudu|Lam Ife
+Idemili South	Idemili South	Anambra	6.048	6.950	2	Agbegbe Ijoba Ibile Guusu Idemili|Idemili Sud|Idemili ta Kudu|Lam Idemili
+Nnewi South	Nnewi South	Anambra	5.933	6.923	2	Agbegbe Ijoba Ibile Guusu Nnewi|Lam Nnewi|Nnewi Sud|Nnewi ta Kudu
+Aniocha South	Aniocha South	Delta	6.128	6.483	2	Agbegbe Ijoba Ibile Guusu Aniocha|Aniocha Sud|Aniocha ta Kudu|Lam Aniocha
+Ika South	Ika South	Delta	6.171	6.129	2	Ika Sud|Ika ta Kudu|Lam Ika
+Isoko South	Isoko South	Delta	5.382	6.214	2	Isoco Meridional|Isoko Sud|Isoko ta Kudu|Lam Isoko
+Oshimili South	Oshimili South	Delta	6.092	6.682	2	Lam Oshimili|Oshimili Sud|Oshimili ta Kudu|nan ao xi mi li
+Ughelli South	Ughelli South	Delta	5.343	5.951	2	Lam Ughelli|Ughelli Sud|Ughelli ta Kudu|Ughilli South
+Warri South	Warri South	Delta	5.613	5.611	2	Agbegbe Ijoba Ibile Guusu Warri|Lam Warri|Warri Sud|Warri ta Kudu
+Umuahia South	Umuahia South	Abia	5.462	7.440	2	Agbegbe Ijoba Ibile Guusu Umuahia|Lam Umuahia|Pivdenna Umuakhija|Umuahia Sud|Umuahia ta Kudu
+Kudan	Kudan	Kaduna	11.273	7.799	2	Agbegbe Ijoba Ibile Kudan
+Kura	Kura	Kano	11.788	8.487	2	
+Dawakin Kudu	Dawakin Kudu	Kano	11.832	8.692	2	Agbegbe Ijoba Ibile Dawakin Kudu
+Ovia South-West	Ovia South-West	Edo	6.396	5.272	2	Ovia South West|Ovia Sud Ouest|Ovia ta Kudu maso Yamma|Se-lam Ovia
+Kurfi	Kurfi	Katsina	12.710	7.463	2	Kurfi Local Government Area
+Birnin Kudu	Birnin Kudu	Jigawa	11.490	9.494	2	Birnin Kudu Local Government Area|Birnin-Kudu
+Langtang South	Langtang South	Plateau	8.602	9.810	2	Agbegbe Ijoba Ibile Guusu Langtang|Lam Langtang|Langtang South Local Government Area|Langtang Sud|Langtang ta Kudu|Langt
+Kuban	Kubau	Kaduna	10.879	8.383	2	Kubau|Kubau Local Government Area
+Kuje	Kuje	FCT Abuja	8.659	7.270	2	Kuje Area Council
+Abeokuta South	Abeokuta South	Ogun	7.154	3.355	2	Abeokuta South Local Government Area|Abeokuta Sud|Abeokuta ta Kudu|Abeokuta-South|Abeokuta-Sul|Agbegbe Ijoba Ibile Guusu
+Akure South	Akure South	Ondo	7.205	5.188	2	Agbegbe Ijoba Ibile Guusu Akure|Akure South Local Government Area|Akure Sud|Akure ta Kudu|Lam Akure|jnwb akwr
+Esan South-East	Esan South-East	Edo	6.587	6.476	2	Esan South East|Esan South East Local Government Area|Esan Sud Est|Esan ta Kudu maso Gabas|Tang-lam Esan
+Ajaokuta	Ajaokuta	Kogi	7.524	6.581	2	Adzhaokuta|Agbegbe Ijoba Ibile Ajaokuta|Ajaokuta Local Government Area|a jiao ku ta|ajaokuta|ajaykwta
+Onitsha South	Onitsha South	Anambra	6.127	6.777	2	Agbegbe Ijoba Ibile Guusu Onitsha|Lam Onitsha|Onitsha South Local Government Area|Onitsha Sud|Onitsha ta Kudu|Onitsha-Su
+Arochukwu	Arochukwu	Abia	5.486	7.766	2	Agbegbe Ijoba Ibile Arochukwu|Arochokwu|Arochukvu|Arochukwu Local Government Area|a luo qiu ku
+Calabar South	Calabar South	Cross River	4.864	8.336	2	Calabar South Local Government Area|Calabar Sud|Kalabar ta Kudu|Lam Calabar
+Kurmi	Kurmi	Taraba	7.285	10.587	2	Kurmi Local Government Area
+Mubi South	Mubi South	Adamawa	10.187	13.396	2	Agbegbe Ijoba Ibile Guusu Mubi|Lam Mubi|Mubi South Local Government Area|Mubi Sud|Mubi ta Kudu
+Yola South	Yola South	Adamawa	9.253	12.436	2	Agbegbe Ijoba Ibile Guusu Yola|Lam Yola|Yola Fombina|Yola South Local Government Area|Yola Sud|Yola ta Kudu|ywla jnwby
+Kukawa	Kukawa	Borno	13.131	13.738	2	Kukawa Local Government Area
+Kwaya Kusar	Kwaya Kusar	Borno	10.443	11.991	2	Kwaya Kusar Local Government Area|Kwaya-Kusar
+Kuriyaje	Song	Adamawa	9.646	13.036	2	
+Kukiliya	Kukawa	Borno	13.306	13.760	2	Baduma
+Tunbun Kuyiram	Kukawa	Borno	13.309	13.785	2	
+Kukiliya	Kukawa	Borno	13.283	13.772	2	Dodo
+Kukiliya	Kukawa	Borno	13.271	13.770	2	Hausari
+Kutkut	Abadam	Borno	13.033	13.286	2	
+Kachala Kururi	Guzamala	Borno	13.022	13.462	2	
+Kuta Kulwa	Bama	Borno	11.422	13.874	2	
+Kunde	Gwoza	Borno	11.044	13.740	2	
+Kumba	Gwoza	Borno	11.137	13.780	2	
+Gmawa Kura	Marte	Borno	12.409	13.922	2	
+Kubura-Lufa	Gwoza	Borno	10.935	13.476	2	
+Kuvu Mussa	Askira-Uba	Borno	10.705	13.094	2	
+Kubur Chacha	Askira-Uba	Borno	10.688	13.273	2	
+Kubur Jibje	Michika	Adamawa	10.675	13.329	2	Kubur-Jibje
+Kullomari	Guzamala	Borno	12.861	13.572	2	
+Kuturu	Ussa	Taraba	6.780	9.886	2	
+Kurhi	Askira-Uba	Borno	10.486	13.207	2	
+Daura Kunu	Fune	Yobe	11.682	11.300	2	
+Yadi Kukuwa	Gulani	Yobe	11.150	11.882	2	
+Kukuri	Fika	Yobe	11.270	11.519	2	
+Kujel	Fune	Yobe	11.678	11.782	2	
+Kunkanyeyo	Fune	Yobe	11.608	11.524	2	
+Kulugu Tamsuwa	Ngelzarma	Yobe	11.958	11.765	2	
+Kurang	Madagali	Adamawa	10.724	13.603	2	
+Buka Bokwo	Jos North	Plateau	9.869	8.852	2	Kuka Bokwo
+Kufang	Jos North	Plateau	9.863	8.864	2	
+Kumbuluboko	Degema	Rivers	4.598	6.961	2	Kumbulubcko
+Kulavan	Konshisha	Benue	7.255	8.487	2	
+Kurnbur	Konshisha	Benue	7.042	8.474	2	
+Kura	Gassol	Taraba	8.205	10.534	2	
+Kupti	Magumeri	Borno	12.374	12.567	2	
+Jauben Kudu	Tofa	Kano	12.037	8.328	2	
+Kuyanbana	Maru	Zamfara	11.195	6.358	2	
+Kudokurgo	Abadam	Borno	13.637	13.473	2	
+Kuranabasa	Gwoza	Borno	10.989	13.729	2	
+Kurba Gayi	Kwaya Kusar	Borno	10.462	11.797	2	
+Kubo	Shani	Borno	10.098	12.002	2	
+K Kumaga	Kala-Balge	Borno	12.172	14.596	2	
+Zago Kura	Kafin Hausa	Jigawa	12.056	10.040	2	
+Kuchi	Kebbe	Sokoto	11.818	4.580	2	
+Kubaraci	Madobi	Kano	11.777	8.356	2	
+Kuka	Takai	Kano	11.533	9.108	2	
+Kureken Sani	Kumbotso	Kano	11.920	8.584	2	
+Yada Kunya	Ungongo	Kano	12.079	8.606	2	
+Kuraye	Charanchi	Katsina	12.705	7.636	2	
+Kusa	Jibia	Katsina	13.073	7.479	2	
+Kukasheka	Kankara	Katsina	11.852	7.584	2	
+Kunduru Gyaza	Kankia	Katsina	12.394	7.706	2	
+Kurkujan A	Musawa	Katsina	12.118	7.787	2	
+Kurdula	Gudu	Sokoto	13.542	4.395	2	
+Kurya	Rabah	Sokoto	13.058	5.751	2	
+Kurawa	Sabon Birni	Sokoto	13.471	6.257	2	
+Gwio-Kura	Barde	Yobe	12.629	11.121	2	
+Kurnawa	Borsari	Yobe	12.609	11.304	2	
+Kukareta Warsala	Ngelzarma	Yobe	11.896	12.180	2	
+Kusur	Geidam	Yobe	12.567	12.059	2	
+Kushimaga	Gulani	Yobe	10.753	11.571	2	
+Kukayasku	Machina	Yobe	12.988	10.027	2	
+Kurfa	Gummi	Zamfara	12.229	5.012	2	
+Kurya	Shinkafi	Zamfara	12.981	6.675	2	
+Kufana	Kajuru	Kaduna	10.272	7.741	2	
+Mayasa Kuturu	Zurmi	Zamfara	12.906	6.777	2	
+Kurmin Musa	Kachia	Kaduna	9.609	8.052	2	
+Kujama	Chikun	Kaduna	10.461	7.606	2	
+Kushe	Kagarko	Kaduna	9.462	7.753	2	
+Kubau	Kubau	Kaduna	10.785	8.139	2	
+Kukayasku	Maigatari	Jigawa	12.690	9.554	2	
+Sarkin Kura	Kura	Kano	11.761	8.435	2	
+Kutawa	Dutsin Ma	Katsina	12.398	7.479	2	
+Kubi A	Ganjuwa	Bauchi	10.667	10.191	2	
+Lim Kundak	Alkaleri	Bauchi	9.726	10.296	2	
+Kubi B	Ganjuwa	Bauchi	10.597	10.280	2	
+Kubdiya	Gamawa	Bauchi	12.220	10.424	2	
+Kundun Durum	Bauchi	Bauchi	10.481	9.732	2	
+Kurba	Giade	Bauchi	11.262	10.231	2	
+Kudu Yamma	Ningi	Bauchi	10.939	9.344	2	
+Kulana	Doma	Nasarawa	7.939	8.267	2	
+Kuran	Gwer West	Benue	7.617	8.218	2	
+Kuwaghtumen	Markurdi	Benue	7.672	8.476	2	
+Kumzor	Gwer West	Benue	7.784	8.155	2	
+Kuan	Logo	Benue	7.714	9.078	2	
+Kuleve	Buruku	Benue	7.530	9.112	2	
+Kulungu	Logo	Benue	7.729	9.200	2	
+Kumaga	Logo	Benue	7.591	9.309	2	
+Kucha	Logo	Benue	7.567	9.313	2	
+Kuer	Ukum	Benue	7.712	9.405	2	
+Kusugh	Logo	Benue	7.595	9.395	2	
+Kur	Logo	Benue	7.563	9.398	2	
+Kunde	Ukum	Benue	7.625	9.548	2	
+Kur	Ukum	Benue	7.671	9.642	2	
+Kuna	Ukum	Benue	7.526	9.733	2	
+Kule	Katsina-Ala	Benue	7.505	9.828	2	
+Kuata	Wukari	Taraba	7.715	9.801	2	
+Kura	Donga	Taraba	7.673	9.864	2	
+Kusho	Donga	Taraba	7.637	9.823	2	
+Kunya	Gboko	Benue	7.488	9.018	2	
+Kuha	Buruku	Benue	7.481	9.061	2	
+Kuwa	Gboko	Benue	7.446	9.085	2	
+Kusuv	Gboko	Benue	7.433	9.061	2	
+Kulam	Gboko	Benue	7.364	9.060	2	
+Kueve	Gboko	Benue	7.346	9.089	2	Kuewe
+Kugba	Buruku	Benue	7.413	9.145	2	
+Kutyo	Buruku	Benue	7.473	9.222	2	
+Kusuv	Katsina-Ala	Benue	7.328	9.298	2	
+Kumaior	Buruku	Benue	7.324	9.278	2	
+Kume	Katsina-Ala	Benue	7.275	9.413	2	
+Kuha	Gboko	Benue	7.246	9.078	2	
+Kula	Ushongo	Benue	7.211	9.013	2	
+Kutse	Ushongo	Benue	7.136	9.034	2	
+Kume	Ushongo	Benue	7.085	9.088	2	
+Kumbu	Ushongo	Benue	7.061	9.024	2	
+Kua	Ushongo	Benue	7.044	9.018	2	
+Kuha	Vandeikya	Benue	7.032	9.074	2	
+Kuchin	Buruku	Benue	7.142	9.105	2	
+Kureun	Ushongo	Benue	7.081	9.103	2	
+Kumeka	Ushongo	Benue	7.067	9.147	2	
+Kuleve	Buruku	Benue	7.232	9.218	2	
+Kuhe	Ushongo	Benue	7.157	9.305	2	
+Kunde	Ushongo	Benue	7.085	9.296	2	
+Kur	Katsina-Ala	Benue	7.119	9.466	2	
+Kuan	Gboko	Benue	7.455	8.843	2	
+Kungwo	Gboko	Benue	7.481	8.871	2	
+Kuna	Gboko	Benue	7.485	8.878	2	
+Kuha	Gboko	Benue	7.488	8.934	2	
+Tse-Kume	Gboko	Benue	7.481	8.996	2	
+Kunde	Gboko	Benue	7.452	8.994	2	
+Kumoin	Gboko	Benue	7.447	8.993	2	
+Kumun	Gboko	Benue	7.437	8.869	2	
+Kume	Gboko	Benue	7.439	8.855	2	
+Kumbul	Gboko	Benue	7.425	8.845	2	
+Kuegh	Gboko	Benue	7.430	8.810	2	
+Kumun	Gboko	Benue	7.312	8.802	2	
+Kumbul	Gboko	Benue	7.326	8.802	2	
+Kurugh	Ushongo	Benue	7.273	8.950	2	
+Kuha	Gboko	Benue	7.273	8.901	2	
+Kumbul	Gboko	Benue	7.281	8.799	2	
+Kusa	Gboko	Benue	7.279	8.801	2	
+Kurugh	Gboko	Benue	7.265	8.798	2	
+Kusa	Gboko	Benue	7.284	8.760	2	
+Kurza	Ussa	Taraba	7.225	10.094	2	
+Kulusku	Gamawa	Bauchi	12.201	10.409	2	
+Buran Kurna	Zaki	Bauchi	12.076	10.249	2	
+Kubuke	Brass	Bayelsa	4.483	6.121	2	
+Kughum	Gwoza	Borno	11.028	13.796	2	
+Kupe	Lavun	Niger	9.412	5.522	2	
+Kuba	Lavun	Niger	9.464	5.852	2	
+Kuchita	Gbako	Niger	9.249	5.880	2	
+Kusotukpa	Gbako	Niger	9.219	5.888	2	
+Kupafu	Gbako	Niger	9.175	5.947	2	
+Kusogbogi	Gbako	Niger	9.095	5.867	2	
+Kusoko	Gbako	Niger	9.118	5.877	2	
+Kusotaci	Gbako	Niger	9.082	5.929	2	
+Kusokapa	Gbako	Niger	9.036	5.850	2	
+Kucitagi	Gbako	Niger	9.015	5.839	2	
+Kuchiyabata	Edati	Niger	9.009	5.974	2	
+Kuchi	Edati	Niger	9.008	5.978	2	
+Kuniyawo	Lavun	Niger	9.239	5.650	2	
+Kusogi	Edati	Niger	9.184	5.632	2	
+Kukpa	Lavun	Niger	9.161	5.591	2	
+Kubo	Edati	Niger	9.117	5.662	2	
+Kusodu	Edati	Niger	9.087	5.523	2	
+Kuka Boata	Machina	Yobe	13.073	10.030	2	
+Gapchari Kunuma	Karasuwa	Yobe	13.161	10.898	2	
+Bulamari Kurunadi	Karasuwa	Yobe	13.085	10.763	2	
+Kule	Yusufari	Yobe	13.109	10.982	2	
+Kurumi	Katcha	Niger	9.478	6.217	2	
+Kusomisun	Gbako	Niger	9.408	6.066	2	
+Kuruma	Katcha	Niger	9.261	6.192	2	
+Kupa	Gbako	Niger	9.242	6.099	2	
+Kuyindekpara	Gbako	Niger	9.256	6.074	2	
+Kuchita	Gbako	Niger	9.281	6.041	2	
+Kusoyogi	Gbako	Niger	9.169	6.053	2	
+Kuduti	Gbako	Niger	9.194	6.113	2	
+Kusogi	Katcha	Niger	9.199	6.260	2	
+Kube	Agaie	Niger	9.116	6.341	2	
+Kuchigi Nakuyi	Gbako	Niger	9.147	6.105	2	
+Kuduti	Edati	Niger	9.114	6.104	2	
+Kupafu	Edati	Niger	9.115	6.081	2	
+Kuchitagi	Bida	Niger	9.101	6.034	2	
+Kupafu	Bida	Niger	9.098	6.051	2	
+Kuchita	Edati	Niger	9.091	6.066	2	
+Kupafu	Katcha	Niger	9.052	6.209	2	
+Kusoti	Katcha	Niger	9.016	6.164	2	
+Kusotachindeji	Edati	Niger	9.037	6.027	2	
+Kuka	Bosso	Niger	9.661	6.320	2	
+Rafin Kuka	Shiroro	Niger	9.915	6.693	2	
+Ungwan Kulu	Shiroro	Niger	9.801	6.736	2	
+Kupe	Shiroro	Niger	9.761	6.647	2	
+Kushi	Munya	Niger	9.908	6.997	2	
+Gidan Kutumbo	Munya	Niger	9.659	6.943	2	
+Gidan Kuwlo	Shiroro	Niger	9.679	6.816	2	
+Kugnayi Sapa	Munya	Niger	9.622	6.884	2	
+Gidan Kukma	Munya	Niger	9.611	6.941	2	
+Kushuyi	Shiroro	Niger	9.734	6.709	2	
+Tungan Kupe	Shiroro	Niger	9.670	6.746	2	
+Kulumi	Bosso	Niger	9.671	6.657	2	
+Dutsen Kura	Chanchaga	Niger	9.632	6.526	2	
+Kutriko	Chanchaga	Niger	9.613	6.519	2	
+Ungwan Kutsibi	Shiroro	Niger	9.628	6.735	2	
+Kutiribi	Munya	Niger	9.720	7.006	2	
+Kubi	Munya	Niger	9.667	7.160	2	
+Kuko	Paikoro	Niger	9.680	7.231	2	
+Kufe	Munya	Niger	9.969	7.065	2	
+Kuje	Amuwo Odofin	Lagos	6.455	3.295	2	
+Kuramo School	Eti Osa	Lagos	6.426	3.427	2	
+Dogon Kurmi	Kagarko	Kaduna	9.448	7.774	2	
+Dogon Kurmi	Kagarko	Kaduna	9.433	7.775	2	
+Kuzampa	Kagarko	Kaduna	9.488	7.910	2	
+Kurmin-Jibrin	Kagarko	Kaduna	9.470	7.937	2	
+Gidan Kundi	Jaba	Kaduna	9.441	7.952	2	
+Kusam	Kagarko	Kaduna	9.369	7.799	2	
+Kuchi	Kagarko	Kaduna	9.341	7.769	2	
+Kukam Jaba	Kagarko	Kaduna	9.312	7.758	2	
+Kuchin Keffi	Kagarko	Kaduna	9.323	7.786	2	
+Kukam	Kagarko	Kaduna	9.299	7.865	2	
+Kuban	Karu	Nasarawa	9.263	7.854	2	
+Kure	Karu	Nasarawa	9.270	7.883	2	
+Kulmi	Karu	Nasarawa	9.272	7.880	2	
+Kukam Jaba	Kagarko	Kaduna	9.315	7.889	2	
+Gidan Kuzoto	Karu	Nasarawa	9.129	7.904	2	
+Gidan Kura	Karu	Nasarawa	9.114	7.927	2	
+Kungie	Karu	Nasarawa	9.106	7.960	2	
+Gidan Kuska	Karu	Nasarawa	9.064	7.893	2	
+Kutu	Karu	Nasarawa	9.023	7.877	2	
+Kuba	Kagarko	Kaduna	9.470	7.541	2	
+Kushe	Kagarko	Kaduna	9.496	7.570	2	
+Kurmin-Daudu	Bwari	FCT Abuja	9.297	7.648	2	
+Kurutu	Kachia	Kaduna	9.737	7.620	2	
+Kurmin Ajiyya	Kachia	Kaduna	9.749	7.645	2	
+Ungwan Kuka	Kachia	Kaduna	9.739	7.686	2	
+Kukku	Kagarko	Kaduna	9.596	7.667	2	
+Kuchimi	Kagarko	Kaduna	9.589	7.672	2	
+Kunzan	Zing	Taraba	8.839	11.641	2	
+Kugba	Mayo-Belwa	Adamawa	8.819	11.951	2	
+Kuba	Mayo-Belwa	Adamawa	8.788	11.941	2	
+Kusumji	Ganye	Adamawa	8.583	11.902	2	
+Kurumji	Ganye	Adamawa	8.584	11.946	2	
+Kufai Agwaro	Jalingo	Taraba	8.906	11.314	2	
+Jauro Kusin	Ardo-Kola	Taraba	8.773	11.304	2	
+Kudana	Yorro	Taraba	8.995	11.417	2	
+Kuga	Yorro	Taraba	8.922	11.376	2	
+Jauro Kusin	Yorro	Taraba	8.903	11.415	2	
+Kusin	Jalingo	Taraba	8.833	11.402	2	
+Ungwar Kura	Ardo-Kola	Taraba	8.791	11.436	2	
+Kassa Kuru	Ardo-Kola	Taraba	8.755	11.465	2	
+Kassa Kuru	Ardo-Kola	Taraba	8.777	11.451	2	
+Jauro Kutumba	Ardo-Kola	Taraba	8.693	11.311	2	
+Kare Kuka	Gassol	Taraba	8.519	10.732	2	
+Kuka	Gassol	Taraba	8.784	10.896	2	
+Pitore Kuka	Ardo-Kola	Taraba	8.821	10.927	2	
+Garin Kuka	Gassol	Taraba	8.540	10.779	2	
+Kukuki	Wase	Plateau	8.859	10.007	2	
+Kurwat Tsoro	Shendam	Plateau	8.829	9.506	2	
+Kurum	Mikang	Plateau	8.945	9.574	2	
+Kumpil	Shendam	Plateau	8.903	9.544	2	
+Kulung	Mikang	Plateau	8.935	9.620	2	
+Kuka	Shendam	Plateau	8.776	9.576	2	
+Kuka Gwaneam	Shendam	Plateau	8.769	9.568	2	
+Kuruwo	Shendam	Plateau	8.858	9.711	2	
+Kumtung	Langtang North	Plateau	8.827	9.777	2	
+Kukwet	Langtang North	Plateau	8.870	9.821	2	
+Wadata Kudu	Wase	Plateau	8.781	9.972	2	
+Gwantu Kurmi	Sanga	Kaduna	9.243	8.458	2	Gwantum Kurmi
+Kuderai Mada	Sanga	Kaduna	9.051	8.179	2	
+Kuderai	Akwanga	Nasarawa	9.046	8.178	2	
+Kurmin Ruwa	Kauru	Kaduna	9.945	8.474	2	
+Kurmin Ruwa	Kauru	Kaduna	9.940	8.476	2	
+Kurmin Ruwa	Kauru	Kaduna	9.920	8.472	2	
+Kuruminbi	Zangon Kataf	Kaduna	9.784	8.314	2	
+Kudan	Zangon Kataf	Kaduna	9.625	8.271	2	
+Kafanchan Kurmi	Jema'A	Kaduna	9.583	8.321	2	
+Kurmin Sara	Kachia	Kaduna	9.733	8.014	2	
+Kurmin Gyada	Kachia	Kaduna	9.676	8.061	2	
+Kurmin Rami	Kachia	Kaduna	9.625	8.036	2	
+Kurmin	Jaba	Kaduna	9.586	8.143	2	
+Kurmin Kwara	Jaba	Kaduna	9.537	8.121	2	
+Kubal	Sanga	Kaduna	9.396	8.628	2	
+Kutal	Sanga	Kaduna	9.366	8.656	2	
+Kurindoo	Sanga	Kaduna	9.379	8.537	2	
+Kuba	Barkin Ladi	Plateau	9.416	8.928	2	
+Kurchi	Qua'An Pan	Plateau	8.783	9.290	2	
+Kuwana Sareki	Shendam	Plateau	8.841	9.477	2	
+Kuruwat	Shendam	Plateau	8.822	9.499	2	
+Kuku Camps	Warri South-West	Delta	5.625	5.314	2	
+Wuro Kuturu	Girei	Adamawa	9.286	12.445	2	
+Lama Kugama	Fufore	Adamawa	9.035	12.146	2	
+Kubaje	Fufore	Adamawa	9.127	12.132	2	
+Kumchal	Lau	Taraba	9.362	11.556	2	
+Kurwa	Lau	Taraba	9.322	11.574	2	
+Kulu	Lau	Taraba	9.307	11.617	2	
+Kula	Numan	Adamawa	9.285	11.661	2	
+Kumule Mayo	Demsa	Adamawa	9.282	11.905	2	
+Kushi	Mayo-Belwa	Adamawa	9.164	11.800	2	
+Kupuru Sum	Mayo-Belwa	Adamawa	9.084	11.772	2	
+Kudaku	Mayo-Belwa	Adamawa	9.074	11.773	2	
+Kuma	Mayo-Belwa	Adamawa	9.058	11.887	2	
+Kulanle	Mayo-Belwa	Adamawa	9.086	11.948	2	
+Kuki	Demsa	Adamawa	9.208	11.996	2	
+Kuri	Mayo-Belwa	Adamawa	9.113	11.905	2	
+Kugama	Mayo-Belwa	Adamawa	9.113	11.900	2	
+Girle Kura	Ngala	Borno	12.291	14.266	2	
+Kumail	Alkaleri	Bauchi	9.886	10.920	2	
+Kurmanji	Alkaleri	Bauchi	9.705	10.813	2	
+Kufa	Akko	Gombe	9.884	10.945	2	
+Kutiri	Karim Lamido	Taraba	9.487	10.938	2	
+Gangare Kumu	Karim Lamido	Taraba	9.408	10.999	2	
+Kunshana	Karim Lamido	Taraba	9.321	10.806	2	
+Ramin Kura	Karim Lamido	Taraba	9.281	10.913	2	
+Kundi	Karim Lamido	Taraba	9.278	10.904	2	
+Kuka	Karim Lamido	Taraba	9.241	10.894	2	
+Kuka	Karim Lamido	Taraba	9.253	11.038	2	
+Kuka	Karim Lamido	Taraba	9.185	11.047	2	
+Kurama Balassa	Karim Lamido	Taraba	9.370	11.023	2	
+Kuluku	Obafemi Owode	Ogun	7.090	3.397	2	
+Kusela	Egbeda	Oyo	7.408	4.034	2	
+Kuogbo	Irewole	Osun	7.466	4.227	2	
+Kufakin	Irewole	Osun	7.405	4.257	2	
+Mosisi-Kuogbo	Aiyedade	Osun	7.352	4.351	2	
+Kuti	Irepodun	Osun	7.890	4.535	2	
+Kusi	Ede South	Osun	7.634	4.511	2	
+Kutanti	Boripe	Osun	7.855	4.665	2	
+Kusoro	Yewa South	Ogun	6.808	2.868	2	
+Kushu Camps	Ado Odo/Ota	Ogun	6.551	2.964	2	
+Wuro-Kurori	Fufore	Adamawa	9.208	12.676	2	Wuro Kurori
+Kumo	Yola North	Adamawa	9.192	12.513	2	
+Kuburufu	Baruten	Kwara	9.707	3.371	2	
+Ago-Kusedu	Ese Odo	Ondo	6.317	4.896	2	
+Kumu	Keana	Nasarawa	8.165	8.526	2	
+Ago-Kudola	Ondo West	Ondo	7.026	4.840	2	
+Kuwo	Asa	Kwara	8.487	4.348	2	
+Kurogbo	Obafemi Owode	Ogun	7.116	3.636	2	
+Kuku	Ijebu North	Ogun	7.026	3.901	2	
+Kurogon	Kaiama	Kwara	9.568	3.908	2	
+Kurusara	Baruten	Kwara	9.045	2.933	2	
+Kunbi	Moro	Kwara	8.748	4.209	2	
+Kunmi	Moro	Kwara	8.670	4.437	2	
+Kupola	Asa	Kwara	8.583	4.394	2	
+Kudiri	Asa	Kwara	8.598	4.357	2	
+Elesin-Kute	Asa	Kwara	8.611	4.342	2	
+Kugbagbe	Asa	Kwara	8.535	4.379	2	
+Kudu	Isin	Kwara	8.289	5.000	2	
+Kurunse	Wamba	Nasarawa	8.867	8.533	2	
+Dugon Kurmi	Qua'An Pan	Plateau	8.655	8.996	2	
+Kura	Lafia	Nasarawa	8.636	8.678	2	Akura
+Kure	Nasarawa Egon	Nasarawa	8.663	8.555	2	
+Kutare	Akwanga	Nasarawa	8.974	8.492	2	
+Kurmin Tagwaye	Akwanga	Nasarawa	8.919	8.443	2	
+Kurini Mariki	Kokona	Nasarawa	8.967	8.017	2	
+Kurame	Kokona	Nasarawa	8.932	8.086	2	
+Kurmin Linkafa	Kokona	Nasarawa	8.861	8.236	2	
+Kufo	Ogo Oluwa	Oyo	7.964	4.210	2	
+Wuro Kudora	Song	Adamawa	9.997	12.379	2	WuroKudora
+Kurabwa	Song	Adamawa	9.721	12.481	2	
+Kula Battawa	Shelleng	Adamawa	9.811	12.099	2	KulaBattawa
+Kubta	Song	Adamawa	9.841	12.364	2	
+Kula	Shelleng	Adamawa	9.802	12.103	2	
+Kunteri	Demsa	Adamawa	9.538	12.215	2	
+Kurange	Girei	Adamawa	9.541	12.399	2	
+Kutefi	Song	Adamawa	9.960	12.544	2	
+Wuro Kurei Maigari	Song	Adamawa	9.846	12.627	2	WuroKureiMaigari
+Kuli	Song	Adamawa	9.744	12.506	2	
+Kubaje	Song	Adamawa	9.713	12.883	2	
+Wuro Kudi	Song	Adamawa	9.654	12.523	2	WuroKudi
+Akata Kuga	Ilorin South	Kwara	8.429	4.608	2	AkataKuga|Akatakuga
+Kunguri	Agaie	Niger	8.901	6.392	2	
+Kukpanti	Mokwa	Niger	9.123	5.266	2	
+Kusoko	Mokwa	Niger	9.240	5.435	2	
+Kudugu	Toto	Nasarawa	8.350	7.324	2	
+Kuwa-Bassa	Toto	Nasarawa	8.159	7.249	2	
+Kunama	Toto	Nasarawa	8.398	7.071	2	
+Kurutu	Toto	Nasarawa	8.088	7.113	2	
+Kudu	Toto	Nasarawa	8.387	7.344	2	
+Kudugu	Toto	Nasarawa	8.116	7.029	2	
+Kudu	Toto	Nasarawa	8.303	7.325	2	
+Kubal	Toto	Nasarawa	8.029	7.151	2	
+Kuwa-Koto	Toto	Nasarawa	8.162	7.235	2	
+Kunk	Toto	Nasarawa	8.504	7.390	2	
+Kushi	Municipal Area Council	FCT Abuja	8.636	7.480	2	
+Kutiva	Kuje	FCT Abuja	8.511	7.046	2	
+Kutada	Kuje	FCT Abuja	8.565	7.262	2	
+Kurudu	Nasarawa	Nasarawa	8.519	7.574	2	
+Gidan Kubi	Nasarawa	Nasarawa	8.729	7.554	2	GidanKubi
+Kusa	Nasarawa	Nasarawa	8.599	7.606	2	
+Baban-Kurmi	Municipal Area Council	FCT Abuja	8.869	7.252	2	
+Kubmana	Municipal Area Council	FCT Abuja	8.865	7.315	2	
+Kuji	Municipal Area Council	FCT Abuja	8.887	7.285	2	
+Kutunbui	Municipal Area Council	FCT Abuja	8.932	7.457	2	
+Giwau Kurmi	Municipal Area Council	FCT Abuja	8.910	7.374	2	GiwauKurmi
+Kura	Sardauna	Taraba	6.772	11.407	2	
+Kum	Sardauna	Taraba	6.596	11.139	2	
+Kurshin	Sardauna	Taraba	6.615	11.188	2	
+Kune Bene	Sardauna	Taraba	6.739	11.452	2	
+Kuruma	Sardauna	Taraba	6.803	11.392	2	
+Kusi	Lagelu	Oyo	7.514	4.052	2	
+Kubo	Afijio	Oyo	7.697	4.056	2	
+Kusi	Ede South	Osun	7.633	4.404	2	
+Kumafo	Afijio	Oyo	7.724	4.025	2	
+Kuntaku	Iwo	Osun	7.648	4.138	2	
+Kula	Gboko	Benue	7.281	8.964	2	
+Kugama	Fufore	Adamawa	9.174	12.194	2	
+Kutukulu	Kalgo	Kebbi	12.479	4.057	2	
+Kunbi	Olorunsogo	Oyo	8.668	4.037	2	
+Kusi	Ede South	Osun	7.657	4.438	2	
+Kuta	Ola Oluwa	Osun	7.729	4.269	2	
+Kuwagana	Paikoro	Niger	9.578	7.054	2	
+Abiodun Kuye Street	Ifako/Ijaye	Lagos	6.657	3.313	1	
+Kufeji Street	Lagos Mainland	Lagos	6.500	3.381	1	
+Kudeti Avenue	Ibadan North West	Oyo	7.396	3.881	1	
+Kudan Street	Kaduna North	Kaduna	10.581	7.462	1	
+Kubau Road	Kaduna North	Kaduna	10.581	7.460	1	
+Kufena Road	Kaduna North	Kaduna	10.530	7.451	1	
+Kunama Road	Lokoja	Kogi	7.800	6.736	1	
+Kunle Abass Street	Ibadan North	Oyo	7.419	3.917	1	
+Kusa Street	Shomolu	Lagos	6.541	3.382	1	
+Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.025	7.486	1	
+T.F. Kuboye Road	Eti Osa	Lagos	6.429	3.464	1	
+Adekunle Kuy Street	Surulere	Lagos	6.499	3.344	1	
+Kusimo Street	Surulere	Lagos	6.497	3.330	1	
+Kunle Akinosi Street	Oshodi/Isolo	Lagos	6.555	3.347	1	
+kunle otukoya / banjoko street	Kosofe	Lagos	6.564	3.394	1	
+Segun Kujore Street	Kosofe	Lagos	6.609	3.373	1	
+Kunle Olaleye Street	Ikeja	Lagos	6.651	3.354	1	
+Ore Kupolati Street	Ikeja	Lagos	6.638	3.349	1	
+Kudirat Abiola Way	Ikeja	Lagos	6.599	3.366	1	
+Adewole Kuku Street	Eti Osa	Lagos	6.442	3.480	1	
+Kudirat Abiola Street	Alimosho	Lagos	6.586	3.296	1	
+Kuramo Close	Eti Osa	Lagos	6.443	3.445	1	
+Kunle Ogunba Street	Eti Osa	Lagos	6.453	3.479	1	Otunba Adeleke Adeshina Street
+Kusenla Road	Eti Osa	Lagos	6.444	3.491	1	
+Kura Close	Municipal Area Council	FCT Abuja	9.091	7.503	1	
+Kumasi Crescent	Municipal Area Council	FCT Abuja	9.083	7.480	1	
+Kumo Street	Municipal Area Council	FCT Abuja	9.023	7.483	1	
+Kumba Street	Municipal Area Council	FCT Abuja	9.060	7.460	1	
+River Kubani Crescent	Municipal Area Council	FCT Abuja	9.093	7.482	1	
+Kunle Sulieman Street	Municipal Area Council	FCT Abuja	9.074	7.393	1	
+Kukawa Close	Municipal Area Council	FCT Abuja	9.039	7.504	1	
+Kukawa - Baga Road	Kukawa	Borno	12.967	13.691	1	
+Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.029	7.485	1	
+Kur Mohammed Avenue	Municipal Area Council	FCT Abuja	9.062	7.490	1	
+Kunene Street	Municipal Area Council	FCT Abuja	9.080	7.498	1	
+Ransome Kuti Road	Shomolu	Lagos	6.513	3.390	1	
+Kushoro Street	Agege	Lagos	6.623	3.310	1	
+Kujore Street	Kosofe	Lagos	6.579	3.378	1	
+Adewale Kuku Street	Kosofe	Lagos	6.557	3.376	1	
+Kusti Close	Municipal Area Council	FCT Abuja	9.073	7.471	1	
+Kurna Baban Layi	Dala	Kano	12.034	8.490	1	
+Kuka Bulukiya Road	Dala	Kano	12.005	8.501	1	
+Kumbotso L/G road	Kumbotso	Kano	11.903	8.492	1	
+Kurunmi Road	Ibadan North	Oyo	7.448	3.888	1	
+Kunmi Adebiyi Street	Oshodi/Isolo	Lagos	6.512	3.322	1	
+Balogun Kuku Street	Surulere	Lagos	6.484	3.332	1	
+Abosede Kuboye Street	Surulere	Lagos	6.484	3.354	1	
+Kunle Shobajo Street	Ìkòròdú	Lagos	6.621	3.487	1	
+Dele Kuti street	Ìkòròdú	Lagos	6.606	3.492	1	
+Dan Kura Street	Kano Municipal	Kano	11.972	8.530	1	
+Kutama - Mainika Road	Gwarzo	Kano	11.898	7.869	1	
+Kwanar kuda	Kumbotso	Kano	11.890	8.502	1	
+Kunya to Niger Border Road	Babura	Jigawa	12.428	8.832	1	
+Alhaji Kuburat Lawal	Eti Osa	Lagos	6.439	3.477	1	
+Kuramo Crescent	Eti Osa	Lagos	6.429	3.552	1	
+Kukuruku Close	Municipal Area Council	FCT Abuja	9.082	7.509	1	
+Kukawa - Baga Road	Kukawa	Borno	13.080	13.798	1	
+Kukawa - Baga Road	Guzamala	Borno	12.926	13.516	1	
+Kutumbawa Road	Kano Municipal	Kano	11.995	8.521	1	
+Kuchiako Roundabout	Municipal Area Council	FCT Abuja	8.874	7.252	1	
+Kuforiji Olubi Road	Abeokuta South	Ogun	7.129	3.321	1	
+Kudirat Adenekan Street	Oshodi/Isolo	Lagos	6.540	3.314	1	
+Kuye Road	Surulere	Oyo	8.187	4.332	1	
+Kumoluyi Street	Ifako/Ijaye	Lagos	6.654	3.315	1	
+Kunle Ajagbe Street	Kosofe	Lagos	6.625	3.369	1	
+Kutama - Mainika Road	Gwarzo	Kano	11.880	7.869	1	
+Kunle Akinsanya Street	Alimosho	Lagos	6.549	3.252	1	
+olatunji kuti close	Alimosho	Lagos	6.569	3.279	1	
+Kuzi-Orizu Street	Eti Osa	Lagos	6.450	3.579	1	
+Kusimo Street	Alimosho	Lagos	6.672	3.259	1	
+Kunle Shodiya	Ìkòròdú	Lagos	6.638	3.484	1	
+Balogun Kuku Street	Ìkòròdú	Lagos	6.652	3.513	1	
+Kur Muhammed Road	Kaduna North	Kaduna	10.579	7.429	1	
+Ahmed Kumasi Street	Kaduna North	Kaduna	10.574	7.423	1	
+Kuramo Waters Close	Eti Osa	Lagos	6.425	3.439	1	
+Dele Kulajolu Street	Oshodi/Isolo	Lagos	6.512	3.314	1	
+Kumasi Drive	Ikwerre	Rivers	4.907	6.910	1	
+Birni Kudu Road	Kaduna South	Kaduna	10.521	7.425	1	
+AVM. Ibrahim Kure Road	Kaduna North	Kaduna	10.526	7.453	1	
+Kubau Street	Kaduna North	Kaduna	10.578	7.461	1	
+Kundulun Road	Akko	Gombe	10.321	11.176	1	
+Kunle Owuye Street	Amuwo Odofin	Lagos	6.475	3.297	1	
+Bayo Kuku Road	Eti Osa	Lagos	6.459	3.434	1	
+Kunle Odugbesan Street	Ijebu North	Ogun	6.946	3.928	1	
+Kukwaba Street	Municipal Area Council	FCT Abuja	9.145	7.322	1	
+Rufus Kupolati Road	Lokoja	Kogi	7.808	6.742	1	
+Prince Kunle Owoade Close	Ìkòròdú	Lagos	6.633	3.538	1	
+Otunba Yinka Kuye Street	Eti Osa	Lagos	6.477	3.652	1	
+Goke Kupolati Street	Eti Osa	Lagos	6.479	3.654	1	
+Kofar Kudu Road	Tofa	Kano	12.057	8.273	1	
+I Kure Street	Municipal Area Council	FCT Abuja	9.045	7.550	1	
+GT Kurubo Street	Municipal Area Council	FCT Abuja	9.041	7.548	1	
+Kusenla Road	Eti Osa	Lagos	6.434	3.491	1	
+Kukawa - Baga Road	Guzamala	Borno	12.927	13.581	1	
+Malam Kuri Riyal Road	Gombe	Gombe	10.263	11.168	1	
+Atiku Kurawa Close	Kano Municipal	Kano	11.998	8.517	1	
+Anthony Ngaji Kuti Close	Idemili North	Anambra	6.141	6.826	1	
+Ransom Kuti Road	Shomolu	Lagos	6.514	3.387	1	
+Muna Kumburi GDSS	Jere	Borno	11.849	13.175	1	
+Muna Kumburi GDSS	Mafa	Borno	11.911	13.578	1	
+Muna Kumburi GDSS	Jere	Borno	11.860	13.214	1	
+Kuru	Jos South	Plateau	9.648	8.809	0	
+Kulp Bible School	Hong	Adamawa	10.327	13.170	0	
+Kurugu Health Post	Karaye	Kano	11.833	8.040	0	
+Kuku Primary Health Centre	Kunchi	Kano	12.373	8.282	0	
+Bojos Dispensary	Alkaleri	Bauchi	10.271	10.333	0	Kunzun Health Post
+Kubodeno Clinic	Shani	Borno	10.223	11.820	0	
+Kubo Comprehensive Health Center	Shani	Borno	10.108	12.031	0	
+Kumaga Health Clinic	Kala-Balge	Borno	12.136	14.620	0	
+Chobal Kura Primary Health Centre	Magumeri	Borno	11.955	13.002	0	
+Kumshe Clinic	Bama	Borno	11.356	14.210	0	
+Kubwa	Bwari	FCT Abuja	9.164	7.325	0	
+Kundila Primary School Kundila	Tarauni	Kano	11.965	8.556	0	
+Govt Sec Sch Kundila	Tarauni	Kano	11.965	8.556	0	
+Kukwaba II	Municipal Area Council	FCT Abuja	9.031	7.423	0	
+Kukwaba I	Municipal Area Council	FCT Abuja	9.040	7.441	0	
+Yajiwa Camp Kusheri Refugee Site	Jere	Borno	11.789	13.131	0	
+Kessa Kura Refugee Site	Jere	Borno	11.919	13.193	0	
+PHC Ruggar Kura	Dange-Shuni	Sokoto	12.923	5.248	0	
+Kundesana Clinic	Gwoza	Borno	11.088	13.687	0	
+Kughum Health Clinic	Gwoza	Borno	11.054	13.791	0	
+Kuma Dispensary	Askira-Uba	Borno	10.416	13.196	0	
+kurang heath post	Madagali	Adamawa	10.713	13.592	0	
+Kuelu Primary Health Care	Egbedore	Osun	7.841	4.483	0	
+Rural Hospital Kuta	Shiroro	Niger	9.857	6.713	0	
+Kure Market	Chanchaga	Niger	9.617	6.531	0	
+Rosy Premium Success Academy Nursery and Primary School Kuchigoro	Municipal Area Council	FCT Abuja	9.018	7.420	0	
+Kurmin Mashi181 Primary Health Care	Kaduna South	Kaduna	10.553	7.415	0	
+Kubau Road Primary Health Center	Kaduna South	Kaduna	10.520	7.407	0	
+Kujama Gari Primary Health Center	Chikun	Kaduna	10.458	7.638	0	
+General Hospital Kujama Kujama Market Kaduna	Chikun	Kaduna	10.476	7.637	0	
+Primary Healthcare Tudun Wada No2 Bugai Road Kujama	Chikun	Kaduna	10.477	7.643	0	
+Governor Awan General Hospital No43 Bugai Road Kujama	Chikun	Kaduna	10.476	7.645	0	
+Rural Hospital Kujama	Chikun	Kaduna	10.481	7.651	0	
+Primary Health Center Tudun Wada Opposite New Market Kujama	Chikun	Kaduna	10.476	7.633	0	
+Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
+Kudar Clinic And Maternity	Jos North	Plateau	9.903	8.872	0	
+Makarantar Malam Mai Kumsa	Gwale	Kano	11.962	8.475	0	
+New Kulende Market, Jebba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.514	4.589	0	
+number 2 (ajegunle) waterside/kumuyi street(ajegunle)	Ajeromi/Ifelodun	Lagos	6.448	3.351	0	
+Kuje	Kuje	FCT Abuja	8.894	7.186	0	
+Car Drop Tipper Garage Kuje	Municipal Area Council	FCT Abuja	8.879	7.240	0	
+Kugbo Second Gate Bus Stop	Municipal Area Council	FCT Abuja	9.028	7.550	0	
+Kugbo Bus Stop	Municipal Area Council	FCT Abuja	9.028	7.549	0	
+Welder Bus Stop Kubwa	Municipal Area Council	FCT Abuja	9.145	7.347	0	
+Kasuwar Kuka Primary Health Centre	Kunchi	Kano	12.430	8.353	0	
+Kullumi Health Post	Ajingi	Kano	12.031	9.030	0	
+Kunkurawa Health Post	Ajingi	Kano	11.975	9.064	0	
+Kundila Health Post	Shanono	Kano	12.130	7.985	0	
+Kuraku Health Post	Shanono	Kano	12.170	7.917	0	
+Kunchi Primary Health Centre	Kunchi	Kano	12.502	8.275	0	
+Kurna Health Post	Makoda	Kano	12.546	8.480	0	
+Kumbo Health Post	Gabasawa	Kano	12.204	8.884	0	
+Yautar Kudu Primary Health Centre	Gabasawa	Kano	12.197	8.759	0	
+Kungu Health Post	Bichi	Kano	12.271	8.445	0	
+Kurna Primary Health Centre	Dala	Kano	12.045	8.482	0	
+Kuru Health Post	Minjibir	Kano	12.169	8.530	0	
+Kunnawa Health Post	Dawakin Tofa	Kano	12.175	8.333	0	
+Garin Kure Yamma Dispensary	Nangere	Yobe	11.825	10.834	0	
+Kunjeri Dispensary	Buji	Jigawa	11.591	9.835	0	
+Kujuru Dispensary	Katagum	Bauchi	11.669	10.148	0	Kazunu Dispensary
+Kungas Health Clinic	Bauchi	Bauchi	10.064	9.896	0	
+Kufai Dispensary	Toro	Bauchi	10.009	9.262	0	
+Kumbala Health Clinic	Alkaleri	Bauchi	9.893	10.041	0	
+Kudurun Health Post	Madobi	Kano	11.789	8.378	0	
+Kutama Primary Health Centre	Gwarzo	Kano	11.870	7.873	0	
+Kundum Dispensary	Bauchi	Bauchi	10.419	9.727	0	
+Kusi	Bauchi	Bauchi	10.472	9.691	0	
+Kukadi Maternity	Misau	Bauchi	11.302	10.463	0	
+Kumbi Dispensary	Kirfi	Bauchi	10.302	10.287	0	
+Kurwala Kamfani Dispensary	Bauchi	Bauchi	10.249	10.204	0	
+Maternity Clinic Kusu Yalwan Kagadama	Bauchi	Bauchi	10.266	9.793	0	
+Kubwa General Hospital	Municipal Area Council	FCT Abuja	9.157	7.341	0	
+Bakar Kuka Primary Health Center	Itas/Gadau	Bauchi	12.001	10.122	0	
+Maduma Maternity	Zaki	Bauchi	12.037	10.275	0	Bura Kura
+Kutunas Dispensary	Gamawa	Bauchi	12.209	10.329	0	
+Kubdiya Dispensary	Gamawa	Bauchi	12.282	10.385	0	
+Kujjin Dispensary	Zaki	Bauchi	12.309	10.469	0	
+Kundak Primary Health Center.	Alkaleri	Bauchi	9.795	9.900	0	
+General Hospital Kukawa	Guzamala	Borno	12.922	13.582	0	
+Kuva Gaya Primary Health Center	Hong	Adamawa	10.444	13.003	0	
+Chobal Kura Primary Health Center	Magumeri	Borno	11.955	13.002	0	
+Kudiri maternity and child health clinic	Girei	Adamawa	9.477	12.289	0	kudiri primary
+Dara Kura Health Post	Yunusari	Yobe	13.138	11.905	0	
+Kuriyaji Health Clinic	Song	Adamawa	9.639	13.036	0	
+Kuryaji Primary Health Center	Song	Adamawa	9.639	13.037	0	
+Abba Kumbo Health Clinic	Fufore	Adamawa	9.218	12.651	0	
+kuba heath center	Madagali	Adamawa	10.858	13.390	0	
+wulla kushirir primary heath center	Madagali	Adamawa	10.742	13.632	0	
+Gazara Kuma Health Post	Fune	Yobe	12.070	11.002	0	
+Dogon Kuka B Mch	Fune	Yobe	12.068	11.000	0	
+Dogon Kuka B Maternal And Child Health Care	Fune	Yobe	11.910	11.059	0	
+Dogon Kuka A Maternal And Child Health Care	Fune	Yobe	11.668	11.414	0	
+Kurum Maternity	Ganye	Adamawa	8.324	11.978	0	
+Kukuri Dispensary	Nangere	Yobe	11.888	10.857	0	
+Kukuri Maternal and Child Health Care	Nangere	Yobe	11.887	10.853	0	
+Kwanan Kuka Health Post	Hong	Adamawa	10.235	12.993	0	
+Kubtava Health Clinic	Hong	Adamawa	10.345	12.904	0	
+Ihya;ussunnah Jauro kuna	Gombe	Gombe	10.311	11.171	0	
+LEA Primary, Junior and Senior Secondary School Kuchigoro	Municipal Area Council	FCT Abuja	9.014	7.419	0	
+GSS kufang	Jos North	Plateau	9.868	8.857	0	
+Kufang Medical center	Jos North	Plateau	9.864	8.864	0	
+Kurchi Health Clinic	Mai'Adua	Katsina	13.080	8.173	0	
+Kudai Primary Health Clinic	Dutse	Jigawa	11.631	9.340	0	

@@ -1,5 +1,6 @@
 GSS Staff Quarters	Gwarzo	Kano	11.914	7.926	2	
 GSSSS Monguno	Monguno	Borno	12.680	13.609	2	
+Gsu Road	Gombe	Gombe	10.295	11.169	1	
 GSS Kachia	Kachia	Kaduna	9.881	7.958	0	
 Gsu filling station	Gombe	Gombe	10.303	11.171	0	
 GSU old Clinic	Gombe	Gombe	10.307	11.175	0	
@@ -10,7 +11,6 @@ Gsm Village Bus Stop	Municipal Area Council	FCT Abuja	9.055	7.468	0
 GSS Doka Boys School	Kaduna North	Kaduna	10.503	7.429	0	
 GSS Dambatta Health Post	Dambatta	Kano	12.425	8.517	0	
 GSS Gramma Health Post	Dawakin Tofa	Kano	12.102	8.334	0	
-GSU ROAD	Gombe	Gombe	10.295	11.169	1	
 GSS Lafia East	Lafia	Nasarawa	8.469	8.519	0	
 GSS kufang	Jos North	Plateau	9.868	8.857	0	
 Bulumkutu GSM Village	Maiduguri	Borno	11.834	13.100	0	

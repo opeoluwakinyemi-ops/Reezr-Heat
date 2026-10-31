@@ -15,6 +15,7 @@ Njua	Boki	Cross River	6.396	8.882	2
 Njilvi	Hawul	Borno	10.455	12.079	2	Jilivi
 Njibi	Biu	Borno	10.872	11.685	2	
 Njahasang	Akamkpa	Cross River	5.208	8.294	2	Njakasang;Nya Asang
+Njawai	Sardauna	Taraba	6.917	11.567	2	Djawé
 Njimtilo	Kala-Balge	Borno	11.901	14.440	2	
 Njimtilo	Magumeri	Borno	11.850	13.022	2	
 Njaba	Damboa	Borno	11.136	12.953	2	
@@ -42,26 +43,85 @@ Njalmari	Marte	Borno	12.281	13.852	2
 Njikwida	Hawul	Borno	10.548	12.385	2	
 Bula Njimbam	Damboa	Borno	11.199	12.614	2	Bulajimbam
 Njibaram	Damboa	Borno	11.076	12.948	2	
-Njaba L.G.A Head Quarter	Njaba	Imo	5.736	7.015	0	
 Bida Njimtilo	Monguno	Borno	12.346	13.465	2	
 Njichimmari	Guzamala	Borno	12.773	13.336	2	
 Njemia Kale Mayamiye	Guzamala	Borno	12.970	12.907	2	
 Njemia Hummoye	Guzamala	Borno	12.983	12.904	2	
 Njimi Inyang	Akamkpa	Cross River	5.588	8.823	2	
-Njemanze Street	Enugu North	Enugu	6.453	7.502	1	
-Njikoka Street	Enugu East	Enugu	6.480	7.504	1	
-Njemanze Close	Enugu East	Enugu	6.469	7.594	1	
-Njemanze Avenue	Enugu North	Enugu	6.453	7.502	1	
-Njemema Primary School	Ngala	Borno	12.378	14.205	0	
-Buba Njobbo Street	Yola South	Adamawa	9.254	12.414	1	
-Raymond Njoku Street	Eti Osa	Lagos	6.443	3.424	1	
-Eni-Njoku Road	Lagos Mainland	Lagos	6.511	3.397	1	
-Dr. Emeka Njoku's Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.193	1	
-Njanjanre Health Post	Fufore	Adamawa	9.222	12.738	0	
-Raymond Njoku Street	Eti Osa	Lagos	6.444	3.425	1	
-Njimtilo Primary Health Clinic	Magumeri	Borno	11.849	13.018	0	
 Njibulwa	Gulani	Yobe	10.977	11.587	2	
 Njiwaji Gwange	Ngelzarma	Yobe	11.769	11.976	2	
 Njikoka	Njikoka	Anambra	6.189	6.994	2	
 Njaba	Njaba	Imo	5.705	7.002	2	
 Njine	Marte	Borno	12.264	13.831	2	
+Yerima Njelu	Fika	Yobe	11.389	11.425	2	
+Wakilin Njeke	Sardauna	Taraba	7.066	11.370	2	
+Sabonogari Njoma	Askira-Uba	Borno	10.569	12.936	2	
+Njuwa	Gboko	Benue	7.266	8.747	2	
+Njuda	Gombi	Adamawa	10.176	12.659	2	
+Njometom	Ikom	Cross River	6.211	8.513	2	
+Njoma Musa	Askira-Uba	Borno	10.611	12.932	2	
+Njoma Jato	Askira-Uba	Borno	10.598	12.969	2	
+Njoma Dikwa	Askira-Uba	Borno	10.585	12.937	2	
+Njoddomo	Maiha	Adamawa	9.864	13.215	2	
+Njoboli	Yola North	Adamawa	9.204	12.587	2	Jabolio
+Njobbore	Girei	Adamawa	9.296	12.499	2	Jabura
+Njiranga	Hawul	Borno	10.357	12.080	2	
+Njimob	Kanam	Plateau	9.529	9.800	2	
+Njila Hamlets	Chibok	Borno	10.849	12.778	2	
+Njikar	Tafawa-Balewa	Bauchi	9.830	9.893	2	
+Njiddawo	Gassol	Taraba	8.365	10.520	2	
+Njida Garua	Sardauna	Taraba	7.220	11.071	2	
+Njeke	Sardauna	Taraba	6.915	11.392	2	
+Njebi	Sardauna	Taraba	7.184	11.079	2	
+Njarengol	Mubi North	Adamawa	10.221	13.191	2	
+Njanjen	Numan	Adamawa	9.505	11.985	2	
+Njamjabba	Gombi	Adamawa	10.150	12.477	2	
+Njakina	Ogoja	Cross River	6.454	8.662	2	
+Njolowa	Ngelzarma	Yobe	11.920	11.862	2	Jelawa
+Isu-Njaba	Isu	Imo	5.708	7.066	2	
+Njendure	Demsa	Adamawa	9.402	11.881	2	Bakin Diwe
+Kilindilla Njekuva	Askira-Uba	Borno	10.647	13.112	2	
+Njakia	Abadam	Borno	13.541	13.139	2	
+Njara'a	Abadam	Borno	13.568	13.342	2	
+Njo	Guma	Benue	7.876	8.408	2	
+Ntara Njemaya	Ogoja	Cross River	6.454	8.487	2	Ntara-Waterside
+Njua-Bano	Ogoja	Cross River	6.578	8.832	2	Niua-Bano|Njuabano
+Njaba	Njaba	Imo	5.706	7.008	2	Agbegbe Ijoba Ibile Njaba
+Njisuram	Guzamala	Borno	13.065	13.391	2	
+Njiyiri	Mubi North	Adamawa	10.287	13.224	2	
+Njimaya	Yala	Cross River	6.302	8.455	2	
+Njia	Gwer East	Benue	7.551	8.368	2	
+Njouma	Logo	Benue	7.805	9.085	2	
+Njave	Buruku	Benue	7.464	9.278	2	
+Nioughor	Buruku	Benue	7.193	9.071	2	Njoughor
+Njifi	Gboko	Benue	7.417	8.862	2	
+Njighe	Gboko	Benue	7.433	8.839	2	
+Nje	Gboko	Benue	7.367	8.987	2	
+Njiting	Fufore	Adamawa	9.209	12.235	2	
+Njorowe	Numan	Adamawa	9.439	11.905	2	
+Njairi	Kala-Balge	Borno	12.321	14.477	2	
+Njoboli-Nati	Fufore	Adamawa	9.039	12.527	2	Njoboli Nati
+Sabongari-Njidda	Fufore	Adamawa	9.273	12.719	2	Sabongari Njidda
+Sangere-Njidda	Girei	Adamawa	9.405	12.559	2	Sangere Njidda
+Njibnjibi	Song	Adamawa	9.983	12.497	2	
+Njarenga	Song	Adamawa	9.767	12.654	2	
+Njakako	Nasarawa Egon	Nasarawa	8.617	8.305	2	
+Njakako	Nasarawa Egon	Nasarawa	8.629	8.306	2	
+Njabha	Sardauna	Taraba	6.630	11.280	2	
+Nja	Sardauna	Taraba	6.841	11.444	2	
+Njurdi	Sardauna	Taraba	6.957	11.197	2	
+Njakwal	Sardauna	Taraba	6.892	11.312	2	
+Njuke	Sardauna	Taraba	6.825	11.454	2	
+Njana	Sardauna	Taraba	6.818	11.495	2	
+Njemanze Street	Enugu North	Enugu	6.453	7.502	1	
+Njikoka Street	Enugu East	Enugu	6.480	7.504	1	
+Njemanze Close	Enugu East	Enugu	6.469	7.594	1	
+Njemanze Avenue	Enugu North	Enugu	6.453	7.502	1	
+Buba Njobbo Street	Yola South	Adamawa	9.254	12.414	1	
+Raymond Njoku Street	Eti Osa	Lagos	6.443	3.424	1	
+Eni-Njoku Road	Lagos Mainland	Lagos	6.511	3.397	1	
+Dr. Emeka Njoku's Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.193	1	
+Njaba L.G.A Head Quarter	Njaba	Imo	5.736	7.015	0	
+Njemema Primary School	Ngala	Borno	12.378	14.205	0	
+Njanjanre Health Post	Fufore	Adamawa	9.222	12.738	0	
+Njimtilo Primary Health Clinic	Magumeri	Borno	11.849	13.018	0	

@@ -1,5 +1,7 @@
 Port Harcourt	Port-Harcourt	Rivers	4.768	7.019	3	
 Potiskum	Potiskum	Yobe	11.712	11.076	3	
+Egwema	Brass	Bayelsa	4.306	6.191	3	Egwema Pogu
+Pompomari	Biu	Borno	10.721	12.159	2	
 West Point	Bonny	Rivers	4.563	7.060	2	
 East Point	Bonny	Rivers	4.569	7.071	2	
 North Point	Bonny	Rivers	4.574	7.066	2	
@@ -15,7 +17,6 @@ Major Porter	Barkin Ladi	Plateau	9.447	8.935	2
 Pono	Bayo	Borno	10.343	11.763	2	Porno
 Pwosra	Hawul	Borno	10.418	12.193	2	Posura
 Unguwar Tsofo Pada	Maru	Zamfara	11.501	6.545	2	Ungwan Tsofo Poda
-Egwema	Brass	Bayelsa	4.306	6.191	3	Egwema Pogu
 Poros	Bayo	Borno	10.533	11.634	2	
 Pontela	Ogo Oluwa	Oyo	7.917	4.167	2	Pawntola
 Anguwar Sarkin Yaki Polchi	Tafawa-Balewa	Bauchi	10.149	9.610	2	Sarkin Yaki Polchi
@@ -26,17 +27,332 @@ Poka	Epe	Lagos	6.621	3.983	2
 Gidan Pore	Binji	Sokoto	13.290	4.891	2	
 Podo	Oluyole	Oyo	7.315	3.870	2	Ipodo
 Polaku	Yenegoa	Bayelsa	5.032	6.282	2	
-Pompomari	Biu	Borno	10.721	12.159	2	
 Potogri	Irele	Ondo	6.366	5.027	2	Egwe Inana
 Polanji	Silame	Sokoto	13.071	4.816	2	Falanje
 Manawaji Potiskum	Fika	Yobe	11.444	11.520	2	
 Pongno	Demsa	Adamawa	9.633	12.233	2	Pounou
 Polobugo	Southern Ijaw	Bayelsa	4.684	6.118	2	Polobogo
 Bula-Pogu	Askira-Uba	Borno	10.650	13.044	2	
+Polytechnic	Ibadan North	Oyo	7.439	3.880	2	
+Police Barrack	Nassarawa	Kano	12.018	8.556	2	
+Police Barrack	Fagge	Kano	12.020	8.522	2	
+Yoyo Pompoma	Monguno	Borno	12.712	13.637	2	
+Filin Jirgi	Biu	Borno	10.582	12.208	2	Pompomari
+Bulama Pole	Shani	Borno	10.265	11.808	2	
+Anguwan Police Station Sobo	Shani	Borno	10.235	12.046	2	
+Mobile Police Barack	Maiduguri	Borno	11.828	13.127	2	
+Side Poket	Jere	Borno	11.826	13.188	2	
+Billa Dawa Pogu	Chibok	Borno	10.814	12.990	2	
+Ndanga Bila Pogu	Chibok	Borno	10.819	12.867	2	
+Pono Chillawa	Bayo	Borno	10.359	11.754	2	
+Pono Kanombiri	Bayo	Borno	10.338	11.744	2	
+Pono Machido	Bayo	Borno	10.346	11.748	2	
+Pono jauro	Bayo	Borno	10.359	11.749	2	
+Police Barracks	Damboa	Borno	11.162	12.764	2	
+point five wuro yolde, Gombe Div.	Kwami	Gombe	10.338	11.185	2	
+point two Yellewangurza, Gona Div	Gombe	Gombe	10.269	11.190	2	
+point five Gidim Dona Div.	Yamaltu/Deba	Gombe	10.280	11.219	2	
+point seven Pandaya 1 Gona Div.	Yamaltu/Deba	Gombe	10.200	11.237	2	
+point eight Barunde Gona Div.	Akko	Gombe	10.258	11.185	2	
+point nine Dubai Quarters Gona Div.	Akko	Gombe	10.256	11.183	2	
+point ten Bomala Gona Div.	Gombe	Gombe	10.256	11.168	2	
+point twelve Wuro Juli, Gona Div.	Akko	Gombe	10.263	11.138	2	
+Point 3 Pantami Division	Akko	Gombe	10.275	11.124	2	
+Police Barrack	Wudil	Kano	11.793	8.845	2	
+Post Housing Army Engineer	Jos North	Plateau	9.973	8.849	2	
+Eke Poro	Warri North	Delta	5.829	5.024	2	
+Portharcourtgbene	Southern Ijaw	Bayelsa	4.458	5.949	2	
+Moore Point	Burutu	Delta	5.393	5.369	2	
+Moore Point	Calabar South	Cross River	4.787	8.362	2	
+King Point	Akpabuyo	Cross River	4.694	8.500	2	
+Potiskum	Potiskum	Yobe	11.668	11.126	2	
+Polchi	Dass	Bauchi	10.091	9.407	2	
+Port-Harcourt	Port-Harcourt	Rivers	4.769	7.037	2	
+Wuro Pokki	Jada	Adamawa	8.794	12.615	2	
+Ungwan Tsofo Poda	Maru	Zamfara	11.501	6.537	2	Tsofo Pada|Unguwar Tsofo Pada
+Tse Poor	Markurdi	Benue	7.686	8.585	2	
+Potun	Gbako	Niger	9.100	5.850	2	
+Potoro	Edu	Kwara	8.771	5.237	2	
+Potoki	Obafemi Owode	Ogun	6.917	3.533	2	
+Poto	Kogi	Kogi	7.999	6.967	2	
+Posura	Hawul	Borno	10.417	12.194	2	
+Poso	Ife North	Osun	7.290	4.491	2	
+Posi	Akinyele	Oyo	7.615	3.882	2	
+Poroto	Fufore	Adamawa	9.719	12.756	2	
+Porose	Kogi	Kogi	8.250	6.927	2	
+Poro	Surulere	Oyo	8.053	4.380	2	
+Porno	Bayo	Borno	10.349	11.746	2	
+Popor	Song	Adamawa	9.654	12.279	2	
+Popo	Moro	Kwara	8.885	4.343	2	
+Popo	Moro	Kwara	8.809	4.369	2	
+Popo	Olorunsogo	Oyo	8.631	4.026	2	
+Popo	Ori Ire	Oyo	8.580	4.199	2	
+Popo	Ori Ire	Oyo	8.553	4.031	2	
+Popandi	Shongom	Gombe	9.687	11.326	2	
+Poor	Konshisha	Benue	7.196	8.647	2	
+Poor	Konshisha	Benue	7.142	8.582	2	
+Poor	Konshisha	Benue	7.135	8.558	2	
+Ponyan	Yagba East	Kogi	7.983	5.711	2	Kpoinya
+Ponyan	Yagba East	Kogi	7.963	5.726	2	
+Ponpola	Moro	Kwara	8.818	4.215	2	
+Ponpola	Asa	Kwara	8.603	4.424	2	
+Ponkuku	Abeokuta North	Ogun	7.119	3.205	2	
+Ponku	Sumaila	Kano	11.308	8.796	2	
+Pongu	Rafi	Niger	9.975	6.311	2	
+Pondi	Gombi	Adamawa	10.049	12.308	2	
+Pompommari	Konduga	Borno	11.817	13.064	2	Pompomari
+Pompomari	Biu	Borno	10.579	12.207	2	
+Pomi	Ardo-Kola	Taraba	8.801	10.949	2	
+Polobogu	Southern Ijaw	Bayelsa	4.685	6.118	2	Polobogo|Polobugo
+Polchi	Tafawa-Balewa	Bauchi	10.128	9.602	2	
+Polchi	Toro	Bauchi	10.116	9.326	2	
+Polapindi	Billiri	Gombe	9.862	11.182	2	
+Pola Kuni	Mayo-Belwa	Adamawa	8.664	11.893	2	
+Pola Jauro Baba	Ganye	Adamawa	8.656	11.901	2	
+Pokwanli	Kaltungo	Gombe	9.931	11.268	2	
+Pokwanli	Billiri	Gombe	9.917	11.203	2	
+Pokwada	Mayo-Belwa	Adamawa	8.958	12.038	2	
+Pokokiri	Akuku Toru	Rivers	4.637	6.556	2	
+Pokitau	Fika	Yobe	11.383	11.292	2	
+Poji	Mashegu	Niger	9.738	5.036	2	
+Pogu Wondu	Askira-Uba	Borno	10.657	12.935	2	
+Podoge	Pategi	Kwara	8.700	5.653	2	
+Po	Oturkpo	Benue	7.099	8.081	2	
+Odan-Popo	Ipokia	Ogun	6.540	2.856	2	Odan Popo
+Gbokoto	Yewa South	Ogun	6.897	2.973	2	Gbokote|Pokoto
+Gang-Pokani	Ganye	Adamawa	8.319	12.121	2	Gang Pokani|GangPokani
+Colare Potiskum	Gulani	Yobe	11.094	11.532	2	
+Popo-Ola	Afijio	Oyo	7.675	3.882	2	Popo Ola|PopoOla
+Pokoto	Akinyele	Oyo	7.562	3.992	2	
+Pokuma	Abua/Odual	Rivers	4.848	6.711	2	
+Poara	Gombi	Adamawa	10.056	12.453	2	
+Polanji	Silame	Sokoto	13.070	4.814	2	
+Pomogbene	Burutu	Delta	5.346	5.806	2	
+Port Harcourtgbene	Southern Ijaw	Bayelsa	4.456	5.949	2	Portharcourtgbene
+Podigbene	Ekeremor	Bayelsa	4.801	5.613	2	
+Port-Harcourt	Port-Harcourt	Rivers	4.778	7.022	2	
+Potiskum	Potiskum	Yobe	11.711	11.157	2	Potiskum Local Government Area
+Pooh	Gwer East	Benue	7.321	8.469	2	
+Poor	Logo	Benue	7.519	9.379	2	
+Posu	Ushongo	Benue	7.164	9.036	2	
+Poov	Gboko	Benue	7.487	8.811	2	
+Pogifie	Brass	Bayelsa	4.378	6.200	2	
+Angala-Pogifie	Brass	Bayelsa	4.372	6.200	2	
+Ponjiganna	Gbako	Niger	9.199	6.102	2	
+Potun	Katcha	Niger	9.072	6.288	2	
+Bako Pompu	Bosso	Niger	9.511	6.482	2	
+Poli Fulani	Mayo-Belwa	Adamawa	8.972	12.044	2	
+Poli	Mayo-Belwa	Adamawa	8.966	12.051	2	
+Posukoh	Badagry	Lagos	6.429	2.897	2	
+Powerline Oko Oba	Agege	Lagos	6.636	3.315	2	
+Oke Ira Powerline	Ikeja	Lagos	6.651	3.347	2	
+Naforija Poka	Epe	Lagos	6.640	3.949	2	
+Poshidi	Zing	Taraba	8.832	11.698	2	
+Bazum Ponu	Jalingo	Taraba	8.970	11.277	2	
+Garin Adamu Pomi	Gassol	Taraba	8.689	10.971	2	
+Pongshom	Shendam	Plateau	8.959	9.470	2	
+Egwa Poro	Warri South-West	Delta	5.636	5.422	2	
+Pompir	Demsa	Adamawa	9.358	11.943	2	
+Popo-Ola	Ona Ara	Oyo	7.172	4.056	2	
+Popo-Odeyale	Ijebu North	Ogun	7.127	4.123	2	
+Poyika	Ife South	Osun	7.157	4.476	2	
+Aba Poju	Atakunmosa West	Osun	7.555	4.591	2	
+Popoola	Yewa North	Ogun	7.180	2.936	2	
+Povita	Badagry	Lagos	6.416	2.989	2	
+Povita	Ado Odo/Ota	Ogun	6.549	2.919	2	
+Pogbe	Ado Odo/Ota	Ogun	6.546	2.961	2	
+Idu-Poyika	Ife East	Osun	7.369	4.595	2	
+Poro	Odeda	Ogun	7.301	3.552	2	
+River Powa	Odo Otin	Osun	8.042	4.629	2	RiverPowa
+Powa	Oyun	Kwara	8.100	4.617	2	
+Ponbe	Oyo West	Oyo	7.953	3.877	2	
+Popoola	Afijio	Oyo	7.763	3.992	2	
+Poma	Song	Adamawa	9.834	12.284	2	
+Ponglatai	Song	Adamawa	9.643	12.480	2	
+Pozema	Municipal Area Council	FCT Abuja	8.927	7.459	2	
+Popo-Ona	Afijio	Oyo	7.667	4.021	2	
+Ponpola	Ede South	Osun	7.679	4.494	2	
+Pokuworu	Ede South	Osun	7.614	4.421	2	
+Ponpola	Moro	Kwara	8.755	4.262	2	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.851	7.059	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.800	7.006	1	
+Port Harcourt Road	Aba South	Abia	5.097	7.354	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.468	7.005	1	
+Polytechnic Road	Ibadan North West	Oyo	7.421	3.878	1	
+Pool Street	Ikpoba-Okha	Edo	6.354	5.691	1	
+Pola Road	Kaduna North	Kaduna	10.508	7.452	1	
+Wudil - Potiskum Federal Road	Ajingi	Kano	11.947	9.036	1	
+Wudil - Potiskum Federal Road	Zaki	Bauchi	12.307	10.277	1	
+Gombe - Potiskum Road	Fika	Yobe	11.334	11.291	1	
+Gombe - Potiskum Road	Nafada	Gombe	10.952	11.335	1	
+Wudil - Potiskum Federal Road	Potiskum	Yobe	11.710	11.085	1	
+Ojo Street By Powerline	Egor	Edo	6.371	5.588	1	
+Olafuyi Popoola Street	Oshodi/Isolo	Lagos	6.567	3.334	1	
+Powerline Road	Alimosho	Lagos	6.652	3.255	1	
+Popoola Street	Shomolu	Lagos	6.540	3.380	1	
+Popoola Street	Ibadan North	Oyo	7.432	3.931	1	
+Poly Road	Ibadan North	Oyo	7.427	3.890	1	
+Polo Road	Eti Osa	Lagos	6.447	3.419	1	
+Tincan Island Port Road	Apapa	Lagos	6.435	3.350	1	
+Tincan Island Port Road	Apapa	Lagos	6.434	3.339	1	
+Point Road	Apapa	Lagos	6.451	3.361	1	
+Ponle Street	Alimosho	Lagos	6.604	3.295	1	
+Baba Ponmile Street	Ikeja	Lagos	6.606	3.326	1	
+Adebisi Popoola Crescent	Eti Osa	Lagos	6.446	3.475	1	
+Wilmot Point Road	Eti Osa	Lagos	6.422	3.409	1	
+Post Office Road	Fagge	Kano	12.004	8.534	1	
+Post Office Road	Fagge	Kano	12.004	8.537	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.857	7.070	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.777	7.010	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.792	7.002	1	
+Porto Novo Street	Municipal Area Council	FCT Abuja	9.072	7.468	1	
+Poultry Street	Sabon Gari	Kaduna	11.124	7.699	1	
+Port Harcourt Crescent	Municipal Area Council	FCT Abuja	9.038	7.501	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.282	10.367	1	
+Pope John Paul II Street	Municipal Area Council	FCT Abuja	9.083	7.495	1	
+Pomona Street	Municipal Area Council	FCT Abuja	8.993	7.438	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.836	7.017	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.833	7.005	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.830	7.004	1	
+Pope John Paul II Crescent	Municipal Area Council	FCT Abuja	9.082	7.496	1	
+Power line	Egor	Edo	6.363	5.574	1	
+1st Power line	Egor	Edo	6.351	5.584	1	
+South Point Roya Lanel	Oredo	Edo	6.323	5.613	1	
+Olusegun Obasanjo Bypass, Port Harcourt	Port-Harcourt	Rivers	4.806	6.994	1	
+Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.335	7.352	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.721	7.386	1	
+Polo roundabout	Jos North	Plateau	9.929	8.875	1	
+Gombe - Potiskum Road	Fika	Yobe	11.094	11.370	1	
+Powerline Road	Agege	Lagos	6.634	3.309	1	
+Ijaiye Road	Ifako/Ijaye	Lagos	6.667	3.287	1	Post Office Road
+Gombe - Potiskum Road	Kwami	Gombe	10.499	11.320	1	
+Gombe - Potiskum Road	Kwami	Gombe	10.595	11.378	1	
+Gombe - Potiskum Road	Kwami	Gombe	10.505	11.331	1	
+Gombe - Potiskum Road	Kwami	Gombe	10.528	11.350	1	
+Wudil - Potiskum Federal Road	Nangere	Yobe	11.831	10.965	1	
+Wudil - Potiskum Federal Road	Potiskum	Yobe	11.715	11.055	1	
+Pont de l'Elbeid	Ngala	Borno	12.374	14.222	1	
+Gombe - Potiskum Road	Potiskum	Yobe	11.700	11.073	1	
+Enugu - Port Harcourt Expressway	Awgu	Enugu	6.050	7.492	1	
+Enugu - Port Harcourt Expressway	Isuikwuato	Abia	5.915	7.408	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.874	7.115	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.489	7.020	1	
+Akwuke Police Barracks Road	Enugu South	Enugu	6.382	7.492	1	
+Police Detective College Road	Enugu South	Enugu	6.422	7.485	1	
+Power Line Street	Enugu East	Enugu	6.472	7.578	1	
+Polly Jaja Drive	Enugu North	Enugu	6.439	7.532	1	
+Police Detective College Road	Enugu South	Enugu	6.420	7.484	1	
+Police Squadron Barracks Road	Enugu South	Enugu	6.411	7.494	1	
+Police Children School Entrance Road	Enugu North	Enugu	6.464	7.524	1	
+Port Harcourt Street	Enugu North	Enugu	6.431	7.498	1	
+Port 2 Street	Enugu North	Enugu	6.429	7.497	1	
+Pond Street	Enugu East	Enugu	6.478	7.522	1	
+Pond Close	Enugu East	Enugu	6.478	7.522	1	
+Police Childeren School Entrance Road	Enugu North	Enugu	6.464	7.523	1	
+Enugu Portharcourt Link	Enugu North	Enugu	6.427	7.538	1	
+Enugu Portharcourt Expressway Link	Enugu North	Enugu	6.427	7.538	1	
+Enugu Porthacourt Link Road	Enugu North	Enugu	6.453	7.540	1	
+Enugu Porthacourt Road	Enugu North	Enugu	6.427	7.538	1	
+Enugu Porthacourt Link Road	Enugu South	Enugu	6.377	7.497	1	
+Enugu Porthacourt Link Road	Enugu South	Enugu	6.416	7.531	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.372	7.495	1	
+Police Barracks Lane	Enugu North	Enugu	6.440	7.494	1	
+Powerline Road	Ifako/Ijaye	Lagos	6.661	3.331	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.673	11.360	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.750	11.368	1	
+Enugu - Port Harcourt Expressway	Aba South	Abia	5.070	7.328	1	
+Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.305	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.841	11.432	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.867	11.431	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.898	11.394	1	
+Chief Popoola Straat	Ìkòròdú	Lagos	6.635	3.507	1	
+Wudil - Potiskum Federal Road	Miga	Jigawa	12.175	9.737	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.084	10.544	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.362	11.153	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.448	11.229	1	
+point one kwanan Alheri, Gona Div	Gombe	Gombe	10.278	11.189	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.938	10.736	1	
+Wudil - Potiskum Federal Road	Potiskum	Yobe	11.701	11.102	1	
+Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.306	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.924	7.236	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.875	7.117	1	
+Pont Kogui	Diffa	Borno	13.278	12.621	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.889	7.146	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.896	7.165	1	
+Chief Aleru Street, Omuoko, Aluu, Port Harcourt	Ikwerre	Rivers	4.922	6.916	1	
+Police Post	Obio/Akpor	Rivers	4.881	7.008	1	
+Popo Road	Oyun	Kwara	8.197	4.601	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.376	11.166	1	
+Poultry Road	Esan West	Edo	6.748	6.087	1	
+Powerline Road	Ifako/Ijaye	Lagos	6.674	3.275	1	
+Straight point	Numan	Adamawa	9.463	11.736	1	
+Wudil - Potiskum Federal Road	Wudil	Kano	11.810	8.881	1	
+Wudil - Potiskum Federal Road	Wudil	Kano	11.803	8.855	1	
+Port Harcourt - Owerri Road	Owerri West	Imo	5.393	6.963	1	
+Popoola Street	Alimosho	Lagos	6.651	3.289	1	
+Powerline Road	Eti Osa	Lagos	6.486	3.580	1	
+Poluyi Crescent	Alimosho	Lagos	6.665	3.254	1	
+Powerline Street	Alimosho	Lagos	6.661	3.256	1	
+Powerline Road	Ikpoba-Okha	Edo	6.312	5.636	1	
+Ojo Street By Powerline	Egor	Edo	6.377	5.587	1	
+Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.428	7.538	1	
+Port Harcourt - Owerri Road	Ikwerre	Rivers	5.152	6.846	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.255	6.882	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.297	6.931	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.286	6.923	1	
+Popo Street	Surulere	Lagos	6.509	3.370	1	
+Popoola Are Street	Oshodi/Isolo	Lagos	6.509	3.312	1	
+Powell Street	Uvwie	Delta	5.566	5.782	1	
+Poly Road	Oye	Ekiti	7.921	5.315	1	
+Powerline Road	Akure South	Ondo	7.224	5.195	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.870	7.368	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.382	7.498	1	
+Enugu - Port Hacourt Road	Enugu South	Enugu	6.396	7.518	1	
+Old Port Harcourt-Aba Road	Awgu	Enugu	6.114	7.518	1	
+Powel Street	Uvwie	Delta	5.539	5.767	1	
+poppy road	Numan	Adamawa	9.461	12.029	1	
+Wudil - Potiskum Federal Road	Jahun	Jigawa	12.077	9.620	1	
+wudil potiskum Federal Road	Jahun	Jigawa	12.077	9.620	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.878	11.424	1	
+Utagban Powerline Road	Oredo	Edo	6.291	5.573	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.390	11.175	1	
+Poly Road	Khana	Rivers	4.659	7.378	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.921	10.763	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.895	10.795	1	
+Port Harcourt street	Uyo	Akwa Ibom	5.027	7.917	1	
+Wudil - Potiskum Federal Road	Ringim	Jigawa	12.015	9.268	1	
+Wudil - Potiskum Federal Road	Jahun	Jigawa	12.050	9.434	1	
+Popoola Street	Ado Odo/Ota	Ogun	6.674	3.219	1	
+Popo Igbonna Street	Ilorin East	Kwara	8.484	4.540	1	
+Popoola Close	Ifako/Ijaye	Lagos	6.659	3.306	1	
+Gombe - Potiskum Road	Potiskum	Yobe	11.669	11.094	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.475	11.294	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.488	11.310	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.650	11.370	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.623	11.372	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.779	11.406	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.762	11.380	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.926	10.758	1	
+Post Office Road	Akure South	Ondo	7.253	5.194	1	
+Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.455	7.540	1	
+Enugu Porthacourt Road	Enugu North	Enugu	6.455	7.540	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.622	7.436	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.587	7.447	1	
+Poly Road	Etsako West	Edo	7.015	6.285	1	
+Postoffice road	Chikun	Kaduna	10.455	7.454	1	
+Powerline Street	Alimosho	Lagos	6.654	3.255	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.843	7.038	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.269	6.905	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.396	7.517	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.344	7.488	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.822	7.336	1	
+Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.125	7.330	1	
+Enugu - Port Harcourt Expressway	Umuahia South	Abia	5.504	7.446	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.537	7.461	1	
+Port Harcourt Road	Aba South	Abia	5.104	7.365	1	
 Port Harcourt Station	Port-Harcourt	Rivers	4.765	7.016	0	
 Forum of Nigerian Women in Politice	Oredo	Edo	6.334	5.628	0	
 South Point Royal School	Oredo	Edo	6.323	5.613	0	
-Polytechnic	Ibadan North	Oyo	7.439	3.880	2	
 Dayaso Health Post	Rogo	Kano	11.516	7.736	0	
 Ruwan Bago Health Post	Rogo	Kano	11.407	7.758	0	
 Sundu Health Post	Rogo	Kano	11.381	7.761	0	
@@ -131,41 +447,17 @@ Kokai Health Post	Tsanyawa	Kano	12.219	8.022	0
 Yanmamman Health Post	Tsanyawa	Kano	12.262	8.041	0	
 Gwarabjawa Health Post	Dambatta	Kano	12.448	8.542	0	
 Mazan Gudu Health Post	Gabasawa	Kano	12.195	8.907	0	
-Police Barrack	Nassarawa	Kano	12.018	8.556	2	
-Police Barrack	Fagge	Kano	12.020	8.522	2	
 Bojos Dispensary	Alkaleri	Bauchi	10.271	10.333	0	Kunzun Health Post
-Yoyo Pompoma	Monguno	Borno	12.712	13.637	2	
-Filin Jirgi	Biu	Borno	10.582	12.208	2	Pompomari
-Bulama Pole	Shani	Borno	10.265	11.808	2	
-Anguwan Police Station Sobo	Shani	Borno	10.235	12.046	2	
-Mobile Police Barack	Maiduguri	Borno	11.828	13.127	2	
-Side Poket	Jere	Borno	11.826	13.188	2	
-Billa Dawa Pogu	Chibok	Borno	10.814	12.990	2	
-Ndanga Bila Pogu	Chibok	Borno	10.819	12.867	2	
 Kareji Health Post	Shani	Borno	10.036	11.860	0	
 Pilak Health Post Kombo Shani	Shani	Borno	10.064	11.832	0	
-Pono Chillawa	Bayo	Borno	10.359	11.754	2	
-Pono Kanombiri	Bayo	Borno	10.338	11.744	2	
-Pono Machido	Bayo	Borno	10.346	11.748	2	
-Pono jauro	Bayo	Borno	10.359	11.749	2	
 Pompomari Primary Health Centre	Konduga	Borno	11.837	13.066	0	
-Police Barracks	Damboa	Borno	11.162	12.764	2	
 Darajamal Health Post Clinic	Bama	Borno	11.324	13.971	0	
 Nuhu Bamalli Polytechnic Zaria	Zaria	Kaduna	11.037	7.674	0	
 Poplat filling station	Ile Oluji/Okeigbo	Ondo	7.166	4.728	0	
 The Federal Polytechnic	Yewa South	Ogun	6.892	2.983	0	
 Anikantamo Health Post	Lagos Island	Lagos	6.458	3.394	0	
 Oke Ari Health Post	Lagos Island	Lagos	6.460	3.385	0	
-point five wuro yolde, Gombe Div.	Kwami	Gombe	10.338	11.185	2	
-point two Yellewangurza, Gona Div	Gombe	Gombe	10.269	11.190	2	
-point five Gidim Dona Div.	Yamaltu/Deba	Gombe	10.280	11.219	2	
-point seven Pandaya 1 Gona Div.	Yamaltu/Deba	Gombe	10.200	11.237	2	
-point eight Barunde Gona Div.	Akko	Gombe	10.258	11.185	2	
-point nine Dubai Quarters Gona Div.	Akko	Gombe	10.256	11.183	2	
-point ten Bomala Gona Div.	Gombe	Gombe	10.256	11.168	2	
-point twelve Wuro Juli, Gona Div.	Akko	Gombe	10.263	11.138	2	
 crown polytechnic	Adó-Èkìtì	Ekiti	7.613	5.130	0	
-Point 3 Pantami Division	Akko	Gombe	10.275	11.124	2	
 Powell School	Uvwie	Delta	5.566	5.781	0	
 POHP Physiotherapy Clinic	Uvwie	Delta	5.536	5.760	0	
 Captain Amadi Polytecnic	Obio/Akpor	Rivers	4.835	6.995	0	
@@ -174,7 +466,6 @@ School of Postgraduate Studies FUD	Dutse	Jigawa	11.727	9.363	0
 School of Post graduate studies	Gombe	Gombe	10.306	11.172	0	
 Politcal Science Department	Gombe	Gombe	10.306	11.175	0	
 Liquid power filling station BCJ	Gombe	Gombe	10.278	11.199	0	
-Police Barrack	Wudil	Kano	11.793	8.845	2	
 Lugge Health Post	Darazo	Bauchi	10.962	10.348	0	
 Wushi H Post	Ganjuwa	Bauchi	10.730	9.607	0	
 Police Clinic	Sokoto South	Sokoto	13.033	5.247	0	
@@ -234,11 +525,9 @@ Christ Church Primary School I, Porogun	Shagamu	Ogun	6.842	3.647	0
 Christ Church Primary School Iii, Porogun	Ìjẹ̀bú Òde	Ogun	6.822	3.913	0	
 Christ Church Primary School I, Porogun	Ìjẹ̀bú Òde	Ogun	6.821	3.915	0	
 POSH specialist Hospital	Enugu North	Enugu	6.458	7.518	0	
-Post Housing Army Engineer	Jos North	Plateau	9.973	8.849	2	
 Nigerian police clinic	Jos North	Plateau	9.918	8.881	0	
 Divine Turning Point International School	Obio/Akpor	Rivers	4.884	6.954	0	
 Jesuit Memorial College Port Harcourt	Ikwerre	Rivers	4.926	6.967	0	
-Eke Poro	Warri North	Delta	5.829	5.024	2	
 School of Postgraduate	Jos North	Plateau	9.968	8.880	0	
 Federal Polythecnic	Bauchi	Bauchi	10.259	9.774	0	
 federal polytechnic, permanent side	Kaltungo	Gombe	9.822	11.342	0	
@@ -259,10 +548,8 @@ Prof. Adebisi Balogun Postgraduates Hall	Akure South	Ondo	7.298	5.146	0
 The Point Clinic	Amuwo Odofin	Lagos	6.443	3.312	0	
 Federal Polytechnic Oko	Aguata	Anambra	6.051	7.107	0	
 John Pofi Foundation Medical Center Fudawa	Jos North	Plateau	9.929	8.918	0	
-Portharcourtgbene	Southern Ijaw	Bayelsa	4.458	5.949	2	
 Police	Amuwo Odofin	Lagos	6.412	3.252	0	
 Port/Checkpoint	Eti Osa	Lagos	6.441	3.404	0	
-Moore Point	Burutu	Delta	5.393	5.369	2	
 Obbo fish and pork, Obo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.561	0	
 Kwara State Polytechnic, Share-Oja Oba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.543	4.634	0	
 Kwara polytechnics, Ilorin, Nigeria	Ilorin East	Kwara	8.537	4.544	0	
@@ -276,117 +563,9 @@ Ojuelegba Amala Point Idu Junction	Municipal Area Council	FCT Abuja	9.037	7.413	
 New Police Station Road Mpape	Municipal Area Council	FCT Abuja	8.957	7.367	0	
 Powerhouse Junction Bus Stop	Municipal Area Council	FCT Abuja	9.048	7.516	0	
 Postgraduate building	Ede South	Osun	7.682	4.459	0	
-Moore Point	Calabar South	Cross River	4.787	8.362	2	
-King Point	Akpabuyo	Cross River	4.694	8.500	2	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.851	7.059	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.800	7.006	1	
-Port Harcourt Road	Aba South	Abia	5.097	7.354	1	
-Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.468	7.005	1	
-Polytechnic Road	Ibadan North West	Oyo	7.421	3.878	1	
-Pool Street	Ikpoba-Okha	Edo	6.354	5.691	1	
 Nigeria Police Training School	Kaduna North	Kaduna	10.507	7.450	0	
-Pola Road	Kaduna North	Kaduna	10.508	7.452	1	
-Wudil - Potiskum Federal Road	Ajingi	Kano	11.947	9.036	1	
-Wudil - Potiskum Federal Road	Zaki	Bauchi	12.307	10.277	1	
-Gombe - Potiskum Road	Fika	Yobe	11.334	11.291	1	
-Gombe - Potiskum Road	Nafada	Gombe	10.952	11.335	1	
-Wudil - Potiskum Federal Road	Potiskum	Yobe	11.710	11.085	1	
-OJO STREET BY POWERLINE	Egor	Edo	6.371	5.588	1	
-Olafuyi Popoola Street	Oshodi/Isolo	Lagos	6.567	3.334	1	
-Powerline Road	Alimosho	Lagos	6.652	3.255	1	
-Popoola Street	Shomolu	Lagos	6.540	3.380	1	
-Popoola Street	Ibadan North	Oyo	7.432	3.931	1	
-Poly Road	Ibadan North	Oyo	7.427	3.890	1	
 Swimming Pool's Pavillion	Ibadan North	Oyo	7.444	3.898	0	
-Polo Road	Eti Osa	Lagos	6.447	3.419	1	
-Tincan Island Port Road	Apapa	Lagos	6.435	3.350	1	
-Tincan Island Port Road	Apapa	Lagos	6.434	3.339	1	
-Tincan Island Port Road	Apapa	Lagos	6.435	3.360	1	
-Point Road	Apapa	Lagos	6.451	3.361	1	
-Ponle Street	Alimosho	Lagos	6.604	3.295	1	
-Baba Ponmile Street	Ikeja	Lagos	6.606	3.326	1	
-Adebisi Popoola Crescent	Eti Osa	Lagos	6.446	3.475	1	
-Wilmot Point Road	Eti Osa	Lagos	6.422	3.409	1	
-Post Office Road	Fagge	Kano	12.004	8.534	1	
-Post Office Road	Fagge	Kano	12.004	8.537	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.857	7.070	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.777	7.010	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.792	7.002	1	
-Porto Novo Street	Municipal Area Council	FCT Abuja	9.072	7.468	1	
-Poultry Street	Sabon Gari	Kaduna	11.124	7.699	1	
-Port Harcourt Crescent	Municipal Area Council	FCT Abuja	9.038	7.501	1	
-Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.282	10.367	1	
-Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.274	10.370	1	
-Pope John Paul II Street	Municipal Area Council	FCT Abuja	9.083	7.495	1	
-Pomona Street	Municipal Area Council	FCT Abuja	8.993	7.438	1	
-Pomona Street	Municipal Area Council	FCT Abuja	8.996	7.432	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.785	7.005	1	
-Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.836	7.017	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.833	7.005	1	
-Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.830	7.004	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.808	7.010	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.848	7.048	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.841	7.032	1	
-Pope John Paul II Crescent	Municipal Area Council	FCT Abuja	9.082	7.496	1	
-Power line	Egor	Edo	6.363	5.574	1	
 Powerline Academy School	Egor	Edo	6.355	5.573	0	
-1st Power line	Egor	Edo	6.351	5.584	1	
-South Point Roya Lanel	Oredo	Edo	6.323	5.613	1	
-Olusegun Obasanjo Bypass, Port Harcourt	Port-Harcourt	Rivers	4.806	6.994	1	
-Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.335	7.352	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.862	7.090	1	
-Enugu - Port Harcourt Expressway	Okigwe	Imo	5.721	7.386	1	
-Polo roundabout	Jos North	Plateau	9.929	8.875	1	
-Gombe - Potiskum Road	Fika	Yobe	11.094	11.370	1	
-Powerline Road	Agege	Lagos	6.634	3.309	1	
-Ijaiye Road	Ifako/Ijaye	Lagos	6.667	3.287	1	Post Office Road
-Gombe - Potiskum Road	Kwami	Gombe	10.499	11.320	1	
-Gombe - Potiskum Road	Kwami	Gombe	10.595	11.378	1	
-Gombe - Potiskum Road	Kwami	Gombe	10.505	11.331	1	
-Gombe - Potiskum Road	Kwami	Gombe	10.528	11.350	1	
-Wudil - Potiskum Federal Road	Nangere	Yobe	11.831	10.965	1	
-Wudil - Potiskum Federal Road	Potiskum	Yobe	11.715	11.061	1	
-Wudil - Potiskum Federal Road	Potiskum	Yobe	11.715	11.055	1	
-Pont de l'Elbeid	Ngala	Borno	12.374	14.222	1	
-Gombe - Potiskum Road	Potiskum	Yobe	11.700	11.073	1	
-Enugu - Port Harcourt Expressway	Awgu	Enugu	6.050	7.492	1	
-Enugu - Port Harcourt Expressway	Isuikwuato	Abia	5.915	7.408	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.874	7.115	1	
-Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.489	7.020	1	
-Akwuke Police Barracks Road	Enugu South	Enugu	6.382	7.492	1	
-Police Detective College Road	Enugu South	Enugu	6.422	7.485	1	
-Power Line Street	Enugu East	Enugu	6.472	7.578	1	
-Polly Jaja Drive	Enugu North	Enugu	6.439	7.532	1	
-Police Detective College Road	Enugu South	Enugu	6.420	7.484	1	
-Police Squadron Barracks Road	Enugu South	Enugu	6.411	7.494	1	
-Police Children School Entrance Road	Enugu North	Enugu	6.464	7.524	1	
-Port Harcourt Street	Enugu North	Enugu	6.431	7.498	1	
-Port 2 Street	Enugu North	Enugu	6.429	7.497	1	
-Pond Street	Enugu East	Enugu	6.478	7.522	1	
-Pond Close	Enugu East	Enugu	6.478	7.522	1	
-Police Childeren School Entrance Road	Enugu North	Enugu	6.464	7.523	1	
-Enugu Portharcourt Link	Enugu North	Enugu	6.427	7.538	1	
-Enugu Portharcourt Expressway Link	Enugu North	Enugu	6.427	7.538	1	
-Enugu Porthacourt Link Road	Enugu North	Enugu	6.453	7.540	1	
-Enugu Porthacourt Road	Enugu North	Enugu	6.427	7.538	1	
-Enugu Porthacourt Link Road	Enugu North	Enugu	6.461	7.539	1	
-Enugu Porthacourt Link Road	Enugu South	Enugu	6.377	7.497	1	
-Enugu Porthacourt Link Road	Enugu South	Enugu	6.392	7.511	1	
-Enugu Porthacourt Link Road	Enugu South	Enugu	6.416	7.531	1	
-Enugu Porthacourt Link Road	Enugu South	Enugu	6.414	7.529	1	
-Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.372	7.495	1	
-Police Barracks Lane	Enugu North	Enugu	6.440	7.494	1	
-Powerline Road	Ifako/Ijaye	Lagos	6.661	3.331	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.673	11.360	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.750	11.368	1	
-Enugu - Port Harcourt Expressway	Aba South	Abia	5.070	7.328	1	
-Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.336	7.353	1	
-Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.305	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.841	11.432	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.867	11.431	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.898	11.394	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.898	11.407	1	
-Chief Popoola Straat	Ìkòròdú	Lagos	6.635	3.507	1	
 Geza Health Post	Minjibir	Kano	12.188	8.508	0	
 Rafin Tsamiya Health Post	Tsanyawa	Kano	12.195	8.041	0	
 Kwarkiya Health Post	Minjibir	Kano	12.247	8.596	0	
@@ -692,13 +871,6 @@ Gargari Health Post	Dawakin Tofa	Kano	12.178	8.302	0
 Kadawa Health Post	Dawakin Tofa	Kano	12.072	8.373	0	
 Buruntumau Health Post	Dawakin Tofa	Kano	12.184	8.421	0	
 Tudun Wada Health Post	Nassarawa	Kano	12.023	8.554	0	
-Wudil - Potiskum Federal Road	Miga	Jigawa	12.175	9.737	1	
-Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.084	10.544	1	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.362	11.153	1	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.448	11.229	1	
-point one kwanan Alheri, Gona Div	Gombe	Gombe	10.278	11.189	1	
-Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.938	10.736	1	
-Wudil - Potiskum Federal Road	Potiskum	Yobe	11.701	11.102	1	
 Hotoro Danmarke Health Post	Tarauni	Kano	11.962	8.581	0	
 National Polio Immunization Office	Zaki	Bauchi	12.284	10.345	0	Town Maternity
 Zubuki Health Post	Itas/Gadau	Bauchi	11.835	10.047	0	
@@ -713,116 +885,27 @@ Polchi Maternity	Toro	Bauchi	10.123	9.301	0
 Bazali Primary Health Center	Dass	Bauchi	10.094	9.394	0	Primary Health Center Polchi
 Dan Health Post	Alkaleri	Bauchi	9.875	10.175	0	
 Murno Health Post	Tafawa-Balewa	Bauchi	9.725	9.277	0	
-Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.306	1	
-Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.924	7.236	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.875	7.117	1	
-Pont Kogui	Diffa	Borno	13.278	12.621	1	
-Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.889	7.146	1	
-Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.888	7.144	1	
-Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.896	7.165	1	
-Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.898	7.179	1	
-Chief Aleru Street, Omuoko, Aluu, Port Harcourt	Ikwerre	Rivers	4.922	6.916	1	
-Police Post	Obio/Akpor	Rivers	4.881	7.008	1	
-Popo Road	Oyun	Kwara	8.197	4.601	1	
 Port Harcourt International Airport	Ikwerre	Rivers	5.006	6.949	0	
 Gamboru A Health Post	Ngala	Borno	12.362	14.208	0	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.376	11.166	1	
-Poultry Road	Esan West	Edo	6.748	6.087	1	
-Powerline Road	Ifako/Ijaye	Lagos	6.674	3.275	1	
-Straight point	Numan	Adamawa	9.463	11.736	1	
-Wudil - Potiskum Federal Road	Wudil	Kano	11.810	8.881	1	
-Wudil - Potiskum Federal Road	Wudil	Kano	11.803	8.855	1	
-Port Harcourt - Owerri Road	Owerri West	Imo	5.393	6.963	1	
-Port Harcourt - Owerri Road	Owerri West	Imo	5.388	6.968	1	
-Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.926	7.239	1	
 Sokoto State Polytechnic	Wamako	Sokoto	13.008	5.194	0	
 Kessangarola Health Post	Nganzai	Borno	12.136	13.268	0	
 Hassan Usman Katsina Polytechnic	Batagarawa	Katsina	12.920	7.589	0	
-Popoola Street	Alimosho	Lagos	6.651	3.289	1	
-Powerline Road	Eti Osa	Lagos	6.486	3.580	1	
-Poluyi Crescent	Alimosho	Lagos	6.665	3.254	1	
-Powerline Street	Alimosho	Lagos	6.661	3.256	1	
-CHIBRA HEALTH POST	Bayo	Borno	10.375	11.810	0	
+Chibra Health Post	Bayo	Borno	10.375	11.810	0	
 Dambitam dispensary health post	Bayo	Borno	10.447	11.746	0	
-Powerline Road	Ikpoba-Okha	Edo	6.312	5.636	1	
-OJO STREET BY POWERLINE	Egor	Edo	6.377	5.587	1	
 Lagos State Polytechnic	Oshodi/Isolo	Lagos	6.528	3.334	0	LASPOTECH
 Bosso health post	Demsa	Adamawa	9.559	12.147	0	
 Polo Park Mall	Enugu North	Enugu	6.460	7.496	0	
-Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.428	7.538	1	
-Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.367	7.494	1	
-Port Harcourt - Owerri Road	Ikwerre	Rivers	5.152	6.846	1	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.255	6.882	1	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.340	11.146	1	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.297	6.931	1	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.286	6.923	1	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.277	6.917	1	
 University of Port Harcourt Demostration Secondary School	Ikwerre	Rivers	4.911	6.910	0	
-Popo Street	Surulere	Lagos	6.509	3.370	1	
-Popoola Are Street	Oshodi/Isolo	Lagos	6.509	3.312	1	
-Powell Street	Uvwie	Delta	5.566	5.782	1	
 Police College Ikeja	Ikeja	Lagos	6.590	3.355	0	
-Poly Road	Oye	Ekiti	7.921	5.315	1	
-Powerline Road	Akure South	Ondo	7.224	5.195	1	
-Enugu - Port Harcourt Expressway	Okigwe	Imo	5.870	7.368	1	
-Enugu - Port Harcourt Expressway	Okigwe	Imo	5.876	7.372	1	
-Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.408	7.526	1	
-Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.382	7.498	1	
-Enugu Porthacourt Road	Enugu South	Enugu	6.408	7.526	1	
-Enugu - Port Hacourt Road	Enugu South	Enugu	6.396	7.518	1	
 Federal Polytechnic Ilaro	Yewa South	Ogun	6.897	2.984	0	FPI
-Old Port Harcourt-Aba Road	Awgu	Enugu	6.114	7.518	1	
-Powel Street	Uvwie	Delta	5.539	5.767	1	
-poppy road	Numan	Adamawa	9.461	12.029	1	
-Wudil - Potiskum Federal Road	Jahun	Jigawa	12.077	9.620	1	
-wudil potiskum Federal Road	Jahun	Jigawa	12.077	9.620	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.878	11.424	1	
-UTAGBAN POWERLINE ROAD	Oredo	Edo	6.291	5.573	1	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.390	11.175	1	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.388	11.174	1	
 Bannalewa Health Post	Fune	Yobe	12.051	11.513	0	
-Poly Road	Khana	Rivers	4.659	7.378	1	
-Wudil - Potiskum Federal Road	Potiskum	Yobe	11.710	11.085	1	
-Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.921	10.763	1	
-Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.895	10.795	1	
-Port Harcourt street	Uyo	Akwa Ibom	5.027	7.917	1	
-Powerline Road	Eti Osa	Lagos	6.484	3.579	1	
-Baba Ponmile Street	Ikeja	Lagos	6.603	3.325	1	
-Wudil - Potiskum Federal Road	Ringim	Jigawa	12.015	9.268	1	
-Wudil - Potiskum Federal Road	Jahun	Jigawa	12.050	9.434	1	
-Popoola Street	Ado Odo/Ota	Ogun	6.674	3.219	1	
-Popo Igbonna Street	Ilorin East	Kwara	8.484	4.540	1	
-Popoola Close	Ifako/Ijaye	Lagos	6.659	3.306	1	
 Ramat College Polytechnic Maiduguri	Maiduguri	Borno	11.843	13.131	0	
-Gombe - Potiskum Road	Potiskum	Yobe	11.669	11.094	1	
-Gombe - Potiskum Road	Potiskum	Yobe	11.688	11.080	1	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.475	11.294	1	
-Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.488	11.310	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.650	11.370	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.623	11.372	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.695	11.363	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.729	11.365	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.779	11.406	1	
-Gombe - Potiskum Road	Funakaye	Gombe	10.762	11.380	1	
-Wudil - Potiskum Federal Road	Wudil	Kano	11.800	8.847	1	
-Wudil - Potiskum Federal Road	Wudil	Kano	11.796	8.840	1	
-Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.926	10.758	1	
-Post Office Road	Akure South	Ondo	7.253	5.194	1	
-Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.455	7.540	1	
-Enugu Porthacourt Road	Enugu North	Enugu	6.455	7.540	1	
-Enugu Porthacourt Road	Enugu North	Enugu	6.458	7.540	1	
-Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.884	7.139	1	
 Postgraduate College	Ife Central	Osun	7.516	4.530	0	
 Maternity Health Post	Yunusari	Yobe	13.158	11.672	0	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.310	6.942	1	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.302	6.937	1	
 Nigerian Police Hospital - Falomo	Eti Osa	Lagos	6.442	3.429	0	
 Bauwa Health Post	Fune	Yobe	11.464	11.419	0	
 Nigerian Air Force Port Harcourt	Obio/Akpor	Rivers	4.856	7.026	0	
-Gombe - Potiskum Road	Potiskum	Yobe	11.666	11.096	1	
 Police Training School Ikeja	Ikeja	Lagos	6.592	3.346	0	
-Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.622	7.436	1	
-Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.587	7.447	1	
 Lagos State Polytechnic	Ìkòròdú	Lagos	6.638	3.532	0	LASPOTECH|LASPOTECH
 Port Harcourt Mall	Port-Harcourt	Rivers	4.775	7.014	0	
 Kudurun Health Post	Madobi	Kano	11.789	8.378	0	
@@ -1065,43 +1148,12 @@ Health Post	Gulani	Yobe	11.022	11.789	0
 Health Post	Gulani	Yobe	11.096	11.865	0	
 Health Post	Gulani	Yobe	11.070	11.806	0	
 Auchi Polytechnic	Etsako West	Edo	7.063	6.278	0	
-Poly Road	Etsako West	Edo	7.015	6.285	1	
 POSH, Specialist Hospital	Enugu North	Enugu	6.457	7.524	0	
-Powerline Street	Alimosho	Lagos	6.665	3.261	1	
-Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.484	7.016	1	
-Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.478	7.012	1	
-Wudil - Potiskum Federal Road	Potiskum	Yobe	11.714	11.067	1	
-Postoffice road	Chikun	Kaduna	10.455	7.454	1	
-Powerline Road	Ifo	Ogun	6.669	3.328	1	
 Kayle Bagah Post	Akko	Gombe	9.996	11.157	0	
 The Potters Specialist Hospital	Jos North	Plateau	9.864	8.860	0	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.816	7.010	1	
-Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.825	7.005	1	
 federal polytechnic kaltungo,	Shongom	Gombe	9.827	11.288	0	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.775	7.013	1	
-Powerline Street	Alimosho	Lagos	6.654	3.255	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.843	7.038	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.846	7.043	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.864	7.098	1	
-Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.880	7.128	1	
 Oil and Gas Polytechnic,	Bonny	Rivers	4.431	7.194	0	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.269	6.905	1	
-Enugu Porthacourt Road	Enugu South	Enugu	6.405	7.525	1	
-Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.396	7.517	1	
-Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.388	7.502	1	
-Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.344	7.488	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.866	7.102	1	
-Enugu - Port Harcourt Expressway	Okigwe	Imo	5.822	7.336	1	
-Enugu - Port Harcourt Expressway	Aba South	Abia	5.058	7.327	1	
-Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.125	7.330	1	
-Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.126	7.330	1	
-Enugu - Port Harcourt Expressway	Umuahia South	Abia	5.504	7.446	1	
-Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.537	7.461	1	
-Port Harcourt Road	Aba South	Abia	5.104	7.365	1	
 Jigawa Health Post	Mashi	Katsina	13.004	7.950	0	
 Kwanjamawa Health Post	Jahun	Jigawa	12.108	9.592	0	
 Safa Health Post	Auyo	Jigawa	12.239	9.861	0	
 Mu’Azu Health Post	Sule Tankakar	Jigawa	12.756	9.301	0	
-Potiskum	Potiskum	Yobe	11.668	11.126	2	
-Polchi	Dass	Bauchi	10.091	9.407	2	
-Port-Harcourt	Port-Harcourt	Rivers	4.769	7.037	2	

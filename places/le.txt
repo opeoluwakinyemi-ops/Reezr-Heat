@@ -1,12 +1,20 @@
+Surulere	Surulere	Lagos	6.501	3.357	3	Suru-Lere
+Lekki Phase I	Eti Osa	Lagos	6.441	3.470	3	
+Ibeju-Lekki	Ibeju Lekki	Lagos	6.471	3.808	3	
+Lekki Peninsula II	Eti Osa	Lagos	6.440	3.520	3	
+Lere	Lere	Kaduna	10.386	8.573	3	Lera|Leri
+Lemu	Gbako	Niger	9.396	6.028	3	
+Lekki	Eti Osa	Lagos	6.446	3.477	3	Lekki Peninsula
+Lessel	Ushongo	Benue	7.127	9.020	3	Lesel
 Lelekiri	Akuku Toru	Rivers	4.663	6.777	2	
 Lengikiri	Nembe	Bayelsa	4.574	6.289	2	
 Leke-Onueme	Isi-Uzo	Enugu	6.719	7.642	2	Leke-Awnueme
 Tunga Lele	Bunza	Kebbi	12.160	4.114	2	
+Lekitaba	Sardauna	Taraba	6.817	11.233	2	Banda
 Lewa	Mubi North	Adamawa	10.332	13.323	2	
 Laje	Mafa	Borno	12.199	13.428	2	Leje
 Lefu	Gurara	Niger	9.300	6.783	2	Lehu
 Leni	Silame	Sokoto	13.038	4.950	2	
-Lere	Lere	Kaduna	10.387	8.573	2	Leri
 Lame	Toro	Bauchi	10.441	9.239	2	Lemmi;Lemme
 Sofon Legbozukun	Gbako	Niger	9.483	6.050	2	Legbozukun
 Lamfa	Edati	Niger	8.983	5.750	2	Lemfa
@@ -28,6 +36,7 @@ Leprosy Village	Michika	Adamawa	10.668	13.371	2
 Leaba	Mashegu	Niger	9.667	4.600	2	Sabon Leaba
 Lere	Tafawa-Balewa	Bauchi	9.710	9.340	2	
 Leguwa	Gwadabawa	Sokoto	13.462	5.394	2	
+Leme	Sardauna	Taraba	6.755	11.207	2	
 Lema	Hawul	Borno	10.432	12.154	2	
 Wauro Leggal	Yola South	Adamawa	9.267	12.367	2	Wuro Leggal
 Lehida	Gada	Sokoto	13.661	5.841	2	
@@ -58,15 +67,7 @@ Leni	Argungu	Kebbi	12.807	4.508	2
 Lerinrin	Ilaje	Ondo	6.356	4.774	2	Lerinin
 Legha	Ilaje	Ondo	6.220	4.841	2	
 Ungwan Lele	Bunza	Kebbi	12.358	3.944	2	
-Surulere	Surulere	Lagos	6.501	3.357	3	Suru-Lere
 Gidan Leo	Sabon Birni	Sokoto	13.617	5.989	2	
-Learn Well International Group of Schools	Egor	Edo	6.364	5.582	0	
-Legacy Nursery & Primary School	Oredo	Edo	6.324	5.601	0	
-Legend School	Oredo	Edo	6.343	5.610	0	
-Academy Of Leadership & Enterprise	Enugu North	Enugu	6.466	7.503	0	
-St Leo The Great Nursery & Primary School	Enugu East	Enugu	6.480	7.508	0	
-Le Chateau	Ibadan North	Oyo	7.418	3.900	0	
-Lead City High School	Ibadan North West	Oyo	7.399	3.863	0	
 Yan Lemo	Kumbotso	Kano	11.926	8.546	2	
 Leimari	Ngala	Borno	12.422	14.180	2	
 Lesga	Shani	Borno	10.236	12.049	2	Lomar
@@ -87,19 +88,308 @@ Leho	Askira-Uba	Borno	10.703	12.844	2
 Lawanbe	Bama	Borno	11.424	13.956	2	Leno-Abuna
 Leno Asanye	Bama	Borno	11.408	13.947	2	
 Leno Garu	Bama	Borno	11.422	13.937	2	
-Lekki-Epe Express	Epe	Lagos	6.586	3.951	0	
 Gusari Modu Lewari	Guzamala	Borno	12.721	13.368	2	
+Lekki Phase II	Eti Osa	Lagos	6.454	3.578	2	
+Leni	Shanono	Kano	12.007	8.097	2	Laini
+Rijiyar Lemo	Fagge	Kano	12.049	8.482	2	
+Unguwar Lemo	Wudil	Kano	11.686	8.907	2	
+Lekki Free Trade Zone	Epe	Lagos	6.531	4.000	2	
+Lelen Kudu	Buji	Jigawa	11.470	9.730	2	
+Lema-Jantullu	Arewa Dandi	Kebbi	12.937	4.230	2	
+Lere	Lere	Kaduna	10.381	8.558	2	
+Leni	Shanono	Kano	12.030	8.066	2	
+Lere	Lere	Kaduna	10.362	8.572	2	
+Lege	Mafa	Borno	12.147	13.487	2	
+Lere South	Tafawa-Balewa	Bauchi	9.658	9.421	2	
+Lere North	Tafawa-Balewa	Bauchi	9.659	9.331	2	
+Kafin Lemo	Ningi	Bauchi	11.242	9.121	2	
+Ibeju Lekki	Ibeju Lekki	Lagos	6.471	3.815	2	
+Wuro Leke	Jada	Adamawa	8.740	12.175	2	
+Wuro Lecha	Karim Lamido	Taraba	9.234	11.071	2	
+Ungwan-Lele	Jega	Kebbi	12.311	4.288	2	
+Tunga Lema	Arewa Dandi	Kebbi	12.945	4.466	2	
+Tengikiri	Nembe	Bayelsa	4.574	6.288	2	Lengikiri
+Sofon Legbozukun	Gbako	Niger	9.488	6.045	2	Legbozukun
+Olomo-Leyin	Ori Ire	Oyo	8.058	4.073	2	Olomo Leyin
+Oko Lemo	Ewekoro	Ogun	6.883	3.167	2	
+Odo Lewu	Ìjẹ̀bú Òde	Ogun	6.733	3.983	2	
+Ode-Lemo	Shagamu	Ogun	6.743	3.664	2	Ode-Lemaw
+Ndichuku	Edda	Ebonyi	5.902	7.807	2	Ndichukwu Leper Camp
+Liziga	Shani	Borno	10.354	12.235	2	Lesga
+Lezin Lafia	Nasarawa Egon	Nasarawa	8.733	8.383	2	
+Leyi	Jada	Adamawa	8.565	12.290	2	
+Leya	Zing	Taraba	8.956	11.606	2	
+Lowe	Fika	Yobe	11.328	11.083	2	Lahe|Lewe
+Leva	Gboko	Benue	7.455	8.650	2	
+Leva	Ushongo	Benue	7.040	8.960	2	
+Letu	Edda	Ebonyi	5.751	7.859	2	
+Letere	Bali	Taraba	8.186	11.136	2	
+Leshiche	Obanliku	Cross River	6.675	9.223	2	
+Lerumi	Jada	Adamawa	8.709	12.032	2	
+Leru	Isuikwuato	Abia	5.910	7.408	2	
+Lerin	Ifo	Ogun	6.808	3.236	2	
+Lergo Amadu	Akko	Gombe	10.088	11.200	2	Legro Aba
+Lergo	Akko	Gombe	10.016	10.981	2	
+Lepiro	Mubi North	Adamawa	10.322	13.308	2	
+Leno Kura	Bama	Borno	11.436	13.913	2	
+Leno Asanye	Bagudo	Kebbi	11.400	3.950	2	
+Leni	Argungu	Kebbi	12.800	4.517	2	
+Lenge	Jos East	Plateau	9.855	9.022	2	
+Lengdo	Jada	Adamawa	8.700	12.489	2	
+Lenfa-Bororo	Katcha	Niger	9.192	6.228	2	
+Lenfa	Lapai	Niger	9.212	6.556	2	
+Lena	Zangon Kataf	Kaduna	9.819	8.146	2	
+Lena	Zangon Kataf	Kaduna	9.802	8.121	2	
+Lemuta	Gbako	Niger	9.226	6.130	2	
+Lemomu	Itesiwaju	Oyo	8.065	3.527	2	
+Lemomu	Oluyole	Oyo	7.115	3.768	2	
+Lemode	Obafemi Owode	Ogun	7.027	3.455	2	
+Lemo	Edu	Kwara	8.734	5.218	2	
+Lemo	Ewekoro	Ogun	6.967	3.267	2	
+Leme	Gombi	Adamawa	10.141	12.561	2	
+Lembyin	Akko	Gombe	10.058	11.261	2	
+Lemale	Atiba	Oyo	7.987	3.970	2	
+Lelubu	Dandi	Kebbi	11.643	3.876	2	
+Lele-Ye-Saba-Basa	Gwagwalada	FCT Abuja	8.919	6.969	2	Lele Ye Saba Basa|LeleYeSabaBasa
+Lelewa	Fika	Yobe	11.489	11.182	2	
+Lelemu	Rafi	Niger	9.833	6.143	2	
+Lelema	Degema	Rivers	4.386	6.993	2	
+Lelekiri	Akuku Toru	Rivers	4.668	6.774	2	
+Lele	Nangere	Yobe	11.724	10.946	2	
+Lele	Konshisha	Benue	7.096	8.517	2	
+Lelai Fulani	Potiskum	Yobe	11.729	11.034	2	
+Dunbulua	Potiskum	Yobe	11.721	11.033	2	Lelai
+Lekwesi	Umu-Nneochi	Abia	5.965	7.453	2	
+Lekki	Ibeju Lekki	Lagos	6.412	4.095	2	Ebute Leki|Ebute-Lekki
+Lekki	Ilaje	Ondo	6.362	4.832	2	
+Lekitaba	Sardauna	Taraba	6.825	11.214	2	Banda
+Lekita	Kurmi	Taraba	7.093	10.711	2	
+Lekewogbe	Surulere	Oyo	7.993	4.367	2	
+Leke	Itesiwaju	Oyo	8.343	3.587	2	
+Leje	Mafa	Borno	12.198	13.428	2	
+Leho Yahi-Chiroma	Askira-Uba	Borno	10.663	12.880	2	
+Leho Pupudada	Askira-Uba	Borno	10.706	12.818	2	
+Leho Mbulla-Ufa Yamma	Askira-Uba	Borno	10.692	12.820	2	
+Leho Mbulla-Ufa-Gabas	Askira-Uba	Borno	10.690	12.834	2	
+Leho Bulayahi	Askira-Uba	Borno	10.695	12.862	2	
+Leho Bulama Yaro	Askira-Uba	Borno	10.679	12.771	2	
+Leho Bulama Birngin	Askira-Uba	Borno	10.655	12.791	2	
+Leho Arewa	Askira-Uba	Borno	10.708	12.783	2	
+Legun	Ifo	Ogun	6.733	3.350	2	
+Legos	Hawul	Borno	10.574	12.003	2	
+Legma	Hong	Adamawa	10.443	12.946	2	
+Leggere	Kankara	Katsina	11.864	7.571	2	
+Legel	Jada	Adamawa	8.831	12.120	2	
+Lege	Surulere	Oyo	7.962	4.425	2	
+Legbogbo	Irele	Ondo	6.583	4.898	2	
+Lefin	Yala	Cross River	6.691	8.432	2	
+Ledi	Gwagwalada	FCT Abuja	9.118	6.995	2	
+Lechina	Shani	Borno	10.080	11.904	2	
+Lebute	Odeda	Ogun	7.289	3.372	2	
+Lebo	Jada	Adamawa	8.837	12.684	2	
+Lebiki	Shani	Borno	10.112	12.051	2	
+Leberi	Shani	Borno	10.213	12.068	2	
+Leben	Hong	Adamawa	10.141	12.971	2	
+Lebelebewa	Guzamala	Borno	12.834	13.497	2	Lebellebewa
+Lamurde	Fufore	Adamawa	9.048	12.258	2	Legabarudu
+Leleye	Abeokuta North	Ogun	7.214	3.163	2	Laleye
+Lailaba	Argungu	Kebbi	12.766	4.421	2	Lalaiba|Lelaba
+Ladeba	Epe	Lagos	6.527	3.714	2	Labada|Labada Ebute|Ladaba Oke|Ledaba
+Kajola-Letosha	Yewa North	Ogun	7.162	2.953	2	Kajola
+Ijoko-Lemode	Ifo	Ogun	6.730	3.287	2	
+Hayin Lere	Kubau	Kaduna	10.763	8.564	2	
+Gidan Le	Maru	Zamfara	12.267	6.384	2	Gidan Ile
+Ebute-Lekki	Ibeju Lekki	Lagos	6.421	4.099	2	
+Banche Leko	Jada	Adamawa	8.641	12.281	2	
+Lemba	Ojo	Lagos	6.456	3.154	2	
+Ewu-Lema	Shagamu	Ogun	6.716	3.652	2	
+Lemomu	Obafemi Owode	Ogun	6.962	3.548	2	
+Suru Lere	Ijero	Ekiti	7.941	5.055	2	
+Lema	Hawul	Borno	10.424	12.156	2	
+Lesiga	Hawul	Borno	10.450	12.066	2	
+Okuku Lepuole	Yala	Cross River	6.721	8.762	2	
+Gidan Lege	Ringim	Jigawa	12.270	8.979	2	
+Lemo	Sandamu	Katsina	12.884	8.353	2	
+Gidan Leo	Sabon Birni	Sokoto	13.605	5.996	2	
+Lehida	Gada	Sokoto	13.666	5.836	2	
+Lemi	Kware	Sokoto	13.099	5.322	2	
+Dan Leni	Karaye	Kano	11.712	7.905	2	
+Lengi	Fakai	Kebbi	11.366	4.775	2	
+Gidan Lebura	Kiru	Kano	11.367	8.194	2	
+Ungwan Lemu	Ikara	Kaduna	11.146	8.216	2	
+Anambra East	Anambra East	Anambra	6.267	6.817	2	Agbegbe Ijoba Ibile Ilaorun Anambra|Anambra Est|Anambra ta Gabas|Anambra-Leste|Tang Anambra|anmbas shrqy
+Yagba East	Yagba East	Kogi	8.164	5.761	2	Tang Yagba|Yagba Est|Yagba Leste|Yagba fuunaange|Yagba ta Gabas
+Enugu East	Enugu East	Enugu	6.533	7.533	2	Agbegbe Ijoba Ibile Ilaorun Enugu|Enugu Est|Enugu Leste|Enugu ta Gabas|Tang Enugu
+Oyo East	Oyo East	Oyo	7.879	4.021	2	Ilaoorun Oyo|Oyo Est|Oyo Leste|Oyo ta Gabas|Tang Oyo
+Ibeju Lekki	Ibeju Lekki	Lagos	6.455	3.943	2	
+Ekiti East	Ekiti East	Ekiti	7.735	5.669	2	Agbegbe Ijoba Ibile Ilaorun Ekiti|Ekiti East Local Government Area|Ekiti Est|Ekiti Leste|Ekiti ta Gabas|Tang Ekiti
+Ahoada East	Ahoada East	Rivers	5.070	6.643	2	Agbegbe Ijoba Ibile Ilaorun Ahoada|Ahoada East Local Government Area|Ahoada Est|Ahoada Leste|Ahoada ta Gabas|Tang Ahoada
+Wuro Ledde	Maiha	Adamawa	9.889	13.202	2	
+Leno-Abuna	Bama	Borno	11.424	13.956	2	Lawanbe
+Futu Les Clan	Michika	Adamawa	10.603	13.458	2	Futu-Les Clan
+Lenge	Nafada	Gombe	11.146	11.182	2	
+Garin Lamido Lede	Potiskum	Yobe	11.734	11.140	2	
+Obelagu-Obimo Leja	Nsukka	Enugu	6.774	7.383	2	
+Lema-Jantullu	Arewa Dandi	Kebbi	12.980	4.213	2	
+Lege	Mafa	Borno	12.158	13.463	2	
+Lere North	Tafawa-Balewa	Bauchi	9.666	9.347	2	
+Leva	Wukari	Taraba	7.899	9.529	2	
+Leke	Wukari	Taraba	7.851	9.643	2	
+Lefi	Wukari	Taraba	7.657	9.760	2	
+Levi	Gboko	Benue	7.314	9.020	2	
+Leghem	Buruku	Benue	7.142	9.098	2	
+Leva	Gboko	Benue	7.327	8.958	2	
+Lebu	Ussa	Taraba	7.092	10.073	2	
+Legegi	Gbako	Niger	9.175	5.996	2	
+Lemuta	Gbako	Niger	9.132	5.945	2	
+Lemuta	Edati	Niger	9.023	5.995	2	
+Lenfagi	Lavun	Niger	9.232	5.668	2	
+Lewari	Yusufari	Yobe	13.105	11.126	2	
+Legbe	Bosso	Niger	9.581	6.392	2	
+Liringo Lede	Mayo-Belwa	Adamawa	8.860	12.030	2	
+Lekki Peninsula	Eti Osa	Lagos	6.441	3.507	2	
+Lekki Two	Epe	Lagos	6.464	3.970	2	Lekki II Ward
+Lekki One	Ibeju Lekki	Lagos	6.425	4.057	2	Lekki I Ward
+Ikate Lekki	Eti Osa	Lagos	6.443	3.482	2	
+Wadata Lebura	Wase	Plateau	8.788	9.989	2	
+Lelewalje	Yola North	Adamawa	9.185	12.484	2	
+Lesiya	Fufore	Adamawa	9.131	12.131	2	
+Wuro Lede	Fufore	Adamawa	9.139	12.117	2	
+Lecheki	Yorro	Taraba	9.062	11.540	2	
+Karim Lewa	Lau	Taraba	9.121	11.118	2	
+Lemo	Obafemi Owode	Ogun	7.004	3.430	2	
+Lebegun	Obafemi Owode	Ogun	7.029	3.448	2	
+Lekeni	Odeda	Ogun	7.143	3.456	2	
+Legbua	Abeokuta South	Ogun	7.149	3.395	2	
+Lemomu	Odeda	Ogun	7.188	3.461	2	
+Lerin	Odeda	Ogun	7.178	3.490	2	
+Lemo	Odeda	Ogun	7.310	3.377	2	
+Leke	Oluyole	Oyo	7.166	4.003	2	
+Lemomu	Aiyedade	Osun	7.304	4.316	2	
+Lesi	Aiyedade	Osun	7.423	4.315	2	
+Lemomu	Ife North	Osun	7.443	4.485	2	
+Lemo	Ede South	Osun	7.693	4.515	2	
+Lejofi	Efon	Ekiti	7.754	4.975	2	
+Lekpe	Ilaje	Ondo	6.139	4.740	2	
+Lekute	Ondo West	Ondo	7.026	4.758	2	
+Legbigbo	Ondo East	Ondo	7.052	4.957	2	
+Lekere	Ondo West	Ondo	7.066	4.932	2	
+Sasere Lemoso	Ile Oluji/Okeigbo	Ondo	7.209	4.970	2	
+Lerin	Oluyole	Oyo	7.316	3.747	2	
+Leke-Agba	Afijio	Oyo	7.781	3.763	2	
+Lende Buji	Fufore	Adamawa	8.920	12.614	2	LendeBuji
+Lebso	Ganye	Adamawa	8.480	11.945	2	
+Leme	Shelleng	Adamawa	9.987	12.200	2	
+Leba Abadehun	Kaiama	Kwara	9.581	4.102	2	LebaAbadehun
+Leda	Kwali	FCT Abuja	8.666	7.054	2	
+Leizi	Nasarawa Egon	Nasarawa	8.651	8.354	2	
+Leizi	Nasarawa Egon	Nasarawa	8.701	8.345	2	
+Leizi	Nasarawa Egon	Nasarawa	8.613	8.372	2	
+Lejemodari	Sardauna	Taraba	6.753	11.548	2	
+Lebang	Sardauna	Taraba	6.528	11.184	2	
+Legeso	Sardauna	Taraba	6.841	11.299	2	
+Leme Tele	Sardauna	Taraba	6.764	11.180	2	
+Leiko	Sardauna	Taraba	6.621	11.443	2	
+Leme Bawa	Sardauna	Taraba	6.742	11.208	2	
+Lebu	Afijio	Oyo	7.689	4.074	2	
+Lelero	Lagelu	Oyo	7.540	4.021	2	
+Lemomu	Ola Oluwa	Osun	7.719	4.257	2	
+Lefin	Yala	Cross River	6.722	8.461	2	
+Lebanon Road	Ibadan North West	Oyo	7.385	3.885	1	
+Lebanon Road	Ibadan South West	Oyo	7.387	3.884	1	
+Lebanon Street	Ibadan North West	Oyo	7.387	3.885	1	
+Lemomu Street	Ibadan North West	Oyo	7.390	3.885	1	
+Mohammed Yusuf Lere Drive	Kaduna North	Kaduna	10.512	7.453	1	
+Lere Road	Kaduna North	Kaduna	10.580	7.458	1	
+Lema Jibrin Road	Kaduna North	Kaduna	10.536	7.467	1	
+Dabo Lere Street	Chikun	Kaduna	10.470	7.447	1	
+Lemu Road	Kaduna South	Kaduna	10.519	7.419	1	
+Legbedion Drive	Oredo	Edo	6.332	5.592	1	
+Leso street	Egor	Edo	6.349	5.575	1	
+Ibeju Lekki Street	Eti Osa	Lagos	6.457	3.421	1	
+Leye Pratt Avenue	Kosofe	Lagos	6.638	3.376	1	
+C&I Leasing Drive	Eti Osa	Lagos	6.438	3.472	1	
+Akin Leigh Crescent	Eti Osa	Lagos	6.445	3.454	1	
+Vladimir Lenin Street	Municipal Area Council	FCT Abuja	9.050	7.513	1	
+Lephalala Close	Municipal Area Council	FCT Abuja	9.101	7.484	1	
+Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.474	3.738	1	
+Egbor Str;Legemah Way	Oredo	Edo	6.312	5.602	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.436	3.446	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.431	3.461	1	
+Lesi Crescent	Mushin	Lagos	6.531	3.364	1	
+Leigh Street	Mushin	Lagos	6.511	3.365	1	
+Leopard Street	Enugu East	Enugu	6.469	7.506	1	
+Leadway Assurance Avenue	Enugu North	Enugu	6.453	7.491	1	
+Leck Avenue	Enugu North	Enugu	6.445	7.486	1	
+Charles Leme Street	Enugu South	Enugu	6.423	7.508	1	
+Legislative Quarters Road	Enugu North	Enugu	6.452	7.513	1	
+Dr Leo Chukwuali Drive	Enugu East	Enugu	6.468	7.554	1	
+Lekki-Epe Expressway	Epe	Lagos	6.583	3.950	1	
+Lekki-Epe Expressway	Epe	Lagos	6.586	3.951	1	
+Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.530	3.893	1	
+Leslie Road	Yewa South	Ogun	6.877	3.004	1	
+Leslie Road	Yewa South	Ogun	6.890	3.015	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.433	3.482	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.446	3.541	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.437	3.510	1	
+Lekki Beach Road	Eti Osa	Lagos	6.433	3.509	1	
+Lekki Conservation Center	Eti Osa	Lagos	6.443	3.535	1	
+Prince Rauf Ishola Lemomu Street	Eti Osa	Lagos	6.446	3.517	1	
+Lekan Awolusi Close	Eti Osa	Lagos	6.470	3.653	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.470	3.581	1	
+Lewis Fadipe III Lane	Eti Osa	Lagos	6.472	3.577	1	
+Lewis Street	Eti Osa	Lagos	6.470	3.576	1	
+Ore-Legbogbo-Irele Road	Irele	Ondo	6.540	4.879	1	
+Leo Road	Akure South	Ondo	7.266	5.179	1	
+Prince Leye Fajemisin Close	Eti Osa	Lagos	6.477	3.571	1	
+Lekan Idowu Street	Alimosho	Lagos	6.589	3.277	1	
+Ajoke Lewis Street	Ifako/Ijaye	Lagos	6.665	3.310	1	
+Chief Labi Ishola-Lemomu Street	Eti Osa	Lagos	6.455	3.583	1	
+Letter N Junction	Ìkòròdú	Lagos	6.625	3.529	1	
+Lekki - Ikoyi Bridge	Eti Osa	Lagos	6.450	3.458	1	
+Lekki Beach Road	Eti Osa	Lagos	6.436	3.508	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.461	3.555	1	
+Lekki-Ajah Flyover	Eti Osa	Lagos	6.466	3.563	1	
+Leonard Odiodio Street	Oredo	Edo	6.249	5.571	1	
+Olori Ibidunni Lebi Street	Eti Osa	Lagos	6.473	3.655	1	
+Ire-Legbogbo-Okitipupa Road	Irele	Ondo	6.484	4.875	1	
+Lere Street	Kaduna North	Kaduna	10.581	7.458	1	
+Chief Levi Worlu Close	Obio/Akpor	Rivers	4.836	7.069	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.475	3.608	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.471	3.639	1	
+Lemon Street	Municipal Area Council	FCT Abuja	9.117	7.368	1	
+Lekki Toll - Alternative Route	Eti Osa	Lagos	6.448	3.546	1	
+Gidan Leda Street	Kumbotso	Kano	11.951	8.534	1	
+Gidan Leda Street	Kumbotso	Kano	11.952	8.536	1	
+Lekki Enclave Road	Eti Osa	Lagos	6.427	3.482	1	
+Legacy Boulevard	Eti Osa	Lagos	6.428	3.551	1	
+Lekki Garden Estate, Phase 5, Road 11	Eti Osa	Lagos	6.458	3.599	1	
+Lewis Street	Lagos Island	Lagos	6.450	3.406	1	
+Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.485	3.885	1	
+Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.485	3.885	1	
+Lebanon Cross Road	Ibadan South West	Oyo	7.385	3.884	1	
+Sunday Leko Str.	Eleme	Rivers	4.779	7.123	1	
+Lekki-Epe Expressway	Epe	Lagos	6.572	3.943	1	
+Lekki-Epe Expressway	Epe	Lagos	6.554	3.934	1	
+Lebanon Street	Ibadan South West	Oyo	7.388	3.885	1	
+Legacy Drive	Oluyole	Oyo	7.340	3.818	1	
+Lekki Free Trade Zone Road	Ibeju Lekki	Lagos	6.416	4.085	1	
+Lekuti Street	Ìkòròdú	Lagos	6.632	3.481	1	
+Learn Well International Group of Schools	Egor	Edo	6.364	5.582	0	
+Legacy Nursery & Primary School	Oredo	Edo	6.324	5.601	0	
+Legend School	Oredo	Edo	6.343	5.610	0	
+Academy Of Leadership & Enterprise	Enugu North	Enugu	6.466	7.503	0	
+St Leo The Great Nursery & Primary School	Enugu East	Enugu	6.480	7.508	0	
+Le Chateau	Ibadan North	Oyo	7.418	3.900	0	
+Lead City High School	Ibadan North West	Oyo	7.399	3.863	0	
+Lekki-Epe Express	Epe	Lagos	6.586	3.951	0	
 Eunandy Learning Center	Uvwie	Delta	5.541	5.770	0	
 Peak Extra Moral Lesson	Warri South	Delta	5.537	5.752	0	
 Great Learners International School	Port-Harcourt	Rivers	4.821	7.052	0	
-Lekki Phase II	Eti Osa	Lagos	6.454	3.578	2	
 Distance Learning Institute	Lagos Mainland	Lagos	6.512	3.393	0	
 Legere Market	Odigbo	Ondo	6.824	4.591	0	
 Lennon Jubilee High school.	Akoko North East	Ondo	7.533	5.766	0	
 Learnfast Comprehensive Academy	Ojo	Lagos	6.461	3.168	0	
-Leni	Shanono	Kano	12.007	8.097	2	Laini
-Rijiyar Lemo	Fagge	Kano	12.049	8.482	2	
-Unguwar Lemo	Wudil	Kano	11.686	8.907	2	
 Mohammed Goni College of Legal and Islamic Studies	Maiduguri	Borno	11.847	13.149	0	
 Amanawa Leprosy Centre	Kalgo	Kebbi	12.355	4.188	0	
 King Pearl's Learning Field, Elelenwo	Eleme	Rivers	4.826	7.082	0	
@@ -127,7 +417,7 @@ Legus Specialist Hospital	Mushin	Lagos	6.531	3.366	0
 First Next Level Academy	Akure South	Ondo	7.292	5.150	0	
 Levan Hospital First Avenue G Close Festac Town	Amuwo Odofin	Lagos	6.470	3.296	0	
 Tutorial lesson	Alimosho	Lagos	6.524	3.240	0	
-MAKARANTAR MALAM MAI JAN LEBE	Ungongo	Kano	12.039	8.564	0	
+Makarantar Malam Mai Jan Lebe	Ungongo	Kano	12.039	8.564	0	
 Alluvia Marine/Afisco (Lekki 1)	Eti Osa	Lagos	6.448	3.459	0	
 AED lecture Room (Hall A, Hall B2. Hall B3, Hall C2, Hall C3)	Kaduna North	Kaduna	10.612	7.440	0	
 Lecture room 191	Kaduna North	Kaduna	10.609	7.441	0	
@@ -138,108 +428,25 @@ Mechanical Lecture Room	Kaduna North	Kaduna	10.612	7.442	0
 Joel Best Legacy Int'L Nursery/Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.468	4.540	0	
 Trillium Learning Centre, New Yidi Road, Ilorin, Nigeria	Ilorin East	Kwara	8.474	4.555	0	
 Lekki Epe International Airport (Proposed Site)	Epe	Lagos	6.566	3.933	0	
-Lekki Free Trade Zone	Epe	Lagos	6.531	4.000	2	
-Lekki Phase I	Eti Osa	Lagos	6.441	3.470	3	
-Ibeju-Lekki	Ibeju Lekki	Lagos	6.471	3.808	3	
 ebute lekki	Ibeju Lekki	Lagos	6.403	4.135	0	
 alluvia marine/afisco (lekki phase 1)	Eti Osa	Lagos	6.448	3.459	0	
 Leg Bridge	Municipal Area Council	FCT Abuja	9.137	7.369	0	
 Legacy Hospital	Karu	Nasarawa	8.953	7.673	0	
-Lekki Peninsula II	Eti Osa	Lagos	6.440	3.520	3	
-Lebanon Road	Ibadan North West	Oyo	7.385	3.885	1	
-Lebanon Road	Ibadan South West	Oyo	7.387	3.884	1	
-Lebanon Street	Ibadan North West	Oyo	7.387	3.885	1	
-Lemomu Street	Ibadan North West	Oyo	7.390	3.885	1	
-Mohammed Yusuf Lere Drive	Kaduna North	Kaduna	10.512	7.453	1	
-Lere Road	Kaduna North	Kaduna	10.580	7.458	1	
-Lema Jibrin Road	Kaduna North	Kaduna	10.536	7.467	1	
-Dabo Lere Street	Chikun	Kaduna	10.470	7.447	1	
-Lemu Road	Kaduna South	Kaduna	10.519	7.419	1	
-Legbedion Drive	Oredo	Edo	6.332	5.592	1	
-Leso street	Egor	Edo	6.349	5.575	1	
-Ibeju Lekki Street	Eti Osa	Lagos	6.457	3.421	1	
-Leye Pratt Avenue	Kosofe	Lagos	6.638	3.376	1	
-C&I Leasing Drive	Eti Osa	Lagos	6.438	3.472	1	
-Akin Leigh Crescent	Eti Osa	Lagos	6.445	3.454	1	
-Akin Leigh Crescent	Eti Osa	Lagos	6.446	3.456	1	
-Vladimir Lenin Street	Municipal Area Council	FCT Abuja	9.050	7.513	1	
-Lephalala Close	Municipal Area Council	FCT Abuja	9.101	7.484	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.474	3.738	1	
-Egbor Str;Legemah Way	Oredo	Edo	6.312	5.602	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.436	3.446	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.431	3.461	1	
-Lesi Crescent	Mushin	Lagos	6.531	3.364	1	
-Leigh Street	Mushin	Lagos	6.511	3.365	1	
-Leopard Street	Enugu East	Enugu	6.469	7.506	1	
-Leadway Assurance Avenue	Enugu North	Enugu	6.453	7.491	1	
-Leck Avenue	Enugu North	Enugu	6.445	7.486	1	
-Charles Leme Street	Enugu South	Enugu	6.423	7.508	1	
-Legislative Quarters Road	Enugu North	Enugu	6.452	7.513	1	
-Dr Leo Chukwuali Drive	Enugu East	Enugu	6.468	7.554	1	
-Lekki-Epe Expressway	Epe	Lagos	6.583	3.950	1	
-Lekki-Epe Expressway	Epe	Lagos	6.586	3.951	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.476	3.755	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.530	3.893	1	
-Leslie Road	Yewa South	Ogun	6.877	3.004	1	
-Leslie Road	Yewa South	Ogun	6.890	3.015	1	
-Leslie Road	Yewa South	Ogun	6.879	3.007	1	
 Laboratory & Learning Resource Centre	Ungongo	Kano	11.973	8.431	0	
 Leni Health Post	Shanono	Kano	12.008	8.100	0	
 Rijiyar Lemo Maternal and Child Health	Fagge	Kano	12.055	8.477	0	
 Rijiyar Lemo Primary Health Centre	Fagge	Kano	12.047	8.481	0	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.433	3.482	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.446	3.541	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.448	3.547	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.441	3.530	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.437	3.510	1	
-Lekki Beach Road	Eti Osa	Lagos	6.433	3.509	1	
-Lekki Conservation Center	Eti Osa	Lagos	6.443	3.535	1	
 Lekka Dispensary	Bauchi	Bauchi	10.068	9.838	0	
 Lere Primary Health Center	Tafawa-Balewa	Bauchi	9.713	9.338	0	
-Prince Rauf Ishola Lemomu Street	Eti Osa	Lagos	6.446	3.517	1	
-Lekan Awolusi Close	Eti Osa	Lagos	6.470	3.653	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.470	3.581	1	
 Greensprings School - Lekki Campus	Ibeju Lekki	Lagos	6.464	3.695	0	
-Lewis Fadipe III Lane	Eti Osa	Lagos	6.472	3.577	1	
-Lewis Street	Eti Osa	Lagos	6.470	3.576	1	
-Ore-Legbogbo-Irele Road	Irele	Ondo	6.540	4.879	1	
-Leo Road	Akure South	Ondo	7.266	5.179	1	
-Prince Leye Fajemisin Close	Eti Osa	Lagos	6.477	3.571	1	
-Lekan Idowu Street	Alimosho	Lagos	6.589	3.277	1	
-Ajoke Lewis Street	Ifako/Ijaye	Lagos	6.665	3.310	1	
-Chief Labi Ishola-Lemomu Street	Eti Osa	Lagos	6.455	3.583	1	
-Letter N Junction	Ìkòròdú	Lagos	6.625	3.529	1	
 LEA Maiduguri Road	Kaduna North	Kaduna	10.504	7.435	0	
-Lekki - Ikoyi Bridge	Eti Osa	Lagos	6.450	3.458	1	
 Legacy School	Kaduna North	Kaduna	10.535	7.470	0	
-Lekki Beach Road	Eti Osa	Lagos	6.436	3.508	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.461	3.555	1	
-Lekki-Ajah Flyover	Eti Osa	Lagos	6.466	3.563	1	
-Lekki-Ajah Flyover	Eti Osa	Lagos	6.469	3.567	1	
 Jafaru LEA Primary School Playground	Sabon Gari	Kaduna	11.111	7.735	0	
-Leonard Odiodio Street	Oredo	Edo	6.249	5.571	1	
-Olori Ibidunni Lebi Street	Eti Osa	Lagos	6.473	3.655	1	
 Novare Lekki Mall	Eti Osa	Lagos	6.468	3.639	0	
-Ire-Legbogbo-Okitipupa Road	Irele	Ondo	6.484	4.875	1	
-Lere Street	Kaduna North	Kaduna	10.581	7.458	1	
 Lekki British School	Eti Osa	Lagos	6.443	3.472	0	
 Lekki British Junior School	Eti Osa	Lagos	6.446	3.472	0	
 Crisland School Lekki	Eti Osa	Lagos	6.447	3.471	0	
-Chief Levi Worlu Close	Obio/Akpor	Rivers	4.836	7.069	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.475	3.608	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.471	3.639	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.475	3.617	1	
-Lemon Street	Municipal Area Council	FCT Abuja	9.117	7.368	1	
-Lekki Toll - Alternative Route	Eti Osa	Lagos	6.448	3.546	1	
-Lekki Toll - Alternative Route	Eti Osa	Lagos	6.452	3.541	1	
-Lebanon Road	Ibadan South West	Oyo	7.383	3.884	1	
-Gidan Leda Street	Kumbotso	Kano	11.951	8.534	1	
-Gidan Leda Street	Kumbotso	Kano	11.952	8.536	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.436	3.455	1	
 Lebanon School	Nassarawa	Kano	12.010	8.553	0	
-Lekki Enclave Road	Eti Osa	Lagos	6.427	3.482	1	
-Legacy Boulevard	Eti Osa	Lagos	6.428	3.551	1	
-Lekki Garden Estate, Phase 5, Road 11	Eti Osa	Lagos	6.458	3.599	1	
 LEA Secondary School	Chikun	Kaduna	10.450	7.434	0	
 Lella Specialist Hospital	Oredo	Edo	6.307	5.619	0	
 German Leprosy & Tb Relief Association	Enugu South	Enugu	6.427	7.518	0	
@@ -249,36 +456,8 @@ Kafin Lemo Health Clinic	Sumaila	Kano	11.269	9.028	0
 Lead City University Jericho Campus	Ibadan North West	Oyo	7.400	3.867	0	
 TB Leprosy Referral Hospital	Paikoro	Niger	9.530	6.591	0	
 Miskay Boutique	Eti Osa	Lagos	6.443	3.477	0	Miskay Boutique Lekki
-Lewis Street	Lagos Island	Lagos	6.450	3.406	1	
 LEA Primary School Galadimawa	Municipal Area Council	FCT Abuja	8.994	7.425	0	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.434	3.491	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.485	3.885	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.485	3.885	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.436	3.502	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.439	3.524	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.431	3.467	1	
-Lebanon Cross Road	Ibadan South West	Oyo	7.385	3.884	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.435	3.445	1	
 LEA Primary, Junior and Senior Secondary School Kuchigoro	Municipal Area Council	FCT Abuja	9.014	7.419	0	
-Sunday Leko Str.	Eleme	Rivers	4.779	7.123	1	
-Lekki-Epe Expressway	Epe	Lagos	6.572	3.943	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.490	3.891	1	
-Lekki-Epe Expressway	Epe	Lagos	6.561	3.938	1	
-Lekki-Epe Expressway	Epe	Lagos	6.554	3.934	1	
 LEA Primary and Secondary School, Galadinma	Municipal Area Council	FCT Abuja	9.117	7.386	0	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.473	3.631	1	
-Legacy Drive	Oluyole	Oyo	7.340	3.818	1	
-Lekki Free Trade Zone Road	Ibeju Lekki	Lagos	6.416	4.085	1	
-Lekuti Street	Ìkòròdú	Lagos	6.632	3.481	1	
 North East Children’s Trust (NECT), The Learning Centre 1	Maiduguri	Borno	11.826	13.116	0	
 Faculty of Science Lecture Rooms	Kaduna North	Kaduna	10.610	7.445	0	
-Lelen Kudu	Buji	Jigawa	11.470	9.730	2	
-Lema-Jantullu	Arewa Dandi	Kebbi	12.937	4.230	2	
-Lere	Lere	Kaduna	10.381	8.558	2	
-Leni	Shanono	Kano	12.030	8.066	2	
-Lere	Lere	Kaduna	10.362	8.572	2	
-Lege	Mafa	Borno	12.147	13.487	2	
-Lere South	Tafawa-Balewa	Bauchi	9.658	9.421	2	
-Lere North	Tafawa-Balewa	Bauchi	9.659	9.331	2	
-Kafin Lemo	Ningi	Bauchi	11.242	9.121	2	
-Ibeju Lekki	Ibeju Lekki	Lagos	6.471	3.815	2	

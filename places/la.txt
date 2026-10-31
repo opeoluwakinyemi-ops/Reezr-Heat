@@ -1,5 +1,29 @@
 Lagos	Lagos Island	Lagos	6.455	3.394	3	
 Lafia	Lafia	Nasarawa	8.496	8.515	3	
+Lano	Yamaltu/Deba	Gombe	10.172	11.472	3	
+Lafia	Larmurde	Adamawa	9.652	11.818	3	
+Lade	Pategi	Kwara	8.759	5.617	3	
+Lau	Lau	Taraba	9.207	11.276	3	
+Lassa	Askira-Uba	Borno	10.680	13.273	3	
+Karim Lamido	Karim Lamido	Taraba	9.313	11.193	3	
+Kogin Lamido	Karim Lamido	Taraba	9.312	11.192	3	
+Lafiagi	Edu	Kwara	8.854	5.419	3	
+Laro	Song	Adamawa	9.809	12.333	3	
+Kaya Lawan Abogu	Damboa	Borno	11.019	12.896	3	Kaya
+Zango Layin Gidan Mai Unguwar	Gaya	Kano	11.864	9.001	3	
+Eika-Adagu New Layout	Adavi	Kogi	7.611	6.241	3	
+Lagos Island	Lagos Island	Lagos	6.455	3.390	3	
+Lapai	Agaie	Niger	9.044	6.571	3	Badeggi|Badeji
+Langtang	Langtang North	Plateau	9.142	9.791	3	
+Lamurde	Larmurde	Adamawa	9.608	11.793	3	
+Lalupon	Lagelu	Oyo	7.468	4.066	3	
+Calabar	Calabar Municipal	Cross River	4.959	8.327	3	CBQ|Kalabar|Kalabaras|Kalabaro|ka la ba er|kalabar|kalabara|kalabari|kallabaleu|karabaru
+Billiri	Billiri	Gombe	9.890	11.218	3	Biliri Laushi
+Barkin Ladi	Barkin Ladi	Plateau	9.538	8.893	3	B-Ladi|Bar-n-Ladi|Barakin|Barakin Ladi|Barikin Ladi
+Lagos Island	Eti Osa	Lagos	6.466	3.418	3	
+Achara Layout	Enugu South	Enugu	6.413	7.497	2	
+Lawanson	Mushin	Lagos	6.522	3.343	2	
+Laranto	Jos North	Plateau	9.943	8.874	2	
 Ballago	Madaoua	Sokoto	13.699	6.047	2	Laboa
 Lada	Diffa	Borno	13.301	12.646	2	
 Boula Lawani	Goudoumaria	Yobe	13.376	10.823	2	
@@ -17,13 +41,11 @@ Lagbedu	Ogo Oluwa	Oyo	7.916	4.150	2	Agbedu
 Lafia Kpada	Lapai	Niger	8.700	6.683	2	Lafian Kpada
 Olayemi	Ifelodun	Kwara	8.400	5.050	2	Layemi
 Lanza	Lokoja	Kogi	8.566	6.221	2	
-Lamurde	Larmurde	Adamawa	9.607	11.793	2	
 Laro	Maiha	Adamawa	9.889	13.202	2	
 Laminga	Jos North	Plateau	9.867	8.950	2	
 Laje	Mafa	Borno	12.199	13.428	2	Leje
 Aduba	Guzamala	Borno	12.824	13.191	2	Aduwa Lawanti
 Larki A	Abadam	Borno	13.480	13.022	2	Lariski
-Lano	Yamaltu/Deba	Gombe	10.172	11.472	3	
 Kulari Lawanti	Damboa	Borno	10.996	12.949	2	
 Labu	Hawul	Borno	10.344	12.211	2	
 Lambu	Tofa	Kano	12.001	8.356	2	
@@ -47,14 +69,12 @@ Lafiyan Bure	Alkaleri	Bauchi	10.000	10.483	2
 Lajiki	Ifelodun	Kwara	8.500	4.717	2	
 Sabon Layi Jessu	Balanga	Gombe	9.736	11.777	2	
 Oloya	Ori Ire	Oyo	8.367	4.283	2	Lawani
-Lafia	Larmurde	Adamawa	9.652	11.818	3	
 Laguna	Atiba	Oyo	8.019	3.978	2	
 Lamfa	Edati	Niger	8.983	5.750	2	Lemfa
 Latan	Konduga	Borno	11.430	13.193	2	
 Ladantar	Bama	Borno	11.474	13.814	2	
 Mai Lalle	Sabon Birni	Sokoto	13.585	6.105	2	Unguwa Lalle
 Yau Lawanti	Abadam	Borno	13.558	13.233	2	Yo
-Lade	Pategi	Kwara	8.759	5.617	3	
 Sabon Layi	Biu	Borno	10.731	12.211	2	
 Labiki	Shani	Borno	10.114	12.052	2	Lebiki
 Ashar Lafia	Maru	Zamfara	12.230	6.326	2	
@@ -79,7 +99,6 @@ Labozhi	Mokwa	Niger	9.182	5.416	2
 Galmasku Lawanti	Damboa	Borno	11.117	12.344	2	Galmaska
 Lamuregun	Egbeda	Oyo	7.401	4.036	2	
 Lasegbe	Oluyole	Oyo	7.252	3.964	2	
-Lassa	Askira-Uba	Borno	10.680	13.273	3	
 Lapai	Agaie	Niger	9.050	6.567	2	Badeggi;Badeji
 Lapon	Akinyele	Oyo	7.478	3.950	2	
 Odo Lagaye	Ìjẹ̀bú Òde	Ogun	6.733	3.983	2	Legaye
@@ -127,6 +146,7 @@ Gada Lainde	Mubi North	Adamawa	10.436	13.256	2
 Badu	Nganzai	Borno	12.703	13.218	2	Badu Lawanti
 Lawanga Jiri	Abadam	Borno	13.616	13.286	2	
 Lashana Fulani	Shani	Borno	10.079	11.904	2	Lechina
+Labare	Sardauna	Taraba	6.650	11.467	2	
 Tungan Ladan	Dandi	Kebbi	11.691	3.696	2	
 Yimir Mugza Lawanti	Chibok	Borno	10.783	12.988	2	Yimurmunza
 Gulungurung Lawan	Shani	Borno	10.273	12.177	2	Guldungurung
@@ -149,9 +169,11 @@ Keffin Larabawa	Zaki	Bauchi	11.937	10.300	2
 Landari	Arewa Dandi	Kebbi	12.611	4.020	2	
 Gidan Dan Ladi	Ikara	Kaduna	11.402	8.102	2	Dan Ladi (4)
 Sabon Layi Gumafuna Gasi	Shani	Borno	10.152	11.821	2	Guma Fina
+Lankoviri	Yorro	Taraba	9.007	11.424	2	Lankoveri
 Lashanbi	Bosso	Niger	9.550	6.250	2	Lashami
 Alakinde	Lagelu	Oyo	7.567	4.033	2	Lakinde
 Lagerete	Guzamala	Borno	12.669	13.452	2	
+Lanki	Ussa	Taraba	6.868	9.831	2	
 Lagwa	Aboh-Mbaise	Imo	5.455	7.235	2	
 Gayau	Chibok	Borno	10.761	12.755	2	Gayau Lawanti
 Sabon Gari Mallam Ladi	Minjibir	Kano	12.220	8.575	2	
@@ -189,7 +211,6 @@ Gadai Lawanti	Nganzai	Borno	12.401	12.946	2	Gadayi
 Gazabure	Gubio	Borno	12.900	12.819	2	Gazabure Lawanti
 Unguwar Lafiya	Buji	Jigawa	11.668	9.687	2	Ungwan Lafiya;Lafiya
 Lafiya	Dukku	Gombe	10.968	10.681	2	Lafia
-Lafiagi	Edu	Kwara	8.854	5.419	3	
 Ladenu	Shelleng	Adamawa	9.813	12.104	2	
 Ladan	Gurara	Niger	9.350	6.983	2	Bonu
 Lanwa	Moro	Kwara	8.745	4.754	2	
@@ -197,7 +218,6 @@ Laleye	Akinyele	Oyo	7.597	3.812	2
 Ali Buktalma	Shani	Borno	10.185	11.963	2	Lakundum
 Laminga	Nasarawa	Nasarawa	8.681	7.818	2	
 Ilafin	Yagba East	Kogi	8.333	5.800	2	Lafin
-Laro	Song	Adamawa	9.809	12.333	3	
 Duji	Mobbar	Borno	13.262	12.615	2	Duji Lawanti
 Ilai	Mopa-Muro	Kogi	8.017	5.833	2	Lai
 Komdi Lawanti	Damboa	Borno	10.986	12.865	2	Komndi Gana
@@ -206,18 +226,12 @@ Ladagu	Hawul	Borno	10.333	12.172	2	Nadangu
 Lafiya	Shani	Borno	10.211	12.100	2	Lafia
 Lamba	Darazo	Bauchi	11.450	10.900	2	
 Labani	Silame	Sokoto	12.930	4.812	2	
-Sheikh Lawal Abubakar Islamic School	Kaduna North	Kaduna	10.508	7.433	0	
-Ajaokuta Indian Language School	Ajaokuta	Kogi	7.557	6.601	0	
-Layout Primary School	Muhammadu Dikko Stadium	Katsina	12.981	7.619	0	
-Sabon Layin Kara Health Post	Gwarzo	Kano	11.825	7.933	0	
-Lamba Health Post	Bichi	Kano	12.340	8.148	0	
 Launawa	Dawakin Kudu	Kano	11.851	8.651	2	
 Lambu	Doguwa	Kano	10.607	8.758	2	
 Sabon Layi	Doguwa	Kano	10.744	8.725	2	
 Noman Land	Fagge	Kano	12.031	8.536	2	
 Layin Yahya Lalloki	Kumbotso	Kano	11.903	8.546	2	
 Saran Ladan	Tudun Wada	Kano	11.211	8.515	2	Saran-Ladan
-Lagelu Youth Friendly Health Centre, Agugu	Ibadan North East	Oyo	7.384	3.927	0	
 Ndanga Lawan Haruna	Chibok	Borno	10.806	12.872	2	
 Walu Laire	Mobbar	Borno	13.294	12.830	2	
 Lawanti North	Gubio	Borno	12.500	12.781	2	
@@ -229,7 +243,6 @@ Lari Kari	Jere	Borno	11.869	13.173	2
 Fori Lawanti	Jere	Borno	11.800	13.171	2	
 Sabon Layi	Maiduguri	Borno	11.825	13.173	2	
 Gargang Lawan Kano	Damboa	Borno	11.022	12.799	2	
-Kaya Lawan Abogu	Damboa	Borno	11.019	12.896	3	Kaya
 Lawan Kolo	Chibok	Borno	10.906	12.831	2	
 Yobe Lawanti	Chibok	Borno	10.870	12.852	2	
 Lawan Audu	Chibok	Borno	10.773	12.953	2	
@@ -362,10 +375,8 @@ Lagali Bukarti	Gubio	Borno	12.620	12.474	2
 Gumbu Jauro Lamido	Kwaya Kusar	Borno	10.355	11.841	2	
 Lafiya	Kwaya Kusar	Borno	10.401	11.932	2	
 Laro Jauro Dahiru	Kwaya Kusar	Borno	10.412	11.815	2	
-Laro Jauro Dahiru	Kwaya Kusar	Borno	10.415	11.819	2	
 Laro Jauro Ishaku	Kwaya Kusar	Borno	10.419	11.823	2	
 Laro Jauro Tukur	Kwaya Kusar	Borno	10.410	11.812	2	
-Laro Jauro Tukur	Kwaya Kusar	Borno	10.421	11.817	2	
 Laro	Bayo	Borno	10.325	11.799	2	
 Lauwalam	Bayo	Borno	10.322	11.805	2	
 Ladanti Bukar	Mobbar	Borno	12.932	12.472	2	
@@ -397,8 +408,6 @@ Pajala Lafiya	Shani	Borno	10.338	12.002	2
 Labu B	Hawul	Borno	10.348	12.214	2	
 Lakshri	Hawul	Borno	10.406	12.247	2	
 Lawan Lokoja	Hawul	Borno	10.382	12.265	2	
-Labau Health Clinic	Shani	Borno	10.052	12.015	0	
-Lakundum Dispensary	Shani	Borno	10.183	11.960	0	
 Laira Ngalau	Abadam	Borno	13.456	12.921	2	
 Lariri	Abadam	Borno	13.463	13.009	2	
 Larki C	Abadam	Borno	13.446	13.056	2	
@@ -416,17 +425,13 @@ Lagos Ngwa	Hawul	Borno	10.531	12.222	2
 Yawi Lawan	Biu	Borno	10.598	12.218	2	
 Ngirna Lawanti	Damboa	Borno	11.210	12.874	2	
 Yerwa Lawanti	Damboa	Borno	11.274	12.871	2	
-Lawanti Health Clinic	Guzamala	Borno	12.577	13.414	0	
-Lawanti Health Centre	Guzamala	Borno	12.661	13.278	0	
 Alla Lawanti	Marte	Borno	12.271	13.705	2	
 Mawulli Lawanti	Marte	Borno	12.329	13.721	2	
-Guwo Laanti Dispensary	Kaga	Borno	11.625	12.530	0	
 Jauro Lawalo	Biu	Borno	10.720	11.943	2	
 Lamido Sule	Biu	Borno	10.784	11.849	2	
 Bolori Layout	Maiduguri	Borno	11.858	13.138	2	
 Lamido Doddo	Biu	Borno	10.662	12.226	2	
 Lawanti	Konduga	Borno	11.585	13.481	2	
-Lawanti Primary Health Clinic	Konduga	Borno	11.587	13.480	0	
 Jauro Manu Laima Alhaji Maina	Biu	Borno	10.901	11.748	2	
 Lamido Haro	Biu	Borno	10.896	11.775	2	
 Lambichudo	Damboa	Borno	11.220	12.256	2	
@@ -444,21 +449,11 @@ Lawan-Dalari	Bama	Borno	11.408	13.849	2
 Lawanbe	Bama	Borno	11.424	13.956	2	Leno-Abuna
 Lawan Babayel Nomadic	Chibok	Borno	10.775	12.814	2	
 Lawan Aridi	Diffa	Yobe	13.107	12.386	2	
-Lazemos Ventures Limited	Akinyele	Oyo	7.513	3.918	0	
-Last bus stop	Alimosho	Lagos	6.499	3.242	0	
-Laneco	Olorunda	Osun	7.795	4.542	0	
-Clinique La paix	Ipokia	Ogun	6.538	2.732	0	
-LA RENAISSANCE	Ipokia	Ogun	6.532	2.712	0	
 Lawandi Boultouram	Goudoumaria	Yobe	13.363	10.676	2	
 Lawandi	Goudoumaria	Yobe	13.380	10.963	2	
-Federal land Resources Owerri	Owerri West	Imo	5.444	6.924	0	
 Lada	Diffa	Borno	13.301	12.645	2	
 Lamana	Diffa	Borno	13.508	12.929	2	
 Lawan Ibrandi	Diffa	Borno	13.217	12.526	2	
-Laila Dogon Yaro	Kaduna North	Kaduna	10.537	7.434	0	
-Uwhie Ladies Vanguard Primary School	Uvwie	Delta	5.555	5.766	0	
-Our Lady High School	Uvwie	Delta	5.547	5.779	0	
-Lakeland Specialist Clinic	Uvwie	Delta	5.547	5.774	0	
 Sure Lawanti	Monguno	Borno	12.386	13.486	2	
 Kursuma Lawanti	Monguno	Borno	12.607	13.621	2	
 Laikbari	Guzamala	Borno	12.960	13.263	2	
@@ -468,7 +463,6 @@ Moworam Lawan Bukar Aisami	Guzamala	Borno	12.723	13.273	2
 Zarmari Lariri	Guzamala	Borno	12.776	13.362	2	
 La Aliri Moduri	Nganzai	Borno	12.642	13.264	2	
 Lambamari Bukar Aisami	Nganzai	Borno	12.576	13.369	2	
-Larger Than Dev. Foundation	Yenegoa	Bayelsa	4.937	6.322	0	
 Lawanti	Konduga	Borno	11.668	13.213	2	
 Lawan Umarti	Konduga	Borno	11.599	12.977	2	
 Ajiri Lawanti	Konduga	Borno	11.661	13.115	2	
@@ -476,12 +470,6 @@ Laujeri Bulama Ba Ale	Jere	Borno	11.722	13.283	2
 Lassa	Konduga	Borno	11.842	12.886	2	
 Lawan Bukarti	Konduga	Borno	11.625	13.027	2	
 Lambua Abbusuri	Kaga	Borno	11.925	12.664	2	
-Antek Medical Laboratories	Obio/Akpor	Rivers	4.831	7.026	0	
-Lado Oil	Alimosho	Lagos	6.540	3.284	0	
-EHA Lab	Sokoto South	Sokoto	13.050	5.246	0	
-Lawyer	Ìkòròdú	Lagos	6.672	3.478	0	
-Law School	Eti Osa	Lagos	6.439	3.427	0	
-Law School	Eti Osa	Lagos	6.439	3.425	0	
 Tunga Laila	Bagudo	Kebbi	11.066	4.318	2	
 Lambar	Wurno	Sokoto	13.205	5.455	2	
 Lambo Magaji	Kware	Sokoto	13.021	5.340	2	
@@ -490,15 +478,7 @@ Tungar Lawal	Bakura	Zamfara	12.330	5.823	2
 Lagau	Wamako	Sokoto	13.072	5.022	2	
 Lambo	Kware	Sokoto	13.052	5.306	2	
 Lambata	Paikoro	Niger	9.511	6.599	2	
-Ijebu Ode Park to Lagos	Ìjẹ̀bú Òde	Ogun	6.811	3.910	0	
-Tinapa Lakeside Hotel	Odukpani	Cross River	5.048	8.316	0	
-Laje Market	Ondo West	Ondo	7.018	4.632	0	
-Independence Layout Sec. School	Enugu North	Enugu	6.433	7.522	0	
-LAUTECH Medical College	Ogbomosho North	Oyo	8.160	4.258	0	
-Lasoju comprehensive high school	Asa	Kwara	8.361	4.432	0	
 Labado	Kala-Balge	Borno	11.896	14.628	2	
-Victory Land College	Ojo	Lagos	6.460	3.167	0	
-PHC Lambara	Shagari	Sokoto	12.635	5.071	0	
 Sabon Layin Baja	Rogo	Kano	11.519	7.682	2	
 Unguwar Malam Ladan	Rogo	Kano	11.489	7.967	2	
 Lakwaya	Gwarzo	Kano	11.986	7.865	2	
@@ -524,7 +504,6 @@ Yan Gero Layin Gidan Sabo Mai Dawa	Gaya	Kano	11.926	9.033	2
 Tudun Wada Layin Gidan Mai Unguwar	Gaya	Kano	11.918	9.025	2	
 Larabar Zango	Ajingi	Kano	11.995	9.168	2	
 Gidan Laila	Madobi	Kano	11.851	8.479	2	
-Zango Layin Gidan Mai Unguwar	Gaya	Kano	11.864	9.001	3	
 Launawa	Dawakin Kudu	Kano	11.895	8.707	2	
 Laraba Basama	Wudil	Kano	11.783	8.818	2	
 Lariski	Bunkure	Kano	11.727	8.578	2	
@@ -533,8 +512,1453 @@ Lafiya Cikin Gari	Takai	Kano	11.485	9.193	2
 Laila	Tudun Wada	Kano	11.350	8.651	2	
 Layin Asbiti	Kibiya	Kano	11.390	8.666	2	
 Lahadi	Tudun Wada	Kano	11.365	8.670	2	
-Lafiya Clinic	Wamako	Sokoto	13.045	5.215	0	
 Lala	Jada	Adamawa	8.734	12.067	2	
+Independence Layout Phase II	Enugu North	Enugu	6.442	7.553	2	
+Kaoura Lahama	Gudu	Sokoto	13.486	4.224	2	
+Lagos-Iyidi	Ndokwa East	Delta	5.489	6.464	2	
+Laderin	Obafemi Owode	Ogun	7.119	3.389	2	
+Lafiya	Jakusko	Yobe	12.149	10.962	2	
+Lasukugbene	Southern Ijaw	Bayelsa	4.533	6.061	2	
+Independence Layout	Enugu North	Enugu	6.443	7.520	2	
+Latula	Atiba	Oyo	8.125	3.763	2	
+Trans Nkissi Layout	Onitsha North	Anambra	6.171	6.800	2	
+Independence Layout	Enugu South	Enugu	6.411	7.517	2	
+Ngwu-Agu Layout Trans-Ekulu	Enugu North	Enugu	6.467	7.469	2	
+Independence Layout	Enugu South	Enugu	6.411	7.514	2	
+New Haven Layout	Enugu North	Enugu	6.454	7.524	2	
+New Haven Layout Extension	Enugu North	Enugu	6.455	7.550	2	
+Adeleye, Lalupon Road	Egbeda	Oyo	7.454	4.047	2	
+Lafiaji Community	Eti Osa	Lagos	6.431	3.560	2	
+Langawa Darin	Nangere	Yobe	11.574	10.980	2	
+Lawan Fannami	Barde	Yobe	12.892	11.017	2	
+Lantaiwa	Tarmua	Yobe	12.315	11.726	2	
+Lawan Musa	Barde	Yobe	12.900	11.054	2	
+Lamisu	Machina	Yobe	13.132	10.180	2	
+Lafiya	Guri	Jigawa	12.780	10.524	2	
+Lafia	Birnin Kudu	Jigawa	11.356	9.386	2	
+Lahodu	Wurno	Sokoto	13.228	5.369	2	
+Kwacciyar Lalle	Bodinga	Sokoto	12.867	5.225	2	
+Lamba Tureta	Tureta	Sokoto	12.685	5.531	2	
+Lajinge	Sabon Birni	Sokoto	13.580	6.147	2	
+Labani	Silame	Sokoto	12.923	4.845	2	
+Lambara	Shagari	Sokoto	12.473	5.180	2	
+Lani Shiba	Koko-Besse	Kebbi	11.644	4.385	2	
+Lailaba	Argungu	Kebbi	12.803	4.456	2	
+Lagga	Birnin Kebbi	Kebbi	12.447	4.420	2	
+Lazuru Tuddai	Lere	Kaduna	10.298	8.658	2	
+Lajawa	Wudil	Kano	11.887	8.886	2	
+Lausu	Rano	Kano	11.523	8.599	2	
+Langel	Tofa	Kano	11.992	8.392	2	
+Lambu	Tofa	Kano	12.000	8.347	2	
+Sabon Layi	Faskari	Katsina	11.648	6.944	2	
+Lakwaya	Gwarzo	Kano	11.970	7.867	2	
+Lafagu Gante	Bagudo	Kebbi	11.122	4.257	2	
+Lapai	Lapai	Niger	8.781	6.675	2	
+Lavun	Lavun	Niger	9.382	5.637	2	
+Lagelu	Lagelu	Oyo	7.512	4.079	2	
+Lafia	Lafia	Nasarawa	8.712	8.800	2	
+Barkin Ladi	Barkin Ladi	Plateau	9.575	8.970	2	
+Langtang South	Langtang South	Plateau	8.584	9.833	2	
+Langtang North	Langtang North	Plateau	9.049	9.819	2	
+Larmurde	Larmurde	Adamawa	9.558	11.704	2	
+Lau	Lau	Taraba	9.194	11.463	2	
+Lakudum	Shani	Borno	10.207	11.921	2	
+A Lawant	Marte	Borno	12.258	13.726	2	
+Lamisula	Maiduguri	Borno	11.847	13.137	2	
+Lafiya Loi Loi	Jakusko	Yobe	12.185	10.982	2	
+Lariski	Kirfi	Bauchi	10.348	10.802	2	
+Karim Lamido	Karim Lamido	Taraba	9.147	10.858	2	
+Lanzai East	Darazo	Bauchi	11.433	10.794	2	
+Lariye	Jama'Are	Bauchi	11.570	9.866	2	
+Lago	Darazo	Bauchi	11.175	10.537	2	
+Dutsen Lawan	Bogoro	Bauchi	9.715	9.531	2	
+Lanzai West	Darazo	Bauchi	11.390	10.832	2	
+Lame	Toro	Bauchi	10.464	9.198	2	
+Kafin Larabawa	Zaki	Bauchi	11.914	10.327	2	
+Lagos Island	Lagos Island	Lagos	6.515	3.491	2	
+Layi	Mobbar	Borno	12.901	12.642	2	
+Unguwar Lalle	Sabon Birni	Sokoto	13.508	6.112	2	
+Lagos Mainland	Lagos Mainland	Lagos	6.493	3.388	2	
+Zaman-Lafia	Maru	Zamfara	11.341	6.432	2	
+Wuro Lawan	Hong	Adamawa	10.131	13.106	2	
+Wuro Lawan	Bali	Taraba	8.106	10.712	2	
+Wuro Lawal	Jada	Adamawa	8.544	12.408	2	
+Wuro Lainde	Song	Adamawa	9.761	12.651	2	
+Wuro Lainde	Fufore	Adamawa	9.129	12.242	2	
+Wuro Lainde	Mayo-Belwa	Adamawa	9.117	12.058	2	
+Wuro Labei	Fufore	Adamawa	9.507	12.688	2	
+Wuro Bornu Ladde	Ardo-Kola	Taraba	8.815	11.324	2	
+Ungwan Lagwada	Kafur	Katsina	11.680	7.647	2	
+Ungwan Labbo	Arewa Dandi	Kebbi	12.493	3.905	2	
+Unguwa Lalle	Sabon Birni	Sokoto	13.585	6.105	2	Ungwa Lalle
+Tungan Lafiya	Agwara	Niger	10.824	4.650	2	
+Tungan Lafiya	Ngaski	Kebbi	10.695	4.804	2	
+Tunga Lawa	Argungu	Kebbi	12.669	4.397	2	
+Taka Lafia	Suru	Kebbi	11.960	4.082	2	Takalafiya
+Shiroma Ladu	Kafur	Katsina	11.400	7.600	2	
+Serikin Ladan	Gwagwalada	FCT Abuja	9.127	7.148	2	
+Sarkin Lambu	Safana	Katsina	12.424	7.413	2	
+Sabon-Layilasan	Birnin Gwari	Kaduna	11.297	6.984	2	
+Sabon Layi Jessu	Balanga	Gombe	9.733	11.767	2	
+Sabon Layi Baja	Rogo	Kano	11.519	7.682	2	
+Sabon Layi	Malumfashi	Katsina	11.758	7.612	2	
+Sabon Layi	Billiri	Gombe	9.903	11.095	2	
+Sabon Layi	Jada	Adamawa	8.688	12.028	2	
+Sabon Layi	Mayo-Belwa	Adamawa	8.684	11.919	2	
+Sabon Layi	Ganye	Adamawa	8.613	12.010	2	
+Sabon Layi	Bali	Taraba	8.527	11.399	2	
+Sabon-Layi	Jada	Adamawa	8.484	12.031	2	Sabon Layi|SabonLayi
+Sabon Layi	Jada	Adamawa	8.454	12.088	2	
+Rawo	Shiroro	Niger	9.871	6.311	2	Lawo
+Lampamu	Toto	Nasarawa	8.319	7.195	2	Rackpam|Rakpam
+Pasa-Lamba	Asa	Kwara	8.615	4.408	2	Pasa Lamba
+Oseyawo-Lalekan	Itesiwaju	Oyo	8.312	3.482	2	Oseyawo Lalekan
+Ojubu-Latilewa	Imeko Afon	Ogun	7.404	3.046	2	Ojubu Latilewa
+Obele	Mushin	Lagos	6.517	3.350	2	Lafia
+Multe Lawanti	Chibok	Borno	10.892	12.645	2	
+Mashi Lawan	Ardo-Kola	Taraba	8.924	11.265	2	
+Mana-Lakware	Yorro	Taraba	9.069	11.676	2	Mannang
+Lallo	Bagudo	Kebbi	11.651	3.611	2	Lollo|Lolo
+Lezin Lafia	Nasarawa Egon	Nasarawa	8.733	8.383	2	
+Lowe	Fika	Yobe	11.328	11.083	2	Lahe|Lewe
+Layi Russo	Jos North	Plateau	9.955	8.882	2	
+Layin Minista	Malumfashi	Katsina	11.683	7.517	2	
+Layin Damo	Kafur	Katsina	11.620	7.628	2	
+Layin Barayu	Malumfashi	Katsina	11.776	7.601	2	
+Layi	Shiroro	Niger	9.876	6.496	2	
+Layeri	Asa	Kwara	8.525	4.419	2	
+Layemi	Ifo	Ogun	6.796	3.323	2	
+Lawrenti	Bayo	Borno	10.572	11.659	2	
+Laworo	Irele	Ondo	6.525	4.921	2	
+Lawore	Afijio	Oyo	7.802	3.851	2	
+Lawore	Ibarapa East	Oyo	7.502	3.494	2	
+Lawo	Shiroro	Niger	9.768	6.386	2	
+Lawmu Umunze	Orumba South	Anambra	5.976	7.244	2	
+Laru	Demsa	Adamawa	9.406	11.934	2	Lawaru|Laweru
+Lawanti	Borsari	Yobe	12.633	11.654	2	
+Lawani Oguntayo	Apapa	Lagos	6.467	3.367	2	Oguntayo
+Lawan Alalubosa	Ibarapa North	Oyo	7.612	3.293	2	LawanAlalubosa|Lawani Alalubosa|LawaniAlalubosa
+Lawan	Teungo	Adamawa	7.900	11.533	2	
+Lawan	Abeokuta North	Ogun	7.239	3.284	2	
+Laute	Yunusari	Yobe	12.911	11.806	2	
+Lauru	Misau	Bauchi	11.474	10.464	2	
+Lau Habe	Lau	Taraba	9.217	11.288	2	
+Lau Fulani	Lau	Taraba	9.222	11.301	2	
+Lauce	Maru	Zamfara	11.433	6.495	2	
+Laubas Kazin	Yorro	Taraba	8.929	11.490	2	
+Lau	Monguno	Borno	12.506	13.594	2	
+Latoro	Shagamu	Ogun	6.750	3.600	2	
+Latiko	Edati	Niger	8.934	6.065	2	
+Laticaltog	Shongom	Gombe	9.906	11.247	2	
+Latayo	Ido	Oyo	7.559	3.766	2	
+Lata	Gwaram	Jigawa	11.067	9.967	2	
+Lata	Pategi	Kwara	8.682	5.472	2	
+Lasum	Teungo	Adamawa	8.057	12.012	2	
+Lasukwe	Ussa	Taraba	7.099	10.153	2	
+Lasole	Aiyedade	Osun	7.579	4.374	2	Lashole
+Lasoju	Asa	Kwara	8.363	4.438	2	
+Lasna	Moro	Kwara	8.756	4.659	2	
+Laskuri	Mafa	Borno	11.808	13.386	2	
+Lashin	Shiroro	Niger	9.756	6.626	2	
+Lashanbi	Bosso	Niger	9.559	6.256	2	Lashami
+Lasegba	Isokan	Osun	7.264	4.162	2	
+Lasanta	Kagarko	Kaduna	9.365	7.350	2	
+Lasna	Moro	Kwara	8.961	4.744	2	Lasaki
+Laroniyan	Oyo East	Oyo	7.840	4.014	2	
+Laro	Jada	Adamawa	8.814	12.791	2	
+Lariski	Abadam	Borno	13.481	13.022	2	
+Lariski	Geidam	Yobe	12.766	11.779	2	
+Lariski	Gujba	Yobe	11.223	12.077	2	
+Lariski	Askira-Uba	Borno	10.691	12.892	2	
+Lariae	Jama'Are	Bauchi	11.583	9.850	2	
+Larh	Hong	Adamawa	10.409	12.838	2	
+Lareski	Biu	Borno	10.747	11.768	2	
+Larende	Gusau	Zamfara	11.680	6.576	2	Larendei
+Laraski	Biu	Borno	10.778	12.029	2	
+Laraski	Hawul	Borno	10.507	12.238	2	
+Larab	Yamaltu/Deba	Gombe	10.138	11.368	2	
+Lapiti	Afijio	Oyo	7.764	3.986	2	
+Lapite	Akinyele	Oyo	7.564	3.910	2	
+Ladipo	Abeokuta North	Ogun	7.313	3.071	2	Lapido
+Lapero	Jada	Adamawa	8.500	12.022	2	
+Lapeleko	Ewekoro	Ogun	6.922	3.206	2	
+Lapatidu	Fufore	Adamawa	8.847	12.387	2	
+Lapanpa	Ona Ara	Oyo	7.231	4.054	2	
+Lapaho	Iwajowa	Oyo	7.948	3.228	2	
+Lapade	Ido	Oyo	7.471	3.816	2	
+Laonu	Moro	Kwara	8.668	4.441	2	
+Laomi	Ifelodun	Kwara	8.483	5.300	2	
+Laogun	Oluyole	Oyo	7.268	3.999	2	
+Lanzan	Teungo	Adamawa	7.617	11.783	2	
+Lanzai	Darazo	Bauchi	11.434	10.806	2	
+Lanwa	Moro	Kwara	8.748	4.750	2	
+Lantewa	Tarmua	Yobe	12.265	11.733	2	
+Lanpo	Darazo	Bauchi	11.417	10.800	2	
+Lalate	Ibarapa East	Oyo	7.596	3.450	2	Lanlate
+Lankyaa	Konshisha	Benue	7.014	8.760	2	
+Lankpeshi	Ogori/Magongo	Kogi	7.451	6.112	2	
+Laniyan	Yewa North	Ogun	7.310	2.949	2	
+Laniya	Oyo West	Oyo	7.851	3.878	2	
+Lanite	Yewa North	Ogun	7.267	2.962	2	
+Lani Olaogun	Ifo	Ogun	6.833	3.117	2	
+Lani-Maisamua	Koko-Besse	Kebbi	11.544	4.419	2	
+Lanike	Ori Ire	Oyo	8.097	4.101	2	
+Lani-Kango	Koko-Besse	Kebbi	11.555	4.416	2	
+Langyal	Tofa	Kano	11.992	8.400	2	
+Lango	Bungudu	Zamfara	12.350	6.583	2	
+Langire	Girei	Adamawa	9.413	12.499	2	
+Langire	Yola North	Adamawa	9.319	12.267	2	
+Langila	Ibarapa East	Oyo	7.502	3.452	2	
+Langbin	Ido	Oyo	7.503	3.714	2	
+Langbata	Edati	Niger	8.961	5.901	2	
+Langba	Katcha	Niger	9.085	6.217	2	
+Langawa	Nangere	Yobe	11.603	11.025	2	
+Langawa	Nangere	Yobe	11.595	11.024	2	
+Lancawa	Fika	Yobe	11.559	11.251	2	Langawa
+Langai	Mangu	Plateau	9.627	9.215	2	
+Langa	Karim Lamido	Taraba	9.238	10.953	2	
+Lando	Alkaleri	Bauchi	10.271	10.349	2	
+Lancika	Edati	Niger	8.931	5.890	2	
+Lanare	Jada	Adamawa	8.792	12.151	2	
+Lanapo	Zing	Taraba	8.858	11.682	2	
+Lanam	Wukari	Taraba	7.929	10.002	2	
+Lana-Egun	Ona Ara	Oyo	7.155	4.050	2	Lana Egun
+Lanadu	Mayo-Belwa	Adamawa	8.998	11.903	2	
+Lamuyan	Lagelu	Oyo	7.581	4.095	2	
+Lamuregun	Egbeda	Oyo	7.402	4.028	2	
+Lamurde Kofa	Song	Adamawa	9.733	12.950	2	
+Lamurde	Mubi North	Adamawa	10.247	13.257	2	
+Lamurde	Fufore	Adamawa	9.048	12.258	2	Legabarudu
+Lamuntana	Malumfashi	Katsina	11.922	7.773	2	
+Lamu Laje	Ondo West	Ondo	6.994	4.682	2	
+Lamugu	Billiri	Gombe	9.930	11.120	2	
+Lamudifa	Odigbo	Ondo	6.685	4.899	2	
+Lamude	Jada	Adamawa	8.783	12.604	2	
+Lamu	Fufore	Adamawa	8.785	12.475	2	
+Lamsel	Jada	Adamawa	8.554	12.155	2	
+Lamma	Zing	Taraba	8.805	11.809	2	
+Lamja	Mayo-Belwa	Adamawa	8.910	12.004	2	Lamia
+Lamja	Jada	Adamawa	8.877	12.175	2	
+Lamisuri	Gujba	Yobe	11.461	12.075	2	
+Lamini	Ido	Oyo	7.501	3.823	2	
+Lamingel	Jos East	Plateau	9.938	9.138	2	
+Laminga	Nasarawa	Nasarawa	8.683	7.810	2	lamynga
+Lamija	Epe	Lagos	6.519	3.920	2	
+Lambuti	Bama	Borno	11.529	14.142	2	
+Lambo	Ewekoro	Ogun	7.051	3.282	2	
+Lambayi	Maiha	Adamawa	10.063	13.146	2	
+Lamba Shawari	Dukku	Gombe	10.765	10.563	2	
+Lamba Sali	Nafada	Gombe	11.201	11.094	2	
+Lamba Saingel	Dukku	Gombe	10.780	10.574	2	
+Lambara	Shagari	Sokoto	12.639	5.073	2	
+Lambadisa	Fika	Yobe	11.302	11.214	2	Lamba Disa
+Lamba	Ganjuwa	Bauchi	10.619	9.791	2	
+Lamba	Teungo	Adamawa	7.933	11.400	2	
+Lamala	Akinyele	Oyo	7.583	3.962	2	
+Laluwe	Abeokuta North	Ogun	7.215	3.167	2	
+Lalupon	Lagelu	Oyo	7.453	4.068	2	
+Laloko	Obafemi Owode	Ogun	6.981	3.464	2	
+Lalle	Sanga	Kaduna	9.187	8.262	2	Mutum Dubu
+Laliro	Hawul	Borno	10.338	12.202	2	
+Lalin	Mikang	Plateau	9.071	9.684	2	
+Leleye	Abeokuta North	Ogun	7.214	3.163	2	Laleye
+Lalere	Atiba	Oyo	8.081	3.864	2	
+Lalere	Akinyele	Oyo	7.598	4.025	2	
+Lalemu	Dan Musa	Katsina	12.203	7.348	2	
+Lalemo	Surulere	Oyo	8.014	4.353	2	
+Lalemi	Moro	Kwara	8.794	4.472	2	
+Lalekan	Atisbo	Oyo	8.309	3.342	2	
+Lalashi	Maigatari	Jigawa	12.701	9.539	2	
+Lala	Ibarapa East	Oyo	7.588	3.501	2	
+Lala	Ewekoro	Ogun	6.912	3.108	2	
+Lakwoka	Akko	Gombe	9.994	11.194	2	
+Lakweme	Kaltungo	Gombe	9.720	11.439	2	
+Lakushi-Makat	Shendam	Plateau	8.571	9.567	2	
+Lakundum	Shani	Borno	10.183	11.963	2	
+Lakun	Surulere	Oyo	8.113	4.476	2	
+Lakumna Fari	Guyuk	Adamawa	9.898	11.987	2	
+Lakumna	Guyuk	Adamawa	9.878	11.992	2	
+Laksheri	Hawul	Borno	10.429	12.243	2	
+Lakpanti	Zing	Taraba	8.941	11.876	2	
+Lakpa	Konshisha	Benue	7.091	8.780	2	
+Lakotan	Ede South	Osun	7.646	4.393	2	
+Lakolako	Ovia South-West	Edo	6.579	5.181	2	Kaloko
+Lakoda Hill	Illela	Sokoto	13.791	5.387	2	
+Lakoda	Illela	Sokoto	13.788	5.388	2	
+Laketu	Lagelu	Oyo	7.591	4.121	2	
+Lakeri	Hawul	Borno	10.598	12.031	2	
+Lakelambu	Billiri	Gombe	9.922	11.086	2	
+Lakehinde	Obafemi Owode	Ogun	7.145	3.654	2	
+Lakawa	Lau	Taraba	9.203	11.294	2	
+Lakau	Kirfi	Bauchi	10.343	10.785	2	
+Lakati	Shelleng	Adamawa	9.703	12.186	2	
+Lakare	Fufore	Adamawa	9.201	12.824	2	
+Lakare	Yola North	Adamawa	9.172	12.483	2	
+Lajuwon	Akinyele	Oyo	7.533	3.967	2	
+Laji-Sapati	Asa	Kwara	8.257	4.512	2	Laji Sapati|LajiSapati
+Laji Osun	Asa	Kwara	8.262	4.513	2	
+Lajide	Ori Ire	Oyo	8.552	4.264	2	
+Laji	Asa	Kwara	8.283	4.500	2	
+Lajeda	Shani	Borno	10.284	12.161	2	
+Lajawa	Wudil	Kano	11.873	8.924	2	
+Laitapi	Paikoro	Niger	9.406	6.788	2	
+Laini	Shanono	Kano	12.005	8.097	2	
+Lainde Wudere	Jada	Adamawa	8.542	12.206	2	
+Lainde Modijam	Maiha	Adamawa	10.055	13.160	2	
+Lainde Jalo	Fufore	Adamawa	9.063	12.312	2	
+Lainde Goro	Bali	Taraba	8.592	11.683	2	
+Lainde Fulani	Mayo-Belwa	Adamawa	8.973	12.131	2	
+Lainde Dama	Shelleng	Adamawa	9.781	12.072	2	
+Lainde Bajanle	Mubi South	Adamawa	10.168	13.226	2	
+Lainde	Gombi	Adamawa	10.155	12.741	2	
+Lainde	Song	Adamawa	9.732	12.987	2	
+Lainde	Fufore	Adamawa	9.144	12.326	2	
+Lainde	Fufore	Adamawa	8.848	12.466	2	
+Lainde	Ardo-Kola	Taraba	8.768	11.372	2	
+Lailaba	Argungu	Kebbi	12.766	4.421	2	Lalaiba|Lelaba
+Lahese	Ori Ire	Oyo	8.450	4.109	2	
+Lahadin Kara	Gwarzo	Kano	11.833	7.950	2	
+Laguru	Ganjuwa	Bauchi	10.912	10.034	2	
+Lagunju	Aiyedade	Osun	7.183	4.083	2	
+Lagunju	Oluyole	Oyo	7.159	3.900	2	
+Lagunassara	Askira-Uba	Borno	10.659	13.144	2	
+Lagun	Lagelu	Oyo	7.540	4.091	2	
+Lagumo	Magama	Niger	10.400	5.176	2	
+Lague	Michika	Adamawa	10.469	13.444	2	
+Lago	Darazo	Bauchi	11.184	10.488	2	
+Lagga	Gbako	Niger	9.531	6.076	2	
+Lagbedu	Surulere	Oyo	7.972	4.417	2	
+Lagbe	Ipokia	Ogun	6.794	2.746	2	
+Lagbayi	Oluyole	Oyo	7.238	3.823	2	
+Lagbaka	Aiyedade	Osun	7.569	4.322	2	
+Lagbaja	Aiyedade	Osun	7.186	4.286	2	
+Lagbaja	Moro	Kwara	8.913	4.672	2	
+Lagbada	Aiyedade	Osun	7.260	4.253	2	
+Laganso	Jada	Adamawa	8.748	12.359	2	
+Lagan	Ijebu North	Ogun	7.026	3.904	2	
+Lagaiye	Ibarapa East	Oyo	7.660	3.377	2	
+Lagada	Pategi	Kwara	8.723	5.714	2	
+Lafunke	Ewekoro	Ogun	7.041	3.202	2	
+Lafu	Gurara	Niger	9.326	7.091	2	
+Lafiyaru	Darazo	Bauchi	11.000	10.437	2	
+Lafiyari	Ganjuwa	Bauchi	10.535	9.925	2	
+Lafiya	Jakusko	Yobe	12.183	10.925	2	
+Lafiya	Misau	Bauchi	11.435	10.488	2	
+Lafiya	Kudan	Kaduna	11.245	7.746	2	
+Lafiya	Dukku	Gombe	10.784	10.820	2	
+Lafiya	Kirfi	Bauchi	10.371	10.677	2	
+Lafiyan Bure	Alkaleri	Bauchi	9.990	10.488	2	
+Lafikun	Oluyole	Oyo	7.272	3.934	2	
+Lafia Mbaka	Gwagwalada	FCT Abuja	9.012	7.047	2	
+Lafian Kpada	Lapai	Niger	8.693	6.686	2	Lafia Kpada
+Lafiagi	Katcha	Niger	9.383	6.458	2	
+Lafiagi	Mokwa	Niger	9.250	4.967	2	
+Lafiagi	Katcha	Niger	9.160	6.195	2	
+Lafagi	Agaie	Niger	9.087	6.506	2	Lafiagi
+Lafiagi	Katcha	Niger	9.069	6.219	2	
+Lafiagi	Katcha	Niger	8.978	6.248	2	
+Lafiagi	Katcha	Niger	8.893	6.155	2	
+Lafiawo	Nafada	Gombe	11.118	11.218	2	Lafia Awa
+Lafia	Guri	Jigawa	12.811	10.543	2	
+Lafia	Katagum	Bauchi	11.763	10.072	2	
+Lafia	Yamaltu/Deba	Gombe	10.546	11.572	2	
+Lafia	Balanga	Gombe	9.961	11.806	2	
+Lafia	Dekina	Kogi	7.417	7.321	2	Lafa
+Lafenwa	Yewa North	Ogun	7.159	3.050	2	
+Lafenwa	Ado Odo/Ota	Ogun	6.626	3.204	2	
+Lafagu	Bagudo	Kebbi	11.166	4.314	2	
+Laduntan	Ona Ara	Oyo	7.262	4.093	2	
+Laduba	Asa	Kwara	8.384	4.571	2	
+Ladokun	Ori Ire	Oyo	8.239	4.226	2	
+Lado	Egbedore	Osun	7.829	4.422	2	
+Ladipo	Oluyole	Oyo	7.182	3.910	2	
+Lading	Hong	Adamawa	10.239	12.953	2	
+Ladimeji	Asa	Kwara	8.551	4.436	2	
+Laderu	Aiyedade	Osun	7.256	4.245	2	
+Laderu	Aiyedade	Osun	7.186	4.261	2	
+Ladele	Atisbo	Oyo	8.433	3.268	2	
+Ladegbe	Atiba	Oyo	7.931	3.996	2	
+Ladega	Epe	Lagos	6.521	3.678	2	
+Ladeba	Epe	Lagos	6.527	3.714	2	Labada|Labada Ebute|Ladaba Oke|Ledaba
+Lade	Katcha	Niger	9.473	6.208	2	
+Ladanu	Ogo Oluwa	Oyo	7.942	4.166	2	
+Ladang	Augie	Kebbi	12.867	4.483	2	
+Ladan	Gurara	Niger	9.364	6.975	2	Bonu
+Laburo	Ona Ara	Oyo	7.272	4.106	2	
+Labunawa	Tudun Wada	Kano	11.353	8.770	2	
+Labukau	Yamaltu/Deba	Gombe	10.284	11.389	2	
+Labua	Demsa	Adamawa	9.638	12.097	2	
+Lamsani	Tangaza	Sokoto	13.415	4.848	2	Labsani
+Labo	Fufore	Adamawa	8.882	12.734	2	
+Labintan	Moro	Kwara	8.724	4.251	2	
+Labinji	Babura	Jigawa	12.701	8.954	2	
+Labekolo	Akinyele	Oyo	7.521	3.923	2	
+Labe	Mafa	Borno	12.066	13.412	2	
+Labe	Ushongo	Benue	7.041	8.974	2	
+Labbare	Maiha	Adamawa	10.061	13.110	2	
+Labbare	Fufore	Adamawa	9.053	12.451	2	
+Labawo	Obafemi Owode	Ogun	7.017	3.367	2	
+Labari	Shiroro	Niger	10.344	6.660	2	
+Labare	Ganye	Adamawa	8.251	12.139	2	
+Labare	Teungo	Adamawa	7.909	11.595	2	
+Labare	Teungo	Adamawa	7.728	11.945	2	
+Labar	Igabi	Kaduna	10.900	7.570	2	
+Labani	Silame	Sokoto	12.933	4.817	2	
+Kwakwa Laji	Riyom	Plateau	9.514	8.615	2	
+Kera Laji	Shani	Borno	10.042	12.048	2	
+Lajere	Fune	Yobe	11.980	11.440	2	Jajere
+Ilasa	Amuwo Odofin	Lagos	6.415	3.284	2	Elachi|Ilashe|Lashe
+Igbo-Lakonu	Oyo West	Oyo	7.859	3.855	2	Igbo Lakonu|IgboLakonu
+Labekiri	Ikwerre	Rivers	4.906	6.885	2	Igbekiri-Isiokpo|Igbekirisiokpo
+Ibu Lawe	Obafemi Owode	Ogun	7.083	3.533	2	
+Hamma Lamu	Shani	Borno	10.065	12.049	2	
+Gidan Sarkin Lau	Igabi	Kaduna	10.551	7.314	2	
+Gidan Labo	Sabuwa	Katsina	11.350	7.083	2	
+Gidan Dan Lami	Kiru	Kano	11.414	8.158	2	Dan Lami (1)
+Garin Lanotali	Yamaltu/Deba	Gombe	10.262	11.333	2	
+Garin Lamlami	Gassol	Taraba	8.535	10.964	2	
+Garin Lamido Shanu	Nangere	Yobe	11.789	11.209	2	
+Garin Lamido Ade	Potiskum	Yobe	11.713	11.152	2	
+Garin Lambata	Gombi	Adamawa	10.173	12.748	2	
+Garin La	Bali	Taraba	8.324	11.073	2	
+Gang Larani	Ganye	Adamawa	8.331	12.214	2	
+Feren Lahi	Jada	Adamawa	8.748	12.037	2	
+Eruna Lagbe	Ogbaru	Anambra	6.117	6.783	2	
+Dogon-Lamba	Magama	Niger	10.181	4.731	2	
+Dan Lawal	Ikara	Kaduna	11.212	8.179	2	
+Dan Ladi	Sule Tankakar	Jigawa	12.533	9.254	2	
+Dan Ladi	Danja	Katsina	11.400	7.700	2	
+Dabage	Dange-Shuni	Sokoto	12.750	5.450	2	Dabagi Lafia
+Buro Lawal	Dukku	Gombe	10.800	10.682	2	
+Barde Lanka	Yorro	Taraba	8.885	11.418	2	
+Ashar Lafia	Maru	Zamfara	12.225	6.324	2	
+Ago Lawrence	Irele	Ondo	6.483	5.033	2	
+Agama Lafia	Faskari	Katsina	11.574	6.905	2	
+Abule Lawal Tapa	Ibarapa North	Oyo	7.589	3.172	2	
+Aba-Ladunni	Surulere	Oyo	8.082	4.377	2	Aba Ladunni
+New Lagos	Surulere	Lagos	6.503	3.364	2	
+Lambe	Ifo	Ogun	6.704	3.348	2	
+Lambienu	Afijio	Oyo	7.721	3.823	2	
+Lakanpo	Afijio	Oyo	7.722	3.832	2	
+Lagun	Afijio	Oyo	7.712	3.963	2	
+Lakanle	Afijio	Oyo	7.708	3.801	2	
+Oke-Lagan	Afijio	Oyo	7.707	3.755	2	Oke Lagan|OkeLagan
+Lalere	Afijio	Oyo	7.691	3.770	2	
+Ladunni	Ido	Oyo	7.563	3.764	2	
+Latinwo	Akinyele	Oyo	7.573	3.846	2	
+Laoye	Akinyele	Oyo	7.583	3.991	2	
+Laro	Akinyele	Oyo	7.556	3.933	2	
+Labua	Akinyele	Oyo	7.533	3.989	2	
+Layan	Lagelu	Oyo	7.514	3.996	2	
+Lautai	Minjibir	Kano	12.228	8.694	2	
+Laminga	Kokona	Nasarawa	8.937	7.969	2	
+Langalanga	Tsafe	Zamfara	12.016	6.894	2	
+Jan lamba	Hong	Adamawa	10.307	13.127	2	
+Izge-Lamsu	Gwoza	Borno	10.929	13.303	2	
+Langa Jiri	Abadam	Borno	13.621	13.342	2	
+Lawrencekiri	Akuku Toru	Rivers	4.337	6.569	2	
+Ladesuwa	Shagamu	Ogun	6.836	3.620	2	
+Ladekin	Epe	Lagos	6.653	3.922	2	
+Lagbarun	Odogbolu	Ogun	6.701	3.908	2	
+Labori	Shagamu	Ogun	6.738	3.526	2	
+Lafalu	Obafemi Owode	Ogun	6.929	3.507	2	
+Ago-Lagbawo	Idanre	Ondo	7.029	5.108	2	
+Labuwa-Odole	Idanre	Ondo	7.047	5.272	2	
+Lalupon	Ọ̀wọ̀	Ondo	7.187	5.500	2	
+Lafiaji	Ile Oluji/Okeigbo	Ondo	7.222	4.995	2	
+Ladokun	Ọ̀wọ̀	Ondo	7.266	5.485	2	
+Gondong Lala	Shelleng	Adamawa	10.008	12.064	2	
+Lawulum	Shani	Borno	10.192	12.023	2	
+Lafia	Shani	Borno	10.215	12.093	2	
+Lagingin	Shani	Borno	10.234	12.101	2	
+Labigi	Shani	Borno	10.312	12.187	2	
+Lakorun	Shani	Borno	10.322	12.188	2	
+Lagani	Hawul	Borno	10.322	12.063	2	
+Lamdi	Hawul	Borno	10.485	12.051	2	
+Lanai	Gwer East	Benue	7.280	8.470	2	
+Labe	Markurdi	Benue	7.699	8.468	2	
+Langawa	Nangere	Yobe	11.641	10.988	2	
+Ungwan Labo	Arewa Dandi	Kebbi	12.511	3.918	2	
+Ladan Camp	Irele	Ondo	6.557	4.914	2	
+Lallu	Baure	Katsina	12.753	8.921	2	
+Tsamia Lafia	Baure	Katsina	12.676	8.863	2	
+Lauya	Babura	Jigawa	12.546	8.816	2	
+Lambar Kunchi	Bichi	Kano	12.339	8.150	2	
+Lautai	Garki	Jigawa	12.314	8.773	2	
+Larbawa Kugur	Gezawa	Kano	12.059	8.778	2	
+Farin Laki	Dutsi	Katsina	12.917	8.132	2	
+Laure	Bindawa	Katsina	12.668	7.826	2	
+Sabon Lai	Musawa	Katsina	12.116	7.708	2	
+Laimana	Shiroro	Niger	10.410	6.772	2	
+Sabon Layi	Birnin Gwari	Kaduna	10.837	6.712	2	
+Gidan Lahi	Binji	Sokoto	13.158	4.852	2	
+Lalle	Mariga	Niger	10.229	5.962	2	
+Lafchedi	Gwadabawa	Sokoto	13.467	5.211	2	
+Tugan Lafia	Borgu	Niger	10.835	4.301	2	
+Lapar	Ngaski	Kebbi	10.371	4.594	2	
+Lafani-Tudu	Illela	Sokoto	13.774	5.407	2	
+Lamida	Bakori	Katsina	11.760	7.301	2	
+Sabon Layi Nasarawa	Kafur	Katsina	11.732	7.866	2	
+Layawa	Kafur	Katsina	11.702	7.875	2	
+Sabon Layi	Kafur	Katsina	11.669	7.816	2	
+Sabon Laye	Faskari	Katsina	11.571	7.019	2	
+Ladan	Bakori	Katsina	11.551	7.360	2	
+Ungwan Larabi	Danja	Katsina	11.501	7.446	2	
+Ungwan Lallau	Rogo	Kano	11.393	7.747	2	
+Ungwan Lasanawa	Funtua	Katsina	11.370	7.324	2	
+Dan Ladi	Danja	Katsina	11.326	7.688	2	
+Ungwan Mai Laya	Funtua	Katsina	11.299	7.340	2	
+Ungwan Lambu	Giwa	Kaduna	11.176	7.419	2	
+Ungwan Labaran	Sabon Gari	Kaduna	11.170	7.755	2	
+Ungwan Labaran	Zaria	Kaduna	11.018	7.785	2	
+Labo	Suru	Kebbi	11.771	4.157	2	
+Laboloseigha	Burutu	Delta	5.228	5.637	2	
+Lamba Daji	Akko	Gombe	10.141	10.888	2	
+Ladaka	Gusau	Zamfara	11.686	6.576	2	
+Ungwan Laya	Maru	Zamfara	11.456	6.388	2	
+Lofamagbene	Southern Ijaw	Bayelsa	4.657	5.596	2	Lafamagbene
+Lasotu	Southern Ijaw	Bayelsa	4.588	5.646	2	
+Unguwan Lato	Tudun Wada	Kano	11.388	8.767	2	
+Saran-Ladan	Tudun Wada	Kano	11.211	8.515	2	
+Ungwar Lamu	Doguwa	Kano	11.144	8.545	2	
+Lagos Iyede-Ame	Ndokwa East	Delta	5.481	6.396	2	
+Lagos-Iyidi	Ndokwa East	Delta	5.472	6.449	2	
+Afiawa Lake	Isoko South	Delta	5.354	6.306	2	
+Layer-Gbene	Patani	Delta	5.218	6.127	2	
+Oduophori In-Land	Patani	Delta	5.145	6.059	2	Ogele|Uduophori
+Awka South	Awka South	Anambra	6.207	7.068	2	Agbegbe Ijoba Ibile Guusu Awka|Awka Sud|Awka ta Kudu|Lam Awka|Ndida Awka
+Ife South	Ife South	Osun	7.200	4.600	2	Agbegbe Ijoba Ibile Guusu Ife|Ife SouthLGA|Ife Sud|Ife ta Kudu|Lam Ife
+Idemili South	Idemili South	Anambra	6.048	6.950	2	Agbegbe Ijoba Ibile Guusu Idemili|Idemili Sud|Idemili ta Kudu|Lam Idemili
+Nnewi South	Nnewi South	Anambra	5.933	6.923	2	Agbegbe Ijoba Ibile Guusu Nnewi|Lam Nnewi|Nnewi Sud|Nnewi ta Kudu
+Aniocha South	Aniocha South	Delta	6.128	6.483	2	Agbegbe Ijoba Ibile Guusu Aniocha|Aniocha Sud|Aniocha ta Kudu|Lam Aniocha
+Ika South	Ika South	Delta	6.171	6.129	2	Ika Sud|Ika ta Kudu|Lam Ika
+Isoko South	Isoko South	Delta	5.382	6.214	2	Isoco Meridional|Isoko Sud|Isoko ta Kudu|Lam Isoko
+Oshimili South	Oshimili South	Delta	6.092	6.682	2	Lam Oshimili|Oshimili Sud|Oshimili ta Kudu|nan ao xi mi li
+Ughelli South	Ughelli South	Delta	5.343	5.951	2	Lam Ughelli|Ughelli Sud|Ughelli ta Kudu|Ughilli South
+Warri South	Warri South	Delta	5.613	5.611	2	Agbegbe Ijoba Ibile Guusu Warri|Lam Warri|Warri Sud|Warri ta Kudu
+Lavun	Lavun	Niger	9.273	5.683	2	Agbegbe Ijoba Ibile Lavun|la wen
+Lagelu	Lagelu	Oyo	7.495	4.047	2	
+Umuahia South	Umuahia South	Abia	5.462	7.440	2	Agbegbe Ijoba Ibile Guusu Umuahia|Lam Umuahia|Pivdenna Umuakhija|Umuahia Sud|Umuahia ta Kudu
+Ovia South-West	Ovia South-West	Edo	6.396	5.272	2	Ovia South West|Ovia Sud Ouest|Ovia ta Kudu maso Yamma|Se-lam Ovia
+Lafia	Lafia	Nasarawa	8.640	8.700	2	
+Talata Mafara	Talata Mafara	Zamfara	12.384	6.054	2	Agbegbe Ijoba Ibile Talata Mafara|Talata Mafara Local Government Area|Talata-Mafara|ta la ta ma fa la
+Babura	Babura	Jigawa	12.614	8.859	2	Agbegbe Ijoba Ibile Babura|Babura Local Government Area|ba bu la
+Barkin Ladi	Barkin Ladi	Plateau	9.550	8.934	2	Agbegbe Ijoba Ibile Barkin Ladi|B'ladi|Barkin Ladi Local Government Area
+Langtang South	Langtang South	Plateau	8.602	9.810	2	Agbegbe Ijoba Ibile Guusu Langtang|Lam Langtang|Langtang South Local Government Area|Langtang Sud|Langtang ta Kudu|Langt
+Akure South	Akure South	Ondo	7.205	5.188	2	Agbegbe Ijoba Ibile Guusu Akure|Akure South Local Government Area|Akure Sud|Akure ta Kudu|Lam Akure|jnwb akwr
+Esan South-East	Esan South-East	Edo	6.587	6.476	2	Esan South East|Esan South East Local Government Area|Esan Sud Est|Esan ta Kudu maso Gabas|Tang-lam Esan
+Onitsha South	Onitsha South	Anambra	6.127	6.777	2	Agbegbe Ijoba Ibile Guusu Onitsha|Lam Onitsha|Onitsha South Local Government Area|Onitsha Sud|Onitsha ta Kudu|Onitsha-Su
+Calabar South	Calabar South	Cross River	4.864	8.336	2	Calabar South Local Government Area|Calabar Sud|Kalabar ta Kudu|Lam Calabar
+Karim Lamido	Karim Lamido	Taraba	9.222	10.865	2	Karim Lamido Local Government Area
+Lau	Lau	Taraba	9.187	11.420	2	Agbegbe Ijoba Ibile Lau|Lau Local Government Area|Law|lw  nayjrya
+Mubi South	Mubi South	Adamawa	10.187	13.396	2	Agbegbe Ijoba Ibile Guusu Mubi|Lam Mubi|Mubi South Local Government Area|Mubi Sud|Mubi ta Kudu
+Larmurde	Larmurde	Adamawa	9.570	11.718	2	Lamurde|Lamurde Local Government Area
+Yola South	Yola South	Adamawa	9.253	12.436	2	Agbegbe Ijoba Ibile Guusu Yola|Lam Yola|Yola Fombina|Yola South Local Government Area|Yola Sud|Yola ta Kudu|ywla jnwby
+Ngala	Ngala	Borno	12.215	14.183	2	Agbegbe Ijoba Ibile Ngala|Ngala Local Government Area|en jia la
+Lariri	Guzamala	Borno	13.011	13.297	2	
+Leno-Abuna	Bama	Borno	11.424	13.956	2	Lawanbe
+Lawanti	Marte	Borno	12.425	13.855	2	
+Large	Marte	Borno	12.297	13.929	2	
+Lawanti	Guzamala	Borno	12.925	13.558	2	
+Langiya Bulabulin	Monguno	Borno	12.759	13.530	2	
+Lahwha	Mubi South	Adamawa	10.151	13.390	2	
+Lainde Biju	Mubi North	Adamawa	10.351	13.265	2	
+Sabon Layi	Nafada	Gombe	11.091	11.125	2	
+Sabon Layi	Fika	Yobe	11.132	11.476	2	
+Garin Lamido Lede	Potiskum	Yobe	11.734	11.140	2	
+Labamiri	Kaga	Borno	11.694	12.386	2	
+Lakuma	Madagali	Adamawa	10.641	13.546	2	
+Lagudu	Gwer East	Benue	7.294	8.323	2	
+Lariski Ngollaide	Gassol	Taraba	8.456	10.743	2	
+A Lawant	Marte	Borno	12.250	13.731	2	
+Lakundum	Shani	Borno	10.204	11.916	2	
+Lakwaya	Gwarzo	Kano	11.965	7.901	2	
+Lailaba	Argungu	Kebbi	12.801	4.454	2	
+Lafagu Gante	Bagudo	Kebbi	11.079	4.279	2	
+Unguwar Lalle	Sabon Birni	Sokoto	13.508	6.095	2	
+Lamba Tureta	Tureta	Sokoto	12.676	5.563	2	
+Lafiya Loi Loi	Jakusko	Yobe	12.192	10.947	2	
+Lantaiwa	Tarmua	Yobe	12.308	11.728	2	
+Lawan Fannami	Barde	Yobe	12.894	11.030	2	
+Lafia	Birnin Kudu	Jigawa	11.373	9.422	2	
+Dutsen Lawan	Bogoro	Bauchi	9.725	9.491	2	
+Lariski	Kirfi	Bauchi	10.326	10.785	2	
+Lanzai west	Darazo	Bauchi	11.384	10.850	2	
+Lago	Darazo	Bauchi	11.179	10.538	2	
+Lame	Toro	Bauchi	10.497	9.204	2	
+Lagos Mainland	Lagos Mainland	Lagos	6.479	3.373	2	Lagos Mainland
+Lan	Wukari	Taraba	7.909	9.444	2	
+Lahaga	Ukum	Benue	7.604	9.454	2	
+Laan	Logo	Benue	7.522	9.391	2	
+Tse Laji	Ukum	Benue	7.677	9.549	2	
+Lanshima	Ukum	Benue	7.721	9.686	2	
+Lana	Takum	Taraba	7.546	9.915	2	Iana
+Labe	Buruku	Benue	7.451	9.173	2	
+Lan	Ushongo	Benue	7.112	9.017	2	
+Lagh	Ushongo	Benue	7.136	9.058	2	
+Lanshima	Katsina-Ala	Benue	7.221	9.307	2	
+Labaro	Katsina-Ala	Benue	7.166	9.373	2	
+Labe	Kwande	Benue	7.006	9.376	2	
+Laha	Gboko	Benue	7.339	8.926	2	
+Lariski	Gamawa	Bauchi	12.173	10.423	2	
+Lafiari	Gamawa	Bauchi	12.177	10.431	2	
+Larie	Zaki	Bauchi	12.107	10.280	2	
+Langawa	Zaki	Bauchi	12.038	10.313	2	
+Lasgbene	Southern Ijaw	Bayelsa	4.492	6.021	2	
+Chatafu-Lagun	Lavun	Niger	9.462	5.547	2	
+Lafiagi	Lavun	Niger	9.448	5.694	2	
+Lakin	Gbako	Niger	9.342	5.916	2	
+Ladan	Gbako	Niger	9.291	5.903	2	
+Lafiagi	Gbako	Niger	9.223	5.977	2	
+Lademokun	Edati	Niger	9.018	5.942	2	
+Lagun	Edati	Niger	9.029	5.949	2	
+Lanle	Lavun	Niger	9.227	5.646	2	
+Lazbikolo	Edati	Niger	9.065	5.518	2	
+Laminsu	Machina	Yobe	13.049	10.164	2	
+Lawandi Jambo	Yusufari	Yobe	13.007	10.936	2	
+Langanari	Yusufari	Yobe	13.129	11.200	2	
+Lawa	Yusufari	Yobe	13.100	11.021	2	
+Lawandi	Yusufari	Yobe	13.053	11.004	2	
+Laka	Katcha	Niger	9.382	6.337	2	
+Lafarma	Agaie	Niger	9.217	6.351	2	
+Lankobogi	Katcha	Niger	9.137	6.209	2	
+Lanko	Katcha	Niger	9.152	6.186	2	
+Batagi Lazin	Gbako	Niger	9.127	6.127	2	
+Lada	Katcha	Niger	9.064	6.168	2	
+Lagun	Edati	Niger	9.014	6.042	2	
+Lanlegi	Edati	Niger	9.024	6.011	2	
+Gidan Laydna	Shiroro	Niger	9.885	6.551	2	
+Gadin Laydna	Shiroro	Niger	9.765	6.708	2	
+Lappa	Munya	Niger	9.562	6.917	2	
+Dogon Layi	Bosso	Niger	9.559	6.582	2	
+Lapai	Bosso	Niger	9.525	6.504	2	
+Sate Lawan	Mayo-Belwa	Adamawa	8.970	12.091	2	
+Lainde Lama	Mayo-Belwa	Adamawa	8.979	12.130	2	
+Lainde Takarkuselji	Mayo-Belwa	Adamawa	8.964	12.135	2	
+Yaya Lawal	Mayo-Belwa	Adamawa	8.917	12.165	2	
+Lanja	Jada	Adamawa	8.789	12.127	2	
+Hamajoda Lama	Jada	Adamawa	8.812	12.173	2	
+Lasu	Ojo	Lagos	6.466	3.201	2	
+Wuro Lainde	Jada	Adamawa	8.782	12.260	2	
+Barde Labo	Jada	Adamawa	8.610	12.346	2	
+Sabon Layi	Jada	Adamawa	8.569	12.356	2	
+Lambo	Jada	Adamawa	8.598	12.367	2	
+Lakri	Jada	Adamawa	8.544	12.430	2	
+Wuro Usuman Lainde	Jada	Adamawa	8.753	12.474	2	
+Layemi	Ajeromi/Ifelodun	Lagos	6.460	3.340	2	
+Badore Langbasa	Eti Osa	Lagos	6.509	3.603	2	
+Lafiaji	Lagos Island	Lagos	6.453	3.405	2	
+Gidan Labaki	Karu	Nasarawa	9.101	7.820	2	
+Lanamu Camp	Uhunmwonde	Edo	6.600	6.048	2	
+Laapu	Yorro	Taraba	8.942	11.500	2	
+Lambo	Zing	Taraba	8.827	11.688	2	
+Lanwai	Ardo-Kola	Taraba	8.926	11.215	2	
+Jauro Lawan	Bali	Taraba	8.537	11.155	2	
+Lanko	Jalingo	Taraba	8.914	11.298	2	
+Lamurde	Jalingo	Taraba	8.887	11.321	2	
+Lau	Ardo-Kola	Taraba	8.851	11.301	2	
+Lamido Bornu	Ardo-Kola	Taraba	8.838	11.310	2	
+Jauro Ladde	Ardo-Kola	Taraba	8.801	11.374	2	
+Mako Lanburan	Jalingo	Taraba	8.807	11.436	2	
+Lapun	Yorro	Taraba	8.842	11.494	2	
+Lainde Yerima	Gassol	Taraba	8.617	10.724	2	
+Garin Lakawa	Gassol	Taraba	8.679	10.807	2	
+Garin Ladan Kawo	Gassol	Taraba	8.541	10.766	2	
+Lawan	Shendam	Plateau	8.819	9.535	2	
+Lamba-Kalong	Shendam	Plateau	8.750	9.543	2	
+Lankaku	Shendam	Plateau	8.769	9.708	2	
+Lahil	Mikang	Plateau	8.984	9.798	2	
+Sabon Lai	Mikang	Plateau	8.965	9.779	2	
+Larmahir	Shendam	Plateau	8.932	9.768	2	
+Lamba	Mikang	Plateau	8.931	9.787	2	
+Lahil	Mikang	Plateau	8.982	9.834	2	
+Lagang	Wase	Plateau	8.858	9.885	2	
+Lashel	Wase	Plateau	8.811	9.873	2	
+Lashel	Langtang North	Plateau	8.802	9.873	2	
+Lagang	Wase	Plateau	8.912	9.924	2	
+Lamdwal	Langtang South	Plateau	8.745	9.890	2	
+Lar	Sanga	Kaduna	9.243	8.292	2	
+Langa	Sanga	Kaduna	9.239	8.323	2	
+Ungwan Lamba	Sanga	Kaduna	9.068	8.188	2	
+Ungwan Lamba	Jema'A	Kaduna	9.378	8.225	2	
+Dajin Lafat	Zangon Kataf	Kaduna	9.926	8.325	2	
+Bakin-Lamba	Zangon Kataf	Kaduna	9.916	8.180	2	
+Langjing	Qua'An Pan	Plateau	8.966	9.212	2	
+Lankaku	Qua'An Pan	Plateau	8.551	9.139	2	
+Layi	Qua'An Pan	Plateau	8.722	9.234	2	
+Lai	Shendam	Plateau	8.895	9.343	2	
+Lanyau	Shendam	Plateau	8.967	9.384	2	
+Laraba	Shendam	Plateau	8.915	9.469	2	
+Dogon Lamba	Demsa	Adamawa	9.455	12.146	2	
+Wuro Lainde	Demsa	Adamawa	9.433	12.044	2	
+Lainde Boggare Hamlets	Yola North	Adamawa	9.346	12.380	2	
+Lainde Gokra	Girei	Adamawa	9.422	12.400	2	Laide Gokra
+Lainde Dan Fulani	Girei	Adamawa	9.310	12.463	2	
+Ngesa Lamido	Yola North	Adamawa	9.214	12.449	2	
+Wuro Lako	Fufore	Adamawa	9.158	12.195	2	
+Wuro Lamido	Mayo-Belwa	Adamawa	9.126	12.027	2	
+Bokki Lauru Dundere	Mayo-Belwa	Adamawa	9.147	12.051	2	
+Labbare	Mayo-Belwa	Adamawa	9.136	12.054	2	
+Lama Kugama	Fufore	Adamawa	9.035	12.146	2	
+Lawe	Numan	Adamawa	9.358	11.698	2	
+Tungan Ladan	Larmurde	Adamawa	9.415	11.581	2	
+Wurajumo Lauru	Lau	Taraba	9.217	11.543	2	
+Yakoko Lawan	Yorro	Taraba	9.123	11.596	2	
+Lawe	Numan	Adamawa	9.417	11.764	2	
+Laluma	Mayo-Belwa	Adamawa	9.064	11.997	2	
+Okumagba Layout	Warri South	Delta	5.525	5.746	2	
+Lambar Rimi	Rimi	Katsina	12.843	7.664	2	
+Laro	Alkaleri	Bauchi	9.904	10.921	2	
+Lariski	Alkaleri	Bauchi	9.822	10.862	2	
+Limman Lange	Alkaleri	Bauchi	9.782	10.887	2	
+Lalle	Karim Lamido	Taraba	9.555	10.921	2	
+Sabon Layi	Karim Lamido	Taraba	9.470	10.967	2	
+Laba	Karim Lamido	Taraba	9.340	10.913	2	
+Ladara	Karim Lamido	Taraba	9.281	10.973	2	
+Laro	Karim Lamido	Taraba	9.215	10.941	2	
+Karim Lawan	Karim Lamido	Taraba	9.306	11.181	2	
+Laze	Lau	Taraba	9.107	11.127	2	
+Lapu	Ardo-Kola	Taraba	9.012	11.196	2	
+Langido	Jega	Kebbi	12.314	4.269	2	
+Lademo	Obafemi Owode	Ogun	7.007	3.426	2	
+Bale-Lakute	Obafemi Owode	Ogun	7.011	3.445	2	
+Lapawo	Abeokuta South	Ogun	7.181	3.367	2	
+Lade	Odeda	Ogun	7.188	3.468	2	
+Larinomo	Odeda	Ogun	7.177	3.486	2	
+Lapata	Lagelu	Oyo	7.486	4.035	2	
+Laokale	Egbeda	Oyo	7.411	4.040	2	
+Otun Lamina	Egbeda	Oyo	7.348	4.045	2	
+Lajiga	Ona Ara	Oyo	7.280	4.044	2	
+Larinde	Ona Ara	Oyo	7.226	4.073	2	
+Laidan	Ijebu North	Ogun	7.095	4.028	2	
+Lagada	Ijebu North	Ogun	7.057	4.019	2	
+Lamini	Ona Ara	Oyo	7.281	4.099	2	
+Latunde	Ona Ara	Oyo	7.301	4.094	2	
+Laperi	Egbeda	Oyo	7.338	4.089	2	
+Lademo	Egbeda	Oyo	7.335	4.100	2	
+Labode	Lagelu	Oyo	7.495	4.122	2	
+Labu	Aiyedade	Osun	7.231	4.247	2	
+Lala	Ife North	Osun	7.421	4.413	2	
+Lale	Orolu	Osun	7.909	4.509	2	
+Ladipo	Olorunda	Osun	7.896	4.554	2	
+Lafenwa	Egbedore	Osun	7.873	4.543	2	
+Lapeleke	Ede North	Osun	7.714	4.503	2	
+Lamala	Ede North	Osun	7.708	4.512	2	
+Lamola	Ede North	Osun	7.700	4.556	2	
+Lateju	Ede South	Osun	7.655	4.509	2	
+Aba Lawani	Atakunmosa West	Osun	7.610	4.550	2	
+Lamokun	Ife Central	Osun	7.580	4.546	2	
+Lagere	Atakunmosa West	Osun	7.593	4.576	2	
+Lasupo	Atakunmosa West	Osun	7.663	4.581	2	
+Lala	Atakunmosa West	Osun	7.667	4.592	2	
+Obe-Laimodu	Atakunmosa West	Osun	7.686	4.603	2	
+Lala	Atakunmosa West	Osun	7.702	4.582	2	
+Aba Laoye	Atakunmosa West	Osun	7.652	4.650	2	
+Jonathan-Lalotan	Yewa North	Ogun	7.147	2.820	2	
+Mayo-Labo	Fufore	Adamawa	9.001	12.539	2	Mayo Labo
+Gada-Lainde	Fufore	Adamawa	9.262	12.694	2	Gada Lainde
+Jonde Lakka	Yola North	Adamawa	9.210	12.568	2	
+Lainde	Fufore	Adamawa	9.440	12.794	2	
+Lapon	Ilaje	Ondo	6.393	4.865	2	
+Eruna Lagbe	Ilaje	Ondo	6.112	4.781	2	Eruna-Lagbe
+Labile	Ilaje	Ondo	6.344	4.809	2	
+Ladugbo-Ogunleye	Ife South	Osun	7.338	4.530	2	
+Ladi	Ife South	Osun	7.355	4.577	2	
+Lasore	Ife South	Osun	7.388	4.631	2	
+Labata	Ife South	Osun	7.323	4.673	2	
+Larinu	Ondo West	Ondo	7.093	4.712	2	
+Lawegboro	Ondo West	Ondo	7.044	4.728	2	
+Lagba	Ondo West	Ondo	7.148	4.788	2	
+Lagbare	Ondo West	Ondo	7.159	4.797	2	
+Ago Laworo	Ile Oluji/Okeigbo	Ondo	7.223	4.834	2	
+Lahoro	Ondo West	Ondo	7.194	4.815	2	
+Laragba	Ondo East	Ondo	7.152	4.902	2	
+Oke-Lasitan	Ondo West	Ondo	7.047	4.896	2	
+Lagbon	Ondo East	Ondo	7.023	4.966	2	
+Oke-Oluwa-Lala	Ile Oluji/Okeigbo	Ondo	7.234	4.970	2	
+Ago Ladapo	Ile Oluji/Okeigbo	Ondo	7.279	4.993	2	
+Lanlokun	Ile Oluji/Okeigbo	Ondo	7.344	4.984	2	
+Labopo	Ile Oluji/Okeigbo	Ondo	7.353	4.928	2	
+Laomi	Ori Ire	Oyo	8.437	4.090	2	
+Lapalapa	Ori Ire	Oyo	8.035	4.114	2	
+Lawuyi	Ori Ire	Oyo	8.084	4.133	2	
+Ladoko	Ori Ire	Oyo	8.255	4.210	2	
+Laro	Ori Ire	Oyo	8.363	4.194	2	
+Ladele	Ori Ire	Oyo	8.376	4.250	2	
+Lapor	Asa	Kwara	8.340	4.384	2	
+Laomi	Ori Ire	Oyo	8.486	4.301	2	
+Ladoye	Surulere	Oyo	8.015	4.431	2	
+Lawani	Odeda	Ogun	7.321	3.518	2	
+Larinka	Obafemi Owode	Ogun	7.072	3.566	2	
+Ladejo	Odeda	Ogun	7.278	3.599	2	
+Lawande	Oluyole	Oyo	7.244	3.973	2	
+Labintan	Olorunsogo	Oyo	8.845	4.074	2	
+Lahila	Moro	Kwara	8.655	4.439	2	
+Ladoke	Asa	Kwara	8.593	4.409	2	
+Lalojude	Asa	Kwara	8.592	4.396	2	
+Laudu	Asa	Kwara	8.608	4.367	2	
+Laka	Ori Ire	Oyo	8.612	4.005	2	
+Lawani Alalade	Ibarapa North	Oyo	7.570	3.173	2	
+Lasele	Ibarapa East	Oyo	7.543	3.355	2	
+Ladele	Afijio	Oyo	7.756	3.757	2	
+Ladele	Ido	Oyo	7.623	3.748	2	
+Lango	Wamba	Nasarawa	8.979	8.654	2	
+Lakpa	Akwanga	Nasarawa	8.893	8.508	2	
+Lange	Nasarawa Egon	Nasarawa	8.798	8.676	2	
+Lapagba	Asa	Kwara	8.225	4.557	2	
+Lale Bale	Oyun	Kwara	8.184	4.637	2	Lale-Bale|LaleBale
+Layemo	Asa	Kwara	8.127	4.507	2	
+Laniyan	Oyun	Kwara	8.101	4.573	2	
+Lawufu	Oyun	Kwara	8.122	4.584	2	
+Lalemi	Oyun	Kwara	8.099	4.613	2	
+Labode	Surulere	Oyo	8.021	4.512	2	
+Lari	Akwanga	Nasarawa	8.929	8.283	2	
+Langalanga	Nasarawa Egon	Nasarawa	8.772	8.272	2	
+Angwan Lambaki	Akwanga	Nasarawa	8.989	8.239	2	
+Lakodu	Ìsẹ́yìn	Oyo	7.974	3.704	2	
+Lada-Agba	Oyo West	Oyo	7.910	3.841	2	
+Lakanu	Oyo West	Oyo	7.854	3.838	2	
+Lajide	Oyo West	Oyo	7.844	3.828	2	
+Lala	Afijio	Oyo	7.823	3.836	2	
+Laguna	Atiba	Oyo	7.905	3.984	2	
+Lagbiyan	Atiba	Oyo	7.901	3.991	2	
+Labua	Afijio	Oyo	7.793	3.991	2	
+Larope	Afijio	Oyo	7.783	3.989	2	
+Lapele	Ifelodun	Kwara	8.482	4.948	2	
+Lasede	Ifelodun	Kwara	8.461	4.814	2	
+Layaju	Ifelodun	Kwara	8.380	4.758	2	
+Lakanla	Ifelodun	Kwara	9.042	4.895	2	
+Ladegba	Atiba	Oyo	7.980	4.004	2	
+Ladire	Atiba	Oyo	7.969	4.047	2	
+Lawore	Oyo East	Oyo	7.849	4.044	2	
+Laro	Afijio	Oyo	7.786	4.027	2	
+Ladoye	Ogo Oluwa	Oyo	7.971	4.141	2	
+Laniyan	Orolu	Osun	7.950	4.450	2	
+Lainde	Jada	Adamawa	8.466	12.392	2	
+Lawalam	Billiri	Gombe	9.904	11.202	2	
+Lababiri	Shelleng	Adamawa	9.670	12.079	2	
+Lainde	Song	Adamawa	9.694	12.258	2	
+Labau	Shelleng	Adamawa	9.661	12.096	2	
+Lassalla	Demsa	Adamawa	9.562	12.183	2	
+Wuro Buba Late	Girei	Adamawa	9.591	12.419	2	WuroBubaLate
+Lama	Shelleng	Adamawa	9.866	12.114	2	
+Labara	Shelleng	Adamawa	9.715	12.124	2	
+Lajem	Shelleng	Adamawa	9.678	12.065	2	
+Lainde Bulom	Song	Adamawa	9.955	12.533	2	LaindeBulom
+Lainde Zuvoi	Song	Adamawa	9.965	12.524	2	LaindeZuvoi
+Garin Lamba	Song	Adamawa	9.774	12.570	2	GarinLamba
+Sayejo Lainde	Song	Adamawa	9.650	12.538	2	SayejoLainde
+Wuro Lainde	Song	Adamawa	9.645	12.545	2	WuroLainde
+Lapagba	Asa	Kwara	8.350	4.573	2	
+Laro	Oyun	Kwara	8.288	4.643	2	
+Lafaya	Ilorin West	Kwara	8.435	4.571	2	
+Labala	Ilorin South	Kwara	8.426	4.642	2	
+Laji-Bamu	Asa	Kwara	8.269	4.505	2	
+Laro	Asa	Kwara	8.364	4.593	2	
+Ladan	Mokwa	Niger	8.866	5.828	2	
+Lakan	Katcha	Niger	8.791	6.335	2	
+Lalu	Edati	Niger	9.029	5.497	2	
+Laboshi	Mokwa	Niger	9.173	5.417	2	
+Lafiagi	Mokwa	Niger	9.235	5.454	2	
+Ladanyi	Toto	Nasarawa	8.271	7.015	2	
+Lashi	Toto	Nasarawa	8.409	7.326	2	
+Ladaya	Toto	Nasarawa	8.268	7.261	2	
+Kawon-Laminga	Nasarawa	Nasarawa	8.660	7.804	2	
+Taka-Lafia	Municipal Area Council	FCT Abuja	8.883	7.417	2	
+Anguwan-Lafia	Municipal Area Council	FCT Abuja	8.950	7.449	2	
+Lamis Eizen	Nasarawa Egon	Nasarawa	8.663	8.319	2	
+Lamuga	Nasarawa Egon	Nasarawa	8.683	8.435	2	
+Laing	Sardauna	Taraba	6.715	11.221	2	
+Lango	Sardauna	Taraba	6.706	11.285	2	
+Lang	Sardauna	Taraba	6.519	11.161	2	
+Lannite	Afijio	Oyo	7.700	4.036	2	
+Aba-Latun	Akinyele	Oyo	7.619	4.057	2	
+Lanye	Aiyedire	Osun	7.564	4.193	2	
+Ladunni	Lagelu	Oyo	7.529	4.022	2	
+Ladise	Afijio	Oyo	7.726	4.040	2	
+Laoko	Aiyedire	Osun	7.546	4.184	2	
+Lapata	Lagelu	Oyo	7.527	4.118	2	
+Lagbekun	Ola Oluwa	Osun	7.727	4.256	2	
+Latise	Aiyedire	Osun	7.532	4.211	2	
+Lahan	Ola Oluwa	Osun	7.706	4.208	2	
+Lafa	Afijio	Oyo	7.719	4.016	2	
+Lande-Onikeke	Lagelu	Oyo	7.566	4.089	2	
+Lakanpo	Ede South	Osun	7.644	4.425	2	
+Laoye	Aiyedade	Osun	7.571	4.326	2	
+Ladoja	Lagelu	Oyo	7.520	4.049	2	
+Layi	Akinyele	Oyo	7.563	4.004	2	
+Alaja-Lake	Akinyele	Oyo	7.642	4.021	2	
+Ladojo	Lagelu	Oyo	7.527	4.123	2	
+Lawoyin	Akinyele	Oyo	7.557	4.017	2	
+Lasiba	Aiyedire	Osun	7.532	4.180	2	
+Lande	Lagelu	Oyo	7.555	4.090	2	
+Labosade	Ede South	Osun	7.665	4.459	2	
+Lagbanko	Akinyele	Oyo	7.619	4.016	2	
+Lamurde	Fufore	Adamawa	9.047	12.220	2	
+Lana	Ijebu North	Ogun	7.078	4.081	2	
+Lainde	Girei	Adamawa	9.354	12.529	2	
+Lakehinde	Odeda	Ogun	7.175	3.652	2	
+Ladokun	Ogbomosho North	Oyo	8.206	4.283	2	
+Lamba	Asa	Kwara	8.620	4.400	2	
+Asipa	Oyun	Kwara	8.123	4.590	2	Labisi
+Lafiagi	Agaie	Niger	8.931	6.314	2	
+Babs Ladipo Street	Ifako/Ijaye	Lagos	6.655	3.309	1	
+Ring Road	Lagos Island	Lagos	6.459	3.401	1	Lagos Island Inner Ring Road
+Lateef Jakande Road	Ikeja	Lagos	6.631	3.354	1	
+Ladoke Akintola Street	Ikeja	Lagos	6.584	3.353	1	
+Lagos-Abeokuta Expressway	Alimosho	Lagos	6.665	3.281	1	
+Ring Road	Lagos Island	Lagos	6.457	3.407	1	Lagos Island Inner Ring Road
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.289	1	
+Laboye Laleye Cresent	Surulere	Lagos	6.497	3.356	1	
+Lawani Street	Shomolu	Lagos	6.515	3.384	1	
+Alhaji Lasisi Street	Mushin	Lagos	6.526	3.363	1	
+Adefemi Lawal Street	Kosofe	Lagos	6.564	3.369	1	
+Thomas Laniyan Street	Kosofe	Lagos	6.564	3.368	1	
+Sanni Labode Street	Ifako/Ijaye	Lagos	6.651	3.309	1	
+Lagos-Ibadan Expressway	Ikeja	Lagos	6.617	3.366	1	
+Old Lagos Road	Odogbolu	Ogun	6.771	3.873	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.061	6.464	1	
+Solomon Lar Way	Municipal Area Council	FCT Abuja	9.072	7.434	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.268	3.840	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.320	3.873	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.336	3.891	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.357	3.923	1	
+Lagos-Ibadan Expressway	Lagelu	Oyo	7.420	3.940	1	
+Lagos-Ibadan Expressway	Lagelu	Oyo	7.434	3.933	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.290	3.866	1	
+Lagos-Ibadan Expressway	Ona Ara	Oyo	7.391	3.937	1	
+Ladapo Street	Ibadan North West	Oyo	7.385	3.893	1	
+Lamido Road	Kaduna North	Kaduna	10.537	7.454	1	
+Lafia Road	Kaduna North	Kaduna	10.527	7.442	1	
+Lagos Street	Kaduna North	Kaduna	10.506	7.429	1	
+Lawal Abdullahi Road	Kaduna North	Kaduna	10.579	7.465	1	
+Sheikh Lawal Abubakar Road	Kaduna North	Kaduna	10.579	7.467	1	
+Shehu Laminu Avenue	Kaduna North	Kaduna	10.529	7.461	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.536	8.719	1	
+Lawani Street	Oredo	Edo	6.348	5.626	1	
+Lagos Street	Oredo	Edo	6.342	5.624	1	
+3rd Garrick Layout	Oredo	Edo	6.330	5.601	1	
+Adams Lawal Crescent	Oredo	Edo	6.309	5.597	1	
+Labour Street	Egor	Edo	6.356	5.617	1	
+Lamido Street	Kaduna North	Kaduna	10.539	7.459	1	
+Lamidi Street	Egor	Edo	6.360	5.577	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.499	3.105	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.492	3.156	1	
+Lagos-Badagry Expressway	Badagry	Lagos	6.462	2.967	1	
+Mosha Lashi Street	Lagos Island	Lagos	6.460	3.389	1	
+Adeniji Adele Road	Lagos Island	Lagos	6.456	3.381	1	Lagos Island Inner Ring Road
+Lanre Da-Silva Close	Eti Osa	Lagos	6.455	3.419	1	
+Lagos-Ibadan Expressway	Kosofe	Lagos	6.594	3.383	1	
+Lawani Street	Surulere	Lagos	6.509	3.360	1	
+Ladipo Oluwole Road	Apapa	Lagos	6.443	3.351	1	
+Ladoke Akintola Avenue	Ibadan North	Oyo	7.420	3.914	1	
+Ladega Street	Ajeromi/Ifelodun	Lagos	6.447	3.340	1	
+Wahab Larinde Street	Oshodi/Isolo	Lagos	6.563	3.336	1	
+Akin-Lawanson Street	Oshodi/Isolo	Lagos	6.551	3.340	1	
+New Marina Road	Lagos Island	Lagos	6.442	3.402	1	Lagos Island Inner Ring Road
+Lagos-Ojoo Expressway	Ibadan North East	Oyo	7.384	3.921	1	
+Salami Layout	Ibadan North East	Oyo	7.418	3.935	1	
+Lani-Sogbetun Street	Ibadan North	Oyo	7.426	3.925	1	
+Lawani Close	Ibadan North	Oyo	7.432	3.928	1	
+Chief Layi Awoyode Close	Lagelu	Oyo	7.433	3.941	1	
+Lao Street	Ibadan North	Oyo	7.435	3.923	1	
+Lander Road	Ibadan North	Oyo	7.442	3.903	1	
+Lawal Street	Eti Osa	Lagos	6.435	3.510	1	
+Lanre Olumide Street	Eti Osa	Lagos	6.441	3.520	1	
+Land Bridge Avenue	Eti Osa	Lagos	6.434	3.455	1	
+Lagos Street	Lagos Mainland	Lagos	6.487	3.382	1	
+Lateef Adegboyega Street	Oshodi/Isolo	Lagos	6.501	3.312	1	
+Latunde Close	Oshodi/Isolo	Lagos	6.510	3.315	1	
+Lamidi Ariyo Street	Oshodi/Isolo	Lagos	6.505	3.301	1	
+Lawal Adenrele Street	Alimosho	Lagos	6.514	3.249	1	
+Lake Street	Lagos Island	Lagos	6.458	3.382	1	
+Taofik Lawal Street	Eti Osa	Lagos	6.441	3.419	1	
+Lalupon Close	Eti Osa	Lagos	6.445	3.414	1	
+Lafiaji Street	Eti Osa	Lagos	6.457	3.415	1	
+Adekunle Lawal Road	Eti Osa	Lagos	6.453	3.422	1	
+Lateef Jakande Avenue	Eti Osa	Lagos	6.449	3.438	1	Bell Avenue
+Lawrence Road	Eti Osa	Lagos	6.453	3.446	1	
+Lagoon Avenue	Eti Osa	Lagos	6.465	3.424	1	
+Layi Oyekanmi Street	Mushin	Lagos	6.527	3.342	1	
+Clinic Road Lagos Mainland	Lagos Mainland	Lagos	6.492	3.385	1	
+Lagos-Abeokuta Expressway	Agege	Lagos	6.607	3.329	1	
+Lagos-Abeokuta Expressway	Alimosho	Lagos	6.635	3.302	1	
+Lagos Street	Kosofe	Lagos	6.552	3.406	1	
+Lateef Onigemo Street	Kosofe	Lagos	6.559	3.390	1	
+Olatunji Ladipo Street	Kosofe	Lagos	6.608	3.374	1	
+Lagos-Ibadan Expressway	Ifo	Ogun	6.647	3.385	1	
+Lagos-Ibadan Expressway	Ifo	Ogun	6.644	3.379	1	
+Lagos-Ibadan Expressway	Ikeja	Lagos	6.612	3.369	1	
+Fatai Lapade Street	Kosofe	Lagos	6.630	3.368	1	
+Babatunde Ladega Street	Ikeja	Lagos	6.634	3.355	1	
+Ladipo Oluwole Street	Ikeja	Lagos	6.615	3.341	1	
+Lagos Street	Agege	Lagos	6.624	3.333	1	
+Lawal Street	Agege	Lagos	6.616	3.330	1	
+Latunde Street	Lagos Mainland	Lagos	6.495	3.379	1	
+Alhaji Yekini Lawal	Alimosho	Lagos	6.599	3.302	1	
+Lasu-Isheri Road	Alimosho	Lagos	6.577	3.268	1	
+Adeshina Street, Egbeda, Lagos	Alimosho	Lagos	6.591	3.299	1	
+Lasu-Isheri Road	Alimosho	Lagos	6.551	3.239	1	
+Bisiriyu Lawal Street	Alimosho	Lagos	6.579	3.306	1	
+Afolabi Lawal Street	Agege	Lagos	6.611	3.326	1	
+Ladipo Latinwo Crescent	Eti Osa	Lagos	6.459	3.474	1	
+Laiyi Ajayi Bembe Street	Eti Osa	Lagos	6.460	3.446	1	
+Layi Yusuf Crescent	Eti Osa	Lagos	6.438	3.456	1	
+Adeyemi Lawson Street	Eti Osa	Lagos	6.442	3.447	1	
+Ladipo Omotesho Cole Street	Eti Osa	Lagos	6.434	3.465	1	
+Lawrence Akande Close	Eti Osa	Lagos	6.436	3.465	1	
+Lagos Road	Kaduna North	Kaduna	10.512	7.429	1	
+Lagos Street	Fagge	Kano	12.006	8.542	1	
+Lagos Road	Fagge	Kano	12.029	8.523	1	
+Lagos Road	Nassarawa	Kano	12.034	8.536	1	
+Ladega Street	Ajeromi/Ifelodun	Lagos	6.447	3.345	1	
+Labaka Street	Ajeromi/Ifelodun	Lagos	6.468	3.342	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.267	9.786	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.315	9.820	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.190	9.713	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.839	9.476	1	
+Lake Chad Crescent	Municipal Area Council	FCT Abuja	9.089	7.504	1	
+Oguta Lake Street	Municipal Area Council	FCT Abuja	9.099	7.501	1	
+Lake Alau Close	Municipal Area Council	FCT Abuja	9.091	7.502	1	
+Nike Lake Street	Municipal Area Council	FCT Abuja	9.100	7.500	1	
+Lagos Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.109	7.729	1	
+Ladoke Akintola Boulevard	Municipal Area Council	FCT Abuja	9.018	7.492	1	
+Rex Lawson Street	Municipal Area Council	FCT Abuja	9.113	7.383	1	
+Lavumisa Street	Municipal Area Council	FCT Abuja	9.059	7.461	1	
+Sand Lake Road	Municipal Area Council	FCT Abuja	9.096	7.497	1	
+Maracaibo Close	Municipal Area Council	FCT Abuja	9.099	7.484	1	Lake Maracaibo Close
+Lanwa Road	Moro	Kwara	8.702	4.761	1	
+Lanwa Road	Moro	Kwara	8.820	4.761	1	
+Star Lake Close	Municipal Area Council	FCT Abuja	9.089	7.496	1	
+Lagos Street	Municipal Area Council	FCT Abuja	9.021	7.487	1	
+Adekunle Lawal Close	Municipal Area Council	FCT Abuja	9.003	7.480	1	
+Abogo Largema Street	Municipal Area Council	FCT Abuja	9.045	7.476	1	
+Dr. Ladi Alakija Street	Eti Osa	Lagos	6.447	3.476	1	
+Trans-Amadi Industrial Layour Road	Port-Harcourt	Rivers	4.821	7.040	1	
+Lagos Street	Port-Harcourt	Rivers	4.762	7.021	1	
+Lagos Side Street	Port-Harcourt	Rivers	4.763	7.027	1	
+Salt Lake Street	Municipal Area Council	FCT Abuja	9.077	7.500	1	
+Ladi Kwali Street	Municipal Area Council	FCT Abuja	9.065	7.482	1	
+Lakota Street	Municipal Area Council	FCT Abuja	9.066	7.471	1	
+Lake Valencia Crescent	Municipal Area Council	FCT Abuja	9.093	7.498	1	
+Layin mai Solar	Tarauni	Kano	11.973	8.558	1	
+Lawan Dambazau Road	Dala	Kano	12.009	8.509	1	
+Sani Lawal Kofan Mata	Tarauni	Kano	11.969	8.556	1	
+Bagudu Street	Tarauni	Kano	11.973	8.559	1	Layin Bagudu
+Layin Barrister	Tarauni	Kano	11.970	8.556	1	
+Layin Nabarira	Tarauni	Kano	11.969	8.536	1	
+Layin Farin Gida	Tarauni	Kano	11.971	8.555	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.302	9.808	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	10.051	9.603	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	9.982	9.510	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.098	9.651	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	10.005	9.526	1	
+Saibu Lawal Street	Surulere	Lagos	6.511	3.344	1	
+Last Bus Stop Road	Egor	Edo	6.362	5.569	1	
+Langtang - Bauchi Federal Road	Langtang North	Plateau	9.277	9.775	1	
+Langtang - Bauchi Federal Road	Langtang North	Plateau	9.215	9.790	1	
+Langtang - Bauchi Federal Road	Langtang North	Plateau	9.245	9.798	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.383	9.579	1	
+South Point Roya Lanel	Oredo	Edo	6.323	5.613	1	
+Lankoviri to Lau Road	Lau	Taraba	9.195	11.302	1	
+Lamido Road	Yola North	Adamawa	9.208	12.485	1	
+Lagos Badagry Expressway	Apapa	Lagos	6.477	3.364	1	
+Laraba Abasawa Road	Nassarawa	Kano	11.987	8.579	1	
+Lamido Cresent	Nassarawa	Kano	11.990	8.563	1	
+Lawrence Onoja Road	Muhammadu Dikko Stadium	Katsina	12.978	7.621	1	
+Ring Road	Lagos Island	Lagos	6.465	3.394	1	Lagos Island Inner Ring Road
+Old Lagos Road	Ìkòròdú	Lagos	6.673	3.647	1	
+Old Lagos Road	Epe	Lagos	6.656	3.795	1	
+Lasode Crescent	Eti Osa	Lagos	6.435	3.441	1	
+Lawanson Crescent	Mushin	Lagos	6.532	3.366	1	
+Ladipo Street	Lagos Mainland	Lagos	6.491	3.380	1	
+Lancaster Street	Lagos Mainland	Lagos	6.507	3.381	1	
+Laula Ibrahim Street	Shomolu	Lagos	6.534	3.391	1	
+Lateef Fagbemi Street	Shomolu	Lagos	6.528	3.395	1	
+Olawale Lawal Street	Shomolu	Lagos	6.529	3.395	1	
+Bamiji Lawal Street	Shomolu	Lagos	6.538	3.397	1	
+Lanre Awolokun	Shomolu	Lagos	6.547	3.388	1	
+Ladipo Street	Ede North	Osun	7.758	4.525	1	
+FHR8+CQ7, Lajonrin Rd, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.491	4.567	1	
+Oredola Lasisi Street	Oshodi/Isolo	Lagos	6.516	3.325	1	
+Lasisi Ayanwale Street	Agege	Lagos	6.631	3.314	1	
+Alhaji Lambo Street	Kosofe	Lagos	6.583	3.399	1	
+Ladejobi Ogunsanya Street	Kosofe	Lagos	6.589	3.399	1	
+Lakefront Street	Kosofe	Lagos	6.592	3.400	1	
+Lawal Street	Kosofe	Lagos	6.599	3.390	1	
+Law Lane	Oredo	Edo	6.316	5.611	1	
+Lagos Lane	Oredo	Edo	6.336	5.622	1	
+Lanwa Road	Moro	Kwara	8.852	4.755	1	
+Lagos Bypass	Ibadan South West	Oyo	7.381	3.881	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.778	9.536	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.487	9.548	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.875	9.495	1	
+Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.686	9.553	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.760	9.548	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	9.927	9.500	1	
+Kurna Baban Layi	Dala	Kano	12.034	8.490	1	
+City Layout	Enugu North	Enugu	6.460	7.537	1	
+Landoff Lane	Enugu North	Enugu	6.461	7.502	1	
+Ogui New Layout Road	Enugu North	Enugu	6.437	7.503	1	
+Ogui New Layout	Enugu North	Enugu	6.432	7.501	1	
+lambibambi drive	Enugu South	Enugu	6.415	7.481	1	
+Nike Lake Avenue	Enugu East	Enugu	6.482	7.495	1	
+Lagos Street	Enugu North	Enugu	6.447	7.504	1	
+Mount Zion Layout, Ugwaji	Enugu South	Enugu	6.418	7.537	1	
+Edo Lake Street	Enugu East	Enugu	6.484	7.522	1	
+Nike Lake Street	Enugu East	Enugu	6.484	7.523	1	
+Agulu Lake Street	Enugu East	Enugu	6.482	7.522	1	
+Onungene Lake Road	Enugu East	Enugu	6.501	7.511	1	
+Lake Nawfia Street	Enugu East	Enugu	6.466	7.564	1	
+Lasbery Lane	Enugu North	Enugu	6.447	7.501	1	
+Lady Ngozi Umeoji Avenue	Enugu North	Enugu	6.452	7.562	1	
+Achara Layout Link Road	Enugu South	Enugu	6.413	7.493	1	
+Achara Layout Road	Enugu South	Enugu	6.413	7.500	1	
+Market Garden Layout Close	Enugu North	Enugu	6.455	7.493	1	
+Lake Nawfia Street	Enugu North	Enugu	6.463	7.566	1	
+Nike Lake Road	Enugu East	Enugu	6.489	7.503	1	
+Babban layi	Jos North	Plateau	9.925	8.907	1	
+karanbanin larai road	Makoda	Kano	12.422	8.428	1	
+Lady Alice Nnaona Street	Enugu South	Enugu	6.398	7.484	1	
+Lake View Close	Enugu North	Enugu	6.468	7.477	1	
+Lakeview Close/ Ugwu Street	Enugu East	Enugu	6.505	7.507	1	
+Lawrence Nwodu Drive	Enugu East	Enugu	6.521	7.514	1	
+Laz. Nweke Close	Enugu South	Enugu	6.414	7.516	1	
+Layin Gidan Deneji	Tarauni	Kano	11.976	8.560	1	
+Gyadi-Gyadi Baban Layi	Tarauni	Kano	11.970	8.545	1	
+Lambu Banki Road	Tofa	Kano	12.003	8.359	1	
+Dr. Abubakar Labaran Road	Kano Municipal	Kano	11.975	8.523	1	
+Ladipo Lane	Ibadan North	Oyo	7.453	3.902	1	
+Market Garden Layout Street	Enugu North	Enugu	6.456	7.494	1	
+Layin gidan sanjaji	Kumbotso	Kano	11.890	8.501	1	
+Langel Road	Tofa	Kano	11.992	8.399	1	
+Lagos-Badagry Expressway	Ajeromi/Ifelodun	Lagos	6.475	3.339	1	
+Lagos-Badagry Expressway	Apapa	Lagos	6.479	3.358	1	
+Shehu Laminu Way	Maiduguri	Borno	11.859	13.156	1	
+Fori Layin Solar	Jere	Borno	11.803	13.180	1	
+Alh. Yahaya Lawan Close	Maiduguri	Borno	11.811	13.178	1	
+Fatai Lawal Avenue	Oshodi/Isolo	Lagos	6.504	3.296	1	
+Old Lagos Road	Odogbolu	Ogun	6.736	3.826	1	
+Old Lagos Road	Odogbolu	Ogun	6.684	3.799	1	
+Old Lagos Road	Epe	Lagos	6.628	3.915	1	
+Ladega Street	Ìkòròdú	Lagos	6.616	3.504	1	
+junction Layin Gidan Kashi	Kumbotso	Kano	11.954	8.479	1	
+Layin Kasuwa Street	Gwale	Kano	11.979	8.472	1	
+Hassan Ladan Street	Kano Municipal	Kano	11.973	8.533	1	Abba CTV Street
+Layin Tasha Street	Ungongo	Kano	11.978	8.450	1	
+Layin Mai Gari Street Chiranci	Gwale	Kano	11.954	8.467	1	
+Layin Masallaci	Tarauni	Kano	11.978	8.561	1	
+Layin Sarkin kasuwa	Tarauni	Kano	11.976	8.561	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.317	9.829	1	
+River Layout	Aba South	Abia	5.113	7.379	1	
+Layin gidan bene	Kumbotso	Kano	11.891	8.501	1	
+Layin gidsn hakimi	Kumbotso	Kano	11.892	8.502	1	
+Layin gidan malan audu	Kumbotso	Kano	11.890	8.499	1	
+S.Laure Street	Fagge	Kano	12.010	8.529	1	
+Layin Gwangwan	Tarauni	Kano	11.976	8.558	1	
+Lakwaya - Mainika Road	Gwarzo	Kano	11.966	7.875	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.692	3.415	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.828	3.467	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.728	3.415	1	
+Lagos-Ibadan Expressway	Ikenne	Ogun	6.974	3.664	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	7.145	3.765	1	
+Lagos-Ibadan Expressway	Ikenne	Ogun	6.916	3.629	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.824	3.460	1	
+Lagos-Ibadan Expressway	Remo North	Ogun	7.067	3.716	1	
+Lafia to Shendam Road	Shendam	Plateau	8.874	9.532	1	
+Lafia to Shendam Road	Shendam	Plateau	8.812	9.445	1	
+Lafia to Shendam Road	Shendam	Plateau	8.852	9.490	1	
+Alhaji Kuburat Lawal	Eti Osa	Lagos	6.439	3.477	1	
+Lawani Oduloye Road	Eti Osa	Lagos	6.426	3.456	1	
+Abolakale Lateef Arikawe Drive	Eti Osa	Lagos	6.426	3.528	1	
+Tobiloba Lawal Road	Eti Osa	Lagos	6.435	3.513	1	
+Laurel Lane	Eti Osa	Lagos	6.492	3.609	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.047	3.254	1	
+Lagos-Abeokuta Expressway	Abeokuta North	Ogun	7.103	3.297	1	
+Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.147	3.318	1	
+Lagos-Abeokuta Expressway	Obafemi Owode	Ogun	7.070	3.292	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.046	3.255	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.002	3.228	1	
+Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.136	3.310	1	
+Lalubu Road, Oke-Ilewo	Abeokuta South	Ogun	7.136	3.334	1	
+Laura Stephens Road	Eti Osa	Lagos	6.450	3.582	1	
+Lafiaji Community Rd	Eti Osa	Lagos	6.431	3.555	1	
+Layin PS	Ngelzarma	Yobe	11.751	11.971	1	
+Dr. Lanre Ojo Drive	Eti Osa	Lagos	6.442	3.582	1	
+Baale Lamidi Musa Street	Eti Osa	Lagos	6.458	3.569	1	
+Garba Mohammed Lawal Avenue	Eti Osa	Lagos	6.458	3.583	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.300	9.757	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.228	9.741	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	10.031	9.556	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.821	9.492	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.818	9.497	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.451	9.566	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.421	9.572	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.324	9.736	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.363	9.656	1	
+Tobi Lawal Rd	Shomolu	Lagos	6.516	3.377	1	
+Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.957	6.768	1	
+Lawrence Omole Close	Eti Osa	Lagos	6.428	3.435	1	
+Rd Labar	Igabi	Kaduna	10.906	7.556	1	
+Layin Jauro	Ngelzarma	Yobe	11.749	11.976	1	
+Lagasa Road	Ibeju Lekki	Lagos	6.481	3.724	1	
+Bola Lawal Street	Eti Osa	Lagos	6.473	3.656	1	
+Lakwaya - Mainika Road	Gwarzo	Kano	11.932	7.871	1	
+Ganiu Lamina	Ado Odo/Ota	Ogun	6.685	3.282	1	
+Lagos Street	Umuahia North	Abia	5.534	7.497	1	
+Lasu-Isheri Road	Ojo	Lagos	6.479	3.201	1	
+Lara Ebegbune Street	Oshodi/Isolo	Lagos	6.548	3.320	1	
+Lawrence Daniel Close	Oshodi/Isolo	Lagos	6.553	3.323	1	
+Ladipo Street	Mushin	Lagos	6.545	3.341	1	
+Lakatan Street	Eti Osa	Lagos	6.503	3.582	1	
+Lawyer Adeogun Street	Iwo	Osun	7.649	4.194	1	
+egbeda layout	Obio/Akpor	Rivers	4.878	6.994	1	
+Layin Kotu Street	Tarauni	Kano	11.969	8.534	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.958	6.364	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.006	6.386	1	
+Lasasi Street	Eti Osa	Lagos	6.494	3.595	1	
+Lavender Road	Eti Osa	Lagos	6.455	3.513	1	
+Umar Lajawa Street	Tarauni	Kano	11.956	8.539	1	
+Lapai Close	Eti Osa	Lagos	6.472	3.574	1	
+Laoye Street	Ede North	Osun	7.735	4.432	1	
+T. O. Last Born Street	Adó-Èkìtì	Ekiti	7.611	5.213	1	
+Lanre Shittu Close	Kosofe	Lagos	6.624	3.374	1	
+Lady Aguiyi Irosi road	Umuahia North	Abia	5.520	7.504	1	
+Chemin de la Montagne	Mariga	Niger	10.870	5.906	1	
+Chemin de la Cabane	Mariga	Niger	10.855	5.902	1	
+Chemin de la Coline	Mariga	Niger	10.869	5.892	1	
+Abogo Largema Avenue	Municipal Area Council	FCT Abuja	9.067	7.494	1	
+Ladipo Moses Street	Eti Osa	Lagos	6.479	3.575	1	
+Lawrence Street	Alimosho	Lagos	6.570	3.287	1	
+Oba Lateef Adam Crescent	Agege	Lagos	6.612	3.322	1	
+Tiamiyu Lawal Street	Alimosho	Lagos	6.630	3.289	1	Ola Motoya Street
+Labake Akande Street	Ifo	Ogun	6.676	3.308	1	
+Miller-Lawson Avenue	Eti Osa	Lagos	6.457	3.577	1	
+Chief Labi Ishola-Lemomu Street	Eti Osa	Lagos	6.455	3.583	1	
+Ladejobi Street	Surulere	Lagos	6.501	3.345	1	
+Aremu Lawal Street	Ifako/Ijaye	Lagos	6.668	3.299	1	
+Land use Road	Ifako/Ijaye	Lagos	6.638	3.321	1	
+Adisa Lawal Keshinro Street	Eti Osa	Lagos	6.466	3.584	1	
+Lateef Nurudeen Crescent	Eti Osa	Lagos	6.475	3.578	1	
+Canaan Land Street	Eti Osa	Lagos	6.473	3.617	1	
+Laketu Street	Ìkòròdú	Lagos	6.622	3.503	1	
+Lawal Street	Alimosho	Lagos	6.681	3.268	1	
+Lawal Street	Ifako/Ijaye	Lagos	6.674	3.285	1	
+Alhaji Lawal Street	Alimosho	Lagos	6.675	3.262	1	
+Bamidele Ladifi Lane	Ìkòròdú	Lagos	6.630	3.484	1	
+Lawrence Badejo Avenue	Ìkòròdú	Lagos	6.639	3.497	1	
+Labake Adepoju Close	Oshodi/Isolo	Lagos	6.542	3.318	1	
+Abiodun Layonu Street	Eti Osa	Lagos	6.506	3.586	1	
+Lasogba Road	Ejigbo	Osun	7.852	4.350	1	
+Chemin du Lac	Mariga	Niger	10.871	5.902	1	
+Lady Virginia Ayolugbe Street	Onitsha North	Anambra	6.180	6.785	1	
+Laraba Daggash Street	Municipal Area Council	FCT Abuja	9.002	7.514	1	
+Oyediji Layout	Akinyele	Oyo	7.489	3.922	1	
+New Lagos Road	Oredo	Edo	6.352	5.628	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.853	3.192	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.897	3.202	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.922	3.216	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.948	3.223	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.940	3.225	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.058	6.670	1	
+Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.978	6.748	1	
+Ladega Street	Eti Osa	Lagos	6.441	3.524	1	
+Lamidi Ogunsanwo Street	Shagamu	Ogun	6.833	3.622	1	
+Lateef Salami Street	Oshodi/Isolo	Lagos	6.551	3.329	1	
+Olubi Street	Oshodi/Isolo	Lagos	6.537	3.325	1	Nusirat Lasisi Street
+Lambe Ilumoyede Street	Oshodi/Isolo	Lagos	6.509	3.305	1	
+Lateef Aregbe Street	Oshodi/Isolo	Lagos	6.511	3.302	1	
+Lawanson Road	Mushin	Lagos	6.511	3.336	1	
+Tunde Laitan Drive	Eti Osa	Lagos	6.450	3.483	1	
+Lavender Crescent	Eti Osa	Lagos	6.455	3.523	1	
+Lafe Road	Akure South	Ondo	7.266	5.168	1	
+Waziri Babba Lawan Street	Yola North	Adamawa	9.205	12.479	1	
+Aka Layout	Uvwie	Delta	5.565	5.779	1	
+Egbe Layout	Uvwie	Delta	5.552	5.773	1	
+Ejukolemu Layout	Uvwie	Delta	5.539	5.770	1	
+Langbasa Road	Eti Osa	Lagos	6.511	3.582	1	
+Layi Adesiyan Street	Ife Central	Osun	7.495	4.541	1	
+Lagos Road	Kaduna North	Kaduna	10.517	7.429	1	
+Lawani Street	Oredo	Edo	6.346	5.624	1	
+Lawrence Omolayo Road	Adó-Èkìtì	Ekiti	7.603	5.218	1	
+Lapai Road	Kaduna North	Kaduna	10.537	7.463	1	
+Alh. Aliyu Ladan Road	Kaduna North	Kaduna	10.576	7.462	1	
+Lagos Street	Ughelli North	Delta	5.534	6.075	1	
+Lasu-Isheri Road	Ojo	Lagos	6.501	3.199	1	
+Funke-Layo Aremu Street	Ogbomosho North	Oyo	8.155	4.250	1	
+Lafia to Shendam Road	Qua'An Pan	Plateau	8.751	9.294	1	
+Lafia to Shendam Road	Qua'An Pan	Plateau	8.623	8.953	1	
+Lafia to Shendam Road	Qua'An Pan	Plateau	8.714	9.194	1	
+Lafia to Shendam Road	Qua'An Pan	Plateau	8.675	9.042	1	
+Raliat lawal	Ifo	Ogun	6.762	3.266	1	
+Lanre Ojerinde Street	Ewekoro	Ogun	6.845	3.191	1	
+Lawrence Road	Sapele	Delta	5.888	5.683	1	
+Lawrence Road	Sapele	Delta	5.885	5.690	1	
+Lawanson Road	Surulere	Lagos	6.512	3.346	1	
+Lawan kolo Street	Ngelzarma	Yobe	11.752	11.973	1	
+Lawal Yusuf Crescent	Daura	Katsina	13.020	8.327	1	
+Aliyu Lamu Yola Street	Karu	Nasarawa	9.013	7.601	1	
+Akin-Laguda Street	Ibadan South West	Oyo	7.358	3.839	1	
+Layin mai unguwa	Dala	Kano	12.034	8.489	1	
+Prof. Ndowa Lala Drive	Ikwerre	Rivers	4.906	6.910	1	
+Layin agric	Kumbotso	Kano	11.892	8.502	1	
+River Layout	Aba South	Abia	5.115	7.378	1	
+Layin gidan ado	Kumbotso	Kano	11.890	8.497	1	
+Layin Inec	Kumbotso	Kano	11.891	8.500	1	
+Lady Uzo Odukwe Street	Awka South	Anambra	6.252	7.100	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.499	8.517	1	
+Laraba Daggash Street	Municipal Area Council	FCT Abuja	9.000	7.515	1	
+Laleye Street	Ìkòròdú	Lagos	6.550	3.483	1	
+Lagos-Abeokuta Expressway	Ifo	Ogun	6.784	3.204	1	
+Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.691	3.259	1	
+Lagos-Abeokuta Expressway	Ifo	Ogun	6.758	3.215	1	
+Lasu-Isheri Road	Alimosho	Lagos	6.567	3.252	1	
+Ladun Fowokan Street	Ifo	Ogun	6.672	3.364	1	
+Onigbini Laga Oro Street	Alimosho	Lagos	6.537	3.259	1	
+Lasu-Isheri Road	Alimosho	Lagos	6.531	3.217	1	
+Lawma Road	Ìkòròdú	Lagos	6.599	3.572	1	
+Layin Farin Masalaci Street	Ungongo	Kano	11.975	8.450	1	
+Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.707	3.243	1	
+Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.698	3.254	1	
+Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.111	7.444	1	
+Omotayo Lawal Street	Eti Osa	Lagos	6.508	3.594	1	
+Lagos-Abeokuta Expressway	Alimosho	Lagos	6.612	3.305	1	
+Layin Loko	Kumbotso	Kano	11.951	8.478	1	
+Layin Gidan Kashi	Kumbotso	Kano	11.953	8.478	1	
+Charanci Layin Makabarta	Kumbotso	Kano	11.949	8.476	1	
+Lajorin	Ilorin East	Kwara	8.488	4.569	1	
+Lai-Adeniji Olawoyin Avenue	Eti Osa	Lagos	6.446	3.609	1	
+Layin Transformer	Kumbotso	Kano	11.954	8.475	1	
+Layin Alaramma Mal Haruna	Kumbotso	Kano	11.954	8.475	1	
+Layin Nagezo	Kumbotso	Kano	11.955	8.476	1	
+Layin Dan Fulani	Kumbotso	Kano	11.954	8.476	1	
+Layin Gidan Inyass	Kumbotso	Kano	11.950	8.475	1	
+Layin Gidan Mutum 30	Kumbotso	Kano	11.951	8.475	1	
+Layin Ya Malan	Kumbotso	Kano	11.951	8.475	1	
+Layin Baba Manjo	Kumbotso	Kano	11.950	8.476	1	
+Ladipo Street	Mushin	Lagos	6.532	3.350	1	
+Alhaji Lasisi Street	Mushin	Lagos	6.524	3.362	1	
+Lafia Close	Municipal Area Council	FCT Abuja	9.035	7.489	1	
+Lamido Cresent	Nassarawa	Kano	11.980	8.562	1	
+Lara Ademola Street	Eti Osa	Lagos	6.447	3.515	1	
+Adebayo Lawal Close	Kosofe	Lagos	6.571	3.374	1	
+Banking layout	Uyo	Akwa Ibom	4.998	7.930	1	
+Lateef Jinadu Dosunmu Street	Ikeja	Lagos	6.626	3.357	1	
+Adebisi Ladejobi Close	Eti Osa	Lagos	6.441	3.474	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.152	9.687	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.175	9.696	1	
+Land Lord Street	Yenegoa	Bayelsa	4.923	6.289	1	
+Langtang - Bauchi Federal Road	Langtang North	Plateau	9.178	9.802	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.379	9.603	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.372	9.617	1	
+Lagos Street	Dutsin Ma	Katsina	12.450	7.494	1	
+Old Lagos Road	Odogbolu	Ogun	6.797	3.896	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.643	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.514	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.064	6.526	1	
+Old Lagos Road	Epe	Lagos	6.583	3.959	1	
+Enemebire Layout	Uvwie	Delta	5.559	5.763	1	
+Land Road	Mobbar	Borno	13.079	12.520	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.459	3.277	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.456	3.245	1	
+Old Lagos Road	Epe	Lagos	6.596	3.945	1	
+Lagos-Abeokuta Expressway	Alimosho	Lagos	6.649	3.305	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.223	3.810	1	
+Mekenge Layout	Calabar Municipal	Cross River	4.966	8.339	1	
+Latiya Road	Jos South	Plateau	9.820	8.912	1	
+Lawal Amoo Street	Eti Osa	Lagos	6.451	3.567	1	
+Lagos Avenue	Oluyole	Oyo	7.340	3.821	1	
+Lagos-Badagry Expressway	Surulere	Lagos	6.463	3.322	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.966	6.368	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.095	3.730	1	
+Lanor Street	Zurmi	Zamfara	12.592	6.778	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.460	3.215	1	
+Lagos-Ibadan Expressway	Shagamu	Ogun	6.902	3.596	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.737	3.419	1	
+Lamu Audu Drive	Municipal Area Council	FCT Abuja	9.066	7.486	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.054	6.433	1	
+Laying Primary Street	Gwale	Kano	11.977	8.472	1	
+Layin OD Street	Gwale	Kano	11.977	8.472	1	
+Layin Salihi Street	Gwale	Kano	11.977	8.475	1	
+Babayaro Street (Layin High Tension)	Ungongo	Kano	11.973	8.445	1	
+Lasu-Isheri Road	Ojo	Lagos	6.464	3.205	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.479	3.179	1	
+Lateef Bamidele Street	Oshodi/Isolo	Lagos	6.494	3.300	1	
+Lankoviri to Lau Road	Yorro	Taraba	9.037	11.408	1	
+Lankoviri to Lau Road	Lau	Taraba	9.063	11.377	1	
+Lagos-Ibadan Expressway	Remo North	Ogun	7.033	3.706	1	
+Lagos-Ibadan Expressway	Remo North	Ogun	7.051	3.713	1	
+Lagos Street	Mbaitoli	Imo	5.532	7.035	1	
+Layin tare	Gombe	Gombe	10.290	11.189	1	
+Shehu Laminu Avenue	Kaduna North	Kaduna	10.525	7.454	1	
+Main Entrance to Law Auditorium	Ovia North-East	Edo	6.744	5.405	1	
+College Of Law Driveway	Ovia North-East	Edo	6.745	5.405	1	
+Oba Munirudeen Adesola Lawal Road	Ede South	Osun	7.708	4.483	1	
+Ladipo Street	Ajeromi/Ifelodun	Lagos	6.453	3.329	1	
+Yaba Lafewa Street	Ondo West	Ondo	7.086	4.828	1	
+Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.719	3.223	1	
+Adeoye Lati Jimoh Street	Obafemi Owode	Ogun	7.129	3.376	1	
+T.S Ladejobi Adedotun Street	Remo North	Ogun	6.968	3.684	1	
+Faculty of law Road	Isuikwuato	Abia	5.851	7.425	1	
+Facuty of Law Road 2	Isuikwuato	Abia	5.851	7.423	1	
+Lagos Coastal Highway	Ibeju Lekki	Lagos	6.432	3.733	1	
+Old Lagos Road	Epe	Lagos	6.587	3.951	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.426	3.509	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.426	3.547	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.432	3.591	1	
+Lankoviri to Lau Road	Lau	Taraba	9.139	11.326	1	
+Lankoviri to Lau Road	Lau	Taraba	9.134	11.330	1	
+Lankoviri to Lau Road	Lau	Taraba	9.154	11.316	1	
+Lankoviri to Lau Road	Lau	Taraba	9.094	11.345	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.425	3.494	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.425	3.455	1	
+Solomon Lar Way	Municipal Area Council	FCT Abuja	9.075	7.434	1	
+Tobi Lawal Street	Ìkòròdú	Lagos	6.622	3.490	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.062	6.599	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.059	6.576	1	
+Nike Lake Road	Enugu East	Enugu	6.500	7.514	1	
+Mustaphau Lasisi Street	Eti Osa	Lagos	6.433	3.522	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.507	8.537	1	
+Lafia to Shendam Road	Lafia	Nasarawa	8.530	8.578	1	
+Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.615	9.532	1	
+Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.552	9.512	1	
+Sheikh Lawal Abubakar Islamic School	Kaduna North	Kaduna	10.508	7.433	0	
+Ajaokuta Indian Language School	Ajaokuta	Kogi	7.557	6.601	0	
+Layout Primary School	Muhammadu Dikko Stadium	Katsina	12.981	7.619	0	
+Sabon Layin Kara Health Post	Gwarzo	Kano	11.825	7.933	0	
+Lamba Health Post	Bichi	Kano	12.340	8.148	0	
+Lagelu Youth Friendly Health Centre, Agugu	Ibadan North East	Oyo	7.384	3.927	0	
+Labau Health Clinic	Shani	Borno	10.052	12.015	0	
+Lakundum Dispensary	Shani	Borno	10.183	11.960	0	
+Lawanti Health Clinic	Guzamala	Borno	12.577	13.414	0	
+Lawanti Health Centre	Guzamala	Borno	12.661	13.278	0	
+Guwo Laanti Dispensary	Kaga	Borno	11.625	12.530	0	
+Lawanti Primary Health Clinic	Konduga	Borno	11.587	13.480	0	
+Lazemos Ventures Limited	Akinyele	Oyo	7.513	3.918	0	
+Last bus stop	Alimosho	Lagos	6.499	3.242	0	
+Laneco	Olorunda	Osun	7.795	4.542	0	
+Clinique La paix	Ipokia	Ogun	6.538	2.732	0	
+La Renaissance	Ipokia	Ogun	6.532	2.712	0	
+Federal land Resources Owerri	Owerri West	Imo	5.444	6.924	0	
+Laila Dogon Yaro	Kaduna North	Kaduna	10.537	7.434	0	
+Uwhie Ladies Vanguard Primary School	Uvwie	Delta	5.555	5.766	0	
+Our Lady High School	Uvwie	Delta	5.547	5.779	0	
+Lakeland Specialist Clinic	Uvwie	Delta	5.547	5.774	0	
+Larger Than Dev. Foundation	Yenegoa	Bayelsa	4.937	6.322	0	
+Antek Medical Laboratories	Obio/Akpor	Rivers	4.831	7.026	0	
+Lado Oil	Alimosho	Lagos	6.540	3.284	0	
+EHA Lab	Sokoto South	Sokoto	13.050	5.246	0	
+Lawyer	Ìkòròdú	Lagos	6.672	3.478	0	
+Law School	Eti Osa	Lagos	6.439	3.427	0	
+Ijebu Ode Park to Lagos	Ìjẹ̀bú Òde	Ogun	6.811	3.910	0	
+Tinapa Lakeside Hotel	Odukpani	Cross River	5.048	8.316	0	
+Laje Market	Ondo West	Ondo	7.018	4.632	0	
+Independence Layout Sec. School	Enugu North	Enugu	6.433	7.522	0	
+LAUTECH Medical College	Ogbomosho North	Oyo	8.160	4.258	0	
+Lasoju comprehensive high school	Asa	Kwara	8.361	4.432	0	
+Victory Land College	Ojo	Lagos	6.460	3.167	0	
+PHC Lambara	Shagari	Sokoto	12.635	5.071	0	
+Lafiya Clinic	Wamako	Sokoto	13.045	5.215	0	
 wuro ladde heath clinic	Shelleng	Adamawa	9.890	12.204	0	
 faith clinic lafiya	Larmurde	Adamawa	9.651	11.810	0	
 lafiya primary heath care	Larmurde	Adamawa	9.646	11.815	0	
@@ -546,14 +1970,9 @@ Nasarawa state poly, Lafia	Lafia	Nasarawa	8.546	8.535	0
 MHC Lapai	Agaie	Niger	9.039	6.569	0	
 Our Lady Of Apostle Primary School, Epe Garage	Shagamu	Ogun	6.847	3.636	0	
 Our Lady of Apostles, Epe Garage	Ìjẹ̀bú Òde	Ogun	6.813	3.929	0	
-Independence Layout Phase II	Enugu North	Enugu	6.442	7.553	2	
-Kaoura Lahama	Gudu	Sokoto	13.486	4.224	2	
-Eika-Adagu New Layout	Adavi	Kogi	7.611	6.241	3	
 Al-Lateef Medical Hospital, Akingbile Junction	Akinyele	Oyo	7.513	3.913	0	
-Lagos-Iyidi	Ndokwa East	Delta	5.489	6.464	2	
 Mufutau Lanihun College	Egbeda	Oyo	7.394	3.942	0	
 Heritage Little lambs academy Jos	Jos North	Plateau	9.956	8.855	0	
-LADERIN	Obafemi Owode	Ogun	7.119	3.389	2	
 Lafiya clinic and maternity	Jos North	Plateau	9.908	8.895	0	
 La tahzan clinic and maternity	Jos North	Plateau	9.924	8.898	0	
 Laminga Primary Health Centre	Nasarawa	Nasarawa	8.680	7.811	0	
@@ -596,10 +2015,8 @@ Lasapienza Hospital and Maternity	Amuwo Odofin	Lagos	6.465	3.295	0
 Pathcare Laboratories	Amuwo Odofin	Lagos	6.471	3.274	0	
 Linopmedical Laboratory Services	Amuwo Odofin	Lagos	6.471	3.274	0	
 Layo clinic	Kosofe	Lagos	6.606	3.430	0	
-MAKARANTAR LAYIN ISIYAKU MAI KIFI	Gwale	Kano	11.957	8.472	0	
-HEART LAND SPECIAL ACADEMY	Gwale	Kano	11.960	8.470	0	
-Lafiya	Jakusko	Yobe	12.149	10.962	2	
-Lasukugbene	Southern Ijaw	Bayelsa	4.533	6.061	2	
+Makarantar Layin Isiyaku Mai Kifi	Gwale	Kano	11.957	8.472	0	
+Heart Land Special Academy	Gwale	Kano	11.960	8.470	0	
 MSF Lassa Fever Treatment Centre	Bauchi	Bauchi	10.326	9.834	0	
 S.D.A Primary School Laranto	Jos North	Plateau	9.943	8.875	0	
 Remnant Adventist School Laranto	Jos North	Plateau	9.944	8.873	0	
@@ -609,10 +2026,8 @@ second rainbow landing	Amuwo Odofin	Lagos	6.426	3.262	0
 Egan Landing	Ojo	Lagos	6.447	3.142	0	
 Coconut Landing	Amuwo Odofin	Lagos	6.438	3.336	0	
 ikare town landing	Amuwo Odofin	Lagos	6.418	3.237	0	
-Independence Layout	Enugu North	Enugu	6.443	7.520	2	
 College of Law	Ovia North-East	Edo	6.745	5.404	0	
 College Of Law Administrative Building	Ovia North-East	Edo	6.745	5.403	0	
-Latula	Atiba	Oyo	8.125	3.763	2	
 slave route landing	Badagry	Lagos	6.411	2.884	0	
 isashi landing	Ado Odo/Ota	Ogun	6.511	3.174	0	
 igando landing/isuti	Alimosho	Lagos	6.552	3.207	0	
@@ -628,322 +2043,15 @@ Lagos State Junior Model College Kankon	Badagry	Lagos	6.420	2.758	0
 ICT Lab 2	Ede South	Osun	7.682	4.458	0	
 ICT Lab 1	Ede South	Osun	7.682	4.457	0	
 Faculty of Law	Ede South	Osun	7.684	4.446	0	
-Lagos Island	Lagos Island	Lagos	6.455	3.390	3	
-Trans Nkissi Layout	Onitsha North	Anambra	6.171	6.800	2	
-Babs Ladipo Street	Ifako/Ijaye	Lagos	6.655	3.309	1	
-Ring Road	Lagos Island	Lagos	6.459	3.401	1	Lagos Island Inner Ring Road
-Lateef Jakande Road	Ikeja	Lagos	6.631	3.354	1	
-Ladoke Akintola Street	Ikeja	Lagos	6.584	3.353	1	
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.665	3.281	1	
-Ring Road	Lagos Island	Lagos	6.457	3.407	1	Lagos Island Inner Ring Road
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.289	1	
-Laboye Laleye Cresent	Surulere	Lagos	6.497	3.356	1	
-Lawani Street	Shomolu	Lagos	6.515	3.384	1	
-Alhaji Lasisi Street	Mushin	Lagos	6.526	3.363	1	
-Adefemi Lawal Street	Kosofe	Lagos	6.564	3.369	1	
-Thomas Laniyan Street	Kosofe	Lagos	6.564	3.368	1	
-Sanni Labode Street	Ifako/Ijaye	Lagos	6.651	3.309	1	
-Ring Road	Lagos Island	Lagos	6.444	3.406	1	Lagos Island Inner Ring Road
-Lagos-Ibadan Expressway	Ikeja	Lagos	6.617	3.366	1	
-Old Lagos Road	Odogbolu	Ogun	6.771	3.873	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.061	6.464	1	
-Solomon Lar Way	Municipal Area Council	FCT Abuja	9.072	7.434	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.268	3.840	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.320	3.873	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.336	3.891	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.357	3.923	1	
-Lagos-Ibadan Expressway	Lagelu	Oyo	7.420	3.940	1	
-Lagos-Ibadan Expressway	Lagelu	Oyo	7.404	3.944	1	
-Lagos-Ibadan Expressway	Lagelu	Oyo	7.434	3.933	1	
-Lagos-Ibadan Expressway	Akinyele	Oyo	7.454	3.921	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.290	3.866	1	
-Lagos-Ibadan Expressway	Ona Ara	Oyo	7.391	3.937	1	
-Ladapo Street	Ibadan North West	Oyo	7.385	3.893	1	
-Lamido Road	Kaduna North	Kaduna	10.537	7.454	1	
-Lafia Road	Kaduna North	Kaduna	10.527	7.442	1	
-Lagos Street	Kaduna North	Kaduna	10.506	7.429	1	
-Lawal Abdullahi Road	Kaduna North	Kaduna	10.579	7.465	1	
-Sheikh Lawal Abubakar Road	Kaduna North	Kaduna	10.579	7.467	1	
-Shehu Laminu Avenue	Kaduna North	Kaduna	10.529	7.461	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.062	6.451	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.536	8.719	1	
-Lawani Street	Oredo	Edo	6.348	5.626	1	
-Lagos Street	Oredo	Edo	6.342	5.624	1	
-3rd Garrick Layout	Oredo	Edo	6.330	5.601	1	
-Adams Lawal Crescent	Oredo	Edo	6.309	5.597	1	
-Labour Street	Egor	Edo	6.356	5.617	1	
-Lamido Street	Kaduna North	Kaduna	10.539	7.459	1	
-Lamidi Street	Egor	Edo	6.360	5.577	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.499	3.105	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.492	3.156	1	
-Lagos-Badagry Expressway	Badagry	Lagos	6.462	2.967	1	
 Shepherd's Lab	Oredo	Edo	6.332	5.598	0	
-Mosha Lashi Street	Lagos Island	Lagos	6.460	3.389	1	
-Ring Road	Lagos Island	Lagos	6.465	3.395	1	Lagos Island Inner Ring Road
-Adeniji Adele Road	Lagos Island	Lagos	6.456	3.381	1	Lagos Island Inner Ring Road
-Lanre Da-Silva Close	Eti Osa	Lagos	6.455	3.419	1	
-Lagos-Ibadan Expressway	Kosofe	Lagos	6.594	3.383	1	
-Lawani Street	Surulere	Lagos	6.509	3.360	1	
-Ladipo Oluwole Road	Apapa	Lagos	6.443	3.351	1	
-Ladoke Akintola Avenue	Ibadan North	Oyo	7.420	3.914	1	
-Ladega Street	Ajeromi/Ifelodun	Lagos	6.447	3.340	1	
-Wahab Larinde Street	Oshodi/Isolo	Lagos	6.563	3.336	1	
-Akin-Lawanson Street	Oshodi/Isolo	Lagos	6.551	3.340	1	
-New Marina Road	Lagos Island	Lagos	6.442	3.402	1	Lagos Island Inner Ring Road
-Lagos-Ojoo Expressway	Ibadan North East	Oyo	7.384	3.921	1	
-Salami Layout	Ibadan North East	Oyo	7.418	3.935	1	
-Lani-Sogbetun Street	Ibadan North	Oyo	7.426	3.925	1	
-Lawani Close	Ibadan North	Oyo	7.432	3.928	1	
-Chief Layi Awoyode Close	Lagelu	Oyo	7.433	3.941	1	
-Lao Street	Ibadan North	Oyo	7.435	3.923	1	
-Lander Road	Ibadan North	Oyo	7.442	3.903	1	
-Lawal Street	Eti Osa	Lagos	6.435	3.510	1	
-Lanre Olumide Street	Eti Osa	Lagos	6.441	3.520	1	
-Land Bridge Avenue	Eti Osa	Lagos	6.434	3.455	1	
-Lagos Street	Lagos Mainland	Lagos	6.487	3.382	1	
-Lateef Adegboyega Street	Oshodi/Isolo	Lagos	6.501	3.312	1	
-Latunde Close	Oshodi/Isolo	Lagos	6.510	3.315	1	
-Lamidi Ariyo Street	Oshodi/Isolo	Lagos	6.505	3.301	1	
-Lawal Adenrele Street	Alimosho	Lagos	6.514	3.249	1	
-Lake Street	Lagos Island	Lagos	6.458	3.382	1	
-Taofik Lawal Street	Eti Osa	Lagos	6.441	3.419	1	
-Lalupon Close	Eti Osa	Lagos	6.445	3.414	1	
-Lafiaji Street	Eti Osa	Lagos	6.457	3.415	1	
-Adekunle Lawal Road	Eti Osa	Lagos	6.453	3.422	1	
-Lateef Jakande Avenue	Eti Osa	Lagos	6.449	3.438	1	Bell Avenue
-Lawrence Road	Eti Osa	Lagos	6.453	3.446	1	
-Lagoon Avenue	Eti Osa	Lagos	6.465	3.424	1	
-New Marina Road	Lagos Island	Lagos	6.448	3.393	1	Lagos Island Inner Ring Road
-New Marina Road	Lagos Island	Lagos	6.454	3.382	1	Lagos Island Inner Ring Road
-Layi Oyekanmi Street	Mushin	Lagos	6.527	3.342	1	
-Clinic Road Lagos Mainland	Lagos Mainland	Lagos	6.492	3.385	1	
-Lagos-Abeokuta Expressway	Agege	Lagos	6.607	3.329	1	
-Lagos-Abeokuta Expressway	Agege	Lagos	6.608	3.324	1	
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.635	3.302	1	
-Lagos-Abeokuta Expressway	Ikeja	Lagos	6.605	3.330	1	
-Lagos Street	Kosofe	Lagos	6.552	3.406	1	
-Lateef Onigemo Street	Kosofe	Lagos	6.559	3.390	1	
-Olatunji Ladipo Street	Kosofe	Lagos	6.608	3.374	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.642	3.375	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.647	3.385	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.644	3.379	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.656	3.398	1	
-Lagos-Ibadan Expressway	Ikeja	Lagos	6.612	3.369	1	
-Lagos-Ibadan Expressway	Ikeja	Lagos	6.629	3.365	1	
-Lateef Jakande Road	Ikeja	Lagos	6.616	3.354	1	
-Fatai Lapade Street	Kosofe	Lagos	6.630	3.368	1	
-Babatunde Ladega Street	Ikeja	Lagos	6.634	3.355	1	
-Ladipo Oluwole Street	Ikeja	Lagos	6.615	3.341	1	
-Lagos Street	Agege	Lagos	6.624	3.333	1	
-Lawal Street	Agege	Lagos	6.616	3.330	1	
-Latunde Street	Lagos Mainland	Lagos	6.495	3.379	1	
-Alhaji Yekini Lawal	Alimosho	Lagos	6.599	3.302	1	
-Lasu-Isheri Road	Alimosho	Lagos	6.577	3.268	1	
-Adeshina Street, Egbeda, Lagos	Alimosho	Lagos	6.591	3.299	1	
-Lasu-Isheri Road	Alimosho	Lagos	6.551	3.239	1	
-Bisiriyu Lawal Street	Alimosho	Lagos	6.579	3.306	1	
-Afolabi Lawal Street	Agege	Lagos	6.611	3.326	1	
-Ladipo Latinwo Crescent	Eti Osa	Lagos	6.459	3.474	1	
-Laiyi Ajayi Bembe Street	Eti Osa	Lagos	6.460	3.446	1	
-Layi Yusuf Crescent	Eti Osa	Lagos	6.438	3.456	1	
-Adeyemi Lawson Street	Eti Osa	Lagos	6.442	3.447	1	
-Ladipo Omotesho Cole Street	Eti Osa	Lagos	6.434	3.465	1	
-Lawrence Akande Close	Eti Osa	Lagos	6.436	3.465	1	
-Lagos Road	Kaduna North	Kaduna	10.512	7.429	1	
-Lagos Street	Fagge	Kano	12.006	8.542	1	
-Lagos Road	Fagge	Kano	12.029	8.523	1	
-Lagos Road	Nassarawa	Kano	12.034	8.536	1	
-Lagos Road	Fagge	Kano	12.037	8.525	1	
-Ladega Street	Ajeromi/Ifelodun	Lagos	6.447	3.345	1	
-Labaka Street	Ajeromi/Ifelodun	Lagos	6.468	3.342	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.267	9.786	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.315	9.820	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.308	9.811	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.190	9.713	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.211	9.726	1	
-Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.839	9.476	1	
-Lake Chad Crescent	Municipal Area Council	FCT Abuja	9.089	7.504	1	
-Oguta Lake Street	Municipal Area Council	FCT Abuja	9.099	7.501	1	
-Lake Alau Close	Municipal Area Council	FCT Abuja	9.091	7.502	1	
-Nike Lake Street	Municipal Area Council	FCT Abuja	9.100	7.500	1	
-Lagos Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.109	7.729	1	
-Ladoke Akintola Boulevard	Municipal Area Council	FCT Abuja	9.018	7.492	1	
-Rex Lawson Street	Municipal Area Council	FCT Abuja	9.113	7.383	1	
-Lavumisa Street	Municipal Area Council	FCT Abuja	9.059	7.461	1	
-Sand Lake Road	Municipal Area Council	FCT Abuja	9.096	7.497	1	
-Maracaibo Close	Municipal Area Council	FCT Abuja	9.099	7.484	1	Lake Maracaibo Close
-Lanwa Road	Moro	Kwara	8.702	4.761	1	
-Lanwa Road	Moro	Kwara	8.820	4.761	1	
-Star Lake Close	Municipal Area Council	FCT Abuja	9.089	7.496	1	
-Lagos Street	Municipal Area Council	FCT Abuja	9.021	7.487	1	
-Adekunle Lawal Close	Municipal Area Council	FCT Abuja	9.003	7.480	1	
-Abogo Largema Street	Municipal Area Council	FCT Abuja	9.045	7.476	1	
-Dr. Ladi Alakija Street	Eti Osa	Lagos	6.447	3.476	1	
-Trans-Amadi Industrial Layour Road	Port-Harcourt	Rivers	4.821	7.040	1	
-Lagos Street	Port-Harcourt	Rivers	4.762	7.021	1	
-Lagos Side Street	Port-Harcourt	Rivers	4.763	7.027	1	
-Salt Lake Street	Municipal Area Council	FCT Abuja	9.077	7.500	1	
-Ladi Kwali Street	Municipal Area Council	FCT Abuja	9.065	7.482	1	
-Lakota Street	Municipal Area Council	FCT Abuja	9.066	7.471	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.308	1	
-Lake Valencia Crescent	Municipal Area Council	FCT Abuja	9.093	7.498	1	
 Landmark Plaza	Municipal Area Council	FCT Abuja	9.092	7.500	0	
-Layin mai Solar	Tarauni	Kano	11.973	8.558	1	
-Lawan Dambazau Road	Dala	Kano	12.009	8.509	1	
-Sani Lawal Kofan Mata	Tarauni	Kano	11.969	8.556	1	
-Bagudu Street	Tarauni	Kano	11.973	8.559	1	Layin Bagudu
-Layin Barrister	Tarauni	Kano	11.970	8.556	1	
-Layin Nabarira	Tarauni	Kano	11.969	8.536	1	
-Layin Farin Gida	Tarauni	Kano	11.971	8.555	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.302	9.808	1	
-Langtang - Bauchi Federal Road	Dass	Bauchi	10.051	9.603	1	
-Langtang - Bauchi Federal Road	Dass	Bauchi	9.982	9.510	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.098	9.651	1	
-Langtang - Bauchi Federal Road	Dass	Bauchi	10.005	9.526	1	
-Saibu Lawal Street	Surulere	Lagos	6.511	3.344	1	
-LAST BUS STOP ROAD	Egor	Edo	6.362	5.569	1	
-Langtang - Bauchi Federal Road	Langtang North	Plateau	9.277	9.775	1	
-Langtang - Bauchi Federal Road	Langtang North	Plateau	9.215	9.790	1	
-Langtang - Bauchi Federal Road	Langtang North	Plateau	9.245	9.798	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.383	9.579	1	
-South Point Roya Lanel	Oredo	Edo	6.323	5.613	1	
 Gombe Lawanti International Airport	Akko	Gombe	10.310	10.911	0	
-Lamido Road	Yola North	Adamawa	9.208	12.485	1	
-Lagos Badagry Expressway	Apapa	Lagos	6.477	3.364	1	
-Laraba Abasawa Road	Nassarawa	Kano	11.987	8.579	1	
-Lamido Cresent	Nassarawa	Kano	11.990	8.563	1	
-Lawrence Onoja Road	Muhammadu Dikko Stadium	Katsina	12.978	7.621	1	
-Ring Road	Lagos Island	Lagos	6.465	3.394	1	Lagos Island Inner Ring Road
-Ring Road	Lagos Island	Lagos	6.454	3.409	1	Lagos Island Inner Ring Road
-Old Lagos Road	Ìkòròdú	Lagos	6.673	3.647	1	
-Old Lagos Road	Epe	Lagos	6.656	3.795	1	
-Old Lagos Road	Epe	Lagos	6.653	3.793	1	
-Lasode Crescent	Eti Osa	Lagos	6.435	3.441	1	
-Lawani Street	Mushin	Lagos	6.522	3.367	1	
-Lawanson Crescent	Mushin	Lagos	6.532	3.366	1	
-Ladipo Street	Lagos Mainland	Lagos	6.491	3.380	1	
-Lancaster Street	Lagos Mainland	Lagos	6.507	3.381	1	
-Laula Ibrahim Street	Shomolu	Lagos	6.534	3.391	1	
-Lateef Fagbemi Street	Shomolu	Lagos	6.528	3.395	1	
-Olawale Lawal Street	Shomolu	Lagos	6.529	3.395	1	
-Bamiji Lawal Street	Shomolu	Lagos	6.538	3.397	1	
-Lanre Awolokun	Shomolu	Lagos	6.547	3.388	1	
-Ladipo Street	Ede North	Osun	7.758	4.525	1	
-FHR8+CQ7, Lajonrin Rd, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.491	4.567	1	
-Oredola Lasisi Street	Oshodi/Isolo	Lagos	6.516	3.325	1	
-Lasisi Ayanwale Street	Agege	Lagos	6.631	3.314	1	
-Alhaji Lambo Street	Kosofe	Lagos	6.583	3.399	1	
-Ladejobi Ogunsanya Street	Kosofe	Lagos	6.589	3.399	1	
-Lakefront Street	Kosofe	Lagos	6.592	3.400	1	
-Lawal Street	Kosofe	Lagos	6.599	3.390	1	
-Law Lane	Oredo	Edo	6.316	5.611	1	
-Lagos Lane	Oredo	Edo	6.336	5.622	1	
-Lanwa Road	Moro	Kwara	8.852	4.755	1	
-Lagos Bypass	Ibadan South West	Oyo	7.381	3.881	1	
-Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.778	9.536	1	
-Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.780	9.535	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.487	9.548	1	
-Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.832	9.479	1	
-Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.875	9.495	1	
-Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.686	9.553	1	
-Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.760	9.548	1	
-Langtang - Bauchi Federal Road	Dass	Bauchi	9.927	9.500	1	
-Kurna Baban Layi	Dala	Kano	12.034	8.490	1	
-City Layout	Enugu North	Enugu	6.460	7.537	1	
-Landoff Lane	Enugu North	Enugu	6.461	7.502	1	
-Ogui New Layout Road	Enugu North	Enugu	6.437	7.503	1	
-Ogui New Layout	Enugu North	Enugu	6.432	7.501	1	
-lambibambi drive	Enugu South	Enugu	6.415	7.481	1	
-Nike Lake Avenue	Enugu East	Enugu	6.482	7.495	1	
-Lagos Street	Enugu North	Enugu	6.447	7.504	1	
-Mount Zion Layout, Ugwaji	Enugu South	Enugu	6.418	7.537	1	
-Edo Lake Street	Enugu East	Enugu	6.484	7.522	1	
-Nike Lake Street	Enugu East	Enugu	6.484	7.523	1	
-Agulu Lake Street	Enugu East	Enugu	6.482	7.522	1	
-Onungene Lake Road	Enugu East	Enugu	6.501	7.511	1	
-Lake Nawfia Street	Enugu East	Enugu	6.466	7.564	1	
-Lasbery Lane	Enugu North	Enugu	6.447	7.501	1	
-Lady Ngozi Umeoji Avenue	Enugu North	Enugu	6.452	7.562	1	
-Achara Layout Link Road	Enugu South	Enugu	6.413	7.493	1	
-Achara Layout Road	Enugu South	Enugu	6.413	7.500	1	
-Market Garden Layout Close	Enugu North	Enugu	6.455	7.493	1	
-Lake Nawfia Street	Enugu North	Enugu	6.463	7.566	1	
-Nike Lake Road	Enugu East	Enugu	6.489	7.503	1	
-Babban layi	Jos North	Plateau	9.925	8.907	1	
-Independence Layout	Enugu South	Enugu	6.411	7.517	2	
-Ngwu-Agu Layout Trans-Ekulu	Enugu North	Enugu	6.467	7.469	2	
-karanbanin larai road	Makoda	Kano	12.422	8.428	1	
-Lady Alice Nnaona Street	Enugu South	Enugu	6.398	7.484	1	
-Lake View Close	Enugu North	Enugu	6.468	7.477	1	
-Lakeview Close/ Ugwu Street	Enugu East	Enugu	6.505	7.507	1	
-Lawrence Nwodu Drive	Enugu East	Enugu	6.521	7.514	1	
-Laz. Nweke Close	Enugu South	Enugu	6.414	7.516	1	
-Layin Gidan Deneji	Tarauni	Kano	11.976	8.560	1	
-Gyadi-Gyadi Baban Layi	Tarauni	Kano	11.970	8.545	1	
-Lambu Banki Road	Tofa	Kano	12.003	8.359	1	
-Dr. Abubakar Labaran Road	Kano Municipal	Kano	11.975	8.523	1	
-Independence Layout	Enugu South	Enugu	6.411	7.514	2	
-New Haven Layout	Enugu North	Enugu	6.454	7.524	2	
-New Haven Layout Extension	Enugu North	Enugu	6.455	7.550	2	
-Ladipo Lane	Ibadan North	Oyo	7.453	3.902	1	
-Market Garden Layout Street	Enugu North	Enugu	6.456	7.494	1	
-Layin gidan sanjaji	Kumbotso	Kano	11.890	8.501	1	
-Langel Road	Tofa	Kano	11.992	8.399	1	
-Lagos-Badagry Expressway	Ajeromi/Ifelodun	Lagos	6.475	3.339	1	
-Lagos-Badagry Expressway	Apapa	Lagos	6.479	3.358	1	
-Shehu Laminu Way	Maiduguri	Borno	11.859	13.156	1	
-FORI LAYIN SOLAR	Jere	Borno	11.803	13.180	1	
-Alh. Yahaya Lawan Close	Maiduguri	Borno	11.811	13.178	1	
-Fatai Lawal Avenue	Oshodi/Isolo	Lagos	6.504	3.296	1	
-Lambu	Tofa	Kano	12.001	8.337	1	
-Old Lagos Road	Odogbolu	Ogun	6.736	3.826	1	
-Old Lagos Road	Odogbolu	Ogun	6.684	3.799	1	
-Old Lagos Road	Epe	Lagos	6.628	3.915	1	
-Ladega Street	Ìkòròdú	Lagos	6.616	3.504	1	
-junction Layin Gidan Kashi	Kumbotso	Kano	11.954	8.479	1	
-Layin Kasuwa Street	Gwale	Kano	11.979	8.472	1	
-Hassan Ladan Street	Kano Municipal	Kano	11.973	8.533	1	Abba CTV Street
-Layin Tasha Street	Ungongo	Kano	11.978	8.450	1	
-Layin Mai Gari Street Chiranci	Gwale	Kano	11.954	8.467	1	
 Centre for Research in Nigeria Languages and Folklore	Ungongo	Kano	11.971	8.430	0	
 Laboratory & Learning Resource Centre	Ungongo	Kano	11.973	8.431	0	
 Zonal Advanced Spaced Applications Laboratory	Ungongo	Kano	11.975	8.430	0	
-Zonal Advanced Spaced Applications Laboratory	Ungongo	Kano	11.975	8.430	0	
-Lawani Street	Shomolu	Lagos	6.517	3.383	1	
-Layin Masallaci	Tarauni	Kano	11.978	8.561	1	
-Layin Sarkin kasuwa	Tarauni	Kano	11.976	8.561	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.317	9.829	1	
-River Layout	Aba South	Abia	5.113	7.379	1	
 Langel Primary Health Centre	Tofa	Kano	11.990	8.395	0	
 Lambu Primary Health Centre	Tofa	Kano	11.993	8.360	0	
-Layin gidan bene	Kumbotso	Kano	11.891	8.501	1	
-Layin gidsn hakimi	Kumbotso	Kano	11.892	8.502	1	
-Layin gidan malan audu	Kumbotso	Kano	11.890	8.499	1	
-S.Laure Street	Fagge	Kano	12.010	8.529	1	
-Layin Gwangwan	Tarauni	Kano	11.976	8.558	1	
-Lakwaya - Mainika Road	Gwarzo	Kano	11.966	7.875	1	
 Laraba Takuya Health Post	Dambatta	Kano	12.367	8.687	0	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.692	3.415	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.655	3.397	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.828	3.467	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.728	3.415	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.710	3.415	1	
-Lagos-Ibadan Expressway	Ikenne	Ogun	6.974	3.664	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	7.145	3.765	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.694	3.415	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.718	3.414	1	
-Lagos-Ibadan Expressway	Ikenne	Ogun	6.916	3.629	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.824	3.460	1	
-Lagos-Ibadan Expressway	Remo North	Ogun	7.067	3.716	1	
-Lafia to Shendam Road	Shendam	Plateau	8.874	9.532	1	
-Lafia to Shendam Road	Shendam	Plateau	8.812	9.445	1	
-Lafia to Shendam Road	Shendam	Plateau	8.852	9.490	1	
-Lafia to Shendam Road	Shendam	Plateau	8.877	9.536	1	
-Alhaji Kuburat Lawal	Eti Osa	Lagos	6.439	3.477	1	
-Lawani Oduloye Road	Eti Osa	Lagos	6.426	3.456	1	
-Abolakale Lateef Arikawe Drive	Eti Osa	Lagos	6.426	3.528	1	
-Tobiloba Lawal Road	Eti Osa	Lagos	6.435	3.513	1	
-Laurel Lane	Eti Osa	Lagos	6.492	3.609	1	
 Jindu Dispensary	Zaki	Bauchi	12.464	10.617	0	Tikirje Dispensary - Ladari Dispensary
 Lariski Dispensary	Katagum	Bauchi	11.682	10.484	0	
 Lailai Dispensary	Nangere	Yobe	11.714	10.913	0	
@@ -951,285 +2059,39 @@ Lakka	Bauchi	Bauchi	10.067	9.838	0
 Latahazan Health Clinic	Toro	Bauchi	10.044	8.994	0	
 Dajin Maternity	Tafawa-Balewa	Bauchi	10.029	9.645	0	Lamna Dispensiry
 Lafiyan-sara Maternal and Child Health Clinic	Bogoro	Bauchi	9.686	9.554	0	
-Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.746	9.555	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.047	3.254	1	
-Lagos-Abeokuta Expressway	Abeokuta North	Ogun	7.103	3.297	1	
-Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.147	3.318	1	
-Lagos-Abeokuta Expressway	Obafemi Owode	Ogun	7.070	3.292	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.046	3.255	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.002	3.228	1	
-Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.144	3.316	1	
-Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.136	3.310	1	
-Lagos-Abeokuta Expressway	Abeokuta North	Ogun	7.125	3.299	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.047	3.272	1	
-Lagos-Abeokuta Expressway	Obafemi Owode	Ogun	7.083	3.293	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.052	3.279	1	
-Lagos-Abeokuta Expressway	Abeokuta North	Ogun	7.125	3.299	1	
-Lalubu Road, Oke-Ilewo	Abeokuta South	Ogun	7.136	3.334	1	
-Laura Stephens Road	Eti Osa	Lagos	6.450	3.582	1	
-Lafiaji Community Rd	Eti Osa	Lagos	6.431	3.555	1	
-Layin PS	Ngelzarma	Yobe	11.751	11.971	1	
-Dr. Lanre Ojo Drive	Eti Osa	Lagos	6.442	3.582	1	
-Baale Lamidi Musa Street	Eti Osa	Lagos	6.458	3.569	1	
-Garba Mohammed Lawal Avenue	Eti Osa	Lagos	6.458	3.583	1	
-Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.790	9.533	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.476	9.553	1	
-Langtang - Bauchi Federal Road	Dass	Bauchi	10.042	9.591	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.300	9.757	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.228	9.741	1	
-Langtang - Bauchi Federal Road	Dass	Bauchi	10.031	9.556	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.304	9.748	1	
-Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.821	9.492	1	
-Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.818	9.497	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.451	9.566	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.421	9.572	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.324	9.736	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.363	9.656	1	
-Ring Road	Lagos Island	Lagos	6.463	3.384	1	Lagos Island Inner Ring Road
-Marina Road	Lagos Island	Lagos	6.455	3.382	1	Lagos Island Inner Ring Road
-Tobi Lawal Rd	Shomolu	Lagos	6.516	3.377	1	
-Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.957	6.768	1	
-Lawrence Omole Close	Eti Osa	Lagos	6.428	3.435	1	
-Rd Labar	Igabi	Kaduna	10.906	7.556	1	
-Layin Jauro	Ngelzarma	Yobe	11.749	11.976	1	
 Lassa General Hospital	Askira-Uba	Borno	10.679	13.269	0	
-Lagasa Road	Ibeju Lekki	Lagos	6.481	3.724	1	
-Bola Lawal Street	Eti Osa	Lagos	6.473	3.656	1	
-Lakwaya - Mainika Road	Gwarzo	Kano	11.932	7.871	1	
-Ganiu Lamina	Ado Odo/Ota	Ogun	6.685	3.282	1	
-Lagos Street	Umuahia North	Abia	5.534	7.497	1	
-Lasu-Isheri Road	Ojo	Lagos	6.479	3.201	1	
-Lara Ebegbune Street	Oshodi/Isolo	Lagos	6.548	3.320	1	
-Lawrence Daniel Close	Oshodi/Isolo	Lagos	6.553	3.323	1	
-Ladipo Street	Mushin	Lagos	6.545	3.341	1	
-Lakatan Street	Eti Osa	Lagos	6.503	3.582	1	
-Lawyer Adeogun Street	Iwo	Osun	7.649	4.194	1	
-Lawyer Adeogun Street	Iwo	Osun	7.655	4.199	1	
-egbeda layout	Obio/Akpor	Rivers	4.878	6.994	1	
-Layin Kotu Street	Tarauni	Kano	11.969	8.534	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.958	6.364	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.006	6.386	1	
-Lasasi Street	Eti Osa	Lagos	6.494	3.595	1	
-Lavender Road	Eti Osa	Lagos	6.455	3.513	1	
-Umar Lajawa Street	Tarauni	Kano	11.956	8.539	1	
-Lapai Close	Eti Osa	Lagos	6.472	3.574	1	
-Laoye Street	Ede North	Osun	7.735	4.432	1	
-T. O. Last Born Street	Adó-Èkìtì	Ekiti	7.611	5.213	1	
-Lanre Shittu Close	Kosofe	Lagos	6.624	3.374	1	
-Clinic Road Lagos Mainland	Lagos Mainland	Lagos	6.492	3.389	1	
-Lady Aguiyi Irosi road	Umuahia North	Abia	5.520	7.504	1	
-Chemin de la Montagne	Mariga	Niger	10.870	5.906	1	
-Chemin de la Cabane	Mariga	Niger	10.855	5.902	1	
-Chemin de la Coline	Mariga	Niger	10.869	5.892	1	
-Abogo Largema Avenue	Municipal Area Council	FCT Abuja	9.067	7.494	1	
 Jabi Lake Mall	Municipal Area Council	FCT Abuja	9.078	7.426	0	
 Ladoke Akintola University of Technology Teaching Hospital	Ogbomosho North	Oyo	8.152	4.253	0	
-Ladipo Moses Street	Eti Osa	Lagos	6.479	3.575	1	
-Lawrence Street	Alimosho	Lagos	6.570	3.287	1	
-Oba Lateef Adam Crescent	Agege	Lagos	6.612	3.322	1	
-Tiamiyu Lawal Street	Alimosho	Lagos	6.630	3.289	1	Ola Motoya Street
-Labake Akande Street	Ifo	Ogun	6.676	3.308	1	
-Lawani Street	Mushin	Lagos	6.516	3.357	1	
-Miller-Lawson Avenue	Eti Osa	Lagos	6.457	3.577	1	
-Chief Labi Ishola-Lemomu Street	Eti Osa	Lagos	6.455	3.583	1	
-Ladejobi Street	Surulere	Lagos	6.501	3.345	1	
-Aremu Lawal Street	Ifako/Ijaye	Lagos	6.668	3.299	1	
-Land use Road	Ifako/Ijaye	Lagos	6.638	3.321	1	
-Adisa Lawal Keshinro Street	Eti Osa	Lagos	6.466	3.584	1	
-Lateef Nurudeen Crescent	Eti Osa	Lagos	6.475	3.578	1	
-Canaan Land Street	Eti Osa	Lagos	6.473	3.617	1	
-Laketu Street	Ìkòròdú	Lagos	6.622	3.503	1	
-Lawal Street	Alimosho	Lagos	6.681	3.268	1	
-Lawal Street	Ifako/Ijaye	Lagos	6.674	3.285	1	
-Alhaji Lawal Street	Alimosho	Lagos	6.675	3.262	1	
-Bamidele Ladifi Lane	Ìkòròdú	Lagos	6.630	3.484	1	
-Lawrence Badejo Avenue	Ìkòròdú	Lagos	6.639	3.497	1	
-Labake Adepoju Close	Oshodi/Isolo	Lagos	6.542	3.318	1	
-Abiodun Layonu Street	Eti Osa	Lagos	6.506	3.586	1	
-Lasogba Road	Ejigbo	Osun	7.852	4.350	1	
-Chemin du Lac	Mariga	Niger	10.871	5.902	1	
 British International School Lagos	Eti Osa	Lagos	6.432	3.450	0	British International Primary School
-Lady Virginia Ayolugbe Street	Onitsha North	Anambra	6.180	6.785	1	
-Laraba Daggash Street	Municipal Area Council	FCT Abuja	9.002	7.514	1	
-Oyediji Layout	Akinyele	Oyo	7.489	3.922	1	
-New Lagos Road	Oredo	Edo	6.352	5.628	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.853	3.192	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.897	3.202	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.922	3.216	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.935	3.222	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.948	3.223	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.940	3.225	1	
 Lagos State Polytechnic	Oshodi/Isolo	Lagos	6.528	3.334	0	LASPOTECH
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.294	9.804	1	
 Lagos Preparatory School	Eti Osa	Lagos	6.452	3.438	0	
 Netherlands International School Lagos	Eti Osa	Lagos	6.439	3.407	0	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.058	6.670	1	
-Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.978	6.748	1	
-Ladega Street	Eti Osa	Lagos	6.441	3.524	1	
-Lawrence Road	Eti Osa	Lagos	6.452	3.443	1	
-Lamidi Ogunsanwo Street	Shagamu	Ogun	6.833	3.622	1	
 Nigerian Law School	Eti Osa	Lagos	6.438	3.428	0	
-Lagos Street	Lagos Mainland	Lagos	6.489	3.385	1	
-Lagos-Badagry Expressway	Surulere	Lagos	6.479	3.350	1	
-Lateef Salami Street	Oshodi/Isolo	Lagos	6.551	3.329	1	
-Olubi Street	Oshodi/Isolo	Lagos	6.537	3.325	1	Nusirat Lasisi Street
-Lambe Ilumoyede Street	Oshodi/Isolo	Lagos	6.509	3.305	1	
-Lateef Aregbe Street	Oshodi/Isolo	Lagos	6.511	3.302	1	
-Lawanson Road	Mushin	Lagos	6.511	3.336	1	
-Tunde Laitan Drive	Eti Osa	Lagos	6.450	3.483	1	
-Lavender Crescent	Eti Osa	Lagos	6.455	3.523	1	
-Lafe Road	Akure South	Ondo	7.266	5.168	1	
 American International School Lagos	Eti Osa	Lagos	6.438	3.434	0	
-Waziri Babba Lawan Street	Yola North	Adamawa	9.205	12.479	1	
-Aka Layout	Uvwie	Delta	5.565	5.779	1	
-Egbe Layout	Uvwie	Delta	5.552	5.773	1	
-Ejukolemu Layout	Uvwie	Delta	5.539	5.770	1	
 University of Lagos	Shomolu	Lagos	6.520	3.396	0	UNILAG
-Langbasa Road	Eti Osa	Lagos	6.511	3.582	1	
 Lagos Business School	Eti Osa	Lagos	6.470	3.604	0	
-Layi Adesiyan Street	Ife Central	Osun	7.495	4.541	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.282	9.799	1	
-Lafia Road	Kaduna North	Kaduna	10.528	7.447	1	
-Lagos Road	Kaduna North	Kaduna	10.517	7.429	1	
-Lawani Street	Oredo	Edo	6.346	5.624	1	
 Enrico Mattei Italian International School Lagos	Eti Osa	Lagos	6.444	3.466	0	
-Lawrence Omolayo Road	Adó-Èkìtì	Ekiti	7.603	5.218	1	
-Lapai Road	Kaduna North	Kaduna	10.537	7.463	1	
-Alh. Aliyu Ladan Road	Kaduna North	Kaduna	10.576	7.462	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.239	9.752	1	
-LAGOS STREET	Ughelli North	Delta	5.534	6.075	1	
 Lagoon School	Eti Osa	Lagos	6.434	3.467	0	
-Lasu-Isheri Road	Ojo	Lagos	6.501	3.199	1	
-Funke-Layo Aremu Street	Ogbomosho North	Oyo	8.155	4.250	1	
-Lafia to Shendam Road	Qua'An Pan	Plateau	8.751	9.294	1	
-Lafia to Shendam Road	Qua'An Pan	Plateau	8.623	8.953	1	
-Lafia to Shendam Road	Qua'An Pan	Plateau	8.714	9.194	1	
-Lafia to Shendam Road	Qua'An Pan	Plateau	8.675	9.042	1	
-Raliat lawal	Ifo	Ogun	6.762	3.266	1	
-Lanre Ojerinde Street	Ewekoro	Ogun	6.845	3.191	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.315	9.818	1	
-Lawrence Road	Sapele	Delta	5.888	5.683	1	
-Lawrence Road	Sapele	Delta	5.885	5.690	1	
-Lawrence Road	Sapele	Delta	5.886	5.687	1	
-Lagasa Road	Ibeju Lekki	Lagos	6.473	3.726	1	
-Lawanson Road	Surulere	Lagos	6.512	3.346	1	
-Lawan kolo Street	Ngelzarma	Yobe	11.752	11.973	1	
-Lapade	Ido	Oyo	7.469	3.819	1	
-Lawal Yusuf Crescent	Daura	Katsina	13.020	8.327	1	
-Aliyu Lamu Yola Street	Karu	Nasarawa	9.013	7.601	1	
-Akin-Laguda Street	Ibadan South West	Oyo	7.358	3.839	1	
-Layin mai unguwa	Dala	Kano	12.034	8.489	1	
-Prof. Ndowa Lala Drive	Ikwerre	Rivers	4.906	6.910	1	
-Layin agric	Kumbotso	Kano	11.892	8.502	1	
-River Layout	Aba South	Abia	5.115	7.378	1	
-Layin gidan ado	Kumbotso	Kano	11.890	8.497	1	
-Layin Inec	Kumbotso	Kano	11.891	8.500	1	
-Lady Uzo Odukwe Street	Awka South	Anambra	6.252	7.100	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.499	8.517	1	
-Laraba Daggash Street	Municipal Area Council	FCT Abuja	9.000	7.515	1	
-Laleye Street	Ìkòròdú	Lagos	6.550	3.483	1	
-Ganiu Lamina	Ifako/Ijaye	Lagos	6.685	3.276	1	
-Lagos-Abeokuta Expressway	Ifo	Ogun	6.784	3.204	1	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.691	3.259	1	
-Lagos-Abeokuta Expressway	Ifo	Ogun	6.758	3.215	1	
-Lasu-Isheri Road	Alimosho	Lagos	6.567	3.252	1	
-Ladun Fowokan Street	Ifo	Ogun	6.672	3.364	1	
-Onigbini Laga Oro Street	Alimosho	Lagos	6.537	3.259	1	
-Lasu-Isheri Road	Alimosho	Lagos	6.531	3.217	1	
-Lasu-Isheri Road	Alimosho	Lagos	6.540	3.223	1	
-Lawma Road	Ìkòròdú	Lagos	6.599	3.572	1	
-Layin Farin Masalaci Street	Ungongo	Kano	11.975	8.450	1	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.707	3.243	1	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.698	3.254	1	
-Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.111	7.444	1	
-Omotayo Lawal Street	Eti Osa	Lagos	6.508	3.594	1	
-Lagos-Abeokuta Expressway	Agege	Lagos	6.615	3.304	1	
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.612	3.305	1	
-Layin Loko	Kumbotso	Kano	11.951	8.478	1	
-Layin Gidan Kashi	Kumbotso	Kano	11.953	8.478	1	
-Charanci Layin Makabarta	Kumbotso	Kano	11.949	8.476	1	
-Lajorin	Ilorin East	Kwara	8.488	4.569	1	
-Lai-Adeniji Olawoyin Avenue	Eti Osa	Lagos	6.446	3.609	1	
-Layin Transformer	Kumbotso	Kano	11.954	8.475	1	
-Layin Alaramma Mal Haruna	Kumbotso	Kano	11.954	8.475	1	
-Layin Nagezo	Kumbotso	Kano	11.955	8.476	1	
-Layin Dan Fulani	Kumbotso	Kano	11.954	8.476	1	
-Layin Gidan Inyass	Kumbotso	Kano	11.950	8.475	1	
-Layin Gidan Mutum 30	Kumbotso	Kano	11.951	8.475	1	
-Layin Ya Malan	Kumbotso	Kano	11.951	8.475	1	
-Layin Baba Manjo	Kumbotso	Kano	11.950	8.476	1	
-Ladipo Street	Mushin	Lagos	6.532	3.350	1	
-Alhaji Lasisi Street	Mushin	Lagos	6.524	3.362	1	
-Lafia Close	Municipal Area Council	FCT Abuja	9.035	7.489	1	
-Lamido Cresent	Nassarawa	Kano	11.980	8.562	1	
-Ladoke Akintola Boulevard	Municipal Area Council	FCT Abuja	9.024	7.496	1	
-Ladoke Akintola Boulevard	Municipal Area Council	FCT Abuja	9.027	7.498	1	
-Lara Ademola Street	Eti Osa	Lagos	6.447	3.515	1	
-Adebayo Lawal Close	Kosofe	Lagos	6.571	3.374	1	
-Banking layout	Uyo	Akwa Ibom	4.998	7.930	1	
-Lateef Jinadu Dosunmu Street	Ikeja	Lagos	6.626	3.357	1	
-Ladipo Street	Mushin	Lagos	6.535	3.348	1	
-Adebisi Ladejobi Close	Eti Osa	Lagos	6.441	3.474	1	
-Adeleye, Lalupon Road	Egbeda	Oyo	7.454	4.047	2	
 Lagos State University	Ojo	Lagos	6.484	3.197	0	LASU
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.152	9.687	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.175	9.696	1	
-Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.295	9.805	1	
-Land Lord Street	Yenegoa	Bayelsa	4.923	6.289	1	
-Langtang - Bauchi Federal Road	Langtang North	Plateau	9.178	9.802	1	
-Langtang - Bauchi Federal Road	Langtang North	Plateau	9.165	9.801	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.379	9.603	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.372	9.617	1	
-Langtang - Bauchi Federal Road	Kanke	Plateau	9.377	9.610	1	
-Lagos Street	Dutsin Ma	Katsina	12.450	7.494	1	
-Nike Lake Road	Enugu East	Enugu	6.476	7.506	1	
 Eye Foundation Hospital & Laser Centre	Eti Osa	Lagos	6.440	3.456	0	
-Lady Ngozi Umeoji Avenue	Enugu North	Enugu	6.455	7.562	1	
-Old Lagos Road	Odogbolu	Ogun	6.797	3.896	1	
-Langbasa Road	Eti Osa	Lagos	6.504	3.582	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.645	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.514	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.064	6.526	1	
 Indian Language School Lagos	Mushin	Lagos	6.552	3.364	0	
-Old Lagos Road	Epe	Lagos	6.583	3.959	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.701	3.416	1	
-Lasu-Isheri Road	Ojo	Lagos	6.521	3.207	1	
 Lawan Musa Maternity and  Child Health Clinic	Barde	Yobe	12.870	11.048	0	
-Enemebire Layout	Uvwie	Delta	5.559	5.763	1	
 General Hospital Lagos	Lagos Island	Lagos	6.446	3.397	0	
-Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.113	7.430	1	
-Land Road	Mobbar	Borno	13.079	12.520	1	
 Lagos State University Teaching Hospital	Ikeja	Lagos	6.590	3.341	0	LASUTH
 Lagos Island Maternity Hospital	Lagos Island	Lagos	6.449	3.398	0	
 Lagos University Teaching Hospital	Mushin	Lagos	6.516	3.355	0	LUTH
 Ladu Dispensary	Yunusari	Yobe	13.009	11.851	0	
 Dumbol Lawanti Dispensary	Yunusari	Yobe	13.058	11.826	0	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.459	3.277	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.298	1	
 Ladipo Market	Mushin	Lagos	6.545	3.345	0	Ladipo Auto Spare Parts Market
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.457	3.260	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.456	3.245	1	
-Old Lagos Road	Epe	Lagos	6.596	3.945	1	
 Federal Government College Lagos	Ojo	Lagos	6.490	3.141	0	
 Lado Oil	Ìkòròdú	Lagos	6.598	3.588	0	
-Lasu-Isheri Road	Ojo	Lagos	6.486	3.199	1	
 Lagos State Rehabilitation and Vocational Training Centre	Ifo	Ogun	6.640	3.377	0	
 Lagos State Civil Service College	Ìkòròdú	Lagos	6.596	3.518	0	
 Lagos State Polytechnic	Ìkòròdú	Lagos	6.638	3.532	0	LASPOTECH|LASPOTECH
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.666	3.278	1	
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.649	3.305	1	
 Our Lady's Health of the Sick Hospital	Port-Harcourt	Rivers	4.801	7.019	0	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.223	3.810	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.240	3.819	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.227	3.812	1	
 Lagos State Junior Model College	Ìkòròdú	Lagos	6.623	3.661	0	
-Mekenge Layout	Calabar Municipal	Cross River	4.966	8.339	1	
 Lara Narrow Way Nursery & Primary School	Ìkòròdú	Lagos	6.633	3.512	0	
 Lagos State Rehabilitation and Training Centre, Owutu	Ìkòròdú	Lagos	6.642	3.485	0	
-Latiya Road	Jos South	Plateau	9.820	8.912	1	
-Layi Yusuf Crescent	Eti Osa	Lagos	6.438	3.454	1	
-Lawal Amoo Street	Eti Osa	Lagos	6.451	3.567	1	
-Lagos Avenue	Oluyole	Oyo	7.340	3.821	1	
 GSS Lafia East	Lafia	Nasarawa	8.469	8.519	0	
 Lajawa Primary Health Centre	Wudil	Kano	11.870	8.923	0	
 Allah bamu Lafiya Hospital	Muhammadu Dikko Stadium	Katsina	12.993	7.608	0	
@@ -1250,14 +2112,6 @@ Our Lady of Fatima Hospital	Osogbo	Osun	7.769	4.549	0
 Lagos Health Center Harvey Road	Shomolu	Lagos	6.512	3.374	0	
 Lantoro catholic hospital	Abeokuta South	Ogun	7.163	3.363	0	
 Sabon layi PHC	Billiri	Gombe	9.900	11.094	0	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.458	3.269	1	
-Lagos-Badagry Expressway	Surulere	Lagos	6.478	3.343	1	
-Lagos-Badagry Expressway	Surulere	Lagos	6.463	3.322	1	
-Lagos-Badagry Expressway	Surulere	Lagos	6.469	3.330	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.231	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.458	3.235	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.964	6.368	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.966	6.368	1	
 laworu health clinic	Demsa	Adamawa	9.405	11.938	0	
 Lantewa Dispensary	Tarmua	Yobe	12.264	11.732	0	
 lassala health post	Demsa	Adamawa	9.563	12.183	0	
@@ -1269,137 +2123,18 @@ Wuro Lamido Health Clinic	Fufore	Adamawa	9.192	12.234	0
 Lafiya Dispensary Malabu	Fufore	Adamawa	9.556	12.782	0	
 Laide Health Post	Fufore	Adamawa	8.847	12.470	0	
 Lakum Primary Health Clinic	Guyuk	Adamawa	9.911	11.964	0	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.095	3.730	1	
 Lawan Bukarti Dispensary	Geidam	Yobe	12.834	11.844	0	
-Lanor Street	Zurmi	Zamfara	12.592	6.778	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.460	3.215	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.459	3.223	1	
-Lagos-Ibadan Expressway	Shagamu	Ogun	6.902	3.596	1	
-Lagos-Ibadan Expressway	Shagamu	Ogun	6.901	3.595	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.737	3.419	1	
-Lamu Audu Drive	Municipal Area Council	FCT Abuja	9.066	7.486	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.978	6.369	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.446	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.066	6.443	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.054	6.433	1	
 Lano Community Secondary School	Yamaltu/Deba	Gombe	10.174	11.476	0	
-Laying Primary Street	Gwale	Kano	11.977	8.472	1	
-Layin OD Street	Gwale	Kano	11.977	8.472	1	
-Layin Salihi Street	Gwale	Kano	11.977	8.475	1	
-Babayaro Street (Layin High Tension)	Ungongo	Kano	11.973	8.445	1	
 Landmark University	Irepodun	Kwara	8.119	5.066	0	
-LABORATORY	Isiala Mbano	Imo	5.680	7.240	0	
-Independence Layout	Enugu North	Enugu	6.455	7.540	2	
-Independence Layout	Enugu North	Enugu	6.442	7.529	2	
-Independence Layout	Enugu North	Enugu	6.438	7.536	2	
-Independence Layout	Enugu South	Enugu	6.419	7.534	2	
-Lasu-Isheri Road	Ojo	Lagos	6.464	3.205	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.461	3.203	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.479	3.179	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.469	3.191	1	
-Lateef Bamidele Street	Oshodi/Isolo	Lagos	6.494	3.300	1	
-Sand Lake Road	Municipal Area Council	FCT Abuja	9.096	7.492	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.286	3.864	1	
+Laboratory	Isiala Mbano	Imo	5.680	7.240	0	
 lambi town	Enugu South	Enugu	6.415	7.482	0	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.706	3.245	1	
-Lagos-Ibadan Expressway	Remo North	Ogun	7.033	3.706	1	
-Lagos-Ibadan Expressway	Remo North	Ogun	7.051	3.713	1	
-Lagos Street	Mbaitoli	Imo	5.532	7.035	1	
 Glory Land Academy	Jos North	Plateau	9.863	8.863	0	
 Lawrack hospital	Jos North	Plateau	9.855	8.854	0	
-Layin tare	Gombe	Gombe	10.290	11.189	1	
-Shehu Laminu Avenue	Kaduna North	Kaduna	10.525	7.454	1	
-Main Entrance to Law Auditorium	Ovia North-East	Edo	6.744	5.405	1	
-College Of Law Driveway	Ovia North-East	Edo	6.745	5.405	1	
 Faculty of Science Laboratories	Kaduna North	Kaduna	10.612	7.446	0	
-Oba Munirudeen Adesola Lawal Road	Ede South	Osun	7.708	4.483	1	
-Ladipo Street	Ajeromi/Ifelodun	Lagos	6.453	3.329	1	
-Yaba Lafewa Street	Ondo West	Ondo	7.086	4.828	1	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.719	3.223	1	
-Adeoye Lati Jimoh Street	Obafemi Owode	Ogun	7.129	3.376	1	
-T.S Ladejobi Adedotun Street	Remo North	Ogun	6.968	3.684	1	
-Faculty of law Road	Isuikwuato	Abia	5.851	7.425	1	
-Facuty of Law Road 2	Isuikwuato	Abia	5.851	7.423	1	
+Lassandi Primary School	Yorro	Taraba	8.945	11.359	0	
 Professor Wole Shoyinka Station, Laderin	Obafemi Owode	Ogun	7.129	3.398	0	
-Lagos Coastal Highway	Ibeju Lekki	Lagos	6.432	3.733	1	
-Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.110	7.451	1	
 Laboratory	Langtang North	Plateau	9.187	9.879	0	
-Lagos Street	Enugu North	Enugu	6.445	7.507	1	
-Lagos Coastal Highway	Ibeju Lekki	Lagos	6.429	3.706	1	
-Old Lagos Road	Epe	Lagos	6.587	3.951	1	
-Lagos Coastal Highway	Eti Osa	Lagos	6.426	3.509	1	
-Lagos Coastal Highway	Eti Osa	Lagos	6.426	3.547	1	
-Lagos Coastal Highway	Eti Osa	Lagos	6.428	3.525	1	
-Lagos Coastal Highway	Eti Osa	Lagos	6.428	3.523	1	
-Lagos Coastal Highway	Eti Osa	Lagos	6.432	3.591	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.044	6.411	1	
 Law Auditorium Closed Door	Ovia North-East	Edo	6.744	5.404	0	
-Lagos Coastal Highway	Eti Osa	Lagos	6.425	3.494	1	
-Lagos Coastal Highway	Eti Osa	Lagos	6.423	3.470	1	
-Lagos Coastal Highway	Eti Osa	Lagos	6.425	3.455	1	
-Solomon Lar Way	Municipal Area Council	FCT Abuja	9.075	7.434	1	
 Charterhouse Lagos	Eti Osa	Lagos	6.443	3.593	0	
-Lagos Coastal Highway	Eti Osa	Lagos	6.433	3.595	1	
-Tobi Lawal Street	Ìkòròdú	Lagos	6.622	3.490	1	
-Ladipo Street	Mushin	Lagos	6.542	3.344	1	
 Nigeria Arabic Language Village Ngala	Maiduguri	Borno	11.820	13.162	0	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.062	6.599	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.059	6.576	1	
-Nike Lake Road	Enugu East	Enugu	6.500	7.514	1	
-Mustaphau Lasisi Street	Eti Osa	Lagos	6.433	3.522	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.507	8.537	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.530	8.578	1	
-Lafia to Shendam Road	Lafia	Nasarawa	8.523	8.566	1	
-Lafiaji Community	Eti Osa	Lagos	6.431	3.560	2	
 Unguwar Labe Health Clinic	Mai'Adua	Katsina	13.212	8.206	0	
-Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.615	9.532	1	
-Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.552	9.512	1	
-Langawa Darin	Nangere	Yobe	11.574	10.980	2	
-Lawan Fannami	Barde	Yobe	12.892	11.017	2	
-Lantaiwa	Tarmua	Yobe	12.315	11.726	2	
-Lawan Musa	Barde	Yobe	12.900	11.054	2	
-Lamisu	Machina	Yobe	13.132	10.180	2	
-Lafiya	Guri	Jigawa	12.780	10.524	2	
-Lafia	Birnin Kudu	Jigawa	11.356	9.386	2	
-Lahodu	Wurno	Sokoto	13.228	5.369	2	
-Kwacciyar Lalle	Bodinga	Sokoto	12.867	5.225	2	
-Lamba Tureta	Tureta	Sokoto	12.685	5.531	2	
-Lajinge	Sabon Birni	Sokoto	13.580	6.147	2	
-Labani	Silame	Sokoto	12.923	4.845	2	
-Lambara	Shagari	Sokoto	12.473	5.180	2	
-Lani Shiba	Koko-Besse	Kebbi	11.644	4.385	2	
-Lailaba	Argungu	Kebbi	12.803	4.456	2	
-Lagga	Birnin Kebbi	Kebbi	12.447	4.420	2	
-Lazuru Tuddai	Lere	Kaduna	10.298	8.658	2	
-Lajawa	Wudil	Kano	11.887	8.886	2	
-Lausu	Rano	Kano	11.523	8.599	2	
-Langel	Tofa	Kano	11.992	8.392	2	
-Lambu	Tofa	Kano	12.000	8.347	2	
-Sabon Layi	Faskari	Katsina	11.648	6.944	2	
-Lakwaya	Gwarzo	Kano	11.970	7.867	2	
-Lafagu Gante	Bagudo	Kebbi	11.122	4.257	2	
-Lapai	Lapai	Niger	8.781	6.675	2	
-Lavun	Lavun	Niger	9.382	5.637	2	
-Lagelu	Lagelu	Oyo	7.512	4.079	2	
-Lafia	Lafia	Nasarawa	8.712	8.800	2	
-Barkin Ladi	Barkin Ladi	Plateau	9.575	8.970	2	
-Langtang South	Langtang South	Plateau	8.584	9.833	2	
-Langtang North	Langtang North	Plateau	9.049	9.819	2	
-Larmurde	Larmurde	Adamawa	9.558	11.704	2	
-Lakudum	Shani	Borno	10.207	11.921	2	
-A Lawant	Marte	Borno	12.258	13.726	2	
-Lamisula	Maiduguri	Borno	11.847	13.137	2	
-Lassa	Askira-Uba	Borno	10.692	13.267	2	
-Lafiya Loi Loi	Jakusko	Yobe	12.185	10.982	2	
-Lariski	Kirfi	Bauchi	10.348	10.802	2	
-Lanzai East	Darazo	Bauchi	11.433	10.794	2	
-Lariye	Jama'Are	Bauchi	11.570	9.866	2	
-Lago	Darazo	Bauchi	11.175	10.537	2	
-Dutsen Lawan	Bogoro	Bauchi	9.715	9.531	2	
-Lanzai West	Darazo	Bauchi	11.390	10.832	2	
-Lame	Toro	Bauchi	10.464	9.198	2	
-Kafin Larabawa	Zaki	Bauchi	11.914	10.327	2	
-Lagos Island	Lagos Island	Lagos	6.515	3.491	2	
-Layi	Mobbar	Borno	12.901	12.642	2	
-Unguwar Lalle	Sabon Birni	Sokoto	13.508	6.112	2	
-Lagos Mainland	Lagos Mainland	Lagos	6.493	3.388	2	

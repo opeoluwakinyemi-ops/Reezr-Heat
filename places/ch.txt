@@ -1,3 +1,13 @@
+Chokocho	Etche	Rivers	4.989	7.051	3	Chokoehe
+Chum	Balanga	Gombe	9.707	11.717	3	
+Chibok	Chibok	Borno	10.869	12.848	3	Chibuk
+Chaka Baba	Gezawa	Kano	12.092	8.658	3	
+Otu-Jeremi	Udu	Delta	5.438	5.878	3	Jeremi Town|Otu-Chievwen|Otu-Ghievwen|Otu-Ughievwen|Otughievwen|Otujeremi
+Onitsha	Onitsha North	Anambra	6.150	6.786	3	Onicha|Onicjo|QNI|ao ni cha|onicha
+Charanchi	Charanchi	Katsina	12.672	7.729	3	Cheranchi
+Tsafe	Tsafe	Zamfara	11.958	6.921	3	Chafe
+Chakwama	Buji	Jigawa	11.560	9.664	3	Kkhakuama
+Chevron	Eti Osa	Lagos	6.442	3.531	2	
 Guidan Chinaou	Kaita	Katsina	13.328	7.773	2	
 Charin Dawa	Gazaoua	Katsina	13.344	7.790	2	
 Chantali	Gazaoua	Katsina	13.342	7.921	2	
@@ -9,20 +19,20 @@ Chemso	Mangu	Plateau	9.582	9.259	2
 Sabongari Chambula	Madagali	Adamawa	10.867	13.519	2	
 Cheche	Katcha	Niger	9.367	6.267	2	
 Chawa	Fufore	Adamawa	9.350	12.700	2	Rumde
-Chenchenji	Takum	Benue	7.517	9.933	2	
+Chenchenji	Takum	Taraba	7.517	9.933	2	
 Chironbi Mallamai	Babura	Jigawa	12.649	8.929	2	Muchurrumbi
 Chancha	Gwadabawa	Sokoto	13.366	5.281	2	
 Chikoro	Ofu	Kogi	7.333	7.233	2	Chilaro
 Chika	Maru	Zamfara	12.378	6.359	2	
+Chumo	Jalingo	Taraba	8.902	11.334	2	
 Chohi	Tangaza	Sokoto	13.592	4.872	2	
 Chida	Tsafe	Zamfara	11.836	7.008	2	Chido
 Gidan Chida	Gusau	Zamfara	12.104	6.619	2	
 Ungwan Chitumu	Giwa	Kaduna	11.205	7.452	2	Angwan Chitumu
 Chara	Tai	Rivers	4.718	7.251	2	
-Chokocho	Etche	Rivers	4.989	7.051	3	Chokoehe
 Tungan Chado	Lavun	Niger	9.317	5.617	2	
 Chadowagi	Katcha	Niger	8.800	6.250	2	
-Chinka	Wukari	Nasarawa	8.033	9.433	2	Chinkai;Sinkai;Tungan Sinkai
+Chinka	Wukari	Taraba	8.033	9.433	2	Chinkai;Sinkai;Tungan Sinkai
 Sabongari Chalikutu	Askira-Uba	Borno	10.611	13.171	2	
 Kilgori	Yabo	Sokoto	12.826	5.021	2	Chilgori
 Shapuk	Shani	Borno	10.214	12.009	2	Chapu
@@ -56,6 +66,7 @@ Chofe	Bodinga	Sokoto	12.648	5.317	2	Chohi
 Chimi	Michika	Adamawa	10.595	13.284	2	
 Bula Chesabe	Abadam	Borno	13.536	13.134	2	
 Chabal	Akko	Gombe	10.067	11.183	2	Chabai
+Chegirgir	Donga	Taraba	7.600	10.150	2	Chegingir
 Ungwan Chufa	Arewa Dandi	Kebbi	12.515	3.863	2	
 Charkidamai	Hawul	Borno	10.496	12.298	2	Chagdamari
 Chara	Biu	Borno	10.884	11.965	2	Cara
@@ -64,13 +75,15 @@ Chacho	Wurno	Sokoto	13.165	5.448	2	Chaco
 Cibauna	Funtua	Katsina	11.536	7.187	2	Chibauna
 Guidan Mallam Chido	Gusau	Zamfara	12.019	6.673	2	
 Ungwan Chori	Giwa	Kaduna	11.015	7.428	2	Angwan Chori
+Chuwa	Sardauna	Taraba	6.666	11.316	2	
 Chofan	Silame	Sokoto	13.099	4.775	2	
 Chopal	Tambuwal	Sokoto	12.335	4.751	2	
 Ungwan Chinya	Tsafe	Zamfara	11.728	6.840	2	
 Chalawa	Kumbotso	Kano	11.907	8.422	2	Challawa
-Chum	Balanga	Gombe	9.707	11.717	3	
 Chita	Edu	Kwara	8.917	5.150	2	Chitta
 Chibiani	Munya	Niger	9.806	7.035	2	
+Chegusa	Donga	Taraba	7.500	10.150	2	Chequsa
+Chong	Kurmi	Taraba	7.033	10.767	2	Shonga;Schonga
 Gidan Sarikin Uran Chiku	Rafi	Niger	10.333	6.400	2	Uran Chikki
 Gero Chirama	Bunza	Kebbi	12.110	3.969	2	
 Chimawa	Kware	Sokoto	13.183	5.330	2	
@@ -81,6 +94,7 @@ Chingali	Gada	Sokoto	13.567	5.791	2
 Tungan Chichi	Gudu	Sokoto	13.194	4.425	2	
 Chungul Jabarari	Tarmua	Yobe	12.052	12.099	2	
 Chiriagi	Tambuwal	Sokoto	12.716	4.862	2	
+Chonku	Wukari	Taraba	7.759	9.761	2	Chunku
 Chul	Askira-Uba	Borno	10.617	13.133	2	
 Chikile	Demsa	Adamawa	9.333	12.117	2	Chikle
 Chachile	Bama	Borno	11.477	13.982	2	
@@ -100,7 +114,6 @@ Chekpado	Agaie	Niger	8.917	6.350	2
 Chikol	Mayo-Belwa	Adamawa	9.000	11.967	2	Chukol
 Chemba	Mobbar	Borno	13.023	12.562	2	
 Chingokili	Abadam	Borno	13.576	13.266	2	Chingokiri
-Chibok	Chibok	Borno	10.869	12.848	3	Chibuk
 Nchiwarkir	Biu	Borno	10.739	12.251	2	Chibakur
 Shako	Bunza	Kebbi	12.170	3.965	2	Chakao
 Changom	Bayo	Borno	10.607	11.688	2	Chongwon
@@ -125,30 +138,10 @@ Chamalwa	Biu	Borno	10.822	12.432	2	Kimba Chamalwa
 Garin Chine	Babura	Jigawa	12.794	8.983	2	Uku Dasisi
 Changala;Sangala	Yola North	Adamawa	9.383	12.333	2	
 Tsumu	Ngaski	Kebbi	10.681	4.783	2	Chumu
-Charanchi	Charanchi	Katsina	12.671	7.732	2	Cheranchi
 Chikeke	Yauri	Kebbi	10.869	4.734	2	
 Chida	Gusau	Zamfara	12.104	6.619	2	
-DOMINION CHILDREN ACADEMY	Egor	Edo	6.361	5.582	0	
-Army Children School Iwo-Road	Ibadan North East	Oyo	7.405	3.936	0	
-New Life In Christ Group of Schools	Egor	Edo	6.363	5.578	0	
-Christ for All Ministry	Egor	Edo	6.367	5.586	0	
-Command Children School	Oredo	Edo	6.312	5.620	0	
-Lovers of Christ Academy	Oredo	Edo	6.307	5.612	0	
-Christ The Shepherd International School	Oredo	Edo	6.324	5.599	0	
-Chinel University Academy	Oredo	Edo	6.338	5.599	0	
-Chinwendu Clinic & Maternity	Enugu East	Enugu	6.480	7.519	0	
-Holy Child Nursery & Primary	Enugu East	Enugu	6.481	7.509	0	
-Winsophia Child Friendly	Enugu East	Enugu	6.483	7.522	0	
-Chinwe Memorial Clinic	Enugu South	Enugu	6.413	7.544	0	
-First Choice Specialist Clinic	Enugu North	Enugu	6.437	7.505	0	
-Le Chateau	Ibadan North	Oyo	7.418	3.900	0	
-Chiromawa Primary Health Centre	Bichi	Kano	12.322	8.159	0	
 Chula	Ajingi	Kano	11.991	8.967	2	
 Chedi	Kano Municipal	Kano	12.002	8.519	2	
-Genius Children School	Ibadan South East	Oyo	7.360	3.912	0	
-Government Chest Hospital,Jericho	Ibadan South West	Oyo	7.394	3.872	0	
-Ebenezer African Church School	Ibadan North West	Oyo	7.392	3.887	0	
-Chevron	Eti Osa	Lagos	6.441	3.530	0	
 Chirgé	Madarounfa	Zamfara	13.025	6.973	2	
 Dogon Chiku	Abadam	Borno	13.377	13.506	2	
 Telatsinghi	Kwaya Kusar	Borno	10.422	12.021	2	Chani
@@ -184,11 +177,9 @@ Charumbari	Gubio	Borno	12.591	12.788	2
 Chari Kiriri	Gubio	Borno	12.663	12.711	2	
 Chariri B Musaye	Mobbar	Borno	12.945	12.665	2	
 Chariri	Mobbar	Borno	12.947	12.663	2	
-Primary Health Centre Chibok	Chibok	Borno	10.866	12.854	0	Garu Primary Health Centre
 Chari Kaari	Gubio	Borno	12.563	12.868	2	
 Chekele	Bayo	Borno	10.380	11.634	2	
 Chibira	Bayo	Borno	10.373	11.809	2	Chibra
-Gomboru Maternal And Child Clinic	Ngala	Borno	12.370	14.210	0	
 Challumeri	Jere	Borno	11.732	13.238	2	
 Chauriri	Jere	Borno	11.740	13.211	2	
 Ngarwa Chukku	Diffa	Borno	13.386	12.770	2	
@@ -222,36 +213,19 @@ Pono Chillawa	Bayo	Borno	10.359	11.754	2
 Mainari A Chulum	Mobbar	Borno	13.194	13.004	2	
 Charangi	Kwaya Kusar	Borno	10.358	11.956	2	
 Fulani Chivimobulu	Hawul	Borno	10.380	12.467	2	
-Buma Maternity and Child Health	Hawul	Borno	10.329	12.178	0	
 Charkari	Abadam	Borno	13.104	13.298	2	
 Chingojamno	Abadam	Borno	13.129	13.379	2	
 Kindil Chuwo	Mobbar	Borno	13.402	12.877	2	
 Chakaraku	Hawul	Borno	10.552	12.126	2	
-Gubio Maternity and Child Health	Gubio	Borno	12.492	12.784	0	
 Chobal Kura	Magumeri	Borno	11.954	13.004	2	
-Chobal Kura Primary Health Centre	Magumeri	Borno	11.955	13.002	0	
-Benisheik Maternal Child Health Clinic	Kaga	Borno	11.807	12.488	0	
 Baraki Chandum	Biu	Borno	10.585	12.415	2	
-Maternity and Child Health Miringa	Biu	Borno	10.726	12.146	0	
 Mude Chira	Damboa	Borno	11.098	12.901	2	
 Chongolo	Bama	Borno	11.376	13.854	2	
 Chowalta	Bama	Borno	11.393	13.746	2	
-Maternity and Child Health Bama	Bama	Borno	11.517	13.685	0	
 Chikun Gudu	Ngala	Borno	12.549	14.067	2	
-chibok clinic	Chibok	Borno	10.804	12.751	0	
 N'Guel Chondi	Goudoumaria	Yobe	13.379	10.865	2	
 Chefouri	Maïné Soroa	Yobe	13.124	12.213	2	
-PHC Chacho	Wurno	Sokoto	13.167	5.451	0	
 Chetimari Gremah Artori	Nganzai	Borno	12.637	13.298	2	
-Gombe Childrean and High School	Gombe	Gombe	10.280	11.162	0	
-Chisco	Eti Osa	Lagos	6.434	3.490	0	
-Chosen Secondary SchoolMgbi	Oru West	Imo	5.721	6.862	0	
-Choba Market	Obio/Akpor	Rivers	4.889	6.901	0	
-Chi Tim Filling Station	Uvwie	Delta	5.569	5.728	0	
-Vibrant Child Nursery and primary School	Oyigbo	Rivers	4.888	7.130	0	
-Christ d King School	Uvwie	Delta	5.559	5.774	0	
-Rhema Champion School	Uvwie	Delta	5.554	5.774	0	
-Holy Child Intl Modern School	Yenegoa	Bayelsa	4.932	6.310	0	
 Channari	Kukawa	Borno	12.791	13.568	2	
 Chirawa Alajiri	Kukawa	Borno	12.761	13.594	2	
 Chendele Kura	Monguno	Borno	12.504	13.543	2	
@@ -267,10 +241,1083 @@ Charikari	Nganzai	Borno	12.637	13.217	2
 Chichimmari	Guzamala	Borno	12.926	13.576	2	
 Amar Chari	Guzamala	Borno	12.798	13.196	2	
 Chingo Zamno	Guzamala	Borno	12.939	12.964	2	
-Glorious Child primary School	Yenegoa	Bayelsa	4.945	6.334	0	
 Chillari	Konduga	Borno	11.865	12.760	2	
 Chilari Shuwari	Konduga	Borno	11.875	12.794	2	
 Charikwenti	Konduga	Borno	11.873	12.749	2	
+Dan Chigaya	Tangaza	Sokoto	13.463	4.793	2	
+Chitama	Karaye	Kano	11.662	7.912	2	
+Chikada	Kiru	Kano	11.747	8.093	2	
+Chau Chau	Kiru	Kano	11.683	8.094	2	
+Chiromawa	Bichi	Kano	12.318	8.161	2	
+Ringimawa Chikin Gari	Garum Mallam	Kano	11.666	8.415	2	Ringimawa
+Chedi Gari Ingawa	Dawakin Tofa	Kano	12.118	8.408	2	
+Chedi Cikin Gari	Dawakin Tofa	Kano	12.138	8.392	2	
+Chikin Shinge	Bichi	Kano	12.258	8.358	2	
+Unguwar Chiroma	Makoda	Kano	12.494	8.502	2	
+Takuyar Chiroma	Dambatta	Kano	12.383	8.701	2	
+Unguwar Chiroma	Makoda	Kano	12.355	8.491	2	
+Chago	Warawa	Kano	11.928	8.688	2	
+Charka	Warawa	Kano	11.978	8.690	2	
+Charo	Gezawa	Kano	12.065	8.686	2	Cero
+Charo Katurje	Gezawa	Kano	12.066	8.694	2	Katirije
+Chedi Fulani	Minjibir	Kano	12.189	8.675	2	Yola Cedi
+Dukawa	Gabasawa	Kano	12.137	8.894	2	Chikawa Azare
+Chiromawa Bakin Shara	Ajingi	Kano	12.011	8.941	2	
+Chinkilawa	Warawa	Kano	11.895	8.776	2	
+Chilori	Albasu	Kano	11.643	8.980	2	
+Chukulo Sabon Gari	Gaya	Kano	11.779	8.906	2	
+Chamarana	Albasu	Kano	11.651	9.089	2	
+Kofar Chiri	Garko	Kano	11.604	8.861	2	Kafin Chiri
+Chambi	Kibiya	Kano	11.431	8.634	2	
+Chirin Cikin Gari	Bunkure	Kano	11.629	8.522	2	Chirin;Chirim
+Palmgrove Christian Community	Abak	Akwa Ibom	4.999	7.766	2	
+Chaoude	Kala-Balge	Borno	11.856	14.619	2	
+Chaha	Jos South	Plateau	9.737	8.809	2	
+Chachamnau	Guri	Jigawa	12.540	10.450	2	
+Cheledi	Kirfi	Bauchi	10.402	10.411	2	
+Chisco	Eti Osa	Lagos	6.434	3.490	2	
+Chita	Bassa	Kogi	7.682	6.780	2	
+Chikun	Chikun	Kaduna	10.271	7.111	2	
+Chilariye	Nangere	Yobe	11.677	10.990	2	
+Chamo	Dutse	Jigawa	11.995	9.305	2	
+Chirbin	Buji	Jigawa	11.598	9.654	2	
+Chaichai	Ringim	Jigawa	12.079	9.283	2	
+Chukuto	Taura	Jigawa	12.283	9.243	2	
+Chikwaikwaiwa	Taura	Jigawa	12.289	9.367	2	
+Garin Chiroma	Gagarawa	Jigawa	12.414	9.492	2	
+Chediya	Tsafe	Zamfara	11.988	6.966	2	
+Chilas	Gudu	Sokoto	13.281	4.270	2	
+Chacho-Marnona	Wurno	Sokoto	13.226	5.544	2	
+Chimola	Gwadabawa	Sokoto	13.339	5.326	2	
+Karfe Chana	Gudu	Sokoto	13.266	4.600	2	
+Chibike	Arewa Dandi	Kebbi	12.450	3.828	2	
+Cheberu	Gwandu	Kebbi	12.512	4.526	2	
+Chikaji	Sabon Gari	Kaduna	11.115	7.724	2	
+Chori	Jaba	Kaduna	9.528	8.061	2	
+Chirin	Bunkure	Kano	11.610	8.513	2	
+Chiranchi	Kumbotso	Kano	11.934	8.471	2	
+Chiromawa	Garum Mallam	Kano	11.632	8.393	2	
+Charanchi	Charanchi	Katsina	12.700	7.699	2	
+Charanchi	Charanchi	Katsina	12.558	7.676	2	
+Chikun	Chikun	Kaduna	10.242	7.071	2	
+Rumirgu Chul	Askira-Uba	Borno	10.601	13.053	2	
+Chibok	Chibok	Borno	10.839	12.820	2	
+Chukuriya	Nangere	Yobe	12.002	10.907	2	
+Chinade	Katagum	Bauchi	11.540	10.415	2	
+Chinkani	Giade	Bauchi	11.322	10.263	2	
+Gwangang Chata	Hawul	Borno	10.362	12.104	2	
+Hoyo Chingowa	Magumeri	Borno	12.019	12.946	2	
+Chamba	Mobbar	Borno	13.075	12.603	2	
+Chulu Gumbi	Yauri	Kebbi	10.629	4.717	2	
+Chanchaga	Chanchaga	Niger	9.619	6.550	2	
+Chikun	Chikun	Kaduna	10.420	7.314	2	
+Chikide	Gwoza	Borno	11.051	13.783	2	
+Zaran Mai Chibi	Darazo	Bauchi	10.951	10.358	2	
+Wuro Chita	Kirfi	Bauchi	10.511	10.409	2	
+Ungwan Mallam Chungun	Sanga	Kaduna	9.474	8.564	2	
+Barrakin Chori	Jaba	Kaduna	9.499	8.047	2	Borrakin Chori|Galadima|Unguwar Galadima
+Rumu-Chita	Obio/Akpor	Rivers	4.838	6.986	2	Umuchitta|Umuochita
+Sopa	Lavun	Niger	9.317	5.617	2	Chado|Tungan Chado|Tungar Chado
+Tungan Chichi	Gudu	Sokoto	13.193	4.427	2	
+Tungan Chafa	Tibiri	Kebbi	13.167	4.127	2	
+Tse-Chumba	Konshisha	Benue	7.199	8.551	2	
+Tsadoyagi	Katcha	Niger	8.814	6.290	2	Chadowagi|Tsadovagi
+Rafin Chiawa	Ningi	Bauchi	10.828	9.400	2	
+Pirohi Chamba	Jada	Adamawa	8.579	12.046	2	
+Payashetan Chalba	Chibok	Borno	10.746	12.925	2	
+Ochokocho-Obo	Degema	Rivers	4.596	7.011	2	Chokorocho|Ochokorocho
+Ndijiu	Karasuwa	Yobe	13.178	10.896	2	Chinjaidia
+Murna Chehu	Bali	Taraba	8.406	11.074	2	
+Mayo Haka Chamba	Jada	Adamawa	8.688	12.309	2	
+Luga Chamba	Fufore	Adamawa	8.858	12.582	2	
+Leho Yahi-Chiroma	Askira-Uba	Borno	10.663	12.880	2	
+Kipi	Bassa	Kogi	7.855	7.119	2	Chikpi
+Kindil Chiro	Mobbar	Borno	13.374	12.883	2	
+Kimba Chamalwa	Biu	Borno	10.820	12.436	2	
+Kekeno	Kukawa	Borno	12.764	13.708	2	Checheno
+Karlahi Chamba	Fufore	Adamawa	8.839	12.571	2	
+Kafin Chiri	Garko	Kano	11.602	8.861	2	
+Kafin Chana	Gudu	Sokoto	13.224	4.485	2	Chana
+Jalingo Chamba	Jada	Adamawa	8.723	12.409	2	
+Itachurch	Remo North	Ogun	7.063	3.803	2	Ita Church
+Gidan Chigo	Gbako	Niger	9.302	6.075	2	
+Gidan-Barde	Munya	Niger	9.868	7.021	2	Gidan Barde Chibiani
+Gangyaki Chamba	Jada	Adamawa	8.743	12.003	2	
+Forlomi-Chamba	Ganye	Adamawa	8.409	12.137	2	Forlomi Chamba|ForlomiChamba
+Fadan Chawai	Kauru	Kaduna	9.950	8.598	2	
+Deyor Chara	Tai	Rivers	4.720	7.250	2	Chara
+Dan Chaffa	Jibia	Katsina	13.117	7.590	2	
+Dancadi	Bodinga	Sokoto	12.800	5.214	2	Dan-Chadi|Danchadi
+Cirim	Bunkure	Kano	11.627	8.523	2	Chirin
+Cibauna	Funtua	Katsina	11.534	7.187	2	Chibauna
+Chuwa	Sardauna	Taraba	6.681	11.316	2	
+Chutar Buki	Bebeji	Kano	11.426	8.313	2	
+Chur	Gboko	Benue	7.365	8.670	2	
+Chur	Konshisha	Benue	7.109	8.606	2	
+Chonke	Wukari	Taraba	7.774	9.763	2	Chonko|Chonku|Chunku
+Chumun	Larmurde	Adamawa	9.509	11.910	2	
+Chumu	Ngaski	Kebbi	10.683	4.787	2	Tsumu
+Chul	Gassol	Taraba	8.524	10.759	2	
+Chukurawa	Garki	Jigawa	12.367	9.066	2	
+Chukum	Gwer East	Benue	7.418	8.569	2	
+Chukum	Gwer East	Benue	7.407	8.518	2	
+Chukuba	Shiroro	Niger	10.247	6.856	2	
+Chuadi	Konshisha	Benue	7.048	8.529	2	
+Chooma	Gboko	Benue	7.327	8.719	2	
+Chonita	Gombi	Adamawa	10.142	12.345	2	
+Chongwon	Bayo	Borno	10.604	11.689	2	
+Chongwom Daji	Billiri	Gombe	9.704	11.146	2	
+Chongwom	Shongom	Gombe	9.797	11.259	2	
+Chongu	Guma	Benue	7.866	8.665	2	
+Chongo	Akko	Gombe	10.311	11.091	2	
+Chongke	Guma	Benue	8.084	8.509	2	
+Chondugh	Konshisha	Benue	7.408	8.606	2	
+Cholli	Yola North	Adamawa	9.105	12.475	2	
+Shole Buba	Nafada	Gombe	11.024	11.346	2	Chole
+Chokom	Konshisha	Benue	7.268	8.539	2	
+Choko-Choko	Lokoja	Kogi	7.928	6.357	2	
+Chokoche	Etche	Rivers	4.989	7.055	2	Chococho|Chokocho|Chokorocho
+Chokobo	Bassa	Plateau	10.362	8.845	2	
+Chokkin	Fufore	Adamawa	9.632	12.855	2	
+Chohi	Bodinga	Sokoto	12.650	5.317	2	Chofe
+Chogi	Wushishi	Niger	9.675	5.906	2	
+Chofa-Jaule	Fufore	Adamawa	9.316	12.865	2	Chofa Jaule|Dulo
+Chobol	Magumeri	Borno	11.935	13.030	2	Chibol|Tchibal|Tchibol
+Chizi	Mokwa	Niger	9.300	5.317	2	
+Chizako	Gwagwalada	FCT Abuja	9.204	7.052	2	
+Chiwa	Tambuwal	Sokoto	12.633	4.833	2	
+Chivir	Guma	Benue	7.955	8.574	2	
+Chivi	Kagarko	Kaduna	9.447	7.251	2	
+Chiv	Konshisha	Benue	7.020	8.792	2	
+Chitawa	Mai'Adua	Katsina	13.104	8.273	2	
+Chita	Edu	Kwara	8.925	5.148	2	Chitta
+Chita	Jada	Adamawa	8.694	11.980	2	
+Chita	Jada	Adamawa	8.690	12.391	2	
+Chiruma	Bali	Taraba	7.760	10.542	2	
+Chiromawa	Kiyawa	Jigawa	11.884	9.513	2	
+Chiromari	Kafin Hausa	Jigawa	12.124	10.144	2	
+Chiroma	Hawul	Borno	10.434	12.547	2	
+Chiri	Shiroro	Niger	9.802	6.824	2	
+Chirekayi	Askira-Uba	Borno	10.564	12.993	2	
+Chirawa	Malam Maduri	Jigawa	12.636	10.145	2	
+Chir	Gboko	Benue	7.375	8.746	2	
+Rugan Chipo	Lavun	Niger	9.268	5.612	2	Chipo
+Chi-Patake	Igabi	Kaduna	10.758	7.460	2	
+Chip	Pankshin	Plateau	9.189	9.381	2	
+Chinka	Gboko	Benue	7.421	8.732	2	
+Chini	Wamba	Nasarawa	9.065	8.654	2	
+Chini	Bali	Taraba	7.879	10.638	2	
+Chinghuna	Gombi	Adamawa	10.279	12.632	2	
+Chingabe	Maiha	Adamawa	10.116	13.103	2	
+Chindu	Sanga	Kaduna	9.213	8.187	2	
+Chindam	Demsa	Adamawa	9.357	12.118	2	
+Chinchinna	Wasagu-Danko	Kebbi	11.475	5.717	2	
+Hui	Baure	Katsina	12.693	8.783	2	Chinchia
+Chinbir	Gwer East	Benue	7.391	8.562	2	
+Chinamari	Kaugama	Jigawa	12.570	9.800	2	
+Chinade	Katagum	Bauchi	11.521	10.422	2	
+Chimbi	Gurara	Niger	9.402	7.154	2	
+Chimana	Igabi	Kaduna	10.731	7.286	2	
+Chimabulu	Hawul	Borno	10.401	12.458	2	
+Chillima	Yunusari	Yobe	13.175	11.815	2	
+Chilimri	Abadam	Borno	13.496	12.947	2	
+Chile	Gboko	Benue	7.261	8.690	2	
+Chila	Gboko	Benue	7.254	8.740	2	
+Chikwale	Munya	Niger	9.805	7.272	2	
+Chikuto	Taura	Jigawa	12.293	9.210	2	
+Chikuri	Chikun	Kaduna	10.250	7.333	2	
+Chikrikawa	Yusufari	Yobe	13.236	11.259	2	
+Chikoro	Ofu	Kogi	7.312	7.266	2	Chilaro
+Chikol Fulani	Mayo-Belwa	Adamawa	8.992	11.941	2	
+Chiko	Dandi	Kebbi	11.707	3.717	2	
+Chikito-Jubawo	Fufore	Adamawa	9.237	12.894	2	Chikito Jubawo
+Chikia	Sule Tankakar	Jigawa	12.809	9.226	2	
+Chikauje	Darazo	Bauchi	11.134	10.464	2	
+Chikandu	Baruten	Kwara	9.828	3.365	2	Chikanda
+Chihichani	Gboko	Benue	7.304	8.719	2	
+Chiha	Konshisha	Benue	7.211	8.654	2	
+Chiha	Kwande	Benue	6.954	9.540	2	
+Chiha	Kwande	Benue	6.940	9.507	2	
+Chigwai	Kuje	FCT Abuja	8.723	7.129	2	
+Chigwa	Kagarko	Kaduna	9.369	7.819	2	Cigwa
+Chigarker Mumzu-Kutsa	Chibok	Borno	10.782	12.779	2	
+Chigarker	Chibok	Borno	10.800	12.780	2	
+Chiga	Konshisha	Benue	7.191	8.591	2	
+Chifu	Mariga	Niger	10.791	5.384	2	
+Chidunu	Chikun	Kaduna	10.391	7.487	2	
+Chido	Tsafe	Zamfara	11.836	7.008	2	Chida
+Chidago	Birnin Gwari	Kaduna	10.850	6.867	2	
+Chichi	Ushongo	Benue	7.272	8.933	2	
+Chichi	Ushongo	Benue	7.152	8.922	2	
+Chichi	Konshisha	Benue	7.127	8.738	2	
+Chibakur	Biu	Borno	10.738	12.251	2	Chukorkir
+Chiata	Guma	Benue	8.028	8.947	2	
+Chiase	Gwer East	Benue	7.370	8.559	2	
+Chia	Teungo	Adamawa	8.315	11.731	2	
+Chia	Guma	Benue	8.013	8.445	2	
+Chia	Gboko	Benue	7.396	8.954	2	
+Chia	Konshisha	Benue	7.301	8.615	2	
+Chia	Gboko	Benue	7.275	8.710	2	
+Chia	Konshisha	Benue	7.129	8.669	2	
+Chia	Ushongo	Benue	7.066	8.927	2	
+Chia	Konshisha	Benue	7.070	8.713	2	
+Chia	Konshisha	Benue	6.999	8.682	2	
+Chi	Konshisha	Benue	7.068	8.653	2	
+Chevgo	Takum	Taraba	7.555	10.035	2	
+Chetamen	Takum	Taraba	7.439	10.083	2	
+Chessu	Wamba	Nasarawa	9.072	8.622	2	
+Chesgu	Fakai	Kebbi	11.663	4.924	2	
+Cheren	Konshisha	Benue	7.138	8.606	2	
+Cherawa	Kukawa	Borno	12.767	13.600	2	
+Cheordam	Takum	Taraba	7.412	10.127	2	
+Chendam	Kurmi	Taraba	7.068	10.821	2	
+Chanchanji	Takum	Taraba	7.513	9.929	2	Chenchenji
+Chena	Bali	Taraba	8.325	11.438	2	
+Chemi Moda	Biu	Borno	10.726	12.163	2	
+Chelen	Gboko	Benue	7.274	8.698	2	
+Chekwe	Wushishi	Niger	9.583	5.967	2	
+Chekoshu	Donga	Taraba	7.538	10.136	2	
+Chekku	Lapai	Niger	8.351	6.657	2	
+Chejipa	Fufore	Adamawa	8.956	12.553	2	
+Chegu	Borgu	Niger	9.697	4.600	2	
+Chegirgir	Donga	Taraba	7.607	10.156	2	Chegingir
+Chefe	Paikoro	Niger	9.455	6.764	2	
+Chediya	Toro	Bauchi	10.292	8.962	2	
+Chediya	Wukari	Taraba	8.202	10.201	2	
+Checheko	Katcha	Niger	9.135	6.257	2	
+Chechegi	Lapai	Niger	9.148	6.549	2	
+Cheche	Tangaza	Sokoto	13.317	4.917	2	
+Cheche	Agaie	Niger	9.090	6.558	2	
+Cheanar	Donga	Taraba	7.595	10.163	2	
+Chealeva	Takum	Taraba	7.514	10.030	2	
+Cheako	Takum	Taraba	7.563	10.037	2	
+Cheaklyne	Guma	Benue	7.977	8.792	2	
+Che-Adekae	Takum	Taraba	7.416	10.082	2	
+Chea	Konshisha	Benue	7.039	8.821	2	
+Che	Konshisha	Benue	7.196	8.536	2	
+Chawagi	Paikoro	Niger	9.302	6.627	2	
+Chawa	Fufore	Adamawa	9.340	12.693	2	Rumde
+Chawa	Tafa	Niger	9.302	7.290	2	
+Chase	Gwer East	Benue	7.357	8.551	2	
+Charleykiri	Akuku Toru	Rivers	4.467	6.536	2	
+Charika Maiwada	Ikara	Kaduna	11.111	8.242	2	
+Charika	Kubau	Kaduna	11.094	8.244	2	
+Charenji	Biu	Borno	10.638	11.933	2	Charangi
+Charati	Lavun	Niger	9.467	5.433	2	
+Chara	Ikara	Kaduna	11.161	8.417	2	
+Chapu	Hawul	Borno	10.278	12.007	2	
+Chapu	Shani	Borno	10.212	12.009	2	
+Chapa	Paikoro	Niger	9.474	6.491	2	
+Chanyi	Hong	Adamawa	10.164	12.967	2	
+Chanyi	Takum	Taraba	7.460	10.028	2	
+Chanta	Takum	Taraba	7.450	10.115	2	
+Chani	Kwaya Kusar	Borno	10.421	12.022	2	
+Changul	Biu	Borno	10.634	12.151	2	
+Change	Guma	Benue	7.775	8.682	2	
+Chan Gasuwa	Wukari	Taraba	7.981	10.091	2	
+Sangkan	Yola North	Adamawa	9.369	12.337	2	Changala|Sangala
+Chanchan Bulguman Yamma	Askira-Uba	Borno	10.668	12.897	2	
+Chanchan Bulguman Gabas	Askira-Uba	Borno	10.671	12.906	2	
+Chanawa	Shinkafi	Zamfara	13.094	6.495	2	
+Chana	Fika	Yobe	11.460	11.027	2	Cana
+Chamegh	Awe	Nasarawa	8.331	9.056	2	
+Chambi	Fufore	Adamawa	8.899	12.453	2	
+Chalwaram	Yunusari	Yobe	13.223	11.444	2	
+Chali	Toro	Bauchi	10.393	9.643	2	
+Chakwama	Kagarko	Kaduna	9.435	7.364	2	
+Chakwaikwaiwa	Taura	Jigawa	12.294	9.365	2	
+Chakum	Askira-Uba	Borno	10.669	12.614	2	
+Chakuli	Hong	Adamawa	10.441	12.932	2	
+Chaku	Ardo-Kola	Taraba	8.665	11.399	2	
+Chakpu	Yala	Cross River	6.814	8.830	2	
+Chakpale	Dekina	Kogi	7.649	6.971	2	
+Chakawa	Madagali	Adamawa	10.941	13.594	2	
+Chakao	Bunza	Kebbi	12.170	3.966	2	Shako
+Chaiye	Yabo	Sokoto	12.680	4.896	2	Chinye
+Chaichai	Ringim	Jigawa	12.013	9.248	2	
+Chahul	Konshisha	Benue	7.159	8.635	2	
+Chagwa	Chikun	Kaduna	10.185	7.005	2	
+Chagwa	Mashegu	Niger	9.747	5.788	2	
+Chagu	Guma	Benue	7.821	8.643	2	
+Chagdamari	Hawul	Borno	10.495	12.299	2	
+Chafo	Mashegu	Niger	10.067	5.167	2	
+Chaeh	Tarka	Benue	7.559	8.841	2	
+Chaco	Wurno	Sokoto	13.165	5.448	2	Chacho
+Chabbal	Demsa	Adamawa	9.373	12.028	2	
+Chabatta	Gombi	Adamawa	10.223	12.687	2	
+Chabal	Akko	Gombe	10.064	11.194	2	Chabai
+Chaba	Mubi South	Adamawa	10.149	13.370	2	
+Cara	Biu	Borno	10.883	11.967	2	Chara
+Bula Chirabe	Bama	Borno	11.260	14.165	2	Bula Chira
+Batal Chamba	Ganye	Adamawa	8.334	12.059	2	
+Bakin Chiawa	Qua'An Pan	Plateau	8.614	9.291	2	Bakin Chiyawa
+Asanyi-Kubegi	Agaie	Niger	9.123	6.353	2	Chata|Kubegi
+Akwu Chudere	Etche	Rivers	5.167	7.217	2	
+Choko	Karu	Nasarawa	9.000	7.639	2	
+Umu-Chetu	Ikwerre	Rivers	4.972	6.905	2	
+Chedi	Dawakin Tofa	Kano	12.113	8.451	2	
+Ahachi	Toto	Nasarawa	8.346	7.021	2	Chiji
+Chacha	Askira-Uba	Borno	10.526	13.004	2	
+Chivi	Hong	Adamawa	10.428	13.091	2	
+Chanatagi	Madagali	Adamawa	10.647	13.554	2	
+Chikale	Madagali	Adamawa	10.858	13.653	2	
+Chungrimi	Kala-Balge	Borno	11.576	14.360	2	
+Boso Charkari	Abadam	Borno	13.673	13.317	2	
+Chingokiri	Abadam	Borno	13.575	13.265	2	
+Charfa	Song	Adamawa	10.000	12.432	2	
+Chawa	Gombi	Adamawa	10.055	12.465	2	
+Chapta	Shelleng	Adamawa	10.079	12.135	2	
+Chokutaku	Hawul	Borno	10.493	12.136	2	
+Chehu	Oturkpo	Benue	7.180	8.258	2	
+Gele Tyokya	Gboko	Benue	7.220	8.754	2	Gele Tyokya Chen
+Chirebo	Gwer East	Benue	7.315	8.326	2	
+Chia	Gwer East	Benue	7.354	8.406	2	
+Chi	Gboko	Benue	7.397	8.914	2	
+Chia	Gboko	Benue	7.424	8.774	2	
+Chingwande	Gwer East	Benue	7.545	8.493	2	
+Chinta	Gwer West	Benue	7.545	8.163	2	
+Chekyam	Gwer West	Benue	7.565	8.112	2	
+Cheunger	Oturkpo	Benue	7.581	8.042	2	
+Chia	Markurdi	Benue	7.615	8.484	2	
+Chorun	Gwer West	Benue	7.643	8.113	2	
+Chavkar	Markurdi	Benue	7.649	8.446	2	
+Cheagba	Apa	Benue	7.681	8.028	2	
+Chiyam	Gwer West	Benue	7.690	8.128	2	
+Chimbo	Gwer West	Benue	7.699	8.136	2	
+Chorogh	Agatu	Benue	7.730	8.048	2	
+Chimoyam	Gwer West	Benue	7.735	8.104	2	Chimyam
+Chetiv	Markurdi	Benue	7.800	8.593	2	
+Chi	Guma	Benue	7.930	8.458	2	
+Chenda	Guma	Benue	7.952	8.423	2	
+Chironbi	Babura	Jigawa	12.637	8.923	2	
+Chikawa Azare	Gabasawa	Kano	12.135	8.895	2	
+Chiha	Chibok	Borno	10.844	12.751	2	
+Gidan Chigudia	Birnin Gwari	Kaduna	10.675	6.151	2	
+Chiyumu	Mariga	Niger	10.232	5.945	2	
+Karfin Chana	Gudu	Sokoto	13.245	4.503	2	
+Chirare	Illela	Sokoto	13.633	5.417	2	
+Chimawa	Kware	Sokoto	13.185	5.331	2	
+Chakaltu	Rabah	Sokoto	13.077	5.761	2	
+Chakaltu	Rabah	Sokoto	13.039	5.706	2	
+Chimpamini	Ngaski	Kebbi	10.355	4.603	2	
+Chanchawa	Illela	Sokoto	13.691	5.446	2	
+Chancha	Gwadabawa	Sokoto	13.354	5.247	2	
+Gidan Chica	Gwadabawa	Sokoto	13.327	5.156	2	
+Chindo	Malumfashi	Katsina	11.751	7.453	2	
+Chindo	Bakori	Katsina	11.616	7.441	2	
+Chirama	Sabuwa	Katsina	11.436	7.042	2	
+Chiroma	Funtua	Katsina	11.465	7.310	2	
+Chediya	Danja	Katsina	11.378	7.733	2	
+Ungwan Chitumu	Birnin Gwari	Kaduna	11.328	7.014	2	
+Chidawa	Fakai	Kebbi	11.403	4.851	2	
+Chinama	Rijau	Niger	11.260	4.983	2	
+Rugan Chibau	Rijau	Niger	11.217	4.915	2	
+Otu-Chievwen	Ughelli South	Delta	5.437	5.880	2	Otu-Ghievwen
+Chachakiri	Bonny	Rivers	4.569	7.143	2	
+Chalawa	Kumbotso	Kano	11.883	8.457	2	
+Ungwan Chiroma	Soba	Kaduna	11.122	8.017	2	
+Chanchaga	Chanchaga	Niger	9.605	6.514	2	Agbegbe Ijoba Ibile Chanchaga|shantshagha
+Chikun	Chikun	Kaduna	10.315	7.274	2	Agbegbe Ijoba Ibile Chikun|Ciikun|Cikun
+Charanchi	Charanchi	Katsina	12.602	7.684	2	Agbegbe Ijoba Ibile Charanchi|Caranci|Charanchi Local Government Area
+Chibok	Chibok	Borno	10.836	12.771	2	Agbegbe Ijoba Ibile Chibok|Chibok Local Government Area|chiboku|chybwk|qi bo ke|z'ybwq
+Chakamidari	Maiha	Adamawa	9.827	13.067	2	
+Cheisa	Guzamala	Borno	13.002	13.535	2	
+Malum Chariri	Abadam	Borno	13.050	13.280	2	
+Chima	Marte	Borno	12.273	13.902	2	
+Kubur Chacha	Askira-Uba	Borno	10.688	13.273	2	
+Baba Chitte	Fika	Yobe	11.309	11.223	2	
+Chacklack	Madagali	Adamawa	10.930	13.602	2	
+Choko	Gwer East	Benue	7.300	8.358	2	
+Chive	Gwer East	Benue	7.274	8.287	2	
+Choro	Konshisha	Benue	7.045	8.450	2	
+Chuaka	Konshisha	Benue	7.041	8.476	2	
+Rumirgu Chul	Askira-Uba	Borno	10.618	13.092	2	
+Chikide	Gwoza	Borno	11.054	13.789	2	
+Garin Chiroma	Gagarawa	Jigawa	12.413	9.498	2	
+Chukuto	Taura	Jigawa	12.285	9.214	2	
+Chula	Ajingi	Kano	11.993	8.987	2	
+Chiranchi	Kumbotso	Kano	11.932	8.476	2	
+Chibike	Arewa Dandi	Kebbi	12.466	3.856	2	
+Chilas	Gudu	Sokoto	13.278	4.277	2	
+Cheberu	Gwandu	Kebbi	12.525	4.552	2	
+Karfe Chana	Gudu	Sokoto	13.254	4.548	2	
+Chukuriya	Nangere	Yobe	11.996	10.898	2	
+Hoyo  Chingowa	Magumeri	Borno	12.030	12.951	2	
+Chamba	Mobbar	Borno	13.013	12.639	2	
+Chirin	Bunkure	Kano	11.605	8.503	2	
+Chinkani	Giade	Bauchi	11.330	10.283	2	
+Che-Adikpo	Agatu	Benue	7.741	8.054	2	
+Chakpa	Gwer West	Benue	7.671	8.092	2	
+Chimoyan	Apa	Benue	7.659	8.052	2	
+Chemale	Apa	Benue	7.652	8.039	2	
+Change	Gwer East	Benue	7.594	8.440	2	
+Changoji	Logo	Benue	7.839	9.050	2	
+Chikor	Logo	Benue	7.782	9.134	2	
+Chaikia	Buruku	Benue	7.527	9.096	2	
+Chagh	Buruku	Benue	7.518	9.106	2	
+Chegande	Logo	Benue	7.692	9.254	2	
+Cheren	Ukum	Benue	7.743	9.445	2	
+Cheorbiam	Logo	Benue	7.584	9.418	2	
+Cheachin	Logo	Benue	7.581	9.398	2	
+Cheakoso	Logo	Benue	7.548	9.397	2	
+China	Wukari	Taraba	7.881	9.729	2	
+Awe-Chobga	Wukari	Taraba	7.934	9.883	2	
+Chia	Wukari	Taraba	7.797	9.842	2	
+Chia	Wukari	Taraba	7.768	9.862	2	
+Chorum	Ukum	Benue	7.574	9.566	2	
+Chia	Ukum	Benue	7.547	9.572	2	
+Numbul	Ukum	Benue	7.731	9.684	2	Chunku Numbul
+Chemter	Ukum	Benue	7.722	9.679	2	
+Cholugh	Ukum	Benue	7.658	9.642	2	
+Chia	Ukum	Benue	7.564	9.739	2	
+Chia	Ukum	Benue	7.620	9.771	2	
+Cholugh	Katsina-Ala	Benue	7.510	9.789	2	
+Chiata	Wukari	Taraba	7.682	9.768	2	
+Chia	Donga	Taraba	7.594	9.845	2	
+Chusa	Takum	Taraba	7.592	9.904	2	
+Chikpanadi	Donga	Taraba	7.733	9.962	2	
+Chahu	Takum	Taraba	7.526	9.925	2	
+Chenyom	Guma	Benue	7.872	8.409	2	
+Chiakor	Gboko	Benue	7.404	9.036	2	
+Chii	Gboko	Benue	7.385	9.008	2	
+Chongon	Gboko	Benue	7.343	9.092	2	
+Chigo	Gboko	Benue	7.320	9.017	2	
+Chahul	Gboko	Benue	7.290	9.085	2	
+Chia	Buruku	Benue	7.421	9.159	2	
+Chaghshor	Gboko	Benue	7.325	9.107	2	
+Chol	Buruku	Benue	7.291	9.148	2	
+Chimbiu	Buruku	Benue	7.296	9.141	2	
+Chekere	Buruku	Benue	7.376	9.267	2	
+Chire	Buruku	Benue	7.253	9.256	2	
+Chen	Katsina-Ala	Benue	7.421	9.405	2	
+Chiegondu	Katsina-Ala	Benue	7.475	9.480	2	
+Tse Changa	Katsina-Ala	Benue	7.443	9.497	2	
+Chindo	Ushongo	Benue	7.157	9.015	2	
+Chonkura	Ushongo	Benue	7.145	9.025	2	
+Chubu	Ushongo	Benue	7.104	9.022	2	
+Chi	Ushongo	Benue	7.041	9.006	2	
+Chir	Ushongo	Benue	7.019	9.151	2	
+Chir	Ushongo	Benue	7.110	9.261	2	
+Chiza	Katsina-Ala	Benue	7.199	9.452	2	
+Cheren	Ushongo	Benue	7.137	9.067	2	
+Gidan Chickoro	Ukum	Benue	7.498	9.687	2	
+Chaikor	Gboko	Benue	7.467	8.770	2	
+Chorugh	Gboko	Benue	7.447	8.759	2	
+Chorta	Gboko	Benue	7.466	8.839	2	
+Chiremo	Gboko	Benue	7.424	8.767	2	
+Chivar	Gboko	Benue	7.413	8.784	2	
+Chuan	Gboko	Benue	7.388	8.785	2	
+Chan	Gboko	Benue	7.388	8.900	2	
+Chough	Gboko	Benue	7.386	8.922	2	
+Chelen	Gboko	Benue	7.366	8.985	2	
+Choon	Gboko	Benue	7.367	8.819	2	
+Chi	Gboko	Benue	7.317	8.773	2	
+Chiangi	Gboko	Benue	7.306	8.840	2	
+Churaki	Gboko	Benue	7.303	8.856	2	
+Chi	Gboko	Benue	7.302	8.913	2	
+Cheche	Gboko	Benue	7.306	8.953	2	
+Chia	Gboko	Benue	7.282	8.895	2	
+Chungul Dambaram	Tarmua	Yobe	12.130	12.139	2	
+Chatafu-Lagun	Lavun	Niger	9.462	5.547	2	
+Chikangi	Lavun	Niger	9.262	5.576	2	
+Cheniya	Gbako	Niger	9.452	5.981	2	
+Chatafu	Gbako	Niger	9.228	5.941	2	
+Chekpan	Gbako	Niger	9.157	5.963	2	
+Chechefu Etan	Lavun	Niger	9.141	5.774	2	
+Chakyagi	Lavun	Niger	9.102	5.794	2	
+Chegungi	Gbako	Niger	9.106	5.954	2	
+Chekpanfu	Gbako	Niger	9.041	5.838	2	
+Chekpanfu	Gbako	Niger	9.011	5.881	2	
+Chaku Woro	Lavun	Niger	9.229	5.679	2	
+Chaku	Lavun	Niger	9.230	5.687	2	
+Chatafu	Lavun	Niger	9.219	5.733	2	
+Chengudu	Lavun	Niger	9.148	5.728	2	
+Chegungialikali	Edati	Niger	9.117	5.708	2	
+Chegungidewo	Edati	Niger	9.116	5.701	2	
+Chikangi	Edati	Niger	9.110	5.666	2	
+Chaniya	Gbako	Niger	9.352	6.011	2	
+Chigo	Katcha	Niger	9.339	6.202	2	
+Chekpa	Gbako	Niger	9.181	6.089	2	
+Cheke	Katcha	Niger	9.187	6.291	2	
+Chikanbasa	Katcha	Niger	9.118	6.240	2	
+Chijimison	Gbako	Niger	9.129	6.117	2	
+Chikangi	Gbako	Niger	9.141	6.033	2	
+Egbanti Cheche	Katcha	Niger	9.007	6.112	2	
+Chekpa	Edati	Niger	9.028	6.012	2	
+Chawohara	Paikoro	Niger	9.350	6.522	2	
+New Chadoziko	Wushishi	Niger	9.571	6.042	2	
+Old Chadoziko	Wushishi	Niger	9.560	6.035	2	
+Chimbi	Paikoro	Niger	9.537	6.984	2	
+Chukuna	Chanchaga	Niger	9.646	6.512	2	
+Chekehi	Mayo-Belwa	Adamawa	8.907	12.060	2	
+Jauro Chamba	Jada	Adamawa	8.757	12.311	2	
+Chibara	Jada	Adamawa	8.569	12.347	2	
+Chapai	Munya	Niger	9.976	7.210	2	
+Chandap	Kagarko	Kaduna	9.284	7.832	2	
+Cigwa Daji	Kagarko	Kaduna	9.352	7.798	2	Chigwa
+Chonpu	Ardo-Kola	Taraba	8.963	11.174	2	
+Chonbi	Ardo-Kola	Taraba	8.787	11.427	2	
+Chantim	Langtang South	Plateau	8.532	9.819	2	
+Chubu	Sanga	Kaduna	9.133	8.218	2	
+Chengbiandwer	Donga	Taraba	7.563	10.139	2	
+Chengiga	Donga	Taraba	7.549	10.127	2	
+Cheayuwa	Donga	Taraba	7.532	10.152	2	
+Bora Chori	Jaba	Kaduna	9.443	8.060	2	
+Chirani	Zangon Kataf	Kaduna	9.866	8.256	2	
+Ungwan Sarkin Chori	Jaba	Kaduna	9.535	8.038	2	
+Sarkin Chori	Jaba	Kaduna	9.538	8.040	2	
+Chanchuk	Zangon Kataf	Kaduna	9.615	8.221	2	
+Ungwan Galadima Chori	Jaba	Kaduna	9.540	8.051	2	
+Chado	Shendam	Plateau	8.514	9.367	2	
+Chakwo Jauro Kadiri	Mayo-Belwa	Adamawa	9.160	12.051	2	
+Chakamaje	Fufore	Adamawa	9.008	12.329	2	
+Chakamaderi	Alkaleri	Bauchi	9.758	10.896	2	Balede
+Chuno	Karim Lamido	Taraba	9.441	10.995	2	
+Chanyel	Karim Lamido	Taraba	9.050	10.888	2	
+Gidan Chomo	Karim Lamido	Taraba	9.178	11.149	2	
+Chomo Dunde	Karim Lamido	Taraba	9.134	11.054	2	
+Chomo Gali	Karim Lamido	Taraba	9.123	11.059	2	
+Chekeli	Fufore	Adamawa	9.080	12.671	2	
+Wuro Chekke	Yola North	Adamawa	9.207	12.511	2	
+Cheagbe	Guma	Benue	8.147	8.500	2	
+Chin	Obi	Nasarawa	8.406	8.726	2	
+Chandum Nyam	Guma	Benue	8.004	8.718	2	
+Changbam	Nasarawa Egon	Nasarawa	8.765	8.690	2	
+Chiba	Lafia	Nasarawa	8.662	8.727	2	
+Chiba	Lafia	Nasarawa	8.648	8.713	2	
+Chindo	Akwanga	Nasarawa	8.932	8.254	2	
+Gidar Sana	Mokwa	Niger	9.205	4.854	2	Chikanji|GidarSana
+Chita	Teungo	Adamawa	8.115	12.107	2	
+Wuro Chindo	Shelleng	Adamawa	9.993	12.068	2	WuroChindo
+Charva	Song	Adamawa	9.999	12.441	2	
+Chukkol	Song	Adamawa	9.875	12.610	2	Chukko
+Bich'chel	Song	Adamawa	9.833	12.619	2	Bichchel
+Chochowo	Song	Adamawa	9.793	12.574	2	
+Chakaruku	Toto	Nasarawa	8.143	7.291	2	
+Chichimini	Bassa	Kogi	8.003	7.297	2	
+Cheya	Toto	Nasarawa	8.393	7.035	2	
+Chimozo	Toto	Nasarawa	8.384	7.054	2	
+Chababa	Toto	Nasarawa	8.439	7.224	2	
+Chire	Toto	Nasarawa	8.400	7.214	2	
+Sherat	Municipal Area Council	FCT Abuja	8.922	7.432	2	Cheche
+Cheta	Municipal Area Council	FCT Abuja	8.865	7.360	2	
+Gidan-Choko	Municipal Area Council	FCT Abuja	8.869	7.429	2	
+Chakun	Sardauna	Taraba	6.791	11.476	2	
+Chamburam	Sardauna	Taraba	6.911	11.309	2	
+Chabbal Zance	Sardauna	Taraba	6.688	11.541	2	
+Chana	Sardauna	Taraba	6.665	11.406	2	
+Char	Sardauna	Taraba	6.607	11.262	2	
+Changwe	Sardauna	Taraba	6.953	11.317	2	
+Chakum	Sardauna	Taraba	6.884	11.404	2	
+Chabbal Gudali	Sardauna	Taraba	6.866	11.170	2	
+Chori	Jaba	Kaduna	9.516	8.106	2	
+Charity Road	Ifako/Ijaye	Lagos	6.649	3.308	1	
+Challenge Road	Ibadan South East	Oyo	7.340	3.877	1	
+Chief Ogbonda Street	Obio/Akpor	Rivers	4.847	7.041	1	
+Choba Street	Port-Harcourt	Rivers	4.803	7.004	1	
+Chief Aguma Street	Port-Harcourt	Rivers	4.803	7.009	1	
+Chalima Road	Calabar South	Cross River	4.943	8.315	1	
+Choka Street	Obio/Akpor	Rivers	4.829	6.992	1	
+Chief Ogbonda Street	Port-Harcourt	Rivers	4.805	7.012	1	
+Chad Street	Kaduna North	Kaduna	10.560	7.469	1	
+Charles Bonnet Crescent	Kaduna North	Kaduna	10.539	7.473	1	
+African Church Road	Oredo	Edo	6.332	5.630	1	
+Chief Alonge Avenue	Oredo	Edo	6.319	5.625	1	
+1st Christ Coming Close	Oredo	Edo	6.329	5.611	1	
+Christ Way	Oredo	Edo	6.272	5.616	1	
+Chief Arthur Eze Avenue	Awka North	Anambra	6.243	7.120	1	
+Church Street	Lagos Island	Lagos	6.464	3.388	1	
+Chief Onitana Street	Surulere	Lagos	6.494	3.360	1	
+Churchgate Street	Eti Osa	Lagos	6.435	3.428	1	
+Chief Natufe Street	Surulere	Lagos	6.487	3.347	1	
+African Church Road	Oshodi/Isolo	Lagos	6.569	3.340	1	
+Road 20	Lagelu	Oyo	7.431	3.943	1	Church Street
+Chief Edobor Crescent	Ibadan North	Oyo	7.425	3.934	1	
+Chief Olapade Street	Lagelu	Oyo	7.434	3.934	1	
+Chief Layi Awoyode Close	Lagelu	Oyo	7.433	3.941	1	
+Chief Bereola Street	Surulere	Lagos	6.499	3.352	1	
+Chike Mba Close	Eti Osa	Lagos	6.439	3.514	1	
+Logos Church Street	Eti Osa	Lagos	6.441	3.514	1	
+Chief Yesufu Abiodun Way	Eti Osa	Lagos	6.434	3.443	1	
+Chief Akude Street	Oshodi/Isolo	Lagos	6.514	3.306	1	
+Chief Idowu Rufai Avenue	Oshodi/Isolo	Lagos	6.500	3.310	1	
+Chris Ebie Street	Oshodi/Isolo	Lagos	6.511	3.310	1	
+Immortal Church Streets	Alimosho	Lagos	6.533	3.264	1	
+Church Close	Alimosho	Lagos	6.534	3.245	1	
+Chris Alli Crescent	Eti Osa	Lagos	6.461	3.424	1	
+Church Street	Kosofe	Lagos	6.546	3.401	1	
+Celestial Church Street	Ikeja	Lagos	6.628	3.357	1	
+Church Street	Ikeja	Lagos	6.592	3.361	1	
+Methodist Church Street	Ikeja	Lagos	6.589	3.364	1	
+Chief Joshua Eke Street	Oshodi/Isolo	Lagos	6.514	3.310	1	
+Chris Madueke Drive	Eti Osa	Lagos	6.441	3.461	1	
+Chief Okoro Avenue	Eti Osa	Lagos	6.444	3.465	1	
+Charles Ifeanyi Street	Eti Osa	Lagos	6.444	3.465	1	
+Chief Augustine Anozie Street	Eti Osa	Lagos	6.443	3.455	1	
+Church Street	Alimosho	Lagos	6.585	3.295	1	
+Chuks Onyebuchi Drive	Eti Osa	Lagos	6.458	3.480	1	
+Christ Avenue	Eti Osa	Lagos	6.455	3.475	1	
+Chief Albert Iyorah Street	Eti Osa	Lagos	6.453	3.476	1	
+Child Avenue	Apapa	Lagos	6.450	3.358	1	
+Chartered Bank Close	Eti Osa	Lagos	6.429	3.412	1	
+Palm Church Street	Lagos Island	Lagos	6.457	3.390	1	
+Lake Chad Crescent	Municipal Area Council	FCT Abuja	9.089	7.504	1	
+Frederick Chiluba Close	Municipal Area Council	FCT Abuja	9.113	7.376	1	
+Winston Churchill Street	Municipal Area Council	FCT Abuja	9.051	7.510	1	
+Charles de Gaulle Street	Municipal Area Council	FCT Abuja	9.049	7.512	1	
+Church of God Mission Road	Obio/Akpor	Rivers	4.827	7.048	1	
+Chukwuemeka Ezeife Close	Municipal Area Council	FCT Abuja	9.002	7.479	1	
+Chris Abutu Garba Street	Municipal Area Council	FCT Abuja	9.000	7.478	1	
+Chief Hope Harriman Street	Eti Osa	Lagos	6.452	3.475	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.873	6.925	1	
+Chari Close	Municipal Area Council	FCT Abuja	9.079	7.499	1	
+Chinda Street	Obio/Akpor	Rivers	4.828	7.014	1	
+Chinchin Lane	Egor	Edo	6.367	5.634	1	
+Chris-Pat Close	Eti Osa	Lagos	6.473	3.617	1	
+Chief Matones Way	Eti Osa	Lagos	6.477	3.606	1	
+Chief Meme Otone Road	Eti Osa	Lagos	6.477	3.603	1	
+Church Street	Eti Osa	Lagos	6.507	3.592	1	
+Chief Saliu Obodo Avenue	Eti Osa	Lagos	6.487	3.589	1	
+Chief Ejim Street	Obio/Akpor	Rivers	4.835	7.027	1	
+Christopher Gwabin Musa Way	Municipal Area Council	FCT Abuja	9.027	7.443	1	
+CHX8+5J5, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.446	4.569	1	
+Chief Osuan Avenue	Oredo	Edo	6.327	5.619	1	
+Chilaka Close	Surulere	Lagos	6.500	3.351	1	
+Chike-Oranye Street	Oredo	Edo	6.296	5.606	1	
+Church Avenue	Ebonyi	Ebonyi	6.337	8.094	1	
+Chief Yesufu Abiodun Way	Eti Osa	Lagos	6.435	3.443	1	
+Chief Bright Oridami Street	Shomolu	Lagos	6.524	3.386	1	
+Jehovah Emmanuel Church Street	Shomolu	Lagos	6.540	3.398	1	
+Chief Ifeanyi Street	Shomolu	Lagos	6.528	3.394	1	
+Church Street	Olorunda	Osun	7.784	4.562	1	
+Church street	Ilorin East	Kwara	8.477	4.623	1	
+Chiben Street	Ojo	Lagos	6.509	3.187	1	
+Church Street	Oshodi/Isolo	Lagos	6.516	3.331	1	
+Church Road	Alimosho	Lagos	6.637	3.284	1	
+Church Street	Alimosho	Lagos	6.654	3.289	1	
+Cheruvie Street	Warri South	Delta	5.532	5.733	1	
+Chief Odiete Street	Uvwie	Delta	5.562	5.758	1	
+Church Street	Kosofe	Lagos	6.590	3.403	1	
+Church Cresent Road	Oredo	Edo	6.318	5.589	1	
+D C Chukwu Lane	Enugu North	Enugu	6.480	7.481	1	
+Chris Uzoechina Avenue	Enugu South	Enugu	6.418	7.526	1	
+Chief Stephen Obi-Okwubanego Crescent	Enugu South	Enugu	6.419	7.521	1	
+Chief Lyke Ogbodo Street	Enugu South	Enugu	6.418	7.527	1	
+Christ The King Lane	Enugu North	Enugu	6.464	7.494	1	
+Church View	Enugu North	Enugu	6.464	7.493	1	
+Chime Lane	Enugu North	Enugu	6.460	7.506	1	
+Chief Alum Street	Enugu North	Enugu	6.434	7.497	1	
+Chinwe Ezeilo Street	Enugu South	Enugu	6.423	7.529	1	
+Chief Ogbe Nnamani Close	Enugu South	Enugu	6.411	7.509	1	
+Church Close	Enugu East	Enugu	6.482	7.524	1	
+Church Street	Enugu East	Enugu	6.479	7.506	1	
+Eze Chime Street	Enugu East	Enugu	6.477	7.500	1	
+Chief Igwenwaedu Street	Enugu East	Enugu	6.479	7.590	1	
+Chief Godwin Ede Street	Enugu East	Enugu	6.476	7.587	1	
+Chief Eneaji Street	Enugu East	Enugu	6.479	7.577	1	
+Chimaobu Uba Street	Enugu North	Enugu	6.462	7.491	1	
+Davidson Chukwuka Street	Enugu North	Enugu	6.461	7.572	1	
+Chief Alum Extension Road	Enugu North	Enugu	6.436	7.497	1	
+Centre Baptist Church Road	Enugu North	Enugu	6.439	7.488	1	
+Mother of Christ Road	Enugu North	Enugu	6.436	7.489	1	
+Sir Engr.Chigbo Nwobo Close	Enugu South	Enugu	6.424	7.517	1	
+Chief Dike Egwuonwu Crescent	Enugu East	Enugu	6.474	7.488	1	
+Chukwuani Street	Enugu North	Enugu	6.425	7.480	1	
+Chineme Crescent	Enugu North	Enugu	6.430	7.537	1	
+Chuks Akpor link Road	Enugu North	Enugu	6.434	7.536	1	
+Chuks Akpor Close	Enugu North	Enugu	6.434	7.537	1	
+Chief Okwor Street	Enugu South	Enugu	6.417	7.483	1	
+Chief Gab Ejim Avenue	Enugu South	Enugu	6.417	7.480	1	
+Chikogo Street	Enugu South	Enugu	6.401	7.498	1	
+Chief Peter Iloka Lane	Enugu South	Enugu	6.417	7.506	1	
+Chudac Crescent	Enugu South	Enugu	6.413	7.524	1	
+Chief Ogbe Nnamani Street	Enugu South	Enugu	6.412	7.510	1	
+Chris Okaka Crescent	Enugu South	Enugu	6.418	7.524	1	
+Church Of God Street	Enugu South	Enugu	6.398	7.484	1	
+Chief Nnaji Nwaonaede Street	Enugu South	Enugu	6.401	7.484	1	
+Christ The Redeemer Street	Enugu South	Enugu	6.396	7.484	1	
+Chief Moses Ogbodo Street	Enugu South	Enugu	6.398	7.507	1	
+Chief Nnamani Nwugwu Drive	Enugu South	Enugu	6.383	7.516	1	
+Dr Zed Chukwujama Street	Enugu South	Enugu	6.417	7.528	1	
+Chief Okorowo Avenue	Enugu South	Enugu	6.421	7.513	1	
+Umu-Chibuzo Street	Enugu East	Enugu	6.490	7.490	1	
+Chisimdi Ukpaka Close	Enugu North	Enugu	6.456	7.511	1	
+Chief Hyacinth Udeani Street	Enugu North	Enugu	6.460	7.570	1	
+Methodist Church Crescent	Enugu East	Enugu	6.480	7.526	1	
+Presbyterian Church Street	Enugu East	Enugu	6.481	7.527	1	
+Chief Roland Achuwie Street	Enugu South	Enugu	6.417	7.480	1	
+Chief Emmanuel IgwiloChime Street	Enugu South	Enugu	6.400	7.483	1	
+Chief John Nwobodo Street	Enugu South	Enugu	6.405	7.482	1	
+Chime Avenue	Enugu North	Enugu	6.458	7.519	1	
+Chief S.N Ugwu Street	Enugu East	Enugu	6.494	7.511	1	
+Chukwu Ikpa Lane	Enugu East	Enugu	6.490	7.514	1	
+Chukwuanugo Street	Enugu East	Enugu	6.485	7.513	1	
+Chief Edward Nnaji Street	Enugu East	Enugu	6.486	7.518	1	
+Chris Ogbe Drive	Enugu North	Enugu	6.459	7.524	1	
+Chris Okonkwo Avenue	Enugu North	Enugu	6.462	7.549	1	
+Police Children School Entrance Road	Enugu North	Enugu	6.464	7.524	1	
+Christ Avenue	Enugu North	Enugu	6.459	7.521	1	
+Chief Okeagu Lane	Enugu North	Enugu	6.461	7.528	1	
+Chinedu Onyia Cresent	Enugu North	Enugu	6.465	7.531	1	
+Chief Abraham Ani Street	Enugu North	Enugu	6.459	7.542	1	
+Chief Ogbaga Avenue	Enugu North	Enugu	6.474	7.481	1	
+Chief Peter Onukwube Street	Enugu South	Enugu	6.413	7.511	1	
+Christ The King Avenue	Enugu North	Enugu	6.476	7.481	1	
+Chief Ogbaga Street	Enugu North	Enugu	6.475	7.481	1	
+Chukuemeka Ikpeze Street	Enugu East	Enugu	6.479	7.489	1	
+Chris Uba Street	Enugu North	Enugu	6.464	7.488	1	
+Charles Street	Enugu North	Enugu	6.458	7.492	1	
+Abano Tunel,Off Redeem Church	Enugu North	Enugu	6.456	7.502	1	
+Charles Leme Street	Enugu South	Enugu	6.423	7.508	1	
+Charles Nwokedi Close	Enugu North	Enugu	6.445	7.526	1	
+Chief Dr.Ofili Ugwudioha Street	Enugu North	Enugu	6.444	7.534	1	
+Chief Emeka Ebila Street	Enugu South	Enugu	6.415	7.487	1	
+Chiene Street	Enugu South	Enugu	6.418	7.501	1	
+Emmanuel Church Street	Enugu South	Enugu	6.418	7.496	1	
+Chief Emeka Ebila Close	Enugu South	Enugu	6.417	7.488	1	
+Chief Okwuba Close	Enugu East	Enugu	6.494	7.511	1	
+Church Street	Enugu East	Enugu	6.484	7.524	1	
+Chelsea Avenue	Enugu East	Enugu	6.482	7.530	1	
+Chief Ngwu Agbowo Avenue	Enugu East	Enugu	6.499	7.505	1	
+Chris Okonkwo Avenue	Enugu North	Enugu	6.457	7.537	1	
+Police Childeren School Entrance Road	Enugu North	Enugu	6.464	7.523	1	
+Chidiabor Street	Enugu North	Enugu	6.475	7.473	1	
+Ozo Christian Akpata Street	Enugu North	Enugu	6.471	7.474	1	
+Chike Avenue	Enugu East	Enugu	6.488	7.482	1	
+Chief Kalu Ukiwe Street	Enugu East	Enugu	6.485	7.478	1	
+Dr John Chineke Street	Enugu East	Enugu	6.484	7.479	1	
+Chief Ben Adinde Street	Enugu East	Enugu	6.487	7.478	1	
+Chukwu Ejim Street	Enugu East	Enugu	6.474	7.579	1	
+Asata Chemist	Enugu North	Enugu	6.447	7.500	1	
+Chief Agbo Street	Enugu North	Enugu	6.446	7.503	1	
+Christ Church Close	Enugu North	Enugu	6.425	7.487	1	
+Onyia Chime Drive	Enugu East	Enugu	6.480	7.499	1	
+Chuks Micheal Crescent	Enugu East	Enugu	6.487	7.486	1	
+Chief Edmond Ugo Avenue	Enugu East	Enugu	6.489	7.486	1	
+Chief Eugene Okoli Avenue	Enugu East	Enugu	6.485	7.574	1	
+Chris Ani Street	Enugu East	Enugu	6.474	7.586	1	
+Ben Chukwu Lane	Enugu East	Enugu	6.470	7.575	1	
+Chief Oliver Agbo Lane	Enugu East	Enugu	6.478	7.586	1	
+Chris Nwafor Street	Enugu East	Enugu	6.479	7.582	1	
+Chief Alum Street	Enugu East	Enugu	6.487	7.580	1	
+Engr Chief B C Nwafor Street	Enugu East	Enugu	6.494	7.495	1	
+Chief Ede Nnamani Street	Enugu North	Enugu	6.452	7.504	1	
+Christ Holy Church Street	Enugu North	Enugu	6.456	7.559	1	
+Chinagorom Odo Avenue	Enugu North	Enugu	6.453	7.557	1	
+Chief Wilfred Ani Street	Enugu North	Enugu	6.462	7.569	1	
+Chief Acum Close	Enugu North	Enugu	6.437	7.497	1	
+Chief Ozor Close	Enugu East	Enugu	6.487	7.585	1	
+Chukwuka Utazi Street	Enugu North	Enugu	6.436	7.511	1	
+Chrisbel Crescent	Enugu North	Enugu	6.434	7.537	1	
+Chiedozie Ogbonna Street	Enugu South	Enugu	6.417	7.484	1	
+Chief Cosmas Nwinya Street	Enugu South	Enugu	6.401	7.482	1	
+Sir P. Onyeneke Chukwu Street	Enugu South	Enugu	6.411	7.504	1	
+Chief Okeke Nnam Street	Enugu South	Enugu	6.415	7.508	1	
+Chief Aniebonam Okafor Avenue	Enugu North	Enugu	6.427	7.537	1	
+Chezoka Street	Enugu South	Enugu	6.391	7.497	1	
+Roma Chukwu Street	Enugu South	Enugu	6.392	7.493	1	
+Chief Nwodo Street	Enugu South	Enugu	6.392	7.492	1	
+Charles Street	Enugu East	Enugu	6.489	7.516	1	
+Chaka Crescent	Enugu North	Enugu	6.452	7.532	1	
+Chukwuezugo Drive	Enugu South	Enugu	6.379	7.519	1	
+Chris Igwe Street	Enugu East	Enugu	6.491	7.487	1	
+Chris Ekwueme Street	Enugu East	Enugu	6.496	7.499	1	
+Chief Z.C Obi Link Road	Enugu North	Enugu	6.452	7.526	1	
+Chief Edward Nnaji Park Street	Enugu North	Enugu	6.456	7.524	1	
+Chief Greg Iwuchukwu Drive	Enugu South	Enugu	6.397	7.488	1	
+Chief Okeanonife Innocent Street	Enugu North	Enugu	6.461	7.479	1	
+Sir Chris Onwughalu Avenue	Enugu North	Enugu	6.462	7.478	1	
+Chief Okono Close	Enugu East	Enugu	6.494	7.516	1	
+Chief Cletus Nnaji Street	Enugu East	Enugu	6.494	7.517	1	
+Chris Ibuzo Crescent	Enugu North	Enugu	6.463	7.571	1	
+Chieloka Street	Enugu East	Enugu	6.467	7.557	1	
+Chibuzo Street	Enugu East	Enugu	6.480	7.533	1	
+Chief Ekwueme Street	Enugu South	Enugu	6.420	7.488	1	
+Christian Victory Prayer Ministry Road	Enugu South	Enugu	6.399	7.481	1	
+Chigbo Lane Upper Chime	Enugu South	Enugu	6.405	7.483	1	
+Chief Phillip Amaehule Close	Obio/Akpor	Rivers	4.862	7.045	1	
+Chukwuali Crescent	Enugu East	Enugu	6.480	7.487	1	
+Hon. Chuka Utazi Street	Enugu North	Enugu	6.430	7.532	1	
+Chris Igwe Street	Enugu East	Enugu	6.488	7.482	1	
+Prof. Chike Onochie Crescent	Enugu North	Enugu	6.459	7.550	1	
+Chief Michael Udeonu Street	Enugu South	Enugu	6.400	7.483	1	
+Chief Egbeigwe Avenue	Enugu North	Enugu	6.455	7.556	1	
+Chidari Road	Makoda	Kano	12.372	8.438	1	
+Chukwuka Street	Enugu East	Enugu	6.485	7.536	1	
+Chief Mike Aniuzu Street	Enugu East	Enugu	6.485	7.580	1	
+Church Road	Enugu North	Enugu	6.446	7.501	1	
+Chief Fred Ugwuodo link Road	Enugu North	Enugu	6.434	7.535	1	
+Chuks Akpor Street	Enugu North	Enugu	6.436	7.532	1	
+Chris Enendu Crescent	Enugu South	Enugu	6.421	7.527	1	
+Charles Agbo Close	Enugu East	Enugu	6.514	7.517	1	
+Chief Azubike Ugwuokwor	Enugu East	Enugu	6.506	7.508	1	
+Chief Bartholomeu Edeh Close	Enugu East	Enugu	6.514	7.513	1	
+Chief Cally Ekenechukwu Close	Enugu East	Enugu	6.508	7.516	1	
+Chief Edward Nnaji Close	Enugu North	Enugu	6.454	7.523	1	
+Chief Eneje Street	Enugu East	Enugu	6.481	7.511	1	
+Chief Eric Obiechina Crescent	Enugu East	Enugu	6.485	7.547	1	
+Chief Fidelis Nnaji Street	Enugu East	Enugu	6.510	7.503	1	
+Chief Fidelix Oya Drive	Enugu East	Enugu	6.504	7.525	1	
+Chief Goddy Nnamani Close	Enugu North	Enugu	6.468	7.476	1	
+Chief Innocent Agbo Crescent	Enugu East	Enugu	6.514	7.515	1	
+Chief J.O. Izuehie Street	Enugu South	Enugu	6.403	7.484	1	
+Chief Joseph Anike Ugwunnaji Street	Enugu East	Enugu	6.516	7.513	1	
+Chief Okolonji Avenue	Enugu East	Enugu	6.513	7.516	1	
+Chief Oliver Agbo Close	Enugu East	Enugu	6.478	7.586	1	
+Chief Onuora Obiakor Street	Enugu North	Enugu	6.462	7.574	1	
+Chief P.N Onyechukwu Street	Enugu East	Enugu	6.507	7.514	1	
+Chief Richard Ike Close	Enugu North	Enugu	6.439	7.529	1	
+Chief Simeon Agbo Ogbuefi Street	Enugu East	Enugu	6.517	7.527	1	
+Chief Simon Ekezie Crescent	Enugu East	Enugu	6.478	7.484	1	
+Chigbo Lane Upper Chime	Enugu South	Enugu	6.405	7.481	1	
+Chijioke Agu Street	Enugu East	Enugu	6.476	7.588	1	
+Chike Mba Crescent	Enugu East	Enugu	6.485	7.543	1	
+Chima Oji Drive	Enugu East	Enugu	6.470	7.500	1	
+Chinze Street	Enugu East	Enugu	6.500	7.530	1	
+Christ The King Street	Enugu East	Enugu	6.469	7.535	1	
+Christopher Ojobo Street	Enugu East	Enugu	6.469	7.535	1	
+Chuks Uche Close	Enugu East	Enugu	6.513	7.514	1	
+Chukwuemeka Ojiyi Drive	Enugu East	Enugu	6.498	7.528	1	
+Dr Charles Okpala Crescent	Enugu North	Enugu	6.451	7.551	1	
+Dr Leo Chukwuali Drive	Enugu East	Enugu	6.468	7.554	1	
+Dr. Charles Emehelu Street	Enugu East	Enugu	6.506	7.517	1	
+Elder Christian Onyeabor Avenue	Enugu East	Enugu	6.489	7.545	1	
+Felix Chukwuanukwu Street	Enugu North	Enugu	6.462	7.574	1	
+Jesus Christ Close	Enugu East	Enugu	6.487	7.546	1	
+Onyedikachuckwu Chuka Street	Enugu North	Enugu	6.433	7.535	1	
+Sir Charles Ozoude Street	Enugu South	Enugu	6.415	7.488	1	
+Sister Akunna Chike Street	Enugu East	Enugu	6.500	7.531	1	
+Prince Michael Den Chukwu Street	Enugu North	Enugu	6.447	7.558	1	
+Gospel Crusader Church Street	Ifako/Ijaye	Lagos	6.646	3.335	1	
+Chinyeaka Ohaa Crescent	Municipal Area Council	FCT Abuja	9.054	7.448	1	
+Church Hill Street	Enugu North	Enugu	6.440	7.495	1	
+Chapel Road	Ibadan North	Oyo	7.450	3.900	1	
+Chad Road	Ibadan North	Oyo	7.447	3.895	1	
+Macdan Chukwu Ani Avenue	Enugu East	Enugu	6.483	7.484	1	
+Chief Emeka H. Arinze Street	Enugu East	Enugu	6.467	7.551	1	
+Chief Amadi Drive	Enugu North	Enugu	6.462	7.526	1	
+Chris Harry crescent	Oshodi/Isolo	Lagos	6.504	3.301	1	
+Chief Valentine Ayika Street	Oshodi/Isolo	Lagos	6.498	3.304	1	
+Paddy Chuka Street	Oshodi/Isolo	Lagos	6.501	3.296	1	
+Reuben Chiaha Street	Oshodi/Isolo	Lagos	6.493	3.304	1	
+Olive Church Street	Oshodi/Isolo	Lagos	6.498	3.299	1	
+Chief Vitus Uzoh Street	Oshodi/Isolo	Lagos	6.502	3.320	1	
+Chief Ibrahim Street	Ìkòròdú	Lagos	6.627	3.499	1	
+Chief Popoola Straat	Ìkòròdú	Lagos	6.635	3.507	1	
+Chief Adetayo Elemuren Street	Ìkòròdú	Lagos	6.620	3.523	1	
+Church Street	Ìkòròdú	Lagos	6.621	3.483	1	
+Adamu Mai Chemist Street	Kano Municipal	Kano	11.973	8.531	1	
+Balarabe Chiroma Sreet	Ungongo	Kano	11.975	8.449	1	
+Layin Mai Gari Street Chiranci	Gwale	Kano	11.954	8.467	1	
+Chief Gbolahan Street	Eti Osa	Lagos	6.449	3.481	1	
+Chesachi Hani Okoroafor Close	Eti Osa	Lagos	6.444	3.480	1	
+Chevron Drive	Eti Osa	Lagos	6.452	3.531	1	
+Chief Okeanonife Innocent C. Street	Eti Osa	Lagos	6.432	3.522	1	
+Nonso Chukwucheben Street	Eti Osa	Lagos	6.424	3.522	1	
+Chestnut Walk	Eti Osa	Lagos	6.428	3.550	1	
+Chief Ganiu Enitan Street	Eti Osa	Lagos	6.444	3.541	1	
+Chief Idowu Baale St	Eti Osa	Lagos	6.492	3.583	1	
+Charity Avenue	Eti Osa	Lagos	6.503	3.616	1	
+Cherry Road	Eti Osa	Lagos	6.500	3.614	1	
+Chamomile Avenue	Eti Osa	Lagos	6.492	3.611	1	
+Church Street	Eti Osa	Lagos	6.489	3.585	1	
+Chris Akinro Close	Eti Osa	Lagos	6.444	3.517	1	
+Chief Saula Ndakolo Street	Eti Osa	Lagos	6.459	3.564	1	
+Chief Shittu Saka Musa Street	Eti Osa	Lagos	6.459	3.567	1	
+Chief Chuks Okokwu Street	Eti Osa	Lagos	6.451	3.593	1	
+Union Baptist Church Street	Osogbo	Osun	7.774	4.545	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.874	6.955	1	
+Church Street	Lagelu	Oyo	7.433	3.943	1	
+Okagu Chijioke Street	Eti Osa	Lagos	6.472	3.650	1	
+Christian Philips Crescent	Eti Osa	Lagos	6.474	3.651	1	
+Church Street	Ifako/Ijaye	Lagos	6.683	3.279	1	
+Chief Natufe Street	Municipal Area Council	FCT Abuja	8.976	7.359	1	
+Chivita Avenue	Oshodi/Isolo	Lagos	6.539	3.324	1	
+Church Street	Oshodi/Isolo	Lagos	6.550	3.330	1	
+Church Street	Alimosho	Lagos	6.577	3.305	1	
+Chief Francis Aiyegbeni close	Ibadan South West	Oyo	7.370	3.859	1	
+Church Hill Street	Port-Harcourt	Rivers	4.801	7.005	1	
+Chief Abu King Shuluwa Road	Markurdi	Benue	7.698	8.555	1	
+chinedu okafor street	Oshodi/Isolo	Lagos	6.544	3.320	1	
+Chief Aleru Street, Omuoko, Aluu, Port Harcourt	Ikwerre	Rivers	4.922	6.916	1	
+Chikwe Orlu Street	Obio/Akpor	Rivers	4.867	6.972	1	
+Chief Joe Okoye Street	Obio/Akpor	Rivers	4.866	6.968	1	
+Chief Akpunonu Street	Obio/Akpor	Rivers	4.889	6.999	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.876	7.036	1	
+Christian Road	Obio/Akpor	Rivers	4.868	7.107	1	
+Chubb Road	Ikot Ekpene	Akwa Ibom	5.178	7.721	1	
+ECWA Church Road	Bosso	Niger	9.575	6.545	1	
+Chief Aderibigbe M.A Street	Surulere	Oyo	7.968	4.505	1	
+Chief Afolabi Street	Ife Central	Osun	7.495	4.538	1	
+Champion Road	Akure South	Ondo	7.256	5.172	1	
+Chief Samuel Ajayi Street	Kosofe	Lagos	6.620	3.384	1	
+Celestial Church St	Ifo	Ogun	6.679	3.317	1	
+Winners Chapel Crescent	Owerri Municipal	Imo	5.482	7.014	1	
+Chemin du Village	Mariga	Niger	10.872	5.907	1	
+Chemin de la Montagne	Mariga	Niger	10.870	5.906	1	
+Chemin de la Cabane	Mariga	Niger	10.855	5.902	1	
+Chemin de l'Erable	Mariga	Niger	10.858	5.906	1	
+Chemin de la Coline	Mariga	Niger	10.869	5.892	1	
+Christopher Ndubuisi Street	Municipal Area Council	FCT Abuja	9.019	7.456	1	
+Hilary Chimezie Street	Eti Osa	Lagos	6.479	3.571	1	
+Prince Christopher Obi Close	Eti Osa	Lagos	6.478	3.575	1	
+Christ Embassy Close	Oshodi/Isolo	Lagos	6.491	3.299	1	
+Chris Ngadi Street	Oshodi/Isolo	Lagos	6.501	3.301	1	
+Chief Alowolomo Abeka Street	Oshodi/Isolo	Lagos	6.513	3.300	1	
+Church Street	Amuwo Odofin	Lagos	6.447	3.220	1	
+Chief Esan Way	Ojo	Lagos	6.484	3.180	1	
+Ebenezer Church Street	Alimosho	Lagos	6.643	3.278	1	
+Chief Labi Ishola-Lemomu Street	Eti Osa	Lagos	6.455	3.583	1	
+Charity Close	Eti Osa	Lagos	6.472	3.573	1	
+Efeosa-Chiede Close	Eti Osa	Lagos	6.474	3.570	1	
+Church Street	Ifo	Ogun	6.676	3.314	1	
+Chief Hakeem Shobande Close	Eti Osa	Lagos	6.473	3.575	1	
+Chief Tunde Thompson Close	Eti Osa	Lagos	6.474	3.576	1	
+Christ Embassy Close	Eti Osa	Lagos	6.476	3.579	1	
+Chief Innocent Oguguo Street	Eti Osa	Lagos	6.481	3.580	1	
+Chukwuemeka Anosike Street	Eti Osa	Lagos	6.479	3.581	1	
+Charles Onyibe Close	Eti Osa	Lagos	6.477	3.580	1	
+Chief Yusuf Owo Street	Agege	Lagos	6.616	3.326	1	
+Chief Owho Ovuakporie Street	Ikeja	Lagos	6.552	3.319	1	
+Malomo Olusholademi Chaccour Avenue	Eti Osa	Lagos	6.486	3.597	1	
+Chief Abiodun Otaru Close	Kosofe	Lagos	6.625	3.377	1	
+Chief Israel Udo Street	Eti Osa	Lagos	6.468	3.623	1	
+Chief Oma Eyewuoma Road	Ibeju Lekki	Lagos	6.459	3.678	1	
+Chief Wahab Irawo Street	Oshodi/Isolo	Lagos	6.493	3.314	1	
+Church Street	Ìkòròdú	Lagos	6.670	3.463	1	
+Chief Abiola Taiwo Street	Alimosho	Lagos	6.638	3.243	1	
+Chief Yusuf Oyetola Crescent	Ejigbo	Osun	7.899	4.315	1	
+Chemin du Lac	Mariga	Niger	10.871	5.902	1	
+Christ Church Road	Onitsha North	Anambra	6.154	6.777	1	
+Chief Adeniran Road	Akure South	Ondo	7.257	5.180	1	
+Church Street	Oshodi/Isolo	Lagos	6.559	3.345	1	
+Ecwa Church Hausa Road	Akko	Gombe	10.293	11.102	1	
+Chinua Achebe Close	Municipal Area Council	FCT Abuja	9.115	7.409	1	
+Chibo Ofodile Close	Eti Osa	Lagos	6.459	3.476	1	
+Children's International School Road	Eti Osa	Lagos	6.449	3.485	1	
+Chief Charles Mba Street	Eti Osa	Lagos	6.440	3.489	1	
+New Challenge Drive	Chikun	Kaduna	10.461	7.439	1	
+Gospel Church of Christ Street	Uvwie	Delta	5.541	5.758	1	
+Chief Isoken Otone Street	Eti Osa	Lagos	6.478	3.603	1	
+Chief Oduwole Fawole Street	Ife Central	Osun	7.511	4.550	1	
+St. Patrick Church	Ife Central	Osun	7.497	4.542	1	
+Choi Street	Eti Osa	Lagos	6.456	3.449	1	
+Preye Lane, off Chief Aleru Street	Ikwerre	Rivers	4.923	6.915	1	
+Chief Aderibigbe M.A Street	Orolu	Osun	7.892	4.477	1	
+Chad Crescent	Kaduna North	Kaduna	10.559	7.470	1	
+Church Street	Oredo	Edo	6.296	5.569	1	BETHEL STREET
+Cherubim and Seraphim St	Esan West	Edo	6.755	6.056	1	
+Christ Embassy Lane	Okpe	Delta	5.593	5.710	1	
+Chief Honorable Doctor Johnson Street	Ikpoba-Okha	Edo	6.382	5.680	1	
+Christ Universal Road	Oriade	Osun	7.570	4.894	1	
+Chief Olusegun Obasanjo way	Lokoja	Kogi	7.810	6.748	1	
+Oore-Ofe Baptist Church Avenue	Ogbomosho North	Oyo	8.150	4.254	1	
+mercyland baptist church street	Ogbomosho North	Oyo	8.160	4.249	1	
+Open Heaven Church Road	Obio/Akpor	Rivers	4.877	6.913	1	
+Apostolic Church road	Obio/Akpor	Rivers	4.880	6.910	1	
+Christopher Titus Street	Eti Osa	Lagos	6.447	3.610	1	
+Chima-Chiakwazie Close	Eti Osa	Lagos	6.461	3.630	1	
+Church Street	Jahun	Jigawa	12.084	9.632	1	
+Churchill Road	Port-Harcourt	Rivers	4.748	7.042	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.875	6.923	1	
+Chief Clement Eke Street	Obio/Akpor	Rivers	4.826	7.059	1	
+Chief Levi Worlu Close	Obio/Akpor	Rivers	4.836	7.069	1	
+Church Street	Ibadan South West	Oyo	7.367	3.861	1	
+Amadi Chukwu Close	Obio/Akpor	Rivers	4.873	6.978	1	
+Choba Street	Port-Harcourt	Rivers	4.805	7.008	1	
+Chief Imoke Street	Nsukka	Enugu	6.873	7.411	1	
+Charles Ezekwe Street	Ibeju Lekki	Lagos	6.450	3.672	1	
+Chidi Okpala Close	Eti Osa	Lagos	6.472	3.659	1	
+Chief S.I Obi Street	Municipal Area Council	FCT Abuja	9.143	7.322	1	
+Christmas Street	Municipal Area Council	FCT Abuja	9.151	7.343	1	
+Church Road	Itu	Akwa Ibom	5.055	7.916	1	
+Chizim Avenue	Eti Osa	Lagos	6.506	3.594	1	
+High Chief Osisiego Close	Eti Osa	Lagos	6.473	3.582	1	
+Chief Ademola Ogunniyi street	Oyun	Kwara	8.141	4.747	1	
+Church Road	Calabar Municipal	Cross River	5.053	8.357	1	
+Charles Dave Street	Ìkòròdú	Lagos	6.622	3.488	1	
+Ichie Chief Ohale Street	Owerri Municipal	Imo	5.510	7.013	1	
+Charanci Layin Makabarta	Kumbotso	Kano	11.949	8.476	1	
+MFM Church Close	Ilorin East	Kwara	8.480	4.619	1	
+Church Close	Mushin	Lagos	6.520	3.339	1	
+Church Bus stop	Alimosho	Lagos	6.609	3.256	1	
+Chief C.C. Onoh Street	Enugu North	Enugu	6.446	7.452	1	
+Living-Proof Church Street	Ifako/Ijaye	Lagos	6.630	3.331	1	
+Phinormar/Chalon Road	Enugu North	Enugu	6.429	7.455	1	
+Chikodi Street	Obio/Akpor	Rivers	4.876	6.918	1	
+Chief Uzor Chukwunuwike Street	Uvwie	Delta	5.564	5.777	1	
+Church Road	Gokana	Rivers	4.686	7.341	1	
+Emmanuel Anglican Church road	Ife North	Osun	7.548	4.460	1	
+Chicago Avenue	Mobbar	Borno	13.078	12.515	1	
+Chris Emeziem Anyanwu's lane	Aboh-Mbaise	Imo	5.491	7.192	1	
+Cherubim & Seraphim Road	Ovia North-East	Edo	6.451	5.608	1	
+Chief Charles Mba Street	Eti Osa	Lagos	6.434	3.518	1	
+Simon Chibuko Street	Eti Osa	Lagos	6.436	3.563	1	
+Church Street	Lagos Mainland	Lagos	6.496	3.387	1	
+Chrisos Hospital	Eti Osa	Lagos	6.470	3.602	1	
+Charles Ezekwe Street	Ibeju Lekki	Lagos	6.450	3.676	1	
+Chibuzor Okafor Street	Municipal Area Council	FCT Abuja	8.968	7.510	1	
+Nik Chuks Street	Alimosho	Lagos	6.546	3.271	1	
+JI Chukwu Crescent	Municipal Area Council	FCT Abuja	9.038	7.546	1	
+Marshall Chinedu Avenue	Owerri North	Imo	5.487	7.079	1	
+Chief Clement Ogu Avenue	Owerri Municipal	Imo	5.468	7.050	1	
+John Chiokwe Street	Municipal Area Council	FCT Abuja	8.989	7.345	1	
+Chairman Street	Oredo	Edo	6.238	5.609	1	
+Chairman Street	Isoko North	Delta	5.555	6.236	1	
+Chief Emma Ogbu Crescent	Enugu East	Enugu	6.475	7.530	1	
+Christopher Ndubuisi Street	Municipal Area Council	FCT Abuja	9.014	7.455	1	
+MFM Church Crescent	Ilorin East	Kwara	8.479	4.620	1	
+One World Charities Mission Road	Khana	Rivers	4.676	7.389	1	
+Chinedu Moore Close	Eti Osa	Lagos	6.430	3.498	1	
+Chelsea Street	Municipal Area Council	FCT Abuja	8.998	7.364	1	
+Chiroma Street	Chikun	Kaduna	10.450	7.448	1	
+Chief Ndukwe Ukpai Memorial Close	Owerri Municipal	Imo	5.477	6.994	1	
+Near 60 Hasell St, Charleston, SC 29401, USA	Ado Odo/Ota	Ogun	6.543	3.066	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.868	7.028	1	
+Chinonso J.C Close	Mbaitoli	Imo	5.537	7.065	1	
+Chief Kabiru Ogunleye Street	Eti Osa	Lagos	6.450	3.612	1	
+Chime Avenue	Enugu North	Enugu	6.457	7.510	1	
+Chijioke Madukaife Close	Awgu	Enugu	6.044	7.486	1	
+Hon. Chika Ogbe Close	Enugu South	Enugu	6.413	7.513	1	
+Chief Joseph U. Ogbunnehi Street	Eti Osa	Lagos	6.480	3.578	1	
+Chief Elder P.N. Sikpi Road	Yenegoa	Bayelsa	4.869	6.212	1	
+Dominion Children Academy	Egor	Edo	6.361	5.582	0	
+Army Children School Iwo-Road	Ibadan North East	Oyo	7.405	3.936	0	
+New Life In Christ Group of Schools	Egor	Edo	6.363	5.578	0	
+Christ for All Ministry	Egor	Edo	6.367	5.586	0	
+Command Children School	Oredo	Edo	6.312	5.620	0	
+Lovers of Christ Academy	Oredo	Edo	6.307	5.612	0	
+Christ The Shepherd International School	Oredo	Edo	6.324	5.599	0	
+Chinel University Academy	Oredo	Edo	6.338	5.599	0	
+Chinwendu Clinic & Maternity	Enugu East	Enugu	6.480	7.519	0	
+Holy Child Nursery & Primary	Enugu East	Enugu	6.481	7.509	0	
+Winsophia Child Friendly	Enugu East	Enugu	6.483	7.522	0	
+Chinwe Memorial Clinic	Enugu South	Enugu	6.413	7.544	0	
+First Choice Specialist Clinic	Enugu North	Enugu	6.437	7.505	0	
+Le Chateau	Ibadan North	Oyo	7.418	3.900	0	
+Chiromawa Primary Health Centre	Bichi	Kano	12.322	8.159	0	
+Genius Children School	Ibadan South East	Oyo	7.360	3.912	0	
+Government Chest Hospital,Jericho	Ibadan South West	Oyo	7.394	3.872	0	
+Ebenezer African Church School	Ibadan North West	Oyo	7.392	3.887	0	
+Primary Health Centre Chibok	Chibok	Borno	10.866	12.854	0	Garu Primary Health Centre
+Gomboru Maternal And Child Clinic	Ngala	Borno	12.370	14.210	0	
+Buma Maternity and Child Health	Hawul	Borno	10.329	12.178	0	
+Gubio Maternity and Child Health	Gubio	Borno	12.492	12.784	0	
+Chobal Kura Primary Health Centre	Magumeri	Borno	11.955	13.002	0	
+Benisheik Maternal Child Health Clinic	Kaga	Borno	11.807	12.488	0	
+Maternity and Child Health Miringa	Biu	Borno	10.726	12.146	0	
+Maternity and Child Health Bama	Bama	Borno	11.517	13.685	0	
+chibok clinic	Chibok	Borno	10.804	12.751	0	
+PHC Chacho	Wurno	Sokoto	13.167	5.451	0	
+Gombe Childrean and High School	Gombe	Gombe	10.280	11.162	0	
+Chosen Secondary SchoolMgbi	Oru West	Imo	5.721	6.862	0	
+Choba Market	Obio/Akpor	Rivers	4.889	6.901	0	
+Chi Tim Filling Station	Uvwie	Delta	5.569	5.728	0	
+Vibrant Child Nursery and primary School	Oyigbo	Rivers	4.888	7.130	0	
+Christ d King School	Uvwie	Delta	5.559	5.774	0	
+Rhema Champion School	Uvwie	Delta	5.554	5.774	0	
+Holy Child Intl Modern School	Yenegoa	Bayelsa	4.932	6.310	0	
+Glorious Child primary School	Yenegoa	Bayelsa	4.945	6.334	0	
 Christ the King Schools	Uvwie	Delta	5.563	5.773	0	
 Aunty Gold's Christian Academy	Uvwie	Delta	5.566	5.772	0	
 Children Foundation Nur and Pri School	Uvwie	Delta	5.541	5.770	0	
@@ -286,36 +1333,9 @@ Cherry Forth Daycare Nur and Pri School	Obio/Akpor	Rivers	4.828	7.063	0
 All Nations for Christ Bible Institute	Obio/Akpor	Rivers	4.828	7.047	0	
 Santa Maria Child Development Centre	Obio/Akpor	Rivers	4.839	7.045	0	
 Choilee Filling Station	Udu	Delta	5.506	5.813	0	
-Dan Chigaya	Tangaza	Sokoto	13.463	4.793	2	
 Chimbo Oil and Gas Ltd	Ogbomosho North	Oyo	8.136	4.248	0	
 Women and Children Welfare Clinic	Sokoto North	Sokoto	13.069	5.248	0	
 Early Child Care Development Education Primary School	Gombe	Gombe	10.300	11.173	0	
-Chitama	Karaye	Kano	11.662	7.912	2	
-Chikada	Kiru	Kano	11.747	8.093	2	
-Chau Chau	Kiru	Kano	11.683	8.094	2	
-Chiromawa	Bichi	Kano	12.318	8.161	2	
-Ringimawa Chikin Gari	Garum Mallam	Kano	11.666	8.415	2	Ringimawa
-Chedi Gari Ingawa	Dawakin Tofa	Kano	12.118	8.408	2	
-Chedi Cikin Gari	Dawakin Tofa	Kano	12.138	8.392	2	
-Chikin Shinge	Bichi	Kano	12.258	8.358	2	
-Unguwar Chiroma	Makoda	Kano	12.494	8.502	2	
-Takuyar Chiroma	Dambatta	Kano	12.383	8.701	2	
-Unguwar Chiroma	Makoda	Kano	12.355	8.491	2	
-Chago	Warawa	Kano	11.928	8.688	2	
-Charka	Warawa	Kano	11.978	8.690	2	
-Charo	Gezawa	Kano	12.065	8.686	2	Cero
-Chaka Baba	Gezawa	Kano	12.092	8.658	3	
-Charo Katurje	Gezawa	Kano	12.066	8.694	2	Katirije
-Chedi Fulani	Minjibir	Kano	12.189	8.675	2	Yola Cedi
-Dukawa	Gabasawa	Kano	12.137	8.894	2	Chikawa Azare
-Chiromawa Bakin Shara	Ajingi	Kano	12.011	8.941	2	
-Chinkilawa	Warawa	Kano	11.895	8.776	2	
-Chilori	Albasu	Kano	11.643	8.980	2	
-Chukulo Sabon Gari	Gaya	Kano	11.779	8.906	2	
-Chamarana	Albasu	Kano	11.651	9.089	2	
-Kofar Chiri	Garko	Kano	11.604	8.861	2	Kafin Chiri
-Chambi	Kibiya	Kano	11.431	8.634	2	
-Chirin Cikin Gari	Bunkure	Kano	11.629	8.522	2	Chirin;Chirim
 Prudent Child First School	Enugu North	Enugu	6.468	7.492	0	
 tipto maternity and child heath	Larmurde	Adamawa	9.612	11.657	0	
 ludga maternity and child heath	Maiha	Adamawa	9.969	13.281	0	
@@ -450,8 +1470,6 @@ Mother of Christ specialist hospital	Enugu North	Enugu	6.436	7.490	0
 Christ the king Hospital	Enugu East	Enugu	6.478	7.487	0	
 New Day Hospital, Challenge, express road, Ibadan	Ibadan South East	Oyo	7.345	3.913	0	
 Faith Maternity Clinic & Child Welfare(Mummy Mercy)	Akinyele	Oyo	7.481	3.920	0	
-Palmgrove Christian Community	Abak	Akwa Ibom	4.999	7.766	2	
-Chaoude	Kala-Balge	Borno	11.856	14.619	2	
 Nassarawo Demsa Maternity and Child Health	Numan	Adamawa	9.460	12.040	0	
 Christian medical center	Jos North	Plateau	9.910	8.894	0	
 Chinakwe International School Dakibiyu	Municipal Area Council	FCT Abuja	9.059	7.427	0	
@@ -469,7 +1487,6 @@ Unguwar Mai Chibi Comprehensive Health Care	Kaduna South	Kaduna	10.451	7.433	0
 St Gerard's Catholic Church Hospital	Kaduna South	Kaduna	10.467	7.421	0	
 Methodist Church Hospital	Chikun	Kaduna	10.459	7.580	0	
 General Hospital Sabon Tasha St Simon Catholic Church	Chikun	Kaduna	10.428	7.528	0	
-Chaha	Jos South	Plateau	9.737	8.809	2	
 Chidove Homoeopathic Medical Center	Ojo	Lagos	6.487	3.165	0	
 Chrisol Medicals Maternity Home	Alimosho	Lagos	6.617	3.273	0	
 Christ Apostolic Maternity Center	Alimosho	Lagos	6.561	3.237	0	
@@ -486,12 +1503,10 @@ Holy Family Catholic Church Medical Centre Festac	Amuwo Odofin	Lagos	6.468	3.283
 Charles Henry Specialist Hospital	Amuwo Odofin	Lagos	6.449	3.257	0	
 Al ibadah children School	Alimosho	Lagos	6.522	3.237	0	
 Good shepherd Catholic church hospital	Kosofe	Lagos	6.601	3.421	0	
-ROYAL CHILD	Gwale	Kano	11.967	8.469	0	
-RAHAMA CHEMIST	Gwale	Kano	11.965	8.476	0	
-Chachamnau	Guri	Jigawa	12.540	10.450	2	
+Royal Child	Gwale	Kano	11.967	8.469	0	
+Rahama Chemist	Gwale	Kano	11.965	8.476	0	
 Chumet Institute Ltd	Nnewi North	Anambra	6.042	6.895	0	
 Port/Checkpoint	Eti Osa	Lagos	6.441	3.404	0	
-Cheledi	Kirfi	Bauchi	10.402	10.411	2	
 Grace Christian Schools, G.R.A, Fate Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.491	4.584	0	
 Conoil, Challenge Road, Ilorin, Nigeria	Ilorin East	Kwara	8.492	4.567	0	
 Children Specialist Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.554	0	
@@ -508,317 +1523,13 @@ Chika Bridge Across	Municipal Area Council	FCT Abuja	8.993	7.402	0
 Near Charley Boy Bus Stop	Municipal Area Council	FCT Abuja	9.120	7.391	0	
 Purchasing And Supply Chain Management Department- NBTE	Kaduna North	Kaduna	10.611	7.444	0	
 Chemistry Department	Kaduna North	Kaduna	10.609	7.445	0	
-Charity Road	Ifako/Ijaye	Lagos	6.649	3.308	1	
-Challenge Road	Ibadan South East	Oyo	7.340	3.877	1	
-Chief Ogbonda Street	Obio/Akpor	Rivers	4.847	7.041	1	
-Choba Street	Port-Harcourt	Rivers	4.803	7.004	1	
-Chief Aguma Street	Port-Harcourt	Rivers	4.803	7.009	1	
-Chalima Road	Calabar South	Cross River	4.943	8.315	1	
-Choka Street	Obio/Akpor	Rivers	4.829	6.992	1	
-Chief Ogbonda Street	Port-Harcourt	Rivers	4.805	7.012	1	
-Challenge Road	Ibadan South East	Oyo	7.347	3.878	1	
 Chechinya Market	Kaduna North	Kaduna	10.521	7.426	0	
-Chad Street	Kaduna North	Kaduna	10.560	7.469	1	
-Charles Bonnet Crescent	Kaduna North	Kaduna	10.539	7.473	1	
-African Church Road	Oredo	Edo	6.332	5.630	1	
-Chief Alonge Avenue	Oredo	Edo	6.319	5.625	1	
-1st Christ Coming Close	Oredo	Edo	6.329	5.611	1	
-Christ Way	Oredo	Edo	6.272	5.616	1	
 Christ Model Academy	Oredo	Edo	6.347	5.599	0	
-Chief Arthur Eze Avenue	Awka North	Anambra	6.243	7.120	1	
 Children Clinic	Oredo	Edo	6.330	5.624	0	
-Church Street	Lagos Island	Lagos	6.464	3.388	1	
-Chief Onitana Street	Surulere	Lagos	6.494	3.360	1	
-Churchgate Street	Eti Osa	Lagos	6.435	3.428	1	
-Chief Natufe Street	Surulere	Lagos	6.487	3.347	1	
-African Church Road	Oshodi/Isolo	Lagos	6.569	3.340	1	
-Road 20	Lagelu	Oyo	7.431	3.943	1	Church Street
-Chief Edobor Crescent	Ibadan North	Oyo	7.425	3.934	1	
-Chief Olapade Street	Lagelu	Oyo	7.434	3.934	1	
-Chief Layi Awoyode Close	Lagelu	Oyo	7.433	3.941	1	
 National Hospital Abuja	Municipal Area Council	FCT Abuja	9.044	7.463	0	National Hospital For Women And Children
-Chief Bereola Street	Surulere	Lagos	6.499	3.352	1	
-Chike Mba Close	Eti Osa	Lagos	6.439	3.514	1	
-Logos Church Street	Eti Osa	Lagos	6.441	3.514	1	
-Chief Yesufu Abiodun Way	Eti Osa	Lagos	6.434	3.443	1	
-Chief Akude Street	Oshodi/Isolo	Lagos	6.514	3.306	1	
-Chief Idowu Rufai Avenue	Oshodi/Isolo	Lagos	6.500	3.310	1	
-Chris Ebie Street	Oshodi/Isolo	Lagos	6.511	3.310	1	
-Immortal Church Streets	Alimosho	Lagos	6.533	3.264	1	
-Church Close	Alimosho	Lagos	6.534	3.245	1	
 Jatto Memorial Christian College	Oredo	Edo	6.325	5.589	0	
-Chris Alli Crescent	Eti Osa	Lagos	6.461	3.424	1	
-Church Street	Kosofe	Lagos	6.546	3.401	1	
-Celestial Church Street	Ikeja	Lagos	6.628	3.357	1	
-Church Street	Ikeja	Lagos	6.592	3.361	1	
-Methodist Church Street	Ikeja	Lagos	6.589	3.364	1	
-Chief Joshua Eke Street	Oshodi/Isolo	Lagos	6.514	3.310	1	
-Chris Madueke Drive	Eti Osa	Lagos	6.441	3.461	1	
-Chief Okoro Avenue	Eti Osa	Lagos	6.444	3.465	1	
-Charles Ifeanyi Street	Eti Osa	Lagos	6.444	3.465	1	
-Chief Augustine Anozie Street	Eti Osa	Lagos	6.443	3.455	1	
-Church Street	Alimosho	Lagos	6.585	3.295	1	
-Chuks Onyebuchi Drive	Eti Osa	Lagos	6.458	3.480	1	
-Christ Avenue	Eti Osa	Lagos	6.455	3.475	1	
-Chief Albert Iyorah Street	Eti Osa	Lagos	6.453	3.476	1	
-Child Avenue	Apapa	Lagos	6.450	3.358	1	
-Chartered Bank Close	Eti Osa	Lagos	6.429	3.412	1	
-Palm Church Street	Lagos Island	Lagos	6.457	3.390	1	
-Lake Chad Crescent	Municipal Area Council	FCT Abuja	9.089	7.504	1	
-Frederick Chiluba Close	Municipal Area Council	FCT Abuja	9.113	7.376	1	
-Winston Churchill Street	Municipal Area Council	FCT Abuja	9.051	7.510	1	
-Charles de Gaulle Street	Municipal Area Council	FCT Abuja	9.049	7.512	1	
-Church of God Mission Road	Obio/Akpor	Rivers	4.827	7.048	1	
-Chukwuemeka Ezeife Close	Municipal Area Council	FCT Abuja	9.002	7.479	1	
-Chris Abutu Garba Street	Municipal Area Council	FCT Abuja	9.000	7.478	1	
-Chief Hope Harriman Street	Eti Osa	Lagos	6.452	3.475	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.873	6.925	1	
-Chari Close	Municipal Area Council	FCT Abuja	9.079	7.499	1	
-Chinda Street	Obio/Akpor	Rivers	4.828	7.014	1	
-Chita	Bassa	Kogi	7.682	6.780	2	
-CHINCHIN LANE	Egor	Edo	6.367	5.634	1	
 Fame Preparatory Christian Academy	Egor	Edo	6.354	5.575	0	
-Chris-Pat Close	Eti Osa	Lagos	6.473	3.617	1	
-Chief Matones Way	Eti Osa	Lagos	6.477	3.606	1	
-Chief Meme Otone Road	Eti Osa	Lagos	6.477	3.603	1	
-Church Street	Eti Osa	Lagos	6.507	3.592	1	
-Chief Saliu Obodo Avenue	Eti Osa	Lagos	6.487	3.589	1	
 Children University Academy	Egor	Edo	6.363	5.628	0	
-Chief Ejim Street	Obio/Akpor	Rivers	4.835	7.027	1	
-Christopher Gwabin Musa Way	Municipal Area Council	FCT Abuja	9.027	7.443	1	
-CHX8+5J5, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.446	4.569	1	
-Chief Osuan Avenue	Oredo	Edo	6.327	5.619	1	
-Chilaka Close	Surulere	Lagos	6.500	3.351	1	
-Chike-Oranye Street	Oredo	Edo	6.296	5.606	1	
-Church Avenue	Ebonyi	Ebonyi	6.337	8.094	1	
-Chief Yesufu Abiodun Way	Eti Osa	Lagos	6.435	3.443	1	
-Chief Bright Oridami Street	Shomolu	Lagos	6.524	3.386	1	
-Jehovah Emmanuel Church Street	Shomolu	Lagos	6.540	3.398	1	
-Chief Ifeanyi Street	Shomolu	Lagos	6.528	3.394	1	
-Church Street	Olorunda	Osun	7.784	4.562	1	
-Church street	Ilorin East	Kwara	8.477	4.623	1	
-Chiben Street	Ojo	Lagos	6.509	3.187	1	
-Church Street	Oshodi/Isolo	Lagos	6.516	3.331	1	
-Church Road	Alimosho	Lagos	6.637	3.284	1	
-Church Street	Alimosho	Lagos	6.654	3.289	1	
-Cheruvie Street	Warri South	Delta	5.532	5.733	1	
-Chief Odiete Street	Uvwie	Delta	5.562	5.758	1	
-Church Street	Kosofe	Lagos	6.590	3.403	1	
-Church Cresent Road	Oredo	Edo	6.318	5.589	1	
-D C Chukwu Lane	Enugu North	Enugu	6.480	7.481	1	
-Chris Uzoechina Avenue	Enugu South	Enugu	6.418	7.526	1	
-Chief Stephen Obi-Okwubanego Crescent	Enugu South	Enugu	6.419	7.521	1	
-Chief Lyke Ogbodo Street	Enugu South	Enugu	6.418	7.527	1	
-Christ The King Lane	Enugu North	Enugu	6.464	7.494	1	
-Church View	Enugu North	Enugu	6.464	7.493	1	
-Chime Lane	Enugu North	Enugu	6.460	7.506	1	
-Chief Alum Street	Enugu North	Enugu	6.434	7.497	1	
-Chinwe Ezeilo Street	Enugu South	Enugu	6.423	7.529	1	
-Chief Ogbe Nnamani Close	Enugu South	Enugu	6.411	7.509	1	
-Church Close	Enugu East	Enugu	6.482	7.524	1	
-Church Street	Enugu East	Enugu	6.479	7.506	1	
-Eze Chime Street	Enugu East	Enugu	6.477	7.500	1	
-Chief Igwenwaedu Street	Enugu East	Enugu	6.479	7.590	1	
-Chief Godwin Ede Street	Enugu East	Enugu	6.476	7.587	1	
-Chief Eneaji Street	Enugu East	Enugu	6.479	7.577	1	
-Chimaobu Uba Street	Enugu North	Enugu	6.462	7.491	1	
-Davidson Chukwuka Street	Enugu North	Enugu	6.461	7.572	1	
-Chief Alum Extension Road	Enugu North	Enugu	6.436	7.497	1	
-Centre Baptist Church Road	Enugu North	Enugu	6.439	7.488	1	
-Mother of Christ Road	Enugu North	Enugu	6.436	7.489	1	
-Sir Engr.Chigbo Nwobo Close	Enugu South	Enugu	6.424	7.517	1	
-Chief Dike Egwuonwu Crescent	Enugu East	Enugu	6.474	7.488	1	
-Chukwuani Street	Enugu North	Enugu	6.425	7.480	1	
-Chineme Crescent	Enugu North	Enugu	6.430	7.537	1	
-Chuks Akpor link Road	Enugu North	Enugu	6.434	7.536	1	
-Chuks Akpor Close	Enugu North	Enugu	6.434	7.537	1	
-Chief Okwor Street	Enugu South	Enugu	6.417	7.483	1	
-Chief Gab Ejim Avenue	Enugu South	Enugu	6.417	7.480	1	
-Chikogo Street	Enugu South	Enugu	6.401	7.498	1	
-Chief Peter Iloka Lane	Enugu South	Enugu	6.417	7.506	1	
-Chudac Crescent	Enugu South	Enugu	6.413	7.524	1	
-Chief Ogbe Nnamani Street	Enugu South	Enugu	6.412	7.510	1	
-Chris Okaka Crescent	Enugu South	Enugu	6.418	7.524	1	
-Church Of God Street	Enugu South	Enugu	6.398	7.484	1	
-Chief Nnaji Nwaonaede Street	Enugu South	Enugu	6.401	7.484	1	
-Christ The Redeemer Street	Enugu South	Enugu	6.396	7.484	1	
-Chief Moses Ogbodo Street	Enugu South	Enugu	6.398	7.507	1	
-Chief Nnamani Nwugwu Drive	Enugu South	Enugu	6.383	7.516	1	
-Dr Zed Chukwujama Street	Enugu South	Enugu	6.417	7.528	1	
-Chief Okorowo Avenue	Enugu South	Enugu	6.421	7.513	1	
-Umu-Chibuzo Street	Enugu East	Enugu	6.490	7.490	1	
-Chisimdi Ukpaka Close	Enugu North	Enugu	6.456	7.511	1	
-Chief Hyacinth Udeani Street	Enugu North	Enugu	6.460	7.570	1	
-Methodist Church Crescent	Enugu East	Enugu	6.480	7.526	1	
-Presbyterian Church Street	Enugu East	Enugu	6.481	7.527	1	
-Chief Roland Achuwie Street	Enugu South	Enugu	6.417	7.480	1	
-Chief Emmanuel IgwiloChime Street	Enugu South	Enugu	6.400	7.483	1	
-Chief John Nwobodo Street	Enugu South	Enugu	6.405	7.482	1	
-Chime Avenue	Enugu North	Enugu	6.458	7.519	1	
-Chief S.N Ugwu Street	Enugu East	Enugu	6.494	7.511	1	
-Chukwu Ikpa Lane	Enugu East	Enugu	6.490	7.514	1	
-Chukwuanugo Street	Enugu East	Enugu	6.485	7.513	1	
-Chief Edward Nnaji Street	Enugu East	Enugu	6.486	7.518	1	
-Chris Ogbe Drive	Enugu North	Enugu	6.459	7.524	1	
-Chris Okonkwo Avenue	Enugu North	Enugu	6.462	7.549	1	
-Police Children School Entrance Road	Enugu North	Enugu	6.464	7.524	1	
-Christ Avenue	Enugu North	Enugu	6.459	7.521	1	
-Chief Okeagu Lane	Enugu North	Enugu	6.461	7.528	1	
-Chinedu Onyia Cresent	Enugu North	Enugu	6.465	7.531	1	
-Chief Abraham Ani Street	Enugu North	Enugu	6.459	7.542	1	
-Chief Ogbaga Avenue	Enugu North	Enugu	6.474	7.481	1	
-Chief Peter Onukwube Street	Enugu South	Enugu	6.413	7.511	1	
-Christ The King Avenue	Enugu North	Enugu	6.476	7.481	1	
-Chief Ogbaga Street	Enugu North	Enugu	6.475	7.481	1	
-Chukuemeka Ikpeze Street	Enugu East	Enugu	6.479	7.489	1	
-Chris Uba Street	Enugu North	Enugu	6.464	7.488	1	
-Charles Street	Enugu North	Enugu	6.458	7.492	1	
-Abano Tunel,Off Redeem Church	Enugu North	Enugu	6.456	7.502	1	
-Charles Leme Street	Enugu South	Enugu	6.423	7.508	1	
-Charles Nwokedi Close	Enugu North	Enugu	6.445	7.526	1	
-Chief Dr.Ofili Ugwudioha Street	Enugu North	Enugu	6.444	7.534	1	
-Chief Emeka Ebila Street	Enugu South	Enugu	6.415	7.487	1	
-Chiene Street	Enugu South	Enugu	6.418	7.501	1	
-Emmanuel Church Street	Enugu South	Enugu	6.418	7.496	1	
-Chief Emeka Ebila Close	Enugu South	Enugu	6.417	7.488	1	
-Chief Okwuba Close	Enugu East	Enugu	6.494	7.511	1	
-Church Street	Enugu East	Enugu	6.484	7.524	1	
-Chelsea Avenue	Enugu East	Enugu	6.482	7.530	1	
-Chief Ngwu Agbowo Avenue	Enugu East	Enugu	6.499	7.505	1	
-Chris Okonkwo Avenue	Enugu North	Enugu	6.457	7.537	1	
-Police Childeren School Entrance Road	Enugu North	Enugu	6.464	7.523	1	
-Church Street	Enugu East	Enugu	6.470	7.530	1	
-Chidiabor Street	Enugu North	Enugu	6.475	7.473	1	
-Ozo Christian Akpata Street	Enugu North	Enugu	6.471	7.474	1	
-Chike Avenue	Enugu East	Enugu	6.488	7.482	1	
-Chief Kalu Ukiwe Street	Enugu East	Enugu	6.485	7.478	1	
-Dr John Chineke Street	Enugu East	Enugu	6.484	7.479	1	
-Chief Ben Adinde Street	Enugu East	Enugu	6.487	7.478	1	
-Chukwu Ejim Street	Enugu East	Enugu	6.474	7.579	1	
-Asata Chemist	Enugu North	Enugu	6.447	7.500	1	
-Chief Agbo Street	Enugu North	Enugu	6.446	7.503	1	
-Christ Church Close	Enugu North	Enugu	6.425	7.487	1	
-Onyia Chime Drive	Enugu East	Enugu	6.480	7.499	1	
-Chuks Micheal Crescent	Enugu East	Enugu	6.487	7.486	1	
-Chief Edmond Ugo Avenue	Enugu East	Enugu	6.489	7.486	1	
-Chief Eugene Okoli Avenue	Enugu East	Enugu	6.485	7.574	1	
-Chris Ani Street	Enugu East	Enugu	6.474	7.586	1	
-Ben Chukwu Lane	Enugu East	Enugu	6.470	7.575	1	
-Chief Oliver Agbo Lane	Enugu East	Enugu	6.478	7.586	1	
-Chris Nwafor Street	Enugu East	Enugu	6.479	7.582	1	
-Chief Alum Street	Enugu East	Enugu	6.487	7.580	1	
-Chief Kalu Ukiwe Street	Enugu East	Enugu	6.486	7.478	1	
-Engr Chief B C Nwafor Street	Enugu East	Enugu	6.494	7.495	1	
-Chief Ede Nnamani Street	Enugu North	Enugu	6.452	7.504	1	
-Christ Holy Church Street	Enugu North	Enugu	6.456	7.559	1	
-Chinagorom Odo Avenue	Enugu North	Enugu	6.453	7.557	1	
-Chief Wilfred Ani Street	Enugu North	Enugu	6.462	7.569	1	
-Chief Acum Close	Enugu North	Enugu	6.437	7.497	1	
-Chief Ozor Close	Enugu East	Enugu	6.487	7.585	1	
-Chukwuka Utazi Street	Enugu North	Enugu	6.436	7.511	1	
-Chrisbel Crescent	Enugu North	Enugu	6.434	7.537	1	
-Chiedozie Ogbonna Street	Enugu South	Enugu	6.417	7.484	1	
-Chief Cosmas Nwinya Street	Enugu South	Enugu	6.401	7.482	1	
-Sir P. Onyeneke Chukwu Street	Enugu South	Enugu	6.411	7.504	1	
-Chief Okeke Nnam Street	Enugu South	Enugu	6.415	7.508	1	
-Chief Aniebonam Okafor Avenue	Enugu North	Enugu	6.427	7.537	1	
-Chezoka Street	Enugu South	Enugu	6.391	7.497	1	
-Roma Chukwu Street	Enugu South	Enugu	6.392	7.493	1	
-Chief Nwodo Street	Enugu South	Enugu	6.392	7.492	1	
-Charles Street	Enugu East	Enugu	6.489	7.516	1	
-Chaka Crescent	Enugu North	Enugu	6.452	7.532	1	
-Chukwuezugo Drive	Enugu South	Enugu	6.379	7.519	1	
-Chris Igwe Street	Enugu East	Enugu	6.491	7.487	1	
-Chris Ekwueme Street	Enugu East	Enugu	6.496	7.499	1	
-Chief Z.C Obi Link Road	Enugu North	Enugu	6.452	7.526	1	
-Chief Edward Nnaji Park Street	Enugu North	Enugu	6.456	7.524	1	
-Chief Greg Iwuchukwu Drive	Enugu South	Enugu	6.397	7.488	1	
-Roma Chukwu Street	Enugu South	Enugu	6.397	7.490	1	
-Chief Okeanonife Innocent Street	Enugu North	Enugu	6.461	7.479	1	
-Sir Chris Onwughalu Avenue	Enugu North	Enugu	6.462	7.478	1	
-Chief Okono Close	Enugu East	Enugu	6.494	7.516	1	
-Chief Cletus Nnaji Street	Enugu East	Enugu	6.494	7.517	1	
-Chris Ibuzo Crescent	Enugu North	Enugu	6.463	7.571	1	
-Chieloka Street	Enugu East	Enugu	6.467	7.557	1	
-Chibuzo Street	Enugu East	Enugu	6.480	7.533	1	
-Chief Ekwueme Street	Enugu South	Enugu	6.420	7.488	1	
-Christian Victory Prayer Ministry Road	Enugu South	Enugu	6.399	7.481	1	
-Chigbo Lane Upper Chime	Enugu South	Enugu	6.405	7.483	1	
-Chief Phillip Amaehule Close	Obio/Akpor	Rivers	4.862	7.045	1	
-Chukwuali Crescent	Enugu East	Enugu	6.480	7.487	1	
-Hon. Chuka Utazi Street	Enugu North	Enugu	6.430	7.532	1	
-Chris Igwe Street	Enugu East	Enugu	6.488	7.482	1	
-Prof. Chike Onochie Crescent	Enugu North	Enugu	6.459	7.550	1	
-Chief Michael Udeonu Street	Enugu South	Enugu	6.400	7.483	1	
-Chief Egbeigwe Avenue	Enugu North	Enugu	6.455	7.556	1	
-CHIDARI ROAD	Makoda	Kano	12.372	8.438	1	
-Chukwuka Street	Enugu East	Enugu	6.485	7.536	1	
-Chief Mike Aniuzu Street	Enugu East	Enugu	6.485	7.580	1	
-Church Road	Enugu North	Enugu	6.446	7.501	1	
-Chief Fred Ugwuodo link Road	Enugu North	Enugu	6.434	7.535	1	
-Chuks Akpor Street	Enugu North	Enugu	6.436	7.532	1	
-Chris Enendu Crescent	Enugu South	Enugu	6.421	7.527	1	
-Sir P. Onyeneke Chukwu Street	Enugu South	Enugu	6.410	7.506	1	
-Charles Agbo Close	Enugu East	Enugu	6.514	7.517	1	
-Chief Azubike Ugwuokwor	Enugu East	Enugu	6.506	7.508	1	
-Chief Bartholomeu Edeh Close	Enugu East	Enugu	6.514	7.513	1	
-Chief Cally Ekenechukwu Close	Enugu East	Enugu	6.508	7.516	1	
-Chief Edward Nnaji Close	Enugu North	Enugu	6.454	7.523	1	
-Chief Eneje Street	Enugu East	Enugu	6.481	7.511	1	
-Chief Eric Obiechina Crescent	Enugu East	Enugu	6.485	7.547	1	
-Chief Fidelis Nnaji Street	Enugu East	Enugu	6.510	7.503	1	
-Chief Fidelix Oya Drive	Enugu East	Enugu	6.504	7.525	1	
-Chief Goddy Nnamani Close	Enugu North	Enugu	6.468	7.476	1	
-Chief Innocent Agbo Crescent	Enugu East	Enugu	6.514	7.515	1	
-Chief J.O. Izuehie Street	Enugu South	Enugu	6.403	7.484	1	
-Chief Joseph Anike Ugwunnaji Street	Enugu East	Enugu	6.516	7.513	1	
-Chief Okolonji Avenue	Enugu East	Enugu	6.513	7.516	1	
-Chief Oliver Agbo Close	Enugu East	Enugu	6.478	7.586	1	
-Chief Onuora Obiakor Street	Enugu North	Enugu	6.462	7.574	1	
-Chief P.N Onyechukwu Street	Enugu East	Enugu	6.507	7.514	1	
-Chief Richard Ike Close	Enugu North	Enugu	6.439	7.529	1	
-Chief Simeon Agbo Ogbuefi Street	Enugu East	Enugu	6.517	7.527	1	
-Chief Simon Ekezie Crescent	Enugu East	Enugu	6.478	7.484	1	
-Chigbo Lane Upper Chime	Enugu South	Enugu	6.405	7.481	1	
-Chijioke Agu Street	Enugu East	Enugu	6.476	7.588	1	
-Chike Mba Crescent	Enugu East	Enugu	6.485	7.543	1	
-Chima Oji Drive	Enugu East	Enugu	6.470	7.500	1	
-Chinze Street	Enugu East	Enugu	6.500	7.530	1	
-Christ The King Street	Enugu East	Enugu	6.469	7.535	1	
-Christopher Ojobo Street	Enugu East	Enugu	6.469	7.535	1	
-Chuks Uche Close	Enugu East	Enugu	6.513	7.514	1	
-Chukwuemeka Ojiyi Drive	Enugu East	Enugu	6.498	7.528	1	
-Dr Charles Okpala Crescent	Enugu North	Enugu	6.451	7.551	1	
-Dr Leo Chukwuali Drive	Enugu East	Enugu	6.468	7.554	1	
-Dr. Charles Emehelu Street	Enugu East	Enugu	6.506	7.517	1	
-Elder Christian Onyeabor Avenue	Enugu East	Enugu	6.489	7.545	1	
-Felix Chukwuanukwu Street	Enugu North	Enugu	6.462	7.574	1	
-Jesus Christ Close	Enugu East	Enugu	6.487	7.546	1	
-Onyedikachuckwu Chuka Street	Enugu North	Enugu	6.433	7.535	1	
-Sir Charles Ozoude Street	Enugu South	Enugu	6.415	7.488	1	
-Sister Akunna Chike Street	Enugu East	Enugu	6.500	7.531	1	
-Prince Michael Den Chukwu Street	Enugu North	Enugu	6.447	7.558	1	
-Gospel Crusader Church Street	Ifako/Ijaye	Lagos	6.646	3.335	1	
-Chinyeaka Ohaa Crescent	Municipal Area Council	FCT Abuja	9.054	7.448	1	
-Church Hill Street	Enugu North	Enugu	6.440	7.495	1	
-Chapel Road	Ibadan North	Oyo	7.450	3.900	1	
-Chad Road	Ibadan North	Oyo	7.447	3.895	1	
-Macdan Chukwu Ani Avenue	Enugu East	Enugu	6.483	7.484	1	
-Chief Emeka H. Arinze Street	Enugu East	Enugu	6.467	7.551	1	
-Chief Amadi Drive	Enugu North	Enugu	6.462	7.526	1	
-Chris Harry crescent	Oshodi/Isolo	Lagos	6.504	3.301	1	
-Chief Valentine Ayika Street	Oshodi/Isolo	Lagos	6.498	3.304	1	
-Paddy Chuka Street	Oshodi/Isolo	Lagos	6.501	3.296	1	
-Reuben Chiaha Street	Oshodi/Isolo	Lagos	6.493	3.304	1	
-Olive Church Street	Oshodi/Isolo	Lagos	6.498	3.299	1	
-Chief Vitus Uzoh Street	Oshodi/Isolo	Lagos	6.502	3.320	1	
-Chief Ibrahim Street	Ìkòròdú	Lagos	6.627	3.499	1	
-Chief Popoola Straat	Ìkòròdú	Lagos	6.635	3.507	1	
-Chief Adetayo Elemuren Street	Ìkòròdú	Lagos	6.620	3.523	1	
-Church Street	Ìkòròdú	Lagos	6.621	3.483	1	
-Adamu Mai Chemist Street	Kano Municipal	Kano	11.973	8.531	1	
-Balarabe Chiroma Sreet	Ungongo	Kano	11.975	8.449	1	
-Layin Mai Gari Street Chiranci	Gwale	Kano	11.954	8.467	1	
 Vice Chancellor's Mosque	Ungongo	Kano	11.973	8.427	0	
 Chalawa Primary Health Centre	Kumbotso	Kano	11.918	8.425	0	
 Chiromawa Primary Health Centre	Ungongo	Kano	12.037	8.412	0	
@@ -830,19 +1541,6 @@ Rijiyar Lemo Maternal and Child Health	Fagge	Kano	12.055	8.477	0
 Chedi Bubba Ruga Health Post	Dawakin Tofa	Kano	12.139	8.393	0	
 Chedi Maidala Health Post	Dawakin Tofa	Kano	12.135	8.422	0	
 Tony Chetta Collage	Fagge	Kano	12.029	8.531	0	
-Chief Gbolahan Street	Eti Osa	Lagos	6.449	3.481	1	
-Chesachi Hani Okoroafor Close	Eti Osa	Lagos	6.444	3.480	1	
-Chevron Drive	Eti Osa	Lagos	6.452	3.531	1	
-Chief Okeanonife Innocent C. Street	Eti Osa	Lagos	6.432	3.522	1	
-Nonso Chukwucheben Street	Eti Osa	Lagos	6.424	3.522	1	
-Chestnut Walk	Eti Osa	Lagos	6.428	3.550	1	
-Chief Ganiu Enitan Street	Eti Osa	Lagos	6.444	3.541	1	
-Chief Idowu Baale St	Eti Osa	Lagos	6.492	3.583	1	
-Charity Avenue	Eti Osa	Lagos	6.503	3.616	1	
-Cherry Road	Eti Osa	Lagos	6.500	3.614	1	
-Church Street	Eti Osa	Lagos	6.507	3.609	1	
-Chamomile Avenue	Eti Osa	Lagos	6.492	3.611	1	
-Church Street	Eti Osa	Lagos	6.489	3.585	1	
 Chara Chara Dispensary	Katagum	Bauchi	11.703	10.174	0	
 Jarmawo Maternal And Child Health Clinic	Giade	Bauchi	11.544	10.320	0	
 Chadi Dispensary	Damban	Bauchi	11.617	10.675	0	
@@ -853,174 +1551,26 @@ Bogoro Maternal and Child Health Clinic	Bogoro	Bauchi	9.661	9.598	0
 Gwana Maternal and Child Health Clinic	Alkaleri	Bauchi	9.653	10.752	0	
 Lafiyan-sara Maternal and Child Health Clinic	Bogoro	Bauchi	9.686	9.554	0	
 Mwari Maternity and Child Health Center	Bogoro	Bauchi	9.669	9.575	0	
-Chikun	Chikun	Kaduna	10.271	7.111	2	
-Chris Akinro Close	Eti Osa	Lagos	6.444	3.517	1	
-Chief Saula Ndakolo Street	Eti Osa	Lagos	6.459	3.564	1	
-Chief Shittu Saka Musa Street	Eti Osa	Lagos	6.459	3.567	1	
-Chief Chuks Okokwu Street	Eti Osa	Lagos	6.451	3.593	1	
-Union Baptist Church Street	Osogbo	Osun	7.774	4.545	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.874	6.955	1	
 Ngelzarma Maternal and Child Health Center	Fune	Yobe	11.686	11.628	0	
-Church Street	Lagelu	Oyo	7.433	3.943	1	
-Okagu Chijioke Street	Eti Osa	Lagos	6.472	3.650	1	
-Christian Philips Crescent	Eti Osa	Lagos	6.474	3.651	1	
-Church Street	Ifako/Ijaye	Lagos	6.683	3.279	1	
-Church Street	Ifako/Ijaye	Lagos	6.672	3.297	1	
-Chief Natufe Street	Municipal Area Council	FCT Abuja	8.976	7.359	1	
-Chivita Avenue	Oshodi/Isolo	Lagos	6.539	3.324	1	
-Church Street	Oshodi/Isolo	Lagos	6.550	3.330	1	
-Church Street	Alimosho	Lagos	6.577	3.305	1	
-Chief Francis Aiyegbeni close	Ibadan South West	Oyo	7.370	3.859	1	
-Church Hill Street	Port-Harcourt	Rivers	4.801	7.005	1	
-CHIEF ABU KING SHULUWA ROAD	Markurdi	Benue	7.698	8.555	1	
-chinedu okafor street	Oshodi/Isolo	Lagos	6.544	3.320	1	
-Chief Aleru Street, Omuoko, Aluu, Port Harcourt	Ikwerre	Rivers	4.922	6.916	1	
-Chikwe Orlu Street	Obio/Akpor	Rivers	4.867	6.972	1	
-Chief Joe Okoye Street	Obio/Akpor	Rivers	4.866	6.968	1	
-Chief Akpunonu Street	Obio/Akpor	Rivers	4.889	6.999	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.876	7.036	1	
-Christian Road	Obio/Akpor	Rivers	4.868	7.107	1	
-Chubb Road	Ikot Ekpene	Akwa Ibom	5.178	7.721	1	
-ECWA Church Road	Bosso	Niger	9.575	6.545	1	
 Charles Heary Secondary School	Ideato North	Imo	5.856	7.104	0	
-Chief Aderibigbe M.A Street	Surulere	Oyo	7.968	4.505	1	
-Chief Afolabi Street	Ife Central	Osun	7.495	4.538	1	
-Champion Road	Akure South	Ondo	7.256	5.172	1	
-Church Street	Kosofe	Lagos	6.553	3.389	1	
-Chief Samuel Ajayi Street	Kosofe	Lagos	6.620	3.384	1	
-Celestial Church St	Ifo	Ogun	6.679	3.317	1	
-Winners Chapel Crescent	Owerri Municipal	Imo	5.482	7.014	1	
-Church Street	Shomolu	Lagos	6.529	3.379	1	
-Chemin du Village	Mariga	Niger	10.872	5.907	1	
-Chemin de la Montagne	Mariga	Niger	10.870	5.906	1	
-Chemin de la Cabane	Mariga	Niger	10.855	5.902	1	
-Chemin de l'Erable	Mariga	Niger	10.858	5.906	1	
-Chemin de la Coline	Mariga	Niger	10.869	5.892	1	
-Christopher Ndubuisi Street	Municipal Area Council	FCT Abuja	9.019	7.456	1	
-Hilary Chimezie Street	Eti Osa	Lagos	6.479	3.571	1	
-Prince Christopher Obi Close	Eti Osa	Lagos	6.478	3.575	1	
-Christ Embassy Close	Oshodi/Isolo	Lagos	6.491	3.299	1	
-Chris Ngadi Street	Oshodi/Isolo	Lagos	6.501	3.301	1	
-Chief Alowolomo Abeka Street	Oshodi/Isolo	Lagos	6.513	3.300	1	
-Church Street	Amuwo Odofin	Lagos	6.447	3.220	1	
-Chief Esan Way	Ojo	Lagos	6.484	3.180	1	
-Ebenezer Church Street	Alimosho	Lagos	6.643	3.278	1	
-Chief Labi Ishola-Lemomu Street	Eti Osa	Lagos	6.455	3.583	1	
-Charity Close	Eti Osa	Lagos	6.472	3.573	1	
-Efeosa-Chiede Close	Eti Osa	Lagos	6.474	3.570	1	
-Church Street	Ifo	Ogun	6.676	3.314	1	
-Chief Hakeem Shobande Close	Eti Osa	Lagos	6.473	3.575	1	
-Chief Tunde Thompson Close	Eti Osa	Lagos	6.474	3.576	1	
-Christ Embassy Close	Eti Osa	Lagos	6.476	3.579	1	
-Chief Innocent Oguguo Street	Eti Osa	Lagos	6.481	3.580	1	
-Chukwuemeka Anosike Street	Eti Osa	Lagos	6.479	3.581	1	
-Charles Onyibe Close	Eti Osa	Lagos	6.477	3.580	1	
-Chief Yusuf Owo Street	Agege	Lagos	6.616	3.326	1	
-Chief Owho Ovuakporie Street	Ikeja	Lagos	6.552	3.319	1	
-Malomo Olusholademi Chaccour Avenue	Eti Osa	Lagos	6.486	3.597	1	
-Chief Abiodun Otaru Close	Kosofe	Lagos	6.625	3.377	1	
-Chief Israel Udo Street	Eti Osa	Lagos	6.468	3.623	1	
-Chief Oma Eyewuoma Road	Ibeju Lekki	Lagos	6.459	3.678	1	
-Chief Wahab Irawo Street	Oshodi/Isolo	Lagos	6.493	3.314	1	
-Church Street	Ìkòròdú	Lagos	6.670	3.463	1	
-CHIBRA HEALTH POST	Bayo	Borno	10.375	11.810	0	
-Chief Abiola Taiwo Street	Alimosho	Lagos	6.638	3.243	1	
-Chief Yusuf Oyetola Crescent	Ejigbo	Osun	7.899	4.315	1	
-Chemin du Lac	Mariga	Niger	10.871	5.902	1	
+Chibra Health Post	Bayo	Borno	10.375	11.810	0	
 Jajere Maternal And Child Health Care	Fune	Yobe	11.983	11.437	0	
-Christ Church Road	Onitsha North	Anambra	6.154	6.777	1	
-Chief Adeniran Road	Akure South	Ondo	7.257	5.180	1	
-Chief Ejim Street	Obio/Akpor	Rivers	4.836	7.027	1	
-Church Street	Oshodi/Isolo	Lagos	6.559	3.345	1	
-ECWA CHURCH HAUSA ROAD	Akko	Gombe	10.293	11.102	1	
-Chinua Achebe Close	Municipal Area Council	FCT Abuja	9.115	7.409	1	
-Chibo Ofodile Close	Eti Osa	Lagos	6.459	3.476	1	
-Children's International School Road	Eti Osa	Lagos	6.449	3.485	1	
-Chief Charles Mba Street	Eti Osa	Lagos	6.440	3.489	1	
-New Challenge Drive	Chikun	Kaduna	10.461	7.439	1	
-Gospel Church of Christ Street	Uvwie	Delta	5.541	5.758	1	
-Chief Isoken Otone Street	Eti Osa	Lagos	6.478	3.603	1	
-Chief Oduwole Fawole Street	Ife Central	Osun	7.511	4.550	1	
-St. Patrick Church	Ife Central	Osun	7.497	4.542	1	
-Choi Street	Eti Osa	Lagos	6.456	3.449	1	
-Preye Lane, off Chief Aleru Street	Ikwerre	Rivers	4.923	6.915	1	
-Chief Aderibigbe M.A Street	Orolu	Osun	7.892	4.477	1	
-Chad Crescent	Kaduna North	Kaduna	10.559	7.470	1	
 CHC	Mokwa	Niger	8.802	5.750	0	
-Church Street	Oredo	Edo	6.296	5.569	1	BETHEL STREET
-Cherubim and Seraphim St	Esan West	Edo	6.755	6.056	1	
-Christ Embassy Lane	Okpe	Delta	5.593	5.710	1	
-Chief Honorable Doctor Johnson Street	Ikpoba-Okha	Edo	6.382	5.680	1	
-Christ Universal Road	Oriade	Osun	7.570	4.894	1	
-Chief Olusegun Obasanjo way	Lokoja	Kogi	7.810	6.748	1	
-Oore-Ofe Baptist Church Avenue	Ogbomosho North	Oyo	8.150	4.254	1	
-mercyland baptist church street	Ogbomosho North	Oyo	8.160	4.249	1	
-Open Heaven Church Road	Obio/Akpor	Rivers	4.877	6.913	1	
-Apostolic Church road	Obio/Akpor	Rivers	4.880	6.910	1	
-Christopher Titus Street	Eti Osa	Lagos	6.447	3.610	1	
-Chima-Chiakwazie Close	Eti Osa	Lagos	6.461	3.630	1	
-Church Street	Jahun	Jigawa	12.084	9.632	1	
-Churchill Road	Port-Harcourt	Rivers	4.748	7.042	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.875	6.923	1	
-Chief Clement Eke Street	Obio/Akpor	Rivers	4.826	7.059	1	
-Chief Levi Worlu Close	Obio/Akpor	Rivers	4.836	7.069	1	
-Church Street	Ibadan South West	Oyo	7.367	3.861	1	
-Amadi Chukwu Close	Obio/Akpor	Rivers	4.873	6.978	1	
-Choba Street	Port-Harcourt	Rivers	4.805	7.008	1	
-Chief Imoke Street	Nsukka	Enugu	6.873	7.411	1	
-Church Avenue	Ebonyi	Ebonyi	6.339	8.096	1	
-Charles Ezekwe Street	Ibeju Lekki	Lagos	6.450	3.672	1	
-Chidi Okpala Close	Eti Osa	Lagos	6.472	3.659	1	
-Chief S.I Obi Street	Municipal Area Council	FCT Abuja	9.143	7.322	1	
-Christmas Street	Municipal Area Council	FCT Abuja	9.151	7.343	1	
-Church Road	Itu	Akwa Ibom	5.055	7.916	1	
-Chizim Avenue	Eti Osa	Lagos	6.506	3.594	1	
-High Chief Osisiego Close	Eti Osa	Lagos	6.473	3.582	1	
-Church Street	Alimosho	Lagos	6.585	3.298	1	
-Chief Yusuf Owo Street	Agege	Lagos	6.620	3.324	1	
-Chief Ademola Ogunniyi street	Oyun	Kwara	8.141	4.747	1	
-Church Road	Calabar Municipal	Cross River	5.053	8.357	1	
-Charles Dave Street	Ìkòròdú	Lagos	6.622	3.488	1	
-Ichie Chief Ohale Street	Owerri Municipal	Imo	5.510	7.013	1	
-Charanci Layin Makabarta	Kumbotso	Kano	11.949	8.476	1	
-MFM Church Close	Ilorin East	Kwara	8.480	4.619	1	
-Chief Emeka Ebila Street	Enugu South	Enugu	6.414	7.487	1	
-Church Close	Mushin	Lagos	6.520	3.339	1	
-Church Bus stop	Alimosho	Lagos	6.609	3.256	1	
-Chief C.C. Onoh Street	Enugu North	Enugu	6.446	7.452	1	
 Chukwuemeka Odumegwu Ojukwu University, Uli	Ihiala	Anambra	5.772	6.837	0	
-Living-Proof Church Street	Ifako/Ijaye	Lagos	6.630	3.331	1	
-Chevron Drive	Eti Osa	Lagos	6.442	3.531	1	
-Chime Avenue	Enugu North	Enugu	6.458	7.535	1	
-Phinormar/Chalon Road	Enugu North	Enugu	6.429	7.455	1	
 Bulabulin Maternal and Child Health Care	Yunusari	Yobe	13.068	12.371	0	
-Chikodi Street	Obio/Akpor	Rivers	4.876	6.918	1	
 Lawan Musa Maternity and  Child Health Clinic	Barde	Yobe	12.870	11.048	0	
-Chief Uzor Chukwunuwike Street	Uvwie	Delta	5.564	5.777	1	
-Church Road	Gokana	Rivers	4.686	7.341	1	
-Emmanuel Anglican Church road	Ife North	Osun	7.548	4.460	1	
-Chicago Avenue	Mobbar	Borno	13.078	12.515	1	
-Chicago Avenue	Mobbar	Borno	13.075	12.519	1	
-Chris Emeziem Anyanwu's lane	Aboh-Mbaise	Imo	5.491	7.192	1	
 Beulah Baptist Church College	Ejigbo	Osun	7.909	4.318	0	
 African Church Primary School	Alimosho	Lagos	6.674	3.269	0	
 Massey Street Children Hospital	Lagos Island	Lagos	6.455	3.392	0	
 Amuwo Odofin Maternal & Childcare Centre	Amuwo Odofin	Lagos	6.462	3.302	0	
 Chrisland College, Idimu	Alimosho	Lagos	6.564	3.288	0	
-Cherubim & Seraphim Road	Ovia North-East	Edo	6.451	5.608	1	
-Chief Charles Mba Street	Eti Osa	Lagos	6.434	3.518	1	
-Simon Chibuko Street	Eti Osa	Lagos	6.436	3.563	1	
-Choi Street	Eti Osa	Lagos	6.455	3.450	1	
 ChongFi Petroleum	Ìkòròdú	Lagos	6.614	3.571	0	
-Church Street	Lagos Mainland	Lagos	6.496	3.387	1	
-Churchill Road	Port-Harcourt	Rivers	4.742	7.035	1	
 Chocolate Mall	Municipal Area Council	FCT Abuja	9.070	7.479	0	
 Cherubim & Seraphim Primary School, Majidun	Ìkòròdú	Lagos	6.617	3.478	0	
 Supreme Child School	Ìkòròdú	Lagos	6.621	3.495	0	
 Chong Fi Petroleum	Ìkòròdú	Lagos	6.634	3.484	0	
 Limi Children`s Hospital	Municipal Area Council	FCT Abuja	9.070	7.486	0	
 African Church Central Primary School, Agege	Agege	Lagos	6.615	3.320	0	
-Chrisos Hospital	Eti Osa	Lagos	6.470	3.602	1	
 The Chasel Hospital	Kaduna North	Kaduna	10.545	7.446	0	
 Christ Medical Center	Oredo	Edo	6.329	5.627	0	
 Chisi Cottage Clinic	Egor	Edo	6.327	5.581	0	
@@ -1028,7 +1578,6 @@ Gwale Filin Mushe Maternal and Child Care	Gwale	Kano	11.986	8.504	0
 Chiranchi Health Post	Kumbotso	Kano	11.952	8.476	0	
 Zawa Chiki Primary Health Centre	Kumbotso	Kano	11.919	8.466	0	
 Kofar Chiri Primary Health Centre	Garko	Kano	11.601	8.863	0	
-Charles Ezekwe Street	Ibeju Lekki	Lagos	6.450	3.676	1	
 Giade Maternity and Child Health Center	Giade	Bauchi	11.386	10.184	0	
 Maternity and Child Health Centerealth Center Faguji	Giade	Bauchi	11.514	10.257	0	
 Uzum Maternal And Child Health Clinic	Giade	Bauchi	11.519	10.206	0	
@@ -1107,84 +1656,19 @@ Watinane Maternal and Child Health Care	Nangere	Yobe	11.757	11.012	0
 Maternal Child Health Mazagane	Potiskum	Yobe	11.640	11.026	0	
 Potiskum Maternity and Child Health Center	Potiskum	Yobe	11.710	11.068	0	
 Dogon Zare Maternity and Child Health Center	Potiskum	Yobe	11.700	11.086	0	
-Chibuzor Okafor Street	Municipal Area Council	FCT Abuja	8.968	7.510	1	
-Nik Chuks Street	Alimosho	Lagos	6.546	3.271	1	
-JI Chukwu Crescent	Municipal Area Council	FCT Abuja	9.038	7.546	1	
-Marshall Chinedu Avenue	Owerri North	Imo	5.487	7.079	1	
-Chief Clement Ogu Avenue	Owerri Municipal	Imo	5.468	7.050	1	
-John Chiokwe Street	Municipal Area Council	FCT Abuja	8.989	7.345	1	
 Destiny Christian Academy	Municipal Area Council	FCT Abuja	8.990	7.426	0	
 Chinua Achebe International Airport	Anambra East	Anambra	6.255	6.855	0	
 Charity Foundation School	Kosofe	Lagos	6.581	3.414	0	
 Excel Christabel Nursery and Primary School	Municipal Area Council	FCT Abuja	8.993	7.428	0	
-Chairman Street	Oredo	Edo	6.238	5.609	1	
-Chairman Street	Isoko North	Delta	5.555	6.236	1	
-Chief Emma Ogbu Crescent	Enugu East	Enugu	6.475	7.530	1	
-Christopher Ndubuisi Street	Municipal Area Council	FCT Abuja	9.014	7.455	1	
-MFM Church Crescent	Ilorin East	Kwara	8.479	4.620	1	
-One World Charities Mission Road	Khana	Rivers	4.676	7.389	1	
-Chinedu Moore Close	Eti Osa	Lagos	6.430	3.498	1	
-Chelsea Street	Municipal Area Council	FCT Abuja	8.998	7.364	1	
 Rhemaville Christian Academy	Jos North	Plateau	9.857	8.856	0	
-Chris Alli Crescent	Eti Osa	Lagos	6.462	3.427	1	
-Chiroma Street	Chikun	Kaduna	10.450	7.448	1	
-Chief Ndukwe Ukpai Memorial Close	Owerri Municipal	Imo	5.477	6.994	1	
 Zainab bulkachuwa women & children hospital	Gombe	Gombe	10.293	11.181	0	
 Children's International School	Eti Osa	Lagos	6.449	3.485	0	
-Church Street	Oshodi/Isolo	Lagos	6.521	3.317	1	
-Near 60 Hasell St, Charleston, SC 29401, USA	Ado Odo/Ota	Ogun	6.543	3.066	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.868	7.028	1	
 Union Baptist Church, Nursery and Primary School	Ede North	Osun	7.726	4.481	0	
 African Church Grammar School	Akoko South West	Ondo	7.463	5.796	0	
-Chinonso J.C Close	Mbaitoli	Imo	5.537	7.065	1	
 Childcare and Wellness Clinic	Municipal Area Council	FCT Abuja	9.074	7.443	0	
-Chief Kabiru Ogunleye Street	Eti Osa	Lagos	6.450	3.612	1	
-One World Charities Mission Road	Khana	Rivers	4.673	7.389	1	
-Chime Avenue	Enugu North	Enugu	6.457	7.510	1	
-Chijioke Madukaife Close	Awgu	Enugu	6.044	7.486	1	
-Hon. Chika Ogbe Close	Enugu South	Enugu	6.413	7.513	1	
-Jatto Memorial Christian College	Oredo	Edo	6.325	5.587	0	
 Charterhouse Lagos	Eti Osa	Lagos	6.443	3.593	0	
 North East Children’s Trust (NECT), The Learning Centre 1	Maiduguri	Borno	11.826	13.116	0	
-Chief Joseph U. Ogbunnehi Street	Eti Osa	Lagos	6.480	3.578	1	
-Chief Elder P.N. Sikpi Road	Yenegoa	Bayelsa	4.869	6.212	1	
 Rawan Dutsi Maternity and  Child Health Clinic	Sandamu	Katsina	12.844	8.352	0	
 Rijiyar Tsamiya Maternity and  Child Health Clinic	Sandamu	Katsina	12.880	8.273	0	
 Prince Arthur Eze Mother & Child Complex	Nnewi North	Anambra	5.997	6.880	0	
 Old Mother & Child Centre	Nnewi North	Anambra	5.998	6.879	0	
-Chilariye	Nangere	Yobe	11.677	10.990	2	
-Chamo	Dutse	Jigawa	11.995	9.305	2	
-Chirbin	Buji	Jigawa	11.598	9.654	2	
-Chaichai	Ringim	Jigawa	12.079	9.283	2	
-Chukuto	Taura	Jigawa	12.283	9.243	2	
-Chikwaikwaiwa	Taura	Jigawa	12.289	9.367	2	
-Garin Chiroma	Gagarawa	Jigawa	12.414	9.492	2	
-Chediya	Tsafe	Zamfara	11.988	6.966	2	
-Chilas	Gudu	Sokoto	13.281	4.270	2	
-Chacho-Marnona	Wurno	Sokoto	13.226	5.544	2	
-Chimola	Gwadabawa	Sokoto	13.339	5.326	2	
-Karfe Chana	Gudu	Sokoto	13.266	4.600	2	
-Chibike	Arewa Dandi	Kebbi	12.450	3.828	2	
-Cheberu	Gwandu	Kebbi	12.512	4.526	2	
-Chikaji	Sabon Gari	Kaduna	11.115	7.724	2	
-Chori	Jaba	Kaduna	9.528	8.061	2	
-Chirin	Bunkure	Kano	11.610	8.513	2	
-Chiranchi	Kumbotso	Kano	11.934	8.471	2	
-Chiromawa	Garum Mallam	Kano	11.632	8.393	2	
-Chalawa	Kumbotso	Kano	11.918	8.425	2	
-Chula	Ajingi	Kano	11.989	8.980	2	
-Charanchi	Charanchi	Katsina	12.700	7.699	2	
-Charanchi	Charanchi	Katsina	12.558	7.676	2	
-Chikun	Chikun	Kaduna	10.242	7.071	2	
-Rumirgu Chul	Askira-Uba	Borno	10.601	13.053	2	
-Chibok	Chibok	Borno	10.839	12.820	2	
-Chukuriya	Nangere	Yobe	12.002	10.907	2	
-Chinade	Katagum	Bauchi	11.540	10.415	2	
-Chinkani	Giade	Bauchi	11.322	10.263	2	
-Gwangang Chata	Hawul	Borno	10.362	12.104	2	
-Hoyo Chingowa	Magumeri	Borno	12.019	12.946	2	
-Chamba	Mobbar	Borno	13.075	12.603	2	
-Chulu Gumbi	Yauri	Kebbi	10.629	4.717	2	
-Chanchaga	Chanchaga	Niger	9.619	6.550	2	
-Chikun	Chikun	Kaduna	10.420	7.314	2	
-Chikide	Gwoza	Borno	11.051	13.783	2	

@@ -1,7 +1,11 @@
+Zuru	Zuru	Kebbi	11.433	5.239	3	
+Unguwar Zubairu	Makoda	Kano	12.420	8.432	3	
+Zuru	Zuru	Kebbi	11.435	5.235	3	
+Zurmi	Zurmi	Zamfara	12.777	6.784	3	
+Zungeru	Wushishi	Niger	9.807	6.152	3	zong gai lu|zungeru|zwngrw
 Malum Zuberu	Abadam	Borno	13.487	13.388	2	
 Zugai	Roni	Jigawa	12.559	8.310	2	
 Zurmuku	Tangaza	Sokoto	13.528	5.118	2	
-Zurmi	Zurmi	Zamfara	12.778	6.783	2	
 Zugulibba	Maiyama	Kebbi	11.800	4.482	2	Zugu
 Zull	Toro	Bauchi	10.221	9.572	2	Zull (1)
 Zugun Bagudu	Bagudo	Kebbi	11.453	4.282	2	
@@ -16,11 +20,9 @@ Zuru Kuduk	Geidam	Yobe	12.615	12.385	2
 Zungon Katab	Zangon Kataf	Kaduna	9.833	8.400	2	Zangwan Katab;Zangon Katab;Katab;Zungon Katab
 Zumbula	Bama	Borno	11.415	14.348	2	
 Zugana	Gwadabawa	Sokoto	13.521	5.500	2	
-Zuru	Zuru	Kebbi	11.433	5.239	3	
 Zuguru	Kalgo	Kebbi	12.408	4.075	2	
 Zuefawa	Soba	Kaduna	10.735	8.034	2	
 Zua	Gboko	Benue	7.417	8.750	2	
-Zungeru	Wushishi	Niger	9.806	6.151	2	
 Zukuku	Arewa Dandi	Kebbi	12.554	3.796	2	Zukuki
 Zuwa	Biu	Borno	10.766	12.023	2	
 Zungwan Ate	Illela	Sokoto	13.523	5.338	2	
@@ -43,7 +45,6 @@ Zugusko	Fakai	Kebbi	11.572	4.913	2
 Zulum	Nganzai	Borno	12.431	13.354	2	Zilumo
 Zukui	Michika	Adamawa	10.652	13.400	2	
 Zira Bulama Jagwa	Biu	Borno	10.820	12.173	2	Zura Birmari
-Zuwo Health Post	Kiru	Kano	11.750	8.206	0	
 Zuwan Hawa	Albasu	Kano	11.731	9.223	2	
 Makwalla Zungur	Tudun Wada	Kano	11.280	8.428	2	
 Modu Zumari	Magumeri	Borno	12.188	12.838	2	
@@ -52,11 +53,9 @@ Zundur	Nganzai	Borno	12.310	13.132	2
 Zuma Kurari	Gubio	Borno	12.635	12.713	2	
 Sando Zulmari	Nganzai	Borno	12.702	13.078	2	
 Zulmari	Nganzai	Borno	12.650	13.078	2	
-Zungeru	Wushishi	Niger	9.812	6.169	0	
 Zum Buleri	Magumeri	Borno	12.169	12.424	2	
 Zuire Kura	Mobbar	Borno	12.856	12.620	2	
 Zuldatu	Sabon Birni	Sokoto	13.651	5.969	2	
-Zuba	Gwagwalada	FCT Abuja	9.093	7.216	0	
 Zumaayiri	Guzamala	Borno	12.990	13.031	2	
 Zumari	Nganzai	Borno	12.732	13.259	2	
 Zumari Gana	Nganzai	Borno	12.737	13.252	2	
@@ -64,55 +63,159 @@ Zumana	Gwadabawa	Sokoto	13.448	5.487	2
 Unguwar Zuwo A	Gwarzo	Kano	11.906	7.871	2	
 Zungurau	Karaye	Kano	11.832	8.124	2	
 Zuwo	Kiru	Kano	11.750	8.206	2	
-Unguwar Zubairu	Makoda	Kano	12.420	8.432	3	
 Lautan Zumau	Minjibir	Kano	12.229	8.693	2	Lautai
 Zubainawa	Ungongo	Kano	12.059	8.464	2	
 Zubau	Gabasawa	Kano	12.177	8.770	2	Zugoh
 Zugachi	Gabasawa	Kano	12.059	8.851	2	Zugace
 Zumbulawa	Garko	Kano	11.653	8.900	2	
 Zuga	Takai	Kano	11.510	9.146	2	
-General Hospital Zurmi	Zurmi	Zamfara	12.777	6.790	0	
-Health Post Zugwagunli Uding	Hong	Adamawa	10.149	12.905	0	
-Martha Bamaiyi General Hospital Zuru	Zuru	Kebbi	11.419	5.238	0	
-zumuratul islamiyah primary school, ojumele	Shagamu	Ogun	6.847	3.636	0	
-zumuratul islamiyyah primary school, i akute	Ifo	Ogun	6.680	3.369	0	
-Zumuratul Islamiyyah Primary School, Iii Ishasi	Ìjẹ̀bú Òde	Ogun	6.814	3.930	0	
-Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.818	3.185	0	
-Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.684	3.369	0	
-Zumuratul Islamiyyah Primary School, Iii Ishasi	Ifo	Ogun	6.669	3.374	0	
 Zumangbene	Sagbama	Bayelsa	5.131	6.118	2	
-Al-Zunnur Clinic and Maternity	Bassa	Plateau	9.993	8.852	0	
-Primary health care Kc3 Zuba Road Shooting Range Kabala	Kaduna North	Kaduna	10.505	7.449	0	
-MAKARATAR ZUBAIRU BIN AWAM	Ungongo	Kano	12.041	8.565	0	
-MADARASATUL ZUBAIRU BIN AWWAM	Gwale	Kano	11.962	8.467	0	
-ZUBAIRU BIN AWAWM	Gwale	Kano	11.962	8.467	0	
-G.U.O Transport - Zuba(Fct) Terminal	Gwagwalada	FCT Abuja	9.091	7.215	0	
+Zungumba	Yankwashi	Jigawa	12.752	8.420	2	
+Zurmi	Zurmi	Zamfara	12.792	6.753	2	
+Rafin Zuru	Zuru	Kebbi	11.425	5.219	2	
+Zuguru	Kalgo	Kebbi	12.395	4.059	2	
+Zuntu	Kubau	Kaduna	10.759	8.224	2	
+Zugai	Roni	Jigawa	12.523	8.334	2	
+Zurgu	Rano	Kano	11.544	8.527	2	
+Zuga	Takai	Kano	11.589	9.143	2	
+Zuwo	Kiru	Kano	11.768	8.186	2	
+Zurmi	Zurmi	Zamfara	12.863	6.760	2	
+Zulum Umarti	Mobbar	Borno	13.037	12.461	2	
+Zulum	Monguno	Borno	12.500	13.368	2	
+Zubo	Shira	Bauchi	11.642	9.987	2	
+Zubiki	Itas/Gadau	Bauchi	11.854	10.060	2	
+Zungur	Bauchi	Bauchi	10.049	9.732	2	
+Zurgwai	Warji	Bauchi	11.125	9.680	2	
+Zuzu	Ushongo	Benue	7.219	8.924	2	
+Zuwel	Ushongo	Benue	7.068	8.930	2	
+Zuwai	Song	Adamawa	9.968	12.357	2	
+Zuwa	Yorro	Taraba	8.967	11.411	2	
+Zuturu Mugu	Zangon Kataf	Kaduna	9.766	8.179	2	
+Zuru	Babura	Jigawa	12.565	8.814	2	
+Zuru	Paikoro	Niger	9.465	6.844	2	
+Zurgum	Barkin Ladi	Plateau	9.401	8.831	2	
+Zurfi	Bogoro	Bauchi	9.553	9.565	2	
+New Zurak	Wase	Plateau	9.233	10.567	2	Zurak
+Zura Birmari	Biu	Borno	10.819	12.173	2	
+Zura	Biu	Borno	10.810	12.209	2	
+Zuturu Bogo	Zangon Kataf	Kaduna	9.811	8.102	2	Zunturo Mugu
+Zunkudi	Kiyawa	Jigawa	11.903	9.745	2	
+Zungwe	Donga	Taraba	7.491	10.171	2	
+Zungwe	Gboko	Benue	7.375	8.738	2	
+Zungur	Bauchi	Bauchi	9.975	9.787	2	
+Zungunba	Yankwashi	Jigawa	12.748	8.401	2	
+Zunfur	Magumeri	Borno	12.258	13.110	2	
+Zuna	Toro	Bauchi	10.627	8.882	2	
+Zun	Gboko	Benue	7.276	8.676	2	
+Zumugu	Yusufari	Yobe	13.118	11.363	2	
+Zumta	Biu	Borno	10.645	12.106	2	
+Zumma	Fika	Yobe	11.566	11.288	2	Zumna
+Zumburum	Gwaram	Jigawa	10.949	10.181	2	
+Zumbulum	Gwoza	Borno	11.267	13.915	2	Sumbulim|Sumbulimbe
+Zumbula	Bama	Borno	11.415	14.349	2	
+Zumba	Shiroro	Niger	9.936	6.826	2	
+Zum Ahmadu	Hong	Adamawa	10.133	13.100	2	
+Zum	Hong	Adamawa	10.115	13.048	2	Zum Ahmadu
+Zulika	Lavun	Niger	9.556	5.537	2	
+Zukuku	Arewa Dandi	Kebbi	12.556	3.788	2	Zukuki
+Zuku	Toro	Bauchi	10.505	8.903	2	
+Zui	Abaji	FCT Abuja	8.838	6.790	2	
+Zuguum	Koko-Besse	Kebbi	11.317	4.317	2	
+Zuguru	Rafi	Niger	10.067	6.433	2	
+Zuguruma	Mashegu	Niger	9.459	4.967	2	Zugurma
+Zuguntane	Shanga	Kebbi	11.333	4.533	2	
+Zugumi	Hong	Adamawa	10.513	12.731	2	
+Zugu	Kebbe	Sokoto	11.797	4.557	2	
+Zugu	Maiyama	Kebbi	11.798	4.483	2	Zugulibba
+Zugu	Gulani	Yobe	11.184	11.873	2	
+Zugu	Gulani	Yobe	11.170	11.878	2	
+Zugea	Gamawa	Bauchi	12.097	10.679	2	
+Shugbe	Bassa	Kogi	8.008	7.250	2	Zugbe
+Zugace	Gabasawa	Kano	12.058	8.851	2	Zugachi
+Zudei	Bali	Taraba	8.209	10.796	2	Zuden
+Zubuki	Itas/Gadau	Bauchi	11.835	10.053	2	
+Zuba	Gwagwalada	FCT Abuja	9.096	7.213	2	
+Zua	Gboko	Benue	7.416	8.744	2	
+Zua	Ushongo	Benue	7.069	8.903	2	
+Zango Katab	Zangon Kataf	Kaduna	9.835	8.406	2	Katab|Zangon Katab|Zangwan Katab|Zungon Katab
+Wuro Zubairo	Song	Adamawa	10.039	12.610	2	
+Wakili Zupe	Bali	Taraba	8.377	11.052	2	
+Tungen Zuri	Musawa	Katsina	11.979	7.602	2	
+Surr	Bogoro	Bauchi	9.570	9.747	2	Zur
+Lugga Zum	Hong	Adamawa	10.111	13.056	2	
+Kwarin Zurmi	Shinkafi	Zamfara	12.966	6.633	2	
+Kafin Karya	Ajingi	Kano	11.983	9.167	2	Kafin Karva|Zungou Kariya
+Ibadan	Borgu	Niger	10.845	4.021	2	Zugungi
+Gidan Zunkpaida	Shiroro	Niger	9.725	6.767	2	
+Garare Zum	Hong	Adamawa	10.112	13.079	2	
+Zushi	Gulani	Yobe	11.007	11.708	2	Duci
+Babban Zugu	Borgu	Niger	11.017	4.183	2	
+Zua	Bama	Borno	11.330	13.849	2	
+Zuwatema	Gwer West	Benue	7.766	8.266	2	
+Zugum	Baure	Katsina	12.720	8.677	2	
+Zukumi	Bichi	Kano	12.269	8.386	2	
+Zugoh	Gabasawa	Kano	12.176	8.770	2	
+Zugai	Sandamu	Katsina	12.828	8.466	2	
+Gidan Zudangi	Rafi	Niger	10.087	6.292	2	
+Zuri	Gwarzo	Kano	11.977	7.856	2	
+Zurunkuntom	Kankara	Katsina	11.897	7.394	2	
+Dan Zuwa	Karaye	Kano	11.693	7.919	2	
+Zugu	Bakori	Katsina	11.682	7.439	2	
+Zuru	Zuru	Kebbi	11.446	5.287	2	Agbegbe Ijoba Ibile Zuru
+Zurmi	Zurmi	Zamfara	12.811	6.794	2	Zurmi Local Government Area
+Zuguru	Kalgo	Kebbi	12.397	4.065	2	
+Zugai	Roni	Jigawa	12.526	8.335	2	
+Zurmi	Zurmi	Zamfara	12.796	6.733	2	
+Zuntu	Kubau	Kaduna	10.758	8.238	2	
+Zulum Umarti	Mobbar	Borno	13.028	12.465	2	
+Zubo	Shira	Bauchi	11.633	10.051	2	
+Zurgwai	Warji	Bauchi	11.067	9.714	2	
+Zungur	Bauchi	Bauchi	10.010	9.729	2	
+Zugu	Gwer East	Benue	7.630	8.367	2	
+Zuwave	Logo	Benue	7.561	9.430	2	
+Zungwe	Wukari	Taraba	7.819	9.717	2	
+Zumne	Katsina-Ala	Benue	7.283	9.391	2	
+Zungwe	Gboko	Benue	7.218	9.043	2	
+Zuzu	Buruku	Benue	7.224	9.180	2	
+Zuakui	Katsina-Ala	Benue	7.160	9.336	2	
+Zuana	Gboko	Benue	7.373	8.887	2	
+Zungwe	Gboko	Benue	7.311	8.979	2	
+Zungu	Gboko	Benue	7.316	8.984	2	
+Etsu Zuberu	Gbako	Niger	9.393	6.119	2	
+Emitsachi	Gbako	Niger	9.204	6.088	2	Zuntaji
+Zuru	Paikoro	Niger	9.572	7.074	2	
+Zuku	Wase	Plateau	8.905	10.034	2	
+Zuakan	Mikang	Plateau	8.975	9.574	2	
+Zuturu Gida	Zangon Kataf	Kaduna	9.748	8.215	2	
+Zuturu Fama	Zangon Kataf	Kaduna	9.791	8.192	2	
+Zuron	Demsa	Adamawa	9.480	12.105	2	
+Pudo Zuron	Demsa	Adamawa	9.461	12.100	2	
+Zumo	Lau	Taraba	9.323	11.522	2	
+Zukur	Lau	Taraba	9.331	11.551	2	
+Zurhu	Demsa	Adamawa	9.334	11.925	2	
+Zuse Sama	Demsa	Adamawa	9.200	11.785	2	
+Zuse Kosa	Demsa	Adamawa	9.195	11.774	2	
+Zumba	Shelleng	Adamawa	9.970	12.196	2	
+Zuma	Song	Adamawa	9.759	12.222	2	
+Lainde Zuvoi	Song	Adamawa	9.965	12.524	2	LaindeZuvoi
+Wakili Zuwa	Song	Adamawa	9.754	12.880	2	WakiliZuwa
+Zurak	Wase	Plateau	9.196	10.548	2	
+Zubakpere	Paikoro	Niger	9.578	7.058	2	
 Zubair Sambo Aliyu Road	Kaduna North	Kaduna	10.514	7.448	1	
 Zungeru Road	Fagge	Kano	12.027	8.535	1	
 Zuma Close	Municipal Area Council	FCT Abuja	9.078	7.512	1	
 Zuba Garki Road	Municipal Area Council	FCT Abuja	9.065	7.391	1	
 Zuwais Street	Municipal Area Council	FCT Abuja	9.069	7.459	1	
 Zuwa Dodoma Street	Municipal Area Council	FCT Abuja	9.069	7.460	1	
-ZUBAIRU BN AUWAM;ZBA clinic	Gombe	Gombe	10.261	11.171	0	
 Zubairu Bn Auwam Close	Gombe	Gombe	10.260	11.171	1	
-Zubairiyya	Gwale	Kano	11.988	8.513	0	
 Zuru Road	Wamako	Sokoto	13.020	5.226	1	
-Zuwan Hawa Health Post	Albasu	Kano	11.729	9.224	0	
-Zuru Felele Health Post	Makoda	Kano	12.347	8.539	0	
-Zubuki Health Post	Itas/Gadau	Bauchi	11.835	10.047	0	
-Zumbul Dangri Health Clinic	Dass	Bauchi	10.018	9.467	0	
-S/g/zumbul Dispensary	Dass	Bauchi	10.038	9.422	0	
-Zungur Primary Health Center	Bauchi	Bauchi	9.970	9.789	0	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.582	6.567	1	
 Minna-Zungeru Road	Chanchaga	Niger	9.593	6.564	1	
-Minna-Zungeru Road	Chanchaga	Niger	9.595	6.562	1	
 Federal Road F.126 Zungeru - Izom	Chanchaga	Niger	9.607	6.554	1	
 Federal Road F.126 Zungeru - Izom	Chanchaga	Niger	9.644	6.540	1	
-Federal Road F.126 Zungeru - Izom	Chanchaga	Niger	9.615	6.547	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.545	6.583	1	
 Federal Road F.126 Zungeru - Izom	Wushishi	Niger	9.789	6.164	1	
 Federal Road F.126 Zungeru - Izom	Paikoro	Niger	9.403	6.742	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.535	6.580	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.682	6.243	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.630	6.312	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.637	6.387	1	
@@ -122,9 +225,35 @@ Zuleman Road	Sokoto South	Sokoto	13.059	5.236	1
 Zungeru Road	Fagge	Kano	12.027	8.530	1	
 Federal Road F.126 Zungeru - Izom	Chanchaga	Niger	9.658	6.527	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.671	6.509	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.570	6.574	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.556	6.581	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.534	6.580	1	
+Federal Road F.126 Zungeru - Izom	Wushishi	Niger	9.732	6.199	1	
+Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.684	6.478	1	
+Zungeru Crescent	Kaduna North	Kaduna	10.520	7.445	1	
+Zuwo Health Post	Kiru	Kano	11.750	8.206	0	
+Zungeru	Wushishi	Niger	9.812	6.169	0	
+Zuba	Gwagwalada	FCT Abuja	9.093	7.216	0	
+General Hospital Zurmi	Zurmi	Zamfara	12.777	6.790	0	
+Health Post Zugwagunli Uding	Hong	Adamawa	10.149	12.905	0	
+Martha Bamaiyi General Hospital Zuru	Zuru	Kebbi	11.419	5.238	0	
+zumuratul islamiyah primary school, ojumele	Shagamu	Ogun	6.847	3.636	0	
+zumuratul islamiyyah primary school, i akute	Ifo	Ogun	6.680	3.369	0	
+Zumuratul Islamiyyah Primary School, Iii Ishasi	Ìjẹ̀bú Òde	Ogun	6.814	3.930	0	
+Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.818	3.185	0	
+Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.684	3.369	0	
+Zumuratul Islamiyyah Primary School, Iii Ishasi	Ifo	Ogun	6.669	3.374	0	
+Al-Zunnur Clinic and Maternity	Bassa	Plateau	9.993	8.852	0	
+Primary health care Kc3 Zuba Road Shooting Range Kabala	Kaduna North	Kaduna	10.505	7.449	0	
+Makaratar Zubairu Bin Awam	Ungongo	Kano	12.041	8.565	0	
+Madarasatul Zubairu Bin Awwam	Gwale	Kano	11.962	8.467	0	
+Zubairu Bin Awawm	Gwale	Kano	11.962	8.467	0	
+G.U.O Transport - Zuba(Fct) Terminal	Gwagwalada	FCT Abuja	9.091	7.215	0	
+ZUBAIRU BN AUWAM;ZBA clinic	Gombe	Gombe	10.261	11.171	0	
+Zubairiyya	Gwale	Kano	11.988	8.513	0	
+Zuwan Hawa Health Post	Albasu	Kano	11.729	9.224	0	
+Zuru Felele Health Post	Makoda	Kano	12.347	8.539	0	
+Zubuki Health Post	Itas/Gadau	Bauchi	11.835	10.047	0	
+Zumbul Dangri Health Clinic	Dass	Bauchi	10.018	9.467	0	
+S/g/zumbul Dispensary	Dass	Bauchi	10.038	9.422	0	
+Zungur Primary Health Center	Bauchi	Bauchi	9.970	9.789	0	
 Zumratul Islamiya Grammar school	Ìkòròdú	Lagos	6.588	3.523	0	
 Sani Zubairu Health Post	Gwale	Kano	11.987	8.510	0	
 Zukku Dispensary	Toro	Bauchi	10.521	8.890	0	
@@ -133,28 +262,3 @@ Zubo Primary Health Center	Shira	Bauchi	11.644	9.981	0
 Zugachi Primary Health Centre	Gabasawa	Kano	12.065	8.857	0	
 Zuran 11 health post	Demsa	Adamawa	9.460	12.101	0	
 Zuma	Municipal Area Council	FCT Abuja	9.060	7.455	0	
-Federal Road F.126 Zungeru - Izom	Wushishi	Niger	9.732	6.199	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.690	6.238	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.684	6.478	1	
-Zuba Garki Road	Municipal Area Council	FCT Abuja	9.071	7.390	1	
-Zungeru Crescent	Kaduna North	Kaduna	10.520	7.445	1	
-Zuba Garki Road	Municipal Area Council	FCT Abuja	9.072	7.377	1	
-Zuba Garki Road	Municipal Area Council	FCT Abuja	9.073	7.373	1	
-Zungumba	Yankwashi	Jigawa	12.752	8.420	2	
-Zurmi	Zurmi	Zamfara	12.792	6.753	2	
-Rafin Zuru	Zuru	Kebbi	11.425	5.219	2	
-Zuguru	Kalgo	Kebbi	12.395	4.059	2	
-Zuru	Zuru	Kebbi	11.437	5.231	2	
-Zuntu	Kubau	Kaduna	10.759	8.224	2	
-Zugai	Roni	Jigawa	12.523	8.334	2	
-Zurgu	Rano	Kano	11.544	8.527	2	
-Zuga	Takai	Kano	11.589	9.143	2	
-Zuwo	Kiru	Kano	11.768	8.186	2	
-Zugachi	Gabasawa	Kano	12.066	8.854	2	
-Zurmi	Zurmi	Zamfara	12.863	6.760	2	
-Zulum Umarti	Mobbar	Borno	13.037	12.461	2	
-Zulum	Monguno	Borno	12.500	13.368	2	
-Zubo	Shira	Bauchi	11.642	9.987	2	
-Zubiki	Itas/Gadau	Bauchi	11.854	10.060	2	
-Zungur	Bauchi	Bauchi	10.049	9.732	2	
-Zurgwai	Warji	Bauchi	11.125	9.680	2	

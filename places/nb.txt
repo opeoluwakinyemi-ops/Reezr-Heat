@@ -1,3 +1,4 @@
+Mbalano	Isuikwuato	Abia	5.734	7.502	3	Nbalano
 Nboro	Dikwa	Borno	11.989	14.305	2	
 Nbaga	Bama	Borno	11.573	14.056	2	
 Ndaba	Katcha	Niger	8.950	6.133	2	Pata Nbudo
@@ -6,12 +7,33 @@ Mgbuoshimini	Obio/Akpor	Rivers	4.808	6.974	2	Nbuosimiri
 Nbulma	Mubi South	Adamawa	10.208	13.353	2	
 Nbacha Fadamiri	Nganzai	Borno	12.676	13.135	2	
 Lawan Nballa	Chibok	Borno	10.881	12.803	2	
-National Blood Transfusion Center (NBTS) Sokoto	Sokoto South	Sokoto	13.050	5.246	0	
-Business Administration Department - NBTE	Kaduna North	Kaduna	10.611	7.443	0	
-Purchasing And Supply Chain Management Department- NBTE	Kaduna North	Kaduna	10.611	7.444	0	
+Ndi Wulu Nbe	Isiala-Ngwa North	Abia	5.261	7.475	2	Ndi Wulu Mbe
+Nboha	Hawul	Borno	10.450	12.420	2	
+Nbela	Konshisha	Benue	7.327	8.552	2	
+Nbaume	Takum	Taraba	7.398	10.071	2	
+Nbaga	Bama	Borno	11.309	14.113	2	
+Nbadeli	Mayo-Belwa	Adamawa	8.912	12.066	2	
+Nbada	Takum	Taraba	7.357	10.136	2	
+Nbara Akuma	Umuahia South	Abia	5.471	7.443	2	Mbara Akuma
+Gidan Nbora	Municipal Area Council	FCT Abuja	9.057	7.389	2	
+Mgbuosimiri	Obio/Akpor	Rivers	4.808	6.973	2	Mgbuosimini|Nbuosimiri
+Nburaya Bogoro	Kala-Balge	Borno	11.696	14.285	2	
+Nbonori	Dikwa	Borno	11.827	14.168	2	
+Nbaadaga	Gwer East	Benue	7.367	8.487	2	
+Nbuku	Mani	Katsina	12.996	7.836	2	
+Nbatelen	Ukum	Benue	7.568	9.745	2	
+Nbua	Gboko	Benue	7.453	8.873	2	
+Nburzi	Karu	Nasarawa	9.156	7.974	2	
+Nbaja	Karu	Nasarawa	9.142	7.949	2	
+Nbati	Karim Lamido	Taraba	9.234	10.954	2	
+Nbaba	Nasarawa Egon	Nasarawa	8.847	8.499	2	
+Nberam	Song	Adamawa	9.858	12.990	2	
 NBA Avenue	Oredo	Edo	6.325	5.624	1	
 NBA Close	Ovia North-East	Edo	6.440	5.606	1	
 Sir Loius Nbanefo	Nsukka	Enugu	6.870	7.413	1	
-Armament Engineering Department - NBTE	Kaduna North	Kaduna	10.612	7.443	0	
 NBTC Road	Udu	Delta	5.491	5.781	1	
+National Blood Transfusion Center (NBTS) Sokoto	Sokoto South	Sokoto	13.050	5.246	0	
+Business Administration Department - NBTE	Kaduna North	Kaduna	10.611	7.443	0	
+Purchasing And Supply Chain Management Department- NBTE	Kaduna North	Kaduna	10.611	7.444	0	
+Armament Engineering Department - NBTE	Kaduna North	Kaduna	10.612	7.443	0	
 Civil and Environmental Engineering Department (CEED)  - NBTE	Kaduna North	Kaduna	10.613	7.442	0	

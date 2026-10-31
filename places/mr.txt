@@ -1,3 +1,13 @@
+FHR8+MRC, Muritala Muhamed Way, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.489	4.569	1	
+Mrs.Pelizer Ogah Street	Enugu South	Enugu	6.423	7.535	1	
+Mrs Victoria Onovo Cresent	Enugu South	Enugu	6.405	7.486	1	
+Dr Mrs Ify Nwobosi Street	Enugu North	Enugu	6.432	7.535	1	
+Mrs Victoria Onovo Crescent	Enugu South	Enugu	6.404	7.481	1	
+Mrs Abigail Okoh Avenue	Enugu South	Enugu	6.413	7.519	1	
+Mrs. Joy Ezetah	Eti Osa	Lagos	6.438	3.557	1	
+Mr. Vees Drive	Eti Osa	Lagos	6.473	3.579	1	
+Mr. Wali Amadi Close	Obio/Akpor	Rivers	4.899	6.923	1	
+Mrs. Nonye Osi Street	Eti Osa	Lagos	6.481	3.609	1	
 MRS	Municipal Area Council	FCT Abuja	9.051	7.527	0	
 MRS filling station	Jos North	Plateau	9.959	8.879	0	
 Mrs petrol station	Oredo	Edo	6.320	5.628	0	
@@ -15,19 +25,9 @@ MRS	Municipal Area Council	FCT Abuja	9.005	7.465	0
 MRS Hospital	Ojo	Lagos	6.470	3.228	0	
 Mr Putty Screeding Plasters Limited	Municipal Area Council	FCT Abuja	9.114	7.279	0	
 MRS Filling Station	Oredo	Edo	6.338	5.612	0	
-FHR8+MRC, Muritala Muhamed Way, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.489	4.569	1	
-Mrs.Pelizer Ogah Street	Enugu South	Enugu	6.423	7.535	1	
-Mrs Victoria Onovo Cresent	Enugu South	Enugu	6.405	7.486	1	
-Dr Mrs Ify Nwobosi Street	Enugu North	Enugu	6.432	7.535	1	
-Mrs Victoria Onovo Crescent	Enugu South	Enugu	6.404	7.481	1	
-Mrs Abigail Okoh Avenue	Enugu South	Enugu	6.413	7.519	1	
-Mrs. Joy Ezetah	Eti Osa	Lagos	6.438	3.557	1	
 MRS Filling Station	Municipal Area Council	FCT Abuja	8.991	7.397	0	
 MRS Filling Station	Tarauni	Kano	11.973	8.534	0	
-Mr. Vees Drive	Eti Osa	Lagos	6.473	3.579	1	
-Mr. Wali Amadi Close	Obio/Akpor	Rivers	4.899	6.923	1	
 MRS Fuel Station	Eti Osa	Lagos	6.434	3.485	0	
 MRS Fuel Station	Eti Osa	Lagos	6.423	3.411	0	
 231 Tank Batallion Nigerian Army Medical Corps	Biu	Borno	10.595	12.193	0	231/331 MRS
 MRS Barracks Primary Health Centre	Tofa	Kano	11.953	8.392	0	
-Mrs. Nonye Osi Street	Eti Osa	Lagos	6.481	3.609	1	

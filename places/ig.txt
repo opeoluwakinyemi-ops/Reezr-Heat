@@ -1,19 +1,42 @@
 Oke Igbira	Ikole	Ekiti	7.813	5.564	3	
-Odo-Igbira	Ikole	Ekiti	7.816	5.580	2	
 Igede-Ekiti	Irepodun/Ifelodun	Ekiti	7.668	5.126	3	
+Igbo-Ekhe	Etche	Rivers	4.949	7.084	3	
+Akwukwu Igbo	Oshimili North	Delta	6.357	6.591	3	
+Igwuruta	Ikwerre	Rivers	4.954	7.013	3	Igrita
+Igbokoda	Ilaje	Ondo	6.354	4.801	3	
+Igbekebo	Ese Odo	Ondo	6.355	4.863	3	
+Igbariam	Anambra East	Anambra	6.391	6.948	3	
+Igbo Ora	Ibarapa Central	Oyo	7.433	3.283	3	
+Iguobazuwa	Ovia South-West	Edo	6.563	5.355	3	Iguobazowa
+Ìjẹ̀bú-Ìgbò	Ijebu North	Ogun	6.970	4.000	3	Ijebu-Igbo
+Igando	Alimosho	Lagos	6.549	3.231	3	
+Igumale	Ado	Benue	6.802	7.971	3	
+Igueben	Iguegben	Edo	6.602	6.242	3	
+Igbematoru	Southern Ijaw	Bayelsa	4.552	6.034	3	Egbomatoro
+Igbara-Oke	Ifedore	Ondo	7.410	5.059	3	
+Iganna	Iwajowa	Oyo	7.975	3.244	3	
+Igbo-Ukwu	Aguata	Anambra	6.016	7.026	3	
+Ile-Ogbo	Aiyedire	Osun	7.621	4.245	3	Ile-Igbo
+Igbo-Ora	Ibarapa Central	Oyo	7.434	3.288	3	Igbo-Awra
+Igboho	Orelope	Oyo	8.838	3.756	3	Igbokho
+Igbeti	Olorunsogo	Oyo	8.749	4.131	3	Igbetti
+Igbara-Odo	Ekiti South-West	Ekiti	7.503	5.063	3	Igbarra-Odo
+Igarra	Akoko-Edo	Edo	7.294	6.104	3	Igara
+Igangan	Ibarapa North	Oyo	7.681	3.184	3	
+Akwukwu-Igbo	Oshimili North	Delta	6.358	6.591	3	Akwukwu
+Igbo Efon	Eti Osa	Lagos	6.440	3.510	2	
+Igoba	Akure North	Ondo	7.301	5.252	2	
+Odo-Igbira	Ikole	Ekiti	7.816	5.580	2	
 Eyio Ekiti	Irepodun/Ifelodun	Ekiti	7.728	5.183	2	Igin
 Ugwaka	Igalamela-Odolu	Kogi	6.946	7.239	2	Igwaka
 Akpoha-Igbo	Abi	Cross River	5.993	8.012	2	Akpohoa Igbo
 Igan	Yewa North	Ogun	7.060	2.903	2	
-Igarra	Akoko-Edo	Edo	7.283	6.088	2	
 Ighwrenene	Ughelli North	Delta	5.525	5.989	2	
 Igbudu	Warri South	Delta	5.525	5.773	2	
-Igbo-Ekhe	Etche	Rivers	4.949	7.084	3	
 Iguazogbar	Uhunmwonde	Edo	6.386	6.000	2	Iguazogbar;Iguozogbar
 Igbodo	Ika North East	Delta	6.306	6.370	2	
 Igbamam	Anambra East	Anambra	6.391	6.948	2	
 Igbaku	Ayamelum	Anambra	6.544	6.944	2	Ighaku;Igbaku
-Akwukwu Igbo	Oshimili North	Delta	6.357	6.591	3	
 Igbo Owu	Ifelodun	Kwara	8.383	4.767	2	
 Igode	Shagamu	Ogun	6.702	3.581	2	
 Igude	Ipokia	Ogun	6.500	2.784	2	
@@ -30,14 +53,12 @@ Igbokuta	Ilaje	Ondo	6.317	4.795	2
 Igbe Ewoliwo	Ìkòròdú	Lagos	6.583	3.567	2	
 Offa Igbo	Lagelu	Oyo	7.517	4.117	2	Awfa-Igbo
 Ibogun Sowunmi	Ifo	Ogun	6.817	3.100	2	Igbogun-Sowunmi
-Igboho	Orelope	Oyo	8.844	3.758	2	
 Igbalu	Ìkòròdú	Lagos	6.586	3.653	2	Alaru
 Igasi-Akoko	Akoko North West	Ondo	7.720	5.802	2	Igashi Akoko;Igashi
 Igbemo-Ekiti	Irepodun/Ifelodun	Ekiti	7.684	5.387	2	Igbimo
 Igbogun	Adó-Èkìtì	Ekiti	7.653	5.328	2	Ibogun
 Igboko Ote	Irele	Ondo	6.450	4.967	2	Igbeko Ote;Igboko Ote
 Igbomoya Waterside	Ethiope West	Delta	5.839	5.781	2	Igbomoya
-Igwuruta	Ikwerre	Rivers	4.954	7.013	3	Igrita
 Igo Onaghaleo	Esan South-East	Edo	6.666	6.499	2	Igo-Onaghaleo;Igo-Onagholeo
 Igbogili	Orhionmwon	Edo	6.117	6.142	2	Igbogilli
 Igakhara	Owan East	Edo	6.986	6.196	2	Iyekhara;Igakhara;Iyakala
@@ -53,7 +74,6 @@ Ndubia	Izzi	Ebonyi	6.340	8.305	2	Ndubia-Igbagu
 Igbudu	Ikwo	Ebonyi	6.062	8.108	2	Igbidu
 Igbekhue	Orhionmwon	Edo	6.151	5.899	2	Ibekwe
 Igbinoba	Ovia South-West	Edo	6.303	5.382	2	Igbehoba
-Igbokoda	Ilaje	Ondo	6.354	4.801	3	
 Ode-Igbodigo	Okitipupa	Ondo	6.465	4.753	2	Igbodigo
 Igbokoto	Yewa North	Ogun	6.983	2.733	2	
 Agbile	Odogbolu	Ogun	6.720	3.867	2	Igbile
@@ -73,17 +93,14 @@ Ighobaye	Ikpoba-Okha	Edo	6.078	5.661	2	Igbobaye
 Igbuekhue	Ovia South-West	Edo	6.391	5.428	2	
 Ekiadolor	Ovia North-East	Edo	6.492	5.588	2	Ikiadolor;Iguiodia
 Igbo-Egunrin	Ilaje	Ondo	6.456	4.622	2	
-Igbekebo	Ese Odo	Ondo	6.355	4.863	3	
 Igbe	Ìkòròdú	Lagos	6.583	3.567	2	
 Igbo Otun	Yewa North	Ogun	6.887	2.743	2	
 Igbogbo	Ìkòròdú	Lagos	6.591	3.517	2	
 Igbagun	Ijumu	Kogi	7.824	5.742	2	Ogunka
-Igbara-Odo	Ekiti South-West	Ekiti	7.503	5.063	2	Igbarra-Odo
 Igbenu	Ezeagu	Enugu	6.382	7.136	2	Ugbenu
 Igbini Ogele	Irele	Ondo	6.483	4.967	2	Ibini Ogele;Igbini Ogele
 Igbeme	Yewa North	Ogun	6.917	2.783	2	
 Iguomo	Uhunmwonde	Edo	6.389	6.047	2	
-Igbariam	Anambra East	Anambra	6.391	6.948	3	
 Igbanke	Orhionmwon	Edo	6.343	6.205	2	
 Igbaja	Ifelodun	Kwara	8.383	4.883	2	
 Ile Igbo Station	Aiyedire	Osun	7.599	4.280	2	
@@ -105,21 +122,16 @@ Igbabele	Brass	Bayelsa	4.312	6.213	2
 Igawidi	Ughelli North	Delta	5.576	5.994	2	
 Alonchia-Igobama	Eleme	Rivers	4.749	7.108	2	
 Igbowu	Ifelodun	Kwara	8.383	4.767	2	
-Igbo Ora	Ibarapa Central	Oyo	7.433	3.283	3	
 Igbono	Oyun	Kwara	8.183	4.600	2	Igbanna
-Iguobazuwa	Ovia South-West	Edo	6.563	5.355	3	Iguobazowa
 Igbisin Oloto	Ilaje	Ondo	6.465	4.628	2	Igbisan Oloto
 Igburowo	Odigbo	Ondo	6.925	4.884	2	
-Ìjẹ̀bú-Ìgbò	Ijebu North	Ogun	6.970	4.000	3	Ijebu-Igbo
 Igunsin	Ondo West	Ondo	6.958	4.856	2	
 Igbara	Edda	Ebonyi	5.800	7.867	2	
 Aba Ige	Oluyole	Oyo	7.266	3.897	2	
 Igan Okoto	Yewa North	Ogun	7.150	3.050	2	Igan Okoto;Igan
 Ama Igbo	Umuahia South	Abia	5.496	7.423	2	
 Iguhie	Oredo	Edo	6.266	5.533	2	
-Igando	Alimosho	Lagos	6.549	3.231	3	
 Igbole	Ido-Osi	Ekiti	7.798	5.176	2	
-Igumale	Ado	Benue	6.802	7.971	3	
 Igorin Itaja	Idanre	Ondo	7.092	5.115	2	
 Agbara Igbo	Abi	Cross River	5.986	8.021	2	
 Igbokin	Ìkòròdú	Lagos	6.589	3.566	2	
@@ -127,7 +139,6 @@ Igbosuru	Shagamu	Ogun	6.706	3.549	2
 Igan Alade	Yewa North	Ogun	7.065	2.900	2	
 Ogede	Obafemi Owode	Ogun	7.000	3.517	2	Igbore
 Igbogidi	Udu	Delta	5.512	5.820	2	
-Igueben	Iguegben	Edo	6.602	6.242	3	
 Odo Igbo	Atakunmosa East	Osun	7.518	4.763	2	
 Igbokofi	Yewa North	Ogun	7.150	2.783	2	Igbawkawfin
 Iguosa	Ovia North-East	Edo	6.439	5.598	2	
@@ -135,13 +146,11 @@ Iguatakpa	Ovia South-West	Edo	6.565	5.304	2	Iguatakpo
 Tigara	Ogun Waterside	Ogun	6.533	4.359	2	Tigaro;Igara
 Gbekebor	Burutu	Delta	5.372	5.713	2	Igbekebo;Gbekebo;Gbekeboro;Gbekabo
 Igbeta Ewoama	Nembe	Bayelsa	4.564	6.352	2	
-Igbematoru	Southern Ijaw	Bayelsa	4.552	6.034	3	Egbomatoro
 Igbaga	Ìkòròdú	Lagos	6.675	3.583	2	
 Iganmu	Surulere	Lagos	6.482	3.364	2	Iganmu Siding
 Igbopa	Ìkòròdú	Lagos	6.546	3.519	2	Ibopa
 Igugu	Udenu	Enugu	6.883	7.492	2	
 Igbin	Ìkòròdú	Lagos	6.562	3.602	2	
-Igbara-Oke	Ifedore	Ondo	7.410	5.059	3	
 Igbigimina-Senkiri	Degema	Rivers	4.660	7.009	2	
 Igeghudu	Uhunmwonde	Edo	6.537	6.035	2	Igeghudu;Igheghudu;Ughieghudu
 Igboro	Lagelu	Oyo	7.517	4.067	2	Igbaro
@@ -151,7 +160,6 @@ Igosun	Oyun	Kwara	8.122	4.769	2
 Igwa	Kagarko	Kaduna	9.383	7.283	2	Igma
 Igbadim	Dekina	Kogi	7.567	7.050	2	Igadim;Igbadin
 Iguosodin	Ovia North-East	Edo	6.407	5.526	2	Igwoshodi
-Iganna	Iwajowa	Oyo	7.975	3.244	3	
 Igbo Olosan	Oyo West	Oyo	8.000	3.831	2	
 Ebute Igboro	Yewa North	Ogun	6.900	2.900	2	
 Igoyo	Sapele	Delta	5.896	5.600	2	
@@ -165,13 +173,11 @@ Igbogila	Yewa North	Ogun	7.050	2.967	2
 Igbaode	Baruten	Kwara	8.733	2.917	2	Igbaobe
 Ighwre-Okpe	Ughelli South	Delta	5.315	5.920	2	Iwhrokpe
 Iguenan	Ikpoba-Okha	Edo	6.400	5.667	2	
-Igbo-Ukwu	Aguata	Anambra	6.016	7.026	3	
 Ago-Igbirra	Akoko South West	Ondo	7.317	5.672	2	
 Idofin Igbana	Oke Ero	Kwara	8.200	5.255	2	Odofin lgbanna
 Igebiri	Southern Ijaw	Bayelsa	4.842	6.198	2	Igeibiri
 Ile Igboro	Yewa North	Ogun	6.967	2.817	2	
 Igbo Ale	Yewa North	Ogun	6.950	2.883	2	
-Igangan	Ibarapa North	Oyo	7.683	3.183	2	
 Oko Igbokofin	Yewa North	Ogun	7.150	2.783	2	Oko Igbawkawfin
 Amuzu-Igbagu	Izzi	Ebonyi	6.350	8.207	2	Amuzu
 Igboji	Ikwo	Ebonyi	6.080	8.151	2	
@@ -180,84 +186,659 @@ Igodan	Okitipupa	Ondo	6.510	4.743	2
 Igbotako	Okitipupa	Ondo	6.574	4.638	2	
 Igbarra	Edda	Ebonyi	5.800	7.867	2	
 Igun Waterside	Ethiope East	Delta	5.742	5.969	2	Kokori
-Igbesamwan Model Primary School	Oredo	Edo	6.333	5.632	0	
-Ighile Group of Schools	Oredo	Edo	6.329	5.591	0	
 Igando	Ojo	Lagos	6.440	3.126	2	
 Iga	Nasarawa	Nasarawa	7.995	7.919	2	
 Igodo	Omala	Kogi	7.623	7.482	2	
 Ikot Igwe	Essien Udim	Akwa Ibom	5.070	7.636	2	
-Igboona Market	Olorunda	Osun	7.781	4.558	0	
 Igrwre-Ovie	Ughelli North	Delta	5.478	6.032	2	
 Igbonla	Irepodun	Kwara	8.187	4.834	2	
 Iguir Maloumdi	Maïné Soroa	Yobe	13.127	12.224	2	
 Igbo Emaban	Yakurr	Cross River	5.939	8.161	2	
-Ighogbadu Primary School	Warri South	Delta	5.532	5.758	0	
-Igueben-Ekhen Station	Iguegben	Edo	6.620	6.260	0	
-Igbara Oke Market	Ifedore	Ondo	7.412	5.057	0	
-Igborowo Market	Odigbo	Ondo	6.928	4.883	0	
-Ode Igbisin Market	Okitipupa	Ondo	6.498	4.646	0	
-Igasi Akoko Market	Akoko North West	Ondo	7.724	5.798	0	
-Igedegede Market	Akoko North West	Ondo	7.638	5.881	0	
-Oke Igbo Market	Akoko North West	Ondo	7.579	5.672	0	
-Igbindo Market	Ondo West	Ondo	6.964	4.717	0	
-Igbotako Market	Okitipupa	Ondo	6.575	4.638	0	
-Igbodigho Market	Okitipupa	Ondo	6.496	4.790	0	
-Igbogi I Camp Market	Ilaje	Ondo	6.423	4.853	0	
-igbologun/snake island	Amuwo Odofin	Lagos	6.428	3.334	0	
-Igbogbo Bus Terminus	Ìkòròdú	Lagos	6.589	3.519	0	
 Igbologun	Amuwo Odofin	Lagos	6.419	3.330	2	
 Igbogene	Yenegoa	Bayelsa	5.036	6.398	2	
-st. paul anglican primary school, igbololo	Shagamu	Ogun	6.856	3.645	0	
-local government primary school, igere	Ado Odo/Ota	Ogun	6.541	3.086	0	
-ansar u deen primary school, igbafa	Shagamu	Ogun	6.818	3.635	0	
-african church primary school, igbore robiyan	Ifo	Ogun	6.747	3.293	0	
-Local Government Primary School, Elero Igbesa	Ado Odo/Ota	Ogun	6.675	3.126	0	
-Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.592	2.942	0	
-Baptist Day Primary School,Igbesa	Ado Odo/Ota	Ogun	6.679	3.134	0	
-All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.689	3.229	0	
-Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.552	3.045	0	
-Methodist Primary School, Agboku-Igbekan	Ado Odo/Ota	Ogun	6.562	2.943	0	
-St. Paul'S (Rcm) Primary School Igode	Ìjẹ̀bú Òde	Ogun	6.706	3.960	0	
-Local Government Primary School, Igbe-Igbesa	Ifo	Ogun	6.805	3.193	0	
-China-Nigeria Friendship Model Primary School,Igbesa	Ifo	Ogun	6.816	3.096	0	
-Community Primary School, Igbusi	Ifo	Ogun	6.803	3.195	0	
-St. Francis (Rcm) Primary School, Igbosoro	Ifo	Ogun	6.808	3.193	0	
-Olu-Ola Primary School, Igbeba	Ìjẹ̀bú Òde	Ogun	6.835	3.937	0	
-Community Primary School, Igbusi	Ifo	Ogun	6.755	3.185	0	
-St. Paul'S (Rcm) Primary School Igode	Shagamu	Ogun	6.686	3.580	0	
-Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.586	3.075	0	
-Methodist Primary School, Agboku-Igbekan	Ado Odo/Ota	Ogun	6.559	2.929	0	
-China-Nigeria Friendship Model Primary School,Igbesa	Ado Odo/Ota	Ogun	6.543	3.130	0	
-Local Government Primary School, Elero Igbesa	Ado Odo/Ota	Ogun	6.534	3.133	0	
-All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.530	3.136	0	
-Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.529	3.134	0	
-Baptist Day Primary School,Igbesa	Ado Odo/Ota	Ogun	6.526	3.142	0	
-Local Government Primary School, Igbe-Igbesa	Ado Odo/Ota	Ogun	6.523	3.140	0	
-St. Francis (Rcm) Primary School, Igbosoro	Shagamu	Ogun	6.698	3.547	0	
-Igbariam Bus stop	Enugu South	Enugu	6.417	7.495	0	
 Ige	Isoko North	Delta	5.460	6.419	2	
 Itobi-Ige	Isoko North	Delta	5.446	6.417	2	
 Igbuku	Ughelli North	Delta	5.665	6.154	2	
 Igbuku	Isoko North	Delta	5.575	6.181	2	
 Igbide	Isoko South	Delta	5.480	6.166	2	
-General Hospital, Igbeti	Olorunsogo	Oyo	8.737	4.147	0	
-Igbo Market	Warri South	Delta	5.515	5.750	0	
-Iganmu	Surulere	Lagos	6.478	3.343	0	
 Igoni-Igoni	Abi	Cross River	5.871	7.971	2	
-Igbede Primary Health Center Igbede Bstop Ojo Igbede	Ojo	Lagos	6.452	3.163	0	
-Hon C O Ojelabi Health Center Igbo Elerin	Ojo	Lagos	6.482	3.188	0	
-Igbesa Primary Health Center	Ado Odo/Ota	Ogun	6.528	3.134	0	
-Igando Diagnostic Center	Alimosho	Lagos	6.552	3.244	0	
-Igbologun Medical Centre	Amuwo Odofin	Lagos	6.421	3.333	0	
-Igbologun Primary Health Center Snake Island	Amuwo Odofin	Lagos	6.418	3.329	0	
-Igbologun Medical Center	Amuwo Odofin	Lagos	6.414	3.252	0	
-igando landing/isuti	Alimosho	Lagos	6.552	3.207	0	
-igbo elejo	Apapa	Lagos	6.424	3.352	0	
 Igbo-Efon	Eti Osa	Lagos	6.437	3.523	2	
-Igbinedion university Secondary School	Ovia North-East	Edo	6.729	5.396	0	
 Igbobi	Shomolu	Lagos	6.526	3.373	2	
 Orile Iganmu	Apapa	Lagos	6.477	3.346	2	
-Igweamaka Primary school	Anaocha	Anambra	6.065	7.032	0	
+Igbajo	Boluwaduro	Osun	7.903	4.814	2	
+Igbon	Ejigbo	Osun	7.867	4.353	2	
+Sarkin Adar Gidan Igwai	Sokoto North	Sokoto	13.072	5.208	2	
+Igabi	Igabi	Kaduna	10.832	7.776	2	
+Iguegben	Iguegben	Edo	6.509	6.242	2	
+Igbo-Eze-South	Igbo-Eze-South	Enugu	6.952	7.350	2	
+Igbo-Eze-North	Igbo-Eze-North	Enugu	7.005	7.459	2	
+Igbo-Etiti	Igbo-Etiti	Enugu	6.689	7.406	2	
+Igalamela-Odolu	Igalamela-Odolu	Kogi	7.035	7.059	2	
+Igabi	Igabi	Kaduna	10.749	7.529	2	
+Zenda-Hyo-Igbana	Konshisha	Benue	7.104	8.537	2	
+Umu Eze Igbe	Obi Ngwa	Abia	5.117	7.467	2	
+Umu-Etchem	Etche	Rivers	5.007	7.032	2	Igrtia-Umuechem
+Uhi	Uhunmwonde	Edo	6.597	6.011	2	Iguoba-Uhi
+Ugwaka	Nsukka	Enugu	6.947	7.247	2	Igwaka
+Rumu-Igbo	Obio/Akpor	Rivers	4.850	6.991	2	Umuibo|Umuigbo
+Papa-Ige	Ido	Oyo	7.503	3.744	2	Papa Ige
+Orile-Igbein	Obafemi Owode	Ogun	6.881	3.511	2	Igbein|Orile-Igbehin
+Oke-Igboho	Orelope	Oyo	8.855	3.757	2	Oke Igboho
+Oke-Igbo	Ile Oluji/Okeigbo	Ondo	7.166	4.727	2	Okeigbo
+Okeigbala	Obafemi Owode	Ogun	7.062	3.637	2	Oke Igbala
+Ogunbode-Igbo-Elerin	Lagelu	Oyo	7.535	4.065	2	Ogunbode Igbo Elerin|OgunbodeIgboElerin
+Ogede	Obafemi Owode	Ogun	7.006	3.522	2	Igbore
+Offa-Igbo	Lagelu	Oyo	7.510	4.114	2	Awfa-Igbo|Offa Igbo
+Odo-Igbo	Atakunmosa East	Osun	7.519	4.764	2	Odo Igbo
+Odofin Igbana	Oke Ero	Kwara	8.200	5.255	2	Idofin Igbanna|Odofin Igbanna
+Ode-Igbodigo	Okitipupa	Ondo	6.467	4.752	2	Igbodigo
+Odan-Igun	Ipokia	Ogun	6.604	2.903	2	Odan
+Oba Igbo-Ora	Ibarapa North	Oyo	7.538	3.091	2	Oba Igbo Ora|ObaIgbo-Ora|ObaIgboOra
+Ndiechi-Igbagu	Abakaliki	Ebonyi	6.319	8.176	2	
+Moi-Igbo	Gwer East	Benue	7.455	8.394	2	
+Iyano-Igbeti	Asa	Kwara	8.594	4.430	2	Iyano Igbeti
+Iseki-Igbo	Orolu	Osun	7.853	4.439	2	Iseki Igbo|IsekiIgbo
+Iguelebu	Orhionmwon	Edo	5.956	5.854	2	Iguelaba
+Imoto-Igboiyewa	Yewa North	Ogun	7.094	2.885	2	Imoto|Imoto II|Imoto Igboiyewa
+Ile-Igbo Station	Aiyedire	Osun	7.599	4.281	2	Ile Igbo Station|Ile-IgboStation|IleIgboStation
+Ile-Igboro	Yewa North	Ogun	6.982	2.827	2	Ile Igbawraw|Ile Igboro
+Ile-Igbon	Lagelu	Oyo	7.487	4.076	2	Ile Igbon
+Ikot Igwara	Oruk Anam	Akwa Ibom	4.814	7.559	2	
+Ihite-Nansa	Orsu	Imo	5.874	6.993	2	Igitemasa
+Igwugwu	Udenu	Enugu	6.887	7.492	2	Igwugwa
+Igwogwo	Igalamela-Odolu	Kogi	6.954	7.216	2	
+Igweowieoba	Uhunmwonde	Edo	6.417	5.783	2	
+Igweledeoha	Izzi	Ebonyi	6.628	8.231	2	
+Igwe	Owan East	Edo	7.193	6.074	2	
+Igwe	Owan East	Edo	7.150	6.053	2	
+Igwara	Bassa	Plateau	9.965	8.721	2	
+Iguiye	Ovia North-East	Edo	6.568	5.500	2	Iguye
+Igurowo	Odigbo	Ondo	6.925	4.884	2	
+Igure	Orhionmwon	Edo	6.183	5.883	2	
+Igurda	Sardauna	Taraba	7.136	11.091	2	
+Igura	Gwer East	Benue	7.435	8.218	2	
+Izikhiri	Uhunmwonde	Edo	6.387	5.999	2	Iguazogbar|Iguozogbar
+Iguozogban	Uhunmwonde	Edo	6.383	6.000	2	
+Iguozevbaru	Uhunmwonde	Edo	6.479	5.838	2	
+Iguosula	Ovia North-East	Edo	6.350	5.497	2	
+Iguosodin	Ovia North-East	Edo	6.400	5.533	2	Igwoshodi
+Iguoshodi Nebudin	Ovia North-East	Edo	6.450	5.533	2	
+Iguosagie	Ovia North-East	Edo	6.500	5.520	2	
+Iguosagban	Ovia North-East	Edo	6.450	5.483	2	
+Iguoriakhi	Ovia South-West	Edo	6.484	5.462	2	
+Iguomon	Ovia North-East	Edo	6.749	5.423	2	
+Iguomo	Ovia North-East	Edo	6.483	5.483	2	
+Iguomo	Uhunmwonde	Edo	6.333	5.733	2	
+Iguohan	Orhionmwon	Edo	6.189	5.810	2	
+Igun Waterside	Ethiope East	Delta	5.746	5.962	2	Kokori
+Igunnu-Akapo	Ipokia	Ogun	6.597	2.848	2	Igunnu Akabo
+Igulala	Uzo-Uwani	Enugu	6.777	7.053	2	
+Iguiyase	Uhunmwonde	Edo	6.383	5.917	2	
+Iguikpe	Oredo	Edo	6.206	5.560	2	
+Iguikhimwiv	Ovia North-East	Edo	6.482	5.606	2	
+Iguhoro	Ovia North-East	Edo	6.650	5.567	2	
+Iguezoba	Ovia North-East	Edo	6.166	5.427	2	
+Igueze	Ovia North-East	Edo	6.591	5.492	2	
+Igueze	Ovia South-West	Edo	6.467	5.267	2	
+Iguemokhua	Orhionmwon	Edo	6.139	5.828	2	
+Iguelenisi	Uhunmwonde	Edo	6.343	5.953	2	
+Iguelenebue	Uhunmwonde	Edo	6.350	5.933	2	
+Iguelegbon	Ovia North-East	Edo	6.205	5.468	2	
+Iguelaho	Ovia South-West	Edo	6.475	5.224	2	
+Igueladidi	Ovia South-West	Edo	6.483	5.267	2	
+Iguehana	Uhunmwonde	Edo	6.327	5.906	2	
+Iguehan	Ikpoba-Okha	Edo	6.400	5.667	2	Iguenan
+Iguegbe	Uhunmwonde	Edo	6.367	5.957	2	
+Iguasa	Egor	Edo	6.322	5.578	2	
+Iguagbon	Uhunmwonde	Edo	6.413	5.938	2	
+Iguadolor	Ovia North-East	Edo	6.427	5.555	2	
+Igu	Munya	Niger	9.984	7.188	2	Egu
+Igu	Bwari	FCT Abuja	9.276	7.474	2	
+Igrita	Ikwerre	Rivers	4.925	6.928	2	
+Igporin	Ilorin East	Kwara	8.669	4.885	2	
+Igozula	Uhunmwonde	Edo	6.500	5.717	2	
+Igoro	Ibeju Lekki	Lagos	6.483	3.900	2	
+Onogholo	Esan South-East	Edo	6.668	6.497	2	Igo-Onaghaleo|Igo-Onagholeo
+Igoogh	Konshisha	Benue	7.061	8.657	2	
+Igoni-Igoni	Abi	Cross River	5.857	7.971	2	
+Igogoro	Igbo-Eze-North	Enugu	6.991	7.473	2	
+Igogogin	Oredo	Edo	6.167	5.550	2	
+Igoge	Ovia North-East	Edo	6.350	5.500	2	
+Igbo-Elemi	Moro	Kwara	8.861	4.246	2	Igbo Elemi|Igo Elemi|Igo-Elemi
+Igodomu	Ado Odo/Ota	Ogun	6.646	2.979	2	Igodonu
+Igodo	Ogoja	Cross River	6.542	8.693	2	
+Igodan-Lisa	Okitipupa	Ondo	6.445	4.774	2	
+Igodan Kuda	Ogun Waterside	Ogun	6.557	4.568	2	
+Igo	Gboko	Benue	7.274	8.731	2	
+Igo	Ovia North-East	Edo	6.267	5.517	2	
+Igiri	Edda	Ebonyi	5.914	7.796	2	
+Igi-Ogun	Atiba	Oyo	8.085	3.961	2	Igi Ogun
+Iginene	Okpe	Delta	5.665	5.766	2	
+Igikola	Ona Ara	Oyo	7.190	4.034	2	
+Igieduma	Uhunmwonde	Edo	6.576	5.930	2	
+Igidu	Aiyedade	Osun	7.408	4.321	2	
+Ighute	Konshisha	Benue	7.212	8.517	2	
+Ighom	Abua/Odual	Rivers	4.764	6.635	2	
+Iggi	Birnin Kudu	Jigawa	11.456	9.264	2	
+Igga	Uzo-Uwani	Enugu	6.720	6.949	2	
+Igerri	Kachia	Kaduna	9.587	7.356	2	
+Igenyia	Ebonyi	Ebonyi	6.376	8.045	2	
+Igeibiri	Southern Ijaw	Bayelsa	4.842	6.197	2	Igebiri
+Igeheko	Kogi	Kogi	8.313	6.877	2	
+Ugieghudu	Uhunmwonde	Edo	6.537	6.038	2	Igeghudu|Igheghudu|Ughieghudu
+Igede	Mashegu	Niger	10.054	5.942	2	
+Ige	Obafemi Owode	Ogun	7.017	3.426	2	
+Igbyan	Konshisha	Benue	7.096	8.678	2	
+Igbudu	Ikwo	Ebonyi	6.068	8.115	2	Igbidu
+Igbotu	Ese Odo	Ondo	6.428	4.893	2	
+Igbotente	Aiyedire	Osun	7.530	4.228	2	
+Igbotele	Asa	Kwara	8.246	4.586	2	
+Igbotako-Erinje	Okitipupa	Ondo	6.412	4.754	2	
+Igboshere	Eti Osa	Lagos	6.433	3.433	2	Igbosere
+Igbosa	Atiba	Oyo	8.002	3.916	2	
+Igbossa	Ado Odo/Ota	Ogun	6.521	2.931	2	Igbosa
+Igbor-Ture	Konshisha	Benue	7.207	8.510	2	
+Igborosun	Badagry	Lagos	6.499	2.957	2	
+Igboroko	Moro	Kwara	8.763	4.350	2	
+Igboroko	Asa	Kwara	8.267	4.467	2	
+Igboro	Itesiwaju	Oyo	8.223	3.647	2	
+Igboro	Lagelu	Oyo	7.523	4.061	2	Igbaro
+Igboro	Odeda	Ogun	7.252	3.603	2	
+Igboro	Edda	Ebonyi	5.882	7.770	2	
+Igborin	Atiba	Oyo	8.008	3.936	2	
+Igbori	Ori Ire	Oyo	8.625	4.185	2	
+Igbor	Gwer East	Benue	7.451	8.608	2	
+Igbope	Orelope	Oyo	8.836	3.779	2	
+Igbo Oya	Obafemi Owode	Ogun	6.967	3.450	2	
+Igbo-Owu	Ifelodun	Kwara	8.379	4.768	2	Igbo Owu|Igbowu
+Igbo Otun	Yewa North	Ogun	6.883	2.733	2	
+Igbo-Osan	Abeokuta North	Ogun	7.377	3.088	2	Igbo Osan
+Igbo-Oriku	Moro	Kwara	8.700	4.498	2	Igbo Oriku
+Igbo-Ori-Oluwo	Yewa North	Ogun	7.327	2.992	2	Igbo Ori
+Igbo-Onito	Ori Ire	Oyo	8.436	4.238	2	Igbo Onito
+Igbo Oloyin	Akinyele	Oyo	7.550	3.967	2	
+Igbo-Olosan	Oyo West	Oyo	8.000	3.831	2	Igbo Olosan
+Igbo-Oloro	Ìsẹ́yìn	Oyo	7.761	3.671	2	
+Igbo-Ololu	Obafemi Owode	Ogun	7.004	3.351	2	Igbo Ololu
+Igbo-Olugun	Saki West	Oyo	8.646	3.381	2	Igbo Ologun
+Igbo-Olodumere	Abeokuta North	Ogun	7.205	3.309	2	Igbo Olodumare
+Igbo-Olodo	Obafemi Owode	Ogun	7.011	3.369	2	Igbo Olodo
+Igbo-Olo	Shagamu	Ogun	6.746	3.629	2	
+Igbo-Oko	Ibarapa East	Oyo	7.672	3.477	2	Igbo Oko|IgboOko
+Igbono	Asa	Kwara	8.510	4.311	2	
+Igbono	Oyun	Kwara	8.191	4.606	2	Igbanna
+Igporin	Moro	Kwara	8.880	4.248	2	Igbonna
+Igbonla	Oyo West	Oyo	8.054	3.740	2	
+Igbonla	Imeko Afon	Ogun	7.493	2.962	2	
+Igbona	Ori Ire	Oyo	8.579	4.240	2	
+Igbona	Ido	Oyo	7.490	3.773	2	
+Igbon	Surulere	Oyo	8.249	4.307	2	Igbori
+Igbomara	Itesiwaju	Oyo	8.239	3.684	2	
+Igboluoye	Okitipupa	Ondo	6.654	4.730	2	
+Igboloye	Ado Odo/Ota	Ogun	6.683	3.153	2	
+Igbolomi	Ilaje	Ondo	6.465	4.608	2	
+Igbolobi	Ojo	Lagos	6.417	3.183	2	
+Igbole	Surulere	Oyo	8.149	4.329	2	
+Igbo-Lakonu	Oyo West	Oyo	7.859	3.855	2	Igbo Lakonu|IgboLakonu
+Igbokofi	Pobè	Ogun	7.147	2.771	2	Igbawkawfin
+Igbo-Kekere	Oyo West	Oyo	8.043	3.751	2	Igbo Kekere
+Igbokandi	Ìsẹ́yìn	Oyo	7.755	3.672	2	
+Igboje	Ipokia	Ogun	6.534	2.798	2	
+Igbota One	Yewa North	Ogun	7.082	2.847	2	Igbo Ita|Igbota I
+Igbo-Ilo	Obafemi Owode	Ogun	7.071	3.518	2	Igbo Ilo
+Igbo-Ile	Surulere	Oyo	8.095	4.324	2	Igbo Ile
+Igbo-Ile	Afijio	Oyo	7.826	4.012	2	Igbo Ile|IgboIle
+Igbo-Ijaiye	Itesiwaju	Oyo	8.233	3.241	2	Igbo Ijaiye|Ijaiye
+Igbogun	Ifo	Ogun	6.812	3.072	2	
+Igbogun	Epe	Lagos	6.396	4.269	2	
+Igbogi	Ilaje	Ondo	6.422	4.861	2	
+Igbogbo	Imeko Afon	Ogun	7.490	2.799	2	
+Igbogbo	Ado Odo/Ota	Ogun	6.733	3.200	2	
+Igbofia	Akamkpa	Cross River	5.349	8.285	2	
+Igbo-Etiti	Uzo-Uwani	Enugu	6.738	7.268	2	
+Igbo Emabam	Yakurr	Cross River	5.940	8.161	2	Igbo Emaban
+Igbo-Elemi	Olorunsogo	Oyo	8.870	4.093	2	Igbo Elemi
+Igbo-Elemi	Ori Ire	Oyo	8.569	4.159	2	Igbo Elemi
+Igbo-Elemi	Ori Ire	Oyo	8.549	4.059	2	Igbo Elemi
+Igbaegun	Imeko Afon	Ogun	7.457	2.976	2	Igboegun
+Igboefon	Eti Osa	Lagos	6.433	3.500	2	Igbokushun
+Igbo-Edun	Ogun Waterside	Ogun	6.382	4.521	2	
+Igbo-Edu	Ori Ire	Oyo	8.394	4.290	2	Igbo Edu
+Igbo Ede	Asa	Kwara	8.283	4.483	2	
+Igbodun	Oyun	Kwara	8.219	4.665	2	
+Igbodu	Epe	Lagos	6.647	3.912	2	
+Igbodoko	Okitipupa	Ondo	6.446	4.759	2	
+Igboburo	Atiba	Oyo	8.224	3.938	2	
+Igbobi-Ogele	Asa	Kwara	8.367	4.475	2	Igbobi Ogele
+Igbobini	Okitipupa	Ondo	6.504	4.823	2	
+Igbobi	Ilaje	Ondo	6.468	4.599	2	
+Igbobi	Ovia North-East	Edo	6.256	5.472	2	
+Igbo Beach	Yakurr	Cross River	5.962	8.151	2	
+Igboayin-Dondo	Ori Ire	Oyo	8.462	4.166	2	Igboayin Dondo
+Igboayin	Ori Ire	Oyo	8.461	4.173	2	
+Igbo Ayeka	Okitipupa	Ondo	6.451	4.795	2	Igbo-Ayeka
+Igbo-Aran	Asa	Kwara	8.142	4.534	2	Igbo Aran|IgboAran
+Igbo-Ale	Yewa North	Ogun	6.951	2.880	2	Igbo Ale
+Igbo-Aje	Ori Ire	Oyo	8.101	4.063	2	Igbo Aje
+Igbo-Aje	Atiba	Oyo	8.064	3.878	2	Igbo Aje
+Igbo-Aje	Abeokuta North	Ogun	7.321	3.048	2	Igbo Aje
+Igbo-Aiye	Surulere	Oyo	8.098	4.340	2	Igbo Aiye
+Igbo	Eti Osa	Lagos	6.450	3.417	2	
+Igbira	Aiyedade	Osun	7.522	4.382	2	
+Igbinsola	Akinyele	Oyo	7.650	3.900	2	
+Igbin Oloya	Ewekoro	Ogun	7.000	3.150	2	
+Igbini-Ogele	Irele	Ondo	6.482	4.963	2	Ibini Ogele|Igbini Ogele
+Igbin	Odeda	Ogun	7.167	3.599	2	
+Igbin	Ewekoro	Ogun	7.003	3.158	2	
+Igbide	Isoko South	Delta	5.365	6.144	2	
+Igbiankyar	Gboko	Benue	7.227	8.732	2	
+Igbiandue	Donga	Taraba	7.590	10.211	2	
+Igbetar	Ushongo	Benue	7.074	8.935	2	
+Igbero	Ibarapa Central	Oyo	7.399	3.199	2	
+Igbe-Ogume	Ndokwa West	Delta	5.743	6.324	2	
+Igbematoro	Southern Ijaw	Bayelsa	4.552	6.032	2	Egbomatoro|Igbematoru
+Igbele	Ado Odo/Ota	Ogun	6.687	3.081	2	
+Igbekun	Ado Odo/Ota	Ogun	6.566	2.921	2	
+Igbeko-Ote	Irele	Ondo	6.469	4.963	2	Igbeko Ote|Igboko Ote
+Labekiri	Ikwerre	Rivers	4.906	6.885	2	Igbekiri-Isiokpo|Igbekirisiokpo
+Igbejila	Asa	Kwara	8.415	4.518	2	
+Igbeji	Yewa South	Ogun	6.803	2.899	2	Gbeji
+Igbeja	Ekiti West	Ekiti	7.883	4.950	2	
+Igbegodo	Ipokia	Ogun	6.500	2.833	2	
+Igbedi	Odeda	Ogun	7.149	3.609	2	Igbedu
+Igbe	Akoko North East	Ondo	7.527	5.785	2	
+Igbe	Konshisha	Benue	7.212	8.562	2	
+Igbe	Ovia South-West	Edo	6.487	5.157	2	
+Igbaze	Gboko	Benue	7.294	8.717	2	
+Igbayilola	Oyo West	Oyo	7.904	3.807	2	
+Igbasugh	Gboko	Benue	7.259	8.684	2	
+Igbasa	Abeokuta North	Ogun	7.313	3.078	2	
+Igbaruku	Yagba West	Kogi	8.249	5.583	2	
+Igbaro	Akinyele	Oyo	7.550	3.967	2	
+Igbariam	Anambra East	Anambra	6.391	6.944	2	Igbamam
+Igbanran	Okitipupa	Ondo	6.416	4.798	2	
+Igbanke	Orhionmwon	Edo	6.348	6.206	2	Igbaki
+Igbanjor	Gboko	Benue	7.236	8.748	2	
+Igbalagh	Ushongo	Benue	7.142	8.938	2	
+Igbakwu	Ayamelum	Anambra	6.546	6.941	2	Igbaku|Ighaku
+Igbakobo	Yala	Cross River	6.595	8.467	2	
+Igbajo	Boluwaduro	Osun	7.903	4.819	2	
+Igbaje	Okitipupa	Ondo	6.549	4.793	2	
+Igbahee	Konshisha	Benue	7.123	8.714	2	
+Igbaha	Ushongo	Benue	7.164	8.945	2	
+Igbagun	Moro	Kwara	8.777	4.288	2	
+Igbagu	Izzi	Ebonyi	6.331	8.189	2	
+Igbadim	Dekina	Kogi	7.539	7.077	2	Igadim|Igbadin
+Igba	Kabba/Bunu	Kogi	8.048	6.157	2	
+Igba	Gwer East	Benue	7.431	8.586	2	
+Igba	Gboko	Benue	7.373	8.618	2	
+Igba	Konshisha	Benue	7.085	8.507	2	
+Igba	Ushongo	Benue	7.054	8.873	2	
+Igara	Ìjẹ̀bú Òde	Ogun	6.717	3.950	2	
+Igaolu	Abeokuta North	Ogun	7.134	3.269	2	
+Iga-Okpaya	Apa	Benue	7.531	7.882	2	Okpaya
+Iganran	Ijebu North	Ogun	6.917	3.950	2	
+Igan-Okoto	Yewa North	Ogun	7.151	3.044	2	Igan|Igan Okoto
+Iganna	Surulere	Oyo	8.152	4.421	2	
+Igani	Biase	Cross River	5.325	8.051	2	
+Igangan	Atakunmosa West	Osun	7.495	4.725	2	Igangon
+Igangbo	Ese Odo	Ondo	6.294	4.866	2	
+Igan-Alade	Yewa North	Ogun	7.056	2.905	2	Igan|Igan Alade
+Igam	Gboko	Benue	7.290	8.654	2	
+Ivbiakhara	Owan East	Edo	6.987	6.194	2	Igakhara|Iyakala|Iyekhara
+Iga-Iyere	Saki West	Oyo	8.757	3.312	2	Iga Iyere
+Igabopiri	Nembe	Bayelsa	4.599	6.311	2	
+Igabi	Igabi	Kaduna	10.806	7.714	2	
+Iga	Dekina	Kogi	7.517	7.367	2	
+Idumoza	Ika South	Delta	6.254	6.139	2	Idomeza|Igomersi
+Idi-Igbo	Ori Ire	Oyo	8.392	4.183	2	Idi Igbo
+Huma-Igbe	Konshisha	Benue	7.229	8.563	2	
+Igbeta	Ipokia	Ogun	6.539	2.764	2	Gbeta
+Gbada-Efon	Ona Ara	Oyo	7.307	4.065	2	Gbada|Gbada Efon|Igbada
+Ego-Igwe	Oshimili North	Delta	6.285	6.696	2	Egolgwe
+Ebute-Igboro	Yewa North	Ogun	6.898	2.898	2	Ebute Igbawraw|Ebute Igboro
+Budo-Ige	Saki East	Oyo	8.767	3.392	2	Budo Ige
+Budo-Igbo	Olorunsogo	Oyo	8.811	4.174	2	Budo Igbo
+Budo-Igbo	Olorunsogo	Oyo	8.653	4.152	2	Budo Igbo
+Bode-Igbo	Ido	Oyo	7.396	3.789	2	Bode Igbo
+Araromi-Igbagbo	Yewa North	Ogun	7.398	2.957	2	Araromi
+Ama Igbo	Umuahia South	Abia	5.500	7.433	2	
+Akpera Igben	Buruku	Benue	7.630	8.903	2	
+Ajana-Igbo-Ora	Ibarapa North	Oyo	7.512	3.334	2	Ajana Igbo Ora|AjanaIgboOra
+Aho-Igbada	Oyun	Kwara	8.095	4.540	2	Aho Igbada|AhoIgbada
+Adumu-Igbadu	Izzi	Ebonyi	6.368	8.256	2	Adumu Igbagu
+Aba-Ige	Oluyole	Oyo	7.266	3.897	2	Aba Ige
+Igbo Ejo	Apapa	Lagos	6.424	3.354	2	
+Igbobi	Shomolu	Lagos	6.528	3.392	2	
+Igbogila	Alimosho	Lagos	6.607	3.259	2	
+Igwuruto Ali	Ikwerre	Rivers	4.969	6.987	2	Igwuruta-Ali|Ozuaha
+Omuigwe	Ikwerre	Rivers	4.944	6.931	2	Rumugw|Umu-Igwe
+Igbo	Afijio	Oyo	7.744	3.802	2	
+Igbagbo	Afijio	Oyo	7.653	3.922	2	
+Igbira	Ido	Oyo	7.640	3.811	2	
+Igbodi	Ido	Oyo	7.407	3.769	2	
+Igbo-Lomi	Ibeju Lekki	Lagos	6.415	4.168	2	
+Igbore	Ìkòròdú	Lagos	6.554	3.541	2	
+Igboke	Ìkòròdú	Lagos	6.684	3.637	2	
+Igbein	Obafemi Owode	Ogun	6.872	3.513	2	
+Igbeba	Ìjẹ̀bú Òde	Ogun	6.840	3.941	2	
+Igbodo-Oloja	Ijebu North	Ogun	6.923	3.831	2	
+Igbomowo	Odogbolu	Ogun	6.721	3.821	2	
+Igbein	Epe	Lagos	6.677	3.729	2	
+Igbaga	Ijebu East	Ogun	6.769	3.981	2	
+Igbosuru	Shagamu	Ogun	6.700	3.553	2	
+Igbelowowa	Idanre	Ondo	7.031	5.225	2	
+Igbo-Epo-Owomofewa	Idanre	Ondo	7.032	5.059	2	
+Igbo-Epo	Idanre	Ondo	7.041	5.083	2	
+Igbo-Epo-Aiyemofewa	Idanre	Ondo	7.044	5.092	2	
+Igbo-Olokun	Idanre	Ondo	7.057	5.139	2	
+Oke-Igbaro	Ondo East	Ondo	7.122	5.004	2	
+Igbodi-Aragbaiye	Ọ̀wọ̀	Ondo	7.145	5.458	2	
+Igunsin	Akure North	Ondo	7.202	5.263	2	
+Igele	Ọ̀wọ̀	Ondo	7.248	5.436	2	
+Igbatayo	Akure North	Ondo	7.267	5.281	2	
+Igbodo	Ọ̀wọ̀	Ondo	7.301	5.469	2	
+Igirigiri	Adó-Èkìtì	Ekiti	7.554	5.265	2	
+Igbo-Aso	Ekiti South-West	Ekiti	7.581	5.170	2	
+Ago-Igbira	Adó-Èkìtì	Ekiti	7.592	5.365	2	
+Igbodogi	Adó-Èkìtì	Ekiti	7.599	5.307	2	
+Ago-Igbira	Adó-Èkìtì	Ekiti	7.612	5.272	2	
+Ago-Igbira	Adó-Èkìtì	Ekiti	7.647	5.269	2	
+Igbolaere	Ijumu	Kogi	7.734	5.993	2	
+Oke-Igi	Ijero	Ekiti	7.952	5.054	2	
+Igbigele	Akoko-Edo	Edo	7.216	6.182	2	
+Igia	Kabba/Bunu	Kogi	7.829	6.031	2	
+Igbeji	Oturkpo	Benue	7.029	8.086	2	
+Igbegi	Obi	Benue	7.067	8.370	2	
+Igwe	Obi	Benue	7.092	8.320	2	
+Igwe	Gwer East	Benue	7.097	8.367	2	
+Igba	Gwer East	Benue	7.244	8.401	2	
+Iguche	Gwer East	Benue	7.524	8.276	2	
+Iganden	Markurdi	Benue	7.628	8.430	2	
+Igamna	Gwer East	Benue	7.635	8.373	2	
+Ijigbam	Ado	Benue	6.776	8.087	2	Igbam
+Igwe	Oju	Benue	6.785	8.416	2	
+Igo	Obubra	Cross River	6.097	8.342	2	Okposi
+Iguevinyoba	Ovia South-West	Edo	6.719	5.363	2	
+Igbogo	Ovia South-West	Edo	6.678	5.356	2	
+Igbaloro	Ovia North-East	Edo	6.879	5.549	2	
+Igbo-Apawa	Epe	Lagos	6.503	4.066	2	
+Iganmeji	Ijebu East	Ogun	6.834	4.010	2	
+Igan	Ijebu East	Ogun	6.837	4.057	2	
+Igogu	Ilaje	Ondo	6.356	4.599	2	
+Igbo-Agba	Ilaje	Ondo	6.357	4.661	2	
+Igbodu	Ijebu East	Ogun	6.791	4.067	2	
+Igerbu	Rijau	Niger	11.161	4.934	2	
+Igbogilete	Warri North	Delta	5.988	5.565	2	
+Igbomaja Inland	Ethiope West	Delta	5.837	5.826	2	Igbomaja Island
+Ighwremaro	Ughelli North	Delta	5.508	5.959	2	
+Ighwreku	Ughelli North	Delta	5.501	5.985	2	
+Igbene	Burutu	Delta	5.186	5.481	2	
+Igbelebiekiri	Brass	Bayelsa	4.373	5.985	2	
+Ebimi-Igwe	Ekeremor	Bayelsa	4.939	5.615	2	
+Igbewi	Southern Ijaw	Bayelsa	4.802	5.778	2	
+Igbango	Andoni	Rivers	4.482	7.459	2	
+Umu Igu	Ikwuano	Abia	5.403	7.541	2	
+Nto Udo Igwe	Ika	Akwa Ibom	5.060	7.556	2	
+Igor	Esan West	Edo	6.687	6.104	2	
+Igbodo-Igboko	Ika North East	Delta	6.374	6.333	2	Igbado-Igboko
+Igbide	Isoko North	Delta	5.485	6.142	2	
+Itobi-Ige	Isoko North	Delta	5.444	6.417	2	
+Igule Erohwa	Sagbama	Bayelsa	5.294	6.409	2	
+Igbegbene	Patani	Delta	5.245	6.212	2	
+Ibhiedu	Esan South-East	Edo	6.488	6.427	2	Ighedu|Olghedu
+Igeduma	Iguegben	Edo	6.423	6.272	2	
+Iguoke	Uhunmwonde	Edo	6.353	6.068	2	
+Iguesogban	Uhunmwonde	Edo	6.400	6.007	2	
+Iguehenze	Uhunmwonde	Edo	6.332	6.040	2	
+Iguiya	Orhionmwon	Edo	6.251	6.095	2	
+Igalamela-Odolu	Igalamela-Odolu	Kogi	7.057	7.019	2	Igalamela Odolu
+Igbo-Eze-North	Igbo-Eze-North	Enugu	6.983	7.450	2	
+Igabi	Igabi	Kaduna	10.781	7.504	2	Agbegbe Ijoba Ibile Igabi
+Mbiri-Igboko	Ika North East	Delta	6.356	6.298	2	
+Ile Oluji/Okeigbo	Ile Oluji/Okeigbo	Ondo	7.278	4.888	2	Ile-Oluji-Okeigbo|Ile-Oluji/Oke-igbo|Ile-Oluji/Okeigbo|Ile-Oluji/Okeigbo Local Government Area
+Iguegben	Iguegben	Edo	6.528	6.243	2	Igueben|Igueben Local Government Area
+Igbo-Eze-South	Igbo-Eze-South	Enugu	6.934	7.367	2	Igbo Eze South|Igbo Eze South Local Government Area|Igbo-Eze South|Igboeze South
+Igbede	Isi-Uzo	Enugu	6.756	7.848	2	
+Igye	Gwer East	Benue	7.208	8.309	2	
+Igede	Yala	Cross River	6.609	8.454	2	
+Igbuhuotom	Izzi	Ebonyi	6.410	8.188	2	
+Igbagu Clan	Izzi	Ebonyi	6.347	8.291	2	
+Igbago	Abakaliki	Ebonyi	6.315	8.297	2	
+Igidagu	Abakaliki	Ebonyi	6.283	8.285	2	
+Igbeagu-Mfuma	Yala	Cross River	6.359	8.435	2	
+Ume-Igbudu	Ikwo	Ebonyi	6.008	8.177	2	
+Igoli	Ogoja	Cross River	6.665	8.798	2	
+Igabi	Igabi	Kaduna	10.816	7.786	2	
+Igenkel	Gwer West	Benue	7.694	8.220	2	
+Igboji	Gwer West	Benue	7.670	8.194	2	
+Igbazer	Gwer West	Benue	7.647	8.157	2	
+Igbia	Gwer West	Benue	7.600	8.204	2	
+Igbasha	Gwer West	Benue	7.567	8.200	2	
+Igba	Gwer West	Benue	7.539	8.208	2	
+Igo	Markurdi	Benue	7.675	8.458	2	
+Igbahina	Gwer East	Benue	7.591	8.362	2	
+Igbaga	Agatu	Benue	7.850	8.110	2	
+Igboji	Agatu	Benue	7.840	8.128	2	
+Igbalumun	Buruku	Benue	7.529	9.068	2	
+Igbana	Logo	Benue	7.573	9.177	2	
+Igba	Logo	Benue	7.666	9.328	2	
+Igongo	Logo	Benue	7.625	9.323	2	
+Gidan Iga	Buruku	Benue	7.512	9.026	2	
+Igishe	Wukari	Taraba	7.943	9.685	2	
+Igye	Wukari	Taraba	7.795	9.673	2	
+Igbudushana	Wukari	Taraba	7.846	9.809	2	
+Tseazege	Ukum	Benue	7.628	9.565	2	Igoanyan
+Igyo	Ukum	Benue	7.555	9.574	2	
+Igbakundav	Ukum	Benue	7.595	9.597	2	
+Igoil	Ukum	Benue	7.645	9.723	2	
+Igo-Ayaka	Ukum	Benue	7.632	9.767	2	
+Igyu	Katsina-Ala	Benue	7.527	9.769	2	
+Igyu	Katsina-Ala	Benue	7.518	9.764	2	
+Igbakar	Wukari	Taraba	7.719	9.785	2	
+Igo	Wukari	Taraba	7.657	9.773	2	
+Igba	Wukari	Taraba	7.624	9.794	2	
+Igoor	Gboko	Benue	7.367	9.027	2	
+Igo	Buruku	Benue	7.431	9.124	2	
+Igbazenda	Gboko	Benue	7.349	9.098	2	
+Igyaa	Buruku	Benue	7.497	9.206	2	
+Igyovur	Buruku	Benue	7.254	9.195	2	
+Igbatim	Katsina-Ala	Benue	7.365	9.339	2	
+Igba	Katsina-Ala	Benue	7.341	9.296	2	
+Igeige	Katsina-Ala	Benue	7.250	9.364	2	
+Igyer	Katsina-Ala	Benue	7.448	9.474	2	
+Igyum	Ushongo	Benue	7.097	9.021	2	
+Igbudu	Ushongo	Benue	7.065	9.013	2	
+Igon	Vandeikya	Benue	7.037	9.019	2	
+Igbiughul	Ushongo	Benue	7.052	9.062	2	
+Igba	Buruku	Benue	7.216	9.105	2	
+Igon	Buruku	Benue	7.179	9.115	2	
+Igbavenda	Ushongo	Benue	7.039	9.109	2	
+Igber	Buruku	Benue	7.217	9.188	2	
+Igbakua	Buruku	Benue	7.198	9.200	2	
+Igira	Buruku	Benue	7.211	9.230	2	
+Igbur	Buruku	Benue	7.206	9.228	2	
+Igbaa	Ushongo	Benue	7.048	9.267	2	
+Igu	Ushongo	Benue	7.014	9.262	2	
+Igbafa	Katsina-Ala	Benue	7.158	9.445	2	
+Igba	Ushongo	Benue	7.091	9.376	2	
+Igba	Kwande	Benue	7.017	9.434	2	
+Igbaam	Gboko	Benue	7.461	8.905	2	
+Igbaya	Gboko	Benue	7.490	8.936	2	
+Igbe	Gboko	Benue	7.421	8.994	2	
+Igber	Gboko	Benue	7.429	8.977	2	
+Igbetaa	Gboko	Benue	7.433	8.934	2	
+Igbawua	Gboko	Benue	7.425	8.855	2	
+Igbautebgel	Gboko	Benue	7.405	8.889	2	
+Igba	Gboko	Benue	7.321	8.766	2	
+Igbakua	Gboko	Benue	7.320	8.772	2	
+Igban	Gboko	Benue	7.308	8.798	2	
+Igbe	Gboko	Benue	7.330	8.868	2	
+Igbaar	Gboko	Benue	7.331	8.875	2	
+Igbawua	Gboko	Benue	7.323	8.983	2	
+Igume	Gboko	Benue	7.280	8.965	2	
+Igola	Gboko	Benue	7.283	8.901	2	
+Igom	Gboko	Benue	7.261	8.866	2	
+Igya	Gboko	Benue	7.266	8.845	2	
+Igbikiba	Brass	Bayelsa	4.476	6.114	2	
+Ifete-Aguleri-Igbezu	Anambra East	Anambra	6.311	6.908	2	
+Igbo Iroko	Ojo	Lagos	6.482	3.195	2	
+Igbo Elerin	Ojo	Lagos	6.485	3.183	2	
+Orile-Iganmu	Surulere	Lagos	6.479	3.335	2	
+Igbedo	Anambra West	Anambra	6.482	6.717	2	
+Igbokanyi	Anambra West	Anambra	6.458	6.715	2	
+Igbehin	Mushin	Lagos	6.521	3.340	2	
+Igbehinadun	Oshodi/Isolo	Lagos	6.559	3.343	2	
+Igbari	Shomolu	Lagos	6.527	3.384	2	
+Igbobi Fadeyi	Shomolu	Lagos	6.529	3.370	2	
+Igbokuta Oke Agbo Igbalu	Ìkòròdú	Lagos	6.653	3.661	2	
+Siriwon Igbekodo One	Ibeju Lekki	Lagos	6.411	4.138	2	Siriwon Igbekodo I Ward
+Siriwon Igbekodo Two	Ibeju Lekki	Lagos	6.407	4.186	2	Siriwon Igbekodo II Ward
+Ise Igbogun	Ibeju Lekki	Lagos	6.392	4.227	2	
+Igbo-Ifon Maiyegun	Eti Osa	Lagos	6.432	3.542	2	
+Igbirra Camp	Etsako West	Edo	6.838	6.253	2	
+Egbiki-Igueben	Iguegben	Edo	6.547	6.226	2	Egbiki
+Isiokwe Igbakwu	Esan West	Edo	6.647	6.190	2	
+Igbesa	Ado Odo/Ota	Ogun	6.529	3.135	2	
+Iguodo	Ovia South-West	Edo	6.718	5.373	2	
+Iguibo	Ovia North-East	Edo	6.645	5.447	2	
+Igbarada	Abeokuta North	Ogun	7.311	3.083	2	
+Igbo-Olorin	Ibarapa Central	Oyo	7.375	3.206	2	
+Igbobi	Ibarapa Central	Oyo	7.384	3.275	2	
+Ijaiye-Igbole	Odeda	Ogun	7.309	3.218	2	
+Igbo Alata	Odeda	Ogun	7.305	3.261	2	
+Balogun-Igbeku	Odeda	Ogun	7.276	3.276	2	
+Igbein	Obafemi Owode	Ogun	7.016	3.368	2	
+Igboro	Obafemi Owode	Ogun	7.027	3.469	2	
+Ogbe-Igbore	Obafemi Owode	Ogun	7.002	3.463	2	
+Igbo-Agan	Odeda	Ogun	7.236	3.427	2	
+Oke-Igbo	Odeda	Ogun	7.219	3.404	2	
+Igi-Sidi	Isokan	Osun	7.304	4.215	2	
+Ige	Ife North	Osun	7.464	4.479	2	
+Igboekiti-Ewedade	Egbedore	Osun	7.863	4.553	2	
+Igbo-Ekiti	Egbedore	Osun	7.860	4.542	2	
+Igun	Atakunmosa West	Osun	7.528	4.677	2	
+Igila	Atakunmosa West	Osun	7.582	4.663	2	
+Igbadayi	Atakunmosa West	Osun	7.549	4.689	2	
+Ile-Igbo	Atakunmosa West	Osun	7.561	4.760	2	
+Igigun	Ilesha East	Osun	7.567	4.740	2	
+Igogo	Obokun	Osun	7.692	4.740	2	
+Igbo Ifa	Obokun	Osun	7.804	4.679	2	
+Igbo Orioke	Obokun	Osun	7.804	4.710	2	
+Igbota Two	Yewa North	Ogun	7.072	2.841	2	Igbota II
+Igeshu	Yewa North	Ogun	7.364	2.774	2	
+Igbosokun	Imeko Afon	Ogun	7.460	2.801	2	
+Igbo-Olorun	Badagry	Lagos	6.496	2.955	2	
+Igbo-Camps	Yewa North	Ogun	6.946	2.839	2	x
+Igbo-Iso	Ipokia	Ogun	6.716	2.842	2	
+Igbekon	Ipokia	Ogun	6.604	2.850	2	
+Igbo-Ope	Ipokia	Ogun	6.608	2.784	2	
+Igbooro	Ipokia	Ogun	6.530	2.831	2	
+Igbeko	Ipokia	Ogun	6.550	2.876	2	
+Igoro-Oke	Ado Odo/Ota	Ogun	6.526	2.925	2	
+Igiaun	Ipokia	Ogun	6.650	2.783	2	
+Igbotako-Idieki	Okitipupa	Ondo	6.419	4.738	2	
+Igborowo	Ese Odo	Ondo	6.389	4.927	2	Ago-Isobo
+Igyen	Guma	Benue	8.050	8.630	2	
+Igbira	Ife East	Osun	7.435	4.564	2	
+Idi-Ako-Igbomina	Ife South	Osun	7.221	4.590	2	
+Sekunde-Igbomina	Ife South	Osun	7.219	4.608	2	
+Igbokuta	Ondo West	Ondo	7.044	4.689	2	
+Igbokuta	Ondo West	Ondo	7.048	4.723	2	
+Igboloju	Ondo West	Ondo	7.026	4.686	2	
+Orita-Igbindo	Ondo West	Ondo	7.039	4.756	2	
+Igbo-Oluwa	Ondo West	Ondo	7.047	4.778	2	
+Igbo-Olodumare	Ile Oluji/Okeigbo	Ondo	7.291	4.786	2	
+Igba-Ikadun	Ondo East	Ondo	7.132	4.886	2	
+Igbo-Oja	Ondo East	Ondo	7.132	4.865	2	
+Igbose	Ondo West	Ondo	7.037	4.918	2	
+Igbado	Ondo West	Ondo	7.000	4.841	2	
+Igbokuta	Ondo East	Ondo	7.051	4.967	2	
+Igbolowo	Ondo West	Ondo	7.078	4.914	2	
+Igbo-Obudu	Ondo East	Ondo	7.127	4.938	2	
+Igbonla	Ogbomosho South	Oyo	8.064	4.201	2	
+Igbago	Ori Ire	Oyo	8.235	4.261	2	
+Igbo-Kekere	Ori Ire	Oyo	8.480	4.224	2	
+Igboroko	Ori Ire	Oyo	8.387	4.197	2	
+Igbole	Asa	Kwara	8.298	4.421	2	
+Igbedu	Surulere	Oyo	8.199	4.474	2	
+Igbolasa Alada	Ogbomosho North	Oyo	8.109	4.294	2	
+Olori-Igbe	Surulere	Oyo	8.107	4.324	2	
+Igbari	Obafemi Owode	Ogun	7.142	3.548	2	
+Ige	Obafemi Owode	Ogun	7.078	3.632	2	
+Olugba-Igbin	Ijebu North	Ogun	7.066	3.999	2	
+Igbore	Remo North	Ogun	7.068	3.809	2	
+Igboko	Olorunsogo	Oyo	8.867	4.169	2	
+Igbo Onisin	Moro	Kwara	8.847	4.414	2	
+Budo-Ige	Moro	Kwara	8.865	4.491	2	
+Igbo-Elemu	Moro	Kwara	8.729	4.387	2	
+Igboho	Moro	Kwara	8.715	4.400	2	
+Igbomole	Moro	Kwara	8.737	4.329	2	
+Igbo-Efon	Moro	Kwara	8.686	4.464	2	
+Igbonla	Moro	Kwara	8.676	4.390	2	
+Budo-Igbo	Asa	Kwara	8.681	4.284	2	
+Igbori-Ile	Ori Ire	Oyo	8.622	4.230	2	
+Igbe-Ede	Moro	Kwara	8.578	4.475	2	
+Igbona	Ori Ire	Oyo	8.513	4.034	2	
+Igbo-Alanu	Asa	Kwara	8.534	4.307	2	
+Igbona	Asa	Kwara	8.546	4.380	2	
+Igbo	Asa	Kwara	8.525	4.406	2	
+Iga-Fulani	Asa	Kwara	8.543	4.425	2	
+Igbo-Gboro	Ibarapa North	Oyo	7.630	3.149	2	
+Igbo-Ayin	Ibarapa North	Oyo	7.598	3.072	2	
+Igbole-Akao	Ibarapa North	Oyo	7.646	3.220	2	
+Igbofe	Ifelodun	Kwara	8.444	5.063	2	
+Igbira	Isin	Kwara	8.161	5.026	2	
+Igbanda	Asa	Kwara	8.243	4.516	2	
+Igbo-Ayin	Asa	Kwara	8.226	4.532	2	
+Igberi-Ogun	Offa	Kwara	8.139	4.677	2	
+Igboroko-Oke	Asa	Kwara	8.156	4.567	2	
+Igboroko	Asa	Kwara	8.158	4.569	2	
+Igberin	Asa	Kwara	8.170	4.577	2	
+Igana	Oyun	Kwara	8.149	4.585	2	
+Igbo-Oja	Oyun	Kwara	8.130	4.578	2	
+Igbowu	Asa	Kwara	8.139	4.513	2	
+Igbo-Alu	Oyun	Kwara	8.080	4.565	2	
+Igbotele Ajegunle	Odo Otin	Osun	8.034	4.728	2	IgboteleAjegunle
+Igbena	Surulere	Oyo	8.032	4.552	2	
+Igara	Nasarawa Egon	Nasarawa	8.826	8.281	2	
+Igbo-Alayin	Oyo West	Oyo	7.982	3.749	2	
+Idi-Igba	Ìsẹ́yìn	Oyo	7.916	3.694	2	
+Igbo-Alata	Oyo West	Oyo	7.955	3.792	2	
+Igbogbe	Oyo West	Oyo	7.855	3.894	2	
+Igaga	Afijio	Oyo	7.807	3.995	2	
+Oke-Igbo	Ifelodun	Kwara	8.481	4.823	2	
+Igbana	Ifelodun	Kwara	8.495	4.824	2	
+Igbonna	Ifelodun	Kwara	8.470	4.760	2	
+Igbo-Efon	Ifelodun	Kwara	8.395	4.777	2	
+Obi-Igbaja	Ifelodun	Kwara	8.378	4.905	2	
+Igbelowow	Ifelodun	Kwara	9.025	4.898	2	
+Igbelawowa	Moro	Kwara	9.095	4.859	2	
+Igbo-Oloka	Ori Ire	Oyo	7.985	4.069	2	
+Igbo-Ogun	Afijio	Oyo	7.822	4.017	2	
+Igborese	Asa	Kwara	8.350	4.506	2	
+Igbaja	Asa	Kwara	8.273	4.599	2	
+Igboyeye	Asa	Kwara	8.287	4.585	2	Sapati-Oko
+Igberi	Ifelodun	Kwara	8.340	4.738	2	
+Igo	Nasarawa	Nasarawa	8.544	8.084	2	
+Igo	Nasarawa	Nasarawa	8.544	8.000	2	
+Iga	Lafia	Nasarawa	8.542	8.257	2	
+Igbaje	Lagelu	Oyo	7.575	4.049	2	
+Aba-Igbira	Lagelu	Oyo	7.571	4.108	2	
+Igbo Erinwo	Aiyedire	Osun	7.527	4.208	2	IgboErinwo
+Igege	Ola Oluwa	Osun	7.694	4.239	2	
+Igbele	Akinyele	Oyo	7.657	4.069	2	
+Eleyin-Igbo	Lagelu	Oyo	7.521	4.054	2	
+Idi-Igba	Lagelu	Oyo	7.497	4.009	2	
+Igba	Konshisha	Benue	7.060	8.478	2	
+Ndiechi-Igbagu	Abakaliki	Ebonyi	6.306	8.130	2	
+Igbonla	Oyo West	Oyo	8.005	3.745	2	
+Igunnu	Ipokia	Ogun	6.593	2.819	2	
+Igbegodo	Ipokia	Ogun	6.514	2.771	2	
+Igbona	Asa	Kwara	8.589	4.315	2	
+Igbejila	Asa	Kwara	8.400	4.561	2	
+Igbira	Aiyedade	Osun	7.575	4.445	2	
+Igbo-Elerin	Lagelu	Oyo	7.539	4.029	2	
 Igbehinadun Street	Oshodi/Isolo	Lagos	6.559	3.347	1	
 Igbodo Street	Port-Harcourt	Rivers	4.792	7.003	1	
 Lucky Igbinedion Way	Ikpoba-Okha	Edo	6.364	5.660	1	
@@ -271,12 +852,12 @@ Iguma Street	Egor	Edo	6.371	5.629	1
 Igbineweka Street	Egor	Edo	6.370	5.636	1	
 Igbama Street	Egor	Edo	6.372	5.585	1	
 Igbinovia street	Egor	Edo	6.359	5.584	1	
-IGBINEWEKA STREET	Egor	Edo	6.361	5.585	1	
+Igbineweka Street	Egor	Edo	6.361	5.585	1	
 Iguodala Avenue	Oredo	Edo	6.316	5.591	1	
 Igbinidu Street	Oredo	Edo	6.296	5.596	1	
 Iguikpe Road	Egor	Edo	6.360	5.571	1	
 Igbinosa Street	Oredo	Edo	6.288	5.595	1	
-IGBINOBA STREET	Egor	Edo	6.360	5.632	1	
+Igbinoba Street	Egor	Edo	6.360	5.632	1	
 Igbinovia Street	Egor	Edo	6.370	5.635	1	
 Ighodaro Street	Oredo	Edo	6.320	5.596	1	
 Ighile Lane	Oredo	Edo	6.343	5.619	1	
@@ -286,7 +867,6 @@ Igbinidu Street	Oredo	Edo	6.325	5.603	1
 Iga Idunganran Street	Lagos Island	Lagos	6.460	3.390	1	
 Igbo Street	Eti Osa	Lagos	6.449	3.412	1	
 Iganmu Road	Apapa	Lagos	6.469	3.351	1	
-Iganmu Road	Apapa	Lagos	6.476	3.348	1	
 Ige Street	Shomolu	Lagos	6.540	3.371	1	
 Igbeyin Adun Street	Shomolu	Lagos	6.545	3.376	1	
 Igbo Egurin Street	Shomolu	Lagos	6.543	3.381	1	
@@ -312,7 +892,6 @@ Igbo Road	Fagge	Kano	12.021	8.540	1
 Igbafe street	Egor	Edo	6.349	5.576	1	
 Igbinminania Street	Egor	Edo	6.358	5.573	1	
 Igbinovia Avenue	Egor	Edo	6.355	5.576	1	
-Igbinovia street	Egor	Edo	6.353	5.576	1	
 igiehon street	Egor	Edo	6.369	5.633	1	
 Iguma Street	Egor	Edo	6.355	5.582	1	
 Igbinosun Str.	Oredo	Edo	6.298	5.590	1	
@@ -365,8 +944,6 @@ Igbo Etche	Etche	Rivers	4.944	7.082	1
 Igbere Street	Umuahia North	Abia	5.538	7.499	1	
 Igbedor-Odekpe road	Anambra West	Anambra	6.485	6.695	1	
 Igwilo Road	Ideato North	Imo	5.889	7.095	1	
-Igwuruta	Ikwerre	Rivers	4.957	7.015	1	
-Igwuruta	Ikwerre	Rivers	4.962	7.023	1	
 Igbogo Road	Obio/Akpor	Rivers	4.890	6.907	1	
 Igwuruta road	Obio/Akpor	Rivers	4.884	7.050	1	
 Igbo Oruwo	Oye	Ekiti	7.803	5.357	1	
@@ -382,18 +959,13 @@ Igbajo Street	Alimosho	Lagos	6.543	3.261	1
 Steve Igbasan Street	Alimosho	Lagos	6.549	3.219	1	
 Igitoluwagbin Street	Ifo	Ogun	6.690	3.289	1	
 Aato - Igbon Road	Ejigbo	Osun	7.849	4.346	1	
-Aato - Igbon Road	Ejigbo	Osun	7.867	4.346	1	
 Igbon - Ika Road	Ejigbo	Osun	7.887	4.343	1	
 Bola Ige Street	Obokun	Osun	7.750	4.880	1	
-Igbajo	Boluwaduro	Osun	7.903	4.814	2	
 Iganmode Road	Ado Odo/Ota	Ogun	6.690	3.235	1	
-Iganmode Road	Ado Odo/Ota	Ogun	6.697	3.239	1	
-National Orthopaedic Hospital Igbobi	Shomolu	Lagos	6.530	3.373	0	NOHIL
 Igi Olugbin Street	Shomolu	Lagos	6.539	3.385	1	
 Igbobi Sabe Street	Shomolu	Lagos	6.520	3.370	1	
 Igbogbo-Ebute Road	Ìkòròdú	Lagos	6.591	3.512	1	
 Ighofose Street	Uvwie	Delta	5.540	5.757	1	
-Igbon	Ejigbo	Osun	7.867	4.353	2	
 Igbide Road	Isoko South	Delta	5.375	6.108	1	
 Igbide Road	Isoko South	Delta	5.437	6.165	1	
 Igbide Road	Isoko South	Delta	5.366	6.143	1	
@@ -401,9 +973,7 @@ Igbeti-Kisi Bypass	Olorunsogo	Oyo	8.736	4.152	1
 Igbide Road	Isoko South	Delta	5.484	6.197	1	
 Igbide Road	Isoko South	Delta	5.474	6.204	1	
 Ighodaro Street	Ikpoba-Okha	Edo	6.349	5.690	1	
-Aato - Igbon Road	Ejigbo	Osun	7.861	4.347	1	
 Aato - Igbon Road	Ejigbo	Osun	7.838	4.348	1	
-Aato - Igbon Road	Ejigbo	Osun	7.832	4.346	1	
 Ige Adewale Street	Obafemi Owode	Ogun	6.793	3.418	1	
 IGEM Street	Ogbomosho North	Oyo	8.156	4.251	1	
 Igbalaye Street	Oyun	Kwara	8.138	4.745	1	
@@ -412,7 +982,6 @@ Igwuruta Road	Obio/Akpor	Rivers	4.935	7.030	1
 Igbogo road	Obio/Akpor	Rivers	4.864	6.931	1	
 Igwuruta road	Obio/Akpor	Rivers	4.853	7.057	1	
 Igbogbo Road	Obio/Akpor	Rivers	4.864	6.931	1	
-Igwuruta road	Obio/Akpor	Rivers	4.857	7.057	1	
 Fred Igwe Dikibo Street	Port-Harcourt	Rivers	4.795	7.050	1	
 Igbo Road	Fagge	Kano	12.012	8.540	1	
 Igbeti-Ogbomoso Road	Olorunsogo	Oyo	8.751	4.129	1	
@@ -424,42 +993,84 @@ Ojo - Igbede Road	Ojo	Lagos	6.462	3.167	1
 Igbo- Bini Road	Okitipupa	Ondo	6.498	4.835	1	
 Popo Igbonna Street	Ilorin East	Kwara	8.484	4.540	1	
 Igboeze Street	Enugu North	Enugu	6.445	7.515	1	
-Afor Igwe Market	Ihiala	Anambra	5.872	6.831	0	
-IgbehinAdun Street	Alimosho	Lagos	6.593	3.304	1	
 Igbatoro Road	Akure South	Ondo	7.235	5.219	1	
-Igbatoro Road	Akure South	Ondo	7.235	5.220	1	
-Igbo Road	Fagge	Kano	12.026	8.540	1	
 Igbatoro Road	Akure North	Ondo	7.238	5.239	1	
 Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	5.084	6.832	1	
 Igbusuvie Street	Uvwie	Delta	5.537	5.758	1	
 Igbogbo-Oreta-Ofin Road	Ìkòròdú	Lagos	6.581	3.523	1	
-Igbogbo-Ebute Road	Ìkòròdú	Lagos	6.592	3.518	1	
-Igbogbo-Ebute Road	Ìkòròdú	Lagos	6.597	3.502	1	
 Prince Maxwell Igwe Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.188	1	
+Igbosere Road	Lagos Island	Lagos	6.449	3.405	1	
+Igwuruta road	Obio/Akpor	Rivers	4.902	7.033	1	
+Iga Osolo Street	Ojo	Lagos	6.497	3.119	1	
+Iganmode Road	Ado Odo/Ota	Ogun	6.629	3.205	1	
+Iganmode Road	Ado Odo/Ota	Ogun	6.606	3.198	1	
+Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.994	6.886	1	
+Igbesamwan Model Primary School	Oredo	Edo	6.333	5.632	0	
+Ighile Group of Schools	Oredo	Edo	6.329	5.591	0	
+Igboona Market	Olorunda	Osun	7.781	4.558	0	
+Ighogbadu Primary School	Warri South	Delta	5.532	5.758	0	
+Igueben-Ekhen Station	Iguegben	Edo	6.620	6.260	0	
+Igbara Oke Market	Ifedore	Ondo	7.412	5.057	0	
+Igborowo Market	Odigbo	Ondo	6.928	4.883	0	
+Ode Igbisin Market	Okitipupa	Ondo	6.498	4.646	0	
+Igasi Akoko Market	Akoko North West	Ondo	7.724	5.798	0	
+Igedegede Market	Akoko North West	Ondo	7.638	5.881	0	
+Oke Igbo Market	Akoko North West	Ondo	7.579	5.672	0	
+Igbindo Market	Ondo West	Ondo	6.964	4.717	0	
+Igbotako Market	Okitipupa	Ondo	6.575	4.638	0	
+Igbodigho Market	Okitipupa	Ondo	6.496	4.790	0	
+Igbogi I Camp Market	Ilaje	Ondo	6.423	4.853	0	
+igbologun/snake island	Amuwo Odofin	Lagos	6.428	3.334	0	
+Igbogbo Bus Terminus	Ìkòròdú	Lagos	6.589	3.519	0	
+st. paul anglican primary school, igbololo	Shagamu	Ogun	6.856	3.645	0	
+local government primary school, igere	Ado Odo/Ota	Ogun	6.541	3.086	0	
+ansar u deen primary school, igbafa	Shagamu	Ogun	6.818	3.635	0	
+african church primary school, igbore robiyan	Ifo	Ogun	6.747	3.293	0	
+Local Government Primary School, Elero Igbesa	Ado Odo/Ota	Ogun	6.675	3.126	0	
+Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.592	2.942	0	
+Baptist Day Primary School,Igbesa	Ado Odo/Ota	Ogun	6.679	3.134	0	
+All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.689	3.229	0	
+Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.552	3.045	0	
+Methodist Primary School, Agboku-Igbekan	Ado Odo/Ota	Ogun	6.562	2.943	0	
+St. Paul'S (Rcm) Primary School Igode	Ìjẹ̀bú Òde	Ogun	6.706	3.960	0	
+Local Government Primary School, Igbe-Igbesa	Ifo	Ogun	6.805	3.193	0	
+China-Nigeria Friendship Model Primary School,Igbesa	Ifo	Ogun	6.816	3.096	0	
+Community Primary School, Igbusi	Ifo	Ogun	6.803	3.195	0	
+St. Francis (Rcm) Primary School, Igbosoro	Ifo	Ogun	6.808	3.193	0	
+Olu-Ola Primary School, Igbeba	Ìjẹ̀bú Òde	Ogun	6.835	3.937	0	
+Community Primary School, Igbusi	Ifo	Ogun	6.755	3.185	0	
+St. Paul'S (Rcm) Primary School Igode	Shagamu	Ogun	6.686	3.580	0	
+Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.586	3.075	0	
+China-Nigeria Friendship Model Primary School,Igbesa	Ado Odo/Ota	Ogun	6.543	3.130	0	
+Local Government Primary School, Elero Igbesa	Ado Odo/Ota	Ogun	6.534	3.133	0	
+All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.530	3.136	0	
+Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.529	3.134	0	
+Baptist Day Primary School,Igbesa	Ado Odo/Ota	Ogun	6.526	3.142	0	
+Local Government Primary School, Igbe-Igbesa	Ado Odo/Ota	Ogun	6.523	3.140	0	
+St. Francis (Rcm) Primary School, Igbosoro	Shagamu	Ogun	6.698	3.547	0	
+Igbariam Bus stop	Enugu South	Enugu	6.417	7.495	0	
+General Hospital, Igbeti	Olorunsogo	Oyo	8.737	4.147	0	
+Igbo Market	Warri South	Delta	5.515	5.750	0	
+Iganmu	Surulere	Lagos	6.478	3.343	0	
+Igbede Primary Health Center Igbede Bstop Ojo Igbede	Ojo	Lagos	6.452	3.163	0	
+Hon C O Ojelabi Health Center Igbo Elerin	Ojo	Lagos	6.482	3.188	0	
+Igbesa Primary Health Center	Ado Odo/Ota	Ogun	6.528	3.134	0	
+Igando Diagnostic Center	Alimosho	Lagos	6.552	3.244	0	
+Igbologun Medical Centre	Amuwo Odofin	Lagos	6.421	3.333	0	
+Igbologun Primary Health Center Snake Island	Amuwo Odofin	Lagos	6.418	3.329	0	
+Igbologun Medical Center	Amuwo Odofin	Lagos	6.414	3.252	0	
+igando landing/isuti	Alimosho	Lagos	6.552	3.207	0	
+igbo elejo	Apapa	Lagos	6.424	3.352	0	
+Igbinedion university Secondary School	Ovia North-East	Edo	6.729	5.396	0	
+Igweamaka Primary school	Anaocha	Anambra	6.065	7.032	0	
+National Orthopaedic Hospital Igbobi	Shomolu	Lagos	6.530	3.373	0	NOHIL
+Afor Igwe Market	Ihiala	Anambra	5.872	6.831	0	
 Alimosho General Hospital Igando	Alimosho	Lagos	6.560	3.253	0	
 Igando Market	Alimosho	Lagos	6.551	3.241	0	
-Igando	Alimosho	Lagos	6.552	3.242	0	
-Igbosere Road	Lagos Island	Lagos	6.449	3.405	1	
 Igbobi College	Shomolu	Lagos	6.530	3.372	0	
-Igwuruta road	Obio/Akpor	Rivers	4.902	7.033	1	
 Igbinobaro Medical center	Oredo	Edo	6.341	5.610	0	
 Igoba Community High School	Akure North	Ondo	7.294	5.232	0	
 Igbudu Market	Warri South	Delta	5.520	5.762	0	
 Igbanke Station	Orhionmwon	Edo	6.361	6.250	0	
-Igbide Road	Isoko South	Delta	5.451	6.201	1	
-Igbo Market	Warri South	Delta	5.514	5.750	0	
 Igwebuike Grammar School	Nkanu East	Enugu	6.306	7.668	0	
-Iga Osolo Street	Ojo	Lagos	6.497	3.119	1	
-Igwuruta road	Obio/Akpor	Rivers	4.865	7.056	1	
 Igbeti Town Hall	Olorunsogo	Oyo	8.748	4.129	0	
-Iganmode Road	Ado Odo/Ota	Ogun	6.629	3.205	1	
-Iganmode Road	Ado Odo/Ota	Ogun	6.606	3.198	1	
-Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.994	6.886	1	
-Sarkin Adar Gidan Igwai	Sokoto North	Sokoto	13.072	5.208	2	
-Igabi	Igabi	Kaduna	10.832	7.776	2	
-Iguegben	Iguegben	Edo	6.509	6.242	2	
-Igbo-Eze-South	Igbo-Eze-South	Enugu	6.952	7.350	2	
-Igbo-Eze-North	Igbo-Eze-North	Enugu	7.005	7.459	2	
-Igbo-Etiti	Igbo-Etiti	Enugu	6.689	7.406	2	
-Igalamela-Odolu	Igalamela-Odolu	Kogi	7.035	7.059	2	
-Igabi	Igabi	Kaduna	10.749	7.529	2	

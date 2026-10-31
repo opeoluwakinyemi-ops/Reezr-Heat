@@ -1,5 +1,7 @@
 Maiduguri	Maiduguri	Borno	11.839	13.154	3	Yerwa
 Yenagoa	Yenegoa	Bayelsa	4.934	6.275	3	
+Yelwa	Yauri	Kebbi	10.833	4.744	3	
+Yelwa	Bauchi	Bauchi	10.280	9.820	2	
 Sabon Birnin Yero	Igabi	Kaduna	10.765	7.523	2	Sabon Birni Yero
 Tunga Yelwa Borgu	Bagudo	Kebbi	11.304	4.177	2	
 Yerimari Gana	Bama	Borno	11.435	13.660	2	
@@ -21,6 +23,7 @@ Yelema	Augie	Kebbi	12.793	4.604	2
 Yalwa	Rano	Kano	11.409	8.518	2	Yelwa
 Yelwan Galambi	Alkaleri	Bauchi	10.123	10.203	2	
 Yema Mata	Yewa North	Ogun	6.947	2.919	2	
+Yerimaru	Sardauna	Taraba	6.800	11.050	2	
 Kein Yewu	Toto	Nasarawa	8.090	7.138	2	Kainyehu
 Yerwa	Damboa	Borno	11.210	12.874	2	
 Yelwa	Rafi	Niger	10.139	6.205	2	
@@ -51,10 +54,8 @@ Yelwa	Etsako West	Edo	7.109	6.296	2
 Yelwa	Gwaram	Jigawa	11.298	9.825	2	Yalwa
 Yegau	Sabon Birni	Sokoto	13.461	6.221	2	
 Yelwan Daji	Ikara	Kaduna	11.486	8.065	2	
-Yelwa	Yauri	Kebbi	10.833	4.744	3	
 Yelwan Dan Musa	Doguwa	Kano	10.575	8.716	2	Yalwan Dan Musa
 Yele	Madagali	Adamawa	10.732	13.589	2	
-Yelwa Sarman Dispensary	Misau	Bauchi	11.477	10.671	0	
 Lawan Kachalla	Chibok	Borno	10.748	12.924	2	Paya Yesu
 Yeleye	Nganzai	Borno	12.610	13.178	2	
 Borno Yesu Lawanti	Magumeri	Borno	12.159	12.515	2	
@@ -64,71 +65,10 @@ Minta Yerima	Kwaya Kusar	Borno	10.551	11.964	2
 Yerimari	Mafa	Borno	11.782	13.757	2	
 Yerwa Lawanti	Damboa	Borno	11.274	12.871	2	
 Yerwajo	Damboa	Borno	11.283	12.859	2	
-Dele Yes Sir Petrol Station	Egbedore	Osun	7.789	4.506	0	
-Ungwan Yelwa Primary School	Chikun	Kaduna	10.448	7.436	0	
 point two Yellewangurza, Gona Div	Gombe	Gombe	10.269	11.190	2	
 Yele Hawari	Monguno	Borno	12.405	13.569	2	
 Ali Yetchari	Nganzai	Borno	12.741	13.243	2	
 Yeghe	Gokana	Rivers	4.684	7.345	2	
-Yetu Hospital	Bida	Niger	9.069	5.987	0	
-A.T.B.U Yelwa Campus	Bauchi	Bauchi	10.278	9.795	0	
-Yelwa Clinic	Bauchi	Bauchi	10.271	9.795	0	
-Yelwa Domiciliary	Bauchi	Bauchi	10.282	9.800	0	
-Yelwa Practicing School	Bauchi	Bauchi	10.278	9.803	0	
-Kwaine College of Education (KCOE) Yelanguruza Gombe	Gombe	Gombe	10.272	11.196	0	
-Yelwa Maibene Health Clinic	Kaduna South	Kaduna	10.539	7.409	0	
-Yelwa Primary Health Care	Chikun	Kaduna	10.435	7.421	0	
-gbaji yekeme jetty	Badagry	Lagos	6.420	2.861	0	
-Yedseram Crescent	Municipal Area Council	FCT Abuja	9.092	7.494	1	
-Yemetu Street	Ibadan North	Oyo	7.396	3.899	1	
-Chief Yesufu Abiodun Way	Eti Osa	Lagos	6.434	3.443	1	
-Buba Yero Road	Kaduna North	Kaduna	10.538	7.431	1	
-Yetunde Brown	Kosofe	Lagos	6.565	3.390	1	
-Yetunde Morgan	Ikeja	Lagos	6.647	3.359	1	
-Yeye Olofin Street	Eti Osa	Lagos	6.444	3.461	1	
-Alhaji Yekini Lawal	Alimosho	Lagos	6.599	3.302	1	
-Oba Yekini Elegushi Road	Eti Osa	Lagos	6.436	3.487	1	
-Yemi Adetayo Street	Eti Osa	Lagos	6.423	3.506	1	
-Ahmed Yekedima Road	Tarauni	Kano	11.979	8.555	1	
-yellow lane	Numan	Adamawa	9.459	12.029	1	
-Chief Yesufu Abiodun Way	Eti Osa	Lagos	6.435	3.443	1	
-Yembra Street	Uvwie	Delta	5.544	5.781	1	
-Yemi Ogunniyi Street	Kosofe	Lagos	6.564	3.376	1	
-Yelwan Bashi Dispensary	Dass	Bauchi	9.926	9.546	0	
-Danshem Yelwa	Bogoro	Bauchi	9.539	9.544	0	
-Alhaji Yekini Olawale Bakare Avenue	Eti Osa	Lagos	6.453	3.520	1	
-Yeye Yetunde Onanuga Crescent	Eti Osa	Lagos	6.451	3.584	1	
-Mbiama – Yenagoa – Tombia Junction	Yenegoa	Bayelsa	4.943	6.325	1	
-Yekini Okobale Street	Oshodi/Isolo	Lagos	6.513	3.308	1	
-Yemi Suara Street	Eti Osa	Lagos	6.467	3.584	1	
-Yemi Gbenle Avenue	Ifo	Ogun	6.641	3.392	1	
-Yemisi Olatunji Crescent	Ìkòròdú	Lagos	6.632	3.485	1	
-Yetunde Dada	Akure North	Ondo	7.245	5.242	1	
-Yetkem Avenue	Alimosho	Lagos	6.645	3.260	1	
-Yellow Wood Road	Eti Osa	Lagos	6.460	3.521	1	
-Yemi Ajise Street	Adó-Èkìtì	Ekiti	7.611	5.215	1	
-Yetunde Longe Street	Eti Osa	Lagos	6.454	3.614	1	
-Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.452	1	
-Yerma - Government Girls Secondary School (GGSS)	Maiduguri	Borno	11.834	13.121	0	
-Yerwa Practising Junior Secondary School	Maiduguri	Borno	11.829	13.154	0	
-Yemetu Street	Ibadan North	Oyo	7.392	3.904	1	
-Yelwa Roundabout	Bauchi	Bauchi	10.290	9.803	1	
-Yele Dispensary	Monguno	Borno	12.403	13.570	0	
-Alhaji Yekini Olawale Bakare Street	Eti Osa	Lagos	6.440	3.546	1	
-Yerwa Polyclinic	Maiduguri	Borno	11.811	13.165	0	
-Yeneagoa Hospital and Maternity	Yenegoa	Bayelsa	4.929	6.305	0	
-Dziga Yerima Health Clinic	Hong	Adamawa	10.216	13.035	0	
-Yerimaram Maternity Child Health Center	Potiskum	Yobe	11.725	11.101	0	
-Wuro Yelde Health Post Gurin	Fufore	Adamawa	9.117	12.873	0	
-Yebbi Primary Health Center	Jada	Adamawa	8.448	12.051	0	
-Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.462	1	
-Mbiama Yeneagoa Road	Yenegoa	Bayelsa	4.986	6.376	1	
-yes	Ọ̀wọ̀	Ondo	7.219	5.568	1	
-Yemi Farounbi Street	Ibadan North	Oyo	7.418	3.923	1	
-Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.465	1	
-Yemi Adetayo Street	Eti Osa	Lagos	6.428	3.498	1	
-Yemi Adetayo Street	Eti Osa	Lagos	6.426	3.508	1	
-Yemi Adetayo Street	Eti Osa	Lagos	6.423	3.497	1	
 Yerimaram	Potiskum	Yobe	11.691	11.101	2	
 Birnin Yero	Shinkafi	Zamfara	12.957	6.463	2	
 Yelwa South	Yauri	Kebbi	10.833	4.741	2	
@@ -144,3 +84,255 @@ Yenegoa	Yenegoa	Bayelsa	5.063	6.378	2
 Yele	Monguno	Borno	12.397	13.600	2	
 Borno Yesu	Magumeri	Borno	12.207	12.480	2	
 Yelwa	Chikun	Kaduna	10.430	7.430	2	
+Yewuni	Abaji	FCT Abuja	8.509	6.838	2	
+Yewu	Kuje	FCT Abuja	8.556	7.014	2	
+Yewe	Gboko	Benue	7.463	8.676	2	
+Yeulari	Hawul	Borno	10.346	12.074	2	
+Yeti	Mokwa	Niger	9.417	5.417	2	
+Yesufu	Abeokuta North	Ogun	7.361	3.090	2	
+Yessawa	Machina	Yobe	12.865	9.765	2	
+Yerwa	Maiduguri	Borno	11.861	13.156	2	
+Yerwa	Toto	Nasarawa	8.399	7.217	2	
+Rimawa	Goronyo	Sokoto	13.492	5.899	2	Yerimawa|Yirimawa
+Yerimari	Shira	Bauchi	11.517	10.017	2	
+Yerima Njelu	Fika	Yobe	11.389	11.425	2	
+Yerima Killa	Ardo-Kola	Taraba	8.745	11.375	2	
+Yerima Jira	Bali	Taraba	8.320	11.032	2	
+Yerima Baya	Bali	Taraba	7.899	10.411	2	
+Yerima	Sardauna	Taraba	7.041	11.375	2	
+Yerewata	Keana	Nasarawa	8.160	8.591	2	
+Yeregi	Moro	Kwara	8.745	4.480	2	
+Yerda	Fika	Yobe	11.482	11.133	2	
+Yenta	Soba	Kaduna	10.803	8.073	2	
+Yemope	Egbedore	Osun	7.881	4.419	2	
+Yemoji	Ìjẹ̀bú Òde	Ogun	6.767	3.967	2	
+Yemoja-Oke	Asa	Kwara	8.511	4.472	2	Yemoja Oke
+Yemoja	Ilorin West	Kwara	8.491	4.498	2	
+Yekemi	Ife South	Osun	7.272	4.587	2	Yekami|Yememi
+Yemari	Kaiama	Kwara	9.669	3.964	2	
+Yoma-Mata	Yewa North	Ogun	6.946	2.919	2	Yema Mata|Yewa Mata
+Yalwata Wuji	Lafia	Nasarawa	8.532	8.706	2	YalwataWuji|Yelwata
+Yelwata	Obi	Nasarawa	8.455	8.694	2	
+Yelwa Nono	Wase	Plateau	9.217	9.950	2	
+Yelwa-Doma	Doma	Nasarawa	8.279	8.310	2	Yelwa Doma|YelwaDoma
+Yelwa Babalso	Gassol	Taraba	8.508	10.683	2	
+Yelwa	Gusau	Zamfara	12.104	7.092	2	
+Yelwa	Tsafe	Zamfara	12.057	6.912	2	
+Yelwa	Shira	Bauchi	11.537	10.113	2	
+Yelwa	Fika	Yobe	11.481	11.056	2	
+Yelwa	Nafada	Gombe	11.068	11.173	2	
+Yelwa	Soba	Kaduna	10.979	8.021	2	
+Yelwa	Giwa	Kaduna	10.933	7.050	2	
+Yelwa	Gulani	Yobe	10.723	11.656	2	
+Yelwa	Bauchi	Bauchi	10.278	9.792	2	
+Yelwa	Yamaltu/Deba	Gombe	10.242	11.398	2	
+Yelwa	Shiroro	Niger	10.017	6.717	2	
+Yelwa	Barkin Ladi	Plateau	9.626	8.939	2	
+Yelwa	Kagarko	Kaduna	9.588	7.486	2	
+Yelwa	Demsa	Adamawa	9.414	12.055	2	
+Yelwa	Barkin Ladi	Plateau	9.428	8.816	2	
+Yelwa	Mayo-Belwa	Adamawa	8.968	11.974	2	
+Yelwa	Shendam	Plateau	8.833	9.633	2	
+Yelwa	Jada	Adamawa	8.504	11.980	2	
+Yelwa	Kogi	Kogi	8.050	6.829	2	
+Yelwa	Bali	Taraba	7.975	10.922	2	
+Yelwa	Bali	Taraba	7.949	10.656	2	
+Yelwa	Takum	Taraba	7.504	9.938	2	Peva
+Yelwa	Kurmi	Taraba	7.263	10.920	2	
+Yelua	Abaji	FCT Abuja	8.888	6.875	2	
+Yelmadoro	Fune	Yobe	11.564	11.512	2	Tila|Yelmandoro
+Yelkatari	Shira	Bauchi	11.539	9.990	2	
+Yeliso	Ganye	Adamawa	8.233	12.124	2	
+Yelima	Bali	Taraba	7.994	11.283	2	
+Yelema	Augie	Kebbi	12.793	4.608	2	
+Yeldo	Akko	Gombe	10.077	11.179	2	
+Yelde Hindu	Mayo-Belwa	Adamawa	8.869	12.020	2	
+Yeke	Konshisha	Benue	7.195	8.556	2	
+Yehidna	Bwari	FCT Abuja	9.267	7.436	2	
+Yegun	Olorunsogo	Oyo	8.656	4.137	2	
+Yegiri	Hawul	Borno	10.370	12.108	2	
+Yeght	Gokana	Rivers	4.687	7.344	2	Yeghe
+Yeghel	Gboko	Benue	7.265	8.736	2	
+Yegau	Sabon Birni	Sokoto	13.447	6.213	2	
+Yefaji	Gbako	Niger	9.183	5.950	2	
+Yederi	Hawul	Borno	10.593	12.040	2	
+Yeder	Shani	Borno	10.143	12.071	2	Yederi
+Yedah	Taura	Jigawa	12.309	9.518	2	
+Yebu	Kwali	FCT Abuja	8.684	7.093	2	
+Yebi Tamsugua	Kukawa	Borno	13.149	13.561	2	Alagarno|Yebi-Tamsugua
+Yebi Jemi	Kukawa	Borno	13.121	13.588	2	Yebi-Jemi
+Yebi Bandi	Kukawa	Borno	13.241	13.481	2	Kudo Kowa|Yebi-Bandi
+Yebel	Magumeri	Borno	11.900	12.978	2	
+Yeba	Gamawa	Bauchi	11.937	10.741	2	
+Wuro Yero	Demsa	Adamawa	9.399	12.082	2	
+Egbati Yelwa	Lavun	Niger	9.252	5.633	2	Egbanti Yelwa|Tungan Salahu|Tungar Salahu
+Opu Yenizue	Yenegoa	Bayelsa	4.940	6.319	2	Opu Yenijue
+Nyibango Yerima Belle	Maiha	Adamawa	10.071	13.122	2	
+Lele-Ye-Saba-Basa	Gwagwalada	FCT Abuja	8.919	6.969	2	Lele Ye Saba Basa|LeleYeSabaBasa
+Keffi	Karim Lamido	Taraba	9.201	10.845	2	Yelwa
+Inshar	Shendam	Plateau	8.808	9.660	2	Yelwa
+Ijana-Yeye	Olorunsogo	Oyo	8.621	4.115	2	Ijana Yeye
+Garin Yelwa	Gassol	Taraba	8.554	10.756	2	
+Gankoi Yeba	Donga	Taraba	7.581	10.325	2	
+Birnin Yero	Igabi	Kaduna	10.786	7.548	2	
+Bashorun Yemoja Ajiga	Afijio	Oyo	7.841	4.065	2	
+Barakin Yelwa Rishi	Toro	Bauchi	10.458	8.950	2	
+Abong Yeri	Kurmi	Taraba	6.971	10.776	2	
+Yelwa	Karu	Nasarawa	9.068	7.616	2	
+Yelwa	Tofa	Kano	12.055	8.340	2	
+Kamyeku	Toto	Nasarawa	8.079	7.176	2	Kein-Yeku
+Yerna	Bama	Borno	11.520	14.182	2	
+Yewi	Abadam	Borno	13.536	13.359	2	
+Ago-Yesufu Alli	Ise/Orun	Ekiti	7.316	5.420	2	
+Yelwa	Shani	Borno	10.246	12.109	2	
+Tse-Yende	Gboko	Benue	7.493	8.818	2	
+Yenge	Markurdi	Benue	7.673	8.459	2	
+Yegunda	Epe	Lagos	6.506	4.024	2	
+Hatsi Yekawoni	Garki	Jigawa	12.335	8.918	2	
+Kaki Yema	Garki	Jigawa	12.327	8.822	2	
+Yelwa	Matazu	Katsina	12.190	7.545	2	
+Yerimawa	Yauri	Kebbi	10.602	4.652	2	
+Yelwa	Faskari	Katsina	11.782	7.035	2	
+Yelwa	Faskari	Katsina	11.730	7.057	2	
+Tunga Yeli	Bagudo	Kebbi	11.413	4.126	2	
+Yensawoyu	Maru	Zamfara	11.325	6.409	2	
+Yellowgbene	Ekeremor	Bayelsa	4.952	5.546	2	
+Fine Yellowgbene	Ekeremor	Bayelsa	4.933	5.581	2	
+Yedogbene	Southern Ijaw	Bayelsa	4.557	5.819	2	Yedorgbene
+New Yeargbene	Sagbama	Bayelsa	5.124	6.069	2	
+Yenegwe	Yenegoa	Bayelsa	5.016	6.395	2	
+Yenegoa	Yenegoa	Bayelsa	5.032	6.359	2	Yenegoa Local Government Area
+Yerima Madagali	Askira-Uba	Borno	10.542	13.230	2	
+Yelina Audwa	Fika	Yobe	11.186	11.244	2	
+Yeva	Gwer East	Benue	7.241	8.400	2	
+Yeldu	Arewa Dandi	Kebbi	12.819	4.233	2	
+Yelwa North	Yauri	Kebbi	10.845	4.795	2	
+Yerimaram	Potiskum	Yobe	11.703	11.117	2	
+Birnin Yero	Shinkafi	Zamfara	12.956	6.472	2	
+Yeku	Oturkpo	Benue	7.563	8.043	2	
+Yesa	Markurdi	Benue	7.704	8.468	2	
+Yev	Ukum	Benue	7.772	9.495	2	
+Yese	Wukari	Taraba	7.729	9.733	2	
+Yegh	Buruku	Benue	7.330	9.254	2	
+Yegher	Gboko	Benue	7.210	9.030	2	
+Yegher	Ushongo	Benue	7.108	9.075	2	
+Yeghkyaa	Buruku	Benue	7.119	9.125	2	
+Yese	Ushongo	Benue	7.072	9.148	2	
+Yev	Gboko	Benue	7.415	8.893	2	
+Yerkwagh	Gboko	Benue	7.318	8.907	2	
+Yelwa	Gamawa	Bauchi	12.232	10.436	2	
+Yelwa	Gbako	Niger	9.259	5.902	2	
+Yezheba	Gbako	Niger	9.120	6.062	2	
+Yelwa	Agaie	Niger	9.013	6.509	2	
+Wari Yerigo	Mayo-Belwa	Adamawa	8.883	12.054	2	
+Yero	Jada	Adamawa	8.670	12.468	2	
+Yelwa	Karu	Nasarawa	9.195	7.830	2	
+Garin Adama Yero	Ardo-Kola	Taraba	8.758	11.049	2	
+Wuro Yepo	Jalingo	Taraba	8.908	11.339	2	
+Yelwa	Jalingo	Taraba	8.907	11.375	2	
+Yerima Tanvo	Yorro	Taraba	8.902	11.398	2	
+Longa Yewa	Jalingo	Taraba	8.867	11.389	2	
+Lainde Yerima	Gassol	Taraba	8.617	10.724	2	
+Yelwa	Gassol	Taraba	8.747	10.876	2	
+Ungwan Yerima	Akwanga	Nasarawa	9.020	8.218	2	
+Yelwa Nono	Bokkos	Plateau	9.226	8.952	2	
+Yelwa	Mayo-Belwa	Adamawa	9.164	11.743	2	
+Yeha	Mayo-Belwa	Adamawa	9.044	11.899	2	
+Wuro Yesso	Mayo-Belwa	Adamawa	9.121	11.939	2	
+Mbamnga Yerima-Shauya	Lau	Taraba	9.155	11.587	2	
+Garin Yerima	Alkaleri	Bauchi	9.717	10.806	2	
+Alkaleri	Alkaleri	Bauchi	9.699	10.791	2	Yelwan Akalere
+Yalwa	Karim Lamido	Taraba	9.588	10.843	2	Yelwa
+Yelwa	Akko	Gombe	9.927	10.936	2	
+Dogo Yelli	Karim Lamido	Taraba	9.386	10.956	2	
+Yeye-Iyabo	Obokun	Osun	7.835	4.900	2	
+Ago-Yewa	Ese Odo	Ondo	6.263	4.926	2	
+Ago-Yekini	Ese Odo	Ondo	6.323	4.874	2	
+Abule Yerepe	Irepo	Oyo	9.000	3.928	2	
+Yekere	Ife North	Osun	7.382	4.507	2	
+Ago-Yegbata	Ondo West	Ondo	7.002	4.698	2	
+Ago-Yesufu	Ondo East	Ondo	7.025	4.965	2	
+Yewole	Asa	Kwara	8.495	4.340	2	
+Yede	Asa	Kwara	8.558	4.304	2	
+Yede	Asa	Kwara	8.548	4.360	2	
+Yelva	Sardauna	Taraba	7.091	11.091	2	
+Yelwa	Kokona	Nasarawa	8.899	8.106	2	
+Yelwa	Edu	Kwara	9.160	4.882	2	
+Yemaja	Ola Oluwa	Osun	7.779	4.179	2	
+Yelwa	Nasarawa	Nasarawa	8.438	8.158	2	
+Yelwa	Ganye	Adamawa	8.450	12.171	2	
+Yerima Gamsim	Bali	Taraba	8.389	11.160	2	YerimaGamsim
+Yerima Yaji	Teungo	Adamawa	8.100	11.991	2	YerimaYaji
+Yerku	Song	Adamawa	9.812	12.464	2	
+Wuro Yerima	Shelleng	Adamawa	9.951	12.008	2	WuroYerima
+Yerku	Song	Adamawa	9.805	12.412	2	
+Ita-Yesa	Ilorin East	Kwara	8.439	4.600	2	
+Yewar	Agaie	Niger	8.966	6.344	2	
+Yeluwa	Agaie	Niger	8.901	6.398	2	
+Yelwa	Mokwa	Niger	9.246	5.411	2	
+Yeuye	Kuje	FCT Abuja	8.473	7.042	2	
+Yeji Koto	Toto	Nasarawa	8.321	7.092	2	YejiKoto
+Yes	Toto	Nasarawa	8.022	7.106	2	
+Yelwa	Nasarawa	Nasarawa	8.571	7.696	2	
+Yelwa	Municipal Area Council	FCT Abuja	8.849	7.354	2	
+Yerima	Sardauna	Taraba	6.784	11.318	2	
+Yege	Lagelu	Oyo	7.528	4.007	2	
+Yemoja	Asa	Kwara	8.515	4.477	2	
+Yedseram Crescent	Municipal Area Council	FCT Abuja	9.092	7.494	1	
+Yemetu Street	Ibadan North	Oyo	7.396	3.899	1	
+Chief Yesufu Abiodun Way	Eti Osa	Lagos	6.434	3.443	1	
+Buba Yero Road	Kaduna North	Kaduna	10.538	7.431	1	
+Yetunde Brown	Kosofe	Lagos	6.565	3.390	1	
+Yetunde Morgan	Ikeja	Lagos	6.647	3.359	1	
+Yeye Olofin Street	Eti Osa	Lagos	6.444	3.461	1	
+Alhaji Yekini Lawal	Alimosho	Lagos	6.599	3.302	1	
+Oba Yekini Elegushi Road	Eti Osa	Lagos	6.436	3.487	1	
+Yemi Adetayo Street	Eti Osa	Lagos	6.423	3.506	1	
+Ahmed Yekedima Road	Tarauni	Kano	11.979	8.555	1	
+yellow lane	Numan	Adamawa	9.459	12.029	1	
+Chief Yesufu Abiodun Way	Eti Osa	Lagos	6.435	3.443	1	
+Yembra Street	Uvwie	Delta	5.544	5.781	1	
+Yemi Ogunniyi Street	Kosofe	Lagos	6.564	3.376	1	
+Alhaji Yekini Olawale Bakare Avenue	Eti Osa	Lagos	6.453	3.520	1	
+Yeye Yetunde Onanuga Crescent	Eti Osa	Lagos	6.451	3.584	1	
+Mbiama – Yenagoa – Tombia Junction	Yenegoa	Bayelsa	4.943	6.325	1	
+Yekini Okobale Street	Oshodi/Isolo	Lagos	6.513	3.308	1	
+Yemi Suara Street	Eti Osa	Lagos	6.467	3.584	1	
+Yemi Gbenle Avenue	Ifo	Ogun	6.641	3.392	1	
+Yemisi Olatunji Crescent	Ìkòròdú	Lagos	6.632	3.485	1	
+Yetunde Dada	Akure North	Ondo	7.245	5.242	1	
+Yetkem Avenue	Alimosho	Lagos	6.645	3.260	1	
+Yellow Wood Road	Eti Osa	Lagos	6.460	3.521	1	
+Yemi Ajise Street	Adó-Èkìtì	Ekiti	7.611	5.215	1	
+Yetunde Longe Street	Eti Osa	Lagos	6.454	3.614	1	
+Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.452	1	
+Yemetu Street	Ibadan North	Oyo	7.392	3.904	1	
+Yelwa Roundabout	Bauchi	Bauchi	10.290	9.803	1	
+Alhaji Yekini Olawale Bakare Street	Eti Osa	Lagos	6.440	3.546	1	
+Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.462	1	
+Mbiama Yeneagoa Road	Yenegoa	Bayelsa	4.986	6.376	1	
+yes	Ọ̀wọ̀	Ondo	7.219	5.568	1	
+Yemi Farounbi Street	Ibadan North	Oyo	7.418	3.923	1	
+Yelwa Sarman Dispensary	Misau	Bauchi	11.477	10.671	0	
+Dele Yes Sir Petrol Station	Egbedore	Osun	7.789	4.506	0	
+Ungwan Yelwa Primary School	Chikun	Kaduna	10.448	7.436	0	
+Yetu Hospital	Bida	Niger	9.069	5.987	0	
+A.T.B.U Yelwa Campus	Bauchi	Bauchi	10.278	9.795	0	
+Yelwa Clinic	Bauchi	Bauchi	10.271	9.795	0	
+Yelwa Domiciliary	Bauchi	Bauchi	10.282	9.800	0	
+Yelwa Practicing School	Bauchi	Bauchi	10.278	9.803	0	
+Kwaine College of Education (KCOE) Yelanguruza Gombe	Gombe	Gombe	10.272	11.196	0	
+Yelwa Maibene Health Clinic	Kaduna South	Kaduna	10.539	7.409	0	
+Yelwa Primary Health Care	Chikun	Kaduna	10.435	7.421	0	
+gbaji yekeme jetty	Badagry	Lagos	6.420	2.861	0	
+Yelwan Bashi Dispensary	Dass	Bauchi	9.926	9.546	0	
+Danshem Yelwa	Bogoro	Bauchi	9.539	9.544	0	
+Yerma - Government Girls Secondary School (GGSS)	Maiduguri	Borno	11.834	13.121	0	
+Yerwa Practising Junior Secondary School	Maiduguri	Borno	11.829	13.154	0	
+Yele Dispensary	Monguno	Borno	12.403	13.570	0	
+Yerwa Polyclinic	Maiduguri	Borno	11.811	13.165	0	
+Yeneagoa Hospital and Maternity	Yenegoa	Bayelsa	4.929	6.305	0	
+Dziga Yerima Health Clinic	Hong	Adamawa	10.216	13.035	0	
+Yerimaram Maternity Child Health Center	Potiskum	Yobe	11.725	11.101	0	
+Wuro Yelde Health Post Gurin	Fufore	Adamawa	9.117	12.873	0	
+Yebbi Primary Health Center	Jada	Adamawa	8.448	12.051	0	

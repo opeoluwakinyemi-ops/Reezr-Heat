@@ -1,3 +1,19 @@
+Ribadu	Funakaye	Gombe	10.650	11.330	3	
+Riban Garmu	Kirfi	Bauchi	10.525	10.455	3	
+Rimin Daddo	Kura	Kano	11.768	8.429	3	
+Rimi	Sumaila	Kano	11.385	8.999	3	
+Oji River	Oji-River	Enugu	6.255	7.269	3	
+Riyom	Riyom	Plateau	9.637	8.757	3	Riom
+Ririwai	Doguwa	Kano	10.740	8.741	3	Riruwai
+Ringim	Ringim	Jigawa	12.151	9.162	3	
+Rimin Gado	Rimin Gado	Kano	11.967	8.248	3	Rafin Gado
+Rimi	Rimi	Katsina	12.850	7.710	3	
+Rijau	Rijau	Niger	11.104	5.256	3	
+Ribah	Wasagu-Danko	Kebbi	11.396	5.486	3	
+Oji River	Oji-River	Enugu	6.256	7.270	3	
+Ring Road	Ibadan South West	Oyo	7.361	3.867	2	
+Ungwan Rimi	Kaduna North	Kaduna	10.540	7.450	2	
+Rikkos	Jos North	Plateau	9.902	8.910	2	
 Rigal Koli	Magaria	Katsina	13.082	8.421	2	
 Rigal Arda	Magaria	Katsina	13.086	8.504	2	
 Rijia Boule	Tessaoua	Katsina	13.234	8.230	2	
@@ -22,16 +38,15 @@ Ringin Idi	Matazu	Katsina	12.186	7.639	2	Rinjin Idi;Rigin Idi
 Rikaka	Rabah	Sokoto	13.215	5.674	2	
 Ungwan Rijiya	Makarfi	Kaduna	11.345	7.910	2	Mai-Rijiya
 Rikina	Dange-Shuni	Sokoto	12.980	5.293	2	Rikeni
-Rijau	Rijau	Niger	11.108	5.261	2	
 Rinjim Gani	Toro	Bauchi	10.061	9.097	2	
 Rinaiyi	Bagudo	Kebbi	11.553	4.367	2	
 Richa	Bokkos	Plateau	9.133	8.867	2	Richu
 Riba	Hawul	Borno	10.382	12.240	2	
 Ungwan Rimi	Dawakin Tofa	Kano	12.159	8.225	2	Unguwar Rimi
 Ungwan Rini	Arewa Dandi	Kebbi	12.566	3.970	2	
-Ribadu	Funakaye	Gombe	10.650	11.330	3	
 Ungwan Rimi	Maru	Zamfara	11.302	6.485	2	
 Tunga Rimi	Bagudo	Kebbi	11.288	4.186	2	
+Riti	Wukari	Taraba	7.908	9.622	2	
 Ribadu	Askira-Uba	Borno	10.655	13.169	2	
 Rinji Kori	Kware	Sokoto	13.189	5.259	2	Runji
 Rikaka Magaji	Rabah	Sokoto	13.203	5.660	2	
@@ -41,7 +56,6 @@ Rikoka	Igabi	Kaduna	10.744	7.809	2
 Tungan-Rihi	Fakai	Kebbi	11.514	4.912	2	
 Rijia	Shinkafi	Zamfara	13.070	6.354	2	
 Rijia Mata	Zango	Katsina	12.909	8.658	2	
-Ringim	Ringim	Jigawa	12.151	9.162	2	
 Tunga-Rini	Gwadabawa	Sokoto	13.326	5.278	2	
 Rikobolo	Agwara	Niger	10.802	4.699	2	
 Ricifa	Soba	Kaduna	11.166	7.953	2	Richifa
@@ -49,24 +63,15 @@ Rinai	Shagari	Sokoto	12.588	5.247	2	Rinaye
 Tunga Rini	Bagudo	Kebbi	11.419	4.139	2	
 Rumau	Kajuru	Kaduna	10.410	7.770	2	Rimau
 Risibo	Igabi	Kaduna	10.852	7.794	2	
-Riban Garmu	Kirfi	Bauchi	10.525	10.455	3	
-Riyom	Jos South	Plateau	9.633	8.767	2	
 Rufai	Awe	Nasarawa	8.367	9.117	2	Ribi
 Sabon Rijia	Bunza	Kebbi	12.192	3.724	2	
 Rijiya Mata	Zango	Katsina	12.909	8.658	2	
-Ribah	Wasagu-Danko	Kebbi	11.397	5.487	2	
 Rikoto	Zuru	Kebbi	11.440	5.218	2	
 Rinukunu	Borsari	Yobe	12.842	11.094	2	
 Ringim	Ganjuwa	Bauchi	10.688	9.682	2	
 Rigacikun	Igabi	Kaduna	10.632	7.473	2	Rigacikum;Rigachikum;Rigachikun
 Rikofe	Ngaski	Kebbi	10.649	4.738	2	
 Kagara Rina	Goronyo	Sokoto	13.393	5.600	2	
-River Side Nursery & Primary School	Enugu East	Enugu	6.480	7.521	0	
-Ogbete River Primary School	Enugu North	Enugu	6.431	7.479	0	
-Penton Rise	Ibadan North	Oyo	7.418	3.901	0	
-Ririwai Primary Health Centre	Doguwa	Kano	10.750	8.728	0	
-Rigana Primary Health Centre	Kunchi	Kano	12.378	8.210	0	
-Rimaye Health Post	Bichi	Kano	12.267	8.201	0	
 Rigar Rijiya	Bagwai	Kano	12.106	8.078	2	
 Riruwai	Doguwa	Kano	10.743	8.737	2	Ririwai
 Rigada	Doguwa	Kano	10.667	8.643	2	Ragada
@@ -83,25 +88,13 @@ Garin Mai Rijiya	Bayo	Borno	10.341	11.622	2
 Riba Fulani	Hawul	Borno	10.385	12.247	2	
 Rimberi	Abadam	Borno	13.330	13.129	2	
 Rigan Lamido Usman	Kwaya Kusar	Borno	10.607	11.800	2	
-Kaduna - Rigasa	Igabi	Kaduna	10.549	7.355	0	
 Rigan Fulani	Biu	Borno	10.912	12.177	2	
-Ringim	Ringim	Jigawa	12.158	9.168	0	
-Kogum River	Jema'A	Kaduna	9.248	8.228	0	
-Okada riders	Municipal Area Council	FCT Abuja	9.046	7.537	0	
-Right way Clinic	Uvwie	Delta	5.549	5.776	0	
 Riri Kura	Monguno	Borno	12.471	13.474	2	
 Riri Gana	Monguno	Borno	12.469	13.477	2	
-Riser Nursery and Primary School	Uvwie	Delta	5.566	5.783	0	
-Riser Playground	Uvwie	Delta	5.566	5.783	0	
-Rivon Clinic	Obio/Akpor	Rivers	4.841	7.034	0	
-Rivet	Oshodi/Isolo	Lagos	6.541	3.310	0	
 Rijiya	Isa	Sokoto	13.188	6.325	2	
 Rinaye	Gwandu	Kebbi	12.421	4.680	2	
 Rijiya Zobe	Binji	Sokoto	13.146	4.619	2	
 Rijia A	Sokoto South	Sokoto	13.055	5.244	2	
-Rimai Model Primary School	Kankia	Katsina	12.320	7.863	0	
-Rijana	Kachia	Kaduna	10.049	7.376	0	
-PHC Rinin Tawaye	Sokoto North	Sokoto	13.064	5.243	0	
 Rinjin Malam	Kiru	Kano	11.701	8.087	2	Ringin Mauam
 Rinji	Kiru	Kano	11.694	8.167	2	
 Unguwar Rimi	Kiru	Kano	11.510	8.175	2	
@@ -110,7 +103,6 @@ Rinji	Tsanyawa	Kano	12.403	8.072	2
 Rimaye	Bichi	Kano	12.268	8.199	2	Rumaye
 Ridawa Cikin Gari	Kunchi	Kano	12.455	8.349	2	
 Rigar Tela	Bebeji	Kano	11.463	8.303	2	
-Rimin Daddo	Kura	Kano	11.768	8.429	3	
 Rimi	Garum Mallam	Kano	11.699	8.410	2	
 Ringimawa Chikin Gari	Garum Mallam	Kano	11.666	8.415	2	Ringimawa
 Rimin Kwarya	Kura	Kano	11.811	8.432	2	
@@ -124,55 +116,247 @@ Riji	Warawa	Kano	11.887	8.841	2
 Dusten Jijir Bakin Rimi	Gaya	Kano	11.898	8.963	2	
 Rigar Duka	Kura	Kano	11.798	8.441	2	
 Ban Rimaye	Ajingi	Kano	11.922	9.146	2	
-Rimi	Sumaila	Kano	11.385	8.999	3	
 Riyi	Sumaila	Kano	11.488	8.858	2	
 Rimi Uku	Rano	Kano	11.549	8.571	2	
-Rigange primary heath center	Larmurde	Adamawa	9.574	11.761	0	
-Ribadu Dispensary	Askira-Uba	Borno	10.648	13.168	0	
-General Hospital Ribah	Wasagu-Danko	Kebbi	11.402	5.470	0	
-Rivers Transport Company RTC	Port-Harcourt	Rivers	4.817	7.007	0	
 Kadade Rimi	Toro	Bauchi	10.455	8.824	2	
-Oni and Sons Memorial Hospital, (Adeoyo) Ring Road, Ibadan	Ibadan South West	Oyo	7.362	3.862	0	
-Jama'a Hospital Rikkos	Jos North	Plateau	9.916	8.900	0	
-Rikkos Medical Center	Jos North	Plateau	9.888	8.920	0	
 Rivers State House of Assembly Quarters	Obio/Akpor	Rivers	4.824	7.009	2	
-Barau Dikko Hospital NoBN13 Kinshasha Road Unguwan Rimi Kaduna	Kaduna North	Kaduna	10.534	7.462	0	
-Unguwar Rimi Primary Health Center	Kaduna North	Kaduna	10.527	7.462	0	
-Specialist Hospital No20a Gobarar Road Unguwar Rimi Kaduna	Kaduna North	Kaduna	10.509	7.458	0	
-NNPC Hospital No2 Sultan Road Unguwan Rimi Gra Kaduna	Kaduna North	Kaduna	10.536	7.452	0	
-Primary Haelth Care No1 River Line Road Kabala Coastin	Kaduna North	Kaduna	10.501	7.440	0	
-Rimi Clinic	Kaduna North	Kaduna	10.501	7.443	0	
-Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
-Maraban Rido Primary Health Center	Chikun	Kaduna	10.432	7.529	0	
-Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
-General Hospital Sabon Tasha Down The Market Road Maraban Rido	Chikun	Kaduna	10.426	7.533	0	
-Rido Primary Health Center	Chikun	Kaduna	10.509	7.475	0	
-Primary Health Care Off Sarki Street Opp Bahago School Rido	Chikun	Kaduna	10.401	7.498	0	
-Primary Health Care Tudun Wada Road Rido	Chikun	Kaduna	10.399	7.508	0	
-Primary Health Building Dadiluwi Ilaje Riverine	Badagry	Lagos	6.404	3.029	0	
-Primary Health Center Ese Ofin Riverine	Ojo	Lagos	6.444	3.147	0	
-Risaaj Hospital And Medicure	Mushin	Lagos	6.516	3.344	0	
-Shalom Riyyah Hospital And Maternity	Amuwo Odofin	Lagos	6.468	3.242	0	
-Irede Primary Health Center Riverine	Amuwo Odofin	Lagos	6.448	3.261	0	
-Jim-Ris Filling Station	Iwo	Osun	7.653	4.207	0	
-RIMIN KEBE SPECIALI PRIMARY SCHOOL	Ungongo	Kano	12.046	8.570	0	
-KHULAFA'U RRASHIDIN RIDWAN IBRAHIM ACADEMY	Gwale	Kano	11.961	8.466	0	
-ASHABUL KAHFI QADIRIYYA RIYADUL JANNAH	Gwale	Kano	11.960	8.476	0	
-Abakaliki Rice Processing Market	Abakaliki	Ebonyi	6.318	8.135	0	
-Oji River	Oji-River	Enugu	6.255	7.269	3	
 Rigal Tchiroma	Dungass	Jigawa	12.827	9.377	2	
-PHC Rinyan	Riyom	Plateau	9.586	8.718	0	
-Rich-Bridge Hotel And Restaurant	Municipal Area Council	FCT Abuja	9.075	7.430	0	
-University of Cross River State, Calabar Main Campus	Calabar South	Cross River	4.931	8.329	0	
+River Park Estate	Municipal Area Council	FCT Abuja	8.981	7.331	2	
+Ringim	Yankwashi	Jigawa	12.679	8.571	2	
+Rijiya	Gusau	Zamfara	12.070	6.747	2	
+Rini	Bakura	Zamfara	12.714	6.059	2	
+Rimawa	Goronyo	Sokoto	13.409	5.978	2	
+Rikoto	Zuru	Kebbi	11.453	5.246	2	
+Ribah Machika	Wasagu-Danko	Kebbi	11.411	5.455	2	
+Rigasa	Igabi	Kaduna	10.542	7.327	2	
+Rimau	Kajuru	Kaduna	10.430	7.741	2	
+Richifa	Soba	Kaduna	11.168	7.946	2	
+Rido	Chikun	Kaduna	10.456	7.525	2	
+Unguwan Rimi	Zangon Kataf	Kaduna	9.580	8.227	2	
+Rimin Dako	Bagwai	Kano	12.099	8.230	2	
+Rimin Gado	Rimin Gado	Kano	11.950	8.254	2	
+Unguwar Rimi	Kumbotso	Kano	11.903	8.577	2	
+Ridawa	Kunchi	Kano	12.470	8.338	2	
+Rikadawa	Madobi	Kano	11.736	8.326	2	
+Rimin Gado	Rimin Gado	Kano	11.924	8.332	2	
+Riruwai	Doguwa	Kano	10.746	8.713	2	
+Ringim	Ringim	Jigawa	12.166	9.110	2	
+Rigar Duka	Kura	Kano	11.818	8.435	2	
+Rijiyar Zaki	Ungongo	Kano	11.984	8.440	2	
+Unguwar Rimi	Tofa	Kano	11.973	8.344	2	
+Rimi	Sumaila	Kano	11.348	9.016	2	
+Riko	Jibia	Katsina	13.143	7.565	2	
+Rimi	Rimi	Katsina	12.892	7.715	2	
+Rinjin Idi	Matazu	Katsina	12.192	7.638	2	
+Rimaye	Kankia	Katsina	12.304	7.854	2	
+Oji-River	Oji-River	Enugu	6.165	7.303	2	
+Rijau	Rijau	Niger	11.043	5.217	2	
+Riyom	Riyom	Plateau	9.556	8.705	2	
+Ribina West	Toro	Bauchi	10.130	9.017	2	
+Ribina East	Toro	Bauchi	10.104	9.123	2	
+Rishi	Toro	Bauchi	10.526	8.894	2	
+Unguwar Rimi	Kaduna North	Kaduna	10.532	7.460	2	
+Dadi Riba	Kaduna North	Kaduna	10.504	7.431	2	
+Rigachikun	Igabi	Kaduna	10.615	7.504	2	
+Rijia B	Sokoto South	Sokoto	13.043	5.242	2	
+Rimawa	Goronyo	Sokoto	13.492	5.899	2	Yerimawa|Yirimawa
+Wuro Ardo Ribadu	Maiha	Adamawa	10.038	13.067	2	
+Uran Ringa	Rafi	Niger	10.450	6.467	2	
+Ungwan Rina	Shendam	Plateau	8.683	9.473	2	Ungwanrina
+Ungwan Rimi	Tofa	Kano	11.973	8.331	2	
+Ung Rimi	Kumbotso	Kano	11.911	8.570	2	Ungwan Rimi
+Ungwan Rimi	Kiru	Kano	11.517	8.158	2	
+Ungwan Rimi	Wamba	Nasarawa	9.007	8.599	2	
+Ungwan Rimi	Obi	Nasarawa	8.457	8.683	2	
+Ungwan Liman Riyawa	Chikun	Kaduna	10.683	7.200	2	
+Ukpah-Ribo	Bekwarra	Cross River	6.626	8.916	2	
+Tunga Rimi	Bagudo	Kebbi	11.293	4.181	2	
+Tugan Rigia	Agwara	Niger	10.583	4.467	2	
+Sabon Riga	Misau	Bauchi	11.483	10.633	2	
+Riyi	Sumaila	Kano	11.460	8.865	2	
+Riwo	Zuru	Kebbi	11.347	5.177	2	
+Riuka	Giwa	Kaduna	10.967	7.183	2	
+Ritafi	Giwa	Kaduna	11.127	6.994	2	
+Rishi	Kachia	Kaduna	9.755	7.331	2	
+Ririwan Dalma	Toro	Bauchi	10.283	8.978	2	
+Riri	Lafia	Nasarawa	8.656	8.235	2	
+Rirem Tufa	Hong	Adamawa	10.290	12.775	2	
+Ripo	Agaie	Niger	9.025	6.442	2	
+Ungwan Zaria	Akwanga	Nasarawa	9.016	8.295	2	Ancho|Rinze
+Rinjim Gaini	Toro	Bauchi	10.062	9.093	2	Rin gin Gani|Rinjim Gani
+Rinji	Sumaila	Kano	11.435	8.934	2	
+Rini	Bakura	Zamfara	12.687	6.040	2	
+Ringiya	Sumaila	Kano	11.245	9.010	2	
+Ringim	Yankwashi	Jigawa	12.655	8.544	2	
+Ringari	Jema'A	Kaduna	9.569	8.334	2	
+Ringa	Alkaleri	Bauchi	10.060	10.367	2	
+Rinaye	Shagari	Sokoto	12.588	5.247	2	Rinai
+Rimin Zakara	Ungongo	Kano	11.996	8.452	2	
+Rimiel	Mashi	Katsina	13.066	8.150	2	
+Rimi	Kiyawa	Jigawa	11.816	9.673	2	
+Rimi	Chikun	Kaduna	10.516	6.937	2	
+Rimi	Lere	Kaduna	10.298	8.548	2	
+Riman Taini	Shanono	Kano	11.994	7.953	2	
+Rikwa	Giwa	Kaduna	10.988	7.151	2	
+Rikoto	Zuru	Kebbi	11.456	5.220	2	
+Rikoka	Igabi	Kaduna	10.740	7.818	2	
+Rikochi	Kubau	Kaduna	10.995	8.333	2	
+Rikau	Igabi	Kaduna	10.850	7.250	2	
+Rikaka	Rabah	Sokoto	13.207	5.667	2	Tumbulla
+Rikadawa	Madobi	Kano	11.728	8.312	2	
+Rijiya	Maiha	Adamawa	10.015	13.116	2	
+Rijian Makabe	Dandi	Kebbi	11.799	3.804	2	
+Rijia	Kogi	Kogi	8.392	6.874	2	
+Riji	Rabah	Sokoto	13.084	5.493	2	
+Riji	Gwarzo	Kano	11.928	7.957	2	
+Riji	Gombi	Adamawa	10.056	12.290	2	
+Riji	Song	Adamawa	9.995	12.334	2	
+Rija	Akwanga	Nasarawa	9.030	8.369	2	
+Rigyasa	Igabi	Kaduna	10.530	7.379	2	
+Rigwallo	Kauru	Kaduna	10.163	8.261	2	
+Rigoji	Kafur	Katsina	11.702	7.746	2	
+Rigansu	Ganjuwa	Bauchi	10.687	10.244	2	
+Rigan Mallam Shehu	Darazo	Bauchi	10.923	10.451	2	
+Riga	Gboko	Benue	7.410	8.709	2	
+Rifi	Wamba	Nasarawa	8.983	8.583	2	
+Rifan	Jos East	Plateau	9.782	9.017	2	
+Ridengbara	Toto	Nasarawa	8.266	7.025	2	
+Ricket	Ona Ara	Oyo	7.145	4.032	2	
+Ribochi	Toto	Nasarawa	8.444	7.007	2	
+Ribiribi	Shelleng	Adamawa	9.918	12.069	2	
+Ribina	Toro	Bauchi	10.095	9.069	2	
+Ribe	Bungudu	Zamfara	12.183	6.767	2	
+Riban	Kauru	Kaduna	9.994	8.595	2	
+Ribako	Soba	Kaduna	10.687	7.892	2	
+Ribadu	Kwaya Kusar	Borno	10.551	11.885	2	
+Ribadu	Fufore	Adamawa	9.297	12.710	2	
+Ribadu	Jada	Adamawa	8.565	12.134	2	
+Ribado	Shani	Borno	10.324	11.911	2	
+Okerimi-Oro	Irepodun	Kwara	8.251	4.887	2	Oke-Rimi|Okerimi Oro
+Oji River Settlement	Oji-River	Enugu	6.239	7.282	2	
+Moroa River Station	Akwanga	Nasarawa	9.027	8.196	2	Moroa|Moroa Station
+Mai Rimi	Lere	Kaduna	10.346	8.616	2	
+Kurmin Rizga	Kauru	Kaduna	9.880	8.534	2	
+Kogum River Station	Jema'A	Kaduna	9.251	8.226	2	
+Kagara Rima	Goronyo	Sokoto	13.393	5.600	2	Kagara Rina
+Imo River	Ukwa West	Abia	4.885	7.174	2	Imo-River
+River Atuwara	Ado Odo/Ota	Ogun	6.682	3.143	2	Atuwara
+Gaklang	Shendam	Plateau	8.912	9.757	2	Rinlong
+Dutsen Rimi	Wase	Plateau	8.949	9.909	2	Dutsin Rimi|Rimi
+Dan Rimi	Kafur	Katsina	11.575	7.690	2	
+Birnin Riliy	Wase	Plateau	9.012	10.005	2	Birnin Rijiy|Rijiy
+Barakin Yelwa Rishi	Toro	Bauchi	10.458	8.950	2	
+Bakin-Rijiya	Lafia	Nasarawa	8.523	8.618	2	Barikin Riya|BarikinRiya
+Encha	Sanga	Kaduna	9.134	8.441	2	Bakin Riga
+Bakin Riga	Akwanga	Nasarawa	9.030	8.292	2	
+Rimi	Kaduna North	Kaduna	10.523	7.462	2	
+Ungwan Rimi	Kaduna North	Kaduna	10.529	7.461	2	
+Sabon Gari Rimi	Minjibir	Kano	12.216	8.662	2	
+Rimaye	Ungongo	Kano	12.084	8.554	2	
+Rimi	Kokona	Nasarawa	8.894	7.886	2	
+Rijiya	Hong	Adamawa	10.311	13.143	2	
+Gross River Mill	Obubra	Cross River	5.998	8.316	2	Cross River Mills
+Rintowa	Dandi	Kebbi	11.672	3.756	2	
+Riga Buwayi	Arewa Dandi	Kebbi	12.637	3.893	2	
+Rijiyan Danduna	Bagwai	Kano	12.072	8.091	2	
+Rimi	Gezawa	Kano	12.000	8.779	2	
+Rijiya Kufar	Dutsi	Katsina	12.931	8.142	2	
+Ringin Bauchi	Bindawa	Katsina	12.594	7.979	2	
+Rimaya	Kankia	Katsina	12.317	7.861	2	
+Rijin Gora	Matazu	Katsina	12.174	7.687	2	
+Gidan Sarikan-Ringa	Rafi	Niger	10.367	6.441	2	
+Rini	Tangaza	Sokoto	13.311	4.948	2	
+Kasa Riji	Gwarzo	Kano	11.913	7.900	2	
+Rimi	Faskari	Katsina	11.792	7.083	2	
+Rimin	Karaye	Kano	11.738	7.962	2	
+Ungwan Rimi	Danja	Katsina	11.530	7.426	2	
+Ungwan Ringi	Rogo	Kano	11.553	7.784	2	
+Ungwan Rimi	Sabuwa	Katsina	11.514	7.092	2	
+Ungwan Rimi	Makarfi	Kaduna	11.349	7.874	2	
+Ungwan Rimi	Sabon Gari	Kaduna	11.186	7.690	2	
+Ungwan Ribabiyu	Zaria	Kaduna	11.004	7.732	2	
+Riga	Shanga	Kebbi	11.081	4.850	2	
+Rini	Rijau	Niger	11.264	4.836	2	
+Rijiya Buture	Rijau	Niger	11.161	4.910	2	
+German I	Warri North	Delta	5.848	5.156	2	Benin River
+Riabome	Sapele	Delta	5.749	5.692	2	
+River Gwamaze	Arewa Dandi	Kebbi	12.636	4.081	2	
+Rituagbene	Southern Ijaw	Bayelsa	4.538	5.724	2	Jituagbene
+Rinji	Rimin Gado	Kano	11.997	8.225	2	
+Ringin Mauam	Kiru	Kano	11.699	8.086	2	
+Ringimawa	Garum Mallam	Kano	11.662	8.422	2	
+Rimin Nakuda	Bebeji	Kano	11.526	8.298	2	
+Na’ ria	Garko	Kano	11.486	8.789	2	
+Richardgbene	Patani	Delta	5.138	6.118	2	
+River Du	Anambra East	Anambra	6.439	6.963	2	
+Rimin Gado	Rimin Gado	Kano	11.932	8.276	2	Agbegbe Ijoba Ibile Rimin Gado
+Anka	Anka	Zamfara	11.961	5.987	2	Agbegbe Ijoba Ibile Anka|Anka Local Government Area|an ka (nai ji li ya)|an ka (ni ri li ya)
+Rimi	Rimi	Katsina	12.839	7.693	2	Agbegbe Ijoba Ibile Rimi|Rimi Local Government Area
+Ringim	Ringim	Jigawa	12.186	9.104	2	Agbegbe Ijoba Ibile Ringim|Ringim Local Government Area
+Riyom	Riyom	Plateau	9.568	8.685	2	Agbegbe Ijoba Ibile Riyom|Riyom Local Government Area
+Rijau	Rijau	Niger	11.099	5.188	2	Agbegbe Ijoba Ibile Rijau|Rijau Local Government Area
+Ribadu	Maiha	Adamawa	9.650	13.126	2	
+Tudun Rijiya	Fika	Yobe	11.178	11.203	2	
+Tudun Rigiya	Nafada	Gombe	11.164	11.193	2	
+Ringim	Yankwashi	Jigawa	12.681	8.558	2	
+Rimaye	Kankia	Katsina	12.310	7.835	2	
+Ribah Machika	Wasagu-Danko	Kebbi	11.417	5.466	2	
+Rikoto	Zuru	Kebbi	11.451	5.266	2	
+Rimawa	Goronyo	Sokoto	13.422	5.948	2	
+Rimau	Kajuru	Kaduna	10.434	7.759	2	
+Unguwan Rimi	Zangon Kataf	Kaduna	9.583	8.201	2	
+Rido	Chikun	Kaduna	10.457	7.512	2	
+Rigachikun	Igabi	Kaduna	10.612	7.516	2	
+Rijiyar Zaki	Ungongo	Kano	11.994	8.431	2	
+Riga	Katsina-Ala	Benue	7.356	9.344	2	
+Rigom	Katsina-Ala	Benue	7.418	9.477	2	
+Rigom	Gboko	Benue	7.453	8.866	2	
+Rimandi	Yusufari	Yobe	13.164	10.827	2	
+Ungwan Ribushi	Shiroro	Niger	9.786	6.600	2	
+Rigaji	Jada	Adamawa	8.733	12.492	2	
+Ungwan Rimi	Sanga	Kaduna	9.153	8.482	2	
+Ungwan Rimi	Zangon Kataf	Kaduna	9.584	8.226	2	
+Rihu	Demsa	Adamawa	9.298	11.884	2	
+Gidan Rimi	Demsa	Adamawa	9.316	11.815	2	
+Lambar Rimi	Rimi	Katsina	12.843	7.664	2	
+Rimi	Alkaleri	Bauchi	9.558	10.510	2	
+Rijiya	Akko	Gombe	9.946	10.985	2	
+Ungwar Mai Rigima	Karim Lamido	Taraba	9.359	10.994	2	
+Ribway	Ovia South-West	Edo	6.683	5.258	2	
+Tiba-Risi	Ijebu North	Ogun	7.055	4.192	2	
+Ritarun	Ede South	Osun	7.644	4.502	2	
+Aba Risawe	Ilesha West	Osun	7.629	4.696	2	
+Kabawo Riko	Fufore	Adamawa	9.313	12.770	2	
+Agwan-Rifi	Wamba	Nasarawa	8.974	8.603	2	
+River Omoleyin	Oyun	Kwara	8.229	4.725	2	RiverOmoleyin
+River Eleyoka	Oyun	Kwara	8.209	4.734	2	RiverEleyoka
+River Ele	Oyun	Kwara	8.160	4.631	2	RiverEle
+River Abikoko	Oyun	Kwara	8.132	4.589	2	RiverAbikoko
+River Afidiwo	Asa	Kwara	8.153	4.503	2	RiverAfidiwo
+River Erinle	Surulere	Oyo	8.070	4.525	2	RiverErinle
+River Powa	Odo Otin	Osun	8.042	4.629	2	RiverPowa
+Risha	Akwanga	Nasarawa	8.979	8.288	2	
+River Oju	Ifelodun	Kwara	8.419	4.774	2	RiverOju
+River Jilayi	Fufore	Adamawa	8.958	12.604	2	RiverJilayi
+River Kwenshmenu	Ganye	Adamawa	8.437	12.100	2	RiverKwenshmenu
+River Janvani	Ganye	Adamawa	8.443	12.299	2	RiverJanvani
+River Dadiri	Ganye	Adamawa	8.454	12.149	2	RiverDadiri
+Bokile	Song	Adamawa	9.694	12.445	2	River Bokile|RiverBokile
+Riberibe	Girei	Adamawa	9.568	12.396	2	
+Ribadu	Song	Adamawa	9.834	12.872	2	
+Risagu	Toto	Nasarawa	8.162	7.312	2	
+Rigiji	Nasarawa	Nasarawa	8.391	7.433	2	
+Rije	Municipal Area Council	FCT Abuja	8.881	7.300	2	
+Rimi	Nasarawa Egon	Nasarawa	8.638	8.286	2	
+Riko	Aiyedade	Osun	7.578	4.343	2	
+Bakin-Riga	Akwanga	Nasarawa	9.101	8.451	2	
 Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.025	7.476	1	Ring Road 1
 Mohamadu Ribadu	Municipal Area Council	FCT Abuja	9.052	7.510	1	
 Ring Road	Lagos Island	Lagos	6.459	3.401	1	Lagos Island Inner Ring Road
 Ring Road	Lagos Island	Lagos	6.457	3.407	1	Lagos Island Inner Ring Road
 Risikat Majaro Street	Alimosho	Lagos	6.651	3.296	1	
-Ring Road	Lagos Island	Lagos	6.444	3.406	1	Lagos Island Inner Ring Road
 Rivoc Road	Port-Harcourt	Rivers	4.816	7.035	1	
 ABU Ring road	Sabon Gari	Kaduna	11.153	7.650	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.041	7.458	1	Ring Road 1
 Ring Road	Ibadan South West	Oyo	7.376	3.858	1	
 Ribadu Camp Road	Kaduna North	Kaduna	10.509	7.450	1	
 Rimi Road	Kaduna North	Kaduna	10.524	7.459	1	
@@ -180,15 +364,11 @@ Rimi Drive	Kaduna North	Kaduna	10.526	7.460	1
 River Karama Road	Kaduna North	Kaduna	10.555	7.465	1	
 River Close	Kaduna North	Kaduna	10.541	7.455	1	
 Ribway close	Oredo	Edo	6.345	5.608	1	
-Ring Road	Lagos Island	Lagos	6.465	3.395	1	Lagos Island Inner Ring Road
 Adeniji Adele Road	Lagos Island	Lagos	6.456	3.381	1	Lagos Island Inner Ring Road
 Ricca Street	Lagos Island	Lagos	6.454	3.395	1	
 New Marina Road	Lagos Island	Lagos	6.442	3.402	1	Lagos Island Inner Ring Road
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.031	7.466	1	Ring Road 1
-New Marina Road	Lagos Island	Lagos	6.448	3.393	1	Lagos Island Inner Ring Road
-New Marina Road	Lagos Island	Lagos	6.454	3.382	1	Lagos Island Inner Ring Road
 Riskat Ojikutu Street	Ikeja	Lagos	6.636	3.350	1	
-RIMI MARKET ROAD	Kano Municipal	Kano	11.995	8.526	1	
+Rimi Market Road	Kano Municipal	Kano	11.995	8.526	1	
 River Niger Street	Municipal Area Council	FCT Abuja	9.101	7.500	1	
 Imo River Street	Municipal Area Council	FCT Abuja	9.100	7.498	1	
 Rio Negro Street	Municipal Area Council	FCT Abuja	9.094	7.498	1	
@@ -205,21 +385,15 @@ River Jordan Street	Municipal Area Council	FCT Abuja	9.094	7.502	1
 Mai Rigar Fata Street	Gwale	Kano	11.991	8.497	1	
 Ribadu Road	Tarauni	Kano	11.972	8.537	1	
 Richard Aviomoh Avenue	Oredo	Edo	6.290	5.594	1	
-Plateau riders	Jos North	Plateau	9.922	8.886	0	
 Ring Road	Jibia	Katsina	12.977	7.552	1	
 Ring Road	Muhammadu Dikko Stadium	Katsina	12.999	7.647	1	
-Ring Road	Muhammadu Dikko Stadium	Katsina	12.982	7.641	1	
 Abba Musa Rimi Way	Batagarawa	Katsina	12.944	7.618	1	
 Ring Road	Lagos Island	Lagos	6.465	3.394	1	Lagos Island Inner Ring Road
-Ring Road	Lagos Island	Lagos	6.454	3.409	1	Lagos Island Inner Ring Road
 River Pitoka Close	Municipal Area Council	FCT Abuja	9.087	7.489	1	
 FJHH+V7Q, jalala ring road, Ole odo, Ilorin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.478	4.629	1	
 Ring Road	Alimosho	Lagos	6.658	3.270	1	
 Lippic River Vally	Oredo	Edo	6.321	5.583	1	
 ring road	Jos North	Plateau	9.935	8.882	1	
-Ring Road	Ibadan South West	Oyo	7.350	3.877	1	
-Ring Road	Ibadan South West	Oyo	7.373	3.859	1	
-Ring Road	Ibadan South West	Oyo	7.353	3.875	1	
 River Close	Enugu East	Enugu	6.467	7.495	1	
 Ristela Close	Enugu North	Enugu	6.443	7.507	1	
 Imo River Street	Enugu East	Enugu	6.482	7.519	1	
@@ -245,36 +419,15 @@ Riga fada tusku street	Kumbotso	Kano	11.911	8.518	1
 Rimin Dako Road	Tofa	Kano	12.066	8.269	1	
 Saleh Rimin Gado street	Tarauni	Kano	11.974	8.561	1	
 River Layout	Aba South	Abia	5.113	7.379	1	
-Rimin-Bai Health Post	Bagwai	Kano	12.063	8.197	0	
-Rimin Dako Health Post	Bagwai	Kano	12.085	8.254	0	
-Unguwar Rimi Health Post	Tofa	Kano	11.973	8.333	0	
-Rinji Health Post	Kabo	Kano	11.880	8.163	0	
-Rimin Gado Primary Health Centre	Rimin Gado	Kano	11.972	8.248	0	
 Rinji street	Kumbotso	Kano	11.891	8.502	1	
-Rinji Health Post	Albasu	Kano	11.693	9.004	0	
-Ridawa Health Post	Kunchi	Kano	12.455	8.347	0	
-Rijiyar Lemo Maternal and Child Health	Fagge	Kano	12.055	8.477	0	
-Rijiyar Lemo Primary Health Centre	Fagge	Kano	12.047	8.481	0	
 Risikat Adejumoke Close	Eti Osa	Lagos	6.484	3.588	1	
-Alganari Dispensary	Zaki	Bauchi	12.389	10.387	0	Mainako Rimindi
-Rinjin Gaini Maternity	Toro	Bauchi	10.062	9.098	0	
-Rinjin Gingin Dispensary	Toro	Bauchi	10.225	9.259	0	
-Rinji Dispensary	Toro	Bauchi	10.060	9.096	0	
-Rinjin Murur Dispensary	Toro	Bauchi	10.131	9.274	0	
-Kowa Health Clinic Rimin Zayam	Toro	Bauchi	10.140	9.290	0	
-Ririwan Dalma Dispensary	Toro	Bauchi	10.282	8.977	0	
-Rimin Zdyan Dispensary	Toro	Bauchi	10.139	9.283	0	
-Ring Road	Lagos Island	Lagos	6.463	3.384	1	Lagos Island Inner Ring Road
-Marina Road	Lagos Island	Lagos	6.455	3.382	1	Lagos Island Inner Ring Road
 Richfield Avenue	Oshodi/Isolo	Lagos	6.552	3.321	1	
 Richmond Pearl Road	Eti Osa	Lagos	6.452	3.487	1	
 Paulson Ridge Street	Eti Osa	Lagos	6.465	3.584	1	
 Rita Adejimi Street	Alimosho	Lagos	6.638	3.268	1	
-Unguwan Rimi Market	Kaduna North	Kaduna	10.528	7.465	0	
 Ribadu Road	Eti Osa	Lagos	6.446	3.418	1	
 Abba Musa Rimi Road	Kaduna North	Kaduna	10.525	7.452	1	
 Arthur Richard Street	Oshimili South	Delta	6.181	6.748	1	
-Ring Road	Ibadan South West	Oyo	7.359	3.871	1	
 Dr. Richard Nyong Close	Obio/Akpor	Rivers	4.904	6.910	1	
 River Layout	Aba South	Abia	5.115	7.378	1	
 Ring Road 3	Uyo	Akwa Ibom	4.999	7.899	1	
@@ -286,22 +439,10 @@ Ring Road	Batagarawa	Katsina	12.957	7.577	1
 Ring Road	Batagarawa	Katsina	12.940	7.590	1	
 Bauchi Ring Road	Jos North	Plateau	9.902	8.898	1	
 Bauchi Ring Road	Jos North	Plateau	9.899	8.894	1	
-Bauchi Ring Road	Jos North	Plateau	9.912	8.912	1	
-Bauchi Ring Road	Jos North	Plateau	9.905	8.911	1	
 Ring Road 3	Ibesikpo Asutan	Akwa Ibom	4.989	7.941	1	
 Costa Rica Street	Municipal Area Council	FCT Abuja	9.110	7.361	1	
 River Road	Ovia North-East	Edo	6.450	5.609	1	
-Rikadawa Health Post	Madobi	Kano	11.734	8.309	0	
-Rigar Ganji Primary Health Center	Misau	Bauchi	11.486	10.498	0	
-Primary Health Center Rishi	Toro	Bauchi	10.484	8.940	0	
-Rinjin Dispensary	Toro	Bauchi	10.319	8.979	0	
-Rijiyan Dispensary	Bauchi	Bauchi	10.239	9.625	0	
-Ripus Hospital	Yenegoa	Bayelsa	4.937	6.319	0	
 riverbank road	Abaji	FCT Abuja	9.213	6.845	1	
-Rimin Zayam Maternity	Toro	Bauchi	10.141	9.291	0	
-Ribabu Health Post	Fufore	Adamawa	9.645	12.861	0	
-rimary Health Clinic	Geidam	Yobe	12.893	11.929	0	
-rimary Health Clinic	Gujba	Yobe	11.504	11.934	0	
 Ring Road 2	Municipal Area Council	FCT Abuja	9.107	7.426	1	
 River Road	Lagelu	Oyo	7.429	3.985	1	
 Malam Kuri Riyal Road	Gombe	Gombe	10.263	11.168	1	
@@ -310,54 +451,89 @@ Ribadu Road	Kaduna North	Kaduna	10.509	7.450	1
 Egemole-Ubahadara-Amagu Ring Rd	Oru East	Imo	5.790	6.932	1	
 Rivers Street	Obio/Akpor	Rivers	4.860	6.958	1	
 Richard Street	Ikpoba-Okha	Edo	6.223	5.631	1	
-Rimi Drive	Kaduna North	Kaduna	10.520	7.459	1	
 Ring Road 2	Municipal Area Council	FCT Abuja	9.002	7.425	1	
 Ring Road 2	Municipal Area Council	FCT Abuja	9.001	7.427	1	
-Rids Plaza	Municipal Area Council	FCT Abuja	9.054	7.441	0	
-Rimi Road	Kaduna North	Kaduna	10.537	7.460	1	
-Richmond Pearl Road	Eti Osa	Lagos	6.455	3.483	1	
 Olori Risikat Bashua Street	Ìkòròdú	Lagos	6.630	3.506	1	
-River Park Estate	Municipal Area Council	FCT Abuja	8.981	7.331	2	
 Ring Road 2	Municipal Area Council	FCT Abuja	8.974	7.496	1	
+River Side Nursery & Primary School	Enugu East	Enugu	6.480	7.521	0	
+Ogbete River Primary School	Enugu North	Enugu	6.431	7.479	0	
+Penton Rise	Ibadan North	Oyo	7.418	3.901	0	
+Ririwai Primary Health Centre	Doguwa	Kano	10.750	8.728	0	
+Rigana Primary Health Centre	Kunchi	Kano	12.378	8.210	0	
+Rimaye Health Post	Bichi	Kano	12.267	8.201	0	
+Kaduna - Rigasa	Igabi	Kaduna	10.549	7.355	0	
+Ringim	Ringim	Jigawa	12.158	9.168	0	
+Kogum River	Jema'A	Kaduna	9.248	8.228	0	
+Okada riders	Municipal Area Council	FCT Abuja	9.046	7.537	0	
+Right way Clinic	Uvwie	Delta	5.549	5.776	0	
+Riser Nursery and Primary School	Uvwie	Delta	5.566	5.783	0	
+Riser Playground	Uvwie	Delta	5.566	5.783	0	
+Rivon Clinic	Obio/Akpor	Rivers	4.841	7.034	0	
+Rivet	Oshodi/Isolo	Lagos	6.541	3.310	0	
+Rimai Model Primary School	Kankia	Katsina	12.320	7.863	0	
+Rijana	Kachia	Kaduna	10.049	7.376	0	
+PHC Rinin Tawaye	Sokoto North	Sokoto	13.064	5.243	0	
+Rigange primary heath center	Larmurde	Adamawa	9.574	11.761	0	
+Ribadu Dispensary	Askira-Uba	Borno	10.648	13.168	0	
+General Hospital Ribah	Wasagu-Danko	Kebbi	11.402	5.470	0	
+Rivers Transport Company RTC	Port-Harcourt	Rivers	4.817	7.007	0	
+Oni and Sons Memorial Hospital, (Adeoyo) Ring Road, Ibadan	Ibadan South West	Oyo	7.362	3.862	0	
+Jama'a Hospital Rikkos	Jos North	Plateau	9.916	8.900	0	
+Rikkos Medical Center	Jos North	Plateau	9.888	8.920	0	
+Barau Dikko Hospital NoBN13 Kinshasha Road Unguwan Rimi Kaduna	Kaduna North	Kaduna	10.534	7.462	0	
+Unguwar Rimi Primary Health Center	Kaduna North	Kaduna	10.527	7.462	0	
+Specialist Hospital No20a Gobarar Road Unguwar Rimi Kaduna	Kaduna North	Kaduna	10.509	7.458	0	
+NNPC Hospital No2 Sultan Road Unguwan Rimi Gra Kaduna	Kaduna North	Kaduna	10.536	7.452	0	
+Primary Haelth Care No1 River Line Road Kabala Coastin	Kaduna North	Kaduna	10.501	7.440	0	
+Rimi Clinic	Kaduna North	Kaduna	10.501	7.443	0	
+Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
+Maraban Rido Primary Health Center	Chikun	Kaduna	10.432	7.529	0	
+Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
+General Hospital Sabon Tasha Down The Market Road Maraban Rido	Chikun	Kaduna	10.426	7.533	0	
+Rido Primary Health Center	Chikun	Kaduna	10.509	7.475	0	
+Primary Health Care Off Sarki Street Opp Bahago School Rido	Chikun	Kaduna	10.401	7.498	0	
+Primary Health Care Tudun Wada Road Rido	Chikun	Kaduna	10.399	7.508	0	
+Primary Health Building Dadiluwi Ilaje Riverine	Badagry	Lagos	6.404	3.029	0	
+Primary Health Center Ese Ofin Riverine	Ojo	Lagos	6.444	3.147	0	
+Risaaj Hospital And Medicure	Mushin	Lagos	6.516	3.344	0	
+Shalom Riyyah Hospital And Maternity	Amuwo Odofin	Lagos	6.468	3.242	0	
+Irede Primary Health Center Riverine	Amuwo Odofin	Lagos	6.448	3.261	0	
+Jim-Ris Filling Station	Iwo	Osun	7.653	4.207	0	
+Rimin Kebe Speciali Primary School	Ungongo	Kano	12.046	8.570	0	
+Khulafa'U Rrashidin Ridwan Ibrahim Academy	Gwale	Kano	11.961	8.466	0	
+Ashabul Kahfi Qadiriyya Riyadul Jannah	Gwale	Kano	11.960	8.476	0	
+Abakaliki Rice Processing Market	Abakaliki	Ebonyi	6.318	8.135	0	
+PHC Rinyan	Riyom	Plateau	9.586	8.718	0	
+Rich-Bridge Hotel And Restaurant	Municipal Area Council	FCT Abuja	9.075	7.430	0	
+University of Cross River State, Calabar Main Campus	Calabar South	Cross River	4.931	8.329	0	
+Plateau riders	Jos North	Plateau	9.922	8.886	0	
+Rimin-Bai Health Post	Bagwai	Kano	12.063	8.197	0	
+Rimin Dako Health Post	Bagwai	Kano	12.085	8.254	0	
+Unguwar Rimi Health Post	Tofa	Kano	11.973	8.333	0	
+Rinji Health Post	Kabo	Kano	11.880	8.163	0	
+Rimin Gado Primary Health Centre	Rimin Gado	Kano	11.972	8.248	0	
+Rinji Health Post	Albasu	Kano	11.693	9.004	0	
+Ridawa Health Post	Kunchi	Kano	12.455	8.347	0	
+Rijiyar Lemo Maternal and Child Health	Fagge	Kano	12.055	8.477	0	
+Rijiyar Lemo Primary Health Centre	Fagge	Kano	12.047	8.481	0	
+Alganari Dispensary	Zaki	Bauchi	12.389	10.387	0	Mainako Rimindi
+Rinjin Gaini Maternity	Toro	Bauchi	10.062	9.098	0	
+Rinjin Gingin Dispensary	Toro	Bauchi	10.225	9.259	0	
+Rinji Dispensary	Toro	Bauchi	10.060	9.096	0	
+Rinjin Murur Dispensary	Toro	Bauchi	10.131	9.274	0	
+Kowa Health Clinic Rimin Zayam	Toro	Bauchi	10.140	9.290	0	
+Ririwan Dalma Dispensary	Toro	Bauchi	10.282	8.977	0	
+Rimin Zdyan Dispensary	Toro	Bauchi	10.139	9.283	0	
+Unguwan Rimi Market	Kaduna North	Kaduna	10.528	7.465	0	
+Rikadawa Health Post	Madobi	Kano	11.734	8.309	0	
+Rigar Ganji Primary Health Center	Misau	Bauchi	11.486	10.498	0	
+Primary Health Center Rishi	Toro	Bauchi	10.484	8.940	0	
+Rinjin Dispensary	Toro	Bauchi	10.319	8.979	0	
+Rijiyan Dispensary	Bauchi	Bauchi	10.239	9.625	0	
+Ripus Hospital	Yenegoa	Bayelsa	4.937	6.319	0	
+Rimin Zayam Maternity	Toro	Bauchi	10.141	9.291	0	
+Ribabu Health Post	Fufore	Adamawa	9.645	12.861	0	
+rimary Health Clinic	Geidam	Yobe	12.893	11.929	0	
+rimary Health Clinic	Gujba	Yobe	11.504	11.934	0	
+Rids Plaza	Municipal Area Council	FCT Abuja	9.054	7.441	0	
 Rijiyar Tsamiya Maternity and  Child Health Clinic	Sandamu	Katsina	12.880	8.273	0	
-Ringim	Ringim	Jigawa	12.159	9.148	2	
-Ringim	Yankwashi	Jigawa	12.679	8.571	2	
-Rijiya	Gusau	Zamfara	12.070	6.747	2	
-Rini	Bakura	Zamfara	12.714	6.059	2	
-Rimawa	Goronyo	Sokoto	13.409	5.978	2	
-Rikina	Dange-Shuni	Sokoto	12.994	5.290	2	
-Rijia A	Sokoto South	Sokoto	13.052	5.244	2	
-Rikoto	Zuru	Kebbi	11.453	5.246	2	
-Ribah Machika	Wasagu-Danko	Kebbi	11.411	5.455	2	
-Rigasa	Igabi	Kaduna	10.542	7.327	2	
-Rimau	Kajuru	Kaduna	10.430	7.741	2	
-Richifa	Soba	Kaduna	11.168	7.946	2	
-Rido	Chikun	Kaduna	10.456	7.525	2	
-Unguwan Rimi	Zangon Kataf	Kaduna	9.580	8.227	2	
-Rimin Dako	Bagwai	Kano	12.099	8.230	2	
-Rimin Gado	Rimin Gado	Kano	11.950	8.254	2	
-Unguwar Rimi	Kumbotso	Kano	11.903	8.577	2	
-Ridawa	Kunchi	Kano	12.470	8.338	2	
-Rikadawa	Madobi	Kano	11.736	8.326	2	
-Rimin Gado	Rimin Gado	Kano	11.924	8.332	2	
-Riruwai	Doguwa	Kano	10.746	8.713	2	
-Ringim	Ringim	Jigawa	12.166	9.110	2	
-Rigar Duka	Kura	Kano	11.818	8.435	2	
-Rijiyar Zaki	Ungongo	Kano	11.984	8.440	2	
-Unguwar Rimi	Tofa	Kano	11.973	8.344	2	
-Rimi	Sumaila	Kano	11.348	9.016	2	
-Riko	Jibia	Katsina	13.143	7.565	2	
-Rimi	Rimi	Katsina	12.844	7.696	2	
-Rimi	Rimi	Katsina	12.892	7.715	2	
-Rinjin Idi	Matazu	Katsina	12.192	7.638	2	
-Rimaye	Kankia	Katsina	12.304	7.854	2	
-Oji-River	Oji-River	Enugu	6.165	7.303	2	
-Rijau	Rijau	Niger	11.043	5.217	2	
-Riyom	Riyom	Plateau	9.556	8.705	2	
-Ribina West	Toro	Bauchi	10.130	9.017	2	
-Ribina East	Toro	Bauchi	10.104	9.123	2	
-Rishi	Toro	Bauchi	10.526	8.894	2	
-Unguwar Rimi	Kaduna North	Kaduna	10.532	7.460	2	
-Dadi Riba	Kaduna North	Kaduna	10.504	7.431	2	
-Rigachikun	Igabi	Kaduna	10.615	7.504	2	
-Rijia B	Sokoto South	Sokoto	13.043	5.242	2	

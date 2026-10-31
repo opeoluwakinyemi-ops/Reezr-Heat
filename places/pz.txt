@@ -1,4 +1,4 @@
 Pz close Lowcost div	Gombe	Gombe	10.293	11.186	2	
 Pz junction Lowcost div	Gombe	Gombe	10.291	11.183	2	
-PZ Market	Ikpoba-Okha	Edo	6.280	5.643	0	
 PZ Road	Ikpoba-Okha	Edo	6.278	5.643	1	
+PZ Market	Ikpoba-Okha	Edo	6.280	5.643	0	

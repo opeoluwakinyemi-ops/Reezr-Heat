@@ -1,7 +1,16 @@
-Wuse II District	Municipal Area Council	FCT Abuja	9.076	7.476	2	
 Wuya	Mokwa	Niger	9.139	5.823	3	
+Wurno	Wurno	Sokoto	13.288	5.423	3	
+Wukari	Wukari	Taraba	7.870	9.778	3	
+Wuro Bokki	Fufore	Adamawa	9.388	12.795	3	
+Wuro Dole	Kwami	Gombe	10.383	11.256	3	
+Komi	Wudil	Kano	11.809	8.845	3	Wudil
+Wushishi	Wushishi	Niger	9.730	6.073	3	
+Wudil	Wudil	Kano	11.809	8.844	3	
+Uromi	Esan North-East	Edo	6.700	6.333	3	wu luo mi
+Sabon Wuse	Kagarko	Kaduna	9.334	7.261	3	New Wuse|Wuse
+Wuse II District	Municipal Area Council	FCT Abuja	9.076	7.476	2	
 Wusasa	Zaria	Kaduna	11.078	7.681	2	
-Wushishi Station	Wushishi	Niger	9.748	6.046	0	
+Wuro Jam	Gassol	Taraba	8.483	10.250	2	
 Wuro Basambo	Girei	Adamawa	9.500	12.483	2	Modibbo
 Wuro Bakumbo	Demsa	Adamawa	9.317	12.033	2	Wuro Bakmbo
 Wudula	Bama	Borno	11.345	13.918	2	
@@ -11,6 +20,7 @@ Wuro Harde	Mubi North	Adamawa	10.287	13.259	2
 Wulgo	Ngala	Borno	12.282	14.187	2	Wulgo Momodu
 Kirta Wulgo	Monguno	Borno	12.795	14.121	2	
 Wuro Bokka	Maiha	Adamawa	9.916	13.234	2	
+Wurwar	Sardauna	Taraba	6.667	11.304	2	
 Wurti	Hawul	Borno	10.285	12.025	2	
 Wuro Boki	Shani	Borno	10.077	12.053	2	Wuro Bokki
 Wuseli	Pankshin	Plateau	9.433	9.450	2	
@@ -29,13 +39,13 @@ Wuyaku	Gombi	Adamawa	10.452	12.566	2
 Wula Wula	Biu	Borno	10.959	12.256	2	
 Gongoshi Dalehi	Demsa	Adamawa	9.233	12.100	2	Wuro Bobo
 Wuiwui	Akko	Gombe	10.267	10.958	2	
+Wuro Modibbo	Ardo-Kola	Taraba	8.679	11.259	2	
 Ungwan Wusan	Giwa	Kaduna	11.067	7.117	2	Angwan Wusan
 Wuro Tabo	Jema'A	Kaduna	9.483	8.500	2	Ungwan Tabo;Tabo
 Wuro Mallum	Maiha	Adamawa	9.905	13.224	2	
 Wuradole	Bayo	Borno	10.316	11.550	2	
 Wida	Hawul	Borno	10.388	12.094	2	Wuida
 Wuro Funa	Shani	Borno	10.072	12.062	2	Wuro Jauro Bello
-Wurno	Wurno	Sokoto	13.288	5.423	3	
 Wuro Koncha	Song	Adamawa	9.800	12.667	2	Kancha;Wuro Kancha
 Bomu	Yola North	Adamawa	9.383	12.317	2	Wumu
 Wuchi	Gwadabawa	Sokoto	13.330	5.424	2	Huchi
@@ -78,40 +88,45 @@ Wulba	Bama	Borno	11.376	14.366	2	Ulba
 Wuro Jam	Shani	Borno	10.144	12.025	2	
 Wuro Jauro Yaya	Shani	Borno	10.044	12.045	2	
 Ruwa Wuri	Tangaza	Sokoto	13.712	4.968	2	
+Kalnyaka	Sardauna	Taraba	6.850	11.550	2	Mayo Wurbo
 Wuron Bayi	Mubi South	Adamawa	10.200	13.250	2	
 Wuro Waziri Gadawa	Numan	Adamawa	9.546	12.014	2	
 Wundi	Toro	Bauchi	10.477	8.900	2	
 Wurianka	Shelleng	Adamawa	9.685	12.102	2	
 Wuro Mbulmbuldi	Fufore	Adamawa	9.242	12.875	2	
+Wuro Harman Bura	Lau	Taraba	9.199	11.482	2	
+Wuro Haman Bura	Lau	Taraba	9.202	11.479	2	
 Wuro Mayo	Tafawa-Balewa	Bauchi	9.699	9.817	2	
 Wutana	Kauru	Kaduna	10.610	8.033	2	
 Wurge	Ngala	Borno	12.363	14.085	2	
+Wuro Tafida	Jalingo	Taraba	8.953	11.268	2	
 Wuro Bajam	Girei	Adamawa	9.583	12.467	2	Baijam
 Wuro Eli	Gwadabawa	Sokoto	13.319	5.135	2	
 Sabon Wuri	Maru	Zamfara	11.185	6.423	2	
 Wurogauri	Kalgo	Kebbi	12.334	4.013	2	
 Wuro Talla	Yola North	Adamawa	9.350	12.283	2	
 Joie	Kwami	Gombe	10.550	11.400	2	Wuro Joie
+Bokki	Bali	Taraba	8.117	10.767	2	Wuro Bokki
 Wuta	Bama	Borno	11.437	14.034	2	Uta
 Wuro Kawu	Maiha	Adamawa	10.056	13.124	2	Kawu
 Wurge	Ngala	Borno	12.123	14.075	2	
 Wugama	Kauru	Kaduna	10.550	8.017	2	Wugana
 Udin	Hong	Adamawa	10.147	12.904	2	Wudin
-Wuro Bokki	Fufore	Adamawa	9.388	12.795	3	
 Wuro Ardo Biri	Mubi North	Adamawa	10.338	13.220	2	
 Wuleama	Ngaski	Kebbi	10.777	4.993	2	
-Wuro Dole	Kwami	Gombe	10.383	11.256	3	
 Wucheri	Fakai	Kebbi	11.582	5.001	2	
 Wurohezo	Birnin Kebbi	Kebbi	12.406	4.222	2	
 Wauro Jabbe	Yola South	Adamawa	9.267	12.417	2	Wuro Jebbe
 Wuro Dole	Yola North	Adamawa	9.367	12.300	2	
 Wuro Dogo	Ganye	Adamawa	8.618	11.995	2	
+Wurbo	Wukari	Taraba	7.999	10.083	2	
 Wuro Jauro Jabbo	Song	Adamawa	9.967	12.717	2	Goila
 Wuro Tammai	Girei	Adamawa	9.317	12.467	2	Bam
 Wuru Wakili Dal	Askira-Uba	Borno	10.497	13.177	2	
 Wuro Hoba	Mubi North	Adamawa	10.296	13.250	2	
 Wuro Abubakar	Hong	Adamawa	10.104	13.097	2	
 Tireji	Bama	Borno	11.491	14.295	2	Wuro Biyero
+Wurio	Gassol	Taraba	8.370	10.482	2	
 Jauro Hamma	Shani	Borno	10.107	12.059	2	Wuro Jauro Hamadu
 Ungwan Wurwa	Giwa	Kaduna	11.225	7.512	2	
 Wuro Bagga	Bagwai	Kano	12.152	8.100	2	Wurabugga
@@ -119,7 +134,6 @@ Wuro Bagga	Nassarawa	Kano	11.995	8.592	2
 Wulgo	Ngala	Borno	12.484	14.183	2	
 Wulawula	Biu	Borno	10.787	11.983	2	
 Wulari	Damboa	Borno	11.150	12.755	2	
-Jauro Baba Wuro Dispensary	Shani	Borno	10.260	11.872	0	
 Wuro Dole	Shani	Borno	10.208	11.903	2	
 Wulomari	Magumeri	Borno	12.305	12.719	2	
 Dalhat Wurafuna	Shani	Borno	10.185	12.083	2	
@@ -132,7 +146,6 @@ Yaulari Wuro Jam	Shani	Borno	10.145	12.021	2
 Wulta	Mafa	Borno	12.236	13.271	2	
 Wuskuma	Nganzai	Borno	12.195	13.222	2	
 Wudimari	Jere	Borno	11.883	13.216	2	
-Wumbi Health Clinic	Kala-Balge	Borno	12.361	14.359	0	
 Wuro Bodeji	Bayo	Borno	10.271	11.775	2	
 Wuro Ibbo	Bayo	Borno	10.261	11.776	2	
 Wuyahu	Chibok	Borno	10.693	12.974	2	
@@ -143,7 +156,6 @@ Wulha	Kwaya Kusar	Borno	10.460	11.792	2
 Wuro Dande	Kwaya Kusar	Borno	10.339	11.915	2	
 Wuro Babaye	Shani	Borno	10.067	12.049	2	
 Wuro Boki Umar	Shani	Borno	10.076	12.054	2	
-Wuro Boki	Shani	Borno	10.073	12.054	2	
 Wuro Funa Buba	Shani	Borno	10.073	12.062	2	
 Wuro Funa Sanda	Shani	Borno	10.070	12.067	2	
 Wuro Funo Baba	Shani	Borno	10.071	12.058	2	
@@ -153,7 +165,6 @@ Wuro Debbo	Bayo	Borno	10.330	11.583	2
 Wuro Funo	Bayo	Borno	10.341	11.583	2	
 Wuro Ladde	Bayo	Borno	10.338	11.627	2	
 Wuroneriji	Bayo	Borno	10.323	11.622	2	
-Wunje Dispensary	Shani	Borno	10.186	12.008	0	
 Wulama	Mobbar	Borno	13.362	12.832	2	
 Wuso A	Abadam	Borno	13.506	12.964	2	
 Wuso B	Abadam	Borno	13.511	12.966	2	
@@ -175,35 +186,779 @@ Wudana	Monguno	Borno	12.354	13.412	2
 Kuwa Wu Goniri	Kukawa	Borno	12.810	13.548	2	
 Kuwa Wu Zara Kurumi	Kukawa	Borno	12.814	13.554	2	
 Wujemari Kura	Jere	Borno	11.708	13.318	2	
-Wupa	Municipal Area Council	FCT Abuja	9.025	7.395	0	
 Wumumu	Bodinga	Sokoto	12.681	5.277	2	
 Wubagi	Katcha	Niger	8.770	6.322	2	
 Wuro Bagga	Bichi	Kano	12.212	8.280	2	
 Wurawa	Ajingi	Kano	11.933	9.058	2	
-Komi	Wudil	Kano	11.809	8.845	3	Wudil
 Wudilawa Cikin Gari Gabas	Gaya	Kano	11.803	8.892	2	
 Wudilawa	Albasu	Kano	11.630	9.059	2	
 Wuna Sadauki	Tudun Wada	Kano	11.278	8.492	2	
 Wuna	Tudun Wada	Kano	11.291	8.478	2	
-Wushi H Post	Ganjuwa	Bauchi	10.730	9.607	0	
-General Hospital Wurno	Wurno	Sokoto	13.296	5.417	0	
-wuro ladde heath clinic	Shelleng	Adamawa	9.890	12.204	0	
-Wuro Bakumbo Health Post	Demsa	Adamawa	9.308	12.024	0	
-wuro gayadi primary heath post	Michika	Adamawa	10.713	13.389	0	
-dispensary wuro bamadi	Maiha	Adamawa	9.574	13.107	0	
 Wuse District	Municipal Area Council	FCT Abuja	9.062	7.467	2	
 Wuye District	Municipal Area Council	FCT Abuja	9.050	7.442	2	
-Wuye Ultra Modern Market	Municipal Area Council	FCT Abuja	9.051	7.444	0	
-Wumba Junction	Municipal Area Council	FCT Abuja	8.974	7.486	0	
-Wumba Cashew Garden Junction	Municipal Area Council	FCT Abuja	8.973	7.486	0	
-Wuse District Hospital Bus Stop	Municipal Area Council	FCT Abuja	9.063	7.468	0	
-Wuse Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.464	0	
-Wuse Bus Station	Municipal Area Council	FCT Abuja	9.066	7.465	0	
-Wuse General Hospital First Gate Bus Stop	Municipal Area Council	FCT Abuja	9.062	7.468	0	
-Wuse Market Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.465	0	
-Maitama - Wuse Ii Bridge	Municipal Area Council	FCT Abuja	9.087	7.474	0	
 Wula I	Boki	Cross River	6.391	9.108	2	
 Wula II	Boki	Cross River	6.378	9.114	2	
+Wuro Golare	Gombi	Adamawa	10.098	12.680	2	
+Wuro Yaji	Gombi	Adamawa	10.098	12.672	2	
+Wurno	Wurno	Sokoto	13.243	5.476	2	
+Wuciciri	Zaria	Kaduna	10.991	7.770	2	
+Wudilawa	Gaya	Kano	11.796	8.903	2	
+Wudil	Wudil	Kano	11.767	8.839	2	
+Wurma A	Kurfi	Katsina	12.553	7.430	2	
+Wurma B	Kurfi	Katsina	12.589	7.389	2	
+Wushishi	Wushishi	Niger	9.711	5.910	2	
+Wukari	Wukari	Taraba	7.954	9.725	2	
+Nzuda Wuyaram	Damboa	Borno	11.090	12.725	2	
+Wurno	Birnin Kudu	Jigawa	11.307	9.635	2	
+Wuyo	Bayo	Borno	10.369	11.746	2	
+Wulo	Monguno	Borno	12.529	13.480	2	
+Wulgo	Ngala	Borno	12.528	14.120	2	
+Wuya	Anka	Zamfara	12.023	6.059	2	
+Wuye	Municipal Area Council	FCT Abuja	9.047	7.442	2	
+Wuse	Municipal Area Council	FCT Abuja	9.063	7.470	2	
+Wuse II	Municipal Area Council	FCT Abuja	9.075	7.476	2	
+Yalwata Wuji	Lafia	Nasarawa	8.532	8.706	2	YalwataWuji|Yelwata
+Wuya Suma	Gbako	Niger	9.141	5.863	2	
+Wuyaram	Damboa	Borno	11.168	12.692	2	Waiyaram
+Wuyaku Birma Ali	Biu	Borno	10.853	11.817	2	Wuyaku
+Wuyaku	Hawul	Borno	10.325	12.103	2	
+Wuya	Chikun	Kaduna	10.150	7.283	2	
+Wuya-Kanti	Mokwa	Niger	9.144	5.822	2	Wuya
+Wuu	Ushongo	Benue	7.205	8.853	2	
+Wutire	Fufore	Adamawa	8.968	12.606	2	
+Wutile	Teungo	Adamawa	8.138	11.999	2	
+Wusur	Barde	Yobe	12.872	10.980	2	
+Wusunbu	Yorro	Taraba	8.954	11.491	2	
+Wusono	Igabi	Kaduna	10.842	7.526	2	
+Wusenia	Tangaza	Sokoto	13.650	4.798	2	
+Wuse	Awe	Nasarawa	8.371	9.330	2	
+Wusa	Olorunsogo	Oyo	8.632	4.152	2	
+Wurro Jabbo	Song	Adamawa	10.009	13.003	2	
+Wuro Zubairo	Song	Adamawa	10.039	12.610	2	
+Wuro Yuware	Mayo-Belwa	Adamawa	8.785	11.990	2	
+Wuro Yoro	Jada	Adamawa	8.567	12.143	2	
+Wuro Yombe	Mayo-Belwa	Adamawa	8.894	12.080	2	
+Wuro Yolde	Yola North	Adamawa	9.274	12.214	2	
+Wuro Yero	Demsa	Adamawa	9.399	12.082	2	
+Wuro Yapi	Fufore	Adamawa	8.975	12.382	2	
+Wuro Yanka	Yola North	Adamawa	9.291	12.229	2	
+Wuro Yaluk	Fufore	Adamawa	8.971	12.386	2	
+Wuro Yakubu	Mayo-Belwa	Adamawa	8.765	11.854	2	
+Wuro Yako	Mayo-Belwa	Adamawa	8.780	11.951	2	
+Wuro Yafaki	Mayo-Belwa	Adamawa	8.954	11.917	2	
+Wuro Yabbe	Kirfi	Bauchi	10.404	10.775	2	
+Wuro Waziri Shabal	Numan	Adamawa	9.577	12.021	2	
+Wuro Waziri Gadawa	Numan	Adamawa	9.550	12.017	2	
+Wuro Waziri	Bali	Taraba	8.403	11.327	2	
+Wuro Wakili	Fufore	Adamawa	8.867	12.257	2	
+Wuro Umaru Boronuna	Shani	Borno	10.067	12.070	2	
+Wuro Umaru	Fufore	Adamawa	9.519	13.035	2	
+Wuro Umaru	Mayo-Belwa	Adamawa	8.807	11.975	2	
+Wuro Umaru	Jada	Adamawa	8.604	12.090	2	
+Wuro-Ujiri	Fufore	Adamawa	9.417	12.801	2	Wuro Ujiri
+Wuro Tukur	Jada	Adamawa	8.691	12.125	2	
+Wuro-Tugge	Fufore	Adamawa	9.487	12.929	2	Wuro Tugge
+Wuro Taya	Hong	Adamawa	10.200	12.800	2	
+Wuro Taraki	Dukku	Gombe	10.859	10.658	2	
+Wuro Tara	Dukku	Gombe	10.818	10.668	2	
+Wuro Tammai	Girei	Adamawa	9.321	12.457	2	Bam
+Wuro Tale	Dukku	Gombe	10.971	10.774	2	
+Wuro Tafida	Lau	Taraba	9.247	11.364	2	
+Wuro Sundani	Hong	Adamawa	10.197	13.110	2	
+Wuro Sulei	Jada	Adamawa	8.793	12.270	2	
+Wuro Shiji	Gombe	Gombe	10.258	11.166	2	
+Wuro Sheku	Hong	Adamawa	10.179	13.119	2	
+Wuro Shakau	Gassol	Taraba	8.511	10.286	2	
+Wuro Senbe	Jalingo	Taraba	8.854	11.403	2	
+Wuro Sanyobe	Gombi	Adamawa	10.195	12.772	2	
+Wuro Sani	Girei	Adamawa	9.507	12.504	2	
+Wuro Sani	Ardo-Kola	Taraba	8.786	11.271	2	
+Wuro Sanda	Gombi	Adamawa	10.212	12.754	2	
+Wuro Sambo	Song	Adamawa	9.832	12.875	2	
+Wuro Sambo	Fufore	Adamawa	9.124	12.354	2	
+Wuro Samaki	Fufore	Adamawa	9.171	12.238	2	
+Wuro Samaki	Fufore	Adamawa	9.147	12.353	2	
+Wuro Salatu	Hong	Adamawa	10.206	13.123	2	
+Wuro Sala	Madagali	Adamawa	10.841	13.650	2	
+Wuro Pokki	Jada	Adamawa	8.794	12.615	2	
+Wuro Piki	Hong	Adamawa	10.178	13.104	2	
+Wuronboyi	Song	Adamawa	9.626	12.393	2	
+Wuro Naude	Maiha	Adamawa	10.061	13.098	2	
+Wuronai	Bauchi	Bauchi	10.232	9.819	2	
+Wuro Nagge	Ganjuwa	Bauchi	10.883	10.403	2	
+Wuro Musa	Yorro	Taraba	8.851	11.470	2	
+Wuro Musa	Jada	Adamawa	8.780	12.133	2	
+Wuro Munchi	Demsa	Adamawa	9.623	12.126	2	
+Wuro-Mo u	Fufore	Adamawa	9.385	12.720	2	Wuro Mo'u
+Wuro Modibo	Hong	Adamawa	10.210	13.106	2	
+Wuro Modibbo	Hong	Adamawa	10.197	12.783	2	
+Wuro Modibbo	Song	Adamawa	9.764	12.707	2	
+Wuro Mobido	Akko	Gombe	10.124	11.047	2	
+Wuro Medi	Girei	Adamawa	9.401	12.574	2	
+Wuro-Mbonaje	Girei	Adamawa	9.413	12.592	2	Wuro Mbonaje
+Wuro Mbaya	Hong	Adamawa	10.240	13.123	2	
+Wurombai	Yorro	Taraba	8.896	11.425	2	
+Wuro Mazang	Ardo-Kola	Taraba	8.808	11.352	2	
+Wuro Masenger	Bali	Taraba	8.276	11.061	2	
+Wuro Mareji	Darazo	Bauchi	10.890	10.632	2	
+Wuromanti	Fufore	Adamawa	8.961	12.602	2	
+Wuro Manji	Mayo-Belwa	Adamawa	8.799	11.937	2	
+Wuro Malum Jibru	Biu	Borno	10.827	12.123	2	
+Wuro Malujida	Mayo-Belwa	Adamawa	8.999	11.926	2	
+Wuro Mallum	Maiha	Adamawa	10.014	13.091	2	
+Wuro Mallum	Maiha	Adamawa	9.897	13.209	2	
+Wuro-Mallum	Fufore	Adamawa	9.136	12.680	2	Wuro Mallum
+Wuro Mali	Shani	Borno	10.198	12.031	2	
+Wuro Maigida	Maiha	Adamawa	10.033	13.162	2	
+Wuro Madi	Ganjuwa	Bauchi	10.737	10.500	2	
+Wuro Londe	Mayo-Belwa	Adamawa	8.847	12.100	2	
+Wuro Liman	Mayo-Belwa	Adamawa	8.846	12.041	2	
+Wuro Leke	Jada	Adamawa	8.740	12.175	2	
+Wuro Lecha	Karim Lamido	Taraba	9.234	11.071	2	
+Wuro Lawan	Hong	Adamawa	10.131	13.106	2	
+Wuro Lawan	Bali	Taraba	8.106	10.712	2	
+Wuro Lawal	Jada	Adamawa	8.544	12.408	2	
+Wuro Lainde	Song	Adamawa	9.761	12.651	2	
+Wuro Lainde	Fufore	Adamawa	9.129	12.242	2	
+Wuro Lainde	Mayo-Belwa	Adamawa	9.117	12.058	2	
+Wuro Labei	Fufore	Adamawa	9.507	12.688	2	
+Wuro Kyari	Girei	Adamawa	9.502	12.479	2	
+Wuro Kurori	Maiha	Adamawa	9.550	13.129	2	
+Wuro-Koncha	Song	Adamawa	9.799	12.665	2	Kancha|Wuro Kancha|Wuro Koncha
+Wuro Koja	Mubi North	Adamawa	10.230	13.191	2	
+Wuro-Kesum	Fufore	Adamawa	9.087	12.882	2	Wuro Kesum
+Wuro-Kesum	Fufore	Adamawa	9.012	12.511	2	Wuro Kesum
+Wuro Kela	Bali	Taraba	8.337	11.235	2	
+Wuro Kaye	Mubi North	Adamawa	10.351	13.226	2	
+Wuro Kawu	Maiha	Adamawa	10.058	13.131	2	Kawu
+Wuro Kareji	Shani	Borno	10.034	11.861	2	
+Wuro Karal	Gassol	Taraba	8.757	10.891	2	
+Wuro Kala	Ardo-Kola	Taraba	8.720	11.468	2	
+Wuro Kadiri	Hong	Adamawa	10.175	12.831	2	
+Wuro-Kachala	Fufore	Adamawa	9.480	12.809	2	Wuro Kachala
+Wuro-Jubawo	Fufore	Adamawa	9.353	12.648	2	Dutsin Jubawo|Jubawo|Wuro Jubawo
+Wuro Joude	Fufore	Adamawa	8.946	12.204	2	
+Wuro Jombe	Fufore	Adamawa	9.129	12.113	2	
+Wuro Jijiwa	Fufore	Adamawa	9.616	12.942	2	
+Wuroji	Jada	Adamawa	8.584	12.145	2	
+Wuro Jauro Tukur	Ardo-Kola	Taraba	8.781	11.088	2	
+Wuro Jauro Maiganga	Shani	Borno	10.098	12.067	2	
+Wuro Jauro Isa	Hong	Adamawa	10.219	12.814	2	
+Wuro Jauro Hamadu	Shani	Borno	10.107	12.070	2	
+Wuro Jauro Dachere	Shelleng	Adamawa	9.999	12.232	2	
+Wuro Jauro Bello	Shani	Borno	10.071	12.061	2	
+Wuro Jauro Barka	Shani	Borno	10.058	12.087	2	
+Wuro Jauro Bakari	Song	Adamawa	9.841	12.988	2	
+Wuro Jaudu Amodu	Fufore	Adamawa	9.551	12.804	2	
+Wuro Jauro Amadu	Guyuk	Adamawa	9.645	12.000	2	
+Wuro Jauro Abdu	Maiha	Adamawa	9.950	13.183	2	
+Wuro Jato	Mayo-Belwa	Adamawa	8.933	12.056	2	
+Wuro Jato	Mayo-Belwa	Adamawa	8.814	11.939	2	
+Wuro Jato	Jada	Adamawa	8.602	12.353	2	
+Wuro Jato	Jada	Adamawa	8.593	12.078	2	
+Wuro Jato	Bali	Taraba	8.531	11.625	2	
+Wuro Jatau	Shani	Borno	10.116	12.069	2	
+Wuro Jatau	Girei	Adamawa	9.472	12.393	2	
+Wuro Jatau	Bali	Taraba	8.345	11.224	2	
+Wuro Jatau	Bali	Taraba	8.169	11.442	2	
+Wuro Jatau	Teungo	Adamawa	7.995	11.511	2	
+Wurojan	Kurmi	Taraba	7.282	10.591	2	
+Wuro Jam	Gassol	Taraba	8.489	10.245	2	
+Wuro Jalami Hamlets	Gwoza	Borno	10.933	13.550	2	
+Wuro Jabi	Jada	Adamawa	8.861	12.202	2	
+Wuro Jabbo	Gombi	Adamawa	10.184	12.600	2	
+Wuro-Iya	Maiha	Adamawa	9.954	13.227	2	Lya|Wuro Iya
+Wuro Ismano	Mayo-Belwa	Adamawa	8.829	12.087	2	
+Wuro Ishiaku	Fufore	Adamawa	9.228	12.230	2	
+Wuro Inbo	Hong	Adamawa	10.213	12.784	2	
+Wuro Ibi	Gombi	Adamawa	10.064	12.605	2	
+Wuro Hesso	Mubi South	Adamawa	10.213	13.247	2	
+Wuro Hesso	Song	Adamawa	9.986	12.630	2	
+Wuro Hesso	Song	Adamawa	9.639	13.037	2	
+Wuro Hausa	Song	Adamawa	9.538	12.283	2	
+Wuro Hausa	Yola North	Adamawa	9.208	12.501	2	
+Wuro Hausa	Fufore	Adamawa	9.044	12.274	2	
+Wuro Hausa	Gassol	Taraba	8.657	10.796	2	
+Wuro Hausa	Ganye	Adamawa	8.367	12.168	2	
+Wuro-Hausa	Ganye	Adamawa	8.368	12.064	2	Wuro Hausa|WuroHausa
+Wuro Hamsami	Girei	Adamawa	9.528	12.533	2	
+Wuro Hammawa	Mayo-Belwa	Adamawa	9.121	12.034	2	
+Wuro Hammagu	Mubi South	Adamawa	10.207	13.254	2	Bobbowa|Wuro Bobbowa
+Wuro Hamja	Fufore	Adamawa	8.927	12.213	2	
+Wuro Hamadalil	Girei	Adamawa	9.493	12.442	2	Hamadalin
+Wuro Gwana	Nafada	Gombe	10.893	11.287	2	
+Wurogwabbo	Bauchi	Bauchi	10.229	9.748	2	
+Wuro Gurama	Jada	Adamawa	8.790	12.198	2	
+Wuro Gundu	Nafada	Gombe	10.935	11.312	2	
+Wuro Goni	Fufore	Adamawa	9.042	12.203	2	
+Wuro Gole	Sardauna	Taraba	7.196	11.088	2	
+Wuro Giye	Fufore	Adamawa	8.925	12.245	2	
+Wuro Giye	Jada	Adamawa	8.687	12.214	2	
+Wuro Girangero	Fufore	Adamawa	8.840	12.402	2	
+Wuro Gboki	Mayo-Belwa	Adamawa	8.850	11.954	2	
+Wuragauri	Kalgo	Kebbi	12.334	4.014	2	Wurogauri
+Wuro Garga	Mayo-Belwa	Adamawa	8.984	12.041	2	
+Wuro Gare	Maiha	Adamawa	10.005	13.095	2	
+Wuro Garba	Hong	Adamawa	10.090	13.086	2	
+Wuro-Galdimawo	Fufore	Adamawa	9.146	12.634	2	Wuro Galdimawo
+Wuro Galdi	Shani	Borno	10.272	12.178	2	
+Wuro Gaji	Bali	Taraba	8.372	11.045	2	
+Wuro Fedechi Ryiya	Gombi	Adamawa	10.222	12.762	2	
+Wuro Faturu	Gombi	Adamawa	10.067	12.552	2	
+Wuro Faluku	Teungo	Adamawa	7.869	11.480	2	
+Wuro Duta	Maiha	Adamawa	10.044	13.152	2	
+Wuro Dunbai	Hong	Adamawa	10.190	13.117	2	
+Wuro Dumo	Maiha	Adamawa	10.130	13.131	2	
+Wuro Duku	Funakaye	Gombe	10.903	11.382	2	
+Wuro Dore	Mayo-Belwa	Adamawa	8.907	11.915	2	
+Wuro Dole	Dukku	Gombe	10.765	10.780	2	
+Wuro-Dole	Girei	Adamawa	9.381	12.603	2	Wuro Dole
+Wuro Dole	Mayo-Belwa	Adamawa	9.150	12.033	2	
+Wuro Dogo	Bali	Taraba	8.390	11.155	2	
+Wuro Dogari	Bali	Taraba	8.350	11.209	2	
+Wuro Deyawa	Teungo	Adamawa	8.108	12.083	2	
+Wuro De	Song	Adamawa	9.765	12.727	2	
+Wuro Daudu	Jada	Adamawa	8.601	12.108	2	
+Wuro Danuda	Dukku	Gombe	10.829	10.821	2	
+Wuro Dama	Dukku	Gombe	10.786	10.650	2	
+Wuro Dahiru	Ardo-Kola	Taraba	8.589	11.250	2	
+Wuro Chita	Kirfi	Bauchi	10.511	10.409	2	
+Wuro Bunga	Kirfi	Bauchi	10.430	10.735	2	
+Wuro Bundu	Misau	Bauchi	11.450	10.567	2	
+Wuro Bundu	Darazo	Bauchi	10.839	10.552	2	
+Wuro Buka	Jada	Adamawa	8.745	12.195	2	
+Wuro Buba	Shelleng	Adamawa	10.036	12.072	2	
+Wuro Buba	Mayo-Belwa	Adamawa	8.941	11.980	2	
+Wuro Buba	Mayo-Belwa	Adamawa	8.917	12.098	2	
+Wuro Buba	Jada	Adamawa	8.645	12.382	2	
+Wuro Buba	Jada	Adamawa	8.657	12.289	2	
+Wuro Bornu Ladde	Ardo-Kola	Taraba	8.815	11.324	2	
+Wuro Boman	Fufore	Adamawa	9.056	12.192	2	
+Wuro Bokki	Hong	Adamawa	10.175	12.887	2	
+Wuro Bokki	Shani	Borno	10.075	12.053	2	
+Wuro Bokki	Song	Adamawa	9.694	12.867	2	
+Wuro Bokki	Girei	Adamawa	9.508	12.271	2	
+Wuro-Bokki	Fufore	Adamawa	9.389	12.795	2	Wuro Bokki
+Wuro-Bokki	Yola North	Adamawa	9.176	12.588	2	Wuro Bokki
+Wuro Bogga	Shira	Bauchi	11.447	10.181	2	
+Wuro Bobo	Mayo-Belwa	Adamawa	9.080	12.037	2	
+Wuro Bobbori	Fufore	Adamawa	9.163	12.293	2	
+Wuro Biviji	Hong	Adamawa	10.145	13.093	2	Wuro Biriji
+Wuro Biriji	Akko	Gombe	10.247	11.154	2	
+Wuro Biriji	Hong	Adamawa	10.200	13.100	2	
+Wuro Biriji	Song	Adamawa	9.686	12.832	2	
+Wuro Bereri	Jada	Adamawa	8.672	12.284	2	
+Wuro Bentere	Mayo-Belwa	Adamawa	8.954	12.077	2	
+Wuro Bayo	Mayo-Belwa	Adamawa	8.918	12.056	2	
+Wuro Bayo	Jada	Adamawa	8.797	12.140	2	
+Wuro-Bayo	Teungo	Adamawa	8.214	12.006	2	Wuro Bayo|WuroBayo
+Wuro Baye	Dukku	Gombe	10.816	10.623	2	
+Wuro Barkeje	Mubi North	Adamawa	10.187	13.146	2	
+Wuro Bara	Bama	Borno	11.495	14.078	2	
+Wuro Bambambe	Hong	Adamawa	10.231	13.076	2	
+Wuro Bakumbo	Demsa	Adamawa	9.308	12.025	2	Wuro Bakmbo
+Wuro Bakari	Maiha	Adamawa	10.012	13.068	2	
+Wuro Bakaku	Ardo-Kola	Taraba	8.838	11.332	2	
+Wuro Bajam	Shelleng	Adamawa	10.026	12.086	2	
+Wuro Bajam	Girei	Adamawa	9.596	12.468	2	Baijam
+Wuro Bajam	Fufore	Adamawa	8.858	12.268	2	
+Wuro Bagudu	Bali	Taraba	8.395	11.313	2	
+Wuro-Babawa	Fufore	Adamawa	9.009	12.722	2	Wuro Babawa
+Wuro Babam	Teungo	Adamawa	8.088	12.082	2	
+Wuro Baba	Fufore	Adamawa	9.728	12.736	2	
+Wuro Ardo Ribadu	Maiha	Adamawa	10.038	13.067	2	
+Wuro Ardo Nana	Gombi	Adamawa	10.086	12.574	2	
+Wuro-Ardo-Kyari	Yola North	Adamawa	9.156	12.600	2	Wuro Ardo Kyari
+Wuro Amadu	Jada	Adamawa	8.647	12.357	2	
+Wuro Alkali	Hong	Adamawa	10.233	13.096	2	
+Wuro Ali Magini	Akko	Gombe	10.229	11.164	2	
+Wuro Ali	Shelleng	Adamawa	9.986	12.058	2	
+Wuro Alhaji	Shelleng	Adamawa	10.032	12.063	2	
+Wuro Alhaji	Maiha	Adamawa	9.915	13.235	2	
+Wuro Ahmadu Kulu	Ardo-Kola	Taraba	8.730	11.268	2	
+Wuro Ahmadu	Hong	Adamawa	10.069	12.970	2	
+Wuro-Ahi	Fufore	Adamawa	9.458	12.621	2	Wuro Ahi
+Wuro Adayel	Fufore	Adamawa	9.082	12.376	2	
+Wuro Adamu	Gombi	Adamawa	10.083	12.573	2	
+Wuro Adamu	Bali	Taraba	8.483	11.130	2	
+Wuro Adamu	Bali	Taraba	8.405	11.129	2	
+Wuro Adamu	Bali	Taraba	8.380	11.164	2	
+Wuro Achaba Villages	Madagali	Adamawa	10.896	13.562	2	
+Wuro Abo	Song	Adamawa	10.004	12.994	2	
+Wuro Abdullahi	Wukari	Taraba	8.058	10.220	2	
+Wuro Abbo	Mayo-Belwa	Adamawa	8.834	12.090	2	
+Wuro Abba	Demsa	Adamawa	9.312	12.122	2	Wuro Bokki
+Wuro Abba	Ardo-Kola	Taraba	8.671	11.279	2	
+Wurnu	Birnin Kudu	Jigawa	11.419	9.616	2	
+Wurno	Toro	Bauchi	10.406	8.829	2	
+Wurno	Tafawa-Balewa	Bauchi	9.797	9.893	2	
+Wurno	Gassol	Taraba	8.268	10.571	2	
+Wurma	Kurfi	Katsina	12.578	7.435	2	
+Wurma	Dutse	Jigawa	11.860	9.390	2	
+Wurin Dule	Kwami	Gombe	10.380	11.255	2	
+Wurimango	Akko	Gombe	10.367	11.005	2	
+Wuribaji	Birnin Kebbi	Kebbi	12.476	4.448	2	
+Wuria	Riyom	Plateau	9.726	8.653	2	
+Wurge	Ngala	Borno	12.363	14.086	2	Urge
+Wurbo	Bali	Taraba	7.988	10.853	2	
+Wurbo	Bali	Taraba	7.937	10.356	2	
+Wurawura	Maiha	Adamawa	10.055	13.197	2	
+Wuran	Hawul	Borno	10.561	12.209	2	
+Wupa	Municipal Area Council	FCT Abuja	9.051	7.457	2	
+Wuntsila	Babura	Jigawa	12.579	8.798	2	
+Wuntin Dada	Bauchi	Bauchi	10.314	9.764	2	
+Wunje	Shani	Borno	10.186	12.007	2	
+Wungna	Biu	Borno	10.840	12.190	2	
+Wungala	Gombi	Adamawa	10.076	12.656	2	
+Wunde	Keana	Nasarawa	8.287	8.843	2	
+Wunang	Yorro	Taraba	8.895	11.453	2	
+Wuna	Bosso	Niger	9.781	6.549	2	
+Wuna	Gwagwalada	FCT Abuja	9.009	7.102	2	
+Wuna	Ushongo	Benue	7.052	8.965	2	
+Wumumu	Bodinga	Sokoto	12.700	5.333	2	
+Wum	Fufore	Adamawa	8.922	12.367	2	
+Wultihiya	Askira-Uba	Borno	10.716	12.794	2	
+Wuleama	Ngaski	Kebbi	10.776	4.996	2	
+Wulco	Nasarawa Egon	Nasarawa	8.850	8.483	2	
+Wula	Guma	Benue	7.961	8.687	2	
+Wula	Boki	Cross River	6.383	9.088	2	
+Wukari	Ganye	Adamawa	8.366	12.076	2	
+Wuji	Yamaltu/Deba	Gombe	10.200	11.625	2	
+Wuida	Hawul	Borno	10.387	12.099	2	
+Wufege	Dikwa	Borno	11.988	13.910	2	
+Wuese	Konshisha	Benue	7.123	8.624	2	
+Wudil	Yamaltu/Deba	Gombe	10.166	11.296	2	
+Wuchera	Hong	Adamawa	10.336	12.712	2	
+Wuaye	Gboko	Benue	7.223	8.678	2	
+Wuaor	Ushongo	Benue	7.211	8.964	2	
+Wuaor	Konshisha	Benue	7.065	8.700	2	
+Wuaor	Konshisha	Benue	7.041	8.808	2	
+Wua	Guma	Benue	8.122	8.607	2	
+Wua	Konshisha	Benue	7.074	8.724	2	
+Wauro Jabbe	Yola South	Adamawa	9.261	12.398	2	Wuro Jebbe
+Unguwan Wusama	Karaye	Kano	11.772	8.118	2	
+Ugbuwague	Warri South	Delta	5.523	5.718	2	Ugbo-Wunagweh
+Tudun Wuli	Kankia	Katsina	12.328	7.725	2	
+Tireji	Bama	Borno	11.491	14.295	2	Wuro Biyero
+Tasha Wurdbege	Nafada	Gombe	11.063	11.143	2	Tasha
+Sebore Wuro Jiji	Mayo-Belwa	Adamawa	8.915	12.123	2	
+Ndi Wulu Nbe	Isiala-Ngwa North	Abia	5.261	7.475	2	Ndi Wulu Mbe
+Mai Wuya	Kurmi	Taraba	7.144	10.993	2	
+Mai Wuya	Kurmi	Taraba	7.025	10.467	2	Mai Wuy
+Lainde Wudere	Jada	Adamawa	8.542	12.206	2	
+Kappere Wuro Ngura	Maiha	Adamawa	10.129	13.120	2	
+Jiru Wudaru	Ardo-Kola	Taraba	8.973	10.950	2	
+Wuro Husa	Lau	Taraba	9.272	11.518	2	Jegan Maunde
+Jauro Wundingo	Ganye	Adamawa	8.574	11.862	2	
+Iwuku-Isale	Ipokia	Ogun	6.537	2.818	2	Iwuku|Wuku
+Gidan Wusheynu	Rafi	Niger	10.438	6.509	2	
+Gidan Wuka	Donga	Taraba	7.459	10.468	2	
+Wushaku	Lau	Taraba	9.312	11.637	2	Bujim
+Bomu	Yola North	Adamawa	9.375	12.322	2	Wumu
+Bokki	Bali	Taraba	8.111	10.761	2	Wuro Bokki
+Badekwoshi Wurkum	Gassol	Taraba	8.711	10.852	2	
+Wuro Bako	Lau	Taraba	9.149	11.552	2	Apawa Samga
+Wulade	Gwoza	Borno	11.038	13.784	2	
+Wuciwar	Askira-Uba	Borno	10.718	13.118	2	
+Wuro Ngiki	Michika	Adamawa	10.695	13.395	2	
+Wuro Bokki	Michika	Adamawa	10.648	13.518	2	
+Wuro Dawa	Madagali	Adamawa	10.841	13.485	2	
+Wuduru Achaba	Madagali	Adamawa	10.919	13.544	2	
+Wuro Tuke	Gwoza	Borno	10.965	13.566	2	
+Wuro Bororo	Gwoza	Borno	10.951	13.576	2	
+Wuro Ardo Ballo	Madagali	Adamawa	10.851	13.658	2	
+Wuro Bajani	Hong	Adamawa	10.291	13.056	2	
+Wuro Kawa	Maiha	Adamawa	10.037	13.129	2	
+Wurge	Ngala	Borno	12.136	14.096	2	
+Kirta Wulgo	Monguno	Borno	12.793	14.121	2	
+Wuro Momo Yaro	Shani	Borno	10.036	12.040	2	
+Wundita	Gombi	Adamawa	10.083	12.464	2	
+Wulma	Gombi	Adamawa	10.103	12.482	2	
+Wuro Bokki	Gombi	Adamawa	10.116	12.487	2	
+Wushi	Gombi	Adamawa	10.123	12.402	2	
+Wuhe	Ushongo	Benue	7.263	8.923	2	
+Wurabugga	Bagwai	Kano	12.151	8.100	2	
+Wuddi	Roni	Jigawa	12.659	8.193	2	
+Wuntsila	Kazaure	Jigawa	12.614	8.486	2	
+Wuro Bodgeh	Hong	Adamawa	10.177	12.905	2	
+Wuloto	Munya	Niger	10.023	6.920	2	
+Wuregashi	Borgu	Niger	10.827	4.019	2	
+Gidan Wula	Danja	Katsina	11.421	7.693	2	
+Wumumu	Tureta	Sokoto	12.543	5.279	2	
+Barakin Wundi	Toro	Bauchi	10.473	8.906	2	
+Wuro Kudou	Kirfi	Bauchi	10.425	10.822	2	
+Wuro Bature	Alkaleri	Bauchi	10.190	10.729	2	
+Wudil	Akko	Gombe	10.107	10.975	2	
+Wudil	Akko	Gombe	10.081	10.980	2	
+Ungwan Korar Wuta	Faskari	Katsina	11.604	6.980	2	
+Wudil	Wudil	Kano	11.730	8.819	2	Agbegbe Ijoba Ibile Wudil
+Wurno	Wurno	Sokoto	13.257	5.486	2	Wurno Local Government Area
+Wushishi	Wushishi	Niger	9.702	5.937	2	Agbegbe Ijoba Ibile Wushishi|Wushishi Local Government Area|wu shen shi
+Wukari	Wukari	Taraba	7.963	9.848	2	Wukari Local Government Area
+Wuro Babba	Fufore	Adamawa	9.543	13.096	2	
+Wuro Bobbo	Fufore	Adamawa	9.542	13.122	2	
+Wuro Bamadi	Maiha	Adamawa	9.573	13.107	2	
+Wuro Bokki	Maiha	Adamawa	9.608	13.215	2	
+Wuro Jauro Bakare	Maiha	Adamawa	9.669	13.201	2	
+Wuro Baraiya	Fufore	Adamawa	9.579	13.003	2	
+Wuro Bokki	Song	Adamawa	9.612	13.054	2	
+Wuro Abba	Song	Adamawa	9.621	13.049	2	
+Wuro Badidi	Song	Adamawa	9.629	13.079	2	
+Wuro Galadima	Song	Adamawa	9.641	13.031	2	
+Wuro Kesure	Maiha	Adamawa	9.958	13.151	2	
+Wuro Kari	Maiha	Adamawa	9.989	13.123	2	
+Wuro Abba	Maiha	Adamawa	9.940	13.188	2	
+Wuro Ledde	Maiha	Adamawa	9.889	13.202	2	
+Wuro Tappare	Maiha	Adamawa	9.909	13.212	2	
+Wuro Babuli	Maiha	Adamawa	9.896	13.179	2	
+Wuro Bobbo	Maiha	Adamawa	9.933	13.242	2	
+Wuro Alim	Maiha	Adamawa	9.923	13.236	2	
+Wuro Gortode	Maiha	Adamawa	9.802	13.107	2	
+Wuro Babboi	Maiha	Adamawa	9.767	13.130	2	
+Wuro Jekkata	Maiha	Adamawa	9.756	13.134	2	
+Wuro Dubal	Maiha	Adamawa	9.703	13.141	2	
+Wuro Mamudu	Maiha	Adamawa	9.697	13.092	2	
+Wuro Mayel	Maiha	Adamawa	9.671	13.101	2	
+Wuro Sarki Ayi	Maiha	Adamawa	9.692	13.164	2	
+Wuro Buba	Maiha	Adamawa	9.792	13.223	2	
+Wuro Babarka	Maiha	Adamawa	9.760	13.197	2	
+Wuro Alhamdu	Maiha	Adamawa	9.728	13.243	2	
+Wurgoo	Madagali	Adamawa	10.847	13.480	2	
+Wuro Gaduji	Askira-Uba	Borno	10.583	13.037	2	
+Wuro Nange	Mubi South	Adamawa	10.191	13.258	2	
+Wuro Hamma	Mubi North	Adamawa	10.283	13.239	2	
+Wuro Kauwa	Mubi North	Adamawa	10.288	13.249	2	
+Wuru Jauro	Mubi North	Adamawa	10.265	13.286	2	
+Wuro Nayobe	Mubi South	Adamawa	10.237	13.296	2	
+Wuro Bokki	Mubi North	Adamawa	10.108	13.198	2	
+Wurodole	Dukku	Gombe	11.006	11.117	2	
+Wuro Yolde	Madagali	Adamawa	10.869	13.653	2	
+Wurkuvi	Michika	Adamawa	10.598	13.501	2	
+Wusum	Gwer East	Benue	7.307	8.440	2	
+Wuro Dole	Gassol	Taraba	8.211	10.606	2	
+Wurubo Siddi	Bali	Taraba	8.171	10.652	2	
+Wurubo	Bali	Taraba	8.137	10.662	2	
+Wurubo Yakushamaki	Gassol	Taraba	8.211	10.590	2	
+Wulgo	Ngala	Borno	12.510	14.094	2	
+Wurno	Birnin Kudu	Jigawa	11.387	9.611	2	
+Wurma  A	Kurfi	Katsina	12.559	7.434	2	
+Wurma B	Kurfi	Katsina	12.602	7.409	2	
+Wuya	Anka	Zamfara	12.014	6.092	2	
+Wuana	Markurdi	Benue	7.700	8.475	2	
+Wuna	Markurdi	Benue	7.700	8.480	2	
+Wuakera	Logo	Benue	7.757	9.249	2	
+Wua	Buruku	Benue	7.282	9.145	2	
+Wuna	Buruku	Benue	7.364	9.200	2	
+Wuave	Ushongo	Benue	7.139	9.055	2	
+Wua	Gboko	Benue	7.435	8.763	2	
+Wuya Dzuko	Gbako	Niger	9.136	5.875	2	
+Wuyakede	Mokwa	Niger	9.139	5.823	2	
+Wumaru	Gbako	Niger	9.001	5.862	2	
+Wuchita	Edati	Niger	9.106	5.683	2	
+Wuchita	Katcha	Niger	9.026	6.228	2	
+Wuchita	Edati	Niger	9.041	6.076	2	
+Gidan Wusiba	Shiroro	Niger	9.964	6.676	2	
+Gidan Wutchi	Shiroro	Niger	9.834	6.591	2	
+Wuro Mallam	Mayo-Belwa	Adamawa	8.991	12.041	2	
+Wuro Kagu	Mayo-Belwa	Adamawa	8.980	12.045	2	
+Wuntsungel	Mayo-Belwa	Adamawa	8.955	12.064	2	
+Wuro Malubawa	Mayo-Belwa	Adamawa	8.901	12.054	2	
+Wuro Gaja	Mayo-Belwa	Adamawa	8.891	12.051	2	
+Wuro Giye	Jada	Adamawa	8.621	12.021	2	
+Wuro Abdu	Jada	Adamawa	8.587	12.089	2	
+Wuro Mayo	Mayo-Belwa	Adamawa	8.939	12.165	2	
+Wuro Yadam	Mayo-Belwa	Adamawa	8.932	12.162	2	
+Wuro Birji	Mayo-Belwa	Adamawa	8.925	12.129	2	
+Wuro Sete	Mayo-Belwa	Adamawa	8.915	12.103	2	
+Wuro Bayare	Mayo-Belwa	Adamawa	8.879	12.125	2	
+Wuro Alhaji	Jada	Adamawa	8.786	12.142	2	
+Wuro Amadu	Jada	Adamawa	8.774	12.130	2	
+Wuro Buba	Jada	Adamawa	8.743	12.179	2	
+Wuro Kano	Jada	Adamawa	8.753	12.136	2	
+Wurumbei	Jada	Adamawa	8.525	12.147	2	
+Wuro Babale	Jada	Adamawa	8.874	12.221	2	
+Wuro Kiri	Jada	Adamawa	8.859	12.228	2	
+Wuro Sheli	Fufore	Adamawa	8.872	12.243	2	
+Wuro Manu	Jada	Adamawa	8.854	12.197	2	
+Wuro Yaya	Jada	Adamawa	8.828	12.193	2	
+Wuro Sheli	Jada	Adamawa	8.847	12.243	2	
+Wuro Yaya	Jada	Adamawa	8.804	12.217	2	
+Wuro Lainde	Jada	Adamawa	8.782	12.260	2	
+Wuro Yayajika	Jada	Adamawa	8.774	12.223	2	
+Wuro Kawo	Jada	Adamawa	8.772	12.219	2	
+Wuro Adamu	Jada	Adamawa	8.752	12.281	2	
+Wuro Hammawa	Jada	Adamawa	8.738	12.215	2	
+Wuro Yahaya	Jada	Adamawa	8.739	12.205	2	
+Wuro Samega	Jada	Adamawa	8.684	12.275	2	
+Wuro Jibiri	Jada	Adamawa	8.665	12.278	2	
+Wuro Umaru	Jada	Adamawa	8.580	12.254	2	
+Wuro Adamu	Jada	Adamawa	8.755	12.293	2	
+Wuro Gidou	Jada	Adamawa	8.743	12.327	2	
+Wuro Aiwa	Jada	Adamawa	8.740	12.334	2	
+Wuro Yarga	Jada	Adamawa	8.732	12.334	2	
+Wuro Usumanu	Jada	Adamawa	8.635	12.323	2	
+Wuro Bapetel	Jada	Adamawa	8.605	12.341	2	
+Wuro Genaji	Fufore	Adamawa	8.893	12.390	2	
+Wuro Aba	Fufore	Adamawa	8.860	12.415	2	
+Wutire	Fufore	Adamawa	8.850	12.400	2	
+Wuro Marafa	Fufore	Adamawa	8.855	12.403	2	
+Wuro Papaya	Fufore	Adamawa	8.837	12.392	2	
+Wuro Bello	Fufore	Adamawa	8.828	12.382	2	
+Wuro Dogo	Fufore	Adamawa	8.794	12.440	2	
+Wuro Wambei	Jada	Adamawa	8.664	12.429	2	
+Wuro Mbala	Jada	Adamawa	8.641	12.405	2	
+Wuro Adamu	Jada	Adamawa	8.636	12.388	2	
+Wuro Joda	Jada	Adamawa	8.623	12.444	2	
+Wuro Umaru Bara	Jada	Adamawa	8.602	12.392	2	
+Wuro Baaro	Jada	Adamawa	8.580	12.388	2	
+Wuro Ali	Jada	Adamawa	8.548	12.417	2	
+Wuro Usuman Lainde	Jada	Adamawa	8.753	12.474	2	
+Wuro Gaji	Jada	Adamawa	8.697	12.470	2	
+Wuro Usumanu	Jada	Adamawa	8.642	12.310	2	
+Wuro Alkali	Zing	Taraba	8.899	11.788	2	
+Wuro Ngura	Mayo-Belwa	Adamawa	8.969	11.993	2	
+Wuro Nyako	Mayo-Belwa	Adamawa	8.799	11.994	2	
+Wuro Umaru	Ganye	Adamawa	8.592	11.894	2	
+Wuro Garba	Ganye	Adamawa	8.634	11.915	2	
+Wuro Usumanu	Ganye	Adamawa	8.523	11.963	2	
+Wuro Jauro Mashi	Ardo-Kola	Taraba	8.978	11.173	2	
+Wuro Kadiri	Ardo-Kola	Taraba	8.851	11.104	2	
+Wuro Liman	Ardo-Kola	Taraba	8.850	11.153	2	
+Wuro Jombodi	Ardo-Kola	Taraba	8.819	11.222	2	
+Wuro Pasali	Ardo-Kola	Taraba	8.597	11.245	2	
+Wuro Alhaji Umaru	Jalingo	Taraba	8.918	11.295	2	
+Wuro Yepo	Jalingo	Taraba	8.908	11.339	2	
+Wuro Baka	Ardo-Kola	Taraba	8.851	11.322	2	
+Wuro Mallam Bodejo	Ardo-Kola	Taraba	8.855	11.337	2	
+Wuro Mallam Bakari	Jalingo	Taraba	8.854	11.369	2	
+Wuro Alan	Ardo-Kola	Taraba	8.825	11.316	2	
+Wuro Voto	Yorro	Taraba	8.923	11.431	2	
+Wuro Mashi	Jalingo	Taraba	8.859	11.377	2	
+Wuro Hamadu	Jalingo	Taraba	8.840	11.405	2	
+Wuro Bappa	Jalingo	Taraba	8.839	11.418	2	
+Wuro Mallam Tukur	Ardo-Kola	Taraba	8.767	11.381	2	
+Wuro Gang	Ardo-Kola	Taraba	8.708	11.284	2	
+Wuro Mazang	Ardo-Kola	Taraba	8.689	11.294	2	
+Wuro Masho	Ardo-Kola	Taraba	8.656	11.269	2	
+Taka Wurkum	Gassol	Taraba	8.616	10.663	2	
+Wuro Jam	Gassol	Taraba	8.526	10.683	2	
+Wur	Wase	Plateau	8.954	9.874	2	
+Ungwan Wukpo	Sanga	Kaduna	9.101	8.218	2	
+Wulmi	Pankshin	Plateau	9.292	9.439	2	
+Wunzi	Qua'An Pan	Plateau	8.625	9.047	2	
+Wuro Lainde	Demsa	Adamawa	9.433	12.044	2	
+Wuro Jaro Naro	Demsa	Adamawa	9.395	12.042	2	
+Wuro Maliki	Demsa	Adamawa	9.375	12.093	2	
+Wuro Dadi	Yola North	Adamawa	9.391	12.354	2	
+Wuro Dendehi	Girei	Adamawa	9.473	12.387	2	
+Wuro Bero	Girei	Adamawa	9.487	12.431	2	
+Wuro Jauro Kirike	Girei	Adamawa	9.497	12.442	2	
+Wuro Masi	Girei	Adamawa	9.493	12.454	2	
+Wuro Kesu	Girei	Adamawa	9.487	12.467	2	
+Wuro Jauro Yahaya	Girei	Adamawa	9.350	12.443	2	
+Wuro Useni	Girei	Adamawa	9.335	12.458	2	
+Wuro Buba	Girei	Adamawa	9.336	12.448	2	
+Wuro Kuturu	Girei	Adamawa	9.286	12.445	2	
+Wuro Dole Yakamle	Yola South	Adamawa	9.235	12.448	2	
+Wuro Modibbo	Yola North	Adamawa	9.176	12.489	2	
+Wuro Madugu	Fufore	Adamawa	9.257	12.273	2	
+Wuro Abdu	Fufore	Adamawa	9.182	12.241	2	
+Wuro Kawo	Fufore	Adamawa	9.185	12.236	2	
+Wuro Bele	Fufore	Adamawa	9.156	12.200	2	
+Wuro Lako	Fufore	Adamawa	9.158	12.195	2	
+Ibarre Wuro Isiaku	Demsa	Adamawa	9.306	12.003	2	
+Wuro Mayo	Demsa	Adamawa	9.298	12.020	2	
+Wuro Mallam Sabo	Demsa	Adamawa	9.281	12.035	2	
+Wuro Bakubo	Demsa	Adamawa	9.273	12.031	2	
+Wuro Jabbi	Demsa	Adamawa	9.223	12.019	2	
+Wuro Bokki	Demsa	Adamawa	9.231	12.035	2	
+Wuro Kila	Mayo-Belwa	Adamawa	9.190	12.025	2	
+Wuro Mumini	Mayo-Belwa	Adamawa	9.153	12.018	2	
+Wuro Mallam Goni	Mayo-Belwa	Adamawa	9.155	12.025	2	
+Wuro Jabbe	Fufore	Adamawa	9.171	12.133	2	
+Wuro Dingan	Demsa	Adamawa	9.293	12.133	2	
+Wuro Jarumei	Mayo-Belwa	Adamawa	9.146	12.007	2	
+Wuro Babawa	Mayo-Belwa	Adamawa	9.133	12.004	2	
+Wuro Yaungo	Mayo-Belwa	Adamawa	9.141	12.025	2	
+Wuro Lamido	Mayo-Belwa	Adamawa	9.126	12.027	2	
+Wuro Masaiba	Mayo-Belwa	Adamawa	9.112	12.031	2	
+Wuro Gona	Mayo-Belwa	Adamawa	9.095	12.036	2	
+Wuro Bokki	Mayo-Belwa	Adamawa	9.088	12.033	2	
+Wuro Hausa	Mayo-Belwa	Adamawa	9.080	12.021	2	
+Wuro Dundere	Mayo-Belwa	Adamawa	9.067	12.028	2	
+Wuro Mallam Tajiri	Mayo-Belwa	Adamawa	9.125	12.057	2	
+Wuro Karewa	Mayo-Belwa	Adamawa	9.120	12.057	2	
+Wuro Hossere	Mayo-Belwa	Adamawa	9.123	12.066	2	
+Wuro Abba	Fufore	Adamawa	9.093	12.073	2	
+Wuro Moddibbo	Mayo-Belwa	Adamawa	9.030	12.012	2	
+Wuro Mallam Hamma	Mayo-Belwa	Adamawa	9.011	12.075	2	
+Wuro Sam	Fufore	Adamawa	9.034	12.071	2	
+Wuro Mallam Bawa	Mayo-Belwa	Adamawa	9.048	12.060	2	
+Wuro Bobo	Mayo-Belwa	Adamawa	9.014	12.127	2	
+Wuro Hossere	Fufore	Adamawa	9.094	12.133	2	
+Wuro Lede	Fufore	Adamawa	9.139	12.117	2	
+Wuro Bilali	Fufore	Adamawa	9.029	12.187	2	
+Wuro Sidiki	Fufore	Adamawa	9.040	12.195	2	
+Wuro Hassana	Fufore	Adamawa	9.035	12.201	2	
+Wuro Judo	Fufore	Adamawa	9.028	12.225	2	
+Wuro Wicco	Fufore	Adamawa	9.031	12.250	2	
+Wuro Gube	Fufore	Adamawa	9.086	12.249	2	
+Wuro Yandang	Fufore	Adamawa	9.127	12.240	2	
+Wuro Buba	Fufore	Adamawa	9.137	12.231	2	
+Wuro Bapola	Fufore	Adamawa	9.145	12.246	2	
+Wuro Yolde	Yola North	Adamawa	9.145	12.408	2	
+Wuro Kala	Lau	Taraba	9.259	11.534	2	
+Wuro-Jauro-Tuba	Lau	Taraba	9.224	11.515	2	
+Wurojugu	Lau	Taraba	9.231	11.558	2	
+Wuro Dibu	Lau	Taraba	9.214	11.564	2	
+Wuro Dabo	Lau	Taraba	9.242	11.606	2	
+Wuro-Shanu	Lau	Taraba	9.227	11.608	2	
+Wuro-Bobboi	Lau	Taraba	9.221	11.617	2	
+Wuro-Jauro	Yorro	Taraba	9.067	11.517	2	
+Wuro-Manu	Lau	Taraba	9.082	11.504	2	
+Wurajumo Lauru	Lau	Taraba	9.217	11.543	2	
+Wuro-Mangoro	Lau	Taraba	9.210	11.579	2	
+Wuro-Buba	Lau	Taraba	9.178	11.594	2	
+Wuro Vida	Lau	Taraba	9.174	11.598	2	
+Wuro-Jauro-Manu	Lau	Taraba	9.198	11.634	2	
+Wuro-Jalo	Lau	Taraba	9.213	11.620	2	
+Wuro Yakoko	Yorro	Taraba	9.126	11.584	2	
+Wurojugu	Lau	Taraba	9.230	11.571	2	
+Wuro Bello	Demsa	Adamawa	9.322	11.807	2	
+Wuro Jam	Numan	Adamawa	9.401	11.791	2	
+Wuroboki	Demsa	Adamawa	9.224	11.791	2	
+Wuro Jauro Hassana	Mayo-Belwa	Adamawa	9.121	11.978	2	
+Wuro Babbawa	Mayo-Belwa	Adamawa	9.127	11.990	2	
+Wuro Jauro Kadiri	Mayo-Belwa	Adamawa	9.126	11.964	2	
+Wuro Jibiri	Mayo-Belwa	Adamawa	9.128	11.959	2	
+Wuro Galadiwa	Demsa	Adamawa	9.202	11.933	2	
+Wuro Bokki Dakusun	Demsa	Adamawa	9.210	11.921	2	
+Wuro Kila	Mayo-Belwa	Adamawa	9.146	11.898	2	
+Wuro Yesso	Mayo-Belwa	Adamawa	9.121	11.939	2	
+Wuro Bogga	Alkaleri	Bauchi	9.662	10.693	2	Bohga
+Wudil	Akko	Gombe	9.930	10.962	2	
+Wundo	Alkaleri	Bauchi	9.785	10.831	2	
+Wuro Hamma	Karim Lamido	Taraba	9.398	10.913	2	
+Wuro Delo	Karim Lamido	Taraba	9.249	10.938	2	
+Kwata Wurkum	Karim Lamido	Taraba	9.298	10.769	2	
+Wuro Gendeji	Karim Lamido	Taraba	9.220	10.928	2	
+Wuro Shoful	Karim Lamido	Taraba	9.066	10.871	2	
+Wuro Biri	Karim Lamido	Taraba	9.280	11.142	2	
+Wuro Biri	Karim Lamido	Taraba	9.187	11.035	2	
+Wuro Daniel	Ardo-Kola	Taraba	9.091	11.041	2	
+Wuro Bedan	Ardo-Kola	Taraba	9.024	11.073	2	
+Wuro Buga	Ardo-Kola	Taraba	9.049	11.078	2	
+Wuro Adamu	Fufore	Adamawa	9.391	12.821	2	
+Wuro-Maundi	Fufore	Adamawa	9.135	12.627	2	Wuro Maundi
+Wuro-Mbamba	Yola North	Adamawa	9.161	12.533	2	Wuro Mbamba
+Wuro-Galandima	Fufore	Adamawa	9.421	12.791	2	Mbilla Bantaje Wuro Galadima
+Wuro Boloke	Fufore	Adamawa	9.126	12.855	2	
+Wuro-Adamu	Fufore	Adamawa	9.121	12.850	2	Wuro Adamu
+Wuro-Tugge	Fufore	Adamawa	9.075	12.880	2	Wuro Tugge
+Wuro-Dole	Fufore	Adamawa	9.010	12.824	2	Wuro Dole
+Wuro-Kurori	Fufore	Adamawa	9.208	12.676	2	Wuro Kurori
+Wuro-Ardo	Fufore	Adamawa	9.224	12.717	2	Wuro Ardo
+Wuro-Witiyen	Yola North	Adamawa	9.191	12.541	2	
+Wuro Chekke	Yola North	Adamawa	9.207	12.511	2	
+Wuro-Abba	Fufore	Adamawa	9.346	12.668	2	Wuro Abba
+Wuro-Mallum	Fufore	Adamawa	9.361	12.669	2	Wuro Mallum
+Wuro-Bayo	Fufore	Adamawa	9.386	12.717	2	Wuro Bayo
+Wuro Babawa	Girei	Adamawa	9.331	12.501	2	
+Wuro-Babale	Girei	Adamawa	9.346	12.515	2	Wuro Babale
+Wuro-Suratu	Girei	Adamawa	9.387	12.575	2	Wuro Suratu
+Wujuko	Wamba	Nasarawa	8.934	8.556	2	
+Wunju	Wamba	Nasarawa	8.961	8.679	2	
+Wuji	Wamba	Nasarawa	8.902	8.610	2	
+Wudi-Gambo	Wamba	Nasarawa	8.862	8.586	2	
+Wuji	Lafia	Nasarawa	8.794	8.717	2	
+Wulko	Akwanga	Nasarawa	8.917	8.480	2	
+Kagbo Wulko	Akwanga	Nasarawa	8.893	8.445	2	
+Wuro-Garuji	Ganye	Adamawa	8.449	12.122	2	Wuro Garuji|WuroGaruji
+Wuro-Modibbo	Ganye	Adamawa	8.381	12.109	2	Wuro Modibbo|WuroModibbo
+Wuro Magaji	Bali	Taraba	8.402	11.306	2	WuroMagaji
+Wuro Gardima Shepcin	Bali	Taraba	8.372	11.180	2	WuroGardimaShepcin
+Wuro Gbaciba	Bali	Taraba	8.376	11.183	2	WuroGbaciba
+Wuro Jalo	Bali	Taraba	8.242	11.066	2	WuroJalo
+Wuro Mumini	Teungo	Adamawa	8.210	11.985	2	WuroMumini
+Wuro Chindo	Shelleng	Adamawa	9.993	12.068	2	WuroChindo
+Wuro Bapayo	Shelleng	Adamawa	9.990	12.078	2	WuroBapayo
+Wuro Bakari	Shelleng	Adamawa	9.997	12.222	2	WuroBakari
+Wuro Kudora	Song	Adamawa	9.997	12.379	2	WuroKudora
+Wuro Mallam Baba	Shelleng	Adamawa	9.960	12.006	2	WuroMallamBaba
+Wuro De	Shelleng	Adamawa	9.902	12.068	2	WuroDe
+Wuro Allah	Song	Adamawa	9.846	12.487	2	WuroAllah
+Wuro Sarkin Baka	Song	Adamawa	9.778	12.497	2	WuroSarkinBaka
+Wuro Korau	Shelleng	Adamawa	9.822	12.074	2	WuroKorau
+Wuro Jauro	Shelleng	Adamawa	9.826	12.060	2	WuroJauro
+Wuro Jauro Sale	Shelleng	Adamawa	9.843	12.049	2	WuroJauroSale
+Wuro Basambo	Shelleng	Adamawa	9.787	12.036	2	WuroBasambo
+Wuro Yuriti	Shelleng	Adamawa	9.774	12.045	2	WuroYuriti
+Wuro Burama	Shelleng	Adamawa	9.775	12.057	2	WuroBurama
+Wuro Kitaku	Song	Adamawa	9.772	12.392	2	WuroKitaku
+Wuro Waziri Buba	Shelleng	Adamawa	9.753	12.056	2	WuroWaziriBuba
+Wuro Ardo	Shelleng	Adamawa	9.697	12.132	2	WuroArdo
+Wuro Bela	Girei	Adamawa	9.593	12.444	2	WuroBela
+Wuro Buba Late	Girei	Adamawa	9.591	12.419	2	WuroBubaLate
+Wuro Suleimanu	Girei	Adamawa	9.577	12.461	2	WuroSuleimanu
+Wuro Aba Murke	Girei	Adamawa	9.567	12.455	2	WuroAbaMurke
+Wuro Bayu	Girei	Adamawa	9.542	12.483	2	WuroBayu
+Hini Wuro	Girei	Adamawa	9.524	12.400	2	HiniWuro
+Wuro Banana	Girei	Adamawa	9.527	12.427	2	WuroBanana
+Wuro Abu	Girei	Adamawa	9.503	12.423	2	WuroAbu
+Wuro Hamadu	Shelleng	Adamawa	9.996	12.003	2	WuroHamadu
+Wuro Mallam Haman	Shelleng	Adamawa	9.984	12.210	2	WuroMallamHaman
+Wuro Yoro	Shelleng	Adamawa	9.964	12.005	2	WuroYoro
+Wuro Yerima	Shelleng	Adamawa	9.951	12.008	2	WuroYerima
+Wuro Bello	Song	Adamawa	9.854	12.358	2	WuroBello
+Wuro Alhaji	Shelleng	Adamawa	9.865	12.037	2	WuroAlhaji
+Wuro Tugge	Shelleng	Adamawa	9.675	12.094	2	WuroTugge
+Wuro Jauro Sale	Guyuk	Adamawa	9.650	12.004	2	WuroJauroSale
+Wuro Jauro Sheduri	Numan	Adamawa	9.636	12.012	2	WuroJauroSheduri
+Wuronbayi	Song	Adamawa	9.619	12.435	2	
+Wuro Adama	Girei	Adamawa	9.587	12.464	2	WuroAdama
+Wuro Umaru	Girei	Adamawa	9.552	12.448	2	WuroUmaru
+Wuro Wakili Hamma	Girei	Adamawa	9.544	12.439	2	WuroWakiliHamma
+Wuro Musa	Girei	Adamawa	9.525	12.427	2	WuroMusa
+Wuro Buba Gerengi	Girei	Adamawa	9.518	12.422	2	WuroBubaGerengi
+Wuro Mala	Girei	Adamawa	9.509	12.435	2	WuroMala
+Wuro Abana	Girei	Adamawa	9.522	12.430	2	WuroAbana
+Wuro Useni	Girei	Adamawa	9.522	12.442	2	WuroUseni
+Wuro Dawadi	Girei	Adamawa	9.503	12.487	2	WuroDawadi
+Wuro Buba Gaori	Girei	Adamawa	9.511	12.496	2	WuroBubaGaori
+Ngurore Wuro Ma'Auda	Song	Adamawa	9.939	12.616	2	NguroreWuroMa'Auda
+Wuro Bakurehi	Song	Adamawa	9.888	12.581	2	WuroBakurehi
+Wurongo	Song	Adamawa	9.887	12.567	2	
+Wuro Kurei Maigari	Song	Adamawa	9.846	12.627	2	WuroKureiMaigari
+Wuro Yolde	Song	Adamawa	9.839	12.632	2	WuroYolde
+Wuro Jalo	Song	Adamawa	9.838	12.639	2	WuroJalo
+Wuro Yakubu	Song	Adamawa	9.812	12.618	2	WuroYakubu
+Wuro Kesu	Song	Adamawa	9.725	12.968	2	WuroKesu
+Wuro Yolde	Song	Adamawa	9.755	12.885	2	WuroYolde
+Wuro Yahaya	Song	Adamawa	9.758	12.707	2	WuroYahaya
+Wuro Daudu	Song	Adamawa	9.744	12.715	2	WuroDaudu
+Wuro Nana	Fufore	Adamawa	9.751	12.725	2	WuroNana
+Wuro Jauro Hamman	Fufore	Adamawa	9.733	12.728	2	WuroJauroHamman
+Wuro Ngwaro	Song	Adamawa	9.713	12.960	2	WuroNgwaro
+Wuro Yolde	Song	Adamawa	9.652	12.959	2	WuroYolde
+Wuro Nalle	Song	Adamawa	9.646	12.954	2	WuroNalle
+Wuro Kudi	Song	Adamawa	9.654	12.523	2	WuroKudi
+Wuro Lainde	Song	Adamawa	9.645	12.545	2	WuroLainde
+Wuro Boyi	Girei	Adamawa	9.547	12.503	2	WuroBoyi
+Wuro Yolde	Girei	Adamawa	9.509	12.577	2	WuroYolde
+Wuna	Agaie	Niger	8.882	6.366	2	
+Wuna	Agaie	Niger	8.851	6.346	2	
+Wumba	Municipal Area Council	FCT Abuja	8.963	7.484	2	
+Wunale	Municipal Area Council	FCT Abuja	8.842	7.443	2	
+Wunashiri	Sardauna	Taraba	6.938	11.371	2	
+Wuro Umaru	Jada	Adamawa	8.732	12.018	2	
+Wuro Gurama	Jada	Adamawa	8.775	12.252	2	
+Wuro	Fufore	Adamawa	9.390	12.788	2	
+Wuro Modibbo	Yola North	Adamawa	9.172	12.548	2	
+Wuro Dole	Yola North	Adamawa	9.203	12.506	2	
+Wuro Bayo	Teungo	Adamawa	8.229	11.962	2	WuroBayo
+Wuro Jauro Amadu	Numan	Adamawa	9.587	12.020	2	WuroJauroAmadu
+Wuro Hamsami	Song	Adamawa	9.584	12.547	2	WuroHamsami
+Sabon Wuri	Kontagora	Niger	10.688	5.500	2	
 Wurno Road	Kaduna North	Kaduna	10.557	7.451	1	
 Wushishi Road	Kaduna North	Kaduna	10.509	7.429	1	
 Wukari Road	Kaduna North	Kaduna	10.515	7.439	1	
@@ -218,26 +973,20 @@ Wudil Road	Tarauni	Kano	11.977	8.565	1
 M. L. Wushishi Crescent	Municipal Area Council	FCT Abuja	9.075	7.452	1	
 Wushishi Street	Municipal Area Council	FCT Abuja	9.018	7.492	1	
 Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.282	10.367	1	
-Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.274	10.370	1	
 Wuye Crescent	Municipal Area Council	FCT Abuja	9.086	7.496	1	
 Wuse Market Road	Municipal Area Council	FCT Abuja	9.069	7.466	1	
 Wunti Roundabout	Bauchi	Bauchi	10.318	9.835	1	
 Wuraola Street	Mushin	Lagos	6.512	3.342	1	
-Wuse Shopping Plaza	Municipal Area Council	FCT Abuja	9.067	7.463	0	
 Wudil - Potiskum Federal Road	Nangere	Yobe	11.831	10.965	1	
-Wudil - Potiskum Federal Road	Potiskum	Yobe	11.715	11.061	1	
 Wudil - Potiskum Federal Road	Potiskum	Yobe	11.715	11.055	1	
+Jalingo - Wukari Road	Ardo-Kola	Taraba	8.896	11.290	1	
 Jibril Wudil street	Tarauni	Kano	11.975	8.562	1	
 Wudil - Potiskum Federal Road	Miga	Jigawa	12.175	9.737	1	
 Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.084	10.544	1	
 Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.938	10.736	1	
 Wudil - Potiskum Federal Road	Potiskum	Yobe	11.701	11.102	1	
-Wuse General Hospital	Municipal Area Council	FCT Abuja	9.064	7.469	0	Wuse General Hospital Zone 3
-Wuse Market	Municipal Area Council	FCT Abuja	9.069	7.468	0	
 Dr Ugo Wugo Road	Eti Osa	Lagos	6.444	3.527	1	
 Dr Ugo Wudo Road	Eti Osa	Lagos	6.442	3.527	1	
-Wurno Community Primary Health Center	Tafawa-Balewa	Bauchi	9.799	9.892	0	Burda Mph
-Wuro Geje Dispensary	Tafawa-Balewa	Bauchi	9.725	9.803	0	
 Tayo Wuraola Street	Ìkòròdú	Lagos	6.585	3.531	1	
 Wukari Street	Yola South	Adamawa	9.278	12.433	1	
 Wudil - Potiskum Federal Road	Wudil	Kano	11.810	8.881	1	
@@ -247,14 +996,37 @@ Wuraola Street	Alimosho	Lagos	6.670	3.264	1
 Wushishi Road	Kaduna North	Kaduna	10.509	7.424	1	
 Wudil - Potiskum Federal Road	Jahun	Jigawa	12.077	9.620	1	
 wudil potiskum Federal Road	Jahun	Jigawa	12.077	9.620	1	
-Wudil - Potiskum Federal Road	Potiskum	Yobe	11.710	11.085	1	
 Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.921	10.763	1	
 Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.895	10.795	1	
 Wudil - Potiskum Federal Road	Ringim	Jigawa	12.015	9.268	1	
 Wudil - Potiskum Federal Road	Jahun	Jigawa	12.050	9.434	1	
-Wudil - Potiskum Federal Road	Wudil	Kano	11.800	8.847	1	
-Wudil - Potiskum Federal Road	Wudil	Kano	11.796	8.840	1	
 Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.926	10.758	1	
+Wuju-Wuju Road	Gwale	Kano	11.996	8.495	1	
+Wushishi Station	Wushishi	Niger	9.748	6.046	0	
+Jauro Baba Wuro Dispensary	Shani	Borno	10.260	11.872	0	
+Wumbi Health Clinic	Kala-Balge	Borno	12.361	14.359	0	
+Wunje Dispensary	Shani	Borno	10.186	12.008	0	
+Wupa	Municipal Area Council	FCT Abuja	9.025	7.395	0	
+Wushi H Post	Ganjuwa	Bauchi	10.730	9.607	0	
+General Hospital Wurno	Wurno	Sokoto	13.296	5.417	0	
+wuro ladde heath clinic	Shelleng	Adamawa	9.890	12.204	0	
+Wuro Bakumbo Health Post	Demsa	Adamawa	9.308	12.024	0	
+wuro gayadi primary heath post	Michika	Adamawa	10.713	13.389	0	
+dispensary wuro bamadi	Maiha	Adamawa	9.574	13.107	0	
+Wuye Ultra Modern Market	Municipal Area Council	FCT Abuja	9.051	7.444	0	
+Wumba Junction	Municipal Area Council	FCT Abuja	8.974	7.486	0	
+Wumba Cashew Garden Junction	Municipal Area Council	FCT Abuja	8.973	7.486	0	
+Wuse District Hospital Bus Stop	Municipal Area Council	FCT Abuja	9.063	7.468	0	
+Wuse Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.464	0	
+Wuse Bus Station	Municipal Area Council	FCT Abuja	9.066	7.465	0	
+Wuse General Hospital First Gate Bus Stop	Municipal Area Council	FCT Abuja	9.062	7.468	0	
+Wuse Market Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.465	0	
+Maitama - Wuse Ii Bridge	Municipal Area Council	FCT Abuja	9.087	7.474	0	
+Wuse Shopping Plaza	Municipal Area Council	FCT Abuja	9.067	7.463	0	
+Wuse General Hospital	Municipal Area Council	FCT Abuja	9.064	7.469	0	Wuse General Hospital Zone 3
+Wuse Market	Municipal Area Council	FCT Abuja	9.069	7.468	0	
+Wurno Community Primary Health Center	Tafawa-Balewa	Bauchi	9.799	9.892	0	Burda Mph
+Wuro Geje Dispensary	Tafawa-Balewa	Bauchi	9.725	9.803	0	
 Wudil General Hospital	Wudil	Kano	11.798	8.847	0	
 Wundi Maternity Health Clinic	Toro	Bauchi	10.478	8.898	0	
 Wurno Dispensary	Toro	Bauchi	10.406	8.828	0	
@@ -283,29 +1055,3 @@ Wuitire Dispensary	Fufore	Adamawa	8.851	12.400	0
 Wuro Bokki Health Post	Hong	Adamawa	10.178	12.885	0	
 wuro halde health post	Kirfi	Bauchi	10.299	10.303	0	
 wuro harde health post	Kirfi	Bauchi	10.299	10.303	0	
-Wuju-Wuju Road	Gwale	Kano	11.996	8.495	1	
-Wuju-Wuju Road	Gwale	Kano	11.994	8.501	1	
-Wudil - Potiskum Federal Road	Potiskum	Yobe	11.714	11.067	1	
-Wuro Golare	Gombi	Adamawa	10.098	12.680	2	
-Wuro Yaji	Gombi	Adamawa	10.098	12.672	2	
-Wuse Market Road	Municipal Area Council	FCT Abuja	9.069	7.464	1	
-Ruwa Wuri	Tangaza	Sokoto	13.709	4.983	2	
-Wurno	Wurno	Sokoto	13.243	5.476	2	
-Wurogauri	Kalgo	Kebbi	12.335	4.028	2	
-Wuciciri	Zaria	Kaduna	10.991	7.770	2	
-Wudilawa	Gaya	Kano	11.796	8.903	2	
-Wuro Bagga	Bagwai	Kano	12.163	8.109	2	
-Wudil	Wudil	Kano	11.809	8.849	2	
-Wudil	Wudil	Kano	11.767	8.839	2	
-Wurma A	Kurfi	Katsina	12.553	7.430	2	
-Wurma B	Kurfi	Katsina	12.589	7.389	2	
-Wushishi	Wushishi	Niger	9.711	5.910	2	
-Nzuda Wuyaram	Damboa	Borno	11.090	12.725	2	
-Wurno	Birnin Kudu	Jigawa	11.307	9.635	2	
-Wuyo	Bayo	Borno	10.369	11.746	2	
-Wulo	Monguno	Borno	12.529	13.480	2	
-Wulgo	Ngala	Borno	12.528	14.120	2	
-Wuya	Anka	Zamfara	12.023	6.059	2	
-Wuye	Municipal Area Council	FCT Abuja	9.047	7.442	2	
-Wuse	Municipal Area Council	FCT Abuja	9.063	7.470	2	
-Wuse II	Municipal Area Council	FCT Abuja	9.075	7.476	2	

@@ -1,3 +1,9 @@
+Teshegwa	Kiri Kasama	Jigawa	12.548	10.142	3	
+Tede	Atisbo	Oyo	8.550	3.450	3	
+ekiti state government territory	Adó-Èkìtì	Ekiti	7.623	5.213	3	
+Tegina	Rafi	Niger	10.067	6.185	3	
+Kwaya Kusar	Kwaya Kusar	Borno	10.503	11.843	3	Kawaya Tera|Kwaia|Kwaya|Kwaya Tera|Kwaya Terra
+Terminus	Jos North	Plateau	9.919	8.893	2	
 Oshuko	Olorunsogo	Oyo	8.850	4.050	2	Oshuko;Tesi Baba Pupa
 Kwara Tegi	Dandi	Kebbi	11.623	3.837	2	
 Telasi	Hawul	Borno	10.428	12.050	2	Telasa
@@ -12,9 +18,7 @@ Tebidaba	Southern Ijaw	Bayelsa	4.578	5.968	2	Tebitaba
 Tepia	Munya	Niger	9.917	7.083	2	Tepiya
 Teacher	Aiyedade	Osun	7.233	4.283	2	Aba-Teacher
 Tubegbe	Burutu	Delta	5.118	5.869	2	Tebegbe
-Teshegwa	Kiri Kasama	Jigawa	12.548	10.142	3	
 Bera Tera	Bayo	Borno	10.520	11.616	2	
-Tede	Atisbo	Oyo	8.550	3.450	3	
 Tebitabator	Southern Ijaw	Bayelsa	4.480	5.916	2	
 Tugan Teku	Borgu	Niger	10.537	4.463	2	
 Temakiri	Degema	Rivers	4.526	6.863	2	
@@ -25,30 +29,13 @@ Tena	Asari-Toru	Rivers	4.783	6.819	2	Tema;Tena
 Tungan Tero	Suru	Kebbi	11.776	4.133	2	
 Teti	Hawul	Borno	10.336	12.034	2	
 Telam	Kala-Balge	Borno	12.303	14.417	2	Tilam
+Tepkwar	Sardauna	Taraba	6.667	11.117	2	Kouar;Kuar
 Jangara	Shiroro	Niger	10.236	6.670	2	Jangaru;Tegina Kumbata;Jangaro
 Tewon	Epe	Lagos	6.602	3.944	2	Temu
 Teshena	Zaki	Bauchi	12.306	10.288	2	
 Teli	Bayo	Borno	10.445	11.704	2	Telli
 Temidire	Oluyole	Oyo	7.307	3.967	2	
 Tekke	Gada	Sokoto	13.585	5.885	2	
-Texaco	Chikun	Kaduna	10.339	7.394	0	
-Texaco	Kaduna North	Kaduna	10.522	7.430	0	
-Texaco	Zaria	Kaduna	11.092	7.717	0	
-Texaco	Sabon Gari	Kaduna	11.105	7.723	0	
-National Teachers Institute	Igabi	Kaduna	10.620	7.470	0	
-government science and tecnology	Egor	Edo	6.382	5.630	0	
-Metropolitan Institute of Technology	Oredo	Edo	6.305	5.625	0	
-Milkon institute of information technology	Oredo	Edo	6.313	5.616	0	
-Texaco	Municipal Area Council	FCT Abuja	9.117	7.453	0	
-Hematology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
-Pharmacy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
-Olu Aka Di Mma Vocational Technical Training Centre	Enugu North	Enugu	6.431	7.478	0	
-The Calvary Institute Of Technology	Enugu North	Enugu	6.428	7.479	0	
-Enugu State College Of Education (Technical), Enugu	Enugu North	Enugu	6.460	7.499	0	
-Enugu State College Of Education Technical Enugu	Enugu North	Enugu	6.460	7.499	0	
-ekiti state government territory	Adó-Èkìtì	Ekiti	7.623	5.213	3	
-ade oyo maternity teaching hospital	Ibadan North	Oyo	7.387	3.902	0	
-Ikotun Terminal	Alimosho	Lagos	6.548	3.268	0	
 Telatsinghi	Kwaya Kusar	Borno	10.422	12.021	2	Chani
 Tenteni	Bayo	Borno	10.673	11.759	2	
 Kaltumi Telari	Nganzai	Borno	12.405	13.335	2	
@@ -67,13 +54,345 @@ Tele Beri	Abadam	Borno	13.412	13.541	2
 Teba	Hawul	Borno	10.580	12.334	2	
 Technical Quarters	Damboa	Borno	11.175	12.755	2	
 Teguessa	Diffa	Borno	13.347	12.733	2	
-girls technical college	Aba North	Abia	5.124	7.385	0	
 point ten Bomala Gona Div.	Gombe	Gombe	10.256	11.168	2	
+Telari	Nganzai	Borno	12.569	13.367	2	
+Rigar Tela	Bebeji	Kano	11.463	8.303	2	
+Tailafiya	Makoda	Kano	12.589	8.532	2	Telafia
+Kano State University Of Science And Technology	Wudil	Kano	11.805	8.856	2	
+Kakara Tea Farm	Sardauna	Taraba	6.848	11.123	2	
+Tebuzor	Warri South-West	Delta	5.601	5.236	2	
+Teidegbene	Warri South-West	Delta	5.709	5.348	2	
+Ijesha Tedo	Surulere	Lagos	6.488	3.333	2	
+Teteba	Gulani	Yobe	10.740	11.704	2	
+Telli	Bayo	Borno	10.455	11.681	2	
+Dogo Tebo	Potiskum	Yobe	11.727	11.071	2	
+Television	Kaduna South	Kaduna	10.446	7.423	2	
+Teungo	Teungo	Adamawa	7.870	11.884	2	
+Yira Teku	Takum	Taraba	7.277	10.113	2	
+Tilam	Kala-Balge	Borno	12.297	14.431	2	Telam
+Tewure	Ori Ire	Oyo	8.323	4.211	2	
+Tetek	Shelleng	Adamawa	9.941	12.048	2	
+Tete	Rano	Kano	11.491	8.561	2	
+Tetaladan	Mokwa	Niger	9.350	5.867	2	
+Tesi-Baba-Pupa	Olorunsogo	Oyo	8.852	4.058	2	Oshuko|Tesi Baba Pupa
+Teseyin	Ijebu North	Ogun	7.017	4.047	2	
+Terwegh	Kwande	Benue	6.925	9.508	2	
+Terkende	Konshisha	Benue	7.322	8.538	2	
+Terkaa	Gboko	Benue	7.407	8.698	2	
+Terema	Bassa	Plateau	9.734	8.650	2	
+Tepona	Obafemi Owode	Ogun	6.967	3.300	2	
+Tepkwar	Sardauna	Taraba	6.673	11.149	2	Kouar|Kuar
+Tenleke	Saki East	Oyo	8.776	3.394	2	
+Tengle	Tarka	Benue	7.657	8.839	2	
+Tengikiri	Nembe	Bayelsa	4.574	6.288	2	Lengikiri
+Tengel Iornumbe	Konshisha	Benue	7.077	8.532	2	
+Tengelekiri	Akuku Toru	Rivers	4.688	6.561	2	
+Tenende	Mashegu	Niger	9.928	5.642	2	Tenenge
+Tenebo	Kaiama	Kwara	9.660	3.963	2	Timebo
+Tenan	Ushongo	Benue	7.154	8.929	2	
+Tena	Shelleng	Adamawa	10.169	12.267	2	
+Tena	Shelleng	Adamawa	10.146	12.206	2	
+Temu	Ewekoro	Ogun	7.025	3.131	2	
+Temrashi	Fufore	Adamawa	8.998	12.455	2	
+Tempure	Akko	Gombe	10.287	11.106	2	
+Temidire Market	Itesiwaju	Oyo	8.328	3.571	2	
+Temidire Atoyebi	Ogbomosho South	Oyo	8.085	4.213	2	
+Temidire-Araromi	Iwajowa	Oyo	7.898	3.230	2	Temidire Araromi|TemidireAraromi
+Temidire	Asa	Kwara	8.490	4.344	2	
+Temidire	Surulere	Oyo	8.017	4.434	2	
+Temidire	Iwajowa	Oyo	7.899	3.234	2	
+Temidire	Ìsẹ́yìn	Oyo	7.773	3.508	2	
+Temidire	Ibarapa East	Oyo	7.616	3.504	2	
+Temidire	Akinyele	Oyo	7.559	3.906	2	
+Teme	Wasagu-Danko	Kebbi	11.664	5.041	2	
+Temazongu	Gwer East	Benue	7.380	8.571	2	
+Tema	Konshisha	Benue	7.347	8.608	2	
+Tema	Ushongo	Benue	7.112	8.910	2	
+Teho	Asari-Toru	Rivers	4.783	6.817	2	Tema|Tena
+Telemu	Ola Oluwa	Osun	7.674	4.256	2	
+Tela	Afijio	Oyo	7.728	3.767	2	
+Tekere	Jada	Adamawa	8.688	11.999	2	
+Tekere	Jada	Adamawa	8.607	12.222	2	
+Tejuosho	Obafemi Owode	Ogun	7.100	3.600	2	
+Tejehun	Odeda	Ogun	7.340	3.528	2	
+Teibo	Yewa North	Ogun	7.330	2.871	2	
+Tegkete	Ushongo	Benue	7.188	8.980	2	
+Tegisiv	Ussa	Taraba	7.225	10.155	2	
+Teghtegh	Konshisha	Benue	7.404	8.612	2	
+Tegeri	Kogi	Kogi	8.277	6.922	2	
+Tebu II	Warri North	Delta	5.841	5.137	2	Tebu
+Tebla	Gombi	Adamawa	10.176	12.459	2	
+Tebidaba Market	Southern Ijaw	Bayelsa	4.524	5.930	2	
+Ago-Teacher	Yewa South	Ogun	6.755	2.977	2	Teacher
+Tekpagi	Mokwa	Niger	9.203	5.396	2	Takwagi
+Osuntedo	Ejigbo	Osun	7.694	4.329	2	Awshun Teddo
+Isaga-Tedo	Oshodi/Isolo	Lagos	6.527	3.326	2	Isagatedo|Ishaga
+Gidan Tetige	Rafi	Niger	10.400	6.367	2	
+Ekpene Tete	Akpabuyo	Cross River	4.931	8.431	2	
+Barakin Tenti Maigajerin Wondo	Jos South	Plateau	9.717	8.876	2	Barakin Tenti
+Apata-Tesi	Olorunsogo	Oyo	8.787	4.046	2	Apata Tesi
+Agboyi Tewure	Asa	Kwara	8.283	4.450	2	
+Ijesha-Tedo	Surulere	Lagos	6.487	3.333	2	Ijesa-Tedo
+Tegiri	Akinyele	Oyo	7.633	3.940	2	
+Teju	Akinyele	Oyo	7.511	3.864	2	
+Tela	Akinyele	Oyo	7.547	3.994	2	
+Temokiri	Degema	Rivers	4.523	6.851	2	Temakiri
+Tejugbola	Idanre	Ondo	7.012	5.138	2	
+Ago-Teju	Idanre	Ondo	7.161	5.073	2	
+Telasa	Hawul	Borno	10.428	12.052	2	
+Temidire	Ijebu East	Ogun	6.718	4.252	2	
+Tebuju	Ese Odo	Ondo	6.302	4.913	2	
+Telafia	Makoda	Kano	12.587	8.533	2	
+Tugan Dan Teku	Borgu	Niger	10.854	4.287	2	
+Tela	Fakai	Kebbi	11.480	4.803	2	
+Tebu I	Warri North	Delta	5.848	5.108	2	Tebu
+Tetiere	Ekeremor	Bayelsa	4.902	5.548	2	
+Teinmerenighagbene	Ekeremor	Bayelsa	4.994	5.623	2	
+Telosegbene	Ekeremor	Bayelsa	4.782	5.656	2	
+Tebitubator	Southern Ijaw	Bayelsa	4.480	5.916	2	Tebitabator
+Teka Sogho	Khana	Rivers	4.757	7.382	2	
+Tem Luekon	Khana	Rivers	4.743	7.440	2	
+Ungwan Telemu	Soba	Kaduna	11.000	8.086	2	
+Batsari	Batsari	Katsina	12.779	7.234	2	Agbegbe Ijoba Ibile Batsari|Batsari Local Government Area|ba te sa li
+Teungo	Teungo	Adamawa	7.996	11.842	2	Toungo|Toungo Local Government Area
+Marte	Marte	Borno	12.410	13.873	2	Agbegbe Ijoba Ibile Marte|Marte Local Government Area|ma er te
+Termoa	Fune	Yobe	11.576	11.699	2	
+Telegh	Gwer East	Benue	7.297	8.450	2	
+Tela	Gassol	Taraba	8.391	10.514	2	
+Telli	Bayo	Borno	10.459	11.678	2	
+Teteba	Gulani	Yobe	10.758	11.707	2	
+Tepe	Markurdi	Benue	7.628	8.461	2	
+Ter	Wukari	Taraba	7.841	9.860	2	
+Terna	Gboko	Benue	7.458	9.011	2	
+Tema	Gboko	Benue	7.382	9.027	2	
+Tela	Gboko	Benue	7.372	9.021	2	
+Ter	Gboko	Benue	7.291	9.118	2	
+Tema	Buruku	Benue	7.257	9.172	2	
+Tev	Katsina-Ala	Benue	7.474	9.409	2	
+Teeve	Katsina-Ala	Benue	7.405	9.456	2	
+Teghtegh	Ushongo	Benue	7.220	9.009	2	
+Tegba	Gboko	Benue	7.478	8.909	2	
+Teryima	Gboko	Benue	7.399	8.830	2	
+Tebeteboikiri	Nembe	Bayelsa	4.462	6.393	2	
+Terminus Settlement	Brass	Bayelsa	4.298	6.241	2	
+Tefic	Brass	Bayelsa	4.316	6.447	2	
+Teregi	Lavun	Niger	9.424	5.762	2	
+Teteko	Gbako	Niger	9.041	5.869	2	
+Teme	Mayo-Belwa	Adamawa	8.991	12.050	2	
+Tedi Muwo	Amuwo Odofin	Lagos	6.446	3.218	2	
+Temideri	Ajeromi/Ifelodun	Lagos	6.443	3.341	2	
+Ijebu Tedo	Shomolu	Lagos	6.540	3.369	2	
+Ifesowapa Temu Oke Oso	Epe	Lagos	6.657	3.854	2	
+Gidan Tekpa	Karu	Nasarawa	9.049	7.924	2	
+Tega	Zangon Kataf	Kaduna	9.690	8.179	2	
+Old Tenge	Zangon Kataf	Kaduna	9.919	8.086	2	
+Tel	Shendam	Plateau	8.678	9.361	2	
+Tenfiaso	Southern Ijaw	Bayelsa	4.728	5.597	2	
+Tetepon	Warri South-West	Delta	5.603	5.347	2	
+Arunton Tebu	Warri North	Delta	5.836	5.138	2	
+Teme Tugga	Mayo-Belwa	Adamawa	9.178	12.030	2	
+Sindigawo Teme	Mayo-Belwa	Adamawa	9.190	12.050	2	
+Teme	Mayo-Belwa	Adamawa	9.137	12.026	2	
+Wom Terashi	Fufore	Adamawa	9.021	12.427	2	
+Tere	Demsa	Adamawa	9.249	11.860	2	
+Temu	Demsa	Adamawa	9.237	11.917	2	
+Ungwar Tella	Karim Lamido	Taraba	9.304	11.158	2	
+Tefiade	Irewole	Osun	7.432	4.239	2	
+Tebo	Aiyedade	Osun	7.180	4.297	2	
+Temidire	Aiyedade	Osun	7.227	4.334	2	
+Abu-Tebo	Irepodun	Osun	7.929	4.529	2	
+Jesu-Tedo	Yewa North	Ogun	7.139	2.867	2	
+Tejuola	Yewa South	Ogun	6.751	2.843	2	
+Tegh	Guma	Benue	8.075	8.554	2	
+New Teshe	Kaiama	Kwara	9.327	3.840	2	
+Old Teshe	Kaiama	Kwara	9.333	3.839	2	
+Tekule	Ondo West	Ondo	7.070	4.693	2	
+Temidire	Ondo West	Ondo	7.057	4.671	2	
+Temidire	Ile Oluji/Okeigbo	Ondo	7.316	4.785	2	
+Temidire	Ile Oluji/Okeigbo	Ondo	7.322	4.822	2	
+Tepo	Ondo East	Ondo	7.020	4.987	2	
+Tekule	Ondo East	Ondo	7.030	4.988	2	
+Temidire	Ondo East	Ondo	7.152	4.909	2	
+Temidire	Ori Ire	Oyo	8.337	4.230	2	
+Temidire	Ibarapa East	Oyo	7.458	3.501	2	
+Tela	Oluyole	Oyo	7.249	3.926	2	
+Teu	Baruten	Kwara	9.302	3.166	2	
+Temidire	Baruten	Kwara	9.327	3.161	2	
+Tede	Akwanga	Nasarawa	8.972	8.267	2	
+Temidire	Oyo West	Oyo	7.854	3.746	2	
+Temidire	Afijio	Oyo	7.776	3.926	2	
+Temidire	Ejigbo	Osun	7.916	4.203	2	
+Temidire	Ogo Oluwa	Oyo	7.931	4.230	2	
+Temidire	Ogo Oluwa	Oyo	7.962	4.331	2	
+Sango-Tede	Egbedore	Osun	7.819	4.392	2	
+Gang Telani	Ganye	Adamawa	8.420	11.654	2	GangTelani
+Tetsa	Song	Adamawa	9.680	12.494	2	
+Teuta	Song	Adamawa	9.805	12.349	2	
+Teleuchi	Fufore	Adamawa	9.545	12.783	2	
+Temidire	Ilorin West	Kwara	8.459	4.515	2	
+Tersha	Toto	Nasarawa	8.454	7.002	2	
+Tem	Sardauna	Taraba	6.782	11.299	2	
+Tempetal	Sardauna	Taraba	6.948	11.438	2	
+Tep	Sardauna	Taraba	6.655	11.200	2	
+Terbanda	Sardauna	Taraba	6.921	11.314	2	
+Tebabal	Sardauna	Taraba	6.655	11.117	2	
+Leme Tele	Sardauna	Taraba	6.764	11.180	2	
+Tebene	Sardauna	Taraba	6.917	11.380	2	
+Tejidi	Sardauna	Taraba	6.827	11.460	2	
+Tekobi	Sardauna	Taraba	6.958	11.506	2	
+Tebene	Sardauna	Taraba	6.789	11.412	2	
+Tebu	Aiyedire	Osun	7.578	4.228	2	
+Temidire	Ori Ire	Oyo	8.089	4.127	2	
+Temidire	Surulere	Oyo	8.062	4.446	2	
+Federal Road F215 Owo - Tegina	Pategi	Kwara	8.581	5.521	1	
+Edo Textile Mill road	Egor	Edo	6.359	5.607	1	
+Tanko Tete Crescent	Kaduna South	Kaduna	10.462	7.425	1	
+Textile Road	Kaduna South	Kaduna	10.478	7.418	1	
+Technical Road	Egor	Edo	6.380	5.618	1	
+Temidire Street	Oshodi/Isolo	Lagos	6.562	3.335	1	
+Temidire Street	Alimosho	Lagos	6.678	3.266	1	
+Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.771	5.736	1	
+Temidire Street	Ajeromi/Ifelodun	Lagos	6.444	3.345	1	
+Tenth Ave	Ibadan South West	Oyo	7.363	3.856	1	
+Olu Holloway Road	Eti Osa	Lagos	6.459	3.430	1	Temple Road
+Tejuoso Street	Surulere	Lagos	6.506	3.366	1	
+Teledalase Street	Kosofe	Lagos	6.556	3.403	1	
+Temple Street	Surulere	Lagos	6.490	3.365	1	
+Temidire Street	Surulere	Lagos	6.511	3.341	1	
+Alhaji Tella Street	Alimosho	Lagos	6.597	3.296	1	
+Temidire Olohunlogbon Street	Agege	Lagos	6.611	3.312	1	
+Castle and Temple Drive	Eti Osa	Lagos	6.457	3.479	1	
+Teslim O. Elias Street	Municipal Area Council	FCT Abuja	9.075	7.452	1	
+Tema Street	Municipal Area Council	FCT Abuja	9.070	7.457	1	
+Technical Road	Egor	Edo	6.384	5.639	1	
+Teteba - Miringa Road	Biu	Borno	10.798	11.795	1	
+Tejuosho Avenue	Surulere	Lagos	6.504	3.369	1	
+Temple Street	Shomolu	Lagos	6.541	3.392	1	
+Ademola Adesoye Street (Temidire zone 5)	Egbedore	Osun	7.775	4.529	1	
+Temitope Street	Oshodi/Isolo	Lagos	6.515	3.329	1	
+Temidire Street	Alimosho	Lagos	6.620	3.289	1	
+Abiola Telli way	Alimosho	Lagos	6.634	3.286	1	
+Tebun Fagbemi Street	Ifako/Ijaye	Lagos	6.676	3.282	1	
+Terry Grillo Street	Ifako/Ijaye	Lagos	6.661	3.296	1	
+Federal Road F215 Owo - Tegina	Bida	Niger	9.085	6.010	1	
+Federal Road F215 Owo - Tegina	Gbako	Niger	9.488	6.038	1	
+Ekulu Terrace	Enugu East	Enugu	6.469	7.499	1	
+ESUTH Teaching Hospital Road	Enugu North	Enugu	6.464	7.495	1	
+Nwosu Terrace	Enugu North	Enugu	6.437	7.495	1	
+Aba Tete Street	Enugu South	Enugu	6.400	7.491	1	
+Emenite Terrace	Enugu East	Enugu	6.474	7.578	1	
+Prophet Temple Street	Enugu East	Enugu	6.466	7.554	1	
+Teaching Hospital Road	Enugu North	Enugu	6.437	7.480	1	
+Bello Kano Terrace	Tarauni	Kano	11.983	8.545	1	
+temple road	Jos North	Plateau	9.856	8.856	1	
+Federal Road F215 Owo - Tegina	Rafi	Niger	9.946	6.140	1	
+Federal Road F215 Owo - Tegina	Bida	Niger	9.070	6.005	1	
+Federal Road F215 Owo - Tegina	Edati	Niger	8.894	5.870	1	
+Temple Avenue	Enugu North	Enugu	6.444	7.489	1	
+Technology Drive	Ibadan North	Oyo	7.442	3.893	1	
+Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.455	5.470	1	
+Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.310	5.444	1	
+Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.428	5.461	1	
+Federal Road F215 Owo - Tegina	Yagba East	Kogi	8.148	5.680	1	
+Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.259	5.609	1	
+Temade Street	Ìkòròdú	Lagos	6.633	3.502	1	
+Teco Avenue	Ikeja	Lagos	6.628	3.364	1	
+Federal Road F215 Owo - Tegina	Wushishi	Niger	9.814	6.160	1	
+Federal Road F215 Owo - Tegina	Wushishi	Niger	9.828	6.153	1	
+Ikoyi Tedo Street	Eti Osa	Lagos	6.454	3.568	1	
+Tetlow Road	Owerri Municipal	Imo	5.483	7.037	1	
+Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.199	5.647	1	
+Federal Road F215 Owo - Tegina	Akoko South West	Ondo	7.389	5.723	1	
+Federal Road F215 Owo - Tegina	Ijumu	Kogi	7.811	5.747	1	
+Federal Road F.215 Owo - Tegina	Edati	Niger	8.990	5.951	1	
+Federal Road F215 Owo - Tegina	Edati	Niger	8.902	5.879	1	
+Federal Road F215 Owo - Tegina	Mokwa	Niger	8.776	5.800	1	
+Federal Road F215 Owo - Tegina	Pategi	Kwara	8.719	5.743	1	
+Federal Road F215 Owo - Tegina	Yagba East	Kogi	7.913	5.763	1	
+Federal Road F215 Owo - Tegina	Edati	Niger	8.880	5.855	1	
+Federal Road F215 Owo - Tegina	Pategi	Kwara	8.726	5.801	1	
+Teteba - Miringa Road	Biu	Borno	10.732	12.145	1	
+Adejumo Tennis Club Road	Oshodi/Isolo	Lagos	6.541	3.310	1	
+Tertiary Road	Obi Ngwa	Abia	5.131	7.525	1	
+Hi-Tech Road	Eti Osa	Lagos	6.472	3.603	1	
+Mai Unguwa Tela Street	Tarauni	Kano	11.956	8.541	1	
+Fatima Teidi Close	Eti Osa	Lagos	6.470	3.576	1	
+Temidire Street	Oriade	Osun	7.567	4.895	1	
+Temidire Close	Ede North	Osun	7.717	4.490	1	
+Oke Oja/Temidire/Ayegunle/Ijero Road	Ido-Osi	Ekiti	7.866	5.160	1	
+Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.681	5.751	1	
+Federal Road F215 Owo - Tegina	Akoko South West	Ondo	7.310	5.664	1	
+Federal Road F215 Owo - Tegina	Ọ̀wọ̀	Ondo	7.264	5.624	1	
+Temple Ave	Ifako/Ijaye	Lagos	6.663	3.316	1	
+Temitayo Ayodeji Street	Alimosho	Lagos	6.588	3.275	1	
+Nathan Tella Close	Alimosho	Lagos	6.633	3.259	1	
+Temitayo Street	Ifako/Ijaye	Lagos	6.682	3.281	1	
+Temple Road	Ifo	Ogun	6.675	3.303	1	
+Temple Road	Ifako/Ijaye	Lagos	6.674	3.296	1	
+Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.721	5.735	1	
+Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.725	5.728	1	
+Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.523	5.752	1	
+Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.506	5.745	1	
+Texaco Lane	Eti Osa	Lagos	6.455	3.443	1	
+Temidire Eleweran Road	Ife North	Osun	7.516	4.487	1	
+Ben Temofeh Crescent	Eti Osa	Lagos	6.492	3.596	1	
+Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.610	5.769	1	
+Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.644	5.759	1	
+Terab Street	Kaduna North	Kaduna	10.529	7.456	1	
+Temidire Street	Adó-Èkìtì	Ekiti	7.607	5.215	1	
+Olajide Oluwadamilare Street (Temidire zone 9)	Egbedore	Osun	7.775	4.527	1	
+Tete Street	Ika South	Delta	6.246	6.182	1	
+Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.483	5.737	1	
+Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.562	5.766	1	
+Temidayo Street	Ìkòròdú	Lagos	6.653	3.558	1	
+Bonny Terminal	Bonny	Rivers	4.429	7.174	1	
+Adamu Tela Street	Ungongo	Kano	11.977	8.448	1	
+Temidayo Daibo Close	Eti Osa	Lagos	6.455	3.618	1	
+Terminal Access Road	Bodinga	Sokoto	12.919	5.200	1	
+Temitope Close	Ifo	Ogun	6.671	3.324	1	
+Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.209	5.638	1	
+Federal Road F215 Owo - Tegina	Pategi	Kwara	8.610	5.638	1	
+Federal Road F215 Owo - Tegina	Pategi	Kwara	8.621	5.661	1	
+Federal Road F215 Owo - Tegina	Pategi	Kwara	8.647	5.682	1	
+Federal Road F215 Owo - Tegina	Pategi	Kwara	8.671	5.707	1	
+Federal Road F215 Owo - Tegina	Pategi	Kwara	8.690	5.725	1	
+Federal Road F215 Owo - Tegina	Pategi	Kwara	8.735	5.810	1	
+Federal Road F215 Owo - Tegina	Wushishi	Niger	9.585	6.024	1	
+Federal Road F215 Owo - Tegina	Wushishi	Niger	9.585	6.024	1	
+Federal Road F215 Owo - Tegina	Gbako	Niger	9.354	6.030	1	
+Federal Road F215 Owo - Tegina	Gbako	Niger	9.234	6.027	1	
+Federal Road F215 Owo - Tegina	Wushishi	Niger	9.727	6.081	1	
+Federal Road F215 Owo - Tegina	Bida	Niger	9.121	6.012	1	
+Teco Benson Drive	Eti Osa	Lagos	6.446	3.606	1	
+Teslim Close	Akinyele	Oyo	7.515	3.890	1	
+Babayaro Street (Layin High Tension)	Ungongo	Kano	11.973	8.445	1	
+Testimony Lane	Obio/Akpor	Rivers	4.839	7.056	1	
+King Temitope Crescent	Ife Central	Osun	7.497	4.531	1	
+Testing Ground	Iwo	Osun	7.641	4.171	1	
+Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.500	5.750	1	
+Teteba - Miringa Road	Biu	Borno	10.780	11.999	1	
+Bonny Terminal	Bonny	Rivers	4.604	7.261	1	
+Bonny Terminal	Bonny	Rivers	4.412	7.194	1	
+Texaco	Chikun	Kaduna	10.339	7.394	0	
+Texaco	Kaduna North	Kaduna	10.522	7.430	0	
+Texaco	Zaria	Kaduna	11.092	7.717	0	
+National Teachers Institute	Igabi	Kaduna	10.620	7.470	0	
+government science and tecnology	Egor	Edo	6.382	5.630	0	
+Metropolitan Institute of Technology	Oredo	Edo	6.305	5.625	0	
+Milkon institute of information technology	Oredo	Edo	6.313	5.616	0	
+Texaco	Municipal Area Council	FCT Abuja	9.117	7.453	0	
+Hematology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
+Pharmacy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
+Olu Aka Di Mma Vocational Technical Training Centre	Enugu North	Enugu	6.431	7.478	0	
+The Calvary Institute Of Technology	Enugu North	Enugu	6.428	7.479	0	
+Enugu State College Of Education (Technical), Enugu	Enugu North	Enugu	6.460	7.499	0	
+Enugu State College Of Education Technical Enugu	Enugu North	Enugu	6.460	7.499	0	
+ade oyo maternity teaching hospital	Ibadan North	Oyo	7.387	3.902	0	
+Ikotun Terminal	Alimosho	Lagos	6.548	3.268	0	
+girls technical college	Aba North	Abia	5.124	7.385	0	
 TEA Filling Station	Uvwie	Delta	5.565	5.763	0	
 Tezinos Oil Filling Station	Uvwie	Delta	5.562	5.768	0	
-Telari	Nganzai	Borno	12.569	13.367	2	
 Izisco Obos Institute of Maritime Studies and Texh	Uvwie	Delta	5.539	5.757	0	
-Tegina	Rafi	Niger	10.067	6.185	3	
 University of Maiduguri Teaching Hospital	Jere	Borno	11.825	13.183	0	
 Folk Technical college Ikwo	Ezza South	Ebonyi	6.155	8.145	0	
 Badore Ferry Terminal	Eti Osa	Lagos	6.512	3.615	0	
@@ -85,9 +404,6 @@ Ijede Ferry terminal	Ìkòròdú	Lagos	6.560	3.600	0
 Igbogbo Bus Terminus	Ìkòròdú	Lagos	6.589	3.519	0	
 Ahiara Technical College (ATC) Nnarambia	Ahiazu-Mbaise	Imo	5.525	7.262	0	
 Teteregun	Agege	Lagos	6.610	3.311	0	
-Rigar Tela	Bebeji	Kano	11.463	8.303	2	
-Tailafiya	Makoda	Kano	12.589	8.532	2	Telafia
-Kano State University Of Science And Technology	Wudil	Kano	11.805	8.856	2	
 University of Maiduguri Teaching Hospital UMTH	Jere	Borno	11.825	13.186	0	
 Federal Teaching Hospital	Gombe	Gombe	10.299	11.136	0	
 Amino Kanu Teaching Hospital	Nassarawa	Kano	11.977	8.594	0	
@@ -128,11 +444,9 @@ Temitope faith clinic and maternity house	Alimosho	Lagos	6.520	3.237	0
 Terminus Motor Park	Jos North	Plateau	9.919	8.893	0	
 Ikorodu Terminal	Ìkòròdú	Lagos	6.602	3.486	0	
 IKO/Temidire	Ajeromi/Ifelodun	Lagos	6.437	3.344	0	
-Tebuzor	Warri South-West	Delta	5.601	5.236	2	
-Teidegbene	Warri South-West	Delta	5.709	5.348	2	
 Soludero Bus Terminal, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.564	0	
 Eruda L.G.E.A School, Eruda Area, Temidire Street, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.543	0	
-YUSJIB COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY (YUSCOHTECH)	Ilorin South	Kwara	8.432	4.596	0	
+Yusjib College Of Health Sciences And Technology (Yuscohtech)	Ilorin South	Kwara	8.432	4.596	0	
 Enugu State University of Science and Technology (ESUT)	Nkanu West	Enugu	6.307	7.538	0	
 Mabushi Bus Terminal	Municipal Area Council	FCT Abuja	9.087	7.457	0	
 Garu Islamic College Of Health Technology Bauchi	Bauchi	Bauchi	10.305	9.788	0	
@@ -145,164 +459,21 @@ E-Bus Terminal (Techlogix) Abuja	Municipal Area Council	FCT Abuja	9.025	7.475	0
 G.U.O Transport - Zuba(Fct) Terminal	Gwagwalada	FCT Abuja	9.091	7.215	0	
 Utako Motor And Bus Terminal	Municipal Area Council	FCT Abuja	9.066	7.435	0	
 Technology Education Department	Kaduna North	Kaduna	10.612	7.442	0	
-Ijesha Tedo	Surulere	Lagos	6.488	3.333	2	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.581	5.521	1	
-Edo Textile Mill road	Egor	Edo	6.359	5.607	1	
-Tanko Tete Crescent	Kaduna South	Kaduna	10.462	7.425	1	
-Textile Road	Kaduna South	Kaduna	10.478	7.418	1	
-Technical Road	Egor	Edo	6.380	5.618	1	
-Temidire Street	Oshodi/Isolo	Lagos	6.562	3.335	1	
-Temidire Street	Alimosho	Lagos	6.678	3.266	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.771	5.736	1	
-Temidire Street	Ajeromi/Ifelodun	Lagos	6.444	3.345	1	
-Tenth Ave	Ibadan South West	Oyo	7.363	3.856	1	
-Olu Holloway Road	Eti Osa	Lagos	6.459	3.430	1	Temple Road
-Tejuoso Street	Surulere	Lagos	6.506	3.366	1	
-Teledalase Street	Kosofe	Lagos	6.556	3.403	1	
-Temple Street	Surulere	Lagos	6.490	3.365	1	
-Temidire Street	Surulere	Lagos	6.511	3.341	1	
-Alhaji Tella Street	Alimosho	Lagos	6.597	3.296	1	
-Temidire Olohunlogbon Street	Agege	Lagos	6.611	3.312	1	
-Castle and Temple Drive	Eti Osa	Lagos	6.457	3.479	1	
-Teslim O. Elias Street	Municipal Area Council	FCT Abuja	9.075	7.452	1	
 Nigerian College of Aviation Technology	Sabon Gari	Kaduna	11.134	7.685	0	NCAT
-Tema Street	Municipal Area Council	FCT Abuja	9.070	7.457	1	
 Aminu Kano Teaching Hospital	Tarauni	Kano	11.961	8.550	0	
-Technical Road	Egor	Edo	6.384	5.639	1	
-Teteba - Miringa Road	Biu	Borno	10.798	11.795	1	
-Tejuosho Avenue	Surulere	Lagos	6.504	3.369	1	
-Temple Street	Shomolu	Lagos	6.541	3.392	1	
-Ademola Adesoye Street (Temidire zone 5)	Egbedore	Osun	7.775	4.529	1	
-Temitope Street	Oshodi/Isolo	Lagos	6.515	3.329	1	
-Temidire Street	Alimosho	Lagos	6.620	3.289	1	
-Abiola Telli way	Alimosho	Lagos	6.634	3.286	1	
-Tebun Fagbemi Street	Ifako/Ijaye	Lagos	6.676	3.282	1	
-Terry Grillo Street	Ifako/Ijaye	Lagos	6.661	3.296	1	
-Federal Road F215 Owo - Tegina	Bida	Niger	9.085	6.010	1	
-Federal Road F215 Owo - Tegina	Gbako	Niger	9.488	6.038	1	
-Ekulu Terrace	Enugu East	Enugu	6.469	7.499	1	
-ESUTH Teaching Hospital Road	Enugu North	Enugu	6.464	7.495	1	
-Nwosu Terrace	Enugu North	Enugu	6.437	7.495	1	
-Aba Tete Street	Enugu South	Enugu	6.400	7.491	1	
-Emenite Terrace	Enugu East	Enugu	6.474	7.578	1	
-Prophet Temple Street	Enugu East	Enugu	6.466	7.554	1	
-Teaching Hospital Road	Enugu North	Enugu	6.437	7.480	1	
-Bello Kano Terrace	Tarauni	Kano	11.983	8.545	1	
-temple road	Jos North	Plateau	9.856	8.856	1	
-Federal Road F215 Owo - Tegina	Rafi	Niger	9.946	6.140	1	
-Federal Road F215 Owo - Tegina	Bida	Niger	9.070	6.005	1	
-Federal Road F215 Owo - Tegina	Bida	Niger	9.079	6.010	1	
-Federal Road F215 Owo - Tegina	Edati	Niger	8.894	5.870	1	
-Temple Avenue	Enugu North	Enugu	6.444	7.489	1	
-Technology Drive	Ibadan North	Oyo	7.442	3.893	1	
-Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.455	5.470	1	
-Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.310	5.444	1	
-Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.428	5.461	1	
-Federal Road F215 Owo - Tegina	Yagba East	Kogi	8.148	5.680	1	
-Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.259	5.609	1	
-Temade Street	Ìkòròdú	Lagos	6.633	3.502	1	
 Ahmadu Bello Teaching Hospital	Zaria	Kaduna	11.079	7.715	0	
-Teco Avenue	Ikeja	Lagos	6.628	3.364	1	
-Federal Road F215 Owo - Tegina	Wushishi	Niger	9.814	6.160	1	
-Federal Road F215 Owo - Tegina	Wushishi	Niger	9.828	6.153	1	
-Ikoyi Tedo Street	Eti Osa	Lagos	6.454	3.568	1	
-Tetlow Road	Owerri Municipal	Imo	5.483	7.037	1	
-Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.199	5.647	1	
-Federal Road F215 Owo - Tegina	Akoko South West	Ondo	7.389	5.723	1	
-Federal Road F215 Owo - Tegina	Ijumu	Kogi	7.811	5.747	1	
-Federal Road F.215 Owo - Tegina	Edati	Niger	8.990	5.951	1	
-Federal Road F215 Owo - Tegina	Edati	Niger	8.902	5.879	1	
-Federal Road F215 Owo - Tegina	Mokwa	Niger	8.776	5.800	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.719	5.743	1	
-Federal Road F215 Owo - Tegina	Yagba East	Kogi	7.913	5.763	1	
-Federal Road F215 Owo - Tegina	Edati	Niger	8.880	5.855	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.726	5.801	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.768	5.723	1	
-Federal Road F215 Owo - Tegina	Wushishi	Niger	9.822	6.160	1	
 University Of Maiduguri Teaching Hospital	Jere	Borno	11.822	13.187	0	
-Teteba - Miringa Road	Biu	Borno	10.732	12.145	1	
-Teteba - Miringa Road	Biu	Borno	10.732	12.141	1	
-Adejumo Tennis Club Road	Oshodi/Isolo	Lagos	6.541	3.310	1	
-Tertiary Road	Obi Ngwa	Abia	5.131	7.525	1	
-Hi-Tech Road	Eti Osa	Lagos	6.472	3.603	1	
-Mai Unguwa Tela Street	Tarauni	Kano	11.956	8.541	1	
-Federal Road F215 Owo - Tegina	Edati	Niger	8.873	5.843	1	
-Fatima Teidi Close	Eti Osa	Lagos	6.470	3.576	1	
-Temidire Street	Oriade	Osun	7.567	4.895	1	
-Temidire Close	Ede North	Osun	7.717	4.490	1	
 Kano University of Science and Technology	Wudil	Kano	11.806	8.850	0	
-Oke Oja/Temidire/Ayegunle/Ijero Road	Ido-Osi	Ekiti	7.866	5.160	1	
-Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.681	5.751	1	
-Federal Road F215 Owo - Tegina	Akoko South West	Ondo	7.310	5.664	1	
-Federal Road F215 Owo - Tegina	Ọ̀wọ̀	Ondo	7.264	5.624	1	
-Temple Ave	Ifako/Ijaye	Lagos	6.663	3.316	1	
 University Of Ilorin Teaching Hospital	Ilorin West	Kwara	8.480	4.533	0	
 Federal University of Technology, Minna	Bosso	Niger	9.525	6.448	0	Main Campus (Gidan Kwano)
 Ladoke Akintola University of Technology Teaching Hospital	Ogbomosho North	Oyo	8.152	4.253	0	
-Temitayo Ayodeji Street	Alimosho	Lagos	6.588	3.275	1	
-Nathan Tella Close	Alimosho	Lagos	6.633	3.259	1	
-Temitayo Street	Ifako/Ijaye	Lagos	6.682	3.281	1	
 African univeristy of science and technology	Municipal Area Council	FCT Abuja	8.995	7.429	0	
 University of Abuja Teaching Hospital	Gwagwalada	FCT Abuja	8.950	7.066	0	
 Benue State University Teaching Hospital	Markurdi	Benue	7.726	8.571	0	
 Texaco	Kaduna North	Kaduna	10.501	7.425	0	
-Technical Road	Egor	Edo	6.383	5.632	1	
-Temple Road	Ifo	Ogun	6.675	3.303	1	
-Temple Road	Ifako/Ijaye	Lagos	6.674	3.296	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.721	5.735	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.723	5.733	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.731	5.724	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.736	5.721	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.753	5.719	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.756	5.721	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.767	5.726	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.765	5.731	1	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.523	5.752	1	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.506	5.745	1	
-Texaco Lane	Eti Osa	Lagos	6.455	3.443	1	
-Temidire Eleweran Road	Ife North	Osun	7.516	4.487	1	
-Ben Temofeh Crescent	Eti Osa	Lagos	6.492	3.596	1	
-Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.610	5.769	1	
-Edo Textile Mill road	Egor	Edo	6.359	5.618	1	
-Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.644	5.759	1	
-Edo Textile Mill road	Egor	Edo	6.359	5.599	1	
-Terab Street	Kaduna North	Kaduna	10.529	7.456	1	
-Temidire Street	Adó-Èkìtì	Ekiti	7.607	5.215	1	
-Olajide Oluwadamilare Street (Temidire zone 9)	Egbedore	Osun	7.775	4.527	1	
-Tete Street	Ika South	Delta	6.246	6.182	1	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.483	5.737	1	
-Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.562	5.766	1	
-Temidayo Street	Ìkòròdú	Lagos	6.653	3.558	1	
 Federal Teaching Hospital Abakaliki	Abakaliki	Ebonyi	6.324	8.093	0	
-Bonny Terminal	Bonny	Rivers	4.429	7.174	1	
-Adamu Tela Street	Ungongo	Kano	11.977	8.448	1	
-Temidayo Daibo Close	Eti Osa	Lagos	6.455	3.618	1	
-Terminal Access Road	Bodinga	Sokoto	12.919	5.200	1	
-Temitope Close	Ifo	Ogun	6.671	3.324	1	
-Tejuosho Avenue	Surulere	Lagos	6.506	3.369	1	
 Five Cowries Terminal	Eti Osa	Lagos	6.442	3.427	0	Falomo Ferry Terminal
 Texas Connection Ferries	Eti Osa	Lagos	6.464	3.418	0	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.538	5.768	1	
-Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.209	5.638	1	
-Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.204	5.641	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.610	5.638	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.614	5.649	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.621	5.661	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.647	5.682	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.671	5.707	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.678	5.710	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.690	5.725	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.735	5.803	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.735	5.810	1	
-Federal Road F215 Owo - Tegina	Wushishi	Niger	9.585	6.024	1	
-Federal Road F215 Owo - Tegina	Wushishi	Niger	9.585	6.024	1	
-Federal Road F215 Owo - Tegina	Gbako	Niger	9.354	6.030	1	
-Federal Road F215 Owo - Tegina	Gbako	Niger	9.234	6.027	1	
-Federal Road F215 Owo - Tegina	Wushishi	Niger	9.727	6.081	1	
-Federal Road F215 Owo - Tegina	Bida	Niger	9.121	6.012	1	
-Federal Road F215 Owo - Tegina	Bida	Niger	9.103	6.010	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.725	5.742	1	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.535	5.766	1	
 Federal science and technical college	Ido-Osi	Ekiti	7.885	5.171	0	
 Ikorodu Ferry Terminal	Ìkòròdú	Lagos	6.603	3.486	0	
 University of Calabar Teaching Hospital	Calabar Municipal	Cross River	4.952	8.348	0	UCTH
@@ -324,10 +495,8 @@ Federal University of Technology Akure	Akure South	Ondo	7.298	5.126	0
 Federal College of Education (Technical), Akoka	Shomolu	Lagos	6.522	3.383	0	
 Obalende Bus Terminus	Eti Osa	Lagos	6.450	3.409	0	
 Temidire Dopemu Market	Agege	Lagos	6.613	3.312	0	
-Teco Benson Drive	Eti Osa	Lagos	6.446	3.606	1	
 Technoil	Eti Osa	Lagos	6.475	3.603	0	
 Television Market	Kaduna South	Kaduna	10.450	7.431	0	
-Teslim Close	Akinyele	Oyo	7.515	3.890	1	
 Government Technical College Agidingbi	Ikeja	Lagos	6.623	3.355	0	
 University Of Benin Teaching Hospital	Oredo	Edo	6.314	5.625	0	
 Federal College of Fisheries and Marine Technology	Eti Osa	Lagos	6.421	3.412	0	
@@ -350,34 +519,20 @@ State Teaching Hospital	Ngelzarma	Yobe	11.738	11.921	0
 terreh primary health center	Demsa	Adamawa	9.250	11.862	0	
 University Health Services Fed University Of Technology Minna	Chanchaga	Niger	9.653	6.529	0	
 Secondary Technical School, Ofeme (SETESCO)	Umuahia North	Abia	5.640	7.435	0	
-TEENEE TODDS DAY NURSERY	Municipal Area Council	FCT Abuja	9.107	7.481	0	
-Babayaro Street (Layin High Tension)	Ungongo	Kano	11.973	8.445	1	
+Teenee Todds Day Nursery	Municipal Area Council	FCT Abuja	9.107	7.481	0	
 The Federal College of Education (Technical), Omoku	Ogba/Egbema/Ndoni	Rivers	5.333	6.649	0	
-Testimony Lane	Obio/Akpor	Rivers	4.839	7.056	1	
 Bowen University Teaching Hospital	Ogbomosho North	Oyo	8.139	4.232	0	
 Africa University of Science and Technology	Municipal Area Council	FCT Abuja	8.997	7.426	0	
 korinya city technical academy	Konshisha	Benue	6.909	8.905	0	
-King Temitope Crescent	Ife Central	Osun	7.497	4.531	1	
 Mafoluku Bus Terminal	Oshodi/Isolo	Lagos	6.556	3.325	0	
-Federal University of Technology Minna, Bosso Campus	Chanchaga	Niger	9.652	6.526	0	
 Bells Univerisity of Technology	Ado Odo/Ota	Ogun	6.683	3.174	0	
 Faculty of Technology Education	Kaduna North	Kaduna	10.612	7.442	0	
 Techno Fuel Station	Amuwo Odofin	Lagos	6.469	3.297	0	
 Ijegun Egba Ferry Terminal	Amuwo Odofin	Lagos	6.428	3.259	0	
-Testing Ground	Iwo	Osun	7.641	4.171	1	
 Modibbo Adama University Teaching Hospital	Yola North	Adamawa	9.190	12.492	0	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.500	5.750	1	
-Teteba - Miringa Road	Biu	Borno	10.780	11.999	1	
 AIR FORCE INSTITUTE OF TECHNOLOGY (AFIT), Kaduna	Kaduna North	Kaduna	10.613	7.462	0	
 Institute of Management and Technology (IMT)	Enugu North	Enugu	6.432	7.510	0	
 Enugu State University of Science and Technology (ESUT)	Nkanu West	Enugu	6.301	7.545	0	
-Bonny Terminal	Bonny	Rivers	4.604	7.261	1	
-Bonny Terminal	Bonny	Rivers	4.412	7.194	1	
 Kashim Ibrahim University Teaching Hospital	Konduga	Borno	11.856	12.988	0	
-COLLEGE OF HEALTH TECHNOLOGY	Maiduguri	Borno	11.830	13.144	0	
+College Of Health Technology	Maiduguri	Borno	11.830	13.144	0	
 Katsina State Institute of Technology and Management	Batagarawa	Katsina	12.954	7.628	0	
-Teteba	Gulani	Yobe	10.740	11.704	2	
-Telli	Bayo	Borno	10.455	11.681	2	
-Dogo Tebo	Potiskum	Yobe	11.727	11.071	2	
-Television	Kaduna South	Kaduna	10.446	7.423	2	
-Teungo	Teungo	Adamawa	7.870	11.884	2	

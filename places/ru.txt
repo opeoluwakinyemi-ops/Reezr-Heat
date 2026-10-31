@@ -1,3 +1,8 @@
+Rumuodumaya	Obio/Akpor	Rivers	4.878	7.005	3	
+Bakin Ruwa	Kumbotso	Kano	11.915	8.463	3	
+Dan Musa	Dan Musa	Katsina	12.262	7.334	3	Danimusa|Runka
+Rumuodomaya	Obio/Akpor	Rivers	4.893	7.002	3	Rumuodamaya|Rumuodo-Manya|Rumuodomanya
+Rumuola	Obio/Akpor	Rivers	4.832	7.002	2	
 Runto	Bunza	Kebbi	12.112	4.046	2	
 Ruwan Gora	Bakura	Zamfara	12.370	5.864	2	
 Rumfa	Maiyama	Kebbi	12.212	4.166	2	
@@ -103,7 +108,6 @@ Rungoram	Mobbar	Borno	13.238	12.932	2
 Ruruma	Roni	Jigawa	12.639	8.229	2	
 Runto	Bunza	Kebbi	12.097	3.948	2	
 Babanruga	Makoda	Kano	12.318	8.517	2	Baba Ruga
-Dan Musa	Dan Musa	Katsina	12.262	7.334	2	Runka;Danimusa
 Rumu	Agwara	Niger	10.875	4.720	2	
 Rugumawa	Tsafe	Zamfara	12.077	7.069	2	
 Rugga Cumo	Shagari	Sokoto	12.758	5.121	2	
@@ -127,7 +131,6 @@ Rumuosi	Obio/Akpor	Rivers	4.878	6.941	2
 Rugaboi	Gwandu	Kebbi	12.425	4.574	2	
 Ruwan Jema	Bukkuyum	Zamfara	12.245	5.633	2	Ruanjema
 Runji Kwanda	Dange-Shuni	Sokoto	12.922	5.332	2	Kwandi
-Rumuodumaya	Obio/Akpor	Rivers	4.878	7.005	3	
 Rumuigbo	Obio/Akpor	Rivers	4.851	6.991	2	
 Rujin Magaji	Dange-Shuni	Sokoto	12.844	5.292	2	
 Ardo Rumeila	Kala-Balge	Borno	11.985	14.639	2	
@@ -139,9 +142,6 @@ Gidan Rana	Gwadabawa	Sokoto	13.455	5.231	2	Gidan Runa
 Rumgee	Sokoto North	Sokoto	13.071	5.199	2	
 Ungwan Runbuna	Ikara	Kaduna	11.385	8.030	2	Runbuna
 Rugan Dutse	Dange-Shuni	Sokoto	12.961	5.269	2	Rugar Dutse
-Rumuafo Water Side Market	Emuoha	Rivers	4.862	6.772	0	
-Ruwan Bago Health Post	Rogo	Kano	11.407	7.758	0	
-Rufai Health Post	Doguwa	Kano	10.639	8.647	0	
 Rufai Tsangaya	Doguwa	Kano	10.639	8.645	2	
 Sabon Garin Ruwa	Dawakin Kudu	Kano	11.802	8.684	2	
 Bakin Ruwa 1	Dala	Kano	11.998	8.504	2	
@@ -161,25 +161,17 @@ Runde	Marte	Borno	12.255	13.751	2
 Ruwan Kanwa	Bayo	Borno	10.594	11.729	2	
 Rugan Bumbulum	Biu	Borno	10.655	11.938	2	
 Rugan Rabo	Biu	Borno	10.642	11.937	2	
-Cocin Rural Health Programme	Kukawa	Borno	13.095	13.815	0	
 Rugan Maina	Biu	Borno	10.730	11.950	2	
 Rugan Mallam Mohammadu	Biu	Borno	10.720	11.945	2	
 Rumbuna, Gombe div	Kwami	Gombe	10.332	11.127	2	
 Rumualogu	Obio/Akpor	Rivers	4.876	6.918	2	
 Runguwa	Guzamala	Borno	12.955	13.033	2	
-Rutero Model School	Okpe	Delta	5.593	5.707	0	
-State Primary School	Obio/Akpor	Rivers	4.837	7.047	0	State Primary School  Rumorolu
 Ruggar Ayama	Tangaza	Sokoto	13.408	4.927	2	
 Runji	Wamako	Sokoto	13.156	5.248	2	
 Ruggar Maniya	Tambuwal	Sokoto	12.403	4.616	2	
 Rubo	Rafi	Niger	10.038	6.382	2	
-Rumuokwachi Primary School	Obio/Akpor	Rivers	4.862	6.929	0	
-Rumuokwachi Market	Obio/Akpor	Rivers	4.864	6.928	0	
-Runsewe Hospital	Lagos Island	Lagos	6.451	3.400	0	
-Rufai Ahmad Alkali	Gombe	Gombe	10.306	11.172	0	
 Rogan Magaji	Shagari	Sokoto	12.690	5.127	2	Rugar Magaji
 Rugar Fako	Shagari	Sokoto	12.707	5.101	2	
-PHC Rumbukawa	Sokoto North	Sokoto	13.066	5.225	0	
 Ruwan Bago	Rogo	Kano	11.405	7.757	2	
 Ruma Sabon Gari	Rogo	Kano	11.557	7.822	2	
 Daura Mai Ruwa	Karaye	Kano	11.726	7.981	2	Tudun Kaya
@@ -193,7 +185,6 @@ Ruga	Garum Mallam	Kano	11.690	8.369	2
 Ruwatsa	Dambatta	Kano	12.410	8.738	2	Ruwantsa
 Runawar Fulani	Minjibir	Kano	12.175	8.616	2	
 Rumfa	Minjibir	Kano	12.177	8.691	2	Sabon Gari Runfa
-Bakin Ruwa	Kumbotso	Kano	11.915	8.463	3	
 Rufi	Ajingi	Kano	11.860	9.148	2	
 Ruku	Kura	Kano	11.806	8.540	2	
 Sabon Ruwa	Bunkure	Kano	11.697	8.497	2	
@@ -202,96 +193,10 @@ Rufan Kofar Fada	Tudun Wada	Kano	11.316	8.718	2
 Unguwar Ruwa	Tudun Wada	Kano	11.354	8.769	2	
 Ruwan Kanya	Rano	Kano	11.471	8.505	2	
 Rurum Malam Tsohon Gari	Rano	Kano	11.410	8.480	2	Rurum
-PHC Ruggar Kura	Dange-Shuni	Sokoto	12.923	5.248	0	
-Rumirgo Dispensary	Askira-Uba	Borno	10.602	13.025	0	
-Rural Hospital Auna	Magama	Niger	10.186	4.737	0	
-Rural Hospital Sarkin Pawa	Munya	Niger	10.022	7.123	0	
-Rural Hospital Kuta	Shiroro	Niger	9.857	6.713	0	
-Angwan Rukuba Junction	Jos North	Plateau	9.933	8.910	0	
 Ruwan Doma	Doma	Nasarawa	8.474	8.237	2	
 Ruwan Doma Gabas	Doma	Nasarawa	8.475	8.262	2	
-Rumuekini primary school	Obio/Akpor	Rivers	4.886	6.946	0	
-state primary school (rumueme)	Obio/Akpor	Rivers	4.826	6.981	0	
-Rural Hospital Kujama	Chikun	Kaduna	10.481	7.651	0	
-NANA RUKAIYYA PRIMARY SCHOOL	Ungongo	Kano	12.046	8.566	0	
 Runka	Safana	Katsina	12.452	7.307	2	
 Rumuekpe	Emuoha	Rivers	4.878	6.863	2	
-El Rufai Park Bus Stop	Gwagwalada	FCT Abuja	8.944	7.081	0	
-El-Rufai Bus Station	Municipal Area Council	FCT Abuja	9.148	7.325	0	
-Rumuigbo/Psycriatic Road	Obio/Akpor	Rivers	4.841	6.998	1	
-Rumuogba Estate Road	Obio/Akpor	Rivers	4.840	7.034	1	
-Rumukalagbor Road	Port-Harcourt	Rivers	4.814	7.013	1	
-Rumuibekwe Road	Obio/Akpor	Rivers	4.844	7.050	1	
-Rumuagholu Road	Obio/Akpor	Rivers	4.875	6.987	1	
-Ruben Agho Street	Oredo	Edo	6.302	5.607	1	
-Rufai Street	Shomolu	Lagos	6.538	3.369	1	
-Rumens Road	Eti Osa	Lagos	6.448	3.430	1	
-Chief Idowu Rufai Avenue	Oshodi/Isolo	Lagos	6.500	3.310	1	
-Aromire Road	Eti Osa	Lagos	6.452	3.433	1	Rumsey Road
-Ruxton Street	Eti Osa	Lagos	6.449	3.448	1	Ruxton Road
-G.U. Ake Interchange to Rumuodomaya Roundabout	Obio/Akpor	Rivers	4.851	7.017	1	
-Ruvuma Street	Municipal Area Council	FCT Abuja	9.092	7.497	1	
-Rudolf Close	Municipal Area Council	FCT Abuja	9.096	7.494	1	
-Rumuola/ Rumuokwuta Road	Obio/Akpor	Rivers	4.833	6.999	1	
-Rumuodomaya Roundabout to Igwuruta	Obio/Akpor	Rivers	4.881	7.003	1	
-Rumuodomaya Roundabout to Igwuruta	Obio/Akpor	Rivers	4.921	6.997	1	
-Rumukalagbor Road	Port-Harcourt	Rivers	4.813	7.017	1	
-Rudolf Street	Municipal Area Council	FCT Abuja	9.087	7.497	1	
-Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.269	8.383	1	
-Magaji Rumfa Road	Nassarawa	Kano	11.987	8.560	1	
-Angwan Rukuba Park	Jos North	Plateau	9.933	8.911	0	
-Rufar Shehu Street	Ungongo	Kano	11.980	8.449	1	
-Rugu Road	Ungongo	Kano	11.973	8.437	1	
-Farin Ruwa	Rimin Gado	Kano	11.988	8.289	1	
-Ruwantsa Health Post	Dambatta	Kano	12.408	8.739	0	
-Rubun Health Post	Albasu	Kano	11.627	9.088	0	
-Sabon Ruwa Health Post	Makoda	Kano	12.372	8.438	0	
-Chedi Bubba Ruga Health Post	Dawakin Tofa	Kano	12.139	8.393	0	
-Sir Rufus Foluso Giwa Street	Eti Osa	Lagos	6.443	3.463	1	
-Rugurugu - Ruwan Tabo Road	Tudun Wada	Kano	11.344	8.376	1	
-Ruwan Kanki Dispensary	Ningi	Bauchi	11.279	9.466	0	
-Rumuekini Road	Ikwerre	Rivers	4.904	6.941	1	
-Elele - Rumuji Road	Emuoha	Rivers	5.035	6.809	1	
-Elele - Rumuji Road	Emuoha	Rivers	4.944	6.795	1	
-Rumuokoro-Rumu-Ahunwa Road	Ikwerre	Rivers	4.913	6.906	1	
-Rumuagholu Road	Obio/Akpor	Rivers	4.885	6.971	1	
-Rue Principale	Mariga	Niger	10.863	5.902	1	
-Runsewe Estate	Ifako/Ijaye	Lagos	6.664	3.293	1	
-Rumuomasi Market	Obio/Akpor	Rivers	4.826	7.027	0	
-Rufai Close	Kosofe	Lagos	6.601	3.379	1	
-Rumuekini primary school	Obio/Akpor	Rivers	4.883	6.941	0	
-rue	Mashegu	Niger	10.002	5.598	1	
-Nasir El-Rufai Road	Kaduna North	Kaduna	10.552	7.468	1	
-Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.312	8.384	1	
-Rumuakparali Link Road	Obio/Akpor	Rivers	4.874	6.908	1	
-Oghene Rubber Factory Road	Sapele	Delta	5.866	5.718	1	
-Rumuogba Estate Road	Obio/Akpor	Rivers	4.838	7.036	1	
-Rufus Jegede Street	Eti Osa	Lagos	6.454	3.613	1	
-Rumuibekwe Road	Obio/Akpor	Rivers	4.848	7.050	1	
-Rumuokwachi Market Road	Obio/Akpor	Rivers	4.864	6.928	1	
-Rumuagholu Road	Obio/Akpor	Rivers	4.880	6.980	1	
-Rumuagholu Road	Obio/Akpor	Rivers	4.868	6.996	1	
-WOPARA STREET, RUMUNDURU	Obio/Akpor	Rivers	4.876	7.028	1	
-Rumuigbo/Psycriatic Road	Obio/Akpor	Rivers	4.834	6.994	1	
-Rumuola - Stadium Link Road	Obio/Akpor	Rivers	4.830	7.013	1	Cosmic Homes Road
-Rumuigbo/Psycriatic Road	Obio/Akpor	Rivers	4.847	6.990	1	
-Otunba Runsewe Street	Municipal Area Council	FCT Abuja	8.971	7.501	1	
-Rufus Kupolati Road	Lokoja	Kogi	7.808	6.742	1	
-Rufai Street	Ajeromi/Ifelodun	Lagos	6.458	3.351	1	
-Ruthmour Street	Yenegoa	Bayelsa	4.952	6.361	1	
-State Primary School, Rumuokoro	Obio/Akpor	Rivers	4.866	6.997	0	
-Rufan Health Post	Tudun Wada	Kano	11.318	8.718	0	
-Bakin Ruwa Health Post	Dala	Kano	11.999	8.503	0	
-Runkusawa Health Post	Kumbotso	Kano	11.891	8.427	0	
-Ruda Yausa Dispensary	Ganjuwa	Bauchi	10.466	9.847	0	
-Rumba Primary Health Center	Bauchi	Bauchi	10.153	9.799	0	Gangu Dispensary
-Rumde Giwa Health Post	Fufore	Adamawa	8.980	12.225	0	
-Paramount Ruler House	Eastern Obolo	Akwa Ibom	4.536	7.706	0	
-Nasir El-Rufai Road	Kaduna North	Kaduna	10.555	7.478	1	
-Nasir El-Rufai Road	Kaduna North	Kaduna	10.554	7.475	1	
-Rumuokoro Flyover	Obio/Akpor	Rivers	4.867	6.998	1	
-Rumuola/ Rumuokwuta Road	Obio/Akpor	Rivers	4.837	6.989	1	
-Rufai Street	Oshodi/Isolo	Lagos	6.557	3.340	1	
 Rumfa	Hadejia	Jigawa	12.450	10.045	2	
 Ruwan Bore-Mirkidi	Talata Mafara	Zamfara	12.501	5.978	2	
 Ruwan Doruma	Maru	Zamfara	12.161	6.379	2	
@@ -299,7 +204,6 @@ Ruwan Bore	Gusau	Zamfara	12.185	6.952	2
 Ruwan Gizo	Talata Mafara	Zamfara	12.234	5.962	2	
 Sauna Ruwan Gora	Talata Mafara	Zamfara	12.349	5.958	2	
 Ruwan Jema	Bukkuyum	Zamfara	12.263	5.648	2	
-Ruwa Wuri	Tangaza	Sokoto	13.709	4.983	2	
 Rungumawa Gatti	Illela	Sokoto	13.804	5.379	2	
 Ruwan Bago	Rogo	Kano	11.454	7.772	2	
 Rumi	Ikara	Kaduna	11.417	7.987	2	
@@ -325,3 +229,376 @@ Rugar Gidado	Dange-Shuni	Sokoto	12.949	5.341	2
 Rudu Amanawa	Dange-Shuni	Sokoto	12.885	5.292	2	
 Gidan Rugga More	Kware	Sokoto	13.100	5.265	2	
 Bakin Ruwa	Dala	Kano	11.997	8.503	2	
+Zondo	Bagudo	Kebbi	11.553	4.183	2	Ruga Duka
+Rumuoro	Emuoha	Rivers	4.826	6.909	2	Umuoro
+Rumuoqonoma	Obio/Akpor	Rivers	4.896	7.038	2	Umuoqonnama|Umuoqonoma
+Rumuoko	Ikwerre	Rivers	4.921	6.911	2	Umu-oko|Umuoko
+Rumumasi	Obio/Akpor	Rivers	4.833	7.029	2	Umumasi
+Rumukoroshe	Obio/Akpor	Rivers	4.851	7.049	2	Rumuokwurusi|Umu Kososhe|Umukoroshe
+Rumueme	Port-Harcourt	Rivers	4.818	7.010	2	Umueme
+Rumu-Chita	Obio/Akpor	Rivers	4.838	6.986	2	Umuchitta|Umuochita
+Tor Ruwam	Wukari	Taraba	7.884	10.088	2	
+Ruwaza	Kwali	FCT Abuja	8.832	6.850	2	
+Ruwa Uku	Warji	Bauchi	11.094	9.784	2	
+Ruwantsa	Dambatta	Kano	12.410	8.736	2	
+Ruwansarki	Giwa	Kaduna	11.052	6.986	2	
+Ruwan Sanyi	Malumfashi	Katsina	11.718	7.586	2	
+Ruwan Rana	Bukkuyum	Zamfara	12.201	5.670	2	
+Ruwan Marki	Dutsin Ma	Katsina	12.451	7.456	2	
+Ruwan Kura	Kaura Namoda	Zamfara	12.387	6.713	2	
+Ruwan Bago	Rogo	Kano	11.400	7.750	2	
+Ruwafili	Maiyama	Kebbi	11.913	4.333	2	
+Rutu	Doma	Nasarawa	8.433	8.236	2	
+Rurum	Rano	Kano	11.414	8.485	2	
+Ruru	Dutse	Jigawa	11.629	9.286	2	
+Runtuwa	Bagudo	Kebbi	11.362	4.219	2	
+Runtua Abdul Nawanti	Jega	Kebbi	11.931	4.457	2	
+Runko	Shira	Bauchi	11.539	9.871	2	
+Kwandi	Dange-Shuni	Sokoto	12.922	5.332	2	Runji Kwanda
+Runji	Rano	Kano	11.398	8.465	2	
+Runji	Giwa	Kaduna	10.983	7.454	2	
+Runji	Igabi	Kaduna	10.733	7.483	2	
+Rungum	Birnin Kudu	Jigawa	11.586	9.556	2	
+Rundu	Song	Adamawa	9.701	12.543	2	
+Runde	Dukku	Gombe	10.812	10.572	2	
+Rumu-Osi	Obio/Akpor	Rivers	4.879	6.941	2	
+Rumu-Igbo	Obio/Akpor	Rivers	4.850	6.991	2	Umuibo|Umuigbo
+Rumuche	Emuoha	Rivers	4.874	6.858	2	Rumuchie
+Rumpa	Shiroro	Niger	10.083	6.767	2	
+Rumo Daude	Song	Adamawa	9.769	12.710	2	
+Rumo	Sumaila	Kano	11.476	8.913	2	
+Rumo	Ningi	Bauchi	11.125	8.988	2	
+Rumnde Waziri	Yola North	Adamawa	9.181	12.536	2	
+Rumnde Mallum	Yola North	Adamawa	9.332	12.271	2	Rumo Malo
+Rumnde Mallum	Yola North	Adamawa	9.200	12.414	2	
+Rumnde Kudin	Jalingo	Taraba	8.886	11.330	2	
+Rumnde Kofa	Yola South	Adamawa	9.239	12.460	2	
+Rumnde Kila	Yola South	Adamawa	9.220	12.409	2	Runde Kila
+Rumnde	Fufore	Adamawa	9.229	12.718	2	
+Rumji	Illela	Sokoto	13.694	5.214	2	
+Rumfan Gwamna	Bassa	Plateau	10.076	8.883	2	
+Rumechie	Emuoha	Rivers	4.833	6.917	2	
+Rumba	Warji	Bauchi	11.131	9.838	2	
+Rumana	Chikun	Kaduna	10.667	7.182	2	
+Ruma	Batsari	Katsina	12.863	7.235	2	
+Ruma	Makarfi	Kaduna	11.322	7.889	2	
+Rukubi	Doma	Nasarawa	7.929	8.306	2	
+Ruku	Barkin Ladi	Plateau	9.414	8.859	2	
+Rujin Magaji	Dange-Shuni	Sokoto	12.850	5.300	2	
+Ruhul	Shelleng	Adamawa	10.022	12.098	2	
+Ruhu	Toro	Bauchi	10.616	9.099	2	
+Rugandawa	Gwandu	Kebbi	12.465	4.756	2	Ruggar Dawa
+Rugga	Borgu	Niger	10.893	4.234	2	
+Rugga	Borgu	Niger	10.556	3.862	2	
+Rugar Yantu	Bodinga	Sokoto	12.982	5.135	2	Rugan Yantu|Ruggar Yantau
+Rugar Shaudu	Tambuwal	Sokoto	12.467	4.817	2	Ruggar Shaudu
+Rugar Magaji	Shagari	Sokoto	12.689	5.127	2	Rogan Magaji
+Kanya	Taura	Jigawa	12.294	9.164	2	Rugar Kanya
+Rugar Jatau	Bodinga	Sokoto	12.962	5.129	2	Ruggar Jatau|Tungan Jauta
+Rugar Dutse	Dange-Shuni	Sokoto	12.959	5.268	2	Ruga Dutse|Rugan Dutse
+Rugan Zo	Ganjuwa	Bauchi	10.667	10.232	2	
+Gidan Kura	Dange-Shuni	Sokoto	12.923	5.253	2	Rugan Kura
+Rugar Alkali	Shagari	Sokoto	12.743	5.126	2	Rugan Kale|Rugga Alkali
+Rugan Jauro Adamu	Ganjuwa	Bauchi	10.836	10.374	2	
+Rugan Gilliri	Bauchi	Bauchi	10.302	10.002	2	
+Rugange	Girei	Adamawa	9.229	12.512	2	
+Rugar Cumo	Shagari	Sokoto	12.758	5.121	2	Rugan Gamau|Rugga Cumo
+Ruga-Kaya	Yabo	Sokoto	12.673	4.917	2	
+Ruga Fulani	Demsa	Adamawa	9.412	12.231	2	
+Ruga Fulani	Demsa	Adamawa	9.415	12.102	2	
+Ruga	Gusau	Zamfara	12.139	6.647	2	
+Rufan Mai Dutse	Tudun Wada	Kano	11.315	8.717	2	Rufan
+Rufai	Asa	Kwara	8.472	4.407	2	
+Ruf	Mangu	Plateau	9.400	9.109	2	
+Ruduyausa	Ganjuwa	Bauchi	10.473	9.855	2	
+Rudu	Wushishi	Niger	9.824	5.894	2	
+Rudu	Toto	Nasarawa	8.214	7.097	2	
+Rubuchi	Municipal Area Council	FCT Abuja	8.988	7.317	2	
+Rubu	Safana	Katsina	12.601	7.164	2	
+Rubu	Rafi	Niger	10.050	6.367	2	
+Rubochi	Kuje	FCT Abuja	8.535	7.034	2	
+Ruba	Kiri Kasama	Jigawa	12.500	10.108	2	
+Ruawuri	Tangaza	Sokoto	13.712	4.965	2	
+Ruan Kiria	Koko-Besse	Kebbi	11.300	4.350	2	
+Ruan Badu	Maradun	Zamfara	12.836	6.102	2	
+Ragum	Wasagu-Danko	Kebbi	11.650	5.633	2	Ragam|Rugan
+Layi Russo	Jos North	Plateau	9.955	8.882	2	
+Karfi Ruga	Kura	Kano	11.822	8.494	2	Karfi|Karfi (1)
+Kafin Farin Ruwa	Takai	Kano	11.417	9.200	2	
+Farin Ruwa	Shanono	Kano	12.181	7.933	2	
+Farin-Ruwa	Birnin Gwari	Kaduna	11.069	6.788	2	
+Dogon Ruwa	Dutsin Ma	Katsina	12.323	7.397	2	
+Dogo Ruwa	Wase	Plateau	9.130	10.335	2	
+Rugan Chipo	Lavun	Niger	9.268	5.612	2	Chipo
+Chawa	Fufore	Adamawa	9.340	12.693	2	Rumde
+Bassam Rumbu	Sanga	Kaduna	9.343	8.660	2	
+Barin Ruwa	Maru	Zamfara	12.348	6.294	2	
+Baikinrua	Bagudo	Kebbi	11.101	3.966	2	Bakin Ruwa
+Ago Akuruaje	Irele	Ondo	6.465	4.915	2	Ago Ruwase|Ago-Akuruaje
+Ruhu	Karu	Nasarawa	9.053	7.725	2	
+Sabon Ruhu	Karu	Nasarawa	9.018	7.693	2	
+Rubuda	Karu	Nasarawa	9.007	7.647	2	
+Agwaro	Ikwerre	Rivers	4.992	6.877	2	Rumuoerepe|Umuperepe
+Rumu-Ogwu	Ikwerre	Rivers	4.993	6.915	2	Umu-Ogwu
+Rumu-Ikume	Ikwerre	Rivers	4.976	6.911	2	Umu-Ikume
+Omueke	Ikwerre	Rivers	4.974	6.879	2	Rumueke|Umueke
+Rumu-Eketu	Ikwerre	Rivers	4.989	6.918	2	Umu-Eketu
+Rumu-Olo	Ikwerre	Rivers	4.987	6.921	2	Rumu-Ola|Umu-Olo
+Rumu-Eket	Ikwerre	Rivers	4.986	6.927	2	Rumu-Eke|Umu-Eket
+Rumuke	Ikwerre	Rivers	4.952	6.929	2	Rumu-Ike|Umu-Ike
+Rumuodo	Ikwerre	Rivers	4.946	6.928	2	Rumuoda|Umu-Oda
+Omuigwe	Ikwerre	Rivers	4.944	6.931	2	Rumugw|Umu-Igwe
+Rumuehua	Emuoha	Rivers	4.903	6.769	2	Rumuafo|Rumuehuo
+Rumuodogo	Emuoha	Rivers	4.919	6.790	2	
+Ola-Rumuodogo	Emuoha	Rivers	4.888	6.786	2	
+Rumuakunde	Emuoha	Rivers	4.881	6.860	2	Rumakunde
+Rumu-Okwachi	Obio/Akpor	Rivers	4.865	6.926	2	
+Rumuekei	Obio/Akpor	Rivers	4.888	6.941	2	Rumu-Epeni
+Rumu-Aholu	Obio/Akpor	Rivers	4.876	6.987	2	
+Rumuafo	Emuoha	Rivers	4.862	6.762	2	
+Rumu-Oparala	Obio/Akpor	Rivers	4.849	6.949	2	
+Rurowolukwo	Obio/Akpor	Rivers	4.832	6.998	2	
+Ruromerezigbu	Obio/Akpor	Rivers	4.829	6.991	2	
+Rumuokani	Emuoha	Rivers	4.823	6.915	2	
+Rumueme	Obio/Akpor	Rivers	4.823	6.981	2	Rumu-Ome
+Rumu-Olumene	Obio/Akpor	Rivers	4.816	6.957	2	
+Rumuakuru	Etche	Rivers	4.969	7.074	2	
+Rukwangwo	Etche	Rivers	4.932	7.118	2	
+Rumuebele	Etche	Rivers	4.913	7.131	2	
+Rukpokwu-Obio	Obio/Akpor	Rivers	4.901	7.006	2	
+Rumodome	Obio/Akpor	Rivers	4.878	7.005	2	
+Rumurolu	Obio/Akpor	Rivers	4.840	7.070	2	
+Rumuwaji	Obio/Akpor	Rivers	4.829	7.070	2	
+Rumukalagba	Port-Harcourt	Rivers	4.812	7.011	2	
+Rumuoparali	Port-Harcourt	Rivers	4.803	7.028	2	
+Rumudara	Obio/Akpor	Rivers	4.854	7.032	2	Umudara
+Farin Ruwa	Tofa	Kano	11.997	8.314	2	
+Rugar Kimaw	Madobi	Kano	11.868	8.374	2	
+Ruga	Rimin Gado	Kano	11.847	8.299	2	
+Sabon Gari Runfa	Minjibir	Kano	12.176	8.692	2	
+Babban Ruga	Dawakin Tofa	Kano	12.145	8.419	2	
+Rumuachara	Emuoha	Rivers	4.929	6.675	2	Ocheranyan
+Rumu-Ahunwa	Ikwerre	Rivers	4.928	6.935	2	
+Rufus	Ọ̀wọ̀	Ondo	7.184	5.432	2	
+Ruwa-Kuskupda	Shelleng	Adamawa	10.235	12.270	2	
+Rumaye	Bichi	Kano	12.266	8.200	2	
+Sabon Ruwa	Makoda	Kano	12.371	8.436	2	
+Rugar Dila	Batagarawa	Katsina	12.853	7.651	2	
+Rugar Bade	Bindawa	Katsina	12.701	7.862	2	
+Rugar	Bindawa	Katsina	12.681	7.895	2	
+Rugar Jibir	Charanchi	Katsina	12.687	7.810	2	
+Rugar Wake	Charanchi	Katsina	12.711	7.609	2	
+Rugar Auo	Kankia	Katsina	12.598	7.807	2	
+Runfu	Dutsin Ma	Katsina	12.459	7.425	2	
+Rugaruwa	Tangaza	Sokoto	13.364	4.964	2	
+Rumbuki	Binji	Sokoto	13.284	4.910	2	
+Runbukawa	Gada	Sokoto	13.686	5.819	2	
+Ruga	Gada	Sokoto	13.686	5.571	2	
+Rubo-Dawa	Gwadabawa	Sokoto	13.484	5.351	2	
+Rumbukawa	Goronyo	Sokoto	13.439	5.998	2	
+Gidan Runa	Gwadabawa	Sokoto	13.453	5.230	2	Gidan Rana
+Ungwa Ruwa	Wamako	Sokoto	13.172	5.176	2	
+Runjin Gazo	Wamako	Sokoto	13.166	5.174	2	
+Rumbukawa	Wamako	Sokoto	13.008	5.225	2	
+Bak-n-Ruwa	Ngaski	Kebbi	10.481	4.636	2	
+Rumu	Yauri	Kebbi	10.876	4.727	2	
+Runjin Sarkin Noma	Wamako	Sokoto	13.154	5.207	2	
+Runjin Sambo	Wamako	Sokoto	13.056	5.202	2	
+Jan Ruwa	Kankara	Katsina	11.908	7.488	2	
+Ruachiwa	Faskari	Katsina	11.768	7.047	2	
+Ruwan Godiyo	Faskari	Katsina	11.723	7.244	2	
+Ruwau Gugi	Bakori	Katsina	11.665	7.381	2	
+Ungwan Ruan Ango	Dandume	Katsina	11.399	7.272	2	
+Ungwan Na Ruka	Giwa	Kaduna	11.110	7.105	2	
+Rugan Fulani	Maiyama	Kebbi	11.719	4.424	2	
+Runtu Magaji Maidama	Fakai	Kebbi	11.682	4.817	2	
+Runtu Magaji	Fakai	Kebbi	11.685	4.822	2	
+Runtuan-Diro	Fakai	Kebbi	11.593	4.864	2	
+Runtu-Fulani	Fakai	Kebbi	11.619	4.825	2	
+Runtu Fulani	Fakai	Kebbi	11.618	4.672	2	
+Runtuwa Usman	Bagudo	Kebbi	11.446	4.212	2	
+Rugan Jidde	Shanga	Kebbi	11.492	4.537	2	
+Farin-Ruwa	Fakai	Kebbi	11.541	4.961	2	
+Rukwene	Rijau	Niger	11.323	4.958	2	
+Runtuwa	Shanga	Kebbi	11.181	4.608	2	
+Rugan Gabas	Rijau	Niger	11.219	4.928	2	
+Rugan Chibau	Rijau	Niger	11.217	4.915	2	
+Runtuwo	Bagudo	Kebbi	11.418	4.254	2	
+Dutsen Rudu	Dange-Shuni	Sokoto	12.882	5.298	2	
+Rugafalho	Bodinga	Sokoto	12.777	5.174	2	Rugafalilo
+Rugar Fako	Shagari	Sokoto	12.702	5.101	2	
+Rugaboi	Gwandu	Kebbi	12.425	4.577	2	
+Rugga Fokko	Tambuwal	Sokoto	12.144	4.558	2	
+Yadia Rugamiya	Silame	Sokoto	12.973	4.878	2	
+Rugan-Dodo	Aleiro	Kebbi	12.278	4.531	2	
+Ruguza	Tsafe	Zamfara	11.958	6.772	2	
+Ungwan Rumi	Makarfi	Kaduna	11.359	8.031	2	
+Ruga	Garum Mallam	Kano	11.682	8.381	2	
+Barakin Russo	Jos North	Plateau	9.964	8.871	2	
+Ungwan Rukuba	Jos North	Plateau	9.932	8.914	2	
+Rumu-Eme	Obio/Akpor	Rivers	4.845	6.998	2	
+Rumuahi	Emuoha	Rivers	4.870	6.858	2	Rumuahia
+Rukpoku	Obio/Akpor	Rivers	4.925	6.995	2	
+Rumirgu Chul	Askira-Uba	Borno	10.618	13.092	2	
+Ruba	Kafin Hausa	Jigawa	12.020	9.867	2	
+Rurum Sabon Gari	Rano	Kano	11.516	8.470	2	
+Rurum Tsohon Gari	Rano	Kano	11.451	8.451	2	
+Ruwan Kaya A	Dutsi	Katsina	12.870	8.235	2	
+Rugoji	Kafur	Katsina	11.734	7.725	2	
+Runka  A	Safana	Katsina	12.444	7.275	2	
+Runka  B	Safana	Katsina	12.365	7.253	2	
+Rudu Amanawa	Dange-Shuni	Sokoto	12.884	5.295	2	
+Rungumawa Gatti	Illela	Sokoto	13.805	5.387	2	
+Ruhu	Gulani	Yobe	10.630	11.583	2	
+Ruwan Bore-Mirkidi	Talata Mafara	Zamfara	12.493	5.985	2	
+Ruwan Gizo	Talata Mafara	Zamfara	12.227	5.955	2	
+Ruwan Doruma	Maru	Zamfara	12.162	6.373	2	
+Rufai	Gbako	Niger	9.315	5.912	2	
+Rugar Bagarmi	Yusufari	Yobe	13.073	11.018	2	
+Rugagi	Lavun	Niger	9.263	5.634	2	
+Dogon Ruwa	Katcha	Niger	9.326	6.495	2	
+Rugugudandi	Lapai	Niger	9.058	6.724	2	
+Ruku	Bosso	Niger	9.650	6.634	2	
+Ruga	Bosso	Niger	9.624	6.508	2	
+Runji	Bwari	FCT Abuja	9.338	7.564	2	
+Rubam	Jalingo	Taraba	8.990	11.284	2	
+Ruwan-Duse	Ibi	Taraba	8.537	10.093	2	
+Farin-Ruwa	Wase	Plateau	8.765	9.934	2	
+Kurmin Ruwa	Kauru	Kaduna	9.945	8.474	2	
+Kurmin Ruwa	Kauru	Kaduna	9.940	8.476	2	
+Kurmin Ruwa	Kauru	Kaduna	9.920	8.472	2	
+Runfa	Zangon Kataf	Kaduna	9.746	8.273	2	
+Runyai	Zangon Kataf	Kaduna	9.589	8.220	2	
+Rume	Qua'An Pan	Plateau	8.660	9.021	2	
+Rumnde Karlahi	Yola South	Adamawa	9.281	12.434	2	
+Rumnde Doma	Yola South	Adamawa	9.247	12.471	2	
+Rumnde Babebe	Yola North	Adamawa	9.312	12.270	2	
+Rumnde Alkali	Yola North	Adamawa	9.285	12.190	2	
+Rumnde Ajia	Yola North	Adamawa	9.237	12.211	2	
+Rumnde Modibbo	Fufore	Adamawa	9.217	12.208	2	
+Rumnde Ajia	Fufore	Adamawa	9.224	12.206	2	
+Ruga Fulani	Demsa	Adamawa	9.252	12.014	2	
+Rumnde	Mayo-Belwa	Adamawa	9.088	12.047	2	
+Rumnde Mashi	Mayo-Belwa	Adamawa	9.047	12.046	2	
+Rumnde Mallam Baajo	Fufore	Adamawa	9.041	12.064	2	
+Ruwa	Fufore	Adamawa	9.141	12.131	2	
+Rumnde Liman	Fufore	Adamawa	9.133	12.351	2	
+Rum	Lau	Taraba	9.270	11.596	2	
+Ruru	Demsa	Adamawa	9.298	11.981	2	
+Rumu	Karim Lamido	Taraba	9.473	10.913	2	
+Dogon Ruwa	Karim Lamido	Taraba	9.359	10.974	2	
+Ruju	Ardo-Kola	Taraba	9.020	11.050	2	
+Rungumi	Birnin Kebbi	Kebbi	12.370	4.240	2	
+Rugan Sandoro	Kalgo	Kebbi	12.284	4.002	2	
+Rumnde	Fufore	Adamawa	9.482	12.989	2	
+Mbamba Rumnde Alkali	Yola North	Adamawa	9.197	12.571	2	
+Rumnde-Bokki	Fufore	Adamawa	9.216	12.880	2	Rumnde Bokki
+Rummirgo	Fufore	Adamawa	9.161	12.670	2	
+Rumnde-Bappa	Fufore	Adamawa	9.250	12.717	2	Rumnde Bappa
+Rumnde-Hossere	Fufore	Adamawa	9.288	12.670	2	Rumnde Hossere
+Rumnde Bayel	Yola North	Adamawa	9.175	12.542	2	
+Rumnde-Doma	Yola North	Adamawa	9.178	12.536	2	Rumnde Doma
+Rumnde Alkali	Yola North	Adamawa	9.197	12.542	2	
+Rumnde-Nyako	Yola North	Adamawa	9.185	12.531	2	Rumnde Nyako
+Rumnde Goba	Yola North	Adamawa	9.197	12.533	2	
+Rumnde-Ajuji	Yola North	Adamawa	9.199	12.513	2	Rumnde Ajuji
+Rumnde Jugal	Girei	Adamawa	9.417	12.581	2	
+Sarkin Ruwa	Mokwa	Niger	9.211	4.877	2	SarkinRuwa
+Rumnde	Song	Adamawa	9.803	12.549	2	
+Rumnde Jauro Barka	Fufore	Adamawa	9.687	12.728	2	RumndeJauroBarka
+Rubu	Mokwa	Niger	9.016	5.427	2	
+Ruwan-gida	Nasarawa	Nasarawa	8.106	7.411	2	
+Rudu-Ofo	Toto	Nasarawa	8.305	7.218	2	
+Rubatu	Kuje	FCT Abuja	8.479	7.059	2	
+Ruhu	Karu	Nasarawa	9.040	7.694	2	
+Ago-Ruwase	Irele	Ondo	6.477	4.905	2	
+Rumuigbo/Psycriatic Road	Obio/Akpor	Rivers	4.841	6.998	1	
+Rumuogba Estate Road	Obio/Akpor	Rivers	4.840	7.034	1	
+Rumukalagbor Road	Port-Harcourt	Rivers	4.814	7.013	1	
+Rumuibekwe Road	Obio/Akpor	Rivers	4.844	7.050	1	
+Rumuagholu Road	Obio/Akpor	Rivers	4.875	6.987	1	
+Ruben Agho Street	Oredo	Edo	6.302	5.607	1	
+Rufai Street	Shomolu	Lagos	6.538	3.369	1	
+Rumens Road	Eti Osa	Lagos	6.448	3.430	1	
+Chief Idowu Rufai Avenue	Oshodi/Isolo	Lagos	6.500	3.310	1	
+Aromire Road	Eti Osa	Lagos	6.452	3.433	1	Rumsey Road
+Ruxton Street	Eti Osa	Lagos	6.449	3.448	1	Ruxton Road
+G.U. Ake Interchange to Rumuodomaya Roundabout	Obio/Akpor	Rivers	4.851	7.017	1	
+Ruvuma Street	Municipal Area Council	FCT Abuja	9.092	7.497	1	
+Rudolf Close	Municipal Area Council	FCT Abuja	9.096	7.494	1	
+Rumuola/ Rumuokwuta Road	Obio/Akpor	Rivers	4.833	6.999	1	
+Rumuodomaya Roundabout to Igwuruta	Obio/Akpor	Rivers	4.881	7.003	1	
+Rumuodomaya Roundabout to Igwuruta	Obio/Akpor	Rivers	4.921	6.997	1	
+Rudolf Street	Municipal Area Council	FCT Abuja	9.087	7.497	1	
+Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.269	8.383	1	
+Magaji Rumfa Road	Nassarawa	Kano	11.987	8.560	1	
+Rufar Shehu Street	Ungongo	Kano	11.980	8.449	1	
+Rugu Road	Ungongo	Kano	11.973	8.437	1	
+Farin Ruwa	Rimin Gado	Kano	11.988	8.289	1	
+Sir Rufus Foluso Giwa Street	Eti Osa	Lagos	6.443	3.463	1	
+Rugurugu - Ruwan Tabo Road	Tudun Wada	Kano	11.344	8.376	1	
+Rumuekini Road	Ikwerre	Rivers	4.904	6.941	1	
+Elele - Rumuji Road	Emuoha	Rivers	5.035	6.809	1	
+Elele - Rumuji Road	Emuoha	Rivers	4.944	6.795	1	
+Rumuokoro-Rumu-Ahunwa Road	Ikwerre	Rivers	4.913	6.906	1	
+Rumuagholu Road	Obio/Akpor	Rivers	4.885	6.971	1	
+Rue Principale	Mariga	Niger	10.863	5.902	1	
+Runsewe Estate	Ifako/Ijaye	Lagos	6.664	3.293	1	
+Rufai Close	Kosofe	Lagos	6.601	3.379	1	
+rue	Mashegu	Niger	10.002	5.598	1	
+Nasir El-Rufai Road	Kaduna North	Kaduna	10.552	7.468	1	
+Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.312	8.384	1	
+Rumuakparali Link Road	Obio/Akpor	Rivers	4.874	6.908	1	
+Oghene Rubber Factory Road	Sapele	Delta	5.866	5.718	1	
+Rumuogba Estate Road	Obio/Akpor	Rivers	4.838	7.036	1	
+Rufus Jegede Street	Eti Osa	Lagos	6.454	3.613	1	
+Rumuibekwe Road	Obio/Akpor	Rivers	4.848	7.050	1	
+Rumuokwachi Market Road	Obio/Akpor	Rivers	4.864	6.928	1	
+Rumuagholu Road	Obio/Akpor	Rivers	4.868	6.996	1	
+Wopara Street, Rumunduru	Obio/Akpor	Rivers	4.876	7.028	1	
+Rumuola - Stadium Link Road	Obio/Akpor	Rivers	4.830	7.013	1	Cosmic Homes Road
+Rumuigbo/Psycriatic Road	Obio/Akpor	Rivers	4.847	6.990	1	
+Otunba Runsewe Street	Municipal Area Council	FCT Abuja	8.971	7.501	1	
+Rufus Kupolati Road	Lokoja	Kogi	7.808	6.742	1	
+Rufai Street	Ajeromi/Ifelodun	Lagos	6.458	3.351	1	
+Ruthmour Street	Yenegoa	Bayelsa	4.952	6.361	1	
+Rumuokoro Flyover	Obio/Akpor	Rivers	4.867	6.998	1	
+Rufai Street	Oshodi/Isolo	Lagos	6.557	3.340	1	
+Rumuafo Water Side Market	Emuoha	Rivers	4.862	6.772	0	
+Ruwan Bago Health Post	Rogo	Kano	11.407	7.758	0	
+Rufai Health Post	Doguwa	Kano	10.639	8.647	0	
+Cocin Rural Health Programme	Kukawa	Borno	13.095	13.815	0	
+Rutero Model School	Okpe	Delta	5.593	5.707	0	
+Rumuokwachi Primary School	Obio/Akpor	Rivers	4.862	6.929	0	
+Rumuokwachi Market	Obio/Akpor	Rivers	4.864	6.928	0	
+Runsewe Hospital	Lagos Island	Lagos	6.451	3.400	0	
+Rufai Ahmad Alkali	Gombe	Gombe	10.306	11.172	0	
+PHC Rumbukawa	Sokoto North	Sokoto	13.066	5.225	0	
+PHC Ruggar Kura	Dange-Shuni	Sokoto	12.923	5.248	0	
+Rumirgo Dispensary	Askira-Uba	Borno	10.602	13.025	0	
+Rural Hospital Auna	Magama	Niger	10.186	4.737	0	
+Rural Hospital Sarkin Pawa	Munya	Niger	10.022	7.123	0	
+Rural Hospital Kuta	Shiroro	Niger	9.857	6.713	0	
+Angwan Rukuba Junction	Jos North	Plateau	9.933	8.910	0	
+Rumuekini primary school	Obio/Akpor	Rivers	4.886	6.946	0	
+state primary school (rumueme)	Obio/Akpor	Rivers	4.826	6.981	0	
+Rural Hospital Kujama	Chikun	Kaduna	10.481	7.651	0	
+Nana Rukaiyya Primary School	Ungongo	Kano	12.046	8.566	0	
+El Rufai Park Bus Stop	Gwagwalada	FCT Abuja	8.944	7.081	0	
+El-Rufai Bus Station	Municipal Area Council	FCT Abuja	9.148	7.325	0	
+Angwan Rukuba Park	Jos North	Plateau	9.933	8.911	0	
+Ruwantsa Health Post	Dambatta	Kano	12.408	8.739	0	
+Rubun Health Post	Albasu	Kano	11.627	9.088	0	
+Sabon Ruwa Health Post	Makoda	Kano	12.372	8.438	0	
+Chedi Bubba Ruga Health Post	Dawakin Tofa	Kano	12.139	8.393	0	
+Ruwan Kanki Dispensary	Ningi	Bauchi	11.279	9.466	0	
+Rumuomasi Market	Obio/Akpor	Rivers	4.826	7.027	0	
+Rumuekini primary school	Obio/Akpor	Rivers	4.883	6.941	0	
+State Primary School, Rumuokoro	Obio/Akpor	Rivers	4.866	6.997	0	
+Rufan Health Post	Tudun Wada	Kano	11.318	8.718	0	
+Bakin Ruwa Health Post	Dala	Kano	11.999	8.503	0	
+Runkusawa Health Post	Kumbotso	Kano	11.891	8.427	0	
+Ruda Yausa Dispensary	Ganjuwa	Bauchi	10.466	9.847	0	
+Rumba Primary Health Center	Bauchi	Bauchi	10.153	9.799	0	Gangu Dispensary
+Rumde Giwa Health Post	Fufore	Adamawa	8.980	12.225	0	
+Paramount Ruler House	Eastern Obolo	Akwa Ibom	4.536	7.706	0	

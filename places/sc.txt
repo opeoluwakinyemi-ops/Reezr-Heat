@@ -1,3 +1,18 @@
+Chong	Kurmi	Taraba	7.033	10.767	2	Shonga;Schonga
+Daki Tara	Biu	Borno	10.628	11.915	2	Daki Tara Scattered
+Kano State University Of Science And Technology	Wudil	Kano	11.805	8.856	2	
+Schia	Gwer East	Benue	7.320	8.517	2	
+Agenmonmen Screscent	Oredo	Edo	6.307	5.600	1	
+Greater Scholars Drive	Eti Osa	Lagos	6.465	3.588	1	
+Home Science Road	Ifako/Ijaye	Lagos	6.694	3.264	1	
+scarley road	Enugu East	Enugu	6.506	7.528	1	
+Onanefe Schuler Street	Eti Osa	Lagos	6.482	3.574	1	
+Profer Sch Road.	Port-Harcourt	Rivers	4.789	6.959	1	
+Water Scheme Gate	Owerri Municipal	Imo	5.476	7.042	1	
+Azungwu Secondary Sch Rd	Aniocha South	Delta	6.170	6.514	1	
+Profer Sch. Road.	Port-Harcourt	Rivers	4.788	6.962	1	
+Jelisa Sch Rd.	Port-Harcourt	Rivers	4.786	6.962	1	
+Near 60 Hasell St, Charleston, SC 29401, USA	Ado Odo/Ota	Ogun	6.543	3.066	1	
 Unicent Group of Schools	Egor	Edo	6.367	5.635	0	
 government science and tecnology	Egor	Edo	6.382	5.630	0	
 Blessed St. Paul Memorial Group of Schools	Egor	Edo	6.366	5.587	0	
@@ -28,19 +43,17 @@ Naowa Group Of Schools	Enugu North	Enugu	6.463	7.513	0
 El-Shaddai International Schools	Enugu East	Enugu	6.481	7.526	0	
 Jinie Schools	Kaduna South	Kaduna	10.472	7.430	0	
 Government Science College	Aleiro	Kebbi	12.304	4.482	0	
-Daki Tara	Biu	Borno	10.628	11.915	2	Daki Tara Scattered
 Ataoja School of Science	Ede North	Osun	7.749	4.517	0	
 Great-Elsaadai Schools	Ede North	Osun	7.717	4.490	0	
 Kingdom Heritage Schools	Owerri Municipal	Imo	5.482	7.013	0	
 Jossy wisdom group of schools	Egor	Edo	6.349	5.591	0	
 Nazareth schools	Obio/Akpor	Rivers	4.825	7.059	0	
-Nazareth schools	Obio/Akpor	Rivers	4.825	7.059	0	
 SCIENCE PROJECT PRI and SEC SCHOOL, UNGUWA UKU	Tarauni	Kano	11.958	8.562	0	
-GOVT SEC SCH KUNDILA	Tarauni	Kano	11.965	8.556	0	
-SCIENCE SECONDARY SCHOOL	Tarauni	Kano	11.946	8.567	0	
-INTERCONTINENTAL SCHOOLS, SEC	Tarauni	Kano	11.979	8.554	0	
-INTERCONTINENTAL SCHOOLS, PRIMARY	Tarauni	Kano	11.979	8.553	0	
-OGISO PRY SCH	Oredo	Edo	6.293	5.565	0	
+Govt Sec Sch Kundila	Tarauni	Kano	11.965	8.556	0	
+Science Secondary School	Tarauni	Kano	11.946	8.567	0	
+Intercontinental Schools, Sec	Tarauni	Kano	11.979	8.554	0	
+Intercontinental Schools, Primary	Tarauni	Kano	11.979	8.553	0	
+Ogiso Pry Sch	Oredo	Edo	6.293	5.565	0	
 Chosen Secondary SchoolMgbi	Oru West	Imo	5.721	6.862	0	
 Alden Schools	Uvwie	Delta	5.540	5.780	0	
 Tare PET Montessoy Group of Schools	Yenegoa	Bayelsa	4.928	6.310	0	
@@ -90,7 +103,6 @@ Politcal Science Department	Gombe	Gombe	10.306	11.175	0
 Evangel Group of Schools	Gombe	Gombe	10.288	11.152	0	
 science garden	Gombe	Gombe	10.305	11.175	0	
 PEN RESOURCE ACADEMY (boarding sch)& ROBOTICS CENTER	Akko	Gombe	10.290	11.053	0	
-Kano State University Of Science And Technology	Wudil	Kano	11.805	8.856	2	
 Azaiki Institute of Science and Technology	Yenegoa	Bayelsa	4.934	6.283	0	
 Federal Science and Technical College, Tungbo	Sagbama	Bayelsa	5.131	6.171	0	
 st. peter's roman catholic mission primary school sch i ota	Ado Odo/Ota	Ogun	6.691	3.236	0	
@@ -123,33 +135,33 @@ Ranjenny Schools Eleme	Ndokwa West	Delta	5.717	6.447	0
 School Of Life Sciences	Akure South	Ondo	7.302	5.134	0	
 School Of Basic Medical Sciences(SBMS)	Akure South	Ondo	7.296	5.149	0	
 Faculty of Environmental Science	Jos North	Plateau	9.965	8.881	0	
-JEMFAS SCHOOLS	Alimosho	Lagos	6.521	3.229	0	
+Jemfas Schools	Alimosho	Lagos	6.521	3.229	0	
 Mary Greg Schools	Alimosho	Lagos	6.525	3.236	0	
 Alpha comprehensive schools	Alimosho	Lagos	6.530	3.232	0	
-INTELLECTUAL SCIENCE COMMUNITY SCHOOL	Ungongo	Kano	12.048	8.571	0	
-APEX SUCCESS ITNL SCHOOLS	Ungongo	Kano	12.045	8.565	0	
-SAHABA MODEL SCIENCE ACADEMY	Ungongo	Kano	12.044	8.564	0	
-WISDOM INTERNATIONAL JUNIOR SEC. SCH.	Ungongo	Kano	12.044	8.572	0	
-BRIGHT FUTURE SCIENCE ACADEMY	Ungongo	Kano	12.043	8.569	0	
-SAHABAMODEL SCIENCE ACADEMY SCHOOL	Ungongo	Kano	12.044	8.564	0	
-ADAMU A C SCIENCE ACADEMY SCHOOHL	Ungongo	Kano	12.041	8.563	0	
-ADAMU A C SCIENCE ACADEMY	Ungongo	Kano	12.041	8.563	0	
-GIDAN GADO SCIENCE ACADEMY AND ISLAMIYYA	Ungongo	Kano	12.050	8.579	0	
-PREMIER COLLEGE OF ART AND SCIENCE SCHOOL	Gwale	Kano	11.963	8.480	0	
-TUNGA SCIENCE ACADEMY	Gwale	Kano	11.962	8.467	0	
-DARUL KAIR INTNL SCHOOLS	Gwale	Kano	11.957	8.471	0	
-BINAYAH MODEL SCHOOLS	Gwale	Kano	11.957	8.472	0	
-HAJARA MEMORIAL SCIENCE SCHOOL	Gwale	Kano	11.961	8.471	0	
-AMATULRAHAMAN ROYAL INTNL SCHOOLS	Gwale	Kano	11.961	8.469	0	
-ALYUSIRA MODEL SCHOOLS	Gwale	Kano	11.960	8.470	0	
-BINAYAT MODEL SCHOOLS	Gwale	Kano	11.960	8.471	0	
-MADINA COLLEGE OF HEALTH SCIENCES	Gwale	Kano	11.967	8.478	0	
-AL AZHAR COLLEGE OF SCIENCE AND HUMANITIES	Gwale	Kano	11.962	8.476	0	
+Intellectual Science Community School	Ungongo	Kano	12.048	8.571	0	
+Apex Success Itnl Schools	Ungongo	Kano	12.045	8.565	0	
+Sahaba Model Science Academy	Ungongo	Kano	12.044	8.564	0	
+Wisdom International Junior Sec. Sch.	Ungongo	Kano	12.044	8.572	0	
+Bright Future Science Academy	Ungongo	Kano	12.043	8.569	0	
+Sahabamodel Science Academy School	Ungongo	Kano	12.044	8.564	0	
+Adamu A C Science Academy Schoohl	Ungongo	Kano	12.041	8.563	0	
+Adamu A C Science Academy	Ungongo	Kano	12.041	8.563	0	
+Gidan Gado Science Academy And Islamiyya	Ungongo	Kano	12.050	8.579	0	
+Premier College Of Art And Science School	Gwale	Kano	11.963	8.480	0	
+Tunga Science Academy	Gwale	Kano	11.962	8.467	0	
+Darul Kair Intnl Schools	Gwale	Kano	11.957	8.471	0	
+Binayah Model Schools	Gwale	Kano	11.957	8.472	0	
+Hajara Memorial Science School	Gwale	Kano	11.961	8.471	0	
+Amatulrahaman Royal Intnl Schools	Gwale	Kano	11.961	8.469	0	
+Alyusira Model Schools	Gwale	Kano	11.960	8.470	0	
+Binayat Model Schools	Gwale	Kano	11.960	8.471	0	
+Madina College Of Health Sciences	Gwale	Kano	11.967	8.478	0	
+Al Azhar College Of Science And Humanities	Gwale	Kano	11.962	8.476	0	
 Jerusalem Mission Sch	Jos North	Plateau	9.937	8.911	0	
 Ecwa Kauna Secondary Schools	Bauchi	Bauchi	10.265	9.797	0	
 St James CAC Schools, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.554	0	
 Grace Christian Schools, G.R.A, Fate Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.491	4.584	0	
-YUSJIB COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY (YUSCOHTECH)	Ilorin South	Kwara	8.432	4.596	0	
+Yusjib College Of Health Sciences And Technology (Yuscohtech)	Ilorin South	Kwara	8.432	4.596	0	
 Page Schools	Municipal Area Council	FCT Abuja	8.982	7.492	0	
 Enugu State University of Science and Technology (ESUT)	Nkanu West	Enugu	6.307	7.538	0	
 Arts and social science	Ovia North-East	Edo	6.742	5.406	0	
@@ -166,25 +178,18 @@ Faculty of Social Science	Ede South	Osun	7.681	4.457	0
 Faculty of Natural Science	Ede South	Osun	7.682	4.459	0	
 Institute of Earth Sciences	Ede South	Osun	7.682	4.447	0	
 Faculty of Basic Medical Science	Ede South	Osun	7.681	4.448	0	
-Agenmonmen Screscent	Oredo	Edo	6.307	5.600	1	
 Peace Group of Schools	Oredo	Edo	6.340	5.603	0	
 Owina Pry Sch.	Oredo	Edo	6.339	5.602	0	
 Fountain Life Group of Schools	Egor	Edo	6.360	5.628	0	
 Brano Group Of Schools	Egor	Edo	6.370	5.636	0	
 Faith classic Group of schools	Egor	Edo	6.380	5.633	0	
-JUBILEE GROUP OF SCHOOLS	Egor	Edo	6.355	5.583	0	
-Greater Scholars Drive	Eti Osa	Lagos	6.465	3.588	1	
-Home Science Road	Ifako/Ijaye	Lagos	6.694	3.264	1	
-scarley road	Enugu East	Enugu	6.506	7.528	1	
+Jubilee Group Of Schools	Egor	Edo	6.355	5.583	0	
 Kano University of Science and Technology	Wudil	Kano	11.806	8.850	0	
-Onanefe Schuler Street	Eti Osa	Lagos	6.482	3.574	1	
 African univeristy of science and technology	Municipal Area Council	FCT Abuja	8.995	7.429	0	
 Word of Faith Group of Schools Classroom	Obio/Akpor	Rivers	4.825	7.050	0	
 Greater Scholars International School	Eti Osa	Lagos	6.466	3.588	0	
-Profer Sch Road.	Port-Harcourt	Rivers	4.789	6.959	1	
 Hope and Ireti Primary Schools	Eti Osa	Lagos	6.444	3.436	0	
 Home Science Association Nursery & Primary School Ikoyi	Eti Osa	Lagos	6.451	3.446	0	
-Water Scheme Gate	Owerri Municipal	Imo	5.476	7.042	1	
 Little Angel Schools	Muhammadu Dikko Stadium	Katsina	13.004	7.631	0	
 Federal science and technical college	Ido-Osi	Ekiti	7.885	5.171	0	
 An-Nur Schools	Ilorin West	Kwara	8.504	4.509	0	
@@ -192,7 +197,6 @@ Britarch Schools	Umuahia North	Abia	5.544	7.500	0
 Faculty of Environmental Sciences	Awka North	Anambra	6.247	7.121	0	
 Kith & Kin Educational Schools	Ìkòròdú	Lagos	6.564	3.478	0	
 Halifield Schools	Kosofe	Lagos	6.575	3.373	0	
-Azungwu Secondary Sch Rd	Aniocha South	Delta	6.170	6.514	1	
 Balad Private Schools	Ìkòròdú	Lagos	6.645	3.479	0	
 Estaport Schools	Kosofe	Lagos	6.561	3.383	0	
 Apata Memorial Schools	Oshodi/Isolo	Lagos	6.520	3.322	0	
@@ -203,13 +207,10 @@ Omolola Group of Schools	Shagamu	Ogun	6.833	3.627	0
 Treasure Goal schools	Kosofe	Lagos	6.580	3.413	0	
 Graccy Royalfield Schools	Kosofe	Lagos	6.580	3.414	0	
 Africa University of Science and Technology	Municipal Area Council	FCT Abuja	8.997	7.426	0	
-X-RAY/SCAN UNIT	Isiala Mbano	Imo	5.679	7.240	0	
-Profer Sch. Road.	Port-Harcourt	Rivers	4.788	6.962	1	
-Jelisa Sch Rd.	Port-Harcourt	Rivers	4.786	6.962	1	
+X-Ray/Scan Unit	Isiala Mbano	Imo	5.679	7.240	0	
 Maranatha Academy & Mt Tabor International Schools	Jos North	Plateau	9.863	8.860	0	
 Educare Private Schools	Jos North	Plateau	9.860	8.867	0	
 Hill crest Schools	Jos North	Plateau	9.895	8.883	0	
-Near 60 Hasell St, Charleston, SC 29401, USA	Ado Odo/Ota	Ogun	6.543	3.066	1	
 Faculty of Science Laboratories	Kaduna North	Kaduna	10.612	7.446	0	
 Faculty of Social and Management Science - NUC	Kaduna North	Kaduna	10.610	7.445	0	
 Faculty of Science	Kaduna North	Kaduna	10.609	7.445	0	

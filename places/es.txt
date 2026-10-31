@@ -1,3 +1,6 @@
+Mandate Estate, Ilorin, Nigeria	Ilorin East	Kwara	8.472	4.555	3	
+Esuk Oron	Oron	Akwa Ibom	4.803	8.253	3	
+Essien Town	Calabar Municipal	Cross River	5.010	8.330	2	
 Gbashemo	Obafemi Owode	Ogun	7.033	3.650	2	Gbasemo Iye Esulu;Gbashemo;Gbasemo-Iye-Fsulu
 Ikot Esenam	Oruk Anam	Akwa Ibom	4.682	7.631	2	
 Isanlu Esa	Yagba West	Kogi	8.482	5.484	2	
@@ -33,12 +36,6 @@ Esangi	Edu	Kwara	8.950	4.933	2	Esanji
 Esade	Ogo Oluwa	Oyo	7.967	4.217	2	Eyeshada
 Esuk Mbai	Calabar South	Cross River	4.859	8.392	2	Esuk Mba
 Ekpene Esuk	Akpabuyo	Cross River	4.806	8.425	2	Ekpene Esuk Essighi
-Esuk Oron	Oron	Akwa Ibom	4.803	8.253	2	
-Esonere model primary school/Gaorge Idah	Oredo	Edo	6.310	5.615	0	
-Esonere model primary school/Gaorge Idah	Oredo	Edo	6.310	5.615	0	
-ESUT Medicine Student's Hostel	Enugu North	Enugu	6.463	7.496	0	
-ESUTH Pediatrics Emergency	Enugu North	Enugu	6.461	7.494	0	
-Housing Estate Primary School	Enugu East	Enugu	6.481	7.518	0	
 Kabuga Housing Estate	Gwale	Kano	11.975	8.471	2	
 Yakudima Estate	Fagge	Kano	12.033	8.523	2	
 20 Housing Estate	Gubio	Borno	12.497	12.772	2	
@@ -58,37 +55,175 @@ Ikot Umo Esien	Essien Udim	Akwa Ibom	5.133	7.553	2
 Ikpe Ikot Eside	Essien Udim	Akwa Ibom	5.125	7.717	2	
 Uruk Esiet	Etim Ekpo	Akwa Ibom	5.039	7.678	2	
 Ijapo Estate	Akure South	Ondo	7.265	5.202	2	
-Essence International School	Kaduna North	Kaduna	10.535	7.456	0	
-Ajao Estate main entrance	Oshodi/Isolo	Lagos	6.552	3.329	0	
-Edgeba Estate School	Warri South	Delta	5.538	5.734	0	
-Esedo Primary School  III	Uvwie	Delta	5.552	5.782	0	
 Majekobaje Estate	Egbeda	Oyo	7.446	4.031	2	
-Ese Market	Akoko North West	Ondo	7.611	5.698	0	
-Windsor Locks School, Kingston Estate	Municipal Area Council	FCT Abuja	9.092	7.378	0	
-IKOT ESA	Ukanafun	Akwa Ibom	4.867	7.660	2	
+Ikot Esa	Ukanafun	Akwa Ibom	4.867	7.660	2	
 Kainowa Est	Mobbar	Borno	13.272	12.674	2	
-ESBS Bus stop	Enugu North	Enugu	6.432	7.517	0	
-Esteemed Christian Academy	Jos North	Plateau	9.928	8.913	0	
-Es 5 Junction Road By Station Roundabout Kaduna	Kaduna South	Kaduna	10.497	7.419	0	
-Primary Health Center Ese Ofin Riverine	Ojo	Lagos	6.444	3.147	0	
-Rehoboth Estate Phase 2	Akure South	Ondo	7.285	5.152	0	
-Rehoboth Estate	Akure South	Ondo	7.286	5.152	0	
-Deoyefemi Clinic Block 4 Jakande Estate Mile 2	Amuwo Odofin	Lagos	6.464	3.307	0	
-Jes And Jes Mosque Road Jakande Estate	Amuwo Odofin	Lagos	6.463	3.312	0	
-Esteemed Private School	Jos North	Plateau	9.936	8.910	0	
-Ese Ofin	Ojo	Lagos	6.450	3.144	0	
-Mandate Estate, Ilorin, Nigeria	Ilorin East	Kwara	8.472	4.555	3	
 Colony 2 Estate, Oke Ogun, Nigeria	Ilorin East	Kwara	8.473	4.630	2	
-Enugu State University of Science and Technology (ESUT)	Nkanu West	Enugu	6.307	7.538	0	
 Ajao Estate	Oshodi/Isolo	Lagos	6.546	3.324	2	
-Sagama Orchids Estate	Municipal Area Council	FCT Abuja	9.124	7.391	0	
-Prince And Princess Estate Junction	Municipal Area Council	FCT Abuja	9.009	7.460	0	
-Voice Of Nigeria Estate, Doctors Quarters, Phase 2	Municipal Area Council	FCT Abuja	8.968	7.369	0	
-Gaduwa Estate Bus Stop	Municipal Area Council	FCT Abuja	9.005	7.466	0	
-Southern Bridge Estate	Municipal Area Council	FCT Abuja	9.047	7.413	0	
-Agbama Housing Estate Main Gate, Umuahia, Abia State	Umuahia South	Abia	5.502	7.499	0	
-Agbama Housing Estate 1st Transformer	Umuahia South	Abia	5.499	7.500	0	
 Dolphin Estate	Eti Osa	Lagos	6.459	3.417	2	
+Kabusa Gardens Estate	Municipal Area Council	FCT Abuja	8.963	7.435	2	
+Same Global Housing Estate	Municipal Area Council	FCT Abuja	8.971	7.441	2	
+NAF Valley Estate	Municipal Area Council	FCT Abuja	9.048	7.545	2	
+SunnyVale Estate	Municipal Area Council	FCT Abuja	8.979	7.443	2	
+River Park Estate	Municipal Area Council	FCT Abuja	8.981	7.331	2	
+Essien Udim	Essien Udim	Akwa Ibom	5.104	7.657	2	
+Esit Eket	Esit Eket	Akwa Ibom	4.643	8.076	2	
+Esan North-East	Esan North-East	Edo	6.787	6.433	2	
+Esan Central	Esan Central	Edo	6.705	6.208	2	
+Esan West	Esan West	Edo	6.655	6.140	2	
+Ese Odo	Ese Odo	Ondo	6.231	4.953	2	
+Esan South-East	Esan South-East	Edo	6.577	6.486	2	
+Usung Esuk	Odukpani	Cross River	5.099	8.158	2	
+Umu Eshi	Ideato South	Imo	5.825	7.109	2	
+Ufueseni	Edda	Ebonyi	5.832	7.848	2	Ufu Esioni
+Onigba-Ese	Asa	Kwara	8.665	4.238	2	Onigba Ese
+Olokun-Esin	Atiba	Oyo	8.077	3.979	2	Olokun Esin
+Oke-Esa	Ìsẹ́yìn	Oyo	8.002	3.654	2	Oke Esa
+Nung Ukim Ikot Esien	Ikono	Akwa Ibom	5.276	7.767	2	Ikot Esien|Nung Ukim
+Nto-Esu	Obot Akara	Akwa Ibom	5.270	7.606	2	
+Ne-Eshe	Gboko	Benue	7.391	8.645	2	
+Mbat Esifon	Obot Akara	Akwa Ibom	5.244	7.641	2	
+Ikot Udor Esiom	Ukanafun	Akwa Ibom	4.841	7.596	2	
+Ikot Esu	Odukpani	Cross River	5.018	8.227	2	
+Ikot Essien	Itu	Akwa Ibom	5.141	8.025	2	
+Ikot Essien	Ibiono Ibom	Akwa Ibom	5.142	7.922	2	
+Ikot Essien	Ibesikpo Asutan	Akwa Ibom	4.921	7.975	2	
+Ikot Essien	Nsit Atai	Akwa Ibom	4.814	7.978	2	
+Ikot Essen	Mkpat Enin	Akwa Ibom	4.812	7.783	2	
+Ikot Eso Archibong	Akpabuyo	Cross River	5.037	8.413	2	
+Ikot-Esi-Idem	Ibiono Ibom	Akwa Ibom	5.299	7.885	2	
+Ikot Esien	Essien Udim	Akwa Ibom	5.096	7.744	2	
+Ikot Esien	Abak	Akwa Ibom	5.069	7.787	2	
+Ikot Esien	Ukanafun	Akwa Ibom	4.874	7.605	2	
+Iko Esai	Yakurr	Cross River	5.669	8.220	2	
+Idi-Esu	Ibarapa North	Oyo	7.527	3.326	2	Idi Esu|IdiEsu
+Idebe Ikot Essien	Akpabuyo	Cross River	4.859	8.453	2	
+Ibiaku-Ikot-Esifa	Ibiono Ibom	Akwa Ibom	5.290	7.817	2	
+Ibiaku Esa Ekpo	Mkpat Enin	Akwa Ibom	4.701	7.783	2	
+Gbasemo-Iye-Esulu	Obafemi Owode	Ogun	7.031	3.642	2	Gbasemo Iye Esulu|Gbasemo-Iye-Fsulu|Gbashemo
+Ezetu	Southern Ijaw	Bayelsa	4.711	5.565	2	Esajato|Ezeotu
+Esure	Ijebu East	Ogun	6.783	4.000	2	
+Esuokon	Akpabuyo	Cross River	4.819	8.557	2	Esuk Okon|Esukokon
+Esu Obong	Etim Ekpo	Akwa Ibom	4.979	7.666	2	
+Esuk Utan	Calabar Municipal	Cross River	5.015	8.339	2	
+Esuk Otu	Odukpani	Cross River	5.031	8.315	2	
+Esuk Odot	Odukpani	Cross River	5.191	8.217	2	
+Esuk Mesembe	Akpabuyo	Cross River	4.965	8.601	2	
+Esuk Atu	Calabar South	Cross River	4.933	8.350	2	
+Esuk Agbung	Akamkpa	Cross River	5.122	8.405	2	
+Esu	Edati	Niger	9.100	5.717	2	
+Esu	Yewa North	Ogun	7.269	2.940	2	
+Essighi	Akpabuyo	Cross River	4.824	8.463	2	
+Essa	Katcha	Niger	9.055	6.227	2	
+Esoka	Yala	Cross River	6.650	8.514	2	
+Esinnla	Afijio	Oyo	7.765	3.910	2	
+Esinjowo	Ìsẹ́yìn	Oyo	7.744	3.306	2	
+Esien	Oruk Anam	Akwa Ibom	4.925	7.713	2	
+Esi	Ovia South-West	Edo	6.562	5.223	2	
+Eshiawa	Akoko-Edo	Edo	7.352	6.050	2	
+Ese-Oke	Ori Ire	Oyo	8.536	4.067	2	Ese Oke
+Ese-Oke	Akinyele	Oyo	7.620	3.984	2	Ese Oke|EseOke
+Eseku	Odukpani	Cross River	5.054	8.230	2	
+Eseagu	Abakaliki	Ebonyi	6.271	8.277	2	
+Esa-Oke	Obokun	Osun	7.758	4.897	2	Esa Oke|Essa Oke|Oke-Essa
+Esa-Odo	Obokun	Osun	7.755	4.821	2	Esa Odo|Essa-Odo|Imessa Odo
+Esangi	Edu	Kwara	8.941	4.943	2	Esanji
+Esana	Essien Udim	Akwa Ibom	5.085	7.739	2	
+Esam	Ogoja	Cross River	6.444	8.688	2	
+Esala	Abua/Odual	Rivers	4.788	6.507	2	
+Esaja	Ikom	Cross River	6.117	8.512	2	
+Esade	Ogo Oluwa	Oyo	7.969	4.210	2	Eyeshada
+Esa	Orolu	Osun	7.900	4.498	2	
+Akpet 1	Biase	Cross River	5.647	8.088	2	Efut|Efut Eso
+Ediene Esa	Oruk Anam	Akwa Ibom	4.711	7.633	2	
+Esengebelekiri	Akuku Toru	Rivers	4.456	6.755	2	Dabibikiri
+Babidi Esagel	Jada	Adamawa	8.623	12.214	2	
+Alowo-Esin	Ido	Oyo	7.426	3.728	2	Alowo Esin|Alwo-Esin
+Estherkiri	Akuku Toru	Rivers	4.457	6.680	2	
+Esimu	Ekiti South-West	Ekiti	7.535	5.126	2	
+Esure	Irepodun/Ifelodun	Ekiti	7.762	5.216	2	
+Oko-Esinkin	Ijero	Ekiti	7.918	5.016	2	
+Ikot Essien	Odukpani	Cross River	5.060	8.224	2	
+Esuk John	Akamkpa	Cross River	5.114	8.422	2	
+Ikot Esia	Itu	Akwa Ibom	5.139	8.026	2	
+Ikot Eside	Itu	Akwa Ibom	5.151	8.055	2	
+Esuk Ukot Ebi	Odukpani	Cross River	5.154	8.131	2	
+Ikot Essien Ekpe Inyang	Odukpani	Cross River	5.178	8.072	2	
+Esuk Ikot Andong	Odukpani	Cross River	5.184	8.212	2	
+Esuk Ediong	Odukpani	Cross River	5.230	8.058	2	
+Esuk Atan Eki	Odukpani	Cross River	5.303	8.012	2	
+Essien	Biase	Cross River	5.314	8.059	2	
+Esuk Ekpo Eyo	Calabar Municipal	Cross River	4.943	8.393	2	
+Esin Ufot Eyamba	Akpabuyo	Cross River	4.862	8.419	2	
+Edem Esa	Akpabuyo	Cross River	4.904	8.471	2	
+Obufa Esuk Orok	Calabar South	Cross River	4.937	8.329	2	
+Esuk Ntete	Esit Eket	Akwa Ibom	4.596	8.076	2	
+Eseniogbene	Burutu	Delta	5.222	5.685	2	
+Ikot Esen Oku	Etinan	Akwa Ibom	4.798	7.860	2	
+Ikot Ese Esiet	Onna	Akwa Ibom	4.675	7.862	2	
+Eriam Ata Essien	Abak	Akwa Ibom	5.055	7.740	2	
+Ikot-Esiereyere	Ini	Akwa Ibom	5.352	7.829	2	
+Utit Obio	Ibiono Ibom	Akwa Ibom	5.281	7.870	2	Ikot Esen
+Ikot Umo Esien	Ikono	Akwa Ibom	5.268	7.785	2	
+Abiakpo Ikot Essien	Ikot Ekpene	Akwa Ibom	5.192	7.725	2	
+Ikot Esiet	Ibiono Ibom	Akwa Ibom	5.209	7.866	2	
+Ukwa East	Ukwa East	Abia	4.900	7.367	2	Agbegbe Ijoba Ibile Ilaorun Ukwa|Skhidna Ukva|Tang Ukwa|Ukva-Ist|Ukwa Est|Ukwa ta Gabas
+Esit Eket	Esit Eket	Akwa Ibom	4.631	8.071	2	Agbegbe Ijoba Ibile Esit Eket|Esit-Eket
+Anambra East	Anambra East	Anambra	6.267	6.817	2	Agbegbe Ijoba Ibile Ilaorun Anambra|Anambra Est|Anambra ta Gabas|Anambra-Leste|Tang Anambra|anmbas shrqy
+Ife East	Ife East	Osun	7.365	4.601	2	Agbegbe Ijoba Ibile Ilaorun Ife|Ife Est|Ife ta Gabas|Tang Ife
+Gwer East	Gwer East	Benue	7.300	8.483	2	Agbegbe Ijoba Ibile Ilaorun Gwer|Gwer Est|Gwer ta Gabas|Tang Gwer
+Ethiope East	Ethiope East	Delta	5.688	5.984	2	Ethiope Est|Ethiope ta Gabas|Ethiope-East|Tang Ethiope
+Ika North East	Ika North East	Delta	6.229	6.290	2	Ika Nord Est|Ika ta Arewa maso Gabas|Pak Ika
+Yagba East	Yagba East	Kogi	8.164	5.761	2	Tang Yagba|Yagba Est|Yagba Leste|Yagba fuunaange|Yagba ta Gabas
+Enugu East	Enugu East	Enugu	6.533	7.533	2	Agbegbe Ijoba Ibile Ilaorun Enugu|Enugu Est|Enugu Leste|Enugu ta Gabas|Tang Enugu
+Atakunmosa East	Atakunmosa East	Osun	7.459	4.776	2	Agbegbe Ijoba Ibile Ilaorun Atakunmosa|Atakunmosa Est|Atakunmosa ta Gabas|Tang Atakunmosa
+Ibarapa East	Ibarapa East	Oyo	7.608	3.492	2	Ibarapa Est|Ibarapa ta Gabas|Ilaoorun Ibarapa|Tang Ibarapa
+Oyo East	Oyo East	Oyo	7.879	4.021	2	Ilaoorun Oyo|Oyo Est|Oyo Leste|Oyo ta Gabas|Tang Oyo
+Eastern Obolo	Eastern Obolo	Akwa Ibom	4.534	7.767	2	Agbegbe Ijoba Ibile Apailaoorun Obolo|Est Obolo|Obolo ta Gabas
+Ovia North-East	Ovia North-East	Edo	6.645	5.580	2	Ovia Nord Est|Ovia North East|Ovia ta Arewa maso Gabas|Tang-pak Ovia
+Nkanu East	Nkanu East	Enugu	6.315	7.624	2	Agbegbe Ijoba Ibile Ilaorun Nkanu|Nkanu Est|Nkanu ta Gabas|Tang Nkanu
+Jos East	Jos East	Plateau	9.891	9.118	2	Agbegbe Ijoba Ibile Ilaorun Jos|Jos East Local Government Area|Jos Est|Jos ta Gabas|Tang Jos
+Saki East	Saki East	Oyo	8.705	3.589	2	Ilaoorun Saki|Saki East Local Government Area|Saki Est|Saki ta Gabas|Tang Saki
+Ekiti East	Ekiti East	Ekiti	7.735	5.669	2	Agbegbe Ijoba Ibile Ilaorun Ekiti|Ekiti East Local Government Area|Ekiti Est|Ekiti Leste|Ekiti ta Gabas|Tang Ekiti
+Ese Odo	Ese Odo	Ondo	6.217	4.965	2	Ese-Odo|Ese-Odo Local Government Area
+Esan West	Esan West	Edo	6.662	6.129	2	Esan Ouest|Esan West Local Government Area|Esan ta Yamma|Se Esan
+Esan Central	Esan Central	Edo	6.710	6.193	2	Esan Central Local Government Area|Esan ta Tsakiya
+Esan North-East	Esan North-East	Edo	6.755	6.397	2	Ehsan Nort-Ist|Esan Nord Est|Esan North East|Esan North East Local Government Area|Esan ta Arewa maso Gabas|Tang-pak Esa
+Esan South-East	Esan South-East	Edo	6.587	6.476	2	Esan South East|Esan South East Local Government Area|Esan Sud Est|Esan ta Kudu maso Gabas|Tang-lam Esan
+Owan East	Owan East	Edo	7.032	6.079	2	Owan East Local Government Area|Owan Est|Owan ta Gabas|Tang Owan
+Etsako Central	Etsako Central	Edo	6.972	6.512	2	Estako-Central|Etsako Central Local Government Area|Etsako ta Tsakiya
+Ahoada East	Ahoada East	Rivers	5.070	6.643	2	Agbegbe Ijoba Ibile Ilaorun Ahoada|Ahoada East Local Government Area|Ahoada Est|Ahoada Leste|Ahoada ta Gabas|Tang Ahoada
+Ese	Katsina-Ala	Benue	7.273	9.450	2	
+Eseave	Gboko	Benue	7.491	8.930	2	
+Esan	Gbako	Niger	9.271	5.874	2	
+Esanmin	Katcha	Niger	9.031	6.207	2	
+FHA Estate	Alimosho	Lagos	6.565	3.246	2	
+Unity Estate	Alimosho	Lagos	6.576	3.288	2	
+Gowan Estate	Alimosho	Lagos	6.601	3.277	2	
+Ijeh Dolphin Estate	Eti Osa	Lagos	6.459	3.412	2	
+Esioriri	Owan East	Edo	6.845	6.156	2	Esoriri
+Idumu-Esan	Esan South-East	Edo	6.535	6.345	2	
+Esale	Odeda	Ogun	7.226	3.396	2	
+Esa	Ede South	Osun	7.676	4.548	2	
+Esa	Boripe	Osun	7.805	4.605	2	
+Esun	Obokun	Osun	7.713	4.752	2	
+Eseni	Ila	Osun	7.890	4.880	2	
+Esaba	Imeko Afon	Ogun	7.486	2.890	2	
+Kogo-Esaba	Imeko Afon	Ogun	7.490	2.884	2	
+Esera	Ife South	Osun	7.351	4.538	2	
+Oluwo-Esanowo	Obafemi Owode	Ogun	7.083	3.583	2	
+Esan	Odeda	Ogun	7.403	3.697	2	
+Esinele	Moro	Kwara	8.690	4.466	2	
+Esa-Kekere	Asa	Kwara	8.561	4.410	2	
+Esa	Asa	Kwara	8.564	4.413	2	
+Esinele	Atiba	Oyo	7.939	3.978	2	
+Idi-Esu	Afijio	Oyo	7.767	3.972	2	
+Esin	Edu	Kwara	9.068	4.897	2	
+Alowo Esin	Oyo East	Oyo	7.884	4.002	2	
+Esisi	Toto	Nasarawa	8.216	7.289	2	
+Esere	Afijio	Oyo	7.723	4.010	2	
+Esin-Nla	Afijio	Oyo	7.727	4.016	2	
+Ogo-Ese	Afijio	Oyo	7.715	4.011	2	
 Beckley Estate Road	Ifako/Ijaye	Lagos	6.659	3.298	1	
 Idiroko Estate	Ikeja	Lagos	6.563	3.365	1	
 Iponri Estate Road	Surulere	Lagos	6.490	3.362	1	
@@ -193,8 +328,6 @@ Suleiman Adamu Street Tambari Housing Estate	Bauchi	Bauchi	10.307	9.780	1
 Alaafia Tayọ Estate	Ede North	Osun	7.725	4.502	1	
 Oke Ese Street	Ilesha West	Osun	7.622	4.729	1	
 Mobil Estate Road	Eti Osa	Lagos	6.455	3.563	1	
-Estate market	Port-Harcourt	Rivers	4.819	7.058	0	
-Essence International School African Heritage Village	Kaduna North	Kaduna	10.536	7.455	0	
 Progress Estate - Afobaje Road	Ado Odo/Ota	Ogun	6.679	3.216	1	
 Esther Obuakor Road	Awka South	Anambra	6.242	7.104	1	
 Friends Colony Estate Access Road	Eti Osa	Lagos	6.449	3.515	1	
@@ -202,49 +335,59 @@ paccho Estate	Obio/Akpor	Rivers	4.875	6.916	1
 Ire-Akari Estate Road	Oshodi/Isolo	Lagos	6.523	3.322	1	
 GoodHomes Estate	Eti Osa	Lagos	6.489	3.587	1	
 Olufunke Awope Estate	Ife Central	Osun	7.506	4.549	1	
-Oke Ese Street	Ilesha West	Osun	7.624	4.738	1	
 Esa Obe Secondary School	Ijero	Ekiti	7.837	5.046	1	
 Lilly Estate	Ijero	Ekiti	7.839	5.042	1	
 Oke-esi	Oye	Ekiti	7.794	5.293	1	
 Orita Obele Estate Road	Akure South	Ondo	7.301	5.164	1	
 Rumuogba Estate Road	Obio/Akpor	Rivers	4.838	7.036	1	
-Mobil Estate Road	Eti Osa	Lagos	6.444	3.564	1	
-Balogun Estate Road	Eti Osa	Lagos	6.475	3.653	1	
 Nyong Essien	Uyo	Akwa Ibom	5.029	7.928	1	
 Haruna Eshinlokun Street	Eti Osa	Lagos	6.476	3.630	1	
 Esho Close	Eti Osa	Lagos	6.441	3.473	1	
 Ilado Estate II	Akure North	Ondo	7.233	5.240	1	
 James Esu Street	Shomolu	Lagos	6.539	3.399	1	
 Sokoh Estate Road	Uvwie	Delta	5.550	5.776	1	
-Essi College Warri	Warri South	Delta	5.510	5.763	0	
-Kabusa Gardens Estate	Municipal Area Council	FCT Abuja	8.963	7.435	2	
-Same Global Housing Estate	Municipal Area Council	FCT Abuja	8.971	7.441	2	
 Mobil Estate Road	Eti Osa	Lagos	6.465	3.562	1	
-Total Jubilee Estate	Ìkòròdú	Lagos	6.637	3.513	0	
 Lekki Garden Estate, Phase 5, Road 11	Eti Osa	Lagos	6.458	3.599	1	
+400 Housing Estate Gubio Road IDP Camp Clinic B	Maiduguri	Borno	11.906	13.085	1	
+Essiet Close	Ikot Abasi	Akwa Ibom	4.579	7.586	1	
+Santorini Estates Road	Sapele	Delta	5.827	5.708	1	
+Harmony Estate Road	Enugu East	Enugu	6.486	7.541	1	
+Estate Dr Street	Eti Osa	Lagos	6.468	3.582	1	
+Azeez Eshilonuh Close	Eti Osa	Lagos	6.471	3.652	1	
+Esonere model primary school/Gaorge Idah	Oredo	Edo	6.310	5.615	0	
+ESUT Medicine Student's Hostel	Enugu North	Enugu	6.463	7.496	0	
+ESUTH Pediatrics Emergency	Enugu North	Enugu	6.461	7.494	0	
+Housing Estate Primary School	Enugu East	Enugu	6.481	7.518	0	
+Essence International School	Kaduna North	Kaduna	10.535	7.456	0	
+Ajao Estate main entrance	Oshodi/Isolo	Lagos	6.552	3.329	0	
+Edgeba Estate School	Warri South	Delta	5.538	5.734	0	
+Esedo Primary School  III	Uvwie	Delta	5.552	5.782	0	
+Ese Market	Akoko North West	Ondo	7.611	5.698	0	
+Windsor Locks School, Kingston Estate	Municipal Area Council	FCT Abuja	9.092	7.378	0	
+ESBS Bus stop	Enugu North	Enugu	6.432	7.517	0	
+Esteemed Christian Academy	Jos North	Plateau	9.928	8.913	0	
+Es 5 Junction Road By Station Roundabout Kaduna	Kaduna South	Kaduna	10.497	7.419	0	
+Primary Health Center Ese Ofin Riverine	Ojo	Lagos	6.444	3.147	0	
+Rehoboth Estate Phase 2	Akure South	Ondo	7.285	5.152	0	
+Rehoboth Estate	Akure South	Ondo	7.286	5.152	0	
+Deoyefemi Clinic Block 4 Jakande Estate Mile 2	Amuwo Odofin	Lagos	6.464	3.307	0	
+Jes And Jes Mosque Road Jakande Estate	Amuwo Odofin	Lagos	6.463	3.312	0	
+Esteemed Private School	Jos North	Plateau	9.936	8.910	0	
+Ese Ofin	Ojo	Lagos	6.450	3.144	0	
+Enugu State University of Science and Technology (ESUT)	Nkanu West	Enugu	6.307	7.538	0	
+Sagama Orchids Estate	Municipal Area Council	FCT Abuja	9.124	7.391	0	
+Prince And Princess Estate Junction	Municipal Area Council	FCT Abuja	9.009	7.460	0	
+Voice Of Nigeria Estate, Doctors Quarters, Phase 2	Municipal Area Council	FCT Abuja	8.968	7.369	0	
+Gaduwa Estate Bus Stop	Municipal Area Council	FCT Abuja	9.005	7.466	0	
+Southern Bridge Estate	Municipal Area Council	FCT Abuja	9.047	7.413	0	
+Agbama Housing Estate Main Gate, Umuahia, Abia State	Umuahia South	Abia	5.502	7.499	0	
+Agbama Housing Estate 1st Transformer	Umuahia South	Abia	5.499	7.500	0	
+Estate market	Port-Harcourt	Rivers	4.819	7.058	0	
+Essence International School African Heritage Village	Kaduna North	Kaduna	10.536	7.455	0	
+Essi College Warri	Warri South	Delta	5.510	5.763	0	
+Total Jubilee Estate	Ìkòròdú	Lagos	6.637	3.513	0	
 Estaport Schools	Kosofe	Lagos	6.561	3.383	0	
 ESUT College of Medicine Enugu	Enugu North	Enugu	6.460	7.494	0	
 Estate Specialist Hospital	Warri South	Delta	5.534	5.756	0	
-400 Housing Estate Gubio Road IDP Camp Clinic B	Maiduguri	Borno	11.906	13.085	1	
-Essiet Close	Ikot Abasi	Akwa Ibom	4.579	7.586	1	
-NAF Valley Estate	Municipal Area Council	FCT Abuja	9.048	7.545	2	
-400 Housing Estate Gubio Road IDP Camp Clinic B	Magumeri	Borno	11.910	13.083	1	
-Santorini Estates Road	Sapele	Delta	5.827	5.708	1	
-Millenium Estate	Eti Osa	Lagos	6.455	3.480	1	
-Oba Adeyinka Estate	Eti Osa	Lagos	6.436	3.475	1	
-Mobil Estate Road	Eti Osa	Lagos	6.465	3.562	1	
 Faplins Estate Mall	Municipal Area Council	FCT Abuja	8.970	7.437	0	
-Beechwood Estate	Ibeju Lekki	Lagos	6.475	3.772	1	
-SunnyVale Estate	Municipal Area Council	FCT Abuja	8.979	7.443	2	
-Harmony Estate Road	Enugu East	Enugu	6.486	7.541	1	
 Enugu State University of Science and Technology (ESUT)	Nkanu West	Enugu	6.301	7.545	0	
-River Park Estate	Municipal Area Council	FCT Abuja	8.981	7.331	2	
-Estate Dr Street	Eti Osa	Lagos	6.468	3.582	1	
-Azeez Eshilonuh Close	Eti Osa	Lagos	6.471	3.652	1	
-Essien Udim	Essien Udim	Akwa Ibom	5.104	7.657	2	
-Esit Eket	Esit Eket	Akwa Ibom	4.643	8.076	2	
-Esan North-East	Esan North-East	Edo	6.787	6.433	2	
-Esan Central	Esan Central	Edo	6.705	6.208	2	
-Esan West	Esan West	Edo	6.655	6.140	2	
-Ese Odo	Ese Odo	Ondo	6.231	4.953	2	
-Esan South-East	Esan South-East	Edo	6.577	6.486	2	

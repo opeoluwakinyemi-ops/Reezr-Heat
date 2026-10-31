@@ -8,9 +8,56 @@ Avba	Ndokwa East	Delta	5.515	6.385	2
 Avodim	Umuahia South	Abia	5.483	7.467	2	
 Avblaman	Ikpoba-Okha	Edo	6.312	5.678	2	Avbiaman
 Bala Aviu	Damboa	Borno	11.224	13.144	2	
-Avina Filling Station	Obio/Akpor	Rivers	4.854	7.063	0	
 Aviation Quaters	Fagge	Kano	12.041	8.534	2	
-Aveli Luxe	Municipal Area Council	FCT Abuja	9.120	7.391	0	
+Avutu	Obowo	Imo	5.529	7.368	2	
+Avur	Takum	Taraba	7.460	10.072	2	
+Avur	Konshisha	Benue	7.163	8.548	2	
+Avule	Gboko	Benue	7.296	8.640	2	
+Avonkwu	Umuahia North	Abia	5.540	7.576	2	
+Avo	Obi Ngwa	Abia	5.217	7.483	2	
+Aviosi	Owan West	Edo	6.958	5.911	2	
+Aviaga	Gwer East	Benue	7.362	8.521	2	
+Avesegh	Awe	Nasarawa	8.294	9.013	2	
+Avermun	Donga	Taraba	7.544	10.103	2	
+Averkaan-Ayem	Ushongo	Benue	7.146	8.985	2	
+Avenkaan	Ushongo	Benue	7.206	8.991	2	
+Avela	Gboko	Benue	7.460	8.722	2	
+Avdesagbon	Uhunmwonde	Edo	6.483	5.867	2	
+Avbiugu	Orhionmwon	Edo	6.202	5.837	2	
+Avangwa	Ussa	Taraba	7.396	10.236	2	
+Avakaa	Gboko	Benue	7.297	8.628	2	
+Afulugo	Igalamela-Odolu	Kogi	6.921	7.191	2	Avuruge
+Avbhupu	Esan South-East	Edo	6.524	6.356	2	Aburu
+Aviagee	Gwer East	Benue	7.375	8.336	2	
+Avule	Gboko	Benue	7.457	8.874	2	
+Avende	Gwer West	Benue	7.601	8.151	2	
+Avonkwu	Umuahia North	Abia	5.524	7.532	2	
+Avwo	Ughelli South	Delta	5.211	6.009	2	
+Aven	Patani	Delta	5.200	6.195	2	
+Oboku-Avu	Owerri West	Imo	5.457	6.968	2	
+Avindir	Logo	Benue	7.808	9.027	2	
+Avov	Guma	Benue	7.682	9.024	2	
+Avundu	Wukari	Taraba	7.841	9.701	2	
+Avekar	Wukari	Taraba	7.794	9.774	2	
+Avir	Ukum	Benue	7.650	9.532	2	
+Avindigh	Ukum	Benue	7.616	9.536	2	
+Avel	Ukum	Benue	7.525	9.533	2	
+Avi	Ukum	Benue	7.720	9.651	2	
+Avenda	Wukari	Taraba	7.717	9.805	2	
+Avur	Buruku	Benue	7.452	9.147	2	
+Avalakaa	Ushongo	Benue	7.209	9.010	2	
+Avve	Buruku	Benue	7.209	9.226	2	
+Avar	Katsina-Ala	Benue	7.212	9.307	2	
+Avihi	Gboko	Benue	7.482	8.949	2	
+Avel	Gboko	Benue	7.370	8.975	2	
+Avual	Gboko	Benue	7.310	8.936	2	
+Avungu	Gboko	Benue	7.289	8.873	2	
+Avbiele	Etsako West	Edo	6.988	6.275	2	
+Ubiane-Avbiele	Etsako West	Edo	6.994	6.296	2	
+Idumu-Avbhuru	Esan South-East	Edo	6.510	6.364	2	
+Avong	Zangon Kataf	Kaduna	9.675	8.266	2	
+Avugh	Keana	Nasarawa	8.161	8.582	2	
+Avona	Sardauna	Taraba	6.574	11.196	2	
 Bakare Ave	Shomolu	Lagos	6.544	3.368	1	
 Afe Miracle Ave	Oredo	Edo	6.311	5.625	1	
 Okoro Otun Ave	Oredo	Edo	6.314	5.622	1	
@@ -20,7 +67,6 @@ Cassey Ave.	Oredo	Edo	6.300	5.600	1
 Aviation Way	Oredo	Edo	6.331	5.606	1	
 Eleventh Ave	Ibadan South West	Oyo	7.364	3.855	1	
 Tenth Ave	Ibadan South West	Oyo	7.363	3.856	1	
-Nigerian College of Aviation Technology	Sabon Gari	Kaduna	11.134	7.685	0	NCAT
 Richard Aviomoh Avenue	Oredo	Edo	6.290	5.594	1	
 Michael Babatunde Ave	Ifo	Ogun	6.678	3.297	1	
 Folarin Gbadebo Ave	Ifako/Ijaye	Lagos	6.676	3.297	1	
@@ -38,15 +84,16 @@ Waast Ave	Owerri North	Imo	5.502	7.040	1
 Royal Duke Ave.	Owerri Municipal	Imo	5.483	7.011	1	
 Celebrity Ave.	Owerri Municipal	Imo	5.484	7.010	1	
 Orio Ave.	Owerri Municipal	Imo	5.485	7.012	1	
-Orio Ave.	Owerri Municipal	Imo	5.485	7.012	1	
 Ugaeze Beatrice Okwuaba Ave.	Owerri Municipal	Imo	5.482	7.011	1	
 Nnamdi Azikiwe Ave	Awka South	Anambra	6.229	7.106	1	
-Avi-Cenna International School	Ikeja	Lagos	6.588	3.352	0	
 AVM. Ibrahim Kure Road	Kaduna North	Kaduna	10.526	7.453	1	
 A J Peters Abanulor Ave	Aboh-Mbaise	Imo	5.494	7.197	1	
 Nzok Ubbizi Avenur	Eti Osa	Lagos	6.475	3.604	1	
 AVM Femi John Femi Road	Municipal Area Council	FCT Abuja	8.974	7.260	1	
 Ugo Osuya Ave	Eti Osa	Lagos	6.502	3.609	1	
 windsor ave	Tarauni	Kano	11.958	8.586	1	
+Avina Filling Station	Obio/Akpor	Rivers	4.854	7.063	0	
+Aveli Luxe	Municipal Area Council	FCT Abuja	9.120	7.391	0	
+Nigerian College of Aviation Technology	Sabon Gari	Kaduna	11.134	7.685	0	NCAT
+Avi-Cenna International School	Ikeja	Lagos	6.588	3.352	0	
 Ave Maria International Academy	Obio/Akpor	Rivers	4.864	7.051	0	
-Oba Kabiru Agbabiaka Ave	Oshodi/Isolo	Lagos	6.506	3.305	1	

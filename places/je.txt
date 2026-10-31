@@ -1,7 +1,16 @@
+Jerikom	Kwami	Gombe	10.366	11.275	3	
+Jega	Jega	Kebbi	12.225	4.378	3	
+Jebba	Moro	Kwara	9.120	4.824	3	Djebba
+Jesse	Ethiope West	Delta	5.871	5.753	3	Jerhe
+Jema'a	Jema'A	Kaduna	9.466	8.385	3	
+Otu-Jeremi	Udu	Delta	5.438	5.878	3	Jeremi Town|Otu-Chievwen|Otu-Ghievwen|Otu-Ughievwen|Otughievwen|Otujeremi
+Jega	Jega	Kebbi	12.223	4.380	3	
+Jama’are	Jama'Are	Bauchi	11.670	9.928	3	Jama'are|Jamaare|Jamaari|Jemma'are
+Ijebu-Jesa	Oriade	Osun	7.683	4.818	3	Ijebu-Ijesa|Ijebu-Ijesha|Ijebu-Jesha
 Gajari Jenawa	Binji	Sokoto	13.121	4.743	2	
 Jebga	Kebbe	Sokoto	12.121	4.842	2	
 Jerkam	Dukku	Gombe	10.804	10.909	2	
-Jerikom	Kwami	Gombe	10.366	11.275	3	
+Jem Petel	Karim Lamido	Taraba	9.322	11.379	2	
 Jerdedi	Mai'Adua	Katsina	13.069	8.391	2	
 Yebi-Jemi	Kukawa	Borno	13.107	13.595	2	
 Jaromboyi	Gombi	Adamawa	10.059	12.376	2	Jerimboyi
@@ -21,10 +30,11 @@ Gidan Jergaba	Sabon Birni	Sokoto	13.525	5.975	2
 Gida Jebo	Maru	Zamfara	12.155	6.144	2	Gidan Jebo
 Ovworigbala Jeremi	Burutu	Delta	5.386	5.723	2	Ovorigbala
 Jemuri	Bama	Borno	11.750	14.021	2	
-Jega	Jega	Kebbi	12.225	4.378	3	
 Jere	Kagarko	Kaduna	9.567	7.433	2	
+Jen Kaigama	Karim Lamido	Taraba	9.383	11.467	2	
 Jekada	Kagarko	Kaduna	9.436	7.788	2	
 Adjekota	Ughelli North	Delta	5.433	6.017	2	Jekota
+Jebjeb	Karim Lamido	Taraba	9.247	10.691	2	
 Gidan Jero	Fakai	Kebbi	11.550	4.645	2	
 Idedaka-Jesse	Ethiope West	Delta	5.881	5.771	2	
 Jeunkunnu	Moro	Kwara	8.767	4.450	2	Jehunkunu
@@ -42,6 +52,7 @@ Jeke	Sule Tankakar	Jigawa	12.833	9.083	2
 Jeka Fada	Yankwashi	Jigawa	12.702	8.640	2	Zugum
 Fajaldu	Dange-Shuni	Sokoto	12.841	5.381	2	Jeldu
 Jengre	Bassa	Plateau	10.237	8.793	2	
+Jenoe	Karim Lamido	Taraba	9.141	10.798	2	
 Jerau	Kiri Kasama	Jigawa	12.458	10.316	2	
 Tunga Jelebe	Koko-Besse	Kebbi	11.208	4.323	2	
 Jeka Da Kwollo	Tsafe	Zamfara	11.889	6.848	2	
@@ -49,27 +60,21 @@ Jessu	Guyuk	Adamawa	9.735	11.816	2
 Jerdeia	Mai'Adua	Katsina	13.069	8.391	2	
 Jegara Waji	Ngala	Borno	12.433	14.117	2	
 Jege	Yagba East	Kogi	8.055	5.707	2	
-Jebba	Moro	Kwara	9.120	4.824	3	Djebba
 Jela	Birnin Magaji-Kiyaw	Zamfara	12.342	6.821	2	
-Jesse	Ethiope West	Delta	5.871	5.753	3	Jerhe
 Jemyeri	Damboa	Borno	11.214	12.582	2	
 Ruwan Jema	Bukkuyum	Zamfara	12.245	5.633	2	Ruanjema
 Ovade Jerhe	Ethiope West	Delta	5.808	5.796	2	Ovade Jesse
 Jelawa	Suru	Kebbi	11.812	4.116	2	
 Wauro Jabbe	Yola South	Adamawa	9.267	12.417	2	Wuro Jebbe
 Jarang	Mayo-Belwa	Adamawa	8.967	11.900	2	Jereng
+Jegan Maunde	Lau	Taraba	9.264	11.525	2	
 Agelu Jerusalem	Ìsẹ́yìn	Oyo	7.795	3.494	2	
 Dere	Paikoro	Niger	9.450	6.700	2	Jere
 Chemisan	Sapele	Delta	5.767	5.617	2	Jemisan
 Jenyau	Gusau	Zamfara	12.197	6.649	2	
 Jebba Gidan Madugu	Tangaza	Sokoto	13.502	5.148	2	Jabba Gidan Madugu
-Tin Can Island Jetty	Apapa	Lagos	6.433	3.335	0	
-Jessilac Montesory School	Oredo	Edo	6.289	5.597	0	
-The Jesus Missionary International School	Oredo	Edo	6.333	5.631	0	
 Jericho	Ibadan South West	Oyo	7.395	3.865	2	
 Jeli B	Tudun Wada	Kano	11.279	8.264	2	Jili
-Government Chest Hospital,Jericho	Ibadan South West	Oyo	7.394	3.872	0	
-Bukuma Jetty	Asari-Toru	Rivers	4.739	6.882	0	
 Jetete	Magumeri	Borno	12.035	12.918	2	
 Jeri	Dekina	Kogi	7.638	7.378	2	
 Jerkama	Bassa	Kogi	7.917	7.233	2	
@@ -79,179 +84,19 @@ Jeki Jauro Bello	Shani	Borno	10.071	11.999	2
 Jeli	Shani	Borno	10.108	12.070	2	
 Jeki	Kwaya Kusar	Borno	10.406	12.015	2	
 Jewu	Konduga	Borno	11.768	12.857	2	
-Jewu Primary Health Clinic	Konduga	Borno	11.767	12.854	0	
 Jebra	Bama	Borno	11.398	13.764	2	
-iya afin jetty	Badagry	Lagos	6.446	2.861	0	
-Ifoko Jetty	Asari-Toru	Rivers	4.762	6.816	0	
-Bugama Jetty	Asari-Toru	Rivers	4.731	6.863	0	
-JERE JUNCTION	Kagarko	Kaduna	9.565	7.424	0	
 Gidan Jeda	Gada	Sokoto	13.693	5.923	2	
-Jeddo Primary School	Okpe	Delta	5.593	5.706	0	
-Jebale Pet. and Gas Filling Station	Uvwie	Delta	5.571	5.724	0	
-Jelicopet Nig. Ltd	Uvwie	Delta	5.561	5.774	0	
 Jele Shuwari	Monguno	Borno	12.293	13.306	2	
 Jele Kura	Monguno	Borno	12.297	13.316	2	
-Jezco Filling Station	Ahoada West	Rivers	5.066	6.446	0	
 Jere A	Konduga	Borno	11.939	12.764	2	
 Jetete	Konduga	Borno	11.710	13.330	2	
 Jega North	Jega	Kebbi	12.231	4.378	2	
-Ilaje Waterfront Jetty Terminal Bariga	Shomolu	Lagos	6.528	3.400	0	
-Addax Jetty	Eti Osa	Lagos	6.437	3.442	0	
-Iworo Ajido Jetty	Badagry	Lagos	6.414	3.008	0	
-Apapa Liverpool Jetty	Apapa	Lagos	6.439	3.359	0	
-Oworonsoki Jetty	Kosofe	Lagos	6.548	3.407	0	
-Jere	Kagarko	Kaduna	9.571	7.454	0	
-Angulama Jetty	Asari-Toru	Rivers	4.721	6.839	0	
-Degema Jetty	Degema	Rivers	4.756	6.782	0	
-Krakrama Jetty	Degema	Rivers	4.755	6.783	0	
-Sangana Jetty	Asari-Toru	Rivers	4.758	6.817	0	
-Abalama Jetty	Asari-Toru	Rivers	4.763	6.841	0	
-PHC Jekadafari	Gombe	Gombe	10.286	11.161	0	
 Jelagu	Minjibir	Kano	12.167	8.686	2	
 Gidan Jeji Babban Ga	Ajingi	Kano	11.957	9.204	2	
 Jemagu	Warawa	Kano	11.856	8.743	2	
 Jekur	Wudil	Kano	11.756	8.793	2	
 Gidan Jeji	Tudun Wada	Kano	11.363	8.745	2	
-Jeki Kanakuri Dispensary	Shani	Borno	10.067	12.000	0	
-Psychiatric Mental Home Jega	Jega	Kebbi	12.224	4.371	0	
-Jesus college	Oturkpo	Benue	7.204	8.153	0	
-Brass Jetty	Brass	Bayelsa	4.319	6.242	0	
-Jengre Links Oil & Gas LTD	Bassa	Plateau	9.995	8.845	0	
-Jevicho Oil and Gas Limited	Jos North	Plateau	9.915	8.913	0	
-Jenvak hospital & maternity	Jos North	Plateau	9.903	8.869	0	
-Primary Health Centre Jenta Adamu	Jos North	Plateau	9.925	8.875	0	
-Jesuit Memorial College Port Harcourt	Ikwerre	Rivers	4.926	6.967	0	
-Iko Jetty	Eastern Obolo	Akwa Ibom	4.522	7.754	0	
-Only Jesus Hostel	Akure South	Ondo	7.290	5.149	0	
-Jes And Jes Mosque Road Jakande Estate	Amuwo Odofin	Lagos	6.463	3.312	0	
-Jeokem Hospital	Amuwo Odofin	Lagos	6.459	3.304	0	
-Jes 7 Jes Clinic Amuwo Housing	Amuwo Odofin	Lagos	6.448	3.280	0	
-JEMFAS SCHOOLS	Alimosho	Lagos	6.521	3.229	0	
-Jerusalem Mission Sch	Jos North	Plateau	9.937	8.911	0	
-Jezco	Oshimili South	Delta	6.175	6.747	0	
-Jemuje	Apapa	Lagos	6.418	3.351	0	
-jegba marina badagry/commando jetty	Badagry	Lagos	6.416	2.876	0	
-New Kulende Market, Jebba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.514	4.589	0	
-Eleko, Orelope Hospital, Jebba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.536	4.619	0	
-Jema'a	Jema'A	Kaduna	9.466	8.385	3	
-Imore Jetty	Amuwo Odofin	Lagos	6.430	3.281	0	
-gbaji yekeme jetty	Badagry	Lagos	6.420	2.861	0	
-epe ayetoro jetty	Epe	Lagos	6.577	3.975	0	
-kabiyesi itomu jetty	Eti Osa	Lagos	6.502	3.627	0	
-itomu jetty	Epe	Lagos	6.501	3.629	0	
-badore jetty (tarzan)	Eti Osa	Lagos	6.515	3.606	0	
 Jekana	Kaiama	Kwara	9.524	3.908	2	
-Jesus Is Lord Mechanics	Municipal Area Council	FCT Abuja	9.143	7.377	0	
-Living Faith Church, Mai Suya Junction, New Jerusalem, Dutse Makaranta	Bwari	FCT Abuja	9.168	7.386	0	
-Jedo Junction	Municipal Area Council	FCT Abuja	8.948	7.329	0	
-Jewel Iykson Nigeria Limited	Municipal Area Council	FCT Abuja	9.154	7.346	0	
-Jebba Street (West)	Surulere	Lagos	6.482	3.380	1	
-Jema'a Road	Kaduna North	Kaduna	10.506	7.431	1	
-2nd Jegede Lane	Oredo	Edo	6.345	5.632	1	
-1st Jegede Lane	Oredo	Edo	6.345	5.632	1	
-Akhionbare Street	Oredo	Edo	6.311	5.606	1	Jemide Street
-Jemide Drive	Oredo	Edo	6.325	5.596	1	
-Wofun to Jenriyin Road	Lagelu	Oyo	7.453	3.987	1	
-Jebba Street	Lagos Mainland	Lagos	6.486	3.388	1	
-Jesus Road	Kosofe	Lagos	6.559	3.394	1	
-Jerry Iriabe Street	Eti Osa	Lagos	6.450	3.474	1	
-Jetty Road	Apapa	Lagos	6.440	3.378	1	
-Jerry Gana Close	Municipal Area Council	FCT Abuja	9.075	7.449	1	
-Jere Street	Municipal Area Council	FCT Abuja	9.027	7.487	1	
-Jerome Udoji Close	Municipal Area Council	FCT Abuja	9.050	7.516	1	
-David Jemibewon Crescent	Municipal Area Council	FCT Abuja	8.996	7.482	1	
-Jesuorobo Str.	Oredo	Edo	6.299	5.588	1	
-Jehovah Emmanuel Church Street	Shomolu	Lagos	6.540	3.398	1	
-Jejelaiye Street	Ojo	Lagos	6.463	3.165	1	
-Jesu Oseun Street	Ifo	Ogun	6.693	3.299	1	
-Jemibewon Street	Kosofe	Lagos	6.579	3.384	1	
-Jegede Street	Kosofe	Lagos	6.583	3.400	1	
-Jegede Lane	Oredo	Edo	6.337	5.621	1	
-Jebba Road	Moro	Kwara	8.940	4.780	1	
-Jebba Road	Moro	Kwara	8.934	4.776	1	
-Jebba Road	Moro	Kwara	8.692	4.611	1	
-Jebba Road	Moro	Kwara	8.904	4.753	1	
-Jebba Road	Moro	Kwara	8.647	4.579	1	
-Jerry Uwakwe Street	Enugu North	Enugu	6.463	7.536	1	
-Jerry Ugwu Avenue	Enugu North	Enugu	6.463	7.525	1	
-Jeff Udeoha Street	Enugu South	Enugu	6.396	7.488	1	
-Jecinta Street	Enugu East	Enugu	6.504	7.509	1	
-Jesus Christ Close	Enugu East	Enugu	6.487	7.546	1	
-Jesus Street	Enugu East	Enugu	6.511	7.526	1	
-Paskal Jek Close	Enugu North	Enugu	6.454	7.516	1	
-Yaryasa - Jeli B Road	Tudun Wada	Kano	11.298	8.271	1	
-Jemomi Health Post	Dawakin Tofa	Kano	12.245	8.500	0	
-Furana - Jeli B Road	Ikara	Kaduna	11.278	8.226	1	
-Yaryasa - Jeli B Road	Tudun Wada	Kano	11.321	8.289	1	
-Yaryasa - Jeli B Road	Tudun Wada	Kano	11.328	8.299	1	
-Jemilugba Lane	Shomolu	Lagos	6.530	3.376	1	
-Fiongha Jephthah Road	Yenegoa	Bayelsa	4.928	6.312	1	
-Oja Oba Ijebu Jesha-Oke Mesi Road	Oriade	Osun	7.684	4.822	1	
-Furana - Jeli B Road	Tudun Wada	Kano	11.280	8.257	1	
-Jesus Corper	Umuahia North	Abia	5.529	7.514	1	
-Jegede Brown Street	Alimosho	Lagos	6.533	3.264	1	
-Jesu Maria Close	Eti Osa	Lagos	6.476	3.573	1	
-Jehova Street	Kosofe	Lagos	6.615	3.410	1	
-Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	8.998	7.485	1	
-Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.006	7.478	1	
-Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.000	7.483	1	
-Jemtok Street	Oshodi/Isolo	Lagos	6.508	3.311	1	
-Jeremiah Ugwu Street	Eti Osa	Lagos	6.449	3.479	1	
-Jemi Longe Street	Eti Osa	Lagos	6.458	3.578	1	
-Jebba Road	Ilorin West	Kwara	8.569	4.527	1	
-Jebba Road	Moro	Kwara	8.623	4.553	1	
-Furana - Jeli B Road	Ikara	Kaduna	11.280	8.242	1	
-Furana - Jeli B Road	Ikara	Kaduna	11.280	8.252	1	
-Furana - Jeli B Road	Ikara	Kaduna	11.277	8.216	1	
-Furana - Jeli B Road	Ikara	Kaduna	11.276	8.213	1	
-Jemiseye Street	Eti Osa	Lagos	6.475	3.660	1	
-Jegede Avenue	Adó-Èkìtì	Ekiti	7.621	5.210	1	
-King Jesus Road	Esan West	Edo	6.750	6.078	1	
-Rufus Jegede Street	Eti Osa	Lagos	6.454	3.613	1	
-Prince Jerry Doris Street	Eti Osa	Lagos	6.467	3.631	1	
-Jehovahs witness road	Ogba/Egbema/Ndoni	Rivers	5.331	6.643	1	
-Jericho Road	Ido	Oyo	7.425	3.827	1	
-Jericho Road	Ibadan North West	Oyo	7.399	3.860	1	
-Jericho Road	Ibadan South West	Oyo	7.407	3.849	1	
-Jericho Road	Ido	Oyo	7.406	3.844	1	
-Jesse Jackson Street	Municipal Area Council	FCT Abuja	9.045	7.509	1	
-New Jerusalem Road	Bonny	Rivers	4.428	7.182	1	
-Jebba Road	Ilorin West	Kwara	8.549	4.505	1	
-Jebba Road	Asa	Kwara	8.507	4.471	1	
-Jebba Road	Asa	Kwara	8.448	4.453	1	
-Jetty Road	Eti Osa	Lagos	6.476	3.560	1	
-Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.011	7.474	1	
-Jemibewon Road	Ibadan North West	Oyo	7.399	3.882	1	
-Jecinta Street	Enugu East	Enugu	6.505	7.508	1	
-Jebba Road	Moro	Kwara	8.742	4.631	1	
-Jebba Road	Moro	Kwara	8.835	4.690	1	
-Olanrewaju Jegede Brown Str	Alimosho	Lagos	6.534	3.270	1	
-Jesu Oseun Street	Ifo	Ogun	6.689	3.292	1	
-Dumin Jeji Dispensary Clinic	Bauchi	Bauchi	10.283	9.871	0	
-Jericho Nursing Home	Ibadan North West	Oyo	7.400	3.869	0	
-Jericho Specialist Hospital	Ibadan South West	Oyo	7.397	3.871	0	
-Dogon Jeji Health Clinic	Jama'Are	Bauchi	11.739	9.955	0	Kofar Yamma
-Lead City University Jericho Campus	Ibadan North West	Oyo	7.400	3.867	0	
-Jebuwa Dispensary	Yusufari	Yobe	13.037	10.941	0	
-General Hospital Jega	Jega	Kebbi	12.229	4.374	0	
-Jericho Road	Ido	Oyo	7.459	3.775	1	
-Jericho Road	Ido	Oyo	7.452	3.796	1	
-Jebba Road	Ilorin West	Kwara	8.533	4.487	1	
-Jericho Road	Ido	Oyo	7.444	3.799	1	
-Jesse Jackson Street	Municipal Area Council	FCT Abuja	9.047	7.511	1	
-Jelisa Sch Rd.	Port-Harcourt	Rivers	4.786	6.962	1	
-Jebba Road	Asa	Kwara	8.444	4.453	1	
-Jeff V. Wade Obahor Street	Eti Osa	Lagos	6.429	3.523	1	
-Jebba Road	Asa	Kwara	8.472	4.460	1	
-Jebba Road	Ilorin West	Kwara	8.527	4.481	1	
-Jebba Road	Ilorin West	Kwara	8.539	4.494	1	
-Jebba Road	Moro	Kwara	8.583	4.541	1	
-Jebba Road	Moro	Kwara	8.592	4.544	1	
-Jebba Road	Moro	Kwara	8.600	4.546	1	
-Jebba Road	Moro	Kwara	8.629	4.558	1	
-Jebba Road	Moro	Kwara	8.653	4.585	1	
-Jebba Road	Moro	Kwara	8.747	4.633	1	
-Jebba Road	Moro	Kwara	8.724	4.622	1	
 Jebuwa	Yusufari	Yobe	13.109	10.965	2	
 Jeke	Sule Tankakar	Jigawa	12.785	9.125	2	
 Ruwan Jema	Bukkuyum	Zamfara	12.263	5.648	2	
@@ -268,3 +113,302 @@ Dogon Jeji B	Jama'Are	Bauchi	11.727	9.884	2
 Dogon Jeji A	Jama'Are	Bauchi	11.741	9.960	2	
 Dogon Jeji C	Jama'Are	Bauchi	11.715	9.947	2	
 Jere	Jere	Borno	11.936	13.182	2	
+Yebi Jemi	Kukawa	Borno	13.121	13.588	2	Yebi-Jemi
+Wauro Jabbe	Yola South	Adamawa	9.261	12.398	2	Wuro Jebbe
+Sangere Jelani	Song	Adamawa	9.594	12.562	2	
+Sabon Layi Jessu	Balanga	Gombe	9.733	11.767	2	
+Mayo Jeyi	Fufore	Adamawa	8.884	12.463	2	
+Lusa Jeji	Bogoro	Bauchi	9.555	9.608	2	
+Lusa Jeji	Bogoro	Bauchi	9.542	9.599	2	
+Jewoese	Atiba	Oyo	8.005	3.997	2	
+Jevel	Konshisha	Benue	7.015	8.790	2	
+Jeunkunnu	Olorunsogo	Oyo	8.854	4.183	2	
+Jeunkunnu	Moro	Kwara	8.785	4.218	2	
+Jerwa	Gamawa	Bauchi	11.931	10.495	2	
+Jero	Karim Lamido	Taraba	9.447	11.066	2	Jelo|Pitago
+Jerkoya	Ningi	Bauchi	10.902	8.973	2	
+Jerimi	Bali	Taraba	8.195	11.486	2	
+Jerikom	Kwami	Gombe	10.362	11.276	2	
+Jericho Oluna	Oturkpo	Benue	7.330	8.017	2	
+Jericho Odaubialagu	Oturkpo	Benue	7.332	8.006	2	
+Jeri	Shani	Borno	10.112	12.086	2	
+Jeree	Bama	Borno	11.389	13.947	2	Jere e|Jere'e
+Jere	Kusada	Katsina	12.365	7.812	2	
+Jere	Bassa	Plateau	10.185	8.864	2	
+Jere	Ijebu North	Ogun	7.029	3.867	2	
+Jerdadi	Dukku	Gombe	10.704	10.832	2	
+Jerani	Ganye	Adamawa	8.563	11.861	2	
+Jer	Buruku	Benue	7.639	8.928	2	
+Jenyawe	Konshisha	Benue	7.141	8.632	2	
+Jenyau	Gusau	Zamfara	12.194	6.652	2	
+Jenue	Karim Lamido	Taraba	9.141	10.798	2	Garin Jukun|Jenoe
+Jentulu Hill	Gudu	Sokoto	13.219	4.293	2	
+Jenta	Jema'A	Kaduna	9.507	8.571	2	
+Jenkpa	Konshisha	Benue	7.146	8.616	2	
+Jen Kaigama	Karim Lamido	Taraba	9.385	11.479	2	Jen Kaigamma
+Jengere	Bassa	Plateau	10.239	8.797	2	Jengre
+Jenge	Toro	Bauchi	10.436	9.273	2	
+Jengba	Bali	Taraba	8.463	11.694	2	
+Jenda	Fika	Yobe	11.512	11.065	2	
+Jenda	Sanga	Kaduna	9.285	8.326	2	
+Jenbambu	Jalingo	Taraba	8.930	11.310	2	
+Jen	Karim Lamido	Taraba	9.380	11.468	2	
+Jen	Ushongo	Benue	7.166	8.949	2	
+Jemuri	Bama	Borno	11.757	14.026	2	
+Jem Petel	Lau	Taraba	9.312	11.374	2	
+Jemidudu	Okitipupa	Ondo	6.471	4.798	2	
+Jama'an Gayan	Kokona	Nasarawa	8.711	7.935	2	Jama'anGayan|Jemaan Gayam|JemaanGayam
+Jemaa	Toro	Bauchi	10.152	9.418	2	
+Old Jemaa	Jema'A	Kaduna	9.467	8.386	2	Jemaa
+Jelvani	Ganye	Adamawa	8.249	12.071	2	
+Njolowa	Ngelzarma	Yobe	11.920	11.862	2	Jelawa
+Jekogi	Wushishi	Niger	9.564	5.967	2	
+Jeki	Shani	Borno	10.177	12.079	2	
+Jeki	Shani	Borno	10.069	12.003	2	
+Jeke	Sule Tankakar	Jigawa	12.824	9.087	2	
+Jekana	Kaiama	Kwara	9.535	3.950	2	Zekana
+Jejin Kudu	Sumaila	Kano	11.365	8.949	2	
+Jeje	Konshisha	Benue	7.082	8.667	2	
+Jeje	Ushongo	Benue	7.045	8.888	2	
+Jegede	Olorunsogo	Oyo	8.675	4.170	2	
+Jegede	Ori Ire	Oyo	8.480	4.279	2	
+Jegede	Oluyole	Oyo	7.196	4.003	2	
+Jege	Yagba East	Kogi	8.055	5.708	2	
+Jagara Waji	Ngala	Borno	12.420	14.125	2	Jegara Waji
+Wuro Husa	Lau	Taraba	9.272	11.518	2	Jegan Maunde
+Jefe	Moro	Kwara	8.881	4.577	2	
+Jedna	Paikoro	Niger	9.317	6.587	2	
+Jedi	Kiru	Kano	11.551	8.041	2	
+Jeddo	Okpe	Delta	5.597	5.704	2	
+Jebjeb	Karim Lamido	Taraba	9.246	11.128	2	
+Jebeni	Mayo-Belwa	Adamawa	8.742	11.950	2	
+Jargaba	Goronyo	Sokoto	13.559	5.911	2	Jergaba
+Gidan Jero	Shagari	Sokoto	12.414	4.930	2	
+Banshe	Jada	Adamawa	8.517	12.193	2	Jegu
+Angwan Jakada	Kagarko	Kaduna	9.452	7.790	2	Anguwar Jekada|Jekada
+Agelu-Jerusalem	Ìsẹ́yìn	Oyo	7.794	3.493	2	Agelu Jerusalem|AgeluJerusalem
+Adjekota	Ughelli North	Delta	5.426	6.009	2	Jekota
+Jeje	Karu	Nasarawa	8.789	7.596	2	
+Maraya Jele	Gezawa	Kano	12.063	8.718	2	
+Jege	Gwoza	Borno	11.062	13.622	2	
+Jebti	Song	Adamawa	10.034	12.381	2	
+Jere	Shelleng	Adamawa	10.153	12.188	2	
+Jengulon	Hawul	Borno	10.269	12.059	2	
+Jeban	Hawul	Borno	10.301	12.078	2	
+Jen	Gboko	Benue	7.279	8.957	2	
+Obe Jelili	Ado	Benue	6.942	8.103	2	
+Mpamaji	Ogoja	Cross River	6.548	8.913	2	Jerusalem
+Jene	Shiroro	Niger	10.337	6.779	2	
+Jeringo	Silame	Sokoto	13.114	4.845	2	
+Gidan Jeda	Gada	Sokoto	13.691	5.927	2	
+Jenau	Kubau	Kaduna	10.896	8.322	2	
+Jelly	Warri North	Delta	5.998	5.464	2	
+Jelu	Warri South	Delta	5.649	5.661	2	
+Jebba	Kirfi	Bauchi	10.445	10.734	2	
+Ubrihi Jeofor	Oru West	Imo	5.809	6.914	2	
+Jerimaya-Gbene	Patani	Delta	5.107	6.012	2	
+Jega	Jega	Kebbi	12.164	4.486	2	
+Jema'A	Jema'A	Kaduna	9.383	8.268	2	Jama'a|Jama'a Local Government Area|Jema'a|Jemaa
+Jere	Jere	Borno	11.899	13.292	2	Agbegbe Ijoba Ibile Jere|Jere Local Government Area
+Jeba-Jaba	Maiha	Adamawa	9.975	13.230	2	
+Wuro Jekkata	Maiha	Adamawa	9.756	13.134	2	
+Garin Jengi	Dukku	Gombe	11.055	11.120	2	
+Jouro-Jero	Gulani	Yobe	11.010	11.800	2	
+Jetty	Degema	Rivers	4.515	6.982	2	
+Jembe	Konshisha	Benue	7.030	8.465	2	
+Jega Kokani	Jega	Kebbi	12.219	4.412	2	
+Jere North	Kagarko	Kaduna	9.512	7.468	2	
+Jeke	Sule Tankakar	Jigawa	12.797	9.117	2	
+Dogon Jeji B	Jama'Are	Bauchi	11.722	9.888	2	
+Dogon Jeji C	Jama'Are	Bauchi	11.713	9.947	2	
+Jegete	Wukari	Taraba	7.886	9.334	2	
+Jeiyol	Buruku	Benue	7.354	9.273	2	
+Jel	Ushongo	Benue	7.167	8.852	2	
+Jekegbene	Brass	Bayelsa	4.450	6.105	2	
+Jelkiri	Nembe	Bayelsa	4.388	6.308	2	
+Jenatu	Lavun	Niger	9.297	5.810	2	
+Jegba Quarters	Badagry	Lagos	6.410	2.882	2	
+Jemaa	Kagarko	Kaduna	9.324	7.738	2	
+Jengbari	Bali	Taraba	8.591	11.759	2	
+Jenge	Jalingo	Taraba	8.886	11.386	2	
+Garin Tukur Jempi	Gassol	Taraba	8.723	10.975	2	
+Jelbang	Wase	Plateau	8.943	9.917	2	
+Jekko	Sanga	Kaduna	9.389	8.682	2	
+Jechi	Demsa	Adamawa	9.291	12.030	2	
+Jegang Ardido	Lau	Taraba	9.227	11.538	2	
+Kachele Jegang	Lau	Taraba	9.225	11.550	2	
+Jegang Dombi	Yorro	Taraba	9.107	11.590	2	
+Jeshan	Demsa	Adamawa	9.312	11.877	2	
+Ga Jelani	Demsa	Adamawa	9.211	11.886	2	
+Zange	Alkaleri	Bauchi	9.744	10.865	2	Jenge
+Murtalan Jeji	Alkaleri	Bauchi	9.681	10.716	2	Murtala
+Mallam Jemo	Alkaleri	Bauchi	9.757	10.860	2	
+Jemau	Karim Lamido	Taraba	9.474	11.004	2	Jeman
+Jeni	Karim Lamido	Taraba	9.356	10.769	2	
+Jechi	Karim Lamido	Taraba	9.206	10.882	2	
+Jesal	Karim Lamido	Taraba	9.312	11.140	2	
+Jegede	Ijebu North	Ogun	7.071	4.069	2	
+Jewoese	Isokan	Osun	7.330	4.197	2	
+Ologun-Jegede	Aiyedade	Osun	7.494	4.315	2	
+Jegede	Aiyedade	Osun	7.395	4.356	2	
+Jekoyemi	Aiyedade	Osun	7.276	4.311	2	
+Jesu-Tedo	Yewa North	Ogun	7.139	2.867	2	
+Jedu Compound	Ilaje	Ondo	6.031	4.860	2	
+Jeje	Atakunmosa East	Osun	7.407	4.807	2	
+Jentiri	Atakunmosa East	Osun	7.393	4.816	2	
+Jegede	Ori Ire	Oyo	8.439	4.138	2	
+Budo-Jesu	Surulere	Oyo	8.235	4.424	2	
+Jewo	Afijio	Oyo	7.793	3.829	2	
+Jebba North	Mokwa	Niger	9.140	4.814	2	JebbaNorth
+Jera Kawu	Fufore	Adamawa	9.618	12.783	2	JeraKawu
+Jera Yuguda	Fufore	Adamawa	9.613	12.783	2	JeraYuguda
+Jenti	Katcha	Niger	8.898	6.214	2	
+Jeure	Toto	Nasarawa	8.260	7.243	2	
+Jauro Jelani	Sardauna	Taraba	6.860	11.181	2	
+Jeromi	Aiyedade	Osun	7.577	4.354	2	
+Jebba Street (West)	Surulere	Lagos	6.482	3.380	1	
+Jema'a Road	Kaduna North	Kaduna	10.506	7.431	1	
+2nd Jegede Lane	Oredo	Edo	6.345	5.632	1	
+1st Jegede Lane	Oredo	Edo	6.345	5.632	1	
+Akhionbare Street	Oredo	Edo	6.311	5.606	1	Jemide Street
+Jemide Drive	Oredo	Edo	6.325	5.596	1	
+Wofun to Jenriyin Road	Lagelu	Oyo	7.453	3.987	1	
+Jebba Street	Lagos Mainland	Lagos	6.486	3.388	1	
+Jesus Road	Kosofe	Lagos	6.559	3.394	1	
+Jerry Iriabe Street	Eti Osa	Lagos	6.450	3.474	1	
+Jetty Road	Apapa	Lagos	6.440	3.378	1	
+Jerry Gana Close	Municipal Area Council	FCT Abuja	9.075	7.449	1	
+Jere Street	Municipal Area Council	FCT Abuja	9.027	7.487	1	
+Jerome Udoji Close	Municipal Area Council	FCT Abuja	9.050	7.516	1	
+David Jemibewon Crescent	Municipal Area Council	FCT Abuja	8.996	7.482	1	
+Juta-Jem Petel Road	Lau	Taraba	9.158	11.473	1	
+Jesuorobo Str.	Oredo	Edo	6.299	5.588	1	
+Jehovah Emmanuel Church Street	Shomolu	Lagos	6.540	3.398	1	
+Jejelaiye Street	Ojo	Lagos	6.463	3.165	1	
+Jesu Oseun Street	Ifo	Ogun	6.693	3.299	1	
+Jemibewon Street	Kosofe	Lagos	6.579	3.384	1	
+Jegede Street	Kosofe	Lagos	6.583	3.400	1	
+Jegede Lane	Oredo	Edo	6.337	5.621	1	
+Jebba Road	Moro	Kwara	8.940	4.780	1	
+Jebba Road	Moro	Kwara	8.692	4.611	1	
+Jebba Road	Moro	Kwara	8.904	4.753	1	
+Jebba Road	Moro	Kwara	8.647	4.579	1	
+Jerry Uwakwe Street	Enugu North	Enugu	6.463	7.536	1	
+Jerry Ugwu Avenue	Enugu North	Enugu	6.463	7.525	1	
+Jeff Udeoha Street	Enugu South	Enugu	6.396	7.488	1	
+Jecinta Street	Enugu East	Enugu	6.504	7.509	1	
+Jesus Christ Close	Enugu East	Enugu	6.487	7.546	1	
+Jesus Street	Enugu East	Enugu	6.511	7.526	1	
+Paskal Jek Close	Enugu North	Enugu	6.454	7.516	1	
+Yaryasa - Jeli B Road	Tudun Wada	Kano	11.298	8.271	1	
+Furana - Jeli B Road	Ikara	Kaduna	11.278	8.226	1	
+Yaryasa - Jeli B Road	Tudun Wada	Kano	11.328	8.299	1	
+Hon. Jerrymon S. Manwe Crescent	Jalingo	Taraba	8.934	11.340	1	
+Jemilugba Lane	Shomolu	Lagos	6.530	3.376	1	
+Fiongha Jephthah Road	Yenegoa	Bayelsa	4.928	6.312	1	
+Oja Oba Ijebu Jesha-Oke Mesi Road	Oriade	Osun	7.684	4.822	1	
+Furana - Jeli B Road	Tudun Wada	Kano	11.280	8.257	1	
+Jesus Corper	Umuahia North	Abia	5.529	7.514	1	
+Jegede Brown Street	Alimosho	Lagos	6.533	3.264	1	
+Jesu Maria Close	Eti Osa	Lagos	6.476	3.573	1	
+Jehova Street	Kosofe	Lagos	6.615	3.410	1	
+Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	8.998	7.485	1	
+Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.006	7.478	1	
+Jemtok Street	Oshodi/Isolo	Lagos	6.508	3.311	1	
+Jeremiah Ugwu Street	Eti Osa	Lagos	6.449	3.479	1	
+Jemi Longe Street	Eti Osa	Lagos	6.458	3.578	1	
+Jebba Road	Ilorin West	Kwara	8.569	4.527	1	
+Jebba Road	Moro	Kwara	8.623	4.553	1	
+Jemiseye Street	Eti Osa	Lagos	6.475	3.660	1	
+Jegede Avenue	Adó-Èkìtì	Ekiti	7.621	5.210	1	
+King Jesus Road	Esan West	Edo	6.750	6.078	1	
+Rufus Jegede Street	Eti Osa	Lagos	6.454	3.613	1	
+Prince Jerry Doris Street	Eti Osa	Lagos	6.467	3.631	1	
+Jehovahs witness road	Ogba/Egbema/Ndoni	Rivers	5.331	6.643	1	
+Jericho Road	Ido	Oyo	7.425	3.827	1	
+Jericho Road	Ibadan North West	Oyo	7.399	3.860	1	
+Jesse Jackson Street	Municipal Area Council	FCT Abuja	9.045	7.509	1	
+New Jerusalem Road	Bonny	Rivers	4.428	7.182	1	
+Jebba Road	Ilorin West	Kwara	8.549	4.505	1	
+Jebba Road	Asa	Kwara	8.507	4.471	1	
+Jebba Road	Asa	Kwara	8.448	4.453	1	
+Jetty Road	Eti Osa	Lagos	6.476	3.560	1	
+Jemibewon Road	Ibadan North West	Oyo	7.399	3.882	1	
+Jebba Road	Moro	Kwara	8.742	4.631	1	
+Jebba Road	Moro	Kwara	8.835	4.690	1	
+Olanrewaju Jegede Brown Str	Alimosho	Lagos	6.534	3.270	1	
+Jericho Road	Ido	Oyo	7.459	3.775	1	
+Jericho Road	Ido	Oyo	7.452	3.796	1	
+Jebba Road	Ilorin West	Kwara	8.533	4.487	1	
+Juta-Jem Petel Road	Lau	Taraba	9.222	11.424	1	
+Jesse Jackson Street	Municipal Area Council	FCT Abuja	9.047	7.511	1	
+Jelisa Sch Rd.	Port-Harcourt	Rivers	4.786	6.962	1	
+Jebba Road	Asa	Kwara	8.444	4.453	1	
+Jeff V. Wade Obahor Street	Eti Osa	Lagos	6.429	3.523	1	
+Jebba Road	Asa	Kwara	8.472	4.460	1	
+Jebba Road	Moro	Kwara	8.629	4.558	1	
+Jebba Road	Moro	Kwara	8.747	4.633	1	
+Tin Can Island Jetty	Apapa	Lagos	6.433	3.335	0	
+Jessilac Montesory School	Oredo	Edo	6.289	5.597	0	
+The Jesus Missionary International School	Oredo	Edo	6.333	5.631	0	
+Government Chest Hospital,Jericho	Ibadan South West	Oyo	7.394	3.872	0	
+Bukuma Jetty	Asari-Toru	Rivers	4.739	6.882	0	
+Jewu Primary Health Clinic	Konduga	Borno	11.767	12.854	0	
+iya afin jetty	Badagry	Lagos	6.446	2.861	0	
+Ifoko Jetty	Asari-Toru	Rivers	4.762	6.816	0	
+Bugama Jetty	Asari-Toru	Rivers	4.731	6.863	0	
+Jere Junction	Kagarko	Kaduna	9.565	7.424	0	
+Jeddo Primary School	Okpe	Delta	5.593	5.706	0	
+Jebale Pet. and Gas Filling Station	Uvwie	Delta	5.571	5.724	0	
+Jelicopet Nig. Ltd	Uvwie	Delta	5.561	5.774	0	
+Jezco Filling Station	Ahoada West	Rivers	5.066	6.446	0	
+Ilaje Waterfront Jetty Terminal Bariga	Shomolu	Lagos	6.528	3.400	0	
+Addax Jetty	Eti Osa	Lagos	6.437	3.442	0	
+Iworo Ajido Jetty	Badagry	Lagos	6.414	3.008	0	
+Apapa Liverpool Jetty	Apapa	Lagos	6.439	3.359	0	
+Oworonsoki Jetty	Kosofe	Lagos	6.548	3.407	0	
+Angulama Jetty	Asari-Toru	Rivers	4.721	6.839	0	
+Degema Jetty	Degema	Rivers	4.756	6.782	0	
+Krakrama Jetty	Degema	Rivers	4.755	6.783	0	
+Sangana Jetty	Asari-Toru	Rivers	4.758	6.817	0	
+Abalama Jetty	Asari-Toru	Rivers	4.763	6.841	0	
+PHC Jekadafari	Gombe	Gombe	10.286	11.161	0	
+Jeki Kanakuri Dispensary	Shani	Borno	10.067	12.000	0	
+Psychiatric Mental Home Jega	Jega	Kebbi	12.224	4.371	0	
+Jesus college	Oturkpo	Benue	7.204	8.153	0	
+Brass Jetty	Brass	Bayelsa	4.319	6.242	0	
+Jengre Links Oil & Gas LTD	Bassa	Plateau	9.995	8.845	0	
+Jevicho Oil and Gas Limited	Jos North	Plateau	9.915	8.913	0	
+Jenvak hospital & maternity	Jos North	Plateau	9.903	8.869	0	
+Primary Health Centre Jenta Adamu	Jos North	Plateau	9.925	8.875	0	
+Jesuit Memorial College Port Harcourt	Ikwerre	Rivers	4.926	6.967	0	
+Iko Jetty	Eastern Obolo	Akwa Ibom	4.522	7.754	0	
+Only Jesus Hostel	Akure South	Ondo	7.290	5.149	0	
+Jes And Jes Mosque Road Jakande Estate	Amuwo Odofin	Lagos	6.463	3.312	0	
+Jeokem Hospital	Amuwo Odofin	Lagos	6.459	3.304	0	
+Jes 7 Jes Clinic Amuwo Housing	Amuwo Odofin	Lagos	6.448	3.280	0	
+Jemfas Schools	Alimosho	Lagos	6.521	3.229	0	
+Jerusalem Mission Sch	Jos North	Plateau	9.937	8.911	0	
+Jezco	Oshimili South	Delta	6.175	6.747	0	
+Jemuje	Apapa	Lagos	6.418	3.351	0	
+jegba marina badagry/commando jetty	Badagry	Lagos	6.416	2.876	0	
+New Kulende Market, Jebba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.514	4.589	0	
+Eleko, Orelope Hospital, Jebba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.536	4.619	0	
+Imore Jetty	Amuwo Odofin	Lagos	6.430	3.281	0	
+gbaji yekeme jetty	Badagry	Lagos	6.420	2.861	0	
+epe ayetoro jetty	Epe	Lagos	6.577	3.975	0	
+kabiyesi itomu jetty	Eti Osa	Lagos	6.502	3.627	0	
+itomu jetty	Epe	Lagos	6.501	3.629	0	
+badore jetty (tarzan)	Eti Osa	Lagos	6.515	3.606	0	
+Jesus Is Lord Mechanics	Municipal Area Council	FCT Abuja	9.143	7.377	0	
+Living Faith Church, Mai Suya Junction, New Jerusalem, Dutse Makaranta	Bwari	FCT Abuja	9.168	7.386	0	
+Jedo Junction	Municipal Area Council	FCT Abuja	8.948	7.329	0	
+Jewel Iykson Nigeria Limited	Municipal Area Council	FCT Abuja	9.154	7.346	0	
+Jemomi Health Post	Dawakin Tofa	Kano	12.245	8.500	0	
+Dumin Jeji Dispensary Clinic	Bauchi	Bauchi	10.283	9.871	0	
+Jericho Nursing Home	Ibadan North West	Oyo	7.400	3.869	0	
+Jericho Specialist Hospital	Ibadan South West	Oyo	7.397	3.871	0	
+Dogon Jeji Health Clinic	Jama'Are	Bauchi	11.739	9.955	0	Kofar Yamma
+Lead City University Jericho Campus	Ibadan North West	Oyo	7.400	3.867	0	
+Jebuwa Dispensary	Yusufari	Yobe	13.037	10.941	0	
+General Hospital Jega	Jega	Kebbi	12.229	4.374	0	

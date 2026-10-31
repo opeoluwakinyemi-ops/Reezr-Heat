@@ -1,0 +1,131 @@
+# Well-known areas people search for that the map data shows only through a street or landmark,
+# or not at all. name|state, with an optional lat|lon when the map has nothing to place it from.
+Alapere|Lagos
+Allen|Lagos
+Iba|Lagos
+Mile 2|Lagos
+Ebute Metta|Lagos
+Palmgrove|Lagos
+Oworonshoki|Lagos
+Chevron|Lagos
+Ilasan|Lagos
+Igbo Efon|Lagos|6.44|3.51
+Life Camp|FCT Abuja
+Dawaki|FCT Abuja
+Apo|FCT Abuja
+Karmo|FCT Abuja
+Lokogoma|FCT Abuja|8.97|7.47
+Iwo Road|Oyo
+Molete|Oyo
+Ring Road|Oyo
+Sango|Oyo
+Rumuola|Rivers
+Ada George|Rivers
+Mile 1|Rivers|4.80|7.00
+Mile 3|Rivers|4.81|6.99
+Bompai|Kano
+Malali|Kaduna
+Ungwan Rimi|Kaduna|10.54|7.45
+Trans Ekulu|Enugu
+Achara Layout|Enugu
+Ikpoba Hill|Edo|6.35|5.66
+Ariaria|Abia
+Anglo Jos|Plateau|9.88|8.90
+Rayfield|Plateau
+Mararaba|Nasarawa|9.03|7.60
+Agodi|Oyo|7.40|3.91
+# Missing from the map data; coordinates are approximate, which is close enough for weather.
+Ijeshatedo|Lagos|6.50|3.34
+Ifako Gbagada|Lagos|6.56|3.39
+Medina|Lagos|6.55|3.38
+Ikota|Lagos|6.44|3.55
+Area 1|FCT Abuja|9.04|7.48
+Area 11|FCT Abuja|9.04|7.49
+Ologuneru|Oyo|7.44|3.82
+Dugbe|Oyo|7.38|3.88
+Mile 4|Rivers|4.83|6.98
+Oroworukwo|Rivers|4.82|7.00
+Brigade|Kano|12.02|8.56
+Ogbor Hill|Abia|5.13|7.36
+Umungasi|Abia|5.13|7.34
+Odoakpu|Anambra|6.15|6.78
+Evbuotubu|Edo|6.33|5.59
+Ewet Housing|Akwa Ibom|5.03|7.91
+Shelter Afrique|Akwa Ibom|5.05|7.92
+Big Qua|Cross River|4.97|8.34
+Oke Ose|Kwara|8.50|4.60
+Gaa Akanbi|Kwara|8.46|4.56
+Panseke|Ogun|7.16|3.35
+Adatan|Ogun|7.15|3.35
+Asero|Ogun|7.12|3.34
+Oba Ile|Ondo|7.27|5.25
+# Known only through streets and landmarks in the map data.
+Lawanson|Lagos
+Parkview|Lagos
+Idumota|Lagos
+Iyaganku|Oyo
+Beere|Oyo
+Felele|Oyo
+Kofar Mata|Kano
+Gonin Gora|Kaduna
+Sakponba|Edo
+Marian|Cross River
+Enerhen|Delta
+Terminus|Plateau
+Bulumkutu|Borno
+Adewole|Kwara
+Oke Mosan|Ogun
+Alagbaka|Ondo
+Agbeni|Oyo
+Basorun|Oyo
+Alafara|Oyo
+Baboko|Kwara
+Egbejila|Kwara
+Ganmo|Kwara
+Dandinshe|Kano
+Edjeba|Delta
+Onikan|Lagos
+Oniru|Lagos
+Isuti|Lagos
+Kankon|Lagos
+Ogolonto|Lagos
+Kuchigoro|FCT Abuja
+Pege|FCT Abuja
+Laranto|Plateau
+Rikkos|Plateau
+Furaka|Plateau
+Itele|Ogun
+Itekun|Ogun
+Liji|Gombe
+Okhoro|Edo
+Oliha|Edo
+Ogida|Edo
+Ihogbe|Edo
+Agbama|Abia
+Pompomari|Borno
+Gomboru|Borno
+Igoba|Ondo
+Isikan|Ondo
+Obile|Imo
+Kodape|Nasarawa
+Byazhin|FCT Abuja|9.13|7.37
+Adamasingba|Oyo|7.39|3.89
+Mgbuoba|Rivers|4.86|6.97
+Essien Town|Cross River|5.01|8.33
+Aladinma|Imo|5.49|7.04
+Soka|Oyo|7.31|3.93
+Kongo|Kaduna|11.07|7.70
+Tunga|Niger|9.60|6.55
+Yelwa|Bauchi|10.28|9.82
+Taiwo|Kwara|8.49|4.55
+Ekenwan|Edo|6.36|5.58
+Ajeromi|Lagos|6.45|3.33
+Amawbia|Anambra|6.21|7.05
+Bodija|Oyo
+Gambari|Kwara|8.48|4.55
+Ogunlana|Lagos|6.50|3.35
+Maza Maza|Lagos|6.46|3.29
+Gidan Kwano|Niger|9.53|6.45
+Nvosi|Abia|5.26|7.36
+Serti|Taraba|7.50|11.37
+Sabo Ogbomoso|Oyo|8.13|4.25

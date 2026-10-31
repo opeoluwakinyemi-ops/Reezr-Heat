@@ -1,4 +1,13 @@
-Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
+Bende	Bende	Abia	5.559	7.633	3	
+Maya Belwa	Mayo-Belwa	Adamawa	9.050	12.060	3	
+Benin City	Oredo	Edo	6.333	5.622	3	
+Benisheikh	Kaga	Borno	11.809	12.492	3	Benisheik;Beni Sheik
+Beli	Rogo	Kano	11.442	7.839	3	
+Mayo-Belwa	Mayo-Belwa	Adamawa	9.054	12.058	3	Maya Belwa|Mayo Balwa
+Besse	Koko-Besse	Kebbi	11.267	4.431	3	
+Benin City	Oredo	Edo	6.338	5.626	3	BNI|Benim|Benin|Benin Siti|Benin by|Benin-Sici|Benin-Siti|Benin-Stadt|Benin-stad|Beninas|Beninborg|Beninurbo|Ciudad de B
+Bebeji	Bebeji	Kano	11.668	8.262	3	
+Beere	Ibadan South East	Oyo	7.377	3.899	2	
 Bell Point	Bonny	Rivers	4.566	7.052	2	
 Bezere	Fakai	Kebbi	11.495	4.984	2	
 Bodeno	Shani	Borno	10.236	12.125	2	Bedenu
@@ -55,6 +64,7 @@ Gbeleko	Kabba/Bunu	Kogi	7.759	6.113	2	Beliko
 Berdeberde	Yabo	Sokoto	12.666	4.963	2	
 Berum	Biu	Borno	10.705	11.899	2	Barum
 Bena	Wasagu-Danko	Kebbi	11.293	5.943	2	
+Belango	Karim Lamido	Taraba	8.866	10.795	2	
 Bera Fulani	Bayo	Borno	10.531	11.613	2	
 Beri	Mariga	Niger	10.284	5.731	2	
 Bego	Monguno	Borno	12.564	13.630	2	
@@ -62,28 +72,25 @@ Benji	Warri South	Delta	5.550	5.733	2
 Bela	Argungu	Kebbi	12.694	4.600	2	
 Beyentoro	Southern Ijaw	Bayelsa	4.507	5.722	2	
 Ungwan Bello	Makarfi	Kaduna	11.275	8.097	2	
-Bende	Bende	Abia	5.559	7.633	3	
 Belegan	Oyo West	Oyo	8.083	3.767	2	
+Golbembal	Gassol	Taraba	8.533	10.667	2	Ngol Bembal
+Mayo Beli	Sardauna	Taraba	6.817	11.550	2	Bali
 Belle	Jere	Borno	11.777	13.201	2	
 Benge	Goronyo	Sokoto	13.398	5.864	2	
 Gidan Begini	Gusau	Zamfara	12.187	6.694	2	
 Beniboye	Burutu	Delta	5.317	5.329	2	
 Beletiama	Brass	Bayelsa	4.287	6.200	2	
 Bendi	Obanliku	Cross River	6.516	9.167	2	Bandi
+Beli	Bali	Taraba	7.867	10.968	2	
 Ben	Maru	Zamfara	11.908	6.407	2	
 Beterland	Southern Ijaw	Bayelsa	4.571	5.960	2	
 Beri	Khana	Rivers	4.692	7.429	2	Nyobe Beeri;Yombe Beri
-Maya Belwa	Mayo-Belwa	Adamawa	9.050	12.060	3	
 Belamar	Mubi North	Adamawa	10.351	13.237	2	
 Bera Bura	Bayo	Borno	10.535	11.632	2	
 Bele Mepama	Dandi	Kebbi	12.055	3.855	2	
 Olowo	Ori Ire	Oyo	8.350	4.317	2	Belo-Olowo;Beto-Olowo
 Aje	Ogo Oluwa	Oyo	8.017	4.217	2	Bemiro
 Beriberi	Bagudo	Kebbi	11.461	4.147	2	
-Benhill Vocational Training Centre	Oredo	Edo	6.318	5.623	0	
-Benin City	Oredo	Edo	6.333	5.622	3	
-Bethel Medical Clinic	Enugu North	Enugu	6.448	7.501	0	
-Belli Health Post	Bichi	Kano	12.312	8.285	0	
 Cpl Bello Quaters	Fagge	Kano	12.030	8.526	2	
 Behun	Dawakin Kudu	Kano	11.878	8.593	2	
 Beguwa	Doguwa	Kano	11.181	8.568	2	
@@ -99,7 +106,6 @@ Bello Buba	Shani	Borno	10.100	11.944	2
 Bello Fari	Shani	Borno	10.069	11.914	2	
 Guwat Bele Buwari	Shani	Borno	10.098	11.778	2	
 Sabon Fegi	Shani	Borno	10.082	11.830	2	Jauro Isa Bello
-Benisheikh	Kaga	Borno	11.809	12.492	3	Benisheik;Beni Sheik
 Jauro Bello Babba	Shani	Borno	10.073	12.005	2	
 Jeki Jauro Bello	Shani	Borno	10.071	11.999	2	
 Gumbelli Jauro Bello	Bayo	Borno	10.419	11.675	2	
@@ -112,81 +118,345 @@ Bera Jauro Bose	Bayo	Borno	10.537	11.626	2
 Bera Jauro Isa	Bayo	Borno	10.529	11.620	2	
 Bera Wurmi	Bayo	Borno	10.536	11.637	2	
 Bebeji	Kwaya Kusar	Borno	10.495	11.935	2	
-Benin Garage	Akure North	Ondo	7.275	5.245	0	
-Benisheik Maternal Child Health Clinic	Kaga	Borno	11.807	12.488	0	
 Ekori Beach	Yakurr	Cross River	5.928	8.104	2	
-Bebi Airstrip	Obanliku	Cross River	6.621	9.320	0	
-Best Foundation Nur and Pri School	Uvwie	Delta	5.537	5.758	0	
-Benjones Filling Station	Warri South	Delta	5.534	5.760	0	
-BES Clinic	Obio/Akpor	Rivers	4.838	7.033	0	
-Best Option	Alimosho	Lagos	6.549	3.238	0	
-Doyisem Best Academy	Lagos Mainland	Lagos	6.495	3.388	0	
-Benson	Ìkòròdú	Lagos	6.622	3.499	0	
-Beli	Rogo	Kano	11.442	7.839	3	
 Sani Bere Danguguwa	Dawakin Tofa	Kano	12.047	8.393	2	Danguguwa
 Beguwa	Bichi	Kano	12.310	8.418	2	
 Beguwa	Minjibir	Kano	12.236	8.694	2	
 Beguwa	Rano	Kano	11.594	8.636	2	
 Bela	Bunkure	Kano	11.618	8.518	2	
-Believers Faith Medical Clinic	Yenegoa	Bayelsa	4.936	6.281	0	
-Belwin Memorial Clinic	Enugu North	Enugu	6.458	7.515	0	
-New Bethel Hospital	Chanchaga	Niger	9.648	6.516	0	
 Betaland	Yenegoa	Bayelsa	5.170	6.480	2	
-Michael Bella Memorial Hospital, General Gas-Akobo	Lagelu	Oyo	7.428	3.939	0	
-Better Life Health Care, Agbowo	Ibadan North	Oyo	7.442	3.909	0	
 Kalabari Beach	Oguta	Imo	5.699	6.798	2	
 Inikiri Bernard	Ohaukwu	Ebonyi	6.675	8.001	2	
-Ben-Dominics Dental Surgery clinic	Jos North	Plateau	9.907	8.892	0	
-Beacon Height School	Municipal Area Council	FCT Abuja	9.140	7.380	0	
-Berith Specialist Hospital	Municipal Area Council	FCT Abuja	9.147	7.371	0	
 Ndibe Beach	Afikpo North	Ebonyi	5.849	7.946	2	
-Bethany Christian Academy	Barkin Ladi	Plateau	9.516	8.910	0	
-Six bed Primary Health care, Tapa	Ibarapa North	Oyo	7.562	3.235	0	
-Bestower Global Services LTD	Ejigbo	Osun	7.833	4.130	0	
-Belmont Specialist Hospital	Kaduna North	Kaduna	10.548	7.471	0	
-Musaka Beto Specialist Hospital	Kaduna South	Kaduna	10.543	7.412	0	
-Beside Startech Filing Station Kakau	Chikun	Kaduna	10.380	7.397	0	
-Betheland Hospital	Ojo	Lagos	6.497	3.196	0	
-Best Option Healthcare And Maternity Home	Alimosho	Lagos	6.529	3.254	0	
-Sholay Beauty World	Alimosho	Lagos	6.536	3.220	0	
-Betterlife Hospital	Alimosho	Lagos	6.534	3.237	0	
-Best Hospital	Mushin	Lagos	6.528	3.344	0	
-Betlem Hospital	Mushin	Lagos	6.516	3.344	0	
-Belan Consultant Home	Mushin	Lagos	6.514	3.342	0	
-Bethlem Hospital	Mushin	Lagos	6.518	3.339	0	
-New Bethsaida Hospital Maternity	Mushin	Lagos	6.536	3.351	0	
-Bethesda Family Clinic And Maternity	Amuwo Odofin	Lagos	6.463	3.284	0	
-See Bee Filling Station	Iwo	Osun	7.651	4.171	0	
-Bengoz Maternity Home	Amuwo Odofin	Lagos	6.442	3.266	0	
-Beatom Excellent Montessori	Alimosho	Lagos	6.523	3.229	0	
-NORTHWEST BEST ACADEMY	Ungongo	Kano	12.047	8.573	0	
-ANDAL BEST ACADEMY SCHOOL	Ungongo	Kano	12.041	8.569	0	
-AISHATU BEST ACADEMY (SENIOR)	Ungongo	Kano	12.042	8.571	0	
-AISHATU BEST ACADEMY (JUNIOR)	Ungongo	Kano	12.042	8.571	0	
-AISHATU BEST ACADEMY (NUR./PRI.)	Ungongo	Kano	12.042	8.571	0	
-HUSNAH BEST ACADEMY	Ungongo	Kano	12.046	8.566	0	
-TALENT BEST ACADEMY	Gwale	Kano	11.955	8.472	0	
-BEST TALENTS ACADEMY	Gwale	Kano	11.969	8.472	0	
-Better life Hospital	Alimosho	Lagos	6.529	3.237	0	
 Beyentorugbene	Southern Ijaw	Bayelsa	4.481	5.752	2	
-Salt Beach	Amuwo Odofin	Lagos	6.406	3.224	0	
-Uncle Ben	Amuwo Odofin	Lagos	6.408	3.215	0	
-Joel Best Legacy Int'L Nursery/Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.468	4.540	0	
-Gbagba Alagbado Behind Sobi Specialist Hospital, Illorin, Nigeria	Ilorin West	Kwara	8.527	4.525	0	
 Bebe	Jema'A	Kaduna	9.315	8.031	2	Bede
-BEMSAS	Yenegoa	Bayelsa	4.934	6.278	0	
-koko beach	Amuwo Odofin	Lagos	6.409	3.243	0	
-Bethel Concept International Model Academy	Karu	Nasarawa	8.955	7.686	0	
-Bellalo	Karu	Nasarawa	8.948	7.679	0	
-Beenish Auto Limited	Municipal Area Council	FCT Abuja	9.120	7.393	0	
-Golden Beauty SalÃ³n And Spa	Municipal Area Council	FCT Abuja	9.120	7.392	0	
-2F3Q+3Cg Between Apo Roundabout And Nepa Junction	Municipal Area Council	FCT Abuja	9.003	7.489	0	
-Berger Bus Stop	Municipal Area Council	FCT Abuja	9.067	7.454	0	
-Beauty&Katz Multi Collections	Municipal Area Council	FCT Abuja	8.966	7.380	0	
-Berger	Municipal Area Council	FCT Abuja	9.067	7.454	0	
-Before Bridge Bus Stop Nyanya	Municipal Area Council	FCT Abuja	9.023	7.570	0	
 Ojodu Berger	Ikeja	Lagos	6.642	3.369	2	
 Abija Bebo	Obanliku	Cross River	6.486	9.196	2	
+Bekarya	Gumel	Jigawa	12.660	9.431	2	
+Belas	Yankwashi	Jigawa	12.726	8.435	2	
+Bela Rawaiya	Bungudu	Zamfara	12.321	6.640	2	
+Bengaje	Yabo	Sokoto	12.687	4.969	2	
+Koko-Besse	Koko-Besse	Kebbi	11.436	4.479	2	
+Bedi	Zuru	Kebbi	11.406	5.351	2	
+Yar Besse	Shanga	Kebbi	11.267	4.638	2	
+Doka Bere	Sakaba	Kebbi	11.147	5.409	2	
+Bena	Wasagu-Danko	Kebbi	11.285	5.975	2	
+Besse	Koko-Besse	Kebbi	11.428	4.441	2	
+Beli	Rogo	Kano	11.470	7.845	2	
+Bebeji	Bebeji	Kano	11.537	8.311	2	
+Bekwarra	Bekwarra	Cross River	6.707	8.894	2	
+Bende	Bende	Abia	5.639	7.589	2	
+Mayo-Belwa	Mayo-Belwa	Adamawa	8.871	12.020	2	
+Benisheikh	Kaga	Borno	11.826	12.536	2	
+Bego	Damboa	Borno	11.222	12.866	2	
+Beli	Shira	Bauchi	11.576	10.016	2	
+Beni	Kirfi	Bauchi	10.514	10.395	2	
+Beti	Misau	Bauchi	11.273	10.378	2	
+Wuro Jauro Bello	Shani	Borno	10.071	12.061	2	
+Wuro Bereri	Jada	Adamawa	8.672	12.284	2	
+Wuro Bentere	Mayo-Belwa	Adamawa	8.954	12.077	2	
+Udegi Beki	Nasarawa	Nasarawa	8.336	7.897	2	
+Tungan Beri	Fakai	Kebbi	11.333	4.800	2	Beri
+Tulum Bere	Gudu	Sokoto	13.351	4.149	2	
+Tse-Bende	Konshisha	Benue	7.068	8.525	2	
+Rafin Bechi	Lafia	Nasarawa	8.640	8.528	2	Barci|Rafin Barci|RafinBarci|RafinBechi
+Onikete Belo	Isokan	Osun	7.233	4.117	2	
+Obenibokiri	Asari-Toru	Rivers	4.733	6.883	2	Bekirikiri
+Nyibango Yerima Belle	Maiha	Adamawa	10.071	13.122	2	
+Mararraba Mayel Belwa	Yola North	Adamawa	9.191	12.103	2	
+Mallam Bello	Mayo-Belwa	Adamawa	8.973	11.923	2	
+Kolayang-Jauro Bending	Yorro	Taraba	9.053	11.621	2	Kwoliar
+Jauro Bello	Jada	Adamawa	8.734	12.561	2	
+Jauro Belleri	Bali	Taraba	8.379	11.110	2	
+Jauro Belel	Jada	Adamawa	8.617	12.406	2	
+Iso-Bendiga	Boki	Cross River	6.219	8.814	2	Iso Bendega|Isobendeghe|Izo Bendiga
+Ikun Beach	Biase	Cross River	5.666	7.996	2	
+Igbo Beach	Yakurr	Cross River	5.962	8.151	2	
+Ibese	Ìkòròdú	Lagos	6.555	3.474	2	Beshi|Gbesse|Ibeshe|Ibeshi
+Ibese	Amuwo Odofin	Lagos	6.410	3.256	2	Beshi|Ibeshe
+Golbembal	Gassol	Taraba	8.535	10.661	2	Ngol Bembal
+Guidan Beriberi	Bungudu	Zamfara	12.164	6.558	2	Gidan Beriberi
+Guidan Begini	Gusau	Zamfara	12.187	6.694	2	Gidan Begini
+Eko-Bekor	Esan South-East	Edo	6.677	6.424	2	
+Bueru	Baruten	Kwara	9.667	3.443	2	Beru|Bwero
+Bermandi	Kwaya Kusar	Borno	10.548	11.960	2	Burmandi
+Budo Belora	Oyun	Kwara	8.123	4.531	2	
+Beta	Gwoza	Borno	11.159	13.416	2	Bitta
+Beriben	Moro	Kwara	9.028	4.812	2	Biribiri
+Bini	Maru	Zamfara	11.906	6.408	2	Ben
+Binda Beli	Hong	Adamawa	10.029	12.973	2	
+Biakpan Beach	Biase	Cross River	5.569	7.995	2	Biakpai Beach|Biakpaii Beach
+Beya	Bali	Taraba	7.864	10.841	2	
+Betukwel	Obudu	Cross River	6.612	9.112	2	
+Betsesere	Teungo	Adamawa	7.926	11.386	2	
+Beti-Beppawo	Fufore	Adamawa	9.110	12.671	2	Beti|Beti Bappawo
+Beti	Misau	Bauchi	11.278	10.428	2	
+Betem	Biase	Cross River	5.517	8.178	2	
+Betekuta	Kaiama	Kwara	9.576	3.959	2	Gbetekuta
+Bete	Takum	Taraba	6.981	9.720	2	
+Beta	Sumaila	Kano	11.274	8.900	2	
+Beruna	Lapai	Niger	9.085	6.592	2	
+Berukpa	Biase	Cross River	5.346	8.096	2	
+Old Beru	Baruten	Kwara	9.457	3.549	2	Beru
+Bero	Song	Adamawa	9.636	12.478	2	
+Bero	Baruten	Kwara	9.244	3.156	2	
+Ber-Kaa	Gboko	Benue	7.456	8.661	2	
+Berikago	Rafi	Niger	9.939	6.494	2	
+Bergaja	Isa	Sokoto	13.167	6.433	2	
+Berekodo Dongari	Asa	Kwara	8.483	4.317	2	
+Gbereguru	Baruten	Kwara	9.359	3.518	2	Bereguru
+Bereda	Ikara	Kaduna	11.213	8.393	2	
+Bere	Rafi	Niger	9.967	6.528	2	
+Bere	Asa	Kwara	8.480	4.474	2	
+Beram	Konshisha	Benue	7.052	8.517	2	
+Bera Bura	Bayo	Borno	10.531	11.623	2	
+Bera	Song	Adamawa	9.833	12.570	2	
+Benye	Charanchi	Katsina	12.661	7.581	2	
+Benue	Obi	Nasarawa	8.321	8.519	2	
+Bente Sama	Kurmi	Taraba	7.297	10.718	2	
+Bente	Kurmi	Taraba	7.285	10.691	2	
+Benta	Yala	Cross River	6.662	8.434	2	
+Benkiri	Akuku Toru	Rivers	4.684	6.561	2	
+Benjengen	Maiha	Adamawa	10.010	13.225	2	
+Benikrukru	Warri South-West	Delta	5.659	5.298	2	Banikrukru
+Beniboye	Burutu	Delta	5.333	5.326	2	
+Beni	Kirfi	Bauchi	10.463	10.399	2	
+Beni	Paikoro	Niger	9.649	7.202	2	
+Bengo	Fufore	Adamawa	9.415	12.723	2	
+Bengni	Fufore	Adamawa	8.889	12.381	2	
+Bengilan	Hawul	Borno	10.511	12.425	2	
+Benge	Gwer East	Benue	7.582	8.590	2	
+Benekaba	Izzi	Ebonyi	6.346	8.387	2	
+Bendu	Suru	Kebbi	11.680	4.132	2	
+Bendirba	Hong	Adamawa	10.189	13.008	2	
+Bendiga Ayuk	Etung	Cross River	6.013	8.855	2	
+Bendiga Afi	Ikom	Cross River	6.119	8.697	2	
+Bende	Guma	Benue	7.841	8.632	2	
+Bende	Markurdi	Benue	7.669	8.602	2	
+Bende	Takum	Taraba	7.270	10.041	2	
+Bembem	Bama	Borno	11.415	14.326	2	
+Bembem	Shendam	Plateau	8.595	9.403	2	
+Bembe	Aiyedade	Osun	7.393	4.358	2	
+Belwa	Hawul	Borno	10.403	12.555	2	
+Belo Dogo	Oyo West	Oyo	7.830	3.874	2	
+Belo-Akumara	Aiyedade	Osun	7.253	4.273	2	Belo Akumara
+Belo	Iwajowa	Oyo	7.852	3.314	2	
+Belnin	Pankshin	Plateau	9.197	9.416	2	
+Bellotungba	Jada	Adamawa	8.494	12.079	2	
+Bello Barkwasa	Jada	Adamawa	8.540	12.380	2	
+Bello	Orolu	Osun	7.930	4.445	2	
+Belle	Geidam	Yobe	12.833	11.690	2	
+Belle	Edu	Kwara	9.170	4.933	2	
+Bella-Tappare	Fufore	Adamawa	9.271	12.897	2	Bella Tappare
+Beli Kadiyel	Dukku	Gombe	10.587	10.575	2	
+Gulmare	Dandi	Kebbi	12.079	3.858	2	Bele Sumbe
+Belesa	Obanliku	Cross River	6.659	9.252	2	
+Bele Mepama	Dandi	Kebbi	12.053	3.856	2	
+Bebelebiri	Yenegoa	Bayelsa	4.951	6.260	2	Bebelabiri|Belelebiri
+Belel	Sardauna	Taraba	7.238	11.008	2	
+Bellen	Fune	Yobe	11.586	11.564	2	Bele
+Bele	Soba	Kaduna	10.944	8.039	2	
+Bele	Kwami	Gombe	10.593	10.996	2	
+Bele	Shani	Borno	10.191	12.187	2	
+Beldin	Hawul	Borno	10.318	12.111	2	
+Belako	Katagum	Bauchi	11.605	10.582	2	
+Bela	Kazaure	Jigawa	12.697	8.434	2	
+Bela	Shira	Bauchi	11.412	10.049	2	
+Bela	Gokana	Rivers	4.666	7.302	2	
+Bekyono	Nasarawa Egon	Nasarawa	8.765	8.631	2	Bekyano Kasa|BekyanoKasa
+Beke	Guma	Benue	7.846	8.620	2	
+Beji Karami	Mashegu	Niger	9.722	5.314	2	
+Beji	Mashegu	Niger	9.739	5.057	2	
+Beji	Bosso	Niger	9.633	6.329	2	Beji Station
+Bejagira	Rafi	Niger	10.417	6.067	2	
+Beguwa	Biriniwa	Jigawa	12.684	10.032	2	
+Gabari	Nafada	Gombe	11.063	11.148	2	Bege
+Befori	Bali	Taraba	8.426	11.443	2	
+Bedia	Obudu	Cross River	6.576	9.126	2	
+Bedi	Tangaza	Sokoto	13.395	4.956	2	
+Bedenu	Shani	Borno	10.234	12.125	2	
+Beddegana	Borsari	Yobe	12.429	11.353	2	
+Bedda Sanda	Mubi North	Adamawa	10.128	13.204	2	
+Bechi Kachi	Mashegu	Niger	9.564	5.212	2	
+Bebuachuan	Obudu	Cross River	6.609	9.142	2	
+Bebel	Madagali	Adamawa	10.855	13.622	2	
+Bebe	Gombi	Adamawa	10.286	12.471	2	
+Bebe	Gombi	Adamawa	10.264	12.612	2	
+Bebara	Borgu	Niger	10.338	3.800	2	
+Beba	Ushongo	Benue	7.102	8.816	2	
+Beba	Konshisha	Benue	7.074	8.663	2	
+Beba	Konshisha	Benue	7.012	8.798	2	
+Bear Town	Warri North	Delta	5.937	5.183	2	
+Beaku	Konshisha	Benue	7.334	8.596	2	
+Bassa	Shiroro	Niger	10.099	6.620	2	Besse
+Benkpe	Ogoja	Cross River	6.575	8.925	2	Bankpo
+Bakari Goso	Jada	Adamawa	8.545	12.271	2	Bakari Busau|Bakari-Gosso|Belo's|Bokari Busso
+Afaja Belo	Bunza	Kebbi	12.401	3.976	2	
+Adun Beach	Obubra	Cross River	5.994	8.259	2	
+Abule-Bello	Ibarapa North	Oyo	7.582	3.107	2	Abule Bello|AbuleBello
+Bello	Afijio	Oyo	7.702	3.963	2	
+Beyioku	Akinyele	Oyo	7.630	3.999	2	
+Bego	Damboa	Borno	11.123	13.008	2	
+Belem	Akuku Toru	Rivers	4.380	6.654	2	Belema|Gbelema
+Elem Bekinkiri	Degema	Rivers	4.536	6.981	2	Monikiri
+Berese	Ado Odo/Ota	Ogun	6.602	3.033	2	
+Ago Bello	Ile Oluji/Okeigbo	Ondo	7.236	5.030	2	
+Ago-Bello	Ise/Orun	Ekiti	7.333	5.444	2	
+Bele	Shelleng	Adamawa	10.109	12.251	2	
+Bedan	Hawul	Borno	10.334	12.104	2	
+Berka	Gboko	Benue	7.255	8.825	2	
+Ekenge Beach	Odukpani	Cross River	5.134	8.236	2	
+Ikot Efa Beach	Odukpani	Cross River	5.237	8.043	2	
+Obiono Beach	Odukpani	Cross River	5.285	8.003	2	
+Berekpe	Biase	Cross River	5.372	8.089	2	
+Beche	Biase	Cross River	5.460	8.027	2	
+Ochamini Betem	Biase	Cross River	5.490	8.166	2	
+Bekwara	Bekwarra	Cross River	6.725	8.935	2	Bekwarra
+Ediba Beach	Calabar Municipal	Cross River	4.983	8.372	2	
+Tungan Belkeri	Dandi	Kebbi	11.641	3.826	2	
+Benesipi	Ovia North-East	Edo	6.146	5.332	2	
+Bereje	Ogun Waterside	Ogun	6.436	4.537	2	
+Beguwa	Ringim	Jigawa	12.253	8.990	2	
+Beri	Gabasawa	Kano	12.203	8.821	2	
+Beguwa	Dutsi	Katsina	12.907	8.133	2	
+Beguwa	Rimi	Katsina	12.768	7.715	2	
+Gidan Berima	Shiroro	Niger	10.467	6.817	2	
+Beriberi	Gudu	Sokoto	13.447	4.148	2	
+Benge	Goronyo	Sokoto	13.392	5.858	2	
+Bela	Kware	Sokoto	13.265	5.295	2	
+Tunga Bebe	Gwadabawa	Sokoto	13.421	5.340	2	
+Bele	Bakori	Katsina	11.558	7.314	2	
+German I	Warri North	Delta	5.848	5.156	2	Benin River
+Beniboye	Burutu	Delta	5.276	5.342	2	
+Garin Bemi	Akko	Gombe	10.363	10.989	2	
+Bekebogbene	Ekeremor	Bayelsa	4.960	5.542	2	
+Bebemieyefagbene	Ekeremor	Bayelsa	4.974	5.619	2	
+Gidan Bera	Tsafe	Zamfara	11.909	6.970	2	
+Bedetebidawu	Ekeremor	Bayelsa	4.840	5.620	2	
+Beniwenega	Ekeremor	Bayelsa	4.872	5.585	2	
+Bekemegbene	Ekeremor	Bayelsa	4.850	5.548	2	
+Beregbene-Willy	Southern Ijaw	Bayelsa	4.740	5.634	2	
+Beregbene	Ekeremor	Bayelsa	4.741	5.630	2	
+Alagbene	Southern Ijaw	Bayelsa	4.529	5.795	2	Agengbene|Bendicgbene
+Betterland	Southern Ijaw	Bayelsa	4.574	5.958	2	Beterland
+Tungan Bello	Borgu	Niger	10.417	3.898	2	
+Beghepaka	Degema	Rivers	4.586	7.046	2	
+Berepelekiri	Degema	Rivers	4.532	7.012	2	
+Saa Berri	Khana	Rivers	4.700	7.423	2	
+Yo Beeri	Khana	Rivers	4.700	7.439	2	
+Nyobe Beeri	Khana	Rivers	4.714	7.466	2	
+Bayakogoro Beeri	Khana	Rivers	4.695	7.426	2	
+Nogo Beeri	Khana	Rivers	4.687	7.425	2	
+Benumohgbene	Patani	Delta	5.140	6.143	2	
+Osuji Beach	Owerri West	Imo	5.442	6.987	2	
+Ohaji/Egbema	Ohaji/Egbema	Imo	5.402	6.825	2	Agbegbe Ijoba Ibile Ohaji/Egbema|ai bei ma
+Bebeji	Bebeji	Kano	11.531	8.204	2	Agbegbe Ijoba Ibile Bebeji
+Koko-Besse	Koko-Besse	Kebbi	11.459	4.438	2	
+Bungudu	Bungudu	Zamfara	12.189	6.489	2	Agbegbe Ijoba Ibile Bungudu|Bungudu Local Government Area|ben gu du
+Owerri North	Owerri North	Imo	5.457	7.103	2	Agbegbe Ijoba Ibile Ariwa Owerri|Owerri Nord|Owerri North Local Government Area|Owerri ta Arewa|Pak Owerri|beioueri
+Bekwarra	Bekwarra	Cross River	6.696	8.911	2	Agbegbe Ijoba Ibile Bekwarra|Bekwara|Bekwarra Local Government Area
+Mayo-Belwa	Mayo-Belwa	Adamawa	8.971	11.977	2	Mayo-Belwa Local Government Area
+Bekinkiri	Asari-Toru	Rivers	4.718	6.869	2	
+Bekenikiri	Degema	Rivers	4.589	6.994	2	
+Bendeghe-Ekim	Etung	Cross River	6.015	8.875	2	
+Belo	Gwer East	Benue	7.335	8.333	2	
+Beba	Konshisha	Benue	7.270	8.487	2	
+Eke-Beligwe	Izzi	Ebonyi	6.374	8.259	2	
+Benekabo	Yala	Cross River	6.329	8.444	2	
+Betem	Bekwarra	Cross River	6.762	8.976	2	
+Betem	Bekwarra	Cross River	6.715	8.936	2	
+Mpam Bentem	Ogoja	Cross River	6.515	8.861	2	
+Bego	Damboa	Borno	11.191	12.887	2	
+Beli	Rogo	Kano	11.467	7.847	2	
+Doka Bere	Sakaba	Kebbi	11.168	5.417	2	
+Yar Besse	Shanga	Kebbi	11.269	4.597	2	
+Bena	Wasagu-Danko	Kebbi	11.298	5.973	2	
+Bengaje	Yabo	Sokoto	12.696	4.954	2	
+Beli	Shira	Bauchi	11.574	9.988	2	
+Beni	Kirfi	Bauchi	10.495	10.400	2	
+Koko/Besse	Koko-Besse	Kebbi	11.488	4.424	2	Koko/Besse
+Bekem	Ukum	Benue	7.651	9.438	2	
+Beba	Ukum	Benue	7.567	9.514	2	
+Bel	Ukum	Benue	7.518	9.666	2	
+Bede	Ukum	Benue	7.667	9.735	2	
+Benga	Katsina-Ala	Benue	7.251	9.374	2	
+Bende	Ushongo	Benue	7.170	9.033	2	
+Bendega	Katsina-Ala	Benue	7.223	9.292	2	
+Berai	Katsina-Ala	Benue	7.187	9.422	2	
+Bel	Gboko	Benue	7.360	8.852	2	
+Beeum	Gboko	Benue	7.255	8.824	2	
+Egbako Benu	Gbako	Niger	9.308	5.898	2	
+Benuko	Lavun	Niger	9.139	5.767	2	
+Gidan Besheru	Gbako	Niger	9.151	6.031	2	
+Bello	Agaie	Niger	9.050	6.382	2	
+Elem Benkinkiri	Degema	Rivers	4.468	6.991	2	Elem-Bekinkiri
+Tungan Berde	Munya	Niger	9.673	6.977	2	
+Gidan Berde Galadima	Munya	Niger	9.595	6.932	2	
+Bellori	Jada	Adamawa	8.597	12.091	2	
+Jauro Bello	Jada	Adamawa	8.655	12.312	2	
+Bello Patel	Jada	Adamawa	8.546	12.345	2	
+Bello Yagos	Fufore	Adamawa	8.957	12.370	2	
+Bellopa	Fufore	Adamawa	8.891	12.461	2	
+Dinki Bello	Fufore	Adamawa	8.852	12.456	2	
+Wuro Bello	Fufore	Adamawa	8.828	12.382	2	
+Beji	Kachia	Kaduna	9.594	7.295	2	
+Marine Beach	Apapa	Lagos	6.459	3.366	2	
+Bendi	Zing	Taraba	8.922	11.709	2	
+Garin Bello	Ardo-Kola	Taraba	8.740	11.094	2	
+Garin Bello Masoyin	Ardo-Kola	Taraba	8.794	10.931	2	
+Garin Hamma Bello	Gassol	Taraba	8.570	10.921	2	
+Bepmi	Shendam	Plateau	8.810	9.588	2	
+Bena	Qua'An Pan	Plateau	8.638	9.032	2	
+Besibe	Warri North	Delta	5.921	5.307	2	
+Beigha	Warri South-West	Delta	5.569	5.183	2	
+Koko Beach	Warri North	Delta	5.999	5.463	2	
+Bembel	Demsa	Adamawa	9.359	12.182	2	
+Wuro Bero	Girei	Adamawa	9.487	12.431	2	
+Bekaja	Yola South	Adamawa	9.267	12.444	2	
+Wuro Bele	Fufore	Adamawa	9.156	12.200	2	
+Bembe	Fufore	Adamawa	9.051	12.227	2	
+Jonde Bello	Yola North	Adamawa	9.143	12.466	2	
+Benti	Numan	Adamawa	9.467	11.840	2	
+Wuro Bello	Demsa	Adamawa	9.322	11.807	2	
+Belli	Demsa	Adamawa	9.347	11.981	2	
+Ga Belwa	Demsa	Adamawa	9.183	11.888	2	
+Benben	Mayo-Belwa	Adamawa	9.162	11.867	2	
+Beda	Mayo-Belwa	Adamawa	9.107	11.771	2	
+Ungwar Bello	Karim Lamido	Taraba	9.195	10.889	2	
+Benson	Karim Lamido	Taraba	9.462	11.249	2	
+Wuro Bedan	Ardo-Kola	Taraba	9.024	11.073	2	
+Beri	Lagelu	Oyo	7.486	4.048	2	
+Belewu	Ona Ara	Oyo	7.244	4.099	2	
+Bejeri	Imeko Afon	Ogun	7.487	2.881	2	
+Benglengpa	Yola North	Adamawa	9.095	12.511	2	
+Jauro Bello	Fufore	Adamawa	9.388	12.788	2	
+Yokasala-Jauro-Bello	Fufore	Adamawa	9.153	12.694	2	Yokasala Jauro Bello
+Betire	Fufore	Adamawa	9.215	12.687	2	
+Beli-Shuti	Fufore	Adamawa	9.184	12.638	2	Beli Shuti
+Bem	Keana	Nasarawa	8.214	8.577	2	
+Ago-Bello	Ife South	Osun	7.348	4.639	2	
+Begbaji	Surulere	Oyo	8.162	4.449	2	
+Bezira	Kaiama	Kwara	9.635	3.918	2	
+Bende	Lafia	Nasarawa	8.562	8.810	2	
+Belore	Oyun	Kwara	8.097	4.675	2	
+Ago-Beloni	Oyun	Kwara	8.066	4.654	2	
+Bere	Ifelodun	Kwara	8.464	4.835	2	
+Beagi	Mokwa	Niger	9.320	4.755	2	
+Beti	Jada	Adamawa	8.838	12.652	2	
+Jauro Bello	Ganye	Adamawa	8.445	12.096	2	JauroBello
+Wuro Bela	Girei	Adamawa	9.593	12.444	2	WuroBela
+Wuro Bello	Song	Adamawa	9.854	12.358	2	WuroBello
+Beleje	Song	Adamawa	9.851	12.529	2	
+Benti	Song	Adamawa	9.834	12.556	2	
+Bezeji	Bassa	Kogi	8.031	7.387	2	Gbezeje
+Zakun-Bello	Nasarawa	Nasarawa	8.668	7.715	2	
+Zakun-Bello	Karu	Nasarawa	8.732	7.681	2	
+Shongo Bene	Sardauna	Taraba	6.809	11.498	2	
+Bene Kere	Sardauna	Taraba	6.781	11.429	2	
+Benji	Sardauna	Taraba	6.756	11.411	2	
+Kune Bene	Sardauna	Taraba	6.739	11.452	2	
+Begbo	Ede South	Osun	7.629	4.499	2	
+Bempe	Afijio	Oyo	7.730	4.041	2	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.073	7.486	1	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.088	7.408	1	
 Beckley Estate Road	Ifako/Ijaye	Lagos	6.659	3.298	1	
@@ -213,13 +483,8 @@ Mike Bello Crescent	Oredo	Edo	6.332	5.593	1
 bennsoo street	Egor	Edo	6.372	5.635	1	
 uncle-ben street	Egor	Edo	6.361	5.627	1	
 Oni-Benson street	Egor	Edo	6.352	5.582	1	
-Ahmadu Bello Campus	Sabon Gari	Kaduna	11.153	7.655	1	
-Believer's Int'l School	Egor	Edo	6.356	5.580	0	
-Benoni Hospital	Oredo	Edo	6.310	5.603	0	
 Beecroft street	Lagos Island	Lagos	6.451	3.400	1	
 Ahmadu Bello Way	Lagos Island	Lagos	6.441	3.403	1	
-Orita Aperin-Beere Road	Ibadan South East	Oyo	7.373	3.903	1	
-Orita Aperin-Beere Road	Ibadan South East	Oyo	7.368	3.911	1	
 Beere Road	Ibadan North West	Oyo	7.377	3.892	1	
 Chief Bereola Street	Surulere	Lagos	6.499	3.352	1	
 Bendel Close	Eti Osa	Lagos	6.434	3.433	1	
@@ -229,8 +494,6 @@ Joop Berkhout Crescent	Ibadan North West	Oyo	7.400	3.875	1
 Ajayi Benbe Street	Lagos Island	Lagos	6.462	3.390	1	
 Berkley Street	Lagos Island	Lagos	6.447	3.405	1	
 Lateef Jakande Avenue	Eti Osa	Lagos	6.449	3.438	1	Bell Avenue
-Ahmadu Bello Way	Eti Osa	Lagos	6.423	3.410	1	
-Ahmadu Bello Way	Eti Osa	Lagos	6.423	3.419	1	
 Ben Esther Street	Alimosho	Lagos	6.604	3.304	1	
 Tiamiyu Bello Aromire Street	Kosofe	Lagos	6.632	3.370	1	
 William Berry Close	Kosofe	Lagos	6.637	3.372	1	
@@ -242,10 +505,8 @@ Ahmadu Bello Road	Surulere	Lagos	6.495	3.373	1
 Bello Ajare Street	Agege	Lagos	6.608	3.315	1	
 Tiramiyu Bello Osagie	Eti Osa	Lagos	6.462	3.444	1	
 Laiyi Ajayi Bembe Street	Eti Osa	Lagos	6.460	3.446	1	
-Ahmadu Bello Way	Kaduna North	Kaduna	10.525	7.430	1	
 Ahmadu Bello Way	Kaduna North	Kaduna	10.511	7.431	1	
 Benue Road	Kaduna North	Kaduna	10.512	7.428	1	
-Ahmadu Bello Way	Kaduna North	Kaduna	10.518	7.430	1	
 Ahmadu Bello Way	Nassarawa	Kano	11.996	8.559	1	
 Berkley Street	Lagos Mainland	Lagos	6.487	3.383	1	
 T.O.S. Benson Crescent	Municipal Area Council	FCT Abuja	9.072	7.448	1	
@@ -254,9 +515,7 @@ Benin Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.109	7.732	1
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.084	7.463	1	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.021	7.482	1	Apo Bridge
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.032	7.496	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.088	7.420	1	
 Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.089	7.428	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.088	7.448	1	
 Benin Street	Municipal Area Council	FCT Abuja	9.038	7.483	1	
 Amadu Bello Way	Ilorin East	Kwara	8.482	4.576	1	
 Sani Bello Close	Municipal Area Council	FCT Abuja	8.999	7.480	1	
@@ -266,16 +525,11 @@ Benue Close	Municipal Area Council	FCT Abuja	8.977	7.489	1
 Mustapha Bello Street	Municipal Area Council	FCT Abuja	9.022	7.513	1	
 Babatope Bejide Crescent	Eti Osa	Lagos	6.444	3.473	1	
 Bende Street	Port-Harcourt	Rivers	4.761	7.027	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.056	7.499	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.054	7.500	1	
 Bernin Kebbi Crescent	Municipal Area Council	FCT Abuja	9.025	7.482	1	
 Beirut Road	Fagge	Kano	12.002	8.535	1	
 Bello Dan dago road	Fagge	Kano	12.010	8.535	1	
 Bello Road	Fagge	Kano	12.008	8.537	1	
 Mohammed Bello Councillor	Tarauni	Kano	11.971	8.558	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.026	7.487	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.064	7.494	1	
-BETHSAIDA MISSIONARY CLINIC	Egor	Edo	6.361	5.631	0	
 Goose Berry Court	Eti Osa	Lagos	6.494	3.610	1	
 Bende Street	Obio/Akpor	Rivers	4.830	7.027	1	
 Ahmadu Bello Way, Ilorin 240211, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.566	1	
@@ -294,7 +548,6 @@ Moshood Bello Street	Alimosho	Lagos	6.643	3.278	1
 Shitta-bey Street	Kosofe	Lagos	6.567	3.381	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.444	12.911	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.638	13.298	1	
-Beere Road	Ibadan North West	Oyo	7.379	3.899	1	
 Beere Roundabout	Ibadan North East	Oyo	7.379	3.899	1	
 Benin-Sapele Road	Oredo	Edo	6.325	5.626	1	
 Warri Benin Rd	Ethiope West	Delta	5.901	5.735	1	
@@ -314,7 +567,7 @@ Ben Ugbor Crescent	Enugu East	Enugu	6.483	7.479	1
 Ben Chukwu Lane	Enugu East	Enugu	6.470	7.575	1	
 Ben Eneh Lane	Enugu North	Enugu	6.455	7.523	1	
 Bello Kano Terrace	Tarauni	Kano	11.983	8.545	1	
-Joop Berkhout Crescent	Ibadan North West	Oyo	7.399	3.877	1	
+Beli - Jamtari Road	Bali	Taraba	7.858	10.972	1	
 Dr Moses Beckie Tagbo Avenue	Enugu East	Enugu	6.470	7.576	1	
 Ben Ihejirika Street	Enugu South	Enugu	6.414	7.517	1	
 Dr. Mike Beckie Tagbo Avenue	Enugu East	Enugu	6.469	7.576	1	
@@ -327,14 +580,13 @@ Benin-Sagamu Expressway	Ovia South-West	Edo	6.710	5.210	1
 Old Ondo - Benin Road	Ìjẹ̀bú Òde	Ogun	6.812	3.931	1	
 Old Ondo - Benin Road	Ìjẹ̀bú Òde	Ogun	6.809	3.912	1	
 Old Ondo - Benin Road	Ìjẹ̀bú Òde	Ogun	6.798	3.976	1	
-Old Ondo - Benin Road	Ìjẹ̀bú Òde	Ogun	6.810	3.925	1	
 Abdul Benson Street	Ìkòròdú	Lagos	6.623	3.500	1	
 Safuratu Benson Street	Ìkòròdú	Lagos	6.628	3.490	1	
 Bolaji Benson Street	Ìkòròdú	Lagos	6.623	3.489	1	
 Benin-Sagamu Expressway	Odogbolu	Ogun	6.873	3.766	1	
 Mohammed Bello Fulani Street	Ungongo	Kano	11.976	8.451	1	
-Ahmadu Bello Teaching Hospital	Zaria	Kaduna	11.079	7.715	0	
 Layin gidan bene	Kumbotso	Kano	11.891	8.501	1	
+Beli - Jamtari Road	Bali	Taraba	7.836	11.015	1	
 Elegushi Beach Road	Eti Osa	Lagos	6.425	3.482	1	
 Lekki Beach Road	Eti Osa	Lagos	6.433	3.509	1	
 Benevolence Court	Eti Osa	Lagos	6.494	3.613	1	
@@ -342,7 +594,6 @@ Eleko Beach Road	Ibeju Lekki	Lagos	6.444	3.854	1
 Bells of Ireland Road	Eti Osa	Lagos	6.461	3.524	1	
 Warri Benin Rd	Ethiope West	Delta	5.920	5.701	1	
 Warri Benin Rd	Ethiope West	Delta	5.939	5.688	1	
-Warri Benin Rd	Ethiope West	Delta	5.903	5.733	1	
 Tunji Bello Street	Eti Osa	Lagos	6.455	3.574	1	
 Federal Road F.128 Benin Border - Bisagana	Mobbar	Borno	13.141	12.600	1	
 Federal Road F.128 Benin Border - Bisagana	Geidam	Yobe	12.895	11.927	1	
@@ -351,12 +602,8 @@ Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.618	13.266	1
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.510	13.194	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.516	13.148	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.565	13.241	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.560	13.236	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.576	13.256	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.653	13.323	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.594	13.266	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.605	13.266	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.662	13.328	1	
 Ajayi Benbe	Shomolu	Lagos	6.520	3.382	1	
 Middle Belt Road	Akure South	Ondo	7.301	5.136	1	
 Akintola Bello Street	Alimosho	Lagos	6.665	3.256	1	
@@ -367,7 +614,6 @@ Benjamin street	Onitsha North	Anambra	6.155	6.782	1
 Ekori beach road	Yakurr	Cross River	5.907	8.115	1	
 Bedwell St	Calabar Municipal	Cross River	4.955	8.321	1	
 Tombia Roundabout- Berger Junction	Yenegoa	Bayelsa	4.923	6.315	1	
-Betsay Shopping Mall	Olorunda	Osun	7.780	4.557	0	
 Old Benin	Odigbo	Ondo	6.751	4.888	1	
 Benin-Sagamu Expressway	Ìjẹ̀bú Òde	Ogun	6.792	3.936	1	
 Inikiri Bernard - Nwokwo Odoke Road	Ado	Benue	6.697	7.976	1	
@@ -388,22 +634,15 @@ Ben Enzuenlen Road	Oshodi/Isolo	Lagos	6.584	3.335	1
 Bello Folawiyo Crescent	Kosofe	Lagos	6.597	3.381	1	
 Sultan Bello Street	Ìkòròdú	Lagos	6.631	3.480	1	
 Kayode Begun Street	Ìkòròdú	Lagos	6.630	3.478	1	
-Benue State University Teaching Hospital	Markurdi	Benue	7.726	8.571	0	
-Benin City Airport	Oredo	Edo	6.317	5.604	0	Benin Airport
-Ahmadu Bello Campus	Sabon Gari	Kaduna	11.157	7.652	1	
 Benin-Sagamu Expressway	Ovia North-East	Edo	6.557	5.501	1	
-Ahmadu Bello Way	Eti Osa	Lagos	6.425	3.410	1	
 Benin-Sagamu Expressway	Idanre	Ondo	6.767	5.081	1	
 Benin-Sagamu Expressway	Odigbo	Ondo	6.753	4.787	1	
 Benin-Sagamu Expressway	Ovia North-East	Edo	6.551	5.521	1	
 Benin-Sagamu Expressway	Ovia North-East	Edo	6.487	5.581	1	
 Benin City Bypass	Uhunmwonde	Edo	6.453	5.645	1	
-Benin City Bypass	Uhunmwonde	Edo	6.424	5.700	1	
-Benin City Bypass	Uhunmwonde	Edo	6.453	5.645	1	
 Benin Agbor road	Ikpoba-Okha	Edo	6.339	5.714	1	
 Benin-Sagamu Expressway	Odogbolu	Ogun	6.874	3.764	1	
 Benin-Sagamu Expressway	Odogbolu	Ogun	6.825	3.820	1	
-Benin-Sagamu Expressway	Odogbolu	Ogun	6.794	3.922	1	
 Lekki Beach Road	Eti Osa	Lagos	6.436	3.508	1	
 Benson Anorue Street	Oshodi/Isolo	Lagos	6.546	3.323	1	
 Beckley Avenue	Kosofe	Lagos	6.559	3.381	1	
@@ -421,7 +660,6 @@ Benin-Sagamu Expressway	Odigbo	Ondo	6.719	4.458	1
 Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.506	1	
 Benin-Sagamu Expressway	Ijebu East	Ogun	6.744	4.290	1	
 Benin-Sagamu Expressway	Ijebu East	Ogun	6.758	4.226	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.758	4.223	1	
 Benin Street	Kaduna North	Kaduna	10.515	7.426	1	
 Benin Auchi Road	Uhunmwonde	Edo	6.408	5.762	1	
 Benji Onyedili St	Oshimili South	Delta	6.175	6.751	1	
@@ -435,45 +673,130 @@ Benson Adu Avenue	Alimosho	Lagos	6.550	3.221	1
 Ahmadu Bello way	Lokoja	Kogi	7.813	6.749	1	
 Eleko Beach Road	Ibeju Lekki	Lagos	6.437	3.944	1	
 Eleko Beach Road	Ibeju Lekki	Lagos	6.475	3.844	1	
-Eleko Beach Road	Ibeju Lekki	Lagos	6.475	3.844	1	
 Benin Street	Port-Harcourt	Rivers	4.794	7.001	1	
 Bernett Bassey Streer	Uyo	Akwa Ibom	5.021	7.939	1	
 Benjamin Oteri Street	Municipal Area Council	FCT Abuja	9.143	7.366	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.095	7.407	1	
 Benson Street	Eti Osa	Lagos	6.502	3.594	1	
 Abibatu Amoke Bello Close	Eti Osa	Lagos	6.501	3.590	1	
-BERGER ROAD	Bonny	Rivers	4.441	7.175	1	
+Berger Road	Bonny	Rivers	4.441	7.175	1	
 Bende Road	Bonny	Rivers	4.400	7.159	1	
 Beverly Hills Road	Esan West	Edo	6.736	6.122	1	
-Bena Farm Road	Ìjẹ̀bú Òde	Ogun	6.816	3.955	1	
 Old Ondo - Benin Road	Ijebu East	Ogun	6.776	4.035	1	
 Ayo Bello Street	Ilorin East	Kwara	8.460	4.573	1	
 Rex Bello street	Ilorin East	Kwara	8.486	4.603	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.076	7.475	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.081	7.466	1	
 Federal Road F.128 Benin Border - Bisagana	Mobbar	Borno	13.087	12.533	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.038	7.500	1	
 Ahmadu Bello Road	Surulere	Lagos	6.491	3.373	1	
 Ben Emeasoba Street	Enugu North	Enugu	6.465	7.574	1	
-Ekori beach road	Yakurr	Cross River	5.869	8.121	1	
 Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.579	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.728	4.598	1	
 Benin-Sagamu Expressway	Idanre	Ondo	6.757	5.138	1	
 Benin-Sagamu Expressway	Idanre	Ondo	6.752	5.148	1	
 Benin-Sagamu Expressway	Ovia South-West	Edo	6.652	5.296	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.647	5.307	1	
 Benin-Sagamu Expressway	Ovia South-West	Edo	6.639	5.323	1	
 Benin-Sagamu Expressway	Ovia South-West	Edo	6.615	5.369	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.514	13.136	1	
 Benin Auchi Road	Esan Central	Edo	6.743	6.219	1	
-Beulah Baptist Church College	Ejigbo	Osun	7.909	4.318	0	
 Amojo Benjamin Street	Municipal Area Council	FCT Abuja	9.084	7.385	1	
 Bello Alaka Street	Ojo	Lagos	6.488	3.194	1	
-Amojo Benjamin Street	Municipal Area Council	FCT Abuja	9.080	7.386	1	
+Teco Benson Drive	Eti Osa	Lagos	6.446	3.606	1	
+Tombia Roundabout- Berger Junction	Yenegoa	Bayelsa	4.926	6.318	1	
+Link 13 Alh. Bello Malami Street	Gwale	Kano	11.973	8.473	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.729	4.395	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.732	4.321	1	
+Mac Bento Close	Municipal Area Council	FCT Abuja	9.043	7.551	1	
+Begonia Avenue	Eti Osa	Lagos	6.442	3.558	1	
+Benin-Sagamu Expressway	Shagamu	Ogun	6.867	3.656	1	
+Benin-Sagamu Expressway	Shagamu	Ogun	6.858	3.631	1	
+Warri Benin Rd	Ethiope West	Delta	5.871	5.730	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.780	5.018	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.775	5.037	1	
+Behind Pharmacy	Ife Central	Osun	7.516	4.526	1	
+Bennett Road	Ado Odo/Ota	Ogun	6.648	3.078	1	
+Alhaji Bello Jiwa Street	Municipal Area Council	FCT Abuja	9.085	7.311	1	
+Benin Auchi Road	Esan Central	Edo	6.799	6.256	1	
+Benin Auchi Road	Etsako West	Edo	6.841	6.252	1	
+Benin Auchi Road	Etsako West	Edo	6.831	6.256	1	
+Blue Bell	Municipal Area Council	FCT Abuja	9.059	7.429	1	
+Sikirat Benson Street	Ìkòròdú	Lagos	6.622	3.495	1	
+Eleko Beach Road	Ibeju Lekki	Lagos	6.441	3.857	1	
+Benin Agbor road	Ikpoba-Okha	Edo	6.349	5.663	1	
+Bennie Ikhena Street	Eti Osa	Lagos	6.467	3.583	1	
+Betty Udokwe Street	Eti Osa	Lagos	6.464	3.583	1	
+Mohammed Yinka Bello Crescent	Eti Osa	Lagos	6.468	3.632	1	
+Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
+Benhill Vocational Training Centre	Oredo	Edo	6.318	5.623	0	
+Bethel Medical Clinic	Enugu North	Enugu	6.448	7.501	0	
+Belli Health Post	Bichi	Kano	12.312	8.285	0	
+Benin Garage	Akure North	Ondo	7.275	5.245	0	
+Benisheik Maternal Child Health Clinic	Kaga	Borno	11.807	12.488	0	
+Bebi Airstrip	Obanliku	Cross River	6.621	9.320	0	
+Best Foundation Nur and Pri School	Uvwie	Delta	5.537	5.758	0	
+Benjones Filling Station	Warri South	Delta	5.534	5.760	0	
+BES Clinic	Obio/Akpor	Rivers	4.838	7.033	0	
+Best Option	Alimosho	Lagos	6.549	3.238	0	
+Doyisem Best Academy	Lagos Mainland	Lagos	6.495	3.388	0	
+Benson	Ìkòròdú	Lagos	6.622	3.499	0	
+Believers Faith Medical Clinic	Yenegoa	Bayelsa	4.936	6.281	0	
+Belwin Memorial Clinic	Enugu North	Enugu	6.458	7.515	0	
+New Bethel Hospital	Chanchaga	Niger	9.648	6.516	0	
+Michael Bella Memorial Hospital, General Gas-Akobo	Lagelu	Oyo	7.428	3.939	0	
+Better Life Health Care, Agbowo	Ibadan North	Oyo	7.442	3.909	0	
+Ben-Dominics Dental Surgery clinic	Jos North	Plateau	9.907	8.892	0	
+Beacon Height School	Municipal Area Council	FCT Abuja	9.140	7.380	0	
+Berith Specialist Hospital	Municipal Area Council	FCT Abuja	9.147	7.371	0	
+Bethany Christian Academy	Barkin Ladi	Plateau	9.516	8.910	0	
+Six bed Primary Health care, Tapa	Ibarapa North	Oyo	7.562	3.235	0	
+Bestower Global Services LTD	Ejigbo	Osun	7.833	4.130	0	
+Belmont Specialist Hospital	Kaduna North	Kaduna	10.548	7.471	0	
+Musaka Beto Specialist Hospital	Kaduna South	Kaduna	10.543	7.412	0	
+Beside Startech Filing Station Kakau	Chikun	Kaduna	10.380	7.397	0	
+Betheland Hospital	Ojo	Lagos	6.497	3.196	0	
+Best Option Healthcare And Maternity Home	Alimosho	Lagos	6.529	3.254	0	
+Sholay Beauty World	Alimosho	Lagos	6.536	3.220	0	
+Betterlife Hospital	Alimosho	Lagos	6.534	3.237	0	
+Best Hospital	Mushin	Lagos	6.528	3.344	0	
+Betlem Hospital	Mushin	Lagos	6.516	3.344	0	
+Belan Consultant Home	Mushin	Lagos	6.514	3.342	0	
+Bethlem Hospital	Mushin	Lagos	6.518	3.339	0	
+New Bethsaida Hospital Maternity	Mushin	Lagos	6.536	3.351	0	
+Bethesda Family Clinic And Maternity	Amuwo Odofin	Lagos	6.463	3.284	0	
+See Bee Filling Station	Iwo	Osun	7.651	4.171	0	
+Bengoz Maternity Home	Amuwo Odofin	Lagos	6.442	3.266	0	
+Beatom Excellent Montessori	Alimosho	Lagos	6.523	3.229	0	
+Northwest Best Academy	Ungongo	Kano	12.047	8.573	0	
+Andal Best Academy School	Ungongo	Kano	12.041	8.569	0	
+Aishatu Best Academy (Senior)	Ungongo	Kano	12.042	8.571	0	
+Aishatu Best Academy (Junior)	Ungongo	Kano	12.042	8.571	0	
+Aishatu Best Academy (Nur./Pri.)	Ungongo	Kano	12.042	8.571	0	
+Husnah Best Academy	Ungongo	Kano	12.046	8.566	0	
+Talent Best Academy	Gwale	Kano	11.955	8.472	0	
+Best Talents Academy	Gwale	Kano	11.969	8.472	0	
+Better life Hospital	Alimosho	Lagos	6.529	3.237	0	
+Salt Beach	Amuwo Odofin	Lagos	6.406	3.224	0	
+Uncle Ben	Amuwo Odofin	Lagos	6.408	3.215	0	
+Joel Best Legacy Int'L Nursery/Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.468	4.540	0	
+Gbagba Alagbado Behind Sobi Specialist Hospital, Illorin, Nigeria	Ilorin West	Kwara	8.527	4.525	0	
+Bemsas	Yenegoa	Bayelsa	4.934	6.278	0	
+koko beach	Amuwo Odofin	Lagos	6.409	3.243	0	
+Bethel Concept International Model Academy	Karu	Nasarawa	8.955	7.686	0	
+Bellalo	Karu	Nasarawa	8.948	7.679	0	
+Beenish Auto Limited	Municipal Area Council	FCT Abuja	9.120	7.393	0	
+Golden Beauty SalÃ³n And Spa	Municipal Area Council	FCT Abuja	9.120	7.392	0	
+2F3Q+3Cg Between Apo Roundabout And Nepa Junction	Municipal Area Council	FCT Abuja	9.003	7.489	0	
+Berger Bus Stop	Municipal Area Council	FCT Abuja	9.067	7.454	0	
+Beauty&Katz Multi Collections	Municipal Area Council	FCT Abuja	8.966	7.380	0	
+Berger	Municipal Area Council	FCT Abuja	9.067	7.454	0	
+Before Bridge Bus Stop Nyanya	Municipal Area Council	FCT Abuja	9.023	7.570	0	
+Believer's Int'l School	Egor	Edo	6.356	5.580	0	
+Benoni Hospital	Oredo	Edo	6.310	5.603	0	
+Bethsaida Missionary Clinic	Egor	Edo	6.361	5.631	0	
+Ahmadu Bello Teaching Hospital	Zaria	Kaduna	11.079	7.715	0	
+Betsay Shopping Mall	Olorunda	Osun	7.780	4.557	0	
+Benue State University Teaching Hospital	Markurdi	Benue	7.726	8.571	0	
+Benin City Airport	Oredo	Edo	6.317	5.604	0	Benin Airport
+Beulah Baptist Church College	Ejigbo	Osun	7.909	4.318	0	
 Be Happy Petroleum	Ìkòròdú	Lagos	6.631	3.540	0	
 Sir Ahmadu Bello International Airport	Birnin Kebbi	Kebbi	12.485	4.375	0	
 Malok Beach Road	Ìkòròdú	Lagos	6.603	3.494	0	
-Teco Benson Drive	Eti Osa	Lagos	6.446	3.606	1	
 Beulla School	Ado Odo/Ota	Ogun	6.688	3.251	0	
 University Of Benin Teaching Hospital	Oredo	Edo	6.314	5.625	0	
 Bebeji General Hospital	Bebeji	Kano	11.670	8.270	0	
@@ -484,8 +807,6 @@ Beni Health Clinic	Kirfi	Bauchi	10.462	10.397	0
 University of Benin	Oredo	Edo	6.332	5.602	0	
 Benshaik General Hospital	Kaga	Borno	11.808	12.508	0	
 Belmont Hospital	Kaduna North	Kaduna	10.548	7.471	0	
-Tombia Roundabout- Berger Junction	Yenegoa	Bayelsa	4.926	6.318	1	
-Benin Auchi Road	Uhunmwonde	Edo	6.417	5.763	1	
 bello petal heath clinic	Jada	Adamawa	8.521	12.360	0	
 jauro bellel health post	Jada	Adamawa	8.617	12.408	0	
 bellanga health clinic	Demsa	Adamawa	9.631	12.214	0	
@@ -498,59 +819,10 @@ Bengo Health Clinic	Fufore	Adamawa	9.413	12.723	0
 Beti Health Clinic	Fufore	Adamawa	9.296	12.699	0	
 Begni Health Post	Fufore	Adamawa	8.891	12.393	0	
 General Hospital Bena	Wasagu-Danko	Kebbi	11.296	5.940	0	
-Link 13 Alh. Bello Malami Street	Gwale	Kano	11.973	8.473	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.729	4.395	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.732	4.321	1	
-Mac Bento Close	Municipal Area Council	FCT Abuja	9.043	7.551	1	
-Begonia Avenue	Eti Osa	Lagos	6.442	3.558	1	
-Amodu Bello way	Ilorin East	Kwara	8.480	4.588	1	
-Benin-Sagamu Expressway	Shagamu	Ogun	6.867	3.656	1	
-Benin-Sagamu Expressway	Shagamu	Ogun	6.858	3.631	1	
 adzer beke college korinya city	Konshisha	Benue	6.924	8.933	0	
-Warri Benin Rd	Ethiope West	Delta	5.871	5.730	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.780	5.018	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.775	5.037	1	
-Behind Pharmacy	Ife Central	Osun	7.516	4.526	1	
-Bennett Road	Ado Odo/Ota	Ogun	6.648	3.078	1	
 ECWA Bethel School	Municipal Area Council	FCT Abuja	9.018	7.420	0	
-Alhaji Bello Jiwa Street	Municipal Area Council	FCT Abuja	9.085	7.311	1	
 Believers High School	Jos North	Plateau	9.865	8.864	0	
 Bells Univerisity of Technology	Ado Odo/Ota	Ogun	6.683	3.174	0	
-Beechwood Estate	Ibeju Lekki	Lagos	6.475	3.772	1	
-Benin Auchi Road	Esan Central	Edo	6.799	6.256	1	
-Benin Auchi Road	Esan Central	Edo	6.815	6.258	1	
-Benin Auchi Road	Etsako West	Edo	6.841	6.252	1	
-Benin Auchi Road	Etsako West	Edo	6.831	6.256	1	
 Cok Best Mall	Municipal Area Council	FCT Abuja	9.146	7.306	0	
-Blue Bell	Municipal Area Council	FCT Abuja	9.059	7.429	1	
-Sikirat Benson Street	Ìkòròdú	Lagos	6.622	3.495	1	
-Eleko Beach Road	Ibeju Lekki	Lagos	6.441	3.857	1	
-Benin Agbor road	Ikpoba-Okha	Edo	6.349	5.663	1	
-Eleko Beach Road	Ibeju Lekki	Lagos	6.456	3.850	1	
-Eleko Beach Road	Ibeju Lekki	Lagos	6.466	3.848	1	
-Bennie Ikhena Street	Eti Osa	Lagos	6.467	3.583	1	
-Betty Udokwe Street	Eti Osa	Lagos	6.464	3.583	1	
-Mohammed Yinka Bello Crescent	Eti Osa	Lagos	6.468	3.632	1	
 Julius Berger Clinic	Municipal Area Council	FCT Abuja	9.079	7.391	0	
 Ijero Bestfield Medical Clinic	Ijero	Ekiti	7.808	5.077	0	
-Bekarya	Gumel	Jigawa	12.660	9.431	2	
-Belas	Yankwashi	Jigawa	12.726	8.435	2	
-Bela Rawaiya	Bungudu	Zamfara	12.321	6.640	2	
-Bengaje	Yabo	Sokoto	12.687	4.969	2	
-Koko-Besse	Koko-Besse	Kebbi	11.436	4.479	2	
-Bedi	Zuru	Kebbi	11.406	5.351	2	
-Yar Besse	Shanga	Kebbi	11.267	4.638	2	
-Doka Bere	Sakaba	Kebbi	11.147	5.409	2	
-Bena	Wasagu-Danko	Kebbi	11.285	5.975	2	
-Besse	Koko-Besse	Kebbi	11.428	4.441	2	
-Beli	Rogo	Kano	11.470	7.845	2	
-Bebeji	Bebeji	Kano	11.683	8.245	2	
-Bebeji	Bebeji	Kano	11.537	8.311	2	
-Bekwarra	Bekwarra	Cross River	6.707	8.894	2	
-Bende	Bende	Abia	5.639	7.589	2	
-Mayo-Belwa	Mayo-Belwa	Adamawa	8.871	12.020	2	
-Benisheikh	Kaga	Borno	11.826	12.536	2	
-Bego	Damboa	Borno	11.222	12.866	2	
-Beli	Shira	Bauchi	11.576	10.016	2	
-Beni	Kirfi	Bauchi	10.514	10.395	2	
-Beti	Misau	Bauchi	11.273	10.378	2	

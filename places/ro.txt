@@ -1,3 +1,6 @@
+Rogo Sabon Gari	Rogo	Kano	11.550	7.824	3	Rogo
+Roni	Roni	Jigawa	12.659	8.265	3	
+Rogo	Rogo	Kano	11.552	7.823	3	
 Rouda	Mobbar	Borno	13.208	12.537	2	
 Rofia	Yauri	Kebbi	10.712	4.709	2	
 Roga	Shagari	Sokoto	12.527	4.911	2	
@@ -21,136 +24,94 @@ Rowa Sala	Arewa Dandi	Kebbi	12.601	3.889	2
 Gidan Roga	Kware	Sokoto	13.086	5.286	2	
 Dan Ashitan	Ingawa	Katsina	12.639	8.180	2	Bowaji;Rowaji
 Rough Corner Spit	Bonny	Rivers	4.368	7.130	2	
-South Point Royal School	Oredo	Edo	6.323	5.613	0	
-Royal Foundation School	Oredo	Edo	6.313	5.608	0	
-Autie Rose Foundation Group of Schools	Oredo	Edo	6.342	5.603	0	
-Royal Kiddies Academy	Oredo	Edo	6.345	5.608	0	
-Rokibet Nursery and Primary School	Oredo	Edo	6.343	5.604	0	
-Holy Rosary College Uwani, Enugu	Enugu North	Enugu	6.429	7.495	0	
-Rockland International	Enugu North	Enugu	6.443	7.510	0	
-Rogo General Hospital	Rogo	Kano	11.553	7.831	0	
-Tsohuwar Rogo Health Post	Rogo	Kano	11.575	7.800	0	
 Romo	Bagwai	Kano	12.074	8.167	2	
 Roumzou	Madagali	Adamawa	10.694	13.604	2	
-Royal Immaculate Hospital	Ibadan South East	Oyo	7.365	3.920	0	
 Angoual Roumji	Madarounfa	Katsina	13.134	7.202	2	
 Rodai	Gubio	Borno	12.824	12.812	2	
 Ushan Rogo	Nasarawa	Nasarawa	8.088	7.833	2	
 Royi Bulabulin	Abadam	Borno	13.508	13.127	2	
-Rojafia Clinic	Kosofe	Lagos	6.593	3.397	0	
-Royal Heritage School	Uvwie	Delta	5.544	5.779	0	
 Kosorok B Modu Royami	Guzamala	Borno	12.957	13.070	2	
-Rojoe Academy	Uvwie	Delta	5.568	5.773	0	
-Royal Springfield Intl. School	Uvwie	Delta	5.540	5.760	0	
-Rolu Group of Schools	Warri South	Delta	5.533	5.751	0	
-Roof Computer Academy	Warri South	Delta	5.531	5.745	0	
-Royal Exams Preparatory Class	Warri South	Delta	5.532	5.757	0	
-Royal Day Care	Warri South	Delta	5.529	5.754	0	
-Robor Energy Filling Station	Ughelli North	Delta	5.495	6.015	0	
-Royal Step International School	Obio/Akpor	Rivers	4.856	6.972	0	
 Tashar Rogo	Talata Mafara	Zamfara	12.286	6.187	2	
-Rock Canaan bus stop	Ado Odo/Ota	Ogun	6.731	3.269	0	
-ROCK CANAAN	Ado Odo/Ota	Ogun	6.731	3.269	0	CCC ROCK CANAAN
-Romkol Global	Ido	Oyo	7.447	3.876	0	
-Faculty Rooms	Gombe	Gombe	10.306	11.174	0	
-PEN RESOURCE ACADEMY (boarding sch)& ROBOTICS CENTER	Akko	Gombe	10.290	11.053	0	
 Rogan Magaji	Shagari	Sokoto	12.690	5.127	2	Rugar Magaji
-St. Mary's Roman Catholic Mission School I, Ifo	Ifo	Ogun	6.812	3.197	0	
-Primary Health Care Romon Sarki	Tambuwal	Sokoto	12.229	4.602	0	
-Rogo Sabon Gari	Rogo	Kano	11.550	7.824	3	Rogo
 Romonkunne	Karaye	Kano	11.666	7.914	2	
-st. peter's roman catholic mission primary school sch i ota	Ado Odo/Ota	Ogun	6.691	3.236	0	
-african church primary school, igbore robiyan	Ifo	Ogun	6.747	3.293	0	
-St. Peter'S Roman Catholic Mission Primary School Sch Ii Ota	Ado Odo/Ota	Ogun	6.610	3.118	0	
-Roman Catholic Mission Primary School, Agbari	Ado Odo/Ota	Ogun	6.635	3.112	0	
-Roman Catholic Mission Primary School, Itire	Ojo	Lagos	6.517	3.199	0	
-St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Shagamu	Ogun	6.851	3.650	0	
-Roman Catholic Mission Primary School, Isalu	Ado Odo/Ota	Ogun	6.657	3.091	0	
-St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ifo	Ogun	6.683	3.321	0	
-St. Mary'S Roman Catholic Mission School Ii, Ifo	Ifo	Ogun	6.649	3.370	0	
-St. Mary'S Roman Catholic Mission School I, Ifo	Shagamu	Ogun	6.773	3.494	0	
-St. Mary'S Roman Catholic Mission School Ii, Ifo	Ifo	Ogun	6.816	3.208	0	
-St. Peter'S Roman Catholic Mission Primary School Sch Ii Ota	Ado Odo/Ota	Ogun	6.690	3.238	0	
-Roman Catholic Mission Primary School, Isalu	Ado Odo/Ota	Ogun	6.644	2.942	0	
-Roman Catholic Mission Primary School, Agbari	Ado Odo/Ota	Ogun	6.594	2.935	0	
-St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ado Odo/Ota	Ogun	6.583	3.024	0	
-St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
-Roman Catholic Mission Primary School, Ikoga Ile	Ado Odo/Ota	Ogun	6.542	2.965	0	
-Roman Catholic Mission Primary School, Itire	Ado Odo/Ota	Ogun	6.527	2.927	0	
-St. Thomas Roman Catholic Mission Primary Schoo Idimu	Ado Odo/Ota	Ogun	6.596	3.165	0	
-St. Joseph Roman Catholic Mission Primary  School 1 Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
-St. Mary's Roman Catholic Mission School III, Ifo	Ifo	Ogun	6.813	3.197	0	
-Royal Hospital	Enugu North	Enugu	6.443	7.482	0	
-Romee Eye Clinic	Warri South	Delta	5.531	5.740	0	
 Rorvwu	Isoko North	Delta	5.499	6.155	2	
-Roban Stores	Ebonyi	Ebonyi	6.337	8.093	0	
-El-Roi Inland Missions Hospital	Jos North	Plateau	9.939	8.880	0	
-Royal Step Academy	Municipal Area Council	FCT Abuja	9.019	7.421	0	
-Rosy Premium Success Academy Nursery and Primary School Kuchigoro	Municipal Area Council	FCT Abuja	9.018	7.420	0	
-Royal Health Care Galadimawa	Municipal Area Council	FCT Abuja	8.992	7.427	0	
-Christ The Rock Of Ages International School	Eti Osa	Lagos	6.471	3.629	0	
-Dr. abubakar abdullahi Baba  jolly phonics resources room	Gombe	Gombe	10.307	11.167	0	
-class Room 1A	Gombe	Gombe	10.307	11.167	0	
-Geography Department Room 4	Gombe	Gombe	10.305	11.176	0	
-Geography Department Room 4	Gombe	Gombe	10.306	11.178	0	
-Geography Department Room 3	Gombe	Gombe	10.305	11.176	0	
-mosque male and female rest roo	Gombe	Gombe	10.306	11.175	0	
-ETF-CERC GOMBE Admin block comprence room 2	Gombe	Gombe	10.303	11.160	0	
-Royal Heritage Academy	Jos North	Plateau	9.936	8.917	0	
-Rest Room	Gombe	Gombe	10.305	11.175	0	
-male Rest Room	Gombe	Gombe	10.306	11.175	0	
 Rouga dabira	Madarounfa	Katsina	13.113	7.200	2	
-Es 5 Junction Road By Station Roundabout Kaduna	Kaduna South	Kaduna	10.497	7.419	0	
-Phc Makera Main Roadkakuri Kaduna	Kaduna South	Kaduna	10.468	7.412	0	
-Gimo Maternity Buba Sauri Road Romi	Kaduna North	Kaduna	10.532	7.424	0	
-Governor One Hospital No3 Dokaji Street Romi	Chikun	Kaduna	10.439	7.420	0	
-Hospitals Zci Rock Road Tudun Nupawa	Kaduna South	Kaduna	10.517	7.415	0	
-Rophe Clinic	Ado Odo/Ota	Ogun	6.506	3.089	0	
-Rock Of Ages Hospital	Ado Odo/Ota	Ogun	6.530	3.077	0	
-Royal Salvation Hospital	Alimosho	Lagos	6.591	3.307	0	
-B Rock Convalescent And Maternity Home	Alimosho	Lagos	6.550	3.260	0	
-Royal Jubille Hospital	Alimosho	Lagos	6.538	3.245	0	
-Roland Orthopedic Hospital	Alimosho	Lagos	6.533	3.237	0	
-Rosanna Clinic	Mushin	Lagos	6.557	3.362	0	
-Holy Rosary Medical Center	Amuwo Odofin	Lagos	6.467	3.285	0	
-Royal Oak Hospital	Amuwo Odofin	Lagos	6.466	3.293	0	
-Royal Steps Academy	Jos North	Plateau	9.894	8.886	0	
-Baptist Royal Academy	Bauchi	Bauchi	10.319	9.831	0	
-ROYAL ACADEMY	Ungongo	Kano	12.037	8.565	0	
-ROYAL	Ungongo	Kano	12.037	8.564	0	
-AMATULRAHMAN ROYAL INT' SCHOOL KANO	Gwale	Kano	11.964	8.468	0	
-SALLDANS ROYAL ACADEMY	Gwale	Kano	11.960	8.477	0	
-SALDANS ROYAL ACADEMY	Gwale	Kano	11.961	8.478	0	
-AMATULRAHAMAN ROYAL INTNL SCHOOLS	Gwale	Kano	11.961	8.469	0	
-ROYAL CHILD	Gwale	Kano	11.967	8.469	0	
-Solid Rock view Private School	Jos North	Plateau	9.929	8.909	0	
-AED lecture Room (Hall A, Hall B2. Hall B3, Hall C2, Hall C3)	Kaduna North	Kaduna	10.612	7.440	0	
-Lecture room 191	Kaduna North	Kaduna	10.609	7.441	0	
-Lecture room 192	Kaduna North	Kaduna	10.609	7.441	0	
-Lecture room 193	Kaduna North	Kaduna	10.610	7.441	0	
-Lecture room 194	Kaduna North	Kaduna	10.610	7.441	0	
-Mechanical Lecture Room	Kaduna North	Kaduna	10.612	7.442	0	
-Royal Crescent Valley International School, Ilorin, Nigeria	Asa	Kwara	8.465	4.495	0	
-Offas Garage Roundabout, Oko Erin, Nigeria	Ilorin East	Kwara	8.453	4.581	0	
-Roemichs international school Ajase-Ipo Road, Offa Garage, Ilorin	Ilorin East	Kwara	8.459	4.576	0	
-Assumpta Roundabout	Owerri Municipal	Imo	5.489	7.020	0	
 Kandawa Rogodo	Dungass	Jigawa	12.825	9.299	2	
-slave route landing	Badagry	Lagos	6.411	2.884	0	
-2F3Q+3Cg Between Apo Roundabout And Nepa Junction	Municipal Area Council	FCT Abuja	9.003	7.489	0	
-Apo Roundabout Bus Stop	Municipal Area Council	FCT Abuja	9.013	7.491	0	
-Rocha'S Plaza Bus Stop	Municipal Area Council	FCT Abuja	9.061	7.467	0	
 Robertson Patches	Calabar South	Cross River	4.795	8.347	2	
+Romo Sarki	Tambuwal	Sokoto	12.191	4.637	2	
+Rogo Ruma	Rogo	Kano	11.568	7.800	2	
+Romo	Bagwai	Kano	12.080	8.145	2	
+Roni	Roni	Jigawa	12.564	8.371	2	
+Rogo	Rogo	Kano	11.509	7.853	2	
+Rorau	Gwiwa	Jigawa	12.790	8.166	2	
+Rogogo	Zango	Katsina	12.925	8.542	2	
+Kafin Romi	Gamawa	Bauchi	12.088	10.463	2	
+Tungan Rogo	Dandi	Kebbi	11.699	3.643	2	
+Tsofuwar Rogo	Rogo	Kano	11.587	7.795	2	
+Sarma Roga	Tangaza	Sokoto	13.687	5.107	2	Sarma Magaji
+Rugar Magaji	Shagari	Sokoto	12.689	5.127	2	Rogan Magaji
+Rotafi	Paikoro	Niger	9.500	6.842	2	
+Roro	Shiroro	Niger	10.196	6.591	2	
+Rorel Burle	Sardauna	Taraba	7.016	11.236	2	
+Ropp	Barkin Ladi	Plateau	9.502	8.928	2	Rop
+Ronga	Song	Adamawa	9.722	12.321	2	
+Romo Sarki	Tambuwal	Sokoto	12.223	4.603	2	
+Romo	Song	Adamawa	9.704	12.446	2	
+Romi	Chikun	Kaduna	10.435	7.418	2	
+Romi	Ori Ire	Oyo	8.512	4.238	2	
+Roi	Konshisha	Benue	7.181	8.540	2	
+Roguwa	Karu	Nasarawa	8.831	7.718	2	
+Rogon Turaki	Shira	Bauchi	11.545	10.021	2	
+Rogbo-Rogbo	Ife North	Osun	7.428	4.420	2	Rogbo Rogbo
+Rogbodo	Ibarapa Central	Oyo	7.368	3.251	2	
+Rofie	Ovia North-East	Edo	6.341	5.490	2	
+Rodeye	Odeda	Ogun	7.337	3.176	2	
+Robo	Bassa	Plateau	10.043	8.714	2	
+Robizhi	Lavun	Niger	9.583	5.338	2	
+Robertkiri	Akuku Toru	Rivers	4.546	6.610	2	
+Roguwa	Nasarawa	Nasarawa	8.477	7.556	2	Ragwa
+Ile-Romaba	Idanre	Ondo	7.053	5.158	2	
+Tungan Rogo	Dandi	Kebbi	11.783	3.966	2	
+Rogogo Ngabbas	Zango	Katsina	12.922	8.562	2	
+Rogogo Massabka	Zango	Katsina	12.922	8.550	2	
+Ungua Rogo	Babura	Jigawa	12.570	8.784	2	
+Rorau	Gwiwa	Jigawa	12.804	8.150	2	
+Rosa Mori	Arewa Dandi	Kebbi	13.025	4.419	2	Old Rosa Mori
+Yarume Roga	Wamako	Sokoto	13.011	4.992	2	
+Roga	Illela	Sokoto	13.758	5.364	2	
+Roga-Fulani	Gwadabawa	Sokoto	13.457	5.339	2	
+Roga Giwa	Kware	Sokoto	13.109	5.299	2	
+Roga Kuka	Wamako	Sokoto	13.009	5.189	2	
+Roga Diko	Wamako	Sokoto	13.007	5.193	2	
+Ungwan Rogo	Danja	Katsina	11.464	7.444	2	
+Rogo	Ikara	Kaduna	11.392	8.017	2	
+Gidan Rogo	Kiru	Kano	11.440	8.196	2	
+Roni	Roni	Jigawa	12.549	8.331	2	Agbegbe Ijoba Ibile Roni|Roni Local Government Area|reani
+Gulkole Rock	Gwoza	Borno	11.225	13.781	2	
+Angwan Rogo	Jos North	Plateau	9.946	8.887	2	
+Rogogo	Zango	Katsina	12.935	8.532	2	
+Romo Sarki	Tambuwal	Sokoto	12.204	4.632	2	
+Rogota	Edati	Niger	9.040	5.991	2	
+Rogota	Gbako	Niger	9.135	6.006	2	
+Gena Rombo	Langtang South	Plateau	8.788	9.847	2	
+Roek	Shendam	Plateau	8.867	9.353	2	
+South Ropp	Bokkos	Plateau	9.374	8.914	2	
+Robson	Ilaje	Ondo	5.957	5.003	2	
+Ungwar Rogo	Karim Lamido	Taraba	9.344	11.084	2	
+Idi-Roko	Oluyole	Oyo	7.149	4.011	2	
+Rogbo	Isokan	Osun	7.315	4.273	2	
+Bukan Robo	Lafia	Nasarawa	8.443	8.540	2	
+Roruwa	Moro	Kwara	9.019	4.866	2	
+Rovo	Song	Adamawa	9.851	12.393	2	
+Akata Robo	Ilorin South	Kwara	8.428	4.611	2	AkataRobo
+Rokota	Edati	Niger	9.084	5.442	2	
 TBS Roundabout	Lagos Island	Lagos	6.447	3.404	1	
 Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.061	6.464	1	
 Ofrima Roundabout	Obio/Akpor	Rivers	4.903	6.921	1	
 Maitama Roundabout	Municipal Area Council	FCT Abuja	9.084	7.492	1	
 Rock Road	Kaduna North	Kaduna	10.569	7.458	1	
-Rock Road	Kaduna North	Kaduna	10.550	7.457	1	
 Katsina Roundabout	Kaduna North	Kaduna	10.512	7.431	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.062	6.451	1	
 Old Bodija Roundabout	Ibadan North	Oyo	7.418	3.902	1	
-Rosie Marie Intl School	Oredo	Edo	6.351	5.615	0	
-St. Robina Hospitle	Oredo	Edo	6.308	5.618	0	
 James Robertson Street	Surulere	Lagos	6.504	3.354	1	
 Rotimi Williams Avenue	Ibadan North	Oyo	7.419	3.904	1	
 Royalty Road	Eti Osa	Lagos	6.448	3.552	1	
@@ -182,7 +143,6 @@ Yabuku Roundabout	Bauchi	Bauchi	10.309	9.844	1
 Ilellah Shopping Complex Roundabout	Bauchi	Bauchi	10.306	9.829	1	
 Bauchi Central Roundabout	Bauchi	Bauchi	10.314	9.847	1	
 Railway Roundabout	Bauchi	Bauchi	10.293	9.847	1	
-Royal Height Comprehensive College	Egor	Edo	6.364	5.630	0	
 Prime Rose Lane	Eti Osa	Lagos	6.492	3.609	1	
 South Point Roya Lanel	Oredo	Edo	6.323	5.613	1	
 Royal Close	Oredo	Edo	6.333	5.617	1	
@@ -212,23 +172,19 @@ Green Roof Estate Road	Enugu North	Enugu	6.472	7.482	1
 18 Rooms Street	Enugu North	Enugu	6.482	7.478	1	
 Rob Ogbajs Drive	Enugu East	Enugu	6.487	7.587	1	
 Roma Chukwu Street	Enugu South	Enugu	6.392	7.493	1	
-Roma Chukwu Street	Enugu South	Enugu	6.397	7.490	1	
 Rose Nwaokporo Street	Enugu East	Enugu	6.477	7.485	1	
 Upper North 5th Road18	Enugu East	Enugu	6.484	7.491	1	
 Dangi Roundabout	Tarauni	Kano	11.979	8.540	1	
 Robison Street	Enugu South	Enugu	6.424	7.495	1	
 Doctor Roland Street	Oshodi/Isolo	Lagos	6.502	3.294	1	
 Muritala Muhammed Round About	Ungongo	Kano	11.971	8.431	1	
-Romo Health Post	Bagwai	Kano	12.073	8.170	0	
-Roba Health Post	Dawakin Tofa	Kano	12.235	8.480	0	
-Romi Health Post	Dawakin Tofa	Kano	12.126	8.368	0	
 The Rock Drive	Eti Osa	Lagos	6.440	3.474	1	
 Romay Road	Eti Osa	Lagos	6.433	3.490	1	
 Royal Palm Court	Eti Osa	Lagos	6.502	3.613	1	
 Route Calabar - Ikom	Etung	Cross River	5.722	8.901	1	
 Osun State Government Secretariat Round About	Ede North	Osun	7.733	4.515	1	
 Dogon Yaro Roundabout	Bauchi	Bauchi	10.302	9.808	1	
-SAVANA ROUND ABOUT	Markurdi	Benue	7.725	8.536	1	
+Savana Round About	Markurdi	Benue	7.725	8.536	1	
 Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.957	6.768	1	
 Kuchiako Roundabout	Municipal Area Council	FCT Abuja	8.874	7.252	1	
 Rotimi Abikoye Street	Lagelu	Oyo	7.438	3.962	1	
@@ -258,7 +214,6 @@ Route Eyumodjock - Ekok	Etung	Cross River	5.807	8.854	1
 Banana Island Roundabout	Eti Osa	Lagos	6.463	3.451	1	
 Banana Island Roundabout	Eti Osa	Lagos	6.466	3.453	1	
 Roberts Street	Nganzai	Borno	12.576	13.326	1	
-Royal Palm Drive	Eti Osa	Lagos	6.460	3.409	1	
 Hon. Yaya Dosunmu Way Roundabout	Eti Osa	Lagos	6.453	3.509	1	
 Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.058	6.670	1	
 Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.978	6.748	1	
@@ -267,63 +222,152 @@ Alexander Roundabout	Eti Osa	Lagos	6.449	3.449	1
 Oke Rowo Street	Idanre	Ondo	7.145	5.107	1	
 Uncle Roy Close	Uvwie	Delta	5.564	5.775	1	
 Enuwa Roundabout	Ife Central	Osun	7.484	4.562	1	
-The Rock Montessori School	Eti Osa	Lagos	6.440	3.472	0	
 Round About	Ise/Orun	Ekiti	7.465	5.423	1	
 Kaiama-opokuma route ext	Kolokuma/Opokuma	Bayelsa	5.036	6.251	1	
-Rochas Foundation College, Jos	Jos North	Plateau	9.878	8.878	0	
 Ajose Adeogun Roundabout	Eti Osa	Lagos	6.431	3.431	1	
 Oron Road / Nwaniba Roundabout	Uyo	Akwa Ibom	5.033	7.931	1	
 Femi Rotilu Street	Ìkòròdú	Lagos	6.634	3.505	1	
-Robison Street	Enugu South	Enugu	6.422	7.491	1	
 Olamiju Rotimi Street	Eti Osa	Lagos	6.508	3.599	1	
 Alhaji Ronke Aiku Street	Eti Osa	Lagos	6.502	3.586	1	
 Lekki Toll - Alternative Route	Eti Osa	Lagos	6.448	3.546	1	
-Lekki Toll - Alternative Route	Eti Osa	Lagos	6.452	3.541	1	
 Yelwa Roundabout	Bauchi	Bauchi	10.290	9.803	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.645	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.643	1	
 Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.514	1	
 Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.064	6.526	1	
-Roselec School	Ideato North	Imo	5.904	7.126	0	
 Route Eyumodjock - Ekok	Etung	Cross River	5.819	8.874	1	
 Robert Lilly Street	Obio/Akpor	Rivers	4.857	6.992	1	
-Kafin Romi Dispensary	Gamawa	Bauchi	12.054	10.506	0	
-Royal Specialist Hospital	Jere	Borno	11.791	13.172	0	
 Kpopie Roundabout - Bonny-Bodo Road	Gokana	Rivers	4.694	7.303	1	
 Tombia Roundabout- Berger Junction	Yenegoa	Bayelsa	4.926	6.318	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.964	6.368	1	
 Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.966	6.368	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.978	6.369	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.446	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.066	6.443	1	
 Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.054	6.433	1	
 Route Akanliko - Ngale	Obanliku	Cross River	6.465	9.455	1	
 Route Akanliko - Ngale	Obanliku	Cross River	6.439	9.469	1	
-Route Akanliko - Ngale	Obanliku	Cross River	6.450	9.463	1	
-Route Eyumodjock - Ekok	Etung	Cross River	5.814	8.857	1	
-Route Eyumodjock - Ekok	Etung	Cross River	5.815	8.859	1	
-Graccy Royalfield Schools	Kosofe	Lagos	6.580	3.414	0	
-Holy Rosary Hospital, Emekuku	Owerri North	Imo	5.468	7.110	0	
 Royal Pine (Gate 3)	Eti Osa	Lagos	6.437	3.547	1	
-Robinson Plaza Warri	Warri South	Delta	5.526	5.762	0	
 Iyamoyong Roundabout	Obubra	Cross River	5.965	8.352	1	
 Roads	Akko	Gombe	10.311	11.186	1	
 Main Campus Entrance Route	Ovia North-East	Edo	6.742	5.407	1	
 roads	Jos North	Plateau	9.972	8.857	1	
-class rooms	Langtang North	Plateau	9.187	9.878	0	
-Robinson Close	Enugu South	Enugu	6.424	7.496	1	
 Main Campus Exit Route	Ovia North-East	Edo	6.742	5.406	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.044	6.411	1	
 Bayo Rotilu Street	Ìkòròdú	Lagos	6.634	3.505	1	
 Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.062	6.599	1	
 Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.059	6.576	1	
+South Point Royal School	Oredo	Edo	6.323	5.613	0	
+Royal Foundation School	Oredo	Edo	6.313	5.608	0	
+Autie Rose Foundation Group of Schools	Oredo	Edo	6.342	5.603	0	
+Royal Kiddies Academy	Oredo	Edo	6.345	5.608	0	
+Rokibet Nursery and Primary School	Oredo	Edo	6.343	5.604	0	
+Holy Rosary College Uwani, Enugu	Enugu North	Enugu	6.429	7.495	0	
+Rockland International	Enugu North	Enugu	6.443	7.510	0	
+Rogo General Hospital	Rogo	Kano	11.553	7.831	0	
+Tsohuwar Rogo Health Post	Rogo	Kano	11.575	7.800	0	
+Royal Immaculate Hospital	Ibadan South East	Oyo	7.365	3.920	0	
+Rojafia Clinic	Kosofe	Lagos	6.593	3.397	0	
+Royal Heritage School	Uvwie	Delta	5.544	5.779	0	
+Rojoe Academy	Uvwie	Delta	5.568	5.773	0	
+Royal Springfield Intl. School	Uvwie	Delta	5.540	5.760	0	
+Rolu Group of Schools	Warri South	Delta	5.533	5.751	0	
+Roof Computer Academy	Warri South	Delta	5.531	5.745	0	
+Royal Exams Preparatory Class	Warri South	Delta	5.532	5.757	0	
+Royal Day Care	Warri South	Delta	5.529	5.754	0	
+Robor Energy Filling Station	Ughelli North	Delta	5.495	6.015	0	
+Royal Step International School	Obio/Akpor	Rivers	4.856	6.972	0	
+Rock Canaan bus stop	Ado Odo/Ota	Ogun	6.731	3.269	0	
+Rock Canaan	Ado Odo/Ota	Ogun	6.731	3.269	0	CCC ROCK CANAAN
+Romkol Global	Ido	Oyo	7.447	3.876	0	
+Faculty Rooms	Gombe	Gombe	10.306	11.174	0	
+PEN RESOURCE ACADEMY (boarding sch)& ROBOTICS CENTER	Akko	Gombe	10.290	11.053	0	
+St. Mary's Roman Catholic Mission School I, Ifo	Ifo	Ogun	6.812	3.197	0	
+Primary Health Care Romon Sarki	Tambuwal	Sokoto	12.229	4.602	0	
+st. peter's roman catholic mission primary school sch i ota	Ado Odo/Ota	Ogun	6.691	3.236	0	
+african church primary school, igbore robiyan	Ifo	Ogun	6.747	3.293	0	
+St. Peter'S Roman Catholic Mission Primary School Sch Ii Ota	Ado Odo/Ota	Ogun	6.610	3.118	0	
+Roman Catholic Mission Primary School, Agbari	Ado Odo/Ota	Ogun	6.635	3.112	0	
+Roman Catholic Mission Primary School, Itire	Ojo	Lagos	6.517	3.199	0	
+St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Shagamu	Ogun	6.851	3.650	0	
+Roman Catholic Mission Primary School, Isalu	Ado Odo/Ota	Ogun	6.657	3.091	0	
+St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ifo	Ogun	6.683	3.321	0	
+St. Mary'S Roman Catholic Mission School Ii, Ifo	Ifo	Ogun	6.649	3.370	0	
+St. Mary'S Roman Catholic Mission School I, Ifo	Shagamu	Ogun	6.773	3.494	0	
+St. Mary'S Roman Catholic Mission School Ii, Ifo	Ifo	Ogun	6.816	3.208	0	
+St. Peter'S Roman Catholic Mission Primary School Sch Ii Ota	Ado Odo/Ota	Ogun	6.690	3.238	0	
+Roman Catholic Mission Primary School, Isalu	Ado Odo/Ota	Ogun	6.644	2.942	0	
+Roman Catholic Mission Primary School, Agbari	Ado Odo/Ota	Ogun	6.594	2.935	0	
+St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ado Odo/Ota	Ogun	6.583	3.024	0	
+St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
+Roman Catholic Mission Primary School, Ikoga Ile	Ado Odo/Ota	Ogun	6.542	2.965	0	
+Roman Catholic Mission Primary School, Itire	Ado Odo/Ota	Ogun	6.527	2.927	0	
+St. Thomas Roman Catholic Mission Primary Schoo Idimu	Ado Odo/Ota	Ogun	6.596	3.165	0	
+St. Joseph Roman Catholic Mission Primary  School 1 Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
+St. Mary's Roman Catholic Mission School III, Ifo	Ifo	Ogun	6.813	3.197	0	
+Royal Hospital	Enugu North	Enugu	6.443	7.482	0	
+Romee Eye Clinic	Warri South	Delta	5.531	5.740	0	
+Roban Stores	Ebonyi	Ebonyi	6.337	8.093	0	
+El-Roi Inland Missions Hospital	Jos North	Plateau	9.939	8.880	0	
+Royal Step Academy	Municipal Area Council	FCT Abuja	9.019	7.421	0	
+Rosy Premium Success Academy Nursery and Primary School Kuchigoro	Municipal Area Council	FCT Abuja	9.018	7.420	0	
+Royal Health Care Galadimawa	Municipal Area Council	FCT Abuja	8.992	7.427	0	
+Christ The Rock Of Ages International School	Eti Osa	Lagos	6.471	3.629	0	
+Dr. abubakar abdullahi Baba  jolly phonics resources room	Gombe	Gombe	10.307	11.167	0	
+class Room 1A	Gombe	Gombe	10.307	11.167	0	
+Geography Department Room 4	Gombe	Gombe	10.305	11.176	0	
+Geography Department Room 3	Gombe	Gombe	10.305	11.176	0	
+mosque male and female rest roo	Gombe	Gombe	10.306	11.175	0	
+ETF-CERC GOMBE Admin block comprence room 2	Gombe	Gombe	10.303	11.160	0	
+Royal Heritage Academy	Jos North	Plateau	9.936	8.917	0	
+Rest Room	Gombe	Gombe	10.305	11.175	0	
+male Rest Room	Gombe	Gombe	10.306	11.175	0	
+Es 5 Junction Road By Station Roundabout Kaduna	Kaduna South	Kaduna	10.497	7.419	0	
+Phc Makera Main Roadkakuri Kaduna	Kaduna South	Kaduna	10.468	7.412	0	
+Gimo Maternity Buba Sauri Road Romi	Kaduna North	Kaduna	10.532	7.424	0	
+Governor One Hospital No3 Dokaji Street Romi	Chikun	Kaduna	10.439	7.420	0	
+Hospitals Zci Rock Road Tudun Nupawa	Kaduna South	Kaduna	10.517	7.415	0	
+Rophe Clinic	Ado Odo/Ota	Ogun	6.506	3.089	0	
+Rock Of Ages Hospital	Ado Odo/Ota	Ogun	6.530	3.077	0	
+Royal Salvation Hospital	Alimosho	Lagos	6.591	3.307	0	
+B Rock Convalescent And Maternity Home	Alimosho	Lagos	6.550	3.260	0	
+Royal Jubille Hospital	Alimosho	Lagos	6.538	3.245	0	
+Roland Orthopedic Hospital	Alimosho	Lagos	6.533	3.237	0	
+Rosanna Clinic	Mushin	Lagos	6.557	3.362	0	
+Holy Rosary Medical Center	Amuwo Odofin	Lagos	6.467	3.285	0	
+Royal Oak Hospital	Amuwo Odofin	Lagos	6.466	3.293	0	
+Royal Steps Academy	Jos North	Plateau	9.894	8.886	0	
+Baptist Royal Academy	Bauchi	Bauchi	10.319	9.831	0	
+Royal Academy	Ungongo	Kano	12.037	8.565	0	
+Royal Academy	Ungongo	Kano	12.036	8.564	0	
+Royal	Ungongo	Kano	12.037	8.564	0	
+Amatulrahman Royal Int' School Kano	Gwale	Kano	11.964	8.468	0	
+Salldans Royal Academy	Gwale	Kano	11.960	8.477	0	
+Saldans Royal Academy	Gwale	Kano	11.961	8.478	0	
+Amatulrahaman Royal Intnl Schools	Gwale	Kano	11.961	8.469	0	
+Royal Child	Gwale	Kano	11.967	8.469	0	
+Solid Rock view Private School	Jos North	Plateau	9.929	8.909	0	
+AED lecture Room (Hall A, Hall B2. Hall B3, Hall C2, Hall C3)	Kaduna North	Kaduna	10.612	7.440	0	
+Lecture room 191	Kaduna North	Kaduna	10.609	7.441	0	
+Lecture room 192	Kaduna North	Kaduna	10.609	7.441	0	
+Lecture room 193	Kaduna North	Kaduna	10.610	7.441	0	
+Lecture room 194	Kaduna North	Kaduna	10.610	7.441	0	
+Mechanical Lecture Room	Kaduna North	Kaduna	10.612	7.442	0	
+Royal Crescent Valley International School, Ilorin, Nigeria	Asa	Kwara	8.465	4.495	0	
+Offas Garage Roundabout, Oko Erin, Nigeria	Ilorin East	Kwara	8.453	4.581	0	
+Roemichs international school Ajase-Ipo Road, Offa Garage, Ilorin	Ilorin East	Kwara	8.459	4.576	0	
+Assumpta Roundabout	Owerri Municipal	Imo	5.489	7.020	0	
+slave route landing	Badagry	Lagos	6.411	2.884	0	
+2F3Q+3Cg Between Apo Roundabout And Nepa Junction	Municipal Area Council	FCT Abuja	9.003	7.489	0	
+Apo Roundabout Bus Stop	Municipal Area Council	FCT Abuja	9.013	7.491	0	
+Rocha'S Plaza Bus Stop	Municipal Area Council	FCT Abuja	9.061	7.467	0	
+Rosie Marie Intl School	Oredo	Edo	6.351	5.615	0	
+St. Robina Hospitle	Oredo	Edo	6.308	5.618	0	
+Royal Height Comprehensive College	Egor	Edo	6.364	5.630	0	
+Romo Health Post	Bagwai	Kano	12.073	8.170	0	
+Roba Health Post	Dawakin Tofa	Kano	12.235	8.480	0	
+Romi Health Post	Dawakin Tofa	Kano	12.126	8.368	0	
+The Rock Montessori School	Eti Osa	Lagos	6.440	3.472	0	
+Rochas Foundation College, Jos	Jos North	Plateau	9.878	8.878	0	
+Roselec School	Ideato North	Imo	5.904	7.126	0	
+Kafin Romi Dispensary	Gamawa	Bauchi	12.054	10.506	0	
+Royal Specialist Hospital	Jere	Borno	11.791	13.172	0	
+Graccy Royalfield Schools	Kosofe	Lagos	6.580	3.414	0	
+Holy Rosary Hospital, Emekuku	Owerri North	Imo	5.468	7.110	0	
+Robinson Plaza Warri	Warri South	Delta	5.526	5.762	0	
+class rooms	Langtang North	Plateau	9.187	9.878	0	
 Faculty of Science Lecture Rooms	Kaduna North	Kaduna	10.610	7.445	0	
-Roni	Roni	Jigawa	12.658	8.273	2	
-Romo Sarki	Tambuwal	Sokoto	12.191	4.637	2	
-Rogo Ruma	Rogo	Kano	11.568	7.800	2	
-Rogo Sabon Gari	Rogo	Kano	11.544	7.832	2	
-Romo	Bagwai	Kano	12.080	8.145	2	
-Roni	Roni	Jigawa	12.564	8.371	2	
-Rogo	Rogo	Kano	11.509	7.853	2	
-Rorau	Gwiwa	Jigawa	12.790	8.166	2	
-Rogogo	Zango	Katsina	12.925	8.542	2	
-Kafin Romi	Gamawa	Bauchi	12.088	10.463	2	

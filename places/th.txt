@@ -2,8 +2,6 @@ Thila	Hawul	Borno	10.442	12.555	2	Thlila
 Thlakwa	Hawul	Borno	10.542	12.192	2	Talkwa
 Thagwa	Biu	Borno	10.634	12.134	2	Logwa
 Klare Kuda	Biu	Borno	10.850	11.992	2	Thekuthla
-Harvesters Int'l Theological Seminary	Oredo	Edo	6.331	5.626	0	
-St. Theresa Primary School Amainyi	Obowo	Imo	5.583	7.389	0	
 Thethangala	Biu	Borno	10.883	12.199	2	
 Thada	Shani	Borno	10.239	11.924	2	
 Thanwuyo	Shani	Borno	10.297	11.906	2	
@@ -22,6 +20,72 @@ Thyakugu	Hawul	Borno	10.534	12.095	2
 Thye Kida	Hawul	Borno	10.582	12.026	2	
 Kogu Thlar	Biu	Borno	10.577	12.368	2	
 Thiayadikir	Biu	Borno	10.691	12.043	2	
+Thinkers Corner	Enugu East	Enugu	6.471	7.527	2	
+Thinkers Corner	Enugu North	Enugu	6.459	7.520	2	
+Thlila	Hawul	Borno	10.442	12.553	2	
+Thlahuya	Hong	Adamawa	10.423	12.886	2	
+Thabu	Hong	Adamawa	10.214	12.943	2	
+Ntara Three	Ogoja	Cross River	6.432	8.609	2	Ntara
+Bukar Thlawur	Askira-Uba	Borno	10.645	12.885	2	
+Barakin Kuru Three	Jos South	Plateau	9.692	8.872	2	Barakin Kuru|Barakin Kuru III
+Thaltsila II	Madagali	Adamawa	10.899	13.455	2	
+Thaltsila I	Gwoza	Borno	10.924	13.461	2	
+Theophiluskiri	Brass	Bayelsa	4.324	6.528	2	
+Thali	Hawul	Borno	10.479	12.220	2	
+Orimedu Three	Ibeju Lekki	Lagos	6.454	3.805	2	Orimedu III Ward
+One Thousand Four Aboyade	Eti Osa	Lagos	6.437	3.432	2	1004 Aboyade Ward
+Thomas Sankara	Municipal Area Council	FCT Abuja	9.043	7.526	1	
+Rabiatu Thompson Cresent	Surulere	Lagos	6.501	3.359	1	
+Bode Thomas Street	Mushin	Lagos	6.535	3.367	1	
+Ade Thianni Street	Surulere	Lagos	6.498	3.356	1	
+Molade Okoya-Thomas Street	Eti Osa	Lagos	6.430	3.432	1	
+Thomas Laniyan Street	Kosofe	Lagos	6.564	3.368	1	
+Thaba Tseka Street	Municipal Area Council	FCT Abuja	9.076	7.484	1	
+Third Axial Road	Kosofe	Lagos	6.585	3.389	1	
+Thomas Street	Surulere	Lagos	6.484	3.377	1	
+Thomas Street	Lagos Island	Lagos	6.459	3.397	1	
+Third Mainland Bridge	Lagos Mainland	Lagos	6.486	3.395	1	
+Third Axial Road	Lagos Island	Lagos	6.463	3.394	1	
+Thomas Animashaun Street	Surulere	Lagos	6.487	3.337	1	
+Adewale Thompson Street	Ibadan North West	Oyo	7.401	3.857	1	
+Thompson Roundabout	Eti Osa	Lagos	6.448	3.432	1	
+Thompson Avenue	Eti Osa	Lagos	6.454	3.434	1	
+Bode Thomas Street	Surulere	Lagos	6.489	3.363	1	
+Third Axial Road	Kosofe	Lagos	6.574	3.397	1	
+Thomas Salako Street	Ifako/Ijaye	Lagos	6.635	3.339	1	
+Theophilus Oji Street	Eti Osa	Lagos	6.441	3.465	1	
+Thames Street	Municipal Area Council	FCT Abuja	9.097	7.479	1	
+Akinyemi Thompson Street	Mushin	Lagos	6.512	3.345	1	
+Thani-Olodo Street	Mushin	Lagos	6.521	3.367	1	
+Thorborn Avenue	Lagos Mainland	Lagos	6.508	3.375	1	
+Dapo Bode-Thomas Street	Lagos Mainland	Lagos	6.508	3.374	1	
+Olabunmi Thomas Street	Alimosho	Lagos	6.654	3.292	1	
+Thomas Babatunde Drive	Agege	Lagos	6.645	3.308	1	
+St. Theresa Close	Uvwie	Delta	5.561	5.771	1	
+Thomas Ejele Close	Oredo	Edo	6.331	5.605	1	
+Theresa Akabogu Street	Enugu South	Enugu	6.425	7.533	1	
+St. Thomas Street	Enugu North	Enugu	6.446	7.505	1	
+BUK Third Gate	Gwale	Kano	11.975	8.468	1	
+bypass residential road through Angwan soya Jos	Jos North	Plateau	9.932	8.873	1	
+Thomas Okonkwo Close	Enugu South	Enugu	6.417	7.516	1	
+Thonade Close	Ikeja	Lagos	6.640	3.343	1	
+Thistle Street	Eti Osa	Lagos	6.460	3.523	1	
+Etelebou through Tombia-Amassoma Rd	Kolokuma/Opokuma	Bayelsa	4.980	6.185	1	
+Thomas Ajufo Street	Ikeja	Lagos	6.587	3.364	1	
+Taju Thompson Street	Mushin	Lagos	6.514	3.353	1	
+Thomas Street	Eti Osa	Lagos	6.470	3.567	1	
+Chief Tunde Thompson Close	Eti Osa	Lagos	6.474	3.576	1	
+Thomas Ekun Street	Alimosho	Lagos	6.671	3.265	1	
+Third Avenue	Ado Odo/Ota	Ogun	6.692	3.279	1	
+Aduke Thomas Street	Oshodi/Isolo	Lagos	6.555	3.339	1	
+third st	Kumbotso	Kano	11.957	8.591	1	
+Ekweani Close	Enugu South	Enugu	6.416	7.515	1	Thomas Okonkwo Close
+Sir Theophilus Okonkwo Way	Eti Osa	Lagos	6.441	3.501	1	
+St. Thereasa Road	Enugu South	Enugu	6.421	7.452	1	
+Thomas Bamidele Close	Eti Osa	Lagos	6.471	3.580	1	
+Prof. Thomas Commander Street	Yenegoa	Bayelsa	4.873	6.213	1	
+Harvesters Int'l Theological Seminary	Oredo	Edo	6.331	5.626	0	
+St. Theresa Primary School Amainyi	Obowo	Imo	5.583	7.389	0	
 Larger Than Dev. Foundation	Yenegoa	Bayelsa	4.937	6.322	0	
 St. Theresa 's Group of Schools	Udu	Delta	5.508	5.831	0	
 Baptist College of Theology	Owerri West	Imo	5.417	6.948	0	
@@ -37,72 +101,14 @@ Three Primary Health Care	Kaduna South	Kaduna	10.456	7.413	0
 Theck Maternity Home	Kaduna South	Kaduna	10.446	7.428	0	
 St Theresa Primary	Ise/Orun	Ekiti	7.465	5.419	0	
 Thomas Kent Academy	Bauchi	Bauchi	10.266	9.796	0	
-Thinkers Corner	Enugu East	Enugu	6.471	7.527	2	
 Theatre Art Department	Ovia North-East	Edo	6.741	5.406	0	
 ibeshe/thesaurus ferry terminal	Ìkòròdú	Lagos	6.552	3.473	0	
 Boja Arts Theatre	Ede South	Osun	7.682	4.457	0	
-Thomas Sankara	Municipal Area Council	FCT Abuja	9.043	7.526	1	
-Rabiatu Thompson Cresent	Surulere	Lagos	6.501	3.359	1	
-Bode Thomas Street	Mushin	Lagos	6.535	3.367	1	
-Ade Thianni Street	Surulere	Lagos	6.498	3.356	1	
-Molade Okoya-Thomas Street	Eti Osa	Lagos	6.430	3.432	1	
-Thomas Laniyan Street	Kosofe	Lagos	6.564	3.368	1	
-Thaba Tseka Street	Municipal Area Council	FCT Abuja	9.076	7.484	1	
-Third Axial Road	Kosofe	Lagos	6.585	3.389	1	
-Thomas Street	Surulere	Lagos	6.484	3.377	1	
-Thomas Street	Lagos Island	Lagos	6.459	3.397	1	
-Third Mainland Bridge	Lagos Mainland	Lagos	6.486	3.395	1	
-Third Axial Road	Lagos Island	Lagos	6.463	3.394	1	
-Third Axial Road	Lagos Island	Lagos	6.462	3.395	1	
-Thomas Animashaun Street	Surulere	Lagos	6.487	3.337	1	
-Adewale Thompson Street	Ibadan North West	Oyo	7.401	3.857	1	
-Thompson Roundabout	Eti Osa	Lagos	6.448	3.432	1	
-Thompson Avenue	Eti Osa	Lagos	6.454	3.434	1	
-Bode Thomas Street	Surulere	Lagos	6.489	3.363	1	
-Third Axial Road	Kosofe	Lagos	6.574	3.397	1	
-Third Axial Road	Kosofe	Lagos	6.556	3.397	1	
-Thomas Salako Street	Ifako/Ijaye	Lagos	6.635	3.339	1	
-Theophilus Oji Street	Eti Osa	Lagos	6.441	3.465	1	
-Thames Street	Municipal Area Council	FCT Abuja	9.097	7.479	1	
-Akinyemi Thompson Street	Mushin	Lagos	6.512	3.345	1	
-Thani-Olodo Street	Mushin	Lagos	6.521	3.367	1	
-Thorborn Avenue	Lagos Mainland	Lagos	6.508	3.375	1	
-Dapo Bode-Thomas Street	Lagos Mainland	Lagos	6.508	3.374	1	
-Olabunmi Thomas Street	Alimosho	Lagos	6.654	3.292	1	
-Thomas Babatunde Drive	Agege	Lagos	6.645	3.308	1	
-St. Theresa Close	Uvwie	Delta	5.561	5.771	1	
-Third Axial Road	Kosofe	Lagos	6.578	3.396	1	
 Baptist College Of Theology	Oredo	Edo	6.349	5.611	0	
-Thomas Ejele Close	Oredo	Edo	6.331	5.605	1	
-Theresa Akabogu Street	Enugu South	Enugu	6.425	7.533	1	
-St. Thomas Street	Enugu North	Enugu	6.446	7.505	1	
-BUK Third Gate	Gwale	Kano	11.975	8.468	1	
-bypass residential road through Angwan soya Jos	Jos North	Plateau	9.932	8.873	1	
-bypass residential road through Angwan soya Jos	Jos North	Plateau	9.935	8.876	1	
-Thinkers Corner	Enugu North	Enugu	6.459	7.520	2	
-Thomas Okonkwo Close	Enugu South	Enugu	6.417	7.516	1	
-Thonade Close	Ikeja	Lagos	6.640	3.343	1	
-Bode Thomas Street	Surulere	Lagos	6.490	3.354	1	
 Thinade Maternity	Katagum	Bauchi	11.667	10.200	0	
-Thistle Street	Eti Osa	Lagos	6.460	3.523	1	
-Etelebou through Tombia-Amassoma Rd	Kolokuma/Opokuma	Bayelsa	4.980	6.185	1	
-Thomas Ajufo Street	Ikeja	Lagos	6.587	3.364	1	
-Taju Thompson Street	Mushin	Lagos	6.514	3.353	1	
-Thomas Street	Eti Osa	Lagos	6.470	3.567	1	
-Chief Tunde Thompson Close	Eti Osa	Lagos	6.474	3.576	1	
-Thomas Ekun Street	Alimosho	Lagos	6.671	3.265	1	
-Third Avenue	Ado Odo/Ota	Ogun	6.692	3.279	1	
-Aduke Thomas Street	Oshodi/Isolo	Lagos	6.555	3.339	1	
-third st	Kumbotso	Kano	11.957	8.591	1	
-Ekweani Close	Enugu South	Enugu	6.416	7.515	1	Thomas Okonkwo Close
 College of Islamic Theology - Elkanemi	Maiduguri	Borno	11.832	13.113	0	
-Sir Theophilus Okonkwo Way	Eti Osa	Lagos	6.441	3.501	1	
-St. Thereasa Road	Enugu South	Enugu	6.421	7.452	1	
 Theatre, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
 Thai Primary Health Center	Demsa	Adamawa	9.512	12.168	0	
 Theble Primary Health Care	Guyuk	Adamawa	9.696	11.916	0	
-THEATRE	Isiala Mbano	Imo	5.679	7.240	0	
-Thomas Bamidele Close	Eti Osa	Lagos	6.471	3.580	1	
-Bode Thomas Street	Mushin	Lagos	6.537	3.367	1	
-Prof. Thomas Commander Street	Yenegoa	Bayelsa	4.873	6.213	1	
+Theatre	Isiala Mbano	Imo	5.679	7.240	0	
 Operating Theatre	Nnewi North	Anambra	5.997	6.880	0	

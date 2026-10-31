@@ -1,9 +1,21 @@
-AETD Hangar	Kaduna North	Kaduna	10.609	7.443	0	
-AED lecture Room (Hall A, Hall B2. Hall B3, Hall C2, Hall C3)	Kaduna North	Kaduna	10.612	7.440	0	
-Aersopace Engineering Department	Kaduna North	Kaduna	10.612	7.441	0	
+Aernan	Gboko	Benue	7.358	8.629	2	
+Aemberga	Kwande	Benue	6.623	9.582	2	
+Aernen	Gboko	Benue	7.383	9.032	2	
+Aekera	Buruku	Benue	7.496	9.143	2	
+Aernan	Buruku	Benue	7.379	9.164	2	
+Aese	Gboko	Benue	7.318	9.104	2	
+Aende	Ushongo	Benue	7.084	9.082	2	
+Aer	Vandeikya	Benue	7.026	9.104	2	
+Aende	Ushongo	Benue	7.052	9.208	2	
+Aer	Ushongo	Benue	7.106	9.376	2	
+Aerakaa	Kwande	Benue	7.006	9.380	2	
+Malam Aegi	Sardauna	Taraba	6.629	11.138	2	
 Aerodrone Close	Oredo	Edo	6.322	5.598	1	
 Aerodrome Road	Apapa	Lagos	6.441	3.373	1	
 Aeroplane Drive	Port-Harcourt	Rivers	4.792	7.040	1	
 AEPB Road	Municipal Area Council	FCT Abuja	9.047	7.486	1	
+AETD Hangar	Kaduna North	Kaduna	10.609	7.443	0	
+AED lecture Room (Hall A, Hall B2. Hall B3, Hall C2, Hall C3)	Kaduna North	Kaduna	10.612	7.440	0	
+Aersopace Engineering Department	Kaduna North	Kaduna	10.612	7.441	0	
 AED - Hall A, Hall B	Kaduna North	Kaduna	10.611	7.440	0	
 Aerotropolis (Aero City Awka 2.0)	Orumba North	Anambra	6.186	7.175	0	

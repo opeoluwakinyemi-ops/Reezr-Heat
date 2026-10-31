@@ -1,28 +1,50 @@
+Gella	Mubi South	Adamawa	10.157	13.300	3	Ouro Guela|Uro-Gela
 Dan Rak'oumî	Kantché	Katsina	13.216	8.272	2	
 Outchia	Gada	Sokoto	13.800	5.750	2	
 Gella	Mubi South	Adamawa	10.153	13.299	2	Ouro Guéla;Uro-Gela
 Bourrah Ouango	Mubi North	Adamawa	10.274	13.477	2	Bourrah-Wango;Bourha Wango;Bourrah Ouango;Bourrah Vango
 Ogbonbiri	Warri North	Delta	6.143	5.199	2	Auguanguili;Ouguanguili
 Bougha Ouango	Mubi North	Adamawa	10.274	13.477	2	
+Ouéssimi	Sardauna	Taraba	6.530	11.428	2	
 Oulan Sao	Kala-Balge	Borno	12.255	14.559	2	
 Oussé	Kala-Balge	Borno	12.259	14.552	2	
 N'Garoua Gana Oumaram	Diffa	Borno	13.386	12.758	2	
+Ouro Hamayel	Maiha	Adamawa	9.916	13.242	2	
+Bourha Ouango	Mubi North	Adamawa	10.270	13.475	2	Bourha Wango|Bourrah Ouango|Bourrah Vango|Bourrah-Wango
+Outar	Ogbia	Bayelsa	4.705	6.279	2	
+Oula	Michika	Adamawa	10.612	13.559	2	
+Ougul	Ingawa	Katsina	12.697	8.036	2	
+Ahoada West	Ahoada West	Rivers	5.086	6.471	2	Agbegbe Ijoba Ibile Iwoorun Ahoada|Ahoada Oeste|Ahoada Ouest|Ahoada ta Yamma|Se Ahoada|ghrb ahwada
+Anambra West	Anambra West	Anambra	6.359	6.750	2	Agbegbe Ijoba Ibile Iwoorun Anambra|Anambra Ouest|Anambra ta Yamma|Anambra-Oeste|Se Anambra|anambra ghrby
+Ethiope West	Ethiope West	Delta	5.920	5.729	2	Ethiope Ouest|Ethiope ta Yamma|Se Ethiope|merku ettiyoppiyan
+Ndokwa West	Ndokwa West	Delta	5.773	6.392	2	Ndokwa Ouest|Ndokwa ta Yamma|Se Ndokwa
+Oru West	Oru West	Imo	5.742	6.911	2	Agbegbe Ijoba Ibile Iwoorun Oru|Oru Oeste|Oru Ouest|Oru ta Yamma|Se Oru
+Owerri West	Owerri West	Imo	5.432	6.980	2	Agbegbe Ijoba Ibile Iwoorun Owerri|Owerri Ouest|Owerri ta Yamma|Se Owerri|owerri west|xioueri
+Yagba West	Yagba West	Kogi	8.296	5.527	2	Se Yagba|Yagba Oeste|Yagba Ouest|Yagba ta Yamma
+Saki West	Saki West	Oyo	8.570	3.147	2	Iwooorun Saki|Saki Ouest|Saki ta Yamma|Se Saki
+Ukwa West	Ukwa West	Abia	4.954	7.239	2	Agbegbe Ijoba Ibile Iwoorun Ukwa|Se Ukwa|Ukwa Ouest|Ukwa ta Yamma|Zakhidna Ukva
+Ovia South-West	Ovia South-West	Edo	6.396	5.272	2	Ovia South West|Ovia Sud Ouest|Ovia ta Kudu maso Yamma|Se-lam Ovia
+Ekiti West	Ekiti West	Ekiti	7.687	5.028	2	Agbegbe Ijoba Ibile Iwoorun Ekiti|Ekiti Ouest|Ekiti West Local Government Area|Ekiti ta Yamma|Se Ekiti
+Ekiti South-West	Ekiti South-West	Ekiti	7.513	5.052	2	Agbegbe Ijoba Ibile Guusu-Iwoorun Ekiti|Ekiti South West|Ekiti South West Local Government Area|Ekiti Sud Ouest|Ekiti Su
+Ondo West	Ondo West	Ondo	7.016	4.746	2	Ondo Ouest|Ondo West Local Government Area|Ondo ta Yamma|Se Ondo
+Esan West	Esan West	Edo	6.662	6.129	2	Esan Ouest|Esan West Local Government Area|Esan ta Yamma|Se Esan
+Ouleke	Michika	Adamawa	10.555	13.573	2	
+Ouso	Takum	Taraba	7.601	9.939	2	
+Ouagadougou Street	Municipal Area Council	FCT Abuja	9.058	7.461	1	
+Our Lord’s Street	Chikun	Kaduna	10.413	7.411	1	
 Our Lady High School	Uvwie	Delta	5.547	5.779	0	
 our savior anglican primary school, italowayode	Ìjẹ̀bú Òde	Ogun	6.825	3.910	0	
 Our Savior /Mary Primary School, Odokwu	Ado Odo/Ota	Ogun	6.613	3.228	0	
 Our Lady Of Apostle Primary School, Epe Garage	Shagamu	Ogun	6.847	3.636	0	
 Our Savior /Mary Primary School, Odokwu	Ìjẹ̀bú Òde	Ogun	6.734	3.982	0	
 Our Lady of Apostles, Epe Garage	Ìjẹ̀bú Òde	Ogun	6.813	3.929	0	
-Ouro Hamayel	Maiha	Adamawa	9.916	13.242	2	
 Our Lady's Nur/Pri School	Bauchi	Bauchi	10.320	9.833	0	
 Outreach Medical Service	Amuwo Odofin	Lagos	6.421	3.245	0	
 Outreach Specialist Hospital	Amuwo Odofin	Lagos	6.451	3.256	0	
-Ouagadougou Street	Municipal Area Council	FCT Abuja	9.058	7.461	1	
-Our Lord’s Street	Chikun	Kaduna	10.413	7.411	1	
 Our Lady's Health of the Sick Hospital	Port-Harcourt	Rivers	4.801	7.019	0	
 Our Lady of Fatima Hospital	Osogbo	Osun	7.769	4.549	0	
 Natasha Outpost Clinic	Guyuk	Adamawa	9.700	11.885	0	
-OUT-GOING PATIENT        DEPARTMENT	Isiala Mbano	Imo	5.679	7.240	0	
+Out-Going Patient        Department	Isiala Mbano	Imo	5.679	7.240	0	
 Our Saviour's Hospital	Port-Harcourt	Rivers	4.758	7.032	0	
 Medical Out-Patient Clinic	Nnewi North	Anambra	5.999	6.880	0	
 Surgical Out-Patient Clinic	Nnewi North	Anambra	5.999	6.881	0	

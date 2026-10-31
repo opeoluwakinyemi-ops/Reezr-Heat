@@ -1,11 +1,30 @@
 Ìbàdàn	Ibadan South West	Oyo	7.378	3.897	3	Ibadan
-Old Ibadan Airport	Ibadan North	Oyo	7.432	3.909	0	
 Ibafo	Obafemi Owode	Ogun	6.742	3.422	3	Bafo
-Ibon	Epe	Lagos	6.546	3.739	2	
 Ikot Ibritam	Oruk Anam	Akwa Ibom	4.809	7.616	3	
+Ibili	Magama	Niger	10.547	5.321	3	
+Ibrahim Baidu	Kwaya Kusar	Borno	10.504	11.843	3	Kwaya
+Ibeto	Magama	Niger	10.491	5.145	3	
+Ibiade	Ogun Waterside	Ogun	6.540	4.333	3	Ibiyade
+Iba	Odo Otin	Osun	7.968	4.703	3	
+Ibi	Ibi	Taraba	8.182	9.747	3	
+Ibusa	Oshimili North	Delta	6.176	6.624	3	
+Awdan Ibola	Ipokia	Ogun	6.779	2.790	3	
+Agoi Ibami	Yakurr	Cross River	5.724	8.176	3	Agoi Ibani
+Ibillo	Akoko-Edo	Edo	7.437	6.077	3	
+Qua Iboe	Ibeno	Akwa Ibom	4.545	7.995	3	Kwa Ibo
+Iboko	Izzi	Ebonyi	6.405	8.227	3	
+Ibiaku Ntok Okpo	Ikono	Akwa Ibom	5.297	7.711	3	
+Ibiasogbe	Oru East	Imo	5.782	6.907	3	
+Ibido, omu ijebu	Odogbolu	Ogun	6.711	3.868	3	
+Ibeju-Lekki	Ibeju Lekki	Lagos	6.471	3.808	3	
+Ibokun	Obokun	Osun	7.787	4.730	3	
+Ibagwa-Aka	Igbo-Eze-South	Enugu	6.919	7.399	3	Abagwa Aka|Ibegwa-Aka
+Bode Osi	Ola Oluwa	Osun	7.749	4.228	3	Bode-Olla|Bode-Olle|Ibede-Osi|Ibode-Osi
+Iba	Ojo	Lagos	6.512	3.200	2	
+Ibon	Epe	Lagos	6.546	3.739	2	
+Gidan Ibrahim	Kurmi	Taraba	7.067	10.667	2	Ibrahim
 Ibong Uruk	Obot Akara	Akwa Ibom	5.267	7.567	2	Ibong
 Ibokun	Obokun	Osun	7.783	4.717	2	
-Ibili	Magama	Niger	10.547	5.321	3	
 Ibogun Sowunmi	Ifo	Ogun	6.817	3.100	2	Igbogun-Sowunmi
 Ibughubu	Aguata	Anambra	5.933	7.150	2	
 Obelle	Ahoada East	Rivers	4.920	6.673	2	Obelle;Obele-Ibaa
@@ -15,13 +34,11 @@ Ibaa	Emuoha	Rivers	4.968	6.816	2	Iba;Ibaa;Ibe
 Ibeju	Ibeju Lekki	Lagos	6.485	3.888	2	
 Igbogun	Adó-Èkìtì	Ekiti	7.653	5.328	2	Ibogun
 Ibie Nale	Etsako West	Edo	7.055	6.304	2	
-Ibrahim Baidu	Kwaya Kusar	Borno	10.504	11.843	3	Kwaya
 Ibeku Alase	Yewa North	Ogun	7.017	2.801	2	
 Libadan	Hawul	Borno	10.386	12.087	2	Ibadan
 Igbekhue	Orhionmwon	Edo	6.151	5.899	2	Ibekwe
 Ibila	Ilaje	Ondo	6.288	4.825	2	Ibilla
 Ibong	Abak	Akwa Ibom	5.100	7.783	2	Ibon
-Ibeto	Magama	Niger	10.491	5.145	3	
 Gidan Ibrahim	Sabon Gari	Kaduna	11.168	7.784	2	
 Agbara-Ibo	Abi	Cross River	5.986	8.021	2	
 Ibie Iyakpe	Etsako West	Edo	7.052	6.287	2	
@@ -36,7 +53,6 @@ Iba Ole	Oyo West	Oyo	7.872	3.732	2
 Ibefon	Odogbolu	Ogun	6.711	3.796	2	
 Igbini Ogele	Irele	Ondo	6.483	4.967	2	Ibini Ogele;Igbini Ogele
 Ubima	Ikwerre	Rivers	5.121	6.903	2	Ibima
-Ibiade	Ogun Waterside	Ogun	6.540	4.333	3	Ibiyade
 Ibada	Sapele	Delta	5.776	5.736	2	Ebada
 Ibenta Ezza	Ohaukwu	Ebonyi	6.667	8.067	2	
 Ibobio	Ogbia	Bayelsa	4.676	6.267	2	
@@ -45,7 +61,6 @@ Ibinagbam	Biase	Cross River	5.629	8.017	2
 Ikot-Offiong	Itu	Akwa Ibom	5.157	8.059	2	Oku Iboku
 Numh Oto Ibiakuruan	Uruan	Akwa Ibom	5.083	7.950	2	Numh Oto Ibiakuruan;Nung Otu-Ibiaku Uruan
 Ibabban Tsuani	Gwagwalada	FCT Abuja	9.167	6.967	2	Babban Tsauni
-Iba	Odo Otin	Osun	7.968	4.703	3	
 Tungan Mallam Ibrahim	Suru	Kebbi	11.628	3.943	2	
 Lowolam Ibrahim Barka	Shani	Borno	10.194	12.025	2	Lawulum
 Oyuko Ibighi	Urue Offong/Oruko	Akwa Ibom	4.789	8.197	2	
@@ -53,7 +68,6 @@ Ibochi	Igalamela-Odolu	Kogi	7.117	7.217	2	Ebotchi
 Ibese	Amuwo Odofin	Lagos	6.412	3.255	2	
 Ibot-Usut	Andoni	Rivers	4.443	7.362	2	
 Ibesit	Oruk Anam	Akwa Ibom	4.753	7.630	2	
-Ibusa	Oshimili North	Delta	6.176	6.624	3	
 Ibrede	Ndokwa East	Delta	5.561	6.391	2	
 Ibido	Odogbolu	Ogun	6.750	3.920	2	
 Gongoshi Ibarre	Yola North	Adamawa	9.233	12.150	2	Ibarre
@@ -65,7 +79,6 @@ Ibadan	Borgu	Niger	10.845	4.021	2	Zugungi
 Igbopa	Ìkòròdú	Lagos	6.546	3.519	2	Ibopa
 Ibo	Sakaba	Kebbi	11.133	5.680	2	
 Ibinabam	Biase	Cross River	5.589	8.026	2	Ibinagbam
-Awdan Ibola	Ipokia	Ogun	6.779	2.790	3	
 Ibayun	Yewa North	Ogun	6.950	2.717	2	
 Ibule	Ifedore	Ondo	7.318	5.111	2	Ibula
 Ibiaku Ikot Ekpenyong	Mkpat Enin	Akwa Ibom	4.807	7.778	2	Ikot Ekpenyong;Ibiaku Ikotekpenyon
@@ -73,8 +86,6 @@ Ibara-Oko	Abeokuta North	Ogun	7.133	3.250	2	Ibara Orile;Ibara-Oko
 Ibaribara	Biase	Cross River	5.747	7.985	2	Abaribara
 Igbekue	Ovia North-East	Edo	6.588	5.753	2	Ibekwe
 Imuwen	Ijebu East	Ogun	6.761	4.022	2	Ibonwon
-Agoi Ibami	Yakurr	Cross River	5.724	8.176	3	Agoi Ibani
-Ibillo	Akoko-Edo	Edo	7.437	6.077	3	
 Ibreda	Dekina	Kogi	7.477	6.961	2	Ibredu
 Ibuwo	Sapele	Delta	5.782	5.706	2	
 Ibotokpon	Andoni	Rivers	4.460	7.335	2	
@@ -83,13 +94,7 @@ Ibapon	Ogbomosho South	Oyo	8.100	4.183	2	Ibapawn;Ibapao
 Iboro	Ovia North-East	Edo	6.217	5.372	2	Ibo
 Ibagba	Ondo West	Ondo	6.983	4.849	2	
 Ibasa	Amuwo Odofin	Lagos	6.424	3.255	2	
-Federal government college, Ibillo	Akoko-Edo	Edo	7.448	6.060	0	
-Ibillo primary school, Ibillo	Akoko-Edo	Edo	7.436	6.071	0	
-Akwa Ibom Motor Park	Oredo	Edo	6.346	5.635	0	
-Ibadan Civic Centre	Ibadan North	Oyo	7.401	3.923	0	
 University of Ibadan	Ibadan North	Oyo	7.448	3.897	2	
-Ibadan North East LG	Ibadan North East	Oyo	7.404	3.934	0	
-Qua Iboe	Ibeno	Akwa Ibom	4.545	7.995	3	Kwa Ibo
 Lawan Ibrahim	Chibok	Borno	10.703	12.982	2	Gatamarwa
 Lawan Ibrahim	Shani	Borno	10.089	11.966	2	
 Didango Lawan Ibrahim	Shani	Borno	10.187	11.939	2	
@@ -113,11 +118,823 @@ Jauro Ibrahim	Kwaya Kusar	Borno	10.351	11.832	2
 Ibrahimti	Mobbar	Borno	12.922	12.516	2	
 Bami Ibrahim	Kwaya Kusar	Borno	10.508	11.945	2	
 Lawan Ibrandi	Diffa	Borno	13.217	12.526	2	
+Ibadan	Port-Harcourt	Rivers	4.756	7.031	2	
+Umu Dikwu Ibeku Opi	Nsukka	Enugu	6.781	7.423	2	Umu Dikwu Agbor
+Anguwar Ibrahim	Funtua	Katsina	11.519	7.308	2	
+Ibeno	Ibeno	Akwa Ibom	4.558	8.109	2	
+Nsit Ibom	Nsit Ibom	Akwa Ibom	4.904	7.897	2	
+Ibiono Ibom	Ibiono Ibom	Akwa Ibom	5.204	7.897	2	
+Ibesikpo Asutan	Ibesikpo Asutan	Akwa Ibom	4.918	7.965	2	
+Ibaji	Ibaji	Kogi	6.792	6.760	2	
+Ibadan North West	Ibadan North West	Oyo	7.404	3.871	2	
+Ibarapa Central	Ibarapa Central	Oyo	7.412	3.248	2	
+Ibarapa East	Ibarapa East	Oyo	7.584	3.459	2	
+Ibadan South East	Ibadan South East	Oyo	7.355	3.904	2	
+Ibarapa North	Ibarapa North	Oyo	7.645	3.173	2	
+Ibi	Ibi	Taraba	8.395	9.933	2	
+Ibeju Lekki	Ibeju Lekki	Lagos	6.471	3.815	2	
+Ibadan South West	Ibadan South West	Oyo	7.373	3.859	2	
+Ibadan North	Ibadan North	Oyo	7.421	3.909	2	
+Ibadan North East	Ibadan North East	Oyo	7.394	3.927	2	
+Wuro Ibi	Gombi	Adamawa	10.064	12.605	2	
+Ungwan Ibrahim Ninzam	Sanga	Kaduna	9.366	8.596	2	
+Onu-Ibina	Bende	Abia	5.701	7.658	2	
+Oluwo Ibaragun	Ifo	Ogun	6.733	3.350	2	Ibaragu
+Oke-Ibode	Atakunmosa West	Osun	7.692	4.644	2	Oke Ibode
+Ogbele	Ahoada East	Rivers	4.920	6.675	2	Obele-Ibaa|Obelle
+Otu-Ibiaku	Uruan	Akwa Ibom	5.088	7.954	2	Numh Oto Ibiakuruan|Nung Otu-Ibiaku Uruan
+Ndi-Ibe	Ohafia	Abia	5.629	7.890	2	
+Mbiakpa Ibakesi	Ini	Akwa Ibom	5.352	7.718	2	
+Lugere Ibi	Jada	Adamawa	8.870	12.158	2	
+Kajola Iboro	Ado Odo/Ota	Ogun	6.700	3.067	2	
+Iya-Ibadan	Afijio	Oyo	7.768	3.925	2	Iya Ibadan|IyaIbadan
+Inyang Iba	Yakurr	Cross River	5.703	8.204	2	
+Ilesha-Ibariba	Baruten	Kwara	8.913	3.422	2	Ilesha|Ilesha Ibariba
+Ikot Ibok	Etinan	Akwa Ibom	4.767	7.856	2	
+Ikot Ibiok	Eket	Akwa Ibom	4.653	7.964	2	
+Ikot Ibekwe	Ukanafun	Akwa Ibom	4.903	7.562	2	
+Igbini-Ogele	Irele	Ondo	6.482	4.963	2	Ibini Ogele|Igbini Ogele
+Ifoyintedo	Ipokia	Ogun	6.778	2.789	2	Awdan Ibola|Ifonyintedo
+Ibyanke	Gboko	Benue	7.248	8.689	2	
+Ibusogboro	Oluyole	Oyo	7.170	3.878	2	
+Iburu	Kajuru	Kaduna	10.269	7.789	2	
+Iburu	Shiroro	Niger	10.158	6.861	2	
+Ibum	Akamkpa	Cross River	5.633	8.489	2	
+Ibu Lawe	Obafemi Owode	Ogun	7.083	3.533	2	
+Budokubokiri	Asari-Toru	Rivers	4.698	6.894	2	Ibudokubokiri
+Ibudo Ijesha	Asa	Kwara	8.417	4.367	2	
+Ibudo-Are	Olorunsogo	Oyo	8.664	4.054	2	Ibudo Are
+Ibu	Ogun Waterside	Ogun	6.489	4.524	2	
+Ibra	Potiskum	Yobe	11.629	11.178	2	
+Ibotio	Onna	Akwa Ibom	4.613	7.800	2	
+Ibot	Mkpat Enin	Akwa Ibom	4.686	7.722	2	
+Iboro-Akute	Abeokuta North	Ogun	7.266	3.231	2	Iboro Akute
+Ibhole	Esan Central	Edo	6.780	6.292	2	Ibore
+Ibor	Kwande	Benue	6.817	9.563	2	
+Ibonwon	Epe	Lagos	6.672	3.996	2	
+Ibono-Usuk	Ini	Akwa Ibom	5.381	7.636	2	
+Ibong Uruk	Obot Akara	Akwa Ibom	5.256	7.593	2	Ibong
+Ibong Okpo-Etor	Obot Akara	Akwa Ibom	5.270	7.590	2	
+Ibong	Obanliku	Cross River	6.565	9.126	2	
+Ibong	Abak	Akwa Ibom	5.103	7.788	2	Ibon
+Ibonda	Odukpani	Cross River	5.028	8.268	2	
+Ibom	Arochukwu	Abia	5.381	7.890	2	
+Iboli	Kontagora	Niger	10.503	5.526	2	
+Ibokye	Anambra West	Anambra	6.463	6.682	2	
+Iboku Aro	Obafemi Owode	Ogun	6.850	3.483	2	
+Iboko	Ofu	Kogi	7.333	7.117	2	
+Iboko	Yala	Cross River	6.564	8.592	2	
+Ibok Ndiya	Ikono	Akwa Ibom	5.181	7.777	2	
+Iboho Ito	Odukpani	Cross River	5.322	8.012	2	
+Ibogun Akiode	Ifo	Ogun	6.800	3.117	2	
+Ibogun Adina	Ifo	Ogun	6.817	3.117	2	
+Ibodo	Konshisha	Benue	7.044	8.529	2	
+Ibodo	Etche	Rivers	5.181	7.165	2	
+Ibodeipa	Ibarapa East	Oyo	7.664	3.462	2	
+Ibode	Atakunmosa West	Osun	7.592	4.677	2	
+Ibode	Ojo	Lagos	6.417	3.133	2	Orufo
+Ibochi	Igalamela-Odolu	Kogi	7.109	7.268	2	Ebotchi
+Ibo	Suleja	Niger	9.146	7.193	2	
+Ibiwuru	Owan West	Edo	7.014	5.918	2	
+Ibiti-Oye	Egbeda	Oyo	7.415	4.056	2	Ibiti Oye
+Ibiteroku	Ebonyi	Ebonyi	6.643	8.123	2	
+Ibipeju	Odeda	Ogun	7.389	3.695	2	
+Ibionu	Ikwuano	Abia	5.339	7.639	2	
+Ibiono Ewura	Ini	Akwa Ibom	5.367	7.777	2	
+Ibio	Yewa South	Ogun	6.769	2.916	2	Ibiwo
+Ibinta	Yala	Cross River	6.636	8.429	2	
+Ibinta	Okigwe	Imo	5.904	7.244	2	
+Ibine	Obubra	Cross River	5.929	8.271	2	
+Ibinagalegu	Izzi	Ebonyi	6.685	8.187	2	
+Ibillo	Akoko-Edo	Edo	7.437	6.069	2	
+Ibila	Konshisha	Benue	7.036	8.856	2	
+Ibil	Ogoja	Cross River	6.492	8.615	2	
+Ibiku	Badagry	Lagos	6.483	3.083	2	
+Ibika	Kachia	Kaduna	9.841	7.926	2	
+Ibijuwon	Ona Ara	Oyo	7.216	4.070	2	
+Ibie	Ukanafun	Akwa Ibom	4.899	7.537	2	
+Ibibio Palm Tapper Settlement	Akuku Toru	Rivers	4.746	6.638	2	
+Ibibia	Bende	Abia	5.506	7.648	2	
+Ibiatuk	Ibiono Ibom	Akwa Ibom	5.175	7.897	2	
+Ibiapokiri	Akuku Toru	Rivers	4.339	6.610	2	Ibiapukiri
+Ibianang	Ikono	Akwa Ibom	5.201	7.825	2	
+Ibiaku Ishiet	Uruan	Akwa Ibom	4.941	8.010	2	
+Ibiaku Ikot Ukpong	Ibiono Ibom	Akwa Ibom	5.064	7.854	2	
+Ibiaku Ikot Oku	Ibiono Ibom	Akwa Ibom	5.185	7.872	2	
+Ibiaku-Ikot-Esifa	Ibiono Ibom	Akwa Ibom	5.290	7.817	2	
+Ibiaku Esa Ekpo	Mkpat Enin	Akwa Ibom	4.701	7.783	2	
+Ibiaku	Ikono	Akwa Ibom	5.297	7.711	2	
+Ibiaku	Ibiono Ibom	Akwa Ibom	5.181	7.857	2	
+Ibiakpan	Ikot Ekpene	Akwa Ibom	5.159	7.736	2	
+Ibiagidi	Bekwarra	Cross River	6.685	8.901	2	
+Ibiabong Eki	Biase	Cross River	5.293	8.078	2	
+Ibia	Kolokuma/Opokuma	Bayelsa	5.183	6.317	2	
+Ibi	Gombi	Adamawa	10.050	12.637	2	
+Ibi	Mashegu	Niger	9.616	4.775	2	
+Ibi	Donga	Taraba	7.879	10.333	2	
+Ibi	Afikpo North	Ebonyi	5.931	7.943	2	
+Ibi	Oru West	Imo	5.769	6.901	2	Idi
+Ibeton Kari	Mashegu	Niger	10.217	5.133	2	
+Ibeton Kafi	Mashegu	Niger	10.252	5.134	2	
+Ibesit	Oruk Anam	Akwa Ibom	4.957	7.785	2	
+Ibese	Ìkòròdú	Lagos	6.555	3.474	2	Beshi|Gbesse|Ibeshe|Ibeshi
+Ibese	Amuwo Odofin	Lagos	6.410	3.256	2	Beshi|Ibeshe
+Iberenta	Ikwuano	Abia	5.447	7.611	2	
+Iberekodo	Ibarapa East	Oyo	7.548	3.472	2	
+Iberekodo	Ibeju Lekki	Lagos	6.438	3.857	2	
+Ibereko	Badagry	Lagos	6.442	2.915	2	
+Ibere	Ogo Oluwa	Oyo	7.928	4.210	2	
+Ibere	Bende	Abia	5.502	7.639	2	
+Iber	Kwande	Benue	6.855	9.536	2	
+Ibenta-Iza	Ohaukwu	Ebonyi	6.660	8.062	2	
+Ibeme	Isiala Mbano	Imo	5.631	7.185	2	
+Ibelu	Ijebu East	Ogun	6.794	4.037	2	
+Ibelebiri	Ogbia	Bayelsa	4.935	6.418	2	Ebelibri
+Ibeku-Alase	Yewa North	Ogun	7.011	2.799	2	Ibeku|Ibeku Alase
+Ibeku	Aboh-Mbaise	Imo	5.462	7.260	2	
+Iboju	Eti Osa	Lagos	6.423	3.529	2	Ibeju|Okun Ibeju
+Ibegwa-Ani	Nsukka	Enugu	6.900	7.338	2	
+Ibegi	Oju	Benue	6.763	8.519	2	
+Ibefun	Odogbolu	Ogun	6.711	3.796	2	Ibefon|Ibefum
+Ibedu	Nsit Ubium	Akwa Ibom	4.741	8.033	2	
+Ibbojo	Ado Odo/Ota	Ogun	6.517	2.933	2	
+Ibawo	Misau	Bauchi	11.350	10.550	2	
+Ibawe-Tukuru	Ipokia	Ogun	6.498	2.872	2	
+Ibawe-Kekere	Ipokia	Ogun	6.476	2.880	2	Ibawe Kekere
+Ibatefin	Ipokia	Ogun	6.596	2.758	2	
+Ibasa	Amuwo Odofin	Lagos	6.424	3.256	2	Bassa|Ibasha
+Ibarre	Yola South	Adamawa	9.294	12.393	2	
+Ibarram	Akoko North West	Ondo	7.598	5.847	2	
+Ibare	Ifelodun	Kwara	8.550	4.900	2	
+Ibara-Orile	Abeokuta North	Ogun	7.142	3.244	2	Ibara Orile|Ibara-Oko
+Ibapon	Ogbomosho South	Oyo	8.083	4.183	2	
+Iba-Ole	Oyo West	Oyo	7.871	3.738	2	Iba Ole|IbaOle
+Ibaoko	Ibaji	Kogi	6.957	6.732	2	Ibaoka
+Ibamajo	Abeokuta North	Ogun	7.281	3.073	2	
+Ibala	Obokun	Osun	7.703	4.730	2	
+Ibakesi	Ikono	Akwa Ibom	5.310	7.730	2	
+Ibakachi	Ikono	Akwa Ibom	5.236	7.797	2	
+Ibaka	Okrika	Rivers	4.740	7.080	2	
+Ibaka	Mbo	Akwa Ibom	4.640	8.304	2	
+Ibaji	Oturkpo	Benue	7.352	8.012	2	
+Ibagwa-Agu	Nsukka	Enugu	6.970	7.268	2	
+Ibadi-Ori	Ori Ire	Oyo	8.469	4.266	2	Ibadi Ori
+Ibadan	Borgu	Niger	10.845	4.021	2	Zugungi
+Ibadan	Hawul	Borno	10.384	12.087	2	
+Ibadan	Odeda	Ogun	7.279	3.498	2	
+Ibadan	Aiyedade	Osun	7.247	4.378	2	
+Ibadan	Odeda	Ogun	7.238	3.465	2	
+Ibadan	Ipokia	Ogun	6.525	2.769	2	
+Ibada	Igabi	Kaduna	10.833	7.667	2	
+Ibada	Kauru	Kaduna	10.549	8.167	2	
+Ibaa	Ikwerre	Rivers	4.946	6.878	2	
+Iba	Ibeju Lekki	Lagos	6.487	3.907	2	
+Ibao	Emuoha	Rivers	4.967	6.813	2	Iba|Ibaa|Ibe
+Gidan Ibrahim	Kachia	Kaduna	9.815	7.898	2	
+Etono 1	Biase	Cross River	5.629	8.017	2	Etono|Ibinagbam
+Eko-Ibadin	Iguegben	Edo	6.643	6.281	2	
+Ibabban Tsuani	Gwagwalada	FCT Abuja	9.164	6.963	2	Babban Tsauni
+Apata-Ibadan	Iwajowa	Oyo	7.997	3.184	2	Apata Ibadan|ApataIbadan
+Amukegun-Ibadan	Ife North	Osun	7.281	4.467	2	Amukegun Ibadan
+Akwa Ibami	Akamkpa	Cross River	5.349	8.249	2	
+Aje-Ibon	Ibarapa North	Oyo	7.520	3.103	2	Aje Ibon|AjeIbon
+Ajana-Iberekodo	Ibarapa North	Oyo	7.519	3.346	2	Ajana Iberekodo|AjanaIberekodo
+Agoro-Ibadan	Akinyele	Oyo	7.637	4.038	2	Agoro Ibadan|AgoroIbadan
+Ago-Iba	Ilaje	Ondo	6.263	4.645	2	Ago Iba
+Afolu-Ibadan	Aiyedade	Osun	7.257	4.217	2	Afolu Ibadan
+Afaha Ibesikpo	Ibesikpo Asutan	Akwa Ibom	4.971	7.936	2	
+Abi-Iba	Oluyole	Oyo	7.222	3.961	2	Abi Iba
+Aba-Ibadan	Ìsẹ́yìn	Oyo	7.775	3.673	2	Aba Ibadan|AbaIbadan
+Aba-Ibadan	Ibarapa East	Oyo	7.681	3.520	2	Aba Ibadan|AbaIbadan
+Okun-Ibese	Amuwo Odofin	Lagos	6.406	3.261	2	
+Baba-Ibeji	Ido	Oyo	7.402	3.780	2	Baba Ibeji
+Ibidi	Brass	Bayelsa	4.328	6.518	2	
+Ibrokiri	Akuku Toru	Rivers	4.373	6.860	2	
+Ibokun-Alege	Obafemi Owode	Ogun	6.848	3.487	2	
+Ibere	Ìkòròdú	Lagos	6.668	3.644	2	
+Ibadan	Ado Odo/Ota	Ogun	6.680	3.208	2	
+Gbogije-Ibeju	Ibeju Lekki	Lagos	6.482	3.756	2	
+Ago-Ibo	Ise/Orun	Ekiti	7.333	5.377	2	
+Ibuji	Ifedore	Ondo	7.456	5.067	2	
+Iboun	Gwer West	Benue	7.617	8.134	2	
+Iber	Markurdi	Benue	7.711	8.497	2	
+Obiagu Ibom	Abakaliki	Ebonyi	6.268	8.404	2	
+Ibi	Yala	Cross River	6.767	8.880	2	
+Ibuot Ikot	Mbo	Akwa Ibom	4.658	8.305	2	
+Edem Ibiok	Nsit Atai	Akwa Ibom	4.897	8.011	2	
+Tunga Ibru	Kware	Sokoto	13.308	5.253	2	Tungan Ibru
+Ungwan Sarkin Aiki Ibiran	Faskari	Katsina	11.696	7.027	2	
+Ibrahim	Bakori	Katsina	11.538	7.478	2	
+Ibada	Ethiope East	Delta	5.696	5.870	2	
+Ibada	Ethiope East	Delta	5.676	5.956	2	
+Ibohgbene	Ekeremor	Bayelsa	4.798	5.617	2	
+Ibuluya	Okrika	Rivers	4.742	7.098	2	
+Ayama-Ibotokpon	Andoni	Rivers	4.464	7.339	2	
+Ikot Iko Ibon	Onna	Akwa Ibom	4.607	7.808	2	
+Ibuno	Ibeno	Akwa Ibom	4.569	7.979	2	
+Ntak Ibesit	Oruk Anam	Akwa Ibom	4.890	7.742	2	
+Ibini	Biase	Cross River	5.748	7.958	2	
+Ibina	Bende	Abia	5.704	7.652	2	
+Ibam	Bende	Abia	5.479	7.686	2	
+Ibiono	Ikono	Akwa Ibom	5.253	7.841	2	
+Ibong Ikot Akan	Ikot Ekpene	Akwa Ibom	5.186	7.677	2	
+Abak-Ibiaku Uruan	Uruan	Akwa Ibom	5.079	7.939	2	
+Ibe	Ini	Akwa Ibom	5.449	7.757	2	
+Ibom	Ini	Akwa Ibom	5.444	7.757	2	
+Iboho-Ito	Odukpani	Cross River	5.321	7.997	2	
+Ibam-Edet	Ini	Akwa Ibom	5.348	7.764	2	
+Ibesikpo	Ini	Akwa Ibom	5.329	7.753	2	
+Usuk Ibakesi	Ini	Akwa Ibom	5.330	7.732	2	
+Ibiong Okpo Eto II	Obot Akara	Akwa Ibom	5.292	7.583	2	
+Atan Ibong	Obot Akara	Akwa Ibom	5.291	7.560	2	
+Ibiakpan	Obot Akara	Akwa Ibom	5.182	7.579	2	
+Ibiakpan	Ikot Ekpene	Akwa Ibom	5.208	7.667	2	
+Ibiaku Oku Obom	Ibiono Ibom	Akwa Ibom	5.165	7.859	2	
+Ibiaku Ikot Edet	Ikot Ekpene	Akwa Ibom	5.148	7.761	2	
+Ikot Udo Ibiono	Ibiono Ibom	Akwa Ibom	5.120	7.881	2	
+Oku Iboku	Uruan	Akwa Ibom	5.123	7.998	2	
+Ibiaku	Uruan	Akwa Ibom	5.109	7.972	2	
+Ibiaku-Uran	Uruan	Akwa Ibom	5.099	7.960	2	
+Ibiakpan	Abak	Akwa Ibom	5.098	7.796	2	Ibiakpan No.1
+Ibong Ikpe Mbiabet	Essien Udim	Akwa Ibom	5.105	7.775	2	
+Ibiakpan	Abak	Akwa Ibom	5.078	7.812	2	Ibiakpan No.2
+Iba-Oku	Uyo	Akwa Ibom	5.058	7.951	2	
+Ibiaku Offot	Uyo	Akwa Ibom	5.026	7.968	2	
+Iboko Offot	Uyo	Akwa Ibom	5.030	7.921	2	
+Obio Ibiono	Uyo	Akwa Ibom	5.039	7.857	2	
+Ibedeni	Isoko South	Delta	5.417	6.343	2	
+Ibusa	Ndokwa East	Delta	5.780	6.548	2	
+Ibewa	Ogba/Egbema/Ndoni	Rivers	5.235	6.679	2	
+Ibhiedu	Esan South-East	Edo	6.488	6.427	2	Ighedu|Olghedu
+Ikwuano	Ikwuano	Abia	5.433	7.567	2	Agbegbe Ijoba Ibile Ikwuano|Ikvano|Ikvuano
+Ukwa East	Ukwa East	Abia	4.900	7.367	2	Agbegbe Ijoba Ibile Ilaorun Ukwa|Skhidna Ukva|Tang Ukwa|Ukva-Ist|Ukwa Est|Ukwa ta Gabas
+Esit Eket	Esit Eket	Akwa Ibom	4.631	8.071	2	Agbegbe Ijoba Ibile Esit Eket|Esit-Eket
+Oruk Anam	Oruk Anam	Akwa Ibom	4.900	7.717	2	Agbegbe Ijoba Ibile Oruk-Anam
+Anambra East	Anambra East	Anambra	6.267	6.817	2	Agbegbe Ijoba Ibile Ilaorun Anambra|Anambra Est|Anambra ta Gabas|Anambra-Leste|Tang Anambra|anmbas shrqy
+Anaocha	Anaocha	Anambra	6.068	6.996	2	Agbegbe Ijoba Ibile Anaocha|anaywcha
+Awka South	Awka South	Anambra	6.207	7.068	2	Agbegbe Ijoba Ibile Guusu Awka|Awka Sud|Awka ta Kudu|Lam Awka|Ndida Awka
+Mokwa	Mokwa	Niger	9.200	5.333	2	Agbegbe Ijoba Ibile Mokwa|mo kua
+Ede North	Ede North	Osun	7.707	4.509	2	Agbegbe Ijoba Ibile Ariwa Ede|Ede Nord|Ede ta Arewa|Ndi North|Pak Ede
+Egbedore	Egbedore	Osun	7.817	4.433	2	Agbegbe Ijoba Ibile Egbedore
+Ife Central	Ife Central	Osun	7.474	4.559	2	Agbegbe Ijoba Ibile Gbongan Ife|Ife ta Tsakiya
+Ife East	Ife East	Osun	7.365	4.601	2	Agbegbe Ijoba Ibile Ilaorun Ife|Ife Est|Ife ta Gabas|Tang Ife
+Ife South	Ife South	Osun	7.200	4.600	2	Agbegbe Ijoba Ibile Guusu Ife|Ife SouthLGA|Ife Sud|Ife ta Kudu|Lam Ife
+Irewole	Irewole	Osun	7.417	4.217	2	Agbegbe Ijoba Ibile Irewole
+Isokan	Isokan	Osun	7.300	4.183	2	Agbegbe Ijoba Ibile Isokan
+Odo Otin	Odo Otin	Osun	8.017	4.700	2	Agbegbe Ijoba Ibile Odo Otin|Odo-Otin
+Ola Oluwa	Ola Oluwa	Osun	7.783	4.217	2	Agbegbe Ijoba Ibile Ola Oluwa|Ola-Oluwa
+Oriade	Oriade	Osun	7.583	4.867	2	Agbegbe Ijoba Ibile Oriade
+Ahoada West	Ahoada West	Rivers	5.086	6.471	2	Agbegbe Ijoba Ibile Iwoorun Ahoada|Ahoada Oeste|Ahoada Ouest|Ahoada ta Yamma|Se Ahoada|ghrb ahwada
+Etche	Etche	Rivers	4.991	7.054	2	Agbegbe Ijoba Ibile Etche|Etse|etxes
+Anambra West	Anambra West	Anambra	6.359	6.750	2	Agbegbe Ijoba Ibile Iwoorun Anambra|Anambra Ouest|Anambra ta Yamma|Anambra-Oeste|Se Anambra|anambra ghrby
+Idemili North	Idemili North	Anambra	6.128	6.933	2	Agbegbe Ijoba Ibile Ariwa Idemili|Idemili Nord|Idemili ta Arewa|Pak Idemili
+Idemili South	Idemili South	Anambra	6.048	6.950	2	Agbegbe Ijoba Ibile Guusu Idemili|Idemili Sud|Idemili ta Kudu|Lam Idemili
+Nnewi South	Nnewi South	Anambra	5.933	6.923	2	Agbegbe Ijoba Ibile Guusu Nnewi|Lam Nnewi|Nnewi Sud|Nnewi ta Kudu
+Ogbaru	Ogbaru	Anambra	6.016	6.745	2	Agbegbe Ijoba Ibile Ogbaru
+Orumba North	Orumba North	Anambra	6.067	7.083	2	Agbegbe Ijoba Ibile Ariwa Orumba|Orumba Nord|Orumba ta Arewa|Pak Orumba
+Oyi	Oyi	Anambra	6.177	6.862	2	Agbegbe Ijoba Ibile Oyi
+Guma	Guma	Benue	7.967	8.767	2	Agbegbe Ijoba Ibile Guma|guma
+Gwer East	Gwer East	Benue	7.300	8.483	2	Agbegbe Ijoba Ibile Ilaorun Gwer|Gwer Est|Gwer ta Gabas|Tang Gwer
+Logo	Logo	Benue	7.689	9.250	2	Agbegbe Ijoba Ibile Logo
+Ogbadibo	Ogbadibo	Benue	7.089	7.650	2	Agbegbe Ijoba Ibile Ogbadibo
+Kankia	Kankia	Katsina	12.467	7.800	2	Agbegbe Ijoba Ibile Kankia|Kankiya
+Sabuwa	Sabuwa	Katsina	11.300	7.117	2	Agbegbe Ijoba Ibile Sabuwa|sbwa
+Aniocha South	Aniocha South	Delta	6.128	6.483	2	Agbegbe Ijoba Ibile Guusu Aniocha|Aniocha Sud|Aniocha ta Kudu|Lam Aniocha
+Warri North	Warri North	Delta	5.882	5.277	2	Agbegbe Ijoba Ibile Ariwa Warri|Pak Warri|Warri Nord|Warri ta Arewa
+Warri South	Warri South	Delta	5.613	5.611	2	Agbegbe Ijoba Ibile Guusu Warri|Lam Warri|Warri Sud|Warri ta Kudu
+Uvwie	Uvwie	Delta	5.572	5.776	2	Agbegbe Ijoba Ibile Uvwie
+Ihitte/Uboma	Ihitte/Uboma	Imo	5.622	7.365	2	Agbegbe Ijoba Ibile Ihitte Uboma
+Njaba	Njaba	Imo	5.706	7.008	2	Agbegbe Ijoba Ibile Njaba
+Ohaji/Egbema	Ohaji/Egbema	Imo	5.402	6.825	2	Agbegbe Ijoba Ibile Ohaji/Egbema|ai bei ma
+Oru West	Oru West	Imo	5.742	6.911	2	Agbegbe Ijoba Ibile Iwoorun Oru|Oru Oeste|Oru Ouest|Oru ta Yamma|Se Oru
+Owerri West	Owerri West	Imo	5.432	6.980	2	Agbegbe Ijoba Ibile Iwoorun Owerri|Owerri Ouest|Owerri ta Yamma|Se Owerri|owerri west|xioueri
+Bassa	Bassa	Kogi	7.771	7.024	2	Agbegbe Ijoba Ibile Bassa
+Ibaji	Ibaji	Kogi	6.799	6.763	2	Agbegbe Ijoba Ibile Ibaji
+Madagali	Madagali	Adamawa	10.852	13.549	2	Agbegbe Ijoba Ibile Madagali
+Mopa-Muro	Mopa-Muro	Kogi	8.103	5.878	2	Agbegbe Ijoba Ibile Mopa-Muro|Mopa Muro
+Ofu	Ofu	Kogi	7.303	7.038	2	Agbegbe Ijoba Ibile Ofu
+Agwara	Agwara	Niger	10.775	4.540	2	Agbegbe Ijoba Ibile Agwara|agwara|aqwara|aygwara
+Borgu	Borgu	Niger	10.378	4.163	2	Agbegbe Ijoba Ibile Borgu|Area de governo local de Borgu|Borgu Local Government Area
+Chanchaga	Chanchaga	Niger	9.605	6.514	2	Agbegbe Ijoba Ibile Chanchaga|shantshagha
+Edati	Edati	Niger	9.027	5.618	2	Agbegbe Ijoba Ibile Edati
+Darazo	Darazo	Bauchi	11.168	10.654	2	Agbegbe Ijoba Ibile Darazo
+Kwande	Kwande	Benue	6.801	9.470	2	Agbegbe Ijoba Ibile Kwande
+Boki	Boki	Cross River	6.250	9.033	2	Agbegbe Ijoba Ibile Boki|boki
+Afikpo North	Afikpo North	Ebonyi	5.893	7.937	2	Afikpo Nord|Afikpo Norte|Afikpo ta Arewa|Agbegbe Ijoba Ibile Ariwa Afikpo|Pak Afikpo
+Izzi	Izzi	Ebonyi	6.485	8.295	2	Agbegbe Ijoba Ibile Izzi
+Enugu East	Enugu East	Enugu	6.533	7.533	2	Agbegbe Ijoba Ibile Ilaorun Enugu|Enugu Est|Enugu Leste|Enugu ta Gabas|Tang Enugu
+Zuru	Zuru	Kebbi	11.446	5.287	2	Agbegbe Ijoba Ibile Zuru
+Lavun	Lavun	Niger	9.273	5.683	2	Agbegbe Ijoba Ibile Lavun|la wen
+Pankshin	Pankshin	Plateau	9.216	9.399	2	Agbegbe Ijoba Ibile Pankshin
+Paikoro	Paikoro	Niger	9.468	6.856	2	Agbegbe Ijoba Ibile Paikoro
+Atakunmosa East	Atakunmosa East	Osun	7.459	4.776	2	Agbegbe Ijoba Ibile Ilaorun Atakunmosa|Atakunmosa Est|Atakunmosa ta Gabas|Tang Atakunmosa
+Boluwaduro	Boluwaduro	Osun	7.919	4.813	2	Agbegbe Ijoba Ibile Boluwaduro
+Boripe	Boripe	Osun	7.856	4.669	2	Agbegbe Ijoba Ibile Boripe
+Ibarapa East	Ibarapa East	Oyo	7.608	3.492	2	Ibarapa Est|Ibarapa ta Gabas|Ilaoorun Ibarapa|Tang Ibarapa
+Ibarapa North	Ibarapa North	Oyo	7.646	3.159	2	Ariwa Ibarapa|Ibarapa Nord|Ibarapa ta Arewa|Pak Ibarapa
+Gulani	Gulani	Yobe	11.000	11.717	2	Agbegbe Ijoba Ibile Gulani|gurani
+Ukwa West	Ukwa West	Abia	4.954	7.239	2	Agbegbe Ijoba Ibile Iwoorun Ukwa|Se Ukwa|Ukwa Ouest|Ukwa ta Yamma|Zakhidna Ukva
+Umuahia South	Umuahia South	Abia	5.462	7.440	2	Agbegbe Ijoba Ibile Guusu Umuahia|Lam Umuahia|Pivdenna Umuakhija|Umuahia Sud|Umuahia ta Kudu
+Eastern Obolo	Eastern Obolo	Akwa Ibom	4.534	7.767	2	Agbegbe Ijoba Ibile Apailaoorun Obolo|Est Obolo|Obolo ta Gabas
+Onna	Onna	Akwa Ibom	4.616	7.849	2	Agbegbe Ijoba Ibile Onna
+Agatu	Agatu	Benue	7.906	7.855	2	Agbegbe Ijoba Ibile Agatu
+Konshisha	Konshisha	Benue	7.030	8.660	2	Agbegbe Ijoba Ibile Konshisha
+Ushongo	Ushongo	Benue	7.044	9.089	2	Agbegbe Ijoba Ibile Ushongo
+Tafa	Tafa	Niger	9.232	7.230	2	Agbegbe Ijoba Ibile Tafa
+Kagarko	Kagarko	Kaduna	9.437	7.577	2	Agbegbe Ijoba Ibile Kagarko|Kagariko
+Kachia	Kachia	Kaduna	9.850	7.560	2	Agbegbe Ijoba Ibile Kachia|Kacha|Kaciya
+Chikun	Chikun	Kaduna	10.315	7.274	2	Agbegbe Ijoba Ibile Chikun|Ciikun|Cikun
+Igabi	Igabi	Kaduna	10.781	7.504	2	Agbegbe Ijoba Ibile Igabi
+Makarfi	Makarfi	Kaduna	11.298	7.969	2	Agbegbe Ijoba Ibile Makarfi
+Kudan	Kudan	Kaduna	11.273	7.799	2	Agbegbe Ijoba Ibile Kudan
+Bebeji	Bebeji	Kano	11.531	8.204	2	Agbegbe Ijoba Ibile Bebeji
+Dawakin Kudu	Dawakin Kudu	Kano	11.832	8.692	2	Agbegbe Ijoba Ibile Dawakin Kudu
+Odogbolu	Odogbolu	Ogun	6.786	3.805	2	Agbegbe Ijoba Ibile Odogbolu
+Odigbo	Odigbo	Ondo	6.765	4.727	2	Agbegbe Ijoba Ibile Odigbo
+Obafemi Owode	Obafemi Owode	Ogun	6.969	3.484	2	Agbegbe Ijoba Ibile Obafemi-Owode|Obafemi-Owode|ao wo dai
+Ibadan South West	Ibadan South West	Oyo	7.351	3.866	2	
+Ibadan South East	Oluyole	Oyo	7.334	3.904	2	
+Kaiama	Kaiama	Kwara	9.453	4.160	2	Agbegbe Ijoba Ibile Kaiama
+Bagudo	Bagudo	Kebbi	11.348	3.957	2	Agbegbe Ijoba Ibile Bagudo|Bagudu
+Gummi	Gummi	Zamfara	12.054	5.114	2	Agbegbe Ijoba Ibile Gummi|Gumi
+Maiyama	Maiyama	Kebbi	11.991	4.354	2	Agbegbe Ijoba Ibile Maiyama
+Awgu	Awgu	Enugu	6.143	7.437	2	Agbegbe Ijoba Ibile Awgu
+Nkanu East	Nkanu East	Enugu	6.315	7.624	2	Agbegbe Ijoba Ibile Ilaorun Nkanu|Nkanu Est|Nkanu ta Gabas|Tang Nkanu
+Birnin Gwari	Birnin Gwari	Kaduna	10.826	6.655	2	Agbegbe Ijoba Ibile Birnin-Gwari|Birnin-Gwari
+Soba	Soba	Kaduna	10.870	7.964	2	Agbegbe Ijoba Ibile Soba
+Ungogo	Ungongo	Kano	12.042	8.443	2	Agbegbe Ijoba Ibile Ungogo|Ungongo
+Rimin Gado	Rimin Gado	Kano	11.932	8.276	2	Agbegbe Ijoba Ibile Rimin Gado
+Wudil	Wudil	Kano	11.730	8.819	2	Agbegbe Ijoba Ibile Wudil
+Shanono	Shanono	Kano	12.046	7.951	2	Agbegbe Ijoba Ibile Shanono|Xanono|shanwnw
+Takai	Takai	Kano	11.462	9.176	2	Agbegbe Ijoba Ibile Takai|ta kai|takai
+Bunkure	Bunkure	Kano	11.667	8.597	2	Agbegbe Ijoba Ibile Bunkure|Bunkuure
+Ibeju Lekki	Ibeju Lekki	Lagos	6.455	3.943	2	
+Akwanga	Akwanga	Nasarawa	8.994	8.327	2	Acuanga|Agbegbe Ijoba Ibile Akwanga|akwanga|akwanqa
+Obi	Obi	Nasarawa	8.347	8.728	2	Agbegbe Ijoba Ibile Obi
+Ohimini	Ohimini	Benue	7.207	7.950	2	Agbegbe Ijoba Ibile Ohimini
+Uhunmwonde	Uhunmwonde	Edo	6.492	5.885	2	Agbegbe Ijoba Ibile Uhunmwonde
+Nkanu West	Nkanu West	Enugu	6.311	7.509	2	Agbegbe Ijoba Ibile Iwoorun Nkanu|Nkanu Oeste|Nkanu ta Yamma|Se Nkanu
+Umuahia North	Umuahia North	Abia	5.558	7.469	2	Agbegbe Ijoba Ibile Ariwa Umuahia|Pak Umuahia|Pivnichna Umuakhija|Umuahia Nord|Umuahia ta Arewa
+Giwa	Giwa	Kaduna	11.121	7.406	2	Agbegbe Ijoba Ibile Giwa
+Obubra	Obubra	Cross River	5.943	8.379	2	Agbegbe Ijoba Ibile Obubra
+Obudu	Obudu	Cross River	6.543	9.045	2	Agbegbe Ijoba Ibile Obudu|ao bu dou
+Katsina-Ala	Katsina-Ala	Benue	7.290	9.553	2	Agbegbe Ijoba Ibile Katsina-Ala|Katsina Ala
+Ibadan North West	Ibadan North West	Oyo	7.393	3.880	2	
+Suru	Suru	Kebbi	11.830	4.097	2	Agbegbe Ijoba Ibile Suru|Suru Local Government Area
+Bunza	Bunza	Kebbi	12.168	3.915	2	Agbegbe Ijoba Ibile Bunza|Bunza Local Government Area|Buunza|bunza
+Kalgo	Kalgo	Kebbi	12.283	4.101	2	Agbegbe Ijoba Ibile Kalgo|Kalgo Local Government Area
+Sakaba	Sakaba	Kebbi	11.162	5.541	2	Agbegbe Ijoba Ibile Sakaba|Sakaba Local Government Area
+Aleiro	Aleiro	Kebbi	12.297	4.428	2	Agbegbe Ijoba Ibile Aleiro|Aleiro Local Government Area|Aleyro|alyrw
+Arewa Dandi	Arewa Dandi	Kebbi	12.698	4.031	2	Agbegbe Ijoba Ibile Arewa-Dandi|Arewa-Dandi|Arewa-Dandi Local Government Area
+Shinkafi	Shinkafi	Zamfara	13.038	6.512	2	Agbegbe Ijoba Ibile Shinkafi|Shinkafi Local Government Area
+Maradun	Maradun	Zamfara	12.778	6.245	2	Agbegbe Ijoba Ibile Maradun|Maradun Local Government Area
+Bakura	Bakura	Zamfara	12.617	5.858	2	Agbegbe Ijoba Ibile Bakura|Bakura Local Government Area
+Talata Mafara	Talata Mafara	Zamfara	12.384	6.054	2	Agbegbe Ijoba Ibile Talata Mafara|Talata Mafara Local Government Area|Talata-Mafara|ta la ta ma fa la
+Maru	Maru	Zamfara	11.538	6.279	2	Agbegbe Ijoba Ibile Maru|Maru Local Government Area
+Bukkuyum	Bukkuyum	Zamfara	11.975	5.587	2	Agbegbe Ijoba Ibile Bukkuyum|Bukkuyum Local Government Area|Bukkuyuum
+Anka	Anka	Zamfara	11.961	5.987	2	Agbegbe Ijoba Ibile Anka|Anka Local Government Area|an ka (nai ji li ya)|an ka (ni ri li ya)
+Bungudu	Bungudu	Zamfara	12.189	6.489	2	Agbegbe Ijoba Ibile Bungudu|Bungudu Local Government Area|ben gu du
+Jibia	Jibia	Katsina	13.040	7.289	2	Agbegbe Ijoba Ibile Jibia|Jibia Local Government Area
+Batsari	Batsari	Katsina	12.779	7.234	2	Agbegbe Ijoba Ibile Batsari|Batsari Local Government Area|ba te sa li
+Kaita	Kaita	Katsina	13.172	7.728	2	Agbegbe Ijoba Ibile Kaita|Kaita Local Government Area
+Rimi	Rimi	Katsina	12.839	7.693	2	Agbegbe Ijoba Ibile Rimi|Rimi Local Government Area
+Mani	Mani	Katsina	12.878	7.926	2	Agbegbe Ijoba Ibile Mani|Mani Local Government Area
+Dutsi	Dutsi	Katsina	12.913	8.149	2	Agbegbe Ijoba Ibile Dutsi|Dutsi Local Government Area|du qi
+Sandamu	Sandamu	Katsina	12.897	8.364	2	Agbegbe Ijoba Ibile Sandamu|Sandamu Local Government Area
+Charanchi	Charanchi	Katsina	12.602	7.684	2	Agbegbe Ijoba Ibile Charanchi|Caranci|Charanchi Local Government Area
+Dan Musa	Dan Musa	Katsina	12.232	7.330	2	Agbegbe Ijoba Ibile Dan Musa|Dan Musa Local Government Area|Dan-Musa
+Matazu	Matazu	Katsina	12.259	7.618	2	Agbegbe Ijoba Ibile Matazu|Matazu Local Government Area
+Musawa	Musawa	Katsina	12.085	7.689	2	Agbegbe Ijoba Ibile Musawa|Musawa Local Government Area
+Malumfashi	Malumfashi	Katsina	11.859	7.656	2	Agbegbe Ijoba Ibile Malumfashi|Malumfashi Local Government Area
+Bakori	Bakori	Katsina	11.640	7.429	2	Agbegbe Ijoba Ibile Bakori|Bakori Local Government Area
+Dandume	Dandume	Katsina	11.413	7.190	2	Agbegbe Ijoba Ibile Dandume|Dandume Local Government Area
+Danja	Danja	Katsina	11.395	7.549	2	Agbegbe Ijoba Ibile Danja|Danja Local Government Area
+Dambatta	Dambatta	Kano	12.420	8.634	2	Agbegbe Ijoba Ibile Dambatta|Dambata|Dambatta Local Government Area
+Gabasawa	Gabasawa	Kano	12.145	8.862	2	Agbegbe Ijoba Ibile Gabasawa|Gabasawa Local Government Area
+Bichi	Bichi	Kano	12.234	8.279	2	Agbegbe Ijoba Ibile Bichi|Bichi Local Government Area
+Gwarzo	Gwarzo	Kano	11.884	7.956	2	Agbegbe Ijoba Ibile Gwarzo|Guarzo|Gwarzo Local Government Area
+Dawakin Tofa	Dawakin Tofa	Kano	12.126	8.399	2	Agbegbe Ijoba Ibile Dawakin Tofa|Dawakin Tofa Local Government Area|Dawakin Toofa
+Madobi	Madobi	Kano	11.824	8.385	2	Agbegbe Ijoba Ibile Madobi|Madboi|Madobi Local Government Area
+Ajingi	Ajingi	Kano	11.959	9.067	2	Agbegbe Ijoba Ibile Ajingi|Ajingi Local Government Area|ajyngy|ajynjy|ajynqy
+Gaya	Gaya	Kano	11.782	9.029	2	Agbegbe Ijoba Ibile Gaya|Gaya Local Government Area
+Albasu	Albasu	Kano	11.662	9.103	2	Agbegbe Ijoba Ibile Albasu|Albasu Local Government Area|albasw
+Karaye	Karaye	Kano	11.762	8.010	2	Agbegbe Ijoba Ibile Karaye|Karaye Local Government Area
+Sumaila	Sumaila	Kano	11.327	8.914	2	Agbegbe Ijoba Ibile Sumaila|Sumaila Local Government Area|smylt
+Gwale	Gwale	Kano	11.982	8.498	2	Agbegbe Ijoba Ibile Gwale|Gwale Local Government Area
+Yankwashi	Yankwashi	Jigawa	12.770	8.537	2	Agbegbe Ijoba Ibile Yankwashi|Yankwashi Local Government Area
+Roni	Roni	Jigawa	12.549	8.331	2	Agbegbe Ijoba Ibile Roni|Roni Local Government Area|reani
+Babura	Babura	Jigawa	12.614	8.859	2	Agbegbe Ijoba Ibile Babura|Babura Local Government Area|ba bu la
+Maigatari	Maigatari	Jigawa	12.725	9.586	2	Agbegbe Ijoba Ibile Maigatari|Maigatari Local Government Area
+Gagarawa	Gagarawa	Jigawa	12.511	9.537	2	Agbegbe Ijoba Ibile Gagarawa|Gagarawa Local Government Area
+Ringim	Ringim	Jigawa	12.186	9.104	2	Agbegbe Ijoba Ibile Ringim|Ringim Local Government Area
+Kaugama	Kaugama	Jigawa	12.503	9.767	2	Agbegbe Ijoba Ibile Kaugama|Kaugama Local Government Area
+Jahun	Jahun	Jigawa	12.080	9.555	2	Agbegbe Ijoba Ibile Jahun|Jahun Local Government Area
+Kiri Kasama	Kiri Kasama	Jigawa	12.565	10.252	2	Agbegbe Ijoba Ibile Kiri Kasama|Kiri Kasama Local Government Area|Kiri-Kasamma
+Gwaram	Gwaram	Jigawa	11.186	9.969	2	Agbegbe Ijoba Ibile Gwaram|Gwaram Local Government Area
+Toro	Toro	Bauchi	10.446	9.221	2	Agbegbe Ijoba Ibile Toro|Toro Local Government Area|Toto
+Giade	Giade	Bauchi	11.406	10.283	2	Agbegbe Ijoba Ibile Giade|Giade Local Government Area
+Shira	Shira	Bauchi	11.504	10.017	2	Agbegbe Ijoba Ibile Shira|Shira Local Government Area
+Damban	Damban	Bauchi	11.626	10.786	2	Agbegbe Ijoba Ibile Damban|Dambam|Damban Local Government Area
+Zaki	Zaki	Bauchi	12.299	10.309	2	Agbegbe Ijoba Ibile Zaki|Zaki Local Government Area|Zakki
+Gamawa	Gamawa	Bauchi	12.073	10.586	2	Agbegbe Ijoba Ibile Gamawa|Gamawa Local Government Area
+Kirfi	Kirfi	Bauchi	10.394	10.532	2	Agbegbe Ijoba Ibile Kirfi|Kirfi Local Government Area
+Alkaleri	Alkaleri	Bauchi	9.890	10.480	2	Agbegbe Ijoba Ibile Alkaleri|Alkaleri Local Government Area|alkalry
+Kanke	Kanke	Plateau	9.393	9.633	2	Agbegbe Ijoba Ibile Kanke|Kanke Local Government Area|kankh nyjryh
+Mangu	Mangu	Plateau	9.391	9.180	2	Agbegbe Ijoba Ibile Mangu|Mangu Local Government Area|manghw_|mangu
+Bokkos	Bokkos	Plateau	9.227	8.927	2	Agbegbe Ijoba Ibile Bokkos|Bokkos Local Government Area|bokkosu
+Barkin Ladi	Barkin Ladi	Plateau	9.550	8.934	2	Agbegbe Ijoba Ibile Barkin Ladi|B'ladi|Barkin Ladi Local Government Area
+Riyom	Riyom	Plateau	9.568	8.685	2	Agbegbe Ijoba Ibile Riyom|Riyom Local Government Area
+Jos North	Jos North	Plateau	9.939	8.902	2	Agbegbe Ijoba Ibile Ariwa Jos|Jos Nord|Jos North Local Government Area|Jos ta Arewa|Pak Jos
+Jos East	Jos East	Plateau	9.891	9.118	2	Agbegbe Ijoba Ibile Ilaorun Jos|Jos East Local Government Area|Jos Est|Jos ta Gabas|Tang Jos
+Bassa	Bassa	Plateau	10.082	8.785	2	Agbegbe Ijoba Ibile Bassa|Bassa Local Government Area
+Mikang	Mikang	Plateau	9.007	9.608	2	Agbegbe Ijoba Ibile Mikang|Mikang Local Government Area
+Langtang South	Langtang South	Plateau	8.602	9.810	2	Agbegbe Ijoba Ibile Guusu Langtang|Lam Langtang|Langtang South Local Government Area|Langtang Sud|Langtang ta Kudu|Langt
+Zangon Kataf	Zangon Kataf	Kaduna	9.841	8.255	2	Agbegbe Ijoba Ibile Zangon-Kataf|Nietcen Afakan|Zango Kataf|Zangon-Kataf|Zangon-Kataf Local Government Area
+Kaura	Kaura	Kaduna	9.612	8.470	2	Agbegbe Ijoba Ibile Kaura|Kaura Local Government Area|Watyap
+Kajuru	Kajuru	Kaduna	10.277	7.858	2	Agbegbe Ijoba Ibile Kajuru|Ajure|Kajuru Local Government Area
+Jaba	Jaba	Kaduna	9.482	8.044	2	Agbegbe Ijoba Ibile Jaba|Jaba Local Government Area|jab  nayjyrya
+Rijau	Rijau	Niger	11.099	5.188	2	Agbegbe Ijoba Ibile Rijau|Rijau Local Government Area
+Mashegu	Mashegu	Niger	9.930	5.234	2	Agbegbe Ijoba Ibile Mashegu|Mashegu Local Government Area
+Wushishi	Wushishi	Niger	9.702	5.937	2	Agbegbe Ijoba Ibile Wushishi|Wushishi Local Government Area|wu shen shi
+Wamba	Wamba	Nasarawa	8.982	8.695	2	Agbegbe Ijoba Ibile Wamba|Uamba|Wamba Local Government Area|wanba
+Isin	Isin	Kwara	8.267	5.054	2	Agbegbe Ijoba Ibile Isin|Isin Local Government Area
+Ibarapa Central	Ibarapa Central	Oyo	7.437	3.268	2	Gbongan Ibarapa|Ibarapa Central Local Government Area|Ibarapa ta Tsakiya
+Imeko Afon	Imeko Afon	Ogun	7.662	2.864	2	Agbegbe Ijoba Ibile Imeko-Afon|Imeko-Afon|Imeko-Afon Local Government Area
+Abeokuta North	Abeokuta North	Ogun	7.231	3.168	2	Abeokuta Nord|Abeokuta North Local Government Area|Abeokuta ta Arewa|Abeokuta-Norte|Abeokuta-North|Agbegbe Ijoba Ibile A
+Abeokuta South	Abeokuta South	Ogun	7.154	3.355	2	Abeokuta South Local Government Area|Abeokuta Sud|Abeokuta ta Kudu|Abeokuta-South|Abeokuta-Sul|Agbegbe Ijoba Ibile Guusu
+Ijebu North	Ijebu North	Ogun	6.996	3.971	2	Agbegbe Ijoba Ibile Ariwa Ijebu|Ijebu Nord|Ijebu North Local Government Area|Ijebu ta Arewa|Ijebu-Norte|Pak Ijebu
+Ogun Waterside	Ogun Waterside	Ogun	6.484	4.386	2	Agbegbe Ijoba Ibile Ogun Waterside|Ogun Water Side|Ogun Waterside Local Government Area|Ogun littoral
+Aiyedire	Aiyedire	Osun	7.581	4.235	2	Agbegbe Ijoba Ibile Aiyedire|Aijedire|Ayedire|Ayedire Local Government Area|aydyr
+Ifedayo	Ifedayo	Osun	7.978	4.989	2	Agbegbe Ijoba Ibile Ifedayo|Ife Dayo|Ifedajo|Ifedayo Local Government Area
+Obokun	Obokun	Osun	7.787	4.763	2	Agbegbe Ijoba Ibile Obokun|Obokun Local Government Area|obokun
+Ife North	Ife North	Osun	7.267	4.447	2	Agbegbe Ijoba Ibile Ariwa Ife|Ife Nord|Ife North Local Government Area|Ife ta Arewa|Ife-North|Pak Ife
+Ekiti West	Ekiti West	Ekiti	7.687	5.028	2	Agbegbe Ijoba Ibile Iwoorun Ekiti|Ekiti Ouest|Ekiti West Local Government Area|Ekiti ta Yamma|Se Ekiti
+Ilejemeje	Ilejemeje	Ekiti	7.958	5.237	2	Agbegbe Ijoba Ibile Ilejemeje|Ilejemeje Local Government Area
+Ekiti East	Ekiti East	Ekiti	7.735	5.669	2	Agbegbe Ijoba Ibile Ilaorun Ekiti|Ekiti East Local Government Area|Ekiti Est|Ekiti Leste|Ekiti ta Gabas|Tang Ekiti
+Irepodun/Ifelodun	Irepodun/Ifelodun	Ekiti	7.716	5.229	2	Agbegbe Ijoba Ibile Irepodun/Ifelodun|Ifelodun/Irepodun|Irepodun/Ifelodun Local Government Area
+Ekiti South-West	Ekiti South-West	Ekiti	7.513	5.052	2	Agbegbe Ijoba Ibile Guusu-Iwoorun Ekiti|Ekiti South West|Ekiti South West Local Government Area|Ekiti Sud Ouest|Ekiti Su
+Okitipupa	Okitipupa	Ondo	6.548	4.699	2	Agbegbe Ijoba Ibile Okitipupa|Okitipupa Local Government Area
+Akure South	Akure South	Ondo	7.205	5.188	2	Agbegbe Ijoba Ibile Guusu Akure|Akure South Local Government Area|Akure Sud|Akure ta Kudu|Lam Akure|jnwb akwr
+Ajaokuta	Ajaokuta	Kogi	7.524	6.581	2	Adzhaokuta|Agbegbe Ijoba Ibile Ajaokuta|Ajaokuta Local Government Area|a jiao ku ta|ajaokuta|ajaykwta
+Olamaboro	Olamaboro	Kogi	7.187	7.528	2	Agbegbe Ijoba Ibile Olamaboro|Olamaboro Local Government Area
+Ayamelum	Ayamelum	Anambra	6.554	6.987	2	Agbegbe Ijoba Ibile Ayamelum|Ayamelum Local Government Area
+Aguata	Aguata	Anambra	5.991	7.081	2	Agbegbe Ijoba Ibile Aguata|Aguata Local Government Area|agwata|aqwata
+Onitsha South	Onitsha South	Anambra	6.127	6.777	2	Agbegbe Ijoba Ibile Guusu Onitsha|Lam Onitsha|Onitsha South Local Government Area|Onitsha Sud|Onitsha ta Kudu|Onitsha-Su
+Southern Ijaw	Southern Ijaw	Bayelsa	4.677	5.942	2	Agbegbe Ijoba Ibile Apaguusu Ijaw|Southern Ijaw Local Government Area|Southern-Ijaw|Southern/Ndida Ijaw|Sud Ijaw
+Ogbia	Ogbia	Bayelsa	4.774	6.327	2	Agbegbe Ijoba Ibile Ogbia|Ogbia Local Government Area|ke bi ya
+Ahoada East	Ahoada East	Rivers	5.070	6.643	2	Agbegbe Ijoba Ibile Ilaorun Ahoada|Ahoada East Local Government Area|Ahoada Est|Ahoada Leste|Ahoada ta Gabas|Tang Ahoada
+Okrika	Okrika	Rivers	4.638	7.082	2	Agbegbe Ijoba Ibile Okrika|Ocrica|Okrika Local Government Area|ao ke li ka|okurika gang
+Ikeduru	Ikeduru	Imo	5.568	7.153	2	Agbegbe Ijoba Ibile Ikeduru|Ikeduru Local Government Area
+Ideato North	Ideato North	Imo	5.885	7.131	2	Agbegbe Ijoba Ibile Ariwa Ideato|Ideato Nord|Ideato Norte|Ideato North Local Government Area|Ideato ta Arewa|Pak Ideato
+Owerri North	Owerri North	Imo	5.457	7.103	2	Agbegbe Ijoba Ibile Ariwa Owerri|Owerri Nord|Owerri North Local Government Area|Owerri ta Arewa|Pak Owerri|beioueri
+Arochukwu	Arochukwu	Abia	5.486	7.766	2	Agbegbe Ijoba Ibile Arochukwu|Arochokwu|Arochukvu|Arochukwu Local Government Area|a luo qiu ku
+Osisioma Ngwa	Osisioma Ngwa	Abia	5.199	7.331	2	Agbegbe Ijoba Ibile Osisioma-Ngwa|Osisioma|Osisioma Ngwa Local Government Area|Ozisioma Ngva
+Ikono	Ikono	Akwa Ibom	5.210	7.794	2	Agbegbe Ijoba Ibile Ikono|Ikono Local Government Area
+Ibiono Ibom	Ibiono Ibom	Akwa Ibom	5.207	7.893	2	Ibiono Ibom Local Government Area
+Itu	Itu	Akwa Ibom	5.143	7.978	2	Agbegbe Ijoba Ibile Itu|Itu Local Government Area|itou
+Etim Ekpo	Etim Ekpo	Akwa Ibom	4.978	7.592	2	Agbegbe Ijoba Ibile Etim Ekpo|Etim Ekpo Local Government Area|Etim-Ekpo
+Ukanafun	Ukanafun	Akwa Ibom	4.897	7.597	2	Agbegbe Ijoba Ibile Ukanafun|Ukanafun Local Government Area
+Ibeno	Ibeno	Akwa Ibom	4.565	8.073	2	Agbegbe Ijoba Ibile Ibeno|Ibeno Local Government Area
+Okobo	Okobo	Akwa Ibom	4.827	8.132	2	Agbegbe Ijoba Ibile Okobo|Okobo Local Government Area
+Yala	Yala	Cross River	6.654	8.549	2	Agbegbe Ijoba Ibile Yala|Yala Local Government Area|yala  nayjyrya
+Bekwarra	Bekwarra	Cross River	6.696	8.911	2	Agbegbe Ijoba Ibile Bekwarra|Bekwara|Bekwarra Local Government Area
+Obanliku	Obanliku	Cross River	6.537	9.307	2	Agbegbe Ijoba Ibile Obanliku|Obanliku Local Government Area
+Biase	Biase	Cross River	5.559	8.078	2	Agbegbe Ijoba Ibile Biase|Biase Local Government Area
+Akamkpa	Akamkpa	Cross River	5.427	8.519	2	Agbegbe Ijoba Ibile Akamkpa|Akamkpa Local Government Area|akamkpa
+Odukpani	Odukpani	Cross River	5.185	8.133	2	Agbegbe Ijoba Ibile Odukpani|Odukpani Local Government Area
+Ohaukwu	Ohaukwu	Ebonyi	6.533	8.023	2	Agbegbe Ijoba Ibile Ohaukwu|Ohaukwu Local Government Area
+Ebonyi	Ebonyi	Ebonyi	6.522	8.130	2	Agbegbe Ijoba Ibile Ebonyi|Ebonyi Local Government Area
+Onicha	Onicha	Ebonyi	6.099	7.841	2	Agbegbe Ijoba Ibile Onicha|Onicha Local Government Area
+Ohaozara	Ohaozara	Ebonyi	6.011	7.777	2	Agbegbe Ijoba Ibile Ohaozara|Ohaozara Local Government Area
+Ivo	Ivo	Ebonyi	5.884	7.623	2	Agbegbe Ijoba Ibile Ivo|Ivo Local Government Area
+Udenu	Udenu	Enugu	6.872	7.567	2	Agbegbe Ijoba Ibile Udenu|Udenu Local Government Area|adynw|ywdnw
+Apa	Apa	Benue	7.630	7.871	2	Agbegbe Ijoba Ibile Apa|Apa Local Government Area
+Tarka	Tarka	Benue	7.621	8.882	2	Agbegbe Ijoba Ibile Tarka|Tarka Local Government Area
+Obi	Obi	Benue	7.022	8.294	2	Agbegbe Ijoba Ibile Obi|Obi Local Government Area
+Ukum	Ukum	Benue	7.644	9.564	2	Agbegbe Ijoba Ibile Ukum|Ukum Local Government Area
+Lau	Lau	Taraba	9.187	11.420	2	Agbegbe Ijoba Ibile Lau|Lau Local Government Area|Law|lw  nayjrya
+Ibi	Ibi	Taraba	8.351	9.887	2	Ibi Local Government Area
+Gassol	Gassol	Taraba	8.473	10.544	2	Agbegbe Ijoba Ibile Gassol|Gassol Local Government Area
+Bali	Bali	Taraba	8.155	10.969	2	Agbegbe Ijoba Ibile Bali|Bali Local Government Area|bari de fang xing zheng qu
+Donga	Donga	Taraba	7.591	10.213	2	Agbegbe Ijoba Ibile Donga|Donga Local Government Area|tang jia
+Takum	Takum	Taraba	7.412	10.045	2	Agbegbe Ijoba Ibile Takum|Takum Local Government Area
+Ussa	Ussa	Taraba	7.087	10.038	2	Agbegbe Ijoba Ibile Ussa|Ussa Local Government Area
+Billiri	Billiri	Gombe	9.816	11.124	2	Agbegbe Ijoba Ibile Billiri|Billiri Local Government Area
+Balanga	Balanga	Gombe	9.810	11.786	2	Agbegbe Ijoba Ibile Balanga|Balanga Local Government Area
+Kaltungo	Kaltungo	Gombe	9.824	11.422	2	Agbegbe Ijoba Ibile Kaltungo|Kaltungo Local Government Area
+Yamaltu/Deba	Yamaltu/Deba	Gombe	10.238	11.442	2	Agbegbe Ijoba Ibile Yamaltu/Deba|Jamaltu/Deba|Yamaltu/Deba Local Government Area|ya ma er tu/de ba|yamaltw/dba|yamarutou
+Funakaye	Funakaye	Gombe	10.742	11.408	2	Agbegbe Ijoba Ibile Funakaye|Funakaye Local Government Area
+Mubi North	Mubi North	Adamawa	10.350	13.406	2	Agbegbe Ijoba Ibile Ariwa Mubi|Mubi Nord|Mubi North Local Government Area|Mubi ta Arewa|Pak Mubi
+Mubi South	Mubi South	Adamawa	10.187	13.396	2	Agbegbe Ijoba Ibile Guusu Mubi|Lam Mubi|Mubi South Local Government Area|Mubi Sud|Mubi ta Kudu
+Hong	Hong	Adamawa	10.310	12.925	2	Agbegbe Ijoba Ibile Hong|Hong Local Government Area
+Guyuk	Guyuk	Adamawa	9.823	11.920	2	Agbegbe Ijoba Ibile Guyuk|Gayuk|Guyuk Local Government Area|kywk
+Yola South	Yola South	Adamawa	9.253	12.436	2	Agbegbe Ijoba Ibile Guusu Yola|Lam Yola|Yola Fombina|Yola South Local Government Area|Yola Sud|Yola ta Kudu|ywla jnwby
+Abadam	Abadam	Borno	13.432	13.313	2	Abadam Local Government Area|Agbegbe Ijoba Ibile Abadam|abadam
+Guzamala	Guzamala	Borno	12.918	13.214	2	Agbegbe Ijoba Ibile Guzamala|Guzamala Local Government Area
+Nganzai	Nganzai	Borno	12.509	13.104	2	Agbegbe Ijoba Ibile Nganzai|Nganzai Local Government Area|en gan zha yi
+Marte	Marte	Borno	12.410	13.873	2	Agbegbe Ijoba Ibile Marte|Marte Local Government Area|ma er te
+Ngala	Ngala	Borno	12.215	14.183	2	Agbegbe Ijoba Ibile Ngala|Ngala Local Government Area|en jia la
+Jere	Jere	Borno	11.899	13.292	2	Agbegbe Ijoba Ibile Jere|Jere Local Government Area
+Kaga	Kaga	Borno	11.645	12.452	2	Agbegbe Ijoba Ibile Kaga|Kaga Local Government Area
+Chibok	Chibok	Borno	10.836	12.771	2	Agbegbe Ijoba Ibile Chibok|Chibok Local Government Area|chiboku|chybwk|qi bo ke|z'ybwq
+Hawul	Hawul	Borno	10.433	12.247	2	Agbegbe Ijoba Ibile Hawul|Hawul Local Government Area
+Shani	Shani	Borno	10.184	11.964	2	Agbegbe Ijoba Ibile Shani|Shani Local|Shani Local Government Area
+Machina	Machina	Yobe	13.045	9.985	2	Agbegbe Ijoba Ibile Machina|Machina Local Government Area|Macina|machina|machyna  nayyjyrya
+Yunusari	Yunusari	Yobe	13.104	11.786	2	Agbegbe Ijoba Ibile Yunusari|Yunusari Local Government Area|yunusari|ywnsry
+Karasuwa	Karasuwa	Yobe	12.963	10.783	2	Agbegbe Ijoba Ibile Karasuwa|Karasuwa Local Government Area|karasuwa
+Geidam	Geidam	Yobe	12.655	12.067	2	Agbegbe Ijoba Ibile Geidam|Geidam Local Government Area|Geidama|Geidamas|Geidan|Gejdam|Nkeintam|gai da mu|ge'idama|geida
+Jakusko	Jakusko	Yobe	12.456	10.912	2	Agbegbe Ijoba Ibile Jakusko|Dzakusko|Dzhakusko|Jakuskas|Jakusko Local Government Area|Tzakousko|cakhas kho|jakskko|jakus
+Fune	Fune	Yobe	11.852	11.449	2	Agbegbe Ijoba Ibile Fune|Fune Local Government Area|fune
+Nangere	Nangere	Yobe	11.820	10.971	2	Agbegbe Ijoba Ibile Nangere|Nangere Local Government Area|nangere
+Fika	Fika	Yobe	11.377	11.237	2	Agbegbe Ijoba Ibile Fika|Fika Local Government Area|fika
+Ibite	Udi	Enugu	6.293	7.400	2	
+Ibite Olo	Ezeagu	Enugu	6.456	7.128	2	
+Ibi	Gwer East	Benue	7.319	8.487	2	
+Obiago-Ibom	Abakaliki	Ebonyi	6.316	8.373	2	
+Ibam	Ikwo	Ebonyi	6.072	8.172	2	
+Ibago	Igabi	Kaduna	10.791	7.775	2	
+Ibuor	Markurdi	Benue	7.732	8.484	2	
+Ibyor	Logo	Benue	7.841	9.056	2	
+Ibi	Logo	Benue	7.766	9.101	2	
+Ibom	Logo	Benue	7.560	9.240	2	
+Tse-Iba	Ukum	Benue	7.623	9.463	2	
+Ibo	Wukari	Taraba	7.755	9.963	2	
+Ibavel	Ukum	Benue	7.624	9.610	2	
+Iboshzen	Takum	Taraba	7.590	9.955	2	
+Gra-Ibi	Wukari	Taraba	7.960	9.876	2	
+Ibi	Gboko	Benue	7.221	9.042	2	
+Ibiobio Camp	Southern Ijaw	Bayelsa	4.490	6.028	2	
+Iburutorukiri	Nembe	Bayelsa	4.470	6.408	2	
+Ibiapukiri	Nembe	Bayelsa	4.414	6.380	2	
+Ibereko	Badagry	Lagos	6.495	3.054	2	
+Iba	Ojo	Lagos	6.516	3.187	2	
+Ibeshe	Amuwo Odofin	Lagos	6.418	3.272	2	
+Ibafon	Ajeromi/Ifelodun	Lagos	6.445	3.326	2	
+Ibuowo Owotutu	Shomolu	Lagos	6.541	3.380	2	
+Aderupoko Ibebu Quarters	Lagos Mainland	Lagos	6.502	3.389	2	
+Ibese	Ìkòròdú	Lagos	6.553	3.482	2	
+Ibonwon	Epe	Lagos	6.635	4.015	2	
+Ibeju One	Ibeju Lekki	Lagos	6.496	3.899	2	Ibeju I Ward
+Ibeju Two	Ibeju Lekki	Lagos	6.501	3.824	2	Ibeju II Ward
+Iyoba	Etsako West	Edo	6.931	6.420	2	Ibhioba
+Ibhiolulu	Esan Central	Edo	6.785	6.358	2	Ibiololo|Ihiolo
+Ibhiodan	Esan South-East	Edo	6.540	6.434	2	
+Ibikologbene	Southern Ijaw	Bayelsa	4.682	5.590	2	
+Ibarre	Yola North	Adamawa	9.306	12.247	2	
+Ibarre Wuro Isiaku	Demsa	Adamawa	9.306	12.003	2	
+Ibarre	Mayo-Belwa	Adamawa	9.168	12.028	2	
+Ibarre	Fufore	Adamawa	9.051	12.213	2	
+Ibarre	Fufore	Adamawa	9.143	12.231	2	
+Ungwar Ibrahim	Karim Lamido	Taraba	9.274	11.144	2	
+Ibitoye	Oluyole	Oyo	7.243	4.000	2	
+Ibona	Isokan	Osun	7.323	4.203	2	
+Ibuoye-Oba	Aiyedade	Osun	7.333	4.284	2	
+Ibuoye-Olofon	Isokan	Osun	7.329	4.273	2	
+Ibiyemi	Egbedore	Osun	7.868	4.558	2	
+Ibagba	Ife Central	Osun	7.590	4.536	2	
+Ibodi	Atakunmosa West	Osun	7.564	4.654	2	
+Iberekodo	Atakunmosa West	Osun	7.605	4.642	2	
+Ajegunle-Ibisomi-Ilase	Obokun	Osun	7.744	4.695	2	
+Ibi-Ogede	Boripe	Osun	7.861	4.641	2	
+Oke-Ibo	Obokun	Osun	7.766	4.758	2	
+Ibara	Imeko Afon	Ogun	7.478	2.983	2	
+Ibudo	Yewa North	Ogun	7.185	2.771	2	
+Ibasan	Yewa South	Ogun	6.726	2.900	2	
+Ibarre	Yola North	Adamawa	9.169	12.541	2	
+Ago-Ibekun	Ese Odo	Ondo	6.422	4.890	2	
+Ibo	Keana	Nasarawa	8.198	8.624	2	
+Sekunde-Ibadan	Ife South	Osun	7.222	4.608	2	
+Baba-Ibadan	Ife South	Osun	7.240	4.653	2	
+Ago-Ibo	Ondo East	Ondo	7.070	4.972	2	
+Ibasoyin	Ile Oluji/Okeigbo	Ondo	7.286	4.988	2	
+Ibudoko	Asa	Kwara	8.593	4.371	2	
+Ibiti-Eniakosi	Ìsẹ́yìn	Oyo	7.983	3.626	2	
+Ibba	Mokwa	Niger	9.181	5.379	2	
+Ibidun	Afijio	Oyo	7.668	4.015	2	
+Ibawe	Ipokia	Ogun	6.489	2.871	2	
+Ibadiaran Street	Ikeja	Lagos	6.570	3.364	1	
+Ibukun Olu Street	Shomolu	Lagos	6.524	3.384	1	
+Lagos-Ibadan Expressway	Ikeja	Lagos	6.617	3.366	1	
+1st Ibiwe Street	Oredo	Edo	6.337	5.621	1	
+Ibrahim Babangida Way	Municipal Area Council	FCT Abuja	9.083	7.489	1	IBB Way
+Ibrahim Babangida Boulevard	Municipal Area Council	FCT Abuja	9.099	7.496	1	
+Kashim Ibrahim Street	Municipal Area Council	FCT Abuja	9.069	7.464	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.268	3.840	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.320	3.873	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.336	3.891	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.357	3.923	1	
+Lagos-Ibadan Expressway	Lagelu	Oyo	7.420	3.940	1	
+Lagos-Ibadan Expressway	Lagelu	Oyo	7.434	3.933	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.290	3.866	1	
+Lagos-Ibadan Expressway	Ona Ara	Oyo	7.391	3.937	1	
+Balogun Ibikunle Road	Ibadan North West	Oyo	7.388	3.894	1	
+Ibrahim Babangida Way	Municipal Area Council	FCT Abuja	9.068	7.476	1	
+Kashim Ibrahim Way	Tarauni	Kano	11.982	8.548	1	
+Ahmed Baba Ibrahim Road	Kaduna North	Kaduna	10.578	7.464	1	
+Ibrahim Bui Road	Kaduna North	Kaduna	10.544	7.447	1	
+Ibiyeye Road	Kaduna North	Kaduna	10.513	7.451	1	
+Ibadan Street	Kaduna North	Kaduna	10.512	7.431	1	
+Ibrahim Taiwo Street	Kaduna North	Kaduna	10.518	7.435	1	Abeokuta Street
+Waziri Ibrahim Crescent	Kaduna North	Kaduna	10.543	7.429	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.492	11.839	1	
+2nd Ibiwe Street	Oredo	Edo	6.338	5.622	1	
+2nd Ibiwe Lane	Oredo	Edo	6.337	5.622	1	
+Major General Ibrahim Gumel Road	Sabon Gari	Kaduna	11.112	7.724	1	
+Ibrahim Atere Way	Eti Osa	Lagos	6.434	3.510	1	
+Lagos-Ibadan Expressway	Kosofe	Lagos	6.594	3.383	1	
+Ibidun Street	Surulere	Lagos	6.508	3.360	1	
+Ibikunle Avenue	Ibadan North	Oyo	7.414	3.902	1	
+Waziri Ibrahim Crescent	Eti Osa	Lagos	6.433	3.413	1	
+Ibeh Street (Road)	Oshodi/Isolo	Lagos	6.519	3.321	1	
+Ibidun Street	Oshodi/Isolo	Lagos	6.562	3.341	1	
+Ibiyemi Street	Shomolu	Lagos	6.542	3.369	1	
+Ibezim Obiajulu Street	Surulere	Lagos	6.500	3.352	1	
+Ibukun Street	Surulere	Lagos	6.503	3.365	1	
+Ibadan Street	Lagos Mainland	Lagos	6.485	3.382	1	
+Ibeju Lekki Street	Eti Osa	Lagos	6.457	3.421	1	
+Ibadan Street	Eti Osa	Lagos	6.465	3.426	1	
+Ibafon Street	Ajeromi/Ifelodun	Lagos	6.443	3.331	1	
+Ibrahim Onashokun Street	Kosofe	Lagos	6.560	3.392	1	
+Lagos-Ibadan Expressway	Ifo	Ogun	6.647	3.385	1	
+Lagos-Ibadan Expressway	Ifo	Ogun	6.644	3.379	1	
+Lagos-Ibadan Expressway	Ikeja	Lagos	6.612	3.369	1	
+Adekunle Ibraheem St	Ikeja	Lagos	6.648	3.364	1	
+Ibari Street	Ifako/Ijaye	Lagos	6.633	3.326	1	
+Ibukun Oluwa Street	Ifako/Ijaye	Lagos	6.642	3.337	1	
+Ibiyinka Salvador Street	Eti Osa	Lagos	6.458	3.472	1	
+Ibiere Crescent	Apapa	Lagos	6.446	3.371	1	
+Ibiyinka Olorunbe Close	Eti Osa	Lagos	6.425	3.419	1	
+Ibile Close	Eti Osa	Lagos	6.427	3.447	1	
+Ibrahim Taiwo Road	Kano Municipal	Kano	11.991	8.532	1	
+IBB Road	Dala	Kano	12.014	8.519	1	
+Ibomo Street	Lagos Island	Lagos	6.458	3.389	1	
+Ibironke Crescent	Eti Osa	Lagos	6.461	3.442	1	
+Abdullahi Ibrahim Street	Municipal Area Council	FCT Abuja	9.073	7.450	1	
+Kashim Ibrahim Way	Municipal Area Council	FCT Abuja	9.081	7.473	1	
+IBB Way ( Ibrahim Badamasi Babangida )	Municipal Area Council	FCT Abuja	9.070	7.495	1	
+Ibadan Street	Municipal Area Council	FCT Abuja	9.029	7.482	1	
+Kashim Ibrahim Road	Maiduguri	Borno	11.850	13.172	1	
+Ibrahim Taiwo Road	Offa	Kwara	8.148	4.714	1	
+Waziri Ibrahim Crescent	Municipal Area Council	FCT Abuja	9.006	7.475	1	
+Ibrahim Alli Close	Municipal Area Council	FCT Abuja	9.002	7.477	1	
+IBM Haruna Street	Municipal Area Council	FCT Abuja	9.062	7.440	1	
+Ibrahim Dabo Road	Tarauni	Kano	11.981	8.541	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.445	11.826	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.418	11.828	1	
+Marshall Iberi close	Egor	Edo	6.370	5.569	1	
+Ibadan-Ilorin Expressway	Akinyele	Oyo	7.484	3.917	1	
+Ibadan-Ilorin Expressway	Akinyele	Oyo	7.478	3.915	1	
+Ibude Lane	Oredo	Edo	6.306	5.625	1	
+Ibrahim Taiwo Road	Ilorin East	Kwara	8.483	4.554	1	
+Ibrahim Taiwo Road	Ilorin West	Kwara	8.480	4.538	1	
+Ibrahim Taiwo Road	Jos North	Plateau	9.905	8.882	1	
+Ibrahim Godi Street	Nassarawa	Kano	11.988	8.572	1	
+Iboko-Igbagu Road	Izzi	Ebonyi	6.372	8.196	1	
+IBB Way	Batagarawa	Katsina	12.952	7.636	1	
+IBB Way	Muhammadu Dikko Stadium	Katsina	12.978	7.610	1	
+IBB Way	Muhammadu Dikko Stadium	Katsina	12.970	7.620	1	
+Laula Ibrahim Street	Shomolu	Lagos	6.534	3.391	1	
+Ibrahim Ali Street	Shomolu	Lagos	6.545	3.390	1	
+Ibidun Street	Mushin	Lagos	6.509	3.334	1	
+Ibitoye Igbaja Street	Oshodi/Isolo	Lagos	6.513	3.326	1	
+Abiodun Ibikunle Street	Alimosho	Lagos	6.642	3.279	1	
+Ibizugbe Close	Oredo	Edo	6.331	5.593	1	
+Ibironke Crescent	Kosofe	Lagos	6.568	3.376	1	Ibiromke Crescent
+Ibadan-Ilorin Expressway	Akinyele	Oyo	7.490	3.916	1	
+Ibadan-Ilorin Expressway	Akinyele	Oyo	7.578	3.915	1	
+Ibrahim Gumel Street	Enugu North	Enugu	6.447	7.494	1	
+Major Gen. Ibrahim D. Gumel Street	Enugu North	Enugu	6.449	7.494	1	
+Anyanaeche Ibe Street	Enugu East	Enugu	6.485	7.502	1	
+Ibadan Street	Enugu East	Enugu	6.479	7.505	1	
+Ibiam Street	Enugu North	Enugu	6.432	7.497	1	
+Ibusa Avenue	Enugu North	Enugu	6.442	7.537	1	
+Sir IB Obiekwe Drive	Enugu North	Enugu	6.478	7.478	1	
+C.O. Ibe Street	Enugu East	Enugu	6.484	7.479	1	
+Chris Ibuzo Crescent	Enugu North	Enugu	6.463	7.571	1	
+IBB Link Road	Enugu East	Enugu	6.466	7.553	1	
+Ibrahim Khalil Street	Ungongo	Kano	11.979	8.445	1	
+Kashim Ibrahim Road	Ibadan North	Oyo	7.450	3.897	1	
+Ibrahim Amoda Street	Oshodi/Isolo	Lagos	6.509	3.309	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.348	11.932	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.358	11.900	1	
+Chief Ibrahim Street	Ìkòròdú	Lagos	6.627	3.499	1	
+Prof. IBK Street	Ungongo	Kano	11.976	8.446	1	
+Ibukun Awosika Street	Eti Osa	Lagos	6.443	3.525	1	Udeco Medical Road
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.692	3.415	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.828	3.467	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.728	3.415	1	
+Lagos-Ibadan Expressway	Ikenne	Ogun	6.974	3.664	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	7.145	3.765	1	
+Lagos-Ibadan Expressway	Ikenne	Ogun	6.916	3.629	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.824	3.460	1	
+Lagos-Ibadan Expressway	Remo North	Ogun	7.067	3.716	1	
+Ibari Lane	Eti Osa	Lagos	6.425	3.520	1	
+Ishaya Iko Ibrahim Road	Karu	Nasarawa	8.884	7.600	1	
+Abdul Isa Ibi Street	Jalingo	Taraba	8.936	11.342	1	
+Prince Ibrahim Eletu Avenue	Eti Osa	Lagos	6.443	3.509	1	
+Federal Road F.212 Wara - Ibeto	Magama	Niger	10.319	4.979	1	
+Ibeto Road	Nnewi South	Anambra	6.015	6.946	1	
+Ibiasogbe-Ubulu-Awoidemili Rd	Oru East	Imo	5.782	6.909	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.395	11.844	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.376	11.873	1	
+Ibrahim Sule Panda Street	Nassarawa	Kano	11.976	8.585	1	
+Ibong Road	Ikot Ekpene	Akwa Ibom	5.192	7.688	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.459	11.833	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.478	11.838	1	
+Ibeku Road	Umuahia North	Abia	5.536	7.497	1	
+Ibitayo Street	Kosofe	Lagos	6.619	3.370	1	
+Mgbidi-Ibiasogbe Rd	Oru West	Imo	5.759	6.899	1	
+Iboko-Ndinkwoda Road	Izzi	Ebonyi	6.587	8.235	1	
+Ibrahim Umar Street	Tarauni	Kano	11.974	8.536	1	
+IBB Avenue	Uyo	Akwa Ibom	5.018	7.910	1	
+Issac-Iboh Ofu Street	Eti Osa	Lagos	6.470	3.575	1	
+Royal Duke Ibejiako Str.	Owerri Municipal	Imo	5.484	7.011	1	
+Ubetim Road Odo Akwa Ibom	Nsit Atai	Akwa Ibom	4.865	8.019	1	
+Idris Ibrahim Crescent	Municipal Area Council	FCT Abuja	9.059	7.413	1	
+Ibuchim Close	Obio/Akpor	Rivers	4.824	7.065	1	
+Ibi Street	Warri South	Delta	5.511	5.750	1	
+Ibefun Lane	Mushin	Lagos	6.550	3.363	1	
+Ibilola Olatunji Close	Eti Osa	Lagos	6.474	3.580	1	
+Emmanuel Ibitolu Street	Eti Osa	Lagos	6.483	3.575	1	
+Nwankwo Ibusa Drive	Eti Osa	Lagos	6.483	3.576	1	
+Mazi Ukodike Ibe Street	Eti Osa	Lagos	6.482	3.583	1	
+Ibukunola Street	Alimosho	Lagos	6.670	3.266	1	
+Idowu Ibiyemi	Alimosho	Lagos	6.551	3.216	1	
+Dan Ibekwe Street	Municipal Area Council	FCT Abuja	9.070	7.439	1	
+Ibironke Adewusi Street	Alimosho	Lagos	6.660	3.257	1	
+Iwo - Ibadan Road	Egbeda	Oyo	7.433	4.005	1	
+Ibrahim Bako Road	Kaduna North	Kaduna	10.576	7.423	1	
+Ibari Road	Alimosho	Lagos	6.676	3.259	1	
+Iboko-Ndinkwoda Road	Izzi	Ebonyi	6.509	8.197	1	
+Aliu Ibiyimi Street	Oshodi/Isolo	Lagos	6.510	3.311	1	
+Ibadan Street	Oshodi/Isolo	Lagos	6.516	3.331	1	
+Ibode Aseyori Crescent	Akure South	Ondo	7.248	5.168	1	
+Ibeshe Road	Ìkòròdú	Lagos	6.573	3.486	1	
+Olori Ibidunni Lebi Street	Eti Osa	Lagos	6.473	3.655	1	
+AVM. Ibrahim Kure Road	Kaduna North	Kaduna	10.526	7.453	1	
+Kashim Ibrahim Road	Kaduna North	Kaduna	10.534	7.452	1	
+Ibiyemi Street	Ede North	Osun	7.757	4.438	1	
+Ibadan-Iwo	Iwo	Osun	7.641	4.186	1	
+Iboko-Igbagu Road	Izzi	Ebonyi	6.410	8.237	1	
+Ibani Street	Port-Harcourt	Rivers	4.745	7.036	1	
+Ibadan Drive	Oluyole	Oyo	7.342	3.818	1	
+Ibukun Oluwa Street	Akoko North East	Ondo	7.525	5.758	1	
+John Iboi Close	Eti Osa	Lagos	6.470	3.662	1	
+Prince Ibeh Arinze Crescent	Oshodi/Isolo	Lagos	6.491	3.314	1	
+Ibanga Street	Uyo	Akwa Ibom	5.030	7.935	1	
+Ibiono Street	Uyo	Akwa Ibom	5.023	7.934	1	
+Asuquo Ibanga Street	Uyo	Akwa Ibom	5.030	7.977	1	
+Orisun Ibukun Avenue	Ìjẹ̀bú Òde	Ogun	6.806	3.929	1	
+Ibb way	Lokoja	Kogi	7.797	6.742	1	
+Iwo - Ibadan Road	Iwo	Osun	7.619	4.143	1	
+Iwo - Ibadan Road	Iwo	Osun	7.652	4.175	1	
+Maria Ibidunni Street	Ilorin East	Kwara	8.474	4.618	1	
+Odot 2 Akwa Ibom	Nsit Atai	Akwa Ibom	4.832	8.042	1	
+Ikot Ekong/Akpang Offop Road Odot Akwa Ibom	Nsit Atai	Akwa Ibom	4.808	8.039	1	
+Ibesikpo Road	Nsit Atai	Akwa Ibom	4.838	8.004	1	
+Ikot Ekpuk Odot Alwa Ibom	Nsit Atai	Akwa Ibom	4.824	8.042	1	
+Iboko-Ndinkwoda Road	Ebonyi	Ebonyi	6.666	8.162	1	
+Iboko-Ndinkwoda Road	Ohaukwu	Ebonyi	6.628	8.054	1	
+Ajayi Ibe Street	Agege	Lagos	6.633	3.314	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.223	3.810	1	
+Ibadan Circular Road	Ona Ara	Oyo	7.335	4.047	1	South East segment Ibadan circular road
+Iberekodo Street	Eti Osa	Lagos	6.447	3.519	1	
+Ibukun Olu Street	Shomolu	Lagos	6.527	3.385	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.095	3.730	1	
+Ibefu Street	Kosofe	Lagos	6.588	3.400	1	
+Lagos-Ibadan Expressway	Shagamu	Ogun	6.902	3.596	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.737	3.419	1	
+Prof. Ibrahim A. Kiyawa Street	Gwale	Kano	11.981	8.472	1	
+Link 6 Fr. Ibrahim Gwale Street	Gwale	Kano	11.974	8.475	1	
+Ibadan Circular Road	Egbeda	Oyo	7.367	4.071	1	South East segment Ibadan circular road
+Lagos-Ibadan Expressway	Remo North	Ogun	7.033	3.706	1	
+Lagos-Ibadan Expressway	Remo North	Ogun	7.051	3.713	1	
+Ibadan-Ilorin Expressway	Ogbomosho North	Oyo	8.160	4.231	1	
+Iwo - Ibadan Road	Lagelu	Oyo	7.480	4.078	1	
+Iwo - Ibadan Road	Lagelu	Oyo	7.523	4.088	1	
+Iwo - Ibadan Road	Lagelu	Oyo	7.558	4.101	1	
+Iwo - Ibadan Road	Lagelu	Oyo	7.598	4.126	1	
+Iwo - Ibadan Road	Lagelu	Oyo	7.486	4.079	1	
+Ibikunle Street	Amuwo Odofin	Lagos	6.441	3.279	1	
+Ibadan Circular Road	Oluyole	Oyo	7.238	3.838	1	South East segment Ibadan circular road
+Ibadan Circular Road	Egbeda	Oyo	7.364	4.067	1	South East segment Ibadan circular road
+Ibadan Circular Road	Egbeda	Oyo	7.348	4.061	1	South East segment Ibadan circular road
+Iwo - Ibadan Road	Egbeda	Oyo	7.436	4.005	1	
+Iwo - Ibadan Road	Egbeda	Oyo	7.452	4.039	1	
+Ibidapo Shobowale Street	Ìkòròdú	Lagos	6.622	3.482	1	
+Ibrahim Taiwo Road	Offa	Kwara	8.141	4.719	1	
+Kajola Ibooro Road	Ado Odo/Ota	Ogun	6.689	3.057	1	
+Prince Ibrahim Olukolu Lane	Eti Osa	Lagos	6.434	3.523	1	
+Old Ibadan Airport	Ibadan North	Oyo	7.432	3.909	0	
+Federal government college, Ibillo	Akoko-Edo	Edo	7.448	6.060	0	
+Ibillo primary school, Ibillo	Akoko-Edo	Edo	7.436	6.071	0	
+Akwa Ibom Motor Park	Oredo	Edo	6.346	5.635	0	
+Ibadan Civic Centre	Ibadan North	Oyo	7.401	3.923	0	
+Ibadan North East LG	Ibadan North East	Oyo	7.404	3.934	0	
 Ibru Medical Center	Ughelli North	Delta	5.533	6.062	0	
 Ibinola primary school	Billiri	Gombe	9.896	11.222	0	
 Ibuji Market	Ifedore	Ondo	7.455	5.067	0	
 Iboropa Ako Market	Akoko North East	Ondo	7.535	5.852	0	
-Ibadan	Port-Harcourt	Rivers	4.756	7.031	2	
 Ibrahim Waziri Abubakar	Gombe	Gombe	10.305	11.171	0	
 Ibrahim wakili & sons ltd	Yamaltu/Deba	Gombe	10.277	11.250	0	
 Alhaji Ibrahim G Abdulkarim filling station	Yamaltu/Deba	Gombe	10.277	11.257	0	
@@ -146,305 +963,35 @@ Emmanuel Hospital, Awotan- Apete, Ibadan	Ido	Oyo	7.450	3.870	0
 New Day Hospital, Challenge, express road, Ibadan	Ibadan South East	Oyo	7.345	3.913	0	
 Olodo PHC, Ibadan	Egbeda	Oyo	7.418	4.013	0	
 Abdullahi IBN Masud islamic School	Maiduguri	Borno	11.828	13.109	0	
-Iboko	Izzi	Ebonyi	6.405	8.227	3	
-Ibiaku Ntok Okpo	Ikono	Akwa Ibom	5.297	7.711	3	
 specialist Hospital No6 Shehu Ibrahim Close Malali	Kaduna North	Kaduna	10.550	7.470	0	
 Giant IBK	Akure South	Ondo	7.292	5.153	0	
 Ibironke Lodge	Akure South	Ondo	7.287	5.149	0	
 Ibafon Primary Health Center	Ajeromi/Ifelodun	Lagos	6.443	3.331	0	
 Al ibadah children School	Alimosho	Lagos	6.522	3.237	0	
-MAKARANTAR MALAM IBRAHIM MAI YAR HULA	Ungongo	Kano	12.040	8.564	0	
-IBN KASIR ACADEMY	Ungongo	Kano	12.038	8.564	0	
-KHULAFA'U RRASHIDIN RIDWAN IBRAHIM ACADEMY	Gwale	Kano	11.961	8.466	0	
+Makarantar Malam Ibrahim Mai Yar Hula	Ungongo	Kano	12.040	8.564	0	
+Ibn Kasir Academy	Ungongo	Kano	12.038	8.564	0	
+Khulafa'U Rrashidin Ridwan Ibrahim Academy	Gwale	Kano	11.961	8.466	0	
 Olabisi Onabanjo University, Ibogun	Ifo	Ogun	6.811	3.111	0	
-Umu Dikwu Ibeku Opi	Nsukka	Enugu	6.781	7.423	2	Umu Dikwu Agbor
-Ibasa	Amuwo Odofin	Lagos	6.425	3.255	0	
 Ibeshe Palace	Amuwo Odofin	Lagos	6.412	3.256	0	
-Ibiasogbe	Oru East	Imo	5.782	6.907	3	
 Balogun Nursery & Primary School Ibrahim Taiwo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.483	4.551	0	
 Bovas, Ibrahim Taiwo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.482	4.548	0	
 ibido health clinic	Odogbolu	Ogun	6.711	3.869	0	
-Ibido, omu ijebu	Odogbolu	Ogun	6.711	3.868	3	
-Ibeju-Lekki	Ibeju Lekki	Lagos	6.471	3.808	3	
 ibeshe/thesaurus ferry terminal	Ìkòròdú	Lagos	6.552	3.473	0	
-ibese	Amuwo Odofin	Lagos	6.408	3.262	0	
 Iyana-Iba Market	Ojo	Lagos	6.461	3.204	0	
-Ibadiaran Street	Ikeja	Lagos	6.570	3.364	1	
-Ibukun Olu Street	Shomolu	Lagos	6.524	3.384	1	
-Lagos-Ibadan Expressway	Ikeja	Lagos	6.617	3.366	1	
-1st Ibiwe Street	Oredo	Edo	6.337	5.621	1	
-Ibrahim Babangida Way	Municipal Area Council	FCT Abuja	9.083	7.489	1	IBB Way
-Ibrahim Babangida Boulevard	Municipal Area Council	FCT Abuja	9.099	7.496	1	
-Kashim Ibrahim Street	Municipal Area Council	FCT Abuja	9.069	7.464	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.268	3.840	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.320	3.873	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.336	3.891	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.357	3.923	1	
-Lagos-Ibadan Expressway	Lagelu	Oyo	7.420	3.940	1	
-Lagos-Ibadan Expressway	Lagelu	Oyo	7.404	3.944	1	
-Lagos-Ibadan Expressway	Lagelu	Oyo	7.434	3.933	1	
-Lagos-Ibadan Expressway	Akinyele	Oyo	7.454	3.921	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.290	3.866	1	
-Lagos-Ibadan Expressway	Ona Ara	Oyo	7.391	3.937	1	
-Balogun Ibikunle Road	Ibadan North West	Oyo	7.388	3.894	1	
-Ibrahim Babangida Way	Municipal Area Council	FCT Abuja	9.068	7.476	1	
-Kashim Ibrahim Way	Tarauni	Kano	11.982	8.548	1	
-Ahmed Baba Ibrahim Road	Kaduna North	Kaduna	10.578	7.464	1	
-Ibrahim Bui Road	Kaduna North	Kaduna	10.544	7.447	1	
-Ibiyeye Road	Kaduna North	Kaduna	10.513	7.451	1	
-Ibadan Street	Kaduna North	Kaduna	10.512	7.431	1	
-Ibrahim Taiwo Street	Kaduna North	Kaduna	10.518	7.435	1	Abeokuta Street
-Ibrahim Taiwo Street	Kaduna North	Kaduna	10.517	7.426	1	
-Waziri Ibrahim Crescent	Kaduna North	Kaduna	10.543	7.429	1	
-Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.492	11.839	1	
-2nd Ibiwe Street	Oredo	Edo	6.338	5.622	1	
-2nd Ibiwe Lane	Oredo	Edo	6.337	5.622	1	
-Major General Ibrahim Gumel Road	Sabon Gari	Kaduna	11.112	7.724	1	
-Ibrahim Babangida Way	Municipal Area Council	FCT Abuja	9.066	7.475	1	IBB Way
 Ogbe-Ibuya Primary School	Oredo	Edo	6.314	5.591	0	
-Ibrahim Atere Way	Eti Osa	Lagos	6.434	3.510	1	
-Lagos-Ibadan Expressway	Kosofe	Lagos	6.594	3.383	1	
-Ibidun Street	Surulere	Lagos	6.508	3.360	1	
-Ibikunle Avenue	Ibadan North	Oyo	7.414	3.902	1	
-Waziri Ibrahim Crescent	Eti Osa	Lagos	6.433	3.413	1	
-Ibeh Street (Road)	Oshodi/Isolo	Lagos	6.519	3.321	1	
-Ibidun Street	Oshodi/Isolo	Lagos	6.562	3.341	1	
-Ibiyemi Street	Shomolu	Lagos	6.542	3.369	1	
-Ibezim Obiajulu Street	Surulere	Lagos	6.500	3.352	1	
-Ibukun Street	Surulere	Lagos	6.503	3.365	1	
-Ibadan Street	Lagos Mainland	Lagos	6.485	3.382	1	
-Ibeju Lekki Street	Eti Osa	Lagos	6.457	3.421	1	
-Ibadan Street	Eti Osa	Lagos	6.465	3.426	1	
-Ibafon Street	Ajeromi/Ifelodun	Lagos	6.443	3.331	1	
-Ibrahim Onashokun Street	Kosofe	Lagos	6.560	3.392	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.642	3.375	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.647	3.385	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.644	3.379	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.656	3.398	1	
-Lagos-Ibadan Expressway	Ikeja	Lagos	6.612	3.369	1	
-Lagos-Ibadan Expressway	Ikeja	Lagos	6.629	3.365	1	
-Adekunle Ibraheem St	Ikeja	Lagos	6.648	3.364	1	
-Ibari Street	Ifako/Ijaye	Lagos	6.633	3.326	1	
-Ibukun Oluwa Street	Ifako/Ijaye	Lagos	6.642	3.337	1	
-Ibiyinka Salvador Street	Eti Osa	Lagos	6.458	3.472	1	
-Ibiere Crescent	Apapa	Lagos	6.446	3.371	1	
-Ibiyinka Olorunbe Close	Eti Osa	Lagos	6.425	3.419	1	
-Ibile Close	Eti Osa	Lagos	6.427	3.447	1	
-Ibrahim Taiwo Road	Kano Municipal	Kano	11.991	8.532	1	
-IBB Road	Dala	Kano	12.014	8.519	1	
-Ibomo Street	Lagos Island	Lagos	6.458	3.389	1	
-Ibironke Crescent	Eti Osa	Lagos	6.461	3.442	1	
-Abdullahi Ibrahim Street	Municipal Area Council	FCT Abuja	9.073	7.450	1	
-Kashim Ibrahim Way	Municipal Area Council	FCT Abuja	9.081	7.473	1	
-IBB Way ( Ibrahim Badamasi Babangida )	Municipal Area Council	FCT Abuja	9.070	7.495	1	
-Ibadan Street	Municipal Area Council	FCT Abuja	9.029	7.482	1	
-Kashim Ibrahim Road	Maiduguri	Borno	11.850	13.172	1	
-Kashim Ibrahim Road	Maiduguri	Borno	11.858	13.156	1	
-Ibrahim Taiwo Road	Offa	Kwara	8.148	4.714	1	
-Waziri Ibrahim Crescent	Municipal Area Council	FCT Abuja	9.006	7.475	1	
-Ibrahim Alli Close	Municipal Area Council	FCT Abuja	9.002	7.477	1	
-IBM Haruna Street	Municipal Area Council	FCT Abuja	9.062	7.440	1	
-Ibrahim Dabo Road	Tarauni	Kano	11.981	8.541	1	
-Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.445	11.826	1	
-Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.418	11.828	1	
-Marshall Iberi close	Egor	Edo	6.370	5.569	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.484	3.917	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.478	3.915	1	
-Ibude Lane	Oredo	Edo	6.306	5.625	1	
-Ibrahim Taiwo Road	Ilorin East	Kwara	8.483	4.554	1	
-Ibrahim Taiwo Road	Ilorin West	Kwara	8.480	4.538	1	
-Ibrahim Taiwo Road	Ilorin East	Kwara	8.488	4.561	1	
-Ibrahim Taiwo Road	Jos North	Plateau	9.905	8.882	1	
-Ibrahim Godi Street	Nassarawa	Kano	11.988	8.572	1	
-Iboko-Igbagu Road	Izzi	Ebonyi	6.372	8.196	1	
-IBB Way	Batagarawa	Katsina	12.952	7.636	1	
-IBB Way	Muhammadu Dikko Stadium	Katsina	12.978	7.610	1	
-IBB Way	Muhammadu Dikko Stadium	Katsina	12.970	7.620	1	
-Ibadan Street	Surulere	Lagos	6.483	3.377	1	
-Laula Ibrahim Street	Shomolu	Lagos	6.534	3.391	1	
-Ibrahim Ali Street	Shomolu	Lagos	6.545	3.390	1	
-Ibidun Street	Mushin	Lagos	6.509	3.334	1	
-Ibitoye Igbaja Street	Oshodi/Isolo	Lagos	6.513	3.326	1	
-Abiodun Ibikunle Street	Alimosho	Lagos	6.642	3.279	1	
-Ibizugbe Close	Oredo	Edo	6.331	5.593	1	
-Ibironke Crescent	Kosofe	Lagos	6.568	3.376	1	Ibiromke Crescent
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.490	3.916	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.578	3.915	1	
-Ibrahim Gumel Street	Enugu North	Enugu	6.447	7.494	1	
-Major Gen. Ibrahim D. Gumel Street	Enugu North	Enugu	6.449	7.494	1	
-Anyanaeche Ibe Street	Enugu East	Enugu	6.485	7.502	1	
-Ibadan Street	Enugu East	Enugu	6.479	7.505	1	
-Ibiam Street	Enugu North	Enugu	6.432	7.497	1	
-Ibusa Avenue	Enugu North	Enugu	6.442	7.537	1	
-Ibusa Avenue	Enugu North	Enugu	6.445	7.537	1	
-Sir IB Obiekwe Drive	Enugu North	Enugu	6.478	7.478	1	
-C.O. Ibe Street	Enugu East	Enugu	6.484	7.479	1	
-Chris Ibuzo Crescent	Enugu North	Enugu	6.463	7.571	1	
-IBB Link Road	Enugu East	Enugu	6.466	7.553	1	
-Ibrahim Khalil Street	Ungongo	Kano	11.979	8.445	1	
-Kashim Ibrahim Road	Ibadan North	Oyo	7.450	3.897	1	
-Ibrahim Amoda Street	Oshodi/Isolo	Lagos	6.509	3.309	1	
-Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.348	11.932	1	
-Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.358	11.900	1	
-Chief Ibrahim Street	Ìkòròdú	Lagos	6.627	3.499	1	
-Prof. IBK Street	Ungongo	Kano	11.976	8.446	1	
-Ibukun Awosika Street	Eti Osa	Lagos	6.443	3.525	1	Udeco Medical Road
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.692	3.415	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.655	3.397	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.828	3.467	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.728	3.415	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.710	3.415	1	
-Lagos-Ibadan Expressway	Ikenne	Ogun	6.974	3.664	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	7.145	3.765	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.694	3.415	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.718	3.414	1	
-Lagos-Ibadan Expressway	Ikenne	Ogun	6.916	3.629	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.824	3.460	1	
-Lagos-Ibadan Expressway	Remo North	Ogun	7.067	3.716	1	
-Ibari Lane	Eti Osa	Lagos	6.425	3.520	1	
-Ishaya Iko Ibrahim Road	Karu	Nasarawa	8.884	7.600	1	
-Prince Ibrahim Eletu Avenue	Eti Osa	Lagos	6.443	3.509	1	
-Federal Road F.212 Wara - Ibeto	Magama	Niger	10.319	4.979	1	
-Ibeto Road	Nnewi South	Anambra	6.015	6.946	1	
-Ibiasogbe-Ubulu-Awoidemili Rd	Oru East	Imo	5.782	6.909	1	
-Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.395	11.844	1	
-Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.376	11.873	1	
-Ibrahim Sule Panda Street	Nassarawa	Kano	11.976	8.585	1	
-Ibong Road	Ikot Ekpene	Akwa Ibom	5.192	7.688	1	
-Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.459	11.833	1	
-Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.478	11.838	1	
-Ibeku Road	Umuahia North	Abia	5.536	7.497	1	
-Ibitayo Street	Kosofe	Lagos	6.619	3.370	1	
-Mgbidi-Ibiasogbe Rd	Oru West	Imo	5.759	6.899	1	
-Iboko-Ndinkwoda Road	Izzi	Ebonyi	6.587	8.235	1	
-Ibrahim Umar Street	Tarauni	Kano	11.974	8.536	1	
-IBB Avenue	Uyo	Akwa Ibom	5.018	7.910	1	
-Issac-Iboh Ofu Street	Eti Osa	Lagos	6.470	3.575	1	
-Royal Duke Ibejiako Str.	Owerri Municipal	Imo	5.484	7.011	1	
-Ubetim Road Odo Akwa Ibom	Nsit Atai	Akwa Ibom	4.865	8.019	1	
-Idris Ibrahim Crescent	Municipal Area Council	FCT Abuja	9.059	7.413	1	
-Ibuchim Close	Obio/Akpor	Rivers	4.824	7.065	1	
-Ibi Street	Warri South	Delta	5.511	5.750	1	
 Kashim Ibrahim University	Konduga	Borno	11.838	12.997	0	
-Ibefun Lane	Mushin	Lagos	6.550	3.363	1	
-Ibilola Olatunji Close	Eti Osa	Lagos	6.474	3.580	1	
-Emmanuel Ibitolu Street	Eti Osa	Lagos	6.483	3.575	1	
-Nwankwo Ibusa Drive	Eti Osa	Lagos	6.483	3.576	1	
-Mazi Ukodike Ibe Street	Eti Osa	Lagos	6.482	3.583	1	
-Ibukunola Street	Alimosho	Lagos	6.670	3.266	1	
-Idowu Ibiyemi	Alimosho	Lagos	6.551	3.216	1	
-Dan Ibekwe Street	Municipal Area Council	FCT Abuja	9.070	7.439	1	
-Ibironke Adewusi Street	Alimosho	Lagos	6.660	3.257	1	
-Iwo - Ibadan Road	Egbeda	Oyo	7.433	4.005	1	
-Ibrahim Bako Road	Kaduna North	Kaduna	10.576	7.423	1	
-Ibari Road	Alimosho	Lagos	6.676	3.259	1	
-Iboko-Ndinkwoda Road	Izzi	Ebonyi	6.509	8.197	1	
-Aliu Ibiyimi Street	Oshodi/Isolo	Lagos	6.510	3.311	1	
-Ibadan Street	Oshodi/Isolo	Lagos	6.516	3.331	1	
-Ibode Aseyori Crescent	Akure South	Ondo	7.248	5.168	1	
-Ibeshe Road	Ìkòròdú	Lagos	6.573	3.486	1	
 Ibadan Airport	Ona Ara	Oyo	7.358	3.970	0	
-Olori Ibidunni Lebi Street	Eti Osa	Lagos	6.473	3.655	1	
-AVM. Ibrahim Kure Road	Kaduna North	Kaduna	10.526	7.453	1	
-Kashim Ibrahim Road	Kaduna North	Kaduna	10.534	7.452	1	
-Ibiyemi Street	Ede North	Osun	7.757	4.438	1	
 Akanu Ibiam International Airport	Enugu East	Enugu	6.473	7.571	0	
-Ibadan-Iwo	Iwo	Osun	7.641	4.186	1	
-Iboko-Igbagu Road	Izzi	Ebonyi	6.410	8.237	1	
-Ibani Street	Port-Harcourt	Rivers	4.745	7.036	1	
-Ibadan Drive	Oluyole	Oyo	7.342	3.818	1	
-Ibukun Oluwa Street	Akoko North East	Ondo	7.525	5.758	1	
-John Iboi Close	Eti Osa	Lagos	6.470	3.662	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.510	3.918	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.504	3.916	1	
-Prince Ibeh Arinze Crescent	Oshodi/Isolo	Lagos	6.491	3.314	1	
-Ibanga Street	Uyo	Akwa Ibom	5.030	7.935	1	
-Ibiono Street	Uyo	Akwa Ibom	5.023	7.934	1	
-Asuquo Ibanga Street	Uyo	Akwa Ibom	5.030	7.977	1	
-Orisun Ibukun Avenue	Ìjẹ̀bú Òde	Ogun	6.806	3.929	1	
-Ibb way	Lokoja	Kogi	7.797	6.742	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.475	3.914	1	
-Iwo - Ibadan Road	Iwo	Osun	7.619	4.143	1	
-Iwo - Ibadan Road	Iwo	Osun	7.652	4.175	1	
-Kashim Ibrahim Road	Ibadan North	Oyo	7.452	3.894	1	
-Idris Ibrahim Crescent	Municipal Area Council	FCT Abuja	9.060	7.416	1	
-Maria Ibidunni Street	Ilorin East	Kwara	8.474	4.618	1	
-Ibrahim Sule Panda Street	Nassarawa	Kano	11.976	8.585	1	
 Kashim Ibrahim College	Maiduguri	Borno	11.843	13.120	0	
-IBB Way	Muhammadu Dikko Stadium	Katsina	12.963	7.628	1	
-Odot 2 Akwa Ibom	Nsit Atai	Akwa Ibom	4.832	8.042	1	
-Ikot Ekong/Akpang Offop Road Odot Akwa Ibom	Nsit Atai	Akwa Ibom	4.808	8.039	1	
-Ibesikpo Road	Nsit Atai	Akwa Ibom	4.838	8.004	1	
-Ikot Ekpuk Odot Alwa Ibom	Nsit Atai	Akwa Ibom	4.824	8.042	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.701	3.416	1	
-Iboko-Ndinkwoda Road	Ebonyi	Ebonyi	6.666	8.162	1	
-Iboko-Ndinkwoda Road	Ohaukwu	Ebonyi	6.628	8.054	1	
-Ajayi Ibe Street	Agege	Lagos	6.633	3.314	1	
 Umuahia - Ibeku Station	Umuahia North	Abia	5.528	7.493	0	
-Ibrahim Taiwo Road	Oyun	Kwara	8.157	4.724	1	
 Government College Ibadan (GCI)	Ibadan South West	Oyo	7.377	3.834	0	GCI
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.223	3.810	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.240	3.819	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.227	3.812	1	
-Ibadan Circular Road	Ona Ara	Oyo	7.335	4.047	1	South East segment Ibadan circular road
-Iberekodo Street	Eti Osa	Lagos	6.447	3.519	1	
 Ibrahim Bako Health Center	Bauchi	Bauchi	10.316	9.882	0	
 Police hospital Eleyele Ibadan	Ibadan North West	Oyo	7.408	3.865	0	
 Ibadan North East LG Primary Health Care Centre, Iwo Road	Ibadan North East	Oyo	7.404	3.934	0	
-Ibukun Olu Street	Shomolu	Lagos	6.527	3.385	1	
-Ibadan Street	Lagos Mainland	Lagos	6.487	3.387	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.095	3.730	1	
 Obafemi Awolowo Station	Akinyele	Oyo	7.560	3.897	0	Ibadan Station
-Ibefu Street	Kosofe	Lagos	6.588	3.400	1	
-Lagos-Ibadan Expressway	Shagamu	Ogun	6.902	3.596	1	
-Lagos-Ibadan Expressway	Shagamu	Ogun	6.901	3.595	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.737	3.419	1	
-Prof. Ibrahim A. Kiyawa Street	Gwale	Kano	11.981	8.472	1	
-Link 6 Fr. Ibrahim Gwale Street	Gwale	Kano	11.974	8.475	1	
 Government Hospital Ibusa	Oshimili North	Delta	6.170	6.614	0	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.286	3.864	1	
-Ibadan Circular Road	Egbeda	Oyo	7.367	4.071	1	South East segment Ibadan circular road
-Ibadan Circular Road	Ona Ara	Oyo	7.333	4.044	1	South East segment Ibadan circular road
-Lagos-Ibadan Expressway	Remo North	Ogun	7.033	3.706	1	
-Lagos-Ibadan Expressway	Remo North	Ogun	7.051	3.713	1	
 IBB School Minna	Chanchaga	Niger	9.623	6.551	0	
-Ibadan-Ilorin Expressway	Ogbomosho North	Oyo	8.160	4.231	1	
-Ibadan-Ilorin Expressway	Ogbomosho North	Oyo	8.161	4.236	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.480	4.078	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.523	4.088	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.558	4.101	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.598	4.126	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.486	4.079	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.497	4.081	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.468	4.071	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.474	4.076	1	
-Ibikunle Street	Amuwo Odofin	Lagos	6.441	3.279	1	
-Ibadan Circular Road	Oluyole	Oyo	7.238	3.838	1	South East segment Ibadan circular road
-Ibadan Circular Road	Egbeda	Oyo	7.364	4.067	1	South East segment Ibadan circular road
-Ibadan Circular Road	Egbeda	Oyo	7.348	4.061	1	South East segment Ibadan circular road
-Ibadan Circular Road	Egbeda	Oyo	7.352	4.065	1	South East segment Ibadan circular road
-Iwo - Ibadan Road	Egbeda	Oyo	7.436	4.005	1	
-Iwo - Ibadan Road	Egbeda	Oyo	7.452	4.039	1	
-Ibidapo Shobowale Street	Ìkòròdú	Lagos	6.622	3.482	1	
 Kashim Ibrahim University Teaching Hospital	Konduga	Borno	11.856	12.988	0	
-Ibrahim Taiwo Road	Offa	Kwara	8.141	4.719	1	
-Kajola Ibooro Road	Ado Odo/Ota	Ogun	6.689	3.057	1	
 State High School Ibereko	Badagry	Lagos	6.439	2.913	0	
-Prince Ibrahim Olukolu Lane	Eti Osa	Lagos	6.434	3.523	1	
 Obuohia Ibere Health Center	Ikwuano	Abia	5.419	7.600	0	
 Ibolo Primary Health Center	Ekwusigo	Anambra	6.018	6.820	0	
-Anguwar Ibrahim	Funtua	Katsina	11.519	7.308	2	
-Ibeno	Ibeno	Akwa Ibom	4.558	8.109	2	
-Nsit Ibom	Nsit Ibom	Akwa Ibom	4.904	7.897	2	
-Ibiono Ibom	Ibiono Ibom	Akwa Ibom	5.204	7.897	2	
-Ibesikpo Asutan	Ibesikpo Asutan	Akwa Ibom	4.918	7.965	2	
-Ibaji	Ibaji	Kogi	6.792	6.760	2	
-Ibadan North West	Ibadan North West	Oyo	7.404	3.871	2	
-Ibarapa Central	Ibarapa Central	Oyo	7.412	3.248	2	
-Ibarapa East	Ibarapa East	Oyo	7.584	3.459	2	
-Ibadan South East	Ibadan South East	Oyo	7.355	3.904	2	
-Ibarapa North	Ibarapa North	Oyo	7.645	3.173	2	
-Ibeju Lekki	Ibeju Lekki	Lagos	6.471	3.815	2	
-Ibadan South West	Ibadan South West	Oyo	7.373	3.859	2	
-Ibadan North	Ibadan North	Oyo	7.421	3.909	2	
-Ibadan North East	Ibadan North East	Oyo	7.394	3.927	2	

@@ -1,6 +1,8 @@
 Segel	Kala-Balge	Borno	12.300	14.517	2	Ssīgal
 Ssulo	Kala-Balge	Borno	12.238	14.545	2	Shilo
 SSTC Quarters	Jere	Borno	11.809	13.195	2	
-SSS Dawakin Tofa Health Post	Dawakin Tofa	Kano	12.118	8.339	0	
+Sigal	Kala-Balge	Borno	12.286	14.536	2	Segel|Ssigal
+Shilo	Kala-Balge	Borno	12.233	14.533	2	Ssulo
 SS Court (Gate 2)	Eti Osa	Lagos	6.437	3.545	1	
 SS Court (Gate 1)	Eti Osa	Lagos	6.437	3.545	1	
+SSS Dawakin Tofa Health Post	Dawakin Tofa	Kano	12.118	8.339	0	

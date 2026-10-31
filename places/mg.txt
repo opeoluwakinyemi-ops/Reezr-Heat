@@ -1,7 +1,10 @@
+Mgbidi	Oru West	Imo	5.733	6.888	3	
+Mgbuoba	Obio/Akpor	Rivers	4.860	6.970	2	
 Mgbaukwu	Awka South	Anambra	6.143	7.074	2	Mgbakwu
 Mgbom	Afikpo North	Ebonyi	5.879	7.930	2	
 Efie Mgbabu	Ikwo	Ebonyi	6.096	8.153	2	
 Mgbabu	Ikwo	Ebonyi	6.150	8.314	2	Mbabo
+Mgbe	Takum	Taraba	6.794	9.784	2	
 Mgwogi	Gbako	Niger	9.250	6.033	2	Mawogi
 Mbaka	Ikom	Cross River	6.110	8.658	2	Mgbaka
 Mgbakwu	Awka North	Anambra	6.271	7.058	2	Mgbaukwu
@@ -10,10 +13,47 @@ Mgbaka	Ikom	Cross River	6.153	8.640	2
 Mgbumgangbom	Ogoja	Cross River	6.360	8.584	2	
 Mgbuoshimini	Obio/Akpor	Rivers	4.808	6.974	2	Nbuosimiri
 Mgbara	Ohaji/Egbema	Imo	5.479	6.797	2	
-Mgbidi	Oru West	Imo	5.733	6.888	3	
-Fafolu Mga Center	Mushin	Lagos	6.537	3.355	0	
 Ayip-Mgbaghe	Akamkpa	Cross River	5.587	8.821	2	
 Mgbagbu-Owa	Ezeagu	Enugu	6.390	7.180	2	
+Osia Umu-Mgbede	Osisioma Ngwa	Abia	5.100	7.306	2	
+Okposhi-Mgbo	Ohaukwu	Ebonyi	6.576	8.022	2	
+Mgbele	Oguta	Imo	5.676	6.853	2	Ngbele|Ngebele
+Mgbu Elia	Emuoha	Rivers	4.972	6.744	2	Ndelle
+Mgbowo	Awgu	Enugu	6.109	7.511	2	Mgbo|Mgboo
+Mgbom	Afikpo North	Ebonyi	5.887	7.938	2	
+Mgbidi	Awgu	Enugu	6.075	7.453	2	
+Mgbege	Yala	Cross River	6.645	8.416	2	
+Mgbede Ala	Osisioma Ngwa	Abia	5.283	7.348	2	
+Mgbede	Ivo	Ebonyi	5.921	7.731	2	
+Metajong	Takum	Taraba	6.795	9.784	2	Metagong|Mgbe
+Mgbagbu-Umumba-Owa	Ezeagu	Enugu	6.340	7.200	2	Mgbabu-Umuaji-Owa|Mgbagbu-Umuaji-Owa|Umuaji-Owa
+Mgbagbu-Owa	Ezeagu	Enugu	6.392	7.188	2	Mgbabu-Owa
+Mgbabo	Ikwo	Ebonyi	6.143	8.293	2	Mbabo
+Mgande	Ushongo	Benue	7.095	8.943	2	
+Mgboko	Osisioma Ngwa	Abia	5.170	7.359	2	Mboko|Mboko Umuete
+Mgbirichi	Ohaji/Egbema	Imo	5.356	6.952	2	Mberichi|Mborichi
+Mgbede	Ogba/Egbema/Ndoni	Rivers	5.471	6.726	2	Mbede
+Efie-Mgbabu	Ikwo	Ebonyi	6.078	8.160	2	
+Mgbu-Oba	Obio/Akpor	Rivers	4.850	6.978	2	
+Mgbuosimiri	Obio/Akpor	Rivers	4.808	6.973	2	Mgbuosimini|Nbuosimiri
+Mgbuesilara	Obio/Akpor	Rivers	4.850	7.035	2	
+Mgbuodo	Emuoha	Rivers	4.954	6.689	2	Ngbodo
+Mgbuhie	Emuoha	Rivers	4.952	6.688	2	Ngbuhie
+Mgbele	Bende	Abia	5.608	7.615	2	
+Mgbara	Ohaji/Egbema	Imo	5.502	6.775	2	
+Mgbalagwu Camp	Ndokwa East	Delta	5.825	6.588	2	
+Mgbu-Olua	Emuoha	Rivers	4.980	6.745	2	
+Mgbuochio	Emuoha	Rivers	4.953	6.688	2	Mgbuochia
+Mgbueto	Emuoha	Rivers	4.877	6.863	2	
+Umuakpo-Mgbo	Ohaukwu	Ebonyi	6.558	8.010	2	
+Mgbo Obe	Ohaukwu	Ebonyi	6.543	8.004	2	
+Mgbabor	Abakaliki	Ebonyi	6.323	8.067	2	
+Mgbekpa	Markurdi	Benue	7.662	8.483	2	
+Mgwaga	Gboko	Benue	7.494	8.932	2	
+Mgbagele	Gboko	Benue	7.352	8.790	2	
+Mgyul	Gboko	Benue	7.268	8.757	2	
+Mgbakda	Nasarawa Egon	Nasarawa	8.660	8.555	2	
+Mgbaku	Nasarawa Egon	Nasarawa	8.772	8.477	2	
 Mgbo Street	Enugu East	Enugu	6.488	7.504	1	
 Mgbogedo Street	Enugu North	Enugu	6.438	7.527	1	
 Mgbemene Street	Enugu North	Enugu	6.433	7.486	1	
@@ -29,4 +69,5 @@ Mgbaja-Uzzi Road	Umuahia North	Abia	5.532	7.468	1
 Mgbidi-Ibiasogbe Rd	Oru West	Imo	5.759	6.899	1	
 Mgbuosimini Road	Obio/Akpor	Rivers	4.809	6.972	1	
 MG Abdulwahab Street	Municipal Area Council	FCT Abuja	9.046	7.551	1	
+Fafolu Mga Center	Mushin	Lagos	6.537	3.355	0	
 Eke Mgbidi Mordern Market	Oru West	Imo	5.733	6.892	0	

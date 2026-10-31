@@ -1,6 +1,21 @@
-Mazâ Wajé	Mashi	Katsina	13.329	7.947	2	
 Wawa	Borgu	Niger	9.904	4.410	3	
-Wawa	Borgu	Niger	9.896	4.483	0	
+Wamako	Wamako	Sokoto	13.030	5.106	3	Wamakka
+Tudun Wada	Tudun Wada	Kano	11.248	8.401	3	
+Wawa	Funakaye	Gombe	10.795	11.128	3	
+Wazagal	Karasuwa	Yobe	12.824	10.528	3	
+Zango Waje	Bagwai	Kano	12.153	8.068	3	
+Getso	Gwarzo	Kano	11.875	7.972	3	Waila
+Wal Adiya	Bebeji	Kano	11.668	8.262	3	
+Warri	Warri South	Delta	5.519	5.748	3	Iwere
+Wanka town	Soba	Kaduna	11.041	7.886	3	
+Wase	Wase	Plateau	9.094	9.956	3	
+Wannune	Tarka	Benue	7.564	8.885	3	
+Wamba	Wamba	Nasarawa	8.942	8.603	3	
+Wara	Ngaski	Kebbi	10.229	4.624	3	New Warra|Warra
+Warji	Warji	Bauchi	11.178	9.752	3	Katanga Warji|Katangan Warji
+Dutsin-Ma	Dutsin Ma	Katsina	12.454	7.497	3	Dutsin Wai|Dutsinma
+Dutsen Wai	Kubau	Kaduna	10.850	8.199	3	Dutsan Wai
+Mazâ Wajé	Mashi	Katsina	13.329	7.947	2	
 Arukwa Waterside	Abua/Odual	Rivers	4.868	6.580	2	
 Wasaram Lawan	Kaga	Borno	11.632	12.320	2	Wasaram
 Wanka	Bayo	Borno	10.712	11.810	2	Wonka
@@ -10,7 +25,6 @@ Waka	Lapai	Niger	8.867	6.683	2	Bwacha
 Wai	Tafawa-Balewa	Bauchi	9.867	9.433	2	
 Warum	Bayo	Borno	10.715	11.783	2	Warma
 Iju Water Works	Ifo	Ogun	6.673	3.332	2	
-Wase	Wase	Plateau	9.095	9.958	2	
 Wamdida	Michika	Adamawa	10.652	13.374	2	
 Duda Wamngo	Mubi North	Adamawa	10.289	13.351	2	Duda
 Wamiri	Guzamala	Borno	12.726	13.457	2	
@@ -30,12 +44,12 @@ Onyobru Waterside	Ethiope West	Delta	5.792	5.842	2
 Tudun-Wada	Wasagu-Danko	Kebbi	11.325	6.019	2	
 Werram	Riyom	Plateau	9.617	8.800	2	Waram
 Waramajama	Bama	Borno	11.755	14.006	2	
+Warwar	Sardauna	Taraba	6.668	11.304	2	
 Wamdewo	Askira-Uba	Borno	10.533	13.133	2	Womdiou;Womdi;Womdiu
 Wagdam	Hawul	Borno	10.444	12.340	2	Wogdan
 Wasali	Dandi	Kebbi	11.685	3.782	2	
 Walama	Hawul	Borno	10.487	12.302	2	
 Wara Mayel	Shani	Borno	10.102	12.093	2	
-Wamako	Wamako	Sokoto	13.030	5.106	3	Wamakka
 Wasa	Mokwa	Niger	9.300	4.667	2	Gungiborku;Wasa
 Unguwar Wake	Gusau	Zamfara	12.182	6.919	2	
 Tungan Wasari	Shanga	Kebbi	10.925	4.590	2	
@@ -57,13 +71,11 @@ Ungwan Wada	Dandi	Kebbi	12.085	3.912	2
 Wadar	Hawul	Borno	10.490	12.277	2	
 BCG Wakama	Biu	Borno	10.613	12.125	2	Wakama
 Wauru	Gada	Sokoto	13.768	5.494	2	
-Warji	Warji	Bauchi	11.183	9.750	2	Katanga Warji;Katangan Warji
 Tudun Wada	Maru	Zamfara	12.174	6.383	2	
 Dutsin Wai	Dutsin Ma	Katsina	12.451	7.498	2	
 Birnin Wari	Binji	Sokoto	13.107	4.732	2	
 Wagini	Batsari	Katsina	12.688	7.196	2	Wagin
 Ode Itsekiri Warri Island	Warri South	Delta	5.489	5.703	2	
-Tudun Wada	Tudun Wada	Kano	11.248	8.401	3	
 Tudun Wada	Fakai	Kebbi	11.488	5.086	2	
 Wario	Birnin Kebbi	Kebbi	12.541	4.392	2	
 Ejeba Waterside	Ethiope West	Delta	5.790	5.813	2	Ejeba
@@ -73,6 +85,7 @@ Wade	Yamaltu/Deba	Gombe	10.476	11.617	2
 Tungan Wazam	Bagudo	Kebbi	11.604	4.165	2	
 Walawa	Maigatari	Jigawa	12.782	9.479	2	
 Gidan Wakili	Munya	Niger	9.919	7.283	2	
+Tudun Wada	Bali	Taraba	7.867	10.833	2	Tuoun Wada
 Shamim Wada	Biu	Borno	10.725	12.165	2	Bulama Musa
 Wagabai	Suru	Kebbi	11.608	3.932	2	
 Kida Wakaya	Hawul	Borno	10.499	12.091	2	Kidda Fulani
@@ -84,7 +97,6 @@ Guidan Wando	Tsafe	Zamfara	12.043	6.997	2
 Wayage	Tangaza	Sokoto	13.536	4.844	2	
 Wabi-Gwunki	Maru	Zamfara	11.488	6.145	2	
 Wabi	Maru	Zamfara	11.457	6.122	2	
-Dutsen Wai	Kubau	Kaduna	10.850	8.199	2	Dutsan Wai
 Ughotor Waterside	Warri South	Delta	5.620	5.654	2	Ughoton-Waterside
 Wankade	Baure	Katsina	12.756	8.813	2	Wonkedi
 Inorin Community, Warri Island	Warri South	Delta	5.500	5.688	2	
@@ -111,10 +123,8 @@ Yan Wari	Tsafe	Zamfara	12.065	7.090	2
 Ungwan Waki	Funtua	Katsina	11.473	7.297	2	Waki
 Dan Waru	Goronyo	Sokoto	13.335	5.537	2	Dangwaru
 Walake	Kware	Sokoto	12.992	5.350	2	
-Wawa	Funakaye	Gombe	10.795	11.128	3	
 Wasagu	Wasagu-Danko	Kebbi	11.373	5.807	2	
 Wasimi Alafia	Ewekoro	Ogun	6.897	3.148	2	Wasimi
-Wazagal	Karasuwa	Yobe	12.824	10.528	3	
 Wakato	Nafada	Gombe	11.046	11.224	2	Walkaltu
 Emu	Lokoja	Kogi	7.976	6.614	2	Waye
 Ugbodede Community Warri Island	Warri South	Delta	5.528	5.676	2	
@@ -125,6 +135,7 @@ Wasada Kwariya	Shanga	Kebbi	11.076	4.439	2
 Wasada	Birnin Kebbi	Kebbi	12.375	4.280	2	
 Wawa	Kwaya Kusar	Borno	10.472	11.914	2	Wara
 Wako	Kwali	FCT Abuja	8.601	6.914	2	
+Gidan Waya	Kurmi	Taraba	7.100	10.767	2	Waya
 Mayo Wandu	Michika	Adamawa	10.691	13.454	2	Brishishiwa
 Wanagina	Yala	Cross River	6.673	8.459	2	Wannajinna
 Ungwan Dan Waire	Giwa	Kaduna	11.200	7.373	2	Dan Waire
@@ -169,26 +180,18 @@ Wagawaga	Bagudo	Kebbi	11.423	3.569	2
 Walasa	Bama	Borno	11.574	14.238	2	
 Igun Waterside	Ethiope East	Delta	5.742	5.969	2	Kokori
 Ungwan-Wadai	Maru	Zamfara	11.223	6.472	2	
-Rumuafo Water Side Market	Emuoha	Rivers	4.862	6.772	0	
-Water Side market	Ikwerre	Rivers	4.912	6.881	0	
 Wajiroko	Damboa	Borno	10.931	12.522	2	
 Walada	Diffa	Borno	13.127	12.489	2	
-Walawa Health Post	Kabo	Kano	11.786	8.223	0	
-Waire Health Post	Bichi	Kano	12.345	8.221	0	
-Zango Waje	Bagwai	Kano	12.153	8.068	3	
 Tudun Wada	Nassarawa	Kano	12.025	8.558	2	
 Walalambe	Nassarawa	Kano	11.989	8.596	2	
 Walawai	Tarauni	Kano	11.959	8.581	2	
 Tudun Wazurchi	Kano Municipal	Kano	11.988	8.517	2	
 WATC Quarters	Gwale	Kano	11.983	8.489	2	
 Wagaga	Gwale	Kano	11.966	8.449	2	
-Wambai Market North	Kano Municipal	Kano	12.009	8.523	0	
-Wambai Market South	Fagge	Kano	12.007	8.524	0	
 Watari A	Gwale	Kano	11.970	8.454	2	
 Waratalla	Kumbotso	Kano	11.896	8.537	2	
 Jiyayyar Wanzamai	Ajingi	Kano	11.989	9.085	2	
 Buremawa Waje	Gwarzo	Kano	11.911	7.944	2	
-Getso	Gwarzo	Kano	11.875	7.972	3	Waila
 Faskar Wambai	Tudun Wada	Kano	11.301	8.374	2	
 Wandaø	Michika	Adamawa	10.480	13.420	2	
 Walu Ganya	Mobbar	Borno	13.277	12.823	2	
@@ -271,15 +274,12 @@ Wangere	Hawul	Borno	10.548	12.073	2
 Bubal Wada A	Biu	Borno	10.637	12.194	2	
 Bubal Wada B	Biu	Borno	10.638	12.201	2	
 Waksha Fulani	Biu	Borno	10.597	12.138	2	
-Wamiri Health Clinic	Guzamala	Borno	12.726	13.457	0	
-Wasaram Clinic	Kaga	Borno	11.633	12.322	0	
 Wanori	Jere	Borno	11.745	13.304	2	
 Wanka Nomadic	Bayo	Borno	10.696	11.807	2	
 Wanka Wanzam	Bayo	Borno	10.710	11.809	2	
 Warum Nomadic	Bayo	Borno	10.718	11.786	2	
 Washara	Biu	Borno	10.809	11.835	2	
 Wanzam	Biu	Borno	10.713	12.009	2	
-Wanori Primary Health Clinic	Jere	Borno	11.746	13.301	0	
 Bubal Wada	Biu	Borno	10.728	12.152	2	
 Hardo Wagilla	Biu	Borno	10.731	12.340	2	
 Wami	Biu	Borno	10.905	11.790	2	
@@ -293,37 +293,25 @@ Wara	Bagudo	Kebbi	11.130	3.719	2
 Fedega Waou	Bosso	Borno	13.549	13.049	2	
 Waginguila	Goudoumaria	Yobe	13.379	11.213	2	
 Waladokidji	Maïné Soroa	Yobe	13.279	11.819	2	
-waterside market	Aba South	Abia	5.115	7.380	0	
 Tundun wada Lowcost div	Gombe	Gombe	10.255	11.175	2	
-Walter Oil Service	Uvwie	Delta	5.553	5.778	0	
 Wasiri Kalari	Monguno	Borno	12.491	13.470	2	
 Gremari Waziriye	Monguno	Borno	12.659	13.486	2	
-Watgo Petroleum Filling Station	Yenegoa	Bayelsa	4.947	6.349	0	
 Fulatari Wamiri	Guzamala	Borno	12.707	13.457	2	
 Warimiri	Guzamala	Borno	12.658	13.365	2	
 Koshiri Wallambe	Guzamala	Borno	12.735	13.298	2	
 Moworam Wakil Yakoriye	Guzamala	Borno	12.834	13.254	2	
-St. Paul's Nursery and Primary School, Warri City	Warri South	Delta	5.508	5.763	0	
 Waltimari	Kaga	Borno	11.903	12.661	2	
 Wanori Bulin	Jere	Borno	11.739	13.286	2	
 Warori	Konduga	Borno	11.707	13.192	2	
 Wazilangla	Konduga	Borno	11.763	12.851	2	
-Kobay Filling Station, Warri	Warri South	Delta	5.529	5.723	0	
-Wamo	Alimosho	Lagos	6.546	3.277	0	
-Wayage Primary School	Tangaza	Sokoto	13.540	4.843	0	
 Waziri C	Sokoto North	Sokoto	13.071	5.259	2	
 Waziri A	Sokoto North	Sokoto	13.074	5.250	2	
 Waziri B	Sokoto North	Sokoto	13.069	5.251	2	
-Ujevwu Station	Udu	Delta	5.468	5.812	0	Warri Station
-Ilaje Waterfront Jetty Terminal Bariga	Shomolu	Lagos	6.528	3.400	0	
 Wayékanka	Bagudo	Kebbi	11.529	3.513	2	
-Ibrahim Waziri Abubakar	Gombe	Gombe	10.305	11.171	0	
-Ibrahim wakili & sons ltd	Yamaltu/Deba	Gombe	10.277	11.250	0	
 Zora	Rogo	Kano	11.628	7.871	2	Ungwan Wabi
 Kayar Waja	Kabo	Kano	11.980	8.147	2	Kanya
 Unguwar Wanzamai	Rimin Gado	Kano	11.967	8.247	2	Rafin Gado;Rimin Gado
 Waruku A	Dawakin Tofa	Kano	12.169	8.302	2	
-Wal Adiya	Bebeji	Kano	11.668	8.262	3	
 Wasila	Bebeji	Kano	11.482	8.357	2	
 Wasila Wreca Quarters	Bebeji	Kano	11.478	8.361	2	
 Walawa	Bebeji	Kano	11.389	8.352	2	
@@ -358,298 +346,10 @@ Dan Waziri Gidan Gulbi	Gaya	Kano	11.740	9.015	2
 Wangara	Takai	Kano	11.568	9.342	2	
 Wailare	Albasu	Kano	11.650	9.086	2	
 Waciyawa	Takai	Kano	11.496	9.103	2	
-Wali Bako Clinic	Sokoto South	Sokoto	13.038	5.252	0	
-Warrant Officers Academy	Igabi	Kaduna	10.813	7.546	0	
-Acf Water Board IDP Camp Clinic	Monguno	Borno	12.683	13.614	0	
-Wasada Dispensary Nkurvu	Askira-Uba	Borno	10.844	13.144	0	
-mayo wandu heath clinic	Michika	Adamawa	10.708	13.438	0	
-Community Primary School, Wasimi Ajibawo	Ifo	Ogun	6.692	3.367	0	
-Wasimi African Church Primary School Imepe	Ifo	Ogun	6.715	3.307	0	
-Community Primary School, Warewa	Shagamu	Ogun	6.852	3.651	0	
-Wasimi African Church Primary School Imepe	Ìjẹ̀bú Òde	Ogun	6.808	3.912	0	
-Community Primary School, Warewa	Ifo	Ogun	6.716	3.298	0	
-Community Primary School, Wasimi Ajibawo	Ado Odo/Ota	Ogun	6.671	3.058	0	
-Ojojo Primary School, Warri	Warri South	Delta	5.514	5.748	0	
-Pessu Primary School, Warri	Warri South	Delta	5.512	5.764	0	
-Dore Numa College, Warri	Warri South	Delta	5.508	5.762	0	
-Warri	Warri South	Delta	5.519	5.748	3	Iwere
-Dore Numa College Warri	Warri South	Delta	5.508	5.762	0	
-Hwolshe medical center Tudun Wada	Jos North	Plateau	9.892	8.867	0	
-Primary health care tudu wada	Jos North	Plateau	9.905	8.868	0	
 Ikpisan Community Warri Island	Warri South	Delta	5.503	5.723	2	
-Government secondary school Mafo Tudun Wada	Jos North	Plateau	9.900	8.861	0	
-Nana College Warri	Warri South	Delta	5.521	5.740	0	
-Central Hospital Warri	Warri South	Delta	5.518	5.734	0	
-Dom Domingos College Warri	Warri South	Delta	5.538	5.743	0	
-Federal Government College Warri	Warri South	Delta	5.530	5.724	0	
-Yonwuren College Warri	Warri South	Delta	5.529	5.717	0	
-Alders Town Primary School Warri	Warri South	Delta	5.511	5.754	0	
-Ogiame Primary School Warri	Warri South	Delta	5.523	5.731	0	
-Ogbe-ijaw Market Warri	Warri South	Delta	5.512	5.746	0	
-Wazobia Clinic and Maternity	Municipal Area Council	FCT Abuja	8.939	7.429	0	
-Hussey College Warri	Warri South	Delta	5.523	5.749	0	
-Cb2 Musawa By Faki Road Tudun Wada	Kaduna South	Kaduna	10.512	7.407	0	
-Tudun Wada Family Health Unit Clinic	Kaduna South	Kaduna	10.511	7.413	0	
-Yusuf Dantsoho Hospital Kv 206 Lbrahim Taiwo Road Tudun Wada Kaduna	Kaduna South	Kaduna	10.512	7.411	0	
-Primary Health Center Warri Street	Kaduna North	Kaduna	10.514	7.426	0	
-Tundun Wada Primary Health Center	Chikun	Kaduna	10.476	7.636	0	
-Primary Healthcare Tudun Wada No2 Bugai Road Kujama	Chikun	Kaduna	10.477	7.643	0	
-Primary Health Center Tudun Wada Opposite New Market Kujama	Chikun	Kaduna	10.476	7.633	0	
-Primary Health Care Tudun Wada Road Rido	Chikun	Kaduna	10.399	7.508	0	
-First Wave Medical Center	Alimosho	Lagos	6.646	3.271	0	
 Tudun Wada	Akko	Gombe	9.977	10.955	2	
-MADARASATUL KHALID BIN WALID ISLAMIYYA	Ungongo	Kano	12.043	8.567	0	
-ALMUHAJIRUN WAL ANSAR LITAHFIZUL QUR AN WADDARASATUK ILAMIYYA	Ungongo	Kano	12.054	8.577	0	
-Jauro Tudun Wada Primary School	Gombe	Gombe	10.300	11.171	0	
-Ojo Market waterside	Ojo	Lagos	6.453	3.204	0	
-Bariga Waterfront	Shomolu	Lagos	6.528	3.400	0	
-Number 1A Waterside	Apapa	Lagos	6.443	3.349	0	
 Wanka	Kirfi	Bauchi	10.452	10.436	2	
-Wa-Afia (NawAfia)	Ezeagu	Enugu	6.345	7.362	0	
 Wazo	Jema'A	Kaduna	9.396	8.107	2	Gabi
-number 1 (apapa) waterside	Apapa	Lagos	6.446	3.350	0	
-number 1 (ajegunle) waterside	Ajeromi/Ifelodun	Lagos	6.446	3.350	0	
-number 2 (ajegunle) waterside/kumuyi street(ajegunle)	Ajeromi/Ifelodun	Lagos	6.448	3.351	0	
-number 2 (apapa) waterside	Apapa	Lagos	6.448	3.351	0	
-imore waterside	Amuwo Odofin	Lagos	6.430	3.281	0	
-ilado waterfront	Apapa	Lagos	6.414	3.343	0	
-Wanka town	Soba	Kaduna	11.041	7.886	3	
-boundary (apapa)/number 3 (apapa) waterside	Apapa	Lagos	6.450	3.352	0	
-number 3 (ajegunle) waterside	Ajeromi/Ifelodun	Lagos	6.450	3.351	0	
-Lugbe By Car Wash Bridge	Municipal Area Council	FCT Abuja	8.964	7.381	0	
-Waterboard Junction Bus Stop	Municipal Area Council	FCT Abuja	9.050	7.519	0	
-War College Bus Stop	Municipal Area Council	FCT Abuja	9.050	7.488	0	
-Bridge Waters Hotel	Municipal Area Council	FCT Abuja	9.057	7.448	0	
-Wamon Taofeek Avenue	Ifako/Ijaye	Lagos	6.651	3.306	1	
-Mbiama to Effurun, Warri	Sagbama	Bayelsa	5.200	6.210	1	
-Mbiama to Effurun, Warri	Patani	Delta	5.225	6.193	1	
-Inuwa Wada Road	Kaduna North	Kaduna	10.540	7.464	1	
-Waziri Road	Kaduna North	Kaduna	10.543	7.440	1	
-Waziri Ibrahim Crescent	Kaduna North	Kaduna	10.543	7.429	1	
-Warri Street	Kaduna North	Kaduna	10.514	7.427	1	
-Living Water Avenue	Chikun	Kaduna	10.462	7.454	1	
-Mbiama to Effurun, Warri	Yenegoa	Bayelsa	5.080	6.418	1	
-James Watt Road	Oredo	Edo	6.339	5.633	1	
-Watch Tower Street	Oredo	Edo	6.322	5.586	1	
-Walter Carrington Crescent	Eti Osa	Lagos	6.439	3.411	1	
-Waziri Ibrahim Crescent	Eti Osa	Lagos	6.433	3.413	1	
-Wahab Larinde Street	Oshodi/Isolo	Lagos	6.563	3.336	1	
-Water way	Ibadan North	Oyo	7.447	3.910	1	
-Wadei Martin Street	Ibadan North	Oyo	7.441	3.887	1	
-Usman Waziri Close	Chikun	Kaduna	10.473	7.444	1	
-Waheed Akanni Street	Oshodi/Isolo	Lagos	6.516	3.316	1	
-Alhaji Wahab Kajogbola Street	Oshodi/Isolo	Lagos	6.513	3.306	1	
-Wale Ariwo Ola Street	Oshodi/Isolo	Lagos	6.524	3.289	1	
-Walter Sieffre Street	Kosofe	Lagos	6.562	3.392	1	
-Alhaji Moshoba Street	Ikeja	Lagos	6.649	3.355	1	Wale Fajemisin
-Warehouse Road	Apapa	Lagos	6.438	3.364	1	
-Warehouse Road	Apapa	Lagos	6.440	3.372	1	
-Waff Road	Kaduna North	Kaduna	10.530	7.429	1	Muhammadu Buhari Way
-Waff Road	Kaduna North	Kaduna	10.530	7.435	1	Muhammadu Buhari Way
-WAMBAI MARKET ROAD	Kano Municipal	Kano	12.003	8.525	1	
-Aja Wachukwu Close	Municipal Area Council	FCT Abuja	9.072	7.450	1	
-Warri Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.106	7.731	1	
-Mbiama to Effurun, Warri	Uvwie	Delta	5.572	5.806	1	
-Waziri Ibrahim Crescent	Municipal Area Council	FCT Abuja	9.006	7.475	1	
-Adolphus Wabara Street	Municipal Area Council	FCT Abuja	9.053	7.438	1	
-Watari Street	Gwale	Kano	11.981	8.493	1	
-Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.327	8.319	1	
-Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.269	8.383	1	
-Wayan Makafi Street	Bauchi	Bauchi	10.298	9.841	1	
-Walo Osholonge Street	Eti Osa	Lagos	6.472	3.617	1	
-Water works Road	Ebonyi	Ebonyi	6.325	8.114	1	
-Water works Road	Ebonyi	Ebonyi	6.325	8.117	1	
-Alhaji Wasiu Ogunlana Road	Amuwo Odofin	Lagos	6.477	3.312	1	
-Wahab Ogunbambi Street	Eti Osa	Lagos	6.431	3.445	1	
-Wahab Bolanle Road	Ifo	Ogun	6.678	3.305	1	
-Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.566	5.744	1	
-Deco Road Warri	Warri South	Delta	5.524	5.763	1	
-Water Resources Road	Uvwie	Delta	5.540	5.771	1	
-Okpara Waterside Road	Uvwie	Delta	5.563	5.779	1	
-Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.562	5.778	1	
-Ginuwa Road Warri	Warri South	Delta	5.518	5.752	1	
-Warri Sapele Road	Warri South	Delta	5.516	5.758	1	
-Warri Sapele Road	Warri South	Delta	5.515	5.742	1	
-Mission Road Warri	Warri South	Delta	5.518	5.746	1	
-Robert Road Warri	Warri South	Delta	5.516	5.747	1	
-Waico Street	Uvwie	Delta	5.541	5.781	1	
-odion road warri	Warri South	Delta	5.508	5.753	1	
-Warri Sapele Road	Warri South	Delta	5.514	5.750	1	
-Warri Sapele Road	Warri South	Delta	5.523	5.767	1	
-Warri Benin Rd	Ethiope West	Delta	5.901	5.735	1	
-Waston Street	Enugu North	Enugu	6.454	7.502	1	
-Gold Wave Avenue	Enugu East	Enugu	6.482	7.479	1	
-Sani Buhari (Walin Daura) Road	Gwale	Kano	11.994	8.504	1	
-Inuwa wada road	Fagge	Kano	11.994	8.535	1	
-Warri Road	Fagge	Kano	12.023	8.538	1	
-Wase Close	Jos North	Plateau	9.897	8.882	1	
-YAN WANKI ROAD	Dambatta	Kano	12.429	8.518	1	
-Waro Close	Enugu East	Enugu	6.505	7.510	1	
-wales road	Enugu East	Enugu	6.505	7.527	1	
-Wanzamai Road	Kumbotso	Kano	11.903	8.514	1	
-Wahuha Avenue	Oshodi/Isolo	Lagos	6.505	3.297	1	
-WALAWA ROAD	Makoda	Kano	12.355	8.489	1	
-Wahab Balogun Street	Ìkòròdú	Lagos	6.623	3.491	1	
-Wale Adekoya Street	Ìkòròdú	Lagos	6.638	3.501	1	
-Water Works Road	Shagamu	Ogun	6.854	3.652	1	Epe Street
-Aliyu Adamu Wakili Street	Ungongo	Kano	11.977	8.450	1	
-Kawu Wakili Street	Ungongo	Kano	11.975	8.450	1	
-Ikara to Tudun Wada Road	Ikara	Kaduna	11.177	8.295	1	
-Wari Health Post	Kabo	Kano	11.913	8.189	0	
-Yammawa Wanzari Health Post	Dambatta	Kano	12.511	8.655	0	
-Wasai Health Post	Minjibir	Kano	12.154	8.675	0	
-Wailare Health Post	Makoda	Kano	12.268	8.530	0	
-Tudun Wada Health Post	Nassarawa	Kano	12.023	8.554	0	
-Waterside Road	Eti Osa	Lagos	6.423	3.469	1	
-Water Corporation Road	Eti Osa	Lagos	6.424	3.450	1	
-Still Water Garden Road	Eti Osa	Lagos	6.433	3.486	1	
-Warren Street	Ibadan South West	Oyo	7.386	3.881	1	
-Chestnut Walk	Eti Osa	Lagos	6.428	3.550	1	
-Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.338	8.337	1	
-Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.313	8.357	1	
-Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.334	8.325	1	
-Wasiu Otu Tuloro Street	Eti Osa	Lagos	6.504	3.605	1	
-Walowa Dispensary	Katagum	Bauchi	11.705	10.362	0	
-Wahu Dispensary	Damban	Bauchi	11.607	10.686	0	
-Wandi Maternity	Dass	Bauchi	9.982	9.496	0	
-Waptan Clinic	Tafawa-Balewa	Bauchi	9.816	9.437	0	
-Kardam Dispensary	Tafawa-Balewa	Bauchi	9.833	9.382	0	Ungwa Wakili
-Alilonu Walter Street	Oshodi/Isolo	Lagos	6.518	3.296	1	
-Prince of Wales Street	Eti Osa	Lagos	6.458	3.521	1	
-Effurun, Warri to Shell Ogunu	Warri South	Delta	5.533	5.715	1	
-Warri Benin Rd	Ethiope West	Delta	5.920	5.701	1	
-Warri Benin Rd	Ethiope West	Delta	5.939	5.688	1	
-Warri Benin Rd	Ethiope West	Delta	5.903	5.733	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.579	5.868	1	
-Mbiama to Effurun, Warri	Uvwie	Delta	5.579	5.827	1	
-Mbiama to Effurun, Warri	Uvwie	Delta	5.578	5.825	1	
-Federal Road F.212 Wara - Ibeto	Magama	Niger	10.319	4.979	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.366	6.061	1	
-Warri-Patani Rd	Ughelli North	Delta	5.462	6.022	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.287	6.074	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.554	5.909	1	
-Warri Street	Umuahia North	Abia	5.532	7.498	1	
-Man O War road	Ikwerre	Rivers	4.905	6.902	1	
-Okey Wali Street	Obio/Akpor	Rivers	4.874	6.921	1	
-Wasca Lane	Ife Central	Osun	7.508	4.545	1	
-Father Walsh Crescent	Owerri North	Imo	5.480	7.121	1	
-Waast Ave	Owerri North	Imo	5.502	7.040	1	
-Wale Adenekan Street	Kosofe	Lagos	6.616	3.384	1	
-Esisi Road Warri	Warri South	Delta	5.524	5.744	1	
-Wale Azeez Street	Alimosho	Lagos	6.642	3.261	1	
-Walter Andem	Alimosho	Lagos	6.651	3.292	1	
-Wahab Busari Street	Ado Odo/Ota	Ogun	6.689	3.246	1	
-Water Loo Avenue	Ìkòròdú	Lagos	6.640	3.491	1	
-Chief Wahab Irawo Street	Oshodi/Isolo	Lagos	6.493	3.314	1	
-Waleade Olawoyin Avenue	Ife North	Osun	7.492	4.534	1	
-Water Road	Monguno	Borno	12.455	13.500	1	
-Sapele - Warri Road	Sapele	Delta	5.870	5.708	1	
-Jakpa Road	Uvwie	Delta	5.561	5.774	1	Effurun, Warri to Shell Ogunu
-Day Waterman College	Obafemi Owode	Ogun	7.022	3.492	0	
-Mbiama to Effurun, Warri	Patani	Delta	5.211	6.157	1	
-Dick Wami Avenue	Port-Harcourt	Rivers	4.811	6.993	1	
-Wale Famutimi Street	Alimosho	Lagos	6.628	3.287	1	Onaasua Street
-Kuramo Waters Close	Eti Osa	Lagos	6.425	3.439	1	
-Waziri Babba Lawan Street	Yola North	Adamawa	9.205	12.479	1	
-Mbiama to Effurun, Warri	Uvwie	Delta	5.573	5.791	1	
-Bako Waziri Close	Chikun	Kaduna	10.463	7.439	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.262	6.096	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.268	6.088	1	
-Ikara to Tudun Wada Road	Ikara	Kaduna	11.196	8.324	1	
-Ikara to Tudun Wada Road	Ikara	Kaduna	11.220	8.364	1	
-Warri Street	Kaduna North	Kaduna	10.516	7.426	1	
-Waji Road	Kaduna North	Kaduna	10.570	7.461	1	
-Ikara to Tudun Wada Road	Tudun Wada	Kano	11.243	8.383	1	
-Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.312	8.384	1	
-Obiri Wali	Obio/Akpor	Rivers	4.876	6.917	0	
-Wayan Makafi Street	Bauchi	Bauchi	10.295	9.840	1	
-Mr. Wali Amadi Close	Obio/Akpor	Rivers	4.899	6.923	1	
-Alhaji Wasiu Ogunlana Road	Amuwo Odofin	Lagos	6.477	3.317	1	
-Wadsworth Avenue	Lafia	Nasarawa	8.566	8.543	1	
-Wadsworth Avenue	Lafia	Nasarawa	8.566	8.548	1	
-Willbros Water Pipeline Road	Bonny	Rivers	4.428	7.188	1	
-Wallace Street	Lokoja	Kogi	7.803	6.742	1	
-Water Scheme Gate	Owerri Municipal	Imo	5.476	7.042	1	
-Water Corporation Road	Eti Osa	Lagos	6.427	3.441	1	
-Sadiq Warawa Street	Gwale	Kano	11.958	8.486	1	
-Ikara to Tudun Wada Road	Ikara	Kaduna	11.167	8.239	1	
-Wakanda's Highway	Yabo	Sokoto	12.828	4.961	1	
-Wanzamai Street	Tarauni	Kano	11.948	8.542	1	
-Mbiama to Effurun, Warri	Kolokuma/Opokuma	Bayelsa	5.149	6.266	1	
-Mbiama to Effurun, Warri	Sagbama	Bayelsa	5.224	6.197	1	
-Mbiama to Effurun, Warri	Kolokuma/Opokuma	Bayelsa	5.164	6.252	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.264	6.093	1	
-St. Kizito Clinic & Maternity Ward	Eti Osa	Lagos	6.435	3.505	0	
-Federal Government College Warri	Warri South	Delta	5.528	5.726	0	
-Jakpa Road	Uvwie	Delta	5.564	5.752	1	Effurun, Warri to Shell Ogunu
-Essi College Warri	Warri South	Delta	5.510	5.763	0	
-Warri Main Market	Warri South	Delta	5.513	5.746	0	
-Watson Way	Mobbar	Borno	13.079	12.513	1	
-Watson Way	Mobbar	Borno	13.076	12.521	1	
-Waterboard Road	Ikot Ekpene	Akwa Ibom	5.165	7.739	1	
-Alilonu Walter Street	Oshodi/Isolo	Lagos	6.512	3.297	1	
-Wak Primary Health Centre	Bebeji	Kano	11.591	8.358	0	
-Warawa Primary Health Centre	Warawa	Kano	11.876	8.746	0	
-Waziri Gidado General Hospital	Dala	Kano	12.058	8.470	0	
-Wahu Health Center	Darazo	Bauchi	11.386	10.656	0	
-T/wada Dispensary	Warji	Bauchi	11.213	9.675	0	
-Tuya General Hospital	Warji	Bauchi	11.192	9.752	0	Warji General Hospital
-Tudun Wada Dispensary	Warji	Bauchi	11.222	9.652	0	
-Wanka Health Clinic	Kirfi	Bauchi	10.451	10.432	0	
-Gidan Waya Dispensary	Ganjuwa	Bauchi	10.565	10.088	0	
-Kofar Dumi Maternal and Child Health Clinic	Bauchi	Bauchi	10.308	9.857	0	Maternity and Child Health Center Tudun Wadan
-Primary Health Center Wabu	Gamawa	Bauchi	11.963	10.742	0	
-Surgical Ward, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.495	0	
-Walawa Health Post	Makoda	Kano	12.344	8.477	0	
-Children's Ward GH	Warri South	Delta	5.518	5.735	0	
-Wamdai road	Maiduguri	Borno	11.827	13.125	1	
-Bidda Wakka Health Post	Demsa	Adamawa	9.238	11.937	0	
-Wajah Primary Health Center	Hong	Adamawa	10.234	12.919	0	
-Tudun wada Maternityand child health care	Potiskum	Yobe	11.715	11.087	0	
-Tudun Wada Maternity and Child Health Center	Ngelzarma	Yobe	11.675	11.945	0	
-Sale Waja Health Clinic	Numan	Adamawa	9.442	12.030	0	
-Tudun Wada Clinic	Numan	Adamawa	9.458	12.035	0	
-wanuki heath post	Madagali	Adamawa	10.784	13.486	0	
-Waurunelbi Basic Health Clinic	Fufore	Adamawa	9.052	12.861	0	
-tuhum waziri primary heath center	Madagali	Adamawa	10.736	13.531	0	
-materniy wagga	Madagali	Adamawa	10.929	13.649	0	
-Watinane Maternal and Child Health Care	Nangere	Yobe	11.757	11.012	0	
-Wadore Health Post	Jada	Adamawa	8.466	12.163	0	
-General Hospital Wasagu	Wasagu-Danko	Kebbi	11.366	5.806	0	
-Wada Road	Ajaokuta	Kogi	7.728	6.733	1	
-Wada Road	Ajaokuta	Kogi	7.727	6.738	1	
-Water Works	Eti Osa	Lagos	6.431	3.554	1	
-Warri Island Road	Warri South	Delta	5.514	5.696	1	
-Mbiama to Effurun, Warri	Sagbama	Bayelsa	5.175	6.237	1	
-JAURO TUDUN WADA PRIMARY T/WADA	Gombe	Gombe	10.300	11.171	0	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.335	6.063	1	
-water st	Tarauni	Kano	11.958	8.586	1	
-Wale Balogun Close	Eti Osa	Lagos	6.479	3.629	1	
-MALE WARD	Isiala Mbano	Imo	5.679	7.240	0	
-PRIVATE WARD	Isiala Mbano	Imo	5.679	7.240	0	
-FEMALE WARD	Isiala Mbano	Imo	5.679	7.240	0	
-MATERNITY WARD	Isiala Mbano	Imo	5.680	7.240	0	
-Ogedegbe Primary School, Warri	Warri South	Delta	5.507	5.762	0	
-Uwangue College Warri	Warri South	Delta	5.517	5.745	0	
-Institution of continuing education Warri	Warri South	Delta	5.519	5.746	0	I.C.E
-Warri Benin Rd	Ethiope West	Delta	5.871	5.730	1	
-Jeff V. Wade Obahor Street	Eti Osa	Lagos	6.429	3.523	1	
-Nana Model College, Warri	Warri South	Delta	5.521	5.740	0	
-Central Hospital Warri	Warri South	Delta	5.520	5.735	0	
-Robinson Plaza Warri	Warri South	Delta	5.526	5.762	0	
-Pessu Waterside Road	Warri South	Delta	5.504	5.755	1	
-Pessu Waterside	Warri South	Delta	5.503	5.754	1	
-Hussey College Warri	Warri South	Delta	5.525	5.748	0	
-Waru Health Centre	Municipal Area Council	FCT Abuja	8.928	7.487	0	
-Watts Oil	Osogbo	Osun	7.752	4.569	0	
-Waff Road	Kaduna North	Kaduna	10.532	7.446	1	Muhammadu Buhari Way
-water road	Enugu East	Enugu	6.508	7.527	1	
-N. Wasco Electronics plaza	Owerri Municipal	Imo	5.489	7.038	0	
-Facilities and central store walkway	Ikenne	Ogun	6.890	3.724	1	
-Paediatric Emergency/Paediatrics Ward	Nnewi North	Anambra	6.000	6.880	0	
-Prof Mbonu Surgical Ward	Nnewi North	Anambra	5.997	6.880	0	
-Sir Emeka Offor Medical Ward	Nnewi North	Anambra	5.998	6.880	0	
-Asbitin Murtala, Wambai Kano	Kano Municipal	Kano	12.000	8.521	0	
 Wagir	Gujba	Yobe	11.341	11.826	2	
 Watinani	Nangere	Yobe	11.812	10.962	2	
 Waro	Karasuwa	Yobe	12.954	11.107	2	
@@ -658,7 +358,6 @@ Tudun Wada	Gusau	Zamfara	12.124	6.746	2
 Wanke	Gusau	Zamfara	12.009	6.661	2	
 Waramu	Anka	Zamfara	12.174	5.822	2	
 Wamakko	Wamako	Sokoto	13.030	5.096	2	
-Waziri A	Sokoto North	Sokoto	13.079	5.253	2	
 Tsaki Walakae	Kware	Sokoto	13.013	5.337	2	
 Wababe-Salau	Dange-Shuni	Sokoto	12.801	5.514	2	
 Wasagu	Wasagu-Danko	Kebbi	11.416	5.825	2	
@@ -680,9 +379,7 @@ Tudun Wada	Zaria	Kaduna	11.085	7.715	2
 Wangara	Tofa	Kano	11.972	8.296	2	
 Wasai	Minjibir	Kano	12.179	8.708	2	
 Waire	Bichi	Kano	12.328	8.258	2	
-Warawa	Warawa	Kano	11.873	8.732	2	
 Wailare	Makoda	Kano	12.281	8.535	2	
-Tudun Wada	Nassarawa	Kano	12.017	8.552	2	
 Wak	Bebeji	Kano	11.588	8.354	2	
 Wangara	Gezawa	Kano	12.036	8.791	2	
 Warawa	Warawa	Kano	11.905	8.793	2	
@@ -720,3 +417,900 @@ Ogun Waterside	Ogun Waterside	Ogun	6.461	4.390	2
 Tudun Wada B	Sokoto South	Sokoto	13.039	5.247	2	
 Tudun Wada A	Sokoto South	Sokoto	13.056	5.249	2	
 Wamako	Wamako	Sokoto	13.082	5.107	2	
+Bourha Ouango	Mubi North	Adamawa	10.270	13.475	2	Bourha Wango|Bourrah Ouango|Bourrah Vango|Bourrah-Wango
+Wuyaram	Damboa	Borno	11.168	12.692	2	Waiyaram
+Wuro Waziri Shabal	Numan	Adamawa	9.577	12.021	2	
+Wuro Waziri Gadawa	Numan	Adamawa	9.550	12.017	2	
+Wuro Waziri	Bali	Taraba	8.403	11.327	2	
+Wuro Wakili	Fufore	Adamawa	8.867	12.257	2	
+Wazoji	Bungudu	Zamfara	12.255	6.773	2	
+Wazo	Song	Adamawa	9.744	12.428	2	
+Fali	Fika	Yobe	11.241	11.123	2	Waziri
+Wazilikafi Bubua	Askira-Uba	Borno	10.586	12.981	2	
+Wazhimanyi	Hong	Adamawa	10.382	12.940	2	
+Wayo	Fufore	Adamawa	9.061	12.457	2	
+Wayo	Gwer East	Benue	7.406	8.540	2	
+Wayo	Ushongo	Benue	7.095	8.822	2	
+Wayage	Tangaza	Sokoto	13.560	4.843	2	
+Waya	Ngaski	Kebbi	10.763	4.776	2	
+Waya	Ushongo	Benue	7.109	8.791	2	
+Waya	Kwande	Benue	6.875	9.609	2	
+Wawus	Alkaleri	Bauchi	9.770	9.899	2	
+Wawataku	Askira-Uba	Borno	10.663	12.518	2	
+Wawa Kaza	Kankara	Katsina	12.014	7.465	2	
+Wawagi	Gbako	Niger	9.264	6.036	2	
+Wawa	Damboa	Borno	11.103	12.666	2	
+Wauro Jabbe	Yola South	Adamawa	9.261	12.398	2	Wuro Jebbe
+Wauni	Gusau	Zamfara	12.125	7.050	2	
+Ngawa	Nangere	Yobe	11.758	11.013	2	Watinani
+Watchmangbene	Southern Ijaw	Bayelsa	4.789	5.947	2	
+Watari	Doguwa	Kano	10.565	8.695	2	
+Wassagi	Donga	Taraba	7.450	10.438	2	
+Wasinmi	Ìsẹ́yìn	Oyo	7.755	3.423	2	
+Wasímí Okuta	Imeko Afon	Ogun	7.533	2.767	2	
+Wasimi Ijemo	Odeda	Ogun	7.234	3.694	2	
+Wasimi	Irewole	Osun	7.496	4.160	2	
+Wasimi	Irewole	Osun	7.437	4.263	2	
+Wasimi	Odeda	Ogun	7.271	3.737	2	
+Wasimi	Obafemi Owode	Ogun	6.995	3.511	2	
+Wasimi	Ewekoro	Ogun	6.990	3.226	2	
+Wasimi	Obafemi Owode	Ogun	6.971	3.495	2	
+Wasi	Ganye	Adamawa	8.433	11.667	2	
+Washiwashu	Birnin Gwari	Kaduna	11.015	6.366	2	
+Washim	Hong	Adamawa	10.450	12.693	2	
+Washemi	Mashi	Katsina	13.129	8.010	2	
+Washamta	Askira-Uba	Borno	10.717	12.546	2	
+Washachi	Konshisha	Benue	7.094	8.660	2	
+Wasem	Konshisha	Benue	7.074	8.771	2	
+Wasangari	Saki West	Oyo	8.824	3.411	2	
+Wasai	Minjibir	Kano	12.153	8.679	2	
+Wasagu	Wasagu-Danko	Kebbi	11.376	5.795	2	Wasaga
+Wasada	Askira-Uba	Borno	10.834	13.146	2	
+Warwade	Dutse	Jigawa	11.743	9.210	2	
+Warwade	Birnin Kudu	Jigawa	11.487	9.331	2	
+Waru	Municipal Area Council	FCT Abuja	8.935	7.494	2	
+Warri	Brass	Bayelsa	4.323	6.246	2	
+Warok	Langtang North	Plateau	9.201	9.725	2	
+Waroba	Konduga	Borno	11.621	13.463	2	
+Jajire	Yusufari	Yobe	13.050	11.140	2	Waro
+Waro	Borsari	Yobe	12.931	11.185	2	
+Waro	Oyo East	Oyo	7.935	4.068	2	
+Warma	Bayo	Borno	10.721	11.798	2	
+Warkaka	Sardauna	Taraba	6.540	11.100	2	
+Warifi	Ethiope West	Delta	5.943	5.624	2	Warigi|Warrigi
+Waribugoama	Ogbia	Bayelsa	4.715	6.345	2	Waribugama
+Waribokiri	Brass	Bayelsa	4.657	6.494	2	
+Wari Bata	Fufore	Adamawa	8.925	12.763	2	
+Waria	Tangaza	Sokoto	13.654	4.980	2	
+Wari	Shelleng	Adamawa	9.698	12.219	2	
+Wargila	Shani	Borno	10.171	11.964	2	
+Wargi	Fika	Yobe	11.563	11.192	2	
+Warfi	Kauru	Kaduna	9.828	8.589	2	
+Ware	Tsafe	Zamfara	11.814	6.760	2	
+Warawara	Damboa	Borno	10.976	12.509	2	
+Wara-Wara	Damboa	Borno	10.993	12.495	2	
+Warari	Rijau	Niger	10.940	5.308	2	
+Waranya	Gujba	Yobe	11.330	11.977	2	
+Wara Matageli	Konshisha	Benue	7.105	8.517	2	
+Wara	Asa	Kwara	8.469	4.479	2	
+Wara	Asa	Kwara	8.426	4.445	2	
+Wara	Lokoja	Kogi	8.093	6.714	2	
+Wara	Ibarapa East	Oyo	7.661	3.526	2	
+Wapowa	Wukari	Taraba	7.972	10.012	2	
+Waor	Konshisha	Benue	7.056	8.722	2	
+Wanzum Amagwa	Buruku	Benue	7.640	8.950	2	
+Wanzamai	Malumfashi	Katsina	11.764	7.575	2	
+Wanuhal	Konshisha	Benue	7.150	8.655	2	
+Wanudu	Yala	Cross River	6.391	8.473	2	
+Wanto	Ushongo	Benue	7.211	8.968	2	
+Wantiya	Teungo	Adamawa	8.058	12.092	2	
+Wonigi	Lavun	Niger	9.307	5.563	2	Wantigi
+Wantetekta	Song	Adamawa	10.041	12.552	2	
+Wansua	Takum	Taraba	7.507	10.097	2	
+Wanshie	Gboko	Benue	7.307	8.701	2	
+Kola	Akwanga	Nasarawa	9.009	8.444	2	Wanse
+Wannjughul	Ushongo	Benue	7.195	8.847	2	
+Wannasara	Chibok	Borno	10.848	12.886	2	
+Wanna	Guma	Benue	7.844	8.812	2	
+Wanlu	Jada	Adamawa	8.660	12.487	2	
+Wankunya	Takum	Taraba	7.458	10.165	2	
+Wankian	Takum	Taraba	7.302	10.146	2	
+Wanke	Shagari	Sokoto	12.611	5.008	2	Kaura Wanke
+Wanke	Gusau	Zamfara	12.054	6.632	2	
+Wanke	Awe	Nasarawa	8.085	9.192	2	
+Wanjira	Gombi	Adamawa	10.133	12.336	2	
+Wanje	Bassa	Plateau	10.245	8.897	2	
+Wanja	Gboko	Benue	7.376	8.653	2	
+Wanishem	Yala	Cross River	6.719	8.520	2	
+Wanikin	Ife East	Osun	7.324	4.581	2	
+Waniho	Takum	Taraba	7.406	10.015	2	
+Wango Sete	Mayo-Belwa	Adamawa	8.921	12.142	2	
+Wango Maiha	Maiha	Adamawa	10.014	13.209	2	
+Wangi	Dukku	Gombe	10.726	10.736	2	
+Wangarawa	Bakori	Katsina	11.556	7.553	2	
+Wangara	Dutse	Jigawa	11.938	9.231	2	
+Wangara	Rimin Gado	Kano	11.856	8.281	2	
+Wanganga	Yunusari	Yobe	13.164	11.957	2	
+Wandukene	Gombi	Adamawa	10.144	12.322	2	
+Wandor	Gboko	Benue	7.400	8.617	2	
+Wandali	Kwaya Kusar	Borno	10.569	11.958	2	
+Wanchior	Konshisha	Benue	7.021	8.845	2	
+Wanche	Guma	Benue	7.904	8.589	2	
+Wanbai	Tudun Wada	Kano	11.271	8.384	2	Wambai
+Wanikande	Yala	Cross River	6.709	8.509	2	Wanakande|Wanakonde
+Wanakom Ngidi	Yala	Cross River	6.604	8.424	2	Ngidi|Wanakom|Wankom
+Wana	Nasarawa Egon	Nasarawa	8.839	8.442	2	
+Wana	Nasarawa Egon	Nasarawa	8.783	8.417	2	
+Wamyande	Konshisha	Benue	7.149	8.598	2	
+Wamuri	Jere	Borno	11.728	13.300	2	
+Wamurete	Gombi	Adamawa	10.221	12.319	2	
+Wamno Kofa	Song	Adamawa	9.761	12.959	2	
+Wamngu Gajere	Jada	Adamawa	8.758	12.095	2	
+Wamngo Kwakwaah	Hong	Adamawa	10.192	13.073	2	
+Wamngo Galdi	Maiha	Adamawa	10.017	13.098	2	
+Wamingo Garga	Fufore	Adamawa	8.798	12.418	2	
+Gajere	Mayo-Belwa	Adamawa	8.754	11.985	2	Wamgu Gajere
+Wamgo Dasin	Fufore	Adamawa	9.254	12.634	2	
+Wamgbe	Wukari	Taraba	7.975	10.018	2	
+Wambe	Awe	Nasarawa	8.037	9.315	2	
+Wambai	Ikara	Kaduna	11.370	7.995	2	
+Walur Gadaru	Teungo	Adamawa	7.965	11.960	2	
+Walu	Nangere	Yobe	11.745	11.102	2	
+Walterkiri	Nembe	Bayelsa	4.415	6.263	2	
+Waltandi	Song	Adamawa	9.771	12.234	2	
+Walowa	Dukku	Gombe	10.707	10.569	2	
+Gadum	Dukku	Gombe	11.036	11.103	2	Walol
+Walokulaje	Teungo	Adamawa	7.974	11.997	2	
+Walmayo	Markurdi	Benue	7.731	8.543	2	
+Wallaga	Fufore	Adamawa	9.065	12.216	2	
+Wallafa	Askira-Uba	Borno	10.564	13.166	2	
+Walka	Kware	Sokoto	12.967	5.450	2	
+Waliya	Misau	Bauchi	11.380	10.434	2	
+Wailipa	Fufore	Adamawa	9.012	12.456	2	Walipa
+Wali	Kabo	Kano	11.942	8.143	2	
+Waldi	Kurmi	Taraba	7.294	10.738	2	
+Walawal	Gombi	Adamawa	10.166	12.712	2	
+Walawa	Babura	Jigawa	12.659	8.687	2	
+Walawa	Bebeji	Kano	11.359	8.332	2	
+Walama	Hawul	Borno	10.484	12.305	2	
+Wakwa	Lafia	Nasarawa	8.504	8.595	2	Wakwa Babba Kankane|WakwaBabbaKankane
+Wakki Jaleka	Bali	Taraba	8.370	11.146	2	
+Wakkaltu	Funakaye	Gombe	10.798	11.364	2	Wakalata|Wakkalutu
+Wakir Yamma	Askira-Uba	Borno	10.579	12.992	2	
+Wakiri Jabo	Teungo	Adamawa	7.987	11.992	2	
+Wakiri	Sardauna	Taraba	7.185	11.063	2	
+Wakili Zupe	Bali	Taraba	8.377	11.052	2	
+Wakili Vavum	Yorro	Taraba	8.788	11.507	2	
+Wakili Tappare	Ardo-Kola	Taraba	8.612	11.255	2	
+Wakilin Njeke	Sardauna	Taraba	7.066	11.370	2	
+Wakili Goma	Sardauna	Taraba	6.945	11.135	2	
+Wakili Giwa	Ardo-Kola	Taraba	8.777	11.376	2	
+Wakili Buba	Sardauna	Taraba	7.004	11.162	2	
+Wakili Alim	Mayo-Belwa	Adamawa	8.861	12.050	2	
+Wakili	Kwami	Gombe	10.614	11.362	2	
+Wakili	Bali	Taraba	8.328	11.079	2	
+Wakili	Kurmi	Taraba	7.138	10.972	2	
+Wake	Kachia	Kaduna	9.965	7.870	2	
+Wakar	Konshisha	Benue	7.220	8.527	2	
+Wakana	Eleme	Rivers	4.743	7.174	2	
+Wakama	Biu	Borno	10.620	12.119	2	
+Wakalu	Dukku	Gombe	10.754	10.760	2	
+Waka	Biu	Borno	10.637	12.197	2	
+Waka	Hawul	Borno	10.476	12.249	2	
+Wajiya	Nangere	Yobe	11.942	11.032	2	
+Wajiri Sama	Jada	Adamawa	8.511	12.370	2	
+Wajiri Dungle	Teungo	Adamawa	8.067	11.817	2	
+Wajiri	Sardauna	Taraba	7.200	11.073	2	
+Wajir	Ushongo	Benue	7.186	8.939	2	
+Wajibe	Kaiama	Kwara	9.685	3.884	2	
+Wajawari	Hong	Adamawa	10.151	12.989	2	
+Wajari	Yamaltu/Deba	Gombe	10.277	11.404	2	
+Waja	Hong	Adamawa	10.250	12.900	2	
+Waiye	Wamba	Nasarawa	8.917	8.600	2	
+Waire	Bichi	Kano	12.351	8.235	2	
+Wainwain	Egbedore	Osun	7.879	4.406	2	
+Wailo	Ganjuwa	Bauchi	10.713	10.239	2	
+Waidari	Damboa	Borno	11.244	13.101	2	
+Wagur	Gujba	Yobe	11.350	11.808	2	
+Wagetie	Brass	Bayelsa	4.318	6.136	2	
+Wagba	Mokwa	Niger	9.464	5.341	2	
+Wagalu	Agwara	Niger	10.723	4.400	2	
+Wagaho	Kubau	Kaduna	10.768	8.557	2	
+Wagadyar	Kwande	Benue	6.740	9.587	2	
+Wafati	Hong	Adamawa	10.165	13.092	2	
+Wafango	Maiha	Adamawa	10.013	13.221	2	
+Wafango	Maiha	Adamawa	9.739	13.118	2	
+Wafango	Song	Adamawa	9.730	12.867	2	
+Wafango	Girei	Adamawa	9.410	12.472	2	
+Wafango	Fufore	Adamawa	9.057	12.363	2	
+Wafa	Mubi South	Adamawa	10.142	13.340	2	
+Wa Eri	Toro	Bauchi	10.444	8.977	2	
+Waduku	Larmurde	Adamawa	9.505	11.654	2	
+Wadirmu	Fufore	Adamawa	9.665	12.846	2	
+Wadiki	Hawul	Borno	10.330	12.358	2	
+Wadi	Maiha	Adamawa	9.733	13.100	2	
+Wadar	Hawul	Borno	10.482	12.281	2	
+Wada	Kiru	Kano	11.677	8.002	2	
+Wachinkolo	Katcha	Niger	9.072	6.228	2	
+Waccuje	Fufore	Adamawa	9.073	12.613	2	
+Wabu	Gamawa	Bauchi	12.006	10.650	2	
+Wabe	Konshisha	Benue	7.061	8.582	2	
+Waakwa Alhaji	Lafia	Nasarawa	8.496	8.575	2	
+Waakaa	Guma	Benue	8.000	8.439	2	
+Waajimi	Jada	Adamawa	8.472	12.071	2	
+Waabara	Borgu	Niger	10.694	4.039	2	
+Waa	Konshisha	Benue	7.100	8.724	2	
+Vwang	Jos South	Plateau	9.686	8.740	2	V Wang|Vom Wang|Wang
+Ungwan Wanzamai	Bakori	Katsina	11.617	7.550	2	
+Ungwan Wakili	Birnin Gwari	Kaduna	10.721	6.572	2	
+Ungwan Waki	Gummi	Zamfara	12.215	4.993	2	
+Unguwar Waziri	Lere	Kaduna	10.483	8.596	2	
+Gora	Gusau	Zamfara	12.179	6.920	2	Unguwar Gora|Unguwar Wake
+Umumbo	Ayamelum	Anambra	6.528	7.005	2	Umabu|Water Town Umabu
+Tungar Wada	Wase	Plateau	9.263	10.187	2	Tungan Wada|Wada
+Tungan Waya	Ngaski	Kebbi	10.117	4.622	2	
+Tungan War Iyali	Magama	Niger	10.562	4.985	2	
+Tungan Wakili	Ngaski	Kebbi	10.217	4.617	2	
+Tungan-Wakali	Magama	Niger	10.579	4.955	2	
+Tungan Wada	Municipal Area Council	FCT Abuja	9.015	7.210	2	
+Tudun Wada	Chikun	Kaduna	10.471	7.447	2	Tundun Wada
+Tunda Wada	Bosso	Niger	9.654	6.253	2	
+Tula Wange	Kaltungo	Gombe	9.834	11.478	2	
+Tudun Wada Bibinu	Donga	Taraba	7.454	10.368	2	
+Tudun Wada	Shagari	Sokoto	12.533	4.950	2	
+Tudun Wada	Tsafe	Zamfara	12.047	6.906	2	
+Tudun Wada	Nassarawa	Kano	12.030	8.568	2	
+Tudun Wada	Bungudu	Zamfara	11.692	6.542	2	
+Tudun Wada	Bakori	Katsina	11.576	7.519	2	
+Tudun Wada	Darazo	Bauchi	11.450	10.850	2	
+Tudun Wada	Nafada	Gombe	11.241	11.072	2	
+Tudun Wada	Biu	Borno	10.840	11.676	2	
+Tudun Wada	Birnin Gwari	Kaduna	10.817	6.783	2	
+Tudun Wada	Kaduna South	Kaduna	10.512	7.412	2	
+Tudun Wada	Bauchi	Bauchi	10.045	9.792	2	
+Tudun Wada	Alkaleri	Bauchi	10.001	10.222	2	
+Tudun Wada	Jos North	Plateau	9.909	8.878	2	
+Tudun Wada	Kagarko	Kaduna	9.407	7.623	2	
+Tudun Wada	Agaie	Niger	9.080	6.563	2	
+Tudun Wada	Bali	Taraba	7.912	10.990	2	
+Tudan Wada	Kurmi	Taraba	7.100	10.667	2	
+Tashan Gidan Waya	Ganjuwa	Bauchi	10.566	10.085	2	
+Rumnde Waziri	Yola North	Adamawa	9.181	12.536	2	
+Ugbekele Waterside	Orhionmwon	Edo	5.984	5.789	2	Opekeli|Ugbekele|Upekeli
+Mayo Ine	Fufore	Adamawa	9.115	12.228	2	Wafango
+Wanagina	Yala	Cross River	6.730	8.470	2	Wannajinna
+Kurmin Warji	Soba	Kaduna	11.033	8.055	2	
+Kubaje Wamngo	Maiha	Adamawa	10.006	13.130	2	
+Karuonguwa	Ngelzarma	Yobe	11.915	11.864	2	Kora Wango
+Karagawaru	Kaga	Borno	11.909	12.554	2	Karaga Waro
+Kafin-Wambai	Lafia	Nasarawa	8.560	8.454	2	Kafin Wamba|Kefin Wombai
+Jagara Waji	Ngala	Borno	12.420	14.125	2	Jegara Waji
+Jauro Wangu	Jada	Adamawa	8.500	12.298	2	
+Jauro Wala	Ardo-Kola	Taraba	8.694	11.178	2	
+Wafe	Obio/Akpor	Rivers	4.807	6.935	2	Iwofe|Obukuru|Owofi
+Iwara	Atakunmosa West	Osun	7.532	4.725	2	Wara
+Isiokpo Water Side	Ikwerre	Rivers	4.913	6.881	2	Isiokpo|Nsokpo|Water Side
+Illah Waterside	Oshimili North	Delta	6.456	6.672	2	Allah
+Igun Waterside	Ethiope East	Delta	5.746	5.962	2	Kokori
+Haran-Wakilmadu	Hawul	Borno	10.577	12.456	2	
+Gungi-Boku	Mokwa	Niger	9.304	4.669	2	Gungiborku|Wasa
+Gindin Waya	Wukari	Taraba	8.079	9.789	2	Gindiwaya
+Gidan Warida	Chikun	Kaduna	10.583	6.933	2	
+Gidan Walu	Tureta	Sokoto	12.533	5.467	2	
+Tadun Wada	Fune	Yobe	11.860	11.193	2	Garin Mallam Haruna
+Fadan Waiwai	Kachia	Kaduna	9.667	8.083	2	
+Elahen Wanakande	Yala	Cross River	6.710	8.475	2	
+Dan Wata	Soba	Kaduna	10.938	8.187	2	
+Danko	Mokwa	Niger	8.833	5.717	2	Wanko
+Bubaram Warde	Potiskum	Yobe	11.762	11.217	2	
+Arukwa	Abua/Odual	Rivers	4.872	6.599	2	Arukwa Waterside|Water Side|Water-Side
+Anguwan Wawa	Ganjuwa	Bauchi	10.626	9.726	2	
+Ancho Waiwai	Akwanga	Nasarawa	9.070	8.454	2	Anco Waiwai
+Tudun Wada	Jema'A	Kaduna	9.513	8.160	2	Afana
+Wasimi Ojokoro	Ifako/Ijaye	Lagos	6.662	3.295	2	
+Wasimi-Aiyetoro	Ifako/Ijaye	Lagos	6.684	3.268	2	
+Gidan Waziri	Karu	Nasarawa	8.902	7.618	2	
+Agwa-Ware	Ikwerre	Rivers	4.958	6.905	2	Agwa-Were
+Tudun Wada	Igabi	Kaduna	10.743	7.285	2	
+Waya	Afijio	Oyo	7.655	3.823	2	
+Waje	Tarauni	Kano	11.973	8.545	2	
+Walawa	Minjibir	Kano	12.126	8.583	2	
+Tudun Wada	Kokona	Nasarawa	8.914	7.889	2	
+Wala	Gwoza	Borno	11.173	13.761	2	
+Tulu Watuya	Gwoza	Borno	10.925	13.731	2	
+Warragas	Madagali	Adamawa	10.718	13.537	2	
+Wakara	Madagali	Adamawa	10.831	13.473	2	
+Waribokokiri	Akuku Toru	Rivers	4.391	6.844	2	
+Water Side	Ikwerre	Rivers	4.912	6.883	2	
+Ilewo-Wasimi	Ado Odo/Ota	Ogun	6.687	3.094	2	
+Wankwanda	Gombi	Adamawa	10.073	12.482	2	
+Wantera	Gombi	Adamawa	10.109	12.494	2	
+Waro	Gombi	Adamawa	10.109	12.489	2	
+Wanfurta	Gombi	Adamawa	10.114	12.484	2	
+Wabara	Hawul	Borno	10.481	12.189	2	
+Wakwagh	Gwer East	Benue	7.269	8.369	2	
+Wandor	Gwer East	Benue	7.364	8.493	2	
+Waatsor	Gwer East	Benue	7.362	8.484	2	
+Wayo	Gwer West	Benue	7.702	8.200	2	
+Waku	Markurdi	Benue	7.852	8.528	2	
+Waeguer	Guma	Benue	7.998	8.482	2	
+Ntara Njemaya	Ogoja	Cross River	6.454	8.487	2	Ntara-Waterside
+Ungwan Wada	Dandi	Kebbi	12.074	3.945	2	
+Wanga	Baure	Katsina	12.721	8.758	2	
+Walawa	Tsanyawa	Kano	12.174	8.022	2	
+Warure	Bagwai	Kano	12.063	8.199	2	
+Ungua Wanza	Babura	Jigawa	12.410	8.808	2	
+Wale Wale	Garki	Jigawa	12.345	8.990	2	
+Kuda Walawa	Yankwashi	Jigawa	12.768	8.441	2	
+Wakai	Ingawa	Katsina	12.738	8.088	2	
+Wawanrafi	Kazaure	Jigawa	12.616	8.372	2	
+Kundu Waje	Ingawa	Katsina	12.610	8.004	2	
+Walawa	Gwiwa	Jigawa	12.693	8.366	2	
+Wasakawa	Mani	Katsina	12.862	7.822	2	
+Walawa	Mani	Katsina	12.857	7.992	2	
+Wali	Bindawa	Katsina	12.710	7.900	2	
+Rugar Wake	Charanchi	Katsina	12.711	7.609	2	
+Majen-Waya	Charanchi	Katsina	12.542	7.695	2	
+Gidan Maijirigin Wakili	Mariga	Niger	10.446	6.004	2	
+Gidan Wakayi	Rafi	Niger	10.027	6.416	2	
+Gidan Wani	Rafi	Niger	10.070	6.515	2	
+Tundun Walda	Arewa Dandi	Kebbi	13.150	4.406	2	
+Wadai	Gwadabawa	Sokoto	13.367	5.302	2	
+Wamachi	Wurno	Sokoto	13.194	5.442	2	
+Wakili	Borgu	Niger	10.550	4.340	2	
+Warra	Ngaski	Kebbi	10.251	4.574	2	
+Tudun Wada	Kankara	Katsina	11.975	7.462	2	
+Wanzamai	Faskari	Katsina	11.795	7.049	2	
+Warara	Faskari	Katsina	11.627	7.090	2	
+Ungwan Wabi	Rogo	Kano	11.625	7.871	2	
+Wardanga	Bakori	Katsina	11.575	7.466	2	
+Walawa	Rogo	Kano	11.530	7.865	2	
+Walawa	Rogo	Kano	11.520	7.779	2	
+Garba Wanzami	Funtua	Katsina	11.509	7.264	2	
+Tudun Wada	Danja	Katsina	11.397	7.560	2	
+Magajin Wando	Dandume	Katsina	11.333	7.202	2	
+Ungwan Wada	Danja	Katsina	11.337	7.541	2	
+Ungwan Wanzam	Dandume	Katsina	11.291	7.231	2	
+Ungwan Wakili	Sabuwa	Katsina	11.265	7.133	2	
+Ungwan Wakaso	Giwa	Kaduna	11.031	7.377	2	
+Wazata	Giwa	Kaduna	11.010	7.490	2	
+Tungan Wata	Suru	Kebbi	11.697	4.129	2	
+Wadata	Koko-Besse	Kebbi	11.248	4.365	2	
+Wadata	Koko-Besse	Kebbi	11.242	4.374	2	
+Tunga Wakaso	Bagudo	Kebbi	11.086	4.324	2	
+Waya	Taura	Jigawa	12.286	9.520	2	
+Aghalokpe Waterside	Okpe	Delta	5.781	5.863	2	
+Ohrerhe Waterside	Uvwie	Delta	5.568	5.850	2	
+Tudun Wada	Tsafe	Zamfara	11.861	6.778	2	
+Wakataba	Faskari	Katsina	11.575	6.957	2	
+Batan Wanka	Argungu	Kebbi	12.596	4.418	2	
+Wagana	Ekeremor	Bayelsa	4.966	5.621	2	
+Ungwan-Waki	Maru	Zamfara	11.359	6.375	2	Unguwan Waki
+Walebaga	Borgu	Niger	10.416	3.844	2	
+Wakama	Ogu Bolo	Rivers	4.696	7.225	2	
+Gidan Wambai	Makarfi	Kaduna	11.356	8.058	2	
+Ungwan Waga	Makarfi	Kaduna	11.288	8.009	2	
+Tudun Wada	Kubau	Kaduna	11.057	8.273	2	
+Pan Dan Wali	Soba	Kaduna	11.054	8.069	2	
+Warri	Isoko North	Delta	5.458	6.433	2	
+Warri	Ndokwa East	Delta	5.340	6.494	2	
+Warri Irri	Ndokwa East	Delta	5.329	6.478	2	
+Uduophori Water-Side	Patani	Delta	5.142	6.067	2	Uduophori II
+Adia Wati-Ofu	Ogba/Egbema/Ndoni	Rivers	5.428	6.540	2	
+Oghanda Water-Side	Orhionmwon	Edo	6.380	6.129	2	
+Warawa	Warawa	Kano	11.908	8.771	2	
+Warri North	Warri North	Delta	5.882	5.277	2	Agbegbe Ijoba Ibile Ariwa Warri|Pak Warri|Warri Nord|Warri ta Arewa
+Warri South	Warri South	Delta	5.613	5.611	2	Agbegbe Ijoba Ibile Guusu Warri|Lam Warri|Warri Sud|Warri ta Kudu
+Warri South-West	Warri South-West	Delta	5.497	5.374	2	
+Wamako	Wamako	Sokoto	13.040	5.119	2	
+Wasagu-Danko	Wasagu-Danko	Kebbi	11.429	5.675	2	Danko Wasagu|Wasagu/Danko|Wasagu/Danko Local Government Area
+Tudun Wada	Tudun Wada	Kano	11.283	8.599	2	Tudun Wada Local Government Area|Tudun-Wada
+Wase	Wase	Plateau	9.083	10.205	2	Wase Local Government Area
+Kaura	Kaura	Kaduna	9.612	8.470	2	Agbegbe Ijoba Ibile Kaura|Kaura Local Government Area|Watyap
+Wamba	Wamba	Nasarawa	8.982	8.695	2	Agbegbe Ijoba Ibile Wamba|Uamba|Wamba Local Government Area|wanba
+Ogun Waterside	Ogun Waterside	Ogun	6.484	4.386	2	Agbegbe Ijoba Ibile Ogun Waterside|Ogun Water Side|Ogun Waterside Local Government Area|Ogun littoral
+Walwal	Kukawa	Borno	13.271	13.868	2	Mai-Engine
+Walwal	Kukawa	Borno	13.297	13.849	2	
+Walla Gawva Clan	Gwoza	Borno	11.154	13.744	2	
+Watsila	Michika	Adamawa	10.538	13.330	2	
+Ali-Wango	Monguno	Borno	12.527	13.763	2	
+Wawugo Yawa	Mubi North	Adamawa	10.279	13.312	2	
+Garin Waziri	Fika	Yobe	11.256	11.102	2	
+Wakato Fulani	Nafada	Gombe	11.036	11.234	2	
+Tudun Wada	Fika	Yobe	11.238	11.355	2	
+Wayo	Fika	Yobe	11.220	11.251	2	
+Walkere Umoru	Fune	Yobe	11.642	11.724	2	
+Walkere Gambo	Fune	Yobe	11.633	11.709	2	
+Walkere Jora Abdu	Fune	Yobe	11.628	11.715	2	
+Wangulore	Gwoza	Borno	10.965	13.650	2	
+Waku	Gwer East	Benue	7.402	8.269	2	
+Wajembe	Gwer East	Benue	7.322	8.460	2	
+Wanudu	Yala	Cross River	6.696	8.439	2	
+Wanakonde	Yala	Cross River	6.683	8.450	2	
+Wanubu	Yala	Cross River	6.627	8.409	2	
+Warshele	Ngala	Borno	12.086	14.148	2	
+Wamiri	Guzamala	Borno	12.999	13.579	2	
+Wajiro	Kaga	Borno	11.702	12.416	2	
+Wada	Kwaya Kusar	Borno	10.384	11.958	2	
+Majen Wayya	Charanchi	Katsina	12.508	7.701	2	
+Magaji Wando	Dandume	Katsina	11.345	7.184	2	
+Wara	Ngaski	Kebbi	10.189	4.649	2	
+Waje	Wasagu-Danko	Kebbi	11.551	5.639	2	
+Kukareta Warsala	Ngelzarma	Yobe	11.896	12.180	2	
+Wasa	Sanga	Kaduna	9.135	8.152	2	
+Tudun Wada	Gusau	Zamfara	12.137	6.744	2	
+Gidan Waya	Jema'A	Kaduna	9.464	8.451	2	
+Tudun Wada West	Kaduna South	Kaduna	10.496	7.389	2	
+Tudun Wada South	Kaduna South	Kaduna	10.497	7.405	2	
+Tudun Wada North	Kaduna South	Kaduna	10.512	7.414	2	
+Wazata	Giwa	Kaduna	11.066	7.500	2	
+Tudun Wada	Daura	Katsina	13.012	8.324	2	
+Wando	Warji	Bauchi	11.131	9.679	2	
+Wai A	Tafawa-Balewa	Bauchi	9.827	9.439	2	
+Wahu	Darazo	Bauchi	11.391	10.675	2	
+Wakende	Wukari	Taraba	7.943	9.329	2	
+Wako	Wukari	Taraba	7.891	9.342	2	
+Wankper	Ukum	Benue	7.784	9.426	2	
+Wachin	Ukum	Benue	7.759	9.401	2	
+War	Buruku	Benue	7.505	9.038	2	
+Wangbe	Ukum	Benue	7.735	9.452	2	
+Wangar	Logo	Benue	7.683	9.367	2	
+Wanam	Ukum	Benue	7.701	9.652	2	
+Wam	Donga	Taraba	7.632	9.890	2	
+Waapela	Gboko	Benue	7.331	9.089	2	
+Watyough	Buruku	Benue	7.380	9.138	2	
+War	Gboko	Benue	7.331	9.129	2	
+Wada	Katsina-Ala	Benue	7.373	9.343	2	
+Waapera	Ushongo	Benue	7.177	9.025	2	
+Waka	Katsina-Ala	Benue	7.146	9.388	2	
+Wankpese	Ushongo	Benue	7.098	9.414	2	
+Wachin	Buruku	Benue	7.415	9.133	2	
+Wanyalma	Katsina-Ala	Benue	7.433	9.507	2	
+Wachi	Gboko	Benue	7.471	8.924	2	
+Waji	Gboko	Benue	7.293	8.855	2	
+Warawa	Dawakin Kudu	Kano	11.866	8.701	2	
+Washigi	Gbako	Niger	9.388	5.964	2	
+Wariki	Gbako	Niger	9.141	5.951	2	
+Wadata	Edati	Niger	9.080	5.676	2	
+Wamgam	Yusufari	Yobe	13.152	10.768	2	
+Wala Jungo	Yusufari	Yobe	13.215	11.043	2	
+Bula Dabo Waluwana	Yusufari	Yobe	13.012	11.182	2	
+Wayagbe	Paikoro	Niger	9.446	6.492	2	
+Wasagi	Katcha	Niger	9.284	6.214	2	
+Wachin Saba	Gbako	Niger	9.223	6.020	2	
+Wachin Saba	Gbako	Niger	9.143	6.109	2	
+Gidan Wala	Shiroro	Niger	9.860	6.646	2	
+Gidan Wanna	Shiroro	Niger	9.794	6.626	2	
+Gidan Wakili	Shiroro	Niger	9.782	6.826	2	
+Gidan Wakili	Munya	Niger	9.588	6.998	2	
+Wabye	Bosso	Niger	9.644	6.638	2	
+Wari Yerigo	Mayo-Belwa	Adamawa	8.883	12.054	2	
+Wambei	Jada	Adamawa	8.552	12.012	2	
+Tundun Wada	Abaji	FCT Abuja	9.255	7.005	2	
+Wuro Wambei	Jada	Adamawa	8.664	12.429	2	
+Waga	Jada	Adamawa	8.607	12.390	2	
+Ifelodun	Amuwo Odofin	Lagos	6.469	3.293	2	Festac III Ward
+Orire	Amuwo Odofin	Lagos	6.466	3.283	2	Festac II Ward
+Irepodun	Amuwo Odofin	Lagos	6.472	3.273	2	Festac I Ward
+Abesan One	Alimosho	Lagos	6.609	3.266	2	Abesan 1 Ward
+Abesan Two	Alimosho	Lagos	6.615	3.269	2	Abesan 2 Ward
+Wasimi	Ikeja	Lagos	6.579	3.365	2	
+Government Reserve Area	Ikeja	Lagos	6.584	3.349	2	G.R.A. Ward
+Agboyi One	Kosofe	Lagos	6.579	3.414	2	Agboyi 1 Ward
+Agboyi Two	Kosofe	Lagos	6.582	3.413	2	Agboyi 2 Ward
+Agbowa One	Epe	Lagos	6.655	3.705	2	Agbowa 1 Ward
+Agbowa Two	Epe	Lagos	6.632	3.703	2	Agbowa 2 Ward
+Lekki Two	Epe	Lagos	6.464	3.970	2	Lekki II Ward
+Lekki One	Ibeju Lekki	Lagos	6.425	4.057	2	Lekki I Ward
+Siriwon Igbekodo One	Ibeju Lekki	Lagos	6.411	4.138	2	Siriwon Igbekodo I Ward
+Siriwon Igbekodo Two	Ibeju Lekki	Lagos	6.407	4.186	2	Siriwon Igbekodo II Ward
+Ibeju One	Ibeju Lekki	Lagos	6.496	3.899	2	Ibeju I Ward
+Ibeju Two	Ibeju Lekki	Lagos	6.501	3.824	2	Ibeju II Ward
+Orimedu One	Ibeju Lekki	Lagos	6.455	3.907	2	Orimedu I Ward
+Orimedu Two	Ibeju Lekki	Lagos	6.448	3.864	2	Orimedu II Ward
+Orimedu Three	Ibeju Lekki	Lagos	6.454	3.805	2	Orimedu III Ward
+Iwerekun Two	Ibeju Lekki	Lagos	6.466	3.754	2	Iwerekun II Ward
+Iwerekun One	Ibeju Lekki	Lagos	6.458	3.686	2	Iwerekun I Ward
+Ikoyi One	Eti Osa	Lagos	6.460	3.435	2	Ikoyi I Ward
+Ikoyi Two	Eti Osa	Lagos	6.451	3.422	2	Ikoyi II Ward
+One Thousand Four Aboyade	Eti Osa	Lagos	6.437	3.432	2	1004 Aboyade Ward
+Gidan Waziri	Karu	Nasarawa	9.304	7.901	2	
+Wabi	Karu	Nasarawa	9.102	7.957	2	
+Wasam	Zing	Taraba	8.866	11.892	2	
+Waryargo	Mayo-Belwa	Adamawa	8.972	11.989	2	
+Wajiri	Mayo-Belwa	Adamawa	8.646	11.865	2	
+Wakili Bala	Jalingo	Taraba	8.820	11.424	2	
+Wakili Musa	Ardo-Kola	Taraba	8.779	11.441	2	
+Garin Wanka	Gassol	Taraba	8.599	10.743	2	
+Garin Wandala	Ardo-Kola	Taraba	8.809	10.901	2	
+Garin Mallam Wabi	Gassol	Taraba	8.534	10.994	2	
+Kogi Wase	Ibi	Taraba	8.530	10.098	2	
+Wantul	Mikang	Plateau	8.951	9.567	2	
+Tudun Wada	Shendam	Plateau	8.767	9.692	2	
+Wayi	Mikang	Plateau	8.973	9.803	2	
+Angwan Wambai	Mikang	Plateau	8.957	9.788	2	
+Wayi	Mikang	Plateau	8.947	9.795	2	
+Wadata Arewa	Wase	Plateau	8.799	9.989	2	
+Wadata Lebura	Wase	Plateau	8.788	9.989	2	
+Wadata Kudu	Wase	Plateau	8.781	9.972	2	
+Tudun Wada	Wase	Plateau	8.751	9.991	2	
+Walnim	Langtang South	Plateau	8.725	9.902	2	
+Naki Wase	Wase	Plateau	8.680	9.922	2	
+Ungwan Waziri Gwado	Sanga	Kaduna	9.170	8.459	2	
+Tudun-Wada	Jema'A	Kaduna	9.461	8.402	2	
+Ganjum Wale	Sanga	Kaduna	9.252	8.419	2	Gantum Waje
+Wajo	Wukari	Taraba	7.972	10.016	2	
+Wasev	Donga	Taraba	7.821	10.181	2	
+Wasa Station	Sanga	Kaduna	9.191	8.168	2	
+Wadon	Zangon Kataf	Kaduna	9.749	8.305	2	
+Wanwa Fari	Zangon Kataf	Kaduna	9.733	8.475	2	
+Tudun Wada	Jema'A	Kaduna	9.552	8.305	2	
+Walijo	Kachia	Kaduna	9.695	8.057	2	
+Wangkum	Qua'An Pan	Plateau	8.973	9.230	2	
+Waziri	Qua'An Pan	Plateau	8.566	9.015	2	
+Waribugogbene	Southern Ijaw	Bayelsa	4.605	5.980	2	
+Wafango	Yola North	Adamawa	9.310	12.401	2	
+Wapa	Demsa	Adamawa	9.270	12.021	2	
+Hossere Wandu	Fufore	Adamawa	9.092	12.185	2	
+Wadikake	Larmurde	Adamawa	9.448	11.641	2	
+Kobon Waragiri	Demsa	Adamawa	9.307	11.916	2	
+Wambale	Mayo-Belwa	Adamawa	9.172	11.815	2	
+Watame	Mayo-Belwa	Adamawa	9.143	11.834	2	
+Wagogbe	Mayo-Belwa	Adamawa	9.086	11.838	2	
+Wadagure	Mayo-Belwa	Adamawa	9.079	11.812	2	
+Wagure	Mayo-Belwa	Adamawa	9.081	11.794	2	
+Wagbare	Mayo-Belwa	Adamawa	9.080	11.758	2	
+Watapare	Demsa	Adamawa	9.191	11.863	2	
+Mbamugel Waifa	Mayo-Belwa	Adamawa	9.156	11.940	2	
+Badara	Akko	Gombe	9.980	10.971	2	Tudun Wada
+Tudun Wada	Akko	Gombe	9.901	10.989	2	
+Garin Wamba	Alkaleri	Bauchi	9.848	10.881	2	
+Walakero	Alkaleri	Bauchi	9.822	10.855	2	
+Jauro Wabi	Akko	Gombe	9.867	10.944	2	
+Guda Waziri	Akko	Gombe	9.867	10.998	2	
+Ungwar Wakilinkoi	Karim Lamido	Taraba	9.322	11.199	2	
+Ungwar Waziri	Karim Lamido	Taraba	9.283	11.121	2	
+Wasimi	Odeda	Ogun	7.194	3.468	2	
+Waka	Irewole	Osun	7.492	4.168	2	
+Bale-Wajeko	Ife Central	Osun	7.616	4.536	2	
+Gada-Walewol	Fufore	Adamawa	9.471	12.974	2	Gada Walewol
+Wauru-Nelbe	Fufore	Adamawa	9.051	12.860	2	Wauru Nelbe
+Wafango	Fufore	Adamawa	9.268	12.682	2	
+Wamgo-Nzoboliyo	Girei	Adamawa	9.228	12.583	2	Wamgo Nzoboliyo
+Wada	Girei	Adamawa	9.246	12.556	2	
+Wanisanni	Ife North	Osun	7.422	4.530	2	
+Walode	Ife North	Osun	7.357	4.526	2	
+Wasimi	Ile Oluji/Okeigbo	Ondo	7.332	4.890	2	
+Wasimi	Ondo East	Ondo	7.179	4.993	2	
+Ago Wasimi	Ondo East	Ondo	7.176	4.989	2	
+Waro	Atiba	Oyo	8.048	4.003	2	
+Wasimi	Odeda	Ogun	7.321	3.650	2	
+Wasimi-Ake	Odeda	Ogun	7.282	3.701	2	
+Wande	Ifelodun	Kwara	8.447	5.008	2	
+Wafia	Lapai	Niger	8.224	6.675	2	
+Wamba Forest Reserve	Wamba	Nasarawa	8.959	8.587	2	
+Wamba-Kormi	Wamba	Nasarawa	8.940	8.574	2	
+Waja	Wamba	Nasarawa	8.932	8.620	2	
+Wayo	Wamba	Nasarawa	8.881	8.603	2	
+Wadji	Wamba	Nasarawa	8.858	8.529	2	
+Wayo-Pini	Wamba	Nasarawa	8.834	8.622	2	
+Walaga	Nasarawa Egon	Nasarawa	8.792	8.288	2	
+Wansena	Nasarawa Egon	Nasarawa	8.788	8.273	2	Wahsena
+Gidan Wase	Kokona	Nasarawa	8.851	8.047	2	
+Tudun Wada	Kokona	Nasarawa	8.798	8.013	2	
+Wale	Ifelodun	Kwara	8.379	4.962	2	
+Jauro Wari	Fufore	Adamawa	8.887	12.722	2	JauroWari
+Wanchuru	Fufore	Adamawa	8.880	12.585	2	
+Wasuje	Teungo	Adamawa	8.152	11.943	2	
+Walum	Song	Adamawa	9.965	12.334	2	
+Watta	Song	Adamawa	9.819	12.373	2	
+Wuro Waziri Buba	Shelleng	Adamawa	9.753	12.056	2	WuroWaziriBuba
+Waiman	Girei	Adamawa	9.513	12.428	2	
+Wuro Wakili Hamma	Girei	Adamawa	9.544	12.439	2	WuroWakiliHamma
+Wauturo	Song	Adamawa	9.917	12.575	2	
+Wakili Zuwa	Song	Adamawa	9.754	12.880	2	WakiliZuwa
+Wajo	Ifelodun	Kwara	8.312	4.722	2	
+Warakata	Toto	Nasarawa	8.452	7.238	2	
+Wada	Toto	Nasarawa	8.464	7.265	2	
+Wada	Toto	Nasarawa	8.405	7.229	2	
+Waje	Kuje	FCT Abuja	8.627	7.233	2	
+Tudun Wada	Kurmi	Taraba	6.999	10.736	2	
+Wache	Nasarawa	Nasarawa	8.515	7.567	2	
+Angwan-Wayo-Sabo	Karu	Nasarawa	8.735	7.890	2	
+Angwan-Wayo	Karu	Nasarawa	8.734	7.897	2	
+Tunri-Wada	Nasarawa	Nasarawa	8.647	7.747	2	
+Gidan-Waru	Nasarawa	Nasarawa	8.700	7.672	2	
+Wasa	Municipal Area Council	FCT Abuja	8.873	7.483	2	
+Wawa	Municipal Area Council	FCT Abuja	8.942	7.281	2	
+Wane	Nasarawa Egon	Nasarawa	8.664	8.450	2	
+Wansa	Lafia	Nasarawa	8.588	8.350	2	
+Wakili Yaso	Sardauna	Taraba	6.704	11.351	2	
+War	Sardauna	Taraba	6.536	11.114	2	
+Galadima Wanderi	Sardauna	Taraba	6.538	11.194	2	
+Wakili Tarkawa	Sardauna	Taraba	6.958	11.202	2	
+Wasinmi	Irewole	Osun	7.504	4.177	2	
+Walterkiri	Nembe	Bayelsa	4.423	6.321	2	
+Waro	Yusufari	Yobe	13.108	11.159	2	
+Wamgu	Mayo-Belwa	Adamawa	8.756	11.978	2	
+Wamon Taofeek Avenue	Ifako/Ijaye	Lagos	6.651	3.306	1	
+Mbiama to Effurun, Warri	Sagbama	Bayelsa	5.200	6.210	1	
+Mbiama to Effurun, Warri	Patani	Delta	5.225	6.193	1	
+Inuwa Wada Road	Kaduna North	Kaduna	10.540	7.464	1	
+Waziri Road	Kaduna North	Kaduna	10.543	7.440	1	
+Waziri Ibrahim Crescent	Kaduna North	Kaduna	10.543	7.429	1	
+Warri Street	Kaduna North	Kaduna	10.514	7.427	1	
+Living Water Avenue	Chikun	Kaduna	10.462	7.454	1	
+Mbiama to Effurun, Warri	Yenegoa	Bayelsa	5.080	6.418	1	
+James Watt Road	Oredo	Edo	6.339	5.633	1	
+Watch Tower Street	Oredo	Edo	6.322	5.586	1	
+Walter Carrington Crescent	Eti Osa	Lagos	6.439	3.411	1	
+Waziri Ibrahim Crescent	Eti Osa	Lagos	6.433	3.413	1	
+Wahab Larinde Street	Oshodi/Isolo	Lagos	6.563	3.336	1	
+Water way	Ibadan North	Oyo	7.447	3.910	1	
+Wadei Martin Street	Ibadan North	Oyo	7.441	3.887	1	
+Usman Waziri Close	Chikun	Kaduna	10.473	7.444	1	
+Waheed Akanni Street	Oshodi/Isolo	Lagos	6.516	3.316	1	
+Alhaji Wahab Kajogbola Street	Oshodi/Isolo	Lagos	6.513	3.306	1	
+Wale Ariwo Ola Street	Oshodi/Isolo	Lagos	6.524	3.289	1	
+Walter Sieffre Street	Kosofe	Lagos	6.562	3.392	1	
+Alhaji Moshoba Street	Ikeja	Lagos	6.649	3.355	1	Wale Fajemisin
+Warehouse Road	Apapa	Lagos	6.438	3.364	1	
+Waff Road	Kaduna North	Kaduna	10.530	7.429	1	Muhammadu Buhari Way
+Wambai Market Road	Kano Municipal	Kano	12.003	8.525	1	
+Aja Wachukwu Close	Municipal Area Council	FCT Abuja	9.072	7.450	1	
+Warri Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.106	7.731	1	
+Mbiama to Effurun, Warri	Uvwie	Delta	5.572	5.806	1	
+Waziri Ibrahim Crescent	Municipal Area Council	FCT Abuja	9.006	7.475	1	
+Adolphus Wabara Street	Municipal Area Council	FCT Abuja	9.053	7.438	1	
+Watari Street	Gwale	Kano	11.981	8.493	1	
+Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.327	8.319	1	
+Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.269	8.383	1	
+Wayan Makafi Street	Bauchi	Bauchi	10.298	9.841	1	
+Walo Osholonge Street	Eti Osa	Lagos	6.472	3.617	1	
+Water works Road	Ebonyi	Ebonyi	6.325	8.114	1	
+Water works Road	Ebonyi	Ebonyi	6.325	8.117	1	
+Alhaji Wasiu Ogunlana Road	Amuwo Odofin	Lagos	6.477	3.312	1	
+Wahab Ogunbambi Street	Eti Osa	Lagos	6.431	3.445	1	
+Wahab Bolanle Road	Ifo	Ogun	6.678	3.305	1	
+Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.566	5.744	1	
+Deco Road Warri	Warri South	Delta	5.524	5.763	1	
+Water Resources Road	Uvwie	Delta	5.540	5.771	1	
+Okpara Waterside Road	Uvwie	Delta	5.563	5.779	1	
+Effurun, Warri to Shell Ogunu	Uvwie	Delta	5.562	5.778	1	
+Ginuwa Road Warri	Warri South	Delta	5.518	5.752	1	
+Warri Sapele Road	Warri South	Delta	5.516	5.758	1	
+Warri Sapele Road	Warri South	Delta	5.515	5.742	1	
+Mission Road Warri	Warri South	Delta	5.518	5.746	1	
+Robert Road Warri	Warri South	Delta	5.516	5.747	1	
+Waico Street	Uvwie	Delta	5.541	5.781	1	
+odion road warri	Warri South	Delta	5.508	5.753	1	
+Warri Benin Rd	Ethiope West	Delta	5.901	5.735	1	
+Waston Street	Enugu North	Enugu	6.454	7.502	1	
+Gold Wave Avenue	Enugu East	Enugu	6.482	7.479	1	
+Sani Buhari (Walin Daura) Road	Gwale	Kano	11.994	8.504	1	
+Inuwa wada road	Fagge	Kano	11.994	8.535	1	
+Warri Road	Fagge	Kano	12.023	8.538	1	
+Wase Close	Jos North	Plateau	9.897	8.882	1	
+Yan Wanki Road	Dambatta	Kano	12.429	8.518	1	
+Waro Close	Enugu East	Enugu	6.505	7.510	1	
+wales road	Enugu East	Enugu	6.505	7.527	1	
+Wanzamai Road	Kumbotso	Kano	11.903	8.514	1	
+Wahuha Avenue	Oshodi/Isolo	Lagos	6.505	3.297	1	
+Walawa Road	Makoda	Kano	12.355	8.489	1	
+Wahab Balogun Street	Ìkòròdú	Lagos	6.623	3.491	1	
+Wale Adekoya Street	Ìkòròdú	Lagos	6.638	3.501	1	
+Water Works Road	Shagamu	Ogun	6.854	3.652	1	Epe Street
+Aliyu Adamu Wakili Street	Ungongo	Kano	11.977	8.450	1	
+Kawu Wakili Street	Ungongo	Kano	11.975	8.450	1	
+Ikara to Tudun Wada Road	Ikara	Kaduna	11.177	8.295	1	
+Waterside Road	Eti Osa	Lagos	6.423	3.469	1	
+Water Corporation Road	Eti Osa	Lagos	6.424	3.450	1	
+Still Water Garden Road	Eti Osa	Lagos	6.433	3.486	1	
+Warren Street	Ibadan South West	Oyo	7.386	3.881	1	
+Chestnut Walk	Eti Osa	Lagos	6.428	3.550	1	
+Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.338	8.337	1	
+Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.313	8.357	1	
+Wasiu Otu Tuloro Street	Eti Osa	Lagos	6.504	3.605	1	
+Alilonu Walter Street	Oshodi/Isolo	Lagos	6.518	3.296	1	
+Prince of Wales Street	Eti Osa	Lagos	6.458	3.521	1	
+Effurun, Warri to Shell Ogunu	Warri South	Delta	5.533	5.715	1	
+Warri Benin Rd	Ethiope West	Delta	5.920	5.701	1	
+Warri Benin Rd	Ethiope West	Delta	5.939	5.688	1	
+Mbiama to Effurun, Warri	Ughelli North	Delta	5.579	5.868	1	
+Federal Road F.212 Wara - Ibeto	Magama	Niger	10.319	4.979	1	
+Mbiama to Effurun, Warri	Ughelli North	Delta	5.366	6.061	1	
+Warri-Patani Rd	Ughelli North	Delta	5.462	6.022	1	
+Mbiama to Effurun, Warri	Ughelli North	Delta	5.287	6.074	1	
+Mbiama to Effurun, Warri	Ughelli North	Delta	5.554	5.909	1	
+Warri Street	Umuahia North	Abia	5.532	7.498	1	
+Man O War road	Ikwerre	Rivers	4.905	6.902	1	
+Okey Wali Street	Obio/Akpor	Rivers	4.874	6.921	1	
+Wasca Lane	Ife Central	Osun	7.508	4.545	1	
+Father Walsh Crescent	Owerri North	Imo	5.480	7.121	1	
+Waast Ave	Owerri North	Imo	5.502	7.040	1	
+Wale Adenekan Street	Kosofe	Lagos	6.616	3.384	1	
+Esisi Road Warri	Warri South	Delta	5.524	5.744	1	
+Wale Azeez Street	Alimosho	Lagos	6.642	3.261	1	
+Walter Andem	Alimosho	Lagos	6.651	3.292	1	
+Wahab Busari Street	Ado Odo/Ota	Ogun	6.689	3.246	1	
+Water Loo Avenue	Ìkòròdú	Lagos	6.640	3.491	1	
+Chief Wahab Irawo Street	Oshodi/Isolo	Lagos	6.493	3.314	1	
+Waleade Olawoyin Avenue	Ife North	Osun	7.492	4.534	1	
+Water Road	Monguno	Borno	12.455	13.500	1	
+Sapele - Warri Road	Sapele	Delta	5.870	5.708	1	
+Jakpa Road	Uvwie	Delta	5.561	5.774	1	Effurun, Warri to Shell Ogunu
+Mbiama to Effurun, Warri	Patani	Delta	5.211	6.157	1	
+Dick Wami Avenue	Port-Harcourt	Rivers	4.811	6.993	1	
+Wale Famutimi Street	Alimosho	Lagos	6.628	3.287	1	Onaasua Street
+Kuramo Waters Close	Eti Osa	Lagos	6.425	3.439	1	
+Waziri Babba Lawan Street	Yola North	Adamawa	9.205	12.479	1	
+Mbiama to Effurun, Warri	Uvwie	Delta	5.573	5.791	1	
+Bako Waziri Close	Chikun	Kaduna	10.463	7.439	1	
+Mbiama to Effurun, Warri	Ughelli North	Delta	5.262	6.096	1	
+Mbiama to Effurun, Warri	Ughelli North	Delta	5.268	6.088	1	
+Ikara to Tudun Wada Road	Ikara	Kaduna	11.220	8.364	1	
+Warri Street	Kaduna North	Kaduna	10.516	7.426	1	
+Waji Road	Kaduna North	Kaduna	10.570	7.461	1	
+Ikara to Tudun Wada Road	Tudun Wada	Kano	11.243	8.383	1	
+Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.312	8.384	1	
+Mr. Wali Amadi Close	Obio/Akpor	Rivers	4.899	6.923	1	
+Alhaji Wasiu Ogunlana Road	Amuwo Odofin	Lagos	6.477	3.317	1	
+Wadsworth Avenue	Lafia	Nasarawa	8.566	8.543	1	
+Willbros Water Pipeline Road	Bonny	Rivers	4.428	7.188	1	
+Wallace Street	Lokoja	Kogi	7.803	6.742	1	
+Water Scheme Gate	Owerri Municipal	Imo	5.476	7.042	1	
+Sadiq Warawa Street	Gwale	Kano	11.958	8.486	1	
+Ikara to Tudun Wada Road	Ikara	Kaduna	11.167	8.239	1	
+Wakanda's Highway	Yabo	Sokoto	12.828	4.961	1	
+Wanzamai Street	Tarauni	Kano	11.948	8.542	1	
+Mbiama to Effurun, Warri	Kolokuma/Opokuma	Bayelsa	5.149	6.266	1	
+Mbiama to Effurun, Warri	Sagbama	Bayelsa	5.224	6.197	1	
+Mbiama to Effurun, Warri	Kolokuma/Opokuma	Bayelsa	5.164	6.252	1	
+Watson Way	Mobbar	Borno	13.079	12.513	1	
+Waterboard Road	Ikot Ekpene	Akwa Ibom	5.165	7.739	1	
+Wamdai road	Maiduguri	Borno	11.827	13.125	1	
+Wada Road	Ajaokuta	Kogi	7.728	6.733	1	
+Wada Road	Ajaokuta	Kogi	7.727	6.738	1	
+Water Works	Eti Osa	Lagos	6.431	3.554	1	
+Warri Island Road	Warri South	Delta	5.514	5.696	1	
+Mbiama to Effurun, Warri	Ughelli North	Delta	5.335	6.063	1	
+water st	Tarauni	Kano	11.958	8.586	1	
+Wale Balogun Close	Eti Osa	Lagos	6.479	3.629	1	
+Warri Benin Rd	Ethiope West	Delta	5.871	5.730	1	
+Jeff V. Wade Obahor Street	Eti Osa	Lagos	6.429	3.523	1	
+Pessu Waterside Road	Warri South	Delta	5.504	5.755	1	
+Pessu Waterside	Warri South	Delta	5.503	5.754	1	
+water road	Enugu East	Enugu	6.508	7.527	1	
+Facilities and central store walkway	Ikenne	Ogun	6.890	3.724	1	
+Wawa	Borgu	Niger	9.896	4.483	0	
+Rumuafo Water Side Market	Emuoha	Rivers	4.862	6.772	0	
+Water Side market	Ikwerre	Rivers	4.912	6.881	0	
+Walawa Health Post	Kabo	Kano	11.786	8.223	0	
+Waire Health Post	Bichi	Kano	12.345	8.221	0	
+Wambai Market North	Kano Municipal	Kano	12.009	8.523	0	
+Wambai Market South	Fagge	Kano	12.007	8.524	0	
+Wamiri Health Clinic	Guzamala	Borno	12.726	13.457	0	
+Wasaram Clinic	Kaga	Borno	11.633	12.322	0	
+Wanori Primary Health Clinic	Jere	Borno	11.746	13.301	0	
+waterside market	Aba South	Abia	5.115	7.380	0	
+Walter Oil Service	Uvwie	Delta	5.553	5.778	0	
+Watgo Petroleum Filling Station	Yenegoa	Bayelsa	4.947	6.349	0	
+St. Paul's Nursery and Primary School, Warri City	Warri South	Delta	5.508	5.763	0	
+Kobay Filling Station, Warri	Warri South	Delta	5.529	5.723	0	
+Wamo	Alimosho	Lagos	6.546	3.277	0	
+Wayage Primary School	Tangaza	Sokoto	13.540	4.843	0	
+Ujevwu Station	Udu	Delta	5.468	5.812	0	Warri Station
+Ilaje Waterfront Jetty Terminal Bariga	Shomolu	Lagos	6.528	3.400	0	
+Ibrahim Waziri Abubakar	Gombe	Gombe	10.305	11.171	0	
+Ibrahim wakili & sons ltd	Yamaltu/Deba	Gombe	10.277	11.250	0	
+Wali Bako Clinic	Sokoto South	Sokoto	13.038	5.252	0	
+Warrant Officers Academy	Igabi	Kaduna	10.813	7.546	0	
+Acf Water Board IDP Camp Clinic	Monguno	Borno	12.683	13.614	0	
+Wasada Dispensary Nkurvu	Askira-Uba	Borno	10.844	13.144	0	
+mayo wandu heath clinic	Michika	Adamawa	10.708	13.438	0	
+Community Primary School, Wasimi Ajibawo	Ifo	Ogun	6.692	3.367	0	
+Wasimi African Church Primary School Imepe	Ifo	Ogun	6.715	3.307	0	
+Community Primary School, Warewa	Shagamu	Ogun	6.852	3.651	0	
+Wasimi African Church Primary School Imepe	Ìjẹ̀bú Òde	Ogun	6.808	3.912	0	
+Community Primary School, Warewa	Ifo	Ogun	6.716	3.298	0	
+Community Primary School, Wasimi Ajibawo	Ado Odo/Ota	Ogun	6.671	3.058	0	
+Ojojo Primary School, Warri	Warri South	Delta	5.514	5.748	0	
+Pessu Primary School, Warri	Warri South	Delta	5.512	5.764	0	
+Dore Numa College, Warri	Warri South	Delta	5.508	5.762	0	
+Dore Numa College Warri	Warri South	Delta	5.508	5.762	0	
+Hwolshe medical center Tudun Wada	Jos North	Plateau	9.892	8.867	0	
+Primary health care tudu wada	Jos North	Plateau	9.905	8.868	0	
+Government secondary school Mafo Tudun Wada	Jos North	Plateau	9.900	8.861	0	
+Nana College Warri	Warri South	Delta	5.521	5.740	0	
+Central Hospital Warri	Warri South	Delta	5.518	5.734	0	
+Dom Domingos College Warri	Warri South	Delta	5.538	5.743	0	
+Federal Government College Warri	Warri South	Delta	5.530	5.724	0	
+Yonwuren College Warri	Warri South	Delta	5.529	5.717	0	
+Alders Town Primary School Warri	Warri South	Delta	5.511	5.754	0	
+Ogiame Primary School Warri	Warri South	Delta	5.523	5.731	0	
+Ogbe-ijaw Market Warri	Warri South	Delta	5.512	5.746	0	
+Wazobia Clinic and Maternity	Municipal Area Council	FCT Abuja	8.939	7.429	0	
+Hussey College Warri	Warri South	Delta	5.523	5.749	0	
+Cb2 Musawa By Faki Road Tudun Wada	Kaduna South	Kaduna	10.512	7.407	0	
+Tudun Wada Family Health Unit Clinic	Kaduna South	Kaduna	10.511	7.413	0	
+Yusuf Dantsoho Hospital Kv 206 Lbrahim Taiwo Road Tudun Wada Kaduna	Kaduna South	Kaduna	10.512	7.411	0	
+Primary Health Center Warri Street	Kaduna North	Kaduna	10.514	7.426	0	
+Tundun Wada Primary Health Center	Chikun	Kaduna	10.476	7.636	0	
+Primary Healthcare Tudun Wada No2 Bugai Road Kujama	Chikun	Kaduna	10.477	7.643	0	
+Primary Health Center Tudun Wada Opposite New Market Kujama	Chikun	Kaduna	10.476	7.633	0	
+Primary Health Care Tudun Wada Road Rido	Chikun	Kaduna	10.399	7.508	0	
+First Wave Medical Center	Alimosho	Lagos	6.646	3.271	0	
+Madarasatul Khalid Bin Walid Islamiyya	Ungongo	Kano	12.043	8.567	0	
+Almuhajirun Wal Ansar Litahfizul Qur An Waddarasatuk Ilamiyya	Ungongo	Kano	12.054	8.577	0	
+Jauro Tudun Wada Primary School	Gombe	Gombe	10.300	11.171	0	
+Ojo Market waterside	Ojo	Lagos	6.453	3.204	0	
+Bariga Waterfront	Shomolu	Lagos	6.528	3.400	0	
+Number 1A Waterside	Apapa	Lagos	6.443	3.349	0	
+Wa-Afia (NawAfia)	Ezeagu	Enugu	6.345	7.362	0	
+number 1 (apapa) waterside	Apapa	Lagos	6.446	3.350	0	
+number 1 (ajegunle) waterside	Ajeromi/Ifelodun	Lagos	6.446	3.350	0	
+number 2 (ajegunle) waterside/kumuyi street(ajegunle)	Ajeromi/Ifelodun	Lagos	6.448	3.351	0	
+number 2 (apapa) waterside	Apapa	Lagos	6.448	3.351	0	
+imore waterside	Amuwo Odofin	Lagos	6.430	3.281	0	
+ilado waterfront	Apapa	Lagos	6.414	3.343	0	
+boundary (apapa)/number 3 (apapa) waterside	Apapa	Lagos	6.450	3.352	0	
+number 3 (ajegunle) waterside	Ajeromi/Ifelodun	Lagos	6.450	3.351	0	
+Lugbe By Car Wash Bridge	Municipal Area Council	FCT Abuja	8.964	7.381	0	
+Waterboard Junction Bus Stop	Municipal Area Council	FCT Abuja	9.050	7.519	0	
+War College Bus Stop	Municipal Area Council	FCT Abuja	9.050	7.488	0	
+Bridge Waters Hotel	Municipal Area Council	FCT Abuja	9.057	7.448	0	
+Wari Health Post	Kabo	Kano	11.913	8.189	0	
+Yammawa Wanzari Health Post	Dambatta	Kano	12.511	8.655	0	
+Wasai Health Post	Minjibir	Kano	12.154	8.675	0	
+Wailare Health Post	Makoda	Kano	12.268	8.530	0	
+Tudun Wada Health Post	Nassarawa	Kano	12.023	8.554	0	
+Walowa Dispensary	Katagum	Bauchi	11.705	10.362	0	
+Wahu Dispensary	Damban	Bauchi	11.607	10.686	0	
+Wandi Maternity	Dass	Bauchi	9.982	9.496	0	
+Waptan Clinic	Tafawa-Balewa	Bauchi	9.816	9.437	0	
+Kardam Dispensary	Tafawa-Balewa	Bauchi	9.833	9.382	0	Ungwa Wakili
+Day Waterman College	Obafemi Owode	Ogun	7.022	3.492	0	
+Obiri Wali	Obio/Akpor	Rivers	4.876	6.917	0	
+Essi College Warri	Warri South	Delta	5.510	5.763	0	
+Warri Main Market	Warri South	Delta	5.513	5.746	0	
+Wak Primary Health Centre	Bebeji	Kano	11.591	8.358	0	
+Warawa Primary Health Centre	Warawa	Kano	11.876	8.746	0	
+Waziri Gidado General Hospital	Dala	Kano	12.058	8.470	0	
+Wahu Health Center	Darazo	Bauchi	11.386	10.656	0	
+T/wada Dispensary	Warji	Bauchi	11.213	9.675	0	
+Tuya General Hospital	Warji	Bauchi	11.192	9.752	0	Warji General Hospital
+Tudun Wada Dispensary	Warji	Bauchi	11.222	9.652	0	
+Wanka Health Clinic	Kirfi	Bauchi	10.451	10.432	0	
+Gidan Waya Dispensary	Ganjuwa	Bauchi	10.565	10.088	0	
+Kofar Dumi Maternal and Child Health Clinic	Bauchi	Bauchi	10.308	9.857	0	Maternity and Child Health Center Tudun Wadan
+Primary Health Center Wabu	Gamawa	Bauchi	11.963	10.742	0	
+Surgical Ward, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.495	0	
+Walawa Health Post	Makoda	Kano	12.344	8.477	0	
+Children's Ward GH	Warri South	Delta	5.518	5.735	0	
+Bidda Wakka Health Post	Demsa	Adamawa	9.238	11.937	0	
+Wajah Primary Health Center	Hong	Adamawa	10.234	12.919	0	
+Tudun wada Maternityand child health care	Potiskum	Yobe	11.715	11.087	0	
+Tudun Wada Maternity and Child Health Center	Ngelzarma	Yobe	11.675	11.945	0	
+Sale Waja Health Clinic	Numan	Adamawa	9.442	12.030	0	
+Tudun Wada Clinic	Numan	Adamawa	9.458	12.035	0	
+wanuki heath post	Madagali	Adamawa	10.784	13.486	0	
+Waurunelbi Basic Health Clinic	Fufore	Adamawa	9.052	12.861	0	
+tuhum waziri primary heath center	Madagali	Adamawa	10.736	13.531	0	
+materniy wagga	Madagali	Adamawa	10.929	13.649	0	
+Watinane Maternal and Child Health Care	Nangere	Yobe	11.757	11.012	0	
+Wadore Health Post	Jada	Adamawa	8.466	12.163	0	
+General Hospital Wasagu	Wasagu-Danko	Kebbi	11.366	5.806	0	
+Jauro Tudun Wada Primary T/Wada	Gombe	Gombe	10.300	11.171	0	
+Male Ward	Isiala Mbano	Imo	5.679	7.240	0	
+Private Ward	Isiala Mbano	Imo	5.679	7.240	0	
+Female Ward	Isiala Mbano	Imo	5.679	7.240	0	
+Maternity Ward	Isiala Mbano	Imo	5.680	7.240	0	
+Ogedegbe Primary School, Warri	Warri South	Delta	5.507	5.762	0	
+Uwangue College Warri	Warri South	Delta	5.517	5.745	0	
+Institution of continuing education Warri	Warri South	Delta	5.519	5.746	0	I.C.E
+Nana Model College, Warri	Warri South	Delta	5.521	5.740	0	
+Robinson Plaza Warri	Warri South	Delta	5.526	5.762	0	
+Waru Health Centre	Municipal Area Council	FCT Abuja	8.928	7.487	0	
+Watts Oil	Osogbo	Osun	7.752	4.569	0	
+N. Wasco Electronics plaza	Owerri Municipal	Imo	5.489	7.038	0	
+Asbitin Murtala, Wambai Kano	Kano Municipal	Kano	12.000	8.521	0	

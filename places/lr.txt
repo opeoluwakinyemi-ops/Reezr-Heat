@@ -1,8 +1,8 @@
 LR 301 and LR 302	Kaduna North	Kaduna	10.613	7.442	0	
 FOS - New LR 1	Kaduna North	Kaduna	10.610	7.445	0	
 FOS -  New LR 2	Kaduna North	Kaduna	10.610	7.444	0	
-FOS - LR 1	Kaduna North	Kaduna	10.609	7.445	0	
-FOS - LR 2	Kaduna North	Kaduna	10.609	7.444	0	
-FOS - LR 3	Kaduna North	Kaduna	10.609	7.444	0	
-FOS - LR 4	Kaduna North	Kaduna	10.609	7.445	0	
+Fos - Lr 1	Kaduna North	Kaduna	10.609	7.445	0	
+Fos - Lr 2	Kaduna North	Kaduna	10.609	7.444	0	
+Fos - Lr 3	Kaduna North	Kaduna	10.609	7.444	0	
+Fos - Lr 4	Kaduna North	Kaduna	10.609	7.445	0	
 Agege LRMT Station	Agege	Lagos	6.621	3.326	0	

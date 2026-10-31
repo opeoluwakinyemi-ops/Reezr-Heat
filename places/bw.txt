@@ -1,15 +1,15 @@
+Bwala	Hawul	Borno	10.460	12.163	3	Marama
+Bwari	Bwari	FCT Abuja	9.280	7.380	3	
 Waka	Lapai	Niger	8.867	6.683	2	Bwacha
 Bwala	Kwaya Kusar	Borno	10.431	12.043	2	Bola
 Bwala Pakila	Hawul	Borno	10.393	12.377	2	Bwal-Pakla
 Bwala	Hawul	Borno	10.495	12.309	2	Bwola
 Beru	Baruten	Kwara	9.650	3.433	2	Beru;Bwero
-Bwari	Bwari	FCT Abuja	9.280	7.382	2	
 Bwen	Baruten	Kwara	8.840	2.897	2	Bawe
 Bwaka Hamadawa	Tureta	Sokoto	12.583	5.317	2	
 Bwara	Song	Adamawa	9.833	12.383	2	Gwara
 Bwalagyang Bila Kabu	Chibok	Borno	10.878	12.784	2	Bwalaghyan
 Bwala	Hawul	Borno	10.512	12.087	2	Bola
-Bwala	Hawul	Borno	10.460	12.163	3	Marama
 Kir Bwala	Hawul	Borno	10.574	12.117	2	Kilbula
 Bwoka Noma	Tureta	Sokoto	12.584	5.330	2	
 Bwi	Arewa Dandi	Kebbi	12.723	4.120	2	
@@ -27,6 +27,33 @@ Bwangdi	Hawul	Borno	10.422	12.059	2
 Manda Bwala	Hawul	Borno	10.550	12.050	2	
 Bwala 2	Hawul	Borno	10.510	12.311	2	
 Bwalagyang Bila Kyari	Chibok	Borno	10.873	12.766	2	
+Bwari	Bwari	FCT Abuja	9.236	7.472	2	
+Bwom	Tafa	Niger	9.244	7.283	2	
+Bwola	Hawul	Borno	10.495	12.310	2	
+Bwoi	Gurara	Niger	9.304	7.239	2	
+Bueru	Baruten	Kwara	9.667	3.443	2	Beru|Bwero
+Bwelgan	Langtang South	Plateau	8.475	9.725	2	
+Bwashishi	Chikun	Kaduna	10.187	7.217	2	
+Bwaregurji	Kaiama	Kwara	9.333	3.850	2	
+Bwangwar Kubaje	Maiha	Adamawa	10.006	13.143	2	
+Banikota	Kaiama	Kwara	9.549	4.026	2	Bwanabe
+Bwal-Pakla	Hawul	Borno	10.395	12.378	2	
+Bwalokoja	Hawul	Borno	10.414	12.109	2	
+Bwakoro	Kagarko	Kaduna	9.342	7.232	2	
+Bwakar	Michika	Adamawa	10.521	13.434	2	
+Bwarat	Langtang North	Plateau	9.186	9.803	2	Burat
+Bui	Arewa Dandi	Kebbi	12.728	4.117	2	Bwi
+Buen	Baruten	Kwara	8.841	2.895	2	Bawe|Bwen
+Bola	Hawul	Borno	10.497	12.092	2	Bwala
+Bwina	Lafia	Nasarawa	8.951	8.928	2	Bina
+Buama	Brass	Bayelsa	4.334	6.034	2	Bwama
+Bwari	Bwari	FCT Abuja	9.218	7.408	2	
+Bwafiyi	Paikoro	Niger	9.380	6.703	2	
+Bwarat	Wase	Plateau	8.958	9.919	2	
+Bwall	Qua'An Pan	Plateau	8.935	9.169	2	
+Bwol	Qua'An Pan	Plateau	8.845	9.156	2	
+Bwashi	Demsa	Adamawa	9.459	12.164	2	
+Bwortama	Song	Adamawa	9.950	12.453	2	
+Bwazange	Song	Adamawa	9.827	12.377	2	
 Dason Bwate Health Post	Fufore	Adamawa	9.252	12.634	0	
 Dulo Bwatiye Health Post	Fufore	Adamawa	9.345	12.780	0	
-Bwari	Bwari	FCT Abuja	9.236	7.472	2	

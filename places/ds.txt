@@ -1,13 +1,10 @@
-DSPG, Campus C	Aniocha South	Delta	6.204	6.553	0	
-DSPG, Campus B	Aniocha South	Delta	6.203	6.548	0	
 NPA-DSC Express	Uvwie	Delta	5.572	5.734	1	
 DSC Expressway	Udu	Delta	5.515	5.816	1	
 DSC Expressway	Udu	Delta	5.482	5.788	1	
 DSC Expressway	Uvwie	Delta	5.561	5.820	1	
 DSC Expressway	Uvwie	Delta	5.567	5.814	1	
-DSC Expressway	Ughelli South	Delta	5.542	5.826	1	
 DSC Expressway	Udu	Delta	5.501	5.806	1	
-DSC Expressway	Udu	Delta	5.495	5.796	1	
 DSA Road	Municipal Area Council	FCT Abuja	8.990	7.384	1	
-DSA Road	Municipal Area Council	FCT Abuja	8.986	7.388	1	
+DSPG, Campus C	Aniocha South	Delta	6.204	6.553	0	
+DSPG, Campus B	Aniocha South	Delta	6.203	6.548	0	
 Diamond Springs School	Ado Odo/Ota	Ogun	6.680	3.211	0	DSS

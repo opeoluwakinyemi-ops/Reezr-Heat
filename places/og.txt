@@ -1,14 +1,42 @@
 Ogbomosho	Ogbomosho North	Oyo	8.133	4.250	3	
+Boju-Ega	Oturkpo	Benue	7.348	8.045	3	Ogobia
+Ogu	Ogu Bolo	Rivers	4.724	7.199	3	
+Ogulagha	Burutu	Delta	5.358	5.347	3	
+Kwale	Ndokwa West	Delta	5.697	6.426	3	Utagba-Ogbe
+Ugwolawo	Ofu	Kogi	7.234	6.921	3	Ogwoawo
+Ogbogbo	Igalamela-Odolu	Kogi	7.107	6.814	3	Agbobo
+Ogidi	Idemili North	Anambra	6.153	6.867	3	
+Ogbagba	Ola Oluwa	Osun	7.704	4.253	3	Awgbagba
+Ogbere	Ijebu East	Ogun	6.739	4.161	3	
+Ogwashi-Uku	Aniocha South	Delta	6.182	6.533	3	Ogwashi-Ukwu
+Ita-Ogbolu	Akure North	Ondo	7.368	5.247	3	
+Ogodu	Omala	Kogi	7.598	7.478	3	
+Ogume	Dekina	Kogi	7.473	7.249	3	
+Oguta	Oguta	Imo	5.710	6.809	3	
+Ogbia	Ogbia	Bayelsa	4.687	6.317	3	
+Ogoja	Ogoja	Cross River	6.657	8.802	3	
+Ogboja	Ogoja	Cross River	6.630	8.783	3	
+Ogale	Eleme	Rivers	4.787	7.126	3	
+Ogwashi-Uku	Aniocha South	Delta	6.178	6.525	3	Ogvashi-Uku|Ugwashi-Uku
+Oguma	Bassa	Kogi	7.896	7.062	3	Ogum
+Ogbomoso	Ogbomosho North	Oyo	8.134	4.240	3	Ogbomocho|Ogbomosho
+Ogbede	Igbo-Etiti	Enugu	6.673	7.374	3	
+Ogaminana	Adavi	Kogi	7.594	6.218	3	Ogaminan
+Ile-Ogbo	Aiyedire	Osun	7.621	4.245	3	Ile-Igbo
+Oghara	Ethiope West	Delta	5.936	5.666	3	Oghara Town|Ogharefe
+Ogbor Hill	Aba North	Abia	5.130	7.360	2	
+Ogolonto	Ìkòròdú	Lagos	6.620	3.473	2	
+Ogida	Egor	Edo	6.364	5.589	2	
+Ogunlana	Surulere	Lagos	6.500	3.350	2	
+Sabo Ogbomoso	Ogbomosho North	Oyo	8.130	4.250	2	
 Ogbokiri	Emuoha	Rivers	4.794	6.911	2	
 Ogonokom	Abua/Odual	Rivers	4.791	6.709	2	Ogonokom;Ogbnokom
 Ogologo-Olo	Ezeagu	Enugu	6.410	7.150	2	Ogologo-Olo;Ugbene Olo
 Baala	Odeda	Ogun	7.150	3.533	2	Ogunda
-Boju-Ega	Oturkpo	Benue	7.348	8.045	3	Ogobia
 Ogoba	Warri South-West	Delta	5.496	5.304	2	
 Oguname-Olomu	Ughelli South	Delta	5.459	5.920	2	Olomu Oguname
 Ogani	Eleme	Rivers	4.780	7.152	2	
 Ogwashi Olor	Aniocha South	Delta	6.125	6.523	2	Ogwashi-Olo
-Ogu	Ogu Bolo	Rivers	4.724	7.199	3	
 Ogunbayo	Ifelodun	Kwara	8.517	5.033	2	Ogunbaiyo
 Ogboin	Ovia South-West	Edo	6.368	5.433	2	
 Obolimi	Igalamela-Odolu	Kogi	7.083	7.200	2	Ogbolimi
@@ -21,7 +49,6 @@ Ogudu	Edu	Kwara	8.997	5.237	2
 Ogunbade	Egbeda	Oyo	7.401	4.016	2	
 Machian Ogu	Rafi	Niger	10.029	6.185	2	Ugu
 Ogharefe Junction	Ethiope West	Delta	5.943	5.688	2	
-Ogulagha	Burutu	Delta	5.358	5.347	3	
 Ogbeinbene	Burutu	Delta	5.341	5.823	2	
 Ogunu	Warri South	Delta	5.535	5.711	2	
 Gulani	Burutu	Delta	5.364	5.324	2	Gula;Ogulagha II;Ogula
@@ -44,15 +71,11 @@ Akri Ogidi	Ogbaru	Anambra	5.755	6.657	2	Akri Ugidi
 Ile Ogbo	Aiyedire	Osun	7.617	4.250	2	
 Obe-Adun	Ilaje	Ondo	6.021	4.868	2	Obe Adu;Obe;Ogbe Adun
 Ogba	Ifako/Ijaye	Lagos	6.633	3.341	2	
-Kwale	Ndokwa West	Delta	5.697	6.426	3	Utagba-Ogbe
 Ogula	Burutu	Delta	5.357	5.353	2	
 Ogbeinyama	Bomadi	Delta	5.225	5.838	2	
 Ogbogoro	Obio/Akpor	Rivers	4.847	6.929	2	Kalabukuru
 Ogam	Agatu	Benue	7.896	7.829	2	Ogum
-Ugwolawo	Ofu	Kogi	7.234	6.921	3	Ogwoawo
-Ogbogbo	Igalamela-Odolu	Kogi	7.107	6.814	3	Agbobo
 Ogbido	Etsako West	Edo	7.146	6.332	2	
-Ogidi	Idemili North	Anambra	6.153	6.867	3	
 Oga Ozella	Oshimili North	Delta	6.452	6.672	2	Ugu Ozala;Ugu-Ozalla
 Ogbagba	Ife South	Osun	7.335	4.616	2	
 Ugaga	Yala	Cross River	6.666	8.730	2	Ogaga
@@ -136,10 +159,8 @@ Ogangi	Ife North	Osun	7.517	4.467	2	Awgangi
 Oviri Ogor	Ughelli North	Delta	5.453	6.003	2	
 Ogbaku	Mbaitoli	Imo	5.560	6.969	2	Obaku
 Ilado Ogunu	Ìkòròdú	Lagos	6.567	3.533	2	Ilade
-Ogbagba	Ola Oluwa	Osun	7.704	4.253	3	Awgbagba
 Ogbondoroko	Asa	Kwara	8.400	4.600	2	Ologbondoroko
 Oguaniocho	Ogbaru	Anambra	5.796	6.753	2	
-Ogbere	Ijebu East	Ogun	6.739	4.161	3	
 Ile Ogo	Ogo Oluwa	Oyo	8.000	4.300	2	Ile-Awgaw
 Oghareki	Sapele	Delta	5.950	5.640	2	
 Ogoni	Ughelli South	Delta	5.450	5.943	2	Iwhrogoni
@@ -147,11 +168,9 @@ Oguname-Agbarho	Ughelli North	Delta	5.583	5.919	2	Oguname
 Ogogoro	Ibeju Lekki	Lagos	6.498	3.935	2	Awgawgawraw
 Eremo Ogbogoro	Port-Harcourt	Rivers	4.790	6.971	2	
 Ogbodu-Aba	Udenu	Enugu	6.842	7.615	2	Obodo Aba
-Oguma	Bassa	Kogi	7.898	7.052	2	Ogum
 Ogale	Ijumu	Kogi	7.664	6.106	2	Ogali
 Oguro	Lagelu	Oyo	7.583	4.133	2	Ogunro
 Ugun	Iguegben	Edo	6.474	6.175	2	Ogun
-Ogwashi-Uku	Aniocha South	Delta	6.182	6.533	3	Ogwashi-Ukwu
 Ogoloma	Okrika	Rivers	4.739	7.083	2	
 Ugwuaku	Okigwe	Imo	5.717	7.367	2	Ogwuaku
 Ogbu	Afikpo North	Ebonyi	5.817	7.908	2	
@@ -173,7 +192,6 @@ Oguga	Akoko-Edo	Edo	7.383	6.113	2	Ogugu
 Ugene	Ohimini	Benue	7.306	7.943	2	Ogenni;Ugenni
 Ogbaulu	Agatu	Benue	7.816	7.947	2	
 Ogbotobo	Ekeremor	Bayelsa	4.989	5.517	2	
-Ita-Ogbolu	Akure North	Ondo	7.368	5.247	3	
 Ogbunike	Oyi	Anambra	6.187	6.854	2	
 Oke Ogun	Obafemi Owode	Ogun	6.983	3.367	2	Oke-Ogon
 Ogada	Obubra	Cross River	6.060	8.295	2	
@@ -188,11 +206,6 @@ Ugbobo	Igalamela-Odolu	Kogi	7.083	7.333	2	Ogbobo
 Idiomo	Odeda	Ogun	7.217	3.600	2	Ogun
 Oginibo I	Ughelli South	Delta	5.382	5.835	2	Oginibo
 Ogba Ofu Quarters	Ukwuani	Delta	5.850	6.150	2	
-Ogida Barrack's Market	Egor	Edo	6.364	5.589	0	
-Ogbe Primary School	Oredo	Edo	6.330	5.616	0	
-Ore-Oghene Primary School	Oredo	Edo	6.346	5.614	0	
-Ogbete River Primary School	Enugu North	Enugu	6.431	7.479	0	
-Ogba Bus Park	Ikeja	Lagos	6.633	3.342	0	
 Ogbomaha	Omala	Kogi	7.807	7.452	2	
 Ogbonaha	Omala	Kogi	7.807	7.452	2	
 Ogbonoha	Omala	Kogi	7.807	7.452	2	
@@ -201,54 +214,10 @@ Ogbagbo	Dekina	Kogi	7.535	7.337	2
 Ogbogbo	Dekina	Kogi	7.535	7.337	2	
 Ogbogido	Dekina	Kogi	7.535	7.337	2	
 Ogbogodo	Dekina	Kogi	7.535	7.337	2	
-Ogodu	Omala	Kogi	7.598	7.478	3	
-Ogume	Dekina	Kogi	7.473	7.249	3	
 Ola Ogba	Dekina	Kogi	7.619	7.229	2	
-Oguta	Oguta	Imo	5.708	6.798	0	
-Nkwo Ogwu	Aboh-Mbaise	Imo	5.501	7.238	0	
-Ogida Market	Egor	Edo	6.359	5.601	0	
-EPP Ogélété	Yewa North	Ogun	7.332	2.740	0	
-OGISO PRY SCH	Oredo	Edo	6.293	5.565	0	
-Ogale Nig. Filling Station	Udu	Delta	5.496	5.796	0	
-Oginigba Comprehensive Secondary School	Obio/Akpor	Rivers	4.829	7.040	0	
-Ogolonto	Ìkòròdú	Lagos	6.620	3.475	0	
 Oguta II	Oguta	Imo	5.694	6.808	2	
-Oguta	Oguta	Imo	5.710	6.809	3	
-Ogijo Bus Stop	Shagamu	Ogun	6.706	3.510	0	
-Delta State Polytechnic, Ogwashi-Uku	Aniocha South	Delta	6.225	6.571	0	
-Ogbagi Akoko Market	Akoko North West	Ondo	7.574	5.707	0	
-Ayede Ogbese Market	Akure North	Ondo	7.259	5.374	0	
-Oguta South	Oguta	Imo	5.704	6.796	0	
-Majidun Ogolonto Bus Stop	Ìkòròdú	Lagos	6.620	3.473	0	
-ijon odo (ogun)	Ado Odo/Ota	Ogun	6.562	3.196	0	
-Anglican Model College Ogbomoso (AMCO)	Ogbomosho North	Oyo	8.142	4.242	0	
-Ogbomoso Girl's High School	Ogbomosho North	Oyo	8.161	4.245	0	
-Ogbomoso Town Hall	Ogbomosho North	Oyo	8.131	4.248	0	
-Federal Government College, Ogbomoso	Ogbomosho North	Oyo	8.155	4.229	0	
-Peace Park Ogrute Enugu Ezike	Igbo-Eze-North	Enugu	6.982	7.448	0	
-Ogbia	Ogbia	Bayelsa	4.687	6.317	3	
 Ogboloma	Yenegoa	Bayelsa	5.052	6.333	2	
 Ogbologbolo	Ahoada West	Rivers	5.012	6.558	2	
-United Anglican Primary School, Tigbo-Ogan	Ado Odo/Ota	Ogun	6.521	3.061	0	
-St. John'S Anglican Primary School Iii, Ogijo	Shagamu	Ogun	6.831	3.647	0	
-Imoro Ogijo Comm. Primary School Ogijo	Ìjẹ̀bú Òde	Ogun	6.807	3.909	0	
-St. John'S Anglican Primary School Ii, Ogijo	Shagamu	Ogun	6.686	3.580	0	
-Ansarudeen Primary School, Imushin-Ogijo	Ifo	Ogun	6.684	3.369	0	
-Community Primary School, Ogungbade	Ìjẹ̀bú Òde	Ogun	6.814	3.923	0	
-Community Primary School, Ojo-Ogundele	Ifo	Ogun	6.819	3.157	0	
-United Anglican Primary School, Tigbo-Ogan	Ifo	Ogun	6.800	3.184	0	
-Community Primary School, Ogungbade	Ifo	Ogun	6.768	3.225	0	
-Wesley Primary School, Erufu-Ogijo	Shagamu	Ogun	6.748	3.495	0	
-Imoro Ogijo Comm. Primary School Ogijo	Shagamu	Ogun	6.723	3.499	0	
-St. John'S Anglican Primary School Iii, Ogijo	Shagamu	Ogun	6.705	3.511	0	
-St. John'S Anglican Primary School I, Ogijo	Shagamu	Ogun	6.705	3.511	0	
-St. John'S Anglican Primary School Ii, Ogijo	Shagamu	Ogun	6.704	3.511	0	
-Ansarudeen Primary School, Imushin-Ogijo	Shagamu	Ogun	6.686	3.504	0	
-Community Primary School, Ojo-Ogundele	Ifo	Ogun	6.663	3.360	0	
-Atoyo Ogbugba Com. Primary School, Atoyo	Shagamu	Ogun	6.848	3.652	0	
-Ogui Junction Bus-Stop	Enugu North	Enugu	6.462	7.511	0	
-Ogbete	Enugu North	Enugu	6.431	7.477	0	
-Ogbete main Market	Enugu North	Enugu	6.435	7.482	0	
 Ogbokiri	Sagbama	Bayelsa	5.285	6.410	2	
 Ogbiriasa Camp	Sagbama	Bayelsa	5.293	6.322	2	
 Ogoda	Ahoada West	Rivers	5.117	6.575	2	
@@ -258,25 +227,12 @@ Ogu	Ogba/Egbema/Ndoni	Rivers	5.700	6.632	2
 Ogbeose	Ogba/Egbema/Ndoni	Rivers	5.680	6.613	2	
 Ogwu Ikpele	Ogbaru	Anambra	5.728	6.642	2	
 Oghara	Ughelli North	Delta	5.590	6.100	2	
-izigi (ogun)	Ipokia	Ogun	6.472	2.862	0	
 Oghrere	Isoko North	Delta	5.576	6.114	2	
 Ogojochu	Etsako Central	Edo	6.858	6.614	2	
 Okpatawo Ogane-Ifeku	Etsako Central	Edo	6.808	6.601	2	
 Ogungbeje	Warri North	Delta	5.851	5.011	2	
-Ogiame Primary School Warri	Warri South	Delta	5.523	5.731	0	
-Ogbe-ijaw Market Warri	Warri South	Delta	5.512	5.746	0	
 Ogun-Aja	Sapele	Delta	5.901	5.668	2	
 Ogedegbe	Warri South	Delta	5.513	5.760	2	
-Ogoja	Ogoja	Cross River	6.657	8.802	3	
-Ogboja	Ogoja	Cross River	6.630	8.783	3	
-Ogale	Eleme	Rivers	4.787	7.126	3	
-Ogulagha Secondary school	Burutu	Delta	5.351	5.344	0	
-Ekpebiwei Primary School Ogulagha	Burutu	Delta	5.361	5.346	0	
-Pa Clement Ogunsusi	Ojo	Lagos	6.493	3.200	0	
-Ogundimu Primary Health Care Centre	Alimosho	Lagos	6.624	3.292	0	
-Ogbomoshotedo Community Health Cetre	Alimosho	Lagos	6.575	3.258	0	
-Ogunmoded Memorial Hospital And Maternity Home	Alimosho	Lagos	6.549	3.263	0	
-Ogungbaiye Primary Health Centre	Mushin	Lagos	6.525	3.353	0	
 Ogboitagbene	Southern Ijaw	Bayelsa	4.578	5.815	2	
 Ogodobiri	Bomadi	Delta	5.300	5.805	2	
 ogbon asolo	Ise/Orun	Ekiti	7.465	5.428	2	
@@ -284,12 +240,646 @@ Ogbudugbene	Warri South-West	Delta	5.587	5.241	2
 Ogidigben	Warri South-West	Delta	5.558	5.175	2	
 Ogheye	Warri North	Delta	5.780	5.071	2	
 Colony 2 Estate, Oke Ogun, Nigeria	Ilorin East	Kwara	8.473	4.630	2	
-Chapel Secondary School, Chapel Road, Oke Ogun, Nigeria	Ilorin East	Kwara	8.478	4.623	0	
+Ogbete	Enugu North	Enugu	6.430	7.480	2	
 Ogui	Enugu North	Enugu	6.448	7.502	2	
-oto owu odo (ogun)	Ado Odo/Ota	Ogun	6.552	3.198	0	
-itekun (ogun)	Ado Odo/Ota	Ogun	6.514	3.171	0	
-ogogoro village	Amuwo Odofin	Lagos	6.426	3.398	0	
-iwopin (ogun)	Ogun Waterside	Ogun	6.518	4.192	0	
+Ogun-Aja	Sapele	Delta	5.891	5.666	2	
+Ogedegbe Community	Warri South	Delta	5.512	5.767	2	
+Ogoja	Ogoja	Cross River	6.528	8.688	2	
+Ogbadibo	Ogbadibo	Benue	7.009	7.646	2	
+Ogbaru	Ogbaru	Anambra	5.921	6.761	2	
+Oguta	Oguta	Imo	5.659	6.778	2	
+Ogori/Magongo	Ogori/Magongo	Kogi	7.479	6.156	2	
+Ogbomosho South	Ogbomosho South	Oyo	8.075	4.237	2	
+Ogo Oluwa	Ogo Oluwa	Oyo	7.961	4.181	2	
+Ogbomosho North	Ogbomosho North	Oyo	8.157	4.263	2	
+Ogbia	Ogbia	Bayelsa	4.796	6.314	2	
+Ogba/Egbema/Ndoni	Ogba/Egbema/Ndoni	Rivers	5.451	6.641	2	
+Ogu Bolo	Ogu Bolo	Rivers	4.674	7.202	2	
+Ogun Waterside	Ogun Waterside	Ogun	6.461	4.390	2	
+Utue-Ogume	Ndokwa West	Delta	5.713	6.295	2	
+Umu Ojima Ogbu	Osisioma Ngwa	Abia	5.135	7.307	2	
+Umu Ogu	Aboh-Mbaise	Imo	5.367	7.283	2	
+Umuchime Ogume	Ndokwa West	Delta	5.765	6.352	2	
+Ugwuaku	Okigwe	Imo	5.719	7.360	2	Ogwuaku
+Ogu-Ozella	Oshimili North	Delta	6.455	6.671	2	Ugu Ozala|Ugu-Ozalla
+Ugboho	Nkanu East	Enugu	6.539	7.681	2	Ogbaho
+Ugbobo	Olamaboro	Kogi	7.087	7.362	2	Ogbobo
+Ugbenu-Olo	Ezeagu	Enugu	6.410	7.147	2	Ogologo-Olo|Ugbene Olo
+Ugaga	Yala	Cross River	6.683	8.732	2	Ogaga
+Uga	Lafia	Nasarawa	8.692	8.805	2	Oga
+Tigbo	Ado Odo/Ota	Ogun	6.741	3.182	2	Tigbo Ogan
+Sagbe-Ogede	Ifelodun	Kwara	8.697	5.143	2	Sagbe Ogede
+Owo Ogono	Ogu Bolo	Rivers	4.657	7.154	2	
+Oviri-Ogor	Ughelli North	Delta	5.453	6.004	2	
+Opo-Ogede	Ibarapa East	Oyo	7.710	3.557	2	Opo Ogede|OpoOgede
+Opo-Ogede	Ibarapa East	Oyo	7.670	3.553	2	Opo Ogede|OpoOgede
+Okovia-Ogwo	Ivo	Ebonyi	5.893	7.608	2	
+Oke-Ogun	Ilorin East	Kwara	8.461	4.610	2	Oke Ogun
+Oke-Ogun	Ona Ara	Oyo	7.332	4.064	2	Oke Ogun
+Oke-Oge	Kajola	Oyo	7.875	3.374	2	Oke Oge|OkeOge
+Oke-Oge	Kajola	Oyo	7.871	3.378	2	Oke Oge|OkeOge
+Oke-Ogbe	Ijebu North	Ogun	6.966	3.824	2	
+Oke Ogbe	Amuwo Odofin	Lagos	6.407	3.381	2	Abagbo|Abekkun|Oko Agbo
+Ojirami Ogbo	Akoko-Edo	Edo	7.338	6.196	2	
+Ogwafia	Ezeagu	Enugu	6.384	7.365	2	Ogwuosie
+Ugwuma	Edda	Ebonyi	5.752	7.859	2	Ogwuma
+Ogwu	Ini	Akwa Ibom	5.441	7.721	2	
+Ogwogbo	Igalamela-Odolu	Kogi	6.885	7.129	2	Ugwuogbo
+Ogwo	Ibaji	Kogi	6.743	6.638	2	
+Ogwe	Ukwa West	Abia	5.013	7.258	2	
+Ogwati	Ukwa West	Abia	5.033	7.272	2	
+Ogwashi-Uku-Junction	Aniocha South	Delta	6.248	6.608	2	
+Ogwashi-Olor	Aniocha South	Delta	6.126	6.525	2	Ogwashi-Olo
+Ogwaje Abaji	Toto	Nasarawa	8.360	6.960	2	
+Ogwa	Esan West	Edo	6.506	6.211	2	
+Oguzuruonweya	Abakaliki	Ebonyi	6.323	8.316	2	
+Ogute	Etsako East	Edo	7.268	6.275	2	
+Ogusu	Toto	Nasarawa	8.023	7.151	2	
+Ogurude	Obubra	Cross River	6.142	8.389	2	
+Oguro	Ogo Oluwa	Oyo	8.010	4.158	2	
+Oguro	Ogo Oluwa	Oyo	7.933	4.233	2	
+Ogura	Konshisha	Benue	7.056	8.516	2	
+Ogunwo Olu	Afijio	Oyo	7.665	3.995	2	
+Ogunwole	Iwajowa	Oyo	7.891	3.230	2	
+Ogunwobe	Afijio	Oyo	7.731	3.745	2	
+Ogunwenyi	Egor	Edo	6.315	5.536	2	
+Ogunwehinde	Ido	Oyo	7.456	3.757	2	
+Ogunu	Warri South	Delta	5.532	5.712	2	
+Oguntoye	Ìkòròdú	Lagos	6.633	3.600	2	Agunfoye
+Ogunti	Remo North	Ogun	7.044	3.740	2	
+Oguntedo	Oyun	Kwara	8.111	4.521	2	
+Oguntedo	Aiyedade	Osun	7.180	4.267	2	
+Oguntedo	Ibeju Lekki	Lagos	6.483	3.717	2	
+Ogunte	Olorunsogo	Oyo	8.774	4.067	2	
+Ogunte	Atiba	Oyo	8.106	4.000	2	
+Ogunte	Imeko Afon	Ogun	7.515	3.046	2	
+Ogunta	Oji-River	Enugu	6.079	7.388	2	
+Ogunsolu	Obafemi Owode	Ogun	7.080	3.292	2	
+Ogunsola	Odeda	Ogun	7.273	3.642	2	
+Ogunsipe	Ife North	Osun	7.272	4.484	2	
+Ogunsekan	Moro	Kwara	8.783	4.462	2	
+Ogunrinde	Akinyele	Oyo	7.646	4.022	2	
+Ogunranti	Akinyele	Oyo	7.582	4.017	2	Ogunrata
+Ogun-Oke	Ibarapa Central	Oyo	7.373	3.236	2	Ogun Oke
+Ogunniyi	Olorunsogo	Oyo	8.667	4.020	2	
+Ogunmola-Oke	Ewekoro	Ogun	6.878	3.271	2	
+Ogunmakin	Obafemi Owode	Ogun	7.148	3.786	2	
+Ogunlumo	Ori Ire	Oyo	8.239	4.255	2	
+Ogunlore	Asa	Kwara	8.354	4.456	2	
+Ogunlola	Odeda	Ogun	7.371	3.518	2	
+Ogunloko	Moro	Kwara	8.879	4.386	2	
+Ogunleye	Orolu	Osun	7.893	4.486	2	
+Ogunleye	Ido	Oyo	7.539	3.713	2	
+Ogunlere	Atisbo	Oyo	8.316	3.438	2	
+Ogunleke	Ado Odo/Ota	Ogun	6.641	3.048	2	
+Ogunjobi	Irewole	Osun	7.361	4.287	2	
+Ogunjimi	Keana	Nasarawa	8.182	8.621	2	
+Ogungbe Market	Ìsẹ́yìn	Oyo	7.791	3.649	2	
+Ogungbe	Moro	Kwara	8.583	4.496	2	
+Ogungbe	Ìsẹ́yìn	Oyo	7.781	3.643	2	
+Ogungbe	Badagry	Lagos	6.404	2.831	2	
+Ogungbayi	Ibarapa Central	Oyo	7.432	3.141	2	Ogungbai
+Ogundiya	Ibarapa North	Oyo	7.561	3.296	2	
+Ogundipe	Itesiwaju	Oyo	8.280	3.703	2	
+Ogundipe	Iwajowa	Oyo	7.882	3.310	2	
+Ogundipe	Ìsẹ́yìn	Oyo	7.737	3.511	2	
+Ogundipe	Egbeda	Oyo	7.409	4.023	2	
+Ogundipe	Odeda	Ogun	7.294	3.648	2	
+Ogundijo	Ife North	Osun	7.388	4.400	2	
+Ogundele	Asa	Kwara	8.518	4.329	2	
+Ogundele	Asa	Kwara	8.489	4.450	2	
+Ogundeji	Asa	Kwara	8.534	4.464	2	
+Ogundeji	Afijio	Oyo	7.791	3.770	2	
+Ogundeji	Akinyele	Oyo	7.559	3.946	2	
+Ogunde	Ibarapa East	Oyo	7.490	3.518	2	
+Ogunbunmi	Ona Ara	Oyo	7.300	4.112	2	
+Ogunbode-Igbo-Elerin	Lagelu	Oyo	7.535	4.065	2	Ogunbode Igbo Elerin|OgunbodeIgboElerin
+Ogunbo	Asa	Kwara	8.567	4.283	2	
+Ogunbayo	Ifelodun	Kwara	8.509	5.023	2	Ogunbaiyo
+Ogun	Ori Ire	Oyo	8.535	4.250	2	
+Ogun	Ilaje	Ondo	6.179	4.696	2	
+Ogume	Ndokwa West	Delta	5.752	6.326	2	
+Gulani	Burutu	Delta	5.362	5.326	2	Gula|Ogula|Ogulagha II
+Ogugu	Olamaboro	Kogi	7.149	7.482	2	Oguga
+Ogugu	Awgu	Enugu	6.172	7.483	2	
+Oguaobono	Ankpa	Kogi	7.594	7.707	2	Ogudbono|Ogudobono
+Ogua	Ovia North-East	Edo	6.525	5.540	2	
+Ogua	Ikpoba-Okha	Edo	6.255	5.685	2	
+Ogu	Yenegoa	Bayelsa	4.901	6.267	2	
+Ogu	Ogu Bolo	Rivers	4.731	7.196	2	Oyu
+Ogo Ubi	Ohaozara	Ebonyi	5.992	7.794	2	
+Ogo Ubi	Onicha	Ebonyi	5.989	7.931	2	
+Ogo Ubi	Ivo	Ebonyi	5.920	7.625	2	
+Ogo Ubi	Isuikwuato	Abia	5.871	7.528	2	
+Ogo Ubi	Ivo	Ebonyi	5.839	7.665	2	
+Ogo-Ubi	Edda	Ebonyi	5.823	7.727	2	
+Ogo-Ubi	Ohafia	Abia	5.731	7.783	2	
+Ogo Ubi	Arochukwu	Abia	5.644	7.737	2	
+Ogo-Ubi	Biase	Cross River	5.628	7.966	2	
+Ogo-Ubi	Biase	Cross River	5.526	7.952	2	
+Ogori	Ohimini	Benue	7.329	7.838	2	
+Ogo-Omerenama	Arochukwu	Abia	5.541	7.703	2	
+Ogonosi	Etsako Central	Edo	6.973	6.506	2	
+Eghonokom	Abua/Odual	Rivers	4.791	6.710	2	Ogbnokom|Ogonokom
+Ogonmeri	Etsako Central	Edo	6.960	6.509	2	
+Ogo-Ndago	Isi-Uzo	Enugu	6.841	7.691	2	
+Ogojo	Surulere	Oyo	8.120	4.358	2	
+Ogoho	Yala	Cross River	6.778	8.739	2	
+Ogogoro	Amuwo Odofin	Lagos	6.430	3.395	2	
+Ogogoro	Ilaje	Ondo	6.295	4.598	2	
+Ogogba	Igalamela-Odolu	Kogi	7.251	6.779	2	Agagba
+Ogodumofan	Biase	Cross River	5.486	8.023	2	
+Ogodu	Ibarapa East	Oyo	7.692	3.483	2	
+Ogodobri	Bomadi	Delta	5.300	5.805	2	
+Ogodo	Asa	Kwara	8.171	4.521	2	
+Ogodo	Ankpa	Kogi	7.394	7.598	2	
+Ogodo	Olamaboro	Kogi	7.200	7.524	2	
+Ogodo	Yewa North	Ogun	7.184	2.977	2	
+Ogoda	Ughelli South	Delta	5.259	5.914	2	
+Ogo	Surulere	Oyo	8.254	4.328	2	
+Ogo	Afijio	Oyo	7.678	3.843	2	
+Ogiza	Oredo	Edo	6.179	5.547	2	
+Ogirifulaba	Ovia South-West	Edo	6.288	5.096	2	
+Ogiri	Moro	Kwara	8.731	4.212	2	
+Ogigo	Shagamu	Ogun	6.696	3.512	2	Ogijo
+Ogidigba	Obio/Akpor	Rivers	4.824	7.043	2	Ogigba
+Ogidivibi	Isoko South	Delta	5.264	6.176	2	Ogidivbi
+Ogidigba	Ese Odo	Ondo	6.171	4.900	2	
+Ogidi	Ilorin West	Kwara	8.519	4.495	2	
+Ogidi	Ori Ire	Oyo	8.340	4.309	2	
+Ogidi	Lagelu	Oyo	7.528	4.069	2	
+Ogidi	Ona Ara	Oyo	7.333	4.050	2	
+Ogida	Etche	Rivers	5.187	7.001	2	
+Ohrerhe	Ughelli North	Delta	5.566	5.855	2	Oghrerhe
+Oghoghugbo	Egor	Edo	6.350	5.567	2	
+Oghogho	Ovia South-West	Edo	6.317	5.466	2	
+Oghior	Udu	Delta	5.426	5.850	2	
+Oghene	Warri North	Delta	5.779	5.071	2	Ogheye
+Ogheghe	Ovia North-East	Edo	6.411	5.552	2	
+Ogga	Yagba East	Kogi	8.175	5.655	2	Oga
+Ogevalav	Kwande	Benue	6.636	9.382	2	
+Ogere	Ikenne	Ogun	6.935	3.635	2	
+Ogele	Asa	Kwara	8.389	4.475	2	
+Ogeh	Okigwe	Imo	5.793	7.352	2	
+Ogegere	Sapele	Delta	5.826	5.768	2	
+Ogedengbe	Ijebu North	Ogun	7.094	4.166	2	
+Ogede	Obafemi Owode	Ogun	7.006	3.522	2	Igbore
+Ogburo	Lagelu	Oyo	7.599	4.123	2	
+Ogbunka	Orumba South	Anambra	6.013	7.285	2	
+Ogbunike	Idemili North	Anambra	6.165	6.890	2	Ogbirnike
+Ogbugbu	Atisbo	Oyo	8.324	3.344	2	
+Ogbuebule	Ikwuano	Abia	5.391	7.571	2	
+Ogbu	Orumba North	Anambra	6.108	7.085	2	
+Ogboyoga	Omala	Kogi	7.667	7.667	2	
+Ogbo-Uvuru	Uzo-Uwani	Enugu	6.696	7.181	2	
+Ogbor Ugiri	Isiala Mbano	Imo	5.633	7.198	2	
+Ogboro	Obio/Akpor	Rivers	4.879	6.983	2	Ogbodo
+Ogbonicha	Olamaboro	Kogi	7.155	7.308	2	Ogonitsoa
+Ogbonere	Ori Ire	Oyo	8.243	4.131	2	
+Ogbomabiri	Warri North	Delta	5.957	5.247	2	Ogbombiri
+Ogbom	Yagba East	Kogi	8.158	5.676	2	
+Ogboli	Igbo-Eze-North	Enugu	7.000	7.423	2	
+Ogbole-Ogume	Ndokwa West	Delta	5.746	6.337	2	
+Ogboji	Orumba North	Anambra	6.017	7.148	2	
+Ogboja	Odeda	Ogun	7.201	3.446	2	
+Ogboinbiri	Southern Ijaw	Bayelsa	4.827	5.966	2	Ogbeinbiri
+Ogbohi	Yala	Cross River	6.846	8.630	2	
+Ogbogwu	Ogba/Egbema/Ndoni	Rivers	5.249	6.656	2	
+Agbobo	Igalamela-Odolu	Kogi	7.107	6.814	2	Ogbobo|Ogbogbo
+Ogbogbo	Ìjẹ̀bú Òde	Ogun	6.849	3.960	2	
+Ogbodobri	Ughelli South	Delta	5.332	5.848	2	
+Ogbodobiri	Ese Odo	Ondo	6.050	5.017	2	
+Ogbo	Odogbolu	Ogun	6.775	3.924	2	
+Ogbirigbiri	Ijebu North	Ogun	7.009	4.012	2	
+Ogbida	Etsako West	Edo	7.141	6.315	2	Ogbido
+Ogbe-Udu	Udu	Delta	5.428	5.830	2	
+Ogbetiti	Ndokwa East	Delta	5.924	6.486	2	
+Ogberuwen	Ose	Ondo	6.832	5.650	2	
+Ochogbe	Ogoja	Cross River	6.600	8.979	2	Ogberia
+Ogbere	Oluyole	Oyo	7.308	3.928	2	
+Ogbere	Ewekoro	Ogun	6.983	3.267	2	
+Ogbe-Orogho	Ikpoba-Okha	Edo	6.134	5.660	2	
+Ogboma	Abua/Odual	Rivers	4.849	6.641	2	Ogbema
+Ogbelulu	Orlu	Imo	5.825	7.024	2	
+Ogele	Ogo Oluwa	Oyo	7.984	4.308	2	
+Ogbe-Ijoh	Warri South-West	Delta	5.483	5.735	2	
+Ogbegunmo	Ife North	Osun	7.396	4.479	2	
+Ogbe Eruku	Obafemi Owode	Ogun	6.996	3.493	2	
+Ogbedi	Ahoada West	Rivers	5.033	6.483	2	
+Ogbede	Ovia North-East	Edo	6.782	5.456	2	
+Ogbe	Yagba West	Kogi	8.086	5.612	2	
+Ogbe	Akoko-Edo	Edo	7.344	6.144	2	
+Ogbe	Olamaboro	Kogi	7.266	7.544	2	Ogpe|Okpe
+Ogbe	Ndokwa West	Delta	5.700	6.431	2	
+Ogba-Ofu Quarters	Ukwuani	Delta	5.855	6.155	2	
+Ogbaniko	Yala	Cross River	6.729	8.759	2	
+Ogbaku-Ndiagu	Awgu	Enugu	6.206	7.508	2	
+Ogbekuma	Ogbaru	Anambra	5.954	6.731	2	Ogbakuma
+Ogbaku	Aninri	Enugu	6.177	7.529	2	
+Ogbakiri	Emuoha	Rivers	4.848	6.889	2	
+Ogbaja	Yala	Cross River	6.619	8.424	2	
+Ogbagwu	Igalamela-Odolu	Kogi	7.006	7.244	2	
+Ogbagu Ogume	Ndokwa West	Delta	5.769	6.335	2	
+Ogbagi	Akoko North West	Ondo	7.573	5.708	2	
+Ogbagba	Ife East	Osun	7.337	4.612	2	Moro
+Ogbaga	Aiyedade	Osun	7.418	4.373	2	
+Ogbabu	Doma	Nasarawa	8.211	8.299	2	
+Ogba	Bassa	Kogi	7.914	7.041	2	
+Ogba	Ola Oluwa	Osun	7.745	4.262	2	
+Ogba	Orhionmwon	Edo	6.064	6.119	2	
+Oghara	Isoko North	Delta	5.484	6.079	2	Ogara
+Ogangi	Ife North	Osun	7.512	4.462	2	Awgangi
+Ogangang	Yala	Cross River	6.703	8.525	2	
+Oganga	Yala	Cross River	6.724	8.423	2	
+Ogan	Orhionmwon	Edo	6.281	6.068	2	
+Ogam	Oturkpo	Benue	7.353	8.036	2	
+Ogala	Surulere	Oyo	8.035	4.392	2	
+Ogaine	Ibaji	Kogi	6.899	6.676	2	
+Ogaga	Uhunmwonde	Edo	6.405	5.893	2	
+Ogadje	Isoko South	Delta	5.308	6.182	2	
+Ogunremi	Akinyele	Oyo	7.595	4.056	2	
+Odo-Ogun	Orelope	Oyo	8.932	3.738	2	Odo Ogun
+Odo-Ogun	Oyo West	Oyo	7.904	3.723	2	Odo Ogun|OdoOgun
+Odo-Ogun	Ìsẹ́yìn	Oyo	7.903	3.507	2	Odo Ogun|OdoOgun
+Ogidiama	Ogbia	Bayelsa	4.720	6.361	2	
+Obolimi	Igalamela-Odolu	Kogi	7.086	7.264	2	Ogbolimi
+Ogbogoro	Southern Ijaw	Bayelsa	4.374	5.959	2	Obogoro
+Ogbidi	Ogba/Egbema/Ndoni	Rivers	5.294	6.652	2	Obido
+Ogbele	Ahoada East	Rivers	4.920	6.675	2	Obele-Ibaa|Obelle
+Ogbeinyama	Bomadi	Delta	5.222	5.835	2	Obeinyama|Obgeinyama
+Nwafo-Ogu	Abakaliki	Ebonyi	6.204	8.149	2	Nwafo Oge
+Ndi Ogodo	Ebonyi	Ebonyi	6.593	8.152	2	
+Ndi-Ogalagu	Izzi	Ebonyi	6.484	8.175	2	
+Ndiaima Ogu	Ohafia	Abia	5.581	7.802	2	
+Masifa-Ogundele	Yewa North	Ogun	7.407	2.931	2	Masifa
+Lawani Oguntayo	Apapa	Lagos	6.467	3.367	2	Oguntayo
+Iwollo-Oghe	Ezeagu	Enugu	6.442	7.284	2	Iwollo-Oye|Iwolo-Oye
+Isa-Ogwashi	Aniocha South	Delta	6.216	6.498	2	
+Iro-Ogbadun	Ori Ire	Oyo	8.462	4.146	2	Iro Ogbadun
+Ipata-Ogun	Ori Ire	Oyo	8.514	4.277	2	Ipata Ogun
+Ile-Ogo	Ola Oluwa	Osun	7.777	4.202	2	Ile Ogo|Ile-Awgaw
+Ile-Ogi	Aiyedade	Osun	7.577	4.413	2	Ile Ogi|Oji
+Ikenga-Ogidi	Idemili North	Anambra	6.148	6.869	2	Ikenga
+Ija-Ogun	Oyo West	Oyo	7.851	3.802	2	Ija Ogun|IjaOgun
+Ihitte Ogwa	Mbaitoli	Imo	5.617	7.098	2	
+Igi-Ogun	Atiba	Oyo	8.085	3.961	2	Igi Ogun
+Igbobi-Ogele	Asa	Kwara	8.367	4.475	2	Igbobi Ogele
+Igbini-Ogele	Irele	Ondo	6.482	4.963	2	Ibini Ogele|Igbini Ogele
+Igbe-Ogume	Ndokwa West	Delta	5.743	6.324	2	
+Ifite-Ogwari	Ayamelum	Anambra	6.604	6.951	2	Ifute
+Idi-Ogunsanni	Ife South	Osun	7.194	4.578	2	Idi Ogunsanni
+Idi-Ogun	Ife South	Osun	7.190	4.481	2	Idi Ogun
+Idem Ogwa	Mbaitoli	Imo	5.633	7.067	2	
+Gidan Ogu	Rafi	Niger	10.183	6.350	2	
+Gidan Oga	Doma	Nasarawa	7.934	8.265	2	
+Ewu-Ogun	Shagamu	Ogun	6.832	3.501	2	
+Ebute-Oguntade	Yewa South	Ogun	6.780	2.887	2	Erimi Oguntade
+Erifun Ogunsola	Obafemi Owode	Ogun	6.933	3.467	2	
+Ekwerazu-Ogwa	Mbaitoli	Imo	5.613	7.090	2	
+Egborode	Okpe	Delta	5.647	5.745	2	Ogborode
+Egbamo	Abua/Odual	Rivers	4.813	6.602	2	Egbama|Egbema|Ogbema
+Budo-Ogbo	Ori Ire	Oyo	8.631	4.211	2	Budo Ogbo
+Budo-Ogbo	Ori Ire	Oyo	8.582	4.205	2	Budo Ogbo
+Ban Ogol	Tai	Rivers	4.802	7.226	2	Ban Ogoi|Ban Ogoyi
+Balogun Ogundijo	Ibarapa East	Oyo	7.622	3.419	2	Balogun Ogundijio|BalogunOgundijio|BalogunOgundijo
+Baala	Odeda	Ogun	7.157	3.532	2	Ogunda
+Azagba-Ogwashi	Aniocha South	Delta	6.243	6.595	2	Asaba-Ogwashi
+Atoba	Remo North	Ogun	7.059	3.721	2	Ogunleye
+Ogbo-Obi	Aniocha South	Delta	6.180	6.414	2	Anioma
+Ama Ogugu	Umuahia North	Abia	5.583	7.450	2	
+Amaebu Ogwa	Mbaitoli	Imo	5.634	7.087	2	
+Alli-Oge	Obafemi Owode	Ogun	7.123	3.779	2	Alli Oge
+Akiti-Ogidi	Ogbaru	Anambra	5.754	6.657	2	Akri Ugidi|Akri-Ogidi
+Akama-Oghe	Ezeagu	Enugu	6.442	7.318	2	Akama-Oye
+Aiyetoro Iyawo-Ogun	Surulere	Oyo	8.255	4.350	2	Aiyetoro Iyawo Ogun
+Agbogugu	Awgu	Enugu	6.252	7.472	2	Abaw-Ogugu|Abo Ogugu
+Agba-Ogun	Aiyedade	Osun	7.155	4.305	2	Agba Ogun
+Abule-Ogunremi	Ibarapa East	Oyo	7.540	3.389	2	Abule Ogunremi|AbuleOgunremi
+Aboh-Ogwashi-Ukwu	Aniocha South	Delta	6.166	6.563	2	Abo-Ogwashi-Ukwu
+Aba-Ogo	Ona Ara	Oyo	7.180	4.049	2	Aba Ogo
+Ogoyo	Eti Osa	Lagos	6.433	3.486	2	
+Ogunlogun	Ìkòròdú	Lagos	6.681	3.468	2	
+Rumu-Ogwu	Ikwerre	Rivers	4.993	6.915	2	Umu-Ogwu
+Ogunleye	Afijio	Oyo	7.733	3.885	2	
+Ogunlofi	Afijio	Oyo	7.733	3.845	2	
+Ogogo	Afijio	Oyo	7.730	3.988	2	
+Ogbongon	Akinyele	Oyo	7.643	3.996	2	
+Ogodu	Ido	Oyo	7.605	3.794	2	
+Ogongo	Akinyele	Oyo	7.538	3.881	2	
+Oguntilewa	Akinyele	Oyo	7.570	3.898	2	
+Ogeye	Lagelu	Oyo	7.524	3.998	2	
+Ogundele	Egbeda	Oyo	7.376	3.992	2	
+Ogundepo	Oluyole	Oyo	7.327	3.947	2	
+Odo-Ogun	Oluyole	Oyo	7.302	3.837	2	Odo Ogun
+Udodo	Ahoada West	Rivers	4.976	6.499	2	Ogolokiama
+Okolo-Ogono	Degema	Rivers	4.376	6.947	2	
+Kola Ogbogolo	Ahoada West	Rivers	4.928	6.558	2	Kalogbogolo
+Opu Ogbogolo	Abua/Odual	Rivers	4.905	6.569	2	Opuogbogolo
+Ogbere	Ahoada East	Rivers	4.955	6.652	2	
+Ogharah	Abua/Odual	Rivers	4.859	6.637	2	
+Egamini	Emuoha	Rivers	4.939	6.720	2	Ogamini
+Ogbod	Ikwerre	Rivers	4.938	6.877	2	Ogbodo
+Ogunseye	Obafemi Owode	Ogun	6.873	3.499	2	
+Ogunrun-Ori	Obafemi Owode	Ogun	6.799	3.429	2	
+Oga	Shagamu	Ogun	6.808	3.515	2	
+Ogoji	Odogbolu	Ogun	6.807	3.774	2	
+Ogunlenu	Ijebu North	Ogun	6.996	3.843	2	
+Ogbaga	Ewekoro	Ogun	6.873	3.147	2	
+Oguru	Ijebu East	Ogun	6.707	4.138	2	
+Ala-Ogbo	Idanre	Ondo	7.063	5.209	2	
+Ogbodun	Akure North	Ondo	7.093	5.453	2	
+Ogbesse	Akure North	Ondo	7.263	5.379	2	
+Ogbesse-Ise	Ise/Orun	Ekiti	7.456	5.329	2	
+Ogoddo	Ajaokuta	Kogi	7.443	6.508	2	
+Ogbono	Okehi	Kogi	7.603	6.153	2	
+Ogidi Kabba	Ijumu	Kogi	7.754	6.010	2	
+Ainu Ogbogwu	Gwer East	Benue	7.095	8.433	2	
+Ogomo	Oturkpo	Benue	7.181	8.170	2	
+Ogbum	Gwer East	Benue	7.194	8.263	2	
+Ogbadu	Gwer West	Benue	7.551	8.164	2	
+Oga	Gwer West	Benue	7.561	8.175	2	
+Ogbenyi	Agatu	Benue	7.845	8.100	2	
+Ogurude	Abakaliki	Ebonyi	6.198	8.359	2	
+Ogbanyim	Izzi	Ebonyi	6.478	8.385	2	
+Ogamana	Obubra	Cross River	6.198	8.428	2	
+Ogurokpon	Obubra	Cross River	6.108	8.371	2	
+Ogada	Obubra	Cross River	6.052	8.344	2	
+Ogbiyeye	Ovia North-East	Edo	6.566	5.525	2	
+Ogbonbiri	Warri North	Delta	6.122	5.215	2	
+Ogolo	Owan West	Edo	6.813	5.784	2	
+Ogbabin	Warri North	Delta	6.049	5.142	2	
+Ogutabo	Irele	Ondo	6.451	4.885	2	
+Ago Ogba	Irele	Ondo	6.481	4.894	2	Ago-Ogba
+Ungwan Oguuda	Kankara	Katsina	11.841	7.370	2	
+Ogen	Ethiope West	Delta	5.960	5.787	2	
+Ogorode	Sapele	Delta	5.919	5.646	2	
+Onyobru-Oghobaye	Ethiope West	Delta	5.812	5.855	2	Onyobru|Onyobru-Oghobeye
+Ogwiomugo	Ethiope West	Delta	5.840	5.795	2	
+Ogbigun	Orhionmwon	Edo	5.763	5.944	2	
+Ogirisen	Sapele	Delta	5.740	5.712	2	Odjedi
+Oghara	Ughelli North	Delta	5.584	5.854	2	
+Ogbomoro	Uvwie	Delta	5.569	5.833	2	
+Ogoba	Warri South-West	Delta	5.522	5.311	2	
+Ogbogbene	Burutu	Delta	5.383	5.560	2	
+Oginibo II	Ughelli South	Delta	5.390	5.833	2	
+Ogodogodo	Burutu	Delta	5.379	5.538	2	
+Ogborogbene	Burutu	Delta	5.304	5.678	2	
+Ogorugbene	Burutu	Delta	5.225	5.646	2	
+Oghrughru	Ughelli South	Delta	5.224	5.924	2	
+Ogiritoro	Burutu	Delta	5.142	5.601	2	
+Ogbeintu	Ekeremor	Bayelsa	5.115	5.382	2	
+Ogbotobo	Ekeremor	Bayelsa	5.109	5.451	2	
+Ogboubagbene	Burutu	Delta	5.084	5.814	2	
+Ogonimiebigbene	Ekeremor	Bayelsa	4.945	5.549	2	
+Ogeteigbene	Ekeremor	Bayelsa	4.930	5.619	2	
+Ogosogbene	Ekeremor	Bayelsa	4.992	5.612	2	
+Ogbodugbene	Ekeremor	Bayelsa	4.996	5.676	2	
+Ogborode	Okpe	Delta	5.636	5.739	2	
+Ogidikoro	Southern Ijaw	Bayelsa	4.794	5.850	2	
+Ogbogbene	Southern Ijaw	Bayelsa	4.637	5.721	2	
+Ogolangaragbene	Southern Ijaw	Bayelsa	4.598	5.708	2	
+Ogboiditagbene	Southern Ijaw	Bayelsa	4.578	5.816	2	Ogboitagbene
+Ogboakwu	Etim Ekpo	Akwa Ibom	4.901	7.484	2	
+Ogwe	Ukwa West	Abia	4.972	7.245	2	
+Ogbogbo	Okrika	Rivers	4.744	7.088	2	
+Ogidigbo	Bonny	Rivers	4.516	7.173	2	
+Ogibe	Bonny	Rivers	4.471	7.291	2	
+Ogoni	Tai	Rivers	4.734	7.230	2	
+Ogo Ubi	Afikpo North	Ebonyi	5.957	7.961	2	
+Ogele	Okigwe	Imo	5.787	7.305	2	
+Elugu Ogeh	Okigwe	Imo	5.792	7.371	2	
+Ogo-Ubi	Bende	Abia	5.819	7.660	2	
+Ogo-Ubi	Arochukwu	Abia	5.650	7.705	2	
+Ogo-Ubi	Ohafia	Abia	5.650	7.769	2	
+Ogo Ubi	Ini	Akwa Ibom	5.510	7.748	2	
+Ogultu-Mbauzo	Ini	Akwa Ibom	5.437	7.762	2	
+Ogo-Ubi	Ohafia	Abia	5.700	7.700	2	
+Ndi-Ogbu	Ohafia	Abia	5.701	7.725	2	
+Ogboko	Bende	Abia	5.596	7.605	2	
+Ama Ogbu	Arochukwu	Abia	5.587	7.699	2	
+Ogoubi-Aro	Arochukwu	Abia	5.534	7.706	2	
+Eteye	Owan East	Edo	6.958	6.025	2	Ogele
+Ogute-Okpa	Owan East	Edo	6.955	6.014	2	Evbiamen|Eybiamen
+Edo-Ogwashi-Uku	Aniocha South	Delta	6.260	6.554	2	Abo-Ogwashi-Ukwu
+Ogwewho	Isoko North	Delta	5.490	6.069	2	
+Ogene	Ihiala	Anambra	5.916	6.860	2	
+Ogboro	Ihiala	Anambra	5.847	6.827	2	
+Ogba	Oguta	Imo	5.543	6.891	2	
+Oguname	Ughelli South	Delta	5.332	6.011	2	
+Ogbesu Camp I	Sagbama	Bayelsa	5.279	6.418	2	
+Ogbesu Camp II	Sagbama	Bayelsa	5.276	6.417	2	
+Ogbudasa	Sagbama	Bayelsa	5.282	6.300	2	
+Ogbete	Ndokwa East	Delta	5.914	6.644	2	
+Ogwashi	Ndokwa East	Delta	5.883	6.605	2	
+Ogwashi	Ndokwa East	Delta	5.862	6.595	2	
+Ogu-Ikpele	Ogbaru	Anambra	5.849	6.678	2	
+Akpo-Ogwu	Ogbaru	Anambra	5.837	6.719	2	
+Akiri-Ogidi	Ogbaru	Anambra	5.770	6.661	2	
+Ogbeose	Ogba/Egbema/Ndoni	Rivers	5.693	6.618	2	
+Ogwugwu	Ohaji/Egbema	Imo	5.601	6.715	2	
+Ise-Ogwudu	Ndokwa East	Delta	5.550	6.530	2	
+Ogbuku	Ogba/Egbema/Ndoni	Rivers	5.550	6.589	2	
+Ogbetogbene	Sagbama	Bayelsa	5.239	6.355	2	
+Ogugbori	Patani	Delta	5.193	6.131	2	
+Ogboloma Gbene	Patani	Delta	5.194	6.198	2	
+Oduophori In-Land	Patani	Delta	5.145	6.059	2	Ogele|Uduophori
+Ogokurugbene	Patani	Delta	5.148	6.101	2	
+Ogolowa	Sagbama	Bayelsa	5.156	6.179	2	
+Ogheneovo-Gbene	Patani	Delta	5.103	6.016	2	
+Ogbodugbene	Patani	Delta	5.106	6.054	2	
+Ogbulobene-Gbene	Sagbama	Bayelsa	5.062	6.054	2	
+Ogbeni Camp	Sagbama	Bayelsa	5.043	6.087	2	
+Oguobiri Camp	Southern Ijaw	Bayelsa	5.000	6.101	2	
+Ogbaja	Ogba/Egbema/Ndoni	Rivers	5.493	6.543	2	
+Ogbogen	Ogba/Egbema/Ndoni	Rivers	5.468	6.550	2	
+Ogbosisi	Owerri West	Imo	5.474	6.973	2	
+Ogbede	Ahoada West	Rivers	5.043	6.511	2	
+Ogoh	Iguegben	Edo	6.465	6.209	2	
+Oghanda Water-Side	Orhionmwon	Edo	6.380	6.129	2	
+Ogbeofu	Aniocha North	Delta	6.327	6.479	2	
+Ogbe-Odogwu	Aniocha South	Delta	6.156	6.498	2	
+Ogbe-Odogwu	Aniocha South	Delta	6.131	6.494	2	
+Ogun Camp	Aniocha South	Delta	6.124	6.372	2	
+Ogba/Egbema/Ndoni	Ogba/Egbema/Ndoni	Rivers	5.342	6.656	2	
+Ogbaru	Ogbaru	Anambra	6.016	6.745	2	Agbegbe Ijoba Ibile Ogbaru
+Ogbadibo	Ogbadibo	Benue	7.089	7.650	2	Agbegbe Ijoba Ibile Ogbadibo
+Ogu Bolo	Ogu Bolo	Rivers	4.648	7.186	2	
+Ogoja	Ogoja	Cross River	6.597	8.803	2	Ogodzha|ogeaja|ogoja
+Ogo Oluwa	Ogo Oluwa	Oyo	7.990	4.215	2	Ogo-Oluwa|Ogo-Oluwa Local Government Area
+Ogun Waterside	Ogun Waterside	Ogun	6.484	4.386	2	Agbegbe Ijoba Ibile Ogun Waterside|Ogun Water Side|Ogun Waterside Local Government Area|Ogun littoral
+Ogbia	Ogbia	Bayelsa	4.774	6.327	2	Agbegbe Ijoba Ibile Ogbia|Ogbia Local Government Area|ke bi ya
+Oguta	Oguta	Imo	5.669	6.800	2	Oguta Local Government Area
+Oghe	Ezeagu	Enugu	6.443	7.307	2	
+Ogboso	Uzo-Uwani	Enugu	6.509	7.047	2	
+Ogrita	Igbo-Eze-North	Enugu	6.955	7.402	2	
+Ogbosine	Nkanu West	Enugu	6.373	7.593	2	
+Ogodumu	Oturkpo	Benue	7.134	8.128	2	
+Oguzara-Nwonya	Ebonyi	Ebonyi	6.442	8.139	2	
+Oguzara	Abakaliki	Ebonyi	6.313	8.256	2	
+Ogba	Abakaliki	Ebonyi	6.331	8.390	2	
+Ogabo	Ikwo	Ebonyi	6.003	8.178	2	
+Ogu/Bolo	Ogu Bolo	Rivers	4.669	7.203	2	Ogu/Bolo
+Ogudu	Gwer West	Benue	7.679	8.261	2	
+Ogonyi	Ukum	Benue	7.559	9.475	2	
+Ogunsanmi Karounwi	Surulere	Lagos	6.505	3.336	2	
+Adeniran Ogunsanya	Surulere	Lagos	6.495	3.354	2	
+Odo Eran Ogunlana	Mushin	Lagos	6.504	3.325	2	
+Ogunoloko	Oshodi/Isolo	Lagos	6.564	3.340	2	
+Oguntade Bameke	Alimosho	Lagos	6.582	3.300	2	
+Iju Ogundimu	Ifako/Ijaye	Lagos	6.664	3.338	2	
+Ogba Oluwole	Ikeja	Lagos	6.623	3.343	2	
+Ogualan Two	Etsako West	Edo	6.836	6.313	2	Ogualan II
+Oguanlan	Etsako West	Edo	6.815	6.292	2	
+Gidan Oge	Karu	Nasarawa	9.080	7.838	2	
+Oghodogbor	Esan Central	Edo	6.769	6.226	2	
+Oghagbo	Esan Central	Edo	6.713	6.187	2	
+Idumu-Ogbe	Esan South-East	Edo	6.556	6.438	2	
+Ogboka	Esan South-East	Edo	6.537	6.355	2	
+Ogwua	Ekeremor	Bayelsa	4.928	5.919	2	
+Ogbudugbudu	Warri North	Delta	5.968	5.243	2	
+Ogogoro	Warri South-West	Delta	5.555	5.173	2	
+Ogidadino	Warri South-West	Delta	5.631	5.314	2	
+Oginigba	Obio/Akpor	Rivers	4.856	7.012	2	
+Ogbilolo	Ado	Benue	6.752	7.991	2	
+Oghobahon	Ovia North-East	Edo	6.632	5.458	2	
+Ogunbade	Abeokuta North	Ogun	7.251	3.123	2	
+Ogunsi	Abeokuta North	Ogun	7.183	3.221	2	
+Ogbogbo	Odeda	Ogun	7.312	3.253	2	
+Oguhola	Odeda	Ogun	7.275	3.317	2	
+Ogboloko	Obafemi Owode	Ogun	7.035	3.419	2	
+Ogbe-Igbore	Obafemi Owode	Ogun	7.002	3.463	2	
+Ogunlaye	Abeokuta South	Ogun	7.143	3.402	2	
+Oganaso	Egbeda	Oyo	7.462	4.024	2	
+Ogunji	Egbeda	Oyo	7.417	4.062	2	
+Ogunniya	Egbeda	Oyo	7.397	4.051	2	
+Ogunniran	Ona Ara	Oyo	7.296	4.053	2	
+Ogunrombi	Ona Ara	Oyo	7.293	4.050	2	
+Ogunbode	Ona Ara	Oyo	7.281	4.011	2	
+Ogundele	Oluyole	Oyo	7.233	4.001	2	
+Ogundiwin	Ona Ara	Oyo	7.227	4.061	2	
+Ogunseyitan	Ona Ara	Oyo	7.197	4.031	2	
+Ogunde	Egbeda	Oyo	7.338	4.101	2	
+Ogunbiyi	Egbeda	Oyo	7.434	4.128	2	
+Ogundejo	Egbeda	Oyo	7.440	4.136	2	
+Iwari-Ogundiran	Isokan	Osun	7.271	4.136	2	
+Oguntedo	Irewole	Osun	7.460	4.229	2	
+Agbati-Ogun	Isokan	Osun	7.278	4.199	2	
+Tutu-Ogun	Aiyedade	Osun	7.236	4.267	2	
+Ogidi	Aiyedade	Osun	7.235	4.321	2	
+Ogunsin	Ife North	Osun	7.498	4.481	2	
+Oga	Ife North	Osun	7.477	4.433	2	
+Ogunyemi	Ife North	Osun	7.367	4.430	2	
+Ogunjinmi	Odo Otin	Osun	7.953	4.551	2	
+Ogbagba	Ede South	Osun	7.656	4.517	2	
+Arowo-Ogun	Ife Central	Osun	7.550	4.526	2	
+Oko Ogboni	Atakunmosa West	Osun	7.512	4.648	2	
+Ogita	Atakunmosa West	Osun	7.613	4.601	2	
+Ogbarin	Ede South	Osun	7.656	4.560	2	
+Odo-Ogun	Atakunmosa West	Osun	7.691	4.621	2	
+Ogege	Atakunmosa West	Osun	7.533	4.765	2	
+Ogbese	Ilesha West	Osun	7.623	4.698	2	
+Oguniyi	Boripe	Osun	7.811	4.659	2	
+Ibi-Ogede	Boripe	Osun	7.861	4.641	2	
+Ogundiran	Ijero	Ekiti	7.921	4.995	2	
+Ogboni	Ijero	Ekiti	7.884	4.979	2	
+Ogunjimi	Itesiwaju	Oyo	8.188	3.619	2	
+Ogunrombi	Yewa North	Ogun	7.128	2.917	2	
+Aiyetoro Ogunba	Yewa North	Ogun	7.082	2.772	2	
+Ilemo-Ogunba	Yewa North	Ogun	7.090	2.772	2	
+Abule-Ogunbi	Yewa North	Ogun	7.149	2.951	2	
+Ogberi	Yewa North	Ogun	7.355	2.923	2	
+Ogundoyin	Yewa North	Ogun	7.343	2.943	2	
+Oguntolu	Yewa North	Ogun	7.064	2.760	2	
+Oguntedo	Ipokia	Ogun	6.681	2.864	2	
+Ido-Ogun-Odo	Ipokia	Ogun	6.591	2.771	2	
+Ido-Ogun-Oke	Ipokia	Ogun	6.594	2.780	2	
+Ogwa-Ofara	Okitipupa	Ondo	6.427	4.708	2	
+Oge	Saki West	Oyo	8.683	3.370	2	
+Abule Ogbomosho	Irepo	Oyo	9.005	3.919	2	
+Ogun	Ife East	Osun	7.463	4.613	2	
+Ladugbo-Ogunleye	Ife South	Osun	7.338	4.530	2	
+Ogunleye Alanomo	Ife North	Osun	7.315	4.506	2	
+Ogunleye	Ife South	Osun	7.290	4.525	2	
+Idi-Ogunarode	Ife South	Osun	7.242	4.588	2	
+Olorunda Ogunrogba	Ife South	Osun	7.119	4.554	2	
+Idi-Ogun Adedire	Ife South	Osun	7.129	4.607	2	
+Ose-Ogundele	Ife South	Osun	7.171	4.630	2	
+Idi-Ogan	Ife South	Osun	7.175	4.645	2	
+Gidi-Ogbo	Ife East	Osun	7.374	4.583	2	
+Ogunkeke	Ife East	Osun	7.445	4.632	2	
+Ogogo-Doja	Ife East	Osun	7.426	4.656	2	
+Ogogo-Adeyemo	Ife South	Osun	7.402	4.662	2	
+Ogogo-Akaro	Ife South	Osun	7.407	4.666	2	
+Ogudu	Ife South	Osun	7.383	4.649	2	
+Mofere-Ogbolu	Ile Oluji/Okeigbo	Ondo	7.229	4.969	2	
+Ogede	Ori Ire	Oyo	8.290	4.188	2	
+Ogbin	Ori Ire	Oyo	8.416	4.219	2	
+Ogunba	Surulere	Oyo	8.125	4.341	2	
+Ogunsan	Obafemi Owode	Ogun	7.091	3.580	2	
+Oga	Obafemi Owode	Ogun	7.037	3.523	2	
+Oga	Odeda	Ogun	7.271	3.662	2	
+Oguntolu	Odeda	Ogun	7.385	3.654	2	
+Akintola-Ogbun	Oluyole	Oyo	7.149	3.912	2	
+Ogunremi	Oluyole	Oyo	7.164	3.971	2	
+Papa-Oguntobi	Oluyole	Oyo	7.170	3.969	2	
+Ogunremi	Oluyole	Oyo	7.187	3.995	2	
+Ogundipe	Oluyole	Oyo	7.205	3.950	2	
+Ogbagba	Olorunsogo	Oyo	8.876	4.176	2	
+Ogunlomo	Olorunsogo	Oyo	8.702	4.195	2	
+Budo-Ogbo	Moro	Kwara	8.648	4.410	2	
+Ogboku	Asa	Kwara	8.566	4.432	2	
+Ogunbo	Asa	Kwara	8.521	4.421	2	
+Ogundoyin	Ibarapa North	Oyo	7.550	3.122	2	
+Ogundele	Ibarapa North	Oyo	7.518	3.188	2	
+Ogunoroju	Ibarapa North	Oyo	7.542	3.172	2	
+Ogeye	Ibarapa East	Oyo	7.641	3.534	2	
+Ogunlabi	Ibarapa East	Oyo	7.647	3.521	2	
+Oge	Wamba	Nasarawa	8.905	8.560	2	
+Igberi-Ogun	Offa	Kwara	8.139	4.677	2	
+Ogunte	Oyun	Kwara	8.170	4.611	2	
+Oke-Ogun	Oyun	Kwara	8.106	4.644	2	
+Odo-Ogun	Offa	Kwara	8.118	4.657	2	
+Ogunremi	Oyo West	Oyo	7.946	3.722	2	
+Ogidi	Atiba	Oyo	7.927	3.937	2	
+Ogunwemimo	Afijio	Oyo	7.765	3.890	2	
+Ogunmola Gudugbu	Afijio	Oyo	7.771	3.993	2	
+Ogunroko	Afijio	Oyo	7.775	3.968	2	
+Ogidi	Ifelodun	Kwara	8.499	4.824	2	
+Ogunniyi	Ifelodun	Kwara	8.482	4.946	2	
+Ogele	Ifelodun	Kwara	8.421	4.874	2	
+Iji-Ogun	Oyo East	Oyo	7.909	4.040	2	
+Igbo-Ogun	Afijio	Oyo	7.822	4.017	2	
+Ogundele	Afijio	Oyo	7.781	4.011	2	
+Ogunniran	Ori Ire	Oyo	7.964	4.110	2	
+Ogburo	Ogo Oluwa	Oyo	7.973	4.180	2	
+Ogunkeye	Surulere	Oyo	7.956	4.446	2	
+Budo-Ogi	Ilorin South	Kwara	8.496	4.682	2	
+Ogunraga	Asa	Kwara	8.291	4.522	2	
+Ogunjinmi	Afijio	Oyo	7.679	4.013	2	
+Ogunrin	Egbedore	Osun	7.703	4.359	2	
+Ogundele	Akinyele	Oyo	7.649	4.061	2	
+Aba-Ogundipe	Lagelu	Oyo	7.511	4.139	2	
+Ogunajo	Lagelu	Oyo	7.535	4.130	2	
+Ogede	Ola Oluwa	Osun	7.720	4.215	2	
+Ogunsowo	Akinyele	Oyo	7.574	4.017	2	
+Ogede	Ola Oluwa	Osun	7.742	4.263	2	
+Ogo	Lagelu	Oyo	7.508	4.080	2	
+Ogo	Lagelu	Oyo	7.527	4.046	2	
+Ogunkanmi	Afijio	Oyo	7.688	4.019	2	
+Aba-Ogo	Lagelu	Oyo	7.523	4.138	2	
+Ogungbayi	Akinyele	Oyo	7.638	4.015	2	
+Ogunala	Iwo	Osun	7.658	4.100	2	
+Ogbogbologun	Akinyele	Oyo	7.648	4.021	2	
+Ogo-Ese	Afijio	Oyo	7.715	4.011	2	
+Ogunjin	Akinyele	Oyo	7.607	4.036	2	
+Ogbe	Obafemi Owode	Ogun	7.002	3.465	2	
+Ogidi	Ona Ara	Oyo	7.305	4.095	2	
+Iporo-Ogun	Odeda	Ogun	7.250	3.616	2	
+Ogbin	Ori Ire	Oyo	8.430	4.318	2	
+Ogojo	Ogbomosho North	Oyo	8.117	4.319	2	
+Ogogo	Afijio	Oyo	7.694	4.016	2	
+Ogunsina	Lagelu	Oyo	7.569	4.060	2	
+Ogbagba	Ola Oluwa	Osun	7.720	4.171	2	
 Ile Ogbo Street	Ifako/Ijaye	Lagos	6.657	3.308	1	
 Ogundana Street	Ikeja	Lagos	6.603	3.356	1	
 Ogunmokun Street	Mushin	Lagos	6.529	3.359	1	
@@ -330,26 +920,22 @@ Ogedegbe Street	Oredo	Edo	6.338	5.597	1
 Oguola Lane	Oredo	Edo	6.347	5.603	1	
 Ogbeide Lane	Oredo	Edo	6.344	5.602	1	
 Oguola Road	Oredo	Edo	6.347	5.602	1	
-Ogedegbe Street	Oredo	Edo	6.326	5.602	1	
 Ogiugo Drive	Oredo	Edo	6.321	5.598	1	
 Ogbesasa Street	Oredo	Edo	6.329	5.625	1	
 Ogiegban Street	Oredo	Edo	6.323	5.597	1	
 Ogumwenyi	Oredo	Edo	6.263	5.590	1	
 Paul Ogieva Street	Ikpoba-Okha	Edo	6.378	5.692	1	
 Ogudu Close	Oredo	Edo	6.292	5.592	1	
-Ogbebor street	Egor	Edo	6.375	5.630	1	
 Fred Ogbe	Egor	Edo	6.367	5.629	1	
 Ogbiwebo Street	Oredo	Edo	6.337	5.613	1	
 Ore-Oghene Lane	Oredo	Edo	6.342	5.616	1	
 Ogiafa Lane	Oredo	Edo	6.340	5.627	1	
 Ogbebor street	Egor	Edo	6.356	5.579	1	
-OGIDA BARRACK'S 2ND ENTRANCE	Egor	Edo	6.364	5.588	1	
+Ogida Barrack'S 2Nd Entrance	Egor	Edo	6.364	5.588	1	
 Ogbeide Str	Oredo	Edo	6.301	5.596	1	
 Ogunkoya Street	Oredo	Edo	6.293	5.592	1	
 Ogbomosho Road	Kaduna North	Kaduna	10.514	7.424	1	
-Ogbe Secondary School	Oredo	Edo	6.330	5.615	0	
 Old Oguanogbe Street	Oredo	Edo	6.334	5.619	1	
-Ogbe-Ibuya Primary School	Oredo	Edo	6.314	5.591	0	
 Ogedengbe Road	Apapa	Lagos	6.443	3.360	1	
 Ogunsola Street	Ibadan North	Oyo	7.422	3.912	1	
 Ogombo Road	Eti Osa	Lagos	6.444	3.587	1	
@@ -385,11 +971,9 @@ Ogungbayi Street	Ikeja	Lagos	6.650	3.357	1
 ogunnusi road	Ikeja	Lagos	6.654	3.354	1	
 Oba Ogunji Road	Ifako/Ijaye	Lagos	6.628	3.326	1	
 Ogba Road	Ifako/Ijaye	Lagos	6.628	3.325	1	
-Ogba Road	Agege	Lagos	6.621	3.330	1	
 Ogo Oluwa Close	Ikeja	Lagos	6.650	3.350	1	
 Ogunshola Street	Ikeja	Lagos	6.639	3.345	1	
 Ogo Oluwa Street	Ifako/Ijaye	Lagos	6.645	3.341	1	
-Ogba Road	Agege	Lagos	6.617	3.335	1	
 Ogunmade Street	Ikeja	Lagos	6.601	3.340	1	
 Ogunji Street	Ifako/Ijaye	Lagos	6.624	3.326	1	
 Ogunbore Street	Ifako/Ijaye	Lagos	6.637	3.327	1	
@@ -436,15 +1020,11 @@ Ogunseri Avenue	Oredo	Edo	6.295	5.586	1
 Ogunbadero Street	Surulere	Lagos	6.488	3.339	1	
 Ogoja-Abakaliki Road	Yala	Cross River	6.380	8.461	1	
 Ogoja-Abakaliki Road	Abakaliki	Ebonyi	6.307	8.110	1	
-Ogoja-Abakaliki Road	Yala	Cross River	6.400	8.472	1	
 Ogoja Street	Abakaliki	Ebonyi	6.316	8.139	1	
 Ogoja Road	Abakaliki	Ebonyi	6.315	8.121	1	
-Ogoja Street	Abakaliki	Ebonyi	6.317	8.132	1	
 Ogbaga Road	Ebonyi	Ebonyi	6.334	8.100	1	
-Ogbaga Road	Ebonyi	Ebonyi	6.337	8.101	1	
 Ogoja-Abakaliki Road	Izzi	Ebonyi	6.325	8.230	1	
 Ogoja-Abakaliki Road	Abakaliki	Ebonyi	6.308	8.149	1	
-Ogunlana Drive	Surulere	Lagos	6.502	3.351	1	
 Alhaji Wasiu Ogunlana Road	Amuwo Odofin	Lagos	6.477	3.312	1	
 Wahab Ogunbambi Street	Eti Osa	Lagos	6.431	3.445	1	
 Ogunjobi Street	Mushin	Lagos	6.525	3.367	1	
@@ -455,7 +1035,6 @@ Sunday Ogunyade Street	Shomolu	Lagos	6.547	3.390	1
 Oguntona Street	Shomolu	Lagos	6.549	3.375	1	
 Ogele Road	Asa	Kwara	8.381	4.480	1	
 Oguntoyinbo Street	Oshodi/Isolo	Lagos	6.513	3.327	1	
-Oguntoyinbo Street	Oshodi/Isolo	Lagos	6.516	3.327	1	
 Ogunbambi Street	Alimosho	Lagos	6.544	3.281	1	
 Olusesan Ogunro Street	Alimosho	Lagos	6.599	3.289	1	
 Ogunjobi Street	Alimosho	Lagos	6.632	3.297	1	
@@ -553,15 +1132,12 @@ Nnaji Ogbodo Street	Enugu South	Enugu	6.413	7.493	1
 Ogbeye Ga-Abu Eze Street	Enugu South	Enugu	6.402	7.513	1	
 Barrister S N Oguh Drive	Enugu South	Enugu	6.390	7.503	1	
 Ogbonna Street	Enugu East	Enugu	6.490	7.516	1	
-Ogbaru Street	Enugu North	Enugu	6.445	7.511	1	
 Azu Ogbunike Crescent	Enugu North	Enugu	6.449	7.523	1	
 Umu-okwor Ogbodo Street	Enugu South	Enugu	6.399	7.507	1	
 Ogidi Crescent	Enugu North	Enugu	6.440	7.480	1	
 Mike Ogbuchi Street	Enugu East	Enugu	6.486	7.583	1	
 Ogbodo Oko Street	Enugu South	Enugu	6.388	7.497	1	
 Ogui Road	Enugu North	Enugu	6.461	7.510	1	
-Ogui Road	Enugu North	Enugu	6.450	7.501	1	
-Ogui Road	Enugu North	Enugu	6.436	7.492	1	
 Ogwuegbu's	Obowo	Imo	5.586	7.392	1	
 Ogbete Street	Enugu North	Enugu	6.433	7.485	1	
 Chief Simeon Agbo Ogbuefi Street	Enugu East	Enugu	6.517	7.527	1	
@@ -575,7 +1151,6 @@ Ogo Oluwa Avenue	Ifako/Ijaye	Lagos	6.661	3.333	1
 Ognete Crescent	Enugu East	Enugu	6.480	7.520	1	
 Ogudile Street	Enugu East	Enugu	6.482	7.531	1	
 Ogbete Crescent	Enugu East	Enugu	6.479	7.521	1	
-Ogui	Enugu North	Enugu	6.440	7.500	2	
 Ogunsami Street	Surulere	Lagos	6.501	3.336	1	
 Oguniyi Street	Ajeromi/Ifelodun	Lagos	6.464	3.338	1	
 Joel Oguntade Street	Surulere	Lagos	6.490	3.335	1	
@@ -592,9 +1167,6 @@ Ogunde Street	Ìkòròdú	Lagos	6.629	3.479	1
 Adewale Ogunleye Street	Ìkòròdú	Lagos	6.626	3.480	1	
 Ogoja-Abakaliki Road	Izzi	Ebonyi	6.365	8.332	1	
 Ogoja-Abakaliki Road	Abakaliki	Ebonyi	6.308	8.129	1	
-Ogoja-Abakaliki Road	Abakaliki	Ebonyi	6.307	8.123	1	
-Ogoja-Abakaliki Road	Izzi	Ebonyi	6.365	8.330	1	
-Ogoja-Abakaliki Road	Abakaliki	Ebonyi	6.309	8.143	1	
 Ogoja-Abakaliki Road	Yala	Cross River	6.356	8.426	1	
 Ogoja-Abakaliki Road	Izzi	Ebonyi	6.378	8.395	1	
 Ogoja-Abakaliki Road	Yala	Cross River	6.357	8.410	1	
@@ -630,7 +1202,6 @@ Ogunlana Street	Kosofe	Lagos	6.602	3.385	1
 Oguta Road	Onitsha North	Anambra	6.143	6.791	1	
 Oganenigu Street	Municipal Area Council	FCT Abuja	9.125	7.389	1	
 Swali - Oguobiri	Southern Ijaw	Bayelsa	4.998	6.116	1	
-Swali - Oguobiri	Sagbama	Bayelsa	5.012	6.130	1	
 Nedugo-Ogboloma Bridge	Yenegoa	Bayelsa	5.049	6.345	1	
 Okwuzi -Oguta Road	Ogba/Egbema/Ndoni	Rivers	5.478	6.721	1	
 Swali - Oguobiri	Yenegoa	Bayelsa	4.935	6.277	1	
@@ -650,14 +1221,12 @@ Ogoja Street	Ebonyi	Ebonyi	6.328	8.107	1
 Ayo Oguntuga Street	Kosofe	Lagos	6.623	3.370	1	
 Ogunyadewo St	Kosofe	Lagos	6.615	3.380	1	
 Ahoda Oguta Road South	Ogba/Egbema/Ndoni	Rivers	5.220	6.640	1	
-Ogunu Road	Warri South	Delta	5.528	5.727	1	
 Ogedegbe Road	Warri South	Delta	5.512	5.767	1	
 Ogbomoso-Ikirun Road	Ogbomosho North	Oyo	8.133	4.242	1	
 Ogbomoso-Ikoyi Road	Ogbomosho North	Oyo	8.148	4.232	1	
 Apara Ogun Street	Ado Odo/Ota	Ogun	6.687	3.241	1	
 Ola Oguntunga Street	Alimosho	Lagos	6.531	3.266	1	
 Ogbemudia Street	Alimosho	Lagos	6.533	3.267	1	
-Ogundele Street	Alimosho	Lagos	6.615	3.289	1	
 Oghene Crescent	Alimosho	Lagos	6.651	3.261	1	
 Joseph Ogunleye Street	Alimosho	Lagos	6.644	3.283	1	
 Ogunsanya Street	Alimosho	Lagos	6.652	3.276	1	
@@ -710,8 +1279,8 @@ Ogiyan Street	Ejigbo	Osun	7.904	4.312	1
 Ogbeifun Street	Ikpoba-Okha	Edo	6.276	5.637	1	
 Ogba Road	Isoko North	Delta	5.542	6.140	1	
 Ogbomoide Rd	Esan West	Edo	6.753	6.048	1	
-LUCKY OGBEBOR STREET	Oredo	Edo	6.292	5.568	1	
-NOSAKHARE STREET	Oredo	Edo	6.293	5.566	1	LUCKY OGBEBOR STREET
+Lucky Ogbebor Street	Oredo	Edo	6.292	5.568	1	
+Nosakhare Street	Oredo	Edo	6.293	5.566	1	LUCKY OGBEBOR STREET
 Oghenekevwe Close	Okpe	Delta	5.590	5.710	1	
 Ogege Road	Ejigbo	Osun	7.859	4.347	1	
 Ogodogun Street	Warri South	Delta	5.507	5.783	1	
@@ -720,17 +1289,14 @@ New Ogorode Road	Sapele	Delta	5.881	5.684	1
 Oghene Rubber Factory Road	Sapele	Delta	5.866	5.718	1	
 Ogale Farm Road	Eleme	Rivers	4.794	7.132	1	
 Ogunleye Street	Eti Osa	Lagos	6.450	3.614	1	
-Sanni Ogun Road	Ikot Ekpene	Akwa Ibom	5.184	7.716	1	
 Ogoja Road	Ebonyi	Ebonyi	6.325	8.109	1	
 Ogbunu Street	Awka South	Anambra	6.181	7.063	1	
 Alhaji Wasiu Ogunlana Road	Amuwo Odofin	Lagos	6.477	3.317	1	
 Igbeti-Ogbomoso Road	Olorunsogo	Oyo	8.751	4.129	1	
-Ola Ogundipe Street	Alimosho	Lagos	6.586	3.306	1	
 Oguntade Road	Alimosho	Lagos	6.582	3.304	1	
 Ogunneye Street	Ìkòròdú	Lagos	6.619	3.520	1	
 Ahmed Oguntunde Street	Ìkòròdú	Lagos	6.620	3.646	1	
 Chief Ademola Ogunniyi street	Oyun	Kwara	8.141	4.747	1	
-Ogoja Road	Abakaliki	Ebonyi	6.322	8.109	1	
 Ago Ogba/Ajagba Road	Irele	Ondo	6.463	4.900	1	
 Ogalonye street	Onitsha North	Anambra	6.152	6.777	1	
 Ogunbowale Street	Oshodi/Isolo	Lagos	6.518	3.329	1	
@@ -744,61 +1310,29 @@ Swali - Ogobiri	Yenegoa	Bayelsa	4.915	6.270	1
 Ogbere Street	Shomolu	Lagos	6.528	3.398	1	
 Ogbaga Road	Ebonyi	Ebonyi	6.509	8.142	1	
 Ogbaga Road	Ebonyi	Ebonyi	6.358	8.111	1	
-Ogbaga Road	Ebonyi	Ebonyi	6.348	8.107	1	
-Ogoja-Abakaliki Road	Abakaliki	Ebonyi	6.310	8.102	1	
 Ogbete Main Market Road	Enugu North	Enugu	6.437	7.483	1	
 Olayemi Ogunlana Street	Kosofe	Lagos	6.543	3.402	1	
-Jakpa Road	Uvwie	Delta	5.564	5.752	1	Effurun, Warri to Shell Ogunu
-Federal Government College Ogbomoso	Ogbomosho North	Oyo	8.158	4.229	0	
-Ogudu GRA School Complex	Kosofe	Lagos	6.579	3.384	0	
-Adeniran Ogunsanya College of Education	Ado Odo/Ota	Ogun	6.502	3.110	0	AOCOED
 Ogu Street	Port-Harcourt	Rivers	4.763	7.021	1	
-Railway Line Ogbete Market	Enugu North	Enugu	6.433	7.482	0	
 Ogbede street	Alimosho	Lagos	6.497	3.244	1	
-Ogoloma Health Centre	Okrika	Rivers	4.736	7.079	0	
-Anglican Nursery / Primary School, Ogudu	Kosofe	Lagos	6.573	3.394	0	
-Ogudu Junior Grammar School	Kosofe	Lagos	6.578	3.385	0	
 Goddy Ogbaga Street	Municipal Area Council	FCT Abuja	8.987	7.449	1	
-Ogui Nike Health Center	Enugu North	Enugu	6.434	7.502	0	
 Oghenerurie Iyede Close	Udu	Delta	5.503	5.822	1	
-Ogu General Hospital	Ogu Bolo	Rivers	4.722	7.207	0	
-Ladoke Akintola University of Technology, Ogbomoso	Ogbomosho North	Oyo	8.168	4.270	0	
 Oyo-Ogbomoso Road	Ogbomosho South	Oyo	8.096	4.197	1	
 Oyo-Ogbomoso Road	Ori Ire	Oyo	8.048	4.144	1	
-Swali - Ogobiri	Yenegoa	Bayelsa	4.914	6.278	1	
 Nedugo-Okolobiri-Ogbunagha-Koroama	Yenegoa	Bayelsa	5.046	6.339	1	
-Ogburi Health Post	Fufore	Adamawa	8.800	12.421	0	
-Ogige Market	Nsukka	Enugu	6.852	7.401	0	
 Swali - Oguobiri	Yenegoa	Bayelsa	4.991	6.288	1	
 Chief Clement Ogu Avenue	Owerri Municipal	Imo	5.468	7.050	1	
 Uzo Ogbanzu Amaowerre	Orumba South	Anambra	6.028	7.215	1	Uzo Amaowerre
 ogwashi Asaba	Aniocha South	Delta	6.239	6.593	1	
 Olaoye Ogunyemi Avenue	Ìkòròdú	Lagos	6.627	3.499	1	
-Gateway International Airport	Ikenne	Ogun	6.933	3.705	0	Ogun Gateway Agro-Cargo Airport
 Chief Emma Ogbu Crescent	Enugu East	Enugu	6.475	7.530	1	
-Ogedegbe Primary School, Warri	Warri South	Delta	5.507	5.762	0	
 Ogoyor Road	Eti Osa	Lagos	6.456	3.573	1	
 New Ogorode Road	Sapele	Delta	5.905	5.654	1	
-New Ogorode Road	Sapele	Delta	5.891	5.663	1	
 Ogbebor Close	Udu	Delta	5.490	5.804	1	
 Oganla Olekan Street	Ewekoro	Ogun	6.955	3.227	1	
-Oganla Olekan Street	Ewekoro	Ogun	6.955	3.229	1	
-Ogiame Primary School	Warri South	Delta	5.523	5.731	0	
-Ogbe-Ijaw Market	Warri South	Delta	5.513	5.747	0	
-Ogun-Aja	Sapele	Delta	5.891	5.666	2	
-Ogedegbe Community	Warri South	Delta	5.512	5.767	2	
-Swali - Oguobiri	Yenegoa	Bayelsa	4.949	6.276	1	
-Swali - Oguobiri	Yenegoa	Bayelsa	4.951	6.275	1	
-Ogbunabali Street	Port-Harcourt	Rivers	4.806	7.010	1	
-Ogbunabali Street	Port-Harcourt	Rivers	4.795	7.008	1	
 Ogunnaike St	Shomolu	Lagos	6.542	3.369	1	
 CA Ogbeche Close	Municipal Area Council	FCT Abuja	9.039	7.546	1	
 Chief Kabiru Ogunleye Street	Eti Osa	Lagos	6.450	3.612	1	
-Ogale Farm Road	Eleme	Rivers	4.807	7.139	1	
 Ogunkoya Street	Lagos Mainland	Lagos	6.505	3.390	1	
-Okwuzi -Oguta Road	Ogba/Egbema/Ndoni	Rivers	5.490	6.727	1	
-Ogwuagor Road	Enugu East	Enugu	6.489	7.529	1	
-Ogbomoso Oyo Road	Ogbomosho North	Oyo	8.130	4.233	1	
 Babs Ogunwole Street	Ifako/Ijaye	Lagos	6.661	3.310	1	
 Godwin H Ogbadu St	Municipal Area Council	FCT Abuja	9.104	7.476	1	
 Ogunfowokan Street	Oshodi/Isolo	Lagos	6.518	3.319	1	
@@ -808,25 +1342,86 @@ Ogunkoya Street	Ìkòròdú	Lagos	6.633	3.501	1
 Adesina Oguntolu Street	Ìkòròdú	Lagos	6.636	3.500	1	
 New Ogorode Road	Sapele	Delta	5.874	5.702	1	
 Ogun Street	Epe	Lagos	6.674	3.984	1	
-Akinsanya Ogunlana Street	Alimosho	Lagos	6.598	3.293	1	
 Chief Joseph U. Ogbunnehi Street	Eti Osa	Lagos	6.480	3.578	1	
 Razak Kawaliu Ogunsemo Street	Eti Osa	Lagos	6.474	3.563	1	
 Ogunremi Street	Eti Osa	Lagos	6.449	3.611	1	
 Hon Samad Ogunbo Street	Eti Osa	Lagos	6.449	3.611	1	
 Ogundare Street	Eti Osa	Lagos	6.449	3.615	1	
 Salami Ogejo	Kosofe	Lagos	6.537	3.405	1	
-Salami Ogejo	Kosofe	Lagos	6.539	3.404	1	
-Ogo Oluwa Hospital	Odo Otin	Osun	8.024	4.671	0	
 Ogundele Street	Kosofe	Lagos	6.559	3.393	1	
-Ogoja	Ogoja	Cross River	6.528	8.688	2	
-Ogbadibo	Ogbadibo	Benue	7.009	7.646	2	
-Ogbaru	Ogbaru	Anambra	5.921	6.761	2	
-Oguta	Oguta	Imo	5.659	6.778	2	
-Ogori/Magongo	Ogori/Magongo	Kogi	7.479	6.156	2	
-Ogbomosho South	Ogbomosho South	Oyo	8.075	4.237	2	
-Ogo Oluwa	Ogo Oluwa	Oyo	7.961	4.181	2	
-Ogbomosho North	Ogbomosho North	Oyo	8.157	4.263	2	
-Ogbia	Ogbia	Bayelsa	4.796	6.314	2	
-Ogba/Egbema/Ndoni	Ogba/Egbema/Ndoni	Rivers	5.451	6.641	2	
-Ogu Bolo	Ogu Bolo	Rivers	4.674	7.202	2	
-Ogun Waterside	Ogun Waterside	Ogun	6.461	4.390	2	
+Ogida Barrack's Market	Egor	Edo	6.364	5.589	0	
+Ogbe Primary School	Oredo	Edo	6.330	5.616	0	
+Ore-Oghene Primary School	Oredo	Edo	6.346	5.614	0	
+Ogbete River Primary School	Enugu North	Enugu	6.431	7.479	0	
+Ogba Bus Park	Ikeja	Lagos	6.633	3.342	0	
+Nkwo Ogwu	Aboh-Mbaise	Imo	5.501	7.238	0	
+Ogida Market	Egor	Edo	6.359	5.601	0	
+EPP Ogélété	Yewa North	Ogun	7.332	2.740	0	
+Ogiso Pry Sch	Oredo	Edo	6.293	5.565	0	
+Ogale Nig. Filling Station	Udu	Delta	5.496	5.796	0	
+Oginigba Comprehensive Secondary School	Obio/Akpor	Rivers	4.829	7.040	0	
+Ogijo Bus Stop	Shagamu	Ogun	6.706	3.510	0	
+Delta State Polytechnic, Ogwashi-Uku	Aniocha South	Delta	6.225	6.571	0	
+Ogbagi Akoko Market	Akoko North West	Ondo	7.574	5.707	0	
+Ayede Ogbese Market	Akure North	Ondo	7.259	5.374	0	
+Oguta South	Oguta	Imo	5.704	6.796	0	
+Majidun Ogolonto Bus Stop	Ìkòròdú	Lagos	6.620	3.473	0	
+ijon odo (ogun)	Ado Odo/Ota	Ogun	6.562	3.196	0	
+Anglican Model College Ogbomoso (AMCO)	Ogbomosho North	Oyo	8.142	4.242	0	
+Ogbomoso Girl's High School	Ogbomosho North	Oyo	8.161	4.245	0	
+Ogbomoso Town Hall	Ogbomosho North	Oyo	8.131	4.248	0	
+Federal Government College, Ogbomoso	Ogbomosho North	Oyo	8.155	4.229	0	
+Peace Park Ogrute Enugu Ezike	Igbo-Eze-North	Enugu	6.982	7.448	0	
+United Anglican Primary School, Tigbo-Ogan	Ado Odo/Ota	Ogun	6.521	3.061	0	
+St. John'S Anglican Primary School Iii, Ogijo	Shagamu	Ogun	6.831	3.647	0	
+Imoro Ogijo Comm. Primary School Ogijo	Ìjẹ̀bú Òde	Ogun	6.807	3.909	0	
+St. John'S Anglican Primary School Ii, Ogijo	Shagamu	Ogun	6.686	3.580	0	
+Ansarudeen Primary School, Imushin-Ogijo	Ifo	Ogun	6.684	3.369	0	
+Community Primary School, Ogungbade	Ìjẹ̀bú Òde	Ogun	6.814	3.923	0	
+Community Primary School, Ojo-Ogundele	Ifo	Ogun	6.819	3.157	0	
+United Anglican Primary School, Tigbo-Ogan	Ifo	Ogun	6.800	3.184	0	
+Community Primary School, Ogungbade	Ifo	Ogun	6.768	3.225	0	
+Wesley Primary School, Erufu-Ogijo	Shagamu	Ogun	6.748	3.495	0	
+Imoro Ogijo Comm. Primary School Ogijo	Shagamu	Ogun	6.723	3.499	0	
+St. John'S Anglican Primary School Iii, Ogijo	Shagamu	Ogun	6.705	3.511	0	
+St. John'S Anglican Primary School I, Ogijo	Shagamu	Ogun	6.705	3.511	0	
+St. John'S Anglican Primary School Ii, Ogijo	Shagamu	Ogun	6.704	3.511	0	
+Ansarudeen Primary School, Imushin-Ogijo	Shagamu	Ogun	6.686	3.504	0	
+Community Primary School, Ojo-Ogundele	Ifo	Ogun	6.663	3.360	0	
+Atoyo Ogbugba Com. Primary School, Atoyo	Shagamu	Ogun	6.848	3.652	0	
+Ogui Junction Bus-Stop	Enugu North	Enugu	6.462	7.511	0	
+Ogbete main Market	Enugu North	Enugu	6.435	7.482	0	
+izigi (ogun)	Ipokia	Ogun	6.472	2.862	0	
+Ogiame Primary School Warri	Warri South	Delta	5.523	5.731	0	
+Ogbe-ijaw Market Warri	Warri South	Delta	5.512	5.746	0	
+Ogulagha Secondary school	Burutu	Delta	5.351	5.344	0	
+Ekpebiwei Primary School Ogulagha	Burutu	Delta	5.361	5.346	0	
+Pa Clement Ogunsusi	Ojo	Lagos	6.493	3.200	0	
+Ogundimu Primary Health Care Centre	Alimosho	Lagos	6.624	3.292	0	
+Ogbomoshotedo Community Health Cetre	Alimosho	Lagos	6.575	3.258	0	
+Ogunmoded Memorial Hospital And Maternity Home	Alimosho	Lagos	6.549	3.263	0	
+Ogungbaiye Primary Health Centre	Mushin	Lagos	6.525	3.353	0	
+Chapel Secondary School, Chapel Road, Oke Ogun, Nigeria	Ilorin East	Kwara	8.478	4.623	0	
+oto owu odo (ogun)	Ado Odo/Ota	Ogun	6.552	3.198	0	
+itekun (ogun)	Ado Odo/Ota	Ogun	6.514	3.171	0	
+ogogoro village	Amuwo Odofin	Lagos	6.426	3.398	0	
+iwopin (ogun)	Ogun Waterside	Ogun	6.518	4.192	0	
+Ogbe Secondary School	Oredo	Edo	6.330	5.615	0	
+Ogbe-Ibuya Primary School	Oredo	Edo	6.314	5.591	0	
+Federal Government College Ogbomoso	Ogbomosho North	Oyo	8.158	4.229	0	
+Ogudu GRA School Complex	Kosofe	Lagos	6.579	3.384	0	
+Adeniran Ogunsanya College of Education	Ado Odo/Ota	Ogun	6.502	3.110	0	AOCOED
+Railway Line Ogbete Market	Enugu North	Enugu	6.433	7.482	0	
+Ogoloma Health Centre	Okrika	Rivers	4.736	7.079	0	
+Anglican Nursery / Primary School, Ogudu	Kosofe	Lagos	6.573	3.394	0	
+Ogudu Junior Grammar School	Kosofe	Lagos	6.578	3.385	0	
+Ogui Nike Health Center	Enugu North	Enugu	6.434	7.502	0	
+Ogu General Hospital	Ogu Bolo	Rivers	4.722	7.207	0	
+Ladoke Akintola University of Technology, Ogbomoso	Ogbomosho North	Oyo	8.168	4.270	0	
+Ogburi Health Post	Fufore	Adamawa	8.800	12.421	0	
+Ogige Market	Nsukka	Enugu	6.852	7.401	0	
+Gateway International Airport	Ikenne	Ogun	6.933	3.705	0	Ogun Gateway Agro-Cargo Airport
+Ogedegbe Primary School, Warri	Warri South	Delta	5.507	5.762	0	
+Ogiame Primary School	Warri South	Delta	5.523	5.731	0	
+Ogbe-Ijaw Market	Warri South	Delta	5.513	5.747	0	
+Ogo Oluwa Hospital	Odo Otin	Osun	8.024	4.671	0	

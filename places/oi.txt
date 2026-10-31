@@ -1,3 +1,7 @@
+Oyo	Oyo West	Oyo	7.854	3.932	3	Oio|Ojo
+Oko-Oisa	Ikere	Ekiti	7.486	5.286	2	
+Oil Mill Street	Lagos Island	Lagos	6.451	3.396	1	
+Oilmill road, Abulabiri- Fangbe Road	Ogbia	Bayelsa	4.809	6.260	1	
 Sharon Oil	Kaduna South	Kaduna	10.486	7.419	0	
 Salbas Oil	Jos North	Plateau	9.959	8.889	0	
 Zira Oil Co LTD	Jos North	Plateau	9.954	8.892	0	
@@ -28,16 +32,15 @@ Ochet Oil Filling Station	Obio/Akpor	Rivers	4.828	7.064	0
 Forte Oil Filling Station	Obio/Akpor	Rivers	4.848	7.049	0	
 Falcon Bay Oil Filling Station	Uvwie	Delta	5.573	5.800	0	
 Forte Oil	Lagos Island	Lagos	6.448	3.405	0	
-Forte Oil	Eti Osa	Lagos	6.452	3.420	0	
 Dominion Oil Filling Station	Okpe	Delta	5.601	5.694	0	
 Forte Oil	Udu	Delta	5.504	5.789	0	
 Forte Oil	Oshodi/Isolo	Lagos	6.539	3.307	0	
 Lado Oil	Alimosho	Lagos	6.540	3.284	0	
 Agbeke Oil	Ado Odo/Ota	Ogun	6.500	3.095	0	
 Bimppi Oil	Ojo	Lagos	6.484	3.172	0	
-Forte Oil	Oshodi/Isolo	Lagos	6.540	3.296	0	
 Forte Oil	Municipal Area Council	FCT Abuja	9.078	7.496	0	
 Mamu Oil	Kudan	Kaduna	11.291	7.659	0	
+Shago Oil and Gas Ltd Fuel Station	Sardauna	Taraba	6.955	11.119	0	
 Al Oil	Egbeda	Oyo	7.450	4.033	0	
 Moraf Oil	Saki West	Oyo	8.670	3.396	0	
 Chimbo Oil and Gas Ltd	Ogbomosho North	Oyo	8.136	4.248	0	
@@ -70,15 +73,12 @@ Usman Mohammad nig ltd oil	Jos North	Plateau	9.972	8.895	0
 Shafa Oil	Bauchi	Bauchi	10.290	9.803	0	
 Shafa Oil	Bauchi	Bauchi	10.317	9.831	0	
 oil mill market	Obio/Akpor	Rivers	4.858	7.065	0	
-SANI OIL	Ungongo	Kano	12.047	8.579	0	
+Sani Oil	Ungongo	Kano	12.047	8.579	0	
 Capital Oil	Amuwo Odofin	Lagos	6.475	3.294	0	
 Rain Oil, A123, Ilorin, Nigeria	Ilorin South	Kwara	8.429	4.596	0	
 capital oil/festac	Amuwo Odofin	Lagos	6.474	3.294	0	
-Oil Mill Street	Lagos Island	Lagos	6.451	3.396	1	
 Rainbow Oil Ltd	Ibadan South West	Oyo	7.352	3.876	0	
-Oilmill road, Abulabiri- Fangbe Road	Ogbia	Bayelsa	4.809	6.260	1	
 Forte Oil Fuel Station	Eti Osa	Lagos	6.444	3.427	0	
-Forte Oil Fuel Station	Eti Osa	Lagos	6.445	3.423	0	
 Pinnacle Oil Fuel Station	Eti Osa	Lagos	6.430	3.468	0	
 Forte Oil Fuel Station	Eti Osa	Lagos	6.435	3.455	0	
 World Oil Fuel Station	Eti Osa	Lagos	6.435	3.495	0	

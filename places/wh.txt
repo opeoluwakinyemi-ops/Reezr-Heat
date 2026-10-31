@@ -4,12 +4,14 @@ Whiteyaukwar	Kwaya Kusar	Borno	10.432	12.030	2	Huitayankwar
 Whekan	Ipokia	Ogun	6.462	2.742	2	
 Whonwula	Mubi South	Adamawa	10.188	13.376	2	
 Whiteyaukwar B	Kwaya Kusar	Borno	10.433	12.031	2	
-Public School (Black and White)	Kaduna North	Kaduna	10.546	7.444	0	
-White-Dove Group of Schools	Uvwie	Delta	5.535	5.765	0	
-Whimsical Clinic	Obio/Akpor	Rivers	4.834	7.027	0	
-Whayinna Primary School	Lagos Mainland	Lagos	6.496	3.388	0	
-St White Shield Clinic	Alimosho	Lagos	6.539	3.245	0	
-white sand oyingbo	Lagos Mainland	Lagos	6.477	3.388	0	
+Whuntaku	Chibok	Borno	10.885	12.787	2	
+Pama Whitambaya	Hawul	Borno	10.405	12.239	2	
+Whada	Kwaya Kusar	Borno	10.391	11.956	2	Hoda
+Whahemi	Michika	Adamawa	10.595	13.547	2	
+Wine Tappers	Burutu	Delta	5.269	5.796	2	White Tappers
+Whuntaku	Chibok	Borno	10.879	12.800	2	
+Ugbonla Wharf	Ilaje	Ondo	6.190	4.810	2	
+Aiyetoro Wharf	Ilaje	Ondo	6.176	4.821	2	
 Ovie-whisky Avenue	Oredo	Edo	6.333	5.598	1	
 Wharf Road	Apapa	Lagos	6.447	3.372	1	
 Wharf Road	Apapa	Lagos	6.442	3.377	1	
@@ -17,14 +19,17 @@ Wharf Road	Port-Harcourt	Rivers	4.769	7.010	1
 Ovie-whisky close	Oredo	Edo	6.335	5.598	1	
 Ovie-whisky Lane	Oredo	Edo	6.332	5.597	1	
 2nd Ovie-whisky lane	Oredo	Edo	6.333	5.597	1	
-Ovie-whisky Avenue	Oredo	Edo	6.335	5.598	1	
 Ovie-whisky Street	Oredo	Edo	6.337	5.597	1	
 WhetherHead	Fagge	Kano	12.019	8.529	1	
-WHITE HOUSE LINE 2	Jere	Borno	11.820	13.192	1	
+White House Line 2	Jere	Borno	11.820	13.192	1	
 White Street	Chanchaga	Niger	9.640	6.519	1	
 Whiskey Street	Ìkòròdú	Lagos	6.624	3.485	1	
 Whitehead Street	Ìjẹ̀bú Òde	Ogun	6.847	3.937	1	
-Whiteoak School	Eti Osa	Lagos	6.428	3.446	0	
 white lane	Enugu East	Enugu	6.507	7.522	1	
-Whuntaku	Chibok	Borno	10.885	12.787	2	
-Pama Whitambaya	Hawul	Borno	10.405	12.239	2	
+Public School (Black and White)	Kaduna North	Kaduna	10.546	7.444	0	
+White-Dove Group of Schools	Uvwie	Delta	5.535	5.765	0	
+Whimsical Clinic	Obio/Akpor	Rivers	4.834	7.027	0	
+Whayinna Primary School	Lagos Mainland	Lagos	6.496	3.388	0	
+St White Shield Clinic	Alimosho	Lagos	6.539	3.245	0	
+white sand oyingbo	Lagos Mainland	Lagos	6.477	3.388	0	
+Whiteoak School	Eti Osa	Lagos	6.428	3.446	0	

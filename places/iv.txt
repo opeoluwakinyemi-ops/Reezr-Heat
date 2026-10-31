@@ -1,3 +1,4 @@
+Iwo	Iwo	Osun	7.635	4.182	3	Ivo
 Ivianopodi	Etsako East	Edo	7.137	6.591	2	Iyanipodi
 Ivbiuguru	Owan West	Edo	7.014	5.918	2	
 Iviukwe	Etsako East	Edo	7.102	6.589	2	Iyukwe
@@ -5,15 +6,42 @@ Ivbiaro	Owan East	Edo	7.055	6.175	2
 Ivue	Esan North-East	Edo	6.739	6.272	2	Ivune
 Ivorogbo	Isoko South	Delta	5.428	6.344	2	
 Iviotha	Etsako West	Edo	7.127	6.350	2	
-Ivbiore Primary School	Oredo	Edo	6.343	5.614	0	
-IVBIYENEVA PRIMARY SCHOOL	Ikpoba-Okha	Edo	6.321	5.639	0	
-Local Government Primary School Iv, Sango Ota	Odogbolu	Ogun	6.815	3.897	0	
-Local Government Primary School Iv, Sango Ota	Ado Odo/Ota	Ogun	6.709	3.236	0	
 Ivori	Isoko North	Delta	5.419	6.309	2	
 Aguetiti IV	Ndokwa East	Delta	5.821	6.641	2	
 Ivwride	Isoko North	Delta	5.460	6.092	2	
 Ivrogbo	Isoko North	Delta	5.567	6.133	2	
 Iva Valley	Enugu North	Enugu	6.459	7.469	2	
+Ivo	Ivo	Ebonyi	5.909	7.637	2	
+Ivuryo	Konshisha	Benue	7.088	8.693	2	
+Ivornienge	Obi	Nasarawa	8.354	8.887	2	
+Ivioghe	Etsako East	Edo	7.125	6.641	2	Iyogeh
+Ivievir	Konshisha	Benue	7.285	8.621	2	
+Ive	Konshisha	Benue	7.095	8.693	2	
+Ivavgbe	Ushongo	Benue	7.206	8.890	2	
+Ivareve	Gboko	Benue	7.302	8.707	2	
+Ivbiakhara	Owan East	Edo	6.987	6.194	2	Igakhara|Iyakala|Iyekhara
+Abul-Ivur	Gwer East	Benue	7.396	8.556	2	
+Ivwitapere	Ughelli North	Delta	5.476	6.034	2	
+Ivori-Irri	Isoko South	Delta	5.437	6.321	2	
+Ivrogbo	Isoko South	Delta	5.419	6.344	2	
+Aguetiti IV	Ndokwa East	Delta	5.850	6.639	2	
+Tumgbo IV	Sagbama	Bayelsa	5.114	6.154	2	
+Amatolo Camp IV	Sagbama	Bayelsa	5.017	6.057	2	
+Ivo	Ivo	Ebonyi	5.884	7.623	2	Agbegbe Ijoba Ibile Ivo|Ivo Local Government Area
+Iva	Logo	Benue	7.634	9.106	2	
+Ivase	Logo	Benue	7.521	9.340	2	
+Ivase	Ukum	Benue	7.696	9.549	2	
+Ivaase	Wukari	Taraba	7.667	9.791	2	
+Ivii	Buruku	Benue	7.351	9.288	2	
+Ivande	Ushongo	Benue	7.071	9.130	2	
+Ivande	Buruku	Benue	7.187	9.205	2	
+Ivor	Gboko	Benue	7.430	8.914	2	
+Ivase	Gboko	Benue	7.310	8.843	2	
+Ivavel	Gboko	Benue	7.307	8.855	2	
+Ivase	Gboko	Benue	7.253	8.862	2	
+Orekhie-Ivbiela	Esan South-East	Edo	6.506	6.407	2	
+Ugbogui IV	Ovia South-West	Edo	6.683	5.275	2	
+Ajara-Iveda	Badagry	Lagos	6.442	2.900	2	
 Ivory Coast Street	Kaduna North	Kaduna	10.559	7.467	1	
 Upper 3rd Ivbiore Street	Oredo	Edo	6.349	5.615	1	
 Ivbiore Street	Oredo	Edo	6.345	5.618	1	
@@ -27,4 +55,7 @@ Iva Valley Road	Enugu North	Enugu	6.460	7.472	1
 Iva Valley Road	Enugu North	Enugu	6.451	7.453	1	
 Ivie Road	Ethiope East	Delta	5.787	6.114	1	
 Dr Gabriel Ivbjaro Close	Eti Osa	Lagos	6.479	3.574	1	
-Ivo	Ivo	Ebonyi	5.909	7.637	2	
+Ivbiore Primary School	Oredo	Edo	6.343	5.614	0	
+Ivbiyeneva Primary School	Ikpoba-Okha	Edo	6.321	5.639	0	
+Local Government Primary School Iv, Sango Ota	Odogbolu	Ogun	6.815	3.897	0	
+Local Government Primary School Iv, Sango Ota	Ado Odo/Ota	Ogun	6.709	3.236	0	

@@ -1,5 +1,19 @@
-Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
-Bayero University	Dala	Kano	12.016	8.507	0	
+Doguwa	Doguwa	Kano	10.733	8.587	3	Unguwar Rama
+Unguwar Kudu	Tsanyawa	Kano	12.344	7.976	3	
+Unguwar Fari	Karaye	Kano	11.784	8.016	3	
+Unguwar Zubairu	Makoda	Kano	12.420	8.432	3	
+Ungogo Arewa	Ungongo	Kano	12.092	8.495	3	Ungogo
+Unguwar Mahauta	Gezawa	Kano	12.101	8.751	3	
+Zango Layin Gidan Mai Unguwar	Gaya	Kano	11.864	9.001	3	
+Unguwar Mahaukci	Gaya	Kano	11.857	9.004	3	
+Unguwar Arewa	Wudil	Kano	11.791	8.835	3	
+Unguwar Tsamiya	Takai	Kano	11.540	9.261	3	
+Unguwar Fawa	Albasu	Kano	11.616	9.220	3	Tsangaya
+Unguwar Nazara	Bunkure	Kano	11.642	8.648	3	
+Unguwar Findi	Rano	Kano	11.558	8.582	3	
+Unwana	Afikpo North	Ebonyi	5.796	7.932	3	
+Ungogo	Ungongo	Kano	12.092	8.495	3	
+Ungwan Rimi	Kaduna North	Kaduna	10.540	7.450	2	
 Nara Unateze	Nkanu East	Enugu	6.214	7.655	2	
 Ungwan Matangi	Kubau	Kaduna	10.718	8.282	2	Matangi
 Ungwan Dabagudu	Gwandu	Kebbi	12.367	4.743	2	
@@ -220,7 +234,6 @@ Ungwan Haruna	Birnin Kebbi	Kebbi	12.400	4.179	2
 Ungwan Dalma	Kubau	Kaduna	10.789	8.265	2	Dalma
 Ungwan Dado	Kubau	Kaduna	10.757	8.155	2	Ungwan Dabo;Unguwan Dabo
 Ungwan Kaiwa	Jega	Kebbi	12.172	4.197	2	
-Ungwan Noma	Gummi	Zamfara	12.177	4.952	2	
 Ungwan Dandaba	Igabi	Kaduna	10.580	7.489	2	
 Ungwan Dangaladima	Kubau	Kaduna	10.788	8.165	2	Dan Galadima
 Ungwan Merogo	Birnin Kebbi	Kebbi	12.361	4.268	2	
@@ -532,33 +545,14 @@ Ungwan-Mani	Maru	Zamfara	11.415	6.104	2
 Ungwan-Maiawaki	Wasagu-Danko	Kebbi	11.329	6.149	2	
 Ungwan Katoye	Maru	Zamfara	11.246	6.480	2	
 Ungwan Bakayadda	Kudan	Kaduna	11.239	7.781	2	
-National Open University	Igabi	Kaduna	10.614	7.468	0	
-Unicent Group of Schools	Egor	Edo	6.367	5.635	0	
-Unicent Group of School	Egor	Edo	6.361	5.632	0	
-UNIFAC Group of School	Egor	Edo	6.360	5.585	0	
-Unique Touch School	Oredo	Edo	6.310	5.598	0	
-Unival Computer School	Oredo	Edo	6.343	5.612	0	
-Unibound International Group of School	Oredo	Edo	6.344	5.607	0	
-Chinel University Academy	Oredo	Edo	6.338	5.599	0	
-United Baptist Grammar School	Oredo	Edo	6.340	5.624	0	
-Universal Basic Education	Oredo	Edo	6.339	5.625	0	
-Hematology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
-Pharmacy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
-School Of Nursing UNTH	Enugu North	Enugu	6.437	7.478	0	
 University of Ibadan	Ibadan North	Oyo	7.448	3.897	2	
-Unguwar Liman Health Post	Rogo	Kano	11.405	7.744	0	
-Unguwar Malam Amadu Health Post	Rogo	Kano	11.493	7.772	0	
-Unguwar Tofa Health Post	Karaye	Kano	11.786	7.960	0	
-Unguwar Turaki Health Post	Kabo	Kano	11.820	8.231	0	
 Unguwar Hakimi	Shanono	Kano	12.056	7.989	2	
 Hausawa Magaji Gari Mai Unguwa	Gaya	Kano	11.726	9.106	2	
 Unguwar Tanko	Doguwa	Kano	10.699	8.664	2	Tanko
-Doguwa	Doguwa	Kano	10.733	8.587	3	Unguwar Rama
 Unguwar Nasarawa	Doguwa	Kano	10.670	8.546	2	Asada
 Unguwar Natsohuwa	Doguwa	Kano	10.686	8.575	2	Unguwar Tsohuwa
 Unguwar Bala	Doguwa	Kano	11.149	8.526	2	Ungwar Bara
 Unguwar Jatau	Doguwa	Kano	11.141	8.535	2	Ungwar Jato
-Unguwar Kudu	Tsanyawa	Kano	12.344	7.976	3	
 Unguwar Goje	Kumbotso	Kano	11.957	8.525	2	
 Unguwar Uku	Tarauni	Kano	11.957	8.565	2	
 Unguwar Jakada	Gwale	Kano	11.965	8.462	2	
@@ -591,23 +585,7 @@ Un Maigari	Shani	Borno	10.251	12.136	2
 Unguwan Mallam Dahiru	Kwaya Kusar	Borno	10.477	11.777	2	
 Unguwar Basharu	Aleiro	Kebbi	12.280	4.421	2	
 Kwagushar Unguwar Isa	Hawul	Borno	10.526	12.358	2	
-Ungwan Yelwa Primary School	Chikun	Kaduna	10.448	7.436	0	
-SCIENCE PROJECT PRI and SEC SCHOOL, UNGUWA UKU	Tarauni	Kano	11.958	8.562	0	
-University of Nigeria,Enugu Campus UNEC	Enugu South	Enugu	6.423	7.508	0	
-UnlessGod Filling Station	Yenegoa	Bayelsa	4.947	6.331	0	
 10 Housing Unit	Konduga	Borno	11.655	13.419	2	
-Unique Intl. School	Uvwie	Delta	5.566	5.774	0	
-Unity Life Nusary and Primary School	Warri South	Delta	5.536	5.754	0	
-International Unity School	Obio/Akpor	Rivers	4.839	7.031	0	
-Unique Fountain Academy	Obio/Akpor	Rivers	4.838	7.034	0	
-Universal basic dducation junior	Gwoza	Borno	11.219	13.784	0	
-State Epid Unit	Sokoto South	Sokoto	13.050	5.246	0	
-Epid Unit Offices	Sokoto South	Sokoto	13.050	5.246	0	
-Aleru University	Aleiro	Kebbi	12.307	4.489	0	
-Mountain Top University	Obafemi Owode	Ogun	6.731	3.414	0	
-University of Maiduguri Teaching Hospital	Jere	Borno	11.825	13.183	0	
-Uniport	Obio/Akpor	Rivers	4.900	6.904	0	
-Unity School, Ejigbo	Ejigbo	Osun	7.888	4.322	0	
 Unguwar Dawa	Rogo	Kano	11.404	7.881	2	Dawa
 Unguwar Tsari	Rogo	Kano	11.520	7.719	2	
 Unguwar Mairogo	Rogo	Kano	11.504	7.717	2	
@@ -630,7 +608,6 @@ Unguwar Tofa	Karaye	Kano	11.786	7.965	2	Ungwan Tofa
 Unguwar Kudu	Kiru	Kano	11.708	8.094	2	
 Gabari	Kiru	Kano	11.496	8.044	2	Ungwan Gabari
 Unguwar Mani	Kiru	Kano	11.551	8.041	2	
-Unguwar Fari	Karaye	Kano	11.784	8.016	3	
 Unguwar Kure	Karaye	Kano	11.807	8.066	2	
 Unguwar Mani	Karaye	Kano	11.754	8.055	2	
 Unguwar Haladu	Kiru	Kano	11.406	8.254	2	
@@ -648,7 +625,6 @@ Unguwar Nagge	Kiru	Kano	11.374	8.265	2
 Unguwar Inusa	Bebeji	Kano	11.367	8.301	2	
 Unguwar Buhari	Bebeji	Kano	11.546	8.384	2	
 Unguwar Madugu	Makoda	Kano	12.422	8.392	2	
-Unguwar Zubairu	Makoda	Kano	12.420	8.432	3	
 Unguwar Yamma	Kunchi	Kano	12.430	8.350	2	
 Unguwar Sunusi	Makoda	Kano	12.450	8.418	2	
 Unguwar Kudu	Kunchi	Kano	12.418	8.357	2	
@@ -671,7 +647,6 @@ Unguwar Dawa	Minjibir	Kano	12.261	8.660	2
 Mangwarori Unguwar Yamma	Ungongo	Kano	12.049	8.458	2	
 Unguwar Masaka	Ungongo	Kano	12.072	8.500	2	
 Sabuwar Unguwa	Ungongo	Kano	12.120	8.485	2	
-Ungogo Arewa	Ungongo	Kano	12.092	8.495	3	Ungogo
 Dauni Fegi Layin Mai Unguwa	Minjibir	Kano	12.107	8.586	2	
 Unguwar Juma	Dawakin Kudu	Kano	11.907	8.623	2	
 Unguwar Kanawa	Dawakin Kudu	Kano	11.883	8.682	2	
@@ -689,7 +664,6 @@ Unguwar Gaude	Gabasawa	Kano	12.182	8.802	2	Ungua Gaude
 Unguwar Arewa	Ajingi	Kano	12.051	9.003	2	
 Unguwar Bai	Ajingi	Kano	12.048	8.982	2	Ungua Bai
 Unguwar Gara	Gabasawa	Kano	11.986	8.846	2	
-Unguwar Mahauta	Gezawa	Kano	12.101	8.751	3	
 Unguwar Yan Gishiri	Gezawa	Kano	12.097	8.760	2	
 Jula Unguwar Durimi	Gezawa	Kano	12.041	8.709	2	
 Unguwar Dogo	Warawa	Kano	11.894	8.857	2	
@@ -699,25 +673,20 @@ Tudun Wada Layin Gidan Mai Unguwar	Gaya	Kano	11.918	9.025	2
 Makarya	Ajingi	Kano	11.940	9.111	2	Unguwar Makarya Sabuwa
 Unguwar Burabisai	Madobi	Kano	11.856	8.478	2	
 Unguwar Bango	Madobi	Kano	11.852	8.475	2	
-Zango Layin Gidan Mai Unguwar	Gaya	Kano	11.864	9.001	3	
-Unguwar Mahaukci	Gaya	Kano	11.857	9.004	3	
 Unguwar Jibi	Warawa	Kano	11.928	8.771	2	
 Kano State University Of Science And Technology	Wudil	Kano	11.805	8.856	2	
-Unguwar Arewa	Wudil	Kano	11.791	8.835	3	
 Unguwar Tsamiya	Albasu	Kano	11.667	8.989	2	Faragai
 Unguwar Fulani	Albasu	Kano	11.661	8.965	2	
 Agalawa Unguwar Gabas	Bunkure	Kano	11.706	8.606	2	
 Unguwar Barde	Bunkure	Kano	11.704	8.543	2	
 Sabuwar Unguwa	Kura	Kano	11.755	8.603	2	
 Unguwar Kalla	Garum Mallam	Kano	11.735	8.455	2	
-Unguwar Tsamiya	Takai	Kano	11.540	9.261	3	
 Unguwar Reka Huguma	Takai	Kano	11.564	9.318	2	Huguma;Kogin Huguma
 Unguwarfa	Garko	Kano	11.722	8.766	2	
 Unguwar Baki	Bunkure	Kano	11.704	8.632	2	
 Unguwar Kaya	Bunkure	Kano	11.706	8.644	2	
 Ungwar Magaji	Dawakin Kudu	Kano	11.740	8.666	2	
 Unguwar Mahauta	Wudil	Kano	11.742	8.850	2	
-Unguwar Fawa	Albasu	Kano	11.616	9.220	3	Tsangaya
 Unguwar Gyada Arewa	Gaya	Kano	11.758	8.944	2	
 Unguwar Busau	Garko	Kano	11.557	8.996	2	Unguwar Kuka;Unguwan Kuka
 Unguwar Mangoro	Garko	Kano	11.555	8.994	2	
@@ -727,21 +696,1156 @@ Unguwar Liman	Sumaila	Kano	11.369	8.840	2
 Unguwar Yaro	Tudun Wada	Kano	11.316	8.755	2	
 Unguwar Mahauta	Kibiya	Kano	11.449	8.720	2	
 Unguwar Ruwa	Tudun Wada	Kano	11.354	8.769	2	
-Unguwar Nazara	Bunkure	Kano	11.642	8.648	3	
 Unguwar Zana	Kibiya	Kano	11.505	8.674	2	
-Unguwar Findi	Rano	Kano	11.558	8.582	3	
 Unguwar Ajuji	Bunkure	Kano	11.655	8.525	2	
 Unguwar Kudu	Garum Mallam	Kano	11.694	8.438	2	
+Unakala	Ahoada East	Rivers	5.027	6.599	2	
+Ung Sule	Toro	Bauchi	10.429	8.780	2	
+Unguwan Mallam Sa'adu	Toro	Bauchi	10.438	8.810	2	
+Ovara-Unukpo	Ughelli North	Delta	5.668	6.093	2	
+Ungwan Bambami	Safana	Katsina	12.420	7.300	2	
+Unguwar Gabas	Kazaure	Jigawa	12.659	8.429	2	
+Unguwar Jibrin	Kaugama	Jigawa	12.410	9.652	2	
+Unguwar Arewa	Kazaure	Jigawa	12.663	8.408	2	
+Unguwar Yamma	Kazaure	Jigawa	12.648	8.417	2	
+Ungushi	Kebbe	Sokoto	11.978	4.689	2	
+Unguwar Gabas	Sabon Gari	Kaduna	11.111	7.737	2	
+Unguwar Juma	Zaria	Kaduna	11.056	7.695	2	
+Unguwan Sanusi	Kaduna South	Kaduna	10.529	7.409	2	
+Unguwar Sarki	Kaduna North	Kaduna	10.542	7.445	2	
+Unguwar Fatika	Zaria	Kaduna	11.066	7.691	2	
+Unguwan Rimi	Zangon Kataf	Kaduna	9.580	8.227	2	
+Unguwar Gaya	Zangon Kataf	Kaduna	9.759	8.424	2	
+Unguwar Rimi	Kumbotso	Kano	11.903	8.577	2	
+Unguwar Ya	Birnin Kudu	Jigawa	11.387	9.276	2	
+Unguwar Gai	Kibiya	Kano	11.609	8.731	2	
+Ungongo	Ungongo	Kano	12.106	8.490	2	
+Unguwa Uku Kauyen Alu	Tarauni	Kano	11.956	8.574	2	
+Unguwar Bai	Ajingi	Kano	12.046	9.060	2	
+Unguwar Tsohuwa	Doguwa	Kano	10.688	8.544	2	
+Unguwa Uku Cikin Gari	Tarauni	Kano	11.957	8.564	2	
+Unguwar Gano	Tarauni	Kano	11.946	8.559	2	
+Unguwar Duniya	Dawakin Kudu	Kano	11.878	8.614	2	
+Unguwar Tudu	Gwarzo	Kano	11.943	7.982	2	
+Ungongo	Ungongo	Kano	12.042	8.443	2	
+Unguwar Rimi	Tofa	Kano	11.973	8.344	2	
+Unguwar Rai	Baure	Katsina	12.717	8.822	2	
+Unuimo	Unuimo	Imo	5.796	7.230	2	
+Unik	Auyo	Jigawa	12.382	10.177	2	
+Unguwar Lalle	Sabon Birni	Sokoto	13.508	6.112	2	
+Unguwar Rimi	Kaduna North	Kaduna	10.532	7.460	2	
+Unguwan Dosa	Kaduna North	Kaduna	10.569	7.452	2	
+Unguwar Shanu	Kaduna North	Kaduna	10.543	7.427	2	
+Ungwar Bisa	Larmurde	Adamawa	9.429	11.606	2	Yanga
+Utagba Uno	Ndokwa West	Delta	5.888	6.387	2	
+Unyor	Konshisha	Benue	7.174	8.551	2	
+Unyene	Mbo	Akwa Ibom	4.628	8.184	2	
+Unwana	Afikpo North	Ebonyi	5.796	7.937	2	
+Unum	Obi	Nasarawa	8.339	8.768	2	
+Unubi	Nnewi South	Anambra	5.960	7.042	2	
+Unthlur Kuthli	Biu	Borno	10.773	12.036	2	
+Unongu	Gwer East	Benue	7.440	8.592	2	
+Unom	Takum	Taraba	7.474	10.128	2	
+Unom	Takum	Taraba	7.422	10.111	2	
+Unom	Konshisha	Benue	7.134	8.621	2	
+Unkwan-Turaki	Maru	Zamfara	11.371	6.073	2	
+Unipepeiye	Obafemi Owode	Ogun	7.021	3.467	2	
+Ungwar Tipi	Yorro	Taraba	8.886	11.439	2	
+Ungwar Sarkin Shiga	Shelleng	Adamawa	10.259	12.289	2	
+Ungwar Sarkin Hizi	Hawul	Borno	10.361	12.056	2	
+Makera	Birnin Kebbi	Kebbi	12.513	4.118	2	Ungwan Makera|Ungwar Makera
+Ungwar Hayatu	Girei	Adamawa	9.536	12.435	2	Bumara
+Ungwar Ahmadu	Ardo-Kola	Taraba	8.823	10.951	2	
+Ungwar Abba	Ardo-Kola	Taraba	8.837	11.360	2	
+Ungwan Zarumayi	Shiroro	Niger	9.809	6.534	2	
+Ungwan Zakara	Kafur	Katsina	11.518	7.619	2	
+Ungwan Yaro	Malumfashi	Katsina	11.757	7.625	2	
+Ungwan Yaro	Soba	Kaduna	11.149	7.997	2	
+Ungwan Yari	Bakori	Katsina	11.557	7.527	2	
+Ungwan Yanoko	Rogo	Kano	11.454	7.923	2	Yanoko
+Ungwan Yakubu	Bebeji	Kano	11.348	8.313	2	Yakubu
+Ungwan Wanzamai	Bakori	Katsina	11.617	7.550	2	
+Ungwan Wakili	Birnin Gwari	Kaduna	10.721	6.572	2	
+Ungwan Waki	Gummi	Zamfara	12.215	4.993	2	
+Ungwan Umaru	Zaria	Kaduna	11.033	7.559	2	
+Ungwan Turaki	Soba	Kaduna	11.096	7.932	2	
+Ungwan Tsamiya	Kafur	Katsina	11.766	7.757	2	
+Ungwan Tofa	Karaye	Kano	11.782	7.982	2	
+Ungwan Tabi	Giwa	Kaduna	11.067	7.552	2	
+Ungwan Sora Gora	Madobi	Kano	11.824	8.351	2	
+Ungwan Sonoma	Kudan	Kaduna	11.233	7.648	2	
+Ungwan Shinkafa	Kubau	Kaduna	10.683	8.100	2	
+Ungwan Shika	Arewa Dandi	Kebbi	12.580	3.929	2	
+Ungwan Shida	Gwarzo	Kano	11.961	7.834	2	
+Ungwan Shekaro	Birnin Gwari	Kaduna	10.676	6.563	2	
+Ungwan Seriki	Birnin Gwari	Kaduna	10.711	6.542	2	
+Ungwan Sarikin Ushiba	Rafi	Niger	10.334	6.344	2	
+Ungwan Sarkin Noma Mara	Ikara	Kaduna	11.324	8.180	2	Sarkin Noma Mara
+Ungwan Sarkin Noma	Lafia	Nasarawa	8.858	8.942	2	
+Ungwan Sarkin Makera	Maru	Zamfara	11.250	6.450	2	
+Ungwan Sarkin Kogi	Zaria	Kaduna	11.033	7.689	2	
+Ungwan Sarkin Kida	Tudun Wada	Kano	11.268	8.366	2	Sarkin Kida
+Ungwan Sarkin Dangi	Kankara	Katsina	11.828	7.532	2	
+Ungwan Sarikin Taba	Maru	Zamfara	11.264	6.493	2	
+Ungwan Sansani	Sanga	Kaduna	9.346	8.565	2	Ungwan-San-Sani
+Ungwan Sani	Zangon Kataf	Kaduna	9.991	8.075	2	
+Ungwan Samailu	Soba	Kaduna	11.097	7.891	2	
+Ungwan Samai	Kafur	Katsina	11.670	7.602	2	
+Ungwan Sagwari	Shiroro	Niger	10.517	6.817	2	
+Ungwan Rina	Shendam	Plateau	8.683	9.473	2	Ungwanrina
+Ungwan Rimi	Tofa	Kano	11.973	8.331	2	
+Ung Rimi	Kumbotso	Kano	11.911	8.570	2	Ungwan Rimi
+Ungwan Rimi	Kiru	Kano	11.517	8.158	2	
+Ungwan Rimi	Wamba	Nasarawa	9.007	8.599	2	
+Ungwan Rimi	Obi	Nasarawa	8.457	8.683	2	
+Ungwan Rajau	Gwarzo	Kano	11.900	7.883	2	
+Ungwan Rafin	Giwa	Kaduna	11.126	7.548	2	
+Ungwan-Rabo	Birnin Gwari	Kaduna	11.300	6.990	2	
+Ungwan Patachi	Kachia	Kaduna	10.034	7.998	2	
+Ungwan Panganu	Zaria	Kaduna	11.061	7.772	2	
+Ungwan Pa Hausawa	Lere	Kaduna	10.380	8.482	2	
+Ungwan Pa	Zangon Kataf	Kaduna	9.909	8.129	2	
+Angwan Pa	Kachia	Kaduna	9.826	7.328	2	Unguwan Pa|Ungwan Pa
+Ungwan Oba	Kiru	Kano	11.321	8.266	2	Olia
+Ungwan Nwabo	Shiroro	Niger	9.781	6.646	2	
+Ungwan-Nundu	Sanga	Kaduna	9.324	8.551	2	
+Ungwan Noma	Gummi	Zamfara	12.167	4.933	2	
+Ungwan Ninzam	Sanga	Kaduna	9.311	8.546	2	
+Ungwan Narange	Kafur	Katsina	11.695	7.637	2	
+Ungwan Nagori	Soba	Kaduna	11.145	7.899	2	
+Ungwan Musa	Bebeji	Kano	11.582	8.220	2	
+Ungwan Musa	Tudun Wada	Kano	11.268	8.412	2	Musa
+Ungwan Mijin Goggo	Sabon Gari	Kaduna	11.155	7.750	2	
+Ungwan-Marafa	Birnin Gwari	Kaduna	11.007	6.517	2	
+Ungwan Mapera	Ikara	Kaduna	11.278	8.130	2	Angwan Mapera|Mapera
+Ungwan-Mani	Maru	Zamfara	11.414	6.106	2	
+Ungwan Mangoro	Lafia	Nasarawa	8.474	8.535	2	
+Ungwan-Mallam-Musa	Sanga	Kaduna	9.445	8.571	2	
+Ungwan Mallam Jibirin	Soba	Kaduna	11.150	7.967	2	
+Vagbak	Sanga	Kaduna	9.194	8.344	2	Ungwan Mallam Isa
+Ungwan Mallam Chungun	Sanga	Kaduna	9.474	8.564	2	
+Ungwan Mallam Amadu	Soba	Kaduna	10.710	8.036	2	
+Ungwan Makwado	Arewa Dandi	Kebbi	12.298	3.738	2	
+Ungwan Makama	Shiroro	Niger	9.797	6.604	2	
+Ugwan-Makafo	Sanga	Kaduna	9.097	8.564	2	Ungwan Makafo
+Ungwan Maitakobi	Bakori	Katsina	11.627	7.545	2	
+Ungwan Maisentu	Maru	Zamfara	11.332	6.403	2	
+Ungwan Mai Samari	Qua'An Pan	Plateau	8.633	8.950	2	
+Ungwan Mainasara	Gwarzo	Kano	11.894	7.876	2	
+Ungwan Maikama	Sanga	Kaduna	9.159	8.600	2	Ungwan Maitakama
+Ungwan Maigari	Rogo	Kano	11.517	7.717	2	
+Ungwan Maida	Dan Musa	Katsina	12.255	7.293	2	
+Ungwan-Maiawaki	Wasagu-Danko	Kebbi	11.319	6.144	2	
+Ungwan Mahauta	Bakori	Katsina	11.608	7.556	2	
+Ungwan Magaji	Karaye	Kano	11.817	7.933	2	
+Ungwan Madawaikin Kurebe	Borgu	Niger	10.483	3.867	2	
+Ungwan Madaki	Munya	Niger	10.017	6.950	2	
+Ungwan Mada	Obi	Nasarawa	8.375	8.784	2	
+Ungwan Liman Riyawa	Chikun	Kaduna	10.683	7.200	2	
+Ungwan-Lele	Jega	Kebbi	12.311	4.288	2	
+Ungwan Lagwada	Kafur	Katsina	11.680	7.647	2	
+Ungwan Labbo	Arewa Dandi	Kebbi	12.493	3.905	2	
+Ungwan Kwaso	Sanga	Kaduna	9.138	8.513	2	
+Ungwan Kuriya	Maiyama	Kebbi	12.143	4.367	2	
+Ungwan Kurama	Lere	Kaduna	10.412	8.480	2	
+Ungwan Koro	Safana	Katsina	12.399	7.373	2	
+Ungwan Koro	Giwa	Kaduna	11.065	7.506	2	
+Ungwan Korau	Kafur	Katsina	11.752	7.785	2	
+Ungwan Kawo	Shiroro	Niger	10.117	6.750	2	
+Ungwan Kawari	Karaye	Kano	11.800	7.933	2	
+Ungwan Kaura	Sanga	Kaduna	9.164	8.528	2	
+Ungwan Katsinawa	Gwarzo	Kano	11.883	7.900	2	
+Ungwan Kati	Maru	Zamfara	11.224	6.392	2	
+Ungwan Kasua	Obi	Nasarawa	8.452	8.645	2	
+Ungwan Kariya	Birnin Gwari	Kaduna	10.634	6.517	2	
+Ungwan Kanawa	Soba	Kaduna	10.766	8.031	2	
+Ungwan Kaka	Kiru	Kano	11.621	8.185	2	
+Ungwan Kafi	Zaria	Kaduna	11.050	7.583	2	
+Ungwan Kadiri	Toro	Bauchi	10.295	9.062	2	
+Kabin Giro	Birnin Magaji-Kiyaw	Zamfara	12.458	6.745	2	Ungwan Kabin Giro
+Ungwan Jato	Akwanga	Nasarawa	9.148	8.407	2	
+Ungwan Jato	Wamba	Nasarawa	9.013	8.639	2	
+Ungwan Jangel	Kafur	Katsina	11.624	7.663	2	
+Ungwan Jalatu	Bakori	Katsina	11.624	7.595	2	
+Ungwan Jaje	Karaye	Kano	11.763	7.938	2	
+Ungwan Ja’e	Malumfashi	Katsina	11.726	7.611	2	
+Ungwan Jabawa	Giwa	Kaduna	11.164	7.514	2	
+Ungwan-Iwa	Maru	Zamfara	11.263	6.415	2	
+Ungwan Iliya	Kafur	Katsina	11.617	7.669	2	
+Ungwan Ibrahim Ninzam	Sanga	Kaduna	9.366	8.596	2	
+Ungwan Hausa	Maru	Zamfara	11.489	6.509	2	
+Ungwan Hashimu	Maru	Zamfara	11.330	6.368	2	
+Ungwan Hariban	Kalgo	Kebbi	12.436	3.955	2	
+Ungwan Halilu	Makarfi	Kaduna	11.299	7.872	2	Halilu
+Ungwan Gyargu	Bunza	Kebbi	12.208	3.749	2	
+Ungwan Guduba	Giwa	Kaduna	11.017	7.150	2	Angwan Guduba
+Ungwan Gorko	Bunza	Kebbi	12.280	3.789	2	
+Ungwan Gora	Soba	Kaduna	11.089	7.887	2	
+Ungwan-Gobe	Arewa Dandi	Kebbi	12.744	3.968	2	
+Ungwan Giginya	Zaria	Kaduna	11.033	7.700	2	
+Ungwan Gateri	Maru	Zamfara	11.221	6.379	2	
+Ungwan Gariya	Kafur	Katsina	11.717	7.550	2	
+Ungwan Gari	Malumfashi	Katsina	11.837	7.804	2	
+Ungwan Garba	Kafur	Katsina	11.704	7.695	2	
+Ungwan Ganga	Malumfashi	Katsina	11.767	7.633	2	
+Ungwan Galadima	Mariga	Niger	11.044	6.024	2	
+Ungwan Galadima	Lafia	Nasarawa	8.950	8.900	2	
+Ungwan Gabas	Rogo	Kano	11.517	7.750	2	
+Ungwan Gabari	Kiru	Kano	11.494	8.045	2	Gabari
+Feferuwa	Lafia	Nasarawa	8.700	8.705	2	Fereruwa|Ungwan Feferuwa|UngwanFeferuwa
+Ungwan Dutsi	Kafur	Katsina	11.819	7.813	2	
+Ungwan Dutsi	Malumfashi	Katsina	11.791	7.600	2	
+Ungwan Dorowa	Sanga	Kaduna	9.163	8.578	2	
+Ungwan Doka	Kudan	Kaduna	11.196	7.826	2	
+Ungwan Didila	Toro	Bauchi	10.286	9.004	2	
+Ungwan Dawa	Tofa	Kano	11.994	8.334	2	
+Ungwan Dawa	Rogo	Kano	11.403	7.886	2	Dawa
+Ungwan Dan Sarki	Soba	Kaduna	11.125	7.959	2	
+Ungwan Dan Nana	Rogo	Kano	11.530	7.738	2	
+Ungwan Dankoma	Maru	Zamfara	11.394	6.442	2	
+Ungwan Dan Kolo	Rogo	Kano	11.517	7.733	2	
+Ungwan Dangeda	Maru	Zamfara	11.380	6.545	2	
+Ungwan Dandada	Kafur	Katsina	11.549	7.708	2	
+Ungwan Danchibi	Kafur	Katsina	11.783	7.737	2	
+Ungwan Danbeki	Sanga	Kaduna	9.133	8.617	2	Ungwau-Danbeki
+Ungwan Dan Bauci	Maru	Zamfara	11.218	6.233	2	
+Ungwan Dan-Bako	Safana	Katsina	12.351	7.201	2	
+Ungwan Damusa	Munya	Niger	9.993	6.889	2	
+Ungwan Damu	Musawa	Katsina	12.036	7.782	2	
+Ungwan Dadi	Shendam	Plateau	8.719	9.493	2	Ungwandadi
+Ungwan Bawo	Gwarzo	Kano	11.961	7.968	2	
+Ungwan Bature	Lafia	Nasarawa	8.833	8.917	2	
+Ungwan Barkono	Kafur	Katsina	11.767	7.767	2	
+Ungwan Barkono	Kafur	Katsina	11.648	7.561	2	
+Ungwan Barde	Bakori	Katsina	11.606	7.545	2	
+Ungwan Barau	Malumfashi	Katsina	11.917	7.636	2	
+Ungwan Barau	Bakori	Katsina	11.590	7.622	2	
+Ungwan Barau	Rogo	Kano	11.500	7.717	2	
+Ungwan Bahagu	Sanga	Kaduna	9.360	8.603	2	
+Randa Kamara	Sanga	Kaduna	9.066	8.493	2	Ungwan Bahago
+Ungwan Bafada	Rafi	Niger	10.439	6.382	2	
+Ungwan Ayuba	Soba	Kaduna	10.984	8.044	2	
+Ungwan Audu	Giwa	Kaduna	11.125	7.523	2	
+Ungwan-Atile	Sanga	Kaduna	9.208	8.597	2	
+Ungwan Ashau	Igabi	Kaduna	10.914	7.770	2	
+Ungwan Ari	Malumfashi	Katsina	11.723	7.624	2	
+Ungwan Arduna	Kalgo	Kebbi	12.342	4.169	2	Ungwan Ardua
+Ungwan Amadu	Obi	Nasarawa	8.448	8.653	2	
+Ungwan Alu	Tambuwal	Sokoto	12.453	4.825	2	
+Ungwan Alhazai	Soba	Kaduna	11.124	7.929	2	
+Ungwan Alhaji	Kafur	Katsina	11.612	7.701	2	
+Ungwan Adar	Safana	Katsina	12.347	7.205	2	
+Ungwan Adada	Kankara	Katsina	11.862	7.589	2	
+Ungwan Abduga	Makarfi	Kaduna	11.233	7.900	2	
+Ungwa Mesamari	Argungu	Kebbi	12.644	4.635	2	
+Ungwan Magoje	Maru	Zamfara	11.381	6.449	2	Ungwa Magoje
+Ungwa Kaye	Birnin Kebbi	Kebbi	12.524	4.149	2	
+Ungwa Dole	Birnin Kebbi	Kebbi	12.516	4.078	2	
+Ungwa Baki	Arewa Dandi	Kebbi	12.925	4.096	2	
+Ungwa	Olamaboro	Kogi	7.246	7.630	2	Inwa
+Koha	Akwanga	Nasarawa	9.014	8.219	2	Unguwar Zaria|Ungwan Zaria|Zaria
+Katanza	Akwanga	Nasarawa	9.064	8.220	2	Unguwar Yamusa|Ungwan Yamusa|Yamusa
+Unguwar Yaiyaro	Funakaye	Gombe	10.932	11.361	2	
+Unguwar Wereng	Riyom	Plateau	9.556	8.739	2	
+Unguwar Waziri	Lere	Kaduna	10.483	8.596	2	
+Tsuna	Gusau	Zamfara	12.172	6.936	2	Unguwar Tsuna
+Ungwan Tsofo Poda	Maru	Zamfara	11.501	6.537	2	Tsofo Pada|Unguwar Tsofo Pada
+Unguwar Taro	Rafi	Niger	10.520	6.369	2	
+Unguwar Tanko	Doguwa	Kano	10.672	8.668	2	Tanko
+Unguwar Tabkin Fili	Isa	Sokoto	13.299	6.700	2	Ungwan Tabkin Fili
+Unguwar Sarkin Pawa	Gusau	Zamfara	11.593	6.609	2	Ungwan Sarkin Pawa
+Sarki	Wasagu-Danko	Kebbi	11.703	5.042	2	Unguwar Sarki|Ungwan Sarki
+Saoni	Bungudu	Zamfara	12.300	6.589	2	Unguwar Saoni
+Unguwa Sanyi	Jaba	Kaduna	9.604	7.977	2	Unguwar Sanyi
+Unguwar Rana	Kauru	Kaduna	9.947	8.525	2	
+Ungua Rai	Baure	Katsina	12.732	8.814	2	Rai|Unguwar Rai|Ungwan Rai
+Unguwar Pukumo	Hawul	Borno	10.411	12.551	2	
+Unguwar Namanda	Birnin Gwari	Kaduna	10.520	6.313	2	
+Nakoto	Gusau	Zamfara	12.156	6.926	2	Unguwar Nakoto
+Naiya	Tsafe	Zamfara	12.043	6.820	2	Unguwar Naiya
+Nabubu	Tsafe	Zamfara	12.080	6.891	2	Unguwar Nabubu
+Ung Momon	Riyom	Plateau	9.508	8.588	2	Unguwar Momon
+Unguwar Mele	Lere	Kaduna	10.460	8.691	2	
+Mata	Gusau	Zamfara	12.223	6.915	2	Unguwar Mata
+Mani	Gusau	Zamfara	12.121	6.755	2	Unguwar Mani
+Ungwan Mallam Sani	Gusau	Zamfara	11.667	6.623	2	Mallam Sani|Unguwar Mallam Sani
+Ungwan Mallam Nakande	Bungudu	Zamfara	11.601	6.519	2	Mallam Nakande|Unguwar Mallam Nakande
+Ungwan Mallam Koshi	Gusau	Zamfara	11.636	6.554	2	Unuwar Mallam Koshi
+Unguwar Mallam	Jaba	Kaduna	9.392	8.007	2	Mallam
+Unguwar Malami	Doguwa	Kano	10.633	8.691	2	
+Makera	Gusau	Zamfara	12.133	6.977	2	Unguwar Makera
+Unguwar Makarya Sabuwa	Ajingi	Kano	11.934	9.102	2	
+Majiro	Gusau	Zamfara	12.304	6.919	2	Unguwar Majiro
+Ungwan Madi	Jega	Kebbi	12.144	4.196	2	Mahdi|Unguwar Mahdi|Ungwan Mahdi
+Unguwar Madugu	Lere	Kaduna	10.337	8.555	2	
+Unguwar Madaiki	Jema'A	Kaduna	9.396	8.099	2	Madaiki
+Ungwan Kwasea	Sanga	Kaduna	9.177	8.495	2	Kwasea|Unguwar Kwasea
+Kulodo	Bungudu	Zamfara	12.120	6.794	2	Unguwar Kulodo
+Unguwar Kuka	Garko	Kano	11.556	8.999	2	Ungwan Kuka
+Unguwar Kayama	Garki	Jigawa	12.346	9.202	2	
+Ungwan Kaura	Tsafe	Zamfara	11.715	6.880	2	Kaura|Unguwar Kaura
+Karki	Gusau	Zamfara	12.197	6.941	2	Unguwar Karki
+Unguwa Kanrana	Kachia	Kaduna	9.726	7.760	2	Unguwar Kanrana
+Unguwar Jaja	Toro	Bauchi	10.113	9.140	2	Jaja
+Hayin Baja	Gusau	Zamfara	12.117	6.972	2	Unguwar Hayin Baja
+Gora	Gusau	Zamfara	12.179	6.920	2	Unguwar Gora|Unguwar Wake
+Ungwan Gaya	Zangon Kataf	Kaduna	9.777	8.375	2	Unguwar Gaya
+Unguwar Ganinki	Gaya	Kano	11.902	9.095	2	
+Ungwan Galadima	Kachia	Kaduna	9.631	7.986	2	Unguwar Galadima
+Barrakin Chori	Jaba	Kaduna	9.499	8.047	2	Borrakin Chori|Galadima|Unguwar Galadima
+Ungwan Baki	Jema'A	Kaduna	9.556	8.294	2	Fada|Unguwar Fada
+Unguwar Doka	Kauru	Kaduna	10.004	8.533	2	
+Angwan Dauda	Jaba	Kaduna	9.373	8.031	2	Dauda|Unguwar Dauda
+Unguwar Danya	Garki	Jigawa	12.418	9.238	2	
+Dan Dabe	Bungudu	Zamfara	12.193	6.872	2	Unguwar Dan Dabe
+Ungwan-Dan Baidu	Maru	Zamfara	11.558	6.501	2	Dan Baidu|Unguwar Dan Baidu
+Bawa	Bungudu	Zamfara	12.127	6.882	2	Unguwar Bawa
+Unguwar Bawa	Lere	Kaduna	10.396	8.612	2	
+Unguwar Bako	Lere	Kaduna	10.157	8.596	2	
+Unguwan Bako	Sanga	Kaduna	9.229	8.216	2	Bako|Unguwar Bako
+Unguwar Auramo	Ringim	Jigawa	12.126	9.185	2	
+Audu	Bungudu	Zamfara	12.103	6.871	2	Unguwar Audu
+Unguwar Ari	Garki	Jigawa	12.324	9.055	2	
+Mere	Jema'A	Kaduna	9.463	8.211	2	Amere|Unguwar Amere
+Aluku	Kaura Namoda	Zamfara	12.494	6.511	2	Unguwar Aluku
+Unguwan Wusama	Karaye	Kano	11.772	8.118	2	
+Unguwan Kwari	Karaye	Kano	11.812	8.029	2	
+Unguwan Kigo	Karaye	Kano	11.768	8.048	2	
+Unguwan Gudalai	Sumaila	Kano	11.251	8.887	2	
+Unguwan Dabai	Karaye	Kano	11.868	8.078	2	
+Unguwan Bunungu	Rano	Kano	11.350	8.545	2	
+Unguwa Lalle	Sabon Birni	Sokoto	13.585	6.105	2	Ungwa Lalle
+Unguwa	Biriniwa	Jigawa	12.910	10.104	2	
+Danzaki	Gezawa	Kano	12.021	8.675	2	Ungua Zaki
+Unguan Kutare	Balanga	Gombe	9.963	11.623	2	
+Unguakeli	Maigatari	Jigawa	12.631	9.627	2	
+Ungua Jiburu	Kaugama	Jigawa	12.410	9.689	2	
+Ungua Bai	Ajingi	Kano	12.047	8.983	2	
+Ungkwan Yawa	Rafi	Niger	10.417	6.317	2	
+Unge	Konshisha	Benue	7.022	8.807	2	
+Unenurhie	Ughelli North	Delta	5.368	6.060	2	
+Unende	Konshisha	Benue	7.358	8.559	2	
+Undzughur	Gwer East	Benue	7.424	8.222	2	
+Unde	Vandeikya	Benue	7.029	8.979	2	
+Unaso	Gboko	Benue	7.297	8.665	2	
+Unande	Guma	Benue	8.098	8.575	2	
+Ubulu-Unor	Aniocha South	Delta	6.192	6.468	2	
+Sabon Ungwan Gwandu	Birnin Gwari	Kaduna	11.194	6.881	2	
+Ungwan Zaria	Akwanga	Nasarawa	9.016	8.295	2	Ancho|Rinze
+Obetim-Uno	Ndokwa East	Delta	5.746	6.442	2	
+Nufawa	Birnin Kebbi	Kebbi	12.333	4.286	2	Ungwan Nufawa
+Nto Unang	Etim Ekpo	Akwa Ibom	4.960	7.599	2	
+Ntong Uno	Obot Akara	Akwa Ibom	5.240	7.614	2	
+Ngwo-Uno	Udi	Enugu	6.442	7.414	2	Ngwo
+Ungwar Jarau	Karim Lamido	Taraba	9.324	11.114	2	Marabi
+Ungwan Ali Nungu	Sanga	Kaduna	9.195	8.167	2	Kwakwasa|Kwankwasa
+Jodo	Wurno	Sokoto	13.276	5.648	2	Ungwan Jodo
+Itan Unan	Biase	Cross River	5.418	8.104	2	
+Ikot Una	Ukanafun	Akwa Ibom	4.928	7.565	2	
+Idumuje-Uno	Aniocha North	Delta	6.365	6.449	2	Idumujuno
+Ungwan Madakin Numbu	Sanga	Kaduna	9.205	8.428	2	Gwado
+Ungwan Gankon	Zangon Kataf	Kaduna	9.932	8.243	2	Fadan Ikulu
+Emu-Uno	Ndokwa West	Delta	5.632	6.245	2	
+Ejeme Unor	Aniocha South	Delta	6.019	6.373	2	Ejeme Uno|Ijema|Ijemma Unor
+Bagga	Arewa Dandi	Kebbi	12.628	4.119	2	Ungwan Bagga
+Angawan Kutari	Ganjuwa	Bauchi	10.634	10.185	2	Anguwan Kutari|Ungwan Kutari
+Ungwan Gaya	Zangon Kataf	Kaduna	9.807	8.279	2	Abobo
+Abara Uno	Ndokwa East	Delta	5.833	6.617	2	
+Ungwan Magawata	Igabi	Kaduna	10.723	7.272	2	
+Ungwar Shanu	Kaduna North	Kaduna	10.546	7.426	2	
+Ungwan Tama	Igabi	Kaduna	10.540	7.381	2	
+Ungwan Bado	Kaduna North	Kaduna	10.554	7.473	2	
+Ungwan Rimi	Kaduna North	Kaduna	10.529	7.461	2	
+Ungwan Yamu	Kumbotso	Kano	11.898	8.434	2	
+Ungwan Kanawa	Kaduna North	Kaduna	10.553	7.441	2	
+Isge	Gwoza	Borno	11.000	13.328	2	Izge-Unore
+Unande	Gwer East	Benue	7.350	8.315	2	
+Unande	Gwer East	Benue	7.400	8.306	2	
+Unumbur	Gwer East	Benue	7.459	8.489	2	
+Unyiongo	Gwer West	Benue	7.557	8.263	2	
+Unyo	Gwer West	Benue	7.581	8.269	2	
+Unande	Gwer West	Benue	7.683	8.319	2	
+Unhambe	Gwer West	Benue	7.709	8.300	2	
+Ungwan Megida	Arewa Dandi	Kebbi	12.608	3.972	2	
+Ungwan Labo	Arewa Dandi	Kebbi	12.511	3.918	2	
+Ungwan Kanta	Arewa Dandi	Kebbi	12.625	3.882	2	
+Ungwan Shekarao	Kalgo	Kebbi	12.459	3.951	2	
+Ungwan Dangaladima	Kalgo	Kebbi	12.429	3.960	2	
+Ungwan Mala	Bunza	Kebbi	12.370	3.929	2	
+Ungwan Boto	Bunza	Kebbi	12.387	3.945	2	
+Ungwan Nakarde	Bunza	Kebbi	12.373	3.972	2	
+Ungwan Bogobiri	Bunza	Kebbi	12.209	3.796	2	
+Ungwan Wada	Dandi	Kebbi	12.074	3.945	2	
+Unguwar Gaje	Zango	Katsina	12.931	8.512	2	
+Unguwar Magami	Yankwashi	Jigawa	12.781	8.503	2	
+Ungua Salau	Baure	Katsina	12.780	8.902	2	
+Ungua Isa	Baure	Katsina	12.812	8.941	2	
+Ungua Babba	Baure	Katsina	12.807	8.803	2	
+Ungua Jibo	Baure	Katsina	12.783	8.816	2	
+Ungua Sarki Pawa	Baure	Katsina	12.819	8.788	2	
+Ungua Maigidan	Baure	Katsina	12.825	8.776	2	
+Ungua Tsamia	Baure	Katsina	12.748	8.802	2	
+Ungua Turaki	Baure	Katsina	12.732	8.903	2	
+Unguwar Korau	Babura	Jigawa	12.734	8.984	2	
+Ungua Fari	Baure	Katsina	12.708	8.920	2	
+Unguwar Genji	Babura	Jigawa	12.667	8.954	2	
+Unguwar Kullu	Babura	Jigawa	12.660	8.989	2	
+Unguwar Tsamia	Babura	Jigawa	12.654	8.980	2	
+Ungua Mallam Iza	Babura	Jigawa	12.614	8.773	2	
+Ungua Faru	Babura	Jigawa	12.634	8.892	2	
+Ungua Dufua	Babura	Jigawa	12.573	8.905	2	
+Ungua Naino	Babura	Jigawa	12.561	8.839	2	
+Ungua Rogo	Babura	Jigawa	12.570	8.784	2	
+Ungua Magaji	Kazaure	Jigawa	12.695	8.636	2	
+Ungua Badado	Kazaure	Jigawa	12.681	8.533	2	
+Ungua Nayaji	Baure	Katsina	12.676	8.737	2	
+Ungua Ganji	Babura	Jigawa	12.657	8.735	2	
+Ungua Yarima	Kazaure	Jigawa	12.658	8.653	2	
+Ungua Kanawa	Babura	Jigawa	12.609	8.721	2	
+Ungua Ballami	Kazaure	Jigawa	12.615	8.639	2	
+Ungua Faru	Kazaure	Jigawa	12.606	8.593	2	
+Ungua Tibi	Babura	Jigawa	12.572	8.711	2	
+Ungua Ainaji	Babura	Jigawa	12.566	8.722	2	
+Ungua Ganji	Babura	Jigawa	12.528	8.725	2	
+Ungua Jita	Dambatta	Kano	12.500	8.600	2	
+Ungua Mallam Kolori	Dambatta	Kano	12.525	8.714	2	
+Ungwan Ganji	Ingawa	Katsina	12.425	8.062	2	
+Ungwan Kaya	Roni	Jigawa	12.449	8.368	2	
+Mai-Ungwa	Dambatta	Kano	12.370	8.486	2	
+Ungwan Gawo	Tsanyawa	Kano	12.241	8.087	2	
+Ungwan Yamma	Bagwai	Kano	12.105	8.029	2	
+Ungwan Maguzawa	Shanono	Kano	12.016	8.016	2	
+Ungua Genji	Babura	Jigawa	12.488	8.830	2	
+Ungua Wanza	Babura	Jigawa	12.410	8.808	2	
+Ungua Gaiya Kuwaru	Garki	Jigawa	12.356	8.888	2	
+Ungua Tudu	Garki	Jigawa	12.344	8.842	2	
+Ungwar Kanya	Ringim	Jigawa	12.221	8.989	2	
+Ungua Gaude	Gabasawa	Kano	12.181	8.803	2	
+Unguwar Dango	Ringim	Jigawa	12.143	8.983	2	
+Ungwan Ali	Sandamu	Katsina	12.881	8.339	2	
+Ungwan Tudu	Yankwashi	Jigawa	12.792	8.395	2	
+Ungwan Mani	Roni	Jigawa	12.681	8.226	2	
+Ungwafuri	Kazaure	Jigawa	12.655	8.390	2	
+Ungwan Yangwanki	Safana	Katsina	12.449	7.326	2	
+Ungwan Gyada	Dan Musa	Katsina	12.289	7.296	2	
+Ungwan Makera	Dan Musa	Katsina	12.221	7.352	2	
+Ungwan Kadanya	Dan Musa	Katsina	12.103	7.490	2	
+Ungwan Samai	Kankara	Katsina	12.041	7.442	2	
+Ungwan Saidu	Musawa	Katsina	12.071	7.728	2	
+Ungwan Kakun	Musawa	Katsina	12.017	7.577	2	
+Ungwan Makada	Musawa	Katsina	12.006	7.581	2	
+Ungwan Danmasu	Birnin Gwari	Kaduna	10.587	6.159	2	
+Ungwan Ayuba	Birnin Gwari	Kaduna	10.525	6.273	2	
+Ungwan Zakara	Birnin Gwari	Kaduna	10.591	6.301	2	
+Ungwan Masaki	Chikun	Kaduna	10.441	6.948	2	
+Ungwa Ruwa	Wamako	Sokoto	13.172	5.176	2	
+Ungwan Akara	Agwara	Niger	10.859	4.350	2	
+Ungwan Doreyi	Agwara	Niger	10.791	4.396	2	
+Ungwan Mallam	Kankara	Katsina	11.952	7.247	2	
+Ungwan Maijimina	Malumfashi	Katsina	11.940	7.583	2	
+Ungwan Maizurma	Malumfashi	Katsina	11.950	7.625	2	
+Ungwan Bugau	Malumfashi	Katsina	11.984	7.648	2	
+Ungwan Biso	Gwarzo	Kano	11.952	7.832	2	
+Ungwan Makera	Gwarzo	Kano	11.945	7.880	2	
+Ungwan Dankyandi	Gwarzo	Kano	11.929	7.841	2	
+Ungwan Sauni	Kankara	Katsina	11.921	7.434	2	
+Ungwan Oguuda	Kankara	Katsina	11.841	7.370	2	
+Ungwan Wotoha	Kankara	Katsina	11.851	7.451	2	
+Ungwan Shehu	Kankara	Katsina	11.889	7.607	2	
+Ungwan Marke	Gwarzo	Kano	11.883	7.905	2	
+Ungwan Dinya	Malumfashi	Katsina	11.830	7.854	2	
+Ungwan Kwabo	Kankara	Katsina	11.819	7.588	2	
+Ungwan Kawo	Malumfashi	Katsina	11.797	7.478	2	
+Unchida	Tsafe	Zamfara	11.826	7.031	2	
+Ungwan Barau	Faskari	Katsina	11.750	7.081	2	
+Ungwan Dan Shuni	Bakori	Katsina	11.739	7.297	2	
+Ungwan Barau	Malumfashi	Katsina	11.732	7.612	2	
+Ungwan Bawa	Kafur	Katsina	11.723	7.858	2	
+Ungwan Bawa	Karaye	Kano	11.725	7.882	2	
+Ungwan Alhazi	Karaye	Kano	11.748	7.932	2	
+Ungwan Kyanbo	Kafur	Katsina	11.712	7.813	2	
+Ungwan Dawa	Kafur	Katsina	11.684	7.795	2	
+Ungwan Maijakai	Kafur	Katsina	11.699	7.767	2	
+Ungwan Makera	Kafur	Katsina	11.688	7.604	2	
+Ungwan Noma	Bakori	Katsina	11.672	7.482	2	
+Unguwan Karata	Faskari	Katsina	11.718	7.103	2	
+Ungwan Sarkin Aiki Ibiran	Faskari	Katsina	11.696	7.027	2	
+Ungwan Koli	Bakori	Katsina	11.639	7.501	2	
+Ungwan Dan Gada	Kafur	Katsina	11.658	7.642	2	
+Ungwan Daudu	Rogo	Kano	11.631	7.852	2	
+Ungwan Wabi	Rogo	Kano	11.625	7.871	2	
+Ungwan Randi	Karaye	Kano	11.660	7.941	2	
+Ungwan Dodo	Kiru	Kano	11.657	7.990	2	
+Ungwan Madaki	Rogo	Kano	11.599	7.913	2	
+Ungwan Maiganga	Rogo	Kano	11.616	7.843	2	
+Ungwan Maye	Rogo	Kano	11.602	7.832	2	
+Ungwan Tudu	Rogo	Kano	11.615	7.815	2	
+Ungwan Idi	Kafur	Katsina	11.608	7.681	2	
+Ungwan Madugu	Bakori	Katsina	11.592	7.521	2	
+Ungwan Barmo	Faskari	Katsina	11.599	7.283	2	
+Ungwan Mallam	Funtua	Katsina	11.582	7.184	2	
+Ungwan Barshi	Funtua	Katsina	11.533	7.240	2	
+Ungwan Rimi	Danja	Katsina	11.530	7.426	2	
+Ungwan Dinya	Bakori	Katsina	11.552	7.461	2	
+Ungwan Mainasara	Kafur	Katsina	11.529	7.673	2	
+Ungwan Dan Tagwai	Rogo	Kano	11.540	7.722	2	
+Ungwan Hore	Rogo	Kano	11.550	7.773	2	
+Ungwan Ringi	Rogo	Kano	11.553	7.784	2	
+Ungwan Paki	Rogo	Kano	11.538	7.793	2	
+Ungwan Liman	Rogo	Kano	11.543	7.820	2	
+Ungwan Sarki	Rogo	Kano	11.547	7.877	2	
+Ungwan Audu	Rogo	Kano	11.476	7.803	2	
+Ungwan Isa	Rogo	Kano	11.497	7.768	2	
+Ungwan Liman Koshe	Danja	Katsina	11.476	7.447	2	
+Ungwan Larabi	Danja	Katsina	11.501	7.446	2	
+Ungwan Dado	Danja	Katsina	11.492	7.401	2	
+Ungwan Adamu	Funtua	Katsina	11.495	7.375	2	
+Ungwan Liman	Funtua	Katsina	11.485	7.352	2	
+Ungwan Mani	Funtua	Katsina	11.496	7.334	2	
+Ungwan Salau	Funtua	Katsina	11.475	7.348	2	
+Ungwan Mai Shanu	Dandume	Katsina	11.496	7.243	2	
+Ungwan Dan Zaria	Funtua	Katsina	11.489	7.223	2	
+Ungwan Mallam Salla	Dandume	Katsina	11.493	7.199	2	
+Ungwan Rimi	Sabuwa	Katsina	11.514	7.092	2	
+Ungwan Dan Birnin	Dandume	Katsina	11.428	7.137	2	
+Ungwan Duka Baki	Dandume	Katsina	11.443	7.155	2	
+Ungwan Mai Komo	Dandume	Katsina	11.463	7.203	2	
+Ungwan Mallam Tsofo	Dandume	Katsina	11.440	7.204	2	
+Ungwan Mai Tsamiya	Funtua	Katsina	11.473	7.242	2	
+Ungwan Daudu Kira	Dandume	Katsina	11.471	7.253	2	
+Ungwan Marinai	Dandume	Katsina	11.449	7.271	2	
+Ungwan Bagudu	Dandume	Katsina	11.424	7.255	2	
+Ungwan Maliki	Funtua	Katsina	11.455	7.311	2	
+Ungwan Idi Mai Jakkai	Dandume	Katsina	11.444	7.300	2	
+Ungwan Dutsi	Dandume	Katsina	11.427	7.298	2	
+Ungwan Dan Galadima	Funtua	Katsina	11.465	7.354	2	
+Ungwan Babantua	Funtua	Katsina	11.427	7.365	2	
+Ungwan Gambo	Danja	Katsina	11.445	7.426	2	
+Ungwan Dan Zaki	Danja	Katsina	11.454	7.411	2	
+Ungwan Amodu	Danja	Katsina	11.465	7.395	2	
+Ungwan Rogo	Danja	Katsina	11.464	7.444	2	
+Ungwan Ganai	Danja	Katsina	11.449	7.443	2	
+Ungwan Makashi	Rogo	Kano	11.436	7.739	2	
+Ungwan Maguzawa	Rogo	Kano	11.457	7.794	2	
+Ungwan Mallamawa	Makarfi	Kaduna	11.438	7.936	2	
+Ungwan Shadauro	Ikara	Kaduna	11.449	7.996	2	
+Ungwan Kwabe	Ikara	Kaduna	11.435	7.985	2	
+Ungwan Kayale	Ikara	Kaduna	11.424	7.976	2	
+Ungwan Zabo	Ikara	Kaduna	11.388	7.985	2	
+Ungwan Kadabo	Makarfi	Kaduna	11.421	7.925	2	
+Ungwan Kauran Dawa	Makarfi	Kaduna	11.387	7.904	2	
+Ungwan Lallau	Rogo	Kano	11.393	7.747	2	
+Ungwan Abokin Baba	Danja	Katsina	11.379	7.598	2	
+Ungwan Madaki	Danja	Katsina	11.399	7.524	2	
+Ungwan Agagi	Danja	Katsina	11.425	7.448	2	
+Ungwan Mallam Moma	Danja	Katsina	11.391	7.427	2	
+Ungwan Dan Kauye	Danja	Katsina	11.416	7.396	2	
+Ungwan Mallam Moma	Funtua	Katsina	11.378	7.351	2	
+Ungwan Rabo Baduku	Funtua	Katsina	11.395	7.358	2	
+Ungwan Dan Fangi	Funtua	Katsina	11.413	7.369	2	
+Ungwan Maude	Funtua	Katsina	11.398	7.315	2	
+Ungwan Kibo	Dandume	Katsina	11.375	7.294	2	
+Ungwan Ruan Ango	Dandume	Katsina	11.399	7.272	2	
+Ungwan Kauran Pawa	Dandume	Katsina	11.384	7.287	2	
+Ungwan Ali	Dandume	Katsina	11.412	7.265	2	
+Ungwan Liman	Dandume	Katsina	11.409	7.206	2	
+Ungwan Dan Tagwaye	Dandume	Katsina	11.399	7.181	2	
+Ungwan Mazadu	Dandume	Katsina	11.420	7.197	2	
+Ungwan Bature	Sabuwa	Katsina	11.399	7.134	2	
+Ungwan Barau	Sabuwa	Katsina	11.414	7.117	2	
+Ungwan Ala	Sabuwa	Katsina	11.408	7.099	2	
+Ungwan Dan Auta	Sabuwa	Katsina	11.396	7.049	2	
+Ungwan Kimba	Sabuwa	Katsina	11.377	7.026	2	
+Ungwan Pa	Sabuwa	Katsina	11.390	7.032	2	
+Ungwan Dangaragi	Sabuwa	Katsina	11.362	7.029	2	
+Ungwan Chitumu	Birnin Gwari	Kaduna	11.328	7.014	2	
+Ungwan Liman	Sabuwa	Katsina	11.338	7.127	2	
+Ungwan Kachilo	Dandume	Katsina	11.357	7.148	2	
+Ungwan Nassarawa	Dandume	Katsina	11.327	7.160	2	
+Ungwan Haruna	Dandume	Katsina	11.354	7.189	2	
+Ungwan Liman	Dandume	Katsina	11.371	7.196	2	
+Ungwan Amadu	Dandume	Katsina	11.344	7.238	2	
+Ungwan Mai Takalmi	Dandume	Katsina	11.371	7.253	2	
+Ungwan Lasanawa	Funtua	Katsina	11.370	7.324	2	
+Ungwan Ango Makeri	Funtua	Katsina	11.348	7.364	2	
+Ungwan Adamu	Funtua	Katsina	11.363	7.386	2	
+Ungwan Mai Dawa	Funtua	Katsina	11.370	7.366	2	
+Ungwan Kori	Giwa	Kaduna	11.357	7.438	2	
+Ungwan Amadu	Giwa	Kaduna	11.338	7.438	2	
+Ungwan Sarkin Fulani	Giwa	Kaduna	11.347	7.459	2	
+Ungwan Sogiji	Giwa	Kaduna	11.343	7.477	2	
+Ungwan Wada	Danja	Katsina	11.337	7.541	2	
+Ungwan Kauran Fawa	Danja	Katsina	11.352	7.562	2	
+Ungwan Mande	Danja	Katsina	11.342	7.626	2	
+Ungwan Madaki	Danja	Katsina	11.333	7.657	2	
+Ungwan Dogarra	Danja	Katsina	11.373	7.682	2	
+Ungwan Deri	Danja	Katsina	11.361	7.686	2	
+Ungwan Ango	Kudan	Kaduna	11.366	7.744	2	
+Ungwan Daudu	Kudan	Kaduna	11.346	7.780	2	
+Ungwan Dan Magani	Kudan	Kaduna	11.355	7.789	2	
+Ungwan Tamowa	Makarfi	Kaduna	11.359	7.867	2	
+Ungwan Rimi	Makarfi	Kaduna	11.349	7.874	2	
+Ungwan Mummuni	Ikara	Kaduna	11.357	7.971	2	
+Ungwan Mummini	Makarfi	Kaduna	11.305	7.927	2	
+Ungwan Cerwa	Makarfi	Kaduna	11.277	7.924	2	
+Ungwan Dan Haruna	Kudan	Kaduna	11.316	7.801	2	
+Ungwan Yalwa	Kudan	Kaduna	11.284	7.779	2	
+Ungwan Boka	Kudan	Kaduna	11.314	7.727	2	
+Ungwan Marku	Kudan	Kaduna	11.295	7.703	2	
+Ungwan Audu	Danja	Katsina	11.309	7.621	2	
+Ungwan Galadima	Danja	Katsina	11.283	7.619	2	
+Ungwan Sintiti	Giwa	Kaduna	11.297	7.470	2	
+Ungwan Maidawa	Giwa	Kaduna	11.275	7.443	2	
+Ungwan Mallam Idi	Giwa	Kaduna	11.314	7.469	2	
+Ungwan Mudu	Giwa	Kaduna	11.294	7.381	2	
+Ungwan Tukur	Giwa	Kaduna	11.319	7.374	2	
+Ungwan Dan Bako	Giwa	Kaduna	11.276	7.372	2	
+Ungwan Mai Laya	Funtua	Katsina	11.299	7.340	2	
+Ungwan Madaki	Funtua	Katsina	11.289	7.327	2	
+Ungwan Ajia	Funtua	Katsina	11.274	7.319	2	
+Ungwan Tado	Dandume	Katsina	11.318	7.283	2	
+Ungwan Dahiru	Dandume	Katsina	11.308	7.297	2	
+Ungwan Shatambaya	Dandume	Katsina	11.286	7.272	2	
+Ungwan Halilu	Giwa	Kaduna	11.267	7.279	2	
+Ungwan Kwana Duke	Dandume	Katsina	11.301	7.262	2	
+Ungwan Gagarau	Dandume	Katsina	11.304	7.231	2	
+Ungwan Wanzam	Dandume	Katsina	11.291	7.231	2	
+Ungwan Isa	Dandume	Katsina	11.317	7.201	2	
+Ungwan Mallam Bako	Dandume	Katsina	11.302	7.185	2	
+Ungwan Maude	Birnin Gwari	Kaduna	11.302	7.004	2	
+Ungwan Daudu	Sabuwa	Katsina	11.266	7.001	2	
+Ungwan Hamidu	Sabuwa	Katsina	11.238	7.103	2	
+Ungwan Dandi	Sabuwa	Katsina	11.255	7.127	2	
+Ungwan Abarma	Sabuwa	Katsina	11.227	7.117	2	
+Ungwan Usman	Sabuwa	Katsina	11.219	7.119	2	
+Ungwan Zegezagi	Sabuwa	Katsina	11.237	7.131	2	
+Ungwan Wakili	Sabuwa	Katsina	11.265	7.133	2	
+Ungwan Sani	Sabuwa	Katsina	11.255	7.152	2	
+Ungwan Musa	Sabuwa	Katsina	11.230	7.151	2	
+Ungwan Alananan	Dandume	Katsina	11.267	7.208	2	
+Ungwan Yusufu	Giwa	Kaduna	11.225	7.266	2	
+Ungwan Bakutu	Giwa	Kaduna	11.220	7.299	2	
+Ungwan Jibo	Giwa	Kaduna	11.256	7.283	2	
+Ungwan Mallam Tanko	Giwa	Kaduna	11.231	7.307	2	
+Ungwan Pa	Giwa	Kaduna	11.251	7.358	2	
+Ungwan Dogon Kawo	Giwa	Kaduna	11.239	7.377	2	
+Ungwan Masadu	Giwa	Kaduna	11.226	7.386	2	
+Ungwan Sarkin Noma	Giwa	Kaduna	11.246	7.394	2	
+Ungwan Bature	Giwa	Kaduna	11.228	7.406	2	
+Ungwan Garba	Giwa	Kaduna	11.240	7.461	2	
+Ungwan Shika	Kudan	Kaduna	11.261	7.693	2	
+Ungwan Makera	Kudan	Kaduna	11.239	7.771	2	
+Ungwan Salihu	Kudan	Kaduna	11.230	7.753	2	
+Ungwan Mallam Bala	Makarfi	Kaduna	11.255	7.925	2	
+Ungwan Bakuntu	Soba	Kaduna	11.180	7.926	2	
+Ungwan Mallam Buba	Makarfi	Kaduna	11.198	7.883	2	
+Ungwan Gwarzo	Sabon Gari	Kaduna	11.214	7.754	2	
+Ungwan Rimi	Sabon Gari	Kaduna	11.186	7.690	2	
+Ungwan Mai Gyadan	Kudan	Kaduna	11.217	7.654	2	
+Ungwan Marau	Sabon Gari	Kaduna	11.209	7.652	2	
+Ungwan Mijinyawa	Sabon Gari	Kaduna	11.192	7.635	2	
+Ungwan Ali Maikano	Giwa	Kaduna	11.188	7.444	2	
+Ungwan Ganga	Giwa	Kaduna	11.195	7.457	2	
+Ungwan Lambu	Giwa	Kaduna	11.176	7.419	2	
+Ungwan Bayaro	Giwa	Kaduna	11.213	7.377	2	
+Ungwan Kanwa	Giwa	Kaduna	11.207	7.338	2	
+Ungwan Mallam Alassan	Giwa	Kaduna	11.177	7.224	2	
+Ungwan Jatau	Sabuwa	Katsina	11.212	7.149	2	
+Gidan Mai Ungwan	Sabuwa	Katsina	11.202	7.121	2	
+Mai Ungwan	Sabuwa	Katsina	11.207	7.111	2	
+Ungwan Mallam	Giwa	Kaduna	11.143	7.110	2	
+Ungwan Sandu	Giwa	Kaduna	11.126	7.131	2	
+Ungwan Sabo	Sabuwa	Katsina	11.166	7.173	2	
+Ungwan Boyi	Giwa	Kaduna	11.134	7.286	2	
+Ungwan Makeri	Giwa	Kaduna	11.164	7.389	2	
+Ungwan Barebari	Giwa	Kaduna	11.124	7.376	2	
+Ungwan Bako	Giwa	Kaduna	11.134	7.400	2	
+Ungwan Na Ikko	Giwa	Kaduna	11.142	7.421	2	
+Ungwan Turawa	Giwa	Kaduna	11.174	7.458	2	
+Ungwan Yaro	Giwa	Kaduna	11.151	7.471	2	
+Ungwan Mai Shanu	Giwa	Kaduna	11.144	7.590	2	
+Ungwan Barau	Giwa	Kaduna	11.142	7.611	2	
+Ungwan Naibi	Sabon Gari	Kaduna	11.176	7.650	2	
+Ungwan Kubanni	Zaria	Kaduna	11.127	7.650	2	
+Ungwan Abarshi	Sabon Gari	Kaduna	11.168	7.722	2	
+Ungwan Labaran	Sabon Gari	Kaduna	11.170	7.755	2	
+Ungwan Lumbayi	Zaria	Kaduna	11.111	7.667	2	
+Ungwan Zarumai	Giwa	Kaduna	11.103	7.616	2	
+Ungwan Makera	Giwa	Kaduna	11.112	7.609	2	
+Ungwan Bakoshi	Giwa	Kaduna	11.077	7.407	2	
+Ungwan Mallam	Giwa	Kaduna	11.088	7.409	2	
+Ungwan Kalu	Giwa	Kaduna	11.082	7.279	2	
+Ungwan Babale	Giwa	Kaduna	11.121	7.270	2	
+Ungwan Namiji	Giwa	Kaduna	11.113	7.263	2	
+Ungwan Kurbawa	Giwa	Kaduna	11.079	7.145	2	
+Ungwan Na Ruka	Giwa	Kaduna	11.110	7.105	2	
+Ungwan Danko	Giwa	Kaduna	11.118	7.092	2	
+Ungwan Mijinyawa	Giwa	Kaduna	11.060	7.038	2	
+Ungwan Sule Dangambo	Giwa	Kaduna	11.063	7.171	2	
+Ungwan Kanawa	Giwa	Kaduna	11.060	7.220	2	
+Ungwan Aruwa	Giwa	Kaduna	11.049	7.358	2	
+Ungwan Sadiku	Giwa	Kaduna	11.034	7.370	2	
+Ungwan Baburun	Giwa	Kaduna	11.051	7.374	2	
+Ungwan Wakaso	Giwa	Kaduna	11.031	7.377	2	
+Ungwan Tanko	Zaria	Kaduna	11.050	7.557	2	
+Ungwan Alu	Zaria	Kaduna	11.068	7.592	2	
+Ungwan Audi	Zaria	Kaduna	11.030	7.576	2	
+Ungwan Pan Filani	Zaria	Kaduna	11.054	7.604	2	
+Ungwan Bature	Zaria	Kaduna	11.069	7.636	2	
+Ungwan Sarkin Kogi	Zaria	Kaduna	11.042	7.751	2	
+Ungwan Sharubutu	Zaria	Kaduna	11.035	7.797	2	
+Ungwan Gora	Soba	Kaduna	11.022	7.995	2	
+Ungwan Labaran	Zaria	Kaduna	11.018	7.785	2	
+Ungwan Dabosa	Zaria	Kaduna	11.007	7.776	2	
+Ungwan Ribabiyu	Zaria	Kaduna	11.004	7.732	2	
+Ungwan Sarkin Rafi	Zaria	Kaduna	11.018	7.724	2	
+Ungwan Makera	Zaria	Kaduna	11.005	7.613	2	
+Ungwan Sani	Zaria	Kaduna	11.018	7.575	2	
+Ungwan Bakoshi	Giwa	Kaduna	11.011	7.266	2	
+Ungawa Sayin	Koko-Besse	Kebbi	11.377	4.362	2	
+Unurhie-Aghalokpe	Okpe	Delta	5.761	5.884	2	Unurhie-Aghalokpa
+Ungwan Sarkin Kudu	Alkaleri	Bauchi	10.247	10.322	2	
+Ungwanganji	Akko	Gombe	10.332	10.893	2	
+Ungwan Rana	Tsafe	Zamfara	11.909	6.862	2	
+Ungwan Buda	Tsafe	Zamfara	11.837	6.772	2	
+Ungwan Shantali	Tsafe	Zamfara	11.830	6.774	2	
+Ungwan Sarkin Baka	Faskari	Katsina	11.741	6.996	2	
+Ungwan Bauka	Gusau	Zamfara	11.661	6.615	2	
+Ungwan Bagini	Tsafe	Zamfara	11.686	6.871	2	
+Ungwan Murumi	Faskari	Katsina	11.667	6.956	2	
+Ungwan Darami	Faskari	Katsina	11.567	6.901	2	
+Ungwan Tamanyi	Faskari	Katsina	11.581	6.971	2	
+Ungwan Itakawa	Faskari	Katsina	11.588	6.962	2	
+Ungwan Sarkin Makera	Faskari	Katsina	11.597	6.981	2	
+Ungwan Korar Wuta	Faskari	Katsina	11.604	6.980	2	
+Ungwan Laya	Maru	Zamfara	11.456	6.388	2	
+Ungwan-Dutsi	Maru	Zamfara	11.383	6.334	2	
+Ungwan Dan Mori	Maru	Zamfara	11.233	6.475	2	
+Ungwan-Makeri	Maru	Zamfara	11.196	6.464	2	
+Ungwan Kimba	Birnin Kebbi	Kebbi	12.432	4.164	2	
+Ungwan Hirce	Jega	Kebbi	12.265	4.368	2	Ungan Hirce
+Ungwan Sani	Jega	Kebbi	12.294	4.373	2	
+Ungwan Mika	Maru	Zamfara	11.371	6.459	2	
+Ungwan-Waki	Maru	Zamfara	11.359	6.375	2	Unguwan Waki
+Ikot Unya	Mkpat Enin	Akwa Ibom	4.762	7.756	2	
+Ungwan Mani	Karaye	Kano	11.748	8.044	2	
+Ungwan Dawaki	Kiru	Kano	11.715	8.103	2	
+Ungwan Banebari	Kiru	Kano	11.607	8.149	2	
+Unguwan Dan Gambo	Tudun Wada	Kano	11.197	8.523	2	
+Ungwan Tambaya	Ikara	Kaduna	11.460	8.089	2	
+Ungwan Jaka	Ikara	Kaduna	11.443	8.115	2	
+Ungwan Gangarda	Ikara	Kaduna	11.386	8.077	2	
+Ungwan Rumi	Makarfi	Kaduna	11.359	8.031	2	
+Ungwan Galadima	Ikara	Kaduna	11.333	8.081	2	
+Ungwan Maikora	Kiru	Kano	11.378	8.223	2	
+Ungwan Danjuma	Kiru	Kano	11.371	8.205	2	
+Ungwan Jifa	Tudun Wada	Kano	11.354	8.345	2	
+Ungwan Mallam Sale	Tudun Wada	Kano	11.377	8.379	2	
+Ungwan Galadima	Ikara	Kaduna	11.233	8.180	2	
+Ungwan Dandagi	Ikara	Kaduna	11.301	8.122	2	
+Ungwan Kado	Makarfi	Kaduna	11.287	8.034	2	
+Ungwan Madakiri Tafida	Makarfi	Kaduna	11.291	8.054	2	
+Ungwan Madaki	Makarfi	Kaduna	11.265	8.056	2	
+Ungwan Waga	Makarfi	Kaduna	11.288	8.009	2	
+Ungwan Kanawa	Makarfi	Kaduna	11.259	8.006	2	
+Ungwan Turaki	Soba	Kaduna	11.157	8.001	2	
+Ungwan Barau	Ikara	Kaduna	11.171	8.150	2	
+Ungwan Katsalle	Ikara	Kaduna	11.158	8.153	2	
+Ungwan Bakoshi	Ikara	Kaduna	11.189	8.153	2	
+Ungwan Sarkin Noma Hanau	Ikara	Kaduna	11.195	8.142	2	
+Ungwan Nuhu	Ikara	Kaduna	11.167	8.203	2	
+Ungwan Mai Randa	Ikara	Kaduna	11.153	8.199	2	
+Ungwan Sarki	Ikara	Kaduna	11.180	8.208	2	
+Ungwan Maikarfi	Ikara	Kaduna	11.207	8.215	2	
+Ungwan Musa	Kubau	Kaduna	11.003	8.291	2	
+Ungwan Telemu	Soba	Kaduna	11.000	8.086	2	
+Ungwan Maikore	Soba	Kaduna	11.015	8.143	2	
+Unguwan Taiki	Karaye	Kano	11.787	8.112	2	
+Unguwan Baure	Sumaila	Kano	11.464	8.940	2	
+Unguwan Lato	Tudun Wada	Kano	11.388	8.767	2	
+Unguwan Ganji	Tudun Wada	Kano	11.371	8.760	2	
+Ungwar Sunusi	Tudun Wada	Kano	11.239	8.511	2	
+Ungwar Dan Goshi	Doguwa	Kano	11.153	8.570	2	
+Ungwar Danjuma	Doguwa	Kano	11.143	8.551	2	
+Ungwar Lamu	Doguwa	Kano	11.144	8.545	2	
+Ungwar Bara	Doguwa	Kano	11.147	8.526	2	
+Ungwar Jato	Doguwa	Kano	11.140	8.535	2	
+Ungwan Lemu	Ikara	Kaduna	11.146	8.216	2	
+Ungwan Madaki	Ikara	Kaduna	11.153	8.215	2	
+Ungwan Chiroma	Soba	Kaduna	11.122	8.017	2	
+Ungwan Limam	Soba	Kaduna	11.055	8.049	2	
+Ungwan Gariga	Soba	Kaduna	11.062	8.110	2	
+Nkpa Uno	Obot Akara	Akwa Ibom	5.255	7.644	2	
+Unmwaze	Esan North-East	Edo	6.750	6.320	2	Iluwozi
+Okoh Unoh	Ughelli North	Delta	5.732	6.041	2	
+Abara Uno	Ndokwa East	Delta	5.972	6.618	2	
+Unuimo	Unuimo	Imo	5.774	7.241	2	
+Ungogo	Ungongo	Kano	12.042	8.443	2	Agbegbe Ijoba Ibile Ungogo|Ungongo
+Ungwan Rukuba	Jos North	Plateau	9.932	8.914	2	
+Umumba-Uno	Ezeagu	Enugu	6.336	7.330	2	
+Achara-Unuhu	Abakaliki	Ebonyi	6.283	8.065	2	
+Unguwar Ya	Birnin Kudu	Jigawa	11.384	9.268	2	
+Unguwar Jibrin	Kaugama	Jigawa	12.404	9.646	2	
+Unguwar Tudu	Gwarzo	Kano	11.936	7.996	2	
+Unguwar Lalle	Sabon Birni	Sokoto	13.508	6.095	2	
+Ungushi	Kebbe	Sokoto	11.990	4.690	2	
+Unguwan Rimi	Zangon Kataf	Kaduna	9.583	8.201	2	
+Unguwar Juma	Zaria	Kaduna	11.055	7.694	2	
+Ungbea	Gwer East	Benue	7.619	8.402	2	
+Unum	Gwer East	Benue	7.571	8.471	2	
+Unongo	Buruku	Benue	7.512	9.024	2	
+Unenge	Wukari	Taraba	7.722	9.714	2	
+Une	Ukum	Benue	7.501	9.536	2	
+Unongo	Ukum	Benue	7.639	9.725	2	
+Unde	Gboko	Benue	7.353	9.146	2	
+Ungawa	Buruku	Benue	7.297	9.130	2	Ungwa
+Unwaga	Ushongo	Benue	7.065	9.175	2	
+Unjo	Ushongo	Benue	7.055	9.263	2	
+Unaar	Gboko	Benue	7.461	8.761	2	
+Unom	Gboko	Benue	7.424	8.943	2	
+Unze	Gboko	Benue	7.427	8.919	2	
+Ungi	Gboko	Benue	7.304	8.841	2	
+Ungwan Makiri	Shiroro	Niger	9.861	6.601	2	
+Ungwan Kulu	Shiroro	Niger	9.801	6.736	2	
+Ungwan Kasi	Bosso	Niger	9.755	6.554	2	
+Ungwan Ribushi	Shiroro	Niger	9.786	6.600	2	
+Ungwan Baka	Shiroro	Niger	9.789	6.682	2	
+Ungwan Pusapi	Shiroro	Niger	9.789	6.689	2	
+Ungwan Bida	Munya	Niger	9.822	6.981	2	
+Ungwan Doma	Munya	Niger	9.801	6.998	2	
+Ungwan Kwasa	Shiroro	Niger	9.848	6.840	2	
+Ungwan Adnai	Shiroro	Niger	9.840	6.781	2	
+Ungwan Madapi	Shiroro	Niger	9.747	6.770	2	
+Ungwan Jibape	Munya	Niger	9.709	6.931	2	
+Ungwan Kutsibi	Shiroro	Niger	9.628	6.735	2	
+Unity Estate	Alimosho	Lagos	6.576	3.288	2	
+Unale	Ibaji	Kogi	6.866	6.749	2	
+Ege-Uno	Etsako West	Edo	6.981	6.275	2	
+Unogbo	Esan Central	Edo	6.780	6.327	2	
+Idumwunobo-Uni	Uhunmwonde	Edo	6.580	6.010	2	
+Ungwan Rana	Kachia	Kaduna	9.729	7.648	2	
+Ungwanpa	Kachia	Kaduna	9.734	7.671	2	
+Ungwan Toka	Kachia	Kaduna	9.707	7.658	2	
+Ungwan Kuka	Kachia	Kaduna	9.739	7.686	2	
+Unguwar Kankana	Kachia	Kaduna	9.725	7.741	2	
+Unguwar Kagarko	Kachia	Kaduna	9.713	7.745	2	
+Unmwaze	Esan North-East	Edo	6.733	6.323	2	
+Ungwar Maji	Bali	Taraba	8.519	11.152	2	
+Ungwa Koto	Jalingo	Taraba	8.907	11.351	2	
+Ungwar Nari	Yorro	Taraba	8.986	11.426	2	
+Ungwar Kura	Ardo-Kola	Taraba	8.791	11.436	2	
+Ungwar Mallami	Yorro	Taraba	8.853	11.490	2	
+Ungwar Kwa	Gassol	Taraba	8.791	10.877	2	
+Ungwar Dander	Ardo-Kola	Taraba	8.817	10.939	2	
+Ungwan Maikyau	Sanga	Kaduna	9.199	8.254	2	
+Ungwan Mallam Umaru	Sanga	Kaduna	9.194	8.334	2	
+Ungwan Ginginya	Sanga	Kaduna	9.246	8.384	2	
+Ungwan Galadima	Sanga	Kaduna	9.219	8.419	2	
+Ungwan Bako	Sanga	Kaduna	9.188	8.471	2	
+Ungwan Madaki Zambur	Sanga	Kaduna	9.184	8.468	2	
+Ungwan Gimba	Sanga	Kaduna	9.179	8.433	2	
+Ungwan Galadima	Sanga	Kaduna	9.171	8.483	2	
+Ungwan Madaki Gajere	Sanga	Kaduna	9.166	8.489	2	
+Ungwan Tukura Gajere	Sanga	Kaduna	9.159	8.480	2	
+Ungwan Waziri Gwado	Sanga	Kaduna	9.170	8.459	2	
+Ungwan Rimi	Sanga	Kaduna	9.153	8.482	2	
+Ungwan Ventan	Sanga	Kaduna	9.143	8.480	2	
+Ungwan Maitakama	Sanga	Kaduna	9.137	8.481	2	
+Ungwan Makama	Sanga	Kaduna	9.154	8.412	2	
+Ungwan Pa	Akwanga	Nasarawa	9.160	8.287	2	
+Ungwan Maiyanga	Akwanga	Nasarawa	9.097	8.441	2	
+Ungwan Biu	Sanga	Kaduna	9.122	8.479	2	
+Ungwan Doka	Sanga	Kaduna	9.092	8.477	2	
+Ungwan Sanka	Sanga	Kaduna	9.084	8.486	2	
+Ungwan Anta	Sanga	Kaduna	9.090	8.465	2	
+Ungwan Tofa	Akwanga	Nasarawa	9.076	8.463	2	
+Ungwan Pa	Akwanga	Nasarawa	9.067	8.466	2	
+Ungwan Galadima	Akwanga	Nasarawa	9.016	8.471	2	
+Ungwan Sukargani	Akwanga	Nasarawa	9.015	8.412	2	
+Ungwan Dorawa	Akwanga	Nasarawa	8.998	8.315	2	
+Ungwan Mai-Zanko	Akwanga	Nasarawa	9.016	8.257	2	
+Ungwan Garua	Jema'A	Kaduna	9.495	8.262	2	
+Ungwan Magaji	Jema'A	Kaduna	9.464	8.421	2	Ungwam Magaji
+Ungwan Maichibi	Sanga	Kaduna	9.200	8.142	2	
+Ungwan Idah	Sanga	Kaduna	9.203	8.152	2	
+Ungwan Sarki Noma Miski	Sanga	Kaduna	9.197	8.179	2	
+Ungwan Pa Tudu	Sanga	Kaduna	9.200	8.195	2	
+Ungwan Sarki Ara	Sanga	Kaduna	9.229	8.226	2	
+Ungwan Aba	Sanga	Kaduna	9.210	8.214	2	
+Ungwan Yantai	Sanga	Kaduna	9.208	8.213	2	
+Ungwan Jatau	Sanga	Kaduna	9.204	8.210	2	
+Ungwan Pa Kassa	Sanga	Kaduna	9.192	8.196	2	
+Ungwan Pa	Sanga	Kaduna	9.181	8.212	2	
+Ungwan Dufu	Sanga	Kaduna	9.163	8.186	2	
+Ungwan Yara	Sanga	Kaduna	9.168	8.171	2	
+Ungwan Musulmi	Sanga	Kaduna	9.128	8.177	2	
+Ungwan Adamu	Sanga	Kaduna	9.113	8.175	2	
+Ungwan Dogo	Sanga	Kaduna	9.105	8.176	2	Sabon Buja
+Ungwan Kwara	Sanga	Kaduna	9.075	8.095	2	
+Ungwan Yaskwa	Sanga	Kaduna	9.052	8.102	2	
+Ungwan Madaki Janda	Kokona	Nasarawa	9.030	8.112	2	
+Ungwan Magaji Sarki Kwara	Sanga	Kaduna	9.058	8.158	2	
+Ungwan Dogara	Sanga	Kaduna	9.066	8.165	2	
+Ungwan Jibrin Sada	Sanga	Kaduna	9.078	8.182	2	
+Ungwan Jatau Sada	Sanga	Kaduna	9.078	8.189	2	
+Ungwan Lamba	Sanga	Kaduna	9.068	8.188	2	
+Ungwan Haruna	Akwanga	Nasarawa	9.062	8.200	2	
+Ungwan Kanti	Sanga	Kaduna	9.060	8.195	2	
+Ungwan Taki	Akwanga	Nasarawa	9.048	8.213	2	
+Ungwan Koshun	Akwanga	Nasarawa	9.009	8.188	2	
+Ungwan Bashayi	Sanga	Kaduna	9.102	8.227	2	
+Ungwan Wukpo	Sanga	Kaduna	9.101	8.218	2	
+Ungwan Pa	Akwanga	Nasarawa	9.059	8.210	2	
+Ungwan Yerima	Akwanga	Nasarawa	9.020	8.218	2	
+Ungwan Maichibi	Akwanga	Nasarawa	9.016	8.239	2	
+Ungwan Jatau	Akwanga	Nasarawa	8.999	8.243	2	
+Ungwan Lamba	Jema'A	Kaduna	9.378	8.225	2	
+Ungwan Kaje	Jema'A	Kaduna	9.357	8.216	2	
+Ungwan Madaki	Jema'A	Kaduna	9.330	8.220	2	
+Ungwan Pataki	Jema'A	Kaduna	9.252	8.191	2	
+Ungwan Adagun	Zangon Kataf	Kaduna	9.933	8.344	2	
+Ungwan Bororo	Zangon Kataf	Kaduna	9.904	8.397	2	
+Ungwan Ango	Zangon Kataf	Kaduna	9.984	8.408	2	Bakin Kogi
+Ungwan Malam	Zangon Kataf	Kaduna	9.938	8.418	2	
+Ungwan Rana	Zangon Kataf	Kaduna	9.872	8.455	2	
+Ungwan Maichibi	Zangon Kataf	Kaduna	9.852	8.458	2	
+Ungwan Kaya	Zangon Kataf	Kaduna	9.817	8.386	2	
+Ungwan Dodo	Zangon Kataf	Kaduna	9.879	8.307	2	
+Ungwan Dodo	Zangon Kataf	Kaduna	9.878	8.288	2	Gora
+Ungwan Dodo	Zangon Kataf	Kaduna	9.844	8.296	2	Gora
+Ungwan Zango	Kauru	Kaduna	9.916	8.428	2	
+Ungwan Ango	Zangon Kataf	Kaduna	9.977	8.425	2	
+Ungwan Gaya	Zangon Kataf	Kaduna	9.813	8.411	2	
+Ungwan Juju	Zangon Kataf	Kaduna	9.785	8.377	2	
+Ungwan Barang	Zangon Kataf	Kaduna	9.754	8.283	2	
+Ungwan Bako	Zangon Kataf	Kaduna	9.765	8.336	2	
+Ungwan Jabba	Zangon Kataf	Kaduna	9.760	8.425	2	
+Ungwan Ziti	Zangon Kataf	Kaduna	9.704	8.271	2	Maudachi
+Ungwan Doo	Zangon Kataf	Kaduna	9.740	8.390	2	
+Ungwan Daji	Kaura	Kaduna	9.642	8.355	2	
+Ungwan Daji	Kaura	Kaduna	9.636	8.356	2	
+Ungwan Rana	Jema'A	Kaduna	9.563	8.283	2	
+Ungwan Baki	Jema'A	Kaduna	9.559	8.303	2	
+Ungwan Rana	Jema'A	Kaduna	9.540	8.286	2	
+Ungwan Fari	Jema'A	Kaduna	9.540	8.291	2	
+Ungwan Maga	Zangon Kataf	Kaduna	9.693	8.165	2	
+Ungwan Jatau	Zangon Kataf	Kaduna	9.648	8.166	2	
+Ungwan Madaki	Jaba	Kaduna	9.600	8.107	2	
+Ungwan Kifi	Jaba	Kaduna	9.585	8.104	2	
+Ungwan Sambo	Jaba	Kaduna	9.569	8.009	2	
+Ungwan Sarkin Chori	Jaba	Kaduna	9.535	8.038	2	
+Ungwan Rana	Jaba	Kaduna	9.574	8.115	2	
+Ungwan Rimi	Zangon Kataf	Kaduna	9.584	8.226	2	
+Ungwan Toro	Zangon Kataf	Kaduna	9.995	8.069	2	
+Ungwan Madakin Jada	Zangon Kataf	Kaduna	9.998	8.119	2	
+Ungwan Doba	Zangon Kataf	Kaduna	9.980	8.207	2	
+Ungwan Gimba	Zangon Kataf	Kaduna	9.912	8.197	2	
+Ungwan Giwa	Zangon Kataf	Kaduna	9.894	8.200	2	
+Ungwan Madaki	Zangon Kataf	Kaduna	9.882	8.202	2	
+Ungwan Guga	Zangon Kataf	Kaduna	9.808	8.233	2	
+Ungwan Galadima Chori	Jaba	Kaduna	9.540	8.051	2	
+Kashere Ungayo	Alkaleri	Bauchi	9.802	10.935	2	
+Ungwar Tonga	Karim Lamido	Taraba	9.486	10.996	2	
+Ungwar Mai Rigima	Karim Lamido	Taraba	9.359	10.994	2	
+Ungwar Jarawa	Karim Lamido	Taraba	9.277	10.985	2	
+Ungwar Dogo	Karim Lamido	Taraba	9.268	10.975	2	
+Ungwar Mai Sukuni	Karim Lamido	Taraba	9.261	10.954	2	
+Ungwar Huseini	Karim Lamido	Taraba	9.231	10.871	2	
+Ungwar Bello	Karim Lamido	Taraba	9.195	10.889	2	
+Unguwar Jatau	Karim Lamido	Taraba	9.222	10.938	2	
+Ungwar Abo	Karim Lamido	Taraba	9.490	11.023	2	
+Ungwar Baka	Karim Lamido	Taraba	9.343	11.076	2	
+Ungwar Rogo	Karim Lamido	Taraba	9.344	11.084	2	
+Ungwar Dagasa	Karim Lamido	Taraba	9.363	11.090	2	
+Ungwar Maje	Karim Lamido	Taraba	9.337	11.108	2	
+Ungwar Tukur	Karim Lamido	Taraba	9.368	11.124	2	
+Ungwar Bala	Karim Lamido	Taraba	9.325	11.184	2	
+Ungwar Wakilinkoi	Karim Lamido	Taraba	9.322	11.199	2	
+Ungwar Ashen	Karim Lamido	Taraba	9.321	11.206	2	
+Ungwar Tolo	Karim Lamido	Taraba	9.333	11.199	2	
+Ungwar Luye	Karim Lamido	Taraba	9.353	11.194	2	
+Ungwar Yaye	Karim Lamido	Taraba	9.350	11.224	2	
+Ungwar Bakari	Karim Lamido	Taraba	9.372	11.227	2	
+Ungwar Boyi	Karim Lamido	Taraba	9.306	11.133	2	
+Ungwar Kero	Karim Lamido	Taraba	9.305	11.137	2	
+Ungwar Ibrahim	Karim Lamido	Taraba	9.274	11.144	2	
+Ungwar Ino	Karim Lamido	Taraba	9.261	11.145	2	
+Ungwar Baba	Karim Lamido	Taraba	9.254	11.139	2	
+Ungwar Tella	Karim Lamido	Taraba	9.304	11.158	2	
+Ungwar Sabo	Karim Lamido	Taraba	9.315	11.156	2	
+Ungwar Waziri	Karim Lamido	Taraba	9.283	11.121	2	
+Ungwar Sale	Karim Lamido	Taraba	9.289	11.104	2	
+Ungwar Marwa	Karim Lamido	Taraba	9.297	11.105	2	
+Ungwar Maliki	Karim Lamido	Taraba	9.182	11.045	2	
+Ungwar Toro	Karim Lamido	Taraba	9.177	11.053	2	
+Ungwan Jobori	Kalgo	Kebbi	12.471	4.022	2	
+Ungwan Yauli	Kalgo	Kebbi	12.458	4.025	2	
+Ungwan Kwale	Kalgo	Kebbi	12.437	4.023	2	
+Ungwan Kwangi	Birnin Kebbi	Kebbi	12.430	4.154	2	
+Ungwan Dutse	Jega	Kebbi	12.318	4.309	2	
+Ungwan Nagindi	Jega	Kebbi	12.283	4.344	2	
+Ungwan Hadi	Kalgo	Kebbi	12.330	4.159	2	
+Ungwan Mama Dikko	Kalgo	Kebbi	12.282	4.072	2	
+Ungwan Noma	Birnin Kebbi	Kebbi	12.422	4.241	2	
+Ungwan Nahuda	Birnin Kebbi	Kebbi	12.385	4.212	2	
+Ungwan Nenu	Birnin Kebbi	Kebbi	12.382	4.219	2	
+Ungwan Zabaruma	Birnin Kebbi	Kebbi	12.382	4.225	2	
+Ungwan Mani	Jega	Kebbi	12.310	4.290	2	
+Ungwan Atu	Jega	Kebbi	12.275	4.336	2	
+Ungwan Raziku	Jega	Kebbi	12.269	4.349	2	
+Ungwan Dodo	Jega	Kebbi	12.265	4.349	2	
+Ungwan Hamidu	Kalgo	Kebbi	12.495	4.055	2	
+Ungwan Manu	Kalgo	Kebbi	12.484	4.060	2	
+Ungwan Dodo	Kalgo	Kebbi	12.481	4.066	2	
+Ungwa	Obi	Nasarawa	8.324	8.918	2	
+Ungwar Mission	Shelleng	Adamawa	9.680	12.203	2	UngwarMission
+Ungreuyon	Lafia	Nasarawa	8.576	8.326	2	
+Ungwan Kwaso	Sanga	Kaduna	9.167	8.481	2	
+Ungwan Tabo	Jema'A	Kaduna	9.461	8.457	2	Ungwam Tabo
+Union Road	Agege	Lagos	6.607	3.316	1	
+Universal road	Egor	Edo	6.374	5.633	1	
+3rd Unueru Lane	Oredo	Edo	6.327	5.632	1	
+2nd Unity Street	Egor	Edo	6.362	5.588	1	
+uncle-ben street	Egor	Edo	6.361	5.627	1	
+Unity street	Egor	Edo	6.382	5.634	1	
+unity lane	Egor	Edo	6.380	5.638	1	
+United Nations Road	Municipal Area Council	FCT Abuja	9.036	7.464	1	
+Nnamdi Azikiwe Universsity	Awka North	Anambra	6.252	7.117	1	
+University Crescent	Ibadan North	Oyo	7.422	3.909	1	
+Unity Crescent	Ibadan North	Oyo	7.431	3.928	1	
+Unity Close	Ikeja	Lagos	6.649	3.360	1	
+Unity Zone	Ifako/Ijaye	Lagos	6.633	3.331	1	
+Unity Road	Ikeja	Lagos	6.598	3.346	1	
+Unity Drive	Alimosho	Lagos	6.604	3.300	1	
+Old Union Road	Agege	Lagos	6.610	3.317	1	
+Unity Close	Eti Osa	Lagos	6.457	3.473	1	
+European Union Crescent	Municipal Area Council	FCT Abuja	9.046	7.458	1	
+Sani Ungoggo road	Fagge	Kano	12.009	8.534	1	
+Unity Road	Municipal Area Council	FCT Abuja	9.062	7.502	1	
+Universal Lane	Egor	Edo	6.375	5.636	1	
+Unity Road	Eti Osa	Lagos	6.504	3.618	1	
+Unity Road	Ilorin East	Kwara	8.480	4.562	1	
+Unueru Street	Oredo	Edo	6.327	5.633	1	
+2nd Unueru Lane	Oredo	Edo	6.327	5.633	1	
+1st Unueru Lane	Oredo	Edo	6.329	5.632	1	
+University Road	Shomolu	Lagos	6.515	3.377	1	
+University Senior Staff Quarters Road	Ilorin South	Kwara	8.467	4.643	1	
+Unity Road	Alimosho	Lagos	6.623	3.275	1	
+Unity Close	Kosofe	Lagos	6.582	3.385	1	
+Unity Estate	Enugu South	Enugu	6.421	7.517	1	
+Unije Street	Enugu North	Enugu	6.451	7.512	1	
+Unubi Street	Enugu South	Enugu	6.405	7.501	1	
+Unity Street	Enugu East	Enugu	6.490	7.508	1	
+UNTH Road	Enugu North	Enugu	6.436	7.477	1	
+UNEC Road	Enugu South	Enugu	6.426	7.502	1	
+Old UNTH Road	Enugu North	Enugu	6.434	7.470	1	
+Unubi Close	Enugu South	Enugu	6.406	7.504	1	
+UNTH Road Extension	Enugu North	Enugu	6.435	7.478	1	
+UNTH Quarters	Enugu South	Enugu	6.418	7.489	1	
+Unachukwu Estate	Enugu North	Enugu	6.456	7.526	1	
+Unguwar Danya Road	Wudil	Kano	11.807	8.846	1	
+Unity Close	Ìkòròdú	Lagos	6.622	3.489	1	
+Fammar - Kadigawa - Unguwar Gai Road	Kibiya	Kano	11.579	8.740	1	
+Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.344	8.364	1	
+Unity Road	Eti Osa	Lagos	6.510	3.607	1	
+Unity Street	Municipal Area Council	FCT Abuja	9.052	7.487	1	
+Union Baptist Church Street	Osogbo	Osun	7.774	4.545	1	
+Unity Street	Alimosho	Lagos	6.577	3.303	1	
+Unity Close	Ede North	Osun	7.718	4.490	1	
+Unity Drive	Gwagwalada	FCT Abuja	8.955	7.065	1	
+University Road	Southern Ijaw	Bayelsa	4.988	6.101	1	
+University Road	Southern Ijaw	Bayelsa	4.973	6.105	1	
+University of Uyo Road	Uyo	Akwa Ibom	5.042	7.974	1	
+Mai Unguwa Tela Street	Tarauni	Kano	11.956	8.541	1	
+Unity Avenue Estate	Eti Osa	Lagos	6.481	3.575	1	
+Unity Street	Alimosho	Lagos	6.549	3.279	1	
+Unity Crescent	Ojo	Lagos	6.497	3.134	1	
+Unity Cresc	Alimosho	Lagos	6.644	3.255	1	
+Unity Street	Alimosho	Lagos	6.649	3.282	1	
+Unity Crescent	Ifo	Ogun	6.684	3.321	1	
+Unity Close	Obafemi Owode	Ogun	6.717	3.428	1	
+Unity Road	Ado Odo/Ota	Ogun	6.693	3.273	1	
+Unity Close	Alimosho	Lagos	6.670	3.257	1	
+Unity Street	Ado Odo/Ota	Ogun	6.665	3.236	1	
+St. Peters' unity sec. school Road	Akure South	Ondo	7.258	5.185	1	
+Minor/Unclassied Road	Ngelzarma	Yobe	11.863	11.829	1	
+Unity Street	Obio/Akpor	Rivers	4.819	6.974	1	
+Osagie Unuigbe Close	Eti Osa	Lagos	6.436	3.523	1	
+Uncle Roy Close	Uvwie	Delta	5.564	5.775	1	
+Obafemi Awolowo University Primary School	Ife Central	Osun	7.517	4.538	1	
+Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.339	8.340	1	
+Christ Universal Road	Oriade	Osun	7.570	4.894	1	
+University Road	Esan West	Edo	6.745	6.077	1	
+Layin mai unguwa	Dala	Kano	12.034	8.489	1	
+Unit B	Uyo	Akwa Ibom	5.024	7.944	1	
+Unit E	Uyo	Akwa Ibom	5.022	7.947	1	
+unknown	Municipal Area Council	FCT Abuja	8.973	7.183	1	
+Unity Drive	Gwagwalada	FCT Abuja	8.953	7.067	1	
+Mai Unguwa Street	Ungongo	Kano	12.002	8.447	1	
+University Senior Staff Quarters Road	Ilorin South	Kwara	8.476	4.641	1	
+University Road	Ilorin East	Kwara	8.485	4.596	1	
+Unity Road	Udi	Enugu	6.424	7.451	1	
+Nnamdi Azikiwe University	Awka North	Anambra	6.250	7.113	1	
+unknown	Municipal Area Council	FCT Abuja	8.987	7.204	1	
+Unity Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.549	1	
+Unknown Road	Ibeju Lekki	Lagos	6.467	3.693	1	
+Minor unclassified road	Numan	Adamawa	9.375	11.658	1	
+Unclassified road	Numan	Adamawa	9.418	11.632	1	
+unclassified road	Lau	Taraba	9.207	11.292	1	
+unknown	Aguata	Anambra	5.952	7.099	1	
+Unity Street	Ovia South-West	Edo	6.571	5.344	1	
+Unijos Pedestrian Bridge	Jos North	Plateau	9.963	8.872	1	
+Undisclosed	Adó-Èkìtì	Ekiti	7.612	5.250	1	
+UN Akpan Street	Municipal Area Council	FCT Abuja	9.045	7.545	1	
+Unclassified	Ìsẹ́yìn	Oyo	7.927	3.627	1	
+untiled	Ona Ara	Oyo	7.343	3.988	1	
+Unity Avenue	Ado Odo/Ota	Ogun	6.565	3.188	1	
+untiled	Ona Ara	Oyo	7.330	3.958	1	
+Gregory University Engineering Road	Isuikwuato	Abia	5.851	7.425	1	
+Unknown	Sokoto North	Sokoto	13.084	5.258	1	
+service road to the Veritas University gate	Bwari	FCT Abuja	9.289	7.417	1	
+Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
+Bayero University	Dala	Kano	12.016	8.507	0	
+National Open University	Igabi	Kaduna	10.614	7.468	0	
+Unicent Group of Schools	Egor	Edo	6.367	5.635	0	
+Unicent Group of School	Egor	Edo	6.361	5.632	0	
+UNIFAC Group of School	Egor	Edo	6.360	5.585	0	
+Unique Touch School	Oredo	Edo	6.310	5.598	0	
+Unival Computer School	Oredo	Edo	6.343	5.612	0	
+Unibound International Group of School	Oredo	Edo	6.344	5.607	0	
+Chinel University Academy	Oredo	Edo	6.338	5.599	0	
+United Baptist Grammar School	Oredo	Edo	6.340	5.624	0	
+Universal Basic Education	Oredo	Edo	6.339	5.625	0	
+Hematology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
+Pharmacy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
+School Of Nursing UNTH	Enugu North	Enugu	6.437	7.478	0	
+Unguwar Liman Health Post	Rogo	Kano	11.405	7.744	0	
+Unguwar Malam Amadu Health Post	Rogo	Kano	11.493	7.772	0	
+Unguwar Tofa Health Post	Karaye	Kano	11.786	7.960	0	
+Unguwar Turaki Health Post	Kabo	Kano	11.820	8.231	0	
+Ungwan Yelwa Primary School	Chikun	Kaduna	10.448	7.436	0	
+SCIENCE PROJECT PRI and SEC SCHOOL, UNGUWA UKU	Tarauni	Kano	11.958	8.562	0	
+University of Nigeria,Enugu Campus UNEC	Enugu South	Enugu	6.423	7.508	0	
+UnlessGod Filling Station	Yenegoa	Bayelsa	4.947	6.331	0	
+Unique Intl. School	Uvwie	Delta	5.566	5.774	0	
+Unity Life Nusary and Primary School	Warri South	Delta	5.536	5.754	0	
+International Unity School	Obio/Akpor	Rivers	4.839	7.031	0	
+Unique Fountain Academy	Obio/Akpor	Rivers	4.838	7.034	0	
+Universal basic dducation junior	Gwoza	Borno	11.219	13.784	0	
+State Epid Unit	Sokoto South	Sokoto	13.050	5.246	0	
+Epid Unit Offices	Sokoto South	Sokoto	13.050	5.246	0	
+Aleru University	Aleiro	Kebbi	12.307	4.489	0	
+Mountain Top University	Obafemi Owode	Ogun	6.731	3.414	0	
+University of Maiduguri Teaching Hospital	Jere	Borno	11.825	13.183	0	
+Uniport	Obio/Akpor	Rivers	4.900	6.904	0	
+Unity School, Ejigbo	Ejigbo	Osun	7.888	4.322	0	
 Unguwar Shanu PHC	Kaduna North	Kaduna	10.547	7.438	0	
 University of Maiduguri Teaching Hospital UMTH	Jere	Borno	11.825	13.186	0	
 Unimaid Medical Center	Jere	Borno	11.804	13.197	0	
-Unakala	Ahoada East	Rivers	5.027	6.599	2	
 Ladoke Akintola University of Technology (LAUTECH)	Ogbomosho North	Oyo	8.167	4.267	0	
 University of Africa, Toru-Orua	Sagbama	Bayelsa	5.100	6.066	0	
 Obafemi Awolowo University, Moro Campus	Ife North	Osun	7.542	4.470	0	
-Ung Sule	Toro	Bauchi	10.429	8.780	2	
 O.r.t Unit, Ept	Chanchaga	Niger	9.614	6.546	0	
-Unguwan Mallam Sa'adu	Toro	Bauchi	10.438	8.810	2	
 Nasarawa state university	Keffi	Nasarawa	8.843	7.907	0	
 Umaualumaku/Umuihim Town Union	Ehime Mbano	Imo	5.633	7.287	0	
 Bowen University	Iwo	Osun	7.621	4.192	0	
@@ -776,7 +1880,6 @@ Coal City University Enugu	Enugu North	Enugu	6.462	7.587	0
 Caritas University	Enugu East	Enugu	6.504	7.569	0	
 Federal University Lokoja	Lokoja	Kogi	7.792	6.732	0	
 University Health Service, Jaja Clinic, UI	Ibadan North	Oyo	7.443	3.901	0	
-Ovara-Unukpo	Ughelli North	Delta	5.668	6.093	2	
 Bingham university teaching hospitals	Jos North	Plateau	9.931	8.878	0	
 Luna Union Hospital	Jos North	Plateau	9.933	8.907	0	
 Old Jos university teaching hospital	Jos North	Plateau	9.916	8.892	0	
@@ -784,7 +1887,6 @@ Unique Angels Montessori School	Municipal Area Council	FCT Abuja	9.141	7.377	0
 Baze University Hospital	Municipal Area Council	FCT Abuja	9.008	7.403	0	
 Unijos ICT Permanent Site	Jos North	Plateau	9.966	8.883	0	
 Federal University of Technology Minna, Bosso Campus	Chanchaga	Niger	9.656	6.529	0	
-Unwana	Afikpo North	Ebonyi	5.796	7.932	3	
 Bauchi State University, Bauchi Campus	Bauchi	Bauchi	10.313	9.826	0	
 University Clinic	Bauchi	Bauchi	10.279	9.794	0	
 General Hassan Usman Katsina (Unity College)	Bauchi	Bauchi	10.278	9.801	0	
@@ -813,14 +1915,13 @@ General Hospital Nasarawa Ungwan Doma	Chikun	Kaduna	10.399	7.395	0
 General Hospital Sabon Tasha Danhoni Street Ungwan Tanko	Chikun	Kaduna	10.422	7.417	0	
 National Open University	Iwo	Osun	7.646	4.166	0	
 Allens Unit/Alex Apapa	Apapa	Lagos	6.435	3.370	0	
-Ungwan Bambami	Safana	Katsina	12.420	7.300	2	
 Olabisi Onabanjo University, Ibogun	Ifo	Ogun	6.811	3.111	0	
 Philomath University	Municipal Area Council	FCT Abuja	8.892	7.262	0	
 Uncle Ben	Amuwo Odofin	Lagos	6.408	3.215	0	
 Moussa Unity Academy	Bauchi	Bauchi	10.290	9.780	0	
 Unijos Naraguta campus	Bassa	Plateau	9.951	8.812	0	
 Faculty of Art Unilag	Shomolu	Lagos	6.520	3.398	0	Faculty of Art
-GENERAL STUDIES UNIT	Kaduna North	Kaduna	10.609	7.442	0	
+General Studies Unit	Kaduna North	Kaduna	10.609	7.442	0	
 Gaa saka Zone D, Unnamed Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.497	0	
 University of Ilorin, Ilorin, Nigeria	Ilorin South	Kwara	8.486	4.675	0	
 Sadiku Hospital, Unity Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.559	0	
@@ -840,87 +1941,28 @@ Igbinedion university Secondary School	Ovia North-East	Edo	6.729	5.396	0
 Redeemers University, Ede	Ede South	Osun	7.680	4.460	0	
 Redeemers University Staff Primary School	Ede South	Osun	7.679	4.459	0	
 Redeemers University Health Centre	Ede South	Osun	7.677	4.457	0	
-Union Road	Agege	Lagos	6.607	3.316	1	
-Universal road	Egor	Edo	6.374	5.633	1	
-3rd Unueru Lane	Oredo	Edo	6.327	5.632	1	
-2nd Unity Street	Egor	Edo	6.362	5.588	1	
-uncle-ben street	Egor	Edo	6.361	5.627	1	
-Unity street	Egor	Edo	6.382	5.634	1	
-unity lane	Egor	Edo	6.380	5.638	1	
 Unifac Group of School	Oredo	Edo	6.346	5.607	0	
-United Nations Road	Municipal Area Council	FCT Abuja	9.036	7.464	1	
-Nnamdi Azikiwe Universsity	Awka North	Anambra	6.252	7.117	1	
 University College Hospital (UCH)	Ibadan North	Oyo	7.401	3.898	0	
-University Crescent	Ibadan North	Oyo	7.422	3.909	1	
-Unity Crescent	Ibadan North	Oyo	7.431	3.928	1	
-Unity Crescent	Lagelu	Oyo	7.433	3.942	1	
-Unity Close	Ikeja	Lagos	6.649	3.360	1	
-Unity Zone	Ifako/Ijaye	Lagos	6.633	3.331	1	
-Unity Road	Ikeja	Lagos	6.598	3.346	1	
-Unity Road	Ikeja	Lagos	6.595	3.346	1	
-Unity Drive	Alimosho	Lagos	6.604	3.300	1	
-Old Union Road	Agege	Lagos	6.610	3.317	1	
-Unity Close	Eti Osa	Lagos	6.457	3.473	1	
 Yusuf Maitama Sule University Kano, city campus	Kano Municipal	Kano	11.991	8.531	0	
-European Union Crescent	Municipal Area Council	FCT Abuja	9.046	7.458	1	
 University of Jos	Jos North	Plateau	9.966	8.875	0	
-University of Jos	Jos North	Plateau	9.952	8.888	0	
 Mambayya House Bayero University	Dala	Kano	12.015	8.507	0	
-Sani Ungoggo road	Fagge	Kano	12.009	8.534	1	
-Unity Road	Municipal Area Council	FCT Abuja	9.062	7.502	1	
-Universal Lane	Egor	Edo	6.375	5.636	1	
-Unity Road	Eti Osa	Lagos	6.504	3.618	1	
 Children University Academy	Egor	Edo	6.363	5.628	0	
-Unity Road	Ilorin East	Kwara	8.480	4.562	1	
-Unueru Street	Oredo	Edo	6.327	5.633	1	
-2nd Unueru Lane	Oredo	Edo	6.327	5.633	1	
-1st Unueru Lane	Oredo	Edo	6.329	5.632	1	
-University Road	Shomolu	Lagos	6.515	3.377	1	
-University Road	Shomolu	Lagos	6.518	3.389	1	
-University Senior Staff Quarters Road	Ilorin South	Kwara	8.467	4.643	1	
-Unity Road	Alimosho	Lagos	6.623	3.275	1	
-Unity Close	Kosofe	Lagos	6.582	3.385	1	
-Unity Estate	Enugu South	Enugu	6.421	7.517	1	
-Unije Street	Enugu North	Enugu	6.451	7.512	1	
-Unubi Street	Enugu South	Enugu	6.405	7.501	1	
-Unity Street	Enugu East	Enugu	6.490	7.508	1	
-UNTH Road	Enugu North	Enugu	6.436	7.477	1	
-UNEC Road	Enugu South	Enugu	6.426	7.502	1	
-Old UNTH Road	Enugu North	Enugu	6.434	7.470	1	
-Unubi Close	Enugu South	Enugu	6.406	7.504	1	
-UNTH Road Extension	Enugu North	Enugu	6.435	7.478	1	
 Guidance and Counselling Unit	Sabon Gari	Kaduna	11.152	7.655	0	
-UNTH Quarters	Enugu South	Enugu	6.418	7.489	1	
-Unachukwu Estate	Enugu North	Enugu	6.456	7.526	1	
-Unguwar Danya Road	Wudil	Kano	11.807	8.846	1	
-Unity Close	Ìkòròdú	Lagos	6.622	3.489	1	
 Bayero University Kano	Ungongo	Kano	11.964	8.431	0	Bayero University Kano (New Campus)|BUK
 Unguwar Rimi Health Post	Tofa	Kano	11.973	8.333	0	
-Fammar - Kadigawa - Unguwar Gai Road	Kibiya	Kano	11.579	8.740	1	
 Unguwar Bai Health Post	Ajingi	Kano	12.047	8.981	0	
 Unguwar Gyartai Health Post	Kunchi	Kano	12.441	8.168	0	
 Bayero University Kano	Gwale	Kano	11.981	8.483	0	
 Kauyen Mai Unguwar Primary Health Centre	Dambatta	Kano	12.371	8.487	0	
-Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.344	8.364	1	
-Unity Road	Eti Osa	Lagos	6.510	3.607	1	
 Unguwar Uku Primary Health Centre	Tarauni	Kano	11.958	8.561	0	
 Under Five Clinic	Jama'Are	Bauchi	11.665	9.933	0	
 Kawawa Dispensary	Ningi	Bauchi	11.018	8.891	0	Unguwar Kanawa Dispensary
-Unity Street	Municipal Area Council	FCT Abuja	9.052	7.487	1	
 Kardam Dispensary	Tafawa-Balewa	Bauchi	9.833	9.382	0	Ungwa Wakili
 Gombe State University	Gombe	Gombe	10.309	11.175	0	
 National Open University of Nigeria	Osogbo	Osun	7.751	4.569	0	NOUN
-Union Baptist Church Street	Osogbo	Osun	7.774	4.545	1	
-Unity Street	Alimosho	Lagos	6.577	3.303	1	
 Veritas University Abuja	Bwari	FCT Abuja	9.287	7.413	0	
 University Of Maiduguri Teaching Hospital	Jere	Borno	11.822	13.187	0	
-Unity Close	Ede North	Osun	7.718	4.490	1	
-Unity Drive	Gwagwalada	FCT Abuja	8.955	7.065	1	
-University Road	Southern Ijaw	Bayelsa	4.988	6.101	1	
-University Road	Southern Ijaw	Bayelsa	4.973	6.105	1	
-University of Uyo Road	Uyo	Akwa Ibom	5.042	7.974	1	
 Fountain University	Ede North	Osun	7.744	4.543	0	
-Mai Unguwa Tela Street	Tarauni	Kano	11.956	8.541	1	
 Kano University of Science and Technology	Wudil	Kano	11.806	8.850	0	
 Federal University Dutsin Ma - Take off Campus	Dutsin Ma	Katsina	12.473	7.483	0	
 University Of Ilorin Teaching Hospital	Ilorin West	Kwara	8.480	4.533	0	
@@ -928,69 +1970,31 @@ Kwara State University	Moro	Kwara	8.716	4.473	0
 Federal University of Technology, Minna	Bosso	Niger	9.525	6.448	0	Main Campus (Gidan Kwano)
 American University of Nigeria	Yola North	Adamawa	9.198	12.499	0	AUN
 Ladoke Akintola University of Technology Teaching Hospital	Ogbomosho North	Oyo	8.152	4.253	0	
-Unity Avenue Estate	Eti Osa	Lagos	6.481	3.575	1	
-Unity Street	Alimosho	Lagos	6.549	3.279	1	
 Kashim Ibrahim University	Konduga	Borno	11.838	12.997	0	
-Unity Crescent	Ojo	Lagos	6.497	3.134	1	
-Unity Cresc	Alimosho	Lagos	6.644	3.255	1	
-Unity Street	Alimosho	Lagos	6.649	3.282	1	
-Unity Crescent	Ifo	Ogun	6.684	3.321	1	
-Unity Close	Obafemi Owode	Ogun	6.717	3.428	1	
-Unity Road	Ado Odo/Ota	Ogun	6.693	3.273	1	
 African univeristy of science and technology	Municipal Area Council	FCT Abuja	8.995	7.429	0	
-Unity Close	Alimosho	Lagos	6.670	3.257	1	
 University of Abuja Teaching Hospital	Gwagwalada	FCT Abuja	8.950	7.066	0	
 Babcock University	Ikenne	Ogun	6.892	3.728	0	
 Benue State University Teaching Hospital	Markurdi	Benue	7.726	8.571	0	
-Unity Close	Alimosho	Lagos	6.647	3.257	1	
-Unity Street	Ado Odo/Ota	Ogun	6.665	3.236	1	
 Covenant University	Ado Odo/Ota	Ogun	6.668	3.163	0	
-St. Peters' unity sec. school Road	Akure South	Ondo	7.258	5.185	1	
 Unguwan Rimi Market	Kaduna North	Kaduna	10.528	7.465	0	
 College of Basic and Remedial Studies, Kaduna State University	Kaduna North	Kaduna	10.506	7.434	0	
 University Primary School	Nsukka	Enugu	6.860	7.405	0	
-Minor/Unclassied Road	Ngelzarma	Yobe	11.863	11.829	1	
-Unity Street	Obio/Akpor	Rivers	4.819	6.974	1	
 University of Port Harcourt Demostration Secondary School	Ikwerre	Rivers	4.911	6.910	0	
-Osagie Unuigbe Close	Eti Osa	Lagos	6.436	3.523	1	
-Uncle Roy Close	Uvwie	Delta	5.564	5.775	1	
 University of Lagos	Shomolu	Lagos	6.520	3.396	0	UNILAG
-Obafemi Awolowo University Primary School	Ife Central	Osun	7.517	4.538	1	
-Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.339	8.340	1	
-Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.340	8.346	1	
-Christ Universal Road	Oriade	Osun	7.570	4.894	1	
-University Road	Esan West	Edo	6.745	6.077	1	
-Layin mai unguwa	Dala	Kano	12.034	8.489	1	
-Unit B	Uyo	Akwa Ibom	5.024	7.944	1	
-Unit E	Uyo	Akwa Ibom	5.022	7.947	1	
-unknown	Municipal Area Council	FCT Abuja	8.973	7.183	1	
-University of Uyo Road	Uyo	Akwa Ibom	5.032	7.980	1	
-Unity Road	Ado Odo/Ota	Ogun	6.690	3.276	1	
-Unity Drive	Gwagwalada	FCT Abuja	8.953	7.067	1	
-Mai Unguwa Street	Ungongo	Kano	12.002	8.447	1	
-University Senior Staff Quarters Road	Ilorin South	Kwara	8.476	4.641	1	
-University Road	Ilorin East	Kwara	8.485	4.596	1	
-University Road	Ilorin East	Kwara	8.485	4.600	1	
-Unity Road	Ilorin East	Kwara	8.483	4.554	1	
 Chukwuemeka Odumegwu Ojukwu University, Uli	Ihiala	Anambra	5.772	6.837	0	
-University Road	Shomolu	Lagos	6.519	3.398	1	
-Unity Road	Udi	Enugu	6.424	7.451	1	
 Al-Hikmah University, Ilorin	Ilorin West	Kwara	8.480	4.504	0	
 Lagos State University	Ojo	Lagos	6.484	3.197	0	LASU
 National Open University of Nigeria	Eti Osa	Lagos	6.434	3.409	0	NOUN
 Umar Musa Yaraddua University, Katsina	Batagarawa	Katsina	12.878	7.587	0	
 Obafemi Awolowo University Staff School	Ife Central	Osun	7.524	4.535	0	
 Obafemi Awolowo University Service Station	Ife North	Osun	7.498	4.524	0	
-Nnamdi Azikiwe University	Awka North	Anambra	6.250	7.113	1	
 University of Calabar Teaching Hospital	Calabar Municipal	Cross River	4.952	8.348	0	UCTH
 University of Uyo	Uyo	Akwa Ibom	5.042	7.928	0	
-University of Uyo	Uyo	Akwa Ibom	5.042	7.922	0	
 University of Uyo	Uyo	Akwa Ibom	5.029	7.981	0	Uniuyo
 National Open University of Nigeria	Municipal Area Council	FCT Abuja	9.024	7.410	0	
 Modibbo Adama University of Technology	Girei	Adamawa	9.353	12.504	0	Federal University of Technology|Mautech
 Abia State University	Isuikwuato	Abia	5.822	7.401	0	ABSU
 Gregory University Uturu	Isuikwuato	Abia	5.851	7.430	0	GUU
-Nnamdi Azikiwe University	Awka North	Anambra	6.249	7.117	1	
 Lagos State University Teaching Hospital	Ikeja	Lagos	6.590	3.341	0	LASUTH
 Federal University of Agriculture, Abeokuta	Odeda	Ogun	7.228	3.451	0	FUNAAB
 UNILAG Medical Centre	Shomolu	Lagos	6.514	3.396	0	
@@ -1006,7 +2010,7 @@ Unda Oil	Ìkòròdú	Lagos	6.672	3.663	0
 Olabisi Onabanjo University	Ijebu North	Ogun	6.915	3.875	0	
 University Of Benin Teaching Hospital	Oredo	Edo	6.314	5.625	0	
 Ungogo Primary Health Centre	Ungongo	Kano	12.092	8.490	0	
-UNIVERSITY SHUTTLE BUS STATION	Akure South	Ondo	7.304	5.135	0	
+University Shuttle Bus Station	Akure South	Ondo	7.304	5.135	0	
 Unguwan Danya Dispensary	Warji	Bauchi	11.222	9.839	0	K/mada Dispensary
 Under Five Clinic	Bauchi	Bauchi	10.302	9.840	0	
 University of Benin	Oredo	Edo	6.332	5.602	0	
@@ -1028,43 +2032,24 @@ unknown	Maiha	Adamawa	9.924	13.237	0
 UNICEF GDSS IDP Camp Clinic	Monguno	Borno	12.672	13.605	0	
 Afe Babalola University	Adó-Èkìtì	Ekiti	7.600	5.310	0	ABUAD
 Uncompleted Maternity Health Clinic Bokki Chamba	Fufore	Adamawa	8.833	12.497	0	
-unknown	Municipal Area Council	FCT Abuja	8.987	7.204	1	
 Yobe State University	Ngelzarma	Yobe	11.690	11.948	0	
 University Health Services Fed University Of Technology Minna	Chanchaga	Niger	9.653	6.529	0	
 University of Nigeria Nsukka	Nsukka	Enugu	6.869	7.417	0	
 Edo State University, Iyamho	Etsako West	Edo	7.130	6.303	0	Edo University
 Admiralty University of Nigeria (ADUN)	Aniocha South	Delta	6.165	6.579	0	
 Ajayi Crowther University	Oyo East	Oyo	7.848	3.946	0	
-Unity Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.549	1	
-Unknown Road	Ibeju Lekki	Lagos	6.467	3.693	1	
 Bowen University Teaching Hospital	Ogbomosho North	Oyo	8.139	4.232	0	
 Landmark University	Irepodun	Kwara	8.119	5.066	0	
 Africa University of Science and Technology	Municipal Area Council	FCT Abuja	8.997	7.426	0	
-X-RAY/SCAN UNIT	Isiala Mbano	Imo	5.679	7.240	0	
-Minor unclassified road	Numan	Adamawa	9.375	11.658	1	
-Unclassified road	Numan	Adamawa	9.418	11.632	1	
-unknown	Aguata	Anambra	5.952	7.099	1	
-Unity Street	Ovia South-West	Edo	6.571	5.344	1	
+X-Ray/Scan Unit	Isiala Mbano	Imo	5.679	7.240	0	
 Nigerian Army University, Biu	Biu	Borno	10.605	12.132	0	
 University of Abuja	Municipal Area Council	FCT Abuja	8.979	7.173	0	
-Unijos Pedestrian Bridge	Jos North	Plateau	9.963	8.872	1	
-Federal University of Technology Minna, Bosso Campus	Chanchaga	Niger	9.652	6.526	0	
-Undisclosed	Adó-Èkìtì	Ekiti	7.612	5.250	1	
-Undisclosed	Adó-Èkìtì	Ekiti	7.615	5.245	1	
 Primary health care unit	Gombe	Gombe	10.292	11.166	0	
-UNIVERSAL PRIMARYY SCHOOL ALKAHIRA	Gombe	Gombe	10.313	11.169	0	
+Universal Primaryy School Alkahira	Gombe	Gombe	10.313	11.169	0	
 Bells Univerisity of Technology	Ado Odo/Ota	Ogun	6.683	3.174	0	
-UN Akpan Street	Municipal Area Council	FCT Abuja	9.045	7.545	1	
-Unclassified	Ìsẹ́yìn	Oyo	7.927	3.627	1	
-untiled	Ona Ara	Oyo	7.343	3.988	1	
-Unity Avenue	Ado Odo/Ota	Ogun	6.565	3.188	1	
-untiled	Ona Ara	Oyo	7.330	3.958	1	
 Union Baptist Church, Nursery and Primary School	Ede North	Osun	7.726	4.481	0	
 Modibbo Adama University Teaching Hospital	Yola North	Adamawa	9.190	12.492	0	
 Federal University of Petroleum Resources	Uvwie	Delta	5.568	5.838	0	
-Gregory University Engineering Road	Isuikwuato	Abia	5.851	7.425	1	
-Unknown	Sokoto North	Sokoto	13.084	5.258	1	
-service road to the Veritas University gate	Bwari	FCT Abuja	9.289	7.417	1	
 Uniport Mall	Obio/Akpor	Rivers	4.900	6.921	0	
 University of Nigeria Enugu Campus (UNEC)	Enugu North	Enugu	6.427	7.502	0	
 Enugu State University of Science and Technology (ESUT)	Nkanu West	Enugu	6.301	7.545	0	
@@ -1073,45 +2058,11 @@ University of Ilorin	Ilorin South	Kwara	8.475	4.679	0
 unizik high school	Awka North	Anambra	6.260	7.112	0	
 Kashim Ibrahim University Teaching Hospital	Konduga	Borno	11.856	12.988	0	
 Al-Ansar University	Maiduguri	Borno	11.867	13.126	0	
-University Road	Southern Ijaw	Bayelsa	4.989	6.112	1	
-University Road	Southern Ijaw	Bayelsa	4.978	6.102	1	
 Federal University of Transportation Daura	Daura	Katsina	12.972	8.343	0	Muhammadu Buhari University of Transportation, Daura|FUTD
 Obafemi Awolowo University	Ife Central	Osun	7.522	4.511	0	
 Government Day Secondary School Unguwar Gambo	Malumfashi	Katsina	11.771	7.545	0	
 Unguwar Gambo Primary School	Malumfashi	Katsina	11.773	7.538	0	
 Unguwar Labe Health Clinic	Mai'Adua	Katsina	13.212	8.206	0	
-UNIVERSITY OF CALABAR INTERNATIONAL DEMONSTRATION SECONDARY SCHOOL	Calabar Municipal	Cross River	4.955	8.348	0	
+University Of Calabar International Demonstration Secondary School	Calabar Municipal	Cross River	4.955	8.348	0	
 Trauma Unit	Nnewi North	Anambra	6.000	6.882	0	
-UNIVERSITY OF CALABAR INTERNATIONAL DEMONSTRATION SECONDARY SCHOOL	Calabar Municipal	Cross River	4.951	8.356	0	
-Unguwar Gabas	Kazaure	Jigawa	12.659	8.429	2	
-Unguwar Jibrin	Kaugama	Jigawa	12.410	9.652	2	
-Unguwar Arewa	Kazaure	Jigawa	12.663	8.408	2	
-Unguwar Yamma	Kazaure	Jigawa	12.648	8.417	2	
-Ungushi	Kebbe	Sokoto	11.978	4.689	2	
-Unguwar Gabas	Sabon Gari	Kaduna	11.111	7.737	2	
-Unguwar Juma	Zaria	Kaduna	11.056	7.695	2	
-Unguwan Sanusi	Kaduna South	Kaduna	10.529	7.409	2	
-Unguwar Sarki	Kaduna North	Kaduna	10.542	7.445	2	
-Unguwar Fatika	Zaria	Kaduna	11.066	7.691	2	
-Unguwan Rimi	Zangon Kataf	Kaduna	9.580	8.227	2	
-Unguwar Gaya	Zangon Kataf	Kaduna	9.759	8.424	2	
-Unguwar Rimi	Kumbotso	Kano	11.903	8.577	2	
-Unguwar Ya	Birnin Kudu	Jigawa	11.387	9.276	2	
-Unguwar Gai	Kibiya	Kano	11.609	8.731	2	
-Ungongo	Ungongo	Kano	12.106	8.490	2	
-Unguwa Uku Kauyen Alu	Tarauni	Kano	11.956	8.574	2	
-Unguwar Bai	Ajingi	Kano	12.046	9.060	2	
-Unguwar Tsohuwa	Doguwa	Kano	10.688	8.544	2	
-Unguwa Uku Cikin Gari	Tarauni	Kano	11.957	8.564	2	
-Unguwar Gano	Tarauni	Kano	11.946	8.559	2	
-Unguwar Duniya	Dawakin Kudu	Kano	11.878	8.614	2	
-Unguwar Tudu	Gwarzo	Kano	11.943	7.982	2	
-Ungongo	Ungongo	Kano	12.042	8.443	2	
-Unguwar Rimi	Tofa	Kano	11.973	8.344	2	
-Unguwar Rai	Baure	Katsina	12.717	8.822	2	
-Unuimo	Unuimo	Imo	5.796	7.230	2	
-Unik	Auyo	Jigawa	12.382	10.177	2	
-Unguwar Lalle	Sabon Birni	Sokoto	13.508	6.112	2	
-Unguwar Rimi	Kaduna North	Kaduna	10.532	7.460	2	
-Unguwan Dosa	Kaduna North	Kaduna	10.569	7.452	2	
-Unguwar Shanu	Kaduna North	Kaduna	10.543	7.427	2	
+University Of Calabar International Demonstration Secondary School	Calabar Municipal	Cross River	4.951	8.356	0	

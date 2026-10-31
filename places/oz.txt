@@ -1,3 +1,6 @@
+Ozoro	Isoko North	Delta	5.542	6.227	3	
+Ozubulu	Ekwusigo	Anambra	5.957	6.854	3	
+Ozuri	Adavi	Kogi	7.584	6.216	3	
 Ozara Town	Isuikwuato	Abia	5.783	7.533	2	Ozara Town;Otampa
 Bulou-Ozobo	Burutu	Delta	5.045	5.679	2	Bulou-Ojobo;Bulou-Camp
 Oga Ozella	Oshimili North	Delta	6.452	6.672	2	Ugu Ozala;Ugu-Ozalla
@@ -9,12 +12,10 @@ Ozarra	Ika South	Delta	6.321	6.143	2	Ozara
 Ozezibiri	Southern Ijaw	Bayelsa	4.773	6.198	2	
 Agbara Oza	Izzi	Ebonyi	6.423	8.228	2	
 Ozante	Ebonyi	Ebonyi	6.687	8.169	2	Ozente
-Ozoro	Isoko North	Delta	5.542	6.227	3	
 Ozu Akoli	Bende	Abia	5.633	7.567	2	
 Ozobo	Burutu	Delta	5.030	5.671	2	
 Ozi	Izzi	Ebonyi	6.473	8.399	2	
 Ozomu	Ovia North-East	Edo	6.250	5.453	2	Orogho
-Ozubulu	Ekwusigo	Anambra	5.957	6.854	3	
 Ozalla	Nkanu West	Enugu	6.311	7.486	2	Ozalla (2);Ozalla (1);Ozala
 Ozarra	Ika South	Delta	6.314	6.124	2	
 Isiegbu Ozuitem	Bende	Abia	5.650	7.600	2	
@@ -22,12 +23,50 @@ Ozalla	Owan West	Edo	6.802	6.020	2	Ozala
 Ozezebiri	Southern Ijaw	Bayelsa	4.773	6.198	2	
 Ozara Station	Isuikwuato	Abia	5.818	7.533	2	
 Umu Ozu Isu	Nwangele	Imo	5.723	7.130	2	
-Oza Primary School	Oredo	Edo	6.333	5.630	0	
 Ozuoba	Obio/Akpor	Rivers	4.871	6.933	2	
-Ozuri	Adavi	Kogi	7.584	6.216	3	
 Akili-Ozizor	Ogbaru	Anambra	5.986	6.739	2	
 Ozizza	Afikpo North	Ebonyi	5.890	7.972	2	
 Ozara-Ukwu	Afikpo North	Ebonyi	5.901	7.908	2	
+Uzuakoli	Bende	Abia	5.628	7.555	2	Ozu Akoli|Uzuakloi
+Umu-Ozu-Isu	Nwangele	Imo	5.723	7.130	2	
+Umu Ozu	Isiala Mbano	Imo	5.618	7.210	2	
+Ogu-Ozella	Oshimili North	Delta	6.455	6.671	2	Ugu Ozala|Ugu-Ozalla
+Ozuzu	Etche	Rivers	5.127	6.999	2	
+Ozuoba	Obio/Akpor	Rivers	4.877	6.921	2	
+Ozu-Item	Bende	Abia	5.599	7.604	2	
+Ozu-Abam	Arochukwu	Abia	5.593	7.745	2	
+Ozu	Orumba North	Anambra	6.214	7.164	2	
+Ozu	Nnewi South	Anambra	5.958	6.905	2	
+Ozoguo	Ovia North-East	Edo	6.517	5.683	2	
+Ozante	Ebonyi	Ebonyi	6.708	8.169	2	Ozente
+Ozarra	Ika South	Delta	6.315	6.126	2	
+Ozara	Isuikwuato	Abia	5.794	7.524	2	Otampa|Ozara Town
+Ozanta	Ukwa West	Abia	5.033	7.283	2	
+Ozanisi	Uhunmwonde	Edo	6.343	6.054	2	
+Ozalla	Nkanu West	Enugu	6.303	7.484	2	Ozala|Ozalla (1)|Ozalla (2)
+Ozalana	Ovia North-East	Edo	6.500	5.650	2	
+Ozala	Igbo-Etiti	Enugu	6.737	7.390	2	
+Ozoku	Nasarawa	Nasarawa	8.544	7.917	2	Oriki
+Isiegbu Ozuitem	Bende	Abia	5.645	7.609	2	Ozuitem
+Aghara-Oza	Izzi	Ebonyi	6.425	8.228	2	Agbara Oza
+Igwuruto Ali	Ikwerre	Rivers	4.969	6.987	2	Igwuruta-Ali|Ozuaha
+Ozuaha	Ikwerre	Rivers	5.055	6.924	2	
+Ozu-Abam	Arochukwu	Abia	5.607	7.768	2	
+Ozara	Isuikwuato	Abia	5.815	7.534	2	
+Ozu	Nnewi South	Anambra	5.996	6.988	2	
+Akili-Ozizor	Ogbaru	Anambra	5.988	6.734	2	
+Ozala Camp	Ndokwa East	Delta	5.852	6.530	2	
+Ozala	Ndokwa East	Delta	5.884	6.562	2	
+Agwa	Ikwerre	Rivers	5.001	6.910	2	Ozuaha
+Uvbe	Ika South	Delta	6.318	6.130	2	Ozonogogo
+Edhou	Ika South	Delta	6.308	6.121	2	Ozanogogo
+Iduleha	Ika South	Delta	6.313	6.122	2	Ozanogogo
+Osisioma Ngwa	Osisioma Ngwa	Abia	5.199	7.331	2	Agbegbe Ijoba Ibile Osisioma-Ngwa|Osisioma|Osisioma Ngwa Local Government Area|Ozisioma Ngva
+Ozochi	Ahoada East	Rivers	4.956	6.544	2	
+Ozi-Edem	Nsukka	Enugu	6.863	7.333	2	
+Ozetuu	Logo	Benue	7.604	9.398	2	
+Oweara-Ozalla	Owan West	Edo	6.802	6.012	2	
+Ozeyen-Ohordwa	Esan South-East	Edo	6.512	6.406	2	
 Ozumba Mbadiwe Avenue	Eti Osa	Lagos	6.436	3.416	1	
 Oziegbe Street	Oredo	Edo	6.354	5.627	1	
 2nd Ozigbo lane	Oredo	Edo	6.329	5.596	1	
@@ -49,7 +88,6 @@ Ozo E O Nwokeabia Street	Enugu East	Enugu	6.481	7.505	1
 Godfrey Ozonwaedu Street	Enugu North	Enugu	6.483	7.476	1	
 Ozo Uche Aloh Street	Enugu North	Enugu	6.463	7.575	1	
 Ozubulu Close	Enugu North	Enugu	6.429	7.522	1	
-Ozubulu Street	Enugu South	Enugu	6.427	7.525	1	
 Ozoeze Street	Enugu South	Enugu	6.391	7.499	1	
 Ozo Onoh Street	Enugu South	Enugu	6.416	7.478	1	
 Ozoudor Street	Enugu East	Enugu	6.485	7.521	1	
@@ -78,6 +116,6 @@ Ozara-Ohakpu Rd	Oru West	Imo	5.733	6.858	1
 Pipeline Ozuoba road	Obio/Akpor	Rivers	4.869	6.931	1	
 Ujemen-Ozalla Road	Owan West	Edo	6.872	5.947	1	
 Ozubulu Crescent	Municipal Area Council	FCT Abuja	9.017	7.488	1	
-Ozumba Mbadiwe Avenue	Eti Osa	Lagos	6.439	3.427	1	
 Ozumba Mbadiwe Avenue	Eti Osa	Lagos	6.438	3.439	1	
 Ujemen-Ozalla Road	Esan West	Edo	6.757	6.064	1	
+Oza Primary School	Oredo	Edo	6.333	5.630	0	

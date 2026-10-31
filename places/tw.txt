@@ -1,3 +1,4 @@
+Twon-Brass	Brass	Bayelsa	4.312	6.241	3	Brass|Brass Town|Bross
 Twoni	Akuku Toru	Rivers	4.485	6.575	2	Tonie
 Nfom	Yala	Cross River	6.532	8.571	2	Nfom One;Nfom Two
 Twon	Brass	Bayelsa	4.299	6.235	2	
@@ -9,9 +10,57 @@ Kilgim Adamu Shani Two	Shani	Borno	10.249	12.074	2
 Kogu	Shani	Borno	10.247	11.993	2	Kogu Two
 point two Yellewangurza, Gona Div	Gombe	Gombe	10.269	11.190	2	
 point twelve Wuro Juli, Gona Div.	Akko	Gombe	10.263	11.138	2	
+Oki Two	Orhionmwon	Edo	6.202	6.111	2	Oki II|Ugbeka
+Twor Awajir	Konshisha	Benue	7.255	8.524	2	
+Twon	Brass	Bayelsa	4.316	6.243	2	
+Twel	Konshisha	Benue	7.269	8.551	2	
+Twata	Gbako	Niger	9.163	6.096	2	
+Twakoyagi	Gbako	Niger	9.384	6.106	2	Tswakoyagi
+Twaki	Edati	Niger	8.903	6.045	2	
+Pridang Two	Gwoza	Borno	11.095	13.359	2	Pridang II
+Otobaye Two	Orhionmwon	Edo	6.123	6.081	2	Otobaye II|Otobayo
+Okpodom	Yala	Cross River	6.555	8.410	2	Okpodom Two
+Nlul Two	Ikom	Cross River	6.307	8.648	2	Nlul
+Nkarasi Two	Ikom	Cross River	6.273	8.656	2	Nkarasi
+Iwhrorha	Ughelli South	Delta	5.333	6.018	2	Ifikivwe|Twhrorha
+Evbobewen Two	Orhionmwon	Edo	6.142	6.061	2	Evbobewen II|Iduviga
+Idomogu Two	Ipokia	Ogun	6.767	2.787	2	Dologu|Idomogu|Idomogu II
+Evbokabua Two	Orhionmwon	Edo	6.114	6.078	2	Egunkabua|Evbokabua II
+Malakwaya Two	Gwoza	Borno	10.952	13.395	2	Malakwaya II
+Alisimie Two	Ika South	Delta	6.310	6.162	2	Alisimie II
+Evbomede Two	Orhionmwon	Edo	6.227	6.091	2	Evbomede II
+Gulfu Two	Gwoza	Borno	11.258	13.311	2	
+Twar	Logo	Benue	7.765	9.117	2	
+Twar	Gboko	Benue	7.488	8.888	2	
+Twel	Gboko	Benue	7.255	8.768	2	
+Twaciko	Edati	Niger	9.007	5.775	2	
+Twugi	Gbako	Niger	9.488	6.132	2	Yika
+Twako Makun	Gbako	Niger	9.376	6.106	2	
+Twowajuru	Gbako	Niger	9.221	6.046	2	
+Twowadzuru	Edati	Niger	9.097	6.106	2	
+Owuwu Two	Ika South	Delta	6.306	6.146	2	
+Mile Twelve	Kosofe	Lagos	6.606	3.395	2	Mile 12
+Abesan Two	Alimosho	Lagos	6.615	3.269	2	Abesan 2 Ward
+Agboyi Two	Kosofe	Lagos	6.582	3.413	2	Agboyi 2 Ward
+Agbowa Two	Epe	Lagos	6.632	3.703	2	Agbowa 2 Ward
+Lekki Two	Epe	Lagos	6.464	3.970	2	Lekki II Ward
+Siriwon Igbekodo Two	Ibeju Lekki	Lagos	6.407	4.186	2	Siriwon Igbekodo II Ward
+Ibeju Two	Ibeju Lekki	Lagos	6.501	3.824	2	Ibeju II Ward
+Orimedu Two	Ibeju Lekki	Lagos	6.448	3.864	2	Orimedu II Ward
+Iwerekun Two	Ibeju Lekki	Lagos	6.466	3.754	2	Iwerekun II Ward
+Ikoyi Two	Eti Osa	Lagos	6.451	3.422	2	Ikoyi II Ward
+Egho Two	Etsako West	Edo	6.871	6.268	2	Egho II
+Ogualan Two	Etsako West	Edo	6.836	6.313	2	Ogualan II
+Okhoromi Two	Etsako West	Edo	6.836	6.351	2	Okhoromi II
+Idumu-Selu Two	Esan South-East	Edo	6.514	6.350	2	
+Gabadaya Two	Demsa	Adamawa	9.407	12.089	2	
+Igbota Two	Yewa North	Ogun	7.072	2.841	2	Igbota II
+Oloka Two	Imeko Afon	Ogun	7.424	2.931	2	Oloka II
+Afin Two	Yewa North	Ogun	7.365	2.934	2	Afin II
+Kobejo Two	Yewa North	Ogun	6.910	2.757	2	Kobejo II
+Twins Street	Mushin	Lagos	6.506	3.332	1	
 Twinkle Star School	Uvwie	Delta	5.533	5.764	0	
 Twaidi Zaidi Basic Health Centre	Binji	Sokoto	13.251	4.936	0	
-TWO STAR INTERNATIONAL SCHOOL	Gwale	Kano	11.966	8.468	0	
+Two Star International School	Gwale	Kano	11.966	8.468	0	
 Doncent Electronics (Oliver Twist Supermarket )	Municipal Area Council	FCT Abuja	8.969	7.359	0	
 Oliver Twist Super Store	Municipal Area Council	FCT Abuja	8.976	7.363	0	
-Twins Street	Mushin	Lagos	6.506	3.332	1	

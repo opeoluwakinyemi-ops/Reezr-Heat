@@ -2,6 +2,154 @@ Pribiri	Degema	Rivers	4.598	7.058	2
 Profitkiri	Akuku Toru	Rivers	4.577	6.799	2	
 Presakiri	Akuku Toru	Rivers	4.378	6.809	2	Akpakiri;Presakiri
 Progwala	Shani	Borno	10.091	12.072	2	Proguala
+Maximum Prison Quarters	Maiduguri	Borno	11.895	13.096	2	
+Prisons Dockyard	Port-Harcourt	Rivers	4.756	7.018	2	
+Prp	Albasu	Kano	11.670	8.964	2	
+Proda	Enugu North	Enugu	6.452	7.577	2	
+Project	Bogoro	Bauchi	9.600	9.758	2	
+Proguala	Shani	Borno	10.090	12.071	2	
+Prinna	Shiroro	Niger	9.757	6.677	2	
+Prihihi	Hong	Adamawa	10.185	13.026	2	
+Pridang Two	Gwoza	Borno	11.095	13.359	2	Pridang II
+Pridang One	Gwoza	Borno	11.133	13.354	2	Pridang I
+Prane	Akwanga	Nasarawa	9.087	8.250	2	
+Dinyaja Prussa	Yorro	Taraba	8.916	11.556	2	
+Presokiri	Akuku Toru	Rivers	4.380	6.811	2	Akpakiri|Presakiri
+Precogbene	Sagbama	Bayelsa	5.148	6.186	2	
+Progress College Road	Ifako/Ijaye	Lagos	6.652	3.311	1	
+Prof. Abubakar Sambo Road	Kaduna North	Kaduna	10.512	7.452	1	
+Prince Clifford Street	Oredo	Edo	6.303	5.596	1	
+Prince Ade Odedina Street	Eti Osa	Lagos	6.428	3.438	1	
+Premier Hotel	Ibadan North	Oyo	7.410	3.894	1	
+Prince Alabe Abiodun Oniru Road	Eti Osa	Lagos	6.433	3.445	1	
+Prince Joseph Adebayo Street	Oshodi/Isolo	Lagos	6.496	3.307	1	
+Princess Street	Lagos Island	Lagos	6.462	3.393	1	
+Probyn Close	Eti Osa	Lagos	6.449	3.440	1	
+Leye Pratt Avenue	Kosofe	Lagos	6.638	3.376	1	
+Da Pratt Close	Ifako/Ijaye	Lagos	6.641	3.328	1	
+Princess Dolo Oyekan Street	Eti Osa	Lagos	6.428	3.474	1	
+Prince Boe Adebowale Crescent	Eti Osa	Lagos	6.442	3.479	1	
+Prince Tayo Adesanya Street	Eti Osa	Lagos	6.464	3.442	1	
+Professor Jubril Aminu Street	Eti Osa	Lagos	6.464	3.441	1	
+Prince Yomi Daramola Street	Eti Osa	Lagos	6.426	3.446	1	
+Princely Court Road	Eti Osa	Lagos	6.426	3.453	1	
+The Providence Street	Eti Osa	Lagos	6.432	3.462	1	
+Professor Kiumi Akingbehin Street	Eti Osa	Lagos	6.436	3.465	1	
+Prime Rose Lane	Eti Osa	Lagos	6.492	3.609	1	
+Nigeria Prisons Barracks Road	Oredo	Edo	6.295	5.593	1	
+Prisons Barrack	Oredo	Edo	6.294	5.593	1	
+Prosperity Road	Oshodi/Isolo	Lagos	6.535	3.311	1	
+Prince enobakhare Ogbewnoua	Oredo	Edo	6.319	5.580	1	
+Prof Ernest Adibe Avenue	Enugu North	Enugu	6.478	7.482	1	
+Professor Sir A.C Ugwu Street	Enugu South	Enugu	6.420	7.508	1	
+Praise Villa Street	Enugu South	Enugu	6.416	7.524	1	
+Prof Victor Anosa Street	Enugu East	Enugu	6.488	7.484	1	
+Prince Ngene Lane	Enugu East	Enugu	6.469	7.588	1	
+Provost Office Road	Enugu North	Enugu	6.460	7.500	1	
+Prince Okam Street	Enugu South	Enugu	6.415	7.510	1	
+Presbyterian Church Street	Enugu East	Enugu	6.481	7.527	1	
+Press Lane	Enugu South	Enugu	6.407	7.501	1	
+Presidential Road	Enugu North	Enugu	6.437	7.519	1	
+Pressure Street	Enugu East	Enugu	6.488	7.523	1	
+Prince Joseph Denchukwu Avenue	Enugu East	Enugu	6.487	7.476	1	
+Prince Greg Eneh Street	Enugu East	Enugu	6.468	7.549	1	
+Prophet Temple Street	Enugu East	Enugu	6.466	7.554	1	
+Proda Quarters	Enugu North	Enugu	6.445	7.590	1	
+Prince Arthur Ikeme Street	Enugu North	Enugu	6.465	7.576	1	
+Prison Road	Enugu North	Enugu	6.441	7.483	1	
+Presidential Close	Enugu North	Enugu	6.444	7.513	1	
+Black and Proud Crescent	Enugu South	Enugu	6.415	7.499	1	
+Christian Victory Prayer Ministry Road	Enugu South	Enugu	6.399	7.481	1	
+Presidential Road	Enugu North	Enugu	6.441	7.513	1	
+Prof Izam Close	Jos North	Plateau	9.900	8.906	1	
+Enterance to PRTV	Jos South	Plateau	9.842	8.898	1	
+Prof. Chike Onochie Crescent	Enugu North	Enugu	6.459	7.550	1	
+Prince Cornelius Nnaji Street	Enugu North	Enugu	6.457	7.547	1	
+Proda Road	Enugu North	Enugu	6.451	7.585	1	
+Prince Victor Onyia Drive	Enugu East	Enugu	6.485	7.489	1	
+Prince Ngene Street	Enugu East	Enugu	6.470	7.588	1	
+Prof Ilotaife Street	Enugu East	Enugu	6.476	7.532	1	
+Prince Michael Den Chukwu Street	Enugu North	Enugu	6.447	7.558	1	
+Prince Adeneye Adeowo Street	Ìkòròdú	Lagos	6.649	3.517	1	
+Presidential	Abeokuta South	Ogun	7.139	3.341	1	
+Prof. IBK Street	Ungongo	Kano	11.976	8.446	1	
+Prince Olanrewaju A. Elegushi Street	Eti Osa	Lagos	6.436	3.498	1	
+Princess Folashade Ojutalayo Close	Eti Osa	Lagos	6.442	3.466	1	
+Prince Samuel Adedoyin Street	Eti Osa	Lagos	6.433	3.486	1	
+Prince Salisu Elegushi Road	Eti Osa	Lagos	6.428	3.500	1	
+Prince Olarenwu Elegushi Road	Eti Osa	Lagos	6.429	3.499	1	
+Prof. E. Aduayi	Eti Osa	Lagos	6.440	3.555	1	
+Prince Rauf Ishola Lemomu Street	Eti Osa	Lagos	6.446	3.517	1	
+Prince of Wales Street	Eti Osa	Lagos	6.458	3.521	1	
+Prince Ademola Eletu Way	Eti Osa	Lagos	6.444	3.510	1	
+Prince Kazeem Eletu Way	Eti Osa	Lagos	6.443	3.510	1	
+Prince Ibrahim Eletu Avenue	Eti Osa	Lagos	6.443	3.509	1	
+Primerose Street	Eti Osa	Lagos	6.463	3.524	1	
+Princess Adekemi Adewumi Drive	Eti Osa	Lagos	6.457	3.584	1	
+Primate Sunday Olayinka Street	Eti Osa	Lagos	6.452	3.566	1	
+Betty Pride Way	Oshodi/Isolo	Lagos	6.546	3.322	1	
+Primrose Drive	Eti Osa	Lagos	6.456	3.510	1	
+Rue Principale	Mariga	Niger	10.863	5.902	1	
+Old Prison Rd	Calabar Municipal	Cross River	4.966	8.326	1	
+Prince Hassan Close	Ojo	Lagos	6.464	3.140	1	
+Prince Leye Fajemisin Close	Eti Osa	Lagos	6.477	3.571	1	
+Prince Christopher Obi Close	Eti Osa	Lagos	6.478	3.575	1	
+Prophet Olufunlayo Street	Alimosho	Lagos	6.548	3.241	1	
+Prince Adewale Ajayi Street	Alimosho	Lagos	6.539	3.257	1	
+Prince Abiodun Ologbonjaye Street	Alimosho	Lagos	6.492	3.261	1	
+Princess Adebimpe Street	Oshodi/Isolo	Lagos	6.510	3.299	1	
+Priye Street	Ojo	Lagos	6.500	3.202	1	
+Prince Dapo Akande Street	Eti Osa	Lagos	6.484	3.586	1	
+Prince Eric Street	Oshodi/Isolo	Lagos	6.514	3.297	1	
+Progress Estate - Afobaje Road	Ado Odo/Ota	Ogun	6.679	3.216	1	
+Preince Sanmi Harrison Avenue	Eti Osa	Lagos	6.450	3.483	1	
+Prince Momoh Lane	Uvwie	Delta	5.553	5.773	1	
+Preye Lane, off Chief Aleru Street	Ikwerre	Rivers	4.923	6.915	1	
+Protocol Avenue	Kaduna North	Kaduna	10.527	7.454	1	
+Prime View Avenue	Ifo	Ogun	6.670	3.416	1	
+Prince Oyewumi Street	Ogbomosho North	Oyo	8.151	4.254	1	
+Profer Sch Road.	Port-Harcourt	Rivers	4.789	6.959	1	
+Prince Jerry Doris Street	Eti Osa	Lagos	6.467	3.631	1	
+Premier Road	Gusau	Zamfara	12.175	6.679	1	
+Prof. Ndowa Lala Drive	Ikwerre	Rivers	4.906	6.910	1	
+Prof. Don Baridam Close	Ikwerre	Rivers	4.908	6.910	1	
+Emeritus Prof. Otonti Nduka Close	Ikwerre	Rivers	4.907	6.913	1	
+Prof. Owunari Abraham Georgewill Drive	Obio/Akpor	Rivers	4.900	6.922	1	
+Prince Ibeh Arinze Crescent	Oshodi/Isolo	Lagos	6.491	3.314	1	
+Prince Utuk Street	Uyo	Akwa Ibom	5.027	7.910	1	
+Prof. Danladi Osori Way	Municipal Area Council	FCT Abuja	8.984	7.430	1	
+Prince Aladejare Street	Karu	Nasarawa	9.052	7.600	1	
+Prince Kunle Owoade Close	Ìkòròdú	Lagos	6.633	3.538	1	
+Prof. Saidu M. Gusau Street	Ungongo	Kano	11.973	8.446	1	
+Prof. Dalhatu Balarabe Street	Ungongo	Kano	11.972	8.441	1	
+Prince Adesida Street	Ado Odo/Ota	Ogun	6.613	3.217	1	
+Prince Adesida Street	Ado Odo/Ota	Ogun	6.616	3.215	1	
+Prince Owolabi S. Adekunle Close	Eti Osa	Lagos	6.470	3.625	1	
+Living-Proof Church Street	Ifako/Ijaye	Lagos	6.630	3.331	1	
+Prince momoh Street	Uvwie	Delta	5.553	5.774	1	
+Prince T. Momoh Street	Municipal Area Council	FCT Abuja	9.041	7.534	1	
+Prince Maxwell Igwe Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.188	1	
+Prince Ademola Oniru Road	Eti Osa	Lagos	6.429	3.454	1	
+Prof. Ibrahim A. Kiyawa Street	Gwale	Kano	11.981	8.472	1	
+Prof. Hafizu Abubakar Street	Gwale	Kano	11.980	8.470	1	
+Prof. Badayi Sani Street	Gwale	Kano	11.977	8.475	1	
+Prince Ola Olusesi Close	Eti Osa	Lagos	6.434	3.539	1	
+Prince Oweh Omas Avenue	Oredo	Edo	6.282	5.585	1	
+Prince Lane	Port-Harcourt	Rivers	4.788	6.960	1	
+Prince Ademola Adunola Street	Ifako/Ijaye	Lagos	6.678	3.291	1	
+Profer Sch. Road.	Port-Harcourt	Rivers	4.788	6.962	1	
+Prince Adekunle Crescent	Ife Central	Osun	7.496	4.535	1	
+Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.946	1	
+providence plaza	Eti Osa	Lagos	6.475	3.611	1	
+Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.943	1	
+Prince Tunde Adewoyin Street	Ede North	Osun	7.719	4.476	1	
+Professor Olagoke Olabisi street	Eti Osa	Lagos	6.427	3.474	1	
+Primate Adejobi Crescent	Kosofe	Lagos	6.561	3.374	1	
+Proda Road	Enugu North	Enugu	6.434	7.598	1	
+Prince Ibrahim Olukolu Lane	Eti Osa	Lagos	6.434	3.523	1	
+Prof. Thomas Commander Street	Yenegoa	Bayelsa	4.873	6.213	1	
+Princess Pere-ere Doodei Week Street	Yenegoa	Bayelsa	4.876	6.213	1	
+Prof. Martin E. Allison Road	Yenegoa	Bayelsa	4.875	6.216	1	
 Airforce Pry Sch	Oredo	Edo	6.302	5.592	0	
 LGEA Muslim Pry School	Ifelodun	Kwara	8.272	4.799	0	
 Nigeria Prisons Staff Nursery/Primary/Secondary School	Oredo	Edo	6.295	5.596	0	
@@ -15,11 +163,10 @@ Prima Schools	Enugu East	Enugu	6.470	7.504	0
 Provision Shop	Enugu East	Enugu	6.466	7.596	0	
 Greater Tomorrow International School (Nur & Pri)	Enugu South	Enugu	6.413	7.496	0	
 Sacred Heart Private School	Ibadan North West	Oyo	7.393	3.878	0	
-Maximum Prison Quarters	Maiduguri	Borno	11.895	13.096	2	
 Cocin Rural Health Programme	Kukawa	Borno	13.095	13.815	0	
 École primaire de Madina	Ngala	Borno	12.373	14.302	0	Madina Primary School
 SCIENCE PROJECT PRI and SEC SCHOOL, UNGUWA UKU	Tarauni	Kano	11.958	8.562	0	
-OGISO PRY SCH	Oredo	Edo	6.293	5.565	0	
+Ogiso Pry Sch	Oredo	Edo	6.293	5.565	0	
 Precious Seeds Academy	Uvwie	Delta	5.561	5.772	0	
 Premap Intl. Montessori School	Yenegoa	Bayelsa	4.949	6.348	0	
 Praiser"s Intl. Academy	Yenegoa	Bayelsa	4.931	6.323	0	
@@ -36,8 +183,6 @@ Precision Imaging Consultant	Obio/Akpor	Rivers	4.826	7.050	0
 Cherry Forth Daycare Nur and Pri School	Obio/Akpor	Rivers	4.828	7.063	0	
 Propel Filling Station	Obio/Akpor	Rivers	4.835	7.034	0	
 Propel Filling Station	Obio/Akpor	Rivers	4.851	7.060	0	
-Prisons Dockyard	Port-Harcourt	Rivers	4.756	7.018	2	
-Prp	Albasu	Kano	11.670	8.964	2	
 Prlmary Health Centre	Goronyo	Sokoto	13.442	5.676	0	
 Prudent Child First School	Enugu North	Enugu	6.468	7.492	0	
 ansar ud deen practising primary school i, ota	Shagamu	Ogun	6.773	3.494	0	
@@ -69,7 +214,7 @@ Redeemers Private School	Municipal Area Council	FCT Abuja	9.140	7.379	0
 Divine Faith Preparatory School	Municipal Area Council	FCT Abuja	9.137	7.370	0	
 Adamawa Agricultural Development Program	Yola North	Adamawa	9.208	12.488	0	
 Rosy Premium Success Academy Nursery and Primary School Kuchigoro	Municipal Area Council	FCT Abuja	9.018	7.420	0	
-VICTORY PRIVATE PRIMARY SCHOOL	Jos North	Plateau	9.963	8.865	0	
+Victory Private Primary School	Jos North	Plateau	9.963	8.865	0	
 Our Lady's Nur/Pri School	Bauchi	Bauchi	10.320	9.833	0	
 St. Paul Nur/Pri School	Bauchi	Bauchi	10.321	9.834	0	
 Yelwa Practicing School	Bauchi	Bauchi	10.278	9.803	0	
@@ -98,10 +243,10 @@ Prof. Adebisi Balogun Postgraduates Hall	Akure South	Ondo	7.298	5.146	0
 Morning Dew Private School	Ìkòròdú	Lagos	6.540	3.523	0	
 Mosfit private school	Alimosho	Lagos	6.526	3.238	0	
 Connection Private school	Alimosho	Lagos	6.525	3.228	0	
-SASIF MODEL NUR & PRI SCHOOL	Ungongo	Kano	12.043	8.569	0	
-AISHATU BEST ACADEMY (NUR./PRI.)	Ungongo	Kano	12.042	8.571	0	
-BUL BULA SPECIAL PRAMARY SCHOOL	Ungongo	Kano	12.036	8.564	0	
-PREMIER COLLEGE OF ART AND SCIENCE SCHOOL	Gwale	Kano	11.963	8.480	0	
+Sasif Model Nur & Pri School	Ungongo	Kano	12.043	8.569	0	
+Aishatu Best Academy (Nur./Pri.)	Ungongo	Kano	12.042	8.571	0	
+Bul Bula Special Pramary School	Ungongo	Kano	12.036	8.564	0	
+Premier College Of Art And Science School	Gwale	Kano	11.963	8.480	0	
 Esteemed Private School	Jos North	Plateau	9.936	8.910	0	
 Shining Grace College & Salama Triumph Private School	Jos North	Plateau	9.945	8.871	0	
 Solid Rock view Private School	Jos North	Plateau	9.929	8.909	0	
@@ -109,7 +254,6 @@ Precious Kids Academy	Bauchi	Bauchi	10.272	9.803	0
 THE DANIALU LGEA PRIAMRY SCHOOL, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.601	0	
 Abakaliki Rice Processing Market	Abakaliki	Ebonyi	6.318	8.135	0	
 Lekki Epe International Airport (Proposed Site)	Epe	Lagos	6.566	3.933	0	
-Proda	Enugu North	Enugu	6.452	7.577	2	
 St. Augustine Private School	Jos North	Plateau	9.871	8.849	0	
 Orisan Private School	Ojo	Lagos	6.459	3.158	0	
 Joeihevic Private Schools	Ojo	Lagos	6.456	3.153	0	
@@ -121,138 +265,20 @@ Project City	Municipal Area Council	FCT Abuja	9.126	7.389	0
 Prince And Princess Estate Junction	Municipal Area Council	FCT Abuja	9.009	7.460	0	
 Xfm2+Prw Mobil Junction	Municipal Area Council	FCT Abuja	8.984	7.452	0	
 De Muzik Bus Stop Concept & Entertainment (Deejay Prezzy)	Municipal Area Council	FCT Abuja	9.026	7.400	0	
-Progress College Road	Ifako/Ijaye	Lagos	6.652	3.311	1	
-Prof. Abubakar Sambo Road	Kaduna North	Kaduna	10.512	7.452	1	
-Prince Clifford Street	Oredo	Edo	6.303	5.596	1	
 Center for Research and Preventive Health Care	Oredo	Edo	6.339	5.598	0	
 Owina Pry Sch.	Oredo	Edo	6.339	5.602	0	
 Prime Optical Eye Clinic	Oredo	Edo	6.325	5.616	0	
-Prince Ade Odedina Street	Eti Osa	Lagos	6.428	3.438	1	
-Premier Hotel	Ibadan North	Oyo	7.410	3.894	1	
-Prince Alabe Abiodun Oniru Road	Eti Osa	Lagos	6.433	3.445	1	
-Prince Joseph Adebayo Street	Oshodi/Isolo	Lagos	6.496	3.307	1	
-Princess Street	Lagos Island	Lagos	6.462	3.393	1	
-Probyn Close	Eti Osa	Lagos	6.449	3.440	1	
-Leye Pratt Avenue	Kosofe	Lagos	6.638	3.376	1	
-Da Pratt Close	Ifako/Ijaye	Lagos	6.641	3.328	1	
-Princess Dolo Oyekan Street	Eti Osa	Lagos	6.428	3.474	1	
-Prince Boe Adebowale Crescent	Eti Osa	Lagos	6.442	3.479	1	
-Prince Tayo Adesanya Street	Eti Osa	Lagos	6.464	3.442	1	
-Professor Jubril Aminu Street	Eti Osa	Lagos	6.464	3.441	1	
-Prince Yomi Daramola Street	Eti Osa	Lagos	6.426	3.446	1	
-Princely Court Road	Eti Osa	Lagos	6.426	3.453	1	
-The Providence Street	Eti Osa	Lagos	6.432	3.462	1	
-Professor Kiumi Akingbehin Street	Eti Osa	Lagos	6.436	3.465	1	
 Fame Preparatory Christian Academy	Egor	Edo	6.354	5.575	0	
-Prime Rose Lane	Eti Osa	Lagos	6.492	3.609	1	
-Nigeria Prisons Barracks Road	Oredo	Edo	6.295	5.593	1	
-Prisons Barrack	Oredo	Edo	6.294	5.593	1	
-Prosperity Road	Oshodi/Isolo	Lagos	6.535	3.311	1	
-Prince enobakhare Ogbewnoua	Oredo	Edo	6.319	5.580	1	
-Prof Ernest Adibe Avenue	Enugu North	Enugu	6.478	7.482	1	
-Professor Sir A.C Ugwu Street	Enugu South	Enugu	6.420	7.508	1	
-Praise Villa Street	Enugu South	Enugu	6.416	7.524	1	
-Prof Victor Anosa Street	Enugu East	Enugu	6.488	7.484	1	
-Prince Ngene Lane	Enugu East	Enugu	6.469	7.588	1	
-Provost Office Road	Enugu North	Enugu	6.460	7.500	1	
-Prince Okam Street	Enugu South	Enugu	6.415	7.510	1	
-Presbyterian Church Street	Enugu East	Enugu	6.481	7.527	1	
-Press Lane	Enugu South	Enugu	6.407	7.501	1	
-Presidential Road	Enugu North	Enugu	6.437	7.519	1	
-Pressure Street	Enugu East	Enugu	6.488	7.523	1	
-Prince Joseph Denchukwu Avenue	Enugu East	Enugu	6.487	7.476	1	
-Prince Joseph Denchukwu Avenue	Enugu East	Enugu	6.486	7.470	1	
-Prince Greg Eneh Street	Enugu East	Enugu	6.468	7.549	1	
-Prophet Temple Street	Enugu East	Enugu	6.466	7.554	1	
-Proda Quarters	Enugu North	Enugu	6.445	7.590	1	
-Prince Arthur Ikeme Street	Enugu North	Enugu	6.465	7.576	1	
-Prison Road	Enugu North	Enugu	6.441	7.483	1	
-Presidential Close	Enugu North	Enugu	6.444	7.513	1	
-Black and Proud Crescent	Enugu South	Enugu	6.415	7.499	1	
-Christian Victory Prayer Ministry Road	Enugu South	Enugu	6.399	7.481	1	
-Presidential Road	Enugu North	Enugu	6.441	7.513	1	
-Prof Izam Close	Jos North	Plateau	9.900	8.906	1	
-Enterance to PRTV	Jos South	Plateau	9.842	8.898	1	
-Prof. Chike Onochie Crescent	Enugu North	Enugu	6.459	7.550	1	
-Prince Cornelius Nnaji Street	Enugu North	Enugu	6.457	7.547	1	
-Proda Road	Enugu North	Enugu	6.451	7.585	1	
-Prince Victor Onyia Drive	Enugu East	Enugu	6.485	7.489	1	
-Prince Ngene Street	Enugu East	Enugu	6.470	7.588	1	
-Prof Ilotaife Street	Enugu East	Enugu	6.476	7.532	1	
-Prince Michael Den Chukwu Street	Enugu North	Enugu	6.447	7.558	1	
-Prince Adeneye Adeowo Street	Ìkòròdú	Lagos	6.649	3.517	1	
-Presidential	Abeokuta South	Ogun	7.139	3.341	1	
-Prof. IBK Street	Ungongo	Kano	11.976	8.446	1	
 Premier Filling Station	Tarauni	Kano	11.973	8.534	0	
 Prime Collage International	Nassarawa	Kano	11.995	8.557	0	
-Prince Olanrewaju A. Elegushi Street	Eti Osa	Lagos	6.436	3.498	1	
-Princess Folashade Ojutalayo Close	Eti Osa	Lagos	6.442	3.466	1	
-Prince Samuel Adedoyin Street	Eti Osa	Lagos	6.433	3.486	1	
-Prince Salisu Elegushi Road	Eti Osa	Lagos	6.428	3.500	1	
-Prince Olarenwu Elegushi Road	Eti Osa	Lagos	6.429	3.499	1	
-Prof. E. Aduayi	Eti Osa	Lagos	6.440	3.555	1	
 Protek Filling Station	Ibadan South East	Oyo	7.360	3.890	0	
-Prince Rauf Ishola Lemomu Street	Eti Osa	Lagos	6.446	3.517	1	
-Prince of Wales Street	Eti Osa	Lagos	6.458	3.521	1	
-Prince Ademola Eletu Way	Eti Osa	Lagos	6.444	3.510	1	
-Prince Kazeem Eletu Way	Eti Osa	Lagos	6.443	3.510	1	
-Prince Ibrahim Eletu Avenue	Eti Osa	Lagos	6.443	3.509	1	
-Primerose Street	Eti Osa	Lagos	6.463	3.524	1	
-Princess Adekemi Adewumi Drive	Eti Osa	Lagos	6.457	3.584	1	
-Primate Sunday Olayinka Street	Eti Osa	Lagos	6.452	3.566	1	
-Betty Pride Way	Oshodi/Isolo	Lagos	6.546	3.322	1	
 Proposed Paediatric Hospital	Tarauni	Kano	11.969	8.533	0	
-Primrose Drive	Eti Osa	Lagos	6.456	3.510	1	
-Rue Principale	Mariga	Niger	10.863	5.902	1	
-Old Prison Rd	Calabar Municipal	Cross River	4.966	8.326	1	
-Prince Hassan Close	Ojo	Lagos	6.464	3.140	1	
-Prince Leye Fajemisin Close	Eti Osa	Lagos	6.477	3.571	1	
-Prince Christopher Obi Close	Eti Osa	Lagos	6.478	3.575	1	
-Prophet Olufunlayo Street	Alimosho	Lagos	6.548	3.241	1	
-Prince Adewale Ajayi Street	Alimosho	Lagos	6.539	3.257	1	
-Prince Abiodun Ologbonjaye Street	Alimosho	Lagos	6.492	3.261	1	
-Princess Adebimpe Street	Oshodi/Isolo	Lagos	6.510	3.299	1	
-Priye Street	Ojo	Lagos	6.500	3.202	1	
-Prince Dapo Akande Street	Eti Osa	Lagos	6.484	3.586	1	
-Prince Eric Street	Oshodi/Isolo	Lagos	6.514	3.297	1	
 St. Annes Nurs & Pri School	Kaduna South	Kaduna	10.472	7.423	0	
 ADS Primaryy School Isemi Ile	Kajola	Oyo	7.992	3.375	0	
-Progress Estate - Afobaje Road	Ado Odo/Ota	Ogun	6.679	3.216	1	
 Lagos Preparatory School	Eti Osa	Lagos	6.452	3.438	0	
 Premiere Academy (School Number 1)	Municipal Area Council	FCT Abuja	8.987	7.356	0	
-Preince Sanmi Harrison Avenue	Eti Osa	Lagos	6.450	3.483	1	
-Prince Momoh Lane	Uvwie	Delta	5.553	5.773	1	
-Preye Lane, off Chief Aleru Street	Ikwerre	Rivers	4.923	6.915	1	
-Protocol Avenue	Kaduna North	Kaduna	10.527	7.454	1	
-Prime View Avenue	Ifo	Ogun	6.670	3.416	1	
-Prince Oyewumi Street	Ogbomosho North	Oyo	8.151	4.254	1	
-Prince Oyewumi Street	Ogbomosho North	Oyo	8.151	4.255	1	
-Profer Sch Road.	Port-Harcourt	Rivers	4.789	6.959	1	
-Prince Jerry Doris Street	Eti Osa	Lagos	6.467	3.631	1	
-Premier Road	Gusau	Zamfara	12.175	6.679	1	
-Prof. Ndowa Lala Drive	Ikwerre	Rivers	4.906	6.910	1	
-Prof. Don Baridam Close	Ikwerre	Rivers	4.908	6.910	1	
-Emeritus Prof. Otonti Nduka Close	Ikwerre	Rivers	4.907	6.913	1	
-Prof. Owunari Abraham Georgewill Drive	Obio/Akpor	Rivers	4.900	6.922	1	
-Prince Ibeh Arinze Crescent	Oshodi/Isolo	Lagos	6.491	3.314	1	
-Prince Utuk Street	Uyo	Akwa Ibom	5.027	7.910	1	
-Prof. Danladi Osori Way	Municipal Area Council	FCT Abuja	8.984	7.430	1	
-Prince Aladejare Street	Karu	Nasarawa	9.052	7.600	1	
-Prince Kunle Owoade Close	Ìkòròdú	Lagos	6.633	3.538	1	
-Prof. Saidu M. Gusau Street	Ungongo	Kano	11.973	8.446	1	
-Prof. Dalhatu Balarabe Street	Ungongo	Kano	11.972	8.441	1	
-Prince Adesida Street	Ado Odo/Ota	Ogun	6.613	3.217	1	
-Prince Adesida Street	Ado Odo/Ota	Ogun	6.616	3.215	1	
-Prince Owolabi S. Adekunle Close	Eti Osa	Lagos	6.470	3.625	1	
-Presidential Road	Enugu North	Enugu	6.441	7.502	1	
 Yerwa Practising Junior Secondary School	Maiduguri	Borno	11.829	13.154	0	
-Living-Proof Church Street	Ifako/Ijaye	Lagos	6.630	3.331	1	
-Prime View Avenue	Ifo	Ogun	6.666	3.415	1	
 Prince L&E Oil & Gas	Owerri North	Imo	5.429	7.097	0	
-Prince momoh Street	Uvwie	Delta	5.553	5.774	1	
-Prince T. Momoh Street	Municipal Area Council	FCT Abuja	9.041	7.534	1	
-Prince Maxwell Igwe Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.188	1	
-Prince Ademola Oniru Road	Eti Osa	Lagos	6.429	3.454	1	
 École primaire publique de Garadima	Baruten	Kwara	9.062	2.788	0	
 Balad Private Schools	Ìkòròdú	Lagos	6.645	3.479	0	
 Tosfeb Presidency schools	Ìkòròdú	Lagos	6.601	3.624	0	
@@ -263,36 +289,13 @@ Demonstartion Pry School	Abeokuta South	Ogun	7.123	3.333	0
 sabon geri priimary health care center	Demsa	Adamawa	9.434	12.075	0	sabon geri
 Private Patient Medical Store Filingo	Fufore	Adamawa	9.311	12.892	0	
 primayo primary heath clinic	Maiha	Adamawa	10.070	13.109	0	
-PROF. A. MAHDI ACADEMY (PRIMARY)	Gombe	Gombe	10.312	11.177	0	
-PROF. A. MAHDI ACADEMY(SECONDARY)	Gombe	Gombe	10.312	11.177	0	
-Prof. Ibrahim A. Kiyawa Street	Gwale	Kano	11.981	8.472	1	
-Prof. Hafizu Abubakar Street	Gwale	Kano	11.980	8.470	1	
-Prof. Badayi Sani Street	Gwale	Kano	11.977	8.475	1	
-Prince Ola Olusesi Close	Eti Osa	Lagos	6.434	3.539	1	
-Prince Oweh Omas Avenue	Oredo	Edo	6.282	5.585	1	
-PRIVATE WARD	Isiala Mbano	Imo	5.679	7.240	0	
-Prince Lane	Port-Harcourt	Rivers	4.788	6.960	1	
-Proda Road	Enugu North	Enugu	6.445	7.588	1	
-Prince Ademola Adunola Street	Ifako/Ijaye	Lagos	6.678	3.291	1	
-Profer Sch. Road.	Port-Harcourt	Rivers	4.788	6.962	1	
-Prince Adekunle Crescent	Ife Central	Osun	7.496	4.535	1	
-Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.946	1	
+Prof. A. Mahdi Academy (Primary)	Gombe	Gombe	10.312	11.177	0	
+Prof. A. Mahdi Academy(Secondary)	Gombe	Gombe	10.312	11.177	0	
+Private Ward	Isiala Mbano	Imo	5.679	7.240	0	
 Educare Private Schools	Jos North	Plateau	9.860	8.867	0	
 Evangel Private School	Jos South	Plateau	9.853	8.864	0	
-providence plaza	Eti Osa	Lagos	6.475	3.611	1	
-Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.943	1	
-Prince Tunde Adewoyin Street	Ede North	Osun	7.719	4.476	1	
-UNIVERSAL PRIMARYY SCHOOL ALKAHIRA	Gombe	Gombe	10.313	11.169	0	
-Professor Olagoke Olabisi street	Eti Osa	Lagos	6.427	3.474	1	
+Universal Primaryy School Alkahira	Gombe	Gombe	10.313	11.169	0	
 Agog Private Schools	Ìkòròdú	Lagos	6.537	3.518	0	
 Professor Wole Shoyinka Station, Laderin	Obafemi Owode	Ogun	7.129	3.398	0	
-Primate Adejobi Crescent	Kosofe	Lagos	6.561	3.374	1	
-Prince Adeneye Adeowo Street	Ìkòròdú	Lagos	6.650	3.515	1	
-Proda Road	Enugu North	Enugu	6.434	7.598	1	
-Prince Ibrahim Olukolu Lane	Eti Osa	Lagos	6.434	3.523	1	
-Prof. Thomas Commander Street	Yenegoa	Bayelsa	4.873	6.213	1	
-Princess Pere-ere Doodei Week Street	Yenegoa	Bayelsa	4.876	6.213	1	
-Prof. Martin E. Allison Road	Yenegoa	Bayelsa	4.875	6.216	1	
-Prof Mbonu Surgical Ward	Nnewi North	Anambra	5.997	6.880	0	
+Prof Mbonu Surgical	Nnewi North	Anambra	5.997	6.880	0	
 Prince Arthur Eze Mother & Child Complex	Nnewi North	Anambra	5.997	6.880	0	
-Project	Bogoro	Bauchi	9.600	9.758	2	

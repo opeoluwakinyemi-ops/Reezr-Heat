@@ -1,3 +1,6 @@
+Emohua	Emuoha	Rivers	4.884	6.861	3	
+Emure-Ekiti	Emure	Ekiti	7.436	5.459	3	Emure
+Emuoha	Emuoha	Rivers	4.884	6.860	3	Emohua
 Omu	Epe	Lagos	6.495	3.974	2	Emu
 Emichi	Ohimini	Benue	7.247	7.930	2	Eminchi
 Emu Ebendo	Ndokwa West	Delta	5.670	6.353	2	
@@ -23,7 +26,6 @@ Emikudamisi	Bassa	Kogi	7.485	6.778	2
 Uru Emede	Isoko South	Delta	5.402	6.175	2	Emede
 Ungwan Emana	Arewa Dandi	Kebbi	12.599	3.820	2	
 Emebu	Abua/Odual	Rivers	4.907	6.588	2	Emabu
-Emure-Ekiti	Emure	Ekiti	7.436	5.459	2	Emure
 Emu	Lokoja	Kogi	7.976	6.614	2	Waye
 Emene	Enugu East	Enugu	6.475	7.585	2	
 Ojoemo	Akinyele	Oyo	7.552	3.945	2	Ojo-Emmaw
@@ -32,57 +34,252 @@ Emaojomo	Ọ̀wọ̀	Ondo	7.046	5.617	2	Emaojoma
 Emabo	Ankpa	Kogi	7.429	7.730	2	Amabu;Amabo
 Amerikpoko	Abua/Odual	Rivers	4.883	6.451	2	Emerikpoko;Amerikopoko
 Emu Obiogo	Ndokwa West	Delta	5.652	6.290	2	
-Emohua	Emuoha	Rivers	4.884	6.861	3	
 Eminiama	Nembe	Bayelsa	4.648	6.266	2	
 Emere	Ankpa	Kogi	7.414	7.652	2	Ameri
 Eme	Owan West	Edo	6.908	5.965	2	
 Emu	Lapai	Niger	8.517	6.540	2	
-Emanuel Foundation School	Oredo	Edo	6.308	5.598	0	
-Emokpac Primary School	Oredo	Edo	6.340	5.625	0	
-Emotan College	Oredo	Edo	6.347	5.620	0	
-ESUTH Pediatrics Emergency	Enugu North	Enugu	6.461	7.494	0	
-Emmanuel Clinic	Enugu North	Enugu	6.441	7.495	0	
-Kaduna Emergency Operations Center	Kaduna North	Kaduna	10.514	7.453	0	
 Emeri	Damboa	Borno	11.127	12.743	2	
-Knowledge Base International Kiddies Embassy	Akinyele	Oyo	7.527	3.925	0	
-Emmanuel College	Owerri Municipal	Imo	5.480	7.032	0	
-Emily and Gas Filling Station	Yenegoa	Bayelsa	4.923	6.314	0	
 Igbo Emaban	Yakurr	Cross River	5.939	8.161	2	
-Emergency Operations Center - Sokoto	Sokoto South	Sokoto	13.052	5.246	0	
-Kano Emergency Operations Center	Nassarawa	Kano	11.996	8.550	0	
-Emmanoil	Ojo	Lagos	6.484	3.170	0	
-Primary Health Center, Emekuku	Port-Harcourt	Rivers	4.794	6.997	0	
-Emaayo Filling Station	Ogbomosho North	Oyo	8.129	4.233	0	
-emmanuel anglican primary school ii, italupe	Ìjẹ̀bú Òde	Ogun	6.809	3.919	0	
-emmanuel anglican. primary school i, italupe	Ìjẹ̀bú Òde	Ogun	6.810	3.919	0	
-Emmanuel African Church School Ifo	Ado Odo/Ota	Ogun	6.591	3.069	0	
-St. Paul'S Anglican Primary School, Emuren	Shagamu	Ogun	6.853	3.526	0	
-Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.684	3.300	0	
-Community Primaryschool, Emily-Obadina	Ado Odo/Ota	Ogun	6.579	3.087	0	
-Emmanuel Anglican Church School, Ibogun Odejimi	Shagamu	Ogun	6.851	3.642	0	
-Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.831	3.195	0	
-Community Primaryschool, Emily-Obadina	Ifo	Ogun	6.830	3.198	0	
-Emmanuel Anglican Church School, Ibogun Odejimi	Ifo	Ogun	6.812	3.114	0	
-Emmanuel African Church School Ifo	Ifo	Ogun	6.811	3.181	0	
-St. Paul'S Anglican Primary School, Emuren	Shagamu	Ogun	6.754	3.648	0	
-New Society Bus stop Emene	Enugu East	Enugu	6.473	7.582	0	
-Oye emene Market	Enugu East	Enugu	6.479	7.578	0	
 Emadia	Ndokwa East	Delta	5.348	6.338	2	
 Emezi I	Ahoada West	Rivers	5.073	6.528	2	
 Emezi II	Ahoada West	Rivers	5.072	6.516	2	
-Emmanuel Hospital, Awotan- Apete, Ibadan	Ido	Oyo	7.450	3.870	0	
 Emeabiam	Owerri West	Imo	5.336	6.991	2	
 Emevor	Isoko North	Delta	5.508	6.118	2	
 Emonu	Ughelli North	Delta	5.699	6.101	2	
 Emeroke	Eastern Obolo	Akwa Ibom	4.505	7.666	2	
-Emergency	Bauchi	Bauchi	10.323	9.829	0	
-Emmanuel Power Hospital	Ojo	Lagos	6.476	3.163	0	
-Emc Hospital and Maternity	Alimosho	Lagos	6.585	3.305	0	
-Emel Specialist Hospital Festac Town	Amuwo Odofin	Lagos	6.476	3.289	0	
-EMPHATIC MODEL SCHOOL	Ungongo	Kano	12.042	8.568	0	
-Iyana Opomalu Bus Stop, Emirs Road, Ilorin, Nigeria	Ilorin East	Kwara	8.491	4.559	0	
-Emadeb Energy	Municipal Area Council	FCT Abuja	9.086	7.460	0	
-Emcee Veterinary Services	Municipal Area Council	FCT Abuja	9.141	7.376	0	
+Emene	Enugu North	Enugu	6.441	7.571	2	
+Emure	Emure	Ekiti	7.429	5.513	2	
+Emuoha	Emuoha	Rivers	5.032	6.764	2	
+Uru-Emede	Isoko South	Delta	5.402	6.175	2	Emede
+Oroa-Emede	Isoko South	Delta	5.420	6.176	2	
+Opu Emeya	Ogbia	Bayelsa	4.840	6.351	2	
+Ojoemo	Akinyele	Oyo	7.552	3.943	2	Ojo-Emmaw
+Ndi Ememe-Abam	Arochukwu	Abia	5.573	7.737	2	
+Kola-Emeya	Ogbia	Bayelsa	4.830	6.352	2	Kala Emeya
+Ikot Emana	Abak	Akwa Ibom	5.045	7.763	2	
+Igbo Emabam	Yakurr	Cross River	5.940	8.161	2	Igbo Emaban
+Idi-Emi	Ori Ire	Oyo	8.495	4.236	2	Idi Emi
+Idi-Emi	Asa	Kwara	8.365	4.441	2	Idi Emi
+Idi-Emi	Abeokuta North	Ogun	7.392	3.014	2	Idi Emi
+Idi-Emi	Odeda	Ogun	7.350	3.396	2	Idi Emi
+Emwe	Kurmi	Taraba	7.053	10.777	2	
+Emwa	Lapai	Niger	8.561	6.565	2	
+Emu-Uno	Ndokwa West	Delta	5.632	6.245	2	
+Emuren	Shagamu	Ogun	6.698	3.616	2	
+Emu-Obodeti	Ndokwa West	Delta	5.658	6.319	2	
+Emu-Obiogo	Ndokwa West	Delta	5.652	6.290	2	
+Emu-Nehua	Esan South-East	Edo	6.506	6.473	2	
+Emu-Ebendo	Ndokwa West	Delta	5.671	6.352	2	
+Emu-Eguare	Esan South-East	Edo	6.560	6.466	2	Emu
+Emoh	Abua/Odual	Rivers	4.801	6.646	2	Emon
+Emoa	Lokoja	Kogi	8.082	6.661	2	
+Emiyatsu	Gbako	Niger	9.184	6.127	2	
+Emiwoziri	Bassa	Kogi	7.728	6.770	2	
+Emiworogi Nda-Tsadu	Edati	Niger	8.941	5.893	2	Emiworogi Nda Tsadu|Emiworogi-Nda-Tsadu|EmiworogiNda-Tsadu|EmiworogiNdaTsadu
+Emiworogi	Gbako	Niger	9.212	6.143	2	
+Emiworoji	Edu	Kwara	8.897	4.911	2	
+Emiworoji	Edu	Kwara	8.757	5.240	2	
+Emisu	Katcha	Niger	8.874	6.169	2	
+Emisosi	Katcha	Niger	8.873	6.184	2	
+Emisala	Gbako	Niger	9.166	6.002	2	
+Emisagi	Gbako	Niger	9.209	6.044	2	
+Emi-Onikoko	Ogbomosho North	Oyo	8.198	4.252	2	Emi Onikoko
+Emioboma	Orhionmwon	Edo	5.790	5.908	2	
+Emin Ekpon	Abi	Cross River	5.929	8.026	2	
+Emindakotsu	Edati	Niger	9.090	6.079	2	
+Emimagi	Edu	Kwara	8.973	5.030	2	
+Emijiko	Edati	Niger	9.028	6.080	2	
+Emii	Owerri North	Imo	5.455	7.094	2	
+Emiginda	Katcha	Niger	9.291	6.184	2	
+Emichi	Oturkpo	Benue	7.307	8.138	2	
+Emichi	Ohimini	Benue	7.230	7.929	2	Eminchi
+Emianghan	Ovia North-East	Edo	6.374	5.479	2	
+Emianghan	Ovia South-West	Edo	6.333	5.450	2	
+Emi-Abata	Ori Ire	Oyo	8.022	4.089	2	Emi Abata
+Emi-Abata	Afijio	Oyo	7.833	4.050	2	Emi Abata|EmiAbata
+Emezu	Ishielu	Ebonyi	6.566	7.752	2	
+Emezi	Umuahia North	Abia	5.568	7.549	2	
+Emewe	Dekina	Kogi	7.519	6.990	2	
+Emette	Southern Ijaw	Bayelsa	4.738	6.186	2	
+Emesu	Abua/Odual	Rivers	4.930	6.578	2	
+Emeri	Ebonyi	Ebonyi	6.465	8.104	2	
+Emelego	Abua/Odual	Rivers	4.821	6.513	2	
+Emekuku	Owerri North	Imo	5.466	7.098	2	Emekukwu
+Emekpa	Ogoja	Cross River	6.397	8.643	2	
+Emekeobibi	Owerri North	Imo	5.417	7.083	2	
+Eman Uruan	Uruan	Akwa Ibom	5.098	8.016	2	
+Emanuel-Elemu	Ibarapa Central	Oyo	7.394	3.350	2	Emanuel Elemu
+Eman Ikot-Ebo	Uruan	Akwa Ibom	5.041	8.009	2	
+Emangkpa	Ogoja	Cross River	6.401	8.640	2	
+Emanduk	Ogoja	Cross River	6.431	8.673	2	
+Emandak	Ogoja	Cross River	6.388	8.661	2	
+Eman	Uruan	Akwa Ibom	5.094	7.975	2	
+Emaka	Ethiope East	Delta	5.682	5.906	2	
+Emah	Ovia North-East	Edo	6.603	5.581	2	
+Emagiti	Gbako	Niger	9.187	6.071	2	
+Emagiti	Edati	Niger	9.062	6.023	2	
+Emadaoja	Udu	Delta	5.433	5.816	2	
+Emabo	Ankpa	Kogi	7.426	7.705	2	Amabo|Amabu
+Awuru Emigi	Borgu	Niger	9.717	4.633	2	
+Eminigboko	Abua/Odual	Rivers	4.954	6.592	2	Aminigboko
+Agiri-Emu	Aiyedade	Osun	7.210	4.307	2	Agiri Emu
+Idi-Emi	Afijio	Oyo	7.682	3.871	2	Idi Emi|IdiEmi
+Emuema	Brass	Bayelsa	4.744	6.562	2	
+Emele	Brass	Bayelsa	4.580	6.512	2	
+Emon	Abua/Odual	Rivers	4.805	6.651	2	
+Emuren	Ìkòròdú	Lagos	6.660	3.518	2	
+Emiloro-Oda	Akure South	Ondo	7.176	5.230	2	
+Emure	Ọ̀wọ̀	Ondo	7.244	5.510	2	
+Emure-Ile	Ọ̀wọ̀	Ondo	7.251	5.515	2	
+Emirin	Adó-Èkìtì	Ekiti	7.626	5.293	2	
+Ikot Emian	Calabar Municipal	Cross River	5.085	8.390	2	
+Emiemukumogbene	Ekeremor	Bayelsa	4.816	5.542	2	
+Emiemukumo	Ekeremor	Bayelsa	4.816	5.561	2	
+Emile	Borgu	Niger	10.200	3.665	2	
+Emu	Tai	Rivers	4.805	7.209	2	
+Ikot Emien	Itu	Akwa Ibom	5.047	7.904	2	
+Emesoye	Isoko South	Delta	5.509	6.190	2	
+Emioko	Ndokwa East	Delta	5.556	6.527	2	
+Odi	Kolokuma/Opokuma	Bayelsa	5.174	6.300	2	Emblama
+Emezi I	Ahoada West	Rivers	5.072	6.521	2	
+Emefune	Aniocha South	Delta	6.054	6.402	2	
+Emuoha	Emuoha	Rivers	5.007	6.747	2	Emuoha Local Government Area
+Rumu-Eme	Obio/Akpor	Rivers	4.845	6.998	2	
+Emam	Abua/Odual	Rivers	4.782	6.590	2	
+Embega	Katsina-Ala	Benue	7.543	9.453	2	
+Emo	Ukum	Benue	7.649	9.498	2	
+Emizumata	Lavun	Niger	9.402	5.642	2	
+Emiworogi	Lavun	Niger	9.401	5.820	2	
+Emiajiya	Gbako	Niger	9.327	5.963	2	
+Emiworogi	Gbako	Niger	9.299	5.947	2	
+Emindache	Gbako	Niger	9.273	5.886	2	
+Emiwora	Lavun	Niger	9.304	5.826	2	
+Emigilali	Lavun	Niger	9.293	5.811	2	
+Emigi	Gbako	Niger	9.256	5.907	2	
+Emitsauci	Gbako	Niger	9.259	5.978	2	
+Emigba	Gbako	Niger	9.209	5.912	2	
+Emigba	Gbako	Niger	9.244	5.971	2	
+Emiafa	Gbako	Niger	9.158	5.985	2	
+Emigiyan	Gbako	Niger	9.135	5.987	2	
+Emiworogi	Lavun	Niger	9.080	5.767	2	
+Emibunu	Gbako	Niger	9.081	5.876	2	
+Emiluaki	Gbako	Niger	9.085	5.891	2	
+Emiworogi	Gbako	Niger	9.063	5.933	2	
+Emisakoko	Gbako	Niger	9.055	5.953	2	
+Emimanzhi	Edati	Niger	9.049	5.952	2	
+Emiladan	Edati	Niger	9.043	5.995	2	
+Emitsukolo	Edati	Niger	9.045	5.972	2	
+Emitshaba	Edati	Niger	9.046	5.975	2	
+Emitswayan	Edati	Niger	9.045	5.960	2	
+Emitsuko	Gbako	Niger	9.025	5.925	2	
+Emitswayan	Edati	Niger	9.025	5.927	2	
+Emiman	Edati	Niger	9.016	5.929	2	
+Emindaiji	Edati	Niger	9.023	5.939	2	
+Emigbagba	Edati	Niger	9.013	5.963	2	
+Emitete	Edati	Niger	9.019	5.981	2	
+Emigwari	Edati	Niger	9.019	5.999	2	
+Fekin Emisheshinatsu	Edati	Niger	9.014	5.994	2	
+Emitsu Alinasan	Gbako	Niger	9.062	5.862	2	
+Emikpotun	Gbako	Niger	9.032	5.843	2	
+Emisuasu	Mokwa	Niger	9.027	5.821	2	
+Emitsuisa	Lavun	Niger	9.036	5.768	2	
+Sheshigoya Emishabadangana	Gbako	Niger	9.018	5.830	2	
+Emiworo	Gbako	Niger	9.013	5.845	2	
+Emitsundadan	Edati	Niger	9.005	5.998	2	
+Emisheshikatsa	Edati	Niger	9.005	5.990	2	
+Emibago	Edati	Niger	9.135	5.702	2	
+Eminnagunu	Edati	Niger	9.118	5.719	2	
+Emiyisa	Edati	Niger	9.121	5.708	2	
+Eminayeko	Edati	Niger	9.118	5.693	2	
+Emindagiwa	Edati	Niger	9.135	5.658	2	
+Emindasa	Edati	Niger	9.130	5.655	2	
+Eminaijiko	Edati	Niger	9.129	5.660	2	
+Emitasha	Edati	Niger	9.128	5.664	2	
+Emimagul	Edati	Niger	9.125	5.657	2	
+Emindaseko	Edati	Niger	9.122	5.650	2	
+Emindakosusule	Edati	Niger	9.118	5.690	2	
+Emiwodu	Edati	Niger	9.115	5.692	2	
+Emindatsu	Edati	Niger	9.111	5.694	2	
+Emindaguruza	Edati	Niger	9.114	5.688	2	
+Emimaji	Edati	Niger	9.113	5.654	2	
+Emindadzan	Edati	Niger	9.114	5.661	2	
+Emipoto	Edati	Niger	9.112	5.663	2	
+Emimasara	Edati	Niger	9.112	5.662	2	
+Emindagbora	Edati	Niger	9.108	5.663	2	
+Emidati	Edati	Niger	9.104	5.675	2	
+Emindaiji	Edati	Niger	9.101	5.679	2	
+Emishaba	Edati	Niger	9.099	5.671	2	
+Emidzan	Edati	Niger	9.101	5.674	2	
+Emindaisa	Edati	Niger	9.092	5.668	2	
+Emilagada	Edati	Niger	9.092	5.670	2	
+Bafo Emitswaci	Edati	Niger	9.092	5.674	2	
+Emikpansana	Edati	Niger	9.089	5.671	2	
+Emitwaki	Edati	Niger	9.091	5.680	2	
+Emindakadi	Edati	Niger	9.087	5.672	2	
+Emisakiwa	Edati	Niger	9.086	5.671	2	
+Emisheshi	Edati	Niger	9.085	5.675	2	
+Emiapaki	Edati	Niger	9.082	5.685	2	
+Emitsowabafo	Edati	Niger	9.083	5.670	2	
+Emidatsujiya	Edati	Niger	9.082	5.672	2	
+Emiapaki	Edati	Niger	9.073	5.686	2	
+Emindafa	Edati	Niger	9.065	5.676	2	
+Emiwagasu	Edati	Niger	9.064	5.677	2	
+Emitiponu	Edati	Niger	9.065	5.681	2	
+Emindarani	Edati	Niger	9.065	5.686	2	
+Emindazhi	Edati	Niger	9.118	5.649	2	
+Emizhitsu	Edati	Niger	9.134	5.621	2	
+Emindaceko	Edati	Niger	9.033	5.694	2	
+Emiworogi Umaru	Gbako	Niger	9.364	6.114	2	
+Emiworogi	Gbako	Niger	9.376	6.041	2	
+Emigi-Zana	Gbako	Niger	9.397	6.002	2	
+Emibezhi	Gbako	Niger	9.320	6.060	2	
+Emigwai	Gbako	Niger	9.308	6.054	2	
+Emimagi	Gbako	Niger	9.304	6.104	2	
+Emiyeti	Gbako	Niger	9.314	6.108	2	
+Emigara	Gbako	Niger	9.285	6.048	2	
+Emifogi	Gbako	Niger	9.272	6.046	2	
+Emizoachi	Gbako	Niger	9.238	6.039	2	
+Emiginba	Gbako	Niger	9.225	6.045	2	
+Emiladan	Gbako	Niger	9.219	6.062	2	
+Emigba	Gbako	Niger	9.203	6.038	2	
+Emichapa	Gbako	Niger	9.183	6.037	2	
+Emiyogi	Gbako	Niger	9.201	6.057	2	
+Emitiguniji	Gbako	Niger	9.175	6.035	2	
+Emiworogi	Gbako	Niger	9.167	6.039	2	
+Emitsachi	Gbako	Niger	9.204	6.088	2	Zuntaji
+Emimafauchi	Gbako	Niger	9.171	6.070	2	
+Emijiko	Katcha	Niger	9.152	6.231	2	
+Emiworogi	Agaie	Niger	9.181	6.413	2	
+Emiworogi	Katcha	Niger	9.098	6.187	2	
+Emiworogi	Katcha	Niger	9.097	6.157	2	
+Emidibo	Edati	Niger	9.123	6.111	2	
+Emindaguye	Edati	Niger	9.152	6.076	2	
+Emiworogi	Edati	Niger	9.118	6.068	2	
+Emichiru	Gbako	Niger	9.134	6.021	2	
+Emibana	Edati	Niger	9.083	6.072	2	
+Emitsu	Edati	Niger	9.083	6.085	2	
+Emilugi	Edati	Niger	9.075	6.074	2	
+Emidogo	Edati	Niger	9.018	6.059	2	
+Emidogbe	Edati	Niger	9.034	6.050	2	
+Emibere	Edati	Niger	9.032	6.057	2	
+Emitsuayan	Edati	Niger	9.025	6.026	2	
+Emagholo	Esan Central	Edo	6.699	6.238	2	
+Emolomen Camp	Esan Central	Edo	6.601	6.202	2	
+Emu	Lagelu	Oyo	7.450	4.005	2	
+Eminiwa	Obokun	Osun	7.824	4.704	2	
+Olufowora-Emere	Odeda	Ogun	7.232	3.519	2	
+Emolu	Odeda	Ogun	7.192	3.559	2	
+Emere	Odeda	Ogun	7.345	3.642	2	
+Idi-Emin	Ibarapa North	Oyo	7.598	3.122	2	
+Emi-Agbe	Ibarapa North	Oyo	7.564	3.065	2	
+Idi-Emi	Ori Ire	Oyo	7.980	4.085	2	
+Emi	Ilorin West	Kwara	8.424	4.575	2	
+Emindat	Edati	Niger	8.934	5.911	2	
+Emiwologi	Edati	Niger	8.950	5.795	2	
+Emistwagi	Edati	Niger	8.953	5.768	2	
+Emigoyi	Edati	Niger	8.970	5.910	2	
+Emihoro	Katcha	Niger	8.834	6.280	2	
+Emigi	Edati	Niger	9.070	5.497	2	
 Emmanuel Olorunfemi Street	Ifako/Ijaye	Lagos	6.637	3.332	1	
 Elder Emenike Eks Close	Obio/Akpor	Rivers	4.823	7.067	1	
 Emekukwu Road	Port-Harcourt	Rivers	4.809	7.006	1	
@@ -92,7 +289,6 @@ Emovon Crescent	Oredo	Edo	6.310	5.615	1
 Emovon Street	Ikpoba-Okha	Edo	6.321	5.660	1	
 Emovon Street	Egor	Edo	6.367	5.636	1	
 Emeje Street	Oredo	Edo	6.324	5.592	1	
-Iyi-Eweka/Emotan/Idia Primary School	Oredo	Edo	6.346	5.630	0	
 Emotan Road	Apapa	Lagos	6.447	3.361	1	
 Emordi Street	Ajeromi/Ifelodun	Lagos	6.444	3.334	1	
 Emmanuel Street	Shomolu	Lagos	6.540	3.371	1	
@@ -104,7 +300,6 @@ Emeka Nweze Street	Eti Osa	Lagos	6.450	3.476	1
 Idowu Emma Street	Eti Osa	Lagos	6.427	3.496	1	
 General Emdin Street	Eti Osa	Lagos	6.437	3.480	1	
 Emir Palace Road	Kano Municipal	Kano	11.989	8.519	1	
-Emeka Anyaoku Street	Municipal Area Council	FCT Abuja	9.039	7.491	1	
 Emmanuel Street	Offa	Kwara	8.156	4.711	1	
 Emmanuel Adiele Street	Municipal Area Council	FCT Abuja	9.065	7.420	1	
 Emeka Anaoku Street	Municipal Area Council	FCT Abuja	9.047	7.495	1	
@@ -112,8 +307,6 @@ Embu Street	Municipal Area Council	FCT Abuja	9.079	7.472	1
 Emir's road	Kazaure	Jigawa	12.652	8.408	1	
 Emmanuel Onoji Crescent	Eti Osa	Lagos	6.474	3.610	1	
 Emir Road	Ilorin East	Kwara	8.497	4.548	1	
-Emir Road	Ilorin East	Kwara	8.490	4.559	1	
-Emir Road	Ilorin East	Kwara	8.494	4.554	1	
 Emmanuel Close	Surulere	Lagos	6.486	3.338	1	
 Emir Yahaya Road	Sokoto South	Sokoto	13.052	5.237	1	
 Emily Akinola Street	Shomolu	Lagos	6.527	3.388	1	
@@ -153,8 +346,6 @@ Mary Emmanuel Street	Enugu East	Enugu	6.485	7.481	1
 Sir Tobias Emeh Avenue	Enugu North	Enugu	6.466	7.575	1	
 Emma Mbanugo	Enugu East	Enugu	6.480	7.484	1	
 Ifeanyi Emesun Street	Enugu East	Enugu	6.477	7.586	1	
-Ifeanyi Emesun Street	Enugu East	Enugu	6.477	7.585	1	
-Emene	Enugu North	Enugu	6.441	7.571	2	
 Emilike Street	Enugu East	Enugu	6.497	7.500	1	
 Dr Emeka Anyanwu Close	Enugu South	Enugu	6.422	7.532	1	
 Dr. Charles Emehelu Street	Enugu East	Enugu	6.506	7.517	1	
@@ -163,7 +354,6 @@ Emotan Lane	Ibadan North	Oyo	7.446	3.900	1
 Chief Emeka H. Arinze Street	Enugu East	Enugu	6.467	7.551	1	
 Emmanuel Offor Street	Oshodi/Isolo	Lagos	6.493	3.294	1	
 Emmanuel Tombia Street	Eti Osa	Lagos	6.487	3.594	1	
-Emmanuel Tombia Street	Eti Osa	Lagos	6.484	3.590	1	
 Emirs palace road	Chanchaga	Niger	9.621	6.551	1	
 Emmanuel Anabor Street	Eti Osa	Lagos	6.466	3.636	1	
 Emir Road	Eti Osa	Lagos	6.464	3.568	1	
@@ -197,50 +387,78 @@ Emando Osimen Road	Esan West	Edo	6.763	6.128	1
 Emekukwu Road	Port-Harcourt	Rivers	4.786	6.990	1	
 Tonia Emmanuel Avenue	Eti Osa	Lagos	6.451	3.613	1	
 Emmanuel Road	Eti Osa	Lagos	6.457	3.618	1	
-Emekukwu Road	Port-Harcourt	Rivers	4.797	6.998	1	
 Emir Umar Road	Birnin Kebbi	Kebbi	12.451	4.197	1	
-Emekukwu Road	Port-Harcourt	Rivers	4.793	6.996	1	
 Elder Emmanuel Amadi Street	Obio/Akpor	Rivers	4.885	6.978	1	
 Emeritus Prof. Otonti Nduka Close	Ikwerre	Rivers	4.907	6.913	1	
-Emir Palace Road	Kano Municipal	Kano	11.991	8.528	1	
 Emmanuel Crescent	Badagry	Lagos	6.436	2.982	1	
 Emmanuel Nuottoh Street	Municipal Area Council	FCT Abuja	8.983	7.354	1	
 Emmanuel Olofu Street	Markurdi	Benue	7.714	8.535	1	
 Emmanuel Mbaka Boulevard	Municipal Area Council	FCT Abuja	8.963	7.361	1	
-Eme Court Road	Nnewi North	Anambra	5.994	6.904	1	
-Emmanuel Street	Offa	Kwara	8.151	4.709	1	
 Emeka Abalu Avenue	Enugu East	Enugu	6.479	7.487	1	
 Emmanuel Achukwu Street	Eti Osa	Lagos	6.464	3.581	1	
 Emeka R Anikwe Street	Municipal Area Council	FCT Abuja	9.025	7.546	1	
-Chief Emeka Ebila Street	Enugu South	Enugu	6.414	7.487	1	
 Ben Emeasoba Street	Enugu North	Enugu	6.465	7.574	1	
 Emman Sodeso Street	Uvwie	Delta	5.564	5.771	1	
-Emporium Plaza	Ikeja	Lagos	6.598	3.353	0	
 Emmanuel Anglican Church road	Ife North	Osun	7.548	4.460	1	
 Bola Emmanuel Drive	Municipal Area Council	FCT Abuja	9.046	7.535	1	
 Alice Emefiele Street	Municipal Area Council	FCT Abuja	9.038	7.534	1	
 Dr. Emeka Njoku's Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.193	1	
 Chris Emeziem Anyanwu's lane	Aboh-Mbaise	Imo	5.491	7.192	1	
+Emmanuel Lane	Ikpoba-Okha	Edo	6.209	5.615	1	
+Femi Emaleku Street	Ibeju Lekki	Lagos	6.479	3.841	1	
+Emevor-Orogun Road	Isoko North	Delta	5.516	6.121	1	
+Chief Emma Ogbu Crescent	Enugu East	Enugu	6.475	7.530	1	
+Eromosele Emoyon Edokpa Street	Esan Central	Edo	6.800	6.236	1	
+Emanuel Foundation School	Oredo	Edo	6.308	5.598	0	
+Emokpac Primary School	Oredo	Edo	6.340	5.625	0	
+Emotan College	Oredo	Edo	6.347	5.620	0	
+ESUTH Pediatrics Emergency	Enugu North	Enugu	6.461	7.494	0	
+Emmanuel Clinic	Enugu North	Enugu	6.441	7.495	0	
+Kaduna Emergency Operations Center	Kaduna North	Kaduna	10.514	7.453	0	
+Knowledge Base International Kiddies Embassy	Akinyele	Oyo	7.527	3.925	0	
+Emmanuel College	Owerri Municipal	Imo	5.480	7.032	0	
+Emily and Gas Filling Station	Yenegoa	Bayelsa	4.923	6.314	0	
+Emergency Operations Center - Sokoto	Sokoto South	Sokoto	13.052	5.246	0	
+Kano Emergency Operations Center	Nassarawa	Kano	11.996	8.550	0	
+Emmanoil	Ojo	Lagos	6.484	3.170	0	
+Primary Health Center, Emekuku	Port-Harcourt	Rivers	4.794	6.997	0	
+Emaayo Filling Station	Ogbomosho North	Oyo	8.129	4.233	0	
+emmanuel anglican primary school ii, italupe	Ìjẹ̀bú Òde	Ogun	6.809	3.919	0	
+emmanuel anglican. primary school i, italupe	Ìjẹ̀bú Òde	Ogun	6.810	3.919	0	
+Emmanuel African Church School Ifo	Ado Odo/Ota	Ogun	6.591	3.069	0	
+St. Paul'S Anglican Primary School, Emuren	Shagamu	Ogun	6.853	3.526	0	
+Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.684	3.300	0	
+Community Primaryschool, Emily-Obadina	Ado Odo/Ota	Ogun	6.579	3.087	0	
+Emmanuel Anglican Church School, Ibogun Odejimi	Shagamu	Ogun	6.851	3.642	0	
+Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.831	3.195	0	
+Community Primaryschool, Emily-Obadina	Ifo	Ogun	6.830	3.198	0	
+Emmanuel Anglican Church School, Ibogun Odejimi	Ifo	Ogun	6.812	3.114	0	
+Emmanuel African Church School Ifo	Ifo	Ogun	6.811	3.181	0	
+St. Paul'S Anglican Primary School, Emuren	Shagamu	Ogun	6.754	3.648	0	
+New Society Bus stop Emene	Enugu East	Enugu	6.473	7.582	0	
+Oye emene Market	Enugu East	Enugu	6.479	7.578	0	
+Emmanuel Hospital, Awotan- Apete, Ibadan	Ido	Oyo	7.450	3.870	0	
+Emergency	Bauchi	Bauchi	10.323	9.829	0	
+Emmanuel Power Hospital	Ojo	Lagos	6.476	3.163	0	
+Emc Hospital and Maternity	Alimosho	Lagos	6.585	3.305	0	
+Emel Specialist Hospital Festac Town	Amuwo Odofin	Lagos	6.476	3.289	0	
+Emphatic Model School	Ungongo	Kano	12.042	8.568	0	
+Iyana Opomalu Bus Stop, Emirs Road, Ilorin, Nigeria	Ilorin East	Kwara	8.491	4.559	0	
+Emadeb Energy	Municipal Area Council	FCT Abuja	9.086	7.460	0	
+Emcee Veterinary Services	Municipal Area Council	FCT Abuja	9.141	7.376	0	
+Iyi-Eweka/Emotan/Idia Primary School	Oredo	Edo	6.346	5.630	0	
+Emporium Plaza	Ikeja	Lagos	6.598	3.353	0	
 Emel Hospital	Amuwo Odofin	Lagos	6.476	3.289	0	
 Obu Amarachukwu Emmanuel Hospital & Maternity	Enugu East	Enugu	6.482	7.509	0	
 Bauchi Emergency Operations Center	Bauchi	Bauchi	10.306	9.822	0	
 Lagos Emergency Operations Center	Shomolu	Lagos	6.512	3.371	0	
 Accident and Emergency	Warri South	Delta	5.517	5.734	0	
-Emmanuel Lane	Ikpoba-Okha	Edo	6.209	5.615	1	
-Femi Emaleku Street	Ibeju Lekki	Lagos	6.479	3.841	1	
-Emevor-Orogun Road	Isoko North	Delta	5.516	6.121	1	
 Holy Rosary Hospital, Emekuku	Owerri North	Imo	5.468	7.110	0	
 Nkwo Emeke	Owerri North	Imo	5.476	7.124	0	
-Chief Emma Ogbu Crescent	Enugu East	Enugu	6.475	7.530	1	
-Eromosele Emoyon Edokpa Street	Esan Central	Edo	6.800	6.236	1	
-Emir Road	Eti Osa	Lagos	6.461	3.562	1	
 Emewha Primary School	Isoko North	Delta	5.517	6.123	0	
 Emevor Small Market	Isoko North	Delta	5.509	6.117	0	
 Emevor Mixed Secondary School	Isoko North	Delta	5.534	6.124	0	
 Emmanuel Medical Centre	Egbedore	Osun	7.776	4.528	0	
-Alice Emefiele Street	Municipal Area Council	FCT Abuja	9.038	7.536	1	
 Medical Emergency	Nnewi North	Anambra	6.000	6.881	0	
-Paediatric Emergency/Paediatrics Ward	Nnewi North	Anambra	6.000	6.880	0	
-Sir Emeka Offor Medical Ward	Nnewi North	Anambra	5.998	6.880	0	
-Emure	Emure	Ekiti	7.429	5.513	2	
-Emuoha	Emuoha	Rivers	5.032	6.764	2	
+Paediatric Emergency/Paediatrics	Nnewi North	Anambra	6.000	6.880	0	
+Sir Emeka Offor Medical	Nnewi North	Anambra	5.998	6.880	0	

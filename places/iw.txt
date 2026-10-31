@@ -1,6 +1,13 @@
-Iwo Station	Aiyedire	Osun	7.556	4.205	0	
-Iwuru Obiontan	Biase	Cross River	5.421	8.177	2	Iwuru Obio
 Iwo	Iwo	Osun	7.633	4.183	3	
+Àgọ́-Ìwòyè	Ijebu North	Ogun	6.939	3.919	3	Ago-Iwoye
+Iwollo-Oye	Ezeagu	Enugu	6.442	7.285	3	Iwollo-Oye;Iwolo-Oye
+Iwere Ile	Iwajowa	Oyo	7.999	3.089	3	Iwere
+Iware	Ardo-Kola	Taraba	8.826	11.106	3	
+Warri	Warri South	Delta	5.519	5.748	3	Iwere
+Iwo	Iwo	Osun	7.635	4.182	3	Ivo
+Iwere-Ile	Iwajowa	Oyo	7.999	3.089	3	Iwere
+Iwo Road	Ibadan North East	Oyo	7.415	3.958	2	
+Iwuru Obiontan	Biase	Cross River	5.421	8.177	2	Iwuru Obio
 Iwhrerhe	Ughelli North	Delta	5.304	6.068	2	
 Iware	Afijio	Oyo	7.652	3.786	2	
 Iwanja-Moferere	Idanre	Ondo	7.037	5.120	2	
@@ -19,12 +26,9 @@ Iwok Nsit	Nsit Atai	Akwa Ibom	4.783	8.052	2
 Iwara	Atakunmosa West	Osun	7.533	4.717	2	Wara
 Ungwan-Iwa	Maru	Zamfara	11.275	6.416	2	
 Iwhregolor	Ughelli South	Delta	5.278	5.868	2	Iwhredolor
-Àgọ́-Ìwòyè	Ijebu North	Ogun	6.939	3.919	3	Ago-Iwoye
 Aguobu-Iwollo	Ezeagu	Enugu	6.432	7.238	2	
-Iwollo-Oye	Ezeagu	Enugu	6.442	7.285	3	Iwollo-Oye;Iwolo-Oye
 Iwuru-Turunkekpem	Biase	Cross River	5.399	8.221	2	Iwuru
 Iwesolu	Ibeju Lekki	Lagos	6.436	3.764	2	
-Iwere Ile	Iwajowa	Oyo	7.999	3.089	3	Iwere
 Iwo	Isin	Kwara	8.299	5.035	2	
 Ogoni	Ughelli South	Delta	5.450	5.943	2	Iwhrogoni
 Iwofe	Obio/Akpor	Rivers	4.818	6.957	2	Iwofe;Obukuru;Owofi
@@ -37,29 +41,149 @@ Iwokiri	Akuku Toru	Rivers	4.456	6.697	2
 Warrake	Owan East	Edo	6.997	6.171	2	Iwareki
 Ipole	Ekiti West	Ekiti	7.583	4.950	2	Apa;Apa-Iwaji
 Iwopin	Ogun Waterside	Ogun	6.508	4.175	2	
-Army Children School Iwo-Road	Ibadan North East	Oyo	7.405	3.936	0	
-CEG Iwoyé	Imeko Afon	Ogun	7.568	2.735	0	
-EPP Iwoyé	Imeko Afon	Ogun	7.555	2.741	0	
-Marché d'Iwoyé	Imeko Afon	Ogun	7.554	2.743	0	
-Iwaro Oka Market	Akoko South West	Ondo	7.443	5.764	0	
-Ebo Market Iwaro	Akoko South West	Ondo	7.440	5.771	0	
-Iworo Ajido Jetty	Badagry	Lagos	6.414	3.008	0	
-St. Mark'S Anglican Primary School, Iwelepe	Shagamu	Ogun	6.876	3.574	0	
 Iwele	Sagbama	Bayelsa	5.302	6.306	2	
 Iwremero	Isoko South	Delta	5.306	6.304	2	
-Dola Medical Centre, Iwo-Road/Olodo	Lagelu	Oyo	7.429	3.999	0	
 Iwrogbovwa	Ughelli North	Delta	5.536	6.016	2	
 Iwrohwaro	Ughelli North	Delta	5.535	6.001	2	
 Iwremeragha	Ughelli North	Delta	5.543	6.027	2	
 Iwrekpokpor	Isoko North	Delta	5.561	6.124	2	Edjeba
-Warri	Warri South	Delta	5.519	5.748	3	Iwere
-Iworo Ajido Model College	Badagry	Lagos	6.437	2.974	0	
-Iwo City Hall	Iwo	Osun	7.634	4.179	0	
 Iwoama	Nembe	Bayelsa	4.625	6.273	2	
 Iwhrobi	Ughelli South	Delta	5.301	5.832	2	
-iwopin (ogun)	Ogun Waterside	Ogun	6.518	4.192	0	
-Iwo Road	Egbeda	Oyo	7.416	3.962	1	
-Iwo Road	Lagelu	Oyo	7.415	3.958	1	
+Rafin Iwa	Sabuwa	Katsina	11.258	7.026	2	
+Iwo	Iwo	Osun	7.673	4.136	2	
+Iwajowa	Iwajowa	Oyo	7.990	2.989	2	
+Ungwan-Iwa	Maru	Zamfara	11.263	6.415	2	
+Oseyawo-Iwaju	Itesiwaju	Oyo	8.320	3.495	2	Oseyawo Iwaju
+Orioke-Iwamimo	Ilaje	Ondo	6.189	4.678	2	Orioke Iwamimo
+Oke-Iwo	Ipokia	Ogun	6.799	2.809	2	Fayomi|Oke Iwo
+Ndi-Iwo	Bende	Abia	5.504	7.683	2	
+Iwyal	Gboko	Benue	7.286	8.701	2	
+Iwuku-Isale	Ipokia	Ogun	6.537	2.818	2	Iwuku|Wuku
+Iwu	Ovia North-East	Edo	6.500	5.567	2	
+Iwoye	Egbedore	Osun	7.745	4.365	2	
+Iwoye	Imeko Afon	Ogun	7.550	2.750	2	Youoye
+Iwoye	Yewa North	Ogun	7.133	3.071	2	
+Iwoye	Yewa South	Ogun	6.799	3.010	2	
+Iworoko	Irepodun/Ifelodun	Ekiti	7.731	5.263	2	
+Iwo-Oke	Ola Oluwa	Osun	7.817	4.242	2	Iwo Oke|IwoOke
+Iwonte	Asa	Kwara	8.376	4.496	2	
+Iwonso	Orolu	Osun	7.886	4.437	2	
+Iwollo-Oghe	Ezeagu	Enugu	6.442	7.284	2	Iwollo-Oye|Iwolo-Oye
+Iwokunla	Obafemi Owode	Ogun	7.043	3.307	2	
+Iwokiri	Akuku Toru	Rivers	4.424	6.783	2	
+Iwofin	Surulere	Oyo	8.162	4.398	2	
+Iwofin	Abeokuta North	Ogun	7.227	3.261	2	
+Wafe	Obio/Akpor	Rivers	4.807	6.935	2	Iwofe|Obukuru|Owofi
+Iwo Ate Oke	Ejigbo	Osun	7.850	4.100	2	
+Iwo-Ate	Ejigbo	Osun	7.844	4.106	2	Iwo Ate|IwoAte
+Iwoama	Degema	Rivers	4.789	6.786	2	Ewoama
+Iwo	Odeda	Ogun	7.252	3.408	2	
+Iwhrorude	Ughelli South	Delta	5.344	6.019	2	Ireruke
+Iwhrorha	Ughelli South	Delta	5.333	6.018	2	Ifikivwe|Twhrorha
+Iwhrogun	Ughelli South	Delta	5.266	5.940	2	
+Erhe	Ughelli North	Delta	5.302	6.069	2	Iwhrerhe
+Iwhreredje	Ughelli South	Delta	5.278	5.928	2	
+Iwhrekpo	Isoko South	Delta	5.303	6.169	2	
+Iwhrasuobi	Ughelli South	Delta	5.300	5.950	2	
+Iwhrakpoyibo	Ughelli South	Delta	5.283	5.950	2	
+Iwhrakara	Ughelli South	Delta	5.270	5.857	2	
+Iwnr	Isoko South	Delta	5.289	6.151	2	Iwhr|Iwhre
+Iwere	Kajola	Oyo	8.054	3.343	2	
+Iwenge	Konshisha	Benue	7.385	8.606	2	
+Iwen	Konshisha	Benue	7.236	8.626	2	
+Iwata	Ejigbo	Osun	7.865	4.289	2	
+Iwata	Irewole	Osun	7.394	4.286	2	
+Iwarnor	Donga	Taraba	7.888	10.334	2	
+Iware	Ogo Oluwa	Oyo	7.961	4.298	2	
+Iware	Afijio	Oyo	7.681	3.960	2	
+Iwaraja	Oriade	Osun	7.623	4.825	2	
+Iwara	Ola Oluwa	Osun	7.713	4.225	2	
+Iwara	Atakunmosa West	Osun	7.532	4.725	2	Wara
+Iwan	Gboko	Benue	7.389	8.647	2	
+Iwal	Konshisha	Benue	7.124	8.668	2	
+Iwada	Okitipupa	Ondo	6.570	4.602	2	
+Iwa	Konshisha	Benue	7.111	8.731	2	
+Ikot Okon Ekpri Iwon	Akpabuyo	Cross River	4.853	8.515	2	
+Ikot Iwud	Nsit Ibom	Akwa Ibom	4.848	7.879	2	
+Ikot Ator Iwuo	Ukanafun	Akwa Ibom	4.827	7.552	2	
+Alli-Iwo	Odeda	Ogun	7.183	3.477	2	Alli Iwo
+Alfa-Iwo	Ori Ire	Oyo	8.568	4.078	2	Alfa Iwo
+Ago	Ijebu North	Ogun	6.936	3.922	2	Ago-Iwoye
+Agobi-Iwolo	Ezeagu	Enugu	6.433	7.236	2	Agobi-Iwolu
+Iwaya	Lagos Mainland	Lagos	6.504	3.392	2	
+Iwesolu	Ibeju Lekki	Lagos	6.434	3.764	2	
+Iwaya	Ijebu East	Ogun	6.762	4.030	2	
+Ajegunle-Iwonja	Idanre	Ondo	7.013	5.127	2	
+Iwoye	Akure South	Ondo	7.214	5.117	2	
+Iwoo	Gboko	Benue	7.453	8.823	2	
+Iwirri	Oturkpo	Benue	7.579	8.004	2	
+Iwa	Markurdi	Benue	7.711	8.439	2	
+Okurike-Iwuru	Biase	Cross River	5.400	8.123	2	
+Iwu	Ovia North-East	Edo	6.482	5.587	2	
+Iwrekreka	Ughelli South	Delta	5.495	5.894	2	
+Iwhreoguname	Ughelli South	Delta	5.462	5.915	2	
+Iwhreka	Udu	Delta	5.456	5.882	2	
+Iwhrogeged	Ughelli South	Delta	5.459	5.897	2	
+Iwhrobi	Bomadi	Delta	5.284	5.844	2	
+Iwhresi	Ughelli South	Delta	5.271	5.938	2	
+Iwhrerewhewhu	Ughelli South	Delta	5.272	5.926	2	
+Iwhremahwe	Ughelli South	Delta	5.229	5.913	2	
+Iwiekpenigbene	Ekeremor	Bayelsa	4.963	5.563	2	
+Iwuo-Ukem	Etim Ekpo	Akwa Ibom	4.943	7.491	2	
+Iwoma	Andoni	Rivers	4.473	7.360	2	
+Iwogono	Andoni	Rivers	4.469	7.339	2	
+Iwo Eto	Etinan	Akwa Ibom	4.723	7.829	2	
+Iwrogbovwa	Ughelli North	Delta	5.533	6.017	2	
+Iwrohwaro	Ughelli North	Delta	5.534	6.002	2	
+Iwrekpokpo	Ughelli North	Delta	5.502	6.017	2	
+Iwre-Grigri	Isoko North	Delta	5.530	6.109	2	
+Iwhrepanama	Isoko South	Delta	5.410	6.342	2	
+Iwhrogboko	Ndokwa East	Delta	5.322	6.341	2	
+Iwreurie	Isoko South	Delta	5.311	6.293	2	
+Iwhre-Olomoro	Isoko South	Delta	5.265	6.168	2	
+Kayan-Iwakade	Sagbama	Bayelsa	5.216	6.326	2	
+Iwajowa	Iwajowa	Oyo	8.000	3.083	2	
+Ahoada West	Ahoada West	Rivers	5.086	6.471	2	Agbegbe Ijoba Ibile Iwoorun Ahoada|Ahoada Oeste|Ahoada Ouest|Ahoada ta Yamma|Se Ahoada|ghrb ahwada
+Anambra West	Anambra West	Anambra	6.359	6.750	2	Agbegbe Ijoba Ibile Iwoorun Anambra|Anambra Ouest|Anambra ta Yamma|Anambra-Oeste|Se Anambra|anambra ghrby
+Oru West	Oru West	Imo	5.742	6.911	2	Agbegbe Ijoba Ibile Iwoorun Oru|Oru Oeste|Oru Ouest|Oru ta Yamma|Se Oru
+Owerri West	Owerri West	Imo	5.432	6.980	2	Agbegbe Ijoba Ibile Iwoorun Owerri|Owerri Ouest|Owerri ta Yamma|Se Owerri|owerri west|xioueri
+Saki West	Saki West	Oyo	8.570	3.147	2	Iwooorun Saki|Saki Ouest|Saki ta Yamma|Se Saki
+Ukwa West	Ukwa West	Abia	4.954	7.239	2	Agbegbe Ijoba Ibile Iwoorun Ukwa|Se Ukwa|Ukwa Ouest|Ukwa ta Yamma|Zakhidna Ukva
+Nkanu West	Nkanu West	Enugu	6.311	7.509	2	Agbegbe Ijoba Ibile Iwoorun Nkanu|Nkanu Oeste|Nkanu ta Yamma|Se Nkanu
+Ekiti West	Ekiti West	Ekiti	7.687	5.028	2	Agbegbe Ijoba Ibile Iwoorun Ekiti|Ekiti Ouest|Ekiti West Local Government Area|Ekiti ta Yamma|Se Ekiti
+Ekiti South-West	Ekiti South-West	Ekiti	7.513	5.052	2	Agbegbe Ijoba Ibile Guusu-Iwoorun Ekiti|Ekiti South West|Ekiti South West Local Government Area|Ekiti Sud Ouest|Ekiti Su
+Iwuramdi	Mafa	Borno	11.911	13.592	2	
+Iwarev	Konshisha	Benue	6.883	8.897	2	
+Rafin Iwa	Sabuwa	Katsina	11.262	7.036	2	
+Iwa	Logo	Benue	7.603	9.136	2	
+Iwekwagh	Gboko	Benue	7.475	9.046	2	
+Iwa	Buruku	Benue	7.472	9.240	2	
+Iwan	Buruku	Benue	7.414	9.219	2	
+Iwa	Buruku	Benue	7.224	9.139	2	
+Iwo	Ushongo	Benue	7.099	9.252	2	
+Iwokwagh	Katsina-Ala	Benue	7.240	9.378	2	
+Iwambe	Gboko	Benue	7.460	8.896	2	
+Iwachongo	Gboko	Benue	7.391	8.971	2	
+Iwar	Gboko	Benue	7.320	8.782	2	
+Iwyokwagh	Gboko	Benue	7.261	8.867	2	
+Iwogbene	Brass	Bayelsa	4.411	6.089	2	
+Iworo Gbanko	Badagry	Lagos	6.427	3.033	2	
+Iwerekun Two	Ibeju Lekki	Lagos	6.466	3.754	2	Iwerekun II Ward
+Iwerekun One	Ibeju Lekki	Lagos	6.458	3.686	2	Iwerekun I Ward
+Idumu-Iwe	Esan South-East	Edo	6.528	6.360	2	
+Iwari-Oloyo	Isokan	Osun	7.278	4.137	2	
+Iwari-Ogundiran	Isokan	Osun	7.271	4.136	2	
+Iwuola	Aiyedade	Osun	7.423	4.305	2	
+Iwaro-Odo	Atakunmosa West	Osun	7.618	4.638	2	
+Iwaro-Oke	Atakunmosa West	Osun	7.615	4.631	2	
+Iwikun	Ilesha East	Osun	7.561	4.733	2	
+Iwori	Ilesha West	Osun	7.619	4.693	2	
+Iwuku-Oke	Ipokia	Ogun	6.557	2.798	2	
+Iwalere	Okitipupa	Ondo	6.447	4.687	2	
+Iwari	Keana	Nasarawa	8.280	8.797	2	
+Iwo	Ife South	Osun	7.352	4.654	2	
+Iwori	Ondo East	Ondo	7.091	4.941	2	
+Iwaji	Efon	Ekiti	7.632	4.941	2	
 Iwegie street	Oredo	Edo	6.339	5.628	1	
 Iwehen Street	Oredo	Edo	6.341	5.621	1	
 2nd Iwehen Lane	Oredo	Edo	6.343	5.621	1	
@@ -74,18 +198,15 @@ Iwo Road	Ibadan North East	Oyo	7.403	3.941	1
 Iweka Road	Onitsha South	Anambra	6.143	6.781	1	
 Iwopin Close	Municipal Area Council	FCT Abuja	9.032	7.469	1	
 Osogbo-Iwo Road	Egbedore	Osun	7.796	4.483	1	
-Osogbo-Iwo Road	Egbedore	Osun	7.792	4.476	1	
 Osogbo - Iwo Road	Egbedore	Osun	7.783	4.527	1	
 Osogbo-Iwo Road	Egbedore	Osun	7.779	4.461	1	
 Ngozi Okonjo-Iweala	Municipal Area Council	FCT Abuja	9.073	7.447	1	
-Iwaya Road	Lagos Mainland	Lagos	6.508	3.387	1	
 Adurape Iwajowa Street	Alimosho	Lagos	6.617	3.295	1	
 Ago-Iwoye Ishara Remo road	Ijebu North	Ogun	6.965	3.832	1	
 Iwogun Street	Oredo	Edo	6.330	5.618	1	
 Iwenoga Lane	Oredo	Edo	6.337	5.619	1	
 Elder John Iwu Close	Enugu East	Enugu	6.477	7.524	1	
 Chief Greg Iwuchukwu Drive	Enugu South	Enugu	6.397	7.488	1	
-Iwo Road	Ibadan North East	Oyo	7.404	3.931	1	
 Blessed Iwene Tansi Crescent	Enugu East	Enugu	6.489	7.509	1	
 Ago Iwoye Street	Ìkòròdú	Lagos	6.632	3.480	1	
 Gbetu Iwerekun Road	Ibeju Lekki	Lagos	6.447	3.724	1	
@@ -98,13 +219,9 @@ Olupona - Iwo Road	Irewole	Osun	7.430	4.192	1
 Olupona - Iwo Road	Aiyedire	Osun	7.553	4.206	1	
 Iwo - Ejigbo Road	Ejigbo	Osun	7.885	4.298	1	
 Osogbo - Iwo Road	Egbedore	Osun	7.790	4.504	1	
-Ngozi Okonjo-Iweala	Municipal Area Council	FCT Abuja	9.052	7.444	1	
-Ngozi Okonjo-Iweala	Municipal Area Council	FCT Abuja	9.058	7.444	1	
-Ngozi Okonjo-Iweala	Municipal Area Council	FCT Abuja	9.065	7.447	1	
 Araromi Iwo Street	Kosofe	Lagos	6.603	3.379	1	
 Iwalesin Street	Alimosho	Lagos	6.677	3.256	1	
 Iwogban-Omoregie-Ute Road	Uhunmwonde	Edo	6.414	5.687	1	
-Iwogban-Omoregie-Ute Road	Uhunmwonde	Edo	6.415	5.703	1	
 Iwogban-Omoregie-Ute Road	Uhunmwonde	Edo	6.414	5.681	1	
 Iwo - Ibadan Road	Egbeda	Oyo	7.433	4.005	1	
 Iwo - Osogbo Road	Ejigbo	Osun	7.703	4.335	1	
@@ -118,32 +235,34 @@ Iwo - Ejigbo Road	Iwo	Osun	7.663	4.185	1
 Ago-Iwoye Ishara Remo road	Remo North	Ogun	7.010	3.724	1	
 Ago-Iwoye Ishara Remo road	Remo North	Ogun	6.993	3.682	1	
 Olupona - Iwo Road	Irewole	Osun	7.375	4.183	1	
-Olupona - Iwo Road	Irewole	Osun	7.379	4.183	1	
 Iwofe Road	Obio/Akpor	Rivers	4.825	6.961	1	
 Iwo - Ejigbo Road	Ejigbo	Osun	7.894	4.306	1	
-Iwo - Ejigbo Road	Ejigbo	Osun	7.897	4.311	1	
 Olupona - Iwo Road	Irewole	Osun	7.367	4.185	1	
 Olupona - Iwo Road	Iwo	Osun	7.627	4.186	1	
-Olupona - Iwo Road	Iwo	Osun	7.618	4.191	1	
 Iwo - Ibadan Road	Iwo	Osun	7.619	4.143	1	
 Iwo - Ibadan Road	Iwo	Osun	7.652	4.175	1	
 Anthony Iweze Street	Oshimili North	Delta	6.245	6.674	1	
 Honourable Friday Iwok Street	Ibesikpo Asutan	Akwa Ibom	4.987	7.948	1	
-Ibadan North East LG Primary Health Care Centre, Iwo Road	Ibadan North East	Oyo	7.404	3.934	0	
 Iwo Road	Lagelu	Oyo	7.427	3.998	1	
-Iwo Road	Lagelu	Oyo	7.426	3.992	1	
 Iwo - Ibadan Road	Lagelu	Oyo	7.480	4.078	1	
 Iwo - Ibadan Road	Lagelu	Oyo	7.523	4.088	1	
 Iwo - Ibadan Road	Lagelu	Oyo	7.558	4.101	1	
 Iwo - Ibadan Road	Lagelu	Oyo	7.598	4.126	1	
 Iwo - Ibadan Road	Lagelu	Oyo	7.486	4.079	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.497	4.081	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.468	4.071	1	
-Iwo - Ibadan Road	Lagelu	Oyo	7.474	4.076	1	
 Ejigbo-Iwo Road	Ola Oluwa	Osun	7.749	4.230	1	
-Osogbo - Iwo Road	Olorunda	Osun	7.785	4.545	1	
 Iwo - Ibadan Road	Egbeda	Oyo	7.436	4.005	1	
 Iwo - Ibadan Road	Egbeda	Oyo	7.452	4.039	1	
-Rafin Iwa	Sabuwa	Katsina	11.258	7.026	2	
-Iwo	Iwo	Osun	7.673	4.136	2	
-Iwajowa	Iwajowa	Oyo	7.990	2.989	2	
+Iwo Station	Aiyedire	Osun	7.556	4.205	0	
+Army Children School Iwo-Road	Ibadan North East	Oyo	7.405	3.936	0	
+CEG Iwoyé	Imeko Afon	Ogun	7.568	2.735	0	
+EPP Iwoyé	Imeko Afon	Ogun	7.555	2.741	0	
+Marché d'Iwoyé	Imeko Afon	Ogun	7.554	2.743	0	
+Iwaro Oka Market	Akoko South West	Ondo	7.443	5.764	0	
+Ebo Market Iwaro	Akoko South West	Ondo	7.440	5.771	0	
+Iworo Ajido Jetty	Badagry	Lagos	6.414	3.008	0	
+St. Mark'S Anglican Primary School, Iwelepe	Shagamu	Ogun	6.876	3.574	0	
+Dola Medical Centre, Iwo-Road/Olodo	Lagelu	Oyo	7.429	3.999	0	
+Iworo Ajido Model College	Badagry	Lagos	6.437	2.974	0	
+Iwo City Hall	Iwo	Osun	7.634	4.179	0	
+iwopin (ogun)	Ogun Waterside	Ogun	6.518	4.192	0	
+Ibadan North East LG Primary Health Care Centre, Iwo Road	Ibadan North East	Oyo	7.404	3.934	0	

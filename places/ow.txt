@@ -1,3 +1,13 @@
+Owo	Ọ̀wọ̀	Ondo	7.196	5.587	3	
+Owa Oyiebu	Ika North East	Delta	6.184	6.199	3	Owa Oyibu
+Owode	Yewa South	Ogun	6.698	2.983	3	
+Owu-Obalayan	Ifelodun	Kwara	8.302	4.805	3	
+Owerri	Owerri Municipal	Imo	5.490	7.034	3	
+Owu-Isin	Isin	Kwara	8.281	5.019	3	Owu
+Owode	Obafemi Owode	Ogun	6.949	3.506	3	
+Owa-Oyibu	Ika North East	Delta	6.183	6.199	3	Owa Oyiebu
+Aguobu-Owa	Ezeagu	Enugu	6.372	7.272	3	
+Oworonshoki	Oshodi/Isolo	Lagos	6.548	3.338	2	
 Owena-Egbeda	Idanre	Ondo	7.006	5.019	2	
 Owom	Akamkpa	Cross River	5.546	8.798	2	Ovum
 Owinkiri Kalama	Asari-Toru	Rivers	4.738	6.834	2	Owinkiri Kalama;Winkiri Kalama;Omekwe-Kalama
@@ -21,7 +31,6 @@ Owo	Atisbo	Oyo	8.417	3.367	2	Awwaw
 Owojalaye	Ose	Ondo	6.938	5.622	2	Owajalaiye
 Owelu	Owerri North	Imo	5.533	7.083	2	
 Odo-Owa	Ijero	Ekiti	7.885	5.070	2	Odo Erin;Odo-Ehin
-Owo	Ọ̀wọ̀	Ondo	7.196	5.587	3	
 Owu	Odeda	Ogun	7.233	3.700	2	Ayo
 Owolabi	Oyo West	Oyo	8.017	3.817	2	
 Azu Owuchele	Ohaukwu	Ebonyi	6.700	8.033	2	
@@ -30,7 +39,6 @@ Owerre-Nkworji	Nkwerre	Imo	5.747	7.114	2
 Toto-Owu	Ado Odo/Ota	Ogun	6.560	3.191	2	Oto-Owu
 Owelle	Awgu	Enugu	6.188	7.463	2	Owele
 Owomofewa	Idanre	Ondo	7.077	5.025	2	
-Owa Oyiebu	Ika North East	Delta	6.184	6.199	3	Owa Oyibu
 Owa-Alero	Ika North East	Delta	6.208	6.219	2	Aleru;Alero;Owa-Alero Aleru
 Umu Owa	Ngor-Okpala	Imo	5.383	7.150	2	Umouwa
 Oweribobo	Ese Odo	Ondo	6.249	4.917	2	
@@ -68,50 +76,241 @@ Owo	Ipokia	Ogun	6.600	2.900	2	Awwaw
 Ikot Owobo	Oruk Anam	Akwa Ibom	4.775	7.567	2	
 Owah Abe	Ukwuani	Delta	5.875	6.188	2	
 Owu	Ejigbo	Osun	7.833	4.100	2	Ile-owo
-Owode	Yewa South	Ogun	6.698	2.983	3	
-Owu-Obalayan	Ifelodun	Kwara	8.302	4.805	3	
-Owan West Mass Transit	Oredo	Edo	6.344	5.627	0	
-Owerri	Owerri Municipal	Imo	5.490	7.034	3	
-Owode Market	Ede North	Osun	7.713	4.489	0	
-Owode Garage	Yewa South	Ogun	6.696	2.983	0	
-Federal land Resources Owerri	Owerri West	Imo	5.444	6.924	0	
-owerri	Oru East	Imo	5.690	6.918	0	
 Owode	Baruten	Kwara	8.762	2.729	2	
-Owena Market	Ifedore	Ondo	7.401	5.007	0	
-Owena Egbeda Market	Idanre	Ondo	7.005	5.016	0	
-Owani Market	Ose	Ondo	7.267	5.822	0	
-Ijebu-Owo Market	Ọ̀wọ̀	Ondo	7.193	5.593	0	
-Oworonsoki Jetty	Kosofe	Lagos	6.548	3.407	0	
-ansar ud deen primary school, owode - ota	Ado Odo/Ota	Ogun	6.740	3.216	0	
-Ansar Ud Deen Primary School, Owode - Ota	Ado Odo/Ota	Ogun	6.641	3.053	0	
-Community Primary School,Owode Titun	Ado Odo/Ota	Ogun	6.689	3.022	0	
-Local Government Primary School, Joga Owode	Ado Odo/Ota	Ogun	6.592	2.942	0	
-Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.690	3.238	0	
-Community Primary School,Owode Titun	Ifo	Ogun	6.755	3.230	0	
-Local Government Primary School, Joga Owode	Ado Odo/Ota	Ogun	6.668	3.129	0	
-Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.604	3.067	0	
 Owube	Ogba/Egbema/Ndoni	Rivers	5.196	6.592	2	
-Abdullahi Hospital, Owode-Academy, Ibadan	Ibadan South East	Oyo	7.351	3.911	0	
 Oworinnopia	Ogba/Egbema/Ndoni	Rivers	5.709	6.617	2	
 Owosha	Ogba/Egbema/Ndoni	Rivers	5.635	6.655	2	
 Owumbiri	Sagbama	Bayelsa	5.137	6.108	2	
 Ise-Owulume	Ndokwa East	Delta	5.608	6.573	2	
 Owa-Ifeku	Etsako Central	Edo	6.831	6.604	2	
 Owoli-Iyegbi	Esan South-East	Edo	6.761	6.606	2	
-Owode oniri market	Kosofe	Lagos	6.610	3.411	0	
-Owode Orini	Kosofe	Lagos	6.610	3.411	0	
-Lord's own medical center	Alimosho	Lagos	6.525	3.234	0	
 Owa	Ezeagu	Enugu	6.368	7.365	2	
 Owode Onirin	Kosofe	Lagos	6.609	3.415	2	
 Arun-Owun	Sapele	Delta	5.931	5.521	2	
 Owo	Nkanu East	Enugu	6.471	7.685	2	
-oto owu odo (ogun)	Ado Odo/Ota	Ogun	6.552	3.198	0	
 Mgbagbu-Owa	Ezeagu	Enugu	6.390	7.180	2	
+Owan East	Owan East	Edo	7.031	6.106	2	
+Owan West	Owan West	Edo	6.927	5.893	2	
+Owerri Municipal	Owerri Municipal	Imo	5.480	7.022	2	
+Owerri North	Owerri North	Imo	5.432	7.107	2	
+Owerri West	Owerri West	Imo	5.407	6.985	2	
+Obafemi Owode	Obafemi Owode	Ogun	6.917	3.446	2	
+Ọ̀wọ̀	Ọ̀wọ̀	Ondo	7.095	5.594	2	
+Owele-Utchi	Ndokwa East	Delta	5.908	6.668	2	Utchi
+Uruovo Owhe	Isoko North	Delta	5.513	6.141	2	Uruovo Owe
+Umu Owa	Ngor-Okpala	Imo	5.386	7.156	2	Umouwa
+Toto-Owu	Ado Odo/Ota	Ogun	6.550	3.196	2	Oto-Owu
+Owuwukekere	Yewa North	Ogun	7.372	2.934	2	
+Owuwu	Yewa North	Ogun	7.369	2.942	2	
+Owutu	Edda	Ebonyi	5.812	7.855	2	
+Owupokuobu	Degema	Rivers	4.512	6.981	2	Owupokuobo
+Olepoku	Akuku Toru	Rivers	4.380	6.695	2	Oluapoku|Owupoku|Owupubo
+Owula	Ori Ire	Oyo	8.064	4.091	2	
+Owukubo	Akuku Toru	Rivers	4.375	6.592	2	
+Owu-Ikija	Ijebu East	Ogun	6.815	4.034	2	
+Owubu	Toto	Nasarawa	8.080	6.988	2	
+Owu	Yewa North	Ogun	7.199	3.039	2	
+Owu	Ewekoro	Ogun	6.967	3.183	2	
+Owowo	Ewekoro	Ogun	7.040	3.226	2	
+Owotedo	Ipokia	Ogun	6.652	2.773	2	
+Owo Ogono	Ogu Bolo	Rivers	4.657	7.154	2	
+Owontola	Ibarapa East	Oyo	7.696	3.502	2	
+Owombe	Ìsẹ́yìn	Oyo	7.720	3.290	2	
+Ovum	Akamkpa	Cross River	5.549	8.808	2	Owom
+Owoleyeche	Yala	Cross River	6.575	8.597	2	Owoleyche
+Owolake	Ogbomosho South	Oyo	8.098	4.198	2	
+Owolabi	Ipokia	Ogun	6.598	2.830	2	
+Owoko	Asari-Toru	Rivers	4.703	6.889	2	
+Owoeyo	Atiba	Oyo	7.933	4.021	2	
+Owodokpokpor	Isoko South	Delta	5.329	6.165	2	Ovbodokpokpo|Owodokpokpo
+Owode-Tomoloju	Ilaje	Ondo	6.408	4.647	2	Owode Tomoloju
+Owode Adegbola	Ibarapa East	Oyo	7.605	3.526	2	
+Owode	Saki West	Oyo	8.833	3.416	2	
+Owode	Saki West	Oyo	8.804	3.173	2	
+Owode	Asa	Kwara	8.476	4.419	2	
+Owode	Asa	Kwara	8.400	4.350	2	
+Owode	Ifelodun	Kwara	8.374	5.092	2	Ofaro|Oforo
+Owode	Asa	Kwara	8.362	4.497	2	
+Owode	Itesiwaju	Oyo	8.267	3.590	2	
+Owode	Irepodun	Kwara	8.167	4.983	2	
+Owode	Ori Ire	Oyo	8.072	4.176	2	
+Owode	Aiyedade	Osun	7.524	4.293	2	
+Owode	Odeda	Ogun	7.399	3.613	2	
+Owode	Abeokuta North	Ogun	7.328	3.066	2	
+Owode	Aiyedade	Osun	7.136	4.383	2	
+Owobamibo	Idanre	Ondo	6.722	5.130	2	
+Owobale	Egbeda	Oyo	7.424	4.068	2	
+Owo	Atisbo	Oyo	8.407	3.360	2	Awwaw
+Owo	Nkanu East	Enugu	6.513	7.688	2	
+Owo	Orhionmwon	Edo	5.884	5.944	2	
+Owo	Obi Ngwa	Abia	5.158	7.478	2	
+Ovbieka	Orhionmwon	Edo	6.244	6.029	2	Owika
+Owhrode	Udu	Delta	5.481	5.869	2	
+Owerrinta	Isiala-Ngwa North	Abia	5.251	7.316	2	
+Owerri-Nta	Ngor-Okpala	Imo	5.302	7.289	2	
+Owerri Aba	Ugwunagbo	Abia	5.056	7.381	2	
+Oweribobo	Ese Odo	Ondo	6.255	4.921	2	
+Owerewere	Abua/Odual	Rivers	4.959	6.591	2	
+Owere	Obafemi Owode	Ogun	6.995	3.317	2	
+Owele	Nsukka	Enugu	6.783	7.299	2	
+Awoji	Toto	Nasarawa	8.067	7.234	2	Owegi
+Owe	Orhionmwon	Edo	6.108	6.047	2	
+Owe	Ndokwa West	Delta	5.633	6.250	2	
+Owaza	Etche	Rivers	4.963	7.187	2	
+Owaru	Akko	Gombe	10.142	11.007	2	
+Owa-Ofie	Ika North East	Delta	6.206	6.178	2	
+Owa-Nta	Ika South	Delta	6.236	6.186	2	
+Onwakiko	Oguta	Imo	5.737	6.739	2	Owakiko
+Owah-Abe	Ukwuani	Delta	5.876	6.187	2	
+Owa-Alizomor	Ika North East	Delta	6.197	6.186	2	
+Owa-Aliosimi	Ika North East	Delta	6.222	6.198	2	
+Owa-Alidima	Ika South	Delta	6.027	6.284	2	Owa Aledimma
+Owa	Oke Ero	Kwara	8.248	5.243	2	
+Owa	Oke Ero	Kwara	8.091	5.157	2	
+Owa	Orhionmwon	Edo	6.291	5.990	2	
+Orile-Owu	Aiyedade	Osun	7.249	4.330	2	Ago-Owu|Orile Owu
+Owode	Yewa North	Ogun	7.126	2.926	2	Oluode
+Ologun-Owe	Ibarapa East	Oyo	7.569	3.475	2	Ologun Owe|OlogunOwe
+Ologun-Owe	Ibarapa East	Oyo	7.502	3.433	2	Ologun Owe|OlogunOwe
+Odo-Owo Ile	Atiba	Oyo	8.071	3.847	2	Odo Owo Ile
+Odo-Owe	Odeda	Ogun	7.295	3.373	2	Odo Owe
+Obodo	Udu	Delta	5.505	5.835	2	Owurode
+Nwajala	Ibaji	Kogi	6.917	6.800	2	Owagala
+Ndi-Owere Amangwu	Edda	Ebonyi	5.877	7.847	2	
+Mgbagbu-Umumba-Owa	Ezeagu	Enugu	6.340	7.200	2	Mgbabu-Umuaji-Owa|Mgbagbu-Umuaji-Owa|Umuaji-Owa
+Mgbagbu-Owa	Ezeagu	Enugu	6.392	7.188	2	Mgbabu-Owa
+Wafe	Obio/Akpor	Rivers	4.807	6.935	2	Iwofe|Obukuru|Owofi
+Irawo-Owode	Atisbo	Oyo	8.530	3.360	2	Irawo|Irawo Owode
+Ihite Owerri	Orsu	Imo	5.871	7.010	2	
+Igbo-Owu	Ifelodun	Kwara	8.379	4.768	2	Igbo Owu|Igbowu
+Eziama-Owa	Ezeagu	Enugu	6.380	7.176	2	Eziama-Awwa
+Ekuri Owai	Akamkpa	Cross River	5.795	8.431	2	
+Owa	Bunza	Kebbi	12.161	3.826	2	Damase
+Azu-Owuchele	Ohaukwu	Ebonyi	6.694	8.036	2	
+Araromi-Owu	Aiyedade	Osun	7.167	4.364	2	Araromi|Araromi Owu
+Araromi-Owode	Yewa North	Ogun	6.987	2.985	2	Araromi Owode|Owode
+Owevwe	Ughelli North	Delta	5.509	6.055	2	Agbasa|Agbassa
+Afo Owebe	Olamaboro	Kogi	7.213	7.759	2	Afaw Owebe
+Achalla-Owa-Olo	Ezeagu	Enugu	6.453	7.255	2	
+Abiak Owo	Mbo	Akwa Ibom	4.690	8.263	2	
+Agbaja-Owa	Ezeagu	Enugu	6.374	7.302	2	Abaja-Awwa|Abaja-Owa|Abaja-Owi
+Owowo	Karu	Nasarawa	8.960	7.640	2	
+Oworinde	Afijio	Oyo	7.750	3.788	2	
+Owu	Etche	Rivers	5.219	6.997	2	
+Winkiriki Anamo	Asari-Toru	Rivers	4.740	6.832	2	Omekwe-Kalama|Owinkiri Kalama|Winkiri Kalama
+Owon	Akuku Toru	Rivers	4.402	6.537	2	
+Owerekiri	Abua/Odual	Rivers	4.824	6.716	2	
+Owode-Bale	Ijebu North	Ogun	6.945	3.837	2	
+Owode-Ise	Epe	Lagos	6.408	4.231	2	
+Owofewa	Idanre	Ondo	7.002	5.135	2	
+Igbo-Epo-Owomofewa	Idanre	Ondo	7.032	5.059	2	
+Owomofewa	Idanre	Ondo	7.064	5.287	2	
+Owomofewa	Idanre	Ondo	7.078	5.032	2	
+Ago-Owo	Akure North	Ondo	7.091	5.385	2	
+Owalaye	Ọ̀wọ̀	Ondo	7.170	5.476	2	
+Owode	Akure South	Ondo	7.180	5.260	2	
+Owolanke	Akure North	Ondo	7.185	5.374	2	
+Owomomilowo	Ile Oluji/Okeigbo	Ondo	7.262	5.022	2	
+Ago-Owa	Emure	Ekiti	7.366	5.466	2	
+Owosi	Emure	Ekiti	7.381	5.480	2	
+Owena	Ifedore	Ondo	7.402	5.011	2	
+Ale-Owena	Ifedore	Ondo	7.407	5.016	2	
+Owakande	Obubra	Cross River	6.038	8.346	2	
+Owabamibo	Ovia South-West	Edo	6.708	5.130	2	
+Owolawa	Ondo East	Ondo	6.990	4.927	2	
+Owomama	Ondo West	Ondo	6.986	4.916	2	
+Owahwa	Ughelli South	Delta	5.402	5.818	2	
+Owopeje	Ughelli South	Delta	5.294	5.868	2	
+Owoala	Ukwa West	Abia	4.947	7.289	2	
+Owoelu	Ukwa West	Abia	4.958	7.297	2	
+Owan	Ukwa West	Abia	4.884	7.314	2	
+Owuorgonor	Ogu Bolo	Rivers	4.663	7.167	2	
+Owerekiri	Degema	Rivers	4.531	7.012	2	
+Owerri Akokwa	Ideato North	Imo	5.905	7.148	2	
+Owala	Owerri North	Imo	5.520	7.088	2	
+Umu Owa Oma	Obi Ngwa	Abia	5.131	7.522	2	
+Owerre Olubor	Ika North East	Delta	6.259	6.348	2	Owerre
+Owa-Eke	Ika North East	Delta	6.226	6.217	2	Owa-Ekel
+Ise-Owulume	Ndokwa East	Delta	5.553	6.533	2	
+Owuwu	Ika South	Delta	6.305	6.133	2	
+Owere-Uteokpu	Ika North East	Delta	6.188	6.282	2	
+Owerri West	Owerri West	Imo	5.432	6.980	2	Agbegbe Ijoba Ibile Iwoorun Owerri|Owerri Ouest|Owerri ta Yamma|Se Owerri|owerri west|xioueri
+Obafemi Owode	Obafemi Owode	Ogun	6.969	3.484	2	Agbegbe Ijoba Ibile Obafemi-Owode|Obafemi-Owode|ao wo dai
+Owo	Ọ̀wọ̀	Ondo	7.166	5.580	2	Owo Local Government Area
+Owan East	Owan East	Edo	7.032	6.079	2	Owan East Local Government Area|Owan Est|Owan ta Gabas|Tang Owan
+Owerri North	Owerri North	Imo	5.457	7.103	2	Agbegbe Ijoba Ibile Ariwa Owerri|Owerri Nord|Owerri North Local Government Area|Owerri ta Arewa|Pak Owerri|beioueri
+Kalo Owoma	Degema	Rivers	4.682	6.889	2	
+Imezi-Owa	Ezeagu	Enugu	6.368	7.365	2	
+Owuwu Two	Ika South	Delta	6.306	6.146	2	
+Owele	Oyi	Anambra	6.197	6.871	2	
+Nimo Owele	Njikoka	Anambra	6.137	6.975	2	
+Owoyemi	Ajeromi/Ifelodun	Lagos	6.461	3.324	2	
+Owoseni	Apapa	Lagos	6.471	3.356	2	
+Owodunni	Mushin	Lagos	6.537	3.363	2	
+Orile Oworo	Kosofe	Lagos	6.545	3.404	2	
+Ibuowo Owotutu	Shomolu	Lagos	6.541	3.380	2	
+Owutu	Ìkòròdú	Lagos	6.634	3.490	2	
+Oweara-Ozalla	Owan West	Edo	6.802	6.012	2	
+Aga-Owoyele	Yewa North	Ogun	7.036	3.086	2	
+Elepo-Owe	Abeokuta North	Ogun	7.194	3.276	2	
+Onile-Owo	Ibarapa Central	Oyo	7.384	3.171	2	
+Owode	Irewole	Osun	7.390	4.250	2	
+Onile-Owo	Isokan	Osun	7.284	4.216	2	
+Ara-Owu	Aiyedade	Osun	7.244	4.295	2	
+Owosunmomi	Ife North	Osun	7.250	4.393	2	
+Owode	Ife North	Osun	7.356	4.424	2	
+Owe	Surulere	Oyo	7.994	4.517	2	
+Owo	Irepodun	Osun	7.916	4.531	2	
+Owode	Egbedore	Osun	7.893	4.541	2	
+Owode	Boripe	Osun	7.777	4.611	2	
+Owena	Atakunmosa West	Osun	7.502	4.665	2	
+Owode	Osogbo	Osun	7.741	4.589	2	
+Owode	Atakunmosa West	Osun	7.658	4.640	2	
+Aba Owode	Obokun	Osun	7.824	4.737	2	
+Owoade	Boripe	Osun	7.881	4.764	2	
+Omi-Owo	Obokun	Osun	7.741	4.773	2	
+Odo-Owo Iju	Atiba	Oyo	8.110	3.879	2	
+Owode	Atakunmosa East	Osun	7.438	4.736	2	
+Oloru-Owode	Atakunmosa West	Osun	7.370	4.703	2	
+Owosunmomi	Ife South	Osun	7.192	4.646	2	
+Owode	Ife South	Osun	7.157	4.649	2	
+Oloruntele-Owoyemi	Ile Oluji/Okeigbo	Ondo	7.151	4.749	2	
+Ago-Owode	Ondo West	Ondo	7.192	4.779	2	
+Oke-Owode	Ile Oluji/Okeigbo	Ondo	7.282	4.762	2	
+Owode-Erintuntun	Atakunmosa West	Osun	7.322	4.749	2	
+Owode	Ile Oluji/Okeigbo	Ondo	7.291	4.805	2	
+Italu-Owo	Ondo East	Ondo	7.114	4.863	2	
+Ago-Owomomowo	Ondo West	Ondo	7.041	4.908	2	
+Owomomowo	Ondo East	Ondo	7.101	4.911	2	
+Owena-Idanre	Ondo East	Ondo	7.099	4.990	2	
+Owode	Ile Oluji/Okeigbo	Ondo	7.289	4.947	2	
+Owomofewa	Ile Oluji/Okeigbo	Ondo	7.283	4.924	2	
+Owomomowo	Ile Oluji/Okeigbo	Ondo	7.306	4.981	2	
+Owode	Surulere	Oyo	8.232	4.367	2	
+Owojo	Odeda	Ogun	7.156	3.582	2	
+Owoade	Oluyole	Oyo	7.154	3.983	2	
+Owode	Olorunsogo	Oyo	8.676	4.052	2	
+Owode	Asa	Kwara	8.581	4.279	2	
+Owode	Ori Ire	Oyo	8.593	4.007	2	
+Ologun-Owe	Ibarapa North	Oyo	7.550	3.155	2	
+Owode	Oyun	Kwara	8.106	4.620	2	
+Owuroko	Nasarawa Egon	Nasarawa	8.830	8.464	2	
+Owode	Ifelodun	Kwara	8.439	4.985	2	
+Owode	Ifelodun	Kwara	8.364	4.988	2	
+Owona	Asa	Kwara	8.267	4.536	2	
+Owode	Ede North	Osun	7.712	4.492	2	
+Orile-Owu	Aiyedade	Osun	7.595	4.476	2	
+Owoeru	Aiyedire	Osun	7.552	4.240	2	
+Owonla	Afijio	Oyo	7.738	4.014	2	
+Owa	Ezeagu	Enugu	6.376	7.360	2	
+Owakande	Obubra	Cross River	6.092	8.332	2	
+Owena	Idanre	Ondo	6.996	5.008	2	
+Owena	Ife East	Osun	7.446	4.613	2	
+Owolake	Ori Ire	Oyo	8.095	4.160	2	
 Owode Street	Ifako/Ijaye	Lagos	6.652	3.308	1	
 Apapa-Oworonshoki Expressway	Ikeja	Lagos	6.558	3.357	1	
 Apapa-Oworonshoki Expressway	Apapa	Lagos	6.439	3.376	1	
 Alhaji Owolewa Street	Agege	Lagos	6.630	3.312	1	
-Apapa-Oworonshoki Expressway	Ikeja	Lagos	6.556	3.352	1	
 Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.549	3.338	1	
 Aba - Owerri Road	Osisioma Ngwa	Abia	5.142	7.344	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.581	5.521	1	
@@ -127,8 +326,6 @@ Upper Owina Street	Egor	Edo	6.339	5.579	1
 Owie Street	Egor	Edo	6.367	5.625	1	
 2nd Owegie Lane	Oredo	Edo	6.338	5.607	1	
 Owie Street	Egor	Edo	6.354	5.583	1	
-Owegie Primary School	Oredo	Edo	6.337	5.606	0	
-Owina Pry Sch.	Oredo	Edo	6.339	5.602	0	
 Owoseni Street	Oshodi/Isolo	Lagos	6.559	3.344	1	
 Okun Owa Street	Oshodi/Isolo	Lagos	6.562	3.346	1	
 Ago Owu Street	Oshodi/Isolo	Lagos	6.576	3.341	1	
@@ -140,21 +337,12 @@ Owode Oyelaja Drive	Kosofe	Lagos	6.596	3.386	1
 Sholape Oworu Street	Oshodi/Isolo	Lagos	6.502	3.307	1	
 Owolabi Street	Surulere	Lagos	6.492	3.338	1	
 Irawo-Owuro Street	Alimosho	Lagos	6.531	3.263	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.558	3.367	1	
 Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.548	3.384	1	
 Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.559	3.367	1	
 Apapa-Oworonshoki Expressway	Ajeromi/Ifelodun	Lagos	6.447	3.320	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.550	3.335	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.544	3.338	1	
 Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.519	3.335	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.508	3.324	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.521	3.335	1	
 Apapa-Oworonshoki Expressway	Amuwo Odofin	Lagos	6.483	3.327	1	
-Apapa-Oworonshoki Expressway	Amuwo Odofin	Lagos	6.460	3.315	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.438	3.337	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.435	3.349	1	
 Apapa-Oworonshoki Expressway	Apapa	Lagos	6.435	3.346	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.548	3.386	1	
 Olayiwola Owoiya Street	Kosofe	Lagos	6.557	3.400	1	
 Oworo Road	Kosofe	Lagos	6.551	3.400	1	
 Alabi Owoyemi Street	Kosofe	Lagos	6.545	3.405	1	
@@ -164,7 +352,6 @@ Owukori Crescent	Surulere	Lagos	6.493	3.365	1
 Owodunni Street	Lagos Mainland	Lagos	6.506	3.390	1	
 Adeyeri Owuyo Street	Ìkòròdú	Lagos	6.622	3.498	1	
 Owutedo Street	Alimosho	Lagos	6.588	3.288	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.436	3.369	1	
 CBC Towers Street	Eti Osa	Lagos	6.446	3.471	1	Olubunmi Owa Street
 Owena Street	Eti Osa	Lagos	6.460	3.442	1	
 Owena Street	Municipal Area Council	FCT Abuja	9.061	7.481	1	
@@ -188,7 +375,6 @@ Federal Road F215 Owo - Tegina	Bida	Niger	9.085	6.010	1
 Federal Road F215 Owo - Tegina	Gbako	Niger	9.488	6.038	1	
 Aba - Owerri Road	Owerri Municipal	Imo	5.480	7.033	1	Douglas Road
 Onitsha - Owerri Road	Ihiala	Anambra	5.762	6.876	1	
-Aba - Owerri Road	Owerri Municipal	Imo	5.491	7.029	1	
 Onitsha - Owerri Road	Mbaitoli	Imo	5.560	6.969	1	
 Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.489	7.020	1	
 Aba - Owerri Road	Ngor-Okpala	Imo	5.318	7.257	1	
@@ -198,11 +384,7 @@ Onitsha - Owerri Road	Oru East	Imo	5.675	6.924	1
 Onitsha - Owerri Road	Ekwusigo	Anambra	5.923	6.858	1	
 Onitsha - Owerri Road	Ekwusigo	Anambra	6.019	6.820	1	
 Owerri road	Nnewi North	Anambra	5.966	6.877	1	
-Onitsha - Owerri Road	Ihiala	Anambra	5.896	6.872	1	
-Onitsha - Owerri Road	Onitsha North	Anambra	6.122	6.793	1	
 Onitsha - Owerri Road	Idemili South	Anambra	6.094	6.811	1	
-Onitsha - Owerri Road	Idemili North	Anambra	6.104	6.798	1	
-Onitsha - Owerri Road	Onitsha North	Anambra	6.115	6.792	1	
 Owerri-Ani Street	Enugu North	Enugu	6.430	7.533	1	
 Owerri-Ani link Road	Enugu South	Enugu	6.426	7.532	1	
 Owulu Slop Link	Enugu North	Enugu	6.428	7.532	1	
@@ -213,13 +395,11 @@ Owulu Slop Road	Enugu South	Enugu	6.427	7.532	1
 Ezi Owerri Street	Enugu East	Enugu	6.489	7.512	1	
 Ugbo Owa Street	Enugu North	Enugu	6.474	7.476	1	
 Owa street	Enugu East	Enugu	6.472	7.588	1	
-Owerri Road	Enugu North	Enugu	6.447	7.500	1	
 Owa Enugu Road	Enugu South	Enugu	6.386	7.510	1	
 owhani road	Obio/Akpor	Rivers	4.869	7.036	1	
 Federal Road F215 Owo - Tegina	Rafi	Niger	9.946	6.140	1	
 Akure-Owo Express Road	Ọ̀wọ̀	Ondo	7.157	5.632	1	
 Federal Road F215 Owo - Tegina	Bida	Niger	9.070	6.005	1	
-Federal Road F215 Owo - Tegina	Bida	Niger	9.079	6.010	1	
 Federal Road F215 Owo - Tegina	Edati	Niger	8.894	5.870	1	
 Owerre Ezukala Street	Enugu North	Enugu	6.450	7.519	1	
 Owelli Street	Enugu South	Enugu	6.415	7.502	1	
@@ -239,7 +419,6 @@ Aba - Owerri Road	Ngor-Okpala	Imo	5.308	7.288	1
 Owode - Alusekere Road	Ede South	Osun	7.668	4.560	1	
 Owerri, Okigwe Road	Owerri Municipal	Imo	5.500	7.036	1	
 Ede - Owode Road	Ede North	Osun	7.719	4.480	1	
-Ede - Owode Road	Ede North	Osun	7.724	4.463	1	
 Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.199	5.647	1	
 Federal Road F215 Owo - Tegina	Akoko South West	Ondo	7.389	5.723	1	
 Federal Road F215 Owo - Tegina	Ijumu	Kogi	7.811	5.747	1	
@@ -250,17 +429,13 @@ Federal Road F215 Owo - Tegina	Pategi	Kwara	8.719	5.743	1
 Federal Road F215 Owo - Tegina	Yagba East	Kogi	7.913	5.763	1	
 Federal Road F215 Owo - Tegina	Edati	Niger	8.880	5.855	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.726	5.801	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.768	5.723	1	
 Orlu owerri old road	Orlu	Imo	5.768	7.029	1	
 Owerri Road	Nnewi North	Anambra	6.026	6.915	1	
 Orlu Owerri new Road	Orlu	Imo	5.796	7.019	1	
 Orlu Owerri new Road	Orlu	Imo	5.768	7.014	1	
-Aba - Owerri Road	Owerri North	Imo	5.453	7.052	1	
 Aba - Owerri Road	Owerri North	Imo	5.442	7.069	1	
-Federal Road F215 Owo - Tegina	Wushishi	Niger	9.822	6.160	1	
 Owodunni Street	Kosofe	Lagos	6.601	3.385	1	
 Abayomi Owulade Ave	Kosofe	Lagos	6.614	3.379	1	
-Federal Road F215 Owo - Tegina	Edati	Niger	8.873	5.843	1	
 Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.681	5.751	1	
 Federal Road F215 Owo - Tegina	Akoko South West	Ondo	7.310	5.664	1	
 Federal Road F215 Owo - Tegina	Ọ̀wọ̀	Ondo	7.264	5.624	1	
@@ -270,7 +445,6 @@ Owode-Abeokuta Road	Obafemi Owode	Ogun	6.946	3.503	1
 Mudasiru Owoyele St	Kosofe	Lagos	6.615	3.382	1	
 Owoeye St	Esan West	Edo	6.751	6.068	1	
 Port Harcourt - Owerri Road	Owerri West	Imo	5.393	6.963	1	
-Port Harcourt - Owerri Road	Owerri West	Imo	5.388	6.968	1	
 Owo Ola Street	Ado Odo/Ota	Ogun	6.687	3.245	1	
 Owodele Close	Mushin	Lagos	6.515	3.357	1	
 Chief Yusuf Owo Street	Agege	Lagos	6.616	3.326	1	
@@ -285,15 +459,8 @@ Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.255	6.882	1
 Oweh Street	Shomolu	Lagos	6.523	3.370	1	
 Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.297	6.931	1	
 Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.286	6.923	1	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.277	6.917	1	
 Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.721	5.735	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.723	5.733	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.731	5.724	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.736	5.721	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.753	5.719	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.756	5.721	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.767	5.726	1	
-Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.765	5.731	1	
+Federal Road F215 Owo - Tegina	Ekiti East	Ekiti	7.725	5.728	1	
 Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.523	5.752	1	
 Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.506	5.745	1	
 Akure-Owo Express Road	Ovia North-East	Edo	6.609	5.775	1	
@@ -309,12 +476,9 @@ Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.644	5.759	1
 Akure-Owo Express Road	Ifedore	Ondo	7.403	5.014	1	
 Akure-Owo Express Road	Oriade	Osun	7.407	4.982	1	
 Orlu Owerri new Road	Njaba	Imo	5.731	7.013	1	
-Orlu Owerri new Road	Njaba	Imo	5.737	7.017	1	
 Orlu Owerri new Road	Njaba	Imo	5.699	7.011	1	
-Orlu Owerri new Road	Njaba	Imo	5.712	7.010	1	
 Orlu Owerri new Road	Njaba	Imo	5.683	7.011	1	
 Old Orlu Owerri Road	Njaba	Imo	5.673	7.014	1	
-Aba - Owerri Road	Isiala-Ngwa North	Abia	5.304	7.293	1	
 Aba - Owerri Road	Ngor-Okpala	Imo	5.364	7.193	1	
 Aba - Owerri Road	Isiala-Ngwa North	Abia	5.287	7.318	1	
 Kunle Owuye Street	Amuwo Odofin	Lagos	6.475	3.297	1	
@@ -325,26 +489,18 @@ Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.483	5.737	1
 Federal Road F215 Owo - Tegina	Akoko North West	Ondo	7.562	5.766	1	
 Aba - Owerri Road	Aba South	Abia	5.116	7.372	1	
 Akure-Owo Express Road	Akure South	Ondo	7.284	5.182	1	
-Chief Yusuf Owo Street	Agege	Lagos	6.620	3.324	1	
 Prince Kunle Owoade Close	Ìkòròdú	Lagos	6.633	3.538	1	
 Owolabi Abadi	Eti Osa	Lagos	6.501	3.609	1	
 Prince Owolabi S. Adekunle Close	Eti Osa	Lagos	6.470	3.625	1	
 Akure-Owo Express Road	Ifedore	Ondo	7.330	5.107	1	
 Oworo Road	Kosofe	Lagos	6.549	3.405	1	
 Akure-Owo Express Road	Akure North	Ondo	7.281	5.214	1	
-Akure-Owo Express Road	Akure South	Ondo	7.280	5.194	1	
-Akure-Owo Express Road	Akure North	Ondo	7.282	5.220	1	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.538	5.768	1	
 Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.209	5.638	1	
-Federal Road F215 Owo - Tegina	Yagba West	Kogi	8.204	5.641	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.610	5.638	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.614	5.649	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.621	5.661	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.647	5.682	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.671	5.707	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.678	5.710	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.690	5.725	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.735	5.803	1	
 Federal Road F215 Owo - Tegina	Pategi	Kwara	8.735	5.810	1	
 Federal Road F215 Owo - Tegina	Wushishi	Niger	9.585	6.024	1	
 Federal Road F215 Owo - Tegina	Wushishi	Niger	9.585	6.024	1	
@@ -352,55 +508,58 @@ Federal Road F215 Owo - Tegina	Gbako	Niger	9.354	6.030	1
 Federal Road F215 Owo - Tegina	Gbako	Niger	9.234	6.027	1	
 Federal Road F215 Owo - Tegina	Wushishi	Niger	9.727	6.081	1	
 Federal Road F215 Owo - Tegina	Bida	Niger	9.121	6.012	1	
-Federal Road F215 Owo - Tegina	Bida	Niger	9.103	6.010	1	
-Federal Road F215 Owo - Tegina	Pategi	Kwara	8.725	5.742	1	
 Akure-Owo Express Road	Akure North	Ondo	7.260	5.379	1	
 Akure-Owo Express Road	Akure North	Ondo	7.271	5.269	1	
-Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.535	5.766	1	
 Old Owhe Road	Isoko North	Delta	5.508	6.134	1	
 Onitsha - Owerri Road	Ihiala	Anambra	5.852	6.859	1	
 Onitsha - Owerri Road	Ihiala	Anambra	5.796	6.865	1	
-Orlu Owerri new Road	Orlu	Imo	5.789	7.017	1	
-Owerri City Mall	Owerri Municipal	Imo	5.476	7.057	0	
-Nigerian Airforce Hospital Owerri	Owerri North	Imo	5.423	7.108	0	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.310	6.942	1	
-Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.302	6.937	1	
 Owolowo way	Ìkòròdú	Lagos	6.616	3.503	1	
 Onitsha - Owerri Road	Ihiala	Anambra	5.895	6.872	1	
-Onitsha - Owerri Road	Ihiala	Anambra	5.793	6.865	1	
-Kunle Owuye Street	Amuwo Odofin	Lagos	6.482	3.293	1	
-Owode Onirin Market	Kosofe	Lagos	6.605	3.412	0	
 Owon Close	Kaduna North	Kaduna	10.557	7.455	1	
-Government Junior Model College, Owutu	Ìkòròdú	Lagos	6.618	3.481	0	GJMC
-Lagos State Rehabilitation and Training Centre, Owutu	Ìkòròdú	Lagos	6.642	3.485	0	
-OFFA OWODE MARKET	Oyun	Kwara	8.158	4.724	0	
 owerri	Owerri Municipal	Imo	5.489	7.004	1	
 Owelle Drive	Enugu East	Enugu	6.499	7.515	1	
-Aba - Owerri Road	Owerri North	Imo	5.440	7.079	1	
 Aba - Owerri Road	Owerri North	Imo	5.427	7.102	1	
 Owotanfa Obodo Street	Eti Osa	Lagos	6.483	3.586	1	
 Aba - Owerri Road	Owerri North	Imo	5.411	7.127	1	
-Aba - Owerri Road	Owerri North	Imo	5.419	7.114	1	
-Aba - Owerri Road	Ngor-Okpala	Imo	5.393	7.150	1	
 Prince Oweh Omas Avenue	Oredo	Edo	6.282	5.585	1	
-Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.484	7.016	1	
-Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.478	7.012	1	
 Loko-Oweto Bridge	Agatu	Benue	7.986	7.810	1	
-Loko-Oweto Bridge	Agatu	Benue	7.985	7.809	1	
 Loko-Oweto Bridge	Nasarawa	Nasarawa	7.995	7.812	1	
 E Owei Close	Municipal Area Council	FCT Abuja	9.041	7.548	1	
 Owolabi Street	Alimosho	Lagos	6.598	3.250	1	
 Federal Road F215 Owo - Tegina	Akoko North East	Ondo	7.500	5.750	1	
-Orlu Owerri new Road	Njaba	Imo	5.722	7.012	1	
 Owolabi Street	Oshodi/Isolo	Lagos	6.508	3.304	1	
 Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.269	6.905	1	
 Owutu-Isawo Road	Ìkòròdú	Lagos	6.633	3.483	1	
 Orlu owerri old road	Orlu	Imo	5.745	7.020	1	
 Owo Ikem Road	Nkanu East	Enugu	6.595	7.678	1	
-Owan East	Owan East	Edo	7.031	6.106	2	
-Owan West	Owan West	Edo	6.927	5.893	2	
-Owerri Municipal	Owerri Municipal	Imo	5.480	7.022	2	
-Owerri North	Owerri North	Imo	5.432	7.107	2	
-Owerri West	Owerri West	Imo	5.407	6.985	2	
-Obafemi Owode	Obafemi Owode	Ogun	6.917	3.446	2	
-Ọ̀wọ̀	Ọ̀wọ̀	Ondo	7.095	5.594	2	
+Owan West Mass Transit	Oredo	Edo	6.344	5.627	0	
+Owode Market	Ede North	Osun	7.713	4.489	0	
+Owode Garage	Yewa South	Ogun	6.696	2.983	0	
+Federal land Resources Owerri	Owerri West	Imo	5.444	6.924	0	
+owerri	Oru East	Imo	5.690	6.918	0	
+Owena Market	Ifedore	Ondo	7.401	5.007	0	
+Owena Egbeda Market	Idanre	Ondo	7.005	5.016	0	
+Owani Market	Ose	Ondo	7.267	5.822	0	
+Ijebu-Owo Market	Ọ̀wọ̀	Ondo	7.193	5.593	0	
+Oworonsoki Jetty	Kosofe	Lagos	6.548	3.407	0	
+ansar ud deen primary school, owode - ota	Ado Odo/Ota	Ogun	6.740	3.216	0	
+Ansar Ud Deen Primary School, Owode - Ota	Ado Odo/Ota	Ogun	6.641	3.053	0	
+Community Primary School,Owode Titun	Ado Odo/Ota	Ogun	6.689	3.022	0	
+Local Government Primary School, Joga Owode	Ado Odo/Ota	Ogun	6.592	2.942	0	
+Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.690	3.238	0	
+Community Primary School,Owode Titun	Ifo	Ogun	6.755	3.230	0	
+Local Government Primary School, Joga Owode	Ado Odo/Ota	Ogun	6.668	3.129	0	
+Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.604	3.067	0	
+Abdullahi Hospital, Owode-Academy, Ibadan	Ibadan South East	Oyo	7.351	3.911	0	
+Owode oniri market	Kosofe	Lagos	6.610	3.411	0	
+Owode Orini	Kosofe	Lagos	6.610	3.411	0	
+Lord's own medical center	Alimosho	Lagos	6.525	3.234	0	
+oto owu odo (ogun)	Ado Odo/Ota	Ogun	6.552	3.198	0	
+Owegie Primary School	Oredo	Edo	6.337	5.606	0	
+Owina Pry Sch.	Oredo	Edo	6.339	5.602	0	
+Owerri City Mall	Owerri Municipal	Imo	5.476	7.057	0	
+Nigerian Airforce Hospital Owerri	Owerri North	Imo	5.423	7.108	0	
+Owode Onirin Market	Kosofe	Lagos	6.605	3.412	0	
+Government Junior Model College, Owutu	Ìkòròdú	Lagos	6.618	3.481	0	GJMC
+Lagos State Rehabilitation and Training Centre, Owutu	Ìkòròdú	Lagos	6.642	3.485	0	
+Offa Owode Market	Oyun	Kwara	8.158	4.724	0	

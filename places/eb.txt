@@ -1,3 +1,13 @@
+Eban	Mashegu	Niger	9.662	4.907	3	
+Eberi	Omumma	Rivers	5.090	7.233	3	
+Afaha Ikot Ebak	Essien Udim	Akwa Ibom	5.127	7.659	3	Ikot Ebak Efagha
+Ebocha	Ogba/Egbema/Ndoni	Rivers	5.473	6.721	3	
+Ebiaji Town	Ezza North	Ebonyi	6.222	7.995	3	
+Ebute-Metta	Lagos Mainland	Lagos	6.488	3.382	3	Ebute Meta|Ebute Metta
+Ebute Ikorodu	Ìkòròdú	Lagos	6.601	3.488	3	Awja-Ikoradu|Ebute-Egga|Ikorodu
+Ebem Ohafia	Ohafia	Abia	5.631	7.830	3	Ebem|Isiama|Isiama Ohafia|Ohafia
+Onuebonyi Echara	Ikwo	Ebonyi	6.095	8.152	3	Echara Onu-Ebonyi|Echara-Anuaboyi|Echara-Onuaboyi|Onu Ebonyi Echara
+Ebute Metta	Lagos Mainland	Lagos	6.488	3.385	2	
 Egburu	Oyigbo	Rivers	4.810	7.280	2	Eberu
 Ebu	Esan North-East	Edo	6.866	6.462	2	Uzua
 Emu Ebendo	Ndokwa West	Delta	5.670	6.353	2	
@@ -22,17 +32,13 @@ Ibelebiri	Ogbia	Bayelsa	4.936	6.415	2	Ebelibri
 Ebiet Okon Archibong	Akpabuyo	Cross River	5.030	8.415	2	Archibong
 Ebinjok	Akamkpa	Cross River	5.388	8.345	2	Ebijok
 Ewu Ebi	Ìkòròdú	Lagos	6.550	3.517	2	Ajebaw
-Eban	Mashegu	Niger	9.662	4.907	3	
 Ebiom	Ikwo	Ebonyi	6.074	8.203	2	
 Ebute Erinje	Okitipupa	Ondo	6.416	4.716	2	Obode;Ebute-Erinje
 Ebute Oni	Ogun Waterside	Ogun	6.535	4.223	2	Ebuts-Oni
 Ibochi	Igalamela-Odolu	Kogi	7.117	7.217	2	Ebotchi
 Eboyomi	Ido	Oyo	7.508	3.792	2	Ebawyawmi
-Ebute-Metta	Lagos Mainland	Lagos	6.486	3.386	2	
-Ebute Ikorodu	Ìkòròdú	Lagos	6.604	3.490	2	
 Ebo	Lokoja	Kogi	8.600	6.331	2	
 Ebute Adewale	Yewa South	Ogun	6.804	2.907	2	
-Eberi	Omumma	Rivers	5.090	7.233	3	
 Ebarike	Tambuwal	Sokoto	12.419	4.995	2	
 Ebute Igboro	Yewa North	Ogun	6.900	2.900	2	
 Ebiagi	Ikwo	Ebonyi	6.181	8.210	2	
@@ -45,33 +51,15 @@ Binidodogha	Ovia South-West	Edo	6.075	5.266	2	Ebawe
 Ebuenehian	Uhunmwonde	Edo	6.331	5.866	2	Ebu;Ebue
 Ebo	Oredo	Edo	6.264	5.585	2	
 Ebruvwa	Okpe	Delta	5.731	5.816	2	Ebruwa
-Ebenezer Schools	Oredo	Edo	6.309	5.618	0	
-Ebenezer African Church School	Ibadan North West	Oyo	7.392	3.887	0	
 Ebeje	Dekina	Kogi	7.704	7.143	2	
 Ebeji	Dekina	Kogi	7.704	7.143	2	
-Afaha Ikot Ebak	Essien Udim	Akwa Ibom	5.127	7.659	3	Ikot Ebak Efagha
 Ikot Ebak	Essien Udim	Akwa Ibom	5.108	7.652	2	
 Ikot Ebo	Etim Ekpo	Akwa Ibom	5.006	7.688	2	
 Ikot Ebok	Essien Udim	Akwa Ibom	5.121	7.566	2	
-Ebibotel Group of Schools	Yenegoa	Bayelsa	4.948	6.341	0	
-Ebo Market Iwaro	Akoko South West	Ondo	7.440	5.771	0	
-Ebute Ojo/Sifax Ferry Terminal	Ojo	Lagos	6.453	3.205	0	
 Ebubu	Eleme	Rivers	4.758	7.157	2	
 Ebikiri Zion	Southern Ijaw	Bayelsa	4.724	5.946	2	
-Primary Health Centre, Toru-Ebeni	Sagbama	Bayelsa	4.980	6.076	0	
-Ebenezer African Church Primary School, Ijoko	Ifo	Ogun	6.801	3.200	0	
-Ebenezer African Church Primary School Ii, Ewupe Ota	Ado Odo/Ota	Ogun	6.651	3.061	0	
-Ebenezer African Church Primary School, Oloparun	Ifo	Ogun	6.818	3.187	0	
-Ebenezer African Church Primary School, Ijoko	Ado Odo/Ota	Ogun	6.742	3.263	0	
-Ebenezer African Church Primary School Ii, Ewupe Ota	Ado Odo/Ota	Ogun	6.712	3.197	0	
-Ebenezer African Church Primary School, Oloparun	Ado Odo/Ota	Ogun	6.651	2.983	0	
-Ebenezer African Church Primary School, Olorunda Atan	Ado Odo/Ota	Ogun	6.731	3.124	0	
-Ebenezer African Church Primary School I, Ewupe Ota	Ado Odo/Ota	Ogun	6.716	3.203	0	
-Ebenezer African Church, Aganna Olorunnda	Ado Odo/Ota	Ogun	6.731	3.124	0	
 Ebraso	Ahoada West	Rivers	5.138	6.541	2	
 Ebiriba	Ahoada West	Rivers	5.145	6.541	2	
-Ebocha	Ogba/Egbema/Ndoni	Rivers	5.473	6.721	3	
-Ebedi Market	Ìsẹ́yìn	Oyo	7.958	3.614	0	
 Ebedebri	Sagbama	Bayelsa	5.140	6.078	2	
 Eboh	Ughelli North	Delta	5.703	6.129	2	
 Ebor	Isoko North	Delta	5.475	6.060	2	
@@ -79,21 +67,160 @@ Obi-Ebeti	Ukwuani	Delta	5.961	6.241	2
 Ebighan	Warri North	Delta	5.801	5.038	2	
 Ebokiti	Warri North	Delta	5.834	5.037	2	
 Arunton Ebrohimi	Warri North	Delta	5.867	5.188	2	
-Ebonyi Mall	Abakaliki	Ebonyi	6.308	8.103	0	
 Ebom	Abi	Cross River	5.850	7.967	2	
-Ebiaji Town	Ezza North	Ebonyi	6.222	7.995	3	
-Ezza North LGA Secreteriat Ebiaji	Ezza North	Ebonyi	6.226	7.995	0	
-EBSU Presco Campus	Abakaliki	Ebonyi	6.327	8.079	0	
-Ebenezer Specialist Clinic and Maternity	Mushin	Lagos	6.539	3.355	0	
-Mobolaji Johnson Station	Surulere	Lagos	6.502	3.374	0	Ebute Metta Station
-Ebony Kids International School	Idemili South	Anambra	6.037	6.928	0	
-Ebute Ero	Lagos Island	Lagos	6.463	3.382	0	
-Ebenezer High School, Agba-Dam Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.585	0	
-Ebere Links	Owerri Municipal	Imo	5.494	7.035	0	
-ebute lekki	Ibeju Lekki	Lagos	6.403	4.135	0	
-Ebonyi Primary Health Centre	Olamaboro	Kogi	7.173	7.576	0	
 Ebele-Umuimama	Ishielu	Ebonyi	6.548	7.863	2	
 Aguebele Umuimama	Ishielu	Ebonyi	6.548	7.863	2	Ebele
+Ebonyi	Ebonyi	Ebonyi	6.534	8.133	2	
+Use Ikot Ebio	Uyo	Akwa Ibom	5.019	7.863	2	
+Upper Ebuoya	Ohimini	Benue	7.277	8.013	2	
+Ugbegun-Ebudin	Esan Central	Edo	6.595	6.177	2	Ugbegun
+Okobo Ebughu	Mbo	Akwa Ibom	4.693	8.263	2	
+Obon Ebot	Etim Ekpo	Akwa Ibom	4.939	7.564	2	
+Ndi-Ebeleagu	Arochukwu	Abia	5.587	7.729	2	
+Ndi-Ebe	Arochukwu	Abia	5.614	7.719	2	
+Mbon Ebre	Oruk Anam	Akwa Ibom	4.864	7.739	2	
+Mbak Ikot Ebo	Uyo	Akwa Ibom	4.997	8.014	2	
+Lower Ebuoya	Ohimini	Benue	7.265	8.020	2	
+Lekki	Ibeju Lekki	Lagos	6.412	4.095	2	Ebute Leki|Ebute-Lekki
+Ladeba	Epe	Lagos	6.527	3.714	2	Labada|Labada Ebute|Ladaba Oke|Ledaba
+Keme-Ebiama	Southern Ijaw	Bayelsa	4.795	5.945	2	Kamabiama|Kamebiama|Kemibiama
+Ikot Eboro	Uyo	Akwa Ibom	5.082	7.822	2	
+Ikot Ebok	Ukanafun	Akwa Ibom	4.880	7.654	2	
+Ikot Ebit Ekpe	Abak	Akwa Ibom	5.052	7.775	2	
+Ikot-Ebiasang	Ini	Akwa Ibom	5.304	7.790	2	
+Ikot Eba	Uyo	Akwa Ibom	4.913	7.827	2	
+Ibochi	Igalamela-Odolu	Kogi	7.109	7.268	2	Ebotchi
+Ibelebiri	Ogbia	Bayelsa	4.935	6.418	2	Ebelibri
+Evbonogbo	Orhionmwon	Edo	5.888	6.049	2	Ebonogbo|Evbonogbon
+Ebute-Oguntade	Yewa South	Ogun	6.780	2.887	2	Erimi Oguntade
+Erimi	Yewa South	Ogun	6.770	2.899	2	Erimi Ebute
+Emu-Ebendo	Ndokwa West	Delta	5.671	6.352	2	
+Eman Ikot-Ebo	Uruan	Akwa Ibom	5.041	8.009	2	
+Ekpene Ebom	Ikono	Akwa Ibom	5.188	7.782	2	
+Ekim Ebebit	Odukpani	Cross River	5.225	8.117	2	
+Ebwa	Gwagwalada	FCT Abuja	9.065	7.058	2	
+Ebuyenokubokiri	Asari-Toru	Rivers	4.695	6.896	2	Ebuyedokubokiri
+Ebute-Lekki	Ibeju Lekki	Lagos	6.421	4.099	2	
+Ebute Irele	Okitipupa	Ondo	6.498	4.835	2	
+Ebute-Igboro	Yewa North	Ogun	6.898	2.898	2	Ebute Igbawraw|Ebute Igboro
+Ebute-Adewale	Yewa South	Ogun	6.804	2.908	2	Ebute Adewale
+Ebu-Nla	Egbedore	Osun	7.828	4.392	2	Ebu Nla|EbuNla
+Ebune Ugbo	Akoko-Edo	Edo	7.419	6.020	2	
+Ebunade	Ido	Oyo	7.567	3.750	2	
+Ebule	Owan West	Edo	6.983	5.933	2	
+Ebukama	Andoni	Rivers	4.493	7.444	2	
+Ebubu	Eleme	Rivers	4.780	7.153	2	
+Ebu	Oshimili North	Delta	6.479	6.606	2	
+Ebu	Ikwerre	Rivers	5.221	6.972	2	
+Ebonie	Ebonyi	Ebonyi	6.415	8.062	2	
+Ebocha	Ogba/Egbema/Ndoni	Rivers	5.462	6.688	2	
+Ebo	Ibarapa Central	Oyo	7.428	3.230	2	
+Ebo	Ini	Akwa Ibom	5.458	7.714	2	
+Ebiradu	Omala	Kogi	7.844	7.596	2	
+Ebiom	Ikwo	Ebonyi	6.081	8.203	2	
+Ebinikiri	Akuku Toru	Rivers	4.419	6.603	2	
+Ebindi	Ogoja	Cross River	6.412	8.634	2	
+Ebighi Eta	Okobo	Akwa Ibom	4.841	8.146	2	
+Ebighi Edu	Okobo	Akwa Ibom	4.858	8.165	2	
+Ebighi Anwa	Nsit Atai	Akwa Ibom	4.771	8.046	2	
+Ebeyi	Isiala-Ngwa North	Abia	5.333	7.450	2	
+Ebem Obom	Ini	Akwa Ibom	5.397	7.732	2	
+Ebem	Boki	Cross River	6.374	8.817	2	
+Ebelle	Iguegben	Edo	6.498	6.226	2	Ebele
+Ebekiri	Nembe	Bayelsa	4.423	6.326	2	
+Ebe Ikpe	Essien Udim	Akwa Ibom	5.105	7.761	2	
+Ebeberegbene	Burutu	Delta	5.167	5.650	2	
+Ebe	Udi	Enugu	6.486	7.380	2	
+Ebbo	Lapai	Niger	8.455	6.582	2	
+Ebbe	Shiroro	Niger	9.900	6.733	2	
+Ebba	Bali	Taraba	7.865	10.627	2	
+Ebazogbe-Niro	Orhionmwon	Edo	6.137	5.931	2	
+Ebarike	Tambuwal	Sokoto	12.419	4.990	2	
+Ebangi	Edati	Niger	8.867	5.889	2	
+Ebana	Eket	Akwa Ibom	4.605	7.959	2	
+Ebam Ukot	Ini	Akwa Ibom	5.397	7.747	2	
+Ebagi	Kogi	Kogi	8.432	6.832	2	
+Ebada	Sapele	Delta	5.832	5.749	2	
+Ebachado	Gbako	Niger	9.133	6.101	2	
+Eba	Ogun Waterside	Ogun	6.398	4.455	2	
+Araromi-Ebi	Kajola	Oyo	7.935	3.330	2	Araromi Ebi|AraromiEbi
+Anua Ebio	Uyo	Akwa Ibom	5.006	7.889	2	
+Amago-Ebenebe	Awka North	Anambra	6.337	7.132	2	Amago-Ebenede
+Akpata-Ebe	Igalamela-Odolu	Kogi	6.865	7.108	2	Agbatebe|Akpatebe
+Ikot Offiong Ebe	Odukpani	Cross River	5.121	8.167	2	
+Esuk Ukot Ebi	Odukpani	Cross River	5.154	8.131	2	
+Ebiogi	Ikwo	Ebonyi	6.178	8.213	2	
+Ebiom	Obubra	Cross River	6.099	8.332	2	Okposi
+Etisang Ebughu	Mbo	Akwa Ibom	4.702	8.266	2	
+Ikot Ebiyan	Nsit Atai	Akwa Ibom	4.862	8.017	2	
+Ebighi Anwa	Okobo	Akwa Ibom	4.823	8.124	2	
+Ebute Oke	Ilaje	Ondo	6.474	4.621	2	
+Eba	Ilaje	Ondo	6.389	4.489	2	
+Ebribor	Bomadi	Delta	5.107	5.901	2	
+Ebidorgbene	Southern Ijaw	Bayelsa	4.459	5.796	2	
+Ebimi-Igwe	Ekeremor	Bayelsa	4.939	5.615	2	
+Ebikogbene	Ekeremor	Bayelsa	4.990	5.785	2	Ebikagbene
+Ebeziba	Ekeremor	Bayelsa	4.923	5.818	2	Egbemangalabiri|Egbemo-Angalabri
+Ebinuolapo	Ekeremor	Bayelsa	4.828	5.495	2	
+Amo-Ebilene	Ekeremor	Bayelsa	4.822	5.498	2	
+Ebentubu	Bonny	Rivers	4.452	7.313	2	
+Ebon-Okolo	Andoni	Rivers	4.436	7.394	2	
+Ebongon	Bonny	Rivers	4.409	7.280	2	
+Ikot Ebak	Mkpat Enin	Akwa Ibom	4.777	7.744	2	
+Ikot Eba	Etinan	Akwa Ibom	4.802	7.850	2	
+Ikot Ebidang	Onna	Akwa Ibom	4.615	7.882	2	
+Ikot Ebiere	Onna	Akwa Ibom	4.632	7.837	2	
+Mbiere Ebe	Ibesikpo Asutan	Akwa Ibom	4.997	7.901	2	
+Ebariba	Abi	Cross River	5.850	7.967	2	
+Ikot Ebom	Itu	Akwa Ibom	5.067	7.896	2	
+Ikot-Ebiti	Odukpani	Cross River	5.255	7.984	2	
+Umu Ebi	Obi Ngwa	Abia	5.227	7.507	2	
+Obot Ebriba	Itu	Akwa Ibom	5.200	7.963	2	
+Ikot Ebom	Ibiono Ibom	Akwa Ibom	5.180	7.904	2	
+Mbiabong Ikot Eboro	Uyo	Akwa Ibom	5.097	7.808	2	
+Ikot Ebo	Ika	Akwa Ibom	5.054	7.546	2	
+Ebibit	Abak	Akwa Ibom	5.068	7.749	2	
+Itiam Ikot Ebia	Uyo	Akwa Ibom	5.002	7.940	2	
+Ebom	Abi	Cross River	5.785	7.993	2	
+Ebem	Bende	Abia	5.624	7.602	2	
+Ebenator	Nnewi South	Anambra	5.918	6.941	2	
+Ebelle Camp	Isoko South	Delta	5.270	6.281	2	
+Ebiemupegbene	Patani	Delta	5.241	6.207	2	
+Ebogoro	Ogba/Egbema/Ndoni	Rivers	5.349	6.677	2	
+Ebiriba	Ahoada West	Rivers	5.143	6.541	2	
+Ebute-Ujogba	Iguegben	Edo	6.466	6.111	2	
+Ebonyi	Ebonyi	Ebonyi	6.522	8.130	2	Agbegbe Ijoba Ibile Ebonyi|Ebonyi Local Government Area
+Ebereti	Yakurr	Cross River	5.814	8.159	2	
+Ebemaboko	Akuku Toru	Rivers	4.643	6.816	2	
+Ebegang	Bekwarra	Cross River	6.673	8.932	2	
+Ebe	Buruku	Benue	7.187	9.229	2	
+Eboakiri	Brass	Bayelsa	4.437	6.445	2	
+Ebasikiri	Nembe	Bayelsa	4.391	6.262	2	
+Ebo	Lavun	Niger	9.358	5.785	2	
+Ebugi	Gbako	Niger	9.278	5.952	2	
+Ebugi	Agaie	Niger	9.005	6.416	2	
+Ebugi	Edati	Niger	9.021	6.020	2	
+Ilupesi Ebute Awo	Lagos Island	Lagos	6.461	3.393	2	
+Evba-Ebe	Esan North-East	Edo	6.698	6.330	2	
+Ebidargbene	Southern Ijaw	Bayelsa	4.447	5.858	2	
+Ebatimagbene	Southern Ijaw	Bayelsa	4.762	5.758	2	
+Ebigbene	Ekeremor	Bayelsa	4.988	5.693	2	
+Ubosi Ebe	Warri North	Delta	5.990	5.456	2	
+Ebu	Irewole	Osun	7.386	4.237	2	
+Ebun-Nla	Irewole	Osun	7.398	4.295	2	
+Ebu-Oba-Olufon	Irepodun	Osun	7.931	4.529	2	
+Agede Ebire	Atakunmosa West	Osun	7.670	4.650	2	
+Ebute-Ikoya	Okitipupa	Ondo	6.480	4.674	2	
+Ago Ebenezer	Ile Oluji/Okeigbo	Ondo	7.272	4.991	2	
+Ebbo Tana	Lapai	Niger	8.433	6.599	2	
+Ebi-Npalejo	Ibarapa East	Oyo	7.687	3.544	2	Ebi-Jpalejo
+Eba	Atiba	Oyo	7.994	3.933	2	
+Ebun-Sango	Ogo Oluwa	Oyo	7.884	4.107	2	
+Ebula	Ogo Oluwa	Oyo	7.973	4.318	2	
+Ebhor	Kwali	FCT Abuja	8.716	7.079	2	
+Ebu	Iwo	Osun	7.687	4.162	2	
+Ebute	Yewa South	Ogun	6.767	2.903	2	
+Eba	Ogun Waterside	Ogun	6.379	4.542	2	
 Okotie Eboh Street	Eti Osa	Lagos	6.447	3.421	1	
 Ebizugbe Street	Oredo	Edo	6.327	5.595	1	
 Eboigbe Street	Ikpoba-Okha	Edo	6.343	5.643	1	
@@ -106,18 +233,15 @@ Ebo street	Egor	Edo	6.364	5.623	1
 Ebitu Ukiwe Street	Municipal Area Council	FCT Abuja	9.071	7.432	1	
 Ebunolorun Street	Shomolu	Lagos	6.543	3.382	1	
 Chris Ebie Street	Oshodi/Isolo	Lagos	6.511	3.310	1	
-Okotie Eboh Street	Eti Osa	Lagos	6.446	3.427	1	
 Ebute-Ero Street	Lagos Island	Lagos	6.464	3.387	1	
 Ebun Street	Ifako/Ijaye	Lagos	6.637	3.341	1	
-Ebun Street	Ifako/Ijaye	Lagos	6.642	3.334	1	
 Dr. Onoh Ebhomenye Street	Eti Osa	Lagos	6.447	3.477	1	
 Ebenezer Street	Ajeromi/Ifelodun	Lagos	6.441	3.339	1	
 Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.013	7.435	1	Goodluck E. Jonathan Expressway
 Okotie Eboh Street	Municipal Area Council	FCT Abuja	9.066	7.441	1	
-Okotie Eboh Street	Municipal Area Council	FCT Abuja	9.065	7.443	1	
 Ebenezer Lane	Surulere	Lagos	6.511	3.343	1	
 Ebehigbe Street	Egor	Edo	6.357	5.582	1	
-EBOH STREET	Egor	Edo	6.361	5.566	1	
+Eboh Street	Egor	Edo	6.361	5.566	1	
 Eboigbe Street	Egor	Edo	6.360	5.580	1	
 Ebohon street	Egor	Edo	6.351	5.582	1	
 Ebun Street	Surulere	Lagos	6.513	3.350	1	
@@ -142,11 +266,9 @@ Chief Emeka Ebila Street	Enugu South	Enugu	6.415	7.487	1
 Chief Emeka Ebila Close	Enugu South	Enugu	6.417	7.488	1	
 Ebeano Housing Estate Road	Enugu North	Enugu	6.457	7.511	1	
 Ebonyi River Street	Enugu East	Enugu	6.483	7.520	1	
-Ebute Ero Market	Lagos Island	Lagos	6.462	3.385	0	
 Ebunoha Street	Enugu East	Enugu	6.499	7.503	1	
 Eric Eboh Close	Enugu East	Enugu	6.488	7.496	1	
 Ebenator Street	Enugu North	Enugu	6.459	7.532	1	
-Ebe-Ano Road	Enugu North	Enugu	6.455	7.499	1	
 Ebrohimie Road	Ibadan North	Oyo	7.441	3.906	1	
 Ebemola Street	Oshodi/Isolo	Lagos	6.508	3.321	1	
 Ebun Ogunjimi Street	Ìkòròdú	Lagos	6.619	3.486	1	
@@ -158,11 +280,7 @@ Ehi-Ebhojie Avenue	Eti Osa	Lagos	6.457	3.575	1
 Ebun Street	Shomolu	Lagos	6.519	3.381	1	
 Lara Ebegbune Street	Oshodi/Isolo	Lagos	6.548	3.320	1	
 Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.052	7.515	1	Goodluck E. Jonathan Expressway
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.055	7.509	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.049	7.494	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.054	7.504	1	
 Ebis Road	Yenegoa	Bayelsa	4.939	6.327	1	
-Ebunoluwa Int. School	Egbedore	Osun	7.779	4.511	0	
 HRM. King Ebenezer Akakuro Kagbo Road	Yenegoa	Bayelsa	4.870	6.208	1	
 Ebhote Street	Esan West	Edo	6.739	6.135	1	
 Ebenebe Street	Oshodi/Isolo	Lagos	6.518	3.304	1	
@@ -175,7 +293,6 @@ Igbogbo-Ebute Road	Ìkòròdú	Lagos	6.591	3.512	1
 Ebanba Street	Uvwie	Delta	5.559	5.768	1	
 Ebare Street	Ovia North-East	Edo	6.433	5.596	1	
 Ebenator Ekwe Road	Njaba	Imo	5.690	7.024	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.003	7.425	1	
 Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.016	7.439	1	
 Ebubu Community Road	Eleme	Rivers	4.781	7.147	1	
 Dr. Goodluck Ebele Jonathan Road	Obio/Akpor	Rivers	4.900	6.925	1	
@@ -184,33 +301,51 @@ Ebong Ntak street	Uyo	Akwa Ibom	5.027	7.911	1
 Ebong Akpakpan Street	Uyo	Akwa Ibom	5.020	7.958	1	
 Daniel Ebhodaghe Street	Alimosho	Lagos	6.563	3.302	1	Daniel Taiwo Street
 Ebun Odebode Close	Eti Osa	Lagos	6.507	3.598	1	
-Chief Emeka Ebila Street	Enugu South	Enugu	6.414	7.487	1	
-Ebony Paint Road	Enugu South	Enugu	6.391	7.494	1	
 Ebong Nkanga Street	Ibiono Ibom	Akwa Ibom	5.054	7.872	1	
 Ebute Elebo St.	Kosofe	Lagos	6.548	3.407	1	
 Ebrawinoro Street	Uvwie	Delta	5.565	5.767	1	
 Osemi Ebi Close	Uvwie	Delta	5.557	5.757	1	
-Igbogbo-Ebute Road	Ìkòròdú	Lagos	6.592	3.518	1	
-Igbogbo-Ebute Road	Ìkòròdú	Lagos	6.597	3.502	1	
 Eberendu's Avenue	Aboh-Mbaise	Imo	5.492	7.194	1	
 Engr Oliver Eberendu's Avenue Umuezie	Aboh-Mbaise	Imo	5.493	7.195	1	
-Ebute Metta Health Centre	Lagos Mainland	Lagos	6.488	3.385	0	
-Ebute Metta Primary School	Lagos Mainland	Lagos	6.488	3.385	0	
-St. Saviour's School Ebute-Metta	Surulere	Lagos	6.490	3.376	0	
 Ebitu Ukiwe Street	Municipal Area Council	FCT Abuja	9.064	7.423	1	
 Goodluck Ebele Jonathan Road	Bauchi	Bauchi	10.292	9.784	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.028	7.454	1	Goodluck E. Jonathan Expressway
 EB Saleh Close	Municipal Area Council	FCT Abuja	9.043	7.545	1	
-Ukwu Ebelebe	Njaba	Imo	5.684	7.024	0	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.015	7.437	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.055	7.504	1	
 Eboh Road	Umuahia North	Abia	5.530	7.466	1	
 Alabata - Eboyomi Road	Akinyele	Oyo	7.599	3.844	1	
 Alabata - Eboyomi Road	Akinyele	Oyo	7.594	3.818	1	
-Alabata - Eboyomi Road	Akinyele	Oyo	7.595	3.811	1	
-Alabata - Eboyomi Road	Akinyele	Oyo	7.577	3.810	1	
 Alabata - Eboyomi Road	Akinyele	Oyo	7.562	3.812	1	
-Ebunoluwa International School	Egbedore	Osun	7.777	4.510	0	
 Ebunotti Street	Ajeromi/Ifelodun	Lagos	6.446	3.343	1	
-Toyin Ebenezer Street	Eti Osa	Lagos	6.469	3.635	1	
-Ebonyi	Ebonyi	Ebonyi	6.534	8.133	2	
+Ebenezer Schools	Oredo	Edo	6.309	5.618	0	
+Ebenezer African Church School	Ibadan North West	Oyo	7.392	3.887	0	
+Ebibotel Group of Schools	Yenegoa	Bayelsa	4.948	6.341	0	
+Ebo Market Iwaro	Akoko South West	Ondo	7.440	5.771	0	
+Ebute Ojo/Sifax Ferry Terminal	Ojo	Lagos	6.453	3.205	0	
+Primary Health Centre, Toru-Ebeni	Sagbama	Bayelsa	4.980	6.076	0	
+Ebenezer African Church Primary School, Ijoko	Ifo	Ogun	6.801	3.200	0	
+Ebenezer African Church Primary School Ii, Ewupe Ota	Ado Odo/Ota	Ogun	6.651	3.061	0	
+Ebenezer African Church Primary School, Oloparun	Ifo	Ogun	6.818	3.187	0	
+Ebenezer African Church Primary School, Ijoko	Ado Odo/Ota	Ogun	6.742	3.263	0	
+Ebenezer African Church Primary School Ii, Ewupe Ota	Ado Odo/Ota	Ogun	6.712	3.197	0	
+Ebenezer African Church Primary School, Oloparun	Ado Odo/Ota	Ogun	6.651	2.983	0	
+Ebenezer African Church Primary School, Olorunda Atan	Ado Odo/Ota	Ogun	6.731	3.124	0	
+Ebenezer African Church Primary School I, Ewupe Ota	Ado Odo/Ota	Ogun	6.716	3.203	0	
+Ebenezer African Church, Aganna Olorunnda	Ado Odo/Ota	Ogun	6.731	3.124	0	
+Ebedi Market	Ìsẹ́yìn	Oyo	7.958	3.614	0	
+Ebonyi Mall	Abakaliki	Ebonyi	6.308	8.103	0	
+Ezza North LGA Secreteriat Ebiaji	Ezza North	Ebonyi	6.226	7.995	0	
+EBSU Presco Campus	Abakaliki	Ebonyi	6.327	8.079	0	
+Ebenezer Specialist Clinic and Maternity	Mushin	Lagos	6.539	3.355	0	
+Mobolaji Johnson Station	Surulere	Lagos	6.502	3.374	0	Ebute Metta Station
+Ebony Kids International School	Idemili South	Anambra	6.037	6.928	0	
+Ebute Ero	Lagos Island	Lagos	6.463	3.382	0	
+Ebenezer High School, Agba-Dam Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.585	0	
+Ebere Links	Owerri Municipal	Imo	5.494	7.035	0	
+ebute lekki	Ibeju Lekki	Lagos	6.403	4.135	0	
+Ebonyi Primary Health Centre	Olamaboro	Kogi	7.173	7.576	0	
+Ebute Ero Market	Lagos Island	Lagos	6.462	3.385	0	
+Ebunoluwa Int. School	Egbedore	Osun	7.779	4.511	0	
+Ebute Metta Health Centre	Lagos Mainland	Lagos	6.488	3.385	0	
+Ebute Metta Primary School	Lagos Mainland	Lagos	6.488	3.385	0	
+St. Saviour's School Ebute-Metta	Surulere	Lagos	6.490	3.376	0	
+Ukwu Ebelebe	Njaba	Imo	5.684	7.024	0	
+Ebunoluwa International School	Egbedore	Osun	7.777	4.510	0	

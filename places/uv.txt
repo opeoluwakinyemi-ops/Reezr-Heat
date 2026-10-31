@@ -1,7 +1,31 @@
 Uvu	Askira-Uba	Borno	10.496	13.122	2	
 Oghwrughelli	Ughelli North	Delta	5.598	5.908	2	Ughwrughelli;Uvwrughelli
-Uvbi Primary School	Ikpoba-Okha	Edo	6.328	5.634	0	
-Mbiama to Effurun, Uvwie	Uvwie	Delta	5.574	5.792	1	
-Uvokeke Street	Warri South	Delta	5.535	5.754	1	
 Uvwie	Uvwie	Delta	5.564	5.784	2	
 Uvu Uda	Askira-Uba	Borno	10.477	13.096	2	
+Uvruani	Uzo-Uwani	Enugu	6.742	7.204	2	
+Uvuru	Uzo-Uwani	Enugu	6.746	7.212	2	Uvru
+Uvihi	Konshisha	Benue	7.179	8.593	2	
+Uvbe	Uhunmwonde	Edo	6.289	5.953	2	
+Uvaha	Gwoza	Borno	11.018	13.647	2	
+Uva Dee	Konshisha	Benue	7.068	8.540	2	
+Uva	Gwer East	Benue	7.416	8.535	2	
+Uva	Konshisha	Benue	7.066	8.684	2	
+Umu Uvo	Isiala-Ngwa North	Abia	5.283	7.300	2	
+Uvbemisi	Uhunmwonde	Edo	6.387	6.047	2	Ugbemisi
+Overo	Uzo-Uwani	Enugu	6.776	7.209	2	Uvuru
+Ogbo-Uvuru	Uzo-Uwani	Enugu	6.696	7.181	2	
+Uvduke	Gwoza	Borno	11.146	13.629	2	
+Uve	Gboko	Benue	7.261	8.837	2	
+Uvru	Uzo-Uwani	Enugu	6.749	7.201	2	
+Uvwiamuge	Ughelli North	Delta	5.558	5.884	2	Ovwiammuge
+Uvwiama	Ughelli North	Delta	5.562	5.875	2	Ovwiama
+Ohori-Uvwedor	Ughelli North	Delta	5.274	6.085	2	
+Uvbe	Ika South	Delta	6.318	6.130	2	Ozonogogo
+Uvwie	Uvwie	Delta	5.572	5.776	2	Agbegbe Ijoba Ibile Uvwie
+Uvu Uda	Askira-Uba	Borno	10.484	13.090	2	
+Uvia	Ukum	Benue	7.504	9.578	2	
+Uve	Katsina-Ala	Benue	7.382	9.450	2	
+Uve	Gboko	Benue	7.337	8.787	2	
+Mbiama to Effurun, Uvwie	Uvwie	Delta	5.574	5.792	1	
+Uvokeke Street	Warri South	Delta	5.535	5.754	1	
+Uvbi Primary School	Ikpoba-Okha	Edo	6.328	5.634	0	

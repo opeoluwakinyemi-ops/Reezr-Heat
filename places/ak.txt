@@ -1,31 +1,56 @@
 Akugba	Akoko South West	Ondo	7.462	5.733	3	
 Akwanga	Akwanga	Nasarawa	8.911	8.408	3	
-Akodo	Ibeju Lekki	Lagos	6.436	3.930	2	
+Akwete	Ukwa East	Abia	4.887	7.357	3	
+Akwukwu Igbo	Oshimili North	Delta	6.357	6.591	3	
+Akpuru	Ideato North	Imo	5.917	7.083	3	
+Akokwa	Ideato North	Imo	5.909	7.111	3	Akaokwa
+Akankpa	Akamkpa	Cross River	5.312	8.355	3	
+Akpet Central	Biase	Cross River	5.620	8.102	3	Agoi Efut
+Akassa	Brass	Bayelsa	4.325	6.066	3	
+Akwa Etiti	Idemili South	Anambra	6.034	6.966	3	
+Akeze	Ivo	Ebonyi	5.918	7.675	3	Aka Eze;Akeze
+Akabuka	Ogba/Egbema/Ndoni	Rivers	5.235	6.645	3	
+Akobo	Lagelu	Oyo	7.434	3.950	3	
+Oka-Akoko	Akoko South West	Ondo	7.459	5.803	3	
+Akure	Akure South	Ondo	7.253	5.193	3	
+Akinima	Ahoada West	Rivers	5.088	6.470	3	
+Ikot Akpa Nkuk	Ukanafun	Akwa Ibom	4.875	7.561	3	
+Akpugo	Nkanu West	Enugu	6.335	7.583	3	
+Aku Diewa	Igbo-Etiti	Enugu	6.696	7.339	3	
+Ukpo	Dunukofia	Anambra	6.214	6.967	3	Ukpo-Akpu
+Oka	Akoko South West	Ondo	7.460	5.802	3	Oka-Akoko
+Isua	Akoko South East	Ondo	7.454	5.910	3	Ishua|Isua Akoko
+Ikeja	Ikeja	Lagos	6.597	3.342	3	Ikedzha|akja|akyja|aykyja|ikeja
+Ibagwa-Aka	Igbo-Eze-South	Enugu	6.919	7.399	3	Abagwa Aka|Ibegwa-Aka
+Akwukwu-Igbo	Oshimili North	Delta	6.358	6.591	3	Akwukwu
+Aku	Igbo-Etiti	Enugu	6.709	7.318	3	
+Akodo	Ibeju Lekki	Lagos	6.438	3.931	3	Akawdo
+Akanran	Ona Ara	Oyo	7.281	4.026	3	
+Akamkpa	Akamkpa	Cross River	5.312	8.355	3	Akankpa
+Ado-Ekiti	Adó-Èkìtì	Ekiti	7.623	5.221	3	Ado|Ado-Ehkiti|EKK|ado-ekiti|adw akyty|adw-aykty|lidiyeti lisano
+Akowonjo	Agege	Lagos	6.610	3.310	3	Akouonijo
+Akpafa	Ogori/Magongo	Kogi	7.472	6.150	3	
+Ikot Akpa Nkuk	Ukanafun	Akwa Ibom	4.872	7.565	3	
+Gaa Akanbi	Ilorin East	Kwara	8.460	4.560	2	
 Akungba	Akoko South West	Ondo	7.470	5.736	2	
 Akpoha-Igbo	Abi	Cross River	5.993	8.012	2	Akpohoa Igbo
 Akoro	Agatu	Benue	7.848	8.025	2	
 Akosi	Ekeremor	Bayelsa	4.963	5.653	2	
-Akwete	Ukwa East	Abia	4.887	7.357	3	
 Ikot Akpan Nsek	Oruk Anam	Akwa Ibom	4.729	7.570	2	
 Ikot Akpabin	Nsit Ubium	Akwa Ibom	4.713	7.948	2	
-Akwukwu Igbo	Oshimili North	Delta	6.357	6.591	3	
 Akhia	Esan West	Edo	6.706	6.145	2	Akhia;Akahia
 Irogun Akere	Yewa South	Ogun	6.815	2.989	2	
 Akingbogun	Odeda	Ogun	7.200	3.717	2	Akigbogun
 Akinbola	Afijio	Oyo	7.694	3.865	2	Akinbawla
 Akumani	Yenegoa	Bayelsa	5.101	6.405	2	
-Akpuru	Ideato North	Imo	5.917	7.083	3	
 Akila	Ogun Waterside	Ogun	6.623	4.329	2	
 Ikot Akpabio	Nsit Atai	Akwa Ibom	4.865	8.056	2	
-Akokwa	Ideato North	Imo	5.909	7.111	3	Akaokwa
 Akinmorin	Afijio	Oyo	7.783	3.950	2	Akinmarin
 Akenfa	Yenegoa	Bayelsa	4.997	6.376	2	
 Akukwaterra	Emuoha	Rivers	4.851	6.817	2	Akukwaferra;Akukwaterra;Akukuwaterra;Akwukwoeterre
 Efut Eso	Biase	Cross River	5.647	8.088	2	Efut;Akpet 1
 Igasi-Akoko	Akoko North West	Ondo	7.720	5.802	2	Igashi Akoko;Igashi
-Akankpa	Akamkpa	Cross River	5.312	8.355	3	
 Akpochi	Isi-Uzo	Enugu	6.753	7.613	2	Okpochi
-Akpet Central	Biase	Cross River	5.620	8.102	3	Agoi Efut
 Ojo	Akamkpa	Cross River	5.406	8.273	2	Ojo Akankpa;Ojo Akanpa
 Ekara Mbang	Calabar Municipal	Cross River	5.082	8.359	2	Akan Mbang
 Ungwan Akali	Gwandu	Kebbi	12.427	4.650	2	
@@ -71,13 +96,13 @@ Ndialagu Akpu	Izzi	Ebonyi	6.434	8.237	2	Akpu;Ndialagu
 Akiuwa	Ikpoba-Okha	Edo	6.409	5.643	2	
 Aikira Bitari	Rafi	Niger	10.367	6.067	2	Akera
 Ekeke	Owan East	Edo	6.850	6.117	2	Akeke
+Akonkwe	Kurmi	Taraba	7.014	10.834	2	
 Akpasi	Kogi	Kogi	8.250	6.833	2	
 Akopo	Igalamela-Odolu	Kogi	7.067	7.067	2	Okopu
 Mbara Akuma	Umuahia South	Abia	5.475	7.437	2	
 Akete	Ado Odo/Ota	Ogun	6.607	3.083	2	
 Magboro	Obafemi Owode	Ogun	6.715	3.402	2	Magboro-Akeran
 Akaubiri	Yenegoa	Bayelsa	4.985	6.275	2	
-Akassa	Brass	Bayelsa	4.325	6.066	3	
 Mopo-Akinlade	Eti Osa	Lagos	6.426	3.621	2	Akinlade
 Ekwegbe	Igbo-Etiti	Enugu	6.715	7.428	2	Akwebe
 Jato Aka	Kwande	Benue	6.890	9.506	2	Jato Ako;Jato
@@ -124,7 +149,6 @@ Tungan Akwada	Bagudo	Kebbi	11.509	4.260	2
 Akorugbene	Burutu	Delta	5.039	5.611	2	
 Akani	Abua/Odual	Rivers	4.764	6.498	2	
 Akalabagi	Ogbia	Bayelsa	4.710	6.364	2	Akalabaga
-Aku	Igbo-Etiti	Enugu	6.707	7.321	2	
 Aka	Igbo-Eze-South	Enugu	6.915	7.420	2	Ihaka
 Aketu-Oja	Ifo	Ogun	6.681	3.375	2	Akute-Oja
 Umu Aja	Obi Ngwa	Abia	5.117	7.533	2	Aja;Akata
@@ -134,20 +158,17 @@ Akobola	Gummi	Zamfara	12.159	4.954	2
 Ikot Akpan Essien	Oruk Anam	Akwa Ibom	4.728	7.634	2	Ikot Akpan Esien
 Ikot Akpan Udo	Oruk Anam	Akwa Ibom	4.756	7.615	2	
 Ikot Akpan Udo	Oruk Anam	Akwa Ibom	4.673	7.584	2	
-Akwa Etiti	Idemili South	Anambra	6.034	6.966	3	
 Akanran	Ona Ara	Oyo	7.337	3.993	2	
-Akeze	Ivo	Ebonyi	5.918	7.675	3	Aka Eze;Akeze
-Akabuka	Ogba/Egbema/Ndoni	Rivers	5.235	6.645	3	
 Akpam	Konshisha	Benue	7.200	8.517	2	Remsa
 Akwiya	Lafia	Nasarawa	8.533	8.417	2	Akwia
 Aku Ihube	Okigwe	Imo	5.900	7.333	2	Akulhube
 Agbobome	Ovia South-West	Edo	6.108	5.279	2	Akpobome
 Akerun Fade	Yewa North	Ogun	6.867	2.817	2	
-Akobo	Lagelu	Oyo	7.434	3.950	3	
 Gidan Akwarna	Kware	Sokoto	13.149	5.299	2	
 Aking	Akamkpa	Cross River	5.438	8.638	2	
 Nde Akwara	Biase	Cross River	5.390	8.189	2	Nde Okwara
 Umu Akam	Ideato North	Imo	5.833	7.167	2	Umu Akan
+Akoforo	Sardauna	Taraba	6.962	10.905	2	
 Akitipa	Kabba/Bunu	Kogi	8.282	6.262	2	
 Akwa	Nnewi South	Anambra	5.917	7.017	2	
 Akpa Uton	Ibiono Ibom	Akwa Ibom	5.233	7.916	2	
@@ -157,11 +178,9 @@ Akudfune	Ikom	Cross River	6.335	8.563	2	Akudfunu
 Akotogbo	Irele	Ondo	6.382	5.043	2	
 Gidan Akai	Gada	Sokoto	13.717	5.921	2	
 Ikare-Akoko	Akoko North East	Ondo	7.518	5.753	2	
-Oka-Akoko	Akoko South West	Ondo	7.459	5.803	3	
 Inua Akpa	Odukpani	Cross River	5.144	8.141	2	Inwa Akpa
 Akpararuni	Biase	Cross River	5.509	8.107	2	
 Akpoga	Udenu	Enugu	6.831	7.620	2	
-Akowonjo	Agege	Lagos	6.611	3.310	2	
 Akintonwa	Lagelu	Oyo	7.600	4.083	2	Akinwan
 Akarino	Ekeremor	Bayelsa	4.972	5.639	2	
 Akpobome Waterside	Ethiope West	Delta	5.885	5.728	2	
@@ -176,12 +195,8 @@ Akpatakpa	Izzi	Ebonyi	6.383	8.186	2	Akpatakpaba
 Akalole	Dandi	Kebbi	11.675	3.793	2	
 Akodo	Ibeju Lekki	Lagos	6.389	4.217	2	Akando
 Akache	Chikun	Kaduna	10.695	6.752	2	Akachi
-Akure	Akure South	Ondo	7.253	5.193	3	
 Akarakumoh	Badagry	Lagos	6.412	2.959	2	
-Akanran	Ona Ara	Oyo	7.342	3.983	2	
 Akanran	Egbeda	Oyo	7.377	3.996	2	
-Akwa Ibom Motor Park	Oredo	Edo	6.346	5.635	0	
-Olu Aka Di Mma Vocational Technical Training Centre	Enugu North	Enugu	6.431	7.478	0	
 Ndiaga-Akpugo	Nkanu East	Enugu	6.367	7.600	2	
 Yar Akwa	Tarauni	Kano	11.940	8.560	2	
 Musa Akrarri	Nganzai	Borno	12.473	13.242	2	
@@ -199,108 +214,1143 @@ Ukana Akpa Utong	Essien Udim	Akwa Ibom	5.100	7.718	2
 Urua Akpan	Essien Udim	Akwa Ibom	5.128	7.629	2	
 Akuzo	Bayo	Borno	10.612	11.660	2	
 Akau	Biu	Borno	10.598	12.358	2	
-Yar Akija Basic Health Clinic	Sokoto South	Sokoto	13.054	5.236	0	Akija Clinic
-AKTC Motors	Oredo	Edo	6.345	5.636	0	
-AKTC Park	Itu	Akwa Ibom	5.056	7.884	0	
-AKTC	Uvwie	Delta	5.548	5.781	0	
 Goni Akurari	Guzamala	Borno	12.689	13.336	2	
 Goni Akurari	Guzamala	Borno	12.817	13.198	2	
-Oyin Akoko Market	Akoko North West	Ondo	7.673	5.758	0	
-Akure Market	Akure South	Ondo	7.253	5.196	0	
-Bagbe Akure Market	Akure South	Ondo	7.251	5.195	0	
-Iye Akoko Market	Akoko North West	Ondo	7.593	5.748	0	
-Auga Akoko Market	Akoko North East	Ondo	7.557	5.916	0	
-Ise Akoko Market	Akoko North East	Ondo	7.513	5.916	0	
-Isua Akoko Market	Akoko South East	Ondo	7.457	5.916	0	
-Sosan Akoko Market	Akoko South East	Ondo	7.427	5.920	0	
-Akinjala Market	Ondo West	Ondo	6.913	4.562	0	
-Igasi Akoko Market	Akoko North West	Ondo	7.724	5.798	0	
-Akunnu Market	Akoko North East	Ondo	7.633	5.942	0	
-Ikaram Akoko Market	Akoko North West	Ondo	7.605	5.856	0	
-Irun Akoko Market	Akoko North West	Ondo	7.588	5.671	0	
-Erusu Akoko Market	Akoko North West	Ondo	7.587	5.815	0	
-Ogbagi Akoko Market	Akoko North West	Ondo	7.574	5.707	0	
-Arigidi Akoko Market	Akoko North West	Ondo	7.564	5.766	0	
-Iboropa Ako Market	Akoko North East	Ondo	7.535	5.852	0	
-Ugbe Akoko Market	Akoko North East	Ondo	7.529	5.783	0	
-Akungba Akoko Market	Akoko South West	Ondo	7.470	5.736	0	
-Oka Akoko Market	Akoko South West	Ondo	7.457	5.803	0	
-Epinmi Akoko Market	Akoko South East	Ondo	7.457	5.864	0	
-Supare Akoko Market	Akoko South West	Ondo	7.447	5.689	0	
-Ipe Akoko Market	Akoko South East	Ondo	7.415	5.861	0	
-Ifira Akoko Market	Akoko South East	Ondo	7.389	5.917	0	
-Ikun Akoko Market	Akoko South West	Ondo	7.376	5.780	0	
-Oba Akoko Market	Akoko South West	Ondo	7.375	5.722	0	
-Ipesi Akoko Market	Akoko South East	Ondo	7.369	5.952	0	
 Akaradi	Andoni	Rivers	4.518	7.425	2	
-ANWA AKPANA	Ukanafun	Akwa Ibom	4.868	7.657	2	
+Anwa Akpana	Ukanafun	Akwa Ibom	4.868	7.657	2	
 Ako	Dambatta	Kano	12.389	8.607	2	
 Gah-Akéékéé	Iwajowa	Oyo	8.178	2.744	2	
-Akinima	Ahoada West	Rivers	5.088	6.470	3	
-Ladoke Akintola University of Technology (LAUTECH)	Ogbomosho North	Oyo	8.167	4.267	0	
-local government primary school, baale-akinosi	Ifo	Ogun	6.682	3.352	0	
-zumuratul islamiyyah primary school, i akute	Ifo	Ogun	6.680	3.369	0	
-Local Government Primary School, Ore Akinde	Shagamu	Ogun	6.753	3.601	0	
-Community Primary School, Akeredolu	Ado Odo/Ota	Ogun	6.671	3.058	0	
-Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.818	3.185	0	
-Community Primary School, Akera	Ìjẹ̀bú Òde	Ogun	6.808	3.912	0	
-Local Government Primary School, Akinsinde	Ifo	Ogun	6.682	3.297	0	
-Local Government Primary School, Akinsinde	Ifo	Ogun	6.808	3.161	0	
-Community Primary School, Akeredolu	Ifo	Ogun	6.702	3.355	0	
-Community Primary School, Akera	Ado Odo/Ota	Ogun	6.693	3.286	0	
-Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.684	3.369	0	
-African Church Primary School,Akoore	Ado Odo/Ota	Ogun	6.616	3.104	0	
-Local Government Primary School, Ore Akinde	Ado Odo/Ota	Ogun	6.610	3.118	0	
-Local Government Primary School, Akasun	Ado Odo/Ota	Ogun	6.561	2.961	0	
-Akute Grammar School	Ifo	Ogun	6.685	3.362	0	
-Akalaka House	Enugu North	Enugu	6.458	7.523	0	
 Akrai	Ndokwa East	Delta	5.496	6.485	2	
 Akara	Ahoada West	Rivers	5.105	6.505	2	
 Akaramini	Ahoada West	Rivers	5.119	6.487	2	
 Akafta	Ogba/Egbema/Ndoni	Rivers	5.260	6.699	2	
-Comfort Zone Hospital, Akingbile-Moniya Road	Akinyele	Oyo	7.514	3.910	0	
-Al-Lateef Medical Hospital, Akingbile Junction	Akinyele	Oyo	7.513	3.913	0	
-Michael Bella Memorial Hospital, General Gas-Akobo	Lagelu	Oyo	7.428	3.939	0	
-Cureland Medical Centre, Moniya Road, Akingbile	Akinyele	Oyo	7.523	3.915	0	
-Olorisa-oko PHC, Akinyele	Akinyele	Oyo	7.561	3.887	0	
 Akabo	Oguta	Imo	5.617	6.910	2	
 Akili-Ozizor	Ogbaru	Anambra	5.986	6.739	2	
 Akpako	Oshimili South	Delta	6.080	6.650	2	
 Akiewe	Isoko North	Delta	5.517	6.165	2	
-Akawu Na Mata Oil and Gas Limited	Jos North	Plateau	9.957	8.895	0	
-Akatapa Nigeria Limited	Jos North	Plateau	9.903	8.910	0	
 Akerele	Warri North	Delta	5.859	5.009	2	
-Oloye Olajumoke Akinjide Shopping Arcade Dutse Alhaji	Municipal Area Council	FCT Abuja	9.139	7.369	0	
 Akata	Ibeno	Akwa Ibom	4.527	7.862	2	
-Akpouga Nike Market	Enugu East	Enugu	6.468	7.602	0	
-Ikot Akpa Nkuk	Ukanafun	Akwa Ibom	4.875	7.561	3	
 Gidan Mai Akwiya	Lafia	Nasarawa	8.547	8.740	2	
-Federal University of Technology, Akure	Akure South	Ondo	7.293	5.150	0	FUTA
-Zion Clinic Ak45 Yoruba Road	Kaduna North	Kaduna	10.510	7.426	0	
-Akinsayosikenu Hospital	Alimosho	Lagos	6.604	3.260	0	
-Health Center Akinogun	Alimosho	Lagos	6.609	3.285	0	
-Weeldrop Akobo	Lagelu	Oyo	7.432	3.942	0	
-Akabor City Gate, Ojoto, Idemili South LGA, Anambra State, Nigeria	Idemili South	Anambra	6.066	6.860	0	
-Akingbade Health Bay	Ife Central	Osun	7.505	4.522	0	
 Akaragbene	Southern Ijaw	Bayelsa	4.443	5.989	2	
 Akugbene	Bomadi	Delta	5.247	5.836	2	
 Akpakpa	Warri South-West	Delta	5.573	5.188	2	
 Akor 2	Akamkpa	Cross River	5.464	8.727	2	
 Akor 1	Akamkpa	Cross River	5.466	8.729	2	
-Akor PHC	Akamkpa	Cross River	5.463	8.729	0	
-GDJSS GAA-AKANBI, ILORIN., Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.589	0	
 Akoka	Shomolu	Lagos	6.529	3.391	2	
 Nkum Akpambe	Obubra	Cross River	6.068	8.477	2	Nkom Akpamba
-Akpugo	Nkanu West	Enugu	6.335	7.583	3	
 Enugu-Aku	Oji-River	Enugu	6.184	7.309	2	
-Local Authority Primary School Akarakumoh	Badagry	Lagos	6.412	2.957	0	
-Conoil Petrol Station Junction Akin Mabogunje Drive	Municipal Area Council	FCT Abuja	8.967	7.352	0	
-Akara Junction	Municipal Area Council	FCT Abuja	9.082	7.397	0	
-Aktc Jabi	Municipal Area Council	FCT Abuja	9.068	7.433	0	
-Aku Diewa	Igbo-Etiti	Enugu	6.696	7.339	3	
 Oba Akran	Ikeja	Lagos	6.612	3.338	2	
 Akesan	Alimosho	Lagos	6.538	3.223	2	
 Eko Akete	Ibeju Lekki	Lagos	6.461	3.683	2	
+Akwuke	Nkanu West	Enugu	6.395	7.456	2	
+Obot Akara	Obot Akara	Akwa Ibom	5.243	7.601	2	
+Akoko South West	Akoko South West	Ondo	7.401	5.706	2	
+Akoko North West	Akoko North West	Ondo	7.650	5.815	2	
+Akure South	Akure South	Ondo	7.223	5.169	2	
+Akure North	Akure North	Ondo	7.252	5.314	2	
+Akoko-Edo	Akoko-Edo	Edo	7.352	6.125	2	
+Akoko South East	Akoko South East	Ondo	7.422	5.905	2	
+Akoko North East	Akoko North East	Ondo	7.563	5.904	2	
+Akwanga	Akwanga	Nasarawa	9.015	8.341	2	
+Akinyele	Akinyele	Oyo	7.555	3.912	2	
+Akuyam	Misau	Bauchi	11.492	10.600	2	
+Obio/Akpor	Obio/Akpor	Rivers	4.866	7.020	2	
+Akko	Akko	Gombe	10.100	11.003	2	
+Akamkpa	Akamkpa	Cross River	5.390	8.545	2	
+Akpabuyo	Akpabuyo	Cross River	4.896	8.480	2	
+Akuku Toru	Akuku Toru	Rivers	4.534	6.679	2	
+Uzuakoli	Bende	Abia	5.628	7.555	2	Ozu Akoli|Uzuakloi
+Umu-Akwu-Ameke	Umu-Nneochi	Abia	5.983	7.351	2	
+Umu-Akwu	Isiala-Ngwa South	Abia	5.356	7.506	2	
+Umu Akwa	Isiala-Ngwa North	Abia	5.288	7.390	2	
+Umu Akpo	Etche	Rivers	5.101	7.134	2	
+Umu Akpara	Osisioma Ngwa	Abia	5.170	7.312	2	
+Umu Akirikpo	Omumma	Rivers	5.184	7.260	2	
+Umu Aja	Obi Ngwa	Abia	5.113	7.525	2	Aja|Akata
+Uma-Akpa	Bende	Abia	5.797	7.669	2	
+Tse Akuta	Gwer East	Benue	7.430	8.205	2	
+Pampara Akeiba	Bagudo	Kebbi	11.584	4.206	2	
+Osusu Aku	Ugwunagbo	Abia	5.037	7.357	2	
+Opu Akassa	Brass	Bayelsa	4.278	6.085	2	
+Oluwo-Akeusi	Odeda	Ogun	7.163	3.555	2	Ayedi|Oluwo Akeusi
+Oluwo-Ake	Obafemi Owode	Ogun	7.133	3.550	2	Oluwo Ake
+Oluwo-Ake	Ijebu North	Ogun	7.044	3.985	2	Oluwo Ake
+Oke Akuko	Shagamu	Ogun	6.767	3.617	2	
+Ojubu-Akinwande	Imeko Afon	Ogun	7.397	3.038	2	Ojubu Akinwande
+Obot Akpabio	Odukpani	Cross River	5.331	7.851	2	
+Obot-Akara	Obot Akara	Akwa Ibom	5.272	7.658	2	
+Nkum Apambe	Obubra	Cross River	6.070	8.478	2	Nkum Akpambe
+Ndialagu-Akpu	Izzi	Ebonyi	6.439	8.236	2	Akpu|Ndialagu
+Ndiaga-Akpugu	Nkanu East	Enugu	6.372	7.600	2	
+Mbukpo Eyo Akan	Okobo	Akwa Ibom	4.733	8.102	2	
+Nbara Akuma	Umuahia South	Abia	5.471	7.443	2	Mbara Akuma
+Little Akbokum	Etung	Cross River	5.915	8.722	2	Little Agbokum|Little Obokum
+Kyekwura	Awe	Nasarawa	8.114	9.179	2	Akekura
+Itosi-Akowe	Afijio	Oyo	7.721	3.774	2	Itosi Akowe|ItosiAkowe
+Itak-Ikot-Akap	Ikono	Akwa Ibom	5.252	7.761	2	
+Irogun-Akere	Yewa South	Ogun	6.815	2.989	2	Akere|Irogun Akere
+Ikpe Ikot Akpan	Essien Udim	Akwa Ibom	5.128	7.776	2	
+Ikot Ubo Akpe	Ikot Abasi	Akwa Ibom	4.701	7.707	2	
+Ikot Ubo Akama	Ikot Abasi	Akwa Ibom	4.641	7.609	2	
+Ikot Oku Akpan	Ibesikpo Asutan	Akwa Ibom	4.863	7.979	2	
+Ikot Obong Akan	Oruk Anam	Akwa Ibom	4.771	7.727	2	
+Ikot Obio Akwa	Mkpat Enin	Akwa Ibom	4.723	7.759	2	
+Ikot Obio Akpan	Ikot Abasi	Akwa Ibom	4.673	7.635	2	
+Ikot Inwang Akpo	Akpabuyo	Cross River	4.844	8.552	2	
+Ikot Akpe	Mkpat Enin	Akwa Ibom	4.731	7.763	2	
+Ikot Akpaso	Ibesikpo Asutan	Akwa Ibom	4.890	7.974	2	
+Ikot-Akpa-Ntim	Ikono	Akwa Ibom	5.263	7.761	2	
+Ikot-Akpantem	Ini	Akwa Ibom	5.451	7.753	2	
+Ikot Akpan Obong	Ibiono Ibom	Akwa Ibom	5.167	7.931	2	
+Ikot Akpan Nta	Oruk Anam	Akwa Ibom	4.718	7.681	2	
+Ikot Akpan Ikpo	Ikono	Akwa Ibom	5.324	7.732	2	
+Ikot Akpan Idian	Ikot Abasi	Akwa Ibom	4.662	7.689	2	
+Ikot Akpanata	Ikot Abasi	Akwa Ibom	4.576	7.572	2	
+Ikot Akpan Abia	Ibesikpo Asutan	Akwa Ibom	4.983	7.905	2	
+Ikot Akpan Abia	Nsit Ubium	Akwa Ibom	4.837	7.966	2	
+Ikot Akpana	Odukpani	Cross River	5.112	8.112	2	
+Ikot Akpana	Odukpani	Cross River	5.059	8.200	2	
+Ikot Akpan	Itu	Akwa Ibom	5.154	7.988	2	
+Ikot Akpan	Ibiono Ibom	Akwa Ibom	5.106	7.880	2	
+Ikot Akpan	Ukanafun	Akwa Ibom	4.874	7.527	2	
+Ikot Akpan	Oruk Anam	Akwa Ibom	4.817	7.692	2	
+Ikot Akpan	Nsit Ubium	Akwa Ibom	4.743	7.907	2	
+Ikot Akpaidem	Ukanafun	Akwa Ibom	4.888	7.599	2	
+Ikot Akpa Etok	Ibesikpo Asutan	Akwa Ibom	4.932	7.964	2	
+Ikot Akpa Ekan	Uruan	Akwa Ibom	4.969	8.015	2	
+Ikot Akpa Edu	Ibesikpo Asutan	Akwa Ibom	4.960	7.905	2	
+Ikot Akpadung Itak	Uyo	Akwa Ibom	5.048	7.827	2	
+Ikot Akpabio	Ibiono Ibom	Akwa Ibom	5.074	7.844	2	
+Ikot Akata	Mkpat Enin	Akwa Ibom	4.690	7.773	2	
+Ikot Akan	Nsit Ubium	Akwa Ibom	4.770	7.901	2	
+Ikot Akan	Ikot Abasi	Akwa Ibom	4.614	7.669	2	
+Ikot Aka	Ukanafun	Akwa Ibom	4.868	7.592	2	
+Ikot Aka	Mkpat Enin	Akwa Ibom	4.798	7.753	2	
+Igunnu-Akapo	Ipokia	Ogun	6.597	2.848	2	Igunnu Akabo
+Idowu-Akamo	Akinyele	Oyo	7.611	4.053	2	Idowu Akamo|IdowuAkamo
+Iboro-Akute	Abeokuta North	Ogun	7.266	3.231	2	Iboro Akute
+Ibogun Akiode	Ifo	Ogun	6.800	3.117	2	
+Gindi Akwati	Barkin Ladi	Plateau	9.461	8.838	2	
+Gidan Maiakuya	Lafia	Nasarawa	8.545	8.735	2	Gidan Mai Akwiya|GidanMaiAkwiya|GidanMaiakuya
+Gidan Akwaja	Kachia	Kaduna	9.607	7.503	2	
+Gidan Aka	Omala	Kogi	7.632	7.618	2	Giddan Akka
+Elugwu Akanu	Bende	Abia	5.798	7.688	2	
+Akpet 1	Biase	Cross River	5.647	8.088	2	Efut|Efut Eso
+Belo-Akumara	Aiyedade	Osun	7.253	4.273	2	Belo Akumara
+Barakin Akawo	Jos South	Plateau	9.854	8.858	2	
+Atan Akpan	Ibiono Ibom	Akwa Ibom	5.173	7.876	2	Atan Akpan Udom
+Aro Ake Eze	Ohaozara	Ebonyi	5.929	7.737	2	
+Apena-Ake	Odeda	Ogun	7.166	3.615	2	Apena Ake
+Apena Aka	Ibarapa Central	Oyo	7.332	3.295	2	
+Ama Akama	Umuahia South	Abia	5.468	7.481	2	
+Akalimanga Sum	Mayo-Belwa	Adamawa	9.139	11.770	2	Alkaliman|Alkalimanga
+Akisimie One	Ika South	Delta	6.300	6.158	2	Alisitne|Alisitue
+Akyangba	Ushongo	Benue	7.244	8.954	2	
+Akya	Gboko	Benue	7.305	8.744	2	
+Akwuyo	Keana	Nasarawa	8.160	8.909	2	
+Akwu Chudere	Etche	Rivers	5.167	7.217	2	
+Akwo	Kurmi	Taraba	7.012	10.825	2	
+Akwete	Awe	Nasarawa	8.088	9.190	2	
+Akwefre	Kurmi	Taraba	7.056	10.774	2	
+Akwatta	Doma	Nasarawa	8.021	8.268	2	
+Akwat	Riyom	Plateau	9.544	8.569	2	
+Akwashi	Toto	Nasarawa	8.264	7.360	2	
+Akwarata Agbaja	Izzi	Ebonyi	6.655	8.212	2	
+Akwanta	Apa	Benue	7.693	7.926	2	
+Akwangi	Kurmi	Taraba	7.143	10.845	2	
+Akwana	Kachia	Kaduna	9.699	7.783	2	
+Akwana	Logo	Benue	7.786	9.169	2	
+Akwan	Mokwa	Niger	9.417	4.767	2	
+Akwakwa	Oredo	Edo	6.188	5.497	2	
+Akwaga	Gwer East	Benue	7.372	8.139	2	
+Akwa Ibami	Akamkpa	Cross River	5.349	8.249	2	
+Akwaeze	Anaocha	Anambra	6.062	7.020	2	
+Akwa-Etiti	Idemili South	Anambra	6.036	6.961	2	
+Akwa	Etche	Rivers	5.029	7.157	2	
+Akuzo	Bungudu	Zamfara	12.397	6.605	2	Akuza
+Akuyorin	Asa	Kwara	8.483	4.317	2	
+Akuve	Konshisha	Benue	7.078	8.565	2	
+Akuva	Gboko	Benue	7.242	8.768	2	
+Akutsa	Gboko	Benue	7.226	8.727	2	
+Akute	Asa	Kwara	8.483	4.317	2	
+Akute	Ori Ire	Oyo	8.492	4.199	2	
+Akusu	Rafi	Niger	9.834	6.151	2	
+Akuse	Ushongo	Benue	7.095	8.800	2	
+Akusa	Ushongo	Benue	7.236	8.968	2	
+Akurya	Malam Maduri	Jigawa	12.474	9.984	2	
+Akurungu	Guma	Benue	7.991	8.701	2	
+Akurba	Lafia	Nasarawa	8.533	8.571	2	Akuruba
+Akure	Guma	Benue	7.997	8.526	2	
+Akure	Guma	Benue	7.959	8.759	2	
+Akure	Orhionmwon	Edo	5.772	6.015	2	
+Agbudu	Toto	Nasarawa	8.297	7.376	2	Akuraba
+Akura	Kachia	Kaduna	9.872	7.861	2	
+Akupoku	Degema	Rivers	4.405	6.946	2	
+Akuo	Ìsẹ́yìn	Oyo	7.769	3.737	2	
+Akunzan Kworo	Lafia	Nasarawa	8.446	8.582	2	
+Akuntak	Ogoja	Cross River	6.367	8.641	2	
+Akungwe	Konshisha	Benue	7.108	8.743	2	
+Akunfori	Obafemi Owode	Ogun	7.065	3.593	2	
+Akumza Janme	Lafia	Nasarawa	8.469	8.599	2	Akunzan
+Akume	Donga	Taraba	7.680	10.123	2	
+Akume	Markurdi	Benue	7.673	8.623	2	
+Akume	Konshisha	Benue	7.262	8.545	2	
+Akume	Ushongo	Benue	7.137	8.864	2	
+Akumbul	Gboko	Benue	7.465	8.707	2	
+Akumbul	Gboko	Benue	7.324	8.683	2	
+Akumbul	Ushongo	Benue	7.163	8.936	2	
+Akumba	Guma	Benue	8.062	8.783	2	
+Akumazi	Ika North East	Delta	6.256	6.325	2	
+Akumaye	Ogoja	Cross River	6.439	8.714	2	
+Akumani	Yenegoa	Bayelsa	5.133	6.431	2	
+Akumadu	Asa	Kwara	8.283	4.417	2	
+Akum	Nasarawa	Nasarawa	8.123	7.965	2	
+Akule	Konshisha	Benue	7.224	8.601	2	
+Akulaga	Keana	Nasarawa	8.145	8.773	2	
+Akul	Konshisha	Benue	7.010	8.829	2	
+Akukwetera	Emuoha	Rivers	4.851	6.814	2	Akukuwaterra|Akukwaferra|Akukwaterra|Akwukwoeterre
+Akukwa	Oji-River	Enugu	6.279	7.155	2	
+Akwukwu-Akumazi	Ika North East	Delta	6.284	6.343	2	Akuku|Akuku-Akumazi
+Ekuku-Agbor	Ika South	Delta	6.082	6.308	2	Akuku-Agbo|Akuku-Agbor
+Aku Ihube	Okigwe	Imo	5.900	7.345	2	Akulhube
+Akugbe	Uhunmwonde	Edo	6.283	5.967	2	
+Akughe	Orhionmwon	Edo	6.235	6.019	2	Akugbe
+Akufo	Ido	Oyo	7.512	3.793	2	
+Akudu	Guma	Benue	8.106	8.583	2	
+Akuba	Olamaboro	Kogi	7.183	7.317	2	
+Akuamande	Konshisha	Benue	7.131	8.599	2	
+Akiti-Ogidi	Ogbaru	Anambra	5.754	6.657	2	Akri Ugidi|Akri-Ogidi
+Akpurtyough	Konshisha	Benue	7.129	8.738	2	
+Akpur	Konshisha	Benue	7.329	8.551	2	
+Akpur	Konshisha	Benue	7.324	8.524	2	
+Akpunabo	Arochukwu	Abia	5.462	7.809	2	
+Akpum	Obi	Nasarawa	8.397	8.861	2	
+Akpugu	Uzo-Uwani	Enugu	6.706	7.281	2	
+Akpugo-Abo	Orumba North	Anambra	6.125	7.227	2	
+Akpugo	Oji-River	Enugu	6.137	7.233	2	
+Akpughul	Konshisha	Benue	7.034	8.845	2	
+Akpu	Orumba South	Anambra	6.030	7.196	2	
+Akptse	Konshisha	Benue	7.186	8.532	2	
+Akpoyghor	Gboko	Benue	7.215	8.743	2	
+Akpoto	Keana	Nasarawa	8.235	8.549	2	
+Akporo Sogho	Khana	Rivers	4.757	7.368	2	
+Akporo	Ogu Bolo	Rivers	4.719	7.211	2	
+Akporku	Etche	Rivers	5.173	7.048	2	
+Akpopo	Igalamela-Odolu	Kogi	7.199	7.142	2	Akpo
+Akpoko	Doma	Nasarawa	7.906	8.122	2	
+Akpochi	Isi-Uzo	Enugu	6.757	7.601	2	Okpochi
+Akpobeleiowei	Southern Ijaw	Bayelsa	4.746	5.885	2	
+Akpo	Gwer West	Benue	7.502	8.185	2	
+Akpo	Kurmi	Taraba	7.089	10.524	2	
+Akpo	Aguata	Anambra	5.963	7.099	2	
+Akperhere	Ughelli South	Delta	5.415	5.790	2	
+Akperhe	Ughelli South	Delta	5.400	5.939	2	
+Akpera Igben	Buruku	Benue	7.630	8.903	2	
+Akpeme	Gwer East	Benue	7.397	8.574	2	
+Akpelu	Dekina	Kogi	7.698	7.100	2	Akpwelu
+Akpele	Ushongo	Benue	7.183	8.930	2	
+Akpela	Takum	Taraba	7.439	10.016	2	
+Akpela	Ushongo	Benue	7.050	8.960	2	
+Akpeghel	Gboko	Benue	7.257	8.706	2	
+Akpeel	Gboko	Benue	7.225	8.689	2	
+Akpa Uton	Ibiono Ibom	Akwa Ibom	5.239	7.922	2	
+Akpatre Efe	Odukpani	Cross River	5.102	8.278	2	
+Akpatre	Obubra	Cross River	5.908	8.281	2	
+Akpata-Ebe	Igalamela-Odolu	Kogi	6.865	7.108	2	Agbatebe|Akpatebe
+Akpata	Lokoja	Kogi	7.873	6.479	2	
+Akpasip	Biase	Cross River	5.450	8.029	2	
+Akpara Ika	Gwer East	Benue	7.473	8.622	2	
+Akparabong	Ikom	Cross River	6.034	8.753	2	
+Akpara	Kabba/Bunu	Kogi	8.059	6.224	2	
+Akpap	Odukpani	Cross River	5.106	8.180	2	
+Akpama	Abua/Odual	Rivers	4.840	6.702	2	
+Akpakume	Udi	Enugu	6.653	7.290	2	
+Akpakpa	Bekwarra	Cross River	6.762	8.941	2	
+Akpaji	Eleme	Rivers	4.822	7.091	2	
+Akpaita	Odukpani	Cross River	5.239	8.107	2	
+Akpab Okon Ene Ita	Akpabuyo	Cross River	4.859	8.515	2	
+Akpa	Ushongo	Benue	7.202	8.966	2	
+Akpa	Igbo-Eze-North	Enugu	6.969	7.534	2	
+Akpa	Yakurr	Cross River	5.705	8.190	2	
+Akpa	Osisioma Ngwa	Abia	5.217	7.383	2	
+Akowide	Aiyedade	Osun	7.429	4.316	2	
+Akov	Konshisha	Benue	7.157	8.519	2	
+Akov	Konshisha	Benue	7.074	8.779	2	
+Akough	Gwer East	Benue	7.399	8.570	2	
+Akosu	Konshisha	Benue	7.015	8.864	2	
+Akoso	Odeda	Ogun	7.362	3.570	2	
+Akorodu	Oluyole	Oyo	7.179	3.817	2	
+Akori	Abaji	FCT Abuja	8.461	6.828	2	
+Akore	Ido	Oyo	7.495	3.696	2	
+Akore	Ado Odo/Ota	Ogun	6.613	3.105	2	
+Akora	Kokona	Nasarawa	8.640	7.952	2	
+Akor	Gboko	Benue	7.416	8.648	2	
+Akor	Gboko	Benue	7.291	8.637	2	
+Akor	Konshisha	Benue	7.093	8.527	2	
+Akor	Konshisha	Benue	7.042	8.547	2	
+Akopo	Igalamela-Odolu	Kogi	7.074	7.101	2	Okopu
+Akoon	Gboko	Benue	7.397	8.741	2	
+Akoon	Konshisha	Benue	7.064	8.640	2	
+Akonto	Kurmi	Taraba	7.023	10.853	2	
+Akonko	Akinyele	Oyo	7.569	3.949	2	
+Akonko	Akinyele	Oyo	7.554	3.894	2	
+Akonko	Kurmi	Taraba	6.977	10.829	2	
+Akongu	Konshisha	Benue	7.153	8.538	2	
+Akondonyou	Markurdi	Benue	7.777	8.580	2	
+Akombu	Ushongo	Benue	7.218	8.981	2	
+Akombo	Guma	Benue	8.032	8.770	2	
+Akoli-Imenyi	Bende	Abia	5.668	7.551	2	Akoli Nta
+Akoli	Aba South	Abia	5.083	7.383	2	Akali
+Akoli	Obi Ngwa	Abia	5.036	7.437	2	
+Akol	Ushongo	Benue	7.034	8.880	2	
+Akoko	Okigwe	Imo	5.833	7.300	2	
+Akoju	Lagelu	Oyo	7.498	4.055	2	
+Akojaga	Ipokia	Ogun	6.702	2.814	2	
+Akogun	Odeda	Ogun	7.210	3.642	2	
+Akogbe	Ogoja	Cross River	6.424	8.710	2	
+Akoforo	Sardauna	Taraba	6.962	10.905	2	
+Akofa	Remo North	Ogun	7.076	3.812	2	
+Akodudu	Ìsẹ́yìn	Oyo	7.767	3.724	2	
+Akodu	Atiba	Oyo	8.063	3.988	2	
+Akodu	Obafemi Owode	Ogun	7.018	3.417	2	
+Akodi	Lafia	Nasarawa	8.459	8.746	2	
+Akobo	Olamaboro	Kogi	7.281	7.501	2	
+Akobal	Yewa North	Ogun	7.032	3.105	2	Akobale
+Ako	Konshisha	Benue	7.064	8.715	2	
+Ako	Akamkpa	Cross River	5.460	8.720	2	Akor
+Akitoye	Odeda	Ogun	7.351	3.651	2	
+Akitiponpo	Ibarapa East	Oyo	7.735	3.550	2	
+Akitan	Alimosho	Lagos	6.651	3.270	2	
+Akirika Obu	Ukwa East	Abia	5.043	7.529	2	
+Akiriboto Elede	Aiyedade	Osun	7.457	4.347	2	
+Akiriboto	Aiyedade	Osun	7.466	4.324	2	
+Akiri	Awe	Nasarawa	8.382	9.331	2	
+Akipelai	Ogbia	Bayelsa	4.630	6.339	2	
+Akiode	Obafemi Owode	Ogun	7.104	3.680	2	
+Akio	Odogbolu	Ogun	6.701	3.736	2	
+Akinyide	Kajola	Oyo	7.929	3.330	2	
+Akinyele	Akinyele	Oyo	7.598	3.916	2	
+Akinyale	Ewekoro	Ogun	6.933	3.083	2	
+Akinya	Ido	Oyo	7.555	3.796	2	
+Akinwunmi	Ìsẹ́yìn	Oyo	7.755	3.546	2	
+Akinwunmi	Ibarapa Central	Oyo	7.361	3.316	2	
+Akinware	Ido	Oyo	7.528	3.716	2	
+Akinwande	Ona Ara	Oyo	7.302	4.123	2	
+Akinwale	Ewekoro	Ogun	7.018	3.232	2	
+Akintunde	Odeda	Ogun	7.334	3.486	2	
+Akintoya	Odeda	Ogun	7.444	3.448	2	
+Akintolu	Aiyedade	Osun	7.205	4.301	2	
+Akintobi	Odeda	Ogun	7.315	3.544	2	
+Akintayo	Egbeda	Oyo	7.389	4.018	2	
+Akintaro	Yewa North	Ogun	7.149	3.036	2	
+Akinsola	Akinyele	Oyo	7.543	3.937	2	
+Akinsawe	Lagelu	Oyo	7.483	4.100	2	
+Akinrinlo	Akinyele	Oyo	7.562	3.876	2	
+Akinola	Afijio	Oyo	7.688	4.007	2	
+Akinola	Akinyele	Oyo	7.627	4.028	2	
+Akinola	Afijio	Oyo	7.698	3.962	2	
+Akinogun	Alimosho	Lagos	6.600	3.283	2	
+Akinnu	Oyo West	Oyo	7.867	3.813	2	
+Akinmorin	Afijio	Oyo	7.790	3.947	2	Akinmarin
+Akinloye	Ife South	Osun	7.226	4.540	2	
+Akinlolu	Odeda	Ogun	7.253	3.718	2	
+Akinliyi	Abeokuta North	Ogun	7.217	3.113	2	
+Akinlalu	Ife North	Osun	7.467	4.418	2	
+Akinlade	Egbedore	Osun	7.814	4.407	2	
+Akinlade	Ona Ara	Oyo	7.267	4.067	2	
+Akinlade	Oluyole	Oyo	7.186	4.000	2	
+Akinkemi	Oluyole	Oyo	7.209	4.009	2	
+Akinia	Igalamela-Odolu	Kogi	7.036	7.315	2	Akynia
+Akingbolu	Odeda	Ogun	7.378	3.468	2	
+Akingbola	Akinyele	Oyo	7.566	3.977	2	
+Akingboju	Irele	Ondo	6.417	4.952	2	
+Akingbile	Odeda	Ogun	7.225	3.753	2	
+Akingbala	Akinyele	Oyo	7.617	3.891	2	
+Akingbala	Abeokuta South	Ogun	7.176	3.385	2	
+Akinfenwa	Ona Ara	Oyo	7.383	3.959	2	
+Akindele	Moro	Kwara	8.841	4.437	2	
+Akindele	Aiyedade	Osun	7.586	4.418	2	
+Akindele	Ido	Oyo	7.569	3.740	2	
+Akindele	Odeda	Ogun	7.199	3.757	2	
+Akinbola	Aiyedade	Osun	7.618	4.360	2	
+Akinbode	Ede South	Osun	7.616	4.383	2	
+Akinbode	Oluyole	Oyo	7.166	3.967	2	
+Akinbo-Ade	Ife North	Osun	7.386	4.462	2	Akinbo Ade
+Akinbo	Obafemi Owode	Ogun	6.989	3.486	2	
+Akinbiyi	Ido	Oyo	7.486	3.740	2	
+Akinajo	Akinyele	Oyo	7.576	4.010	2	
+Akimo	Orolu	Osun	7.903	4.466	2	
+Akilibu	Kachia	Kaduna	9.848	7.428	2	
+Akile	Konshisha	Benue	7.022	8.857	2	
+Akilaiya	Ogbomosho North	Oyo	8.129	4.314	2	
+Akilagun	Odeda	Ogun	7.178	3.446	2	
+Akikya	Konshisha	Benue	7.139	8.675	2	
+Akiki	Markurdi	Benue	7.790	8.518	2	
+Akije	Ogbomosho North	Oyo	8.230	4.268	2	
+Akija	Obafemi Owode	Ogun	7.057	3.519	2	
+Akighil	Ushongo	Benue	7.078	8.963	2	
+Akighil	Konshisha	Benue	7.058	8.835	2	
+Akia	Kurmi	Taraba	7.095	10.842	2	
+Akhuakhuari	Ovia North-East	Edo	6.200	5.483	2	
+Akeye	Odeda	Ogun	7.310	3.346	2	
+Akeyan	Egbedore	Osun	7.864	4.405	2	
+Akeya	Obafemi Owode	Ogun	7.025	3.508	2	
+Akewon	Abeokuta North	Ogun	7.153	3.260	2	
+Akewe	Abeokuta North	Ogun	7.162	3.286	2	
+Akewa	Nasarawa	Nasarawa	8.360	8.004	2	
+Aketi	Donga	Taraba	7.718	10.019	2	
+Akete	Sagbama	Bayelsa	4.925	6.059	2	Akedda|Akede
+Aketa	Afijio	Oyo	7.682	4.042	2	
+Aketa	Konshisha	Benue	7.059	8.680	2	
+Akesegun	Asa	Kwara	8.671	4.288	2	
+Akesa	Gboko	Benue	7.366	8.630	2	
+Akerun Ajibode	Yewa North	Ogun	6.859	2.809	2	Ajibode
+Akerre	Wushishi	Niger	9.652	5.894	2	
+Akerra	Doma	Nasarawa	7.953	8.322	2	
+Akeroro	Ibarapa Central	Oyo	7.486	3.359	2	
+Akeroro	Ewekoro	Ogun	6.900	3.283	2	
+Akerhiev	Konshisha	Benue	7.186	8.603	2	
+Akergba	Gwer East	Benue	7.351	8.239	2	
+Akenyo	Vandeikya	Benue	7.003	8.982	2	
+Akende	Gboko	Benue	7.370	8.710	2	
+Aken	Konshisha	Benue	7.033	8.842	2	
+Akemya	Konshisha	Benue	7.050	8.698	2	
+Akem	Gwer East	Benue	7.430	8.585	2	
+Akem	Konshisha	Benue	7.117	8.762	2	
+Akem	Konshisha	Benue	7.060	8.708	2	
+Akelo	Ibarapa East	Oyo	7.577	3.555	2	
+Akel	Ushongo	Benue	7.244	8.982	2	
+Akel	Konshisha	Benue	7.026	8.804	2	
+Akekonigbe	Obafemi Owode	Ogun	7.094	3.347	2	
+Akeke	Lagelu	Oyo	7.574	4.044	2	Awke
+Ake-Eze	Ivo	Ebonyi	5.917	7.676	2	Aka Eze|Akeze
+Ake	Oluyole	Oyo	7.261	3.767	2	
+Ake	Odeda	Ogun	7.243	3.326	2	
+Ake	Obafemi Owode	Ogun	7.078	3.458	2	
+Akbuyo	Moro	Kwara	8.825	4.513	2	
+Akayuk	Ikom	Cross River	6.023	8.656	2	
+Akawe	Gwer East	Benue	7.417	8.545	2	
+Akawe	Gboko	Benue	7.229	8.685	2	
+Akawe	Kwande	Benue	6.952	9.608	2	
+Akawa	Umu-Nneochi	Abia	5.926	7.288	2	
+Akauer	Guma	Benue	7.790	8.666	2	
+Akau	Magama	Niger	10.600	5.033	2	
+Akau	Jema'A	Kaduna	9.489	8.405	2	
+Akata-Raji	Moro	Kwara	8.852	4.292	2	Akata Raji
+Akataka	Izzi	Ebonyi	6.463	8.348	2	
+Akata	Moro	Kwara	8.767	4.294	2	
+Akata	Ilaje	Ondo	6.375	4.623	2	
+Akasekun	Asa	Kwara	8.417	4.367	2	
+Akase	Ushongo	Benue	7.186	8.971	2	
+Akase	Konshisha	Benue	7.129	8.585	2	
+Akase	Konshisha	Benue	7.082	8.702	2	
+Akarekwu Nsidi	Obi	Nasarawa	8.349	8.580	2	
+Akarekwu Kworo	Obi	Nasarawa	8.339	8.567	2	
+Akarekwu Kunde	Obi	Nasarawa	8.339	8.551	2	
+Akarekwu	Obi	Nasarawa	8.348	8.608	2	
+Akarekwu	Obi	Nasarawa	8.343	8.566	2	
+Akara Kumo	Badagry	Lagos	6.414	2.961	2	Akarakumo
+Akarafon	Abi	Cross River	5.990	8.039	2	Akarafo
+Akaraba	Bekwarra	Cross River	6.780	8.948	2	
+Akara	Ori Ire	Oyo	8.503	4.108	2	
+Akanu-Nchara	Ikwuano	Abia	5.314	7.551	2	
+Akanu	Bende	Abia	5.792	7.684	2	
+Akanu	Ohafia	Abia	5.561	7.848	2	
+Akanu	Obi Ngwa	Abia	5.181	7.506	2	
+Akanu	Ugwunagbo	Abia	5.000	7.367	2	
+Akanto	Edda	Ebonyi	5.934	7.800	2	
+Akanti	Imeko Afon	Ogun	7.452	3.060	2	
+Akansoko	Akpabuyo	Cross River	5.021	8.460	2	
+Akansoka	Biase	Cross River	5.409	8.127	2	
+Akano	Atiba	Oyo	8.113	3.776	2	
+Akanni-Epo	Afijio	Oyo	7.822	3.791	2	Akanni Epo|AkanniEpo
+Akankpa	Odukpani	Cross River	5.126	8.190	2	
+Akankan-Mokan	Ede South	Osun	7.655	4.428	2	Akankan Mokan|AkankanMokan
+Akanjor	Konshisha	Benue	7.261	8.513	2	
+Akani-Obio	Ibiono Ibom	Akwa Ibom	5.344	7.873	2	
+Akon	Abua/Odual	Rivers	4.766	6.497	2	Akani
+Akange	Konshisha	Benue	7.017	8.771	2	
+Akangba	Surulere	Lagos	6.500	3.350	2	
+Akanga	Obi	Nasarawa	8.294	8.562	2	
+Akande	Ido	Oyo	7.534	3.717	2	
+Akande	Ife North	Osun	7.315	4.401	2	
+Akan	Itesiwaju	Oyo	8.221	3.715	2	
+Akamo	Ilorin West	Kwara	8.503	4.496	2	
+Akamo	Egbeda	Oyo	7.341	4.059	2	
+Akamo	Oluyole	Oyo	7.335	3.930	2	
+Akama-Oghe	Ezeagu	Enugu	6.442	7.318	2	Akama-Oye
+Akam	Gboko	Benue	7.318	8.642	2	
+Akam	Ikom	Cross River	5.950	8.617	2	
+Akalovo	Owerri North	Imo	5.473	7.119	2	
+Akala	Abeokuta North	Ogun	7.344	3.134	2	
+Akakumama	Nembe	Bayelsa	4.622	6.280	2	
+Akaka	Remo North	Ogun	6.963	3.722	2	
+Akaje	Ede South	Osun	7.607	4.388	2	
+Akai Uso	Okobo	Akwa Ibom	4.760	8.077	2	
+Aka-Ikot Udo-Eno	Ibiono Ibom	Akwa Ibom	5.284	7.836	2	
+Akai Awu	Urue Offong/Oruko	Akwa Ibom	4.712	8.201	2	
+Akai Ate	Urue Offong/Oruko	Akwa Ibom	4.719	8.196	2	
+Akai	Nsit Ubium	Akwa Ibom	4.703	8.007	2	
+Akahufu-Akpanundele	Ikwo	Ebonyi	6.090	8.230	2	Akahufu|Akpanundele
+Uhiele	Esan West	Edo	6.708	6.150	2	Akahia|Akhia
+Akahana	Guma	Benue	8.001	9.043	2	
+Akahan	Gboko	Benue	7.366	8.667	2	
+Akahan	Konshisha	Benue	7.283	8.591	2	
+Aka Ekpeme	Ikono	Akwa Ibom	5.173	7.792	2	Aka Ekpene
+Aka Ekpeme	Ikono	Akwa Ibom	5.131	7.829	2	
+Okuokpokpo	Okpe	Delta	5.664	5.814	2	Akadimon
+Akabuka	Ogba/Egbema/Ndoni	Rivers	5.225	6.642	2	
+Akabu	Kurmi	Taraba	7.003	10.848	2	
+Akabo	Kogi	Kogi	8.225	6.782	2	
+Akabo	Ikeduru	Imo	5.550	7.082	2	
+Akabo	Ahiazu-Mbaise	Imo	5.531	7.237	2	
+Akabo	Calabar Municipal	Cross River	5.070	8.393	2	
+Akabeleu	Brass	Bayelsa	4.327	6.397	2	Akabaleu
+Akabam	Konshisha	Benue	7.046	8.539	2	
+Akaba	Yenegoa	Bayelsa	4.907	6.263	2	
+Akaazar	Konshisha	Benue	7.259	8.508	2	
+Akaatio	Konshisha	Benue	7.157	8.629	2	
+Akaangel	Gboko	Benue	7.256	8.694	2	
+Akaan	Ushongo	Benue	7.039	8.952	2	
+Akaahan Usadoo Toren	Vandeikya	Benue	7.014	8.922	2	
+Akaa	Guma	Benue	7.981	8.784	2	
+Akaa	Gwer East	Benue	7.381	8.151	2	
+Akaa	Gboko	Benue	7.274	8.735	2	
+Akaa	Konshisha	Benue	7.161	8.623	2	
+Akaa	Ushongo	Benue	7.109	8.972	2	
+Akaa	Konshisha	Benue	7.074	8.594	2	
+Akaa	Abeokuta North	Ogun	7.090	3.251	2	
+Aka	Kala-Balge	Borno	11.594	14.396	2	
+Aka	Ankpa	Kogi	7.394	7.542	2	Aku
+Aka	Uyo	Akwa Ibom	5.009	7.919	2	
+Agwu Agwuna	Biase	Cross River	5.686	7.995	2	Akunakuna
+Agu-Akpu	Abakaliki	Ebonyi	6.258	8.075	2	
+Ago Akuruaje	Irele	Ondo	6.465	4.915	2	Ago Ruwase|Ago-Akuruaje
+Ago Akinnugba	Ese Odo	Ondo	6.357	4.890	2	Ago-Akinnugba
+Ago-Akingboye	Irele	Ondo	6.481	5.002	2	
+Ago-Akinde	Ovia South-West	Edo	6.493	5.213	2	
+Agen-Ako	Gboko	Benue	7.242	8.641	2	
+Agba-Akin	Atiba	Oyo	8.033	3.967	2	Agba Akin
+Akinyele	Alimosho	Lagos	6.607	3.264	2	
+Akinde	Ifako/Ijaye	Lagos	6.684	3.278	2	
+Bale-Akiosi	Ifo	Ogun	6.681	3.353	2	
+Akinpelu	Afijio	Oyo	7.728	3.818	2	
+Akande	Afijio	Oyo	7.714	3.964	2	
+Akiode	Afijio	Oyo	7.709	3.874	2	
+Akinde	Afijio	Oyo	7.662	3.788	2	
+Akikan	Afijio	Oyo	7.663	3.881	2	
+Akande	Akinyele	Oyo	7.561	3.806	2	
+Akowo	Ido	Oyo	7.525	3.820	2	
+Akinlade	Ido	Oyo	7.515	3.775	2	
+Akuro	Akinyele	Oyo	7.566	3.897	2	
+Akinlegbe	Akinyele	Oyo	7.538	3.955	2	
+Akingbile	Akinyele	Oyo	7.514	3.955	2	
+Akere	Ido	Oyo	7.479	3.833	2	
+Akoto	Oluyole	Oyo	7.343	3.763	2	
+Akunlepon	Oluyole	Oyo	7.337	3.834	2	
+Akintunde	Ona Ara	Oyo	7.351	3.988	2	
+Akinode	Oluyole	Oyo	7.268	3.838	2	
+Akinsipe	Oluyole	Oyo	7.265	3.847	2	
+Akilapa	Oluyole	Oyo	7.265	3.819	2	
+Umu-Akpa	Ohaji/Egbema	Imo	5.228	6.903	2	
+Presokiri	Akuku Toru	Rivers	4.380	6.811	2	Akpakiri|Presakiri
+Aka Dabanga	Kala-Balge	Borno	11.590	14.445	2	
+Akietekiri	Akuku Toru	Rivers	4.332	6.554	2	
+Akpainkiri	Akuku Toru	Rivers	4.395	6.749	2	
+Akainsinyeboko	Degema	Rivers	4.437	6.949	2	
+Akokogiri	Akuku Toru	Rivers	4.741	6.667	2	
+Akinde	Ifo	Ogun	6.830	3.088	2	
+Oke-Ako	Ìjẹ̀bú Òde	Ogun	6.748	3.981	2	
+Akata	Ìjẹ̀bú Òde	Ogun	6.713	4.038	2	
+Akere	Akure North	Ondo	7.109	5.463	2	
+Akeye	Emure	Ekiti	7.352	5.500	2	
+Akoti	Ise/Orun	Ekiti	7.355	5.421	2	
+Akunnu	Akoko North East	Ondo	7.626	5.940	2	
+Ake	Owan East	Edo	7.165	6.016	2	
+Akweje	Oturkpo	Benue	7.041	8.087	2	
+Upper-Akpineje	Okpokwu	Benue	7.047	8.010	2	
+Akpuneje	Okpokwu	Benue	7.083	8.002	2	
+Akpagher	Gwer East	Benue	7.153	8.274	2	
+Akpegher	Gwer East	Benue	7.196	8.315	2	
+Akpachi	Oturkpo	Benue	7.241	8.150	2	
+Akpenembel	Gboko	Benue	7.254	8.759	2	
+Aku	Gwer East	Benue	7.255	8.418	2	
+Aknum	Konshisha	Benue	7.258	8.497	2	
+Akosu	Gwer East	Benue	7.268	8.380	2	
+Akesa	Gwer East	Benue	7.308	8.310	2	
+Akurengba	Gwer East	Benue	7.328	8.465	2	
+Akase	Gwer East	Benue	7.343	8.424	2	
+Ando-Akaa	Gwer East	Benue	7.374	8.497	2	
+Akper	Gboko	Benue	7.412	8.813	2	
+Akaa	Gboko	Benue	7.420	8.901	2	
+Akuraigb	Gwer East	Benue	7.458	8.439	2	
+Akpila	Gboko	Benue	7.485	8.836	2	
+Akure	Gwer East	Benue	7.594	8.374	2	
+Akule	Gwer West	Benue	7.595	8.261	2	
+Aku	Gwer West	Benue	7.614	8.258	2	
+Akwe	Oturkpo	Benue	7.629	8.062	2	
+Akumu	Gwer West	Benue	7.633	8.226	2	
+Akutsa	Gwer West	Benue	7.635	8.139	2	
+Akor	Gwer West	Benue	7.660	8.299	2	
+Akaa	Gwer West	Benue	7.710	8.264	2	Abie
+Akil	Markurdi	Benue	7.715	8.488	2	
+Akaa	Gwer West	Benue	7.799	8.202	2	
+Akponaja	Markurdi	Benue	7.799	8.416	2	
+Akume	Gwer West	Benue	7.807	8.129	2	
+Akpu	Guma	Benue	7.807	8.657	2	
+Akpa	Doma	Nasarawa	7.854	8.403	2	
+Akwike	Doma	Nasarawa	7.860	8.397	2	
+Akwu	Agatu	Benue	7.869	8.062	2	
+Akajima	Guma	Benue	7.868	8.409	2	
+Akpetiche	Doma	Nasarawa	7.923	8.314	2	
+Akai Ikot Orok	Odukpani	Cross River	5.006	8.283	2	
+Akpatre Efe	Odukpani	Cross River	5.039	8.134	2	
+Obot Akpang	Odukpani	Cross River	5.095	8.194	2	
+Akim Akim	Odukpani	Cross River	5.129	8.312	2	
+Ikot Aka-Iko	Itu	Akwa Ibom	5.148	8.033	2	
+Akimakim	Odukpani	Cross River	5.164	8.158	2	
+Akwa-Ekim	Odukpani	Cross River	5.200	8.154	2	
+Akankpa	Biase	Cross River	5.409	8.080	2	
+Akunakuna	Biase	Cross River	5.655	8.029	2	
+Akai Udo	Mbo	Akwa Ibom	4.688	8.256	2	
+Akwa Obio	Akpabuyo	Cross River	4.928	8.487	2	
+Akpa Utong	Esit Eket	Akwa Ibom	4.659	8.076	2	
+Akindibuwa	Ilaje	Ondo	6.236	4.778	2	
+Akuzo	Gusau	Zamfara	12.134	7.053	2	
+Ungwan Akara	Agwara	Niger	10.859	4.350	2	
+Akuodo	Ethiope West	Delta	5.945	5.750	2	
+Akuekpara	Sapele	Delta	5.759	5.741	2	
+Akparemogbene	Ughelli South	Delta	5.260	5.738	2	
+Akpabigbene	Burutu	Delta	5.151	5.539	2	
+Akaragbene	Southern Ijaw	Bayelsa	4.440	5.984	2	
+Akpan Camp	Ekeremor	Bayelsa	4.992	5.663	2	Akpan
+Akosi Camp	Ekeremor	Bayelsa	4.963	5.653	2	Akosi
+Akanu	Ukwa East	Abia	4.951	7.366	2	
+Akannu	Ukwa East	Abia	4.955	7.482	2	
+Akpala	Etim Ekpo	Akwa Ibom	4.873	7.489	2	
+Bar Akani Sogho	Khana	Rivers	4.751	7.364	2	
+Akusu	Bonny	Rivers	4.456	7.312	2	
+Ikot Abasi Akpan	Oruk Anam	Akwa Ibom	4.844	7.754	2	
+Ikot Akpaden	Mkpat Enin	Akwa Ibom	4.627	7.773	2	
+Ikot Aka Nkop	Ikot Abasi	Akwa Ibom	4.611	7.717	2	
+Akpa Utong	Ibesikpo Asutan	Akwa Ibom	4.861	7.951	2	
+Ikot Akam	Oruk Anam	Akwa Ibom	4.804	7.732	2	
+Ikot Akpan Atebom	Etinan	Akwa Ibom	4.730	7.841	2	
+Ikot Akpan Nkpe	Onna	Akwa Ibom	4.702	7.815	2	
+Ikot Akpan Ukam	Mkpat Enin	Akwa Ibom	4.653	7.767	2	
+Akalawa	Rimin Gado	Kano	11.970	8.227	2	
+Ikot Akpan	Abak	Akwa Ibom	5.073	7.763	2	
+Aku	Aguata	Anambra	5.989	7.063	2	
+Ake-Eze Ukwu	Ivo	Ebonyi	5.917	7.704	2	
+Ndia-Akeme	Ideato North	Imo	5.874	7.180	2	
+Owerri Akokwa	Ideato North	Imo	5.905	7.148	2	
+Agba Akoli	Bende	Abia	5.735	7.594	2	
+Umuebo-Akabo	Ahiazu-Mbaise	Imo	5.594	7.280	2	
+Akpabio	Odukpani	Cross River	5.341	7.964	2	
+Ibong Ikot Akan	Ikot Ekpene	Akwa Ibom	5.186	7.677	2	
+Nde-Akarani	Arochukwu	Abia	5.458	7.894	2	
+Akpayak	Ini	Akwa Ibom	5.442	7.764	2	
+Ndijom	Odukpani	Cross River	5.410	7.994	2	Akaha Epu
+Akpayak	Ini	Akwa Ibom	5.338	7.780	2	
+Ikot-Akpan	Obot Akara	Akwa Ibom	5.250	7.624	2	
+Akpaidem	Ikono	Akwa Ibom	5.271	7.740	2	
+Ikot Akpa-Isiak	Ikono	Akwa Ibom	5.265	7.792	2	
+Ikot Obio Akpan	Ibiono Ibom	Akwa Ibom	5.218	7.882	2	
+Ikot Akpa Ayara	Ikono	Akwa Ibom	5.194	7.764	2	
+Ikot Akpanya	Ibiono Ibom	Akwa Ibom	5.161	7.935	2	
+Ikot Akpa Edet	Ikono	Akwa Ibom	5.178	7.793	2	
+Ikot Akpan Idem	Ikono	Akwa Ibom	5.175	7.776	2	
+Ikot Akpa Ekpuk	Ikono	Akwa Ibom	5.164	7.761	2	
+Ikot Akpa Edok	Ikono	Akwa Ibom	5.169	7.760	2	
+Ikot Akpa-Iyara	Ikono	Akwa Ibom	5.182	7.749	2	
+Ikot Akpan Abia	Ikot Ekpene	Akwa Ibom	5.171	7.670	2	
+Ikot Akpan	Essien Udim	Akwa Ibom	5.161	7.644	2	
+Akanu Okpulo	Obi Ngwa	Abia	5.173	7.511	2	
+Ikot Akpan	Essien Udim	Akwa Ibom	5.128	7.788	2	
+Ikot Akpan	Ibiono Ibom	Akwa Ibom	5.148	7.925	2	
+Ikot Aka	Ibiono Ibom	Akwa Ibom	5.120	7.918	2	
+Ikot Uso Akpan	Itu	Akwa Ibom	5.132	7.946	2	
+Aka	Itu	Akwa Ibom	5.109	7.923	2	
+Ukana Ikot Akpan	Essien Udim	Akwa Ibom	5.088	7.737	2	
+Ikot Akpan Ofiong	Ika	Akwa Ibom	5.054	7.540	2	
+Aka Ofot	Uyo	Akwa Ibom	5.023	7.925	2	
+Ikot Akpan	Uyo	Akwa Ibom	5.046	7.918	2	
+Aka Elu-Lodu	Bende	Abia	5.634	7.538	2	
+Akalo	Ibaji	Kogi	6.555	6.720	2	
+Akoko	Ukwuani	Delta	5.841	6.296	2	
+Akiewe	Isoko North	Delta	5.517	6.165	2	
+Akpaka	Ihiala	Anambra	5.871	6.811	2	
+Akaba	Ihiala	Anambra	5.799	6.882	2	
+Akata	Oru East	Imo	5.788	6.955	2	
+Akata	Oguta	Imo	5.638	6.772	2	
+Obodo-Ichekere-Aku	Ndokwa East	Delta	5.524	6.525	2	
+Akili-Ozizor	Ogbaru	Anambra	5.988	6.734	2	
+Akpaekwe Camp	Ndokwa East	Delta	5.846	6.529	2	
+Akunor Camp	Ndokwa East	Delta	5.840	6.529	2	
+Akpuwunu	Ndokwa East	Delta	5.854	6.585	2	
+Akiri	Ogbaru	Anambra	5.859	6.676	2	
+Akpo-Ogwu	Ogbaru	Anambra	5.837	6.719	2	
+Akpununu	Ndokwa East	Delta	5.801	6.526	2	
+Akashakpu	Ndokwa East	Delta	5.769	6.601	2	
+Akposo Camp	Ndokwa East	Delta	5.735	6.610	2	
+Akasia Akpo Camp	Ndokwa East	Delta	5.728	6.607	2	
+Akiri-Ogidi	Ogbaru	Anambra	5.770	6.661	2	
+Akpobo	Ndokwa East	Delta	5.706	6.596	2	
+Akarai-Obodo	Ndokwa East	Delta	5.539	6.522	2	
+Akpedegbene	Ughelli North	Delta	5.226	6.151	2	
+Akekegbene	Sagbama	Bayelsa	5.216	6.244	2	
+Akpogbene	Patani	Delta	5.204	6.118	2	
+Akpagbene	Patani	Delta	5.181	6.137	2	
+Akinima	Ahoada West	Rivers	5.076	6.463	2	
+Agire Akoko-Gbene	Sagbama	Bayelsa	5.044	6.034	2	
+Akiogbologbo	Ahoada West	Rivers	5.010	6.429	2	
+Akpabo I	Ahoada East	Rivers	5.155	6.709	2	Okpabo
+Akpabo II	Ahoada East	Rivers	5.150	6.703	2	
+Akisimie I	Ika South	Delta	6.300	6.162	2	
+Akuku Toru	Akuku Toru	Rivers	4.562	6.752	2	
+Obio/Akpor	Obio/Akpor	Rivers	4.832	6.989	2	
+Akwanga	Akwanga	Nasarawa	8.994	8.327	2	Acuanga|Agbegbe Ijoba Ibile Akwanga|akwanga|akwanqa
+Akwu quaters	Aniocha South	Delta	6.238	6.451	2	
+Akure South	Akure South	Ondo	7.205	5.188	2	Agbegbe Ijoba Ibile Guusu Akure|Akure South Local Government Area|Akure Sud|Akure ta Kudu|Lam Akure|jnwb akwr
+Akoko North East	Akoko North East	Ondo	7.527	5.810	2	Akoko North-East|Akoko North-East Local Government Area
+Akoko North West	Akoko North West	Ondo	7.641	5.794	2	Akoko North-West|Akoko North-West Local Government Area
+Akamkpa	Akamkpa	Cross River	5.427	8.519	2	Agbegbe Ijoba Ibile Akamkpa|Akamkpa Local Government Area|akamkpa
+Akko	Akko	Gombe	10.100	11.048	2	Akko Local Government Area
+Akali	Mafa	Borno	11.999	13.686	2	
+Akwu-Achi	Oji-River	Enugu	6.193	7.304	2	
+Ugene-Akibite	Uzo-Uwani	Enugu	6.813	7.257	2	
+Akpa-Edem	Nsukka	Enugu	6.881	7.324	2	
+Akpong	Yala	Cross River	6.490	8.523	2	
+Akpahata	Ogoja	Cross River	6.487	8.630	2	
+Akueen	Gwer East	Benue	7.410	8.496	2	
+Akahan	Gwer East	Benue	7.404	8.283	2	
+Akpehe	Gwer East	Benue	7.319	8.351	2	
+Akwer	Gwer East	Benue	7.275	8.461	2	
+Akusu	Gwer East	Benue	7.267	8.451	2	
+Akuhe	Gwer East	Benue	7.293	8.434	2	
+Akuu	Gwer East	Benue	7.270	8.413	2	
+Akoko	Gwer East	Benue	7.256	8.366	2	
+Akna	Konshisha	Benue	7.082	8.495	2	
+Akalaku	Izzi	Ebonyi	6.744	8.235	2	
+Akangu	Oturkpo	Benue	7.110	8.182	2	
+Lower Akpineje	Okpokwu	Benue	7.042	8.023	2	
+Akparata	Izzi	Ebonyi	6.355	8.316	2	
+Akpe	Abakaliki	Ebonyi	6.276	8.311	2	
+Akpe	Abakaliki	Ebonyi	6.296	8.342	2	
+Umueze-Akwa	Ezza South	Ebonyi	6.190	8.009	2	
+Umu-Aka	Ezza South	Ebonyi	6.076	8.066	2	
+Anu-Akpanundele	Ikwo	Ebonyi	6.091	8.174	2	
+Akpanwudele	Ikwo	Ebonyi	6.081	8.101	2	
+Akunakuna	Ikwo	Ebonyi	6.017	8.139	2	
+Akwura	Bassa	Kogi	7.886	7.068	2	
+Akuyam	Misau	Bauchi	11.492	10.612	2	
+Akpael	Gwer West	Benue	7.614	8.217	2	
+Akuji	Gwer West	Benue	7.608	8.106	2	
+Tse-Akaza	Markurdi	Benue	7.645	8.483	2	
+Akwaga	Gwer West	Benue	7.619	8.305	2	
+Akuhe	Gwer East	Benue	7.620	8.343	2	
+Akume	Gwer West	Benue	7.611	8.311	2	
+Tse-Akegba	Gwer West	Benue	7.604	8.313	2	
+Akpena	Gwer East	Benue	7.582	8.367	2	
+Akabee Camp	Gwer East	Benue	7.566	8.470	2	
+Tse-Akombo	Gwer East	Benue	7.562	8.367	2	
+Akoom	Logo	Benue	7.837	9.106	2	
+Akaabo	Logo	Benue	7.829	9.123	2	
+Akombo	Logo	Benue	7.787	9.244	2	
+Akpetyo	Wukari	Taraba	7.994	9.394	2	
+Akume	Wukari	Taraba	7.930	9.427	2	
+Aka	Ukum	Benue	7.798	9.428	2	
+Akpelan	Ukum	Benue	7.752	9.430	2	
+Akulega	Logo	Benue	7.681	9.047	2	
+Akaabo	Guma	Benue	7.594	9.019	2	
+Akile	Buruku	Benue	7.508	9.034	2	
+Akatu	Logo	Benue	7.686	9.163	2	
+Akpande	Logo	Benue	7.648	9.106	2	
+Akabo	Logo	Benue	7.581	9.146	2	
+Akigber	Buruku	Benue	7.507	9.146	2	
+Akpaguer	Logo	Benue	7.658	9.200	2	
+Akinde	Logo	Benue	7.613	9.261	2	
+Akushi	Logo	Benue	7.726	9.283	2	
+Akayar	Logo	Benue	7.609	9.278	2	
+Akhean	Logo	Benue	7.591	9.312	2	
+Akaahar	Ukum	Benue	7.736	9.371	2	
+Akaa	Logo	Benue	7.611	9.375	2	
+Akovur	Logo	Benue	7.532	9.392	2	
+Akaayar	Ukum	Benue	7.690	9.456	2	
+Akombo	Ukum	Benue	7.638	9.498	2	
+Akahaga	Ukum	Benue	7.572	9.473	2	
+Akereke	Ukum	Benue	7.573	9.461	2	
+Akombo	Katsina-Ala	Benue	7.550	9.464	2	
+Akwe	Wukari	Taraba	7.931	9.357	2	
+Akulei	Wukari	Taraba	7.826	9.637	2	
+Akpera	Ukum	Benue	7.760	9.586	2	
+Akuvi	Wukari	Taraba	7.968	9.952	2	
+Akabo	Wukari	Taraba	7.885	9.942	2	
+Tse Akanga	Ukum	Benue	7.736	9.513	2	
+Akau	Ukum	Benue	7.588	9.533	2	
+Akpam	Ukum	Benue	7.581	9.526	2	
+Akpa	Ukum	Benue	7.691	9.582	2	
+Akpindi	Ukum	Benue	7.690	9.640	2	
+Akpene	Ukum	Benue	7.667	9.631	2	
+Akaa	Ukum	Benue	7.585	9.561	2	
+Akumnor	Ukum	Benue	7.567	9.551	2	
+Tse Akosu	Ukum	Benue	7.669	9.717	2	
+Akachil	Ukum	Benue	7.618	9.719	2	
+Akaa	Ukum	Benue	7.606	9.708	2	
+Akesa	Ukum	Benue	7.578	9.661	2	
+Akough	Ukum	Benue	7.549	9.711	2	
+Akaaza	Ukum	Benue	7.524	9.657	2	
+Akayar	Katsina-Ala	Benue	7.558	9.792	2	
+Akerchigh	Katsina-Ala	Benue	7.553	9.766	2	
+Akerchia	Wukari	Taraba	7.710	9.801	2	
+Akoso	Takum	Taraba	7.577	9.866	2	
+Akertyo	Takum	Taraba	7.568	9.902	2	
+Akera	Buruku	Benue	7.496	9.029	2	
+Akiir	Buruku	Benue	7.489	9.032	2	
+Akpen	Gboko	Benue	7.431	9.001	2	
+Akeme	Gboko	Benue	7.405	9.058	2	
+Akpuko	Gboko	Benue	7.388	9.010	2	
+Akombo	Gboko	Benue	7.371	9.066	2	
+Akume	Gboko	Benue	7.356	9.073	2	
+Akaaza	Gboko	Benue	7.343	9.082	2	
+Akpoughol	Gboko	Benue	7.361	9.012	2	
+Akura	Buruku	Benue	7.454	9.158	2	
+Akume	Buruku	Benue	7.446	9.151	2	
+Akpolo	Buruku	Benue	7.449	9.176	2	
+Akaa	Buruku	Benue	7.426	9.145	2	
+Akighir	Gboko	Benue	7.408	9.110	2	
+Akaa	Gboko	Benue	7.385	9.106	2	
+Akoho	Buruku	Benue	7.380	9.131	2	Tseyongu
+Akudzwa	Buruku	Benue	7.379	9.152	2	
+Akoazua	Buruku	Benue	7.308	9.180	2	
+Akpu	Gboko	Benue	7.310	9.134	2	
+Akaanam	Buruku	Benue	7.255	9.183	2	
+Akpenmo	Buruku	Benue	7.478	9.248	2	
+Akuraga	Buruku	Benue	7.438	9.227	2	
+Ako	Buruku	Benue	7.371	9.245	2	
+Akuku	Buruku	Benue	7.353	9.211	2	
+Ako	Buruku	Benue	7.322	9.227	2	
+Akura	Buruku	Benue	7.317	9.217	2	
+Akighir	Buruku	Benue	7.315	9.226	2	
+Akava	Buruku	Benue	7.279	9.237	2	
+Akaa	Buruku	Benue	7.259	9.230	2	
+Ako	Buruku	Benue	7.362	9.250	2	
+Akpe	Buruku	Benue	7.446	9.299	2	
+Akaanya	Buruku	Benue	7.398	9.301	2	
+Akunkwa	Katsina-Ala	Benue	7.380	9.345	2	
+Akpa	Katsina-Ala	Benue	7.335	9.293	2	
+Akurga	Katsina-Ala	Benue	7.475	9.453	2	
+Akombo	Katsina-Ala	Benue	7.457	9.424	2	
+Akpenga	Katsina-Ala	Benue	7.403	9.376	2	
+Akii	Katsina-Ala	Benue	7.357	9.450	2	
+Akahaan	Katsina-Ala	Benue	7.292	9.377	2	Akaahan
+Akahan	Katsina-Ala	Benue	7.433	9.497	2	
+Akuv	Katsina-Ala	Benue	7.348	9.480	2	
+Akegh	Ushongo	Benue	7.180	9.018	2	
+Akor	Buruku	Benue	7.179	9.051	2	
+Akaa	Buruku	Benue	7.176	9.079	2	
+Akelan	Ushongo	Benue	7.148	9.055	2	
+Akaasar	Ushongo	Benue	7.143	9.050	2	
+Akosu	Ushongo	Benue	7.088	9.033	2	
+Akpera	Ushongo	Benue	7.086	9.017	2	
+Akpagher	Ushongo	Benue	7.083	9.008	2	
+Akumeku	Ushongo	Benue	7.098	9.059	2	
+Akighir	Ushongo	Benue	7.080	9.090	2	
+Akosu	Ushongo	Benue	7.081	9.079	2	
+Akura	Ushongo	Benue	7.074	9.078	2	
+Akpensongon	Vandeikya	Benue	7.004	9.089	2	
+Akaa	Buruku	Benue	7.213	9.125	2	
+Akume	Buruku	Benue	7.202	9.170	2	
+Akor	Buruku	Benue	7.194	9.152	2	
+Akusu	Buruku	Benue	7.176	9.096	2	
+Akaajime	Buruku	Benue	7.182	9.111	2	
+Akumbur	Buruku	Benue	7.166	9.117	2	
+Akpereshi	Buruku	Benue	7.136	9.107	2	
+Akortsaha	Buruku	Benue	7.120	9.104	2	
+Akusa	Ushongo	Benue	7.016	9.175	2	
+Akaakase	Buruku	Benue	7.235	9.199	2	
+Akaahan	Buruku	Benue	7.231	9.209	2	
+Akaater	Buruku	Benue	7.183	9.200	2	
+Akor	Ushongo	Benue	7.054	9.217	2	
+Akai	Ushongo	Benue	7.094	9.256	2	
+Akange	Ushongo	Benue	7.015	9.253	2	
+Akua	Katsina-Ala	Benue	7.209	9.303	2	
+Aka	Ushongo	Benue	7.159	9.323	2	
+Ako	Katsina-Ala	Benue	7.161	9.328	2	
+Akegh	Katsina-Ala	Benue	7.161	9.331	2	
+Akpe	Katsina-Ala	Benue	7.160	9.346	2	
+Akaayar	Ushongo	Benue	7.070	9.287	2	
+Akpa	Ushongo	Benue	7.054	9.355	2	
+Akumbul	Kwande	Benue	7.030	9.374	2	
+Akile	Kwande	Benue	7.004	9.365	2	
+Akoo	Katsina-Ala	Benue	7.215	9.383	2	
+Akaaza	Katsina-Ala	Benue	7.167	9.427	2	
+Akuve	Ushongo	Benue	7.110	9.381	2	
+Ako	Ushongo	Benue	7.099	9.397	2	
+Akpa	Katsina-Ala	Benue	7.138	9.432	2	
+Akerigba	Kwande	Benue	7.016	9.372	2	
+Akpen	Kwande	Benue	7.018	9.427	2	
+Aka	Katsina-Ala	Benue	7.169	9.486	2	
+Akaakondo	Katsina-Ala	Benue	7.157	9.465	2	
+Akaha	Katsina-Ala	Benue	7.154	9.483	2	
+Akume	Katsina-Ala	Benue	7.135	9.488	2	
+Akel	Gboko	Benue	7.463	8.758	2	
+Akaahar	Gboko	Benue	7.458	8.754	2	
+Tse-Akiishi	Gboko	Benue	7.473	8.892	2	
+Akpoghul	Gboko	Benue	7.471	8.943	2	
+Akpehe	Gboko	Benue	7.430	8.903	2	
+Akuva	Gboko	Benue	7.420	8.906	2	
+Akela	Gboko	Benue	7.419	8.901	2	
+Akume	Gboko	Benue	7.429	8.869	2	
+Ake	Gboko	Benue	7.449	8.890	2	
+Akaha	Gboko	Benue	7.428	8.807	2	
+Akwe	Gboko	Benue	7.412	8.802	2	
+Ake	Gboko	Benue	7.379	8.814	2	
+Tse-Akunka	Gboko	Benue	7.405	8.838	2	
+Akaayaa	Gboko	Benue	7.421	8.864	2	
+Akil	Gboko	Benue	7.394	8.874	2	
+Akende	Gboko	Benue	7.375	8.857	2	
+Akpoghol	Gboko	Benue	7.393	8.920	2	
+Akase	Gboko	Benue	7.412	8.916	2	
+Akula	Gboko	Benue	7.382	8.985	2	
+Akaa	Gboko	Benue	7.358	8.981	2	
+Akula	Gboko	Benue	7.348	8.974	2	
+Akange	Gboko	Benue	7.352	8.997	2	
+Akuna	Gboko	Benue	7.364	8.973	2	
+Akaakase	Gboko	Benue	7.360	8.948	2	
+Akpel	Gboko	Benue	7.366	8.951	2	
+Akpausela	Gboko	Benue	7.374	8.922	2	
+Akula	Gboko	Benue	7.366	8.847	2	
+Akpaghel	Gboko	Benue	7.374	8.780	2	
+Akough	Gboko	Benue	7.373	8.771	2	
+Akela	Gboko	Benue	7.355	8.776	2	
+Tse-Akugh	Gboko	Benue	7.310	8.865	2	
+Akeme	Gboko	Benue	7.333	8.870	2	
+Akume	Gboko	Benue	7.335	8.880	2	
+Akighil	Gboko	Benue	7.304	8.899	2	
+Akii	Gboko	Benue	7.308	8.905	2	
+Akpel	Gboko	Benue	7.308	8.917	2	
+Akure	Gboko	Benue	7.316	8.943	2	
+Akpela	Gboko	Benue	7.330	8.954	2	
+Akure	Gboko	Benue	7.315	8.956	2	
+Akusha	Gboko	Benue	7.310	8.965	2	
+Akan	Gboko	Benue	7.309	8.969	2	
+Akelavaan	Gboko	Benue	7.307	8.979	2	
+Akoval	Gboko	Benue	7.266	8.981	2	
+Akombo	Gboko	Benue	7.289	8.911	2	
+Akor	Gboko	Benue	7.260	8.862	2	
+Akpom	Gboko	Benue	7.263	8.862	2	
+Akpeteku	Gboko	Benue	7.266	8.869	2	
+Akombu	Gboko	Benue	7.279	8.843	2	
+Akumbul	Gboko	Benue	7.288	8.824	2	
+Akel	Gboko	Benue	7.276	8.755	2	
+Akighil	Ushongo	Benue	7.256	8.914	2	
+Akaw	Shiroro	Niger	9.795	6.695	2	Gidan Akawa
+Gidan Akayi	Munya	Niger	9.729	6.877	2	
+Akwukwu	Ekwusigo	Anambra	6.039	6.810	2	
+Akoro	Badagry	Lagos	6.395	2.821	2	
+Eko Akete	Amuwo Odofin	Lagos	6.480	3.308	2	
+Akinhanmi Cole	Mushin	Lagos	6.515	3.362	2	
+Ishaga Ire-Akari	Oshodi/Isolo	Lagos	6.524	3.320	2	
+Akinbaiye	Oshodi/Isolo	Lagos	6.533	3.322	2	
+Mosan Akinogun	Alimosho	Lagos	6.612	3.282	2	
+Akiode	Ikeja	Lagos	6.634	3.360	2	
+Akoka Anu-Oluwapo	Shomolu	Lagos	6.529	3.390	2	
+Eko-Akhaluavbalu	Esan Central	Edo	6.816	6.312	2	
+Akop	Karu	Nasarawa	9.140	7.998	2	
+Akho-Irrua	Esan Central	Edo	6.747	6.226	2	
+Akama	Kachia	Kaduna	9.746	7.724	2	
+Garin Akuruki	Ardo-Kola	Taraba	8.824	10.891	2	
+Akit	Gassol	Taraba	8.731	10.839	2	
+Akonon	Sanga	Kaduna	9.269	8.487	2	
+Gankoi Aka	Bali	Taraba	7.573	10.393	2	
+Baba-Akim	Ekeremor	Bayelsa	4.847	5.483	2	
+Akku	Bokkos	Plateau	9.275	8.718	2	
+Akiri	Shendam	Plateau	8.510	9.364	2	
+Akpan Camp	Ekeremor	Bayelsa	4.965	5.645	2	
+Ake	Abeokuta South	Ogun	7.164	3.351	2	
+Ako	Mayo-Belwa	Adamawa	9.165	11.771	2	
+Alkaleri	Alkaleri	Bauchi	9.699	10.791	2	Yelwan Akalere
+Akruki	Jega	Kebbi	12.282	4.307	2	
+Aga-Akinrombi	Yewa North	Ogun	7.031	3.083	2	
+Akinjole	Ewekoro	Ogun	7.046	3.268	2	
+Akerekoro	Abeokuta North	Ogun	7.222	3.165	2	
+Old-Akala	Abeokuta North	Ogun	7.347	3.149	2	
+Aki-Egun	Abeokuta North	Ogun	7.341	3.102	2	
+Akalu	Obafemi Owode	Ogun	7.060	3.349	2	
+Akindasa	Obafemi Owode	Ogun	7.001	3.397	2	
+Akasu	Obafemi Owode	Ogun	7.019	3.474	2	
+Akiti	Obafemi Owode	Ogun	7.066	3.446	2	
+Akiode	Odeda	Ogun	7.137	3.462	2	
+Akingbade	Odeda	Ogun	7.212	3.398	2	
+Akibo	Odeda	Ogun	7.239	3.412	2	
+Akorn	Odeda	Ogun	7.247	3.377	2	
+Akinbo	Odeda	Ogun	7.269	3.434	2	
+Akinwunmi-Adedigpa	Odeda	Ogun	7.468	3.431	2	
+Akinsola	Lagelu	Oyo	7.489	4.030	2	
+Akiokun	Lagelu	Oyo	7.490	4.063	2	
+Akinrin	Lagelu	Oyo	7.479	4.048	2	
+Akinbode	Egbeda	Oyo	7.367	4.023	2	
+Oke-Akanran	Ona Ara	Oyo	7.271	4.026	2	
+Akebioro	Ona Ara	Oyo	7.270	4.066	2	
+Akinrinade	Ona Ara	Oyo	7.209	4.071	2	
+Akinrin	Ona Ara	Oyo	7.196	4.067	2	
+Akinade	Ona Ara	Oyo	7.159	4.039	2	
+Akintayo	Ona Ara	Oyo	7.155	4.070	2	
+Akinran	Ona Ara	Oyo	7.258	4.096	2	
+Akankan	Egbeda	Oyo	7.442	4.111	2	
+Amula-Akinwale	Isokan	Osun	7.301	4.189	2	
+Akinwande	Irewole	Osun	7.468	4.260	2	
+Akinbola	Irewole	Osun	7.422	4.227	2	
+Sa-Akin	Irewole	Osun	7.424	4.231	2	
+Akinpe	Irewole	Osun	7.417	4.229	2	
+Akinrin	Irewole	Osun	7.418	4.252	2	
+Ope Akinremi	Aiyedade	Osun	7.200	4.335	2	
+Akintolu-Eletu	Aiyedade	Osun	7.216	4.298	2	
+Akinogun	Aiyedade	Osun	7.295	4.306	2	
+Akoda	Isokan	Osun	7.314	4.264	2	
+Akere	Irewole	Osun	7.402	4.283	2	
+Akoro	Aiyedade	Osun	7.496	4.316	2	
+Akerin	Aiyedade	Osun	7.485	4.316	2	
+Akinjepo	Aiyedade	Osun	7.445	4.352	2	
+Akan-Gbokotoyo	Aiyedade	Osun	7.442	4.297	2	
+Akan-Olodun	Aiyedade	Osun	7.438	4.316	2	
+Akintobi	Aiyedade	Osun	7.425	4.319	2	
+Akere	Aiyedade	Osun	7.414	4.317	2	
+Akan	Aiyedade	Osun	7.415	4.302	2	
+Akinwunmi	Aiyedade	Osun	7.375	4.360	2	
+Akere	Aiyedade	Osun	7.299	4.357	2	
+Akinpelu	Ife North	Osun	7.339	4.487	2	
+Akindele	Ife Central	Osun	7.580	4.514	2	
+Akeredolu	Ife Central	Osun	7.572	4.568	2	
+Akiri	Ife Central	Osun	7.554	4.527	2	
+Akinyemi	Ife Central	Osun	7.560	4.530	2	
+Akanji	Atakunmosa West	Osun	7.636	4.546	2	
+Akinjobi	Atakunmosa West	Osun	7.692	4.609	2	
+Akilapa	Atakunmosa West	Osun	7.694	4.602	2	
+Akogun	Olorunda	Osun	7.807	4.590	2	
+Akola	Atakunmosa West	Osun	7.618	4.628	2	
+Omi-Aka	Ilesha West	Osun	7.656	4.692	2	
+Simeon-Akogun	Yewa North	Ogun	7.027	2.926	2	
+Akera	Imeko Afon	Ogun	7.460	2.938	2	
+Akanni	Yewa South	Ogun	6.827	2.850	2	
+Abule-Akinlawon	Ipokia	Ogun	6.654	2.830	2	
+Akinde-Fayawole	Ipokia	Ogun	6.646	2.782	2	
+Atan-Akinlade	Ipokia	Ogun	6.659	2.876	2	
+Akokwenu	Ado Odo/Ota	Ogun	6.571	2.931	2	
+Akachun	Ado Odo/Ota	Ogun	6.580	2.979	2	
+Akegbe	Yewa South	Ogun	6.776	2.942	2	
+Akinseloyin	Ogun Waterside	Ogun	6.451	4.507	2	
+Ago-Akingboye	Okitipupa	Ondo	6.488	4.784	2	
+Ago-Akinduro	Irele	Ondo	6.491	4.907	2	
+Ago-Akinlose	Irele	Ondo	6.495	4.972	2	
+Ago-Akinmusire	Irele	Ondo	6.401	4.973	2	
+Akaraba	Ese Odo	Ondo	6.320	4.898	2	
+Akinte	Ilaje	Ondo	6.339	4.653	2	
+Aka	Guma	Benue	8.114	8.518	2	
+Akombo	Keana	Nasarawa	8.223	8.653	2	
+Aba-Akeredolu	Ife East	Osun	7.392	4.555	2	
+Idi-Ako-Igbomina	Ife South	Osun	7.221	4.590	2	
+Akinyele	Ife South	Osun	7.152	4.505	2	
+Akinyoye	Ondo West	Ondo	7.027	4.629	2	
+Akintola	Ife South	Osun	7.154	4.641	2	
+Akere	Atakunmosa West	Osun	7.436	4.666	2	
+Ogogo-Akaro	Ife South	Osun	7.407	4.666	2	
+Akeju	Ife South	Osun	7.216	4.693	2	
+Akinyu	Ondo West	Ondo	7.052	4.688	2	
+Akanni	Atakunmosa East	Osun	7.453	4.792	2	
+Akinbobola	Ile Oluji/Okeigbo	Ondo	7.247	4.903	2	
+Akingbehin	Ile Oluji/Okeigbo	Ondo	7.276	4.963	2	
+Akinwunmi	Ile Oluji/Okeigbo	Ondo	7.273	4.940	2	
+Akinye	Ile Oluji/Okeigbo	Ondo	7.279	4.943	2	
+Araromi Akinyemi	Ile Oluji/Okeigbo	Ondo	7.281	4.956	2	
+Akaya	Surulere	Oyo	8.229	4.465	2	
+Aja-Aka	Odeda	Ogun	7.323	3.542	2	
+Akintebi	Odeda	Ogun	7.317	3.523	2	
+Akoni	Odeda	Ogun	7.181	3.528	2	
+Akinbo	Obafemi Owode	Ogun	7.099	3.638	2	
+Akinola	Odeda	Ogun	7.155	3.656	2	
+Apena-Akinsola	Odeda	Ogun	7.179	3.659	2	
+Ake	Odeda	Ogun	7.275	3.588	2	
+Wasimi-Ake	Odeda	Ogun	7.282	3.701	2	
+Akinola	Odeda	Ogun	7.298	3.741	2	
+Akia	Odeda	Ogun	7.242	3.710	2	
+Akinola	Odeda	Ogun	7.157	3.682	2	
+Akingbade	Obafemi Owode	Ogun	7.139	3.681	2	
+Akintola-Ogbun	Oluyole	Oyo	7.149	3.912	2	
+Akerele	Oluyole	Oyo	7.181	3.817	2	
+Ake	Olorunsogo	Oyo	8.852	4.075	2	
+Akinlotan	Moro	Kwara	8.720	4.422	2	
+Akere	Olorunsogo	Oyo	8.672	4.181	2	
+Budo-Akin	Olorunsogo	Oyo	8.662	4.166	2	
+Akin	Asa	Kwara	8.621	4.279	2	
+Akiramanu-Busamu	Moro	Kwara	8.658	4.425	2	
+Akimonu	Asa	Kwara	8.583	4.462	2	
+Akeru	Asa	Kwara	8.564	4.345	2	
+Akigbe	Ibarapa North	Oyo	7.578	3.104	2	
+Igbole-Akao	Ibarapa North	Oyo	7.646	3.220	2	
+Ako	Lafia	Nasarawa	8.560	8.799	2	
+Kura	Lafia	Nasarawa	8.636	8.678	2	Akura
+Akura	Lafia	Nasarawa	8.624	8.681	2	
+Akpu	Lafia	Nasarawa	8.645	8.555	2	
+Akwamino	Lafia	Nasarawa	8.606	8.724	2	
+Akuku	Lafia	Nasarawa	8.525	8.610	2	
+Akurba-Sanya	Lafia	Nasarawa	8.555	8.589	2	
+Akaka	Odo Otin	Osun	8.057	4.623	2	
+Akinu	Surulere	Oyo	8.041	4.555	2	
+Akele	Oyo West	Oyo	7.925	3.814	2	
+Akolo	Oyo West	Oyo	7.922	3.900	2	
+Akose	Oyo West	Oyo	7.903	3.883	2	
+Ake	Afijio	Oyo	7.763	3.856	2	
+Akinlabi	Afijio	Oyo	7.770	3.888	2	
+Aba-Akindele	Afijio	Oyo	7.770	3.893	2	
+Akodudu	Atiba	Oyo	7.897	3.985	2	
+Akoba	Ifelodun	Kwara	8.467	4.903	2	
+Akome	Moro	Kwara	9.025	4.858	2	
+Akande	Ori Ire	Oyo	7.999	4.050	2	
+Akoda	Afijio	Oyo	7.848	4.063	2	
+Agba-Akin	Afijio	Oyo	7.837	4.022	2	
+Ako-Worewe	Afijio	Oyo	7.801	4.006	2	
+Akwere	Doma	Nasarawa	8.439	8.220	2	
+Akata Gado	Ilorin South	Kwara	8.424	4.613	2	AkataGado
+Akata Robo	Ilorin South	Kwara	8.428	4.611	2	AkataRobo
+Akata	Ilorin East	Kwara	8.470	4.612	2	
+Akata Kuga	Ilorin South	Kwara	8.429	4.608	2	AkataKuga|Akatakuga
+Akata	Ilorin South	Kwara	8.441	4.681	2	
+Akabi	Ilorin East	Kwara	8.466	4.573	2	Akanbi
+Akpali	Bassa	Kogi	8.024	7.357	2	
+Akwakwa	Kurmi	Taraba	6.995	10.784	2	
+Akweyu	Kurmi	Taraba	6.998	10.845	2	
+Akabo	Kurmi	Taraba	6.985	10.840	2	
+Akwabe	Sardauna	Taraba	6.951	10.873	2	
+Akolo	Kokona	Nasarawa	8.735	7.953	2	
+Akinrin	Lagelu	Oyo	7.538	4.152	2	
+Akunra	Aiyedade	Osun	7.571	4.480	2	
+Akala	Lagelu	Oyo	7.576	4.109	2	
+Akire Olubuse	Ola Oluwa	Osun	7.723	4.242	2	AkireOlubuse
+Akekura	Lagelu	Oyo	7.525	4.011	2	
+Akede	Afijio	Oyo	7.680	4.028	2	
+Akilapa	Ede South	Osun	7.659	4.470	2	
+Akere	Aiyedade	Osun	7.562	4.311	2	
+Akoda	Ede North	Osun	7.718	4.477	2	
+Akanle	Aiyedade	Osun	7.565	4.366	2	
+Akinyeye	Iwo	Osun	7.601	4.152	2	
+Akotami	Aiyedire	Osun	7.546	4.232	2	
+Idi-Aka	Afijio	Oyo	7.692	4.003	2	
+Akindin	Ola Oluwa	Osun	7.705	4.236	2	
+Akitiko	Lagelu	Oyo	7.501	4.023	2	
+Akere-Ale	Akinyele	Oyo	7.614	4.028	2	
+Akaa	Gboko	Benue	7.314	8.800	2	
+Akel	Gboko	Benue	7.285	8.951	2	
+Ake	Obafemi Owode	Ogun	7.109	3.489	2	
+Akingbala	Odeda	Ogun	7.187	3.417	2	
+Akiriboto	Aiyedade	Osun	7.412	4.360	2	
+Akata	Moro	Kwara	8.845	4.283	2	
+Akata	Asa	Kwara	8.696	4.268	2	
+Akinpelu	Afijio	Oyo	7.750	3.838	2	
+Akindele	Aiyedade	Osun	7.592	4.386	2	
+Akinyele	Afijio	Oyo	7.718	4.026	2	
+Akoda	Afijio	Oyo	7.732	4.023	2	
 Oba Akinjobi Street	Ikeja	Lagos	6.585	3.347	1	
 Akinsegun Street	Ifako/Ijaye	Lagos	6.653	3.312	1	
 Akin Adesola Street	Eti Osa	Lagos	6.424	3.424	1	
@@ -335,13 +1385,11 @@ Akugbe Street	Oredo	Edo	6.352	5.614	1
 1st Akugbe Lane	Oredo	Edo	6.349	5.606	1	
 Akugbe Road	Oredo	Edo	6.351	5.606	1	
 Akenzua Street	Egor	Edo	6.360	5.629	1	
-JUSTICE E. AKPATA STREET	Egor	Edo	6.359	5.630	1	
+Justice E. Akpata Street	Egor	Edo	6.359	5.630	1	
 Akale Street	Oredo	Edo	6.335	5.606	1	
 3rd Akugbe Lane	Oredo	Edo	6.351	5.606	1	
 gab-akpata street	Egor	Edo	6.361	5.626	1	
 1st Akenzua Lane	Oredo	Edo	6.324	5.611	1	
-Oba Akenzua Primary School	Oredo	Edo	6.341	5.601	0	
-Akenzua II Secondary School	Oredo	Edo	6.350	5.617	0	
 Akintan Street	Surulere	Lagos	6.509	3.361	1	
 Oba Akenzua Crescent	Ibadan North	Oyo	7.422	3.908	1	
 Ladoke Akintola Avenue	Ibadan North	Oyo	7.420	3.914	1	
@@ -399,7 +1447,6 @@ Akintan Street	Ifako/Ijaye	Lagos	6.630	3.337	1
 Adeyemo Akapo Street	Ikeja	Lagos	6.635	3.359	1	
 Akinola Street	Ikeja	Lagos	6.638	3.347	1	
 Akinsowon Close	Ifako/Ijaye	Lagos	6.642	3.342	1	
-Oba Akran Avenue	Ikeja	Lagos	6.608	3.336	1	
 Akinola Cole Crescent	Ikeja	Lagos	6.612	3.344	1	
 Akanni Doherty Street	Ikeja	Lagos	6.614	3.331	1	
 Akindiya Street	Ifako/Ijaye	Lagos	6.624	3.326	1	
@@ -416,13 +1463,11 @@ Onikepo Akande Street	Eti Osa	Lagos	6.446	3.460	1
 Akintola Road	Surulere	Lagos	6.495	3.371	1	
 Akinwumi Street	Lagos Mainland	Lagos	6.502	3.380	1	
 Akanji Street	Surulere	Lagos	6.509	3.346	1	
-Akowonjo Road	Alimosho	Lagos	6.599	3.291	1	
 Remi Akande	Alimosho	Lagos	6.589	3.293	1	
 Akinsola Street	Agege	Lagos	6.612	3.314	1	
 Akinwunmi Street	Agege	Lagos	6.607	3.317	1	
 Akure Street	Apapa	Lagos	6.443	3.370	1	
 Akin Leigh Crescent	Eti Osa	Lagos	6.445	3.454	1	
-Akin Leigh Crescent	Eti Osa	Lagos	6.446	3.456	1	
 Akarigbere Street	Eti Osa	Lagos	6.425	3.414	1	
 Alh. Dr. Akami Azeez Street	Eti Osa	Lagos	6.428	3.495	1	
 Akanni Bashorun Street	Eti Osa	Lagos	6.444	3.467	1	
@@ -431,9 +1476,7 @@ Lawrence Akande Close	Eti Osa	Lagos	6.436	3.465	1
 Professor Kiumi Akingbehin Street	Eti Osa	Lagos	6.436	3.465	1	
 Akintola Ajeigbe Street	Eti Osa	Lagos	6.436	3.469	1	
 Ali Akilu Road	Kaduna North	Kaduna	10.588	7.448	1	
-Ali Akilu Road	Kaduna North	Kaduna	10.584	7.446	1	
 Ali Akilu Road	Kaduna North	Kaduna	10.552	7.445	1	
-Ali Akilu Road	Kaduna North	Kaduna	10.551	7.445	1	
 Akinwande Street	Surulere	Lagos	6.471	3.328	1	
 G.U Ake Road	Obio/Akpor	Rivers	4.874	7.013	1	
 G.U. Ake Interchange to Rumuodomaya Roundabout	Obio/Akpor	Rivers	4.851	7.017	1	
@@ -455,7 +1498,6 @@ Akinwunmi Street	Mushin	Lagos	6.514	3.339	1
 Akinyemi Thompson Street	Mushin	Lagos	6.512	3.345	1	
 Akinyele Street	Surulere	Lagos	6.498	3.342	1	
 Akhigbe Avenue	Oredo	Edo	6.297	5.596	1	
-Akin Adesola Street	Eti Osa	Lagos	6.429	3.424	1	
 Oba Kayode Akinyemi Way	Amuwo Odofin	Lagos	6.474	3.321	1	
 Akoka Road	Shomolu	Lagos	6.518	3.385	1	
 Akorohunfayo Street	Mushin	Lagos	6.530	3.366	1	
@@ -482,7 +1524,6 @@ Akintunde Street	Agege	Lagos	6.622	3.311	1
 Akinremi Street	Agege	Lagos	6.623	3.309	1	
 Akinleye Street	Agege	Lagos	6.633	3.313	1	
 Akinbowale Street	Ifako/Ijaye	Lagos	6.661	3.317	1	
-Old Akute Road	Ifako/Ijaye	Lagos	6.659	3.336	1	
 Akpatabi Street	Warri South	Delta	5.532	5.745	1	
 Akpiri Close	Uvwie	Delta	5.565	5.766	1	
 Akemu Lane	Uvwie	Delta	5.562	5.757	1	
@@ -498,7 +1539,6 @@ Akinwunmi Street	Kosofe	Lagos	6.571	3.377	1
 Akinfe Street	Kosofe	Lagos	6.565	3.375	1	
 Akiogun Road	Eti Osa	Lagos	6.434	3.457	1	
 Akala Expressway	Oluyole	Oyo	7.357	3.832	1	
-Akala Expressway	Oluyole	Oyo	7.339	3.854	1	
 Akinmade Street	Alimosho	Lagos	6.549	3.240	1	
 Akwuke Police Barracks Road	Enugu South	Enugu	6.382	7.492	1	
 Barr C O N Akabogu Drive	Enugu North	Enugu	6.467	7.489	1	
@@ -560,16 +1600,12 @@ Akwa Close	Enugu North	Enugu	6.438	7.522	1
 Akwaeze Street	Enugu East	Enugu	6.478	7.588	1	
 Sister Akunna Chike Street	Enugu East	Enugu	6.500	7.531	1	
 Adeshola Akande Street	Ifako/Ijaye	Lagos	6.636	3.331	1	
-Akwuke	Nkanu West	Enugu	6.395	7.456	2	
-Akobo - Olorunda Abba Road	Akinyele	Oyo	7.479	3.968	1	
 Akiosi Street	Oshodi/Isolo	Lagos	6.499	3.310	1	
-Akerele Road	Surulere	Lagos	6.505	3.354	1	
 Akinwunmi Afuye Street	Ìkòròdú	Lagos	6.642	3.495	1	
 Habeeb Akinlade Avenue	Ìkòròdú	Lagos	6.640	3.483	1	
 John Akinjide Street	Ikeja	Lagos	6.599	3.342	1	
 Dayo Akinyemi Street	Ìkòròdú	Lagos	6.636	3.480	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.442	5.231	1	
-Akilu Memorial Primary Health Centre	Madobi	Kano	11.769	8.288	0	
 Akintunde Adeyemi Drive	Eti Osa	Lagos	6.440	3.481	1	
 Akinyemi Road	Eti Osa	Lagos	6.430	3.474	1	
 Akanni Taiwo Close	Eti Osa	Lagos	6.437	3.521	1	
@@ -584,7 +1620,6 @@ Orlu-Osina-Akokwa-Uga Rd	Orlu	Imo	5.799	7.039	1
 Akoda Road	Ede North	Osun	7.750	4.436	1	
 Akinsola Street	Shomolu	Lagos	6.524	3.376	1	
 Aker - Saipem Road	Port-Harcourt	Rivers	4.777	6.966	1	
-Akoda Road	Ede North	Osun	7.726	4.441	1	
 Engr Akin Adetuberu Drive	Ede North	Osun	7.758	4.526	1	
 Olufemi Akintunde Street	Eti Osa	Lagos	6.477	3.654	1	
 Akabueze Street	Eti Osa	Lagos	6.478	3.657	1	
@@ -609,7 +1644,6 @@ HRM. King Ebenezer Akakuro Kagbo Road	Yenegoa	Bayelsa	4.870	6.208	1
 Stella Akinseye Street	Eti Osa	Lagos	6.464	3.584	1	
 Aka Road	Uyo	Akwa Ibom	5.033	7.929	1	
 General Edet Akpan Avenue	Uyo	Akwa Ibom	5.010	7.936	1	
-Orie Akokwa	Ideato North	Imo	5.913	7.111	0	
 Omoba S. Akinolu Street	Eti Osa	Lagos	6.473	3.577	1	
 Ire Akari Quarters	Ilejemeje	Ekiti	7.953	5.245	1	
 Toso Akinleye Way (New Street)	Oriade	Osun	7.569	4.892	1	
@@ -627,9 +1661,6 @@ Akute-Ajuwon Road	Ifo	Ogun	6.676	3.353	1
 Ubetim Road Odo Akwa Ibom	Nsit Atai	Akwa Ibom	4.865	8.019	1	
 Taiwo Akinsanya Street	Oshodi/Isolo	Lagos	6.539	3.314	1	
 Aka Road	Uyo	Akwa Ibom	5.025	7.924	1	
-General Edet Akpan Avenue	Uyo	Akwa Ibom	5.024	7.954	1	
-General Edet Akpan Avenue	Uyo	Akwa Ibom	5.009	7.951	1	
-Ladoke Akintola University of Technology Teaching Hospital	Ogbomosho North	Oyo	8.152	4.253	0	
 Akinsowon Street	Eti Osa	Lagos	6.474	3.571	1	
 Akiti Avenue	Oshodi/Isolo	Lagos	6.524	3.317	1	
 Kunle Akinsanya Street	Alimosho	Lagos	6.549	3.252	1	
@@ -664,14 +1695,12 @@ Akewe Street	Ado Odo/Ota	Ogun	6.687	3.279	1
 Akinade St	Alimosho	Lagos	6.670	3.255	1	
 Akinyimika Street	Ìkòròdú	Lagos	6.635	3.484	1	
 Tunde Akinyemi Street	Ìkòròdú	Lagos	6.639	3.484	1	
-Habeeb Akinlade Avenue	Ìkòròdú	Lagos	6.639	3.487	1	
 Akin Atoloye Street	Ìkòròdú	Lagos	6.604	3.495	1	
 Akeem Kassim Street	Oshodi/Isolo	Lagos	6.490	3.292	1	
 Victoria Akinleye Close	Oshodi/Isolo	Lagos	6.541	3.319	1	
 Akintoye Street	Ifo	Ogun	6.688	3.306	1	
 Akin George Cres	Ilesha West	Osun	7.623	4.723	1	
 Akintola Road	Sapele	Delta	5.889	5.686	1	
-Akpakpava Road	Oredo	Edo	6.343	5.635	1	
 Joe Akahan Road	Kaduna North	Kaduna	10.579	7.429	1	
 Akin Baruwa Street	Mushin	Lagos	6.516	3.359	1	
 Akinola Road	Alimosho	Lagos	6.627	3.290	1	
@@ -702,17 +1731,14 @@ Oba Akinjobi Street	Ikeja	Lagos	6.592	3.343	1
 Akure - Ado Ekiti Road	Akure North	Ondo	7.374	5.250	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.295	5.230	1	
 Akingbulugbe Crescent	Ondo West	Ondo	7.054	4.844	1	
-Akure - Ado Ekiti Road	Akure North	Ondo	7.385	5.261	1	
 Godwin Abbe (aka Limit)	Oredo	Edo	6.282	5.619	1	
 Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.618	5.224	1	
 Akogun Road	Eti Osa	Lagos	6.463	3.577	1	
 Akure-Owo Express Road	Ifedore	Ondo	7.403	5.014	1	
 Akure-Owo Express Road	Oriade	Osun	7.407	4.982	1	
-Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.614	5.223	1	
 Akhimien Road	Ovia North-East	Edo	6.450	5.601	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.559	5.213	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.485	5.229	1	
-Akanu Ibiam International Airport	Enugu East	Enugu	6.473	7.571	0	
 Akingbolu Avenue	Ekiti West	Ekiti	7.710	5.034	1	
 Akesan Road	Alimosho	Lagos	6.550	3.235	1	
 Akoda Road	Ede South	Osun	7.678	4.464	1	
@@ -720,18 +1746,13 @@ Akpaka Okote Road	Awgu	Enugu	6.122	7.502	1
 Aker Road	Obio/Akpor	Rivers	4.802	6.951	1	
 Taiwo Akapo Street	Eti Osa	Lagos	6.451	3.615	1	
 Elelenwo -Akpajo Road	Obio/Akpor	Rivers	4.842	7.077	1	
-Akala Expressway	Oluyole	Oyo	7.348	3.846	1	
 Akin-Laguda Street	Ibadan South West	Oyo	7.358	3.839	1	
 Abayomi Akimosa Crescent	Ibadan South West	Oyo	7.399	3.857	1	
-Oba Akenzua II Crescent	Ibadan North West	Oyo	7.399	3.874	1	
-Akala Expressway	Oluyole	Oyo	7.350	3.842	1	
 Akala Expressway	Ido	Oyo	7.362	3.824	1	
 Akala Expressway	Ido	Oyo	7.366	3.814	1	
 Akpajo- Alesa on East West Road	Eleme	Rivers	4.811	7.102	1	
 Kolawole Akinyemi Street	Badagry	Lagos	6.441	2.979	1	
 Akanran Road	Ona Ara	Oyo	7.357	3.938	1	
-Akanran Road	Ona Ara	Oyo	7.359	3.933	1	
-Oba Kayode Akinyemi Way	Amuwo Odofin	Lagos	6.476	3.317	1	
 Aka - Nung Udoe Road, Uyo, Nigeria	Uyo	Akwa Ibom	5.005	7.918	1	
 Akanran Road	Ona Ara	Oyo	7.346	3.952	1	
 Akede Street	Ibadan North East	Oyo	7.394	3.920	1	
@@ -746,7 +1767,6 @@ Akpan Etuk street	Uyo	Akwa Ibom	5.029	7.939	1
 Akure-Owo Express Road	Akure South	Ondo	7.284	5.182	1	
 Akiama Road	Bonny	Rivers	4.434	7.188	1	
 Akinsola Street	Agege	Lagos	6.612	3.316	1	
-Alao Akala Way	Lagelu	Oyo	7.443	3.952	1	
 Akobo - Olorunda Abba Road	Lagelu	Oyo	7.435	3.944	1	
 Akram Street	Gwale	Kano	11.997	8.480	1	
 Alao Akala Way	Lagelu	Oyo	7.433	3.983	1	
@@ -759,147 +1779,163 @@ Abioye Akano Close	Eti Osa	Lagos	6.478	3.630	1
 Ijoko Akute Road	Ifo	Ogun	6.689	3.331	1	
 Akpoguma Street	Surulere	Lagos	6.503	3.348	1	
 Akala Expressway	Oluyole	Oyo	7.331	3.861	1	
-Akala Expressway	Oluyole	Oyo	7.332	3.865	1	
 Akinfenwa Street	Alimosho	Lagos	6.628	3.272	1	
-Ladoke Akintola Boulevard	Municipal Area Council	FCT Abuja	9.024	7.496	1	
-Ladoke Akintola Boulevard	Municipal Area Council	FCT Abuja	9.027	7.498	1	
 Akinsegun Street	Ifako/Ijaye	Lagos	6.652	3.316	1	
 Akinowo Street	Alimosho	Lagos	6.605	3.302	1	
 Akure-Owo Express Road	Ifedore	Ondo	7.330	5.107	1	
-Akure - Ado Ekiti Road	Akure North	Ondo	7.280	5.213	1	
 Akure-Owo Express Road	Akure North	Ondo	7.281	5.214	1	
-Akure-Owo Express Road	Akure South	Ondo	7.280	5.194	1	
-Akure - Ado Ekiti Road	Akure North	Ondo	7.282	5.221	1	
-Akure-Owo Express Road	Akure North	Ondo	7.282	5.220	1	
 Olu Akinleye Close	Abeokuta North	Ogun	7.139	3.287	1	
 Akali Street	Yenegoa	Bayelsa	4.952	6.353	1	
 Akin Adekomaya Close	Kosofe	Lagos	6.567	3.368	1	
 Usong Anwa Akpana	Ukanafun	Akwa Ibom	4.869	7.657	1	
 Akure-Owo Express Road	Akure North	Ondo	7.260	5.379	1	
 Akure-Owo Express Road	Akure North	Ondo	7.271	5.269	1	
-Akure - Ado Ekiti Road	Ikere	Ekiti	7.501	5.230	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.532	5.221	1	
 Odot 2 Akwa Ibom	Nsit Atai	Akwa Ibom	4.832	8.042	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.320	5.238	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.346	5.250	1	
 Ikot Ekong/Akpang Offop Road Odot Akwa Ibom	Nsit Atai	Akwa Ibom	4.808	8.039	1	
 Ikot Akpa Ekpu	Nsit Atai	Akwa Ibom	4.814	8.046	1	
-Elelenwo -Akpajo Road	Eleme	Rivers	4.824	7.087	1	
-Elelenwo -Akpajo Road	Obio/Akpor	Rivers	4.827	7.076	1	
 Alhaji Akinwunmi Street	Mushin	Lagos	6.542	3.341	1	
 Akachi Road	Owerri Municipal	Imo	5.476	7.040	1	
 Akinima Road	Ahoada West	Rivers	5.064	6.450	1	
 Akinlabi Street	Agege	Lagos	6.626	3.314	1	
 Pastor Akindehinmi street	Ìkòròdú	Lagos	6.552	3.542	1	
-Federal University of Technology Akure	Akure South	Ondo	7.298	5.126	0	
-Ijoko Akute Road	Ifo	Ogun	6.691	3.356	1	
-Federal College of Education (Technical), Akoka	Shomolu	Lagos	6.522	3.383	0	
 Akorede Street	Alimosho	Lagos	6.644	3.294	1	
 Old Akute Road	Ifo	Ogun	6.664	3.352	1	
 Elelnwo -Akpajo Road	Eleme	Rivers	4.823	7.088	1	
-Elelenwo -Akpajo Road	Obio/Akpor	Rivers	4.833	7.070	1	
 Alex Akande Street	Ikpoba-Okha	Edo	6.268	5.650	1	
-Ijoko Akute Road	Ifo	Ogun	6.691	3.336	1	
-Akth Primary Health Centre	Kumbotso	Kano	11.892	8.500	0	
-Primary Health Center Akuyam	Misau	Bauchi	11.466	10.627	0	
-Akeke/Olorombo Health Centre, Bashorun	Ibadan North East	Oyo	7.416	3.939	0	
-Ladoke Akintola University of Technology, Ogbomoso	Ogbomosho North	Oyo	8.168	4.270	0	
-Adisa Akintoye Street	Kosofe	Lagos	6.594	3.385	1	
-Akure Shopping Mall	Akure South	Ondo	7.236	5.214	0	
 Akinima Road	Ahoada West	Rivers	5.099	6.481	1	
-Akinima Road	Ahoada West	Rivers	5.065	6.450	1	
 Inuen Akan Drive	Ikot Abasi	Akwa Ibom	4.579	7.581	1	
 Route Akanliko - Ngale	Obanliku	Cross River	6.465	9.455	1	
 Route Akanliko - Ngale	Obanliku	Cross River	6.439	9.469	1	
-Route Akanliko - Ngale	Obanliku	Cross River	6.450	9.463	1	
 Akinima Road	Yenegoa	Bayelsa	5.172	6.497	1	
 Akinima Road	Ahoada West	Rivers	5.154	6.489	1	
 Akpan Wilson Etuk-Udo Close	Municipal Area Council	FCT Abuja	9.104	7.410	1	
-Akobo - Olorunda Abba Road	Lagelu	Oyo	7.438	3.949	1	
 Akobo - Ojurin Road	Lagelu	Oyo	7.424	3.937	1	
 Akobo - Olorunda Abba Road	Lagelu	Oyo	7.424	3.937	1	
-Akure Airport	Akure North	Ondo	7.251	5.300	0	
 Akoma Close	Municipal Area Council	FCT Abuja	8.973	7.451	1	
 Akanchawa Street	Oshimili North	Delta	6.184	6.624	1	
 Womiloju Akindele Close	Ifako/Ijaye	Lagos	6.665	3.301	1	
-Ikot Akpan-Ata Market	Ikot Abasi	Akwa Ibom	4.580	7.583	0	
 Shabomi-Akotogbo Road	Ese Odo	Ondo	6.431	4.912	1	
-Aker road	Port-Harcourt	Rivers	4.788	6.959	1	
 Rami Akinyele Amosu Street	Eti Osa	Lagos	6.450	3.569	1	
 Akin Mabogunje Drive	Municipal Area Council	FCT Abuja	8.970	7.351	1	
-Salaudeen Akano Street	Kosofe	Lagos	6.578	3.388	1	
 Saula Akinlolu Street	Eti Osa	Lagos	6.439	3.546	1	
 Akinyemi Close	Oshodi/Isolo	Lagos	6.524	3.335	1	
 UN Akpan Street	Municipal Area Council	FCT Abuja	9.045	7.545	1	
-Akinfe Street	Kosofe	Lagos	6.567	3.375	1	
 Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.981	3.620	1	
 Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.019	3.702	1	
 Adeoye Abiola Akinleye Avenue	Ado Odo/Ota	Ogun	6.706	3.084	1	
-Akala Expressway	Ido	Oyo	7.393	3.811	1	
-Akala Expressway	Ido	Oyo	7.379	3.810	1	
 Akorede Close	Obafemi Owode	Ogun	6.871	3.428	1	
-Akanni Busari Street	Oshodi/Isolo	Lagos	6.506	3.305	1	
-Akesan Road	Alimosho	Lagos	6.545	3.230	1	
-Akesan Road	Alimosho	Lagos	6.549	3.233	1	
 Akobo - Olorunda Abba Road	Akinyele	Oyo	7.518	3.986	1	
 Akoda Road	Ede South	Osun	7.693	4.455	1	
-Akoda Road	Ede North	Osun	7.741	4.436	1	
-Akanran Road	Ona Ara	Oyo	7.352	3.945	1	
 Biodun Akin-Aina Crescent	Municipal Area Council	FCT Abuja	9.100	7.472	1	
 Salau Biu Akanbi Street	Ìkòròdú	Lagos	6.628	3.502	1	
 Adesina Akintunde Street	Ado Odo/Ota	Ogun	6.725	3.248	1	
 Akoka Road 3	Lagelu	Oyo	7.451	3.986	1	
-Akinsanya Ogunlana Street	Alimosho	Lagos	6.598	3.293	1	
 Akinlehin Close	Lagos Mainland	Lagos	6.508	3.386	1	
 Akinola Street	Mushin	Lagos	6.529	3.366	1	
-Akaraugo Naze Hospital	Owerri North	Imo	5.433	7.067	0	
 Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.605	5.222	1	
 Akanni Bashuua Street	Shomolu	Lagos	6.530	3.377	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.993	3.642	1	
 Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.997	3.650	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.002	3.666	1	
 Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.039	3.767	1	
 Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.028	3.732	1	
 Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.031	3.742	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.034	3.752	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.036	3.757	1	
 Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.049	3.799	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.043	3.780	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.045	3.786	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.045	3.788	1	
 Adebayo Alao-Akala Memorial Highway	Atiba	Oyo	8.075	3.847	1	
 Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.188	4.090	1	
 Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.154	4.012	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.158	4.014	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.161	4.020	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.165	4.030	1	
 Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.171	4.045	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.174	4.053	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.182	4.073	1	
 Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.180	4.117	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.183	4.108	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.006	3.679	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.014	3.686	1	
 Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.172	4.132	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.168	4.141	1	
 Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.151	4.160	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.146	4.181	1	
 Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.144	4.185	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.141	4.188	1	
 Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.974	3.604	1	
-Obot Akara	Obot Akara	Akwa Ibom	5.243	7.601	2	
-Akoko South West	Akoko South West	Ondo	7.401	5.706	2	
-Akoko North West	Akoko North West	Ondo	7.650	5.815	2	
-Akure South	Akure South	Ondo	7.223	5.169	2	
-Akure North	Akure North	Ondo	7.252	5.314	2	
-Akoko-Edo	Akoko-Edo	Edo	7.352	6.125	2	
-Akoko South East	Akoko South East	Ondo	7.422	5.905	2	
-Akoko North East	Akoko North East	Ondo	7.563	5.904	2	
-Akwanga	Akwanga	Nasarawa	9.015	8.341	2	
-Akinyele	Akinyele	Oyo	7.555	3.912	2	
-Akuyam	Misau	Bauchi	11.492	10.600	2	
-Obio/Akpor	Obio/Akpor	Rivers	4.866	7.020	2	
-Akko	Akko	Gombe	10.100	11.003	2	
-Akamkpa	Akamkpa	Cross River	5.390	8.545	2	
-Akpabuyo	Akpabuyo	Cross River	4.896	8.480	2	
-Akuku Toru	Akuku Toru	Rivers	4.534	6.679	2	
+Akwa Ibom Motor Park	Oredo	Edo	6.346	5.635	0	
+Olu Aka Di Mma Vocational Technical Training Centre	Enugu North	Enugu	6.431	7.478	0	
+Yar Akija Basic Health Clinic	Sokoto South	Sokoto	13.054	5.236	0	Akija Clinic
+AKTC Motors	Oredo	Edo	6.345	5.636	0	
+AKTC Park	Itu	Akwa Ibom	5.056	7.884	0	
+AKTC	Uvwie	Delta	5.548	5.781	0	
+Oyin Akoko Market	Akoko North West	Ondo	7.673	5.758	0	
+Akure Market	Akure South	Ondo	7.253	5.196	0	
+Bagbe Akure Market	Akure South	Ondo	7.251	5.195	0	
+Iye Akoko Market	Akoko North West	Ondo	7.593	5.748	0	
+Auga Akoko Market	Akoko North East	Ondo	7.557	5.916	0	
+Ise Akoko Market	Akoko North East	Ondo	7.513	5.916	0	
+Isua Akoko Market	Akoko South East	Ondo	7.457	5.916	0	
+Sosan Akoko Market	Akoko South East	Ondo	7.427	5.920	0	
+Akinjala Market	Ondo West	Ondo	6.913	4.562	0	
+Igasi Akoko Market	Akoko North West	Ondo	7.724	5.798	0	
+Akunnu Market	Akoko North East	Ondo	7.633	5.942	0	
+Ikaram Akoko Market	Akoko North West	Ondo	7.605	5.856	0	
+Irun Akoko Market	Akoko North West	Ondo	7.588	5.671	0	
+Erusu Akoko Market	Akoko North West	Ondo	7.587	5.815	0	
+Ogbagi Akoko Market	Akoko North West	Ondo	7.574	5.707	0	
+Arigidi Akoko Market	Akoko North West	Ondo	7.564	5.766	0	
+Iboropa Ako Market	Akoko North East	Ondo	7.535	5.852	0	
+Ugbe Akoko Market	Akoko North East	Ondo	7.529	5.783	0	
+Akungba Akoko Market	Akoko South West	Ondo	7.470	5.736	0	
+Oka Akoko Market	Akoko South West	Ondo	7.457	5.803	0	
+Epinmi Akoko Market	Akoko South East	Ondo	7.457	5.864	0	
+Supare Akoko Market	Akoko South West	Ondo	7.447	5.689	0	
+Ipe Akoko Market	Akoko South East	Ondo	7.415	5.861	0	
+Ifira Akoko Market	Akoko South East	Ondo	7.389	5.917	0	
+Ikun Akoko Market	Akoko South West	Ondo	7.376	5.780	0	
+Oba Akoko Market	Akoko South West	Ondo	7.375	5.722	0	
+Ipesi Akoko Market	Akoko South East	Ondo	7.369	5.952	0	
+Ladoke Akintola University of Technology (LAUTECH)	Ogbomosho North	Oyo	8.167	4.267	0	
+local government primary school, baale-akinosi	Ifo	Ogun	6.682	3.352	0	
+zumuratul islamiyyah primary school, i akute	Ifo	Ogun	6.680	3.369	0	
+Local Government Primary School, Ore Akinde	Shagamu	Ogun	6.753	3.601	0	
+Community Primary School, Akeredolu	Ado Odo/Ota	Ogun	6.671	3.058	0	
+Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.818	3.185	0	
+Community Primary School, Akera	Ìjẹ̀bú Òde	Ogun	6.808	3.912	0	
+Local Government Primary School, Akinsinde	Ifo	Ogun	6.682	3.297	0	
+Local Government Primary School, Akinsinde	Ifo	Ogun	6.808	3.161	0	
+Community Primary School, Akeredolu	Ifo	Ogun	6.702	3.355	0	
+Community Primary School, Akera	Ado Odo/Ota	Ogun	6.693	3.286	0	
+Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.684	3.369	0	
+African Church Primary School,Akoore	Ado Odo/Ota	Ogun	6.616	3.104	0	
+Local Government Primary School, Ore Akinde	Ado Odo/Ota	Ogun	6.610	3.118	0	
+Local Government Primary School, Akasun	Ado Odo/Ota	Ogun	6.561	2.961	0	
+Akute Grammar School	Ifo	Ogun	6.685	3.362	0	
+Akalaka House	Enugu North	Enugu	6.458	7.523	0	
+Comfort Zone Hospital, Akingbile-Moniya Road	Akinyele	Oyo	7.514	3.910	0	
+Al-Lateef Medical Hospital, Akingbile Junction	Akinyele	Oyo	7.513	3.913	0	
+Michael Bella Memorial Hospital, General Gas-Akobo	Lagelu	Oyo	7.428	3.939	0	
+Cureland Medical Centre, Moniya Road, Akingbile	Akinyele	Oyo	7.523	3.915	0	
+Olorisa-oko PHC, Akinyele	Akinyele	Oyo	7.561	3.887	0	
+Akawu Na Mata Oil and Gas Limited	Jos North	Plateau	9.957	8.895	0	
+Akatapa Nigeria Limited	Jos North	Plateau	9.903	8.910	0	
+Oloye Olajumoke Akinjide Shopping Arcade Dutse Alhaji	Municipal Area Council	FCT Abuja	9.139	7.369	0	
+Akpouga Nike Market	Enugu East	Enugu	6.468	7.602	0	
+Federal University of Technology, Akure	Akure South	Ondo	7.293	5.150	0	FUTA
+Zion Clinic Ak45 Yoruba Road	Kaduna North	Kaduna	10.510	7.426	0	
+Akinsayosikenu Hospital	Alimosho	Lagos	6.604	3.260	0	
+Health Center Akinogun	Alimosho	Lagos	6.609	3.285	0	
+Weeldrop Akobo	Lagelu	Oyo	7.432	3.942	0	
+Akabor City Gate, Ojoto, Idemili South LGA, Anambra State, Nigeria	Idemili South	Anambra	6.066	6.860	0	
+Akingbade Health Bay	Ife Central	Osun	7.505	4.522	0	
+Akor PHC	Akamkpa	Cross River	5.463	8.729	0	
+GDJSS GAA-AKANBI, ILORIN., Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.589	0	
+Local Authority Primary School Akarakumoh	Badagry	Lagos	6.412	2.957	0	
+Conoil Petrol Station Junction Akin Mabogunje Drive	Municipal Area Council	FCT Abuja	8.967	7.352	0	
+Akara Junction	Municipal Area Council	FCT Abuja	9.082	7.397	0	
+Aktc Jabi	Municipal Area Council	FCT Abuja	9.068	7.433	0	
+Oba Akenzua Primary School	Oredo	Edo	6.341	5.601	0	
+Akenzua II Secondary School	Oredo	Edo	6.350	5.617	0	
+Akilu Memorial Primary Health Centre	Madobi	Kano	11.769	8.288	0	
+Orie Akokwa	Ideato North	Imo	5.913	7.111	0	
+Ladoke Akintola University of Technology Teaching Hospital	Ogbomosho North	Oyo	8.152	4.253	0	
+Akanu Ibiam International Airport	Enugu East	Enugu	6.473	7.571	0	
+Federal University of Technology Akure	Akure South	Ondo	7.298	5.126	0	
+Federal College of Education (Technical), Akoka	Shomolu	Lagos	6.522	3.383	0	
+Akth Primary Health Centre	Kumbotso	Kano	11.892	8.500	0	
+Primary Health Center Akuyam	Misau	Bauchi	11.466	10.627	0	
+Akeke/Olorombo Health Centre, Bashorun	Ibadan North East	Oyo	7.416	3.939	0	
+Ladoke Akintola University of Technology, Ogbomoso	Ogbomosho North	Oyo	8.168	4.270	0	
+Akure Shopping Mall	Akure South	Ondo	7.236	5.214	0	
+Akure Airport	Akure North	Ondo	7.251	5.300	0	
+Ikot Akpan-Ata Market	Ikot Abasi	Akwa Ibom	4.580	7.583	0	
+Akaraugo Naze Hospital	Owerri North	Imo	5.433	7.067	0	

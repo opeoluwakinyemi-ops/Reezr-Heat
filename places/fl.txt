@@ -1,20 +1,14 @@
-Adibawa Flow Station	Yenegoa	Bayelsa	5.198	6.490	0	
 Kalimari Flatari	Guzamala	Borno	12.733	13.476	2	
 Ngomari Flatari	Jere	Borno	11.775	13.223	2	
-Flomatry Intl. Group of Schools	Warri South	Delta	5.534	5.748	0	
-flour mills (apapa)	Apapa	Lagos	6.448	3.375	0	
-Rauf Aregbesola Flagship Pry Healthcare Center	Alimosho	Lagos	6.595	3.283	0	
-Flora Hospital And Maternity	Alimosho	Lagos	6.576	3.264	0	
-Flo Valley	Oshimili South	Delta	6.188	6.725	0	
+Amadi Flats	Port-Harcourt	Rivers	4.789	7.016	2	
+Flagi	Gbako	Niger	9.112	5.946	2	
 Ikeja Flyover Bridge	Ikeja	Lagos	6.596	3.337	1	
 Patrick Flurent Street	Municipal Area Council	FCT Abuja	8.983	7.440	1	
 Patrick Flurent Street	Municipal Area Council	FCT Abuja	8.987	7.442	1	
 Flamingo Street	Enugu East	Enugu	6.468	7.508	1	
 Egbema FLB to Oguta FS/GP	Oru West	Imo	5.707	6.884	1	
 Rostal Flowers Close	Ìkòròdú	Lagos	6.626	3.478	1	
-Glorious flow filling station	Obio/Akpor	Rivers	4.876	6.915	0	
 Lekki-Ajah Flyover	Eti Osa	Lagos	6.466	3.563	1	
-Lekki-Ajah Flyover	Eti Osa	Lagos	6.469	3.567	1	
 Yaba Flyover Bridge	Shomolu	Lagos	6.510	3.371	1	
 Florence Baker Close	Eti Osa	Lagos	6.477	3.580	1	
 Florence Eribo Street	Oredo	Edo	6.256	5.574	1	
@@ -22,3 +16,10 @@ Mushin Flyover Bridge	Mushin	Lagos	6.532	3.363	1
 Oyingbo Flyover Bridge	Surulere	Lagos	6.482	3.383	1	
 Rumuokoro Flyover	Obio/Akpor	Rivers	4.867	6.998	1	
 Ramat Park Flyover	Ikpoba-Okha	Edo	6.350	5.662	1	
+Adibawa Flow Station	Yenegoa	Bayelsa	5.198	6.490	0	
+Flomatry Intl. Group of Schools	Warri South	Delta	5.534	5.748	0	
+flour mills (apapa)	Apapa	Lagos	6.448	3.375	0	
+Rauf Aregbesola Flagship Pry Healthcare Center	Alimosho	Lagos	6.595	3.283	0	
+Flora Hospital And Maternity	Alimosho	Lagos	6.576	3.264	0	
+Flo Valley	Oshimili South	Delta	6.188	6.725	0	
+Glorious flow filling station	Obio/Akpor	Rivers	4.876	6.915	0	

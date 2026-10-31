@@ -1,3 +1,21 @@
+Tangaza	Tangaza	Sokoto	13.368	4.938	3	
+Angwa A D	Hawul	Borno	10.492	12.417	3	Tashon Alade
+Tambawal	Tambuwal	Sokoto	12.404	4.647	3	Tambuwal
+Talasse	Balanga	Gombe	9.969	11.680	3	
+Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.761	9.553	3	
+Takum	Takum	Taraba	7.255	9.985	3	
+Dadin Kowa	Doguwa	Kano	10.699	8.628	3	Tasha
+Tamburawa	Dawakin Kudu	Kano	11.870	8.533	3	Tanburawa
+Tahade	Gabasawa	Kano	12.179	8.912	3	
+Tabuli	Gaya	Kano	11.772	8.935	3	Kadem;Kademi
+Tabu	Akwanga	Nasarawa	8.969	8.430	3	
+Taura	Taura	Jigawa	12.227	9.283	3	
+Tambuwal	Tambuwal	Sokoto	12.406	4.646	3	Tambawal|Tambawel
+Talata Mafara	Talata Mafara	Zamfara	12.568	6.062	3	
+Takai	Takai	Kano	11.576	9.109	3	
+Tafawa Balewa	Tafawa-Balewa	Bauchi	9.760	9.552	3	
+Sule Tankarkar	Sule Tankakar	Jigawa	12.667	9.228	3	Sule Tankarka|Sule-Tankar-Kar
+Taiwo	Ilorin East	Kwara	8.490	4.550	2	
 Tata Fawa	Kantché	Katsina	13.168	8.320	2	
 Takari	Magaria	Katsina	13.065	8.561	2	
 Takasa	Diffa	Borno	13.348	12.734	2	
@@ -9,7 +27,6 @@ Taka-sâba	Madarounfa	Katsina	13.201	7.576	2
 Dan Takiara	Mai'Adua	Katsina	13.243	8.189	2	
 Tadéta	Kantché	Katsina	13.220	8.260	2	
 Tagwaye	Igabi	Kaduna	10.506	7.307	2	
-Tabu Station	Lavun	Niger	9.500	5.551	0	
 Tarajim	Nangere	Yobe	12.024	10.957	2	
 Tangarawu	Koko-Besse	Kebbi	11.298	4.386	2	
 Tagwaye	Lere	Kaduna	10.267	8.569	2	
@@ -25,7 +42,6 @@ Tofa	Badagry	Lagos	6.461	2.873	2	Tafa
 Tabzaiya	Mubi South	Adamawa	10.234	13.318	2	
 Tassawa	Babura	Jigawa	12.652	8.705	2	
 Old Tangwagi	Wushishi	Niger	9.583	6.067	2	Tunwagi
-Tangaza	Tangaza	Sokoto	13.368	4.938	3	
 Yatagimba	Gudu	Sokoto	13.709	4.601	2	El Tagimba
 Tabani	Tsafe	Zamfara	12.021	6.918	2	
 Takaro	Goronyo	Sokoto	13.408	5.973	2	
@@ -70,7 +86,6 @@ Tantarkwai	Goronyo	Sokoto	13.488	5.627	2
 Tartila	Goronyo	Sokoto	13.507	5.625	2	
 Gidan Dan Tape	Maru	Zamfara	12.019	6.385	2	
 Tamigbe	Burutu	Delta	5.114	5.851	2	Tamegbe
-Angwa A D	Hawul	Borno	10.492	12.417	3	Tashon Alade
 Tabkin Tara	Shanga	Kebbi	11.477	4.572	2	
 Takasaba	Gummi	Zamfara	12.122	5.307	2	
 Tara	Sabon Birni	Sokoto	13.468	6.360	2	
@@ -97,7 +112,6 @@ Tanyo	Shanga	Kebbi	11.091	4.868	2
 Tapki Dorowa	Koko-Besse	Kebbi	11.335	4.290	2	
 Tanera	Silame	Sokoto	12.917	4.718	2	
 Tambo-Boka	Arewa Dandi	Kebbi	12.837	4.013	2	
-Tambawal	Tambuwal	Sokoto	12.404	4.647	3	Tambuwal
 Talagbene	Southern Ijaw	Bayelsa	4.559	5.863	2	
 Rakada-Tanko	Maru	Zamfara	11.374	6.071	2	
 Taure	Kirfi	Bauchi	10.432	10.445	2	
@@ -127,8 +141,6 @@ Tafiyau	Kubau	Kaduna	10.743	8.208	2	Unguwan Tafiyau
 Tafarka	Yabo	Sokoto	12.756	4.814	2	
 Takatuku	Bodinga	Sokoto	12.886	5.176	2	
 Ungwan Tabkin Fili	Isa	Sokoto	13.300	6.702	2	Unguwar Tabkin Fili
-Talasse	Balanga	Gombe	9.969	11.680	3	
-Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.761	9.553	3	
 Ungwa Tanari	Birnin Kebbi	Kebbi	12.520	4.085	2	
 Takkos	Pankshin	Plateau	9.467	9.371	2	
 Tangwale	Wamako	Sokoto	13.168	5.252	2	
@@ -167,6 +179,7 @@ Tadwea	Dambatta	Kano	12.370	8.687	2
 Takulashi	Chibok	Borno	10.794	12.723	2	Takulashi Buladunya
 Tarkwa	Amuwo Odofin	Lagos	6.402	3.394	2	
 Takuri	Sule Tankakar	Jigawa	12.586	9.049	2	
+Wuro Tafida	Jalingo	Taraba	8.953	11.268	2	
 Tabira	Baruten	Kwara	9.073	2.939	2	
 Gidan Tambari	Gada	Sokoto	13.653	5.878	2	
 Tambagarka	Wurno	Sokoto	13.283	5.847	2	
@@ -181,6 +194,7 @@ Tata	Yewa North	Ogun	7.100	2.883	2	Tata Market
 Tashar-Bundun	Gummi	Zamfara	12.072	4.883	2	
 Takulawa	Tsafe	Zamfara	11.915	7.018	2	
 Tabani-Marabawa	Maru	Zamfara	11.351	6.543	2	
+Tamnyar	Sardauna	Taraba	6.533	11.233	2	Tamian
 Tafan	Barkin Ladi	Plateau	9.617	8.967	2	Nafam
 Tare	Sanga	Kaduna	9.211	8.569	2	
 Wuro Talla	Yola North	Adamawa	9.350	12.283	2	
@@ -209,6 +223,7 @@ Tafingarda	Ganjuwa	Bauchi	10.808	10.329	2	Tungan Garda
 Taboga	Ikpoba-Okha	Edo	6.367	5.650	2	
 Taberima	Rafi	Niger	10.417	6.083	2	Taberlma
 Wuro Tammai	Girei	Adamawa	9.317	12.467	2	Bam
+Tabari Jauro Manu	Ardo-Kola	Taraba	8.719	11.261	2	
 Talabani	Tangaza	Sokoto	13.531	4.743	2	
 Takumpata	Wushishi	Niger	9.550	6.200	2	Takun Pata;Mekira
 Tawasu	Hawul	Borno	10.477	12.282	2	
@@ -226,23 +241,16 @@ Takpani	Kaura Namoda	Zamfara	12.454	6.573	2
 Dan Tasakko	Goronyo	Sokoto	13.193	5.784	2	Dantasaku
 Tamigbe	Burutu	Delta	5.079	5.787	2	
 Wine Tappers	Burutu	Delta	5.263	5.782	2	
-Tarauni Market	Tarauni	Kano	11.975	8.559	0	
-Tanyi Filling Station	Oredo	Edo	6.329	5.591	0	
-Taddangari Primary Health Centre	Bichi	Kano	12.235	8.309	0	
-Tatsan Health Post	Tsanyawa	Kano	12.289	8.093	0	
-Dadin Kowa	Doguwa	Kano	10.699	8.628	3	Tasha
 Unguwar Tanko	Doguwa	Kano	10.699	8.664	2	Tanko
 Tagwaye	Doguwa	Kano	10.778	8.596	2	Tsangayar Kudu
 Yan Tabarmi	Doguwa	Kano	11.103	8.593	2	
 Hayin Tama	Sumaila	Kano	11.114	8.852	2	
 Tarauni	Tarauni	Kano	11.977	8.560	2	
-Tamburawa	Dawakin Kudu	Kano	11.870	8.533	3	Tanburawa
 Tashar Inji	Tudun Wada	Kano	11.282	8.338	2	
 Unguwar Mai Tashe	Tudun Wada	Kano	11.341	8.345	2	
 Yaryasa	Tudun Wada	Kano	11.336	8.307	2	Yaryasa-ta-Yamma
 Ruwan Tabo	Tudun Wada	Kano	11.322	8.350	2	
 Tafashiyar Malamai	Tsanyawa	Kano	12.214	8.080	2	Tafahiya
-Tashar Gadau	Katagum	Bauchi	11.688	10.188	0	
 Tabadama	Madarounfa	Katsina	13.109	7.143	2	
 Tashan Gauta	Hawul	Borno	10.581	12.033	2	
 Tashan Itache	Bayo	Borno	10.369	11.641	2	
@@ -295,7 +303,6 @@ Taksaku	Kwaya Kusar	Borno	10.395	12.016	2
 Taukari	Hawul	Borno	10.330	12.088	2	Tuwakari
 Tawasu	Hawul	Borno	10.402	12.075	2	
 Hyera Taptsara	Hawul	Borno	10.476	12.301	2	
-Madrasatu Tarbiyyatul Awladul Muslimin	Kaduna South	Kaduna	10.531	7.404	0	
 Taboksha	Hawul	Borno	10.462	12.308	2	
 Tagi	Hawul	Borno	10.475	12.407	2	
 Taptsara	Hawul	Borno	10.473	12.309	2	
@@ -321,20 +328,12 @@ Tarfa A	Biu	Borno	10.610	12.434	2
 Tarfa Bulama B	Biu	Borno	10.617	12.432	2	
 Tarwa	Hawul	Borno	10.575	12.364	2	
 Tangayel	Biu	Borno	10.695	12.072	2	
-Tandari Fsp	Bama	Borno	11.528	13.695	0	
 Tampul	Askira-Uba	Borno	10.578	13.223	2	
-Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.771	9.557	0	
-Tafoki	Faskari	Katsina	11.622	7.276	0	
 Tabani	Gada	Sokoto	13.797	5.727	2	
-Taurari Trend Setters School	Kaduna North	Kaduna	10.552	7.456	0	
-Tamic Nig.Ltd Filling Station	Yenegoa	Bayelsa	4.931	6.324	0	
-Tare PET Montessoy Group of Schools	Yenegoa	Bayelsa	4.928	6.310	0	
 Taala Kura	Monguno	Borno	12.362	13.595	2	
 Boo Taango	Monguno	Borno	12.526	13.647	2	
 Taala Gana	Monguno	Borno	12.358	13.593	2	
 Mangal Tamsuwa	Monguno	Borno	12.479	13.505	2	
-Tadaerigha Ventures Filling Station	Yenegoa	Bayelsa	4.940	6.338	0	
-TAMIC Filling Station	Yenegoa	Bayelsa	4.953	6.344	0	
 Awulkite	Gudu	Sokoto	13.623	4.412	2	Awulkin Takare
 Mallam Tarti	Guzamala	Borno	12.888	13.544	2	
 Tarti Modu Kurye	Guzamala	Borno	12.741	13.436	2	
@@ -347,7 +346,6 @@ Tamsu Kori	Kaga	Borno	11.877	12.658	2
 Tarwoshe Kalti	Konduga	Borno	11.643	13.205	2	
 Tarwashe Kura	Konduga	Borno	11.645	13.208	2	
 Tarmua Musa	Konduga	Borno	11.722	13.197	2	
-Tani-Tobi Filling Station	Obio/Akpor	Rivers	4.843	7.041	0	
 Takwattawa	Isa	Sokoto	13.212	6.345	2	
 Takakume	Goronyo	Sokoto	13.474	5.883	2	
 Tabani	Gada	Sokoto	13.608	5.539	2	
@@ -359,10 +357,7 @@ Tashar Kaiwa	Talata Mafara	Zamfara	12.285	6.164	2
 Tashar Abu	Bungudu	Zamfara	12.249	6.499	2	
 Tasha R Mayanchi	Maru	Zamfara	12.360	6.256	2	
 Tanza Titi	Tambuwal	Sokoto	12.090	4.558	2	
-Asana Tatonmi Market	Ile Oluji/Okeigbo	Ondo	7.121	4.742	0	
 Afana Tayu	Zangon Kataf	Kaduna	9.540	8.199	2	
-Takie Garage	Ogbomosho North	Oyo	8.136	4.238	0	
-PHC Rinin Tawaye	Sokoto North	Sokoto	13.064	5.243	0	
 Tantasau	Gwarzo	Kano	11.844	7.973	2	
 Tasawar Gimba	Gwarzo	Kano	11.823	7.933	2	Sabon Gari Kara
 Unguwar Talle	Kiru	Kano	11.564	8.207	2	
@@ -392,14 +387,12 @@ Tanagar	Warawa	Kano	11.953	8.691	2
 Koya	Minjibir	Kano	12.119	8.628	2	Koya Tadeta
 Tashar Bako	Minjibir	Kano	12.177	8.705	2	
 Takalmawa	Gabasawa	Kano	12.205	8.844	2	Takalmawa Tsofoa
-Tahade	Gabasawa	Kano	12.179	8.912	3	
 Tankaru Cikin Gari	Gabasawa	Kano	12.084	8.910	2	
 Tarauni	Gabasawa	Kano	12.112	8.899	2	
 Madarin Taba 1	Warawa	Kano	11.959	8.741	2	
 Tararraba	Gezawa	Kano	12.016	8.768	2	
 Madarin Taba 2	Warawa	Kano	11.940	8.732	2	
 Takai	Dawakin Kudu	Kano	11.864	8.560	2	
-Tabuli	Gaya	Kano	11.772	8.935	3	Kadem;Kademi
 Takakwadi	Wudil	Kano	11.694	8.884	2	
 Taushen Kaji	Takai	Kano	11.399	9.178	2	
 Tarende	Takai	Kano	11.421	9.203	2	
@@ -413,65 +406,908 @@ Tai Tai	Rano	Kano	11.503	8.573	2
 Tanigel	Tudun Wada	Kano	11.345	8.474	2	
 Tashar Idi	Rano	Kano	11.461	8.440	2	
 Tadin Tasha	Rano	Kano	11.528	8.512	2	
-General Hospital, Sabon Tasha	Chikun	Kaduna	10.451	7.468	0	
-Geneneral Hospital Tangaza	Tangaza	Sokoto	13.365	4.947	0	
-Tashan Goigoi Clinic	Gwoza	Borno	11.071	13.690	0	
-Tashan Gurgu Health Post	Demsa	Adamawa	9.338	11.863	0	
-Tashan Gurugu Health Post	Demsa	Adamawa	9.338	11.862	0	
-Tawa Health Post	Fufore	Adamawa	9.002	12.401	0	
-Health Post Tasha Tiding	Hong	Adamawa	10.135	12.965	0	
 Taura	Toro	Bauchi	10.463	8.798	2	
-Taimako Hospital And Maternity	Chanchaga	Niger	9.618	6.551	0	
-Joke Taiwo Primary School, Apebi	Ado Odo/Ota	Ogun	6.675	3.126	0	
-Joke Taiwo Primary School, Apebi	Ìjẹ̀bú Òde	Ogun	6.818	3.930	0	
-Community Primary School, Barayira Tai	Tai	Rivers	4.744	7.203	0	
-La tahzan clinic and maternity	Jos North	Plateau	9.924	8.898	0	
-Young Tajudeen Primary School, Ido-Osun	Egbedore	Osun	7.784	4.486	0	
-Tabu	Akwanga	Nasarawa	8.969	8.430	3	
-Madaratsul tafuzal quran	Municipal Area Council	FCT Abuja	9.017	7.422	0	
-Tuberculosis and Leprosy center Tapa	Ibarapa North	Oyo	7.556	3.228	0	
-Six bed Primary Health care, Tapa	Ibarapa North	Oyo	7.562	3.235	0	
-Tashan Boi	Bogoro	Bauchi	9.562	9.507	0	
-Tank market	Obio/Akpor	Rivers	4.864	7.057	0	
-Yusuf Dantsoho Hospital Kv 206 Lbrahim Taiwo Road Tudun Wada Kaduna	Kaduna South	Kaduna	10.512	7.411	0	
-Hospitals No13a Tafoki Road Kabala West	Kaduna South	Kaduna	10.503	7.396	0	
-General Hospital Sabon Tasha St Simon Catholic Church	Chikun	Kaduna	10.428	7.528	0	
-General Hospital Sabon Tasha Down The Market Road Maraban Rido	Chikun	Kaduna	10.426	7.533	0	
-General Hospital Sabon Tasha Karatudu Road	Chikun	Kaduna	10.425	7.415	0	
-General Hospital Sabon Tasha Danhoni Street Ungwan Tanko	Chikun	Kaduna	10.422	7.417	0	
-General Hospital Sabon Tasha Firoro Road Uboro Sabon Tasha Kaduna	Chikun	Kaduna	10.451	7.469	0	
-Taffi Awori Primary Health Centre	Badagry	Lagos	6.408	3.074	0	
-Taqwa Hospital	Alimosho	Lagos	6.667	3.251	0	
-Top Talent Hospital	Alimosho	Lagos	6.603	3.292	0	
-Taofiq Amabi Global service	Iwo	Osun	7.644	4.168	0	
-TALENT INTERNATIONAL	Ungongo	Kano	12.040	8.566	0	
-TALENT INTL ACADEMY	Ungongo	Kano	12.037	8.566	0	
-MADARASATUL TA'ALIMUL QUR'AN	Ungongo	Kano	12.040	8.570	0	
-DAN TAMASHE JUNIOR SECONDARY SCHOOL	Ungongo	Kano	12.050	8.580	0	
-DAN TAMASHE HOSPITAL	Ungongo	Kano	12.049	8.580	0	
-MAKARANTAR TASIU MAI ALMAJIRAI	Gwale	Kano	11.961	8.467	0	
-TALENT BEST ACADEMY	Gwale	Kano	11.955	8.472	0	
-BEST TALENTS ACADEMY	Gwale	Kano	11.969	8.472	0	
 Tagwona	Malam Maduri	Jigawa	12.604	10.176	2	
 Jawalki Zango Tachalao	Madaoua	Sokoto	13.682	6.229	2	
-Balogun Nursery & Primary School Ibrahim Taiwo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.483	4.551	0	
-Tipper Garage Road, Tanke, Ilorin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.604	0	
-Edinwo Mall, Fate Tanke Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.602	0	
-Bovas, Ibrahim Taiwo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.482	4.548	0	
-MFM Junction Bus Stop, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.621	0	
-Galad College Of Advanced Studies, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.612	0	
-Anchormed Hospital, Tanke Tipper Garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.602	0	
-Pipeline bustop, tanke tipper garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.603	0	
-Heavens gate redeem, F Division Road, Tanke	Ilorin South	Kwara	8.499	4.588	0	
-ijede/tarzan	Ìkòròdú	Lagos	6.563	3.589	0	
-Tarkwa Bay	Amuwo Odofin	Lagos	6.401	3.397	0	
-badore jetty (tarzan)	Eti Osa	Lagos	6.515	3.606	0	
+Tapa	Ibarapa North	Oyo	7.563	3.240	2	
+Guji M Tallari	Borsari	Yobe	12.895	11.637	2	
+Taganama	Machina	Yobe	12.846	9.827	2	
+Tashena	Malam Maduri	Jigawa	12.434	9.988	2	
+Tsugum Tagali	Barde	Yobe	12.758	10.643	2	
+Taura	Taura	Jigawa	12.202	9.279	2	
+Takatsaba	Sule Tankakar	Jigawa	12.507	9.299	2	
+Taura	Taura	Jigawa	12.272	9.362	2	
+Tagoro	Malam Maduri	Jigawa	12.598	10.139	2	
+Tasheguwa	Kiri Kasama	Jigawa	12.530	10.100	2	
+Sule Tankakar	Sule Tankakar	Jigawa	12.625	9.175	2	
+Takwasa	Babura	Jigawa	12.599	8.879	2	
+Gagarawa Tasha	Gagarawa	Jigawa	12.413	9.595	2	
+Makera-Take Tsaba	Talata Mafara	Zamfara	12.485	6.123	2	
+Talata Mafara	Talata Mafara	Zamfara	12.399	6.083	2	
+Bodinga Tauma	Bodinga	Sokoto	12.834	5.160	2	
+Takatsaba	Sabon Birni	Sokoto	13.571	6.395	2	
+Tarah	Sabon Birni	Sokoto	13.470	6.403	2	
+Tangaza	Tangaza	Sokoto	13.423	4.894	2	
+Tambagarka	Gwadabawa	Sokoto	13.385	5.351	2	
+Takakume	Goronyo	Sokoto	13.520	5.813	2	
+Takatuku Madorawa	Bodinga	Sokoto	12.908	5.176	2	
+Tangaza	Tangaza	Sokoto	13.479	4.970	2	
+Tambuwal	Tambuwal	Sokoto	12.381	4.659	2	
+Takware	Koko-Besse	Kebbi	11.323	4.481	2	
+Kola Tarasa	Birnin Kebbi	Kebbi	12.455	4.121	2	
+Tadurga	Zuru	Kebbi	11.584	5.459	2	
+Tambuwal	Tambuwal	Sokoto	12.399	4.943	2	
+Takware	Shanga	Kebbi	11.332	4.572	2	
+Gidan Tagwai	Kachia	Kaduna	9.731	8.023	2	
+Tantattu	Kajuru	Kaduna	10.201	7.620	2	
+Taba	Kudan	Kaduna	11.243	7.789	2	
+Takau	Jema'A	Kaduna	9.550	8.258	2	
+Sabon Tasha	Chikun	Kaduna	10.438	7.472	2	
+Tarai	Kibiya	Kano	11.477	8.713	2	
+Tamburawan Gabas	Warawa	Kano	11.947	8.673	2	
+Takai	Takai	Kano	11.570	9.091	2	
+Tagwaye	Doguwa	Kano	10.851	8.615	2	
+Tabo	Makoda	Kano	12.489	8.412	2	
+Tatsan	Tsanyawa	Kano	12.306	8.077	2	
+Tanburawa	Dawakin Kudu	Kano	11.855	8.530	2	
+Tanagar	Warawa	Kano	11.975	8.692	2	
+Tattarawa	Dawakin Tofa	Kano	12.199	8.410	2	
+Tamawa	Rimin Gado	Kano	11.906	8.327	2	
+Tangaji	Makoda	Kano	12.297	8.496	2	
+Tarauni	Tarauni	Kano	11.961	8.565	2	
+Tabanni-Yarraddau	Musawa	Katsina	12.088	7.850	2	
+Tafoki	Faskari	Katsina	11.665	7.299	2	
+Tandama	Danja	Katsina	11.468	7.474	2	
+Tsagem Takusheyi	Mani	Katsina	12.974	7.854	2	
+Tamilo B	Mashi	Katsina	13.180	7.955	2	
+Tamilo A	Mashi	Katsina	13.096	7.900	2	
+Tafashiya Nasarawa	Kankia	Katsina	12.486	7.808	2	
+Tama	Bindawa	Katsina	12.626	7.957	2	
+Taramnawa	Baure	Katsina	12.810	8.923	2	
+Tarka	Tarka	Benue	7.615	8.824	2	
+Tafa	Tafa	Niger	9.238	7.259	2	
+Tai	Tai	Rivers	4.770	7.262	2	
+Tamsu Ngamdua	Mafa	Borno	11.818	13.282	2	
+Takai	Takai	Kano	11.485	9.156	2	
+Tapshin	Tafawa-Balewa	Bauchi	9.548	9.428	2	
+Tarmasuwa	Gamawa	Bauchi	11.818	10.755	2	
+Tama	Toro	Bauchi	10.661	8.957	2	
+Tarbuwa	Zaki	Bauchi	12.306	10.465	2	
+Taranka	Gamawa	Bauchi	11.773	10.626	2	
+Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.844	9.593	2	
+Tauya East	Darazo	Bauchi	10.907	10.496	2	
+Tauya West	Darazo	Bauchi	10.926	10.395	2	
+Tarmua	Tarmua	Yobe	12.227	11.832	2	
+Hausari Tampul	Askira-Uba	Borno	10.562	13.211	2	
+Takum	Takum	Taraba	7.051	9.796	2	
+Yebi Tamsugua	Kukawa	Borno	13.149	13.561	2	Alagarno|Yebi-Tamsugua
+Yaryasa-ta-Yamma	Tudun Wada	Kano	11.334	8.308	2	
+Yan Tashar	Malumfashi	Katsina	11.964	7.746	2	
+Yan Talata	Kafur	Katsina	11.766	7.689	2	
+Yalwa ta Arewa	Tudun Wada	Kano	11.345	8.431	2	
+Wuro Taya	Hong	Adamawa	10.200	12.800	2	
+Wuro Taraki	Dukku	Gombe	10.859	10.658	2	
+Wuro Tara	Dukku	Gombe	10.818	10.668	2	
+Wuro Tammai	Girei	Adamawa	9.321	12.457	2	Bam
+Wuro Tale	Dukku	Gombe	10.971	10.774	2	
+Wuro Tafida	Lau	Taraba	9.247	11.364	2	
+Wakili Tappare	Ardo-Kola	Taraba	8.612	11.255	2	
+Ungwan Tabi	Giwa	Kaduna	11.067	7.552	2	
+Ungwan Sarikin Taba	Maru	Zamfara	11.264	6.493	2	
+Unguwar Taro	Rafi	Niger	10.520	6.369	2	
+Unguwar Tanko	Doguwa	Kano	10.672	8.668	2	Tanko
+Unguwar Tabkin Fili	Isa	Sokoto	13.299	6.700	2	Ungwan Tabkin Fili
+Tunga Tarkwata	Shanga	Kebbi	10.893	4.809	2	Tungan Tarkwata
+Tungan Rafin Taba	Birnin Gwari	Kaduna	10.717	6.717	2	
+Tungan Makerere	Kebbe	Sokoto	11.564	4.523	2	Baka Tara
+Tulua Takabawa	Gudu	Sokoto	13.283	4.283	2	
+Tatongabiya	Toto	Nasarawa	8.437	7.102	2	Toton Gebia|TotonGebia
+Topo	Badagry	Lagos	6.410	2.931	2	Tawpo
+Tonkere	Aiyedade	Osun	7.611	4.507	2	Tawnkerre
+Tofa	Ipokia	Ogun	6.476	2.862	2	Tafa
+Tazga	Guri	Jigawa	12.605	10.595	2	
+Tazarang	Yorro	Taraba	8.764	11.487	2	
+Tazara	Jahun	Jigawa	12.101	9.707	2	
+Tazane	Kogi	Kogi	8.259	6.865	2	
+Taza	Hawul	Borno	10.552	12.106	2	
+Tayueh Sawaa	Konshisha	Benue	7.159	8.542	2	
+Tayu	Sanga	Kaduna	9.298	8.618	2	
+Tayor-Anunde	Konshisha	Benue	7.183	8.658	2	
+Tayo	Fune	Yobe	11.934	11.070	2	
+Tayershima	Konshisha	Benue	7.119	8.742	2	
+Taxmen	Ushongo	Benue	7.242	8.976	2	
+Tawari	Kogi	Kogi	8.256	6.885	2	
+Tawa Jabbi	Fufore	Adamawa	9.015	12.388	2	
+Tawa Fulani	Fufore	Adamawa	9.028	12.386	2	
+Tawa Dundere	Fufore	Adamawa	9.029	12.378	2	
+Tawa	Fufore	Adamawa	8.993	12.388	2	
+Tawa	Jada	Adamawa	8.592	12.026	2	
+Tavo	Yorro	Taraba	8.936	11.394	2	
+Taura	Toro	Bauchi	10.534	9.050	2	
+Taude	Darazo	Bauchi	11.217	10.517	2	
+Tau	Paikoro	Niger	9.438	6.704	2	
+Tua	Ardo-Kola	Taraba	9.070	11.102	2	Jakan|Tau
+Tatu	Shiroro	Niger	10.498	6.867	2	
+Tatindoro	Donga	Taraba	7.357	10.481	2	
+Tatiko	Paikoro	Niger	9.417	6.590	2	Tachigo
+Tati	Ussa	Taraba	7.286	10.163	2	
+Tattaura	Sanga	Kaduna	9.205	8.487	2	Zambur
+Tatarawa	Dawakin Tofa	Kano	12.179	8.385	2	
+Tasu Bappa	Fufore	Adamawa	9.532	13.121	2	
+Tasso	Jada	Adamawa	8.781	12.106	2	
+Tasawa	Babura	Jigawa	12.652	8.705	2	Tassawa
+Tassawa	Babura	Jigawa	12.565	8.651	2	
+Tassa	Yorro	Taraba	8.777	11.640	2	
+Taso	Mayo-Belwa	Adamawa	8.757	11.899	2	
+Taskoram	Nganzai	Borno	12.662	13.097	2	Toskorom
+Taskai	Misau	Bauchi	11.450	10.633	2	
+Tashon Guyaku	Gombi	Adamawa	10.325	12.667	2	
+Tashon Alade	Hawul	Borno	10.488	12.420	2	
+Tashau	Fufore	Adamawa	8.871	12.698	2	
+Tashar Magus	Malumfashi	Katsina	11.965	7.734	2	
+Tashar Filani	Malumfashi	Katsina	11.706	7.521	2	
+Tashan Gidan Waya	Ganjuwa	Bauchi	10.566	10.085	2	
+Tashandori	Yusufari	Yobe	13.226	11.075	2	Ligaleri Kuram
+Tasha Ganji	Kankia	Katsina	12.352	7.679	2	
+Tasha Wurdbege	Nafada	Gombe	11.063	11.143	2	Tasha
+Tasha	Hawul	Borno	10.558	12.025	2	
+Tasha	Shani	Borno	10.073	12.039	2	
+Tasha	Municipal Area Council	FCT Abuja	9.084	7.325	2	
+Tasaya	Sumaila	Kano	11.411	8.959	2	
+Tasa	Maru	Zamfara	11.486	6.321	2	
+Tarzanor	Gboko	Benue	7.279	8.642	2	
+Taryohol	Konshisha	Benue	7.046	8.796	2	
+Taruwa	Ori Ire	Oyo	8.323	4.331	2	
+Tarpush	Konshisha	Benue	7.220	8.514	2	
+Taroa	Gboko	Benue	7.218	8.738	2	
+Tarma	Gboko	Benue	7.247	8.642	2	
+Tarma	Konshisha	Benue	7.190	8.570	2	
+Tarkura	Konshisha	Benue	7.071	8.783	2	
+Takai	Nafada	Gombe	11.143	11.133	2	Tarki
+Tarka	Konshisha	Benue	7.343	8.564	2	
+Tariya	Gwer East	Benue	7.370	8.544	2	
+Tari	Gwandu	Kebbi	12.409	4.492	2	
+Tari	Sanga	Kaduna	9.219	8.563	2	Tare
+Tarhembe	Takum	Taraba	7.339	10.113	2	
+Targel	Tudun Wada	Kano	11.375	8.491	2	
+Tarfuta	Gombi	Adamawa	10.242	12.379	2	
+Tareshi	Dutsin Ma	Katsina	12.466	7.624	2	
+Tarbi	Lere	Kaduna	10.209	8.519	2	
+Tarau	Bebeji	Kano	11.487	8.221	2	
+Tarasa	Birnin Kebbi	Kebbi	12.466	4.167	2	
+Tarari	Kukawa	Borno	12.930	13.615	2	Bulabulin
+Tarana	Maigatari	Jigawa	12.644	9.564	2	
+Taramal	Alkaleri	Bauchi	9.707	10.160	2	
+Taram	Qua'An Pan	Plateau	8.786	9.148	2	Shindei
+Taraku	Ussa	Taraba	7.318	10.190	2	
+Taraku	Gwer East	Benue	7.257	8.265	2	
+Tarai	Kibiya	Kano	11.505	8.675	2	
+Tarabaji	Ganjuwa	Bauchi	10.715	10.284	2	
+Tar	Gwer East	Benue	7.398	8.182	2	
+Tar	Ushongo	Benue	7.040	8.954	2	
+Tappi	Kwami	Gombe	10.494	11.055	2	
+Tappare	Mubi North	Adamawa	10.210	13.179	2	
+Tappare	Mubi North	Adamawa	10.115	13.200	2	
+Tapola	Ido	Oyo	7.517	3.800	2	
+Tapo	Asa	Kwara	8.356	4.463	2	
+Tapkin Fuss	Gudu	Sokoto	13.561	4.531	2	
+Tapichima	Hong	Adamawa	10.214	12.994	2	
+Taparu	Mayo-Belwa	Adamawa	8.860	12.019	2	
+Tapare	Fufore	Adamawa	8.968	12.601	2	
+Tapare	Fufore	Adamawa	8.952	12.432	2	
+Tapare	Fufore	Adamawa	8.843	12.446	2	
+Tapare	Jada	Adamawa	8.714	12.493	2	
+Tapare	Jada	Adamawa	8.661	12.016	2	
+Tapare	Ganye	Adamawa	8.437	12.073	2	
+Tapare	Ganye	Adamawa	8.337	12.165	2	
+Tapare	Wukari	Taraba	8.062	10.186	2	
+Tapare	Kurmi	Taraba	7.174	10.608	2	
+Tapa	Asa	Kwara	8.469	4.439	2	
+Tapa	Ori Ire	Oyo	8.055	4.152	2	
+Tapa	Ibarapa North	Oyo	7.805	3.214	2	
+Tapa	Ifo	Ogun	6.650	3.450	2	
+Tantule	Jada	Adamawa	8.707	12.611	2	
+Tantila	Mubi North	Adamawa	10.259	13.356	2	
+Tanong	Konshisha	Benue	7.191	8.528	2	
+Tankwasari	Suru	Kebbi	11.612	3.884	2	
+Tankuri	Jibia	Katsina	12.917	7.400	2	
+Tankoke	Ola Oluwa	Osun	7.804	4.247	2	
+Tanko	Kurmi	Taraba	7.297	10.850	2	
+Tankarau	Zaria	Kaduna	11.073	7.617	2	
+Tanjo	Sardauna	Taraba	6.801	10.966	2	
+Tanimo	Egbeda	Oyo	7.384	4.053	2	
+Tangurmi	Biu	Borno	10.704	12.161	2	
+Tango	Biu	Borno	10.835	11.741	2	
+Tangele	Song	Adamawa	10.027	12.278	2	
+Tangbula	Donga	Taraba	7.860	10.294	2	
+Tangasa	Gombi	Adamawa	10.070	12.520	2	
+Tanganama	Machina	Yobe	12.843	9.820	2	Taganama
+Tangalanga	Bama	Borno	11.311	14.251	2	
+Tangalan	Billiri	Gombe	9.835	11.181	2	
+Tanga	Hawul	Borno	10.562	12.179	2	
+Tanga	Shelleng	Adamawa	9.967	12.169	2	
+Tandratu	Hong	Adamawa	10.338	12.804	2	
+Tandoma	Dekina	Kogi	7.650	7.017	2	
+Tando	Abaji	FCT Abuja	9.213	6.842	2	
+Tandama	Danja	Katsina	11.440	7.442	2	
+Tandabikum	Ussa	Taraba	7.209	10.184	2	
+Tanda	Jema'A	Kaduna	9.431	8.187	2	
+Tanapu	Kogi	Kogi	8.323	6.846	2	
+Tanadone	Kurmi	Taraba	7.131	10.677	2	
+Tamsuguwa	Monguno	Borno	12.733	13.559	2	Tamsaguwa
+Sabongari Tampul	Askira-Uba	Borno	10.582	13.178	2	
+Tamnyar	Sardauna	Taraba	6.529	11.238	2	Tamian
+Tamna	Safana	Katsina	12.366	7.274	2	
+Tami	Igabi	Kaduna	10.783	7.450	2	
+Tame	Takum	Taraba	7.328	10.071	2	
+Tandigi	Katcha	Niger	9.441	6.183	2	
+Tambila	Toro	Bauchi	10.165	9.288	2	
+Tambes	Pankshin	Plateau	9.379	9.412	2	Tambus
+Tambal	Shira	Bauchi	11.517	9.900	2	
+Tambaji	Shiroro	Niger	10.384	6.660	2	
+Tambajam	Fufore	Adamawa	9.178	12.817	2	
+Tamba	Ningi	Bauchi	11.045	8.878	2	
+Tamati	Hong	Adamawa	10.265	12.960	2	
+Tamarke	Bakori	Katsina	11.518	7.560	2	
+Tamana	Fika	Yobe	11.211	11.186	2	
+Tammah	Nasarawa	Nasarawa	8.562	7.724	2	Tamaha
+Tama	Bindawa	Katsina	12.608	7.915	2	
+Tama	Hawul	Borno	10.314	12.062	2	
+Talum	Billiri	Gombe	9.750	11.000	2	
+Talontan	Akinyele	Oyo	7.624	3.955	2	
+Tuluka	Goronyo	Sokoto	13.447	5.696	2	Taloka|Taluka
+Talo	Kauru	Kaduna	10.018	8.572	2	
+Talli	Yorro	Taraba	8.864	11.450	2	
+Talkwa	Hawul	Borno	10.544	12.188	2	
+Taljuwa	Jakusko	Yobe	12.798	11.026	2	
+Taliaji	Kirfi	Bauchi	10.411	10.612	2	
+Tali	Gombi	Adamawa	10.145	12.305	2	
+Tali	Fufore	Adamawa	8.834	12.496	2	
+Talaba	Tangaza	Sokoto	13.459	4.844	2	Talba
+Talagala	Damboa	Borno	11.228	12.316	2	
+Tal	Billiri	Gombe	9.819	11.171	2	
+Takworiki	Kuje	FCT Abuja	8.622	7.325	2	Tugwa
+Takwasa	Babura	Jigawa	12.556	8.892	2	
+Tekpagi	Mokwa	Niger	9.203	5.396	2	Takwagi
+Takuri	Sule Tankakar	Jigawa	12.584	9.047	2	
+Takura	Kwali	FCT Abuja	8.816	6.830	2	
+Taku-Oyo	Atiba	Oyo	8.032	3.929	2	Taku Oyo
+Takumpara	Paikoro	Niger	9.270	6.588	2	Takunpara
+Takunda	Kwali	FCT Abuja	8.882	6.898	2	
+Takumpata	Wushishi	Niger	9.556	6.195	2	Mekira|Takun Pata
+Takumena	Bassa	Kogi	7.540	6.722	2	
+Takulashi Buladunya	Chibok	Borno	10.794	12.750	2	
+Takula	Zing	Taraba	8.842	11.681	2	
+Taksawat	Alkaleri	Bauchi	9.783	10.417	2	
+Taksak	Biu	Borno	10.663	11.958	2	
+Takpani	Kaura Namoda	Zamfara	12.452	6.586	2	
+Takoki	Talata Mafara	Zamfara	12.472	6.137	2	
+Tako	Asa	Kwara	8.549	4.390	2	
+Takko	Chikun	Kaduna	10.383	7.100	2	
+Taki	Tafawa-Balewa	Bauchi	9.634	9.938	2	
+Taki	Kabba/Bunu	Kogi	8.342	6.153	2	
+Takete-Ide	Mopa-Muro	Kogi	8.168	6.023	2	Takete|Takete Ide|Taketi
+Takete	Mopa-Muro	Kogi	8.155	5.808	2	Takate
+Takatuku	Bodinga	Sokoto	12.884	5.179	2	
+Takatsaba	Binji	Sokoto	13.133	4.550	2	
+Takarda	Maigatari	Jigawa	12.784	9.630	2	
+Takara	Guri	Jigawa	12.445	10.445	2	
+Takande	Girei	Adamawa	9.263	12.511	2	
+Takan	Mayo-Belwa	Adamawa	8.866	11.936	2	
+Takan	Ori Ire	Oyo	8.595	4.117	2	
+Takambul	Konshisha	Benue	7.133	8.667	2	
+Takalafiya	Miga	Jigawa	12.155	9.758	2	
+Takalafiya	Alkaleri	Bauchi	10.104	10.213	2	
+Takalafia	Kubau	Kaduna	10.963	8.376	2	
+Taka Lafia	Suru	Kebbi	11.960	4.082	2	Takalafiya
+Taka Fulani	Gassol	Taraba	8.599	10.678	2	
+Takabundu	Toro	Bauchi	10.208	9.309	2	
+Takabawa	Safana	Katsina	12.503	7.413	2	
+Tajiri Kila	Jada	Adamawa	8.717	12.462	2	
+Tajiri	Maigatari	Jigawa	12.626	9.768	2	
+Tajimi	Lokoja	Kogi	8.020	6.607	2	
+Tagimba	Tangaza	Sokoto	13.590	4.780	2	Tajimba
+Tajan Kasa	Jema'A	Kaduna	9.525	8.551	2	
+Taiye	Orolu	Osun	7.934	4.495	2	
+Taiwo Olobi	Akinyele	Oyo	7.517	3.933	2	
+Taiwo	Atiba	Oyo	7.949	4.009	2	
+Taiwo	Yewa North	Ogun	7.147	3.083	2	
+Tainho	Zing	Taraba	8.997	11.720	2	
+Tailafia	Babura	Jigawa	12.803	9.023	2	
+Taifir	Akwanga	Nasarawa	9.179	8.306	2	
+Tahum	Madagali	Adamawa	10.735	13.533	2	
+Tahiri	Abaji	FCT Abuja	9.255	7.010	2	
+Tahembe	Konshisha	Benue	7.327	8.607	2	
+Tahau	Demsa	Adamawa	9.512	12.165	2	
+Taharina	Yamaltu/Deba	Gombe	10.230	11.606	2	
+Tahamba	Konshisha	Benue	7.142	8.553	2	
+Tagwur	Alkaleri	Bauchi	9.883	10.033	2	
+Tagwaye	Garki	Jigawa	12.452	9.050	2	
+Tagwaye	Giade	Bauchi	11.358	10.166	2	
+Tagwaye	Igabi	Kaduna	10.504	7.338	2	
+Tagwayan Marke	Kafur	Katsina	11.793	7.842	2	
+Tagwar	Kuje	FCT Abuja	8.673	7.318	2	Tagwai|Takwa
+Tagudama	Kubau	Kaduna	10.755	8.306	2	
+Tagoshe	Gwoza	Borno	11.033	13.736	2	
+Tagkaw	Tangaza	Sokoto	13.524	4.829	2	Takau
+Tagimba	Gudu	Sokoto	13.708	4.600	2	El Tagimba|Yatagimba|Yatamgimba
+Tagima	Zing	Taraba	8.958	11.642	2	
+Tagbari	Munya	Niger	9.698	6.858	2	
+Tagaramta	Hawul	Borno	10.488	12.133	2	Tangaramta
+Tagama	Barde	Yobe	12.806	10.660	2	
+Tagali	Barde	Yobe	12.813	10.617	2	
+Tagadi	Gummi	Zamfara	11.973	5.054	2	
+Taga	Konshisha	Benue	7.096	8.628	2	
+Tafon	Surulere	Oyo	8.030	4.319	2	
+Tafoki	Faskari	Katsina	11.621	7.281	2	
+Tafoa	Jakusko	Yobe	12.559	10.606	2	
+Tafida Gwani	Bali	Taraba	8.234	11.113	2	
+Tafida	Ganye	Adamawa	8.331	12.182	2	
+Tafi	Badagry	Lagos	6.404	3.072	2	
+Tafe	Shani	Borno	10.177	12.172	2	
+Taffa	Gbako	Niger	9.140	6.174	2	
+Tafashiya	Kankia	Katsina	12.504	7.807	2	
+Tafarka	Yabo	Sokoto	12.756	4.816	2	
+Tafari	Bali	Taraba	8.608	11.737	2	
+Tafam	Jema'A	Kaduna	9.493	8.425	2	
+Tafa	Asa	Kwara	8.429	4.397	2	
+Taegh	Konshisha	Benue	7.174	8.594	2	
+Tadwea	Dambatta	Kano	12.367	8.683	2	
+Tadnim	Bogoro	Bauchi	9.616	9.798	2	
+Tading Ngurore	Ganye	Adamawa	8.551	11.864	2	Grori|Gurore
+Tade	Ido	Oyo	7.420	3.751	2	
+Tadagona	Katcha	Niger	9.339	6.184	2	
+Tachigi	Katcha	Niger	8.940	6.170	2	
+Tachiawa	Ingawa	Katsina	12.680	8.112	2	
+Tuburge	Mafa	Borno	11.806	13.808	2	Taburge
+Tabura	Biu	Borno	10.620	12.168	2	
+Taboron	Song	Adamawa	9.635	12.344	2	
+Tabon	Zing	Taraba	8.914	11.604	2	
+Tabolo	Kaga	Borno	11.541	12.543	2	
+Tabki	Biriniwa	Jigawa	12.916	10.031	2	
+Tabioloko	Moro	Kwara	9.067	4.717	2	
+Tabetebere	Baruten	Kwara	9.027	3.425	2	
+Tabela	Ningi	Bauchi	10.964	9.436	2	
+Tabau	Kagarko	Kaduna	9.414	7.298	2	
+Itabata	Ipokia	Ogun	6.611	2.776	2	Tabata
+Tabanni	Birnin Gwari	Kaduna	11.315	7.011	2	
+Tabanni	Igabi	Kaduna	10.883	7.300	2	
+Tabani	Bichi	Kano	12.246	8.156	2	
+Tabani	Danja	Katsina	11.333	7.550	2	
+Tabang Bulayahi	Askira-Uba	Borno	10.647	12.978	2	
+Tabang Bula Boni	Chibok	Borno	10.732	12.898	2	
+Tabang	Chibok	Borno	10.930	12.736	2	
+Tababo	Dutse	Jigawa	12.008	9.349	2	
+Taba	Soba	Kaduna	11.126	7.847	2	
+Taaji	Gboko	Benue	7.328	8.729	2	
+Salma Tappare	Song	Adamawa	10.018	13.033	2	
+Sabon Gida Tati	Ussa	Taraba	7.283	10.150	2	
+Riman Taini	Shanono	Kano	11.994	7.953	2	
+Rafin Tabo	Ikara	Kaduna	11.189	8.131	2	
+Rafin Taba	Giwa	Kaduna	11.000	7.317	2	
+Pella Tabilang	Kirfi	Bauchi	10.383	10.533	2	
+Oniwafin Tapa	Ibarapa North	Oyo	7.643	3.302	2	
+Oniwafin-Tapa	Ibarapa North	Oyo	7.618	3.227	2	Oniwafin Tapa|OniwafinTapa
+Okoloma-Tai	Tai	Rivers	4.766	7.280	2	Okoloma
+New Tangwagi	Wushishi	Niger	9.569	6.048	2	
+Malga-Tawa	Tangaza	Sokoto	13.686	5.102	2	
+Mai-Idon Taro	Barkin Ladi	Plateau	9.717	8.989	2	Mai Idon Taro|Mai Idontoro
+Linga Tassala	Demsa	Adamawa	9.504	12.125	2	
+Kwatan Taru	Karim Lamido	Taraba	8.741	10.553	2	
+Kutriko-Tachi	Agaie	Niger	9.241	6.489	2	
+Jauro Tapare	Jada	Adamawa	8.600	12.406	2	
+Jalingo Tara	Maiha	Adamawa	9.643	13.149	2	
+Ibibio Palm Tapper Settlement	Akuku Toru	Rivers	4.746	6.638	2	
+Gungu	Gassol	Taraba	8.674	10.358	2	Kawatataru|Kwata Taru
+Gidan Tarasilawa	Shiroro	Niger	9.937	6.723	2	
+Guidan Tanko	Bungudu	Zamfara	12.045	6.523	2	Gidan Tanko
+Gidan Tanko	Rafi	Niger	10.433	6.433	2	
+Gidan Tambari Kokwa	Shiroro	Niger	10.426	6.878	2	
+Gidan Takere	Bali	Taraba	7.548	10.462	2	
+Gidan Tangoi	Kachia	Kaduna	9.692	8.045	2	Gidan Tagwai
+Tangebe	Gudu	Sokoto	13.551	4.334	2	Gidan Maifada
+Tadun Wada	Fune	Yobe	11.860	11.193	2	Garin Mallam Haruna
+Dan Tatashi	Malumfashi	Katsina	11.983	7.696	2	
+Dan Tambara	Jibia	Katsina	12.967	7.133	2	
+Yan Tabaruma	Baure	Katsina	12.741	8.732	2	Dan Kuliya
+Bukan Tambari	Lafia	Nasarawa	8.441	8.545	2	
+Bella-Tappare	Fufore	Adamawa	9.271	12.897	2	Bella Tappare
+Balogun-Tapa	Abeokuta North	Ogun	7.261	3.264	2	Balogun Tapa
+Baba Tapa	Moro	Kwara	8.809	4.427	2	
+Baba-Tapa	Moro	Kwara	8.690	4.424	2	Baba Tapa
+Angwan Dutse Tabana	Yorro	Taraba	8.683	11.542	2	
+Abule Tailor	Atisbo	Oyo	8.338	3.357	2	
+Abule Lawal Tapa	Ibarapa North	Oyo	7.589	3.172	2	
+Tamaro	Apapa	Lagos	6.416	3.366	2	
+Tatala	Lagos Mainland	Lagos	6.509	3.386	2	
+Tarkwa Bay	Eti Osa	Lagos	6.425	3.409	2	Tarqua Bay
+Ungwan Tama	Igabi	Kaduna	10.540	7.381	2	
+Taiwo	Afijio	Oyo	7.686	3.904	2	
+Taiwo	Afijio	Oyo	7.659	3.901	2	
+Takursawa	Minjibir	Kano	12.229	8.587	2	
+Koya Tadeta	Minjibir	Kano	12.118	8.628	2	
+Tamawa	Gezawa	Kano	12.051	8.642	2	
+Takurza	Ungongo	Kano	12.064	8.532	2	
+Talakawa	Askira-Uba	Borno	10.876	13.105	2	
+Mil Talatin	Hong	Adamawa	10.288	13.088	2	
+Tamsugu	Bama	Borno	11.538	14.121	2	
+Take	Epe	Lagos	6.536	4.084	2	
+Talafanmu	Ijebu North	Ogun	6.925	3.967	2	
+Tangam	Song	Adamawa	10.005	12.439	2	
+Tapta	Gombi	Adamawa	10.058	12.496	2	
+Tangasa	Gombi	Adamawa	10.090	12.487	2	
+Tadaki	Gombi	Adamawa	10.106	12.466	2	
+Tabra	Gombi	Adamawa	10.109	12.392	2	
+Tafta	Gombi	Adamawa	10.142	12.383	2	
+Tashon	Hawul	Borno	10.308	12.157	2	
+Targisi	Hawul	Borno	10.418	12.160	2	
+Tawosu	Hawul	Borno	10.488	12.192	2	
+Taghamta	Gombi	Adamawa	10.113	12.453	2	
+Tarabakin	Potiskum	Yobe	11.714	11.132	2	
+Takper	Konshisha	Benue	7.066	8.484	2	
+Taa	Oturkpo	Benue	7.160	8.251	2	
+Takol	Gboko	Benue	7.446	8.930	2	
+Tarka	Gwer East	Benue	7.528	8.372	2	
+Tarzoho	Gwer West	Benue	7.605	8.207	2	
+Talaki	Guma	Benue	7.921	8.476	2	
+Taigal	Doma	Nasarawa	7.941	8.187	2	
+Tungan Taunna	Bagudo	Kebbi	11.471	3.564	2	
+Taful	Askira-Uba	Borno	10.504	13.016	2	
+Tasha	Babura	Jigawa	12.504	8.783	2	
+Tasawa Dabba	Dambatta	Kano	12.552	8.634	2	
+Tasan	Tsanyawa	Kano	12.280	8.074	2	
+Tafahiya	Tsanyawa	Kano	12.224	8.078	2	
+Tamilawa	Bagwai	Kano	12.144	8.072	2	
+Taura	Bagwai	Kano	12.078	8.230	2	
+Mallam Tashir	Garki	Jigawa	12.328	8.902	2	
+Takalmawa Karama	Gabasawa	Kano	12.200	8.860	2	
+Takalmawa Koma	Gabasawa	Kano	12.189	8.853	2	
+Takalmawa Tsofoa	Gabasawa	Kano	12.203	8.845	2	
+Marke Taike	Mani	Katsina	12.822	8.032	2	
+Takwurdawa	Roni	Jigawa	12.659	8.163	2	
+Takunde	Sandamu	Katsina	12.921	8.408	2	
+Tabang Bula Buba	Chibok	Borno	10.683	12.963	2	
+Durbi Takusheyi	Mani	Katsina	12.946	7.883	2	
+Taketsani	Rimi	Katsina	12.768	7.775	2	
+Tamdamwa	Rimi	Katsina	12.881	7.702	2	
+Tafashiya	Bindawa	Katsina	12.653	7.806	2	
+Taiba	Kankia	Katsina	12.579	7.898	2	
+Takasaba	Dutsin Ma	Katsina	12.393	7.476	2	
+Tashana Aleya	Dan Musa	Katsina	12.231	7.389	2	
+Tasha Margawa	Musawa	Katsina	12.107	7.741	2	
+Tasha Na Baba	Musawa	Katsina	12.062	7.725	2	
+Gidan Taka	Rafi	Niger	10.281	6.144	2	
+Gidan Tanko	Rafi	Niger	10.068	6.106	2	
+Tungan Taura	Gudu	Sokoto	13.233	4.387	2	
+Tantarkwai	Gada	Sokoto	13.795	5.552	2	
+Tajayi	Gada	Sokoto	13.584	5.690	2	
+Tajaye	Gada	Sokoto	13.537	5.564	2	
+Tarike	Illela	Sokoto	13.585	5.259	2	
+Takakunmi	Goronyo	Sokoto	13.521	5.831	2	
+Takure	Goronyo	Sokoto	13.492	5.889	2	
+Tajayi	Gwadabawa	Sokoto	13.363	5.300	2	
+Takalmawa	Wurno	Sokoto	13.277	5.405	2	
+Gagan-Tagwaye	Ngaski	Kebbi	10.320	4.564	2	
+Gidan-Tambare	Kware	Sokoto	13.185	5.236	2	
+Gidan Tanko	Goronyo	Sokoto	13.443	5.985	2	
+Tanko	Faskari	Katsina	11.852	7.289	2	
+Mallam Tanko	Faskari	Katsina	11.786	7.194	2	
+Dan Tauro	Faskari	Katsina	11.762	7.151	2	
+Takawa	Kafur	Katsina	11.745	7.833	2	
+Tauri	Bakori	Katsina	11.653	7.343	2	
+Tanko	Bakori	Katsina	11.659	7.416	2	
+Tanko	Bakori	Katsina	11.566	7.487	2	
+Ungwan Dan Tagwai	Rogo	Kano	11.540	7.722	2	
+Tahida	Danja	Katsina	11.509	7.481	2	
+Tadi	Funtua	Katsina	11.501	7.269	2	
+Tatari	Danja	Katsina	11.408	7.448	2	
+Ungwan Dan Tagwaye	Dandume	Katsina	11.399	7.181	2	
+Ungwan Mai Takalmi	Dandume	Katsina	11.371	7.253	2	
+Ungwan Tamowa	Makarfi	Kaduna	11.359	7.867	2	
+Ungwan Tado	Dandume	Katsina	11.318	7.283	2	
+Ungwan Mallam Tanko	Giwa	Kaduna	11.231	7.307	2	
+Takama	Giwa	Kaduna	11.030	7.054	2	
+Galadima Dan Taru	Giwa	Kaduna	11.059	7.075	2	
+Ungwan Tanko	Zaria	Kaduna	11.050	7.557	2	
+Takweri	Shanga	Kebbi	11.335	4.524	2	
+Takwerin Kambari	Koko-Besse	Kebbi	11.319	4.514	2	
+Tajigidi Jaaparu	Shanga	Kebbi	11.305	4.566	2	
+Tamoki	Shanga	Kebbi	11.409	4.567	2	
+Tunga Tantarmi	Koko-Besse	Kebbi	11.236	4.385	2	
+Tarikari	Rijau	Niger	11.207	4.900	2	
+Takanbogbene	Warri South-West	Delta	5.411	5.534	2	
+Tashar Ganji	Akko	Gombe	10.329	10.882	2	
+Tai	Akko	Gombe	10.060	10.726	2	
+Wine Tappers	Burutu	Delta	5.269	5.796	2	White Tappers
+Ungwan Tamanyi	Faskari	Katsina	11.581	6.971	2	
+Takari Hausawa	Gwandu	Kebbi	12.434	4.514	2	
+Tanza	Jega	Kebbi	12.085	4.557	2	
+Tapkin Kada	Jega	Kebbi	12.013	4.511	2	
+Tanza Hill	Jega	Kebbi	12.068	4.540	2	
+Tamogbene	Ekeremor	Bayelsa	4.975	5.748	2	Ayama|Tomogbene
+Tamuna Ama	Ogu Bolo	Rivers	4.720	7.203	2	
+Turedasau Ta Kanawa	Garum Mallam	Kano	11.694	8.443	2	
+Turedasau Ta Fulani	Garum Mallam	Kano	11.672	8.436	2	
+Takalafia	Rano	Kano	11.498	8.540	2	
+Ungwan Tambaya	Ikara	Kaduna	11.460	8.089	2	
+Ungwan Madakiri Tafida	Makarfi	Kaduna	11.291	8.054	2	
+Unguwan Taiki	Karaye	Kano	11.787	8.112	2	
+Takwabe	Sumaila	Kano	11.277	8.874	2	
+Gidan Talle Bamaguje	Kiru	Kano	11.425	8.222	2	
+Ukwa East	Ukwa East	Abia	4.900	7.367	2	Agbegbe Ijoba Ibile Ilaorun Ukwa|Skhidna Ukva|Tang Ukwa|Ukva-Ist|Ukwa Est|Ukwa ta Gabas
+Anambra East	Anambra East	Anambra	6.267	6.817	2	Agbegbe Ijoba Ibile Ilaorun Anambra|Anambra Est|Anambra ta Gabas|Anambra-Leste|Tang Anambra|anmbas shrqy
+Awka South	Awka South	Anambra	6.207	7.068	2	Agbegbe Ijoba Ibile Guusu Awka|Awka Sud|Awka ta Kudu|Lam Awka|Ndida Awka
+Ede North	Ede North	Osun	7.707	4.509	2	Agbegbe Ijoba Ibile Ariwa Ede|Ede Nord|Ede ta Arewa|Ndi North|Pak Ede
+Ife Central	Ife Central	Osun	7.474	4.559	2	Agbegbe Ijoba Ibile Gbongan Ife|Ife ta Tsakiya
+Ife East	Ife East	Osun	7.365	4.601	2	Agbegbe Ijoba Ibile Ilaorun Ife|Ife Est|Ife ta Gabas|Tang Ife
+Ife South	Ife South	Osun	7.200	4.600	2	Agbegbe Ijoba Ibile Guusu Ife|Ife SouthLGA|Ife Sud|Ife ta Kudu|Lam Ife
+Ahoada West	Ahoada West	Rivers	5.086	6.471	2	Agbegbe Ijoba Ibile Iwoorun Ahoada|Ahoada Oeste|Ahoada Ouest|Ahoada ta Yamma|Se Ahoada|ghrb ahwada
+Tai	Tai	Rivers	4.717	7.300	2	
+Anambra West	Anambra West	Anambra	6.359	6.750	2	Agbegbe Ijoba Ibile Iwoorun Anambra|Anambra Ouest|Anambra ta Yamma|Anambra-Oeste|Se Anambra|anambra ghrby
+Idemili North	Idemili North	Anambra	6.128	6.933	2	Agbegbe Ijoba Ibile Ariwa Idemili|Idemili Nord|Idemili ta Arewa|Pak Idemili
+Idemili South	Idemili South	Anambra	6.048	6.950	2	Agbegbe Ijoba Ibile Guusu Idemili|Idemili Sud|Idemili ta Kudu|Lam Idemili
+Nnewi South	Nnewi South	Anambra	5.933	6.923	2	Agbegbe Ijoba Ibile Guusu Nnewi|Lam Nnewi|Nnewi Sud|Nnewi ta Kudu
+Orumba North	Orumba North	Anambra	6.067	7.083	2	Agbegbe Ijoba Ibile Ariwa Orumba|Orumba Nord|Orumba ta Arewa|Pak Orumba
+Gwer East	Gwer East	Benue	7.300	8.483	2	Agbegbe Ijoba Ibile Ilaorun Gwer|Gwer Est|Gwer ta Gabas|Tang Gwer
+Aniocha South	Aniocha South	Delta	6.128	6.483	2	Agbegbe Ijoba Ibile Guusu Aniocha|Aniocha Sud|Aniocha ta Kudu|Lam Aniocha
+Ethiope West	Ethiope West	Delta	5.920	5.729	2	Ethiope Ouest|Ethiope ta Yamma|Se Ethiope|merku ettiyoppiyan
+Ethiope East	Ethiope East	Delta	5.688	5.984	2	Ethiope Est|Ethiope ta Gabas|Ethiope-East|Tang Ethiope
+Ika North East	Ika North East	Delta	6.229	6.290	2	Ika Nord Est|Ika ta Arewa maso Gabas|Pak Ika
+Ika South	Ika South	Delta	6.171	6.129	2	Ika Sud|Ika ta Kudu|Lam Ika
+Isoko North	Isoko North	Delta	5.525	6.234	2	Isoco Setentrional|Isoko Nord|Isoko ta Arewa|Pak Isoko
+Isoko South	Isoko South	Delta	5.382	6.214	2	Isoco Meridional|Isoko Sud|Isoko ta Kudu|Lam Isoko
+Ndokwa West	Ndokwa West	Delta	5.773	6.392	2	Ndokwa Ouest|Ndokwa ta Yamma|Se Ndokwa
+Oshimili North	Oshimili North	Delta	6.323	6.644	2	Oshimili Nord|Oshimili ta Arewa|Pak Oshimili
+Oshimili South	Oshimili South	Delta	6.092	6.682	2	Lam Oshimili|Oshimili Sud|Oshimili ta Kudu|nan ao xi mi li
+Ughelli North	Ughelli North	Delta	5.511	6.048	2	Pak Ughelli|Ughelli Nord|Ughelli ta Arewa|Ughilli North
+Ughelli South	Ughelli South	Delta	5.343	5.951	2	Lam Ughelli|Ughelli Sud|Ughelli ta Kudu|Ughilli South
+Warri North	Warri North	Delta	5.882	5.277	2	Agbegbe Ijoba Ibile Ariwa Warri|Pak Warri|Warri Nord|Warri ta Arewa
+Warri South	Warri South	Delta	5.613	5.611	2	Agbegbe Ijoba Ibile Guusu Warri|Lam Warri|Warri Sud|Warri ta Kudu
+Oru West	Oru West	Imo	5.742	6.911	2	Agbegbe Ijoba Ibile Iwoorun Oru|Oru Oeste|Oru Ouest|Oru ta Yamma|Se Oru
+Owerri West	Owerri West	Imo	5.432	6.980	2	Agbegbe Ijoba Ibile Iwoorun Owerri|Owerri Ouest|Owerri ta Yamma|Se Owerri|owerri west|xioueri
+Yagba East	Yagba East	Kogi	8.164	5.761	2	Tang Yagba|Yagba Est|Yagba Leste|Yagba fuunaange|Yagba ta Gabas
+Yagba West	Yagba West	Kogi	8.296	5.527	2	Se Yagba|Yagba Oeste|Yagba Ouest|Yagba ta Yamma
+Afikpo North	Afikpo North	Ebonyi	5.893	7.937	2	Afikpo Nord|Afikpo Norte|Afikpo ta Arewa|Agbegbe Ijoba Ibile Ariwa Afikpo|Pak Afikpo
+Enugu East	Enugu East	Enugu	6.533	7.533	2	Agbegbe Ijoba Ibile Ilaorun Enugu|Enugu Est|Enugu Leste|Enugu ta Gabas|Tang Enugu
+Atakunmosa East	Atakunmosa East	Osun	7.459	4.776	2	Agbegbe Ijoba Ibile Ilaorun Atakunmosa|Atakunmosa Est|Atakunmosa ta Gabas|Tang Atakunmosa
+Ibarapa East	Ibarapa East	Oyo	7.608	3.492	2	Ibarapa Est|Ibarapa ta Gabas|Ilaoorun Ibarapa|Tang Ibarapa
+Ibarapa North	Ibarapa North	Oyo	7.646	3.159	2	Ariwa Ibarapa|Ibarapa Nord|Ibarapa ta Arewa|Pak Ibarapa
+Oyo East	Oyo East	Oyo	7.879	4.021	2	Ilaoorun Oyo|Oyo Est|Oyo Leste|Oyo ta Gabas|Tang Oyo
+Saki West	Saki West	Oyo	8.570	3.147	2	Iwooorun Saki|Saki Ouest|Saki ta Yamma|Se Saki
+Ukwa West	Ukwa West	Abia	4.954	7.239	2	Agbegbe Ijoba Ibile Iwoorun Ukwa|Se Ukwa|Ukwa Ouest|Ukwa ta Yamma|Zakhidna Ukva
+Umuahia South	Umuahia South	Abia	5.462	7.440	2	Agbegbe Ijoba Ibile Guusu Umuahia|Lam Umuahia|Pivdenna Umuakhija|Umuahia Sud|Umuahia ta Kudu
+Eastern Obolo	Eastern Obolo	Akwa Ibom	4.534	7.767	2	Agbegbe Ijoba Ibile Apailaoorun Obolo|Est Obolo|Obolo ta Gabas
+Tafa	Tafa	Niger	9.232	7.230	2	Agbegbe Ijoba Ibile Tafa
+Ovia South-West	Ovia South-West	Edo	6.396	5.272	2	Ovia South West|Ovia Sud Ouest|Ovia ta Kudu maso Yamma|Se-lam Ovia
+Ovia North-East	Ovia North-East	Edo	6.645	5.580	2	Ovia Nord Est|Ovia North East|Ovia ta Arewa maso Gabas|Tang-pak Ovia
+Nkanu East	Nkanu East	Enugu	6.315	7.624	2	Agbegbe Ijoba Ibile Ilaorun Nkanu|Nkanu Est|Nkanu ta Gabas|Tang Nkanu
+Takai	Takai	Kano	11.462	9.176	2	Agbegbe Ijoba Ibile Takai|ta kai|takai
+Nkanu West	Nkanu West	Enugu	6.311	7.509	2	Agbegbe Ijoba Ibile Iwoorun Nkanu|Nkanu Oeste|Nkanu ta Yamma|Se Nkanu
+Umuahia North	Umuahia North	Abia	5.558	7.469	2	Agbegbe Ijoba Ibile Ariwa Umuahia|Pak Umuahia|Pivnichna Umuakhija|Umuahia Nord|Umuahia ta Arewa
+Tangaza	Tangaza	Sokoto	13.497	4.963	2	Tangaza Local Government Area
+Tambuwal	Tambuwal	Sokoto	12.366	4.849	2	Tambuwal Local Government Area
+Talata Mafara	Talata Mafara	Zamfara	12.384	6.054	2	Agbegbe Ijoba Ibile Talata Mafara|Talata Mafara Local Government Area|Talata-Mafara|ta la ta ma fa la
+Sule Tankakar	Sule Tankakar	Jigawa	12.656	9.188	2	Sule Tankarkar|Sule Tankarkar Local Government Area|Sule-Tankar-Kar
+Taura	Taura	Jigawa	12.256	9.384	2	Taura Local Government Area
+Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.825	9.582	2	Tafawa-Balewa Local Government Area
+Jos North	Jos North	Plateau	9.939	8.902	2	Agbegbe Ijoba Ibile Ariwa Jos|Jos Nord|Jos North Local Government Area|Jos ta Arewa|Pak Jos
+Jos East	Jos East	Plateau	9.891	9.118	2	Agbegbe Ijoba Ibile Ilaorun Jos|Jos East Local Government Area|Jos Est|Jos ta Gabas|Tang Jos
+Langtang South	Langtang South	Plateau	8.602	9.810	2	Agbegbe Ijoba Ibile Guusu Langtang|Lam Langtang|Langtang South Local Government Area|Langtang Sud|Langtang ta Kudu|Langt
+Saki East	Saki East	Oyo	8.705	3.589	2	Ilaoorun Saki|Saki East Local Government Area|Saki Est|Saki ta Gabas|Tang Saki
+Ibarapa Central	Ibarapa Central	Oyo	7.437	3.268	2	Gbongan Ibarapa|Ibarapa Central Local Government Area|Ibarapa ta Tsakiya
+Abeokuta North	Abeokuta North	Ogun	7.231	3.168	2	Abeokuta Nord|Abeokuta North Local Government Area|Abeokuta ta Arewa|Abeokuta-Norte|Abeokuta-North|Agbegbe Ijoba Ibile A
+Abeokuta South	Abeokuta South	Ogun	7.154	3.355	2	Abeokuta South Local Government Area|Abeokuta Sud|Abeokuta ta Kudu|Abeokuta-South|Abeokuta-Sul|Agbegbe Ijoba Ibile Guusu
+Ijebu North	Ijebu North	Ogun	6.996	3.971	2	Agbegbe Ijoba Ibile Ariwa Ijebu|Ijebu Nord|Ijebu North Local Government Area|Ijebu ta Arewa|Ijebu-Norte|Pak Ijebu
+Ife North	Ife North	Osun	7.267	4.447	2	Agbegbe Ijoba Ibile Ariwa Ife|Ife Nord|Ife North Local Government Area|Ife ta Arewa|Ife-North|Pak Ife
+Ekiti West	Ekiti West	Ekiti	7.687	5.028	2	Agbegbe Ijoba Ibile Iwoorun Ekiti|Ekiti Ouest|Ekiti West Local Government Area|Ekiti ta Yamma|Se Ekiti
+Ekiti East	Ekiti East	Ekiti	7.735	5.669	2	Agbegbe Ijoba Ibile Ilaorun Ekiti|Ekiti East Local Government Area|Ekiti Est|Ekiti Leste|Ekiti ta Gabas|Tang Ekiti
+Ondo West	Ondo West	Ondo	7.016	4.746	2	Ondo Ouest|Ondo West Local Government Area|Ondo ta Yamma|Se Ondo
+Akure South	Akure South	Ondo	7.205	5.188	2	Agbegbe Ijoba Ibile Guusu Akure|Akure South Local Government Area|Akure Sud|Akure ta Kudu|Lam Akure|jnwb akwr
+Esan West	Esan West	Edo	6.662	6.129	2	Esan Ouest|Esan West Local Government Area|Esan ta Yamma|Se Esan
+Esan Central	Esan Central	Edo	6.710	6.193	2	Esan Central Local Government Area|Esan ta Tsakiya
+Esan North-East	Esan North-East	Edo	6.755	6.397	2	Ehsan Nort-Ist|Esan Nord Est|Esan North East|Esan North East Local Government Area|Esan ta Arewa maso Gabas|Tang-pak Esa
+Esan South-East	Esan South-East	Edo	6.587	6.476	2	Esan South East|Esan South East Local Government Area|Esan Sud Est|Esan ta Kudu maso Gabas|Tang-lam Esan
+Owan East	Owan East	Edo	7.032	6.079	2	Owan East Local Government Area|Owan Est|Owan ta Gabas|Tang Owan
+Etsako Central	Etsako Central	Edo	6.972	6.512	2	Estako-Central|Etsako Central Local Government Area|Etsako ta Tsakiya
+Ajaokuta	Ajaokuta	Kogi	7.524	6.581	2	Adzhaokuta|Agbegbe Ijoba Ibile Ajaokuta|Ajaokuta Local Government Area|a jiao ku ta|ajaokuta|ajaykwta
+Onitsha South	Onitsha South	Anambra	6.127	6.777	2	Agbegbe Ijoba Ibile Guusu Onitsha|Lam Onitsha|Onitsha South Local Government Area|Onitsha Sud|Onitsha ta Kudu|Onitsha-Su
+Ahoada East	Ahoada East	Rivers	5.070	6.643	2	Agbegbe Ijoba Ibile Ilaorun Ahoada|Ahoada East Local Government Area|Ahoada Est|Ahoada Leste|Ahoada ta Gabas|Tang Ahoada
+Ideato North	Ideato North	Imo	5.885	7.131	2	Agbegbe Ijoba Ibile Ariwa Ideato|Ideato Nord|Ideato Norte|Ideato North Local Government Area|Ideato ta Arewa|Pak Ideato
+Owerri North	Owerri North	Imo	5.457	7.103	2	Agbegbe Ijoba Ibile Ariwa Owerri|Owerri Nord|Owerri North Local Government Area|Owerri ta Arewa|Pak Owerri|beioueri
+Calabar South	Calabar South	Cross River	4.864	8.336	2	Calabar South Local Government Area|Calabar Sud|Kalabar ta Kudu|Lam Calabar
+Tarka	Tarka	Benue	7.621	8.882	2	Agbegbe Ijoba Ibile Tarka|Tarka Local Government Area
+Donga	Donga	Taraba	7.591	10.213	2	Agbegbe Ijoba Ibile Donga|Donga Local Government Area|tang jia
+Takum	Takum	Taraba	7.412	10.045	2	Agbegbe Ijoba Ibile Takum|Takum Local Government Area
+Mubi North	Mubi North	Adamawa	10.350	13.406	2	Agbegbe Ijoba Ibile Ariwa Mubi|Mubi Nord|Mubi North Local Government Area|Mubi ta Arewa|Pak Mubi
+Mubi South	Mubi South	Adamawa	10.187	13.396	2	Agbegbe Ijoba Ibile Guusu Mubi|Lam Mubi|Mubi South Local Government Area|Mubi Sud|Mubi ta Kudu
+Yola South	Yola South	Adamawa	9.253	12.436	2	Agbegbe Ijoba Ibile Guusu Yola|Lam Yola|Yola Fombina|Yola South Local Government Area|Yola Sud|Yola ta Kudu|ywla jnwby
+Tarmua	Tarmua	Yobe	12.178	11.802	2	Tarmuwa|Tarmuwa Local Government Area
+Wuro Tappare	Maiha	Adamawa	9.909	13.212	2	
+Tanbun Masarram	Kukawa	Borno	13.301	13.897	2	
+Talwari	Marte	Borno	12.455	13.787	2	
+Tamsuguwa	Marte	Borno	12.504	13.889	2	
+Tadangara	Fika	Yobe	11.108	11.519	2	
+Kulugu Tamsuwa	Ngelzarma	Yobe	11.958	11.765	2	
+Talai	Kaga	Borno	11.779	12.390	2	
+Tangborosunki	Degema	Rivers	4.577	6.998	2	
+Tarzoho	Konshisha	Benue	7.050	8.473	2	
+Hausari Tampul	Askira-Uba	Borno	10.570	13.217	2	
+Tashena	Malam Maduri	Jigawa	12.435	9.985	2	
+Tabo	Makoda	Kano	12.483	8.427	2	
+Tamawa	Rimin Gado	Kano	11.909	8.323	2	
+Tatsan	Tsanyawa	Kano	12.335	8.084	2	
+Kola Tarasa	Birnin Kebbi	Kebbi	12.458	4.128	2	
+Takware	Koko-Besse	Kebbi	11.321	4.485	2	
+Tambagarka	Gwadabawa	Sokoto	13.383	5.356	2	
+Tadurga	Zuru	Kebbi	11.579	5.431	2	
+Takatuku Madorawa	Bodinga	Sokoto	12.919	5.198	2	
+Takatsaba	Sabon Birni	Sokoto	13.579	6.392	2	
+Tangaza	Tangaza	Sokoto	13.402	4.870	2	
+Tsugum Tagali	Barde	Yobe	12.755	10.634	2	
+Gidan Tagwai	Kachia	Kaduna	9.726	8.034	2	
+Tafashiya Nasarawa	Kankia	Katsina	12.496	7.810	2	
+Tasheguwa	Kiri Kasama	Jigawa	12.530	10.095	2	
+Tagoro	Malam Maduri	Jigawa	12.590	10.119	2	
+Tamilo A	Mashi	Katsina	13.096	7.933	2	
+Makera-Take Tsaba	Talata Mafara	Zamfara	12.505	6.124	2	
+Taranka	Gamawa	Bauchi	11.777	10.614	2	
+Tarmasuwa	Gamawa	Bauchi	11.813	10.754	2	
+Tapshin	Tafawa-Balewa	Bauchi	9.530	9.441	2	
+Tama	Toro	Bauchi	10.672	8.954	2	
+Tarbuwa	Zaki	Bauchi	12.307	10.443	2	
+Tauya East	Darazo	Bauchi	10.870	10.508	2	
+Tatyough	Markurdi	Benue	7.884	8.492	2	
+Tachia	Gwer West	Benue	7.693	8.120	2	
+Tar	Markurdi	Benue	7.674	8.407	2	
+Tar	Gwer East	Benue	7.654	8.382	2	
+Tarhemba	Gwer East	Benue	7.600	8.327	2	
+Tarkor	Logo	Benue	7.816	9.085	2	
+Taakongo	Wukari	Taraba	7.856	9.221	2	
+Tarkighir	Ukum	Benue	7.777	9.435	2	
+Takor	Guma	Benue	7.598	9.012	2	
+Tatse	Buruku	Benue	7.575	9.053	2	
+Tarbo	Logo	Benue	7.579	9.125	2	
+Tagher	Logo	Benue	7.682	9.222	2	
+Taki	Logo	Benue	7.678	9.254	2	
+Tav	Logo	Benue	7.562	9.332	2	
+Takor	Ukum	Benue	7.599	9.442	2	
+Tarha	Ukum	Benue	7.585	9.484	2	
+Gaza	Wukari	Taraba	7.760	9.760	2	Tangur
+Tahwa	Wukari	Taraba	7.894	9.928	2	
+Taman	Katsina-Ala	Benue	7.564	9.846	2	
+Taverishima	Donga	Taraba	7.606	9.818	2	
+Tagher	Gboko	Benue	7.436	9.063	2	
+Tachia	Gboko	Benue	7.410	9.038	2	
+Tarkaa	Gboko	Benue	7.374	9.002	2	
+Tar	Gboko	Benue	7.278	9.049	2	
+Tahav	Buruku	Benue	7.492	9.165	2	
+Tavershima	Buruku	Benue	7.466	9.132	2	
+Tander	Gboko	Benue	7.425	9.103	2	
+Tagher	Buruku	Benue	7.405	9.162	2	
+Tashi	Gboko	Benue	7.338	9.150	2	
+Tarkumbul	Gboko	Benue	7.270	9.106	2	
+Tarkaha	Buruku	Benue	7.261	9.176	2	
+Tabe	Buruku	Benue	7.404	9.188	2	
+Tavershima	Buruku	Benue	7.337	9.213	2	
+Tam	Buruku	Benue	7.262	9.237	2	
+Takule	Katsina-Ala	Benue	7.287	9.290	2	
+Tarkohol	Buruku	Benue	7.148	9.097	2	
+Tazoho	Vandeikya	Benue	7.032	9.034	2	Tarzoho
+Tar	Vandeikya	Benue	7.022	9.126	2	
+Tacha	Buruku	Benue	7.186	9.213	2	
+Targba	Buruku	Benue	7.158	9.199	2	
+Tavako	Ushongo	Benue	7.129	9.265	2	
+Tanghar	Ushongo	Benue	7.027	9.258	2	
+Tar	Ushongo	Benue	7.012	9.296	2	
+Tavershima	Kwande	Benue	7.085	9.444	2	
+Tapga	Ibi	Taraba	8.407	9.949	2	
+Tar	Gboko	Benue	7.486	8.758	2	
+Tse-Taghel	Gboko	Benue	7.458	8.792	2	
+Tamsha	Gboko	Benue	7.494	8.895	2	
+Tarkpel	Gboko	Benue	7.493	8.924	2	
+Tark	Gboko	Benue	7.355	8.769	2	
+Targba	Gboko	Benue	7.286	8.822	2	
+Taave	Gboko	Benue	7.284	8.821	2	
+Tamiya	Ussa	Taraba	7.219	10.031	2	
+Tamaza	Gamawa	Bauchi	12.240	10.454	2	
+Tabazu	Zaki	Bauchi	12.190	10.283	2	
+Maikin Tari	Zaki	Bauchi	12.187	10.250	2	
+Tana	Nembe	Bayelsa	4.488	6.147	2	
+Tatun Gbako	Lavun	Niger	9.379	5.730	2	
+Soji Tako	Mokwa	Niger	9.289	5.842	2	
+Tanti	Gbako	Niger	9.251	5.981	2	
+Takobaba	Lavun	Niger	9.149	5.775	2	
+Tanchi	Gbako	Niger	9.118	5.969	2	
+Takpa	Gbako	Niger	9.066	5.934	2	
+Tasun	Edati	Niger	9.041	5.657	2	
+Tasunndabodo	Edati	Niger	9.027	5.668	2	
+Tasunndoko	Edati	Niger	9.025	5.669	2	
+Tauna	Machina	Yobe	13.130	10.022	2	
+Tabu	Lavun	Niger	9.499	5.551	2	
+Tasa Jaaba	Gbako	Niger	9.465	6.030	2	
+Takunkochi	Gbako	Niger	9.366	6.011	2	
+Tadigi	Gbako	Niger	9.298	6.117	2	
+Tamafu	Katcha	Niger	9.285	6.256	2	
+Tanpkagi	Gbako	Niger	9.289	6.002	2	
+Tarka	Katcha	Niger	9.098	6.283	2	
+Takun Kota	Gbako	Niger	9.139	6.119	2	
+Tarka	Tarka	Benue	7.568	8.889	2	
+Tailie	Paikoro	Niger	9.401	6.836	2	
+Talakalfia	Lapai	Niger	9.056	6.612	2	
+Diko-Tako	Edati	Niger	9.103	5.543	2	
+Tafa	Tafa	Niger	9.245	7.289	2	
+Tawali	Shiroro	Niger	9.854	6.726	2	
+Gidan Tawali	Shiroro	Niger	9.844	6.607	2	
+Taya	Shiroro	Niger	9.812	6.593	2	Tayta
+Gidan Tawo	Munya	Niger	9.822	6.911	2	
+Tanwita	Munya	Niger	9.672	6.967	2	
+Tachi	Bosso	Niger	9.682	6.630	2	
+Taige	Bosso	Niger	9.666	6.608	2	
+Tai	Chanchaga	Niger	9.652	6.574	2	
+Kafun Tala	Chanchaga	Niger	9.590	6.575	2	
+Tasaban	Bosso	Niger	9.546	6.640	2	
+Taso Ngurore	Jada	Adamawa	8.771	12.085	2	
+Taso Korkai	Jada	Adamawa	8.763	12.077	2	
+Lainde Takarkuselji	Mayo-Belwa	Adamawa	8.964	12.135	2	
+Tafinta	Fufore	Adamawa	8.821	12.323	2	
+Tapare Jangla	Jada	Adamawa	8.660	12.445	2	
+Talida	Fufore	Adamawa	8.845	12.494	2	
+Taffi	Ojo	Lagos	6.405	3.110	2	
+Tanga	Karu	Nasarawa	9.267	7.830	2	
+Tatara	Karu	Nasarawa	9.209	7.992	2	
+Gidan Takati	Karu	Nasarawa	9.072	7.914	2	
+Takalafia	Karu	Nasarawa	9.090	7.988	2	
+Gora-Taro	Kagarko	Kaduna	9.350	7.728	2	
+Gidan Tankokurutu	Kachia	Kaduna	9.675	7.554	2	
+Tading	Ganye	Adamawa	8.603	11.957	2	
+Tabang	Ardo-Kola	Taraba	8.930	11.254	2	
+Tangin	Jalingo	Taraba	8.943	11.276	2	
+Taribanbe	Ardo-Kola	Taraba	8.824	11.329	2	
+Jauro Tanvo	Ardo-Kola	Taraba	8.757	11.289	2	
+Yerima Tanvo	Yorro	Taraba	8.902	11.398	2	
+Tappare	Jalingo	Taraba	8.877	11.376	2	
+Tanvo	Jalingo	Taraba	8.873	11.382	2	
+Tano	Jalingo	Taraba	8.864	11.393	2	
+Tashum	Jalingo	Taraba	8.826	11.416	2	
+Taka Wurkum	Gassol	Taraba	8.616	10.663	2	
+Garin Tabari	Gassol	Taraba	8.574	10.952	2	
+Montol Tantit	Mikang	Plateau	8.989	9.560	2	
+Talem	Mikang	Plateau	8.958	9.817	2	
+Talgwan	Langtang South	Plateau	8.770	9.799	2	
+Talbut	Langtang North	Plateau	8.907	9.849	2	
+Tabo	Langtang North	Plateau	8.875	9.864	2	
+Takum	Wase	Plateau	8.875	9.908	2	
+Tabo	Langtang North	Plateau	8.854	9.858	2	
+Takalafia	Langtang South	Plateau	8.646	9.799	2	
+Ungwan Taki	Akwanga	Nasarawa	9.048	8.213	2	
+Tabun	Zangon Kataf	Kaduna	9.919	8.346	2	
+Talagan	Zangon Kataf	Kaduna	9.827	8.457	2	
+Talagan	Zangon Kataf	Kaduna	9.831	8.481	2	
+Takau	Jema'A	Kaduna	9.571	8.298	2	
+Taram	Qua'An Pan	Plateau	8.824	9.141	2	
+Tanglog	Qua'An Pan	Plateau	8.730	9.107	2	
+Tadeos	Qua'An Pan	Plateau	8.976	9.262	2	
+Tar	Shendam	Plateau	8.913	9.485	2	
+Uba-Tailor	Warri North	Delta	5.977	5.363	2	
+Uba-Tailor	Warri North	Delta	5.978	5.486	2	
+Tabongo	Girei	Adamawa	9.471	12.323	2	
+Tambo Gure	Girei	Adamawa	9.495	12.400	2	
+Tabbara	Yola North	Adamawa	9.267	12.231	2	
+Tashon Reke	Yola North	Adamawa	9.257	12.189	2	
+Wuro Mallam Tajiri	Mayo-Belwa	Adamawa	9.125	12.057	2	
+Tanire	Fufore	Adamawa	9.107	12.177	2	
+Tafare Buhu	Girei	Adamawa	9.317	12.450	2	
+Tamdin	Mayo-Belwa	Adamawa	9.171	11.721	2	
+Tasimi	Demsa	Adamawa	9.267	11.876	2	
+Tangum	Demsa	Adamawa	9.326	11.850	2	
+Tanwa	Demsa	Adamawa	9.326	11.838	2	
+Tagombeli	Demsa	Adamawa	9.312	11.826	2	
+Tagombeli Dutse	Demsa	Adamawa	9.302	11.840	2	
+Tayal	Demsa	Adamawa	9.341	11.881	2	
+Tawolabe	Demsa	Adamawa	9.189	11.762	2	
+Tarau	Karim Lamido	Taraba	9.425	10.982	2	
+Jan Taba	Karim Lamido	Taraba	9.352	10.761	2	
+Ikereku-Taiwo	Obafemi Owode	Ogun	7.029	3.410	2	
+Tabioloko	Ona Ara	Oyo	7.253	4.041	2	
+Tarinola	Ijebu North	Ogun	7.084	4.014	2	
+Talaru	Ijebu North	Ogun	7.082	4.017	2	
+Taosesu	Ijebu North	Ogun	7.045	4.066	2	
+Talagbe	Ijebu North	Ogun	7.063	4.053	2	
+Tako	Ijebu North	Ogun	7.051	4.073	2	
+Tayiboge	Ijebu North	Ogun	7.049	4.115	2	
+Taiwo-Alaja	Egbeda	Oyo	7.435	4.130	2	
+Tanka	Aiyedade	Osun	7.424	4.357	2	
+Taiwo	Yewa North	Ogun	7.351	2.922	2	
+Tapa Kekere	Ipokia	Ogun	6.529	2.824	2	
+Tande	Ado Odo/Ota	Ogun	6.535	2.943	2	
+Tapa Camps	Ado Odo/Ota	Ogun	6.538	2.945	2	
+Tapa Camp	Ado Odo/Ota	Ogun	6.569	2.974	2	
+Tapa-Nla	Ipokia	Ogun	6.513	2.833	2	
+Talli	Fufore	Adamawa	9.190	12.705	2	
+Ago-Tailor	Okitipupa	Ondo	6.460	4.774	2	
+Tarwaba	Keana	Nasarawa	8.165	8.596	2	
+Tamen	Obi	Nasarawa	8.259	8.596	2	
+Ago-Tayo	Ondo West	Ondo	7.040	4.679	2	
+Tapa	Surulere	Oyo	8.278	4.409	2	
+Tapa	Odeda	Ogun	7.350	3.568	2	
+Tabagbanaru	Baruten	Kwara	8.797	2.882	2	
+Tantomo	Olorunsogo	Oyo	8.886	4.219	2	
+Tapa	Moro	Kwara	8.739	4.227	2	
+Tatala	Asa	Kwara	8.631	4.411	2	
+Alagba-Tapa	Ibarapa North	Oyo	7.627	3.238	2	
+Aiyereke-Tapa	Ifelodun	Kwara	8.485	4.999	2	
+Ebbo Tana	Lapai	Niger	8.433	6.599	2	
+Tar	Lafia	Nasarawa	8.603	8.947	2	
+Hauwu-Tara	Lafia	Nasarawa	8.512	8.607	2	
+Takoro	Asa	Kwara	8.238	4.514	2	
+Takoro	Asa	Kwara	8.215	4.507	2	
+Tabi-Loko	Oyun	Kwara	8.172	4.643	2	
+Kurmin Tagwaye	Akwanga	Nasarawa	8.919	8.443	2	
+Gidan Tanko	Kokona	Nasarawa	8.966	8.145	2	
+Tatara	Kokona	Nasarawa	8.929	8.163	2	
+Angwan Takwa	Kokona	Nasarawa	8.876	8.162	2	
+Takusa	Kokona	Nasarawa	8.893	8.059	2	
+Taiwo	Oyo West	Oyo	7.840	3.883	2	
+Ate-Tapa	Ifelodun	Kwara	8.488	4.909	2	
+Tatabu	Mokwa	Niger	9.244	4.916	2	
+Tara	Nasarawa	Nasarawa	8.402	8.040	2	
+Tashilani	Nasarawa	Nasarawa	8.060	8.007	2	
+Taski	Teungo	Adamawa	8.177	12.042	2	
+Mayo Tapare	Ganye	Adamawa	8.393	12.068	2	MayoTapare
+Tapare	Teungo	Adamawa	8.323	11.729	2	
+Tangim	Song	Adamawa	9.981	12.281	2	
+Tangem	Song	Adamawa	9.966	12.435	2	
+Tara	Song	Adamawa	9.899	12.475	2	
+Tara	Song	Adamawa	9.936	12.498	2	
+Golon Tabbal	Song	Adamawa	9.994	12.670	2	GolonTabbal
+Jimajima Tappare	Song	Adamawa	9.843	12.585	2	JimajimaTappare
+Tappare	Song	Adamawa	9.841	12.593	2	
+Tambajam	Song	Adamawa	9.780	12.646	2	
+Tambajam	Song	Adamawa	9.717	12.976	2	
+Tasu	Fufore	Adamawa	9.629	12.766	2	
+Tanke	Ilorin South	Kwara	8.488	4.607	2	
+Tapa	Ilorin South	Kwara	8.493	4.639	2	
+Tamaworo	Mokwa	Niger	8.864	5.827	2	
+Taci	Mokwa	Niger	9.024	5.466	2	
+Tantufu	Mokwa	Niger	9.208	5.480	2	
+Taimako	Toto	Nasarawa	8.404	7.309	2	
+Tarshara	Toto	Nasarawa	8.429	7.171	2	
+Tarka	Toto	Nasarawa	8.250	7.315	2	
+Takalaia	Nasarawa	Nasarawa	8.693	7.584	2	
+Gwajin-Taba	Nasarawa	Nasarawa	8.665	7.589	2	
+Takwa	Nasarawa	Nasarawa	8.697	7.676	2	
+Gidan-Tabo	Karu	Nasarawa	8.745	7.897	2	
+Takushira Hausa	Municipal Area Council	FCT Abuja	8.882	7.457	2	TakushiraHausa
+Takushira	Municipal Area Council	FCT Abuja	8.874	7.459	2	Tor Gwari|TorGwari
+Taka-Lafia	Municipal Area Council	FCT Abuja	8.883	7.417	2	
+Tashepape	Municipal Area Council	FCT Abuja	8.959	7.429	2	
+Tasunnkufa	Municipal Area Council	FCT Abuja	8.971	7.259	2	
+Tampe	Kwali	FCT Abuja	8.781	7.062	2	
+Takwa	Kokona	Nasarawa	8.668	8.059	2	
+Tatembe	Sardauna	Taraba	6.890	11.437	2	
+Tafare Hambarka	Sardauna	Taraba	6.804	11.089	2	
+Wakili Tarkawa	Sardauna	Taraba	6.958	11.202	2	
+Tangara	Sardauna	Taraba	6.717	11.337	2	
+Takam	Sardauna	Taraba	6.952	11.396	2	
+Tapare	Sardauna	Taraba	6.870	11.095	2	
+Tam	Sardauna	Taraba	6.563	11.132	2	
+Tafida	Sardauna	Taraba	6.902	11.195	2	
+Tangena	Sardauna	Taraba	6.757	11.330	2	
+Taiwo-Cocoa	Akinyele	Oyo	7.641	4.016	2	
+Tapare	Jada	Adamawa	8.547	12.374	2	
+Tapare	Jada	Adamawa	8.592	12.414	2	
+Ungwan Tabo	Jema'A	Kaduna	9.461	8.457	2	Ungwam Tabo
+Tappare	Ardo-Kola	Taraba	8.606	11.262	2	
+Talagbene	Southern Ijaw	Bayelsa	4.603	5.893	2	
+Taiye	Irepodun	Osun	7.948	4.540	2	
+Tapa	Moro	Kwara	8.738	4.441	2	
+Tapa	Asa	Kwara	8.637	4.371	2	
+Tapare	Ganye	Adamawa	8.401	11.990	2	
 Wamon Taofeek Avenue	Ifako/Ijaye	Lagos	6.651	3.306	1	
 Tafawa Balewa Square	Lagos Island	Lagos	6.446	3.400	1	
 Tafawa Balewa Crescent	Surulere	Lagos	6.496	3.355	1	
 Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.685	8.892	1	
 Ibrahim Taiwo Street	Kaduna North	Kaduna	10.518	7.435	1	Abeokuta Street
-Ibrahim Taiwo Street	Kaduna North	Kaduna	10.517	7.426	1	
 Tanko Tete Crescent	Kaduna South	Kaduna	10.462	7.425	1	
 Tafawa Balewa Way	Kaduna North	Kaduna	10.513	7.454	1	
 Tafawa Balewa Way	Kaduna North	Kaduna	10.522	7.450	1	
@@ -511,6 +1347,9 @@ Taoheed Road	Ilorin South	Kwara	8.501	4.614	1
 Takwa Crescent	Municipal Area Council	FCT Abuja	9.077	7.490	1	
 Tacoradi Street	Port-Harcourt	Rivers	4.763	7.019	1	
 Tako Street	Port-Harcourt	Rivers	4.763	7.022	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	7.872	9.781	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	8.070	9.797	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	7.786	9.844	1	
 Taraba Crescent	Municipal Area Council	FCT Abuja	9.088	7.494	1	
 Tarauni Market Road	Tarauni	Kano	11.976	8.559	1	
 J. S Tarka Street	Municipal Area Council	FCT Abuja	9.034	7.478	1	
@@ -525,9 +1364,9 @@ Takum - Bukuru Federal Road	Mikang	Plateau	9.033	9.391	1
 Takum - Bukuru Federal Road	Shendam	Plateau	8.898	9.515	1	
 Takum - Bukuru Federal Road	Mikang	Plateau	8.995	9.407	1	
 Takum - Bukuru Federal Road	Mangu	Plateau	9.507	9.106	1	
+Takum - Bukuru Federal Road	Ibi	Taraba	8.292	9.694	1	
 Ibrahim Taiwo Road	Ilorin East	Kwara	8.483	4.554	1	
 Ibrahim Taiwo Road	Ilorin West	Kwara	8.480	4.538	1	
-Ibrahim Taiwo Road	Ilorin East	Kwara	8.488	4.561	1	
 Takum - Bukuru Federal Road	Jos South	Plateau	9.721	8.866	1	
 Ibrahim Taiwo Road	Jos North	Plateau	9.905	8.882	1	
 Tafawa Balewa Street	Jos North	Plateau	9.925	8.883	1	
@@ -547,7 +1386,6 @@ Takum - Bukuru Federal Road	Pankshin	Plateau	9.257	9.287	1
 Takum - Bukuru Federal Road	Mangu	Plateau	9.432	9.192	1	
 Takum - Bukuru Federal Road	Pankshin	Plateau	9.231	9.310	1	
 Takum - Bukuru Federal Road	Pankshin	Plateau	9.276	9.270	1	
-Tafawa Balewa Way	Kaduna North	Kaduna	10.531	7.446	1	
 Taiwo Road	Lokoja	Kogi	7.809	6.739	1	
 Tamgbo Street	Enugu East	Enugu	6.484	7.530	1	
 Tank Close	Enugu East	Enugu	6.480	7.497	1	
@@ -567,48 +1405,14 @@ Takum - Bukuru Federal Road	Shendam	Plateau	8.811	9.654	1
 Layin Tasha Street	Ungongo	Kano	11.978	8.450	1	
 Takai yamma road	Dambatta	Kano	12.324	8.607	1	
 Taiwo Way	Surulere	Lagos	6.504	3.357	1	
-Tamawa Health Post	Rimin Gado	Kano	11.898	8.343	0	
-Tabanni Health Post	Tofa	Kano	11.972	8.309	0	
-Takai Nysc General Hospital	Takai	Kano	11.566	9.109	0	
-Tafashiya Primary Health Centre	Tsanyawa	Kano	12.213	8.078	0	
-Tabani Health Post	Kunchi	Kano	12.414	8.330	0	
-Koren Tabo Health Post	Makoda	Kano	12.502	8.440	0	
-Laraba Takuya Health Post	Dambatta	Kano	12.367	8.687	0	
-Tarauni Health Post	Gabasawa	Kano	12.113	8.897	0	
-Tankarau Health Post	Gabasawa	Kano	12.083	8.907	0	
-Tashar Basa Health Post	Makoda	Kano	12.336	8.445	0	
-Tangaji Health Post	Makoda	Kano	12.305	8.488	0	
-Takau Health Post	Dambatta	Kano	12.368	8.594	0	
-Tarda Health Post	Ungongo	Kano	12.115	8.519	0	
-Tattarawa Primary Health Centre	Dawakin Tofa	Kano	12.177	8.382	0	
-Tambayahaya Nursery and Primary School	Fagge	Kano	12.030	8.535	0	
-Tambayahaya Nursery and Primary School	Fagge	Kano	12.030	8.535	0	
 Dan Tatashi to Gwarzo Road	Gwarzo	Kano	11.931	7.855	1	
 Takum - Bukuru Federal Road	Shendam	Plateau	8.566	9.642	1	
 Takum - Bukuru Federal Road	Shendam	Plateau	8.739	9.660	1	
 Akanni Taiwo Close	Eti Osa	Lagos	6.437	3.521	1	
 Rugurugu - Ruwan Tabo Road	Tudun Wada	Kano	11.344	8.376	1	
 Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.344	8.364	1	
-Tarbuwa Dispensary	Zaki	Bauchi	12.335	10.352	0	Sansan Dispensary
-Tale Dispensary	Damban	Bauchi	11.605	10.866	0	
-Tarmasuwa Maternity	Gamawa	Bauchi	11.826	10.792	0	
-Taranka Dispensary	Gamawa	Bauchi	11.752	10.631	0	
-Tarsawa Dispensary	Gamawa	Bauchi	11.830	10.793	0	Tudun Fada Dispensary
-Tale Health Clinic	Damban	Bauchi	11.602	10.866	0	
-Tashan Turmi Maternity	Kirfi	Bauchi	10.363	10.756	0	
-Tashan Babiye C Health Center	Bauchi	Bauchi	10.306	9.845	0	
-Tashan Mai Allo Dispensary	Toro	Bauchi	10.102	9.224	0	
-Taka Bunde Dispensary	Toro	Bauchi	10.211	9.310	0	
-Mai Juju Tasha Health Clinic	Tafawa-Balewa	Bauchi	9.743	9.158	0	
-Ngebiji Dispensary	Tafawa-Balewa	Bauchi	9.609	9.325	0	Tawa Dispensary
-Tadnum Dispensiry	Bogoro	Bauchi	9.604	9.786	0	
-Cocin Dispensary Tapshin	Pankshin	Plateau	9.487	9.453	0	
-Tapshin Health Clinic	Tafawa-Balewa	Bauchi	9.504	9.461	0	
-Taki Health Clinic	Tafawa-Balewa	Bauchi	9.635	9.941	0	
 Muniru Tapa Street	Eti Osa	Lagos	6.458	3.572	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.271	9.256	1	
 Takum - Bukuru Federal Road	Mangu	Plateau	9.286	9.238	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.310	9.226	1	
 Takum - Bukuru Federal Road	Mangu	Plateau	9.364	9.207	1	
 Taiwo Street	Eti Osa	Lagos	6.448	3.615	1	
 Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.566	8.904	1	
@@ -628,7 +1432,6 @@ Taiwo Badru Close	Eti Osa	Lagos	6.505	3.580	1
 Ademola Taiwo Street	Kosofe	Lagos	6.603	3.385	1	
 Target Road	Calabar Municipal	Cross River	4.953	8.323	1	
 Tamic Road	Yenegoa	Bayelsa	4.950	6.348	1	
-Federal University Dutsin Ma - Take off Campus	Dutsin Ma	Katsina	12.473	7.483	0	
 Alhaji Hassan Makinde Street	Ifako/Ijaye	Lagos	6.651	3.305	1	Taiwo Adewole Street
 Taiwo Street	Ifako/Ijaye	Lagos	6.680	3.281	1	
 Olumuyiwa Taiwo	Kosofe	Lagos	6.624	3.371	1	
@@ -647,15 +1450,14 @@ Chief Abiola Taiwo Street	Alimosho	Lagos	6.638	3.243	1
 Alhaji Tanimowo Street	Ifo	Ogun	6.689	3.304	1	
 Talba Road	Maiduguri	Borno	11.817	13.152	1	
 Alaafia Tayọ Estate	Ede North	Osun	7.725	4.502	1	
-Madarasatu Tarbiyyatul Islam	Kaduna North	Kaduna	10.541	7.465	0	
 Joseph Tarka Road	Kaduna North	Kaduna	10.576	7.428	1	
 Taiwo Street	Oshodi/Isolo	Lagos	6.519	3.331	1	
 Tanimola Street	Oshodi/Isolo	Lagos	6.521	3.333	1	
-Taiwo Street	Oshodi/Isolo	Lagos	6.516	3.315	1	
 Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.339	8.340	1	
-Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.340	8.346	1	
 Tanimowo Street	Idanre	Ondo	7.097	5.152	1	
-Takum - Bukuru Federal Road	Takum	Benue	7.510	9.932	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	7.877	9.778	1	
+Takum - Bukuru Federal Road	Takum	Taraba	7.510	9.932	1	
+Takum - Bukuru Federal Road	Takum	Taraba	7.387	9.943	1	
 Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.535	8.919	1	
 Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.520	8.988	1	
 Takum - Bukuru Federal Road	Mangu	Plateau	9.492	9.125	1	
@@ -664,7 +1466,6 @@ Takum - Bukuru Federal Road	Shendam	Plateau	8.866	9.575	1
 Takum - Bukuru Federal Road	Shendam	Plateau	8.861	9.595	1	
 Takum - Bukuru Federal Road	Langtang South	Plateau	8.688	9.661	1	
 Takum - Bukuru Federal Road	Shendam	Plateau	8.600	9.627	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.445	9.695	1	
 Takum - Bukuru Federal Road	Shendam	Plateau	8.425	9.690	1	
 Taiwo Akapo Street	Eti Osa	Lagos	6.451	3.615	1	
 Tauki Street	Kumbotso	Kano	11.887	8.494	1	
@@ -675,28 +1476,132 @@ Sabaina Taiwo Street	Ado Odo/Ota	Ogun	6.696	3.249	1
 Talabi Street	Agege	Lagos	6.609	3.327	1	
 Nimota Taiwo Street	Ìkòròdú	Lagos	6.607	3.569	1	
 Target Road	Calabar Municipal	Cross River	4.956	8.330	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.521	9.096	1	
 Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.111	7.444	1	
 Talabi Close	Eti Osa	Lagos	6.474	3.618	1	
 Babatunde Tandoh Street	Eti Osa	Lagos	6.505	3.585	1	
 Tanke Ajanaku	Ilorin East	Kwara	8.479	4.617	1	
 Tanke Bubu road	Ilorin East	Kwara	8.480	4.615	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	7.706	9.891	1	
+Takum - Bukuru Federal Road	Takum	Taraba	7.605	9.903	1	
 Takumashi Street	Kumbotso	Kano	11.948	8.474	1	
 Takumashi Street	Kumbotso	Kano	11.949	8.476	1	
 Talata Mafara bridge	Talata Mafara	Zamfara	12.565	6.083	1	
-Tapa Street	Lagos Island	Lagos	6.454	3.404	1	
 Tapa Street	Lagos Mainland	Lagos	6.485	3.390	1	
 Tawose St	Mushin	Lagos	6.537	3.364	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.547	9.653	1	
 Takum - Bukuru Federal Road	Shendam	Plateau	8.521	9.662	1	
 Dan Tatashi to Gwarzo Road	Malumfashi	Katsina	11.947	7.788	1	
 Dan Tatashi to Gwarzo Road	Malumfashi	Katsina	11.967	7.741	1	
+Taiwo Aremu Street	Ifo	Ogun	6.675	3.305	1	
+Taoheed Road	Ilorin South	Kwara	8.501	4.605	1	
+Tanke Iledu Road	Ilorin East	Kwara	8.478	4.615	1	
+Bawa Tafida Street	Zing	Taraba	8.988	11.743	1	
+Layin tare	Gombe	Gombe	10.290	11.189	1	
+Ibrahim Taiwo Road	Offa	Kwara	8.141	4.719	1	
+Taibat Banire St	Ifako/Ijaye	Lagos	6.676	3.284	1	
+Tabu Station	Lavun	Niger	9.500	5.551	0	
+Tarauni Market	Tarauni	Kano	11.975	8.559	0	
+Tanyi Filling Station	Oredo	Edo	6.329	5.591	0	
+Taddangari Primary Health Centre	Bichi	Kano	12.235	8.309	0	
+Tatsan Health Post	Tsanyawa	Kano	12.289	8.093	0	
+Tashar Gadau	Katagum	Bauchi	11.688	10.188	0	
+Madrasatu Tarbiyyatul Awladul Muslimin	Kaduna South	Kaduna	10.531	7.404	0	
+Tandari Fsp	Bama	Borno	11.528	13.695	0	
+Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.771	9.557	0	
+Taurari Trend Setters School	Kaduna North	Kaduna	10.552	7.456	0	
+Tamic Nig.Ltd Filling Station	Yenegoa	Bayelsa	4.931	6.324	0	
+Tare PET Montessoy Group of Schools	Yenegoa	Bayelsa	4.928	6.310	0	
+Tadaerigha Ventures Filling Station	Yenegoa	Bayelsa	4.940	6.338	0	
+TAMIC Filling Station	Yenegoa	Bayelsa	4.953	6.344	0	
+Tani-Tobi Filling Station	Obio/Akpor	Rivers	4.843	7.041	0	
+Asana Tatonmi Market	Ile Oluji/Okeigbo	Ondo	7.121	4.742	0	
+Takie Garage	Ogbomosho North	Oyo	8.136	4.238	0	
+PHC Rinin Tawaye	Sokoto North	Sokoto	13.064	5.243	0	
+General Hospital, Sabon Tasha	Chikun	Kaduna	10.451	7.468	0	
+Geneneral Hospital Tangaza	Tangaza	Sokoto	13.365	4.947	0	
+Tashan Goigoi Clinic	Gwoza	Borno	11.071	13.690	0	
+Tashan Gurgu Health Post	Demsa	Adamawa	9.338	11.863	0	
+Tashan Gurugu Health Post	Demsa	Adamawa	9.338	11.862	0	
+Tawa Health Post	Fufore	Adamawa	9.002	12.401	0	
+Health Post Tasha Tiding	Hong	Adamawa	10.135	12.965	0	
+Taimako Hospital And Maternity	Chanchaga	Niger	9.618	6.551	0	
+Joke Taiwo Primary School, Apebi	Ado Odo/Ota	Ogun	6.675	3.126	0	
+Joke Taiwo Primary School, Apebi	Ìjẹ̀bú Òde	Ogun	6.818	3.930	0	
+Community Primary School, Barayira Tai	Tai	Rivers	4.744	7.203	0	
+La tahzan clinic and maternity	Jos North	Plateau	9.924	8.898	0	
+Young Tajudeen Primary School, Ido-Osun	Egbedore	Osun	7.784	4.486	0	
+Madaratsul tafuzal quran	Municipal Area Council	FCT Abuja	9.017	7.422	0	
+Tuberculosis and Leprosy center Tapa	Ibarapa North	Oyo	7.556	3.228	0	
+Six bed Primary Health care, Tapa	Ibarapa North	Oyo	7.562	3.235	0	
+Tashan Boi	Bogoro	Bauchi	9.562	9.507	0	
+Tank market	Obio/Akpor	Rivers	4.864	7.057	0	
+Yusuf Dantsoho Hospital Kv 206 Lbrahim Taiwo Road Tudun Wada Kaduna	Kaduna South	Kaduna	10.512	7.411	0	
+Hospitals No13a Tafoki Road Kabala West	Kaduna South	Kaduna	10.503	7.396	0	
+General Hospital Sabon Tasha St Simon Catholic Church	Chikun	Kaduna	10.428	7.528	0	
+General Hospital Sabon Tasha Down The Market Road Maraban Rido	Chikun	Kaduna	10.426	7.533	0	
+General Hospital Sabon Tasha Karatudu Road	Chikun	Kaduna	10.425	7.415	0	
+General Hospital Sabon Tasha Danhoni Street Ungwan Tanko	Chikun	Kaduna	10.422	7.417	0	
+General Hospital Sabon Tasha Firoro Road Uboro Sabon Tasha Kaduna	Chikun	Kaduna	10.451	7.469	0	
+Taffi Awori Primary Health Centre	Badagry	Lagos	6.408	3.074	0	
+Taqwa Hospital	Alimosho	Lagos	6.667	3.251	0	
+Top Talent Hospital	Alimosho	Lagos	6.603	3.292	0	
+Taofiq Amabi Global service	Iwo	Osun	7.644	4.168	0	
+Talent International	Ungongo	Kano	12.040	8.566	0	
+Talent Intl Academy	Ungongo	Kano	12.037	8.566	0	
+Madarasatul Ta'Alimul Qur'An	Ungongo	Kano	12.040	8.570	0	
+Dan Tamashe Junior Secondary School	Ungongo	Kano	12.050	8.580	0	
+Dan Tamashe Hospital	Ungongo	Kano	12.049	8.580	0	
+Makarantar Tasiu Mai Almajirai	Gwale	Kano	11.961	8.467	0	
+Talent Best Academy	Gwale	Kano	11.955	8.472	0	
+Best Talents Academy	Gwale	Kano	11.969	8.472	0	
+Balogun Nursery & Primary School Ibrahim Taiwo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.483	4.551	0	
+Tipper Garage Road, Tanke, Ilorin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.604	0	
+Edinwo Mall, Fate Tanke Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.602	0	
+Bovas, Ibrahim Taiwo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.482	4.548	0	
+MFM Junction Bus Stop, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.621	0	
+Galad College Of Advanced Studies, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.612	0	
+Anchormed Hospital, Tanke Tipper Garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.602	0	
+Pipeline bustop, tanke tipper garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.603	0	
+Heavens gate redeem, F Division Road, Tanke	Ilorin South	Kwara	8.499	4.588	0	
+ijede/tarzan	Ìkòròdú	Lagos	6.563	3.589	0	
+Tarkwa Bay	Amuwo Odofin	Lagos	6.401	3.397	0	
+badore jetty (tarzan)	Eti Osa	Lagos	6.515	3.606	0	
+Tamawa Health Post	Rimin Gado	Kano	11.898	8.343	0	
+Tabanni Health Post	Tofa	Kano	11.972	8.309	0	
+Takai Nysc General Hospital	Takai	Kano	11.566	9.109	0	
+Tafashiya Primary Health Centre	Tsanyawa	Kano	12.213	8.078	0	
+Tabani Health Post	Kunchi	Kano	12.414	8.330	0	
+Koren Tabo Health Post	Makoda	Kano	12.502	8.440	0	
+Laraba Takuya Health Post	Dambatta	Kano	12.367	8.687	0	
+Tarauni Health Post	Gabasawa	Kano	12.113	8.897	0	
+Tankarau Health Post	Gabasawa	Kano	12.083	8.907	0	
+Tashar Basa Health Post	Makoda	Kano	12.336	8.445	0	
+Tangaji Health Post	Makoda	Kano	12.305	8.488	0	
+Takau Health Post	Dambatta	Kano	12.368	8.594	0	
+Tarda Health Post	Ungongo	Kano	12.115	8.519	0	
+Tattarawa Primary Health Centre	Dawakin Tofa	Kano	12.177	8.382	0	
+Tambayahaya Nursery and Primary School	Fagge	Kano	12.030	8.535	0	
+Tambayahaya Nursery and Primary School	Fagge	Kano	12.031	8.535	0	
+Tarbuwa Dispensary	Zaki	Bauchi	12.335	10.352	0	Sansan Dispensary
+Tale Dispensary	Damban	Bauchi	11.605	10.866	0	
+Tarmasuwa Maternity	Gamawa	Bauchi	11.826	10.792	0	
+Taranka Dispensary	Gamawa	Bauchi	11.752	10.631	0	
+Tarsawa Dispensary	Gamawa	Bauchi	11.830	10.793	0	Tudun Fada Dispensary
+Tale Health Clinic	Damban	Bauchi	11.602	10.866	0	
+Tashan Turmi Maternity	Kirfi	Bauchi	10.363	10.756	0	
+Tashan Babiye C Health Center	Bauchi	Bauchi	10.306	9.845	0	
+Tashan Mai Allo Dispensary	Toro	Bauchi	10.102	9.224	0	
+Taka Bunde Dispensary	Toro	Bauchi	10.211	9.310	0	
+Mai Juju Tasha Health Clinic	Tafawa-Balewa	Bauchi	9.743	9.158	0	
+Ngebiji Dispensary	Tafawa-Balewa	Bauchi	9.609	9.325	0	Tawa Dispensary
+Tadnum Dispensiry	Bogoro	Bauchi	9.604	9.786	0	
+Cocin Dispensary Tapshin	Pankshin	Plateau	9.487	9.453	0	
+Tapshin Health Clinic	Tafawa-Balewa	Bauchi	9.504	9.461	0	
+Taki Health Clinic	Tafawa-Balewa	Bauchi	9.635	9.941	0	
+Federal University Dutsin Ma - Take off Campus	Dutsin Ma	Katsina	12.473	7.483	0	
+Madarasatu Tarbiyyatul Islam	Kaduna North	Kaduna	10.541	7.465	0	
 Tafawa Balewa Square Bus Terminal	Lagos Island	Lagos	6.445	3.401	0	
-Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.113	7.430	1	
-Ibrahim Taiwo Road	Oyun	Kwara	8.157	4.724	1	
 Tom-Tan Limited	Amuwo Odofin	Lagos	6.473	3.313	0	
 Tagwaye Health Post	Doguwa	Kano	10.781	8.594	0	
-Taiwo Aremu Street	Ifo	Ogun	6.675	3.305	1	
 Tariwa Primary Health Centre	Bebeji	Kano	11.599	8.315	0	
 Tarai Primary Health Centre	Kibiya	Kano	11.500	8.673	0	
 Abubakar Tafawa Balewa Teaching Hospital	Bauchi	Bauchi	10.323	9.831	0	
@@ -711,7 +1616,6 @@ Tadnum	Bogoro	Bauchi	9.606	9.786	0
 Tandem Medical Center	Jos North	Plateau	9.877	8.873	0	
 General Hospital of Tangaza	Tangaza	Sokoto	13.366	4.950	0	
 Taif clinic	Potiskum	Yobe	11.706	11.087	0	
-Tapa	Ibarapa North	Oyo	7.563	3.240	2	
 Tashan Fulani Dispensary	Tarmua	Yobe	12.030	11.821	0	
 Tagombali Health Clinic	Demsa	Adamawa	9.329	11.838	0	
 Tana Babba Primary Health Center	Numan	Adamawa	9.288	11.662	0	
@@ -721,86 +1625,7 @@ Tala Health Post Tala	Fufore	Adamawa	9.622	12.919	0
 Tasha Tiding Health Clinic	Hong	Adamawa	10.132	12.962	0	
 Tarajim Health Post	Nangere	Yobe	12.023	10.956	0	
 Task Force X Hospital	Dala	Kano	12.009	8.502	0	
-Taoheed Road	Ilorin South	Kwara	8.501	4.605	1	
-Tanke Iledu Road	Ilorin East	Kwara	8.478	4.615	1	
 Talek Hospital	Municipal Area Council	FCT Abuja	8.940	7.427	0	
 Maranatha Academy & Mt Tabor International Schools	Jos North	Plateau	9.863	8.860	0	
-Layin tare	Gombe	Gombe	10.290	11.189	1	
 Tani tobi Station	Obio/Akpor	Rivers	4.843	7.041	0	
-Taoreed A. Lagbaja Boulevard	Municipal Area Council	FCT Abuja	9.110	7.451	1	
-Ibrahim Taiwo Road	Offa	Kwara	8.141	4.719	1	
 Tampul Primary Health Clinic	Askira-Uba	Borno	10.578	13.223	0	
-Taibat Banire St	Ifako/Ijaye	Lagos	6.676	3.284	1	
-Guji M Tallari	Borsari	Yobe	12.895	11.637	2	
-Taganama	Machina	Yobe	12.846	9.827	2	
-Tashena	Malam Maduri	Jigawa	12.434	9.988	2	
-Tsugum Tagali	Barde	Yobe	12.758	10.643	2	
-Taura	Taura	Jigawa	12.202	9.279	2	
-Takatsaba	Sule Tankakar	Jigawa	12.507	9.299	2	
-Taura	Taura	Jigawa	12.272	9.362	2	
-Tagoro	Malam Maduri	Jigawa	12.598	10.139	2	
-Tasheguwa	Kiri Kasama	Jigawa	12.530	10.100	2	
-Sule Tankakar	Sule Tankakar	Jigawa	12.625	9.175	2	
-Sule Tankarkar	Sule Tankakar	Jigawa	12.651	9.248	2	
-Takwasa	Babura	Jigawa	12.599	8.879	2	
-Gagarawa Tasha	Gagarawa	Jigawa	12.413	9.595	2	
-Makera-Take Tsaba	Talata Mafara	Zamfara	12.485	6.123	2	
-Talata Mafara	Talata Mafara	Zamfara	12.399	6.083	2	
-Bodinga Tauma	Bodinga	Sokoto	12.834	5.160	2	
-Takatsaba	Sabon Birni	Sokoto	13.571	6.395	2	
-Tarah	Sabon Birni	Sokoto	13.470	6.403	2	
-Tangaza	Tangaza	Sokoto	13.423	4.894	2	
-Tambagarka	Gwadabawa	Sokoto	13.385	5.351	2	
-Takakume	Goronyo	Sokoto	13.520	5.813	2	
-Takatuku Madorawa	Bodinga	Sokoto	12.908	5.176	2	
-Tangaza	Tangaza	Sokoto	13.479	4.970	2	
-Tambuwal	Tambuwal	Sokoto	12.381	4.659	2	
-Takware	Koko-Besse	Kebbi	11.323	4.481	2	
-Kola Tarasa	Birnin Kebbi	Kebbi	12.455	4.121	2	
-Tadurga	Zuru	Kebbi	11.584	5.459	2	
-Tambuwal	Tambuwal	Sokoto	12.399	4.943	2	
-Takware	Shanga	Kebbi	11.332	4.572	2	
-Gidan Tagwai	Kachia	Kaduna	9.731	8.023	2	
-Tantattu	Kajuru	Kaduna	10.201	7.620	2	
-Taba	Kudan	Kaduna	11.243	7.789	2	
-Takau	Jema'A	Kaduna	9.550	8.258	2	
-Sabon Tasha	Chikun	Kaduna	10.438	7.472	2	
-Tarai	Kibiya	Kano	11.477	8.713	2	
-Tamburawan Gabas	Warawa	Kano	11.947	8.673	2	
-Takai	Takai	Kano	11.570	9.091	2	
-Tariwa	Bebeji	Kano	11.611	8.325	2	
-Tagwaye	Doguwa	Kano	10.851	8.615	2	
-Tabo	Makoda	Kano	12.489	8.412	2	
-Tarauni	Gabasawa	Kano	12.123	8.909	2	
-Tatsan	Tsanyawa	Kano	12.306	8.077	2	
-Tanburawa	Dawakin Kudu	Kano	11.855	8.530	2	
-Tanagar	Warawa	Kano	11.975	8.692	2	
-Tattarawa	Dawakin Tofa	Kano	12.199	8.410	2	
-Tamawa	Rimin Gado	Kano	11.906	8.327	2	
-Tangaji	Makoda	Kano	12.297	8.496	2	
-Tarauni	Tarauni	Kano	11.978	8.552	2	
-Tarauni	Tarauni	Kano	11.961	8.565	2	
-Tabanni-Yarraddau	Musawa	Katsina	12.088	7.850	2	
-Tafoki	Faskari	Katsina	11.665	7.299	2	
-Tandama	Danja	Katsina	11.468	7.474	2	
-Tsagem Takusheyi	Mani	Katsina	12.974	7.854	2	
-Tamilo B	Mashi	Katsina	13.180	7.955	2	
-Tamilo A	Mashi	Katsina	13.096	7.900	2	
-Tafashiya Nasarawa	Kankia	Katsina	12.486	7.808	2	
-Tama	Bindawa	Katsina	12.626	7.957	2	
-Taramnawa	Baure	Katsina	12.810	8.923	2	
-Tarka	Tarka	Benue	7.615	8.824	2	
-Tafa	Tafa	Niger	9.238	7.259	2	
-Tai	Tai	Rivers	4.770	7.262	2	
-Tamsu Ngamdua	Mafa	Borno	11.818	13.282	2	
-Takai	Takai	Kano	11.485	9.156	2	
-Tapshin	Tafawa-Balewa	Bauchi	9.548	9.428	2	
-Tarmasuwa	Gamawa	Bauchi	11.818	10.755	2	
-Tama	Toro	Bauchi	10.661	8.957	2	
-Tarbuwa	Zaki	Bauchi	12.306	10.465	2	
-Taranka	Gamawa	Bauchi	11.773	10.626	2	
-Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.844	9.593	2	
-Tauya East	Darazo	Bauchi	10.907	10.496	2	
-Tauya West	Darazo	Bauchi	10.926	10.395	2	
-Tarmua	Tarmua	Yobe	12.227	11.832	2	
-Hausari Tampul	Askira-Uba	Borno	10.562	13.211	2	

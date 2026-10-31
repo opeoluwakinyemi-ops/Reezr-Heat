@@ -1,3 +1,6 @@
+Mbiama	Yenegoa	Bayelsa	5.065	6.442	3	
+Mberichi	Ohaji/Egbema	Imo	5.351	6.950	3	
+Mbalano	Isuikwuato	Abia	5.734	7.502	3	Nbalano
 Mbiakpaba	Nembe	Bayelsa	4.566	6.266	2	
 Udegi	Nasarawa	Nasarawa	8.251	7.902	2	Udegi mbeki emire palace
 Mbar	Bokkos	Plateau	9.268	8.943	2	
@@ -20,7 +23,6 @@ Ubat Mbat	Odukpani	Cross River	5.091	8.140	2	Uba Mbat
 Mbutu	Isiala-Ngwa North	Abia	5.320	7.333	2	
 Ikot Mbonde	Itu	Akwa Ibom	5.067	7.917	2	Ikot Mbonde Itam
 Mbirai	Fufore	Adamawa	8.917	12.300	2	Billa
-Mbiama	Yenegoa	Bayelsa	5.065	6.442	3	
 Mbulamel	Biu	Borno	10.628	12.190	2	Bula Mel
 Mbukpo Eyima	Okobo	Akwa Ibom	4.741	8.118	2	
 Ikot Offiong	Akpabuyo	Cross River	4.933	8.421	2	Ikot Offiong Ambai;Ikot Offiong Mbia
@@ -34,12 +36,12 @@ Mbaka	Ikom	Cross River	6.110	8.658	2	Mgbaka
 Mbabbi	Fufore	Adamawa	9.500	12.933	2	Rumde
 Mbara	Vandeikya	Benue	6.905	9.076	2	Mode
 Mbak Ikot Abasi	Uyo	Akwa Ibom	5.002	8.003	2	Mbak
-Mberichi	Ohaji/Egbema	Imo	5.351	6.950	3	
 Mbamga	Fufore	Adamawa	9.060	12.696	2	
 Mbuma Kogu	Hawul	Borno	10.472	12.235	2	
 Mbukpo Uko Akai	Urue Offong/Oruko	Akwa Ibom	4.739	8.196	2	
 Mbororo	Michika	Adamawa	10.649	13.453	2	
 Mbala	Umu-Nneochi	Abia	6.025	7.389	2	
+Yola Mbodewa	Gassol	Taraba	8.483	10.567	2	Yola Bodewa;Mbodewa
 Wuro Mbulmbuldi	Fufore	Adamawa	9.242	12.875	2	
 Mbulo	Jada	Adamawa	8.617	12.017	2	Mbula
 Mbirazuwe	Michika	Adamawa	10.618	13.425	2	
@@ -53,6 +55,7 @@ Mborowa	Biu	Borno	10.849	11.756	2
 Mbok	Ogoja	Cross River	6.401	8.694	2	
 Mbula	Kwaya Kusar	Borno	10.492	11.944	2	
 Mbawsi	Isiala-Ngwa South	Abia	5.383	7.433	2	Nbawsi
+Gidan Mbora	Kurmi	Taraba	7.450	10.717	2	Mbora
 Mbomara	Demsa	Adamawa	9.517	12.250	2	Bumara
 Mboko	Kala-Balge	Borno	12.339	14.466	2	Umm Bok
 Mbowa	Hong	Adamawa	10.356	13.179	2	
@@ -75,7 +78,6 @@ Mbagu Babayo	Shani	Borno	10.230	12.090	2
 Mbororo Machido	Shani	Borno	10.245	11.985	2	
 Mbororo	Shani	Borno	10.241	11.980	2	
 Mbuta	Mafa	Borno	12.040	13.250	2	
-Yimir Mbula Clinic	Chibok	Borno	10.922	12.772	0	
 Jauro Mbula	Bayo	Borno	10.315	11.624	2	
 Mbulabam	Chibok	Borno	10.844	12.908	2	
 Mbabatsu	Chibok	Borno	10.737	12.851	2	
@@ -95,20 +97,352 @@ Mbika	Biu	Borno	10.639	12.452	2
 Mbwakva	Hawul	Borno	10.502	12.348	2	
 Bam Mbula	Biu	Borno	10.739	12.370	2	
 Diwa Mbula	Biu	Borno	10.691	12.375	2	
-EYN Mbalala	Chibok	Borno	10.769	12.879	0	
-Mbaise Secondary School, Aboh Mbaise, Imo State	Aboh-Mbaise	Imo	5.476	7.269	0	
-Group School, Ezuhu Nguru, Aboh Mbaise	Aboh-Mbaise	Imo	5.483	7.266	0	
 Mbatti	Monguno	Borno	12.636	13.531	2	
 Mburta	Monguno	Borno	12.367	13.585	2	
 Mbatti	Monguno	Borno	12.632	13.504	2	
-Mbangan tiren heath post	Jada	Adamawa	8.704	11.999	0	
-Mbulo primary heath center	Ganye	Adamawa	8.655	11.901	0	
-Mbalwaha Health Post	Hong	Adamawa	10.330	12.945	0	
-Mbolinyi Health Post	Hong	Adamawa	10.097	12.954	0	
-Mbanugo Bus stop coal camp	Enugu South	Enugu	6.419	7.478	0	
-Udege-Mbeki Primary Health Centre	Nasarawa	Nasarawa	8.421	7.907	0	
 Mbu Ntu	Burutu	Delta	5.188	5.410	2	
 Mbeban	Akamkpa	Cross River	5.614	8.821	2	
+Mbo	Mbo	Akwa Ibom	4.651	8.249	2	
+Mbaitoli	Mbaitoli	Imo	5.594	7.019	2	
+Isiala Mbano	Isiala Mbano	Imo	5.685	7.196	2	
+Ahiazu-Mbaise	Ahiazu-Mbaise	Imo	5.563	7.264	2	
+Ehime Mbano	Ehime Mbano	Imo	5.688	7.300	2	
+Aboh-Mbaise	Aboh-Mbaise	Imo	5.419	7.261	2	
+Mbokura	Chibok	Borno	10.960	12.773	2	
+Mbalala	Chibok	Borno	10.761	12.836	2	
+Mball	Tafawa-Balewa	Bauchi	9.813	9.794	2	
+Yolde Mbole	Mayo-Belwa	Adamawa	8.876	12.104	2	
+Wuro-Mbonaje	Girei	Adamawa	9.413	12.592	2	Wuro Mbonaje
+Wuro Mbaya	Hong	Adamawa	10.240	13.123	2	
+Mboko Umu Ocha	Osisioma Ngwa	Abia	5.196	7.385	2	Umu Ocha
+Umu Mba	Aba South	Abia	5.082	7.355	2	
+Ntan Mbat	Ibiono Ibom	Akwa Ibom	5.226	7.934	2	
+Nkot Mbuk	Ibiono Ibom	Akwa Ibom	5.148	7.886	2	
+Ndi Wulu Nbe	Isiala-Ngwa North	Abia	5.261	7.475	2	Ndi Wulu Mbe
+Natirdi Mbulo	Fufore	Adamawa	8.949	12.272	2	
+Mgbabo	Ikwo	Ebonyi	6.143	8.293	2	Mbabo
+Mbyorvungu	Konshisha	Benue	7.015	8.759	2	
+Mbya	Konshisha	Benue	7.149	8.666	2	
+Mbwelli	Orlu	Imo	5.800	7.076	2	
+Mbway	Demsa	Adamawa	9.408	12.271	2	
+Mbutu	Aboh-Mbaise	Imo	5.423	7.251	2	
+Mbusa	Donga	Taraba	7.705	9.918	2	
+Mburukem	Biase	Cross River	5.361	8.134	2	
+Mbuntu	Osisioma Ngwa	Abia	5.200	7.333	2	
+Mbu Ntu	Burutu	Delta	5.233	5.400	2	
+Mbumnga	Maiha	Adamawa	10.013	13.072	2	
+Mbulo Tocha	Mayo-Belwa	Adamawa	8.742	11.980	2	
+Mbulo	Jada	Adamawa	8.643	12.024	2	Mbula
+Mbulla Kuduga Kura	Askira-Uba	Borno	10.715	12.726	2	
+Mbulla Kuduga Gana	Askira-Uba	Borno	10.722	12.711	2	
+Mbula	Demsa	Adamawa	9.512	12.191	2	
+Mbukwa	Bende	Abia	5.479	7.674	2	
+Mbukpo Oduobo	Okobo	Akwa Ibom	4.719	8.085	2	
+Mbukpo Eyo Akan	Okobo	Akwa Ibom	4.733	8.102	2	
+Mbuga	Gulani	Yobe	11.019	11.790	2	
+Mbubo	Isiala-Ngwa South	Abia	5.385	7.495	2	
+Mbu	Isi-Uzo	Enugu	6.781	7.603	2	
+Mbowa Paiyagarga	Chibok	Borno	10.929	12.770	2	
+Mbowa Murigangaran	Chibok	Borno	10.959	12.763	2	
+Mbowa Kura	Chibok	Borno	10.946	12.775	2	
+Mbowa Bulatal	Chibok	Borno	10.935	12.760	2	
+Mborowa	Biu	Borno	10.836	11.769	2	
+Mbon Ebre	Oruk Anam	Akwa Ibom	4.864	7.739	2	
+Mbombori	Odukpani	Cross River	5.035	8.194	2	
+Mbom	Umuahia North	Abia	5.551	7.517	2	
+Mbolonga	Gombi	Adamawa	10.140	12.597	2	
+Mbollena	Bama	Borno	11.335	14.172	2	
+Mboko Umuobo	Kolokuma/Opokuma	Bayelsa	5.183	6.383	2	
+Mgboko	Osisioma Ngwa	Abia	5.170	7.359	2	Mboko|Mboko Umuete
+Mboko Nta	Obi Ngwa	Abia	5.283	7.500	2	
+Abdungus	Kala-Balge	Borno	12.340	14.466	2	Mboko|Umm Bok
+Mboko	Isiala-Ngwa North	Abia	5.200	7.417	2	
+Mbok	Ogoja	Cross River	6.390	8.669	2	
+Mbodejam	Fufore	Adamawa	9.437	12.718	2	
+Mbiyar	Shelleng	Adamawa	10.279	12.330	2	
+Mbiuto	Etinan	Akwa Ibom	4.708	7.844	2	
+Mbitakwi	Hong	Adamawa	10.243	12.965	2	
+Mbiri	Ika North East	Delta	6.306	6.277	2	
+Mbiopong	Ikwuano	Abia	5.409	7.568	2	
+Mbiokporo	Nsit Ibom	Akwa Ibom	4.827	7.906	2	
+Mbinyang	Ikwuano	Abia	5.430	7.613	2	
+Mbilla	Gombi	Adamawa	10.180	12.755	2	
+Mbilla	Song	Adamawa	9.889	12.604	2	Mbila
+Mbilla	Fufore	Adamawa	9.398	12.878	2	
+Mbilla	Fufore	Adamawa	9.391	12.775	2	
+Mbilinyi	Hong	Adamawa	10.095	12.960	2	
+Mbikpong Atai	Ibesikpo Asutan	Akwa Ibom	4.945	7.965	2	
+Mbiaya	Uruan	Akwa Ibom	5.103	8.015	2	
+Mbiaya	Uruan	Akwa Ibom	5.103	7.984	2	
+Mbiatsu	Askira-Uba	Borno	10.627	13.160	2	
+Mbiatok	Itu	Akwa Ibom	5.116	7.961	2	
+Mbiaso	Nsit Ibom	Akwa Ibom	4.817	7.897	2	
+Mbiaso	Oruk Anam	Akwa Ibom	4.782	7.592	2	
+Mbiakpan	Ibiono Ibom	Akwa Ibom	5.132	7.915	2	
+Mbiakpa Ibakesi	Ini	Akwa Ibom	5.352	7.718	2	
+Mbiakot	Etim Ekpo	Akwa Ibom	4.949	7.693	2	
+Mbiafun Nkwono	Ikono	Akwa Ibom	5.240	7.725	2	
+Mbiafun	Ini	Akwa Ibom	5.331	7.662	2	
+Mbiabong Ito	Odukpani	Cross River	5.355	7.927	2	
+Mbiabong-Itam	Itu	Akwa Ibom	5.102	7.930	2	
+Mbiabong Ikot-Udofia	Ini	Akwa Ibom	5.334	7.696	2	
+Mbiabong	Odukpani	Cross River	5.475	7.968	2	Ukwa
+Mbiabong Etoi	Uyo	Akwa Ibom	4.986	7.973	2	
+Mbiabong Etim	Ini	Akwa Ibom	5.314	7.701	2	
+Mbiabong	Uyo	Akwa Ibom	5.011	7.839	2	Ukwa
+Mbiabet-Ikot-Efa	Ini	Akwa Ibom	5.337	7.802	2	
+Mbiabam	Ibiono Ibom	Akwa Ibom	5.122	7.919	2	
+Mbewa	Gombi	Adamawa	10.425	12.584	2	
+Mbese	Kurmi	Taraba	7.132	10.650	2	
+Mbesa	Kurmi	Taraba	7.084	10.679	2	
+Mberubu	Nkanu East	Enugu	6.173	7.630	2	
+Mgbirichi	Ohaji/Egbema	Imo	5.356	6.952	2	Mberichi|Mborichi
+Mberi	Hawul	Borno	10.395	12.346	2	
+Mberi	Gombi	Adamawa	10.314	12.332	2	
+Mbente	Ini	Akwa Ibom	5.400	7.661	2	
+Mbenkpi	Ogoja	Cross River	6.477	8.609	2	
+Mbengeci	Maiha	Adamawa	9.983	13.183	2	
+Mbena	Konshisha	Benue	7.001	8.819	2	
+Mbekema	Shani	Borno	10.327	12.261	2	
+Mbeke	Ebonyi	Ebonyi	6.673	8.113	2	
+Mbeke	Isiala Mbano	Imo	5.681	7.212	2	
+Mgbede	Ogba/Egbema/Ndoni	Rivers	5.471	6.726	2	Mbede
+Mbecho	Michika	Adamawa	10.497	13.332	2	
+Mbayosu	Ushongo	Benue	7.204	8.972	2	
+Mbayilan-Bur	Konshisha	Benue	7.082	8.621	2	
+Mbaundi	Mubi North	Adamawa	10.122	13.192	2	
+Mbaukaan	Gboko	Benue	7.487	8.700	2	
+Mbatula	Gboko	Benue	7.420	8.973	2	
+Mbat Esifon	Obot Akara	Akwa Ibom	5.244	7.641	2	
+Mbat	Ini	Akwa Ibom	5.368	7.706	2	
+Mbasorun	Gboko	Benue	7.449	8.643	2	
+Mbasikiri	Nembe	Bayelsa	4.463	6.255	2	
+Mbashara	Awe	Nasarawa	8.022	9.345	2	
+Mbasere	Gboko	Benue	7.300	8.867	2	
+Mbasema	Konshisha	Benue	7.064	8.583	2	
+Mbarowei	Ardo-Kola	Taraba	8.785	11.315	2	
+Mbarka Manga	Sardauna	Taraba	6.719	11.535	2	
+Mbarakpa	Akamkpa	Cross River	5.190	8.431	2	
+Mbarakom	Akamkpa	Cross River	5.269	8.330	2	
+Nbara Akuma	Umuahia South	Abia	5.471	7.443	2	Mbara Akuma
+Mbar	Sardauna	Taraba	6.600	11.155	2	
+Mbango	Song	Adamawa	10.002	12.982	2	
+Mbanga	Shelleng	Adamawa	10.001	12.204	2	
+Mbananden	Konshisha	Benue	7.121	8.648	2	
+Mbana	Jada	Adamawa	8.803	12.203	2	
+Mbamnga	Sardauna	Taraba	6.622	11.209	2	
+Mbam Market	Gwer East	Benue	7.334	8.517	2	
+Mbambe Fulani	Zing	Taraba	8.841	11.875	2	
+Mbamba	Maiha	Adamawa	9.983	13.100	2	
+Mbam	Sardauna	Taraba	7.026	11.385	2	
+Mbaluwaha	Hong	Adamawa	10.330	12.946	2	
+Mbalido	Potiskum	Yobe	11.625	11.151	2	
+Mbalgare	Fufore	Adamawa	9.184	12.780	2	
+Mbalgare	Ganye	Adamawa	8.428	12.081	2	
+Mbalaze	Nkanu East	Enugu	6.181	7.732	2	
+Mbalala Nkyaki	Chibok	Borno	10.755	12.909	2	
+Mbalala Gana	Chibok	Borno	10.767	12.871	2	
+Mbalala	Chibok	Borno	10.775	12.876	2	Balala
+Mbalaha	Gboko	Benue	7.307	8.643	2	
+Mbalagi	Maiha	Adamawa	10.141	13.148	2	
+Mbalagi	Maiha	Adamawa	10.117	13.150	2	
+Mbak Uyo	Esit Eket	Akwa Ibom	4.661	8.107	2	
+Mbakuku	Konshisha	Benue	7.198	8.651	2	
+Mbakpe	Gboko	Benue	7.352	8.611	2	
+Mbakowo	Ini	Akwa Ibom	5.434	7.755	2	
+Mbak Itam	Ibiono Ibom	Akwa Ibom	5.062	7.885	2	
+Mbak Ikot Ebo	Uyo	Akwa Ibom	4.997	8.014	2	
+Mbak Atan	Ibiono Ibom	Akwa Ibom	5.166	7.952	2	
+Mbagu	Shani	Borno	10.228	12.091	2	
+Mbagobiri	Mayo-Belwa	Adamawa	8.801	12.047	2	
+Mbagari	Jada	Adamawa	8.684	11.959	2	
+Mbagare	Mayo-Belwa	Adamawa	8.929	12.170	2	
+Mbagang	Jada	Adamawa	8.737	12.066	2	
+Mbacub	Kwande	Benue	6.693	9.153	2	
+Mbabo	Ikwo	Ebonyi	6.166	8.156	2	
+Mbabende	Konshisha	Benue	7.292	8.521	2	
+Mbaakpur	Konshisha	Benue	7.143	8.622	2	
+Mbaade	Tarka	Benue	7.629	8.825	2	
+Mba	Konshisha	Benue	7.089	8.734	2	
+Mba	Bende	Abia	5.611	7.608	2	
+Mayo Mbona	Jada	Adamawa	8.830	12.182	2	
+Leho Mbulla-Ufa Yamma	Askira-Uba	Borno	10.692	12.820	2	
+Leho Mbulla-Ufa-Gabas	Askira-Uba	Borno	10.690	12.834	2	
+Lafia Mbaka	Gwagwalada	FCT Abuja	9.012	7.047	2	
+Jimba	Ifelodun	Kwara	8.394	4.681	2	Mba
+Jilli Mbalare	Fufore	Adamawa	9.072	12.382	2	
+Ikpe-Mbak-Eyop	Obot Akara	Akwa Ibom	5.268	7.694	2	
+Ikot Udo Mbang	Ukanafun	Akwa Ibom	4.894	7.631	2	
+Ikot Mbong	Oruk Anam	Akwa Ibom	4.759	7.711	2	
+Ikot Mbong	Oruk Anam	Akwa Ibom	4.750	7.700	2	
+Ikot Mbang	Ibiono Ibom	Akwa Ibom	5.057	7.875	2	
+Ikot Mbakara	Akpabuyo	Cross River	4.939	8.503	2	Ikot Mbakara Ene
+Ikot Mba	Ibiono Ibom	Akwa Ibom	5.133	7.868	2	
+Gidan Mbora	Kurmi	Taraba	7.455	10.715	2	Mbora
+Garin Mbororo	Bali	Taraba	8.208	10.703	2	
+Doili	Mafa	Borno	12.040	13.250	2	Mbuta
+Bansan Mbube	Ogoja	Cross River	6.569	8.908	2	
+Mbabi	Mubi South	Adamawa	10.128	13.419	2	
+Mbokokiri	Brass	Bayelsa	4.322	6.508	2	
+Mberen	Shani	Borno	10.227	12.243	2	
+Mbanumbu	Gwer East	Benue	7.255	8.287	2	
+Tse Tsavau Mba	Gwer East	Benue	7.463	8.301	2	
+Mbaker	Gboko	Benue	7.487	8.767	2	
+Mbaparegh	Gwer West	Benue	7.623	8.296	2	
+Mbagba	Apa	Benue	7.661	8.059	2	
+Mbarakpa	Akamkpa	Cross River	5.205	8.459	2	
+Mbiabo	Odukpani	Cross River	5.219	8.061	2	
+Mbarakom	Akamkpa	Cross River	5.247	8.318	2	
+Ikot Mbuze	Biase	Cross River	5.409	8.067	2	
+Mbewé	Takum	Taraba	6.680	9.749	2	
+Mbaya	Boki	Cross River	6.518	8.845	2	
+Mbebu	Akamkpa	Cross River	4.993	8.510	2	
+Mbahako	Shiroro	Niger	10.309	6.858	2	
+Mbiere Ebe	Ibesikpo Asutan	Akwa Ibom	4.997	7.901	2	
+Ikot Mbong	Etinan	Akwa Ibom	4.715	7.869	2	
+Mbak	Itu	Akwa Ibom	5.171	7.997	2	
+Mbiabong-Anan	Ibiono Ibom	Akwa Ibom	5.151	7.874	2	
+Mbiakpan	Ibiono Ibom	Akwa Ibom	5.079	7.884	2	
+Ikot Mpon	Itu	Akwa Ibom	5.060	7.912	2	Ikot Mbon
+Mbamba	Isiala Mbano	Imo	5.661	7.116	2	
+Itu Mbauzo	Ini	Akwa Ibom	5.497	7.701	2	Itu Mbuso
+Mbiabong	Ikono	Akwa Ibom	5.259	7.769	2	
+Eyop	Obot Akara	Akwa Ibom	5.257	7.676	2	Ikpe-Mbak-Eyop
+Ogultu-Mbauzo	Ini	Akwa Ibom	5.437	7.762	2	
+Mbente	Ini	Akwa Ibom	5.422	7.651	2	
+Mbiabong	Ini	Akwa Ibom	5.364	7.864	2	
+Mbiabong-Ikot-Udo	Ini	Akwa Ibom	5.345	7.687	2	
+Mbiabong Ikon No. 2	Ikono	Akwa Ibom	5.294	7.774	2	
+Mbiafin-Ikot Antia	Ikono	Akwa Ibom	5.286	7.763	2	
+Mbiabong Ikon No. 1	Ikono	Akwa Ibom	5.311	7.758	2	
+Mbiabong	Ikono	Akwa Ibom	5.295	7.737	2	
+Mbioku-Ikot Abasi	Ikono	Akwa Ibom	5.280	7.743	2	
+Ikot Mbuk	Ibiono Ibom	Akwa Ibom	5.237	7.904	2	
+Ikot Mboho	Obot Akara	Akwa Ibom	5.191	7.627	2	
+Mbiaso	Ikot Ekpene	Akwa Ibom	5.215	7.674	2	
+Mbak Ikot Awa	Ibiono Ibom	Akwa Ibom	5.172	7.942	2	
+Ikot Mbit	Ibiono Ibom	Akwa Ibom	5.150	7.909	2	
+Mbiabong Odung Etim	Ibiono Ibom	Akwa Ibom	5.174	7.864	2	
+Mbiabong Edem Edik	Ibiono Ibom	Akwa Ibom	5.168	7.870	2	
+Mbiabong Ikot Eboro	Uyo	Akwa Ibom	5.097	7.808	2	
+Ibong Ikpe Mbiabet	Essien Udim	Akwa Ibom	5.105	7.775	2	
+Mbiabam	Ibiono Ibom	Akwa Ibom	5.067	7.885	2	
+Mbiakpan	Ibiono Ibom	Akwa Ibom	5.046	7.859	2	
+Mbiakpa Ndiya	Ikono	Akwa Ibom	5.182	7.751	2	
+Mbosi	Ihiala	Anambra	5.855	6.894	2	
+Mbiri Farm Settlement	Ika North East	Delta	6.338	6.275	2	
+Ehime -Mbano	Ehime Mbano	Imo	5.665	7.303	2	
+Mbatoli	Mbaitoli	Imo	5.590	7.039	2	Mbaitoli
+Mbiri-Igboko	Ika North East	Delta	6.356	6.298	2	
+Ezinihitte	Ezinihitte	Imo	5.479	7.326	2	Ezinihitte Mbaise|Ezinihitte Mbaise Local Government Area
+Mbuliya	Bama	Borno	11.358	13.739	2	
+Mbiatso	Michika	Adamawa	10.515	13.311	2	
+Mbawa	Mubi North	Adamawa	10.301	13.198	2	
+Mbodo	Ikwerre	Rivers	4.936	6.973	2	
+Mbauhar	Gwer East	Benue	7.163	8.339	2	
+Mbora	Yala	Cross River	6.385	8.466	2	
+Mbokura	Chibok	Borno	10.960	12.757	2	
+Mbaterem	Markurdi	Benue	7.664	8.467	2	
+Mbanegen	Logo	Benue	7.765	9.179	2	
+Mbamchubu	Logo	Benue	7.587	9.171	2	
+Mbatsav	Buruku	Benue	7.510	9.112	2	
+Mbakighir	Logo	Benue	7.736	9.192	2	
+Mbapuun	Logo	Benue	7.562	9.187	2	
+Mbasua	Wukari	Taraba	7.876	9.514	2	
+Mbambum	Wukari	Taraba	7.849	9.526	2	
+Mbaiorga	Wukari	Taraba	7.847	9.561	2	
+Mbayev	Wukari	Taraba	7.923	9.955	2	
+Mbava	Ukum	Benue	7.730	9.627	2	
+Mbayanku	Ukum	Benue	7.705	9.566	2	
+Mba	Ukum	Benue	7.620	9.637	2	
+Mbasev	Ukum	Benue	7.522	9.559	2	
+Mbagou	Ukum	Benue	7.518	9.581	2	
+Mbasongo	Ukum	Benue	7.625	9.660	2	
+Mbaliho	Ukum	Benue	7.661	9.735	2	
+Mbazar	Ukum	Benue	7.570	9.750	2	
+Mbajir	Donga	Taraba	7.614	9.869	2	
+Mbatimin	Donga	Taraba	7.661	9.903	2	
+Mbayugh	Takum	Taraba	7.501	9.908	2	
+Mbakpeneve	Donga	Taraba	7.690	9.936	2	
+Mbashinya	Buruku	Benue	7.497	9.043	2	
+Mbatie	Gboko	Benue	7.447	9.062	2	
+Mbakuuv	Gboko	Benue	7.402	9.048	2	
+Mbatie	Buruku	Benue	7.450	9.118	2	
+Mbio	Buruku	Benue	7.473	9.102	2	
+Mbajor	Buruku	Benue	7.452	9.178	2	
+Mbanongon	Gboko	Benue	7.364	9.126	2	
+Mbatolough	Buruku	Benue	7.328	9.163	2	
+Mbachia	Buruku	Benue	7.335	9.281	2	Mbaachia
+Mbati	Buruku	Benue	7.271	9.287	2	
+Mbahi	Katsina-Ala	Benue	7.375	9.495	2	
+Mbatshanga	Katsina-Ala	Benue	7.266	9.480	2	Mbatsanga
+Mbayinma	Ushongo	Benue	7.166	9.007	2	
+Mbagwa	Gboko	Benue	7.185	9.042	2	
+Mbaamandev	Ushongo	Benue	7.151	9.036	2	
+Mbaleva	Buruku	Benue	7.185	9.175	2	
+Mbabge	Ushongo	Benue	7.067	9.125	2	Mbagbe
+Mbashinya	Ushongo	Benue	7.105	9.231	2	
+Mbaze	Ushongo	Benue	7.101	9.234	2	
+Mba	Ushongo	Benue	7.017	9.217	2	Mbaga
+Mba	Buruku	Benue	7.238	9.292	2	Mbaka
+Mbatimin	Ushongo	Benue	7.099	9.307	2	
+Uchi Mbakor	Tarka	Benue	7.684	8.817	2	
+Mbatsav	Gboko	Benue	7.441	8.830	2	
+Mbaulu	Gboko	Benue	7.488	8.981	2	
+Mbalaha	Gboko	Benue	7.459	8.981	2	
+Mbaamenge	Gboko	Benue	7.450	8.978	2	
+Mbatseghem	Gboko	Benue	7.365	8.989	2	
+Mbaulu	Gboko	Benue	7.366	8.960	2	
+Mbakela	Gboko	Benue	7.347	8.883	2	
+Mbalashima	Gboko	Benue	7.304	8.977	2	
+Gidan Mbanwi	Shiroro	Niger	9.835	6.700	2	
+Mbeweri	Jada	Adamawa	8.806	12.258	2	
+Wuro Mbala	Jada	Adamawa	8.641	12.405	2	
+Mbulan	Zing	Taraba	8.887	11.848	2	
+Mbambe Arna	Zing	Taraba	8.854	11.874	2	
+Mbuluwol	Mayo-Belwa	Adamawa	8.957	11.959	2	
+Mburuwe	Mayo-Belwa	Adamawa	8.937	11.956	2	
+Mban	Shendam	Plateau	8.842	9.545	2	
+Mban	Langtang North	Plateau	8.989	9.874	2	
+Mbamba	Yola North	Adamawa	9.316	12.365	2	
+Mbamnga-Sabonlayi	Lau	Taraba	9.183	11.603	2	
+Mbamnga Punznu Area	Yorro	Taraba	9.128	11.647	2	
+Mbokindawa	Demsa	Adamawa	9.420	11.878	2	
+Mbamugel Dayuyi	Mayo-Belwa	Adamawa	9.170	11.931	2	
+Mbamugel Waifa	Mayo-Belwa	Adamawa	9.156	11.940	2	
+Mbamgel	Mayo-Belwa	Adamawa	9.139	11.942	2	
+Mbamnga Yerima-Shauya	Lau	Taraba	9.155	11.587	2	
+Mbalowa	Karim Lamido	Taraba	9.395	10.889	2	
+Mbormi	Karim Lamido	Taraba	9.274	10.928	2	
+Mbodewa	Karim Lamido	Taraba	9.197	11.026	2	
+Olorun-Mbusi	Aiyedade	Osun	7.304	4.386	2	
+Mbaiwo	Fufore	Adamawa	9.397	12.827	2	
+Mbulkito	Fufore	Adamawa	9.387	12.807	2	
+Wuro-Mbamba	Yola North	Adamawa	9.161	12.533	2	Wuro Mbamba
+Mbamba Rumnde Alkali	Yola North	Adamawa	9.197	12.571	2	
+Wuro-Galandima	Fufore	Adamawa	9.421	12.791	2	Mbilla Bantaje Wuro Galadima
+Mbewere	Fufore	Adamawa	9.224	12.744	2	
+Mbedeng	Fufore	Adamawa	9.475	12.694	2	
+Mbinda	Shelleng	Adamawa	9.978	12.164	2	
+Mbongirga	Song	Adamawa	9.972	12.291	2	
+Mbarawo	Song	Adamawa	9.931	12.274	2	
+Mbor	Song	Adamawa	9.920	12.337	2	
+Mbondi	Song	Adamawa	9.795	12.418	2	
+Mbudda	Song	Adamawa	9.953	12.647	2	
+Mboi	Song	Adamawa	9.925	12.619	2	
+Mbilla Villages	Song	Adamawa	9.736	12.947	2	MbillaVillages
+Mburgu	Fufore	Adamawa	9.634	12.763	2	
+Mbara	Sardauna	Taraba	6.619	11.195	2	
+Mbua	Sardauna	Taraba	6.796	11.327	2	
+Mbele	Sardauna	Taraba	6.853	11.317	2	
+Mbu	Sardauna	Taraba	6.693	11.167	2	
+Mbamnga Petel	Sardauna	Taraba	6.580	11.208	2	
+Mbap	Sardauna	Taraba	6.925	11.368	2	
+Mbu	Sardauna	Taraba	6.685	11.249	2	
+Gidan Mba	Sardauna	Taraba	6.942	11.476	2	
+Mbur	Sardauna	Taraba	6.594	11.275	2	
+Mbaso	Sardauna	Taraba	6.883	11.322	2	
+Mbodejam	Fufore	Adamawa	9.395	12.729	2	
 Ozumba Mbadiwe Avenue	Eti Osa	Lagos	6.436	3.416	1	
 Mba Street	Surulere	Lagos	6.497	3.356	1	
 Mbukpa Road	Calabar South	Cross River	4.937	8.317	1	
@@ -147,9 +481,7 @@ Aniji Mbaikpa Close	Enugu East	Enugu	6.496	7.510	1
 Ehme Mbano Street	Enugu East	Enugu	6.491	7.493	1	
 Emma Mbanugo	Enugu East	Enugu	6.480	7.484	1	
 Mbagu Close	Enugu South	Enugu	6.385	7.472	1	
-Mbanabo Street	Enugu North	Enugu	6.459	7.517	1	
 Mbanugo Street	Enugu North	Enugu	6.447	7.506	1	
-Mbaukwu Street	Enugu North	Enugu	6.464	7.538	1	
 Stanley Mbamelu Street	Enugu East	Enugu	6.493	7.499	1	
 Mbeledeogu Close	Enugu North	Enugu	6.431	7.532	1	
 Chike Mba Crescent	Enugu East	Enugu	6.485	7.543	1	
@@ -158,8 +490,6 @@ Mike Mbadiwe Close	Enugu North	Enugu	6.455	7.556	1
 Nonso Mba Street	Enugu East	Enugu	6.466	7.571	1	
 Mbiama to Effurun, Warri	Ughelli North	Delta	5.579	5.868	1	
 Mbiama to Effurun, Uvwie	Uvwie	Delta	5.574	5.792	1	
-Mbiama to Effurun, Warri	Uvwie	Delta	5.579	5.827	1	
-Mbiama to Effurun, Warri	Uvwie	Delta	5.578	5.825	1	
 Mbato Road	Umuahia North	Abia	5.616	7.447	1	
 Mbiama to Effurun, Warri	Ughelli North	Delta	5.366	6.061	1	
 Mbiama to Effurun, Warri	Ughelli North	Delta	5.287	6.074	1	
@@ -170,9 +500,7 @@ Mbelekwuru Road	Obio/Akpor	Rivers	4.847	6.936	1
 Avuvu Ikeduru/Umuezie Nguru Aboh Mbaise Road	Aboh-Mbaise	Imo	5.496	7.191	1	
 Umuezie Primary School/Ofeama Road Aboh Mbaise	Aboh-Mbaise	Imo	5.498	7.198	1	
 Nkwo-Mbaise road	Aboh-Mbaise	Imo	5.510	7.273	1	
-Sam Mbakwe Avenue	Owerri Municipal	Imo	5.484	7.010	1	
 Mbiama to Effurun, Warri	Patani	Delta	5.211	6.157	1	
-Mbella Sarki Dispensary	Nangere	Yobe	11.616	10.990	0	
 Mbu Close	Eti Osa	Lagos	6.441	3.420	1	
 Chief Charles Mba Street	Eti Osa	Lagos	6.440	3.489	1	
 Mbiama to Effurun, Warri	Uvwie	Delta	5.573	5.791	1	
@@ -191,10 +519,25 @@ Odoro Mbot	Ukanafun	Akwa Ibom	4.864	7.657	1
 Mbiama to Effurun, Warri	Kolokuma/Opokuma	Bayelsa	5.149	6.266	1	
 Mbiama to Effurun, Warri	Sagbama	Bayelsa	5.224	6.197	1	
 Mbiama to Effurun, Warri	Kolokuma/Opokuma	Bayelsa	5.164	6.252	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.264	6.093	1	
-Mbukobe	Ikwo	Ebonyi	6.167	8.298	0	
 Nkwo-Mbaise by Cathedral Junction	Ahiazu-Mbaise	Imo	5.515	7.270	1	
 Chief Charles Mba Street	Eti Osa	Lagos	6.434	3.518	1	
+Mbulu Ikechukwu Street	Municipal Area Council	FCT Abuja	8.970	7.581	1	
+Mbiama Yeneagoa Road	Yenegoa	Bayelsa	4.986	6.376	1	
+Mbiama to Effurun, Warri	Ughelli North	Delta	5.335	6.063	1	
+Ozumba Mbadiwe Avenue	Eti Osa	Lagos	6.438	3.439	1	
+Mbato Road	Umuahia North	Abia	5.648	7.439	1	
+Yimir Mbula Clinic	Chibok	Borno	10.922	12.772	0	
+EYN Mbalala	Chibok	Borno	10.769	12.879	0	
+Mbaise Secondary School, Aboh Mbaise, Imo State	Aboh-Mbaise	Imo	5.476	7.269	0	
+Group School, Ezuhu Nguru, Aboh Mbaise	Aboh-Mbaise	Imo	5.483	7.266	0	
+Mbangan tiren heath post	Jada	Adamawa	8.704	11.999	0	
+Mbulo primary heath center	Ganye	Adamawa	8.655	11.901	0	
+Mbalwaha Health Post	Hong	Adamawa	10.330	12.945	0	
+Mbolinyi Health Post	Hong	Adamawa	10.097	12.954	0	
+Mbanugo Bus stop coal camp	Enugu South	Enugu	6.419	7.478	0	
+Udege-Mbeki Primary Health Centre	Nasarawa	Nasarawa	8.421	7.907	0	
+Mbella Sarki Dispensary	Nangere	Yobe	11.616	10.990	0	
+Mbukobe	Ikwo	Ebonyi	6.167	8.298	0	
 Mbanefo Hospital	Enugu East	Enugu	6.473	7.505	0	
 General Hospital, Aboh Mbaise	Aboh-Mbaise	Imo	5.477	7.272	0	
 Mbula primary heath center	Jada	Adamawa	8.646	12.028	0	
@@ -209,22 +552,4 @@ Mbedawo	Fufore	Adamawa	9.299	12.703	0
 Mbila Health Clinic Mbilla Bilachi	Fufore	Adamawa	9.397	12.877	0	
 Mbulanga Health Clinic	Hong	Adamawa	10.178	12.854	0	
 Health Post Mblagyang	Hong	Adamawa	10.339	13.047	0	
-Mbulu Ikechukwu Street	Municipal Area Council	FCT Abuja	8.970	7.581	1	
-Mbiama to Effurun, Warri	Sagbama	Bayelsa	5.175	6.237	1	
-Mbiama Yeneagoa Road	Yenegoa	Bayelsa	4.986	6.376	1	
-Mbiama to Effurun, Warri	Ughelli North	Delta	5.335	6.063	1	
-Ozumba Mbadiwe Avenue	Eti Osa	Lagos	6.439	3.427	1	
-Ozumba Mbadiwe Avenue	Eti Osa	Lagos	6.438	3.439	1	
-Iman Street	Calabar South	Cross River	4.932	8.315	1	Mbukpa Road
-Mbato Road	Umuahia North	Abia	5.648	7.439	1	
-Mbato Road	Umuahia North	Abia	5.638	7.449	1	
-Prof Mbonu Surgical Ward	Nnewi North	Anambra	5.997	6.880	0	
-Mbo	Mbo	Akwa Ibom	4.651	8.249	2	
-Mbaitoli	Mbaitoli	Imo	5.594	7.019	2	
-Isiala Mbano	Isiala Mbano	Imo	5.685	7.196	2	
-Ahiazu-Mbaise	Ahiazu-Mbaise	Imo	5.563	7.264	2	
-Ehime Mbano	Ehime Mbano	Imo	5.688	7.300	2	
-Aboh-Mbaise	Aboh-Mbaise	Imo	5.419	7.261	2	
-Mbokura	Chibok	Borno	10.960	12.773	2	
-Mbalala	Chibok	Borno	10.761	12.836	2	
-Mball	Tafawa-Balewa	Bauchi	9.813	9.794	2	
+Prof Mbonu Surgical	Nnewi North	Anambra	5.997	6.880	0	

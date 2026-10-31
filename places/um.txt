@@ -1,7 +1,22 @@
+Umulokpa	Uzo-Uwani	Enugu	6.508	7.097	3	
+Umunze	Orumba South	Anambra	5.966	7.237	3	Ururow-Umunze;Enugu Umunze
+Umunede	Ika North East	Delta	6.265	6.310	3	
+Umuneke Ngor	Ngor-Okpala	Imo	5.335	7.152	3	Umu Neke
+Umudioka	Oyi	Anambra	6.185	6.921	3	
+Umuahia	Umuahia North	Abia	5.532	7.492	3	
+Umuguma	Owerri West	Imo	5.468	6.966	3	
+Omuma	Oru East	Imo	5.757	6.946	3	Umumma
+Umundugba	Isu	Imo	5.692	7.067	3	
+Umuoji	Idemili South	Anambra	6.105	6.886	3	
+Umuneke-Ngor	Ngor-Okpala	Imo	5.336	7.152	3	Nmu Neke|Umu-Neke|Umuneke
+Umulona	Uzo-Uwani	Enugu	6.508	7.097	3	Umulokpa|Umuluokpa
+Umuelemai	Isiala Mbano	Imo	5.688	7.243	3	Umu Elemai|Umulemai
+Umundugba	Isu	Imo	5.676	7.072	3	Amanduba|Amandugba
+Umumma	Oru East	Imo	5.757	6.946	3	Omuma
+Umungasi	Osisioma Ngwa	Abia	5.130	7.340	2	
 Umuka	Ohaozara	Ebonyi	6.014	7.883	2	Umunuka
 Umualu Ugwoioba	Oji-River	Enugu	6.244	7.167	2	Umualu-Ugwoioba
 Umuezeaka	Ezza North	Ebonyi	6.197	7.973	2	Umuezeoka
-Umulokpa	Uzo-Uwani	Enugu	6.508	7.097	3	
 Umundu	Udenu	Enugu	6.887	7.494	2	
 Umudim	Udi	Enugu	6.336	7.385	2	Obeleagu
 Uma	Ushongo	Benue	7.113	8.854	2	Amua
@@ -18,7 +33,6 @@ Mal Umari	Kaga	Borno	11.454	12.642	2
 Umuohiri	Isiala Mbano	Imo	5.733	7.217	2	Umuohir
 Umegbe	Oredo	Edo	6.228	5.556	2	
 Umuhumu	Orhionmwon	Edo	5.950	5.967	2	Umubumu;Umuhumu
-Umunze	Orumba South	Anambra	5.966	7.237	3	Ururow-Umunze;Enugu Umunze
 Umu Okpo	Obi Ngwa	Abia	5.133	7.500	2	Okpo
 Umaruma	Kware	Sokoto	13.121	5.312	2	Umaroma
 UmuajiOwa	Ezeagu	Enugu	6.339	7.200	2	
@@ -59,10 +73,8 @@ Dan-Umoru	Wasagu-Danko	Kebbi	11.450	6.009	2
 Rumuofa	Obio/Akpor	Rivers	4.891	7.030	2	Umuofa;Umuola
 Rumuogonoma	Obio/Akpor	Rivers	4.896	7.038	2	Umuoqonnama;Umuoqonoma
 Umueze Anam	Anambra West	Anambra	6.337	6.834	2	
-Umunede	Ika North East	Delta	6.265	6.310	3	
 Umu Ogii	Ngor-Okpala	Imo	5.317	7.046	2	
 Umu Eworo	Biase	Cross River	5.750	7.917	2	
-Umuneke Ngor	Ngor-Okpala	Imo	5.335	7.152	3	Umu Neke
 Umunoha	Mbaitoli	Imo	5.617	6.983	2	
 Umu Opara	Umuahia South	Abia	5.548	7.443	2	
 Umon Town	Biase	Cross River	5.319	8.083	2	
@@ -85,7 +97,6 @@ Umogidi	Oturkpo	Benue	7.520	7.978	2	Imogedde
 Rumu-Ola	Obio/Akpor	Rivers	4.836	6.992	2	Umuolo
 Umu Aja	Obi Ngwa	Abia	5.117	7.533	2	Aja;Akata
 Umuelem	Ayamelum	Anambra	6.459	7.013	2	
-Umudioka	Oyi	Anambra	6.185	6.921	3	
 Umu Anunu	Obi Ngwa	Abia	5.233	7.500	2	Anunu
 Umutu	Ukwuani	Delta	5.917	6.226	2	
 Umuachi Afor	Ndokwa East	Delta	5.785	6.461	2	
@@ -128,8 +139,6 @@ Ikot Oma	Akpabuyo	Cross River	4.939	8.547	2	Nyon Idibi Ikot Umo;Ikot Umo
 Umudike	Ndokwa East	Delta	5.910	6.469	2	
 Umu Ozu Isu	Nwangele	Imo	5.723	7.130	2	
 Umolo-Olomu	Ughelli South	Delta	5.411	5.904	2	Umolo
-St Anthony's Primary School, Umudioka	Idemili North	Anambra	6.162	6.919	0	
-Umuahia	Umuahia North	Abia	5.532	7.492	3	
 Alajiri Umarari	Nganzai	Borno	12.731	13.099	2	
 Mallam Bowori	Magumeri	Borno	12.176	12.992	2	Mallam Umarti
 Mallum Umarti	Magumeri	Borno	12.052	12.903	2	
@@ -200,15 +209,9 @@ Umarari	Konduga	Borno	11.633	13.276	2
 Lawan Umarti	Konduga	Borno	11.599	12.977	2	
 Alhaji Umarari	Konduga	Borno	11.644	13.227	2	
 Umarari	Kaga	Borno	11.947	12.662	2	
-Umuguma	Owerri West	Imo	5.468	6.966	3	
-Ummodah filling station	Billiri	Gombe	9.910	11.217	0	
 Umuoye	Awgu	Enugu	6.247	7.469	2	
-Umuezie Community Primary School	Aboh-Mbaise	Imo	5.495	7.197	0	
 Umbunushi	Ajingi	Kano	11.925	9.051	2	
-University of Maiduguri Teaching Hospital UMTH	Jere	Borno	11.825	13.186	0	
-Ba Umshe Health Post	Fufore	Adamawa	9.366	12.696	0	
 Umunkpu	Umuahia North	Abia	5.653	7.431	2	
-Umaualumaku/Umuihim Town Union	Ehime Mbano	Imo	5.633	7.287	0	
 Umuolo	Ndokwa East	Delta	5.431	6.487	2	
 Umudike	Ohaji/Egbema	Imo	5.426	6.771	2	
 Umuokwu	Oguta	Imo	5.639	6.856	2	
@@ -218,7 +221,6 @@ Umuecheta	Owerri West	Imo	5.444	6.973	2
 Umukunne	Ohaji/Egbema	Imo	5.271	6.942	2	
 Umuosu	Ohaji/Egbema	Imo	5.310	6.902	2	
 Umuagwu	Ohaji/Egbema	Imo	5.295	6.896	2	
-Omuma	Oru East	Imo	5.757	6.946	3	Umumma
 Ochuche-Umuodo	Ogbaru	Anambra	5.956	6.730	2	
 Umueze-Inyi	Ndokwa East	Delta	5.898	6.605	2	
 Umuochi Utchi	Ndokwa East	Delta	5.889	6.648	2	
@@ -226,38 +228,519 @@ Umuobhi	Ndokwa East	Delta	5.900	6.668	2
 Ovara-Umusu	Ughelli North	Delta	5.673	6.098	2	
 Umuedem Camp	Ndokwa East	Delta	5.691	6.576	2	
 Umugbome Camp	Ndokwa East	Delta	5.698	6.609	2	
-Umeh Uche Martin and sons	Jos North	Plateau	9.927	8.912	0	
-UMM clinic kabong	Jos North	Plateau	9.928	8.872	0	
-Alhaji umaru ngelzarma	Jos North	Plateau	9.972	8.895	0	
-Umogidi Primary Health Centre	Oturkpo	Benue	7.553	8.000	0	
 Umunekwu	Isuikwuato	Abia	5.774	7.450	2	
 Umuobiala	Isuikwuato	Abia	5.716	7.469	2	
-Umundugba	Isu	Imo	5.692	7.067	3	
-Umuoji	Idemili South	Anambra	6.105	6.886	3	
-UMURUDEN	Ungongo	Kano	12.050	8.576	0	
-UMMUL KHAIRI ISLAMIYYA	Ungongo	Kano	12.043	8.566	0	
-MARKAZU ISALIL KHAIR UMMATI SCHOOL	Ungongo	Kano	12.046	8.570	0	
-UMAR GENERAL GAS	Ungongo	Kano	12.048	8.579	0	
-UMMUL QURA ISLAMIYYA	Gwale	Kano	11.964	8.478	0	
 Umu Dikwu Ibeku Opi	Nsukka	Enugu	6.781	7.423	2	Umu Dikwu Agbor
 Obeleagu Umana	Ezeagu	Enugu	6.344	7.362	2	
-Umuchigbo Secondary School	Enugu East	Enugu	6.495	7.533	0	
 Umueze	Nkanu West	Enugu	6.317	7.533	2	
-Agbama Housing Estate Main Gate, Umuahia, Abia State	Umuahia South	Abia	5.502	7.499	0	
-Umachi Clinic	Igbo-Eze-South	Enugu	6.922	7.466	0	
 Ebele-Umuimama	Ishielu	Ebonyi	6.548	7.863	2	
 Aguebele Umuimama	Ishielu	Ebonyi	6.548	7.863	2	Ebele
+Iro Mmawu Umuegorom	Ihiala	Anambra	5.873	6.845	2	
+Umuihim-Oki	Ehime Mbano	Imo	5.630	7.288	2	
+Inikiri Umuezeoka	Ohaukwu	Ebonyi	6.662	8.001	2	
+Dan Umaru Mairairai	Wasagu-Danko	Kebbi	11.321	6.102	2	
+Umu-Nneochi	Umu-Nneochi	Abia	5.973	7.405	2	
+Umuahia South	Umuahia South	Abia	5.498	7.462	2	
+Umuahia North	Umuahia North	Abia	5.608	7.476	2	
+Zulum Umarti	Mobbar	Borno	13.037	12.461	2	
+Wuro Umaru Boronuna	Shani	Borno	10.067	12.070	2	
+Wuro Umaru	Fufore	Adamawa	9.519	13.035	2	
+Wuro Umaru	Mayo-Belwa	Adamawa	8.807	11.975	2	
+Wuro Umaru	Jada	Adamawa	8.604	12.090	2	
+Usaka-Umu-Ofo	Obi Ngwa	Abia	5.297	7.511	2	
+Ungwan Umaru	Zaria	Kaduna	11.033	7.559	2	
+Umuzomgbo	Arochukwu	Abia	5.461	7.899	2	
+Umuzi	Ihitte/Uboma	Imo	5.656	7.348	2	
+Umu Uvo	Isiala-Ngwa North	Abia	5.283	7.300	2	
+Umu Ukpo	Etche	Rivers	5.150	7.183	2	
+Umu Uhie	Isiala-Ngwa North	Abia	5.231	7.391	2	
+Umu-Ugo	Isiala-Ngwa South	Abia	5.361	7.534	2	
+Umutu	Ukwuani	Delta	5.915	6.224	2	
+Umusume Quarters	Ukwuani	Delta	5.853	6.161	2	
+Umusadege	Ndokwa West	Delta	5.692	6.428	2	
+Umuozuo	Osisioma Ngwa	Abia	5.083	7.300	2	
+Umu-Ozu-Isu	Nwangele	Imo	5.723	7.130	2	
+Umu Ozu	Isiala Mbano	Imo	5.618	7.210	2	
+Umu Oyoro	Omumma	Rivers	5.133	7.242	2	
+Umu-Oye	Ngor-Okpala	Imo	5.447	7.181	2	
+Umu Owa	Ngor-Okpala	Imo	5.386	7.156	2	Umouwa
+Umuosu	Isiala-Ngwa South	Abia	5.396	7.479	2	
+Umu Osu	Isiala Mbano	Imo	5.670	7.157	2	
+Umuoso-Onyoku	Obi Ngwa	Abia	5.292	7.510	2	Umuoso-Onyoke
+Umuosonmu	Ndokwa East	Delta	5.741	6.445	2	Umuosonwu
+Umuosi Amumara	Ikeduru	Imo	5.592	7.178	2	
+Umuosi	Oyigbo	Rivers	4.861	7.299	2	
+Umuoru	Obi Ngwa	Abia	5.100	7.450	2	
+Umu Oru	Omumma	Rivers	5.201	7.269	2	
+Rumuoro	Emuoha	Rivers	4.826	6.909	2	Umuoro
+Rumuoqonoma	Obio/Akpor	Rivers	4.896	7.038	2	Umuoqonnama|Umuoqonoma
+Umuopia	Isiala-Ngwa North	Abia	5.267	7.417	2	
+Umu Opee	Ehime Mbano	Imo	5.633	7.317	2	
+Umuoparali	Degema	Rivers	4.667	7.017	2	
+Umu Opara	Ehime Mbano	Imo	5.659	7.314	2	
+Umu Opara	Ehime Mbano	Imo	5.637	7.267	2	
+Umuonhie	Ngor-Okpala	Imo	5.309	7.179	2	
+Umu Omeke	Ehime Mbano	Imo	5.690	7.275	2	
+Umu Omei	Obi Ngwa	Abia	5.200	7.519	2	
+Umuomayi	Obi Ngwa	Abia	5.050	7.433	2	
+Umu Omayi	Isiala-Ngwa South	Abia	5.383	7.433	2	
+Umu Oma	Owerri West	Imo	5.433	7.017	2	
+Umuokwara	Okigwe	Imo	5.815	7.350	2	
+Umu Okwa	Omumma	Rivers	5.147	7.251	2	
+Umu-Okrika	Ahiazu-Mbaise	Imo	5.570	7.274	2	
+Umu Okpukpara	Isiala Mbano	Imo	5.696	7.205	2	
+Umuokpo	Awka South	Anambra	6.199	7.048	2	Umukpu|Umuokpu
+Umuokpe	Bende	Abia	5.780	7.713	2	Umuokpo
+Umuokpe	Bende	Abia	5.459	7.676	2	
+Umu Okpara Egbelu	Obi Ngwa	Abia	5.266	7.548	2	
+Umu Okpara	Obi Ngwa	Abia	5.215	7.503	2	
+Umu Okoro Uku	Isiala-Ngwa North	Abia	5.250	7.400	2	
+Umuokorola	Bende	Abia	5.644	7.607	2	
+Umuokoro	Obi Ngwa	Abia	5.238	7.476	2	
+Umuokolo	Ndokwa East	Delta	5.921	6.481	2	
+Umu Okohia	Obi Ngwa	Abia	5.252	7.501	2	
+Rumuoko	Ikwerre	Rivers	4.921	6.911	2	Umu-oko|Umuoko
+Umu Oko	Isiala-Ngwa North	Abia	5.217	7.400	2	
+Umuoke	Obowo	Imo	5.566	7.399	2	
+Umu Okahia	Obi Ngwa	Abia	5.122	7.395	2	
+Umu Ojima Ogbu	Osisioma Ngwa	Abia	5.135	7.307	2	
+Umuoji	Idemili North	Anambra	6.140	6.911	2	
+Amuawta	Idemili North	Anambra	6.109	6.823	2	Umuaja-Obosi|Umuoja-Obosi
+Umuohu-Udume	Umuahia North	Abia	5.513	7.501	2	Umuohu Ndume
+Umuohu-Azueke	Umuahia North	Abia	5.509	7.529	2	
+Umu Ohie Uku	Ngor-Okpala	Imo	5.317	7.250	2	
+Umuohia	Isiala-Ngwa North	Abia	5.280	7.454	2	
+Umu-Ohia	Obi Ngwa	Abia	5.140	7.395	2	
+Umuogu	Isiala-Ngwa South	Abia	5.417	7.467	2	
+Umu Ogu	Aboh-Mbaise	Imo	5.367	7.283	2	
+Umuogouefi	Awka North	Anambra	6.310	7.157	2	
+Umuogem	Orumba North	Anambra	6.073	7.246	2	
+Umuofa	Ikeduru	Imo	5.511	7.125	2	
+Umuodoma	Ihitte/Uboma	Imo	5.642	7.364	2	
+Umuocheala	Ngor-Okpala	Imo	5.319	7.290	2	
+Umu Ocham	Osisioma Ngwa	Abia	5.133	7.350	2	
+Mboko Umu Ocha	Osisioma Ngwa	Abia	5.196	7.385	2	Umu Ocha
+Umuobor	Omumma	Rivers	5.117	7.233	2	
+Umu Obom	Ideato South	Imo	5.845	7.145	2	
+Umuobo	Osisioma Ngwa	Abia	5.167	7.350	2	
+Umuobiala	Umuahia North	Abia	5.697	7.458	2	
+Umu Obiakwa	Obi Ngwa	Abia	5.152	7.458	2	
+Umuoba	Anambra West	Anambra	6.412	6.798	2	
+Umu Nwa Nwa	Umuahia South	Abia	5.500	7.400	2	
+Umununu	Etche	Rivers	5.213	7.000	2	
+Umu Numu	Ehime Mbano	Imo	5.667	7.298	2	
+Umunuka	Ohaozara	Ebonyi	5.975	7.855	2	
+Umu Nta	Isiala-Ngwa North	Abia	5.267	7.300	2	
+Umu Nkpe	Isiala-Ngwa North	Abia	5.328	7.477	2	
+Umunko	Igbo-Etiti	Enugu	6.680	7.417	2	
+Umu Nkiri	Obi Ngwa	Abia	5.222	7.521	2	
+Umu-Nelu	Ikwerre	Rivers	5.205	6.867	2	
+Umunekwu	Isuikwuato	Abia	5.776	7.450	2	
+Umundi	Udenu	Enugu	6.892	7.497	2	
+Umu Nama	Ezinihitte	Imo	5.450	7.283	2	
+Umu Nam	Ngor-Okpala	Imo	5.390	7.096	2	
+Umunakanu	Ehime Mbano	Imo	5.651	7.256	2	
+Umunahu	Owerri North	Imo	5.499	7.100	2	
+Umunachi	Dunukofia	Anambra	6.173	6.935	2	
+Umunachi	Isiala-Ngwa South	Abia	5.400	7.400	2	
+Umu-Nachi	Isiala Mbano	Imo	5.728	7.181	2	
+Umuna	Unuimo	Imo	5.765	7.251	2	
+Umumba	Osisioma Ngwa	Abia	5.200	7.283	2	
+Umu Mba	Aba South	Abia	5.082	7.355	2	
+Rumumasi	Obio/Akpor	Rivers	4.833	7.029	2	Umumasi
+Umulumgbe	Udi	Enugu	6.596	7.419	2	Umu-Lumbe
+Umulua-Obiogba	Orhionmwon	Edo	6.360	6.180	2	Umuiua-Obiogba
+Umulogho	Obowo	Imo	5.556	7.377	2	
+Nneyi-Umuleri	Anambra East	Anambra	6.293	6.864	2	Umuleri
+Umuotulu Umuleri	Anambra East	Anambra	6.294	6.902	2	Umuleri
+Umuleke Ossisa	Ndokwa East	Delta	5.913	6.475	2	Umuleke-Ossissa
+Umulehi	Obi Ngwa	Abia	5.200	7.450	2	
+Umulawlaw	Okigwe	Imo	5.857	7.330	2	
+Rumukoroshe	Obio/Akpor	Rivers	4.851	7.049	2	Rumuokwurusi|Umu Kososhe|Umukoroshe
+Umukpube	Bende	Abia	5.641	7.617	2	
+Umuko	Isiala-Ngwa North	Abia	5.333	7.467	2	
+Umu-Okanne	Ohaji/Egbema	Imo	5.358	6.913	2	Umukani
+Umu Kalika	Obi Ngwa	Abia	5.133	7.400	2	
+Umukabia	Ngor-Okpala	Imo	5.348	7.167	2	
+Umu Kabia	Ehime Mbano	Imo	5.680	7.291	2	
+Umuka	Ohaozara	Ebonyi	6.025	7.858	2	Umunuka
+Umu Iroma	Obi Ngwa	Abia	5.118	7.515	2	
+Umunya	Oyi	Anambra	6.210	6.914	2	Umuinya
+Umu Iku Uko	Omumma	Rivers	5.093	7.262	2	
+Umu-Ikoro	Ngor-Okpala	Imo	5.237	7.098	2	
+Umu-Ika	Isiala-Ngwa North	Abia	5.282	7.307	2	
+Umuihi	Isiala-Ngwa North	Abia	5.250	7.450	2	
+Umuohiagu	Ngor-Okpala	Imo	5.403	7.200	2	Umu Iago
+Umuhu Aba	Obi Ngwa	Abia	5.259	7.523	2	
+Umuahu	Orsu	Imo	5.827	6.990	2	Umuhu|Umunu
+Umuhu	Aboh-Mbaise	Imo	5.445	7.250	2	
+Umuhu	Ikwuano	Abia	5.429	7.544	2	
+Umuguru	Isiala-Ngwa North	Abia	5.333	7.433	2	
+Umugo	Ugwunagbo	Abia	5.050	7.317	2	
+Umugbome Camp	Ndokwa East	Delta	5.679	6.596	2	Umugboma
+Umuezu	Isiala-Ngwa North	Abia	5.300	7.433	2	
+Umu-Eze Uku	Isiala-Ngwa South	Abia	5.417	7.458	2	
+Umuezekaoha	Ohaukwu	Ebonyi	6.653	8.003	2	
+Umuezaka	Ohaukwu	Ebonyi	6.476	8.058	2	
+Umu Eze Igbe	Obi Ngwa	Abia	5.117	7.467	2	
+Umu Ezegu	Ihitte/Uboma	Imo	5.613	7.319	2	
+Umu-Ezegu	Isiala-Ngwa South	Abia	5.396	7.409	2	
+Umueze-Anam	Anambra East	Anambra	6.329	6.833	2	
+Umu-Ezeala Ofor	Nwangele	Imo	5.708	7.150	2	Umu-Ezoalo-Ofor
+Umu Ezeala	Ehime Mbano	Imo	5.671	7.255	2	
+Umu Ezeala	Ehime Mbano	Imo	5.633	7.283	2	
+Umueze	Omumma	Rivers	5.034	7.218	2	
+Umu-Eze	Ehime Mbano	Imo	5.663	7.233	2	
+Umu Ewere	Ngor-Okpala	Imo	5.350	7.150	2	
+Umuevu-Oloko	Isiala-Ngwa North	Abia	5.344	7.462	2	Umueru Oloko
+Umueteghe	Isiala-Ngwa North	Abia	5.283	7.467	2	
+Umu-Etchem	Etche	Rivers	5.007	7.032	2	Igrtia-Umuechem
+Umu Eshi	Ideato South	Imo	5.825	7.109	2	
+Umu-Enyere	Bende	Abia	5.730	7.622	2	
+Umuenwelum	Anambra West	Anambra	6.359	6.750	2	Umuenwelu
+Umu Enge	Isiala-Ngwa North	Abia	5.260	7.392	2	Omo Enge|Umuevge
+Umuemenike	Ikwuano	Abia	5.416	7.609	2	
+Rumueme	Port-Harcourt	Rivers	4.818	7.010	2	Umueme
+Umuellem	Umu-Nneochi	Abia	5.960	7.417	2	
+Umu-Eleke	Ehime Mbano	Imo	5.620	7.248	2	
+Umuelagwa	Ezinihitte	Imo	5.503	7.339	2	
+Umuekun-Amai	Ndokwa West	Delta	5.755	6.240	2	Umuekum-Amai
+Umu Ekewo	Omumma	Rivers	5.117	7.250	2	
+Umueke Umuduru	Isiala Mbano	Imo	5.715	7.214	2	
+Umu Eke Nne	Isiala-Ngwa North	Abia	5.243	7.291	2	
+Umueke	Obi Ngwa	Abia	5.133	7.500	2	
+Umuehere	Ikeduru	Imo	5.526	7.164	2	
+Umuehere	Obio/Akpor	Rivers	4.874	7.036	2	
+Umu Egwu	Umuahia North	Abia	5.607	7.477	2	
+Umuodim	Ndokwa East	Delta	5.769	6.541	2	Umuedim
+Umuedede Quarters	Ukwuani	Delta	5.848	6.149	2	
+Umuede	Etche	Rivers	5.115	7.095	2	
+Umu Echi	Obi Ngwa	Abia	5.096	7.470	2	
+Umu-Etchem	Ngor-Okpala	Imo	5.352	7.208	2	Umu Echem
+Umuduru Okwe	Unuimo	Imo	5.817	7.200	2	
+Umu Duru	Isiala Mbano	Imo	5.682	7.244	2	
+Umu Dosi	Obi Ngwa	Abia	5.100	7.483	2	
+Umudora-Umuikwu	Anambra West	Anambra	6.304	6.760	2	Umudora|Umuikwu
+Umu-Dioga	Emuoha	Rivers	5.171	6.797	2	Omo Doga|Umo Diogo
+Umudim	Ezeagu	Enugu	6.387	7.171	2	
+Umudim	Ezeagu	Enugu	6.371	7.252	2	
+Umudim	Nnewi North	Anambra	6.005	6.910	2	
+Umu Dim	Ezinihitte	Imo	5.443	7.285	2	
+Umudike	Ikwuano	Abia	5.476	7.549	2	umudike
+Umu Dike	Ehime Mbano	Imo	5.617	7.250	2	
+Umu Dike I	Omumma	Rivers	5.055	7.227	2	Umu Dike
+Rumu-Chita	Obio/Akpor	Rivers	4.838	6.986	2	Umuchitta|Umuochita
+Umuchime Ogume	Ndokwa West	Delta	5.765	6.352	2	
+Umuchima	Osisioma Ngwa	Abia	5.204	7.347	2	
+Umuchiakuma	Arochukwu	Abia	5.490	7.881	2	
+Umuawor-Nando	Anambra East	Anambra	6.309	6.938	2	
+Umuaweke	Obowo	Imo	5.586	7.393	2	
+Umuawa	Umuahia North	Abia	5.580	7.482	2	
+Umu-Awa	Okigwe	Imo	5.891	7.292	2	
+Umuaturu	Etche	Rivers	5.155	7.092	2	
+Umuatugbuoma	Nkanu West	Enugu	6.346	7.478	2	
+Umuasua	Isuikwuato	Abia	5.716	7.503	2	
+Umuarughu	Obi Ngwa	Abia	5.183	7.400	2	
+Umu Aro	Obi Ngwa	Abia	5.229	7.477	2	
+Umuanyi	Isuikwuato	Abia	5.844	7.412	2	
+Umuanya	Isuikwuato	Abia	5.723	7.540	2	
+Umu Anunu	Obi Ngwa	Abia	5.235	7.505	2	Anunu
+Umuamachi	Omumma	Rivers	5.112	7.256	2	
+Umualu-Ugwuoba	Oji-River	Enugu	6.247	7.163	2	Umualu-Ugwoioba
+Umualo	Isi-Uzo	Enugu	6.678	7.677	2	
+Umu Ala	Isiala-Ngwa South	Abia	5.367	7.450	2	
+Umu-Akwu-Ameke	Umu-Nneochi	Abia	5.983	7.351	2	
+Umu-Akwu	Isiala-Ngwa South	Abia	5.356	7.506	2	
+Umu Akwa	Isiala-Ngwa North	Abia	5.288	7.390	2	
+Umu Akpo	Etche	Rivers	5.101	7.134	2	
+Umu Akpara	Osisioma Ngwa	Abia	5.170	7.312	2	
+Umu Akirikpo	Omumma	Rivers	5.184	7.260	2	
+Umuaka	Njaba	Imo	5.650	7.017	2	
+Umu Ajuju	Osisioma Ngwa	Abia	5.267	7.383	2	
+Umuaja	Isiala-Ngwa North	Abia	5.250	7.433	2	
+Umu Aja	Obi Ngwa	Abia	5.113	7.525	2	Aja|Akata
+Umu Aja	Ugwunagbo	Abia	5.015	7.387	2	
+Umu Agwu	Omumma	Rivers	5.117	7.233	2	
+Umu Agwo	Ideato South	Imo	5.806	7.166	2	
+Umuagu Okwelle	Isiala Mbano	Imo	5.706	7.197	2	
+Umuagwo	Ohaji/Egbema	Imo	5.307	6.944	2	Umuagu
+Umuagu	Isiala-Ngwa North	Abia	5.233	7.417	2	
+Umuagu	Obi Ngwa	Abia	5.150	7.394	2	
+Umu Agu	Umuahia North	Abia	5.600	7.433	2	
+Umuaghadi-Inyishi	Ikeduru	Imo	5.572	7.125	2	Umuaghadi Inyishia
+Umuachi-Ator	Ndokwa East	Delta	5.788	6.459	2	Umuachi Afor
+Umu-Abiala	Nwangele	Imo	5.709	7.092	2	
+Umuabi	Udi	Enugu	6.292	7.372	2	
+Umu Abayi	Oyigbo	Rivers	4.853	7.377	2	
+Umuabai	Osisioma Ngwa	Abia	5.150	7.300	2	
+Umotille	Oturkpo	Benue	7.306	8.039	2	
+Umosigide	Udenu	Enugu	6.897	7.557	2	
+Umoru	Wushishi	Niger	9.884	5.923	2	Tungan Umoru
+Umomi	Ofu	Kogi	7.345	7.020	2	
+Umoghunmwun	Orhionmwon	Edo	6.059	6.048	2	Umoghumwun
+Ume	Nasarawa Egon	Nasarawa	8.750	8.596	2	Umme
+Ummadau	Safana	Katsina	12.567	7.350	2	
+Umma	Rafi	Niger	10.400	6.067	2	
+Umeka	Uzo-Uwani	Enugu	6.738	7.211	2	
+Umeh	Patani	Delta	5.244	6.207	2	
+Ume	Nasarawa Egon	Nasarawa	8.683	8.600	2	
+Ume	Obi	Nasarawa	8.351	8.673	2	
+Umbarula	Illela	Sokoto	13.591	5.461	2	Umbulula
+Umaza	Ovia South-West	Edo	6.552	5.261	2	
+Umayo	Kaga	Borno	11.654	12.607	2	
+Uma-Swem	Konshisha	Benue	7.090	8.544	2	
+Umarumu	Kaga	Borno	11.656	12.604	2	
+Umaru	Maiha	Adamawa	10.051	13.088	2	
+Umaru	Jema'A	Kaduna	9.302	8.278	2	
+Umaru	Kurmi	Taraba	7.134	10.977	2	
+Umarriram	Nganzai	Borno	12.439	13.133	2	Umarniram
+Umarri	Mafa	Borno	11.898	13.474	2	Umari
+Umaro	Gwer East	Benue	7.436	8.540	2	
+Umariaga	Ikwuano	Abia	5.474	7.551	2	
+Umara Gwargwari	Argungu	Kebbi	12.600	4.433	2	
+Umura	Bodinga	Sokoto	12.950	5.129	2	Umara
+Umanyare	Kogi	Kogi	8.227	6.821	2	
+Umala	Misau	Bauchi	11.450	10.533	2	
+Umaji	Obanliku	Cross River	6.480	9.252	2	
+Umaetsu	Katcha	Niger	9.021	6.171	2	
+Umachalu	Ohaukwu	Ebonyi	6.618	8.085	2	
+Umumbo	Ayamelum	Anambra	6.528	7.005	2	Umabu|Water Town Umabu
+Umabo	Nsukka	Enugu	6.811	7.531	2	
+Uma-Akpa	Bende	Abia	5.797	7.669	2	
+Umar	Toto	Nasarawa	8.105	7.302	2	Uma
+Uma	Gboko	Benue	7.284	8.685	2	
+Rumu-Igbo	Obio/Akpor	Rivers	4.850	6.991	2	Umuibo|Umuigbo
+Osia Umu-Mgbede	Osisioma Ngwa	Abia	5.100	7.306	2	
+Okpueze-Umumba	Ezeagu	Enugu	6.335	7.256	2	
+Umokpara	Udi	Enugu	6.561	7.413	2	Okpata|Okpatu|Okpatu-Ukehe
+Nguot-Ikot-Umo	Ikono	Akwa Ibom	5.257	7.818	2	Nkwot Ikot Umo|Nquot|Nquot Ikot Umo
+Nkwot Ikot Umo	Ikono	Akwa Ibom	5.242	7.835	2	
+Nara	Nkanu East	Enugu	6.215	7.653	2	Umuowalagu
+Mgbagbu-Umumba-Owa	Ezeagu	Enugu	6.340	7.200	2	Mgbabu-Umuaji-Owa|Mgbagbu-Umuaji-Owa|Umuaji-Owa
+Mboko Umuobo	Kolokuma/Opokuma	Bayelsa	5.183	6.383	2	
+Mgboko	Osisioma Ngwa	Abia	5.170	7.359	2	Mboko|Mboko Umuete
+Abdungus	Kala-Balge	Borno	12.340	14.466	2	Mboko|Umm Bok
+Lawmu Umunze	Orumba South	Anambra	5.976	7.244	2	
+Jauro Umaru	Jada	Adamawa	8.466	12.090	2	
+Jauro-Umaru	Ganye	Adamawa	8.407	12.070	2	Jauro Umaru|JauroUmaru
+Inyi	Oji-River	Enugu	6.113	7.299	2	Inyi Umuome
+Ikot Umuiang Ede	Etinan	Akwa Ibom	4.754	7.873	2	
+Ikot Umiang Okon	Ikot Abasi	Akwa Ibom	4.613	7.694	2	
+Ikenga-Umuleri	Anambra East	Anambra	6.308	6.893	2	Umuleri
+Idung Ntuk Uma	Oruk Anam	Akwa Ibom	4.749	7.621	2	
+Idebe Offiong Umo	Akpabuyo	Cross River	4.847	8.441	2	
+Guidan Dan Umoru	Tsafe	Zamfara	12.028	6.943	2	Gidan Dan Umoru
+Feru Umaru	Gombi	Adamawa	10.098	12.588	2	
+Umusa-Dege	Ndokwa West	Delta	6.012	6.290	2	Ekum Osadegbe
+Asia Umu Nka	Ugwunagbo	Abia	5.047	7.322	2	Asia Umu-Ukia
+Anike-Umumba-Ndiogu	Ezeagu	Enugu	6.322	7.167	2	Anike
+Amala	Udenu	Enugu	6.941	7.540	2	Amala Umueze
+Aguoba-Umumba	Ezeagu	Enugu	6.367	7.223	2	Aguoba-Umuaji
+Agwaro	Ikwerre	Rivers	4.992	6.877	2	Rumuoerepe|Umuperepe
+Rumu-Ogwu	Ikwerre	Rivers	4.993	6.915	2	Umu-Ogwu
+Rumu-Ikume	Ikwerre	Rivers	4.976	6.911	2	Umu-Ikume
+Omueke	Ikwerre	Rivers	4.974	6.879	2	Rumueke|Umueke
+Umu-Chetu	Ikwerre	Rivers	4.972	6.905	2	
+Rumu-Eketu	Ikwerre	Rivers	4.989	6.918	2	Umu-Eketu
+Rumu-Olo	Ikwerre	Rivers	4.987	6.921	2	Rumu-Ola|Umu-Olo
+Rumu-Eket	Ikwerre	Rivers	4.986	6.927	2	Rumu-Eke|Umu-Eket
+Rumuke	Ikwerre	Rivers	4.952	6.929	2	Rumu-Ike|Umu-Ike
+Rumuodo	Ikwerre	Rivers	4.946	6.928	2	Rumuoda|Umu-Oda
+Omuigwe	Ikwerre	Rivers	4.944	6.931	2	Rumugw|Umu-Igwe
+Ahiakwo	Ikwerre	Rivers	4.923	6.888	2	Ahiakwo-Umoko
+Umuelechi	Ukwa West	Abia	4.917	7.214	2	
+Umwohan	Ukwa West	Abia	4.922	7.226	2	
+Umuahale	Ukwa West	Abia	4.906	7.237	2	
+Rumudara	Obio/Akpor	Rivers	4.854	7.032	2	Umudara
+Umu-Akpa	Ohaji/Egbema	Imo	5.228	6.903	2	
+Umuochi	Ikwerre	Rivers	5.207	6.923	2	
+Umu-Ayanmele	Ikwerre	Rivers	5.205	6.922	2	
+Umuokoro	Obio/Akpor	Rivers	4.869	6.931	2	
+Bula Umar	Bama	Borno	11.499	14.235	2	
+Umekuru	Abua/Odual	Rivers	4.885	6.674	2	
+Umuara	Gombi	Adamawa	10.291	12.443	2	
+Umuogidi	Oturkpo	Benue	7.557	8.005	2	
+Azungene-Umumba-Ndiagu	Ezeagu	Enugu	6.328	7.202	2	Azugene-Umumba-Ndiagu
+Aguobu-Umumba	Ezeagu	Enugu	6.336	7.283	2	
+Aguobu-Umana	Ezeagu	Enugu	6.350	7.258	2	
+Umana-Umuawo	Ezeagu	Enugu	6.354	7.183	2	Umuna-Umuawo
+Umuida	Igbo-Eze-South	Enugu	6.987	7.381	2	
+Imaje	Yala	Cross River	6.727	8.822	2	Umuaja
+Umoboro	Ondo West	Ondo	6.963	4.798	2	
+Umadau	Mani	Katsina	12.869	8.064	2	
+Ummadau	Safana	Katsina	12.590	7.330	2	
+Gidan Umaru	Shiroro	Niger	10.220	6.423	2	
+Gidan Umaru	Rafi	Niger	10.187	6.168	2	
+Umaru	Bakori	Katsina	11.543	7.374	2	
+Umumi	Koko-Besse	Kebbi	11.175	4.493	2	
+Umiaghwa	Okpe	Delta	5.683	5.832	2	
+Umb. Baleji	Ajingi	Kano	11.877	9.121	2	
+Sayi	Tsafe	Zamfara	11.877	6.938	2	Umaru
+Umuogo	Ukwa East	Abia	4.940	7.469	2	
+Umeku	Ukwa West	Abia	4.926	7.308	2	
+Umukor	Ukwa West	Abia	4.921	7.304	2	
+Umuadienwe	Ukwa West	Abia	4.918	7.309	2	
+Umuitiri	Ukwa West	Abia	4.903	7.309	2	
+Umuakalu	Ukwa West	Abia	4.905	7.294	2	
+Umuore	Ukwa West	Abia	4.886	7.292	2	
+Umuibe	Ukwa East	Abia	4.884	7.330	2	
+Umu Agbai	Oyigbo	Rivers	4.853	7.371	2	
+Umudobia	Ukwa West	Abia	4.960	7.235	2	
+Umuebom	Ukwa West	Abia	4.929	7.209	2	
+Umu Agwa	Obi Ngwa	Abia	5.085	7.515	2	Ohanze Umu Agwa
+Obete Umuoha	Obi Ngwa	Abia	5.066	7.518	2	
+Umuseke Umunze	Orumba South	Anambra	5.980	7.226	2	
+Umu-Ezegem	Okigwe	Imo	5.840	7.341	2	
+Umuowa	Orlu	Imo	5.754	7.028	2	
+Umu Eze	Okigwe	Imo	5.783	7.363	2	
+Umunnato	Bende	Abia	5.754	7.693	2	
+Umuchiokwa Agbaja	Ehime Mbano	Imo	5.693	7.324	2	
+Umu-Echem	Isiala Mbano	Imo	5.656	7.113	2	
+Umu Eze	Isiala Mbano	Imo	5.662	7.163	2	
+Umuoti-Inyishi	Ikeduru	Imo	5.614	7.169	2	
+Umu-Neke	Isiala Mbano	Imo	5.661	7.184	2	
+Umu Eze	Ehime Mbano	Imo	5.630	7.231	2	
+Umueze	Ehime Mbano	Imo	5.632	7.305	2	
+Umu Ezike	Umuahia North	Abia	5.657	7.425	2	
+Umu Ekwule	Umuahia North	Abia	5.593	7.456	2	
+Umuebo-Akabo	Ahiazu-Mbaise	Imo	5.594	7.280	2	
+Umuigwe	Ikeduru	Imo	5.544	7.150	2	
+Umueme	Ikeduru	Imo	5.532	7.137	2	
+Umuonuma	Mbaitoli	Imo	5.591	7.071	2	
+Umuye	Arochukwu	Abia	5.478	7.895	2	
+Umuchiakuma	Odukpani	Cross River	5.498	7.968	2	
+Umu-Osoko	Ikwuano	Abia	5.382	7.599	2	
+Umu Igu	Ikwuano	Abia	5.403	7.541	2	
+Umu Lolo	Aboh-Mbaise	Imo	5.354	7.304	2	
+Umuotu	Obi Ngwa	Abia	5.197	7.423	2	
+Umuimo	Osisioma Ngwa	Abia	5.185	7.336	2	
+Umuokwo	Ikwuano	Abia	5.478	7.569	2	
+Umugbalu-Oboro	Ikwuano	Abia	5.452	7.562	2	
+Umuosoro	Ikwuano	Abia	5.436	7.546	2	
+Umu Eziuku	Ikwuano	Abia	5.413	7.539	2	
+Umuogle	Isiala-Ngwa South	Abia	5.350	7.523	2	
+Umunkwo	Isiala-Ngwa South	Abia	5.331	7.506	2	
+Ikot Umo Esien	Ikono	Akwa Ibom	5.268	7.785	2	
+Umu Ebi	Obi Ngwa	Abia	5.227	7.507	2	
+Umu Owa Oma	Obi Ngwa	Abia	5.131	7.522	2	
+Umobor	Ivo	Ebonyi	5.920	7.682	2	
+Umoazi	Isuikwuato	Abia	5.823	7.532	2	
+Umukwa Obayi	Isuikwuato	Abia	5.716	7.533	2	
+Umukwo	Arochukwu	Abia	5.647	7.694	2	
+Umu-Ezeala	Umuahia South	Abia	5.503	7.514	2	
+Umuana Ndume	Umuahia North	Abia	5.507	7.530	2	
+Umuaroko Ndume	Umuahia North	Abia	5.513	7.533	2	
+Umukela	Anambra East	Anambra	6.352	6.880	2	
+Umudioka	Dunukofia	Anambra	6.162	6.923	2	Umudioka Ichi
+Umuegim Quarters	Ndokwa East	Delta	5.915	6.471	2	
+Umuekete Quarters	Ndokwa East	Delta	5.914	6.477	2	
+Umuogwaye Quarters	Ndokwa East	Delta	5.912	6.477	2	
+Umusedeli	Ndokwa West	Delta	5.677	6.423	2	
+Umuseta	Ndokwa West	Delta	5.682	6.418	2	
+Umubu	Ndokwa West	Delta	5.735	6.186	2	
+Umuruko	Ihiala	Anambra	5.909	6.921	2	
+Osu-Umuezekpe	Ihiala	Anambra	5.876	6.795	2	
+Umuakabia	Orsu	Imo	5.824	6.976	2	
+Umuoma	Oguta	Imo	5.766	6.838	2	
+Umuoji	Oru West	Imo	5.726	6.909	2	
+Umuehi	Oru West	Imo	5.715	6.865	2	
+Umuti	Ndokwa East	Delta	5.536	6.526	2	
+Ochuche-Umuodo	Ogbaru	Anambra	5.950	6.730	2	
+Umuoga Yam	Ndokwa East	Delta	5.887	6.606	2	
+Umueche	Ndokwa East	Delta	5.893	6.580	2	
+Umueze	Ndokwa East	Delta	5.942	6.509	2	
+Umueche	Ndokwa East	Delta	5.843	6.581	2	
+Umu-Agulu	Ndokwa East	Delta	5.788	6.540	2	
+Umugbona	Ndokwa East	Delta	5.741	6.555	2	
+Umuigwe	Ogba/Egbema/Ndoni	Rivers	5.545	6.611	2	
+Umuajie	Ogba/Egbema/Ndoni	Rivers	5.537	6.609	2	
+Umuedi	Ogba/Egbema/Ndoni	Rivers	5.536	6.605	2	
+Umueje	Ogba/Egbema/Ndoni	Rivers	5.526	6.631	2	
+Umuorieke	Ogba/Egbema/Ndoni	Rivers	5.518	6.622	2	
+Umuodumu	Sagbama	Bayelsa	5.128	6.145	2	
+Umudike	Ogba/Egbema/Ndoni	Rivers	5.474	6.737	2	
+Umukirie	Owerri West	Imo	5.485	6.924	2	
+Umu-Aguwa	Owerri West	Imo	5.476	6.965	2	
+Umejeren	Owerri West	Imo	5.436	6.914	2	
+Umuderu	Owerri West	Imo	5.463	6.967	2	
+Umuoku	Owerri West	Imo	5.451	6.969	2	
+Umuojala	Owerri West	Imo	5.449	6.969	2	
+Umugolog	Ohaji/Egbema	Imo	5.419	6.881	2	
+Umuaje	Owerri West	Imo	5.401	6.959	2	
+Umukunne	Ohaji/Egbema	Imo	5.265	6.943	2	Etoona
+Umurie	Ahoada East	Rivers	5.182	6.698	2	
+Umukoro Camp	Orhionmwon	Edo	6.321	6.050	2	
+Umusedel	Aniocha South	Delta	6.044	6.364	2	
+Umuahia South	Umuahia South	Abia	5.462	7.440	2	Agbegbe Ijoba Ibile Guusu Umuahia|Lam Umuahia|Pivdenna Umuakhija|Umuahia Sud|Umuahia ta Kudu
+Umu-Nneochi	Umu-Nneochi	Abia	5.940	7.410	2	
+Umuahia North	Umuahia North	Abia	5.558	7.469	2	Agbegbe Ijoba Ibile Ariwa Umuahia|Pak Umuahia|Pivnichna Umuakhija|Umuahia Nord|Umuahia ta Arewa
+Umaafiya	Song	Adamawa	9.670	13.019	2	
+Walkere Umoru	Fune	Yobe	11.642	11.724	2	
+Umarari	Konduga	Borno	11.912	12.804	2	
+Umumba-Uno	Ezeagu	Enugu	6.336	7.330	2	
+Okpudo-Umana	Udi	Enugu	6.326	7.342	2	
+Umumba	Oji-River	Enugu	6.136	7.333	2	
+Umunoka-Affa	Udi	Enugu	6.615	7.360	2	
+Umuovu	Udi	Enugu	6.558	7.348	2	
+Umuezeka	Ohaukwu	Ebonyi	6.661	8.021	2	
+Umuezeoka-Iza	Ohaukwu	Ebonyi	6.671	8.068	2	
+Umuakpo-Mgbo	Ohaukwu	Ebonyi	6.558	8.010	2	
+Umuezaka Ngbo	Ohaukwu	Ebonyi	6.478	8.033	2	
+Umuaru-Ezza	Ebonyi	Ebonyi	6.342	8.047	2	
+Umuaru Clan	Ezza North	Ebonyi	6.289	8.055	2	
+Umuaghara	Ezza North	Ebonyi	6.311	8.019	2	
+Umuigwe	Ebonyi	Ebonyi	6.449	8.114	2	
+Ndiezeagu-Umuaru	Ezza North	Ebonyi	6.233	8.027	2	
+Umughara	Ezza North	Ebonyi	6.210	7.999	2	
+Umueze-Akwa	Ezza South	Ebonyi	6.190	8.009	2	
+Umueze-Okoha	Ezza South	Ebonyi	6.200	8.026	2	
+Umuome	Abakaliki	Ebonyi	6.195	8.070	2	
+Umu-Aka	Ezza South	Ebonyi	6.076	8.066	2	
+Ume-Igbudu	Ikwo	Ebonyi	6.008	8.177	2	
+Dan Umaru Mairairai	Wasagu-Danko	Kebbi	11.330	6.047	2	
+Zulum Umarti	Mobbar	Borno	13.028	12.465	2	
+Uma	Buruku	Benue	7.545	9.068	2	
+Umough	Ukum	Benue	7.697	9.615	2	
+Uma	Gboko	Benue	7.400	9.072	2	
+Umburga	Logo	Benue	7.459	9.332	2	
+Umburga	Ushongo	Benue	7.101	9.008	2	
+Uma	Buruku	Benue	7.132	9.129	2	
+Umbelatim	Ushongo	Benue	7.052	9.263	2	
+Umaro	Katsina-Ala	Benue	7.233	9.341	2	
+Umega	Ushongo	Benue	7.156	9.309	2	
+Umazua	Gboko	Benue	7.362	8.878	2	
+Umo	Gboko	Benue	7.352	8.794	2	
+Umarari	Karasuwa	Yobe	13.012	10.834	2	
+Umaru Kyanka	Gbako	Niger	9.477	6.029	2	
+Emiworogi Umaru	Gbako	Niger	9.364	6.114	2	
+Umumu	Ika South	Delta	6.301	6.120	2	
+Wuro Umaru	Jada	Adamawa	8.580	12.254	2	
+Wuro Umaru Bara	Jada	Adamawa	8.602	12.392	2	
+Umburma	Karu	Nasarawa	9.171	7.975	2	
+Gidan Umaru	Karu	Nasarawa	9.162	7.954	2	
+Umenlen-Ugbegun	Esan Central	Edo	6.645	6.250	2	Umelen
+Wuro Umaru	Ganye	Adamawa	8.592	11.894	2	
+Jauro Umaru	Mayo-Belwa	Adamawa	8.747	11.992	2	
+Umaru Zedi	Ardo-Kola	Taraba	8.823	11.141	2	
+Wuro Alhaji Umaru	Jalingo	Taraba	8.918	11.295	2	
+Ungwan Mallam Umaru	Sanga	Kaduna	9.194	8.334	2	
+Gidan Umaru	Zangon Kataf	Kaduna	9.834	8.238	2	
+Sangere Umaru	Demsa	Adamawa	9.234	12.134	2	
+Umuikwu Anam	Anambra West	Anambra	6.481	6.791	2	
+Umande	Guma	Benue	8.090	8.684	2	
+Gidan Umoro	Kokona	Nasarawa	8.796	8.048	2	
+Wuro Umaru	Girei	Adamawa	9.552	12.448	2	WuroUmaru
+Umma	Toto	Nasarawa	8.238	7.338	2	
+Umaru	Sardauna	Taraba	6.891	11.380	2	
+Umana	Ezeagu	Enugu	6.342	7.319	2	
+Wuro Umaru	Jada	Adamawa	8.732	12.018	2	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.956	7.255	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.957	7.255	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.961	7.245	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.953	7.264	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.285	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.943	7.292	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.009	7.418	1	Dantata Bridge
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.972	7.362	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.992	7.400	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.309	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.304	1	
 Umaru Gwanda Road	Kaduna North	Kaduna	10.556	7.459	1	
 Umaru Mohammed Road	Kaduna North	Kaduna	10.549	7.473	1	
 Jac Umuro Crescent	Oredo	Edo	6.315	5.592	1	
@@ -277,7 +760,7 @@ Umoh Street	Alimosho	Lagos	6.655	3.290	1
 Umukoro Street	Warri South	Delta	5.533	5.748	1	
 Umugbe Street	Uvwie	Delta	5.565	5.772	1	
 Ball Umeh Street	Kosofe	Lagos	6.568	3.372	1	
-UMUSOYA ROAD	Obio/Akpor	Rivers	4.844	7.130	1	
+Umusoya Road	Obio/Akpor	Rivers	4.844	7.130	1	
 Umunze Street	Enugu East	Enugu	6.485	7.513	1	
 Umunze Close	Enugu East	Enugu	6.477	7.488	1	
 Umuoku Close	Enugu South	Enugu	6.426	7.520	1	
@@ -328,7 +811,6 @@ Umungene Ike Street	Enugu South	Enugu	6.413	7.486	1
 Umunugwu Street	Enugu South	Enugu	6.414	7.510	1	
 Umuchieze Street	Enugu East	Enugu	6.486	7.510	1	
 Umuonalukwe Street	Enugu East	Enugu	6.480	7.529	1	
-Umuehi Street	Enugu East	Enugu	6.480	7.525	1	
 Umuohagu Street	Enugu East	Enugu	6.482	7.539	1	
 Umuaga Street	Enugu East	Enugu	6.479	7.519	1	
 Umeh Lane	Enugu East	Enugu	6.477	7.516	1	
@@ -371,7 +853,6 @@ Umar Idris road	Fagge	Kano	11.996	8.542	1
 Umar Sanusi Link	Fagge	Kano	11.998	8.540	1	
 Umar Madahaji Street	Fagge	Kano	11.997	8.539	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.029	7.438	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.286	1	
 Umuonyia Ihe Street	Enugu South	Enugu	6.397	7.485	1	
 Umuanede Street	Enugu South	Enugu	6.410	7.497	1	
 Umunze Crescent	Enugu East	Enugu	6.477	7.489	1	
@@ -388,7 +869,6 @@ Mustapha Umar Road	Kano Municipal	Kano	11.976	8.521	1
 Umuezeohachi Street	Enugu South	Enugu	6.409	7.489	1	
 Umudioka Street	Enugu East	Enugu	6.466	7.549	1	
 Umu Greg Egbuciem Street	Enugu North	Enugu	6.461	7.574	1	
-Umbarum Health Post	Albasu	Kano	11.558	9.058	0	
 Umez Eronini Street	Owerri Municipal	Imo	5.492	7.044	1	
 Umuwaya Road	Umuahia North	Abia	5.535	7.495	1	
 Umuahia - Ohafia Road	Umuahia North	Abia	5.538	7.511	1	
@@ -403,7 +883,6 @@ Umuobasi St	Umuahia North	Abia	5.530	7.499	1
 John Umunna Street	Oshodi/Isolo	Lagos	6.547	3.320	1	
 Umudara Main Road	Ikwuano	Abia	5.414	7.548	1	
 Umuokpo-Akpizu Road	Umuahia North	Abia	5.527	7.467	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.035	7.448	1	
 Umuatako Road	Osisioma Ngwa	Abia	5.132	7.351	1	
 Umuchime Road	Umuahia North	Abia	5.527	7.463	1	
 Umuokpo Road	Umuahia North	Abia	5.527	7.467	1	
@@ -417,20 +896,13 @@ Umuezie Nguru/Umueze Enyiogugu Road	Aboh-Mbaise	Imo	5.488	7.194	1
 Umuezie/Ofeama Road	Aboh-Mbaise	Imo	5.498	7.196	1	
 Umuezie Primary School/Ofeama Road Aboh Mbaise	Aboh-Mbaise	Imo	5.498	7.198	1	
 Engr. Dave Umahi Blvd.	Afikpo North	Ebonyi	5.894	7.931	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.035	7.449	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.018	7.427	1	
 Umunya Street	Oshodi/Isolo	Lagos	6.513	3.307	1	
 Umuariam Street	Owerri Municipal	Imo	5.494	7.057	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.949	7.274	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.968	7.230	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.992	7.183	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.989	7.187	1	
 Umar Sambo Close	Kaduna North	Kaduna	10.571	7.466	1	
 Umuegorom Anukabia Road	Ihiala	Anambra	5.877	6.842	1	
 Umaru Alhaji Road	Kaduna North	Kaduna	10.577	7.426	1	
 Umaru Musa Yar'adua Way	Kaduna North	Kaduna	10.539	7.473	1	
-Umaru Musa Yar'adua Way	Kaduna North	Kaduna	10.538	7.475	1	
-Umaru Musa Yar'adua Way	Chikun	Kaduna	10.532	7.484	1	
 Umaru Musa Yar'adua Way	Chikun	Kaduna	10.531	7.486	1	
 Umono Street	Ethiope East	Delta	5.786	6.096	1	
 Johnson Umejei Street	Oshodi/Isolo	Lagos	6.539	3.325	1	
@@ -445,53 +917,56 @@ Umuokwaranwaneri and Umuakachi Road	Njaba	Imo	5.683	7.026	1
 Umuehido Umuezie Avenue	Aboh-Mbaise	Imo	5.491	7.192	1	
 Ohaeri's Crescent Umuezie Nguru	Aboh-Mbaise	Imo	5.494	7.182	1	
 Emir Umar Road	Birnin Kebbi	Kebbi	12.451	4.197	1	
-Mustapha Umar Road	Kano Municipal	Kano	11.972	8.519	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.005	7.161	1	
 Moses Umuwe Street	Municipal Area Council	FCT Abuja	8.980	7.355	1	
 Umudim Street	Eti Osa	Lagos	6.501	3.593	1	
 Nwosu Compound Umuamara village Obuda Aba	Aba South	Abia	5.093	7.350	1	
 Umaru Audi Road	Ilorin South	Kwara	8.496	4.595	1	Basin Road
-Mohamed N. Umar Lane	Municipal Area Council	FCT Abuja	9.017	7.472	1	
 Umana Okon Umana Street	Municipal Area Council	FCT Abuja	9.050	7.486	1	
-Umuegorom Town Hall	Ihiala	Anambra	5.873	6.845	0	
-Iro Mmawu Umuegorom	Ihiala	Anambra	5.873	6.845	2	
 Umueze Lane	Enugu North	Enugu	6.426	7.455	1	
 Umueze Lane	Enugu North	Enugu	6.426	7.455	1	
 Umar bin Kathab road	Tarauni	Kano	11.977	8.543	1	
-Umar Musa Yaraddua University, Katsina	Batagarawa	Katsina	12.878	7.587	0	
-Lady Ngozi Umeoji Avenue	Enugu North	Enugu	6.455	7.562	1	
-Umunano Street	Enugu South	Enugu	6.427	7.519	1	
-Umuahia - Ibeku Station	Umuahia North	Abia	5.528	7.493	0	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.965	7.235	1	
 Engr Oliver Eberendu's Avenue Umuezie	Aboh-Mbaise	Imo	5.493	7.195	1	
 Dr. Emeka Njoku's Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.193	1	
 Prince Maxwell Igwe Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.188	1	
-Umuawa-Alaocha Central School	Umuahia North	Abia	5.559	7.468	0	
 Umana Okon Umana Street	Municipal Area Council	FCT Abuja	9.048	7.484	1	
-Umuezie Health Center	Aboh-Mbaise	Imo	5.493	7.193	0	
-Primary health centre umukuru okehi	Etche	Rivers	5.129	7.159	0	
-Federal Medical Centre, Umuahia	Umuahia North	Abia	5.519	7.496	0	
 Umuezuru Street	Umuahia North	Abia	5.635	7.434	1	
 Umuochiala Street	Umuahia North	Abia	5.633	7.434	1	
 Umuezeama Street	Umuahia North	Abia	5.630	7.431	1	
 Umuochoko-Umuezeama Road	Umuahia North	Abia	5.632	7.432	1	
-Umuihim-Oki	Ehime Mbano	Imo	5.630	7.288	2	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.949	7.331	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.954	7.336	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.003	7.412	1	
-Inikiri Umuezeoka	Ohaukwu	Ebonyi	6.662	8.001	2	
 Umaru Musa Yar'adua Way	Chikun	Kaduna	10.515	7.523	1	
-Amihie Umuchu Primary Health Center	Aguata	Anambra	5.953	7.132	0	
-Government College Umuahia	Umuahia South	Abia	5.501	7.532	0	
 Umuoba road	Obi Ngwa	Abia	5.130	7.419	1	
 MD Umar Close	Municipal Area Council	FCT Abuja	9.039	7.545	1	
-Ime Afor Umuakah	Njaba	Imo	5.670	7.016	0	
-Hilltop Primary School Ubah Umuakah	Njaba	Imo	5.674	7.018	0	
 Ubah Umuezeala Road	Njaba	Imo	5.674	7.025	1	
 Umaru Musa Yar'adua Way	Chikun	Kaduna	10.513	7.527	1	
+St Anthony's Primary School, Umudioka	Idemili North	Anambra	6.162	6.919	0	
+Ummodah filling station	Billiri	Gombe	9.910	11.217	0	
+Umuezie Community Primary School	Aboh-Mbaise	Imo	5.495	7.197	0	
+University of Maiduguri Teaching Hospital UMTH	Jere	Borno	11.825	13.186	0	
+Ba Umshe Health Post	Fufore	Adamawa	9.366	12.696	0	
+Umaualumaku/Umuihim Town Union	Ehime Mbano	Imo	5.633	7.287	0	
+Umeh Uche Martin and sons	Jos North	Plateau	9.927	8.912	0	
+UMM clinic kabong	Jos North	Plateau	9.928	8.872	0	
+Alhaji umaru ngelzarma	Jos North	Plateau	9.972	8.895	0	
+Umogidi Primary Health Centre	Oturkpo	Benue	7.553	8.000	0	
+Umuruden	Ungongo	Kano	12.050	8.576	0	
+Ummul Khairi Islamiyya	Ungongo	Kano	12.043	8.566	0	
+Markazu Isalil Khair Ummati School	Ungongo	Kano	12.046	8.570	0	
+Umar General Gas	Ungongo	Kano	12.048	8.579	0	
+Ummul Qura Islamiyya	Gwale	Kano	11.964	8.478	0	
+Umuchigbo Secondary School	Enugu East	Enugu	6.495	7.533	0	
+Agbama Housing Estate Main Gate, Umuahia, Abia State	Umuahia South	Abia	5.502	7.499	0	
+Umachi Clinic	Igbo-Eze-South	Enugu	6.922	7.466	0	
+Umbarum Health Post	Albasu	Kano	11.558	9.058	0	
+Umuegorom Town Hall	Ihiala	Anambra	5.873	6.845	0	
+Umar Musa Yaraddua University, Katsina	Batagarawa	Katsina	12.878	7.587	0	
+Umuahia - Ibeku Station	Umuahia North	Abia	5.528	7.493	0	
+Umuawa-Alaocha Central School	Umuahia North	Abia	5.559	7.468	0	
+Umuezie Health Center	Aboh-Mbaise	Imo	5.493	7.193	0	
+Primary health centre umukuru okehi	Etche	Rivers	5.129	7.159	0	
+Federal Medical Centre, Umuahia	Umuahia North	Abia	5.519	7.496	0	
+Amihie Umuchu Primary Health Center	Aguata	Anambra	5.953	7.132	0	
+Government College Umuahia	Umuahia South	Abia	5.501	7.532	0	
+Ime Afor Umuakah	Njaba	Imo	5.670	7.016	0	
+Hilltop Primary School Ubah Umuakah	Njaba	Imo	5.674	7.018	0	
 Asa Umuakwa Primary Health Center	Ugwunagbo	Abia	5.012	7.325	0	
-Dan Umaru Mairairai	Wasagu-Danko	Kebbi	11.321	6.102	2	
-Umu-Nneochi	Umu-Nneochi	Abia	5.973	7.405	2	
-Umuahia South	Umuahia South	Abia	5.498	7.462	2	
-Umuahia North	Umuahia North	Abia	5.608	7.476	2	
-Zulum Umarti	Mobbar	Borno	13.037	12.461	2	

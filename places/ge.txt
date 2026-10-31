@@ -1,5 +1,11 @@
+Geidam	Geidam	Yobe	12.895	11.927	3	
+Gembu	Sardauna	Taraba	6.716	11.254	3	
+Getso	Gwarzo	Kano	11.875	7.972	3	Waila
+Kagoro	Kaura	Kaduna	9.608	8.390	3	Gwoot|ka ge luo
+Gezawa	Gezawa	Kano	12.102	8.750	3	
+Gella	Mubi South	Adamawa	10.157	13.300	3	Ouro Guela|Uro-Gela
+Ada George	Obio/Akpor	Rivers	4.833	6.976	2	
 Geltari	Gouré	Yobe	13.137	9.936	2	
-Gerti	Jema'A	Kaduna	9.463	8.253	0	
 Gelawa	Shanga	Kebbi	11.257	4.650	2	
 Gerabi	Rano	Kano	11.497	8.511	2	Garabi
 Gella	Mubi South	Adamawa	10.153	13.299	2	Ouro Guéla;Uro-Gela
@@ -26,7 +32,6 @@ Koren Gesu Gesu	Gwadabawa	Sokoto	13.439	5.233	2
 Geba	Gusau	Zamfara	12.125	6.707	2	
 Rafin Gero	Anka	Zamfara	12.228	5.766	2	
 Gele	Fakai	Kebbi	11.499	5.136	2	
-Geidam	Geidam	Yobe	12.895	11.927	3	
 Gehuru	Jega	Kebbi	12.224	4.512	2	
 Geii	Fakai	Kebbi	11.663	4.800	2	
 Gennaret	Mangu	Plateau	9.502	9.273	2	
@@ -64,17 +69,9 @@ Gelaviriwa	Hawul	Borno	10.391	12.430	2	Gangaran
 Baban Gebe	Maru	Zamfara	12.143	6.324	2	
 Garenji	Funakaye	Gombe	10.783	11.367	2	Gerenji
 Ungwan Gedage	Kubau	Kaduna	11.125	8.340	2	Gedage;Angwan Gedage
-Maigari General Resources	Jos North	Plateau	9.971	8.894	0	
-General Oil	Oredo	Edo	6.337	5.611	0	
 Geydam-Tchoukou	Diffa	Borno	13.096	12.488	2	
-Rogo General Hospital	Rogo	Kano	11.553	7.831	0	
-Kabo Cottage General Hospital	Kabo	Kano	11.851	8.168	0	
-Kiru General Hospital	Kiru	Kano	11.707	8.135	0	
 Gezawa	Tsanyawa	Kano	12.278	7.941	2	
 Unguwar Geza	Kumbotso	Kano	11.961	8.524	2	
-Getso	Gwarzo	Kano	11.875	7.972	3	Waila
-General Hospital Gamawa	Gamawa	Bauchi	12.139	10.532	0	
-Genius Children School	Ibadan South East	Oyo	7.360	3.912	0	
 Modu Geremari	Magumeri	Borno	12.074	12.977	2	
 Gegiari	Nganzai	Borno	12.478	13.261	2	
 Geremari	Mobbar	Borno	12.877	12.438	2	
@@ -85,13 +82,7 @@ Fulani Gelaviriwa	Hawul	Borno	10.390	12.425	2
 Zara Mai Gemu	Hawul	Borno	10.481	12.432	2	
 Geidam Alhaji Shanono	Biu	Borno	10.868	11.810	2	
 Geide	Bama	Borno	11.319	13.983	2	
-Geography Dept Medical Center	Sabon Gari	Kaduna	11.153	7.649	0	
-General Hospital ahoada	Ahoada East	Rivers	5.093	6.645	0	
-General Paint Bus Stop	Eti Osa	Lagos	6.471	3.590	0	
-Genesis International School	Warri South	Delta	5.531	5.752	0	
 Rahin Gero	Anka	Zamfara	12.232	5.778	2	
-General Market	Ile Oluji/Okeigbo	Ondo	7.170	4.724	0	
-General Hospital Ikono	Ikono	Akwa Ibom	5.282	7.713	0	
 Geranya Bardawa	Minjibir	Kano	12.194	8.591	2	Geranya
 Gera	Ungongo	Kano	12.092	8.553	2	
 Geza	Dawakin Tofa	Kano	12.209	8.513	2	Geza Yangia
@@ -101,6 +92,269 @@ Yan Gero Layin Gidan Sabo Mai Dawa	Gaya	Kano	11.926	9.033	2
 Gewai Tsigidi	Warawa	Kano	11.951	8.757	2	
 Gidan Geri	Gaya	Kano	11.706	9.017	2	
 Gediya	Sumaila	Kano	11.348	8.911	2	
+Gegu Egba	Kogi	Kogi	8.256	6.826	2	
+Gegiri	Jema'A	Kaduna	9.417	8.105	2	
+Gebe B	Isa	Sokoto	13.174	6.592	2	
+Gebe A	Isa	Sokoto	13.097	6.584	2	
+Ge Ere Gajara	Dange-Shuni	Sokoto	12.949	5.448	2	
+Gelwasa	Sakaba	Kebbi	11.295	5.386	2	
+Geza	Dandi	Kebbi	11.997	3.886	2	
+Matsinkai Geza	Bagudo	Kebbi	11.450	4.283	2	
+Gebbe	Shanga	Kebbi	10.981	4.575	2	
+Geshere	Kauru	Kaduna	10.149	8.389	2	
+Gezawa	Gezawa	Kano	12.128	8.757	2	
+Sararin Gezawa	Gezawa	Kano	12.096	8.773	2	
+Gezawa	Gezawa	Kano	12.064	8.719	2	
+Geidam	Geidam	Yobe	12.698	12.152	2	
+Rauta geji	Toro	Bauchi	10.496	9.576	2	
+Tunga Gendinni	Bagudo	Kebbi	11.340	4.168	2	
+Tatongabiya	Toto	Nasarawa	8.437	7.102	2	Toton Gebia|TotonGebia
+Old Gendinni	Bagudo	Kebbi	11.334	4.147	2	Old Gedenni|Tungan Gendenni
+Lugere Geita	Yola North	Adamawa	9.095	12.529	2	
+Jauro Gelado	Jada	Adamawa	8.768	12.225	2	
+Geyu	Sabon Birni	Sokoto	13.563	5.921	2	Gyaya
+Gidan Gesa	Tangaza	Sokoto	13.527	5.166	2	
+Gezeriya	Guzamala	Borno	12.716	13.343	2	
+Gever	Markurdi	Benue	7.811	8.513	2	
+Gevel	Gboko	Benue	7.331	8.747	2	
+Gesheru	Bagudo	Kebbi	11.557	3.788	2	
+Gese	Donga	Taraba	7.638	10.007	2	
+Gesada	Guzamala	Borno	12.858	13.362	2	
+Gesa	Jega	Kebbi	11.982	4.407	2	
+Gesa	Kwande	Benue	6.588	9.517	2	
+Gerti	Jema'A	Kaduna	9.415	8.248	2	Garti
+Gero	Malumfashi	Katsina	11.951	7.652	2	
+Gero	Jos South	Plateau	9.830	8.828	2	
+Gerla Najarowa	Bogoro	Bauchi	9.659	9.781	2	
+Gerla	Bogoro	Bauchi	9.660	9.796	2	
+Gerki	Municipal Area Council	FCT Abuja	9.019	7.488	2	
+Gerkawa	Mikang	Plateau	8.942	9.804	2	Garkawa
+Gerje	Kaga	Borno	11.865	12.603	2	
+Gerinya	Kogi	Kogi	8.249	6.735	2	
+Geri-n-Gada	Jos North	Plateau	9.940	8.873	2	Gerin Gada
+Geriam	Kanke	Plateau	9.431	9.752	2	
+Geri	Gwer East	Benue	7.356	8.499	2	
+Gerete	Maiha	Adamawa	9.933	13.167	2	
+Geren Sama	Ganjuwa	Bauchi	10.571	10.118	2	
+Geren Madaki	Ganjuwa	Bauchi	10.546	10.134	2	
+Gerengi	Shelleng	Adamawa	9.982	12.015	2	
+Geregu	Ajaokuta	Kogi	7.565	6.693	2	
+Gere	Asa	Kwara	8.519	4.423	2	
+Gerawa	Ringim	Jigawa	12.135	9.075	2	
+Geraba	Hawul	Borno	10.456	12.286	2	Giraba
+Ger	Gwer East	Benue	7.371	8.142	2	
+Genya	Shani	Borno	10.105	11.957	2	
+Genu	Rijau	Niger	10.913	5.202	2	
+Gengi	Magama	Niger	10.550	5.033	2	
+Gengere Kibo	Riyom	Plateau	9.517	8.624	2	
+Gengan	Gombi	Adamawa	10.112	12.806	2	
+Gendinni	Bagudo	Kebbi	11.333	4.159	2	
+Gende-Kila	Teungo	Adamawa	7.917	11.883	2	Gende Kila|Kila
+Gemendi	Fufore	Adamawa	8.976	12.511	2	
+Gembeusi	Fufore	Adamawa	9.298	12.696	2	
+Geltur	Jere	Borno	11.942	13.100	2	
+Geltomu	Gubio	Borno	12.463	12.739	2	
+Gelode	Numan	Adamawa	9.642	12.033	2	
+Gellar	Jama'Are	Bauchi	11.717	9.967	2	
+Geli	Lere	Kaduna	10.174	8.544	2	
+Geleng	Fufore	Adamawa	9.681	12.737	2	
+Gela	Yabo	Sokoto	12.741	4.845	2	
+Geji Bauchi	Kwami	Gombe	10.514	11.323	2	
+Geji	Toro	Bauchi	10.366	9.589	2	
+Geji	Toro	Bauchi	10.284	9.646	2	
+Geji	Paikoro	Niger	9.465	6.934	2	
+Gehere	Dange-Shuni	Sokoto	12.917	5.433	2	
+Gege	Konshisha	Benue	7.316	8.574	2	
+Gege	Ushongo	Benue	7.035	8.969	2	
+Geduwa	Ganjuwa	Bauchi	10.940	10.096	2	
+Gedibo	Yamaltu/Deba	Gombe	10.282	11.561	2	
+Gedere	Arewa Dandi	Kebbi	12.615	3.790	2	Gidderi
+Gedegi	Lokoja	Kogi	8.667	6.333	2	
+Gedege	Okitipupa	Ondo	6.468	4.678	2	
+Gedeba	Bayo	Borno	10.405	11.650	2	
+Gede	Konshisha	Benue	7.349	8.606	2	
+Gebo	Isa	Sokoto	13.136	6.541	2	
+Geben Dama	Dange-Shuni	Sokoto	12.950	5.400	2	
+Geba	Gusau	Zamfara	12.120	6.697	2	
+Gang-Gemani	Jada	Adamawa	8.483	12.117	2	Gang Gemeni|GangGemeni
+Gaji	Alkaleri	Bauchi	9.701	10.194	2	Geji
+Barakin Gero	Jos South	Plateau	9.814	8.813	2	
+Ago George	Irele	Ondo	6.439	4.970	2	Ago-George
+Ago George	Warri North	Delta	6.067	5.217	2	
+George	Ikeja	Lagos	6.629	3.345	2	
+Geza Yangia	Dawakin Tofa	Kano	12.207	8.513	2	
+Geza Ketere	Minjibir	Kano	12.185	8.510	2	
+Geranya	Minjibir	Kano	12.192	8.592	2	
+Gege	Ido	Oyo	7.431	3.830	2	
+Gesosawa	Gwoza	Borno	10.955	13.707	2	
+Gegeme	Dikwa	Borno	11.925	14.126	2	
+Germa	Song	Adamawa	10.028	12.422	2	
+Gele Tyokya	Gboko	Benue	7.220	8.754	2	Gele Tyokya Chen
+Gelaza	Gboko	Benue	7.457	8.957	2	
+Gebe	Gwer West	Benue	7.722	8.359	2	
+Ago-Gege	Ese Odo	Ondo	6.295	4.902	2	Ago Gege
+Unguwar Genji	Babura	Jigawa	12.667	8.954	2	
+Ungua Genji	Babura	Jigawa	12.488	8.830	2	
+Gewayau	Mani	Katsina	12.833	8.069	2	
+Gewayau	Mani	Katsina	12.828	8.087	2	
+Gemawa	Rimi	Katsina	12.821	7.762	2	
+Mai Gezogi	Dan Musa	Katsina	12.226	7.367	2	
+Dan Geza	Dan Musa	Katsina	12.216	7.255	2	
+Gende	Rafi	Niger	10.060	6.158	2	
+Gidan Gero	Silame	Sokoto	13.022	4.785	2	
+Gedi	Gada	Sokoto	13.707	5.693	2	Baredi
+Gelgel	Wurno	Sokoto	13.118	5.355	2	
+Gidan Gero	Kware	Sokoto	13.062	5.298	2	
+Geyu Mallami	Sabon Birni	Sokoto	13.563	5.920	2	
+Tunga Geza	Bagudo	Kebbi	11.469	4.350	2	
+Geru	Shanga	Kebbi	11.092	4.831	2	
+Gebe	Shanga	Kebbi	11.023	4.603	2	
+German I	Warri North	Delta	5.848	5.156	2	Benin River
+Mallam Gejere	Faskari	Katsina	11.681	6.946	2	
+Geri Gbene	Sagbama	Bayelsa	5.219	6.237	2	
+Geidam	Geidam	Yobe	12.655	12.067	2	Agbegbe Ijoba Ibile Geidam|Geidam Local Government Area|Geidama|Geidamas|Geidan|Gejdam|Nkeintam|gai da mu|ge'idama|geida
+Geljuli	Fune	Yobe	11.550	11.606	2	
+Gerire	Madagali	Adamawa	10.929	13.624	2	
+Gediya	Sumaila	Kano	11.329	8.928	2	
+Geza	Dandi	Kebbi	12.012	3.878	2	
+Gelwasa	Sakaba	Kebbi	11.295	5.389	2	
+Gebbe	Shanga	Kebbi	10.967	4.576	2	
+Ge Ere Gajara	Dange-Shuni	Sokoto	12.944	5.454	2	
+Gebe A	Isa	Sokoto	13.101	6.586	2	
+Gebe B	Isa	Sokoto	13.183	6.580	2	
+Rauta geji	Toro	Bauchi	10.557	9.525	2	
+Genabe	Gwer East	Benue	7.536	8.351	2	
+Getim	Wukari	Taraba	7.861	9.189	2	
+Gege	Ukum	Benue	7.612	9.445	2	
+Gese	Ukum	Benue	7.753	9.593	2	
+Gese	Wukari	Taraba	7.870	9.921	2	
+Gesa	Ukum	Benue	7.607	9.560	2	
+Gese	Ukum	Benue	7.539	9.577	2	
+Gerchi	Katsina-Ala	Benue	7.539	9.796	2	
+Genyi	Donga	Taraba	7.700	9.892	2	Asom
+Gema	Gboko	Benue	7.401	9.084	2	
+Gever	Buruku	Benue	7.384	9.162	2	
+Gema	Gboko	Benue	7.331	9.137	2	
+Gema	Buruku	Benue	7.271	9.264	2	
+Geda	Katsina-Ala	Benue	7.316	9.460	2	
+Ge	Ushongo	Benue	7.068	9.019	2	
+Gera	Buruku	Benue	7.233	9.109	2	
+Gerasha	Buruku	Benue	7.222	9.100	2	
+Ge	Ushongo	Benue	7.049	9.157	2	
+Genda	Katsina-Ala	Benue	7.101	9.452	2	
+Gem	Gboko	Benue	7.478	8.939	2	
+Germanam	Gboko	Benue	7.428	8.996	2	
+Gelege	Gboko	Benue	7.353	8.978	2	
+Gezawari	Zaki	Bauchi	12.036	10.398	2	
+Geledori	Gamawa	Bauchi	12.018	10.433	2	
+Geldimari	Gamawa	Bauchi	12.018	10.452	2	
+Gendegi	Gbako	Niger	9.042	5.832	2	
+Gewi	Paikoro	Niger	9.526	6.776	2	
+Wuro Genaji	Fufore	Adamawa	8.893	12.390	2	
+Gera	Fufore	Adamawa	8.858	12.424	2	
+Sabangari Gebi	Yorro	Taraba	8.969	11.392	2	
+Gena Rombo	Langtang South	Plateau	8.788	9.847	2	
+Genekwekegbene	Southern Ijaw	Bayelsa	4.792	5.829	2	
+German II	Warri North	Delta	5.845	5.153	2	
+German III	Warri North	Delta	5.843	5.150	2	
+Geman	Numan	Adamawa	9.476	11.738	2	
+Gengle	Mayo-Belwa	Adamawa	9.143	11.914	2	
+Gershi	Karim Lamido	Taraba	9.438	10.759	2	
+Wuro Gendeji	Karim Lamido	Taraba	9.220	10.928	2	
+Geke	Ibarapa Central	Oyo	7.360	3.302	2	
+Genge	Isokan	Osun	7.311	4.220	2	
+Gedegbe	Irewole	Osun	7.358	4.278	2	
+Gedu	Badagry	Lagos	6.396	2.851	2	
+Agbonyedo-Gerifo	Ado Odo/Ota	Ogun	6.546	2.911	2	
+Gemure	Baruten	Kwara	9.532	3.293	2	
+Ago-George	Ondo West	Ondo	7.055	4.753	2	
+Aiya Genge	Ogbomosho North	Oyo	8.191	4.231	2	
+Gerewu	Asa	Kwara	8.478	4.468	2	
+Gesero	Baruten	Kwara	9.097	3.102	2	
+Gereta	Jada	Adamawa	8.785	12.545	2	
+Wuro Buba Gerengi	Girei	Adamawa	9.518	12.422	2	WuroBubaGerengi
+Gele	Song	Adamawa	9.861	12.548	2	
+Geima	Pategi	Kwara	8.730	5.683	2	
+Shinshi Geneshi	Toto	Nasarawa	8.278	7.125	2	ShinshiGeneshi
+Gegoneki	Toto	Nasarawa	8.297	7.050	2	
+Tika	Kuje	FCT Abuja	8.555	7.018	2	Gede
+Nasarawan Geda	Nasarawa	Nasarawa	8.551	7.707	2	NasarawanGeda
+Geinaku	Sardauna	Taraba	6.663	11.438	2	
+Geshua	Sardauna	Taraba	6.790	11.163	2	
+Geben	Sardauna	Taraba	6.832	11.303	2	
+Aba-Gege	Ola Oluwa	Osun	7.695	4.228	2	
+George Street	Shomolu	Lagos	6.533	3.372	1	
+Olabode George Street	Eti Osa	Lagos	6.429	3.438	1	
+Gege	Ibadan South West	Oyo	7.375	3.886	1	
+Major General Ibrahim Gumel Road	Sabon Gari	Kaduna	11.112	7.724	1	
+Genral Gas road	Lagelu	Oyo	7.423	3.939	1	
+George Street	Eti Osa	Lagos	6.453	3.425	1	
+King George V Road	Lagos Island	Lagos	6.446	3.406	1	
+Georgius Cole Street	Ifako/Ijaye	Lagos	6.642	3.325	1	
+Captain Olajide George Street	Eti Osa	Lagos	6.446	3.461	1	
+General Ogomudia Road	Eti Osa	Lagos	6.453	3.479	1	
+General Emdin Street	Eti Osa	Lagos	6.437	3.480	1	
+Engineer George Enenmoh Crescent	Eti Osa	Lagos	6.437	3.477	1	
+Geregu Road	Ajaokuta	Kogi	7.566	6.693	1	
+Geidam to Niger Border Road	Yunusari	Yobe	12.991	11.970	1	
+Geidam to Niger Border Road	Yunusari	Yobe	13.034	11.985	1	
+Geodetic Road	Obio/Akpor	Rivers	4.835	7.027	1	
+Abati George Avenue	Mushin	Lagos	6.513	3.349	1	
+Nguru to Geidam Road	Karasuwa	Yobe	12.889	10.700	1	
+Nguru to Geidam Road	Barde	Yobe	12.861	11.046	1	
+Gen Clark Close	Udu	Delta	5.542	5.785	1	
+Major Gen. Ibrahim D. Gumel Street	Enugu North	Enugu	6.449	7.494	1	
+Bar. Geo Nwosu Avenue	Enugu South	Enugu	6.421	7.511	1	
+Gencos Close	Enugu East	Enugu	6.474	7.488	1	
+Gembu Road	Sardauna	Taraba	6.854	11.197	1	
+Nguru to Geidam Road	Borsari	Yobe	12.763	11.480	1	
+George Omonubi Street	Eti Osa	Lagos	6.427	3.458	1	
+Gensitra Street	Eti Osa	Lagos	6.465	3.622	1	
+Geidam to Niger Border Road	Geidam	Yobe	12.907	11.928	1	
+Ada George Road	Obio/Akpor	Rivers	4.833	6.976	1	
+Funso George	Ifako/Ijaye	Lagos	6.666	3.313	1	
+General Edet Akpan Avenue	Uyo	Akwa Ibom	5.010	7.936	1	
+Gerrard Road	Eti Osa	Lagos	6.459	3.436	1	
+General Hospital Way	Offa	Kwara	8.155	4.713	1	
+General Adeyinka Adebayo Road	Irepodun/Ifelodun	Ekiti	7.680	5.161	1	
+Gedu / Oroki	Oyo West	Oyo	7.858	3.919	1	
+Gebeleyi Street	Oshodi/Isolo	Lagos	6.527	3.329	1	
+Aina George Street	Mushin	Lagos	6.551	3.365	1	
+George Adiele Crescent	Eti Osa	Lagos	6.460	3.575	1	
+George Taylor Street	Ifako/Ijaye	Lagos	6.665	3.292	1	
+George Essien Udom Crescent	Kosofe	Lagos	6.619	3.388	1	
+Akin George Cres	Ilesha West	Osun	7.623	4.723	1	
+Gerrard Road	Eti Osa	Lagos	6.460	3.433	1	
+St. George Avenue	Eti Osa	Lagos	6.470	3.572	1	
+Nguru to Geidam Road	Geidam	Yobe	12.892	11.924	1	
+Genesis Close	Obio/Akpor	Rivers	4.813	6.980	1	
+George Town	Obio/Akpor	Rivers	4.904	6.912	1	
+Prof. Owunari Abraham Georgewill Drive	Obio/Akpor	Rivers	4.900	6.922	1	
+George Amewhule Street	Obio/Akpor	Rivers	4.850	7.003	1	
+Nguru to Geidam Road	Nguru	Yobe	12.868	10.449	1	
+General Gas Road	Lagelu	Oyo	7.421	3.941	1	
+Van George close	Fagge	Kano	12.027	8.527	1	
+Maj. Gen Manwell Close	Municipal Area Council	FCT Abuja	8.939	7.542	1	
+Major General Godwin Abbe Crescent	Municipal Area Council	FCT Abuja	8.972	7.258	1	
+Major General Orji Street	Enugu North	Enugu	6.442	7.458	1	
+George Street	Yenegoa	Bayelsa	4.937	6.325	1	
+George Town Avenue	Ikpoba-Okha	Edo	6.181	5.648	1	
+Gembu Road	Sardauna	Taraba	6.996	11.082	1	
+Gembu Road	Sardauna	Taraba	6.958	11.120	1	
+Gerti	Jema'A	Kaduna	9.463	8.253	0	
+Maigari General Resources	Jos North	Plateau	9.971	8.894	0	
+General Oil	Oredo	Edo	6.337	5.611	0	
+Rogo General Hospital	Rogo	Kano	11.553	7.831	0	
+Kabo Cottage General Hospital	Kabo	Kano	11.851	8.168	0	
+Kiru General Hospital	Kiru	Kano	11.707	8.135	0	
+General Hospital Gamawa	Gamawa	Bauchi	12.139	10.532	0	
+Genius Children School	Ibadan South East	Oyo	7.360	3.912	0	
+Geography Dept Medical Center	Sabon Gari	Kaduna	11.153	7.649	0	
+General Hospital ahoada	Ahoada East	Rivers	5.093	6.645	0	
+General Paint Bus Stop	Eti Osa	Lagos	6.471	3.590	0	
+Genesis International School	Warri South	Delta	5.531	5.752	0	
+General Market	Ile Oluji/Okeigbo	Ondo	7.170	4.724	0	
+General Hospital Ikono	Ikono	Akwa Ibom	5.282	7.713	0	
 General Hospital, Sabon Tasha	Chikun	Kaduna	10.451	7.468	0	
 Geo Medical Center	Oshodi/Isolo	Lagos	6.572	3.343	0	
 General Hospital Rabah	Rabah	Sokoto	13.123	5.499	0	
@@ -141,7 +395,6 @@ Maru General Hospital	Maru	Zamfara	12.325	6.407	0
 General Hospital, Bonny	Bonny	Rivers	4.436	7.176	0	
 General Hospital Minna	Chanchaga	Niger	9.613	6.545	0	
 General Hospital	Paikoro	Niger	9.526	7.074	0	
-Gegu Egba	Kogi	Kogi	8.256	6.826	2	
 Michael Bella Memorial Hospital, General Gas-Akobo	Lagelu	Oyo	7.428	3.939	0	
 General Hospital Iseyin	Ìsẹ́yìn	Oyo	7.948	3.618	0	
 Abdussala Abubakar Genera Hospital	Lapai	Niger	8.649	6.584	0	
@@ -153,7 +406,6 @@ General Hospital	Ibarapa North	Oyo	7.534	3.220	0
 General Hassan Usman Katsina (Unity College)	Bauchi	Bauchi	10.278	9.801	0	
 General hospital Kaltungo	Kaltungo	Gombe	9.831	11.321	0	
 Geography Department Room 4	Gombe	Gombe	10.305	11.176	0	
-Geography Department Room 4	Gombe	Gombe	10.306	11.178	0	
 Geography Department Room 3	Gombe	Gombe	10.305	11.176	0	
 Geology Visiting lecturers Office	Gombe	Gombe	10.305	11.175	0	
 General Hospital Kagarko	Kagarko	Kaduna	9.493	7.689	0	
@@ -187,44 +439,18 @@ Marie Stopes Clinic General Medical Care And Laboratory	Alimosho	Lagos	6.540	3.2
 Mushin General Hospital	Mushin	Lagos	6.532	3.346	0	
 FUTA Geotechnical Lab	Akure South	Ondo	7.303	5.133	0	
 Dikwa General Hospitl	Dikwa	Borno	12.042	13.912	0	
-UMAR GENERAL GAS	Ungongo	Kano	12.048	8.579	0	
-GEOVILLA RESOURCES	Ogbia	Bayelsa	4.866	6.276	0	
-GENERAL STUDIES UNIT	Kaduna North	Kaduna	10.609	7.442	0	
+Umar General Gas	Ungongo	Kano	12.048	8.579	0	
+Geovilla Resources	Ogbia	Bayelsa	4.866	6.276	0	
+General Studies Unit	Kaduna North	Kaduna	10.609	7.442	0	
 General Tunde Idiagbon International Airport, Ilorin, Ilorin, Nigeria	Asa	Kwara	8.435	4.495	0	
 General Hospital, Ilorin, Surulere Road, Ilorin, Nigeria	Ilorin West	Kwara	8.479	4.534	0	
 General Hospital Ilorin, Oko Erin, Nigeria	Ilorin West	Kwara	8.480	4.533	0	
 Genaral Hopital Nasarawa	Bukkuyum	Zamfara	12.044	5.743	0	
-Gegiri	Jema'A	Kaduna	9.417	8.105	2	
 General Hospital Erin-Ijesa	Oriade	Osun	7.561	4.879	0	
 General Hospital Kwall	Kanke	Plateau	9.374	9.609	0	
 Wuse General Hospital First Gate Bus Stop	Municipal Area Council	FCT Abuja	9.062	7.468	0	
 Department of Geography and Planning	Jos North	Plateau	9.967	8.880	0	
 Okengwe General Hospital	Okene	Kogi	7.546	6.197	0	
-George Street	Shomolu	Lagos	6.533	3.372	1	
-Olabode George Street	Eti Osa	Lagos	6.429	3.438	1	
-Gege	Ibadan South West	Oyo	7.375	3.886	1	
-Major General Ibrahim Gumel Road	Sabon Gari	Kaduna	11.112	7.724	1	
-Gege	Ibadan South West	Oyo	7.375	3.890	1	
-Genral Gas road	Lagelu	Oyo	7.423	3.939	1	
-George Street	Eti Osa	Lagos	6.453	3.425	1	
-King George V Road	Lagos Island	Lagos	6.446	3.406	1	
-Georgius Cole Street	Ifako/Ijaye	Lagos	6.642	3.325	1	
-Captain Olajide George Street	Eti Osa	Lagos	6.446	3.461	1	
-General Ogomudia Road	Eti Osa	Lagos	6.453	3.479	1	
-General Emdin Street	Eti Osa	Lagos	6.437	3.480	1	
-Engineer George Enenmoh Crescent	Eti Osa	Lagos	6.437	3.477	1	
-Geregu Road	Ajaokuta	Kogi	7.566	6.693	1	
-Geregu Road	Ajaokuta	Kogi	7.551	6.686	1	
-Geidam to Niger Border Road	Yunusari	Yobe	12.991	11.970	1	
-Geidam to Niger Border Road	Yunusari	Yobe	13.034	11.985	1	
-Geodetic Road	Obio/Akpor	Rivers	4.835	7.027	1	
-Abati George Avenue	Mushin	Lagos	6.513	3.349	1	
-Nguru to Geidam Road	Karasuwa	Yobe	12.889	10.700	1	
-Nguru to Geidam Road	Barde	Yobe	12.861	11.046	1	
-Gen Clark Close	Udu	Delta	5.542	5.785	1	
-Major Gen. Ibrahim D. Gumel Street	Enugu North	Enugu	6.449	7.494	1	
-Bar. Geo Nwosu Avenue	Enugu South	Enugu	6.421	7.511	1	
-Gencos Close	Enugu East	Enugu	6.474	7.488	1	
 Kagara General Hospital	Rafi	Niger	10.191	6.259	0	
 Geza Health Post	Minjibir	Kano	12.188	8.508	0	
 Department of Sociology and Geography	Ungongo	Kano	11.972	8.430	0	
@@ -236,52 +462,17 @@ Fagwalawa Cottage General Hospital	Dambatta	Kano	12.316	8.685	0
 Gezawa Health Post	Gezawa	Kano	12.101	8.751	0	
 Gera Health Post	Ungongo	Kano	12.089	8.552	0	
 Sheikh Muhammed Jidda General Hospital	Fagge	Kano	12.011	8.535	0	
-Nguru to Geidam Road	Borsari	Yobe	12.763	11.480	1	
-George Omonubi Street	Eti Osa	Lagos	6.427	3.458	1	
 Wuse General Hospital	Municipal Area Council	FCT Abuja	9.064	7.469	0	Wuse General Hospital Zone 3
 General Hospital Darazo	Darazo	Bauchi	10.995	10.409	0	
 Wuro Geje Dispensary	Tafawa-Balewa	Bauchi	9.725	9.803	0	
-Gensitra Street	Eti Osa	Lagos	6.465	3.622	1	
-Geidam to Niger Border Road	Geidam	Yobe	12.907	11.928	1	
-Ada George Road	Obio/Akpor	Rivers	4.833	6.976	1	
 General Hospital	Monguno	Borno	12.686	13.606	0	
 Mafa General Hospital	Mafa	Borno	11.919	13.597	0	
 Bulumkutu General Hospital	Jere	Borno	11.833	13.088	0	
 General Hospital Bama	Bama	Borno	11.534	13.690	0	
 Lassa General Hospital	Askira-Uba	Borno	10.679	13.269	0	
-Funso George	Ifako/Ijaye	Lagos	6.666	3.313	1	
-General Edet Akpan Avenue	Uyo	Akwa Ibom	5.010	7.936	1	
-Gerrard Road	Eti Osa	Lagos	6.459	3.436	1	
-General Hospital Way	Offa	Kwara	8.155	4.713	1	
-General Adeyinka Adebayo Road	Irepodun/Ifelodun	Ekiti	7.680	5.161	1	
-Gedu / Oroki	Oyo West	Oyo	7.858	3.919	1	
 Gbagada General Hospital	Kosofe	Lagos	6.551	3.388	0	
-General Edet Akpan Avenue	Uyo	Akwa Ibom	5.024	7.954	1	
-General Edet Akpan Avenue	Uyo	Akwa Ibom	5.009	7.951	1	
-Gebeleyi Street	Oshodi/Isolo	Lagos	6.527	3.329	1	
-Aina George Street	Mushin	Lagos	6.551	3.365	1	
-George Adiele Crescent	Eti Osa	Lagos	6.460	3.575	1	
-George Taylor Street	Ifako/Ijaye	Lagos	6.665	3.292	1	
-George Essien Udom Crescent	Kosofe	Lagos	6.619	3.388	1	
-Akin George Cres	Ilesha West	Osun	7.623	4.723	1	
 General Hospital, Okeho	Kajola	Oyo	8.042	3.380	0	
-Gerrard Road	Eti Osa	Lagos	6.460	3.433	1	
 General Hospital oyo	Oyo West	Oyo	7.830	3.929	0	
-St. George Avenue	Eti Osa	Lagos	6.470	3.572	1	
-Gerrard Road	Eti Osa	Lagos	6.455	3.439	1	
-Nguru to Geidam Road	Geidam	Yobe	12.892	11.924	1	
-Genesis Close	Obio/Akpor	Rivers	4.813	6.980	1	
-George Town	Obio/Akpor	Rivers	4.904	6.912	1	
-Prof. Owunari Abraham Georgewill Drive	Obio/Akpor	Rivers	4.900	6.922	1	
-George Amewhule Street	Obio/Akpor	Rivers	4.850	7.003	1	
-Nguru to Geidam Road	Nguru	Yobe	12.868	10.449	1	
-General Gas Road	Lagelu	Oyo	7.421	3.941	1	
-Van George close	Fagge	Kano	12.027	8.527	1	
-Maj. Gen Manwell Close	Municipal Area Council	FCT Abuja	8.939	7.542	1	
-Major General Godwin Abbe Crescent	Municipal Area Council	FCT Abuja	8.972	7.258	1	
-General Hospital Way	Offa	Kwara	8.153	4.716	1	
-Major General Orji Street	Enugu North	Enugu	6.442	7.458	1	
-George Street	Yenegoa	Bayelsa	4.937	6.325	1	
 General Hospital	Muhammadu Dikko Stadium	Katsina	12.999	7.604	0	
 General Hospital Area	Asari-Toru	Rivers	4.740	6.860	0	
 Yunusari General Hospital	Yunusari	Yobe	13.094	12.104	0	
@@ -331,7 +522,6 @@ General Hospital Chibok	Chibok	Borno	10.865	12.853	0
 Genesis School	Eti Osa	Lagos	6.488	3.580	0	
 Biryel General Hospital	Bayo	Borno	10.337	11.593	0	
 General Hospital Marama	Hawul	Borno	10.453	12.163	0	
-Shani General Hospital	Shani	Borno	10.227	12.055	0	
 General Hospital Uba	Askira-Uba	Borno	10.478	13.186	0	
 General Hospital Kukawa	Guzamala	Borno	12.922	13.582	0	
 General Hospital	Mobbar	Borno	13.096	12.504	0	
@@ -348,7 +538,6 @@ Zadawa General Hospital	Askira-Uba	Borno	10.655	12.909	0
 General Hospital, Aboh Mbaise	Aboh-Mbaise	Imo	5.477	7.272	0	
 General Hospital of Tangaza	Tangaza	Sokoto	13.366	4.950	0	
 Molai General Hospital	Jere	Borno	11.744	13.099	0	
-George Town Avenue	Ikpoba-Okha	Edo	6.181	5.648	1	
 General Hospital Bama	Bama	Borno	11.262	14.156	0	
 gejembo health clinic	Demsa	Adamawa	9.308	11.906	0	gejembo
 Gajimer General Hospital	Nganzai	Borno	12.486	13.208	0	
@@ -374,23 +563,8 @@ Karshi General Hospital	Municipal Area Council	FCT Abuja	8.825	7.571	0
 Gwarinpa General Hospital	Municipal Area Council	FCT Abuja	9.076	7.399	0	
 General Hospital Idanre	Idanre	Ondo	7.133	5.100	0	
 NNPC General Gas	Lagelu	Oyo	7.421	3.939	0	
-DEPARTMENT OF SURVEYING AND GEOINFORMATICS	Birnin Kebbi	Kebbi	12.465	4.239	0	
+Department Of Surveying And Geoinformatics	Birnin Kebbi	Kebbi	12.465	4.239	0	
 General Hospital Kontagora	Kontagora	Niger	10.401	5.471	0	
 Damasak General Hospital	Mobbar	Borno	13.094	12.506	0	
 Abudu General Hospital	Orhionmwon	Edo	6.294	6.020	0	
 General Out-Patient Department (GOPD)	Nnewi North	Anambra	5.999	6.882	0	
-Gebe B	Isa	Sokoto	13.174	6.592	2	
-Gebe A	Isa	Sokoto	13.097	6.584	2	
-Ge Ere Gajara	Dange-Shuni	Sokoto	12.949	5.448	2	
-Gelwasa	Sakaba	Kebbi	11.295	5.386	2	
-Geza	Dandi	Kebbi	11.997	3.886	2	
-Matsinkai Geza	Bagudo	Kebbi	11.450	4.283	2	
-Gebbe	Shanga	Kebbi	10.981	4.575	2	
-Geshere	Kauru	Kaduna	10.149	8.389	2	
-Getso	Gwarzo	Kano	11.883	7.979	2	
-Gezawa	Gezawa	Kano	12.128	8.757	2	
-Sararin Gezawa	Gezawa	Kano	12.096	8.773	2	
-Gezawa	Gezawa	Kano	12.064	8.719	2	
-Gediya	Sumaila	Kano	11.333	8.917	2	
-Geidam	Geidam	Yobe	12.698	12.152	2	
-Rauta geji	Toro	Bauchi	10.496	9.576	2	

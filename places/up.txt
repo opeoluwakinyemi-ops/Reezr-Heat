@@ -1,17 +1,35 @@
+Ukpor	Nnewi South	Anambra	5.943	6.929	3	Upor
+Upenekang	Ibeno	Akwa Ibom	4.570	7.976	3	
 Upe	Ngor-Okpala	Imo	5.400	7.100	2	
 Ugbekele	Ethiope West	Delta	5.982	5.789	2	Opekeli;Upekeli;Ugbekele
 Upe	Ilaje	Ondo	6.082	4.954	2	
-Ukpor	Nnewi South	Anambra	5.943	6.929	3	Upor
 Opalo	Larmurde	Adamawa	9.517	11.933	2	Upalu
-UPE Primary School	Muhammadu Dikko Stadium	Katsina	12.980	7.609	0	
-PHC Kambama	Shagari	Sokoto	12.614	5.223	0	Kambama Upgraded Dispensary
-Upenmen Market	Ọ̀wọ̀	Ondo	7.256	5.620	0	
-Marabawa upgraded dispensary	Kware	Sokoto	13.218	5.306	0	
 Uputabo	Ahoada West	Rivers	5.086	6.589	2	
-Upenekang	Ibeno	Akwa Ibom	4.570	7.976	3	
+Upuba	Gombi	Adamawa	10.210	12.691	2	
+Upper Ebuoya	Ohimini	Benue	7.277	8.013	2	
+Ugbekele Waterside	Orhionmwon	Edo	5.984	5.789	2	Opekeli|Ugbekele|Upekeli
+Upper-Akpineje	Okpokwu	Benue	7.047	8.010	2	
+Upper Atito	Oturkpo	Benue	7.076	8.034	2	
+Upu	Oturkpo	Benue	7.225	8.163	2	
+Upu & Icho	Oturkpo	Benue	7.243	8.173	2	
+Upe	Ese Odo	Ondo	6.112	4.967	2	
+Upude	Isoko South	Delta	5.381	6.317	2	
+Uputabo	Ahoada West	Rivers	5.084	6.587	2	
+Uper	Gwer East	Benue	7.302	8.450	2	
+Upuur	Gwer East	Benue	7.286	8.422	2	
+Tse-Uperegh	Markurdi	Benue	7.751	8.382	2	
+Upaa	Gwer West	Benue	7.672	8.262	2	
+Upel	Logo	Benue	7.550	9.344	2	
+Upil	Katsina-Ala	Benue	7.507	9.733	2	
+Upuw	Buruku	Benue	7.332	9.211	2	
+Upa	Buruku	Benue	7.179	9.065	2	
+Upe	Buruku	Benue	7.147	9.181	2	
+Upaa	Gboko	Benue	7.470	8.768	2	
+Uba Upasibaba	Warri North	Delta	5.924	5.311	2	
+Upopo	Warri South-West	Delta	5.510	5.182	2	
 Upper Volta Street	Kaduna North	Kaduna	10.560	7.467	1	
 Upper 3rd Ivbiore Street	Oredo	Edo	6.349	5.615	1	
-UPPER OROMIYAN STREET	Egor	Edo	6.355	5.584	1	
+Upper Oromiyan Street	Egor	Edo	6.355	5.584	1	
 Upper Owina Street	Egor	Edo	6.339	5.579	1	
 Upper Offin Street	Lagos Island	Lagos	6.459	3.384	1	
 Upper Adesuwa Road	Oredo	Edo	6.306	5.610	1	
@@ -39,12 +57,11 @@ Upper Siluko Road	Ovia South-West	Edo	6.515	5.384	1
 Upper Siluko Road	Ovia South-West	Edo	6.481	5.462	1	
 Upper Siluko Road	Oredo	Edo	6.351	5.602	1	
 Upper Siluko Road	Egor	Edo	6.364	5.588	1	
-Upper Siluko Road	Egor	Edo	6.358	5.600	1	
-UPPER OROMIYAN STREET	Egor	Edo	6.356	5.590	1	
 Upper Volta Crescent	Kaduna North	Kaduna	10.561	7.468	1	
 Upper Afiesere Road	Ughelli North	Delta	5.502	6.008	1	
-Upper Siluko Road	Egor	Edo	6.371	5.580	1	
 Upper Siluko Road	Egor	Edo	6.379	5.576	1	
-Upper Siluko Road	Egor	Edo	6.380	5.574	1	
-UPTH road	Obio/Akpor	Rivers	4.889	6.925	1	
+UPE Primary School	Muhammadu Dikko Stadium	Katsina	12.980	7.609	0	
+PHC Kambama	Shagari	Sokoto	12.614	5.223	0	Kambama Upgraded Dispensary
+Upenmen Market	Ọ̀wọ̀	Ondo	7.256	5.620	0	
+Marabawa upgraded dispensary	Kware	Sokoto	13.218	5.306	0	
 UPWA International Secondary School	Obio/Akpor	Rivers	4.902	6.913	0	

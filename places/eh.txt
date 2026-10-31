@@ -1,14 +1,37 @@
 Eha Amufu	Isi-Uzo	Enugu	6.652	7.768	3	
+Ehor	Uhunmwonde	Edo	6.615	5.985	3	
+Afikpo	Afikpo North	Ebonyi	5.884	7.937	3	Ehugbo
+Epe	Epe	Lagos	6.584	3.983	3	Ehpe|Epeh
+Ehor	Uhunmwonde	Edo	6.615	5.982	3	Iho
+Ado-Ekiti	Adó-Èkìtì	Ekiti	7.623	5.221	3	Ado|Ado-Ehkiti|EKK|ado-ekiti|adw akyty|adw-aykty|lidiyeti lisano
 Ehwerhe	Ughelli North	Delta	5.608	5.896	2	Ekwese
 Eha-Alumona	Nsukka	Enugu	6.823	7.457	2	Ehalumona
-Ehor	Uhunmwonde	Edo	6.615	5.985	3	
 Odo-Owa	Ijero	Ekiti	7.885	5.070	2	Odo Erin;Odo-Ehin
-Afikpo	Afikpo North	Ebonyi	5.884	7.937	3	Ehugbo
 Ihuama	Ahoada East	Rivers	4.976	6.675	2	Ehuama
 Ehume	Obowo	Imo	5.548	7.363	2	
-EHA Lab	Sokoto South	Sokoto	13.050	5.246	0	
-EHA Clinics	Municipal Area Council	FCT Abuja	9.082	7.408	0	
-Ehj Catholic Hospital	Alimosho	Lagos	6.642	3.269	0	
+Ehime Mbano	Ehime Mbano	Imo	5.688	7.300	2	
+Ehoroke	Warri North	Delta	5.774	5.070	2	Jalla
+Ehwerhe	Ughelli North	Delta	5.609	5.895	2	Ekwese
+Ehume	Obowo	Imo	5.546	7.375	2	
+Ehuhe	Oji-River	Enugu	6.199	7.356	2	
+Ehorone	Uhunmwonde	Edo	6.317	5.833	2	
+Ehin-Osa	Ogun Waterside	Ogun	6.424	4.536	2	Ehin Osa
+Ehinkule	Itesiwaju	Oyo	8.313	3.528	2	
+Ehere	Aba North	Abia	5.108	7.395	2	
+Ehandiagu	Nsukka	Enugu	6.805	7.565	2	
+Eha-Alumona	Nsukka	Enugu	6.823	7.453	2	
+Egua-Eholor	Uhunmwonde	Edo	6.424	6.030	2	Egua Holor
+Ihuama	Ahoada East	Rivers	4.977	6.675	2	Ehuama
+Eli Ehia	Emuoha	Rivers	4.860	6.711	2	Edi|Eli-Ehio
+Ehinala	Akure North	Ondo	7.190	5.290	2	
+Ehor	Owan West	Edo	6.988	5.941	2	
+Ehenomeghele	Ovia North-East	Edo	6.562	5.511	2	
+Ehawa	Kaura Namoda	Zamfara	12.323	6.746	2	
+Ehwahwa	Ughelli North	Delta	5.570	6.075	2	
+Ehime -Mbano	Ehime Mbano	Imo	5.665	7.303	2	
+Esan North-East	Esan North-East	Edo	6.755	6.397	2	Ehsan Nort-Ist|Esan Nord Est|Esan North East|Esan North East Local Government Area|Esan ta Arewa maso Gabas|Tang-pak Esa
+Ehanlen	Esan West	Edo	6.728	6.161	2	
+Ehinmore	Ilaje	Ondo	6.145	4.736	2	
 Ehigiamusoe Street	Oredo	Edo	6.295	5.608	1	
 Eholor Street	Oredo	Edo	6.340	5.598	1	
 4th Ehenede Lane	Oredo	Edo	6.339	5.607	1	
@@ -22,10 +45,8 @@ Peter Ehis Close	Oredo	Edo	6.278	5.602	1
 1st Ehaekpen Lane	Oredo	Edo	6.338	5.610	1	
 3rd Ehaekpen Lane	Oredo	Edo	6.340	5.609	1	
 Ehigiator Street	Egor	Edo	6.359	5.575	1	
-Ehigiator Street	Egor	Edo	6.361	5.573	1	
 Ehigiamusoe Avenue	Oredo	Edo	6.300	5.608	1	
 6th Eheneden Lane	Oredo	Edo	6.342	5.607	1	
-Ehigiator Street	Oredo	Edo	6.335	5.594	1	
 Ehaekpen Street	Oredo	Edo	6.345	5.610	1	
 1st Ehenede Lane	Oredo	Edo	6.337	5.609	1	
 5th Ehenede Lane	Oredo	Edo	6.340	5.606	1	
@@ -37,9 +58,11 @@ Ehi-Ebhojie Avenue	Eti Osa	Lagos	6.457	3.575	1
 Efeosa Ehiedu Close	Eti Osa	Lagos	6.474	3.571	1	
 Engr. John Ehizokhale Street	Eti Osa	Lagos	6.466	3.622	1	
 Ehingbeti Street	Oshodi/Isolo	Lagos	6.534	3.324	1	
-COMRADE KOKOMA EHIGIAMUSOE AVENUE	Oredo	Edo	6.295	5.570	1	
+Comrade Kokoma Ehigiamusoe Avenue	Oredo	Edo	6.295	5.570	1	
 Ehanlen Rd	Esan West	Edo	6.726	6.159	1	
 Ehimen St	Esan West	Edo	6.729	6.141	1	
 Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.946	1	
 Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.943	1	
-Ehime Mbano	Ehime Mbano	Imo	5.688	7.300	2	
+EHA Lab	Sokoto South	Sokoto	13.050	5.246	0	
+EHA Clinics	Municipal Area Council	FCT Abuja	9.082	7.408	0	
+Ehj Catholic Hospital	Alimosho	Lagos	6.642	3.269	0	

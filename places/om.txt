@@ -1,4 +1,17 @@
-Omoba Station	Isiala-Ngwa North	Abia	5.245	7.407	0	
+Agbor	Ika South	Delta	6.258	6.182	3	Ominije
+Omu Aran	Irepodun	Kwara	8.139	5.101	3	
+Omoku	Ogba/Egbema/Ndoni	Rivers	5.345	6.657	3	Omoko
+Omuo-Obadore	Ekiti East	Ekiti	7.730	5.724	3	
+Omupo	Ifelodun	Kwara	8.276	4.796	3	
+Omuma	Oru East	Imo	5.757	6.946	3	Umumma
+Jobore, Omu Ijebu	Odogbolu	Ogun	6.710	3.866	3	
+Ibido, omu ijebu	Odogbolu	Ogun	6.711	3.868	3	
+Irete, omu ijebu	Odogbolu	Ogun	6.701	3.864	3	
+Omagwa	Ikwerre	Rivers	4.989	6.916	3	
+Omor	Ayamelum	Anambra	6.519	6.957	3	
+Omu-Aran	Irepodun	Kwara	8.134	5.100	3	Omu
+Umumma	Oru East	Imo	5.757	6.946	3	Omuma
+Omoba	Isiala-Ngwa North	Abia	5.243	7.406	3	
 Omu	Epe	Lagos	6.495	3.974	2	Emu
 Owinkiri Kalama	Asari-Toru	Rivers	4.738	6.834	2	Owinkiri Kalama;Winkiri Kalama;Omekwe-Kalama
 Omu Ipetu	Irepodun	Kwara	8.099	5.084	2	
@@ -26,16 +39,12 @@ Omo Akpo	Ohaji/Egbema	Imo	5.253	6.881	2
 Ilu-Omoba	Gbonyin	Ekiti	7.640	5.420	2	
 Omole	Ikeja	Lagos	6.642	3.361	2	
 Omubiokolo	Bonny	Rivers	4.480	7.308	2	
-Agbor	Ika South	Delta	6.258	6.182	3	Ominije
 Omugo	Irepodun	Kwara	8.106	4.926	2	
-Omu Aran	Irepodun	Kwara	8.139	5.101	3	
 Omin Adio	Ido	Oyo	7.394	3.753	2	
 Omokwa	Abua/Odual	Rivers	4.850	6.655	2	Amokwa
 Omuo	Ekiti East	Ekiti	7.758	5.721	2	
 Okwode Omoniyi	Ethiope West	Delta	5.878	5.784	2	
 Omugo	Ifelodun	Kwara	8.259	5.196	2	
-Omoku	Ogba/Egbema/Ndoni	Rivers	5.345	6.657	3	Omoko
-Omuo-Obadore	Ekiti East	Ekiti	7.730	5.724	3	
 Omilabu	Akinyele	Oyo	7.546	3.946	2	
 Omode	Ifelodun	Kwara	8.450	4.750	2	
 Omodun	Lagelu	Oyo	7.567	4.067	2	Awmawdun
@@ -44,41 +53,200 @@ Ito-Omu	Epe	Lagos	6.501	3.631	2
 Umu Oye	Ngor-Okpala	Imo	5.367	7.083	2	Omu Oye
 Ikot Oma	Akpabuyo	Cross River	4.939	8.547	2	Nyon Idibi Ikot Umo;Ikot Umo
 Omifon	Odigbo	Ondo	6.806	4.851	2	
-Omupo Grammar School	Ifelodun	Kwara	8.282	4.783	0	
-Omupo Town Hall	Ifelodun	Kwara	8.278	4.792	0	
-Omo group of schools	Oredo	Edo	6.327	5.629	0	
-Omupo	Ifelodun	Kwara	8.276	4.796	3	
-ALPHA ET OMEGA	Ipokia	Ogun	6.637	2.736	0	
 Omowa, Isanlu	Yagba East	Kogi	8.260	5.838	2	
-Omolad	Oshodi/Isolo	Lagos	6.539	3.291	0	
-Omuro International Market Ugbo Ilaje	Ilaje	Ondo	6.153	4.793	0	
-Araromi Omoladun Market	Ifedore	Ondo	7.365	5.174	0	
-Omifon Market	Odigbo	Ondo	6.829	4.861	0	
-Ode Omi Market	Irele	Ondo	6.478	4.889	0	
-Omolere Group of School	Akure North	Ondo	7.261	5.221	0	
-Omoleye Busstop	Shagamu	Ogun	6.698	3.512	0	
-Methodist Primary School, Oko Omi	Ado Odo/Ota	Ogun	6.712	3.076	0	
-African Church School, Omitoro	Ifo	Ogun	6.747	3.284	0	
-Omoluwabi Model Primary School, Imepe	Ado Odo/Ota	Ogun	6.706	3.244	0	
-African Church School, Omitoro	Ifo	Ogun	6.812	3.197	0	
-Omoluwabi Model Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.811	3.913	0	
-Omuma	Oru East	Imo	5.757	6.946	3	Umumma
 Omavovwe	Ughelli North	Delta	5.546	6.053	2	
 Omuofu-Obi	Isoko South	Delta	5.487	6.211	2	
-Omega clinic	Jos North	Plateau	9.941	8.869	0	
-Omega High School	Jos North	Plateau	9.872	8.933	0	
-Omosola Hospital	Alimosho	Lagos	6.617	3.297	0	
-Ola Omoyenji Maternity Home	Mushin	Lagos	6.517	3.347	0	
-Omo Medical Health Center	Mushin	Lagos	6.539	3.364	0	
-FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
-FGVV+JQH, Omu-Aran-Oja Oba, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.494	4.544	0	
-Ero Omo Hospital, Kilanko Road, Ilorin, Nigeria	Ilorin East	Kwara	8.453	4.585	0	
-Jobore, Omu Ijebu	Odogbolu	Ogun	6.710	3.866	3	
-Ibido, omu ijebu	Odogbolu	Ogun	6.711	3.868	3	
-Irete, omu ijebu	Odogbolu	Ogun	6.701	3.864	3	
-Omoda Hospital	Ilorin East	Kwara	8.504	4.535	0	
-Omagwa	Ikwerre	Rivers	4.989	6.916	3	
-Omor	Ayamelum	Anambra	6.519	6.957	3	
+Omala	Omala	Kogi	7.778	7.566	2	
+Omumma	Omumma	Rivers	5.093	7.235	2	
+Umu Omeke	Ehime Mbano	Imo	5.690	7.275	2	
+Umu Omei	Obi Ngwa	Abia	5.200	7.519	2	
+Umu Omayi	Isiala-Ngwa South	Abia	5.383	7.433	2	
+Umu Oma	Owerri West	Imo	5.433	7.017	2	
+Umu Enge	Isiala-Ngwa North	Abia	5.260	7.392	2	Omo Enge|Umuevge
+Umu-Dioga	Emuoha	Rivers	5.171	6.797	2	Omo Doga|Umo Diogo
+Oniku	Ogba/Egbema/Ndoni	Rivers	5.576	6.600	2	Omiku
+Omu-Oloyinde	Aiyedade	Osun	7.320	4.345	2	Omu Oloyinde
+Omuo-Oke	Ekiti East	Ekiti	7.768	5.747	2	
+Omuo-Ekiti	Ekiti East	Ekiti	7.758	5.722	2	Omuo|Omuo-Kota
+Omunuho	Ebonyi	Ebonyi	6.508	8.102	2	
+Omungukiri	Degema	Rivers	4.746	6.922	2	
+Omu-Moringbere	Aiyedade	Osun	7.303	4.337	2	Omu Moringbere
+Omum Inyam	Etim Ekpo	Akwa Ibom	4.967	7.548	2	
+Omu-Ipetu	Irepodun	Kwara	8.099	5.084	2	Ipetu|Omu Ipetu
+Omu-Ekene	Ibiono Ibom	Akwa Ibom	5.297	7.894	2	
+Omu-Alajo	Aiyedade	Osun	7.309	4.342	2	Omu Alajo
+Omotoso	Ìsẹ́yìn	Oyo	7.706	3.361	2	
+Omoraka	Abua/Odual	Rivers	4.864	6.656	2	
+Omo-Oba	Ogo Oluwa	Oyo	7.997	4.241	2	Omo Oba|OmoOba
+Omo-Oba	Oyo East	Oyo	7.849	4.060	2	Omo Oba|OmoOba
+Omoniko	Onicha	Ebonyi	6.162	7.799	2	
+Omoni	Moro	Kwara	8.814	4.423	2	
+Omoni	Moro	Kwara	8.755	4.447	2	
+Omon	Obubra	Cross River	5.922	8.268	2	Amon
+Omolege	Ose	Ondo	6.787	5.657	2	
+Omole	Surulere	Oyo	8.188	4.484	2	
+Omokuro	Irele	Ondo	6.517	5.150	2	
+Omo-Iya-Agba	Akinyele	Oyo	7.618	4.037	2	Omo Iya Agba|OmoIyaAgba
+Omo-Erin	Ori Ire	Oyo	8.512	4.281	2	Omo Erin
+Omodoyin	Asa	Kwara	8.367	4.383	2	
+Omodema	Ikwerre	Rivers	5.085	6.956	2	
+Omo-Alao	Asa	Kwara	8.249	4.536	2	Omo Alao|OmoAlao
+Omo-Ala	Moro	Kwara	8.857	4.332	2	Omo Ala
+Omo	Ayamelum	Anambra	6.510	6.959	2	Omar
+Omiyolo	Odeda	Ogun	7.355	3.704	2	
+Omiyale	Oluyole	Oyo	7.348	3.925	2	
+Omitogun	Odeda	Ogun	7.388	3.487	2	
+Omisore	Ondo West	Ondo	7.067	4.617	2	
+Omirin	Aiyedade	Osun	7.208	4.320	2	
+Omi-Onigbagbo	Ido	Oyo	7.387	3.734	2	Omi Onigbagbo
+Ominyi	Izzi	Ebonyi	6.515	8.353	2	Ominiyi
+Ominla	Odigbo	Ondo	6.806	4.850	2	
+Omin-Adio	Ido	Oyo	7.392	3.754	2	Adio Station|Omin Adio
+Omileye	Abeokuta North	Ogun	7.370	3.135	2	
+Omilende	Yewa North	Ogun	7.029	3.013	2	
+Omileke	Ibarapa East	Oyo	7.665	3.534	2	
+Omifun-Oke	Ilaje	Ondo	6.246	4.631	2	Omifun Oke
+Omifun-Odo	Ilaje	Ondo	6.241	4.623	2	Omifun Odo
+Omifunfun	Ife South	Osun	7.177	4.602	2	
+Omifunfun	Idanre	Ondo	6.889	5.204	2	
+Omidoyin	Moro	Kwara	8.867	4.329	2	
+Omidoyin	Moro	Kwara	8.820	4.380	2	
+Omodoyin	Ori Ire	Oyo	8.348	4.270	2	Omidoyin
+Omialafara	Ose	Ondo	6.979	5.735	2	
+Omi	Yagba West	Kogi	8.215	5.634	2	
+Omi	Irele	Ondo	6.478	4.892	2	
+Omi	Ovia North-East	Edo	6.400	5.517	2	
+Omenama	Abua/Odual	Rivers	4.839	6.655	2	
+Omega-Achara	Ikwo	Ebonyi	6.101	8.232	2	
+Ombi	Nasarawa	Nasarawa	8.436	7.822	2	
+Ombel	Maiha	Adamawa	9.783	13.225	2	
+Omasi Agu	Ayamelum	Anambra	6.704	6.980	2	Omashi
+Omanze	Isi-Uzo	Enugu	6.776	7.869	2	
+Omakwu	Esan South-East	Edo	6.694	6.543	2	
+Oku-Omoni	Ife North	Osun	7.381	4.426	2	Oku Omoni
+Oke-Omo	Oyo East	Oyo	7.869	4.003	2	Oke Omo|Oke-Awmaw
+Ogo-Omerenama	Arochukwu	Abia	5.541	7.703	2	
+Ode-Omi	Epe	Lagos	6.402	4.333	2	
+Ikot Omin	Calabar Municipal	Cross River	5.059	8.353	2	
+Ikem-Omuaram	Isi-Uzo	Enugu	6.769	7.704	2	
+Apata-Omoeiye	Ibarapa North	Oyo	7.647	3.338	2	Apata Omoeiye|ApataOmoeiye
+Achoro-Ndiagu	Ikwo	Ebonyi	6.130	8.151	2	Achara Ndiagu|Achara Ndiagu Omegio
+Abba-Omega	Onicha	Ebonyi	6.005	8.004	2	Abba Omege
+Omueke	Ikwerre	Rivers	4.974	6.879	2	Rumueke|Umueke
+Omuigwe	Ikwerre	Rivers	4.944	6.931	2	Rumugw|Umu-Igwe
+Omuochi	Ikwerre	Rivers	4.916	6.897	2	Omouchi
+Omuokip	Ikwerre	Rivers	4.926	6.924	2	Omuokiri
+Rumueme	Obio/Akpor	Rivers	4.823	6.981	2	Rumu-Ome
+Omonije	Afijio	Oyo	7.735	3.860	2	
+Omoba	Afijio	Oyo	7.698	3.881	2	
+Omotunde	Afijio	Oyo	7.714	3.811	2	
+Omuni	Akinyele	Oyo	7.627	3.912	2	
+Idi-Omo	Akinyele	Oyo	7.506	3.956	2	Idi Omo|IdiOmo
+Omunwe	Ikwerre	Rivers	4.972	7.021	2	
+Omema	Ikwerre	Rivers	4.965	7.025	2	
+Omo Nwa	Ikwerre	Rivers	5.069	6.887	2	
+Omoecheigbo	Ikwerre	Rivers	5.049	6.964	2	
+Winkiriki Anamo	Asari-Toru	Rivers	4.740	6.832	2	Omekwe-Kalama|Owinkiri Kalama|Winkiri Kalama
+Omenemo	Abua/Odual	Rivers	4.827	6.681	2	Omenema Farm|Omonama Farm
+Kelema	Degema	Rivers	4.413	6.857	2	Omoma
+Omoma	Degema	Rivers	4.417	6.893	2	
+Omagwa	Emuoha	Rivers	4.983	6.690	2	Omegwa
+Omoviri	Emuoha	Rivers	4.932	6.676	2	
+Ekunchoro	Emuoha	Rivers	4.948	6.730	2	Ekunchara-Omofo
+Omofo	Emuoha	Rivers	4.952	6.732	2	Omoto
+Omomema	Abua/Odual	Rivers	4.865	6.692	2	
+Omouchi	Ikwerre	Rivers	4.912	6.899	2	
+Omi-Alaja	Idanre	Ondo	7.008	5.104	2	
+Omilifon	Idanre	Ondo	7.053	5.210	2	
+Omi Olosun	Idanre	Ondo	7.093	5.194	2	
+Omokehin	Ọ̀wọ̀	Ondo	7.124	5.433	2	
+Omomeji	Akure North	Ondo	7.226	5.319	2	
+Omi-Eku	Adó-Èkìtì	Ekiti	7.585	5.263	2	
+Omi-Oloko	Adó-Èkìtì	Ekiti	7.594	5.256	2	
+Omu-Ekiti	Oye	Ekiti	7.884	5.414	2	
+Omu-Titun	Oye	Ekiti	7.893	5.406	2	
+Omolewa	Ijero	Ekiti	7.939	5.034	2	
+Omebe	Oturkpo	Benue	7.085	8.096	2	
+Omudi	Udi	Enugu	6.544	7.359	2	
+Omolege Junction	Ose	Ondo	6.817	5.654	2	
+Molume	Warri North	Delta	5.865	5.004	2	Omolomo
+Omoteka	Ughelli North	Delta	5.545	5.958	2	
+Aladja Omia	Udu	Delta	5.486	5.754	2	Aladja
+Obodo-Omadino Farm Settlement	Warri South	Delta	5.644	5.658	2	
+Ombutuaeregbene	Ekeremor	Bayelsa	4.925	5.604	2	
+Omo Camp	Ekeremor	Bayelsa	4.968	5.704	2	Omo
+Ombegbene	Ekeremor	Bayelsa	4.942	5.902	2	
+Omusumoposigbene	Ekeremor	Bayelsa	4.789	5.559	2	
+Omodara Ana	Eleme	Rivers	4.697	7.178	2	
+Umu Owa Oma	Obi Ngwa	Abia	5.131	7.522	2	
+Omoaokogbo	Ogbaru	Anambra	5.911	6.700	2	
+Ekpete Oma Camp	Ndokwa East	Delta	5.739	6.610	2	
+Omoairogbene	Sagbama	Bayelsa	5.211	6.233	2	
+Omo Dema	Ikwerre	Rivers	5.051	6.920	2	
+Omala	Omala	Kogi	7.800	7.541	2	
+Omolem	Abua/Odual	Rivers	4.861	6.646	2	
+Omucgolo	Emuoha	Rivers	4.998	6.822	2	
+Omuiyoro	Emuoha	Rivers	4.986	6.821	2	
+Omor	Ayamelum	Anambra	6.522	7.030	2	
+Omojaga	Oturkpo	Benue	7.026	8.077	2	
+Omene	Obubra	Cross River	6.100	8.365	2	
+Omeneruk	Obubra	Cross River	6.056	8.383	2	
+Ombapa	Gwer West	Benue	7.590	8.120	2	
+Ombabali	Gwer West	Benue	7.564	8.235	2	
+Ghana	Brass	Bayelsa	4.478	6.127	2	Omiekiri
+Omonikiri	Brass	Bayelsa	4.317	6.212	2	
+Omagba Phase II	Onitsha North	Anambra	6.155	6.811	2	
+Omitutun-Olori	Alimosho	Lagos	6.605	3.307	2	
+Omi Oja	Epe	Lagos	6.650	3.734	2	
+Eko-Omon	Esan North-East	Edo	6.700	6.299	2	
+Omolaso	Egbeda	Oyo	7.450	4.013	2	
+Idi-Omo	Ijebu North	Ogun	7.078	4.165	2	
+Omitowo	Egbeda	Oyo	7.372	4.062	2	
+Idi-Omo	Egbeda	Oyo	7.367	4.101	2	
+Omoloju	Egbeda	Oyo	7.351	4.114	2	
+Omogbade	Aiyedade	Osun	7.322	4.292	2	
+Omowu-Are	Ife North	Osun	7.351	4.439	2	
+Okutu Omo	Atakunmosa West	Osun	7.519	4.643	2	
+Omi-Aka	Ilesha West	Osun	7.656	4.692	2	
+Omi-Owo	Obokun	Osun	7.741	4.773	2	
+Omogbara	Oriade	Osun	7.540	4.832	2	
+Omo	Oriade	Osun	7.575	4.885	2	
+Omosuvbe	Okitipupa	Ondo	6.435	4.782	2	
+Ago-Omofien	Irele	Ondo	6.355	4.957	2	
+Ago-Omole	Ilaje	Ondo	6.364	4.839	2	
+Omojare	Ife North	Osun	7.413	4.503	2	
+Omojoda	Ife East	Osun	7.404	4.634	2	
+Omiodo	Atakunmosa West	Osun	7.323	4.726	2	
+Omidire	Ife South	Osun	7.258	4.670	2	
+Omidire-Onipetesi	Ife South	Osun	7.270	4.679	2	
+Ominla	Ife South	Osun	7.240	4.728	2	
+Ahanran-Omosebi	Ife South	Osun	7.196	4.657	2	
+Ago-Omojomo	Ondo West	Ondo	7.008	4.746	2	
+Omusa	Ondo West	Ondo	7.050	4.929	2	
+Omunotun	Idanre	Ondo	7.071	4.994	2	
+Omifunfun	Ondo East	Ondo	7.138	4.973	2	
+Omilosun	Ondo East	Ondo	7.169	4.964	2	
+Adeyanju Omo-Oba	Ile Oluji/Okeigbo	Ondo	7.360	4.948	2	
+Omole	Ile Oluji/Okeigbo	Ondo	7.361	4.953	2	
+Omu-Aran	Ekiti South-West	Ekiti	7.450	4.977	2	
+Omi-Odan	Ori Ire	Oyo	8.441	4.056	2	
+Odo-Omo	Asa	Kwara	8.342	4.422	2	
+Omin-Digbolu	Ijebu North	Ogun	7.074	3.964	2	
+Omi-Fatokun	Oluyole	Oyo	7.203	3.802	2	
+Omi-Fatokun	Odeda	Ogun	7.185	3.775	2	
+Omi-Dapo	Odeda	Ogun	7.182	3.777	2	
+Omolere	Ori Ire	Oyo	8.609	4.011	2	
+Omu-Aran	Isin	Kwara	8.162	5.072	2	
+River Omoleyin	Oyun	Kwara	8.229	4.725	2	RiverOmoleyin
+Omole	Oyo West	Oyo	7.921	3.803	2	
+Ero-Omo	Ilorin East	Kwara	8.454	4.581	2	
+Omosan	Iwo	Osun	7.667	4.139	2	
+Omosan	Ola Oluwa	Osun	7.700	4.233	2	
+Omola	Afijio	Oyo	7.700	4.002	2	
+Omosan	Ola Oluwa	Osun	7.738	4.231	2	
+Omo-Oba	Afijio	Oyo	7.707	4.033	2	
+Omosun	Ede South	Osun	7.659	4.434	2	
+Omu	Isin	Kwara	8.163	5.032	2	
 Omoku Street	Port-Harcourt	Rivers	4.804	6.999	1	
 Omore Road	Ovia North-East	Edo	6.421	5.613	1	
 Omiyale Road	Ibadan South East	Oyo	7.372	3.897	1	
@@ -160,7 +328,6 @@ Omo-ogieva Street	Egor	Edo	6.358	5.572	1
 Omoidahosa Street	Egor	Edo	6.360	5.575	1	
 Omorodion Avenue Street	Egor	Edo	6.357	5.571	1	
 Omorodion street	Egor	Edo	6.357	5.577	1	
-Omoruyi street	Egor	Edo	6.359	5.581	1	
 D.O Omigie Close	Oredo	Edo	6.317	5.623	1	
 Omomo Lane	Oredo	Edo	6.335	5.614	1	
 Omupo - Ilala Road	Irepodun	Kwara	8.303	4.807	1	
@@ -218,7 +385,6 @@ Omudioga to Ahia FS Rd	Ikwerre	Rivers	5.178	6.876	1
 Lawrence Omole Close	Eti Osa	Lagos	6.428	3.435	1	
 Omolayo Avenue	Lagelu	Oyo	7.437	3.951	1	
 Omotanbaje Street	Lagelu	Oyo	7.438	3.959	1	
-Omowunmi Street	Alimosho	Lagos	6.675	3.256	1	
 Omoniyi Street	Kosofe	Lagos	6.615	3.374	1	
 Chief Aleru Street, Omuoko, Aluu, Port Harcourt	Ikwerre	Rivers	4.922	6.916	1	
 Omachi Street	Obio/Akpor	Rivers	4.870	7.007	1	
@@ -244,7 +410,6 @@ Omojola Street	Ìkòròdú	Lagos	6.678	3.495	1
 Iwogban-Omoregie-Ute Road	Uhunmwonde	Edo	6.414	5.687	1	
 Sola Omole Street	Eti Osa	Lagos	6.500	3.582	1	
 Noah Omoboye Street	Eti Osa	Lagos	6.468	3.636	1	
-Iwogban-Omoregie-Ute Road	Uhunmwonde	Edo	6.415	5.703	1	
 Iwogban-Omoregie-Ute Road	Uhunmwonde	Edo	6.414	5.681	1	
 Omene Street	Sapele	Delta	5.888	5.681	1	
 Omudioga to Ahia FS Rd	Ikwerre	Rivers	5.151	6.846	1	
@@ -256,14 +421,12 @@ Omadino-Ughoton Road	Okpe	Delta	5.601	5.692	1
 Abayomi Omisore Street	Ife Central	Osun	7.495	4.533	1	
 Omunakwe Street	Obio/Akpor	Rivers	4.841	7.001	1	
 Olusegun Omotoro Street	Ibeju Lekki	Lagos	6.481	3.726	1	
-Omomo Street	Oredo	Edo	6.335	5.614	1	
 Lawrence Omolayo Road	Adó-Èkìtì	Ekiti	7.603	5.218	1	
 Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.891	4.313	1	
-Omore Road	Ovia North-East	Edo	6.417	5.604	1	
 Great Omoruyi Street	Ikpoba-Okha	Edo	6.278	5.638	1	
 Sam Omowumi Street	Ido-Osi	Ekiti	7.877	5.171	1	
-OMORUYI STREET	Oredo	Edo	6.291	5.567	1	
-OMORUYI STREET	Oredo	Edo	6.288	5.563	1	ODEH STREET
+Omoruyi Street	Oredo	Edo	6.291	5.567	1	
+Omoruyi Street	Oredo	Edo	6.288	5.563	1	ODEH STREET
 Omagbemi G. Kakayor Street	Warri South	Delta	5.529	5.715	1	
 Omi- Omo Street	Ise/Orun	Ekiti	7.459	5.427	1	
 Ifaki - Ikole - Omuo Ekiti Road	Ikole	Ekiti	7.792	5.455	1	
@@ -271,15 +434,11 @@ Elele to Omoku	Ogba/Egbema/Ndoni	Rivers	5.333	6.662	1
 Omofoyewa Street	Ido	Oyo	7.433	3.830	1	
 Omowunmi Avenue	Eti Osa	Lagos	6.472	3.659	1	
 Idi-Osan - Oke-omi Rd	Egbeda	Oyo	7.448	4.024	1	
-Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.886	4.319	1	
-Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.895	4.306	1	
 Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.896	4.303	1	
 Omodeinde Road	Municipal Area Council	FCT Abuja	9.136	7.381	1	
 Dipo Omotayo Street	Eti Osa	Lagos	6.487	3.590	1	
 Aliyu Omeiza Street	Suleja	Niger	9.171	7.213	1	
 Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.415	4.612	1	
-Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.410	4.636	1	
-Godwin Omonua Street	Oshodi/Isolo	Lagos	6.520	3.322	1	
 Adekunle Omirinde Close	Eti Osa	Lagos	6.507	3.600	1	
 Adekunle Omirinde Street	Eti Osa	Lagos	6.507	3.599	1	
 Omotayo Lawal Street	Eti Osa	Lagos	6.508	3.594	1	
@@ -295,29 +454,51 @@ Mill Road (Omuadi)	Emuoha	Rivers	5.061	6.726	1
 Omotejowho Street	Uvwie	Delta	5.540	5.753	1	
 Omovie Street	Warri South	Delta	5.534	5.760	1	
 Ominira Street	Ife North	Osun	7.545	4.457	1	
-Omuoko market	Ikwerre	Rivers	4.918	6.907	0	
-Awo-Omamma Hospital	Oru East	Imo	5.670	6.926	0	
-Omolaja Sodipo School	Abeokuta South	Ogun	7.122	3.332	0	
-Omi-Adio Station	Ido	Oyo	7.409	3.748	0	
 Omoku – Ndoni	Ogba/Egbema/Ndoni	Rivers	5.414	6.689	1	
 Omoku – Ndoni	Ogba/Egbema/Ndoni	Rivers	5.387	6.671	1	
 Omoku – Ndoni	Ogba/Egbema/Ndoni	Rivers	5.455	6.697	1	
-The Federal College of Education (Technical), Omoku	Ogba/Egbema/Ndoni	Rivers	5.333	6.649	0	
 Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.414	4.614	1	
-Omolola Group of Schools	Shagamu	Ogun	6.833	3.627	0	
-Orie-Omuma Market	Oru East	Imo	5.757	6.947	0	
 Prince Oweh Omas Avenue	Oredo	Edo	6.282	5.585	1	
 Regina Omolara Street	Ikeja	Lagos	6.597	3.358	1	
 Omosebi road	Ilorin East	Kwara	8.461	4.575	1	
 Omo Idubor Street	Egor	Edo	6.375	5.589	1	
 Omuma Street	Port-Harcourt	Rivers	4.797	6.997	1	
-Omuma Street	Port-Harcourt	Rivers	4.795	6.996	1	
 Omokaro Street	Oredo	Edo	6.276	5.530	1	
 Omole Street	Ovia South-West	Edo	6.555	5.357	1	
 Omotola Street	Lagos Mainland	Lagos	6.506	3.390	1	
 Omoba Egberongbe Ojomo Street	Eti Osa	Lagos	6.479	3.629	1	
-Omoku – Ndoni	Ogba/Egbema/Ndoni	Rivers	5.455	6.697	1	
 Dada Omolara Street	Eti Osa	Lagos	6.450	3.615	1	
 Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.994	6.886	1	
-Omala	Omala	Kogi	7.778	7.566	2	
-Omumma	Omumma	Rivers	5.093	7.235	2	
+Omoba Station	Isiala-Ngwa North	Abia	5.245	7.407	0	
+Omupo Grammar School	Ifelodun	Kwara	8.282	4.783	0	
+Omupo Town Hall	Ifelodun	Kwara	8.278	4.792	0	
+Omo group of schools	Oredo	Edo	6.327	5.629	0	
+Alpha Et Omega	Ipokia	Ogun	6.637	2.736	0	
+Omolad	Oshodi/Isolo	Lagos	6.539	3.291	0	
+Omuro International Market Ugbo Ilaje	Ilaje	Ondo	6.153	4.793	0	
+Araromi Omoladun Market	Ifedore	Ondo	7.365	5.174	0	
+Omifon Market	Odigbo	Ondo	6.829	4.861	0	
+Ode Omi Market	Irele	Ondo	6.478	4.889	0	
+Omolere Group of School	Akure North	Ondo	7.261	5.221	0	
+Omoleye Busstop	Shagamu	Ogun	6.698	3.512	0	
+Methodist Primary School, Oko Omi	Ado Odo/Ota	Ogun	6.712	3.076	0	
+African Church School, Omitoro	Ifo	Ogun	6.747	3.284	0	
+Omoluwabi Model Primary School, Imepe	Ado Odo/Ota	Ogun	6.706	3.244	0	
+African Church School, Omitoro	Ifo	Ogun	6.812	3.197	0	
+Omoluwabi Model Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.811	3.913	0	
+Omega clinic	Jos North	Plateau	9.941	8.869	0	
+Omega High School	Jos North	Plateau	9.872	8.933	0	
+Omosola Hospital	Alimosho	Lagos	6.617	3.297	0	
+Ola Omoyenji Maternity Home	Mushin	Lagos	6.517	3.347	0	
+Omo Medical Health Center	Mushin	Lagos	6.539	3.364	0	
+FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
+FGVV+JQH, Omu-Aran-Oja Oba, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.494	4.544	0	
+Ero Omo Hospital, Kilanko Road, Ilorin, Nigeria	Ilorin East	Kwara	8.453	4.585	0	
+Omoda Hospital	Ilorin East	Kwara	8.504	4.535	0	
+Omuoko market	Ikwerre	Rivers	4.918	6.907	0	
+Awo-Omamma Hospital	Oru East	Imo	5.670	6.926	0	
+Omolaja Sodipo School	Abeokuta South	Ogun	7.122	3.332	0	
+Omi-Adio Station	Ido	Oyo	7.409	3.748	0	
+The Federal College of Education (Technical), Omoku	Ogba/Egbema/Ndoni	Rivers	5.333	6.649	0	
+Omolola Group of Schools	Shagamu	Ogun	6.833	3.627	0	
+Orie-Omuma Market	Oru East	Imo	5.757	6.947	0	

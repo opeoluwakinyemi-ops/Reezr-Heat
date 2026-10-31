@@ -1,3 +1,306 @@
+Trans-Ekulu Extension	Enugu East	Enugu	6.499	7.489	2	
+New Haven Layout Extension	Enugu North	Enugu	6.455	7.550	2	
+Jantar Extension	Jos North	Plateau	9.938	8.871	2	
+Apese Victoria Island Extension	Eti Osa	Lagos	6.427	3.444	2	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.956	7.255	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.961	7.245	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.953	7.264	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.285	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.009	7.418	1	Dantata Bridge
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.972	7.362	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.309	1	
+Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.025	7.476	1	Ring Road 1
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.088	7.510	1	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.050	7.527	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.052	7.521	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.034	7.504	1	
+Apapa-Oworonshoki Expressway	Ikeja	Lagos	6.558	3.357	1	
+Apapa-Oworonshoki Expressway	Apapa	Lagos	6.439	3.376	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.391	3.973	1	
+Lagos-Abeokuta Expressway	Alimosho	Lagos	6.665	3.281	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.289	1	
+Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.549	3.338	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.851	7.059	1	
+Lagos-Ibadan Expressway	Ikeja	Lagos	6.617	3.366	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.800	7.006	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.268	3.840	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.320	3.873	1	
+Ile-Ife Expressway	Irewole	Osun	7.385	4.202	1	
+Ile-Ife Expressway	Aiyedade	Osun	7.467	4.351	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.367	4.073	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.336	3.891	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.357	3.923	1	
+Lagos-Ibadan Expressway	Lagelu	Oyo	7.420	3.940	1	
+Lagos-Ibadan Expressway	Lagelu	Oyo	7.434	3.933	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.290	3.866	1	
+Lagos-Ibadan Expressway	Ona Ara	Oyo	7.391	3.937	1	
+Benin - Sagamu Expressway	Ovia North-East	Edo	6.417	5.604	1	
+Benin-Sagamu Expressway	Ovia North-East	Edo	6.460	5.593	1	
+Express Street	Oredo	Edo	6.347	5.595	1	
+Exemption Close	Oredo	Edo	6.345	5.606	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.499	3.105	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.492	3.156	1	
+Lagos-Badagry Expressway	Badagry	Lagos	6.462	2.967	1	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.043	7.539	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	8.993	7.675	1	
+Abuja-Keffi Expressway	Keffi	Nasarawa	8.867	7.791	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	8.916	7.708	1	
+Lagos-Ibadan Expressway	Kosofe	Lagos	6.594	3.383	1	
+Ago Okota Expressway	Oshodi/Isolo	Lagos	6.486	3.301	1	
+Lagos-Ojoo Expressway	Ibadan North East	Oyo	7.384	3.921	1	
+Apapa-Oworonshoki Expressway	Apapa	Lagos	6.439	3.361	1	
+Dolphin Exit Gate	Eti Osa	Lagos	6.461	3.416	1	
+Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.548	3.384	1	
+Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.559	3.367	1	
+Apapa-Oworonshoki Expressway	Ajeromi/Ifelodun	Lagos	6.447	3.320	1	
+Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.519	3.335	1	
+Apapa-Oworonshoki Expressway	Amuwo Odofin	Lagos	6.483	3.327	1	
+Apapa-Oworonshoki Expressway	Apapa	Lagos	6.435	3.346	1	
+Lagos-Abeokuta Expressway	Agege	Lagos	6.607	3.329	1	
+Lagos-Abeokuta Expressway	Alimosho	Lagos	6.635	3.302	1	
+Ile-Ife Expressway	Ife North	Osun	7.493	4.485	1	
+Lagos-Ibadan Expressway	Ifo	Ogun	6.647	3.385	1	
+Lagos-Ibadan Expressway	Ifo	Ogun	6.644	3.379	1	
+Lagos-Ibadan Expressway	Ikeja	Lagos	6.612	3.369	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.857	7.070	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.777	7.010	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.792	7.002	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.143	7.345	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.140	7.317	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.132	7.363	1	
+Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.090	7.473	1	
+Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.061	7.453	1	Nnamdi Azikiwe expressway
+NPA Expressway	Warri South	Delta	5.529	5.720	1	
+NPA-DSC Express	Uvwie	Delta	5.572	5.734	1	
+Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.013	7.435	1	Goodluck E. Jonathan Expressway
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.986	7.389	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.984	7.388	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.836	7.017	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.833	7.005	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.830	7.004	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.005	7.161	1	
+Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.474	3.738	1	
+Ibadan-Ilorin Expressway	Akinyele	Oyo	7.484	3.917	1	
+Ibadan-Ilorin Expressway	Akinyele	Oyo	7.478	3.915	1	
+Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.335	7.352	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.721	7.386	1	
+minor road from Jankwano to excellent bridge, Angwan soya Jos	Jos North	Plateau	9.932	8.877	1	
+Lagos Badagry Expressway	Apapa	Lagos	6.477	3.364	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.094	7.224	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.116	7.262	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.104	7.251	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.138	7.299	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.134	7.280	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.436	3.446	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.431	3.461	1	
+Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.549	3.379	1	
+Exemption Street	Oredo	Edo	6.344	5.606	1	
+Ibadan-Ilorin Expressway	Akinyele	Oyo	7.490	3.916	1	
+Ibadan-Ilorin Expressway	Akinyele	Oyo	7.578	3.915	1	
+Akala Expressway	Oluyole	Oyo	7.357	3.832	1	
+Okene Abuja Expressway	Adavi	Kogi	7.822	6.618	1	
+NPA Expressway	Uvwie	Delta	5.557	5.732	1	
+Enugu - Port Harcourt Expressway	Awgu	Enugu	6.050	7.492	1	
+Enugu - Port Harcourt Expressway	Isuikwuato	Abia	5.915	7.408	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.874	7.115	1	
+Ekulu West Extention	Enugu North	Enugu	6.462	7.493	1	
+Chief Alum Extension Road	Enugu North	Enugu	6.436	7.497	1	
+Abakaliki Expressway	Enugu North	Enugu	6.460	7.544	1	
+Federal Avenue Extension	Enugu East	Enugu	6.481	7.488	1	
+Nzekwe Extension	Enugu North	Enugu	6.448	7.505	1	
+Enugu Portharcourt Expressway Link	Enugu North	Enugu	6.427	7.538	1	
+UNTH Road Extension	Enugu North	Enugu	6.435	7.478	1	
+Nkpokiti Road Extension	Enugu North	Enugu	6.434	7.513	1	
+Enugu Onitsha Express Link Road	Enugu North	Enugu	6.468	7.470	1	
+Enugu Onitsha Express Link Road	Enugu East	Enugu	6.471	7.496	1	
+Ile-Ife Expressway	Isokan	Osun	7.358	4.132	1	
+Ile-Ife Expressway	Isokan	Osun	7.359	4.157	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.029	7.438	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.383	4.009	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.391	3.975	1	
+Akure-Owo Express Road	Ọ̀wọ̀	Ondo	7.157	5.632	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.372	7.495	1	
+Enugu Onitsha Express Road	Enugu East	Enugu	6.475	7.514	1	
+Enugu Onitsha Express Road	Enugu East	Enugu	6.473	7.518	1	
+Ricard Extension	Enugu North	Enugu	6.447	7.502	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	9.018	7.612	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	9.028	7.598	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	9.014	7.629	1	
+Kara road extension	Wudil	Kano	11.809	8.852	1	
+Enugu - Port Harcourt Expressway	Aba South	Abia	5.070	7.328	1	
+Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.305	1	
+Lagos-Badagry Expressway	Ajeromi/Ifelodun	Lagos	6.475	3.339	1	
+Lagos-Badagry Expressway	Apapa	Lagos	6.479	3.358	1	
+Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.883	3.578	1	
+Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.867	3.605	1	
+Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.886	3.575	1	
+Abeokuta-Sagamu Expressway	Obafemi Owode	Ogun	7.011	3.523	1	
+Benin-Sagamu Expressway	Ovia South-West	Edo	6.710	5.210	1	
+Lekki-Epe Expressway	Epe	Lagos	6.583	3.950	1	
+Lekki-Epe Expressway	Epe	Lagos	6.586	3.951	1	
+Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.530	3.893	1	
+Benin-Sagamu Expressway	Odogbolu	Ogun	6.873	3.766	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.692	3.415	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.828	3.467	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.728	3.415	1	
+Lagos-Ibadan Expressway	Ikenne	Ogun	6.974	3.664	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	7.145	3.765	1	
+Lagos-Ibadan Expressway	Ikenne	Ogun	6.916	3.629	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.824	3.460	1	
+Lagos-Ibadan Expressway	Remo North	Ogun	7.067	3.716	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.433	3.482	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.446	3.541	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.437	3.510	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.047	3.254	1	
+Lagos-Abeokuta Expressway	Abeokuta North	Ogun	7.103	3.297	1	
+Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.147	3.318	1	
+Lagos-Abeokuta Expressway	Obafemi Owode	Ogun	7.070	3.292	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.046	3.255	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.002	3.228	1	
+Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.136	3.310	1	
+Abeokuta-Sagamu Expressway	Abeokuta South	Ogun	7.136	3.346	1	
+NPA Express	Warri South	Delta	5.542	5.726	1	
+DSC Expressway	Udu	Delta	5.515	5.816	1	
+DSC Expressway	Udu	Delta	5.482	5.788	1	
+DSC Expressway	Uvwie	Delta	5.561	5.820	1	
+DSC Expressway	Uvwie	Delta	5.567	5.814	1	
+Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.306	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.924	7.236	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.875	7.117	1	
+Excellence Street	Ede North	Osun	7.719	4.492	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.889	7.146	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.896	7.165	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.470	3.581	1	
+Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.052	7.515	1	Goodluck E. Jonathan Expressway
+Isaac Boro Expressway	Yenegoa	Bayelsa	4.943	6.343	1	
+Isaac Boro Expressway	Yenegoa	Bayelsa	4.954	6.358	1	
+Isaac Boro Expressway	Yenegoa	Bayelsa	4.907	6.289	1	
+Exclusive Hotel Road	Ekiti West	Ekiti	7.710	5.044	1	
+Ujoelen Ext Rd	Esan West	Edo	6.739	6.112	1	
+Ile-Ife Expressway	Ife Central	Osun	7.489	4.541	1	
+Benin-Sagamu Expressway	Ìjẹ̀bú Òde	Ogun	6.792	3.936	1	
+Ujoelen Ext Rd	Esan West	Edo	6.734	6.105	1	
+Benin-Sagamu Expressway	Ovia North-East	Edo	6.557	5.501	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.989	7.187	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.121	7.395	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.853	3.192	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.897	3.202	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.922	3.216	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.948	3.223	1	
+Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.940	3.225	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.767	5.081	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.753	4.787	1	
+Benin-Sagamu Expressway	Ovia North-East	Edo	6.551	5.521	1	
+Benin-Sagamu Expressway	Ovia North-East	Edo	6.487	5.581	1	
+Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.428	7.538	1	
+Benin-Sagamu Expressway	Odogbolu	Ogun	6.874	3.764	1	
+Benin-Sagamu Expressway	Odogbolu	Ogun	6.825	3.820	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.461	3.555	1	
+Akure-Owo Express Road	Ovia North-East	Edo	6.609	5.775	1	
+Akure-Owo Express Road	Ovia North-East	Edo	6.761	5.768	1	
+Akure-Owo Express Road	Owan West	Edo	6.795	5.778	1	
+Akure-Owo Express Road	Ovia North-East	Edo	6.778	5.773	1	
+Akure-Owo Express Road	Ose	Ondo	6.923	5.768	1	
+Akure-Owo Express Road	Owan West	Edo	6.850	5.780	1	
+Ondo-Ore Expressway	Ondo West	Ondo	7.095	4.822	1	
+Benin-Sagamu Expressway	Okitipupa	Ondo	6.727	4.664	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.761	4.123	1	
+Road 14 Extension	Ife Central	Osun	7.533	4.538	1	
+Benin-Sagamu Expressway	Okitipupa	Ondo	6.727	4.667	1	
+Benin-Sagamu Expressway	Okitipupa	Ondo	6.721	4.713	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.735	4.751	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.719	4.458	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.506	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.744	4.290	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.758	4.226	1	
+Akure-Owo Express Road	Ifedore	Ondo	7.403	5.014	1	
+Akure-Owo Express Road	Oriade	Osun	7.407	4.982	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.870	7.368	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.382	7.498	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.729	4.616	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.546	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.537	1	
+Ugbori Express Road	Warri South	Delta	5.522	5.731	1	
+Ekurede itsekiri-Ugbori Express Junction	Warri South	Delta	5.521	5.731	1	
+DSC Expressway	Udu	Delta	5.501	5.806	1	
+Kaiama-opokuma route ext	Kolokuma/Opokuma	Bayelsa	5.036	6.251	1	
+Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.016	7.439	1	
+Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.554	3.373	1	
+Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.553	3.374	1	
+Akala Expressway	Ido	Oyo	7.362	3.824	1	
+Akala Expressway	Ido	Oyo	7.366	3.814	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.475	3.608	1	
+Lekki-Epe Expressway	Eti Osa	Lagos	6.471	3.639	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.009	7.489	1	
+Akure-Owo Express Road	Akure South	Ondo	7.284	5.182	1	
+Lagos-Abeokuta Expressway	Ifo	Ogun	6.784	3.204	1	
+Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.691	3.259	1	
+Lagos-Abeokuta Expressway	Ifo	Ogun	6.758	3.215	1	
+Ujoelen Ext Road	Esan West	Edo	6.736	6.110	1	
+Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.707	3.243	1	
+Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.698	3.254	1	
+Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.108	7.480	1	
+Lagos-Abeokuta Expressway	Alimosho	Lagos	6.612	3.305	1	
+Akala Expressway	Oluyole	Oyo	7.331	3.861	1	
+Akure-Owo Express Road	Ifedore	Ondo	7.330	5.107	1	
+Akure-Owo Express Road	Akure North	Ondo	7.281	5.214	1	
+Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.455	7.540	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.579	1	
+Akure-Owo Express Road	Akure North	Ondo	7.260	5.379	1	
+Akure-Owo Express Road	Akure North	Ondo	7.271	5.269	1	
+Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.047	7.455	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.757	5.138	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.752	5.148	1	
+Benin-Sagamu Expressway	Ovia South-West	Edo	6.652	5.296	1	
+Benin-Sagamu Expressway	Ovia South-West	Edo	6.639	5.323	1	
+Benin-Sagamu Expressway	Ovia South-West	Edo	6.615	5.369	1	
+llubirin Exit Way	Lagos Island	Lagos	6.460	3.401	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.622	7.436	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.587	7.447	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.459	3.277	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.456	3.245	1	
+Epe - Ijebu-ode Expressway	Epe	Lagos	6.604	3.985	1	
+Lagos-Abeokuta Expressway	Alimosho	Lagos	6.649	3.305	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.223	3.810	1	
+Lagos-Badagry Expressway	Surulere	Lagos	6.463	3.322	1	
+Lagos-Ibadan Expressway	Oluyole	Oyo	7.095	3.730	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.460	3.215	1	
+Lagos-Ibadan Expressway	Shagamu	Ogun	6.902	3.596	1	
+Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.737	3.419	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.117	7.469	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.124	7.375	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.047	7.515	1	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.028	7.551	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.954	7.336	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.729	4.395	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.732	4.321	1	
+Benin-Sagamu Expressway	Shagamu	Ogun	6.867	3.656	1	
+Benin-Sagamu Expressway	Shagamu	Ogun	6.858	3.631	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.479	3.179	1	
+Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.485	3.885	1	
+Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.485	3.885	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.780	5.018	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.775	5.037	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.403	3.945	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.402	3.946	1	
+Lagos-Ibadan Expressway	Remo North	Ogun	7.033	3.706	1	
+Lagos-Ibadan Expressway	Remo North	Ogun	7.051	3.713	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.117	7.436	1	
+Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.014	7.491	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.843	7.038	1	
+Lekki-Epe Expressway	Epe	Lagos	6.572	3.943	1	
+Lekki-Epe Expressway	Epe	Lagos	6.554	3.934	1	
+Ibadan-Ilorin Expressway	Ogbomosho North	Oyo	8.160	4.231	1	
+Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.719	3.223	1	
+Abeokuta-Sagamu Expressway	Obafemi Owode	Ogun	7.125	3.359	1	
+Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	8.960	7.497	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.396	7.517	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.344	7.488	1	
+Main Campus Exit Route	Ovia North-East	Edo	6.742	5.406	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.822	7.336	1	
+Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.125	7.330	1	
+Enugu - Port Harcourt Expressway	Umuahia South	Abia	5.504	7.446	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.537	7.461	1	
 Lekki-Epe Express	Epe	Lagos	6.586	3.951	0	
 Excel Montissori School	Uvwie	Delta	5.551	5.776	0	
 Glorious Excellence School	Uvwie	Delta	5.551	5.773	0	
@@ -20,484 +323,9 @@ Block E Extension.	Akure South	Ondo	7.295	5.148	0	E Extension
 Excellent Model Nur & Pry. School	Iwo	Osun	7.631	4.176	0	
 Excellent Breed School	Alimosho	Lagos	6.524	3.229	0	
 Beatom Excellent Montessori	Alimosho	Lagos	6.523	3.229	0	
-Trans-Ekulu Extension	Enugu East	Enugu	6.499	7.489	2	
 Landstar Express	Municipal Area Council	FCT Abuja	9.066	7.438	0	
 African Medical Centre of Excellence	Municipal Area Council	FCT Abuja	8.951	7.473	0	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.956	7.255	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.957	7.255	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.961	7.245	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.953	7.264	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.285	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.943	7.292	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.009	7.418	1	Dantata Bridge
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.972	7.362	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.992	7.400	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.309	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.304	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.025	7.476	1	Ring Road 1
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.088	7.510	1	
-Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.050	7.527	1	
-Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.050	7.523	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.052	7.521	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.034	7.504	1	
-Apapa-Oworonshoki Expressway	Ikeja	Lagos	6.558	3.357	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.439	3.376	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.391	3.973	1	
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.665	3.281	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.289	1	
-Apapa-Oworonshoki Expressway	Ikeja	Lagos	6.556	3.352	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.549	3.338	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.851	7.059	1	
-Lagos-Ibadan Expressway	Ikeja	Lagos	6.617	3.366	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.800	7.006	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.041	7.458	1	Ring Road 1
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.268	3.840	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.320	3.873	1	
-Ile-Ife Expressway	Irewole	Osun	7.385	4.202	1	
-Ile-Ife Expressway	Aiyedade	Osun	7.467	4.351	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.367	4.073	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.336	3.891	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.357	3.923	1	
-Lagos-Ibadan Expressway	Lagelu	Oyo	7.420	3.940	1	
-Lagos-Ibadan Expressway	Lagelu	Oyo	7.404	3.944	1	
-Lagos-Ibadan Expressway	Lagelu	Oyo	7.434	3.933	1	
-Lagos-Ibadan Expressway	Akinyele	Oyo	7.454	3.921	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.290	3.866	1	
-Lagos-Ibadan Expressway	Ona Ara	Oyo	7.391	3.937	1	
-Benin - Sagamu Expressway	Ovia North-East	Edo	6.417	5.604	1	
-Benin-Sagamu Expressway	Ovia North-East	Edo	6.460	5.593	1	
-Express Street	Oredo	Edo	6.347	5.595	1	
-Exemption Close	Oredo	Edo	6.345	5.606	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.499	3.105	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.492	3.156	1	
-Lagos-Badagry Expressway	Badagry	Lagos	6.462	2.967	1	
-Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.043	7.539	1	
-Abuja-Keffi Expressway	Karu	Nasarawa	8.993	7.675	1	
-Abuja-Keffi Expressway	Keffi	Nasarawa	8.867	7.791	1	
-Abuja-Keffi Expressway	Karu	Nasarawa	8.916	7.708	1	
-Lagos-Ibadan Expressway	Kosofe	Lagos	6.594	3.383	1	
-Ago Okota Expressway	Oshodi/Isolo	Lagos	6.486	3.301	1	
-Lagos-Ojoo Expressway	Ibadan North East	Oyo	7.384	3.921	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.439	3.361	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.031	7.466	1	Ring Road 1
-Dolphin Exit Gate	Eti Osa	Lagos	6.461	3.416	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.558	3.367	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.548	3.384	1	
-Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.559	3.367	1	
-Apapa-Oworonshoki Expressway	Ajeromi/Ifelodun	Lagos	6.447	3.320	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.550	3.335	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.544	3.338	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.519	3.335	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.508	3.324	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.521	3.335	1	
-Apapa-Oworonshoki Expressway	Amuwo Odofin	Lagos	6.483	3.327	1	
-Apapa-Oworonshoki Expressway	Amuwo Odofin	Lagos	6.460	3.315	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.438	3.337	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.435	3.349	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.435	3.346	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.548	3.386	1	
-Lagos-Abeokuta Expressway	Agege	Lagos	6.607	3.329	1	
-Lagos-Abeokuta Expressway	Agege	Lagos	6.608	3.324	1	
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.635	3.302	1	
-Lagos-Abeokuta Expressway	Ikeja	Lagos	6.605	3.330	1	
-Ile-Ife Expressway	Ife North	Osun	7.493	4.485	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.642	3.375	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.647	3.385	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.644	3.379	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.656	3.398	1	
-Lagos-Ibadan Expressway	Ikeja	Lagos	6.612	3.369	1	
-Lagos-Ibadan Expressway	Ikeja	Lagos	6.629	3.365	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.436	3.369	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.857	7.070	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.777	7.010	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.792	7.002	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.143	7.345	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.140	7.317	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.132	7.363	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.100	7.503	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.090	7.473	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.061	7.453	1	Nnamdi Azikiwe expressway
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.065	7.452	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.034	7.462	1	
-NPA Expressway	Warri South	Delta	5.529	5.720	1	
-NPA-DSC Express	Uvwie	Delta	5.572	5.734	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.013	7.435	1	Goodluck E. Jonathan Expressway
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.986	7.389	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.984	7.388	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.785	7.005	1	
-Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.836	7.017	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.833	7.005	1	
-Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.830	7.004	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.808	7.010	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.848	7.048	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.841	7.032	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.308	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.005	7.161	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.474	3.738	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.484	3.917	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.478	3.915	1	
-Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.335	7.352	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.862	7.090	1	
-Enugu - Port Harcourt Expressway	Okigwe	Imo	5.721	7.386	1	
-minor road from Jankwano to excellent bridge, Angwan soya Jos	Jos North	Plateau	9.932	8.877	1	
-Lagos Badagry Expressway	Apapa	Lagos	6.477	3.364	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.094	7.224	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.116	7.262	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.104	7.251	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.097	7.234	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.138	7.299	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.110	7.257	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.134	7.280	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.125	7.271	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.136	7.287	1	
-Ago Okota Expressway	Amuwo Odofin	Lagos	6.478	3.310	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.436	3.446	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.431	3.461	1	
-Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.549	3.379	1	
-Exemption Street	Oredo	Edo	6.344	5.606	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.490	3.916	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.578	3.915	1	
-Akala Expressway	Oluyole	Oyo	7.357	3.832	1	
-Akala Expressway	Oluyole	Oyo	7.339	3.854	1	
-Okene Abuja Expressway	Adavi	Kogi	7.822	6.618	1	
-NPA Expressway	Uvwie	Delta	5.557	5.732	1	
-Enugu - Port Harcourt Expressway	Awgu	Enugu	6.050	7.492	1	
-Enugu - Port Harcourt Expressway	Isuikwuato	Abia	5.915	7.408	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.874	7.115	1	
-Ekulu West Extention	Enugu North	Enugu	6.462	7.493	1	
-Chief Alum Extension Road	Enugu North	Enugu	6.436	7.497	1	
-Abakaliki Expressway	Enugu North	Enugu	6.460	7.544	1	
-Federal Avenue Extension	Enugu East	Enugu	6.481	7.488	1	
-Nzekwe Extension	Enugu North	Enugu	6.448	7.505	1	
-Enugu Portharcourt Expressway Link	Enugu North	Enugu	6.427	7.538	1	
-UNTH Road Extension	Enugu North	Enugu	6.435	7.478	1	
-Nkpokiti Road Extension	Enugu North	Enugu	6.434	7.513	1	
-Enugu Onitsha Express Link Road	Enugu North	Enugu	6.468	7.470	1	
-Enugu Onitsha Express Link Road	Enugu East	Enugu	6.471	7.496	1	
-Enugu Onitsha Express Link Road	Enugu East	Enugu	6.471	7.494	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.143	7.331	1	
-Ile-Ife Expressway	Isokan	Osun	7.358	4.132	1	
-Ile-Ife Expressway	Isokan	Osun	7.359	4.157	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.029	7.438	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.286	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.383	4.009	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.391	3.975	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.381	4.022	1	
-Ile-Ife Expressway	Isokan	Osun	7.355	4.151	1	
-Akure-Owo Express Road	Ọ̀wọ̀	Ondo	7.157	5.632	1	
-Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.372	7.495	1	
-Trans-Ekulu Extension	Enugu East	Enugu	6.506	7.488	2	
-Enugu Onitsha Express Road	Enugu East	Enugu	6.475	7.514	1	
-Enugu Onitsha Express Road	Enugu East	Enugu	6.476	7.514	1	
-Enugu Onitsha Express Road	Enugu East	Enugu	6.473	7.518	1	
-Enugu Onitsha Express Road	Enugu East	Enugu	6.472	7.493	1	
-Ricard Extension	Enugu North	Enugu	6.447	7.502	1	
-Abuja-Keffi Expressway	Karu	Nasarawa	8.912	7.714	1	
-Abuja-Keffi Expressway	Karu	Nasarawa	9.018	7.612	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.037	7.505	1	
-Abuja-Keffi Expressway	Karu	Nasarawa	9.028	7.598	1	
-Abuja-Keffi Expressway	Karu	Nasarawa	9.014	7.629	1	
-Kara road extension	Wudil	Kano	11.809	8.852	1	
-Abuja-Keffi Expressway	Karu	Nasarawa	8.916	7.699	1	
-New Haven Layout Extension	Enugu North	Enugu	6.455	7.550	2	
-Enugu - Port Harcourt Expressway	Aba South	Abia	5.070	7.328	1	
-Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.336	7.353	1	
-Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.305	1	
-Lagos-Badagry Expressway	Ajeromi/Ifelodun	Lagos	6.475	3.339	1	
-Lagos-Badagry Expressway	Apapa	Lagos	6.479	3.358	1	
-Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.883	3.578	1	
-Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.867	3.605	1	
-Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.886	3.575	1	
-Abeokuta-Sagamu Expressway	Obafemi Owode	Ogun	7.011	3.523	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.710	5.210	1	
-Lekki-Epe Expressway	Epe	Lagos	6.583	3.950	1	
-Lekki-Epe Expressway	Epe	Lagos	6.586	3.951	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.476	3.755	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.530	3.893	1	
-Benin-Sagamu Expressway	Odogbolu	Ogun	6.873	3.766	1	
 Centre for Excellence	Ungongo	Kano	11.970	8.428	0	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.692	3.415	1	
-Lagos-Ibadan Expressway	Ifo	Ogun	6.655	3.397	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.828	3.467	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.728	3.415	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.710	3.415	1	
-Lagos-Ibadan Expressway	Ikenne	Ogun	6.974	3.664	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	7.145	3.765	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.694	3.415	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.718	3.414	1	
-Lagos-Ibadan Expressway	Ikenne	Ogun	6.916	3.629	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.824	3.460	1	
-Lagos-Ibadan Expressway	Remo North	Ogun	7.067	3.716	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.433	3.482	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.446	3.541	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.448	3.547	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.441	3.530	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.437	3.510	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.047	3.254	1	
-Lagos-Abeokuta Expressway	Abeokuta North	Ogun	7.103	3.297	1	
-Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.147	3.318	1	
-Lagos-Abeokuta Expressway	Obafemi Owode	Ogun	7.070	3.292	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.046	3.255	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.002	3.228	1	
-Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.144	3.316	1	
-Lagos-Abeokuta Expressway	Abeokuta South	Ogun	7.136	3.310	1	
-Lagos-Abeokuta Expressway	Abeokuta North	Ogun	7.125	3.299	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.047	3.272	1	
-Lagos-Abeokuta Expressway	Obafemi Owode	Ogun	7.083	3.293	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	7.052	3.279	1	
-Lagos-Abeokuta Expressway	Abeokuta North	Ogun	7.125	3.299	1	
-Abeokuta-Sagamu Expressway	Abeokuta South	Ogun	7.136	3.346	1	
-NPA Express	Warri South	Delta	5.542	5.726	1	
-NPA Expressway	Warri South	Delta	5.538	5.724	1	
-NPA Express	Warri South	Delta	5.553	5.731	1	
-DSC Expressway	Udu	Delta	5.515	5.816	1	
-DSC Expressway	Udu	Delta	5.482	5.788	1	
-DSC Expressway	Uvwie	Delta	5.561	5.820	1	
-DSC Expressway	Uvwie	Delta	5.567	5.814	1	
-DSC Expressway	Ughelli South	Delta	5.542	5.826	1	
-Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.306	1	
-Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.924	7.236	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.875	7.117	1	
-Excellence Street	Ede North	Osun	7.719	4.492	1	
-Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.889	7.146	1	
-Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.888	7.144	1	
-Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.896	7.165	1	
-Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.898	7.179	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.035	7.448	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.470	3.581	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.052	7.515	1	Goodluck E. Jonathan Expressway
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.055	7.509	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.049	7.494	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.054	7.504	1	
-Isaac Boro Expressway	Yenegoa	Bayelsa	4.943	6.343	1	
-Isaac Boro Expressway	Yenegoa	Bayelsa	4.954	6.358	1	
-Isaac Boro Expressway	Yenegoa	Bayelsa	4.907	6.289	1	
-Isaac Boro Expressway	Yenegoa	Bayelsa	4.909	6.296	1	
-Exclusive Hotel Road	Ekiti West	Ekiti	7.710	5.044	1	
-Ujoelen Ext Rd	Esan West	Edo	6.739	6.112	1	
-Ile-Ife Expressway	Ife Central	Osun	7.489	4.541	1	
-Benin-Sagamu Expressway	Ìjẹ̀bú Òde	Ogun	6.792	3.936	1	
-Ujoelen Ext Rd	Esan West	Edo	6.734	6.105	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.035	7.449	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.018	7.427	1	
-Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.926	7.239	1	
-NPA Expressway	Warri South	Delta	5.519	5.723	1	
-NPA Expressway	Warri South	Delta	5.513	5.722	1	
-Benin-Sagamu Expressway	Ovia North-East	Edo	6.557	5.501	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.949	7.274	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.968	7.230	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.992	7.183	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.989	7.187	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.121	7.395	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.065	7.525	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.853	3.192	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.897	3.202	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.922	3.216	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.935	3.222	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.948	3.223	1	
-Lagos-Abeokuta Expressway	Ewekoro	Ogun	6.940	3.225	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.767	5.081	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.753	4.787	1	
-Benin-Sagamu Expressway	Ovia North-East	Edo	6.551	5.521	1	
-Benin-Sagamu Expressway	Ovia North-East	Edo	6.487	5.581	1	
-Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.428	7.538	1	
-Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.367	7.494	1	
-Benin-Sagamu Expressway	Odogbolu	Ogun	6.874	3.764	1	
-Benin-Sagamu Expressway	Odogbolu	Ogun	6.825	3.820	1	
-Benin-Sagamu Expressway	Odogbolu	Ogun	6.794	3.922	1	
-Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.867	3.606	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.461	3.555	1	
-Akure-Owo Express Road	Ovia North-East	Edo	6.609	5.775	1	
-Akure-Owo Express Road	Ovia North-East	Edo	6.761	5.768	1	
-Akure-Owo Express Road	Owan West	Edo	6.795	5.778	1	
-Akure-Owo Express Road	Ovia North-East	Edo	6.778	5.773	1	
-Akure-Owo Express Road	Ose	Ondo	6.923	5.768	1	
-Akure-Owo Express Road	Owan West	Edo	6.850	5.780	1	
-Lagos-Badagry Expressway	Surulere	Lagos	6.479	3.350	1	
-Ondo-Ore Expressway	Ondo West	Ondo	7.095	4.822	1	
-Benin-Sagamu Expressway	Okitipupa	Ondo	6.727	4.664	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.761	4.123	1	
-Road 14 Extension	Ife Central	Osun	7.533	4.538	1	
-Ile-Ife Expressway	Ife North	Osun	7.489	4.532	1	
-Benin-Sagamu Expressway	Okitipupa	Ondo	6.727	4.667	1	
-Benin-Sagamu Expressway	Okitipupa	Ondo	6.721	4.713	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.735	4.751	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.719	4.458	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.506	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.744	4.290	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.758	4.226	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.758	4.223	1	
-Akure-Owo Express Road	Ifedore	Ondo	7.403	5.014	1	
-Akure-Owo Express Road	Oriade	Osun	7.407	4.982	1	
-Enugu - Port Harcourt Expressway	Okigwe	Imo	5.870	7.368	1	
-Enugu - Port Harcourt Expressway	Okigwe	Imo	5.876	7.372	1	
-Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.408	7.526	1	
-Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.382	7.498	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.729	4.616	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.546	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.537	1	
-Ugbori Express Road	Warri South	Delta	5.522	5.731	1	
-Ekurede itsekiri-Ugbori Express Junction	Warri South	Delta	5.521	5.731	1	
-DSC Expressway	Udu	Delta	5.501	5.806	1	
-DSC Expressway	Udu	Delta	5.495	5.796	1	
-Kaiama-opokuma route ext	Kolokuma/Opokuma	Bayelsa	5.036	6.251	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.003	7.425	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.016	7.439	1	
-Isaac Boro Expressway	Yenegoa	Bayelsa	4.937	6.334	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.554	3.373	1	
-Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.553	3.374	1	
-Akala Expressway	Oluyole	Oyo	7.348	3.846	1	
-Akala Expressway	Oluyole	Oyo	7.350	3.842	1	
-Akala Expressway	Ido	Oyo	7.362	3.824	1	
-Akala Expressway	Ido	Oyo	7.366	3.814	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.475	3.608	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.471	3.639	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.475	3.617	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.510	3.918	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.504	3.916	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.005	7.161	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.098	7.236	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.009	7.489	1	
-Akure-Owo Express Road	Akure South	Ondo	7.284	5.182	1	
-Lagos-Abeokuta Expressway	Ifo	Ogun	6.784	3.204	1	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.691	3.259	1	
-Lagos-Abeokuta Expressway	Ifo	Ogun	6.758	3.215	1	
-Ujoelen Ext Road	Esan West	Edo	6.736	6.110	1	
-Ibadan-Ilorin Expressway	Akinyele	Oyo	7.475	3.914	1	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.707	3.243	1	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.698	3.254	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.108	7.480	1	
-Lagos-Abeokuta Expressway	Agege	Lagos	6.615	3.304	1	
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.612	3.305	1	
-Akala Expressway	Oluyole	Oyo	7.331	3.861	1	
-Akala Expressway	Oluyole	Oyo	7.332	3.865	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.065	7.525	1	
-Akure-Owo Express Road	Ifedore	Ondo	7.330	5.107	1	
-Akure-Owo Express Road	Akure North	Ondo	7.281	5.214	1	
-Akure-Owo Express Road	Akure South	Ondo	7.280	5.194	1	
-Akure-Owo Express Road	Akure North	Ondo	7.282	5.220	1	
-Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.455	7.540	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.579	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.728	4.598	1	
-Akure-Owo Express Road	Akure North	Ondo	7.260	5.379	1	
-Akure-Owo Express Road	Akure North	Ondo	7.271	5.269	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.436	3.455	1	
-Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.884	7.139	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.701	3.416	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.047	7.455	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.757	5.138	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.752	5.148	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.652	5.296	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.647	5.307	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.639	5.323	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.615	5.369	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.077	7.456	1	
-Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.029	7.584	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.965	7.235	1	
-llubirin Exit Way	Lagos Island	Lagos	6.460	3.401	1	
-Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.622	7.436	1	
-Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.587	7.447	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.459	3.277	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.298	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.457	3.260	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.456	3.245	1	
-Epe - Ijebu-ode Expressway	Epe	Lagos	6.604	3.985	1	
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.666	3.278	1	
-Lagos-Abeokuta Expressway	Alimosho	Lagos	6.649	3.305	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.223	3.810	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.240	3.819	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.227	3.812	1	
 Excellent West College	Ìkòròdú	Lagos	6.611	3.581	0	
 Excellent Medical Centre	Egor	Edo	6.372	5.635	0	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.458	3.269	1	
-Isaac Boro Expressway	Yenegoa	Bayelsa	4.952	6.354	1	
-Lagos-Badagry Expressway	Surulere	Lagos	6.478	3.343	1	
-Lagos-Badagry Expressway	Surulere	Lagos	6.463	3.322	1	
-Lagos-Badagry Expressway	Surulere	Lagos	6.469	3.330	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.231	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.458	3.235	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.095	3.730	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.460	3.215	1	
-Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.459	3.223	1	
-Lagos-Ibadan Expressway	Shagamu	Ogun	6.902	3.596	1	
-Lagos-Ibadan Expressway	Shagamu	Ogun	6.901	3.595	1	
-Lagos-Ibadan Expressway	Obafemi Owode	Ogun	6.737	3.419	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.117	7.469	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.124	7.375	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.122	7.388	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.124	7.375	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.047	7.515	1	
-Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.028	7.551	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.949	7.331	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.954	7.336	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.028	7.454	1	Goodluck E. Jonathan Expressway
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.729	4.395	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.732	4.321	1	
 Excel Christabel Nursery and Primary School	Municipal Area Council	FCT Abuja	8.993	7.428	0	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.003	7.412	1	
-Benin-Sagamu Expressway	Shagamu	Ogun	6.867	3.656	1	
-Benin-Sagamu Expressway	Shagamu	Ogun	6.858	3.631	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.461	3.203	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.479	3.179	1	
-Lagos-Badagry Expressway	Ojo	Lagos	6.469	3.191	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.434	3.491	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.485	3.885	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.485	3.885	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.436	3.502	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.439	3.524	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.431	3.467	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.435	3.445	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.780	5.018	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.775	5.037	1	
-Lagos-Ibadan Expressway	Oluyole	Oyo	7.286	3.864	1	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.706	3.245	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.403	3.945	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.402	3.946	1	
-Lagos-Ibadan Expressway	Remo North	Ogun	7.033	3.706	1	
-Lagos-Ibadan Expressway	Remo North	Ogun	7.051	3.713	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.816	7.010	1	
-Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.825	7.005	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.117	7.436	1	
-Nnamdi Azikiwe Expressway	Municipal Area Council	FCT Abuja	9.014	7.491	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.016	7.494	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.021	7.498	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.015	7.437	1	
-Goodluck Ebele Jonathan Expressway	Municipal Area Council	FCT Abuja	9.055	7.504	1	
-Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.775	7.013	1	
-Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.022	7.564	1	
-Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.021	7.566	1	
-Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.025	7.575	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.843	7.038	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.846	7.043	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.864	7.098	1	
-Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.880	7.128	1	
-Lekki-Epe Expressway	Epe	Lagos	6.572	3.943	1	
-Lekki-Epe Expressway	Ibeju Lekki	Lagos	6.490	3.891	1	
-Lekki-Epe Expressway	Epe	Lagos	6.561	3.938	1	
-Lekki-Epe Expressway	Epe	Lagos	6.554	3.934	1	
-Ibadan-Ilorin Expressway	Ogbomosho North	Oyo	8.160	4.231	1	
-Ibadan-Ilorin Expressway	Ogbomosho North	Oyo	8.161	4.236	1	
-Lagos-Abeokuta Expressway	Ado Odo/Ota	Ogun	6.719	3.223	1	
-Akala Expressway	Ido	Oyo	7.393	3.811	1	
-Akala Expressway	Ido	Oyo	7.379	3.810	1	
-Ile-Ife Expressway	Ife North	Osun	7.496	4.511	1	
-Ile-Ife Expressway	Ife North	Osun	7.496	4.521	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	8.989	7.493	1	
-Lekki-Epe Expressway	Eti Osa	Lagos	6.473	3.631	1	
-Abeokuta-Sagamu Expressway	Obafemi Owode	Ogun	7.125	3.359	1	
-Abeokuta-Sagamu Expressway	Abeokuta South	Ogun	7.126	3.357	1	
-Abeokuta-Sagamu Expressway	Abeokuta South	Ogun	7.133	3.353	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	8.960	7.497	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	9.003	7.489	1	
-Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.396	7.517	1	
-Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.388	7.502	1	
-Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.344	7.488	1	
-Main Campus Exit Route	Ovia North-East	Edo	6.742	5.406	1	
-Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.866	7.102	1	
-Enugu - Port Harcourt Expressway	Okigwe	Imo	5.822	7.336	1	
-Enugu - Port Harcourt Expressway	Aba South	Abia	5.058	7.327	1	
-Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.125	7.330	1	
-Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.126	7.330	1	
-Enugu - Port Harcourt Expressway	Umuahia South	Abia	5.504	7.446	1	
-Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.537	7.461	1	
-Murtala Mohammed Expressway	Municipal Area Council	FCT Abuja	8.973	7.496	1	

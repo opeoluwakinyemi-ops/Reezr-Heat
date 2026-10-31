@@ -1,3 +1,4 @@
+OAU International Staff School	Ife Central	Osun	7.519	4.534	1	
 Oando	Municipal Area Council	FCT Abuja	8.965	7.347	0	
 Oando	Kaduna South	Kaduna	10.476	7.421	0	
 Oando	Municipal Area Council	FCT Abuja	9.063	7.476	0	
@@ -11,7 +12,6 @@ Oando Filling Station	Oredo	Edo	6.330	5.595	0
 Oando Filling Station	Oredo	Edo	6.343	5.634	0	
 Oando Gas Station	Oredo	Edo	6.347	5.623	0	
 Oando Filling Station	Muhammadu Dikko Stadium	Katsina	12.983	7.603	0	
-Oando Filling Station	Muhammadu Dikko Stadium	Katsina	12.987	7.600	0	
 Oando	Ibadan South West	Oyo	7.382	3.870	0	
 Oando	Municipal Area Council	FCT Abuja	9.065	7.412	0	
 Oando	Akinyele	Oyo	7.521	3.918	0	
@@ -31,12 +31,10 @@ Oando Gas station	Mokwa	Niger	9.288	5.041	0
 Royal Oak Hospital	Amuwo Odofin	Lagos	6.466	3.293	0	
 OANDO Filling Station. Adewole, Ilorin	Ilorin West	Kwara	8.479	4.519	0	
 Oando Plc	Kaduna North	Kaduna	10.502	7.426	0	
-OAU International Staff School	Ife Central	Osun	7.519	4.534	1	
 Oando Fuel Station	Eti Osa	Lagos	6.443	3.421	0	
 Oando Fuel Station	Eti Osa	Lagos	6.433	3.492	0	
 Oando Fuel Station	Eti Osa	Lagos	6.446	3.546	0	
 OAU Health Centre	Ife Central	Osun	7.519	4.516	0	
-Oando Fuel Station	Eti Osa	Lagos	6.449	3.410	0	
 Oando	Ìkòròdú	Lagos	6.560	3.476	0	
 Oando	Alimosho	Lagos	6.566	3.251	0	
 Oando	Agege	Lagos	6.613	3.328	0	

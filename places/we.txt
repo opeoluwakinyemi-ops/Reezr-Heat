@@ -7,8 +7,6 @@ Barakin Werram	Riyom	Plateau	9.605	8.798	2
 Bakin Kasuwa West	Hawul	Borno	10.447	12.158	2	Digira
 Wesere	Badagry	Lagos	6.417	2.768	2	
 Weri	Suru	Kebbi	11.796	4.182	2	
-Learn Well International Group of Schools	Egor	Edo	6.364	5.582	0	
-Owan West Mass Transit	Oredo	Edo	6.344	5.627	0	
 Weke	Akpabuyo	Cross River	4.952	8.669	2	
 Zainabi West	Doguwa	Kano	10.787	8.770	2	Zainabi B
 Sabon Gari West	Fagge	Kano	12.021	8.532	2	
@@ -20,172 +18,10 @@ Weto	Agatu	Benue	7.967	7.824	2
 Magdewerne	Gwoza	Borno	11.314	13.848	2	Magde Werne
 Guzamala West	Guzamala	Borno	12.663	13.277	2	
 Gudumbali West	Guzamala	Borno	13.002	12.993	2	
-Wellspring Surgical Clinic	Uvwie	Delta	5.543	5.776	0	
-Eagle West School	Warri South	Delta	5.530	5.748	0	
-First view Schools	Udu	Delta	5.508	5.832	0	West view Schools
 Augi west	Augie	Kebbi	12.888	4.596	2	
-Women and Children Welfare Clinic	Sokoto North	Sokoto	13.069	5.248	0	
-Afro-American Wealth Oil and Gaz	Alimosho	Lagos	6.582	3.284	0	
 Dambatta West	Dambatta	Kano	12.436	8.512	2	
-Wellness Hospital	Eleme	Rivers	4.826	7.080	0	
-sokoya memorial wesley primary school, makun	Shagamu	Ogun	6.851	3.630	0	
-wesley primary school ojumele, makun	Ifo	Ogun	6.811	3.181	0	
-wesley primary school ojumele, makun	Shagamu	Ogun	6.847	3.636	0	
-wesley primary school ii, oko	Shagamu	Ogun	6.852	3.651	0	
-Wesley Primary School Ojumele, Makun	Ado Odo/Ota	Ogun	6.541	3.012	0	
-Wesley Primary School, Soyindo	Ado Odo/Ota	Ogun	6.674	3.058	0	
-Wesley Primary School Ii, Oko	Ado Odo/Ota	Ogun	6.724	3.219	0	
-Wesley Primary School, Gbara	Ado Odo/Ota	Ogun	6.523	3.140	0	
-Wesley Primary School Sotunbo	Ifo	Ogun	6.686	3.290	0	
-Wesley Primary School, Molupa Road	Ado Odo/Ota	Ogun	6.529	2.998	0	
-Sokoya Memorial Wesley Primary School. Makun	Shagamu	Ogun	6.851	3.630	0	
-Wesley Primary School I, Oko	Shagamu	Ogun	6.851	3.650	0	
-Wesley Primary School, Gbara	Shagamu	Ogun	6.842	3.642	0	
-Wesley Primary School, Molupa Road	Ìjẹ̀bú Òde	Ogun	6.823	3.914	0	
-Wesley Primary School Sotunbo	Shagamu	Ogun	6.806	3.591	0	
-Wesley Primary School, Erufu-Ogijo	Shagamu	Ogun	6.748	3.495	0	
 Kainowa West	Mobbar	Borno	13.274	12.667	2	
-Faith Maternity Clinic & Child Welfare(Mummy Mercy)	Akinyele	Oyo	7.481	3.920	0	
-Kabala West Primary Health Center	Kaduna South	Kaduna	10.504	7.394	0	
-Hospitals No13a Tafoki Road Kabala West	Kaduna South	Kaduna	10.503	7.396	0	
-The Tent Wellness Centre	Kosofe	Lagos	6.566	3.372	0	
-Crown Well Hospital Haggai Diagonistic Ltd	Alimosho	Lagos	6.595	3.228	0	
-Weeldrop Akobo	Lagelu	Oyo	7.432	3.942	0	
-Serenity and Wellbeing Health Care Services	Jos North	Plateau	9.895	8.887	0	
-Mandate Market, Western Reservoir Road, Ilorin, Nigeria	Ilorin West	Kwara	8.475	4.506	0	
 Welcome to Erin-Ijesa	Oriade	Osun	7.559	4.880	2	
-Welder Bus Stop Kubwa	Municipal Area Council	FCT Abuja	9.145	7.347	0	
-Westerfield College	Municipal Area Council	FCT Abuja	9.095	7.483	0	
-Western Avenue	Surulere	Lagos	6.488	3.364	1	
-Wempco Road	Ikeja	Lagos	6.631	3.351	1	
-Jebba Street (West)	Surulere	Lagos	6.482	3.380	1	
-East - West Road	Obio/Akpor	Rivers	4.853	7.070	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.061	6.464	1	
-Jabi Road West	Kaduna North	Kaduna	10.542	7.446	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.062	6.451	1	
-Second West Circular Road	Oredo	Edo	6.354	5.612	1	
-Ondo Street (West)	Surulere	Lagos	6.483	3.379	1	
-Oniru Road	Eti Osa	Lagos	6.448	3.432	1	Webb Road
-Western Avenue	Surulere	Lagos	6.486	3.365	1	
-Western Avenue	Mushin	Lagos	6.513	3.364	1	
-Western Avenue	Surulere	Lagos	6.498	3.362	1	
-Western Avenue	Mushin	Lagos	6.516	3.365	1	
-Olorunmbe Street	Ikeja	Lagos	6.607	3.341	1	Wemabod Estate
-Wero Street	Surulere	Lagos	6.483	3.371	1	
-East - West Road	Obio/Akpor	Rivers	4.859	7.022	1	
-East - West Road	Obio/Akpor	Rivers	4.864	7.011	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.873	6.925	1	
-East - West Road	Obio/Akpor	Rivers	4.867	6.998	1	
-East - West Road	Obio/Akpor	Rivers	4.844	7.079	1	
-Akpajo- Alesa on East West Road	Eleme	Rivers	4.817	7.095	1	
-Evang. Wesbon Inneh Close	Oredo	Edo	6.300	5.592	1	
-Western Avenue	Mushin	Lagos	6.516	3.365	1	
-Wemimo Street	Shomolu	Lagos	6.539	3.386	1	
-Ekulu West Extention	Enugu North	Enugu	6.462	7.493	1	
-West Road 7	Enugu East	Enugu	6.476	7.492	1	
-Ekulu West Street	Enugu North	Enugu	6.463	7.492	1	
-Ekulu West Close	Enugu North	Enugu	6.462	7.489	1	
-West Road 9	Enugu East	Enugu	6.477	7.491	1	
-West Road 1	Enugu East	Enugu	6.474	7.492	1	
-West Road 6	Enugu East	Enugu	6.475	7.491	1	
-West Road 8	Enugu East	Enugu	6.477	7.492	1	
-West Road 5	Enugu East	Enugu	6.475	7.492	1	
-Otukpo - Weto Road	Apa	Benue	7.523	7.898	1	
-Oturkpo - Weto Road	Apa	Benue	7.699	7.886	1	
-Otukpo - Weto Road	Apa	Benue	7.636	7.878	1	
-Oturkpo - Weto Road	Agatu	Benue	7.869	7.838	1	
-Oturkpo - Weto Road	Oturkpo	Benue	7.211	8.120	1	
-Otukpo - Weto Road	Apa	Benue	7.655	7.884	1	
-Oturkpo - Weto Road	Apa	Benue	7.761	7.877	1	
-Westron Close	Eti Osa	Lagos	6.460	3.473	1	
-Western Bypass	Bosso	Niger	9.648	6.508	1	
-Western Bypass	Chanchaga	Niger	9.603	6.531	1	
-Western Bypass	Bosso	Niger	9.645	6.510	1	
-Western Bypass	Bosso	Niger	9.580	6.556	1	
-Wetheral Road	Owerri Municipal	Imo	5.486	7.040	1	
-Wetheral Road	Owerri Municipal	Imo	5.479	7.040	1	
-Wetheral Road	Owerri Municipal	Imo	5.474	7.038	1	
-East - West Road	Emuoha	Rivers	4.896	6.899	1	
-East - West Road	Obio/Akpor	Rivers	4.870	6.974	1	
-East - West Road	Obio/Akpor	Rivers	4.893	6.916	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.874	6.955	1	
-Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.957	6.768	1	
-Oturkpo - Weto Road	Agatu	Benue	7.936	7.826	1	
-Oturkpo - Weto Road	Agatu	Benue	7.970	7.820	1	
-Webber Street	Calabar Municipal	Cross River	4.947	8.328	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.876	7.036	1	
-Wenedah Street	Obio/Akpor	Rivers	4.863	7.038	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.958	6.364	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.006	6.386	1	
-HRM. King G. A. Week Road	Yenegoa	Bayelsa	4.868	6.209	1	
-Oturkpo - Weto Road	Oturkpo	Benue	7.454	7.978	1	
-Oturkpo - Weto Road	Oturkpo	Benue	7.409	8.005	1	
-Oturkpo - Weto Road	Oturkpo	Benue	7.354	8.042	1	
-Wellington Bassey Way (Barracks Road)	Uyo	Akwa Ibom	5.038	7.932	1	
-Wembley St	Calabar Municipal	Cross River	4.958	8.324	1	
-Western Bypass	Chanchaga	Niger	9.596	6.535	1	
-Bakare Wera Street	Ìkòròdú	Lagos	6.635	3.501	1	
-Wesley Road	Ilesha West	Osun	7.626	4.741	1	
-Second West Circular Road	Egor	Edo	6.361	5.615	1	
-Westend	Port-Harcourt	Rivers	4.795	7.024	1	
-East - West Road	Ahoada East	Rivers	5.066	6.655	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.058	6.670	1	
-Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.978	6.748	1	
-West Street	Adó-Èkìtì	Ekiti	7.660	5.233	1	
-East-West Road	Ughelli North	Delta	5.503	6.002	1	
-East-West Road, Ughelli, Ughelli North, Delta, Nigeria	Ughelli North	Delta	5.519	5.975	1	
-Oturkpo - Weto Road	Ohimini	Benue	7.270	8.059	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.875	6.923	1	
-webilor Street	Obio/Akpor	Rivers	4.866	7.036	1	
-Wenedah Street	Obio/Akpor	Rivers	4.865	7.035	1	
-Western Bypass	Chanchaga	Niger	9.591	6.538	1	
-East - West Road	Obio/Akpor	Rivers	4.863	7.039	1	
-East - West Road	Eleme	Rivers	4.830	7.089	1	
-East - West Road	Obio/Akpor	Rivers	4.845	7.077	1	
-Akpajo- Alesa on East West Road	Eleme	Rivers	4.811	7.102	1	
-East - West Road	Eleme	Rivers	4.820	7.093	1	
-Westwood Park School, Jos	Jos North	Plateau	9.868	8.888	0	
-Western Bypass	Chanchaga	Niger	9.625	6.525	1	
-Western Bypass	Chanchaga	Niger	9.610	6.529	1	
-Western Bypass	Chanchaga	Niger	9.619	6.528	1	
-Wellington Nkemadu Street	Municipal Area Council	FCT Abuja	8.999	7.461	1	
-Wegbo Street	Lagos Mainland	Lagos	6.505	3.386	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.645	1	
-East - West Road	Ahoada East	Rivers	5.061	6.598	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.514	1	
-East - West Road	Ahoada West	Rivers	5.067	6.495	1	
-East - West Road	Ahoada West	Rivers	5.067	6.495	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.064	6.526	1	
-East - West Road	Obio/Akpor	Rivers	4.870	6.976	1	
-WELFARE HOSPITAL	Egbeda	Oyo	7.392	3.965	0	
-Olawale Dawodu Road	Eti Osa	Lagos	6.449	3.431	1	Webb Road
-Excellent West College	Ìkòròdú	Lagos	6.611	3.581	0	
-Westend Clinic	Oredo	Edo	6.342	5.597	0	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.964	6.368	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.966	6.368	1	
-East - West Road	Emuoha	Rivers	4.884	6.870	1	
-Western Avenue	Surulere	Lagos	6.483	3.369	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.978	6.369	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.446	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.066	6.443	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.054	6.433	1	
-Oturkpo - Weto Road	Agatu	Benue	7.955	7.823	1	
-Oturkpo - Weto Road	Agatu	Benue	7.979	7.808	1	
-Oturkpo - Weto Road	Agatu	Benue	7.975	7.808	1	
-Oturkpo - Weto Road	Agatu	Benue	7.929	7.829	1	
-Oturkpo - Weto Road	Agatu	Benue	7.944	7.825	1	
-Oturkpo - Weto Road	Agatu	Benue	7.947	7.825	1	
-Oturkpo - Weto Road	Agatu	Benue	7.952	7.824	1	
-East - West Road	Obio/Akpor	Rivers	4.861	7.061	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.868	7.028	1	
-Childcare and Wellness Clinic	Municipal Area Council	FCT Abuja	9.074	7.443	0	
-Wempco Road	Ikeja	Lagos	6.628	3.341	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.044	6.411	1	
-East - West Road	Obio/Akpor	Rivers	4.880	6.947	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.062	6.599	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.059	6.576	1	
-Dr. Doodei A. Week Road	Yenegoa	Bayelsa	4.873	6.218	1	
-Princess Pere-ere Doodei Week Street	Yenegoa	Bayelsa	4.876	6.213	1	
 Godel West	Birnin Magaji-Kiyaw	Zamfara	12.549	6.808	2	
 Madomawa West	Birnin Magaji-Kiyaw	Zamfara	12.529	6.698	2	
 Kebbe West	Kebbe	Sokoto	12.120	4.682	2	
@@ -236,3 +72,210 @@ Futuk West	Alkaleri	Bauchi	9.897	10.849	2
 Gudumbali West	Guzamala	Borno	13.046	12.986	2	
 Ibadan South West	Ibadan South West	Oyo	7.373	3.859	2	
 Warri South-West	Warri South-West	Delta	5.604	5.323	2	
+Werumakoto	Kaiama	Kwara	9.722	4.096	2	Woramokalo|Worumokato
+Werija	Asa	Kwara	8.550	4.288	2	
+Wenge	Kwande	Benue	6.994	9.502	2	
+Wendu-Uki	Fufore	Adamawa	9.063	12.574	2	Wendu Uki
+Wende Ade	Konshisha	Benue	7.042	8.508	2	
+Wende	Ushongo	Benue	7.192	8.932	2	
+Wende	Kwande	Benue	6.876	9.560	2	
+Wende	Kwande	Benue	6.862	9.601	2	
+Wegh	Takum	Taraba	6.831	9.690	2	
+Wedigfa	Guma	Benue	7.890	8.816	2	
+Unguwar Wereng	Riyom	Plateau	9.556	8.739	2	
+Magde Werne	Gwoza	Borno	11.314	13.848	2	Magdewerne
+Keffi Werram	Riyom	Plateau	9.589	8.797	2	
+Gulu West	Lapai	Niger	8.656	6.586	2	
+Gbararo	Baruten	Kwara	8.893	3.138	2	Weketiaw|Weketiraw
+Dalwa West	Konduga	Borno	11.658	13.034	2	
+Alagogo Weru	Moro	Kwara	8.758	4.372	2	
+Adum West	Obi	Benue	6.975	8.202	2	
+Agwa-Ware	Ikwerre	Rivers	4.958	6.905	2	Agwa-Were
+Wehjkekiri	Akuku Toru	Rivers	4.619	6.538	2	Wenikekiri
+Wein	Shelleng	Adamawa	10.052	12.162	2	
+Wegba	Konshisha	Benue	7.264	8.500	2	
+Keleweigbene	Southern Ijaw	Bayelsa	4.627	5.781	2	Ke wetgbene
+Welsenkingbogbene	Southern Ijaw	Bayelsa	4.588	5.954	2	Welson Kinbogbene
+Ahoada West	Ahoada West	Rivers	5.086	6.471	2	Agbegbe Ijoba Ibile Iwoorun Ahoada|Ahoada Oeste|Ahoada Ouest|Ahoada ta Yamma|Se Ahoada|ghrb ahwada
+Anambra West	Anambra West	Anambra	6.359	6.750	2	Agbegbe Ijoba Ibile Iwoorun Anambra|Anambra Ouest|Anambra ta Yamma|Anambra-Oeste|Se Anambra|anambra ghrby
+Ethiope West	Ethiope West	Delta	5.920	5.729	2	Ethiope Ouest|Ethiope ta Yamma|Se Ethiope|merku ettiyoppiyan
+Ndokwa West	Ndokwa West	Delta	5.773	6.392	2	Ndokwa Ouest|Ndokwa ta Yamma|Se Ndokwa
+Warri South-West	Warri South-West	Delta	5.497	5.374	2	
+Oru West	Oru West	Imo	5.742	6.911	2	Agbegbe Ijoba Ibile Iwoorun Oru|Oru Oeste|Oru Ouest|Oru ta Yamma|Se Oru
+Owerri West	Owerri West	Imo	5.432	6.980	2	Agbegbe Ijoba Ibile Iwoorun Owerri|Owerri Ouest|Owerri ta Yamma|Se Owerri|owerri west|xioueri
+Yagba West	Yagba West	Kogi	8.296	5.527	2	Se Yagba|Yagba Oeste|Yagba Ouest|Yagba ta Yamma
+Lavun	Lavun	Niger	9.273	5.683	2	Agbegbe Ijoba Ibile Lavun|la wen
+Saki West	Saki West	Oyo	8.570	3.147	2	Iwooorun Saki|Saki Ouest|Saki ta Yamma|Se Saki
+Ukwa West	Ukwa West	Abia	4.954	7.239	2	Agbegbe Ijoba Ibile Iwoorun Ukwa|Se Ukwa|Ukwa Ouest|Ukwa ta Yamma|Zakhidna Ukva
+Ovia South-West	Ovia South-West	Edo	6.396	5.272	2	Ovia South West|Ovia Sud Ouest|Ovia ta Kudu maso Yamma|Se-lam Ovia
+Ilorin West	Ilorin West	Kwara	8.488	4.524	2	
+Ibadan South West	Ibadan South West	Oyo	7.351	3.866	2	
+Nkanu West	Nkanu West	Enugu	6.311	7.509	2	Agbegbe Ijoba Ibile Iwoorun Nkanu|Nkanu Oeste|Nkanu ta Yamma|Se Nkanu
+Ibadan North West	Ibadan North West	Oyo	7.393	3.880	2	
+Ekiti West	Ekiti West	Ekiti	7.687	5.028	2	Agbegbe Ijoba Ibile Iwoorun Ekiti|Ekiti Ouest|Ekiti West Local Government Area|Ekiti ta Yamma|Se Ekiti
+Ekiti South-West	Ekiti South-West	Ekiti	7.513	5.052	2	Agbegbe Ijoba Ibile Guusu-Iwoorun Ekiti|Ekiti South West|Ekiti South West Local Government Area|Ekiti Sud Ouest|Ekiti Su
+Ondo West	Ondo West	Ondo	7.016	4.746	2	Ondo Ouest|Ondo West Local Government Area|Ondo ta Yamma|Se Ondo
+Akoko North West	Akoko North West	Ondo	7.641	5.794	2	Akoko North-West|Akoko North-West Local Government Area
+Esan West	Esan West	Edo	6.662	6.129	2	Esan Ouest|Esan West Local Government Area|Esan ta Yamma|Se Esan
+Main Gwa West	Kauru	Kaduna	9.773	8.634	2	
+Godel West	Birnin Magaji-Kiyaw	Zamfara	12.541	6.782	2	
+Madomawa West	Birnin Magaji-Kiyaw	Zamfara	12.527	6.710	2	
+Tudun Wada West	Kaduna South	Kaduna	10.496	7.389	2	
+Ninzo West	Sanga	Kaduna	9.141	8.464	2	
+Gudumbali West	Guzamala	Borno	13.032	12.996	2	
+Futuk West	Alkaleri	Bauchi	9.874	10.816	2	
+Pali West	Alkaleri	Bauchi	10.038	10.417	2	
+Ningi West	Ningi	Bauchi	11.085	9.556	2	
+Lanzai west	Darazo	Bauchi	11.384	10.850	2	
+Sade West	Darazo	Bauchi	11.232	10.628	2	
+Darazo west	Darazo	Bauchi	11.008	10.359	2	
+Wende	Logo	Benue	7.757	9.302	2	
+Wende	Logo	Benue	7.560	9.399	2	
+Wende	Ukum	Benue	7.698	9.580	2	
+Wende	Katsina-Ala	Benue	7.273	9.365	2	
+Wer	Ushongo	Benue	7.094	9.034	2	
+Wende	Katsina-Ala	Benue	7.177	9.352	2	
+Wever	Katsina-Ala	Benue	7.242	9.401	2	
+Wesere	Badagry	Lagos	6.437	2.718	2	
+Bashua East and West	Shomolu	Lagos	6.531	3.375	2	
+Epetedo West	Lagos Island	Lagos	6.452	3.397	2	
+Okepopo West	Lagos Island	Lagos	6.455	3.393	2	
+Badekwoshi Weilawa	Gassol	Taraba	8.723	10.854	2	
+Weke	Ipokia	Ogun	6.462	2.827	2	
+Old Welewele	Irepo	Oyo	9.123	3.929	2	
+Weyo	Lagelu	Oyo	7.524	4.048	2	
+Western Avenue	Surulere	Lagos	6.488	3.364	1	
+Wempco Road	Ikeja	Lagos	6.631	3.351	1	
+Jebba Street (West)	Surulere	Lagos	6.482	3.380	1	
+East - West Road	Obio/Akpor	Rivers	4.853	7.070	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.061	6.464	1	
+Jabi Road West	Kaduna North	Kaduna	10.542	7.446	1	
+Second West Circular Road	Oredo	Edo	6.354	5.612	1	
+Ondo Street (West)	Surulere	Lagos	6.483	3.379	1	
+Oniru Road	Eti Osa	Lagos	6.448	3.432	1	Webb Road
+Western Avenue	Mushin	Lagos	6.513	3.364	1	
+Olorunmbe Street	Ikeja	Lagos	6.607	3.341	1	Wemabod Estate
+Wero Street	Surulere	Lagos	6.483	3.371	1	
+East - West Road	Obio/Akpor	Rivers	4.859	7.022	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.873	6.925	1	
+East - West Road	Obio/Akpor	Rivers	4.867	6.998	1	
+East - West Road	Obio/Akpor	Rivers	4.844	7.079	1	
+Akpajo- Alesa on East West Road	Eleme	Rivers	4.817	7.095	1	
+Evang. Wesbon Inneh Close	Oredo	Edo	6.300	5.592	1	
+Wemimo Street	Shomolu	Lagos	6.539	3.386	1	
+Ekulu West Extention	Enugu North	Enugu	6.462	7.493	1	
+West Road 7	Enugu East	Enugu	6.476	7.492	1	
+Ekulu West Street	Enugu North	Enugu	6.463	7.492	1	
+Ekulu West Close	Enugu North	Enugu	6.462	7.489	1	
+West Road 9	Enugu East	Enugu	6.477	7.491	1	
+West Road 1	Enugu East	Enugu	6.474	7.492	1	
+West Road 6	Enugu East	Enugu	6.475	7.491	1	
+West Road 8	Enugu East	Enugu	6.477	7.492	1	
+West Road 5	Enugu East	Enugu	6.475	7.492	1	
+Otukpo - Weto Road	Apa	Benue	7.523	7.898	1	
+Oturkpo - Weto Road	Apa	Benue	7.699	7.886	1	
+Otukpo - Weto Road	Apa	Benue	7.636	7.878	1	
+Oturkpo - Weto Road	Agatu	Benue	7.869	7.838	1	
+Oturkpo - Weto Road	Oturkpo	Benue	7.211	8.120	1	
+Oturkpo - Weto Road	Apa	Benue	7.761	7.877	1	
+Westron Close	Eti Osa	Lagos	6.460	3.473	1	
+Western Bypass	Bosso	Niger	9.648	6.508	1	
+Western Bypass	Chanchaga	Niger	9.603	6.531	1	
+Western Bypass	Bosso	Niger	9.645	6.510	1	
+Western Bypass	Bosso	Niger	9.580	6.556	1	
+Wetheral Road	Owerri Municipal	Imo	5.486	7.040	1	
+Wetheral Road	Owerri Municipal	Imo	5.474	7.038	1	
+East - West Road	Emuoha	Rivers	4.896	6.899	1	
+East - West Road	Obio/Akpor	Rivers	4.870	6.974	1	
+East - West Road	Obio/Akpor	Rivers	4.893	6.916	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.874	6.955	1	
+Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.957	6.768	1	
+Oturkpo - Weto Road	Agatu	Benue	7.936	7.826	1	
+Oturkpo - Weto Road	Agatu	Benue	7.970	7.820	1	
+Webber Street	Calabar Municipal	Cross River	4.947	8.328	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.876	7.036	1	
+Wenedah Street	Obio/Akpor	Rivers	4.863	7.038	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.958	6.364	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.006	6.386	1	
+HRM. King G. A. Week Road	Yenegoa	Bayelsa	4.868	6.209	1	
+Oturkpo - Weto Road	Oturkpo	Benue	7.454	7.978	1	
+Oturkpo - Weto Road	Oturkpo	Benue	7.409	8.005	1	
+Oturkpo - Weto Road	Oturkpo	Benue	7.354	8.042	1	
+Wellington Bassey Way (Barracks Road)	Uyo	Akwa Ibom	5.038	7.932	1	
+Wembley St	Calabar Municipal	Cross River	4.958	8.324	1	
+Bakare Wera Street	Ìkòròdú	Lagos	6.635	3.501	1	
+Wesley Road	Ilesha West	Osun	7.626	4.741	1	
+Westend	Port-Harcourt	Rivers	4.795	7.024	1	
+East - West Road	Ahoada East	Rivers	5.066	6.655	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.058	6.670	1	
+Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.978	6.748	1	
+West Street	Adó-Èkìtì	Ekiti	7.660	5.233	1	
+East-West Road	Ughelli North	Delta	5.503	6.002	1	
+East-West Road, Ughelli, Ughelli North, Delta, Nigeria	Ughelli North	Delta	5.519	5.975	1	
+Oturkpo - Weto Road	Ohimini	Benue	7.270	8.059	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.875	6.923	1	
+webilor Street	Obio/Akpor	Rivers	4.866	7.036	1	
+Wenedah Street	Obio/Akpor	Rivers	4.864	7.035	1	
+East - West Road	Obio/Akpor	Rivers	4.863	7.039	1	
+Akpajo- Alesa on East West Road	Eleme	Rivers	4.811	7.102	1	
+Western Bypass	Chanchaga	Niger	9.625	6.525	1	
+Wellington Nkemadu Street	Municipal Area Council	FCT Abuja	8.999	7.461	1	
+Wegbo Street	Lagos Mainland	Lagos	6.505	3.386	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.643	1	
+East - West Road	Ahoada East	Rivers	5.061	6.598	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.514	1	
+East - West Road	Ahoada West	Rivers	5.067	6.495	1	
+East - West Road	Ahoada West	Rivers	5.067	6.495	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.064	6.526	1	
+Olawale Dawodu Road	Eti Osa	Lagos	6.449	3.431	1	Webb Road
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.966	6.368	1	
+East - West Road	Emuoha	Rivers	4.884	6.870	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.054	6.433	1	
+Oturkpo - Weto Road	Agatu	Benue	7.979	7.808	1	
+Oturkpo - Weto Road	Agatu	Benue	7.929	7.829	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.868	7.028	1	
+Wempco Road	Ikeja	Lagos	6.628	3.341	1	
+East - West Road	Obio/Akpor	Rivers	4.880	6.947	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.062	6.599	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.059	6.576	1	
+Dr. Doodei A. Week Road	Yenegoa	Bayelsa	4.873	6.218	1	
+Princess Pere-ere Doodei Week Street	Yenegoa	Bayelsa	4.876	6.213	1	
+Learn Well International Group of Schools	Egor	Edo	6.364	5.582	0	
+Owan West Mass Transit	Oredo	Edo	6.344	5.627	0	
+Wellspring Surgical Clinic	Uvwie	Delta	5.543	5.776	0	
+Eagle West School	Warri South	Delta	5.530	5.748	0	
+First view Schools	Udu	Delta	5.508	5.832	0	West view Schools
+Women and Children Welfare Clinic	Sokoto North	Sokoto	13.069	5.248	0	
+Afro-American Wealth Oil and Gaz	Alimosho	Lagos	6.582	3.284	0	
+Wellness Hospital	Eleme	Rivers	4.826	7.080	0	
+sokoya memorial wesley primary school, makun	Shagamu	Ogun	6.851	3.630	0	
+wesley primary school ojumele, makun	Ifo	Ogun	6.811	3.181	0	
+wesley primary school ojumele, makun	Shagamu	Ogun	6.847	3.636	0	
+wesley primary school ii, oko	Shagamu	Ogun	6.852	3.651	0	
+Wesley Primary School Ojumele, Makun	Ado Odo/Ota	Ogun	6.541	3.012	0	
+Wesley Primary School, Soyindo	Ado Odo/Ota	Ogun	6.674	3.058	0	
+Wesley Primary School Ii, Oko	Ado Odo/Ota	Ogun	6.724	3.219	0	
+Wesley Primary School, Gbara	Ado Odo/Ota	Ogun	6.523	3.140	0	
+Wesley Primary School Sotunbo	Ifo	Ogun	6.686	3.290	0	
+Wesley Primary School, Molupa Road	Ado Odo/Ota	Ogun	6.529	2.998	0	
+Sokoya Memorial Wesley Primary School. Makun	Shagamu	Ogun	6.851	3.630	0	
+Wesley Primary School I, Oko	Shagamu	Ogun	6.851	3.650	0	
+Wesley Primary School, Gbara	Shagamu	Ogun	6.842	3.642	0	
+Wesley Primary School, Molupa Road	Ìjẹ̀bú Òde	Ogun	6.823	3.914	0	
+Wesley Primary School Sotunbo	Shagamu	Ogun	6.806	3.591	0	
+Wesley Primary School, Erufu-Ogijo	Shagamu	Ogun	6.748	3.495	0	
+Faith Maternity Clinic & Child Welfare(Mummy Mercy)	Akinyele	Oyo	7.481	3.920	0	
+Kabala West Primary Health Center	Kaduna South	Kaduna	10.504	7.394	0	
+Hospitals No13a Tafoki Road Kabala West	Kaduna South	Kaduna	10.503	7.396	0	
+The Tent Wellness Centre	Kosofe	Lagos	6.566	3.372	0	
+Crown Well Hospital Haggai Diagonistic Ltd	Alimosho	Lagos	6.595	3.228	0	
+Weeldrop Akobo	Lagelu	Oyo	7.432	3.942	0	
+Serenity and Wellbeing Health Care Services	Jos North	Plateau	9.895	8.887	0	
+Mandate Market, Western Reservoir Road, Ilorin, Nigeria	Ilorin West	Kwara	8.475	4.506	0	
+Welder Bus Stop Kubwa	Municipal Area Council	FCT Abuja	9.145	7.347	0	
+Westerfield College	Municipal Area Council	FCT Abuja	9.095	7.483	0	
+Westwood Park School, Jos	Jos North	Plateau	9.868	8.888	0	
+Welfare Hospital	Egbeda	Oyo	7.392	3.965	0	
+Excellent West College	Ìkòròdú	Lagos	6.611	3.581	0	
+Westend Clinic	Oredo	Edo	6.342	5.597	0	
+Childcare and Wellness Clinic	Municipal Area Council	FCT Abuja	9.074	7.443	0	

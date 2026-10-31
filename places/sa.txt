@@ -1,4 +1,45 @@
 Saki	Saki West	Oyo	8.674	3.397	3	Shaki
+Sangotedo	Eti Osa	Lagos	6.471	3.636	3	Shangotedo
+Sagamu	Shagamu	Ogun	6.848	3.644	3	
+Sagbama	Sagbama	Bayelsa	5.156	6.195	3	
+Sakaba	Sakaba	Kebbi	11.066	5.596	3	
+Sabon Gari	Bali	Taraba	7.988	10.994	3	
+Sansani	Bali	Taraba	8.116	10.984	3	
+Sangasumi	Jada	Adamawa	8.439	12.052	3	
+Sabongidda Ora	Owan West	Edo	6.905	5.934	3	Sabon Gidda
+Sapele	Sapele	Delta	5.895	5.680	3	
+Saminaka	Lere	Kaduna	10.414	8.683	3	
+Sabon Birni	Sabon Birni	Sokoto	13.561	6.325	3	
+Salka	Magama	Niger	10.313	4.973	3	
+Sabon Gari Gana	Damboa	Borno	10.809	12.456	3	Garundana
+Sassoumbouroum	Magaria	Katsina	13.117	8.489	3	
+Sabon Birni	Shanono	Kano	12.183	7.933	3	
+Salame	Gwadabawa	Sokoto	13.374	5.410	3	
+Sabon Gari	Rogo	Kano	11.399	7.812	3	Zarewa
+Rogo Sabon Gari	Rogo	Kano	11.550	7.824	3	Rogo
+Sabuwar Abuja	Kiru	Kano	11.460	8.199	3	
+Sabuwar Anguwa	Kabo	Kano	11.955	8.104	3	
+Saye	Bichi	Kano	12.280	8.398	3	
+Fanda Sabon Gari	Albasu	Kano	11.600	9.043	3	
+Sankwala	Obanliku	Cross River	6.606	9.252	3	
+Shagamu	Shagamu	Ogun	6.848	3.646	3	Sagamu
+Sarkin Pawa	Munya	Niger	10.021	7.112	3	
+Sankwala	Obanliku	Cross River	6.548	9.223	3	
+Sankera	Ukum	Benue	7.535	9.652	3	Sankara
+Sandamu	Sandamu	Katsina	12.962	8.360	3	
+Sagbama	Sagbama	Bayelsa	5.159	6.197	3	Aduezi|Ndiama|Ndiemazi|Obuare
+Safana	Safana	Katsina	12.411	7.415	3	
+Sabuwa	Sabuwa	Katsina	11.174	7.121	3	Sabua
+Sabongida-Ora	Owan West	Edo	6.902	5.931	3	Sabon Gida|Sabongidda|Sabongidda Ora
+Saminaka	Lere	Kaduna	10.412	8.687	3	
+Pantisawa	Yorro	Taraba	8.945	11.512	3	Panti Sawa|Pantishawa
+Bode Saadu	Moro	Kwara	8.939	4.782	3	Bode Sadu|Bode-Sadu
+Sabon Garin Nangere	Nangere	Yobe	11.849	11.073	3	Sabon Gari|Sabon Gari Nanger|Sabon Gari-Nangere
+Sabon Wuse	Kagarko	Kaduna	9.334	7.261	3	New Wuse|Wuse
+Saakpenwa	Tai	Rivers	4.717	7.263	3	Sakpenwa
+Sango	Ibarapa North	Oyo	7.566	3.886	2	
+Sakponba	Ikpoba-Okha	Edo	6.323	5.634	2	
+Sabo Ogbomoso	Ogbomosho North	Oyo	8.130	4.250	2	
 Guidan Samni	Sabon Birni	Sokoto	13.707	6.001	2	
 Guidan Sana	Madaoua	Sokoto	13.657	6.165	2	
 Sajé Manja	Kaita	Katsina	13.345	7.813	2	
@@ -11,8 +52,6 @@ Marikishi	Shiroro	Niger	9.550	6.650	2	Sabon Gida
 Sabon Birni	Tambuwal	Sokoto	12.464	4.769	2	
 Dadin Sarki	Mai'Adua	Katsina	13.206	8.223	2	
 Sare	Obafemi Owode	Ogun	6.987	3.341	2	Share
-Sangotedo	Eti Osa	Lagos	6.471	3.636	3	Shangotedo
-Sagamu	Shagamu	Ogun	6.848	3.644	3	
 Sabo	Abeokuta North	Ogun	7.167	3.317	2	
 Tungan Sauna	Bunza	Kebbi	12.147	4.117	2	
 Dutsin Kura Sauri	Tsafe	Zamfara	11.672	6.756	2	
@@ -35,6 +74,7 @@ Kaffin-Sanu	Karu	Nasarawa	8.716	7.830	2	Keffin Shanu
 Mulke Barikin Sayejo	Song	Adamawa	9.654	12.558	2	
 Sabongari Chambula	Madagali	Adamawa	10.867	13.519	2	
 Sabongari Futu	Askira-Uba	Borno	10.689	13.248	2	
+Panti Sawa	Yorro	Taraba	8.950	11.517	2	Panti Sawa;Pantishawa
 Sakuli	Jada	Adamawa	8.516	12.233	2	
 Sakwa Bura	Hawul	Borno	10.491	12.189	2	Sakwa
 Sabon Gari	Dandi	Kebbi	11.682	3.792	2	
@@ -51,10 +91,10 @@ Sabon Gari	Tangaza	Sokoto	13.469	5.014	2
 Sapara	Hawul	Borno	10.455	12.312	2	
 Ungwan Sale	Kalgo	Kebbi	12.354	4.170	2	
 Sakingo	Mayo-Belwa	Adamawa	8.900	12.050	2	Saking
-Sagbama	Sagbama	Bayelsa	5.156	6.195	3	
 Sanmora	Irepodun	Kwara	8.228	4.841	2	
 Sakpata	Edu	Kwara	8.945	5.030	2	
 Gidan Sarikin Fada	Shiroro	Niger	10.550	6.700	2	Gidan Sarkin Fada
+Garin Salihu	Bali	Taraba	8.467	11.117	2	
 Sabon Gari	Makoda	Kano	12.590	8.527	2	
 Sawashi	Shanga	Kebbi	10.974	4.726	2	
 Unguwar Saoni	Bungudu	Zamfara	12.301	6.588	2	
@@ -110,6 +150,7 @@ Saruwa	Goronyo	Sokoto	13.184	5.846	2	Sarua
 Salewa	Tangaza	Sokoto	13.404	5.097	2	
 Sagiri	Gada	Sokoto	13.792	5.489	2	Segera
 Sabon Birni	Kware	Sokoto	13.249	5.275	2	
+Sabon Gida Tukura	Kurmi	Taraba	7.350	10.500	2	Tukura
 Runjin Sarkin Noma	Wamako	Sokoto	13.157	5.206	2	
 Sabon Gari Goduwo	Yola North	Adamawa	9.383	12.300	2	Sabon Gari
 Sabongari Kuda	Michika	Adamawa	10.719	13.417	2	
@@ -144,13 +185,17 @@ Romo Sabon Birni	Tambuwal	Sokoto	12.212	4.601	2
 Sara;Sarah	Okrika	Rivers	4.677	7.090	2	
 Sabon Gida	Sumaila	Kano	11.256	8.845	2	
 Sabon Birni	Gwarzo	Kano	11.853	8.033	2	Ungwan Sabon Birni
+Sabuwar Yamma	Karim Lamido	Taraba	9.200	10.783	2	Yamma;Sabuwar Yamma
 Ungwan Salau	Kafur	Katsina	11.433	7.600	2	Salau
 Samiya	Alkaleri	Bauchi	9.683	10.200	2	Samia
+Gidan Sarakin Samari	Kurmi	Taraba	7.317	10.583	2	Sarakin Samari
 Barakin Sabawa	Jos North	Plateau	9.869	8.934	2	
 Baba Sango	Ibarapa North	Oyo	7.700	3.283	2	
 Unguwar Tsofon Sariki	Doguwa	Kano	10.634	8.700	2	
 Sabon Gari	Wurno	Sokoto	13.278	5.475	2	
+Mayo Sabere	Sardauna	Taraba	7.041	11.579	2	
 Sala Orile	Yewa North	Ogun	7.217	2.967	2	Sala Orile;Shala
+Sabon Gari N’Dakka	Bali	Taraba	8.433	11.483	2	Sarbon Gari N’Dakka
 Samavina	Hawul	Borno	10.635	12.015	2	Sama
 Gede Sauna	Bunza	Kebbi	12.205	3.979	2	
 Gidila Saboa	Zango	Katsina	12.899	8.646	2	
@@ -161,8 +206,8 @@ Bulama Hyendugu	Shani	Borno	10.345	12.227	2	Sangwa Bulama Hyeldugu
 Sauna	Illela	Sokoto	13.574	5.192	2	Zauna
 Sabon Naira	Babura	Jigawa	12.438	8.795	2	
 Sarma Tudu	Tangaza	Sokoto	13.687	5.120	2	
+Kufayin Sale	Donga	Taraba	7.517	10.533	2	
 Samama	Binji	Sokoto	13.159	5.028	2	
-Sakaba	Sakaba	Kebbi	11.066	5.596	3	
 Sabon Gari	Birnin Kebbi	Kebbi	12.500	4.093	2	
 Gidan Sala	Wamako	Sokoto	13.171	5.251	2	
 Ungwan Sarkin	Bungudu	Zamfara	12.180	6.847	2	
@@ -191,12 +236,10 @@ Bunga Sabua	Birnin Kebbi	Kebbi	12.518	4.166	2
 Barikin Sabon Gidan Kanat	Jos South	Plateau	9.767	8.817	2	
 Nadare Sarkin Yaki	Hong	Adamawa	10.163	13.107	2	Naddere Jire
 Wuro Sati	Mubi North	Adamawa	10.310	13.243	2	
-Sangasumi	Jada	Adamawa	8.439	12.052	3	
 Sandare Baban	Kalgo	Kebbi	12.488	4.034	2	
 Saduguma	Kala-Balge	Borno	12.194	14.494	2	
 Samunaka	Hawul	Borno	10.442	12.157	2	
 Garubula Sabo	Biu	Borno	10.778	12.019	2	Garubula
-Sabongidda Ora	Owan West	Edo	6.905	5.934	3	Sabon Gidda
 Sabon Gari Madugu	Minjibir	Kano	12.232	8.698	2	
 Tunga Sabarmawa	Bunza	Kebbi	12.121	3.980	2	
 Sankau	Roni	Jigawa	12.682	8.243	2	
@@ -206,7 +249,7 @@ Sabon Bala	Bunza	Kebbi	12.187	3.742	2
 Ungwan Salma	Arewa Dandi	Kebbi	12.479	3.912	2	
 Sabon Sofon Jaaba	Gbako	Niger	9.450	6.017	2	Jaaba
 Gidan Sarikin Wuchanja	Rafi	Niger	10.383	6.083	2	Uchinda;Wuchinza
-Sai	Takum	Benue	7.567	9.900	2	Sayi;Sai
+Sai	Takum	Taraba	7.567	9.900	2	Sayi;Sai
 Saminaka	Lapai	Niger	9.100	6.750	2	Gbolo
 Sangere Sani	Demsa	Adamawa	9.317	12.100	2	Wuro Mallam Sani;Sangare Sani
 Sanka	Agaie	Niger	9.045	6.414	2	
@@ -223,7 +266,6 @@ Guidan Mai Sauri	Bungudu	Zamfara	12.343	6.515	2
 Ungwan Sarkin Noma	Kudan	Kaduna	11.272	7.815	2	Sarkin Noma
 Sakadawa	Maru	Zamfara	11.470	6.117	2	
 Sofon Kazage	Giwa	Kaduna	11.063	6.983	2	Sabon Kazage
-Sapele	Sapele	Delta	5.895	5.680	3	
 Ungwan Sarkin Arna	Makarfi	Kaduna	11.278	8.100	2	Sarkin Arna
 Sabri	Birnin Magaji-Kiyaw	Zamfara	12.436	7.018	2	
 Satrawa	Gada	Sokoto	13.616	5.667	2	
@@ -236,7 +278,6 @@ Sangdago	Birnin Kebbi	Kebbi	12.571	4.147	2
 Unguwar Saya	Bassa	Plateau	10.115	8.883	2	Ungwan Saya
 Ungwan Sani	Birnin Kebbi	Kebbi	12.505	4.104	2	
 Dan Sakara	Fakai	Kebbi	11.423	4.978	2	
-Saminaka	Lere	Kaduna	10.414	8.683	3	
 Sarka	Arewa Dandi	Kebbi	12.897	4.258	2	
 Sangelu	Suru	Kebbi	12.038	4.145	2	
 Tunga Sabarmawa	Birnin Kebbi	Kebbi	12.613	4.198	2	
@@ -250,7 +291,6 @@ Sangaye	Birnin Kebbi	Kebbi	12.535	4.401	2
 Gidan Sarkin Dutse	Shagari	Sokoto	12.724	5.181	2	
 Ago Sasa	Ipokia	Ogun	6.583	2.767	2	Ago Sasa;Agaw Shasha
 Sapa	Ekiti	Kwara	8.142	5.328	2	
-Sabon Birni	Sabon Birni	Sokoto	13.561	6.325	3	
 Salma Hubbare	Song	Adamawa	10.023	13.052	2	
 Sabongari	Mubi South	Adamawa	10.195	13.297	2	
 Santow	Gwoza	Borno	11.034	13.452	2	Sandau
@@ -273,7 +313,6 @@ Sambori	Ngala	Borno	12.250	14.255	2
 Salifu	Mokwa	Niger	9.267	4.833	2	Gidan Salifu;Salifu
 Sabon Gari	Kware	Sokoto	13.145	5.289	2	
 Ode Saka	Surulere	Oyo	8.250	4.433	2	Awde-Shaka;Ode-Shaka;Ode Saka
-Salka	Magama	Niger	10.313	4.973	3	
 Tudun Saigi	Maru	Zamfara	12.203	6.425	2	
 Sangu	Gwadabawa	Sokoto	13.408	5.296	2	
 Binjel Sabarumowa	Gudu	Sokoto	13.192	4.468	2	
@@ -336,6 +375,7 @@ Sabongari	Bunza	Kebbi	12.220	3.788	2
 Sakanaw	Tambuwal	Sokoto	12.502	4.983	2	
 Sata	Asa	Kwara	8.367	4.367	2	Essemi
 Gidan Sarikin Katul	Kachia	Kaduna	9.900	8.017	2	
+Sababbin Samari	Bali	Taraba	8.333	11.117	2	Samari
 Samabri	Sagbama	Bayelsa	5.304	6.433	2	
 Sabo Tondi	Yauri	Kebbi	10.883	4.750	2	
 Tundun Sakwa	Chikun	Kaduna	10.721	6.837	2	
@@ -442,7 +482,6 @@ Sardauna	Sabon Birni	Sokoto	13.406	6.376	2
 Sardu	Askira-Uba	Borno	10.605	13.227	2	
 Sabon Gari Abdulwahab	Minjibir	Kano	12.236	8.680	2	
 Kawari	Zango	Katsina	12.909	8.612	2	Kaurin Saidu
-Sabon Gari Gana	Damboa	Borno	10.809	12.456	3	Garundana
 Sabon Gari Ungua Dogo	Babura	Jigawa	12.393	8.787	2	
 Digawa Sarki	Gabasawa	Kano	12.255	8.896	2	
 Ungwan Sabanmawa	Arewa Dandi	Kebbi	12.628	3.881	2	
@@ -467,22 +506,8 @@ Sarkin Aiki	Faskari	Katsina	11.843	7.270	2	Mununu
 Sakarawa	Sabon Birni	Sokoto	13.662	5.967	2	
 Sarkin Baka	Maru	Zamfara	11.200	6.506	2	
 Sabongeri	Maru	Zamfara	11.263	6.389	2	Sabongari
-Samrada Petroleum	Chikun	Kaduna	10.444	7.420	0	
-St. Saviours Nusery School Complex	Surulere	Lagos	6.489	3.376	0	
-Salbas Oil	Jos North	Plateau	9.959	8.889	0	
 Salifawa	Shani	Borno	10.081	11.805	2	
-Sassoumbouroum	Magaria	Katsina	13.117	8.489	3	
-All Saints Ekulu Nursery & Primary School	Enugu North	Enugu	6.454	7.485	0	
-Sacred Heart Primary & Secondary School	Enugu South	Enugu	6.422	7.489	0	
-Sango	Ibadan North	Oyo	7.424	3.899	0	
 Samonda	Ibadan North	Oyo	7.431	3.908	2	
-Sagondare Health Post	Rogo	Kano	11.480	7.955	0	
-Sabon Birni Primary Health Centre	Gwarzo	Kano	11.856	8.031	0	
-Sabon Fegi Health Post	Karaye	Kano	11.806	8.064	0	
-Sabon Layin Kara Health Post	Gwarzo	Kano	11.825	7.933	0	
-Dokar Sati Health Post	Doguwa	Kano	10.729	8.619	0	
-Saye Primary Health Centre	Bichi	Kano	12.275	8.396	0	
-Malikawa Sarari Health Post	Bichi	Kano	12.380	8.148	0	
 Saurawa	Bagwai	Kano	12.191	8.130	2	
 Gurduba Sabon Gari	Ajingi	Kano	12.021	8.998	2	
 Sabaru	Ajingi	Kano	12.039	9.011	2	
@@ -490,7 +515,6 @@ Santar	Bagwai	Kano	12.078	8.054	2
 Sare Sare	Bagwai	Kano	12.123	8.048	2	
 Sabon Garin Ruwa	Dawakin Kudu	Kano	11.802	8.684	2	
 Sanyawar Rama	Dawakin Kudu	Kano	11.850	8.678	2	
-Sabon Birni	Shanono	Kano	12.183	7.933	3	
 Sabon Layi	Doguwa	Kano	10.744	8.725	2	
 Sabuwar Kaura	Doguwa	Kano	10.677	8.592	2	Sabon Kaura
 Sabuwar Kaura	Doguwa	Kano	10.812	8.575	2	
@@ -518,9 +542,6 @@ Sabuwar Kaura	Tudun Wada	Kano	11.316	8.416	2
 Unguwar Dan Sallau	Tudun Wada	Kano	11.323	8.382	2	
 Unguwar Sarkinrafi	Tudun Wada	Kano	11.323	8.396	2	
 Sayao	Jibia	Katsina	13.006	7.079	2	
-Yelwa Sarman Dispensary	Misau	Bauchi	11.477	10.671	0	
-sango pataki community health center	Ibadan North	Oyo	7.427	3.893	0	
-Sacred Heart Private School	Ibadan North West	Oyo	7.393	3.878	0	
 Saleri	Mafa	Borno	11.919	13.764	2	
 Sabon Gari	Biu	Borno	10.713	12.075	2	
 Sabonlayi	Hawul	Borno	10.585	12.053	2	Dam
@@ -621,7 +642,6 @@ Samakuju	Hawul	Borno	10.627	12.007	2
 Sangere	Hawul	Borno	10.595	12.050	2	
 Pela Sangam	Biu	Borno	10.611	12.377	2	
 Yarda Sanda	Biu	Borno	10.688	11.883	2	
-Salahu Primary Health Centre	Kwaya Kusar	Borno	10.561	11.941	0	
 Sabon Sara	Biu	Borno	10.870	11.864	2	
 Saidouri	Diffa	Borno	13.225	12.533	2	
 Sabon Garin Kidlir	Biu	Borno	10.850	12.232	2	
@@ -629,12 +649,7 @@ Kauji Sabon Gari	Damboa	Borno	11.053	12.721	2	Kauji S/Gari
 Saduri	Bama	Borno	11.441	13.783	2	
 Satellite Town	Amuwo Odofin	Lagos	6.450	3.256	2	
 Bukar Saidi	Lafia	Nasarawa	8.533	8.533	2	
-Sabo	Ile Oluji/Okeigbo	Ondo	7.169	4.725	0	
-Sango	Ado Odo/Ota	Ogun	6.707	3.243	0	
-Santana Market	Ikpoba-Okha	Edo	6.292	5.633	0	
-Sacre Heart	Kaduna North	Kaduna	10.511	7.441	0	
 Rafinduma Salo	Gada	Sokoto	13.876	5.536	2	
-Safe Transport Line	Uvwie	Delta	5.548	5.781	0	
 Sabon Tumbun	Monguno	Borno	12.751	13.972	2	
 Sauromari	Guzamala	Borno	12.778	13.328	2	
 Bolori Bulama Sarki Mele	Guzamala	Borno	12.781	13.501	2	
@@ -645,20 +660,12 @@ Mallum Saina/Fuci	Konduga	Borno	11.922	12.784	2
 Sare	Konduga	Borno	11.588	13.016	2	
 Sarari	Jere	Borno	11.741	13.308	2	
 Sabon Gari A	Konduga	Borno	11.648	13.416	2	
-Salvation Model Nursery and Primary School	Warri South	Delta	5.531	5.745	0	
-Sage Clinic	Warri South	Delta	5.531	5.750	0	
-Sacred Heart Seminary	Obio/Akpor	Rivers	4.846	7.045	0	
-Santa Maria Child Development Centre	Obio/Akpor	Rivers	4.839	7.045	0	
-Sadesh	Alimosho	Lagos	6.542	3.281	0	
-Salbas	Municipal Area Council	FCT Abuja	8.984	7.389	0	
 Sangerwa	Sabon Birni	Sokoto	13.617	6.090	2	
 Sabon Sara	Sabon Birni	Sokoto	13.558	6.060	2	
 Sabongari	Gada	Sokoto	13.829	5.481	2	
 Sabon Gari	Tangaza	Sokoto	13.667	4.921	2	
 Sanyinna	Tangaza	Sokoto	13.450	4.960	2	Saina
 Sabon Garin Alhaji	Wurno	Sokoto	13.295	5.605	2	
-Salame	Gwadabawa	Sokoto	13.374	5.410	3	
-Primary health care centre Sabon Birni	Kware	Sokoto	13.247	5.275	0	
 Sabogari Bisalam	Dange-Shuni	Sokoto	12.801	5.385	2	
 Saula	Kebbe	Sokoto	11.838	4.898	2	
 Gidan Sabara	Dange-Shuni	Sokoto	12.885	5.329	2	
@@ -668,23 +675,11 @@ Sarkin Musulmi B	Sokoto North	Sokoto	13.064	5.242	2
 Sarkin Musulmi A	Sokoto North	Sokoto	13.065	5.247	2	
 Sarkin Addar B	Sokoto South	Sokoto	13.058	5.234	2	
 Sarkin Zamfara A	Sokoto South	Sokoto	13.055	5.240	2	
-Saint Saviours High School	Alimosho	Lagos	6.538	3.260	0	
-Sara Market	Ose	Ondo	7.300	5.898	0	
-Sadibo Market	Ọ̀wọ̀	Ondo	7.202	5.572	0	
-Sabome Market	Ese Odo	Ondo	6.442	4.892	0	
 Sampoura	Borgu	Niger	10.411	3.674	2	
 Sassigbè	Borgu	Niger	10.835	3.747	2	
-Sasa Community School	Akinyele	Oyo	7.486	3.913	0	
 Sasa Market	Akinyele	Oyo	7.483	3.910	2	
-Sasa Community Health Centre	Akinyele	Oyo	7.486	3.914	0	
 Salra	Kala-Balge	Borno	11.600	14.653	2	
-Sangana Jetty	Asari-Toru	Rivers	4.758	6.817	0	
-Salida Gas Station	Akko	Gombe	10.282	11.120	0	
-Sadiqu shehu and sons filling station	Yamaltu/Deba	Gombe	10.278	11.267	0	
-Primary Health Care Romon Sarki	Tambuwal	Sokoto	12.229	4.602	0	
-Sabon Gari	Rogo	Kano	11.399	7.812	3	Zarewa
 Sabon Layin Baja	Rogo	Kano	11.519	7.682	2	
-Rogo Sabon Gari	Rogo	Kano	11.550	7.824	3	Rogo
 Unguwar Salihu	Rogo	Kano	11.466	7.743	2	
 Sabon Gari Bari	Rogo	Kano	11.570	7.755	2	Bari
 Ruma Sabon Gari	Rogo	Kano	11.557	7.822	2	
@@ -698,8 +693,6 @@ Badafi	Kiru	Kano	11.374	8.168	2	Sabuwar Badafi
 Sabon Gari	Karaye	Kano	11.817	8.001	2	
 Safara Malamai	Kiru	Kano	11.430	8.223	2	
 Hayin Dan Sallau	Kiru	Kano	11.655	8.166	2	
-Sabuwar Abuja	Kiru	Kano	11.460	8.199	3	
-Sabuwar Anguwa	Kabo	Kano	11.955	8.104	3	
 Sabon Garin Zango B	Bebeji	Kano	11.598	8.214	2	
 Sadi Iyawa	Bichi	Kano	12.167	8.255	2	
 Sabaru Unguwar Dutsen Karya	Bichi	Kano	12.211	8.145	2	
@@ -714,7 +707,6 @@ Sarkakiya	Dawakin Tofa	Kano	12.123	8.339	2
 Santar Naberi	Dawakin Tofa	Kano	12.125	8.296	2	
 Nassarawa Sabon Gari	Dawakin Tofa	Kano	12.108	8.329	2	
 Sabon Gari	Dawakin Tofa	Kano	12.129	8.268	2	
-Sarkakiya	Dawakin Tofa	Kano	12.129	8.337	2	
 Santar Azargi	Bichi	Kano	12.203	8.290	2	
 Santar Bulo	Bichi	Kano	12.206	8.284	2	
 Sabon Gari	Madobi	Kano	11.777	8.287	2	
@@ -725,7 +717,6 @@ Sabuwar Nasarawa	Garum Mallam	Kano	11.640	8.415	2
 Sani Bere Danguguwa	Dawakin Tofa	Kano	12.047	8.393	2	Danguguwa
 Saji	Dawakin Tofa	Kano	12.116	8.405	2	
 Sajin Dawa	Dawakin Tofa	Kano	12.070	8.371	2	
-Saye	Bichi	Kano	12.280	8.398	3	
 Bum Bum Sabon Gari	Bichi	Kano	12.249	8.399	2	
 Zalli Sankura	Kunchi	Kano	12.353	8.382	2	
 San Kura Dubu	Kunchi	Kano	12.358	8.367	2	
@@ -806,7 +797,6 @@ Chukulo Sabon Gari	Gaya	Kano	11.779	8.906	2
 Sabuwar Kasuwa	Albasu	Kano	11.553	9.189	2	
 Sakwaya	Takai	Kano	11.532	9.176	2	
 Sabongari	Takai	Kano	11.542	9.227	2	
-Fanda Sabon Gari	Albasu	Kano	11.600	9.043	3	
 Sani Arewa	Garko	Kano	11.531	9.022	2	Kogin Sani
 Sarmurku	Albasu	Kano	11.690	8.964	2	
 Sabuwar Kaura	Sumaila	Kano	11.360	8.880	2	
@@ -827,834 +817,20 @@ Sabon Gari Auduga	Tudun Wada	Kano	11.281	8.444	2
 Sabuwar Kaura	Rano	Kano	11.438	8.465	2	
 Sakkwatawa	Rano	Kano	11.417	8.484	2	
 Sabuwar Kode	Bunkure	Kano	11.643	8.521	2	
-General Hospital, Sabon Tasha	Chikun	Kaduna	10.451	7.468	0	
 Saghara	Warri South-West	Delta	5.618	5.213	2	
-General Hospital Sabon Birni	Sabon Birni	Sokoto	13.561	6.316	0	
-Nasara Clinic Sabon Birni	Sabon Birni	Sokoto	13.560	6.319	0	
-savannah health facility	Larmurde	Adamawa	9.589	11.915	0	
-sukur sama heath post	Madagali	Adamawa	10.742	13.584	0	
-Safatawa Health Post	Fufore	Adamawa	9.029	12.394	0	
-Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
-Sagbama Motor Park	Sagbama	Bayelsa	5.159	6.198	0	
-Sabon line junction Gombe	Gombe	Gombe	10.284	11.173	0	
 Kadade Sarki	Toro	Bauchi	10.459	8.817	2	
 Unguwan Mallam Sa'adu	Toro	Bauchi	10.438	8.810	2	
 Saha Kwara	Tibiri	Kebbi	12.708	3.872	2	
-Sa'achi Nku Health Clinic	Edati	Niger	8.903	5.881	0	
-our savior anglican primary school, italowayode	Ìjẹ̀bú Òde	Ogun	6.825	3.910	0	
-Salvation Army Primary School III, Edu Agbara	Ado Odo/Ota	Ogun	6.505	3.101	0	
-oba adeniyi sonariwo school sabo	Shagamu	Ogun	6.831	3.630	0	
-ansar-udeen primary school, makun, sagamu	Shagamu	Ogun	6.851	3.634	0	
-st. saviours anglican primary school ii ijoko	Ado Odo/Ota	Ogun	6.742	3.255	0	
-Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.592	2.942	0	
-Salvation Army Primary School I, Agbara	Ado Odo/Ota	Ogun	6.584	3.192	0	
-Salvation Army Primary School,Idoye	Ado Odo/Ota	Ogun	6.527	2.927	0	
-All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.689	3.229	0	
-Local Government Primary School Iii, Sango Ota	Ado Odo/Ota	Ogun	6.682	3.230	0	
-All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.676	3.223	0	
-Salvation Army Primary School I, Edu Agbara	Ifo	Ogun	6.817	3.206	0	
-Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.559	2.929	0	
-Local Government Primary School I, Sabo	Ifo	Ogun	6.712	3.307	0	
-Local Government Primary School Iii, Sabo	Ifo	Ogun	6.753	3.102	0	
-All Saints Primary School, Araromi Ota	Ifo	Ogun	6.812	3.197	0	
-Local Government Primary School I Temidire, Sabo	Shagamu	Ogun	6.831	3.502	0	
-Local Government Primary School Ii, Sabo	Ado Odo/Ota	Ogun	6.685	3.085	0	
-Salvation Army Primary School Egudu-Baale	Ìjẹ̀bú Òde	Ogun	6.714	3.962	0	
-Our Savior /Mary Primary School, Odokwu	Ado Odo/Ota	Ogun	6.613	3.228	0	
-Salvation Army School, Coker	Ado Odo/Ota	Ogun	6.709	3.236	0	
-Local Government Primary School I, Sango Ota	Ifo	Ogun	6.768	3.225	0	
-Local Government Primary School Iv, Sango Ota	Odogbolu	Ogun	6.815	3.897	0	
-Christ Church Primary School, Sabo	Shagamu	Ogun	6.856	3.645	0	
-St.Saviour'S School, Olayemi	Ado Odo/Ota	Ogun	6.534	3.024	0	
-Salvation Army Primary School Ijaba-Ota	Ado Odo/Ota	Ogun	6.737	3.260	0	
-Ansar U Deen Primary School, Ofin Sagamu	Shagamu	Ogun	6.851	3.656	0	
-United African Mission Church, Eleja Sagamu	Shagamu	Ogun	6.842	3.642	0	
-Local Government Primary School I, Sabo	Shagamu	Ogun	6.831	3.647	0	
-Local Government Primary School Iii, Sabo	Shagamu	Ogun	6.831	3.647	0	
-Local Government Primary School Ii, Sabo	Shagamu	Ogun	6.830	3.648	0	
-Local Government Primary School I Temidire, Sabo	Shagamu	Ogun	6.825	3.644	0	
-Christ Church Primary School, Sabo	Ìjẹ̀bú Òde	Ogun	6.817	3.901	0	
-Salvation Army School, Coker	Ifo	Ogun	6.816	3.196	0	
-Moslem Primary School, Sabo-Molode	Odogbolu	Ogun	6.815	3.897	0	
-St.Saviour'S School, Olayemi	Ifo	Ogun	6.794	3.315	0	
-Our Savior /Mary Primary School, Odokwu	Ìjẹ̀bú Òde	Ogun	6.734	3.982	0	
-All Saints Primary School, Araromi Ota	Ado Odo/Ota	Ogun	6.712	3.076	0	
-St. Saviour'S Anglican Primary School Ijoko	Ado Odo/Ota	Ogun	6.712	3.231	0	
-Local Government Primary School Iii, Sango Ota	Ado Odo/Ota	Ogun	6.709	3.237	0	
-Local Government Primary School Iv, Sango Ota	Ado Odo/Ota	Ogun	6.709	3.236	0	
-Local Government Primary School Ii, Sango Ota	Ado Odo/Ota	Ogun	6.706	3.244	0	
-Salvation Army Primary School Ijaba-Ota	Ado Odo/Ota	Ogun	6.644	3.171	0	
-All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.939	0	
-Salvation Army Primary School,Idoye	Ado Odo/Ota	Ogun	6.591	3.069	0	
-Salvation Army Primary School Egudu-Baale	Ado Odo/Ota	Ogun	6.552	3.045	0	
-Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.538	3.064	0	
-Salvation Army Primary School I, Edu Agbara	Ado Odo/Ota	Ogun	6.536	3.067	0	
-All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.530	3.136	0	
-Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.529	3.134	0	
-Salvation Army Primary School I, Agbara	Ado Odo/Ota	Ogun	6.505	3.102	0	
-Salvation Army Primary School II, Agbara	Ado Odo/Ota	Ogun	6.504	3.102	0	
-IELTS, TOEFL, PTE, GRE, SAT CENTER IN ENUGU	Enugu North	Enugu	6.458	7.525	0	
-Sasa Primary Health Center	Akinyele	Oyo	7.486	3.914	0	
-Origbegi Satisfaction maternity hospital, Ayeye	Ibadan North West	Oyo	7.383	3.893	0	
-Fajimi Maternity Centre, sasa	Akinyele	Oyo	7.476	3.921	0	
-Sagbe Clinic(Oluwasogo Clinic)	Akinyele	Oyo	7.497	3.918	0	
-As-salam Medical Centre, Office bus-stop Sasa	Akinyele	Oyo	7.486	3.914	0	
-Federal School of Statistics (FSS) Clinic, Sasa	Akinyele	Oyo	7.476	3.904	0	
-Sarmbridge Academy	Municipal Area Council	FCT Abuja	8.994	7.422	0	
 Gouzonal Samke	Kala-Balge	Borno	11.545	14.635	2	
-Rural Hospital Sarkin Pawa	Munya	Niger	10.022	7.123	0	
-Sara's Hospital	Jama'Are	Bauchi	11.667	9.899	0	
-Professor seddi sabastine Maimako faculty of management sciences	Jos North	Plateau	9.966	8.879	0	
-Nasarawa Medical Center (Salako)	Jos North	Plateau	9.935	8.905	0	
-Sauki Hospital	Jos North	Plateau	9.910	8.882	0	
-Asibitin Salisu	Jos North	Plateau	9.948	8.887	0	
-Saakpenwa	Tai	Rivers	4.717	7.265	2	
-San San Market	Warri South	Delta	5.513	5.747	0	
-Safeside Clinic and Maternity	Ohaji/Egbema	Imo	5.556	6.753	0	
-Sankwala	Obanliku	Cross River	6.606	9.252	3	
-Sabon Kaura Primary School	Bauchi	Bauchi	10.293	9.786	0	
-Manga Saleh Primary School	Bauchi	Bauchi	10.310	9.836	0	
-École Primaire Guidan Elh Sambo	Tessaoua	Katsina	13.287	8.145	0	
 Guidan Elh Sambo	Tessaoua	Katsina	13.288	8.147	2	
-New Sangotedo market	Eti Osa	Lagos	6.472	3.632	0	
-Safeway hospital	Eti Osa	Lagos	6.473	3.630	0	
-Sangotedo Primary Health Care Center	Eti Osa	Lagos	6.472	3.632	0	
-All Saints' College Gombe	Gombe	Gombe	10.300	11.146	0	
 Kirfin Sama	Kirfi	Bauchi	10.409	10.421	2	
-Aman Clinic Makera Cd 35 Zango Road Sabon Gari South	Kaduna South	Kaduna	10.507	7.407	0	
-Sanasi Nursing And Maternity Home	Chikun	Kaduna	10.476	7.398	0	
-Saint Gerad Hospital Kakuri Noaa 26 Makera Road Nasarawa Kaduna	Chikun	Kaduna	10.478	7.397	0	
-Unguwar Sarki Primary Health Center	Kaduna North	Kaduna	10.551	7.448	0	
-Both Public And Private Hospitals And Clinics No21 Sani Sambo Avenue	Kaduna North	Kaduna	10.547	7.441	0	
-Primary Healthcare Kabala Layin Sarki Kabalan Doki Kaduna	Kaduna North	Kaduna	10.502	7.446	0	
-Gimo Maternity Buba Sauri Road Romi	Kaduna North	Kaduna	10.532	7.424	0	
-Savannah Hospital And Maternity	Kaduna South	Kaduna	10.443	7.416	0	
-Ungwan Sanusi Primary Health Center	Kaduna South	Kaduna	10.525	7.410	0	
-Salvation Health Clinic	Chikun	Kaduna	10.480	7.633	0	
-Sauki Clinic	Chikun	Kaduna	10.478	7.634	0	
-Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
-General Hospital Sabon Tasha St Simon Catholic Church	Chikun	Kaduna	10.428	7.528	0	
-General Hospital Sabon Tasha Down The Market Road Maraban Rido	Chikun	Kaduna	10.426	7.533	0	
-General Hospital No2 Kkb Sarki Street Keke B	Chikun	Kaduna	10.559	7.494	0	
-Federal Road Safety Hospital	Chikun	Kaduna	10.369	7.397	0	
-Safiya Medical Center	Chikun	Kaduna	10.375	7.395	0	
-General Hospital Sabon Tasha Karatudu Road	Chikun	Kaduna	10.425	7.415	0	
-General Hospital Sabon Tasha Danhoni Street Ungwan Tanko	Chikun	Kaduna	10.422	7.417	0	
-Gwamna Awan General Hospital Tunga Road No60 Angwa Sauri	Chikun	Kaduna	10.415	7.425	0	
-Primary Health Care Off Sarki Street Opp Bahago School Rido	Chikun	Kaduna	10.401	7.498	0	
-General Hospital Sabon Tasha Firoro Road Uboro Sabon Tasha Kaduna	Chikun	Kaduna	10.451	7.469	0	
-Babban Saura Primary Health Center	Chikun	Kaduna	10.485	7.463	0	
-General Hospital Sabontasha Kaduna Majalisa Street Sabontasha Kaduna	Chikun	Kaduna	10.434	7.459	0	
-Sabo Crown Hospital	Ojo	Lagos	6.462	3.173	0	
-Garden Hospital Sabo Oniba Town	Ojo	Lagos	6.462	3.175	0	
-Safe Healing Nursing Home	Amuwo Odofin	Lagos	6.459	3.223	0	
-Saving Grace Hospital	Ado Odo/Ota	Ogun	6.588	3.080	0	
-Savelife Hospital Moshe	Ado Odo/Ota	Ogun	6.562	3.189	0	
-Samas Hospital	Alimosho	Lagos	6.606	3.255	0	
-Samas Hospital And Maternity	Alimosho	Lagos	6.584	3.247	0	
-Royal Salvation Hospital	Alimosho	Lagos	6.591	3.307	0	
-Samadex Clinic	Alimosho	Lagos	6.529	3.266	0	
-Santamaria Hospital Annex	Alimosho	Lagos	6.565	3.240	0	
-Santa Maria Hospital	Alimosho	Lagos	6.549	3.232	0	
-Salvation Hospital	Mushin	Lagos	6.524	3.340	0	
-Saltak Consualtant Home	Mushin	Lagos	6.528	3.351	0	
-Saint Kizito Clinic	Mushin	Lagos	6.521	3.352	0	
-Saint Claire Hospital Ltd	Mushin	Lagos	6.537	3.340	0	
-Sacred Heart Lodge	Akure South	Ondo	7.291	5.150	0	
-God Save Patient Medicine & Provision	Akure South	Ondo	7.289	5.148	0	
-Safehands Medical Centre	Amuwo Odofin	Lagos	6.458	3.300	0	
-Saint Zeno Hospital	Iwo	Osun	7.639	4.170	0	
-Divine Care Neighborhood Clinic And Maternity Satellite Town	Amuwo Odofin	Lagos	6.453	3.252	0	
-Satellite Town Primary Health Care Center	Amuwo Odofin	Lagos	6.450	3.265	0	
-Joycy Hospital Saka Adisa Street Abule Osun	Amuwo Odofin	Lagos	6.455	3.232	0	
 Holy Centre Salem	Ilaje	Ondo	6.335	4.478	2	
-SAHABA MODEL SCIENCE ACADEMY	Ungongo	Kano	12.044	8.564	0	
-ABUBAKAR SADIQ MEMORIAL INTERNATIONAL	Ungongo	Kano	12.044	8.571	0	
-SABIL INTERNATIONAL ACADEMY	Ungongo	Kano	12.044	8.565	0	
-SAHABA ONE	Ungongo	Kano	12.044	8.564	0	
-SASIF MODEL NUR & PRI SCHOOL	Ungongo	Kano	12.043	8.569	0	
-SAHABAMODEL SCIENCE ACADEMY SCHOOL	Ungongo	Kano	12.044	8.564	0	
-BARANTAR MALAM SANI	Ungongo	Kano	12.044	8.563	0	
-DAN SA'A	Nassarawa	Kano	12.037	8.568	0	
-SANI OIL	Ungongo	Kano	12.047	8.579	0	
-MAKARANTAR MAL SAMAILA	Gwale	Kano	11.957	8.470	0	
-MAKARANTAR MALAM SAMA'ILA	Gwale	Kano	11.960	8.472	0	
-MUHAMMADU SUNUSI RAYADU SALIHIN SCHOOL	Gwale	Kano	11.959	8.477	0	
-SALLDANS ROYAL ACADEMY	Gwale	Kano	11.960	8.477	0	
-SALDANS ROYAL ACADEMY	Gwale	Kano	11.961	8.478	0	
-DARUL SAHABA	Gwale	Kano	11.957	8.472	0	
-SAUBAN ACADEMY	Gwale	Kano	11.962	8.468	0	
-Babatunde Sanwo-Olu primary health care center Okerube	Alimosho	Lagos	6.529	3.239	0	
-Sabon Garin Nangere	Nangere	Yobe	11.848	11.074	2	Sabon Gari;Sabon Gari Nanger;Sabon Gari-Nangere
 Sabolayi	Fika	Yobe	11.329	11.242	2	
-Sadi Kemil	Municipal Area Council	FCT Abuja	8.987	7.393	0	
 Sagpetoru	Southern Ijaw	Bayelsa	4.515	5.725	2	
-Shining Grace College & Salama Triumph Private School	Jos North	Plateau	9.945	8.871	0	
-Salt Beach	Amuwo Odofin	Lagos	6.406	3.224	0	
-sagbokoji	Apapa	Lagos	6.433	3.377	0	
-San Pierre	Bauchi	Bauchi	10.294	9.777	0	
-Khadijat Memorial Hospital, Sango Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.511	4.588	0	
-Gaa saka Zone D, Unnamed Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.497	0	
-Sadiku Hospital, Unity Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.559	0	
-Gaa Saka Zone E, Ilorin, Nigeria	Ilorin West	Kwara	8.491	4.493	0	
-Sarkin Danko Model Primary School Nasarawa Burkullu	Bukkuyum	Zamfara	12.045	5.744	0	
 Sakoua	Dungass	Jigawa	12.837	9.281	2	
-white sand oyingbo	Lagos Mainland	Lagos	6.477	3.388	0	
-De Marvel Sabo Crown Hospital	Ojo	Lagos	6.463	3.173	0	
 Sabo Oniba	Ojo	Lagos	6.457	3.169	2	
-Santa Virgo Int'l Academy	Municipal Area Council	FCT Abuja	9.050	7.586	0	
-Golden Beauty SalÃ³n And Spa	Municipal Area Council	FCT Abuja	9.120	7.392	0	
-Sagama Orchids Estate	Municipal Area Council	FCT Abuja	9.124	7.391	0	
-Sauka Pedestrian Bridge	Municipal Area Council	FCT Abuja	8.958	7.252	0	
-Sahara Bridge	Municipal Area Council	FCT Abuja	9.064	7.477	0	
-A.M. Sambo	Ganjuwa	Bauchi	10.637	10.184	0	
-Sabahood Academy	Akamkpa	Cross River	5.056	8.621	0	
-sagbokoji back	Apapa	Lagos	6.429	3.380	0	
-Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.054	7.495	1	
-Thomas Sankara	Municipal Area Council	FCT Abuja	9.043	7.526	1	
-Samora Machel Street	Municipal Area Council	FCT Abuja	9.040	7.520	1	
-Sanni Balogun Street	Ifako/Ijaye	Lagos	6.662	3.306	1	
-Sadiku Street	Mushin	Lagos	6.523	3.340	1	
-Saka Tinubu Street	Eti Osa	Lagos	6.427	3.420	1	
-Salvation Road	Ikeja	Lagos	6.591	3.363	1	
-Santos Avenue	Ifako/Ijaye	Lagos	6.654	3.306	1	
-Yussuf Sanusi Street	Surulere	Lagos	6.497	3.359	1	
-Salawu Street	Agege	Lagos	6.631	3.312	1	
-Sabiu Ajose Cresent	Surulere	Lagos	6.490	3.358	1	
-Savage Street	Surulere	Lagos	6.483	3.381	1	
-Salako Street	Ifako/Ijaye	Lagos	6.657	3.335	1	
-Sanni Labode Street	Ifako/Ijaye	Lagos	6.651	3.309	1	
-Sani Abacha Road	Port-Harcourt	Rivers	4.819	6.985	1	
-Major Salawu Street	Ibadan North	Oyo	7.442	3.913	1	
-Sakponba Road	Ikpoba-Okha	Edo	6.287	5.671	1	
-SAINT SAVIOUR ROAD	Ikpoba-Okha	Edo	6.318	5.658	1	
-Salvation Army Road	Ibadan North West	Oyo	7.388	3.886	1	
-Benin - Sagamu Expressway	Ovia North-East	Edo	6.417	5.604	1	
-Benin-Sagamu Expressway	Ovia North-East	Edo	6.460	5.593	1	
-Sabon Birni Road	Kaduna North	Kaduna	10.582	7.453	1	
-Sarduna College Road	Kaduna North	Kaduna	10.568	7.454	1	
-Sheik Salisu Mu'Azu Road	Kaduna North	Kaduna	10.552	7.463	1	
-Sarki Crescent	Kaduna North	Kaduna	10.541	7.439	1	
-Sambo Road	Kaduna North	Kaduna	10.537	7.433	1	
-Prof. Abubakar Sambo Road	Kaduna North	Kaduna	10.512	7.452	1	
-Sani Sami Road	Kaduna North	Kaduna	10.550	7.469	1	
-Sani Sambo Avenue	Kaduna North	Kaduna	10.544	7.439	1	
-Mustapha Salihawa Road	Kaduna North	Kaduna	10.578	7.460	1	
-Zubair Sambo Aliyu Road	Kaduna North	Kaduna	10.514	7.448	1	
-Sarkin Baka Street	Chikun	Kaduna	10.493	7.494	1	
-Sarduna College Road	Kaduna North	Kaduna	10.574	7.462	1	
-Saap Crescent	Kaduna South	Kaduna	10.538	7.411	1	
-Saint Maira Goretti Road	Ikpoba-Okha	Edo	6.310	5.638	1	
-Salawe Lane	Oredo	Edo	6.308	5.619	1	
-Sadoh Drive	Oredo	Edo	6.305	5.622	1	
-Old Sapele Road	Ikpoba-Okha	Edo	6.291	5.635	1	
-Safi Street	Municipal Area Council	FCT Abuja	9.067	7.471	1	
-Sardauna Crescent	Kaduna North	Kaduna	10.504	7.426	1	
-Sambo Close	Kaduna North	Kaduna	10.533	7.435	1	
-Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.064	7.489	1	
-Saliu Obodo Street	Eti Osa	Lagos	6.436	3.510	1	
-Salawu Street	Surulere	Lagos	6.510	3.359	1	
-Saka Agbaje stret	Ibadan North	Oyo	7.424	3.913	1	
-Saka Abaje Street	Ibadan North	Oyo	7.424	3.914	1	
-Sir Samuel Manuwa Street	Eti Osa	Lagos	6.435	3.435	1	
-Samuel Adedoyin Street	Eti Osa	Lagos	6.429	3.436	1	
-Sapara Williams Close	Eti Osa	Lagos	6.434	3.422	1	
-Sanni Street	Apapa	Lagos	6.465	3.346	1	
-Sam Shonibare Street	Surulere	Lagos	6.510	3.349	1	
-Okeleye Street	Oshodi/Isolo	Lagos	6.553	3.337	1	Salami Street
-Sadiku Street	Oshodi/Isolo	Lagos	6.553	3.339	1	
-Salami Shuaibu Street	Shomolu	Lagos	6.545	3.373	1	
-Samuel Ajayi Street	Lagelu	Oyo	7.439	3.953	1	
-Salami Layout	Ibadan North East	Oyo	7.418	3.935	1	
-Abdu-Salaam Crescent	Ibadan North	Oyo	7.433	3.931	1	
-Sariu Adebisi Street	Ibadan North	Oyo	7.420	3.912	1	
-Akinlabi Sanda Close	Ibadan North	Oyo	7.414	3.900	1	
-Sanwo Close	Ibadan North West	Oyo	7.393	3.888	1	
-Salvation Army-Oke-Padi Road	Ibadan North West	Oyo	7.386	3.886	1	
-Salawu Street	Ajeromi/Ifelodun	Lagos	6.446	3.333	1	
-Sarkin Kwaru Road	Kaduna North	Kaduna	10.567	7.461	1	
-Samuel Ekuwola Street	Oshodi/Isolo	Lagos	6.500	3.312	1	
-Salami Bashorun Street	Surulere	Lagos	6.503	3.334	1	
-Savannah Street	Surulere	Lagos	6.486	3.336	1	
-Tiyamu Savage Street	Eti Osa	Lagos	6.426	3.427	1	
-Samadint Avenue	Alimosho	Lagos	6.513	3.277	1	
-Saint Gregory's College	Eti Osa	Lagos	6.446	3.412	0	
-Salamotu Street	Oshodi/Isolo	Lagos	6.519	3.332	1	
-Sagamu Road	Ìkòròdú	Lagos	6.623	3.504	1	
-Salami Ogejo	Kosofe	Lagos	6.534	3.404	1	
-Samuel Durojaiye Street	Kosofe	Lagos	6.610	3.372	1	
-Alhaji Sadiku Street	Ikeja	Lagos	6.627	3.355	1	
-Abba Sagoe Road	Kosofe	Lagos	6.630	3.365	1	
-Isiaka Saliu Street	Ikeja	Lagos	6.651	3.355	1	
-Thomas Salako Street	Ifako/Ijaye	Lagos	6.635	3.339	1	
-Saratu Street	Agege	Lagos	6.618	3.330	1	
-Salako Street	Ifako/Ijaye	Lagos	6.634	3.333	1	
-Sanusi Ajilete Street	Ifako/Ijaye	Lagos	6.645	3.325	1	
-Bucknor Savage Boulevard	Ifako/Ijaye	Lagos	6.648	3.326	1	
-Sands Avenue	Ifako/Ijaye	Lagos	6.642	3.324	1	
-Sasegbon Street	Ikeja	Lagos	6.577	3.356	1	
-Sasegbon Street	Ikeja	Lagos	6.580	3.354	1	
-Jide Sawyer Drive	Eti Osa	Lagos	6.428	3.470	1	
-Sariyu Street	Lagos Mainland	Lagos	6.501	3.385	1	
-Ibiyinka Salvador Street	Eti Osa	Lagos	6.458	3.472	1	
-Saibu Street	Amuwo Odofin	Lagos	6.457	3.304	1	
-Samuel Street	Alimosho	Lagos	6.599	3.300	1	
-Samson Adjere Taunu Street	Alimosho	Lagos	6.588	3.296	1	
-Sarumi Street	Alimosho	Lagos	6.586	3.294	1	
-Sanusi Street	Agege	Lagos	6.609	3.322	1	
-Sapele Street	Apapa	Lagos	6.440	3.378	1	
-Saka Jojo Street	Eti Osa	Lagos	6.428	3.413	1	
-Sam Adegbite Close	Eti Osa	Lagos	6.426	3.419	1	
-Orisa Sanya Street	Eti Osa	Lagos	6.428	3.453	1	
-Akinbo Savage Street	Eti Osa	Lagos	6.433	3.431	1	
-Saro Close	Eti Osa	Lagos	6.425	3.425	1	
-Sabo Road	Ibadan North West	Oyo	7.401	3.887	1	
-Sabo-Badan Road	Ibadan North	Oyo	7.401	3.893	1	
-Alhaji Kadiri Salami Street	Ajeromi/Ifelodun	Lagos	6.444	3.322	1	
-Sanya Street	Surulere	Lagos	6.486	3.331	1	
-Usman Sarki Crescent	Municipal Area Council	FCT Abuja	9.069	7.449	1	
-Sani Abacha Way	Municipal Area Council	FCT Abuja	9.072	7.464	1	
-Sambrerio Crescent	Municipal Area Council	FCT Abuja	9.091	7.497	1	
-Dar es Salam Crescent	Municipal Area Council	FCT Abuja	9.075	7.468	1	
-Dar es Salaam Street	Municipal Area Council	FCT Abuja	9.075	7.469	1	
-Cemetery Road Sabon Gari Zaria	Sabon Gari	Kaduna	11.106	7.734	1	
-Warri Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.106	7.731	1	
-Benin Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.109	7.732	1	
-Yoruba Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.109	7.731	1	
-Lagos Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.109	7.729	1	
-Club Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.111	7.731	1	
-Sani Abacha Way	Municipal Area Council	FCT Abuja	9.069	7.472	1	
-Sani Abacha Way	Municipal Area Council	FCT Abuja	9.068	7.477	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.521	6.565	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.520	6.567	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.535	6.563	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.577	6.572	1	
-Sand Lake Road	Municipal Area Council	FCT Abuja	9.096	7.497	1	
-Sangha Street	Municipal Area Council	FCT Abuja	9.092	7.488	1	
-Aminu Sale Road	Municipal Area Council	FCT Abuja	9.126	7.432	1	
-Samuel Ochefu Close	Municipal Area Council	FCT Abuja	9.005	7.479	1	
-Samuel Omu Street	Municipal Area Council	FCT Abuja	9.004	7.479	1	
-Sani Bello Close	Municipal Area Council	FCT Abuja	8.999	7.480	1	
-Samuel Ogedengbe Crescent	Municipal Area Council	FCT Abuja	9.071	7.428	1	
-Sabo Ago Avenue	Municipal Area Council	FCT Abuja	9.081	7.395	1	
-Effurun Sapele Road	Uvwie	Delta	5.560	5.786	1	
-Savalou Street	Municipal Area Council	FCT Abuja	9.068	7.471	1	
-Dar es Salaam Street	Municipal Area Council	FCT Abuja	9.076	7.471	1	
-Salt Lake Street	Municipal Area Council	FCT Abuja	9.077	7.500	1	
-Saefadu Close	Municipal Area Council	FCT Abuja	9.072	7.484	1	
-Sani Lawal Kofan Mata	Tarauni	Kano	11.969	8.556	1	
-Sabon Titi	Tarauni	Kano	11.966	8.535	1	
-Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.327	8.319	1	
-Sadiku Street	Apapa	Lagos	6.476	3.345	1	
-Sanusi Street	Apapa	Lagos	6.477	3.346	1	
-Sani Ungoggo road	Fagge	Kano	12.009	8.534	1	
-Sarkin Yaki	Fagge	Kano	12.027	8.535	1	
-Samuel Ademulegun Avenue	Municipal Area Council	FCT Abuja	9.057	7.483	1	
-Sani Abacha Way South	Municipal Area Council	FCT Abuja	9.062	7.487	1	
-Samuel Ademulegun Avenue	Municipal Area Council	FCT Abuja	9.059	7.486	1	
-Kam Salem Street	Municipal Area Council	FCT Abuja	9.036	7.484	1	
-Sani Abacha Way South	Municipal Area Council	FCT Abuja	9.051	7.494	1	
-Salami Oke Street	Surulere	Lagos	6.511	3.342	1	
-Saibu Lawal Street	Surulere	Lagos	6.511	3.344	1	
-Chief Saliu Obodo Avenue	Eti Osa	Lagos	6.487	3.589	1	
-Sariyu Street	Mushin	Lagos	6.512	3.337	1	
-Sarki Mangu Street	Jos North	Plateau	9.911	8.887	1	
-Sarkin Arab Street	Jos North	Plateau	9.928	8.888	1	
-Sakponba Lane	Ikpoba-Okha	Edo	6.323	5.634	1	
-Samuel Omotara Street	Surulere	Lagos	6.496	3.344	1	
-Santos Estate	Surulere	Lagos	6.486	3.338	1	
-Alhaji Salami Street	Surulere	Lagos	6.487	3.340	1	
-Sardauna Cresent	Nassarawa	Kano	11.993	8.576	1	
-Safana Close	Municipal Area Council	FCT Abuja	9.031	7.497	1	
-Sawyer Street	Lagos Mainland	Lagos	6.508	3.378	1	
-Sanyaolu Street	Shomolu	Lagos	6.532	3.395	1	
-Safuratu Sekoni Street	Shomolu	Lagos	6.548	3.392	1	Morenikeji Street
-Salam Abass Street	Ede North	Osun	7.767	4.535	1	
-Sam Ade Street	Egbedore	Osun	7.791	4.524	1	
-Beeluxury.ng, Sabo Oke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.489	4.575	1	
-Salawatu Olatundun Street	Ilorin East	Kwara	8.484	4.574	1	
-Samuel Olufunmilayo Street	Oshodi/Isolo	Lagos	6.512	3.325	1	
-Alhaji Tunde Salisu Street	Oshodi/Isolo	Lagos	6.537	3.310	1	
-Samson Road	Alimosho	Lagos	6.627	3.295	1	
-Sabiu Olukoya	Alimosho	Lagos	6.626	3.290	1	
-Sadiku Street	Alimosho	Lagos	6.645	3.295	1	
-Salawu Street	Agege	Lagos	6.622	3.317	1	
-Sadiku Street	Agege	Lagos	6.622	3.303	1	
-Saula Sanni Street	Ifo	Ogun	6.694	3.293	1	
-Warri Sapele Road	Warri South	Delta	5.516	5.758	1	
-Warri Sapele Road	Warri South	Delta	5.515	5.742	1	
-Salubi Street	Uvwie	Delta	5.566	5.783	1	
-Salaudeen Akano Street	Kosofe	Lagos	6.573	3.384	1	
-Sadiku Street	Kosofe	Lagos	6.573	3.395	1	
-Saji Ayangade Street	Kosofe	Lagos	6.563	3.373	1	
-Sanya Ogunbanjo Street	Kosofe	Lagos	6.568	3.383	1	
-Sabo-Badan Road	Ibadan North	Oyo	7.397	3.916	1	
-Sagamu Road	Shagamu	Ogun	6.747	3.528	1	
-Sagamu Road	Shagamu	Ogun	6.828	3.634	1	
-Effurn Sapele Road	Uvwie	Delta	5.537	5.778	1	
-Warri Sapele Road	Warri South	Delta	5.514	5.750	1	
-Warri Sapele Road	Warri South	Delta	5.523	5.767	1	
-Effurun Sapele Road	Uvwie	Delta	5.538	5.778	1	
-Effurun sapele road	Okpe	Delta	5.646	5.766	1	
-Benin-Sapele Road	Oredo	Edo	6.325	5.626	1	
-Sam Mbakwe Avenue	Owerri Municipal	Imo	5.489	7.018	1	
-Sam Mbakwe Avenue	Owerri Municipal	Imo	5.481	7.001	1	
-SA Ukeje Close	Enugu South	Enugu	6.423	7.534	1	
-Ikeh Sabito Street	Enugu North	Enugu	6.431	7.536	1	
-Sam Akudo Okafor Street	Enugu South	Enugu	6.423	7.531	1	
-Sameze	Enugu South	Enugu	6.418	7.511	1	
-Soji Salau Street	Enugu South	Enugu	6.421	7.530	1	
-Savage Crescent	Enugu North	Enugu	6.460	7.498	1	
-Saint Peter Street	Enugu East	Enugu	6.485	7.499	1	
-Sacred Heart Street	Enugu South	Enugu	6.422	7.488	1	
-Samuelson Close	Enugu South	Enugu	6.426	7.524	1	
-Salvage Crescent Link Road	Enugu North	Enugu	6.462	7.497	1	
-Saint Felix Avenue	Enugu East	Enugu	6.480	7.507	1	
-Sabastine Avenue	Enugu East	Enugu	6.491	7.513	1	
-Sam Nnubia Street	Enugu South	Enugu	6.413	7.492	1	
-Sam Eze Avenue	Enugu South	Enugu	6.419	7.514	1	
-Sam Eze Street	Enugu South	Enugu	6.418	7.514	1	
-Sani Abacha Road	Enugu North	Enugu	6.473	7.482	1	
-All Saint Street	Enugu East	Enugu	6.483	7.500	1	
-Sampson Nwatu Street	Enugu South	Enugu	6.405	7.486	1	
-Saint Gregory The Great Parish Road	Enugu South	Enugu	6.412	7.487	1	
-Sam Nnubia Close	Enugu South	Enugu	6.413	7.490	1	
-Sani Buhari (Walin Daura) Road	Gwale	Kano	11.994	8.504	1	
-Nasir Ado Bayero Road	Kano Municipal	Kano	11.986	8.526	1	Sabuwar Kofa
-Hajiya Mariya Sanusi Street	Fagge	Kano	11.997	8.541	1	
-Umar Sanusi Link	Fagge	Kano	11.998	8.540	1	
-SaLayin Salishi Street	Gwale	Kano	11.975	8.473	1	
-Sarki Mangu Street	Jos North	Plateau	9.910	8.884	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.407	6.610	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.569	6.591	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.396	6.619	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.424	6.611	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.436	6.608	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.732	6.564	1	
-Gudau - Sabon Birni Road	Bungudu	Zamfara	12.223	6.675	1	
-Rafin Mallam/Sabon Birni Road	Fagge	Kano	12.055	8.496	1	
-Salvage Crescent	Enugu North	Enugu	6.464	7.500	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.573	6.330	1	
-BAKIN KASUWA/ SANSAN ROAD	Dambatta	Kano	12.441	8.604	1	
-Adenekan Salako Street	Ifako/Ijaye	Lagos	6.631	3.339	1	
-Sanya Mudele Close	Ifako/Ijaye	Lagos	6.646	3.324	1	
-Barr.Sam Otoboeze Street	Enugu North	Enugu	6.467	7.475	1	
-Sam Okeke-Ewo Close	Enugu East	Enugu	6.505	7.514	1	
-Sani Gwarzo street	Tarauni	Kano	11.975	8.560	1	
-Sabon Gari	Rimin Gado	Kano	12.015	8.255	1	
-Sankore Avenue	Ibadan North	Oyo	7.449	3.890	1	
-Sapara Road	Ibadan North	Oyo	7.448	3.898	1	
-Saunders Road	Ibadan North	Oyo	7.450	3.888	1	
-Sani Abacha Avenue	Enugu North	Enugu	6.479	7.480	1	
-Layin gidan sanjaji	Kumbotso	Kano	11.890	8.501	1	
-Rasaki Salawu Street	Ungongo	Kano	11.969	8.437	1	
-Sam Carol Osunlola Street	Oshodi/Isolo	Lagos	6.506	3.300	1	
-Satellite Town, Nwankwo Street	Amuwo Odofin	Lagos	6.441	3.257	1	
-Johnson Sam-Iye Street	Oshodi/Isolo	Lagos	6.499	3.319	1	
-St. Saviour's Street	Oshodi/Isolo	Lagos	6.511	3.322	1	
-Sanya Street	Surulere	Lagos	6.484	3.330	1	
-Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.883	3.578	1	
-Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.867	3.605	1	
-Sagamu Road	Shagamu	Ogun	6.802	3.582	1	
-Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.886	3.575	1	
-Abeokuta-Sagamu Expressway	Obafemi Owode	Ogun	7.011	3.523	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.710	5.210	1	
-Safuratu Benson Street	Ìkòròdú	Lagos	6.628	3.490	1	
-Salami Sholebo Street	Ìkòròdú	Lagos	6.617	3.488	1	
-Benin-Sagamu Expressway	Odogbolu	Ogun	6.873	3.766	1	
-Sahad Stores	Tarauni	Kano	11.975	8.535	0	
-Dr. Sanda Mohammed Street	Gwale	Kano	11.981	8.469	1	
-Saudat Memorial School Street	Ungongo	Kano	11.971	8.440	1	
-Saleh Rimin Gado street	Tarauni	Kano	11.974	8.561	1	
-Layin Sarkin kasuwa	Tarauni	Kano	11.976	8.561	1	
-Sarbi Health Post	Minjibir	Kano	12.297	8.674	0	
-Kwarin Goshi - Sabuwar Kaura Road	Tudun Wada	Kano	11.310	8.408	1	
-Sakaratsa Health Post	Rimin Gado	Kano	11.922	8.377	0	
-Sarigarin Health Post	Kabo	Kano	11.969	8.117	0	
-Sabon fegi	Kumbotso	Kano	11.889	8.499	1	
-Sanda mai Barewa street	Fagge	Kano	12.010	8.527	1	
-Kabiru Sanda road	Tarauni	Kano	11.976	8.559	1	
-Sabbabu Street	Tarauni	Kano	11.971	8.557	1	
-Sanni Health Post	Garko	Kano	11.531	9.019	0	
-Sakwaya Health Post	Takai	Kano	11.535	9.176	0	
-Sayasaya Health Post	Albasu	Kano	11.716	8.967	0	
-Sakalawa Health Post	Ajingi	Kano	11.983	9.010	0	
-Saidawa Health Post	Dambatta	Kano	12.274	8.631	0	
-Santsi Health Post	Gabasawa	Kano	12.050	8.879	0	
-Satame Health Post	Makoda	Kano	12.290	8.530	0	
-Jigawa Satame Health Post	Makoda	Kano	12.317	8.560	0	
-Sabon Ruwa Health Post	Makoda	Kano	12.372	8.438	0	
-Sabon Gari Doka Health Post	Ungongo	Kano	12.088	8.448	0	
-Sabon Gari Rangaza Primary Health Centre	Ungongo	Kano	12.055	8.606	0	
-Sambauna Primary Health Centre	Minjibir	Kano	12.125	8.599	0	
-Sarkakiya Health Post	Dawakin Tofa	Kano	12.127	8.338	0	
-Sanakur Health Post	Bichi	Kano	12.165	8.265	0	
-Sarumoh Oladosu Close	Eti Osa	Lagos	6.452	3.474	1	
-Saheed Ola-Adelekan Close	Eti Osa	Lagos	6.437	3.479	1	
-Sabon Line Street	Gombe	Gombe	10.269	11.172	1	JAURO BAPPI STREET
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.489	6.574	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.389	6.623	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.590	6.352	1	
-Prince Samuel Adedoyin Street	Eti Osa	Lagos	6.433	3.486	1	
-Prince Salisu Elegushi Road	Eti Osa	Lagos	6.428	3.500	1	
-Hon. Saheed Bankole Street	Eti Osa	Lagos	6.430	3.513	1	
-Sateru Lane	Eti Osa	Lagos	6.428	3.549	1	
-Saka Oluwa Street	Eti Osa	Lagos	6.429	3.514	1	
-Namadi Sambo Road	Kaduna North	Kaduna	10.509	7.458	1	
-Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.338	8.337	1	
-Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.313	8.357	1	
-Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.334	8.325	1	
-Saki Close	Eti Osa	Lagos	6.443	3.513	1	
-Sabon Gari North	Zaki	Bauchi	12.402	10.283	0	
-Sabakuwa Yamma	Zaki	Bauchi	12.377	10.364	0	
-Sabakuwa Dispensary	Zaki	Bauchi	12.305	10.288	0	
-Sakwa Dispensary	Zaki	Bauchi	12.124	10.291	0	
-Tarbuwa Dispensary	Zaki	Bauchi	12.335	10.352	0	Sansan Dispensary
-Sabon Kafi Dispensary	Jama'Are	Bauchi	11.727	9.870	0	
-Samuel Afolayan road	Karu	Nasarawa	8.883	7.610	1	
-Salarma Dispensary	Toro	Bauchi	10.084	9.102	0	
-Saminakan Gwa Maternity	Toro	Bauchi	10.301	9.197	0	
-Sabon Gidan	Tafawa-Balewa	Bauchi	9.918	9.813	0	
-Sara Dispensary	Tafawa-Balewa	Bauchi	9.633	9.421	0	
-Lafiyan-sara Maternal and Child Health Clinic	Bogoro	Bauchi	9.686	9.554	0	
-Anglican Health Clinic Sara	Tafawa-Balewa	Bauchi	9.633	9.427	0	
-Sara Maternity and Clinic	Tafawa-Balewa	Bauchi	9.631	9.425	0	
-Abeokuta-Sagamu Expressway	Abeokuta South	Ogun	7.136	3.346	1	
-Mukadasi Akanbi Sasi Road	Eti Osa	Lagos	6.449	3.581	1	
-Safari Close	Eti Osa	Lagos	6.457	3.522	1	
-Sarkin Yaki Road	Zaria	Kaduna	11.088	7.726	1	
-Chief Saula Ndakolo Street	Eti Osa	Lagos	6.459	3.564	1	
-Chief Shittu Saka Musa Street	Eti Osa	Lagos	6.459	3.567	1	
-Sakaba Road	Sokoto North	Sokoto	13.064	5.215	1	
-Sangotedo Road	Eti Osa	Lagos	6.464	3.621	1	
-Saka Oluguina Strre	Eti Osa	Lagos	6.451	3.571	1	
-Abayomi Samuel Avenue	Eti Osa	Lagos	6.451	3.566	1	
-Sani Abacha Road	Port-Harcourt	Rivers	4.814	6.984	1	
-Sani Abacha Road	Port-Harcourt	Rivers	4.814	6.987	1	
-Sani Abacha Road	Port-Harcourt	Rivers	4.816	6.993	1	
-Samuel Awoniyi Street	Ikeja	Lagos	6.591	3.362	1	
-Savage Lane	Lagos Island	Lagos	6.460	3.382	1	
-bulari sabuwa	Chibok	Borno	10.851	12.724	1	
-Sanni Ogun Road	Ikot Ekpene	Akwa Ibom	5.181	7.715	1	
-Salvation Road	Eti Osa	Lagos	6.443	3.485	1	
-SAVANA ROUND ABOUT	Markurdi	Benue	7.725	8.536	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.405	6.275	1	
-Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.117	6.452	1	
-Aker - Saipem Road	Port-Harcourt	Rivers	4.777	6.966	1	
-Sanni Street	Ado Odo/Ota	Ogun	6.689	3.253	1	
-Evang. Samul Nurudeen Street	Eti Osa	Lagos	6.479	3.660	1	
-Sanusi Street	Shomolu	Lagos	6.531	3.376	1	
-Segun Salau Street	Kosofe	Lagos	6.609	3.387	1	
-Ayinde Sanni	Kosofe	Lagos	6.619	3.370	1	
-Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.052	7.496	1	
-Saubana Olorunfemi Street	Alimosho	Lagos	6.547	3.229	1	
-Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.043	7.500	1	
-Sani Abacha Way South	Municipal Area Council	FCT Abuja	9.049	7.495	1	
-Sani Abacha Way South	Municipal Area Council	FCT Abuja	9.042	7.498	1	
-Sani Abacha Way	Municipal Area Council	FCT Abuja	9.034	7.494	1	
-Saptex Road	Yenegoa	Bayelsa	4.925	6.308	1	
-Samphino Road	Yenegoa	Bayelsa	4.930	6.312	1	
-Benin-Sagamu Expressway	Ìjẹ̀bú Òde	Ogun	6.792	3.936	1	
-Rd jaji Sanfo	Igabi	Kaduna	10.822	7.606	1	
-Chief Samuel Ajayi Street	Kosofe	Lagos	6.620	3.384	1	
-Salami Street	Ifo	Ogun	6.675	3.370	1	
-Sapele Agbor Road	Ukwuani	Delta	5.848	6.160	1	
-Saint Nicolas Street	Esan West	Edo	6.744	6.105	1	
-Samuel Ajimo Avenue	Ado Odo/Ota	Ogun	6.725	3.254	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.829	6.522	1	
-Gudau - Sabon Birni Road	Shinkafi	Zamfara	12.979	6.497	1	
-Sam Mbakwe Avenue	Owerri Municipal	Imo	5.484	7.010	1	
-Samuel Opara Street'	Oshodi/Isolo	Lagos	6.536	3.316	1	
-Salvation Army Road	Oshodi/Isolo	Lagos	6.533	3.315	1	
-Samuel Ademulegun Avenue	Municipal Area Council	FCT Abuja	9.055	7.479	1	
-Sacred Heart Close	Eti Osa	Lagos	6.475	3.571	1	
-Saliu Jimoh Street	Alimosho	Lagos	6.549	3.240	1	
-Imam Saka Street	Alimosho	Lagos	6.583	3.277	1	
-Salako Close	Ojo	Lagos	6.455	3.171	1	
-Abiodun Sadiku Street	Agege	Lagos	6.614	3.308	1	
-Idowu Sanni Street	Oshodi/Isolo	Lagos	6.493	3.315	1	
-Sadat Street	Alimosho	Lagos	6.647	3.299	1	
-Sam Fakayode Close	Ifako/Ijaye	Lagos	6.654	3.313	1	
-Sangojimi Street	Ifako/Ijaye	Lagos	6.666	3.309	1	
-Amusa Savage Street	Ifo	Ogun	6.681	3.311	1	
-Sanni Ajayi Street	Alimosho	Lagos	6.535	3.262	1	
-Moshood Sanni Street	Eti Osa	Lagos	6.455	3.572	1	
-Salako Crescent	Oshodi/Isolo	Lagos	6.561	3.333	1	
-Safebirth Street	Mushin	Lagos	6.528	3.367	1	
-Dada Arejogbo Road/Saala Road	Ifo	Ogun	6.671	3.324	1	
-Sangotayo Close	Ifo	Ogun	6.671	3.324	1	
-Salimonu Street	Agege	Lagos	6.615	3.327	1	
-Samuel Ochei Cresent	Ojo	Lagos	6.486	3.147	1	
-Samuel Edosa St	Kosofe	Lagos	6.619	3.387	1	
-Salisu Adenkule Street	Ìkòròdú	Lagos	6.621	3.482	1	
-Adeshina Salau Street	Ìkòròdú	Lagos	6.621	3.490	1	
-Saki Street	Alimosho	Lagos	6.676	3.260	1	
-Abbas Abdus-salam Road	Lagelu	Oyo	7.440	3.961	1	
-Sakajojo street	Ìkòròdú	Lagos	6.599	3.502	1	
-Benin-Sagamu Expressway	Ovia North-East	Edo	6.557	5.501	1	
-Samuel Adikamkwu Street	Eti Osa	Lagos	6.493	3.588	1	
-Salvation Street	Alimosho	Lagos	6.499	3.281	1	
-bulari sabuwa	Chibok	Borno	10.859	12.828	1	
-bulari sabuwa	Chibok	Borno	10.850	12.798	1	
-bulari sabuwa	Chibok	Borno	10.847	12.768	1	
-Sanusi Fafunwa Street	Eti Osa	Lagos	6.431	3.427	1	
-Sada Tinubu Close	Eti Osa	Lagos	6.426	3.417	1	
-Umar Sambo Close	Kaduna North	Kaduna	10.571	7.466	1	
-Sabo Market	Chikun	Kaduna	10.450	7.458	0	
-Sabiolegbe Street	Oshodi/Isolo	Lagos	6.554	3.345	1	
-Sakponba Rd	Ikpoba-Okha	Edo	6.256	5.723	1	
-Sapele - Warri Road	Sapele	Delta	5.870	5.708	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.767	5.081	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.753	4.787	1	
-Benin-Sagamu Expressway	Ovia North-East	Edo	6.551	5.521	1	
-Benin-Sagamu Expressway	Ovia North-East	Edo	6.487	5.581	1	
-Effurun Sapele Road	Uvwie	Delta	5.552	5.782	1	
-Effurun Sapele Road	Uvwie	Delta	5.556	5.785	1	
-Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	8.998	7.485	1	
-Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.006	7.478	1	
-Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.000	7.483	1	
-Benin-Sagamu Expressway	Odogbolu	Ogun	6.874	3.764	1	
-Benin-Sagamu Expressway	Odogbolu	Ogun	6.825	3.820	1	
-Benin-Sagamu Expressway	Odogbolu	Ogun	6.794	3.922	1	
-Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.867	3.606	1	
-Gbola Salami Street	Eti Osa	Lagos	6.441	3.519	1	
-Mbella Sarki Dispensary	Nangere	Yobe	11.616	10.990	0	
-Sanusi Fafunwa Street	Eti Osa	Lagos	6.431	3.424	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.605	6.375	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.593	6.358	1	
-Saint John	Oredo	Edo	6.226	5.600	1	
-Igbobi Sabe Street	Shomolu	Lagos	6.520	3.370	1	
-Sakponba Road	Ikpoba-Okha	Edo	6.321	5.637	1	
-Sakponba Road	Oredo	Edo	6.327	5.630	1	
-Saka Street	Oshodi/Isolo	Lagos	6.574	3.341	1	
-Lateef Salami Street	Oshodi/Isolo	Lagos	6.551	3.329	1	
-Sanusi Street	Oshodi/Isolo	Lagos	6.509	3.314	1	
-Preince Sanmi Harrison Avenue	Eti Osa	Lagos	6.450	3.483	1	
-Sabitex Hotel Road	Eti Osa	Lagos	6.436	3.494	1	
-Sagamu Road	Ìkòròdú	Lagos	6.630	3.507	1	
-Sagamu Road	Ìkòròdú	Lagos	6.671	3.513	1	
-Salami Muyiwa Street	Ife North	Osun	7.506	4.492	1	
-Sawmill Road	Egor	Edo	6.290	5.548	1	
-Allen Samuel street	Kaduna South	Kaduna	10.464	7.439	1	
-Satchie Etoromi Crescent	Uvwie	Delta	5.537	5.758	1	
-Benin-Sagamu Expressway	Okitipupa	Ondo	6.727	4.664	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.761	4.123	1	
-Ayinke Sanni Street	Eti Osa	Lagos	6.457	3.572	1	
-Sanni Arewa Aro Street	Eti Osa	Lagos	6.455	3.567	1	
-Moshood Sanni Street	Eti Osa	Lagos	6.455	3.570	1	
-Saint Saviour's School Ikoyi	Eti Osa	Lagos	6.447	3.450	0	
-Sardauna Crescent	Kaduna North	Kaduna	10.506	7.425	1	
-Benin-Sagamu Expressway	Okitipupa	Ondo	6.727	4.667	1	
-Benin-Sagamu Expressway	Okitipupa	Ondo	6.721	4.713	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.735	4.751	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.719	4.458	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.506	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.744	4.290	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.758	4.226	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.758	4.223	1	
-Nyakaba Samuel CR	Eti Osa	Lagos	6.473	3.618	1	
-Sakponba Road	Oredo	Edo	6.332	5.624	1	
-Hon. Sani Aminu Crescent	Kaduna North	Kaduna	10.526	7.454	1	
-Sangar Avenue	Kaduna North	Kaduna	10.528	7.457	1	
-Salamu Oyolola Street	Ejigbo	Osun	7.899	4.315	1	
-Sambo Road	Kaduna North	Kaduna	10.558	7.451	1	
-Sarkin Baka Street	Chikun	Kaduna	10.489	7.471	1	
-Sarduna College Road	Kaduna North	Kaduna	10.575	7.464	1	
-Sam Omowumi Street	Ido-Osi	Ekiti	7.877	5.171	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.729	4.616	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.546	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.537	1	
-Sahaf Street	Malumfashi	Katsina	11.794	7.612	1	
-Pastor Samuel Amoja Street	Eti Osa	Lagos	6.457	3.613	1	
-Sanni Ogun Road	Ikot Ekpene	Akwa Ibom	5.184	7.716	1	
-SABON LINE STREET	Gombe	Gombe	10.283	11.173	1	JAURO BAPPI STREET
-Sars Road	Obio/Akpor	Rivers	4.871	6.973	1	
-Sarkin Yaki	Fagge	Kano	12.027	8.541	1	
-Saviour Street	Ìkòròdú	Lagos	6.653	3.600	1	
-Cemetery Road Sabon Gari Zaria	Sabon Gari	Kaduna	11.110	7.738	1	
-SATELLITE TOWN	Calabar Municipal	Cross River	4.957	8.347	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.566	6.323	1	
-Mohammed Sanusi Str II	Municipal Area Council	FCT Abuja	9.114	7.381	1	
-Salaudeen Aladie Street	Offa	Kwara	8.151	4.700	1	
-Sabaina Taiwo Street	Ado Odo/Ota	Ogun	6.696	3.249	1	
-Sanni Ajayi Street	Alimosho	Lagos	6.537	3.262	1	
-Sadiku Street	Agege	Lagos	6.620	3.323	1	
-Sanctum Drive	Ìkòròdú	Lagos	6.586	3.502	1	
-Salami Street	Ifo	Ogun	6.676	3.372	1	
-Gudau - Sabon Birni Road	Guidan Roumdji	Sokoto	13.615	6.417	1	
-Tunis Crescent	Ungongo	Kano	11.989	8.462	1	Sabo Danbatta Street
-Saint Aleyi Street	Municipal Area Council	FCT Abuja	8.992	7.588	1	
-Prof. Saidu M. Gusau Street	Ungongo	Kano	11.973	8.446	1	
-Saheed Aberejo Street	Ado Odo/Ota	Ogun	6.591	3.194	1	
-Rafin Mallam/Sabon Birni Road	Ungongo	Kano	12.072	8.499	1	
-Sani Abacha Avenue	Enugu North	Enugu	6.474	7.480	1	
-Sadia Guest Inn Road	Chanchaga	Niger	9.585	6.547	1	
-Sadia Guest Inn Road	Chanchaga	Niger	9.583	6.547	1	
-Olufemi Samson Street	Oshodi/Isolo	Lagos	6.514	3.328	1	
-Saheed Rasaq Close	Ìkòròdú	Lagos	6.632	3.484	1	
-Samuel Omidiji Street	Eti Osa	Lagos	6.507	3.601	1	
-Aliyu Sabi Street	Municipal Area Council	FCT Abuja	9.141	7.505	1	
-Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.011	7.474	1	
-SA Alao Street	Municipal Area Council	FCT Abuja	9.047	7.554	1	
-Sadiq Warawa Street	Gwale	Kano	11.958	8.486	1	
-Salvation Army Road	Ibadan North West	Oyo	7.399	3.886	1	
-Salem Street	Ibadan North	Oyo	7.391	3.902	1	
-Saka Alao Close	Lagos Mainland	Lagos	6.470	3.365	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.462	6.593	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.452	6.599	1	
-Gudau - Sabon Birni Road	Bungudu	Zamfara	12.349	6.638	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.337	6.639	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.358	6.638	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.636	6.594	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.612	6.591	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.602	6.587	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.589	6.593	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.680	6.580	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.654	6.590	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.770	6.551	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.785	6.533	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.709	6.577	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.691	6.577	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.907	6.474	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.886	6.487	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.869	6.508	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.857	6.515	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.844	6.521	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.836	6.525	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.799	6.524	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.810	6.526	1	
-Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.070	6.505	1	
-Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.106	6.470	1	
-Saint Mary's Road	Yenegoa	Bayelsa	4.950	6.347	1	
-Sadiku Erinfolami Street	Eti Osa	Lagos	6.437	3.501	1	
-Sagamu Road	Shagamu	Ogun	6.833	3.642	1	
-Sagamu Road	Shagamu	Ogun	6.850	3.651	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.579	1	
-Benin-Sagamu Expressway	Odigbo	Ondo	6.728	4.598	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.757	5.138	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.752	5.148	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.652	5.296	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.647	5.307	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.639	5.323	1	
-Benin-Sagamu Expressway	Ovia South-West	Edo	6.615	5.369	1	
-Ikwewu - Sapele Road	Sapele	Delta	5.870	5.708	1	
-Salau Oriola	Kosofe	Lagos	6.545	3.406	1	
-SAND SAND Market	Warri South	Delta	5.514	5.747	0	
-Sam Okaka Street	Uvwie	Delta	5.559	5.758	1	
-Sani Abacha Way	Municipal Area Council	FCT Abuja	9.037	7.495	1	
 Same Global Housing Estate	Municipal Area Council	FCT Abuja	8.971	7.441	2	
-Saliola Model College	Ejigbo	Osun	7.899	4.317	0	
-Sabo Market	Ìkòròdú	Lagos	6.627	3.510	0	
-Sadiq Abubakar III International Airport	Bodinga	Sokoto	12.923	5.227	0	
-St. Saviour's School Ebute-Metta	Surulere	Lagos	6.490	3.376	0	
-Samdex O.	Ìkòròdú	Lagos	6.611	3.582	0	
-SAF Petroleum	Ìkòròdú	Lagos	6.622	3.481	0	
-Sango Junior Secondary School	Ifako/Ijaye	Lagos	6.624	3.329	0	
-Sabo Oniba Primary School	Ojo	Lagos	6.464	3.173	0	
-Sabo Timber Market'	Chikun	Kaduna	10.453	7.459	0	
-Sapele Road	Ovia North-East	Edo	6.473	5.595	1	
-Sani Mashal Primary Health Centre	Kura	Kano	11.770	8.426	0	
-Sanusi Adekunle Street	Ifo	Ogun	6.645	3.397	1	
-Dorawar Sallau Health Post	Garum Mallam	Kano	11.669	8.416	0	
-Sani Zubairu Health Post	Gwale	Kano	11.987	8.510	0	
-Sare-Sare Primary Health Centre	Bagwai	Kano	12.123	8.050	0	
-Gidan Sarkin Noma Primary Health Centre	Gaya	Kano	11.823	9.120	0	
-Sabon Sara Primary Health Center	Giade	Bauchi	11.432	10.302	0	
-Samanja Dispensary	Doguwa	Kano	10.609	8.809	0	
-Kirfin Sama Dispensary	Kirfi	Bauchi	10.407	10.421	0	
-Salvation Army Primary School	Ìkòròdú	Lagos	6.620	3.507	0	
-Garin Sale Maimaciji Health Center	Kirfi	Bauchi	10.265	10.669	0	
-sabo public healthcare centre	Ibadan North West	Oyo	7.402	3.886	0	
-Sabon Gari Health Clinic	Toro	Bauchi	10.206	9.361	0	
-Sakwa Maternity	Zaki	Bauchi	12.121	10.295	0	
-Gololo Dispensary	Gamawa	Bauchi	12.316	10.691	0	Garin J Saleh Dispensary
-Saradigum Maternity	Zaki	Bauchi	12.367	10.413	0	
-Sabon layi PHC	Billiri	Gombe	9.900	11.094	0	
-Sabon Kariya Maternity	Ganjuwa	Bauchi	10.875	9.752	0	
-Kogin Sallah Health Post	Toro	Bauchi	10.131	9.028	0	
-Sabon Garin Garkuwa Health Center	Bauchi	Bauchi	9.961	9.879	0	
-Saidu Dange Railway Hospital	Sabon Gari	Kaduna	11.113	7.720	0	
-Sauna Kawaji Health Post	Nassarawa	Kano	12.019	8.600	0	
-Trans-Sahelian Highway	Dikwa	Borno	12.040	13.913	1	
-Sakdiya Dispensary	Bayo	Borno	10.434	11.771	0	
-Sadu Clinic And Maternity	Kukawa	Borno	13.096	13.823	0	
-sabon geri priimary health care center	Demsa	Adamawa	9.434	12.075	0	sabon geri
-sabon gari heath clinic	Larmurde	Adamawa	9.573	11.794	0	
-Sale Waja Health Clinic	Numan	Adamawa	9.442	12.030	0	
-Jauro Sardauna Kabillo Primary Health Care Center	Fufore	Adamawa	9.031	12.209	0	
-salma koli heath post	Maiha	Adamawa	10.016	13.096	0	
-Sangum A Dispensary	Ganye	Adamawa	8.348	11.976	0	
-Sankom Health Clinic	Ganye	Adamawa	8.308	12.030	0	
-Sankum Health Clinic	Ganye	Adamawa	8.308	12.030	0	
-Sakuwa 1 Health Clinic	Guyuk	Adamawa	9.683	11.873	0	
-Sauka Health Facility	Guyuk	Adamawa	9.902	11.909	0	
-Sabon Gari PHCC	Nangere	Yobe	11.848	11.075	0	
-Sangasmi Primary Health Center	Ganye	Adamawa	8.436	12.062	0	
-Sammeri Health Clinic	Ganye	Adamawa	8.426	11.956	0	
-Sanvam Health Post	Ganye	Adamawa	8.403	11.990	0	
-Banda Sarga Health Post	Jada	Adamawa	8.515	12.152	0	
-Sangasumi Primary Health Center	Jada	Adamawa	8.445	12.046	0	
 Sabongari	Gombi	Adamawa	10.126	12.712	2	
-Sani Abacha Way	Municipal Area Council	FCT Abuja	9.066	7.488	1	
-Shehu Sani Street	Gwale	Kano	11.979	8.470	1	
-Layin Salihi Street	Gwale	Kano	11.977	8.475	1	
-Prof. Badayi Sani Street	Gwale	Kano	11.977	8.475	1	
-Link 9 Engr. Sani Abdulkadir Street	Gwale	Kano	11.973	8.474	1	
-Sani Ayuba Street	Ungongo	Kano	11.977	8.444	1	
-Sani Tofa Street	Ungongo	Kano	11.975	8.445	1	
-Salisu Kabo Street	Ungongo	Kano	11.976	8.447	1	
-Salvation college	Kosofe	Lagos	6.609	3.433	0	
-Saviour Street	Lagos Island	Lagos	6.457	3.402	1	
-Sarduna College Road	Kaduna North	Kaduna	10.576	7.466	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.729	4.395	1	
-Benin-Sagamu Expressway	Ijebu East	Ogun	6.732	4.321	1	
-EB Saleh Close	Municipal Area Council	FCT Abuja	9.043	7.545	1	
-As-Salam Clinic & Maternity Home	Bauchi	Bauchi	10.357	9.861	0	
-Benin-Sagamu Expressway	Shagamu	Ogun	6.867	3.656	1	
-Benin-Sagamu Expressway	Shagamu	Ogun	6.858	3.631	1	
-Santorini Estates Road	Sapele	Delta	5.827	5.708	1	
-Sapele Agbor Road	Ukwuani	Delta	5.913	6.221	1	
-Arin Alade Sawyer Close	Alimosho	Lagos	6.583	3.240	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.780	5.018	1	
-Benin-Sagamu Expressway	Idanre	Ondo	6.775	5.037	1	
-Sand Lake Road	Municipal Area Council	FCT Abuja	9.096	7.492	1	
-Salaudeen Akano Street	Kosofe	Lagos	6.578	3.388	1	
-Saula Akinlolu Street	Eti Osa	Lagos	6.439	3.546	1	
-MJ Salasi International School	Municipal Area Council	FCT Abuja	9.020	7.418	0	
-Pessu SawMill Road	Warri South	Delta	5.502	5.755	1	
-Kanti Sauki	Jos South	Plateau	9.855	8.862	0	
-Osopo Salawu Street	Egbedore	Osun	7.814	4.531	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.611	6.409	1	
-Sabon Birni Road	Kaduna North	Kaduna	10.583	7.459	1	
-Sani Abacha Way	Municipal Area Council	FCT Abuja	9.027	7.481	1	
-Sani Abacha Way	Municipal Area Council	FCT Abuja	9.023	7.478	1	
-Effurun Sapele Road	Uvwie	Delta	5.572	5.784	1	
-A.A Sambo Street	Karu	Nasarawa	9.014	7.608	1	
-All Saints' School	Municipal Area Council	FCT Abuja	9.060	7.470	0	
-Kirfin Sama Primary School	Kirfi	Bauchi	10.408	10.421	0	
-Sam Madiebo Close	Oshodi/Isolo	Lagos	6.504	3.321	1	
-Abeokuta-Sagamu Expressway	Obafemi Owode	Ogun	7.125	3.359	1	
-Abeokuta-Sagamu Expressway	Abeokuta South	Ogun	7.126	3.357	1	
-Abeokuta-Sagamu Expressway	Abeokuta South	Ogun	7.133	3.353	1	
-Sahad Hospitals	Municipal Area Council	FCT Abuja	8.974	7.503	0	
-Our Saviour's Hospital	Port-Harcourt	Rivers	4.758	7.032	0	
-Adeniran Samad Street	Alimosho	Lagos	6.497	3.265	1	
-Santos Avenue	Alimosho	Lagos	6.650	3.304	1	
-Salami Street	Kosofe	Lagos	6.572	3.373	1	
-Saheed Rasaq Close	Ìkòròdú	Lagos	6.632	3.485	1	
-Salau Biu Akanbi Street	Ìkòròdú	Lagos	6.628	3.502	1	
-Sahad Stores	Maiduguri	Borno	11.795	13.128	0	
-Sabon Kwalta	Ngelzarma	Yobe	11.756	11.975	1	
-Samuel Street	Eti Osa	Lagos	6.477	3.576	1	
-Hon Samad Ogunbo Street	Eti Osa	Lagos	6.449	3.611	1	
-Salami Street	Lagos Mainland	Lagos	6.506	3.391	1	
-HRM. King Amen Sariki Road	Yenegoa	Bayelsa	4.867	6.210	1	
-Salami Ogejo	Kosofe	Lagos	6.537	3.405	1	
-Salami Ogejo	Kosofe	Lagos	6.539	3.404	1	
-Safa Health Post	Auyo	Jigawa	12.239	9.861	0	
-Sabon gari market Kano	Fagge	Kano	12.011	8.539	0	
-Sangotedo Road	Eti Osa	Lagos	6.455	3.615	1	
-All Saints Avenue	Eti Osa	Lagos	6.460	3.616	1	
 Sabon Gari	Barde	Yobe	12.873	11.009	2	
 Sarkin Hausawa	Barde	Yobe	12.815	11.039	2	
 Sasawa Kabaru	Ngelzarma	Yobe	11.824	11.987	2	
@@ -1719,7 +895,6 @@ Unguwar Sarki	Kaduna North	Kaduna	10.542	7.445	2
 Sabon Gari South	Kaduna South	Kaduna	10.520	7.405	2	
 Sardauna	Kaduna North	Kaduna	10.505	7.423	2	
 Sabon Gari Nassarawa	Chikun	Kaduna	10.468	7.367	2	
-Samaru	Sabon Gari	Kaduna	11.156	7.646	2	
 Sabon Sarki	Kachia	Kaduna	9.656	8.059	2	
 Sabon Gari North	Kaduna South	Kaduna	10.515	7.397	2	
 Sabchem	Jaba	Kaduna	9.438	8.007	2	
@@ -1737,8 +912,6 @@ Rurum Sabon Gari	Rano	Kano	11.479	8.479	2
 Sabon Gari	Wudil	Kano	11.796	8.848	2	
 Sabon Gari East	Fagge	Kano	12.058	8.545	2	
 Saji	Rano	Kano	11.463	8.566	2	
-Saye	Bichi	Kano	12.260	8.401	2	
-Rogo Sabon Gari	Rogo	Kano	11.544	7.832	2	
 Sarina	Garko	Kano	11.586	8.924	2	
 Saya-Saya	Albasu	Kano	11.708	8.981	2	
 Saya Saya	Ikara	Kaduna	11.201	8.374	2	
@@ -1762,7 +935,6 @@ Sayau	Sabuwa	Katsina	11.330	7.044	2
 Sabon Layi	Faskari	Katsina	11.648	6.944	2	
 Sandamu	Sandamu	Katsina	12.933	8.406	2	
 Safana	Safana	Katsina	12.381	7.363	2	
-Sandamu	Sandamu	Katsina	12.949	8.372	2	
 Sarkin Yara B	Daura	Katsina	13.036	8.326	2	
 Safana	Safana	Katsina	12.518	7.232	2	
 Sabuwar Kasa	Kafur	Katsina	11.537	7.660	2	
@@ -1785,5 +957,2163 @@ Sade East	Darazo	Bauchi	11.313	10.722	2
 Sarma	Misau	Bauchi	11.486	10.666	2	
 Sakwa	Zaki	Bauchi	12.111	10.284	2	
 Sama	Ningi	Bauchi	10.832	9.050	2	
+Sardauna	Sardauna	Taraba	6.930	11.223	2	
 Sakwa Hema	Hawul	Borno	10.525	12.193	2	
 Sabsabuwa	Nganzai	Borno	12.557	13.063	2	
+Abudu Salam	Fune	Yobe	11.681	11.369	2	Zoro
+Sagi	Augie	Kebbi	13.069	4.693	2	Zeggi|Zegi
+Sabon Gidan Zawan	Sanga	Kaduna	9.417	8.540	2	Zac Zawan
+Yar Samawa	Bungudu	Zamfara	12.278	6.738	2	
+Wuro Sanyobe	Gombi	Adamawa	10.195	12.772	2	
+Wuro Sani	Girei	Adamawa	9.507	12.504	2	
+Wuro Sani	Ardo-Kola	Taraba	8.786	11.271	2	
+Wuro Sanda	Gombi	Adamawa	10.212	12.754	2	
+Wuro Sambo	Song	Adamawa	9.832	12.875	2	
+Wuro Sambo	Fufore	Adamawa	9.124	12.354	2	
+Wuro Samaki	Fufore	Adamawa	9.171	12.238	2	
+Wuro Samaki	Fufore	Adamawa	9.147	12.353	2	
+Wuro Salatu	Hong	Adamawa	10.206	13.123	2	
+Wuro Sala	Madagali	Adamawa	10.841	13.650	2	
+Wajiri Sama	Jada	Adamawa	8.511	12.370	2	
+Vinde Daluwa Sama	Gombi	Adamawa	10.052	12.572	2	
+Ungwar Sarkin Shiga	Shelleng	Adamawa	10.259	12.289	2	
+Ungwar Sarkin Hizi	Hawul	Borno	10.361	12.056	2	
+Ungwan Sarikin Ushiba	Rafi	Niger	10.334	6.344	2	
+Ungwan Sarkin Noma Mara	Ikara	Kaduna	11.324	8.180	2	Sarkin Noma Mara
+Ungwan Sarkin Noma	Lafia	Nasarawa	8.858	8.942	2	
+Ungwan Sarkin Makera	Maru	Zamfara	11.250	6.450	2	
+Ungwan Sarkin Kogi	Zaria	Kaduna	11.033	7.689	2	
+Ungwan Sarkin Kida	Tudun Wada	Kano	11.268	8.366	2	Sarkin Kida
+Ungwan Sarkin Dangi	Kankara	Katsina	11.828	7.532	2	
+Ungwan Sarikin Taba	Maru	Zamfara	11.264	6.493	2	
+Ungwan Sansani	Sanga	Kaduna	9.346	8.565	2	Ungwan-San-Sani
+Ungwan Sani	Zangon Kataf	Kaduna	9.991	8.075	2	
+Ungwan Samailu	Soba	Kaduna	11.097	7.891	2	
+Ungwan Samai	Kafur	Katsina	11.670	7.602	2	
+Ungwan Sagwari	Shiroro	Niger	10.517	6.817	2	
+Ungwan Mai Samari	Qua'An Pan	Plateau	8.633	8.950	2	
+Ungwan Dan Sarki	Soba	Kaduna	11.125	7.959	2	
+Unguwar Sarkin Pawa	Gusau	Zamfara	11.593	6.609	2	Ungwan Sarkin Pawa
+Sarki	Wasagu-Danko	Kebbi	11.703	5.042	2	Unguwar Sarki|Ungwan Sarki
+Saoni	Bungudu	Zamfara	12.300	6.589	2	Unguwar Saoni
+Unguwa Sanyi	Jaba	Kaduna	9.604	7.977	2	Unguwar Sanyi
+Ungwan Mallam Sani	Gusau	Zamfara	11.667	6.623	2	Mallam Sani|Unguwar Mallam Sani
+Unguwar Makarya Sabuwa	Ajingi	Kano	11.934	9.102	2	
+Ugboshi Sale	Akoko-Edo	Edo	7.402	6.062	2	
+Tunga Sarikin Noma	Rafi	Niger	10.067	6.450	2	
+Tunga Sarikawa	Bagudo	Kebbi	11.467	4.033	2	
+Tunga Sajo	Bali	Taraba	8.538	11.307	2	
+Egbati Yelwa	Lavun	Niger	9.252	5.633	2	Egbanti Yelwa|Tungan Salahu|Tungar Salahu
+Tungan Sawadna	Munya	Niger	9.684	6.925	2	
+Tungan Sarki	Kwali	FCT Abuja	8.824	6.923	2	
+Tungan Sara	Magama	Niger	10.587	4.938	2	
+Tayueh Sawaa	Konshisha	Benue	7.159	8.542	2	
+Sabongari Tampul	Askira-Uba	Borno	10.582	13.178	2	
+Sadingo	Dange-Shuni	Sokoto	12.937	5.414	2	Sidingu
+Sagbon	Yewa North	Ogun	7.015	2.932	2	Shagbon
+Sayum	Dukku	Gombe	10.759	10.707	2	
+Sago Diya	Bayo	Borno	10.423	11.727	2	Sayo Diya
+Sayo	Fika	Yobe	11.281	11.234	2	
+Saye	Mashi	Katsina	13.117	7.933	2	
+Sayaya	Matazu	Katsina	12.271	7.645	2	
+Sayasaya	Albasu	Kano	11.713	8.967	2	
+Saya Saya	Kibiya	Kano	11.389	8.666	2	
+Sayal	Kachia	Kaduna	9.837	7.793	2	
+Sawrugba	Tarka	Benue	7.595	8.815	2	
+Sawonta	Abeokuta North	Ogun	7.257	3.079	2	
+Sawonjo	Yewa North	Ogun	7.088	3.005	2	Shawawnpa
+Sawoni	Sanga	Kaduna	9.233	8.383	2	
+Sawo	Kiri Kasama	Jigawa	12.481	10.201	2	
+Sawin	Song	Adamawa	9.871	12.634	2	
+Sawa	Mayo-Belwa	Adamawa	8.707	11.869	2	
+Sauwa	Argungu	Kebbi	12.613	4.333	2	
+Sauri	Tsafe	Zamfara	11.727	6.784	2	Samri
+Saulawa	Birnin Gwari	Kaduna	11.044	6.896	2	
+Sato	Konshisha	Benue	7.235	8.563	2	
+Sati	Konshisha	Benue	7.310	8.542	2	
+Sassuwa	Hawul	Borno	10.496	12.332	2	
+Sasin	Shelleng	Adamawa	9.890	12.166	2	
+Sashiya	Yusufari	Yobe	13.171	11.026	2	
+Sasere	Kogi	Kogi	8.139	6.960	2	
+Sasaya	Safana	Katsina	12.394	7.412	2	
+Sasawo	Remo North	Ogun	7.058	3.759	2	
+Sasawa-Kura	Gwoza	Borno	11.189	13.463	2	Sasawa Kura
+Sasawa-Gana	Gwoza	Borno	11.200	13.452	2	Sasawa Gana
+Sasa Kere	Teungo	Adamawa	8.116	12.101	2	
+Sasai	Gombi	Adamawa	10.210	12.737	2	
+Sarwani	Igabi	Kaduna	10.886	7.758	2	Sarwoni
+Sarukum	Song	Adamawa	9.890	12.237	2	
+Saruja	Yamaltu/Deba	Gombe	10.251	11.397	2	
+Saromi	Obafemi Owode	Ogun	7.092	3.593	2	
+Sarma Roga	Tangaza	Sokoto	13.687	5.107	2	Sarma Magaji
+Sarma	Misau	Bauchi	11.433	10.633	2	
+Sarkin Yanma	Jada	Adamawa	8.754	12.179	2	
+Sarkin Shanu	Bebeji	Kano	11.451	8.373	2	
+Sarkin Rafi	Tudun Wada	Kano	11.271	8.322	2	
+Sarkin Noma	Sabuwa	Katsina	11.245	7.026	2	
+Sarkin Noma	Bali	Taraba	8.337	11.126	2	
+Sarkin Lambu	Safana	Katsina	12.424	7.413	2	
+Sarkin Kudu	Ibi	Taraba	8.317	9.725	2	
+Sarkin Kudu	Kurmi	Taraba	7.246	10.441	2	
+Sarkin Kudu	Donga	Taraba	7.255	10.353	2	
+Sarkin Karofi	Gassol	Taraba	8.482	10.781	2	
+Sarkin Dutse	Bali	Taraba	7.962	10.896	2	
+Sarkin Danko	Donga	Taraba	7.603	10.698	2	
+Sarkin Baka	Larmurde	Adamawa	9.500	11.467	2	
+Murum Salla	Karim Lamido	Taraba	9.293	11.092	2	Sarkin Baka|Sarkin Bakar
+Sarkin Baka	Teungo	Adamawa	7.927	12.024	2	
+Sarkin Baka	Donga	Taraba	7.791	10.316	2	
+Sarki	Jada	Adamawa	8.484	12.304	2	
+Sarior	Gboko	Benue	7.337	8.649	2	
+Sarikiyaye	Jada	Adamawa	8.486	12.183	2	
+Sarigikin	Kabo	Kano	11.970	8.129	2	
+Sari	Fune	Yobe	11.418	11.417	2	
+Share	Baruten	Kwara	9.674	3.343	2	Sare
+Sare	Aiyedade	Osun	7.576	4.336	2	
+Sardauna	Takum	Taraba	7.259	10.054	2	
+Sarbi	Minjibir	Kano	12.292	8.670	2	
+Sarayi	Ori Ire	Oyo	8.556	4.103	2	
+Sarau	Girei	Adamawa	9.559	12.404	2	
+Sarari	Shiroro	Niger	10.225	6.711	2	
+Sara Kulinyi	Hong	Adamawa	10.180	12.991	2	
+Sarakin Samari	Kurmi	Taraba	7.466	10.824	2	
+Sarakin Bokka	Kurmi	Taraba	7.270	10.645	2	
+Saradugum	Zaki	Bauchi	12.367	10.416	2	
+Saradiam	Jada	Adamawa	8.712	12.183	2	
+Sarabe	Borgu	Niger	9.857	4.368	2	
+Sara	Gwaram	Jigawa	11.353	9.650	2	
+Sara	Tafawa-Balewa	Bauchi	9.631	9.425	2	Zara
+Sara	Okrika	Rivers	4.677	7.091	2	Sarah
+Sapoba	Orhionmwon	Edo	6.106	5.899	2	
+Sapo	Ori Ire	Oyo	8.600	4.069	2	
+Sapati	Asa	Kwara	8.261	4.580	2	
+Sapara	Hawul	Borno	10.465	12.340	2	
+Sapale	Odeda	Ogun	7.341	3.168	2	
+Sanyang	Yorro	Taraba	8.933	11.418	2	
+Sunwa-Market	Yewa North	Ogun	7.150	2.955	2	Sanwo Market
+Sanwagi	Katcha	Niger	9.263	6.305	2	
+Sanusi	Odeda	Ogun	7.313	3.349	2	
+Sanusi	Ose	Ondo	6.988	5.623	2	
+Sanubi	Ughelli North	Delta	5.759	6.023	2	
+Santow	Gwoza	Borno	11.017	13.445	2	Sandau
+Santarum	Ganye	Adamawa	8.390	11.918	2	
+Santalma	Fika	Yobe	11.553	11.272	2	
+Santa	Kankara	Katsina	12.077	7.371	2	
+Sansiri	Ganye	Adamawa	8.445	12.011	2	
+Sansanne	Gassol	Taraba	8.400	10.146	2	
+Sansanmi	Borgu	Niger	10.283	4.433	2	
+Sansani	Dambatta	Kano	12.455	8.632	2	
+Sansani	Billiri	Gombe	9.951	11.196	2	
+Sansan	Kaga	Borno	11.482	12.682	2	
+Sansan	Ori Ire	Oyo	8.523	4.155	2	
+Sansan	Ussa	Taraba	7.224	10.135	2	
+Sansami	Ikara	Kaduna	11.169	8.129	2	
+Sanni	Saki West	Oyo	8.738	3.076	2	Shenne
+Sanni	Aiyedade	Osun	7.179	4.316	2	
+Sanma	Gombi	Adamawa	10.162	12.339	2	
+Sanladi	Fune	Yobe	11.897	11.447	2	
+Sankwafuji	Pategi	Kwara	8.607	5.909	2	
+Sankom	Ganye	Adamawa	8.314	12.044	2	
+Sankemi	Fufore	Adamawa	8.767	12.450	2	
+Sankemi	Jada	Adamawa	8.605	12.331	2	
+Sankara	Ringim	Jigawa	12.226	9.065	2	
+Sankapo	Jada	Adamawa	8.513	12.028	2	
+Sankapo	Jada	Adamawa	8.500	12.059	2	
+Sankache	Kuje	FCT Abuja	8.549	7.231	2	
+Sanka	Agaie	Niger	9.049	6.403	2	Edotsu
+Sanka	Gboko	Benue	7.260	8.664	2	
+Sanioko	Dekina	Kogi	7.417	7.117	2	
+Sanija	Iwajowa	Oyo	7.863	3.341	2	
+Sani	Jada	Adamawa	8.562	12.259	2	
+Sangyigmi	Ganye	Adamawa	8.398	12.041	2	
+Sangudu	Lavun	Niger	9.167	5.750	2	
+Sangote	Moro	Kwara	8.630	4.441	2	
+Sangote	Surulere	Oyo	8.144	4.343	2	
+Sangote	Ibarapa North	Oyo	7.528	3.174	2	
+Sangote	Abeokuta North	Ogun	7.082	3.137	2	
+Sanngo-Ota	Ado Odo/Ota	Ogun	6.705	3.240	2	Sango-Otta
+Sango-Diran	Aiyedade	Osun	7.208	4.347	2	Sango Diran
+Sangode	Ona Ara	Oyo	7.167	4.067	2	
+Sango-Bon	Ido	Oyo	7.632	3.752	2	Sango Bon|SangoBon
+Sangobiyi	Iwajowa	Oyo	7.857	3.318	2	
+Sango	Ido	Oyo	7.427	3.879	2	
+Sanglan	Song	Adamawa	9.958	12.238	2	
+Sangeri	Takum	Taraba	7.276	10.122	2	
+Sangere Mapindi	Gombi	Adamawa	10.317	12.695	2	
+Sangere Manga Manga	Gombi	Adamawa	10.149	12.738	2	
+Sangere Loko	Song	Adamawa	9.770	12.585	2	
+Sangere Jelani	Song	Adamawa	9.594	12.562	2	
+Sangere Fachi	Hong	Adamawa	10.167	12.804	2	
+Sangere Dakan	Bali	Taraba	8.543	11.151	2	
+Sangere	Gombi	Adamawa	10.070	12.675	2	
+Sangela	Arewa Dandi	Kebbi	13.078	4.310	2	Sangelu
+Sangeko	Maru	Zamfara	11.097	6.052	2	Sangeku|Sengiakun
+Sangasumi	Ganye	Adamawa	8.434	12.040	2	
+Sangashi	Gbako	Niger	9.232	6.152	2	
+Sangaro	Funakaye	Gombe	10.844	11.448	2	
+Sangare	Gulani	Yobe	10.750	11.642	2	
+Sangare	Bayo	Borno	10.560	11.660	2	
+Sanganare	Teungo	Adamawa	8.073	12.018	2	
+Sengana	Brass	Bayelsa	4.334	5.985	2	Sangama|Sangana
+Sangam	Ganye	Adamawa	8.463	11.988	2	
+Sangala	Shelleng	Adamawa	10.032	12.233	2	
+Sanga	Suru	Kebbi	11.886	4.129	2	
+Sanga	Toro	Bauchi	10.247	8.961	2	
+Sanga	Yorro	Taraba	9.102	11.615	2	
+Sanfo	Igabi	Kaduna	10.827	7.605	2	
+Sandoka	Jada	Adamawa	8.626	12.159	2	
+Sandawai	Damban	Bauchi	11.785	10.853	2	
+Sandaru	Gassol	Taraba	8.503	10.716	2	
+Sanda	Igabi	Kaduna	10.700	7.467	2	
+Sanda	Jada	Adamawa	8.704	12.241	2	
+Sanbi	Bagudo	Kebbi	11.391	3.549	2	Sambi
+Sanberu	Bali	Taraba	8.557	11.165	2	
+Sanawa	Dan Musa	Katsina	12.264	7.436	2	
+Sanaga	Mashegu	Niger	9.613	5.272	2	
+Sana	Gurara	Niger	9.391	7.034	2	
+San	Tafawa-Balewa	Bauchi	10.119	9.608	2	
+Samsonkiri	Nembe	Bayelsa	4.417	6.300	2	
+Samson	Iwajowa	Oyo	7.821	3.299	2	
+Samsami	Babura	Jigawa	12.459	8.833	2	
+Sampu	Gumel	Jigawa	12.651	9.357	2	
+Sampa	Jada	Adamawa	8.744	12.577	2	
+Samongara	Gwaram	Jigawa	11.238	9.856	2	
+Samo	Asa	Kwara	8.144	4.522	2	
+Samo	Ori Ire	Oyo	8.080	4.180	2	
+Sammo	Ningi	Bauchi	11.033	9.405	2	
+Samma	Tambuwal	Sokoto	12.431	4.848	2	
+Samlo	Jada	Adamawa	8.842	12.755	2	
+Samkiri	Degema	Rivers	4.673	6.992	2	
+Saminaka	Lapai	Niger	9.114	6.757	2	Gbolo
+Samia	Arewa Dandi	Kebbi	13.153	4.413	2	
+Samia	Shendam	Plateau	8.921	9.773	2	Tsamia|Tsamiya
+Samgumta	Song	Adamawa	9.862	12.309	2	
+Samboro	Rafi	Niger	9.931	6.411	2	
+Awulli	Ngala	Borno	12.258	14.241	2	Sambori|Samburi
+Sambori	Darazo	Bauchi	10.827	10.522	2	
+Sambo Dorni	Dange-Shuni	Sokoto	12.900	5.383	2	
+Sambo	Ardo-Kola	Taraba	8.912	11.123	2	
+Sambi	Fufore	Adamawa	8.894	12.408	2	
+Samberi	Shani	Borno	10.099	11.917	2	
+Sambegh	Awe	Nasarawa	8.360	9.168	2	
+Sambe	Sanga	Kaduna	9.108	8.568	2	
+Sambawa	Maiyama	Kebbi	12.280	4.266	2	
+Sambam Gida	Jaba	Kaduna	9.455	8.052	2	Samban
+Sambaki	Teungo	Adamawa	8.050	12.017	2	
+Samaya	Takum	Taraba	7.550	10.075	2	
+Samawa	Bungudu	Zamfara	12.286	6.766	2	
+Samaru	Sabon Gari	Kaduna	11.167	7.632	2	
+Samaru	Zangon Kataf	Kaduna	9.758	8.383	2	
+Samari	Ushongo	Benue	7.191	8.930	2	
+Samara	Irepodun	Kwara	8.233	4.850	2	
+Samanna	Shiroro	Niger	9.768	6.615	2	
+Samanaji	Koko-Besse	Kebbi	11.161	4.465	2	Samanage|Samaneggi
+Samalu	Wamako	Sokoto	13.114	5.028	2	Samulu
+Sama	Ningi	Bauchi	10.933	9.055	2	
+Sama	Hawul	Borno	10.635	12.014	2	Sanda
+Sama	Moro	Kwara	8.778	4.650	2	
+Sama Noguakiri	Asari-Toru	Rivers	4.815	6.826	2	Sama|Sama-Naguakiri
+Salwe	Arewa Dandi	Kebbi	12.659	3.835	2	Selwai
+Saluwai	Wase	Plateau	9.183	9.983	2	
+Salti	Numan	Adamawa	9.451	11.759	2	
+Salma Tappare	Song	Adamawa	10.018	13.033	2	
+Salma Dakin	Maiha	Adamawa	10.009	13.101	2	
+Salma	Hong	Adamawa	10.011	12.948	2	
+Salla	Karim Lamido	Taraba	9.423	10.997	2	
+Salkum	Song	Adamawa	10.016	12.321	2	
+Saliu	Ido	Oyo	7.438	3.731	2	
+Salirulu	Abaji	FCT Abuja	9.238	6.902	2	
+Salihu	Kurmi	Taraba	7.232	10.571	2	
+Salihawa	Dutsin Ma	Katsina	12.347	7.454	2	
+Sali	Hawul	Borno	10.612	12.464	2	
+Salhala	Dutsin Ma	Katsina	12.392	7.423	2	
+Saleri	Funakaye	Gombe	10.773	11.348	2	
+Salawu-Oloja	Ogbomosho North	Oyo	8.120	4.322	2	Salawu Oloja
+Salawu Okewusin	Ibarapa North	Oyo	7.511	3.319	2	Salau Okewusin
+Salawu	Yewa North	Ogun	7.336	2.863	2	
+Salwai	Bunza	Kebbi	12.167	3.990	2	Salawai|Salwia
+Salawa	Irele	Ondo	6.375	4.962	2	
+Salau	Ibarapa North	Oyo	7.581	3.298	2	
+Salasa	Gombi	Adamawa	10.089	12.675	2	
+Salasa	Song	Adamawa	9.639	12.445	2	
+Sala-Orile	Yewa North	Ogun	7.213	2.974	2	Sala Orile|Shala
+Salami	Ibarapa Central	Oyo	7.453	3.324	2	
+Salami	Ife North	Osun	7.292	4.444	2	
+Salama	Kurmi	Taraba	7.217	10.627	2	
+Salako	Moro	Kwara	8.819	4.304	2	
+Salako	Ife North	Osun	7.402	4.448	2	
+Salahawo	Kankara	Katsina	11.828	7.567	2	
+Sala	Funakaye	Gombe	11.018	11.452	2	
+Sala	Paikoro	Niger	9.262	6.514	2	
+Sala	Yewa North	Ogun	7.383	2.967	2	
+Sakwaya	Dutse	Jigawa	11.683	9.248	2	
+Sakwatawa	Dan Musa	Katsina	12.292	7.275	2	
+Sakwabe	Arewa Dandi	Kebbi	13.157	4.213	2	Sakwabi
+Sakwa	Hawul	Borno	10.494	12.196	2	
+Sakula	Konshisha	Benue	7.105	8.572	2	
+Sakpoba	Ovia South-West	Edo	6.601	5.328	2	
+Sakpe	Edati	Niger	9.078	5.631	2	
+Sakpata	Edu	Kwara	8.956	5.037	2	
+Sakpan	Bali	Taraba	8.246	11.393	2	
+Sakpa	Wukari	Taraba	7.946	10.013	2	
+Sako Kor	Khana	Rivers	4.685	7.393	2	
+Sako	Madobi	Kano	11.851	8.448	2	
+Sako	Zangon Kataf	Kaduna	9.836	8.329	2	
+Saklupa	Fufore	Adamawa	8.932	12.479	2	
+Sakla	Mayo-Belwa	Adamawa	8.864	11.929	2	
+Sakka	Lapai	Niger	8.393	6.719	2	
+Sakiwa	Katcha	Niger	9.136	6.203	2	
+Sakingo	Mayo-Belwa	Adamawa	8.905	12.043	2	Saking
+Saki	Gboko	Benue	7.327	8.686	2	
+Sakgbe	Jada	Adamawa	8.777	12.098	2	
+Sakdi	Fufore	Adamawa	8.927	12.558	2	
+Sakdi	Jada	Adamawa	8.885	12.766	2	
+Sakarumbu	Ganjuwa	Bauchi	10.907	10.431	2	
+Sakaratsa	Rimin Gado	Kano	11.924	8.381	2	
+Sakanam	Magumeri	Borno	12.043	12.672	2	
+Sakamidere	Ganye	Adamawa	8.318	12.060	2	
+Sakama	Asa	Kwara	8.289	4.526	2	
+Saka Ijir	Gboko	Benue	7.256	8.730	2	
+Sakadadi	Sabon Gari	Kaduna	11.179	7.726	2	
+Sakaa	Yusufari	Yobe	13.191	11.121	2	
+Saka	Suru	Kebbi	11.770	4.118	2	
+Saka	Guma	Benue	7.957	8.624	2	
+Saka	Markurdi	Benue	7.853	8.533	2	
+Saka	Ibarapa East	Oyo	7.518	3.505	2	
+Saka	Oluyole	Oyo	7.340	3.936	2	
+Saka	Konshisha	Benue	7.277	8.618	2	
+Saka	Konshisha	Benue	7.020	8.771	2	
+Sajuwa	Mani	Katsina	12.856	8.007	2	
+Saji	Katcha	Niger	8.856	6.236	2	
+Saina	Tangaza	Sokoto	13.447	4.960	2	Sainyinna
+Sainyinan Daji	Tambuwal	Sokoto	12.702	4.860	2	Sainyman Daji
+Saikinta	Gudu	Sokoto	13.372	4.188	2	
+Saiboji	Maru	Zamfara	12.276	6.435	2	
+Saai	Takum	Taraba	7.574	9.905	2	Sai|Sayi
+Sagwari	Bwari	FCT Abuja	9.173	7.383	2	
+Sagura	Kwande	Benue	6.951	9.509	2	
+Sagolare	Miga	Jigawa	12.161	9.651	2	
+Sagofa	Hong	Adamawa	10.421	12.905	2	
+Sagiye	Ifelodun	Kwara	8.621	5.100	2	
+Sagi	Gwaram	Jigawa	11.200	10.150	2	
+Sagi	Gbako	Niger	9.305	6.114	2	
+Sagi	Ife North	Osun	7.368	4.468	2	
+Saghara	Warri South-West	Delta	5.614	5.204	2	Sara
+Sagge	Rabah	Sokoto	13.067	5.733	2	
+Sagbe-Ogede	Ifelodun	Kwara	8.697	5.143	2	Sagbe Ogede
+Sagbe	Lagelu	Oyo	7.550	4.013	2	
+Sagbara	Akinyele	Oyo	7.610	3.937	2	
+Sagba	Irewole	Osun	7.341	4.297	2	
+Saganuwa	Gbako	Niger	9.478	6.116	2	
+Sagal	Maiha	Adamawa	9.772	13.174	2	
+Safuga	Tarka	Benue	7.617	8.783	2	
+Safra	Kwaya Kusar	Borno	10.528	11.943	2	
+Safari	Moro	Kwara	8.703	4.466	2	
+Safaru	Yewa North	Ogun	7.362	2.899	2	Safara
+Safa	Miga	Jigawa	12.233	9.849	2	
+Safa	Fufore	Adamawa	8.988	12.421	2	
+Sadura	Gudu	Sokoto	13.650	4.433	2	
+Saduko	Agaie	Niger	8.915	6.537	2	
+Saduguma	Kala-Balge	Borno	12.200	14.483	2	
+Sadu	Odeda	Ogun	7.260	3.561	2	
+Sadokashi	Mokwa	Niger	9.367	5.883	2	
+Sado	Atiba	Oyo	7.937	3.927	2	
+Sado	Konshisha	Benue	7.017	8.832	2	
+Sadiwin	Surulere	Oyo	8.026	4.513	2	
+Sade	Ola Oluwa	Osun	7.814	4.166	2	
+Sadawanka	Agwara	Niger	10.755	4.696	2	
+Sadawa	Bukkuyum	Zamfara	12.165	5.464	2	
+Sadan	Yusufari	Yobe	13.242	10.622	2	
+Sadadi	Asa	Kwara	8.233	4.483	2	
+Sada	Giwa	Kaduna	11.094	7.266	2	
+Godobe	Karim Lamido	Taraba	9.206	10.784	2	Sabuwar Yamma|Yamma
+Sabuwar Kasa	Kafur	Katsina	11.549	7.671	2	
+Sabuwar Badafi	Kiru	Kano	11.372	8.169	2	
+Sabu	Darazo	Bauchi	11.140	10.478	2	
+Sabtawara	Jada	Adamawa	8.504	12.367	2	
+Sabta	Anka	Zamfara	12.002	6.045	2	
+Sabsabwa	Nganzai	Borno	12.557	13.127	2	
+Sabon Ungwan Gwandu	Birnin Gwari	Kaduna	11.194	6.881	2	
+Sabon-Tunga	Shanga	Kebbi	10.973	4.626	2	
+Sabon Sariki	Kachia	Kaduna	9.642	8.021	2	Sabon Sarki
+Sabon Sara	Giade	Bauchi	11.432	10.304	2	
+Sabon Riga	Misau	Bauchi	11.483	10.633	2	
+Sabonogari Njoma	Askira-Uba	Borno	10.569	12.936	2	
+Sabon Ninzam Mada	Sanga	Kaduna	9.460	8.545	2	
+Sabon Madada	Maru	Zamfara	11.158	6.516	2	
+Sabon-Layilasan	Birnin Gwari	Kaduna	11.297	6.984	2	
+Sabon Layi Jessu	Balanga	Gombe	9.733	11.767	2	
+Sabon Layi Baja	Rogo	Kano	11.519	7.682	2	
+Sabonlayi Awak	Kaltungo	Gombe	9.936	11.445	2	
+Sabon Layi	Malumfashi	Katsina	11.758	7.612	2	
+Sabon Layi	Billiri	Gombe	9.903	11.095	2	
+Sabon Layi	Jada	Adamawa	8.688	12.028	2	
+Sabon Layi	Mayo-Belwa	Adamawa	8.684	11.919	2	
+Sabon Layi	Ganye	Adamawa	8.613	12.010	2	
+Sabon Layi	Bali	Taraba	8.527	11.399	2	
+Sabon-Layi	Jada	Adamawa	8.484	12.031	2	Sabon Layi|SabonLayi
+Sabon Layi	Jada	Adamawa	8.454	12.088	2	
+Sabon Kuyelo	Birnin Gwari	Kaduna	11.213	6.908	2	
+Sabon Keffi	Jama'Are	Bauchi	11.728	9.872	2	
+Sabon Kawuka	Kachia	Kaduna	9.935	7.922	2	
+Sabon Kaura	Doguwa	Kano	10.674	8.592	2	
+Sabon Kaura	Toro	Bauchi	10.482	8.961	2	
+Sabon Kasa	Ngelzarma	Yobe	11.703	11.949	2	
+Sabon Gida Tati	Ussa	Taraba	7.283	10.150	2	
+Sabon Gida Mai Suna	Donga	Taraba	7.481	10.501	2	
+Sabongida Jabare	Gombi	Adamawa	10.058	12.606	2	
+Sabongida	Birnin Kudu	Jigawa	11.366	9.581	2	
+Sabongida	Song	Adamawa	10.035	12.562	2	
+Sabongida	Paikoro	Niger	9.442	6.580	2	
+Sabongida	Gada	Sokoto	13.612	5.624	2	
+Sabon Gida	Soba	Kaduna	10.765	8.024	2	
+Sabon Gida	Kaduna North	Kaduna	10.583	7.417	2	
+Sabon Gida	Shiroro	Niger	10.388	6.712	2	
+Sabon Gida	Bauchi	Bauchi	10.079	9.685	2	
+Sabon Gida	Song	Adamawa	9.955	12.555	2	
+Sabon Gida	Tafawa-Balewa	Bauchi	9.924	9.809	2	
+Sabon Gida	Jos South	Plateau	9.780	8.814	2	
+Sabon Gida	Shiroro	Niger	9.817	6.333	2	Sabon
+Sabon Gida	Wase	Plateau	9.314	10.440	2	Gida
+Sabon Gida	Abaji	FCT Abuja	8.870	6.869	2	
+Sabon-Gida	Kwali	FCT Abuja	8.700	7.003	2	
+Sabon-Gidan Kireyi	Lafia	Nasarawa	8.532	8.687	2	Kireyi|Sabon Gida|Sabon-GidanKireyi|SabonGida
+Sabon Gida	Bali	Taraba	7.987	10.994	2	
+Sabon Gida	Donga	Taraba	7.475	10.360	2	
+Sabon Gida	Takum	Taraba	7.000	9.717	2	
+Sabongari	Maru	Zamfara	11.262	6.389	2	Sabongeri
+Sabon Garu	Kibiya	Kano	11.439	8.644	2	
+Sabongari Tsakwa	Gombi	Adamawa	10.284	12.722	2	
+Sabon Gari Gurum	Bassa	Plateau	10.029	8.827	2	Sabon Garin Gurum
+Gabon Gari Nachini	Argungu	Kebbi	12.781	4.490	2	Sabon Gari Nachini
+Sabon Gari Kara	Gwarzo	Kano	11.822	7.936	2	
+Sabongari Jahadi	Shelleng	Adamawa	10.007	12.021	2	
+Sabongari	Maru	Zamfara	11.275	6.429	2	
+Sabongari	Shanga	Kebbi	10.917	4.800	2	
+Sabongari	Hawul	Borno	10.489	12.248	2	
+Sabongari	Hawul	Borno	10.490	12.003	2	
+Sabongari	Gombi	Adamawa	10.159	12.435	2	
+Sabongari	Gombi	Adamawa	10.119	12.707	2	
+Sabongari	Song	Adamawa	9.659	12.510	2	
+Sabongari	Demsa	Adamawa	9.601	12.138	2	
+Sabon Gari	Sabon Birni	Sokoto	13.517	5.983	2	
+Sabon Gari	Nguru	Yobe	12.868	10.442	2	Gari
+Sabon-Gari	Rimi	Katsina	12.742	7.748	2	
+Sabongari	Miga	Jigawa	12.302	9.580	2	
+Sabon Gari	Taura	Jigawa	12.228	9.301	2	
+Sabon Gari	Jakusko	Yobe	12.192	10.775	2	
+Sabon Gari	Fagge	Kano	12.022	8.522	2	
+Sabon Gari	Koko-Besse	Kebbi	11.583	4.408	2	
+Sabon-Gari	Bagudo	Kebbi	11.571	4.206	2	
+Sabon Gari	Bagudo	Kebbi	11.551	3.849	2	
+Sabon-Gari	Bagudo	Kebbi	11.533	4.276	2	
+Sabon Gari	Makarfi	Kaduna	11.208	7.860	2	
+Sabon Gari	Rijau	Niger	11.213	5.046	2	
+Sabon Gari	Sabon Gari	Kaduna	11.124	7.731	2	
+Sabon Gari	Ningi	Bauchi	11.034	8.961	2	
+Sabon Gari	Dukku	Gombe	10.917	10.654	2	
+Sabon Gari	Toro	Bauchi	10.671	9.007	2	
+Sabon Gari	Biu	Borno	10.623	12.189	2	
+Sabon Gari	Biu	Borno	10.590	12.207	2	
+Sabon Gari	Chikun	Kaduna	10.600	7.300	2	
+Sabon Gari	Hawul	Borno	10.573	12.158	2	
+Sabon Gari	Mariga	Niger	10.236	5.880	2	
+Sabon-Gari	Magama	Niger	10.137	4.849	2	
+Sabon Gari	Alkaleri	Bauchi	9.978	10.203	2	
+Sabon Gari	Karim Lamido	Taraba	9.456	11.437	2	
+Sabon Gari	Jema'A	Kaduna	9.425	8.187	2	Sabo Gari
+Sabon Gari	Jada	Adamawa	8.755	12.058	2	
+Sabon Gari	Jada	Adamawa	8.651	12.232	2	
+Sabon Gari	Jada	Adamawa	8.557	12.126	2	
+Sabon Gari	Bali	Taraba	8.522	11.592	2	
+Sabon Gari	Bali	Taraba	7.995	10.669	2	
+Sabon Gari	Teungo	Adamawa	7.956	11.914	2	
+Sabon Garafini	Magama	Niger	10.067	4.617	2	Sabon Garafini East
+Sabon Duku	Jada	Adamawa	8.737	12.152	2	
+Sabon-Dare	Lafia	Nasarawa	8.522	8.627	2	Sabon Dali|SabonDali
+Sabon Dale	Gassol	Taraba	8.521	10.747	2	
+Sabon Dale	Bali	Taraba	7.920	10.991	2	
+Sabon Birni Mogaji	Birnin Magaji-Kiyaw	Zamfara	12.545	6.812	2	Sabon-Birni
+Sabo Birnin	Kware	Sokoto	13.247	5.274	2	Sabon Birni
+Sabon Birni	Gwandu	Kebbi	12.467	4.767	2	
+Sabon Birni	Bunza	Kebbi	12.255	4.126	2	Sabon Birnin
+Sabon-Birni	Kebbe	Sokoto	11.769	4.812	2	Sabon Birni Abershi
+Sabon Birni	Igabi	Kaduna	11.000	7.576	2	
+Sabon Birni	Igabi	Kaduna	10.983	7.583	2	
+Sabon Birni	Igabi	Kaduna	10.812	7.302	2	Sabon Birnin Daji
+Sabon Birni	Lere	Kaduna	10.453	8.646	2	
+Sabon Bariki	Toro	Bauchi	10.200	9.261	2	
+Sabon Bakura	Soba	Kaduna	10.932	8.016	2	
+Sabolo	Bassa	Plateau	10.124	8.887	2	
+Sabolayi-Gayakan	Larmurde	Adamawa	9.487	11.538	2	
+Sabo Kukwaba	Municipal Area Council	FCT Abuja	9.024	7.423	2	
+Sabokarumo	Municipal Area Council	FCT Abuja	9.072	7.363	2	
+Sabo-Izalo	Magama	Niger	10.569	4.868	2	
+Sabo	Paikoro	Niger	9.472	6.736	2	
+Sabo	Kuje	FCT Abuja	8.772	7.195	2	
+Sabo	Ijebu North	Ogun	6.967	3.900	2	
+Sabla	Augie	Kebbi	12.752	4.708	2	Safla
+Sabiyel	Aleiro	Kebbi	12.387	4.444	2	
+Sabewa	Demsa	Adamawa	9.574	12.070	2	
+Sabere	Yola North	Adamawa	9.248	12.339	2	
+Sabere	Ganye	Adamawa	8.252	12.108	2	
+Sabe	Toto	Nasarawa	8.589	7.451	2	
+Sabe	Tarka	Benue	7.554	8.856	2	
+Sabawa	Safana	Katsina	12.430	7.293	2	
+Sabata	Itesiwaju	Oyo	8.299	3.555	2	
+Sabaru	Bungudu	Zamfara	12.190	6.781	2	
+Sabaru	Ajingi	Kano	11.976	9.123	2	
+Sabani	Moro	Kwara	8.761	4.300	2	
+Sabam	Konshisha	Benue	7.031	8.531	2	
+Sabakwa	Zaki	Bauchi	12.379	10.366	2	
+Sabaku	Gbako	Niger	9.147	5.936	2	
+Sabagina	Edu	Kwara	8.769	5.233	2	
+Saare	Konshisha	Benue	7.296	8.611	2	
+Saar	Awe	Nasarawa	8.340	9.114	2	
+Saaor	Gboko	Benue	7.303	8.728	2	
+Saaor	Gboko	Benue	7.219	8.687	2	
+Saaor	Ushongo	Benue	7.053	8.950	2	
+Saaondo	Konshisha	Benue	7.166	8.620	2	
+Saakyaa	Gboko	Benue	7.373	8.739	2	
+Saakya	Gboko	Benue	7.296	8.684	2	
+Saakwagh	Konshisha	Benue	7.267	8.533	2	
+Saakula	Gboko	Benue	7.360	8.674	2	
+Saaior	Gboko	Benue	7.344	8.644	2	
+Saadu	Bali	Taraba	8.308	11.027	2	
+Saa	Takum	Taraba	7.321	10.091	2	
+Ruwan Sanyi	Malumfashi	Katsina	11.718	7.586	2	
+Romo Sarki	Tambuwal	Sokoto	12.223	4.603	2	
+Rafin Sanyi	Jos East	Plateau	9.817	9.033	2	
+Rafin Sainye	Jos North	Plateau	9.894	8.960	2	
+Piti Sarki	Ardo-Kola	Taraba	8.692	11.353	2	
+Old Sangama	Akuku Toru	Rivers	4.640	6.592	2	
+Oja Sale	Akoko-Edo	Edo	7.373	6.238	2	
+Ode-Saka	Surulere	Oyo	8.252	4.430	2	Awde-Shaka|Ode Saka|Ode-Shaka
+New Saura	Ngaski	Kebbi	10.213	4.630	2	
+Ndombo Sama	Kurmi	Taraba	7.098	10.939	2	
+Mallam Salau	Lafia	Nasarawa	8.550	8.450	2	
+Mai Sango	Kurmi	Taraba	7.209	10.671	2	
+Mai Samari	Sardauna	Taraba	7.165	11.082	2	
+Mai Samari	Kurmi	Taraba	7.159	10.567	2	
+Mai Saje	Kurmi	Taraba	7.373	10.638	2	
+Mai Dakin Sama	Donga	Taraba	7.787	10.034	2	Mai Darkin Sama
+Lulin Sama	Dukku	Gombe	10.760	10.594	2	
+Lissam Sambo	Ussa	Taraba	7.006	10.077	2	
+Lele-Ye-Saba-Basa	Gwagwalada	FCT Abuja	8.919	6.969	2	Lele Ye Saba Basa|LeleYeSabaBasa
+Lamba Sali	Nafada	Gombe	11.201	11.094	2	
+Lamba Saingel	Dukku	Gombe	10.780	10.574	2	
+Laji-Sapati	Asa	Kwara	8.257	4.512	2	Laji Sapati|LajiSapati
+Kwaryar Sallah	Baure	Katsina	12.700	8.812	2	Kwarinsela
+Kurmin Sarki	Malumfashi	Katsina	11.696	7.598	2	
+Kufayin Sale	Donga	Taraba	7.513	10.539	2	
+Kubaje Jauro Salatu	Maiha	Adamawa	10.001	13.130	2	
+Koguran Sabuwa	Garki	Jigawa	12.395	9.130	2	
+Kogin Sani	Garko	Kano	11.533	9.017	2	Sani
+Kode	Karim Lamido	Taraba	9.485	11.159	2	Kode Samma
+Koba Sama	Hong	Adamawa	10.208	12.833	2	
+Kauyen Sarkin Baka	Ibi	Taraba	8.156	9.781	2	
+Katanga Sabarmawa	Argungu	Kebbi	12.800	4.433	2	
+Karfin Sarki	Gudu	Sokoto	13.275	4.518	2	Keur Sarki|Kogin Sarki
+Karfin Sama	Kirfi	Bauchi	10.378	10.445	2	
+Garba Yashe	Karim Lamido	Taraba	9.340	11.139	2	Kan Salla
+Kafin Sani	Igabi	Kaduna	10.885	7.468	2	
+Jigawar Sawai	Dan Musa	Katsina	12.295	7.223	2	
+Jauro Saweli	Jada	Adamawa	8.686	12.178	2	
+Jauro Sanda	Ardo-Kola	Taraba	8.789	11.335	2	
+Jauro Sale	Yamaltu/Deba	Gombe	10.237	11.402	2	
+Gungu Saje	Mayo-Belwa	Adamawa	8.694	11.821	2	
+Goke-Sago	Ibarapa East	Oyo	7.728	3.522	2	Goke Sago|GokeSago
+Gidan Sarumai	Shiroro	Niger	10.067	6.700	2	
+Guidan Sarkin Noma	Gusau	Zamfara	12.105	6.984	2	Gidan Sarkin Noma
+Gidan Sarkin Lau	Igabi	Kaduna	10.551	7.314	2	
+Gidan Sarkin-Katul	Kachia	Kaduna	9.912	8.024	2	Gidan Sarikin Katul
+Gidan Sarkin Bishini	Kachia	Kaduna	9.621	7.433	2	
+Gidan Sarkin Bakre	Chikun	Kaduna	10.067	7.317	2	
+Gidan Sarikin Togwoma	Rafi	Niger	10.333	6.283	2	Togwoma
+Gidan Sarikin Noma	Rafi	Niger	10.283	6.433	2	
+Gidan Sarikin Kukunga	Mariga	Niger	10.583	6.100	2	
+Guidan Sarde	Bungudu	Zamfara	12.235	6.547	2	Gidan Sardo|Guidan Sardo
+Gidan Salifu	Mokwa	Niger	9.267	4.833	2	Salifu
+Gidan Salatu	Takum	Taraba	7.567	9.883	2	
+Guidan Sake	Gusau	Zamfara	12.076	6.671	2	Gidan Sake
+Guidan Sakarawa	Bungudu	Zamfara	12.128	6.575	2	Gidan Sakarawa
+Gidan Mallam Sani	Kirfi	Bauchi	10.271	10.778	2	
+Geren Sama	Ganjuwa	Bauchi	10.571	10.118	2	
+Gatamarua Bula-Sanya	Chibok	Borno	10.730	12.998	2	
+Garta Sama	Michika	Adamawa	10.617	13.493	2	
+Garin Sabo	Gwandu	Kebbi	12.634	4.541	2	Garin Sabon Gandu
+Garin Sarkin Janga	Fune	Yobe	11.646	11.305	2	
+Garin Sarkin Fada	Ardo-Kola	Taraba	8.779	11.142	2	
+Garin Sarkin Dogoro	Kaltungo	Gombe	9.937	11.292	2	
+Garin Salihu	Bali	Taraba	8.480	11.120	2	
+Garin Saidu	Ardo-Kola	Taraba	8.798	10.983	2	
+Gante Sabo	Yauri	Kebbi	10.833	4.767	2	
+Gang Sati	Yorro	Taraba	8.632	11.748	2	
+Gidan Sarkin Baka	Kokona	Nasarawa	8.806	8.044	2	Gandun Sarki|GandunSarki|GidanSarkinBaka
+Dutsin Safe	Kaita	Katsina	13.068	7.611	2	
+Dutsin Kura	Tsafe	Zamfara	11.679	6.766	2	Dutsin Kura Sauri
+Duba Sarikin Pawa	Goronyo	Sokoto	13.502	5.929	2	Duba Serikin Pawa|Duban Sarkin Pawa|Gidan Sarkin Pawa
+Dolen Sarki	Akko	Gombe	10.262	10.881	2	
+Dogo-Adogon-Saave	Konshisha	Benue	7.008	8.541	2	
+Dan Sare	Malumfashi	Katsina	11.991	7.776	2	
+Dan Sadau	Maru	Zamfara	11.296	6.495	2	
+Dabbo Sarari	Toro	Bauchi	10.228	9.206	2	
+Sangkan	Yola North	Adamawa	9.369	12.337	2	Changala|Sangala
+Buru Sama	Kurmi	Taraba	7.028	10.908	2	
+Sabon Gari	Nafada	Gombe	11.102	11.236	2	Burruo Sabon Gari
+Bukasidi	Lafia	Nasarawa	8.526	8.523	2	Bukar Saidi|BukarSaidi
+Bente Sama	Kurmi	Taraba	7.297	10.718	2	
+Bedda Sanda	Mubi North	Adamawa	10.128	13.204	2	
+Batal Sama	Tafawa-Balewa	Bauchi	9.871	9.832	2	
+Barikin Sabon Gidar Kanat	Jos South	Plateau	9.772	8.813	2	Barakin S Gidan Kanat|Barikin Gidar Kanat|Barikin Sabon Gidan Kanat
+Barakin Sauki	Bassa	Plateau	10.003	8.841	2	
+Barakin Sabon	Jos North	Plateau	9.953	8.868	2	
+Barakin Delimi Sabuwa	Jos South	Plateau	9.861	8.933	2	Barakin Sabawa|Delimi
+Bala-Sagbo	Ìsẹ́yìn	Oyo	7.786	3.551	2	Bala Sagbo|BalaSagbo
+Bakin Sakace	Agwara	Niger	10.935	4.688	2	
+Bakar Sabara	Garki	Jigawa	12.447	9.108	2	
+Baba-Sango	Itesiwaju	Oyo	8.262	3.695	2	Baba Sango
+Baba-Sango	Ibarapa North	Oyo	7.707	3.279	2	Baba Sango|BabaSango
+Baba-Sango	Aiyedade	Osun	7.237	4.308	2	Baba Sango
+Samana	Andoni	Rivers	4.565	7.372	2	Asarama
+Samagidi	Ethiope East	Delta	5.707	5.997	2	Asamagidi
+Ardo Sambo	Teungo	Adamawa	7.939	12.020	2	
+Ardo Salato	Yamaltu/Deba	Gombe	10.259	11.296	2	
+Wuro Bako	Lau	Taraba	9.149	11.552	2	Apawa Samga
+Anguwan Sarkin Noma	Igabi	Kaduna	10.800	7.483	2	
+Andaha Salihu	Akwanga	Nasarawa	9.058	8.408	2	Andaha Samu
+Ajana Sangawun	Ibarapa East	Oyo	7.514	3.358	2	
+Agosasa	Ipokia	Ogun	6.583	2.768	2	Agaw Shasha|Ago Sasa
+Shangisha	Kosofe	Lagos	6.613	3.374	2	Sagisa
+Saupe	Bwari	FCT Abuja	9.248	7.434	2	
+Sabon Ruhu	Karu	Nasarawa	9.018	7.693	2	
+Sape	Municipal Area Council	FCT Abuja	8.897	7.507	2	
+Jama an Sani Baka	Igabi	Kaduna	10.719	7.392	2	
+Sangote	Afijio	Oyo	7.743	3.755	2	
+Baba-Sale	Afijio	Oyo	7.700	3.860	2	Baba Sale|BabaSale
+Sale	Afijio	Oyo	7.676	3.858	2	
+Safejo	Afijio	Oyo	7.666	3.772	2	
+Sangote	Ido	Oyo	7.558	3.771	2	
+Saribi	Akinyele	Oyo	7.549	3.931	2	
+Salako	Akinyele	Oyo	7.531	3.961	2	
+Sadauki	Kura	Kano	11.764	8.460	2	
+Sabon Gari Garewa	Minjibir	Kano	12.238	8.646	2	
+Sabon Gari Kwanderma	Minjibir	Kano	12.223	8.658	2	
+Sabon Gari Rimi	Minjibir	Kano	12.216	8.662	2	
+Sabon Gari Yanzaki	Minjibir	Kano	12.181	8.639	2	
+Sabon Gari Bagemu Garji	Minjibir	Kano	12.186	8.618	2	
+Sabon Gari Bagurawa	Minjibir	Kano	12.170	8.628	2	
+Sabon Gari Runfa	Minjibir	Kano	12.176	8.692	2	
+San Bauna	Minjibir	Kano	12.125	8.596	2	
+Sabon Gari Fako	Minjibir	Kano	12.159	8.619	2	
+Sabo	Bichi	Kano	12.210	8.281	2	
+Sabon Birni	Fagge	Kano	12.068	8.501	2	Rafin Mallam
+Sabon Gari Bagadawa	Dawakin Tofa	Kano	12.112	8.409	2	
+Sanni	Oluyole	Oyo	7.341	3.761	2	
+Sabon Gari Katsalle	Tofa	Kano	12.005	8.292	2	
+Sabon Dutsen Mai	Igabi	Kaduna	10.841	7.681	2	
+Sabon Gari	Keffi	Nasarawa	8.863	7.825	2	
+Sabon Sara	Sabon Birni	Sokoto	13.591	6.035	2	
+Nduku Sama	Mubi South	Adamawa	10.079	13.278	2	
+Sangere Pilefu	Hong	Adamawa	10.302	13.112	2	
+Sabte	Dikwa	Borno	11.837	14.274	2	
+Salasa	Kala-Balge	Borno	11.730	14.329	2	
+Samie	Dikwa	Borno	11.984	14.036	2	
+Saleri	Bama	Borno	11.766	14.206	2	
+Songopiri	Akuku Toru	Rivers	4.348	6.754	2	Sangapiri
+Sanikiri	Akuku Toru	Rivers	4.403	6.833	2	
+Sanusi	Ọ̀wọ̀	Ondo	7.011	5.622	2	
+Ago-Sangotus	Idanre	Ondo	7.165	5.078	2	
+Ipoba-Sama	Idanre	Ondo	7.176	5.102	2	
+Sabere Odo	Ọ̀wọ̀	Ondo	7.211	5.461	2	
+Sajiyan	Ọ̀wọ̀	Ondo	7.235	5.444	2	
+Sajiyan	Ọ̀wọ̀	Ondo	7.235	5.480	2	
+Sasere	Ọ̀wọ̀	Ondo	7.250	5.455	2	
+Saribi	Akure North	Ondo	7.254	5.305	2	
+Ago-Sasere	Emure	Ekiti	7.335	5.451	2	
+Ago-Samuel Ojilo	Emure	Ekiti	7.348	5.485	2	
+Sawo	Ise/Orun	Ekiti	7.510	5.464	2	
+Sarkin Kasuwa	Shelleng	Adamawa	10.026	12.056	2	
+Sabongari	Gombi	Adamawa	10.128	12.384	2	
+Sata	Hawul	Borno	10.289	12.064	2	
+Sangwa Bulama Ali	Shani	Borno	10.325	12.198	2	
+Sangwa Bulama Asuku	Shani	Borno	10.327	12.210	2	
+Sagra	Hawul	Borno	10.354	12.055	2	
+Samtam	Hawul	Borno	10.385	12.166	2	
+Saka	Konshisha	Benue	7.082	8.490	2	
+Saykia	Gwer West	Benue	7.581	8.152	2	
+Saior	Gwer West	Benue	7.719	8.357	2	
+Saior	Gwer West	Benue	7.774	8.252	2	
+Tungan Sabo	Bagudo	Kebbi	11.444	3.547	2	
+Sabon Gari	Arewa Dandi	Kebbi	12.596	3.886	2	
+Dutsin Sabtaka	Arewa Dandi	Kebbi	12.618	3.856	2	
+Ago Saiyemiyan	Ese Odo	Ondo	6.217	4.940	2	
+Sarki Daki	Zango	Katsina	12.908	8.620	2	
+Burudu Saboa	Baure	Katsina	12.871	8.610	2	
+Sabon Gari	Zango	Katsina	12.883	8.572	2	
+Dadin Sarki	Baure	Katsina	12.844	8.715	2	
+Sati	Baure	Katsina	12.823	8.939	2	
+Ungua Salau	Baure	Katsina	12.780	8.902	2	
+Ungua Sarki Pawa	Baure	Katsina	12.819	8.788	2	
+Woje Saboa	Babura	Jigawa	12.616	8.798	2	
+Jan Sa’a	Babura	Jigawa	12.637	8.834	2	
+Sabon Gari Dan Dinyan	Babura	Jigawa	12.531	8.814	2	
+Kankare Sarkin Gaya	Babura	Jigawa	12.520	8.915	2	
+Sabon Gari Yajile	Kazaure	Jigawa	12.705	8.681	2	
+Sabon Gari Sabuwa	Yankwashi	Jigawa	12.715	8.593	2	
+Sabon Gari Aunaka	Babura	Jigawa	12.669	8.719	2	
+Malikawan Safari	Bichi	Kano	12.377	8.148	2	
+Sabon Ruwa	Makoda	Kano	12.371	8.436	2	
+Salalawa	Tsanyawa	Kano	12.196	8.119	2	
+Sarkin Iya	Bagwai	Kano	12.139	8.078	2	
+Sabon Digawa	Garki	Jigawa	12.341	8.976	2	
+Digawa Sarki	Gabasawa	Kano	12.255	8.897	2	
+Sabon Gari Gididia	Ringim	Jigawa	12.238	8.991	2	
+Sabon Gari Kumbo	Gabasawa	Kano	12.197	8.896	2	
+Sarari	Gezawa	Kano	12.094	8.761	2	
+Dadin Sarki	Gwiwa	Jigawa	12.777	8.314	2	
+Saudawa	Ingawa	Katsina	12.734	8.124	2	
+Sada	Yankwashi	Jigawa	12.710	8.405	2	
+Sabaru	Kazaure	Jigawa	12.693	8.457	2	
+Sambawa	Mani	Katsina	12.813	7.835	2	
+Salumawa	Mani	Katsina	12.827	7.890	2	
+Sabon Gari	Rimi	Katsina	12.899	7.727	2	
+Sako	Charanchi	Katsina	12.643	7.762	2	
+Salgoriya	Charanchi	Katsina	12.665	7.611	2	
+Sabongari	Kurfi	Katsina	12.621	7.554	2	
+Sagawa	Kankia	Katsina	12.544	7.746	2	
+Ungwan Samai	Kankara	Katsina	12.041	7.442	2	
+Dan Sabo	Kankara	Katsina	12.016	7.413	2	
+Sali Hawa	Matazu	Katsina	12.217	7.538	2	
+Sabon Gari Gani	Musawa	Katsina	12.133	7.586	2	
+Sabon Lai	Musawa	Katsina	12.116	7.708	2	
+Ungwan Saidu	Musawa	Katsina	12.071	7.728	2	
+Gidan Sarikin Ushama	Rafi	Niger	10.325	6.143	2	
+Gidan Sarikan Dogari	Birnin Gwari	Kaduna	10.409	6.164	2	
+Gidan Sarikan-Ringa	Rafi	Niger	10.367	6.441	2	
+Gidan Sarikan Kokwa	Shiroro	Niger	10.396	6.840	2	
+Sabon Layi	Birnin Gwari	Kaduna	10.837	6.712	2	
+Gidan Saure	Mariga	Niger	10.643	6.104	2	
+Gidan Sarikin-Hauma	Mariga	Niger	10.648	6.034	2	
+Gidan Sarikin-Ubaru	Mariga	Niger	10.594	6.044	2	
+Gidan Sarikin Doma	Shiroro	Niger	10.176	6.431	2	
+Gidan Sarikan Sufana	Rafi	Niger	10.065	6.306	2	
+Gidan Sariki	Shiroro	Niger	10.018	6.575	2	
+Kurdula-Sabarumowa	Gudu	Sokoto	13.581	4.373	2	
+Durusa-Samna	Gudu	Sokoto	13.535	4.304	2	
+Tunga-Sabarumowa	Gudu	Sokoto	13.504	4.362	2	
+Sabangari	Arewa Dandi	Kebbi	13.155	4.351	2	
+Sabongari-Nagaruwaye	Tangaza	Sokoto	13.257	4.972	2	
+Sabarumowa	Gudu	Sokoto	13.449	4.147	2	
+Sabon Gari	Illela	Sokoto	13.578	5.399	2	
+Gidan Sauna	Illela	Sokoto	13.566	5.182	2	
+Gidan Salihu	Goronyo	Sokoto	13.508	5.776	2	
+Sangu	Gwadabawa	Sokoto	13.401	5.292	2	
+Sabon Gari	Gwadabawa	Sokoto	13.333	5.420	2	
+Sayawa	Wurno	Sokoto	13.303	5.391	2	
+Sabun Birnin	Wurno	Sokoto	13.187	5.492	2	Sabun Birni
+Sabaru	Rabah	Sokoto	13.156	5.643	2	
+Safarawa	Wamako	Sokoto	13.083	5.144	2	
+Sabori	Wamako	Sokoto	13.095	5.133	2	
+Saki	Kware	Sokoto	13.033	5.315	2	
+Tugan-Sayo	Borgu	Niger	10.804	4.296	2	
+Sabon Gandiga	Agwara	Niger	10.825	4.623	2	
+Tungan Sara	Magama	Niger	10.432	4.991	2	
+Sadawanka	Agwara	Niger	10.755	4.682	2	
+Sabongari Masawa	Illela	Sokoto	13.679	5.445	2	
+Sangalandam	Illela	Sokoto	13.601	5.366	2	
+Sabongari	Illela	Sokoto	13.521	5.482	2	
+Sabon Gari	Gada	Sokoto	13.678	5.778	2	
+Salamawa	Gada	Sokoto	13.591	5.568	2	
+Sabon Gari	Wurno	Sokoto	13.276	5.475	2	
+Runjin Sarkin Noma	Wamako	Sokoto	13.154	5.207	2	
+Sakin Doke	Wamako	Sokoto	13.134	5.237	2	
+Runjin Sambo	Wamako	Sokoto	13.056	5.202	2	
+Sarkin Noma	Kankara	Katsina	11.963	7.358	2	
+Sabaru	Kankara	Katsina	11.963	7.467	2	
+Sabon Gwarzo	Gwarzo	Kano	11.922	7.900	2	
+Ungwan Sauni	Kankara	Katsina	11.921	7.434	2	
+Sadara	Kankara	Katsina	11.912	7.364	2	
+Sabon Gari	Tsafe	Zamfara	11.934	7.067	2	
+Salihawa	Kankara	Katsina	11.828	7.367	2	
+Sarkin Fulani	Faskari	Katsina	11.786	7.239	2	
+Sani	Faskari	Katsina	11.765	7.074	2	
+Sabon Layi Nasarawa	Kafur	Katsina	11.732	7.866	2	
+Safale	Karaye	Kano	11.758	7.880	2	
+Sabon Layi	Kafur	Katsina	11.669	7.816	2	
+Ungwan Sarkin Aiki Ibiran	Faskari	Katsina	11.696	7.027	2	
+Miko Sarkin Fulani	Faskari	Katsina	11.623	7.316	2	
+Sabon Laye	Faskari	Katsina	11.571	7.019	2	
+Ungwan Sarki	Rogo	Kano	11.547	7.877	2	
+Sarkin Noma	Danja	Katsina	11.516	7.469	2	
+Salihu	Danja	Katsina	11.505	7.427	2	
+Sa Adu	Funtua	Katsina	11.499	7.326	2	
+Ungwan Salau	Funtua	Katsina	11.475	7.348	2	
+Ungwan Mallam Salla	Dandume	Katsina	11.493	7.199	2	
+Gidan Mallam Sani	Danja	Katsina	11.397	7.640	2	
+Sarkin Noma	Danja	Katsina	11.409	7.631	2	
+Gidan Sarkin Noma	Sabuwa	Katsina	11.346	7.063	2	
+Gidan Sarkin Noma	Funtua	Katsina	11.341	7.365	2	
+Ungwan Sarkin Fulani	Giwa	Kaduna	11.347	7.459	2	
+Sabon Gida	Dandume	Katsina	11.321	7.219	2	
+Ungwan Sani	Sabuwa	Katsina	11.255	7.152	2	
+Ungwan Sarkin Noma	Giwa	Kaduna	11.246	7.394	2	
+Ungwan Salihu	Kudan	Kaduna	11.230	7.753	2	
+Ungwan Sandu	Giwa	Kaduna	11.126	7.131	2	
+Ungwan Sabo	Sabuwa	Katsina	11.166	7.173	2	
+Ungwan Sadiku	Giwa	Kaduna	11.034	7.370	2	
+Ungwan Sarkin Kogi	Zaria	Kaduna	11.042	7.751	2	
+Ungwan Sarkin Rafi	Zaria	Kaduna	11.018	7.724	2	
+Ungwan Sani	Zaria	Kaduna	11.018	7.575	2	
+Sanda	Fakai	Kebbi	11.595	4.977	2	
+Dogan Sarki	Fakai	Kebbi	11.568	4.727	2	
+Tunga Sani	Bagudo	Kebbi	11.456	4.136	2	
+Tunga Sarkawa	Bagudo	Kebbi	11.466	4.035	2	
+Sabon Sara	Rijau	Niger	11.346	4.949	2	
+Tungan Alhai Sakar	Koko-Besse	Kebbi	11.392	4.374	2	
+Ungawa Sayin	Koko-Besse	Kebbi	11.377	4.362	2	
+Tunga Sakke	Koko-Besse	Kebbi	11.226	4.297	2	
+Sakaba	Rijau	Niger	11.152	4.851	2	
+Ungwan Sarkin Kudu	Alkaleri	Bauchi	10.247	10.322	2	
+Gidan Sarkin-Noma	Dukku	Gombe	10.397	10.969	2	
+Sayi	Tsafe	Zamfara	11.877	6.938	2	Umaru
+Ungwan Sarkin Baka	Faskari	Katsina	11.741	6.996	2	
+Hamma Sayo	Akko	Gombe	10.086	10.992	2	
+Ungwan Sarkin Makera	Faskari	Katsina	11.597	6.981	2	
+Sabon-Magama	Maru	Zamfara	11.381	6.501	2	
+Sabonwuri	Maru	Zamfara	11.197	6.500	2	
+Sabon-Kazage	Giwa	Kaduna	11.065	6.980	2	
+Ungwan Sani	Jega	Kebbi	12.294	4.373	2	
+Sabongari	Argungu	Kebbi	12.603	4.320	2	
+Sanatobo	Ekeremor	Bayelsa	4.934	5.721	2	
+Angwa Han-Han	Maru	Zamfara	11.340	6.478	2	Sanni
+Sangagbene	Southern Ijaw	Bayelsa	4.613	5.754	2	Sangogbene
+Sabarugbene	Southern Ijaw	Bayelsa	4.550	5.965	2	Sagbarugbene|Sagbatorugbene
+Sabon Gida	Borgu	Niger	10.476	3.901	2	
+Tungan Saru	Borgu	Niger	10.418	3.893	2	
+Samkiri	Degema	Rivers	4.540	7.052	2	
+Sanai	Bonny	Rivers	4.498	7.305	2	
+Saa Berri	Khana	Rivers	4.700	7.423	2	
+Sagi	Kiru	Kano	11.708	8.188	2	
+Gidan Saidu	Ikara	Kaduna	11.415	8.104	2	
+Gidan Sarkin Noma	Kiru	Kano	11.392	8.244	2	
+Ungwan Mallam Sale	Tudun Wada	Kano	11.377	8.379	2	
+Ungwan Sarkin Noma Hanau	Ikara	Kaduna	11.195	8.142	2	
+Ungwan Sarki	Ikara	Kaduna	11.180	8.208	2	
+Saran-Ladan	Tudun Wada	Kano	11.211	8.515	2	
+Samagidi	Ughelli North	Delta	5.584	6.081	2	
+Samabn	Sagbama	Bayelsa	5.315	6.458	2	
+Sapele	Isoko South	Delta	5.322	6.295	2	
+Saniagi Abueto	Sagbama	Bayelsa	5.295	6.422	2	
+Sagbama I	Sagbama	Bayelsa	5.186	6.210	2	
+Sagbama II	Sagbama	Bayelsa	5.183	6.210	2	
+Sagbama III	Sagbama	Bayelsa	5.180	6.210	2	
+Aduezi	Sagbama	Bayelsa	5.152	6.189	2	Sagbama
+Obuare	Sagbama	Bayelsa	5.164	6.203	2	Sagbama
+Ndiemazi	Sagbama	Bayelsa	5.162	6.201	2	Sagbama
+Sampor	Kolokuma/Opokuma	Bayelsa	5.146	6.356	2	
+Okoloba Sabagria	Kolokuma/Opokuma	Bayelsa	5.039	6.243	2	
+Sabuwa	Sabuwa	Katsina	11.300	7.117	2	Agbegbe Ijoba Ibile Sabuwa|sbwa
+Saki West	Saki West	Oyo	8.570	3.147	2	Iwooorun Saki|Saki Ouest|Saki ta Yamma|Se Saki
+Sakaba	Sakaba	Kebbi	11.162	5.541	2	Agbegbe Ijoba Ibile Sakaba|Sakaba Local Government Area
+Sabon Birni	Sabon Birni	Sokoto	13.485	6.264	2	Sabon Birni Local Government Area|Sabon-Birni
+Batsari	Batsari	Katsina	12.779	7.234	2	Agbegbe Ijoba Ibile Batsari|Batsari Local Government Area|ba te sa li
+Sandamu	Sandamu	Katsina	12.897	8.364	2	Agbegbe Ijoba Ibile Sandamu|Sandamu Local Government Area
+Safana	Safana	Katsina	12.495	7.253	2	Safana Local Government Area
+Saki East	Saki East	Oyo	8.705	3.589	2	Ilaoorun Saki|Saki East Local Government Area|Saki Est|Saki ta Gabas|Tang Saki
+Sapele	Sapele	Delta	5.826	5.654	2	Sapele Local Government Area
+Sardauna	Sardauna	Taraba	6.875	11.212	2	Sardauna Local Government Area
+Sabongari	Fufore	Adamawa	9.585	13.025	2	
+Sabongari Madela	Song	Adamawa	9.601	13.016	2	
+Jalingo Sadu	Maiha	Adamawa	9.996	13.093	2	
+Sag	Maiha	Adamawa	9.784	13.116	2	
+Wuro Sarki Ayi	Maiha	Adamawa	9.692	13.164	2	
+Sabongari	Maiha	Adamawa	9.771	13.256	2	
+Sabo Daba	Kukawa	Borno	13.253	13.503	2	
+Sabo Daba	Kukawa	Borno	13.212	13.538	2	
+Malum Saleri	Guzamala	Borno	13.017	13.284	2	
+Bokko Sato Clan	Gwoza	Borno	11.143	13.795	2	
+Hilli Skh Said	Gwoza	Borno	11.315	13.924	2	
+Salairi	Mafa	Borno	11.937	13.737	2	
+Saboline	Fika	Yobe	11.316	11.098	2	
+Sabon Layi	Nafada	Gombe	11.091	11.125	2	
+Sabon Layi	Fika	Yobe	11.132	11.476	2	
+Jirgin Sama	Jos North	Plateau	9.884	8.955	2	
+Sabon Baraki	Jos South	Plateau	9.818	8.858	2	
+Sabon Gari	Jos East	Plateau	9.840	8.979	2	
+Sabon Gwong	Jos North	Plateau	9.928	8.902	2	
+Samo	Asari-Toru	Rivers	4.805	6.854	2	
+Saka	Gwer East	Benue	7.270	8.481	2	
+Sarkin Noma	Gassol	Taraba	8.488	10.673	2	
+Sarkin Noma Dali	Gassol	Taraba	8.292	10.589	2	
+Sabon Birni	Anka	Zamfara	11.728	6.109	2	
+Sabsabuwa	Nganzai	Borno	12.569	13.073	2	
+Sakwaya	Dutse	Jigawa	11.739	9.227	2	
+Salewa	Tangaza	Sokoto	13.546	5.107	2	
+Sabaru	Kazaure	Jigawa	12.674	8.438	2	
+Sabon Gari	Miga	Jigawa	12.292	9.652	2	
+Sarbi	Minjibir	Kano	12.266	8.688	2	
+Rurum Sabon Gari	Rano	Kano	11.516	8.470	2	
+Saji	Rano	Kano	11.462	8.564	2	
+Sabon Gari East	Fagge	Kano	12.019	8.540	2	
+Kureken Sani	Kumbotso	Kano	11.920	8.584	2	
+Safana	Charanchi	Katsina	12.703	7.757	2	
+Sayaya	Matazu	Katsina	12.308	7.604	2	
+Sabon Gari	Rimi	Katsina	12.744	7.760	2	
+Sabuwa B	Sabuwa	Katsina	11.195	7.094	2	
+Sarka	Arewa Dandi	Kebbi	12.956	4.415	2	
+Illo Sabon Gari	Bagudo	Kebbi	11.444	3.792	2	
+Sarandosa	Maiyama	Kebbi	12.001	4.355	2	
+Sakace	Shanga	Kebbi	10.999	4.825	2	
+Sawashi	Shanga	Kebbi	11.094	4.695	2	
+Karfe Sarki	Gudu	Sokoto	13.329	4.499	2	
+Romo Sarki	Tambuwal	Sokoto	12.204	4.632	2	
+Sabon Birni	Tambuwal	Sokoto	12.158	4.584	2	
+Sarkin Hausawa	Barde	Yobe	12.837	11.047	2	
+Sasawa Kabaru	Ngelzarma	Yobe	11.837	11.986	2	
+Danfani Sabon Birni	Birnin Magaji-Kiyaw	Zamfara	12.555	6.978	2	
+Sabzuro	Jaba	Kaduna	9.478	7.994	2	
+Saya_Saya	Ikara	Kaduna	11.205	8.369	2	
+Sabon Birnin	Igabi	Kaduna	10.834	7.383	2	
+Sabon Gari North	Kaduna South	Kaduna	10.513	7.401	2	
+Sarkin Kura	Kura	Kano	11.761	8.435	2	
+Safana	Safana	Katsina	12.378	7.377	2	
+Sangi	Kebbe	Sokoto	11.809	4.776	2	
+Sarma	Misau	Bauchi	11.470	10.660	2	
+Sade West	Darazo	Bauchi	11.232	10.628	2	
+Sakwa	Zaki	Bauchi	12.101	10.276	2	
+Saitu	Logo	Benue	7.779	9.242	2	
+Saaor	Buruku	Benue	7.502	9.110	2	
+Sarko	Logo	Benue	7.542	9.405	2	
+Sahagu	Wukari	Taraba	7.894	9.680	2	
+Tse Saka	Wukari	Taraba	7.794	9.772	2	
+Sabon Gida	Wukari	Taraba	7.765	9.758	2	Sabongida
+Salem	Wukari	Taraba	7.929	9.868	2	
+Sabon Ayua	Wukari	Taraba	7.693	9.741	2	
+Salemga	Ukum	Benue	7.565	9.748	2	
+Saachia	Gboko	Benue	7.264	9.084	2	
+Saaondo	Gboko	Benue	7.363	9.113	2	
+Saaondo	Buruku	Benue	7.324	9.202	2	
+Saakula	Logo	Benue	7.476	9.276	2	
+Saka	Buruku	Benue	7.430	9.310	2	
+Sarem	Katsina-Ala	Benue	7.357	9.483	2	
+Sarwuan	Buruku	Benue	7.208	9.070	2	
+Saaondo	Ushongo	Benue	7.135	9.026	2	
+Sarwuan	Ushongo	Benue	7.127	9.062	2	
+Saka	Ushongo	Benue	7.114	9.266	2	
+Saakula	Gboko	Benue	7.480	8.905	2	
+Saa	Gboko	Benue	7.433	8.994	2	
+Saa	Gboko	Benue	7.426	8.867	2	
+Saatim	Gboko	Benue	7.414	8.897	2	
+Sado	Gboko	Benue	7.389	8.964	2	
+Saar	Gboko	Benue	7.370	8.867	2	
+Saave	Ushongo	Benue	7.266	8.927	2	
+Saa Songo	Gboko	Benue	7.300	8.847	2	
+Saa	Gboko	Benue	7.286	8.767	2	
+Sakiri	Nembe	Bayelsa	4.452	6.350	2	
+Sakiwa	Gbako	Niger	9.451	5.995	2	
+Saganuwa	Gbako	Niger	9.412	5.983	2	
+Santali	Lavun	Niger	9.390	5.758	2	
+Sabo	Gbako	Niger	9.337	5.934	2	
+Saganuwa	Gbako	Niger	9.276	5.996	2	
+Satifu	Lavun	Niger	9.218	5.760	2	
+Sadebunu	Gbako	Niger	9.168	5.970	2	
+Garin Sarki	Karasuwa	Yobe	13.006	10.867	2	
+Sabon Dagga	Bosso	Niger	9.483	6.485	2	
+Sabongida	Katcha	Niger	9.404	6.485	2	
+T Sarki	Gbako	Niger	9.372	6.061	2	
+Mamma Sani	Gbako	Niger	9.345	6.046	2	
+Sala-Zagi	Gbako	Niger	9.299	6.052	2	
+Sadu Kashe	Gbako	Niger	9.290	6.068	2	
+Wachin Saba	Gbako	Niger	9.223	6.020	2	
+Sabon Asanyi	Agaie	Niger	9.119	6.387	2	
+Saji	Katcha	Niger	9.143	6.282	2	
+Santigi	Gbako	Niger	9.143	6.143	2	
+Sakiwa	Edati	Niger	9.111	6.111	2	
+Wachin Saba	Gbako	Niger	9.143	6.109	2	
+Salawo	Gbako	Niger	9.126	6.053	2	
+Saci	Edati	Niger	9.076	6.048	2	
+Sabon-Tipo	Agaie	Niger	9.034	6.466	2	
+Sapai	Paikoro	Niger	9.451	6.691	2	
+Sabokwalata	Paikoro	Niger	9.409	6.871	2	
+Sabon Gwari	Paikoro	Niger	9.275	6.620	2	
+Sabon Gwari	Paikoro	Niger	9.268	6.613	2	
+Maira Sara	Wushishi	Niger	9.707	6.062	2	
+Sanakpan	Bosso	Niger	9.569	6.494	2	
+Satabawa	Machina	Yobe	13.116	10.062	2	Gojoguro
+Gidan Sama	Shiroro	Niger	9.942	6.706	2	
+Gidan Yarima Sama	Shiroro	Niger	9.881	6.504	2	
+Gidan Sabon Gijiwa	Shiroro	Niger	9.891	6.581	2	
+Gidan Sangka	Shiroro	Niger	9.882	6.572	2	
+Gidan Sabuko	Shiroro	Niger	9.838	6.747	2	
+Maidaki Sasa	Shiroro	Niger	9.826	6.703	2	
+Gidan Sarikin Maso	Shiroro	Niger	9.823	6.645	2	
+Gidan Sarikin Nama	Bosso	Niger	9.777	6.534	2	
+Gidan Sata	Shiroro	Niger	9.930	6.810	2	
+Gidan Sagwana	Shiroro	Niger	9.938	6.779	2	
+Sarabwa	Shiroro	Niger	9.826	6.783	2	
+Samachi	Shiroro	Niger	9.799	6.818	2	
+Gidan Satuko	Munya	Niger	9.702	6.899	2	
+Kugnayi Sapa	Munya	Niger	9.622	6.884	2	
+Gidan Saudna	Munya	Niger	9.603	6.935	2	
+Samma Ekoshakwata	Bosso	Niger	9.668	6.628	2	
+Sannu	Chanchaga	Niger	9.634	6.513	2	
+Sale	Chanchaga	Niger	9.589	6.533	2	
+Sapitya	Chanchaga	Niger	9.597	6.572	2	
+Sabon Gari Supa	Bosso	Niger	9.569	6.649	2	
+Sabongari	Bosso	Niger	9.544	6.590	2	
+Sauke	Bosso	Niger	9.578	6.551	2	
+Sate Jauro Hamalua	Mayo-Belwa	Adamawa	8.974	12.088	2	
+Sate Jauro Bila	Mayo-Belwa	Adamawa	8.977	12.082	2	
+Sate Lawan	Mayo-Belwa	Adamawa	8.970	12.091	2	
+Sabon Gari	Bwari	FCT Abuja	9.266	7.370	2	
+Satellite Town	Amuwo Odofin	Lagos	6.444	3.252	2	
+Wuro Samega	Jada	Adamawa	8.684	12.275	2	
+Sanpoko	Jada	Adamawa	8.651	12.345	2	
+Sabon Layi	Jada	Adamawa	8.569	12.356	2	
+Sayil	Fufore	Adamawa	9.000	12.429	2	
+Sangere	Fufore	Adamawa	8.858	12.408	2	
+Sangara	Jada	Adamawa	8.663	12.414	2	
+Sanla	Jada	Adamawa	8.744	12.469	2	
+Angwan Sarkin Awari	Paikoro	Niger	9.530	7.074	2	
+Sahuma	Paikoro	Niger	9.542	7.004	2	
+Gidan-Sarkin Koda	Munya	Niger	9.915	7.044	2	
+Satellite	Amuwo Odofin	Lagos	6.455	3.244	2	
+Sari	Apapa	Lagos	6.476	3.351	2	
+Savage	Surulere	Lagos	6.484	3.345	2	
+Sanusi	Surulere	Lagos	6.500	3.333	2	
+Santos Ilupeju	Alimosho	Lagos	6.598	3.307	2	
+Sango	Agege	Lagos	6.616	3.330	2	
+Salami Baiyewunmi	Lagos Mainland	Lagos	6.508	3.389	2	
+Sangotedo	Eti Osa	Lagos	6.469	3.614	2	
+Sadelafia	Kagarko	Kaduna	9.405	7.898	2	
+Gidan Sarki	Kagarko	Kaduna	9.384	7.810	2	
+Ndofa Sarki	Jaba	Kaduna	9.344	7.982	2	
+Gidan Sarkinago	Kagarko	Kaduna	9.313	7.881	2	
+Sabon Gida	Karu	Nasarawa	9.226	7.860	2	
+Sabon-Gida	Kagarko	Kaduna	9.402	7.703	2	
+Katembi Sarki	Kachia	Kaduna	9.679	7.517	2	
+Gidan Sarki Gitata	Karu	Nasarawa	9.109	7.956	2	
+Sakusum	Mayo-Belwa	Adamawa	8.929	11.950	2	
+Sabon Gari	Mayo-Belwa	Adamawa	8.728	11.931	2	
+Sanyiri	Ganye	Adamawa	8.536	11.941	2	
+Sangubi	Ganye	Adamawa	8.502	11.960	2	
+Garin Sarkin Noma	Ardo-Kola	Taraba	8.786	11.002	2	
+Sarkin Noma	Ardo-Kola	Taraba	8.836	11.167	2	
+Sawa	Ardo-Kola	Taraba	8.922	11.213	2	
+Sabongari	Ardo-Kola	Taraba	8.856	11.242	2	
+Sankali	Ardo-Kola	Taraba	8.704	11.238	2	
+Sarkin Dutse	Ardo-Kola	Taraba	8.795	11.274	2	
+Sawa	Jalingo	Taraba	8.929	11.326	2	
+Sawai	Jalingo	Taraba	8.924	11.351	2	
+Sazoin	Ardo-Kola	Taraba	8.827	11.343	2	
+Santi	Yorro	Taraba	8.986	11.379	2	
+Sabangari Gebi	Yorro	Taraba	8.969	11.392	2	
+Sanbe	Jalingo	Taraba	8.823	11.398	2	
+Sani	Ardo-Kola	Taraba	8.809	11.408	2	
+Sawa	Ardo-Kola	Taraba	8.774	11.378	2	
+Jauro Sanya	Ardo-Kola	Taraba	8.788	11.396	2	
+Sabu	Ardo-Kola	Taraba	8.692	11.496	2	
+Sabongari Garga	Gassol	Taraba	8.519	10.689	2	
+Sabon Barjanga	Gassol	Taraba	8.570	10.729	2	
+Sabongida	Gassol	Taraba	8.761	10.884	2	
+Kwatan Sabongari	Gassol	Taraba	8.742	10.793	2	
+Kwatan Sabongari	Gassol	Taraba	8.733	10.781	2	
+Garin Sarki	Gassol	Taraba	8.636	10.776	2	
+Gungu Sanbo	Ibi	Taraba	8.693	10.295	2	
+Samlong	Shendam	Plateau	8.793	9.541	2	
+Sada	Shendam	Plateau	8.812	9.570	2	
+Sakani	Shendam	Plateau	8.881	9.724	2	
+Sabo	Shendam	Plateau	8.827	9.686	2	
+Samunaka	Shendam	Plateau	8.750	9.699	2	
+Sabon Lai	Mikang	Plateau	8.965	9.779	2	
+Gani-Sarki	Sanga	Kaduna	9.247	8.379	2	
+Gwado Sarki	Sanga	Kaduna	9.169	8.449	2	
+Ancha Sarki	Sanga	Kaduna	9.173	8.431	2	
+Ungwan Sanka	Sanga	Kaduna	9.084	8.486	2	
+Ningo Sarki	Akwanga	Nasarawa	9.007	8.389	2	
+Anjidan Sarki	Akwanga	Nasarawa	9.055	8.254	2	
+Sabon Bariki	Jema'A	Kaduna	9.432	8.368	2	
+Ambe Sarki	Sanga	Kaduna	9.291	8.438	2	
+Ungwan Sarki Noma Miski	Sanga	Kaduna	9.197	8.179	2	
+Ungwan Sarki Ara	Sanga	Kaduna	9.229	8.226	2	
+Ungwan Dogo	Sanga	Kaduna	9.105	8.176	2	Sabon Buja
+Ungwan Magaji Sarki Kwara	Sanga	Kaduna	9.058	8.158	2	
+Sada	Sanga	Kaduna	9.081	8.184	2	
+Ungwan Jibrin Sada	Sanga	Kaduna	9.078	8.182	2	
+Ungwan Jatau Sada	Sanga	Kaduna	9.078	8.189	2	
+Samban Daji	Jema'A	Kaduna	9.465	8.089	2	
+Sabon Gidan Kwoi	Jaba	Kaduna	9.432	8.011	2	
+Sazuwat	Zangon Kataf	Kaduna	9.942	8.264	2	
+Sashiyat	Zangon Kataf	Kaduna	9.925	8.313	2	
+Sako	Zangon Kataf	Kaduna	9.889	8.402	2	
+Sabon Gini	Zangon Kataf	Kaduna	9.875	8.457	2	
+Sabon Kaura	Zangon Kataf	Kaduna	9.924	8.419	2	
+Sanzom	Zangon Kataf	Kaduna	9.785	8.273	2	
+Sansun	Zangon Kataf	Kaduna	9.706	8.302	2	
+Sabongari Kanem	Zangon Kataf	Kaduna	9.627	8.267	2	
+Kurmin Sara	Kachia	Kaduna	9.733	8.014	2	
+Santa	Kachia	Kaduna	9.711	8.053	2	
+Gidan Sani	Jaba	Kaduna	9.613	8.103	2	
+Ungwan Sambo	Jaba	Kaduna	9.569	8.009	2	
+Ungwan Sarkin Chori	Jaba	Kaduna	9.535	8.038	2	
+Sarkin Chori	Jaba	Kaduna	9.538	8.040	2	
+Sabon Gida	Qua'An Pan	Plateau	8.707	9.154	2	
+Sabon-Gida	Qua'An Pan	Plateau	8.593	9.270	2	
+Sabongida-Mulikikai	Shendam	Plateau	8.596	9.334	2	
+Kuwana Sareki	Shendam	Plateau	8.841	9.477	2	
+Saraden	Jos East	Plateau	9.984	9.136	2	Saradan
+Sabachi	Warri North	Delta	5.878	5.214	2	
+Salabagu	Demsa	Adamawa	9.459	12.179	2	
+Sakamidari	Demsa	Adamawa	9.424	12.059	2	
+Sabongari Garkida	Demsa	Adamawa	9.433	12.076	2	
+Sangere	Yola North	Adamawa	9.289	12.342	2	
+Hossere Sabana Hamlets	Yola North	Adamawa	9.326	12.232	2	
+Samre	Fufore	Adamawa	9.174	12.240	2	
+Wuro Mallam Sabo	Demsa	Adamawa	9.281	12.035	2	
+Sangere Umaru	Demsa	Adamawa	9.234	12.134	2	
+Wuro Sam	Fufore	Adamawa	9.034	12.071	2	
+Ngurore Sanda	Fufore	Adamawa	9.037	12.128	2	
+Jauro Sadu	Fufore	Adamawa	9.064	12.089	2	
+Sarmana	Fufore	Adamawa	9.065	12.102	2	
+Sabongari	Fufore	Adamawa	9.120	12.149	2	
+Sarab	Yola North	Adamawa	9.100	12.495	2	
+Sarab Hamlets	Yola North	Adamawa	9.119	12.486	2	
+Sabongari Yahayaji	Girei	Adamawa	9.380	12.401	2	
+Sayuti	Lau	Taraba	9.226	11.674	2	
+Saponti	Mayo-Belwa	Adamawa	9.161	11.708	2	
+Sandan	Mayo-Belwa	Adamawa	9.091	11.738	2	
+Jauro-Saje	Lau	Taraba	9.073	11.506	2	
+Mbamnga-Sabonlayi	Lau	Taraba	9.183	11.603	2	
+Santuraki	Lau	Taraba	9.201	11.671	2	
+Sabon Gari	Demsa	Adamawa	9.349	11.854	2	
+Sabon Guri	Demsa	Adamawa	9.217	11.814	2	
+Zuse Sama	Demsa	Adamawa	9.200	11.785	2	
+Sanaboki	Mayo-Belwa	Adamawa	9.167	11.842	2	
+Samari	Mayo-Belwa	Adamawa	9.059	11.781	2	
+Sanwan	Mayo-Belwa	Adamawa	9.170	11.864	2	
+Saifuri	Kala-Balge	Borno	12.254	14.478	2	
+Safiyo	Wamba	Nasarawa	9.010	8.610	2	
+Safiyo	Wase	Plateau	9.193	10.267	2	Safio
+Sarkin Yaki Mala	Alkaleri	Bauchi	9.681	10.737	2	Sabon Yaki Mallam
+Sabon Layi	Karim Lamido	Taraba	9.470	10.967	2	
+Sau	Karim Lamido	Taraba	9.423	10.981	2	
+Sarkin Yamma	Karim Lamido	Taraba	9.371	10.999	2	
+Sabon Gari	Karim Lamido	Taraba	9.350	10.766	2	
+Sarkin Yamma	Karim Lamido	Taraba	9.316	10.936	2	
+Zo Samma	Karim Lamido	Taraba	9.463	11.173	2	
+Lo Samma	Karim Lamido	Taraba	9.472	11.193	2	
+Sara	Karim Lamido	Taraba	9.392	11.131	2	
+Salapam	Karim Lamido	Taraba	9.358	11.102	2	
+Salla Mikala	Karim Lamido	Taraba	9.358	11.137	2	
+Sarkin Fada	Karim Lamido	Taraba	9.328	11.224	2	
+Ungwar Sabo	Karim Lamido	Taraba	9.315	11.156	2	
+Ungwar Sale	Karim Lamido	Taraba	9.289	11.104	2	
+Sabon Garin Narabi	Toro	Bauchi	10.391	9.169	2	
+Rugan Sandoro	Kalgo	Kebbi	12.284	4.002	2	
+Sandare Karimi	Kalgo	Kebbi	12.482	4.030	2	
+Sangoloni	Ibarapa Central	Oyo	7.346	3.324	2	
+Sangote	Odeda	Ogun	7.308	3.442	2	
+Sanda	Egbeda	Oyo	7.418	4.049	2	
+Sarumi	Egbeda	Oyo	7.351	4.040	2	
+Sango	Ona Ara	Oyo	7.263	4.033	2	
+Idi-Oro-Sanni	Ona Ara	Oyo	7.217	4.053	2	
+Ti-Sanni	Ijebu North	Ogun	7.037	4.034	2	
+Moborode-Sanni	Ijebu North	Ogun	7.109	4.124	2	
+Safejo	Isokan	Osun	7.246	4.106	2	
+Araro-Sanni	Isokan	Osun	7.227	4.101	2	
+Sango-Dapo	Isokan	Osun	7.234	4.115	2	
+Sango-Sadiku	Isokan	Osun	7.241	4.120	2	
+Sanni	Ona Ara	Oyo	7.290	4.093	2	
+Amula-Samu	Isokan	Osun	7.302	4.178	2	
+Aworin-Sadiku	Isokan	Osun	7.299	4.167	2	
+Bale-Sango	Irewole	Osun	7.440	4.232	2	
+Sa-Akin	Irewole	Osun	7.424	4.231	2	
+Samu	Aiyedade	Osun	7.197	4.377	2	
+Samu-Deji	Ife North	Osun	7.469	4.435	2	
+Bale-Sango	Ife North	Osun	7.407	4.418	2	
+Saki	Ede South	Osun	7.632	4.538	2	
+Sabo	Atakunmosa West	Osun	7.536	4.678	2	
+Saki	Atakunmosa West	Osun	7.625	4.548	2	
+Sangoyemi	Atakunmosa West	Osun	7.645	4.595	2	
+Saba	Olorunda	Osun	7.867	4.604	2	
+Aba Sawe	Atakunmosa West	Osun	7.663	4.635	2	
+Sasore	Atakunmosa West	Osun	7.651	4.634	2	
+Safari	Atakunmosa West	Osun	7.587	4.696	2	
+Sara	Boripe	Osun	7.829	4.661	2	
+Sabo Fulani	Ifelodun	Osun	7.956	4.716	2	
+Sabo	Odo Otin	Osun	7.963	4.659	2	
+Saloro	Ijero	Ekiti	7.815	4.997	2	
+Oja-Orita Sawonjo	Yewa North	Ogun	7.097	2.971	2	
+Salau	Yewa North	Ogun	7.167	2.967	2	
+Sanda Hungbo	Ado Odo/Ota	Ogun	6.548	2.913	2	
+Uki-Sama	Fufore	Adamawa	9.057	12.517	2	Uki Sama
+Sabere	Fufore	Adamawa	9.233	12.863	2	
+Sawun-Shamba	Fufore	Adamawa	9.010	12.813	2	Sawun Shamba
+Sanire	Fufore	Adamawa	9.084	12.689	2	
+Sabongari-Njidda	Fufore	Adamawa	9.273	12.719	2	Sabongari Njidda
+Sangere Adamu	Girei	Adamawa	9.347	12.508	2	
+Sabere	Girei	Adamawa	9.388	12.555	2	
+Sangere-Njidda	Girei	Adamawa	9.405	12.559	2	Sangere Njidda
+Sangere-Usmanu	Girei	Adamawa	9.480	12.583	2	Sangere Usmanu
+Sanu	Baruten	Kwara	9.831	3.474	2	
+Zion-Sahayi	Ilaje	Ondo	6.049	4.840	2	
+Saki Clan Settlement	Saki West	Oyo	8.620	3.411	2	
+Sakitoro	Saki West	Oyo	8.663	3.378	2	
+Aba Balogun Saga	Ife East	Osun	7.494	4.628	2	
+Saga	Ife East	Osun	7.486	4.630	2	
+Sakondo	Ife South	Osun	7.313	4.562	2	
+Sanmi	Ife South	Osun	7.231	4.510	2	
+Ajebandele-Sanmi	Ife South	Osun	7.253	4.551	2	
+Sanni	Ife South	Osun	7.130	4.637	2	
+Samu	Atakunmosa West	Osun	7.258	4.718	2	
+Ago-Sade	Ondo West	Ondo	7.020	4.644	2	
+Sakiu	Ondo West	Ondo	7.014	4.684	2	
+Sade	Ile Oluji/Okeigbo	Ondo	7.288	4.828	2	
+Moferere Sama	Ile Oluji/Okeigbo	Ondo	7.273	4.813	2	
+Awo-Sama	Ile Oluji/Okeigbo	Ondo	7.265	4.865	2	
+Sasere	Ondo West	Ondo	7.169	4.834	2	
+Sasere-Aiyeferere	Ondo East	Ondo	7.050	4.994	2	
+Sasere Lemoso	Ile Oluji/Okeigbo	Ondo	7.209	4.970	2	
+Sasere Ajebamibo	Ile Oluji/Okeigbo	Ondo	7.211	4.974	2	
+Salako	Ori Ire	Oyo	8.154	4.163	2	
+Sansan	Ori Ire	Oyo	8.435	4.260	2	
+Saka	Asa	Kwara	8.492	4.471	2	
+Saka	Asa	Kwara	8.452	4.345	2	
+Sanusi	Surulere	Oyo	8.188	4.334	2	
+Sapati	Surulere	Oyo	8.008	4.402	2	
+Sapana	Odeda	Ogun	7.174	3.519	2	
+Sagutan	Obafemi Owode	Ogun	7.108	3.570	2	
+Sadolu	Obafemi Owode	Ogun	7.078	3.575	2	
+Sapala-Adebesin	Odeda	Ogun	7.151	3.616	2	
+Sato	Odeda	Ogun	7.184	3.691	2	
+Sarki Toudou Saboua	Guidan Roumdji	Sokoto	13.605	6.462	2	Dan Dela
+Sabojeganna	Kaiama	Kwara	9.523	3.909	2	
+Baba-Sale	Moro	Kwara	8.832	4.315	2	
+Safari	Moro	Kwara	8.793	4.425	2	
+Salako	Moro	Kwara	8.694	4.375	2	
+Sangote	Ori Ire	Oyo	8.552	4.154	2	
+Baba-Sango	Ibarapa North	Oyo	7.577	3.066	2	
+Sabon Gari	Bali	Taraba	8.501	11.567	2	
+Sabon Gari	Kalgo	Kebbi	12.487	4.063	2	
+Sangote	Ifelodun	Kwara	8.499	5.026	2	
+Sabaja-Ajegunle	Isin	Kwara	8.298	5.036	2	
+Sabongari	Lapai	Niger	8.421	6.608	2	
+Sakaruku	Kogi	Kogi	8.229	6.741	2	
+Sako	Nasarawa Egon	Nasarawa	8.769	8.634	2	
+Sabon Gida	Qua'An Pan	Plateau	8.786	8.959	2	
+Saminya	Lafia	Nasarawa	8.622	8.769	2	
+Akurba-Sanya	Lafia	Nasarawa	8.555	8.589	2	
+Sabanggida	Lafia	Nasarawa	8.530	8.519	2	
+Baba-Sale	Asa	Kwara	8.246	4.542	2	
+Ago-Salami	Offa	Kwara	8.133	4.667	2	
+Angwan Samiki	Kokona	Nasarawa	8.885	8.213	2	
+Sabon Gida	Kokona	Nasarawa	8.848	8.014	2	
+Angwan Saki	Kokona	Nasarawa	8.809	8.098	2	
+Sango	Kokona	Nasarawa	8.752	8.092	2	
+Sabon Gida	Kokona	Nasarawa	8.784	8.015	2	
+Jagun-Sagbo	Ìsẹ́yìn	Oyo	7.816	3.557	2	
+Saakin	Oyo West	Oyo	7.872	3.756	2	
+Sakin	Afijio	Oyo	7.827	3.745	2	
+Sakutu	Afijio	Oyo	7.811	3.754	2	
+Sari	Afijio	Oyo	7.757	3.922	2	
+Sabala	Ifelodun	Kwara	8.474	4.837	2	
+Budo Saidu	Moro	Kwara	9.043	4.840	2	BudoSaidu
+Buca Salami	Moro	Kwara	9.037	4.809	2	BucaSalami
+Sarkin Ruwa	Mokwa	Niger	9.211	4.877	2	SarkinRuwa
+Gidar Sana	Mokwa	Niger	9.205	4.854	2	Chikanji|GidarSana
+Sado	Atiba	Oyo	7.988	4.006	2	
+Samu	Afijio	Oyo	7.832	4.012	2	
+Ebun-Sango	Ogo Oluwa	Oyo	7.884	4.107	2	
+Salamotu	Orolu	Osun	7.917	4.458	2	
+Sango-Tede	Egbedore	Osun	7.819	4.392	2	
+Saakoto	Nasarawa	Nasarawa	8.447	8.199	2	
+Gidan Sana	Nasarawa	Nasarawa	8.212	8.112	2	
+Sangbum	Ganye	Adamawa	8.302	12.049	2	
+Sabta Yia	Ganye	Adamawa	8.445	12.296	2	SabtaYia
+Santasa	Ganye	Adamawa	8.436	12.035	2	
+Jauro-Sambo	Teungo	Adamawa	8.173	12.053	2	Jauro Sambo|JauroSambo
+Saadu	Ganye	Adamawa	8.296	12.069	2	
+Sambaki	Ganye	Adamawa	8.304	12.011	2	
+Sabon Gari	Teungo	Adamawa	8.085	12.027	2	SabonGari
+Sapeo	Jada	Adamawa	8.451	12.382	2	
+Sankolum	Ganye	Adamawa	8.425	12.021	2	
+Sarkin Barika	Bali	Taraba	8.401	11.377	2	SarkinBarika
+Garkin Sarkin	Bali	Taraba	8.330	11.058	2	GarkinSarkin
+Sanjabi	Ganye	Adamawa	8.454	11.986	2	
+Samjorom	Ganye	Adamawa	8.438	11.995	2	
+Santiyela	Ganye	Adamawa	8.374	11.969	2	
+Sandasini	Ganye	Adamawa	8.460	11.980	2	
+Sanguding	Ganye	Adamawa	8.441	11.990	2	
+Sanga	Ganye	Adamawa	8.410	11.980	2	
+Sankurum	Ganye	Adamawa	8.483	11.925	2	
+Sabam	Ganye	Adamawa	8.431	11.942	2	
+Sandoni	Ganye	Adamawa	8.440	11.938	2	
+Sankeni	Ganye	Adamawa	8.424	11.988	2	
+Sabon Gari	Teungo	Adamawa	8.145	11.971	2	SabonGari
+Sanglimbi	Ganye	Adamawa	8.358	11.979	2	
+Sameri	Ganye	Adamawa	8.425	11.956	2	
+Sangera	Song	Adamawa	9.903	12.397	2	
+Sango	Song	Adamawa	9.871	12.307	2	
+Wuro Sarkin Baka	Song	Adamawa	9.778	12.497	2	WuroSarkinBaka
+Wuro Jauro Sale	Shelleng	Adamawa	9.843	12.049	2	WuroJauroSale
+Wuro Jauro Sale	Guyuk	Adamawa	9.650	12.004	2	WuroJauroSale
+Saugere Sadu	Song	Adamawa	9.981	12.631	2	SaugereSadu
+Sangere Musa	Song	Adamawa	9.853	12.620	2	SangereMusa
+Sangere Abba	Song	Adamawa	9.706	12.553	2	SangereAbba
+Saavi	Song	Adamawa	9.720	12.985	2	
+Sandebbo	Song	Adamawa	9.734	12.876	2	
+Hodango Sabongari	Song	Adamawa	9.670	12.862	2	HodangoSabongari
+Sayejo Lainde	Song	Adamawa	9.650	12.538	2	SayejoLainde
+Sabongari Gudure	Fufore	Adamawa	9.694	12.727	2	SabongariGudure
+Sa	Ilorin South	Kwara	8.444	4.668	2	
+Igboyeye	Asa	Kwara	8.287	4.585	2	Sapati-Oko
+Ga Sale	Ilorin East	Kwara	8.464	4.568	2	GaSale
+Salawu	Asa	Kwara	8.286	4.581	2	
+Sapati	Ilorin South	Kwara	8.418	4.590	2	
+Sambogi	Edati	Niger	8.932	6.021	2	
+Sabongida	Agaie	Niger	8.994	6.283	2	
+Salawo	Agaie	Niger	8.932	6.343	2	
+Sadu	Agaie	Niger	8.921	6.298	2	
+Sakwati	Agaie	Niger	8.887	6.372	2	
+Sabon-Gari	Magama	Niger	9.922	4.631	2	
+Sabongari	Mashegu	Niger	9.769	4.706	2	
+Ga-Saumida	Kaiama	Kwara	9.688	4.077	2	
+Sardauna	Toto	Nasarawa	8.166	7.259	2	
+Sabon-Gari	Toto	Nasarawa	8.477	7.251	2	
+Sauka	Toto	Nasarawa	8.494	7.457	2	
+Sabe	Kuje	FCT Abuja	8.568	7.352	2	
+Zakun-Sarki	Karu	Nasarawa	8.723	7.725	2	
+Saada	Nasarawa	Nasarawa	8.704	7.563	2	
+Kana-Sabo	Nasarawa	Nasarawa	8.547	7.902	2	
+Ara-Sabo	Nasarawa	Nasarawa	8.729	7.560	2	
+Angwan-Wayo-Sabo	Karu	Nasarawa	8.735	7.890	2	
+Sabon Gari	Nasarawa	Nasarawa	8.546	7.705	2	SabonGari
+Gwaya-Sabo	Karu	Nasarawa	8.693	7.814	2	
+Sagiya	Municipal Area Council	FCT Abuja	8.886	7.330	2	
+Salaji	Municipal Area Council	FCT Abuja	8.950	7.476	2	
+Sagiya	Municipal Area Council	FCT Abuja	8.905	7.405	2	
+Saban Plyore	Municipal Area Council	FCT Abuja	8.957	7.487	2	SabanPlyore
+Dirimi-Sabo	Municipal Area Council	FCT Abuja	8.998	7.466	2	
+Saboruwa	Kokona	Nasarawa	8.689	8.114	2	
+Sati-Ende	Lafia	Nasarawa	8.574	8.290	2	
+Samboa	Sardauna	Taraba	6.548	11.305	2	
+Saadu	Sardauna	Taraba	6.848	11.201	2	
+Sam	Sardauna	Taraba	6.541	11.125	2	
+Sargotunga	Sardauna	Taraba	6.939	11.206	2	
+Sam	Sardauna	Taraba	6.577	11.159	2	
+Sambariki	Sardauna	Taraba	6.693	11.422	2	
+Sarkin Baka	Sardauna	Taraba	6.897	11.141	2	
+Sabr	Sardauna	Taraba	6.739	11.491	2	
+Sarkaka	Sardauna	Taraba	6.610	11.097	2	
+Sandim	Sardauna	Taraba	6.872	11.312	2	
+Baba-Sango	Lagelu	Oyo	7.555	4.072	2	
+Sawo	Iwo	Osun	7.635	4.110	2	
+Sanya	Afijio	Oyo	7.662	4.010	2	
+Sade	Iwo	Osun	7.678	4.187	2	
+Sawo	Iwo	Osun	7.652	4.095	2	
+Sanya	Ede South	Osun	7.667	4.487	2	
+Sanya	Ede South	Osun	7.660	4.481	2	
+Safejo	Akinyele	Oyo	7.613	4.045	2	
+Sagoala	Ede South	Osun	7.672	4.447	2	
+Sangorayi	Akinyele	Oyo	7.578	4.030	2	
+Sati	Gwer East	Benue	7.272	8.472	2	
+Saka	Konshisha	Benue	7.144	8.500	2	
+Sagi	Gbako	Niger	9.361	6.100	2	
+Sabon Gida	Bosso	Niger	9.737	6.338	2	
+Sankemi	Jada	Adamawa	8.629	12.410	2	
+Sate	Mayo-Belwa	Adamawa	9.029	12.022	2	
+Sangode	Ona Ara	Oyo	7.198	4.039	2	
+Sagba	Aiyedade	Osun	7.361	4.355	2	
+Sado	Oyo West	Oyo	7.989	3.881	2	
+Sabere	Ganye	Adamawa	8.325	12.160	2	
+Sabongari	Shelleng	Adamawa	9.923	12.028	2	
+Sabongari	Song	Adamawa	9.639	12.944	2	
+Sabongari	Song	Adamawa	9.628	12.556	2	
+Sabon Gida	Kwali	FCT Abuja	8.677	6.953	2	SabonGida
+Sare	Aiyedade	Osun	7.535	4.347	2	
+Sabon Wuri	Kontagora	Niger	10.688	5.500	2	
+Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.054	7.495	1	
+Thomas Sankara	Municipal Area Council	FCT Abuja	9.043	7.526	1	
+Samora Machel Street	Municipal Area Council	FCT Abuja	9.040	7.520	1	
+Sanni Balogun Street	Ifako/Ijaye	Lagos	6.662	3.306	1	
+Sadiku Street	Mushin	Lagos	6.523	3.340	1	
+Saka Tinubu Street	Eti Osa	Lagos	6.427	3.420	1	
+Salvation Road	Ikeja	Lagos	6.591	3.363	1	
+Santos Avenue	Ifako/Ijaye	Lagos	6.654	3.306	1	
+Yussuf Sanusi Street	Surulere	Lagos	6.497	3.359	1	
+Salawu Street	Agege	Lagos	6.631	3.312	1	
+Sabiu Ajose Cresent	Surulere	Lagos	6.490	3.358	1	
+Savage Street	Surulere	Lagos	6.483	3.381	1	
+Salako Street	Ifako/Ijaye	Lagos	6.657	3.335	1	
+Sanni Labode Street	Ifako/Ijaye	Lagos	6.651	3.309	1	
+Sani Abacha Road	Port-Harcourt	Rivers	4.819	6.985	1	
+Major Salawu Street	Ibadan North	Oyo	7.442	3.913	1	
+Sakponba Road	Ikpoba-Okha	Edo	6.287	5.671	1	
+Saint Saviour Road	Ikpoba-Okha	Edo	6.318	5.658	1	
+Salvation Army Road	Ibadan North West	Oyo	7.388	3.886	1	
+Benin - Sagamu Expressway	Ovia North-East	Edo	6.417	5.604	1	
+Benin-Sagamu Expressway	Ovia North-East	Edo	6.460	5.593	1	
+Sabon Birni Road	Kaduna North	Kaduna	10.582	7.453	1	
+Sarduna College Road	Kaduna North	Kaduna	10.568	7.454	1	
+Sheik Salisu Mu'Azu Road	Kaduna North	Kaduna	10.552	7.463	1	
+Sarki Crescent	Kaduna North	Kaduna	10.541	7.439	1	
+Sambo Road	Kaduna North	Kaduna	10.537	7.433	1	
+Prof. Abubakar Sambo Road	Kaduna North	Kaduna	10.512	7.452	1	
+Sani Sami Road	Kaduna North	Kaduna	10.550	7.469	1	
+Sani Sambo Avenue	Kaduna North	Kaduna	10.544	7.439	1	
+Mustapha Salihawa Road	Kaduna North	Kaduna	10.578	7.460	1	
+Zubair Sambo Aliyu Road	Kaduna North	Kaduna	10.514	7.448	1	
+Sarkin Baka Street	Chikun	Kaduna	10.493	7.494	1	
+Sarduna College Road	Kaduna North	Kaduna	10.574	7.462	1	
+Saap Crescent	Kaduna South	Kaduna	10.538	7.411	1	
+Saint Maira Goretti Road	Ikpoba-Okha	Edo	6.310	5.638	1	
+Salawe Lane	Oredo	Edo	6.308	5.619	1	
+Sadoh Drive	Oredo	Edo	6.305	5.622	1	
+Old Sapele Road	Ikpoba-Okha	Edo	6.291	5.635	1	
+Safi Street	Municipal Area Council	FCT Abuja	9.067	7.471	1	
+Sardauna Crescent	Kaduna North	Kaduna	10.504	7.426	1	
+Sambo Close	Kaduna North	Kaduna	10.533	7.435	1	
+Saliu Obodo Street	Eti Osa	Lagos	6.436	3.510	1	
+Salawu Street	Surulere	Lagos	6.510	3.359	1	
+Saka Agbaje stret	Ibadan North	Oyo	7.424	3.913	1	
+Saka Abaje Street	Ibadan North	Oyo	7.424	3.914	1	
+Sir Samuel Manuwa Street	Eti Osa	Lagos	6.435	3.435	1	
+Samuel Adedoyin Street	Eti Osa	Lagos	6.429	3.436	1	
+Sapara Williams Close	Eti Osa	Lagos	6.434	3.422	1	
+Sanni Street	Apapa	Lagos	6.465	3.346	1	
+Sam Shonibare Street	Surulere	Lagos	6.510	3.349	1	
+Okeleye Street	Oshodi/Isolo	Lagos	6.553	3.337	1	Salami Street
+Sadiku Street	Oshodi/Isolo	Lagos	6.553	3.339	1	
+Salami Shuaibu Street	Shomolu	Lagos	6.545	3.373	1	
+Samuel Ajayi Street	Lagelu	Oyo	7.439	3.953	1	
+Salami Layout	Ibadan North East	Oyo	7.418	3.935	1	
+Abdu-Salaam Crescent	Ibadan North	Oyo	7.433	3.931	1	
+Sariu Adebisi Street	Ibadan North	Oyo	7.420	3.912	1	
+Akinlabi Sanda Close	Ibadan North	Oyo	7.414	3.900	1	
+Sanwo Close	Ibadan North West	Oyo	7.393	3.888	1	
+Salvation Army-Oke-Padi Road	Ibadan North West	Oyo	7.386	3.886	1	
+Salawu Street	Ajeromi/Ifelodun	Lagos	6.446	3.333	1	
+Sarkin Kwaru Road	Kaduna North	Kaduna	10.567	7.461	1	
+Samuel Ekuwola Street	Oshodi/Isolo	Lagos	6.500	3.312	1	
+Salami Bashorun Street	Surulere	Lagos	6.503	3.334	1	
+Savannah Street	Surulere	Lagos	6.486	3.336	1	
+Tiyamu Savage Street	Eti Osa	Lagos	6.426	3.427	1	
+Samadint Avenue	Alimosho	Lagos	6.513	3.277	1	
+Salamotu Street	Oshodi/Isolo	Lagos	6.519	3.332	1	
+Sagamu Road	Ìkòròdú	Lagos	6.623	3.504	1	
+Salami Ogejo	Kosofe	Lagos	6.534	3.404	1	
+Samuel Durojaiye Street	Kosofe	Lagos	6.610	3.372	1	
+Alhaji Sadiku Street	Ikeja	Lagos	6.627	3.355	1	
+Abba Sagoe Road	Kosofe	Lagos	6.630	3.365	1	
+Isiaka Saliu Street	Ikeja	Lagos	6.651	3.355	1	
+Thomas Salako Street	Ifako/Ijaye	Lagos	6.635	3.339	1	
+Saratu Street	Agege	Lagos	6.618	3.330	1	
+Salako Street	Ifako/Ijaye	Lagos	6.634	3.333	1	
+Sanusi Ajilete Street	Ifako/Ijaye	Lagos	6.645	3.325	1	
+Bucknor Savage Boulevard	Ifako/Ijaye	Lagos	6.648	3.326	1	
+Sands Avenue	Ifako/Ijaye	Lagos	6.642	3.324	1	
+Sasegbon Street	Ikeja	Lagos	6.577	3.356	1	
+Jide Sawyer Drive	Eti Osa	Lagos	6.428	3.470	1	
+Sariyu Street	Lagos Mainland	Lagos	6.501	3.385	1	
+Ibiyinka Salvador Street	Eti Osa	Lagos	6.458	3.472	1	
+Saibu Street	Amuwo Odofin	Lagos	6.457	3.304	1	
+Samuel Street	Alimosho	Lagos	6.599	3.300	1	
+Samson Adjere Taunu Street	Alimosho	Lagos	6.588	3.296	1	
+Sarumi Street	Alimosho	Lagos	6.586	3.294	1	
+Sanusi Street	Agege	Lagos	6.609	3.322	1	
+Sapele Street	Apapa	Lagos	6.440	3.378	1	
+Saka Jojo Street	Eti Osa	Lagos	6.428	3.413	1	
+Sam Adegbite Close	Eti Osa	Lagos	6.426	3.419	1	
+Orisa Sanya Street	Eti Osa	Lagos	6.428	3.453	1	
+Akinbo Savage Street	Eti Osa	Lagos	6.433	3.431	1	
+Saro Close	Eti Osa	Lagos	6.425	3.425	1	
+Sabo Road	Ibadan North West	Oyo	7.401	3.887	1	
+Sabo-Badan Road	Ibadan North	Oyo	7.401	3.893	1	
+Alhaji Kadiri Salami Street	Ajeromi/Ifelodun	Lagos	6.444	3.322	1	
+Sanya Street	Surulere	Lagos	6.486	3.331	1	
+Usman Sarki Crescent	Municipal Area Council	FCT Abuja	9.069	7.449	1	
+Sani Abacha Way	Municipal Area Council	FCT Abuja	9.072	7.464	1	
+Sambrerio Crescent	Municipal Area Council	FCT Abuja	9.091	7.497	1	
+Dar es Salam Crescent	Municipal Area Council	FCT Abuja	9.075	7.468	1	
+Dar es Salaam Street	Municipal Area Council	FCT Abuja	9.075	7.469	1	
+Cemetery Road Sabon Gari Zaria	Sabon Gari	Kaduna	11.106	7.734	1	
+Warri Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.106	7.731	1	
+Benin Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.109	7.732	1	
+Yoruba Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.109	7.731	1	
+Lagos Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.109	7.729	1	
+Club Street Sabon Gari Zaria	Sabon Gari	Kaduna	11.111	7.731	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.521	6.565	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.535	6.563	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.577	6.572	1	
+Sand Lake Road	Municipal Area Council	FCT Abuja	9.096	7.497	1	
+Sangha Street	Municipal Area Council	FCT Abuja	9.092	7.488	1	
+Aminu Sale Road	Municipal Area Council	FCT Abuja	9.126	7.432	1	
+Samuel Ochefu Close	Municipal Area Council	FCT Abuja	9.005	7.479	1	
+Samuel Omu Street	Municipal Area Council	FCT Abuja	9.004	7.479	1	
+Sani Bello Close	Municipal Area Council	FCT Abuja	8.999	7.480	1	
+Samuel Ogedengbe Crescent	Municipal Area Council	FCT Abuja	9.071	7.428	1	
+Sabo Ago Avenue	Municipal Area Council	FCT Abuja	9.081	7.395	1	
+Effurun Sapele Road	Uvwie	Delta	5.560	5.786	1	
+Savalou Street	Municipal Area Council	FCT Abuja	9.068	7.471	1	
+Dar es Salaam Street	Municipal Area Council	FCT Abuja	9.076	7.471	1	
+Salt Lake Street	Municipal Area Council	FCT Abuja	9.077	7.500	1	
+Saefadu Close	Municipal Area Council	FCT Abuja	9.072	7.484	1	
+Sani Lawal Kofan Mata	Tarauni	Kano	11.969	8.556	1	
+Sabon Titi	Tarauni	Kano	11.966	8.535	1	
+Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.327	8.319	1	
+Sadiku Street	Apapa	Lagos	6.476	3.345	1	
+Sanusi Street	Apapa	Lagos	6.477	3.346	1	
+Sani Ungoggo road	Fagge	Kano	12.009	8.534	1	
+Sarkin Yaki	Fagge	Kano	12.027	8.535	1	
+Samuel Ademulegun Avenue	Municipal Area Council	FCT Abuja	9.057	7.483	1	
+Sani Abacha Way South	Municipal Area Council	FCT Abuja	9.062	7.487	1	
+Samuel Ademulegun Avenue	Municipal Area Council	FCT Abuja	9.059	7.486	1	
+Kam Salem Street	Municipal Area Council	FCT Abuja	9.036	7.484	1	
+Salami Oke Street	Surulere	Lagos	6.511	3.342	1	
+Saibu Lawal Street	Surulere	Lagos	6.511	3.344	1	
+Chief Saliu Obodo Avenue	Eti Osa	Lagos	6.487	3.589	1	
+Sariyu Street	Mushin	Lagos	6.512	3.337	1	
+Sarki Mangu Street	Jos North	Plateau	9.911	8.887	1	
+Sarkin Arab Street	Jos North	Plateau	9.928	8.888	1	
+Sakponba Lane	Ikpoba-Okha	Edo	6.323	5.634	1	
+Samuel Omotara Street	Surulere	Lagos	6.496	3.344	1	
+Santos Estate	Surulere	Lagos	6.486	3.338	1	
+Alhaji Salami Street	Surulere	Lagos	6.487	3.340	1	
+Sardauna Cresent	Nassarawa	Kano	11.993	8.576	1	
+Safana Close	Municipal Area Council	FCT Abuja	9.031	7.497	1	
+Sawyer Street	Lagos Mainland	Lagos	6.508	3.378	1	
+Sanyaolu Street	Shomolu	Lagos	6.532	3.395	1	
+Safuratu Sekoni Street	Shomolu	Lagos	6.548	3.392	1	Morenikeji Street
+Salam Abass Street	Ede North	Osun	7.767	4.535	1	
+Sam Ade Street	Egbedore	Osun	7.791	4.524	1	
+Beeluxury.ng, Sabo Oke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.489	4.575	1	
+Salawatu Olatundun Street	Ilorin East	Kwara	8.484	4.574	1	
+Samuel Olufunmilayo Street	Oshodi/Isolo	Lagos	6.512	3.325	1	
+Alhaji Tunde Salisu Street	Oshodi/Isolo	Lagos	6.537	3.310	1	
+Samson Road	Alimosho	Lagos	6.627	3.295	1	
+Sabiu Olukoya	Alimosho	Lagos	6.626	3.290	1	
+Sadiku Street	Alimosho	Lagos	6.645	3.295	1	
+Salawu Street	Agege	Lagos	6.622	3.317	1	
+Saula Sanni Street	Ifo	Ogun	6.694	3.293	1	
+Warri Sapele Road	Warri South	Delta	5.516	5.758	1	
+Warri Sapele Road	Warri South	Delta	5.515	5.742	1	
+Salubi Street	Uvwie	Delta	5.566	5.783	1	
+Salaudeen Akano Street	Kosofe	Lagos	6.573	3.384	1	
+Sadiku Street	Kosofe	Lagos	6.573	3.395	1	
+Saji Ayangade Street	Kosofe	Lagos	6.563	3.373	1	
+Sanya Ogunbanjo Street	Kosofe	Lagos	6.568	3.383	1	
+Sabo-Badan Road	Ibadan North	Oyo	7.397	3.916	1	
+Sagamu Road	Shagamu	Ogun	6.747	3.528	1	
+Sagamu Road	Shagamu	Ogun	6.828	3.634	1	
+Effurn Sapele Road	Uvwie	Delta	5.537	5.778	1	
+Effurun sapele road	Okpe	Delta	5.646	5.766	1	
+Benin-Sapele Road	Oredo	Edo	6.325	5.626	1	
+Sam Mbakwe Avenue	Owerri Municipal	Imo	5.489	7.018	1	
+Sam Mbakwe Avenue	Owerri Municipal	Imo	5.481	7.001	1	
+SA Ukeje Close	Enugu South	Enugu	6.423	7.534	1	
+Ikeh Sabito Street	Enugu North	Enugu	6.431	7.536	1	
+Sam Akudo Okafor Street	Enugu South	Enugu	6.423	7.531	1	
+Sameze	Enugu South	Enugu	6.418	7.511	1	
+Soji Salau Street	Enugu South	Enugu	6.421	7.530	1	
+Savage Crescent	Enugu North	Enugu	6.460	7.498	1	
+Saint Peter Street	Enugu East	Enugu	6.485	7.499	1	
+Sacred Heart Street	Enugu South	Enugu	6.422	7.488	1	
+Samuelson Close	Enugu South	Enugu	6.426	7.524	1	
+Salvage Crescent Link Road	Enugu North	Enugu	6.462	7.497	1	
+Saint Felix Avenue	Enugu East	Enugu	6.480	7.507	1	
+Sabastine Avenue	Enugu East	Enugu	6.491	7.513	1	
+Sam Nnubia Street	Enugu South	Enugu	6.413	7.492	1	
+Sam Eze Avenue	Enugu South	Enugu	6.419	7.514	1	
+Sam Eze Street	Enugu South	Enugu	6.418	7.514	1	
+Sani Abacha Road	Enugu North	Enugu	6.473	7.482	1	
+All Saint Street	Enugu East	Enugu	6.483	7.500	1	
+Sampson Nwatu Street	Enugu South	Enugu	6.405	7.486	1	
+Saint Gregory The Great Parish Road	Enugu South	Enugu	6.412	7.487	1	
+Sam Nnubia Close	Enugu South	Enugu	6.413	7.490	1	
+Sani Buhari (Walin Daura) Road	Gwale	Kano	11.994	8.504	1	
+Nasir Ado Bayero Road	Kano Municipal	Kano	11.986	8.526	1	Sabuwar Kofa
+Hajiya Mariya Sanusi Street	Fagge	Kano	11.997	8.541	1	
+Umar Sanusi Link	Fagge	Kano	11.998	8.540	1	
+SaLayin Salishi Street	Gwale	Kano	11.975	8.473	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.407	6.610	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.569	6.591	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.396	6.619	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.436	6.608	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.732	6.564	1	
+Gudau - Sabon Birni Road	Bungudu	Zamfara	12.223	6.675	1	
+Rafin Mallam/Sabon Birni Road	Fagge	Kano	12.055	8.496	1	
+Salvage Crescent	Enugu North	Enugu	6.464	7.500	1	
+Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.573	6.330	1	
+Bakin Kasuwa/ Sansan Road	Dambatta	Kano	12.441	8.604	1	
+Adenekan Salako Street	Ifako/Ijaye	Lagos	6.631	3.339	1	
+Sanya Mudele Close	Ifako/Ijaye	Lagos	6.646	3.324	1	
+Barr.Sam Otoboeze Street	Enugu North	Enugu	6.467	7.475	1	
+Sam Okeke-Ewo Close	Enugu East	Enugu	6.505	7.514	1	
+Sani Gwarzo street	Tarauni	Kano	11.975	8.560	1	
+Sabon Gari	Rimin Gado	Kano	12.015	8.255	1	
+Sankore Avenue	Ibadan North	Oyo	7.449	3.890	1	
+Sapara Road	Ibadan North	Oyo	7.448	3.898	1	
+Saunders Road	Ibadan North	Oyo	7.450	3.888	1	
+Sani Abacha Avenue	Enugu North	Enugu	6.479	7.480	1	
+Layin gidan sanjaji	Kumbotso	Kano	11.890	8.501	1	
+Rasaki Salawu Street	Ungongo	Kano	11.969	8.437	1	
+Sam Carol Osunlola Street	Oshodi/Isolo	Lagos	6.506	3.300	1	
+Satellite Town, Nwankwo Street	Amuwo Odofin	Lagos	6.441	3.257	1	
+Johnson Sam-Iye Street	Oshodi/Isolo	Lagos	6.499	3.319	1	
+St. Saviour's Street	Oshodi/Isolo	Lagos	6.511	3.322	1	
+Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.883	3.578	1	
+Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.867	3.605	1	
+Sagamu Road	Shagamu	Ogun	6.802	3.582	1	
+Abeokuta-Sagamu Expressway	Shagamu	Ogun	6.886	3.575	1	
+Abeokuta-Sagamu Expressway	Obafemi Owode	Ogun	7.011	3.523	1	
+Benin-Sagamu Expressway	Ovia South-West	Edo	6.710	5.210	1	
+Safuratu Benson Street	Ìkòròdú	Lagos	6.628	3.490	1	
+Salami Sholebo Street	Ìkòròdú	Lagos	6.617	3.488	1	
+Benin-Sagamu Expressway	Odogbolu	Ogun	6.873	3.766	1	
+Dr. Sanda Mohammed Street	Gwale	Kano	11.981	8.469	1	
+Saudat Memorial School Street	Ungongo	Kano	11.971	8.440	1	
+Saleh Rimin Gado street	Tarauni	Kano	11.974	8.561	1	
+Layin Sarkin kasuwa	Tarauni	Kano	11.976	8.561	1	
+Kwarin Goshi - Sabuwar Kaura Road	Tudun Wada	Kano	11.310	8.408	1	
+Sabon fegi	Kumbotso	Kano	11.889	8.499	1	
+Sanda mai Barewa street	Fagge	Kano	12.010	8.527	1	
+Kabiru Sanda road	Tarauni	Kano	11.976	8.559	1	
+Sabbabu Street	Tarauni	Kano	11.971	8.557	1	
+Sarumoh Oladosu Close	Eti Osa	Lagos	6.452	3.474	1	
+Saheed Ola-Adelekan Close	Eti Osa	Lagos	6.437	3.479	1	
+Sabon Line Street	Gombe	Gombe	10.269	11.172	1	JAURO BAPPI STREET
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.489	6.574	1	
+Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.590	6.352	1	
+Prince Samuel Adedoyin Street	Eti Osa	Lagos	6.433	3.486	1	
+Prince Salisu Elegushi Road	Eti Osa	Lagos	6.428	3.500	1	
+Hon. Saheed Bankole Street	Eti Osa	Lagos	6.430	3.513	1	
+Sateru Lane	Eti Osa	Lagos	6.428	3.549	1	
+Saka Oluwa Street	Eti Osa	Lagos	6.429	3.514	1	
+Namadi Sambo Road	Kaduna North	Kaduna	10.509	7.458	1	
+Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.338	8.337	1	
+Sabon Titi - Faskar Wambai Road	Tudun Wada	Kano	11.313	8.357	1	
+Saki Close	Eti Osa	Lagos	6.443	3.513	1	
+Samuel Afolayan road	Karu	Nasarawa	8.883	7.610	1	
+Abeokuta-Sagamu Expressway	Abeokuta South	Ogun	7.136	3.346	1	
+Mukadasi Akanbi Sasi Road	Eti Osa	Lagos	6.449	3.581	1	
+Safari Close	Eti Osa	Lagos	6.457	3.522	1	
+Sarkin Yaki Road	Zaria	Kaduna	11.088	7.726	1	
+Chief Saula Ndakolo Street	Eti Osa	Lagos	6.459	3.564	1	
+Chief Shittu Saka Musa Street	Eti Osa	Lagos	6.459	3.567	1	
+Sakaba Road	Sokoto North	Sokoto	13.064	5.215	1	
+Sangotedo Road	Eti Osa	Lagos	6.464	3.621	1	
+Saka Oluguina Strre	Eti Osa	Lagos	6.451	3.571	1	
+Abayomi Samuel Avenue	Eti Osa	Lagos	6.451	3.566	1	
+Sani Abacha Road	Port-Harcourt	Rivers	4.814	6.984	1	
+Samuel Awoniyi Street	Ikeja	Lagos	6.591	3.362	1	
+Savage Lane	Lagos Island	Lagos	6.460	3.382	1	
+bulari sabuwa	Chibok	Borno	10.851	12.724	1	
+Sanni Ogun Road	Ikot Ekpene	Akwa Ibom	5.181	7.715	1	
+Salvation Road	Eti Osa	Lagos	6.443	3.485	1	
+Savana Round About	Markurdi	Benue	7.725	8.536	1	
+Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.405	6.275	1	
+Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.117	6.452	1	
+Aker - Saipem Road	Port-Harcourt	Rivers	4.777	6.966	1	
+Sanni Street	Ado Odo/Ota	Ogun	6.689	3.253	1	
+Evang. Samul Nurudeen Street	Eti Osa	Lagos	6.479	3.660	1	
+Sanusi Street	Shomolu	Lagos	6.531	3.376	1	
+Segun Salau Street	Kosofe	Lagos	6.609	3.387	1	
+Ayinde Sanni	Kosofe	Lagos	6.619	3.370	1	
+Saubana Olorunfemi Street	Alimosho	Lagos	6.547	3.229	1	
+Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.043	7.500	1	
+Sani Abacha Way South	Municipal Area Council	FCT Abuja	9.042	7.498	1	
+Sani Abacha Way	Municipal Area Council	FCT Abuja	9.034	7.494	1	
+Saptex Road	Yenegoa	Bayelsa	4.925	6.308	1	
+Samphino Road	Yenegoa	Bayelsa	4.930	6.312	1	
+Benin-Sagamu Expressway	Ìjẹ̀bú Òde	Ogun	6.792	3.936	1	
+Rd jaji Sanfo	Igabi	Kaduna	10.822	7.606	1	
+Chief Samuel Ajayi Street	Kosofe	Lagos	6.620	3.384	1	
+Salami Street	Ifo	Ogun	6.675	3.370	1	
+Sapele Agbor Road	Ukwuani	Delta	5.848	6.160	1	
+Saint Nicolas Street	Esan West	Edo	6.744	6.105	1	
+Samuel Ajimo Avenue	Ado Odo/Ota	Ogun	6.725	3.254	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.829	6.522	1	
+Gudau - Sabon Birni Road	Shinkafi	Zamfara	12.979	6.497	1	
+Samuel Opara Street'	Oshodi/Isolo	Lagos	6.536	3.316	1	
+Salvation Army Road	Oshodi/Isolo	Lagos	6.533	3.315	1	
+Sacred Heart Close	Eti Osa	Lagos	6.475	3.571	1	
+Saliu Jimoh Street	Alimosho	Lagos	6.549	3.240	1	
+Imam Saka Street	Alimosho	Lagos	6.583	3.277	1	
+Salako Close	Ojo	Lagos	6.455	3.171	1	
+Abiodun Sadiku Street	Agege	Lagos	6.614	3.308	1	
+Idowu Sanni Street	Oshodi/Isolo	Lagos	6.493	3.315	1	
+Sadat Street	Alimosho	Lagos	6.647	3.299	1	
+Sam Fakayode Close	Ifako/Ijaye	Lagos	6.654	3.313	1	
+Sangojimi Street	Ifako/Ijaye	Lagos	6.666	3.309	1	
+Amusa Savage Street	Ifo	Ogun	6.681	3.311	1	
+Sanni Ajayi Street	Alimosho	Lagos	6.535	3.262	1	
+Moshood Sanni Street	Eti Osa	Lagos	6.455	3.572	1	
+Salako Crescent	Oshodi/Isolo	Lagos	6.561	3.333	1	
+Safebirth Street	Mushin	Lagos	6.528	3.367	1	
+Dada Arejogbo Road/Saala Road	Ifo	Ogun	6.671	3.324	1	
+Sangotayo Close	Ifo	Ogun	6.671	3.324	1	
+Salimonu Street	Agege	Lagos	6.615	3.327	1	
+Samuel Ochei Cresent	Ojo	Lagos	6.486	3.147	1	
+Samuel Edosa St	Kosofe	Lagos	6.619	3.387	1	
+Salisu Adenkule Street	Ìkòròdú	Lagos	6.621	3.482	1	
+Adeshina Salau Street	Ìkòròdú	Lagos	6.621	3.490	1	
+Saki Street	Alimosho	Lagos	6.676	3.260	1	
+Abbas Abdus-salam Road	Lagelu	Oyo	7.440	3.961	1	
+Sakajojo street	Ìkòròdú	Lagos	6.599	3.502	1	
+Benin-Sagamu Expressway	Ovia North-East	Edo	6.557	5.501	1	
+Samuel Adikamkwu Street	Eti Osa	Lagos	6.493	3.588	1	
+Salvation Street	Alimosho	Lagos	6.499	3.281	1	
+bulari sabuwa	Chibok	Borno	10.859	12.828	1	
+bulari sabuwa	Chibok	Borno	10.850	12.798	1	
+bulari sabuwa	Chibok	Borno	10.847	12.768	1	
+Sanusi Fafunwa Street	Eti Osa	Lagos	6.431	3.427	1	
+Sada Tinubu Close	Eti Osa	Lagos	6.426	3.417	1	
+Umar Sambo Close	Kaduna North	Kaduna	10.571	7.466	1	
+Sabiolegbe Street	Oshodi/Isolo	Lagos	6.554	3.345	1	
+Sakponba Rd	Ikpoba-Okha	Edo	6.256	5.723	1	
+Sapele - Warri Road	Sapele	Delta	5.870	5.708	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.767	5.081	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.753	4.787	1	
+Benin-Sagamu Expressway	Ovia North-East	Edo	6.551	5.521	1	
+Benin-Sagamu Expressway	Ovia North-East	Edo	6.487	5.581	1	
+Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	8.998	7.485	1	
+Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.006	7.478	1	
+Benin-Sagamu Expressway	Odogbolu	Ogun	6.874	3.764	1	
+Benin-Sagamu Expressway	Odogbolu	Ogun	6.825	3.820	1	
+Gbola Salami Street	Eti Osa	Lagos	6.441	3.519	1	
+Saint John	Oredo	Edo	6.226	5.600	1	
+Igbobi Sabe Street	Shomolu	Lagos	6.520	3.370	1	
+Sakponba Road	Ikpoba-Okha	Edo	6.321	5.637	1	
+Saka Street	Oshodi/Isolo	Lagos	6.574	3.341	1	
+Lateef Salami Street	Oshodi/Isolo	Lagos	6.551	3.329	1	
+Sanusi Street	Oshodi/Isolo	Lagos	6.509	3.314	1	
+Preince Sanmi Harrison Avenue	Eti Osa	Lagos	6.450	3.483	1	
+Sabitex Hotel Road	Eti Osa	Lagos	6.436	3.494	1	
+Sagamu Road	Ìkòròdú	Lagos	6.671	3.513	1	
+Salami Muyiwa Street	Ife North	Osun	7.506	4.492	1	
+Sawmill Road	Egor	Edo	6.290	5.548	1	
+Allen Samuel street	Kaduna South	Kaduna	10.464	7.439	1	
+Satchie Etoromi Crescent	Uvwie	Delta	5.537	5.758	1	
+Benin-Sagamu Expressway	Okitipupa	Ondo	6.727	4.664	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.761	4.123	1	
+Ayinke Sanni Street	Eti Osa	Lagos	6.457	3.572	1	
+Sanni Arewa Aro Street	Eti Osa	Lagos	6.455	3.567	1	
+Benin-Sagamu Expressway	Okitipupa	Ondo	6.727	4.667	1	
+Benin-Sagamu Expressway	Okitipupa	Ondo	6.721	4.713	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.735	4.751	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.719	4.458	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.506	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.744	4.290	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.758	4.226	1	
+Nyakaba Samuel CR	Eti Osa	Lagos	6.473	3.618	1	
+Sakponba Road	Oredo	Edo	6.332	5.624	1	
+Hon. Sani Aminu Crescent	Kaduna North	Kaduna	10.526	7.454	1	
+Sangar Avenue	Kaduna North	Kaduna	10.528	7.457	1	
+Salamu Oyolola Street	Ejigbo	Osun	7.899	4.315	1	
+Sambo Road	Kaduna North	Kaduna	10.558	7.451	1	
+Sarkin Baka Street	Chikun	Kaduna	10.489	7.471	1	
+Sarduna College Road	Kaduna North	Kaduna	10.575	7.464	1	
+Sam Omowumi Street	Ido-Osi	Ekiti	7.877	5.171	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.729	4.616	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.546	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.537	1	
+Sahaf Street	Malumfashi	Katsina	11.794	7.612	1	
+Pastor Samuel Amoja Street	Eti Osa	Lagos	6.457	3.613	1	
+Sabon Line Street	Gombe	Gombe	10.283	11.173	1	JAURO BAPPI STREET
+Sars Road	Obio/Akpor	Rivers	4.871	6.973	1	
+Sarkin Yaki	Fagge	Kano	12.027	8.541	1	
+Saviour Street	Ìkòròdú	Lagos	6.653	3.600	1	
+Satellite Town	Calabar Municipal	Cross River	4.957	8.347	1	
+Mohammed Sanusi Str II	Municipal Area Council	FCT Abuja	9.114	7.381	1	
+Salaudeen Aladie Street	Offa	Kwara	8.151	4.700	1	
+Sabaina Taiwo Street	Ado Odo/Ota	Ogun	6.696	3.249	1	
+Sadiku Street	Agege	Lagos	6.620	3.323	1	
+Sanctum Drive	Ìkòròdú	Lagos	6.586	3.502	1	
+Salami Street	Ifo	Ogun	6.676	3.372	1	
+Gudau - Sabon Birni Road	Guidan Roumdji	Sokoto	13.615	6.417	1	
+Tunis Crescent	Ungongo	Kano	11.989	8.462	1	Sabo Danbatta Street
+Saint Aleyi Street	Municipal Area Council	FCT Abuja	8.992	7.588	1	
+Prof. Saidu M. Gusau Street	Ungongo	Kano	11.973	8.446	1	
+Saheed Aberejo Street	Ado Odo/Ota	Ogun	6.591	3.194	1	
+Sadia Guest Inn Road	Chanchaga	Niger	9.585	6.547	1	
+Sadia Guest Inn Road	Chanchaga	Niger	9.583	6.547	1	
+Olufemi Samson Street	Oshodi/Isolo	Lagos	6.514	3.328	1	
+Saheed Rasaq Close	Ìkòròdú	Lagos	6.632	3.484	1	
+Samuel Omidiji Street	Eti Osa	Lagos	6.507	3.601	1	
+Aliyu Sabi Street	Municipal Area Council	FCT Abuja	9.141	7.505	1	
+SA Alao Street	Municipal Area Council	FCT Abuja	9.047	7.554	1	
+Sadiq Warawa Street	Gwale	Kano	11.958	8.486	1	
+Salvation Army Road	Ibadan North West	Oyo	7.399	3.886	1	
+Salem Street	Ibadan North	Oyo	7.391	3.902	1	
+Saka Alao Close	Lagos Mainland	Lagos	6.470	3.365	1	
+Gudau - Sabon Birni Road	Bungudu	Zamfara	12.349	6.638	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.337	6.639	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.636	6.594	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.612	6.591	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.680	6.580	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.654	6.590	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.770	6.551	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.907	6.474	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.869	6.508	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.836	6.525	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.799	6.524	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.810	6.526	1	
+Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.070	6.505	1	
+Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.106	6.470	1	
+Saint Mary's Road	Yenegoa	Bayelsa	4.950	6.347	1	
+Sadiku Erinfolami Street	Eti Osa	Lagos	6.437	3.501	1	
+Sagamu Road	Shagamu	Ogun	6.850	3.651	1	
+Benin-Sagamu Expressway	Odigbo	Ondo	6.727	4.579	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.757	5.138	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.752	5.148	1	
+Benin-Sagamu Expressway	Ovia South-West	Edo	6.652	5.296	1	
+Benin-Sagamu Expressway	Ovia South-West	Edo	6.639	5.323	1	
+Benin-Sagamu Expressway	Ovia South-West	Edo	6.615	5.369	1	
+Ikwewu - Sapele Road	Sapele	Delta	5.870	5.708	1	
+Salau Oriola	Kosofe	Lagos	6.545	3.406	1	
+Sam Okaka Street	Uvwie	Delta	5.559	5.758	1	
+Sapele Road	Ovia North-East	Edo	6.473	5.595	1	
+Sanusi Adekunle Street	Ifo	Ogun	6.645	3.397	1	
+Trans-Sahelian Highway	Dikwa	Borno	12.040	13.913	1	
+Sani Abacha Way	Municipal Area Council	FCT Abuja	9.066	7.488	1	
+Shehu Sani Street	Gwale	Kano	11.979	8.470	1	
+Layin Salihi Street	Gwale	Kano	11.977	8.475	1	
+Prof. Badayi Sani Street	Gwale	Kano	11.977	8.475	1	
+Link 9 Engr. Sani Abdulkadir Street	Gwale	Kano	11.973	8.474	1	
+Sani Ayuba Street	Ungongo	Kano	11.977	8.444	1	
+Sani Tofa Street	Ungongo	Kano	11.975	8.445	1	
+Salisu Kabo Street	Ungongo	Kano	11.976	8.447	1	
+Saviour Street	Lagos Island	Lagos	6.457	3.402	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.729	4.395	1	
+Benin-Sagamu Expressway	Ijebu East	Ogun	6.732	4.321	1	
+EB Saleh Close	Municipal Area Council	FCT Abuja	9.043	7.545	1	
+Benin-Sagamu Expressway	Shagamu	Ogun	6.867	3.656	1	
+Benin-Sagamu Expressway	Shagamu	Ogun	6.858	3.631	1	
+Santorini Estates Road	Sapele	Delta	5.827	5.708	1	
+Sapele Agbor Road	Ukwuani	Delta	5.913	6.221	1	
+Arin Alade Sawyer Close	Alimosho	Lagos	6.583	3.240	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.780	5.018	1	
+Benin-Sagamu Expressway	Idanre	Ondo	6.775	5.037	1	
+Saula Akinlolu Street	Eti Osa	Lagos	6.439	3.546	1	
+Pessu SawMill Road	Warri South	Delta	5.502	5.755	1	
+Osopo Salawu Street	Egbedore	Osun	7.814	4.531	1	
+Sabon Birni Road	Kaduna North	Kaduna	10.583	7.459	1	
+Sani Abacha Way	Municipal Area Council	FCT Abuja	9.027	7.481	1	
+Effurun Sapele Road	Uvwie	Delta	5.572	5.784	1	
+A.A Sambo Street	Karu	Nasarawa	9.014	7.608	1	
+Sam Madiebo Close	Oshodi/Isolo	Lagos	6.504	3.321	1	
+Abeokuta-Sagamu Expressway	Obafemi Owode	Ogun	7.125	3.359	1	
+Adeniran Samad Street	Alimosho	Lagos	6.497	3.265	1	
+Salami Street	Kosofe	Lagos	6.572	3.373	1	
+Salau Biu Akanbi Street	Ìkòròdú	Lagos	6.628	3.502	1	
+Sabon Kwalta	Ngelzarma	Yobe	11.756	11.975	1	
+Samuel Street	Eti Osa	Lagos	6.477	3.576	1	
+Hon Samad Ogunbo Street	Eti Osa	Lagos	6.449	3.611	1	
+Salami Street	Lagos Mainland	Lagos	6.506	3.391	1	
+HRM. King Amen Sariki Road	Yenegoa	Bayelsa	4.867	6.210	1	
+Salami Ogejo	Kosofe	Lagos	6.537	3.405	1	
+Sangotedo Road	Eti Osa	Lagos	6.455	3.615	1	
+All Saints Avenue	Eti Osa	Lagos	6.460	3.616	1	
+Samrada Petroleum	Chikun	Kaduna	10.444	7.420	0	
+St. Saviours Nusery School Complex	Surulere	Lagos	6.489	3.376	0	
+Salbas Oil	Jos North	Plateau	9.959	8.889	0	
+All Saints Ekulu Nursery & Primary School	Enugu North	Enugu	6.454	7.485	0	
+Sacred Heart Primary & Secondary School	Enugu South	Enugu	6.422	7.489	0	
+Sango	Ibadan North	Oyo	7.424	3.899	0	
+Sagondare Health Post	Rogo	Kano	11.480	7.955	0	
+Sabon Birni Primary Health Centre	Gwarzo	Kano	11.856	8.031	0	
+Sabon Fegi Health Post	Karaye	Kano	11.806	8.064	0	
+Sabon Layin Kara Health Post	Gwarzo	Kano	11.825	7.933	0	
+Dokar Sati Health Post	Doguwa	Kano	10.729	8.619	0	
+Saye Primary Health Centre	Bichi	Kano	12.275	8.396	0	
+Malikawa Sarari Health Post	Bichi	Kano	12.380	8.148	0	
+Yelwa Sarman Dispensary	Misau	Bauchi	11.477	10.671	0	
+sango pataki community health center	Ibadan North	Oyo	7.427	3.893	0	
+Sacred Heart Private School	Ibadan North West	Oyo	7.393	3.878	0	
+Salahu Primary Health Centre	Kwaya Kusar	Borno	10.561	11.941	0	
+Sabo	Ile Oluji/Okeigbo	Ondo	7.169	4.725	0	
+Sango	Ado Odo/Ota	Ogun	6.707	3.243	0	
+Santana Market	Ikpoba-Okha	Edo	6.292	5.633	0	
+Sacre Heart	Kaduna North	Kaduna	10.511	7.441	0	
+Safe Transport Line	Uvwie	Delta	5.548	5.781	0	
+Salvation Model Nursery and Primary School	Warri South	Delta	5.531	5.745	0	
+Sage Clinic	Warri South	Delta	5.531	5.750	0	
+Sacred Heart Seminary	Obio/Akpor	Rivers	4.846	7.045	0	
+Santa Maria Child Development Centre	Obio/Akpor	Rivers	4.839	7.045	0	
+Sadesh	Alimosho	Lagos	6.542	3.281	0	
+Salbas	Municipal Area Council	FCT Abuja	8.984	7.389	0	
+Primary health care centre Sabon Birni	Kware	Sokoto	13.247	5.275	0	
+Saint Saviours High School	Alimosho	Lagos	6.538	3.260	0	
+Sara Market	Ose	Ondo	7.300	5.898	0	
+Sadibo Market	Ọ̀wọ̀	Ondo	7.202	5.572	0	
+Sabome Market	Ese Odo	Ondo	6.442	4.892	0	
+Sasa Community School	Akinyele	Oyo	7.486	3.913	0	
+Sasa Community Health Centre	Akinyele	Oyo	7.486	3.914	0	
+Sangana Jetty	Asari-Toru	Rivers	4.758	6.817	0	
+Salida Gas Station	Akko	Gombe	10.282	11.120	0	
+Sadiqu shehu and sons filling station	Yamaltu/Deba	Gombe	10.278	11.267	0	
+Primary Health Care Romon Sarki	Tambuwal	Sokoto	12.229	4.602	0	
+General Hospital, Sabon Tasha	Chikun	Kaduna	10.451	7.468	0	
+General Hospital Sabon Birni	Sabon Birni	Sokoto	13.561	6.316	0	
+Nasara Clinic Sabon Birni	Sabon Birni	Sokoto	13.560	6.319	0	
+savannah health facility	Larmurde	Adamawa	9.589	11.915	0	
+sukur sama heath post	Madagali	Adamawa	10.742	13.584	0	
+Safatawa Health Post	Fufore	Adamawa	9.029	12.394	0	
+Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
+Sagbama Motor Park	Sagbama	Bayelsa	5.159	6.198	0	
+Sabon line junction Gombe	Gombe	Gombe	10.284	11.173	0	
+Sa'achi Nku Health Clinic	Edati	Niger	8.903	5.881	0	
+our savior anglican primary school, italowayode	Ìjẹ̀bú Òde	Ogun	6.825	3.910	0	
+Salvation Army Primary School III, Edu Agbara	Ado Odo/Ota	Ogun	6.505	3.101	0	
+oba adeniyi sonariwo school sabo	Shagamu	Ogun	6.831	3.630	0	
+ansar-udeen primary school, makun, sagamu	Shagamu	Ogun	6.851	3.634	0	
+st. saviours anglican primary school ii ijoko	Ado Odo/Ota	Ogun	6.742	3.255	0	
+Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.592	2.942	0	
+Salvation Army Primary School I, Agbara	Ado Odo/Ota	Ogun	6.584	3.192	0	
+Salvation Army Primary School,Idoye	Ado Odo/Ota	Ogun	6.527	2.927	0	
+All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.689	3.229	0	
+Local Government Primary School Iii, Sango Ota	Ado Odo/Ota	Ogun	6.682	3.230	0	
+All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.676	3.223	0	
+Salvation Army Primary School I, Edu Agbara	Ifo	Ogun	6.817	3.206	0	
+Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.559	2.929	0	
+Local Government Primary School I, Sabo	Ifo	Ogun	6.712	3.307	0	
+Local Government Primary School Iii, Sabo	Ifo	Ogun	6.753	3.102	0	
+All Saints Primary School, Araromi Ota	Ifo	Ogun	6.812	3.197	0	
+Local Government Primary School I Temidire, Sabo	Shagamu	Ogun	6.831	3.502	0	
+Local Government Primary School Ii, Sabo	Ado Odo/Ota	Ogun	6.685	3.085	0	
+Salvation Army Primary School Egudu-Baale	Ìjẹ̀bú Òde	Ogun	6.714	3.962	0	
+Our Savior /Mary Primary School, Odokwu	Ado Odo/Ota	Ogun	6.613	3.228	0	
+Salvation Army School, Coker	Ado Odo/Ota	Ogun	6.709	3.236	0	
+Local Government Primary School I, Sango Ota	Ifo	Ogun	6.768	3.225	0	
+Local Government Primary School Iv, Sango Ota	Odogbolu	Ogun	6.815	3.897	0	
+Christ Church Primary School, Sabo	Shagamu	Ogun	6.856	3.645	0	
+St.Saviour'S School, Olayemi	Ado Odo/Ota	Ogun	6.534	3.024	0	
+Salvation Army Primary School Ijaba-Ota	Ado Odo/Ota	Ogun	6.737	3.260	0	
+Ansar U Deen Primary School, Ofin Sagamu	Shagamu	Ogun	6.851	3.656	0	
+United African Mission Church, Eleja Sagamu	Shagamu	Ogun	6.842	3.642	0	
+Local Government Primary School I, Sabo	Shagamu	Ogun	6.831	3.647	0	
+Local Government Primary School Iii, Sabo	Shagamu	Ogun	6.831	3.647	0	
+Local Government Primary School Ii, Sabo	Shagamu	Ogun	6.830	3.648	0	
+Local Government Primary School I Temidire, Sabo	Shagamu	Ogun	6.825	3.644	0	
+Christ Church Primary School, Sabo	Ìjẹ̀bú Òde	Ogun	6.817	3.901	0	
+Salvation Army School, Coker	Ifo	Ogun	6.816	3.196	0	
+Moslem Primary School, Sabo-Molode	Odogbolu	Ogun	6.815	3.897	0	
+St.Saviour'S School, Olayemi	Ifo	Ogun	6.794	3.315	0	
+Our Savior /Mary Primary School, Odokwu	Ìjẹ̀bú Òde	Ogun	6.734	3.982	0	
+All Saints Primary School, Araromi Ota	Ado Odo/Ota	Ogun	6.712	3.076	0	
+St. Saviour'S Anglican Primary School Ijoko	Ado Odo/Ota	Ogun	6.712	3.231	0	
+Local Government Primary School Iii, Sango Ota	Ado Odo/Ota	Ogun	6.709	3.237	0	
+Local Government Primary School Iv, Sango Ota	Ado Odo/Ota	Ogun	6.709	3.236	0	
+Local Government Primary School Ii, Sango Ota	Ado Odo/Ota	Ogun	6.706	3.244	0	
+Salvation Army Primary School Ijaba-Ota	Ado Odo/Ota	Ogun	6.644	3.171	0	
+All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.939	0	
+Salvation Army Primary School,Idoye	Ado Odo/Ota	Ogun	6.591	3.069	0	
+Salvation Army Primary School Egudu-Baale	Ado Odo/Ota	Ogun	6.552	3.045	0	
+Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.538	3.064	0	
+Salvation Army Primary School I, Edu Agbara	Ado Odo/Ota	Ogun	6.536	3.067	0	
+All Saints Primary School, Igbesa	Ado Odo/Ota	Ogun	6.530	3.136	0	
+Salvation Army Primary School I Igbesa	Ado Odo/Ota	Ogun	6.529	3.134	0	
+Salvation Army Primary School I, Agbara	Ado Odo/Ota	Ogun	6.505	3.102	0	
+Salvation Army Primary School II, Agbara	Ado Odo/Ota	Ogun	6.504	3.102	0	
+Ielts, Toefl, Pte, Gre, Sat Center In Enugu	Enugu North	Enugu	6.458	7.525	0	
+Sasa Primary Health Center	Akinyele	Oyo	7.486	3.914	0	
+Origbegi Satisfaction maternity hospital, Ayeye	Ibadan North West	Oyo	7.383	3.893	0	
+Fajimi Maternity Centre, sasa	Akinyele	Oyo	7.476	3.921	0	
+Sagbe Clinic(Oluwasogo Clinic)	Akinyele	Oyo	7.497	3.918	0	
+As-salam Medical Centre, Office bus-stop Sasa	Akinyele	Oyo	7.486	3.914	0	
+Federal School of Statistics (FSS) Clinic, Sasa	Akinyele	Oyo	7.476	3.904	0	
+Sarmbridge Academy	Municipal Area Council	FCT Abuja	8.994	7.422	0	
+Rural Hospital Sarkin Pawa	Munya	Niger	10.022	7.123	0	
+Sara's Hospital	Jama'Are	Bauchi	11.667	9.899	0	
+Professor seddi sabastine Maimako faculty of management sciences	Jos North	Plateau	9.966	8.879	0	
+Nasarawa Medical Center (Salako)	Jos North	Plateau	9.935	8.905	0	
+Sauki Hospital	Jos North	Plateau	9.910	8.882	0	
+Asibitin Salisu	Jos North	Plateau	9.948	8.887	0	
+San San Market	Warri South	Delta	5.513	5.747	0	
+Safeside Clinic and Maternity	Ohaji/Egbema	Imo	5.556	6.753	0	
+Sabon Kaura Primary School	Bauchi	Bauchi	10.293	9.786	0	
+Manga Saleh Primary School	Bauchi	Bauchi	10.310	9.836	0	
+École Primaire Guidan Elh Sambo	Tessaoua	Katsina	13.287	8.145	0	
+New Sangotedo market	Eti Osa	Lagos	6.472	3.632	0	
+Safeway hospital	Eti Osa	Lagos	6.473	3.630	0	
+Sangotedo Primary Health Care Center	Eti Osa	Lagos	6.472	3.632	0	
+All Saints' College Gombe	Gombe	Gombe	10.300	11.146	0	
+Aman Clinic Makera Cd 35 Zango Road Sabon Gari South	Kaduna South	Kaduna	10.507	7.407	0	
+Sanasi Nursing And Maternity Home	Chikun	Kaduna	10.476	7.398	0	
+Saint Gerad Hospital Kakuri Noaa 26 Makera Road Nasarawa Kaduna	Chikun	Kaduna	10.478	7.397	0	
+Unguwar Sarki Primary Health Center	Kaduna North	Kaduna	10.551	7.448	0	
+Both Public And Private Hospitals And Clinics No21 Sani Sambo Avenue	Kaduna North	Kaduna	10.547	7.441	0	
+Primary Healthcare Kabala Layin Sarki Kabalan Doki Kaduna	Kaduna North	Kaduna	10.502	7.446	0	
+Gimo Maternity Buba Sauri Road Romi	Kaduna North	Kaduna	10.532	7.424	0	
+Savannah Hospital And Maternity	Kaduna South	Kaduna	10.443	7.416	0	
+Ungwan Sanusi Primary Health Center	Kaduna South	Kaduna	10.525	7.410	0	
+Salvation Health Clinic	Chikun	Kaduna	10.480	7.633	0	
+Sauki Clinic	Chikun	Kaduna	10.478	7.634	0	
+Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
+General Hospital Sabon Tasha St Simon Catholic Church	Chikun	Kaduna	10.428	7.528	0	
+General Hospital Sabon Tasha Down The Market Road Maraban Rido	Chikun	Kaduna	10.426	7.533	0	
+General Hospital No2 Kkb Sarki Street Keke B	Chikun	Kaduna	10.559	7.494	0	
+Federal Road Safety Hospital	Chikun	Kaduna	10.369	7.397	0	
+Safiya Medical Center	Chikun	Kaduna	10.375	7.395	0	
+General Hospital Sabon Tasha Karatudu Road	Chikun	Kaduna	10.425	7.415	0	
+General Hospital Sabon Tasha Danhoni Street Ungwan Tanko	Chikun	Kaduna	10.422	7.417	0	
+Gwamna Awan General Hospital Tunga Road No60 Angwa Sauri	Chikun	Kaduna	10.415	7.425	0	
+Primary Health Care Off Sarki Street Opp Bahago School Rido	Chikun	Kaduna	10.401	7.498	0	
+General Hospital Sabon Tasha Firoro Road Uboro Sabon Tasha Kaduna	Chikun	Kaduna	10.451	7.469	0	
+Babban Saura Primary Health Center	Chikun	Kaduna	10.485	7.463	0	
+General Hospital Sabontasha Kaduna Majalisa Street Sabontasha Kaduna	Chikun	Kaduna	10.434	7.459	0	
+Sabo Crown Hospital	Ojo	Lagos	6.462	3.173	0	
+Garden Hospital Sabo Oniba Town	Ojo	Lagos	6.462	3.175	0	
+Safe Healing Nursing Home	Amuwo Odofin	Lagos	6.459	3.223	0	
+Saving Grace Hospital	Ado Odo/Ota	Ogun	6.588	3.080	0	
+Savelife Hospital Moshe	Ado Odo/Ota	Ogun	6.562	3.189	0	
+Samas Hospital	Alimosho	Lagos	6.606	3.255	0	
+Samas Hospital And Maternity	Alimosho	Lagos	6.584	3.247	0	
+Royal Salvation Hospital	Alimosho	Lagos	6.591	3.307	0	
+Samadex Clinic	Alimosho	Lagos	6.529	3.266	0	
+Santamaria Hospital Annex	Alimosho	Lagos	6.565	3.240	0	
+Santa Maria Hospital	Alimosho	Lagos	6.549	3.232	0	
+Salvation Hospital	Mushin	Lagos	6.524	3.340	0	
+Saltak Consualtant Home	Mushin	Lagos	6.528	3.351	0	
+Saint Kizito Clinic	Mushin	Lagos	6.521	3.352	0	
+Saint Claire Hospital Ltd	Mushin	Lagos	6.537	3.340	0	
+Sacred Heart Lodge	Akure South	Ondo	7.291	5.150	0	
+God Save Patient Medicine & Provision	Akure South	Ondo	7.289	5.148	0	
+Safehands Medical Centre	Amuwo Odofin	Lagos	6.458	3.300	0	
+Saint Zeno Hospital	Iwo	Osun	7.639	4.170	0	
+Divine Care Neighborhood Clinic And Maternity Satellite Town	Amuwo Odofin	Lagos	6.453	3.252	0	
+Satellite Town Primary Health Care Center	Amuwo Odofin	Lagos	6.450	3.265	0	
+Joycy Hospital Saka Adisa Street Abule Osun	Amuwo Odofin	Lagos	6.455	3.232	0	
+Sahaba Model Science Academy	Ungongo	Kano	12.044	8.564	0	
+Abubakar Sadiq Memorial International	Ungongo	Kano	12.044	8.571	0	
+Sabil International Academy	Ungongo	Kano	12.044	8.565	0	
+Sahaba One	Ungongo	Kano	12.044	8.564	0	
+Sasif Model Nur & Pri School	Ungongo	Kano	12.043	8.569	0	
+Sahabamodel Science Academy School	Ungongo	Kano	12.044	8.564	0	
+Barantar Malam Sani	Ungongo	Kano	12.044	8.563	0	
+Dan Sa'A	Nassarawa	Kano	12.037	8.568	0	
+Sani Oil	Ungongo	Kano	12.047	8.579	0	
+Makarantar Mal Samaila	Gwale	Kano	11.957	8.470	0	
+Makarantar Malam Sama'Ila	Gwale	Kano	11.960	8.472	0	
+Muhammadu Sunusi Rayadu Salihin School	Gwale	Kano	11.959	8.477	0	
+Salldans Royal Academy	Gwale	Kano	11.960	8.477	0	
+Saldans Royal Academy	Gwale	Kano	11.961	8.478	0	
+Darul Sahaba	Gwale	Kano	11.957	8.472	0	
+Sauban Academy	Gwale	Kano	11.962	8.468	0	
+Babatunde Sanwo-Olu primary health care center Okerube	Alimosho	Lagos	6.529	3.239	0	
+Sadi Kemil	Municipal Area Council	FCT Abuja	8.987	7.393	0	
+Shining Grace College & Salama Triumph Private School	Jos North	Plateau	9.945	8.871	0	
+Salt Beach	Amuwo Odofin	Lagos	6.406	3.224	0	
+sagbokoji	Apapa	Lagos	6.433	3.377	0	
+San Pierre	Bauchi	Bauchi	10.294	9.777	0	
+Khadijat Memorial Hospital, Sango Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.511	4.588	0	
+Gaa saka Zone D, Unnamed Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.497	0	
+Sadiku Hospital, Unity Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.559	0	
+Gaa Saka Zone E, Ilorin, Nigeria	Ilorin West	Kwara	8.491	4.493	0	
+Sarkin Danko Model Primary School Nasarawa Burkullu	Bukkuyum	Zamfara	12.045	5.744	0	
+white sand oyingbo	Lagos Mainland	Lagos	6.477	3.388	0	
+De Marvel Sabo Crown Hospital	Ojo	Lagos	6.463	3.173	0	
+Santa Virgo Int'l Academy	Municipal Area Council	FCT Abuja	9.050	7.586	0	
+Golden Beauty SalÃ³n And Spa	Municipal Area Council	FCT Abuja	9.120	7.392	0	
+Sagama Orchids Estate	Municipal Area Council	FCT Abuja	9.124	7.391	0	
+Sauka Pedestrian Bridge	Municipal Area Council	FCT Abuja	8.958	7.252	0	
+Sahara Bridge	Municipal Area Council	FCT Abuja	9.064	7.477	0	
+A.M. Sambo	Ganjuwa	Bauchi	10.637	10.184	0	
+Sabahood Academy	Akamkpa	Cross River	5.056	8.621	0	
+sagbokoji back	Apapa	Lagos	6.429	3.380	0	
+Saint Gregory's College	Eti Osa	Lagos	6.446	3.412	0	
+Sahad Stores	Tarauni	Kano	11.975	8.535	0	
+Sarbi Health Post	Minjibir	Kano	12.297	8.674	0	
+Sakaratsa Health Post	Rimin Gado	Kano	11.922	8.377	0	
+Sarigarin Health Post	Kabo	Kano	11.969	8.117	0	
+Sanni Health Post	Garko	Kano	11.531	9.019	0	
+Sakwaya Health Post	Takai	Kano	11.535	9.176	0	
+Sayasaya Health Post	Albasu	Kano	11.716	8.967	0	
+Sakalawa Health Post	Ajingi	Kano	11.983	9.010	0	
+Saidawa Health Post	Dambatta	Kano	12.274	8.631	0	
+Santsi Health Post	Gabasawa	Kano	12.050	8.879	0	
+Satame Health Post	Makoda	Kano	12.290	8.530	0	
+Jigawa Satame Health Post	Makoda	Kano	12.317	8.560	0	
+Sabon Ruwa Health Post	Makoda	Kano	12.372	8.438	0	
+Sabon Gari Doka Health Post	Ungongo	Kano	12.088	8.448	0	
+Sabon Gari Rangaza Primary Health Centre	Ungongo	Kano	12.055	8.606	0	
+Sambauna Primary Health Centre	Minjibir	Kano	12.125	8.599	0	
+Sarkakiya Health Post	Dawakin Tofa	Kano	12.127	8.338	0	
+Sanakur Health Post	Bichi	Kano	12.165	8.265	0	
+Sabon Gari North	Zaki	Bauchi	12.402	10.283	0	
+Sabakuwa Yamma	Zaki	Bauchi	12.377	10.364	0	
+Sabakuwa Dispensary	Zaki	Bauchi	12.305	10.288	0	
+Sakwa Dispensary	Zaki	Bauchi	12.124	10.291	0	
+Tarbuwa Dispensary	Zaki	Bauchi	12.335	10.352	0	Sansan Dispensary
+Sabon Kafi Dispensary	Jama'Are	Bauchi	11.727	9.870	0	
+Salarma Dispensary	Toro	Bauchi	10.084	9.102	0	
+Saminakan Gwa Maternity	Toro	Bauchi	10.301	9.197	0	
+Sabon Gidan	Tafawa-Balewa	Bauchi	9.918	9.813	0	
+Sara Dispensary	Tafawa-Balewa	Bauchi	9.633	9.421	0	
+Lafiyan-sara Maternal and Child Health Clinic	Bogoro	Bauchi	9.686	9.554	0	
+Anglican Health Clinic Sara	Tafawa-Balewa	Bauchi	9.633	9.427	0	
+Sara Maternity and Clinic	Tafawa-Balewa	Bauchi	9.631	9.425	0	
+Sabo Market	Chikun	Kaduna	10.450	7.458	0	
+Mbella Sarki Dispensary	Nangere	Yobe	11.616	10.990	0	
+Saint Saviour's School Ikoyi	Eti Osa	Lagos	6.447	3.450	0	
+SAND SAND Market	Warri South	Delta	5.514	5.747	0	
+Saliola Model College	Ejigbo	Osun	7.899	4.317	0	
+Sabo Market	Ìkòròdú	Lagos	6.627	3.510	0	
+Sadiq Abubakar III International Airport	Bodinga	Sokoto	12.923	5.227	0	
+St. Saviour's School Ebute-Metta	Surulere	Lagos	6.490	3.376	0	
+Samdex O.	Ìkòròdú	Lagos	6.611	3.582	0	
+SAF Petroleum	Ìkòròdú	Lagos	6.622	3.481	0	
+Sango Junior Secondary School	Ifako/Ijaye	Lagos	6.624	3.329	0	
+Sabo Oniba Primary School	Ojo	Lagos	6.464	3.173	0	
+Sabo Timber Market'	Chikun	Kaduna	10.453	7.459	0	
+Sani Mashal Primary Health Centre	Kura	Kano	11.770	8.426	0	
+Dorawar Sallau Health Post	Garum Mallam	Kano	11.669	8.416	0	
+Sani Zubairu Health Post	Gwale	Kano	11.987	8.510	0	
+Sare-Sare Primary Health Centre	Bagwai	Kano	12.123	8.050	0	
+Gidan Sarkin Noma Primary Health Centre	Gaya	Kano	11.823	9.120	0	
+Sabon Sara Primary Health Center	Giade	Bauchi	11.432	10.302	0	
+Samanja Dispensary	Doguwa	Kano	10.609	8.809	0	
+Kirfin Sama Dispensary	Kirfi	Bauchi	10.407	10.421	0	
+Salvation Army Primary School	Ìkòròdú	Lagos	6.620	3.507	0	
+Garin Sale Maimaciji Health Center	Kirfi	Bauchi	10.265	10.669	0	
+sabo public healthcare centre	Ibadan North West	Oyo	7.402	3.886	0	
+Sabon Gari Health Clinic	Toro	Bauchi	10.206	9.361	0	
+Sakwa Maternity	Zaki	Bauchi	12.121	10.295	0	
+Gololo Dispensary	Gamawa	Bauchi	12.316	10.691	0	Garin J Saleh Dispensary
+Saradigum Maternity	Zaki	Bauchi	12.367	10.413	0	
+Sabon layi PHC	Billiri	Gombe	9.900	11.094	0	
+Sabon Kariya Maternity	Ganjuwa	Bauchi	10.875	9.752	0	
+Kogin Sallah Health Post	Toro	Bauchi	10.131	9.028	0	
+Sabon Garin Garkuwa Health Center	Bauchi	Bauchi	9.961	9.879	0	
+Saidu Dange Railway Hospital	Sabon Gari	Kaduna	11.113	7.720	0	
+Sauna Kawaji Health Post	Nassarawa	Kano	12.019	8.600	0	
+Sakdiya Dispensary	Bayo	Borno	10.434	11.771	0	
+Sadu Clinic And Maternity	Kukawa	Borno	13.096	13.823	0	
+sabon geri priimary health care center	Demsa	Adamawa	9.434	12.075	0	sabon geri
+sabon gari heath clinic	Larmurde	Adamawa	9.573	11.794	0	
+Sale Waja Health Clinic	Numan	Adamawa	9.442	12.030	0	
+Jauro Sardauna Kabillo Primary Health Care Center	Fufore	Adamawa	9.031	12.209	0	
+salma koli heath post	Maiha	Adamawa	10.016	13.096	0	
+Sangum A Dispensary	Ganye	Adamawa	8.348	11.976	0	
+Sankom Health Clinic	Ganye	Adamawa	8.308	12.030	0	
+Sankum Health Clinic	Ganye	Adamawa	8.308	12.030	0	
+Sakuwa 1 Health Clinic	Guyuk	Adamawa	9.683	11.873	0	
+Sauka Health Facility	Guyuk	Adamawa	9.902	11.909	0	
+Sabon Gari PHCC	Nangere	Yobe	11.848	11.075	0	
+Sangasmi Primary Health Center	Ganye	Adamawa	8.436	12.062	0	
+Sammeri Health Clinic	Ganye	Adamawa	8.426	11.956	0	
+Sanvam Health Post	Ganye	Adamawa	8.403	11.990	0	
+Banda Sarga Health Post	Jada	Adamawa	8.515	12.152	0	
+Sangasumi Primary Health Center	Jada	Adamawa	8.445	12.046	0	
+Salvation college	Kosofe	Lagos	6.609	3.433	0	
+As-Salam Clinic & Maternity Home	Bauchi	Bauchi	10.357	9.861	0	
+MJ Salasi International School	Municipal Area Council	FCT Abuja	9.020	7.418	0	
+Kanti Sauki	Jos South	Plateau	9.855	8.862	0	
+All Saints' School	Municipal Area Council	FCT Abuja	9.060	7.470	0	
+Kirfin Sama Primary School	Kirfi	Bauchi	10.408	10.421	0	
+Sahad Hospitals	Municipal Area Council	FCT Abuja	8.974	7.503	0	
+Our Saviour's Hospital	Port-Harcourt	Rivers	4.758	7.032	0	
+Sahad Stores	Maiduguri	Borno	11.795	13.128	0	
+Safa Health Post	Auyo	Jigawa	12.239	9.861	0	
+Sabon gari market Kano	Fagge	Kano	12.011	8.539	0	

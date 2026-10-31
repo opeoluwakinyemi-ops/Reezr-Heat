@@ -1,16 +1,24 @@
+Irete	Owerri West	Imo	5.521	6.990	3	
+Irele	Irele	Ondo	6.489	4.870	3	
+Irrua	Esan Central	Edo	6.739	6.222	3	
+Idi-Iroko	Ipokia	Ogun	6.636	2.748	3	
+Irete, omu ijebu	Odogbolu	Ogun	6.701	3.864	3	
+Irewe	Ojo	Lagos	6.417	3.141	3	Ir'jue
+Iresa-Adu	Surulere	Oyo	8.087	4.393	3	Iresa|Iresa-Du|Iresadu|Iressa
+Ode-Irele	Irele	Ondo	6.494	4.870	3	Irele
+Iragbiji	Boripe	Osun	7.904	4.687	3	
+Ilorin	Ilorin East	Kwara	8.497	4.542	3	ILR|Illorin|Ilorinas|Iloryn|alwrn|alwryn|aylwryn|illolin|ilorina|irorin|yi luo lin
 Irraboa	Bosso	Borno	13.601	13.257	2	
 Ireje	Adó-Èkìtì	Ekiti	7.596	5.252	2	
 Iro	Obafemi Owode	Ogun	6.883	3.367	2	Iraw
 Ira	Oyun	Kwara	8.083	4.606	2	
 Irogun Akere	Yewa South	Ogun	6.815	2.989	2	
-Iri	Kajuru	Kaduna	10.102	7.842	0	
 Iranla	Eti Osa	Lagos	6.489	3.613	2	
 Ireje	Adó-Èkìtì	Ekiti	7.611	5.260	2	
 Irelli	Etsako West	Edo	7.117	6.299	2	
 Iruekpen	Esan West	Edo	6.755	6.054	2	Itukpen
 Ire	Boluwaduro	Osun	7.939	4.729	2	
 Idiroko	Ipokia	Ogun	6.633	2.733	2	Idi Iroko
-Irete	Owerri West	Imo	5.521	6.990	3	
 Irlabe	Kware	Sokoto	13.167	5.333	2	
 Ire-Ekiti	Ikole	Ekiti	7.739	5.397	2	Ire
 Iro	Moba	Ekiti	7.998	5.095	2	
@@ -26,47 +34,153 @@ Ago-Iredia	Ovia North-East	Edo	6.272	5.445	2
 Irede	Amuwo Odofin	Lagos	6.427	3.234	2	
 Irri	Isoko South	Delta	5.441	6.213	2	
 Iri	Rijau	Niger	11.170	5.010	2	
-Irele	Irele	Ondo	6.489	4.870	3	
-Irrua	Esan Central	Edo	6.739	6.222	3	
 Ido Irapa	Ekiti West	Ekiti	7.800	4.950	2	Iddo Irapa;Ido Irapa
 Irapa	Ifelodun	Kwara	8.285	4.709	2	
 Irawo Owode	Atisbo	Oyo	8.529	3.362	2	
 Iropo Elefa	Ipokia	Ogun	6.833	2.783	2	
 Ago-Ireti	Idanre	Ondo	7.120	5.063	2	
 Irahun	Ibaji	Kogi	6.814	6.661	2	
-Iragbiji	Boripe	Osun	7.900	4.683	2	
 Irore	Irepodun	Kwara	8.097	5.062	2	
 Iressa (2)	Surulere	Oyo	8.083	4.350	2	Iresa Pa;Iressa (2);Iressa
 Iropo	Ipokia	Ogun	6.817	2.767	2	
 Iroko	Bassa	Kogi	7.571	6.712	2	
 Irawo	Ìjẹ̀bú Òde	Ogun	6.723	4.036	2	Iraw
 Iragberi	Egbedore	Osun	7.783	4.367	2	Agberi
-Iris School	Warri South	Delta	5.537	5.749	0	
-Irun Akoko Market	Akoko North West	Ondo	7.588	5.671	0	
-Irowo Market	Ọ̀wọ̀	Ondo	7.177	5.614	0	
-Ode-Irele Market	Irele	Ondo	6.491	4.871	0	
-Irawo Bus Stop	Kosofe	Lagos	6.610	3.422	0	
-Ire-Anu Hospital	Ìkòròdú	Lagos	6.625	3.495	0	
-Idi-Iroko	Ipokia	Ogun	6.636	2.748	3	
-local government primary school i, iroko aparadija	Ado Odo/Ota	Ogun	6.703	3.271	0	
-local government primary school ii, iroko aparadija	Ado Odo/Ota	Ogun	6.703	3.271	0	
-Local Government Primary School Irasusi	Shagamu	Ogun	6.686	3.504	0	
-St. Anne'S Catholic Primary School, Irawo	Ado Odo/Ota	Ogun	6.543	3.130	0	
-Local Government Primary School Irasusi	Shagamu	Ogun	6.872	3.557	0	
-United African Methodist Church, Eleja, Iraye	Shagamu	Ogun	6.730	3.586	0	
-St. Anne'S Catholic Primary School, Irawo	Epe	Lagos	6.665	4.005	0	
 Kenan-Irri	Sagbama	Bayelsa	5.303	6.402	2	
-Irewe Primary Care Health Center Osulu Kingdom	Ojo	Lagos	6.418	3.145	0	
-Irede Primary Health Centre	Amuwo Odofin	Lagos	6.427	3.234	0	
-Irede Primary Health Center Riverine	Amuwo Odofin	Lagos	6.448	3.261	0	
-Irede Primary Health Center	Amuwo Odofin	Lagos	6.441	3.265	0	
-Oke Ira Nla (Ajah)	Eti Osa	Lagos	6.491	3.579	0	
-Irete, omu ijebu	Odogbolu	Ogun	6.701	3.864	3	
-irewe ojo	Ojo	Lagos	6.425	3.153	0	
-irede	Amuwo Odofin	Lagos	6.429	3.235	0	
-Irewe	Ojo	Lagos	6.418	3.143	2	
-Iron Bridge	Municipal Area Council	FCT Abuja	8.994	7.349	0	
 Iruowelle Village	Aguata	Anambra	6.041	7.024	2	
+Iresi	Ila	Osun	7.941	4.858	2	
+Iro Mmawu Umuegorom	Ihiala	Anambra	5.873	6.845	2	
+Irepodun/Ifelodun	Irepodun/Ifelodun	Ekiti	7.706	5.264	2	
+Irele	Irele	Ondo	6.506	4.996	2	
+Irepodun	Irepodun	Kwara	8.194	4.855	2	
+Irewole	Irewole	Osun	7.423	4.211	2	
+Irepo	Irepo	Oyo	9.025	3.885	2	
+Ori Ire	Ori Ire	Oyo	8.309	4.204	2	
+Irepodun	Irepodun	Osun	7.895	4.522	2	
+Umu Iroma	Obi Ngwa	Abia	5.118	7.515	2	
+Iwhrorude	Ughelli South	Delta	5.344	6.019	2	Ireruke
+Irunda	Mopa-Muro	Kogi	8.304	5.952	2	
+Irun	Akoko North West	Ondo	7.588	5.670	2	
+Iruga	Zaria	Kaduna	10.967	7.767	2	
+Iru	Eti Osa	Lagos	6.433	3.417	2	
+Iru	Orhionmwon	Edo	6.325	6.030	2	
+Irtwande	Konshisha	Benue	7.195	8.529	2	
+Irowa	Okitipupa	Ondo	6.583	4.597	2	
+Iropora	Irepodun/Ifelodun	Ekiti	7.757	5.157	2	
+Iropo-Elefa	Ipokia	Ogun	6.831	2.774	2	Iropo Elefa
+Iro-Ogbadun	Ori Ire	Oyo	8.462	4.146	2	Iro Ogbadun
+Irolu	Ikenne	Ogun	6.903	3.742	2	
+Irokun	Ogun Waterside	Ogun	6.376	4.550	2	
+Iroko	Afijio	Oyo	7.658	3.921	2	
+Irokhin	Uhunmwonde	Edo	6.383	5.867	2	
+Irogun-Akere	Yewa South	Ogun	6.815	2.989	2	Akere|Irogun Akere
+Irogbo	Ilesha East	Osun	7.583	4.781	2	
+Irina	Shiroro	Niger	10.082	6.741	2	
+Iriama	Okpe	Delta	5.695	5.717	2	
+Irhue	Uhunmwonde	Edo	6.690	5.938	2	
+Ireso	Ìsẹ́yìn	Oyo	7.880	3.459	2	
+Irese	Akure North	Ondo	7.335	5.198	2	
+Iresa-Pa	Surulere	Oyo	8.075	4.348	2	Iresa Pa|Iressa|Iressa (2)
+Irepodun	Atiba	Oyo	8.056	3.812	2	
+Irepodun	Afijio	Oyo	7.790	4.036	2	
+Irepodun	Akinyele	Oyo	7.568	3.928	2	
+Iregun	Obokun	Osun	7.681	4.705	2	
+Iregbeta	Kogi	Kogi	8.383	6.924	2	
+Iregba-Bamikole	Surulere	Oyo	8.073	4.482	2	Iregba Bamikole
+Iregba	Surulere	Oyo	8.053	4.488	2	
+Iraye	Shagamu	Ogun	6.725	3.591	2	
+Irawo-Owode	Atisbo	Oyo	8.530	3.360	2	Irawo|Irawo Owode
+Irawo-Ile	Atisbo	Oyo	8.548	3.338	2	Irawaw|Irawo|Irawo Ile
+Iranyin	Surulere	Oyo	7.968	4.439	2	
+Iranla	Eti Osa	Lagos	6.489	3.616	2	
+Irana	Magama	Niger	10.529	4.940	2	
+Iraki	Kogi	Kogi	8.244	6.801	2	
+Iragon	Badagry	Lagos	6.498	2.932	2	
+Iragbo	Badagry	Lagos	6.497	2.934	2	
+Iraba	Birnin Gwari	Kaduna	10.967	6.283	2	
+Ira	Okitipupa	Ondo	6.506	4.603	2	
+Ikot Ire	Ukanafun	Akwa Ibom	4.937	7.608	2	
+Ido-Irapa	Ekiti West	Ekiti	7.804	4.957	2	Iddo Irapa|Ido Irapa
+Idi Iroko	Surulere	Oyo	8.133	4.367	2	
+Idi Iroko	Aiyedade	Osun	7.583	4.500	2	
+Idi-Iroko	Ibadan South East	Oyo	7.340	3.873	2	Idi Iroko
+Idiroko	Ipokia	Ogun	6.632	2.747	2	Idi Iroko
+Ebute Irele	Okitipupa	Ondo	6.498	4.835	2	
+Oke-Ira	Surulere	Lagos	6.492	3.371	2	Oke Ira
+Iroko	Ado Odo/Ota	Ogun	6.702	3.271	2	
+Iriebe	Obio/Akpor	Rivers	4.867	7.110	2	
+Ira	Ìkòròdú	Lagos	6.651	3.640	2	
+Irewon	Ìjẹ̀bú Òde	Ogun	6.848	3.920	2	
+Iromi	Akoko South East	Ondo	7.359	5.960	2	
+Iro	Apa	Benue	7.721	8.059	2	
+Iro	Ijebu East	Ogun	6.664	4.119	2	
+Ira-Atijo	Ilaje	Ondo	6.489	4.598	2	
+Irawa	Ingawa	Katsina	12.685	8.023	2	
+Iriye	Rijau	Niger	11.190	4.983	2	
+Iruga	Zaria	Kaduna	10.956	7.758	2	
+Irhodo	Ethiope West	Delta	5.864	5.827	2	
+Iri-Hakini	Birnin Kebbi	Kebbi	12.455	4.306	2	Iri-Hakimi
+Ivori-Irri	Isoko South	Delta	5.437	6.321	2	
+Warri Irri	Ndokwa East	Delta	5.329	6.478	2	
+Irepodun	Egbedore	Osun	7.833	4.483	2	
+Irewole	Irewole	Osun	7.417	4.217	2	Agbegbe Ijoba Ibile Irewole
+Ori Ire	Ori Ire	Oyo	8.334	4.144	2	Ori-Ire
+Irepo	Irepo	Oyo	8.903	3.994	2	
+Irepodun	Irepodun	Kwara	8.147	4.913	2	Irepodun Local Government Area
+Irepodun/Ifelodun	Irepodun/Ifelodun	Ekiti	7.716	5.229	2	Agbegbe Ijoba Ibile Irepodun/Ifelodun|Ifelodun/Irepodun|Irepodun/Ifelodun Local Government Area
+Irele	Irele	Ondo	6.535	5.009	2	Irele Local Government Area
+Abi Irruan	Ogoja	Cross River	6.518	8.923	2	
+Irim	Logo	Benue	7.576	9.410	2	
+Irigba	Ushongo	Benue	7.052	9.156	2	
+Irevbu	Uhunmwonde	Edo	6.437	6.000	2	
+Igbo Iroko	Ojo	Lagos	6.482	3.195	2	
+Iri Jaka	Jada	Adamawa	8.750	12.118	2	
+Irewe	Ojo	Lagos	6.425	3.167	2	
+Ira	Ojo	Lagos	6.475	3.218	2	
+Irepodun	Amuwo Odofin	Lagos	6.472	3.273	2	Festac I Ward
+Irede	Amuwo Odofin	Lagos	6.425	3.220	2	
+Irone	Surulere	Lagos	6.489	3.334	2	
+Ishaga Ire-Akari	Oshodi/Isolo	Lagos	6.524	3.320	2	
+Ijaiye Oke-Ira	Ifako/Ijaye	Lagos	6.640	3.338	2	
+Oke Ira Central	Ikeja	Lagos	6.645	3.347	2	
+Oke Ira Powerline	Ikeja	Lagos	6.651	3.347	2	
+Ado Oke-Ira	Eti Osa	Lagos	6.492	3.596	2	
+Ohe-Irrua	Esan North-East	Edo	6.785	6.399	2	
+Idumebo-Irrua	Esan Central	Edo	6.734	6.203	2	
+Usenu-Irrua	Esan Central	Edo	6.738	6.214	2	
+Idumabi-Irrua	Esan Central	Edo	6.727	6.210	2	
+Eko-Irrua	Esan Central	Edo	6.721	6.211	2	
+Akho-Irrua	Esan Central	Edo	6.747	6.226	2	
+Iriyau	Kachia	Kaduna	9.736	7.685	2	
+Irue	Esan North-East	Edo	6.726	6.379	2	
+Iruowelle	Orumba South	Anambra	5.949	7.245	2	
+Elewe-Iran	Abeokuta North	Ogun	7.327	3.019	2	
+Irefurun	Odeda	Ogun	7.247	3.394	2	
+Bale-Irefin	Egbeda	Oyo	7.396	4.048	2	
+Iraye	Aiyedade	Osun	7.308	4.286	2	
+Ireja	Irepodun	Osun	7.955	4.534	2	
+Aba-Iroko	Atakunmosa West	Osun	7.600	4.592	2	
+Idi-Iroko	Atakunmosa West	Osun	7.640	4.582	2	
+Irode	Atakunmosa West	Osun	7.553	4.746	2	
+Irefon	Atakunmosa West	Osun	7.621	4.678	2	
+Irogbo	Efon	Ekiti	7.608	4.946	2	
+Irosu	Badagry	Lagos	6.429	2.747	2	
+Iroko	Ife North	Osun	7.405	4.513	2	
+Iresi	Ife South	Osun	7.314	4.627	2	
+Elewe-Iran	Ife South	Osun	7.260	4.656	2	
+Irowa Ajebamibo	Ondo West	Ondo	7.090	4.684	2	
+Bolorunduro-Irowa	Ondo West	Ondo	7.094	4.756	2	
+Oke-Irore	Ondo West	Ondo	7.022	4.665	2	
+Ireje	Ondo East	Ondo	7.167	4.942	2	
+Idi-Iroko	Ori Ire	Oyo	8.263	4.137	2	
+Iro-Alade	Odeda	Ogun	7.284	3.521	2	
+Idi-Iroko	Odeda	Ogun	7.282	3.573	2	
+Iropo	Ibarapa East	Oyo	7.455	3.503	2	
+Ga-Irapa	Ifelodun	Kwara	8.300	4.702	2	
+Arikaji Irena	Toto	Nasarawa	8.025	7.239	2	ArikajiIrena
+Ire-Osun	Ede South	Osun	7.652	4.434	2	
+Ago-Ireti	Iwo	Osun	7.632	4.153	2	
+Ire-Osun	Ede South	Osun	7.626	4.484	2	
 Oke-Ira Road	Surulere	Lagos	6.488	3.379	1	
 Iriegie Street	Oredo	Edo	6.348	5.621	1	
 Irhirhi Road	Oredo	Edo	6.255	5.581	1	
@@ -98,8 +212,6 @@ Idi-Iroko Road	Yewa South	Ogun	6.700	2.917	1
 Idi-Iroko Road	Yewa South	Ogun	6.702	2.945	1	
 Ireti Street	Lagos Mainland	Lagos	6.508	3.375	1	
 Irepodun Street	Alimosho	Lagos	6.634	3.300	1	
-Irepodun Street	Agege	Lagos	6.641	3.306	1	
-Irepodun Street	Agege	Lagos	6.620	3.303	1	
 Irene Street	Oredo	Edo	6.330	5.593	1	
 Frank Irabor Lane	Oredo	Edo	6.313	5.588	1	
 Iriegie Lane	Oredo	Edo	6.348	5.620	1	
@@ -127,39 +239,47 @@ Lady Aguiyi Irosi road	Umuahia North	Abia	5.520	7.504	1
 Irepodun Street	Kosofe	Lagos	6.612	3.377	1	
 Chief Wahab Irawo Street	Oshodi/Isolo	Lagos	6.493	3.314	1	
 Irepodun Street	Ado Odo/Ota	Ogun	6.719	3.255	1	
-Iresi	Ila	Osun	7.941	4.858	2	
 Idi-Iroko Road	Ado Odo/Ota	Ogun	6.677	3.130	1	
 Ire-Akari Estate Road	Oshodi/Isolo	Lagos	6.523	3.322	1	
 Fasasi Iroko Street	Oshodi/Isolo	Lagos	6.509	3.313	1	
 Oke Ira Nla Road	Eti Osa	Lagos	6.488	3.607	1	
 Iremo Road	Ife Central	Osun	7.485	4.554	1	
 Ire-Legbogbo-Okitipupa Road	Irele	Ondo	6.484	4.875	1	
-Hope and Ireti Primary Schools	Eti Osa	Lagos	6.444	3.436	0	
 Idi-Iroko Road	Ado Odo/Ota	Ogun	6.682	3.194	1	
-Idi-Iroko Road	Ado Odo/Ota	Ogun	6.696	3.232	1	
 Aaron Irabor Street	Eti Osa	Lagos	6.446	3.516	1	
 Offor-IroMmawu Street	Ihiala	Anambra	5.872	6.846	1	
-Iro Mmawu Umuegorom	Ihiala	Anambra	5.873	6.845	2	
 Aguiyi Ironsi Street	Municipal Area Council	FCT Abuja	9.081	7.493	1	
 Oke-Ira Road	Surulere	Lagos	6.493	3.371	1	
-Aguiyi Ironsi Street	Municipal Area Council	FCT Abuja	9.087	7.473	1	
 Iris Street	Eti Osa	Lagos	6.443	3.559	1	
 Ireshe road	Ìkòròdú	Lagos	6.611	3.511	1	
-Iraye Road	Epe	Lagos	6.593	3.986	1	
-Irowa Medical Center	Oredo	Edo	6.321	5.628	0	
-Osun State Comprehensive Health Centre, Iragberi	Egbedore	Osun	7.778	4.377	0	
 Irewole Avenue	Ikeja	Lagos	6.592	3.361	1	
 Irhirhi Road	Ikpoba-Okha	Edo	6.210	5.586	1	
-Irhirhi Road	Oredo	Edo	6.220	5.585	1	
-Iruoma Obosi Hospital Maternity	Idemili North	Anambra	6.121	6.832	0	
 Irare Street	Oye	Ekiti	7.803	5.335	1	
 Ngozi irondi street	Oshodi/Isolo	Lagos	6.515	3.297	1	
-Ireti Medical Clinic	Akoko South West	Ondo	7.440	5.763	0	
 Irone Avenue Link	Surulere	Lagos	6.491	3.336	1	
-Irepodun/Ifelodun	Irepodun/Ifelodun	Ekiti	7.706	5.264	2	
-Irele	Irele	Ondo	6.506	4.996	2	
-Irepodun	Irepodun	Kwara	8.194	4.855	2	
-Irewole	Irewole	Osun	7.423	4.211	2	
-Irepo	Irepo	Oyo	9.025	3.885	2	
-Ori Ire	Ori Ire	Oyo	8.309	4.204	2	
-Irepodun	Irepodun	Osun	7.895	4.522	2	
+Iri	Kajuru	Kaduna	10.102	7.842	0	
+Iris School	Warri South	Delta	5.537	5.749	0	
+Irun Akoko Market	Akoko North West	Ondo	7.588	5.671	0	
+Irowo Market	Ọ̀wọ̀	Ondo	7.177	5.614	0	
+Ode-Irele Market	Irele	Ondo	6.491	4.871	0	
+Irawo Bus Stop	Kosofe	Lagos	6.610	3.422	0	
+Ire-Anu Hospital	Ìkòròdú	Lagos	6.625	3.495	0	
+local government primary school i, iroko aparadija	Ado Odo/Ota	Ogun	6.703	3.271	0	
+local government primary school ii, iroko aparadija	Ado Odo/Ota	Ogun	6.703	3.271	0	
+Local Government Primary School Irasusi	Shagamu	Ogun	6.686	3.504	0	
+St. Anne'S Catholic Primary School, Irawo	Ado Odo/Ota	Ogun	6.543	3.130	0	
+Local Government Primary School Irasusi	Shagamu	Ogun	6.872	3.557	0	
+United African Methodist Church, Eleja, Iraye	Shagamu	Ogun	6.730	3.586	0	
+St. Anne'S Catholic Primary School, Irawo	Epe	Lagos	6.665	4.005	0	
+Irewe Primary Care Health Center Osulu Kingdom	Ojo	Lagos	6.418	3.145	0	
+Irede Primary Health Centre	Amuwo Odofin	Lagos	6.427	3.234	0	
+Irede Primary Health Center Riverine	Amuwo Odofin	Lagos	6.448	3.261	0	
+Irede Primary Health Center	Amuwo Odofin	Lagos	6.441	3.265	0	
+Oke Ira Nla (Ajah)	Eti Osa	Lagos	6.491	3.579	0	
+irewe ojo	Ojo	Lagos	6.425	3.153	0	
+Iron Bridge	Municipal Area Council	FCT Abuja	8.994	7.349	0	
+Hope and Ireti Primary Schools	Eti Osa	Lagos	6.444	3.436	0	
+Irowa Medical Center	Oredo	Edo	6.321	5.628	0	
+Osun State Comprehensive Health Centre, Iragberi	Egbedore	Osun	7.778	4.377	0	
+Iruoma Obosi Hospital Maternity	Idemili North	Anambra	6.121	6.832	0	
+Ireti Medical Clinic	Akoko South West	Ondo	7.440	5.763	0	

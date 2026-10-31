@@ -27,21 +27,57 @@ Ovenama	Ovia South-West	Edo	6.150	5.216	2
 Ovwodokpokpor	Udu	Delta	5.472	5.863	2	Owodokpokpor
 Ovu	Ethiope East	Delta	5.648	5.931	2	
 Ovade Jerhe	Ethiope West	Delta	5.808	5.796	2	Ovade Jesse
-Ovwian	Udu	Delta	5.492	5.783	2	
 Ovwori	Okpe	Delta	5.787	5.798	2	Ofori
 Igrwre-Ovie	Ughelli North	Delta	5.478	6.032	2	
-Stop over bus stop	Oshodi/Isolo	Lagos	6.554	3.325	0	
-Ovus Nig. Ltd	Uvwie	Delta	5.570	5.745	0	
-Ori	Isoko North	Delta	5.555	6.343	0	Oria-Ovo Primary School
-Ovoh Filling Station	Uvwie	Delta	5.528	5.781	0	
 Ovara-Unukpo	Ughelli North	Delta	5.668	6.093	2	
 Ovara-Umusu	Ughelli North	Delta	5.673	6.098	2	
+Ovia South-West	Ovia South-West	Edo	6.471	5.299	2	
+Ovia North-East	Ovia North-East	Edo	6.396	5.503	2	
+Ovum	Akamkpa	Cross River	5.549	8.808	2	Owom
+Owodokpokpor	Isoko South	Delta	5.329	6.165	2	Ovbodokpokpo|Owodokpokpo
+Ovbieka	Orhionmwon	Edo	6.244	6.029	2	Owika
+Ovwodokpokpor	Ughelli South	Delta	5.387	5.907	2	
+Ovuoku	Isiala-Ngwa North	Abia	5.250	7.417	2	
+Ovungu	Gwer West	Benue	7.472	8.189	2	
+Ovu Ngwu	Isiala-Ngwa North	Abia	5.319	7.378	2	
+Ovukwa	Obubra	Cross River	5.921	8.255	2	Ovague|Ovaque
+Ovu Inland	Ethiope East	Delta	5.648	5.929	2	Ovu
+Ovu	Ethiope East	Delta	5.750	5.900	2	
+Ovoro	Aboh-Mbaise	Imo	5.385	7.255	2	
+Ovorji	Isiala-Ngwa North	Abia	5.283	7.417	2	
+Ovor	Donga	Taraba	7.832	10.217	2	
+Ovonum	Obubra	Cross River	5.993	8.270	2	
+Ovom	Obi Ngwa	Abia	5.084	7.422	2	
+Ovoaba	Abakaliki	Ebonyi	6.271	8.320	2	Okpuitumu
+Oviri-Ogor	Ughelli North	Delta	5.453	6.004	2	
+Oviri-Court	Okpe	Delta	5.657	5.769	2	Oviri
+Oviri	Sapele	Delta	5.844	5.723	2	
+Oviorie	Ethiope East	Delta	5.662	5.918	2	
+Ovim	Aninri	Enugu	5.985	7.638	2	
+Ovim	Isuikwuato	Abia	5.745	7.536	2	
+Ovhororo	Ughelli North	Delta	5.295	6.052	2	
+Ovhori	Ughelli South	Delta	5.441	5.952	2	
+Overo	Uzo-Uwani	Enugu	6.776	7.209	2	Uvuru
+Overe	Kurmi	Taraba	7.337	10.545	2	
+Obor Ovoro	Aboh-Mbaise	Imo	5.356	7.265	2	
+Iza-Ovim	Aninri	Enugu	5.974	7.613	2	
+Ovogo	Emuoha	Rivers	4.941	6.772	2	Obogo
+Ovanibe	Biase	Cross River	5.385	8.090	2	
+Ovade New Site	Ethiope West	Delta	5.985	5.695	2	
+Ovade-Ofo	Ethiope West	Delta	5.801	5.798	2	
+Ekpan	Ethiope East	Delta	5.747	5.901	2	Ovu
+Ovwere	Ethiope East	Delta	5.727	5.884	2	
+Uvwiamuge	Ughelli North	Delta	5.558	5.884	2	Ovwiammuge
+Uvwiama	Ughelli North	Delta	5.562	5.875	2	Ovwiama
+Ovbiebo Camp	Orhionmwon	Edo	6.057	6.151	2	
+Ovia South-West	Ovia South-West	Edo	6.396	5.272	2	Ovia South West|Ovia Sud Ouest|Ovia ta Kudu maso Yamma|Se-lam Ovia
+Ovia North-East	Ovia North-East	Edo	6.645	5.580	2	Ovia Nord Est|Ovia North East|Ovia ta Arewa maso Gabas|Tang-pak Ovia
+Ovor	Ushongo	Benue	7.203	9.015	2	
 Ovie-whisky Avenue	Oredo	Edo	6.333	5.598	1	
 Oviasogie Street	Egor	Edo	6.362	5.584	1	
 Ovenseri Street	Oredo	Edo	6.347	5.604	1	
 Oviawe Street	Oredo	Edo	6.339	5.601	1	
 Oviawe Street	Egor	Edo	6.370	5.584	1	
-Oviasogie Street	Egor	Edo	6.357	5.574	1	
 Ovia Crescent	Municipal Area Council	FCT Abuja	9.084	7.493	1	
 Edo-ovbiye Street	Egor	Edo	6.367	5.632	1	
 Ovierugo Street	Warri South	Delta	5.530	5.755	1	
@@ -49,7 +85,6 @@ Ubadode - Oviri	Udu	Delta	5.488	5.757	1
 Ovie-whisky close	Oredo	Edo	6.335	5.598	1	
 Ovie-whisky Lane	Oredo	Edo	6.332	5.597	1	
 2nd Ovie-whisky lane	Oredo	Edo	6.333	5.597	1	
-Ovie-whisky Avenue	Oredo	Edo	6.335	5.598	1	
 Ovie-whisky Street	Oredo	Edo	6.337	5.597	1	
 Overrail Road	Enugu North	Enugu	6.450	7.497	1	
 Ovim Street	Enugu North	Enugu	6.439	7.500	1	
@@ -58,5 +93,7 @@ Chief Owho Ovuakporie Street	Ikeja	Lagos	6.552	3.319	1
 Oviepalace Road	Uvwie	Delta	5.566	5.801	1	
 Oviebo Street	Ikpoba-Okha	Edo	6.299	5.691	1	
 Ovwor Road	Ughelli South	Delta	5.482	5.960	1	
-Ovia South-West	Ovia South-West	Edo	6.471	5.299	2	
-Ovia North-East	Ovia North-East	Edo	6.396	5.503	2	
+Stop over bus stop	Oshodi/Isolo	Lagos	6.554	3.325	0	
+Ovus Nig. Ltd	Uvwie	Delta	5.570	5.745	0	
+Ori	Isoko North	Delta	5.555	6.343	0	Oria-Ovo Primary School
+Ovoh Filling Station	Uvwie	Delta	5.528	5.781	0	

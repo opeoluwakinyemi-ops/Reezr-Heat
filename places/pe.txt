@@ -1,10 +1,12 @@
-So Fine Petrol Station	Agege	Lagos	6.648	3.307	0	
-Mobil Petrol Station	Ifako/Ijaye	Lagos	6.650	3.303	0	
+Anguwan Audu	Kwaya Kusar	Borno	10.344	11.925	3	Peta
+Lekki Peninsula II	Eti Osa	Lagos	6.440	3.520	3	
+Lekki	Eti Osa	Lagos	6.446	3.477	3	Lekki Peninsula
+Pege	Municipal Area Council	FCT Abuja	9.140	7.372	2	
 Pelguji	Akko	Gombe	10.188	10.867	2	
 Percival Point	Degema	Rivers	4.600	6.999	2	
 Peteko	Baruten	Kwara	8.883	3.183	2	Petoko
 Feri	Paikoro	Niger	9.533	7.167	2	Peli
-Anguwan Audu	Kwaya Kusar	Borno	10.344	11.925	3	Peta
+Jem Petel	Karim Lamido	Taraba	9.322	11.379	2	
 Pelambirni	Hawul	Borno	10.406	12.372	2	Pillamindi
 Peterside	Bonny	Rivers	4.479	7.162	2	
 Peupeunga	Askira-Uba	Borno	10.434	13.220	2	
@@ -29,6 +31,240 @@ Peyer	Tarka	Benue	7.678	8.828	2	Pever
 Pemi Bulali	Chibok	Borno	10.777	12.950	2	Lawanti
 Pelahanzikila	Shani	Borno	10.139	12.002	2	Pilahangjikila
 Pekan	Ori Ire	Oyo	8.400	4.283	2	Ipekun
+Dukurngatha Peshingo	Shani	Borno	10.332	11.939	2	
+Peshingo Jauro Baba	Shani	Borno	10.098	12.061	2	
+Peshongo Liman Hamma	Shani	Borno	10.100	12.064	2	
+Pesshi Jauro Musa	Bayo	Borno	10.445	11.666	2	
+Pesshi Jauro Ya'U	Bayo	Borno	10.451	11.671	2	
+Pesshi	Bayo	Borno	10.465	11.664	2	
+Pelabirni Dispensary	Hawul	Borno	10.406	12.370	2	
+Pelajil	Hawul	Borno	10.476	12.415	2	
+Pela Olla	Hawul	Borno	10.554	12.185	2	
+Pelakista	Hawul	Borno	10.578	12.254	2	
+Pelallsta	Hawul	Borno	10.563	12.268	2	
+Pela Sangam	Biu	Borno	10.611	12.377	2	
+Pelathabu	Hawul	Borno	10.546	12.322	2	Pelathlabu
+Gar Pela	Biu	Borno	10.755	12.279	2	
+Madou Gakouri Peulh	Goudoumaria	Yobe	13.391	11.130	2	
+Maridi Peulh (Sehendou)	Maïné Soroa	Yobe	13.347	11.608	2	
+Goulé Sidi Pépa	Borgu	Niger	10.675	3.821	2	
+Penpem	Dambatta	Kano	12.552	8.700	2	
+Pessu	Warri South	Delta	5.508	5.752	2	
+Perewarigbene	Southern Ijaw	Bayelsa	4.449	5.893	2	
+Pedro	Shomolu	Lagos	6.545	3.374	2	
+Pessu	Warri South	Delta	5.503	5.750	2	
+Peni Peni	Fakai	Kebbi	11.354	5.073	2	
+Pemi	Chibok	Borno	10.789	12.939	2	
+Peta	Kwaya Kusar	Borno	10.348	11.917	2	
+Yelwa	Takum	Taraba	7.504	9.938	2	Peva
+Peyajigiri	Damboa	Borno	10.994	12.523	2	
+Peyagima	Chibok	Borno	10.841	12.849	2	
+Pewi	Bwari	FCT Abuja	9.183	7.450	2	
+Pevkyaa	Konshisha	Benue	7.208	8.601	2	
+Pevegh	Gboko	Benue	7.424	8.631	2	
+Petta	Bosso	Niger	9.712	6.541	2	Feta
+Petoko-Titun	Baruten	Kwara	8.911	3.188	2	Petawbu|Petoko Titun
+Pete	Fufore	Adamawa	9.564	13.085	2	
+Peshiep	Shendam	Plateau	8.815	9.448	2	Bakinkogi
+Peshi	Ganye	Adamawa	8.458	12.150	2	
+Pesa	Kachia	Kaduna	9.954	7.920	2	
+Perma	Ningi	Bauchi	11.140	9.047	2	
+Perindoki	Paikoro	Niger	9.396	6.834	2	
+Peregh	Guma	Benue	8.039	8.780	2	
+Pere	Aiyedade	Osun	7.552	4.286	2	
+Pepen	Bassa	Plateau	10.059	8.941	2	
+Pepele	Ilorin East	Kwara	8.578	4.833	2	
+Penweta	Paikoro	Niger	9.410	6.752	2	
+Penshebo	Paikoro	Niger	9.340	6.592	2	
+Peneru	Donga	Taraba	7.649	10.117	2	
+Pendi-pendi	Gombi	Adamawa	10.066	12.300	2	
+Pendi	Fufore	Adamawa	9.160	12.230	2	
+Pemi	Chibok	Borno	10.777	12.917	2	
+Pem Giji	Mangu	Plateau	9.583	9.317	2	
+Pelu	Toro	Bauchi	10.338	9.628	2	
+Pella Tabilang	Kirfi	Bauchi	10.383	10.533	2	
+Pella	Hawul	Borno	10.483	12.550	2	
+Pella	Hong	Adamawa	10.152	12.938	2	
+Pella	Song	Adamawa	9.866	12.431	2	
+Peli	Gboko	Benue	7.337	8.715	2	
+Peletu	Atiba	Oyo	8.114	3.944	2	
+Pelemi	Lapai	Niger	8.558	6.627	2	
+Pelebosu	Ese Odo	Ondo	6.218	5.020	2	
+Pele	Ogo Oluwa	Oyo	7.995	4.151	2	
+Pelakombo	Bayo	Borno	10.250	11.774	2	
+Peiye	Egbeda	Oyo	7.460	4.026	2	
+Pei	Shiroro	Niger	10.193	6.938	2	
+Pegi	Doguwa	Kano	11.130	8.570	2	
+Pegi	Dass	Bauchi	10.139	9.429	2	
+Oja Pedepo	Yewa North	Ogun	7.367	2.950	2	
+Odo Pete	Yagba West	Kogi	8.241	5.610	2	
+Moshi Peku	Baruten	Kwara	9.212	3.759	2	Moshi
+Mindi Pella	Hawul	Borno	10.451	12.398	2	
+Kwai Petel	Fufore	Adamawa	9.084	12.356	2	
+Kohi Petel	Fufore	Adamawa	9.109	12.331	2	
+Jem Petel	Lau	Taraba	9.312	11.374	2	
+Jalingo Pewuri	Maiha	Adamawa	10.080	13.171	2	
+Fan Petel	Ardo-Kola	Taraba	8.845	11.147	2	
+Fan Petel	Ardo-Kola	Taraba	8.725	11.264	2	
+Penbrokiri	Akuku Toru	Rivers	4.439	6.698	2	Penakiri
+Jako-Petedo	Ado Odo/Ota	Ogun	6.514	3.077	2	
+Peratemsa	Gombi	Adamawa	10.073	12.336	2	
+Peterberem	Shani	Borno	10.173	12.132	2	
+Perkyaa	Gwer East	Benue	7.456	8.488	2	
+Gidan Peleta	Shiroro	Niger	10.041	6.624	2	
+Ajapepe	Warri South-West	Delta	5.607	5.336	2	Aja Pepe|Atamba
+Peikumogbene	Burutu	Delta	5.278	5.602	2	
+Pepegbene	Southern Ijaw	Bayelsa	4.482	5.749	2	
+Periwarigbene	Southern Ijaw	Bayelsa	4.447	5.893	2	Perewarigbene
+Peruyale Camp	Ekeremor	Bayelsa	4.885	5.702	2	Peruyale
+Perawari	Isoko South	Delta	5.268	6.282	2	
+Pengin	Maiha	Adamawa	9.994	13.134	2	
+Peni Peni	Fakai	Kebbi	11.358	5.064	2	
+Penda	Markurdi	Benue	7.712	8.476	2	
+Pev	Buruku	Benue	7.500	9.032	2	
+Penda	Logo	Benue	7.589	9.374	2	
+Penda	Ukum	Benue	7.733	9.652	2	
+Pevkaa	Wukari	Taraba	7.708	9.747	2	
+Pelen	Donga	Taraba	7.655	9.859	2	
+Penda	Gboko	Benue	7.344	9.090	2	
+Peei	Gboko	Benue	7.318	9.143	2	
+Penda	Buruku	Benue	7.482	9.254	2	
+Penda	Ushongo	Benue	7.091	9.058	2	
+Pev	Katsina-Ala	Benue	7.192	9.450	2	
+Pevegh	Gboko	Benue	7.360	8.988	2	
+Peki	Gboko	Benue	7.358	8.972	2	
+Pepe	Gboko	Benue	7.362	8.780	2	
+Perebia	Brass	Bayelsa	4.331	6.183	2	
+Lekki Peninsula	Eti Osa	Lagos	6.441	3.507	2	
+Pedro	Shomolu	Lagos	6.548	3.387	2	
+Ifako Pele	Ifako/Ijaye	Lagos	6.647	3.331	2	
+Pedro Gbagada	Shomolu	Lagos	6.549	3.372	2	
+Pedel	Shendam	Plateau	8.878	9.470	2	
+Pedel	Shendam	Plateau	8.879	9.457	2	
+Peresisofogbene	Southern Ijaw	Bayelsa	4.710	5.719	2	
+Pepelegbene	Southern Ijaw	Bayelsa	4.612	5.708	2	
+Pepegbene	Warri South-West	Delta	5.605	5.340	2	
+Petere	Fufore	Adamawa	9.178	12.233	2	
+Namargel Perkoni	Mayo-Belwa	Adamawa	9.160	12.023	2	
+Pepila	Demsa	Adamawa	9.230	11.889	2	
+Pete	Boluwaduro	Osun	7.894	4.863	2	
+Oja-Pedepo	Yewa North	Ogun	7.363	2.853	2	
+Pegan	Yewa North	Ogun	6.879	2.858	2	
+Peke	Guma	Benue	8.140	8.526	2	
+Peregun	Ife South	Osun	7.232	4.703	2	
+Petepete	Ori Ire	Oyo	8.383	4.133	2	
+Peke	Asa	Kwara	8.492	4.467	2	
+Petugi	Ijebu North	Ogun	7.054	3.982	2	
+Niki Peru	Baruten	Kwara	9.156	3.139	2	
+Aba Petu	Isin	Kwara	8.165	5.064	2	
+Pelu	Afijio	Oyo	7.789	3.759	2	
+Peregun	Egbedore	Osun	7.809	4.385	2	
+Pella	Shelleng	Adamawa	9.981	12.108	2	
+Perangu	Kaiama	Kwara	9.622	4.020	2	
+Pesu	Toto	Nasarawa	8.399	7.262	2	
+Pesere	Toto	Nasarawa	8.042	7.002	2	
+Pege	Kuje	FCT Abuja	8.815	7.281	2	
+Mbamnga Petel	Sardauna	Taraba	6.580	11.208	2	
+Petugbele	Lagelu	Oyo	7.556	4.136	2	
+Pere	Ede South	Osun	7.701	4.499	2	
+Peregun	Lagelu	Oyo	7.535	4.006	2	
+King Perekule Street	Obio/Akpor	Rivers	4.822	6.996	1	
+Peter Ehis Close	Oredo	Edo	6.278	5.602	1	
+Elsie Femi Pearse Street	Eti Osa	Lagos	6.431	3.411	1	
+Olufemi Peters Street	Oshodi/Isolo	Lagos	6.523	3.327	1	
+Peluola Street	Oshodi/Isolo	Lagos	6.555	3.333	1	
+Horo Pedro Street	Lagos Island	Lagos	6.459	3.389	1	
+Peluola Street	Kosofe	Lagos	6.549	3.401	1	
+Pepple Street	Ikeja	Lagos	6.595	3.341	1	
+Peacock Drive	Ifako/Ijaye	Lagos	6.629	3.334	1	
+Petgrave Street	Lagos Mainland	Lagos	6.497	3.378	1	
+Pepple Road	Ibadan North	Oyo	7.447	3.889	1	
+Peka Close	Municipal Area Council	FCT Abuja	9.086	7.470	1	
+Peace Avenue	Jos North	Plateau	9.860	8.884	1	
+Peace Estate	Eti Osa	Lagos	6.477	3.623	1	
+Blessed People Avenue	Oredo	Edo	6.305	5.625	1	
+Juta-Jem Petel Road	Lau	Taraba	9.158	11.473	1	
+Peter Odili Road	Port-Harcourt	Rivers	4.806	7.048	1	
+Peter Bawa Cres	Jos North	Plateau	9.929	8.882	1	
+Pedro Street	Lagos Mainland	Lagos	6.508	3.391	1	
+Pearse Lane	Surulere	Lagos	6.508	3.368	1	
+GGY Street	Shomolu	Lagos	6.539	3.396	1	Pemu Otunubi Street
+Peter Eruteya Way	Alimosho	Lagos	6.643	3.300	1	
+Peter Okeme Street	Uvwie	Delta	5.560	5.758	1	
+pessu lane	Warri South	Delta	5.508	5.753	1	
+Pessu Market Road	Warri South	Delta	5.505	5.756	1	
+Bode Peters Street	Kosofe	Lagos	6.562	3.373	1	
+Peter Obayiagbon Drive	Oredo	Edo	6.321	5.588	1	
+Peter Eruteya Street	Kosofe	Lagos	6.571	3.380	1	
+Peace Avenue	Enugu East	Enugu	6.484	7.506	1	
+Mrs.Pelizer Ogah Street	Enugu South	Enugu	6.423	7.535	1	
+Peace Ozor Street	Enugu North	Enugu	6.478	7.484	1	
+Peace Close	Enugu East	Enugu	6.482	7.504	1	
+Saint Peter Street	Enugu East	Enugu	6.485	7.499	1	
+Chief Peter Iloka Lane	Enugu South	Enugu	6.417	7.506	1	
+Chief Peter Onukwube Street	Enugu South	Enugu	6.413	7.511	1	
+Peter Okoye Street	Enugu South	Enugu	6.422	7.496	1	
+Pentecost Avenue	Enugu East	Enugu	6.474	7.489	1	
+Peacock Drive	Enugu East	Enugu	6.467	7.509	1	
+Penguin Close	Enugu East	Enugu	6.470	7.506	1	
+Permanent Secretary Quarters	Enugu North	Enugu	6.448	7.522	1	
+Penoks street	Enugu East	Enugu	6.468	7.548	1	
+Peace Avenue	Jos South	Plateau	9.854	8.886	1	
+Peace Avenue	Amuwo Odofin	Lagos	6.464	3.257	1	
+Perez Drive	Eti Osa	Lagos	6.440	3.473	1	
+Alaafia (Peace) Street	Lagelu	Oyo	7.437	3.962	1	
+Richmond Pearl Road	Eti Osa	Lagos	6.452	3.487	1	
+Peace Street	Ede North	Osun	7.719	4.492	1	
+Peninsula Resort Way	Eti Osa	Lagos	6.473	3.581	1	
+Peachtree Street	Obafemi Owode	Ogun	7.070	3.293	1	
+Oyinda Pedro Avenue	Abeokuta South	Ogun	7.154	3.389	1	
+St. Peters Road	Ojo	Lagos	6.457	3.189	1	
+Pelumi Street	Alimosho	Lagos	6.654	3.274	1	
+Pedrisi Street	Eti Osa	Lagos	6.455	3.569	1	
+Pearse Street	Surulere	Lagos	6.508	3.368	1	
+I.K. Peters Street	Ikeja	Lagos	6.554	3.321	1	
+Peace Avenue	Kosofe	Lagos	6.637	3.398	1	
+Pearsly Close	Eti Osa	Lagos	6.457	3.521	1	
+Peter Obang	Municipal Area Council	FCT Abuja	9.071	7.439	1	
+Peter Oloyede Crescent	Alimosho	Lagos	6.673	3.260	1	
+St. Peters' unity sec. school Road	Akure South	Ondo	7.258	5.185	1	
+Peter Ugbu Close	Eti Osa	Lagos	6.471	3.661	1	
+Peter Agha Street	Oshodi/Isolo	Lagos	6.534	3.317	1	
+Peace Avenue	Igabi	Kaduna	10.596	7.470	1	
+Peter Abegunde Road	Ijero	Ekiti	7.837	5.036	1	
+A J Peters Abanulor Ave	Aboh-Mbaise	Imo	5.494	7.197	1	
+Peace Avenue Street	Akure South	Ondo	7.295	5.151	1	
+Peas Avenue	Obio/Akpor	Rivers	4.834	6.948	1	
+Peace Street	Ifo	Ogun	6.752	3.223	1	
+Peace Avenue	Amuwo Odofin	Lagos	6.465	3.258	1	
+Pege Rd	Municipal Area Council	FCT Abuja	9.140	7.372	1	
+Air Marshal Oluseyi Petinrin Drive	Municipal Area Council	FCT Abuja	8.972	7.260	1	
+Peletu Crescent	Okitipupa	Ondo	6.505	4.825	1	
+Peace Avenue	Abeokuta South	Ogun	7.165	3.381	1	Adunni Ade Street
+Olufemi Pedro Street	Eti Osa	Lagos	6.459	3.440	1	
+Peter Olowononi Street	Municipal Area Council	FCT Abuja	9.106	7.451	1	
+Peace Avenue Road 2	Yenegoa	Bayelsa	4.935	6.361	1	
+Peace Avenue Road	Yenegoa	Bayelsa	4.936	6.358	1	
+Peace Avenue Road 3	Yenegoa	Bayelsa	4.936	6.360	1	
+Peace Avenue	Akure South	Ondo	7.201	5.211	1	
+Petam Road	Gokana	Rivers	4.687	7.345	1	
+Institute of Petroleum Studies Road	Ikwerre	Rivers	4.923	6.921	1	
+OO Petirin Street	Municipal Area Council	FCT Abuja	9.044	7.554	1	
+Pela Drive	Ughelli North	Delta	5.508	5.976	1	
+Peter Ola Close	Shagamu	Ogun	6.775	3.508	1	
+Juta-Jem Petel Road	Lau	Taraba	9.222	11.424	1	
+sendero peatonal	Yola North	Adamawa	9.297	12.230	1	
+Pessu Waterside Road	Warri South	Delta	5.504	5.755	1	
+Pessu SawMill Road	Warri South	Delta	5.502	5.755	1	
+Pessu Waterside	Warri South	Delta	5.503	5.754	1	
+Unijos Pedestrian Bridge	Jos North	Plateau	9.963	8.872	1	
+Pepeye Street	Egbeda	Oyo	7.373	4.026	1	
+Personal Trust Crescenc	Amuwo Odofin	Lagos	6.482	3.292	1	
+Peacock Drlve	Enugu North	Enugu	6.462	7.510	1	
+Auta Peni Street	Chikun	Kaduna	10.462	7.440	1	
+Princess Pere-ere Doodei Week Street	Yenegoa	Bayelsa	4.876	6.213	1	
+So Fine Petrol Station	Agege	Lagos	6.648	3.307	0	
+Mobil Petrol Station	Ifako/Ijaye	Lagos	6.650	3.303	0	
 Samrada Petroleum	Chikun	Kaduna	10.444	7.420	0	
 Pengana Concept Limited	Jos North	Plateau	9.956	8.862	0	
 Jodia Petrol	Egor	Edo	6.364	5.588	0	
@@ -50,27 +286,11 @@ Conoil Petrol Station	Ibadan North	Oyo	7.438	3.909	0
 Penton Rise	Ibadan North	Oyo	7.418	3.901	0	
 Total Petrol station	Ibadan North	Oyo	7.423	3.898	0	
 St. Peters Maternity Health Centre, Aperin	Ibadan North East	Oyo	7.375	3.919	0	
-Dukurngatha Peshingo	Shani	Borno	10.332	11.939	2	
-Peshingo Jauro Baba	Shani	Borno	10.098	12.061	2	
-Peshongo Liman Hamma	Shani	Borno	10.100	12.064	2	
-Pesshi Jauro Musa	Bayo	Borno	10.445	11.666	2	
-Pesshi Jauro Ya'U	Bayo	Borno	10.451	11.671	2	
-Pesshi	Bayo	Borno	10.465	11.664	2	
-Pelabirni Dispensary	Hawul	Borno	10.406	12.370	2	
-Pelajil	Hawul	Borno	10.476	12.415	2	
-Pela Olla	Hawul	Borno	10.554	12.185	2	
-Pelakista	Hawul	Borno	10.578	12.254	2	
-Pelallsta	Hawul	Borno	10.563	12.268	2	
-Pela Sangam	Biu	Borno	10.611	12.377	2	
-Pelathabu	Hawul	Borno	10.546	12.322	2	Pelathlabu
-Gar Pela	Biu	Borno	10.755	12.279	2	
 Moranugba Petroleum Nig Ltd	Akinyele	Oyo	7.527	3.919	0	
 Olundegun Olaiya Petroleum	Lagelu	Oyo	7.443	3.952	0	
 Dele Yes Sir Petrol Station	Egbedore	Osun	7.789	4.506	0	
 Okata Petrol Station	Ideato North	Imo	5.858	7.102	0	
 NNPC Mega Petrol Station	Uhunmwonde	Edo	6.436	5.685	0	
-Madou Gakouri Peulh	Goudoumaria	Yobe	13.391	11.130	2	
-Maridi Peulh (Sehendou)	Maïné Soroa	Yobe	13.347	11.608	2	
 Total petrol station	Aba South	Abia	5.115	7.381	0	
 Petrol	Aba North	Abia	5.113	7.388	0	
 Sharon Petrol Station	Municipal Area Council	FCT Abuja	8.988	7.355	0	
@@ -102,14 +322,12 @@ Ansar Petroleum	Akko	Gombe	10.053	11.198	0
 Ansar Petroleum	Akko	Gombe	10.113	11.108	0	
 Sunday Adeyi Olaogun Petrol Station	Ogbomosho North	Oyo	8.117	4.224	0	
 Ola Central Petrol Station	Ogbomosho North	Oyo	8.118	4.224	0	
-Goulé Sidi Pépa	Borgu	Niger	10.675	3.821	2	
 Jonas Petroleum	Alimosho	Lagos	6.577	3.273	0	
 Petrolec	Ìkòròdú	Lagos	6.627	3.507	0	
 Peace Park Ogrute Enugu Ezike	Igbo-Eze-North	Enugu	6.982	7.448	0	
-GPC GORO PETRO COMPANY LTD.	Akko	Gombe	10.292	11.078	0	
+Gpc Goro Petro Company Ltd.	Akko	Gombe	10.292	11.078	0	
 PEN RESOURCE ACADEMY (boarding sch)& ROBOTICS CENTER	Akko	Gombe	10.290	11.053	0	
 Vinna Pet	Kaduna South	Kaduna	10.467	7.432	0	
-Penpem	Dambatta	Kano	12.552	8.700	2	
 Martin Luther Agwai International Peace Keeping Centre	Igabi	Kaduna	10.811	7.544	0	
 Arolat Petrol station, Ayetoro	Yewa North	Ogun	7.241	3.029	0	
 Peace Mass Transit Park	Onitsha North	Anambra	6.135	6.793	0	
@@ -151,7 +369,6 @@ Hariz Petroleum Farin Gada Jos	Jos North	Plateau	9.958	8.864	0
 Hariz Petroleum Ltd	Jos North	Plateau	9.905	8.911	0	
 Al Yusra petroleum nig ltd	Jos North	Plateau	9.977	8.896	0	
 Dan Marna Petroleum	Muhammadu Dikko Stadium	Katsina	12.971	7.641	0	
-Pessu	Warri South	Delta	5.508	5.752	2	
 Pessu Market	Warri South	Delta	5.503	5.755	0	
 Unijos ICT Permanent Site	Jos North	Plateau	9.966	8.883	0	
 Sochi Petroleum	Enugu North	Enugu	6.465	7.593	0	
@@ -162,11 +379,10 @@ Dhadi Petroleum Co. Nig. Limited	Gombe	Gombe	10.307	11.149	0
 Pelfik Clinic And Maternity Center	Alimosho	Lagos	6.550	3.218	0	
 Huse Of Peace Specialist Clinic	Mushin	Lagos	6.531	3.341	0	
 Pentecost Medical Center 112 Festac Town	Amuwo Odofin	Lagos	6.470	3.293	0	
-PECULIAR TREASURE NURSERY AND PRIMARY SCHOOL	Alimosho	Lagos	6.535	3.236	0	
-PEAK HELGHT NURSERY SCHOOL	Ungongo	Kano	12.040	8.565	0	
-PEACE INTERNATIONAL COLLEGE	Gwale	Kano	11.967	8.475	0	
+Peculiar Treasure Nursery And Primary School	Alimosho	Lagos	6.535	3.236	0	
+Peak Helght Nursery School	Ungongo	Kano	12.040	8.565	0	
+Peace International College	Gwale	Kano	11.967	8.475	0	
 Peace	Oshimili South	Delta	6.184	6.732	0	
-Perewarigbene	Southern Ijaw	Bayelsa	4.449	5.893	2	
 Conoil Petrol Station	Ikpoba-Okha	Edo	6.298	5.631	0	
 Ose Olohun Petroleum Nig. Ltd., Ipo, Ajasse, Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.468	4.568	0	
 Eterna Petroleum, Oko Erin, Nigeria	Ilorin East	Kwara	8.455	4.580	0	
@@ -179,102 +395,17 @@ Peace Mass Transport	Municipal Area Council	FCT Abuja	9.069	7.441	0
 Sauka Pedestrian Bridge	Municipal Area Council	FCT Abuja	8.958	7.252	0	
 Banex Pedestrian Bridge	Municipal Area Council	FCT Abuja	9.085	7.465	0	
 Udddy King Petol Station	Calabar Municipal	Cross River	4.998	8.335	0	
-Pedro	Shomolu	Lagos	6.545	3.374	2	
-Lekki Peninsula II	Eti Osa	Lagos	6.440	3.520	3	
 Mother Of Perpetual Help Nursery and Primary School	Ojo	Lagos	6.459	3.182	0	
-King Perekule Street	Obio/Akpor	Rivers	4.822	6.996	1	
-Peter Ehis Close	Oredo	Edo	6.278	5.602	1	
 Peace Group of Schools	Oredo	Edo	6.340	5.603	0	
 Otopec Petrol Station	Oredo	Edo	6.320	5.607	0	
-Elsie Femi Pearse Street	Eti Osa	Lagos	6.431	3.411	1	
-Olufemi Peters Street	Oshodi/Isolo	Lagos	6.523	3.327	1	
-Peluola Street	Oshodi/Isolo	Lagos	6.555	3.333	1	
-Horo Pedro Street	Lagos Island	Lagos	6.459	3.389	1	
-Peluola Street	Kosofe	Lagos	6.549	3.401	1	
-Pepple Street	Ikeja	Lagos	6.595	3.341	1	
-Peacock Drive	Ifako/Ijaye	Lagos	6.629	3.334	1	
-Petgrave Street	Lagos Mainland	Lagos	6.497	3.378	1	
-Pepple Road	Ibadan North	Oyo	7.447	3.889	1	
-Peka Close	Municipal Area Council	FCT Abuja	9.086	7.470	1	
 Yamoyus Petrol Station	Municipal Area Council	FCT Abuja	9.082	7.466	0	
-Peace Avenue	Jos North	Plateau	9.860	8.884	1	
-Peace Estate	Eti Osa	Lagos	6.477	3.623	1	
-Blessed People Avenue	Oredo	Edo	6.305	5.625	1	
-Peter Odili Road	Port-Harcourt	Rivers	4.806	7.048	1	
-Peter Odili Road	Port-Harcourt	Rivers	4.804	7.049	1	
-Peter Bawa Cres	Jos North	Plateau	9.929	8.882	1	
-Pedro Street	Lagos Mainland	Lagos	6.508	3.391	1	
-Pearse Lane	Surulere	Lagos	6.508	3.368	1	
-GGY Street	Shomolu	Lagos	6.539	3.396	1	Pemu Otunubi Street
-Peter Eruteya Way	Alimosho	Lagos	6.643	3.300	1	
-Peter Okeme Street	Uvwie	Delta	5.560	5.758	1	
-pessu lane	Warri South	Delta	5.508	5.753	1	
-Pessu Market Road	Warri South	Delta	5.505	5.756	1	
-Bode Peters Street	Kosofe	Lagos	6.562	3.373	1	
-Peter Obayiagbon Drive	Oredo	Edo	6.321	5.588	1	
-Peter Eruteya Street	Kosofe	Lagos	6.571	3.380	1	
-Peace Avenue	Enugu East	Enugu	6.484	7.506	1	
-Mrs.Pelizer Ogah Street	Enugu South	Enugu	6.423	7.535	1	
-Peace Ozor Street	Enugu North	Enugu	6.478	7.484	1	
-Peace Close	Enugu East	Enugu	6.482	7.504	1	
-Saint Peter Street	Enugu East	Enugu	6.485	7.499	1	
-Chief Peter Iloka Lane	Enugu South	Enugu	6.417	7.506	1	
-Chief Peter Onukwube Street	Enugu South	Enugu	6.413	7.511	1	
-Peter Okoye Street	Enugu South	Enugu	6.422	7.496	1	
-Pentecost Avenue	Enugu East	Enugu	6.474	7.489	1	
-Peacock Drive	Enugu East	Enugu	6.467	7.509	1	
-Penguin Close	Enugu East	Enugu	6.470	7.506	1	
-Peace Avenue	Enugu East	Enugu	6.484	7.504	1	
-Permanent Secretary Quarters	Enugu North	Enugu	6.448	7.522	1	
-Penoks street	Enugu East	Enugu	6.468	7.548	1	
-Peace Avenue	Jos South	Plateau	9.854	8.886	1	
-Peace Avenue	Amuwo Odofin	Lagos	6.464	3.257	1	
-Perez Drive	Eti Osa	Lagos	6.440	3.473	1	
 Shadow Petroleum	Ede North	Osun	7.717	4.493	0	
 AGIL Petroleum	Ede North	Osun	7.714	4.489	0	
-Alaafia (Peace) Street	Lagelu	Oyo	7.437	3.962	1	
-Richmond Pearl Road	Eti Osa	Lagos	6.452	3.487	1	
 AJETUNMOBI Petroleum	Ede North	Osun	7.718	4.496	0	
 ODES petroleum	Ede North	Osun	7.719	4.497	0	
-Peace Street	Ede North	Osun	7.719	4.492	1	
 Azkoc Petroleum	Olorunda	Osun	7.781	4.558	0	
-Peninsula Resort Way	Eti Osa	Lagos	6.473	3.581	1	
-Peachtree Street	Obafemi Owode	Ogun	7.070	3.293	1	
-Oyinda Pedro Avenue	Abeokuta South	Ogun	7.154	3.389	1	
-St. Peters Road	Ojo	Lagos	6.457	3.189	1	
-Pelumi Street	Alimosho	Lagos	6.654	3.274	1	
-Pedrisi Street	Eti Osa	Lagos	6.455	3.569	1	
-Pearse Street	Surulere	Lagos	6.508	3.368	1	
-I.K. Peters Street	Ikeja	Lagos	6.554	3.321	1	
-Peace Avenue	Kosofe	Lagos	6.637	3.398	1	
-Pearsly Close	Eti Osa	Lagos	6.457	3.521	1	
-Peter Obang	Municipal Area Council	FCT Abuja	9.071	7.439	1	
-Peter Oloyede Crescent	Alimosho	Lagos	6.673	3.260	1	
-St. Peters' unity sec. school Road	Akure South	Ondo	7.258	5.185	1	
-Peter Ugbu Close	Eti Osa	Lagos	6.471	3.661	1	
 Institute of Petroleum Studies	Obio/Akpor	Rivers	4.894	6.917	0	
-Peter Agha Street	Oshodi/Isolo	Lagos	6.534	3.317	1	
-Peace Avenue	Igabi	Kaduna	10.596	7.470	1	
-Peter Abegunde Road	Ijero	Ekiti	7.837	5.036	1	
-A J Peters Abanulor Ave	Aboh-Mbaise	Imo	5.494	7.197	1	
-Peace Avenue Street	Akure South	Ondo	7.295	5.151	1	
-Peas Avenue	Obio/Akpor	Rivers	4.834	6.948	1	
-Peace Avenue	Jos South	Plateau	9.855	8.886	1	
-Peace Street	Ifo	Ogun	6.752	3.223	1	
-Peace Avenue	Amuwo Odofin	Lagos	6.465	3.258	1	
-Pege Rd	Municipal Area Council	FCT Abuja	9.140	7.372	1	
-Air Marshal Oluseyi Petinrin Drive	Municipal Area Council	FCT Abuja	8.972	7.260	1	
-Peletu Crescent	Okitipupa	Ondo	6.505	4.825	1	
-Peace Avenue	Abeokuta South	Ogun	7.165	3.381	1	Adunni Ade Street
-Olufemi Pedro Street	Eti Osa	Lagos	6.459	3.440	1	
-Peter Olowononi Street	Municipal Area Council	FCT Abuja	9.106	7.451	1	
-Peace Avenue Road 2	Yenegoa	Bayelsa	4.935	6.361	1	
-Peace Avenue Road	Yenegoa	Bayelsa	4.936	6.358	1	
-Peace Avenue Road 3	Yenegoa	Bayelsa	4.936	6.360	1	
-Peace Avenue	Akure South	Ondo	7.201	5.211	1	
-Peace Avenue	Akure South	Ondo	7.192	5.218	1	
 Petrocam Fuel Station	Eti Osa	Lagos	6.431	3.474	0	
-Petam Road	Gokana	Rivers	4.687	7.345	1	
 Ola Oluwanishola Petroleum	Ìkòròdú	Lagos	6.583	3.524	0	
 ChongFi Petroleum	Ìkòròdú	Lagos	6.614	3.571	0	
 Ola Oluwanishola Petroleum	Ìkòròdú	Lagos	6.626	3.552	0	
@@ -296,26 +427,7 @@ bello petal heath clinic	Jada	Adamawa	8.521	12.360	0
 Fowobi Petroleum	Abeokuta South	Ogun	7.121	3.336	0	
 Nassarawo Demsa Peraonal Base Finance Health Facilities Demsa	Numan	Adamawa	9.452	12.046	0	
 Pessi Health Post	Ganye	Adamawa	8.452	12.131	0	
-Institute of Petroleum Studies Road	Ikwerre	Rivers	4.923	6.921	1	
-OO Petirin Street	Municipal Area Council	FCT Abuja	9.044	7.554	1	
-Pela Drive	Ughelli North	Delta	5.508	5.976	1	
-Peter Ola Close	Shagamu	Ogun	6.775	3.508	1	
-Pessu	Warri South	Delta	5.503	5.750	2	
-sendero peatonal	Yola North	Adamawa	9.297	12.230	1	
-Pessu Waterside Road	Warri South	Delta	5.504	5.755	1	
-Pessu SawMill Road	Warri South	Delta	5.502	5.755	1	
-Pessu Waterside	Warri South	Delta	5.503	5.754	1	
-Unijos Pedestrian Bridge	Jos North	Plateau	9.963	8.872	1	
-Pepeye Street	Egbeda	Oyo	7.373	4.026	1	
-Personal Trust Crescenc	Amuwo Odofin	Lagos	6.482	3.292	1	
 Federal University of Petroleum Resources	Uvwie	Delta	5.568	5.838	0	
 Total Petrol Station	Ede North	Osun	7.756	4.526	0	
 Peace Care Clinic	Municipal Area Council	FCT Abuja	9.099	7.410	0	
-Peacock Drlve	Enugu North	Enugu	6.462	7.510	1	
-Richmond Pearl Road	Eti Osa	Lagos	6.455	3.483	1	
 PEGE, Dutsen Alhaji	Municipal Area Council	FCT Abuja	9.140	7.372	0	
-Auta Peni Street	Chikun	Kaduna	10.462	7.440	1	
-Princess Pere-ere Doodei Week Street	Yenegoa	Bayelsa	4.876	6.213	1	
-Peni Peni	Fakai	Kebbi	11.354	5.073	2	
-Pemi	Chibok	Borno	10.789	12.939	2	
-Peta	Kwaya Kusar	Borno	10.348	11.917	2	

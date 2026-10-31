@@ -1,4 +1,22 @@
-Ode	Ekiti East	Ekiti	7.790	5.712	2	Awde
+Awgu	Awgu	Enugu	6.072	7.478	3	
+Onne	Eleme	Rivers	4.725	7.152	3	Awne
+Awoye	Ilaje	Ondo	5.924	4.966	3	
+Ogbagba	Ola Oluwa	Osun	7.704	4.253	3	Awgbagba
+Awdan Ibola	Ipokia	Ogun	6.779	2.790	3	
+Orlu	Orlu	Imo	5.796	7.034	3	Awlu
+Awka	Awka South	Anambra	6.219	7.077	3	
+Furu Awa	Kurmi	Taraba	6.918	10.190	3	
+Awe	Awe	Nasarawa	8.112	9.146	3	
+Awkuzu	Oyi	Anambra	6.232	6.942	3	
+Awoyaya	Ibeju Lekki	Lagos	6.470	3.705	3	
+Otun-Ekiti	Moba	Ekiti	7.989	5.123	3	Awtun|Otun
+Orlu	Orlu	Imo	5.796	7.035	3	Awlu
+Odeda	Odeda	Ogun	7.231	3.525	3	Awdeda|Odedah
+Ode	Ekiti East	Ekiti	7.790	5.712	3	Awde|Oda
+Igbo-Ora	Ibarapa Central	Oyo	7.434	3.288	3	Igbo-Awra
+Ebute Ikorodu	Ìkòròdú	Lagos	6.601	3.488	3	Awja-Ikoradu|Ebute-Egga|Ikorodu
+Awo-Idemili	Orsu	Imo	5.826	6.934	3	Awo Idemiri|Awo Ndemini|Awodemili
+Awo	Egbedore	Osun	7.768	4.395	3	
 Leke-Onueme	Isi-Uzo	Enugu	6.719	7.642	2	Leke-Awnueme
 Awaiye	Idanre	Ondo	7.018	5.145	2	
 Ologundu	Ile Oluji/Okeigbo	Ondo	7.267	4.867	2	Awo
@@ -20,9 +38,7 @@ Awlawka	Imeko Afon	Ogun	7.417	2.917	2	Oloka I;Awlawka;Oloka
 Ogombo	Eti Osa	Lagos	6.450	3.614	2	Awgawmbaw
 Okpuno-Awka	Awka South	Anambra	6.256	7.075	2	Okpuno
 Ohum	Udi	Enugu	6.545	7.416	2	Okum;Awhum
-Awgu	Awgu	Enugu	6.072	7.478	3	
 Aworkiri	Ogu Bolo	Rivers	4.651	7.173	2	
-Onne	Eleme	Rivers	4.725	7.152	3	Awne
 Opeji	Odeda	Ogun	7.317	3.383	2	Awpeji
 Opaleye	Ido	Oyo	7.528	3.757	2	Awpaleye
 Oha	Ìsẹ́yìn	Oyo	7.850	3.400	2	Awha
@@ -34,7 +50,6 @@ Awe	Awe	Nasarawa	8.100	9.134	2
 Oke Odan	Yewa South	Ogun	6.700	2.900	2	Oke Awdan;Oke Odan
 Awotan	Ido	Oyo	7.444	3.862	2	
 Oba	Obafemi Owode	Ogun	7.033	3.350	2	Awba
-Okinni	Egbedore	Osun	7.833	4.533	2	Okini;Awkinni
 Awterere	Asa	Kwara	8.383	4.433	2	Awterere;Oterere;Ote Etile
 Gambari	Surulere	Oyo	8.267	4.333	2	Awbere;Obere
 Aromona	Lagelu	Oyo	7.567	4.117	2	Ari-Awmawna
@@ -80,7 +95,6 @@ Ile-Awgaw	Ola Oluwa	Osun	7.783	4.200	2	Ile Ogo;Ile-Awgaw
 Awshaw	Odeda	Ogun	7.333	3.717	2	Oloyo Oso;Awshaw
 Ode Saka	Surulere	Oyo	8.250	4.433	2	Awde-Shaka;Ode-Shaka;Ode Saka
 Awbele	Yewa North	Ogun	6.954	2.717	2	
-Awoye	Ilaje	Ondo	5.924	4.966	3	
 Ekuri Awai	Akamkpa	Cross River	5.731	8.392	2	
 Ifite-Awka	Awka South	Anambra	6.245	7.091	2	
 Eziama-Owa	Ezeagu	Enugu	6.384	7.192	2	Eziama-Awwa
@@ -91,13 +105,11 @@ Ogangi	Ife North	Osun	7.517	4.467	2	Awgangi
 Olode	Afijio	Oyo	7.659	3.945	2	Awlawde
 Aworo	Odeda	Ogun	7.317	3.283	2	Awbete Aworo
 Alade	Akinyele	Oyo	7.522	3.915	2	Awbada
-Ogbagba	Ola Oluwa	Osun	7.704	4.253	3	Awgbagba
 Awan	Kachia	Kaduna	9.783	7.800	2	Awam
 Ile Ogo	Ogo Oluwa	Oyo	8.000	4.300	2	Ile-Awgaw
 Ogogoro	Ibeju Lekki	Lagos	6.498	3.935	2	Awgawgawraw
 Okun-Owa	Odogbolu	Ogun	6.855	3.814	2	Okun-Awwaw
 Awai	Akamkpa	Cross River	5.731	8.392	2	
-Awdan Ibola	Ipokia	Ogun	6.779	2.790	3	
 Awiakalakala	Ogbia	Bayelsa	4.649	6.345	2	Amakalakala
 Obamoro	Ola Oluwa	Osun	7.750	4.150	2	Awba-Mowo
 Olla	Ejigbo	Osun	7.950	4.283	2	Awla
@@ -117,11 +129,6 @@ Oretu	Akinyele	Oyo	7.651	3.889	2	Awretu
 Aba Oba	Aiyedade	Osun	7.567	4.300	2	Oko-Awba;Odo-Oba
 Awsun	Moba	Ekiti	8.022	5.066	2	
 Awodikura	Ese Odo	Ondo	6.227	4.886	2	Awodikuro
-Orlu	Orlu	Imo	5.796	7.034	3	Awlu
-Awka	Awka South	Anambra	6.219	7.077	3	
-Sheik Muhammad Awwal School	Ifelodun	Kwara	8.275	4.793	0	
-Awolowo Stop	Ibadan North	Oyo	7.417	3.911	0	
-Ba'Awa Health Post	Kiru	Kano	11.598	7.987	0	
 Unguwar Yan Awaki	Kumbotso	Kano	11.944	8.575	2	
 Yan Awaki	Tarauni	Kano	11.947	8.569	2	
 Awada	Mafa	Borno	12.135	13.840	2	
@@ -139,51 +146,302 @@ Awaisari	Jere	Borno	11.714	13.265	2
 Mallam Awari	Gubio	Borno	12.857	12.801	2	
 Awanari	Nganzai	Borno	12.591	13.281	2	
 Alhaji Awanari	Gubio	Borno	12.936	12.834	2	
-Madrasatu Tarbiyyatul Awladul Muslimin	Kaduna South	Kaduna	10.531	7.404	0	
 Awanderi	Abadam	Borno	13.130	13.286	2	
-Awenode Filling Station	Uvwie	Delta	5.560	5.793	0	
 Awulkite	Gudu	Sokoto	13.623	4.412	2	Awulkin Takare
 Awucharawuri	Guzamala	Borno	12.644	13.386	2	
 Awa Isari	Guzamala	Borno	12.824	13.191	2	
 Awa Isari	Guzamala	Borno	12.808	13.252	2	
 Awosheri	Konduga	Borno	11.670	13.164	2	
 Awakkala	Goronyo	Sokoto	13.318	5.631	2	
-Majidun Awori Bus Stop	Ìkòròdú	Lagos	6.619	3.463	0	
 Ba'Awa Cikin Gari	Kiru	Kano	11.597	7.986	2	Ba’awa
 Yan Awaki Cikin Gari	Tsanyawa	Kano	12.369	8.015	2	
 Yan Awaki	Gabasawa	Kano	12.049	8.873	2	
 Awaya	Sumaila	Kano	11.318	9.097	2	
-Obafemi Awolowo University, Moro Campus	Ife North	Osun	7.542	4.470	0	
 Aworobia	Ndokwa East	Delta	5.331	6.466	2	
 Awopaka	Isoko South	Delta	5.367	6.310	2	
 Awurugboko	Ahoada East	Rivers	5.152	6.597	2	
-Emmanuel Hospital, Awotan- Apete, Ibadan	Ido	Oyo	7.450	3.870	0	
-Al-Ameen Hospital, Awotan, Apete	Ido	Oyo	7.449	3.862	0	
 Awa	Oguta	Imo	5.650	6.889	2	
 Awirhe	Ughelli North	Delta	5.618	6.072	2	
-Awe	Awe	Nasarawa	8.112	9.146	3	
-Dr Gwamna Awan General Hospital	Kaduna South	Kaduna	10.465	7.402	0	
-Gomna Awan Hospital Queen Amina College Pobox 211	Kaduna South	Kaduna	10.475	7.423	0	
-Governor Awan General Hospital No43 Bugai Road Kujama	Chikun	Kaduna	10.476	7.645	0	
-Gwamna Awan General Hospital Primary Health Care Kakau	Chikun	Kaduna	10.376	7.395	0	
-Gwamna Awan General Hospital Tunga Road No60 Angwa Sauri	Chikun	Kaduna	10.415	7.425	0	
-Gwanna Awan General Hispital	Chikun	Kaduna	10.478	7.375	0	
-Taffi Awori Primary Health Centre	Badagry	Lagos	6.408	3.074	0	
-Awesome Grace Hospital	Mushin	Lagos	6.521	3.345	0	
-DA AWATUNNABIYYU	Ungongo	Kano	12.042	8.563	0	
-MAKARATAR ZUBAIRU BIN AWAM	Ungongo	Kano	12.041	8.565	0	
-MADARASATUL ZUBAIRU BIN AWWAM	Gwale	Kano	11.962	8.467	0	
-ZUBAIRU BIN AWAWM	Gwale	Kano	11.962	8.467	0	
-Awkuzu	Oyi	Anambra	6.232	6.942	3	
-Minaret Islamic School, Awolowo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.471	4.612	0	
-Awoyaya	Ibeju Lekki	Lagos	6.470	3.705	3	
-Awori Junior College, Ojo	Ojo	Lagos	6.459	3.200	0	
 Awada	Onitsha North	Anambra	6.126	6.803	2	
+Amachi Awkunanaw	Enugu South	Enugu	6.405	7.508	2	
+Awilkiti	Gudu	Sokoto	13.567	4.553	2	
+Awon	Kachia	Kaduna	9.730	7.732	2	
+Ba'Awa	Kaita	Katsina	13.180	7.909	2	
+Awka South	Awka South	Anambra	6.194	7.094	2	
+Awka North	Awka North	Anambra	6.342	7.058	2	
+Awgu	Awgu	Enugu	6.173	7.451	2	
+Awe	Awe	Nasarawa	8.217	9.161	2	
+Zamon Awon	Zangon Kataf	Kaduna	9.774	8.463	2	Zaman Dabo
+Uzo-Uwani	Uzo-Uwani	Enugu	6.518	7.104	2	Uzo-Awan
+Umu-Awa	Okigwe	Imo	5.891	7.292	2	
+Twor Awajir	Konshisha	Benue	7.255	8.524	2	
+Awulli	Ngala	Borno	12.258	14.241	2	Sambori|Samburi
+Sabonlayi Awak	Kaltungo	Gombe	9.936	11.445	2	
+Refurefu Egbedi	Yewa North	Ogun	6.927	2.854	2	Awdaw Refurefu|Refurefu Egbebi
+Owo	Atisbo	Oyo	8.407	3.360	2	Awwaw
+Awoji	Toto	Nasarawa	8.067	7.234	2	Owegi
+Ote-Etile	Asa	Kwara	8.384	4.426	2	Awterere|Ote Etile|Oterere
+Otan-Ile	Obokun	Osun	7.816	4.779	2	Awton|Otan Ile|Oton
+Osuntedo	Ejigbo	Osun	7.694	4.329	2	Awshun Teddo
+Osun Ekiti	Moba	Ekiti	8.017	5.067	2	Awsun|Osan
+Senta-Osiele	Odeda	Ogun	7.191	3.448	2	Awshile|Oshiele|Osiele
+Opeji	Odeda	Ogun	7.314	3.373	2	Awpeji
+Onne	Eleme	Rivers	4.724	7.153	2	Awne
+Oloyo-Oso	Odeda	Ogun	7.332	3.715	2	Awshaw|Oloyo Oso
+Oloka One	Imeko Afon	Ogun	7.424	2.926	2	Awlawka|Oloka|Oloka I
+Olode	Afijio	Oyo	7.658	3.944	2	Awlawde
+Oke-Omo	Oyo East	Oyo	7.869	4.003	2	Oke Omo|Oke-Awmaw
+Oke-Odan	Yewa South	Ogun	6.703	2.900	2	Oke Awdan|Oke Odan
+Oke-Awon	Ori Ire	Oyo	8.103	4.036	2	Oke Awon
+Oke-Awo	Ori Ire	Oyo	8.327	4.360	2	Oke Awo
+Okaka	Itesiwaju	Oyo	8.217	3.461	2	Awkaka
+Ojo	Ojo	Lagos	6.468	3.183	2	Awjaw|Ojoh
+Oje	Abeokuta North	Ogun	7.338	3.098	2	Awje
+Oja-Odan	Yewa North	Ogun	6.896	2.844	2	Awja Awdaw|Oja Odan
+Ogangi	Ife North	Osun	7.512	4.462	2	Awgangi
+Ofin	Ìkòròdú	Lagos	6.540	3.500	2	Awfin
+Offa-Igbo	Lagelu	Oyo	7.510	4.114	2	Awfa-Igbo|Offa Igbo
+Odo-Oba Ejemu	Afijio	Oyo	7.847	4.080	2	Odo Oba Ejemu|Odo-Awba|Odo-Oba|Odo-ObaEjemu
+Odo-Oba	Oyo East	Oyo	7.902	4.079	2	Ie-Awbe|Ile-Oba|Odo Oba
+Ode-Saka	Surulere	Oyo	8.252	4.430	2	Awde-Shaka|Ode Saka|Ode-Shaka
+Obelle	Yewa North	Ogun	6.957	2.715	2	Awbele
+Obamoro	Ola Oluwa	Osun	7.755	4.151	2	Awba-Mowo
+Oba	Olorunda	Osun	7.906	4.581	2	Awba
+Oba	Obafemi Owode	Ogun	7.041	3.355	2	Awba
+Lafiawo	Nafada	Gombe	11.118	11.218	2	Lafia Awa
+Komi-Oba	Yewa North	Ogun	6.960	2.950	2	Abule Awba|Komi Oba
+Jauro Awa	Ardo-Kola	Taraba	8.624	11.240	2	
+Ilero	Ipokia	Ogun	6.495	2.823	2	Awdan Ilaro|Ilera
+Ile-Ogo	Ola Oluwa	Osun	7.777	4.202	2	Ile Ogo|Ile-Awgaw
+Ikot Awak	Etim Ekpo	Akwa Ibom	4.936	7.515	2	
+Ifoyintedo	Ipokia	Ogun	6.778	2.789	2	Awdan Ibola|Ifonyintedo
+Ido-Oshun	Egbedore	Osun	7.780	4.482	2	Ido Oshun|Ido-Awshun
+Gidan Awane	Rafi	Niger	10.433	6.417	2	
+Guidan Awala	Tsafe	Zamfara	12.061	6.918	2	Gidan Awala
+Eziama-Owa	Ezeagu	Enugu	6.380	7.176	2	Eziama-Awwa
+Edunabon	Ife North	Osun	7.549	4.454	2	Awdunabon
+Baba-Ode	Itesiwaju	Oyo	8.204	3.214	2	Baba Ode|Baba-awde
+Ba’awo	Song	Adamawa	9.967	12.638	2	
+Awusu	Konshisha	Benue	7.327	8.554	2	
+Awusan	Afijio	Oyo	7.772	4.015	2	
+Awuru Emigi	Borgu	Niger	9.717	4.633	2	
+Awuru	Mashegu	Niger	9.704	4.635	2	
+Awuro-Oyo I	Ife North	Osun	7.349	4.479	2	Awuro Oyo I
+Awure	Gboko	Benue	7.433	8.735	2	
+Awunmiri Nkareku	Ebonyi	Ebonyi	6.507	8.148	2	
+Awumniri-Agbaja	Ebonyi	Ebonyi	6.506	8.157	2	
+Awulu	Omala	Kogi	7.648	7.616	2	Kasuan Awuru
+Awulogun	Oluyole	Oyo	7.222	3.777	2	
+Awulkitina	Gudu	Sokoto	13.600	4.383	2	
+Awuhe	Takum	Taraba	7.384	10.015	2	Awuche
+Awuhe	Gboko	Benue	7.329	8.668	2	
+Awube	Bali	Taraba	8.446	11.088	2	
+Awua	Gboko	Benue	7.327	8.667	2	
+Awua	Konshisha	Benue	7.095	8.723	2	
+Awu	Umuahia North	Abia	5.617	7.467	2	
+Awoye	Ilaje	Ondo	5.976	4.909	2	
+Awowo	Aiyedade	Osun	7.583	4.397	2	
+Awowo	Egbeda	Oyo	7.382	4.086	2	
+Aworo	Yewa North	Ogun	7.260	2.789	2	
+Awori	Ijebu North	Ogun	7.004	3.845	2	
+Awopeju	Ile Oluji/Okeigbo	Ondo	7.233	4.767	2	
+Awon	Atiba	Oyo	8.094	4.024	2	
+Awon	Ijebu North	Ogun	7.081	3.839	2	
+Awomama	Oru East	Imo	5.658	6.931	2	Ioumama
+Awolu	Shiroro	Niger	9.961	6.755	2	
+Awolese	Ìsẹ́yìn	Oyo	7.780	3.295	2	
+Awolakakiri	Degema	Rivers	4.541	6.938	2	
+Awofeke	Iwo	Osun	7.642	4.085	2	
+Audukenchi	Lavun	Niger	9.382	5.750	2	Awodu Kinchi
+Awodeji	Ibarapa East	Oyo	7.695	3.462	2	
+Awo	Odeda	Ogun	7.214	3.401	2	
+Awo	Odeda	Ogun	7.145	3.456	2	
+Awo	Kurmi	Taraba	7.025	10.863	2	
+Awo	Obafemi Owode	Ogun	6.905	3.545	2	
+Awo	Esan North-East	Edo	6.731	6.370	2	
+Awo	Mbaitoli	Imo	5.583	7.035	2	
+Awkuzu	Oyi	Anambra	6.243	6.950	2	
+Awka Ikot Ene	Akpabuyo	Cross River	4.850	8.533	2	
+Awka-Agbobu	Okigwe	Imo	5.859	7.245	2	
+Awka	Isiala Mbano	Imo	5.624	7.184	2	
+Awiwinghi	Ogoja	Cross River	6.487	8.716	2	
+Awise	Ona Ara	Oyo	7.267	4.083	2	
+Awise	Aiyedade	Osun	7.183	4.083	2	
+Awiakalakala	Ogbia	Bayelsa	4.649	6.340	2	Amakalakala
+Awi	Akamkpa	Cross River	5.252	8.361	2	
+Urovwor	Isoko South	Delta	5.338	6.167	2	Awho
+Awgu Market	Awgu	Enugu	6.051	7.470	2	
+Awga	Ohimini	Benue	7.256	7.877	2	
+Awerankale	Ori Ire	Oyo	8.116	4.122	2	
+Awena	Keana	Nasarawa	8.275	8.786	2	
+Awela	Abeokuta North	Ogun	7.320	3.021	2	
+Awe	Oyo East	Oyo	7.824	3.964	2	
+Awban	Ngor-Okpala	Imo	5.383	7.217	2	
+Awayo	Sumaila	Kano	11.319	9.094	2	
+Awayetitun	Ibarapa Central	Oyo	7.459	3.379	2	
+Awaye	Ori Ire	Oyo	8.255	4.080	2	
+Awaye	Odeda	Ogun	7.464	3.416	2	
+Awawu	Ibarapa East	Oyo	7.577	3.494	2	
+Awat Nkang	Ibiono Ibom	Akwa Ibom	5.124	7.861	2	
+Awasha	Shiroro	Niger	9.896	6.806	2	
+Awara	Ohaji/Egbema	Imo	5.350	6.768	2	Awarra
+Awarge	Ushongo	Benue	7.088	8.952	2	
+Awanibaku	Ona Ara	Oyo	7.367	3.954	2	
+Awala	Bungudu	Zamfara	12.173	6.799	2	
+Awala	Aiyedade	Osun	7.252	4.241	2	
+Awakua	Nasarawa	Nasarawa	8.140	7.470	2	
+Awak	Kaltungo	Gombe	9.868	11.403	2	
+Awajir	Konshisha	Benue	7.288	8.540	2	
+Awaiye	Egbeda	Oyo	7.399	4.073	2	
+Awaiye	Aiyedade	Osun	7.180	4.349	2	
+Awai	Soba	Kaduna	11.066	7.903	2	
+Awagabi	Mariga	Niger	10.259	5.899	2	
+Awa	Kuje	FCT Abuja	8.753	7.476	2	
+Awa	Onna	Akwa Ibom	4.665	7.833	2	
+Asa-Awure	Olorunsogo	Oyo	8.867	4.218	2	Asa Awure
+Alade	Akinyele	Oyo	7.522	3.914	2	Awbada
+Akeke	Lagelu	Oyo	7.574	4.044	2	Awke
+Akai Awu	Urue Offong/Oruko	Akwa Ibom	4.712	8.201	2	
+Ajegunle-Awa	Ijebu North	Ogun	7.004	3.920	2	Ajegunle Awa
+Ago-Hausa	Badagry	Lagos	6.401	2.863	2	Agaw Awusa|Ago Hausa
+Ado-Awaiye	Ìsẹ́yìn	Oyo	7.831	3.431	2	Addo|Ado|Ado Awaiye
+Aba-Oba	Aiyedade	Osun	7.572	4.306	2	Aba Oba|Odo-Oba|Oko-Awba
+Agbaja-Owa	Ezeagu	Enugu	6.374	7.302	2	Abaja-Awwa|Abaja-Owa|Abaja-Owi
+Awote	Akinyele	Oyo	7.604	3.966	2	
+Aworo	Akinyele	Oyo	7.548	3.982	2	
+Adesina-Awero	Lagelu	Oyo	7.447	3.951	2	Adesma Awero
+Awazakiri	Nembe	Bayelsa	4.416	6.310	2	
+Awotarighakiri	Brass	Bayelsa	4.739	6.541	2	
+Awodeyi	Akure North	Ondo	7.099	5.458	2	
+Awode-Aborakan	Ondo East	Ondo	7.154	5.030	2	
+Awule	Konshisha	Benue	7.277	8.574	2	
+Awase	Gwer East	Benue	7.378	8.481	2	
+Awaji	Gwer East	Benue	7.557	8.385	2	
+Awakada	Odukpani	Cross River	5.093	8.379	2	
+Ama-Awji	Enugu East	Enugu	6.517	7.521	2	
+Awamba	Ese Odo	Ondo	6.106	5.084	2	
+Awodikora	Ogun Waterside	Ogun	6.393	4.414	2	
+Ba’awa	Bindawa	Katsina	12.649	7.945	2	
+Awakala	Goronyo	Sokoto	13.300	5.621	2	
+Kafi Awo	Karaye	Kano	11.741	7.898	2	
+Ba’awa	Kiru	Kano	11.596	7.990	2	
+Ba’awa	Makarfi	Kaduna	11.342	7.980	2	
+Awa Ndon	Onna	Akwa Ibom	4.673	7.825	2	
+Gidan Awaisu	Ikara	Kaduna	11.356	8.090	2	
+Awka-Agbobu	Okigwe	Imo	5.922	7.240	2	
+Awomuku	Ikwuano	Abia	5.369	7.598	2	
+Mbak Ikot Awa	Ibiono Ibom	Akwa Ibom	5.172	7.942	2	
+Awomama Catholic Seminary	Oru East	Imo	5.658	6.943	2	
+Awulu	Ndokwa East	Delta	5.903	6.688	2	
+Awka North	Awka North	Anambra	6.333	7.000	2	
+Awka South	Awka South	Anambra	6.207	7.068	2	Agbegbe Ijoba Ibile Guusu Awka|Awka Sud|Awka ta Kudu|Lam Awka|Ndida Awka
+Awgu	Awgu	Enugu	6.143	7.437	2	Agbegbe Ijoba Ibile Awgu
+Awe	Awe	Nasarawa	8.275	9.185	2	Awe Local Government Area
+Awar	Takum	Taraba	6.517	9.692	2	
+Awolamo	Obio/Akpor	Rivers	4.864	6.991	2	
+Isu-Awa	Awgu	Enugu	6.260	7.434	2	
+Awaga	Gwer East	Benue	7.262	8.254	2	
+Awua	Gwer East	Benue	7.261	8.277	2	
+Awuleme	Ohimini	Benue	7.223	8.092	2	
+Ba'Awa	Kaita	Katsina	13.188	7.894	2	
+Awilkiti	Gudu	Sokoto	13.574	4.509	2	
+Awon	Kachia	Kaduna	9.729	7.706	2	
+Awasua	Wukari	Taraba	7.882	9.222	2	
+Awan	Wukari	Taraba	7.869	9.429	2	
+Aweera	Wukari	Taraba	7.997	9.476	2	
+Awua	Logo	Benue	7.593	9.097	2	
+Awaga	Ukum	Benue	7.653	9.441	2	
+Awer	Logo	Benue	7.566	9.428	2	
+Awe-Chobga	Wukari	Taraba	7.934	9.883	2	
+Awav	Ukum	Benue	7.692	9.543	2	
+Awuna	Gboko	Benue	7.342	9.074	2	
+Awangba	Gboko	Benue	7.319	9.097	2	
+Awange	Buruku	Benue	7.318	9.277	2	
+Awuapila	Katsina-Ala	Benue	7.465	9.394	2	
+Awambe	Katsina-Ala	Benue	7.378	9.429	2	
+Awua	Buruku	Benue	7.191	9.154	2	
+Awua	Katsina-Ala	Benue	7.172	9.364	2	
+Awua	Ushongo	Benue	7.086	9.311	2	
+Awua	Gboko	Benue	7.373	8.987	2	
+Awenke	Gboko	Benue	7.368	8.963	2	
+Awuhe	Gboko	Benue	7.365	8.837	2	
+Awav	Gboko	Benue	7.314	8.758	2	
+Awusun	Gboko	Benue	7.300	8.898	2	
+Awundeku	Gboko	Benue	7.272	8.992	2	
+Gidan Awako	Shiroro	Niger	9.745	6.805	2	
+Gidan Awta	Munya	Niger	9.648	6.894	2	
+Angwan Sarkin Awari	Paikoro	Niger	9.530	7.074	2	
+Awhanjigoh	Badagry	Lagos	6.408	2.904	2	
+Oto Awori	Ojo	Lagos	6.484	3.122	2	
+Awodi Ora	Ajeromi/Ifelodun	Lagos	6.454	3.326	2	
+Awori Oniwaya	Agege	Lagos	6.620	3.316	2	
+Ilupesi Ebute Awo	Lagos Island	Lagos	6.461	3.393	2	
+Oko-Awo Agarawu	Lagos Island	Lagos	6.459	3.389	2	
+Gidan Awara	Kokona	Nasarawa	9.021	7.988	2	
+Jauro Awai	Ardo-Kola	Taraba	8.983	11.230	2	
+Awe	Ardo-Kola	Taraba	8.799	11.405	2	
+Awaiye	Odeda	Ogun	7.225	3.466	2	
+Liwo-Awolaja	Ijebu North	Ogun	7.061	4.074	2	
+Awe	Ijebu North	Ogun	7.105	4.150	2	
+Aworin-Sadiku	Isokan	Osun	7.299	4.167	2	
+Awere	Irewole	Osun	7.376	4.240	2	
+Awo	Ife North	Osun	7.441	4.406	2	
+Awuro-Oyo III	Ife North	Osun	7.344	4.464	2	
+Awosin	Egbedore	Osun	7.872	4.556	2	
+Olu-Awo	Olorunda	Osun	7.803	4.532	2	
+Aworo	Ede North	Osun	7.719	4.495	2	
+Awo	Atakunmosa West	Osun	7.647	4.604	2	
+Oke-Awo	Ilesha West	Osun	7.644	4.685	2	
+Awele	Boripe	Osun	7.792	4.660	2	
+Awosin Oje	Boripe	Osun	7.861	4.669	2	
+Aworo	Ekiti West	Ekiti	7.860	4.962	2	
+Awowole	Ife East	Osun	7.414	4.596	2	
+Aworele	Ife South	Osun	7.255	4.505	2	
+Abewela-Oke-Awo	Ife South	Osun	7.304	4.621	2	
+Kajola-Awopeju	Ile Oluji/Okeigbo	Ondo	7.204	4.744	2	
+Egure Awo	Ile Oluji/Okeigbo	Ondo	7.256	4.834	2	
+Awo-Sama	Ile Oluji/Okeigbo	Ondo	7.265	4.865	2	
+Araromi Awo	Ile Oluji/Okeigbo	Ondo	7.262	4.870	2	
+Awoyaya	Ondo West	Ondo	7.047	4.838	2	
+Awoduyilemi	Ondo East	Ondo	7.076	4.992	2	
+Eyin-Awo	Ile Oluji/Okeigbo	Ondo	7.289	4.919	2	
+Awoluba	Ori Ire	Oyo	8.340	4.287	2	
+Isale-Awe	Asa	Kwara	8.403	4.363	2	
+Awuyan	Moro	Kwara	8.852	4.311	2	
+Awisu	Moro	Kwara	8.706	4.429	2	
+Awuyon	Moro	Kwara	8.591	4.462	2	
+Awe	Asa	Kwara	8.528	4.410	2	
+Awewe	Ifelodun	Kwara	8.499	5.063	2	
+Awum	Akwanga	Nasarawa	8.936	8.299	2	
+Awusha	Nasarawa Egon	Nasarawa	8.814	8.287	2	
+Awumora	Ifelodun	Kwara	8.357	4.996	2	
+Awoyi	Isin	Kwara	8.328	4.936	2	
+Oke-Awo	Ogo Oluwa	Oyo	7.964	4.196	2	
+Gidan Awure	Demsa	Adamawa	9.574	12.259	2	GidanAwure
+Awesu	Ilorin South	Kwara	8.428	4.645	2	
+Awoli	Oyun	Kwara	8.310	4.659	2	
+Oke-Awo	Asa	Kwara	8.332	4.606	2	
+Awuji	Katcha	Niger	8.962	6.281	2	
+Awunge	Lafia	Nasarawa	8.574	8.372	2	
+Awuma	Lafia	Nasarawa	8.557	8.456	2	
+Aworinde	Lagelu	Oyo	7.536	4.058	2	
+Awere	Ede South	Osun	7.709	4.490	2	
+Awele	Afijio	Oyo	7.712	4.010	2	
+Aworinde	Lagelu	Oyo	7.580	4.068	2	
+Awokekere	Iwo	Osun	7.640	4.107	2	
+Kekere-Awo	Akinyele	Oyo	7.601	4.038	2	
+Awara	Ola Oluwa	Osun	7.745	4.271	2	
+Awe	Afijio	Oyo	7.696	4.002	2	
+Aworo	Akinyele	Oyo	7.654	4.032	2	
+Awudera	Akinyele	Oyo	7.662	4.056	2	
+Awise	Lagelu	Oyo	7.529	4.007	2	
+Awela	Yewa North	Ogun	7.303	2.989	2	
+Oke-Awo	Ile Oluji/Okeigbo	Ondo	7.231	4.799	2	
+Awo	Ile Oluji/Okeigbo	Ondo	7.258	4.938	2	
 Awosoga Street	Agege	Lagos	6.609	3.318	1	
 Alhaji Awoyejo Street	Mushin	Lagos	6.529	3.361	1	
 Abimbola Awoniyi Close	Eti Osa	Lagos	6.426	3.422	1	
 Obafemi Awolowo Avenue	Ibadan North	Oyo	7.418	3.901	1	
-Obafemi Awolowo Avenue	Ibadan North	Oyo	7.416	3.906	1	
 Aweroba Street	Oredo	Edo	6.335	5.595	1	
 Awoyemi Close	Surulere	Lagos	6.503	3.353	1	
 Ayo-Ola Awe Street	Oshodi/Isolo	Lagos	6.566	3.334	1	
@@ -196,13 +454,10 @@ Oko Awo Street	Eti Osa	Lagos	6.429	3.429	1
 Dipo Awolesi	Kosofe	Lagos	6.618	3.373	1	
 Awori Road	Eti Osa	Lagos	6.456	3.413	1	
 Awolowo Road	Eti Osa	Lagos	6.444	3.427	1	
-Awolowo Road	Eti Osa	Lagos	6.444	3.407	1	
 Awolowo Road	Lagos Island	Lagos	6.444	3.403	1	
-Awolowo Road	Eti Osa	Lagos	6.443	3.421	1	
 Obafemi Awolowo Way	Ikeja	Lagos	6.602	3.344	1	
 Awolowo Street	Kosofe	Lagos	6.545	3.406	1	
 Obafemi Awolowo Way	Ikeja	Lagos	6.607	3.350	1	
-Obafemi Awolowo Way	Ikeja	Lagos	6.615	3.356	1	
 Obafemi Awolowo Way	Ikeja	Lagos	6.619	3.364	1	
 Babajide Awolesi Street	Kosofe	Lagos	6.636	3.390	1	
 Oke Awanu Street	Ikeja	Lagos	6.646	3.342	1	
@@ -219,8 +474,6 @@ Awoyemi Street	Ajeromi/Ifelodun	Lagos	6.471	3.338	1
 Obafemi Awolowo Way	Olorunda	Osun	7.781	4.554	1	
 Obafemi Awolowo Way	Municipal Area Council	FCT Abuja	9.062	7.422	1	
 Obafemi Awolowo Way	Municipal Area Council	FCT Abuja	9.068	7.441	1	
-Obafemi Awolowo Way	Municipal Area Council	FCT Abuja	9.068	7.451	1	
-Obafemi Awolowo Way	Municipal Area Council	FCT Abuja	9.066	7.408	1	
 Awo Lane	Oredo	Edo	6.325	5.627	1	
 Awo Street	Oredo	Edo	6.324	5.629	1	
 Awalah Roundabout	Bauchi	Bauchi	10.346	9.842	1	
@@ -251,15 +504,12 @@ Awhum Close	Enugu East	Enugu	6.474	7.594	1
 Awhum Crescent	Enugu East	Enugu	6.486	7.545	1	
 Awka Crescent	Enugu North	Enugu	6.445	7.529	1	
 Serah Awa Street	Enugu North	Enugu	6.463	7.575	1	
-Amachi Awkunanaw	Enugu South	Enugu	6.405	7.508	2	
 Awoniyi Road	Ibadan North	Oyo	7.454	3.900	1	
 Awa Street	Oshodi/Isolo	Lagos	6.495	3.306	1	
 Awka Ekiti Street	Oshodi/Isolo	Lagos	6.495	3.307	1	
 Awe Street	Oshodi/Isolo	Lagos	6.494	3.307	1	
 Awoshode Street	Ìkòròdú	Lagos	6.623	3.494	1	
 Awobolu Street	Ìkòròdú	Lagos	6.630	3.504	1	
-Ba'Awa Health Post	Bagwai	Kano	12.123	8.188	0	
-Yaan'Awaki Health Post	Tsanyawa	Kano	12.366	8.018	0	
 Ibukun Awosika Street	Eti Osa	Lagos	6.443	3.525	1	Udeco Medical Road
 Olajide Awosedo Avenue	Eti Osa	Lagos	6.425	3.478	1	
 Ayodele Awodeyi Close	Eti Osa	Lagos	6.440	3.514	1	
@@ -304,31 +554,42 @@ Awo - Iwo Road	Iwo	Osun	7.654	4.208	1
 Awhuele Garden Road	Obio/Akpor	Rivers	4.877	6.920	1	
 Awa Close	Port-Harcourt	Rivers	4.802	7.046	1	
 Awo - Ejigbo Road	Ejigbo	Osun	7.897	4.317	1	
-Awo - Ejigbo Road	Ejigbo	Osun	7.894	4.319	1	
 Awori Street	Agege	Lagos	6.617	3.316	1	
-Awolowo Road	Ìkòròdú	Lagos	6.616	3.514	1	
 Awolowo Road	Ìkòròdú	Lagos	6.615	3.512	1	
 Awolowo Road	Ìkòròdú	Lagos	6.625	3.526	1	
-Awolowo Road	Ìkòròdú	Lagos	6.629	3.531	1	
-Awkunanaw Street	Enugu South	Enugu	6.412	7.502	1	
-Obafemi Awolowo Way	Municipal Area Council	FCT Abuja	9.064	7.413	1	
 Idowu Awonusi Street	Ifo	Ogun	6.668	3.330	1	
+Obafemi Awolowo way	Ìkòròdú	Lagos	6.588	3.520	1	
+Awosina Avenue	Ìkòròdú	Lagos	6.630	3.653	1	
+Sheik Muhammad Awwal School	Ifelodun	Kwara	8.275	4.793	0	
+Awolowo Stop	Ibadan North	Oyo	7.417	3.911	0	
+Ba'Awa Health Post	Kiru	Kano	11.598	7.987	0	
+Madrasatu Tarbiyyatul Awladul Muslimin	Kaduna South	Kaduna	10.531	7.404	0	
+Awenode Filling Station	Uvwie	Delta	5.560	5.793	0	
+Majidun Awori Bus Stop	Ìkòròdú	Lagos	6.619	3.463	0	
+Obafemi Awolowo University, Moro Campus	Ife North	Osun	7.542	4.470	0	
+Emmanuel Hospital, Awotan- Apete, Ibadan	Ido	Oyo	7.450	3.870	0	
+Al-Ameen Hospital, Awotan, Apete	Ido	Oyo	7.449	3.862	0	
+Dr Gwamna Awan General Hospital	Kaduna South	Kaduna	10.465	7.402	0	
+Gomna Awan Hospital Queen Amina College Pobox 211	Kaduna South	Kaduna	10.475	7.423	0	
+Governor Awan General Hospital No43 Bugai Road Kujama	Chikun	Kaduna	10.476	7.645	0	
+Gwamna Awan General Hospital Primary Health Care Kakau	Chikun	Kaduna	10.376	7.395	0	
+Gwamna Awan General Hospital Tunga Road No60 Angwa Sauri	Chikun	Kaduna	10.415	7.425	0	
+Gwanna Awan General Hispital	Chikun	Kaduna	10.478	7.375	0	
+Taffi Awori Primary Health Centre	Badagry	Lagos	6.408	3.074	0	
+Awesome Grace Hospital	Mushin	Lagos	6.521	3.345	0	
+Da Awatunnabiyyu	Ungongo	Kano	12.042	8.563	0	
+Makaratar Zubairu Bin Awam	Ungongo	Kano	12.041	8.565	0	
+Madarasatul Zubairu Bin Awwam	Gwale	Kano	11.962	8.467	0	
+Zubairu Bin Awawm	Gwale	Kano	11.962	8.467	0	
+Minaret Islamic School, Awolowo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.471	4.612	0	
+Awori Junior College, Ojo	Ojo	Lagos	6.459	3.200	0	
+Ba'Awa Health Post	Bagwai	Kano	12.123	8.188	0	
+Yaan'Awaki Health Post	Tsanyawa	Kano	12.366	8.018	0	
 Obafemi Awolowo University Staff School	Ife Central	Osun	7.524	4.535	0	
 Obafemi Awolowo University Service Station	Ife North	Osun	7.498	4.524	0	
-Obafemi Awolowo way	Ìkòròdú	Lagos	6.588	3.520	1	
 Awo-Omamma Hospital	Oru East	Imo	5.670	6.926	0	
 Obafemi Awolowo Station	Akinyele	Oyo	7.560	3.897	0	Ibadan Station
-Awosina Avenue	Ìkòròdú	Lagos	6.630	3.653	1	
 Awwaliyya Nursery and Primary School Annex 2	Karu	Nasarawa	9.009	7.602	0	
-Awoyokun St	Mushin	Lagos	6.536	3.366	1	
-Obafemi Awolowo Way	Municipal Area Council	FCT Abuja	9.066	7.434	1	
 Obafemi Awolowo University	Ife Central	Osun	7.522	4.511	0	
 Awenabo National Model Primary Health Center	Buruku	Benue	7.679	8.932	0	
 Aerotropolis (Aero City Awka 2.0)	Orumba North	Anambra	6.186	7.175	0	
-Awilkiti	Gudu	Sokoto	13.567	4.553	2	
-Awon	Kachia	Kaduna	9.730	7.732	2	
-Ba'Awa	Kaita	Katsina	13.180	7.909	2	
-Awka South	Awka South	Anambra	6.194	7.094	2	
-Awka North	Awka North	Anambra	6.342	7.058	2	
-Awgu	Awgu	Enugu	6.173	7.451	2	
-Awe	Awe	Nasarawa	8.217	9.161	2	

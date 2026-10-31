@@ -1,4 +1,15 @@
-National Eye Centre Nigeria	Igabi	Kaduna	10.574	7.405	0	
+Nibo	Awka South	Anambra	6.173	7.067	3	
+Ningi	Ningi	Bauchi	11.075	9.569	3	
+Falgore	Doguwa	Kano	11.122	8.576	3	Tudun Ningi
+Niima Yamma	Gaya	Kano	11.800	9.024	3	
+Oja Tuntun, Oko Erin, Nigeria	Ilorin East	Kwara	8.488	4.538	3	
+Oja Oba, Oko Erin, Nigeria	Ilorin West	Kwara	8.488	4.534	3	
+Mandate Estate, Ilorin, Nigeria	Ilorin East	Kwara	8.472	4.555	3	
+Oja Tutun, Oko Erin, Nigeria	Ilorin West	Kwara	8.490	4.533	3	
+Offa, Nigeria	Offa	Kwara	8.139	4.717	3	
+Onitsha	Onitsha North	Anambra	6.150	6.786	3	Onicha|Onicjo|QNI|ao ni cha|onicha
+Mushin	Mushin	Lagos	6.528	3.354	3	Mushin (Nigerija)|Mushin Halt
+Nkwo Nike	Enugu East	Enugu	6.509	7.510	3	
 Ninowa	Funakaye	Gombe	11.010	11.442	2	
 Bungan Ningi	Warji	Bauchi	11.055	9.638	2	
 Nyimoa	Bassa	Kogi	7.867	7.083	2	Nemoa;Nimua
@@ -11,8 +22,6 @@ Nikoragba	Burutu	Delta	5.183	5.767	2	Nikorogha
 Nyaje	Akamkpa	Cross River	5.538	8.787	2	Niayi
 Nilo	Magumeri	Borno	12.198	12.383	2	Nylo
 Ningo	Akwanga	Nasarawa	9.073	8.353	2	
-Nibo	Awka South	Anambra	6.173	7.067	3	
-Ningi	Ningi	Bauchi	11.075	9.569	3	
 Tukun Kasa	Jema'A	Kaduna	9.500	8.483	2	Nisama
 Nayinawa	Bayo	Borno	10.591	11.634	2	Ninowa
 Old Ningi	Ningi	Bauchi	10.969	9.387	2	Ningi
@@ -20,228 +29,112 @@ Niro	Ikpoba-Okha	Edo	6.317	5.733	2
 Nisan Marke	Ringim	Jigawa	12.201	8.982	2	Marke
 Nibu	Dandi	Kebbi	11.716	3.813	2	
 Nitoji	Odeda	Ogun	7.183	3.533	2	Ntoji
-Almohap NIG LTD	Jos North	Plateau	9.960	8.889	0	
-Nigeria Institute of Management	Oredo	Edo	6.307	5.623	0	
-Forum of Nigerian Women in Politice	Oredo	Edo	6.334	5.628	0	
-Nigeria Prisons Staff Nursery/Primary/Secondary School	Oredo	Edo	6.295	5.596	0	
 Illeila-Niger	Tangaza	Sokoto	13.739	5.004	2	
 Illeila-Nigeria	Tangaza	Sokoto	13.735	5.004	2	
-NIHORT	Ibadan North West	Oyo	7.407	3.848	0	
-Gidan Nisau Health Post	Kunchi	Kano	12.358	8.193	0	
-Falgore	Doguwa	Kano	11.122	8.576	3	Tudun Ningi
 Nigerian Air Force Base	Fagge	Kano	12.034	8.530	2	NAF Base
 Nitel Quaters	Fagge	Kano	12.030	8.518	2	
-Ni'ima Hospital	Bauchi	Bauchi	10.298	9.816	0	
 Ningi Quarters	Magumeri	Borno	12.110	12.827	2	
 Mile Ninety	Kukawa	Borno	12.777	13.663	2	
-Mile Ninety Health Clinic	Kukawa	Borno	12.780	13.665	0	
-Moranugba Petroleum Nig Ltd	Akinyele	Oyo	7.527	3.919	0	
-Admus Concept Nigeria Limited	Akinyele	Oyo	7.524	3.918	0	
-J Nissi College	Lagelu	Oyo	7.439	3.961	0	
 point nine Dubai Quarters Gona Div.	Akko	Gombe	10.256	11.183	2	
-University of Nigeria,Enugu Campus UNEC	Enugu South	Enugu	6.423	7.508	0	
-Nipco	Yewa South	Ogun	6.700	2.985	0	
-PEMOK Night.  Ltd	Warri South	Delta	5.535	5.744	0	
-Ovus Nig. Ltd	Uvwie	Delta	5.570	5.745	0	
-Agba Sol Night. Ltd	Uvwie	Delta	5.564	5.754	0	
-French Joga Nig. Ltd Filling Station	Uvwie	Delta	5.569	5.744	0	
-Jelicopet Nig. Ltd	Uvwie	Delta	5.561	5.774	0	
-Tamic Nig.Ltd Filling Station	Yenegoa	Bayelsa	4.931	6.324	0	
-371 Nigerian Air Force Medical Center	Uvwie	Delta	5.583	5.714	0	
-Nile Nus and Pri Montessori School	Uvwie	Delta	5.544	5.782	0	
-Ogale Nig. Filling Station	Udu	Delta	5.496	5.796	0	
-Niger Optical Eye Clinic	Obio/Akpor	Rivers	4.847	7.048	0	
-NIPCO	Municipal Area Council	FCT Abuja	9.016	7.423	0	
-Modern Option Nig. Ltd.	Ogbomosho North	Oyo	8.141	4.245	0	
-Nigerian Baptist Theological Seminary	Ogbomosho North	Oyo	8.132	4.232	0	
-Bunvic Invest. Nig. Ltd.	Ogbomosho North	Oyo	8.142	4.243	0	
-Musalat Integrated Resources Nig Ltd	Ogbomosho North	Oyo	8.136	4.248	0	
-Sezbaman Nigeria	Ìkòròdú	Lagos	6.603	3.622	0	
-Nipco	Ìkòròdú	Lagos	6.621	3.557	0	
-Forestry Research Institute of Nigeria	Ibadan South West	Oyo	7.392	3.862	0	
-Nipco	Agege	Lagos	6.612	3.312	0	
-Nipco	Agege	Lagos	6.626	3.310	0	
-Amnesty oil & Gas nig Ltd	Akko	Gombe	10.305	10.932	0	
-Bagzumta oil Nig ltd	Yamaltu/Deba	Gombe	10.276	11.240	0	
-Niima Yamma	Gaya	Kano	11.800	9.024	3	
-Niima Clinic	Kaura Namoda	Zamfara	12.579	6.575	0	
-ArgJoe Petroleum Nig. Ltd.	Ogbia	Bayelsa	4.829	6.351	0	
-China-Nigeria Friendship Model Primary School,Igbesa	Ifo	Ogun	6.816	3.096	0	
-China-Nigeria Friendship Model Primary School,Igbesa	Ado Odo/Ota	Ogun	6.543	3.130	0	
-Niger foundation hospital	Enugu North	Enugu	6.444	7.516	0	
-University of Nigeria teaching hospital	Awgu	Enugu	6.299	7.462	0	
-National open university of Nigeria	Enugu East	Enugu	6.489	7.500	0	
-NIPCO	Municipal Area Council	FCT Abuja	8.969	7.359	0	
-Nipco	Jos North	Plateau	9.956	8.898	0	
-Nnamax Nig Ltd	Jos North	Plateau	9.956	8.898	0	
-Nelcon Merchants Nig. LTD	Jos North	Plateau	9.974	8.848	0	
-Pasali Nig Ltd	Jos North	Plateau	9.941	8.908	0	
-Yolab Marchant Nig. LTD	Jos North	Plateau	9.959	8.858	0	
-Akatapa Nigeria Limited	Jos North	Plateau	9.903	8.910	0	
-Dipdat Nig. Ltd.	Jos North	Plateau	9.905	8.911	0	
-Nigerian police clinic	Jos North	Plateau	9.918	8.881	0	
-Shuma Oil Co. Nig Ltd	Jos North	Plateau	9.901	8.896	0	
-Usman Mohammad nig ltd oil	Jos North	Plateau	9.972	8.895	0	
-Al Yusra petroleum nig ltd	Jos North	Plateau	9.977	8.896	0	
-Ahmis nig ltd	Jos North	Plateau	9.982	8.898	0	
-Nigerian Navy Secondary School	Abeokuta South	Ogun	7.126	3.327	0	
-Pink Clinic Nigeria	Kosofe	Lagos	6.576	3.387	0	
-Akpouga Nike Market	Enugu East	Enugu	6.468	7.602	0	
-Dhadi Petroleum Co. Nig. Limited	Gombe	Gombe	10.307	11.149	0	
-United Nigerian Textiles Hospital	Kaduna South	Kaduna	10.480	7.409	0	
-Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.535	7.422	0	
-New Nigeria Hospital	Ojo	Lagos	6.444	3.214	0	
-Nestle Nig Plc Staff Clinic	Ado Odo/Ota	Ogun	6.501	3.087	0	
-Nidus Aquilae	Mushin	Lagos	6.547	3.361	0	
-Nigerian Navy Reference Hospital	Amuwo Odofin	Lagos	6.452	3.282	0	
-Akabor City Gate, Ojoto, Idemili South LGA, Anambra State, Nigeria	Idemili South	Anambra	6.066	6.860	0	
-Nigerian Tulip International School	Municipal Area Council	FCT Abuja	9.080	7.470	0	
-Nipco	Municipal Area Council	FCT Abuja	9.083	7.465	0	
 Nikorogha	Burutu	Delta	5.176	5.707	2	
-Tobi Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.541	0	
-Tipper Garage Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.493	4.617	0	
-THE DANIALU LGEA PRIAMRY SCHOOL, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.601	0	
-St James CAC Schools, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.554	0	
-St Anthony School, Office Road, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.572	0	
-Soludero Bus Terminal, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.564	0	
-Shoprite Kwara Mall, Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.586	0	
-Royal Crescent Valley International School, Ilorin, Nigeria	Asa	Kwara	8.465	4.495	0	
-Ose Olohun Petroleum Nig. Ltd., Ipo, Ajasse, Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.468	4.568	0	
-Olupelu Clinic and Maternity, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.511	0	
-Olumawu Basic School, Oni Kanga Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.477	4.567	0	
-Olalomi Hospital, Stadium Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.479	4.550	0	
-Ola Olu Hospital, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.569	0	
-Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.580	0	
-Okelele Secondary School, Okelele, Oko Erin, Nigeria	Ilorin West	Kwara	8.514	4.530	0	
-Oja Tuntun, Oko Erin, Nigeria	Ilorin East	Kwara	8.488	4.538	3	
-Oja Oba, Oko Erin, Nigeria	Ilorin West	Kwara	8.488	4.534	3	
-Oja Oba, Ilorin, Nigeria	Ilorin East	Kwara	8.496	4.546	0	
-Obbo fish and pork, Obo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.561	0	
-New Kulende Market, Jebba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.514	4.589	0	
-Minaret Islamic School, Awolowo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.471	4.612	0	
-messiah high school, Tipper Garage Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.494	4.617	0	
-Matanmi Shopping Complex, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.484	4.564	0	
-Mandate Estate, Ilorin, Nigeria	Ilorin East	Kwara	8.472	4.555	3	
-Kingsland College oke foma ilorin, Ilorin, Nigeria	Ilorin West	Kwara	8.494	4.505	0	
-Khadijat Memorial Hospital, Sango Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.511	4.588	0	
-Kankatu Market, Okelele Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.506	4.546	0	
-Joel Best Legacy Int'L Nursery/Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.468	4.540	0	
-Balogun Nursery & Primary School Ibrahim Taiwo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.483	4.551	0	
-Iyana Opomalu Bus Stop, Emirs Road, Ilorin, Nigeria	Ilorin East	Kwara	8.491	4.559	0	
-Ita Amodu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.539	0	
-Ipata Market., Amilegbe Road, Ilorin, Nigeria	Ilorin East	Kwara	8.499	4.562	0	
-HisGrace College of Education Ilorin, Mubo Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.503	4.572	0	
-GSS, Ilorin, Nigeria	Ilorin East	Kwara	8.499	4.576	0	
-Grace Christian Schools, G.R.A, Fate Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.491	4.584	0	
-Gbagba Alagbado Behind Sobi Specialist Hospital, Illorin, Nigeria	Ilorin West	Kwara	8.527	4.525	0	
-Ganmo Secondary School Road, Ilorin, Nigeria	Ilorin South	Kwara	8.415	4.604	0	
-Ganmo Market, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin South	Kwara	8.419	4.607	0	
-Gaa saka Zone D, Unnamed Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.497	0	
-FJM3+9PR, Tipper Garage Road, Oko Erin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.604	0	
-Tipper Garage Road, Tanke, Ilorin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.604	0	
-FHXP+25X, Fate Rd, Oko Erin 240102, Kwara, Nigeria	Ilorin South	Kwara	8.498	4.586	0	
-FHW2+V3J, Gambari Rd, Oko Erin 240212, Kwara, Nigeria	Ilorin East	Kwara	8.497	4.550	0	
-FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
-FGVV+JQH, Omu-Aran-Oja Oba, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.494	4.544	0	
-FGQJ+WXH, Oja Tutun, Oja Oba, Oko Erin 240281, Kwara, Nigeria	Ilorin West	Kwara	8.490	4.532	0	
-Babaoko Market Rd, Oja Oba, Kwara, Nigeria	Ilorin East	Kwara	8.487	4.539	1	
-Eterna Petroleum, Oko Erin, Nigeria	Ilorin East	Kwara	8.455	4.580	0	
-Eruda L.G.E.A School, Eruda Area, Temidire Street, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.543	0	
-Ero Omo Hospital, Kilanko Road, Ilorin, Nigeria	Ilorin East	Kwara	8.453	4.585	0	
-Energy filling station, Basin Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.595	0	
-Edinwo Mall, Fate Tanke Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.602	0	
-Ebenezer High School, Agba-Dam Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.585	0	
-Conoil, Challenge Road, Ilorin, Nigeria	Ilorin East	Kwara	8.492	4.567	0	
-Children Specialist Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.554	0	
-Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
-Bovas, Ibrahim Taiwo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.482	4.548	0	
-Balogun Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.542	0	
-Alagbado Primary School, Ilorin, Nigeria	Ilorin East	Kwara	8.535	4.538	0	
-Ago Market, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
-Ago Market Health Centre, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
-Agaka Petroleum Asa Dam, Asa-Dam Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.459	4.532	0	
-Adeta Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.491	4.522	0	
 26 Ipaye Road, Gra, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.478	4.567	2	
-Yusjib Industrial Medicare, Ajasse-Ipo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.461	4.575	0	
-Yoruba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.565	0	
-Yoruba Road Market Ilorin, Sulu Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.565	0	
-University of Ilorin, Ilorin, Nigeria	Ilorin South	Kwara	8.486	4.675	0	
-Trillium Learning Centre, New Yidi Road, Ilorin, Nigeria	Ilorin East	Kwara	8.474	4.555	0	
-Total comfort filling station, Agbabiaka Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.463	4.588	0	
-Tolulope Clinic & Maternity, Oko Erin, Nigeria	Ilorin East	Kwara	8.485	4.601	0	
-Station Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.589	0	
-St. Joseph Centenary Catholic College, Office Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.571	0	
-Senior Secondary School Danialu, Agbabiaka Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.458	4.612	0	
-Sadiku Hospital, Unity Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.559	0	
-Edinwo Plaza Muritala, Ilorin, Kwara, Nigeria	Ilorin East	Kwara	8.485	4.564	0	
-RAINOIL LIMITED, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.449	4.584	0	
-Rain Oil, A123, Ilorin, Nigeria	Ilorin South	Kwara	8.429	4.596	0	
-Olanrewaju Hospital, Ilorin, Nigeria	Ilorin East	Kwara	8.488	4.569	0	
-Ola Olu Hospital, Murtala Mohammed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.569	0	
-Ojagboro, Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.501	4.560	0	
-Oja Tutun, Oko Erin, Nigeria	Ilorin West	Kwara	8.490	4.533	3	
-Offas Garage Roundabout, Oko Erin, Nigeria	Ilorin East	Kwara	8.453	4.581	0	
-Offa, Nigeria	Offa	Kwara	8.139	4.717	3	
-NNPC, Surulere Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.539	0	
-National Open University Sobi Study Center, Sobi Road, Ilorin, Nigeria	Moro	Kwara	8.562	4.558	0	
-MFM Junction Bus Stop, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.621	0	
-MFM Close, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.620	1	
-Mandate Market, Western Reservoir Road, Ilorin, Nigeria	Ilorin West	Kwara	8.475	4.506	0	
-Kwara State Polytechnic, Share-Oja Oba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.543	4.634	0	
-Kwara polytechnics, Ilorin, Nigeria	Ilorin East	Kwara	8.537	4.544	0	
-Kilanko Primary School, Ilorin, Nigeria	Ilorin East	Kwara	8.448	4.600	0	
-JSS junction gbagba ilorin, Oko Erin, Nigeria	Asa	Kwara	8.444	4.505	0	
 Jimba-Oja, Nigeria	Ifelodun	Kwara	8.394	4.682	2	
-ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0	
-Ipata Oloje Old Spare Part Market, Anifowoshe Street, Ilorin, Nigeria	Ilorin West	Kwara	8.504	4.515	0	Ipata Oloje Spare Parts Market
-Gold Academy Egbejila Road, Egbejila Road, Ilorin, Nigeria	Ilorin West	Kwara	8.445	4.527	0	
-General Tunde Idiagbon International Airport, Ilorin, Ilorin, Nigeria	Asa	Kwara	8.435	4.495	0	
-General Hospital, Ilorin, Surulere Road, Ilorin, Nigeria	Ilorin West	Kwara	8.479	4.534	0	
-General Hospital Ilorin, Oko Erin, Nigeria	Ilorin West	Kwara	8.480	4.533	0	
-GDJSS GAA-AKANBI, ILORIN., Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.589	0	
-Gbagba LGEA Nursery and Primary School Ilorin, Oko Erin, Nigeria	Ilorin East	Kwara	8.515	4.577	0	
-Galad College Of Advanced Studies, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.612	0	
-Gaa Saka Zone E, Ilorin, Nigeria	Ilorin West	Kwara	8.491	4.493	0	
-Gaa Odota Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.460	4.509	0	
-AbdulAzeez Attah Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.553	0	
-Femtech Electromall, Fate Road, Ilorin, Nigeria	Ilorin South	Kwara	8.498	4.586	0	
-Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.498	4.585	0	
-Eleko, Orelope Hospital, Jebba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.536	4.619	0	
-Danialu Junior Secondary School, Danialu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.601	0	
-Computer Village, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.555	0	
 Colony 2 Estate, Oke Ogun, Nigeria	Ilorin East	Kwara	8.473	4.630	2	
-Charis Shopping Complex, Post Office, Ilorin, Nigeria	Ilorin East	Kwara	8.488	4.563	0	
-Chapel Secondary School, University Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.590	0	
-Chapel Secondary School, Chapel Road, Oke Ogun, Nigeria	Ilorin East	Kwara	8.478	4.623	0	
-Baboko, Nigeria	Ilorin East	Kwara	8.489	4.543	0	
-Baboko Community Secondary School, Oko Erin, Nigeria	Ilorin East	Kwara	8.490	4.539	0	
-Apata Yakuba Junior Secondary., Apata Yakuba, Nigeria	Ilorin East	Kwara	8.528	4.620	0	
-Ankara lounge & more, Mandate Square, Oko Erin, Nigeria	Ilorin West	Kwara	8.475	4.502	0	
-28a University Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.598	0	
-Anchormed Hospital, Tanke Tipper Garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.602	0	
-Pipeline bustop, tanke tipper garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.603	0	
 Nike	Enugu East	Enugu	6.509	7.501	2	
 Nkwugo Nike	Enugu East	Enugu	6.528	7.512	2	
 Amorji-Nike	Enugu East	Enugu	6.513	7.522	2	
 Nkwubor Nike	Enugu East	Enugu	6.502	7.599	2	
-Mile 2/NIWA	Amuwo Odofin	Lagos	6.459	3.308	0	
-National Postgraduate Medical College of Nigeria	Ojo	Lagos	6.491	3.144	0	
-Nike Garden	Kuje	FCT Abuja	8.894	7.186	0	
-Ambassador Kingsley Motors Nig Ltd	Municipal Area Council	FCT Abuja	9.121	7.386	0	
-Nicon Junction	Municipal Area Council	FCT Abuja	9.096	7.475	0	
-Voice Of Nigeria Estate, Doctors Quarters, Phase 2	Municipal Area Council	FCT Abuja	8.968	7.369	0	
-Aya Bus Stop, Abuja, Nigeria	Municipal Area Council	FCT Abuja	9.049	7.527	0	
-E.Ekesons & Bros Transport Nig. Ltd	Municipal Area Council	FCT Abuja	9.067	7.444	0	
-Main Bridge Computer Network Nig Ltd.	Municipal Area Council	FCT Abuja	9.076	7.399	0	
-The Bridge Concepts Nigeria Limited	Municipal Area Council	FCT Abuja	9.072	7.445	0	
-Jewel Iykson Nigeria Limited	Municipal Area Council	FCT Abuja	9.154	7.346	0	
 Niayi	Akamkpa	Cross River	5.535	8.758	2	
 Ukpabi Nimbo	Uzo-Uwani	Enugu	6.767	7.237	2	
-Administrative Staff College Of Nigeria	Badagry	Lagos	6.413	2.940	0	ASCON
-NIGER BRIDGE	Oshimili South	Delta	6.135	6.758	1	
-Nigeria National Eye Centre Kaduna	Igabi	Kaduna	10.574	7.407	0	
+Abakpa-Nike	Enugu East	Enugu	6.476	7.514	2	
+Nigerian Air Force Base Abuja	Municipal Area Council	FCT Abuja	8.967	7.260	2	NAF Base
+Dogon Nini	Potiskum	Yobe	11.722	11.088	2	
+Ninzo West	Sanga	Kaduna	9.131	8.469	2	
+Ninzo North	Sanga	Kaduna	9.167	8.543	2	
+Ninzo South	Sanga	Kaduna	9.068	8.541	2	
+Ningi East	Ningi	Bauchi	11.102	9.572	2	
+Ningi West	Ningi	Bauchi	11.087	9.555	2	
+Ningi	Ningi	Bauchi	11.005	9.202	2	
+Ungwan Ninzam	Sanga	Kaduna	9.311	8.546	2	
+Ungwan Ibrahim Ninzam	Sanga	Kaduna	9.366	8.596	2	
+Ukpabi-Nimbo	Uzo-Uwani	Enugu	6.800	7.148	2	
+Ugboko-Niro	Orhionmwon	Edo	6.139	5.963	2	
+Tukun Kasa	Jema'A	Kaduna	9.488	8.482	2	Nisama
+Tse-Niondu	Gboko	Benue	7.356	8.678	2	
+Sabon Ninzam Mada	Sanga	Kaduna	9.460	8.545	2	
+Oke-Nipete	Asa	Kwara	8.608	4.410	2	Oke Nipete
+Niutsa	Konshisha	Benue	7.141	8.617	2	
+Nitoji	Odeda	Ogun	7.187	3.532	2	Ntoji
+Nissin	Donga	Taraba	7.459	10.322	2	
+Nise	Awka South	Anambra	6.157	7.054	2	
+Nirewa	Abeokuta North	Ogun	7.360	3.050	2	
+Nintabi	Akwanga	Nasarawa	9.083	8.238	2	
+Nonowa	Funakaye	Gombe	11.010	11.442	2	Nayinawa|Ninowa|Ninowo
+Ninowa	Gulani	Yobe	10.978	11.667	2	
+Ninowa	Bayo	Borno	10.589	11.636	2	
+Ninkoro	Kokona	Nasarawa	9.020	8.108	2	
+Ninki Baba	Fufore	Adamawa	8.922	12.462	2	
+Ninki	Fufore	Adamawa	8.888	12.430	2	
+Nini	Bosso	Niger	9.732	6.434	2	
+Nini	Etche	Rivers	5.072	7.054	2	Nihi
+Ningu	Kokona	Nasarawa	8.838	8.168	2	
+Anjoju	Akwanga	Nasarawa	9.077	8.370	2	Ningo
+Ningil	Konshisha	Benue	7.105	8.659	2	
+Ningi	Fune	Yobe	11.614	11.312	2	
+Ningi	Fika	Yobe	11.276	11.402	2	
+Ningawa	Madobi	Kano	11.823	8.406	2	
+Nine Mile Corner	Udi	Enugu	6.427	7.406	2	
+Gona	Akwanga	Nasarawa	9.135	8.377	2	Nindam Daji
+Nidem	Jema'A	Kaduna	9.429	8.334	2	Nindam
+Nimve	Gboko	Benue	7.357	8.690	2	
+Nimo	Njikoka	Anambra	6.157	6.989	2	
+Nimbia	Jema'A	Kaduna	9.509	8.572	2	
+Nikun	Ibarapa Central	Oyo	7.375	3.302	2	
+Nikuchi	Paikoro	Niger	9.339	6.675	2	
+Nike	Karu	Nasarawa	8.713	7.889	2	
+Nikanikta	Song	Adamawa	10.030	12.412	2	
+Kokani	Dandi	Kebbi	11.713	3.813	2	Nibu|Tunga Kokani
+Nibo-Nise	Awka South	Anambra	6.172	7.067	2	Nibo
+Sunga	Toto	Nasarawa	8.423	7.124	2	Niagba
+Ninchem	Sanga	Kaduna	9.206	8.545	2	Minchem
+Ebazogbe-Niro	Orhionmwon	Edo	6.137	5.931	2	
+Ago-Nirin	Idanre	Ondo	7.188	5.092	2	
+Nima	Gboko	Benue	7.470	8.908	2	
+Njua-Bano	Ogoja	Cross River	6.578	8.832	2	Niua-Bano|Njuabano
+Nimbogbene	Southern Ijaw	Bayelsa	4.548	5.816	2	
+Nidugo	Yenegoa	Bayelsa	5.050	6.349	2	
+Anka	Anka	Zamfara	11.961	5.987	2	Agbegbe Ijoba Ibile Anka|Anka Local Government Area|an ka (nai ji li ya)|an ka (ni ri li ya)
+Ningi	Ningi	Bauchi	11.062	9.205	2	Ningi Local Government Area|ningi
+Zangon Kataf	Zangon Kataf	Kaduna	9.841	8.255	2	Agbegbe Ijoba Ibile Zangon-Kataf|Nietcen Afakan|Zango Kataf|Zangon-Kataf|Zangon-Kataf Local Government Area
+New Nigeria	Degema	Rivers	4.596	6.996	2	
+Ninzo North	Sanga	Kaduna	9.164	8.545	2	
+Ninzo West	Sanga	Kaduna	9.141	8.464	2	
+Ningi West	Ningi	Bauchi	11.085	9.556	2	
+Tse Nigikurga	Ukum	Benue	7.721	9.551	2	
+Nioughor	Buruku	Benue	7.193	9.071	2	Njoughor
+Niengeshe	Gboko	Benue	7.347	8.867	2	
+Nima	Gboko	Benue	7.350	8.772	2	
+Nima	Gboko	Benue	7.264	8.994	2	
+Nimo Owele	Njikoka	Anambra	6.137	6.975	2	
+Nidam	Akwanga	Nasarawa	9.067	8.436	2	
+Ningo Sarki	Akwanga	Nasarawa	9.007	8.389	2	
+Ninte	Jema'A	Kaduna	9.401	8.316	2	
+Ninte	Jema'A	Kaduna	9.374	8.281	2	
+Ninte	Jema'A	Kaduna	9.375	8.326	2	
+Nindamu	Sanga	Kaduna	9.049	8.139	2	
+Nimbia Bissa	Riyom	Plateau	9.495	8.596	2	
+Isieke, Isiekenesi, Ideato - south, Imo,Nigeria	Ideato South	Imo	5.776	7.141	2	
+Niki Peru	Baruten	Kwara	9.156	3.139	2	
+Ninkada	Wamba	Nasarawa	8.983	8.657	2	
+Nikawu	Ilorin South	Kwara	8.433	4.726	2	
+Nitse	Kwali	FCT Abuja	8.720	7.077	2	
+Denbe Ninge	Sardauna	Taraba	6.723	11.313	2	
+Ning	Sardauna	Taraba	6.676	11.138	2	
+Ningo	Akwanga	Nasarawa	9.038	8.399	2	
+Babaoko Market Rd, Oja Oba, Kwara, Nigeria	Ilorin East	Kwara	8.487	4.539	1	
+MFM Close, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.620	1	
+Niger Bridge	Oshimili South	Delta	6.135	6.758	1	
 Nigerian Defence Academy	Igabi	Kaduna	10.617	7.377	1	
-Nigeria Police Training School	Kaduna North	Kaduna	10.507	7.450	0	
 Nisama Road	Kaduna North	Kaduna	10.558	7.450	1	
 Niger Street	Kaduna North	Kaduna	10.559	7.468	1	
 Niamey Street	Kaduna North	Kaduna	10.526	7.467	1	
@@ -253,7 +146,6 @@ Olarenwaju Ninalowo Crescent	Eti Osa	Lagos	6.442	3.472	1
 Niger Street	Eti Osa	Lagos	6.459	3.443	1	
 Niger Road	Ibadan North	Oyo	7.447	3.892	1	
 Niafounke Street	Municipal Area Council	FCT Abuja	9.078	7.460	1	
-Nigerian College of Aviation Technology	Sabon Gari	Kaduna	11.134	7.685	0	NCAT
 River Niger Street	Municipal Area Council	FCT Abuja	9.101	7.500	1	
 Nike Lake Street	Municipal Area Council	FCT Abuja	9.100	7.500	1	
 Niagara Close	Municipal Area Council	FCT Abuja	9.097	7.481	1	
@@ -282,7 +174,7 @@ Alabukun street, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.445	4.590	1
 Ori Ni Owo Street	Oshodi/Isolo	Lagos	6.545	3.302	1	
 Niyi Adedeji St	Kosofe	Lagos	6.577	3.390	1	
 Niyi Ogunleye St	Kosofe	Lagos	6.590	3.384	1	
-Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.498	4.585	1	
+Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.498	4.584	1	
 Nike Close	Enugu East	Enugu	6.466	7.504	1	
 Nipost Road	Enugu North	Enugu	6.444	7.488	1	
 Nike Avenue	Enugu East	Enugu	6.467	7.505	1	
@@ -300,23 +192,17 @@ Nike Lake Road	Enugu East	Enugu	6.489	7.503	1
 Abakpa Nike Road	Enugu East	Enugu	6.475	7.518	1	
 Abakpa Nike Link Road	Enugu East	Enugu	6.474	7.518	1	
 Nihintola Street	Ibadan South West	Oyo	7.368	3.865	1	
-Abakpa Nike Road	Enugu East	Enugu	6.485	7.516	1	
 Nike Drive	Enugu East	Enugu	6.470	7.504	1	
 Abakpa Nike Road	Enugu East	Enugu	6.530	7.519	1	
-Abakpa-Nike	Enugu East	Enugu	6.476	7.514	2	
 Nixon Okwara Avenue	Oshodi/Isolo	Lagos	6.499	3.291	1	
 Taofik Ninalowo Close	Ìkòròdú	Lagos	6.602	3.494	1	
-Centre for Research in Nigeria Languages and Folklore	Ungongo	Kano	11.971	8.430	0	
 Nicon Town Road	Eti Osa	Lagos	6.437	3.500	1	
-Nigerian Air Force Primary Health Centre	Fagge	Kano	12.045	8.532	0	
 koso, Kagarko local government, Kaduna state, Nigeria	Kagarko	Kaduna	9.339	7.815	1	
 Kunya to Niger Border Road	Babura	Jigawa	12.428	8.832	1	
 Nike Art Gallery Road	Eti Osa	Lagos	6.427	3.482	1	
 Nicole Balogun Street	Eti Osa	Lagos	6.438	3.521	1	
-Ni'ima Clinic	Katagum	Bauchi	11.674	10.185	0	
 Onireke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.438	4.614	1	
 Nigeria Immigration Services Road	Ede North	Osun	7.752	4.526	1	
-National Open University of Nigeria	Osogbo	Osun	7.751	4.569	0	NOUN
 Geidam to Niger Border Road	Geidam	Yobe	12.907	11.928	1	
 Niger Delta Road	Akure South	Ondo	7.304	5.136	1	
 Nile Road	Eti Osa	Lagos	6.463	3.648	1	
@@ -324,24 +210,15 @@ Niger Road	Umuahia North	Abia	5.536	7.498	1
 Opete, Ohaji/Egbema, Imo, Nigeria	Ohaji/Egbema	Imo	5.322	6.823	1	
 Straat/nietGeclassificeerd	Mariga	Niger	10.797	5.785	1	
 Saint Nicolas Street	Esan West	Edo	6.744	6.105	1	
-Nigerian Defence Academy	Igabi	Kaduna	10.609	7.377	1	
-American University of Nigeria	Yola North	Adamawa	9.198	12.499	0	AUN
 Niyi Onilari Street	Oshodi/Isolo	Lagos	6.497	3.317	1	
 Taofik Ninalowo Close	Ìkòròdú	Lagos	6.602	3.497	1	
 NIPP ByPass Road	Uhunmwonde	Edo	6.415	5.688	1	
-44 Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.532	7.421	0	
-Nigerian Air Force Base Abuja	Municipal Area Council	FCT Abuja	8.967	7.260	2	NAF Base
 Nike Art Gallery	Eti Osa	Lagos	6.432	3.482	1	
-Nigerian Law School	Eti Osa	Lagos	6.438	3.428	0	
-New Horizons Nigeria Ikeja Campus	Ikeja	Lagos	6.598	3.340	0	
 NITOR Crescent	Kaduna North	Kaduna	10.526	7.452	1	
 Nigerian Defence Academy	Igabi	Kaduna	10.594	7.390	1	
-Nigerian Defence Academy	Igabi	Kaduna	10.604	7.384	1	
-Nigerian Defence Academy	Igabi	Kaduna	10.599	7.388	1	
 Victorious Rd, Isekolowo Area, Oyo, Nigeria.	Oyo West	Oyo	7.878	3.928	1	
 East-West Road, Ughelli, Ughelli North, Delta, Nigeria	Ughelli North	Delta	5.519	5.975	1	
 Nitel Road	Ogbomosho North	Oyo	8.148	4.221	1	
-Nihintola Street	Ibadan South West	Oyo	7.368	3.865	1	
 Nile Road	Eti Osa	Lagos	6.431	3.554	1	
 Nile Street	Municipal Area Council	FCT Abuja	9.093	7.484	1	
 Aka - Nung Udoe Road, Uyo, Nigeria	Uyo	Akwa Ibom	5.005	7.918	1	
@@ -351,64 +228,255 @@ Nimota Taiwo Street	Ìkòròdú	Lagos	6.607	3.569	1
 Coca Cola Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.417	4.555	1	
 Mubo Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.498	4.570	1	
 Gaa-Kanbi Rd, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.466	4.575	1	
-Nile Street	Municipal Area Council	FCT Abuja	9.097	7.480	1	
-National Open University of Nigeria	Eti Osa	Lagos	6.434	3.409	0	NOUN
 Nitro Street	Municipal Area Council	FCT Abuja	8.933	7.253	1	
-Nike Lake Road	Enugu East	Enugu	6.476	7.506	1	
 Abakpa Nike Road	Enugu East	Enugu	6.610	7.556	1	
 Abakpa Nike Road	Enugu East	Enugu	6.623	7.556	1	
 Abakpa Nike Road	Igbo-Etiti	Enugu	6.694	7.519	1	
+Second Niger Bridge	Ogbaru	Anambra	6.117	6.762	1	Second Onitsha Bridge
+Nise Close	Municipal Area Council	FCT Abuja	9.028	7.486	1	
+NIIT Road	Yenegoa	Bayelsa	4.948	6.355	1	
+Nidola Crescent	Municipal Area Council	FCT Abuja	9.059	7.457	1	
+Nik Chuks Street	Alimosho	Lagos	6.546	3.271	1	
+Unity Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.549	1	
+Pipeline, Pipe Line Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.469	4.589	1	
+Nigerian Army Barrack Link	Enugu South	Enugu	6.391	7.492	1	
+Abakpa Nike Road	Enugu East	Enugu	6.506	7.515	1	
+Nike Art Gallery Rd	Eti Osa	Lagos	6.433	3.482	1	
+Abakpa Nike Road	Enugu East	Enugu	6.500	7.514	1	
+Abakpa Nike Road	Enugu East	Enugu	6.566	7.536	1	
+Nike Lake Road	Enugu East	Enugu	6.500	7.514	1	
+Nicole Balogun Street	Eti Osa	Lagos	6.434	3.521	1	
+National Eye Centre Nigeria	Igabi	Kaduna	10.574	7.405	0	
+Almohap NIG LTD	Jos North	Plateau	9.960	8.889	0	
+Nigeria Institute of Management	Oredo	Edo	6.307	5.623	0	
+Forum of Nigerian Women in Politice	Oredo	Edo	6.334	5.628	0	
+Nigeria Prisons Staff Nursery/Primary/Secondary School	Oredo	Edo	6.295	5.596	0	
+Nihort	Ibadan North West	Oyo	7.407	3.848	0	
+Gidan Nisau Health Post	Kunchi	Kano	12.358	8.193	0	
+Ni'ima Hospital	Bauchi	Bauchi	10.298	9.816	0	
+Mile Ninety Health Clinic	Kukawa	Borno	12.780	13.665	0	
+Moranugba Petroleum Nig Ltd	Akinyele	Oyo	7.527	3.919	0	
+Admus Concept Nigeria Limited	Akinyele	Oyo	7.524	3.918	0	
+J Nissi College	Lagelu	Oyo	7.439	3.961	0	
+University of Nigeria,Enugu Campus UNEC	Enugu South	Enugu	6.423	7.508	0	
+Nipco	Yewa South	Ogun	6.700	2.985	0	
+PEMOK Night.  Ltd	Warri South	Delta	5.535	5.744	0	
+Ovus Nig. Ltd	Uvwie	Delta	5.570	5.745	0	
+Agba Sol Night. Ltd	Uvwie	Delta	5.564	5.754	0	
+French Joga Nig. Ltd Filling Station	Uvwie	Delta	5.569	5.744	0	
+Jelicopet Nig. Ltd	Uvwie	Delta	5.561	5.774	0	
+Tamic Nig.Ltd Filling Station	Yenegoa	Bayelsa	4.931	6.324	0	
+371 Nigerian Air Force Medical Center	Uvwie	Delta	5.583	5.714	0	
+Nile Nus and Pri Montessori School	Uvwie	Delta	5.544	5.782	0	
+Ogale Nig. Filling Station	Udu	Delta	5.496	5.796	0	
+Niger Optical Eye Clinic	Obio/Akpor	Rivers	4.847	7.048	0	
+Nipco	Municipal Area Council	FCT Abuja	9.016	7.423	0	
+Modern Option Nig. Ltd.	Ogbomosho North	Oyo	8.141	4.245	0	
+Nigerian Baptist Theological Seminary	Ogbomosho North	Oyo	8.132	4.232	0	
+Bunvic Invest. Nig. Ltd.	Ogbomosho North	Oyo	8.142	4.243	0	
+Musalat Integrated Resources Nig Ltd	Ogbomosho North	Oyo	8.136	4.248	0	
+Sezbaman Nigeria	Ìkòròdú	Lagos	6.603	3.622	0	
+Nipco	Ìkòròdú	Lagos	6.621	3.557	0	
+Forestry Research Institute of Nigeria	Ibadan South West	Oyo	7.392	3.862	0	
+Nipco	Agege	Lagos	6.612	3.312	0	
+Nipco	Agege	Lagos	6.626	3.310	0	
+Amnesty oil & Gas nig Ltd	Akko	Gombe	10.305	10.932	0	
+Bagzumta oil Nig ltd	Yamaltu/Deba	Gombe	10.276	11.240	0	
+Niima Clinic	Kaura Namoda	Zamfara	12.579	6.575	0	
+ArgJoe Petroleum Nig. Ltd.	Ogbia	Bayelsa	4.829	6.351	0	
+China-Nigeria Friendship Model Primary School,Igbesa	Ifo	Ogun	6.816	3.096	0	
+China-Nigeria Friendship Model Primary School,Igbesa	Ado Odo/Ota	Ogun	6.543	3.130	0	
+Niger foundation hospital	Enugu North	Enugu	6.444	7.516	0	
+University of Nigeria teaching hospital	Awgu	Enugu	6.299	7.462	0	
+National open university of Nigeria	Enugu East	Enugu	6.489	7.500	0	
+Nipco	Municipal Area Council	FCT Abuja	8.969	7.359	0	
+Nipco	Jos North	Plateau	9.956	8.898	0	
+Nnamax Nig Ltd	Jos North	Plateau	9.956	8.898	0	
+Nelcon Merchants Nig. LTD	Jos North	Plateau	9.974	8.848	0	
+Pasali Nig Ltd	Jos North	Plateau	9.941	8.908	0	
+Yolab Marchant Nig. LTD	Jos North	Plateau	9.959	8.858	0	
+Akatapa Nigeria Limited	Jos North	Plateau	9.903	8.910	0	
+Dipdat Nig. Ltd.	Jos North	Plateau	9.905	8.911	0	
+Nigerian police clinic	Jos North	Plateau	9.918	8.881	0	
+Shuma Oil Co. Nig Ltd	Jos North	Plateau	9.901	8.896	0	
+Usman Mohammad nig ltd oil	Jos North	Plateau	9.972	8.895	0	
+Al Yusra petroleum nig ltd	Jos North	Plateau	9.977	8.896	0	
+Ahmis nig ltd	Jos North	Plateau	9.982	8.898	0	
+Nigerian Navy Secondary School	Abeokuta South	Ogun	7.126	3.327	0	
+Pink Clinic Nigeria	Kosofe	Lagos	6.576	3.387	0	
+Akpouga Nike Market	Enugu East	Enugu	6.468	7.602	0	
+Dhadi Petroleum Co. Nig. Limited	Gombe	Gombe	10.307	11.149	0	
+United Nigerian Textiles Hospital	Kaduna South	Kaduna	10.480	7.409	0	
+Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.535	7.422	0	
+New Nigeria Hospital	Ojo	Lagos	6.444	3.214	0	
+Nestle Nig Plc Staff Clinic	Ado Odo/Ota	Ogun	6.501	3.087	0	
+Nidus Aquilae	Mushin	Lagos	6.547	3.361	0	
+Nigerian Navy Reference Hospital	Amuwo Odofin	Lagos	6.452	3.282	0	
+Akabor City Gate, Ojoto, Idemili South LGA, Anambra State, Nigeria	Idemili South	Anambra	6.066	6.860	0	
+Nigerian Tulip International School	Municipal Area Council	FCT Abuja	9.080	7.470	0	
+Nipco	Municipal Area Council	FCT Abuja	9.083	7.465	0	
+Tobi Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.541	0	
+Tipper Garage Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.493	4.617	0	
+THE DANIALU LGEA PRIAMRY SCHOOL, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.601	0	
+St James CAC Schools, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.554	0	
+St Anthony School, Office Road, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.572	0	
+Soludero Bus Terminal, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.564	0	
+Shoprite Kwara Mall, Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.586	0	
+Royal Crescent Valley International School, Ilorin, Nigeria	Asa	Kwara	8.465	4.495	0	
+Ose Olohun Petroleum Nig. Ltd., Ipo, Ajasse, Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.468	4.568	0	
+Olupelu Clinic and Maternity, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.511	0	
+Olumawu Basic School, Oni Kanga Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.477	4.567	0	
+Olalomi Hospital, Stadium Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.479	4.550	0	
+Ola Olu Hospital, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.569	0	
+Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.580	0	
+Okelele Secondary School, Okelele, Oko Erin, Nigeria	Ilorin West	Kwara	8.514	4.530	0	
+Oja Oba, Ilorin, Nigeria	Ilorin East	Kwara	8.496	4.546	0	
+Obbo fish and pork, Obo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.561	0	
+New Kulende Market, Jebba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.514	4.589	0	
+Minaret Islamic School, Awolowo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.471	4.612	0	
+messiah high school, Tipper Garage Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.494	4.617	0	
+Matanmi Shopping Complex, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.484	4.564	0	
+Kingsland College oke foma ilorin, Ilorin, Nigeria	Ilorin West	Kwara	8.494	4.505	0	
+Khadijat Memorial Hospital, Sango Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.511	4.588	0	
+Kankatu Market, Okelele Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.506	4.546	0	
+Joel Best Legacy Int'L Nursery/Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.468	4.540	0	
+Balogun Nursery & Primary School Ibrahim Taiwo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.483	4.551	0	
+Iyana Opomalu Bus Stop, Emirs Road, Ilorin, Nigeria	Ilorin East	Kwara	8.491	4.559	0	
+Ita Amodu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.539	0	
+Ipata Market., Amilegbe Road, Ilorin, Nigeria	Ilorin East	Kwara	8.499	4.562	0	
+HisGrace College of Education Ilorin, Mubo Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.503	4.572	0	
+GSS, Ilorin, Nigeria	Ilorin East	Kwara	8.499	4.576	0	
+Grace Christian Schools, G.R.A, Fate Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.491	4.584	0	
+Gbagba Alagbado Behind Sobi Specialist Hospital, Illorin, Nigeria	Ilorin West	Kwara	8.527	4.525	0	
+Ganmo Secondary School Road, Ilorin, Nigeria	Ilorin South	Kwara	8.415	4.604	0	
+Ganmo Market, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin South	Kwara	8.419	4.607	0	
+Gaa saka Zone D, Unnamed Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.497	0	
+FJM3+9PR, Tipper Garage Road, Oko Erin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.604	0	
+Tipper Garage Road, Tanke, Ilorin 240102, Kwara, Nigeria	Ilorin East	Kwara	8.483	4.604	0	
+FHXP+25X, Fate Rd, Oko Erin 240102, Kwara, Nigeria	Ilorin South	Kwara	8.498	4.586	0	
+FHW2+V3J, Gambari Rd, Oko Erin 240212, Kwara, Nigeria	Ilorin East	Kwara	8.497	4.550	0	
+FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
+FGVV+JQH, Omu-Aran-Oja Oba, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.494	4.544	0	
+FGQJ+WXH, Oja Tutun, Oja Oba, Oko Erin 240281, Kwara, Nigeria	Ilorin West	Kwara	8.490	4.532	0	
+Eterna Petroleum, Oko Erin, Nigeria	Ilorin East	Kwara	8.455	4.580	0	
+Eruda L.G.E.A School, Eruda Area, Temidire Street, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.543	0	
+Ero Omo Hospital, Kilanko Road, Ilorin, Nigeria	Ilorin East	Kwara	8.453	4.585	0	
+Energy filling station, Basin Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.595	0	
+Edinwo Mall, Fate Tanke Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.602	0	
+Ebenezer High School, Agba-Dam Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.585	0	
+Conoil, Challenge Road, Ilorin, Nigeria	Ilorin East	Kwara	8.492	4.567	0	
+Children Specialist Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.554	0	
+Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
+Bovas, Ibrahim Taiwo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.482	4.548	0	
+Balogun Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.542	0	
+Alagbado Primary School, Ilorin, Nigeria	Ilorin East	Kwara	8.535	4.538	0	
+Ago Market, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
+Ago Market Health Centre, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
+Agaka Petroleum Asa Dam, Asa-Dam Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.459	4.532	0	
+Adeta Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.491	4.522	0	
+Yusjib Industrial Medicare, Ajasse-Ipo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.461	4.575	0	
+Yoruba Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.483	4.565	0	
+Yoruba Road Market Ilorin, Sulu Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.565	0	
+University of Ilorin, Ilorin, Nigeria	Ilorin South	Kwara	8.486	4.675	0	
+Trillium Learning Centre, New Yidi Road, Ilorin, Nigeria	Ilorin East	Kwara	8.474	4.555	0	
+Total comfort filling station, Agbabiaka Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.463	4.588	0	
+Tolulope Clinic & Maternity, Oko Erin, Nigeria	Ilorin East	Kwara	8.485	4.601	0	
+Station Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.589	0	
+St. Joseph Centenary Catholic College, Office Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.571	0	
+Senior Secondary School Danialu, Agbabiaka Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.458	4.612	0	
+Sadiku Hospital, Unity Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.559	0	
+Edinwo Plaza Muritala, Ilorin, Kwara, Nigeria	Ilorin East	Kwara	8.485	4.564	0	
+RAINOIL LIMITED, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.449	4.584	0	
+Rain Oil, A123, Ilorin, Nigeria	Ilorin South	Kwara	8.429	4.596	0	
+Olanrewaju Hospital, Ilorin, Nigeria	Ilorin East	Kwara	8.488	4.569	0	
+Ola Olu Hospital, Murtala Mohammed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.470	4.569	0	
+Ojagboro, Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.501	4.560	0	
+Offas Garage Roundabout, Oko Erin, Nigeria	Ilorin East	Kwara	8.453	4.581	0	
+NNPC, Surulere Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.539	0	
+National Open University Sobi Study Center, Sobi Road, Ilorin, Nigeria	Moro	Kwara	8.562	4.558	0	
+MFM Junction Bus Stop, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.621	0	
+Mandate Market, Western Reservoir Road, Ilorin, Nigeria	Ilorin West	Kwara	8.475	4.506	0	
+Kwara State Polytechnic, Share-Oja Oba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.543	4.634	0	
+Kwara polytechnics, Ilorin, Nigeria	Ilorin East	Kwara	8.537	4.544	0	
+Kilanko Primary School, Ilorin, Nigeria	Ilorin East	Kwara	8.448	4.600	0	
+JSS junction gbagba ilorin, Oko Erin, Nigeria	Asa	Kwara	8.444	4.505	0	
+ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0	
+Ipata Oloje Old Spare Part Market, Anifowoshe Street, Ilorin, Nigeria	Ilorin West	Kwara	8.504	4.515	0	Ipata Oloje Spare Parts Market
+Gold Academy Egbejila Road, Egbejila Road, Ilorin, Nigeria	Ilorin West	Kwara	8.445	4.527	0	
+General Tunde Idiagbon International Airport, Ilorin, Ilorin, Nigeria	Asa	Kwara	8.435	4.495	0	
+General Hospital, Ilorin, Surulere Road, Ilorin, Nigeria	Ilorin West	Kwara	8.479	4.534	0	
+General Hospital Ilorin, Oko Erin, Nigeria	Ilorin West	Kwara	8.480	4.533	0	
+GDJSS GAA-AKANBI, ILORIN., Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.589	0	
+Gbagba LGEA Nursery and Primary School Ilorin, Oko Erin, Nigeria	Ilorin East	Kwara	8.515	4.577	0	
+Galad College Of Advanced Studies, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.612	0	
+Gaa Saka Zone E, Ilorin, Nigeria	Ilorin West	Kwara	8.491	4.493	0	
+Gaa Odota Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.460	4.509	0	
+AbdulAzeez Attah Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.553	0	
+Femtech Electromall, Fate Road, Ilorin, Nigeria	Ilorin South	Kwara	8.498	4.586	0	
+Eleko, Orelope Hospital, Jebba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.536	4.619	0	
+Danialu Junior Secondary School, Danialu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.465	4.601	0	
+Computer Village, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.555	0	
+Charis Shopping Complex, Post Office, Ilorin, Nigeria	Ilorin East	Kwara	8.488	4.563	0	
+Chapel Secondary School, University Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.590	0	
+Chapel Secondary School, Chapel Road, Oke Ogun, Nigeria	Ilorin East	Kwara	8.478	4.623	0	
+Baboko, Nigeria	Ilorin East	Kwara	8.489	4.543	0	
+Baboko Community Secondary School, Oko Erin, Nigeria	Ilorin East	Kwara	8.490	4.539	0	
+Apata Yakuba Junior Secondary., Apata Yakuba, Nigeria	Ilorin East	Kwara	8.528	4.620	0	
+Ankara lounge & more, Mandate Square, Oko Erin, Nigeria	Ilorin West	Kwara	8.475	4.502	0	
+28a University Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.598	0	
+Anchormed Hospital, Tanke Tipper Garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.602	0	
+Pipeline bustop, tanke tipper garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.603	0	
+Mile 2/NIWA	Amuwo Odofin	Lagos	6.459	3.308	0	
+National Postgraduate Medical College of Nigeria	Ojo	Lagos	6.491	3.144	0	
+Nike Garden	Kuje	FCT Abuja	8.894	7.186	0	
+Ambassador Kingsley Motors Nig Ltd	Municipal Area Council	FCT Abuja	9.121	7.386	0	
+Nicon Junction	Municipal Area Council	FCT Abuja	9.096	7.475	0	
+Voice Of Nigeria Estate, Doctors Quarters, Phase 2	Municipal Area Council	FCT Abuja	8.968	7.369	0	
+Aya Bus Stop, Abuja, Nigeria	Municipal Area Council	FCT Abuja	9.049	7.527	0	
+E.Ekesons & Bros Transport Nig. Ltd	Municipal Area Council	FCT Abuja	9.067	7.444	0	
+Main Bridge Computer Network Nig Ltd.	Municipal Area Council	FCT Abuja	9.076	7.399	0	
+The Bridge Concepts Nigeria Limited	Municipal Area Council	FCT Abuja	9.072	7.445	0	
+Jewel Iykson Nigeria Limited	Municipal Area Council	FCT Abuja	9.154	7.346	0	
+Administrative Staff College Of Nigeria	Badagry	Lagos	6.413	2.940	0	ASCON
+Nigeria National Eye Centre Kaduna	Igabi	Kaduna	10.574	7.407	0	
+Nigeria Police Training School	Kaduna North	Kaduna	10.507	7.450	0	
+Nigerian College of Aviation Technology	Sabon Gari	Kaduna	11.134	7.685	0	NCAT
+Centre for Research in Nigeria Languages and Folklore	Ungongo	Kano	11.971	8.430	0	
+Nigerian Air Force Primary Health Centre	Fagge	Kano	12.045	8.532	0	
+Ni'ima Clinic	Katagum	Bauchi	11.674	10.185	0	
+National Open University of Nigeria	Osogbo	Osun	7.751	4.569	0	NOUN
+American University of Nigeria	Yola North	Adamawa	9.198	12.499	0	AUN
+44 Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.532	7.421	0	
+Nigerian Law School	Eti Osa	Lagos	6.438	3.428	0	
+New Horizons Nigeria Ikeja Campus	Ikeja	Lagos	6.598	3.340	0	
+National Open University of Nigeria	Eti Osa	Lagos	6.434	3.409	0	NOUN
 Nigerian Airforce Hospital Owerri	Owerri North	Imo	5.423	7.108	0	
 Nigerian Police Hospital - Falomo	Eti Osa	Lagos	6.442	3.429	0	
 Nigerian Navy Reference Hospital Calabar	Calabar Municipal	Cross River	5.002	8.334	0	NNRH
 Maritime Academy of Nigeria	Oron	Akwa Ibom	4.807	8.254	0	
 Nigerian Air Force Port Harcourt	Obio/Akpor	Rivers	4.856	7.026	0	
 National Open University of Nigeria	Municipal Area Council	FCT Abuja	9.024	7.410	0	
-Second Niger Bridge	Ogbaru	Anambra	6.117	6.762	1	Second Onitsha Bridge
 St Nicholas Hospital	Lagos Island	Lagos	6.449	3.397	0	
-Nise Close	Municipal Area Council	FCT Abuja	9.028	7.486	1	
 Nigerian Navy Secondary School Ojo	Amuwo Odofin	Lagos	6.451	3.277	0	
 Nipco	Alimosho	Lagos	6.530	3.217	0	
 Nigerian Air Force (NAF) Hospital	Municipal Area Council	FCT Abuja	8.975	7.265	0	063 Nigerian Air Force Hospital
-NISER	Akinyele	Oyo	7.475	3.908	0	Nigerian Institute of Social & Economic Research
+Niser	Akinyele	Oyo	7.475	3.908	0	Nigerian Institute of Social & Economic Research
 Cocoa Research Institute of Nigeria CRIN	Oluyole	Oyo	7.212	3.849	0	CRIN
+Nick Abu Nig	Jalingo	Taraba	8.922	11.323	0	
 Nipco	Ìkòròdú	Lagos	6.623	3.482	0	
-NIPCO	Port-Harcourt	Rivers	4.814	7.059	0	
+Nipco	Port-Harcourt	Rivers	4.814	7.059	0	
 Ningawa Health Post	Madobi	Kano	11.822	8.401	0	
 Abakpa Nike Health Centre	Enugu East	Enugu	6.479	7.516	0	
 Ogui Nike Health Center	Enugu North	Enugu	6.434	7.502	0	
 Niger Foundation Hospital &Diagnostic Center	Enugu North	Enugu	6.442	7.514	0	
 231 Tank Batallion Nigerian Army Medical Corps	Biu	Borno	10.595	12.193	0	231/331 MRS
 Nizamiye Hospital	Municipal Area Council	FCT Abuja	9.059	7.392	0	
-NIIT Road	Yenegoa	Bayelsa	4.948	6.355	1	
-NIPOS	Akure North	Ondo	7.278	5.212	0	
+Nipos	Akure North	Ondo	7.278	5.212	0	
 Ningi Dispensary	Fune	Yobe	11.613	11.314	0	
-Nidola Crescent	Municipal Area Council	FCT Abuja	9.059	7.457	1	
-Nik Chuks Street	Alimosho	Lagos	6.546	3.271	1	
 University of Nigeria Nsukka	Nsukka	Enugu	6.869	7.417	0	
 Admiralty University of Nigeria (ADUN)	Aniocha South	Delta	6.165	6.579	0	
-Unity Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.549	1	
-Pipeline, Pipe Line Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.469	4.589	1	
-Nigerian Army Barrack Link	Enugu South	Enugu	6.391	7.492	1	
-Second Niger Bridge	Oshimili South	Delta	6.122	6.749	1	Second Onitsha Bridge
 Abuja Clinics Nigeria	Municipal Area Council	FCT Abuja	9.098	7.485	0	
 Nigerian Army University, Biu	Biu	Borno	10.605	12.132	0	
-Abakpa Nike Road	Enugu East	Enugu	6.506	7.515	1	
 virgman Nigerian lmtd	Jos North	Plateau	9.869	8.854	0	
-Nike Art Gallery Rd	Eti Osa	Lagos	6.433	3.482	1	
-Abakpa Nike Road	Enugu East	Enugu	6.500	7.514	1	
 University of Nigeria Enugu Campus (UNEC)	Enugu North	Enugu	6.427	7.502	0	
-Abakpa Nike Road	Enugu East	Enugu	6.594	7.553	1	
-Abakpa Nike Road	Enugu East	Enugu	6.566	7.536	1	
-Abakpa Nike Road	Enugu East	Enugu	6.553	7.529	1	
-Abakpa Nike Road	Enugu East	Enugu	6.474	7.518	1	
 Nigeria Arabic Language Village Ngala	Maiduguri	Borno	11.820	13.162	0	
-Nike Lake Road	Enugu East	Enugu	6.500	7.514	1	
-Nicole Balogun Street	Eti Osa	Lagos	6.434	3.521	1	
-Dogon Nini	Potiskum	Yobe	11.722	11.088	2	
-Ninzo West	Sanga	Kaduna	9.131	8.469	2	
-Ninzo North	Sanga	Kaduna	9.167	8.543	2	
-Ninzo South	Sanga	Kaduna	9.068	8.541	2	
-Ningi East	Ningi	Bauchi	11.102	9.572	2	
-Ningi West	Ningi	Bauchi	11.087	9.555	2	
-Ningi	Ningi	Bauchi	11.005	9.202	2	

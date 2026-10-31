@@ -1,3 +1,17 @@
+Onne	Eleme	Rivers	4.725	7.152	3	Awne
+Ondo	Ondo West	Ondo	7.100	4.833	3	
+Onicha	Onicha	Ebonyi	6.116	7.835	3	Onicha-Uburu
+Onyadega	Ibaji	Kogi	6.880	6.676	3	Onyedega
+Onitsha	Onitsha North	Anambra	6.146	6.802	3	
+Onuebonyi Echara	Ikwo	Ebonyi	6.116	8.166	3	
+Onueke	Ezza South	Ebonyi	6.167	8.028	3	
+Onyedega	Ibaji	Kogi	6.882	6.676	3	Onyadega
+Onitsha	Onitsha North	Anambra	6.150	6.786	3	Onicha|Onicjo|QNI|ao ni cha|onicha
+Ondo	Ondo West	Ondo	7.093	4.835	3	
+Onueke	Ezza South	Ebonyi	6.155	8.037	3	
+Onuebonyi Echara	Ikwo	Ebonyi	6.095	8.152	3	Echara Onu-Ebonyi|Echara-Anuaboyi|Echara-Onuaboyi|Onu Ebonyi Echara
+Onikan	Lagos Island	Lagos	6.443	3.404	2	
+Oniru	Eti Osa	Lagos	6.433	3.445	2	
 Ondewari	Southern Ijaw	Bayelsa	4.772	6.010	2	
 Leke-Onueme	Isi-Uzo	Enugu	6.719	7.642	2	Leke-Awnueme
 Onyen Okpon	Obubra	Cross River	5.975	8.473	2	Onye Okpon
@@ -11,14 +25,12 @@ Eko-Ende	Ifelodun	Osun	7.943	4.595	2	Eko Onde;Eko-Ende;Eko-Oyinde
 Onyobru	Ethiope West	Delta	5.811	5.856	2	
 Onyobru Waterside	Ethiope West	Delta	5.792	5.842	2	
 Igo Onaghaleo	Esan South-East	Edo	6.666	6.499	2	Igo-Onaghaleo;Igo-Onagholeo
-Onne	Eleme	Rivers	4.725	7.152	3	Awne
 Omicha Umu Awada	Ezinihitte	Imo	5.500	7.333	2	Onicha Uma Awada
 Aba-Onigbagbo	Epe	Lagos	6.500	4.091	2	Oba-Onigbagbo
 Ononofu	Ndokwa East	Delta	5.611	6.589	2	
 Onito	Oyo West	Oyo	8.017	3.750	2	
 Semewata	Ekeremor	Bayelsa	4.859	5.478	2	Oniyo Camp
 Onyah	Ndokwa East	Delta	5.331	6.426	2	Onya
-Ondo	Ondo West	Ondo	7.100	4.833	3	
 Nfom	Yala	Cross River	6.532	8.571	2	Nfom One;Nfom Two
 Otayo-Onaiye	Ise/Orun	Ekiti	7.311	5.444	2	Ago-Joseph
 Onangisuo	Akuku Toru	Rivers	4.529	6.702	2	Onongisuo
@@ -38,9 +50,7 @@ Onigbongbo	Ikeja	Lagos	6.570	3.364	2
 Oloki	Ifo	Ogun	6.820	3.336	2	Onibuku
 Oniyangi	Ijebu North	Ogun	6.981	3.796	2	
 Atan Onoyom	Odukpani	Cross River	5.308	8.006	2	
-Onicha	Onicha	Ebonyi	6.116	7.835	3	Onicha-Uburu
 Onyobru-Oghobeye	Ethiope West	Delta	5.811	5.856	2	
-Onyadega	Ibaji	Kogi	6.880	6.676	3	Onyedega
 Odo Ona	Oluyole	Oyo	7.294	3.867	2	
 Oniroko Ile	Oyo West	Oyo	8.050	3.750	2	
 Oniyangi	Afijio	Oyo	7.711	3.822	2	Oniyege
@@ -54,60 +64,552 @@ Onire	Atiba	Oyo	7.981	4.032	2
 Oroma Etiti	Anambra West	Anambra	6.333	6.750	2	Anam;Onoma
 Mopo Onijebu	Ibeju Lekki	Lagos	6.426	3.636	2	Mawpo Ijebu;Mopo Ijebbu
 Onyoma	Southern Ijaw	Bayelsa	4.775	6.068	2	Oyoma
-Onyobru	Ethiope West	Delta	5.816	5.849	2	
 Oke Onigbin	Isin	Kwara	8.220	4.998	2	
 Eleko	Asa	Kwara	8.333	4.483	2	Onidoyin
 Onwakiko	Oguta	Imo	5.756	6.752	2	
 Onukpo	Dekina	Kogi	7.635	7.270	2	
 Onyebu	Bassa	Kogi	8.021	7.317	2	
 Onuk Ikot Nwo	Essien Udim	Akwa Ibom	5.136	7.703	2	
-Onike R / A	Lagos Mainland	Lagos	6.510	3.384	0	
-onisha	Oru East	Imo	5.690	6.918	0	
-Onitsha	Onitsha North	Anambra	6.146	6.802	3	
-Onome Acapuncture and Medical Center	Uvwie	Delta	5.560	5.776	0	
-Oniru	Eti Osa	Lagos	6.436	3.418	0	
-Just One Filling Station	Obio/Akpor	Rivers	4.858	6.968	0	
-Onirin Bus Stop	Kosofe	Lagos	6.609	3.409	0	
-St. Joseph's College, Ondo	Ondo West	Ondo	7.104	4.818	0	
-Ike Dunkofia Plaza Onitsha	Onitsha North	Anambra	6.152	6.782	0	
-ansar-ud-deen primary school ii, onirugba	Ìjẹ̀bú Òde	Ogun	6.832	3.932	0	
-African Church Sch Onse-Olose	Ado Odo/Ota	Ogun	6.689	3.229	0	
-Africa Church Central Primary School, Onibuku	Ado Odo/Ota	Ogun	6.580	2.931	0	
-Community Primary School, Onibudo	Ado Odo/Ota	Ogun	6.681	3.229	0	
-St. Peters Anglican Primary School Onigbonbo	Shagamu	Ogun	6.830	3.648	0	
-Africa Church Primay School, Oniyanmo	Ifo	Ogun	6.827	3.230	0	
-Community Primary School, Onipetesi	Ifo	Ogun	6.760	3.107	0	
-Mahdiyyat Memorial Primary School, Onirugba	Ado Odo/Ota	Ogun	6.680	3.185	0	
-Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.740	3.216	0	
-Mahdiyyat Memorial Primary School, Onirugba	Ìjẹ̀bú Òde	Ogun	6.838	3.933	0	
-Africa Church Primay School, Oniyanmo	Ifo	Ogun	6.753	3.102	0	
-Community Primary School, Onipetesi	Ifo	Ogun	6.747	3.284	0	
-Community Primary School, Onibudo	Ifo	Ogun	6.716	3.354	0	
-Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.687	3.204	0	
-Africa Church Central Primary School, Onibuku	Ado Odo/Ota	Ogun	6.675	3.126	0	
-African Church Sch Onse-Olose	Ado Odo/Ota	Ogun	6.674	3.058	0	
-St. Peters Anglican Primary School Onigbonbo	Ado Odo/Ota	Ogun	6.642	3.088	0	
-Oni and Sons Memorial Hospital, (Adeoyo) Ring Road, Ibadan	Ibadan South West	Oyo	7.362	3.862	0	
 Onyobru	Ughelli North	Delta	5.664	6.113	2	
-Onuebonyi Echara	Ikwo	Ebonyi	6.116	8.166	3	
-Onueke	Ezza South	Ebonyi	6.167	8.028	3	
-Governor One Hospital No3 Dokaji Street Romi	Chikun	Kaduna	10.439	7.420	0	
-Garden Hospital Sabo Oniba Town	Ojo	Lagos	6.462	3.175	0	
-Kayode Health Center Onipanu	Mushin	Lagos	6.533	3.365	0	
-Only Jesus Hostel	Akure South	Ondo	7.290	5.149	0	
-Owode oniri market	Kosofe	Lagos	6.610	3.411	0	
-SAHABA ONE	Ungongo	Kano	12.044	8.564	0	
-Olabisi Onabanjo University, Ibogun	Ifo	Ogun	6.811	3.111	0	
-Ona jones	Oshimili South	Delta	6.148	6.749	0	
 Ayip-Onor	Akamkpa	Cross River	5.584	8.820	2	
-Olumawu Basic School, Oni Kanga Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.477	4.567	0	
 Owode Onirin	Kosofe	Lagos	6.609	3.415	2	
-ipare (ondo)	Ilaje	Ondo	6.291	4.675	0	
-Onyems-B.-Hospital	Ojo	Lagos	6.460	3.203	0	
 Sabo Oniba	Ojo	Lagos	6.457	3.169	2	
-Area One	Municipal Area Council	FCT Abuja	9.029	7.470	0	
 Onipanu	Mushin	Lagos	6.537	3.360	2	
 Onike	Lagos Mainland	Lagos	6.513	3.382	2	
+Onuba	Enugu East	Enugu	6.470	7.585	2	
+Onna	Onna	Akwa Ibom	4.637	7.872	2	
+Onitsha North	Onitsha North	Anambra	6.151	6.803	2	
+Onitsha South	Onitsha South	Anambra	6.139	6.773	2	
+Onicha	Onicha	Ebonyi	6.109	7.814	2	
+Ondo East	Ondo East	Ondo	7.067	4.962	2	
+Ondo West	Ondo West	Ondo	7.033	4.769	2	
+Ona Ara	Ona Ara	Oyo	7.259	4.065	2	
+Utu Ikot Onko	Etim Ekpo	Akwa Ibom	4.992	7.647	2	
+Umuoso-Onyoku	Obi Ngwa	Abia	5.292	7.510	2	Umuoso-Onyoke
+Pridang One	Gwoza	Borno	11.133	13.354	2	Pridang I
+Onipako	Moro	Kwara	9.085	4.823	2	Pako
+Onyina	Obubra	Cross River	6.028	8.383	2	Oyina
+Onwakiko	Oguta	Imo	5.737	6.739	2	Owakiko
+Opu Onongi	Akuku Toru	Rivers	4.507	6.689	2	
+Onzo	Kogi	Kogi	8.100	6.828	2	
+Onyikwa	Ebonyi	Ebonyi	6.393	8.114	2	
+Onyi	Yala	Cross River	6.793	8.744	2	
+Onyen	Obubra	Cross River	6.026	8.453	2	
+Nyebu	Bassa	Kogi	8.009	7.363	2	Onyebu
+Onyadama	Obubra	Cross River	5.934	8.238	2	
+Onya	Boki	Cross River	6.486	8.917	2	Onyo
+Onya	Ndokwa East	Delta	5.330	6.427	2	
+Onuzo	Abakaliki	Ebonyi	6.194	8.101	2	
+Onura	Yenegoa	Bayelsa	4.941	6.279	2	Onupa
+Onumu	Akoko-Edo	Edo	7.359	6.118	2	
+Onukpo	Dekina	Kogi	7.649	7.247	2	
+Onu-Kpara	Abakaliki	Ebonyi	6.247	8.265	2	
+Onu-Ibina	Bende	Abia	5.701	7.658	2	
+Onugba	Ofu	Kogi	7.338	7.358	2	
+Onuba	Enugu East	Enugu	6.474	7.615	2	
+Onuasu	Arochukwu	Abia	5.599	7.726	2	
+Onuasu	Arochukwu	Abia	5.527	7.730	2	
+Onu Anyim	Izzi	Ebonyi	6.729	8.229	2	Agbaja|Onuanyim
+Onuankwo	Ishielu	Ebonyi	6.515	7.767	2	
+Onuaku Uturu	Isuikwuato	Abia	5.856	7.512	2	
+Ontoye	Ewekoro	Ogun	7.054	3.204	2	
+Onsa	Ogo Oluwa	Oyo	8.012	4.266	2	
+Onor	Odukpani	Cross River	5.344	7.957	2	
+Onono	Anambra West	Anambra	6.201	6.763	2	
+Onoli	Awgu	Enugu	6.051	7.473	2	
+Ono Ikot Ubo	Ibiono Ibom	Akwa Ibom	5.248	7.870	2	
+Ono Ikot Itiat	Ibiono Ibom	Akwa Ibom	5.244	7.870	2	
+Onoia	Anambra West	Anambra	6.489	6.878	2	
+Ono	Ibiono Ibom	Akwa Ibom	5.242	7.873	2	
+Onne	Eleme	Rivers	4.724	7.153	2	Awne
+Onmbaauka	Konshisha	Benue	7.100	8.624	2	
+Oniyo	Atiba	Oyo	8.111	3.949	2	
+Oniyo	Ogo Oluwa	Oyo	7.876	4.112	2	
+Oniyeye	Olorunsogo	Oyo	8.816	4.041	2	
+Oniyeye	Ibarapa North	Oyo	7.634	3.311	2	
+Oniyeye	Asa	Kwara	8.592	4.399	2	
+Oniyere	Oyun	Kwara	8.126	4.536	2	
+Oniyanrin	Odeda	Ogun	7.380	3.598	2	
+Oniyaniku	Irewole	Osun	7.344	4.280	2	
+Oniyangi	Asa	Kwara	8.659	4.225	2	
+Oniyangi	Ogo Oluwa	Oyo	7.940	4.098	2	
+Oniyangi	Oyo East	Oyo	7.890	4.024	2	
+Oniyangi	Oluyole	Oyo	7.274	3.781	2	
+Oniyan	Ogo Oluwa	Oyo	7.997	4.298	2	
+Oniyamo	Ifo	Ogun	6.752	3.099	2	
+Oniya	Ori Ire	Oyo	8.589	4.089	2	
+Oniya	Ori Ire	Oyo	8.205	3.967	2	
+Oniwo	Atiba	Oyo	8.024	3.923	2	
+Oniwe	Aiyedade	Osun	7.578	4.380	2	
+Oniwafin Tapa	Ibarapa North	Oyo	7.643	3.302	2	
+Oniwafin-Tapa	Ibarapa North	Oyo	7.618	3.227	2	Oniwafin Tapa|OniwafinTapa
+Oniwafin	Ibarapa North	Oyo	7.622	3.314	2	
+Oniwa	Moro	Kwara	8.779	4.325	2	
+Onicha-Ugbo	Aniocha North	Delta	6.322	6.421	2	Onitsha-Ugbo
+Onitoto	Itesiwaju	Oyo	8.256	3.676	2	
+Onitolotolo	Ori Ire	Oyo	8.231	4.116	2	
+Onito	Oyo West	Oyo	7.948	3.738	2	
+Onitirin	Asa	Kwara	8.400	4.400	2	
+Onitirin	Ori Ire	Oyo	8.148	4.173	2	
+Onisunni	Moro	Kwara	8.812	4.206	2	
+Oniso	Surulere	Oyo	8.241	4.343	2	
+Oniso	Oyo West	Oyo	7.931	3.767	2	
+Onishere	Idanre	Ondo	6.717	5.098	2	
+Onisemo	Odeda	Ogun	7.337	3.453	2	
+Onisau	Itesiwaju	Oyo	8.253	3.635	2	
+Onisango	Akinyele	Oyo	7.600	4.047	2	
+Onisade	Egbeda	Oyo	7.390	4.035	2	
+Onisa	Ori Ire	Oyo	8.274	4.262	2	
+Onisa	Surulere	Oyo	8.147	4.428	2	
+Onisa	Ori Ire	Oyo	8.007	4.091	2	
+Onisa	Oyo East	Oyo	7.879	4.028	2	
+Onisa	Iwo	Osun	7.638	4.098	2	
+Oniroko-Ile	Oyo West	Oyo	8.043	3.759	2	Oniroko Ile
+Oniroko Iju	Atiba	Oyo	8.160	3.953	2	
+Oniro	Ipokia	Ogun	6.623	2.838	2	
+Onireke	Odeda	Ogun	7.330	3.664	2	
+Onire	Asa	Kwara	8.693	4.253	2	
+Onire	Ori Ire	Oyo	8.496	4.176	2	
+Onire	Oyo West	Oyo	7.961	3.913	2	
+Onipi	Oturkpo	Benue	7.477	8.024	2	
+Onipepeiye	Surulere	Oyo	8.073	4.428	2	
+Onipede	Odeda	Ogun	7.255	3.664	2	
+Onipe	Oluyole	Oyo	7.204	3.880	2	
+Onipanu	Orolu	Osun	7.895	4.469	2	
+Onipanu	Ijebu North	Ogun	7.076	3.995	2	
+Onipako	Asa	Kwara	8.595	4.291	2	
+Onipako	Idanre	Ondo	6.739	5.087	2	
+Oniorosun	Yewa North	Ogun	6.851	2.774	2	Oniorosu
+Oniong	Etinan	Akwa Ibom	4.802	7.809	2	
+Oniog-Ono	Ini	Akwa Ibom	5.366	7.721	2	Oniong Ono
+Onimowo	Ipokia	Ogun	6.572	2.797	2	
+Onimawo	Ipokia	Ogun	6.550	2.783	2	
+Onimangoro	Ori Ire	Oyo	8.474	4.097	2	
+Onilu	Olorunsogo	Oyo	8.640	4.149	2	
+Onilu	Ona Ara	Oyo	7.257	4.078	2	
+Onileowo	Egbeda	Oyo	7.400	3.987	2	
+Onileowo	Ibarapa Central	Oyo	7.330	3.307	2	
+Onile Oko	Akinyele	Oyo	7.633	4.017	2	
+Onile-Oke	Obafemi Owode	Ogun	7.109	3.582	2	Onile Oke
+Onileka	Ibarapa North	Oyo	7.570	3.300	2	
+Onilefun	Akinyele	Oyo	7.593	4.026	2	
+Onilearo	Moro	Kwara	8.814	4.255	2	
+Onilearo	Olorunsogo	Oyo	8.806	4.035	2	
+Onilearo	Moro	Kwara	8.729	4.287	2	
+Onilearo	Moro	Kwara	8.702	4.312	2	
+Onilearo	Aiyedade	Osun	7.361	4.384	2	
+Onile	Ibarapa North	Oyo	7.545	3.067	2	
+Onilari	Ori Ire	Oyo	8.240	4.154	2	
+Onilali	Ori Ire	Oyo	8.608	4.234	2	
+Onilali	Ori Ire	Oyo	8.609	4.047	2	
+Onilabu	Lagelu	Oyo	7.532	4.052	2	
+Onila	Ori Ire	Oyo	8.285	4.131	2	
+Oniku	Ogba/Egbema/Ndoni	Rivers	5.576	6.600	2	Omiku
+Onikoyi	Asa	Kwara	8.420	4.413	2	
+Onikokoro	Lagelu	Oyo	7.450	3.961	2	
+Onikoko	Ilorin East	Kwara	8.669	4.871	2	
+Onikoko	Ori Ire	Oyo	8.460	4.201	2	
+Onikoko	Surulere	Oyo	8.060	4.372	2	
+Onikoko	Ife North	Osun	7.413	4.432	2	
+Onikoko	Odeda	Ogun	7.283	3.606	2	
+Onikoko	Ewekoro	Ogun	6.933	3.233	2	
+Oniki	Ori Ire	Oyo	8.514	4.243	2	
+Onikete Timi	Isokan	Osun	7.233	4.133	2	
+Onikete Belo	Isokan	Osun	7.233	4.117	2	
+Onikere	Ori Ire	Oyo	8.458	4.283	2	
+Onikeke	Ori Ire	Oyo	8.254	4.114	2	
+Onikeke	Surulere	Oyo	8.035	4.332	2	
+Onikeke	Surulere	Oyo	7.965	4.403	2	
+Onikasada	Afijio	Oyo	7.769	3.871	2	
+Onikaraun	Ori Ire	Oyo	8.510	4.078	2	
+Onikankan	Ido	Oyo	7.543	3.595	2	
+Onikangu	Asa	Kwara	8.612	4.271	2	
+Onikange	Akinyele	Oyo	7.610	3.969	2	
+Onikanga	Ido	Oyo	7.506	3.652	2	
+Onikan	Aiyedade	Osun	7.381	4.368	2	
+Oniju	Surulere	Oyo	8.240	4.371	2	
+Onijoku	Itesiwaju	Oyo	8.310	3.484	2	
+Onijapa	Obafemi Owode	Ogun	7.022	3.612	2	
+Onihale	Ifo	Ogun	6.761	3.211	2	
+Oniguguru	Ori Ire	Oyo	8.602	4.080	2	
+Oniguguru	Ori Ire	Oyo	8.363	4.249	2	
+Oniguguru	Asa	Kwara	8.150	4.525	2	
+Onigbori	Olorunsogo	Oyo	8.634	4.132	2	
+Onigbongbo	Baruten	Kwara	8.833	3.154	2	
+Onigbongbo	Iwajowa	Oyo	7.863	3.322	2	
+Onigbongbo	Ede South	Osun	7.648	4.383	2	
+Onigbongbo	Afijio	Oyo	7.650	3.951	2	
+Onigbokun	Apapa	Lagos	6.414	3.344	2	
+Onigbodogi	Odeda	Ogun	7.189	3.746	2	
+Onigbodogi	Ife South	Osun	7.148	4.598	2	
+Onigbo	Ibarapa East	Oyo	7.450	3.479	2	
+Onigbo	Ijebu North	Ogun	7.033	3.992	2	
+Onigbinde	Ido	Oyo	7.546	3.789	2	
+Onigbin	Ori Ire	Oyo	8.480	4.160	2	
+Onigbedu	Ewekoro	Ogun	6.966	3.126	2	
+Onigbase	Moro	Kwara	8.668	4.406	2	
+Onigbana	Ibarapa East	Oyo	7.554	3.501	2	
+Onigbala	Akinyele	Oyo	7.550	3.933	2	
+Onigbaguda	Abeokuta North	Ogun	7.227	3.328	2	
+Onigba-Ese	Asa	Kwara	8.665	4.238	2	Onigba Ese
+Onigangan	Abeokuta North	Ogun	7.209	3.282	2	
+Onigambari	Oluyole	Oyo	7.138	3.893	2	
+Onifufu	Asa	Kwara	8.164	4.557	2	
+Onifufu	Afijio	Oyo	7.803	4.001	2	
+Onifade	Ido	Oyo	7.497	3.704	2	
+Onidundun	Odeda	Ogun	7.282	3.296	2	
+Onidundu	Ogbomosho North	Oyo	8.188	4.272	2	
+Onidundu	Akinyele	Oyo	7.621	3.917	2	
+Oniduagbon	Oyo West	Oyo	8.040	3.739	2	
+Onidoko	Oluyole	Oyo	7.342	3.755	2	
+Onidjor Egbo-Uwheru	Ughelli North	Delta	5.344	6.063	2	Egbo-Uwheru|Onidjor
+Onicha-Ukwu	Aniocha North	Delta	6.367	6.464	2	
+Onicha-Olona	Aniocha North	Delta	6.374	6.564	2	
+Onicha Ngwa	Obi Ngwa	Abia	5.148	7.509	2	
+Onicha	Ndokwa West	Delta	5.829	6.393	2	
+Onicha	Ihitte/Uboma	Imo	5.694	7.351	2	
+Onibode	Odeda	Ogun	7.141	3.450	2	
+Onibepe	Aiyedade	Osun	7.270	4.392	2	
+Onibembe	Asa	Kwara	8.149	4.510	2	
+Onibembe	Ibarapa East	Oyo	7.628	3.514	2	
+Onibembe	Ibarapa East	Oyo	7.587	3.549	2	
+Onibata	Oyo West	Oyo	7.939	3.731	2	
+Onibata	Afijio	Oyo	7.835	4.032	2	
+Onibambu	Ife North	Osun	7.318	4.427	2	
+Oni	Ogun Waterside	Ogun	6.530	4.237	2	
+Oni	Nembe	Bayelsa	4.467	6.267	2	
+Ongozigbene	Sagbama	Bayelsa	4.817	6.000	2	
+Ongmaji	Yala	Cross River	6.612	8.552	2	
+Onfo	Ipokia	Ogun	6.547	2.876	2	
+Ondo	Oturkpo	Benue	7.352	8.068	2	
+Ondo	Ohimini	Benue	7.255	7.830	2	
+Ondawayo	Nasarawa	Nasarawa	8.521	7.846	2	
+Onda	Nasarawa	Nasarawa	8.490	7.825	2	
+Onari	Yagba East	Kogi	7.874	5.743	2	
+Onalemole	Atiba	Oyo	8.040	4.034	2	
+Onako	Oyo West	Oyo	7.936	3.728	2	
+Onakere	Moro	Kwara	8.730	4.368	2	
+Onaka	Oyo West	Oyo	7.961	3.762	2	
+Onado	Ajaokuta	Kogi	7.418	6.666	2	
+Ona	Oturkpo	Benue	7.366	8.044	2	
+Omi-Onigbagbo	Ido	Oyo	7.387	3.734	2	Omi Onigbagbo
+Oloka One	Imeko Afon	Ogun	7.424	2.926	2	Awlawka|Oloka|Oloka I
+Okpodom	Yala	Cross River	6.549	8.428	2	Okpodom One
+Oketepe-Oniyangan	Asa	Kwara	8.536	4.389	2	Oketepe Oniyangan
+Ojo-Onidade	Atiba	Oyo	7.988	3.937	2	Ojo Onidade|OjoOnidade
+Odo-Onanla	Oluyole	Oyo	7.230	3.870	2	Odo Onanla
+Odo-Ona	Akinyele	Oyo	7.486	3.913	2	Odo Ona
+Odo-Ona	Ibadan South West	Oyo	7.403	3.853	2	Odo Ona
+Odo-Ona	Oluyole	Oyo	7.293	3.867	2	Odo Ona
+Obi-Onikegu	Aniocha South	Delta	6.086	6.370	2	
+Ntara One	Ogoja	Cross River	6.450	8.575	2	Ntara
+Nlul One	Ikom	Cross River	6.314	8.650	2	Nlul
+Nkarasi One	Ikom	Cross River	6.286	8.652	2	Nkarasi
+Ndiagu-Onicha	Onicha	Ebonyi	6.092	7.759	2	
+Kobejo One	Yewa North	Ogun	6.916	2.758	2	Kobejo|Kobejo I
+Kalo Onongi	Akuku Toru	Rivers	4.496	6.692	2	Kala Onongi
+Ita-Onimosa	Ipokia	Ogun	6.524	2.755	2	Ita Onimosa
+Ikpe Oniong Ono	Ikot Ekpene	Akwa Ibom	5.138	7.752	2	
+Ikot Onwon	Ikono	Akwa Ibom	5.230	7.808	2	
+Ikot Nya Ono	Ibiono Ibom	Akwa Ibom	5.239	7.871	2	
+Onogholo	Esan South-East	Edo	6.668	6.497	2	Igo-Onaghaleo|Igo-Onagholeo
+Igbo-Onito	Ori Ire	Oyo	8.436	4.238	2	Igbo Onito
+Igbota One	Yewa North	Ogun	7.082	2.847	2	Igbo Ita|Igbota I
+Evbomede One	Orhionmwon	Edo	6.236	6.091	2	Evbomede I|Ewotedo
+Eti-Oni	Atakunmosa East	Osun	7.389	4.755	2	Duni|Eti Oni
+Emi-Onikoko	Ogbomosho North	Oyo	8.198	4.252	2	Emi Onikoko
+Eko-Onde	Ifelodun	Osun	7.942	4.595	2	Eko Onde|Eko-Ende|Eko-Oyinde
+Baba-Onifa	Surulere	Oyo	8.182	4.440	2	Baba Onifa|Babanifa
+Asipa-Oniyangi	Akinyele	Oyo	7.661	4.054	2	Asipa Oniyangi|AsipaOniyangi
+Akisimie One	Ika South	Delta	6.300	6.158	2	Alisitne|Alisitue
+Alagutan-Oniya	Olorunsogo	Oyo	8.633	3.996	2	Alagutan Oniya
+Ondotedo	Apapa	Lagos	6.415	3.356	2	
+Onitiri	Lagos Mainland	Lagos	6.512	3.384	2	
+Ososun	Kosofe	Lagos	6.601	3.384	2	Onikosi
+Orishigun	Kosofe	Lagos	6.601	3.391	2	Onisigun
+Onifa	Afijio	Oyo	7.743	3.869	2	
+Onako	Afijio	Oyo	7.730	3.760	2	
+Ona	Afijio	Oyo	7.681	3.993	2	
+Onibon	Ido	Oyo	7.618	3.773	2	
+Onisigun	Ido	Oyo	7.612	3.783	2	
+Onipanu	Akinyele	Oyo	7.573	3.819	2	
+Onikonko	Akinyele	Oyo	7.570	3.802	2	
+Onilu	Akinyele	Oyo	7.522	3.892	2	
+Onikoko	Ido	Oyo	7.509	3.814	2	
+Onibon	Akinyele	Oyo	7.499	3.850	2	
+Onikoko	Akinyele	Oyo	7.552	3.931	2	
+Onigbodogi	Oluyole	Oyo	7.324	3.753	2	
+Onipepeiye	Oluyole	Oyo	7.314	3.815	2	
+Odo-Ona	Oluyole	Oyo	7.337	3.859	2	Odo Ona
+Ondunjo	Oluyole	Oyo	7.255	3.939	2	
+Onungopogi	Nembe	Bayelsa	4.426	6.307	2	
+Onigangan	Epe	Lagos	6.457	4.133	2	
+Onibukun	Ado Odo/Ota	Ogun	6.675	3.122	2	
+Onimosalasi	Ado Odo/Ota	Ogun	6.591	3.035	2	
+Onilogbo	Ado Odo/Ota	Ogun	6.559	3.024	2	
+Onipanu	Ado Odo/Ota	Ogun	6.681	3.201	2	
+Onibotuje	Ewekoro	Ogun	6.967	3.284	2	
+Onisopi	Shagamu	Ogun	6.835	3.575	2	
+Onijawajawa	Epe	Lagos	6.595	3.795	2	
+Onidajo	Ifo	Ogun	6.841	3.082	2	
+Onigari	Odogbolu	Ogun	6.706	3.893	2	
+Oniyewu	Idanre	Ondo	7.022	5.181	2	
+Ago-Onigbagbo	Idanre	Ondo	7.114	5.199	2	
+Onipanu	Akure South	Ondo	7.137	5.327	2	
+Onigbeyero	Ọ̀wọ̀	Ondo	7.205	5.428	2	
+Ago-Onireke	Idanre	Ondo	7.220	5.053	2	
+Otayo-Onaiye	Ọ̀wọ̀	Ondo	7.291	5.447	2	
+Ita Oniyan	Akure South	Ondo	7.293	5.162	2	
+Eda-Oniyo	Ilejemeje	Ekiti	7.958	5.260	2	
+Ondoli	Doma	Nasarawa	7.901	8.370	2	
+Onyen	Obubra	Cross River	6.067	8.479	2	
+Onian	Obubra	Cross River	6.010	8.511	2	
+Oniti	Odigbo	Ondo	6.728	4.424	2	
+Nyan	Ese Odo	Ondo	6.184	4.978	2	Nyan I|Nyan One
+Oniparaga	Odigbo	Ondo	6.721	4.453	2	
+Onaghagha	Ethiope West	Delta	5.993	5.693	2	
+Onyobru-Oghobaye	Ethiope West	Delta	5.812	5.855	2	Onyobru|Onyobru-Oghobeye
+Onduku Camp	Ekeremor	Bayelsa	4.950	5.667	2	Onduku
+Onen	Orumba South	Anambra	5.988	7.148	2	
+Onicha	Ihitte/Uboma	Imo	5.608	7.393	2	
+Nto Edino	Obot Akara	Akwa Ibom	5.248	7.552	2	Nto-Edino No. 1|Nto-Edino Number One
+Onukwu	Ohafia	Abia	5.649	7.783	2	
+Onegbu Ojo	Bende	Abia	5.625	7.650	2	
+Oniha	Iguegben	Edo	6.457	6.285	2	
+Okoh Ondhwakpor	Ughelli North	Delta	5.718	6.023	2	
+Onogboko	Ndokwa East	Delta	5.445	6.482	2	
+Onuiyi Isiagu	Ndokwa East	Delta	5.923	6.547	2	
+Onyinyiwu	Ndokwa East	Delta	5.761	6.547	2	
+Onutuo Yibo	Ndokwa East	Delta	5.729	6.552	2	
+Onu-Iku	Ogba/Egbema/Ndoni	Rivers	5.558	6.594	2	
+Onoagbai	Ogba/Egbema/Ndoni	Rivers	5.543	6.620	2	
+Onyagbene	Isoko South	Delta	5.235	6.252	2	
+Onugbene	Patani	Delta	5.181	6.136	2	
+Onujuku	Ogba/Egbema/Ndoni	Rivers	5.490	6.631	2	
+Onuta	Ogba/Egbema/Ndoni	Rivers	5.435	6.616	2	
+Ona Ara	Ona Ara	Oyo	7.283	4.033	2	Ona-Ara
+Onna	Onna	Akwa Ibom	4.616	7.849	2	Agbegbe Ijoba Ibile Onna
+Onitcha okpe	Aniocha South	Delta	6.238	6.446	2	
+Ondo West	Ondo West	Ondo	7.016	4.746	2	Ondo Ouest|Ondo West Local Government Area|Ondo ta Yamma|Se Ondo
+Onitsha South	Onitsha South	Anambra	6.127	6.777	2	Agbegbe Ijoba Ibile Guusu Onitsha|Lam Onitsha|Onitsha South Local Government Area|Onitsha Sud|Onitsha ta Kudu|Onitsha-Su
+Onicha	Onicha	Ebonyi	6.099	7.841	2	Agbegbe Ijoba Ibile Onicha|Onicha Local Government Area
+Gulfu One	Gwoza	Borno	11.265	13.322	2	
+Onome	Nsukka	Enugu	6.968	7.241	2	
+Onoafor	Nkanu East	Enugu	6.366	7.614	2	
+Onitsha-Agu	Nkanu East	Enugu	6.353	7.706	2	
+Onyo	Gwer East	Benue	7.293	8.311	2	
+Onuanyim	Izzi	Ebonyi	6.747	8.233	2	
+Amaiyima-Onuhu	Ebonyi	Ebonyi	6.382	8.044	2	
+Onuhu	Ebonyi	Ebonyi	6.360	8.076	2	
+Onwenya	Abakaliki	Ebonyi	6.315	8.274	2	
+Onyirigbo	Abakaliki	Ebonyi	6.290	8.324	2	
+Onyikwa	Abakaliki	Ebonyi	6.305	8.356	2	
+Onyikwa	Abakaliki	Ebonyi	6.278	8.386	2	
+Okpuitumo-Onuhu	Abakaliki	Ebonyi	6.246	8.139	2	
+Onyikwa	Ikwo	Ebonyi	6.140	8.164	2	
+Onuakpara	Abakaliki	Ebonyi	6.244	8.223	2	
+Onicha	Ogoja	Cross River	6.587	8.944	2	
+Onyajo	Markurdi	Benue	7.750	8.400	2	
+Onande	Gwer West	Benue	7.567	8.172	2	
+Oneyongo	Wukari	Taraba	7.856	9.453	2	
+Ongor	Ukum	Benue	7.696	9.501	2	
+N.A.R. Camp Number One	Guma	Benue	7.935	8.606	2	
+Road Camp Number One	Markurdi	Benue	7.790	8.567	2	
+Onanbuko	Nembe	Bayelsa	4.429	6.244	2	
+Onunupele	Brass	Bayelsa	4.328	6.097	2	
+Evbobemwen One	Orhionmwon	Edo	6.130	6.062	2	Evbobemwen I
+Nuru Oniwo	Surulere	Lagos	6.499	3.343	2	
+Obele Oniwala	Mushin	Lagos	6.514	3.352	2	
+Onitire	Mushin	Lagos	6.515	3.339	2	
+Abesan One	Alimosho	Lagos	6.609	3.266	2	Abesan 1 Ward
+Awori Oniwaya	Agege	Lagos	6.620	3.316	2	
+Onilekere	Ikeja	Lagos	6.602	3.321	2	
+Agboyi One	Kosofe	Lagos	6.579	3.414	2	Agboyi 1 Ward
+Ojo Oniyun	Surulere	Lagos	6.484	3.376	2	
+Onabu Opopo	Ìkòròdú	Lagos	6.575	3.643	2	
+Agbowa One	Epe	Lagos	6.655	3.705	2	Agbowa 1 Ward
+Lekki One	Ibeju Lekki	Lagos	6.425	4.057	2	Lekki I Ward
+Siriwon Igbekodo One	Ibeju Lekki	Lagos	6.411	4.138	2	Siriwon Igbekodo I Ward
+Ibeju One	Ibeju Lekki	Lagos	6.496	3.899	2	Ibeju I Ward
+Orimedu One	Ibeju Lekki	Lagos	6.455	3.907	2	Orimedu I Ward
+Iwerekun One	Ibeju Lekki	Lagos	6.458	3.686	2	Iwerekun I Ward
+Ikoyi One	Eti Osa	Lagos	6.460	3.435	2	Ikoyi I Ward
+One Thousand Four Aboyade	Eti Osa	Lagos	6.437	3.432	2	1004 Aboyade Ward
+Ala na Onugwe	Ibaji	Kogi	6.543	6.677	2	
+Egho One	Etsako West	Edo	6.876	6.282	2	Egho I|Egoro
+Ekeke One	Owan East	Edo	6.857	6.146	2	
+Eko-Onugie	Esan West	Edo	6.624	6.105	2	
+Onowa	Esan North-East	Edo	6.747	6.377	2	
+Idumu-Selu One	Esan South-East	Edo	6.510	6.330	2	
+Idumu-Agbor One	Esan South-East	Edo	6.500	6.315	2	
+Onoporubu I	Warri South-West	Delta	5.624	5.266	2	
+Onoporubu II	Warri South-West	Delta	5.625	5.237	2	
+Gabadaya	Demsa	Adamawa	9.405	12.070	2	Gabadaya One
+Onisasa	Abeokuta North	Ogun	7.192	3.230	2	
+Onile-Owo	Ibarapa Central	Oyo	7.384	3.171	2	
+Onisela	Obafemi Owode	Ogun	7.067	3.410	2	
+Onipakala	Obafemi Owode	Ogun	7.087	3.410	2	
+Onisapala	Odeda	Ogun	7.251	3.368	2	
+Onigbodogi	Lagelu	Oyo	7.492	4.036	2	
+Onigbede	Egbeda	Oyo	7.472	4.018	2	
+Onikoko	Egbeda	Oyo	7.401	4.095	2	
+Onikeke	Ona Ara	Oyo	7.314	4.029	2	
+Onikete	Ona Ara	Oyo	7.309	4.028	2	
+Onilabu	Ona Ara	Oyo	7.276	4.040	2	
+Onilabu	Ona Ara	Oyo	7.271	4.044	2	
+Onikeke	Ona Ara	Oyo	7.262	4.054	2	
+Onimo	Ona Ara	Oyo	7.198	4.049	2	
+Onigbagbo	Oluyole	Oyo	7.202	4.002	2	
+Onikankan	Ijebu North	Ogun	7.104	4.035	2	
+Onigbagbo	Ijebu North	Ogun	7.078	4.013	2	
+Onilete	Ijebu North	Ogun	7.081	4.059	2	
+Onikeke	Egbeda	Oyo	7.365	4.129	2	
+Onilemo	Egbeda	Oyo	7.454	4.131	2	
+Oniledu	Irewole	Osun	7.430	4.178	2	
+Onikoko	Irewole	Osun	7.407	4.169	2	
+Onituku	Aiyedade	Osun	7.223	4.161	2	
+Onipepeiye	Aiyedire	Osun	7.498	4.262	2	
+Onile-Owo	Isokan	Osun	7.284	4.216	2	
+Onikoko	Isokan	Osun	7.274	4.208	2	
+Onikuku	Aiyedade	Osun	7.236	4.236	2	
+Onikoko	Aiyedade	Osun	7.193	4.300	2	
+Onibudu	Aiyedade	Osun	7.229	4.263	2	
+Onikan	Aiyedade	Osun	7.307	4.314	2	
+Onisango	Irewole	Osun	7.347	4.267	2	
+Oloba	Aiyedade	Osun	7.498	4.320	2	Onarinde
+Onikere	Aiyedade	Osun	7.473	4.332	2	
+Onimu	Aiyedade	Osun	7.471	4.307	2	
+Onijan	Aiyedade	Osun	7.478	4.295	2	
+Onilearo-Egan	Aiyedade	Osun	7.378	4.395	2	
+Onipopo	Aiyedade	Osun	7.367	4.348	2	
+Onisegi	Aiyedade	Osun	7.359	4.345	2	
+Oniledu	Aiyedade	Osun	7.356	4.364	2	
+Eleta-Onikoko	Irewole	Osun	7.350	4.326	2	
+Onisu	Aiyedade	Osun	7.339	4.337	2	
+Oniyaniku	Aiyedade	Osun	7.267	4.385	2	
+Oniledu-Apata	Aiyedade	Osun	7.350	4.379	2	
+Onipasan	Ife North	Osun	7.415	4.483	2	
+Onirungbon	Ife North	Osun	7.349	4.410	2	
+Onikeke	Ife North	Osun	7.343	4.418	2	
+Onisokun	Orolu	Osun	7.954	4.521	2	
+Onilare	Ife Central	Osun	7.555	4.508	2	
+Onigbogi	Atakunmosa West	Osun	7.570	4.657	2	
+Oniyo	Atakunmosa West	Osun	7.606	4.565	2	
+Onimongoro	Atakunmosa West	Osun	7.607	4.626	2	
+Oniyere	Ede South	Osun	7.647	4.551	2	
+Onakin	Atakunmosa West	Osun	7.669	4.630	2	
+Onikoko	Atakunmosa West	Osun	7.625	4.630	2	
+Aba-Onigbagbo	Atakunmosa West	Osun	7.605	4.663	2	
+Onipetesi	Obokun	Osun	7.710	4.662	2	
+Oniyere	Boripe	Osun	7.785	4.647	2	
+Afin One	Yewa North	Ogun	7.367	2.937	2	Afin I
+Oniyaha	Yewa North	Ogun	6.881	2.852	2	
+Onireke	Ipokia	Ogun	6.715	2.814	2	
+Onaidiwo	Ilaje	Ondo	6.469	4.569	2	
+Oniki	Ife East	Osun	7.428	4.625	2	
+Eleja-Onikoko	Ife South	Osun	7.291	4.567	2	
+Onikoriko	Ife South	Osun	7.136	4.507	2	
+Onijoka	Ondo West	Ondo	7.015	4.617	2	
+Onikanga	Ife South	Osun	7.213	4.627	2	
+Onifofin	Ife South	Osun	7.382	4.680	2	
+Onibudo	Atakunmosa West	Osun	7.348	4.743	2	
+Omidire-Onipetesi	Ife South	Osun	7.270	4.679	2	
+Onipanu	Ife South	Osun	7.233	4.747	2	
+Onisosi	Ondo West	Ondo	7.090	4.668	2	
+Ona-Epe	Ondo West	Ondo	7.142	4.787	2	
+Onireke	Atakunmosa East	Osun	7.418	4.763	2	
+Ajebandele Oke-Oni	Oriade	Osun	7.464	4.859	2	
+Onikoko	Oriade	Osun	7.402	4.882	2	
+Onipanu	Ile Oluji/Okeigbo	Ondo	7.350	4.894	2	
+Eyingun-Onimole	Ile Oluji/Okeigbo	Ondo	7.265	4.814	2	
+Onipetesi	Ondo West	Ondo	7.165	4.824	2	
+Onigbo	Ondo West	Ondo	7.133	4.808	2	
+Onipetesi	Ondo East	Ondo	7.175	4.965	2	
+Onigba	Ori Ire	Oyo	8.443	4.140	2	
+Onira	Ori Ire	Oyo	8.011	4.053	2	
+Onilu	Ori Ire	Oyo	8.446	4.238	2	
+Onikolobo	Ori Ire	Oyo	8.367	4.216	2	
+Onira	Ori Ire	Oyo	8.356	4.246	2	
+Jaju-Onigbo	Asa	Kwara	8.308	4.462	2	
+Oniyeye	Ori Ire	Oyo	8.269	4.303	2	
+Oniboki	Surulere	Oyo	8.254	4.390	2	
+Onipanu	Ogbomosho North	Oyo	8.188	4.251	2	
+Onigbongbo	Surulere	Oyo	8.109	4.342	2	
+Onikoko-Idigba	Surulere	Oyo	8.068	4.380	2	
+Oniye	Ibarapa East	Oyo	7.496	3.510	2	
+Onibuku	Ibarapa East	Oyo	7.449	3.516	2	
+Ona-Odo	Odeda	Ogun	7.394	3.612	2	
+Onipede	Oluyole	Oyo	7.167	3.923	2	
+Obepi-Onidajo	Oluyole	Oyo	7.238	3.905	2	
+Onigbagbo	Oluyole	Oyo	7.200	3.807	2	
+Onipede	Olorunsogo	Oyo	8.878	4.202	2	
+Oniko	Moro	Kwara	8.835	4.386	2	
+Igbo Onisin	Moro	Kwara	8.847	4.414	2	
+Onigba	Moro	Kwara	8.783	4.448	2	
+Onigba	Moro	Kwara	8.793	4.340	2	
+Oniru	Moro	Kwara	8.802	4.275	2	
+Onikoko	Moro	Kwara	8.748	4.310	2	
+Ahere-Onirin	Moro	Kwara	8.690	4.490	2	
+Onikasan	Asa	Kwara	8.676	4.276	2	
+Gbongbo	Asa	Kwara	8.670	4.262	2	Gbongbo-Ona
+Oniledu	Olorunsogo	Oyo	8.676	4.159	2	
+Onigba	Olorunsogo	Oyo	8.672	4.142	2	
+Onilu	Asa	Kwara	8.596	4.398	2	
+Onisekere	Asa	Kwara	8.573	4.393	2	
+Onikoko	Asa	Kwara	8.611	4.375	2	
+Onibembe	Asa	Kwara	8.615	4.328	2	
+Onilu	Asa	Kwara	8.572	4.326	2	
+Okepete-Oniyangan	Asa	Kwara	8.534	4.397	2	
+Onilali	Ibarapa North	Oyo	7.578	3.121	2	
+Onipede	Ibarapa North	Oyo	7.517	3.168	2	
+Oniko	Ibarapa North	Oyo	7.616	3.208	2	
+Onikun-Sendu	Ibarapa North	Oyo	7.630	3.171	2	
+Ongo	Wamba	Nasarawa	8.921	8.610	2	
+Onikundi	Offa	Kwara	8.140	4.626	2	
+Onisapa	Oyun	Kwara	8.104	4.550	2	
+Oniluru	Oyo West	Oyo	7.870	3.763	2	
+Oniluru	Afijio	Oyo	7.820	3.751	2	
+Onisa	Oyo West	Oyo	7.861	3.796	2	
+Onigo	Afijio	Oyo	7.829	3.790	2	
+Onisa	Afijio	Oyo	7.800	3.877	2	
+Oniyere	Afijio	Oyo	7.777	3.819	2	
+Onijelakin	Afijio	Oyo	7.778	3.824	2	
+Onre	Edu	Kwara	9.078	4.911	2	
+Onikola	Afijio	Oyo	7.807	4.013	2	
+Onisa	Afijio	Oyo	7.796	4.002	2	
+Onifade	Afijio	Oyo	7.749	4.012	2	
+Oniyeye	Ori Ire	Oyo	7.981	4.104	2	
+Onisa	Surulere	Oyo	7.990	4.357	2	
+Onju	Ola Oluwa	Osun	7.761	4.130	2	
+Onikankan	Oyun	Kwara	8.279	4.640	2	
+Onipanpe	Asa	Kwara	8.367	4.532	2	
+Budo-Onu	Ilorin West	Kwara	8.417	4.572	2	
+Oniyangi	Asa	Kwara	8.268	4.562	2	
+Onire	Asa	Kwara	8.413	4.538	2	
+Onikonga	Ilorin East	Kwara	8.467	4.592	2	
+Onlemeta	Ilorin East	Kwara	8.443	4.624	2	
+Onda	Toto	Nasarawa	8.004	7.170	2	
+Onigari	Aiyedire	Osun	7.536	4.238	2	
+Oniyangi	Lagelu	Oyo	7.541	4.141	2	
+Onilu	Aiyedire	Osun	7.523	4.250	2	
+Onilu	Iwo	Osun	7.609	4.132	2	
+Onilapa	Afijio	Oyo	7.670	4.025	2	
+Onigbin	Afijio	Oyo	7.678	4.002	2	
+Onikarahun	Akinyele	Oyo	7.618	4.011	2	
+Popo-Ona	Afijio	Oyo	7.667	4.021	2	
+Lande-Onikeke	Lagelu	Oyo	7.566	4.089	2	
+Oniganna	Afijio	Oyo	7.656	4.021	2	
+Onikoko	Ede South	Osun	7.652	4.453	2	
+Onigbongbo	Aiyedire	Osun	7.528	4.188	2	
+Oniyere	Iwo	Osun	7.633	4.107	2	
+Oniwasu	Afijio	Oyo	7.747	4.046	2	
+Onilali	Iwo	Osun	7.634	4.136	2	
+Onilu	Aiyedire	Osun	7.521	4.209	2	
+Onikoko	Aiyedade	Osun	7.422	4.351	2	
+Onilearo	Aiyedade	Osun	7.379	4.357	2	
+Onigba	Ori Ire	Oyo	8.515	4.089	2	
+Oniyangi	Afijio	Oyo	7.668	3.783	2	
+Onisa	Afijio	Oyo	7.830	4.028	2	
 Oniwaya Road	Agege	Lagos	6.614	3.318	1	
 Onitolo Street	Surulere	Lagos	6.505	3.361	1	
 Onoyade Street	Shomolu	Lagos	6.521	3.369	1	
@@ -224,11 +726,7 @@ Onitsha - Owerri Road	Oru East	Imo	5.650	6.945	1
 Onitsha - Owerri Road	Oru East	Imo	5.675	6.924	1	
 Onitsha - Owerri Road	Ekwusigo	Anambra	5.923	6.858	1	
 Onitsha - Owerri Road	Ekwusigo	Anambra	6.019	6.820	1	
-Onitsha - Owerri Road	Ihiala	Anambra	5.896	6.872	1	
-Onitsha - Owerri Road	Onitsha North	Anambra	6.122	6.793	1	
 Onitsha - Owerri Road	Idemili South	Anambra	6.094	6.811	1	
-Onitsha - Owerri Road	Idemili North	Anambra	6.104	6.798	1	
-Onitsha - Owerri Road	Onitsha North	Anambra	6.115	6.792	1	
 Bishop Onyeabor Street	Enugu East	Enugu	6.468	7.496	1	
 Bishop Onyeabor Street	Enugu North	Enugu	6.463	7.496	1	
 Onyiuke Street	Enugu North	Enugu	6.435	7.502	1	
@@ -262,7 +760,6 @@ Byron Onyema Close	Enugu North	Enugu	6.460	7.525	1
 Onyebuchi Eze Avenue	Enugu North	Enugu	6.463	7.530	1	
 Chinedu Onyia Cresent	Enugu North	Enugu	6.465	7.531	1	
 Onitsha Road	Enugu North	Enugu	6.449	7.482	1	
-Onitsha Road	Enugu North	Enugu	6.456	7.481	1	
 Chief Peter Onukwube Street	Enugu South	Enugu	6.413	7.511	1	
 Onwudinjo Street	Enugu East	Enugu	6.484	7.487	1	
 Onwudiwe Street	Enugu South	Enugu	6.425	7.493	1	
@@ -300,7 +797,6 @@ Enugu Onitsha Road Interlink	Enugu East	Enugu	6.475	7.515	1
 Enugu Onitsha Road Interlink	Enugu East	Enugu	6.474	7.516	1	
 Enugu Onitsha Express Link Road	Enugu North	Enugu	6.468	7.470	1	
 Enugu Onitsha Express Link Road	Enugu East	Enugu	6.471	7.496	1	
-Enugu Onitsha Express Link Road	Enugu East	Enugu	6.471	7.494	1	
 Onitsha Link Road	Enugu North	Enugu	6.454	7.485	1	
 Eleme - Onne	Eleme	Rivers	4.732	7.155	1	
 Eleme - Onne	Eleme	Rivers	4.747	7.155	1	
@@ -310,15 +806,11 @@ Ore - Ondo	Odigbo	Ondo	6.932	4.856	1
 Prof. Chike Onochie Crescent	Enugu North	Enugu	6.459	7.550	1	
 Onitsha Road	Enugu North	Enugu	6.469	7.468	1	
 Ede Onovo Street	Enugu South	Enugu	6.405	7.486	1	
-Onuba	Enugu East	Enugu	6.470	7.585	2	
 Adibua Onya Avenue	Onitsha North	Anambra	6.158	6.801	1	
 Onoh Crescent	Enugu North	Enugu	6.468	7.491	1	
 Prince Victor Onyia Drive	Enugu East	Enugu	6.485	7.489	1	
 Enugu Onitsha Express Road	Enugu East	Enugu	6.475	7.514	1	
-Enugu Onitsha Express Road	Enugu East	Enugu	6.476	7.514	1	
 Enugu Onitsha Express Road	Enugu East	Enugu	6.473	7.518	1	
-Enugu Onitsha Express Road	Enugu East	Enugu	6.472	7.493	1	
-Sir P. Onyeneke Chukwu Street	Enugu South	Enugu	6.410	7.506	1	
 Awka-Onitsha	Awka South	Anambra	6.199	7.062	1	
 Chief Onuora Obiakor Street	Enugu North	Enugu	6.462	7.574	1	
 Chief P.N Onyechukwu Street	Enugu East	Enugu	6.507	7.514	1	
@@ -337,13 +829,11 @@ Onyedikachuckwu Chuka Street	Enugu North	Enugu	6.433	7.535	1
 Onyeka Onwe Street	Enugu North	Enugu	6.466	7.476	1	
 Uche Onuh Street	Enugu East	Enugu	6.511	7.528	1	
 Ndubuisi Onyemaechi Street	Enugu East	Enugu	6.488	7.474	1	
-Onibuore Street	Surulere	Lagos	6.507	3.340	1	
 Oni Street	Surulere	Lagos	6.509	3.358	1	
 Onitire Groove	Surulere	Lagos	6.489	3.334	1	
 Old Ondo - Benin Road	Ìjẹ̀bú Òde	Ogun	6.812	3.931	1	
 Old Ondo - Benin Road	Ìjẹ̀bú Òde	Ogun	6.809	3.912	1	
 Old Ondo - Benin Road	Ìjẹ̀bú Òde	Ogun	6.798	3.976	1	
-Old Ondo - Benin Road	Ìjẹ̀bú Òde	Ogun	6.810	3.925	1	
 Dada Oni Street	Ìkòròdú	Lagos	6.620	3.487	1	
 point one kwanan Alheri, Gona Div	Gombe	Gombe	10.278	11.189	1	
 William Onoh Road	Eti Osa	Lagos	6.444	3.525	1	
@@ -354,7 +844,6 @@ Aderenle Oni Close	Eti Osa	Lagos	6.447	3.610	1
 Yeye Yetunde Onanuga Crescent	Eti Osa	Lagos	6.451	3.584	1	
 Onitolo Crescent	Eti Osa	Lagos	6.466	3.580	1	
 Ona-Ara Street	Ede North	Osun	7.720	4.492	1	
-Onne Junction - FOT Road	Eleme	Rivers	4.718	7.154	1	
 Onne Junction - FOT Road	Eleme	Rivers	4.719	7.155	1	
 Eleme - Onne	Eleme	Rivers	4.757	7.154	1	
 Adeyinka Oni Close	Eti Osa	Lagos	6.475	3.659	1	
@@ -365,7 +854,6 @@ Onakoya Street	Kosofe	Lagos	6.605	3.385	1
 Dr. Ona Ekhomu Street	Eti Osa	Lagos	6.471	3.575	1	
 Uzo Onucha Road	Igbo-Eze-North	Enugu	6.942	7.447	1	
 Abiodun Onitiri Street	Ifako/Ijaye	Lagos	6.655	3.303	1	
-Onwe Road	Ebonyi	Ebonyi	6.327	8.104	1	
 Onanuga Street	Kosofe	Lagos	6.615	3.380	1	
 Onabamiro Road	Ijebu North	Ogun	6.945	3.918	1	
 Goody Onuoha Cres.	Owerri Municipal	Imo	5.484	7.011	1	
@@ -386,7 +874,6 @@ Oni Alawode	Ado Odo/Ota	Ogun	6.694	3.271	1
 Ondo Street	Ìkòròdú	Lagos	6.637	3.482	1	
 Segun Onamade Street	Ìkòròdú	Lagos	6.644	3.491	1	
 Onaolapo Soleye Close	Municipal Area Council	FCT Abuja	9.125	7.438	1	
-Onne Junction - FOT Road	Eleme	Rivers	4.711	7.152	1	
 Enugu Onitsha Old Road	Enugu North	Enugu	6.443	7.464	1	
 Wale Famutimi Street	Alimosho	Lagos	6.628	3.287	1	Onaasua Street
 Adebayo Onigbanjo	Alimosho	Lagos	6.667	3.264	1	
@@ -431,43 +918,66 @@ Onitsha - Owerri Road	Ihiala	Anambra	5.796	6.865	1
 Onyeador street	Enugu East	Enugu	6.467	7.546	1	
 Onogho Street	Warri South	Delta	5.534	5.758	1	
 Onitsha - Owerri Road	Ihiala	Anambra	5.895	6.872	1	
-Onabor Idumwonyi Street	Oredo	Edo	6.273	5.604	1	
 Second Niger Bridge	Ogbaru	Anambra	6.117	6.762	1	Second Onitsha Bridge
-Onikan Health Centre	Lagos Island	Lagos	6.445	3.405	0	
-Onitsha - Owerri Road	Ihiala	Anambra	5.793	6.865	1	
 Prince Ademola Oniru Road	Eti Osa	Lagos	6.429	3.454	1	
+Onigefon Road	Eti Osa	Lagos	6.429	3.456	1	
+Onanefe street	Eti Osa	Lagos	6.501	3.611	1	
+Onasuyi Street	Egor	Edo	6.397	5.599	1	
+Onadipe Close	Kosofe	Lagos	6.577	3.391	1	
+One World Charities Mission Road	Khana	Rivers	4.676	7.389	1	
+Oni-ajisafe str	Ojo	Lagos	6.455	3.226	1	
+Ade-Onitiri Street	Eti Osa	Lagos	6.510	3.587	1	
+Onitsha-Asaba Road	Oshimili South	Delta	6.194	6.715	1	
+Onitsha-Asaba Road	Oshimili South	Delta	6.175	6.746	1	
+Willie Onyejiaka St	Owerri Municipal	Imo	5.505	7.031	1	
+Eleme - Onne	Eleme	Rivers	4.806	7.153	1	
+Amudalat Onigbanjo Crescent	Eti Osa	Lagos	6.463	3.629	1	
+Onyekachi Edeh Street	Eti Osa	Lagos	6.469	3.635	1	
+Onike R / A	Lagos Mainland	Lagos	6.510	3.384	0	
+onisha	Oru East	Imo	5.690	6.918	0	
+Onome Acapuncture and Medical Center	Uvwie	Delta	5.560	5.776	0	
+Oniru	Eti Osa	Lagos	6.436	3.418	0	
+Just One Filling Station	Obio/Akpor	Rivers	4.858	6.968	0	
+Onirin Bus Stop	Kosofe	Lagos	6.609	3.409	0	
+St. Joseph's College, Ondo	Ondo West	Ondo	7.104	4.818	0	
+Ike Dunkofia Plaza Onitsha	Onitsha North	Anambra	6.152	6.782	0	
+ansar-ud-deen primary school ii, onirugba	Ìjẹ̀bú Òde	Ogun	6.832	3.932	0	
+African Church Sch Onse-Olose	Ado Odo/Ota	Ogun	6.689	3.229	0	
+Africa Church Central Primary School, Onibuku	Ado Odo/Ota	Ogun	6.580	2.931	0	
+Community Primary School, Onibudo	Ado Odo/Ota	Ogun	6.681	3.229	0	
+St. Peters Anglican Primary School Onigbonbo	Shagamu	Ogun	6.830	3.648	0	
+Africa Church Primay School, Oniyanmo	Ifo	Ogun	6.827	3.230	0	
+Community Primary School, Onipetesi	Ifo	Ogun	6.760	3.107	0	
+Mahdiyyat Memorial Primary School, Onirugba	Ado Odo/Ota	Ogun	6.680	3.185	0	
+Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.740	3.216	0	
+Mahdiyyat Memorial Primary School, Onirugba	Ìjẹ̀bú Òde	Ogun	6.838	3.933	0	
+Africa Church Primay School, Oniyanmo	Ifo	Ogun	6.753	3.102	0	
+Community Primary School, Onipetesi	Ifo	Ogun	6.747	3.284	0	
+Community Primary School, Onibudo	Ifo	Ogun	6.716	3.354	0	
+Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.687	3.204	0	
+Africa Church Central Primary School, Onibuku	Ado Odo/Ota	Ogun	6.675	3.126	0	
+African Church Sch Onse-Olose	Ado Odo/Ota	Ogun	6.674	3.058	0	
+St. Peters Anglican Primary School Onigbonbo	Ado Odo/Ota	Ogun	6.642	3.088	0	
+Oni and Sons Memorial Hospital, (Adeoyo) Ring Road, Ibadan	Ibadan South West	Oyo	7.362	3.862	0	
+Governor One Hospital No3 Dokaji Street Romi	Chikun	Kaduna	10.439	7.420	0	
+Garden Hospital Sabo Oniba Town	Ojo	Lagos	6.462	3.175	0	
+Kayode Health Center Onipanu	Mushin	Lagos	6.533	3.365	0	
+Only Jesus Hostel	Akure South	Ondo	7.290	5.149	0	
+Owode oniri market	Kosofe	Lagos	6.610	3.411	0	
+Sahaba One	Ungongo	Kano	12.044	8.564	0	
+Olabisi Onabanjo University, Ibogun	Ifo	Ogun	6.811	3.111	0	
+Ona jones	Oshimili South	Delta	6.148	6.749	0	
+Olumawu Basic School, Oni Kanga Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.477	4.567	0	
+ipare (ondo)	Ilaje	Ondo	6.291	4.675	0	
+Onyems-B.-Hospital	Ojo	Lagos	6.460	3.203	0	
+Area One	Municipal Area Council	FCT Abuja	9.029	7.470	0	
+Onikan Health Centre	Lagos Island	Lagos	6.445	3.405	0	
 Onigbongbo Market	Ikeja	Lagos	6.571	3.366	0	
 Owode Onirin Market	Kosofe	Lagos	6.605	3.412	0	
 State Primary School, Onipetesi-Mangoro	Ikeja	Lagos	6.607	3.327	0	
 Anwar-ul-Islam Nursery / Primary School, Oniwaya	Agege	Lagos	6.611	3.320	0	
 Sabo Oniba Primary School	Ojo	Lagos	6.464	3.173	0	
 New Oniru Market	Eti Osa	Lagos	6.429	3.457	0	
-Onigefon Road	Eti Osa	Lagos	6.429	3.456	1	
-Onigefon Road	Eti Osa	Lagos	6.429	3.455	1	
 Olabisi Onabanjo University	Ijebu North	Ogun	6.915	3.875	0	
-Onanefe street	Eti Osa	Lagos	6.501	3.611	1	
 Ondo State Bus Terminal	Akure South	Ondo	7.261	5.175	0	
-Onasuyi Street	Egor	Edo	6.397	5.599	1	
-Onadipe Close	Kosofe	Lagos	6.577	3.391	1	
-Second Niger Bridge	Oshimili South	Delta	6.122	6.749	1	Second Onitsha Bridge
-One World Charities Mission Road	Khana	Rivers	4.676	7.389	1	
-Oni-ajisafe str	Ojo	Lagos	6.455	3.226	1	
-Ondo Street	Kosofe	Lagos	6.603	3.420	1	
-Ade-Onitiri Street	Eti Osa	Lagos	6.510	3.587	1	
-Onakoya Street	Kosofe	Lagos	6.605	3.385	1	
-Onitsha-Asaba Road	Oshimili South	Delta	6.194	6.715	1	
-Onitsha-Asaba Road	Oshimili South	Delta	6.175	6.746	1	
-Ndubuisi Onyemaechi Street	Enugu East	Enugu	6.488	7.476	1	
-Willie Onyejiaka St	Owerri Municipal	Imo	5.505	7.031	1	
-Eleme - Onne	Eleme	Rivers	4.806	7.153	1	
-One World Charities Mission Road	Khana	Rivers	4.673	7.389	1	
-Amudalat Onigbanjo Crescent	Eti Osa	Lagos	6.463	3.629	1	
 Ononuju House	Owerri Municipal	Imo	5.496	7.036	0	
-Onyekachi Edeh Street	Eti Osa	Lagos	6.469	3.635	1	
-Onna	Onna	Akwa Ibom	4.637	7.872	2	
-Onitsha North	Onitsha North	Anambra	6.151	6.803	2	
-Onitsha South	Onitsha South	Anambra	6.139	6.773	2	
-Onicha	Onicha	Ebonyi	6.109	7.814	2	
-Ondo East	Ondo East	Ondo	7.067	4.962	2	
-Ondo West	Ondo West	Ondo	7.033	4.769	2	
-Ona Ara	Ona Ara	Oyo	7.259	4.065	2	

@@ -6,11 +6,18 @@ Krikridoge	Warri South	Delta	5.662	5.613	2
 Kreigam	Ogba/Egbema/Ndoni	Rivers	5.298	6.619	2	Kreigani
 Kurugbene	Ilaje	Ondo	6.359	4.804	2	Krugbene
 Kri Bitoa Ari	Goudoumaria	Yobe	13.377	10.780	2	
-Kris-Elly Intl. School	Uvwie	Delta	5.560	5.762	0	
-Krakrama Jetty	Degema	Rivers	4.755	6.783	0	
 Okpo-Krika	Ndokwa East	Delta	5.476	6.525	2	
-Krowa Hospital	Alimosho	Lagos	6.612	3.301	0	
-Kristiee	Onitsha North	Anambra	6.146	6.812	0	
+Kyoyel	Konshisha	Benue	7.137	8.623	2	Kroyel
+Krobo	Akinyele	Oyo	7.485	3.973	2	
+Krengereni	Maiha	Adamawa	10.089	13.172	2	
+Kpigeni	Ogba/Egbema/Ndoni	Rivers	5.299	6.619	2	Kreigam|Kreigana|Kreigani
+Kregirnya	Mubi North	Adamawa	10.170	13.146	2	
+Krakrama	Degema	Rivers	4.554	6.946	2	
+Keronowa	Marte	Borno	12.425	13.937	2	Fage|Kirinowa|Krenowa
+Krikomo	Degema	Rivers	4.472	6.913	2	Krikama
+Krokrama	Degema	Rivers	4.513	6.923	2	
+Kringini	Yusufari	Yobe	13.148	11.099	2	
+Krukanbi Creek	Warri South-West	Delta	5.574	5.367	2	
 Ichie Kris Onyekwuje Street	Eti Osa	Lagos	6.440	3.463	1	
 Kribi Street	Municipal Area Council	FCT Abuja	9.059	7.461	1	
 Kreigani Road	Ogba/Egbema/Ndoni	Rivers	5.264	6.605	1	
@@ -19,3 +26,7 @@ KRCP Coop Street	Municipal Area Council	FCT Abuja	8.975	7.348	1
 damon daniel kriepke	Gezawa	Kano	12.009	8.621	1	
 KR Farm Road	Eleme	Rivers	4.785	7.172	1	
 KR Farm Road	Eleme	Rivers	4.785	7.174	1	
+Kris-Elly Intl. School	Uvwie	Delta	5.560	5.762	0	
+Krakrama Jetty	Degema	Rivers	4.755	6.783	0	
+Krowa Hospital	Alimosho	Lagos	6.612	3.301	0	
+Kristiee	Onitsha North	Anambra	6.146	6.812	0	

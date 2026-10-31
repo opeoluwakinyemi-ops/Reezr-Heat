@@ -1,83 +1,14 @@
-Bishop Philip Academy	Egbeda	Oyo	7.405	3.946	0	
-St. Phillips Education School	Egor	Edo	6.362	5.577	0	
-Phelim School	Oredo	Edo	6.303	5.620	0	
-Pharmacy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
-First Holistic Health Physiotherapy Clinic	Enugu North	Enugu	6.426	7.495	0	
+Lekki Phase I	Eti Osa	Lagos	6.441	3.470	3	
 Kundila Phase 3	Tarauni	Kano	11.965	8.557	2	Kundila
 Njilang Philip	Chibok	Borno	10.849	12.777	2	Njilang
 Kingsley Philip	Magumeri	Borno	12.124	12.911	2	
-PHC Kambama	Shagari	Sokoto	12.614	5.223	0	Kambama Upgraded Dispensary
-PHC Chacho	Wurno	Sokoto	13.167	5.451	0	
-Adeniji Adele PHC	Lagos Island	Lagos	6.463	3.393	0	
-Zenith PHC	Lagos Island	Lagos	6.465	3.390	0	
 CBN Quaters Lugbe Phase 2	Municipal Area Council	FCT Abuja	8.991	7.357	2	
-Keljos and Philnas filling Station	Ughelli North	Delta	5.504	6.020	0	
-St. Philomena School	Uvwie	Delta	5.551	5.777	0	
-POHP Physiotherapy Clinic	Uvwie	Delta	5.536	5.760	0	
-phone tracking	Eti Osa	Lagos	6.438	3.408	0	
 Lekki Phase II	Eti Osa	Lagos	6.454	3.578	2	
-PHC Jekadafari	Gombe	Gombe	10.286	11.161	0	
-PHC Assada	Sokoto North	Sokoto	13.066	5.239	0	
-PHC Lambara	Shagari	Sokoto	12.635	5.071	0	
-Dandi Mahe PHC	Shagari	Sokoto	12.735	5.117	0	
-PHC Rinin Tawaye	Sokoto North	Sokoto	13.064	5.243	0	
-Kwanni PHC	Sokoto South	Sokoto	13.064	5.231	0	
-PHC Marnona	Wurno	Sokoto	13.214	5.494	0	
-Sheikh Gummi PHC	Wamako	Sokoto	13.019	5.227	0	
-Ali Jodi PHC	Sokoto South	Sokoto	13.061	5.229	0	
-Barga PHC	Tambuwal	Sokoto	12.171	4.643	0	
-PHC Rumbukawa	Sokoto North	Sokoto	13.066	5.225	0	
-PHC GAGI	Sokoto South	Sokoto	13.046	5.279	0	
-Ali Jodi PHC	Sokoto South	Sokoto	13.047	5.257	0	
-Unguwar Shanu PHC	Kaduna North	Kaduna	10.547	7.438	0	
-PHC ILORA	Afijio	Oyo	7.800	3.900	0	Primary Health Centre, Ilora
-Yola Rafi PHC	Silame	Sokoto	13.096	4.803	0	
-Kasgada PHC	Kware	Sokoto	13.280	5.202	0	
-PHC Kadadin Buda	Gada	Sokoto	13.865	5.487	0	
-PHC Mabera	Sokoto South	Sokoto	13.031	5.250	0	
-PHC Ruggar Kura	Dange-Shuni	Sokoto	12.923	5.248	0	
-PHC Basaura	Jega	Kebbi	12.321	4.254	0	
-PHC Tilli	Bunza	Kebbi	12.342	3.977	0	
-PHC Shemma	Suru	Kebbi	12.026	4.043	0	
-MDG PHC Gbazhi	Gbako	Niger	9.086	5.974	0	
-PHC Shagabe And Maternity	Paikoro	Niger	9.292	6.646	0	
-PHC Nagopita	Paikoro	Niger	9.367	6.684	0	
 Independence Layout Phase II	Enugu North	Enugu	6.442	7.553	2	
-Ori Eru PHC	Ibadan North West	Oyo	7.381	3.891	0	
-Pharmaco Hospital, J and P Road, Moniya road	Akinyele	Oyo	7.522	3.914	0	
-Olorisa-oko PHC, Akinyele	Akinyele	Oyo	7.561	3.887	0	
-Olodo PHC, Ibadan	Egbeda	Oyo	7.418	4.013	0	
-Agboyi primary health Centre (PHC)	Kosofe	Lagos	6.578	3.410	0	
-Nas Pharmacy and stores	Jos North	Plateau	9.914	8.895	0	
-Abbaganaram  PHC	Maiduguri	Borno	11.858	13.156	0	
-Dr. abubakar abdullahi Baba  jolly phonics resources room	Gombe	Gombe	10.307	11.167	0	
-Phone Sellers	Gombe	Gombe	10.270	11.168	0	
-St. Philips Academy	Jos North	Plateau	9.921	8.914	0	
-Phc Makera Main Roadkakuri Kaduna	Kaduna South	Kaduna	10.468	7.412	0	
-Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
-Phonex Clinic	Mushin	Lagos	6.524	3.339	0	
-Rehoboth Estate Phase 2	Akure South	Ondo	7.285	5.152	0	
-School Of Postgraduates (Phase 2)	Akure South	Ondo	7.299	5.135	0	
-School Of Postgraduates ( Phase 1)	Akure South	Ondo	7.299	5.135	0	
-Philomath University	Municipal Area Council	FCT Abuja	8.892	7.262	0	
-PHC Mazah	Jos North	Plateau	9.963	8.934	0	
-Old Ndebiji PHC	Akamkpa	Cross River	5.589	8.821	0	
-Akor PHC	Akamkpa	Cross River	5.463	8.729	0	
 Abakpa Phase II	Enugu East	Enugu	6.493	7.538	2	
-Kamo Primary Health Care (PHC Kamo)	Kaltungo	Gombe	9.957	11.344	0	
-PHC Nasarawa	Bukkuyum	Zamfara	12.041	5.745	0	
-Lekki Phase I	Eti Osa	Lagos	6.441	3.470	3	
-PHC Rinyan	Riyom	Plateau	9.586	8.718	0	
-alluvia marine/afisco (lekki phase 1)	Eti Osa	Lagos	6.448	3.459	0	
-PHC Kodape	Karu	Nasarawa	8.953	7.680	0	
-Voice Of Nigeria Estate, Doctors Quarters, Phase 2	Municipal Area Council	FCT Abuja	8.968	7.369	0	
-Phebe Wigs	Municipal Area Council	FCT Abuja	8.973	7.364	0	
-Jikwoyi Phase 2 Cele Bus Stop	Municipal Area Council	FCT Abuja	8.979	7.561	0	
-Physics with Elect Department	Kaduna North	Kaduna	10.609	7.445	0	
-Physics Department	Kaduna North	Kaduna	10.609	7.445	0	
 GRA Phase I	Onitsha North	Anambra	6.178	6.788	2	
 GRA Phase II	Onitsha North	Anambra	6.170	6.812	2	
-Shopping Mall (Phone village)	Oredo	Edo	6.336	5.621	0	
+Omagba Phase II	Onitsha North	Anambra	6.155	6.811	2	
 Philip Ojedokun Street	Kosofe	Lagos	6.637	3.386	1	
 Omole Phase 1	Ikeja	Lagos	6.634	3.361	1	
 Sunday Farm Estate Phase II	Agege	Lagos	6.609	3.318	1	
@@ -99,12 +30,84 @@ Nkorsi Road phase 1	Gokana	Rivers	4.681	7.353	1
 Danialu Alapa Phase 4	Ilorin East	Kwara	8.461	4.599	1	
 Danialu Alapa Phase 3	Ilorin East	Kwara	8.462	4.597	1	
 Philip Ogunsola Close	Eti Osa	Lagos	6.511	3.587	1	
-PHC Musa Inuwa	Chanchaga	Niger	9.597	6.576	0	
 Phinormar/Chalon Road	Enugu North	Enugu	6.429	7.455	1	
 glory drive phase 2	Yenegoa	Bayelsa	5.011	6.377	1	
 Glory Drive Phase 2	Yenegoa	Bayelsa	5.040	6.394	1	
 Phoeniex Lane	Lagos Island	Lagos	6.452	3.389	1	
 Lekki Garden Estate, Phase 5, Road 11	Eti Osa	Lagos	6.458	3.599	1	
+Behind Pharmacy	Ife Central	Osun	7.516	4.526	1	
+Philip Erara Street	Ìkòròdú	Lagos	6.621	3.486	1	
+Bishop Philip Academy	Egbeda	Oyo	7.405	3.946	0	
+St. Phillips Education School	Egor	Edo	6.362	5.577	0	
+Phelim School	Oredo	Edo	6.303	5.620	0	
+Pharmacy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
+First Holistic Health Physiotherapy Clinic	Enugu North	Enugu	6.426	7.495	0	
+PHC Kambama	Shagari	Sokoto	12.614	5.223	0	Kambama Upgraded Dispensary
+PHC Chacho	Wurno	Sokoto	13.167	5.451	0	
+Adeniji Adele PHC	Lagos Island	Lagos	6.463	3.393	0	
+Zenith PHC	Lagos Island	Lagos	6.465	3.390	0	
+Keljos and Philnas filling Station	Ughelli North	Delta	5.504	6.020	0	
+St. Philomena School	Uvwie	Delta	5.551	5.777	0	
+POHP Physiotherapy Clinic	Uvwie	Delta	5.536	5.760	0	
+phone tracking	Eti Osa	Lagos	6.438	3.408	0	
+PHC Jekadafari	Gombe	Gombe	10.286	11.161	0	
+PHC Assada	Sokoto North	Sokoto	13.066	5.239	0	
+PHC Lambara	Shagari	Sokoto	12.635	5.071	0	
+Dandi Mahe PHC	Shagari	Sokoto	12.735	5.117	0	
+PHC Rinin Tawaye	Sokoto North	Sokoto	13.064	5.243	0	
+Kwanni PHC	Sokoto South	Sokoto	13.064	5.231	0	
+PHC Marnona	Wurno	Sokoto	13.214	5.494	0	
+Sheikh Gummi PHC	Wamako	Sokoto	13.019	5.227	0	
+Ali Jodi PHC	Sokoto South	Sokoto	13.061	5.229	0	
+Barga PHC	Tambuwal	Sokoto	12.171	4.643	0	
+PHC Rumbukawa	Sokoto North	Sokoto	13.066	5.225	0	
+Phc Gagi	Sokoto South	Sokoto	13.046	5.279	0	
+Ali Jodi PHC	Sokoto South	Sokoto	13.047	5.257	0	
+Unguwar Shanu PHC	Kaduna North	Kaduna	10.547	7.438	0	
+Phc Ilora	Afijio	Oyo	7.800	3.900	0	Primary Health Centre, Ilora
+Yola Rafi PHC	Silame	Sokoto	13.096	4.803	0	
+Kasgada PHC	Kware	Sokoto	13.280	5.202	0	
+PHC Kadadin Buda	Gada	Sokoto	13.865	5.487	0	
+PHC Mabera	Sokoto South	Sokoto	13.031	5.250	0	
+PHC Ruggar Kura	Dange-Shuni	Sokoto	12.923	5.248	0	
+PHC Basaura	Jega	Kebbi	12.321	4.254	0	
+PHC Tilli	Bunza	Kebbi	12.342	3.977	0	
+PHC Shemma	Suru	Kebbi	12.026	4.043	0	
+MDG PHC Gbazhi	Gbako	Niger	9.086	5.974	0	
+PHC Shagabe And Maternity	Paikoro	Niger	9.292	6.646	0	
+PHC Nagopita	Paikoro	Niger	9.367	6.684	0	
+Ori Eru PHC	Ibadan North West	Oyo	7.381	3.891	0	
+Pharmaco Hospital, J and P Road, Moniya road	Akinyele	Oyo	7.522	3.914	0	
+Olorisa-oko PHC, Akinyele	Akinyele	Oyo	7.561	3.887	0	
+Olodo PHC, Ibadan	Egbeda	Oyo	7.418	4.013	0	
+Agboyi primary health Centre (PHC)	Kosofe	Lagos	6.578	3.410	0	
+Nas Pharmacy and stores	Jos North	Plateau	9.914	8.895	0	
+Abbaganaram  PHC	Maiduguri	Borno	11.858	13.156	0	
+Dr. abubakar abdullahi Baba  jolly phonics resources room	Gombe	Gombe	10.307	11.167	0	
+Phone Sellers	Gombe	Gombe	10.270	11.168	0	
+St. Philips Academy	Jos North	Plateau	9.921	8.914	0	
+Phc Makera Main Roadkakuri Kaduna	Kaduna South	Kaduna	10.468	7.412	0	
+Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
+Phonex Clinic	Mushin	Lagos	6.524	3.339	0	
+Rehoboth Estate Phase 2	Akure South	Ondo	7.285	5.152	0	
+School Of Postgraduates (Phase 2)	Akure South	Ondo	7.299	5.135	0	
+School Of Postgraduates ( Phase 1)	Akure South	Ondo	7.299	5.135	0	
+Philomath University	Municipal Area Council	FCT Abuja	8.892	7.262	0	
+PHC Mazah	Jos North	Plateau	9.963	8.934	0	
+Old Ndebiji PHC	Akamkpa	Cross River	5.589	8.821	0	
+Akor PHC	Akamkpa	Cross River	5.463	8.729	0	
+Kamo Primary Health Care (PHC Kamo)	Kaltungo	Gombe	9.957	11.344	0	
+PHC Nasarawa	Bukkuyum	Zamfara	12.041	5.745	0	
+PHC Rinyan	Riyom	Plateau	9.586	8.718	0	
+alluvia marine/afisco (lekki phase 1)	Eti Osa	Lagos	6.448	3.459	0	
+PHC Kodape	Karu	Nasarawa	8.953	7.680	0	
+Voice Of Nigeria Estate, Doctors Quarters, Phase 2	Municipal Area Council	FCT Abuja	8.968	7.369	0	
+Phebe Wigs	Municipal Area Council	FCT Abuja	8.973	7.364	0	
+Jikwoyi Phase 2 Cele Bus Stop	Municipal Area Council	FCT Abuja	8.979	7.561	0	
+Physics with Elect Department	Kaduna North	Kaduna	10.609	7.445	0	
+Physics Department	Kaduna North	Kaduna	10.609	7.445	0	
+Shopping Mall (Phone village)	Oredo	Edo	6.336	5.621	0	
+PHC Musa Inuwa	Chanchaga	Niger	9.597	6.576	0	
 PHC pobawure, kalmai	Billiri	Gombe	9.933	11.120	0	
 PHC kekkel	Billiri	Gombe	9.888	11.227	0	
 PHC Dogon Dawa	Giwa	Kaduna	11.037	7.086	0	
@@ -116,6 +119,5 @@ PHC Magam	Kankia	Katsina	12.326	7.703	0
 Sabon layi PHC	Billiri	Gombe	9.900	11.094	0	
 Sabon Gari PHCC	Nangere	Yobe	11.848	11.075	0	
 PHC Ka'oje	Bagudo	Kebbi	11.187	4.122	0	
-Behind Pharmacy	Ife Central	Osun	7.516	4.526	1	
-Philip Erara Street	Ìkòròdú	Lagos	6.621	3.486	1	
+PHC Clinic Mile Six	Yorro	Taraba	8.957	11.369	0	
 Kawaji PHC, Kwanar Kotu, Kano	Nassarawa	Kano	12.010	8.578	0	

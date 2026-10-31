@@ -1,17 +1,20 @@
-Ndufu MCH Clinic	Ngala	Borno	12.224	14.280	0	
-Shani MCH Clinic	Shani	Borno	10.218	12.065	0	
-MCH Jikpan	Chanchaga	Niger	9.651	6.525	0	
-MCH	Paikoro	Niger	9.572	7.229	0	
-Mcciver Mrket	Warri South	Delta	5.511	5.748	0	
+Mcha	Konshisha	Benue	7.129	8.493	2	
+Mcha	Gwer East	Benue	7.297	8.360	2	
+Mchi	Wukari	Taraba	7.697	9.816	2	
+Tse-Mcho	Gboko	Benue	7.340	8.840	2	
 McEwen Street	Lagos Mainland	Lagos	6.504	3.380	1	
 MCC Road	Calabar Municipal	Cross River	4.989	8.337	1	
 McNeil Road	Lagos Mainland	Lagos	6.508	3.377	1	
 McCarthy Street	Lagos Island	Lagos	6.447	3.404	1	
 Otumba (Dr) Mcmadu Close	Ifako/Ijaye	Lagos	6.648	3.324	1	
 McCollum Street	Lagos Mainland	Lagos	6.490	3.381	1	
-Buma Dispensary	Hawul	Borno	10.329	12.178	0	Buba Mch
-MCC Road	Calabar Municipal	Cross River	4.988	8.333	1	
 McCarthy Street	Lagos Island	Lagos	6.447	3.406	1	
+Ndufu MCH Clinic	Ngala	Borno	12.224	14.280	0	
+Shani MCH Clinic	Shani	Borno	10.218	12.065	0	
+MCH Jikpan	Chanchaga	Niger	9.651	6.525	0	
+MCH	Paikoro	Niger	9.572	7.229	0	
+Mcciver Mrket	Warri South	Delta	5.511	5.748	0	
+Buma Dispensary	Hawul	Borno	10.329	12.178	0	Buba Mch
 MCCIVER Market	Warri South	Delta	5.510	5.749	0	
 33 Artillery Brigade Medical Center	Bauchi	Bauchi	10.323	9.816	0	33 AB MC
 Monguno MCH Clinic	Monguno	Borno	12.667	13.618	0	

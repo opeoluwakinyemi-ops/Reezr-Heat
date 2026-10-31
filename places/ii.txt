@@ -1,3 +1,4 @@
+Lekki Peninsula II	Eti Osa	Lagos	6.440	3.520	3	
 Wuse II District	Municipal Area Council	FCT Abuja	9.076	7.476	2	
 Sobiekiri III	Bonny	Rivers	4.532	7.241	2	
 Iiashe	Ipokia	Ogun	6.693	2.793	2	
@@ -15,9 +16,6 @@ Sobiekiri II	Bonny	Rivers	4.534	7.239	2
 Imoto II	Yewa North	Ogun	7.083	2.883	2	
 Agada (II)	Abua/Odual	Rivers	4.805	6.681	2	
 Orugbene II	Burutu	Delta	5.234	5.587	2	
-ASCL Staff Comprehensive Secondary School III	Ajaokuta	Kogi	7.553	6.630	0	
-ASCL Staff Comprehensive Secondary School II	Ajaokuta	Kogi	7.554	6.645	0	
-Methodist School II	Ibadan North	Oyo	7.420	3.914	0	
 Farch II	Kala-Balge	Borno	12.354	14.481	2	
 Maibukart II	Jere	Borno	11.739	13.090	2	
 Mainari II	Jere	Borno	12.111	13.090	2	
@@ -31,13 +29,146 @@ Gongoro II	Abadam	Borno	13.585	13.234	2
 Dewa II	Diffa	Borno	13.428	12.807	2	
 Kargueri II	Diffa	Borno	13.426	12.806	2	
 Maiwa III	Diffa	Yobe	13.088	12.385	2	
-ASCL PRIMARY SCHOOL II	Ajaokuta	Kogi	7.559	6.637	0	
-Esedo Primary School  III	Uvwie	Delta	5.552	5.782	0	
-Kukwaba II	Municipal Area Council	FCT Abuja	9.031	7.423	0	
 Lekki Phase II	Eti Osa	Lagos	6.454	3.578	2	
 Oguta II	Oguta	Imo	5.694	6.808	2	
-Ariyo Ii Market	Odigbo	Ondo	6.847	4.973	0	
 Garki II District	Municipal Area Council	FCT Abuja	9.032	7.499	2	
+Independence Layout Phase II	Enugu North	Enugu	6.442	7.553	2	
+Olokob II	Ahoada West	Rivers	5.050	6.567	2	
+Emezi II	Ahoada West	Rivers	5.072	6.516	2	
+Pata II	Ndokwa East	Delta	5.875	6.652	2	
+Pata III	Ndokwa East	Delta	5.869	6.660	2	
+Aguetiti II	Ndokwa East	Delta	5.827	6.643	2	
+Aguetiti III	Ndokwa East	Delta	5.820	6.631	2	
+Allah-Ifeku II	Esan South-East	Edo	6.790	6.609	2	
+Iyegbi II	Esan South-East	Edo	6.727	6.611	2	
+Makraba II	Warri South-West	Delta	5.784	5.436	2	
+Okoi Toru II	Warri South-West	Delta	5.787	5.410	2	
+Abakpa Phase II	Enugu East	Enugu	6.493	7.538	2	
+Wula II	Boki	Cross River	6.378	9.114	2	
+Kanyang II	Boki	Cross River	6.276	9.054	2	
+Okwa II	Boki	Cross River	6.299	9.295	2	
+GRA Phase II	Onitsha North	Anambra	6.170	6.812	2	
+Gandi II	Rabah	Sokoto	12.998	5.946	2	
+Aliero Dangaladima II	Aleiro	Kebbi	12.245	4.455	2	
+Aliero S Fada Ii	Aleiro	Kebbi	12.320	4.438	2	
+Nassarawa Ii	Birnin Kebbi	Kebbi	12.428	4.175	2	
+Gwange III	Maiduguri	Borno	11.817	13.175	2	
+Bolori II	Maiduguri	Borno	11.879	13.138	2	
+Gwange II	Maiduguri	Borno	11.830	13.171	2	
+Garki II	Municipal Area Council	FCT Abuja	9.033	7.498	2	
+Wuse II	Municipal Area Council	FCT Abuja	9.075	7.476	2	
+Oki Two	Orhionmwon	Edo	6.202	6.111	2	Oki II|Ugbeka
+Tebu II	Warri North	Delta	5.841	5.137	2	Tebu
+Pridang Two	Gwoza	Borno	11.095	13.359	2	Pridang II
+Otobaye Two	Orhionmwon	Edo	6.123	6.081	2	Otobaye II|Otobayo
+Gulani	Burutu	Delta	5.362	5.326	2	Gula|Ogula|Ogulagha II
+Nguradina II	Chibok	Borno	10.831	12.968	2	
+Nabagaya II	Kala-Balge	Borno	11.485	14.474	2	
+Mabushi II	Zangon Kataf	Kaduna	9.733	8.399	2	Moroa
+Kalawarigbene	Southern Ijaw	Bayelsa	4.652	5.910	2	Ikebiri II|Kolawarigbene|Okurugbene
+Imoto-Igboiyewa	Yewa North	Ogun	7.094	2.885	2	Imoto|Imoto II|Imoto Igboiyewa
+Ilase	Ipokia	Ogun	6.693	2.790	2	Iiashe|Ilashe
+Evbobewen Two	Orhionmwon	Edo	6.142	6.061	2	Evbobewen II|Iduviga
+Idomogu Two	Ipokia	Ogun	6.767	2.787	2	Dologu|Idomogu|Idomogu II
+Giwere II	Bama	Borno	11.381	14.332	2	
+Garu II	Chikun	Kaduna	10.331	7.057	2	
+Ejesi II	Ife North	Osun	7.363	4.482	2	
+Evbokabua Two	Orhionmwon	Edo	6.114	6.078	2	Egunkabua|Evbokabua II
+Bulagarga III	Damboa	Borno	10.954	12.990	2	
+Bulagarga II	Damboa	Borno	10.975	12.979	2	
+Barakin Kuru Three	Jos South	Plateau	9.692	8.872	2	Barakin Kuru|Barakin Kuru III
+Alagarno II	Askira-Uba	Borno	10.672	12.563	2	
+Magodo II	Kosofe	Lagos	6.618	3.384	2	Magodo
+Thaltsila II	Madagali	Adamawa	10.899	13.455	2	
+Malakwaya Two	Gwoza	Borno	10.952	13.395	2	Malakwaya II
+Okoma (II)	Ahoada East	Rivers	4.958	6.646	2	
+Olusumere-Odo II	Burutu	Delta	5.456	5.224	2	
+Oginibo II	Ughelli South	Delta	5.390	5.833	2	
+Ewu II	Ughelli South	Delta	5.375	5.991	2	
+Adjekuo II	Ughelli South	Delta	5.232	5.983	2	
+Okuama II	Burutu	Delta	5.270	5.845	2	
+Kulama II	Southern Ijaw	Bayelsa	4.430	5.828	2	Koluama II|Kulama
+Dekalabeji II	Borgu	Niger	10.240	3.662	2	
+Ibiong Okpo Eto II	Obot Akara	Akwa Ibom	5.292	7.583	2	
+Amazu II	Oru East	Imo	5.771	6.970	2	
+Oye Camp I&II	Sagbama	Bayelsa	5.289	6.426	2	
+Ogbesu Camp II	Sagbama	Bayelsa	5.276	6.417	2	
+Aguetiti II	Ndokwa East	Delta	5.844	6.636	2	
+Aguetiti III	Ndokwa East	Delta	5.848	6.637	2	
+Obagwe II	Ogbaru	Anambra	5.792	6.660	2	
+Koloiliare II	Patani	Delta	5.214	6.193	2	Koloware II
+Torunbubo Camp III	Sagbama	Bayelsa	5.208	6.200	2	
+Anisa III	Patani	Delta	5.239	6.209	2	
+Anisa II	Patani	Delta	5.240	6.217	2	
+Torunbubo Camp II	Patani	Delta	5.205	6.194	2	
+Sagbama II	Sagbama	Bayelsa	5.183	6.210	2	
+Sagbama III	Sagbama	Bayelsa	5.180	6.210	2	
+Uduophori Water-Side	Patani	Delta	5.142	6.067	2	Uduophori II
+Arua Camp II	Sagbama	Bayelsa	5.103	6.125	2	
+Tumgbo Camp II	Sagbama	Bayelsa	5.118	6.165	2	
+Tumgbo III	Sagbama	Bayelsa	5.115	6.159	2	
+Arua Camp III	Sagbama	Bayelsa	5.095	6.126	2	
+Okumbiri Camp II	Sagbama	Bayelsa	5.004	6.050	2	
+Amatolo Camp II	Southern Ijaw	Bayelsa	5.011	6.098	2	
+Amatolo Camp III	Southern Ijaw	Bayelsa	5.013	6.093	2	
+Cripagbene II	Kolokuma/Opokuma	Bayelsa	5.010	6.217	2	
+Akpabo II	Ahoada East	Rivers	5.150	6.703	2	
+Alisimie Two	Ika South	Delta	6.310	6.162	2	Alisimie II
+Evbomede Two	Orhionmwon	Edo	6.227	6.091	2	Evbomede II
+Aliero  Dangaladima Ii	Aleiro	Kebbi	12.246	4.456	2	
+Gandi II	Rabah	Sokoto	12.994	5.922	2	
+Iivande	Gboko	Benue	7.432	8.968	2	
+Omagba Phase II	Onitsha North	Anambra	6.155	6.811	2	
+Ifelodun	Amuwo Odofin	Lagos	6.469	3.293	2	Festac III Ward
+Orire	Amuwo Odofin	Lagos	6.466	3.283	2	Festac II Ward
+Lekki Two	Epe	Lagos	6.464	3.970	2	Lekki II Ward
+Siriwon Igbekodo Two	Ibeju Lekki	Lagos	6.407	4.186	2	Siriwon Igbekodo II Ward
+Ibeju Two	Ibeju Lekki	Lagos	6.501	3.824	2	Ibeju II Ward
+Orimedu Two	Ibeju Lekki	Lagos	6.448	3.864	2	Orimedu II Ward
+Orimedu Three	Ibeju Lekki	Lagos	6.454	3.805	2	Orimedu III Ward
+Iwerekun Two	Ibeju Lekki	Lagos	6.466	3.754	2	Iwerekun II Ward
+Ikoyi Two	Eti Osa	Lagos	6.451	3.422	2	Ikoyi II Ward
+Egho Two	Etsako West	Edo	6.871	6.268	2	Egho II
+Ogualan Two	Etsako West	Edo	6.836	6.313	2	Ogualan II
+Okhoromi Two	Etsako West	Edo	6.836	6.351	2	Okhoromi II
+Magamiya II	Zangon Kataf	Kaduna	9.815	8.459	2	
+Zangan II	Kaura	Kaduna	9.684	8.408	2	
+Egberime II	Southern Ijaw	Bayelsa	4.724	5.621	2	
+Orumagada II	Ovia North-East	Edo	5.922	5.295	2	
+German II	Warri North	Delta	5.845	5.153	2	
+German III	Warri North	Delta	5.843	5.150	2	
+Deli II	Warri North	Delta	5.758	5.178	2	
+Uremure II	Warri South-West	Delta	5.517	5.178	2	
+Eyogbe II	Warri South-West	Delta	5.624	5.477	2	
+Onoporubu II	Warri South-West	Delta	5.625	5.237	2	
+Ugbogui III	Ovia South-West	Edo	6.696	5.258	2	
+Iiugun-Asalu	Abeokuta North	Ogun	7.171	3.273	2	
+Awuro-Oyo III	Ife North	Osun	7.344	4.464	2	
+Igbota Two	Yewa North	Ogun	7.072	2.841	2	Igbota II
+Oloka Two	Imeko Afon	Ogun	7.424	2.931	2	Oloka II
+Afin Two	Yewa North	Ogun	7.365	2.934	2	Afin II
+Seje II	Badagry	Lagos	6.431	2.879	2	
+Kobejo Two	Yewa North	Ogun	6.910	2.757	2	Kobejo II
+IITA Drive	Akinyele	Oyo	7.499	3.910	1	
+Sunday Farm Estate Phase II	Agege	Lagos	6.609	3.318	1	
+Queen Elizabeth II Road	Ibadan North	Oyo	7.400	3.900	1	
+Dolphin Estate IV Phase II Road	Lagos Island	Lagos	6.457	3.397	1	
+Pope John Paul II Street	Municipal Area Council	FCT Abuja	9.083	7.495	1	
+Pope John Paul II Crescent	Municipal Area Council	FCT Abuja	9.082	7.496	1	
+Oba Akenzua II Crescent	Ibadan North West	Oyo	7.396	3.876	1	
+Ajijari II	Jere	Borno	11.779	13.193	1	
+Kaduwa II	Jere	Borno	11.788	13.136	1	
+Lewis Fadipe III Lane	Eti Osa	Lagos	6.472	3.577	1	
+Ajiri II	Jere	Borno	11.790	13.128	1	
+Mohammed Sanusi Str II	Municipal Area Council	FCT Abuja	9.114	7.381	1	
+Ilado Estate II	Akure North	Ondo	7.233	5.240	1	
+ASCL Staff Comprehensive Secondary School III	Ajaokuta	Kogi	7.553	6.630	0	
+ASCL Staff Comprehensive Secondary School II	Ajaokuta	Kogi	7.554	6.645	0	
+Methodist School II	Ibadan North	Oyo	7.420	3.914	0	
+Ascl Primary School Ii	Ajaokuta	Kogi	7.559	6.637	0	
+Esedo Primary School  III	Uvwie	Delta	5.552	5.782	0	
+Kukwaba II	Municipal Area Council	FCT Abuja	9.031	7.423	0	
+Ariyo Ii Market	Odigbo	Ondo	6.847	4.973	0	
 st. augustine catholic primary school ii	Ìjẹ̀bú Òde	Ogun	6.821	3.927	0	
 Salvation Army Primary School III, Edu Agbara	Ado Odo/Ota	Ogun	6.505	3.101	0	
 ansar-ud-deen primary school ii, onirugba	Ìjẹ̀bú Òde	Ogun	6.832	3.932	0	
@@ -126,54 +257,12 @@ Salvation Army Primary School Ii, Edu Agbara	Ado Odo/Ota	Ogun	6.538	3.064	0
 Local Government Primary School Ii, Ijagba	Shagamu	Ogun	6.843	3.638	0	
 Salvation Army Primary School II, Agbara	Ado Odo/Ota	Ogun	6.504	3.102	0	
 St. Mary's Roman Catholic Mission School III, Ifo	Ifo	Ogun	6.813	3.197	0	
-Independence Layout Phase II	Enugu North	Enugu	6.442	7.553	2	
-Olokob II	Ahoada West	Rivers	5.050	6.567	2	
-Emezi II	Ahoada West	Rivers	5.072	6.516	2	
-Pata II	Ndokwa East	Delta	5.875	6.652	2	
-Pata III	Ndokwa East	Delta	5.869	6.660	2	
-Aguetiti II	Ndokwa East	Delta	5.827	6.643	2	
-Aguetiti III	Ndokwa East	Delta	5.820	6.631	2	
-Allah-Ifeku II	Esan South-East	Edo	6.790	6.609	2	
-Iyegbi II	Esan South-East	Edo	6.727	6.611	2	
 Makera II Primary Health Center	Kaduna South	Kaduna	10.478	7.410	0	
-Makraba II	Warri South-West	Delta	5.784	5.436	2	
-Okoi Toru II	Warri South-West	Delta	5.787	5.410	2	
-Abakpa Phase II	Enugu East	Enugu	6.493	7.538	2	
 Maitama - Wuse Ii Bridge	Municipal Area Council	FCT Abuja	9.087	7.474	0	
-Wula II	Boki	Cross River	6.378	9.114	2	
-Lekki Peninsula II	Eti Osa	Lagos	6.440	3.520	3	
-Kanyang II	Boki	Cross River	6.276	9.054	2	
-Okwa II	Boki	Cross River	6.299	9.295	2	
-GRA Phase II	Onitsha North	Anambra	6.170	6.812	2	
-IITA Drive	Akinyele	Oyo	7.499	3.910	1	
 Akenzua II Secondary School	Oredo	Edo	6.350	5.617	0	
-Sunday Farm Estate Phase II	Agege	Lagos	6.609	3.318	1	
-Queen Elizabeth II Road	Ibadan North	Oyo	7.400	3.900	1	
-Dolphin Estate IV Phase II Road	Lagos Island	Lagos	6.457	3.397	1	
-Pope John Paul II Street	Municipal Area Council	FCT Abuja	9.083	7.495	1	
-Pope John Paul II Crescent	Municipal Area Council	FCT Abuja	9.082	7.496	1	
-Oba Akenzua II Crescent	Ibadan North West	Oyo	7.396	3.876	1	
-Ajijari II	Jere	Borno	11.779	13.193	1	
-Kaduwa II	Jere	Borno	11.788	13.136	1	
 Zango II Health Post	Rimin Gado	Kano	12.020	8.279	0	
-Lewis Fadipe III Lane	Eti Osa	Lagos	6.472	3.577	1	
-Ajiri II	Jere	Borno	11.790	13.128	1	
-Oba Akenzua II Crescent	Ibadan North West	Oyo	7.399	3.874	1	
-Mohammed Sanusi Str II	Municipal Area Council	FCT Abuja	9.114	7.381	1	
 St. John Paul II School	Eti Osa	Lagos	6.457	3.428	0	
 Gwange III Primary School	Maiduguri	Borno	11.826	13.172	0	
-Ilado Estate II	Akure North	Ondo	7.233	5.240	1	
-IITA Drive	Akinyele	Oyo	7.497	3.904	1	
 International School of IITA	Akinyele	Oyo	7.502	3.910	0	
 State School II, Usokun	Degema	Rivers	4.786	6.774	0	
 Sadiq Abubakar III International Airport	Bodinga	Sokoto	12.923	5.227	0	
-Kaduwa II	Jere	Borno	11.789	13.134	1	
-Gandi II	Rabah	Sokoto	12.998	5.946	2	
-Aliero Dangaladima II	Aleiro	Kebbi	12.245	4.455	2	
-Aliero S Fada Ii	Aleiro	Kebbi	12.320	4.438	2	
-Nassarawa Ii	Birnin Kebbi	Kebbi	12.428	4.175	2	
-Gwange III	Maiduguri	Borno	11.817	13.175	2	
-Bolori II	Maiduguri	Borno	11.879	13.138	2	
-Gwange II	Maiduguri	Borno	11.830	13.171	2	
-Garki II	Municipal Area Council	FCT Abuja	9.033	7.498	2	
-Wuse II	Municipal Area Council	FCT Abuja	9.075	7.476	2	

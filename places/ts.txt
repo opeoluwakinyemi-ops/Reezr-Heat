@@ -1,3 +1,10 @@
+Tsakuwa Babban Gari	Dawakin Kudu	Kano	11.793	8.644	3	Tsakuwa
+Tsanyawa	Tsanyawa	Kano	12.295	7.986	3	
+Tsamoni	Ungongo	Kano	12.079	8.541	3	
+Unguwar Tsamiya	Takai	Kano	11.540	9.261	3	
+Unguwar Fawa	Albasu	Kano	11.616	9.220	3	Tsangaya
+Tse-Agberagba	Konshisha	Benue	7.077	8.666	3	
+Tsafe	Tsafe	Zamfara	11.958	6.921	3	Chafe
 Tsartim	Gboko	Benue	7.383	8.633	2	
 Unguwar Tsamga	Jibia	Katsina	13.050	7.367	2	Tsamga;Ungwan Tsamga
 Harbo	Jahun	Jigawa	12.151	9.541	2	Harbo Tsakuwawa
@@ -83,17 +90,11 @@ Tsamiya	Arewa Dandi	Kebbi	12.479	3.943	2
 Old Durowa	Barkin Ladi	Plateau	9.567	9.050	2	Dorowa Tsofo;Old Durowa
 Tsumu	Ngaski	Kebbi	10.681	4.783	2	Chumu
 Tunga-Tsoro	Tangaza	Sokoto	13.329	4.995	2	
-Tsara Primary Health Centre	Rogo	Kano	11.451	7.728	0	
-Tsohuwar Rogo Health Post	Rogo	Kano	11.575	7.800	0	
-Tsaudawa Health Post	Kiru	Kano	11.681	8.203	0	
-Tsidau Health Post	Bichi	Kano	12.300	8.149	0	
 Tsattawa	Bagwai	Kano	12.129	8.138	2	
 Rufai Tsangaya	Doguwa	Kano	10.639	8.645	2	
-Tsakuwa Babban Gari	Dawakin Kudu	Kano	11.793	8.644	3	Tsakuwa
 Tsauni	Doguwa	Kano	10.670	8.568	2	
 Unguwar Natsohuwa	Doguwa	Kano	10.686	8.575	2	Unguwar Tsohuwa
 Tagwaye	Doguwa	Kano	10.778	8.596	2	Tsangayar Kudu
-Tsanyawa	Tsanyawa	Kano	12.295	7.986	3	
 Tsauni	Tudun Wada	Kano	11.252	8.401	2	
 Dan Tsinke	Tarauni	Kano	11.936	8.538	2	
 Tsohuwar Toranke	Ajingi	Kano	12.066	9.184	2	
@@ -110,7 +111,6 @@ Tsahuyam Zimta A	Biu	Borno	10.648	12.091	2
 Tsahuyam Zimta B	Biu	Borno	10.650	12.096	2	
 Tshuyam Mamman Wani Hel	Hawul	Borno	10.575	12.034	2	Mamman Wanihil
 Tsapwa	Biu	Borno	10.812	12.405	2	
-Tsofo	Barkin Ladi	Plateau	9.673	9.073	0	
 Tsamaye	Sabon Birni	Sokoto	13.511	5.996	2	
 Tsamiya	Tangaza	Sokoto	13.360	5.051	2	
 Darna Tsalawo	Illela	Sokoto	13.497	5.446	2	
@@ -143,7 +143,6 @@ Tsakiya	Minjibir	Kano	12.162	8.554	2
 Tsakuwa Cikin Gari	Minjibir	Kano	12.212	8.632	2	Tsakuwa
 Tsalle Badamasi	Minjibir	Kano	12.230	8.621	2	
 Tsaftawa	Minjibir	Kano	12.262	8.677	2	
-Tsamoni	Ungongo	Kano	12.079	8.541	3	
 Tsohuwa Zara	Kumbotso	Kano	11.925	8.624	2	
 Tsamiya Babba	Gezawa	Kano	11.984	8.616	2	
 Tsalle	Minjibir	Kano	12.160	8.618	2	
@@ -165,8 +164,6 @@ Tsibiri	Wudil	Kano	11.819	8.843	2
 Tsaida Kudu	Gaya	Kano	11.834	9.123	2	
 Tsaida	Gaya	Kano	11.827	9.111	2	
 Unguwar Tsamiya	Albasu	Kano	11.667	8.989	2	Faragai
-Unguwar Tsamiya	Takai	Kano	11.540	9.261	3	
-Unguwar Fawa	Albasu	Kano	11.616	9.220	3	Tsangaya
 Auzara Tsakiya	Takai	Kano	11.522	9.327	2	
 Tsangaya	Albasu	Kano	11.662	9.089	2	
 Tsamiya	Garko	Kano	11.610	8.830	2	
@@ -176,39 +173,7 @@ Daka Tsalle	Tudun Wada	Kano	11.342	8.442	2
 Tsigi	Rano	Kano	11.415	8.479	2	
 Rurum Malam Tsohon Gari	Rano	Kano	11.410	8.480	2	Rurum
 Tsohon Gari	Garum Mallam	Kano	11.648	8.449	2	
-Tswachiko Clinic	Katcha	Niger	9.000	6.162	0	
-BHC Tsadza	Agaie	Niger	9.145	6.478	0	
-Tse-Agberagba	Konshisha	Benue	7.077	8.666	3	
-Isuhu Dan Tsoho Hospital Isuhu Dan Tsoho Hospital	Kaduna North	Kaduna	10.532	7.460	0	
-Koron Tsohuwa Primary Health Care	Kaduna South	Kaduna	10.467	7.439	0	
-TSANGAYAR MALAN BALA	Gwale	Kano	11.959	8.471	0	
 Malan Tsangaye	Dungass	Jigawa	12.823	9.415	2	
-TS Gate	Ovia North-East	Edo	6.723	5.383	0	
-Thaba Tseka Street	Municipal Area Council	FCT Abuja	9.076	7.484	1	
-Mao Tse Tung Street	Municipal Area Council	FCT Abuja	9.050	7.510	1	
-Damri - Bakura - Tsamiya Road	Bakura	Zamfara	12.701	5.858	1	
-Tsamiya Way	Tofa	Kano	12.062	8.275	1	
-Tsamaye street	Kumbotso	Kano	11.883	8.494	1	
-Rafin Tsamiya Health Post	Tsanyawa	Kano	12.195	8.041	0	
-Tsattawa Health Post	Bagwai	Kano	12.129	8.138	0	
-Tsangaya Primary Health Centre	Albasu	Kano	11.619	9.215	0	
-Tsaure Primary Health Centre	Shanono	Kano	12.095	7.880	0	
-Tsalle Health Post	Gezawa	Kano	12.081	8.715	0	
-Tsakiya Health Post	Minjibir	Kano	12.138	8.552	0	
-Tsaure Health Post	Bichi	Kano	12.207	8.320	0	
-Tsohon Garin Lukshi Health Center	Dass	Bauchi	10.031	9.420	0	
-Ajio-Tse-Upev Road	Kwande	Benue	6.801	9.201	1	
-Abdullahi Tsafe Close	Kaduna North	Kaduna	10.518	7.446	1	
-Umar Abdullahi Tsauri Road	Kaduna North	Kaduna	10.579	7.469	1	
-Damri - Bakura - Tsamiya Road	Bakura	Zamfara	12.645	5.881	1	
-Damri - Bakura - Tsamiya Road	Bakura	Zamfara	12.623	5.881	1	
-Tsohuwar Makabarta Street	Tarauni	Kano	11.957	8.537	1	
-Tsaraka Health Post	Bichi	Kano	12.215	8.182	0	
-Tsanyawa Primary Health Centre	Tsanyawa	Kano	12.298	7.981	0	
-Tsumba Maternity	Shira	Bauchi	11.522	9.971	0	
-Model Primary Health Center Zagaya	Ningi	Bauchi	10.975	9.572	0	Model Primary Health Center Tsangaya
-Murba Tsamiya Dispensary	Fune	Yobe	11.748	11.588	0	
-Rijiyar Tsamiya Maternity and  Child Health Clinic	Sandamu	Katsina	12.880	8.273	0	
 Tsakuwawa	Miga	Jigawa	12.174	9.618	2	
 Tsugum Tagali	Barde	Yobe	12.758	10.643	2	
 Harbo Tsohuwa	Jahun	Jigawa	12.151	9.501	2	
@@ -238,14 +203,12 @@ Tsohon Gari	Tudun Wada	Kano	11.238	8.402	2
 Sakara Tsa	Rimin Gado	Kano	11.928	8.378	2	
 Tsaure	Shanono	Kano	12.040	7.891	2	
 Rurum Tsohon Gari	Rano	Kano	11.447	8.442	2	
-Tsakiya	Minjibir	Kano	12.150	8.553	2	
 Unguwar Tsohuwa	Doguwa	Kano	10.688	8.544	2	
 Tsaudawa	Kiru	Kano	11.674	8.191	2	
 Tsakuwa	Minjibir	Kano	12.212	8.639	2	
 Tsanyawa	Tsanyawa	Kano	12.270	8.012	2	
 Tsamiya Babba	Gezawa	Kano	12.003	8.660	2	
 Tsakuwa	Dawakin Kudu	Kano	11.779	8.634	2	
-Tsanyawa	Tsanyawa	Kano	12.285	7.996	2	
 Tsaskiya	Safana	Katsina	12.491	7.380	2	
 Tsagem Takusheyi	Mani	Katsina	12.974	7.854	2	
 Tsauri B	Kurfi	Katsina	12.758	7.451	2	
@@ -259,3 +222,1103 @@ Tsagero	Rimi	Katsina	12.916	7.747	2
 Tsanni	Batagarawa	Katsina	12.787	7.566	2	
 Tsakuwa	Katagum	Bauchi	11.684	10.208	2	
 Tsafi	Shira	Bauchi	11.343	10.082	2	
+Yuko Tsachia	Guma	Benue	7.971	8.779	2	
+Ungwan Tsamiya	Kafur	Katsina	11.766	7.757	2	
+Tsuna	Gusau	Zamfara	12.172	6.936	2	Unguwar Tsuna
+Ungwan Tsofo Poda	Maru	Zamfara	11.501	6.537	2	Tsofo Pada|Unguwar Tsofo Pada
+Twakoyagi	Gbako	Niger	9.384	6.106	2	Tswakoyagi
+Tswatagi	Edati	Niger	9.008	6.091	2	
+Tswata	Katcha	Niger	9.104	6.205	2	
+Tswasha	Gbako	Niger	9.357	6.022	2	
+Tswam	Ushongo	Benue	7.089	8.808	2	
+Tswakaa	Gboko	Benue	7.498	8.666	2	
+Tswaka	Konshisha	Benue	7.021	8.831	2	
+Tswafu	Mashegu	Niger	9.503	5.010	2	
+Tswadan	Gbako	Niger	9.262	6.117	2	
+Tswachiko	Agaie	Niger	9.223	6.393	2	
+Tswabga	Gbako	Niger	9.136	6.141	2	
+Tswa	Gboko	Benue	7.342	8.714	2	
+Tsuwe	Konshisha	Benue	7.191	8.631	2	
+Tsuwa	Konshisha	Benue	7.088	8.754	2	
+Tsume	Gboko	Benue	7.294	8.736	2	
+Tsumbe	Konshisha	Benue	7.122	8.762	2	
+Tsulo	Fufore	Adamawa	8.964	12.276	2	
+Tsukwa	Donga	Taraba	7.519	10.176	2	
+Tsue	Konshisha	Benue	7.179	8.617	2	
+Tsuduworo	Agaie	Niger	9.109	6.481	2	
+Tsuaya	Buji	Jigawa	11.600	9.717	2	
+Tsuambu	Guma	Benue	7.773	8.668	2	
+Tsuaa	Konshisha	Benue	7.112	8.635	2	
+Tsoyo	Kwande	Benue	6.933	9.585	2	
+Tsowagba	Edati	Niger	8.946	6.071	2	
+Tsorun	Konshisha	Benue	7.309	8.611	2	
+Tsor	Gwer East	Benue	7.390	8.499	2	
+Sonkpata	Gbako	Niger	9.244	5.877	2	Tsonpata
+Tsonfwa	Hawul	Borno	10.379	12.271	2	
+Tsomba	Ushongo	Benue	7.101	8.894	2	
+Tsokundi	Wukari	Taraba	7.877	10.020	2	Tsokondi
+Tsokar	Konshisha	Benue	7.016	8.888	2	
+Tsohurwar Badafi	Kiru	Kano	11.352	8.250	2	Tsohuwar Badafi
+Tsohon Shani	Shani	Borno	10.207	12.056	2	
+Tsohon Gari Hong	Hong	Adamawa	10.238	12.953	2	
+Tsogonari	Konduga	Borno	11.721	13.196	2	
+Tsogha	Konshisha	Benue	7.024	8.856	2	
+Tsofuwar Rogo	Rogo	Kano	11.587	7.795	2	
+Tsofua	Shira	Bauchi	11.561	10.078	2	
+Tsofon Tunga	Awe	Nasarawa	8.062	9.315	2	
+Tsofon Mah	Kubau	Kaduna	11.054	8.196	2	
+Tsofon Gari	Toro	Bauchi	10.814	8.794	2	
+Tsofon Birnin	Sakaba	Kebbi	10.967	5.650	2	
+Tsofo-n-Bassa	Bassa	Plateau	9.992	8.752	2	Tsofon Bassa
+Tsirma	Kiyawa	Jigawa	11.867	9.533	2	
+Tsintsia	Danja	Katsina	11.357	7.582	2	
+Tsinkaina	Biriniwa	Jigawa	12.741	10.131	2	
+Tsinge	Takum	Taraba	7.272	10.097	2	
+Tsilela	Argungu	Kebbi	12.766	4.474	2	
+Tsil	Hong	Adamawa	10.402	12.838	2	
+Tsiga	Bakori	Katsina	11.603	7.530	2	
+Tsida	Sumaila	Kano	11.425	8.911	2	
+Tsibiri	Maradun	Zamfara	13.010	6.421	2	
+Tsibiri	Chikun	Kaduna	10.542	7.020	2	
+Tsewende	Takum	Taraba	7.568	10.016	2	
+Tseva	Hong	Adamawa	10.095	12.999	2	
+Tseva	Donga	Taraba	7.881	10.328	2	
+Tsev	Gwer East	Benue	7.386	8.518	2	
+Tseuva	Konshisha	Benue	7.174	8.635	2	
+Tse Usange	Gwer East	Benue	7.612	8.639	2	
+Tseundu	Gwer East	Benue	7.392	8.202	2	
+Tseubur	Gwer East	Benue	7.379	8.191	2	
+Tse-Tyorda	Gboko	Benue	7.380	8.654	2	
+Tse Tsuwe	Gwer East	Benue	7.542	8.602	2	
+Tse-Tor	Gboko	Benue	7.286	8.637	2	
+Tsetim	Konshisha	Benue	7.183	8.556	2	
+Tsetim	Konshisha	Benue	7.132	8.605	2	
+Tse-Tikwa	Gboko	Benue	7.392	8.654	2	
+Tseshom	Kwande	Benue	6.762	9.566	2	
+Tserekum	Gwer East	Benue	7.364	8.554	2	
+Tse Punushu	Gwer East	Benue	7.680	8.686	2	
+Tse Poor	Markurdi	Benue	7.686	8.585	2	
+Tsepil	Konshisha	Benue	7.145	8.649	2	
+Tsepian	Takum	Taraba	7.585	10.009	2	
+Tse-Ode	Konshisha	Benue	7.324	8.547	2	
+Tsentswa	Gwer East	Benue	7.316	8.236	2	
+Tse-Niondu	Gboko	Benue	7.356	8.678	2	
+Tsenger	Konshisha	Benue	7.340	8.583	2	
+Tsengaa	Kwande	Benue	6.759	9.571	2	
+Tse-Ndur	Gboko	Benue	7.386	8.742	2	
+Tsehemba	Bali	Taraba	7.850	10.374	2	Tshemba
+Tse-Ma	Gboko	Benue	7.250	8.705	2	
+Tse Kyula	Gwer East	Benue	7.609	8.665	2	
+Tse Kyado	Gwer East	Benue	7.610	8.650	2	
+Tsekuri	Gwer East	Benue	7.381	8.531	2	
+Tse-Kumkpev	Gwer East	Benue	7.469	8.246	2	
+Tsekpe	Gwer East	Benue	7.379	8.160	2	
+Tsekpaor	Kwande	Benue	6.648	9.544	2	
+Tseke	Tarka	Benue	7.674	8.869	2	
+Tseke	Takum	Taraba	7.451	10.121	2	
+Tseke	Konshisha	Benue	7.028	8.786	2	
+Tse-Junge	Gboko	Benue	7.401	8.742	2	
+Tse Jir	Gwer East	Benue	7.604	8.636	2	
+Tse-Jime	Konshisha	Benue	7.084	8.525	2	
+Tse-Hulor	Konshisha	Benue	7.208	8.652	2	
+Tsehembe	Gboko	Benue	7.281	8.680	2	
+Tse-Hemba Gbantule	Konshisha	Benue	7.081	8.546	2	
+Tsehe	Gboko	Benue	7.345	8.747	2	
+Tsegha	Konshisha	Benue	7.119	8.577	2	
+Tsegengel	Konshisha	Benue	7.168	8.601	2	
+Tsegbato	Gwer East	Benue	7.385	8.198	2	
+Tsegban	Guma	Benue	8.044	8.778	2	
+Tsegba	Gboko	Benue	7.358	8.697	2	
+Tse-Fyande	Gboko	Benue	7.226	8.669	2	
+Tsefongo	Kwande	Benue	6.739	9.547	2	
+Tseem	Konshisha	Benue	7.203	8.598	2	
+Tsedyugh	Kwande	Benue	6.570	9.564	2	
+Tse-Dum	Ushongo	Benue	7.228	8.917	2	
+Tse-Dudu	Ushongo	Benue	7.237	8.873	2	
+Tsedonko	Konshisha	Benue	7.072	8.736	2	
+Tsedajo	Gwer East	Benue	7.380	8.191	2	
+Tse-Chumba	Konshisha	Benue	7.199	8.551	2	
+Tse-Bende	Konshisha	Benue	7.068	8.525	2	
+Tseasho	Kwande	Benue	6.588	9.502	2	
+Tseapenda	Gwer East	Benue	7.376	8.149	2	
+Tse-Aor	Gwer East	Benue	7.383	8.545	2	
+Tseaolihar	Konshisha	Benue	7.122	8.561	2	
+Tse Anyila	Gboko	Benue	7.355	8.628	2	
+Tseangbir	Oturkpo	Benue	7.369	8.121	2	
+Tseande	Kwande	Benue	6.662	9.582	2	
+Tse-Amondu	Gwer East	Benue	7.483	8.238	2	
+Tse Akuta	Gwer East	Benue	7.430	8.205	2	
+Tseako	Gwer East	Benue	7.373	8.140	2	
+Tse-Ajom	Konshisha	Benue	7.296	8.574	2	
+Tse-Aike	Gboko	Benue	7.280	8.662	2	
+Tseagaregh	Kwande	Benue	6.735	9.595	2	
+Tse Aduku	Gwer East	Benue	7.594	8.635	2	
+Tse-Adikpo	Konshisha	Benue	7.064	8.541	2	
+Tseadam	Kwande	Benue	6.768	9.567	2	
+Tse-Adagen	Gboko	Benue	7.423	8.724	2	
+Tse Abor	Gwer East	Benue	7.525	8.601	2	
+Tse	Akwanga	Nasarawa	8.992	8.448	2	Nungo
+Tsavza	Gboko	Benue	7.382	8.742	2	
+Tsavnum	Konshisha	Benue	7.140	8.685	2	
+Tsavhemba	Konshisha	Benue	7.041	8.549	2	
+Tsav	Kwande	Benue	6.968	9.595	2	
+Tsauri	Kurfi	Katsina	12.797	7.474	2	
+Tsaure	Shanono	Kano	12.091	7.875	2	
+Tsaurara	Mani	Katsina	12.854	7.922	2	
+Tsaunin Goge	Kankara	Katsina	11.812	7.518	2	
+Tsauni Liman	Birnin Gwari	Kaduna	10.883	6.950	2	
+Tsauni	Birnin Kudu	Jigawa	11.433	9.633	2	
+Tsatstsaki	Tudun Wada	Kano	11.346	8.334	2	
+Tsarkae	Konshisha	Benue	7.156	8.675	2	
+Tsantsaga	Edati	Niger	9.070	6.107	2	
+Tsanni	Batagarawa	Katsina	12.800	7.561	2	
+Tsankua	Mashi	Katsina	13.086	8.120	2	
+Tsangayari	Darazo	Bauchi	10.899	10.465	2	
+Tsangaya	Albasu	Kano	11.617	9.217	2	
+Tsangarwa	Gwaram	Jigawa	11.433	9.767	2	
+Tsamu	Yankwashi	Jigawa	12.810	8.573	2	
+Tsamiyan Gude	Malumfashi	Katsina	11.806	7.584	2	
+Tsamiya	Rabah	Sokoto	12.946	5.715	2	Tsamia
+Tsamiya	Tureta	Sokoto	12.580	5.398	2	Tsama|Tsamia
+Tsamiya	Kafur	Katsina	11.802	7.730	2	
+Tsamiagoma	Kaugama	Jigawa	12.391	9.695	2	
+Tsamia	Kaita	Katsina	13.164	7.691	2	
+Tsamai	Sabon Birni	Sokoto	13.561	5.939	2	Tsamia
+Tsalle	Garki	Jigawa	12.392	9.161	2	
+Tsakwaram	Gwaram	Jigawa	11.117	9.933	2	
+Tsakuwawa	Miga	Jigawa	12.169	9.607	2	
+Tsakuwa	Hong	Adamawa	10.184	12.904	2	
+Tsakiya	Safana	Katsina	12.547	7.346	2	Tsaskiya
+Tsakatsa	Charanchi	Katsina	12.575	7.644	2	
+Tsakani	Toro	Bauchi	10.275	9.646	2	
+Tsakaka	Ushongo	Benue	7.218	8.991	2	
+Tsaiga	Dukku	Gombe	10.663	10.509	2	
+Tsahuyani	Hawul	Borno	10.418	12.318	2	
+Tsahuyam	Biu	Borno	10.780	12.004	2	
+Tsahuyam	Hawul	Borno	10.550	12.048	2	
+Tsahuyam	Hawul	Borno	10.505	12.148	2	
+Tsagewa	Miga	Jigawa	12.322	9.640	2	
+Tsagero	Mani	Katsina	12.889	7.777	2	
+Tsafi	Shira	Bauchi	11.361	10.101	2	Tseffi
+Tsafa	Mokwa	Niger	9.233	4.883	2	
+Tsadza	Gbako	Niger	9.196	6.123	2	
+Tsadza	Agaie	Niger	9.145	6.481	2	
+Tsadza	Agaie	Niger	9.081	6.440	2	
+Tsaduko	Katcha	Niger	9.112	6.267	2	
+Tsadoyagi	Katcha	Niger	8.814	6.290	2	Chadowagi|Tsadovagi
+Tsabu	Mai'Adua	Katsina	13.035	8.164	2	
+Tsabare	Ringim	Jigawa	12.294	9.018	2	
+Tsaba	Ringim	Jigawa	12.293	9.044	2	
+Tsa	Kankia	Katsina	12.431	7.832	2	
+Suriaretin	Magumeri	Borno	12.088	12.966	2	Tsuriaretin
+Soni	Tangaza	Sokoto	13.713	5.021	2	Tsoni
+Samia	Shendam	Plateau	8.921	9.773	2	Tsamia|Tsamiya
+Sabongari Tsakwa	Gombi	Adamawa	10.284	12.722	2	
+Maidontoro Tsofo	Jos East	Plateau	9.706	9.066	2	
+Koguran Tsohuwa	Garki	Jigawa	12.418	9.132	2	
+Kangi Tsuanpa	Katcha	Niger	9.081	6.163	2	Kangi
+Gidima	Tangaza	Sokoto	13.267	5.037	2	Tsalibawa
+Gazobi Tsohuwa	Tudun Wada	Kano	11.292	8.481	2	Gazobi|Gazobi Tsohurwa
+Emiworogi Nda-Tsadu	Edati	Niger	8.941	5.893	2	Emiworogi Nda Tsadu|Emiworogi-Nda-Tsadu|EmiworogiNda-Tsadu|EmiworogiNdaTsadu
+Dugu-Tsofo	Shanga	Kebbi	11.116	4.586	2	
+Dan Tsofo	Barkin Ladi	Plateau	9.577	9.049	2	Dorowa Tsofo|Old Durowa
+Dantasaku	Goronyo	Sokoto	13.193	5.784	2	Dan Tsokwa
+Dan Tsofo	Barkin Ladi	Plateau	9.688	9.076	2	Gidan Tsofo
+Chumu	Ngaski	Kebbi	10.683	4.787	2	Tsumu
+Tsofan Birni	Mai'Adua	Katsina	13.124	8.280	2	
+Bakar Tsauna	Gudu	Sokoto	13.650	4.433	2	
+Ibabban Tsuani	Gwagwalada	FCT Abuja	9.164	6.963	2	Babban Tsauni
+Abu-Tsofo	Sanga	Kaduna	9.061	8.538	2	
+Angwan Tsokwa	Karu	Nasarawa	9.134	7.666	2	
+Tsakiya	Minjibir	Kano	12.166	8.566	2	
+Tsale	Minjibir	Kano	12.221	8.616	2	
+Tsamia Kara	Gezawa	Kano	12.038	8.728	2	
+Tsale	Gezawa	Kano	12.076	8.713	2	
+Tsarkakiya	Dawakin Tofa	Kano	12.095	8.354	2	
+Tsil	Askira-Uba	Borno	10.463	13.109	2	
+Tsidihga	Madagali	Adamawa	10.755	13.544	2	
+Tsokorok	Gwoza	Borno	10.937	13.505	2	
+Tsakiraku	Gwoza	Borno	10.951	13.506	2	
+Tsekughea	Konshisha	Benue	7.032	8.462	2	
+Tseubiligh	Obi	Benue	7.138	8.270	2	
+Tseagbe	Gwer East	Benue	7.144	8.358	2	
+Tsenyebe	Oturkpo	Benue	7.143	8.223	2	
+Tseapam	Gwer East	Benue	7.153	8.287	2	
+Tseaudu	Oturkpo	Benue	7.162	8.239	2	
+Tsegbaji	Gwer East	Benue	7.169	8.333	2	
+Tseaiko	Gwer East	Benue	7.191	8.358	2	
+Tseazever	Gwer East	Benue	7.191	8.341	2	
+Tsetsokor	Gwer East	Benue	7.218	8.294	2	
+Tseaaijo	Oturkpo	Benue	7.222	8.239	2	
+Tsetange	Gwer East	Benue	7.232	8.407	2	
+Tsegbila	Gwer East	Benue	7.287	8.363	2	
+Tsealem	Gwer East	Benue	7.290	8.283	2	
+Tsegbase	Gwer East	Benue	7.290	8.293	2	
+Tsenga	Gwer East	Benue	7.325	8.460	2	
+Tsekar	Gwer East	Benue	7.330	8.492	2	
+Tsebyam	Gwer East	Benue	7.341	8.371	2	
+Tse-Eneke	Gboko	Benue	7.369	8.828	2	
+Tse-Kpev	Gboko	Benue	7.373	8.866	2	
+Tse Amua	Gboko	Benue	7.394	8.997	2	
+Tse Agoom	Gboko	Benue	7.420	8.791	2	
+Tse-Kucha	Gboko	Benue	7.423	8.969	2	
+Tseakume	Gwer East	Benue	7.437	8.288	2	
+Tse Tsavau Mba	Gwer East	Benue	7.463	8.301	2	
+Tsewanyan	Gwer East	Benue	7.475	8.442	2	
+Tse-Guletsa	Gboko	Benue	7.489	8.801	2	
+Tse-Yende	Gboko	Benue	7.493	8.818	2	
+Tse-Haanongon	Gboko	Benue	7.499	8.966	2	
+Tsav	Gwer West	Benue	7.535	8.200	2	
+Tseikyam	Gwer West	Benue	7.543	8.205	2	
+Tseakaa	Gwer East	Benue	7.558	8.302	2	
+Tseushir	Gwer East	Benue	7.563	8.354	2	
+Tse-Agbeji	Oturkpo	Benue	7.565	8.054	2	
+Tsekov	Gwer West	Benue	7.568	8.174	2	
+Tsekoruum	Gwer East	Benue	7.576	8.398	2	
+Tsetar	Gwer West	Benue	7.584	8.253	2	
+Tse-Agije	Oturkpo	Benue	7.584	8.077	2	
+Tsemunam	Gwer East	Benue	7.589	8.471	2	
+Tsekpabi	Gwer West	Benue	7.593	8.137	2	
+Tse-Agbe	Gwer West	Benue	7.596	8.091	2	
+Tse-Achura	Gwer West	Benue	7.600	8.109	2	
+Tsedom	Gwer West	Benue	7.602	8.289	2	
+Tsevava	Gwer East	Benue	7.608	8.363	2	
+Tshengena	Gwer West	Benue	7.624	8.257	2	
+Tserava	Gwer East	Benue	7.626	8.355	2	
+Tsuwa	Markurdi	Benue	7.634	8.479	2	
+Tse Aba	Markurdi	Benue	7.638	8.437	2	
+Tsegbayi	Markurdi	Benue	7.642	8.464	2	
+Tsechia	Gwer East	Benue	7.640	8.407	2	
+Tse Gbagir	Markurdi	Benue	7.639	8.587	2	
+Tsenumba	Gwer West	Benue	7.648	8.295	2	
+Tsuba	Gwer West	Benue	7.654	8.288	2	
+Tsemokha	Gwer West	Benue	7.655	8.324	2	
+Tsenongo	Gwer West	Benue	7.658	8.295	2	
+Tserumur	Gwer West	Benue	7.668	8.095	2	
+Tsekom	Markurdi	Benue	7.679	8.491	2	
+Tsheagumn	Apa	Benue	7.676	8.062	2	
+Tse-Amoche	Markurdi	Benue	7.684	8.386	2	
+Tseyokya	Gwer West	Benue	7.697	8.359	2	
+Tsegbam	Markurdi	Benue	7.694	8.452	2	
+Tsoka	Gwer West	Benue	7.694	8.130	2	
+Tseabaa	Markurdi	Benue	7.697	8.385	2	
+Tseyior	Gwer West	Benue	7.703	8.335	2	
+Tsetor	Markurdi	Benue	7.704	8.389	2	
+Tsebugher	Gwer West	Benue	7.707	8.363	2	
+Tsewuaha	Gwer West	Benue	7.714	8.214	2	
+Tsonogh	Gwer West	Benue	7.725	8.290	2	
+Tsekir	Markurdi	Benue	7.723	8.375	2	
+Tse-Anyar	Markurdi	Benue	7.727	8.398	2	
+Tseakom	Markurdi	Benue	7.736	8.417	2	
+Tsejiga	Gwer West	Benue	7.741	8.161	2	
+Tselago	Gwer West	Benue	7.750	8.286	2	
+Tseagber	Markurdi	Benue	7.751	8.374	2	
+Tseka	Gwer West	Benue	7.807	8.175	2	
+Tsaf	Guma	Benue	7.879	8.407	2	
+Tsenungu	Guma	Benue	7.895	8.484	2	
+Burudu Tsofoa	Baure	Katsina	12.866	8.581	2	
+Tsigi Dan Ilia	Baure	Katsina	12.796	8.595	2	
+Ungua Tsamia	Baure	Katsina	12.748	8.802	2	
+Tsamia Lafia	Baure	Katsina	12.676	8.863	2	
+Unguwar Tsamia	Babura	Jigawa	12.654	8.980	2	
+Woje Tsofoa	Babura	Jigawa	12.613	8.800	2	
+Tsallewa	Kazaure	Jigawa	12.667	8.683	2	
+Tsagen Agulu	Kazaure	Jigawa	12.659	8.557	2	
+Tsagen Barka	Kazaure	Jigawa	12.657	8.565	2	
+Tsailaka	Makoda	Kano	12.572	8.523	2	
+Tsofo Dadarawa	Tsanyawa	Kano	12.265	8.074	2	
+Tsira	Garki	Jigawa	12.411	8.964	2	
+Tsira	Ringim	Jigawa	12.263	8.971	2	
+Takalmawa Tsofoa	Gabasawa	Kano	12.203	8.845	2	
+Tsalle	Gabasawa	Kano	12.155	8.823	2	
+Tsadawa	Ajingi	Kano	12.046	8.970	2	
+Tsigirgiri	Ajingi	Kano	12.002	8.955	2	
+Tsauni	Mani	Katsina	12.893	8.048	2	
+Tsubut	Roni	Jigawa	12.681	8.218	2	
+Tsadoji	Kazaure	Jigawa	12.613	8.441	2	
+Tsagem	Mani	Katsina	12.949	7.828	2	
+Tsar Tsanaka	Bindawa	Katsina	12.763	7.997	2	
+Tsagero	Rimi	Katsina	12.914	7.731	2	
+Tsuntsuwa	Batagarawa	Katsina	12.930	7.689	2	
+Tsini	Bindawa	Katsina	12.638	7.947	2	
+Tsitse	Gada	Sokoto	13.515	5.723	2	
+Tsamiya	Kware	Sokoto	13.269	5.174	2	
+Tsofori-Bussa	Ngaski	Kebbi	10.171	4.543	2	
+Tsamer	Kankara	Katsina	11.997	7.451	2	
+Tsamiyan Giya	Malumfashi	Katsina	11.835	7.641	2	
+Tsamiya	Gwarzo	Kano	11.797	7.868	2	
+Tsaunin	Malumfashi	Katsina	11.772	7.640	2	
+Tsalibi	Faskari	Katsina	11.656	7.057	2	
+Tsaunin Makwarwa	Dandume	Katsina	11.486	7.252	2	
+Ungwan Mallam Tsofo	Dandume	Katsina	11.440	7.204	2	
+Ungwan Mai Tsamiya	Funtua	Katsina	11.473	7.242	2	
+Tsaunin Kisini Hill	Danja	Katsina	11.356	7.649	2	
+Tsauni Mayo	Giwa	Kaduna	11.199	7.309	2	
+Tsofon Rafi	Giwa	Kaduna	11.039	7.238	2	
+Tsafi	Fakai	Kebbi	11.388	4.906	2	
+Tsaunin Kura	Chikun	Kaduna	10.446	7.438	2	
+Tsekiri Camp	Ethiope West	Delta	5.988	5.776	2	
+Tsuru	Tsafe	Zamfara	11.836	6.842	2	
+Tsauni	Wasagu-Danko	Kebbi	11.208	6.013	2	
+Ife Central	Ife Central	Osun	7.474	4.559	2	Agbegbe Ijoba Ibile Gbongan Ife|Ife ta Tsakiya
+Tsafe	Tsafe	Zamfara	11.883	6.895	2	Tsafe Local Government Area
+Ibarapa Central	Ibarapa Central	Oyo	7.437	3.268	2	Gbongan Ibarapa|Ibarapa Central Local Government Area|Ibarapa ta Tsakiya
+Esan Central	Esan Central	Edo	6.710	6.193	2	Esan Central Local Government Area|Esan ta Tsakiya
+Etsako Central	Etsako Central	Edo	6.972	6.512	2	Estako-Central|Etsako Central Local Government Area|Etsako ta Tsakiya
+Tsilda	Madagali	Adamawa	10.840	13.451	2	
+Tselkoji	Askira-Uba	Borno	10.498	13.200	2	
+Tsamia Hutu	Fika	Yobe	11.327	11.040	2	
+Tsekaa	Gwer East	Benue	7.327	8.341	2	
+Tsenor	Gwer East	Benue	7.323	8.454	2	
+Tseankor	Gwer East	Benue	7.310	8.331	2	
+Tsendie	Gwer East	Benue	7.273	8.344	2	
+Tseagboshi	Gwer East	Benue	7.289	8.317	2	
+Tsesaki	Gwer East	Benue	7.238	8.398	2	
+Tsehmba	Konshisha	Benue	7.136	8.498	2	
+Tseasanyi	Gwer East	Benue	7.171	8.277	2	
+Tseusue	Gwer East	Benue	7.156	8.278	2	
+Tseawarga	Oturkpo	Benue	7.157	8.268	2	
+Tsegbe	Oturkpo	Benue	7.148	8.269	2	
+Tseabelaja	Oturkpo	Benue	7.135	8.256	2	
+Tseabie	Oturkpo	Benue	7.136	8.236	2	
+Tsetabo	Oturkpo	Benue	7.148	8.220	2	
+Harbo Tsohuwa	Jahun	Jigawa	12.163	9.531	2	
+Tsirma	Kiyawa	Jigawa	11.885	9.497	2	
+Tsamiya Babba	Gezawa	Kano	11.997	8.646	2	
+Rurum Tsohon Gari	Rano	Kano	11.451	8.451	2	
+Tsangamawa	Danja	Katsina	11.363	7.512	2	
+Tsa Magam	Kankia	Katsina	12.394	7.797	2	
+Tsauri A	Kurfi	Katsina	12.809	7.465	2	
+Tsaskiya	Safana	Katsina	12.504	7.345	2	
+Gumumunde-Rafin Tsaka	Arewa Dandi	Kebbi	12.328	3.724	2	
+Bani Tsamiya	Bagudo	Kebbi	11.294	3.657	2	
+Tsitse	Gada	Sokoto	13.551	5.747	2	
+Tsugum Tagali	Barde	Yobe	12.755	10.634	2	
+Tsafe Central	Tsafe	Zamfara	11.958	6.873	2	
+Makera-Take Tsaba	Talata Mafara	Zamfara	12.505	6.124	2	
+Tsakuwa	Katagum	Bauchi	11.686	10.212	2	
+Tse-Aondoka	Markurdi	Benue	7.756	8.385	2	
+Tse-Uperegh	Markurdi	Benue	7.751	8.382	2	
+Tsekuan	Gwer West	Benue	7.677	8.131	2	
+Tseamee	Apa	Benue	7.658	8.060	2	
+Tsengor	Gwer West	Benue	7.653	8.098	2	
+Tsensagi	Gwer West	Benue	7.651	8.100	2	
+Tseyeke	Gwer West	Benue	7.656	8.118	2	
+Tsebo	Gwer West	Benue	7.599	8.203	2	
+Tsechoram	Gwer West	Benue	7.587	8.149	2	
+Tsegban	Gwer West	Benue	7.552	8.141	2	
+Tseatu	Gwer West	Benue	7.702	8.320	2	
+Tshedam	Gwer West	Benue	7.739	8.352	2	
+Tseoho	Markurdi	Benue	7.740	8.375	2	
+Tsegugu	Markurdi	Benue	7.709	8.391	2	
+Tsenhange	Markurdi	Benue	7.736	8.472	2	
+Tsepeke	Markurdi	Benue	7.683	8.437	2	
+Tse-Akaza	Markurdi	Benue	7.645	8.483	2	
+Tsugh	Markurdi	Benue	7.628	8.487	2	
+Tse-Asinbe	Markurdi	Benue	7.637	8.458	2	
+Tse Ayira	Markurdi	Benue	7.648	8.460	2	
+Tsekpuu	Gwer East	Benue	7.631	8.401	2	
+Tseongo	Gwer East	Benue	7.633	8.370	2	
+Tsetyo	Gwer East	Benue	7.632	8.345	2	
+Tse-Ukuhumbe	Gwer West	Benue	7.643	8.340	2	
+Tseabelanyu	Gwer West	Benue	7.649	8.329	2	
+Tsengo	Gwer West	Benue	7.652	8.300	2	
+Tshengor	Gwer West	Benue	7.635	8.268	2	
+Tse-Akegba	Gwer West	Benue	7.604	8.313	2	
+Tsejimin	Gwer West	Benue	7.586	8.276	2	
+Tsedogh	Gwer West	Benue	7.576	8.284	2	
+Tselogh	Gwer East	Benue	7.627	8.356	2	
+Tsevende	Gwer East	Benue	7.590	8.406	2	
+Tseuhimbir	Gwer East	Benue	7.572	8.365	2	
+Tsekorawambe	Gwer East	Benue	7.566	8.464	2	
+Tse-Akombo	Gwer East	Benue	7.562	8.367	2	
+Tseukende	Gwer East	Benue	7.539	8.474	2	
+Tsemku	Logo	Benue	7.804	9.057	2	
+Tsetakor	Logo	Benue	7.790	9.046	2	
+Tsesanka	Logo	Benue	7.775	9.085	2	
+Tseanema	Logo	Benue	7.775	9.057	2	
+Tseem	Guma	Benue	7.768	9.013	2	
+Tseavure	Logo	Benue	7.819	9.117	2	
+Tsaulan	Logo	Benue	7.773	9.130	2	
+Tseisho	Logo	Benue	7.778	9.155	2	
+Tseakaadza	Logo	Benue	7.750	9.150	2	
+Tsegen	Logo	Benue	7.816	9.237	2	
+Tsehovo	Logo	Benue	7.793	9.206	2	
+Tsavnum	Logo	Benue	7.780	9.186	2	
+Tsehoon	Logo	Benue	7.765	9.191	2	
+Tsevii	Logo	Benue	7.772	9.244	2	
+Tsemheime	Logo	Benue	7.777	9.221	2	
+Tseaga	Wukari	Taraba	7.840	9.145	2	
+Tseugwe	Wukari	Taraba	7.833	9.147	2	
+Tsebaakwe	Wukari	Taraba	7.805	9.134	2	
+Tseatoga	Wukari	Taraba	7.810	9.149	2	
+Tsejongur	Wukari	Taraba	7.795	9.147	2	
+Tsebaki	Wukari	Taraba	7.858	9.194	2	
+Tseuper	Wukari	Taraba	7.856	9.241	2	
+Tsemelapa	Wukari	Taraba	7.846	9.185	2	Tsemelaba
+Tsukwa	Wukari	Taraba	7.845	9.202	2	
+Tseaban	Wukari	Taraba	7.825	9.186	2	
+Tsejombo	Wukari	Taraba	7.847	9.268	2	
+Tseiyorde	Wukari	Taraba	7.930	9.280	2	
+Tsegosu	Wukari	Taraba	7.894	9.369	2	
+Tsembe	Wukari	Taraba	7.838	9.292	2	
+Tsemuekeghel	Wukari	Taraba	7.835	9.309	2	
+Tseaguda	Logo	Benue	7.800	9.290	2	
+Tsekoughgba	Logo	Benue	7.791	9.310	2	
+Tsemho	Logo	Benue	7.762	9.274	2	
+Tsenue	Logo	Benue	7.774	9.290	2	
+Tsekandeo	Logo	Benue	7.756	9.280	2	
+Tseapa	Logo	Benue	7.769	9.293	2	
+Tseandzum	Logo	Benue	7.772	9.330	2	
+Tsegaagum	Logo	Benue	7.756	9.338	2	
+Tseakom	Logo	Benue	7.755	9.348	2	
+Tsevar	Wukari	Taraba	7.974	9.393	2	
+Tseavaan	Wukari	Taraba	7.965	9.416	2	
+Tseterior	Wukari	Taraba	7.955	9.438	2	Tseteior
+Tsetarkucha	Wukari	Taraba	7.953	9.376	2	
+Tsekwaghner	Wukari	Taraba	7.951	9.390	2	
+Tsekokugh	Wukari	Taraba	7.957	9.407	2	
+Tsegbaren	Wukari	Taraba	7.952	9.427	2	
+Tsesharegh	Wukari	Taraba	7.943	9.412	2	
+Tsekon	Wukari	Taraba	7.936	9.410	2	
+Tsedii	Wukari	Taraba	7.935	9.438	2	
+Tseabuka	Wukari	Taraba	7.885	9.418	2	
+Tseatswande	Wukari	Taraba	7.878	9.408	2	
+Tsongun	Wukari	Taraba	7.879	9.431	2	
+Tseander	Wukari	Taraba	7.850	9.443	2	
+Tseikov	Ukum	Benue	7.841	9.425	2	
+Tseari	Ukum	Benue	7.833	9.422	2	
+Tseakoso	Ukum	Benue	7.832	9.439	2	
+Tsekur	Ukum	Benue	7.828	9.433	2	
+Tseibi	Ukum	Benue	7.824	9.449	2	
+Tsekasever	Ukum	Benue	7.823	9.449	2	Tsekazever
+Tsejuan	Ukum	Benue	7.814	9.412	2	
+Tsehwer	Ukum	Benue	7.817	9.388	2	
+Tsegum	Ukum	Benue	7.794	9.400	2	
+Tseoso	Ukum	Benue	7.793	9.433	2	
+Tsegira	Ukum	Benue	7.789	9.444	2	
+Tsegungun	Ukum	Benue	7.779	9.394	2	
+Tseayuave	Ukum	Benue	7.774	9.398	2	
+Tseabiem	Ukum	Benue	7.765	9.395	2	
+Tseagbe	Ukum	Benue	7.778	9.427	2	
+Tsechoko	Ukum	Benue	7.775	9.427	2	
+Tsekange	Ukum	Benue	7.780	9.447	2	
+Tseaii	Ukum	Benue	7.769	9.434	2	
+Tseabuu	Ukum	Benue	7.770	9.449	2	
+Tsegumgo	Wukari	Taraba	7.933	9.482	2	
+Tseajaver	Wukari	Taraba	7.924	9.478	2	
+Tseanshiva	Wukari	Taraba	7.850	9.463	2	
+Tseanshiva	Ukum	Benue	7.819	9.470	2	Tsewanshiva
+Tsegbayer	Ukum	Benue	7.811	9.463	2	
+Tseandera	Ukum	Benue	7.809	9.477	2	
+Tseabenga	Ukum	Benue	7.801	9.476	2	
+Tsegbev	Ukum	Benue	7.751	9.472	2	
+Tsebagi	Logo	Benue	7.737	9.069	2	
+Tsemngo	Guma	Benue	7.709	9.011	2	
+Tsemnda	Guma	Benue	7.724	9.005	2	Tsemndar
+Tsecagu	Guma	Benue	7.694	9.012	2	
+Tsekpur	Logo	Benue	7.677	9.079	2	
+Tsejande	Logo	Benue	7.658	9.065	2	
+Tsetyubee	Logo	Benue	7.650	9.061	2	
+Tseinumbur	Guma	Benue	7.647	9.039	2	
+Tsewande	Logo	Benue	7.644	9.079	2	
+Tseubur	Guma	Benue	7.647	9.019	2	
+Tseigbagbe	Guma	Benue	7.606	9.007	2	
+Tsealuga	Logo	Benue	7.636	9.081	2	
+Tseiyoryina	Logo	Benue	7.621	9.066	2	
+Tsembatsav	Logo	Benue	7.618	9.063	2	
+Tsebanka	Logo	Benue	7.609	9.064	2	
+Tsevonger	Buruku	Benue	7.571	9.022	2	
+Tsepough	Buruku	Benue	7.574	9.036	2	
+Tseukaa	Buruku	Benue	7.569	9.040	2	
+Tseusar	Buruku	Benue	7.586	9.071	2	
+Tsepevi	Buruku	Benue	7.580	9.084	2	
+Tsegbise	Buruku	Benue	7.577	9.051	2	
+Tsemue	Buruku	Benue	7.561	9.092	2	
+Tsekur	Buruku	Benue	7.551	9.085	2	
+Tsefave	Buruku	Benue	7.552	9.064	2	
+Tseyese	Buruku	Benue	7.543	9.064	2	
+Tseunum	Buruku	Benue	7.548	9.044	2	
+Tsekumbu	Buruku	Benue	7.535	9.064	2	
+Tsetyo	Buruku	Benue	7.533	9.080	2	
+Tsuwa	Buruku	Benue	7.511	9.042	2	
+Tseachor	Buruku	Benue	7.511	9.033	2	
+Tsebo	Buruku	Benue	7.504	9.024	2	
+Tseadoo	Logo	Benue	7.740	9.168	2	
+Tseayu	Logo	Benue	7.736	9.176	2	
+Tseichen	Logo	Benue	7.737	9.159	2	
+Tsebaba	Logo	Benue	7.725	9.178	2	
+Tsenyamkume	Logo	Benue	7.691	9.162	2	
+Tseanakar	Logo	Benue	7.686	9.172	2	
+Tseahusu	Logo	Benue	7.662	9.100	2	
+Tseakume	Logo	Benue	7.655	9.103	2	
+Tseishan	Logo	Benue	7.661	9.152	2	
+Tsegberegule	Logo	Benue	7.639	9.093	2	
+Tseatsa	Logo	Benue	7.632	9.145	2	
+Tseaivava	Logo	Benue	7.630	9.113	2	
+Tsebako	Logo	Benue	7.616	9.108	2	
+Tseutem	Logo	Benue	7.614	9.155	2	
+Tseyag	Buruku	Benue	7.580	9.097	2	
+Tseiyorkpe	Buruku	Benue	7.581	9.102	2	
+Tseadagba	Logo	Benue	7.592	9.132	2	
+Tsegbaki	Logo	Benue	7.585	9.145	2	
+Tseangurum	Buruku	Benue	7.521	9.111	2	
+Tsenambe	Buruku	Benue	7.525	9.127	2	
+Tsekumbur	Logo	Benue	7.748	9.198	2	
+Tseakaadza	Logo	Benue	7.745	9.193	2	
+Tseiche	Logo	Benue	7.723	9.186	2	
+Tseswende	Logo	Benue	7.713	9.234	2	
+Tsegbande	Logo	Benue	7.711	9.199	2	
+Tsejun	Logo	Benue	7.705	9.214	2	
+Tse	Logo	Benue	7.696	9.220	2	
+Tsekandenyo	Logo	Benue	7.694	9.211	2	
+Tsegbande	Logo	Benue	7.693	9.195	2	
+Tsavhee Nyamko	Logo	Benue	7.670	9.217	2	
+Tsekwen	Logo	Benue	7.735	9.257	2	
+Tseiyanka	Logo	Benue	7.611	9.265	2	
+Tsedzege	Logo	Benue	7.710	9.300	2	
+Tsemhambe	Logo	Benue	7.656	9.353	2	
+Tsar	Logo	Benue	7.559	9.362	2	
+Tsepaegh	Logo	Benue	7.563	9.313	2	
+Tsehzege	Logo	Benue	7.550	9.316	2	
+Tseakobo	Ukum	Benue	7.722	9.452	2	
+Tsetiin	Ukum	Benue	7.696	9.438	2	
+Tsekumun	Ukum	Benue	7.692	9.385	2	
+Tsekyoho	Ukum	Benue	7.688	9.418	2	
+Tseusaa	Ukum	Benue	7.687	9.442	2	
+Tsaunum	Ukum	Benue	7.659	9.448	2	
+Tseugbungu	Ukum	Benue	7.643	9.446	2	
+Tsebaka	Ukum	Benue	7.641	9.437	2	
+Tsegbilekaa	Ukum	Benue	7.623	9.424	2	
+Tseakaa	Ukum	Benue	7.613	9.414	2	
+Tsetum	Logo	Benue	7.584	9.390	2	
+Tseama	Ukum	Benue	7.592	9.454	2	
+Tsekugh	Logo	Benue	7.567	9.388	2	
+Tsechia	Logo	Benue	7.555	9.444	2	
+Tsenija	Logo	Benue	7.543	9.382	2	
+Tseki	Logo	Benue	7.534	9.378	2	Tsekii
+Tseadeke	Ukum	Benue	7.730	9.497	2	
+Tsembateav	Ukum	Benue	7.705	9.468	2	
+Tsewende	Ukum	Benue	7.681	9.482	2	
+Tseasom	Ukum	Benue	7.672	9.479	2	
+Tseasom	Ukum	Benue	7.655	9.491	2	
+Tsehe	Ukum	Benue	7.653	9.500	2	
+Tsegor	Ukum	Benue	7.648	9.490	2	
+Tseagboo	Ukum	Benue	7.644	9.484	2	
+Tsenom	Ukum	Benue	7.636	9.472	2	
+Tseatetan	Ukum	Benue	7.630	9.458	2	
+Tsevange	Ukum	Benue	7.623	9.460	2	
+Tse-Iba	Ukum	Benue	7.623	9.463	2	
+Tseatumaga	Ukum	Benue	7.594	9.479	2	
+Tseankon	Ukum	Benue	7.548	9.487	2	
+Tseamenger	Wukari	Taraba	7.969	9.545	2	
+Tsemuekuna	Wukari	Taraba	7.931	9.521	2	
+Tsekur	Wukari	Taraba	7.918	9.536	2	
+Tsemye	Wukari	Taraba	7.909	9.532	2	
+Tseategha	Wukari	Taraba	7.903	9.529	2	
+Tseugber	Wukari	Taraba	7.961	9.560	2	
+Tse Achugu	Wukari	Taraba	7.982	9.624	2	
+Tseayado	Wukari	Taraba	7.869	9.551	2	
+Tseakanya	Wukari	Taraba	7.874	9.611	2	
+Tsegbum	Wukari	Taraba	7.843	9.572	2	
+Tseajav	Wukari	Taraba	7.831	9.712	2	
+Tsegboyoko	Wukari	Taraba	7.823	9.700	2	Tsegbyoko
+Tsegugu	Wukari	Taraba	7.797	9.662	2	
+Tsekiighir	Wukari	Taraba	7.792	9.696	2	
+Tseabenga	Wukari	Taraba	7.776	9.682	2	
+Tseba	Wukari	Taraba	7.946	9.752	2	
+Tsekor	Wukari	Taraba	7.846	9.730	2	
+Tseagwa	Ukum	Benue	7.830	9.538	2	
+Tsemoru	Ukum	Benue	7.822	9.538	2	
+Tsealaba	Ukum	Benue	7.807	9.558	2	
+Tsekule	Ukum	Benue	7.791	9.561	2	
+Tseashwe	Ukum	Benue	7.782	9.554	2	
+Tsechwada	Ukum	Benue	7.785	9.569	2	
+Tseandura	Ukum	Benue	7.792	9.584	2	
+Tseabenga	Ukum	Benue	7.786	9.596	2	Tsegbande
+Tsekwaghtyo	Ukum	Benue	7.772	9.568	2	
+Tseadule	Ukum	Benue	7.750	9.585	2	
+Tseiywev	Wukari	Taraba	8.000	9.787	2	
+Tseabuul	Wukari	Taraba	7.983	9.810	2	
+Tse Kanyon	Wukari	Taraba	7.968	9.785	2	
+Tse Saka	Wukari	Taraba	7.794	9.772	2	
+Tsohina	Wukari	Taraba	7.931	9.861	2	
+Tsehambar	Wukari	Taraba	7.791	9.890	2	Tsehamber
+Tse-Gaza	Wukari	Taraba	7.973	9.944	2	
+Tse Jugu	Wukari	Taraba	7.966	9.989	2	
+Tsezege	Wukari	Taraba	7.866	9.955	2	
+Tse Antswan	Wukari	Taraba	7.800	9.966	2	
+Tsegbuo	Wukari	Taraba	7.790	9.936	2	
+Tseahikyegh	Wukari	Taraba	7.766	9.970	2	
+Tseugye	Wukari	Taraba	7.733	9.707	2	
+Tseguda	Wukari	Taraba	7.738	9.720	2	
+Tseagase	Wukari	Taraba	7.717	9.747	2	
+Tseugye	Wukari	Taraba	7.719	9.729	2	
+Tsebede	Wukari	Taraba	7.684	9.730	2	
+Tse Gyuba	Ukum	Benue	7.751	9.530	2	
+Tse Akanga	Ukum	Benue	7.736	9.513	2	
+Tse Tsar	Ukum	Benue	7.725	9.537	2	
+Tse Ajanta	Ukum	Benue	7.675	9.545	2	
+Tse Laji	Ukum	Benue	7.677	9.549	2	
+Tse	Ukum	Benue	7.668	9.530	2	
+Tse Ashiker	Ukum	Benue	7.665	9.518	2	
+Tserisa	Ukum	Benue	7.628	9.503	2	
+Tsebator	Ukum	Benue	7.636	9.532	2	
+Tseortswan	Ukum	Benue	7.606	9.511	2	
+Tseuli	Ukum	Benue	7.603	9.517	2	
+Tseyese	Ukum	Benue	7.596	9.521	2	
+Tsemande	Ukum	Benue	7.592	9.537	2	
+Tse Kough	Ukum	Benue	7.519	9.519	2	
+Tsechir	Ukum	Benue	7.726	9.607	2	
+Tsehur	Ukum	Benue	7.715	9.604	2	
+Tseantyo	Ukum	Benue	7.724	9.600	2	
+Tse Nigikurga	Ukum	Benue	7.721	9.551	2	
+Tseadule	Ukum	Benue	7.704	9.581	2	
+Tsekorpenda	Ukum	Benue	7.712	9.593	2	
+Tsechebe	Ukum	Benue	7.692	9.613	2	
+Tse Adashil	Ukum	Benue	7.685	9.566	2	
+Tseazege	Ukum	Benue	7.628	9.565	2	Igoanyan
+Tse Kachina	Ukum	Benue	7.604	9.558	2	
+Tsebaja	Ukum	Benue	7.646	9.630	2	
+Tsetim	Ukum	Benue	7.639	9.607	2	
+Tsuwanko	Ukum	Benue	7.577	9.592	2	
+Tsejaki	Ukum	Benue	7.739	9.652	2	
+Tse	Ukum	Benue	7.738	9.663	2	
+Tsetabar	Ukum	Benue	7.704	9.684	2	
+Tsekur	Ukum	Benue	7.695	9.668	2	
+Tsemarkaa	Ukum	Benue	7.688	9.676	2	
+Tse Akosu	Ukum	Benue	7.669	9.717	2	
+Tseashi	Ukum	Benue	7.671	9.687	2	
+Tseyiawua	Ukum	Benue	7.668	9.665	2	
+Tsegater	Ukum	Benue	7.647	9.650	2	
+Tsetarhoo	Ukum	Benue	7.656	9.681	2	
+Tsewende	Ukum	Benue	7.663	9.681	2	
+Tseaganyi	Ukum	Benue	7.635	9.717	2	
+Tseuwar	Ukum	Benue	7.596	9.688	2	
+Tsebunde	Ukum	Benue	7.599	9.688	2	
+Tse	Ukum	Benue	7.589	9.640	2	
+Tseamatimin	Ukum	Benue	7.595	9.665	2	
+Tseaondo	Ukum	Benue	7.596	9.706	2	
+Tsemodi	Ukum	Benue	7.567	9.727	2	
+Tseanzenke	Ukum	Benue	7.564	9.725	2	
+Tseadure	Ukum	Benue	7.559	9.717	2	
+Tsegbata	Ukum	Benue	7.559	9.712	2	
+Tsenenger	Ukum	Benue	7.560	9.686	2	
+Tsegbe	Ukum	Benue	7.545	9.710	2	
+Tsehirnor	Ukum	Benue	7.542	9.725	2	
+Tsemba	Ukum	Benue	7.507	9.716	2	
+Tsuakwase	Ukum	Benue	7.640	9.747	2	
+Tsemon	Ukum	Benue	7.599	9.743	2	
+Tsekwadam	Ukum	Benue	7.584	9.734	2	
+Tseakaa	Ukum	Benue	7.561	9.734	2	
+Tseboli	Ukum	Benue	7.539	9.741	2	
+Tsorugh	Ukum	Benue	7.630	9.765	2	
+Tseavihi	Ukum	Benue	7.613	9.765	2	
+Tseamugh	Ukum	Benue	7.585	9.758	2	
+Tsecaabe	Katsina-Ala	Benue	7.566	9.812	2	Tsechabe
+Tsetorkwaor	Katsina-Ala	Benue	7.562	9.791	2	
+Tsor	Katsina-Ala	Benue	7.516	9.757	2	
+Tseali	Katsina-Ala	Benue	7.550	9.857	2	
+Tseada	Katsina-Ala	Benue	7.514	9.842	2	
+Tsegwe	Katsina-Ala	Benue	7.501	9.853	2	
+Tsependa	Katsina-Ala	Benue	7.507	9.851	2	
+Tsegboko	Wukari	Taraba	7.708	9.797	2	
+Tsetyoadndo	Wukari	Taraba	7.699	9.790	2	
+Tseandzamber	Wukari	Taraba	7.694	9.765	2	
+Tsedajo	Wukari	Taraba	7.683	9.793	2	
+Tsejinawa	Wukari	Taraba	7.676	9.799	2	
+Tseayiaga	Wukari	Taraba	7.660	9.809	2	
+Tsenyian	Wukari	Taraba	7.643	9.795	2	
+Tsewankar	Wukari	Taraba	7.625	9.801	2	
+Tsewantsar	Wukari	Taraba	7.626	9.805	2	
+Tseahan	Donga	Taraba	7.621	9.822	2	
+Tswakera	Wukari	Taraba	7.745	9.841	2	
+Tsekyave	Wukari	Taraba	7.697	9.835	2	
+Tsechihiga	Wukari	Taraba	7.656	9.839	2	
+Tseagbaa	Donga	Taraba	7.652	9.849	2	
+Tseisa	Donga	Taraba	7.635	9.845	2	
+Tsegodi	Donga	Taraba	7.628	9.869	2	
+Tsemakdar	Donga	Taraba	7.613	9.915	2	
+Tseashiekaa	Donga	Taraba	7.611	9.912	2	
+Tsemaku	Takum	Taraba	7.588	9.909	2	
+Tseafogba	Wukari	Taraba	7.745	9.954	2	
+Tsekunkun	Donga	Taraba	7.740	9.967	2	
+Tseureve	Donga	Taraba	7.727	9.949	2	
+Tseamugh	Donga	Taraba	7.706	9.939	2	
+Tseakwe	Donga	Taraba	7.686	9.966	2	
+Tseuzor	Donga	Taraba	7.680	9.985	2	
+Tsetar	Donga	Taraba	7.660	9.958	2	
+Tseagbenyiam	Donga	Taraba	7.631	9.935	2	
+Tseshimaka	Donga	Taraba	7.618	9.935	2	
+Torzan	Donga	Taraba	7.629	9.963	2	Tsegbomgom
+Tsengeigh	Donga	Taraba	7.625	9.979	2	
+Tsebunde	Donga	Taraba	7.623	9.997	2	
+Tseoyegh	Donga	Taraba	7.614	9.976	2	
+Tsemaaka	Donga	Taraba	7.607	9.957	2	
+Tsemaka	Takum	Taraba	7.599	9.927	2	
+Tsenyam	Takum	Taraba	7.584	9.923	2	
+Tseanee	Takum	Taraba	7.555	9.924	2	
+Tseatan	Takum	Taraba	7.552	9.931	2	
+Tseagbe	Takum	Taraba	7.509	9.971	2	
+Tsiagha	Takum	Taraba	7.505	9.960	2	
+Tsedyo	Buruku	Benue	7.486	9.063	2	
+Tsebokpa	Gboko	Benue	7.470	9.031	2	
+Tse-Kpulkpul	Gboko	Benue	7.413	9.002	2	
+Tseagu	Gboko	Benue	7.394	9.003	2	
+Tsuwa	Gboko	Benue	7.409	9.091	2	
+Tsechila	Gboko	Benue	7.334	9.091	2	
+Tsaunum	Gboko	Benue	7.342	9.046	2	
+Tsengegha	Gboko	Benue	7.257	9.063	2	
+Tseatoo	Buruku	Benue	7.471	9.166	2	
+Tsavnum	Buruku	Benue	7.445	9.166	2	
+Tsautu	Buruku	Benue	7.432	9.158	2	
+Tsuwo	Buruku	Benue	7.422	9.168	2	
+Akoho	Buruku	Benue	7.380	9.131	2	Tseyongu
+Tsekela	Buruku	Benue	7.329	9.169	2	
+Tsejiki	Gboko	Benue	7.311	9.119	2	
+Tseanonga	Gboko	Benue	7.318	9.113	2	Tseanongo
+Tseikumbul	Gboko	Benue	7.323	9.136	2	
+Tsewua	Gboko	Benue	7.322	9.146	2	
+Tseadogo	Buruku	Benue	7.306	9.157	2	
+Tsemkovur	Buruku	Benue	7.309	9.143	2	
+Tserigbo	Buruku	Benue	7.294	9.142	2	
+Tsavnande	Gboko	Benue	7.284	9.104	2	
+Tsevende	Buruku	Benue	7.254	9.130	2	
+Tseakura	Logo	Benue	7.498	9.219	2	
+Tsembambe	Buruku	Benue	7.480	9.245	2	
+Tsenga	Buruku	Benue	7.397	9.188	2	
+Tsejior	Buruku	Benue	7.335	9.188	2	
+Tseorogba	Buruku	Benue	7.309	9.249	2	
+Tseaan	Buruku	Benue	7.299	9.248	2	
+Tsendier	Buruku	Benue	7.288	9.247	2	
+Tseage	Buruku	Benue	7.264	9.231	2	
+Tsechia	Buruku	Benue	7.356	9.256	2	
+Tsemalo	Buruku	Benue	7.319	9.265	2	
+Tsemtir	Buruku	Benue	7.263	9.264	2	
+Tsenge	Logo	Benue	7.501	9.327	2	
+Tsekoughul	Logo	Benue	7.477	9.307	2	
+Tseazunda	Katsina-Ala	Benue	7.444	9.346	2	
+Tseato	Katsina-Ala	Benue	7.401	9.323	2	
+Tsesuwa	Katsina-Ala	Benue	7.353	9.316	2	
+Tsafa	Katsina-Ala	Benue	7.286	9.301	2	
+Tseyuma	Buruku	Benue	7.265	9.275	2	Tseyuwa
+Tsegesa	Logo	Benue	7.496	9.377	2	
+Tsavwua	Katsina-Ala	Benue	7.492	9.412	2	
+Tsejii	Katsina-Ala	Benue	7.487	9.451	2	
+Tsenev	Katsina-Ala	Benue	7.485	9.432	2	
+Tsetwar	Katsina-Ala	Benue	7.457	9.451	2	
+Tsetetor	Katsina-Ala	Benue	7.420	9.442	2	
+Tsenokura	Katsina-Ala	Benue	7.411	9.379	2	
+Tsegba	Katsina-Ala	Benue	7.388	9.435	2	
+Tseabua	Katsina-Ala	Benue	7.396	9.454	2	
+Tseagudu	Katsina-Ala	Benue	7.377	9.447	2	
+Tsehe	Katsina-Ala	Benue	7.340	9.415	2	
+Tseahungwa	Katsina-Ala	Benue	7.301	9.429	2	
+Tseibya	Katsina-Ala	Benue	7.263	9.399	2	
+Tseikura	Katsina-Ala	Benue	7.258	9.400	2	
+Tseikyekegh	Katsina-Ala	Benue	7.275	9.420	2	
+Tsatse	Katsina-Ala	Benue	7.464	9.498	2	
+Tseajia	Katsina-Ala	Benue	7.457	9.470	2	
+Tse Animbe	Katsina-Ala	Benue	7.451	9.497	2	
+Tse Changa	Katsina-Ala	Benue	7.443	9.497	2	
+Tse Kajo	Katsina-Ala	Benue	7.437	9.499	2	
+Tse Kosho	Katsina-Ala	Benue	7.428	9.496	2	
+Tsesafa	Katsina-Ala	Benue	7.416	9.484	2	
+Tsegbajime	Katsina-Ala	Benue	7.408	9.462	2	
+Tsehindi	Katsina-Ala	Benue	7.368	9.493	2	
+Tseagudu	Katsina-Ala	Benue	7.361	9.459	2	
+Tsebogba	Katsina-Ala	Benue	7.314	9.490	2	
+Tsesena	Ushongo	Benue	7.226	9.011	2	
+Tsesev	Ushongo	Benue	7.217	9.010	2	
+Tseyuha	Buruku	Benue	7.215	9.085	2	
+Tsetaser	Ushongo	Benue	7.186	9.014	2	
+Tsau	Buruku	Benue	7.172	9.047	2	
+Tsechoor	Buruku	Benue	7.185	9.052	2	
+Tsehemba	Buruku	Benue	7.177	9.083	2	
+Tseuva	Buruku	Benue	7.167	9.089	2	
+Tsealeva	Buruku	Benue	7.152	9.072	2	
+Tsekiiski	Buruku	Benue	7.166	9.069	2	
+Tsegyusa	Buruku	Benue	7.160	9.063	2	
+Tseakper	Ushongo	Benue	7.162	9.047	2	
+Tsubu	Ushongo	Benue	7.149	9.046	2	
+Tsekave	Buruku	Benue	7.154	9.092	2	
+Tsendyer	Ushongo	Benue	7.127	9.079	2	
+Tseyazer	Ushongo	Benue	7.117	9.088	2	
+Tseato	Ushongo	Benue	7.114	9.093	2	
+Tseamo	Ushongo	Benue	7.070	9.088	2	
+Tseende	Ushongo	Benue	7.059	9.091	2	
+Tseangi	Ushongo	Benue	7.056	9.073	2	
+Tseanyongo	Ushongo	Benue	7.078	9.041	2	
+Tsee	Ushongo	Benue	7.068	9.029	2	
+Tseabende	Ushongo	Benue	7.046	9.040	2	
+Tsegyuu	Ushongo	Benue	7.043	9.056	2	
+Tsekange	Ushongo	Benue	7.053	9.081	2	
+Tseagur	Vandeikya	Benue	7.026	9.067	2	
+Tsebelagu	Ushongo	Benue	7.040	9.075	2	
+Tseagbonor	Buruku	Benue	7.231	9.105	2	
+Tsegyor	Buruku	Benue	7.213	9.179	2	
+Tsekuku	Buruku	Benue	7.216	9.143	2	
+Tsepav	Buruku	Benue	7.207	9.160	2	
+Tseibu	Buruku	Benue	7.189	9.159	2	
+Tsedeban	Buruku	Benue	7.177	9.170	2	
+Tse	Buruku	Benue	7.176	9.161	2	
+Tseancheen	Buruku	Benue	7.179	9.154	2	
+Tsegbagir	Buruku	Benue	7.169	9.171	2	
+Tsedoki	Buruku	Benue	7.159	9.178	2	
+Tseabushin	Buruku	Benue	7.158	9.159	2	
+Tsebiam	Buruku	Benue	7.156	9.161	2	
+Tsebako	Buruku	Benue	7.156	9.148	2	
+Tseng	Buruku	Benue	7.144	9.112	2	Tsengough
+Tseabiem	Buruku	Benue	7.138	9.126	2	
+Tseakuve	Buruku	Benue	7.136	9.128	2	
+Tseangor	Buruku	Benue	7.131	9.155	2	
+Tsokaa	Ushongo	Benue	7.084	9.114	2	
+Tseaindir	Ushongo	Benue	7.077	9.108	2	
+Tseabuta	Ushongo	Benue	7.080	9.124	2	
+Tseakpeo	Ushongo	Benue	7.069	9.141	2	
+Tseageigo	Ushongo	Benue	7.058	9.140	2	
+Tsetime	Ushongo	Benue	7.077	9.165	2	
+Tse	Ushongo	Benue	7.068	9.160	2	
+Tseange	Ushongo	Benue	7.062	9.154	2	
+Tsumba	Ushongo	Benue	7.057	9.155	2	
+Tsesuswam	Ushongo	Benue	7.056	9.137	2	
+Tsekaashima	Ushongo	Benue	7.039	9.170	2	
+Tseugar	Ushongo	Benue	7.039	9.095	2	
+Tsenyamyol	Ushongo	Benue	7.035	9.102	2	
+Tseakooshi	Vandeikya	Benue	7.003	9.110	2	
+Tseasaka	Ushongo	Benue	7.036	9.145	2	
+Tsealumuku	Ushongo	Benue	7.036	9.140	2	
+Tseshigbe	Ushongo	Benue	7.028	9.136	2	Tseshighe
+Tseabua	Vandeikya	Benue	7.008	9.161	2	
+Tsegbinde	Vandeikya	Benue	7.005	9.162	2	
+Tsegbor	Ushongo	Benue	7.011	9.175	2	
+Tsegbinde	Ushongo	Benue	7.022	9.173	2	Tseginde
+Tseakpera	Buruku	Benue	7.245	9.212	2	
+Tseakaa	Buruku	Benue	7.239	9.219	2	
+Tsekpongo	Buruku	Benue	7.212	9.196	2	
+Tsenyiekula	Buruku	Benue	7.210	9.206	2	
+Tsemoze	Buruku	Benue	7.232	9.242	2	
+Tsealu	Buruku	Benue	7.219	9.214	2	
+Tsembautya	Buruku	Benue	7.216	9.217	2	
+Tsetyondo	Buruku	Benue	7.202	9.221	2	
+Tseaboo	Buruku	Benue	7.192	9.192	2	
+Tselunjo	Buruku	Benue	7.179	9.185	2	
+Tsuze	Buruku	Benue	7.177	9.230	2	
+Tseakaajime	Buruku	Benue	7.161	9.198	2	
+Tseekure	Buruku	Benue	7.147	9.186	2	
+Tseangir	Buruku	Benue	7.148	9.195	2	
+Tsetsuwe	Buruku	Benue	7.153	9.203	2	
+Tseayaka	Buruku	Benue	7.156	9.208	2	
+Tsebee	Ushongo	Benue	7.109	9.236	2	
+Tseigbanigo	Ushongo	Benue	7.056	9.247	2	
+Tseali	Ushongo	Benue	7.044	9.216	2	
+Tseali	Ushongo	Benue	7.047	9.226	2	
+Tsendzur	Ushongo	Benue	7.045	9.241	2	
+Tseagbam	Ushongo	Benue	7.007	9.226	2	
+Tsehom	Ushongo	Benue	7.122	9.256	2	
+Tse Garba	Ushongo	Benue	7.099	9.258	2	
+Tseanyam	Ushongo	Benue	7.061	9.266	2	
+Tsegbinde	Ushongo	Benue	7.057	9.259	2	
+Tsesokpo	Ushongo	Benue	7.008	9.259	2	
+Tseabo	Buruku	Benue	7.234	9.279	2	
+Tsenor	Katsina-Ala	Benue	7.224	9.338	2	
+Tsecihican	Katsina-Ala	Benue	7.213	9.349	2	
+Tsesende	Katsina-Ala	Benue	7.181	9.346	2	
+Tseavungu	Buruku	Benue	7.178	9.291	2	
+Tseagayande	Buruku	Benue	7.176	9.299	2	Tseagahyande
+Tsetsan	Ushongo	Benue	7.171	9.307	2	
+Tsearmi	Katsina-Ala	Benue	7.171	9.317	2	
+Tseadi	Ushongo	Benue	7.152	9.320	2	
+Tseinyon	Katsina-Ala	Benue	7.162	9.336	2	
+Tsebun	Ushongo	Benue	7.138	9.345	2	
+Tseugo	Ushongo	Benue	7.143	9.313	2	
+Tsejordi	Ushongo	Benue	7.131	9.326	2	
+Tsofo	Ushongo	Benue	7.056	9.282	2	
+Tseyannya	Ushongo	Benue	7.067	9.360	2	
+Tseuve	Ushongo	Benue	7.061	9.353	2	
+Tsewemde	Ushongo	Benue	7.049	9.348	2	Tsewende
+Tseunom	Ushongo	Benue	7.046	9.333	2	
+Tseugbam	Ushongo	Benue	7.027	9.288	2	
+Tsebashi	Ushongo	Benue	7.019	9.292	2	
+Tseeneke	Ushongo	Benue	7.032	9.335	2	
+Tseorhungul	Ushongo	Benue	7.038	9.344	2	
+Tsebeeve	Ushongo	Benue	7.018	9.336	2	
+Tseyaga	Kwande	Benue	7.009	9.354	2	
+Tseugbatser	Kwande	Benue	7.010	9.363	2	
+Tsekyuen	Katsina-Ala	Benue	7.241	9.375	2	
+Tsekyor	Katsina-Ala	Benue	7.237	9.379	2	
+Tsendele	Katsina-Ala	Benue	7.238	9.413	2	
+Tseukeji	Katsina-Ala	Benue	7.230	9.450	2	
+Anber Tseshagba	Katsina-Ala	Benue	7.234	9.371	2	
+Tsewa	Katsina-Ala	Benue	7.221	9.388	2	
+Tsekiman	Katsina-Ala	Benue	7.222	9.372	2	
+Tseingbor	Katsina-Ala	Benue	7.207	9.378	2	
+Tseawem	Katsina-Ala	Benue	7.216	9.412	2	
+Tseager	Katsina-Ala	Benue	7.217	9.455	2	
+Tsepagher	Katsina-Ala	Benue	7.193	9.384	2	
+Tsevegher	Katsina-Ala	Benue	7.185	9.395	2	
+Tsedisho	Katsina-Ala	Benue	7.184	9.421	2	
+Tsegboko	Katsina-Ala	Benue	7.174	9.446	2	
+Tsegba	Katsina-Ala	Benue	7.168	9.387	2	
+Tsenongo	Katsina-Ala	Benue	7.166	9.402	2	
+Tsetsafa	Katsina-Ala	Benue	7.169	9.430	2	
+Tsetorduem	Katsina-Ala	Benue	7.121	9.385	2	
+Tseaba	Katsina-Ala	Benue	7.125	9.403	2	
+Tseatiam	Ushongo	Benue	7.113	9.365	2	
+Tseioriyom	Ushongo	Benue	7.097	9.376	2	Tseiortyom
+Tseugwe	Katsina-Ala	Benue	7.121	9.432	2	
+Tseandura	Katsina-Ala	Benue	7.101	9.446	2	
+Tseatongo	Ushongo	Benue	7.084	9.406	2	
+Tseanyige	Kwande	Benue	7.077	9.438	2	
+Tseakaau	Kwande	Benue	7.057	9.426	2	
+Tsesule	Ushongo	Benue	7.051	9.370	2	
+Tseajon	Kwande	Benue	7.042	9.374	2	
+Tseajioko	Kwande	Benue	7.034	9.380	2	
+Tsegya	Kwande	Benue	7.038	9.448	2	
+Tsegbe	Katsina-Ala	Benue	7.230	9.470	2	
+Tseabete	Katsina-Ala	Benue	7.225	9.491	2	
+Tsejorgari	Katsina-Ala	Benue	7.199	9.484	2	
+Tsegabo	Katsina-Ala	Benue	7.189	9.494	2	
+Tsesokpo	Katsina-Ala	Benue	7.152	9.465	2	
+Tseiyough	Katsina-Ala	Benue	7.139	9.484	2	
+Tseajo	Katsina-Ala	Benue	7.124	9.495	2	
+Tsejam	Katsina-Ala	Benue	7.113	9.473	2	
+Tsehaa	Kwande	Benue	7.066	9.467	2	
+Tseachigbe	Kwande	Benue	7.059	9.462	2	
+Tsechima	Kwande	Benue	7.010	9.493	2	
+Tsejinagba	Kwande	Benue	7.009	9.459	2	
+Tsevende	Gboko	Benue	7.463	8.764	2	
+Tse-Taghel	Gboko	Benue	7.458	8.792	2	
+Tse-Aga	Gboko	Benue	7.459	8.803	2	
+Tse-Ashwa	Gboko	Benue	7.464	8.831	2	
+Tse-Akiishi	Gboko	Benue	7.473	8.892	2	
+Tse-Dankor	Gboko	Benue	7.470	8.901	2	
+Tse-Ikpa	Gboko	Benue	7.483	8.905	2	
+Tso	Gboko	Benue	7.489	8.908	2	Tsokaa
+Tse-Angel	Gboko	Benue	7.463	8.949	2	
+Tse-Kume	Gboko	Benue	7.481	8.996	2	
+Tsegba	Gboko	Benue	7.455	8.935	2	
+Tsua	Gboko	Benue	7.426	8.899	2	
+Tsegban	Gboko	Benue	7.423	8.894	2	
+Tse-Kyobo	Gboko	Benue	7.455	8.897	2	
+Tso	Gboko	Benue	7.434	8.803	2	
+Tswabo	Gboko	Benue	7.430	8.785	2	
+Tso-Kaa	Gboko	Benue	7.432	8.758	2	
+Tse-Akunka	Gboko	Benue	7.405	8.838	2	
+Tseneke	Gboko	Benue	7.395	8.952	2	
+Tse-Uantyor	Gboko	Benue	7.401	8.970	2	
+Tse-Gbanyinya	Gboko	Benue	7.408	8.996	2	
+Tse-Tyor	Gboko	Benue	7.371	8.990	2	
+Tsehe	Gboko	Benue	7.351	8.935	2	
+Tsegha	Gboko	Benue	7.347	8.899	2	
+Tse-Kokoywan	Gboko	Benue	7.367	8.855	2	
+Tse-Jugu	Gboko	Benue	7.369	8.800	2	
+Tse-Kyura	Gboko	Benue	7.325	8.808	2	
+Tseghal	Gboko	Benue	7.324	8.802	2	
+Tse-Mcho	Gboko	Benue	7.340	8.840	2	
+Tse-Agor	Gboko	Benue	7.317	8.869	2	
+Tse-Akugh	Gboko	Benue	7.310	8.865	2	
+Tse-Tyonongu	Gboko	Benue	7.335	8.896	2	
+Tse-Juul	Gboko	Benue	7.329	8.928	2	
+Tse-Nongu	Gboko	Benue	7.333	8.972	2	
+Tse-Iortim	Gboko	Benue	7.330	8.971	2	
+Tse-Kondo	Gboko	Benue	7.326	8.967	2	
+Tse-Jijingi	Ushongo	Benue	7.279	8.930	2	
+Tse-Anum	Gboko	Benue	7.297	8.917	2	
+Tsav	Gboko	Benue	7.276	8.878	2	
+Tse-Tiende	Gboko	Benue	7.293	8.867	2	
+Tse-Gye	Gboko	Benue	7.261	8.816	2	
+Tsua	Gboko	Benue	7.302	8.769	2	
+Tsakpazhi	Gbako	Niger	9.332	5.937	2	
+Tsadu	Gbako	Niger	9.335	5.996	2	
+Tsotsona	Gbako	Niger	9.332	5.966	2	
+Tsowonda	Gbako	Niger	9.322	5.962	2	
+Ndako Tswala	Gbako	Niger	9.230	5.924	2	
+Tsaduya	Gbako	Niger	9.244	5.972	2	
+Tswahoko	Gbako	Niger	9.245	5.988	2	
+Tsaudu	Gbako	Niger	9.239	5.996	2	
+Tsusidi	Gbako	Niger	9.197	5.991	2	
+Tsadza	Gbako	Niger	9.162	5.966	2	
+Tsanwuro	Lavun	Niger	9.124	5.794	2	
+Tswasha	Gbako	Niger	9.089	5.888	2	
+Tswanku	Gbako	Niger	9.070	5.925	2	
+Tswanku	Gbako	Niger	9.055	5.842	2	
+Tswayan	Mokwa	Niger	9.019	5.825	2	
+Tsafo	Lavun	Niger	9.150	5.563	2	
+Tswanku	Edati	Niger	9.101	5.670	2	
+Tsanmana	Edati	Niger	9.046	5.548	2	
+Tswatagi Dati	Edati	Niger	9.036	5.652	2	
+Tsakpata	Lavun	Niger	9.030	5.746	2	
+Dantigi Tsoaudu	Gbako	Niger	9.324	6.015	2	
+Tsadza	Gbako	Niger	9.341	6.067	2	
+Gbangba Tsofo	Gbako	Niger	9.318	6.090	2	
+Tswoi	Gbako	Niger	9.306	6.079	2	
+Tswanku Tifi	Gbako	Niger	9.272	6.012	2	
+Tswako	Katcha	Niger	9.095	6.218	2	
+Tswachi	Gbako	Niger	9.139	6.100	2	
+Egbanti Tsaduko	Katcha	Niger	9.035	6.135	2	
+Tsadu	Gbako	Niger	9.355	6.111	2	
+Tsaunin-Barai	Kagarko	Kaduna	9.429	7.540	2	
+Kwaro Tsofuwa	Kachia	Kaduna	9.647	7.579	2	
+Garin Yayani Na Tsohowa	Gassol	Taraba	8.534	10.724	2	
+Tsintsiya	Gassol	Taraba	8.693	10.832	2	
+Tsoro	Shendam	Plateau	8.833	9.520	2	
+Kurwat Tsoro	Shendam	Plateau	8.829	9.506	2	
+Tsamiya	Langtang North	Plateau	8.941	9.866	2	
+Tsauni	Jema'A	Kaduna	9.463	8.361	2	
+Tsofon Zagom	Zangon Kataf	Kaduna	9.746	8.235	2	
+Tsofon Kahom	Zangon Kataf	Kaduna	9.737	8.240	2	
+Tsesaa	Qua'An Pan	Plateau	8.654	9.014	2	
+Tsezege	Qua'An Pan	Plateau	8.587	9.002	2	
+Tsatoho	Qua'An Pan	Plateau	8.525	9.043	2	
+Tse	Shendam	Plateau	8.552	9.382	2	
+Tsakato	Demsa	Adamawa	9.463	12.090	2	
+Tsofo Bille	Demsa	Adamawa	9.242	11.815	2	
+Tsohon Danpente	Mayo-Belwa	Adamawa	9.059	11.842	2	
+Tsohonkupuru	Mayo-Belwa	Adamawa	9.094	11.807	2	
+Tsamiya	Karim Lamido	Taraba	9.364	10.747	2	
+Tsule	Keana	Nasarawa	8.166	8.546	2	
+Tswa	Guma	Benue	8.101	8.662	2	
+Tsegber	Lafia	Nasarawa	8.591	8.952	2	
+Tsorom	Lafia	Nasarawa	8.568	8.907	2	
+Tsakuwa	Lafia	Nasarawa	8.541	8.726	2	
+Tsakani	Karu	Nasarawa	8.681	7.857	2	
+Tseso	Sardauna	Taraba	6.796	11.342	2	
+Tse	Gboko	Benue	7.348	8.880	2	
+Tse	Gboko	Benue	7.290	8.945	2	
+Tsaduko	Katcha	Niger	9.116	6.314	2	
+Thaba Tseka Street	Municipal Area Council	FCT Abuja	9.076	7.484	1	
+Mao Tse Tung Street	Municipal Area Council	FCT Abuja	9.050	7.510	1	
+Damri - Bakura - Tsamiya Road	Bakura	Zamfara	12.701	5.858	1	
+Tsamiya Way	Tofa	Kano	12.062	8.275	1	
+Tsamaye street	Kumbotso	Kano	11.883	8.494	1	
+Ajio-Tse-Upev Road	Kwande	Benue	6.801	9.201	1	
+Abdullahi Tsafe Close	Kaduna North	Kaduna	10.518	7.446	1	
+Umar Abdullahi Tsauri Road	Kaduna North	Kaduna	10.579	7.469	1	
+Damri - Bakura - Tsamiya Road	Bakura	Zamfara	12.645	5.881	1	
+Tsohuwar Makabarta Street	Tarauni	Kano	11.957	8.537	1	
+Tsara Primary Health Centre	Rogo	Kano	11.451	7.728	0	
+Tsohuwar Rogo Health Post	Rogo	Kano	11.575	7.800	0	
+Tsaudawa Health Post	Kiru	Kano	11.681	8.203	0	
+Tsidau Health Post	Bichi	Kano	12.300	8.149	0	
+Tsofo	Barkin Ladi	Plateau	9.673	9.073	0	
+Tswachiko Clinic	Katcha	Niger	9.000	6.162	0	
+BHC Tsadza	Agaie	Niger	9.145	6.478	0	
+Isuhu Dan Tsoho Hospital Isuhu Dan Tsoho Hospital	Kaduna North	Kaduna	10.532	7.460	0	
+Koron Tsohuwa Primary Health Care	Kaduna South	Kaduna	10.467	7.439	0	
+Tsangayar Malan Bala	Gwale	Kano	11.959	8.471	0	
+TS Gate	Ovia North-East	Edo	6.723	5.383	0	
+Rafin Tsamiya Health Post	Tsanyawa	Kano	12.195	8.041	0	
+Tsattawa Health Post	Bagwai	Kano	12.129	8.138	0	
+Tsangaya Primary Health Centre	Albasu	Kano	11.619	9.215	0	
+Tsaure Primary Health Centre	Shanono	Kano	12.095	7.880	0	
+Tsalle Health Post	Gezawa	Kano	12.081	8.715	0	
+Tsakiya Health Post	Minjibir	Kano	12.138	8.552	0	
+Tsaure Health Post	Bichi	Kano	12.207	8.320	0	
+Tsohon Garin Lukshi Health Center	Dass	Bauchi	10.031	9.420	0	
+Tsaraka Health Post	Bichi	Kano	12.215	8.182	0	
+Tsanyawa Primary Health Centre	Tsanyawa	Kano	12.298	7.981	0	
+Tsumba Maternity	Shira	Bauchi	11.522	9.971	0	
+Model Primary Health Center Zagaya	Ningi	Bauchi	10.975	9.572	0	Model Primary Health Center Tsangaya
+Murba Tsamiya Dispensary	Fune	Yobe	11.748	11.588	0	
+Rijiyar Tsamiya Maternity and  Child Health Clinic	Sandamu	Katsina	12.880	8.273	0	

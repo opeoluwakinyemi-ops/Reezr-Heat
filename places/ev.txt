@@ -1,3 +1,4 @@
+Evbuotubu	Oredo	Edo	6.330	5.590	2	
 Evboneka	Ovia North-East	Edo	6.510	5.617	2	Evbonika
 Evbohighae	Orhionmwon	Edo	6.151	6.059	2	Ewohigha
 Ebonogbo	Orhionmwon	Edo	5.883	6.050	2	Ebonogbo;Evbonogbon
@@ -12,15 +13,46 @@ Evbolekphen	Ovia North-East	Edo	6.283	5.483	2	Evbolekpen
 Evbuohuan	Uhunmwonde	Edo	6.427	5.901	2	Evbouhuan
 Evwreni	Ughelli North	Delta	5.400	6.067	2	
 Evbuomoma	Ikpoba-Okha	Edo	6.233	5.667	2	
-EverJoy Gas Station	Alimosho	Lagos	6.537	3.260	0	
-Evangel Group of Schools	Gombe	Gombe	10.288	11.152	0	
-MDG Evungi	Edati	Niger	9.125	5.649	0	
-evangelical african church school, abule-oke ifo	Ifo	Ogun	6.752	3.211	0	
 Evwen	Isoko South	Delta	5.473	6.161	2	
-Ever Life Hospital	Ojo	Lagos	6.495	3.139	0	
 Evuazu	Ezeagu	Enugu	6.358	7.378	2	
-Evergreen Clinics & Maternity	Municipal Area Council	FCT Abuja	9.032	7.588	0	
-Tnt Events	Municipal Area Council	FCT Abuja	8.963	7.395	0	
+Evbobewen Two	Orhionmwon	Edo	6.142	6.061	2	Evbobewen II|Iduviga
+Evbomede One	Orhionmwon	Edo	6.236	6.091	2	Evbomede I|Ewotedo
+Evurode	Ughelli South	Delta	5.298	5.878	2	
+Evuntagi	Katcha	Niger	9.300	6.367	2	
+Evuntagi	Agaie	Niger	9.206	6.487	2	
+Evporo	Ovia North-East	Edo	6.312	5.505	2	
+Evien	Ovia North-East	Edo	6.432	5.449	2	
+Evegie	Egor	Edo	6.300	5.550	2	Evengie
+Evbuerebor	Ovia North-East	Edo	6.200	5.467	2	
+Evbuarhue	Orhionmwon	Edo	6.207	5.775	2	
+Evbuarhue	Orhionmwon	Edo	6.183	5.767	2	
+Evbozegbo	Uhunmwonde	Edo	6.333	5.950	2	
+Evbowe	Uhunmwonde	Edo	6.433	5.950	2	
+Evbosa	Ovia South-West	Edo	6.496	5.418	2	
+Evborohun	Oredo	Edo	6.217	5.533	2	
+Evboroho	Ovia North-East	Edo	6.167	5.406	2	
+Evbonogbo	Orhionmwon	Edo	5.888	6.049	2	Ebonogbo|Evbonogbon
+Evbolekpen	Ovia North-East	Edo	6.297	5.509	2	
+Evboikhuenbo	Uhunmwonde	Edo	6.450	5.733	2	
+Evbodobian	Orhionmwon	Edo	6.119	6.045	2	Eubodobian
+Evbodia	Egor	Edo	6.367	5.600	2	Evbogida
+Evbiyomwanru	Oredo	Edo	6.224	5.519	2	
+Evbokabua Two	Orhionmwon	Edo	6.114	6.078	2	Egunkabua|Evbokabua II
+Evhenevel	Abua/Odual	Rivers	4.775	6.604	2	
+Evwonogba Mosogar	Ethiope West	Delta	5.912	5.771	2	
+Evwriyen	Okpe	Delta	5.655	5.794	2	
+Ogute-Okpa	Owan East	Edo	6.955	6.014	2	Evbiamen|Eybiamen
+Evbomede Two	Orhionmwon	Edo	6.227	6.091	2	Evbomede II
+Evugi	Gbako	Niger	9.191	5.851	2	
+Evuntagi	Gbako	Niger	9.060	5.933	2	
+Evuntagi Shiru	Gbako	Niger	9.459	6.018	2	
+Evuniagi	Agaie	Niger	9.050	6.477	2	
+Evbobemwen One	Orhionmwon	Edo	6.130	6.062	2	Evbobemwen I
+Evbo-Okhuere	Esan West	Edo	6.562	6.075	2	
+Evo-Iyobhebhe	Esan North-East	Edo	6.747	6.273	2	
+Evbebe	Esan North-East	Edo	6.697	6.313	2	
+Evba-Ebe	Esan North-East	Edo	6.698	6.330	2	
+Evama	Warri South-West	Delta	5.586	5.322	2	
 Evo Road	Port-Harcourt	Rivers	4.820	7.001	1	
 Evbuagbogun Road	Ikpoba-Okha	Edo	6.263	5.663	1	
 Evborhan Street	Oredo	Edo	6.327	5.628	1	
@@ -31,8 +63,6 @@ Evbayiro Street	Egor	Edo	6.378	5.625	1
 Evbade Street	Oredo	Edo	6.320	5.596	1	
 Evbuomwan Street	Oredo	Edo	6.298	5.627	1	
 Evans Street	Lagos Island	Lagos	6.455	3.393	1	
-Evans Street	Lagos Island	Lagos	6.455	3.397	1	
-ADONAI EVANGEL SCHOOL	Egor	Edo	6.355	5.583	0	
 Evbuuadazee close	Egor	Edo	6.364	5.578	1	
 Evian Lane	Oredo	Edo	6.320	5.629	1	
 Evang. Wesbon Inneh Close	Oredo	Edo	6.300	5.592	1	
@@ -46,8 +76,16 @@ Evang. Samul Nurudeen Street	Eti Osa	Lagos	6.479	3.660	1
 Evelyn Ewerido Street	Uvwie	Delta	5.561	5.750	1	
 Osamede Evbuomwan Close	Eti Osa	Lagos	6.463	3.629	1	
 Evo Road	Port-Harcourt	Rivers	4.816	7.006	1	
-Evan Maternity	Katagum	Bauchi	11.675	10.183	0	Urban Maternity
 Evbuomwan Close	Ikpoba-Okha	Edo	6.297	5.630	1	
+Evergreen Street	Yenegoa	Bayelsa	4.867	6.208	1	
+EverJoy Gas Station	Alimosho	Lagos	6.537	3.260	0	
+Evangel Group of Schools	Gombe	Gombe	10.288	11.152	0	
+MDG Evungi	Edati	Niger	9.125	5.649	0	
+evangelical african church school, abule-oke ifo	Ifo	Ogun	6.752	3.211	0	
+Ever Life Hospital	Ojo	Lagos	6.495	3.139	0	
+Evergreen Clinics & Maternity	Municipal Area Council	FCT Abuja	9.032	7.588	0	
+Tnt Events	Municipal Area Council	FCT Abuja	8.963	7.395	0	
+Adonai Evangel School	Egor	Edo	6.355	5.583	0	
+Evan Maternity	Katagum	Bauchi	11.675	10.183	0	Urban Maternity
 Evangel Private School	Jos South	Plateau	9.853	8.864	0	
 Evonae School	Ojo	Lagos	6.477	3.145	0	
-Evergreen Street	Yenegoa	Bayelsa	4.867	6.208	1	

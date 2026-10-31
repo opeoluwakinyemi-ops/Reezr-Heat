@@ -2,15 +2,8 @@ Barakin Nafam Dregi	Barkin Ladi	Plateau	9.583	8.983	2
 Drumeiru	Koko-Besse	Kebbi	11.200	4.339	2	Dulmeru
 Drawlama	Shani	Borno	10.313	11.976	2	
 Drawalama Ishaku	Shani	Borno	10.317	11.975	2	
-Makoko Dream Primary School	Lagos Mainland	Lagos	6.495	3.388	0	
-Makoko Dream Nursery School	Lagos Mainland	Lagos	6.496	3.388	0	
-Dr Sodiq hospital Moniya Olosooko	Akinyele	Oyo	7.564	3.893	0	
-Dr. abubakar abdullahi Baba  jolly phonics resources room	Gombe	Gombe	10.307	11.167	0	
-Dr Gwamna Awan General Hospital	Kaduna South	Kaduna	10.465	7.402	0	
-DR.MORIKI ISLAMIC ACADEMY	Gwale	Kano	11.960	8.479	0	
-Dr. Bash Medical Care And Services	Bauchi	Bauchi	10.317	9.819	0	
-Drestone Studio	Municipal Area Council	FCT Abuja	8.964	7.392	0	
-Car Drop Tipper Garage Kuje	Municipal Area Council	FCT Abuja	8.879	7.240	0	
+Dulmeru	Koko-Besse	Kebbi	11.201	4.338	2	Drumeiru
+Barakin Nafam Dregi	Barkin Ladi	Plateau	9.578	8.989	2	
 Dr. Yahaya Hamza Street	Kaduna North	Kaduna	10.513	7.452	1	
 Dr Akin Ogunlewe Street	Eti Osa	Lagos	6.426	3.439	1	
 Dr. Nurudeen Olowopopo Drive	Ikeja	Lagos	6.619	3.364	1	
@@ -82,3 +75,12 @@ College Of Law Driveway	Ovia North-East	Edo	6.745	5.405	1
 Peacock Drlve	Enugu North	Enugu	6.462	7.510	1	
 Estate Dr Street	Eti Osa	Lagos	6.468	3.582	1	
 Dr. Doodei A. Week Road	Yenegoa	Bayelsa	4.873	6.218	1	
+Makoko Dream Primary School	Lagos Mainland	Lagos	6.495	3.388	0	
+Makoko Dream Nursery School	Lagos Mainland	Lagos	6.496	3.388	0	
+Dr Sodiq hospital Moniya Olosooko	Akinyele	Oyo	7.564	3.893	0	
+Dr. abubakar abdullahi Baba  jolly phonics resources room	Gombe	Gombe	10.307	11.167	0	
+Dr Gwamna Awan General Hospital	Kaduna South	Kaduna	10.465	7.402	0	
+Dr.Moriki Islamic Academy	Gwale	Kano	11.960	8.479	0	
+Dr. Bash Medical Care And Services	Bauchi	Bauchi	10.317	9.819	0	
+Drestone Studio	Municipal Area Council	FCT Abuja	8.964	7.392	0	
+Car Drop Tipper Garage Kuje	Municipal Area Council	FCT Abuja	8.879	7.240	0	

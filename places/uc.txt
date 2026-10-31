@@ -1,10 +1,29 @@
 Uchie	Ndokwa East	Delta	5.634	6.367	2	
 Gidan Sarikin Wuchanja	Rafi	Niger	10.383	6.083	2	Uchinda;Wuchinza
-Primary Oral Health Centre, Idikan (UCH Annex)	Ibadan North West	Oyo	7.383	3.891	0	
 Uchi	Ndokwa East	Delta	5.738	6.623	2	
-UC Primary School	Gwandu	Kebbi	12.500	4.646	0	
-Umeh Uche Martin and sons	Jos North	Plateau	9.927	8.912	0	
-University College Hospital (UCH)	Ibadan North	Oyo	7.401	3.898	0	
+Uchuwe	Konshisha	Benue	7.153	8.537	2	
+Uchu	Yala	Cross River	6.839	8.838	2	
+Uchir	Gboko	Benue	7.369	8.664	2	
+Uchir	Gboko	Benue	7.347	8.747	2	
+Uchichi	Mariga	Niger	10.517	5.900	2	
+Uchi	Ushongo	Benue	7.079	8.974	2	
+Ucheke	Gwer East	Benue	7.410	8.518	2	
+Ucha	Ushongo	Benue	7.168	8.978	2	
+Uchu	Gwer West	Benue	7.649	8.087	2	
+Ucheki	Gwer West	Benue	7.692	8.215	2	
+Ndi Uche	Edda	Ebonyi	5.860	7.804	2	
+Uchi Quarters	Ndokwa East	Delta	5.917	6.481	2	
+Ucha	Markurdi	Benue	7.726	8.486	2	
+Uchar	Logo	Benue	7.743	9.169	2	
+Uchia	Logo	Benue	7.625	9.138	2	
+Uchiligh	Ukum	Benue	7.629	9.535	2	
+Ucha	Buruku	Benue	7.221	9.248	2	
+Uchi Mbakor	Tarka	Benue	7.684	8.817	2	
+Uchil	Gboko	Benue	7.491	8.935	2	
+Uchi	Gboko	Benue	7.382	8.752	2	
+Uchil	Gboko	Benue	7.391	8.983	2	
+Uchin	Obi	Nasarawa	8.261	8.524	2	
+Ucheregh	Qua'An Pan	Plateau	8.588	8.999	2	
 Ozo Uche Aloh Street	Enugu North	Enugu	6.463	7.575	1	
 Uche Agbo Street	Enugu South	Enugu	6.394	7.498	1	
 Uche Okoro Street	Enugu East	Enugu	6.467	7.569	1	
@@ -15,6 +34,9 @@ Uchenna Ugwuokwor Street	Enugu East	Enugu	6.511	7.506	1
 Uche Ezikoha Close	Kosofe	Lagos	6.561	3.388	1	
 Collins Uchidiuno St	Eti Osa	Lagos	6.439	3.475	1	
 Dr Uche Nwosu Street	Municipal Area Council	FCT Abuja	8.997	7.471	1	
-Uchenna Ugwuokwor Street	Enugu East	Enugu	6.512	7.505	1	
+Primary Oral Health Centre, Idikan (UCH Annex)	Ibadan North West	Oyo	7.383	3.891	0	
+UC Primary School	Gwandu	Kebbi	12.500	4.646	0	
+Umeh Uche Martin and sons	Jos North	Plateau	9.927	8.912	0	
+University College Hospital (UCH)	Ibadan North	Oyo	7.401	3.898	0	
 Idikan Community Health Centre (UCH Annex)	Ibadan North West	Oyo	7.383	3.891	0	
 University of Calabar Teaching Hospital	Calabar Municipal	Cross River	4.952	8.348	0	UCTH

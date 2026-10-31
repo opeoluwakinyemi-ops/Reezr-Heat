@@ -1,3 +1,23 @@
+Ado	Karu	Nasarawa	9.012	7.633	3	
+Adazi Nnukwu	Anaocha	Anambra	6.107	7.027	3	
+Adankolo	Adavi	Kogi	7.803	6.696	3	
+Ado Ekiti	Adó-Èkìtì	Ekiti	7.623	5.223	3	
+Wal Adiya	Bebeji	Kano	11.668	8.262	3	
+Eika -Adagu	Adavi	Kogi	7.614	6.274	3	
+Eika-Adagu New Layout	Adavi	Kogi	7.611	6.241	3	
+Adani	Uzo-Uwani	Enugu	6.735	7.016	3	
+Adoka	Oturkpo	Benue	7.454	7.979	3	
+Adefisan	Odogbolu	Ogun	6.806	3.904	3	
+Sagbama	Sagbama	Bayelsa	5.159	6.197	3	Aduezi|Ndiama|Ndiemazi|Obuare
+Mai’Adua	Mai'Adua	Katsina	13.180	8.230	3	Mai'Adua|Maiadua|Maiaduwa
+Iresa-Adu	Surulere	Oyo	8.087	4.393	3	Iresa|Iresa-Du|Iresadu|Iressa
+Adogo	Ajaokuta	Kogi	7.510	6.480	3	
+Ado-Ekiti	Adó-Èkìtì	Ekiti	7.623	5.221	3	Ado|Ado-Ehkiti|EKK|ado-ekiti|adw akyty|adw-aykty|lidiyeti lisano
+Adikpo	Kwande	Benue	6.890	9.234	3	
+Ada George	Obio/Akpor	Rivers	4.833	6.976	2	
+Adatan	Abeokuta South	Ogun	7.150	3.350	2	
+Adewole	Ilorin West	Kwara	8.479	4.519	2	
+Adamasingba	Ibadan North West	Oyo	7.390	3.890	2	
 May Adoua Kadey	Tessaoua	Katsina	13.270	8.175	2	
 Adeyokun	Obafemi Owode	Ogun	6.978	3.522	2	Adeyokum
 Ago Aduloju	Adó-Èkìtì	Ekiti	7.604	5.333	2	
@@ -10,6 +30,7 @@ Adaiwai	Ndokwa East	Delta	5.394	6.474	2
 Adum Afo	Olamaboro	Kogi	7.183	7.417	2	Adum;Adum Afaw
 Ado Awaiye	Ìsẹ́yìn	Oyo	7.833	3.433	2	
 Adeleye	Ibarapa East	Oyo	7.533	3.518	2	
+Garin Jauro Adamu	Bali	Taraba	8.466	11.117	2	
 Aduba	Guzamala	Borno	12.824	13.191	2	Aduwa Lawanti
 Adakaka	Bunza	Kebbi	12.334	3.831	2	
 Adadia	Uruan	Akwa Ibom	4.971	8.060	2	
@@ -20,6 +41,7 @@ Adawa	Koko-Besse	Kebbi	11.415	4.367	2
 Adagbrasa	Sapele	Delta	5.738	5.684	2	
 Adnami	Munya	Niger	10.009	7.082	2	Adami
 Adaigba	Ibaji	Kogi	6.670	6.652	2	
+Adamu Kulu	Ardo-Kola	Taraba	8.705	11.216	2	
 Adelokun	Odeda	Ogun	7.150	3.517	2	Delokun
 Ado Odo	Ado Odo/Ota	Ogun	6.600	2.933	2	Ado;Ado Odo;Addo
 Aba Ada	Ido	Oyo	7.623	3.747	2	
@@ -38,6 +60,7 @@ Adegari	Arewa Dandi	Kebbi	12.854	4.325	2
 Adamakiri	Bonny	Rivers	4.558	7.066	2	
 Ungwan Adan	Tsafe	Zamfara	11.737	6.876	2	
 Adio Station	Ido	Oyo	7.394	3.748	2	
+Gidan Adaji	Kurmi	Taraba	7.167	10.683	2	Adaji
 Adjekota	Ughelli North	Delta	5.433	6.017	2	Jekota
 Adausu	Toto	Nasarawa	7.967	7.100	2	Addusu
 Awado	Ewekoro	Ogun	6.950	3.267	2	Ado
@@ -66,7 +89,7 @@ Omin Adio	Ido	Oyo	7.394	3.753	2
 Shaware Adambe	Bama	Borno	11.469	13.690	2	
 Adigun	Ifelodun	Kwara	8.380	5.028	2	
 Adewale	Ido	Oyo	7.551	3.732	2	
-Ado	Karu	Nasarawa	9.012	7.633	3	
+Gidan Adi	Kurmi	Taraba	7.333	10.517	2	Adi
 Adogo	Mashegu	Niger	10.147	5.523	2	
 Adarawa	Wamako	Sokoto	12.972	5.190	2	
 Adom	Bassa	Kogi	7.461	6.776	2	
@@ -87,8 +110,6 @@ Adamari	Dikwa	Borno	11.896	14.176	2
 Gidan Adarawa	Gada	Sokoto	13.697	5.837	2	
 Adjekuo I	Ughelli South	Delta	5.228	5.982	2	Adjekuo
 Adamu Suka	Fune	Yobe	11.437	11.459	2	
-Adazi Nnukwu	Anaocha	Anambra	6.107	7.027	3	
-Adankolo	Adavi	Kogi	7.803	6.696	3	
 Adegata	Yabo	Sokoto	12.638	4.954	2	Adegalagaji
 Adegata	Shagari	Sokoto	12.655	4.998	2	Adiga
 Mal Adamri	Guzamala	Borno	12.777	13.229	2	
@@ -97,6 +118,7 @@ Adoloseimo	Ese Odo	Ondo	6.197	5.040	2
 Aduwawa	Ikpoba-Okha	Edo	6.363	5.679	2	
 Gidan Adamu	Zango	Katsina	12.870	8.551	2	Adamu
 Aduari Duna	Babura	Jigawa	12.782	8.989	2	Duna;Anguwar Duna
+Adogo	Ibi	Taraba	8.450	10.017	2	Gidan Adogo
 Dangari Adua	Gudu	Sokoto	13.456	4.203	2	
 Aderawa	Kware	Sokoto	13.125	5.310	2	
 Adebka	Bukkuyum	Zamfara	11.890	5.615	2	
@@ -115,14 +137,9 @@ Ado Kompani	Kaura Namoda	Zamfara	12.428	6.612	2
 Adarawa	Wamako	Sokoto	13.033	5.161	2	
 Adeje	Okpe	Delta	5.683	5.764	2	Adeji;Adedje
 Kalafiogbene	Burutu	Delta	5.154	5.604	2	Kalafigbene;Adekagbene
-Ado Ekiti	Adó-Èkìtì	Ekiti	7.623	5.223	3	
-Firm Foundation Adult Education Center	Oredo	Edo	6.336	5.632	0	
 Adekunle Fajuyi Cantonement	Akinyele	Oyo	7.447	3.936	2	
 Adakawa	Dala	Kano	12.010	8.512	2	
 Mai Aduwa	Gwale	Kano	11.996	8.499	2	
-ade oyo maternity teaching hospital	Ibadan North	Oyo	7.387	3.902	0	
-Alafara Aderogba Health Centre	Ibadan North East	Oyo	7.383	3.905	0	
-Adlak	Ibadan South East	Oyo	7.366	3.905	0	
 Adika	Damboa	Borno	11.033	12.593	2	
 Adamti	Magumeri	Borno	12.184	12.872	2	
 Adamu Hassana	Shani	Borno	10.182	11.958	2	
@@ -149,21 +166,9 @@ Aduwun	Mobbar	Borno	13.329	12.862	2
 Adamu Nzika	Kwaya Kusar	Borno	10.555	11.934	2	
 Gadam Adamu	Kwaya Kusar	Borno	10.533	11.885	2	
 Gadan Bulama Adamu	Kwaya Kusar	Borno	10.534	11.886	2	
-Aduwa Health Clinic	Guzamala	Borno	12.945	13.176	0	
-Aduwa Health Clinic	Guzamala	Borno	12.825	13.190	0	
-Goni Adamti Health Centre	Guzamala	Borno	12.685	13.355	0	
 Karnowa Bula Adamu	Bama	Borno	11.498	13.767	2	
-Educational Advancement Centre	Ibadan North	Oyo	7.418	3.901	0	
-Admus Concept Nigeria Limited	Akinyele	Oyo	7.524	3.918	0	
-Adda Secondary School	Tarauni	Kano	11.967	8.532	0	
-Ado Gwaram Secondary School	Tarauni	Kano	11.968	8.532	0	
-ADOLAKS Marketing Ltd	Ede North	Osun	7.766	4.537	0	
-ADO BOBI PRIMARY SCHOOL.	Mariga	Niger	10.136	6.022	0	
 Maridi Adji Dogari	Maïné Soroa	Yobe	13.246	11.927	2	
 Adjiri	Mobbar	Borno	13.198	12.564	2	
-Adexson Ilepo Busstop	Alimosho	Lagos	6.529	3.216	0	
-Adeniji Adele PHC	Lagos Island	Lagos	6.463	3.393	0	
-Adibawa Flow Station	Yenegoa	Bayelsa	5.198	6.490	0	
 Kursuma Aduri	Monguno	Borno	12.625	13.619	2	
 Kursuma Adamari	Monguno	Borno	12.618	13.618	2	
 Chirawa Adamti	Kukawa	Borno	12.769	13.585	2	
@@ -172,120 +177,765 @@ Adamti	Nganzai	Borno	12.632	13.269	2
 Ka'Adamti	Guzamala	Borno	12.602	13.373	2	
 Fulatari Ba Adambe	Guzamala	Borno	12.616	13.411	2	
 Goni Adamti	Guzamala	Borno	12.687	13.353	2	
-Aduvie Motors	Uvwie	Delta	5.550	5.781	0	
 Aduri	Konduga	Borno	11.560	12.941	2	
 Adaya	Konduga	Borno	11.739	13.178	2	
 Na Adiya	Konduga	Borno	11.663	13.266	2	
-Admuscon Filling Station	Warri South	Delta	5.520	5.756	0	
 Majiya Adarawa	Dange-Shuni	Sokoto	12.894	5.339	2	
 Sarkin Addar B	Sokoto South	Sokoto	13.058	5.234	2	
-Adogo Station	Ajaokuta	Kogi	7.503	6.544	0	
-Addax Jetty	Eti Osa	Lagos	6.437	3.442	0	
-Epp Adjélanwa	Yewa North	Ogun	7.253	2.755	0	
-Adewumi Bus Stop	Egbeda	Oyo	7.451	4.034	0	
-Adeleye Clinic	Egbeda	Oyo	7.452	4.043	0	
 Adewumi	Egbeda	Oyo	7.453	4.034	2	
-Sunday Adeyi Olaogun Petrol Station	Ogbomosho North	Oyo	8.117	4.224	0	
-ADS Primary School	Ogbomosho North	Oyo	8.143	4.253	0	
-ADENIRAN MEMORIAL GRAMMAR SCHOOL	Ogbomosho North	Oyo	8.136	4.211	0	
-Adonai	Oshodi/Isolo	Lagos	6.552	3.341	0	
 Kauyen Adam	Bagwai	Kano	12.132	8.205	2	Adam
-Wal Adiya	Bebeji	Kano	11.668	8.262	3	
 Mai Adua	Makoda	Kano	12.275	8.572	2	
 Gidan Adam	Kibiya	Kano	11.376	8.631	2	
 Adougbé Gbago	Badagry	Lagos	6.388	2.711	2	
-Government Crafts Development Centre, Adagbabiri	Sagbama	Bayelsa	5.205	6.207	0	
 Unguwan Mallam Sa'adu	Toro	Bauchi	10.438	8.810	2	
-oba adeniyi sonariwo school sabo	Shagamu	Ogun	6.831	3.630	0	
-first african church mission school ii adenrele ifo	Ifo	Ogun	6.808	3.193	0	
-St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.742	3.263	0	
-Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.638	3.207	0	
-All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.676	3.223	0	
-St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Shagamu	Ogun	6.851	3.650	0	
-Local Government Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.662	3.182	0	
-Community Primary School, Adiyan	Shagamu	Ogun	6.806	3.591	0	
-Local Government Primary School, Orogan-Adewolu	Ado Odo/Ota	Ogun	6.670	3.158	0	
-First African Church Mission School I Adenrele Ifo	Ifo	Ogun	6.811	3.192	0	
-Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.690	3.238	0	
-First African Church Mission School Iii, Aderenle	Shagamu	Ogun	6.847	3.655	0	
-First African Church Mission School Iii, Aderenle	Ifo	Ogun	6.811	3.192	0	
-Local Government Primary School, Orogan-Adewolu	Ifo	Ogun	6.767	3.147	0	
-Community Primary School, Adiyan	Ifo	Ogun	6.711	3.307	0	
-St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.683	3.237	0	
-Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.604	3.067	0	
-Methodist Central Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
-All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.939	0	
-Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
-Ansar Ud Deen Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.591	2.945	0	
-United African Methodist Church Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.589	2.942	0	
-Local Government Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.588	2.931	0	
-St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
-St. Joseph Roman Catholic Mission Primary  School 1 Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
-Local Government Primary School, Adekanmbi	Ado Odo/Ota	Ogun	6.683	3.018	0	
-Adorable British College	Enugu North	Enugu	6.455	7.558	0	
 Aduku	Sagbama	Bayelsa	5.265	6.298	2	
 Aderie	Isoko South	Delta	5.370	6.320	2	
 Ada	Isoko North	Delta	5.439	6.310	2	
 Adorbu	Patani	Delta	5.115	6.004	2	
-Eika -Adagu	Adavi	Kogi	7.614	6.274	3	
-Eika-Adagu New Layout	Adavi	Kogi	7.611	6.241	3	
-Adani	Uzo-Uwani	Enugu	6.735	7.016	3	
-Oke Ado Hospital, SW7/217, Ibukun Olu Street, Oke Ado, Ibadan	Ibadan South West	Oyo	7.378	3.880	0	
-Oni and Sons Memorial Hospital, (Adeoyo) Ring Road, Ibadan	Ibadan South West	Oyo	7.362	3.862	0	
-Ibadan Central Hospital, Ososami Road, Oke Ado, New GRA. Ibadan	Ibadan North East	Oyo	7.396	3.929	0	
 Adagu-Efoja	Esan South-East	Edo	6.771	6.614	2	
-Adventist Medical Center	Jos North	Plateau	9.934	8.920	0	
-Primary Health Centre Jenta Adamu	Jos North	Plateau	9.925	8.875	0	
 Adagbrassa	Warri North	Delta	5.885	5.221	2	
-Adoka	Oturkpo	Benue	7.454	7.979	3	
-Adamawa Agricultural Development Program	Yola North	Adamawa	9.208	12.488	0	
 Adim	Biase	Cross River	5.736	8.039	2	
-f c e (T) administrative block	Gombe	Gombe	10.315	11.148	0	
-ETF-CERC GOMBE Admin block comprence room 2	Gombe	Gombe	10.303	11.160	0	
-Adejuyigbe Shopping Center	Akure South	Ondo	7.293	5.151	0	
-Ademola Medical Center	Ojo	Lagos	6.494	3.144	0	
-Angelic Care Health Center 124 Adaloko Road By Pako Bstop	Ojo	Lagos	6.477	3.158	0	
-Divine Favour Maternity Center Adoloko	Ojo	Lagos	6.478	3.159	0	
-Adebek Maternity Home	Alimosho	Lagos	6.526	3.216	0	
-Adetutu Clinic Ltd	Mushin	Lagos	6.503	3.329	0	
-Pastor E.A Adeboye	Akure South	Ondo	7.295	5.135	0	
-Oba Adebiyi Adesida Hall	Akure South	Ondo	7.304	5.141	0	
-Ade Torton Hostel	Akure South	Ondo	7.288	5.152	0	
-Adetunji Memorial Hospital	Amuwo Odofin	Lagos	6.456	3.306	0	
-Prof. Adebisi Balogun Postgraduates Hall	Akure South	Ondo	7.298	5.146	0	
-Adeeyo Shopping Complex	Ejigbo	Osun	7.902	4.315	0	
-Adebayo Filling Station	Ejigbo	Osun	7.899	4.312	0	
-Joycy Hospital Saka Adisa Street Abule Osun	Amuwo Odofin	Lagos	6.455	3.232	0	
-Modrosatul Darus Sunnah, Adeleye	Egbeda	Oyo	7.452	4.043	0	
-ADAMU A C SCIENCE ACADEMY SCHOOHL	Ungongo	Kano	12.041	8.563	0	
-ADAMU A C SCIENCE ACADEMY	Ungongo	Kano	12.041	8.563	0	
-MADARASATUL ADAM MAIGARI ISLAMIYYA	Ungongo	Kano	12.047	8.568	0	
-Remnant Adventist School Laranto	Jos North	Plateau	9.944	8.873	0	
 Adjokurumo	Warri South-West	Delta	5.415	5.440	2	
-Adeta Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.491	4.522	0	
-Galad College Of Advanced Studies, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.612	0	
-OANDO Filling Station. Adewole, Ilorin	Ilorin West	Kwara	8.479	4.519	0	
-Adefisan	Odogbolu	Ogun	6.806	3.904	3	
-Abraham Adesanya	Eti Osa	Lagos	6.470	3.584	0	
-College Of Law Administrative Building	Ovia North-East	Edo	6.745	5.403	0	
 Adaré	Dungass	Jigawa	12.823	9.434	2	
-Adebayo Living Tower Hospital	Badagry	Lagos	6.436	2.984	0	
-Adex Global Furniture	Municipal Area Council	FCT Abuja	9.141	7.380	0	
-Bridge Advocats	Municipal Area Council	FCT Abuja	9.082	7.456	0	
-Business Administration Department - NBTE	Kaduna North	Kaduna	10.611	7.443	0	
-Business Administration Department	Kaduna North	Kaduna	10.610	7.445	0	
 Adaba	Uzo-Uwani	Enugu	6.570	7.129	2	
+Adeleye, Lalupon Road	Egbeda	Oyo	7.454	4.047	2	
+Mai Aduwa	Gagarawa	Jigawa	12.464	9.594	2	
+Adiyani	Guri	Jigawa	12.786	10.423	2	
+Adabka	Bukkuyum	Zamfara	11.810	5.630	2	
+Sarkin Addar A	Sokoto South	Sokoto	13.058	5.230	2	
+Sarkin Adar Gandu	Sokoto North	Sokoto	13.058	5.218	2	
+Sarkin Addar B	Sokoto South	Sokoto	13.059	5.236	2	
+Sarkin Adar Gidan Igwai	Sokoto North	Sokoto	13.072	5.208	2	
+Adai	Sakaba	Kebbi	11.140	5.509	2	
+Mai'Adua C	Mai'Adua	Katsina	13.200	8.209	2	
+Mai'Adua A	Mai'Adua	Katsina	13.162	8.231	2	
+Mai'Adua B	Mai'Adua	Katsina	13.180	8.264	2	
+Mai'Adua	Mai'Adua	Katsina	13.161	8.213	2	
+Ado	Ado	Benue	6.780	8.061	2	
+Adó-Èkìtì	Adó-Èkìtì	Ekiti	7.605	5.284	2	
+Adavi	Adavi	Kogi	7.684	6.467	2	
+Ado Odo/Ota	Ado Odo/Ota	Ogun	6.624	3.082	2	
+Aduwa	Guzamala	Borno	12.811	13.241	2	
+Wuro Adayel	Fufore	Adamawa	9.082	12.376	2	
+Wuro Adamu	Gombi	Adamawa	10.083	12.573	2	
+Wuro Adamu	Bali	Taraba	8.483	11.130	2	
+Wuro Adamu	Bali	Taraba	8.405	11.129	2	
+Wuro Adamu	Bali	Taraba	8.380	11.164	2	
+Wende Ade	Konshisha	Benue	7.042	8.508	2	
+Ungwan Adar	Safana	Katsina	12.347	7.205	2	
+Ungwan Adada	Kankara	Katsina	11.862	7.589	2	
+Tungan Adura	Magama	Niger	10.117	4.833	2	
+Tungan Adamu	Birnin Gwari	Kaduna	10.800	6.650	2	
+Tse Aduku	Gwer East	Benue	7.594	8.635	2	
+Tse-Adikpo	Konshisha	Benue	7.064	8.541	2	
+Tse-Adagen	Gboko	Benue	7.423	8.724	2	
+Rugan Jauro Adamu	Ganjuwa	Bauchi	10.836	10.374	2	
+Oyere-Adedire	Aiyedade	Osun	7.206	4.388	2	Oyere Adedire
+Owode Adegbola	Ibarapa East	Oyo	7.605	3.526	2	
+Omin-Adio	Ido	Oyo	7.392	3.754	2	Adio Station|Omin Adio
+Okolo-Ade	Abua/Odual	Rivers	4.829	6.513	2	Okoloade
+Odi-Odeyale	Ona Ara	Oyo	7.321	4.011	2	Odi Adejale|Odi Odeyale
+Odenyi	Bassa	Kogi	7.780	7.054	2	Adenye|Udenyi
+Oba-Ado	Oluyole	Oyo	7.261	3.930	2	Oba Ado
+Mai Adamri	Guzamala	Borno	12.777	13.229	2	Mal Adamri
+Karlahi Jauro Adamu	Fufore	Adamawa	9.069	12.878	2	
+Jauro Adamu Yampina	Bali	Taraba	8.461	11.147	2	
+Jauro Adamu Jiri	Fufore	Adamawa	8.879	12.253	2	
+Jauro Adamu	Ardo-Kola	Taraba	8.811	11.330	2	
+Jauro Adamu	Ardo-Kola	Taraba	8.629	11.245	2	
+Iporo-Adesegun	Odeda	Ogun	7.207	3.522	2	Iporo Adesegun
+Ikot Adiaha	Oruk Anam	Akwa Ibom	4.706	7.629	2	
+Ikot Ada Udo	Ikot Abasi	Akwa Ibom	4.691	7.684	2	
+Ikot Ada Nkere	Ukanafun	Akwa Ibom	4.870	7.655	2	
+Ikot Ada Idem	Ibiono Ibom	Akwa Ibom	5.076	7.862	2	
+Ibogun Adina	Ifo	Ogun	6.817	3.117	2	
+Gye Gwe Adinya	Gwer East	Benue	7.648	8.641	2	
+Gwayabuna Ade	Potiskum	Yobe	11.715	11.179	2	Gwayabuna
+Gidan Adori	Rafi	Niger	10.167	6.167	2	
+Gidan Adi	Kurmi	Taraba	7.337	10.518	2	Adi
+Gidan Adamu	Kagarko	Kaduna	9.339	7.820	2	
+Gidan Adamu	Donga	Taraba	7.602	10.279	2	
+Garin Lamido Ade	Potiskum	Yobe	11.713	11.152	2	
+Garin Jauro Adamu	Bali	Taraba	8.462	11.113	2	
+Ebute-Adewale	Yewa South	Ogun	6.804	2.908	2	Ebute Adewale
+Dogo-Adogon-Saave	Konshisha	Benue	7.008	8.541	2	
+Che-Adekae	Takum	Taraba	7.416	10.082	2	
+Budo-Adun	Asa	Kwara	8.607	4.260	2	Budo Adun
+Budo-Adio	Asa	Kwara	8.649	4.288	2	Budo Adio
+Ayinrin	Atakunmosa West	Osun	7.363	4.717	2	Adedaji
+Arum Ada	Ideato South	Imo	5.776	7.141	2	
+Aligi Ado	Ofu	Kogi	7.402	7.275	2	Aligi Ada
+Akinbo-Ade	Ife North	Osun	7.386	4.462	2	Akinbo Ade
+Ahoro-Adan	Saki East	Oyo	8.708	3.709	2	Ahoro Adan
+Adzegegbor	Kwande	Benue	6.916	9.628	2	
+Mocu	Akwanga	Nasarawa	9.041	8.238	2	Adzan
+Adupe	Olamaboro	Kogi	7.063	7.556	2	
+Adunu	Paikoro	Niger	9.574	7.157	2	
+Adun Beach	Obubra	Cross River	5.994	8.259	2	
+Adum West	Obi	Benue	6.975	8.202	2	
+Adumu-Igbadu	Izzi	Ebonyi	6.368	8.256	2	Adumu Igbagu
+Adum East	Obi	Benue	6.964	8.367	2	
+Adumata	Toto	Nasarawa	8.064	6.995	2	
+Adumama	Akuku Toru	Rivers	4.361	6.541	2	
+Adum Afo	Olamaboro	Kogi	7.187	7.413	2	Adum|Adum Afaw
+Adum	Ushongo	Benue	7.170	8.957	2	
+Adum	Ogbadibo	Benue	7.034	7.718	2	
+Adum	Oju	Benue	6.859	8.591	2	
+Adukiri	Brass	Bayelsa	4.660	6.481	2	
+Aduhanhan	Uhunmwonde	Edo	6.320	5.798	2	
+Adugu	Donga	Taraba	7.792	10.212	2	
+Adugi	Ijumu	Kogi	7.610	6.100	2	
+Adugan	Odeda	Ogun	7.265	3.621	2	
+Adudu	Awe	Nasarawa	8.334	9.191	2	
+Adudu	Awe	Nasarawa	8.292	9.006	2	
+Aduchua	Miga	Jigawa	12.179	9.639	2	
+Adubo	Kogi	Kogi	8.339	6.852	2	
+Adubiaran	Iwo	Osun	7.720	4.125	2	
+Adu-Achi	Oji-River	Enugu	6.172	7.336	2	
+Adua	Gagarawa	Jigawa	12.478	9.637	2	
+Adou	Gwer East	Benue	7.308	8.509	2	
+Adoru	Igalamela-Odolu	Kogi	6.977	7.163	2	
+Adori	Guma	Benue	7.898	8.397	2	
+Adooji	Konshisha	Benue	7.179	8.554	2	
+Ado-Odo	Ado Odo/Ota	Ogun	6.595	2.942	2	Addo|Ado|Ado Odo
+Adoo	Gboko	Benue	7.339	8.669	2	
+Adonta	Aniocha South	Delta	6.082	6.458	2	Agodnia
+Adonkolo	Adavi	Kogi	7.803	6.696	2	
+Adoloseimo	Ese Odo	Ondo	6.195	5.039	2	
+Ado Kompani	Kaura Namoda	Zamfara	12.427	6.624	2	
+Adoke	Imeko Afon	Ogun	7.548	3.025	2	
+Adoka	Omala	Kogi	7.931	7.648	2	
+Adoka	Konshisha	Benue	7.266	8.511	2	
+Adoka	Konshisha	Benue	7.178	8.674	2	
+Adoka	Konshisha	Benue	7.165	8.550	2	
+Adogon	Takum	Taraba	7.422	10.106	2	
+Adogo	Mashegu	Niger	10.114	5.246	2	
+Adogo	Obafemi Owode	Ogun	7.058	3.364	2	
+Adogi	Lafia	Nasarawa	8.524	8.648	2	
+Adodo	Egbedore	Osun	7.830	4.410	2	
+Adodo	Ipokia	Ogun	6.707	2.847	2	
+Adobi	Obi	Nasarawa	8.312	8.598	2	
+Adobe	Kurmi	Taraba	7.065	10.767	2	
+Ado-Awaiye	Ìsẹ́yìn	Oyo	7.831	3.431	2	Addo|Ado|Ado Awaiye
+Adoa	Uhunmwonde	Edo	6.317	5.833	2	
+Ado	Yewa North	Ogun	7.133	2.967	2	
+Ado	Konshisha	Benue	7.087	8.738	2	
+Adjekota	Ughelli North	Delta	5.426	6.009	2	Jekota
+Adiyere	Ibarapa East	Oyo	7.572	3.488	2	
+Adiyan	Ifo	Ogun	6.691	3.340	2	
+Adiya	Gboko	Benue	7.511	8.784	2	
+Adisa	Odeda	Ogun	7.434	3.454	2	
+Adio	Moro	Kwara	8.778	4.495	2	
+Adinya	Konshisha	Benue	7.299	8.612	2	
+Adinimole	Asa	Kwara	8.502	4.342	2	
+Adin	Yusufari	Yobe	13.265	11.046	2	
+Adimo	Abeokuta North	Ogun	7.284	3.088	2	
+Adima	Konshisha	Benue	7.178	8.548	2	
+Adim	Biase	Cross River	5.763	7.993	2	
+Adikuta	Moro	Kwara	8.755	4.200	2	
+Adikpo	Obi	Nasarawa	8.336	8.913	2	
+Adikpe	Yala	Cross River	6.874	8.745	2	
+Adijinkpor	Ikom	Cross River	6.004	8.743	2	
+Adijale	Moro	Kwara	8.750	4.285	2	
+Adigun	Odeda	Ogun	7.362	3.529	2	
+Adigun	Ona Ara	Oyo	7.284	4.085	2	
+Adigun	Yewa North	Ogun	7.180	3.051	2	
+Adigi	Takum	Taraba	7.480	10.056	2	
+Adighi	Ushongo	Benue	7.191	8.947	2	
+Adigena	Kwande	Benue	6.600	9.500	2	
+Adifa	Akinyele	Oyo	7.629	3.899	2	
+Adiere	Keana	Nasarawa	8.083	9.050	2	
+Adiele	Dekina	Kogi	7.495	7.055	2	
+Adie	Aiyedade	Osun	7.319	4.286	2	
+Adido	Surulere	Oyo	7.953	4.391	2	
+Adiani	Guri	Jigawa	12.800	10.434	2	
+Adiabo Ikot Ukpa	Odukpani	Cross River	5.090	8.248	2	
+Adi	Ibi	Taraba	8.091	9.430	2	
+Adi	Ussa	Taraba	7.361	10.217	2	
+Adi	Ushongo	Benue	7.089	8.944	2	
+Adi	Konshisha	Benue	7.087	8.652	2	
+Adi	Vandeikya	Benue	7.011	8.982	2	
+Adeyori	Abeokuta North	Ogun	7.070	3.245	2	
+Adeyemi-Oluajo	Afijio	Oyo	7.777	3.924	2	Adeyemi Oluajo|AdeyemiOluajo
+Adeyemi	Ibarapa East	Oyo	7.637	3.558	2	
+Adeyemi	Ibarapa East	Oyo	7.623	3.517	2	
+Adeyemi	Yewa North	Ogun	7.363	2.984	2	
+Adeyanba	Ovia North-East	Edo	6.417	5.467	2	
+Adeyanba	Orhionmwon	Edo	6.107	5.917	2	
+Adeyadi	Egbeda	Oyo	7.419	4.100	2	
+Adewuyi	Itesiwaju	Oyo	8.070	3.662	2	
+Adewunmi	Ife South	Osun	7.156	4.488	2	
+Adewunmi	Egbeda	Oyo	7.360	4.049	2	Adewumi
+Adewole	Oluyole	Oyo	7.290	3.799	2	
+Adewale	Oluyole	Oyo	7.324	3.787	2	
+Adetunji	Ori Ire	Oyo	8.141	4.080	2	
+Adetunji	Ori Ire	Oyo	7.985	4.090	2	
+Adeto	Ibarapa Central	Oyo	7.410	3.367	2	
+Adetinu	Ido	Oyo	7.530	3.796	2	
+Adesiyan	Ido	Oyo	7.531	3.677	2	
+Adesiyan	Oluyole	Oyo	7.337	3.826	2	
+Adesiyan	Oluyole	Oyo	7.202	3.961	2	
+Adesi	Ori Ire	Oyo	8.534	4.245	2	
+Adesehun	Ibarapa East	Oyo	7.617	3.361	2	
+Adesanga	Ushongo	Benue	7.137	8.897	2	
+Aderu	Odeda	Ogun	7.191	3.653	2	
+Aderu	Obafemi Owode	Ogun	7.053	3.637	2	
+Aderonmu	Ibarapa East	Oyo	7.533	3.518	2	
+Aderibigbe	Surulere	Oyo	8.005	4.375	2	
+Adepoju	Ìsẹ́yìn	Oyo	7.878	3.483	2	
+Adepele	Ewekoro	Ogun	7.006	3.094	2	
+Adeoye	Ibarapa East	Oyo	7.688	3.475	2	
+Adeoye	Lagelu	Oyo	7.437	3.956	2	
+Adeoti	Ife South	Osun	7.170	4.458	2	
+Adeosi	Odeda	Ogun	7.336	3.642	2	
+Adeogun	Asa	Kwara	8.581	4.402	2	
+Adeogun	Ori Ire	Oyo	8.011	4.116	2	
+Ade-Oba	Surulere	Oyo	8.005	4.356	2	Ade Oba
+Adenu	Obafemi Owode	Ogun	7.057	3.534	2	
+Adenrele	Ibarapa North	Oyo	7.536	3.319	2	
+Adenlere	Aiyedire	Osun	7.586	4.236	2	Adenilare
+Adeniregun	Ejigbo	Osun	7.818	4.342	2	
+Adeniran	Moro	Kwara	9.083	4.700	2	
+Adeniji	Iwajowa	Oyo	7.810	3.309	2	
+Adeniji	Ibarapa East	Oyo	7.525	3.372	2	
+Adeniji	Ido	Oyo	7.469	3.723	2	
+Danbeku	Toto	Nasarawa	8.057	7.127	2	Adembeki|Adembeku
+Adem	Guma	Benue	8.139	8.507	2	
+Adem	Ogoja	Cross River	6.558	8.665	2	
+Adelokun	Akinyele	Oyo	7.533	3.979	2	
+Adeleye	Ido	Oyo	7.517	3.783	2	
+Adeleke	Oyun	Kwara	8.227	4.711	2	
+Adeleke	Surulere	Oyo	8.015	4.441	2	
+Adelakun	Oluyole	Oyo	7.284	3.931	2	
+Adelakun	Oluyole	Oyo	7.141	3.963	2	
+Adekunle	Kajola	Oyo	7.886	3.333	2	
+Adekunbi	Akinyele	Oyo	7.616	4.007	2	
+Adekola	Ìsẹ́yìn	Oyo	7.732	3.435	2	
+Adekola	Egbeda	Oyo	7.393	4.055	2	
+Adekidero	Kajola	Oyo	7.915	3.337	2	
+Adekanmbi	Ori Ire	Oyo	8.439	4.118	2	
+Adekanbi	Obafemi Owode	Ogun	7.090	3.324	2	
+Adekanbi	Yewa South	Ogun	6.703	3.024	2	
+Adejumo	Afijio	Oyo	7.704	3.788	2	
+Adejemi Oke	Moro	Kwara	8.748	4.429	2	
+Adeje	Okpe	Delta	5.686	5.762	2	Adedje|Adeji
+Adeitan	Ona Ara	Oyo	7.317	4.017	2	
+Adeigbe	Ibarapa North	Oyo	7.487	3.163	2	
+Adehwagh	Konshisha	Benue	7.100	8.684	2	
+Adehe	Agwara	Niger	10.717	4.450	2	
+Adegun	Ifelodun	Kwara	8.399	5.018	2	Adigun
+Adegoroye	Ejigbo	Osun	7.829	4.276	2	
+Adegoke	Ibarapa East	Oyo	7.505	3.358	2	
+Adegboye	Obafemi Owode	Ogun	6.982	3.385	2	
+Adegbola	Ibarapa East	Oyo	7.699	3.443	2	
+Adegbola	Ibarapa North	Oyo	7.512	3.109	2	
+Adegbodu	Iwo	Osun	7.647	4.089	2	
+Adegbo	Odeda	Ogun	7.180	3.651	2	
+Adegbite	Lagelu	Oyo	7.597	4.076	2	
+Adegbite	Ibarapa North	Oyo	7.536	3.061	2	
+Adegbite	Ibadan South West	Oyo	7.362	3.854	2	
+Adegbite	Yewa North	Ogun	7.282	2.745	2	
+Adegbenjo	Ejigbo	Osun	7.800	4.327	2	
+Adegata	Shagari	Sokoto	12.650	4.983	2	Adiga
+Adegalagaji	Yabo	Sokoto	12.650	4.950	2	
+Ade-Eyo	Ogbomosho North	Oyo	8.238	4.286	2	Ade Eyo
+Adeen	Ushongo	Benue	7.187	8.953	2	
+Ade-Eko	Ìsẹ́yìn	Oyo	7.663	3.370	2	Ade Eko|AdeEko
+Adeega	Gboko	Benue	7.274	8.685	2	
+Adeega	Ushongo	Benue	7.097	8.817	2	
+Adee	Kwande	Benue	6.792	9.525	2	
+Adedokun	Kajola	Oyo	7.908	3.312	2	
+Adedokun	Lagelu	Oyo	7.521	4.118	2	
+Adedokun	Yewa North	Ogun	7.133	2.967	2	
+Adedijo	Ibarapa North	Oyo	7.598	3.318	2	
+Adedigba	Ibarapa East	Oyo	7.502	3.358	2	
+Adedeji	Asa	Kwara	8.660	4.335	2	
+Adede	Odeda	Ogun	7.312	3.342	2	
+Adecha-Atologh	Konshisha	Benue	7.014	8.535	2	
+Adebowale	Ibarapa East	Oyo	7.583	3.396	2	
+Adebori	Odeda	Ogun	7.356	3.409	2	
+Adebomi	Iwajowa	Oyo	7.906	3.202	2	
+Adebo	Mashegu	Niger	10.044	5.549	2	
+Adebiyi	Ibarapa East	Oyo	7.641	3.503	2	
+Adebisi	Ibarapa East	Oyo	7.719	3.498	2	
+Adebimpe	Afijio	Oyo	7.750	3.950	2	
+Ade-Alesu	Oyo West	Oyo	7.915	3.895	2	Ade Alesu|AdeAlesu
+Adeagbo	Ibarapa East	Oyo	7.621	3.368	2	
+Ade-Agbo	Ibarapa East	Oyo	7.481	3.503	2	Ade Agbo
+Adeagbo	Ibarapa North	Oyo	7.507	3.195	2	
+Adeaga	Ido	Oyo	7.522	3.800	2	
+Adeaga	Odeda	Ogun	7.379	3.686	2	
+Ade	Odeda	Ogun	7.277	3.524	2	
+Addia	Jakusko	Yobe	12.691	10.676	2	
+Adde	Akwanga	Nasarawa	9.120	8.290	2	Gaba
+Adda	Udenu	Enugu	6.892	7.572	2	
+Adazi	Anaocha	Anambra	6.119	7.032	2	Adazi-Nuka
+Adawo	Odeda	Ogun	7.324	3.566	2	
+Adashu	Awe	Nasarawa	8.340	9.016	2	
+Adashi	Konshisha	Benue	7.188	8.538	2	
+Aoarawa	Wamako	Sokoto	12.970	5.191	2	Adarawa
+Adaralode	Atiba	Oyo	8.063	3.856	2	
+Adara	Doma	Nasarawa	8.372	8.303	2	
+Adara	Ogo Oluwa	Oyo	7.981	4.288	2	
+Adar	Kwande	Benue	6.843	9.525	2	
+Adapo	Odeda	Ogun	7.226	3.601	2	
+Adaoka	Kogi	Kogi	8.163	6.784	2	
+Ada-Obadan	Uhunmwonde	Edo	6.498	5.853	2	
+Adanyi	Ushongo	Benue	7.148	8.936	2	
+Adankari	Ohimini	Benue	7.317	7.849	2	
+Ada-Nda	Ilorin East	Kwara	8.646	4.914	2	Ada Nda
+Adanabas	Ringim	Jigawa	12.234	9.197	2	
+Adamu Suka	Fune	Yobe	11.445	11.452	2	
+Adamu Jimi	Teungo	Adamawa	8.100	11.983	2	
+Adamu	Asa	Kwara	8.684	4.314	2	
+Adamu	Teungo	Adamawa	7.754	11.738	2	
+Adamu	Ussa	Taraba	7.058	10.170	2	
+Adamri	Karasuwa	Yobe	12.939	10.891	2	
+Adambaki	Jada	Adamawa	8.615	12.301	2	
+Adamawa	Fika	Yobe	11.483	10.967	2	
+Adama	Kogi	Kogi	7.935	6.806	2	
+Adama	Donga	Taraba	7.372	10.430	2	
+Adam	Askira-Uba	Borno	10.658	12.528	2	
+Adam	Obi	Nasarawa	8.293	8.975	2	
+Adakorigbo	Odeda	Ogun	7.171	3.494	2	
+Adako	Atisbo	Oyo	8.375	3.383	2	
+Isievbie	Uhunmwonde	Edo	6.410	6.074	2	Adaigievbe
+Adaha	Kogi	Kogi	8.064	6.783	2	
+Adago	Mashegu	Niger	10.147	5.523	2	Adogo
+Adago	Guma	Benue	7.945	8.856	2	
+Adage	Zangon Kataf	Kaduna	9.919	8.071	2	
+Adage	Kachia	Kaduna	9.850	7.986	2	
+Adagbrassa	Okpe	Delta	5.631	5.821	2	
+Adagba	Ankpa	Kogi	7.444	7.680	2	
+Adagba	Takum	Taraba	7.420	10.053	2	
+Adagba	Konshisha	Benue	7.053	8.788	2	
+Adafila	Ori Ire	Oyo	8.458	4.241	2	
+Adadu	Kwali	FCT Abuja	8.801	7.151	2	
+Adadu	Doma	Nasarawa	8.150	8.265	2	
+Adadeju	Ofu	Kogi	7.301	7.341	2	
+Adadama	Abi	Cross River	5.927	8.084	2	
+Adada	Abua/Odual	Rivers	4.800	6.515	2	
+Adabu	Obi	Nasarawa	8.414	8.735	2	
+Adabo	Kogi	Kogi	8.280	6.839	2	
+Adabiaran	Isokan	Osun	7.275	4.172	2	
+Adabi	Adavi	Kogi	7.576	6.176	2	
+Adabata	Asa	Kwara	8.518	4.369	2	
+Adaba	Ayamelum	Anambra	6.629	7.125	2	
+Ada	Guma	Benue	8.133	8.547	2	
+Ada	Boripe	Osun	7.896	4.710	2	
+Ada	Markurdi	Benue	7.684	8.615	2	
+Ada	Aiyedire	Osun	7.548	4.280	2	
+Aba-Adi	Ede North	Osun	7.713	4.498	2	Aba Adi|AbaAdi
+Aba-Adefoju	Ibarapa East	Oyo	7.581	3.381	2	Aba Adefoju|AbaAdefoju
+Aba-Ada	Ido	Oyo	7.618	3.749	2	Aba Ada|AbaAda
+Adeleye	Alimosho	Lagos	6.615	3.266	2	
+Adonta	Ikwerre	Rivers	4.961	6.879	2	Adanta|Aoanta
+Adediran	Afijio	Oyo	7.745	3.771	2	
+Adimu	Afijio	Oyo	7.739	3.883	2	
+Adekunle	Afijio	Oyo	7.701	3.984	2	
+Aderibigbe	Afijio	Oyo	7.693	3.962	2	
+Adio	Afijio	Oyo	7.702	3.966	2	
+Adamaroko	Afijio	Oyo	7.684	3.850	2	
+Adiope	Afijio	Oyo	7.679	3.869	2	
+Adegbite	Afijio	Oyo	7.672	3.842	2	
+Adeogun	Akinyele	Oyo	7.640	3.933	2	
+Adetola	Akinyele	Oyo	7.630	3.859	2	
+Adeoye	Ido	Oyo	7.576	3.766	2	
+Adekomi	Akinyele	Oyo	7.602	3.831	2	
+Adedeji	Akinyele	Oyo	7.545	3.852	2	
+Adeniji	Akinyele	Oyo	7.541	3.853	2	
+Adanla	Ido	Oyo	7.500	3.810	2	
+Adamaro	Akinyele	Oyo	7.577	3.895	2	
+Adeogun	Akinyele	Oyo	7.593	3.933	2	
+Adebayo	Akinyele	Oyo	7.556	3.978	2	
+Adeoye	Akinyele	Oyo	7.535	3.947	2	
+Adesina-Awero	Lagelu	Oyo	7.447	3.951	2	Adesma Awero
+Adegbayi	Egbeda	Oyo	7.383	3.987	2	
+Adesina	Ona Ara	Oyo	7.350	3.960	2	
+Adamu	Kokona	Nasarawa	8.971	7.984	2	
+Adawa	Bama	Borno	11.525	14.281	2	
+Adamari	Dikwa	Borno	11.893	14.184	2	
+Adishe	Dikwa	Borno	11.908	14.033	2	
+Adu-Ama	Akuku Toru	Rivers	4.363	6.541	2	
+Adenrele	Ifo	Ogun	6.810	3.159	2	
+Ododin-Adaja	Idanre	Ondo	7.120	5.195	2	
+Adawanran	Ọ̀wọ̀	Ondo	7.136	5.492	2	
+Adejubu	Akure South	Ondo	7.176	5.284	2	
+Araromi-Adofure	Akure South	Ondo	7.192	5.158	2	
+Adofure	Akure South	Ondo	7.197	5.166	2	
+Ado	Akure North	Ondo	7.198	5.387	2	
+Adekunle	Akure North	Ondo	7.216	5.383	2	
+Alaso-Adura	Akure North	Ondo	7.220	5.366	2	
+Adeoye	Akure North	Ondo	7.230	5.384	2	
+Ago-Adewale	Emure	Ekiti	7.336	5.471	2	
+Adeyemo	Emure	Ekiti	7.357	5.498	2	
+Adugboku	Ekiti South-West	Ekiti	7.554	5.159	2	
+Aduloju	Adó-Èkìtì	Ekiti	7.604	5.333	2	
+Adukuia	Etsako Central	Edo	7.029	6.453	2	
+Adum	Ado	Benue	7.002	8.074	2	
+Adega	Obi	Benue	7.044	8.265	2	
+Ada	Gboko	Benue	7.357	8.992	2	
+Adaa	Gboko	Benue	7.380	8.815	2	
+Adaa	Gwer West	Benue	7.572	8.282	2	
+Adum	Gwer West	Benue	7.578	8.140	2	
+Adagba	Gwer West	Benue	7.581	8.180	2	
+Adem	Markurdi	Benue	7.660	8.482	2	
+Adaa	Gwer West	Benue	7.664	8.255	2	
+Adugbe	Gwer West	Benue	7.696	8.330	2	
+Adekule	Gwer West	Benue	7.736	8.164	2	
+Adudu	Gwer West	Benue	7.742	8.268	2	
+Adagbo	Agatu	Benue	7.873	8.045	2	
+Adaye	Guma	Benue	7.908	8.473	2	
+Adugh	Guma	Benue	7.918	8.485	2	
+Adana	Nasarawa	Nasarawa	7.932	8.026	2	
+Adaudu	Doma	Nasarawa	7.935	8.300	2	
+Ekpri Adiabo	Odukpani	Cross River	5.115	8.238	2	
+Ikot Adakpan	Itu	Akwa Ibom	5.157	8.053	2	
+Adidabe	Ado	Benue	6.761	8.153	2	
+Adop	Ogoja	Cross River	6.529	8.755	2	
+Adub	Ogoja	Cross River	6.480	8.709	2	
+Adagum	Ogoja	Cross River	6.584	8.871	2	
+Ago-Adoko	Warri North	Delta	6.098	5.149	2	
+Adua	Garki	Jigawa	12.520	8.967	2	
+Adam	Bagwai	Kano	12.129	8.209	2	
+Adakama	Bindawa	Katsina	12.693	7.830	2	
+Gidan Adamu	Rafi	Niger	10.314	6.408	2	
+Gidan Adua	Goronyo	Sokoto	13.557	5.806	2	Gidan Audu
+Adarawa	Tangaza	Sokoto	13.291	5.049	2	
+Adamu	Faskari	Katsina	11.751	7.045	2	
+Magie Ada	Bakori	Katsina	11.683	7.349	2	
+Adama	Karaye	Kano	11.669	7.932	2	
+Ungwan Adamu	Funtua	Katsina	11.495	7.375	2	
+Sa Adu	Funtua	Katsina	11.499	7.326	2	
+Ungwan Adamu	Funtua	Katsina	11.363	7.386	2	
+Gidan Adam	Giwa	Kaduna	11.079	7.086	2	
+Adanisievbe	Ethiope West	Delta	5.951	5.689	2	
+Adavwari	Okpe	Delta	5.804	5.771	2	
+Adjekuo II	Ughelli South	Delta	5.232	5.983	2	
+Adagbari	Ekeremor	Bayelsa	5.012	5.958	2	
+Adolagbene	Ekeremor	Bayelsa	4.813	5.768	2	
+Ka-Adama	Degema	Rivers	4.558	7.047	2	
+Opu Adakiri	Okrika	Rivers	4.650	7.092	2	
+Adat Atak	Ikot Ekpene	Akwa Ibom	5.226	7.667	2	
+Adan	Itu	Akwa Ibom	5.154	7.992	2	
+Afaha Ikot Adaha	Ibiono Ibom	Akwa Ibom	5.135	7.908	2	
+Adiasim	Essien Udim	Akwa Ibom	5.075	7.742	2	
+Adjekemevor	Ughelli North	Delta	5.581	6.077	2	
+Aduezi	Sagbama	Bayelsa	5.152	6.189	2	Sagbama
+Adorbu	Patani	Delta	5.112	6.003	2	
+Adobu	Patani	Delta	5.096	6.028	2	
+Adia Wati-Ofu	Ogba/Egbema/Ndoni	Rivers	5.428	6.540	2	
+Mai'Adua	Mai'Adua	Katsina	13.191	8.212	2	
+Adavi	Adavi	Kogi	7.641	6.434	2	
+Aiyedade	Aiyedade	Osun	7.334	4.349	2	Aiyeda Ade|Ayedaade|Ayedaade Local Government Area
+Ajaokuta	Ajaokuta	Kogi	7.524	6.581	2	Adzhaokuta|Agbegbe Ijoba Ibile Ajaokuta|Ajaokuta Local Government Area|a jiao ku ta|ajaokuta|ajaykwta
+Udenu	Udenu	Enugu	6.872	7.567	2	Agbegbe Ijoba Ibile Udenu|Udenu Local Government Area|adynw|ywdnw
+Ado	Ado	Benue	6.799	8.005	2	Ado Local Government Area|Ador
+Adamri	Monguno	Borno	12.647	13.685	2	
+Adaya	Potiskum	Yobe	11.683	11.195	2	
+Adenge	Gwer East	Benue	7.322	8.464	2	
+Adum	Yala	Cross River	6.296	8.433	2	
+Mai Aduwa	Gagarawa	Jigawa	12.466	9.596	2	
+Mai'Adua C	Mai'Adua	Katsina	13.203	8.204	2	
+Mai'Adua B	Mai'Adua	Katsina	13.178	8.271	2	
+Adabka	Bukkuyum	Zamfara	11.817	5.618	2	
+Che-Adikpo	Agatu	Benue	7.741	8.054	2	
+Adoor	Gwer West	Benue	7.738	8.259	2	
+Adagume	Gwer East	Benue	7.636	8.412	2	
+Adir	Gwer East	Benue	7.641	8.365	2	
+Adogom	Gwer West	Benue	7.679	8.265	2	
+Adodo	Logo	Benue	7.790	9.231	2	
+Anure-Aderkaa	Wukari	Taraba	7.908	9.407	2	
+Adzege	Guma	Benue	7.704	9.023	2	
+Adamawa	Guma	Benue	7.629	9.008	2	
+Adejime	Logo	Benue	7.601	9.058	2	
+Adabre	Logo	Benue	7.573	9.308	2	
+Adegh	Logo	Benue	7.513	9.392	2	
+Adawa	Wukari	Taraba	7.886	9.537	2	
+Gidan Adibatu	Wukari	Taraba	7.953	9.875	2	
+Adi	Wukari	Taraba	7.704	9.719	2	
+Tse Adashil	Ukum	Benue	7.685	9.566	2	
+Adega	Ukum	Benue	7.621	9.594	2	
+Adoo	Ukum	Benue	7.614	9.596	2	
+Adigi	Ukum	Benue	7.512	9.680	2	
+Adega	Katsina-Ala	Benue	7.505	9.795	2	
+Adoor	Katsina-Ala	Benue	7.568	9.845	2	
+Adi	Donga	Taraba	7.587	9.844	2	
+Ador	Donga	Taraba	7.643	9.928	2	
+Adepila	Takum	Taraba	7.517	9.993	2	
+Adem	Buruku	Benue	7.476	9.072	2	
+Adoon	Gboko	Benue	7.383	9.019	2	
+Adekaa	Gboko	Benue	7.344	9.000	2	
+Adogo	Buruku	Benue	7.405	9.146	2	
+Adudu	Buruku	Benue	7.391	9.164	2	
+Adem	Buruku	Benue	7.267	9.183	2	
+Adure	Buruku	Benue	7.417	9.237	2	
+Adamho	Buruku	Benue	7.264	9.218	2	
+Adam	Logo	Benue	7.493	9.267	2	
+Adam	Buruku	Benue	7.441	9.276	2	
+Adu	Katsina-Ala	Benue	7.315	9.370	2	
+Adu	Katsina-Ala	Benue	7.260	9.453	2	
+Adam	Katsina-Ala	Benue	7.446	9.465	2	
+Adu	Ushongo	Benue	7.121	9.071	2	
+Adu	Ushongo	Benue	7.089	9.017	2	
+Adikpo	Ushongo	Benue	7.093	9.089	2	
+Adamu	Vandeikya	Benue	7.034	9.061	2	
+Adoro	Buruku	Benue	7.249	9.182	2	
+Adaa	Buruku	Benue	7.231	9.136	2	
+Adyongo	Buruku	Benue	7.223	9.168	2	
+Adikpo	Buruku	Benue	7.198	9.179	2	
+Adomee	Buruku	Benue	7.170	9.168	2	
+Adaaku	Buruku	Benue	7.221	9.190	2	
+Adamgbe	Buruku	Benue	7.204	9.201	2	
+Adikpo	Buruku	Benue	7.235	9.232	2	
+Adanger	Buruku	Benue	7.229	9.234	2	
+Adi	Buruku	Benue	7.186	9.233	2	
+Adaa	Buruku	Benue	7.185	9.206	2	
+Adom	Ushongo	Benue	7.107	9.264	2	
+Adamu	Ushongo	Benue	7.004	9.249	2	
+Adeime	Ushongo	Benue	7.163	9.314	2	
+Adesugh	Katsina-Ala	Benue	7.140	9.403	2	
+Adoon	Gboko	Benue	7.454	8.768	2	
+Adaashi	Gboko	Benue	7.449	8.761	2	
+Adegha	Gboko	Benue	7.486	8.822	2	
+Adidi	Gboko	Benue	7.436	8.843	2	
+Adamu	Gboko	Benue	7.461	8.949	2	
+Adua	Gboko	Benue	7.467	8.993	2	
+Adam	Gboko	Benue	7.440	8.970	2	
+Adula	Gboko	Benue	7.420	8.957	2	
+Adulo	Gboko	Benue	7.437	8.938	2	
+Adugu	Gboko	Benue	7.380	8.841	2	
+Adaa	Gboko	Benue	7.408	8.915	2	
+Adagunsu	Gboko	Benue	7.374	8.993	2	
+Adekaa	Gboko	Benue	7.361	8.800	2	
+Adekwagh	Gboko	Benue	7.347	8.763	2	
+Adebo	Gboko	Benue	7.315	8.768	2	
+Adigam	Gboko	Benue	7.317	8.867	2	
+Ade	Gboko	Benue	7.315	8.963	2	
+Adebor	Gboko	Benue	7.314	8.978	2	
+Adi	Gboko	Benue	7.314	8.983	2	
+Adinya	Gboko	Benue	7.319	8.986	2	
+Adangel	Gboko	Benue	7.281	8.959	2	
+Adue	Gboko	Benue	7.266	8.993	2	
+Adam	Gboko	Benue	7.269	8.757	2	
+Adabda	Gamawa	Bauchi	12.234	10.359	2	
+Adamkiri	Brass	Bayelsa	4.433	6.146	2	
+Gapchari Nam Adam	Yusufari	Yobe	13.138	10.928	2	
+Ndache-Adama	Agaie	Niger	9.040	6.484	2	
+Adjir	Mobbar	Borno	13.192	12.574	2	
+Ungwan Adnai	Shiroro	Niger	9.840	6.781	2	
+Gidan Adeja	Shiroro	Niger	9.777	6.824	2	
+Gidan Adugo	Munya	Niger	9.774	6.880	2	
+Adjai	Munya	Niger	9.719	6.952	2	
+Gidan Adjata	Shiroro	Niger	9.686	6.828	2	
+Adjayi	Shiroro	Niger	9.674	6.712	2	
+Abule Ado	Amuwo Odofin	Lagos	6.453	3.245	2	
+Wuro Adamu	Jada	Adamawa	8.752	12.281	2	
+Adekunle	Ikeja	Lagos	6.614	3.358	2	
+Wuro Adamu	Jada	Adamawa	8.755	12.293	2	
+Wuro Adamu	Jada	Adamawa	8.636	12.388	2	
+Adazi Ani	Anaocha	Anambra	6.092	6.993	2	
+Adazi-Enu	Anaocha	Anambra	6.065	6.993	2	
+Aduchi	Paikoro	Niger	9.503	7.030	2	
+Ado	Amuwo Odofin	Lagos	6.468	3.261	2	
+Abrahim Adesanya	Apapa	Lagos	6.425	3.370	2	
+Adeniran Ogunsanya	Surulere	Lagos	6.495	3.354	2	
+Alafia Adeoye	Mushin	Lagos	6.527	3.341	2	
+Aderupoko Ibebu Quarters	Lagos Mainland	Lagos	6.502	3.389	2	
+Adekunle Aiyetoro	Lagos Mainland	Lagos	6.493	3.381	2	
+Ado Oke-Ira	Eti Osa	Lagos	6.492	3.596	2	
+Adura	Jaba	Kaduna	9.421	7.980	2	
+Gidan Ade	Karu	Nasarawa	9.087	7.825	2	
+Tungun-Aduka	Bwari	FCT Abuja	9.396	7.641	2	
+Garin Adama Yero	Ardo-Kola	Taraba	8.758	11.049	2	
+Garin Adamu Baberde	Gassol	Taraba	8.586	10.737	2	
+Garin Adamu Pomi	Gassol	Taraba	8.689	10.971	2	
+Adunga	Sanga	Kaduna	9.197	8.409	2	
+Ungwan Adamu	Sanga	Kaduna	9.113	8.175	2	
+Adu	Takum	Taraba	7.540	10.059	2	
+Ungwan Adagun	Zangon Kataf	Kaduna	9.933	8.344	2	
+Aduan	Zangon Kataf	Kaduna	9.696	8.309	2	
+Aduan	Zangon Kataf	Kaduna	9.712	8.328	2	
+Adwan	Jema'A	Kaduna	9.599	8.305	2	
+Gidan Adamu	Shendam	Plateau	8.930	9.457	2	
+Adagbarassa-Aghalokpe	Okpe	Delta	5.767	5.850	2	
+Oke Ado	Ibadan South West	Oyo	7.373	3.878	2	
+Atapa-Adewumi	Abeokuta North	Ogun	7.096	3.220	2	
+Adegbe	Ibarapa North	Oyo	7.493	3.147	2	
+Adedotun	Obafemi Owode	Ogun	7.025	3.390	2	
+Adebari	Obafemi Owode	Ogun	7.059	3.473	2	
+Ado	Odeda	Ogun	7.178	3.497	2	
+Adako	Odeda	Ogun	7.305	3.417	2	
+Adubuna	Odeda	Ogun	7.365	3.483	2	
+Adegbola	Odeda	Ogun	7.372	3.415	2	
+Akinwunmi-Adedigpa	Odeda	Ogun	7.468	3.431	2	
+Adeogun	Odeda	Ogun	7.289	3.384	2	
+Adekomi	Egbeda	Oyo	7.441	4.048	2	
+Adeyoye	Egbeda	Oyo	7.425	4.057	2	
+Adaji	Egbeda	Oyo	7.391	4.008	2	
+Adalegun	Ona Ara	Oyo	7.352	4.017	2	
+Adeleke	Ona Ara	Oyo	7.238	4.068	2	
+Idi-Oro-Adejumo	Ona Ara	Oyo	7.219	4.052	2	
+Adebo	Ona Ara	Oyo	7.189	4.063	2	
+Adetona	Ona Ara	Oyo	7.199	4.060	2	
+Adewunmi	Ona Ara	Oyo	7.190	4.039	2	
+Adegbeye	Ona Ara	Oyo	7.179	4.016	2	
+Adetunji	Ona Ara	Oyo	7.161	4.061	2	
+Ademowo	Ijebu North	Ogun	7.050	4.181	2	
+Adeoye	Ona Ara	Oyo	7.256	4.073	2	
+Adetonwa	Ona Ara	Oyo	7.293	4.071	2	
+Aditan	Ona Ara	Oyo	7.303	4.104	2	
+Adekanra	Egbeda	Oyo	7.330	4.094	2	
+Ademuyiwa	Egbeda	Oyo	7.434	4.135	2	
+Adekoya	Lagelu	Oyo	7.453	4.121	2	
+Balogun-Adiatu	Irewole	Osun	7.469	4.204	2	
+Adegboye	Irewole	Osun	7.426	4.234	2	
+Adie	Irewole	Osun	7.402	4.243	2	
+Adamamu	Irewole	Osun	7.397	4.247	2	
+Adelaolu	Irewole	Osun	7.393	4.240	2	
+Timi-Adiatu	Aiyedade	Osun	7.241	4.233	2	
+Faru-Adeku	Aiyedade	Osun	7.266	4.284	2	
+Adeboye	Aiyedade	Osun	7.309	4.292	2	
+Adigbongbon	Irewole	Osun	7.387	4.264	2	
+Adegbola	Irewole	Osun	7.386	4.272	2	
+Adigbongbon	Irewole	Osun	7.397	4.273	2	
+Adediran	Aiyedade	Osun	7.373	4.329	2	
+Adetunji	Aiyedade	Osun	7.171	4.383	2	
+Adara	Ife North	Osun	7.451	4.429	2	
+Adedeji	Ife North	Osun	7.437	4.423	2	
+Adedire	Ife North	Osun	7.362	4.434	2	
+Adekolu	Ede North	Osun	7.744	4.532	2	
+Adiloju	Ede North	Osun	7.740	4.531	2	
+Adodo	Ede North	Osun	7.726	4.517	2	
+Adiloju	Osogbo	Osun	7.719	4.555	2	
+Adodo	Ede North	Osun	7.711	4.545	2	
+Adenubi	Ede South	Osun	7.672	4.505	2	
+Adeboju	Ede South	Osun	7.629	4.507	2	
+Adesunmi	Ife Central	Osun	7.545	4.512	2	
+Adefarakan	Ife Central	Osun	7.529	4.527	2	
+Adebola	Atakunmosa West	Osun	7.595	4.593	2	
+Adeoye	Atakunmosa West	Osun	7.622	4.600	2	
+Aderibigbe	Atakunmosa West	Osun	7.648	4.587	2	
+Adesina	Ede South	Osun	7.668	4.549	2	
+Adeleye	Obokun	Osun	7.813	4.698	2	
+Oko-Adagba	Efon	Ekiti	7.645	4.875	2	
+Adi	Ila	Osun	7.897	4.875	2	
+Adekunle	Yewa North	Ogun	7.182	2.948	2	
+Iyasi-Adeniyi	Ipokia	Ogun	6.513	2.819	2	
+Wuro Adamu	Fufore	Adamawa	9.391	12.821	2	
+Wuro-Adamu	Fufore	Adamawa	9.121	12.850	2	Wuro Adamu
+Sangere Adamu	Girei	Adamawa	9.347	12.508	2	
+Adegbe	Ife North	Osun	7.347	4.505	2	
+Araromi Adesiyan	Ife South	Osun	7.084	4.585	2	
+Adebanjo	Ondo West	Ondo	7.062	4.641	2	
+Idi-Ogun Adedire	Ife South	Osun	7.129	4.607	2	
+Adereti	Ife South	Osun	7.271	4.627	2	
+Ago-Adeyemo	Ife East	Osun	7.426	4.630	2	
+Ogogo-Adeyemo	Ife South	Osun	7.402	4.662	2	
+Ago-Adebogun	Ondo West	Ondo	7.023	4.670	2	
+Ago-Adeoye	Ondo West	Ondo	7.019	4.656	2	
+Ago-Aderoba	Ondo West	Ondo	6.999	4.694	2	
+Adepa	Ondo West	Ondo	7.028	4.744	2	
+Adaja	Ondo West	Ondo	7.112	4.773	2	
+Adelogbe	Ile Oluji/Okeigbo	Ondo	7.250	4.814	2	
+Ademodi	Ondo West	Ondo	7.033	4.786	2	
+Adaja	Ondo East	Ondo	7.147	4.915	2	
+Ita-Adaja	Ondo East	Ondo	7.148	4.900	2	
+Adeduwon	Ondo East	Ondo	7.161	4.915	2	
+Agba-Adesimi	Ile Oluji/Okeigbo	Ondo	7.235	4.943	2	
+Adesoji	Ile Oluji/Okeigbo	Ondo	7.304	4.960	2	
+Adeyanju Omo-Oba	Ile Oluji/Okeigbo	Ondo	7.360	4.948	2	
+Adegbite	Ori Ire	Oyo	8.109	4.085	2	
+Adojo	Ori Ire	Oyo	8.100	4.108	2	
+Adesehin	Ori Ire	Oyo	8.064	4.099	2	
+Adetunji	Ogo Oluwa	Oyo	8.059	4.200	2	
+Adu	Ogbomosho North	Oyo	8.126	4.190	2	
+Adewole	Ori Ire	Oyo	8.278	4.209	2	
+Adagbe	Ori Ire	Oyo	8.350	4.178	2	
+Adekunle	Surulere	Oyo	8.015	4.454	2	
+Adeosun Ojenike	Surulere	Oyo	8.014	4.363	2	
+Adudu	Surulere	Oyo	8.049	4.342	2	
+Adenle	Odeda	Ogun	7.323	3.529	2	
+Adeke	Odeda	Ogun	7.283	3.503	2	
+Adeyi	Odeda	Ogun	7.260	3.557	2	
+Adegbokan	Obafemi Owode	Ogun	7.068	3.590	2	
+Sapala-Adebesin	Odeda	Ogun	7.151	3.616	2	
+Adegbebe	Odeda	Ogun	7.317	3.588	2	
+Araromi-Adipo	Odeda	Ogun	7.307	3.649	2	
+Adeseko	Ido	Oyo	7.427	3.748	2	
+Adeyemo	Ido	Oyo	7.396	3.744	2	
+Adebayo	Odeda	Ogun	7.338	3.717	2	
+Aderupatan	Obafemi Owode	Ogun	7.108	3.725	2	
+Adeoro	Oluyole	Oyo	7.160	3.967	2	
+Adara	Moro	Kwara	8.827	4.275	2	
+Adimode	Moro	Kwara	8.777	4.487	2	
+Adara	Moro	Kwara	8.735	4.385	2	
+Adejimi Isale	Moro	Kwara	8.747	4.430	2	
+Adere	Moro	Kwara	8.701	4.406	2	
+Adenku	Olorunsogo	Oyo	8.682	4.209	2	
+Adepe	Olorunsogo	Oyo	8.638	4.149	2	
+Adukensi	Moro	Kwara	8.587	4.470	2	
+Aderonmu	Asa	Kwara	8.594	4.316	2	
+Adigbongbo	Asa	Kwara	8.575	4.328	2	
+Adalawo	Ilorin West	Kwara	8.548	4.486	2	
+Adeosun	Ibarapa North	Oyo	7.681	3.173	2	
+Adedeji	Ibarapa North	Oyo	7.642	3.107	2	
+Adagbongbo	Ibarapa North	Oyo	7.545	3.073	2	
+Otun-Aderibigbe	Ibarapa North	Oyo	7.509	3.162	2	
+Adeogun	Ibarapa North	Oyo	7.567	3.166	2	
+Adegbite	Ifelodun	Kwara	8.396	5.028	2	
+Adingbeku	Lapai	Niger	8.280	6.639	2	
+Adam	Lafia	Nasarawa	8.578	8.951	2	
+Aduka	Lafia	Nasarawa	8.596	8.660	2	
+Ago-Adebigbe	Offa	Kwara	8.129	4.640	2	
+Adamaku	Kokona	Nasarawa	8.776	8.232	2	
+Adeitan	Oyo West	Oyo	7.874	3.877	2	
+Adeleke	Afijio	Oyo	7.777	3.971	2	
+Budo-Ada	Ifelodun	Kwara	8.421	4.819	2	
+Ada	Isin	Kwara	8.297	4.976	2	
+Adaralode	Atiba	Oyo	7.941	4.035	2	
+Adejumo	Atiba	Oyo	7.929	4.019	2	
+Adebi-Opon	Ola Oluwa	Osun	7.801	4.220	2	
+Adewole	Ogo Oluwa	Oyo	7.994	4.249	2	
+Adeleke	Ejigbo	Osun	7.803	4.325	2	
+Adelu	Ogo Oluwa	Oyo	7.937	4.349	2	
+Adejumo	Surulere	Oyo	7.987	4.345	2	
+Adewale	Orolu	Osun	7.954	4.467	2	
+Adeye	Egbedore	Osun	7.817	4.397	2	
+Kwarra Tundun-Adun	Doma	Nasarawa	8.343	8.493	2	Kwarra Tudun-Adun|KwarraTudun-Adun|KwarraTundun-Adun
+Jauro Adamu	Ganye	Adamawa	8.483	11.952	2	JauroAdamu
+Jauro Adamu Maaj	Ganye	Adamawa	8.492	11.943	2	JauroAdamuMaaj
+Wuro Adama	Girei	Adamawa	9.587	12.464	2	WuroAdama
+Adedoyin	Asa	Kwara	8.408	4.566	2	
+Adiloju	Ilorin South	Kwara	8.414	4.600	2	
+Adodu	Toto	Nasarawa	8.371	7.085	2	
+Adagba	Toto	Nasarawa	8.405	7.209	2	
+Adakwu	Nasarawa	Nasarawa	8.598	7.705	2	
+Adepo	Lagelu	Oyo	7.526	4.019	2	
+Adekola	Akinyele	Oyo	7.621	4.006	2	
+Adeoye	Afijio	Oyo	7.665	4.028	2	
+Adebiopon	Ola Oluwa	Osun	7.728	4.179	2	
+Adeosun	Lagelu	Oyo	7.583	4.104	2	
+Ekun-Ade	Afijio	Oyo	7.679	4.027	2	
+Aderogba	Lagelu	Oyo	7.524	4.018	2	
+Adeyeri	Lagelu	Oyo	7.608	4.101	2	
+Adukeresi	Afijio	Oyo	7.674	4.014	2	
+Adeyinka	Afijio	Oyo	7.720	4.023	2	
+Adegbo	Lagelu	Oyo	7.549	4.134	2	
+Ade-Epe	Akinyele	Oyo	7.570	4.017	2	
+Adi Idioro	Aiyedire	Osun	7.552	4.202	2	AdiIdioro
+Adesina	Aiyedade	Osun	7.572	4.313	2	
+Adana	Iwo	Osun	7.681	4.098	2	
+Adekaa	Gboko	Benue	7.361	8.972	2	
+Ado-Odo	Ado Odo/Ota	Ogun	6.632	2.966	2	
+Adegbola	Ibarapa North	Oyo	7.582	3.079	2	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.956	7.255	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.957	7.255	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.961	7.245	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.953	7.264	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.285	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.943	7.292	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.009	7.418	1	Dantata Bridge
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.972	7.362	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.992	7.400	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.309	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.940	7.304	1	
 Adepebga Street	Ifako/Ijaye	Lagos	6.654	3.305	1	
 Adeola Odeku Street	Eti Osa	Lagos	6.431	3.414	1	
 Adekunle Street	Oshodi/Isolo	Lagos	6.534	3.326	1	
@@ -295,7 +945,6 @@ Adekunle Fajuyi Way	Ikeja	Lagos	6.571	3.348	1
 Aderibigbe Shitta Street	Ikeja	Lagos	6.576	3.368	1	
 Akin Adesola Street	Eti Osa	Lagos	6.424	3.424	1	
 Adeshokan Street	Agege	Lagos	6.615	3.316	1	
-Adekunle Fajuyi Way	Ikeja	Lagos	6.574	3.362	1	
 Adeyemi Street	Oshodi/Isolo	Lagos	6.561	3.344	1	
 Adeniran Ogunsanya Street	Surulere	Lagos	6.495	3.357	1	
 Adebola Street	Surulere	Lagos	6.496	3.360	1	
@@ -305,7 +954,6 @@ Ishau Adewale Street	Surulere	Lagos	6.490	3.359	1
 Adeniran Ogunsanya Street	Surulere	Lagos	6.496	3.358	1	
 Akin Adesola Street	Eti Osa	Lagos	6.437	3.424	1	
 Adewunmi Adebiyi Street	Agege	Lagos	6.616	3.305	1	
-Administrative Staff College Of Nigeria	Badagry	Lagos	6.413	2.940	0	ASCON
 Aderinto Street	Oshodi/Isolo	Lagos	6.535	3.327	1	
 Adeyemo Alakija Street	Eti Osa	Lagos	6.435	3.425	1	
 Ademola Street	Eti Osa	Lagos	6.442	3.413	1	
@@ -351,10 +999,8 @@ Aduwa Eweka Crescent	Oredo	Edo	6.310	5.599	1
 Adenomo Crescent	Ikpoba-Okha	Edo	6.296	5.629	1	
 Adolor street	Egor	Edo	6.371	5.627	1	
 Adolor Street	Oredo	Edo	6.343	5.599	1	
-Adagbonyin Street	Egor	Edo	6.370	5.584	1	
 Adun Close	Oredo	Edo	6.312	5.617	1	
 Adeniji Adele Road	Lagos Island	Lagos	6.456	3.381	1	Lagos Island Inner Ring Road
-Adeniji Adele Road	Lagos Island	Lagos	6.459	3.393	1	
 Curtis Adeniyi Jones Close	Surulere	Lagos	6.493	3.355	1	
 Adeleke Adedoyin Street	Eti Osa	Lagos	6.434	3.418	1	
 Adeola Street	Eti Osa	Lagos	6.425	3.523	1	
@@ -383,7 +1029,6 @@ Adewunmi Street	Ibadan North	Oyo	7.450	3.918	1
 Adeoye Street	Ibadan North	Oyo	7.448	3.913	1	
 Kola Adewoyin Street	Ibadan North	Oyo	7.440	3.910	1	
 Adebayo Street	Ibadan North	Oyo	7.427	3.892	1	
-Administration Building	Ibadan North	Oyo	7.444	3.900	0	
 Adamson Street	Surulere	Lagos	6.505	3.345	1	
 Adelabu Close	Surulere	Lagos	6.500	3.349	1	
 Aderibigbe Street	Surulere	Lagos	6.504	3.346	1	
@@ -410,8 +1055,6 @@ Adebayo Oyelana Street	Oshodi/Isolo	Lagos	6.536	3.296	1
 Kamoru Adeyemi Street	Oshodi/Isolo	Lagos	6.522	3.319	1	
 Abayomi Adewale Street	Oshodi/Isolo	Lagos	6.517	3.314	1	
 Adejumobi Street	Alimosho	Lagos	6.538	3.264	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.420	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.079	7.427	1	
 Lawal Adenrele Street	Alimosho	Lagos	6.514	3.249	1	
 Adedoyin Olatunji Street	Alimosho	Lagos	6.537	3.262	1	
 Adeosun Street	Surulere	Lagos	6.507	3.342	1	
@@ -434,7 +1077,6 @@ Adeokun Street	Kosofe	Lagos	6.550	3.399	1
 Adebayo Street	Kosofe	Lagos	6.550	3.401	1	
 Adepele Street	Ikeja	Lagos	6.596	3.340	1	
 Adeoti Street	Alimosho	Lagos	6.603	3.303	1	
-Adeola Odeku Street	Eti Osa	Lagos	6.431	3.416	1	
 Olaolude Adekola Street	Kosofe	Lagos	6.543	3.401	1	
 Adeleye Street	Kosofe	Lagos	6.554	3.395	1	
 Albert Adekoya St	Kosofe	Lagos	6.557	3.390	1	
@@ -559,7 +1201,6 @@ Adamu Fika Street	Municipal Area Council	FCT Abuja	9.076	7.400	1
 Adekunle Fayuji Way	Municipal Area Council	FCT Abuja	9.048	7.469	1	
 Oyibo Adjarho Street	Eti Osa	Lagos	6.447	3.479	1	
 Adzope Crescent	Municipal Area Council	FCT Abuja	9.084	7.480	1	
-Shehu Yar'Adua Way	Municipal Area Council	FCT Abuja	9.076	7.438	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.005	7.161	1	
 Ado Bayero road	Fagge	Kano	12.009	8.536	1	
 Ado Gwaram Road	Tarauni	Kano	11.978	8.552	1	
@@ -570,7 +1211,6 @@ Adebisi Street	Surulere	Lagos	6.508	3.340	1
 Ist adesagbon lane	Egor	Edo	6.379	5.638	1	
 Adesagbon street	Egor	Edo	6.379	5.636	1	
 2nd adesagbon street	Egor	Edo	6.379	5.638	1	
-ADONAI EVANGEL SCHOOL	Egor	Edo	6.355	5.583	0	
 Adoni street	Egor	Edo	6.349	5.579	1	
 Nosa-Adu Street	Egor	Edo	6.357	5.572	1	
 Karimu Adeyi Street	Eti Osa	Lagos	6.477	3.610	1	
@@ -600,16 +1240,13 @@ Adamu Orisha Crescent	Surulere	Lagos	6.493	3.356	1
 Adenuga Street	Surulere	Lagos	6.492	3.347	1	
 Ade-Omo Olubiyi Street	Surulere	Lagos	6.490	3.345	1	
 Adams Street	Lagos Mainland	Lagos	6.503	3.377	1	
-Akin Adesola Street	Eti Osa	Lagos	6.429	3.424	1	
 Adelabu Street	Surulere	Lagos	6.502	3.351	1	
 Joseph Adu Street	Eti Osa	Lagos	6.431	3.446	1	
 Admiralty Way	Eti Osa	Lagos	6.447	3.461	1	
-Admiralty Way	Eti Osa	Lagos	6.440	3.455	1	
 Adesina Street	Mushin	Lagos	6.529	3.366	1	
 Adewusi Street	Mushin	Lagos	6.524	3.366	1	
 Adetia Olulu Street	Lagos Mainland	Lagos	6.500	3.388	1	
 Adesina Street	Lagos Mainland	Lagos	6.507	3.385	1	
-Adebiyi Street	Lagos Mainland	Lagos	6.514	3.384	1	
 Akinpelu Adesola Road	Lagos Mainland	Lagos	6.513	3.394	1	
 Adegbenro Street	Lagos Mainland	Lagos	6.509	3.392	1	
 Adeyinka Osijo Street	Shomolu	Lagos	6.529	3.389	1	
@@ -688,10 +1325,8 @@ Ado Jaafar Street	Tarauni	Kano	11.970	8.562	1
 Adegbite Street	Ibadan North	Oyo	7.442	3.909	1	
 Seni Adeoye S Street	Ogbomosho North	Oyo	8.117	4.232	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.029	7.438	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.946	7.286	1	
 Adaslim Street	Enugu South	Enugu	6.418	7.528	1	
 Adibua Onya Avenue	Onitsha North	Anambra	6.158	6.801	1	
-Adamwa Sunshine Motor Park	Maiduguri	Borno	11.838	13.146	0	
 Adenekan Salako Street	Ifako/Ijaye	Lagos	6.631	3.339	1	
 Uche Adiku Street	Enugu South	Enugu	6.425	7.535	1	
 Adaezeoha Street	Enugu East	Enugu	6.513	7.515	1	
@@ -708,7 +1343,6 @@ Bayo Adenokun Avenue	Oshodi/Isolo	Lagos	6.503	3.296	1
 Abiodun Adeleye Street	Oshodi/Isolo	Lagos	6.497	3.303	1	
 Alhaji Adeniran Street	Oshodi/Isolo	Lagos	6.508	3.315	1	
 Kunmi Adebiyi Street	Oshodi/Isolo	Lagos	6.512	3.322	1	
-Adeniyi Street	Mushin	Lagos	6.515	3.334	1	
 Adeyemi Street	Lagos Mainland	Lagos	6.480	3.376	1	
 Adele Road	Apapa	Lagos	6.440	3.368	1	
 Adedoyin Road	Mushin	Lagos	6.514	3.351	1	
@@ -738,11 +1372,6 @@ Titin Mai Adda Street	Kano Municipal	Kano	11.975	8.534	1
 Adamu Mai Chemist Street	Kano Municipal	Kano	11.973	8.531	1	
 Aliyu Adamu Wakili Street	Ungongo	Kano	11.977	8.450	1	
 Ado Abdullahi Street	Ungongo	Kano	11.976	8.452	1	
-Department of Business Administration and Entrepreneurship	Ungongo	Kano	11.974	8.429	0	
-Zonal Advanced Spaced Applications Laboratory	Ungongo	Kano	11.975	8.430	0	
-Zonal Advanced Spaced Applications Laboratory	Ungongo	Kano	11.975	8.430	0	
-Mai Aduwa Health Post	Makoda	Kano	12.275	8.571	0	
-Kauyen Adam Health Post	Bagwai	Kano	12.130	8.202	0	
 Admiralty Way	Eti Osa	Lagos	6.448	3.472	1	
 Admiralty Road	Eti Osa	Lagos	6.456	3.470	1	
 James Adejumo Close	Eti Osa	Lagos	6.455	3.477	1	
@@ -772,7 +1401,6 @@ Adesina Avenue	Eti Osa	Lagos	6.487	3.586	1
 Olawakemi Adediran Street	Eti Osa	Lagos	6.486	3.588	1	
 Ayodele Adebisi Street	Eti Osa	Lagos	6.492	3.590	1	
 Ebun Adelakun Close	Eti Osa	Lagos	6.489	3.590	1	
-Adifase Comprehensive Health Centre	Ibadan South West	Oyo	7.387	3.829	0	
 Adegbenle Street	Eti Osa	Lagos	6.445	3.525	1	
 Ade Buraimo Way	Eti Osa	Lagos	6.447	3.575	1	
 Tunde Adeleye Street	Eti Osa	Lagos	6.445	3.520	1	
@@ -817,14 +1445,12 @@ Asunny Adewole Street	Alimosho	Lagos	6.570	3.299	1
 Dr. Bello Al-Adam Road	Gwagwalada	FCT Abuja	8.940	7.085	1	
 Adedeji Street	Oshodi/Isolo	Lagos	6.553	3.339	1	
 Adejumobi Street	Oshodi/Isolo	Lagos	6.555	3.342	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.035	7.448	1	
 Adewale Adegbosin Street	Eti Osa	Lagos	6.497	3.591	1	
 Adeyemi Odukomaya	Kosofe	Lagos	6.614	3.373	1	
 Adetoro Adelaja	Kosofe	Lagos	6.619	3.386	1	
 Ademola Taiwo Street	Kosofe	Lagos	6.603	3.385	1	
 Adediran Street	Kosofe	Lagos	6.620	3.374	1	
 Lawyer Adeogun Street	Iwo	Osun	7.649	4.194	1	
-Lawyer Adeogun Street	Iwo	Osun	7.655	4.199	1	
 Adani Road	Ayamelum	Anambra	6.503	6.955	1	
 Adeniran Street	Egbedore	Osun	7.798	4.518	1	
 Adetoro Ipaye Street	Eti Osa	Lagos	6.465	3.582	1	
@@ -848,9 +1474,6 @@ Adebisi Street	Ìjẹ̀bú Òde	Ogun	6.834	3.930	1
 Adelabu- Babs Juncton	Surulere	Lagos	6.493	3.349	1	
 Adekoga Street	Shomolu	Lagos	6.534	3.375	1	
 Toyin Adebiyi Crescent	Oshodi/Isolo	Lagos	6.538	3.316	1	
-Samuel Ademulegun Avenue	Municipal Area Council	FCT Abuja	9.055	7.479	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.035	7.449	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.018	7.427	1	
 Adeojo Close	Alimosho	Lagos	6.533	3.266	1	
 Olu Adewale Street	Alimosho	Lagos	6.584	3.276	1	
 Adeshina Close	Alimosho	Lagos	6.588	3.277	1	
@@ -941,9 +1564,6 @@ Samuel Adikamkwu Street	Eti Osa	Lagos	6.493	3.588	1
 Bolanle Adesanya Close	Eti Osa	Lagos	6.507	3.585	1	
 Adijatu Street	Oshodi/Isolo	Lagos	6.519	3.334	1	
 Tunji Adejumo	Ifo	Ogun	6.686	3.308	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.949	7.274	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.968	7.230	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.992	7.183	1	
 Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.989	7.187	1	
 Ramon Adedoyin Street	Ife North	Osun	7.492	4.536	1	
 Aderibigbe Ademuleyi Street	Ife Central	Osun	7.493	4.536	1	
@@ -954,19 +1574,14 @@ Adinlewa	Akure South	Ondo	7.257	5.177	1
 Chief Adeniran Road	Akure South	Ondo	7.257	5.180	1	
 Abdul Kareem Adisa Close	Municipal Area Council	FCT Abuja	8.997	7.511	1	
 Adekunle Street	Oshodi/Isolo	Lagos	6.560	3.341	1	
-ADS Primaryy School Isemi Ile	Kajola	Oyo	7.992	3.375	0	
 Adamo Street	Eti Osa	Lagos	6.444	3.518	1	
 Adonai Way	Eti Osa	Lagos	6.443	3.519	1	
-Adegbola Street	Ikeja	Lagos	6.596	3.336	1	
 Adeola Hopewell Street	Eti Osa	Lagos	6.432	3.429	1	
 Oba Amusa Adebambo Street	Eti Osa	Lagos	6.444	3.518	1	
 Toyosi Adetoro	Eti Osa	Lagos	6.442	3.523	1	
 Umaru Musa Yar'adua Way	Kaduna North	Kaduna	10.539	7.473	1	
-Umaru Musa Yar'adua Way	Kaduna North	Kaduna	10.538	7.475	1	
-Umaru Musa Yar'adua Way	Chikun	Kaduna	10.532	7.484	1	
 Umaru Musa Yar'adua Way	Chikun	Kaduna	10.531	7.486	1	
 Alhaji Akibu Adeniji Street	Ifako/Ijaye	Lagos	6.675	3.289	1	
-Adetiba street	Ifako/Ijaye	Lagos	6.689	3.262	1	
 Adebayo Onigbanjo	Alimosho	Lagos	6.667	3.264	1	
 Adejobi Street	Alimosho	Lagos	6.649	3.257	1	
 Gideon Adeniran Street	Alimosho	Lagos	6.640	3.301	1	
@@ -977,7 +1592,6 @@ Adeyera Adeyemo Street	Kosofe	Lagos	6.574	3.388	1
 Adetokunbo Ademola Street	Eti Osa	Lagos	6.436	3.431	1	
 Adewunmi Street	Shomolu	Lagos	6.540	3.384	1	
 Adeyemo Alakija Street	Eti Osa	Lagos	6.437	3.425	1	
-Adeniji Adele Road	Lagos Island	Lagos	6.457	3.398	1	
 Alaagba Adetunji Street	Akinyele	Oyo	7.483	3.908	1	
 Adedapo Street	Surulere	Lagos	6.505	3.367	1	
 Aduke Thomas Street	Oshodi/Isolo	Lagos	6.555	3.339	1	
@@ -989,7 +1603,6 @@ Adebisi Omotola Street	Oshodi/Isolo	Lagos	6.537	3.329	1
 Tunji Aderinto Street	Oshodi/Isolo	Lagos	6.525	3.326	1	
 Adebayo Crescent	Oshodi/Isolo	Lagos	6.516	3.318	1	
 Adeboye Sowande Street	Oshodi/Isolo	Lagos	6.506	3.316	1	
-Adeniyi Street	Mushin	Lagos	6.513	3.334	1	
 Adedeji Street	Mushin	Lagos	6.509	3.335	1	
 Otunba Adedoyin Ogungbe Crescent	Eti Osa	Lagos	6.435	3.457	1	
 Adenike Wole Ajibode Street	Eti Osa	Lagos	6.453	3.477	1	
@@ -1006,14 +1619,12 @@ Ado- Iworoko-Ifaki Road	Adó-Èkìtì	Ekiti	7.627	5.218	1
 Adeoluwa Street	Alimosho	Lagos	6.675	3.259	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.374	5.250	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.295	5.230	1	
-Akure - Ado Ekiti Road	Akure North	Ondo	7.385	5.261	1	
 Aduralere Quarters	Akure South	Ondo	7.223	5.188	1	
 Adeba Road	Ibeju Lekki	Lagos	6.465	3.732	1	
 Chief Aderibigbe M.A Street	Orolu	Osun	7.892	4.477	1	
 Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.618	5.224	1	
 Adgboruwa Avenue	Eti Osa	Lagos	6.454	3.483	1	
 Ado - Ikare Road	Adó-Èkìtì	Ekiti	7.615	5.233	1	
-Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.614	5.223	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.559	5.213	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.485	5.229	1	
 Adagbonyin Crescent	Ikpoba-Okha	Edo	6.274	5.643	1	
@@ -1027,40 +1638,30 @@ Ado Ekiti / Efon Road	Ekiti West	Ekiti	7.688	5.082	1
 Ige Adewale Street	Obafemi Owode	Ogun	6.793	3.418	1	
 Amb. Adeniran Way	Oriade	Osun	7.575	4.894	1	
 Adewole Ajayi Street	Ewekoro	Ogun	6.847	3.188	1	
-Adewole Ajayi Street	Ewekoro	Ogun	6.844	3.190	1	
-Oba Adeyinka Oyekan Avenue	Eti Osa	Lagos	6.457	3.425	1	
 Ajagbe Ados Street	Saki West	Oyo	8.672	3.401	1	
 Adelaru Street	Eti Osa	Lagos	6.451	3.614	1	
 Iyana Adigbe	Obafemi Owode	Ogun	7.070	3.292	1	
 Adele Street	Obio/Akpor	Rivers	4.827	7.051	1	
-State Hospital Road	Ibadan South West	Oyo	7.353	3.863	1	Adeoyo Road
 Oda Adebimpe Road	Ibadan South West	Oyo	7.384	3.885	1	
 Adeyemi Agoro Street	Eti Osa	Lagos	6.427	3.579	1	
 Layin gidan ado	Kumbotso	Kano	11.890	8.497	1	
-Adekunle Fayuji Way	Municipal Area Council	FCT Abuja	9.046	7.463	1	
 Gbemisola Adenubi Street	Oshodi/Isolo	Lagos	6.497	3.318	1	
 Adewuyi Street	Surulere	Lagos	6.497	3.327	1	
 Sola Adebiyi Street	Municipal Area Council	FCT Abuja	8.985	7.455	1	
 Oke Adu Road	Ibadan North	Oyo	7.395	3.918	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.005	7.161	1	
 Agídí Àdàbà Street	Ìkòròdú	Lagos	6.554	3.548	1	
 Ajose Adeogun Roundabout	Eti Osa	Lagos	6.431	3.431	1	
 Mosunmola Adelaoye Close	Surulere	Lagos	6.492	3.337	1	
 Ambassador Adamu Mohammed Close	Municipal Area Council	FCT Abuja	9.140	7.367	1	
 Mama Ada Nwakwo Street	Eti Osa	Lagos	6.478	3.606	1	
-Olawakemi Adediran Street	Eti Osa	Lagos	6.484	3.590	1	
 Ode Adeka Avenue	Municipal Area Council	FCT Abuja	9.120	7.364	1	
-ADAMU SHAIBU CRESECENT	Municipal Area Council	FCT Abuja	9.112	7.381	1	
+Adamu Shaibu Cresecent	Municipal Area Council	FCT Abuja	9.112	7.381	1	
 Adamu Shaibu Crescent	Municipal Area Council	FCT Abuja	9.114	7.385	1	
 Adeyemi Bola Street	Eti Osa	Lagos	6.501	3.594	1	
 Adimula Street	Alimosho	Lagos	6.567	3.281	1	
-Fatai Adeyemi Street	Alimosho	Lagos	6.570	3.303	1	
-Adegbola Street	Ifako/Ijaye	Lagos	6.682	3.277	1	
 Kashimawo Adekunle Street	Eti Osa	Lagos	6.495	3.598	1	
 Adewale Way	Eti Osa	Lagos	6.492	3.585	1	
 Adekola Street	Alimosho	Lagos	6.563	3.295	1	
-Adenekan Street	Ado Odo/Ota	Ogun	6.691	3.276	1	
-Adewunmi Adegbesan Avenue	Eti Osa	Lagos	6.484	3.592	1	
 Adebisi Nanaghan Street	Alimosho	Lagos	6.563	3.258	1	
 Barr Dotun Adetunji Street	Ìkòròdú	Lagos	6.593	3.531	1	
 Adegbite Street	Agege	Lagos	6.610	3.325	1	
@@ -1069,13 +1670,11 @@ Adealu Street	Agege	Lagos	6.615	3.310	1
 Adebambo Street	Agege	Lagos	6.617	3.309	1	Olamiko Street
 Mukaila Adio Street	Alimosho	Lagos	6.519	3.249	1	
 Adeola Mayegun Street	Alimosho	Lagos	6.514	3.249	1	
-Adebisi Street	Ìjẹ̀bú Òde	Ogun	6.835	3.925	1	
 Adegbulugbe Avenue	Alimosho	Lagos	6.526	3.241	1	
 Adam Duke Lane A	Calabar South	Cross River	4.946	8.329	1	
 Adam Duke Lane C	Calabar South	Cross River	4.945	8.330	1	
 Adam Duke Lane B	Calabar South	Cross River	4.944	8.331	1	
 Adeoye Road	Ibadan North	Oyo	7.447	3.914	1	
-Adeoye Road	Ibadan North	Oyo	7.445	3.912	1	
 Adepoju street	Ibadan North	Oyo	7.447	3.912	1	
 Adeleke Adesina Close	Odeda	Ogun	7.190	3.407	1	
 Adedoyin Alaran Close	Ìjẹ̀bú Òde	Ogun	6.820	3.943	1	
@@ -1087,10 +1686,8 @@ Prince Adesida Street	Ado Odo/Ota	Ogun	6.613	3.217	1
 Prince Adesida Street	Ado Odo/Ota	Ogun	6.616	3.215	1	
 Adebayo Ba'anu close	Ilorin East	Kwara	8.471	4.630	1	
 Adeta Road	Ilorin West	Kwara	8.487	4.516	1	
-Adebayo Oyelana Street	Oshodi/Isolo	Lagos	6.535	3.294	1	
 Adamu Goggo Street	Bosso	Niger	9.662	6.513	1	
 Adetokunbo Ademola Crescent	Municipal Area Council	FCT Abuja	9.081	7.484	1	
-Adetoro Adelaja Street	Kosofe	Lagos	6.619	3.386	1	
 Ajose Adeogun Street	Ìkòròdú	Lagos	6.630	3.478	1	
 Adeleke Street	Ikeja	Lagos	6.601	3.352	1	
 Peace Avenue	Abeokuta South	Ogun	7.165	3.381	1	Adunni Ade Street
@@ -1098,37 +1695,28 @@ Prince Owolabi S. Adekunle Close	Eti Osa	Lagos	6.470	3.625	1
 Adekunle Omirinde Close	Eti Osa	Lagos	6.507	3.600	1	
 Adekunle Omirinde Street	Eti Osa	Lagos	6.507	3.599	1	
 Adebiaye Close	Eti Osa	Lagos	6.505	3.583	1	
-Adeyinka Adebayo Street	Municipal Area Council	FCT Abuja	9.003	7.475	1	
 Barr Adebiyi Oroyinyin Street	Ilorin East	Kwara	8.475	4.619	1	
 Adegboye Crescent	Ilorin East	Kwara	8.473	4.618	1	
 Adeola Crescent	Ibadan North	Oyo	7.415	3.891	1	
 Shittu Street	Ibadan North	Oyo	7.424	3.917	1	Adebajo Street
 Lai-Adeniji Olawoyin Avenue	Eti Osa	Lagos	6.446	3.609	1	
-Adeyi Avenue	Ibadan North	Oyo	7.418	3.900	1	
 Adazienu Street	Onitsha North	Anambra	6.147	6.822	1	
 Lara Ademola Street	Eti Osa	Lagos	6.447	3.515	1	
 Adedoyin Rhodes-Vivour Close	Municipal Area Council	FCT Abuja	9.051	7.524	1	
-Adewunmi Adebiyi Street	Agege	Lagos	6.617	3.306	1	
 Adebayo Lawal Close	Kosofe	Lagos	6.571	3.374	1	
 Adebule Lane	Ibadan North West	Oyo	7.396	3.888	1	
 Engr. Adeniran Quams Street	Obafemi Owode	Ogun	7.113	3.323	1	
-Akure - Ado Ekiti Road	Akure North	Ondo	7.280	5.213	1	
 Adamu Haruna	Fagge	Kano	11.995	8.541	1	
 Ademolu St	Shomolu	Lagos	6.542	3.391	1	
 Ayo Adebanjo Close	Eti Osa	Lagos	6.441	3.463	1	
 Adebisi Ladejobi Close	Eti Osa	Lagos	6.441	3.474	1	
-Adeleye, Lalupon Road	Egbeda	Oyo	7.454	4.047	2	
-Fadil School Adewumi	Egbeda	Oyo	7.454	4.037	0	
-Akure - Ado Ekiti Road	Akure North	Ondo	7.282	5.221	1	
 Akin Adekomaya Close	Kosofe	Lagos	6.567	3.368	1	
 Adipko Road	Kwande	Benue	6.846	9.230	1	
 Gbenge Adeyinka 1st Street	Eti Osa	Lagos	6.445	3.484	1	
 Adegbemile Road	Akure South	Ondo	7.252	5.206	1	
-Akure - Ado Ekiti Road	Ikere	Ekiti	7.501	5.230	1	
 Akure - Ado Ekiti Road	Ikere	Ekiti	7.532	5.221	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.320	5.238	1	
 Akure - Ado Ekiti Road	Akure North	Ondo	7.346	5.250	1	
-Adeyi Avenue	Ibadan North	Oyo	7.416	3.907	1	
 Adani Road	Ayamelum	Anambra	6.465	6.927	1	
 Brigadier Ademulegun Road	Ondo West	Ondo	7.107	4.829	1	
 Adelabu Street	Surulere	Lagos	6.494	3.349	1	
@@ -1140,24 +1728,195 @@ Adeniji Adele Road	Lagos Island	Lagos	6.465	3.391	1
 Adams Street	Kosofe	Lagos	6.548	3.401	1	
 Adejonwo Street	Alimosho	Lagos	6.537	3.267	1	
 Adjomo Avenue	Uvwie	Delta	5.539	5.762	1	
-Modibbo Adama University of Technology	Girei	Adamawa	9.353	12.504	0	Federal University of Technology|Mautech
 Ameyo Adadevoh Way	Municipal Area Council	FCT Abuja	9.101	7.428	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.965	7.235	1	
 Adeshina Street	Ikeja	Lagos	6.600	3.344	1	
 Mohammed Abubakar Adamu Street	Municipal Area Council	FCT Abuja	8.976	7.341	1	
 Prince Ademola Oniru Road	Eti Osa	Lagos	6.429	3.454	1	
 Ajayi Adebola Street	Alimosho	Lagos	6.543	3.245	1	
-Adeniran Ogunsanya College of Education	Ado Odo/Ota	Ogun	6.502	3.110	0	AOCOED
 Adesina Close	Abeokuta North	Ogun	7.140	3.274	1	
-Adorable International School	Ibadan North	Oyo	7.424	3.921	0	
-King Ado Junior High School	Lagos Island	Lagos	6.460	3.391	0	
 Adeyiga Street	Ìkòròdú	Lagos	6.624	3.502	1	
 Adamu Aliero Road	Birnin Kebbi	Kebbi	12.460	4.206	1	
 Gbenga Ademulegun Close	Eti Osa	Lagos	6.443	3.526	1	
 Alhaji Adebesin Street	Kosofe	Lagos	6.560	3.392	1	
 John Adepoju Street	Eti Osa	Lagos	6.480	3.579	1	
-Adeoyo State Hospital	Ibadan South West	Oyo	7.350	3.863	0	
 Sanusi Adekunle Street	Ifo	Ogun	6.645	3.397	1	
+Jideofor Adibe Street	Municipal Area Council	FCT Abuja	9.085	7.386	1	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.954	7.336	1	
+Solomon Aderenle Street	Eti Osa	Lagos	6.446	3.606	1	
+Adagba Street	Abeokuta South	Ogun	7.170	3.350	1	
+Musa Yar' Adua Way	Owerri Municipal	Imo	5.493	7.014	1	
+Adamu Ango Close	Kaduna North	Kaduna	10.527	7.456	1	
+Adewale Adejumo Street	Eti Osa	Lagos	6.478	3.635	1	
+OBA M.D. Adebowale Road	Eti Osa	Lagos	6.483	3.585	1	
+Sikiru Adenowo Street	Ìkòròdú	Lagos	6.637	3.481	1	
+Umaru Musa Yar'adua Way	Chikun	Kaduna	10.515	7.523	1	
+Adedoyin Close	Alimosho	Lagos	6.650	3.261	1	
+Prince Ademola Adunola Street	Ifako/Ijaye	Lagos	6.678	3.291	1	
+Ado Ekiti - Ilawe-Ilaramokin Road	Ifedore	Ondo	7.458	5.065	1	
+Adeniyi Jones Avenue	Ikeja	Lagos	6.623	3.345	1	
+Ade Str.	Ìkòròdú	Lagos	6.641	3.601	1	
+Prince Adekunle Crescent	Ife Central	Osun	7.496	4.535	1	
+Adediran Street	Ojo	Lagos	6.448	3.176	1	
+Adigbe road	Abeokuta South	Ogun	7.133	3.330	1	
+Ade-Onitiri Street	Eti Osa	Lagos	6.510	3.587	1	
+Adani Road	Ayamelum	Anambra	6.530	6.957	1	
+Prince Tunde Adewoyin Street	Ede North	Osun	7.719	4.476	1	
+Micheal Adekoya Street	Mushin	Lagos	6.546	3.359	1	
+Umaru Musa Yar'adua Way	Chikun	Kaduna	10.513	7.527	1	
+Adebakin Cresent	Kosofe	Lagos	6.609	3.379	1	
+Adeoye Sunday Close	Eti Osa	Lagos	6.447	3.609	1	
+Adeshiyan Street	Mushin	Lagos	6.540	3.361	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.981	3.620	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.019	3.702	1	
+Adeoyo Street	Mushin	Lagos	6.522	3.340	1	
+Oba Munirudeen Adesola Lawal Road	Ede South	Osun	7.708	4.483	1	
+Adeoye Abiola Akinleye Avenue	Ado Odo/Ota	Ogun	6.706	3.084	1	
+Adigom Uzonwa Drive	Awka South	Anambra	6.180	7.068	1	
+Adeoye Lati Jimoh Street	Obafemi Owode	Ogun	7.129	3.376	1	
+T.S Ladejobi Adedotun Street	Remo North	Ogun	6.968	3.684	1	
+Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.497	4.516	1	
+Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.510	4.519	1	
+Primate Adejobi Crescent	Kosofe	Lagos	6.561	3.374	1	
+Adeniran Samad Street	Alimosho	Lagos	6.497	3.265	1	
+Adegbenle Street	Eti Osa	Lagos	6.447	3.525	1	
+Adeola Street	Kosofe	Lagos	6.554	3.385	1	
+Adeleke Street	Mushin	Lagos	6.521	3.351	1	
+Aduragbemi Street	Ìkòròdú	Lagos	6.628	3.484	1	
+Adewale Kolawole Crescent	Eti Osa	Lagos	6.426	3.468	1	
+Adekunle Araba Street	Oshodi/Isolo	Lagos	6.520	3.319	1	
+Susan Adoba Street	Municipal Area Council	FCT Abuja	9.069	7.402	1	
+Adesina Oguntolu Street	Ìkòròdú	Lagos	6.636	3.500	1	
+Boye Adekanbi Street	Ìkòròdú	Lagos	6.636	3.501	1	
+Daniel Adekoya Street	Ìkòròdú	Lagos	6.639	3.499	1	
+Adebiyi Street	Ìkòròdú	Lagos	6.637	3.481	1	
+Adefowope Odukoya Street	Ìkòròdú	Lagos	6.626	3.480	1	
+Adesina Akintunde Street	Ado Odo/Ota	Ogun	6.725	3.248	1	
+Ademola Babalola Street	Eti Osa	Lagos	6.451	3.566	1	
+Aderibigbe Street	Shomolu	Lagos	6.514	3.383	1	
+Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.605	5.222	1	
+Adedokun Street	Kosofe	Lagos	6.560	3.395	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.997	3.650	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.039	3.767	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.028	3.732	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.031	3.742	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.049	3.799	1	
+Adebayo Alao-Akala Memorial Highway	Atiba	Oyo	8.075	3.847	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.188	4.090	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.154	4.012	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.171	4.045	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.180	4.117	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.172	4.132	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.151	4.160	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.144	4.185	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.974	3.604	1	
+Firm Foundation Adult Education Center	Oredo	Edo	6.336	5.632	0	
+ade oyo maternity teaching hospital	Ibadan North	Oyo	7.387	3.902	0	
+Alafara Aderogba Health Centre	Ibadan North East	Oyo	7.383	3.905	0	
+Adlak	Ibadan South East	Oyo	7.366	3.905	0	
+Aduwa Health Clinic	Guzamala	Borno	12.945	13.176	0	
+Aduwa Health Clinic	Guzamala	Borno	12.825	13.190	0	
+Goni Adamti Health Centre	Guzamala	Borno	12.685	13.355	0	
+Educational Advancement Centre	Ibadan North	Oyo	7.418	3.901	0	
+Admus Concept Nigeria Limited	Akinyele	Oyo	7.524	3.918	0	
+Adda Secondary School	Tarauni	Kano	11.967	8.532	0	
+Ado Gwaram Secondary School	Tarauni	Kano	11.968	8.532	0	
+ADOLAKS Marketing Ltd	Ede North	Osun	7.766	4.537	0	
+Ado Bobi Primary School.	Mariga	Niger	10.136	6.022	0	
+Adexson Ilepo Busstop	Alimosho	Lagos	6.529	3.216	0	
+Adeniji Adele PHC	Lagos Island	Lagos	6.463	3.393	0	
+Adibawa Flow Station	Yenegoa	Bayelsa	5.198	6.490	0	
+Aduvie Motors	Uvwie	Delta	5.550	5.781	0	
+Admuscon Filling Station	Warri South	Delta	5.520	5.756	0	
+Adogo Station	Ajaokuta	Kogi	7.503	6.544	0	
+Addax Jetty	Eti Osa	Lagos	6.437	3.442	0	
+Epp Adjélanwa	Yewa North	Ogun	7.253	2.755	0	
+Adewumi Bus Stop	Egbeda	Oyo	7.451	4.034	0	
+Adeleye Clinic	Egbeda	Oyo	7.452	4.043	0	
+Sunday Adeyi Olaogun Petrol Station	Ogbomosho North	Oyo	8.117	4.224	0	
+ADS Primary School	Ogbomosho North	Oyo	8.143	4.253	0	
+Adeniran Memorial Grammar School	Ogbomosho North	Oyo	8.136	4.211	0	
+Adonai	Oshodi/Isolo	Lagos	6.552	3.341	0	
+Government Crafts Development Centre, Adagbabiri	Sagbama	Bayelsa	5.205	6.207	0	
+oba adeniyi sonariwo school sabo	Shagamu	Ogun	6.831	3.630	0	
+first african church mission school ii adenrele ifo	Ifo	Ogun	6.808	3.193	0	
+St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.742	3.263	0	
+Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.638	3.207	0	
+All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.676	3.223	0	
+St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Shagamu	Ogun	6.851	3.650	0	
+Local Government Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.662	3.182	0	
+Community Primary School, Adiyan	Shagamu	Ogun	6.806	3.591	0	
+Local Government Primary School, Orogan-Adewolu	Ado Odo/Ota	Ogun	6.670	3.158	0	
+First African Church Mission School I Adenrele Ifo	Ifo	Ogun	6.811	3.192	0	
+Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.690	3.238	0	
+First African Church Mission School Iii, Aderenle	Shagamu	Ogun	6.847	3.655	0	
+First African Church Mission School Iii, Aderenle	Ifo	Ogun	6.811	3.192	0	
+Local Government Primary School, Orogan-Adewolu	Ifo	Ogun	6.767	3.147	0	
+Community Primary School, Adiyan	Ifo	Ogun	6.711	3.307	0	
+St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.683	3.237	0	
+Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.604	3.067	0	
+Methodist Central Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
+All Saints Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.939	0	
+Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
+Ansar Ud Deen Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.591	2.945	0	
+United African Methodist Church Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.589	2.942	0	
+Local Government Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.588	2.931	0	
+St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
+St. Joseph Roman Catholic Mission Primary  School 1 Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
+Local Government Primary School, Adekanmbi	Ado Odo/Ota	Ogun	6.683	3.018	0	
+Adorable British College	Enugu North	Enugu	6.455	7.558	0	
+Oke Ado Hospital, SW7/217, Ibukun Olu Street, Oke Ado, Ibadan	Ibadan South West	Oyo	7.378	3.880	0	
+Oni and Sons Memorial Hospital, (Adeoyo) Ring Road, Ibadan	Ibadan South West	Oyo	7.362	3.862	0	
+Ibadan Central Hospital, Ososami Road, Oke Ado, New GRA. Ibadan	Ibadan North East	Oyo	7.396	3.929	0	
+Adventist Medical Center	Jos North	Plateau	9.934	8.920	0	
+Primary Health Centre Jenta Adamu	Jos North	Plateau	9.925	8.875	0	
+Adamawa Agricultural Development Program	Yola North	Adamawa	9.208	12.488	0	
+f c e (T) administrative block	Gombe	Gombe	10.315	11.148	0	
+ETF-CERC GOMBE Admin block comprence room 2	Gombe	Gombe	10.303	11.160	0	
+Adejuyigbe Shopping Center	Akure South	Ondo	7.293	5.151	0	
+Ademola Medical Center	Ojo	Lagos	6.494	3.144	0	
+Angelic Care Health Center 124 Adaloko Road By Pako Bstop	Ojo	Lagos	6.477	3.158	0	
+Divine Favour Maternity Center Adoloko	Ojo	Lagos	6.478	3.159	0	
+Adebek Maternity Home	Alimosho	Lagos	6.526	3.216	0	
+Adetutu Clinic Ltd	Mushin	Lagos	6.503	3.329	0	
+Pastor E.A Adeboye	Akure South	Ondo	7.295	5.135	0	
+Oba Adebiyi Adesida Hall	Akure South	Ondo	7.304	5.141	0	
+Ade Torton Hostel	Akure South	Ondo	7.288	5.152	0	
+Adetunji Memorial Hospital	Amuwo Odofin	Lagos	6.456	3.306	0	
+Prof. Adebisi Balogun Postgraduates Hall	Akure South	Ondo	7.298	5.146	0	
+Adeeyo Shopping Complex	Ejigbo	Osun	7.902	4.315	0	
+Adebayo Filling Station	Ejigbo	Osun	7.899	4.312	0	
+Joycy Hospital Saka Adisa Street Abule Osun	Amuwo Odofin	Lagos	6.455	3.232	0	
+Modrosatul Darus Sunnah, Adeleye	Egbeda	Oyo	7.452	4.043	0	
+Adamu A C Science Academy Schoohl	Ungongo	Kano	12.041	8.563	0	
+Adamu A C Science Academy	Ungongo	Kano	12.041	8.563	0	
+Madarasatul Adam Maigari Islamiyya	Ungongo	Kano	12.047	8.568	0	
+Remnant Adventist School Laranto	Jos North	Plateau	9.944	8.873	0	
+Adeta Primary School, Oko Erin, Nigeria	Ilorin West	Kwara	8.491	4.522	0	
+Galad College Of Advanced Studies, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.612	0	
+OANDO Filling Station. Adewole, Ilorin	Ilorin West	Kwara	8.479	4.519	0	
+Abraham Adesanya	Eti Osa	Lagos	6.470	3.584	0	
+College Of Law Administrative Building	Ovia North-East	Edo	6.745	5.403	0	
+Adebayo Living Tower Hospital	Badagry	Lagos	6.436	2.984	0	
+Adex Global Furniture	Municipal Area Council	FCT Abuja	9.141	7.380	0	
+Bridge Advocats	Municipal Area Council	FCT Abuja	9.082	7.456	0	
+Business Administration Department - NBTE	Kaduna North	Kaduna	10.611	7.443	0	
+Business Administration Department	Kaduna North	Kaduna	10.610	7.445	0	
+Administrative Staff College Of Nigeria	Badagry	Lagos	6.413	2.940	0	ASCON
+Administration Building	Ibadan North	Oyo	7.444	3.900	0	
+Adonai Evangel School	Egor	Edo	6.355	5.583	0	
+Adamwa Sunshine Motor Park	Maiduguri	Borno	11.838	13.146	0	
+Department of Business Administration and Entrepreneurship	Ungongo	Kano	11.974	8.429	0	
+Zonal Advanced Spaced Applications Laboratory	Ungongo	Kano	11.975	8.430	0	
+Mai Aduwa Health Post	Makoda	Kano	12.275	8.571	0	
+Kauyen Adam Health Post	Bagwai	Kano	12.130	8.202	0	
+Adifase Comprehensive Health Centre	Ibadan South West	Oyo	7.387	3.829	0	
+ADS Primaryy School Isemi Ile	Kajola	Oyo	7.992	3.375	0	
+Fadil School Adewumi	Egbeda	Oyo	7.454	4.037	0	
+Modibbo Adama University of Technology	Girei	Adamawa	9.353	12.504	0	Federal University of Technology|Mautech
+Adeniran Ogunsanya College of Education	Ado Odo/Ota	Ogun	6.502	3.110	0	AOCOED
+Adorable International School	Ibadan North	Oyo	7.424	3.921	0	
+King Ado Junior High School	Lagos Island	Lagos	6.460	3.391	0	
+Adeoyo State Hospital	Ibadan South West	Oyo	7.350	3.863	0	
 Ahmad Ado Bayero Primary Health Centre	Kumbotso	Kano	11.927	8.580	0	
 Turai Yar'Adua Primary Health Centre	Kumbotso	Kano	11.953	8.515	0	
 Adum Primary Health Center	Olamaboro	Kogi	7.163	7.651	0	
@@ -1168,135 +1927,10 @@ Adamani Dispensary	Shira	Bauchi	11.431	9.894	0
 Admin block A	Awka North	Anambra	6.244	7.119	0	
 Admin Block B	Awka North	Anambra	6.245	7.117	0	
 Seventh-day Adventist Hospital and Motherless Babies' Home, ABA	Aba North	Abia	5.123	7.385	0	
-Adisa Akintoye Street	Kosofe	Lagos	6.594	3.385	1	
 Federal Polytechnic, Ado-Ekiti	Adó-Èkìtì	Ekiti	7.590	5.304	0	FPA
 Omi-Adio Station	Ido	Oyo	7.409	3.748	0	
-Jideofor Adibe Street	Municipal Area Council	FCT Abuja	9.085	7.386	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.949	7.331	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	8.954	7.336	1	
-Solomon Aderenle Street	Eti Osa	Lagos	6.446	3.606	1	
-Adagba Street	Abeokuta South	Ogun	7.170	3.350	1	
-Musa Yar' Adua Way	Owerri Municipal	Imo	5.493	7.014	1	
-Adamu Ango Close	Kaduna North	Kaduna	10.527	7.456	1	
 Admiralty University of Nigeria (ADUN)	Aniocha South	Delta	6.165	6.579	0	
-MUSA YAR'ADUA MEMORIAL PRIMARY SCHOOL (AMBUTTAI)	Muhammadu Dikko Stadium	Katsina	12.992	7.598	0	
-Adewale Adejumo Street	Eti Osa	Lagos	6.478	3.635	1	
-Adenugba Road	Alimosho	Lagos	6.657	3.266	1	
-OBA M.D. Adebowale Road	Eti Osa	Lagos	6.483	3.585	1	
-Sikiru Adenowo Street	Ìkòròdú	Lagos	6.637	3.481	1	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.003	7.412	1	
-Umaru Musa Yar'adua Way	Chikun	Kaduna	10.515	7.523	1	
-Admiralty Way	Eti Osa	Lagos	6.437	3.456	1	
+Musa Yar'Adua Memorial Primary School (Ambuttai)	Muhammadu Dikko Stadium	Katsina	12.992	7.598	0	
 adzer beke college korinya city	Konshisha	Benue	6.924	8.933	0	
-Adedoyin Close	Alimosho	Lagos	6.650	3.261	1	
-Prince Ademola Adunola Street	Ifako/Ijaye	Lagos	6.678	3.291	1	
-Ado Ekiti - Ilawe-Ilaramokin Road	Ifedore	Ondo	7.458	5.065	1	
-Adeniyi Jones Avenue	Ikeja	Lagos	6.623	3.345	1	
-Ade Str.	Ìkòròdú	Lagos	6.641	3.601	1	
-Prince Adekunle Crescent	Ife Central	Osun	7.496	4.535	1	
-Adediran Street	Ojo	Lagos	6.448	3.176	1	
-Adigbe road	Abeokuta South	Ogun	7.133	3.330	1	
-Adekunle Bisi Street	Kosofe	Lagos	6.582	3.383	1	
-Ade-Onitiri Street	Eti Osa	Lagos	6.510	3.587	1	
-Adani Road	Ayamelum	Anambra	6.530	6.957	1	
-Oba Adeyinka Estate	Eti Osa	Lagos	6.436	3.475	1	
-Prince Tunde Adewoyin Street	Ede North	Osun	7.719	4.476	1	
-Micheal Adekoya Street	Mushin	Lagos	6.546	3.359	1	
-Umaru Musa Yar'adua Way	Chikun	Kaduna	10.513	7.527	1	
-Musa Yar' Adua Way	Owerri Municipal	Imo	5.494	7.016	1	
-Adebakin Cresent	Kosofe	Lagos	6.609	3.379	1	
-Adeoye Sunday Close	Eti Osa	Lagos	6.447	3.609	1	
-Adeshiyan Street	Mushin	Lagos	6.540	3.361	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.981	3.620	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.019	3.702	1	
-Adeoyo Street	Mushin	Lagos	6.522	3.340	1	
-ADENIRAN MEMORIAL GRAMMAR SCHOOL	Ogbomosho North	Oyo	8.134	4.212	0	
-Oba Munirudeen Adesola Lawal Road	Ede South	Osun	7.708	4.483	1	
-Adeoye Abiola Akinleye Avenue	Ado Odo/Ota	Ogun	6.706	3.084	1	
-Adigom Uzonwa Drive	Awka South	Anambra	6.180	7.068	1	
-Adeoye Lati Jimoh Street	Obafemi Owode	Ogun	7.129	3.376	1	
 Modibbo Adama University Teaching Hospital	Yola North	Adamawa	9.190	12.492	0	
-T.S Ladejobi Adedotun Street	Remo North	Ogun	6.968	3.684	1	
-Ade Obitokun Street	Ifako/Ijaye	Lagos	6.673	3.274	1	
-Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.497	4.516	1	
-Sheikh Adam Abdullahi Al-Ilory Road	Ilorin West	Kwara	8.510	4.519	1	
-Adeta Road	Ilorin West	Kwara	8.483	4.505	1	
 Alliance Francaise - Mike Adenuga Center	Eti Osa	Lagos	6.460	3.433	0	
-Primate Adejobi Crescent	Kosofe	Lagos	6.561	3.374	1	
-Bamidele Adebule Street	Kosofe	Lagos	6.565	3.381	1	
-Adeniran Samad Street	Alimosho	Lagos	6.497	3.265	1	
-Adegbenle Street	Eti Osa	Lagos	6.447	3.525	1	
-Adeola Street	Kosofe	Lagos	6.554	3.385	1	
-Adeleke Street	Mushin	Lagos	6.521	3.351	1	
-Adoration Road	Enugu East	Enugu	6.488	7.555	1	
-Aduragbemi Street	Ìkòròdú	Lagos	6.628	3.484	1	
-Adewale Kolawole Crescent	Eti Osa	Lagos	6.426	3.468	1	
-Adekunle Araba Street	Oshodi/Isolo	Lagos	6.520	3.319	1	
-Yemi Adetayo Street	Eti Osa	Lagos	6.428	3.498	1	
-Susan Adoba Street	Municipal Area Council	FCT Abuja	9.069	7.402	1	
-Adefowope Street	Mushin	Lagos	6.548	3.364	1	
-Adesina Oguntolu Street	Ìkòròdú	Lagos	6.636	3.500	1	
-Boye Adekanbi Street	Ìkòròdú	Lagos	6.636	3.501	1	
-Daniel Adekoya Street	Ìkòròdú	Lagos	6.639	3.499	1	
-Adebiyi Street	Ìkòròdú	Lagos	6.637	3.481	1	
-Adefowope Odukoya Street	Ìkòròdú	Lagos	6.626	3.480	1	
-Prince Adeneye Adeowo Street	Ìkòròdú	Lagos	6.650	3.515	1	
-Adesina Akintunde Street	Ado Odo/Ota	Ogun	6.725	3.248	1	
-Aderele Street	Alimosho	Lagos	6.598	3.293	1	
-Ademola Babalola Street	Eti Osa	Lagos	6.451	3.566	1	
-Yemi Adetayo Street	Eti Osa	Lagos	6.426	3.508	1	
-Yemi Adetayo Street	Eti Osa	Lagos	6.423	3.497	1	
-Aderibigbe Street	Shomolu	Lagos	6.514	3.383	1	
-Oba Adolor Crescent	Oredo	Edo	6.306	5.625	1	
-Akure - Ado Ekiti Road	Adó-Èkìtì	Ekiti	7.605	5.222	1	
-Adedokun Street	Kosofe	Lagos	6.560	3.395	1	
-Adetola Road	Surulere	Lagos	6.494	3.339	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.993	3.642	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.997	3.650	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.002	3.666	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.039	3.767	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.028	3.732	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.031	3.742	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.034	3.752	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.036	3.757	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.049	3.799	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.043	3.780	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.045	3.786	1	
-Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.045	3.788	1	
-Adebayo Alao-Akala Memorial Highway	Atiba	Oyo	8.075	3.847	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.188	4.090	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.154	4.012	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.158	4.014	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.161	4.020	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.165	4.030	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.171	4.045	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.174	4.053	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.182	4.073	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.180	4.117	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.183	4.108	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.006	3.679	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.014	3.686	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.172	4.132	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.168	4.141	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.151	4.160	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.146	4.181	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.144	4.185	1	
-Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.141	4.188	1	
-Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.974	3.604	1	
-Mai Aduwa	Gagarawa	Jigawa	12.464	9.594	2	
-Adiyani	Guri	Jigawa	12.786	10.423	2	
-Adabka	Bukkuyum	Zamfara	11.810	5.630	2	
-Sarkin Addar A	Sokoto South	Sokoto	13.058	5.230	2	
-Sarkin Adar Gandu	Sokoto North	Sokoto	13.058	5.218	2	
-Sarkin Addar B	Sokoto South	Sokoto	13.059	5.236	2	
-Sarkin Adar Gidan Igwai	Sokoto North	Sokoto	13.072	5.208	2	
-Adai	Sakaba	Kebbi	11.140	5.509	2	
-Mai'Adua C	Mai'Adua	Katsina	13.200	8.209	2	
-Mai'Adua A	Mai'Adua	Katsina	13.162	8.231	2	
-Mai'Adua B	Mai'Adua	Katsina	13.180	8.264	2	
-Mai'Adua	Mai'Adua	Katsina	13.161	8.213	2	
-Ado	Ado	Benue	6.780	8.061	2	
-Adó-Èkìtì	Adó-Èkìtì	Ekiti	7.605	5.284	2	
-Adavi	Adavi	Kogi	7.684	6.467	2	
-Ado Odo/Ota	Ado Odo/Ota	Ogun	6.624	3.082	2	
-Aduwa	Guzamala	Borno	12.811	13.241	2	

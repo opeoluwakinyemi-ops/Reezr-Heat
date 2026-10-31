@@ -2,13 +2,38 @@ Afojupa	Obafemi Owode	Ogun	6.933	3.417	2	Afojupa-Nla
 Liasu	Asa	Kwara	8.317	4.467	2	Jaju Budo Nla;Liasu
 Nlul	Ikom	Cross River	6.308	8.648	2	
 Obe-Nla	Ilaje	Ondo	6.005	4.881	2	
-NLNG SCHOOL	Bonny	Rivers	4.386	7.181	0	
-NLNG RA HOSPITAL	Bonny	Rivers	4.386	7.179	0	
-Oke Ira Nla (Ajah)	Eti Osa	Lagos	6.491	3.579	0	
-abomiti-nla epe	Epe	Lagos	6.519	4.095	0	
-NLT	Ede South	Osun	7.682	4.458	0	
+Oboroko-Nla	Asa	Kwara	8.601	4.307	2	Oboroko Nla
+Nlul Two	Ikom	Cross River	6.307	8.648	2	Nlul
+Nlul One	Ikom	Cross River	6.314	8.650	2	Nlul
+Nlagu	Obi Ngwa	Abia	5.130	7.527	2	
+Jaju Budo Nla	Asa	Kwara	8.317	4.467	2	Liasu
+Elewu-Nla	Ibarapa East	Oyo	7.512	3.466	2	Elewu Nla
+Elegun-Nla	Odeda	Ogun	7.386	3.385	2	Elegun Nla
+Ebu-Nla	Egbedore	Osun	7.828	4.392	2	Ebu Nla|EbuNla
+Aiyegun-Nla	Irewole	Osun	7.441	4.189	2	Aiyegun Nla
+Abule-Nla	Surulere	Oyo	8.102	4.371	2	Abule Nla
+Abule-Nla	Ìsẹ́yìn	Oyo	7.882	3.486	2	Abule Nla|AbuleNla
+Abule-Nla	Ibarapa Central	Oyo	7.396	3.210	2	Abule Nla
+Aba-Nla	Ìsẹ́yìn	Oyo	7.801	3.295	2	Aba Nla|AbaNla
+Aba-Nla	Ola Oluwa	Osun	7.753	4.245	2	Aba Nla|AbaNla
+Abule-Nla	Surulere	Lagos	6.483	3.374	2	
+Nlohkan	Langtang South	Plateau	8.698	9.763	2	
+Abule-Nla	Obafemi Owode	Ogun	7.144	3.413	2	
+Alaiye-Nla	Irewole	Osun	7.463	4.142	2	
+Ebun-Nla	Irewole	Osun	7.398	4.295	2	
+Idopetu-Nla	Ipokia	Ogun	6.543	2.747	2	
+Tapa-Nla	Ipokia	Ogun	6.513	2.833	2	
+Okere-Nla	Ipokia	Ogun	6.675	2.788	2	
+Obala-Nla	Asa	Kwara	8.624	4.373	2	
+Agbati-Obinu-Nla	Asa	Kwara	8.586	4.331	2	
+Esin-Nla	Afijio	Oyo	7.727	4.016	2	
 Oba Nle Aro Street	Mushin	Lagos	6.552	3.364	1	
 Abule-Nla Road	Surulere	Lagos	6.483	3.373	1	
 Alfa Nla Road	Agege	Lagos	6.621	3.320	1	
 Eze- Nliam Crescent	Enugu North	Enugu	6.451	7.510	1	
 Oke Ira Nla Road	Eti Osa	Lagos	6.488	3.607	1	
+Nlng School	Bonny	Rivers	4.386	7.181	0	
+Nlng Ra Hospital	Bonny	Rivers	4.386	7.179	0	
+Oke Ira Nla (Ajah)	Eti Osa	Lagos	6.491	3.579	0	
+abomiti-nla epe	Epe	Lagos	6.519	4.095	0	
+NLT	Ede South	Osun	7.682	4.458	0	

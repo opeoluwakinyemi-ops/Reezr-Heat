@@ -1,4 +1,26 @@
-Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
+Bunza	Bunza	Kebbi	12.087	4.018	3	
+Bila Nkeki	Chibok	Borno	10.774	12.877	3	Bula Nkyaki
+Buni Yadi	Gujba	Yobe	11.276	12.008	3	
+Buguma	Asari-Toru	Rivers	4.735	6.863	3	Bugama
+Buari	Irepodun	Kwara	8.299	4.855	3	
+Burari	Bama	Borno	11.470	13.758	3	Bulanga;Ngurosoye;Nguro Seyo;Ngura-Seyo
+Bure	Kirfi	Bauchi	10.524	10.329	3	
+Ngadarma Bila Yahi	Chibok	Borno	10.722	12.884	3	Ngadarma Bulayahi
+Bungudu	Bungudu	Zamfara	12.268	6.554	3	
+Burutu	Burutu	Delta	5.352	5.508	3	
+New Bussa	Borgu	Niger	9.883	4.510	3	
+Buruku	Chikun	Kaduna	10.618	7.233	3	
+Bula Bul (Tumbun Gini)	Abadam	Borno	13.465	13.659	3	
+Ghumma	Hawul	Borno	10.524	12.255	3	Fuma Bura
+Zangon Baure	Bunkure	Kano	11.699	8.540	3	Bunkure
+Burun Burun	Tudun Wada	Kano	11.391	8.725	3	Burumburum
+New Bussa	Borgu	Niger	9.886	4.509	3	
+Buruku	Buruku	Benue	7.460	9.205	3	Bukuru|Gburuku
+Dass	Dass	Bauchi	10.001	9.516	3	Bununu|Bununu Dass
+Bunkure	Bunkure	Kano	11.699	8.541	3	
+Bukuru	Jos South	Plateau	9.794	8.864	3	
+Bukkuyum	Bukkuyum	Zamfara	12.137	5.468	3	Bukuyum|Bukwium
+Bulumkutu	Jere	Borno	11.834	13.094	2	
 Hardo Buba	Biriniwa	Jigawa	12.736	10.093	2	
 Bulabulin Ngaburawa	Konduga	Borno	11.390	12.909	2	Bulabulin
 Busawa	Shagari	Sokoto	12.545	4.935	2	
@@ -40,7 +62,6 @@ Bumodi	Yenegoa	Bayelsa	4.975	6.271	2
 Grema Burari	Karasuwa	Yobe	12.974	10.905	2	Grama Burari
 Bulanyaki	Shagari	Sokoto	12.610	4.936	2	
 Bunza	Koko-Besse	Kebbi	11.189	4.350	2	
-Bunza	Bunza	Kebbi	12.087	4.018	3	
 Lafiyan Bure	Alkaleri	Bauchi	10.000	10.483	2	
 Buya	Bagudo	Kebbi	11.076	4.067	2	
 Rugan-Burla	Shagari	Sokoto	12.589	4.910	2	
@@ -113,7 +134,6 @@ Bambula	Chibok	Borno	10.894	12.686	2	Bombula Bula-Fali
 Bumsa	Biu	Borno	10.722	12.081	2	
 Burdudu	Baure	Katsina	12.896	8.721	2	
 Marakim-Bure	Gudu	Sokoto	13.647	4.482	2	Maraken Bori
-Bila Nkeki	Chibok	Borno	10.774	12.877	3	Bula Nkyaki
 Bulama Hyendugu	Shani	Borno	10.345	12.227	2	Sangwa Bulama Hyeldugu
 Budda	Maiha	Adamawa	9.850	13.150	2	Buda Leinde;Leinde
 Anjawa	Michika	Adamawa	10.633	13.400	2	Burajuwa
@@ -124,7 +144,6 @@ Gidan Busel	Gwadabawa	Sokoto	13.479	5.221	2
 Gidan Buda	Bungudu	Zamfara	12.258	6.810	2	
 Guidan Buda	Bungudu	Zamfara	12.258	6.810	2	
 Babu;Bubu	Alkaleri	Bauchi	10.046	10.701	2	
-Buni Yadi	Gujba	Yobe	11.276	12.008	3	
 Bultawa	Fune	Yobe	11.910	11.752	2	Bula Kawa
 Bukul	Gujba	Yobe	11.320	11.730	2	
 Felelen Buzu	Lokoja	Kogi	7.852	6.724	2	
@@ -157,16 +176,13 @@ Dusawa	Binji	Sokoto	13.087	4.705	2	Busawa
 Tungan Buru	Shanga	Kebbi	10.982	4.915	2	
 Gidan Bubo	Wamako	Sokoto	13.084	5.139	2	
 Buwa Diawa	Illela	Sokoto	13.620	5.361	2	
-Bukkuyum	Bukkuyum	Zamfara	12.138	5.466	2	Bukuyum;Bukwium
 Ungwan Buda	Giwa	Kaduna	11.111	7.466	2	Buda
 Bula Mairmi	Fakai	Kebbi	11.705	4.829	2	
-Buguma	Asari-Toru	Rivers	4.735	6.863	3	Bugama
 Tunga Burahi	Bagudo	Kebbi	11.486	4.284	2	
 Bunun	Birnin Kudu	Jigawa	11.374	9.514	2	
 Hausawan Bugai	Chikun	Kaduna	10.549	7.642	2	
 Bukaji	Demsa	Adamawa	9.367	12.217	2	Bukkaji;Bakaje;Bukaji
 Buk	Damboa	Borno	11.236	12.384	2	
-Buari	Irepodun	Kwara	8.299	4.855	3	
 Bulo Butube	Ngala	Borno	12.361	14.006	2	
 Bukaru	Baruten	Kwara	8.983	3.367	2	
 Bukar Kwareri	Damboa	Borno	11.200	13.065	2	Bukar-Kwareri
@@ -186,7 +202,6 @@ Budo	Epe	Lagos	6.414	4.341	2	Olowu
 Buegun	Pategi	Kwara	8.766	5.488	2	
 Busari	Gulani	Yobe	11.000	11.700	2	
 Gazama Buri	Damboa	Borno	11.213	13.036	2	
-Burari	Bama	Borno	11.470	13.758	3	Bulanga;Ngurosoye;Nguro Seyo;Ngura-Seyo
 Buzai Tudai	Kuje	FCT Abuja	8.572	7.177	2	Tudai
 Gidan Burema	Gada	Sokoto	13.779	5.532	2	
 Dabagi Bum	Wurno	Sokoto	13.236	5.488	2	
@@ -208,9 +223,10 @@ Bule	Fakai	Kebbi	11.473	4.868	2
 Baturi	Ikara	Kaduna	11.190	8.383	2	Butari
 Sabon Bure	Kirfi	Bauchi	10.314	10.764	2	
 Bulo	Darazo	Bauchi	10.964	10.363	2	Bulu
-Bure	Kirfi	Bauchi	10.524	10.329	3	
 Buri	Alkaleri	Bauchi	10.011	10.463	2	Bori
 Gburuku	Buruku	Benue	7.456	9.201	2	Buruku
+Wuro Harman Bura	Lau	Taraba	9.199	11.482	2	
+Wuro Haman Bura	Lau	Taraba	9.202	11.479	2	
 Butai	Kafin Hausa	Jigawa	12.267	9.933	2	Gidan Butai
 Burak	Shongom	Gombe	9.617	11.267	2	
 Bununu Kassa	Tafawa-Balewa	Bauchi	9.868	9.663	2	
@@ -230,17 +246,14 @@ Bula Dilima	Bama	Borno	11.334	13.955	2
 Burdinga	Bokkos	Plateau	9.364	8.823	2	
 Dan Dutse Bulbul	Kazaure	Jigawa	12.608	8.633	2	
 Bule	Babura	Jigawa	12.610	8.991	2	
-Ngadarma Bila Yahi	Chibok	Borno	10.722	12.884	3	Ngadarma Bulayahi
 Takulashi	Chibok	Borno	10.794	12.723	2	Takulashi Buladunya
 Gwalasho Bura	Shani	Borno	10.156	12.074	2	Gwalasho
 Sangwa Bulama Ibrahim Dembe	Shani	Borno	10.330	12.210	2	Sangwa Bulama Asuku
 Bula Bulin	Gwoza	Borno	11.312	13.674	2	
 Gashiga	Maiha	Adamawa	9.800	13.167	2	Buda Manga;Manga
 Bukuru	Jos South	Plateau	9.800	8.867	2	
-Bungudu	Bungudu	Zamfara	12.268	6.554	3	
 Busau	Wurno	Sokoto	13.258	5.468	2	
 Bolou-Ndoro	Burutu	Delta	5.072	5.614	2	Bulou Ndoro;Ndoro
-Burutu	Burutu	Delta	5.352	5.508	3	
 Bulama	Dukku	Gombe	11.044	11.019	2	
 Juma’a Bubaram	Nangere	Yobe	11.770	11.175	2	Juma’a;Bubaram
 Barguma	Kaga	Borno	11.601	12.407	2	Burguma
@@ -255,7 +268,6 @@ Bude	Gwandu	Kebbi	12.581	4.705	2
 Bunu Barana	Tai	Rivers	4.762	7.242	2	
 Buan	Khana	Rivers	4.613	7.490	2	
 Bukolum	Andoni	Rivers	4.495	7.472	2	
-New Bussa	Borgu	Niger	9.883	4.510	3	
 Burwanga	Rabah	Sokoto	13.082	5.988	2	
 Buda	Ganjuwa	Bauchi	10.691	10.214	2	Bude
 Bununu Dass	Dass	Bauchi	10.001	9.517	2	
@@ -287,7 +299,6 @@ Mainari (Bulabulin)	Abadam	Borno	13.530	13.219	2
 Buzaga	Tangaza	Sokoto	13.741	4.870	2	
 Gidan Busa	Kafur	Katsina	11.435	7.676	2	Busa
 Bingel Sarkin-Koni	Arewa Dandi	Kebbi	13.181	4.459	2	Bungel
-Buruku	Chikun	Kaduna	10.618	7.233	3	
 Bure	Kirfi	Bauchi	10.314	10.781	2	
 Bukoli	Yabo	Sokoto	12.855	5.032	2	
 Bundun	Toro	Bauchi	10.267	9.159	2	Bundum
@@ -316,24 +327,8 @@ Bundila	Dass	Bauchi	9.982	9.496	2
 Lopere	Bama	Borno	11.437	13.610	2	Bula Juwa
 Sangon Buza	Illela	Sokoto	13.632	5.486	2	
 Guidan Buzu	Bungudu	Zamfara	12.350	6.501	2	
-Fadeyi Bus Stop	Shomolu	Lagos	6.525	3.368	0	
-ECTS (Comrade Bus)	Oredo	Edo	6.334	5.623	0	
-Bulwark doors	Oredo	Edo	6.314	5.610	0	
-Bus Stop	Oredo	Edo	6.329	5.628	0	
 Kalimbori Bulama Ali	Mobbar	Borno	13.307	12.723	2	
 Ngudowa Bulama Matta Kellu	Mobbar	Borno	13.323	12.764	2	
-Idi-osan Bus Stop	Egbeda	Oyo	7.448	4.026	0	
-Mile 12 Bus Stop	Kosofe	Lagos	6.606	3.400	0	
-E.C.T.S Bus Stop	Oredo	Edo	6.333	5.605	0	
-Sunroni bussiness center	Oredo	Edo	6.330	5.627	0	
-E.C.T.S Bus Stop	Egor	Edo	6.329	5.588	0	
-Bus Stop	Oredo	Edo	6.345	5.636	0	
-ECTS (Comrade) Bus Stop	Oredo	Edo	6.337	5.621	0	
-Bus Stop	Oredo	Edo	6.335	5.623	0	
-De Modern Bus Station	Oredo	Edo	6.347	5.623	0	
-National Bus Stop	Muhammadu Dikko Stadium	Katsina	12.984	7.601	0	
-Ogba Bus Park	Ikeja	Lagos	6.633	3.342	0	
-Bum-Bum Health Post	Bichi	Kano	12.249	8.397	0	
 Busayel	Dawakin Kudu	Kano	11.842	8.631	2	
 Burji	Doguwa	Kano	11.170	8.549	2	
 Buk Old Site	Gwale	Kano	11.979	8.478	2	
@@ -341,16 +336,10 @@ Buri	Tudun Wada	Kano	11.238	8.422	2
 Burtu	Ajingi	Kano	12.060	9.157	2	
 Buremawa Waje	Gwarzo	Kano	11.911	7.944	2	
 Tudun Burtu	Gwarzo	Kano	11.927	7.944	2	
-Boluwaji Bus Stop	Ibadan South East	Oyo	7.341	3.907	0	
-Dogo Bus Stop	Ibadan South West	Oyo	7.383	3.828	0	
-Synagogue Bus-Stop	Alimosho	Lagos	6.546	3.272	0	
-Ikotun Bus Station	Alimosho	Lagos	6.549	3.268	0	
 Bulanjiling	Gwoza	Borno	11.227	13.320	2	
 Bulazarma	Biu	Borno	10.969	12.077	2	
-Bula Bul (Tumbun Gini)	Abadam	Borno	13.465	13.659	3	
 Dumaram B Bura	Mobbar	Borno	13.281	12.683	2	
 Bulamari	Mobbar	Borno	13.329	12.818	2	
-Ghumma	Hawul	Borno	10.524	12.255	3	Fuma Bura
 Alhaji Buremti	Mobbar	Borno	13.100	12.511	2	
 Busuna Lawanti	Abadam	Borno	13.679	13.339	2	Busuna
 Mai Anguwa Saidu Budam	Shani	Borno	10.320	11.960	2	Budam
@@ -421,7 +410,6 @@ Bukar Kimeri	Gubio	Borno	12.469	12.886	2
 Bulgajiri	Gubio	Borno	12.527	12.865	2	
 Buluri	Gubio	Borno	12.407	12.868	2	
 Gadai Bulamari	Nganzai	Borno	12.391	12.950	2	
-Gadai Bulamari	Nganzai	Borno	12.402	12.946	2	
 Gamoyo Bul	Nganzai	Borno	12.491	12.912	2	
 Goni Bukarti	Gubio	Borno	12.433	12.883	2	
 Mallam Burari	Gubio	Borno	12.526	12.895	2	
@@ -559,7 +547,6 @@ Bulama Garwari	Gubio	Borno	12.916	12.759	2
 Bulama Kyariri	Gubio	Borno	12.921	12.770	2	
 Goni Buranti	Gubio	Borno	12.915	12.773	2	
 Yaumari Bulamari	Gubio	Borno	12.941	12.804	2	
-Yaumari Bulamari	Gubio	Borno	12.942	12.822	2	
 Bukar Fannari	Magumeri	Borno	12.167	12.786	2	
 Bukar Kadauri	Magumeri	Borno	12.045	12.747	2	
 Bukar Sulumti	Magumeri	Borno	12.163	12.759	2	
@@ -622,7 +609,6 @@ Bursari	Gubio	Borno	12.626	12.609	2
 Jawu Bulamari	Gubio	Borno	12.631	12.592	2	
 Mallam Bukarti	Gubio	Borno	12.680	12.641	2	
 Zannari Bulamari	Gubio	Borno	12.628	12.567	2	Zannari
-Bukuma Jetty	Asari-Toru	Rivers	4.739	6.882	0	
 Fago Buhari	Bayo	Borno	10.277	11.739	2	
 Jauro Buhari	Bayo	Borno	10.231	11.725	2	
 Bukar Kukuri	Nganzai	Borno	12.610	13.321	2	Ali Anari
@@ -740,7 +726,6 @@ Paka Bura	Kwaya Kusar	Borno	10.365	12.011	2	Paka
 Panchari Bura	Kwaya Kusar	Borno	10.428	11.996	2	
 Bulama Abdul Maina	Shani	Borno	10.333	12.216	2	
 Bulama Debe Sungwa 1	Shani	Borno	10.330	12.211	2	
-Buma Maternity and Child Health	Hawul	Borno	10.329	12.178	0	
 Malum Bukarti	Abadam	Borno	13.062	13.255	2	
 Bula Abba Gona Amarckaya	Abadam	Borno	13.319	13.005	2	
 Sheri Bultuwa	Mobbar	Borno	13.341	12.935	2	
@@ -774,23 +759,19 @@ Bubal Wada B	Biu	Borno	10.638	12.201	2
 Shangul Anguwan Bulama	Biu	Borno	10.638	12.154	2	
 Bula Ngilang	Bama	Borno	11.701	13.759	2	
 Buwa	Monguno	Borno	12.610	13.510	2	
-Buwa Health Clinic	Monguno	Borno	12.609	13.509	0	
 Bulonguwa Maibe	Dikwa	Borno	11.941	13.881	2	
 Bulonguwa	Dikwa	Borno	12.018	13.961	2	
-Burguma Dispensary	Kaga	Borno	11.601	12.405	0	
 Tarfa Bulama B	Biu	Borno	10.617	12.432	2	
 Yaya Bukar	Biu	Borno	10.719	11.951	2	
 Bubal Wada	Biu	Borno	10.728	12.152	2	
 Bulama Bukar	Biu	Borno	10.708	12.255	2	
 Huma B Bukar	Biu	Borno	10.708	12.186	2	
 Bidingeri	Konduga	Borno	11.682	13.367	2	Budingeri
-Budingeri Health Clinic	Konduga	Borno	11.682	13.366	0	
 Buna	Biu	Borno	10.892	11.715	2	
 Bulama Karabima	Damboa	Borno	11.236	12.763	2	
 Bula Njimbam	Damboa	Borno	11.199	12.614	2	Bulajimbam
 Bulabulin	Damboa	Borno	11.211	12.598	2	
 Buraltuma	Damboa	Borno	11.154	12.702	2	
-Bulungu Health Clinic	Bama	Borno	11.434	13.794	0	
 Buderi	Bama	Borno	11.454	13.939	2	
 Budumri	Bama	Borno	11.431	13.811	2	
 Bula Burguma	Bama	Borno	11.424	13.779	2	
@@ -801,19 +782,7 @@ Bula Madagermbe	Bama	Borno	11.377	13.975	2
 Bula Mattabe	Bama	Borno	11.405	13.873	2	
 Burari	Bama	Borno	11.409	13.855	2	
 Karnowa Bula Adamu	Bama	Borno	11.498	13.767	2	
-Buni Yadi	Gujba	Yobe	11.274	12.008	0	
-Baptist Bus Stop	Lagelu	Oyo	7.433	3.942	0	
-Last bus stop	Alimosho	Lagos	6.499	3.242	0	
 Bukar Saidi	Lafia	Nasarawa	8.533	8.533	2	
-Bugama Jetty	Asari-Toru	Rivers	4.731	6.863	0	
-Ojuore bus stop	Ado Odo/Ota	Ogun	6.689	3.226	0	
-Iya Segun bus stop	Alimosho	Lagos	6.499	3.245	0	
-Judiciary bus stop	Afikpo North	Ebonyi	5.806	7.924	0	
-Adexson Ilepo Busstop	Alimosho	Lagos	6.529	3.216	0	
-Liberty Bus-Stop	Alimosho	Lagos	6.613	3.267	0	
-Stop over bus stop	Oshodi/Isolo	Lagos	6.554	3.325	0	
-Junction bus stop	Oshodi/Isolo	Lagos	6.552	3.329	0	
-Nyanya bus station	Municipal Area Council	FCT Abuja	9.023	7.571	0	
 Bukar Kannari	Monguno	Borno	12.651	13.533	2	
 Busumma	Monguno	Borno	12.651	13.502	2	
 Gajere Budumari	Monguno	Borno	12.772	13.863	2	
@@ -823,11 +792,10 @@ Dabar Masara Bulama Goni Zarami	Monguno	Borno	12.714	13.638	2
 Giza Bulama Bukar	Monguno	Borno	12.255	13.380	2	
 Gogo Buriyum	Monguno	Borno	12.714	13.851	2	
 Bukar Meram	Monguno	Borno	12.641	14.059	2	
-BUA_3	Monguno	Borno	12.661	14.074	2	
+Bua_3	Monguno	Borno	12.661	14.074	2	
 Kalla Maulau Bulamari	Guzamala	Borno	12.919	13.501	2	
 Fuwaliri Bulaburin	Guzamala	Borno	12.900	13.532	2	
 Fuwaliri Bulamari	Guzamala	Borno	12.898	13.524	2	
-Oja Ota Bus Stop	Ado Odo/Ota	Ogun	6.684	3.215	0	
 Moworam Bukar Kiriyaye	Guzamala	Borno	12.830	13.274	2	
 Kadugure Goni Bukarti	Nganzai	Borno	12.599	13.360	2	
 Keleno Bulama Modu	Guzamala	Borno	12.754	13.403	2	
@@ -915,35 +883,8 @@ Kolgifayo Bulamari	Konduga	Borno	11.654	13.168	2
 Bulabulin Molut	Konduga	Borno	11.547	13.185	2	
 Koya Bulama B	Jere	Borno	11.768	13.231	2	
 Buniya Ngumari	Magumeri	Borno	12.000	12.714	2	
-General Paint Bus Stop	Eti Osa	Lagos	6.471	3.590	0	
-Liquid Bulk Filling Station	Obio/Akpor	Rivers	4.853	7.062	0	
-Eleshingodogbo Bus-stop	Egbeda	Oyo	7.450	4.032	0	
-Elele Bus stop	Ìkòròdú	Lagos	6.673	3.479	0	
-MANUAH BUSTOP	Enugu South	Enugu	6.425	7.508	0	
 Buderi	Silame	Sokoto	13.023	4.786	2	
 Kaura Buba	Bodinga	Sokoto	12.932	5.114	2	
-NASFTS Buni Yadi	Gujba	Yobe	11.245	12.014	0	
-Badiko Bus Stop	Kaduna South	Kaduna	10.534	7.410	0	
-Ogijo Bus Stop	Shagamu	Ogun	6.706	3.510	0	
-Rock Canaan bus stop	Ado Odo/Ota	Ogun	6.731	3.269	0	
-Tinapa Business and Resort	Odukpani	Cross River	5.051	8.316	0	
-Aruna Bus Stop	Ìkòròdú	Lagos	6.625	3.493	0	
-Agric Bus Stop	Ìkòròdú	Lagos	6.625	3.488	0	
-Majidun Ogolonto Bus Stop	Ìkòròdú	Lagos	6.620	3.473	0	
-Majidun Awori Bus Stop	Ìkòròdú	Lagos	6.619	3.463	0	
-Irawo Bus Stop	Kosofe	Lagos	6.610	3.422	0	
-Idera Bus Stop	Kosofe	Lagos	6.612	3.416	0	
-Idera Bus Stop	Kosofe	Lagos	6.612	3.415	0	
-Onirin Bus Stop	Kosofe	Lagos	6.609	3.409	0	
-Mile 12 Bus Stop	Kosofe	Lagos	6.604	3.402	0	
-Igbogbo Bus Terminus	Ìkòròdú	Lagos	6.589	3.519	0	
-Bularaba HEALTH CURE	Gulani	Yobe	11.070	11.794	0	
-Adewumi Bus Stop	Egbeda	Oyo	7.451	4.034	0	
-Bunvic Invest. Nig. Ltd.	Ogbomosho North	Oyo	8.142	4.243	0	
-Anthony Bus Stop	Ikeja	Lagos	6.559	3.367	0	
-Maryland Bus Stop	Ikeja	Lagos	6.575	3.370	0	
-Maryland Bus Stop	Ikeja	Lagos	6.574	3.369	0	
-Vulcanizer Bus Stop	Alimosho	Lagos	6.601	3.301	0	
 Gidan Mai Bukka	Rogo	Kano	11.379	7.778	2	
 Buzaye	Kabo	Kano	11.838	8.250	2	
 Kyallin Bula	Bichi	Kano	12.384	8.128	2	
@@ -963,7 +904,6 @@ Bujawa Kanawa	Gezawa	Kano	12.134	8.744	2	Bujawa
 Mesa Burmi	Gezawa	Kano	12.149	8.742	2	
 Unguwar Burabisai	Madobi	Kano	11.856	8.478	2	
 Yan Bukar	Dawakin Kudu	Kano	11.800	8.796	2	
-Zangon Baure	Bunkure	Kano	11.699	8.540	3	Bunkure
 Bugaje	Bunkure	Kano	11.721	8.594	2	
 Bugau	Kura	Kano	11.742	8.475	2	
 Unguwar Busau	Garko	Kano	11.557	8.996	2	Unguwar Kuka;Unguwan Kuka
@@ -973,9 +913,1033 @@ Bunturu	Sumaila	Kano	11.404	8.856	2
 Burdugu	Tudun Wada	Kano	11.346	8.761	2	
 Buda Hurumi	Garko	Kano	11.602	8.783	2	
 Burmunawa	Sumaila	Kano	11.304	8.830	2	Birminawa
-Burun Burun	Tudun Wada	Kano	11.391	8.725	3	Burumburum
 Zangon Buhari	Bunkure	Kano	11.662	8.549	2	
 Buran Cikin Gari	Rano	Kano	11.446	8.566	2	
+Budua	Jakusko	Yobe	12.201	10.879	2	
+Buragbene	Southern Ijaw	Bayelsa	4.691	5.636	2	
+Butatong	Boki	Cross River	6.420	9.147	2	
+Buabre	Boki	Cross River	6.421	9.247	2	
+Bukari	Yunusari	Yobe	13.157	11.538	2	
+Buni Yadi	Gujba	Yobe	11.288	12.034	2	
+Bularafa	Gulani	Yobe	11.133	11.820	2	
+Bultuwa	Yunusari	Yobe	12.965	12.059	2	
+Bumsa	Gulani	Yobe	11.016	11.773	2	
+Bulanguwa	Nguru	Yobe	12.997	10.359	2	
+Bukarti	Karasuwa	Yobe	12.937	10.872	2	
+Bulatura	Yusufari	Yobe	13.174	11.140	2	
+Bulabulin	Nguru	Yobe	12.855	10.475	2	
+Buduru	Garki	Jigawa	12.389	9.272	2	
+Buji	Buji	Jigawa	11.512	9.671	2	
+Bulunchai	Kiri Kasama	Jigawa	12.607	10.215	2	
+Buntusu	Gwiwa	Jigawa	12.730	8.268	2	
+Bungudu	Bungudu	Zamfara	12.308	6.540	2	
+Bungudu	Bungudu	Zamfara	12.008	6.516	2	
+Bukkuyum	Bukkuyum	Zamfara	12.184	5.498	2	
+Bunkari	Binji	Sokoto	13.121	4.921	2	
+Bunza Marafa	Bunza	Kebbi	12.096	3.972	2	
+Bunza Dangaladima	Bunza	Kebbi	12.048	4.009	2	
+Bui	Arewa Dandi	Kebbi	12.722	4.134	2	
+Buma	Dandi	Kebbi	11.649	3.725	2	
+Bunza	Bunza	Kebbi	12.201	3.934	2	
+Bubuche	Augie	Kebbi	12.826	4.651	2	
+Bukkuyum	Bukkuyum	Zamfara	11.985	5.583	2	
+Buda	Kajuru	Kaduna	10.359	7.642	2	
+Burun-Burun	Tudun Wada	Kano	11.400	8.732	2	
+Burji	Madobi	Kano	11.889	8.415	2	
+Butu-Butu	Rimin Gado	Kano	11.954	8.213	2	
+Bunkure	Bunkure	Kano	11.679	8.519	2	
+Bunkure	Bunkure	Kano	11.669	8.549	2	
+Bumai	Kunchi	Kano	12.486	8.186	2	
+Bugaje	Jibia	Katsina	12.971	7.463	2	
+Bumbum A	Mai'Adua	Katsina	13.271	8.113	2	
+Bujawa	Mani	Katsina	12.873	8.043	2	
+Bumbum B	Mai'Adua	Katsina	13.213	8.137	2	
+Bugagadi	Dutsin Ma	Katsina	12.435	7.586	2	
+Burdugau	Kankara	Katsina	11.880	7.513	2	
+Buruku	Buruku	Benue	7.419	9.214	2	
+Kabba/Bunu	Kabba/Bunu	Kogi	8.070	6.141	2	
+Buni Gari	Gujba	Yobe	11.331	12.156	2	
+Busuna	Abadam	Borno	13.698	13.348	2	
+Bundur	Kukawa	Borno	12.869	13.727	2	
+Buratai	Biu	Borno	10.965	12.159	2	
+Buma	Shani	Borno	10.293	12.221	2	
+Buduwa	Jakusko	Yobe	12.198	10.827	2	
+Bundot	Dass	Bauchi	10.009	9.539	2	
+Bununu South	Dass	Bauchi	9.927	9.588	2	
+Bursali	Zaki	Bauchi	12.436	10.679	2	
+Bulangu	Kafin Hausa	Jigawa	12.078	10.115	2	
+Bula A	Tafawa-Balewa	Bauchi	9.981	9.651	2	
+Bununu A	Tafawa-Balewa	Bauchi	9.880	9.653	2	
+Bununu East	Dass	Bauchi	9.992	9.542	2	
+Bununu West	Dass	Bauchi	9.941	9.472	2	
+Bununu Central	Dass	Bauchi	10.001	9.508	2	
+Bununu B	Tafawa-Balewa	Bauchi	9.776	9.726	2	
+Bugun	Bogoro	Bauchi	9.591	9.705	2	
+Bula B	Tafawa-Balewa	Bauchi	9.831	9.604	2	
+Buskuri	Katagum	Bauchi	11.699	10.340	2	
+Buzawa	Itas/Gadau	Bauchi	11.799	9.824	2	
+Bukul	Shira	Bauchi	11.322	9.969	2	
+Burra	Ningi	Bauchi	11.049	8.917	2	
+Bulabulin	Maiduguri	Borno	11.836	13.159	2	
+Bulabulin	Gwoza	Borno	11.105	13.644	2	
+Central Business District	Municipal Area Council	FCT Abuja	9.058	7.494	2	
+Buji	Buji	Jigawa	11.548	9.732	2	
+Burutu	Burutu	Delta	5.240	5.569	2	
+Gidan Bubu	Wamako	Sokoto	13.114	5.182	2	
+Yimilarin Bula Wofi Gana	Askira-Uba	Borno	10.607	12.986	2	
+Yimilarin Bulayani	Askira-Uba	Borno	10.635	13.003	2	Yimilarin Bula Mute Gana|Yimilarin Bulayan
+Wuro Bunga	Kirfi	Bauchi	10.430	10.735	2	
+Wuro Bundu	Misau	Bauchi	11.450	10.567	2	
+Wuro Bundu	Darazo	Bauchi	10.839	10.552	2	
+Wuro Buka	Jada	Adamawa	8.745	12.195	2	
+Wuro Buba	Shelleng	Adamawa	10.036	12.072	2	
+Wuro Buba	Mayo-Belwa	Adamawa	8.941	11.980	2	
+Wuro Buba	Mayo-Belwa	Adamawa	8.917	12.098	2	
+Wuro Buba	Jada	Adamawa	8.645	12.382	2	
+Wuro Buba	Jada	Adamawa	8.657	12.289	2	
+Wazilikafi Bubua	Askira-Uba	Borno	10.586	12.981	2	
+Wakili Buba	Sardauna	Taraba	7.004	11.162	2	
+Ungwar Hayatu	Girei	Adamawa	9.536	12.435	2	Bumara
+Unguwan Bunungu	Rano	Kano	11.350	8.545	2	
+Tugan Bujoije	Sabon Birni	Sokoto	13.517	5.967	2	
+Tarari	Kukawa	Borno	12.930	13.615	2	Bulabulin
+Takulashi Buladunya	Chibok	Borno	10.794	12.750	2	
+Tabang Bulayahi	Askira-Uba	Borno	10.647	12.978	2	
+Tabang Bula Boni	Chibok	Borno	10.732	12.898	2	
+Sire Bundum	Kalgo	Kebbi	12.267	4.040	2	
+Rorel Burle	Sardauna	Taraba	7.016	11.236	2	
+Rafin Buda	Tureta	Sokoto	12.583	5.467	2	
+Oshun-Budepo	Ijebu North	Ogun	7.038	4.072	2	Oshun|Oshun Budepo
+Nyamgha Bulama Pindar	Askira-Uba	Borno	10.675	12.491	2	
+Nyamgha Bulagara	Askira-Uba	Borno	10.649	12.511	2	
+Ngadarma Butu	Chibok	Borno	10.733	12.850	2	
+Ngadarma Bulayahi	Chibok	Borno	10.713	12.872	2	
+Baruo	Nafada	Gombe	11.105	11.242	2	Baruo Nasarawa|Baruo Nassarawa|Baruwo|Buruo|Nasarawa
+Momadu Bukumiri	Kaga	Borno	11.743	12.703	2	
+Mbowa Bulatal	Chibok	Borno	10.935	12.760	2	
+Mbayilan-Bur	Konshisha	Benue	7.082	8.621	2	
+Mayo Butale	Teungo	Adamawa	7.982	11.988	2	Maio-Butale
+Mayo Buta	Bali	Taraba	7.880	10.636	2	
+Mallam Buku	Biu	Borno	10.792	11.761	2	
+Leho Bulayahi	Askira-Uba	Borno	10.695	12.862	2	
+Leho Bulama Yaro	Askira-Uba	Borno	10.679	12.771	2	
+Leho Bulama Birngin	Askira-Uba	Borno	10.655	12.791	2	
+Lafiyan Bure	Alkaleri	Bauchi	9.990	10.488	2	
+Kutaran Buzu	Kachia	Kaduna	10.029	7.817	2	
+Kukin Burera	Jama'Are	Bauchi	11.600	9.883	2	
+Korongelen Bula-Abo	Chibok	Borno	10.867	12.699	2	
+Korohuma Bulama Bulabukar	Chibok	Borno	10.737	12.735	2	
+Kondoro-Budo-Ole	Asa	Kwara	8.646	4.380	2	Kandoro
+Kasakciya Bula Tukur	Askira-Uba	Borno	10.665	12.945	2	
+Kasakciya Bula-Mutekuse	Askira-Uba	Borno	10.658	12.965	2	
+Kasakciya Bulamadu	Chibok	Borno	10.736	12.981	2	
+Kasachcha Bulachari	Damboa	Borno	10.954	12.622	2	
+Kabaram Burdigi	Nganzai	Borno	12.499	12.956	2	Burdigi Kabaram
+Juwe Bum	Guma	Benue	7.712	8.721	2	
+Jiman Buwanga	Teungo	Adamawa	7.875	11.727	2	
+Jauro Buba	Mayo-Belwa	Adamawa	8.995	12.039	2	
+Jauro Buba	Mayo-Belwa	Adamawa	8.726	11.833	2	
+Jauro Buba	Jada	Adamawa	8.642	12.095	2	
+Jaju Budo Nla	Asa	Kwara	8.317	4.467	2	Liasu
+Imirfaya Bulagole	Chibok	Borno	10.940	12.714	2	
+Budokubokiri	Asari-Toru	Rivers	4.698	6.894	2	Ibudokubokiri
+Hizshi Bura	Hawul	Borno	10.524	12.311	2	
+Gulan Bubu	Bayo	Borno	10.262	11.734	2	Gulan
+Guduf Bubaya Gawa	Gwoza	Borno	11.074	13.736	2	
+Grema Burari	Karasuwa	Yobe	12.974	10.906	2	Grama Burari
+Giware Buba	Fufore	Adamawa	8.849	12.645	2	
+Gidan Busa	Kachia	Kaduna	9.786	7.449	2	
+Gidan Buhari	Rafi	Niger	10.467	6.417	2	
+Gidan-Budu	Tambuwal	Sokoto	12.671	4.820	2	
+Gatamarua Bula-Tumur	Askira-Uba	Borno	10.638	12.977	2	
+Gatamarua Bula-Sanya	Chibok	Borno	10.730	12.998	2	
+Gatamarua Bula-Gaji	Chibok	Borno	10.712	12.988	2	Gatamarua
+Gartu Buna	Biu	Borno	10.655	12.072	2	
+Garin Buba Liman	Gassol	Taraba	8.754	10.919	2	
+Garin Buba Galadima	Ardo-Kola	Taraba	8.734	10.969	2	
+Gara Bulla	Biu	Borno	10.704	11.966	2	Garubila
+Furram	Magumeri	Borno	12.265	12.786	2	Busagwa
+Fuma Bura	Hawul	Borno	10.525	12.255	2	
+Fadiya Busan	Zangon Kataf	Kaduna	9.752	8.248	2	
+Fadiya Bukut	Zangon Kataf	Kaduna	9.759	8.243	2	
+Dole	Dange-Shuni	Sokoto	12.867	5.450	2	Bunge
+Dan Bubo	Bebeji	Kano	11.602	8.236	2	
+Chutar Buki	Bebeji	Kano	11.426	8.313	2	
+Shole Buba	Nafada	Gombe	11.024	11.346	2	Chole
+Chanchan Bulguman Yamma	Askira-Uba	Borno	10.668	12.897	2	
+Chanchan Bulguman Gabas	Askira-Uba	Borno	10.671	12.906	2	
+Bueru	Baruten	Kwara	9.667	3.443	2	Beru|Bwero
+Buzoti	Zing	Taraba	8.952	11.804	2	
+Buzawa	Itas/Gadau	Bauchi	11.769	9.707	2	
+Tude	Kuje	FCT Abuja	8.555	7.155	2	Buzai Tudai|Tudai|Tudar
+Buzai	Kagarko	Kaduna	9.615	7.901	2	
+Buyi	Paikoro	Niger	9.390	6.706	2	
+Buweti	Ganye	Adamawa	8.552	11.967	2	
+Buwu	Askira-Uba	Borno	10.647	12.603	2	
+Buturi	Borsari	Yobe	12.919	11.203	2	
+Butuku	Madagali	Adamawa	10.896	13.384	2	
+Butubutu	Rimin Gado	Kano	11.966	8.210	2	
+Butu	Paikoro	Niger	9.423	6.552	2	
+Butu	Paikoro	Niger	9.306	6.528	2	
+Buter	Kwande	Benue	6.893	9.504	2	
+Butauwa	Kura	Kano	11.804	8.420	2	
+Buta	Gwer East	Benue	7.443	8.595	2	
+Bususu	Jama'Are	Bauchi	11.566	9.874	2	
+Busuru	Agwara	Niger	10.803	4.610	2	
+Busum	Funakaye	Gombe	10.756	11.426	2	
+Busum	Kwami	Gombe	10.572	11.412	2	
+Busum	Kurmi	Taraba	7.151	10.737	2	
+Busu	Edati	Niger	8.914	6.052	2	
+Busogmi	Paikoro	Niger	9.523	6.880	2	
+Busoboro	Zing	Taraba	8.880	11.704	2	
+Buso	Demsa	Adamawa	9.558	12.145	2	
+Bushira	Baruten	Kwara	9.411	3.282	2	
+Bushanki	Zing	Taraba	8.924	11.755	2	
+Busawa	Shagari	Sokoto	12.542	4.938	2	
+Busari	Atiba	Oyo	7.952	4.051	2	
+Busari	Ibarapa East	Oyo	7.512	3.558	2	
+Busangi	Song	Adamawa	9.816	12.377	2	
+Busangfong	Obanliku	Cross River	6.630	9.224	2	
+Busamodi	Fune	Yobe	11.593	11.288	2	
+Busai	Bauchi	Bauchi	10.244	9.659	2	
+Buruta	Borsari	Yobe	12.767	11.621	2	
+Buru Sama	Kurmi	Taraba	7.028	10.908	2	
+Buruo	Nafada	Gombe	11.100	11.233	2	Baruo
+Burumburum	Tudun Wada	Kano	11.391	8.723	2	
+Burumburum	Lafia	Nasarawa	8.517	8.367	2	
+Burum	Gurara	Niger	9.381	7.064	2	
+Burum	Municipal Area Council	FCT Abuja	8.911	7.492	2	
+Burum	Ganye	Adamawa	8.613	11.974	2	
+Buruluk	Shani	Borno	10.245	11.974	2	
+Buruku	Toro	Bauchi	10.813	8.948	2	
+Burukiri	Nembe	Bayelsa	4.607	6.302	2	
+Buru	Gurara	Niger	9.313	7.047	2	
+Buru	Kurmi	Taraba	7.021	10.884	2	
+Sabon Gari	Nafada	Gombe	11.102	11.236	2	Burruo Sabon Gari
+Burru	Akwanga	Nasarawa	8.933	8.333	2	
+Burra	Ningi	Bauchi	11.016	8.902	2	
+Burmawa	Yankwashi	Jigawa	12.717	8.624	2	
+Bermandi	Kwaya Kusar	Borno	10.548	11.960	2	Burmandi
+Buro Lawal	Dukku	Gombe	10.800	10.682	2	
+Burkornu	Igabi	Kaduna	10.631	7.610	2	
+Burkono	Jada	Adamawa	8.494	12.333	2	
+Burji	Madobi	Kano	11.905	8.394	2	
+Buri	Toro	Bauchi	10.191	9.132	2	
+Burgunya	Taura	Jigawa	12.293	9.133	2	
+Burga	Tafawa-Balewa	Bauchi	9.811	9.840	2	
+Buren Duguri	Alkaleri	Bauchi	9.991	10.475	2	
+Bure	Girei	Adamawa	9.604	12.453	2	
+Burdugau	Malumfashi	Katsina	11.786	7.477	2	
+Burdinga	Toro	Bauchi	10.574	9.049	2	
+Burdamanna	Machina	Yobe	12.947	9.833	2	
+Burba	Teungo	Adamawa	7.958	11.327	2	
+Burba	Sardauna	Taraba	7.182	11.068	2	
+Buratai	Biu	Borno	10.905	12.089	2	Burutai
+Bwarat	Langtang North	Plateau	9.186	9.803	2	Burat
+Burari	Alkaleri	Bauchi	10.153	10.770	2	
+Burama	Gombi	Adamawa	10.074	12.538	2	
+Burama	Song	Adamawa	10.030	12.530	2	
+Burakum	Biu	Borno	10.631	12.093	2	
+Burako	Ganjuwa	Bauchi	10.941	9.980	2	
+Buraimoh	Ona Ara	Oyo	7.243	4.017	2	
+Buraimawa	Kiru	Kano	11.693	8.168	2	
+Burai	Fika	Yobe	11.507	11.323	2	
+Bur	Obi	Nasarawa	8.333	8.968	2	
+Buptan	Teungo	Adamawa	8.009	12.161	2	
+Boibokokiri	Degema	Rivers	4.596	6.835	2	Buoybokokiri|Buoybokukiri
+Bunyam	Awe	Nasarawa	8.345	9.078	2	
+Bununu	Tafawa-Balewa	Bauchi	9.882	9.681	2	Bununu Kasa|Bununu Kassa
+Buntusu	Gwiwa	Jigawa	12.730	8.255	2	
+Bunto	Fufore	Adamawa	8.866	12.585	2	
+Bunsura	Ikara	Kaduna	11.194	8.402	2	
+Bunsari	Maigatari	Jigawa	12.677	9.678	2	
+Bunkawo	Sardauna	Taraba	7.220	11.030	2	
+Buni	Gujba	Yobe	11.201	12.031	2	
+Bungudu	Demsa	Adamawa	9.526	12.073	2	
+Bungel	Maiha	Adamawa	9.641	13.218	2	
+Bungan Bauchi	Ganjuwa	Bauchi	11.043	9.639	2	
+Bumgai	Gujba	Yobe	11.220	11.856	2	Bungai
+Bunga	Zurmi	Zamfara	12.786	6.846	2	
+Bunga	Warji	Bauchi	11.067	9.633	2	
+Bunga	Fufore	Adamawa	9.508	13.009	2	
+Bunga	Bali	Taraba	7.852	10.883	2	
+Bundur	Kukawa	Borno	12.895	13.695	2	Bindur
+Bundila	Dass	Bauchi	9.981	9.491	2	
+Bundiai	Jama'Are	Bauchi	11.673	9.989	2	
+Bundi	Gubio	Borno	12.676	12.800	2	
+Bunaji	Bungudu	Zamfara	12.338	6.635	2	
+Buna	Awe	Nasarawa	8.366	9.013	2	
+Bumsa	Gulani	Yobe	11.037	11.731	2	
+Bumnid	Bogoro	Bauchi	9.530	9.659	2	
+Bumlar	Tafawa-Balewa	Bauchi	9.722	9.794	2	
+Bumbulum	Biu	Borno	10.651	11.950	2	
+Bumbul	Ushongo	Benue	7.210	8.891	2	
+Bumbe	Obudu	Cross River	6.595	9.008	2	
+Bomanda	Karim Lamido	Taraba	9.070	10.876	2	Bumanda
+Bum	Biu	Borno	10.602	12.101	2	
+Bum	Riyom	Plateau	9.720	8.660	2	
+Bulyital	Tafawa-Balewa	Bauchi	9.890	9.702	2	
+Bulus	Damban	Bauchi	11.681	10.768	2	
+Bulum	Ganjuwa	Bauchi	10.708	9.838	2	
+Bululi	Song	Adamawa	10.002	12.559	2	
+Buluk Buluk	Yunusari	Yobe	13.150	11.481	2	
+Buluka	Gboko	Benue	7.269	8.655	2	
+Bulturi	Abadam	Borno	13.465	12.933	2	
+Bulturi	Bama	Borno	11.434	13.793	2	
+Bulturi	Kwami	Gombe	10.587	11.399	2	
+Bulturam	Yunusari	Yobe	13.143	11.979	2	
+Bultawa	Fune	Yobe	11.910	11.734	2	Bula Kawa
+Bulungwa	Mafa	Borno	11.886	13.828	2	Bulonguwa
+Bulongu	Bama	Borno	11.449	13.788	2	
+Bulo	Jada	Adamawa	8.812	12.693	2	
+Gulmari	Kirfi	Bauchi	10.285	10.514	2	Bulmari
+Bullam	Barde	Yobe	12.669	11.152	2	
+Bullagaidum	Funakaye	Gombe	10.863	11.493	2	
+Bulla	Akko	Gombe	10.346	11.005	2	
+Bulbul	Kazaure	Jigawa	12.610	8.607	2	
+Bulbul	Dukku	Gombe	10.807	10.639	2	
+Bulbul	Dukku	Gombe	10.784	10.811	2	
+Bulawoni	Fune	Yobe	11.525	11.488	2	Bulawone
+Bulawa	Darazo	Bauchi	11.400	10.767	2	
+Bulaudo	Gamawa	Bauchi	11.944	10.709	2	
+Bularaba	Gulani	Yobe	11.072	11.802	2	
+Bulanna	Gamawa	Bauchi	12.283	10.653	2	
+Bula Nkyaki	Chibok	Borno	10.750	12.886	2	
+Bulanguwa	Fune	Yobe	11.444	11.420	2	
+Bulanguarum	Nguru	Yobe	13.026	10.450	2	
+Bulanguaram	Yunusari	Yobe	13.097	11.881	2	
+Bula Mel	Biu	Borno	10.624	12.183	2	
+Bulamari	Darazo	Bauchi	10.953	10.411	2	
+Bulamalum	Chibok	Borno	10.750	12.864	2	
+Bula-Mallambe	Bama	Borno	11.415	14.089	2	
+Bula Makoama	Biu	Borno	10.744	12.149	2	
+Bula Maikari	Borsari	Yobe	12.570	11.690	2	Bula Mainari
+Bulama	Gamawa	Bauchi	12.302	10.662	2	
+Garin Bulamo	Dukku	Gombe	11.042	11.019	2	Bulama
+Bulakos	Fika	Yobe	11.575	11.153	2	
+Bula Korege	Bama	Borno	11.365	13.679	2	
+Bula Karebe	Bama	Borno	11.395	14.085	2	
+Bula Kafie	Bama	Borno	11.468	14.267	2	
+Bula Julta	Konduga	Borno	11.417	13.233	2	
+Bulagarga III	Damboa	Borno	10.954	12.990	2	
+Bulagarga II	Damboa	Borno	10.975	12.979	2	
+Bulagarga I	Damboa	Borno	10.985	12.976	2	
+Buladega	Mubi North	Adamawa	10.215	13.230	2	
+Buladega	Mubi North	Adamawa	10.200	13.150	2	
+Bula Daburu	Bama	Borno	11.345	13.938	2	
+Bula-Dabube	Bama	Borno	11.364	14.076	2	
+Bula Chirabe	Bama	Borno	11.260	14.165	2	Bula Chira
+Bulabutube	Ngala	Borno	12.361	14.005	2	Bula-Butube|Bulo Butube
+Bula Bundibe	Bama	Borno	11.417	14.000	2	
+Bulabam Hamlets	Chibok	Borno	10.841	12.913	2	Bulabum Hamlets
+Bulabulin	Fika	Yobe	11.403	11.415	2	
+Bulabulin	Konduga	Borno	11.390	12.908	2	Bulabukin
+Bulabulin	Gwoza	Borno	11.217	13.456	2	
+Bula	Fune	Yobe	11.739	11.262	2	
+Bula	Fika	Yobe	11.588	11.254	2	
+Bula	Giwa	Kaduna	10.931	7.134	2	
+Bula	Biu	Borno	10.623	12.107	2	
+Bula	Tafawa-Balewa	Bauchi	10.001	9.603	2	
+Bula	Mayo-Belwa	Adamawa	8.774	11.961	2	
+Bukuta	Mashegu	Niger	9.588	5.242	2	
+Bukut	Birnin Magaji-Kiyaw	Zamfara	12.450	6.699	2	
+Bukuru	Bali	Taraba	8.481	11.121	2	
+Bukunji	Shanga	Kebbi	10.956	4.650	2	Bokunji
+Bukumanya	Obanliku	Cross River	6.614	9.201	2	
+Bukuma	Degema	Rivers	4.765	6.891	2	
+Bukul	Shira	Bauchi	11.344	9.943	2	
+Buku	Wushishi	Niger	9.665	6.131	2	
+Buktaso	Bali	Taraba	8.175	11.279	2	
+Bukoli	Yabo	Sokoto	12.850	5.033	2	
+Bukola	Ido	Oyo	7.356	3.785	2	
+Bukem	Gboko	Benue	7.461	8.702	2	
+Bukarti	Karasuwa	Yobe	12.894	10.908	2	
+Bukar Thlawur	Askira-Uba	Borno	10.645	12.885	2	
+Bukasidi	Lafia	Nasarawa	8.526	8.523	2	Bukar Saidi|BukarSaidi
+Bukar-Kwareri	Damboa	Borno	11.200	13.065	2	Bukar Kwareri
+Bukari	Yunusari	Yobe	13.150	11.539	2	
+Bukar Allah	Lafia	Nasarawa	8.533	8.517	2	
+Bukan Tambari	Lafia	Nasarawa	8.441	8.545	2	
+Bukan Kwasi	Lafia	Nasarawa	8.495	8.548	2	
+Bukan Danjima	Lafia	Nasarawa	8.479	8.545	2	
+Bukan Buzu	Lafia	Nasarawa	8.438	8.522	2	
+Bkaje	Demsa	Adamawa	9.374	12.215	2	Bakaje|Bukaji|Bukkaji
+Buka Bokwai	Barkin Ladi	Plateau	9.473	8.958	2	
+Bujimirum	Gujba	Yobe	11.562	11.917	2	Katarko
+Wushaku	Lau	Taraba	9.312	11.637	2	Bujim
+Buji	Bassa	Plateau	10.115	8.845	2	
+Buja	Mai'Adua	Katsina	13.053	8.171	2	
+Bui	Arewa Dandi	Kebbi	12.728	4.117	2	Bwi
+Bugzu	Fune	Yobe	11.593	11.474	2	Bugza
+Bugwati	Balanga	Gombe	9.911	11.556	2	
+Bugun	Bogoro	Bauchi	9.629	9.695	2	
+Bugobi	Ofu	Kogi	7.309	7.299	2	Bagobi
+Bugila	Gombi	Adamawa	10.177	12.331	2	
+Bughta	Konshisha	Benue	7.250	8.537	2	
+Bugh	Konshisha	Benue	7.099	8.701	2	
+Bugawa	Zurmi	Zamfara	12.901	6.794	2	
+Bugapa	Paikoro	Niger	9.411	6.865	2	
+Bugaje	Jibia	Katsina	12.994	7.380	2	
+Bugai	Chikun	Kaduna	10.500	7.650	2	
+Bugadam	Damboa	Borno	11.220	12.203	2	
+Buga-da-gindi	Barkin Ladi	Plateau	9.760	8.960	2	Buga da Gindi
+Buga	Toto	Nasarawa	8.483	7.326	2	
+Bufejuma	Jere	Borno	12.173	13.126	2	
+Buen	Baruten	Kwara	8.841	2.895	2	Bawe|Bwen
+Buduwa	Bama	Borno	11.299	14.160	2	
+Budun Gulum	Shani	Borno	10.054	11.871	2	Bodun Gulum
+Budumiri	Damboa	Borno	11.215	13.152	2	Budumri
+Budotu	Asa	Kwara	8.505	4.405	2	
+Budo-Titun	Moro	Kwara	8.750	4.263	2	Bude Titun
+Budo-Sule	Ìsẹ́yìn	Oyo	7.760	3.409	2	Budo Sule|BudoSule
+Budo-Soto	Ifelodun	Kwara	8.424	4.805	2	Budo Soto|BudoSoto
+Budo-Pupa	Asa	Kwara	8.690	4.259	2	Budo Pupa
+Budo-Otun	Surulere	Oyo	8.063	4.498	2	Budo Otun
+Budo-Ogbo	Ori Ire	Oyo	8.631	4.211	2	Budo Ogbo
+Budo-Ogbo	Ori Ire	Oyo	8.582	4.205	2	Budo Ogbo
+Budo-Ode Ajado	Ori Ire	Oyo	8.583	4.041	2	Budo Ode Ajado
+Logun	Moro	Kwara	9.090	4.882	2	Budo Ode|BudoOde
+Budo-Ode	Ori Ire	Oyo	8.606	4.158	2	Budo Ode
+Budo-Ode	Olorunsogo	Oyo	8.823	4.192	2	Budo Ode
+Budo-Ode	Moro	Kwara	8.679	4.391	2	Budo Ode
+Budo-Musa	Ori Ire	Oyo	8.368	4.244	2	Budo Musa
+Budoke	Asa	Kwara	8.516	4.342	2	
+Budojoko	Irewole	Osun	7.403	4.295	2	
+Budo Iya	Asa	Kwara	8.250	4.500	2	
+Budo-Ilorin	Asa	Kwara	8.188	4.500	2	Budo Ilorin|BudoIlorin
+Budo-Ige	Saki East	Oyo	8.767	3.392	2	Budo Ige
+Budo-Igbo	Olorunsogo	Oyo	8.811	4.174	2	Budo Igbo
+Budo-Igbo	Olorunsogo	Oyo	8.653	4.152	2	Budo Igbo
+Budo-Gboro	Surulere	Oyo	8.255	4.354	2	Budo Gboro
+Budo-Gbemgbeleku	Moro	Kwara	8.764	4.283	2	Budo Gbemgbeleku
+Budo Egun	Asa	Kwara	8.199	4.535	2	
+Budo Egba	Asa	Kwara	8.317	4.400	2	
+Budo Belora	Oyun	Kwara	8.123	4.531	2	
+Budo-Bale	Moro	Kwara	8.655	4.402	2	Budo Bale
+Budoayiki	Baruten	Kwara	8.705	2.764	2	
+Budo-Ayan	Moro	Kwara	8.720	4.735	2	Budo Ayan
+Budo-Atan	Asa	Kwara	8.519	4.334	2	Budo Atan
+Budo-Aro	Asa	Kwara	8.202	4.516	2	Budo Aro|BudoAro
+Budo-Are	Ifelodun	Kwara	8.499	4.730	2	Budo Are
+Budo-Alfa-Situ	Moro	Kwara	8.767	4.308	2	Budo Alfa Situ
+Budo-Alegbe	Asa	Kwara	8.289	4.499	2	Budo Alegbe|Elegbedde
+Budo-Aiyekale	Asa	Kwara	8.668	4.265	2	Budo Aiyekale
+Budo Ago	Itesiwaju	Oyo	8.085	3.514	2	
+Budo-Agan	Moro	Kwara	8.758	4.296	2	Budo Agan
+Budo-Agbede	Orelope	Oyo	8.729	3.716	2	Budo Agbede
+Budo-Agba	Ìsẹ́yìn	Oyo	7.743	3.524	2	Budo Agba|BudoAgba
+Budo-Adun	Asa	Kwara	8.607	4.260	2	Budo Adun
+Budo-Adio	Asa	Kwara	8.649	4.288	2	Budo Adio
+Budena	Akamkpa	Cross River	5.304	8.234	2	
+Budda	Maiha	Adamawa	9.770	13.227	2	
+Budawa	Kafur	Katsina	11.665	7.691	2	
+Budale	Aiyedade	Osun	7.175	4.341	2	
+Budade	Dange-Shuni	Sokoto	12.700	5.383	2	
+Buchi	Gwer East	Benue	7.316	8.242	2	
+Bubui	Paikoro	Niger	9.450	6.800	2	
+Bubu	Alkaleri	Bauchi	10.045	10.702	2	Babu
+Bubu	Ifelodun	Kwara	8.434	4.809	2	
+Bubu	Teungo	Adamawa	7.841	11.426	2	
+Bubon	Zing	Taraba	8.990	11.784	2	
+Bubila	Song	Adamawa	9.592	12.337	2	Boduba
+Bube	Kurmi	Taraba	7.166	10.991	2	
+Bubaram Warde	Potiskum	Yobe	11.762	11.217	2	
+Buan	Khana	Rivers	4.616	7.484	2	
+Buahuan	Obanliku	Cross River	6.625	9.176	2	
+Buagbong	Obanliku	Cross River	6.632	9.178	2	
+Buabunde	Ushongo	Benue	7.168	8.890	2	
+Bua	Shendam	Plateau	8.419	9.731	2	
+Bua	Gboko	Benue	7.290	8.679	2	
+Bu	Maiha	Adamawa	10.051	13.169	2	
+Bombula Bula-Wosa	Chibok	Borno	10.899	12.692	2	
+Bombula Bula-Fali	Chibok	Borno	10.893	12.686	2	
+Bolkolo	Gujba	Yobe	11.547	11.873	2	Bulakolobe
+Bolki	Song	Adamawa	9.783	12.562	2	Bulke
+Bera Bura	Bayo	Borno	10.531	11.623	2	
+Balajan Bula-Kabu	Chibok	Borno	10.875	12.784	2	
+Bakari Goso	Jada	Adamawa	8.545	12.271	2	Bakari Busau|Bakari-Gosso|Belo's|Bokari Busso
+Bugana	Omala	Kogi	7.999	7.584	2	Bagana
+Budura	Garki	Jigawa	12.401	9.290	2	Badura
+Amja	Bama	Borno	11.473	14.198	2	Bula-Bushara|Hamja
+Burku	Karu	Nasarawa	9.103	7.611	2	Gurku
+Gidan Busa	Karu	Nasarawa	8.797	7.580	2	
+Bujawa	Gezawa	Kano	12.132	8.745	2	
+Buama	Brass	Bayelsa	4.334	6.034	2	Bwama
+Bununu	Tafawa-Balewa	Bauchi	9.886	9.688	2	
+Buka	Mubi South	Adamawa	10.118	13.371	2	
+Bulagambari	Askira-Uba	Borno	10.872	13.135	2	
+Bulanubwa	Askira-Uba	Borno	10.619	13.032	2	
+Bugathal	Gwoza	Borno	10.961	13.675	2	
+Bukarti	Damboa	Borno	11.059	12.996	2	
+Bulgajiri	Damboa	Borno	11.173	13.126	2	
+Bulturi	Kala-Balge	Borno	11.913	14.283	2	
+Bugorari	Kala-Balge	Borno	11.663	14.305	2	
+Bula Karabi	Kala-Balge	Borno	11.575	14.345	2	
+Kash Kash Bulali	Dikwa	Borno	11.808	14.249	2	
+Bula Birin	Bama	Borno	11.635	14.086	2	
+Bula Mastafa	Bama	Borno	11.499	14.134	2	
+Bula Umar	Bama	Borno	11.499	14.235	2	
+Bula Ngubdoye	Bama	Borno	11.508	14.226	2	
+Bula Manga	Bama	Borno	11.526	14.231	2	
+Bula Kursoye	Bama	Borno	11.553	14.243	2	
+Tunbun Buhari	Monguno	Borno	12.813	14.030	2	
+Kalauwa Bulabulin	Abadam	Borno	13.506	13.085	2	
+Bula Ganna Kura	Abadam	Borno	13.652	13.303	2	
+Bum	Abua/Odual	Rivers	4.867	6.683	2	
+Bunele	Owan East	Edo	7.055	6.175	2	
+Aiyegunle Bunu	Kabba/Bunu	Kogi	7.872	6.175	2	
+Bungal	Song	Adamawa	10.030	12.445	2	
+Bugum	Gombi	Adamawa	10.097	12.487	2	
+Bulu	Shani	Borno	10.128	12.036	2	
+Burom	Gombi	Adamawa	10.128	12.397	2	
+Busuku	Hawul	Borno	10.277	12.015	2	
+Sangwa Bulama Ali	Shani	Borno	10.325	12.198	2	
+Sangwa Bulama Asuku	Shani	Borno	10.327	12.210	2	
+Bumta	Hawul	Borno	10.449	12.234	2	
+Rafin Buna	Itas/Gadau	Bauchi	11.815	10.236	2	
+Riga Buwayi	Arewa Dandi	Kebbi	12.637	3.893	2	
+Burudu Saboa	Baure	Katsina	12.871	8.610	2	
+Burudu Tsofoa	Baure	Katsina	12.866	8.581	2	
+Kafankonce Buba	Baure	Katsina	12.791	8.719	2	
+Haruna Buba	Baure	Katsina	12.707	8.871	2	
+Bulama	Babura	Jigawa	12.632	8.954	2	
+Yan-Bundu	Bichi	Kano	12.268	8.288	2	
+Bunji	Tsanyawa	Kano	12.196	8.013	2	
+Buta	Garki	Jigawa	12.465	8.880	2	
+Dan Buzu	Garki	Jigawa	12.477	8.970	2	
+Bundu	Roni	Jigawa	12.663	8.219	2	
+Bugaje	Roni	Jigawa	12.664	8.204	2	
+Bujawa	Ingawa	Katsina	12.624	8.070	2	
+Tabang Bula Buba	Chibok	Borno	10.683	12.963	2	
+Yimilarin Bula-Mute Gana	Askira-Uba	Borno	10.622	13.000	2	
+Bujawa	Rimi	Katsina	12.826	7.754	2	
+Butanawa	Mani	Katsina	12.824	7.902	2	
+Busau	Batagarawa	Katsina	12.830	7.620	2	
+Fardamin Bugaji	Rimi	Katsina	12.811	7.746	2	
+Bukasawa	Rimi	Katsina	12.766	7.679	2	
+Burtu	Charanchi	Katsina	12.686	7.636	2	
+Tulun Busawa	Safana	Katsina	12.468	7.318	2	
+Gidan Bugana	Rafi	Niger	10.407	6.059	2	
+Gidan Buwayi	Rafi	Niger	10.372	6.511	2	
+Bukari	Tangaza	Sokoto	13.551	4.780	2	
+Gidan Buji	Binji	Sokoto	13.127	4.936	2	
+Gidan Bugaji	Madaoua	Sokoto	13.736	5.991	2	
+Bukaza	Sabon Birni	Sokoto	13.580	5.978	2	
+Busalega	Gwadabawa	Sokoto	13.296	5.364	2	
+Burwanga	Rabah	Sokoto	13.089	5.973	2	
+Butu	Rabah	Sokoto	13.023	5.562	2	
+Buka	Yauri	Kebbi	10.734	4.709	2	
+Tsofori-Bussa	Ngaski	Kebbi	10.171	4.543	2	
+Bussa	Borgu	Niger	10.230	4.553	2	
+Busuru	Agwara	Niger	10.758	4.671	2	
+Bulumbukut	Sabon Birni	Sokoto	13.558	5.930	2	
+Bulama	Kware	Sokoto	13.214	5.304	2	
+Ungwan Bugau	Malumfashi	Katsina	11.984	7.648	2	
+Dan Buzu	Kankara	Katsina	11.923	7.467	2	
+Bugawa	Kafur	Katsina	11.688	7.784	2	
+Burma	Funtua	Katsina	11.265	7.350	2	
+Ungwan Mallam Buba	Makarfi	Kaduna	11.198	7.883	2	
+Ramuda Buga Hill	Fakai	Kebbi	11.670	4.792	2	
+Bule	Fakai	Kebbi	11.546	4.963	2	
+Rijiya Buture	Rijau	Niger	11.161	4.910	2	
+Buya	Bagudo	Kebbi	11.076	4.063	2	
+Buloubu-Ijelejele	Burutu	Delta	5.383	5.514	2	
+Garin Buba Kuppe	Dukku	Gombe	10.391	10.952	2	
+Ungwan Buda	Tsafe	Zamfara	11.837	6.772	2	
+Hardo Bubu	Kirfi	Bauchi	10.256	10.791	2	
+Bunga Baba	Birnin Kebbi	Kebbi	12.533	4.160	2	
+Buldbugbene	Ekeremor	Bayelsa	4.951	5.577	2	
+Bumianeba	Ekeremor	Bayelsa	4.849	5.645	2	
+Buodokumogbene	Ekeremor	Bayelsa	4.888	5.544	2	
+Burukububo	Southern Ijaw	Bayelsa	4.684	5.683	2	
+Bunu Bangha	Khana	Rivers	4.708	7.474	2	
+Bukedeba	Patani	Delta	5.204	6.125	2	
+Bulworu-Gbene	Sagbama	Bayelsa	5.020	6.046	2	
+Kabba/Bunu	Kabba/Bunu	Kogi	8.063	6.203	2	
+Bukuru	Buruku	Benue	7.467	9.200	2	Buruku
+Borsari	Borsari	Yobe	12.699	11.426	2	Bursari
+Bunkure	Bunkure	Kano	11.667	8.597	2	Agbegbe Ijoba Ibile Bunkure|Bunkuure
+Obudu	Obudu	Cross River	6.543	9.045	2	Agbegbe Ijoba Ibile Obudu|ao bu dou
+Bunza	Bunza	Kebbi	12.168	3.915	2	Agbegbe Ijoba Ibile Bunza|Bunza Local Government Area|Buunza|bunza
+Bukkuyum	Bukkuyum	Zamfara	11.975	5.587	2	Agbegbe Ijoba Ibile Bukkuyum|Bukkuyum Local Government Area|Bukkuyuum
+Bungudu	Bungudu	Zamfara	12.189	6.489	2	Agbegbe Ijoba Ibile Bungudu|Bungudu Local Government Area|ben gu du
+Babura	Babura	Jigawa	12.614	8.859	2	Agbegbe Ijoba Ibile Babura|Babura Local Government Area|ba bu la
+Buji	Buji	Jigawa	11.579	9.720	2	Buji Local Government Area
+Burutu	Burutu	Delta	5.212	5.603	2	Burutu Local Government Area
+Bulbule	Maiha	Adamawa	9.989	13.270	2	
+Bulu	Song	Adamawa	9.836	13.026	2	
+Wuro Buba	Maiha	Adamawa	9.792	13.223	2	
+Kiri Bula	Kukawa	Borno	13.294	13.793	2	
+Malum Bukarsuhu	Guzamala	Borno	13.042	13.382	2	
+Abba-Burari	Guzamala	Borno	13.016	13.475	2	
+Bula Alamia	Bama	Borno	11.474	13.804	2	
+Bula Gayemaye	Bama	Borno	11.427	13.867	2	Asambye
+Burni	Bama	Borno	11.418	13.893	2	
+Mashilla Bulabulin	Marte	Borno	12.466	13.752	2	
+Bukar Suguri	Marte	Borno	12.477	13.811	2	
+Bulakoshiwe	Marte	Borno	12.459	13.919	2	
+Bukkari	Marte	Borno	12.422	13.851	2	
+Burniski	Marte	Borno	12.419	13.855	2	
+Gmawa Bulabulin	Marte	Borno	12.411	13.929	2	
+Bulawo	Marte	Borno	12.345	13.914	2	
+Bukar Suguri	Kukawa	Borno	12.893	13.633	2	
+Hassanti Bulabulin	Kukawa	Borno	12.806	13.516	2	
+Balori Bulabulin	Guzamala	Borno	12.781	13.501	2	
+Langiya Bulabulin	Monguno	Borno	12.759	13.530	2	
+Bulabulin	Monguno	Borno	12.721	13.688	2	
+Ngilaiwa Bulabulin	Monguno	Borno	12.530	13.757	2	
+Bugduma	Marte	Borno	12.514	13.858	2	
+Bulaganari	Damboa	Borno	11.177	13.014	2	
+Bungum	Funakaye	Gombe	11.003	11.427	2	
+Bulabiri	Ngelzarma	Yobe	11.729	12.092	2	
+Buka Bokwo	Jos North	Plateau	9.869	8.852	2	Kuka Bokwo
+Bundur	Kukawa	Borno	12.886	13.731	2	
+Buratai	Biu	Borno	10.942	12.144	2	
+Buma	Shani	Borno	10.298	12.230	2	
+Bulangu	Kafin Hausa	Jigawa	12.068	10.112	2	
+Bugaje	Jibia	Katsina	12.980	7.481	2	
+Bumbum B	Mai'Adua	Katsina	13.216	8.145	2	
+Buma	Dandi	Kebbi	11.646	3.739	2	
+Bunza Marafa	Bunza	Kebbi	12.103	3.977	2	
+Bularafa	Gulani	Yobe	11.147	11.821	2	
+Buni Gari	Gujba	Yobe	11.221	12.083	2	
+Bumsa	Gulani	Yobe	10.993	11.808	2	
+Buduwa	Jakusko	Yobe	12.215	10.858	2	
+Bulabulin	Nguru	Yobe	12.858	10.472	2	
+Bultuwa	Yunusari	Yobe	12.943	12.086	2	
+Bulatura	Yusufari	Yobe	13.177	11.164	2	
+Bulanguwa	Nguru	Yobe	12.999	10.367	2	
+Bungudu	Bungudu	Zamfara	12.302	6.590	2	
+Buda	Kajuru	Kaduna	10.360	7.631	2	
+Bukul	Shira	Bauchi	11.325	9.953	2	
+Buzawa	Itas/Gadau	Bauchi	11.798	9.772	2	
+Buskuri	Katagum	Bauchi	11.705	10.333	2	
+Bula A	Tafawa-Balewa	Bauchi	9.972	9.675	2	
+Buruku	Buruku	Benue	7.365	9.261	2	Buruku
+Bursari	Borsari	Yobe	12.716	11.413	2	Bursari
+Buba	Wukari	Taraba	7.855	9.400	2	
+Buluku	Guma	Benue	7.743	9.021	2	
+Bubua	Buruku	Benue	7.533	9.053	2	
+Burbwa	Buruku	Benue	7.511	9.037	2	
+Burave	Logo	Benue	7.563	9.429	2	
+Bunde	Logo	Benue	7.545	9.438	2	
+Burbwa	Katsina-Ala	Benue	7.519	9.454	2	
+Bur	Wukari	Taraba	7.826	9.628	2	
+Bunde	Gboko	Benue	7.418	9.039	2	
+Buter	Buruku	Benue	7.452	9.175	2	
+Bunkeng	Buruku	Benue	7.380	9.159	2	
+Bura	Gboko	Benue	7.331	9.105	2	
+Bunde	Buruku	Benue	7.255	9.160	2	
+Butu	Buruku	Benue	7.455	9.184	2	
+Bunde	Buruku	Benue	7.307	9.230	2	
+Bunde	Ushongo	Benue	7.197	9.018	2	
+Bur	Ushongo	Benue	7.162	9.015	2	
+Bunde	Ushongo	Benue	7.166	9.047	2	
+Bumkeng	Ushongo	Benue	7.075	9.038	2	
+Bunde	Vandeikya	Benue	7.020	9.040	2	
+Buba	Buruku	Benue	7.228	9.133	2	
+Buter	Ushongo	Benue	7.068	9.111	2	
+Bulun	Buruku	Benue	7.163	9.218	2	
+Buku	Katsina-Ala	Benue	7.240	9.381	2	
+Buter	Katsina-Ala	Benue	7.124	9.444	2	
+Bushashe	Gboko	Benue	7.458	8.850	2	
+Buu	Gboko	Benue	7.474	8.849	2	
+Buna	Gboko	Benue	7.436	8.976	2	
+Buluku	Gboko	Benue	7.425	8.948	2	
+Bukem	Gboko	Benue	7.421	8.850	2	
+Bunde	Gboko	Benue	7.342	8.987	2	
+Bunde	Gboko	Benue	7.357	8.914	2	
+Burave	Gboko	Benue	7.321	8.804	2	
+Bukem	Gboko	Benue	7.326	8.978	2	
+Bumde	Gboko	Benue	7.317	8.986	2	
+Buluku	Gboko	Benue	7.260	8.995	2	
+Buzukwa	Zaki	Bauchi	12.166	10.353	2	
+Buran Kurna	Zaki	Bauchi	12.076	10.249	2	
+Bugurami	Zaki	Bauchi	12.026	10.382	2	
+Bura	Zaki	Bauchi	12.035	10.276	2	
+Buragana	Zaki	Bauchi	12.037	10.269	2	
+Burewari	Zaki	Bauchi	12.033	10.260	2	
+Butubogo	Brass	Bayelsa	4.491	6.435	2	
+Buoy Boko	Brass	Bayelsa	4.323	6.329	2	
+Bukpangi	Gbako	Niger	9.257	5.938	2	
+Buku	Edati	Niger	9.042	5.653	2	
+Bulseri	Machina	Yobe	13.053	10.062	2	
+Mare Karemi Bula Mallam	Biriniwa	Jigawa	12.996	10.181	2	
+Bukardi	Yusufari	Yobe	13.243	10.977	2	
+Bulamari Kurunadi	Karasuwa	Yobe	13.085	10.763	2	
+Bugu	Karasuwa	Yobe	13.082	10.877	2	
+Bulamadu	Yusufari	Yobe	13.167	11.223	2	
+Bulakari	Yusufari	Yobe	13.155	11.198	2	
+Bulakura	Yusufari	Yobe	13.128	11.183	2	
+Bulubulu	Yusufari	Yobe	13.116	11.072	2	
+Bula Mallam	Yusufari	Yobe	13.100	11.065	2	
+Bula Mallam Kalo	Yusufari	Yobe	13.088	11.082	2	
+Bula Dabo Waluwana	Yusufari	Yobe	13.012	11.182	2	
+Bulabirin	Yusufari	Yobe	13.030	11.156	2	
+Buloma Jaji	Yusufari	Yobe	13.030	11.094	2	
+Buku Gana	Yusufari	Yobe	13.028	11.061	2	
+Bula Dabo Madudawari	Yusufari	Yobe	13.002	11.223	2	
+Buki Jaaba	Gbako	Niger	9.428	6.027	2	
+Bukpasi	Paikoro	Niger	9.445	6.983	2	
+Bukata	Paikoro	Niger	9.397	6.918	2	
+Gidan Busa	Shiroro	Niger	9.717	6.795	2	
+Busibi	Paikoro	Niger	9.526	6.771	2	
+Bua	Bosso	Niger	9.598	6.597	2	
+Bungung	Jada	Adamawa	8.743	12.076	2	
+Bukaji	Jada	Adamawa	8.670	12.002	2	
+Jauro Buba	Jada	Adamawa	8.525	12.078	2	
+Wuro Buba	Jada	Adamawa	8.743	12.179	2	
+Buladu	Jada	Adamawa	8.683	12.200	2	
+Buso	Jada	Adamawa	8.527	12.392	2	
+Buslimi	Paikoro	Niger	9.523	6.887	2	
+Bunkusa	Karu	Nasarawa	9.217	7.844	2	
+Bura Yamsi	Mayo-Belwa	Adamawa	8.843	11.895	2	
+Jauro Buba	Mayo-Belwa	Adamawa	8.614	11.841	2	
+Busulei	Ganye	Adamawa	8.585	11.886	2	
+Bundu Nareje	Gassol	Taraba	8.767	10.893	2	
+Bungel	Gassol	Taraba	8.763	10.922	2	
+Garin Bukar	Gassol	Taraba	8.596	10.761	2	
+Garin Buba Jabule	Gassol	Taraba	8.743	10.876	2	
+Buzo	Shendam	Plateau	8.784	9.537	2	
+Buendem	Shendam	Plateau	8.795	9.606	2	
+Bugata	Shendam	Plateau	8.835	9.692	2	
+Ungwan Dogo	Sanga	Kaduna	9.105	8.176	2	Sabon Buja
+Batsu	Sanga	Kaduna	9.078	8.080	2	Butsu
+Butswan	Kachia	Kaduna	9.627	8.023	2	
+Bul	Qua'An Pan	Plateau	8.596	9.133	2	
+Bunum	Qua'An Pan	Plateau	8.661	9.303	2	
+Wuro Buba	Girei	Adamawa	9.336	12.448	2	
+Boilere Jaura Buba Kindam	Mayo-Belwa	Adamawa	9.144	12.054	2	
+Buran	Fufore	Adamawa	9.108	12.122	2	
+Bukkaji	Fufore	Adamawa	9.045	12.170	2	
+Buluwal	Fufore	Adamawa	9.032	12.241	2	
+Wuro Buba	Fufore	Adamawa	9.137	12.231	2	
+Tafare Buhu	Girei	Adamawa	9.317	12.450	2	
+Buaso	Larmurde	Adamawa	9.457	11.519	2	
+Buno	Lau	Taraba	9.265	11.616	2	
+Burmawa	Lau	Taraba	9.308	11.612	2	
+Bujum	Numan	Adamawa	9.278	11.710	2	
+Buru-Kwan	Mayo-Belwa	Adamawa	9.115	11.700	2	
+Bubango	Yorro	Taraba	9.136	11.691	2	
+Bundi	Mayo-Belwa	Adamawa	9.083	11.726	2	
+Wuro-Buba	Lau	Taraba	9.178	11.594	2	
+Bukara Hamlets	Lau	Taraba	9.192	11.610	2	
+Bugaru	Lau	Taraba	9.140	11.617	2	
+Budang	Yorro	Taraba	9.111	11.649	2	
+Buzere Kolayang	Yorro	Taraba	9.068	11.638	2	
+Bukuma	Mayo-Belwa	Adamawa	9.134	11.810	2	
+Burba	Mayo-Belwa	Adamawa	9.085	11.964	2	
+Bulamalumbe	Ngala	Borno	12.360	14.284	2	
+Bulamalumbe	Kala-Balge	Borno	12.300	14.425	2	
+Bukarri	Kala-Balge	Borno	12.259	14.485	2	
+Burabayi	Alkaleri	Bauchi	9.672	10.773	2	
+Burkutu	Karim Lamido	Taraba	9.582	10.804	2	
+Buba	Alkaleri	Bauchi	9.772	10.872	2	
+Bushadi	Karim Lamido	Taraba	9.188	10.909	2	
+Buha	Karim Lamido	Taraba	9.409	11.155	2	
+Wuro Buga	Ardo-Kola	Taraba	9.049	11.078	2	
+Butubutu	Ona Ara	Oyo	7.283	4.124	2	
+Buraimoh	Egbeda	Oyo	7.427	4.118	2	
+Busari-Ifon	Irepodun	Osun	7.923	4.529	2	
+Jalingo-Jauro-Buji	Fufore	Adamawa	9.065	12.881	2	Jalingo Jauro Buji
+Burire	Fufore	Adamawa	9.064	12.659	2	
+Garin-Buba	Fufore	Adamawa	9.381	12.648	2	Garin Buba
+Burlire	Girei	Adamawa	9.417	12.575	2	
+Busaperu	Baruten	Kwara	9.538	3.498	2	
+Asere-Bubogho	Ese Odo	Ondo	6.119	4.974	2	
+Bukan Robo	Lafia	Nasarawa	8.443	8.540	2	
+Buko	Ife South	Osun	7.230	4.734	2	
+Budo-Titun	Ori Ire	Oyo	8.472	4.260	2	
+Budo-Biyayin	Ori Ire	Oyo	8.472	4.177	2	
+Budo-Jesu	Surulere	Oyo	8.235	4.424	2	
+Budo-Koko	Surulere	Oyo	8.160	4.488	2	
+Busiriru	Baruten	Kwara	9.405	3.222	2	
+Bude-Ole	Moro	Kwara	8.833	4.292	2	
+Budo-Ole	Moro	Kwara	8.839	4.328	2	
+Budo-Ige	Moro	Kwara	8.865	4.491	2	
+Bulamo	Moro	Kwara	8.822	4.355	2	
+Budo Oke	Moro	Kwara	8.819	4.276	2	
+Budo-Are	Moro	Kwara	8.688	4.438	2	
+Budo-Are	Asa	Kwara	8.662	4.348	2	
+Budo-Igbo	Asa	Kwara	8.681	4.284	2	
+Budo-Alufa	Asa	Kwara	8.693	4.236	2	
+Budo-Apata	Olorunsogo	Oyo	8.689	4.175	2	
+Budo-Ere	Olorunsogo	Oyo	8.678	4.143	2	
+Budo-Akin	Olorunsogo	Oyo	8.662	4.166	2	
+Budo-Are	Asa	Kwara	8.653	4.251	2	
+Budo-Alapa	Asa	Kwara	8.623	4.280	2	
+Budo-Titun	Asa	Kwara	8.620	4.308	2	
+Budo-Ota	Asa	Kwara	8.643	4.393	2	
+Budo-Koto	Asa	Kwara	8.659	4.388	2	
+Budo-Ogbo	Moro	Kwara	8.648	4.410	2	
+Akiramanu-Busamu	Moro	Kwara	8.658	4.425	2	
+Budo-Ago	Asa	Kwara	8.621	4.428	2	
+Bube	Moro	Kwara	8.612	4.494	2	
+Budo-Titun	Asa	Kwara	8.567	4.391	2	
+Budo-Iya	Asa	Kwara	8.567	4.349	2	
+Busamu	Asa	Kwara	8.603	4.328	2	
+Budo-Arin	Asa	Kwara	8.575	4.293	2	
+Busala	Asa	Kwara	8.569	4.284	2	
+Budo-Abaja	Ori Ire	Oyo	8.577	4.107	2	
+Budo-Alade-Atu	Ori Ire	Oyo	8.582	4.040	2	
+Budu-Titun	Asa	Kwara	8.576	4.392	2	
+Budo-Ode	Asa	Kwara	8.627	4.249	2	
+Budo-Alli	Ifelodun	Kwara	8.463	5.052	2	
+Budan	Lokoja	Kogi	8.241	6.640	2	
+Gidan Buba	Lafia	Nasarawa	8.676	8.763	2	
+Budo-Reke	Oyun	Kwara	8.193	4.625	2	
+Budo-Ojoku	Oyun	Kwara	8.142	4.573	2	
+Budo-Orogun	Oyun	Kwara	8.115	4.512	2	
+Budo-Ekun	Oyun	Kwara	8.116	4.527	2	
+Bunchu	Akwanga	Nasarawa	8.957	8.459	2	
+Budo-Loke	Ifelodun	Kwara	8.491	4.989	2	
+Budo-Opu	Ifelodun	Kwara	8.459	4.799	2	
+Budo-Isa	Ifelodun	Kwara	8.423	4.946	2	
+Budo-Ada	Ifelodun	Kwara	8.421	4.819	2	
+Budo-Edun	Ifelodun	Kwara	8.396	4.811	2	
+Budo-Kawu	Ifelodun	Kwara	8.365	4.834	2	
+Buke	Edu	Kwara	9.024	4.979	2	
+Budo Saidu	Moro	Kwara	9.043	4.840	2	BudoSaidu
+Buca Salami	Moro	Kwara	9.037	4.809	2	BucaSalami
+Budebe	Moro	Kwara	9.058	4.819	2	
+Buku	Afijio	Oyo	7.759	4.034	2	
+Buli	Jada	Adamawa	8.777	12.722	2	
+Lende Buji	Fufore	Adamawa	8.920	12.614	2	LendeBuji
+Buen	Ganye	Adamawa	8.445	12.204	2	
+Mallam Buba	Ganye	Adamawa	8.458	12.205	2	MallamBuba
+Burai	Bali	Taraba	8.499	11.383	2	
+Mayo Buba	Bali	Taraba	8.451	11.101	2	MayoBuba
+Yolde Dubbi	Shelleng	Adamawa	9.795	12.021	2	Yolde Bubbi|YoldeBubbi|YoldeDubbi
+Wuro Burama	Shelleng	Adamawa	9.775	12.057	2	WuroBurama
+Buba Londo	Shelleng	Adamawa	9.781	12.086	2	BubaLondo
+Moron Bura	Song	Adamawa	9.668	12.436	2	MoronBura
+Wuro Waziri Buba	Shelleng	Adamawa	9.753	12.056	2	WuroWaziriBuba
+Wuro Buba Late	Girei	Adamawa	9.591	12.419	2	WuroBubaLate
+Burya	Song	Adamawa	9.891	12.497	2	
+Wuro Buba Gerengi	Girei	Adamawa	9.518	12.422	2	WuroBubaGerengi
+Wuro Buba Gaori	Girei	Adamawa	9.511	12.496	2	WuroBubaGaori
+Sofo Bululi	Song	Adamawa	9.996	12.541	2	SofoBululi
+Lainde Bulom	Song	Adamawa	9.955	12.533	2	LaindeBulom
+Buguma	Song	Adamawa	9.866	12.517	2	
+Burawo	Song	Adamawa	9.836	12.626	2	
+Bursa	Song	Adamawa	9.829	12.536	2	
+Budo-Okete	Asa	Kwara	8.360	4.575	2	
+Budo-Gamo	Oyun	Kwara	8.279	4.634	2	
+Budo-Ogi	Ilorin South	Kwara	8.496	4.682	2	
+Budo-Onu	Ilorin West	Kwara	8.417	4.572	2	
+Budo-Abeo	Asa	Kwara	8.298	4.532	2	
+Budo-Iya	Ilorin West	Kwara	8.472	4.516	2	
+Budo-Oba	Ilorin West	Kwara	8.418	4.570	2	
+Budo-Nda	Ilorin West	Kwara	8.485	4.518	2	
+Budo-Malubi	Asa	Kwara	8.355	4.570	2	
+Budo-Kawu	Asa	Kwara	8.421	4.527	2	
+Budo-Epo	Asa	Kwara	8.374	4.638	2	
+Budo-Oje	Ilorin East	Kwara	8.467	4.610	2	
+Budo-Agba	Ilorin South	Kwara	8.476	4.633	2	
+Budo-Efon	Ilorin East	Kwara	8.444	4.611	2	
+Bubu	Ilorin South	Kwara	8.445	4.692	2	
+Budo-Oku	Ifelodun	Kwara	8.483	4.736	2	
+Buko	Kwali	FCT Abuja	8.573	6.941	2	
+Bulofa	Agaie	Niger	8.953	6.324	2	
+Buga-Gwari	Toto	Nasarawa	8.474	7.325	2	
+Bugako	Kuje	FCT Abuja	8.682	7.159	2	
+Bunkusu	Karu	Nasarawa	8.723	7.925	2	
+Buze	Kuje	FCT Abuja	8.791	7.450	2	
+Burum	Lafia	Nasarawa	8.526	8.315	2	
+Bundi	Sardauna	Taraba	6.861	11.379	2	
+Budo-Oloparun	Ola Oluwa	Osun	7.733	4.259	2	
+Busari	Akinyele	Oyo	7.647	4.009	2	
+Budo	Ola Oluwa	Osun	7.703	4.223	2	
+Buraimoh	Ona Ara	Oyo	7.287	4.094	2	
+Buraimoh Kenku Street	Eti Osa	Lagos	6.430	3.428	1	
+Bush Street	Kosofe	Lagos	6.565	3.369	1	
+Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.685	8.892	1	
+Mohammadu Buhari Way	Municipal Area Council	FCT Abuja	9.032	7.497	1	
+BUK Road	Kano Municipal	Kano	11.984	8.528	1	
+Ibrahim Bui Road	Kaduna North	Kaduna	10.544	7.447	1	
+Bungudu Road	Kaduna North	Kaduna	10.507	7.425	1	
+Butcher Street	Oredo	Edo	6.336	5.623	1	
+Budo Egun Road	Apapa	Lagos	6.449	3.355	1	
+Buba Yero Road	Kaduna North	Kaduna	10.538	7.431	1	
+Buari Street	Kosofe	Lagos	6.571	3.394	1	
+Bucknor Savage Boulevard	Ifako/Ijaye	Lagos	6.648	3.326	1	
+Busari Cr	Alimosho	Lagos	6.600	3.297	1	
+Buluro Street	Agege	Lagos	6.608	3.316	1	
+Burma Road	Apapa	Lagos	6.441	3.375	1	
+Burma Road	Apapa	Lagos	6.438	3.368	1	
+Bunmi Olowude Street	Eti Osa	Lagos	6.429	3.467	1	
+Waff Road	Kaduna North	Kaduna	10.530	7.429	1	Muhammadu Buhari Way
+BUK Road	Gwale	Kano	11.983	8.504	1	
+Bujumbura Street	Municipal Area Council	FCT Abuja	9.078	7.461	1	
+Mohammadu Buhari Way	Municipal Area Council	FCT Abuja	9.054	7.479	1	
+Busa-Buji Street	Jos North	Plateau	9.941	8.876	1	
+Buzi Close	Municipal Area Council	FCT Abuja	9.098	7.484	1	
+Bukoba Street	Municipal Area Council	FCT Abuja	9.066	7.463	1	
+Buchanan Crescent	Municipal Area Council	FCT Abuja	9.087	7.472	1	
+Bumbuna street	Municipal Area Council	FCT Abuja	9.053	7.465	1	
+ASCL Bump	Ajaokuta	Kogi	7.538	6.678	1	
+Ship Builders Road	Port-Harcourt	Rivers	4.750	7.009	1	
+Burundi Street	Municipal Area Council	FCT Abuja	9.062	7.466	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	7.872	9.781	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	8.070	9.797	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	7.786	9.844	1	
+Last Bus Stop Road	Egor	Edo	6.362	5.569	1	
+Takum - Bukuru Federal Road	Pankshin	Plateau	9.153	9.360	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.964	9.428	1	
+Takum - Bukuru Federal Road	Mikang	Plateau	9.033	9.391	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.898	9.515	1	
+Takum - Bukuru Federal Road	Mikang	Plateau	8.995	9.407	1	
+Takum - Bukuru Federal Road	Mangu	Plateau	9.507	9.106	1	
+Takum - Bukuru Federal Road	Ibi	Taraba	8.292	9.694	1	
+Takum - Bukuru Federal Road	Jos South	Plateau	9.721	8.866	1	
+Buraimoh Street	Mushin	Lagos	6.512	3.337	1	
+Omupo - Ilala - Buari Road	Irepodun	Kwara	8.320	4.830	1	
+old buruku park road	Jos North	Plateau	9.926	8.886	1	
+Old Bukuru Park Road	Jos North	Plateau	9.925	8.888	1	
+Buchanan Close	Municipal Area Council	FCT Abuja	9.087	7.472	1	
+Pako Bustop	Shomolu	Lagos	6.520	3.385	1	
+Buraimon Street	Shomolu	Lagos	6.539	3.392	1	
+Takum - Bukuru Federal Road	Mangu	Plateau	9.455	9.188	1	
+Takum - Bukuru Federal Road	Mangu	Plateau	9.467	9.175	1	
+Takum - Bukuru Federal Road	Pankshin	Plateau	9.198	9.326	1	
+Takum - Bukuru Federal Road	Pankshin	Plateau	9.257	9.287	1	
+Takum - Bukuru Federal Road	Mangu	Plateau	9.432	9.192	1	
+Takum - Bukuru Federal Road	Pankshin	Plateau	9.231	9.310	1	
+Takum - Bukuru Federal Road	Pankshin	Plateau	9.276	9.270	1	
+Tim Buckley Street	Enugu East	Enugu	6.481	7.590	1	
+Burma Road	Fagge	Kano	12.022	8.529	1	
+Sani Buhari (Walin Daura) Road	Gwale	Kano	11.994	8.504	1	
+Kuka Bulukiya Road	Dala	Kano	12.005	8.501	1	
+Bura street	Fagge	Kano	12.010	8.526	1	
+BUK Second gate	Gwale	Kano	11.976	8.471	1	
+BUK Third Gate	Gwale	Kano	11.975	8.468	1	
+bush hill road	Enugu East	Enugu	6.511	7.529	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.811	9.654	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.566	9.642	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.739	9.660	1	
+Muna Kori Bula Yalaye	Jere	Borno	11.871	13.240	1	
+Ade Buraimo Way	Eti Osa	Lagos	6.447	3.575	1	
+Takum - Bukuru Federal Road	Mangu	Plateau	9.286	9.238	1	
+Takum - Bukuru Federal Road	Mangu	Plateau	9.364	9.207	1	
+Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.566	8.904	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.457	9.687	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.775	9.662	1	
+Takum - Bukuru Federal Road	Mangu	Plateau	9.514	9.080	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.918	9.456	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.562	9.647	1	
+Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.636	8.892	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.956	9.457	1	
+bulari sabuwa	Chibok	Borno	10.851	12.724	1	
+Panchari Bura Road	Kwaya Kusar	Borno	10.434	12.009	1	
+Buyide Street	Ado Odo/Ota	Ogun	6.682	3.288	1	
+Burrow Pit Street	Sapele	Delta	5.858	5.699	1	
+Bunvic Street	Ogbomosho North	Oyo	8.129	4.261	1	
+Buba Njobbo Street	Yola South	Adamawa	9.254	12.414	1	
+Mallam Buba Street	Oshodi/Isolo	Lagos	6.522	3.309	1	
+Budget Road	Ifako/Ijaye	Lagos	6.640	3.320	1	
+Wahab Busari Street	Ado Odo/Ota	Ogun	6.689	3.246	1	
+Busari Street	Ado Odo/Ota	Ogun	6.691	3.245	1	
+bulari sabuwa	Chibok	Borno	10.859	12.828	1	
+bulari sabuwa	Chibok	Borno	10.850	12.798	1	
+bulari sabuwa	Chibok	Borno	10.847	12.768	1	
+Dan Buram Road	Kaduna North	Kaduna	10.540	7.470	1	
+Akanni Busari Street	Oshodi/Isolo	Lagos	6.507	3.304	1	
+Reverend Father Burke Crescent	Oshodi/Isolo	Lagos	6.521	3.311	1	
+Buggai St	Chikun	Kaduna	10.464	7.462	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	7.877	9.778	1	
+Takum - Bukuru Federal Road	Takum	Taraba	7.510	9.932	1	
+Takum - Bukuru Federal Road	Takum	Taraba	7.387	9.943	1	
+Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.535	8.919	1	
+Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.520	8.988	1	
+Takum - Bukuru Federal Road	Mangu	Plateau	9.492	9.125	1	
+Takum - Bukuru Federal Road	Mangu	Plateau	9.486	9.141	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.866	9.575	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.861	9.595	1	
+Takum - Bukuru Federal Road	Langtang South	Plateau	8.688	9.661	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.600	9.627	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.425	9.690	1	
+BUK Road	Kano Municipal	Kano	11.986	8.529	1	
+BUK Road	Gwale	Kano	11.986	8.480	1	
+BUK First Gate	Gwale	Kano	11.979	8.474	1	
+Tanke Bubu road	Ilorin East	Kwara	8.480	4.615	1	
+Takum - Bukuru Federal Road	Wukari	Taraba	7.706	9.891	1	
+Takum - Bukuru Federal Road	Takum	Taraba	7.605	9.903	1	
+Church Bus stop	Alimosho	Lagos	6.609	3.256	1	
+Takum - Bukuru Federal Road	Shendam	Plateau	8.521	9.662	1	
+Senate Building Road	Akure South	Ondo	7.301	5.140	1	
+ASCL Bump	Ajaokuta	Kogi	7.538	6.673	1	
+Bumodi Road	Yenegoa	Bayelsa	4.977	6.245	1	
+Bumodi Road	Yenegoa	Bayelsa	4.976	6.271	1	
+Bashir Buhan Street	Gwale	Kano	11.975	8.472	1	
+bush hill crescent	Enugu East	Enugu	6.506	7.524	1	
+Butcher Road	Warri South	Delta	5.503	5.755	1	
+Bunas Street	Yenegoa	Bayelsa	4.954	6.274	1	
+Buba Close	Chikun	Kaduna	10.464	7.440	1	
+Buraimoh Street	Mushin	Lagos	6.527	3.363	1	
+Buba Yadi Street	Ngelzarma	Yobe	11.751	11.972	1	
+Ahmadu Bello University Senate building	Sabon Gari	Kaduna	11.151	7.655	0	
+Fadeyi Bus Stop	Shomolu	Lagos	6.525	3.368	0	
+ECTS (Comrade Bus)	Oredo	Edo	6.334	5.623	0	
+Bulwark doors	Oredo	Edo	6.314	5.610	0	
+Bus Stop	Oredo	Edo	6.329	5.628	0	
+Idi-osan Bus Stop	Egbeda	Oyo	7.448	4.026	0	
+Mile 12 Bus Stop	Kosofe	Lagos	6.606	3.400	0	
+E.C.T.S Bus Stop	Oredo	Edo	6.333	5.605	0	
+Sunroni bussiness center	Oredo	Edo	6.330	5.627	0	
+E.C.T.S Bus Stop	Egor	Edo	6.329	5.588	0	
+Bus Stop	Oredo	Edo	6.345	5.636	0	
+ECTS (Comrade) Bus Stop	Oredo	Edo	6.337	5.621	0	
+Bus Stop	Oredo	Edo	6.335	5.623	0	
+De Modern Bus Station	Oredo	Edo	6.347	5.623	0	
+National Bus Stop	Muhammadu Dikko Stadium	Katsina	12.984	7.601	0	
+Ogba Bus Park	Ikeja	Lagos	6.633	3.342	0	
+Bum-Bum Health Post	Bichi	Kano	12.249	8.397	0	
+Boluwaji Bus Stop	Ibadan South East	Oyo	7.341	3.907	0	
+Dogo Bus Stop	Ibadan South West	Oyo	7.383	3.828	0	
+Synagogue Bus-Stop	Alimosho	Lagos	6.546	3.272	0	
+Ikotun Bus Station	Alimosho	Lagos	6.549	3.268	0	
+Bukuma Jetty	Asari-Toru	Rivers	4.739	6.882	0	
+Buma Maternity and Child Health	Hawul	Borno	10.329	12.178	0	
+Buwa Health Clinic	Monguno	Borno	12.609	13.509	0	
+Burguma Dispensary	Kaga	Borno	11.601	12.405	0	
+Budingeri Health Clinic	Konduga	Borno	11.682	13.366	0	
+Bulungu Health Clinic	Bama	Borno	11.434	13.794	0	
+Baptist Bus Stop	Lagelu	Oyo	7.433	3.942	0	
+Last bus stop	Alimosho	Lagos	6.499	3.242	0	
+Bugama Jetty	Asari-Toru	Rivers	4.731	6.863	0	
+Ojuore bus stop	Ado Odo/Ota	Ogun	6.689	3.226	0	
+Iya Segun bus stop	Alimosho	Lagos	6.499	3.245	0	
+Judiciary bus stop	Afikpo North	Ebonyi	5.806	7.924	0	
+Adexson Ilepo Busstop	Alimosho	Lagos	6.529	3.216	0	
+Liberty Bus-Stop	Alimosho	Lagos	6.613	3.267	0	
+Stop over bus stop	Oshodi/Isolo	Lagos	6.554	3.325	0	
+Junction bus stop	Oshodi/Isolo	Lagos	6.552	3.329	0	
+Nyanya bus station	Municipal Area Council	FCT Abuja	9.023	7.571	0	
+Oja Ota Bus Stop	Ado Odo/Ota	Ogun	6.684	3.215	0	
+General Paint Bus Stop	Eti Osa	Lagos	6.471	3.590	0	
+Liquid Bulk Filling Station	Obio/Akpor	Rivers	4.853	7.062	0	
+Eleshingodogbo Bus-stop	Egbeda	Oyo	7.450	4.032	0	
+Elele Bus stop	Ìkòròdú	Lagos	6.673	3.479	0	
+Manuah Bustop	Enugu South	Enugu	6.425	7.508	0	
+NASFTS Buni Yadi	Gujba	Yobe	11.245	12.014	0	
+Badiko Bus Stop	Kaduna South	Kaduna	10.534	7.410	0	
+Ogijo Bus Stop	Shagamu	Ogun	6.706	3.510	0	
+Rock Canaan bus stop	Ado Odo/Ota	Ogun	6.731	3.269	0	
+Tinapa Business and Resort	Odukpani	Cross River	5.051	8.316	0	
+Aruna Bus Stop	Ìkòròdú	Lagos	6.625	3.493	0	
+Agric Bus Stop	Ìkòròdú	Lagos	6.625	3.488	0	
+Majidun Ogolonto Bus Stop	Ìkòròdú	Lagos	6.620	3.473	0	
+Majidun Awori Bus Stop	Ìkòròdú	Lagos	6.619	3.463	0	
+Irawo Bus Stop	Kosofe	Lagos	6.610	3.422	0	
+Idera Bus Stop	Kosofe	Lagos	6.612	3.416	0	
+Onirin Bus Stop	Kosofe	Lagos	6.609	3.409	0	
+Igbogbo Bus Terminus	Ìkòròdú	Lagos	6.589	3.519	0	
+Bularaba HEALTH CURE	Gulani	Yobe	11.070	11.794	0	
+Adewumi Bus Stop	Egbeda	Oyo	7.451	4.034	0	
+Bunvic Invest. Nig. Ltd.	Ogbomosho North	Oyo	8.142	4.243	0	
+Anthony Bus Stop	Ikeja	Lagos	6.559	3.367	0	
+Maryland Bus Stop	Ikeja	Lagos	6.575	3.370	0	
+Vulcanizer Bus Stop	Alimosho	Lagos	6.601	3.301	0	
 PHC Kadadin Buda	Gada	Sokoto	13.865	5.487	0	
 General Hospital Bungudu	Bungudu	Zamfara	12.271	6.559	0	
 bunary heath post	Larmurde	Adamawa	9.483	11.474	0	
@@ -1018,10 +1982,8 @@ Primary Health Building Dadiluwi Ilaje Riverine	Badagry	Lagos	6.404	3.029	0
 Bukz Clinical Diagnostic Center	Alimosho	Lagos	6.542	3.228	0	
 Futa Staff Primary School(PTA BUILDING)	Akure South	Ondo	7.296	5.148	0	
 Students Affairs	Akure South	Ondo	7.301	5.138	0	Prof. Kolade Ipinmoroti Building
-BUL BULA SPECIAL PRAMARY SCHOOL	Ungongo	Kano	12.036	8.564	0	
-Budua	Jakusko	Yobe	12.201	10.879	2	
+Bul Bula Special Pramary School	Ungongo	Kano	12.036	8.564	0	
 Building Materials	Jos South	Plateau	9.836	8.865	0	
-Buragbene	Southern Ijaw	Bayelsa	4.691	5.636	2	
 Buschords High School	Jos North	Plateau	9.930	8.918	0	
 Soludero Bus Terminal, Muritala Muhamed Way, Oko Erin, Nigeria	Ilorin East	Kwara	8.487	4.564	0	
 Iyana Opomalu Bus Stop, Emirs Road, Ilorin, Nigeria	Ilorin East	Kwara	8.491	4.559	0	
@@ -1103,77 +2065,12 @@ Gaduwa Estate Bus Stop	Municipal Area Council	FCT Abuja	9.005	7.466	0
 Gwarinpa Bus Stop	Municipal Area Council	FCT Abuja	9.119	7.406	0	
 Business Administration Department - NBTE	Kaduna North	Kaduna	10.611	7.443	0	
 Business Administration Department	Kaduna North	Kaduna	10.610	7.445	0	
-Butatong	Boki	Cross River	6.420	9.147	2	
 Senate Building	Ede South	Osun	7.681	4.458	0	
 Busary	Ede South	Osun	7.681	4.459	0	
 Postgraduate building	Ede South	Osun	7.682	4.459	0	
-Buabre	Boki	Cross River	6.421	9.247	2	
 Abuja International Building Materials Market	Municipal Area Council	FCT Abuja	9.102	7.278	0	
-Buraimoh Kenku Street	Eti Osa	Lagos	6.430	3.428	1	
-Bush Street	Kosofe	Lagos	6.565	3.369	1	
-Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.685	8.892	1	
-Mohammadu Buhari Way	Municipal Area Council	FCT Abuja	9.032	7.497	1	
-BUK Road	Kano Municipal	Kano	11.984	8.528	1	
-Ibrahim Bui Road	Kaduna North	Kaduna	10.544	7.447	1	
-Bungudu Road	Kaduna North	Kaduna	10.507	7.425	1	
 Kaduna Long haul Bus station	Kaduna North	Kaduna	10.587	7.440	0	
-Butcher Street	Oredo	Edo	6.336	5.623	1	
-Budo Egun Road	Apapa	Lagos	6.449	3.355	1	
 Administration Building	Ibadan North	Oyo	7.444	3.900	0	
-Buba Yero Road	Kaduna North	Kaduna	10.538	7.431	1	
-Buari Street	Kosofe	Lagos	6.571	3.394	1	
-Bucknor Savage Boulevard	Ifako/Ijaye	Lagos	6.648	3.326	1	
-Busari Cr	Alimosho	Lagos	6.600	3.297	1	
-Buluro Street	Agege	Lagos	6.608	3.316	1	
-Burma Road	Apapa	Lagos	6.441	3.375	1	
-Burma Road	Apapa	Lagos	6.438	3.368	1	
-Burma Road	Apapa	Lagos	6.437	3.365	1	
-Bunmi Olowude Street	Eti Osa	Lagos	6.429	3.467	1	
-Waff Road	Kaduna North	Kaduna	10.530	7.429	1	Muhammadu Buhari Way
-Waff Road	Kaduna North	Kaduna	10.530	7.435	1	Muhammadu Buhari Way
-BUK Road	Gwale	Kano	11.983	8.504	1	
-Bujumbura Street	Municipal Area Council	FCT Abuja	9.078	7.461	1	
-Mohammadu Buhari Way	Municipal Area Council	FCT Abuja	9.054	7.479	1	
-Busa-Buji Street	Jos North	Plateau	9.941	8.876	1	
-Buzi Close	Municipal Area Council	FCT Abuja	9.098	7.484	1	
-Bukoba Street	Municipal Area Council	FCT Abuja	9.066	7.463	1	
-Buchanan Crescent	Municipal Area Council	FCT Abuja	9.087	7.472	1	
-Bumbuna street	Municipal Area Council	FCT Abuja	9.053	7.465	1	
-ASCL Bump	Ajaokuta	Kogi	7.538	6.678	1	
-Ship Builders Road	Port-Harcourt	Rivers	4.750	7.009	1	
-Burundi Street	Municipal Area Council	FCT Abuja	9.062	7.466	1	
-Mohammadu Buhari Way	Municipal Area Council	FCT Abuja	9.041	7.487	1	
-LAST BUS STOP ROAD	Egor	Edo	6.362	5.569	1	
-Takum - Bukuru Federal Road	Pankshin	Plateau	9.153	9.360	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.964	9.428	1	
-Takum - Bukuru Federal Road	Mikang	Plateau	9.033	9.391	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.898	9.515	1	
-Takum - Bukuru Federal Road	Mikang	Plateau	8.995	9.407	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.507	9.106	1	
-Takum - Bukuru Federal Road	Jos South	Plateau	9.721	8.866	1	
-Buraimoh Street	Mushin	Lagos	6.512	3.337	1	
-Omupo - Ilala - Buari Road	Irepodun	Kwara	8.320	4.830	1	
-old buruku park road	Jos North	Plateau	9.926	8.886	1	
-Old Bukuru Park Road	Jos North	Plateau	9.925	8.888	1	
-Buchanan Close	Municipal Area Council	FCT Abuja	9.087	7.472	1	
-Pako Bustop	Shomolu	Lagos	6.520	3.385	1	
-Buraimon Street	Shomolu	Lagos	6.539	3.392	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.455	9.188	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.467	9.175	1	
-Takum - Bukuru Federal Road	Pankshin	Plateau	9.198	9.326	1	
-Takum - Bukuru Federal Road	Pankshin	Plateau	9.257	9.287	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.432	9.192	1	
-Takum - Bukuru Federal Road	Pankshin	Plateau	9.231	9.310	1	
-Takum - Bukuru Federal Road	Pankshin	Plateau	9.276	9.270	1	
-Tim Buckley Street	Enugu East	Enugu	6.481	7.590	1	
-Burma Road	Fagge	Kano	12.022	8.529	1	
-Sani Buhari (Walin Daura) Road	Gwale	Kano	11.994	8.504	1	
-Kuka Bulukiya Road	Dala	Kano	12.005	8.501	1	
-Bura street	Fagge	Kano	12.010	8.526	1	
-BUK Second gate	Gwale	Kano	11.976	8.471	1	
-BUK Third Gate	Gwale	Kano	11.975	8.468	1	
-bush hill road	Enugu East	Enugu	6.511	7.529	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.811	9.654	1	
 Department of Business Administration and Entrepreneurship	Ungongo	Kano	11.974	8.429	0	
 Bayero University Kano	Ungongo	Kano	11.964	8.431	0	Bayero University Kano (New Campus)|BUK
 Dangote Business School	Ungongo	Kano	11.967	8.428	0	DBS
@@ -1182,13 +2079,10 @@ Bumai Health Post	Kunchi	Kano	12.513	8.192	0
 Chedi Bubba Ruga Health Post	Dawakin Tofa	Kano	12.139	8.393	0	
 Bugai Primary Health Centre	Tofa	Kano	12.042	8.316	0	
 Buruntumau Health Post	Dawakin Tofa	Kano	12.184	8.421	0	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.566	9.642	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.739	9.660	1	
 Buzawa Health Post	Itas/Gadau	Bauchi	11.768	9.704	0	
 Buskuri Dispensary	Katagum	Bauchi	11.648	10.322	0	
 Busuri Dispensary	Katagum	Bauchi	11.643	10.565	0	
 Bunga Maternity	Warji	Bauchi	11.064	9.636	0	
-Muna Kori Bula Yalaye	Jere	Borno	11.871	13.240	1	
 Buka Tulai Dispensary	Toro	Bauchi	10.073	9.288	0	
 Bundilin Kasa Health Facility	Dass	Bauchi	9.972	9.605	0	
 Taka Bunde Dispensary	Toro	Bauchi	10.211	9.310	0	
@@ -1197,69 +2091,12 @@ Wurno Community Primary Health Center	Tafawa-Balewa	Bauchi	9.799	9.892	0	Burda M
 Burwat	Tafawa-Balewa	Bauchi	9.818	9.831	0	
 Bunja Health Clinic	Dass	Bauchi	9.967	9.494	0	
 Azare Bus Station	Katagum	Bauchi	11.675	10.189	0	
-Ade Buraimo Way	Eti Osa	Lagos	6.447	3.575	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.271	9.256	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.286	9.238	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.310	9.226	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.364	9.207	1	
-Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.566	8.904	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.457	9.687	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.775	9.662	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.514	9.080	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.918	9.456	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.562	9.647	1	
-Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.636	8.892	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.956	9.457	1	
-bulari sabuwa	Chibok	Borno	10.851	12.724	1	
-Panchari Bura Road	Kwaya Kusar	Borno	10.434	12.009	1	
 Burashika Dispensary	Shani	Borno	10.141	11.921	0	
 Buma Dispensary	Hawul	Borno	10.329	12.178	0	Buba Mch
 Bulumkutu General Hospital	Jere	Borno	11.833	13.088	0	
-Buyide Street	Ado Odo/Ota	Ogun	6.682	3.288	1	
-Burrow Pit Street	Sapele	Delta	5.858	5.699	1	
-Bunvic Street	Ogbomosho North	Oyo	8.129	4.261	1	
-Buba Njobbo Street	Yola South	Adamawa	9.254	12.414	1	
-Mallam Buba Street	Oshodi/Isolo	Lagos	6.522	3.309	1	
-Budget Road	Ifako/Ijaye	Lagos	6.640	3.320	1	
-Wahab Busari Street	Ado Odo/Ota	Ogun	6.689	3.246	1	
-Busari Street	Ado Odo/Ota	Ogun	6.691	3.245	1	
-bulari sabuwa	Chibok	Borno	10.859	12.828	1	
-bulari sabuwa	Chibok	Borno	10.850	12.798	1	
-bulari sabuwa	Chibok	Borno	10.847	12.768	1	
-Dan Buram Road	Kaduna North	Kaduna	10.540	7.470	1	
-Mohammadu Buhari Way	Municipal Area Council	FCT Abuja	9.035	7.492	1	
-Akanni Busari Street	Oshodi/Isolo	Lagos	6.507	3.304	1	
-Reverend Father Burke Crescent	Oshodi/Isolo	Lagos	6.521	3.311	1	
-Buggai St	Chikun	Kaduna	10.464	7.462	1	
 Lagos Business School	Eti Osa	Lagos	6.470	3.604	0	
-Takum - Bukuru Federal Road	Takum	Benue	7.510	9.932	1	
-Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.535	8.919	1	
-Takum - Bukuru Federal Road	Barkin Ladi	Plateau	9.520	8.988	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.492	9.125	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.486	9.141	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.866	9.575	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.861	9.595	1	
-Takum - Bukuru Federal Road	Langtang South	Plateau	8.688	9.661	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.600	9.627	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.445	9.695	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.425	9.690	1	
-BUK Road	Kano Municipal	Kano	11.986	8.529	1	
-BUK Road	Gwale	Kano	11.986	8.480	1	
-BUK First Gate	Gwale	Kano	11.979	8.474	1	
-BUK Road	Kano Municipal	Kano	11.981	8.521	1	
-Takum - Bukuru Federal Road	Mangu	Plateau	9.521	9.096	1	
-BUK Road	Gwale	Kano	11.982	8.482	1	
-Tanke Bubu road	Ilorin East	Kwara	8.480	4.615	1	
-Church Bus stop	Alimosho	Lagos	6.609	3.256	1	
-old buruku park road	Jos North	Plateau	9.929	8.885	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.547	9.653	1	
-Takum - Bukuru Federal Road	Shendam	Plateau	8.521	9.662	1	
-Senate Building Road	Akure South	Ondo	7.301	5.140	1	
-BUK Road	Gwale	Kano	11.989	8.488	1	
 Bulabulin Maternal and Child Health Care	Yunusari	Yobe	13.068	12.371	0	
 Bula Malla Dispensary	Yunusari	Yobe	13.205	11.408	0	
-Bukari	Yunusari	Yobe	13.157	11.538	2	
-ASCL Bump	Ajaokuta	Kogi	7.538	6.673	1	
 Hospital Building	Paikoro	Niger	9.387	6.714	0	
 Bus Park	Bosso	Niger	9.537	6.455	0	
 Bus Park	Isuikwuato	Abia	5.828	7.396	0	
@@ -1278,7 +2115,7 @@ Burji Primary Health Centre	Doguwa	Kano	11.166	8.547	0
 Bupa Medical Centre	Oredo	Edo	6.332	5.607	0	
 Burji Primary Health Centre	Madobi	Kano	11.894	8.395	0	
 Senate Bus Stop	Akure South	Ondo	7.302	5.140	0	
-UNIVERSITY SHUTTLE BUS STATION	Akure South	Ondo	7.304	5.135	0	
+University Shuttle Bus Station	Akure South	Ondo	7.304	5.135	0	
 Bununu Maternity	Tafawa-Balewa	Bauchi	9.886	9.682	0	
 Butur Dispensary	Dass	Bauchi	9.943	9.604	0	
 Buarnawa Dispensary	Bauchi	Bauchi	10.285	9.665	0	
@@ -1295,14 +2132,12 @@ Bujiyel Dispensary	Toro	Bauchi	10.013	9.000	0
 Model Primary Health Center Bununu	Tafawa-Balewa	Bauchi	9.870	9.661	0	
 Ondo State Bus Terminal	Akure South	Ondo	7.261	5.175	0	
 Bula Mallumbe Health Clinic	Ngala	Borno	12.359	14.283	0	
-BULABULIN  DISPENSARY	Fika	Yobe	11.405	11.414	0	
+Bulabulin  Dispensary	Fika	Yobe	11.405	11.414	0	
 Bultuwa Primary Health Center	Yunusari	Yobe	13.016	12.098	0	
 Buhari Dispensary	Yunusari	Yobe	13.091	12.242	0	
 Burkati Health Clinic Maternity and Child Health Center	Yunusari	Yobe	13.091	11.778	0	
 Bujum Kona Health Clinic	Numan	Adamawa	9.312	11.660	0	
 Buniikona Dispensary	Numan	Adamawa	9.312	11.661	0	
-Bumodi Road	Yenegoa	Bayelsa	4.977	6.245	1	
-Bumodi Road	Yenegoa	Bayelsa	4.976	6.271	1	
 Bulatura Health Clinic	Yusufari	Yobe	13.352	11.232	0	
 bulkutu dispensary	Larmurde	Adamawa	9.510	11.569	0	
 bungel b heath facility	Maiha	Adamawa	9.637	13.220	0	
@@ -1310,93 +2145,16 @@ Bula Health Facility	Fune	Yobe	11.739	11.262	0
 Buzu Karekare Health Post	Nangere	Yobe	11.797	11.030	0	
 Bunza General Hospital	Bunza	Kebbi	12.080	4.001	0	
 Lawan Bukarti Dispensary	Geidam	Yobe	12.834	11.844	0	
-Bashir Buhan Street	Gwale	Kano	11.975	8.472	1	
 Medical Center Building	Nsukka	Enugu	6.860	7.413	0	
-bush hill crescent	Enugu East	Enugu	6.506	7.524	1	
 Mariere Bus Stop	Enugu South	Enugu	6.426	7.507	0	
 Mafoluku Bus Terminal	Oshodi/Isolo	Lagos	6.556	3.325	0	
-Butcher Road	Warri South	Delta	5.503	5.755	1	
-Bunas Street	Yenegoa	Bayelsa	4.954	6.274	1	
-Bunas Street	Yenegoa	Bayelsa	4.945	6.277	1	
-Bunas Street	Yenegoa	Bayelsa	4.945	6.277	1	
 Zainab bulkachuwa women & children hospital	Gombe	Gombe	10.293	11.181	0	
-Waff Road	Kaduna North	Kaduna	10.532	7.446	1	Muhammadu Buhari Way
 Bus Park	Jos North	Plateau	9.949	8.891	0	
 Costain Bus stop	Lagos Mainland	Lagos	6.482	3.370	0	
 Ile-Epo Bus Stop	Alimosho	Lagos	6.634	3.301	0	
 Katangua Bus Stop	Alimosho	Lagos	6.642	3.305	0	
-Akanni Busari Street	Oshodi/Isolo	Lagos	6.506	3.305	1	
-Buba Close	Chikun	Kaduna	10.464	7.440	1	
-Buraimoh Street	Mushin	Lagos	6.527	3.363	1	
 School Bus Pickup Station	Ovia North-East	Edo	6.742	5.406	0	
 Bulumkutu GSM Village	Maiduguri	Borno	11.834	13.100	0	
 Federal University of Transportation Daura	Daura	Katsina	12.972	8.343	0	Muhammadu Buhari University of Transportation, Daura|FUTD
 Bulama Jalo Primary School	Maiduguri	Borno	11.805	13.135	0	
-Buba Yadi Street	Ngelzarma	Yobe	11.751	11.972	1	
 Buni Yadi Primary Health Care Center	Gujba	Yobe	11.281	12.002	0	
-Buni Yadi	Gujba	Yobe	11.288	12.034	2	
-Bularafa	Gulani	Yobe	11.133	11.820	2	
-Bultuwa	Yunusari	Yobe	12.965	12.059	2	
-Bumsa	Gulani	Yobe	11.016	11.773	2	
-Bulanguwa	Nguru	Yobe	12.997	10.359	2	
-Bukarti	Karasuwa	Yobe	12.937	10.872	2	
-Bulatura	Yusufari	Yobe	13.174	11.140	2	
-Bulabulin	Nguru	Yobe	12.855	10.475	2	
-Buduru	Garki	Jigawa	12.389	9.272	2	
-Buji	Buji	Jigawa	11.512	9.671	2	
-Bulunchai	Kiri Kasama	Jigawa	12.607	10.215	2	
-Buntusu	Gwiwa	Jigawa	12.730	8.268	2	
-Bungudu	Bungudu	Zamfara	12.308	6.540	2	
-Bungudu	Bungudu	Zamfara	12.008	6.516	2	
-Bukkuyum	Bukkuyum	Zamfara	12.184	5.498	2	
-Bunkari	Binji	Sokoto	13.121	4.921	2	
-Bunza Marafa	Bunza	Kebbi	12.096	3.972	2	
-Bunza Dangaladima	Bunza	Kebbi	12.048	4.009	2	
-Bui	Arewa Dandi	Kebbi	12.722	4.134	2	
-Buma	Dandi	Kebbi	11.649	3.725	2	
-Bunza	Bunza	Kebbi	12.201	3.934	2	
-Bubuche	Augie	Kebbi	12.826	4.651	2	
-Bukkuyum	Bukkuyum	Zamfara	11.985	5.583	2	
-Buda	Kajuru	Kaduna	10.359	7.642	2	
-Burun-Burun	Tudun Wada	Kano	11.400	8.732	2	
-Burji	Madobi	Kano	11.889	8.415	2	
-Butu-Butu	Rimin Gado	Kano	11.954	8.213	2	
-Bunkure	Bunkure	Kano	11.679	8.519	2	
-Bunkure	Bunkure	Kano	11.669	8.549	2	
-Bumai	Kunchi	Kano	12.486	8.186	2	
-Bugaje	Jibia	Katsina	12.971	7.463	2	
-Bumbum A	Mai'Adua	Katsina	13.271	8.113	2	
-Bujawa	Mani	Katsina	12.873	8.043	2	
-Bumbum B	Mai'Adua	Katsina	13.213	8.137	2	
-Bugagadi	Dutsin Ma	Katsina	12.435	7.586	2	
-Burdugau	Kankara	Katsina	11.880	7.513	2	
-Buruku	Buruku	Benue	7.419	9.214	2	
-Kabba/Bunu	Kabba/Bunu	Kogi	8.070	6.141	2	
-Buni Gari	Gujba	Yobe	11.331	12.156	2	
-Busuna	Abadam	Borno	13.698	13.348	2	
-Bundur	Kukawa	Borno	12.869	13.727	2	
-Buratai	Biu	Borno	10.965	12.159	2	
-Buma	Shani	Borno	10.293	12.221	2	
-Buduwa	Jakusko	Yobe	12.198	10.827	2	
-Bundot	Dass	Bauchi	10.009	9.539	2	
-Bununu South	Dass	Bauchi	9.927	9.588	2	
-Bursali	Zaki	Bauchi	12.436	10.679	2	
-Bulangu	Kafin Hausa	Jigawa	12.078	10.115	2	
-Bula A	Tafawa-Balewa	Bauchi	9.981	9.651	2	
-Bununu A	Tafawa-Balewa	Bauchi	9.880	9.653	2	
-Bununu East	Dass	Bauchi	9.992	9.542	2	
-Bununu West	Dass	Bauchi	9.941	9.472	2	
-Bununu Central	Dass	Bauchi	10.001	9.508	2	
-Bununu B	Tafawa-Balewa	Bauchi	9.776	9.726	2	
-Bugun	Bogoro	Bauchi	9.591	9.705	2	
-Bula B	Tafawa-Balewa	Bauchi	9.831	9.604	2	
-Buskuri	Katagum	Bauchi	11.699	10.340	2	
-Buzawa	Itas/Gadau	Bauchi	11.799	9.824	2	
-Bukul	Shira	Bauchi	11.322	9.969	2	
-Burra	Ningi	Bauchi	11.049	8.917	2	
-Bulabulin	Maiduguri	Borno	11.836	13.159	2	
-Bulabulin	Gwoza	Borno	11.105	13.644	2	
-Central Business District	Municipal Area Council	FCT Abuja	9.058	7.494	2	
-Buji	Buji	Jigawa	11.548	9.732	2	
-Burutu	Burutu	Delta	5.240	5.569	2	
-Gidan Bubu	Wamako	Sokoto	13.114	5.182	2	

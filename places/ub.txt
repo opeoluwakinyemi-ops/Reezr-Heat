@@ -1,3 +1,9 @@
+Ubiaja	Esan South-East	Edo	6.650	6.389	3	
+Uba	Askira-Uba	Borno	10.453	13.221	3	
+Ubomiri	Mbaitoli	Imo	5.538	7.015	3	Ubomini
+Onicha	Onicha	Ebonyi	6.116	7.835	3	Onicha-Uburu
+Obiozara	Ohaozara	Ebonyi	6.045	7.759	3	Obiozara Uburu
+Ubulu	Oru East	Imo	5.799	6.920	3	
 Uburu	Ohaozara	Ebonyi	6.045	7.769	2	
 Ubaha Oloko	Isiala-Ngwa South	Abia	5.367	7.500	2	Ubaha
 Ubulu-uku	Aniocha South	Delta	6.234	6.446	2	
@@ -9,17 +15,13 @@ Ubulo Okiti	Aniocha South	Delta	6.293	6.526	2	Uburukiti
 Ebazogbenugu	Orhionmwon	Edo	6.023	5.945	2	Ubazogbe
 Obotung Enwang	Mbo	Akwa Ibom	4.638	8.260	2	Ubotuong Enwang
 Ubat Mbat	Odukpani	Cross River	5.091	8.140	2	Uba Mbat
-Ubiaja	Esan South-East	Edo	6.650	6.389	3	
 Ubahu	Nkanu East	Enugu	6.535	7.682	2	Ogbaho
 Ubeta	Ahoada West	Rivers	5.167	6.585	2	
 Ubege	Fakai	Kebbi	11.388	4.933	2	
 Ubima	Ikwerre	Rivers	5.121	6.903	2	Ibima
 Igbubuzi	Owan West	Edo	6.875	5.873	2	Ubueze;Igbubezi
-Uba	Askira-Uba	Borno	10.453	13.221	3	
 Uberomu	Esan North-East	Edo	6.665	6.280	2	Obieroumu;Uberomu
-Ubomiri	Mbaitoli	Imo	5.538	7.015	3	Ubomini
 Ubantoma	Ifelodun	Kwara	8.833	4.833	2	Ubanloma
-Onicha	Onicha	Ebonyi	6.116	7.835	3	Onicha-Uburu
 Ubagboro	Warri South-West	Delta	5.600	5.247	2	
 Ugbodu	Aniocha North	Delta	6.378	6.455	2	Ogbodu;Ubodu
 Uburubu	Aniocha North	Delta	6.452	6.502	2	
@@ -32,22 +34,171 @@ Ukpom Usung Ubom	Ikono	Akwa Ibom	5.233	7.750	2	Ukpom Usung Ubon
 Ubumimi	Emuoha	Rivers	5.267	6.733	2	Ubomine;Ubimimi
 Ubeagu Ndikuda	Izzi	Ebonyi	6.393	8.363	2	
 Nto Ubiam	Essien Udim	Akwa Ibom	5.085	7.630	2	
-Uba Primary Health Center	Askira-Uba	Borno	10.459	13.214	0	
 Maiunguwa Ubale	Garum Mallam	Kano	11.712	8.425	2	
 Uba Karawa	Gabasawa	Kano	12.073	8.835	2	
-UBA General Hospital	Askira-Uba	Borno	10.476	13.190	0	
-Health Post Uba Dispensary	Askira-Uba	Borno	10.454	13.206	0	
-Uba Primary Health Care Center	Askira-Uba	Borno	10.451	13.218	0	
-UBA Bus stop	Enugu North	Enugu	6.429	7.488	0	
 Ubio	Ahoada East	Rivers	5.175	6.617	2	
 Uborji	Owerri West	Imo	5.483	6.937	2	
 Ubagboro	Warri North	Delta	5.895	5.250	2	
-Obiozara	Ohaozara	Ebonyi	6.045	7.759	3	Obiozara Uburu
-Ubulu-okiti	Aniocha South	Delta	6.235	6.448	0	
-General Hospital Sabon Tasha Firoro Road Uboro Sabon Tasha Kaduna	Chikun	Kaduna	10.451	7.469	0	
-UBAYYU BIN KAAB	Ungongo	Kano	12.042	8.567	0	
-MADARATU UBAIYI BIN KA'AB	Gwale	Kano	11.963	8.479	0	
-Ubulu	Oru East	Imo	5.799	6.920	3	
+Uban Dawaki	Gummi	Zamfara	12.177	5.073	2	
+Ubandawaki A	Daura	Katsina	13.050	8.325	2	
+Ubandawaki B	Daura	Katsina	13.015	8.293	2	
+Nsit Ubium	Nsit Ubium	Akwa Ibom	4.760	7.949	2	
+Ihitte/Uboma	Ihitte/Uboma	Imo	5.649	7.381	2	
+Uba	Askira-Uba	Borno	10.467	13.195	2	
+Askira-Uba	Askira-Uba	Borno	10.725	13.157	2	
+Ukpom Usung Ubom	Ikono	Akwa Ibom	5.226	7.759	2	Ukpom Usung Ubon
+Ubulubu	Aniocha North	Delta	6.453	6.503	2	Uburubu
+Uburu	Ohaozara	Ebonyi	6.047	7.755	2	
+Uburu	Arochukwu	Abia	5.441	7.882	2	
+Ubumimi	Ogba/Egbema/Ndoni	Rivers	5.270	6.736	2	Ubimimi|Ubomine
+Ubulu-Unor	Aniocha South	Delta	6.192	6.468	2	
+Ubulo-Okiti	Aniocha South	Delta	6.295	6.527	2	Uburukiti
+Ubukpor Urua Eye	Mbo	Akwa Ibom	4.697	8.224	2	
+Ububa	Isiala-Ngwa North	Abia	5.333	7.433	2	
+Uboro Oron	Urue Offong/Oruko	Akwa Ibom	4.748	8.182	2	
+Uboro Isong Inyang	Udung Uko	Akwa Ibom	4.772	8.237	2	
+Ubong	Boki	Cross River	6.420	9.133	2	
+Uboko	Ankpa	Kogi	7.430	7.733	2	Okobo
+Ubogo	Udu	Delta	5.444	5.831	2	
+Ubogidi	Ogbadibo	Benue	7.027	7.662	2	
+Ubodung	Urue Offong/Oruko	Akwa Ibom	4.699	8.132	2	
+Uboali	Konshisha	Benue	7.021	8.558	2	
+Ubo	Ushongo	Benue	7.199	8.881	2	
+Ubiane	Etsako West	Edo	7.011	6.278	2	Ayeri-Ubiane
+Ubi	Gwer East	Benue	7.533	8.500	2	
+Ubi	Gboko	Benue	7.251	8.720	2	
+Ubeta	Ahoada West	Rivers	5.166	6.587	2	
+Ubereni	Biase	Cross River	5.681	7.913	2	
+Ubeggi	Mashegu	Niger	9.519	5.146	2	
+Ubefan	Warri South-West	Delta	5.593	5.301	2	
+Ubeagu-Ndikuda	Izzi	Ebonyi	6.401	8.325	2	
+Ubeagu	Aninri	Enugu	5.968	7.630	2	
+Ube	Guma	Benue	7.910	8.772	2	
+Ubani	Umuahia North	Abia	5.599	7.502	2	
+Ubakukuru	Warri North	Delta	6.042	5.138	2	
+Ubaha-Oloko	Isiala-Ngwa South	Abia	5.373	7.487	2	Ubaha
+Ubaha	Okigwe	Imo	5.826	7.343	2	
+Ubagu Usoanyim	Izzi	Ebonyi	6.412	8.307	2	
+Ubagbon	Oredo	Edo	6.300	5.567	2	
+Uba	Askira-Uba	Borno	10.455	13.222	2	
+Uba	Takum	Taraba	7.436	10.006	2	
+Uba	Konshisha	Benue	7.088	8.778	2	
+Ono Ikot Ubo	Ibiono Ibom	Akwa Ibom	5.248	7.870	2	
+Ogo Ubi	Ohaozara	Ebonyi	5.992	7.794	2	
+Ogo Ubi	Onicha	Ebonyi	5.989	7.931	2	
+Ogo Ubi	Ivo	Ebonyi	5.920	7.625	2	
+Ogo Ubi	Isuikwuato	Abia	5.871	7.528	2	
+Ogo Ubi	Ivo	Ebonyi	5.839	7.665	2	
+Ogo-Ubi	Edda	Ebonyi	5.823	7.727	2	
+Ogo-Ubi	Ohafia	Abia	5.731	7.783	2	
+Ogo Ubi	Arochukwu	Abia	5.644	7.737	2	
+Ogo-Ubi	Biase	Cross River	5.628	7.966	2	
+Ogo-Ubi	Biase	Cross River	5.526	7.952	2	
+Ubierumu	Esan North-East	Edo	6.669	6.281	2	Obieroumu|Uberomu
+Ndi-Ube	Abakaliki	Ebonyi	6.224	8.255	2	Ndiube
+Ikot Ubo Akpe	Ikot Abasi	Akwa Ibom	4.701	7.707	2	
+Ikot Ubo Akama	Ikot Abasi	Akwa Ibom	4.641	7.609	2	
+Ikot Ubo	Oruk Anam	Akwa Ibom	4.954	7.739	2	
+Ikot Ubo	Nsit Ubium	Akwa Ibom	4.723	8.028	2	Ikot Obo
+Ikot-Ubeng	Ini	Akwa Ibom	5.358	7.727	2	
+Ikot Oku Ubo	Ibesikpo Asutan	Akwa Ibom	4.943	7.940	2	
+Guidan Uban Dawaki	Bungudu	Zamfara	12.289	6.570	2	Gidan Uban Dawaki
+Gidan Uban Dawaki	Rafi	Niger	10.122	6.233	2	
+Achikaratu Ubandawaki	Maiyama	Kebbi	11.991	4.304	2	
+UBULU UKU ( Ubulu Ezemu)	Aniocha South	Delta	6.234	6.448	2	Abuluku|Ubulu-Uku
+Uborum	Ikwerre	Rivers	5.215	6.911	2	
+Ubato	Hong	Adamawa	10.416	13.103	2	
+Dasu Ubi	Hong	Adamawa	10.399	13.040	2	
+Ubameze	Ahoada East	Rivers	4.941	6.641	2	Obumeze
+Ubale	Ọ̀wọ̀	Ondo	7.182	5.493	2	
+Ufok Ubet	Odukpani	Cross River	5.048	8.214	2	
+Ubarogbo	Irele	Ondo	6.314	5.016	2	
+Ubatere	Warri North	Delta	6.010	5.381	2	
+Ubasa	Ogun Waterside	Ogun	6.392	4.520	2	
+Uba	Ijebu East	Ogun	6.629	4.153	2	
+Gidan Sarikin-Ubaru	Mariga	Niger	10.594	6.044	2	
+Ubege	Fakai	Kebbi	11.387	4.937	2	
+Ubege	Fakai	Kebbi	11.382	4.938	2	
+Ubandawaki	Fakai	Kebbi	11.407	4.897	2	
+Ubakotete Camp	Warri South	Delta	5.667	5.598	2	
+Ubagheja	Warri North	Delta	5.861	5.555	2	
+Ubiom	Onna	Akwa Ibom	4.682	7.852	2	
+Ogo Ubi	Afikpo North	Ebonyi	5.957	7.961	2	
+Ogo-Ubi	Bende	Abia	5.819	7.660	2	
+Ogo-Ubi	Arochukwu	Abia	5.650	7.705	2	
+Ogo-Ubi	Ohafia	Abia	5.650	7.769	2	
+Amaba-Ubibia	Bende	Abia	5.500	7.660	2	
+Ogo Ubi	Ini	Akwa Ibom	5.510	7.748	2	
+Ubila Ametiti	Arochukwu	Abia	5.408	7.931	2	
+Ubibia	Bende	Abia	5.498	7.639	2	
+Ikot-Udo-Uba	Ini	Akwa Ibom	5.358	7.819	2	
+Ikot Ubo Ikot-Uko	Ibiono Ibom	Akwa Ibom	5.261	7.890	2	
+Ikot Uba	Ibiono Ibom	Akwa Ibom	5.223	7.859	2	
+Ukpom Usung Ubon	Ikono	Akwa Ibom	5.240	7.741	2	
+Ikot Ubo	Ikot Ekpene	Akwa Ibom	5.168	7.663	2	
+Ikot Ubom	Abak	Akwa Ibom	5.079	7.780	2	
+Afaha Ube	Uyo	Akwa Ibom	5.042	7.908	2	
+Ikot Oku Ubo	Uyo	Akwa Ibom	5.027	7.883	2	
+Ikot Oku Ubok	Uyo	Akwa Ibom	5.024	7.868	2	
+Ogo-Ubi	Ohafia	Abia	5.700	7.700	2	
+Uba	Oguta	Imo	5.566	6.889	2	
+Ubomukwu	Ohaji/Egbema	Imo	5.572	6.758	2	
+Ubaraekwem	Ihiala	Anambra	5.870	6.833	2	
+Ubarakpaka	Ihiala	Anambra	5.861	6.846	2	
+Ubrihi Jeofor	Oru West	Imo	5.809	6.914	2	
+Ubahidara	Ihiala	Anambra	5.770	6.851	2	
+Ubarazor	Oru East	Imo	5.693	6.961	2	
+Uboma	Oguta	Imo	5.545	6.903	2	
+Ubomukwu	Ogba/Egbema/Ndoni	Rivers	5.443	6.613	2	
+Ihitte/Uboma	Ihitte/Uboma	Imo	5.622	7.365	2	Agbegbe Ijoba Ibile Ihitte Uboma
+Nsit Ubium	Nsit Ubium	Akwa Ibom	4.743	7.949	2	
+Askira-Uba	Askira-Uba	Borno	10.636	12.878	2	Askira/Uba|Askira/Uba Local Government Area
+Ubugh	Gwer East	Benue	7.279	8.443	2	
+Ubeke	Obi	Benue	7.058	8.386	2	
+Uburu-Amachi	Abakaliki	Ebonyi	6.281	8.205	2	
+Ubiagu	Ikwo	Ebonyi	6.105	8.141	2	Ubuagu
+Ubuagu-Eleki	Ikwo	Ebonyi	6.093	8.134	2	
+Ubandawaki B	Daura	Katsina	13.020	8.297	2	
+Ubandawaki A	Daura	Katsina	13.051	8.325	2	
+Ubur	Logo	Benue	7.709	9.319	2	
+Ubur	Logo	Benue	7.690	9.337	2	
+Uba	Wukari	Taraba	7.783	9.735	2	
+Ubongo	Ukum	Benue	7.664	9.656	2	
+Ubur	Wukari	Taraba	7.705	9.790	2	
+Ubee	Donga	Taraba	7.630	9.885	2	
+Uba	Gboko	Benue	7.260	9.023	2	
+Ubur	Katsina-Ala	Benue	7.395	9.341	2	
+Ubugh	Katsina-Ala	Benue	7.321	9.400	2	
+Ubili	Ushongo	Benue	7.064	9.144	2	
+Ubur	Buruku	Benue	7.161	9.220	2	
+Eguagie Ubueghae	Orhionmwon	Edo	6.177	6.081	2	
+Ashama Ubulunok	Aniocha South	Delta	6.114	6.423	2	
+Ubulubu	Aniocha South	Delta	6.229	6.440	2	
+Ubiane-Avbiele	Etsako West	Edo	6.994	6.296	2	
+Ato-Ubierumu	Esan North-East	Edo	6.681	6.290	2	Atu
+Ubierumu-Nowa	Esan North-East	Edo	6.711	6.300	2	
+Oyomon-Ubiaja	Esan South-East	Edo	6.664	6.368	2	
+Ubang	Langtang South	Plateau	8.754	9.848	2	
+Uban Doma	Wase	Plateau	8.966	9.973	2	
+Uba-Troy	Warri North	Delta	5.973	5.353	2	
+Uba-Tailor	Warri North	Delta	5.977	5.363	2	
+Ubadiaogo	Warri North	Delta	5.979	5.366	2	
+Ubosi Ebe	Warri North	Delta	5.990	5.456	2	
+Uba-Tailor	Warri North	Delta	5.978	5.486	2	
+Uba Upasibaba	Warri North	Delta	5.924	5.311	2	
+Uba Olure	Warri North	Delta	5.892	5.270	2	
+Ubagboro	Warri North	Delta	5.890	5.246	2	
+Ubajekere	Warri North	Delta	5.874	5.046	2	
+Uba	Warri North	Delta	5.795	5.046	2	
+Ubaporo	Warri South	Delta	5.612	5.489	2	
+Ubaka	Demsa	Adamawa	9.199	11.723	2	
+Ubakala	Umuahia South	Abia	5.511	7.476	2	
+Ubandawaki	Kalgo	Kebbi	12.290	4.111	2	
+Uba	Ese Odo	Ondo	6.312	4.871	2	
+Ubul	Qua'An Pan	Plateau	8.567	8.997	2	
+Ubaji	Agaie	Niger	8.956	6.331	2	
+Ubo	Toto	Nasarawa	8.140	7.297	2	
+Ubo	Toto	Nasarawa	8.130	7.081	2	
 Ubague Street	Oredo	Edo	6.338	5.623	1	
 Ifeanyi Ubah Crescent	Kosofe	Lagos	6.637	3.370	1	
 Ubiaja Street	Municipal Area Council	FCT Abuja	9.015	7.490	1	
@@ -61,14 +212,12 @@ Chris Uba Street	Enugu North	Enugu	6.464	7.488	1
 Ubabuike Close	Enugu East	Enugu	6.473	7.502	1	
 Uboilo Street	Enugu East	Enugu	6.495	7.505	1	
 Ubaka Street	Enugu South	Enugu	6.408	7.505	1	
-Ubaka Street	Enugu South	Enugu	6.408	7.505	1	
 Ubosi Close	Enugu North	Enugu	6.459	7.510	1	
 Ubosi Street	Enugu North	Enugu	6.458	7.511	1	
 Uba - Damboa Road	Askira-Uba	Borno	10.609	13.002	1	
 Uba - Damboa Road	Damboa	Borno	10.985	12.788	1	
 Uba - Damboa Road	Damboa	Borno	11.128	12.755	1	
 Ibiasogbe-Ubulu-Awoidemili Rd	Oru East	Imo	5.782	6.909	1	
-Ubani Modern Market	Umuahia North	Abia	5.598	7.509	0	
 Nempi-Ubulu-Amafou Rd	Ihiala	Anambra	5.815	6.897	1	
 Uba Street	Ifako/Ijaye	Lagos	6.674	3.301	1	
 Ama Agabi-Ubahadara Rd	Oru East	Imo	5.784	6.940	1	
@@ -79,20 +228,22 @@ Udotung Ubo street	Uyo	Akwa Ibom	5.026	7.933	1
 Nzok Ubbizi Avenur	Eti Osa	Lagos	6.475	3.604	1	
 Ubale Liman Street	Ungongo	Kano	11.971	8.441	1	
 Ubetim	Nsit Atai	Akwa Ibom	4.848	8.030	1	
-General Hospital Uba	Askira-Uba	Borno	10.478	13.186	0	
 enugu uboji street	Enugu North	Enugu	6.466	7.457	1	
-Ama Agabi-Ubahadara Rd	Oru East	Imo	5.788	6.933	1	
 Egemole-Ubahadara-Amagu Ring Rd	Oru East	Imo	5.790	6.932	1	
-Hilltop Primary School Ubah Umuakah	Njaba	Imo	5.674	7.018	0	
 Ubah Umuezeala Road	Njaba	Imo	5.674	7.025	1	
-UBE Kalaring	Kaltungo	Gombe	9.811	11.309	0	
 Ubahu	Okigwe	Imo	5.834	7.347	1	
 Ubahadara Rd	Oru East	Imo	5.789	6.930	1	
 Ubague Street	Oredo	Edo	6.337	5.625	1	
-Uban Dawaki	Gummi	Zamfara	12.177	5.073	2	
-Ubandawaki A	Daura	Katsina	13.050	8.325	2	
-Ubandawaki B	Daura	Katsina	13.015	8.293	2	
-Nsit Ubium	Nsit Ubium	Akwa Ibom	4.760	7.949	2	
-Ihitte/Uboma	Ihitte/Uboma	Imo	5.649	7.381	2	
-Uba	Askira-Uba	Borno	10.467	13.195	2	
-Askira-Uba	Askira-Uba	Borno	10.725	13.157	2	
+Uba Primary Health Center	Askira-Uba	Borno	10.459	13.214	0	
+UBA General Hospital	Askira-Uba	Borno	10.476	13.190	0	
+Health Post Uba Dispensary	Askira-Uba	Borno	10.454	13.206	0	
+Uba Primary Health Care Center	Askira-Uba	Borno	10.451	13.218	0	
+UBA Bus stop	Enugu North	Enugu	6.429	7.488	0	
+Ubulu-okiti	Aniocha South	Delta	6.235	6.448	0	
+General Hospital Sabon Tasha Firoro Road Uboro Sabon Tasha Kaduna	Chikun	Kaduna	10.451	7.469	0	
+Ubayyu Bin Kaab	Ungongo	Kano	12.042	8.567	0	
+Madaratu Ubaiyi Bin Ka'Ab	Gwale	Kano	11.963	8.479	0	
+Ubani Modern Market	Umuahia North	Abia	5.598	7.509	0	
+General Hospital Uba	Askira-Uba	Borno	10.478	13.186	0	
+Hilltop Primary School Ubah Umuakah	Njaba	Imo	5.674	7.018	0	
+UBE Kalaring	Kaltungo	Gombe	9.811	11.309	0	

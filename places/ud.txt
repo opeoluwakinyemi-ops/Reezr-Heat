@@ -1,13 +1,17 @@
-Udo	Iguegben	Edo	6.628	6.339	2	
 Odoro Ikpe	Ini	Akwa Ibom	5.357	7.750	3	Ududu Ikpe
+Udi	Udi	Enugu	6.323	7.398	3	
+Uduma	Aninri	Enugu	6.101	7.608	3	
+Udo	Ovia South-West	Edo	6.477	5.356	3	
+Udung Uko	Udung Uko	Akwa Ibom	4.760	8.244	3	
+Nung Udoe	Ibesikpo Asutan	Akwa Ibom	4.917	7.964	3	
+Otor-Udu	Udu	Delta	5.453	5.869	3	Otudu|Udu
+Udo	Iguegben	Edo	6.628	6.339	2	
 Udegi	Nasarawa	Nasarawa	8.251	7.902	2	Udegi mbeki emire palace
 Ude	Mbo	Akwa Ibom	4.651	8.208	2	Udenge
 Udan Marki	Gudu	Sokoto	13.327	4.565	2	
 Abiakpo Ikot Udo Oboro	Ikot Ekpene	Akwa Ibom	5.233	7.667	2	Abia Ikot Udo Oboro
 Uda	Askira-Uba	Borno	10.501	13.085	2	
 Otor Udu	Udu	Delta	5.452	5.870	2	Otudu
-Udi	Udi	Enugu	6.323	7.398	3	
-Uduma	Aninri	Enugu	6.101	7.608	3	
 Uda	Guma	Benue	7.958	8.570	2	
 Ikot Akpa Udua	Nsit Ibom	Akwa Ibom	4.886	7.933	2	Ikot Akpa Ndua
 Uduagba	Ahoada East	Rivers	5.059	6.639	2	
@@ -18,9 +22,7 @@ Uduk Usung	Obot Akara	Akwa Ibom	5.217	7.583	2
 Udomowo	Ikwo	Ebonyi	6.056	8.232	2	Udomowo;Udimowo
 Udara	Kontagora	Niger	10.467	5.493	2	Udora
 Odenyi	Bassa	Kogi	7.789	7.032	2	Adenye;Udenyi
-Udo	Ovia South-West	Edo	6.477	5.356	3	
 Udun Uwe	Urue Offong/Oruko	Akwa Ibom	4.695	8.168	2	Udung Uwe
-Udung Uko	Udung Uko	Akwa Ibom	4.760	8.244	3	
 Udochi	Etsako Central	Edo	7.137	6.495	2	
 Ikot Udo	Mkpat Enin	Akwa Ibom	4.654	7.741	2	
 Ikot Akpan Udo	Oruk Anam	Akwa Ibom	4.756	7.615	2	
@@ -44,7 +46,242 @@ Ikot Udu	Essien Udim	Akwa Ibom	5.142	7.601	2
 Ikot Udu	Essien Udim	Akwa Ibom	5.151	7.592	2	
 Uda A	Biu	Borno	10.719	11.982	2	
 Uda B	Biu	Borno	10.718	11.985	2	
-UDUA ODUNG	Ukanafun	Akwa Ibom	4.873	7.652	2	
+Udua Odung	Ukanafun	Akwa Ibom	4.873	7.652	2	
+Udhedhe	Ogba/Egbema/Ndoni	Rivers	5.416	6.494	2	
+Ikot Udo	Ibesikpo Asutan	Akwa Ibom	4.887	7.952	2	
+Afaha Udo Eyod	Ibesikpo Asutan	Akwa Ibom	4.896	7.937	2	
+Aja-Udaibo	Warri South-West	Delta	5.598	5.207	2	
+Essien Udim	Essien Udim	Akwa Ibom	5.104	7.657	2	
+Udenu	Udenu	Enugu	6.896	7.561	2	
+Udi	Udi	Enugu	6.436	7.399	2	
+Uvu Uda	Askira-Uba	Borno	10.477	13.096	2	
+Udubo Central	Gamawa	Bauchi	11.989	10.690	2	
+Udu	Udu	Delta	5.477	5.822	2	
+Udung Uko	Udung Uko	Akwa Ibom	4.751	8.263	2	
+Umuohu-Udume	Umuahia North	Abia	5.513	7.501	2	Umuohu Ndume
+Uko Udo	Ukanafun	Akwa Ibom	4.858	7.532	2	
+Uduota	Etim Ekpo	Akwa Ibom	4.897	7.521	2	
+Udun Ukpo	Urue Offong/Oruko	Akwa Ibom	4.689	8.160	2	
+Udung Offiong	Okobo	Akwa Ibom	4.738	8.072	2	
+Udung Eyo Utitntai	Mbo	Akwa Ibom	4.648	8.179	2	
+Oduma	Aninri	Enugu	6.094	7.623	2	Uduma
+Udum	Hong	Adamawa	10.361	12.952	2	
+Uduku-Enyi	Ikwo	Ebonyi	6.150	8.207	2	
+Uduku	Ngaski	Kebbi	10.813	4.906	2	
+Uduk	Ikono	Akwa Ibom	5.272	7.719	2	
+Uduehen	Ikpoba-Okha	Edo	6.197	5.679	2	
+Udubo	Gamawa	Bauchi	11.939	10.638	2	
+Uduogba	Ahoada East	Rivers	5.059	6.638	2	Uduagba
+Udoo	Gboko	Benue	7.315	8.699	2	
+Odomowo	Ikwo	Ebonyi	6.058	8.238	2	Udimowo|Udomowo
+Udomi	Ika South	Delta	6.137	6.177	2	
+Udogo	Gboko	Benue	7.330	8.643	2	
+Udochi	Etsako Central	Edo	6.941	6.660	2	
+Udo	Ovia South-West	Edo	6.475	5.355	2	
+Udi	Ika	Akwa Ibom	5.014	7.520	2	
+Udenyuma	Yala	Cross River	6.612	8.572	2	
+Udeni	Uhunmwonde	Edo	6.451	5.854	2	
+Udei	Guma	Benue	8.105	8.524	2	
+Udegi Beki	Nasarawa	Nasarawa	8.336	7.897	2	
+Ude	Markurdi	Benue	7.760	8.599	2	
+Ude	Gwer East	Benue	7.308	8.241	2	
+Ude	Konshisha	Benue	7.236	8.559	2	
+Ude	Konshisha	Benue	7.208	8.560	2	
+Udawa	Chikun	Kaduna	10.472	7.060	2	
+Udaru	Rijau	Niger	11.083	4.967	2	
+Udama	Degema	Rivers	4.767	6.783	2	
+Udakpa	Esan South-East	Edo	6.647	6.459	2	
+Udajor	Gwer East	Benue	7.340	8.536	2	
+Udah	Keana	Nasarawa	8.185	8.594	2	
+Uda	Gwer East	Benue	7.373	8.533	2	Uta
+Uda	Urue Offong/Oruko	Akwa Ibom	4.661	8.201	2	
+Ogbe-Udu	Udu	Delta	5.428	5.830	2	
+Offi Uda	Mbo	Akwa Ibom	4.645	8.205	2	
+Odenyi	Bassa	Kogi	7.780	7.054	2	Adenye|Udenyi
+Ndi-Uduma Ukwu	Ohafia	Abia	5.644	7.793	2	
+Udi-Uduma	Ohafia	Abia	5.538	7.844	2	Ndi-Uduma
+Ndi-Udara	Abakaliki	Ebonyi	6.298	8.203	2	
+Mbiabong Ikot-Udofia	Ini	Akwa Ibom	5.334	7.696	2	
+Itak Udara	Ikot Ekpene	Akwa Ibom	5.168	7.722	2	
+Ikpe Udok	Essien Udim	Akwa Ibom	5.141	7.792	2	
+Ikot Udor Esiom	Ukanafun	Akwa Ibom	4.841	7.596	2	
+Ikot Udo Nkan	Ibesikpo Asutan	Akwa Ibom	4.873	7.939	2	
+Ikot Udo Mbang	Ukanafun	Akwa Ibom	4.894	7.631	2	
+Ikot Udoma	Eket	Akwa Ibom	4.662	7.948	2	
+Ikot Udo Idem	Mkpat Enin	Akwa Ibom	4.708	7.720	2	
+Ikot Udo Abia	Etinan	Akwa Ibom	4.869	7.847	2	
+Ikot Udo	Ini	Akwa Ibom	5.339	7.819	2	
+Ikot Udo	Uruan	Akwa Ibom	5.113	8.010	2	
+Ikot Udo	Abak	Akwa Ibom	4.977	7.763	2	
+Ikot Idem Udo	Onna	Akwa Ibom	4.691	7.813	2	
+Ikot Etuk Udo	Abak	Akwa Ibom	5.108	7.806	2	
+Ikot Ekpene Udo	Nsit Ubium	Akwa Ibom	4.692	7.943	2	
+Ikot Edem Udo	Ikono	Akwa Ibom	5.244	7.785	2	
+Ikot Ata Udo	Ikot Abasi	Akwa Ibom	4.603	7.685	2	
+Ikot Ada Udo	Ikot Abasi	Akwa Ibom	4.691	7.684	2	
+Ekoi-Ikot Udofe	Ini	Akwa Ibom	5.389	7.738	2	
+Atan Akpan	Ibiono Ibom	Akwa Ibom	5.173	7.876	2	Atan Akpan Udom
+Aka-Ikot Udo-Eno	Ibiono Ibom	Akwa Ibom	5.284	7.836	2	
+Afaha Ikot Udoe	Itu	Akwa Ibom	5.173	8.023	2	
+Abiakpo Ikot Udo Oboro	Ikot Ekpene	Akwa Ibom	5.240	7.668	2	Abia Ikot Udo Oboro
+Udodo	Ahoada West	Rivers	4.976	6.499	2	Ogolokiama
+Udegi	Obi	Benue	7.027	8.265	2	
+Udapa	Oturkpo	Benue	7.117	8.214	2	
+Ude	Gwer East	Benue	7.407	8.483	2	
+Ududu	Gwer West	Benue	7.608	8.118	2	
+Udenyi	Gwer West	Benue	7.654	8.242	2	
+Udoma	Markurdi	Benue	7.701	8.488	2	
+Ude	Gwer West	Benue	7.744	8.141	2	
+Afaha Udo Oko	Itu	Akwa Ibom	5.190	8.019	2	
+Udem	Biase	Cross River	5.484	8.033	2	
+Akai Udo	Mbo	Akwa Ibom	4.688	8.256	2	
+Udung Ekim	Udung Uko	Akwa Ibom	4.758	8.214	2	
+Udotomi	Ekeremor	Bayelsa	4.984	5.669	2	
+Nonwa Udume	Tai	Rivers	4.742	7.223	2	
+Udi	Ika	Akwa Ibom	4.989	7.510	2	
+Ikot-Udofia	Ini	Akwa Ibom	5.327	7.731	2	
+Ikot-Udom	Ibiono Ibom	Akwa Ibom	5.199	7.867	2	
+Nto Etuk Udo	Ika	Akwa Ibom	5.003	7.519	2	
+Ikot-Udo-Uba	Ini	Akwa Ibom	5.358	7.819	2	
+Mbiabong-Ikot-Udo	Ini	Akwa Ibom	5.345	7.687	2	
+Ikot-Udo Asan	Ini	Akwa Ibom	5.324	7.716	2	
+Ikot Udo	Ibiono Ibom	Akwa Ibom	5.227	7.914	2	
+Idem Udo	Obot Akara	Akwa Ibom	5.232	7.568	2	
+Ikot Udo	Obot Akara	Akwa Ibom	5.222	7.573	2	
+Udo Okop	Ikot Ekpene	Akwa Ibom	5.196	7.730	2	
+Uduk Usor	Ikot Ekpene	Akwa Ibom	5.172	7.729	2	
+Ikot Udo Ekpat	Essien Udim	Akwa Ibom	5.174	7.633	2	
+Ikot Udo Ibiono	Ibiono Ibom	Akwa Ibom	5.120	7.881	2	
+Nung Udoe Itak	Ikono	Akwa Ibom	5.098	7.848	2	
+Nto Udo Igwe	Ika	Akwa Ibom	5.060	7.556	2	
+Ikot Inyang Udo	Ika	Akwa Ibom	5.035	7.530	2	
+Ikot Udia	Odukpani	Cross River	5.263	7.977	2	
+Udowo	Esan Central	Edo	6.774	6.265	2	
+Uduere	Ughelli North	Delta	5.506	6.038	2	
+Udene	Nnewi South	Anambra	5.932	6.984	2	
+Udo	Isoko South	Delta	5.454	6.179	2	
+Oduophori In-Land	Patani	Delta	5.145	6.059	2	Ogele|Uduophori
+Uduophori Water-Side	Patani	Delta	5.142	6.067	2	Uduophori II
+Uduophorm	Patani	Delta	5.162	6.062	2	
+Obi-Udo	Aniocha South	Delta	6.071	6.429	2	
+Udu	Udu	Delta	5.472	5.822	2	
+Udi	Udi	Enugu	6.512	7.355	2	
+Udo quaters	Aniocha South	Delta	6.229	6.439	2	
+Udung Uko	Udung Uko	Akwa Ibom	4.752	8.265	2	Udung Uko Local Government Area|Udung-Uko
+Udenu	Udenu	Enugu	6.872	7.567	2	Agbegbe Ijoba Ibile Udenu|Udenu Local Government Area|adynw|ywdnw
+Uda	Igbo-Eze-North	Enugu	6.943	7.485	2	
+Ama-Uda	Izzi	Ebonyi	6.476	8.330	2	
+Uvu Uda	Askira-Uba	Borno	10.484	13.090	2	
+Udubo Central	Gamawa	Bauchi	11.983	10.656	2	
+Udubo North/East	Gamawa	Bauchi	11.952	10.791	2	
+Udzenda	Logo	Benue	7.824	9.049	2	
+Udi	Logo	Benue	7.777	9.053	2	
+Udza	Logo	Benue	7.751	9.163	2	
+Udzughur	Logo	Benue	7.679	9.050	2	
+Udzughur	Logo	Benue	7.652	9.076	2	
+Udue	Guma	Benue	7.590	9.012	2	
+Udo	Logo	Benue	7.635	9.137	2	
+Udza	Logo	Benue	7.672	9.248	2	
+Udue	Ukum	Benue	7.713	9.472	2	
+Udugh	Ukum	Benue	7.800	9.633	2	Gberesu
+Ude	Buruku	Benue	7.275	9.159	2	
+Ude	Katsina-Ala	Benue	7.464	9.421	2	
+Udende	Katsina-Ala	Benue	7.373	9.414	2	
+Udi	Katsina-Ala	Benue	7.252	9.448	2	
+Udo	Ushongo	Benue	7.085	9.075	2	
+Udugh	Ushongo	Benue	7.076	9.171	2	
+Udele	Katsina-Ala	Benue	7.186	9.332	2	
+Udoo	Ushongo	Benue	7.023	9.299	2	
+Udura	Ushongo	Benue	7.097	9.367	2	
+Udula	Gboko	Benue	7.454	8.866	2	
+Udwe	Gboko	Benue	7.354	8.762	2	
+Udomi	Esan North-East	Edo	6.783	6.390	2	
+Udo-Neria	Iguegben	Edo	6.579	6.300	2	
+Udindin	Mayo-Belwa	Adamawa	9.095	11.842	2	
+Ude	Wamba	Nasarawa	8.919	8.571	2	
+Udu	Nasarawa	Nasarawa	8.652	7.518	2	
+Udo Udoma Street	Municipal Area Council	FCT Abuja	9.056	7.526	1	
+Udu Road	Uvwie	Delta	5.523	5.784	1	
+Uddoh Street	Oredo	Edo	6.313	5.614	1	
+Obadan Uduehi Street	Oredo	Edo	6.290	5.596	1	
+Udi Street	Eti Osa	Lagos	6.465	3.423	1	
+Udi Street	Municipal Area Council	FCT Abuja	9.078	7.512	1	
+Jerome Udoji Close	Municipal Area Council	FCT Abuja	9.050	7.516	1	
+Udu Road Bridge	Udu	Delta	5.515	5.784	1	
+Udensi Roundabout	Ebonyi	Ebonyi	6.328	8.105	1	
+KFT Udoboh Crescent	Uvwie	Delta	5.564	5.765	1	
+Vincent Udughan Street	Warri South	Delta	5.527	5.717	1	
+Udeogu Street	Enugu East	Enugu	6.489	7.520	1	
+Udoji Street	Enugu North	Enugu	6.435	7.501	1	
+Udeaja Road	Enugu East	Enugu	6.489	7.483	1	
+Udoye Street	Enugu East	Enugu	6.487	7.499	1	
+Udi Street	Enugu East	Enugu	6.473	7.587	1	
+Udeorji Street	Enugu North	Enugu	6.434	7.502	1	
+Udo Club Close	Enugu South	Enugu	6.397	7.499	1	
+Dr Udoka Ejiofor Drive	Enugu South	Enugu	6.421	7.527	1	
+Chief Hyacinth Udeani Street	Enugu North	Enugu	6.460	7.570	1	
+Okwubanego Ude Street	Enugu South	Enugu	6.416	7.475	1	
+Udo Club Street	Enugu South	Enugu	6.396	7.499	1	
+Udi Street	Enugu East	Enugu	6.486	7.522	1	
+Udogwu Street	Enugu East	Enugu	6.487	7.519	1	
+Uduma Street	Enugu North	Enugu	6.455	7.522	1	
+Udorji Crescent	Enugu East	Enugu	6.474	7.502	1	
+Udi Siding Street	Enugu North	Enugu	6.440	7.478	1	
+Udi Road	Enugu North	Enugu	6.444	7.501	1	
+Umu-Ude Avenue	Enugu South	Enugu	6.387	7.525	1	
+Jeff Udeoha Street	Enugu South	Enugu	6.396	7.488	1	
+Udeji Amechi Ukononu	Enugu North	Enugu	6.464	7.479	1	
+Udeji Amechi Ukunonu	Enugu North	Enugu	6.466	7.479	1	
+Udemaduka Street	Enugu East	Enugu	6.476	7.584	1	
+Isi Ude Road	Nkanu West	Enugu	6.375	7.501	1	
+Chief Michael Udeonu Street	Enugu South	Enugu	6.400	7.483	1	
+Udenweze Street	Enugu North	Enugu	6.457	7.515	1	
+Azubuike Ude Close	Enugu North	Enugu	6.430	7.537	1	
+Michael Udeagbara Street	Enugu South	Enugu	6.399	7.476	1	
+Udenwa Street	Enugu East	Enugu	6.468	7.544	1	
+Umu Udo Close	Enugu East	Enugu	6.489	7.575	1	
+Ibukun Awosika Street	Eti Osa	Lagos	6.443	3.525	1	Udeco Medical Road
+Udu Road	Udu	Delta	5.501	5.791	1	
+Udoette Street	Uyo	Akwa Ibom	5.048	7.916	1	
+Udo Udoma Avenue	Uyo	Akwa Ibom	5.001	7.936	1	
+Calistus Udeh	Oshodi/Isolo	Lagos	6.532	3.315	1	
+George Essien Udom Crescent	Kosofe	Lagos	6.619	3.388	1	
+Chief Israel Udo Street	Eti Osa	Lagos	6.468	3.623	1	
+Udeh Street	Ifako/Ijaye	Lagos	6.661	3.316	1	
+Udi Street Abakaliki	Ebonyi	Ebonyi	6.324	8.124	1	
+Udumukpokpor Street	Okpe	Delta	5.593	5.707	1	
+Udebhu Street	Esan West	Edo	6.740	6.137	1	
+Udi Road	Udi	Enugu	6.335	7.385	1	
+Aka - Nung Udoe Road, Uyo, Nigeria	Uyo	Akwa Ibom	5.005	7.918	1	
+Udo obot street	Uyo	Akwa Ibom	5.029	7.936	1	
+Udosen Uko Street	Uyo	Akwa Ibom	5.028	7.937	1	
+Udoedok Street	Uyo	Akwa Ibom	5.030	7.923	1	
+Udo Udoma	Uyo	Akwa Ibom	5.001	7.949	1	
+Udo Udoma Avenue	Uyo	Akwa Ibom	5.002	7.934	1	
+Udok Street	Uyo	Akwa Ibom	5.035	7.931	1	
+Udo Otung Ubo Street	Uyo	Akwa Ibom	5.028	7.928	1	
+Noah Udoh Street	Uyo	Akwa Ibom	5.012	7.937	1	
+Udo Street	Uyo	Akwa Ibom	5.038	7.929	1	
+Udosen Nkanta	Uyo	Akwa Ibom	5.032	7.923	1	
+Udotung Ubo street	Uyo	Akwa Ibom	5.026	7.933	1	
+Udeme Simon Street	Uyo	Akwa Ibom	5.001	7.963	1	
+udo ekpo mkpo street	Uyo	Akwa Ibom	5.023	7.957	1	
+Udo Idiong Akpanya Street	Uyo	Akwa Ibom	5.027	7.954	1	
+Tony Udu Street	Markurdi	Benue	7.722	8.573	1	
+Amb V.E Udoyen Street	Municipal Area Council	FCT Abuja	9.025	7.547	1	
+Kez Udezue Street	Municipal Area Council	FCT Abuja	9.091	7.457	1	
+Udeco Medical Road	Eti Osa	Lagos	6.444	3.527	1	
+Isi Ude Road	Enugu South	Enugu	6.379	7.505	1	
+Cosmos Udoette Street	Ibesikpo Asutan	Akwa Ibom	4.980	7.957	1	
+Usong Ata Usung/Usong Udua Anwa	Ukanafun	Akwa Ibom	4.865	7.658	1	
+Usong Ikot Udo	Ukanafun	Akwa Ibom	4.862	7.654	1	
+Usong Udua Odung	Ukanafun	Akwa Ibom	4.869	7.652	1	
+Udo Utuk Street	Ibesikpo Asutan	Akwa Ibom	4.983	7.969	1	
+Idiaba Ikot Udotang	Nsit Atai	Akwa Ibom	4.839	8.019	1	
+EJ Udenyi Street	Municipal Area Council	FCT Abuja	9.047	7.548	1	
+Akpan Wilson Etuk-Udo Close	Municipal Area Council	FCT Abuja	9.104	7.410	1	
+Amb V.E Udoyen	Municipal Area Council	FCT Abuja	9.024	7.546	1	
+Betty Udokwe Street	Eti Osa	Lagos	6.464	3.583	1	
 Health Post Zugwagunli Uding	Hong	Adamawa	10.149	12.905	0	
 Uding Maternal And Child Health Clinic	Hong	Adamawa	10.153	12.905	0	
 ansar-ud-deen primary school ii, onirugba	Ìjẹ̀bú Òde	Ogun	6.832	3.932	0	
@@ -81,109 +318,11 @@ Ansar Ud Deen Primary School Ii, Alaagba	Ado Odo/Ota	Ogun	6.613	3.228	0
 Ansar Ud Deen Primary School, Ado Odo	Ado Odo/Ota	Ogun	6.591	2.945	0	
 Nawair Ud Deen Primary School , Ikogbo	Ado Odo/Ota	Ogun	6.579	3.087	0	
 Ansar Ud Deen Primary School,Ewutagbe	Ado Odo/Ota	Ogun	6.573	3.150	0	
-Udhedhe	Ogba/Egbema/Ndoni	Rivers	5.416	6.494	2	
 Udege-Mbeki Primary Health Centre	Nasarawa	Nasarawa	8.421	7.907	0	
-Nung Udoe	Ibesikpo Asutan	Akwa Ibom	4.917	7.964	3	
-Ikot Udo	Ibesikpo Asutan	Akwa Ibom	4.887	7.952	2	
-Afaha Udo Eyod	Ibesikpo Asutan	Akwa Ibom	4.896	7.937	2	
-Aja-Udaibo	Warri South-West	Delta	5.598	5.207	2	
 Udddy King Petol Station	Calabar Municipal	Cross River	4.998	8.335	0	
-Udo Udoma Street	Municipal Area Council	FCT Abuja	9.056	7.526	1	
-Udu Road	Uvwie	Delta	5.523	5.784	1	
-Uddoh Street	Oredo	Edo	6.313	5.614	1	
-Obadan Uduehi Street	Oredo	Edo	6.290	5.596	1	
-Udi Street	Eti Osa	Lagos	6.465	3.423	1	
-Udi Street	Municipal Area Council	FCT Abuja	9.078	7.512	1	
-Jerome Udoji Close	Municipal Area Council	FCT Abuja	9.050	7.516	1	
-Udu Road Bridge	Udu	Delta	5.515	5.784	1	
-Udu Road	Udu	Delta	5.508	5.785	1	
-Udensi Roundabout	Ebonyi	Ebonyi	6.328	8.105	1	
-KFT Udoboh Crescent	Uvwie	Delta	5.564	5.765	1	
-Vincent Udughan Street	Warri South	Delta	5.527	5.717	1	
-Udeogu Street	Enugu East	Enugu	6.489	7.520	1	
-Udoji Street	Enugu North	Enugu	6.435	7.501	1	
-Udeaja Road	Enugu East	Enugu	6.489	7.483	1	
-Udoye Street	Enugu East	Enugu	6.487	7.499	1	
-Udi Street	Enugu East	Enugu	6.473	7.587	1	
-Udeorji Street	Enugu North	Enugu	6.434	7.502	1	
-Udo Club Close	Enugu South	Enugu	6.397	7.499	1	
-Dr Udoka Ejiofor Drive	Enugu South	Enugu	6.421	7.527	1	
-Chief Hyacinth Udeani Street	Enugu North	Enugu	6.460	7.570	1	
-Okwubanego Ude Street	Enugu South	Enugu	6.416	7.475	1	
-Udo Club Street	Enugu South	Enugu	6.396	7.499	1	
-Udi Street	Enugu East	Enugu	6.486	7.522	1	
-Udogwu Street	Enugu East	Enugu	6.487	7.519	1	
-Uduma Street	Enugu North	Enugu	6.455	7.522	1	
-Udorji Crescent	Enugu East	Enugu	6.474	7.502	1	
-Udi Siding Street	Enugu North	Enugu	6.440	7.478	1	
-Udi Road	Enugu North	Enugu	6.444	7.501	1	
-Umu-Ude Avenue	Enugu South	Enugu	6.387	7.525	1	
-Uduma Street	Enugu North	Enugu	6.454	7.527	1	
-Jeff Udeoha Street	Enugu South	Enugu	6.396	7.488	1	
-Udeji Amechi Ukononu	Enugu North	Enugu	6.464	7.479	1	
-Udeji Amechi Ukunonu	Enugu North	Enugu	6.466	7.479	1	
-Udemaduka Street	Enugu East	Enugu	6.476	7.584	1	
-Isi Ude Road	Nkanu West	Enugu	6.375	7.501	1	
-Chief Michael Udeonu Street	Enugu South	Enugu	6.400	7.483	1	
-Udenweze Street	Enugu North	Enugu	6.457	7.515	1	
-Azubuike Ude Close	Enugu North	Enugu	6.430	7.537	1	
-Michael Udeagbara Street	Enugu South	Enugu	6.399	7.476	1	
-Udenwa Street	Enugu East	Enugu	6.468	7.544	1	
-Umu Udo Close	Enugu East	Enugu	6.489	7.575	1	
-Ibukun Awosika Street	Eti Osa	Lagos	6.443	3.525	1	Udeco Medical Road
-Udu Road	Udu	Delta	5.501	5.791	1	
-Udoette Street	Uyo	Akwa Ibom	5.048	7.916	1	
-Udo Udoma Avenue	Uyo	Akwa Ibom	5.001	7.936	1	
-Calistus Udeh	Oshodi/Isolo	Lagos	6.532	3.315	1	
-George Essien Udom Crescent	Kosofe	Lagos	6.619	3.388	1	
-Chief Israel Udo Street	Eti Osa	Lagos	6.468	3.623	1	
-Udeh Street	Ifako/Ijaye	Lagos	6.661	3.316	1	
-UDI STREET ABAKALIKI	Ebonyi	Ebonyi	6.324	8.124	1	
-Udumukpokpor Street	Okpe	Delta	5.593	5.707	1	
-Udebhu Street	Esan West	Edo	6.740	6.137	1	
-Udi Road	Udi	Enugu	6.335	7.385	1	
-Aka - Nung Udoe Road, Uyo, Nigeria	Uyo	Akwa Ibom	5.005	7.918	1	
-Udo obot street	Uyo	Akwa Ibom	5.029	7.936	1	
-Udosen Uko Street	Uyo	Akwa Ibom	5.028	7.937	1	
-Udoedok Street	Uyo	Akwa Ibom	5.030	7.923	1	
-Udo Udoma	Uyo	Akwa Ibom	5.001	7.949	1	
-Udo Udoma Avenue	Uyo	Akwa Ibom	5.002	7.934	1	
-Udok Street	Uyo	Akwa Ibom	5.035	7.931	1	
-Udo Otung Ubo Street	Uyo	Akwa Ibom	5.028	7.928	1	
-Noah Udoh Street	Uyo	Akwa Ibom	5.012	7.937	1	
-Udo Street	Uyo	Akwa Ibom	5.038	7.929	1	
-Udosen Nkanta	Uyo	Akwa Ibom	5.032	7.923	1	
-Udotung Ubo street	Uyo	Akwa Ibom	5.026	7.933	1	
-Udeme Simon Street	Uyo	Akwa Ibom	5.001	7.963	1	
-udo ekpo mkpo street	Uyo	Akwa Ibom	5.023	7.957	1	
-Udo Idiong Akpanya Street	Uyo	Akwa Ibom	5.027	7.954	1	
-Tony Udu Street	Markurdi	Benue	7.722	8.573	1	
-Amb V.E Udoyen Street	Municipal Area Council	FCT Abuja	9.025	7.547	1	
-Kez Udezue Street	Municipal Area Council	FCT Abuja	9.091	7.457	1	
-Udeco Medical Road	Eti Osa	Lagos	6.444	3.527	1	
-Isi Ude Road	Enugu South	Enugu	6.379	7.505	1	
-Isi Ude Road	Enugu South	Enugu	6.375	7.503	1	
-Cosmos Udoette Street	Ibesikpo Asutan	Akwa Ibom	4.980	7.957	1	
-Usong Ata Usung/Usong Udua Anwa	Ukanafun	Akwa Ibom	4.865	7.658	1	
-Usong Ikot Udo	Ukanafun	Akwa Ibom	4.862	7.654	1	
-Usong Udua Odung	Ukanafun	Akwa Ibom	4.869	7.652	1	
-Udo Utuk Street	Ibesikpo Asutan	Akwa Ibom	4.983	7.969	1	
-Udo Utuk Street	Uyo	Akwa Ibom	4.985	7.970	1	
-Idiaba Ikot Udotang	Nsit Atai	Akwa Ibom	4.839	8.019	1	
 Ansar Ud Deen Senior Grammar School	Ìkòròdú	Lagos	6.654	3.670	0	
-EJ Udenyi Street	Municipal Area Council	FCT Abuja	9.047	7.548	1	
 Udubo Maternity Clinic	Gamawa	Bauchi	11.942	10.632	0	
 Udubo Maternity Hospital	Gamawa	Bauchi	11.943	10.630	0	
 Usmanu Danfodio University Teaching Hospital	Wamako	Sokoto	13.035	5.220	0	UDUTH Teaching Hospital
 Udo Primary Health Center	Ovia South-West	Edo	6.481	5.370	0	
-Akpan Wilson Etuk-Udo Close	Municipal Area Council	FCT Abuja	9.104	7.410	1	
-Amb V.E Udoyen	Municipal Area Council	FCT Abuja	9.024	7.546	1	
 Udokamma Primary School, Aguluzigbo	Aguata	Anambra	6.051	7.033	0	
-Betty Udokwe Street	Eti Osa	Lagos	6.464	3.583	1	
-Essien Udim	Essien Udim	Akwa Ibom	5.104	7.657	2	
-Udenu	Udenu	Enugu	6.896	7.561	2	
-Udi	Udi	Enugu	6.436	7.399	2	
-Uvu Uda	Askira-Uba	Borno	10.477	13.096	2	
-Udubo Central	Gamawa	Bauchi	11.989	10.690	2	
-Udu	Udu	Delta	5.477	5.822	2	
-Udung Uko	Udung Uko	Akwa Ibom	4.751	8.263	2	

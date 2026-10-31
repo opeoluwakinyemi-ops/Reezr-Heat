@@ -1,3 +1,4 @@
+Hunkuyi	Kudan	Kaduna	11.267	7.649	3	
 Huchi	Wamako	Sokoto	13.054	5.074	2	
 Hulkuye	Maiyama	Kebbi	11.991	4.292	2	
 Chinchia;Hui	Baure	Katsina	12.694	8.782	2	
@@ -31,16 +32,13 @@ Hurti	Bokkos	Plateau	9.276	8.789	2
 Husania	Hawul	Borno	10.511	12.123	2	
 Huba	Hawul	Borno	10.402	12.114	2	
 Rugu Huru	Illela	Sokoto	13.575	5.239	2	
-Husama Health Post	Karaye	Kano	11.788	8.113	0	
 Mallam Hudu	Mobbar	Borno	13.109	12.509	2	
 Hussaineri	Nganzai	Borno	12.350	13.159	2	
 Nahuta Bulama Hussaini	Shani	Borno	10.316	11.944	2	
 Huza	Hawul	Borno	10.553	12.141	2	
 Huma B Bukar	Biu	Borno	10.708	12.186	2	
 Para Hussara	Askira-Uba	Borno	10.500	13.239	2	
-Hussara Health Clinic	Askira-Uba	Borno	10.499	13.237	0	
 Humajigam	Chibok	Borno	10.735	12.763	2	
-Darrul Hudda	Kaduna North	Kaduna	10.565	7.478	0	
 Kuwa Hu	Kukawa	Borno	12.866	13.593	2	
 Njemia Hummoye	Guzamala	Borno	12.983	12.904	2	
 Huntu	Kiru	Kano	11.518	8.157	2	
@@ -54,19 +52,116 @@ Achika Hurumi	Wudil	Kano	11.689	8.931	2	Acika
 Darki Hurumi	Wudil	Kano	11.661	8.921	2	Darki
 Tsakuwa Hurumi	Garko	Kano	11.530	8.789	2	
 Buda Hurumi	Garko	Kano	11.602	8.783	2	
-Hudumcha Dispensary	Gwoza	Borno	11.129	13.792	0	
-humbutuidi pbf heath facility	Maiha	Adamawa	10.123	13.159	0	
-hubare heath clinic	Maiha	Adamawa	10.091	13.100	0	
-Vintage Hubb	Municipal Area Council	FCT Abuja	9.079	7.479	0	
-Hussey College Warri	Warri South	Delta	5.523	5.749	0	
-NURUL HUDA INTERNATIONAL ACADEMY GOMBE	Gombe	Gombe	10.277	11.143	0	
-Ministry Of Health and Human Service Kaduna State Kaduna	Kaduna North	Kaduna	10.522	7.439	0	
-Huse Of Peace Specialist Clinic	Mushin	Lagos	6.531	3.341	0	
-MAKARANTAR MALAM IBRAHIM MAI YAR HULA	Ungongo	Kano	12.040	8.564	0	
-HUSNAH BEST ACADEMY	Ungongo	Kano	12.046	8.566	0	
-SHAMSUL HUDA AL ISLAMIYYA	Ungongo	Kano	12.042	8.573	0	
-AL AZHAR COLLEGE OF SCIENCE AND HUMANITIES	Gwale	Kano	11.962	8.476	0	
-Public Transport Hub	Municipal Area Council	FCT Abuja	9.047	7.500	0	
+Kwacce Huru	Tangaza	Sokoto	13.215	5.050	2	
+Huchi	Gwadabawa	Sokoto	13.361	5.448	2	
+Hungu	Albasu	Kano	11.597	8.989	2	
+Hui	Baure	Katsina	12.722	8.721	2	
+Dille Huyim	Askira-Uba	Borno	10.831	13.177	2	
+Tse-Hulor	Konshisha	Benue	7.208	8.652	2	
+Mai Hula	Kurmi	Taraba	7.165	10.829	2	
+Kogin Huguma	Takai	Kano	11.567	9.317	2	Huguma
+Wuro Husa	Lau	Taraba	9.272	11.518	2	Jegan Maunde
+Jaja Hurga	Rafi	Niger	10.283	6.450	2	
+Huwe	Obi	Nasarawa	8.334	8.991	2	
+Hutu	Song	Adamawa	10.016	12.292	2	
+Hutenbaya	Hawul	Borno	10.392	12.254	2	
+Husure	Kabo	Kano	11.956	8.015	2	
+Hushibura	Gombi	Adamawa	10.243	12.663	2	
+Husa	Hong	Adamawa	10.293	13.048	2	New Migizir
+Hurunda	Gombi	Adamawa	10.252	12.505	2	
+Huruhwana	Gombi	Adamawa	10.234	12.630	2	
+Arna	Bokkos	Plateau	9.277	8.788	2	Hurti
+Hurriya	Bama	Borno	11.501	14.387	2	
+Hurina	Gombi	Adamawa	10.167	12.391	2	
+Hure	Awe	Nasarawa	8.106	9.312	2	
+Hunoun	Gboko	Benue	7.279	8.706	2	
+Hunkwara	Song	Adamawa	10.027	12.384	2	
+Hunji	Hong	Adamawa	10.182	12.793	2	
+Hungo	Gwer West	Benue	7.440	8.184	2	
+Hungara	Gombi	Adamawa	10.311	12.607	2	
+Hundu	Wukari	Taraba	7.886	9.533	2	
+Hundu	Konshisha	Benue	7.128	8.602	2	
+Hundo	Ipokia	Ogun	6.485	2.878	2	
+Huna	Konshisha	Benue	7.030	8.843	2	
+Humucci	Michika	Adamawa	10.672	13.451	2	Humushi|Humutschi
+Human	Awe	Nasarawa	8.261	9.128	2	
+Huma-Igbe	Konshisha	Benue	7.229	8.563	2	
+Huma	Konshisha	Benue	7.213	8.564	2	
+Huma	Kwande	Benue	6.810	9.508	2	
+Hulwai Paleha	Gombi	Adamawa	10.114	12.510	2	
+Hulugh	Ushongo	Benue	7.139	8.968	2	
+Hulsama	Hawul	Borno	10.333	12.302	2	
+Hule	Ushongo	Benue	7.094	8.935	2	
+Hulabara	Gombi	Adamawa	10.248	12.558	2	
+Hul	Konshisha	Benue	7.135	8.679	2	
+Huji Abdullahi	Gombi	Adamawa	10.193	12.735	2	
+Hugungumai	Kunchi	Kano	12.457	8.220	2	
+Hughum	Konshisha	Benue	7.096	8.701	2	
+Hubbare	Maiha	Adamawa	10.091	13.100	2	
+Hubateda	Hong	Adamawa	10.173	13.033	2	
+Huaka	Konshisha	Benue	7.148	8.536	2	
+Gidan Hunu	Kagarko	Kaduna	9.576	7.395	2	
+Hui	Baure	Katsina	12.693	8.783	2	Chinchia
+Babban Hula	Chikun	Kaduna	10.567	7.217	2	
+Hudu	Mubi South	Adamawa	10.065	13.273	2	
+Humshi	Madagali	Adamawa	10.865	13.663	2	
+Huria	Bama	Borno	11.499	14.384	2	
+Humla	Shelleng	Adamawa	10.021	12.201	2	
+Hulsa’a	Song	Adamawa	10.028	12.342	2	
+Huruwukta	Gombi	Adamawa	10.087	12.497	2	
+Hurkwene	Gombi	Adamawa	10.111	12.429	2	
+Hurumurata	Gombi	Adamawa	10.127	12.464	2	
+Huitayankwar	Kwaya Kusar	Borno	10.437	12.033	2	
+Hunkui	Sabon Birni	Sokoto	13.581	5.966	2	
+Hundeji	Shanga	Kebbi	11.010	4.697	2	
+Humbuli	Madagali	Adamawa	10.808	13.481	2	
+Huzuku	Michika	Adamawa	10.619	13.415	2	
+Hussara Tunbal	Michika	Adamawa	10.497	13.282	2	
+Tsamia Hutu	Fika	Yobe	11.327	11.040	2	
+Hundu	Gwer East	Benue	7.371	8.497	2	
+Huchi	Gwadabawa	Sokoto	13.368	5.448	2	
+Kwacce Huru	Tangaza	Sokoto	13.217	5.044	2	
+Hungo	Buruku	Benue	7.558	9.124	2	
+Hungwa	Ukum	Benue	7.614	9.466	2	
+Hundu	Ukum	Benue	7.758	9.582	2	
+Hungul	Ukum	Benue	7.648	9.590	2	
+Hungwa	Ukum	Benue	7.581	9.590	2	
+Hula-Amadu	Takum	Taraba	7.572	9.855	2	
+Hundu	Takum	Taraba	7.518	9.894	2	
+Huram	Gboko	Benue	7.334	9.072	2	
+Hulugh	Gboko	Benue	7.275	9.069	2	
+Hungwa	Buruku	Benue	7.403	9.131	2	
+Hungityo	Katsina-Ala	Benue	7.269	9.312	2	
+Hungua	Katsina-Ala	Benue	7.401	9.473	2	
+Hungo	Buruku	Benue	7.215	9.127	2	
+Huwer	Ushongo	Benue	7.088	9.146	2	
+Humbe	Ushongo	Benue	7.063	9.166	2	
+Humbe	Vandeikya	Benue	7.013	9.154	2	
+Hungwamin	Buruku	Benue	7.176	9.207	2	
+Human	Katsina-Ala	Benue	7.151	9.363	2	
+Hungwa	Katsina-Ala	Benue	7.116	9.391	2	
+Hungur	Gboko	Benue	7.488	8.872	2	
+Huor	Gboko	Benue	7.480	8.939	2	
+Hule	Gboko	Benue	7.453	8.948	2	
+Hungul	Gboko	Benue	7.433	8.929	2	
+Hulugh	Gboko	Benue	7.343	8.895	2	
+Hule	Gboko	Benue	7.337	8.850	2	
+Hulere	Yola South	Adamawa	9.299	12.404	2	
+Hushai	Lau	Taraba	9.276	11.608	2	
+Hushan	Lau	Taraba	9.279	11.608	2	
+Ungwar Huseini	Karim Lamido	Taraba	9.231	10.871	2	
+Huda	Ipokia	Ogun	6.530	2.731	2	
+Hunsu-Sheki	Ado Odo/Ota	Ogun	6.554	2.914	2	
+Sanda Hungbo	Ado Odo/Ota	Ogun	6.548	2.913	2	
+Hundeyin	Ado Odo/Ota	Ogun	6.555	2.964	2	
+Huda	Ipokia	Ogun	6.522	2.720	2	
+Hulaire	Fufore	Adamawa	9.315	12.848	2	
+Humbe	Guma	Benue	8.069	8.682	2	
+Hugan Dan Hajo	Lafia	Nasarawa	8.626	8.941	2	
+Hura	Song	Adamawa	9.739	12.290	2	
+Hunra	Song	Adamawa	9.710	12.259	2	
+Humra	Song	Adamawa	9.957	12.257	2	
+Hunyare	Song	Adamawa	9.776	12.716	2	
 Hughes Avenue	Lagos Mainland	Lagos	6.500	3.377	1	
 Hussey Road	Shomolu	Lagos	6.518	3.372	1	
 David Hughes Street	Ifako/Ijaye	Lagos	6.641	3.336	1	
@@ -80,21 +175,29 @@ Balat Hughes	Fagge	Kano	12.026	8.536	1
 Dr. Hussain Z. Danbatta	Gwale	Kano	11.977	8.473	1	
 Humphrey Uzoigwe Street	Enugu East	Enugu	6.498	7.497	1	
 Mall. Hussaini street	Tarauni	Kano	11.978	8.561	1	
-Hudaibiyya Primary School	Kano Municipal	Kano	11.974	8.521	0	
-Hungu Health Post	Albasu	Kano	11.614	9.002	0	
-Hugungumai Health Post	Kunchi	Kano	12.436	8.222	0	
-Hussey Road	Shomolu	Lagos	6.521	3.375	1	
 Huji Rd.	Owerri Municipal	Imo	5.484	7.015	1	
 Humani Street	Agege	Lagos	6.615	3.321	1	
 Balat Hughes	Fagge	Kano	12.026	8.532	1	
 Humani Street	Agege	Lagos	6.614	3.321	1	
 Mai Hula Street	Tarauni	Kano	11.959	8.540	1	
+Husama Health Post	Karaye	Kano	11.788	8.113	0	
+Hussara Health Clinic	Askira-Uba	Borno	10.499	13.237	0	
+Darrul Hudda	Kaduna North	Kaduna	10.565	7.478	0	
+Hudumcha Dispensary	Gwoza	Borno	11.129	13.792	0	
+humbutuidi pbf heath facility	Maiha	Adamawa	10.123	13.159	0	
+hubare heath clinic	Maiha	Adamawa	10.091	13.100	0	
+Vintage Hubb	Municipal Area Council	FCT Abuja	9.079	7.479	0	
+Hussey College Warri	Warri South	Delta	5.523	5.749	0	
+Nurul Huda International Academy Gombe	Gombe	Gombe	10.277	11.143	0	
+Ministry Of Health and Human Service Kaduna State Kaduna	Kaduna North	Kaduna	10.522	7.439	0	
+Huse Of Peace Specialist Clinic	Mushin	Lagos	6.531	3.341	0	
+Makarantar Malam Ibrahim Mai Yar Hula	Ungongo	Kano	12.040	8.564	0	
+Husnah Best Academy	Ungongo	Kano	12.046	8.566	0	
+Shamsul Huda Al Islamiyya	Ungongo	Kano	12.042	8.573	0	
+Al Azhar College Of Science And Humanities	Gwale	Kano	11.962	8.476	0	
+Public Transport Hub	Municipal Area Council	FCT Abuja	9.047	7.500	0	
+Hudaibiyya Primary School	Kano Municipal	Kano	11.974	8.521	0	
+Hungu Health Post	Albasu	Kano	11.614	9.002	0	
+Hugungumai Health Post	Kunchi	Kano	12.436	8.222	0	
 Humanity Hospital	Uvwie	Delta	5.546	5.783	0	
 humbutudi maternity clinic	Mubi North	Adamawa	10.176	13.173	0	
-Hussey College Warri	Warri South	Delta	5.525	5.748	0	
-Kwacce Huru	Tangaza	Sokoto	13.215	5.050	2	
-Huchi	Gwadabawa	Sokoto	13.361	5.448	2	
-Hunkuyi	Kudan	Kaduna	11.268	7.651	2	
-Hungu	Albasu	Kano	11.597	8.989	2	
-Hui	Baure	Katsina	12.722	8.721	2	
-Dille Huyim	Askira-Uba	Borno	10.831	13.177	2	

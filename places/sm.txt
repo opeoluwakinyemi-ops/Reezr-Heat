@@ -1,7 +1,6 @@
+New Enugu Smart City	Enugu North	Enugu	6.415	7.605	3	
 Gbelemotin	Ovia South-West	Edo	6.350	5.100	2	Small Gbelemotin
-hospital small garden	Gombe	Gombe	10.293	11.181	0	
-Smarth Sports Academy/Arena	Municipal Area Council	FCT Abuja	9.109	7.377	0	
-Smart Bridge Plaza	Municipal Area Council	FCT Abuja	9.072	7.438	0	
+Sumaila	Sumaila	Kano	11.327	8.914	2	Agbegbe Ijoba Ibile Sumaila|Sumaila Local Government Area|smylt
 Smooth Street	Oredo	Edo	6.277	5.597	1	
 Smooth Street	Oredo	Edo	6.281	5.590	1	
 Smith Road	Oshodi/Isolo	Lagos	6.573	3.338	1	
@@ -10,7 +9,7 @@ Silver Smith Avenue	Enugu North	Enugu	6.428	7.479	1
 SMS Avenue	Enugu East	Enugu	6.516	7.525	1	
 SM Orija Street	Ede North	Osun	7.720	4.484	1	
 Smart Street	Uvwie	Delta	5.551	5.780	1	
-SMART COPMLEX ROAD	Owerri West	Imo	5.384	6.990	1	
+Smart Copmlex Road	Owerri West	Imo	5.384	6.990	1	
 small road to go residential area	Abaji	FCT Abuja	9.212	6.841	1	
 small road to residential area	Abaji	FCT Abuja	9.214	6.843	1	
 Musiliu Smith Street	Lagos Mainland	Lagos	6.495	3.381	1	
@@ -18,12 +17,12 @@ Small Road	Sabon Birni	Sokoto	13.555	6.128	1
 Small Dirt Road	Sabon Birni	Sokoto	13.568	6.120	1	
 Small Road	Sabon Birni	Sokoto	13.579	6.112	1	
 Maybe small road	Sabon Birni	Sokoto	13.571	6.114	1	
-Small dirt road	Sabon Birni	Sokoto	13.564	6.118	1	
 Maybe Small dirt road	Sabon Birni	Sokoto	13.540	6.120	1	
 Small dirt road	Sabon Birni	Sokoto	13.541	6.115	1	
 Small Road	Sabon Birni	Sokoto	13.540	6.114	1	
 Tiny small dirt road	Sabon Birni	Sokoto	13.546	6.108	1	
-Small Dirt Road	Sabon Birni	Sokoto	13.558	6.107	1	
+hospital small garden	Gombe	Gombe	10.293	11.181	0	
+Smarth Sports Academy/Arena	Municipal Area Council	FCT Abuja	9.109	7.377	0	
+Smart Bridge Plaza	Municipal Area Council	FCT Abuja	9.072	7.438	0	
 Emevor Small Market	Isoko North	Delta	5.509	6.117	0	
 Enugu Smart School	Enugu North	Enugu	6.441	7.566	0	
-New Enugu Smart City	Enugu North	Enugu	6.415	7.605	3	

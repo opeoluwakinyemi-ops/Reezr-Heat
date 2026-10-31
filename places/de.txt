@@ -1,3 +1,14 @@
+Deba Kowa	Yamaltu/Deba	Gombe	10.288	11.500	3	
+Degema	Degema	Rivers	4.758	6.768	3	
+Dere	Gokana	Rivers	4.664	7.272	3	
+Deba Fulani	Kwami	Gombe	10.425	11.382	3	
+Debasco	Odogbolu	Ogun	6.789	3.891	3	
+Dengi	Kanam	Plateau	9.369	9.962	3	
+Demsa	Demsa	Adamawa	9.456	12.152	3	
+Dekina	Dekina	Kogi	7.690	7.044	3	
+Degema	Degema	Rivers	4.748	6.766	3	
+Deba	Yamaltu/Deba	Gombe	10.212	11.387	3	Deba Habe
+Benin City	Oredo	Edo	6.338	5.626	3	BNI|Benim|Benin|Benin Siti|Benin by|Benin-Sici|Benin-Siti|Benin-Stadt|Benin-stad|Beninas|Beninborg|Beninurbo|Ciudad de B
 Déloum	Diffa	Borno	13.382	12.786	2	
 Dekina	Dekina	Kogi	7.689	7.033	2	
 Hardo Deba	Yamaltu/Deba	Gombe	10.143	11.301	2	
@@ -35,7 +46,6 @@ Gidan Debo	Gada	Sokoto	13.651	5.623	2	Gidan Dabo
 Deghele	Warri North	Delta	5.743	5.152	2	
 Dendali	Nafada	Gombe	11.130	11.072	2	
 Denderes	Kebbe	Sokoto	11.908	4.790	2	
-Deba Kowa	Yamaltu/Deba	Gombe	10.288	11.500	3	
 Dapu	Lapai	Niger	9.300	6.817	2	Depu
 Degemba	Gwoza	Borno	11.323	13.331	2	
 Dé	Kala-Balge	Borno	12.167	14.483	2	Duwe
@@ -46,32 +56,19 @@ Denbor	Lokoja	Kogi	8.531	6.421	2
 Sangwa Bulama Ibrahim Dembe	Shani	Borno	10.330	12.210	2	Sangwa Bulama Asuku
 Diaka	Hawul	Borno	10.308	12.157	2	Dega
 Dempa	Bungudu	Zamfara	12.320	6.529	2	
-Degema	Degema	Rivers	4.758	6.768	3	
 Degema Hulk	Abua/Odual	Rivers	4.760	6.750	2	
-Dere	Gokana	Rivers	4.664	7.272	3	
 Dekwa	Yunusari	Yobe	13.078	12.139	2	
 Degel	Yabo	Sokoto	12.863	5.048	2	
 Dewa	Biu	Borno	10.931	12.207	2	Diyawa
 Demarhu	Hawul	Borno	10.333	12.078	2	Dematu
-Deba Fulani	Kwami	Gombe	10.425	11.382	3	
 Demo	Fakai	Kebbi	11.446	4.749	2	
 Dekala	Borgu	Niger	10.276	3.674	2	
 Dema	Kwaya Kusar	Borno	10.503	11.891	2	Dawa
 Dere	Paikoro	Niger	9.450	6.700	2	Jere
-Dengi	Kanam	Plateau	9.367	9.963	2	
 Dille	Askira-Uba	Borno	10.751	13.216	2	Delli
 Tikish	Kala-Balge	Borno	11.996	14.515	2	Dekísch
 Jangebe	Talata Mafara	Zamfara	12.223	6.072	2	Dengebe
 Dengkel	Wamako	Sokoto	13.058	5.087	2	
-Destiny Education Centre	Egor	Edo	6.371	5.587	0	
-St Mary Dedidcation Brithish School	Oredo	Edo	6.312	5.628	0	
-ST. Mary Dedication Education Centre	Oredo	Edo	6.322	5.617	0	
-De Modern Bus Station	Oredo	Edo	6.347	5.623	0	
-Hematology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
-Pharmacy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
-Government Secondary School For The Deaf	Enugu North	Enugu	6.424	7.476	0	
-International Institute For Entrepreneurship & Development	Enugu South	Enugu	6.425	7.490	0	
-Dederi Health Post	Karaye	Kano	11.844	8.057	0	
 Dega	Ngala	Borno	12.438	14.186	2	
 Debiro West	Biu	Borno	10.582	12.433	2	
 Dekerenke	Shani	Borno	10.300	11.902	2	
@@ -88,19 +85,333 @@ Dema Fulani	Kwaya Kusar	Borno	10.509	11.907	2
 Debele	Monguno	Borno	12.481	13.611	2	
 Delki	Hawul	Borno	10.553	12.394	2	
 Puma Debura	Hawul	Borno	10.572	12.341	2	
-Demoya Oil	Lagelu	Oyo	7.442	3.951	0	
-Dele Yes Sir Petrol Station	Egbedore	Osun	7.789	4.506	0	
-Deba Fulani	Kwami	Gombe	10.421	11.370	0	
-pas de nom	Ipokia	Ogun	6.645	2.738	0	
-École primaire de Madina	Ngala	Borno	12.373	14.302	0	Madina Primary School
-Konigin Des Fredens College	Enugu South	Enugu	6.413	7.502	0	
 Alla Dewia	Diffa	Borno	13.439	12.821	2	
 Dewa Fide	Diffa	Borno	13.414	12.814	2	
 Dewa I	Diffa	Borno	13.431	12.806	2	
 Dewa II	Diffa	Borno	13.428	12.807	2	
+Dederi Cikin Gari	Karaye	Kano	11.847	8.055	2	Dederi
+Gidan Deri	Rano	Kano	11.528	8.498	2	
+God-Deygbene	Patani	Delta	5.144	6.146	2	
+Dekwa	Yunusari	Yobe	13.043	12.185	2	
+Degaltura	Yunusari	Yobe	13.011	12.284	2	
+Gawasu Demana	Birnin Kebbi	Kebbi	12.542	4.215	2	
+Dekina	Dekina	Kogi	7.595	7.143	2	
+Dewu	Kirfi	Bauchi	10.515	10.489	2	
+Degubi	Nangere	Yobe	11.621	10.966	2	
+Yamaltu/Deba	Yamaltu/Deba	Gombe	10.307	11.373	2	
+Degema	Degema	Rivers	4.591	6.939	2	
+Demsa	Demsa	Adamawa	9.422	12.088	2	
+Zinna Dedi	Mayo-Belwa	Adamawa	8.952	11.964	2	
+Wuro Deyawa	Teungo	Adamawa	8.108	12.083	2	
+Wuro De	Song	Adamawa	9.765	12.727	2	
+Uva Dee	Konshisha	Benue	7.068	8.540	2	
+Shanger-De	Konshisha	Benue	7.150	8.578	2	
+New Demsa	Demsa	Adamawa	9.423	12.134	2	
+Mayo Dembi	Mayo-Belwa	Adamawa	8.946	11.914	2	
+Kala-Degema	Degema	Rivers	4.781	6.770	2	
+Jauro Dewa	Teungo	Adamawa	7.717	11.889	2	
+Hayin Denu	Tudun Wada	Kano	11.388	8.672	2	
+Gidan Dedi	Tangaza	Sokoto	13.262	4.959	2	
+Gidan Debe	Augie	Kebbi	12.826	4.575	2	
+Gidan-Debe	Argungu	Kebbi	12.582	4.402	2	Gidan Debbi
+Gada Ndiyam	Girei	Adamawa	9.343	12.457	2	Dagri|Deggri
+Umusa-Dege	Ndokwa West	Delta	6.012	6.290	2	Ekum Osadegbe
+Duwe	Kala-Balge	Borno	12.167	14.483	2	De
+Derwa	Fune	Yobe	11.576	11.346	2	Durwa
+Deyor Chara	Tai	Rivers	4.720	7.250	2	Chara
+Deyor	Gokana	Rivers	4.680	7.308	2	
+Deyiola	Oluyole	Oyo	7.206	3.788	2	
+Dewu	Kirfi	Bauchi	10.505	10.445	2	
+Dewu	Abaji	FCT Abuja	9.247	6.931	2	
+Dewen	Shelleng	Adamawa	9.872	12.146	2	
+Deva	Gombi	Adamawa	10.123	12.800	2	
+Deubara	Jada	Adamawa	8.715	12.488	2	
+Deso	Yorro	Taraba	8.907	11.518	2	
+Desel	Jada	Adamawa	8.570	12.022	2	
+Deseni	Moro	Kwara	8.715	4.338	2	
+Derri	Bagudo	Kebbi	11.158	3.965	2	
+Dere-Koto	Toto	Nasarawa	8.252	7.181	2	Derre
+Deriko	Toro	Bauchi	10.083	8.996	2	
+Dere	Lapai	Niger	8.203	6.699	2	
+Dera	Hawul	Borno	10.453	12.314	2	
+Dera	Kwande	Benue	6.574	9.511	2	
+Denyeku	Arewa Dandi	Kebbi	13.147	4.406	2	
+Deno	Ganjuwa	Bauchi	10.678	10.289	2	
+Denji	Konshisha	Benue	7.271	8.601	2	
+Dange	Wamba	Nasarawa	8.866	8.575	2	Dengi
+Dengeshi	Fufore	Adamawa	9.538	12.857	2	
+Dendu	Obafemi Owode	Ogun	7.068	3.551	2	
+Dendi Jawere	Zing	Taraba	8.711	11.794	2	
+Dandi	Shagari	Sokoto	12.723	5.114	2	Dendi
+Dendi	Zing	Taraba	8.743	11.823	2	
+Dende	Surulere	Oyo	8.229	4.366	2	
+Dende	Odeda	Ogun	7.299	3.757	2	
+Dandali	Nafada	Gombe	11.127	11.069	2	Dendali
+Denchita	Katcha	Niger	8.930	6.167	2	
+Demekaa	Gboko	Benue	7.312	8.650	2	
+Dembori	Kirfi	Bauchi	10.279	10.314	2	
+Dematu	Hawul	Borno	10.328	12.088	2	
+Demakaa	Keana	Nasarawa	8.084	8.783	2	
+Deli	Jada	Adamawa	8.841	12.786	2	
+Deli	Warri North	Delta	5.740	5.152	2	Deghele
+Deleri	Sumaila	Kano	11.484	8.970	2	
+Dela	Ganjuwa	Bauchi	10.926	9.998	2	
+Dekuku	Konshisha	Benue	7.034	8.829	2	
+Deken	Gokana	Rivers	4.710	7.303	2	
+Deke	Konshisha	Benue	7.181	8.688	2	
+Deke	Konshisha	Benue	7.157	8.577	2	
+Dekbara	Fufore	Adamawa	8.803	12.419	2	
+Dekola	Borgu	Niger	10.272	3.671	2	Dekala
+Dejo	Ona Ara	Oyo	7.144	4.022	2	
+Dejir	Gboko	Benue	7.363	8.707	2	
+Deja	Mayo-Belwa	Adamawa	8.771	11.895	2	
+Deiba	Gassol	Taraba	8.477	10.655	2	Deida
+Degubi	Nangere	Yobe	11.725	10.996	2	
+Degri	Hawul	Borno	10.476	12.122	2	
+Deggi	Jada	Adamawa	8.803	12.642	2	
+Degemram	Magumeri	Borno	12.314	12.919	2	
+Degele	Ganjuwa	Bauchi	10.593	10.134	2	
+Degele	Ganjuwa	Bauchi	10.570	10.132	2	
+Degagu	Guzamala	Borno	12.920	13.055	2	
+Dega	Igabi	Kaduna	10.805	7.291	2	
+Deeti	Konshisha	Benue	7.016	8.763	2	
+Deeorteo	Gboko	Benue	7.207	8.686	2	
+Deede	Ushongo	Benue	7.089	8.804	2	
+Dederi	Karaye	Kano	11.845	8.055	2	
+Dedaro	Gwer West	Benue	7.471	8.188	2	
+Deda	Gurara	Niger	9.328	6.878	2	
+Deburau	Hawul	Borno	10.580	12.438	2	
+Deboro	Obafemi Owode	Ogun	7.032	3.526	2	
+Debonre	Obafemi Owode	Ogun	7.118	3.741	2	
+Debiola	Asa	Kwara	8.565	4.448	2	
+Debia	Chibok	Borno	10.756	12.724	2	
+Deben Kasa	Ganjuwa	Bauchi	10.529	10.123	2	
+Debe Mai Kasuwa	Ganjuwa	Bauchi	10.527	10.085	2	
+Debeel	Gboko	Benue	7.319	8.662	2	
+Debbi	Bosso	Niger	9.713	6.257	2	
+Deba	Kwaya Kusar	Borno	10.335	11.910	2	
+Daniki	Koko-Besse	Kebbi	11.592	4.338	2	Deniki
+Delman	Ganye	Adamawa	8.476	11.902	2	Dalam
+Dadin Kowa	Yamaltu/Deba	Gombe	10.290	11.500	2	Deba Kowa
+Barakin Delimi Sabuwa	Jos South	Plateau	9.861	8.933	2	Barakin Sabawa|Delimi
+Dere-Bassa	Toto	Nasarawa	8.243	7.180	2	Badugu
+Arnado-Debb0	Ganye	Adamawa	8.411	12.057	2	Arnado Debb|Arnado Debbo|ArnadoDebb|ArnadoDebbo
+Deidun	Akinyele	Oyo	7.583	3.906	2	
+Dede	Mubi South	Adamawa	10.041	13.248	2	
+Dele’e	Bama	Borno	11.672	14.167	2	
+Dekamaboko	Degema	Rivers	4.475	6.837	2	
+Dekama	Degema	Rivers	4.478	6.843	2	
+Degevi	Shelleng	Adamawa	10.197	12.236	2	
+Dega	Hawul	Borno	10.312	12.156	2	
+Demet	Hawul	Borno	10.337	12.182	2	
+Denangu	Gboko	Benue	7.312	8.910	2	
+Degema	Gwer East	Benue	7.350	8.299	2	
+Dengkel	Wamako	Sokoto	13.061	5.084	2	
+Cotton Depot	Borgu	Niger	10.896	4.214	2	
+Dan Della	Bakori	Katsina	11.656	7.463	2	
+Ungwan Deri	Danja	Katsina	11.361	7.686	2	
+Demo	Fakai	Kebbi	11.444	4.749	2	
+Daleketa	Warri North	Delta	5.830	5.087	2	Deleoketa
+Dekalabeji II	Borgu	Niger	10.240	3.662	2	
+Baranyonwa Dere	Gokana	Rivers	4.669	7.274	2	
+Dere	Gokana	Rivers	4.666	7.274	2	
+Obi-Deke	Ika South	Delta	6.022	6.273	2	
+Omo Dema	Ikwerre	Rivers	5.051	6.920	2	
+Suberu Debowa Camp	Orhionmwon	Edo	6.330	6.091	2	
+Borgu	Borgu	Niger	10.378	4.163	2	Agbegbe Ijoba Ibile Borgu|Area de governo local de Borgu|Borgu Local Government Area
+Dekina	Dekina	Kogi	7.584	7.173	2	Dekina Local Government Area
+Degema	Degema	Rivers	4.574	6.938	2	Degema Local Government Area
+Bali	Bali	Taraba	8.155	10.969	2	Agbegbe Ijoba Ibile Bali|Bali Local Government Area|bari de fang xing zheng qu
+Yamaltu/Deba	Yamaltu/Deba	Gombe	10.238	11.442	2	Agbegbe Ijoba Ibile Yamaltu/Deba|Jamaltu/Deba|Yamaltu/Deba Local Government Area|ya ma er tu/de ba|yamaltw/dba|yamarutou
+Demsa	Demsa	Adamawa	9.356	12.078	2	Demsa Local Government Area
+Dere	Michika	Adamawa	10.513	13.373	2	
+Deruza	Fune	Yobe	11.738	11.594	2	
+Degubi	Nangere	Yobe	11.626	10.969	2	
+Degaltura	Yunusari	Yobe	13.007	12.301	2	
+Dewu	Kirfi	Bauchi	10.516	10.486	2	
+Demyongo	Markurdi	Benue	7.714	8.473	2	
+Deke	Wukari	Taraba	7.902	9.724	2	
+Dekaa	Ukum	Benue	7.608	9.571	2	
+Demegba	Gboko	Benue	7.442	9.091	2	
+Denongon	Gboko	Benue	7.340	9.150	2	
+Dewua	Katsina-Ala	Benue	7.488	9.423	2	
+Denyerga	Katsina-Ala	Benue	7.473	9.447	2	
+Deter	Katsina-Ala	Benue	7.460	9.414	2	
+Depoor	Katsina-Ala	Benue	7.262	9.433	2	
+Dem	Ushongo	Benue	7.026	9.147	2	
+Dem	Katsina-Ala	Benue	7.226	9.371	2	
+Depine	Katsina-Ala	Benue	7.290	9.786	2	
+Dem	Gboko	Benue	7.381	8.852	2	
+Denen	Gboko	Benue	7.368	8.804	2	
+Demogba	Gboko	Benue	7.294	8.934	2	
+Detsegh	Gboko	Benue	7.296	8.814	2	
+Deleri	Zaki	Bauchi	12.136	10.341	2	
+Degbe	Mokwa	Niger	9.100	5.814	2	
+Denchita	Gbako	Niger	9.209	6.089	2	
+Dewoji	Edati	Niger	9.066	6.055	2	
+Demi	Shiroro	Niger	9.769	6.669	2	
+Dekbara	Jada	Adamawa	8.625	12.397	2	Dakbara
+Aloba Desalu	Surulere	Lagos	6.484	3.370	2	
+Dendi Jarandi	Zing	Taraba	8.712	11.805	2	
+Depi	Yorro	Taraba	8.896	11.409	2	
+Der	Qua'An Pan	Plateau	8.790	9.358	2	
+Derlit	Shendam	Plateau	8.925	9.479	2	Kwpoya
+Deli II	Warri North	Delta	5.758	5.178	2	
+Wuro Dendehi	Girei	Adamawa	9.473	12.387	2	
+Demsare	Girei	Adamawa	9.490	12.463	2	Damsare
+Demsawo	Yola South	Adamawa	9.264	12.441	2	
+Jauro Denye	Mayo-Belwa	Adamawa	9.100	12.011	2	
+Dembiri	Fufore	Adamawa	9.023	12.315	2	
+Deli	Fufore	Adamawa	9.060	12.488	2	
+Dem	Numan	Adamawa	9.295	11.726	2	
+Deka	Demsa	Adamawa	9.362	11.945	2	
+Deru	Karim Lamido	Taraba	9.434	10.985	2	
+Wuro Delo	Karim Lamido	Taraba	9.249	10.938	2	
+Demolu	Obafemi Owode	Ogun	7.041	3.398	2	
+Debonre	Obafemi Owode	Ogun	7.028	3.436	2	
+Degundu	Obafemi Owode	Ogun	7.102	3.402	2	
+Depo	Ona Ara	Oyo	7.200	4.071	2	
+Dejo-Egan	Isokan	Osun	7.226	4.096	2	
+Dede	Irewole	Osun	7.439	4.279	2	
+Samu-Deji	Ife North	Osun	7.469	4.435	2	
+Dejo	Ife North	Osun	7.287	4.449	2	
+Dede	Baruten	Kwara	9.526	3.279	2	
+Ago-Deyi	Ilaje	Ondo	6.407	4.672	2	
+Debe	Ife South	Osun	7.376	4.632	2	
+Ago-Defiju	Ondo East	Ondo	7.190	4.973	2	
+Degbalu	Odeda	Ogun	7.164	3.575	2	
+Sarki Toudou Saboua	Guidan Roumdji	Sokoto	13.605	6.462	2	Dan Dela
+Deseni	Ifelodun	Kwara	8.425	5.011	2	
+Dechu	Wamba	Nasarawa	8.890	8.544	2	
+Derasita	Edu	Kwara	9.031	4.920	2	
+Dejangani	Teungo	Adamawa	8.187	11.965	2	
+Denen	Teungo	Adamawa	8.165	11.986	2	
+Delo	Ganye	Adamawa	8.269	11.997	2	
+Wuro De	Shelleng	Adamawa	9.902	12.068	2	WuroDe
+Delau	Magama	Niger	9.988	4.740	2	
+Deji	Toto	Nasarawa	8.469	7.353	2	
+Dereguma	Kuje	FCT Abuja	8.468	7.119	2	
+Degbe	Toto	Nasarawa	8.474	7.392	2	
+Dereguma	Toto	Nasarawa	8.438	7.136	2	
+Deuduwa	Karu	Nasarawa	8.702	7.916	2	
+Denbe Tugor	Sardauna	Taraba	6.749	11.325	2	
+Deywa	Sardauna	Taraba	6.986	11.164	2	
+Deme	Sardauna	Taraba	6.829	11.351	2	
+Deng	Sardauna	Taraba	6.765	11.416	2	
+Denbe Ninge	Sardauna	Taraba	6.723	11.313	2	
+Dembe Ver	Sardauna	Taraba	6.811	11.427	2	
+Malam Dewa	Sardauna	Taraba	6.551	11.215	2	
+Derin	Ede South	Osun	7.633	4.485	2	
+Depiti	Akinyele	Oyo	7.630	4.085	2	
+Dejo	Ona Ara	Oyo	7.193	4.030	2	
+Denchita	Katcha	Niger	8.874	6.200	2	
+Nigerian Defence Academy	Igabi	Kaduna	10.617	7.377	1	
+Degel 2	Kaduna North	Kaduna	10.513	7.455	1	
+Degel 2	Kaduna North	Kaduna	10.517	7.462	1	
+Delta Crescent Rd	Oredo	Edo	6.310	5.625	1	
+Degel 1	Kaduna North	Kaduna	10.519	7.455	1	
+Dejo Oyelese Street	Ibadan North	Oyo	7.415	3.898	1	
+Deji Adeoye Street	Oshodi/Isolo	Lagos	6.565	3.337	1	
+Dele Amuda Street	Eti Osa	Lagos	6.428	3.497	1	
+Dele Adeyemi Street	Eti Osa	Lagos	6.441	3.518	1	
+Demurin Street	Kosofe	Lagos	6.598	3.388	1	
+Dele Ashiru Street	Oshodi/Isolo	Lagos	6.525	3.318	1	
+Dele Ara Street	Alimosho	Lagos	6.541	3.261	1	
+MMIA Departures	Ikeja	Lagos	6.576	3.322	1	
+Deji Omo Owo Street	Kosofe	Lagos	6.630	3.378	1	
+Desalu Street	Surulere	Lagos	6.485	3.372	1	
+Oba Delemo Street	Ikeja	Lagos	6.581	3.354	1	
+Dele Adedeji Street	Eti Osa	Lagos	6.439	3.468	1	
+Degema Close	Apapa	Lagos	6.453	3.355	1	
+Dendo Road	Kaduna North	Kaduna	10.536	7.431	1	
+Charles de Gaulle Street	Municipal Area Council	FCT Abuja	9.049	7.512	1	
+Dennis Osadebey Crescent	Municipal Area Council	FCT Abuja	9.017	7.484	1	
+Dennis Osadebe Street	Municipal Area Council	FCT Abuja	9.058	7.512	1	
+Dele Osuntuyi Street	Eti Osa	Lagos	6.493	3.591	1	
+Denis Osadebe Avenue	Oredo	Edo	6.316	5.622	1	
+Dele Olaoye	Lagos Mainland	Lagos	6.508	3.387	1	
+Dele Ojo Close	Ifako/Ijaye	Lagos	6.664	3.311	1	
+Deco Road Warri	Warri South	Delta	5.524	5.763	1	
+Deeper Life Road	Uvwie	Delta	5.554	5.774	1	
+Dederu Street	Warri South	Delta	5.528	5.757	1	
+Pont de l'Elbeid	Ngala	Borno	12.374	14.222	1	
+Angwa Dewi Street	Jos North	Plateau	9.925	8.872	1	
+Dental Avenue	Enugu East	Enugu	6.483	7.496	1	
+Devon Drive	Enugu North	Enugu	6.460	7.504	1	
+Denten Street	Enugu North	Enugu	6.442	7.497	1	
+Police Detective College Road	Enugu South	Enugu	6.422	7.485	1	
+Dental Close	Enugu East	Enugu	6.483	7.495	1	
+Police Detective College Road	Enugu South	Enugu	6.420	7.484	1	
+Demian Street	Enugu East	Enugu	6.489	7.511	1	
+Devo Close	Enugu East	Enugu	6.495	7.508	1	
+Deeper Life Close	Enugu North	Enugu	6.455	7.505	1	
+Prince Joseph Denchukwu Avenue	Enugu East	Enugu	6.487	7.476	1	
+Demmiri Street	Enugu East	Enugu	6.490	7.526	1	
+Dec Avenue	Enugu North	Enugu	6.434	7.520	1	
+Dennis Crescent	Enugu North	Enugu	6.451	7.521	1	
+Alh. Garba M-Delight Street	Ungongo	Kano	12.048	8.592	1	
+Dengram Close	Enugu North	Enugu	6.433	7.525	1	
+Prince Michael Den Chukwu Street	Enugu North	Enugu	6.447	7.558	1	
+Layin Gidan Deneji	Tarauni	Kano	11.976	8.560	1	
+Denton Street	Enugu North	Enugu	6.440	7.498	1	
+Dewhurst Street	Enugu North	Enugu	6.443	7.498	1	
+Denton Street	Lagos Mainland	Lagos	6.478	3.385	1	
+De Fire Nanka Street	Oshodi/Isolo	Lagos	6.492	3.294	1	
+Deji Adedotun Street	Ìkòròdú	Lagos	6.617	3.485	1	
+Dele Kuti street	Ìkòròdú	Lagos	6.606	3.492	1	
+Dederi Street	Ungongo	Kano	11.979	8.446	1	
+Debo Oladejo	Eti Osa	Lagos	6.440	3.556	1	
+Dele Jaiyesimi	Eti Osa	Lagos	6.437	3.560	1	
+Office Depot Street	Eti Osa	Lagos	6.470	3.657	1	
+Niger Delta Road	Akure South	Ondo	7.304	5.136	1	
+Denis "Ekwueme" Ndubizu Avenue	Ideato North	Imo	5.869	7.085	1	
+Community Development Road	Esan Central	Edo	6.787	6.306	1	
+Chemin de la Montagne	Mariga	Niger	10.870	5.906	1	
+Chemin de la Cabane	Mariga	Niger	10.855	5.902	1	
+Chemin de l'Erable	Mariga	Niger	10.858	5.906	1	
+Chemin de la Coline	Mariga	Niger	10.869	5.892	1	
+Dele Ojewole Street	Alimosho	Lagos	6.594	3.251	1	Dele Ajewole Street
+Deji Browne Close	Eti Osa	Lagos	6.459	3.576	1	
+Deji Olamiju Street	Kosofe	Lagos	6.569	3.387	1	
+Democracy Crescent	Ifako/Ijaye	Lagos	6.638	3.319	1	
+Deborah Dahunsi Street	Kosofe	Lagos	6.628	3.366	1	
+Dele Orisabiyi Street	Ado Odo/Ota	Ogun	6.691	3.243	1	
+Dele Oyelola Street	Ado Odo/Ota	Ogun	6.695	3.246	1	
+Departures and Arrivals	Bauchi	Bauchi	10.489	9.748	1	
+Dele Orisabiyi Street	Oshodi/Isolo	Lagos	6.516	3.310	1	
+Dele Kulajolu Street	Oshodi/Isolo	Lagos	6.512	3.314	1	
+Deji Avenue	Eti Osa	Lagos	6.464	3.573	1	
+Nigerian Defence Academy	Igabi	Kaduna	10.594	7.390	1	
+East-West Road, Ughelli, Ughelli North, Delta, Nigeria	Ughelli North	Delta	5.519	5.975	1	
+Debow Road	Esan West	Edo	6.748	6.084	1	
+Dele Afolabi Crescent	Ogbomosho North	Oyo	8.158	4.248	1	
+De Sholly Street	Badagry	Lagos	6.472	2.999	1	
+Destiny Avenue	Alimosho	Lagos	6.588	3.294	1	
+De-Anchor Street	Alimosho	Lagos	6.585	3.220	1	
+Devog Street	Akure South	Ondo	7.202	5.214	1	
+Sunday Dejo Close	Shomolu	Lagos	6.542	3.372	1	
+Usong Denis Obot	Ukanafun	Akwa Ibom	4.867	7.660	1	
+Degema Street	Port-Harcourt	Rivers	4.762	7.020	1	
+Iheanacho Denson Street	Obio/Akpor	Rivers	4.832	6.943	1	
+Kamal-Deen St	Ilorin East	Kwara	8.503	4.535	1	
+Deno Street	Bauchi	Bauchi	10.304	9.794	1	
+Destiny Education Centre	Egor	Edo	6.371	5.587	0	
+St Mary Dedidcation Brithish School	Oredo	Edo	6.312	5.628	0	
+ST. Mary Dedication Education Centre	Oredo	Edo	6.322	5.617	0	
+De Modern Bus Station	Oredo	Edo	6.347	5.623	0	
+Hematology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
+Pharmacy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
+Government Secondary School For The Deaf	Enugu North	Enugu	6.424	7.476	0	
+International Institute For Entrepreneurship & Development	Enugu South	Enugu	6.425	7.490	0	
+Dederi Health Post	Karaye	Kano	11.844	8.057	0	
+Demoya Oil	Lagelu	Oyo	7.442	3.951	0	
+Dele Yes Sir Petrol Station	Egbedore	Osun	7.789	4.506	0	
+pas de nom	Ipokia	Ogun	6.645	2.738	0	
+École primaire de Madina	Ngala	Borno	12.373	14.302	0	Madina Primary School
+Konigin Des Fredens College	Enugu South	Enugu	6.413	7.502	0	
 Gilgal Dental Clinics	Eti Osa	Lagos	6.448	3.430	0	
 Geography Dept Medical Center	Sabon Gari	Kaduna	11.153	7.649	0	
-Demsa LGA	Demsa	Adamawa	9.416	12.144	0	
+Demsa	Demsa	Adamawa	9.416	12.144	0	
 Nassarawo Demsa Health Clinic	Numan	Adamawa	9.453	12.046	0	
 Delta Gasoline Filling Station	Uvwie	Delta	5.571	5.809	0	
 Desan School	Uvwie	Delta	5.558	5.764	0	
@@ -115,12 +426,10 @@ Degema Jetty	Degema	Rivers	4.756	6.782	0
 Biochemistry and microbiology department	Gombe	Gombe	10.304	11.175	0	
 Department of Sociology	Gombe	Gombe	10.306	11.174	0	
 Religious department	Gombe	Gombe	10.306	11.175	0	
-DEPARTMENT OF ENGLISH AND HISTORY	Gombe	Gombe	10.305	11.172	0	
+Department Of English And History	Gombe	Gombe	10.305	11.172	0	
 Early Child Care Development Education Primary School	Gombe	Gombe	10.300	11.173	0	
 Politcal Science Department	Gombe	Gombe	10.306	11.175	0	
 Economics Department	Gombe	Gombe	10.306	11.174	0	
-Dederi Cikin Gari	Karaye	Kano	11.847	8.055	2	Dederi
-Gidan Deri	Rano	Kano	11.528	8.498	2	
 4 Demo Mess	Igabi	Kaduna	10.809	7.548	0	
 De Bless & Bless Others Oil Ltd	Yenegoa	Bayelsa	4.947	6.358	0	
 Government Crafts Development Centre, Adagbabiri	Sagbama	Bayelsa	5.205	6.207	0	
@@ -169,7 +478,6 @@ Nawair Ud Deen Primary School , Ikogbo	Ado Odo/Ota	Ogun	6.579	3.087	0
 Ansar Ud Deen Primary School,Ewutagbe	Ado Odo/Ota	Ogun	6.573	3.150	0	
 Dio De Steel Oil & Gas	Enugu North	Enugu	6.460	7.534	0	
 Child's Destiny Academy	Enugu North	Enugu	6.460	7.531	0	
-God-Deygbene	Patani	Delta	5.144	6.146	2	
 Nassarawo Demsa Maternity and Child Health	Numan	Adamawa	9.460	12.040	0	
 Destiny Model Academy Ajigo	Jos North	Plateau	9.971	8.859	0	
 Ben-Dominics Dental Surgery clinic	Jos North	Plateau	9.907	8.892	0	
@@ -182,11 +490,10 @@ Deidei	Municipal Area Council	FCT Abuja	9.106	7.287	0
 Shoprite Delta Mall	Uvwie	Delta	5.571	5.783	0	
 Department of Building	Jos North	Plateau	9.967	8.879	0	
 P.H.E Department	Jos North	Plateau	9.973	8.889	0	
-DEPARTMENT OF ARCHITECTURE	Owerri West	Imo	5.384	6.991	0	
+Department Of Architecture	Owerri West	Imo	5.384	6.991	0	
 Department of Nursing Science	Gombe	Gombe	10.303	11.176	0	
-NURSING DEPARTMENT	Gombe	Gombe	10.303	11.175	0	
+Nursing Department	Gombe	Gombe	10.303	11.175	0	
 Geography Department Room 4	Gombe	Gombe	10.305	11.176	0	
-Geography Department Room 4	Gombe	Gombe	10.306	11.178	0	
 Geography Department Room 3	Gombe	Gombe	10.305	11.176	0	
 Devital Care Hospital	Ojo	Lagos	6.477	3.142	0	
 Denow Ayetoro Medical Center	Ojo	Lagos	6.488	3.154	0	
@@ -209,7 +516,7 @@ Deoyefemi Clinic Block 4 Jakande Estate Mile 2	Amuwo Odofin	Lagos	6.464	3.307	0
 De Marvel Hospitalsabo Crown Hospital	Amuwo Odofin	Lagos	6.465	3.272	0	
 De Uzoma Clinic	Amuwo Odofin	Lagos	6.441	3.264	0	
 Morning Dew Private School	Ìkòròdú	Lagos	6.540	3.523	0	
-DE MICROBYTES	Alimosho	Lagos	6.520	3.232	0	
+De Microbytes	Alimosho	Lagos	6.520	3.232	0	
 Denoy kids academy & college	Alimosho	Lagos	6.522	3.228	0	
 Gani Development College Pil Ganii	Langtang North	Plateau	9.187	9.878	0	
 Air Force Research And Development Centre (AFRDC)	Kaduna North	Kaduna	10.611	7.443	0	
@@ -217,7 +524,6 @@ AFIT Electrical Electronics Department	Kaduna North	Kaduna	10.611	7.441	0
 Civil and Environmental Engineering Department (CEED) - MILITARY	Kaduna North	Kaduna	10.610	7.443	0	
 AFIT Armament Engineering Department	Kaduna North	Kaduna	10.611	7.443	0	
 Statictics Department	Kaduna North	Kaduna	10.609	7.445	0	
-Debasco	Odogbolu	Ogun	6.789	3.891	3	
 Dean Of Student Affairs Building	Ovia North-East	Edo	6.744	5.406	0	
 Theatre Art Department	Ovia North-East	Edo	6.741	5.406	0	
 Radiology department	Awka South	Anambra	6.224	7.079	0	
@@ -246,114 +552,21 @@ Business Administration Department	Kaduna North	Kaduna	10.610	7.445	0
 Cyber Security Department	Kaduna North	Kaduna	10.611	7.446	0	
 Department of Geography and Planning	Jos North	Plateau	9.967	8.880	0	
 Dei Dei Market	Municipal Area Council	FCT Abuja	9.114	7.260	0	
-Nigerian Defence Academy	Igabi	Kaduna	10.617	7.377	1	
-Degel 2	Kaduna North	Kaduna	10.513	7.455	1	
-Degel 2	Kaduna North	Kaduna	10.517	7.462	1	
-Delta Crescent Rd	Oredo	Edo	6.310	5.625	1	
 Centre for Community Development Education	Oredo	Edo	6.327	5.621	0	
-Degel 1	Kaduna North	Kaduna	10.519	7.455	1	
-Dejo Oyelese Street	Ibadan North	Oyo	7.415	3.898	1	
-Deji Adeoye Street	Oshodi/Isolo	Lagos	6.565	3.337	1	
-Dele Amuda Street	Eti Osa	Lagos	6.428	3.497	1	
-Dele Adeyemi Street	Eti Osa	Lagos	6.441	3.518	1	
-Demurin Street	Kosofe	Lagos	6.598	3.388	1	
-Dele Ashiru Street	Oshodi/Isolo	Lagos	6.525	3.318	1	
-Dele Ara Street	Alimosho	Lagos	6.541	3.261	1	
-MMIA Departures	Ikeja	Lagos	6.576	3.322	1	
-Deji Omo Owo Street	Kosofe	Lagos	6.630	3.378	1	
-Desalu Street	Surulere	Lagos	6.485	3.372	1	
-Oba Delemo Street	Ikeja	Lagos	6.581	3.354	1	
-Dele Adedeji Street	Eti Osa	Lagos	6.439	3.468	1	
-Degema Close	Apapa	Lagos	6.453	3.355	1	
-Dendo Road	Kaduna North	Kaduna	10.536	7.431	1	
-Charles de Gaulle Street	Municipal Area Council	FCT Abuja	9.049	7.512	1	
-Dennis Osadebey Crescent	Municipal Area Council	FCT Abuja	9.017	7.484	1	
-Dennis Osadebe Street	Municipal Area Council	FCT Abuja	9.058	7.512	1	
-QUEEN HANNAHBEL DEMOSTRATION SHCOOL	Egor	Edo	6.359	5.628	0	
-Dele Osuntuyi Street	Eti Osa	Lagos	6.493	3.591	1	
-Denis Osadebe Avenue	Oredo	Edo	6.316	5.622	1	
-Dele Olaoye	Lagos Mainland	Lagos	6.508	3.387	1	
-Dele Ojo Close	Ifako/Ijaye	Lagos	6.664	3.311	1	
-Deco Road Warri	Warri South	Delta	5.524	5.763	1	
-Deeper Life Road	Uvwie	Delta	5.554	5.774	1	
-Dederu Street	Warri South	Delta	5.528	5.757	1	
-Demurin Street	Kosofe	Lagos	6.596	3.399	1	
-Pont de l'Elbeid	Ngala	Borno	12.374	14.222	1	
-Angwa Dewi Street	Jos North	Plateau	9.925	8.872	1	
-Dental Avenue	Enugu East	Enugu	6.483	7.496	1	
-Devon Drive	Enugu North	Enugu	6.460	7.504	1	
-Denten Street	Enugu North	Enugu	6.442	7.497	1	
-Police Detective College Road	Enugu South	Enugu	6.422	7.485	1	
-Dental Close	Enugu East	Enugu	6.483	7.495	1	
-Police Detective College Road	Enugu South	Enugu	6.420	7.484	1	
-Demian Street	Enugu East	Enugu	6.489	7.511	1	
-Devo Close	Enugu East	Enugu	6.495	7.508	1	
-Deeper Life Close	Enugu North	Enugu	6.455	7.505	1	
-Prince Joseph Denchukwu Avenue	Enugu East	Enugu	6.487	7.476	1	
-Prince Joseph Denchukwu Avenue	Enugu East	Enugu	6.486	7.470	1	
-Demmiri Street	Enugu East	Enugu	6.490	7.526	1	
-Dec Avenue	Enugu North	Enugu	6.434	7.520	1	
-Dennis Crescent	Enugu North	Enugu	6.451	7.521	1	
-Alh. Garba M-Delight Street	Ungongo	Kano	12.048	8.592	1	
-Dengram Close	Enugu North	Enugu	6.433	7.525	1	
-Prince Michael Den Chukwu Street	Enugu North	Enugu	6.447	7.558	1	
-Layin Gidan Deneji	Tarauni	Kano	11.976	8.560	1	
-Denton Street	Enugu North	Enugu	6.440	7.498	1	
-Dewhurst Street	Enugu North	Enugu	6.443	7.498	1	
-Denton Street	Lagos Mainland	Lagos	6.478	3.385	1	
-De Fire Nanka Street	Oshodi/Isolo	Lagos	6.492	3.294	1	
-Deji Adedotun Street	Ìkòròdú	Lagos	6.617	3.485	1	
-Dele Kuti street	Ìkòròdú	Lagos	6.606	3.492	1	
-Dederi Street	Ungongo	Kano	11.979	8.446	1	
+Queen Hannahbel Demostration Shcool	Egor	Edo	6.359	5.628	0	
 Department of Accounting	Ungongo	Kano	11.973	8.429	0	
 Department of Business Administration and Entrepreneurship	Ungongo	Kano	11.974	8.429	0	
 Department of Education	Ungongo	Kano	11.974	8.430	0	
 Department of Sociology and Geography	Ungongo	Kano	11.972	8.430	0	
-Debo Oladejo	Eti Osa	Lagos	6.440	3.556	1	
-Dele Jaiyesimi	Eti Osa	Lagos	6.437	3.560	1	
 Debardak Maternity Health Clinic	Dass	Bauchi	10.013	9.556	0	
-Office Depot Street	Eti Osa	Lagos	6.470	3.657	1	
-Niger Delta Road	Akure South	Ondo	7.304	5.136	1	
-Denis "Ekwueme" Ndubizu Avenue	Ideato North	Imo	5.869	7.085	1	
-Community Development Road	Esan Central	Edo	6.787	6.306	1	
-Chemin de la Montagne	Mariga	Niger	10.870	5.906	1	
-Chemin de la Cabane	Mariga	Niger	10.855	5.902	1	
-Chemin de l'Erable	Mariga	Niger	10.858	5.906	1	
-Chemin de la Coline	Mariga	Niger	10.869	5.892	1	
 National Defence College	Municipal Area Council	FCT Abuja	9.047	7.489	0	
-Nigerian Defence Academy	Igabi	Kaduna	10.609	7.377	1	
-Dele Ojewole Street	Alimosho	Lagos	6.594	3.251	1	Dele Ajewole Street
-Deji Browne Close	Eti Osa	Lagos	6.459	3.576	1	
-Deji Olamiju Street	Kosofe	Lagos	6.569	3.387	1	
-Democracy Crescent	Ifako/Ijaye	Lagos	6.638	3.319	1	
-Deborah Dahunsi Street	Kosofe	Lagos	6.628	3.366	1	
-Dele Orisabiyi Street	Ado Odo/Ota	Ogun	6.691	3.243	1	
-Dele Oyelola Street	Ado Odo/Ota	Ogun	6.695	3.246	1	
 Government Day Secondary School Deba	Yamaltu/Deba	Gombe	10.218	11.377	0	
-Departures and Arrivals	Bauchi	Bauchi	10.489	9.748	1	
 Degubi Model Health Centre	Nangere	Yobe	11.646	10.987	0	
 University of Port Harcourt Demostration Secondary School	Ikwerre	Rivers	4.911	6.910	0	
-Dele Orisabiyi Street	Oshodi/Isolo	Lagos	6.516	3.310	1	
-Dele Kulajolu Street	Oshodi/Isolo	Lagos	6.512	3.314	1	
-Deji Avenue	Eti Osa	Lagos	6.464	3.573	1	
-Nigerian Defence Academy	Igabi	Kaduna	10.594	7.390	1	
-Nigerian Defence Academy	Igabi	Kaduna	10.604	7.384	1	
-Nigerian Defence Academy	Igabi	Kaduna	10.599	7.388	1	
-East-West Road, Ughelli, Ughelli North, Delta, Nigeria	Ughelli North	Delta	5.519	5.975	1	
-Debow Road	Esan West	Edo	6.748	6.084	1	
-Dele Afolabi Crescent	Ogbomosho North	Oyo	8.158	4.248	1	
-De Sholly Street	Badagry	Lagos	6.472	2.999	1	
-Destiny Avenue	Alimosho	Lagos	6.588	3.294	1	
-De-Anchor Street	Alimosho	Lagos	6.585	3.220	1	
-Devog Street	Akure South	Ondo	7.202	5.214	1	
-Sunday Dejo Close	Shomolu	Lagos	6.542	3.372	1	
-Usong Denis Obot	Ukanafun	Akwa Ibom	4.867	7.660	1	
 Degeltura Dispensary	Yunusari	Yobe	12.976	12.236	0	
 Delta Career College	Warri South	Delta	5.540	5.749	0	
 Dekwa Dispensary	Yunusari	Yobe	13.080	12.140	0	
 École primaire publique de Garadima	Baruten	Kwara	9.062	2.788	0	
-Degema Street	Port-Harcourt	Rivers	4.762	7.020	1	
-Iheanacho Denson Street	Obio/Akpor	Rivers	4.832	6.943	1	
 Ansar Ud Deen Senior Grammar School	Ìkòròdú	Lagos	6.654	3.670	0	
 Dembori Maternity	Kirfi	Bauchi	10.280	10.314	0	
 FMC Crechè;Family Medicine Department	Muhammadu Dikko Stadium	Katsina	12.986	7.577	0	
@@ -373,33 +586,20 @@ Nassarawo Demsa Peraonal Base Finance Health Facilities Demsa	Numan	Adamawa	9.45
 Dengeshi Health Post	Fufore	Adamawa	9.538	12.857	0	
 Deremina 1 Primary Health Center	Guyuk	Adamawa	9.918	11.959	0	
 Arnado Debbo Primary Health Care	Ganye	Adamawa	8.409	12.059	0	
-DEBA CENTRAL PRIMARY SCHOOL	Yamaltu/Deba	Gombe	10.212	11.384	0	
-DEBA SPECIALIST HOSPITAL	Yamaltu/Deba	Gombe	10.223	11.382	0	
+Deba Central Primary School	Yamaltu/Deba	Gombe	10.212	11.384	0	
+Deba Specialist Hospital	Yamaltu/Deba	Gombe	10.223	11.382	0	
 Destiny Christian Academy	Municipal Area Council	FCT Abuja	8.990	7.426	0	
 Ecole de Bandi	Bosso	Borno	13.512	12.943	0	
 Ecole de Dagaya	Bosso	Borno	13.551	13.062	0	
-OUT-GOING PATIENT        DEPARTMENT	Isiala Mbano	Imo	5.679	7.240	0	
-Kamal-Deen St	Ilorin East	Kwara	8.503	4.535	1	
+Out-Going Patient        Department	Isiala Mbano	Imo	5.679	7.240	0	
 Nassarawo Demsa Primary Health Center	Demsa	Adamawa	9.451	12.047	0	
 Karshi Development Town Hall	Municipal Area Council	FCT Abuja	8.828	7.567	0	
 FCT department of mass education	Municipal Area Council	FCT Abuja	8.822	7.569	0	
-Deno Street	Bauchi	Bauchi	10.304	9.794	1	
 Armament Engineering Department - NBTE	Kaduna North	Kaduna	10.612	7.443	0	
-Deborah Dahunsi Street	Kosofe	Lagos	6.628	3.365	1	
-DEPARTMENT OF SURVEYING AND GEOINFORMATICS	Birnin Kebbi	Kebbi	12.465	4.239	0	
-Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.826	13.142	0	
+Department Of Surveying And Geoinformatics	Birnin Kebbi	Kebbi	12.465	4.239	0	
 BioTechnology Department / Faculty of Science	Kaduna North	Kaduna	10.612	7.443	0	
 Civil and Environmental Engineering Department (CEED)  - NBTE	Kaduna North	Kaduna	10.613	7.442	0	
 Mechanical Engineering Department  / Met & Mat Engineering Department	Kaduna North	Kaduna	10.613	7.442	0	
-UNIVERSITY OF CALABAR INTERNATIONAL DEMONSTRATION SECONDARY SCHOOL	Calabar Municipal	Cross River	4.955	8.348	0	
+University Of Calabar International Demonstration Secondary School	Calabar Municipal	Cross River	4.955	8.348	0	
 General Out-Patient Department (GOPD)	Nnewi North	Anambra	5.999	6.882	0	
-UNIVERSITY OF CALABAR INTERNATIONAL DEMONSTRATION SECONDARY SCHOOL	Calabar Municipal	Cross River	4.951	8.356	0	
-Dekwa	Yunusari	Yobe	13.043	12.185	2	
-Degaltura	Yunusari	Yobe	13.011	12.284	2	
-Gawasu Demana	Birnin Kebbi	Kebbi	12.542	4.215	2	
-Dekina	Dekina	Kogi	7.595	7.143	2	
-Dewu	Kirfi	Bauchi	10.515	10.489	2	
-Degubi	Nangere	Yobe	11.621	10.966	2	
-Yamaltu/Deba	Yamaltu/Deba	Gombe	10.307	11.373	2	
-Degema	Degema	Rivers	4.591	6.939	2	
-Demsa	Demsa	Adamawa	9.422	12.088	2	
+University Of Calabar International Demonstration Secondary School	Calabar Municipal	Cross River	4.951	8.356	0	

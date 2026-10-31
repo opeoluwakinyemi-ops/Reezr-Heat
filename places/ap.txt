@@ -1,3 +1,8 @@
+Apapa	Apapa	Lagos	6.447	3.362	3	
+Apomu	Isokan	Osun	7.352	4.183	3	
+Baap	Qua'An Pan	Plateau	8.943	9.241	3	Ba'ap
+Apumiri	Umuahia South	Abia	5.514	7.448	3	
+Apo	Municipal Area Council	FCT Abuja	9.011	7.489	2	
 Appa	Badagry	Lagos	6.432	2.820	2	Apa
 Oloparun	Obafemi Owode	Ogun	7.117	3.650	2	Aparun
 Apapa	Kauru	Kaduna	10.264	8.269	2	
@@ -23,7 +28,390 @@ Opu	Olamaboro	Kogi	7.219	7.523	2	Apunu
 Apapa Odan	Akinyele	Oyo	7.620	3.937	2	
 Ikot Apabio	Nsit Atai	Akwa Ibom	4.867	8.064	2	
 Apologun	Oyo West	Oyo	7.950	3.783	2	
+Apar	Wukari	Taraba	7.910	9.600	2	
 Ipole	Ekiti West	Ekiti	7.583	4.950	2	Apa;Apa-Iwaji
+Apakin	Ibeju Lekki	Lagos	6.408	4.131	2	
+Hampton Apartments	Municipal Area Council	FCT Abuja	9.043	7.510	2	
+Apa	Apa	Benue	7.601	7.885	2	
+Sum Apir	Markurdi	Benue	7.628	8.565	2	
+Oloparun	Obafemi Owode	Ogun	7.120	3.641	2	Aparun
+Ofo-Ape	Odeda	Ogun	7.318	3.275	2	Ofo Ape
+Odi-Aperin	Ona Ara	Oyo	7.317	3.995	2	Odi Aperin
+Odepata-Apiti	Ipokia	Ogun	6.524	2.808	2	Odepata
+Nkum Apambe	Obubra	Cross River	6.070	8.478	2	Nkum Akpambe
+Masifa-Apesi	Yewa North	Ogun	7.385	2.926	2	Masifa
+Isale-Apata	Oyo East	Oyo	7.854	4.027	2	Isale Apata|IsaleApata
+Idi-Apa	Saki East	Oyo	8.749	3.390	2	Idi Apa
+Idi-Apa	Asa	Kwara	8.587	4.360	2	Idi Apa
+Idi-Apa	Ori Ire	Oyo	8.545	4.233	2	Idi Apa
+Idi-Apa	Ori Ire	Oyo	8.550	4.146	2	Idi Apa
+Idi-Apa	Asa	Kwara	8.513	4.297	2	Idi Apa
+Idi Apa	Surulere	Oyo	8.150	4.383	2	
+Eripa	Yewa North	Ogun	7.171	2.985	2	Bale Apena
+Balogun-Apomu	Aiyedade	Osun	7.210	4.280	2	Balogun Apomu
+Asale-Apata	Egbeda	Oyo	7.400	4.049	2	Asale Apata
+Araromi-Aperin	Ona Ara	Oyo	7.171	4.035	2	Araromi|Araromi Aperin
+Apuu	Konshisha	Benue	7.241	8.603	2	
+Apuu	Konshisha	Benue	7.062	8.707	2	
+Aptia	Fune	Yobe	11.910	11.718	2	
+Aponran	Ori Ire	Oyo	8.112	4.141	2	
+Aponla	Ejigbo	Osun	7.810	4.344	2	
+Apon	Lagelu	Oyo	7.531	4.011	2	
+Apoku	Egbeda	Oyo	7.409	4.051	2	
+Apodu	Moro	Kwara	8.756	4.462	2	
+Apobo	Ori Ire	Oyo	8.512	4.119	2	
+Apo	Moro	Kwara	8.733	4.433	2	
+Apo	Asa	Kwara	8.419	4.340	2	
+Apo	Ori Ire	Oyo	8.341	4.373	2	
+Apitipiti	Odeda	Ogun	7.342	3.645	2	
+Apiti	Ori Ire	Oyo	8.184	4.167	2	
+Apir	Markurdi	Benue	7.631	8.567	2	Apiv
+Apinrin	Ede South	Osun	7.669	4.439	2	
+Apine	Konshisha	Benue	7.060	8.643	2	
+Apine	Kwande	Benue	6.709	9.574	2	
+Apidan	Obafemi Owode	Ogun	7.010	3.555	2	
+Apiapum Eja	Obubra	Cross River	6.235	8.430	2	Opiapum
+Apiapum	Obubra	Cross River	5.999	8.285	2	
+Abiakpo-Alacha	Obot Akara	Akwa Ibom	5.306	7.577	2	Apiakpo-Alacha
+Apia	Tafa	Niger	9.229	7.256	2	
+Api	Ardo-Kola	Taraba	8.682	11.135	2	
+Apezan	Donga	Taraba	7.895	10.342	2	
+Apewohe	Chikun	Kaduna	10.454	7.061	2	
+Apeuule	Konshisha	Benue	7.248	8.615	2	
+Apete	Odeda	Ogun	7.211	3.390	2	
+Apete	Obafemi Owode	Ogun	7.072	3.460	2	
+Apesin	Imeko Afon	Ogun	7.435	3.063	2	
+Apesi	Yewa North	Ogun	7.315	2.963	2	
+Apese	Eti Osa	Lagos	6.423	3.418	2	
+Aperver	Bali	Taraba	7.917	10.409	2	
+Apertar	Konshisha	Benue	7.307	8.569	2	
+Apere	Ori Ire	Oyo	8.485	4.208	2	
+Apeogh	Konshisha	Benue	7.163	8.528	2	
+Apenpe Market	Ìsẹ́yìn	Oyo	7.803	3.693	2	
+Apenpe	Ibarapa North	Oyo	7.636	3.289	2	
+Apenje	Konshisha	Benue	7.300	8.544	2	
+Apena-Ake	Odeda	Ogun	7.166	3.615	2	Apena Ake
+Apena Aka	Ibarapa Central	Oyo	7.332	3.295	2	
+Apena	Afijio	Oyo	7.733	3.958	2	
+Apena	Ede South	Osun	7.662	4.493	2	
+Apena	Odeda	Ogun	7.194	3.431	2	
+Apena	Abeokuta North	Ogun	7.167	3.258	2	
+Apena	Obafemi Owode	Ogun	7.116	3.362	2	
+Apena	Obafemi Owode	Ogun	7.046	3.659	2	
+Apena	Obafemi Owode	Ogun	7.003	3.416	2	
+Apeka	Buruku	Benue	7.620	8.925	2	
+Apefule	Odigbo	Ondo	6.722	5.065	2	
+Apebo	Konshisha	Benue	7.209	8.620	2	
+Apebo	Ushongo	Benue	7.193	8.967	2	
+Ape	Ardo-Kola	Taraba	8.676	11.318	2	
+Ape	Kabba/Bunu	Kogi	7.946	6.156	2	
+Ape	Gboko	Benue	7.331	8.721	2	
+Wuro Bako	Lau	Taraba	9.149	11.552	2	Apawa Samga
+Apowa-Shangel Area	Lau	Taraba	9.119	11.536	2	Apawa
+Apate	Oyo West	Oyo	7.963	3.838	2	
+Apata-Yakuba	Ilorin East	Kwara	8.548	4.655	2	Apata Yakuba
+Apata-Tesi	Olorunsogo	Oyo	8.787	4.046	2	Apata Tesi
+Apata-Omoeiye	Ibarapa North	Oyo	7.647	3.338	2	Apata Omoeiye|ApataOmoeiye
+Apata-Oloro	Oyo West	Oyo	7.926	3.766	2	Apata Oloro|ApataOloro
+Apata-Iya-Oje	Ogbomosho North	Oyo	8.166	4.309	2	Apata Iya Oje
+Apata-Ibadan	Iwajowa	Oyo	7.997	3.184	2	Apata Ibadan|ApataIbadan
+Apata-Alaje	Ori Ire	Oyo	8.602	4.040	2	Apata Alaje
+Apata	Moro	Kwara	8.782	4.224	2	
+Apata	Ori Ire	Oyo	8.561	4.054	2	
+Apata	Asa	Kwara	8.399	4.476	2	
+Apata	Surulere	Oyo	8.246	4.337	2	
+Apata	Surulere	Oyo	8.159	4.462	2	
+Apata	Iwajowa	Oyo	7.859	3.320	2	
+Apata	Ìsẹ́yìn	Oyo	7.836	3.680	2	
+Apata	Ìsẹ́yìn	Oyo	7.753	3.656	2	
+Apata	Ibarapa Central	Oyo	7.407	3.190	2	
+Apata	Ogun Waterside	Ogun	6.571	4.350	2	
+Apata	Ilaje	Ondo	6.034	4.906	2	
+Apaso	Egbeda	Oyo	7.433	4.051	2	
+Apasan	Ona Ara	Oyo	7.137	4.015	2	
+Apasan	Ijebu North	Ogun	7.116	3.979	2	
+Aparaki	Ijebu North	Ogun	6.910	3.977	2	
+Aparai	Konshisha	Benue	7.091	8.746	2	
+Apara	Afijio	Oyo	7.832	4.023	2	
+Apara	Ibarapa Central	Oyo	7.475	3.308	2	
+Apar	Wukari	Taraba	7.898	9.586	2	
+Apapa-Odan	Akinyele	Oyo	7.620	3.938	2	Apapa Odan|ApapaOdan
+Apapa Eleko	Eti Osa	Lagos	6.433	3.417	2	Apapa
+Apapa	Akinyele	Oyo	7.526	3.928	2	
+Apapa	Ona Ara	Oyo	7.202	4.029	2	
+Apa-Obe	Iwajowa	Oyo	7.894	3.275	2	Apa Obe|ApaObe
+Apamu-Ife	Ife North	Osun	7.298	4.459	2	Apamu Ife
+Apamu	Ado Odo/Ota	Ogun	6.534	2.918	2	
+Apakoso	Yewa South	Ogun	6.827	3.054	2	
+Apaja	Ibarapa East	Oyo	7.518	3.376	2	
+Apagu Hamlets	Gwoza	Borno	10.956	13.537	2	
+Apa-Funwonlata	Itesiwaju	Oyo	8.317	3.534	2	Apa Funwonlata
+Apadu	Ibarapa North	Oyo	7.554	3.162	2	
+Apadi	Oluyole	Oyo	7.236	3.934	2	
+Apabiekun	Ona Ara	Oyo	7.235	4.021	2	
+Apaa	Ushongo	Benue	7.148	8.951	2	
+Apaa	Konshisha	Benue	7.095	8.783	2	
+Apa	Asa	Kwara	8.233	4.483	2	
+Apo	Abeokuta North	Ogun	7.297	3.184	2	Apa
+Apa	Badagry	Lagos	6.432	2.824	2	Appa
+Ama Apu Ife	Osisioma Ngwa	Abia	5.127	7.281	2	
+Ama Apu	Ugwunagbo	Abia	5.000	7.400	2	
+Agada-Odede	Yewa North	Ogun	7.351	2.995	2	Agada Apesi|Agada Odede
+Abule-Apata	Ibarapa North	Oyo	7.652	3.259	2	Abule Apata|AbuleApata
+Ape	Afijio	Oyo	7.681	3.830	2	
+Apanpa	Ido	Oyo	7.536	3.808	2	
+Apayale	Akinyele	Oyo	7.526	3.868	2	
+Apata	Akinyele	Oyo	7.518	3.973	2	
+Apoyin	Ido	Oyo	7.408	3.754	2	
+Apane	Ikwerre	Rivers	5.207	6.913	2	Apani
+Apala	Epe	Lagos	6.492	4.088	2	
+Apinokolo	Brass	Bayelsa	4.329	6.515	2	
+Apokobem	Akuku Toru	Rivers	4.747	6.655	2	
+Apambiakiri	Akuku Toru	Rivers	4.722	6.724	2	
+Apoti	Abua/Odual	Rivers	4.802	6.733	2	
+Apama	Degema	Rivers	4.744	6.791	2	
+Apomu	Ewekoro	Ogun	6.855	3.206	2	
+Apena	Shagamu	Ogun	6.815	3.584	2	
+Apokin-Idanre	Idanre	Ondo	7.052	5.151	2	
+Apefon	Idanre	Ondo	7.081	5.142	2	
+Apafa-Aiyede	Idanre	Ondo	7.091	5.368	2	
+Oke-Apedu	Akure South	Ondo	7.160	5.306	2	
+Aponmu-Idanre	Idanre	Ondo	7.178	5.040	2	
+Apurere	Ondo East	Ondo	7.184	5.015	2	
+Aponmu	Idanre	Ondo	7.240	5.066	2	
+Apahar	Gwer East	Benue	7.299	8.397	2	
+Api	Gwer West	Benue	7.769	8.159	2	
+Aprimbo	Markurdi	Benue	7.834	8.403	2	
+Nkum Apambe	Obubra	Cross River	6.022	8.507	2	
+Igbo-Apawa	Epe	Lagos	6.503	4.066	2	
+Ago-Apeja	Ilaje	Ondo	6.255	4.593	2	
+Ago-Ajapa	Ilaje	Ondo	6.278	4.769	2	Ago-Apeja
+Ago-Ilaje	Ilaje	Ondo	6.325	4.726	2	Apeja
+Apelebirigbene	Ekeremor	Bayelsa	4.968	5.540	2	
+Apapasu	Bonny	Rivers	4.477	7.284	2	
+Apuagwu	Umuahia North	Abia	5.554	7.551	2	
+Apelebri	Patani	Delta	5.148	6.150	2	
+Apane	Ikwerre	Rivers	5.204	6.918	2	
+Eastern Obolo	Eastern Obolo	Akwa Ibom	4.534	7.767	2	Agbegbe Ijoba Ibile Apailaoorun Obolo|Est Obolo|Obolo ta Gabas
+Apapa	Amuwo Odofin	Lagos	6.429	3.349	2	
+Southern Ijaw	Southern Ijaw	Bayelsa	4.677	5.942	2	Agbegbe Ijoba Ibile Apaguusu Ijaw|Southern Ijaw Local Government Area|Southern-Ijaw|Southern/Ndida Ijaw|Sud Ijaw
+Apa	Apa	Benue	7.630	7.871	2	Agbegbe Ijoba Ibile Apa|Apa Local Government Area
+Apev	Gwer East	Benue	7.370	8.496	2	
+Apahr	Gwer West	Benue	7.657	8.109	2	
+Apetyan	Logo	Benue	7.757	9.027	2	
+Apir	Ukum	Benue	7.814	9.463	2	
+Apetimin	Ukum	Benue	7.760	9.492	2	
+Aposo	Logo	Benue	7.632	9.323	2	
+Api	Katsina-Ala	Benue	7.537	9.465	2	
+Apekaa	Wukari	Taraba	7.832	9.596	2	
+Apependa	Wukari	Taraba	7.878	9.671	2	
+Apeekighil	Wukari	Taraba	7.798	9.867	2	
+Apechie	Ukum	Benue	7.636	9.517	2	
+Apiki	Donga	Taraba	7.648	9.839	2	
+Apev	Buruku	Benue	7.416	9.151	2	
+Apu	Buruku	Benue	7.411	9.159	2	
+Apauke	Buruku	Benue	7.426	9.203	2	
+Apuun	Buruku	Benue	7.310	9.260	2	
+Apuu	Buruku	Benue	7.463	9.288	2	
+Apeife	Katsina-Ala	Benue	7.385	9.455	2	
+Apuu	Buruku	Benue	7.168	9.055	2	
+Apaa	Buruku	Benue	7.210	9.154	2	
+Aperabo	Katsina-Ala	Benue	7.064	9.497	2	
+Apel	Gboko	Benue	7.472	8.819	2	
+Apuu	Gboko	Benue	7.448	8.832	2	
+Apu	Gboko	Benue	7.459	8.895	2	
+Apev	Gboko	Benue	7.472	8.905	2	
+Apenda	Gboko	Benue	7.471	8.991	2	
+Apav	Gboko	Benue	7.443	8.943	2	
+Apatyo	Gboko	Benue	7.421	8.772	2	
+Apuu	Gboko	Benue	7.363	8.880	2	
+Apuu	Gboko	Benue	7.370	8.795	2	
+Apekorun	Gboko	Benue	7.321	8.786	2	
+Apine	Gboko	Benue	7.308	8.857	2	
+Apesuu	Gboko	Benue	7.305	8.943	2	
+Ape	Gboko	Benue	7.293	8.916	2	
+Apoo	Gboko	Benue	7.279	8.910	2	
+Apuu	Gboko	Benue	7.266	8.867	2	
+Apeeku	Gboko	Benue	7.282	8.852	2	
+Apetaghel	Gboko	Benue	7.291	8.770	2	
+Apel	Takum	Taraba	7.486	10.027	2	
+Apunhiakiri	Brass	Bayelsa	4.395	6.158	2	
+Ja Ape Hill	Munya	Niger	9.731	6.864	2	Jaape Hill
+Apomi	Shiroro	Niger	9.701	6.727	2	
+Olodi-Apapa	Ajeromi/Ifelodun	Lagos	6.448	3.339	2	
+Apia	Jada	Adamawa	8.547	12.327	2	
+Apasa	Ajeromi/Ifelodun	Lagos	6.468	3.333	2	
+Apena	Oshodi/Isolo	Lagos	6.504	3.297	2	
+Apelehin	Shomolu	Lagos	6.545	3.387	2	
+Apese Victoria Island Extension	Eti Osa	Lagos	6.427	3.444	2	
+Apanda	Akwanga	Nasarawa	9.074	8.359	2	
+Apakhah	Zangon Kataf	Kaduna	9.853	8.398	2	
+Aphalan	Riyom	Plateau	9.407	8.674	2	
+Apowa Manga Area	Lau	Taraba	9.112	11.507	2	
+Apagu	Obafemi Owode	Ogun	7.069	3.360	2	
+Apola	Obafemi Owode	Ogun	7.016	3.383	2	
+Apakun	Obafemi Owode	Ogun	7.069	3.481	2	
+Apana	Obafemi Owode	Ogun	7.117	3.321	2	
+Apakula	Odeda	Ogun	7.182	3.454	2	
+Idi-Apa	Irewole	Osun	7.468	4.162	2	
+Orita-Apaiye	Irewole	Osun	7.471	4.197	2	
+Badeku-Apomu	Aiyedade	Osun	7.181	4.279	2	
+Apaso	Aiyedade	Osun	7.185	4.343	2	
+Ara-Apomu	Aiyedade	Osun	7.261	4.393	2	
+Oniledu-Apata	Aiyedade	Osun	7.350	4.379	2	
+Apena	Ife North	Osun	7.449	4.453	2	
+Apena	Ife North	Osun	7.462	4.440	2	
+Apano	Ife North	Osun	7.435	4.447	2	
+Apamu-Alagbede	Ife North	Osun	7.308	4.460	2	
+Apata	Olorunda	Osun	7.913	4.544	2	
+Apopo	Ife Central	Osun	7.551	4.530	2	
+Apara	Atakunmosa West	Osun	7.729	4.615	2	
+Apoyin	Obokun	Osun	7.786	4.662	2	
+Apolo	Obokun	Osun	7.870	4.756	2	
+Apapolu	Ekiti West	Ekiti	7.589	4.963	2	
+Apapa	Yewa North	Ogun	7.241	2.948	2	
+Ago-Apeja	Ilaje	Ondo	6.396	4.600	2	
+Ago-Apeja	Irele	Ondo	6.466	4.949	2	
+Ago-Apereketa	Irele	Ondo	6.486	4.955	2	
+Ilutitun Apoi	Ilaje	Ondo	6.403	4.868	2	
+Apasa	Ife East	Osun	7.387	4.589	2	
+Apo	Atakunmosa West	Osun	7.492	4.645	2	
+Apoti	Oriade	Osun	7.384	4.889	2	
+Apaja	Ondo West	Ondo	7.066	4.882	2	
+Apo	Ori Ire	Oyo	8.268	4.204	2	
+Apere-Iju	Ori Ire	Oyo	8.499	4.147	2	
+Apana	Surulere	Oyo	8.130	4.380	2	
+Apena	Odeda	Ogun	7.274	3.570	2	
+Apena	Odeda	Ogun	7.159	3.522	2	
+Apesin	Obafemi Owode	Ogun	7.046	3.508	2	
+Apena-Erumbe	Obafemi Owode	Ogun	7.052	3.611	2	
+Oluwo-Apena	Obafemi Owode	Ogun	7.113	3.645	2	
+Apena-Akinsola	Odeda	Ogun	7.179	3.659	2	
+Apesin	Odeda	Ogun	7.328	3.704	2	
+Idi-Apa	Moro	Kwara	8.846	4.393	2	
+Apatafon	Moro	Kwara	8.733	4.330	2	
+Budo-Apata	Olorunsogo	Oyo	8.689	4.175	2	
+Apata	Asa	Kwara	8.644	4.390	2	
+Apere	Asa	Kwara	8.511	4.309	2	
+Apakoko	Asa	Kwara	8.562	4.349	2	
+Apoya	Asa	Kwara	8.536	4.447	2	
+Apero	Ido	Oyo	7.604	3.761	2	
+Api	Lafia	Nasarawa	8.613	8.688	2	
+Apata	Asa	Kwara	8.246	4.517	2	
+Aperun	Oyun	Kwara	8.216	4.711	2	
+Apataje	Asa	Kwara	8.148	4.553	2	
+Apanpa	Oyun	Kwara	8.093	4.657	2	
+Apapansana	Ìsẹ́yìn	Oyo	7.788	3.513	2	
+Apata	Oyo West	Oyo	7.850	3.843	2	
+Apata	Afijio	Oyo	7.787	3.846	2	
+Apena	Afijio	Oyo	7.770	3.836	2	
+Apakere	Ifelodun	Kwara	8.424	4.849	2	
+Apata-Kajola	Ifelodun	Kwara	8.382	4.834	2	
+Id-Apa	Moro	Kwara	9.034	4.872	2	
+Apetu	Afijio	Oyo	7.828	4.061	2	
+Apere	Afijio	Oyo	7.816	4.009	2	
+Apeke	Ola Oluwa	Osun	7.791	4.184	2	
+Apake	Ogo Oluwa	Oyo	7.912	4.368	2	
+Apata-Aje	Oyun	Kwara	8.283	4.677	2	
+Apata-Otu	Ilorin West	Kwara	8.414	4.566	2	
+Apata-Kose	Asa	Kwara	8.350	4.595	2	
+Apase	Toto	Nasarawa	8.106	7.265	2	
+Apabara	Toto	Nasarawa	8.106	7.275	2	
+Apawu	Nasarawa	Nasarawa	8.545	7.865	2	
+Apologbo	Akinyele	Oyo	7.647	4.036	2	
+Apena	Lagelu	Oyo	7.505	4.150	2	
+Apata	Aiyedire	Osun	7.555	4.186	2	
+Apeloko	Aiyedade	Osun	7.604	4.392	2	
+Aperin	Iwo	Osun	7.726	4.151	2	
+Ape	Ola Oluwa	Osun	7.710	4.187	2	
+Apena	Aiyedade	Osun	7.627	4.355	2	
+Apena	Aiyedade	Osun	7.539	4.294	2	
+Apaso	Ola Oluwa	Osun	7.745	4.130	2	
+Aporo	Aiyedade	Osun	7.581	4.356	2	
+Apete	Ede North	Osun	7.730	4.486	2	
+Apena	Lagelu	Oyo	7.511	4.159	2	
+Aperin	Iwo	Osun	7.685	4.079	2	
+Apara	Afijio	Oyo	7.701	4.013	2	
+Ori-Apata	Lagelu	Oyo	7.516	4.017	2	
+Aponmode	Aiyedade	Osun	7.590	4.323	2	
+Apena	Obafemi Owode	Ogun	7.148	3.409	2	
+Apena	Ede South	Osun	7.690	4.521	2	
+Apena	Atakunmosa West	Osun	7.652	4.580	2	
+Apena	Odeda	Ogun	7.191	3.553	2	
+Apurere	Ile Oluji/Okeigbo	Ondo	7.242	5.000	2	
+Apo	Moro	Kwara	8.699	4.425	2	
+Apapa-Oworonshoki Expressway	Ikeja	Lagos	6.558	3.357	1	
+Apapa-Oworonshoki Expressway	Apapa	Lagos	6.439	3.376	1	
+Apata Street	Shomolu	Lagos	6.533	3.373	1	
+Apogbon Bridge	Lagos Island	Lagos	6.455	3.382	1	
+Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.549	3.338	1	
+Apara Road	Port-Harcourt	Rivers	4.819	6.999	1	
+Yankari National Park approach road	Alkaleri	Bauchi	10.130	10.193	1	
+Orita Aperin-Beere Road	Ibadan South East	Oyo	7.376	3.900	1	
+Apapa Road	Surulere	Lagos	6.484	3.366	1	
+Apasa Street	Ajeromi/Ifelodun	Lagos	6.465	3.337	1	
+Apogbon Street	Lagos Island	Lagos	6.459	3.383	1	
+Apapa-Oworonshoki Expressway	Apapa	Lagos	6.439	3.361	1	
+Bashorun Apampa Avenue	Ibadan North West	Oyo	7.402	3.868	1	
+Apapa Lane	Eti Osa	Lagos	6.456	3.413	1	
+Apapa Road	Apapa	Lagos	6.463	3.364	1	
+Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.548	3.384	1	
+Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.559	3.367	1	
+Apapa Road	Shomolu	Lagos	6.557	3.368	1	
+Apapa-Oworonshoki Expressway	Ajeromi/Ifelodun	Lagos	6.447	3.320	1	
+Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.519	3.335	1	
+Apapa-Oworonshoki Expressway	Amuwo Odofin	Lagos	6.483	3.327	1	
+Apapa-Oworonshoki Expressway	Apapa	Lagos	6.435	3.346	1	
+Apata Street	Ikeja	Lagos	6.648	3.352	1	
+Apostolic Street	Agege	Lagos	6.619	3.329	1	
+Anike Apena Street	Ikeja	Lagos	6.594	3.345	1	
+Apena Street	Oshodi/Isolo	Lagos	6.510	3.318	1	
+Tunde Apatira Street	Alimosho	Lagos	6.609	3.300	1	
+Apena Street	Ajeromi/Ifelodun	Lagos	6.446	3.345	1	
+Appleton Road	Ibadan North	Oyo	7.441	3.894	1	
+Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.021	7.482	1	Apo Bridge
+Apamini Drive	Obio/Akpor	Rivers	4.833	7.047	1	
+Apostolic Lane	Oredo	Edo	6.335	5.633	1	
+Apapa Road	Lagos Mainland	Lagos	6.481	3.379	1	
+Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.549	3.379	1	
+Apata Street	Oshodi/Isolo	Lagos	6.543	3.301	1	
+Apostolic Faith Street	Ifako/Ijaye	Lagos	6.670	3.298	1	
+Apala Road	Warri South	Delta	5.534	5.748	1	
+Olufemi Apara Close	Kosofe	Lagos	6.553	3.385	1	
+Appian Way	Enugu South	Enugu	6.386	7.476	1	
+Apeh Street	Enugu North	Enugu	6.477	7.474	1	
+Ape Street	Enugu North	Enugu	6.475	7.474	1	
+Apakun Lane	Oshodi/Isolo	Lagos	6.553	3.334	1	
+Apricot Avenue	Eti Osa	Lagos	6.495	3.612	1	
+Apena Street	Mushin	Lagos	6.514	3.362	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.904	10.361	1	
+Yankari National Park approach road	Alkaleri	Bauchi	10.063	10.279	1	
+Apara Ogun Street	Ado Odo/Ota	Ogun	6.687	3.241	1	
+Alade Apatira Street	Oshodi/Isolo	Lagos	6.541	3.313	1	
+Musari Apena Street	Oshodi/Isolo	Lagos	6.569	3.334	1	
+Apesin Street	Mushin	Lagos	6.524	3.355	1	
+Apostolic Church road	Obio/Akpor	Rivers	4.880	6.910	1	
+Apatapiti Road, FUTA.	Akure South	Ondo	7.292	5.150	1	
+Apatira Street	Lagos Island	Lagos	6.456	3.399	1	
+Apu Road	Obio/Akpor	Rivers	4.923	7.011	1	
+Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.554	3.373	1	
+Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.553	3.374	1	
+Yankari National Park approach road	Bauchi	Bauchi	10.240	10.147	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.947	10.345	1	
+Yankari National Park approach road	Alkaleri	Bauchi	10.012	10.311	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.884	10.383	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.886	10.381	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.871	10.395	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.845	10.411	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.820	10.429	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.780	10.479	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.763	10.507	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.765	10.505	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.795	10.455	1	
+Court of Appeal Road	Akure South	Ondo	7.231	5.220	1	
+Apple Close	Municipal Area Council	FCT Abuja	9.115	7.361	1	
+Ide-Ape Road	Abeokuta South	Ogun	7.160	3.341	1	
+Apostle Daniel Fabuda Street	Eti Osa	Lagos	6.447	3.610	1	
 AP Fuel	Kaduna North	Kaduna	10.531	7.442	0	
 AP Fuel	Kaduna South	Kaduna	10.488	7.419	0	
 AP	Municipal Area Council	FCT Abuja	9.078	7.496	0	
@@ -61,7 +449,7 @@ Cele Apata Community Health Center	Alimosho	Lagos	6.575	3.215	0
 Christ Apostolic Maternity Center	Alimosho	Lagos	6.561	3.237	0	
 Kochin Apartment A	Akure South	Ondo	7.290	5.152	0	
 Idi Ape Baptist School	Ejigbo	Osun	7.898	4.316	0	
-APEX SUCCESS ITNL SCHOOLS	Ungongo	Kano	12.045	8.565	0	
+Apex Success Itnl Schools	Ungongo	Kano	12.045	8.565	0	
 Apata plaza	Alimosho	Lagos	6.528	3.238	0	
 Allens Unit/Alex Apapa	Apapa	Lagos	6.435	3.370	0	
 Ap	Municipal Area Council	FCT Abuja	8.950	7.333	0	
@@ -69,8 +457,6 @@ Apex Clinic	Jos North	Plateau	9.890	8.877	0
 The Apostles Academy Laranto	Jos North	Plateau	9.943	8.874	0	
 Liverpool (Apapa)	Apapa	Lagos	6.439	3.359	0	
 Apata Yakuba Junior Secondary., Apata Yakuba, Nigeria	Ilorin East	Kwara	8.528	4.620	0	
-Apakin	Ibeju Lekki	Lagos	6.408	4.131	2	
-Apapa	Apapa	Lagos	6.447	3.362	3	
 College of natural and applied science	Ovia North-East	Edo	6.741	5.405	0	
 number 1 (apapa) waterside	Apapa	Lagos	6.446	3.350	0	
 number 2 (apapa) waterside	Apapa	Lagos	6.448	3.351	0	
@@ -79,117 +465,15 @@ boundary (apapa)/number 3 (apapa) waterside	Apapa	Lagos	6.450	3.352	0
 Apo Roundabout Bus Stop	Municipal Area Council	FCT Abuja	9.013	7.491	0	
 Apo Bridge	Municipal Area Council	FCT Abuja	9.021	7.481	0	
 Zinq Bridge Aparments - Family Apartment, Balcony, City View	Municipal Area Council	FCT Abuja	9.099	7.423	0	
-Apapa-Oworonshoki Expressway	Ikeja	Lagos	6.558	3.357	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.439	3.376	1	
-Apata Street	Shomolu	Lagos	6.533	3.373	1	
-Apata Street	Shomolu	Lagos	6.535	3.373	1	
-Apogbon Bridge	Lagos Island	Lagos	6.455	3.382	1	
-Apapa-Oworonshoki Expressway	Ikeja	Lagos	6.556	3.352	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.549	3.338	1	
-Apara Road	Port-Harcourt	Rivers	4.819	6.999	1	
-Yankari National Park approach road	Alkaleri	Bauchi	10.130	10.193	1	
-Orita Aperin-Beere Road	Ibadan South East	Oyo	7.376	3.900	1	
-APEX COMPUTER INSTITUTE	Egor	Edo	6.374	5.633	0	
-Apapa Road	Surulere	Lagos	6.484	3.366	1	
-Apasa Street	Ajeromi/Ifelodun	Lagos	6.465	3.337	1	
-Apogbon Street	Lagos Island	Lagos	6.459	3.383	1	
-Orita Aperin-Beere Road	Ibadan South East	Oyo	7.373	3.903	1	
-Orita Aperin-Beere Road	Ibadan South East	Oyo	7.368	3.911	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.439	3.361	1	
-Bashorun Apampa Avenue	Ibadan North West	Oyo	7.402	3.868	1	
-Apapa Lane	Eti Osa	Lagos	6.456	3.413	1	
-Apapa Road	Apapa	Lagos	6.463	3.364	1	
-Apapa Road	Lagos Mainland	Lagos	6.472	3.363	1	
-Apapa Road	Apapa	Lagos	6.454	3.366	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.558	3.367	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.548	3.384	1	
-Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.559	3.367	1	
-Apapa Road	Shomolu	Lagos	6.557	3.368	1	
-Apapa-Oworonshoki Expressway	Ajeromi/Ifelodun	Lagos	6.447	3.320	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.550	3.335	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.544	3.338	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.519	3.335	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.508	3.324	1	
-Apapa-Oworonshoki Expressway	Oshodi/Isolo	Lagos	6.521	3.335	1	
-Apapa-Oworonshoki Expressway	Amuwo Odofin	Lagos	6.483	3.327	1	
-Apapa-Oworonshoki Expressway	Amuwo Odofin	Lagos	6.460	3.315	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.438	3.337	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.435	3.349	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.435	3.346	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.548	3.386	1	
-Apata Street	Ikeja	Lagos	6.648	3.352	1	
-Apostolic Street	Agege	Lagos	6.619	3.329	1	
-Anike Apena Street	Ikeja	Lagos	6.594	3.345	1	
-Apena Street	Oshodi/Isolo	Lagos	6.510	3.318	1	
-Tunde Apatira Street	Alimosho	Lagos	6.609	3.300	1	
-Apapa-Oworonshoki Expressway	Apapa	Lagos	6.436	3.369	1	
-Apena Street	Ajeromi/Ifelodun	Lagos	6.446	3.345	1	
-Appleton Road	Ibadan North	Oyo	7.441	3.894	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.021	7.482	1	Apo Bridge
-Apamini Drive	Obio/Akpor	Rivers	4.833	7.047	1	
-Apostolic Lane	Oredo	Edo	6.335	5.633	1	
-Apapa Road	Lagos Mainland	Lagos	6.481	3.379	1	
-Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.549	3.379	1	
-Apata Street	Oshodi/Isolo	Lagos	6.543	3.301	1	
-Apostolic Faith Street	Ifako/Ijaye	Lagos	6.670	3.298	1	
-Apala Road	Warri South	Delta	5.534	5.748	1	
-Olufemi Apara Close	Kosofe	Lagos	6.553	3.385	1	
-Appian Way	Enugu South	Enugu	6.386	7.476	1	
-Apeh Street	Enugu North	Enugu	6.477	7.474	1	
-Ape Street	Enugu North	Enugu	6.475	7.474	1	
-Apakun Lane	Oshodi/Isolo	Lagos	6.553	3.334	1	
+Apex Computer Institute	Egor	Edo	6.374	5.633	0	
 Zonal Advanced Spaced Applications Laboratory	Ungongo	Kano	11.975	8.430	0	
-Zonal Advanced Spaced Applications Laboratory	Ungongo	Kano	11.975	8.430	0	
-Apricot Avenue	Eti Osa	Lagos	6.495	3.612	1	
-Apena Street	Mushin	Lagos	6.514	3.362	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.904	10.361	1	
-Yankari National Park approach road	Alkaleri	Bauchi	10.063	10.279	1	
-Apara Ogun Street	Ado Odo/Ota	Ogun	6.687	3.241	1	
-Alade Apatira Street	Oshodi/Isolo	Lagos	6.541	3.313	1	
-Musari Apena Street	Oshodi/Isolo	Lagos	6.569	3.334	1	
-Apesin Street	Mushin	Lagos	6.524	3.355	1	
 AP Filling Station	Akure North	Ondo	7.281	5.223	0	
 AP Filling Station	Obio/Akpor	Rivers	4.894	6.915	0	
-Apostolic Church road	Obio/Akpor	Rivers	4.880	6.910	1	
-Apatapiti Road, FUTA.	Akure South	Ondo	7.292	5.150	1	
-Apatira Street	Lagos Island	Lagos	6.456	3.399	1	
-Apatira Street	Lagos Island	Lagos	6.456	3.393	1	
-Apamini Drive	Obio/Akpor	Rivers	4.832	7.045	1	
-Apamini Drive	Obio/Akpor	Rivers	4.835	7.048	1	
-Apu Road	Obio/Akpor	Rivers	4.923	7.011	1	
-Apapa-Oworonshoki Expressway	Kosofe	Lagos	6.554	3.373	1	
-Apapa-Oworonsoki Expressway	Kosofe	Lagos	6.553	3.374	1	
-Yankari National Park approach road	Bauchi	Bauchi	10.240	10.147	1	
-Yankari National Park approach road	Bauchi	Bauchi	10.229	10.151	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.947	10.345	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.946	10.345	1	
-Yankari National Park approach road	Alkaleri	Bauchi	10.012	10.311	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.884	10.383	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.886	10.381	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.871	10.395	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.845	10.411	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.820	10.429	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.803	10.446	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.809	10.440	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.780	10.479	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.763	10.507	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.765	10.505	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.795	10.455	1	
-Court of Appeal Road	Akure South	Ondo	7.231	5.220	1	
-Apapa Road	Apapa	Lagos	6.456	3.365	1	
-Apple Close	Municipal Area Council	FCT Abuja	9.115	7.361	1	
 Apata Memorial Schools	Oshodi/Isolo	Lagos	6.520	3.322	0	
 Apple Clinic and Maternity	Bauchi	Bauchi	10.315	9.805	0	
-Apu Road	Obio/Akpor	Rivers	4.910	7.011	1	
 Novare Apo	Municipal Area Council	FCT Abuja	8.985	7.493	0	
-Ide-Ape Road	Abeokuta South	Ogun	7.160	3.341	1	
 AP Filling Station	Municipal Area Council	FCT Abuja	9.068	7.404	0	
 AP Apo 2	Municipal Area Council	FCT Abuja	9.011	7.473	0	
 AP apo 1	Municipal Area Council	FCT Abuja	9.011	7.473	0	
-Hampton Apartments	Municipal Area Council	FCT Abuja	9.043	7.510	2	
-Apasa Street	Ajeromi/Ifelodun	Lagos	6.465	3.334	1	
 Government Secondary School	Municipal Area Council	FCT Abuja	8.975	7.505	0	Government Secondary School, Apo Resettlement
 Apo Urban Market	Municipal Area Council	FCT Abuja	8.983	7.497	0	
-Apostle Daniel Fabuda Street	Eti Osa	Lagos	6.447	3.610	1	
-Apa	Apa	Benue	7.601	7.885	2	
-Apapa	Apapa	Lagos	6.445	3.368	2	

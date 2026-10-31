@@ -1,9 +1,15 @@
+Ramfashi	Bukkuyum	Zamfara	12.048	5.665	3	
+Rabah	Rabah	Sokoto	13.121	5.507	3	
+Rafin Kada	Wukari	Taraba	7.710	9.890	3	
+Doguwa	Doguwa	Kano	10.733	8.587	3	Unguwar Rama
+Tunbun Rago	Abadam	Borno	13.480	13.485	3	
+random town	Zurmi	Zamfara	12.640	6.806	3	
+Rimin Gado	Rimin Gado	Kano	11.967	8.248	3	Rafin Gado
+Rano	Rano	Kano	11.557	8.581	3	
+Rann	Kala-Balge	Borno	12.269	14.466	3	Ran
+Rayfield	Jos South	Plateau	9.837	8.896	2	
 Kan Rafi	Igabi	Kaduna	10.600	7.616	2	
 Dan Rak'oumî	Kantché	Katsina	13.216	8.272	2	
-Eruwa Railway Station	Ibarapa East	Oyo	7.398	3.485	0	
-Ila Market Railway Station	Oyun	Kwara	8.303	4.671	0	
-Gamo Railway Station	Ilorin South	Kwara	8.417	4.590	0	
-Okuku Railway Station	Odo Otin	Osun	8.033	4.683	0	
 Rafin-Naginai	Maiyama	Kebbi	12.098	4.221	2	
 Abdul Rahini	Gwandu	Kebbi	12.394	4.528	2	
 Rafi Alhaji	Koko-Besse	Kebbi	11.366	4.479	2	
@@ -45,13 +51,13 @@ Raha	Shanga	Kebbi	11.083	4.563	2
 Rangadawa	Gwadabawa	Sokoto	13.473	5.264	2	
 Dumaji	Illela	Sokoto	13.562	5.461	2	Dumaji Gidan Rabo
 Ungwan Rago	Ikara	Kaduna	11.135	8.197	2	Rago
-Ramfashi	Bukkuyum	Zamfara	12.048	5.665	3	
 Rafin Gero	Anka	Zamfara	12.228	5.766	2	
 Tunga Rabargahaya	Bagudo	Kebbi	11.483	4.196	2	
 Odo Ragun	Epe	Lagos	6.658	3.990	2	
 Randali	Birnin Kebbi	Kebbi	12.425	4.306	2	
 Rakada-Tanko	Maru	Zamfara	11.374	6.071	2	
 Rakpaku	Kogi	Kogi	8.167	6.767	2	
+Mayo Ranewo	Ardo-Kola	Taraba	8.817	10.900	2	Mallam Renewa;Renewa
 Rahama	Kauru	Kaduna	9.800	8.533	2	
 Ungwan Rago	Garki	Jigawa	12.390	8.850	2	
 Raka	Tangaza	Sokoto	13.447	5.158	2	
@@ -66,7 +72,6 @@ Ramin Kura	Lere	Kaduna	10.277	8.549	2
 Rafin Kade	Kalgo	Kebbi	12.354	4.200	2	
 Raen	Pategi	Kwara	8.750	5.667	2	Rani
 Rafin Par	Jos North	Plateau	9.954	8.867	2	
-Rabah	Rabah	Sokoto	13.121	5.507	3	
 Ran Kassa	Barkin Ladi	Plateau	9.585	8.941	2	
 Tungan Rati	Augie	Kebbi	13.059	4.687	2	
 Sarkin Rafi	Bungudu	Zamfara	12.199	6.499	2	
@@ -84,7 +89,6 @@ Rampa	Darazo	Bauchi	11.028	10.411	2
 Rafin Hardo	Lere	Kaduna	10.404	8.783	2	Hardo
 Rafi Na Kacheri	Rijau	Niger	11.202	4.940	2	
 Ragam	Wasagu-Danko	Kebbi	11.660	5.627	2	
-Rann	Kala-Balge	Borno	12.270	14.466	2	
 Rahamawa	Zango	Katsina	12.981	8.515	2	
 Rantajadi	Tangaza	Sokoto	13.487	5.118	2	
 Rafin Yashi	Giwa	Kaduna	11.089	7.586	2	
@@ -100,18 +104,13 @@ Ranko	Wasagu-Danko	Kebbi	11.469	5.941	2
 Yola-Rafi	Silame	Sokoto	13.097	4.805	2	
 Tungan Rafi	Gwadabawa	Sokoto	13.505	5.285	2	
 Gidan Rana	Gwadabawa	Sokoto	13.455	5.231	2	Gidan Runa
-A.A. Rano Filling Station	Muhammadu Dikko Stadium	Katsina	12.984	7.602	0	
 Rafin Kofa	Dutse	Jigawa	11.741	9.149	2	
 Sanyawar Rama	Dawakin Kudu	Kano	11.850	8.678	2	
 Rigada	Doguwa	Kano	10.667	8.643	2	Ragada
-Doguwa	Doguwa	Kano	10.733	8.587	3	Unguwar Rama
 Ramda	Tudun Wada	Kano	11.178	8.534	2	
 Raudakeyi	Nassarawa	Kano	12.003	8.592	2	
 Unguwar Masu Rariya	Tudun Wada	Kano	11.245	8.401	2	
 Samana Bakin Rafi	Tudun Wada	Kano	11.274	8.321	2	
-Model Primary Health Center Rahama	Toro	Bauchi	10.453	8.760	0	
-A. A. Rano	Wamako	Sokoto	13.015	5.246	0	
-Tunbun Rago	Abadam	Borno	13.480	13.485	3	
 Ramat Quarters	Maiduguri	Borno	11.838	13.126	2	
 Ragurbulak	Shani	Borno	10.230	11.817	2	
 Ragwalo	Shani	Borno	10.198	11.808	2	
@@ -119,30 +118,16 @@ Rawanari	Nganzai	Borno	12.425	12.937	2
 Jairo Rabo	Shani	Borno	10.157	12.093	2	
 Jauro Rabo B	Shani	Borno	10.157	12.086	2	
 Rawana	Nganzai	Borno	12.348	13.002	2	
-Rawana	Nganzai	Borno	12.358	12.995	2	
 Jauro Rawaji	Bayo	Borno	10.262	11.637	2	
 Gedaba Tashan Raba Jauro Mai Gari	Bayo	Borno	10.434	11.653	2	
 Rugan Rabo	Biu	Borno	10.642	11.937	2	
-Offa Railway	Oyun	Kwara	8.155	4.727	0	
 Rafinduma	Gada	Sokoto	13.860	5.557	2	
 Rafinduma Salo	Gada	Sokoto	13.876	5.536	2	
 Rabamawa	Gada	Sokoto	13.702	5.913	2	
-RAE Creche	Oshodi/Isolo	Lagos	6.553	3.324	0	
-Rank Oil and Gas Filing Station	Uvwie	Delta	5.562	5.785	0	
-Rahony Travels	Yenegoa	Bayelsa	4.935	6.310	0	
-A. A. Rano Filling Station	Uvwie	Delta	5.551	5.782	0	
-Rapha Specialist Children Clinic	Uvwie	Delta	5.542	5.757	0	
 Tungar Raphi	Gwadabawa	Sokoto	13.465	5.331	2	
 Rahin Gero	Anka	Zamfara	12.232	5.778	2	
 Magajin Rafi B	Sokoto North	Sokoto	13.061	5.245	2	
 Magajin Rafi A	Sokoto North	Sokoto	13.063	5.251	2	
-A A Rano	Muhammadu Dikko Stadium	Katsina	12.981	7.626	0	
-Raftjone International School	Ikpoba-Okha	Edo	6.383	5.680	0	
-A A Rano	Wamako	Sokoto	13.027	5.216	0	
-A. A. Rano filling Station	Kaduna North	Kaduna	10.594	7.450	0	
-Haruna Kadir Rashid	Gombe	Gombe	10.308	11.173	0	
-AA Rano	Municipal Area Council	FCT Abuja	8.987	7.270	0	
-RAUDHA	Gombe	Gombe	10.285	11.185	0	
 Mai Alkama	Karaye	Kano	11.660	7.938	2	Ungwan Randi
 Rangas	Kiru	Kano	11.737	8.102	2	
 Unguwar Wanzamai	Rimin Gado	Kano	11.967	8.247	2	Rafin Gado;Rimin Gado
@@ -161,49 +146,249 @@ Rakanbawa	Warawa	Kano	11.832	8.795	2
 Raya	Sumaila	Kano	11.268	8.733	2	
 Rafin Ciwu	Tudun Wada	Kano	11.385	8.758	2	
 Rano Dawaki	Rano	Kano	11.553	8.575	2	Rano
-General Hospital Rabah	Rabah	Sokoto	13.123	5.499	0	
-Yola Rafi PHC	Silame	Sokoto	13.096	4.803	0	
-General Hospital Rann	Kala-Balge	Borno	12.266	14.469	0	
 Rafin Gora	Toro	Bauchi	10.440	8.827	2	
-Rahinna Model School	Municipal Area Council	FCT Abuja	8.977	7.559	0	
-Ramna Hospital (Ramunaak Clinic and maternity Agbamu, Idi Ose	Akinyele	Oyo	7.507	3.924	0	
-NLNG RA HOSPITAL	Bonny	Rivers	4.386	7.179	0	
-Rayville radiology	Jos North	Plateau	9.929	8.881	0	
-Skane Radiologistic center	Jos North	Plateau	9.897	8.882	0	
-A.A Rano	Jos North	Plateau	9.959	8.883	0	
-Rapha Mamasuwe Maternity And Clinic	Kaduna South	Kaduna	10.500	7.386	0	
-Al Ramadan Nursing And Maternity Home Nassarawa	Chikun	Kaduna	10.471	7.395	0	
-A. A Rano	Municipal Area Council	FCT Abuja	9.010	7.458	0	
-Primary Health Care Isa Kaita Raid Malali	Kaduna North	Kaduna	10.549	7.465	0	
-NNPC Industrial Clinic No35 Rabah Road	Kaduna North	Kaduna	10.551	7.467	0	
-Ramat Hospital Hayin Banku Kaduna	Kaduna North	Kaduna	10.572	7.442	0	
-44 Reference Hospital Plot A12 By Rail Line	Kaduna North	Kaduna	10.578	7.444	0	
-Primary health care Kc3 Zuba Road Shooting Range Kabala	Kaduna North	Kaduna	10.505	7.449	0	
-Rasmah Maternity And Clinic	Kaduna South	Kaduna	10.530	7.404	0	
-Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
-Ranjenny Schools Eleme	Ndokwa West	Delta	5.717	6.447	0	
-Raufmomic Health Care	Alimosho	Lagos	6.639	3.259	0	
-Rabban Medical Centre	Alimosho	Lagos	6.607	3.280	0	
-Rauf Aregbesola Flagship Pry Healthcare Center	Alimosho	Lagos	6.595	3.283	0	
-Rally Hospital	Mushin	Lagos	6.541	3.362	0	
-Ramos Balo Filling Station	Ejigbo	Osun	7.896	4.317	0	
-Rabjib college	Jos North	Plateau	9.913	8.888	0	
-RAMLA ACADEMY ARABIC AND ENGLISH	Ungongo	Kano	12.049	8.571	0	
-RAHAMA ACADEMY SCHOOL Z/MARIKITA	Ungongo	Kano	12.050	8.577	0	
-FATHU RABBANI MAL. HASSAN	Ungongo	Kano	12.037	8.563	0	
-Sheikh Abubakar Ramadan Litahfizul Quran	Gwale	Kano	11.960	8.474	0	
-MUHAMMADU SUNUSI RAYADU SALIHIN SCHOOL	Gwale	Kano	11.959	8.477	0	
-RAYYAN MODEL SCHOOL	Gwale	Kano	11.961	8.479	0	
-RAHAMA CHEMIST	Gwale	Kano	11.965	8.476	0	
-Rainoil	Oshimili North	Delta	6.202	6.690	0	
-Rainoil	Oshimili South	Delta	6.201	6.696	0	
-second rainbow landing	Amuwo Odofin	Lagos	6.426	3.262	0	
-Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
-RAINOIL LIMITED, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.449	4.584	0	
-Rain Oil, A123, Ilorin, Nigeria	Ilorin South	Kwara	8.429	4.596	0	
-A.A Rano	Owerri Municipal	Imo	5.464	7.042	0	
-Radiology department	Awka South	Anambra	6.224	7.079	0	
-After The Idu Railway Junction	Municipal Area Council	FCT Abuja	9.001	7.346	0	
+Rafin Marke	Garki	Jigawa	12.459	9.023	2	
+Bela Rawaiya	Bungudu	Zamfara	12.321	6.640	2	
+Rafi	Gummi	Zamfara	12.121	5.069	2	
+Raka	Tangaza	Sokoto	13.431	5.100	2	
+Rarah	Rabah	Sokoto	12.915	5.580	2	
+Rabah	Rabah	Sokoto	13.002	5.795	2	
+Rabah	Rabah	Sokoto	13.147	5.519	2	
+Rafin Zuru	Zuru	Kebbi	11.425	5.219	2	
+Raha-Makeri	Bunza	Kebbi	12.101	4.088	2	
+Rafin Bauna	Aleiro	Kebbi	12.291	4.415	2	
+Rafin Kirya	Shanga	Kebbi	11.432	4.583	2	
+Gumumunde-Rafin Tsaka	Arewa Dandi	Kebbi	12.331	3.739	2	
+Raminkura	Lere	Kaduna	10.337	8.490	2	
+Rahama	Soba	Kaduna	10.813	8.113	2	
+Rantan	Bebeji	Kano	11.512	8.376	2	
+Ranka	Bebeji	Kano	11.547	8.312	2	
+Rangaza	Ungongo	Kano	12.056	8.617	2	
+Rahama	Bebeji	Kano	11.396	8.286	2	
+Rano	Rano	Kano	11.485	8.514	2	
+Raba	Garko	Kano	11.694	8.787	2	
+Rafin Iwa	Sabuwa	Katsina	11.258	7.026	2	
+Unguwar Rai	Baure	Katsina	12.717	8.822	2	
+Rawayau A	Kurfi	Katsina	12.603	7.604	2	
+Rade A	Sandamu	Katsina	12.906	8.341	2	
+Rade B	Sandamu	Katsina	12.850	8.365	2	
+Rawayau B	Kurfi	Katsina	12.593	7.558	2	
+Radda	Charanchi	Katsina	12.443	7.666	2	
+Rafi	Rafi	Niger	10.214	6.207	2	
+Ranga B	Warji	Bauchi	11.074	9.708	2	
+Rauta geji	Toro	Bauchi	10.496	9.576	2	
+Rahama	Toro	Bauchi	10.494	8.807	2	
+Ranga A	Warji	Bauchi	11.177	9.735	2	
+Raga	Gamawa	Bauchi	11.805	10.530	2	
+Rann	Kala-Balge	Borno	12.326	14.403	2	
+Randagi	Birnin Gwari	Kaduna	10.531	6.229	2	
+Yan Rawa	Gwarzo	Kano	11.826	7.860	2	
+Ungwan Rajau	Gwarzo	Kano	11.900	7.883	2	
+Ungwan Rafin	Giwa	Kaduna	11.126	7.548	2	
+Ungwan-Rabo	Birnin Gwari	Kaduna	11.300	6.990	2	
+Randa Kamara	Sanga	Kaduna	9.066	8.493	2	Ungwan Bahago
+Unguwar Rana	Kauru	Kaduna	9.947	8.525	2	
+Ungua Rai	Baure	Katsina	12.732	8.814	2	Rai|Unguwar Rai|Ungwan Rai
+Tunga Rafi	Dandi	Kebbi	11.622	3.764	2	
+Tungan Rafin Taba	Birnin Gwari	Kaduna	10.717	6.717	2	
+Tungan-Rafin-Dinya	Kachia	Kaduna	9.759	7.451	2	Rafin Dinya
+Tungan Babban Rafi	Rafi	Niger	10.083	6.250	2	
+Tudun Raha	Birnin Gwari	Kaduna	10.900	6.767	2	
+Tudun Raha	Birnin Gwari	Kaduna	10.561	6.356	2	
+Sarkin Rafi	Tudun Wada	Kano	11.271	8.322	2	
+Ruwan Rana	Bukkuyum	Zamfara	12.201	5.670	2	
+Refelle	Balanga	Gombe	10.029	11.738	2	Rafelle
+Rawo	Shiroro	Niger	9.871	6.311	2	Lawo
+Rawayau	Kurfi	Katsina	12.598	7.587	2	
+Ratana	Kachia	Kaduna	9.661	7.817	2	
+Rashidu	Bakori	Katsina	11.600	7.483	2	
+Rara	Rabah	Sokoto	13.017	5.600	2	
+Rapawa	Alkaleri	Bauchi	10.007	10.227	2	
+Rankin	Kanke	Plateau	9.401	9.624	2	
+Ranka	Bebeji	Kano	11.548	8.330	2	
+Rani	Agaie	Niger	8.870	6.543	2	
+Rani	Mokwa	Niger	8.861	5.824	2	
+Rango	Gwandu	Kebbi	12.368	4.525	2	
+Rando	Kachia	Kaduna	9.757	7.493	2	
+Randeggi	Birnin Gwari	Kaduna	10.548	6.142	2	
+Randa	Yankwashi	Jigawa	12.796	8.511	2	
+Ranbaya	Toro	Bauchi	10.361	9.698	2	
+Rampo	Bali	Taraba	8.580	11.539	2	
+Rambe	Yorro	Taraba	8.687	11.723	2	
+Ramani	Jahun	Jigawa	12.112	9.409	2	
+Rama	Kankara	Katsina	11.944	7.521	2	
+Raka	Odeda	Ogun	7.334	3.547	2	
+Rajiya	Fufore	Adamawa	8.809	12.556	2	
+Raji	Itesiwaju	Oyo	8.208	3.604	2	
+Raji	Abeokuta North	Ogun	7.319	3.028	2	
+Rajau Hairi	Ajingi	Kano	11.915	9.100	2	
+Rahama Bauchi	Toro	Bauchi	10.450	8.753	2	
+Rahama	Makarfi	Kaduna	11.297	7.917	2	
+Raha Atabo	Kontagora	Niger	10.632	5.449	2	
+Raha	Bunza	Kebbi	12.076	4.081	2	
+Raha	Soba	Kaduna	10.886	8.129	2	
+Raha	Magama	Niger	10.340	5.079	2	
+Roguwa	Nasarawa	Nasarawa	8.477	7.556	2	Ragwa
+Ragom	Katagum	Bauchi	11.746	10.107	2	
+Rago	Maigatari	Jigawa	12.752	9.469	2	
+Ragga	Sanga	Kaduna	9.027	8.522	2	
+Ragum	Wasagu-Danko	Kebbi	11.650	5.633	2	Ragam|Rugan
+Ragada	Doguwa	Kano	10.672	8.650	2	
+Raga	Geidam	Yobe	12.617	11.827	2	
+Rafin Tabo	Ikara	Kaduna	11.189	8.131	2	
+Rafin Taba	Giwa	Kaduna	11.000	7.317	2	
+Rafin Sanyi	Jos East	Plateau	9.817	9.033	2	
+Rafin Sainye	Jos North	Plateau	9.894	8.960	2	
+Rafin Pa	Municipal Area Council	FCT Abuja	8.996	7.153	2	
+Rafin Marke	Garki	Jigawa	12.488	9.027	2	
+Rafin Madugu	Suleja	Niger	9.220	7.165	2	
+Rafin Kura	Kaduna North	Kaduna	10.600	7.450	2	
+Rafin Kiria	Fakai	Kebbi	11.528	4.499	2	
+Rafin Kawo	Bagudo	Kebbi	11.445	3.800	2	
+Rafin Jatau	Paikoro	Niger	9.231	6.547	2	
+Rafin Jaki	Jos North	Plateau	10.018	8.926	2	
+Rafingyeda	Birnin Gwari	Kaduna	10.724	6.747	2	
+Rafingo	Goronyo	Sokoto	13.198	5.748	2	Rafingu
+Rafingora	Kontagora	Niger	10.280	5.397	2	
+Rafin Gora	Toro	Bauchi	10.609	8.847	2	
+Rafin-Giwa	Suru	Kebbi	11.872	4.028	2	
+Rafin Gabas	Nasarawa	Nasarawa	8.483	8.033	2	
+Rafin Dodo	Madobi	Kano	11.783	8.283	2	
+Rafin Dinga	Ningi	Bauchi	10.847	9.093	2	
+Rafin Dandoko	Rafi	Niger	10.026	6.168	2	
+Rafin Daji	Rabah	Sokoto	13.100	5.900	2	
+Rafin Dadi	Doguwa	Kano	10.573	8.742	2	
+Rafin Chiawa	Ningi	Bauchi	10.828	9.400	2	
+Rafin Buda	Tureta	Sokoto	12.583	5.467	2	
+Rafin Bauna	Jos South	Plateau	9.868	8.826	2	
+Rafin Bauna	Bassa	Plateau	9.868	8.786	2	
+Rafin Bechi	Lafia	Nasarawa	8.640	8.528	2	Barci|Rafin Barci|RafinBarci|RafinBechi
+Rafin Bado	Birnin Gwari	Kaduna	10.750	7.000	2	
+Raffin Baba	Kachia	Kaduna	9.838	8.038	2	Rafin Babba
+Rafawa	Gwarzo	Kano	11.893	7.927	2	
+Rafan	Barkin Ladi	Plateau	9.609	8.961	2	
+Radung	Jos North	Plateau	9.963	8.911	2	
+Raduna	Guma	Benue	7.947	8.601	2	
+Rade	Sandamu	Katsina	12.876	8.316	2	
+Rade	Makoda	Kano	12.591	8.490	2	
+Radda	Charanchi	Katsina	12.477	7.650	2	
+Lampamu	Toto	Nasarawa	8.319	7.195	2	Rackpam|Rakpam
+Rabi	Toto	Nasarawa	8.413	7.408	2	
+Rabba	Mokwa	Niger	9.211	5.030	2	Raba
+Rabadi	Gwaram	Jigawa	11.198	10.181	2	
+Raba	Makoda	Kano	12.588	8.508	2	
+Raba	Magama	Niger	10.383	5.009	2	
+Mayo Ranewo	Ardo-Kola	Taraba	8.820	10.914	2	Mallam Renewa|Renewa
+Izge-Rana	Gwoza	Borno	10.983	13.343	2	Isge|Isge-Rana
+Illela Rafi	Augie	Kebbi	13.017	4.650	2	
+Gidan Rai	Guma	Benue	8.079	8.392	2	
+Raha	Shanga	Kebbi	11.167	4.559	2	Dugu Raha
+Dangoi-Rafin	Gummi	Zamfara	12.144	4.995	2	Dangwai|Dangwoi
+Barakin Rafin Gora	Jos North	Plateau	9.941	8.855	2	Barakin|Rafin Gora
+Barakin Rafin Atcha	Riyom	Plateau	9.524	8.793	2	
+Balulada	Maiyama	Kebbi	12.084	4.303	2	Babulada|Rafin Gindi
+Arerema	Tambuwal	Sokoto	12.600	4.797	2	Rarema
+Akata-Raji	Moro	Kwara	8.852	4.292	2	Akata Raji
+Rafin Kaffi	Tafa	Niger	9.222	7.215	2	
+Gwarin Rafa	Karu	Nasarawa	9.138	7.666	2	
+Gidan Rago	Karu	Nasarawa	9.112	7.716	2	
+Gwagwa Rafi	Municipal Area Council	FCT Abuja	9.075	7.581	2	
+Rafin Kwara	Karu	Nasarawa	8.877	7.659	2	
+Randage	Igabi	Kaduna	10.635	7.352	2	
+Ranawa	Gezawa	Kano	12.044	8.661	2	
+Sabon Birni	Fagge	Kano	12.068	8.501	2	Rafin Mallam
+Rasusi	Shagamu	Ogun	6.874	3.557	2	
+Rafin Buna	Itas/Gadau	Bauchi	11.815	10.236	2	
+Tungan Rangwada	Bagudo	Kebbi	11.418	3.948	2	
+Railhead	Okitipupa	Ondo	6.621	4.756	2	
+Rage	Tsanyawa	Kano	12.275	8.075	2	
+Randama	Mani	Katsina	12.842	8.043	2	
+Radi	Kusada	Katsina	12.565	7.975	2	
+Rafin Kanya	Shiroro	Niger	10.467	6.949	2	
+Rafin Gungumi	Rafi	Niger	10.177	6.232	2	
+Tungan Ramusa	Arewa Dandi	Kebbi	13.059	4.478	2	
+Yarume Rafi	Wamako	Sokoto	13.008	4.985	2	
+Ragam	Bukkuyum	Zamfara	11.703	5.683	2	
+Rangandawa	Illela	Sokoto	13.609	5.389	2	
+Rantajadi	Tangaza	Sokoto	13.485	5.117	2	
+Tunga Rafi	Gwadabawa	Sokoto	13.502	5.285	2	Tungan Rafi
+Gidan Runa	Gwadabawa	Sokoto	13.453	5.230	2	Gidan Rana
+Rama	Gwadabawa	Sokoto	13.334	5.433	2	
+Ranganda	Gwadabawa	Sokoto	13.341	5.216	2	
+Rakwamni	Rabah	Sokoto	13.047	5.733	2	
+Okuba Range	Agwara	Niger	10.750	4.547	2	
+Ungwan Randi	Karaye	Kano	11.660	7.941	2	
+Rafin Kanya	Funtua	Katsina	11.515	7.382	2	
+Rafin Gora	Danja	Katsina	11.472	7.474	2	
+Ungwan Rabo Baduku	Funtua	Katsina	11.395	7.358	2	
+Baban Rafi	Danja	Katsina	11.356	7.494	2	
+Tsofon Rafi	Giwa	Kaduna	11.039	7.238	2	
+Ungwan Sarkin Rafi	Zaria	Kaduna	11.018	7.724	2	
+Tungan-Rani	Suru	Kebbi	11.897	4.128	2	
+Ramuda Buga Hill	Fakai	Kebbi	11.670	4.792	2	
+Rahavel	Bagudo	Kebbi	11.461	4.029	2	
+Rafin Kiriya	Shanga	Kebbi	11.479	4.535	2	
+Rafin Dodo	Kubau	Kaduna	10.776	8.294	2	
+Ungwan Rana	Tsafe	Zamfara	11.909	6.862	2	
+Rafin Tofa	Maiyama	Kebbi	12.038	4.248	2	
+Raya Camp	Ekeremor	Bayelsa	4.813	5.565	2	Raya
+Ungwan Mai Randa	Ikara	Kaduna	11.153	8.199	2	
+Rafi	Rafi	Niger	10.184	6.253	2	
+Rabah	Rabah	Sokoto	13.013	5.720	2	Rabah Local Government Area
+Rahama	Bebeji	Kano	11.395	8.295	2	
+Ranka	Bebeji	Kano	11.549	8.277	2	
+Raba	Garko	Kano	11.669	8.796	2	
+Rafin Iwa	Sabuwa	Katsina	11.262	7.036	2	
+Gumumunde-Rafin Tsaka	Arewa Dandi	Kebbi	12.328	3.724	2	
+Raha-Makeri	Bunza	Kebbi	12.120	4.091	2	
+Rarah	Rabah	Sokoto	12.927	5.601	2	
+Raminkura	Lere	Kaduna	10.326	8.510	2	
+Rahama	Soba	Kaduna	10.823	8.093	2	
+Rauta geji	Toro	Bauchi	10.557	9.525	2	
+Rahama	Toro	Bauchi	10.467	8.846	2	
+Ranga B	Warji	Bauchi	11.160	9.757	2	
+Rafin Soja	Wukari	Taraba	8.055	9.801	2	
+Rafin Tukurwa	Kurmi	Taraba	7.230	10.371	2	
+Rabaci	Gbako	Niger	9.102	5.957	2	
+Rafin Kuka	Shiroro	Niger	9.915	6.693	2	
+Ramoni	Surulere	Lagos	6.507	3.346	2	
+Rafin	Karu	Nasarawa	9.197	7.868	2	Rafin-Pa
+Rafin Paa	Karu	Nasarawa	9.071	7.938	2	
+Rafin-Kinba	Kagarko	Kaduna	9.446	7.674	2	
+Baban-Rafi	Bwari	FCT Abuja	9.299	7.587	2	
+Ungwan Rana	Kachia	Kaduna	9.729	7.648	2	
+Ranti	Yorro	Taraba	8.886	11.468	2	
+Rawaya	Shendam	Plateau	8.778	9.672	2	
+Rafin Soja	Sanga	Kaduna	9.094	8.145	2	
+Ungwan Rana	Zangon Kataf	Kaduna	9.872	8.455	2	
+Ramai Gida	Zangon Kataf	Kaduna	9.764	8.280	2	
+Rabuan	Zangon Kataf	Kaduna	9.735	8.271	2	
+Ungwan Rana	Jema'A	Kaduna	9.563	8.283	2	
+Ungwan Rana	Jema'A	Kaduna	9.540	8.286	2	
+Magaji Ram	Kachia	Kaduna	9.686	8.093	2	
+Kurmin Rami	Kachia	Kaduna	9.625	8.036	2	
+Ungwan Rana	Jaba	Kaduna	9.574	8.115	2	
+Rafin Tugwai	Sanga	Kaduna	9.299	8.538	2	
+Cos-Ramon	Warri South-West	Delta	5.670	5.112	2	
+Rahama	Alkaleri	Bauchi	9.663	10.712	2	
+Rama	Alkaleri	Bauchi	9.699	10.852	2	
+Rahama	Karim Lamido	Taraba	9.361	10.771	2	
+Raban Jaji	Karim Lamido	Taraba	9.335	10.782	2	
+Ramin Kura	Karim Lamido	Taraba	9.281	10.913	2	
+Ungwan Raziku	Jega	Kebbi	12.269	4.349	2	
+Ramasilu	Ilaje	Ondo	6.194	4.672	2	
+Rabiu	Ife South	Osun	7.221	4.702	2	
+Ganye	Lafia	Nasarawa	8.654	8.594	2	Rafin Ganye|RafinGanye
+Angwan-Rairai	Lafia	Nasarawa	8.524	8.593	2	Angwan Rairai|AngwanRairai
+Ita-Raufu	Asa	Kwara	8.222	4.542	2	
+Ramonu	Oyun	Kwara	8.159	4.615	2	
+Ramode	Oyun	Kwara	8.136	4.603	2	
+Erin-Ile Railway Station	Oyun	Kwara	8.094	4.713	2	Erin-IleRailwayStation
+Rafin-Pa	Akwanga	Nasarawa	8.948	8.489	2	Rafin Pa|RafinPa
+Raji	Orolu	Osun	7.913	4.477	2	
+Abu Ramotu	Afijio	Oyo	7.704	4.015	2	AbuRamotu
+Seke-Raji	Afijio	Oyo	7.728	4.001	2	
+Rafin Gabas	Nasarawa	Nasarawa	8.514	8.042	2	
 Rasaq Balogun Street	Surulere	Lagos	6.495	3.361	1	
 Randle Avenue	Surulere	Lagos	6.509	3.357	1	
 Rabiatu Thompson Cresent	Surulere	Lagos	6.501	3.359	1	
@@ -211,9 +396,7 @@ Shooting Range Road	Kaduna North	Kaduna	10.502	7.450	1
 Ramat Road	Kaduna North	Kaduna	10.523	7.467	1	
 Rabah Close	Kaduna North	Kaduna	10.553	7.459	1	
 Ramat Close	Kaduna North	Kaduna	10.520	7.464	1	
-Ramat Close	Kaduna North	Kaduna	10.520	7.465	1	
 Rada Street	Kaduna South	Kaduna	10.485	7.429	1	
-Rakie Educational Centre	Oredo	Edo	6.325	5.614	0	
 Rasaki Balogun Street	Eti Osa	Lagos	6.426	3.523	1	
 Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.025	7.486	1	
 Raufu Williams Crescent	Surulere	Lagos	6.497	3.351	1	
@@ -227,10 +410,7 @@ Rasheed Alaba Williams Street	Eti Osa	Lagos	6.444	3.462	1
 Rahman Adeboyejo Street	Eti Osa	Lagos	6.435	3.471	1	
 Raji Oba Street	Alimosho	Lagos	6.609	3.296	1	
 Randle Avenue	Apapa	Lagos	6.445	3.370	1	
-Randle Avenue	Apapa	Lagos	6.442	3.369	1	
 Race Course Road	Nassarawa	Kano	12.003	8.554	1	
-Race Course Road	Nassarawa	Kano	12.007	8.556	1	
-Race Course Road	Nassarawa	Kano	11.994	8.550	1	
 Razak Okoya Crescent	Eti Osa	Lagos	6.462	3.433	1	Inner Crescent
 Rabiatu Street	Apapa	Lagos	6.467	3.353	1	
 Rabat Street	Municipal Area Council	FCT Abuja	9.069	7.457	1	
@@ -238,10 +418,8 @@ Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.029	7.485	1
 Bala Rabiu Street	Gwale	Kano	11.993	8.499	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.249	8.412	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.346	8.303	1	
-Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.333	8.311	1	
 Rahama to Kafin Mayaki Road	Bebeji	Kano	11.380	8.274	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.278	8.340	1	
-Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.337	8.309	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.238	8.427	1	
 Railway Roundabout	Bauchi	Bauchi	10.293	9.847	1	
 Rahama to Kafin Mayaki Road	Lere	Kaduna	10.555	8.678	1	
@@ -286,12 +464,9 @@ Rabiatu Aghedo Street	Oshodi/Isolo	Lagos	6.496	3.303	1
 Ramlat Timson Street	Surulere	Lagos	6.492	3.343	1	
 Railway station R1	Fagge	Kano	12.000	8.539	1	
 Raheem Sho-Oja Street	Ìkòròdú	Lagos	6.621	3.489	1	
-Rafin Tsamiya Health Post	Tsanyawa	Kano	12.195	8.041	0	
 Rabiu Yazid Street	Kano Municipal	Kano	11.976	8.533	1	
 Rafin Dan Nana Street	Ungongo	Kano	11.984	8.458	1	
 Rabiu Sulaiman Bichi Street	Ungongo	Kano	11.975	8.440	1	
-Sabon Gari Rangaza Primary Health Centre	Ungongo	Kano	12.055	8.606	0	
-A.A Rano	Fagge	Kano	12.027	8.541	0	
 Rahama to Kafin Mayaki Road	Doguwa	Kano	10.631	8.645	1	
 Rahama to Kafin Mayaki Road	Doguwa	Kano	10.673	8.638	1	
 Rahama to Kafin Mayaki Road	Doguwa	Kano	10.663	8.644	1	
@@ -309,11 +484,6 @@ Rachel Nwangwu Close	Eti Osa	Lagos	6.433	3.463	1
 Rafat Ayinke Tinudu Close	Eti Osa	Lagos	6.429	3.460	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.225	8.446	1	
 Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.203	8.499	1	
-Ragwan Health Clinic	Katagum	Bauchi	11.744	10.106	0	
-Raga Dispensary	Gamawa	Bauchi	11.859	10.531	0	Gayawa Dispensary
-Rarum Maternity	Jama'Are	Bauchi	11.611	9.846	0	
-Railway Industrial Clinic	Bauchi	Bauchi	10.293	9.847	0	
-Rainbow Oil Ltd	Ibadan South West	Oyo	7.352	3.876	0	
 Raufu Obitayo	Eti Osa	Lagos	6.442	3.519	1	
 Prince Rauf Ishola Lemomu Street	Eti Osa	Lagos	6.446	3.517	1	
 Rasaq Eletu Way	Eti Osa	Lagos	6.443	3.511	1	
@@ -332,7 +502,6 @@ Alhaji Raimi Street	Ojo	Lagos	6.468	3.191	1
 Alh Raliat Agboola Street	Alimosho	Lagos	6.553	3.221	1	
 Ralph J. Karieren Crescent	Eti Osa	Lagos	6.461	3.585	1	
 Raji Street	Oshodi/Isolo	Lagos	6.555	3.334	1	
-Isiyaka Rabiu College of Quranic Studies	Gwale	Kano	11.979	8.496	0	
 Ramotu Oluwakemi Street	Kosofe	Lagos	6.552	3.381	1	
 Ramat Longe St	Kosofe	Lagos	6.626	3.368	1	
 Raliat Adepeju Street	Ifako/Ijaye	Lagos	6.673	3.285	1	
@@ -340,7 +509,6 @@ Adebayo Raji Street	Alimosho	Lagos	6.661	3.264	1
 Ramot Giwa Close	Eti Osa	Lagos	6.501	3.586	1	
 Ramon Adedoyin Street	Ife North	Osun	7.492	4.536	1	
 Railway Road	Municipal Area Council	FCT Abuja	9.025	7.391	1	
-Raji Rasaki Street	Alimosho	Lagos	6.629	3.292	1	
 Raymond Njoku Street	Eti Osa	Lagos	6.443	3.424	1	
 Raji Abayomi Street	Oshodi/Isolo	Lagos	6.564	3.339	1	
 Ramat Close B	Kaduna North	Kaduna	10.522	7.465	1	
@@ -352,46 +520,115 @@ Rasulu Balogun Disu Street	Eti Osa	Lagos	6.425	3.586	1
 Railway Road	Bwari	FCT Abuja	9.183	7.343	1	
 Railway Road	Bwari	FCT Abuja	9.206	7.341	1	
 Railway Road	Bwari	FCT Abuja	9.227	7.343	1	
-Railway Road	Bwari	FCT Abuja	9.250	7.342	1	
-Railway Road	Bwari	FCT Abuja	9.187	7.343	1	
 Raba Street	Sabon Gari	Kaduna	11.161	7.655	1	
-Railway Road	Bwari	FCT Abuja	9.173	7.337	1	
 Railway Road	Municipal Area Council	FCT Abuja	9.059	7.312	1	
 Railway Road	Municipal Area Council	FCT Abuja	9.055	7.302	1	
-Raba Street	Sabon Gari	Kaduna	11.161	7.654	1	
 Railway Road	Municipal Area Council	FCT Abuja	9.101	7.286	1	
 Railway Road	Municipal Area Council	FCT Abuja	9.105	7.287	1	
 Ralph Aremu Street	Ìkòròdú	Lagos	6.617	3.622	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.057	7.292	1	
 Alh. Ramota Balogun Street	Ìkòròdú	Lagos	6.620	3.524	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.131	7.293	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.066	7.285	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.090	7.285	1	
-Rafin Mallam/Sabon Birni Road	Ungongo	Kano	12.072	8.499	1	
 Saheed Rasaq Close	Ìkòròdú	Lagos	6.632	3.484	1	
 Rahama to Kafin Mayaki Road	Lere	Kaduna	10.441	8.655	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.038	7.436	1	
 Raimi Street	Agege	Lagos	6.629	3.312	1	
-Ramat College Polytechnic Maiduguri	Maiduguri	Borno	11.843	13.131	0	
 Railway station R4	Fagge	Kano	11.998	8.537	1	
 Railway station R5	Fagge	Kano	11.999	8.538	1	
 Railway station R3	Fagge	Kano	12.000	8.538	1	
 Railway station R2	Fagge	Kano	11.998	8.538	1	
 Railway Road	Municipal Area Council	FCT Abuja	9.046	7.450	1	
 Railway Road	Municipal Area Council	FCT Abuja	9.027	7.416	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.054	7.299	1	
 Railway Road	Bwari	FCT Abuja	9.171	7.335	1	
 Railway Road	Municipal Area Council	FCT Abuja	9.137	7.295	1	
-Rasheed Shekoni Hospital	Dutse	Jigawa	11.678	9.340	0	
 Railway Station Road	Kagarko	Kaduna	9.566	7.451	1	
-Randle General Hospital	Surulere	Lagos	6.508	3.358	0	Surulere General Hospital
 Raheem Street	Ilorin West	Kwara	8.530	4.525	1	
 Railway Road	Tafa	Niger	9.277	7.330	1	
 Railway Road	Municipal Area Council	FCT Abuja	9.049	7.468	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.025	7.406	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.025	7.400	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.048	7.464	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.137	7.299	1	
+Railway Road	Kagarko	Kaduna	9.410	7.377	1	
+Railway Road	Tafa	Niger	9.327	7.345	1	
+Railway Road	Tafa	Niger	9.310	7.339	1	
+Raji Kehinde Alfa-Oja Street	Asa	Kwara	8.479	4.482	1	
+Rami Akinyele Amosu Street	Eti Osa	Lagos	6.450	3.569	1	
+Ramat Close C	Kaduna North	Kaduna	10.521	7.466	1	
+Ramat Close A	Kaduna North	Kaduna	10.521	7.467	1	
+Race Course Road	Kaduna North	Kaduna	10.536	7.444	1	
+Rabah Road	Kaduna North	Kaduna	10.552	7.456	1	
+Ransom Kuti Road	Shomolu	Lagos	6.514	3.387	1	
+Ramat Park Flyover	Ikpoba-Okha	Edo	6.350	5.662	1	
+Razak Kawaliu Ogunsemo Street	Eti Osa	Lagos	6.474	3.563	1	
+Randa Road	Ori Ire	Oyo	8.186	4.096	1	
+Eruwa Railway Station	Ibarapa East	Oyo	7.398	3.485	0	
+Ila Market Railway Station	Oyun	Kwara	8.303	4.671	0	
+Gamo Railway Station	Ilorin South	Kwara	8.417	4.590	0	
+Okuku Railway Station	Odo Otin	Osun	8.033	4.683	0	
+A.A. Rano Filling Station	Muhammadu Dikko Stadium	Katsina	12.984	7.602	0	
+Model Primary Health Center Rahama	Toro	Bauchi	10.453	8.760	0	
+A. A. Rano	Wamako	Sokoto	13.015	5.246	0	
+Offa Railway	Oyun	Kwara	8.155	4.727	0	
+RAE Creche	Oshodi/Isolo	Lagos	6.553	3.324	0	
+Rank Oil and Gas Filing Station	Uvwie	Delta	5.562	5.785	0	
+Rahony Travels	Yenegoa	Bayelsa	4.935	6.310	0	
+A. A. Rano Filling Station	Uvwie	Delta	5.551	5.782	0	
+Rapha Specialist Children Clinic	Uvwie	Delta	5.542	5.757	0	
+A A Rano	Muhammadu Dikko Stadium	Katsina	12.981	7.626	0	
+Raftjone International School	Ikpoba-Okha	Edo	6.383	5.680	0	
+A A Rano	Wamako	Sokoto	13.027	5.216	0	
+A. A. Rano filling Station	Kaduna North	Kaduna	10.594	7.450	0	
+Haruna Kadir Rashid	Gombe	Gombe	10.308	11.173	0	
+AA Rano	Municipal Area Council	FCT Abuja	8.987	7.270	0	
+Raudha	Gombe	Gombe	10.285	11.185	0	
+General Hospital Rabah	Rabah	Sokoto	13.123	5.499	0	
+Yola Rafi PHC	Silame	Sokoto	13.096	4.803	0	
+General Hospital Rann	Kala-Balge	Borno	12.266	14.469	0	
+Rahinna Model School	Municipal Area Council	FCT Abuja	8.977	7.559	0	
+Ramna Hospital (Ramunaak Clinic and maternity Agbamu, Idi Ose	Akinyele	Oyo	7.507	3.924	0	
+Nlng Ra Hospital	Bonny	Rivers	4.386	7.179	0	
+Rayville radiology	Jos North	Plateau	9.929	8.881	0	
+Skane Radiologistic center	Jos North	Plateau	9.897	8.882	0	
+A.A Rano	Jos North	Plateau	9.959	8.883	0	
+Rapha Mamasuwe Maternity And Clinic	Kaduna South	Kaduna	10.500	7.386	0	
+Al Ramadan Nursing And Maternity Home Nassarawa	Chikun	Kaduna	10.471	7.395	0	
+A. A Rano	Municipal Area Council	FCT Abuja	9.010	7.458	0	
+Primary Health Care Isa Kaita Raid Malali	Kaduna North	Kaduna	10.549	7.465	0	
+NNPC Industrial Clinic No35 Rabah Road	Kaduna North	Kaduna	10.551	7.467	0	
+Ramat Hospital Hayin Banku Kaduna	Kaduna North	Kaduna	10.572	7.442	0	
+44 Reference Hospital Plot A12 By Rail Line	Kaduna North	Kaduna	10.578	7.444	0	
+Primary health care Kc3 Zuba Road Shooting Range Kabala	Kaduna North	Kaduna	10.505	7.449	0	
+Rasmah Maternity And Clinic	Kaduna South	Kaduna	10.530	7.404	0	
+Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
+Ranjenny Schools Eleme	Ndokwa West	Delta	5.717	6.447	0	
+Raufmomic Health Care	Alimosho	Lagos	6.639	3.259	0	
+Rabban Medical Centre	Alimosho	Lagos	6.607	3.280	0	
+Rauf Aregbesola Flagship Pry Healthcare Center	Alimosho	Lagos	6.595	3.283	0	
+Rally Hospital	Mushin	Lagos	6.541	3.362	0	
+Ramos Balo Filling Station	Ejigbo	Osun	7.896	4.317	0	
+Rabjib college	Jos North	Plateau	9.913	8.888	0	
+Ramla Academy Arabic And English	Ungongo	Kano	12.049	8.571	0	
+Rahama Academy School Z/Marikita	Ungongo	Kano	12.050	8.577	0	
+Fathu Rabbani Mal. Hassan	Ungongo	Kano	12.037	8.563	0	
+Sheikh Abubakar Ramadan Litahfizul Quran	Gwale	Kano	11.960	8.474	0	
+Muhammadu Sunusi Rayadu Salihin School	Gwale	Kano	11.959	8.477	0	
+Rayyan Model School	Gwale	Kano	11.961	8.479	0	
+Rahama Chemist	Gwale	Kano	11.965	8.476	0	
+Rainoil	Oshimili North	Delta	6.202	6.690	0	
+second rainbow landing	Amuwo Odofin	Lagos	6.426	3.262	0	
+Bovas, OFFA GARAGE RAILWAY LINE, Ilorin, Nigeria	Ilorin East	Kwara	8.465	4.571	0	
+RAINOIL LIMITED, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.449	4.584	0	
+Rain Oil, A123, Ilorin, Nigeria	Ilorin South	Kwara	8.429	4.596	0	
+A.A Rano	Owerri Municipal	Imo	5.464	7.042	0	
+Radiology department	Awka South	Anambra	6.224	7.079	0	
+After The Idu Railway Junction	Municipal Area Council	FCT Abuja	9.001	7.346	0	
+Rakie Educational Centre	Oredo	Edo	6.325	5.614	0	
+Rafin Tsamiya Health Post	Tsanyawa	Kano	12.195	8.041	0	
+Sabon Gari Rangaza Primary Health Centre	Ungongo	Kano	12.055	8.606	0	
+A.A Rano	Fagge	Kano	12.027	8.541	0	
+Ragwan Health Clinic	Katagum	Bauchi	11.744	10.106	0	
+Raga Dispensary	Gamawa	Bauchi	11.859	10.531	0	Gayawa Dispensary
+Rarum Maternity	Jama'Are	Bauchi	11.611	9.846	0	
+Railway Industrial Clinic	Bauchi	Bauchi	10.293	9.847	0	
+Rainbow Oil Ltd	Ibadan South West	Oyo	7.352	3.876	0	
+Isiyaka Rabiu College of Quranic Studies	Gwale	Kano	11.979	8.496	0	
+Ramat College Polytechnic Maiduguri	Maiduguri	Borno	11.843	13.131	0	
+Rasheed Shekoni Hospital	Dutse	Jigawa	11.678	9.340	0	
+Randle General Hospital	Surulere	Lagos	6.508	3.358	0	Surulere General Hospital
 St Raphael Divine Mercy Specialist Hospital	Ìkòròdú	Lagos	6.625	3.550	0	
 Aba Railway Station	Aba North	Abia	5.124	7.370	0	
 Railway Line Ogbete Market	Enugu North	Enugu	6.433	7.482	0	
@@ -407,63 +644,7 @@ Global Rayfield Medical Center	Port-Harcourt	Rivers	4.790	7.040	0
 Ramadan Clinic	Toro	Bauchi	10.258	9.012	0	
 Saidu Dange Railway Hospital	Sabon Gari	Kaduna	11.113	7.720	0	
 Fadama Rake Health Post	Hong	Adamawa	10.229	12.980	0	
-Railway Road	Kagarko	Kaduna	9.410	7.377	1	
-Railway Road	Bwari	FCT Abuja	9.264	7.333	1	
-Railway Road	Tafa	Niger	9.327	7.345	1	
-Railway Road	Tafa	Niger	9.310	7.339	1	
-Raji Kehinde Alfa-Oja Street	Asa	Kwara	8.479	4.482	1	
-random town	Zurmi	Zamfara	12.640	6.806	3	
-X-RAY/SCAN UNIT	Isiala Mbano	Imo	5.679	7.240	0	
-Raymond Njoku Street	Eti Osa	Lagos	6.444	3.425	1	
-Rami Akinyele Amosu Street	Eti Osa	Lagos	6.450	3.569	1	
-A.A.RANO	Municipal Area Council	FCT Abuja	8.828	7.581	0	
-Ramat Close C	Kaduna North	Kaduna	10.521	7.466	1	
-A.A RANO	Municipal Area Council	FCT Abuja	9.027	7.434	0	
-Ramat Close A	Kaduna North	Kaduna	10.521	7.467	1	
-Race Course Road	Kaduna North	Kaduna	10.536	7.444	1	
-Rabah Road	Kaduna North	Kaduna	10.552	7.456	1	
-Ransom Kuti Road	Shomolu	Lagos	6.514	3.387	1	
-Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.025	7.487	1	
-Ramat Park Flyover	Ikpoba-Okha	Edo	6.350	5.662	1	
-Saheed Rasaq Close	Ìkòròdú	Lagos	6.632	3.485	1	
-Railway Road	Municipal Area Council	FCT Abuja	9.043	7.447	1	
-Razak Kawaliu Ogunsemo Street	Eti Osa	Lagos	6.474	3.563	1	
+X-Ray/Scan Unit	Isiala Mbano	Imo	5.679	7.240	0	
+A.A.Rano	Municipal Area Council	FCT Abuja	8.828	7.581	0	
+A.A Rano	Municipal Area Council	FCT Abuja	9.027	7.434	0	
 Rawan Dutsi Maternity and  Child Health Clinic	Sandamu	Katsina	12.844	8.352	0	
-Randa Road	Ori Ire	Oyo	8.186	4.096	1	
-Rafin Marke	Garki	Jigawa	12.459	9.023	2	
-Bela Rawaiya	Bungudu	Zamfara	12.321	6.640	2	
-Rafi	Gummi	Zamfara	12.121	5.069	2	
-Raka	Tangaza	Sokoto	13.431	5.100	2	
-Rarah	Rabah	Sokoto	12.915	5.580	2	
-Rabah	Rabah	Sokoto	13.002	5.795	2	
-Rabah	Rabah	Sokoto	13.147	5.519	2	
-Magajin Rafi B	Sokoto North	Sokoto	13.059	5.244	2	
-Rafin Zuru	Zuru	Kebbi	11.425	5.219	2	
-Raha-Makeri	Bunza	Kebbi	12.101	4.088	2	
-Rafin Bauna	Aleiro	Kebbi	12.291	4.415	2	
-Rafin Kirya	Shanga	Kebbi	11.432	4.583	2	
-Gumumunde-Rafin Tsaka	Arewa Dandi	Kebbi	12.331	3.739	2	
-Raminkura	Lere	Kaduna	10.337	8.490	2	
-Rahama	Soba	Kaduna	10.813	8.113	2	
-Rantan	Bebeji	Kano	11.512	8.376	2	
-Ranka	Bebeji	Kano	11.547	8.312	2	
-Rano	Rano	Kano	11.564	8.593	2	
-Rangaza	Ungongo	Kano	12.056	8.617	2	
-Rahama	Bebeji	Kano	11.396	8.286	2	
-Rano	Rano	Kano	11.485	8.514	2	
-Raba	Garko	Kano	11.694	8.787	2	
-Rafin Iwa	Sabuwa	Katsina	11.258	7.026	2	
-Unguwar Rai	Baure	Katsina	12.717	8.822	2	
-Rawayau A	Kurfi	Katsina	12.603	7.604	2	
-Rade A	Sandamu	Katsina	12.906	8.341	2	
-Rade B	Sandamu	Katsina	12.850	8.365	2	
-Rawayau B	Kurfi	Katsina	12.593	7.558	2	
-Radda	Charanchi	Katsina	12.443	7.666	2	
-Rafi	Rafi	Niger	10.214	6.207	2	
-Ranga B	Warji	Bauchi	11.074	9.708	2	
-Rauta geji	Toro	Bauchi	10.496	9.576	2	
-Rahama	Toro	Bauchi	10.494	8.807	2	
-Ranga A	Warji	Bauchi	11.177	9.735	2	
-Raga	Gamawa	Bauchi	11.805	10.530	2	
-Rann	Kala-Balge	Borno	12.326	14.403	2	
-Randagi	Birnin Gwari	Kaduna	10.531	6.229	2	

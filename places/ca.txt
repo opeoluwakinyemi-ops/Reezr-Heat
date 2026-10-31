@@ -1,4 +1,6 @@
 Calabar	Calabar Municipal	Cross River	4.980	8.337	3	
+Calabar	Calabar Municipal	Cross River	4.959	8.327	3	CBQ|Kalabar|Kalabaras|Kalabaro|ka la ba er|kalabar|kalabara|kalabari|kallabaleu|karabaru
+Life Camp	Municipal Area Council	FCT Abuja	9.068	7.404	2	
 Cana	Fika	Yobe	11.460	11.025	2	
 Yaor Caro	Markurdi	Benue	7.707	8.655	2	Yaro Caro
 Road Camp	Gwandu	Kebbi	12.347	4.551	2	
@@ -20,6 +22,343 @@ Bula Ganna Chiri	Abadam	Borno	13.677	13.309	2	Bulagana Cara'a
 Kaloba Camp	Burutu	Delta	5.404	5.427	2	
 Inorin Fishing Camp	Warri South	Delta	5.516	5.607	2	
 Izideme	Ovia North-East	Edo	6.150	5.350	2	Izidemes Camps
+Adekunle Fajuyi Cantonement	Akinyele	Oyo	7.447	3.936	2	
+Hajj Camp	Fagge	Kano	12.027	8.524	2	
+Dam Camp	Bwari	FCT Abuja	9.195	7.403	2	
+Cakawa	Wudil	Kano	11.831	8.883	2	
+Duglas Camp	Sagbama	Bayelsa	5.311	6.341	2	
+Ogbiriasa Camp	Sagbama	Bayelsa	5.293	6.322	2	
+Camp 2	Okehi	Kogi	7.619	6.278	2	
+Ezi-Ossu Camp	Ohaji/Egbema	Imo	5.612	6.773	2	
+Itsekiri Camp	Ndokwa East	Delta	5.777	6.608	2	
+Urhobo Camp	Ughelli South	Delta	5.189	5.991	2	
+Eziro Camp	Isoko North	Delta	5.486	6.372	2	
+Isuaja Camp	Ndokwa East	Delta	5.689	6.554	2	
+Umuedem Camp	Ndokwa East	Delta	5.691	6.576	2	
+Umugbome Camp	Ndokwa East	Delta	5.698	6.609	2	
+Okpia-Oluchi Camp 6	Ndokwa East	Delta	5.774	6.629	2	
+Seitoro Camp	Burutu	Delta	5.191	5.558	2	
+Ijaw Fishing Camp	Burutu	Delta	5.441	5.311	2	
+Coal Camp	Enugu North	Enugu	6.464	7.457	2	
+Coal Camp	Enugu South	Enugu	6.421	7.482	2	
+Calabar Municipal	Calabar Municipal	Cross River	5.015	8.347	2	
+Calabar South	Calabar South	Cross River	4.853	8.321	2	
+William Camp	Bokkos	Plateau	9.209	8.732	2	
+Umugbome Camp	Ndokwa East	Delta	5.679	6.596	2	Umugboma
+Soki Kafuta	Barkin Ladi	Plateau	9.531	8.996	2	Soka ca Futa
+Oko Camp	Oshimili South	Delta	6.145	6.743	2	Oko
+Ndichuku	Edda	Ebonyi	5.902	7.807	2	Ndichukwu Leper Camp
+Modo Camps	Ipokia	Ogun	6.518	2.800	2	Modo
+Iyalode-Camps	Yewa North	Ogun	6.951	2.856	2	Iyalade
+Fobur	Jos East	Plateau	9.864	9.046	2	Fobir|Fobro|Fobro Mining Camp
+Chana	Fika	Yobe	11.460	11.027	2	Cana
+Cara	Biu	Borno	10.883	11.967	2	Chara
+Captninakiri	Nembe	Bayelsa	4.431	6.315	2	
+Cachala	Bosso	Niger	9.676	6.618	2	
+Arua Camp I	Sagbama	Bayelsa	5.106	6.121	2	Arua
+Cardoso	Alimosho	Lagos	6.581	3.268	2	
+Canga	Minjibir	Kano	12.190	8.716	2	
+Camp	Guma	Benue	7.899	8.487	2	
+Ladan Camp	Irele	Ondo	6.557	4.914	2	
+Cakinawa	Garki	Jigawa	12.372	8.823	2	
+Caranbi	Mani	Katsina	12.869	7.797	2	
+Tsekiri Camp	Ethiope West	Delta	5.988	5.776	2	
+Ubakotete Camp	Warri South	Delta	5.667	5.598	2	
+Onduku Camp	Ekeremor	Bayelsa	4.950	5.667	2	Onduku
+Blackman Camp	Ekeremor	Bayelsa	4.972	5.679	2	Blackman
+Kalabari Camp	Ekeremor	Bayelsa	4.998	5.609	2	Kalabari
+Akpan Camp	Ekeremor	Bayelsa	4.992	5.663	2	Akpan
+Ufort Camp	Ekeremor	Bayelsa	4.973	5.710	2	Ufort
+Omo Camp	Ekeremor	Bayelsa	4.968	5.704	2	Omo
+Orubou	Ekeremor	Bayelsa	4.932	5.690	2	Clarks-Camp
+Urhobo Camp	Ekeremor	Bayelsa	4.944	5.896	2	
+Ijaw Fishing Camp	Southern Ijaw	Bayelsa	4.815	5.836	2	
+Ijaw Fishing Camp	Ekeremor	Bayelsa	4.813	5.800	2	
+Peruyale Camp	Ekeremor	Bayelsa	4.885	5.702	2	Peruyale
+Okon Camp	Ekeremor	Bayelsa	4.994	5.614	2	Okon
+Ime Camp	Ekeremor	Bayelsa	4.990	5.620	2	Ime
+Macus Camp	Ekeremor	Bayelsa	4.979	5.645	2	Macus
+Friday Camp	Ekeremor	Bayelsa	4.975	5.640	2	Friday
+Alaru Camp	Ekeremor	Bayelsa	4.958	5.633	2	Alaru
+Akosi Camp	Ekeremor	Bayelsa	4.963	5.653	2	Akosi
+Raya Camp	Ekeremor	Bayelsa	4.813	5.565	2	Raya
+Femi Camp	Ekeremor	Bayelsa	4.938	5.453	2	
+Egeuno Camp	Etsako West	Edo	6.974	6.274	2	Egono
+Oriakhi Camp	Uhunmwonde	Edo	6.647	6.031	2	Ekana
+Awomama Catholic Seminary	Oru East	Imo	5.658	6.943	2	
+Osabari-Okpe Camp	Isoko North	Delta	5.490	6.350	2	
+Ukpemo Camp	Ndokwa East	Delta	5.432	6.368	2	
+Capenta Camp	Ndokwa East	Delta	5.435	6.368	2	
+Otewo Camp	Isoko North	Delta	5.437	6.394	2	
+Azagba Camp	Ndokwa East	Delta	5.431	6.366	2	
+Okporo Camp	Ndokwa East	Delta	5.418	6.429	2	
+Egode Camp	Ndokwa East	Delta	5.369	6.491	2	
+Ntezi Camp	Ndokwa East	Delta	5.335	6.372	2	
+Diori Camp	Sagbama	Bayelsa	5.318	6.337	2	
+Oye Camp I&II	Sagbama	Bayelsa	5.289	6.426	2	
+Ogbesu Camp I	Sagbama	Bayelsa	5.279	6.418	2	
+Ogbesu Camp II	Sagbama	Bayelsa	5.276	6.417	2	
+Isielo Camp	Sagbama	Bayelsa	5.301	6.388	2	
+Osiobe Camp	Sagbama	Bayelsa	5.284	6.368	2	
+Abake Camp	Isoko South	Delta	5.274	6.281	2	
+Isoko Camp	Sagbama	Bayelsa	5.259	6.400	2	
+Cameroun-Gbene	Sagbama	Bayelsa	5.251	6.372	2	
+Ebelle Camp	Isoko South	Delta	5.270	6.281	2	
+Obom Camp	Ndokwa East	Delta	5.963	6.644	2	
+Ezeagba Camp	Ndokwa East	Delta	5.867	6.535	2	
+Ugboaba Camp	Ndokwa East	Delta	5.859	6.532	2	
+Ozala Camp	Ndokwa East	Delta	5.852	6.530	2	
+Akpaekwe Camp	Ndokwa East	Delta	5.846	6.529	2	
+Akunor Camp	Ndokwa East	Delta	5.840	6.529	2	
+Mgbalagwu Camp	Ndokwa East	Delta	5.825	6.588	2	
+Utah Camp	Ndokwa East	Delta	5.792	6.521	2	
+Okwor Camp	Ndokwa East	Delta	5.788	6.514	2	
+Oshede Camp	Ndokwa East	Delta	5.783	6.508	2	
+Egwuali Camp	Ndokwa East	Delta	5.766	6.503	2	
+Enyuku Camp	Ndokwa East	Delta	5.759	6.503	2	
+Ewelem Camp	Ndokwa East	Delta	5.734	6.574	2	
+Itifuru Camp	Ndokwa East	Delta	5.747	6.616	2	
+Ekpete Oma Camp	Ndokwa East	Delta	5.739	6.610	2	
+Akposo Camp	Ndokwa East	Delta	5.735	6.610	2	
+Anieze Camp	Ndokwa East	Delta	5.731	6.612	2	
+Akasia Akpo Camp	Ndokwa East	Delta	5.728	6.607	2	
+Iseato Camp	Ndokwa East	Delta	5.703	6.595	2	
+Isoba Camp	Ndokwa East	Delta	5.723	6.555	2	
+Ukwuisik Camp	Ogba/Egbema/Ndoni	Rivers	5.540	6.592	2	
+Mitin Camp	Ogba/Egbema/Ndoni	Rivers	5.507	6.623	2	
+Bomadi Camp	Ndokwa East	Delta	5.517	6.525	2	
+Torunbubo Camp III	Sagbama	Bayelsa	5.208	6.200	2	
+Urhobo-Camp	Sagbama	Bayelsa	5.223	6.240	2	
+Mukoro Camp	Patani	Delta	5.197	6.197	2	
+Torunbubo Camp I	Patani	Delta	5.202	6.194	2	
+Torunbubo Camp II	Patani	Delta	5.205	6.194	2	
+Gold Camp	Patani	Delta	5.186	6.197	2	
+James Camp	Patani	Delta	5.152	6.090	2	
+Arua Camp II	Sagbama	Bayelsa	5.103	6.125	2	
+Tumgbo Camp I	Sagbama	Bayelsa	5.122	6.165	2	
+Tumgbo Camp II	Sagbama	Bayelsa	5.118	6.165	2	
+Fati-Camp	Sagbama	Bayelsa	5.060	6.066	2	
+Agbaramu Camp	Sagbama	Bayelsa	5.080	6.079	2	
+Arua Camp III	Sagbama	Bayelsa	5.095	6.126	2	
+Arua Camps	Sagbama	Bayelsa	5.082	6.131	2	
+London Camp	Sagbama	Bayelsa	5.057	6.068	2	
+Ogbeni Camp	Sagbama	Bayelsa	5.043	6.087	2	
+Johnson Camp	Southern Ijaw	Bayelsa	5.020	6.084	2	
+Bage Camp	Sagbama	Bayelsa	5.053	6.117	2	
+Amatolo Camp IV	Sagbama	Bayelsa	5.017	6.057	2	
+Okumbiri Camp I	Sagbama	Bayelsa	5.006	6.050	2	
+Okumbiri Camp II	Sagbama	Bayelsa	5.004	6.050	2	
+Obuluru Camp	Southern Ijaw	Bayelsa	5.000	6.083	2	
+Amatolo Camp I	Southern Ijaw	Bayelsa	5.009	6.104	2	
+Amatolo Camp II	Southern Ijaw	Bayelsa	5.011	6.098	2	
+Amatolo Camp III	Southern Ijaw	Bayelsa	5.013	6.093	2	
+Gberude Camp	Southern Ijaw	Bayelsa	5.004	6.090	2	
+Oguobiri Camp	Southern Ijaw	Bayelsa	5.000	6.101	2	
+Isoko Fishing Camp	Kolokuma/Opokuma	Bayelsa	5.032	6.158	2	
+Hwohwokpa Camp	Orhionmwon	Edo	6.355	6.109	2	
+Sogbojaya Camp	Orhionmwon	Edo	6.337	6.095	2	
+Ovbiebo Camp	Orhionmwon	Edo	6.057	6.151	2	
+Ugbolu Camp	Oshimili North	Delta	6.334	6.680	2	Ugbolu
+Obumese Camp	Iguegben	Edo	6.478	6.169	2	
+Anighore Camp	Orhionmwon	Edo	6.349	6.112	2	
+Consin Camp	Orhionmwon	Edo	6.322	6.068	2	
+Suberu Debowa Camp	Orhionmwon	Edo	6.330	6.091	2	
+Umukoro Camp	Orhionmwon	Edo	6.321	6.050	2	
+Ogun Camp	Aniocha South	Delta	6.124	6.372	2	
+Dumez Construction Camp	Onitsha North	Anambra	6.125	6.802	2	
+Charanchi	Charanchi	Katsina	12.602	7.684	2	Agbegbe Ijoba Ibile Charanchi|Caranci|Charanchi Local Government Area
+Calabar Municipal	Calabar Municipal	Cross River	4.991	8.303	2	Calabar Municipal Local Government Area|Calabar Ville|Calabar-Municipal|Kalabar Municipal
+Calabar South	Calabar South	Cross River	4.864	8.336	2	Calabar South Local Government Area|Calabar Sud|Kalabar ta Kudu|Lam Calabar
+Jakusko	Jakusko	Yobe	12.456	10.912	2	Agbegbe Ijoba Ibile Jakusko|Dzakusko|Dzhakusko|Jakuskas|Jakusko Local Government Area|Tzakousko|cakhas kho|jakskko|jakus
+Main Gwa Camp	Bassa	Plateau	9.752	8.662	2	
+Akabee Camp	Gwer East	Benue	7.566	8.470	2	
+N.A.R. Camp Number One	Guma	Benue	7.935	8.606	2	
+Road Camp Number One	Markurdi	Benue	7.790	8.567	2	
+Cayura	Ushongo	Benue	7.264	8.978	2	
+Ibiobio Camp	Southern Ijaw	Bayelsa	4.490	6.028	2	
+Catafu	Gbako	Niger	9.066	5.936	2	
+Ugbiebo Camp	Orhionmwon	Edo	6.157	6.011	2	
+James Camp	Aniocha South	Delta	6.140	6.527	2	
+Carechima	Paikoro	Niger	9.541	7.018	2	
+Yusufu Camp	Etsako West	Edo	6.957	6.273	2	
+Hassan Camp	Etsako West	Edo	6.891	6.349	2	
+Igbirra Camp	Etsako West	Edo	6.838	6.253	2	
+Wire Camp	Etsako West	Edo	6.843	6.375	2	
+Lanamu Camp	Uhunmwonde	Edo	6.600	6.048	2	
+Eni Camp	Esan West	Edo	6.567	6.111	2	
+Emolomen Camp	Esan Central	Edo	6.601	6.202	2	
+Ugbebo Camp	Uhunmwonde	Edo	6.514	6.066	2	
+Ekiha Camp	Esan South-East	Edo	6.603	6.409	2	
+Ago-Orere Camp	Esan South-East	Edo	6.518	6.440	2	
+Okojen Camp	Ekeremor	Bayelsa	4.952	5.682	2	
+Ofuo Camp	Warri South-West	Delta	5.466	5.432	2	
+Arugwato Camps	Warri North	Delta	5.924	5.262	2	
+Folofolo Camps	Warri South-West	Delta	5.655	5.438	2	
+Kuku Camps	Warri South-West	Delta	5.625	5.314	2	
+Akpan Camp	Ekeremor	Bayelsa	4.965	5.645	2	
+Ilaje Camp	Ipokia	Ogun	6.465	2.791	2	
+Ilaje Fishing Camp	Badagry	Lagos	6.438	2.766	2	
+Igbo-Camps	Yewa North	Ogun	6.946	2.839	2	x
+Idosori Camps	Ipokia	Ogun	6.573	2.821	2	
+Tapa Camps	Ado Odo/Ota	Ogun	6.538	2.945	2	
+Kushu Camps	Ado Odo/Ota	Ogun	6.551	2.964	2	
+Tapa Camp	Ado Odo/Ota	Ogun	6.569	2.974	2	
+Seje Camp	Ipokia	Ogun	6.514	2.840	2	
+Egudavi Camps	Ipokia	Ogun	6.549	2.793	2	
+Ago-Calabar	Irele	Ondo	6.475	4.949	2	
+Fulani Camps	Baruten	Kwara	9.014	3.527	2	
+Ijaw Fishing Camp	Southern Ijaw	Bayelsa	4.752	5.797	2	
+Campbell Street	Lagos Island	Lagos	6.446	3.398	1	
+Catholic Mission Street	Lagos Island	Lagos	6.450	3.398	1	
+Calabar - Ikang Road	Calabar Municipal	Cross River	4.963	8.340	1	
+Calabar Road	Calabar Municipal	Cross River	4.966	8.326	1	
+Ahmadu Bello Campus	Sabon Gari	Kaduna	11.153	7.657	1	
+Capital Street	Municipal Area Council	FCT Abuja	9.045	7.501	1	
+Calabar - Itu Road	Odukpani	Cross River	5.177	8.072	1	
+Ribadu Camp Road	Kaduna North	Kaduna	10.509	7.450	1	
+Cameroun Road	Kaduna North	Kaduna	10.566	7.470	1	
+Calabar Street	Kaduna North	Kaduna	10.514	7.425	1	
+Cassey Ave.	Oredo	Edo	6.300	5.600	1	
+Cameroun Road	Kaduna North	Kaduna	10.504	7.427	1	
+Camp Road	Kaduna North	Kaduna	10.512	7.456	1	
+Cactus Street	Ifako/Ijaye	Lagos	6.630	3.334	1	
+Carter Bridge	Lagos Island	Lagos	6.465	3.386	1	
+Walter Carrington Crescent	Eti Osa	Lagos	6.439	3.411	1	
+Calabar - Ikang Rd	Calabar Municipal	Cross River	4.964	8.332	1	
+Calabar Street	Surulere	Lagos	6.498	3.352	1	
+Carter Street	Lagos Mainland	Lagos	6.491	3.382	1	
+Cameron Road	Eti Osa	Lagos	6.459	3.425	1	
+Bankole Cardoso Avenue	Eti Osa	Lagos	6.454	3.438	1	Barrow Avenue
+Davies Offin Canal	Lagos Island	Lagos	6.460	3.384	1	
+Ijora Causeway	Lagos Mainland	Lagos	6.470	3.378	1	
+Ijora Causeway	Apapa	Lagos	6.469	3.368	1	
+CAC Odi Ajaiye Street / Gbenga Adesanya Street	Ifako/Ijaye	Lagos	6.634	3.342	1	
+G. Cappa Estate	Ikeja	Lagos	6.579	3.362	1	
+Captain Olajide George Street	Eti Osa	Lagos	6.446	3.461	1	
+Bendel Calle	Eti Osa	Lagos	6.432	3.433	1	
+Capitol Road	Agege	Lagos	6.616	3.323	1	
+Calcutta Crescent	Apapa	Lagos	6.440	3.365	1	
+Caulcrick Road	Apapa	Lagos	6.446	3.371	1	
+Castle and Temple Drive	Eti Osa	Lagos	6.457	3.479	1	
+Casablanca Street	Municipal Area Council	FCT Abuja	9.077	7.465	1	
+Cairo Street	Municipal Area Council	FCT Abuja	9.074	7.482	1	
+Jimmy Carter Street	Municipal Area Council	FCT Abuja	9.047	7.511	1	
+Cassandra Street	Municipal Area Council	FCT Abuja	9.075	7.498	1	
+Cabinda Street	Municipal Area Council	FCT Abuja	9.064	7.467	1	
+Route Calabar - Ikom	Akamkpa	Cross River	5.678	8.845	1	
+Casco Street	Amuwo Odofin	Lagos	6.445	3.278	1	
+Caroline Odu Street	Alimosho	Lagos	6.562	3.300	1	
+Campground Road	Kosofe	Lagos	6.563	3.374	1	
+Cabilly Street	Enugu East	Enugu	6.484	7.526	1	
+Dr Casmir Orjioke Street	Enugu North	Enugu	6.478	7.481	1	
+Cameroon Lane	Enugu South	Enugu	6.424	7.489	1	
+Carrttarnach Close	Enugu North	Enugu	6.460	7.505	1	
+Carr Street	Enugu North	Enugu	6.441	7.499	1	
+Cathedral Avenue	Enugu North	Enugu	6.438	7.524	1	
+Coal Camp Medical Centre Road	Enugu South	Enugu	6.418	7.477	1	
+Carttarnach Street	Enugu North	Enugu	6.459	7.505	1	
+Carter Street	Enugu North	Enugu	6.440	7.497	1	
+Campus Lll	Enugu North	Enugu	6.430	7.513	1	
+Cabily Close	Enugu East	Enugu	6.483	7.526	1	
+Catholic Avenue	Enugu East	Enugu	6.486	7.534	1	
+Calli-drive	Enugu East	Enugu	6.471	7.597	1	
+Calli James Street	Enugu East	Enugu	6.472	7.596	1	
+Calabar Street	Enugu North	Enugu	6.426	7.479	1	
+Caspian Close	Enugu South	Enugu	6.395	7.492	1	
+Calvary Street	Enugu South	Enugu	6.415	7.527	1	
+Chief Cally Ekenechukwu Close	Enugu East	Enugu	6.508	7.516	1	
+Calvary Close	Ifako/Ijaye	Lagos	6.651	3.338	1	
+Canaan Avenue	Jos South	Plateau	9.849	8.880	1	
+Carr Road	Ibadan North	Oyo	7.444	3.886	1	
+Carver Road	Ibadan North	Oyo	7.445	3.894	1	
+Galtimari Primary School IDP Camp	Jere	Borno	11.805	13.174	1	
+Sam Carol Osunlola Street	Oshodi/Isolo	Lagos	6.506	3.300	1	
+Canal View Drive	Amuwo Odofin	Lagos	6.495	3.291	1	
+Calabar - Itu Road	Odukpani	Cross River	5.167	8.146	1	
+Calabar - Itu Road	Itu	Akwa Ibom	5.178	8.052	1	
+Calabar - Itu Road	Itu	Akwa Ibom	5.181	7.985	1	
+Old Calabar - Itu Road	Itu	Akwa Ibom	5.182	7.985	1	
+Calabar - Itu Road	Itu	Akwa Ibom	5.173	8.018	1	
+CAC Street	Ìkòròdú	Lagos	6.643	3.505	1	
+Mount Carmel Avenue	Ìkòròdú	Lagos	6.627	3.482	1	
+Caspian Way	Eti Osa	Lagos	6.429	3.554	1	
+Cactus Lane	Eti Osa	Lagos	6.495	3.610	1	
+Route Calabar - Ikom	Etung	Cross River	5.722	8.901	1	
+Captain William Iyoho Street	Eti Osa	Lagos	6.461	3.628	1	
+Carter Bridge	Lagos Island	Lagos	6.465	3.386	1	
+Catholic Hospital Road	Ibadan North East	Oyo	7.394	3.921	1	
+Calabar Road	Umuahia North	Abia	5.536	7.496	1	
+Cameroun Street	Umuahia North	Abia	5.533	7.501	1	
+Cameroun Street	Umuahia North	Abia	5.535	7.496	1	
+Calvary street	Alimosho	Lagos	6.497	3.244	1	
+Cardoso street	Mushin	Lagos	6.523	3.353	1	
+Navy Captain Ayeni Road	Yenegoa	Bayelsa	4.926	6.308	1	
+Calabar Street	Yola South	Adamawa	9.284	12.437	1	
+Captain Iniobong Ekong Avenue	Uyo	Akwa Ibom	5.008	7.963	1	
+Chemin de la Cabane	Mariga	Niger	10.855	5.902	1	
+Calabar Road	Calabar Municipal	Cross River	4.958	8.320	1	
+Calabar - Ikang Rd	Calabar Municipal	Cross River	4.973	8.352	1	
+Calistus Udeh	Oshodi/Isolo	Lagos	6.532	3.315	1	
+Captain Akinmona Street	Alimosho	Lagos	6.597	3.257	1	
+Nature Care Road	Eti Osa	Lagos	6.473	3.567	1	
+Caxton Close	Mushin	Lagos	6.517	3.360	1	
+Olawale Cardinal Close	Eti Osa	Lagos	6.486	3.578	1	
+Bade Caster Street	Eti Osa	Lagos	6.485	3.583	1	
+Aina Carew Crescent	Ifo	Ogun	6.680	3.297	1	
+Cardinal Anthony Olubunmi Okogie Road	Eti Osa	Lagos	6.458	3.640	1	
+Canaan Land Street	Eti Osa	Lagos	6.473	3.617	1	
+Kekeno Non Government IDP Camp	Jere	Borno	11.782	13.139	1	
+Cameroun Avenue	Kaduna North	Kaduna	10.561	7.470	1	
+Owena Military Catonment	Akure South	Ondo	7.247	5.146	1	
+Seinde Callisto Street	Oshodi/Isolo	Lagos	6.553	3.342	1	
+Coal Camp Road	Enugu North	Enugu	6.428	7.479	1	
+Campos Street	Lagos Island	Lagos	6.450	3.393	1	
+Canal Avenue	Oshodi/Isolo	Lagos	6.506	3.321	1	
+Caeco Motor Way	Akure South	Ondo	7.252	5.174	1	
+Caroline Street	Warri South	Delta	5.538	5.754	1	
+Carnation Street	Eti Osa	Lagos	6.468	3.619	1	
+Cardinal Anthony Olubunmi Okogie Road	Eti Osa	Lagos	6.470	3.640	1	
+Calabar Street	Kaduna North	Kaduna	10.515	7.425	1	
+Musari Camp	Jere	Borno	11.879	13.261	1	
+GRP. CAPT. U. Jibrin Road	Kaduna North	Kaduna	10.514	7.450	1	
+Ugbori Canal Bridge	Warri South	Delta	5.521	5.731	1	
+Cac Achievers	Oyun	Kwara	8.142	4.740	1	
+Ali Cape Verde	Obio/Akpor	Rivers	4.901	6.908	1	
+Cambridge Avenue	Port-Harcourt	Rivers	4.794	7.050	1	
+Marguerite Cartwright Avenue	Nsukka	Enugu	6.857	7.406	1	
+Calabar Road	Calabar Municipal	Cross River	4.965	8.326	1	
+Catholic Hospital Road	Ibadan North East	Oyo	7.395	3.919	1	
+Calabar - Ikang Road	Calabar Municipal	Cross River	4.965	8.350	1	
+Calabar - Ikang Rd	Calabar Municipal	Cross River	4.992	8.359	1	
+Cayuse Road	Bwari	FCT Abuja	9.261	7.395	1	
+Calabar Street	Uyo	Akwa Ibom	5.029	7.917	1	
+Calabar Lane	Uyo	Akwa Ibom	5.029	7.919	1	
+Cable Road	Bonny	Rivers	4.456	7.172	1	
+Hajj Camp Street	Fagge	Kano	12.024	8.524	1	
+Cape Town Street	Municipal Area Council	FCT Abuja	9.065	7.474	1	
+Cardia Heart Street	Kumbotso	Kano	11.950	8.478	1	
+Capital Street	Municipal Area Council	FCT Abuja	9.046	7.503	1	
+Calabar - Itu Road	Odukpani	Cross River	5.179	8.230	1	
+Calabar - Itu Road	Odukpani	Cross River	5.187	8.297	1	
+Ikot Epkene - Calabar road	Essien Udim	Akwa Ibom	5.152	7.653	1	
+Calabar - Itu Road	Odukpani	Cross River	5.155	8.346	1	
+Nkwo-Mbaise by Cathedral Junction	Ahiazu-Mbaise	Imo	5.515	7.270	1	
+Cajeoleforo Street	Ifako/Ijaye	Lagos	6.652	3.341	1	
+Gubio Road Idp Camp Clinic	Kala-Balge	Borno	12.284	14.469	1	
+400 Housing Estate Gubio Road IDP Camp Clinic B	Maiduguri	Borno	11.906	13.085	1	
+Boarding Primary School IDP Camp	Konduga	Borno	11.666	13.414	1	
+Camino vecinal	Mashegu	Niger	9.750	5.518	1	
+Casanova Street	Zurmi	Zamfara	12.591	6.778	1	
+Candis Rd	Ohaji/Egbema	Imo	5.458	6.776	1	
+Campus 4 Road	Ethiope East	Delta	5.782	6.112	1	
+Carretera	Yola North	Adamawa	9.296	12.230	1	
+Calabar - Itu Road	Odukpani	Cross River	5.178	8.240	1	
+Calabar - Itu Road	Odukpani	Cross River	5.172	8.319	1	
+Main Campus Entrance Route	Ovia North-East	Edo	6.742	5.407	1	
+CA Ogbeche Close	Municipal Area Council	FCT Abuja	9.039	7.546	1	
+Gracefield Causeway	Eti Osa	Lagos	6.465	3.527	1	
+Cameron Road	Eti Osa	Lagos	6.455	3.437	1	
+Main Campus Exit Route	Ovia North-East	Edo	6.742	5.406	1	
 Life Camp Junction	Municipal Area Council	FCT Abuja	9.068	7.404	0	
 Casino	Lagos Mainland	Lagos	6.497	3.380	0	
 Tin Can Island Jetty	Apapa	Lagos	6.433	3.335	0	
@@ -32,9 +371,6 @@ Gods Care Mortuary	Egor	Edo	6.328	5.585	0
 Carolina Specialist Clinic	Enugu East	Enugu	6.482	7.492	0	
 The Calvary Institute Of Technology	Enugu North	Enugu	6.428	7.479	0	
 Carmel Nursery & Primary School	Enugu East	Enugu	6.468	7.505	0	
-Adekunle Fajuyi Cantonement	Akinyele	Oyo	7.447	3.936	2	
-Hajj Camp	Fagge	Kano	12.027	8.524	2	
-Dam Camp	Bwari	FCT Abuja	9.195	7.403	2	
 Ajajari camp	Jere	Borno	11.794	13.182	0	
 Kareto Primary Care Centre	Mobbar	Borno	12.884	12.509	0	
 Gajigana Model Primary Health Care Center	Magumeri	Borno	12.250	13.104	0	
@@ -57,7 +393,7 @@ Primary health care centre Dabire	Argungu	Kebbi	12.570	4.415	0
 Primary health care centre Nagudawa	Tambuwal	Sokoto	12.392	4.755	0	
 Primary health care centre Dabagin Ardo	Dange-Shuni	Sokoto	12.954	5.382	0	
 Rock Canaan bus stop	Ado Odo/Ota	Ogun	6.731	3.269	0	
-ROCK CANAAN	Ado Odo/Ota	Ogun	6.731	3.269	0	CCC ROCK CANAAN
+Rock Canaan	Ado Odo/Ota	Ogun	6.731	3.269	0	CCC ROCK CANAAN
 DSPG, Campus C	Aniocha South	Delta	6.204	6.553	0	
 DSPG, Campus B	Aniocha South	Delta	6.203	6.548	0	
 Calabar International Convention Centre	Odukpani	Cross River	5.043	8.315	0	
@@ -77,7 +413,6 @@ Gongulong Camp IDP Camp	Jere	Borno	11.923	13.188	0
 Yajiwa Camp Kusheri Refugee Site	Jere	Borno	11.789	13.131	0	
 St. Mary's Roman Catholic Mission School I, Ifo	Ifo	Ogun	6.812	3.197	0	
 Primary Health Care Romon Sarki	Tambuwal	Sokoto	12.229	4.602	0	
-Cakawa	Wudil	Kano	11.831	8.883	2	
 Federal Training Center Dalori IDP Camp clinic B	Jere	Borno	11.780	13.224	0	
 Federal Training Center Dalori IDP Camp clinic C	Jere	Borno	11.782	13.227	0	
 Barawa Primary Health Care Centre	Gwoza	Borno	11.054	13.790	0	
@@ -127,23 +462,12 @@ Mount Carmel Maternity	Enugu North	Enugu	6.459	7.522	0
 Mbanugo Bus stop coal camp	Enugu South	Enugu	6.419	7.478	0	
 Caritas University	Enugu East	Enugu	6.504	7.569	0	
 IMT Campus 3	Enugu North	Enugu	6.429	7.517	0	
-Duglas Camp	Sagbama	Bayelsa	5.311	6.341	2	
-Ogbiriasa Camp	Sagbama	Bayelsa	5.293	6.322	2	
-Camp 2	Okehi	Kogi	7.619	6.278	2	
 St Mary's Catholic Hospital, Eleta, Academy, Ibadan	Ibadan South East	Oyo	7.355	3.911	0	
 Oluyoro Catholic Hospital, Oke Ofa, Ibadan	Ibadan North East	Oyo	7.388	3.920	0	
 CAC Oke Imole Maternity Home, Agbeni Ibadan	Ibadan South West	Oyo	7.378	3.888	0	
 2 Div Military Hospital, Odogbo Cantonment, Ojoo	Akinyele	Oyo	7.471	3.918	0	
 Better Life Health Care, Agbowo	Ibadan North	Oyo	7.442	3.909	0	
-Ezi-Ossu Camp	Ohaji/Egbema	Imo	5.612	6.773	2	
-Itsekiri Camp	Ndokwa East	Delta	5.777	6.608	2	
-Urhobo Camp	Ughelli South	Delta	5.189	5.991	2	
-Eziro Camp	Isoko North	Delta	5.486	6.372	2	
-Isuaja Camp	Ndokwa East	Delta	5.689	6.554	2	
-Umuedem Camp	Ndokwa East	Delta	5.691	6.576	2	
-Umugbome Camp	Ndokwa East	Delta	5.698	6.609	2	
 Abacheke Model Primary Health Care Centre	Ohaji/Egbema	Imo	5.498	6.726	0	
-Okpia-Oluchi Camp 6	Ndokwa East	Delta	5.774	6.629	2	
 Primary health care downbase	Jos North	Plateau	9.957	8.851	0	
 Total health care	Jos North	Plateau	9.925	8.882	0	
 Primary Health Care Center	Jos North	Plateau	9.936	8.915	0	
@@ -251,20 +575,17 @@ Good shepherd Catholic church hospital	Kosofe	Lagos	6.601	3.421	0
 Ajegunle Primary Health care Centre	Kosofe	Lagos	6.607	3.431	0	
 calvary medical centre	Kosofe	Lagos	6.606	3.423	0	
 Carry medical clinic	Kosofe	Lagos	6.607	3.421	0	
-DORAYI KARAMA PRIMARY HEALTH CARE	Gwale	Kano	11.965	8.477	0	
+Dorayi Karama Primary Health Care	Gwale	Kano	11.965	8.477	0	
 Babatunde Sanwo-Olu primary health care center Okerube	Alimosho	Lagos	6.529	3.239	0	
 Caring Hands Clinic & Maternity	Jos North	Plateau	9.916	8.921	0	
-Seitoro Camp	Burutu	Delta	5.191	5.558	2	
 Mount Ephraim school, Calabar	Calabar Municipal	Cross River	4.999	8.360	0	
 Capital Oil	Amuwo Odofin	Lagos	6.475	3.294	0	
 Bonny Camp (VI)	Eti Osa	Lagos	6.436	3.405	0	
-Ijaw Fishing Camp	Burutu	Delta	5.441	5.311	2	
 CAC Primary School	Ise/Orun	Ekiti	7.466	5.426	0	
 Unijos Naraguta campus	Bassa	Plateau	9.951	8.812	0	
 St James CAC Schools, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.554	0	
 St. Joseph Centenary Catholic College, Office Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.571	0	
 Dr. Bash Medical Care And Services	Bauchi	Bauchi	10.317	9.819	0	
-Coal Camp	Enugu North	Enugu	6.464	7.457	2	
 Kamo Primary Health Care (PHC Kamo)	Kaltungo	Gombe	9.957	11.344	0	
 Main Campus Gate	Ovia North-East	Edo	6.741	5.410	0	
 capital oil/festac	Amuwo Odofin	Lagos	6.474	3.294	0	
@@ -281,168 +602,22 @@ Life Camp Bus Station	Municipal Area Council	FCT Abuja	9.068	7.403	0
 Canadian Bridge Academy Abuja	Municipal Area Council	FCT Abuja	9.094	7.409	0	
 University of Cross River State, Calabar Main Campus	Calabar South	Cross River	4.931	8.329	0	
 Egge Basic Health Care	Okene	Kogi	7.568	6.194	0	
-Campbell Street	Lagos Island	Lagos	6.446	3.398	1	
-Catholic Mission Street	Lagos Island	Lagos	6.450	3.398	1	
-Campbell Street	Lagos Island	Lagos	6.452	3.393	1	
-Calabar - Ikang Road	Calabar Municipal	Cross River	4.963	8.340	1	
-Calabar Road	Calabar Municipal	Cross River	4.966	8.326	1	
-Ahmadu Bello Campus	Sabon Gari	Kaduna	11.153	7.657	1	
-Capital Street	Municipal Area Council	FCT Abuja	9.045	7.501	1	
-Calabar - Itu Road	Odukpani	Cross River	5.177	8.072	1	
-Ribadu Camp Road	Kaduna North	Kaduna	10.509	7.450	1	
-Cameroun Road	Kaduna North	Kaduna	10.566	7.470	1	
-Calabar Street	Kaduna North	Kaduna	10.514	7.425	1	
 Kaduna Capital School	Kaduna North	Kaduna	10.548	7.466	0	
-Cassey Ave.	Oredo	Edo	6.300	5.600	1	
-Ahmadu Bello Campus	Sabon Gari	Kaduna	11.153	7.655	1	
-Cameroun Road	Kaduna North	Kaduna	10.504	7.427	1	
-Camp Road	Kaduna North	Kaduna	10.512	7.456	1	
 Center for Research and Preventive Health Care	Oredo	Edo	6.339	5.598	0	
-Cactus Street	Ifako/Ijaye	Lagos	6.630	3.334	1	
-Carter Bridge	Lagos Island	Lagos	6.465	3.386	1	
-Walter Carrington Crescent	Eti Osa	Lagos	6.439	3.411	1	
-Calabar - Ikang Rd	Calabar Municipal	Cross River	4.964	8.332	1	
-Calabar Street	Surulere	Lagos	6.498	3.352	1	
-Carter Street	Lagos Mainland	Lagos	6.491	3.382	1	
-Cameron Road	Eti Osa	Lagos	6.459	3.425	1	
-Bankole Cardoso Avenue	Eti Osa	Lagos	6.454	3.438	1	Barrow Avenue
-Davies Offin Canal	Lagos Island	Lagos	6.460	3.384	1	
-Carter Bridge	Lagos Mainland	Lagos	6.468	3.384	1	
-Ijora Causeway	Lagos Mainland	Lagos	6.470	3.378	1	
-Ijora Causeway	Apapa	Lagos	6.469	3.368	1	
-CAC Odi Ajaiye Street / Gbenga Adesanya Street	Ifako/Ijaye	Lagos	6.634	3.342	1	
-G. Cappa Estate	Ikeja	Lagos	6.579	3.362	1	
-Captain Olajide George Street	Eti Osa	Lagos	6.446	3.461	1	
-Bendel Calle	Eti Osa	Lagos	6.432	3.433	1	
-Capitol Road	Agege	Lagos	6.616	3.323	1	
-Calcutta Crescent	Apapa	Lagos	6.440	3.365	1	
-Caulcrick Road	Apapa	Lagos	6.446	3.371	1	
-Castle and Temple Drive	Eti Osa	Lagos	6.457	3.479	1	
 Itidiare Care	Egor	Edo	6.392	5.602	0	
 Yusuf Maitama Sule University Kano, city campus	Kano Municipal	Kano	11.991	8.531	0	
-Casablanca Street	Municipal Area Council	FCT Abuja	9.077	7.465	1	
-Cairo Street	Municipal Area Council	FCT Abuja	9.074	7.482	1	
-Jimmy Carter Street	Municipal Area Council	FCT Abuja	9.047	7.511	1	
-Cassandra Street	Municipal Area Council	FCT Abuja	9.075	7.498	1	
-Cabinda Street	Municipal Area Council	FCT Abuja	9.064	7.467	1	
-Route Calabar - Ikom	Akamkpa	Cross River	5.678	8.845	1	
-Casco Street	Amuwo Odofin	Lagos	6.445	3.278	1	
-Caroline Odu Street	Alimosho	Lagos	6.562	3.300	1	
-Campground Road	Kosofe	Lagos	6.563	3.374	1	
-Cabilly Street	Enugu East	Enugu	6.484	7.526	1	
-Dr Casmir Orjioke Street	Enugu North	Enugu	6.478	7.481	1	
-Cameroon Lane	Enugu South	Enugu	6.424	7.489	1	
-Carrttarnach Close	Enugu North	Enugu	6.460	7.505	1	
-Carr Street	Enugu North	Enugu	6.441	7.499	1	
-Cathedral Avenue	Enugu North	Enugu	6.438	7.524	1	
-Coal Camp Medical Centre Road	Enugu South	Enugu	6.418	7.477	1	
-Carttarnach Street	Enugu North	Enugu	6.459	7.505	1	
-Carter Street	Enugu North	Enugu	6.440	7.497	1	
-Campus Lll	Enugu North	Enugu	6.430	7.513	1	
-Cabily Close	Enugu East	Enugu	6.483	7.526	1	
-Catholic Avenue	Enugu East	Enugu	6.486	7.534	1	
-Calli-drive	Enugu East	Enugu	6.471	7.597	1	
-Calli James Street	Enugu East	Enugu	6.472	7.596	1	
-Calabar Street	Enugu North	Enugu	6.426	7.479	1	
-Caspian Close	Enugu South	Enugu	6.395	7.492	1	
-Calvary Street	Enugu South	Enugu	6.415	7.527	1	
-Chief Cally Ekenechukwu Close	Enugu East	Enugu	6.508	7.516	1	
-Calvary Close	Ifako/Ijaye	Lagos	6.651	3.338	1	
-Canaan Avenue	Jos South	Plateau	9.849	8.880	1	
-Coal Camp	Enugu South	Enugu	6.421	7.482	2	
-Carr Road	Ibadan North	Oyo	7.444	3.886	1	
-Carver Road	Ibadan North	Oyo	7.445	3.894	1	
-Galtimari Primary School IDP Camp	Jere	Borno	11.805	13.174	1	
-Sam Carol Osunlola Street	Oshodi/Isolo	Lagos	6.506	3.300	1	
-Canal View Drive	Amuwo Odofin	Lagos	6.495	3.291	1	
-Calabar - Itu Road	Odukpani	Cross River	5.167	8.146	1	
-Calabar - Itu Road	Itu	Akwa Ibom	5.178	8.052	1	
-Calabar - Itu Road	Itu	Akwa Ibom	5.181	7.985	1	
-Calabar - Itu Road	Itu	Akwa Ibom	5.180	8.058	1	
-Old Calabar - Itu Road	Itu	Akwa Ibom	5.182	7.985	1	
-Calabar - Itu Road	Itu	Akwa Ibom	5.173	8.018	1	
-CAC Street	Ìkòròdú	Lagos	6.643	3.505	1	
-Mount Carmel Avenue	Ìkòròdú	Lagos	6.627	3.482	1	
 Bayero University Kano	Ungongo	Kano	11.964	8.431	0	Bayero University Kano (New Campus)|BUK
-Caspian Way	Eti Osa	Lagos	6.429	3.554	1	
-Cactus Lane	Eti Osa	Lagos	6.495	3.610	1	
 Primary Heath Care Luda	Bauchi	Bauchi	10.045	9.872	0	
-Route Calabar - Ikom	Etung	Cross River	5.722	8.901	1	
-Captain William Iyoho Street	Eti Osa	Lagos	6.461	3.628	1	
 Gamboru Primary Health Care Center	Ngala	Borno	12.370	14.211	0	
-Carter Bridge	Lagos Island	Lagos	6.465	3.386	1	
-Catholic Hospital Road	Ibadan North East	Oyo	7.394	3.921	1	
-Calabar Road	Umuahia North	Abia	5.536	7.496	1	
-Cameroun Street	Umuahia North	Abia	5.533	7.501	1	
-Cameroun Street	Umuahia North	Abia	5.535	7.496	1	
-Calvary street	Alimosho	Lagos	6.497	3.244	1	
-Cardoso street	Mushin	Lagos	6.523	3.353	1	
-Navy Captain Ayeni Road	Yenegoa	Bayelsa	4.926	6.308	1	
 Greensprings School - Lekki Campus	Ibeju Lekki	Lagos	6.464	3.695	0	
 Bonus Pastor (Catholic) Junior Seminar and Secondary School	Ideato North	Imo	5.876	7.094	0	
-Calabar Street	Yola South	Adamawa	9.284	12.437	1	
 Federal University Dutsin Ma - Take off Campus	Dutsin Ma	Katsina	12.473	7.483	0	
-Captain Iniobong Ekong Avenue	Uyo	Akwa Ibom	5.008	7.963	1	
-Chemin de la Cabane	Mariga	Niger	10.855	5.902	1	
 Federal University of Technology, Minna	Bosso	Niger	9.525	6.448	0	Main Campus (Gidan Kwano)
-Calabar Road	Calabar Municipal	Cross River	4.958	8.320	1	
-Calabar - Ikang Rd	Calabar Municipal	Cross River	4.973	8.352	1	
-Calistus Udeh	Oshodi/Isolo	Lagos	6.532	3.315	1	
-Captain Akinmona Street	Alimosho	Lagos	6.597	3.257	1	
-Nature Care Road	Eti Osa	Lagos	6.473	3.567	1	
-Caxton Close	Mushin	Lagos	6.517	3.360	1	
-Olawale Cardinal Close	Eti Osa	Lagos	6.486	3.578	1	
-Bade Caster Street	Eti Osa	Lagos	6.485	3.583	1	
-Aina Carew Crescent	Ifo	Ogun	6.680	3.297	1	
-Cardinal Anthony Olubunmi Okogie Road	Eti Osa	Lagos	6.458	3.640	1	
-Canaan Land Street	Eti Osa	Lagos	6.473	3.617	1	
-Ahmadu Bello Campus	Sabon Gari	Kaduna	11.157	7.652	1	
-Kekeno Non Government IDP Camp	Jere	Borno	11.782	13.139	1	
 ICRC GGSS IDP Camp Clinic	Monguno	Borno	12.678	13.621	0	
 National Ear Care Center	Kaduna North	Kaduna	10.519	7.442	0	
-Cameroun Avenue	Kaduna North	Kaduna	10.561	7.470	1	
 Jajere Maternal And Child Health Care	Fune	Yobe	11.983	11.437	0	
-Owena Military Catonment	Akure South	Ondo	7.247	5.146	1	
-Seinde Callisto Street	Oshodi/Isolo	Lagos	6.553	3.342	1	
-Coal Camp Road	Enugu North	Enugu	6.428	7.479	1	
-Campos Street	Lagos Island	Lagos	6.450	3.393	1	
-Canal Avenue	Oshodi/Isolo	Lagos	6.506	3.321	1	
 King's College "Annex" Victoria Island Campus	Eti Osa	Lagos	6.436	3.427	0	
-Caeco Motor Way	Akure South	Ondo	7.252	5.174	1	
-Caroline Street	Warri South	Delta	5.538	5.754	1	
 New Horizons Nigeria Ikeja Campus	Ikeja	Lagos	6.598	3.340	0	
-Carnation Street	Eti Osa	Lagos	6.468	3.619	1	
-Cardinal Anthony Olubunmi Okogie Road	Eti Osa	Lagos	6.449	3.640	1	
-Cardinal Anthony Olubunmi Okogie Road	Eti Osa	Lagos	6.470	3.640	1	
-Calabar Street	Kaduna North	Kaduna	10.515	7.425	1	
-Musari Camp	Jere	Borno	11.879	13.261	1	
-GRP. CAPT. U. Jibrin Road	Kaduna North	Kaduna	10.514	7.450	1	
-Ugbori Canal Bridge	Warri South	Delta	5.521	5.731	1	
-CAC ACHIEVERS	Oyun	Kwara	8.142	4.740	1	
-Ali Cape Verde	Obio/Akpor	Rivers	4.901	6.908	1	
-Cambridge Avenue	Port-Harcourt	Rivers	4.794	7.050	1	
-Marguerite Cartwright Avenue	Nsukka	Enugu	6.857	7.406	1	
-Calabar Road	Calabar Municipal	Cross River	4.965	8.326	1	
-Calabar - Ikang Rd	Calabar Municipal	Cross River	4.967	8.328	1	
-Catholic Hospital Road	Ibadan North East	Oyo	7.395	3.919	1	
-Calabar - Ikang Road	Calabar Municipal	Cross River	4.963	8.349	1	
-Calabar - Ikang Road	Calabar Municipal	Cross River	4.965	8.350	1	
-Calabar - Ikang Rd	Calabar Municipal	Cross River	4.992	8.359	1	
-Cayuse Road	Bwari	FCT Abuja	9.261	7.395	1	
-Calabar Street	Uyo	Akwa Ibom	5.029	7.917	1	
-Calabar Lane	Uyo	Akwa Ibom	5.029	7.919	1	
-Cable Road	Bonny	Rivers	4.456	7.172	1	
-Hajj Camp Street	Fagge	Kano	12.024	8.524	1	
-Hajj Camp Street	Fagge	Kano	12.027	8.526	1	
-Cape Town Street	Municipal Area Council	FCT Abuja	9.065	7.474	1	
-Cardia Heart Street	Kumbotso	Kano	11.950	8.478	1	
-Capital Street	Municipal Area Council	FCT Abuja	9.046	7.503	1	
-Calabar - Itu Road	Odukpani	Cross River	5.179	8.230	1	
-Calabar - Itu Road	Odukpani	Cross River	5.187	8.297	1	
-Ikot Epkene - Calabar road	Essien Udim	Akwa Ibom	5.152	7.653	1	
-Ikot Epkene - Calabar road	Essien Udim	Akwa Ibom	5.154	7.640	1	
-Calabar - Itu Road	Odukpani	Cross River	5.155	8.346	1	
-Calabar - Itu Road	Itu	Akwa Ibom	5.172	7.998	1	
 Caleb Secondary School	Kosofe	Lagos	6.605	3.376	0	
 Bulabulin Maternal and Child Health Care	Yunusari	Yobe	13.068	12.371	0	
 Dubbol Model Primary Health Care	Fune	Yobe	11.462	11.467	0	
@@ -453,8 +628,6 @@ General Hospital Calabar	Calabar Municipal	Cross River	4.952	8.335	0
 Calabar Municipal Government Headquarters	Calabar Municipal	Cross River	4.974	8.342	0	
 Nigerian Navy Reference Hospital Calabar	Calabar Municipal	Cross River	5.002	8.334	0	NNRH
 Calabar Mall	Calabar Municipal	Cross River	4.960	8.327	0	
-Nkwo-Mbaise by Cathedral Junction	Ahiazu-Mbaise	Imo	5.515	7.270	1	
-Cajeoleforo Street	Ifako/Ijaye	Lagos	6.652	3.341	1	
 Caleb University	Ìkòròdú	Lagos	6.675	3.635	0	
 Agura Primary Health Care Centre	Ìkòròdú	Lagos	6.580	3.628	0	
 St Gerards Catholic Hospital	Kaduna South	Kaduna	10.467	7.422	0	
@@ -471,7 +644,7 @@ Lodiyo Primary Heaith Care	Zaki	Bauchi	12.386	10.579	0
 Lead City University Jericho Campus	Ibadan North West	Oyo	7.400	3.867	0	
 Kesowo Primary Health Care	Jama'Are	Bauchi	11.614	9.872	0	
 Gizaki Community Primary Health Care	Bogoro	Bauchi	9.585	9.650	0	
-PRIMARY HEALTH CARE	Oredo	Edo	6.294	5.565	0	
+Primary Health Care	Oredo	Edo	6.294	5.565	0	
 Maternal and Child Care GH	Warri South	Delta	5.517	5.735	0	
 Lantoro catholic hospital	Abeokuta South	Ogun	7.163	3.363	0	
 Model Primary Health Care Dewu	Kirfi	Bauchi	10.507	10.446	0	
@@ -481,9 +654,6 @@ Mijili Primary Health Care	Hong	Adamawa	10.348	12.976	0
 Sikalmi Primary Health Care	Hong	Adamawa	10.423	12.974	0	
 Development Agency Dzakwa Primary Health Care	Hong	Adamawa	10.360	13.163	0	
 UNICEF GGSS IDP Camp Clinic	Monguno	Borno	12.678	13.621	0	
-Gubio Road Idp Camp Clinic	Kala-Balge	Borno	12.284	14.469	1	
-400 Housing Estate Gubio Road IDP Camp Clinic B	Maiduguri	Borno	11.906	13.085	1	
-Boarding Primary School IDP Camp	Konduga	Borno	11.666	13.414	1	
 Tudun wada Maternityand child health care	Potiskum	Yobe	11.715	11.087	0	
 kodomin primary health care	Demsa	Adamawa	9.457	12.216	0	
 Kodomin health care entrance	Demsa	Adamawa	9.458	12.216	0	
@@ -509,7 +679,6 @@ Wuro Bokki Primary Health Care Center	Fufore	Adamawa	9.391	12.795	0
 Dogon Kuka B Maternal And Child Health Care	Fune	Yobe	11.910	11.059	0	
 Gubana Maternal And Child Health Care	Fune	Yobe	11.563	11.325	0	
 Dogon Kuka A Maternal And Child Health Care	Fune	Yobe	11.668	11.414	0	
-Dubbol Model Primary Health Care	Fune	Yobe	11.463	11.463	0	
 Alagarno Maternal and Child Health Care	Fune	Yobe	11.923	11.639	0	
 Gamu Primary Health Care Center	Ganye	Adamawa	8.265	12.068	0	
 Ganye 1 Primary Health Care Center	Ganye	Adamawa	8.431	12.053	0	
@@ -525,35 +694,16 @@ Jaggu Primary Health Care Center	Jada	Adamawa	8.489	12.191	0
 Arnado Debbo Primary Health Care	Ganye	Adamawa	8.409	12.059	0	
 Gangwoni Health Care	Ganye	Adamawa	8.299	12.236	0	
 Cattle market	Ìkòròdú	Lagos	6.651	3.518	0	
-Camino vecinal	Mashegu	Niger	9.750	5.518	1	
-Casanova Street	Zurmi	Zamfara	12.591	6.778	1	
 Primary Health Care Karshi	Municipal Area Council	FCT Abuja	8.829	7.573	0	
-Candis Rd	Ohaji/Egbema	Imo	5.458	6.776	1	
 Amac Primary Health Care Galadimawa	Municipal Area Council	FCT Abuja	8.992	7.426	0	
-400 Housing Estate Gubio Road IDP Camp Clinic B	Magumeri	Borno	11.910	13.083	1	
-Campus 4 Road	Ethiope East	Delta	5.782	6.112	1	
 Gateway International Airport	Ikenne	Ogun	6.933	3.705	0	Ogun Gateway Agro-Cargo Airport
-Carretera	Yola North	Adamawa	9.296	12.230	1	
-Calabar - Itu Road	Odukpani	Cross River	5.178	8.240	1	
-Calabar - Itu Road	Odukpani	Cross River	5.188	8.261	1	
-Calabar - Itu Road	Odukpani	Cross River	5.162	8.336	1	
-Calabar - Itu Road	Odukpani	Cross River	5.172	8.319	1	
-Federal University of Technology Minna, Bosso Campus	Chanchaga	Niger	9.652	6.526	0	
 Primary health care unit	Gombe	Gombe	10.292	11.166	0	
-Main Campus Entrance Route	Ovia North-East	Edo	6.742	5.407	1	
 Verdic Life Care Hospital	Eti Osa	Lagos	6.432	3.472	0	
-CA Ogbeche Close	Municipal Area Council	FCT Abuja	9.039	7.546	1	
-Gracefield Causeway	Eti Osa	Lagos	6.465	3.527	1	
 Peace Care Clinic	Municipal Area Council	FCT Abuja	9.099	7.410	0	
 casher office	Langtang North	Plateau	9.187	9.878	0	
-Cameron Road	Eti Osa	Lagos	6.455	3.437	1	
-Cardoso street	Mushin	Lagos	6.523	3.356	1	
 University of Nigeria Enugu Campus (UNEC)	Enugu North	Enugu	6.427	7.502	0	
-Main Campus Exit Route	Ovia North-East	Edo	6.742	5.406	1	
 Ihie Ukwu Primary Health Care Center	Ugwunagbo	Abia	5.007	7.309	0	
 Buni Yadi Primary Health Care Center	Gujba	Yobe	11.281	12.002	0	
-UNIVERSITY OF CALABAR INTERNATIONAL DEMONSTRATION SECONDARY SCHOOL	Calabar Municipal	Cross River	4.955	8.348	0	
+University Of Calabar International Demonstration Secondary School	Calabar Municipal	Cross River	4.955	8.348	0	
 Antenatal Care Clinic	Nnewi North	Anambra	5.999	6.880	0	
-UNIVERSITY OF CALABAR INTERNATIONAL DEMONSTRATION SECONDARY SCHOOL	Calabar Municipal	Cross River	4.951	8.356	0	
-Calabar Municipal	Calabar Municipal	Cross River	5.015	8.347	2	
-Calabar South	Calabar South	Cross River	4.853	8.321	2	
+University Of Calabar International Demonstration Secondary School	Calabar Municipal	Cross River	4.951	8.356	0	

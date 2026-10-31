@@ -1,6 +1,37 @@
 Gladimawa	Mai'Adua	Katsina	13.198	8.208	2	
 Ungua Maza	Baure	Katsina	12.806	8.857	2	Gladimawa
 Galadimawa	Baure	Katsina	12.733	8.675	2	Gladimawa
+Same Global Housing Estate	Municipal Area Council	FCT Abuja	8.971	7.441	2	
+Glinya	Konshisha	Benue	7.007	8.831	2	
+Glatsi	Michika	Adamawa	10.587	13.538	2	
+Gladima	Kwami	Gombe	10.392	11.195	2	Galadima
+Freeman Glover	Lagos Mainland	Lagos	6.486	3.383	2	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.061	6.464	1	
+Glover Street	Lagos Island	Lagos	6.455	3.397	1	
+Glover Street	Lagos Mainland	Lagos	6.489	3.383	1	
+Glover Road	Eti Osa	Lagos	6.454	3.434	1	
+His Glory ministry Crescent	Oredo	Edo	6.306	5.577	1	
+Glory S. Street	Eti Osa	Lagos	6.469	3.631	1	
+Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.957	6.768	1	
+Glory Drive	Obio/Akpor	Rivers	4.856	7.020	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.958	6.364	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.006	6.386	1	
+Glover Court	Eti Osa	Lagos	6.452	3.436	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.058	6.670	1	
+Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.978	6.748	1	
+Glover Road	Eti Osa	Lagos	6.452	3.443	1	
+Glory Close	Chikun	Kaduna	10.461	7.439	1	
+Gloryland Street	Okpe	Delta	5.592	5.708	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.643	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.514	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.064	6.526	1	
+glory drive phase 2	Yenegoa	Bayelsa	5.011	6.377	1	
+Glory Drive Phase 2	Yenegoa	Bayelsa	5.040	6.394	1	
+Glorious Close	Uvwie	Delta	5.564	5.755	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.966	6.368	1	
+Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.054	6.433	1	
+Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.062	6.599	1	
+Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.059	6.576	1	
 Glisten Academy	Municipal Area Council	FCT Abuja	9.078	7.402	0	
 Glory Motor Park	Oredo	Edo	6.349	5.632	0	
 Anetosh Global Ltd. Filling Station	Ibadan South East	Oyo	7.356	3.919	0	
@@ -31,48 +62,14 @@ Glory Of God Health Care Centre	Alimosho	Lagos	6.516	3.260	0
 Glasmithkline Company Clinic	Mushin	Lagos	6.555	3.354	0	
 Glory Of God	Akure South	Ondo	7.287	5.153	0	
 Taofiq Amabi Global service	Iwo	Osun	7.644	4.168	0	
-AL-FAUZ GLOBAL COLLEGE	Gwale	Kano	11.968	8.470	0	
+Al-Fauz Global College	Gwale	Kano	11.968	8.470	0	
 Antonico Glorious Academy	Karu	Nasarawa	8.953	7.670	0	
 Adex Global Furniture	Municipal Area Council	FCT Abuja	9.141	7.380	0	
 Global Tech Computers	Municipal Area Council	FCT Abuja	9.110	7.384	0	
 Bridge Global Services Solutions	Municipal Area Council	FCT Abuja	9.076	7.399	0	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.061	6.464	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.062	6.451	1	
 Globa Medical Clinic	Oredo	Edo	6.342	5.609	0	
-Glover Street	Lagos Island	Lagos	6.455	3.397	1	
-Glover Street	Lagos Mainland	Lagos	6.489	3.383	1	
-Glover Road	Eti Osa	Lagos	6.454	3.434	1	
-His Glory ministry Crescent	Oredo	Edo	6.306	5.577	1	
-Glory S. Street	Eti Osa	Lagos	6.469	3.631	1	
-Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.957	6.768	1	
-Glory Drive	Obio/Akpor	Rivers	4.856	7.020	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.958	6.364	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.006	6.386	1	
-Glover Court	Eti Osa	Lagos	6.452	3.436	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.058	6.670	1	
-Glory Land Drive Roundabout to East West Road	Emuoha	Rivers	4.978	6.748	1	
 Glorious flow filling station	Obio/Akpor	Rivers	4.876	6.915	0	
-Glover Road	Eti Osa	Lagos	6.452	3.443	1	
-Glory Close	Chikun	Kaduna	10.461	7.439	1	
-Glover Road	Eti Osa	Lagos	6.457	3.425	1	
-Gloryland Street	Okpe	Delta	5.592	5.708	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.071	6.645	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.514	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.064	6.526	1	
-glory drive phase 2	Yenegoa	Bayelsa	5.011	6.377	1	
-Glory Drive Phase 2	Yenegoa	Bayelsa	5.040	6.394	1	
-Glorious Close	Uvwie	Delta	5.564	5.755	1	
-Same Global Housing Estate	Municipal Area Council	FCT Abuja	8.971	7.441	2	
 Glen Eagles Hospital	Eti Osa	Lagos	6.428	3.415	0	
 Global Rayfield Medical Center	Port-Harcourt	Rivers	4.790	7.040	0	
 GloryLand Hospital and Maternity	Yenegoa	Bayelsa	4.953	6.356	0	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.964	6.368	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.966	6.368	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	4.978	6.369	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.066	6.446	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.066	6.443	1	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.054	6.433	1	
 Glory Land Academy	Jos North	Plateau	9.863	8.863	0	
-Glory Land Drive Roundabout to East West Road	Yenegoa	Bayelsa	5.044	6.411	1	
-Glory Land Drive Roundabout to East West Road	Ahoada East	Rivers	5.062	6.599	1	
-Glory Land Drive Roundabout to East West Road	Ahoada West	Rivers	5.059	6.576	1	

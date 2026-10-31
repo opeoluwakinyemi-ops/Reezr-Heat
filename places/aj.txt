@@ -1,3 +1,15 @@
+Ajagba	Ese Odo	Ondo	6.424	4.923	3	Ajagbe
+Ajah	Eti Osa	Lagos	6.470	3.562	3	
+Ajasse Ipo	Irepodun	Kwara	8.242	4.811	3	
+Ajalli	Orumba North	Anambra	6.045	7.211	3	Ujari;Ujali;Ujalli
+Ajingi	Ajingi	Kano	11.968	9.037	3	Zango
+Ajaokuta	Ajaokuta	Kogi	7.564	6.629	3	
+Ajio	Kwande	Benue	6.806	9.216	3	
+Aji	Oru West	Imo	5.761	6.917	3	
+Ajaawa	Ogo Oluwa	Oyo	7.931	4.127	3	Ajawa|Ajowa
+Ajaka	Igalamela-Odolu	Kogi	7.174	6.825	3	
+Ajegunle	Ajeromi/Ifelodun	Lagos	6.452	3.331	3	
+Ajeromi	Ajeromi/Ifelodun	Lagos	6.450	3.330	2	
 Ajasolo	Sapele	Delta	5.790	5.578	2	
 Ajebandele	Ejigbo	Osun	7.784	4.337	2	
 Aje	Iwo	Osun	7.650	4.117	2	Ajayi
@@ -26,7 +38,6 @@ Ajegunel	Idanre	Ondo	7.085	5.248	2	Ajegunle
 Ajaso	Etung	Cross River	5.841	8.856	2	
 Ajagase	Ola Oluwa	Osun	7.833	4.217	2	Ajaga-Ase
 Ajide	Okpokwu	Benue	7.126	7.906	2	Ajede
-Ajaka	Igalamela-Odolu	Kogi	7.171	6.827	2	
 Ajibo	Badagry	Lagos	6.483	2.917	2	Ajibo;Ajido
 Ajaguyibe	Okpe	Delta	5.782	5.874	2	
 Ungwan Ma Aji	Igabi	Kaduna	10.584	7.494	2	
@@ -46,13 +57,10 @@ Bada Ajegunle	Ilorin South	Kwara	8.417	4.717	2
 Ajinopa	Ori Ire	Oyo	8.300	4.250	2	Ajinawpa
 Ajebamibo	Ondo West	Ondo	7.083	4.667	2	
 Garuba	Olorunsogo	Oyo	8.867	4.050	2	Ajano
-Ajagba	Ese Odo	Ondo	6.424	4.923	3	Ajagbe
-Ajah	Eti Osa	Lagos	6.470	3.562	3	
 Ala-Ajagbusin	Idanre	Ondo	7.084	5.363	2	Ala-Ajagbusi;Igbatoro
 Ewu Ebi	Ìkòròdú	Lagos	6.550	3.517	2	Ajebaw
 Aja Pepe	Warri South-West	Delta	5.606	5.336	2	
 Ajobo	Akinyele	Oyo	7.654	3.864	2	Ajawbaw
-Ajasse Ipo	Irepodun	Kwara	8.242	4.811	3	
 Ajegunle	Ifelodun	Kwara	8.467	4.904	2	
 Ajatition	Warri South-West	Delta	5.596	5.277	2	Ajatiton;Ajatito;Opuraja
 Ajegunle	Obafemi Owode	Ogun	6.964	3.332	2	
@@ -76,7 +84,6 @@ Ajibade	Akinyele	Oyo	7.569	3.886	2	Ajibawde
 Tunga Ajiya	Agwara	Niger	10.820	4.700	2	
 Gidan Ajah	Binji	Sokoto	13.169	4.850	2	
 Ajigin Bulabulin	Damboa	Borno	11.169	12.284	2	Ajigin
-Ajalli	Orumba North	Anambra	6.045	7.211	3	Ujari;Ujali;Ujalli
 Ajaokuta	Ajaokuta	Kogi	7.463	6.694	2	
 Ojantelle	Apa	Benue	7.741	7.882	2	Ajantele;Ojanteile
 Ajebo	Ìkòròdú	Lagos	6.650	3.600	2	Ajebaw
@@ -89,8 +96,6 @@ Aje	Ogo Oluwa	Oyo	8.017	4.217	2	Bemiro
 Ajitadun	Odeda	Ogun	7.283	3.300	2	Ajitaladun
 Ajurawa	Rabah	Sokoto	13.027	5.738	2	
 Ajovwuni Ugbevwe	Ethiope West	Delta	5.879	5.811	2	Ajavwuni Ugbevwe
-Ajaokuta Indian Language School	Ajaokuta	Kogi	7.557	6.601	0	
-Ajingi	Ajingi	Kano	11.968	9.037	3	Zango
 Ajiri	Mafa	Borno	11.974	13.712	2	
 Modu Ajiri	Jere	Borno	11.862	13.219	2	
 Azir	Damboa	Borno	11.046	12.648	2	Ajir
@@ -121,7 +126,6 @@ Sheriff Ajiri	Magumeri	Borno	12.288	12.688	2
 Ajiramti	Magumeri	Borno	12.155	13.042	2	
 Tuba Ajus	Jere	Borno	12.130	13.164	2	
 Modu Ajiri	Jere	Borno	11.944	13.096	2	
-Ajajari camp	Jere	Borno	11.794	13.182	0	
 Mallam Ajiramti	Gubio	Borno	12.677	12.714	2	
 Aji Kaumari	Gubio	Borno	12.904	12.751	2	
 Ajibairi	Magumeri	Borno	12.169	12.791	2	
@@ -142,14 +146,11 @@ Aji Kartari	Nganzai	Borno	12.552	13.370	2
 Ajiwa	Marte	Borno	12.354	13.813	2	
 Ajari	Mafa	Borno	12.113	13.906	2	
 Gavaya Ma'Aji	Mafa	Borno	11.793	13.769	2	
-Ajiri Health Clinic	Konduga	Borno	11.660	13.114	0	
 Zira Ma'aji	Biu	Borno	10.812	12.204	2	
 Ajari Shuwa	Chibok	Borno	10.876	12.694	2	
 Ajavip	Chibok	Borno	10.853	12.756	2	
 Ajawa	Bama	Borno	11.448	13.913	2	
-Ajigin Mairi Health Clinic	Damboa	Borno	11.171	12.287	0	
 Goni Abba Ajiri	Gubio	Borno	12.588	12.706	2	
-Ajao Estate main entrance	Oshodi/Isolo	Lagos	6.552	3.329	0	
 Ajidalari	Monguno	Borno	12.714	13.528	2	
 Abba Ajiri	Monguno	Borno	12.549	13.505	2	
 Goni Ajiri	Kukawa	Borno	12.840	13.553	2	
@@ -157,68 +158,579 @@ Aida Kura'am Ajidiri	Kukawa	Borno	12.812	13.537	2
 Ajimiri	Guzamala	Borno	12.723	13.460	2	
 Ka Ajiri	Jere	Borno	11.754	13.243	2	
 Ajiri Lawanti	Konduga	Borno	11.661	13.115	2	
-Ajaokuta	Ajaokuta	Kogi	7.564	6.629	3	
-Ajaokuta Station	Ajaokuta	Kogi	7.441	6.626	0	
-Ajowa Market	Akoko North West	Ondo	7.681	5.906	0	
-Ajiyoko Market	Ọ̀wọ̀	Ondo	7.168	5.625	0	
-Ajue Market	Odigbo	Ondo	6.895	4.854	0	
-Ajagba Market	Ese Odo	Ondo	6.427	4.922	0	
-Iworo Ajido Jetty	Badagry	Lagos	6.414	3.008	0	
-A.M. Ajigoni	Akko	Gombe	10.291	11.110	0	
-Ajiua Health Centre	Girei	Adamawa	9.278	12.459	0	
 Ajumawa	Dambatta	Kano	12.476	8.509	2	
 Unguwar Ajuji	Bunkure	Kano	11.655	8.525	2	
-Community Primary School, Wasimi Ajibawo	Ifo	Ogun	6.692	3.367	0	
-United African Primary School, Ajegunle Ota	Ifo	Ogun	6.711	3.307	0	
-United African Primary School, Ajibode Konifewo	Ado Odo/Ota	Ogun	6.712	3.231	0	
-Local Government Primary School, Ajerogun	Ado Odo/Ota	Ogun	6.617	3.087	0	
-St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ifo	Ogun	6.683	3.321	0	
-Local Government Primary School, Ajeregun	Shagamu	Ogun	6.851	3.642	0	
-Communty Primary School, Ago-Ajeri	Ifo	Ogun	6.700	3.303	0	
-Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.684	3.300	0	
-Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.831	3.195	0	
-Communty Primary School, Ago-Ajeri	Ifo	Ogun	6.751	3.273	0	
-Local Government Primary School, Ajeregun	Shagamu	Ogun	6.735	3.487	0	
-United African Primary School, Ajibode Konifewo	Ado Odo/Ota	Ogun	6.726	3.195	0	
-Community Primary School, Wasimi Ajibawo	Ado Odo/Ota	Ogun	6.671	3.058	0	
-United African Primary School, Ajegunle Ota	Ado Odo/Ota	Ogun	6.651	3.061	0	
-St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ado Odo/Ota	Ogun	6.583	3.024	0	
-Local Government Primary School, Ajerogun	Ado Odo/Ota	Ogun	6.581	3.048	0	
-Ajio Community Secondary School, Ajio,	Kwande	Benue	6.797	9.210	0	
-Ajio	Kwande	Benue	6.806	9.216	3	
 Aji-Obe	Etsako Central	Edo	6.816	6.588	2	
-Destiny Model Academy Ajigo	Jos North	Plateau	9.971	8.859	0	
-Aje International Market, Ido-Osun	Egbedore	Osun	7.790	4.499	0	
 Ajamimogha	Warri South	Delta	5.528	5.739	2	
 Ogun-Aja	Sapele	Delta	5.901	5.668	2	
-Iworo Ajido Model College	Badagry	Lagos	6.437	2.974	0	
-Ajiboye Clinic And Maternity Home	Alimosho	Lagos	6.578	3.281	0	
-Ajoke Clinic	Mushin	Lagos	6.522	3.346	0	
-Ajegunle Primary Health care Centre	Kosofe	Lagos	6.607	3.431	0	
 Aja-Etan	Warri South	Delta	5.557	5.690	2	
 Ajatiton	Ekeremor	Bayelsa	4.859	5.693	2	
-Oke Ira Nla (Ajah)	Eti Osa	Lagos	6.491	3.579	0	
-Aji	Oru West	Imo	5.761	6.917	3	
-Ayedere Ajibola Junior Secoundary School	Kosofe	Lagos	6.609	3.388	0	
-Ayedere Ajibola Sernior High School.	Kosofe	Lagos	6.607	3.388	0	
-Ose Olohun Petroleum Nig. Ltd., Ipo, Ajasse, Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.468	4.568	0	
-Ganmo Market, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin South	Kwara	8.419	4.607	0	
-Yusjib Industrial Medicare, Ajasse-Ipo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.461	4.575	0	
-RAINOIL LIMITED, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.449	4.584	0	
-ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0	
-Roemichs international school Ajase-Ipo Road, Offa Garage, Ilorin	Ilorin East	Kwara	8.459	4.576	0	
-Ajegunle	Ajeromi/Ifelodun	Lagos	6.448	3.333	2	
 Aja-Udaibo	Warri South-West	Delta	5.598	5.207	2	
 Okun-Ajah	Eti Osa	Lagos	6.427	3.593	2	
 Ajao Estate	Oshodi/Isolo	Lagos	6.546	3.324	2	
-number 1 (ajegunle) waterside	Ajeromi/Ifelodun	Lagos	6.446	3.350	0	
-number 2 (ajegunle) waterside/kumuyi street(ajegunle)	Ajeromi/Ifelodun	Lagos	6.448	3.351	0	
-mogaji (ajegunle)	Ajeromi/Ifelodun	Lagos	6.446	3.350	0	
-number 3 (ajegunle) waterside	Ajeromi/Ifelodun	Lagos	6.450	3.351	0	
-Ajangbadi Junior High School	Ojo	Lagos	6.474	3.179	0	
-Ajara Grammar School	Badagry	Lagos	6.437	2.897	0	
 Papa Ajao	Mushin	Lagos	6.541	3.347	2	
-Ajaka Comprehensive Health Centre	Igalamela-Odolu	Kogi	7.176	6.825	0	
+Ajamimogha Community	Warri South	Delta	5.526	5.736	2	
+Ogun-Aja	Sapele	Delta	5.891	5.666	2	
+Ajaura	Taura	Jigawa	12.288	9.531	2	
+Ajumawa	Dambatta	Kano	12.481	8.493	2	
+Ajiwa	Batagarawa	Katsina	12.972	7.697	2	
+Ajaokuta	Ajaokuta	Kogi	7.498	6.576	2	
+Ajigin B	Damboa	Borno	11.247	12.260	2	
+Ajigin A	Damboa	Borno	11.106	12.339	2	
+Ajiri	Mafa	Borno	11.819	13.660	2	
+Ajili	Misau	Bauchi	11.353	10.561	2	
+Ajeromi/Ifelodun	Ajeromi/Ifelodun	Lagos	6.455	3.336	2	
+Ajiri	Konduga	Borno	11.662	13.203	2	
+Umu Ajuju	Osisioma Ngwa	Abia	5.267	7.383	2	
+Umu Aja	Obi Ngwa	Abia	5.113	7.525	2	Aja|Akata
+Umu Aja	Ugwunagbo	Abia	5.015	7.387	2	
+Tungan-Ajiya	Magama	Niger	10.222	4.722	2	
+Tse-Ajom	Konshisha	Benue	7.296	8.574	2	
+Oyi-Ajegunle	Ifelodun	Kwara	8.508	4.824	2	Oyi Ajegunle
+Opuraja	Warri South-West	Delta	5.595	5.295	2	Ajatiton
+Okoto Ajegunle	Shagamu	Ogun	6.800	3.617	2	
+Ajibabi-Olokuta	Yewa South	Ogun	6.804	2.883	2	Ajibabi|Olokuta
+Odomu-Ajegunle	Ìsẹ́yìn	Oyo	7.944	3.637	2	Odomu Ajegunle|OdomuAjegunle
+Kampa Ma’aji	Tudun Wada	Kano	11.348	8.669	2	
+Itoko-Ajegunle	Odeda	Ogun	7.214	3.479	2	Itoko Ajegunle
+Iluaje	Afijio	Oyo	7.750	3.885	2	Aje|Ile-Aje
+Ijado Ajegunle	Afijio	Oyo	7.756	4.005	2	
+Igbo-Aje	Ori Ire	Oyo	8.101	4.063	2	Igbo Aje
+Igbo-Aje	Atiba	Oyo	8.064	3.878	2	Igbo Aje
+Igbo-Aje	Abeokuta North	Ogun	7.321	3.048	2	Igbo Aje
+Hamma Aji	Shani	Borno	10.053	12.054	2	
+Gidan Aji	Kurmi	Taraba	7.185	10.262	2	
+Faskar Ma’aji	Tudun Wada	Kano	11.300	8.375	2	
+Eko-Ajala	Ifelodun	Osun	7.943	4.621	2	Eko Ajala
+Ejirawo	Ikom	Cross River	6.097	8.592	2	Ajiriwo
+Dan Ajiwa	Bodinga	Sokoto	12.931	5.167	2	
+Budo-Ode Ajado	Ori Ire	Oyo	8.583	4.041	2	Budo Ode Ajado
+Bashorun Yemoja Ajiga	Afijio	Oyo	7.841	4.065	2	
+Balogun Ajikobi	Moro	Kwara	8.741	4.405	2	
+Bada Ajegunle	Ilorin South	Kwara	8.408	4.717	2	
+Atan-Ajanaku	Yewa North	Ogun	7.341	2.956	2	Atan Ajanaku
+Araromi-Ajana	Yewa North	Ogun	7.170	2.950	2	Araromi Ajana
+Ama Aji	Omumma	Rivers	5.155	7.250	2	
+Akerun Ajibode	Yewa North	Ogun	6.859	2.809	2	Ajibode
+Ajuwon	Ìsẹ́yìn	Oyo	7.687	3.386	2	
+Ajura	Garki	Jigawa	12.484	8.941	2	
+Ajumo	Ogun Waterside	Ogun	6.367	4.383	2	
+Ajule	Egbeda	Oyo	7.385	4.048	2	
+Ajukum	Gwer East	Benue	7.430	8.242	2	
+Ajue	Odigbo	Ondo	6.895	4.856	2	
+Ajuba	Ibarapa East	Oyo	7.477	3.380	2	
+Ajua	Konshisha	Benue	7.041	8.562	2	
+Ajoraku	Markurdi	Benue	7.761	8.475	2	
+Ajonloku	Ona Ara	Oyo	7.267	4.017	2	
+Ajomo	Surulere	Oyo	8.070	4.346	2	
+Ajombadi	Ori Ire	Oyo	8.049	4.044	2	
+Ajombadi	Atiba	Oyo	8.020	4.023	2	
+Ajolojo	Yewa South	Ogun	6.731	2.932	2	
+Ajoko	Irepodun	Kwara	8.083	4.800	2	
+Ajogun	Ola Oluwa	Osun	7.769	4.271	2	
+Ajobo Isale	Akinyele	Oyo	7.650	3.867	2	
+Ajo	Keana	Nasarawa	8.239	8.681	2	
+Ajo	Egbedore	Osun	7.876	4.394	2	
+Ajo	Aiyedade	Osun	7.400	4.336	2	
+Ajiyongu	Gboko	Benue	7.370	8.620	2	
+Ajiya	Jada	Adamawa	8.527	12.276	2	
+Ajiwogbo	Lagelu	Oyo	7.483	4.117	2	
+Ajiwogbo	Lagelu	Oyo	7.483	4.050	2	
+Ajiwa	Batagarawa	Katsina	12.961	7.741	2	
+Ajitata	Ankpa	Kogi	7.545	7.747	2	
+Ajitata	Igalamela-Odolu	Kogi	7.035	7.074	2	Agitata
+Ajise	Ipokia	Ogun	6.612	2.858	2	
+Ajisawe	Asa	Kwara	8.430	4.379	2	
+Ajisaiye	Moro	Kwara	8.791	4.293	2	
+Ajirri	Yakurr	Cross River	5.917	8.100	2	
+Ajiroba	Atiba	Oyo	8.025	3.962	2	
+Ajiyan	Imeko Afon	Ogun	7.479	2.815	2	Ajirin
+Ajiri	Mafa	Borno	12.095	13.457	2	
+Ajir	Damboa	Borno	11.046	12.648	2	
+Ajipa	Lagelu	Oyo	7.580	4.080	2	
+Ajiolo	Dekina	Kogi	7.579	7.097	2	Ajiyolo
+Ajio	Gboko	Benue	7.422	8.625	2	
+Ajio	Ewekoro	Ogun	6.850	3.200	2	
+Ajinopa	Ori Ire	Oyo	8.255	4.225	2	
+Ajimasin	Asa	Kwara	8.602	4.395	2	
+Ajimaje	Ovia South-West	Edo	6.150	5.233	2	Ajemaje
+Ajilonla	Irewole	Osun	7.445	4.228	2	
+Ajilete	Odeda	Ogun	7.279	3.485	2	
+Ajilete	Yewa South	Ogun	6.701	2.925	2	Ajillete
+Ajila	Oluyole	Oyo	7.226	3.868	2	
+Ajikosun	Irewole	Osun	7.411	4.288	2	
+Ajiko	Ovia South-West	Edo	6.175	5.230	2	
+Ajikemai	Langtang South	Plateau	8.676	9.658	2	
+Ajigin	Damboa	Borno	11.169	12.283	2	
+Ajigbala	Aiyedire	Osun	7.512	4.254	2	
+Ajieru	Dekina	Kogi	7.516	7.112	2	Ajioro
+Ajiere	Ovia South-West	Edo	6.167	5.267	2	
+Ajido	Badagry	Lagos	6.417	3.017	2	
+Ajide	Okpokwu	Benue	7.127	7.894	2	Ajede
+Ajiboye	Ife North	Osun	7.407	4.438	2	
+Ajibowu	Asa	Kwara	8.498	4.343	2	
+Ajibowu	Ori Ire	Oyo	8.520	4.069	2	
+Ajiboro	Yewa North	Ogun	7.369	2.907	2	
+Ajiboro	Aiyedade	Osun	7.269	4.323	2	
+Ajibola	Ido	Oyo	7.521	3.629	2	
+Ajibodu	Ife Central	Osun	7.603	4.550	2	
+Ajibo	Aiyedade	Osun	7.474	4.279	2	
+Ajido-Elikiti	Badagry	Lagos	6.479	2.916	2	Ajibo|Ajido
+Ajibi	Ibarapa North	Oyo	7.602	3.319	2	
+Ajibawo	Ado Odo/Ota	Ogun	6.675	3.049	2	
+Ajibaji	Markurdi	Benue	7.674	8.541	2	
+Ajibade	Afijio	Oyo	7.742	3.726	2	
+Ajibade	Ibeju Lekki	Lagos	6.449	3.747	2	
+Ajiba	Kubau	Kaduna	11.031	8.374	2	
+Ajia-Abo	Konshisha	Benue	7.015	8.544	2	
+Ajia	Musawa	Katsina	12.023	7.790	2	
+Ajia	Markurdi	Benue	7.756	8.622	2	
+Ajia	Ona Ara	Oyo	7.341	4.028	2	
+Aji	Tafa	Niger	9.292	7.326	2	
+Aji	Ushongo	Benue	7.165	8.821	2	
+Ajetowa	Irepo	Oyo	8.999	3.929	2	
+Ajetola	Wukari	Taraba	7.847	10.007	2	
+Ajerogun	Ado Odo/Ota	Ogun	6.583	3.050	2	
+Ajero	Abeokuta North	Ogun	7.248	3.289	2	
+Ajeregun	Ijebu North	Ogun	6.924	3.803	2	
+Agyaragun-Koro	Lafia	Nasarawa	8.525	8.667	2	Ajeragu
+Ajer	Ushongo	Benue	7.098	8.867	2	
+Ajeninsua	Iwo	Osun	7.698	4.117	2	
+Ajenifuja	Abeokuta North	Ogun	7.273	3.070	2	
+Ajengbe	Irepodun	Kwara	8.117	4.833	2	
+Ajelende	Surulere	Oyo	8.199	4.353	2	
+Ajelende	Ipokia	Ogun	6.777	2.761	2	
+Ajelanwa	Moro	Kwara	8.712	4.220	2	
+Ajelanwa	Asa	Kwara	8.644	4.240	2	
+Ajelanwa	Oyun	Kwara	8.131	4.553	2	
+Ajelanwa	Ejigbo	Osun	7.883	4.200	2	
+Ajelanwa	Imeko Afon	Ogun	7.473	2.995	2	
+Ajelanwa	Yewa South	Ogun	6.783	2.950	2	
+Ajelanwa	Ado Odo/Ota	Ogun	6.709	3.061	2	
+Ajekwe	Ushongo	Benue	7.119	8.969	2	
+Ajekora	Imeko Afon	Ogun	7.505	2.876	2	
+Ajeke	Apa	Benue	7.428	7.850	2	
+Ajeja	Ogbomosho North	Oyo	8.107	4.288	2	
+Ajeja	Akinyele	Oyo	7.623	3.865	2	
+Aje-Ibon	Ibarapa North	Oyo	7.520	3.103	2	Aje Ibon|AjeIbon
+Ajegunlere	Oyo West	Oyo	7.978	3.794	2	
+Ajegunle-Jankiri	Oyun	Kwara	8.145	4.560	2	Ajegunle Jankiri|AjegunleJankiri
+Ajegunle-Gbala	Ori Ire	Oyo	8.543	4.023	2	Ajegunle Gbala
+Ajegunle-Awa	Ijebu North	Ogun	7.004	3.920	2	Ajegunle Awa
+Ajegunle	Ori Ire	Oyo	8.589	4.010	2	
+Ajegunle	Ifelodun	Kwara	8.479	4.905	2	
+Ajegunle	Ori Ire	Oyo	8.310	4.382	2	
+Ajegunle	Ori Ire	Oyo	8.311	4.302	2	
+Ajegunle	Ogbomosho North	Oyo	8.174	4.219	2	
+Ajegunle	Ogbomosho North	Oyo	8.079	4.313	2	
+Ajegunle	Ori Ire	Oyo	8.080	4.135	2	
+Ajegunle	Iwajowa	Oyo	7.872	3.232	2	
+Ajegunle	Ìsẹ́yìn	Oyo	7.746	3.319	2	
+Ajegunle	Ibarapa East	Oyo	7.648	3.448	2	
+Ajegunle	Imeko Afon	Ogun	7.491	3.038	2	
+Ajegunle	Yewa North	Ogun	7.317	2.903	2	
+Ajegunle	Odeda	Ogun	7.267	3.481	2	
+Ajegunle	Aiyedade	Osun	7.143	4.338	2	
+Ajegunle	Ewekoro	Ogun	6.883	3.133	2	
+Ajegunle	Obafemi Owode	Ogun	6.870	3.343	2	
+Ajegunle	Ifo	Ogun	6.850	3.083	2	
+Ajegunle	Ifo	Ogun	6.767	3.183	2	
+Ajegunle	Irele	Ondo	6.714	5.093	2	
+Ajegunle	Ado Odo/Ota	Ogun	6.645	3.059	2	
+Ajegbenwa	Ibeju Lekki	Lagos	6.521	3.813	2	
+Ajede-Balogun	Ijebu North	Ogun	7.115	4.065	2	Ajede Balogun
+Ajebo	Epe	Lagos	6.644	3.770	2	Odo
+Ajebandele	Ogbomosho North	Oyo	8.078	4.294	2	
+Ajebandele	Ife South	Osun	7.365	4.612	2	
+Ajebandele	Aiyedade	Osun	7.183	4.337	2	
+Ajebandele	Ijebu East	Ogun	6.735	4.400	2	
+Ajebamidele	Ijebu North	Ogun	7.063	4.174	2	Ajebandele Nugba
+Ajebambo	Ondo West	Ondo	6.934	4.757	2	
+Aje	Ori Ire	Oyo	8.279	4.280	2	
+Aje	Akinyele	Oyo	7.550	3.967	2	
+Aje	Aiyedire	Osun	7.530	4.289	2	
+Aye	Imeko Afon	Ogun	7.457	2.987	2	Abule Aja|Aje
+Aje	Gwer East	Benue	7.344	8.176	2	
+Ajayibo	Orhionmwon	Edo	5.783	5.907	2	
+Ajaver	Markurdi	Benue	7.820	8.606	2	
+Ajav	Awe	Nasarawa	8.295	9.023	2	
+Ajav	Konshisha	Benue	7.033	8.515	2	
+Ajaura	Taura	Jigawa	12.334	9.576	2	
+Ajatitor	Warri South	Delta	5.576	5.687	2	
+Ajatiton	Ekeremor	Bayelsa	4.873	5.722	2	
+Ajata-Okwuru	Umuahia North	Abia	5.535	7.544	2	
+Ajata-Isieke	Umuahia North	Abia	5.545	7.530	2	
+Ajasse Ipo	Irepodun	Kwara	8.233	4.817	2	Ajasse
+Ajase	Surulere	Oyo	8.210	4.406	2	Ajashe
+Ajarugba	Obi	Nasarawa	8.357	8.511	2	
+Ajara-Agarrabe	Badagry	Lagos	6.443	2.887	2	Ajara|Ajara Agamaden
+Ajaoluna	Warri North	Delta	5.824	5.110	2	
+Ajaokuta	Ajaokuta	Kogi	7.562	6.655	2	QJK
+Ajao	Oluyole	Oyo	7.262	3.855	2	
+Ajao	Ona Ara	Oyo	7.253	4.052	2	
+Ajanta	Ushongo	Benue	7.107	8.986	2	
+Ajanla	Oluyole	Oyo	7.232	3.821	2	
+Ajangboju	Ifo	Ogun	6.750	3.317	2	
+Ajangbala	Moro	Kwara	8.805	4.488	2	
+Ajangara	Shira	Bauchi	11.456	9.966	2	
+Ajana Sangawun	Ibarapa East	Oyo	7.514	3.358	2	
+Ajanaku	Asa	Kwara	8.683	4.302	2	
+Ajana-Igbo-Ora	Ibarapa North	Oyo	7.512	3.334	2	Ajana Igbo Ora|AjanaIgboOra
+Ajana-Iberekodo	Ibarapa North	Oyo	7.519	3.346	2	Ajana Iberekodo|AjanaIberekodo
+Ajana	Yewa North	Ogun	7.389	2.980	2	
+Ajana	Remo North	Ogun	7.066	3.752	2	
+Ajamogha	Ovia North-East	Edo	6.025	5.427	2	
+Ajami	Wushishi	Niger	9.822	5.972	2	
+Ajambata	Oyo West	Oyo	7.908	3.737	2	
+Ajambata	Oyo West	Oyo	7.863	3.747	2	
+Ajamagba	Ori Ire	Oyo	8.350	4.306	2	Ajamawgba|Ajamogba
+Ajala	Ibarapa East	Oyo	7.459	3.473	2	
+Ajala	Odeda	Ogun	7.167	3.633	2	
+Ajaku	Afijio	Oyo	7.785	3.870	2	
+Ajakolo	Sapele	Delta	5.808	5.667	2	
+Ajakjak	Ogoja	Cross River	6.429	8.696	2	
+Ajakiri	Obi	Nasarawa	8.370	8.533	2	
+Ajai Mashi	Jalingo	Taraba	8.833	11.392	2	
+Ajav	Konshisha	Benue	7.094	8.712	2	Ajai
+Ajai	Konshisha	Benue	7.040	8.582	2	
+Ajagusi	Asa	Kwara	8.198	4.546	2	
+Ajaguayibo	Okpe	Delta	5.789	5.889	2	
+Ajagolo	Okpe	Delta	5.777	5.898	2	Obanakhoro
+Ajagi	Odeda	Ogun	7.276	3.673	2	
+Ajagbe	Odeda	Ogun	7.446	3.440	2	
+Ajagba	Ola Oluwa	Osun	7.779	4.251	2	
+Ajagba	Afijio	Oyo	7.769	4.024	2	
+Ajagase	Ori Ire	Oyo	8.117	4.098	2	
+Ajagase	Ola Oluwa	Osun	7.828	4.210	2	Ajaga-Ase
+Ajaburo	Ìsẹ́yìn	Oyo	7.676	3.366	2	
+Ajabata	Obafemi Owode	Ogun	6.924	3.313	2	
+Agiri	Guzamala	Borno	13.035	13.503	2	Ajari
+Ajegunle	Alimosho	Lagos	6.603	3.285	2	
+Ajegunle	Ifako/Ijaye	Lagos	6.687	3.264	2	
+Ajana	Afijio	Oyo	7.744	3.878	2	
+Ajani	Afijio	Oyo	7.738	3.823	2	
+Ajitose	Afijio	Oyo	7.724	3.981	2	
+Ajingode	Afijio	Oyo	7.703	3.973	2	
+Ajagba	Afijio	Oyo	7.713	3.985	2	
+Ajawa	Afijio	Oyo	7.696	3.846	2	
+Ajele	Afijio	Oyo	7.715	3.820	2	
+Ajibade	Afijio	Oyo	7.664	3.790	2	
+Ajala	Akinyele	Oyo	7.577	3.831	2	
+Ajojin	Akinyele	Oyo	7.515	3.914	2	
+Ajambata	Ido	Oyo	7.505	3.804	2	
+Ajayi	Ido	Oyo	7.513	3.769	2	
+Ajakanga	Oluyole	Oyo	7.313	3.842	2	
+Ajagbega	Oluyole	Oyo	7.295	3.765	2	
+Ajiri	Dikwa	Borno	11.907	14.009	2	
+Ajiri	Abadam	Borno	13.519	13.376	2	
+Ajipatutu	Ewekoro	Ogun	6.971	3.166	2	
+Ajasa	Ifo	Ogun	6.754	3.137	2	
+Odo-Ajatun	Ìjẹ̀bú Òde	Ogun	6.738	3.956	2	
+Ajeregun	Shagamu	Ogun	6.730	3.672	2	
+Ajegunle-Iwonja	Idanre	Ondo	7.013	5.127	2	
+Ajebamibo	Idanre	Ondo	7.042	5.223	2	
+Ajagbale	Ose	Ondo	7.046	5.692	2	
+Ajegunle	Idanre	Ondo	7.073	5.252	2	
+Ajipowo	Idanre	Ondo	7.091	5.260	2	
+Ajebandele	Idanre	Ondo	7.097	5.188	2	
+Ajipowo	Idanre	Ondo	7.103	5.247	2	
+Ajegunle	Akure South	Ondo	7.147	5.290	2	
+Ajegunle	Ondo East	Ondo	7.165	5.011	2	
+Ajebamidele	Ọ̀wọ̀	Ondo	7.174	5.441	2	
+Ajegunle	Akure North	Ondo	7.194	5.307	2	
+Ajegunle	Akure North	Ondo	7.212	5.338	2	
+Ajifuwan	Ọ̀wọ̀	Ondo	7.216	5.440	2	
+Ajegunle	Akure North	Ondo	7.230	5.332	2	
+Ajegunle-Opa	Akure South	Ondo	7.231	5.107	2	
+Ajegunwa	Ọ̀wọ̀	Ondo	7.298	5.472	2	
+Ayo Ajegunle	Ise/Orun	Ekiti	7.523	5.458	2	
+Ajaiye	Ekiti West	Ekiti	7.682	5.093	2	
+Ajum	Gboko	Benue	7.353	8.960	2	
+Ajanku	Gwer West	Benue	7.579	8.090	2	
+Ajebe	Gwer West	Benue	7.825	8.134	2	
+Ajo	Markurdi	Benue	7.826	8.604	2	
+Ajwo	Doma	Nasarawa	7.944	8.215	2	
+Aja	Abakaliki	Ebonyi	6.316	8.386	2	
+Ajatitun	Ovia South-West	Edo	6.178	5.129	2	
+Ago-Ajapa	Ilaje	Ondo	6.278	4.769	2	Ago-Apeja
+Ajebamidele	Ilaje	Ondo	6.367	4.598	2	
+Ajegunle	Ondo West	Ondo	6.954	4.784	2	
+Ajegunle	Ondo West	Ondo	6.987	4.906	2	
+Ajiditan	Ilaje	Ondo	6.294	4.782	2	
+Ajiwa	Kurfi	Katsina	12.649	7.518	2	
+Gidan Ajingi	Rafi	Niger	10.393	6.400	2	
+Gidan Ajia	Illela	Sokoto	13.763	5.411	2	
+Ajini	Tangaza	Sokoto	13.415	5.122	2	
+Ungwan Ajia	Funtua	Katsina	11.274	7.319	2	
+Ajagbodudu	Ethiope West	Delta	5.955	5.582	2	
+Ajatitor	Ethiope West	Delta	5.895	5.731	2	
+Ajadogho	Ethiope West	Delta	5.845	5.779	2	
+Ajikpoto	Ethiope West	Delta	5.834	5.779	2	
+Ajakaketie	Sapele	Delta	5.854	5.770	2	Ajakaketiewe
+Ajadiye	Warri South	Delta	5.804	5.564	2	
+Ajafitor	Orhionmwon	Edo	5.760	5.920	2	
+Ajudaibo	Warri South-West	Delta	5.598	5.208	2	
+Madagho	Warri South-West	Delta	5.601	5.225	2	Madagho-Ajeda
+Ajapepe	Warri South-West	Delta	5.607	5.336	2	Aja Pepe|Atamba
+Ajademadema	Warri South	Delta	5.536	5.667	2	
+Ajigba	Warri South	Delta	5.501	5.687	2	
+Ajanakpo	Burutu	Delta	5.279	5.560	2	
+Aro Ajatakiri	Ikwuano	Abia	5.393	7.522	2	
+Ajeromi/Ifelodun	Ajeromi/Ifelodun	Lagos	6.449	3.347	2	
+Ajingi	Ajingi	Kano	11.959	9.067	2	Agbegbe Ijoba Ibile Ajingi|Ajingi Local Government Area|ajyngy|ajynjy|ajynqy
+Kajuru	Kajuru	Kaduna	10.277	7.858	2	Agbegbe Ijoba Ibile Kajuru|Ajure|Kajuru Local Government Area
+Ajaokuta	Ajaokuta	Kogi	7.524	6.581	2	Adzhaokuta|Agbegbe Ijoba Ibile Ajaokuta|Ajaokuta Local Government Area|a jiao ku ta|ajaokuta|ajaykwta
+Ajilari	Konduga	Borno	11.821	13.069	2	
+Ajiri	Konduga	Borno	11.661	13.218	2	
+Ajigin A	Damboa	Borno	11.117	12.297	2	
+Ajiri	Mafa	Borno	11.834	13.676	2	
+Ajili	Misau	Bauchi	11.361	10.554	2	
+Ajelafu	Gwer West	Benue	7.706	8.145	2	
+Ajunku	Markurdi	Benue	7.711	8.448	2	
+Ajebe	Gwer East	Benue	7.539	8.376	2	
+Ajimi	Wukari	Taraba	7.864	9.255	2	
+Ajuku	Logo	Benue	7.610	9.279	2	
+Ajva	Ukum	Benue	7.629	9.416	2	Ajiva
+Ajagu	Ukum	Benue	7.596	9.471	2	
+Ajikwa	Wukari	Taraba	7.827	9.665	2	
+Ajivatswen	Wukari	Taraba	7.911	9.738	2	
+Ajiva	Ukum	Benue	7.765	9.580	2	
+Ajir	Wukari	Taraba	7.703	9.714	2	
+Tse Ajanta	Ukum	Benue	7.675	9.545	2	
+Ajir	Katsina-Ala	Benue	7.294	9.422	2	
+Ajav	Katsina-Ala	Benue	7.288	9.428	2	
+Ajim	Buruku	Benue	7.187	9.082	2	
+Ajoko	Ushongo	Benue	7.133	9.074	2	
+Ajave	Ushongo	Benue	7.083	9.032	2	
+Ajabo	Ushongo	Benue	7.090	9.088	2	
+Aju	Ushongo	Benue	7.048	9.043	2	
+Aja	Buruku	Benue	7.223	9.164	2	
+Ajekwe	Ushongo	Benue	7.079	9.148	2	
+Ajo	Buruku	Benue	7.192	9.235	2	
+Ajim	Buruku	Benue	7.158	9.228	2	
+Ajia	Katsina-Ala	Benue	7.231	9.373	2	
+Ajido	Katsina-Ala	Benue	7.170	9.425	2	
+Ajo	Kwande	Benue	7.078	9.420	2	
+Ajila	Gboko	Benue	7.424	8.877	2	
+Ajirbee	Gboko	Benue	7.431	8.833	2	
+Ajaan	Gboko	Benue	7.378	8.815	2	
+Ajinga	Gboko	Benue	7.380	8.906	2	
+Ajakpa	Gbako	Niger	9.203	6.179	2	
+Papa Ajao	Mushin	Lagos	6.545	3.343	2	
+Ajido	Badagry	Lagos	6.414	2.979	2	
+Ajara Topa	Badagry	Lagos	6.438	2.866	2	
+Ajara Vetho	Badagry	Lagos	6.449	2.928	2	
+Ajangbadi	Ojo	Lagos	6.481	3.157	2	
+Ajasa Amikanle	Alimosho	Lagos	6.638	3.248	2	
+Alakuko Ajegunle	Ifako/Ijaye	Lagos	6.693	3.267	2	
+Ajaguro	Ìkòròdú	Lagos	6.607	3.485	2	
+Ajebo Orugbo	Epe	Lagos	6.636	3.776	2	
+Ajah	Eti Osa	Lagos	6.459	3.569	2	
+Okun Aja Okunmopo	Eti Osa	Lagos	6.436	3.599	2	
+Ajiran Osapa	Eti Osa	Lagos	6.453	3.530	2	
+Ajele	Lagos Island	Lagos	6.450	3.393	2	
+Gidan Ajigbo	Karu	Nasarawa	9.142	7.828	2	
+Gidan Ajaye	Karu	Nasarawa	9.095	7.894	2	
+Gidan Ajua	Karu	Nasarawa	9.092	7.905	2	
+Kurmin Ajiyya	Kachia	Kaduna	9.749	7.645	2	
+Ngurore Ajia	Mayo-Belwa	Adamawa	8.930	11.975	2	
+Garin Ajiya	Ardo-Kola	Taraba	8.841	11.300	2	
+Ma’aje	Ardo-Kola	Taraba	8.813	10.944	2	
+Garin Jauro Aji	Gassol	Taraba	8.502	10.904	2	
+Ajolugbeti	Warri North	Delta	5.994	5.429	2	
+Ajobubu	Warri North	Delta	6.000	5.450	2	
+Ajatiton	Ovia North-East	Edo	5.926	5.299	2	
+Ajogbe	Warri South-West	Delta	5.577	5.197	2	
+Ajisimigi	Warri South-West	Delta	5.538	5.182	2	
+Ajusobo	Warri South-West	Delta	5.634	5.395	2	
+Ajinebe	Warri South-West	Delta	5.631	5.394	2	
+Rumnde Ajia	Yola North	Adamawa	9.237	12.211	2	
+Rumnde Ajia	Fufore	Adamawa	9.224	12.206	2	
+Ajam	Demsa	Adamawa	9.201	11.732	2	
+Okendi-Ajana	Odeda	Ogun	7.340	3.230	2	
+Ikereku-Ajindo	Abeokuta North	Ogun	7.092	3.288	2	
+Ajibayo	Odeda	Ogun	7.137	3.476	2	
+Ajo	Odeda	Ogun	7.223	3.429	2	
+Ajelanwe	Odeda	Ogun	7.261	3.457	2	
+Ajaro	Odeda	Ogun	7.272	3.396	2	
+Aje	Ona Ara	Oyo	7.354	4.008	2	
+Aje	Ona Ara	Oyo	7.326	4.064	2	
+Ajiteri	Ona Ara	Oyo	7.295	4.008	2	
+Ajibola	Ijebu North	Ogun	7.113	4.023	2	
+Gbanla-Ajamu	Ijebu North	Ogun	7.115	4.068	2	
+Ajomale	Ijebu North	Ogun	7.074	4.067	2	
+Ajolodo	Isokan	Osun	7.233	4.134	2	
+Ajamoku	Ona Ara	Oyo	7.269	4.099	2	
+Aje	Irewole	Osun	7.425	4.132	2	
+Ajimagbo	Lagelu	Oyo	7.489	4.145	2	
+Ajilo	Irewole	Osun	7.400	4.203	2	
+Ajebandele	Isokan	Osun	7.307	4.239	2	
+Ajigbo	Aiyedade	Osun	7.414	4.335	2	
+Ajebowale	Aiyedade	Osun	7.161	4.354	2	
+Ajule	Aiyedade	Osun	7.156	4.346	2	
+Ajebamidele	Ife North	Osun	7.495	4.499	2	Aje-Bamidele
+Loso-Ajigi	Ife North	Osun	7.391	4.456	2	
+Egan-Aje	Irepodun	Osun	7.894	4.510	2	
+Ajagemo	Ede South	Osun	7.620	4.520	2	
+Ajebandele-Ilase	Obokun	Osun	7.736	4.688	2	
+Ajegunle-Ibisomi-Ilase	Obokun	Osun	7.744	4.695	2	
+Ajo	Obokun	Osun	7.755	4.653	2	
+Ajebandele Oke Erinle	Obokun	Osun	7.790	4.699	2	
+Ajebandele	Obokun	Osun	7.802	4.670	2	
+Ajebandele	Obokun	Osun	7.793	4.781	2	
+Ajebandele	Obokun	Osun	7.760	4.797	2	
+Ajubu	Ilesha East	Osun	7.590	4.788	2	
+Ajaga	Ila	Osun	7.934	4.900	2	
+Ajindo	Ijero	Ekiti	7.871	4.970	2	
+Ajegunle-Okeodo	Yewa North	Ogun	7.045	2.917	2	
+Ajibade	Yewa North	Ogun	7.233	2.930	2	
+Eripa Ajiboye	Yewa North	Ogun	7.179	2.995	2	
+Alagbon-Ajibola	Yewa North	Ogun	7.380	2.986	2	
+Ajara-Topa	Badagry	Lagos	6.431	2.884	2	
+Ajara-Iveda	Badagry	Lagos	6.442	2.900	2	
+Ajara-Doko	Badagry	Lagos	6.431	2.893	2	
+Ajegunle	Yewa North	Ogun	6.969	2.979	2	
+Ajibowu	Ipokia	Ogun	6.545	2.831	2	
+Ajogu	Ado Odo/Ota	Ogun	6.550	2.936	2	
+Ajagboju	Ado Odo/Ota	Ogun	6.590	2.956	2	
+Ajegunle Oke-Odo	Yewa South	Ogun	6.840	2.905	2	
+Rumnde-Ajuji	Yola North	Adamawa	9.199	12.513	2	Rumnde Ajuji
+Ago-Ajayi	Irele	Ondo	6.459	4.838	2	
+Ajaowo	Ilaje	Ondo	6.021	4.898	2	
+Ajagbale	Okitipupa	Ondo	6.498	4.731	2	
+Aji	Keana	Nasarawa	8.129	8.602	2	
+Odan Ajan	Irepo	Oyo	9.068	3.851	2	
+Ajobo	Ife South	Osun	7.338	4.535	2	
+Ajagbegun	Ife South	Osun	7.284	4.531	2	
+Ajegunle	Ife South	Osun	7.242	4.548	2	
+Ajebandele-Sanmi	Ife South	Osun	7.253	4.551	2	
+Ajebandele	Ife South	Osun	7.217	4.508	2	
+Ajebandele	Ife South	Osun	7.201	4.575	2	
+Ajebandele	Ife South	Osun	7.107	4.580	2	
+Ajebandele-Fadehan	Ife South	Osun	7.100	4.584	2	
+Ajebandele-Ojupa	Ife East	Osun	7.332	4.597	2	
+Ajumobi	Atakunmosa East	Osun	7.421	4.734	2	
+Ajebandele	Atakunmosa West	Osun	7.405	4.708	2	
+Opa-Aje	Ife South	Osun	7.364	4.637	2	
+Ajegunle	Atakunmosa West	Osun	7.281	4.744	2	
+Araromi Ajegunle	Ile Oluji/Okeigbo	Ondo	7.087	4.646	2	
+Irowa Ajebamibo	Ondo West	Ondo	7.090	4.684	2	
+Oja-Ajegunle	Ondo West	Ondo	7.047	4.683	2	
+Ajagba	Ondo West	Ondo	7.061	4.757	2	
+Ajagba-Alafia	Ondo West	Ondo	7.063	4.762	2	
+Ago-Ajebamibo	Ondo West	Ondo	7.204	4.778	2	
+Ajido	Atakunmosa East	Osun	7.463	4.762	2	
+Ajebandele Oke-Oni	Oriade	Osun	7.464	4.859	2	
+Ajebandele	Atakunmosa East	Osun	7.409	4.818	2	
+Ajegunle-Losunla	Ile Oluji/Okeigbo	Ondo	7.282	4.835	2	
+Ajegunle	Ondo East	Ondo	7.141	4.893	2	
+Ajebamibo	Ondo West	Ondo	7.007	4.781	2	
+Ajebanijoko	Ondo East	Ondo	7.095	4.972	2	
+Ajebandele	Idanre	Ondo	7.095	4.999	2	
+Ajebamijoko	Ondo East	Ondo	7.119	4.971	2	
+Ajetomiwa	Ondo East	Ondo	7.122	4.972	2	
+Sasere Ajebamibo	Ile Oluji/Okeigbo	Ondo	7.211	4.974	2	
+Ago-Ajebamibo	Ile Oluji/Okeigbo	Ondo	7.232	4.995	2	
+Ajebandele	Ile Oluji/Okeigbo	Ondo	7.251	4.919	2	
+Ajemofewa	Ile Oluji/Okeigbo	Ondo	7.271	4.936	2	
+Ajegunle	Ile Oluji/Okeigbo	Ondo	7.258	4.973	2	
+Ajemofewa	Ile Oluji/Okeigbo	Ondo	7.269	4.969	2	
+Ajebamibo Agunla	Ile Oluji/Okeigbo	Ondo	7.292	4.927	2	
+Ajemofewa Ilorin	Ile Oluji/Okeigbo	Ondo	7.298	4.913	2	
+Ajemofere-Agunla	Ile Oluji/Okeigbo	Ondo	7.298	4.933	2	
+Ajebandele Agunla	Ile Oluji/Okeigbo	Ondo	7.295	4.931	2	
+Ajebandele	Ile Oluji/Okeigbo	Ondo	7.363	4.959	2	
+Ile-Aje	Ile Oluji/Okeigbo	Ondo	7.371	4.963	2	
+Aje-Ikosi	Ogbomosho North	Oyo	8.198	4.238	2	
+Ajiteru	Surulere	Oyo	8.242	4.293	2	
+Ajakaiye	Ori Ire	Oyo	8.474	4.185	2	
+Ajengbe	Ibarapa East	Oyo	7.454	3.506	2	
+Aja-Aka	Odeda	Ogun	7.323	3.542	2	
+Ajegunle	Obafemi Owode	Ogun	7.128	3.528	2	
+Ajade	Obafemi Owode	Ogun	7.095	3.549	2	
+Ajadi-Agboh	Obafemi Owode	Ogun	7.073	3.571	2	
+Ajala	Obafemi Owode	Ogun	7.041	3.541	2	
+Ajobo	Odeda	Ogun	7.328	3.637	2	
+Ajegunle	Odeda	Ogun	7.331	3.659	2	
+Ajao	Ido	Oyo	7.416	3.726	2	
+Ajegunle	Odeda	Ogun	7.239	3.733	2	
+Ajibodu	Oluyole	Oyo	7.174	3.926	2	
+Ajogbobi	Oluyole	Oyo	7.239	3.925	2	
+Ajobo	Oluyole	Oyo	7.326	3.748	2	
+Ajelanwa	Moro	Kwara	8.870	4.318	2	
+Ajegunle	Moro	Kwara	8.785	4.495	2	
+Ago Ajape	Moro	Kwara	8.710	4.420	2	
+Ajamira	Moro	Kwara	8.764	4.329	2	
+Ajuba	Moro	Kwara	8.701	4.413	2	
+Ajagbe	Moro	Kwara	8.690	4.452	2	
+Ajoko	Olorunsogo	Oyo	8.680	4.157	2	
+Ajegunle	Olorunsogo	Oyo	8.696	4.012	2	
+Ajuba	Moro	Kwara	8.630	4.427	2	
+Ajuba	Moro	Kwara	8.611	4.452	2	
+Ajidagba	Asa	Kwara	8.565	4.364	2	
+Ajayi	Ibarapa North	Oyo	7.685	3.181	2	
+Ajelanwa	Ibarapa North	Oyo	7.635	3.117	2	
+Ajumobi	Ibarapa North	Oyo	7.504	3.177	2	
+Ajinmi	Ibarapa East	Oyo	7.704	3.470	2	
+Sabaja-Ajegunle	Isin	Kwara	8.298	5.036	2	
+Ajaba	Lafia	Nasarawa	8.559	8.818	2	
+Ajaba	Lafia	Nasarawa	8.708	8.694	2	
+Ajila	Asa	Kwara	8.246	4.515	2	
+Ajila	Asa	Kwara	8.231	4.515	2	
+Kere-Aje	Oyun	Kwara	8.198	4.656	2	
+Ajelanwa	Oyun	Kwara	8.164	4.642	2	
+Ajebandele	Oyun	Kwara	8.103	4.626	2	
+Ajolojonu	Oyun	Kwara	8.091	4.668	2	
+Ajerogun	Odo Otin	Osun	8.066	4.623	2	
+Igbotele Ajegunle	Odo Otin	Osun	8.034	4.728	2	IgboteleAjegunle
+Ajar	Akwanga	Nasarawa	8.964	8.345	2	
+Ajuwi	Kokona	Nasarawa	8.942	8.014	2	
+Ajokete	Ìsẹ́yìn	Oyo	7.790	3.686	2	
+Ajombadi	Ìsẹ́yìn	Oyo	7.866	3.706	2	
+Ajuwon	Afijio	Oyo	7.808	3.794	2	
+Ajegunle	Oyo East	Oyo	7.879	3.988	2	
+Ajoko	Ifelodun	Kwara	8.465	4.957	2	
+Ajuba	Ifelodun	Kwara	8.445	4.851	2	
+Ajilete	Ifelodun	Kwara	8.416	4.977	2	
+Ajegunle-Idera	Irepodun	Kwara	8.352	4.857	2	
+Ajegunle	Moro	Kwara	9.089	4.834	2	
+Ajambata	Atiba	Oyo	8.000	4.039	2	
+Ajibade	Afijio	Oyo	7.847	4.059	2	
+Ago-Ajagba	Afijio	Oyo	7.776	4.050	2	
+Ajigbe	Afijio	Oyo	7.768	4.033	2	
+Ajibowu	Afijio	Oyo	7.749	4.008	2	
+Ajulaiye	Ogo Oluwa	Oyo	7.971	4.176	2	
+Ajibodu	Orolu	Osun	7.915	4.471	2	
+Ajibodu	Orolu	Osun	7.952	4.494	2	
+Ajejin	Girei	Adamawa	9.593	12.403	2	
+Ajibabi	Asa	Kwara	8.287	4.512	2	
+Ajobiyidi	Ilorin South	Kwara	8.437	4.635	2	
+Ajele	Ilorin South	Kwara	8.444	4.699	2	
+Ajoko	Ilorin South	Kwara	8.455	4.713	2	
+Apata-Aje	Oyun	Kwara	8.283	4.677	2	
+Ajanaku	Ilorin East	Kwara	8.480	4.620	2	
+Ajajeyanku	Asa	Kwara	8.257	4.546	2	
+Ajamu	Toto	Nasarawa	8.158	7.048	2	
+Ajau	Toto	Nasarawa	8.438	7.374	2	
+Gidan-Ajesa	Karu	Nasarawa	8.736	7.657	2	
+Ajibogun	Aiyedire	Osun	7.520	4.238	2	
+Ajadi	Aiyedire	Osun	7.591	4.233	2	
+Ajagunala	Iwo	Osun	7.662	4.110	2	
+Ajitena	Ejigbo	Osun	7.712	4.334	2	
+Ajaiye	Lagelu	Oyo	7.570	4.102	2	
+Ajibope	Iwo	Osun	7.644	4.110	2	
+Ajirogun	Aiyedire	Osun	7.526	4.217	2	
+Ajagbangba	Aiyedire	Osun	7.585	4.228	2	
+Ajebiewe	Iwo	Osun	7.680	4.121	2	
+Ajogboja	Ede South	Osun	7.631	4.387	2	
+Ajibope	Iwo	Osun	7.642	4.130	2	
+Azagbene	Ekeremor	Bayelsa	4.863	5.876	2	Ajagbene
+Ajegunle	Ondo West	Ondo	7.039	4.793	2	
+Ajegunle	Ondo West	Ondo	7.004	4.774	2	
+Ajegunle	Ori Ire	Oyo	8.075	4.054	2	
+Ajegunle	Asa	Kwara	8.318	4.442	2	
+Ajegunle	Oyun	Kwara	8.165	4.619	2	
+Ajipa	Lagelu	Oyo	7.539	4.048	2	
 Ajayi Crowther Road	Municipal Area Council	FCT Abuja	9.052	7.527	1	Alhaji Crowther Street
 Ajawa Street	Ifako/Ijaye	Lagos	6.657	3.308	1	
 Ajanaku Street	Ikeja	Lagos	6.586	3.365	1	
@@ -243,7 +755,7 @@ Ajao Street	Surulere	Lagos	6.508	3.351	1
 Ajibulu Street	Oshodi/Isolo	Lagos	6.560	3.323	1	
 Ajayi Street	Shomolu	Lagos	6.546	3.377	1	
 Samuel Ajayi Street	Lagelu	Oyo	7.439	3.953	1	
-AJANLEKOKO STREET,JAGUN.	Egbeda	Oyo	7.389	3.959	1	
+Ajanlekoko Street,Jagun.	Egbeda	Oyo	7.389	3.959	1	
 Ajoke Street	Surulere	Lagos	6.503	3.343	1	
 Ajibola Aluko Street	Oshodi/Isolo	Lagos	6.513	3.320	1	
 Ajoke Okusanya Street	Oshodi/Isolo	Lagos	6.502	3.314	1	
@@ -277,7 +789,6 @@ Aminu Ajibode Avenue	Alimosho	Lagos	6.585	3.288	1
 Ajakaiye Street	Agege	Lagos	6.609	3.329	1	
 Ajayi Ologidan Street	Agege	Lagos	6.611	3.326	1	
 Ajibose Street	Agege	Lagos	6.613	3.325	1	
-Ajakaiye Street	Ikeja	Lagos	6.606	3.325	1	
 Bello Ajare Street	Agege	Lagos	6.608	3.315	1	
 Laiyi Ajayi Bembe Street	Eti Osa	Lagos	6.460	3.446	1	
 Akintola Ajeigbe Street	Eti Osa	Lagos	6.436	3.469	1	
@@ -287,7 +798,6 @@ Ajose Adeogun Street	Municipal Area Council	FCT Abuja	9.069	7.442	1
 Ajassa Main road	Fagge	Kano	11.995	8.536	1	
 Agungi Ajiran Road	Eti Osa	Lagos	6.452	3.519	1	
 Olusegun Ajayi Street	Eti Osa	Lagos	6.502	3.607	1	
-Ajaokuta Airport	Okene	Kogi	7.461	6.465	0	
 Balogun Ajikobi St	Ilorin East	Kwara	8.500	4.536	1	
 Ajase Ipo Road	Ilorin East	Kwara	8.475	4.565	1	
 Ajase Ipo Road	Ilorin East	Kwara	8.438	4.592	1	
@@ -315,7 +825,6 @@ Olakunle Ajibade	Kosofe	Lagos	6.586	3.385	1
 Ajibola Crescent	Kosofe	Lagos	6.586	3.400	1	
 Ajiboye Street	Kosofe	Lagos	6.587	3.394	1	
 Ajelogo Market Street	Kosofe	Lagos	6.606	3.399	1	
-Ajelogo Market Street	Kosofe	Lagos	6.604	3.397	1	
 Ajio-Koti Mbaduku Road	Kwande	Benue	6.737	9.216	1	
 Olori Adekemi Ajibola Street	Kosofe	Lagos	6.571	3.383	1	
 Ajayi Street	Kosofe	Lagos	6.571	3.377	1	
@@ -327,8 +836,6 @@ Ajassa street 1	Fagge	Kano	11.998	8.537	1
 Ajassa street 2	Fagge	Kano	11.999	8.537	1	
 Ajiji Atang street	Jos North	Plateau	9.891	8.913	1	
 Ilorin - Omupo - Ajasse Ipo Road	Ifelodun	Kwara	8.398	4.662	1	
-Ajase Ipo Road	Ilorin East	Kwara	8.464	4.571	1	
-Ajase Ipo Road	Ilorin East	Kwara	8.473	4.566	1	
 Ilorin - Omupo - Ajasse Ipo Road	Ifelodun	Kwara	8.394	4.681	1	
 Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.431	4.595	1	
 Ilorin - Omupo - Ajasse Ipo Road	Ifelodun	Kwara	8.315	4.767	1	
@@ -337,7 +844,6 @@ Ajala Bello Street	Ifako/Ijaye	Lagos	6.639	3.338	1
 Ajijari II	Jere	Borno	11.779	13.193	1	
 Femi Ajide Street	Oshodi/Isolo	Lagos	6.500	3.305	1	
 Ajose Street	Ìkòròdú	Lagos	6.630	3.480	1	
-Ajumawa Health Post	Dambatta	Kano	12.477	8.506	0	
 Mike Ajize Stret	Eti Osa	Lagos	6.446	3.477	1	
 Hon. Ajayi Alaba Street	Eti Osa	Lagos	6.429	3.500	1	
 Ajifoluke Avenue	Eti Osa	Lagos	6.429	3.502	1	
@@ -345,12 +851,10 @@ Otunba Steve Ajose Drive	Eti Osa	Lagos	6.430	3.498	1
 Okun-Ajah Road	Ibeju Lekki	Lagos	6.428	3.699	1	
 Boda Ajakaiye Street	Eti Osa	Lagos	6.424	3.520	1	
 Tunde Ajimoti Street	Eti Osa	Lagos	6.500	3.605	1	
-Ajiya Health Post	Dass	Bauchi	10.006	9.526	0	Ecwa Health Clinic
 Okun-Ajah Community Road	Eti Osa	Lagos	6.429	3.591	1	
 Engr. Kola Ajibola Street	Eti Osa	Lagos	6.452	3.576	1	
 Sherifat Ajibola Street	Eti Osa	Lagos	6.455	3.574	1	
 Ahmed Ajikobi Street	Eti Osa	Lagos	6.453	3.571	1	
-Ajegunle Market	Olorunda	Osun	7.780	4.553	0	
 Ajayi Benbe	Shomolu	Lagos	6.520	3.382	1	
 Emeka Ajaero Close	Eti Osa	Lagos	6.476	3.660	1	
 Louis Ajike Street	Ado Odo/Ota	Ogun	6.699	3.262	1	
@@ -366,7 +870,6 @@ Jaiyeola Ajatta Street	Oshodi/Isolo	Lagos	6.551	3.327	1
 Ajidagba Crescent	Kosofe	Lagos	6.616	3.378	1	
 Aje Ejibiran Avenue	Alimosho	Lagos	6.548	3.234	1	
 Ajalli Street	Oshodi/Isolo	Lagos	6.547	3.321	1	
-AJETUNMOBI Petroleum	Ede North	Osun	7.718	4.496	0	
 Ajio-Ageraga road	Kwande	Benue	6.813	9.237	1	
 Ajio-Ugo Road	Kwande	Benue	6.797	9.191	1	
 Ajio-Imande Road	Kwande	Benue	6.792	9.203	1	
@@ -409,7 +912,6 @@ Ajiri II	Jere	Borno	11.790	13.128	1
 Ajibola Crescent	Kosofe	Lagos	6.583	3.403	1	
 Ajidagan Street	Shomolu	Lagos	6.547	3.378	1	
 Lekki-Ajah Flyover	Eti Osa	Lagos	6.466	3.563	1	
-Lekki-Ajah Flyover	Eti Osa	Lagos	6.469	3.567	1	
 Adediran Ajao Crescent	Kosofe	Lagos	6.565	3.378	1	
 Alhaji Azeez Ajanaku Street	Oshodi/Isolo	Lagos	6.498	3.305	1	
 Adenike Wole Ajibode Street	Eti Osa	Lagos	6.453	3.477	1	
@@ -422,34 +924,25 @@ Ola Ajaye Street	Adó-Èkìtì	Ekiti	7.612	5.215	1
 Yemi Ajise Street	Adó-Èkìtì	Ekiti	7.611	5.215	1	
 Ajilosun Street	Adó-Èkìtì	Ekiti	7.601	5.221	1	
 Ajidun Road	Ijero	Ekiti	7.837	5.038	1	
-Ajebamidele Oke Okun Road	Ekiti West	Ekiti	7.696	5.062	1	
-AIMENOFONA STREET	Oredo	Edo	6.287	5.564	1	AJAYI STREET
+Aimenofona Street	Oredo	Edo	6.287	5.564	1	AJAYI STREET
 Olufemi Ajayi Road	Ikole	Ekiti	7.737	5.400	1	
 Ajamimogha Link Road	Warri South	Delta	5.526	5.739	1	
-Ajamimogha Link Road	Warri South	Delta	5.523	5.738	1	
 Adewole Ajayi Street	Ewekoro	Ogun	6.847	3.188	1	
-Adewole Ajayi Street	Ewekoro	Ogun	6.844	3.190	1	
 Ajagbe Ados Street	Saki West	Oyo	8.672	3.401	1	
 Kolawale Ajayi Streer	Eti Osa	Lagos	6.456	3.614	1	
 Olungbenga Ajao Street	Obafemi Owode	Ogun	6.730	3.401	1	
 Okun-Ajah Community Road	Eti Osa	Lagos	6.435	3.589	1	
-Odo Aje	Ibadan North East	Oyo	7.384	3.910	1	
 Ajose Adeogun Roundabout	Eti Osa	Lagos	6.431	3.431	1	
 Ajibako Street	Ado Odo/Ota	Ogun	6.751	3.244	1	
 Aminu Ajibode Avenue	Alimosho	Lagos	6.585	3.287	1	
 Ajiroba Drive	Municipal Area Council	FCT Abuja	9.123	7.387	1	
-Louis Ajike Street	Ifako/Ijaye	Lagos	6.693	3.263	1	
-Sanni Ajayi Street	Alimosho	Lagos	6.537	3.262	1	
 Festus Ajumole Street	Ìkòròdú	Lagos	6.596	3.546	1	
 Ajigbotinu Street	Agege	Lagos	6.617	3.329	1	
-Festus Ajumole Street	Ìkòròdú	Lagos	6.597	3.544	1	
 Ewu Ajasa	Ado Odo/Ota	Ogun	6.633	3.199	1	
 Ajegunle Road	Ogbomosho North	Oyo	8.115	4.218	1	
 David Ayandokun Ajibola	Ilorin East	Kwara	8.458	4.602	1	
-Ajowa Street	Ado Odo/Ota	Ogun	6.740	3.233	1	
 Ago Ogba/Ajagba Road	Irele	Ondo	6.463	4.900	1	
 Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.415	4.612	1	
-Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.410	4.636	1	
 Ajayi Ajikawo Street	Eti Osa	Lagos	6.474	3.634	1	
 Ajose Adeogun Street	Ìkòròdú	Lagos	6.630	3.478	1	
 Segun Ajanakun Crescent	Eti Osa	Lagos	6.506	3.598	1	
@@ -460,46 +953,84 @@ Okun-Ajah Road	Eti Osa	Lagos	6.424	3.533	1
 Okun-Ajah Road	Eti Osa	Lagos	6.426	3.583	1	
 Ajayi Ibe Street	Agege	Lagos	6.633	3.314	1	
 Ajibola Street	Alimosho	Lagos	6.537	3.268	1	
-Ajaokuta Medical Centre	Ajaokuta	Kogi	7.574	6.639	0	
 Ajegunle Road	Saki West	Oyo	8.662	3.397	1	
-Ajah Market	Eti Osa	Lagos	6.468	3.565	0	
-Ajibulu Street	Oshodi/Isolo	Lagos	6.560	3.328	1	
 Ajayi Adebola Street	Alimosho	Lagos	6.543	3.245	1	
 Ajegunle Street	Ikeja	Lagos	6.572	3.364	1	
-Ajegunle Market	Oyo East	Oyo	7.849	3.953	0	
 Gbemisola Ajayi Close	Eti Osa	Lagos	6.471	3.652	1	
 Baale Ajagbe Street	Eti Osa	Lagos	6.474	3.632	1	
-Agungi Ajiran Road	Eti Osa	Lagos	6.444	3.516	1	
+Ajasa Street	Gwale	Kano	11.977	8.472	1	
+Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.414	4.614	1	
+Ajao Street	Shagamu	Ogun	6.693	3.592	1	
+Oni-ajisafe str	Ojo	Lagos	6.455	3.226	1	
+Ajamopo Street	Ife Central	Osun	7.481	4.564	1	
+Ajowa Street	Ado Odo/Ota	Ogun	6.664	3.242	1	
+Aje Street	Lagos Mainland	Lagos	6.505	3.375	1	
+Ajaxbel Close	Eti Osa	Lagos	6.450	3.611	1	
+Ajaye Close	Ìkòròdú	Lagos	6.637	3.499	1	
+Faith Ajayi Street	Alimosho	Lagos	6.583	3.275	1	
+Ajaokuta Indian Language School	Ajaokuta	Kogi	7.557	6.601	0	
+Ajajari camp	Jere	Borno	11.794	13.182	0	
+Ajiri Health Clinic	Konduga	Borno	11.660	13.114	0	
+Ajigin Mairi Health Clinic	Damboa	Borno	11.171	12.287	0	
+Ajao Estate main entrance	Oshodi/Isolo	Lagos	6.552	3.329	0	
+Ajaokuta Station	Ajaokuta	Kogi	7.441	6.626	0	
+Ajowa Market	Akoko North West	Ondo	7.681	5.906	0	
+Ajiyoko Market	Ọ̀wọ̀	Ondo	7.168	5.625	0	
+Ajue Market	Odigbo	Ondo	6.895	4.854	0	
+Ajagba Market	Ese Odo	Ondo	6.427	4.922	0	
+Iworo Ajido Jetty	Badagry	Lagos	6.414	3.008	0	
+A.M. Ajigoni	Akko	Gombe	10.291	11.110	0	
+Ajiua Health Centre	Girei	Adamawa	9.278	12.459	0	
+Community Primary School, Wasimi Ajibawo	Ifo	Ogun	6.692	3.367	0	
+United African Primary School, Ajegunle Ota	Ifo	Ogun	6.711	3.307	0	
+United African Primary School, Ajibode Konifewo	Ado Odo/Ota	Ogun	6.712	3.231	0	
+Local Government Primary School, Ajerogun	Ado Odo/Ota	Ogun	6.617	3.087	0	
+St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ifo	Ogun	6.683	3.321	0	
+Local Government Primary School, Ajeregun	Shagamu	Ogun	6.851	3.642	0	
+Communty Primary School, Ago-Ajeri	Ifo	Ogun	6.700	3.303	0	
+Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.684	3.300	0	
+Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.831	3.195	0	
+Communty Primary School, Ago-Ajeri	Ifo	Ogun	6.751	3.273	0	
+Local Government Primary School, Ajeregun	Shagamu	Ogun	6.735	3.487	0	
+United African Primary School, Ajibode Konifewo	Ado Odo/Ota	Ogun	6.726	3.195	0	
+Community Primary School, Wasimi Ajibawo	Ado Odo/Ota	Ogun	6.671	3.058	0	
+United African Primary School, Ajegunle Ota	Ado Odo/Ota	Ogun	6.651	3.061	0	
+St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ado Odo/Ota	Ogun	6.583	3.024	0	
+Local Government Primary School, Ajerogun	Ado Odo/Ota	Ogun	6.581	3.048	0	
+Ajio Community Secondary School, Ajio,	Kwande	Benue	6.797	9.210	0	
+Destiny Model Academy Ajigo	Jos North	Plateau	9.971	8.859	0	
+Aje International Market, Ido-Osun	Egbedore	Osun	7.790	4.499	0	
+Iworo Ajido Model College	Badagry	Lagos	6.437	2.974	0	
+Ajiboye Clinic And Maternity Home	Alimosho	Lagos	6.578	3.281	0	
+Ajoke Clinic	Mushin	Lagos	6.522	3.346	0	
+Ajegunle Primary Health care Centre	Kosofe	Lagos	6.607	3.431	0	
+Oke Ira Nla (Ajah)	Eti Osa	Lagos	6.491	3.579	0	
+Ayedere Ajibola Junior Secoundary School	Kosofe	Lagos	6.609	3.388	0	
+Ayedere Ajibola Sernior High School.	Kosofe	Lagos	6.607	3.388	0	
+Ose Olohun Petroleum Nig. Ltd., Ipo, Ajasse, Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.468	4.568	0	
+Ganmo Market, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin South	Kwara	8.419	4.607	0	
+Yusjib Industrial Medicare, Ajasse-Ipo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.461	4.575	0	
+RAINOIL LIMITED, Ilorin - Ajasse-Ipo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.449	4.584	0	
+ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0	
+Roemichs international school Ajase-Ipo Road, Offa Garage, Ilorin	Ilorin East	Kwara	8.459	4.576	0	
+number 1 (ajegunle) waterside	Ajeromi/Ifelodun	Lagos	6.446	3.350	0	
+number 2 (ajegunle) waterside/kumuyi street(ajegunle)	Ajeromi/Ifelodun	Lagos	6.448	3.351	0	
+mogaji (ajegunle)	Ajeromi/Ifelodun	Lagos	6.446	3.350	0	
+number 3 (ajegunle) waterside	Ajeromi/Ifelodun	Lagos	6.450	3.351	0	
+Ajangbadi Junior High School	Ojo	Lagos	6.474	3.179	0	
+Ajara Grammar School	Badagry	Lagos	6.437	2.897	0	
+Ajaka Comprehensive Health Centre	Igalamela-Odolu	Kogi	7.176	6.825	0	
+Ajaokuta Airport	Okene	Kogi	7.461	6.465	0	
+Ajumawa Health Post	Dambatta	Kano	12.477	8.506	0	
+Ajiya Health Post	Dass	Bauchi	10.006	9.526	0	Ecwa Health Clinic
+Ajegunle Market	Olorunda	Osun	7.780	4.553	0	
+AJETUNMOBI Petroleum	Ede North	Osun	7.718	4.496	0	
+Ajaokuta Medical Centre	Ajaokuta	Kogi	7.574	6.639	0	
+Ajah Market	Eti Osa	Lagos	6.468	3.565	0	
+Ajegunle Market	Oyo East	Oyo	7.849	3.953	0	
 Ajingi Primary Health Centre	Ajingi	Kano	11.970	9.043	0	
 Ode Aje Health Centre	Ibadan North East	Oyo	7.382	3.916	0	
 Ajiri Despensary	Mafa	Borno	11.972	13.708	0	
 Ajjari IDP Camp	Mafa	Borno	11.975	13.710	0	
 Ajiri Health Post	Geidam	Yobe	12.828	11.722	0	
-Ajilosun Street	Adó-Èkìtì	Ekiti	7.591	5.211	1	
-Ajasa Street	Gwale	Kano	11.977	8.472	1	
 Ajayi Crowther University	Oyo East	Oyo	7.848	3.946	0	
-Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.414	4.614	1	
-Ajase Ipo Road	Ilorin East	Kwara	8.450	4.583	1	
-Ajao Street	Shagamu	Ogun	6.693	3.592	1	
-Ajamimogha Community	Warri South	Delta	5.526	5.736	2	
-Oni-ajisafe str	Ojo	Lagos	6.455	3.226	1	
-Ogun-Aja	Sapele	Delta	5.891	5.666	2	
-Ajamopo Street	Ife Central	Osun	7.481	4.564	1	
-Ajowa Street	Ado Odo/Ota	Ogun	6.664	3.242	1	
-Aje Street	Lagos Mainland	Lagos	6.505	3.375	1	
-Ajaxbel Close	Eti Osa	Lagos	6.450	3.611	1	
-Okun-Ajah Road	Eti Osa	Lagos	6.425	3.559	1	
-Ajaye Close	Ìkòròdú	Lagos	6.637	3.499	1	
-Faith Ajayi Street	Alimosho	Lagos	6.583	3.275	1	
-Ajaura	Taura	Jigawa	12.288	9.531	2	
-Ajumawa	Dambatta	Kano	12.481	8.493	2	
-Ajingi	Ajingi	Kano	11.974	9.031	2	
-Ajingi	Ajingi	Kano	11.959	9.034	2	
-Ajiwa	Batagarawa	Katsina	12.972	7.697	2	
-Ajaokuta	Ajaokuta	Kogi	7.498	6.576	2	
-Ajigin B	Damboa	Borno	11.247	12.260	2	
-Ajigin A	Damboa	Borno	11.106	12.339	2	
-Ajiri	Mafa	Borno	11.819	13.660	2	
-Ajili	Misau	Bauchi	11.353	10.561	2	
-Ajeromi/Ifelodun	Ajeromi/Ifelodun	Lagos	6.455	3.336	2	
-Ajiri	Konduga	Borno	11.662	13.203	2	

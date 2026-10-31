@@ -1,10 +1,44 @@
+Uhuodo	Adavi	Kogi	7.592	6.202	3	
 Uhyana	Kogi	Kogi	8.183	6.800	2	
 Uhomora	Owan West	Edo	6.870	5.949	2	
 Uhuse oke	Owan West	Edo	7.021	5.926	2	
 Uholor	Oredo	Edo	6.276	5.549	2	
 Uhiere	Ovia North-East	Edo	6.728	5.790	2	Uyere
 Uhum	Agwara	Niger	10.837	4.707	2	
-Uhuodo	Adavi	Kogi	7.592	6.202	3	
+Uhunmwonde	Uhunmwonde	Edo	6.526	5.900	2	
+Umu Uhie	Isiala-Ngwa North	Abia	5.231	7.391	2	
+Uhyana	Kogi	Kogi	8.189	6.794	2	
+Uhuseoke	Owan West	Edo	7.022	5.926	2	
+Uhuda Ngodo	Umu-Nneochi	Abia	5.919	7.408	2	
+Urho	Esan South-East	Edo	6.553	6.610	2	Ohro|Uhro
+Uhor	Gboko	Benue	7.223	8.738	2	
+Uhkirhi	Ikpoba-Okha	Edo	6.267	5.750	2	
+Uhie	Ikpoba-Okha	Edo	6.167	5.633	2	
+Uhi	Uhunmwonde	Edo	6.597	6.011	2	Iguoba-Uhi
+Uhen	Ovia North-East	Edo	6.766	5.538	2	
+Uhembe	Takum	Taraba	7.371	10.011	2	
+Uhege	Uhunmwonde	Edo	6.433	5.733	2	
+Uhaa	Gwer East	Benue	7.392	8.575	2	
+Uhiele	Esan West	Edo	6.708	6.150	2	Akahia|Akhia
+Uhon	Gwer East	Benue	7.210	8.325	2	
+Uhen	Gwer East	Benue	7.352	8.415	2	
+Uhaekpe	Esan Central	Edo	6.716	6.235	2	
+Uhunmwonde	Uhunmwonde	Edo	6.492	5.885	2	Agbegbe Ijoba Ibile Uhunmwonde
+Uhambe	Markurdi	Benue	7.757	8.381	2	
+Uhambe	Buruku	Benue	7.555	9.066	2	
+Uhi	Buruku	Benue	7.561	9.124	2	
+Uhambe	Ukum	Benue	7.694	9.389	2	
+Uhembe	Logo	Benue	7.566	9.397	2	
+Uhembem	Buruku	Benue	7.486	9.161	2	
+Uhembe	Katsina-Ala	Benue	7.432	9.340	2	
+Uhar	Ushongo	Benue	7.076	9.038	2	
+Uhi	Gboko	Benue	7.455	8.901	2	
+Uhuna	Gboko	Benue	7.358	8.875	2	
+Uhie	Gboko	Benue	7.372	8.819	2	
+Uhambe	Gboko	Benue	7.308	8.965	2	
+Uhaa	Ushongo	Benue	7.261	8.916	2	
+Uhimento-Uhi	Uhunmwonde	Edo	6.570	6.016	2	
+Osagie-Uhi	Uhunmwonde	Edo	6.562	6.061	2	
 Uhenuyi Street	Oredo	Edo	6.312	5.615	1	
 Uhunmwangho Street	Egor	Edo	6.375	5.639	1	
 Uhunmwon Road	Egor	Edo	6.363	5.564	1	
@@ -12,4 +46,3 @@ Uhueze Street	Enugu South	Enugu	6.406	7.490	1
 Uhabiri-Ogwumabiri Road	Umuahia North	Abia	5.534	7.463	1	
 Uhabiri-Akpizu Road	Umuahia North	Abia	5.528	7.465	1	
 Uhiele Road	Esan West	Edo	6.720	6.143	1	
-Uhunmwonde	Uhunmwonde	Edo	6.526	5.900	2	

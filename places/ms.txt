@@ -1,5 +1,15 @@
 Mesa	Ushongo	Benue	7.104	8.783	2	Msaa
-Msherde Clinic	Kala-Balge	Borno	11.998	14.453	0	
 Msata Fannamari	Konduga	Borno	11.532	12.991	2	
+Msondo	Donga	Taraba	7.735	10.151	2	
+Mshi	Ushongo	Benue	7.109	8.804	2	
+Msuan	Buruku	Benue	7.538	9.055	2	
+Msenge	Gboko	Benue	7.264	9.006	2	
+Msugh	Buruku	Benue	7.296	9.161	2	
+Msa	Ushongo	Benue	7.229	9.007	2	
+Mser	Katsina-Ala	Benue	7.185	9.315	2	
+Msenge	Katsina-Ala	Benue	7.175	9.382	2	
+Msue	Gboko	Benue	7.440	8.758	2	
+Msua	Gboko	Benue	7.386	8.775	2	
+Msherde Clinic	Kala-Balge	Borno	11.998	14.453	0	
 MSF Lassa Fever Treatment Centre	Bauchi	Bauchi	10.326	9.834	0	
-MSF ATFC	Koko-Besse	Kebbi	11.432	4.513	0	
+Msf Atfc	Koko-Besse	Kebbi	11.432	4.513	0	

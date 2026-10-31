@@ -1,5 +1,52 @@
-Vegetable Market	Oredo	Edo	6.346	5.633	0	
 Veterinary Quarters	Jere	Borno	11.788	13.206	2	
+Vera	Kaiama	Kwara	9.643	4.003	2	
+Veregh	Konshisha	Benue	7.113	8.566	2	
+Vera	Borgu	Niger	10.200	3.667	2	
+Venra	Kaiama	Kwara	9.641	4.002	2	Vera
+Ver	Ushongo	Benue	7.200	8.989	2	
+Vendu Nage	Ardo-Kola	Taraba	8.802	11.386	2	
+Vembera	Kwande	Benue	6.635	9.577	2	
+Vembe	Gwer East	Benue	7.320	8.504	2	
+Velnumbe	Konshisha	Benue	7.125	8.519	2	
+Velegh	Gboko	Benue	7.320	8.685	2	
+Velegh	Vandeikya	Benue	7.022	8.946	2	
+Vel	Ushongo	Benue	7.242	8.978	2	
+Veghergor	Gboko	Benue	7.214	8.676	2	
+Donka Verre	Fufore	Adamawa	8.840	12.541	2	
+Vedile	Michika	Adamawa	10.607	13.545	2	
+Vende	Gboko	Benue	7.270	8.778	2	
+Venda	Gwer East	Benue	7.265	8.375	2	
+Ver	Markurdi	Benue	7.720	8.482	2	
+Vershima	Wukari	Taraba	7.817	9.154	2	
+Vembe	Wukari	Taraba	7.935	9.380	2	
+Vembe	Ukum	Benue	7.717	9.370	2	
+Verashe	Ukum	Benue	7.638	9.420	2	
+Velato	Ukum	Benue	7.530	9.678	2	
+Verato	Gboko	Benue	7.415	9.018	2	
+Vende	Gboko	Benue	7.411	9.085	2	
+Venda	Gboko	Benue	7.390	9.056	2	
+Vergwa	Gboko	Benue	7.387	9.023	2	
+Vegher	Katsina-Ala	Benue	7.285	9.385	2	
+Vernumbe	Gboko	Benue	7.222	9.049	2	
+Venge	Ushongo	Benue	7.088	9.059	2	
+Venda	Katsina-Ala	Benue	7.152	9.405	2	
+Vembe	Gboko	Benue	7.387	8.784	2	
+Velioren	Gboko	Benue	7.410	8.861	2	
+Veewua	Gboko	Benue	7.317	8.852	2	
+Ajara Vetho	Badagry	Lagos	6.449	2.928	2	
+Ungwan Ventan	Sanga	Kaduna	9.143	8.480	2	
+Vendudalam	Fufore	Adamawa	9.095	12.068	2	
+Vendulagaje	Mayo-Belwa	Adamawa	9.018	12.009	2	
+Jalingo-Verere	Fufore	Adamawa	9.036	12.647	2	Jalingo Verere
+Dembe Ver	Sardauna	Taraba	6.811	11.427	2	
+Veronica Oba Drive	Enugu East	Enugu	6.483	7.481	1	
+Vero Acha Street	Ifako/Ijaye	Lagos	6.674	3.286	1	
+Mr. Vees Drive	Eti Osa	Lagos	6.473	3.579	1	
+Ali Cape Verde	Obio/Akpor	Rivers	4.901	6.908	1	
+Venn Road South	Onitsha South	Anambra	6.148	6.778	1	
+Camino vecinal	Mashegu	Niger	9.750	5.518	1	
+service road to the Veritas University gate	Bwari	FCT Abuja	9.289	7.417	1	
+Vegetable Market	Oredo	Edo	6.346	5.633	0	
 Lazemos Ventures Limited	Akinyele	Oyo	7.513	3.918	0	
 Aribet Ventures Filling Station	Uvwie	Delta	5.569	5.777	0	
 Cumono Ventures  Filling Station	Uvwie	Delta	5.562	5.748	0	
@@ -8,27 +55,19 @@ Tadaerigha Ventures Filling Station	Yenegoa	Bayelsa	4.940	6.338	0
 CGC Ventures Filling Station	Obio/Akpor	Rivers	4.870	6.981	0	
 Itaigho Ventures Filling Station	Udu	Delta	5.508	5.827	0	
 Zafeeroon Global Ventures	Billiri	Gombe	9.870	11.194	0	
-JIDADU VENTURES LTD	Akko	Gombe	10.269	11.117	0	
+Jidadu Ventures Ltd	Akko	Gombe	10.269	11.117	0	
 Victoria's vestige memorial hospital	Jos North	Plateau	9.899	8.882	0	
 Faculty of Veterinary Medicine	Jos North	Plateau	9.977	8.886	0	
 Kamjaza Ventures Limited	Girei	Adamawa	9.339	12.502	0	
 Medics Clinical Venture	Ado Odo/Ota	Ogun	6.561	3.079	0	
 vertiarg hospital	Kosofe	Lagos	6.607	3.415	0	
-Vera	Kaiama	Kwara	9.643	4.003	2	
 Emcee Veterinary Services	Municipal Area Council	FCT Abuja	9.141	7.376	0	
 Big Joe Ventures Ltd	Municipal Area Council	FCT Abuja	9.070	7.449	0	
-Veronica Oba Drive	Enugu East	Enugu	6.483	7.481	1	
 Veritas University Abuja	Bwari	FCT Abuja	9.287	7.413	0	
 Dayus Ventures	Ede North	Osun	7.718	4.496	0	
-Vero Acha Street	Ifako/Ijaye	Lagos	6.674	3.286	1	
 Mafa Para-Vetenary Clinic	Tarmua	Yobe	12.358	12.222	0	
-Mr. Vees Drive	Eti Osa	Lagos	6.473	3.579	1	
-Ali Cape Verde	Obio/Akpor	Rivers	4.901	6.908	1	
-Venn Road South	Onitsha South	Anambra	6.148	6.778	1	
 National Veterinary Reseach Institute	Oredo	Edo	6.316	5.618	0	
 Mafa Para-Vetenary Clinic	Tarmua	Yobe	12.362	12.228	0	
 vemgo heath clinic	Madagali	Adamawa	10.838	13.646	0	
-Camino vecinal	Mashegu	Niger	9.750	5.518	1	
 Verdic Life Care Hospital	Eti Osa	Lagos	6.432	3.472	0	
-service road to the Veritas University gate	Bwari	FCT Abuja	9.289	7.417	1	
 Vegetable Market	Jere	Borno	11.806	13.184	0	

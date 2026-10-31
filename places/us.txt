@@ -1,3 +1,5 @@
+Uselu	Egor	Edo	6.383	5.611	3	
+Uzere	Isoko South	Delta	5.342	6.229	3	Usere
 Uokha	Owan East	Edo	7.074	6.045	2	Usokha;Isokka
 Usuk Effiat	Mbo	Akwa Ibom	4.590	8.312	2	Usak Effiat
 Ushaman Dutsi	Rafi	Niger	10.107	6.032	2	Ushaman Duchi
@@ -9,7 +11,6 @@ Use Ikot Usuan	Ikono	Akwa Ibom	5.100	7.833	2	Useh Ilot Usan
 Usokun	Degema	Rivers	4.785	6.769	2	
 Osungwe	Okehi	Kogi	7.631	6.212	2	Usungwe
 Usua	Owan East	Edo	7.054	6.166	2	
-Uselu	Egor	Edo	6.383	5.611	3	
 Isung Udun Ukor	Udung Uko	Akwa Ibom	4.726	8.270	2	Usung Udun Ukor
 Gidan Usman	Rogo	Kano	11.466	7.697	2	Gidan Usuman;Usuman
 Uduk Usung	Obot Akara	Akwa Ibom	5.217	7.583	2	
@@ -32,11 +33,9 @@ Ukpom Usung Ubom	Ikono	Akwa Ibom	5.233	7.750	2	Ukpom Usung Ubon
 Urhomehen	Orhionmwon	Edo	6.047	6.141	2	Usomehe
 Uruk Uso	Abak	Akwa Ibom	5.033	7.783	2	Uruk Usor
 Usaman	Bassa	Kogi	7.867	7.167	2	
+Gidan Usaini	Kurmi	Taraba	7.067	10.933	2	Usaini
 Gidan Ushiba	Rafi	Niger	10.350	6.350	2	Ushiba
 Usubu	Kontagora	Niger	10.390	5.389	2	
-Useh Secondary School	Egor	Edo	6.367	5.572	0	
-Useh Primary Health Care	Egor	Edo	6.367	5.578	0	
-Useh Market	Egor	Edo	6.365	5.583	0	
 Mallum Mattari Usman Bintumi	Mobbar	Borno	13.242	12.722	2	
 Usman Dala	Biu	Borno	10.590	12.207	2	Sabon Gari
 Mallam Usmanti	Magumeri	Borno	12.184	12.956	2	
@@ -71,26 +70,136 @@ Jauro Usma	Biu	Borno	10.769	12.388	2
 Lamido Usai	Biu	Borno	10.857	11.807	2	
 Goni Usmanti	Guzamala	Borno	12.797	13.242	2	
 Sayinnari Goni Usman	Guzamala	Borno	13.122	12.954	2	
-USONG ATA USONG	Ukanafun	Akwa Ibom	4.865	7.658	2	
-Uzere	Isoko South	Delta	5.342	6.229	3	Usere
-Uso Market	Ọ̀wọ̀	Ondo	7.273	5.424	0	
-Usman Aisha Hospital	Bida	Niger	9.095	6.019	0	
+Usong Ata Usong	Ukanafun	Akwa Ibom	4.865	7.658	2	
 Usunwe	Okehi	Kogi	7.631	6.211	2	
-Usman Mohammad nig ltd oil	Jos North	Plateau	9.972	8.895	0	
-Sheikh Dahiru Usman Bauchi Foundation	Municipal Area Council	FCT Abuja	8.831	7.571	0	
-Uselu motor park	Egor	Edo	6.368	5.617	0	
-Usha-Kadu Primary Health Clinic	Nasarawa	Nasarawa	8.188	7.879	0	
 Usumutong	Abi	Cross River	5.834	8.008	2	
-General Hassan Usman Katsina (Unity College)	Bauchi	Bauchi	10.278	9.801	0	
-Usman Memorial Islamiyya School (Loddo)	Gombe	Gombe	10.295	11.170	0	
-Usman Memorial Islamiyya School (Loddo), Gombe	Gombe	Gombe	10.295	11.170	0	
-Usman Memorial Primary school Gombe, Gombe State	Gombe	Gombe	10.294	11.170	0	
-Usman Memorial Primary school Gombe , Gombe State	Gombe	Gombe	10.294	11.171	0	
-Orthopedic Hospital No12 B Ustaz Yunuz Street	Kaduna North	Kaduna	10.544	7.432	0	
-USMAN BN AFFAN COLLEGE OF ISLAMIC STUDIES	Ungongo	Kano	12.049	8.572	0	
-MALAN USMAN ALMAJIRI SCHOOL	Ungongo	Kano	12.043	8.567	0	
-Afoson And Company;Usman Fashion Store	Municipal Area Council	FCT Abuja	9.129	7.391	0	
-Ushafa Bridge New Market	Bwari	FCT Abuja	9.211	7.395	0	
+Manga Ushe	Zuru	Kebbi	11.387	5.223	2	
+Ushongo	Ushongo	Benue	7.104	9.097	2	
+Ussa	Ussa	Taraba	7.104	10.054	2	
+Uyanga Okpo Usun	Akamkpa	Cross River	5.382	8.263	2	
+Usung Urua	Odukpani	Cross River	5.087	8.166	2	
+Usung Esuk	Odukpani	Cross River	5.099	8.158	2	
+Usuman	Takum	Taraba	7.349	10.013	2	
+Usuman	Sardauna	Taraba	7.233	11.039	2	
+Usum	Donga	Taraba	7.618	10.004	2	
+Usukpan	Biase	Cross River	5.735	7.928	2	
+Usak Effiat	Mbo	Akwa Ibom	4.586	8.313	2	Usuk Effiat
+Ussa	Rafi	Niger	10.014	6.102	2	
+Usonigbe	Orhionmwon	Edo	5.984	6.177	2	
+Usmman	Wukari	Taraba	7.980	10.020	2	
+Usiefrun	Ughelli South	Delta	5.505	5.877	2	
+Shere	Toto	Nasarawa	8.206	7.303	2	Ushere
+Ushema	Rafi	Niger	10.346	6.148	2	
+Ushapa	Bwari	FCT Abuja	9.218	7.412	2	
+Ushan Bissa	Nasarawa	Nasarawa	8.190	7.878	2	
+Ushama	Birnin Gwari	Kaduna	10.633	6.567	2	
+Ushama	Rafi	Niger	9.877	6.044	2	
+Ushai	Kwande	Benue	6.788	9.507	2	
+Ushafa	Magama	Niger	10.647	4.887	2	
+Ushafa	Magama	Niger	10.580	4.862	2	
+Usere	Isoko South	Delta	5.342	6.229	2	
+Use Offot	Uyo	Akwa Ibom	5.023	7.971	2	
+Usenyi Ngurore	Gombi	Adamawa	10.214	12.677	2	
+Useni	Teungo	Adamawa	8.151	12.068	2	
+Use Ikot Edet	Ibiono Ibom	Akwa Ibom	5.109	7.846	2	
+Use Ikot Ebio	Uyo	Akwa Ibom	5.019	7.863	2	
+Use	Egor	Edo	6.362	5.583	2	Useh
+Usan	Markurdi	Benue	7.853	8.512	2	
+Usalle	Kontagora	Niger	10.328	5.562	2	
+Usaku	Fika	Yobe	11.358	11.262	2	
+Usaka-Umu-Ofo	Obi Ngwa	Abia	5.297	7.511	2	
+Usaka-Elegu	Isiala-Ngwa South	Abia	5.318	7.526	2	
+Usaka	Obi Ngwa	Abia	5.290	7.542	2	
+Usaa	Guma	Benue	7.945	8.657	2	
+Usaa	Takum	Taraba	7.426	10.144	2	
+Usaa	Gwer East	Benue	7.360	8.512	2	
+Usa	Rafi	Niger	9.988	6.097	2	
+Uruk Uso	Abak	Akwa Ibom	5.026	7.794	2	Uruk Usor
+Ungwan Sarikin Ushiba	Rafi	Niger	10.334	6.344	2	
+Ukpom Usung Ubom	Ikono	Akwa Ibom	5.226	7.759	2	Ukpom Usung Ubon
+Ubagu Usoanyim	Izzi	Ebonyi	6.412	8.307	2	
+Tse Usange	Gwer East	Benue	7.612	8.639	2	
+Obio-Usiere	Odukpani	Cross River	5.278	7.970	2	
+Nkumekpo Usaka	Ikwuano	Abia	5.368	7.649	2	
+Mallam Usman	Kwaya Kusar	Borno	10.569	11.896	2	
+Inwun-Use	Ibiono Ibom	Akwa Ibom	5.308	7.818	2	Inwun Llse
+Ikot Usop	Ikot Abasi	Akwa Ibom	4.680	7.698	2	
+Ikot Oku Usung	Ukanafun	Akwa Ibom	4.917	7.619	2	
+Ididep Usuk	Ibiono Ibom	Akwa Ibom	5.216	7.937	2	
+Ibono-Usuk	Ini	Akwa Ibom	5.381	7.636	2	
+Gidan Usumanu	Bali	Taraba	7.573	10.422	2	
+Guidan Usuman	Bungudu	Zamfara	12.192	6.557	2	Gidan Usuman
+Gidan Usuman	Sardauna	Taraba	7.151	11.035	2	
+Gidan Usuman	Karim Lamido	Taraba	9.215	11.102	2	Gidan Usmanu|Usmanu
+Gidan Usman Danladi	Rafi	Niger	10.288	6.442	2	
+Dongo Jaure Usman	Gombi	Adamawa	10.215	12.700	2	
+Jogo Usaku	Fika	Yobe	11.491	11.084	2	Dogo Usaku
+Akai Uso	Okobo	Akwa Ibom	4.760	8.077	2	
+Akaahan Usadoo Toren	Vandeikya	Benue	7.014	8.922	2	
+Afia Usu	Bende	Abia	5.670	7.626	2	
+Usungu	Gwer East	Benue	7.313	8.485	2	
+Usan	Gwer West	Benue	7.604	8.177	2	
+Usegh	Gwer West	Benue	7.732	8.104	2	
+Inyeneke Usung	Biase	Cross River	5.354	8.112	2	
+Gidan Sarikin Ushama	Rafi	Niger	10.325	6.143	2	
+Gidan Usisi	Shiroro	Niger	10.036	6.555	2	
+Ungwan Usman	Sabuwa	Katsina	11.219	7.119	2	
+Runtuwa Usman	Bagudo	Kebbi	11.446	4.212	2	
+Ikot Use Ekong	Eket	Akwa Ibom	4.661	7.976	2	
+Use	Ibiono Ibom	Akwa Ibom	5.301	7.837	2	
+Usung-Usung	Ini	Akwa Ibom	5.383	7.830	2	
+Usuk Ibakesi	Ini	Akwa Ibom	5.330	7.732	2	
+Uruk Uso	Obot Akara	Akwa Ibom	5.265	7.673	2	
+Ikpe Usung Ita	Obot Akara	Akwa Ibom	5.277	7.683	2	
+Ukpom Usung Ubon	Ikono	Akwa Ibom	5.240	7.741	2	
+Use Ikot Oku	Itu	Akwa Ibom	5.198	7.961	2	
+Use Ndon	Ibiono Ibom	Akwa Ibom	5.172	7.891	2	
+Ikot Usen	Ibiono Ibom	Akwa Ibom	5.168	7.889	2	
+Useh Ikot Odiong	Ibiono Ibom	Akwa Ibom	5.151	7.859	2	
+Uduk Usor	Ikot Ekpene	Akwa Ibom	5.172	7.729	2	
+Ikot Uso Akpan	Itu	Akwa Ibom	5.132	7.946	2	
+Use Nten	Ibiono Ibom	Akwa Ibom	5.074	7.874	2	
+Use Abat	Ibiono Ibom	Akwa Ibom	5.114	7.860	2	
+Obi-Usuani	Ndokwa East	Delta	5.810	6.609	2	
+Ohali Usosimi	Ogba/Egbema/Ndoni	Rivers	5.295	6.615	2	
+Uson	Orhionmwon	Edo	6.237	6.074	2	
+Ushongo	Ushongo	Benue	7.044	9.089	2	Agbegbe Ijoba Ibile Ushongo
+Ussa	Ussa	Taraba	7.087	10.038	2	Agbegbe Ijoba Ibile Ussa|Ussa Local Government Area
+Lugga Jauro Usmanu	Maiha	Adamawa	9.958	13.283	2	
+Usha-Pulka	Gwoza	Borno	11.254	13.792	2	
+Usoenyim	Izzi	Ebonyi	6.394	8.301	2	
+Usende	Wukari	Taraba	7.906	9.409	2	
+Usondo	Buruku	Benue	7.534	9.073	2	
+Use	Wukari	Taraba	7.754	9.879	2	
+Use	Ukum	Benue	7.534	9.611	2	
+Usman	Ukum	Benue	7.648	9.725	2	
+Usaal	Ukum	Benue	7.518	9.657	2	
+Usar	Wukari	Taraba	7.738	9.855	2	
+Uso	Takum	Taraba	7.510	9.947	2	
+Usor	Gboko	Benue	7.359	9.026	2	
+Usagh	Buruku	Benue	7.453	9.172	2	
+Usuu	Buruku	Benue	7.415	9.141	2	
+Usu	Gboko	Benue	7.353	9.176	2	
+Usoho	Buruku	Benue	7.321	9.244	2	
+Usha	Buruku	Benue	7.201	9.152	2	
+Ushi	Ushongo	Benue	7.055	9.116	2	
+Usu	Buruku	Benue	7.223	9.194	2	
+Usha	Katsina-Ala	Benue	7.154	9.460	2	
+Ushil	Gboko	Benue	7.452	8.979	2	
+Usa	Gboko	Benue	7.293	8.960	2	
+Usuwe	Gboko	Benue	7.285	8.915	2	
+Usumadi	Yusufari	Yobe	13.034	11.218	2	
+Wuro Usumanu	Jada	Adamawa	8.635	12.323	2	
+Wuro Usuman Lainde	Jada	Adamawa	8.753	12.474	2	
+Wuro Usumanu	Jada	Adamawa	8.642	12.310	2	
+Usenu-Irrua	Esan Central	Edo	6.738	6.214	2	
+Wuro Usumanu	Ganye	Adamawa	8.523	11.963	2	
+Usmanu	Ardo-Kola	Taraba	8.832	11.161	2	
+Wuro Useni	Girei	Adamawa	9.335	12.458	2	
+Sangere-Usmanu	Girei	Adamawa	9.480	12.583	2	Sangere Usmanu
+Usough	Qua'An Pan	Plateau	8.592	8.999	2	
+Wuro Useni	Girei	Adamawa	9.522	12.442	2	WuroUseni
+Malam Usumanu	Sardauna	Taraba	6.935	11.424	2	
 Ndidem Usong Iso	Calabar Municipal	Cross River	4.976	8.341	1	
 Usman Jikan Toro Road	Kaduna North	Kaduna	10.582	7.468	1	
 Muazu Usman Road	Kaduna North	Kaduna	10.549	7.466	1	
@@ -104,8 +213,6 @@ Usuma Street	Municipal Area Council	FCT Abuja	9.074	7.499	1
 Usman Jibrin Close	Municipal Area Council	FCT Abuja	9.004	7.478	1	
 Abubakar Usman Crescent	Municipal Area Council	FCT Abuja	9.062	7.427	1	
 Usuma Close	Municipal Area Council	FCT Abuja	9.081	7.502	1	
-Okungbowa Street Off Useh Market Road	Egor	Edo	6.364	5.584	1	
-USEH PRIMARY SCHOOL	Egor	Edo	6.362	5.583	0	
 Usiomwanta street	Egor	Edo	6.356	5.579	1	
 Usoh Street	Egor	Edo	6.362	5.574	1	
 Hassan Usman Katsina Road	Lokoja	Kogi	7.824	6.689	1	
@@ -113,13 +220,11 @@ Usco Street	Enugu South	Enugu	6.394	7.502	1
 Ndi-usara Street	Enugu South	Enugu	6.385	7.473	1	
 Usman Dan Fodio Road	Akure South	Ondo	7.308	5.135	1	
 Ndidem Usong Iso	Calabar Municipal	Cross River	4.959	8.334	1	
-Hassan Usman Katsina Polytechnic	Batagarawa	Katsina	12.920	7.589	0	
 Land use Road	Ifako/Ijaye	Lagos	6.638	3.321	1	
 Usman Sulaiman Street	Eti Osa	Lagos	6.494	3.587	1	
 Usman Muazu	Chikun	Kaduna	10.464	7.456	1	
 Ido/Usi Road	Ido-Osi	Ekiti	7.860	5.162	1	
 Uso Road	Ise/Orun	Ekiti	7.461	5.425	1	
-Usman Dan Fodio Road	Akure South	Ondo	7.307	5.127	1	
 Ndidem Usong Iso	Calabar Municipal	Cross River	5.022	8.364	1	
 Hassan Usman Katsina Street	Municipal Area Council	FCT Abuja	9.031	7.517	1	
 Usong Afaha Obo	Ukanafun	Akwa Ibom	4.864	7.646	1	
@@ -130,12 +235,31 @@ Usong Ikot Udo	Ukanafun	Akwa Ibom	4.862	7.654	1
 Usong Udua Odung	Ukanafun	Akwa Ibom	4.869	7.652	1	
 Usong Anwa Akpana	Ukanafun	Akwa Ibom	4.869	7.657	1	
 Usong Denis Obot	Ukanafun	Akwa Ibom	4.867	7.660	1	
+Near 60 Hasell St, Charleston, SC 29401, USA	Ado Odo/Ota	Ogun	6.543	3.066	1	
+Useh Secondary School	Egor	Edo	6.367	5.572	0	
+Useh Primary Health Care	Egor	Edo	6.367	5.578	0	
+Useh Market	Egor	Edo	6.365	5.583	0	
+Uso Market	Ọ̀wọ̀	Ondo	7.273	5.424	0	
+Usman Aisha Hospital	Bida	Niger	9.095	6.019	0	
+Usman Mohammad nig ltd oil	Jos North	Plateau	9.972	8.895	0	
+Sheikh Dahiru Usman Bauchi Foundation	Municipal Area Council	FCT Abuja	8.831	7.571	0	
+Uselu motor park	Egor	Edo	6.368	5.617	0	
+Usha-Kadu Primary Health Clinic	Nasarawa	Nasarawa	8.188	7.879	0	
+General Hassan Usman Katsina (Unity College)	Bauchi	Bauchi	10.278	9.801	0	
+Usman Memorial Islamiyya School (Loddo)	Gombe	Gombe	10.295	11.170	0	
+Usman Memorial Islamiyya School (Loddo), Gombe	Gombe	Gombe	10.295	11.170	0	
+Usman Memorial Primary school Gombe, Gombe State	Gombe	Gombe	10.294	11.170	0	
+Usman Memorial Primary school Gombe , Gombe State	Gombe	Gombe	10.294	11.171	0	
+Orthopedic Hospital No12 B Ustaz Yunuz Street	Kaduna North	Kaduna	10.544	7.432	0	
+Usman Bn Affan College Of Islamic Studies	Ungongo	Kano	12.049	8.572	0	
+Malan Usman Almajiri School	Ungongo	Kano	12.043	8.567	0	
+Afoson And Company;Usman Fashion Store	Municipal Area Council	FCT Abuja	9.129	7.391	0	
+Ushafa Bridge New Market	Bwari	FCT Abuja	9.211	7.395	0	
+Useh Primary School	Egor	Edo	6.362	5.583	0	
+Hassan Usman Katsina Polytechnic	Batagarawa	Katsina	12.920	7.589	0	
 Usokun Town Hall	Degema	Rivers	4.783	6.770	0	
 State School II, Usokun	Degema	Rivers	4.786	6.774	0	
 Usmanu Danfodio University Teaching Hospital	Wamako	Sokoto	13.035	5.220	0	UDUTH Teaching Hospital
 L C C N Health Post Ba Usmanu	Fufore	Adamawa	8.905	12.720	0	
 Ihya;ussunnah Jauro kuna	Gombe	Gombe	10.311	11.171	0	
 Aliyu Usman El-Nafaty	Gombe	Gombe	10.308	11.175	0	
-Near 60 Hasell St, Charleston, SC 29401, USA	Ado Odo/Ota	Ogun	6.543	3.066	1	
-Manga Ushe	Zuru	Kebbi	11.387	5.223	2	
-Ushongo	Ushongo	Benue	7.104	9.097	2	

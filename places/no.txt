@@ -1,3 +1,4 @@
+Nokaram Ndiyam	Bayo	Borno	10.348	11.610	3	Briyel
 North Point	Bonny	Rivers	4.574	7.066	2	
 Notem	Khana	Rivers	4.672	7.369	2	
 Tugan Noma	Agwara	Niger	10.874	4.401	2	Tungar Noma
@@ -10,7 +11,6 @@ Ungwan Sarkin Noma Mara	Ikara	Kaduna	11.325	8.179	2	Sarkin Noma Mara
 Ungwan Noma	Gummi	Zamfara	12.169	4.937	2	
 Nev	Gwer East	Benue	7.569	8.610	2	Nov
 Tunigan-Nomo	Tambuwal	Sokoto	12.317	4.847	2	
-Ungwan Noma	Gummi	Zamfara	12.177	4.952	2	
 Ungwan Nomau	Ikara	Kaduna	11.279	8.191	2	
 Nok	Jaba	Kaduna	9.506	8.008	2	
 Ungwan Sarkin Noma	Kudan	Kaduna	11.272	7.815	2	Sarkin Noma
@@ -22,7 +22,6 @@ Tungan Noma	Suru	Kebbi	11.617	3.856	2
 Guidan Sarkin Noma	Gusau	Zamfara	12.102	6.987	2	
 Bwoka Noma	Tureta	Sokoto	12.584	5.330	2	
 Nubupe	Paikoro	Niger	9.367	6.583	2	Nogopi
-Nokaram Ndiyam	Bayo	Borno	10.348	11.610	3	Briyel
 Tungan Noma	Bagudo	Kebbi	11.442	3.928	2	
 Tungan Noma	Dandi	Kebbi	11.807	3.672	2	
 Ganganale	Borgu	Niger	10.902	4.131	2	Tugan Noma
@@ -34,27 +33,22 @@ Noma Godawa	Bunza	Kebbi	12.134	3.913	2
 Garin Noma Bizo	Bunza	Kebbi	12.140	3.925	2	
 Donlipe	Borgu	Niger	10.810	4.008	2	Tungar Noma
 Tungan Noma Utula	Agwara	Niger	10.887	4.354	2	
-Noma Petrol	Egor	Edo	6.363	5.589	0	
 Hotoro North	Nassarawa	Kano	11.979	8.588	2	
 Noman Land	Fagge	Kano	12.031	8.536	2	
 Gra North	Kano Municipal	Kano	11.977	8.519	2	
 Kabuga Salanta North	Gwale	Kano	11.972	8.486	2	
 Kabuwaya North	Dala	Kano	12.013	8.508	2	
-Wambai Market North	Kano Municipal	Kano	12.009	8.523	0	
 Gidan Sani Nomadic	Tudun Wada	Kano	11.312	8.393	2	
-Ibadan North East LG	Ibadan North East	Oyo	7.404	3.934	0	
 Lawanti North	Gubio	Borno	12.500	12.781	2	
 Boftari Nomadic	Chibok	Borno	10.916	12.976	2	
 Bila Kyari Normadaic	Chibok	Borno	10.777	12.911	2	
 Bila Mallum Nomadic	Chibok	Borno	10.741	12.851	2	
 Danga Nomadic	Chibok	Borno	10.812	12.880	2	
 Jajel Nomadic	Chibok	Borno	10.699	12.924	2	
-Jajel Nomadic	Chibok	Borno	10.706	12.922	2	
 Lawan Audu Normadic	Chibok	Borno	10.768	12.961	2	
 Ekpenyong Atai No.2	Essien Udim	Akwa Ibom	5.063	7.677	2	
 Sanyere Nomandie	Hawul	Borno	10.429	12.503	2	
 Bindim North	Bayo	Borno	10.384	11.639	2	
-Bindim North	Bayo	Borno	10.392	11.640	2	
 Tashan Itache North	Bayo	Borno	10.366	11.648	2	
 Nolide	Mobbar	Borno	13.248	12.882	2	
 Noda	Bayo	Borno	10.509	11.674	2	
@@ -65,9 +59,7 @@ Wanka Nomadic	Bayo	Borno	10.696	11.807	2
 Warum Nomadic	Bayo	Borno	10.718	11.786	2	
 Lawan Babayel Nomadic	Chibok	Borno	10.775	12.814	2	
 Nchiha Ayuba Nom	Chibok	Borno	10.828	12.734	2	
-pas de nom	Ipokia	Ogun	6.645	2.738	0	
 FUTA North Gate	Akure South	Ondo	7.307	5.140	2	
-Kaduna North	Kaduna North	Kaduna	10.541	7.426	0	
 Wulari Nomadic	Monguno	Borno	12.636	13.642	2	
 Kime Annari Normadic	Kukawa	Borno	12.729	13.610	2	
 Nolwodo Konto Bukar	Guzamala	Borno	12.733	13.345	2	
@@ -80,158 +72,10 @@ Nolwodo Fodumari	Guzamala	Borno	12.752	13.331	2
 Nolwodo	Guzamala	Borno	12.718	13.449	2	
 Nolwodo Mallum Gwori	Guzamala	Borno	12.739	13.348	2	
 Nolwodo Mallum Kinnari	Guzamala	Borno	12.751	13.353	2	
-Nobel Stride Schools	Uvwie	Delta	5.562	5.774	0	
-Northwest Megastation	Odukpani	Cross River	5.088	8.346	0	
 North Argungu	Argungu	Kebbi	12.748	4.524	2	
 Jega North	Jega	Kebbi	12.231	4.378	2	
 Birnin Kebbi North	Birnin Kebbi	Kebbi	12.467	4.203	2	
 Gidan Sarkin Noma Gabas	Gaya	Kano	11.832	9.125	2	
-Noma Hospital	Sokoto North	Sokoto	13.068	5.215	0	
-Noka Optical	Akinyele	Oyo	7.482	3.909	0	
-Nomadic	Egbedore	Osun	7.785	4.486	0	
-NOOWA Hospital	Municipal Area Council	FCT Abuja	9.085	7.527	0	
-Ezza North LGA Secreteriat Ebiaji	Ezza North	Ebonyi	6.226	7.995	0	
-Saint Gerad Hospital Kakuri Noaa 26 Makera Road Nasarawa Kaduna	Chikun	Kaduna	10.478	7.397	0	
-General Hospital Baro Dikko No19 Kaduna Road Nasarawa Kafuna	Chikun	Kaduna	10.471	7.397	0	
-Hospitals No13a Tafoki Road Kabala West	Kaduna South	Kaduna	10.503	7.396	0	
-NNPC Industrial Clinic No35 Rabah Road	Kaduna North	Kaduna	10.551	7.467	0	
-44 Hospital No8 Togo Street Malali	Kaduna North	Kaduna	10.562	7.468	0	
-44 Army Hospital No13 Abba Road Off Lea Primary School Kagoro Road	Kaduna North	Kaduna	10.557	7.441	0	
-Barau Dikko Hospital NoBN13 Kinshasha Road Unguwan Rimi Kaduna	Kaduna North	Kaduna	10.534	7.462	0	
-specialist Hospital No6 Shehu Ibrahim Close Malali	Kaduna North	Kaduna	10.550	7.470	0	
-Both Public And Private Hospitals And Clinics No21 Sani Sambo Avenue	Kaduna North	Kaduna	10.547	7.441	0	
-Kawo General Hospital NoH14 Kawo Road Kawo Market Kawo Kaduna	Kaduna North	Kaduna	10.582	7.449	0	
-Barau Dikko Teaching Hospital NoT15 Darma Road Kawo	Kaduna North	Kaduna	10.577	7.449	0	
-National Hospital Abuja No4mm Lawal Jafaru Isa Road	Kaduna North	Kaduna	10.542	7.472	0	
-Specialist Hospital No20a Gobarar Road Unguwar Rimi Kaduna	Kaduna North	Kaduna	10.509	7.458	0	
-NNPC Hospital No2 Sultan Road Unguwan Rimi Gra Kaduna	Kaduna North	Kaduna	10.536	7.452	0	
-44 Army Hospital No27 Idenpence Way Kaduna	Kaduna North	Kaduna	10.513	7.441	0	
-Orthopedic Hospital No12 B Ustaz Yunuz Street	Kaduna North	Kaduna	10.544	7.432	0	
-Primary Haelth Care No1 River Line Road Kabala Coastin	Kaduna North	Kaduna	10.501	7.440	0	
-Governor One Hospital No3 Dokaji Street Romi	Chikun	Kaduna	10.439	7.420	0	
-Barau Dikko Teaching Hospital No1 Suleiman Ahmed Road Shagari Lowcost	Kaduna South	Kaduna	10.464	7.432	0	
-Teaching Hospital No10 Sylvester Crescent Barnawa Kaduna State	Kaduna South	Kaduna	10.483	7.439	0	
-St Gerald Catholic Hospital No74 Naiyayi Road Opposite Space 2000	Kaduna South	Kaduna	10.477	7.437	0	
-Primary Healthcare Tudun Wada No2 Bugai Road Kujama	Chikun	Kaduna	10.477	7.643	0	
-Governor Awan General Hospital No43 Bugai Road Kujama	Chikun	Kaduna	10.476	7.645	0	
-Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
-Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
-General Hospital No2 Kkb Sarki Street Keke B	Chikun	Kaduna	10.559	7.494	0	
-Tree Star Hospital No1 Natata Street	Chikun	Kaduna	10.435	7.416	0	
-Gwamna Awan General Hospital Tunga Road No60 Angwa Sauri	Chikun	Kaduna	10.415	7.425	0	
-General Hospital Barodikko No1b Yarima Street Ang Pama	Chikun	Kaduna	10.456	7.456	0	
-Noble Medical Digonistic Centre	Ojo	Lagos	6.492	3.174	0	
-Noble Clinic	Alimosho	Lagos	6.537	3.243	0	
-Norex Clinic	Amuwo Odofin	Lagos	6.465	3.242	0	
-NORTHWEST BEST ACADEMY	Ungongo	Kano	12.047	8.573	0	
-Nogohom Community Primary School	Jos North	Plateau	9.962	8.933	0	
-Nowas	Enugu East	Enugu	6.482	7.501	0	
-Nowas Filling Station	Enugu East	Enugu	6.482	7.501	0	
-point of no return	Badagry	Lagos	6.405	2.885	0	
-Noah's Ark International School	Karu	Nasarawa	9.045	7.596	0	
-Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.054	7.495	1	
-Norman Williams Street	Eti Osa	Lagos	6.444	3.418	1	
-Nosayaba Street	Oredo	Edo	6.351	5.630	1	
-Nogheghase Street	Ikpoba-Okha	Edo	6.323	5.633	1	
-Nosakhare street	Egor	Edo	6.355	5.580	1	
-2nd Nosakhare Lane	Oredo	Edo	6.345	5.602	1	
-Nosakhare Street	Oredo	Edo	6.346	5.602	1	
-1st Nosakhare Lane	Oredo	Edo	6.345	5.602	1	
-Nosa Okundaye Street	Oredo	Edo	6.314	5.590	1	
-Noroware-Omonudo Str	Oredo	Edo	6.301	5.607	1	
-Norowarw-Omonudo Way	Oredo	Edo	6.301	5.607	1	
-Nomayo Lane	Oredo	Edo	6.320	5.594	1	
-Nosa Avenue	Oredo	Edo	6.301	5.603	1	
-Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.064	7.489	1	
-Nouakchott Street	Municipal Area Council	FCT Abuja	9.052	7.465	1	
-Norus Close	Ikeja	Lagos	6.636	3.356	1	
-Noble Street	Lagos Mainland	Lagos	6.500	3.382	1	
-North Avenue	Apapa	Lagos	6.452	3.361	1	
-Nosamu Street	Ajeromi/Ifelodun	Lagos	6.454	3.348	1	
-Porto Novo Street	Municipal Area Council	FCT Abuja	9.072	7.468	1	
-Northwest Street	Gwale	Kano	12.004	8.486	1	
-Nosa-Adu Street	Egor	Edo	6.357	5.572	1	
-Nosa Edo Osagie Street	Oredo	Edo	6.294	5.602	1	
-Nojimu Abioye Street	Alimosho	Lagos	6.680	3.268	1	
-Mike Nomoreless Avenue	Oredo	Edo	6.320	5.581	1	
-Nosayaba Street	Oredo	Edo	6.354	5.614	1	
-Nosayaba Street	Oredo	Edo	6.351	5.618	1	
-Nomalinda Road	Enugu South	Enugu	6.420	7.521	1	
-Upper North 5th Road 21	Enugu East	Enugu	6.484	7.490	1	
-North 7Th	Enugu East	Enugu	6.480	7.491	1	
-Upper North5Th Rd24	Enugu East	Enugu	6.483	7.488	1	
-Upper North Road 23	Enugu East	Enugu	6.484	7.489	1	
-North 1St Avenue	Enugu East	Enugu	6.481	7.494	1	
-Upper North Rd19	Enugu East	Enugu	6.483	7.489	1	
-North 3Rd	Enugu East	Enugu	6.481	7.493	1	
-North 2Nd	Enugu East	Enugu	6.481	7.494	1	
-North 8Th	Enugu East	Enugu	6.480	7.491	1	
-Upper North Rd10	Enugu East	Enugu	6.483	7.491	1	
-Upper North 5th Road 27	Enugu East	Enugu	6.483	7.487	1	
-Upper North 5Th Rd26	Enugu East	Enugu	6.483	7.487	1	
-Upper North 5th Road 22	Enugu East	Enugu	6.484	7.489	1	
-Upper North 5th Road 20	Enugu East	Enugu	6.484	7.490	1	
-Nonyelum Estate Road	Enugu North	Enugu	6.457	7.524	1	
-Nomeh Drive	Enugu East	Enugu	6.482	7.499	1	
-Notre Dame Close	Enugu South	Enugu	6.398	7.489	1	
-No.1 Primary School	Ijumu	Kogi	7.988	5.991	0	
-Upper North 5th Road18	Enugu East	Enugu	6.484	7.491	1	
-Upper North 5th Road 25	Enugu East	Enugu	6.483	7.487	1	
-Upper North 5th Road 28	Enugu East	Enugu	6.482	7.486	1	
-Nonso Mba Street	Enugu East	Enugu	6.466	7.571	1	
-Northwest Street	Gwale	Kano	12.007	8.488	1	
-Nonso Chukwucheben Street	Eti Osa	Lagos	6.424	3.522	1	
-Sabon Gari North	Zaki	Bauchi	12.402	10.283	0	
-NOWA Educational centre	Karu	Nasarawa	8.885	7.606	0	
-Yola Nora Health Clinic	Tafawa-Balewa	Bauchi	9.736	9.741	0	
-Hon. Noheem Adams Street	Eti Osa	Lagos	6.447	3.613	1	
-National Open University of Nigeria	Osogbo	Osun	7.751	4.569	0	NOUN
-Alhaji Nojimudeen Bakare Street	Eti Osa	Lagos	6.506	3.586	1	
-Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.052	7.496	1	
-Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.043	7.500	1	
-Noah Omoboye Street	Eti Osa	Lagos	6.468	3.636	1	
-Bajoga Northeast Airport	Funakaye	Gombe	10.925	11.506	0	
-Kekeno Non Government IDP Camp	Jere	Borno	11.782	13.139	1	
-Nottidge street	Onitsha North	Anambra	6.152	6.775	1	
-National Orthopaedic Hospital Igbobi	Shomolu	Lagos	6.530	3.373	0	NOHIL
-November 27 Interchange	Ede North	Osun	7.750	4.520	1	
-Nosiru Asa Street	Oshodi/Isolo	Lagos	6.545	3.323	1	
-Northern Forshore Road	Eti Osa	Lagos	6.457	3.529	1	
-Novare Lekki Mall	Eti Osa	Lagos	6.468	3.639	0	
-East-West Road, Ughelli, Ughelli North, Delta, Nigeria	Ughelli North	Delta	5.519	5.975	1	
-NOSAKHARE STREET	Oredo	Edo	6.293	5.566	1	LUCKY OGBEBOR STREET
-North Drive	Akinyele	Oyo	7.500	3.905	1	
-Norwich road	Edati	Niger	8.881	5.943	1	
-Barrister G.C Nonyelum Street	Awka South	Anambra	6.246	7.102	1	
-Noah Udoh Street	Uyo	Akwa Ibom	5.012	7.937	1	
-Nottidge by bright street	Onitsha North	Anambra	6.152	6.775	1	
-National Open University of Nigeria	Eti Osa	Lagos	6.434	3.409	0	NOUN
-ECHALIKE TO NOYO JUNCTION ROAD	Abakaliki	Ebonyi	6.205	8.222	1	
-NOYO TO NDIAGU ECHARA	Ikwo	Ebonyi	6.183	8.245	1	
-NOYO TO NDIAGU ECHAR IKW	Ikwo	Ebonyi	6.162	8.265	1	
-ECHALIKE TO NOYO JUNCTION ROAD	Abakaliki	Ebonyi	6.200	8.228	1	
-Noble International Comprehensive Academy	Emuoha	Rivers	5.057	6.727	0	
-Northgate Garage	Akure South	Ondo	7.308	5.138	0	
-Northwest	Eti Osa	Lagos	6.458	3.554	0	
-Northwest	Eti Osa	Lagos	6.464	3.562	0	
-Gidan Sarkin Noma Primary Health Centre	Gaya	Kano	11.823	9.120	0	
-Nobordo Primary Health Center	Toro	Bauchi	10.223	9.398	0	
-Ibadan North East LG Primary Health Care Centre, Iwo Road	Ibadan North East	Oyo	7.404	3.934	0	
-Arawa Dispensary	Jama'Are	Bauchi	11.714	9.928	0	Fatiske Jauro Alabura North
-NOBSAMS Hospital	Obio/Akpor	Rivers	4.829	7.037	0	
-Noma Children Hospital Sokoto	Sokoto North	Sokoto	13.067	5.216	0	
-Model Primary Health Center Gumau	Toro	Bauchi	10.258	9.014	0	Wunu North Primary Health Center
-No Doctors In The Hospital	Jada	Adamawa	8.572	12.252	0	
-Nodinga Health Clinic	Jada	Adamawa	8.447	12.050	0	
-none	Jere	Borno	12.038	13.075	1	
-Novare Central Mall	Municipal Area Council	FCT Abuja	9.065	7.458	0	
-Novare Apo	Municipal Area Council	FCT Abuja	8.985	7.493	0	
-Novare Gateway	Municipal Area Council	FCT Abuja	8.991	7.394	0	
-Mrs. Nonye Osi Street	Eti Osa	Lagos	6.481	3.609	1	
-Afikpo North Local Government Headquarters	Afikpo North	Ebonyi	5.891	7.925	0	
-no name	Ado Odo/Ota	Ogun	6.589	3.104	1	
-North East Children’s Trust (NECT), The Learning Centre 1	Maiduguri	Borno	11.826	13.116	0	
-North East School	Jere	Borno	11.839	13.176	0	
 Maradun North	Maradun	Zamfara	12.573	6.346	2	
 Bingi North	Bungudu	Zamfara	12.022	6.497	2	
 Shinkafi North	Shinkafi	Zamfara	13.076	6.494	2	
@@ -245,7 +89,6 @@ Yelwa North	Yauri	Kebbi	10.841	4.783	2
 Kauran Wali North	Kudan	Kaduna	11.329	7.824	2	
 Kagarko North	Kagarko	Kaduna	9.539	7.716	2	
 Ninzo North	Sanga	Kaduna	9.167	8.543	2	
-Nok	Jaba	Kaduna	9.524	8.009	2	
 Tundun Wada North	Kaduna South	Kaduna	10.512	7.415	2	
 Jere North	Kagarko	Kaduna	9.522	7.488	2	
 Sabon Gari North	Kaduna South	Kaduna	10.515	7.397	2	
@@ -301,3 +144,330 @@ Hotoro North	Nassarawa	Kano	11.990	8.592	2
 Yola North	Yola North	Adamawa	9.266	12.251	2	
 Kaduna North	Kaduna North	Kaduna	10.556	7.453	2	
 Warri North	Warri North	Delta	5.924	5.135	2	
+Yelwa Nono	Wase	Plateau	9.217	9.950	2	
+Ungwan Sarkin Noma Mara	Ikara	Kaduna	11.324	8.180	2	Sarkin Noma Mara
+Ungwan Sarkin Noma	Lafia	Nasarawa	8.858	8.942	2	
+Ungwan Noma	Gummi	Zamfara	12.167	4.933	2	
+Tunga Sarikin Noma	Rafi	Niger	10.067	6.450	2	
+Tungan Noma Munzu	Agwara	Niger	10.781	4.432	2	
+Sarkin Noma	Sabuwa	Katsina	11.245	7.026	2	
+Sarkin Noma	Bali	Taraba	8.337	11.126	2	
+Sama Noguakiri	Asari-Toru	Rivers	4.815	6.826	2	Sama|Sama-Naguakiri
+Oturkpo Nobi	Oturkpo	Benue	7.251	8.156	2	
+Nubupe	Paikoro	Niger	9.367	6.586	2	Nogopi
+Noyo	Ikwo	Ebonyi	6.212	8.297	2	
+Nosiru	Oluyole	Oyo	7.207	4.009	2	
+North	Etim Ekpo	Akwa Ibom	4.969	7.660	2	
+Norjajo	Donga	Taraba	7.576	10.160	2	
+Norie	Ngor-Okpala	Imo	5.369	7.221	2	
+Nordorough	Ibi	Taraba	8.119	9.453	2	
+Nor	Guma	Benue	7.945	8.579	2	
+Nor	Donga	Taraba	7.731	10.160	2	
+Nor	Gwer East	Benue	7.424	8.579	2	
+Nonya	Umuahia North	Abia	5.701	7.427	2	
+Nonwa Kenbawa	Tai	Rivers	4.745	7.231	2	Nenwa
+Nono	Yamaltu/Deba	Gombe	10.147	11.386	2	
+Nongur	Markurdi	Benue	7.849	8.533	2	
+Nongu	Konshisha	Benue	7.266	8.550	2	
+Nongoaiye	Gwer East	Benue	7.382	8.518	2	
+Nongo	Gboko	Benue	7.462	8.711	2	
+Nongo	Konshisha	Benue	7.331	8.577	2	
+Nongo	Konshisha	Benue	7.219	8.566	2	
+Nonaa	Ushongo	Benue	7.141	8.922	2	
+Nomyugh	Takum	Taraba	7.500	10.079	2	
+Nomyiwa	Gwer East	Benue	7.424	8.227	2	
+Nomso	Guma	Benue	7.892	8.601	2	
+Nomso	Takum	Taraba	7.338	10.031	2	
+Nomor	Ushongo	Benue	7.108	8.910	2	
+Nomjou	Konshisha	Benue	7.045	8.537	2	
+Nomhwange	Takum	Taraba	7.491	10.114	2	
+Nomhwange	Takum	Taraba	7.326	10.084	2	
+Nomeh	Nkanu East	Enugu	6.164	7.577	2	
+Nok	Jaba	Kaduna	9.490	8.021	2	
+Norgu	Dunukofia	Anambra	6.257	6.984	2	Nogu
+Nogona	Konshisha	Benue	7.028	8.546	2	
+Nognadwa	Konshisha	Benue	7.064	8.551	2	
+Noddere Bokki	Maiha	Adamawa	10.064	13.087	2	
+Nnobi	Idemili South	Anambra	6.047	6.941	2	Nnabi|Nobi
+Nonowa	Funakaye	Gombe	11.010	11.442	2	Nayinawa|Ninowa|Ninowo
+Naforija	Epe	Lagos	6.630	3.986	2	Norforija
+Makurdi North	Markurdi	Benue	7.749	8.551	2	
+Jauro Noko	Jalingo	Taraba	8.970	11.274	2	
+Guidan Sarkin Noma	Gusau	Zamfara	12.105	6.984	2	Gidan Sarkin Noma
+Gidan Sarikin Noma	Rafi	Niger	10.283	6.433	2	
+Gasa Noppi	Teungo	Adamawa	7.912	11.579	2	
+Anguwan Sarkin Noma	Igabi	Kaduna	10.800	7.483	2	
+Nomabom	Eleme	Rivers	4.834	7.173	2	
+Nosee	Igalamela-Odolu	Kogi	7.089	6.841	2	
+Nom	Markurdi	Benue	7.606	8.459	2	
+Nongun	Gwer West	Benue	7.716	8.263	2	
+Nofia	Njikoka	Anambra	6.186	7.019	2	
+Tungan Noma	Suru	Kebbi	11.614	3.855	2	
+Runjin Sarkin Noma	Wamako	Sokoto	13.154	5.207	2	
+Sarkin Noma	Kankara	Katsina	11.963	7.358	2	
+Nogwonada	Kankara	Katsina	11.843	7.347	2	
+Ungwan Noma	Bakori	Katsina	11.672	7.482	2	
+Sarkin Noma	Danja	Katsina	11.516	7.469	2	
+Sarkin Noma	Danja	Katsina	11.409	7.631	2	
+Gidan Sarkin Noma	Sabuwa	Katsina	11.346	7.063	2	
+Gidan Sarkin Noma	Funtua	Katsina	11.341	7.365	2	
+Ungwan Sarkin Noma	Giwa	Kaduna	11.246	7.394	2	
+Noman Kawo	Fakai	Kebbi	11.614	4.673	2	
+Tungan Nomo	Suru	Kebbi	11.669	4.147	2	
+Gidan Sarkin-Noma	Dukku	Gombe	10.397	10.969	2	
+Tunigan-Nomo	Tambuwal	Sokoto	12.308	4.851	2	Maidaji
+Nogbene	Ekeremor	Bayelsa	4.988	5.782	2	Norgbene
+Nonwa Udume	Tai	Rivers	4.742	7.223	2	
+Nogo Beeri	Khana	Rivers	4.687	7.425	2	
+Gidan Sarkin Noma	Kiru	Kano	11.392	8.244	2	
+Ungwan Sarkin Noma Hanau	Ikara	Kaduna	11.195	8.142	2	
+Mbiabong Ikon No. 2	Ikono	Akwa Ibom	5.294	7.774	2	
+Mbiabong Ikon No. 1	Ikono	Akwa Ibom	5.311	7.758	2	
+Nto Edino	Obot Akara	Akwa Ibom	5.248	7.552	2	Nto-Edino No. 1|Nto-Edino Number One
+Obot Itiat	Ibiono Ibom	Akwa Ibom	5.113	7.907	2	Obot Itiat No.2
+Ibiakpan	Abak	Akwa Ibom	5.098	7.796	2	Ibiakpan No.1
+Ibiakpan	Abak	Akwa Ibom	5.078	7.812	2	Ibiakpan No.2
+Nogororo	Orhionmwon	Edo	6.354	6.108	2	
+Awka North	Awka North	Anambra	6.333	7.000	2	
+Ede North	Ede North	Osun	7.707	4.509	2	Agbegbe Ijoba Ibile Ariwa Ede|Ede Nord|Ede ta Arewa|Ndi North|Pak Ede
+Sokoto North	Sokoto North	Sokoto	13.066	5.268	2	
+Idemili North	Idemili North	Anambra	6.128	6.933	2	Agbegbe Ijoba Ibile Ariwa Idemili|Idemili Nord|Idemili ta Arewa|Pak Idemili
+Orumba North	Orumba North	Anambra	6.067	7.083	2	Agbegbe Ijoba Ibile Ariwa Orumba|Orumba Nord|Orumba ta Arewa|Pak Orumba
+Ika North East	Ika North East	Delta	6.229	6.290	2	Ika Nord Est|Ika ta Arewa maso Gabas|Pak Ika
+Isoko North	Isoko North	Delta	5.525	6.234	2	Isoco Setentrional|Isoko Nord|Isoko ta Arewa|Pak Isoko
+Oshimili North	Oshimili North	Delta	6.323	6.644	2	Oshimili Nord|Oshimili ta Arewa|Pak Oshimili
+Ughelli North	Ughelli North	Delta	5.511	6.048	2	Pak Ughelli|Ughelli Nord|Ughelli ta Arewa|Ughilli North
+Warri North	Warri North	Delta	5.882	5.277	2	Agbegbe Ijoba Ibile Ariwa Warri|Pak Warri|Warri Nord|Warri ta Arewa
+Afikpo North	Afikpo North	Ebonyi	5.893	7.937	2	Afikpo Nord|Afikpo Norte|Afikpo ta Arewa|Agbegbe Ijoba Ibile Ariwa Afikpo|Pak Afikpo
+Igbo-Eze-North	Igbo-Eze-North	Enugu	6.983	7.450	2	
+Ibarapa North	Ibarapa North	Oyo	7.646	3.159	2	Ariwa Ibarapa|Ibarapa Nord|Ibarapa ta Arewa|Pak Ibarapa
+Ovia North-East	Ovia North-East	Edo	6.645	5.580	2	Ovia Nord Est|Ovia North East|Ovia ta Arewa maso Gabas|Tang-pak Ovia
+Umuahia North	Umuahia North	Abia	5.558	7.469	2	Agbegbe Ijoba Ibile Ariwa Umuahia|Pak Umuahia|Pivnichna Umuakhija|Umuahia Nord|Umuahia ta Arewa
+Isiala-Ngwa North	Isiala-Ngwa North	Abia	5.268	7.391	2	
+Ibadan North West	Ibadan North West	Oyo	7.393	3.880	2	
+Jos North	Jos North	Plateau	9.939	8.902	2	Agbegbe Ijoba Ibile Ariwa Jos|Jos Nord|Jos North Local Government Area|Jos ta Arewa|Pak Jos
+Egbado North	Yewa North	Ogun	7.147	2.918	2	Egbado North Local Government Area|Egbado-North
+Abeokuta North	Abeokuta North	Ogun	7.231	3.168	2	Abeokuta Nord|Abeokuta North Local Government Area|Abeokuta ta Arewa|Abeokuta-Norte|Abeokuta-North|Agbegbe Ijoba Ibile A
+Ijebu North	Ijebu North	Ogun	6.996	3.971	2	Agbegbe Ijoba Ibile Ariwa Ijebu|Ijebu Nord|Ijebu North Local Government Area|Ijebu ta Arewa|Ijebu-Norte|Pak Ijebu
+Ife North	Ife North	Osun	7.267	4.447	2	Agbegbe Ijoba Ibile Ariwa Ife|Ife Nord|Ife North Local Government Area|Ife ta Arewa|Ife-North|Pak Ife
+Akoko North East	Akoko North East	Ondo	7.527	5.810	2	Akoko North-East|Akoko North-East Local Government Area
+Akoko North West	Akoko North West	Ondo	7.641	5.794	2	Akoko North-West|Akoko North-West Local Government Area
+Esan North-East	Esan North-East	Edo	6.755	6.397	2	Ehsan Nort-Ist|Esan Nord Est|Esan North East|Esan North East Local Government Area|Esan ta Arewa maso Gabas|Tang-pak Esa
+Ideato North	Ideato North	Imo	5.885	7.131	2	Agbegbe Ijoba Ibile Ariwa Ideato|Ideato Nord|Ideato Norte|Ideato North Local Government Area|Ideato ta Arewa|Pak Ideato
+Owerri North	Owerri North	Imo	5.457	7.103	2	Agbegbe Ijoba Ibile Ariwa Owerri|Owerri Nord|Owerri North Local Government Area|Owerri ta Arewa|Pak Owerri|beioueri
+Mubi North	Mubi North	Adamawa	10.350	13.406	2	Agbegbe Ijoba Ibile Ariwa Mubi|Mubi Nord|Mubi North Local Government Area|Mubi ta Arewa|Pak Mubi
+Nomba	Gwer East	Benue	7.318	8.359	2	
+Ndiagu-Noyo	Ikwo	Ebonyi	6.167	8.298	2	
+Sarkin Noma	Gassol	Taraba	8.488	10.673	2	
+Sarkin Noma Dali	Gassol	Taraba	8.292	10.589	2	
+Yelwa North	Yauri	Kebbi	10.845	4.795	2	
+Augie North	Augie	Kebbi	12.898	4.574	2	
+Bingi North	Bungudu	Zamfara	12.029	6.495	2	
+Maradun North	Maradun	Zamfara	12.583	6.323	2	
+Jere North	Kagarko	Kaduna	9.512	7.468	2	
+Sabon Gari North	Kaduna South	Kaduna	10.513	7.401	2	
+Ninzo North	Sanga	Kaduna	9.164	8.545	2	
+Tudun Wada North	Kaduna South	Kaduna	10.512	7.414	2	
+Shinkafi North	Shinkafi	Zamfara	13.076	6.495	2	
+Gololo North	Gamawa	Bauchi	12.310	10.728	2	
+Papa North	Darazo	Bauchi	11.233	10.813	2	
+Mainako North	Zaki	Bauchi	12.436	10.404	2	
+Lere North	Tafawa-Balewa	Bauchi	9.666	9.347	2	
+Wonu North	Toro	Bauchi	10.290	9.046	2	
+Udubo North/East	Gamawa	Bauchi	11.952	10.791	2	
+Isiala Ngwa North	Isiala-Ngwa South	Abia	5.403	7.420	2	Isiala Ngwa North
+Nomsu	Guma	Benue	7.897	8.500	2	
+Nogi	Gwer West	Benue	7.685	8.199	2	
+Nongo	Gwer East	Benue	7.547	8.468	2	
+Nomkohagher	Ukum	Benue	7.590	9.418	2	
+Nongu	Wukari	Taraba	7.811	9.686	2	
+Norsua	Wukari	Taraba	7.744	9.730	2	
+Nortimbe	Wukari	Taraba	7.733	9.717	2	
+Nomjor	Ukum	Benue	7.654	9.548	2	
+Norhia	Ukum	Benue	7.582	9.576	2	
+Nombul	Ukum	Benue	7.538	9.731	2	Nomhul
+Nor	Gboko	Benue	7.256	9.067	2	
+Norgba	Gboko	Benue	7.333	9.142	2	
+Nor	Buruku	Benue	7.428	9.220	2	
+Nomagundu	Katsina-Ala	Benue	7.308	9.392	2	
+Nongo	Gboko	Benue	7.219	9.037	2	
+Nomsue	Ushongo	Benue	7.105	9.018	2	
+Nohge	Ushongo	Benue	7.045	9.261	2	
+Norve	Katsina-Ala	Benue	7.226	9.338	2	
+Noraba	Buruku	Benue	7.174	9.293	2	
+Nomigo	Katsina-Ala	Benue	7.180	9.367	2	
+Nor	Katsina-Ala	Benue	7.181	9.410	2	
+Nornge	Gboko	Benue	7.407	8.783	2	
+Nomgbela	Gboko	Benue	7.394	8.859	2	
+Nongo	Gboko	Benue	7.388	8.988	2	
+Nor	Gboko	Benue	7.317	8.846	2	
+Nor	Gboko	Benue	7.303	8.943	2	
+Tse-Nongu	Gboko	Benue	7.333	8.972	2	
+Nomkyegh	Gboko	Benue	7.292	8.951	2	
+Norkwa	Idemili South	Anambra	6.064	6.954	2	
+Noburi	Fufore	Adamawa	8.824	12.491	2	
+Ubierumu-Nowa	Esan North-East	Edo	6.711	6.300	2	
+Nonye	Zing	Taraba	8.790	11.814	2	
+Garin Sarkin Noma	Ardo-Kola	Taraba	8.786	11.002	2	
+Sarkin Noma	Ardo-Kola	Taraba	8.836	11.167	2	
+Nokiya	Jalingo	Taraba	8.980	11.265	2	
+Ungwan Sarki Noma Miski	Sanga	Kaduna	9.197	8.179	2	
+Nomgbev	Donga	Taraba	7.639	10.042	2	
+Nomche	Takum	Taraba	7.511	10.094	2	
+Yelwa Nono	Bokkos	Plateau	9.226	8.952	2	
+Nowail	Qua'An Pan	Plateau	8.801	9.122	2	
+Ungwan Noma	Birnin Kebbi	Kebbi	12.422	4.241	2	
+Nomusu	Keana	Nasarawa	8.162	8.586	2	
+Nongo	Akwanga	Nasarawa	8.900	8.285	2	
+Nongo	Kokona	Nasarawa	8.833	8.189	2	
+Jebba North	Mokwa	Niger	9.140	4.814	2	JebbaNorth
+Noma	Teungo	Adamawa	8.154	12.084	2	
+Noyo	Ikwo	Ebonyi	6.197	8.231	2	
+Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.054	7.495	1	
+Norman Williams Street	Eti Osa	Lagos	6.444	3.418	1	
+Nosayaba Street	Oredo	Edo	6.351	5.630	1	
+Nogheghase Street	Ikpoba-Okha	Edo	6.323	5.633	1	
+Nosakhare street	Egor	Edo	6.355	5.580	1	
+2nd Nosakhare Lane	Oredo	Edo	6.345	5.602	1	
+Nosakhare Street	Oredo	Edo	6.346	5.602	1	
+1st Nosakhare Lane	Oredo	Edo	6.345	5.602	1	
+Nosa Okundaye Street	Oredo	Edo	6.314	5.590	1	
+Noroware-Omonudo Str	Oredo	Edo	6.301	5.607	1	
+Norowarw-Omonudo Way	Oredo	Edo	6.301	5.607	1	
+Nomayo Lane	Oredo	Edo	6.320	5.594	1	
+Nosa Avenue	Oredo	Edo	6.301	5.603	1	
+Nouakchott Street	Municipal Area Council	FCT Abuja	9.052	7.465	1	
+Norus Close	Ikeja	Lagos	6.636	3.356	1	
+Noble Street	Lagos Mainland	Lagos	6.500	3.382	1	
+North Avenue	Apapa	Lagos	6.452	3.361	1	
+Nosamu Street	Ajeromi/Ifelodun	Lagos	6.454	3.348	1	
+Porto Novo Street	Municipal Area Council	FCT Abuja	9.072	7.468	1	
+Northwest Street	Gwale	Kano	12.004	8.486	1	
+Nosa-Adu Street	Egor	Edo	6.357	5.572	1	
+Nosa Edo Osagie Street	Oredo	Edo	6.294	5.602	1	
+Nojimu Abioye Street	Alimosho	Lagos	6.680	3.268	1	
+Mike Nomoreless Avenue	Oredo	Edo	6.320	5.581	1	
+Nosayaba Street	Oredo	Edo	6.354	5.614	1	
+Nomalinda Road	Enugu South	Enugu	6.420	7.521	1	
+Upper North 5th Road 21	Enugu East	Enugu	6.484	7.490	1	
+North 7Th	Enugu East	Enugu	6.480	7.491	1	
+Upper North5Th Rd24	Enugu East	Enugu	6.483	7.488	1	
+Upper North Road 23	Enugu East	Enugu	6.484	7.489	1	
+North 1St Avenue	Enugu East	Enugu	6.481	7.494	1	
+Upper North Rd19	Enugu East	Enugu	6.483	7.489	1	
+North 3Rd	Enugu East	Enugu	6.481	7.493	1	
+North 2Nd	Enugu East	Enugu	6.481	7.494	1	
+North 8Th	Enugu East	Enugu	6.480	7.491	1	
+Upper North Rd10	Enugu East	Enugu	6.483	7.491	1	
+Upper North 5th Road 27	Enugu East	Enugu	6.483	7.487	1	
+Upper North 5Th Rd26	Enugu East	Enugu	6.483	7.487	1	
+Upper North 5th Road 22	Enugu East	Enugu	6.484	7.489	1	
+Upper North 5th Road 20	Enugu East	Enugu	6.484	7.490	1	
+Nonyelum Estate Road	Enugu North	Enugu	6.457	7.524	1	
+Nomeh Drive	Enugu East	Enugu	6.482	7.499	1	
+Notre Dame Close	Enugu South	Enugu	6.398	7.489	1	
+Upper North 5th Road18	Enugu East	Enugu	6.484	7.491	1	
+Upper North 5th Road 25	Enugu East	Enugu	6.483	7.487	1	
+Upper North 5th Road 28	Enugu East	Enugu	6.482	7.486	1	
+Nonso Mba Street	Enugu East	Enugu	6.466	7.571	1	
+Nonso Chukwucheben Street	Eti Osa	Lagos	6.424	3.522	1	
+Hon. Noheem Adams Street	Eti Osa	Lagos	6.447	3.613	1	
+Alhaji Nojimudeen Bakare Street	Eti Osa	Lagos	6.506	3.586	1	
+Sani Abacha Way North	Municipal Area Council	FCT Abuja	9.043	7.500	1	
+Noah Omoboye Street	Eti Osa	Lagos	6.468	3.636	1	
+Kekeno Non Government IDP Camp	Jere	Borno	11.782	13.139	1	
+Nottidge street	Onitsha North	Anambra	6.152	6.775	1	
+November 27 Interchange	Ede North	Osun	7.750	4.520	1	
+Nosiru Asa Street	Oshodi/Isolo	Lagos	6.545	3.323	1	
+Northern Forshore Road	Eti Osa	Lagos	6.457	3.529	1	
+East-West Road, Ughelli, Ughelli North, Delta, Nigeria	Ughelli North	Delta	5.519	5.975	1	
+Nosakhare Street	Oredo	Edo	6.293	5.566	1	LUCKY OGBEBOR STREET
+North Drive	Akinyele	Oyo	7.500	3.905	1	
+Norwich road	Edati	Niger	8.881	5.943	1	
+Barrister G.C Nonyelum Street	Awka South	Anambra	6.246	7.102	1	
+Noah Udoh Street	Uyo	Akwa Ibom	5.012	7.937	1	
+Nottidge by bright street	Onitsha North	Anambra	6.152	6.775	1	
+Echalike To Noyo Junction Road	Abakaliki	Ebonyi	6.205	8.222	1	
+Noyo To Ndiagu Echara	Ikwo	Ebonyi	6.183	8.245	1	
+Noyo To Ndiagu Echar Ikw	Ikwo	Ebonyi	6.162	8.265	1	
+none	Jere	Borno	12.038	13.075	1	
+Mrs. Nonye Osi Street	Eti Osa	Lagos	6.481	3.609	1	
+no name	Ado Odo/Ota	Ogun	6.589	3.104	1	
+Noma Petrol	Egor	Edo	6.363	5.589	0	
+Wambai Market North	Kano Municipal	Kano	12.009	8.523	0	
+Ibadan North East LG	Ibadan North East	Oyo	7.404	3.934	0	
+pas de nom	Ipokia	Ogun	6.645	2.738	0	
+Kaduna North	Kaduna North	Kaduna	10.541	7.426	0	
+Nobel Stride Schools	Uvwie	Delta	5.562	5.774	0	
+Northwest Megastation	Odukpani	Cross River	5.088	8.346	0	
+Noma Hospital	Sokoto North	Sokoto	13.068	5.215	0	
+Noka Optical	Akinyele	Oyo	7.482	3.909	0	
+Nomadic	Egbedore	Osun	7.785	4.486	0	
+NOOWA Hospital	Municipal Area Council	FCT Abuja	9.085	7.527	0	
+Ezza North LGA Secreteriat Ebiaji	Ezza North	Ebonyi	6.226	7.995	0	
+Saint Gerad Hospital Kakuri Noaa 26 Makera Road Nasarawa Kaduna	Chikun	Kaduna	10.478	7.397	0	
+General Hospital Baro Dikko No19 Kaduna Road Nasarawa Kafuna	Chikun	Kaduna	10.471	7.397	0	
+Hospitals No13a Tafoki Road Kabala West	Kaduna South	Kaduna	10.503	7.396	0	
+NNPC Industrial Clinic No35 Rabah Road	Kaduna North	Kaduna	10.551	7.467	0	
+44 Hospital No8 Togo Street Malali	Kaduna North	Kaduna	10.562	7.468	0	
+44 Army Hospital No13 Abba Road Off Lea Primary School Kagoro Road	Kaduna North	Kaduna	10.557	7.441	0	
+Barau Dikko Hospital NoBN13 Kinshasha Road Unguwan Rimi Kaduna	Kaduna North	Kaduna	10.534	7.462	0	
+specialist Hospital No6 Shehu Ibrahim Close Malali	Kaduna North	Kaduna	10.550	7.470	0	
+Both Public And Private Hospitals And Clinics No21 Sani Sambo Avenue	Kaduna North	Kaduna	10.547	7.441	0	
+Kawo General Hospital NoH14 Kawo Road Kawo Market Kawo Kaduna	Kaduna North	Kaduna	10.582	7.449	0	
+Barau Dikko Teaching Hospital NoT15 Darma Road Kawo	Kaduna North	Kaduna	10.577	7.449	0	
+National Hospital Abuja No4mm Lawal Jafaru Isa Road	Kaduna North	Kaduna	10.542	7.472	0	
+Specialist Hospital No20a Gobarar Road Unguwar Rimi Kaduna	Kaduna North	Kaduna	10.509	7.458	0	
+NNPC Hospital No2 Sultan Road Unguwan Rimi Gra Kaduna	Kaduna North	Kaduna	10.536	7.452	0	
+44 Army Hospital No27 Idenpence Way Kaduna	Kaduna North	Kaduna	10.513	7.441	0	
+Orthopedic Hospital No12 B Ustaz Yunuz Street	Kaduna North	Kaduna	10.544	7.432	0	
+Primary Haelth Care No1 River Line Road Kabala Coastin	Kaduna North	Kaduna	10.501	7.440	0	
+Governor One Hospital No3 Dokaji Street Romi	Chikun	Kaduna	10.439	7.420	0	
+Barau Dikko Teaching Hospital No1 Suleiman Ahmed Road Shagari Lowcost	Kaduna South	Kaduna	10.464	7.432	0	
+Teaching Hospital No10 Sylvester Crescent Barnawa Kaduna State	Kaduna South	Kaduna	10.483	7.439	0	
+St Gerald Catholic Hospital No74 Naiyayi Road Opposite Space 2000	Kaduna South	Kaduna	10.477	7.437	0	
+Primary Healthcare Tudun Wada No2 Bugai Road Kujama	Chikun	Kaduna	10.477	7.643	0	
+Governor Awan General Hospital No43 Bugai Road Kujama	Chikun	Kaduna	10.476	7.645	0	
+Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
+Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
+General Hospital No2 Kkb Sarki Street Keke B	Chikun	Kaduna	10.559	7.494	0	
+Tree Star Hospital No1 Natata Street	Chikun	Kaduna	10.435	7.416	0	
+Gwamna Awan General Hospital Tunga Road No60 Angwa Sauri	Chikun	Kaduna	10.415	7.425	0	
+General Hospital Barodikko No1b Yarima Street Ang Pama	Chikun	Kaduna	10.456	7.456	0	
+Noble Medical Digonistic Centre	Ojo	Lagos	6.492	3.174	0	
+Noble Clinic	Alimosho	Lagos	6.537	3.243	0	
+Norex Clinic	Amuwo Odofin	Lagos	6.465	3.242	0	
+Northwest Best Academy	Ungongo	Kano	12.047	8.573	0	
+Nogohom Community Primary School	Jos North	Plateau	9.962	8.933	0	
+Nowas	Enugu East	Enugu	6.482	7.501	0	
+Nowas Filling Station	Enugu East	Enugu	6.482	7.501	0	
+point of no return	Badagry	Lagos	6.405	2.885	0	
+Noah's Ark International School	Karu	Nasarawa	9.045	7.596	0	
+No.1 Primary School	Ijumu	Kogi	7.988	5.991	0	
+Sabon Gari North	Zaki	Bauchi	12.402	10.283	0	
+NOWA Educational centre	Karu	Nasarawa	8.885	7.606	0	
+Yola Nora Health Clinic	Tafawa-Balewa	Bauchi	9.736	9.741	0	
+National Open University of Nigeria	Osogbo	Osun	7.751	4.569	0	NOUN
+Bajoga Northeast Airport	Funakaye	Gombe	10.925	11.506	0	
+National Orthopaedic Hospital Igbobi	Shomolu	Lagos	6.530	3.373	0	NOHIL
+Novare Lekki Mall	Eti Osa	Lagos	6.468	3.639	0	
+National Open University of Nigeria	Eti Osa	Lagos	6.434	3.409	0	NOUN
+Noble International Comprehensive Academy	Emuoha	Rivers	5.057	6.727	0	
+Northgate Garage	Akure South	Ondo	7.308	5.138	0	
+Northwest	Eti Osa	Lagos	6.458	3.554	0	
+Northwest	Eti Osa	Lagos	6.464	3.562	0	
+Gidan Sarkin Noma Primary Health Centre	Gaya	Kano	11.823	9.120	0	
+Nobordo Primary Health Center	Toro	Bauchi	10.223	9.398	0	
+Ibadan North East LG Primary Health Care Centre, Iwo Road	Ibadan North East	Oyo	7.404	3.934	0	
+Arawa Dispensary	Jama'Are	Bauchi	11.714	9.928	0	Fatiske Jauro Alabura North
+NOBSAMS Hospital	Obio/Akpor	Rivers	4.829	7.037	0	
+Noma Children Hospital Sokoto	Sokoto North	Sokoto	13.067	5.216	0	
+Model Primary Health Center Gumau	Toro	Bauchi	10.258	9.014	0	Wunu North Primary Health Center
+No Doctors In The Hospital	Jada	Adamawa	8.572	12.252	0	
+Nodinga Health Clinic	Jada	Adamawa	8.447	12.050	0	
+Novare Central Mall	Municipal Area Council	FCT Abuja	9.065	7.458	0	
+Novare Apo	Municipal Area Council	FCT Abuja	8.985	7.493	0	
+Novare Gateway	Municipal Area Council	FCT Abuja	8.991	7.394	0	
+Afikpo North Local Government Headquarters	Afikpo North	Ebonyi	5.891	7.925	0	
+North East Children’s Trust (NECT), The Learning Centre 1	Maiduguri	Borno	11.826	13.116	0	
+North East School	Jere	Borno	11.839	13.176	0	

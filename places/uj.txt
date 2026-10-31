@@ -1,12 +1,34 @@
+Ajalli	Orumba North	Anambra	6.045	7.211	3	Ujari;Ujali;Ujalli
 Ujevwu	Udu	Delta	5.464	5.819	2	Ujewu
 Ujisim	Yala	Cross River	6.554	8.384	2	Ujussim
 Ujode	Ughelli North	Delta	5.545	5.989	2	
 Ujemen	Esan West	Edo	6.756	6.060	2	
 New Ujiji	Agwara	Niger	10.545	4.459	2	Ojiji
-Ajalli	Orumba North	Anambra	6.045	7.211	3	Ujari;Ujali;Ujalli
-Ujevwu Station	Udu	Delta	5.468	5.812	0	Warri Station
 Uju	Ogba/Egbema/Ndoni	Rivers	5.345	6.720	2	
 Ujevbe	Isoko North	Delta	5.581	6.154	2	
+Ujariyo	Birnin Kebbi	Kebbi	12.546	4.404	2	
+Wuro-Ujiri	Fufore	Adamawa	9.417	12.801	2	Wuro Ujiri
+Ujisim	Yala	Cross River	6.592	8.402	2	Ujussim
+Ujong	Gboko	Benue	7.373	8.711	2	
+Ujong	Ushongo	Benue	7.102	8.983	2	
+Ujinyam	Takum	Taraba	7.463	10.039	2	
+Ujabhole	Esan Central	Edo	6.769	6.354	2	
+Ujabeda	Gombi	Adamawa	10.263	12.543	2	
+Ugiogba	Esan West	Edo	6.530	6.147	2	Ojogba|Ujiogba
+Ani-Ujeh	Aniocha South	Delta	6.190	6.415	2	Ahijo|Aluje
+Ujari & Amanagu	Odukpani	Cross River	5.298	7.980	2	
+Ujari	Arochukwu	Abia	5.376	7.906	2	
+Ujemem	Esan West	Edo	6.751	6.082	2	
+Ebute-Ujogba	Iguegben	Edo	6.466	6.111	2	
+Ujama	Izzi	Ebonyi	6.348	8.395	2	
+Ujor	Gwer West	Benue	7.702	8.263	2	
+Uji	Gwer West	Benue	7.648	8.291	2	
+Uja	Buruku	Benue	7.230	9.193	2	
+Ujo	Katsina-Ala	Benue	7.203	9.459	2	
+Uju	Gboko	Benue	7.365	8.983	2	
+Uja	Gboko	Benue	7.344	8.829	2	
+Gidan Uji	Karu	Nasarawa	9.136	7.880	2	
+Ujoelen	Esan West	Edo	6.738	6.117	2	
 Nnanna Ujor Lane	Enugu East	Enugu	6.474	7.595	1	
 Ujam Street	Enugu South	Enugu	6.406	7.507	1	
 Ujam Drive	Enugu East	Enugu	6.505	7.522	1	
@@ -17,4 +39,4 @@ Ujoelen Ext Rd	Esan West	Edo	6.734	6.105	1
 Odo-Uje	Oye	Ekiti	7.792	5.293	1	
 Ujoelen Ext Road	Esan West	Edo	6.736	6.110	1	
 Ujemen-Ozalla Road	Esan West	Edo	6.757	6.064	1	
-Ujariyo	Birnin Kebbi	Kebbi	12.546	4.404	2	
+Ujevwu Station	Udu	Delta	5.468	5.812	0	Warri Station

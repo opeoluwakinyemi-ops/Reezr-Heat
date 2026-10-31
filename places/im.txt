@@ -1,3 +1,5 @@
+Imepe	Ìjẹ̀bú Òde	Ogun	6.813	3.914	3	
+Imeko	Imeko Afon	Ogun	7.449	2.843	3	Mekkaw|Meko
 Imakebu	Etsako East	Edo	7.212	6.437	2	Imiakebu
 Imala	Abeokuta North	Ogun	7.283	3.133	2	
 Imoto I	Yewa North	Ogun	7.083	2.867	2	
@@ -28,7 +30,6 @@ Yimana	Hawul	Borno	10.442	12.365	2	Imana
 Imomo	Ijebu North East	Ogun	6.877	4.060	2	Imowo
 Imiekuri	Etsako East	Edo	7.247	6.279	2	
 Imulu	Wasagu-Danko	Kebbi	11.656	4.990	2	
-Imoto	Yewa North	Ogun	7.083	2.867	2	
 Implessa	Biu	Borno	10.604	12.181	2	
 Akoli Imenyi	Bende	Abia	5.667	7.550	2	Akoli Nta
 Imwala	Illela	Sokoto	13.608	5.479	2	
@@ -50,47 +51,153 @@ Amurin	Ọ̀wọ̀	Ondo	7.270	5.466	2	Imure-Ile
 Imara	Argungu	Kebbi	12.585	4.412	2	
 Imogu	Ikwo	Ebonyi	6.058	8.165	2	
 Imasabo	Ikpoba-Okha	Edo	6.088	5.662	2	Imasabor
-Imuagbonhen Memoral School	Egor	Edo	6.362	5.575	0	
-Imaguero College	Oredo	Edo	6.322	5.628	0	
-Ni'ima Hospital	Bauchi	Bauchi	10.298	9.816	0	
-Royal Immaculate Hospital	Ibadan South East	Oyo	7.365	3.920	0	
-Immaculate Maternity	Ibadan South East	Oyo	7.377	3.898	0	
 Ikot Imo	Abak	Akwa Ibom	5.016	7.729	2	
 Ikot Imonte	Etim Ekpo	Akwa Ibom	5.009	7.599	2	
-Mbaise Secondary School, Aboh Mbaise, Imo State	Aboh-Mbaise	Imo	5.476	7.269	0	
-Paragon Clinic and Imaging	Obio/Akpor	Rivers	4.827	7.015	0	Paragon Clinic Stadium Road
-Precision Imaging Consultant	Obio/Akpor	Rivers	4.826	7.050	0	
-Bara'Imul Iman - Islamic School	Maiduguri	Borno	11.812	13.142	0	
-Mara Imul Iman - Islamic School	Maiduguri	Borno	11.806	13.152	0	
-Imoru Market	Ose	Ondo	6.868	5.757	0	
-Iman International School	Wamako	Sokoto	13.024	5.190	0	
 Imawa	Kura	Kano	11.798	8.460	2	
-Imo Transport Company ITC Park	Port-Harcourt	Rivers	4.816	7.008	0	
-Federal Government Girl's College, Imiringi	Ogbia	Bayelsa	4.862	6.373	0	
-Imoro Ogijo Comm. Primary School Ogijo	Ìjẹ̀bú Òde	Ogun	6.807	3.909	0	
-Moslem Primary School, Imepe	Ifo	Ogun	6.785	3.208	0	
-Ansarudeen Primary School, Imushin-Ogijo	Ifo	Ogun	6.684	3.369	0	
-Wasimi African Church Primary School Imepe	Ifo	Ogun	6.715	3.307	0	
-St. Peters (F.A.C.M) Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.822	3.913	0	
-Omoluwabi Model Primary School, Imepe	Ado Odo/Ota	Ogun	6.706	3.244	0	
-Precious Stone Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.816	3.930	0	
-St. Peters (F.A.C.M) Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.821	3.927	0	
-Omoluwabi Model Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.811	3.913	0	
-Wasimi African Church Primary School Imepe	Ìjẹ̀bú Òde	Ogun	6.808	3.912	0	
-Moslem Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.807	3.909	0	
-Precious Stone Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.794	3.947	0	
-Imoro Ogijo Comm. Primary School Ogijo	Shagamu	Ogun	6.723	3.499	0	
-Ansarudeen Primary School, Imushin-Ogijo	Shagamu	Ogun	6.686	3.504	0	
-IMT Campus 3	Enugu North	Enugu	6.429	7.517	0	
-CAC Oke Imole Maternity Home, Agbeni Ibadan	Ibadan South West	Oyo	7.378	3.888	0	
 Imodje	Ughelli North	Delta	5.644	6.115	2	
-Imude Primary Health Care Center	Ojo	Lagos	6.467	3.115	0	
-IMAM MALIK PRIMARY	Ungongo	Kano	12.049	8.574	0	
-IMAM SULAIMAN ACADEMY	Gwale	Kano	11.961	8.471	0	
-Imepe	Ìjẹ̀bú Òde	Ogun	6.813	3.914	3	
-imore waterside	Amuwo Odofin	Lagos	6.430	3.281	0	
-Imore Jetty	Amuwo Odofin	Lagos	6.430	3.281	0	
-imore community	Amuwo Odofin	Lagos	6.427	3.281	0	
+Imawa	Warawa	Kano	11.886	8.809	2	
+Imeko Afon	Imeko Afon	Ogun	7.669	2.860	2	
+Oke-Imale	Yewa North	Ogun	6.842	2.819	2	Oke Imale
+Oba-Imala	Odeda	Ogun	7.362	3.158	2	Oba Imala
+Lodu Imenyi	Warri South	Delta	5.633	5.533	2	
+Jatan Imo	Bali	Taraba	7.865	10.628	2	
+Imusin	Shagamu	Ogun	6.690	3.498	2	
+Imushin	Ijebu East	Ogun	6.800	4.000	2	
+Imule-Amos	Yewa North	Ogun	6.842	2.786	2	Imule|Imule Amos
+Imule-Agunbiade	Ipokia	Ogun	6.833	2.811	2	Imule Agunbiade
+Imu	Nasarawa	Nasarawa	8.421	7.820	2	
+Imoto-Odan	Yewa North	Ogun	7.092	2.876	2	Imoto|Imoto I|Imoto Odan
+Imoto-Igboiyewa	Yewa North	Ogun	7.094	2.885	2	Imoto|Imoto II|Imoto Igboiyewa
+Imotio	Konshisha	Benue	7.342	8.610	2	
+Imotanjikiri	Degema	Rivers	4.526	6.819	2	
+Imotan	Iwajowa	Oyo	7.823	3.277	2	
+Imosu Dani	Ijebu North	Ogun	6.933	3.817	2	
+Imosan	Odogbolu	Ogun	6.864	3.894	2	
+Imoru	Ose	Ondo	6.868	5.758	2	
+Imoru	Epe	Lagos	6.618	3.853	2	
+Imo River	Ukwa West	Abia	4.885	7.174	2	Imo-River
+Imore	Amuwo Odofin	Lagos	6.423	3.280	2	
+Imon	Awe	Nasarawa	8.270	9.021	2	
+Imoluwa	Ilaje	Ondo	6.438	4.634	2	
+Imolisa	Odeda	Ogun	7.171	3.774	2	
+Imoji	Ogbomosho North	Oyo	8.155	4.298	2	
+Imofo	Egbedore	Osun	7.834	4.426	2	
+Imodi	Odogbolu	Ogun	6.868	3.880	2	
+Imode	Ughelli South	Delta	5.406	5.866	2	
+Imiringi	Ogbia	Bayelsa	4.853	6.374	2	
+Imirfaya Bulagole	Chibok	Borno	10.940	12.714	2	
+Imirchika	Chibok	Borno	10.853	12.639	2	
+Imini	Afijio	Oyo	7.687	3.795	2	
+Imina	Abi	Cross River	5.920	8.084	2	
+Imiekwi	Etsako East	Edo	7.247	6.279	2	
+Imiegele	Etsako East	Edo	7.301	6.304	2	
+Imiegba	Etsako East	Edo	7.202	6.454	2	
+Imewuro	Ijebu North East	Ogun	6.908	4.064	2	
+Imesi-Ile	Obokun	Osun	7.832	4.843	2	Imesi Ile|Oke-Mesi-Ipole|Oke-Messi-Ipole
+Imeseju	Epe	Lagos	6.645	3.824	2	
+Imere	Ipokia	Ogun	6.499	2.822	2	Imeri
+Imeleke	Afijio	Oyo	7.706	3.983	2	
+Imeke	Badagry	Lagos	6.450	3.000	2	
+Imeabiam	Owerri West	Imo	5.314	7.015	2	
+Ime	Konshisha	Benue	7.275	8.609	2	
+Ime	Konshisha	Benue	7.096	8.604	2	
+Imbaka	Esan South-East	Edo	6.560	6.658	2	
+Imashayi	Yewa North	Ogun	7.078	3.081	2	
+Imane	Olamaboro	Kogi	7.274	7.701	2	Imale|Imani
+Imande	Kwande	Benue	6.597	9.518	2	
+Imana	Hawul	Borno	10.467	12.379	2	Yimana
+Iman	Ikot Abasi	Akwa Ibom	4.606	7.705	2	
+Imama	Obot Akara	Akwa Ibom	5.195	7.608	2	
+Imala-Asipa	Imeko Afon	Ogun	7.421	3.016	2	Ashipa|Imala Asipa
+Imala	Odeda	Ogun	7.302	3.516	2	
+Imala	Abeokuta South	Ogun	7.187	3.352	2	
+Imagbon	Ìjẹ̀bú Òde	Ogun	6.765	3.962	2	
+Imafun	Owan East	Edo	7.194	5.970	2	
+Imado	Yewa North	Ogun	7.387	2.972	2	
+Ikot Eyem Imo	Ikot Abasi	Akwa Ibom	4.649	7.601	2	
+Esa-Odo	Obokun	Osun	7.755	4.821	2	Esa Odo|Essa-Odo|Imessa Odo
+Akoli-Imenyi	Bende	Abia	5.668	7.551	2	Akoli Nta
+Agunboye Imoru	Ijebu North	Ogun	6.933	4.017	2	
+Imoro	Shagamu	Ogun	6.710	3.495	2	
+Imute	Shagamu	Ogun	6.692	3.487	2	
+Imogwu	Ikwerre	Rivers	4.981	6.950	2	Imogwu-Agwa
+Imirmungze	Askira-Uba	Borno	10.692	13.023	2	
+Imuogo	Epe	Lagos	6.539	4.066	2	
+Imogu	Emuoha	Rivers	4.988	6.684	2	Imugu
+Orile_Imo	Obafemi Owode	Ogun	6.923	3.560	2	
+Imope	Epe	Lagos	6.616	3.746	2	
+Imaka	Ìjẹ̀bú Òde	Ogun	6.757	3.953	2	
+Imoro	Odogbolu	Ogun	6.770	3.859	2	
+Imayan	Ijebu East	Ogun	6.719	4.207	2	
+Imegun	Ijebu East	Ogun	6.696	4.062	2	
+Imolumo	Idanre	Ondo	7.158	5.115	2	
+Imafon	Akure North	Ondo	7.210	5.259	2	
+Imojo	Oye	Ekiti	7.855	5.346	2	
+Ima	Guma	Benue	7.915	8.480	2	
+Iminyin	Doma	Nasarawa	7.951	8.069	2	
+Imaima	Doma	Nasarawa	7.958	8.264	2	
+Imabana	Obubra	Cross River	6.013	8.295	2	
+Imaje	Yala	Cross River	6.727	8.822	2	Umuaja
+Imeki	Ogun Waterside	Ogun	6.482	4.162	2	
+Imobi Junction	Ijebu East	Ogun	6.734	4.214	2	
+Imafon	Ijebu North East	Ogun	6.877	4.033	2	
+Imedu	Ijebu North East	Ogun	6.919	4.054	2	
+Egan-Imoro	Ijebu North	Ogun	6.962	4.064	2	
+Imorun	Ese Odo	Ondo	6.420	4.904	2	
+Imuofo	Epe	Lagos	6.536	4.056	2	
+Imodje	Ethiope East	Delta	5.674	5.981	2	
+Ime Camp	Ekeremor	Bayelsa	4.990	5.620	2	Ime
+Idung Imo	Eket	Akwa Ibom	4.651	7.992	2	
+Lodu-Imenyi	Bende	Abia	5.636	7.539	2	
+Amaba Ime	Ikwuano	Abia	5.462	7.541	2	
+Ndinya-Ikot Imo	Ikono	Akwa Ibom	5.307	7.697	2	
+Nkwuot-Nung-Imo	Ikono	Akwa Ibom	5.268	7.808	2	
+Imiroje	Ughelli North	Delta	5.580	6.094	2	
+Imeko Afon	Imeko Afon	Ogun	7.662	2.864	2	Agbegbe Ijoba Ibile Imeko-Afon|Imeko-Afon|Imeko-Afon Local Government Area
+Imezi-Owa	Ezeagu	Enugu	6.368	7.365	2	
+Imoterna	Wukari	Taraba	7.901	9.430	2	
+Imo	Logo	Benue	7.579	9.296	2	
+Imongu	Wukari	Taraba	7.724	9.780	2	
+Ime	Gboko	Benue	7.418	9.094	2	
+Imbua	Gboko	Benue	7.326	9.124	2	
+Imoutyoo	Buruku	Benue	7.258	9.150	2	
+Imojime	Buruku	Benue	7.459	9.292	2	
+Imongu	Katsina-Ala	Benue	7.262	9.353	2	
+Imam	Katsina-Ala	Benue	7.268	9.398	2	
+Imor	Buruku	Benue	7.213	9.240	2	
+Imotse	Ushongo	Benue	7.171	9.298	2	
+Imu	Ushongo	Benue	7.125	9.317	2	
+Imande	Katsina-Ala	Benue	7.219	9.483	2	
+Imioche	Gboko	Benue	7.401	8.910	2	
+Imtyul	Gboko	Benue	7.316	8.766	2	
+Imgbyan	Gboko	Benue	7.310	8.814	2	
+Ime	Gboko	Benue	7.287	8.764	2	
+Imbikiri	Brass	Bayelsa	4.321	6.247	2	
+Imiokalo	Etsako West	Edo	6.818	6.294	2	
+Idumu-Ima	Esan South-East	Edo	6.514	6.362	2	
+Imbautsa	Takum	Taraba	7.528	10.102	2	
+Imo	Obafemi Owode	Ogun	7.065	3.436	2	
+Imojere	Irepodun	Osun	7.913	4.537	2	
+Imoo	Atakunmosa West	Osun	7.535	4.651	2	
+Imosan Ile	Atakunmosa West	Osun	7.553	4.665	2	
+Imosan	Atakunmosa West	Osun	7.561	4.655	2	
+Imoro	Atakunmosa West	Osun	7.598	4.663	2	
+Imola	Atakunmosa West	Osun	7.602	4.691	2	
+Imotoyewa	Yewa North	Ogun	7.098	2.880	2	
+Imeka	Ipokia	Ogun	6.671	2.764	2	
+Ago-Imeru	Ilaje	Ondo	6.426	4.589	2	
+Imoboro	Ilaje	Ondo	6.405	4.678	2	
+Isieke, Isiekenesi, Ideato - south, Imo,Nigeria	Ideato South	Imo	5.776	7.141	2	
+Imalegba-Alafia	Ife South	Osun	7.189	4.631	2	
+Imelu	Atakunmosa West	Osun	7.498	4.686	2	
+Imola	Ondo West	Ondo	7.043	4.770	2	
+Imojolu	Ondo West	Ondo	7.069	4.911	2	
+Imoleke	Odo Otin	Osun	8.038	4.675	2	
+Imofo	Iwo	Osun	7.687	4.138	2	
+Imoru	Ola Oluwa	Osun	7.734	4.168	2	
+Imoru	Lagelu	Oyo	7.587	4.102	2	
+Iminyin	Nasarawa	Nasarawa	7.924	8.052	2	
+Imofo	Egbedore	Osun	7.837	4.472	2	
 Immanuel Street	Ikeja	Lagos	6.573	3.367	1	
 Imam Close	Kaduna North	Kaduna	10.522	7.453	1	
 Imueruze Street	Oredo	Edo	6.304	5.611	1	
@@ -115,7 +222,6 @@ Imo Crescent	Municipal Area Council	FCT Abuja	9.032	7.472	1
 Imina close	Egor	Edo	6.355	5.583	1	
 Imuwahen Street	Oredo	Edo	6.297	5.604	1	
 Imasuen Close	Oredo	Edo	6.290	5.598	1	
-Imose Street	Oredo	Edo	6.318	5.608	1	
 Imoje Street	Oshodi/Isolo	Lagos	6.527	3.326	1	
 Imam Ojoku	Agege	Lagos	6.619	3.316	1	
 Imashai Street	Agege	Lagos	6.630	3.316	1	
@@ -134,11 +240,7 @@ Elder Ima Obiaghanwa Close	Enugu South	Enugu	6.400	7.481	1
 Imperial Hospital Drive	Enugu North	Enugu	6.455	7.508	1	
 Imam Dauda Street	Surulere	Lagos	6.483	3.350	1	
 Imam Abdullahi Street	Gwale	Kano	11.980	8.469	1	
-Immuali Health Post	Gezawa	Kano	12.116	8.731	0	
 Imole Dada Street	Eti Osa	Lagos	6.506	3.607	1	
-National Polio Immunization Office	Zaki	Bauchi	12.284	10.345	0	Town Maternity
-National Polio Immunization Office Itas	Itas/Gadau	Bauchi	11.853	9.963	0	
-Ni'ima Clinic	Katagum	Bauchi	11.674	10.185	0	
 Imam Moshood Street	Eti Osa	Lagos	6.459	3.571	1	
 Nigeria Immigration Services Road	Ede North	Osun	7.752	4.526	1	
 Imsuth Road	Orlu	Imo	5.777	7.026	1	
@@ -165,26 +267,60 @@ Imuta Street	Ido-Osi	Ekiti	7.862	5.152	1
 Imolekere Street	Oriade	Osun	7.567	4.891	1	
 Imek Road	Ikot Ekpene	Akwa Ibom	5.171	7.728	1	
 Chief Imoke Street	Nsukka	Enugu	6.873	7.411	1	
-Obio Imo Street	Uyo	Akwa Ibom	5.021	7.925	1	
 Iman Street	Calabar South	Cross River	4.932	8.318	1	
 Yakubu Imam Street	Eti Osa	Lagos	6.474	3.632	1	
 Imafon	Akure North	Ondo	7.232	5.231	1	
 Iman street	Uyo	Akwa Ibom	5.032	7.926	1	
 Imosile Street	Oredo	Edo	6.251	5.630	1	
-National Polio Immunization Office	Gamawa	Bauchi	12.133	10.534	0	
-Imo State University	Owerri North	Imo	5.505	7.047	0	
-Imo state university teaching hosp.	Orlu	Imo	5.779	7.044	0	
 Imiringi Road	Ogbia	Bayelsa	4.907	6.356	1	
-Opolo New Road-AIT-Elebele-Kolocreek-Imiringi	Ogbia	Bayelsa	4.859	6.344	1	
 Imiringi Road	Ogbia	Bayelsa	4.868	6.376	1	
 Imam Kabir Street	Ungongo	Kano	11.977	8.447	1	
 IM Alfa Close	Municipal Area Council	FCT Abuja	9.042	7.545	1	
 Imadifon Crescent	Ifako/Ijaye	Lagos	6.646	3.319	1	
-Iman Street	Calabar South	Cross River	4.932	8.315	1	Mbukpa Road
 Imafidon Street	Ovia North-East	Edo	6.412	5.557	1	
-Ime Afor Umuakah	Njaba	Imo	5.670	7.016	0	
-Oku Imale Street	Ibeju Lekki	Lagos	6.474	3.733	1	
-Institute of Management and Technology (IMT)	Enugu North	Enugu	6.432	7.510	0	
 Imoru Street	Lagos Mainland	Lagos	6.508	3.394	1	
-Imawa	Warawa	Kano	11.886	8.809	2	
-Imeko Afon	Imeko Afon	Ogun	7.669	2.860	2	
+Imuagbonhen Memoral School	Egor	Edo	6.362	5.575	0	
+Imaguero College	Oredo	Edo	6.322	5.628	0	
+Ni'ima Hospital	Bauchi	Bauchi	10.298	9.816	0	
+Royal Immaculate Hospital	Ibadan South East	Oyo	7.365	3.920	0	
+Immaculate Maternity	Ibadan South East	Oyo	7.377	3.898	0	
+Mbaise Secondary School, Aboh Mbaise, Imo State	Aboh-Mbaise	Imo	5.476	7.269	0	
+Paragon Clinic and Imaging	Obio/Akpor	Rivers	4.827	7.015	0	Paragon Clinic Stadium Road
+Precision Imaging Consultant	Obio/Akpor	Rivers	4.826	7.050	0	
+Bara'Imul Iman - Islamic School	Maiduguri	Borno	11.812	13.142	0	
+Mara Imul Iman - Islamic School	Maiduguri	Borno	11.806	13.152	0	
+Imoru Market	Ose	Ondo	6.868	5.757	0	
+Iman International School	Wamako	Sokoto	13.024	5.190	0	
+Imo Transport Company ITC Park	Port-Harcourt	Rivers	4.816	7.008	0	
+Federal Government Girl's College, Imiringi	Ogbia	Bayelsa	4.862	6.373	0	
+Imoro Ogijo Comm. Primary School Ogijo	Ìjẹ̀bú Òde	Ogun	6.807	3.909	0	
+Moslem Primary School, Imepe	Ifo	Ogun	6.785	3.208	0	
+Ansarudeen Primary School, Imushin-Ogijo	Ifo	Ogun	6.684	3.369	0	
+Wasimi African Church Primary School Imepe	Ifo	Ogun	6.715	3.307	0	
+St. Peters (F.A.C.M) Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.822	3.913	0	
+Omoluwabi Model Primary School, Imepe	Ado Odo/Ota	Ogun	6.706	3.244	0	
+Precious Stone Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.816	3.930	0	
+St. Peters (F.A.C.M) Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.821	3.927	0	
+Omoluwabi Model Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.811	3.913	0	
+Wasimi African Church Primary School Imepe	Ìjẹ̀bú Òde	Ogun	6.808	3.912	0	
+Moslem Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.807	3.909	0	
+Precious Stone Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.794	3.947	0	
+Imoro Ogijo Comm. Primary School Ogijo	Shagamu	Ogun	6.723	3.499	0	
+Ansarudeen Primary School, Imushin-Ogijo	Shagamu	Ogun	6.686	3.504	0	
+IMT Campus 3	Enugu North	Enugu	6.429	7.517	0	
+CAC Oke Imole Maternity Home, Agbeni Ibadan	Ibadan South West	Oyo	7.378	3.888	0	
+Imude Primary Health Care Center	Ojo	Lagos	6.467	3.115	0	
+Imam Malik Primary	Ungongo	Kano	12.049	8.574	0	
+Imam Sulaiman Academy	Gwale	Kano	11.961	8.471	0	
+imore waterside	Amuwo Odofin	Lagos	6.430	3.281	0	
+Imore Jetty	Amuwo Odofin	Lagos	6.430	3.281	0	
+imore community	Amuwo Odofin	Lagos	6.427	3.281	0	
+Immuali Health Post	Gezawa	Kano	12.116	8.731	0	
+National Polio Immunization Office	Zaki	Bauchi	12.284	10.345	0	Town Maternity
+National Polio Immunization Office Itas	Itas/Gadau	Bauchi	11.853	9.963	0	
+Ni'ima Clinic	Katagum	Bauchi	11.674	10.185	0	
+National Polio Immunization Office	Gamawa	Bauchi	12.133	10.534	0	
+Imo State University	Owerri North	Imo	5.505	7.047	0	
+Imo state university teaching hosp.	Orlu	Imo	5.779	7.044	0	
+Ime Afor Umuakah	Njaba	Imo	5.670	7.016	0	
+Institute of Management and Technology (IMT)	Enugu North	Enugu	6.432	7.510	0	

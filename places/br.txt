@@ -1,3 +1,8 @@
+Nokaram Ndiyam	Bayo	Borno	10.348	11.610	3	Briyel
+Brass	Brass	Bayelsa	4.311	6.241	3	Brass Town
+Briyel	Bayo	Borno	10.348	11.610	3	Biriyel|Bryel
+Twon-Brass	Brass	Bayelsa	4.312	6.241	3	Brass|Brass Town|Bross
+Brigade	Nassarawa	Kano	12.020	8.560	2	
 Gonga Broula	Kaita	Katsina	13.286	7.712	2	
 Tungan Brawa	Dandi	Kebbi	11.683	3.733	2	
 Ifoko	Asari-Toru	Rivers	4.762	6.814	2	Brickfield
@@ -5,10 +10,121 @@ Brohimi	Warri North	Delta	5.883	5.175	2	Ebrohimi
 Brangaville	Ikot Abasi	Akwa Ibom	4.585	7.598	2	
 Bre	Guzamala	Borno	13.009	13.600	2	
 Brass	Brass	Bayelsa	4.300	6.250	2	
-Nokaram Ndiyam	Bayo	Borno	10.348	11.610	3	Briyel
 Mayo Wandu	Michika	Adamawa	10.691	13.454	2	Brishishiwa
 Brigisam	Biu	Borno	10.772	12.203	2	
-Brass	Brass	Bayelsa	4.311	6.241	3	Brass Town
+Braidu	Omala	Kogi	7.905	7.423	2	
+Briyel	Kwaya Kusar	Borno	10.350	11.940	2	
+Bri Bwala	Bayo	Borno	10.435	11.698	2	
+Brinkima	Shani	Borno	10.341	11.974	2	Pajala Ajiya
+Bririjuwandi	Kwaya Kusar	Borno	10.393	11.966	2	
+Goniri Goni Brayin	Mobbar	Borno	13.402	12.874	2	
+Bradi	Maïné Soroa	Yobe	13.118	12.132	2	
+Bridgehead	Onitsha South	Anambra	6.131	6.771	2	
+Briyel	Bayo	Borno	10.394	11.612	2	
+Brass	Brass	Bayelsa	4.512	6.482	2	
+Gbajimba Branch	Guma	Benue	7.988	8.760	2	
+Brinya	Kachia	Kaduna	9.623	7.358	2	
+Bresibi	Warri North	Delta	5.939	5.330	2	
+Brali	Tai	Rivers	4.742	7.199	2	
+Brisibegbene	Warri South-West	Delta	5.433	5.514	2	
+Brokegbene	Southern Ijaw	Bayelsa	4.607	5.770	2	
+Brefagbene	Patani	Delta	5.112	6.060	2	
+Brass	Brass	Bayelsa	4.366	6.455	2	Brass Local Government Area
+Dinge Bruma	Bama	Borno	11.425	13.625	2	
+Bramafu	Gbako	Niger	9.160	5.862	2	
+Brutuberia	Yusufari	Yobe	13.205	11.232	2	
+Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.009	7.418	1	Dantata Bridge
+Eko Bridge	Lagos Mainland	Lagos	6.476	3.375	1	
+Apogbon Bridge	Lagos Island	Lagos	6.455	3.382	1	
+Falomo Bridge	Eti Osa	Lagos	6.444	3.427	1	
+Niger Bridge	Oshimili South	Delta	6.135	6.758	1	
+Broadcasting Road	Kaduna North	Kaduna	10.520	7.428	1	
+Bro John Okoyo Avenue	Ikpoba-Okha	Edo	6.276	5.640	1	
+Carter Bridge	Lagos Island	Lagos	6.465	3.386	1	
+Bristol Road	Apapa	Lagos	6.446	3.363	1	
+Broad Street	Lagos Island	Lagos	6.454	3.389	1	
+New Festac Bridge Road	Amuwo Odofin	Lagos	6.468	3.300	1	
+Brown Street	Oshodi/Isolo	Lagos	6.560	3.347	1	
+Branco Street	Oshodi/Isolo	Lagos	6.553	3.336	1	
+Third Mainland Bridge	Lagos Mainland	Lagos	6.486	3.395	1	
+Land Bridge Avenue	Eti Osa	Lagos	6.434	3.455	1	
+Brown Road	Surulere	Lagos	6.490	3.339	1	
+Olumegbon Road	Eti Osa	Lagos	6.451	3.430	1	Brown Road
+Eko Bridge	Surulere	Lagos	6.483	3.367	1	
+Ikeja Flyover Bridge	Ikeja	Lagos	6.596	3.337	1	
+Yetunde Brown	Kosofe	Lagos	6.565	3.390	1	
+Brickfield Road	Lagos Mainland	Lagos	6.481	3.375	1	
+Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.021	7.482	1	Apo Bridge
+Tito Bros Street	Municipal Area Council	FCT Abuja	9.050	7.510	1	
+Udu Road Bridge	Udu	Delta	5.515	5.784	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.873	6.925	1	
+minor road from Jankwano to excellent bridge, Angwan soya Jos	Jos North	Plateau	9.932	8.877	1	
+Yisa Braimoh Close	Surulere	Lagos	6.490	3.346	1	
+New Festac Bridge Road	Amuwo Odofin	Lagos	6.471	3.319	1	
+Ikoyi Bridge Roundabout	Eti Osa	Lagos	6.447	3.461	1	
+Chief Bright Oridami Street	Shomolu	Lagos	6.524	3.386	1	
+Afolabi Brown Street	Shomolu	Lagos	6.526	3.391	1	
+Mbulu Bridge	Ngala	Borno	12.309	14.139	1	
+Asuquo Brown Street	Enugu South	Enugu	6.424	7.481	1	
+Broadrick Street	Enugu North	Enugu	6.427	7.477	1	
+Bridge Quaters Road	Enugu North	Enugu	6.452	7.494	1	
+Eddy Brown Street	Enugu South	Enugu	6.401	7.487	1	
+Brown And Brown Cresent	Enugu North	Enugu	6.446	7.532	1	
+Silver Brook	Enugu North	Enugu	6.465	7.476	1	
+W.M. Branham Street	Enugu North	Enugu	6.457	7.550	1	
+bromley road	Enugu East	Enugu	6.508	7.529	1	
+Shiroro Bridge	Shiroro	Niger	9.984	6.819	1	
+Carter Bridge	Lagos Island	Lagos	6.465	3.386	1	
+Brighter Star Street	Ede North	Osun	7.720	4.491	1	
+Briyel - Jara Dali Road	Bayo	Borno	10.321	11.640	1	
+Briyel - Jara Dali Road	Bayo	Borno	10.286	11.683	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.874	6.955	1	
+Brightben Enaholo Street	Eti Osa	Lagos	6.506	3.597	1	
+Nedugo-Ogboloma Bridge	Yenegoa	Bayelsa	5.049	6.345	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.876	7.036	1	
+Brass Road	Yenegoa	Bayelsa	4.950	6.356	1	
+Dominic Utuk Avenue	Uyo	Akwa Ibom	5.032	7.940	1	Brooks Street
+Bridge	Magama	Niger	10.194	4.939	1	
+Broad Street	Alimosho	Lagos	6.572	3.245	1	
+Jegede Brown Street	Alimosho	Lagos	6.533	3.264	1	
+Deji Browne Close	Eti Osa	Lagos	6.459	3.576	1	
+Gidan Bredi	Jere	Borno	11.805	13.170	1	
+Bravo Street	Awka South	Anambra	6.207	7.066	1	
+Lekki - Ikoyi Bridge	Eti Osa	Lagos	6.450	3.458	1	
+Bricama Avenue	Obio/Akpor	Rivers	4.904	6.908	1	
+Breadfruit Street	Lagos Island	Lagos	6.456	3.387	1	
+Yaba Flyover Bridge	Shomolu	Lagos	6.510	3.371	1	
+Bright Street	Uvwie	Delta	5.551	5.780	1	
+Bright Hope Street	Uvwie	Delta	5.540	5.753	1	
+Ugbori Canal Bridge	Warri South	Delta	5.521	5.731	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.875	6.923	1	
+Bro Dan Street	Ibadan North East	Oyo	7.411	3.940	1	
+Nottidge by bright street	Onitsha North	Anambra	6.152	6.775	1	
+Talata Mafara bridge	Talata Mafara	Zamfara	12.565	6.083	1	
+Omadino Bridge	Warri South	Delta	5.626	5.650	1	
+Brigadier Ademulegun Road	Ondo West	Ondo	7.107	4.829	1	
+Olanrewaju Jegede Brown Str	Alimosho	Lagos	6.534	3.270	1	
+Brown Idigbe Street	Uvwie	Delta	5.537	5.765	1	
+Bradley Boulevard	Mobbar	Borno	13.076	12.513	1	
+Second Niger Bridge	Ogbaru	Anambra	6.117	6.762	1	Second Onitsha Bridge
+Bright Streer	Onitsha South	Anambra	6.152	6.775	1	
+Abigborodo Bridge	Warri North	Delta	5.896	5.545	1	
+Bright Street	Onitsha South	Anambra	6.150	6.774	1	
+Johnson Bridge	Lagelu	Oyo	7.430	3.993	1	
+Braithewaite Avenue	Enugu South	Enugu	6.423	7.505	1	
+Loko-Oweto Bridge	Agatu	Benue	7.986	7.810	1	
+Loko-Oweto Bridge	Nasarawa	Nasarawa	7.995	7.812	1	
+Mushin Flyover Bridge	Mushin	Lagos	6.532	3.363	1	
+Oyingbo Flyover Bridge	Surulere	Lagos	6.482	3.383	1	
+Unijos Pedestrian Bridge	Jos North	Plateau	9.963	8.872	1	
+East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.868	7.028	1	
+AB Braimoh Street	Municipal Area Council	FCT Abuja	9.041	7.549	1	
+Brown Close	Surulere	Lagos	6.494	3.341	1	
+Brown Road	Surulere	Lagos	6.497	3.342	1	
+Maryland-Opebi-Ojota Link Bridge	Ikeja	Lagos	6.581	3.369	1	
+Yisa Braimoh Close	Surulere	Lagos	6.491	3.345	1	
+Angiama-Oporoma Bridge	Southern Ijaw	Bayelsa	4.845	6.115	1	
+Brainpower Street	Ngelzarma	Yobe	11.753	11.974	1	
 BRT Palmgrove	Shomolu	Lagos	6.542	3.367	0	
 BRT Obanikoro	Shomolu	Lagos	6.547	3.368	0	
 BRT Barracks	Surulere	Lagos	6.506	3.365	0	
@@ -16,14 +132,7 @@ BRT Ketu	Kosofe	Lagos	6.598	3.386	0
 Bravura Secondary School	Egor	Edo	6.363	5.632	0	
 St Mary Dedidcation Brithish School	Oredo	Edo	6.312	5.628	0	
 Bro Pius School	Oredo	Edo	6.328	5.613	0	
-Braidu	Omala	Kogi	7.905	7.423	2	
-Briyel	Kwaya Kusar	Borno	10.350	11.940	2	
-Bri Bwala	Bayo	Borno	10.435	11.698	2	
-Brinkima	Shani	Borno	10.341	11.974	2	Pajala Ajiya
-Bririjuwandi	Kwaya Kusar	Borno	10.393	11.966	2	
-Goniri Goni Brayin	Mobbar	Borno	13.402	12.874	2	
 Bridge Clinic	Municipal Area Council	FCT Abuja	9.065	7.425	0	
-Bradi	Maïné Soroa	Yobe	13.118	12.132	2	
 New Bridge Light Petroleum	Warri South	Delta	5.536	5.745	0	
 Brightfield Intl. Group of school	Uvwie	Delta	5.563	5.756	0	
 Bright Pearls School	Yenegoa	Bayelsa	4.950	6.345	0	
@@ -43,9 +152,9 @@ Broad Hospital And Maternity	Alimosho	Lagos	6.549	3.266	0
 Brotherhood Model College	Calabar South	Cross River	4.933	8.316	0	
 Bridge School	Alimosho	Lagos	6.522	3.236	0	
 Excellent Breed School	Alimosho	Lagos	6.524	3.229	0	
-BRIGHT ACADEMY	Ungongo	Kano	12.048	8.571	0	
-BRIGHT FUTURE SCIENCE ACADEMY	Ungongo	Kano	12.043	8.569	0	
-BRIGHT MIFTAHULKHAIR	Gwale	Kano	11.966	8.475	0	
+Bright Academy	Ungongo	Kano	12.048	8.571	0	
+Bright Future Science Academy	Ungongo	Kano	12.043	8.569	0	
+Bright Miftahulkhair	Gwale	Kano	11.966	8.475	0	
 Brynno International School	Obio/Akpor	Rivers	4.862	7.067	0	
 Brainfield Science Academy	Karu	Nasarawa	8.943	7.672	0	
 Bright Future Heritage School	Karu	Nasarawa	8.950	7.690	0	
@@ -93,120 +202,17 @@ Southern Bridge Estate	Municipal Area Council	FCT Abuja	9.047	7.413	0
 The Bridge Academy	Municipal Area Council	FCT Abuja	9.146	7.354	0	
 Federal Housing Bridge	Municipal Area Council	FCT Abuja	9.139	7.352	0	
 Leg Bridge	Municipal Area Council	FCT Abuja	9.137	7.369	0	
-Bridgehead	Onitsha South	Anambra	6.131	6.771	2	
-Umaru Musa Yar'Adua Expressway	Municipal Area Council	FCT Abuja	9.009	7.418	1	Dantata Bridge
-Eko Bridge	Lagos Mainland	Lagos	6.476	3.375	1	
-Apogbon Bridge	Lagos Island	Lagos	6.455	3.382	1	
-Falomo Bridge	Eti Osa	Lagos	6.444	3.427	1	
-NIGER BRIDGE	Oshimili South	Delta	6.135	6.758	1	
-Broadcasting Road	Kaduna North	Kaduna	10.520	7.428	1	
-Bro John Okoyo Avenue	Ikpoba-Okha	Edo	6.276	5.640	1	
-Carter Bridge	Lagos Island	Lagos	6.465	3.386	1	
-Bristol Road	Apapa	Lagos	6.446	3.363	1	
-Broad Street	Lagos Island	Lagos	6.454	3.389	1	
-New Festac Bridge Road	Amuwo Odofin	Lagos	6.468	3.300	1	
-Brown Street	Oshodi/Isolo	Lagos	6.560	3.347	1	
-Branco Street	Oshodi/Isolo	Lagos	6.553	3.336	1	
-Third Mainland Bridge	Lagos Mainland	Lagos	6.486	3.395	1	
-Land Bridge Avenue	Eti Osa	Lagos	6.434	3.455	1	
-Brown Road	Surulere	Lagos	6.490	3.339	1	
-Olumegbon Road	Eti Osa	Lagos	6.451	3.430	1	Brown Road
-Carter Bridge	Lagos Mainland	Lagos	6.468	3.384	1	
-Eko Bridge	Lagos Mainland	Lagos	6.474	3.376	1	
-Eko Bridge	Surulere	Lagos	6.483	3.367	1	
-Ikeja Flyover Bridge	Ikeja	Lagos	6.596	3.337	1	
-Yetunde Brown	Kosofe	Lagos	6.565	3.390	1	
-Brickfield Road	Lagos Mainland	Lagos	6.481	3.375	1	
-New Festac Bridge Road	Amuwo Odofin	Lagos	6.471	3.306	1	
-Ahmadu Bello Way	Municipal Area Council	FCT Abuja	9.021	7.482	1	Apo Bridge
-Tito Bros Street	Municipal Area Council	FCT Abuja	9.050	7.510	1	
-Udu Road Bridge	Udu	Delta	5.515	5.784	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.873	6.925	1	
 Brano Group Of Schools	Egor	Edo	6.370	5.636	0	
-minor road from Jankwano to excellent bridge, Angwan soya Jos	Jos North	Plateau	9.932	8.877	1	
-Yisa Braimoh Close	Surulere	Lagos	6.490	3.346	1	
-New Festac Bridge Road	Amuwo Odofin	Lagos	6.471	3.319	1	
-Ikoyi Bridge Roundabout	Eti Osa	Lagos	6.447	3.461	1	
-Chief Bright Oridami Street	Shomolu	Lagos	6.524	3.386	1	
-Afolabi Brown Street	Shomolu	Lagos	6.526	3.391	1	
-Mbulu Bridge	Ngala	Borno	12.309	14.139	1	
-Asuquo Brown Street	Enugu South	Enugu	6.424	7.481	1	
-Broadrick Street	Enugu North	Enugu	6.427	7.477	1	
-Bridge Quaters Road	Enugu North	Enugu	6.452	7.494	1	
-Eddy Brown Street	Enugu South	Enugu	6.401	7.487	1	
-Brown And Brown Cresent	Enugu North	Enugu	6.446	7.532	1	
-Silver Brook	Enugu North	Enugu	6.465	7.476	1	
-W.M. Branham Street	Enugu North	Enugu	6.457	7.550	1	
-bromley road	Enugu East	Enugu	6.508	7.529	1	
-Shiroro Bridge	Shiroro	Niger	9.984	6.819	1	
 Brighter Star Nursery and Primary School	Ede North	Osun	7.719	4.490	0	
-Carter Bridge	Lagos Island	Lagos	6.465	3.386	1	
-Broad Street	Lagos Island	Lagos	6.456	3.383	1	
-Brighter Star Street	Ede North	Osun	7.720	4.491	1	
-Briyel - Jara Dali Road	Bayo	Borno	10.321	11.640	1	
-Briyel - Jara Dali Road	Bayo	Borno	10.286	11.683	1	
-Briyel - Jara Dali Road	Bayo	Borno	10.299	11.655	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.874	6.955	1	
-Brightben Enaholo Street	Eti Osa	Lagos	6.506	3.597	1	
-Nedugo-Ogboloma Bridge	Yenegoa	Bayelsa	5.049	6.345	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.876	7.036	1	
-Brass Road	Yenegoa	Bayelsa	4.950	6.356	1	
-Dominic Utuk Avenue	Uyo	Akwa Ibom	5.032	7.940	1	Brooks Street
-Bridge	Magama	Niger	10.194	4.939	1	
-Broad Street	Alimosho	Lagos	6.572	3.245	1	
-Jegede Brown Street	Alimosho	Lagos	6.533	3.264	1	
-Deji Browne Close	Eti Osa	Lagos	6.459	3.576	1	
-Gidan Bredi	Jere	Borno	11.805	13.170	1	
 British International School Lagos	Eti Osa	Lagos	6.432	3.450	0	British International Primary School
 FAMAKS British School	Kaduna North	Kaduna	10.579	7.467	0	
-Bravo Street	Awka South	Anambra	6.207	7.066	1	
-Lekki - Ikoyi Bridge	Eti Osa	Lagos	6.450	3.458	1	
-Bricama Avenue	Obio/Akpor	Rivers	4.904	6.908	1	
-Breadfruit Street	Lagos Island	Lagos	6.456	3.387	1	
-Yaba Flyover Bridge	Shomolu	Lagos	6.510	3.371	1	
-Bright Street	Uvwie	Delta	5.551	5.780	1	
-Bright Hope Street	Uvwie	Delta	5.540	5.753	1	
-Ugbori Canal Bridge	Warri South	Delta	5.521	5.731	1	
 Lekki British School	Eti Osa	Lagos	6.443	3.472	0	
 Lekki British Junior School	Eti Osa	Lagos	6.446	3.472	0	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.875	6.923	1	
-Bro Dan Street	Ibadan North East	Oyo	7.411	3.940	1	
-Nottidge by bright street	Onitsha North	Anambra	6.152	6.775	1	
-Talata Mafara bridge	Talata Mafara	Zamfara	12.565	6.083	1	
-Omadino Bridge	Warri South	Delta	5.626	5.650	1	
-Brigadier Ademulegun Road	Ondo West	Ondo	7.107	4.829	1	
-Olanrewaju Jegede Brown Str	Alimosho	Lagos	6.534	3.270	1	
-Brown Idigbe Street	Uvwie	Delta	5.537	5.765	1	
-Bradley Boulevard	Mobbar	Borno	13.076	12.513	1	
 Britarch Schools	Umuahia North	Abia	5.544	7.500	0	
-Second Niger Bridge	Ogbaru	Anambra	6.117	6.762	1	Second Onitsha Bridge
 Digital Bridge Institute	Mushin	Lagos	6.548	3.355	0	DBI
-Bright Streer	Onitsha South	Anambra	6.152	6.775	1	
 Braithwaite Memorial Hospital	Port-Harcourt	Rivers	4.780	7.013	0	
 Brightfield College	Agege	Lagos	6.610	3.319	0	
 33 Artillery Brigade Medical Center	Bauchi	Bauchi	10.323	9.816	0	33 AB MC
 Bryants Hospital	Warri South	Delta	5.528	5.760	0	
-Abigborodo Bridge	Warri North	Delta	5.896	5.545	1	
 Brabri Maidico Dispensary Healthcare	Potiskum	Yobe	11.692	11.105	0	
-Bright Street	Onitsha South	Anambra	6.150	6.774	1	
-Johnson Bridge	Lagelu	Oyo	7.430	3.993	1	
-Second Niger Bridge	Oshimili South	Delta	6.122	6.749	1	Second Onitsha Bridge
-Braithewaite Avenue	Enugu South	Enugu	6.423	7.505	1	
-Loko-Oweto Bridge	Agatu	Benue	7.986	7.810	1	
-Loko-Oweto Bridge	Agatu	Benue	7.985	7.809	1	
-Loko-Oweto Bridge	Nasarawa	Nasarawa	7.995	7.812	1	
-Mushin Flyover Bridge	Mushin	Lagos	6.532	3.363	1	
-Oyingbo Flyover Bridge	Surulere	Lagos	6.482	3.383	1	
-Unijos Pedestrian Bridge	Jos North	Plateau	9.963	8.872	1	
-East West Rd by Eliozu to Choba Bridge	Obio/Akpor	Rivers	4.868	7.028	1	
-AB Braimoh Street	Municipal Area Council	FCT Abuja	9.041	7.549	1	
-Brown Close	Surulere	Lagos	6.494	3.341	1	
 O. B. Lulu Briggs Health Center	Obio/Akpor	Rivers	4.902	6.909	0	
-Brown Road	Surulere	Lagos	6.497	3.342	1	
-Maryland-Opebi-Ojota Link Bridge	Ikeja	Lagos	6.581	3.369	1	
-Yisa Braimoh Close	Surulere	Lagos	6.491	3.345	1	
-Maryland-Opebi-Ojota Link Bridge	Ikeja	Lagos	6.583	3.375	1	
-Angiama-Oporoma Bridge	Southern Ijaw	Bayelsa	4.845	6.115	1	
-Brainpower Street	Ngelzarma	Yobe	11.753	11.974	1	
-Briyel	Bayo	Borno	10.394	11.612	2	
-Brass	Brass	Bayelsa	4.512	6.482	2	

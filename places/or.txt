@@ -1,11 +1,31 @@
+Orie Uratta	Owerri North	Imo	5.497	7.074	3	Oratta|Uratta
+Oruko	Urue Offong/Oruko	Akwa Ibom	4.715	8.178	3	Oduko
+Oron	Oron	Akwa Ibom	4.817	8.237	3	
+Orogun	Ughelli North	Delta	5.641	6.157	3	
+Sabongidda Ora	Owan West	Edo	6.905	5.934	3	Sabon Gidda
+Ore	Odigbo	Ondo	6.746	4.878	3	
+Ila Orangun	Ila	Osun	8.015	4.905	3	
+Igbo Ora	Ibarapa Central	Oyo	7.433	3.283	3	
+Oro	Irepodun	Kwara	8.234	4.885	3	
+Orerokpe	Okpe	Delta	5.638	5.890	3	Orerukpe
+Orifite	Ekwusigo	Anambra	6.006	6.850	3	
+Orlu	Orlu	Imo	5.796	7.034	3	Awlu
+Ora-Eri	Aguata	Anambra	6.034	7.010	3	
+Orun Ekiti	Ise/Orun	Ekiti	7.457	5.433	3	
+Sabongida-Ora	Owan West	Edo	6.902	5.931	3	Sabon Gida|Sabongidda|Sabongidda Ora
+Afor-Oru	Ahiazu-Mbaise	Imo	5.541	7.268	3	Afororu|Oru
+Orlu	Orlu	Imo	5.796	7.035	3	Awlu
+Orita-Eruwa	Ibarapa East	Oyo	7.556	3.441	3	Orita Eruwa
+Odo-Ere	Yagba West	Kogi	8.251	5.551	3	Eri|Odo Ere|Odo Ore|OdoEre
+Igbo-Ora	Ibarapa Central	Oyo	7.434	3.288	3	Igbo-Awra
+Esuk Oron	Oron	Akwa Ibom	4.803	8.253	3	
+Oroworukwo	Obio/Akpor	Rivers	4.820	7.000	2	
 K'örami	Magaria	Katsina	13.073	8.545	2	
-Origo Station	Egbedore	Osun	7.692	4.365	0	
 Kala Orubou	Brass	Bayelsa	4.386	6.245	2	Kallah
 Ortaver	Guma	Benue	7.936	8.575	2	
 Orhemen Amire	Buruku	Benue	7.627	8.909	2	
 Ologhe	Iguegben	Edo	6.479	6.234	2	Oroghe
 Orei	Kogi	Kogi	8.217	6.800	2	
-Orie Uratta	Owerri North	Imo	5.497	7.074	3	Oratta|Uratta
 Idi Ori	Yewa North	Ogun	7.065	2.900	2	
 Oruweiama	Nembe	Bayelsa	4.638	6.311	2	
 Orhua	Uhunmwonde	Edo	6.770	5.984	2	
@@ -23,7 +43,6 @@ Oko Orisa	Epe	Lagos	6.596	3.941	2	Orisha
 Ora	Ifedayo	Osun	8.035	5.052	2	
 Urhokuosa	Uhunmwonde	Edo	6.453	5.807	2	Orokosa
 Ore-Alaba	Odigbo	Ondo	6.724	4.878	2	
-Oruko	Urue Offong/Oruko	Akwa Ibom	4.715	8.178	3	Oduko
 Orokiti	Ilaje	Ondo	6.410	4.545	2	
 Orodo	Mbaitoli	Imo	5.617	7.033	2	
 Ulapata	Ahoada East	Rivers	5.091	6.627	2	Oraputa
@@ -43,7 +62,6 @@ Sala Orile	Yewa North	Ogun	7.217	2.967	2	Sala Orile;Shala
 Origi	Surulere	Oyo	7.983	4.350	2	
 Oyinbogbene	Ovia South-West	Edo	6.303	5.135	2	Oribogweni
 Oregbeni	Ikpoba-Okha	Edo	6.349	5.657	2	
-Oron	Oron	Akwa Ibom	4.817	8.237	3	
 Ore	Ifelodun	Kwara	8.380	4.992	2	
 Orimedu	Ibeju Lekki	Lagos	6.438	3.903	2	Orimeddu
 Odo Oro	Ikole	Ekiti	7.806	5.512	2	Odo Ara
@@ -53,12 +71,8 @@ Ora Aiyegbaju	Ekiti	Kwara	8.076	5.318	2
 Oro Ago	Ifelodun	Kwara	8.333	5.233	2	Oro Agor
 Orisumbare	Ile Oluji/Okeigbo	Ondo	7.350	4.933	2	Uloen
 Orubiri	Kolokuma/Opokuma	Bayelsa	5.072	6.284	2	
-Orogun	Ughelli North	Delta	5.641	6.157	3	
-Sabongidda Ora	Owan West	Edo	6.905	5.934	3	Sabon Gidda
 Apoje-Orile	Ijebu North	Ogun	6.964	4.106	2	Apeji;Apoje
 Ora	Ovia South-West	Edo	6.497	5.393	2	Orah
-Ore	Odigbo	Ondo	6.746	4.878	3	
-Ila Orangun	Ila	Osun	8.015	4.905	3	
 Orugbene	Burutu	Delta	5.227	5.568	2	Orugbene I
 Orisigun	Kosofe	Lagos	6.601	3.391	2	
 Orogbo-Olamodi	Obafemi Owode	Ogun	6.932	3.404	2	Orogbo Lamodi;Orogbo-Lemodi
@@ -68,13 +82,11 @@ Nrobo	Uzo-Uwani	Enugu	6.840	7.278	2	Orobo
 Orhugh	Gboko	Benue	7.490	8.972	2	
 Orugbo Warri Island	Warri South	Delta	5.503	5.712	2	
 Oroghon	Ovia North-East	Edo	6.252	5.408	2	Orogho
-Igbo Ora	Ibarapa Central	Oyo	7.433	3.283	3	
 Ijomu Oro	Irepodun	Kwara	8.249	4.907	2	
 Orile Owu	Aiyedade	Osun	7.250	4.333	2	
 Origele	Ijebu East	Ogun	6.566	4.119	2	Ijagba Creek
 Nsia Oron	Okobo	Akwa Ibom	4.784	8.091	2	
 Aba-Oriyanrin	Epe	Lagos	6.455	4.144	2	Aba-Oriyanrn
-Oro	Irepodun	Kwara	8.234	4.885	3	
 Orangun	Ila	Osun	7.917	4.917	2	Balogun
 Orudu-Olokan	Ifo	Ogun	6.742	3.329	2	Orudu;Ordu-Olokan
 Oriba	Epe	Lagos	6.594	3.803	2	
@@ -95,13 +107,11 @@ Ozomu	Ovia North-East	Edo	6.250	5.453	2	Orogho
 Ori-Ita	Epe	Lagos	6.548	4.077	2	
 Oria	Uhunmwonde	Edo	6.417	5.683	2	
 Orumegege	Warri North	Delta	5.748	5.087	2	Orumagegi
-Orerokpe	Okpe	Delta	5.638	5.890	3	Orerukpe
 Orita-Bodun	Epe	Lagos	6.608	3.873	2	Orita;Ajebandele
 Oruma	Ogbia	Bayelsa	4.917	6.417	2	
 Orukiri	Akuku Toru	Rivers	4.410	6.832	2	
 Oregun	Ikeja	Lagos	6.601	3.365	2	
 Orugbene II	Burutu	Delta	5.234	5.587	2	
-Orifite	Ekwusigo	Anambra	6.006	6.850	3	
 Oroma Etiti	Anambra West	Anambra	6.333	6.750	2	Anam;Onoma
 Ibara-Oko	Abeokuta North	Ogun	7.133	3.250	2	Ibara Orile;Ibara-Oko
 Ovrode	Isoko North	Delta	5.588	6.323	2	Orrode
@@ -112,84 +122,500 @@ Oruba	Kosofe	Lagos	6.583	3.404	2
 Orugbanikiri	Emuoha	Rivers	4.817	6.747	2	
 Oreke	Ifelodun	Kwara	8.511	5.177	2	
 Oretu	Akinyele	Oyo	7.651	3.889	2	Awretu
-Esuk Oron	Oron	Akwa Ibom	4.803	8.253	2	
 Orokpor	Ethiope East	Delta	5.600	6.017	2	
 Iku Oro	Akinyele	Oyo	7.617	3.928	2	
-Orlu	Orlu	Imo	5.796	7.034	3	Awlu
-Oredo Girls Junior/ Senior Secondary School	Oredo	Edo	6.324	5.630	0	
-Ore-Oghene Primary School	Oredo	Edo	6.346	5.614	0	
-Oritamefa Baptist Model School	Ibadan North	Oyo	7.398	3.908	0	
 Orogun	Akinyele	Oyo	7.453	3.915	2	
-Oranyan Health Centre	Ibadan South East	Oyo	7.375	3.901	0	
-New Orisunbare Market	Olorunda	Osun	7.779	4.548	0	
 Oruku	Nkanu East	Enugu	6.435	7.651	2	
-Orxfield Oil & Gas	Ado Odo/Ota	Ogun	6.691	3.248	0	
-Ora-Eri	Aguata	Anambra	6.034	7.010	3	
 Mallam Go'ori	Guzamala	Borno	12.824	13.226	2	
-Ori	Isoko North	Delta	5.555	6.343	0	Oria-Ovo Primary School
-OriEru Primary Health Centre	Ibadan North West	Oyo	7.381	3.891	0	
-Oranmiyan Grammar School	Ife Central	Osun	7.494	4.553	0	
-Ori Ohin Market	Ose	Ondo	6.963	5.744	0	
-Oro Kingdom Market	Odigbo	Ondo	6.901	4.897	0	
-Ore Market	Odigbo	Ondo	6.750	4.880	0	
-Orie Market, Obeledu	Anaocha	Anambra	6.082	7.022	0	
-Orie Market, Neni	Anaocha	Anambra	6.082	7.004	0	
-Ori Oke Community High Schools	Ogbomosho North	Oyo	8.147	4.242	0	
-Primary Oral Health Centre, Idikan (UCH Annex)	Ibadan North West	Oyo	7.383	3.891	0	
 Orupolo	Port-Harcourt	Rivers	4.756	7.040	2	
-University of Africa, Toru-Orua	Sagbama	Bayelsa	5.100	6.066	0	
-Marine Police Training School, Toru-Orua	Sagbama	Bayelsa	5.101	6.066	0	
-Oriendu	Ehime Mbano	Imo	5.630	7.292	0	
-Community Primaryschool, Orile-Ifo	Ifo	Ogun	6.688	3.332	0	
-Local Government Primary School, Ore Akinde	Shagamu	Ogun	6.753	3.601	0	
-Methodist Primary School, Oke Ore	Ado Odo/Ota	Ogun	6.535	2.898	0	
-Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.552	3.045	0	
-Community Primary School, Kajola Orile	Ifo	Ogun	6.809	3.210	0	
-St. David'S Anglican School, Orogbe	Epe	Lagos	6.665	4.005	0	
-Local Government Primary School, Orudu Oluwo	Ifo	Ogun	6.817	3.186	0	
-Local Government Primary School, Orogan-Adewolu	Ado Odo/Ota	Ogun	6.670	3.158	0	
-Community Primaryschool, Orile-Ifo	Ifo	Ogun	6.827	3.186	0	
-Community Primary School, Kajola Orile	Ifo	Ogun	6.817	3.206	0	
-St. David'S Anglican School, Orogbe	Ifo	Ogun	6.809	3.210	0	
-Local Government Primary School, Orogan-Adewolu	Ifo	Ogun	6.767	3.147	0	
-Local Government Primary School, Orudu Oluwo	Ifo	Ogun	6.728	3.329	0	
-Methodist Primary School, Oke Ore	Ado Odo/Ota	Ogun	6.678	3.036	0	
-Local Government Primary School, Ore Akinde	Ado Odo/Ota	Ogun	6.610	3.118	0	
-Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.586	3.075	0	
-National Orthopedic Hospital	Enugu East	Enugu	6.468	7.526	0	
 Toru-Orua	Sagbama	Bayelsa	5.102	6.066	2	
-Ori Eru PHC	Ibadan North West	Oyo	7.381	3.891	0	
 Oriaje	Ahoada East	Rivers	5.080	6.682	2	
-Origbegi Satisfaction maternity hospital, Ayeye	Ibadan North West	Oyo	7.383	3.893	0	
-Oreofe Maternity, Ori Eru	Ibadan North West	Oyo	7.388	3.889	0	
-Orogun Public Healthcare Centre	Akinyele	Oyo	7.458	3.912	0	
 Oromuru	Ughelli North	Delta	5.692	6.078	2	
 Orhokpokpo	Ughelli North	Delta	5.634	6.119	2	
 Ora	Afikpo North	Ebonyi	5.882	7.973	2	Orrah
-Orthopedic Hospital No12 B Ustaz Yunuz Street	Kaduna North	Kaduna	10.544	7.432	0	
-Ore Ofe Hospital Ijanikin	Ojo	Lagos	6.495	3.126	0	
-Oriowo Maternity Home	Ojo	Lagos	6.477	3.123	0	
-Orisunbare Primary Health Care Center	Alimosho	Lagos	6.570	3.303	0	
-Roland Orthopedic Hospital	Alimosho	Lagos	6.533	3.237	0	
-Orisegun Med Center	Mushin	Lagos	6.525	3.350	0	
-Odo Ori	Iwo	Osun	7.656	4.189	0	
-Oriom Clinic	Amuwo Odofin	Lagos	6.425	3.254	0	
-Orion Clinic	Amuwo Odofin	Lagos	6.435	3.259	0	
-Owode Orini	Kosofe	Lagos	6.610	3.411	0	
-Orthopedic hospital	Alimosho	Lagos	6.533	3.237	0	
-Orbit Montessori School	Obio/Akpor	Rivers	4.863	7.066	0	
 Orukulu	Brass	Bayelsa	4.318	6.137	2	
 Orobiri	Ekeremor	Bayelsa	5.019	5.428	2	
-ORPHAN SECONDARY SCHOOL	Langtang North	Plateau	9.197	9.892	0	
-Orun Ekiti	Ise/Orun	Ekiti	7.457	5.433	3	
 Orem	Akamkpa	Cross River	5.508	8.756	2	
-Eleko, Orelope Hospital, Jebba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.536	4.619	0	
 Orere-Oluba	Warri South	Delta	5.653	5.692	2	
 Orere	Warri North	Delta	5.769	5.087	2	
-Orisan Private School	Ojo	Lagos	6.459	3.158	0	
-Sagama Orchids Estate	Municipal Area Council	FCT Abuja	9.124	7.391	0	
 Idi Oro	Mushin	Lagos	6.522	3.356	2	
 Orile Iganmu	Apapa	Lagos	6.477	3.346	2	
+Urue Offong/Oruko	Urue Offong/Oruko	Akwa Ibom	4.722	8.169	2	
+Oruk Anam	Oruk Anam	Akwa Ibom	4.820	7.651	2	
+Oron	Oron	Akwa Ibom	4.812	8.228	2	
+Orumba North	Orumba North	Anambra	6.113	7.163	2	
+Orhionmwon	Orhionmwon	Edo	6.088	5.948	2	
+Oredo	Oredo	Edo	6.230	5.562	2	
+Orsu	Orsu	Imo	5.849	6.983	2	
+Oru West	Oru West	Imo	5.754	6.911	2	
+Oru East	Oru East	Imo	5.727	6.948	2	
+Orlu	Orlu	Imo	5.818	7.041	2	
+Orumba South	Orumba South	Anambra	5.989	7.205	2	
+Ise/Orun	Ise/Orun	Ekiti	7.421	5.385	2	
+Oriade	Oriade	Osun	7.553	4.867	2	
+Orelope	Orelope	Oyo	8.794	3.802	2	
+Ori Ire	Ori Ire	Oyo	8.309	4.204	2	
+Orolu	Orolu	Osun	7.903	4.474	2	
+Yanagho	Warri North	Delta	5.761	5.085	2	Inyanagu|Orere
+Orowokwo-Woji	Obio/Akpor	Rivers	4.818	6.982	2	Woji
+Uya Oron	Oron	Akwa Ibom	4.791	8.208	2	
+Urejusinsin	Warri North	Delta	5.813	5.194	2	Orejusisin|Urejusisin
+Umu Oru	Omumma	Rivers	5.201	7.269	2	
+Uboro Oron	Urue Offong/Oruko	Akwa Ibom	4.748	8.182	2	
+Sala-Orile	Yewa North	Ogun	7.213	2.974	2	Sala Orile|Shala
+Oti Oron	Okobo	Akwa Ibom	4.813	8.160	2	
+Orza	Gboko	Benue	7.350	8.724	2	
+Oryelev	Guma	Benue	7.957	8.647	2	
+Oryaji	Gwer East	Benue	7.432	8.215	2	
+Orya	Gboko	Benue	7.292	8.709	2	
+Orwua	Guma	Benue	8.046	8.778	2	
+Orvanya	Awe	Nasarawa	8.041	9.107	2	
+Oroweiama	Nembe	Bayelsa	4.637	6.311	2	Oruweiama
+Oru Ukwa	Biase	Cross River	5.518	8.022	2	
+Orutemekiri	Degema	Rivers	4.522	6.820	2	
+Orunto	Abeokuta North	Ogun	7.217	3.155	2	
+Orumegege	Warri North	Delta	5.749	5.084	2	Orumagegi
+Oruokolo	Brass	Bayelsa	4.312	6.127	2	Orukulu
+Orukpa	Ogbadibo	Benue	6.949	7.665	2	
+Orukiri	Nembe	Bayelsa	4.421	6.253	2	
+Orukim	Mbo	Akwa Ibom	4.656	8.179	2	
+Orukalama	Degema	Rivers	4.712	6.834	2	
+Orugba	Epe	Lagos	6.633	3.767	2	Orugbo
+Oruba	Kosofe	Lagos	6.577	3.410	2	Agboyi|Oruba Agboyi
+Oru-Alade	Ife South	Osun	7.211	4.492	2	Oru Alade
+Oruabe	Isoko South	Delta	5.421	6.136	2	Oreba
+Oru	Ijebu North	Ogun	6.950	3.944	2	
+Ortsughun	Ushongo	Benue	7.081	8.975	2	
+Ortsenga	Gwer East	Benue	7.418	8.554	2	
+Ortoho	Ibi	Taraba	8.366	9.757	2	
+Ortese	Tarka	Benue	7.653	8.869	2	
+Ortese	Konshisha	Benue	7.140	8.615	2	
+Ortese	Konshisha	Benue	7.039	8.809	2	
+Ortech	Guma	Benue	8.030	9.090	2	
+Orshiyo	Gwer East	Benue	7.375	8.539	2	
+Orshi	Teungo	Adamawa	8.280	11.817	2	
+Orshi	Guma	Benue	7.988	8.808	2	
+Orshi	Takum	Taraba	6.789	9.685	2	
+Orsaa	Vandeikya	Benue	7.031	8.932	2	
+Orruru	Ogbadibo	Benue	6.978	7.627	2	Orroru
+Oroyo-Zion	Ilaje	Ondo	6.234	4.648	2	
+Oroyo-Oke	Ilaje	Ondo	6.247	4.640	2	
+Oroyoo	Konshisha	Benue	7.142	8.627	2	
+Orowole	Afijio	Oyo	7.816	3.809	2	
+Orowe	Isokan	Osun	7.264	4.186	2	
+Orovie	Ovia North-East	Edo	6.317	5.517	2	
+Oroto	Ilaje	Ondo	6.076	4.810	2	
+Ororuwo	Boripe	Osun	7.893	4.696	2	
+Ororo	Agwara	Niger	10.687	4.691	2	
+Ororo	Agwara	Niger	10.676	4.658	2	
+Arolu	Surulere	Oyo	7.996	4.430	2	Orolu
+Orokuta	Obafemi Owode	Ogun	7.028	3.370	2	
+Orokoroko	Atiba	Oyo	8.019	3.915	2	
+Oroko	Ejigbo	Osun	7.812	4.354	2	
+Orokiti	Ogun Waterside	Ogun	6.381	4.562	2	
+Oroke	Eti Osa	Lagos	6.433	3.417	2	
+Orogun	Moro	Kwara	9.067	4.833	2	
+Orogun	Ogbomosho North	Oyo	8.153	4.283	2	
+Orogun	Ndokwa West	Delta	5.683	6.183	2	Arogun
+Orogho	Orhionmwon	Edo	5.880	5.955	2	
+Orogbe	Ifo	Ogun	6.763	3.309	2	
+Orofin	Ilaje	Ondo	6.421	4.564	2	
+Oroa-Emede	Isoko South	Delta	5.420	6.176	2	
+Oro	Irewole	Osun	7.497	4.199	2	
+Oro	Odigbo	Ondo	6.898	4.898	2	
+Orngwuga	Awe	Nasarawa	8.158	9.101	2	
+Orngu	Konshisha	Benue	7.117	8.726	2	
+Ormende	Takum	Taraba	7.470	10.106	2	
+Orkuma	Konshisha	Benue	7.319	8.548	2	
+Orkpoogh	Markurdi	Benue	7.790	8.619	2	
+Orkaa	Awe	Nasarawa	8.115	9.073	2	
+Orjime	Konshisha	Benue	7.148	8.651	2	
+Orisunmbare	Olorunsogo	Oyo	8.678	3.999	2	
+Orisunbare	Ibarapa East	Oyo	7.505	3.461	2	Orisunmbare
+Orisumbare	Ile Oluji/Okeigbo	Ondo	7.357	4.943	2	Uloen
+Orisumbare	Isokan	Osun	7.265	4.241	2	
+Orisaeze	Ngor-Okpala	Imo	5.256	7.090	2	
+Orisada	Ipokia	Ogun	6.640	2.836	2	Orishada
+Orisa	Ife North	Osun	7.423	4.404	2	
+Oriokuta	Ife North	Osun	7.303	4.423	2	
+Ori-Okuta	Abeokuta North	Ogun	7.121	3.245	2	Ori Okuta
+Orioke-Iwamimo	Ilaje	Ondo	6.189	4.678	2	Orioke Iwamimo
+Orioke	Lagelu	Oyo	7.568	4.033	2	
+Ori-Oke	Moro	Kwara	8.807	4.248	2	Ori Oke
+Ori-Oke	Ori Ire	Oyo	8.487	4.292	2	Ori Oke
+Ori-Oke	Irewole	Osun	7.400	4.298	2	Ori Oke
+Oringee	Gwer East	Benue	7.480	8.609	2	
+Orimoloye	Ewekoro	Ogun	6.967	3.083	2	
+Oriminimba	Biase	Cross River	5.424	8.138	2	
+Oriletoko	Odeda	Ogun	7.148	3.454	2	
+Orile-Owu	Aiyedade	Osun	7.249	4.330	2	Ago-Owu|Orile Owu
+Orile-Odo	Oluyole	Oyo	7.252	3.857	2	Orile Odo
+Orile-Kajola	Ifo	Ogun	6.781	3.230	2	
+Orile-Ilugun	Odeda	Ogun	7.383	3.673	2	Orile Ilugun
+Orile-Igbein	Obafemi Owode	Ogun	6.881	3.511	2	Igbein|Orile-Igbehin
+Orile-Aro	Akinyele	Oyo	7.464	3.894	2	Orile Aro
+Orile	Alimosho	Lagos	6.633	3.300	2	
+Ozoku	Nasarawa	Nasarawa	8.544	7.917	2	Oriki
+Orija	Odeda	Ogun	7.293	3.716	2	
+Origo	Egbedore	Osun	7.710	4.355	2	
+Origi	Ibarapa North	Oyo	7.486	3.151	2	
+Origbo	Ona Ara	Oyo	7.308	4.014	2	
+Origbo	Aiyedade	Osun	7.223	4.365	2	
+Origbendele	Atiba	Oyo	8.061	3.832	2	
+Orieran	Ese Odo	Ondo	6.268	4.903	2	
+Ori-Eran	Surulere	Oyo	8.138	4.461	2	Ori Eran
+Ori-Eni	Akinyele	Oyo	7.535	3.934	2	Ori Eni|OriEni
+Oriendu	Isuikwuato	Abia	5.743	7.545	2	
+Oridokun	Atiba	Oyo	8.077	3.827	2	
+Oribero	Ilaje	Ondo	6.295	4.779	2	
+Orianago	Oyo West	Oyo	7.920	3.768	2	
+Oriah	Ethiope East	Delta	5.760	6.054	2	
+Oria	Esan South-East	Edo	6.673	6.500	2	
+Orhokpor	Ethiope East	Delta	5.571	5.970	2	
+Orhokpokpor	Ughelli North	Delta	5.577	5.892	2	
+Orho-Agbarho	Ughelli North	Delta	5.592	5.864	2	Agbadu|Agbarho
+Orhena	Gwer East	Benue	7.368	8.548	2	
+Orgyu	Gboko	Benue	7.462	8.739	2	
+Orgbo	Gboko	Benue	7.448	8.638	2	
+Orgbo	Gwer East	Benue	7.358	8.238	2	
+Orga	Gboko	Benue	7.273	8.697	2	
+Orfo	Vandeikya	Benue	7.020	8.983	2	
+Oresanya	Shagamu	Ogun	6.767	3.483	2	
+Orere-Ara	Ilaje	Ondo	6.403	4.688	2	
+Orere	Warri South	Delta	5.653	5.692	2	
+Orere	Ughelli South	Delta	5.271	5.966	2	
+Orepete	Epe	Lagos	6.577	3.763	2	
+Orekhie	Esan South-East	Edo	6.493	6.409	2	
+Oreke	Ifelodun	Kwara	8.499	5.182	2	
+Oreigba	Ori Ire	Oyo	8.418	4.249	2	
+Oregun	Epe	Lagos	6.486	3.632	2	Okori Egun
+Ore	Odo Otin	Osun	7.962	4.569	2	
+Orduwe	Konshisha	Benue	7.090	8.633	2	
+Orbunde	Kwande	Benue	6.878	9.592	2	
+Orbao	Gboko	Benue	7.219	8.741	2	
+Orayoo	Konshisha	Benue	7.120	8.663	2	
+Oraukwu	Njikoka	Anambra	6.146	6.996	2	
+Oraukwu	Idemili South	Anambra	6.080	6.966	2	
+Oratta	Owerri North	Imo	5.495	7.073	2	
+Orati	Ibarapa Central	Oyo	7.447	3.276	2	
+Oronia-Utu	Anambra West	Anambra	6.510	6.861	2	Orania-Otu|Oroma Otu
+Oran	Aiyedade	Osun	7.205	4.221	2	
+Orakuku	Konshisha	Benue	7.203	8.617	2	
+Ora-Bale	Surulere	Oyo	8.028	4.384	2	Ora Bale
+Ora-Aiyegbaju	Ekiti	Kwara	8.078	5.324	2	Ora Aiyegbaju|OraAiyegbaju
+Ora	Kabba/Bunu	Kogi	8.042	6.197	2	
+Ora	Ekiti	Kwara	8.031	5.324	2	
+Ora	Ovia North-East	Edo	6.467	5.600	2	
+Olowo-Ori-Oke	Moro	Kwara	8.812	4.246	2	Olowo Ori Oke
+Oko Orisa	Epe	Lagos	6.583	3.933	2	Orisha
+Okerimi-Oro	Irepodun	Kwara	8.251	4.887	2	Oke-Rimi|Okerimi Oro
+Oke Ore	Ado Odo/Ota	Ogun	6.683	3.050	2	
+Oke-Oran	Ori Ire	Oyo	8.014	4.110	2	Oke Oran
+Oke-Oran	Aiyedade	Osun	7.202	4.247	2	Oke Oran
+Ogbe-Orogho	Ikpoba-Okha	Edo	6.134	5.660	2	
+Ode-Ore	Ifelodun	Kwara	8.352	5.030	2	Odo Ore|Odore
+Obu Oru	Ikwuano	Abia	5.463	7.631	2	
+Oba Igbo-Ora	Ibarapa North	Oyo	7.538	3.091	2	Oba Igbo Ora|ObaIgbo-Ora|ObaIgboOra
+Nrobo	Uzo-Uwani	Enugu	6.840	7.274	2	Orobo
+Ndi-Orieke	Ohafia	Abia	5.570	7.878	2	
+Makun	Shagamu	Ogun	6.854	3.627	2	Orile-Makun
+Jiga-Orile	Yewa North	Ogun	7.112	3.124	2	Jiga|Jiga Orile
+Ilewo-Orile	Abeokuta North	Ogun	7.148	3.189	2	Ilewo Orile
+Ijomu-Oro	Irepodun	Kwara	8.249	4.906	2	Ijomo|Ijomu Oro
+Ijale-Orile	Abeokuta North	Ogun	7.183	3.190	2	Ijale Orile
+Ijako-Orile	Yewa North	Ogun	7.056	3.112	2	Ijako Orile
+Ijaiye-Orile	Akinyele	Oyo	7.630	3.849	2	Ijaiye|Ijaiye Orile|Ijako-Orile
+Igbo-Oriku	Moro	Kwara	8.700	4.498	2	Igbo Oriku
+Igbo-Ori-Oluwo	Yewa North	Ogun	7.327	2.992	2	Igbo Ori
+Idi-Orogbo	Obafemi Owode	Ogun	6.992	3.534	2	Idi Orogbo
+Idi-Oro	Surulere	Oyo	8.104	4.355	2	Idi Oro
+Idi-Oro	Ola Oluwa	Osun	7.772	4.279	2	Idi Oro
+Idioro	Mushin	Lagos	6.519	3.359	2	Idi Oro
+Idi-Ori	Surulere	Oyo	8.063	4.459	2	Idi Ori
+Idi-Ori	Yewa North	Ogun	7.074	2.894	2	Idi Ori
+Iddo-Oro	Irepodun	Kwara	8.258	4.901	2	Iddo Oro|IddoOro
+Ibode	Ojo	Lagos	6.417	3.133	2	Orufo
+Ibara-Orile	Abeokuta North	Ogun	7.142	3.244	2	Ibara Orile|Ibara-Oko
+Ibadi-Ori	Ori Ire	Oyo	8.469	4.266	2	Ibadi Ori
+Gudugbu-Orile	Afijio	Oyo	7.803	4.041	2	Gudugbu Orile|GudugbuOrile
+Ejemu-Oran	Aiyedade	Osun	7.225	4.237	2	Ejemu Oran
+Egudu-Bale	Ado Odo/Ota	Ogun	6.550	3.037	2	Orile-Egudu
+Baba-Orisa	Itesiwaju	Oyo	8.115	3.728	2	Baba Orisa
+Orimokpang	Boki	Cross River	6.100	8.836	2	Arrimakpan|Arrinokpen
+Araromi-Orita	Ado Odo/Ota	Ogun	6.708	3.075	2	
+Ajana-Igbo-Ora	Ibarapa North	Oyo	7.512	3.334	2	Ajana Igbo Ora|AjanaIgboOra
+Abodere Oridokun	Atiba	Oyo	8.046	3.832	2	
+Orile Oshodi	Oshodi/Isolo	Lagos	6.557	3.335	2	
+Orishigun	Kosofe	Lagos	6.601	3.391	2	Onisigun
+Orotoh	Emuoha	Rivers	4.872	6.899	2	
+Orioke	Ido	Oyo	7.524	3.831	2	
+Ori-Eru	Akinyele	Oyo	7.518	3.865	2	Ori Eru|OriEru
+Iku-Oro	Akinyele	Oyo	7.617	3.928	2	Iku Oro|IkuOro
+Orita	Akinyele	Oyo	7.554	3.992	2	
+Oroworokwo	Port-Harcourt	Rivers	4.810	7.021	2	
+Orogbum	Port-Harcourt	Rivers	4.791	7.012	2	
+Oruama	Nembe	Bayelsa	4.537	6.408	2	
+Orari	Abua/Odual	Rivers	4.859	6.651	2	Otari
+Orutemekiri	Degema	Rivers	4.465	6.839	2	
+Orikiri	Abua/Odual	Rivers	4.825	6.718	2	
+Oresa	Ado Odo/Ota	Ogun	6.588	3.049	2	
+Orente	Ado Odo/Ota	Ogun	6.715	3.222	2	
+Oruntu	Obafemi Owode	Ogun	6.964	3.464	2	
+Ogunrun-Ori	Obafemi Owode	Ogun	6.799	3.429	2	
+Orile_Imo	Obafemi Owode	Ogun	6.923	3.560	2	
+Orita-Odo	Shagamu	Ogun	6.758	3.644	2	
+Orita-Atoyo	Shagamu	Ogun	6.806	3.643	2	
+Orisaye	Akure South	Ondo	7.125	5.264	2	
+Orugbe	Ọ̀wọ̀	Ondo	7.141	5.479	2	
+Orita	Akure North	Ondo	7.253	5.360	2	
+Orunro	Adó-Èkìtì	Ekiti	7.615	5.140	2	
+Ago-Orokunja	Adó-Èkìtì	Ekiti	7.618	5.352	2	
+Ora	Ido-Osi	Ekiti	7.818	5.222	2	
+Ortserga	Gwer East	Benue	7.280	8.330	2	
+Orya	Gwer East	Benue	7.295	8.318	2	
+Orsunde	Gwer East	Benue	7.305	8.448	2	
+Iortiel	Gboko	Benue	7.482	8.957	2	Orban
+Orga	Gwer West	Benue	7.610	8.239	2	
+Orwuatsaga	Markurdi	Benue	7.617	8.565	2	
+Orchiga	Markurdi	Benue	7.672	8.447	2	
+Orwa	Gwer West	Benue	7.713	8.295	2	
+Akai Ikot Orok	Odukpani	Cross River	5.006	8.283	2	
+Orira	Biase	Cross River	5.435	8.151	2	
+Oru	Biase	Cross River	5.479	8.031	2	
+Obufa Esuk Orok	Calabar South	Cross River	4.937	8.329	2	
+Oro Ukun	Akpabuyo	Cross River	5.000	8.396	2	
+Origbe	Ijebu East	Ogun	6.586	4.184	2	
+Oriyanrin	Ijebu East	Ogun	6.590	4.200	2	
+Origbe	Odigbo	Ondo	6.616	4.445	2	
+Oriyanrin	Odigbo	Ondo	6.642	4.451	2	
+Orunwa	Ijebu North East	Ogun	6.844	4.066	2	
+Oriwu	Ijebu North East	Ogun	6.892	4.032	2	
+Oriye	Ogun Waterside	Ogun	6.365	4.580	2	
+Orisa-Odo	Ese Odo	Ondo	6.406	4.891	2	
+Oruga	Wurno	Sokoto	13.263	5.358	2	
+Oro-Jango	Fakai	Kebbi	11.473	4.813	2	
+Orhonore	Ethiope East	Delta	5.756	5.915	2	
+Orugbo	Warri South	Delta	5.504	5.712	2	
+Orukugbene	Burutu	Delta	5.257	5.547	2	
+Orukemegbene	Burutu	Delta	5.082	5.842	2	
+Orubeighangbene	Ekeremor	Bayelsa	4.906	5.541	2	
+Orubou	Ekeremor	Bayelsa	4.932	5.690	2	Clarks-Camp
+Orikirigbene	Ekeremor	Bayelsa	4.800	5.664	2	
+Orobiri	Ekeremor	Bayelsa	4.994	5.438	2	
+Oror	Arochukwu	Abia	5.388	7.889	2	
+Ikot Oru	Ikono	Akwa Ibom	5.163	7.800	2	
+Ukwuke Oronta	Ikwuano	Abia	5.424	7.541	2	
+Oriakhi Camp	Uhunmwonde	Edo	6.647	6.031	2	Ekana
+Orieubi	Mbaitoli	Imo	5.594	6.998	2	
+Orifta	Ogbaru	Anambra	5.978	6.789	2	
+Orsumeyin	Nnewi South	Anambra	5.914	6.983	2	
+Orkija	Ihiala	Anambra	5.908	6.843	2	
+Orsuihiteukwa	Orsu	Imo	5.852	6.958	2	
+Orsumoghu	Ihiala	Anambra	5.860	6.928	2	
+Orieama	Mbaitoli	Imo	5.614	6.988	2	
+Orere	Ughelli South	Delta	5.318	6.002	2	
+Orusgbene	Ughelli North	Delta	5.230	6.151	2	
+Oruk Anam	Oruk Anam	Akwa Ibom	4.900	7.717	2	Agbegbe Ijoba Ibile Oruk-Anam
+Oriade	Oriade	Osun	7.583	4.867	2	Agbegbe Ijoba Ibile Oriade
+Orelope	Orelope	Oyo	8.833	3.750	2	
+Orumba North	Orumba North	Anambra	6.067	7.083	2	Agbegbe Ijoba Ibile Ariwa Orumba|Orumba Nord|Orumba ta Arewa|Pak Orumba
+Orumba South	Orumba South	Anambra	5.967	7.217	2	
+Oru East	Oru East	Imo	5.706	6.960	2	
+Oru West	Oru West	Imo	5.742	6.911	2	Agbegbe Ijoba Ibile Iwoorun Oru|Oru Oeste|Oru Ouest|Oru ta Yamma|Se Oru
+Ori Ire	Ori Ire	Oyo	8.334	4.144	2	Ori-Ire
+Orhionmwon	Orhionmwon	Edo	6.254	5.984	2	
+Orozo	Municipal Area Council	FCT Abuja	8.900	7.573	2	
+Ise/Orun	Ise/Orun	Ekiti	7.445	5.394	2	Ise/Orun Local Government Area
+Oru Agbalama	Asari-Toru	Rivers	4.772	6.831	2	
+Orogbanikiri	Akuku Toru	Rivers	4.657	6.802	2	
+Oruamabobriri	Degema	Rivers	4.584	6.824	2	
+Orjir	Gwer East	Benue	7.277	8.358	2	
+Origbo	Oturkpo	Benue	7.128	8.200	2	
+Oronga	Ikwo	Ebonyi	6.025	8.097	2	
+Orhana	Gwer West	Benue	7.742	8.123	2	
+Ortim	Gwer West	Benue	7.708	8.226	2	
+Orshiakambul	Gwer West	Benue	7.673	8.127	2	
+Ortir	Markurdi	Benue	7.716	8.468	2	
+Orde	Logo	Benue	7.844	9.060	2	
+Orwua	Logo	Benue	7.757	9.272	2	
+Orubende	Wukari	Taraba	7.965	9.479	2	
+Orkeghen	Ukum	Benue	7.796	9.491	2	
+Orjir	Buruku	Benue	7.533	9.070	2	
+Orel	Buruku	Benue	7.529	9.100	2	
+Ordam	Logo	Benue	7.716	9.339	2	
+Orduen	Logo	Benue	7.681	9.349	2	
+Orter	Ukum	Benue	7.671	9.430	2	
+Orchia	Ukum	Benue	7.634	9.412	2	
+Ortsega	Ukum	Benue	7.576	9.445	2	
+Orkwar	Wukari	Taraba	7.858	9.593	2	
+Orban	Ukum	Benue	7.672	9.617	2	
+Ortondo	Ukum	Benue	7.681	9.692	2	
+Orgen	Ukum	Benue	7.655	9.737	2	
+Ortswen	Takum	Taraba	7.590	9.964	2	
+Orana	Takum	Taraba	7.512	9.917	2	
+Ornan	Buruku	Benue	7.484	9.095	2	
+Ortese	Gboko	Benue	7.432	9.078	2	
+Orshio	Gboko	Benue	7.385	9.033	2	
+Orodi	Gboko	Benue	7.282	9.064	2	
+Orsaa	Gboko	Benue	7.256	9.047	2	
+Orhena	Gboko	Benue	7.253	9.076	2	
+Oryem	Buruku	Benue	7.459	9.161	2	
+Orsaa	Buruku	Benue	7.452	9.162	2	
+Orkeghen	Buruku	Benue	7.399	9.157	2	
+Orafaga	Buruku	Benue	7.383	9.146	2	
+Orvihi	Buruku	Benue	7.281	9.161	2	
+Orndiir	Buruku	Benue	7.482	9.226	2	
+Orbunde	Buruku	Benue	7.259	9.240	2	
+Orogba	Buruku	Benue	7.361	9.276	2	
+Orkeghen	Katsina-Ala	Benue	7.319	9.459	2	
+Orwuhe	Katsina-Ala	Benue	7.440	9.493	2	
+Orvihi	Katsina-Ala	Benue	7.335	9.491	2	
+Orhemen	Buruku	Benue	7.216	9.091	2	
+Orokpe	Ushongo	Benue	7.185	9.030	2	
+Ortema	Buruku	Benue	7.150	9.091	2	
+Orbunde	Buruku	Benue	7.152	9.083	2	
+Orga	Ushongo	Benue	7.155	9.029	2	
+Orkpe	Ushongo	Benue	7.093	9.026	2	
+Ornguga	Buruku	Benue	7.166	9.108	2	
+Oraade	Buruku	Benue	7.119	9.109	2	
+Orpin	Ushongo	Benue	7.094	9.093	2	
+Oroun	Vandeikya	Benue	7.006	9.099	2	
+Ortoho	Buruku	Benue	7.214	9.220	2	
+Orlu	Ushongo	Benue	7.052	9.233	2	
+Orpir	Buruku	Benue	7.179	9.277	2	
+Orapine	Ushongo	Benue	7.160	9.316	2	
+Orban	Ushongo	Benue	7.067	9.277	2	
+Orhena	Ushongo	Benue	7.077	9.329	2	
+Orduen	Ushongo	Benue	7.115	9.382	2	
+Ordorogh	Katsina-Ala	Benue	7.161	9.484	2	
+Orahii	Katsina-Ala	Benue	7.158	9.471	2	
+Oraluga	Gboko	Benue	7.439	8.752	2	Or-Aluga
+Ordi	Gboko	Benue	7.460	8.935	2	
+Orkaa	Gboko	Benue	7.465	8.947	2	
+Ortee	Gboko	Benue	7.493	8.964	2	
+Ordonku	Gboko	Benue	7.460	8.971	2	
+Orga	Gboko	Benue	7.434	8.910	2	
+Orya	Gboko	Benue	7.421	8.793	2	
+Ortsega	Gboko	Benue	7.415	8.837	2	
+Ornguze	Gboko	Benue	7.385	8.904	2	
+Orya	Gboko	Benue	7.390	8.914	2	
+Ortoo	Gboko	Benue	7.350	8.943	2	
+Orshi	Gboko	Benue	7.362	8.795	2	
+Ordam	Gboko	Benue	7.315	8.843	2	
+Orakaa	Ushongo	Benue	7.269	8.955	2	
+Ortio	Gboko	Benue	7.276	8.967	2	
+Ornyar	Ushongo	Benue	7.273	8.920	2	
+Orjaar	Gboko	Benue	7.251	8.771	2	
+Oruwo	Brass	Bayelsa	4.359	6.060	2	
+Orile-Iganmu	Surulere	Lagos	6.479	3.335	2	
+Orire	Amuwo Odofin	Lagos	6.466	3.283	2	Festac II Ward
+Awodi Ora	Ajeromi/Ifelodun	Lagos	6.454	3.326	2	
+Idi Oro Odi Olowo	Mushin	Lagos	6.528	3.360	2	
+Orile Ikeja	Ikeja	Lagos	6.597	3.347	2	
+Orile Oworo	Kosofe	Lagos	6.545	3.404	2	
+Agidi Orishigun	Kosofe	Lagos	6.595	3.403	2	
+Erukan Orishigun	Kosofe	Lagos	6.603	3.393	2	
+Orile-Ikosi	Kosofe	Lagos	6.608	3.382	2	
+Orile-Ketu	Kosofe	Lagos	6.610	3.395	2	
+Orile Somolu Alade	Shomolu	Lagos	6.537	3.375	2	
+Baiyeku Oreta Offin	Ìkòròdú	Lagos	6.535	3.516	2	
+Ajebo Orugbo	Epe	Lagos	6.636	3.776	2	
+Orimedu One	Ibeju Lekki	Lagos	6.455	3.907	2	Orimedu I Ward
+Orimedu Two	Ibeju Lekki	Lagos	6.448	3.864	2	Orimedu II Ward
+Orimedu Three	Ibeju Lekki	Lagos	6.454	3.805	2	Orimedu III Ward
+Ilasan Orile	Eti Osa	Lagos	6.428	3.481	2	
+Oran	Etsako West	Edo	6.888	6.347	2	
+Orelo-Eran	Owan East	Edo	6.823	6.087	2	
+Oraede	Esan West	Edo	6.779	6.063	2	
+Ago-Orere Camp	Esan South-East	Edo	6.518	6.440	2	
+Orekhie-Ivbiela	Esan South-East	Edo	6.506	6.407	2	
+Oroke	Warri North	Delta	5.956	5.357	2	
+Orumagada I	Ovia North-East	Edo	5.930	5.302	2	
+Orumagada II	Ovia North-East	Edo	5.922	5.295	2	
+Orele	Warri North	Delta	5.707	5.090	2	
+Oroge	Obafemi Owode	Ogun	7.032	3.378	2	
+Orita-Elerin	Odeda	Ogun	7.180	3.418	2	
+Orogun	Egbeda	Oyo	7.455	4.021	2	
+Ore	Egbeda	Oyo	7.436	4.065	2	
+Idi-Oro-Adejumo	Ona Ara	Oyo	7.219	4.052	2	
+Idi-Oro-Sanni	Ona Ara	Oyo	7.217	4.053	2	
+Shagamu Idi-Orombo	Ijebu North	Ogun	7.045	4.016	2	
+Orisumbare	Ijebu North	Ogun	7.107	4.163	2	
+Orita-Apaiye	Irewole	Osun	7.471	4.197	2	
+Orojimi	Isokan	Osun	7.297	4.195	2	
+Tomi-Orun	Irewole	Osun	7.437	4.223	2	
+Ori-Oke	Aiyedade	Osun	7.242	4.278	2	
+Origbo	Aiyedade	Osun	7.280	4.288	2	
+Ori-Oke	Aiyedade	Osun	7.158	4.350	2	
+Ara-Origbo	Ife North	Osun	7.383	4.465	2	
+Oke Ore	Olorunda	Osun	7.907	4.556	2	
+Oke Ore	Irepodun	Osun	7.862	4.525	2	
+Orenwon	Ede North	Osun	7.732	4.515	2	
+Oke Ora	Atakunmosa West	Osun	7.515	4.629	2	
+Morin-Orile	Ilesha West	Osun	7.657	4.666	2	
+Ora	Obokun	Osun	7.710	4.667	2	
+Igbo Orioke	Obokun	Osun	7.804	4.710	2	
+Oriesan	Boripe	Osun	7.847	4.664	2	
+Orisi	Oriade	Osun	7.665	4.878	2	
+Orita Ijeda	Efon	Ekiti	7.680	4.885	2	
+Orunoja	Ijero	Ekiti	7.894	4.975	2	
+Oja-Orita Sawonjo	Yewa North	Ogun	7.097	2.971	2	
+Orishade	Yewa North	Ogun	7.082	2.882	2	
+Orieke	Ipokia	Ogun	6.701	2.841	2	
+Egbon-Orita	Ipokia	Ogun	6.803	2.786	2	
+Orisa-Oke	Ese Odo	Ondo	6.410	4.883	2	
+Ori-Oke Haramah	Ilaje	Ondo	6.054	4.830	2	
+Orya	Keana	Nasarawa	8.168	8.524	2	
+Oroke-Eku	Ife East	Osun	7.477	4.605	2	
+Orita Obalara	Ife East	Osun	7.420	4.592	2	
+Oriapata	Ife South	Osun	7.289	4.539	2	
+Orisumbare	Ife South	Osun	7.122	4.585	2	
+Orisunbare	Ondo West	Ondo	7.066	4.625	2	
+Orile-Lukosi	Ife South	Osun	7.372	4.611	2	
+Ori-Isa	Atakunmosa West	Osun	7.414	4.716	2	
+Ori-Oke	Atakunmosa West	Osun	7.348	4.700	2	
+Ore	Ife South	Osun	7.244	4.648	2	
+Orisumbare	Ile Oluji/Okeigbo	Ondo	7.264	4.759	2	
+Orita-Igbindo	Ondo West	Ondo	7.039	4.756	2	
+Oke-Orunoga	Ondo West	Ondo	7.133	4.776	2	
+Orisumbare	Ile Oluji/Okeigbo	Ondo	7.214	4.779	2	
+Orisumbare	Oriade	Osun	7.415	4.850	2	
+Orisumbare	Ile Oluji/Okeigbo	Ondo	7.329	4.838	2	
+Orin-Bale	Ondo West	Ondo	7.100	4.894	2	
+Orisumbare	Ondo West	Ondo	7.019	4.812	2	
+Orisumbare	Ondo East	Ondo	7.045	4.952	2	
+Orilabawaiye Agunla	Ile Oluji/Okeigbo	Ondo	7.309	4.942	2	
+Ori-Okuta	Ori Ire	Oyo	8.490	4.228	2	
+Ori-Elu	Asa	Kwara	8.481	4.351	2	
+Orosi	Surulere	Oyo	8.106	4.334	2	
+Orisabiyi	Surulere	Oyo	8.062	4.343	2	
+Idi-Orogbo	Ijebu North	Ogun	7.061	3.977	2	
+Ori-Oke	Oluyole	Oyo	7.195	3.900	2	
+Origili	Moro	Kwara	8.828	4.380	2	
+Oro-Ola	Moro	Kwara	8.777	4.316	2	
+Ga-Ore	Moro	Kwara	8.739	4.485	2	Ga Ore
+Kondoro-Ori-Oke	Asa	Kwara	8.650	4.384	2	
+Origbo	Asa	Kwara	8.575	4.351	2	
+Orimoro	Asa	Kwara	8.535	4.323	2	
+Budo-Orogun	Oyun	Kwara	8.115	4.512	2	
+Orita-Merin Okedu	Ìsẹ́yìn	Oyo	7.855	3.685	2	
+Ori-Oke	Oyo East	Oyo	7.842	3.966	2	
+Afin-Oro	Irepodun	Kwara	8.254	4.893	2	
+Origbeca	Moro	Kwara	9.076	4.821	2	
+Orioke	Afijio	Oyo	7.812	4.056	2	
+Or	Song	Adamawa	9.881	12.669	2	
+Orogun	Asa	Kwara	8.336	4.578	2	
+Jagun-Oro	Lagelu	Oyo	7.615	4.093	2	
+Orile-Owu	Aiyedade	Osun	7.595	4.476	2	
+Orodi	Ola Oluwa	Osun	7.733	4.291	2	
+Ore	Lagelu	Oyo	7.532	4.088	2	
+Orioke	Irewole	Osun	7.509	4.200	2	
+Ori-Apata	Lagelu	Oyo	7.516	4.017	2	
+Orifite	Ekwusigo	Anambra	6.030	6.815	2	
+Orisumbare	Ile Oluji/Okeigbo	Ondo	7.268	4.940	2	
+Orisumbare	Oriade	Osun	7.379	4.970	2	
+Orogun	Moro	Kwara	9.046	4.806	2	
+Orioke	Iwo	Osun	7.743	4.086	2	
 Francis Oremeji Street	Ikeja	Lagos	6.594	3.339	1	
 Orishe Street	Ikeja	Lagos	6.602	3.345	1	
 Ordinance Road	Port-Harcourt	Rivers	4.812	7.032	1	
@@ -197,7 +623,7 @@ Orosi Avenue	Obio/Akpor	Rivers	4.841	7.003	1
 Oremeji Street	Mushin	Lagos	6.551	3.364	1	
 Orita Aperin-Beere Road	Ibadan South East	Oyo	7.376	3.900	1	
 Oronsaye Street	Egor	Edo	6.366	5.631	1	
-UPPER OROMIYAN STREET	Egor	Edo	6.355	5.584	1	
+Upper Oromiyan Street	Egor	Edo	6.355	5.584	1	
 Orowere street	Egor	Edo	6.374	5.632	1	
 Ora Crescent	Oredo	Edo	6.332	5.608	1	
 1st Oronmiyan Street	Oredo	Edo	6.348	5.596	1	
@@ -213,8 +639,6 @@ Oredeyin Street	Oshodi/Isolo	Lagos	6.558	3.348	1
 Oremeji Street	Oshodi/Isolo	Lagos	6.562	3.341	1	
 Oraye-Ilupeju-Ijan Road	Ise/Orun	Ekiti	7.495	5.420	1	
 Ora Road	Moba	Ekiti	8.007	5.080	1	
-Orita Aperin-Beere Road	Ibadan South East	Oyo	7.373	3.903	1	
-Orita Aperin-Beere Road	Ibadan South East	Oyo	7.368	3.911	1	
 Engr Kayode Orekoya Street	Lagelu	Oyo	7.438	3.955	1	
 Oremeji Street	Ajeromi/Ifelodun	Lagos	6.443	3.343	1	
 Orogiri Street	Lagos Island	Lagos	6.462	3.391	1	
@@ -238,7 +662,6 @@ Orange Close	Municipal Area Council	FCT Abuja	9.099	7.478	1
 Nwafor Orizu Street	Municipal Area Council	FCT Abuja	9.013	7.476	1	
 Nwafor Orizu Street	Municipal Area Council	FCT Abuja	9.016	7.478	1	
 Stephen Orosanye Street	Municipal Area Council	FCT Abuja	9.114	7.419	1	
-National Orthopaedic Hospital	Dala	Kano	12.019	8.499	0	
 Oremeji Street	Surulere	Lagos	6.510	3.340	1	
 Felix Oriarewo Street	Eti Osa	Lagos	6.475	3.621	1	
 Oroma Close	Port-Harcourt	Rivers	4.806	6.998	1	
@@ -315,7 +738,6 @@ Orlu owerri old road	Orlu	Imo	5.768	7.029	1
 Ihiala -Orlu Rd	Orsu	Imo	5.826	6.944	1	
 Orlu-Osina-Akokwa-Uga Rd	Orlu	Imo	5.799	7.039	1	
 Ihiala -Orlu Rd	Orlu	Imo	5.800	7.019	1	
-Ihiala -Orlu Rd	Orlu	Imo	5.798	7.025	1	
 Orlu Owerri new Road	Orlu	Imo	5.796	7.019	1	
 Orlu Owerri new Road	Orlu	Imo	5.768	7.014	1	
 Orokam Street	Oturkpo	Benue	7.175	8.131	1	
@@ -328,10 +750,8 @@ Oranye Street	Onitsha North	Anambra	6.154	6.784	1
 Orok Orok St	Calabar Municipal	Cross River	4.947	8.338	1	
 Chikwe Orlu Street	Obio/Akpor	Rivers	4.867	6.972	1	
 Orchid Road	Eti Osa	Lagos	6.459	3.511	1	
-Orie Akokwa	Ideato North	Imo	5.913	7.111	0	
 Igbo Oruwo	Oye	Ekiti	7.803	5.357	1	
 Oromu Street	Ilesha West	Osun	7.628	4.735	1	
-Oromu Street	Ilesha West	Osun	7.622	4.727	1	
 Oronna Street	Ife North	Osun	7.483	4.540	1	
 Oke Ori Omi Road	Adó-Èkìtì	Ekiti	7.619	5.218	1	
 Ore-Legbogbo-Irele Road	Irele	Ondo	6.540	4.879	1	
@@ -341,14 +761,12 @@ Egbada - Orlu Rd	Owerri Municipal	Imo	5.512	7.009	1
 Nwachukwu Orizu Street, World bank	Owerri Municipal	Imo	5.485	6.998	1	
 Oriafor Road	Esan West	Edo	6.745	6.095	1	
 Orio Ave.	Owerri Municipal	Imo	5.485	7.012	1	
-Orio Ave.	Owerri Municipal	Imo	5.485	7.012	1	
 Orio world cl.	Owerri Municipal	Imo	5.484	7.012	1	
 Oriade Street	Oshodi/Isolo	Lagos	6.538	3.313	1	
 Orenuga Street	Oshodi/Isolo	Lagos	6.535	3.315	1	
 Orhuwhorun Road	Udu	Delta	5.503	5.798	1	
 Orogbum Crescent	Port-Harcourt	Rivers	4.818	6.998	1	
 Oremeji Street	Alimosho	Lagos	6.648	3.289	1	
-Orthopedic hopital	Batagarawa	Katsina	12.904	7.594	0	
 Kuzi-Orizu Street	Eti Osa	Lagos	6.450	3.579	1	
 Ora Ekpen	Kosofe	Lagos	6.553	3.390	1	
 Oredola Avenue	Ifo	Ogun	6.674	3.310	1	
@@ -361,33 +779,24 @@ Oro Street	Egor	Edo	6.356	5.616	1
 Oron Road / Nwaniba Roundabout	Uyo	Akwa Ibom	5.030	7.936	1	
 Oron Road	Uyo	Akwa Ibom	5.027	7.935	1	
 Oron Road	Uyo	Akwa Ibom	5.018	7.938	1	
-Oron Road	Uyo	Akwa Ibom	5.009	7.942	1	
-Oron Road	Uyo	Akwa Ibom	5.004	7.946	1	
 Oriadetu street	Ìkòròdú	Lagos	6.596	3.508	1	
-National Orthopaedic Hospital Igbobi	Shomolu	Lagos	6.530	3.373	0	NOHIL
 Femi Orebote	Oshodi/Isolo	Lagos	6.517	3.316	1	
 Dele Orisabiyi Street	Oshodi/Isolo	Lagos	6.516	3.310	1	
 Orunbe Close	Eti Osa	Lagos	6.428	3.453	1	
 Orhumarho Street	Uvwie	Delta	5.555	5.780	1	
 Ondo-Ore Expressway	Ondo West	Ondo	7.095	4.822	1	
-UPPER OROMIYAN STREET	Egor	Edo	6.356	5.590	1	
+Oriendu	Ehime Mbano	Imo	5.630	7.293	1	
 Iludun-Ila Orangun Road	Ila	Osun	8.019	4.904	1	
 Oremeji Street	Osogbo	Osun	7.775	4.540	1	
 ORE MEJI Street	Ewekoro	Ogun	6.930	3.213	1	
-ORE MEJI Street	Ewekoro	Ogun	6.928	3.215	1	
 Orlu Owerri new Road	Njaba	Imo	5.731	7.013	1	
-Orlu Owerri new Road	Njaba	Imo	5.737	7.017	1	
 Orlu Owerri new Road	Njaba	Imo	5.699	7.011	1	
-Orlu Owerri new Road	Njaba	Imo	5.712	7.010	1	
 Orlu Owerri new Road	Njaba	Imo	5.683	7.011	1	
 Old Orlu Owerri Road	Njaba	Imo	5.673	7.014	1	
 Odo Oro Street	Ijebu North	Ogun	6.966	3.997	1	
-Orhuwhorun Road	Udu	Delta	5.505	5.811	1	
-Orhuwhorun Road	Udu	Delta	5.504	5.788	1	
 Arandun-Ila Orangun Road	Ila	Osun	8.024	4.912	1	
 Orukpa Street	Esan North-East	Edo	6.693	6.326	1	
 Orita Obele Estate Road	Akure South	Ondo	7.301	5.164	1	
-Orchid Road	Eti Osa	Lagos	6.435	3.543	1	
 Orlando Spot Street	Yenegoa	Bayelsa	4.947	6.342	1	
 Orange Drive	Oluyole	Oyo	7.343	3.821	1	
 Orlu Street	Umuahia North	Abia	5.537	7.495	1	
@@ -397,7 +806,6 @@ Oreta Road	Ìkòròdú	Lagos	6.564	3.521	1
 Oron Road	Uyo	Akwa Ibom	4.990	7.968	1	
 Offin Oreta Road	Ìkòròdú	Lagos	6.537	3.516	1	
 Oreta Road	Ìkòròdú	Lagos	6.545	3.524	1	
-Oromeji Street	Eti Osa	Lagos	6.492	3.594	1	
 Oron Road	Uyo	Akwa Ibom	5.032	7.932	1	
 Oron Road / Nwaniba Roundabout	Uyo	Akwa Ibom	5.033	7.931	1	
 Talabi Oreagba Street	Ìkòròdú	Lagos	6.622	3.524	1	
@@ -406,7 +814,6 @@ Onigbini Laga Oro Street	Alimosho	Lagos	6.537	3.259	1
 Odozi Street	Ifo	Ogun	6.648	3.366	1	Oremeta/Yakoyo Road
 Oremeji Street	Alimosho	Lagos	6.600	3.236	1	
 Oriade Street	Ado Odo/Ota	Ogun	6.623	3.207	1	
-Oromu Street	Ilesha West	Osun	7.631	4.734	1	
 Orishe Street	Ikeja	Lagos	6.597	3.345	1	
 Orifite Street	Enugu North	Enugu	6.435	7.500	1	
 Olakunle Oropo Street	Eti Osa	Lagos	6.445	3.608	1	
@@ -414,60 +821,93 @@ Barr Adebiyi Oroyinyin Street	Ilorin East	Kwara	8.475	4.619	1
 Major General Orji Street	Enugu North	Enugu	6.442	7.458	1	
 Orita Obele Road	Akure South	Ondo	7.292	5.160	1	
 Orire Community	Akure South	Ondo	7.248	5.158	1	
-Oro Street	Egor	Edo	6.355	5.618	1	
-Orlu Owerri new Road	Orlu	Imo	5.789	7.017	1	
 Salau Oriola	Kosofe	Lagos	6.545	3.406	1	
 T. A. Orji Close	Municipal Area Council	FCT Abuja	9.041	7.534	1	
 Igbogbo-Oreta-Ofin Road	Ìkòròdú	Lagos	6.581	3.523	1	
-Oreta Road	Ìkòròdú	Lagos	6.571	3.521	1	
 Oremeta/Yakoyo Road	Ikeja	Lagos	6.656	3.355	1	
-Oremeta/Yakoyo Road	Ikeja	Lagos	6.657	3.355	1	
-Oremeta/Yakoyo Road	Ifo	Ogun	6.654	3.356	1	
-Oriwu Senior Model College	Ìkòròdú	Lagos	6.605	3.518	0	
-Oretse Medical Centre	Oredo	Edo	6.328	5.612	0	
 Ugochukwu Orji Street	Eti Osa	Lagos	6.433	3.518	1	
-Offin Oreta Road	Ìkòròdú	Lagos	6.536	3.510	1	
 Oremeji Street	Eti Osa	Lagos	6.504	3.587	1	
-Olakunle Oropo Street	Eti Osa	Lagos	6.443	3.608	1	
-Orie-Omuma Market	Oru East	Imo	5.757	6.947	0	
 Emevor-Orogun Road	Isoko North	Delta	5.516	6.121	1	
-national orthpaedic hospital	Enugu North	Enugu	6.465	7.523	0	
 Ordinance Road	Port-Harcourt	Rivers	4.801	7.037	1	
 Oremeji Street	Alimosho	Lagos	6.575	3.245	1	
 Orelope Street	Yewa South	Ogun	6.870	2.997	1	
-Oron Road	Uyo	Akwa Ibom	4.996	7.956	1	
 Oranmiyan Street	Ife Central	Osun	7.476	4.558	1	
 Orotedo Street	Mushin	Lagos	6.512	3.359	1	
 Ila Orangun Street	Alimosho	Lagos	6.580	3.232	1	
 Orobator Street	Oredo	Edo	6.286	5.605	1	
 Orodu Street	Ajeromi/Ifelodun	Lagos	6.455	3.340	1	
-Orlu Owerri new Road	Njaba	Imo	5.722	7.012	1	
-Orishigun Street	Kosofe	Lagos	6.604	3.393	1	
-Nempi Modern Market(Orie Nempi)	Oru West	Imo	5.774	6.928	0	
 Oriyomi Street	Alimosho	Lagos	6.594	3.231	1	
-ORCA Mall	Eti Osa	Lagos	6.422	3.419	0	
-Mea Mater Elizabeth High School, Orjiagu	Nkanu West	Enugu	6.288	7.557	0	
 Orlu owerri old road	Orlu	Imo	5.745	7.020	1	
 Tiamiyu Ore Street	Ìkòròdú	Lagos	6.633	3.484	1	
 Ikirun-Ila Orangun Road	Ila	Osun	8.016	4.904	1	
 Ora Road	Ila	Osun	8.023	4.920	1	
-Model Orphanage Integrated School	Maiduguri	Borno	11.808	13.163	0	
 Oroke Street	Eti Osa	Lagos	6.457	3.566	1	
 Orija Close	Eti Osa	Lagos	6.476	3.629	1	
+Origo Station	Egbedore	Osun	7.692	4.365	0	
+Oredo Girls Junior/ Senior Secondary School	Oredo	Edo	6.324	5.630	0	
+Ore-Oghene Primary School	Oredo	Edo	6.346	5.614	0	
+Oritamefa Baptist Model School	Ibadan North	Oyo	7.398	3.908	0	
+Oranyan Health Centre	Ibadan South East	Oyo	7.375	3.901	0	
+New Orisunbare Market	Olorunda	Osun	7.779	4.548	0	
+Orxfield Oil & Gas	Ado Odo/Ota	Ogun	6.691	3.248	0	
+Ori	Isoko North	Delta	5.555	6.343	0	Oria-Ovo Primary School
+OriEru Primary Health Centre	Ibadan North West	Oyo	7.381	3.891	0	
+Oranmiyan Grammar School	Ife Central	Osun	7.494	4.553	0	
+Ori Ohin Market	Ose	Ondo	6.963	5.744	0	
+Oro Kingdom Market	Odigbo	Ondo	6.901	4.897	0	
+Ore Market	Odigbo	Ondo	6.750	4.880	0	
+Orie Market, Obeledu	Anaocha	Anambra	6.082	7.022	0	
+Orie Market, Neni	Anaocha	Anambra	6.082	7.004	0	
+Ori Oke Community High Schools	Ogbomosho North	Oyo	8.147	4.242	0	
+Primary Oral Health Centre, Idikan (UCH Annex)	Ibadan North West	Oyo	7.383	3.891	0	
+University of Africa, Toru-Orua	Sagbama	Bayelsa	5.100	6.066	0	
+Marine Police Training School, Toru-Orua	Sagbama	Bayelsa	5.101	6.066	0	
+Community Primaryschool, Orile-Ifo	Ifo	Ogun	6.688	3.332	0	
+Local Government Primary School, Ore Akinde	Shagamu	Ogun	6.753	3.601	0	
+Methodist Primary School, Oke Ore	Ado Odo/Ota	Ogun	6.535	2.898	0	
+Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.552	3.045	0	
+Community Primary School, Kajola Orile	Ifo	Ogun	6.809	3.210	0	
+St. David'S Anglican School, Orogbe	Epe	Lagos	6.665	4.005	0	
+Local Government Primary School, Orudu Oluwo	Ifo	Ogun	6.817	3.186	0	
+Local Government Primary School, Orogan-Adewolu	Ado Odo/Ota	Ogun	6.670	3.158	0	
+Community Primaryschool, Orile-Ifo	Ifo	Ogun	6.827	3.186	0	
+St. David'S Anglican School, Orogbe	Ifo	Ogun	6.809	3.210	0	
+Local Government Primary School, Orogan-Adewolu	Ifo	Ogun	6.767	3.147	0	
+Local Government Primary School, Orudu Oluwo	Ifo	Ogun	6.728	3.329	0	
+Methodist Primary School, Oke Ore	Ado Odo/Ota	Ogun	6.678	3.036	0	
+Local Government Primary School, Ore Akinde	Ado Odo/Ota	Ogun	6.610	3.118	0	
+Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.586	3.075	0	
+National Orthopedic Hospital	Enugu East	Enugu	6.468	7.526	0	
+Ori Eru PHC	Ibadan North West	Oyo	7.381	3.891	0	
+Origbegi Satisfaction maternity hospital, Ayeye	Ibadan North West	Oyo	7.383	3.893	0	
+Oreofe Maternity, Ori Eru	Ibadan North West	Oyo	7.388	3.889	0	
+Orogun Public Healthcare Centre	Akinyele	Oyo	7.458	3.912	0	
+Orthopedic Hospital No12 B Ustaz Yunuz Street	Kaduna North	Kaduna	10.544	7.432	0	
+Ore Ofe Hospital Ijanikin	Ojo	Lagos	6.495	3.126	0	
+Oriowo Maternity Home	Ojo	Lagos	6.477	3.123	0	
+Orisunbare Primary Health Care Center	Alimosho	Lagos	6.570	3.303	0	
+Roland Orthopedic Hospital	Alimosho	Lagos	6.533	3.237	0	
+Orisegun Med Center	Mushin	Lagos	6.525	3.350	0	
+Odo Ori	Iwo	Osun	7.656	4.189	0	
+Oriom Clinic	Amuwo Odofin	Lagos	6.425	3.254	0	
+Orion Clinic	Amuwo Odofin	Lagos	6.435	3.259	0	
+Owode Orini	Kosofe	Lagos	6.610	3.411	0	
+Orthopedic hospital	Alimosho	Lagos	6.533	3.237	0	
+Orbit Montessori School	Obio/Akpor	Rivers	4.863	7.066	0	
+Orphan Secondary School	Langtang North	Plateau	9.197	9.892	0	
+Eleko, Orelope Hospital, Jebba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.536	4.619	0	
+Orisan Private School	Ojo	Lagos	6.459	3.158	0	
+Sagama Orchids Estate	Municipal Area Council	FCT Abuja	9.124	7.391	0	
+National Orthopaedic Hospital	Dala	Kano	12.019	8.499	0	
+Orie Akokwa	Ideato North	Imo	5.913	7.111	0	
+Orthopedic hopital	Batagarawa	Katsina	12.904	7.594	0	
+National Orthopaedic Hospital Igbobi	Shomolu	Lagos	6.530	3.373	0	NOHIL
+Oriwu Senior Model College	Ìkòròdú	Lagos	6.605	3.518	0	
+Oretse Medical Centre	Oredo	Edo	6.328	5.612	0	
+Orie-Omuma Market	Oru East	Imo	5.757	6.947	0	
+national orthpaedic hospital	Enugu North	Enugu	6.465	7.523	0	
+Nempi Modern Market(Orie Nempi)	Oru West	Imo	5.774	6.928	0	
+ORCA Mall	Eti Osa	Lagos	6.422	3.419	0	
+Mea Mater Elizabeth High School, Orjiagu	Nkanu West	Enugu	6.288	7.557	0	
+Model Orphanage Integrated School	Maiduguri	Borno	11.808	13.163	0	
 Nwafor Orizu College of Education	Anambra East	Anambra	6.216	6.802	0	
-Urue Offong/Oruko	Urue Offong/Oruko	Akwa Ibom	4.722	8.169	2	
-Oruk Anam	Oruk Anam	Akwa Ibom	4.820	7.651	2	
-Oron	Oron	Akwa Ibom	4.812	8.228	2	
-Orumba North	Orumba North	Anambra	6.113	7.163	2	
-Orhionmwon	Orhionmwon	Edo	6.088	5.948	2	
-Oredo	Oredo	Edo	6.230	5.562	2	
-Orsu	Orsu	Imo	5.849	6.983	2	
-Oru West	Oru West	Imo	5.754	6.911	2	
-Oru East	Oru East	Imo	5.727	6.948	2	
-Orlu	Orlu	Imo	5.818	7.041	2	
-Orumba South	Orumba South	Anambra	5.989	7.205	2	
-Ise/Orun	Ise/Orun	Ekiti	7.421	5.385	2	
-Oriade	Oriade	Osun	7.553	4.867	2	
-Orelope	Orelope	Oyo	8.794	3.802	2	
-Ori Ire	Ori Ire	Oyo	8.309	4.204	2	
-Orolu	Orolu	Osun	7.903	4.474	2	

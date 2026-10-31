@@ -1,13 +1,20 @@
+Ifo	Ifo	Ogun	6.814	3.196	3	Ifaw
+Ifẹ̀	Ife Central	Osun	7.483	4.560	3	Ife
+Ifon	Ose	Ondo	6.928	5.775	3	
+Ifetedo	Ife South	Osun	7.184	4.699	3	
+Ohafia-Ifigh	Ohafia	Abia	5.615	7.812	3	
+Ifon	Orolu	Osun	7.861	4.479	3	
+Ile-Ife	Ife Central	Osun	7.482	4.560	3	Ife
+Ifako	Ifako/Ijaye	Lagos	6.644	3.325	3	
+Ifako Gbagada	Kosofe	Lagos	6.560	3.390	2	
 Efafo	Olamaboro	Kogi	7.196	7.705	2	Ifa Afaw
 Iffia	Warri North	Delta	5.870	5.096	2	
 Ifeta Beach	Akpabuyo	Cross River	5.072	8.419	2	Ifeta
 Ifoko	Asari-Toru	Rivers	4.762	6.814	2	Brickfield
-Ifo	Ifo	Ogun	6.814	3.196	3	Ifaw
 Awai Ifunkpa	Akamkpa	Cross River	5.567	8.269	2	
 Ifaki	Zuru	Kebbi	11.277	5.093	2	
 Ifute	Ayamelum	Anambra	6.604	6.956	2	
 Efandion	Esan North-East	Edo	6.700	6.333	2	Ifadion;Efahdion
-Ifẹ̀	Ife Central	Osun	7.483	4.560	3	Ife
 Elem-Ifoko	Degema	Rivers	4.419	6.998	2	
 Fagorioye	Akinyele	Oyo	7.600	4.050	2	Ifagorioye
 Ifisin	Ido-Osi	Ekiti	7.792	5.210	2	Ifishin
@@ -19,16 +26,197 @@ Ifiang Ayong	Akpabuyo	Cross River	4.873	8.598	2	Ifian
 Ifira	Igabi	Kaduna	10.703	7.294	2	
 Ifako Ijaiye	Ifako/Ijaye	Lagos	6.664	3.289	2	
 Ihoke	Apa	Benue	7.627	7.801	2	Ifoke
-Ifon	Ose	Ondo	6.928	5.775	3	
 Ifaki	Ido-Osi	Ekiti	7.791	5.244	2	
 Iffe	Mkpat Enin	Akwa Ibom	4.773	7.779	2	Iffa
 Afiaelem	Ikwo	Ebonyi	6.044	8.150	2	Ifilimi
 Ifian Nsung	Akpabuyo	Cross River	4.850	8.551	2	Ifiang Nsung
 Efaku	Ofu	Kogi	7.300	7.133	2	Ifaku
-Ifetedo	Ife South	Osun	7.184	4.699	3	
 Ifa Okon	Essien Udim	Akwa Ibom	5.070	7.601	2	
 Ifuho	Ikot Ekpene	Akwa Ibom	5.175	7.697	2	
 Midim Ikot Ifang	Abak	Akwa Ibom	5.045	7.710	2	
+Ala - Ifeku	Etsako Central	Edo	6.846	6.611	2	
+Ifeku Uyi	Etsako Central	Edo	6.831	6.596	2	
+Owa-Ifeku	Etsako Central	Edo	6.831	6.604	2	
+Okpatawo Ogane-Ifeku	Etsako Central	Edo	6.808	6.601	2	
+Allah-Ifeku I	Etsako Central	Edo	6.796	6.607	2	
+Allah-Ifeku II	Esan South-East	Edo	6.790	6.609	2	
+Ifie-kporo	Warri South	Delta	5.552	5.681	2	
+Ifako	Kosofe	Lagos	6.566	3.388	2	
+Ifite Village	Anaocha	Anambra	6.061	7.034	2	
+Ifeku Island	Esan South-East	Edo	6.744	6.595	2	
+Ifangni	Ifangni	Ogun	6.644	2.711	2	
+Irepodun/Ifelodun	Irepodun/Ifelodun	Ekiti	7.706	5.264	2	
+Ifelodun	Ifelodun	Kwara	8.633	5.179	2	
+Ifako/Ijaye	Ifako/Ijaye	Lagos	6.660	3.321	2	
+Ifo	Ifo	Ogun	6.756	3.242	2	
+Ifedore	Ifedore	Ondo	7.353	5.110	2	
+Ifedayo	Ifedayo	Osun	7.962	4.985	2	
+Ifelodun	Ifelodun	Osun	7.905	4.637	2	
+Ife South	Ife South	Osun	7.225	4.610	2	
+Ife North	Ife North	Osun	7.278	4.453	2	
+Ife Central	Ife Central	Osun	7.546	4.528	2	
+Ife East	Ife East	Osun	7.403	4.600	2	
+Ajeromi/Ifelodun	Ajeromi/Ifelodun	Lagos	6.455	3.336	2	
+Tinu-Ifa	Surulere	Oyo	8.189	4.408	2	Tinu Ifa
+Papa-Ifa	Ewekoro	Ogun	6.989	3.095	2	
+Iwhrorha	Ughelli South	Delta	5.333	6.018	2	Ifikivwe|Twhrorha
+Ijebu-Ife	Ijebu East	Ogun	6.778	4.034	2	
+Ifite-Ogwari	Ayamelum	Anambra	6.604	6.951	2	Ifute
+Ifote	Obafemi Owode	Ogun	7.033	3.650	2	
+Ifoyintedo	Ipokia	Ogun	6.778	2.789	2	Awdan Ibola|Ifonyintedo
+Ifo Junction	Ifo	Ogun	6.814	3.235	2	
+Ifite-Ukpo	Dunukofia	Anambra	6.201	6.956	2	Ifita Ukpo
+Ifite	Orumba South	Anambra	5.949	7.245	2	
+Ifira	Akoko South East	Ondo	7.391	5.920	2	
+Ifie	Warri South	Delta	5.557	5.689	2	
+Ifiayong Obot	Uruan	Akwa Ibom	5.125	8.015	2	
+Ifewara	Atakunmosa West	Osun	7.469	4.675	2	
+Iferri	Mariga	Niger	10.599	5.702	2	
+Ife-Odan	Ejigbo	Osun	7.831	4.130	2	Ife Odan|IfeOdan
+Ifelodun	Saki East	Oyo	8.850	3.419	2	
+Ife	Kagarko	Kaduna	9.561	7.368	2	
+Ife	Yagba East	Kogi	7.912	5.773	2	
+Ife	Ezinihitte	Imo	5.413	7.310	2	
+Ifande	Gboko	Benue	7.255	8.706	2	
+Ifana	Magama	Niger	10.699	4.887	2	
+Ifako Okoyong	Odukpani	Cross River	5.121	8.211	2	
+Ifa Ikot Okan	Uyo	Akwa Ibom	5.001	7.972	2	
+Ifa	Ini	Akwa Ibom	5.392	7.638	2	
+Efaku	Ofu	Kogi	7.299	7.176	2	Ifaku
+Efafo	Olamaboro	Kogi	7.182	7.724	2	Ifa Afaw
+Apamu-Ife	Ife North	Osun	7.298	4.459	2	Apamu Ife
+Ama Apu Ife	Osisioma Ngwa	Abia	5.127	7.281	2	
+Afiaelem	Ikwo	Ebonyi	6.046	8.136	2	Ifilimi
+Ifako-Agege	Ifako/Ijaye	Lagos	6.640	3.331	2	Coker
+Elem-Ifoko	Degema	Rivers	4.428	6.996	2	
+Ifako	Ado Odo/Ota	Ogun	6.644	3.019	2	
+Ifira-Isale	Akoko South East	Ondo	7.377	5.912	2	
+Ifjana	Doma	Nasarawa	7.977	8.222	2	
+Ifako	Odukpani	Cross River	5.028	8.226	2	
+Ifiayong	Uruan	Akwa Ibom	5.040	8.029	2	
+Ifiayong	Ogoja	Cross River	6.547	8.844	2	
+Ifondo	Akpabuyo	Cross River	4.926	8.397	2	
+Ifodo	Ijebu North East	Ogun	6.853	4.056	2	
+Ifoko	Bonny	Rivers	4.421	7.321	2	
+Abak Ifia	Ikot Ekpene	Akwa Ibom	5.222	7.689	2	
+Ikot Ifot	Ibiono Ibom	Akwa Ibom	5.245	7.880	2	
+Ifakala	Mbaitoli	Imo	5.588	6.988	2	
+Ifeku Island	Esan South-East	Edo	6.725	6.600	2	
+Ife Central	Ife Central	Osun	7.474	4.559	2	Agbegbe Ijoba Ibile Gbongan Ife|Ife ta Tsakiya
+Ife East	Ife East	Osun	7.365	4.601	2	Agbegbe Ijoba Ibile Ilaorun Ife|Ife Est|Ife ta Gabas|Tang Ife
+Ife South	Ife South	Osun	7.200	4.600	2	Agbegbe Ijoba Ibile Guusu Ife|Ife SouthLGA|Ife Sud|Ife ta Kudu|Lam Ife
+Ifelodun	Ifelodun	Osun	7.917	4.667	2	
+Ifelodun	Ifelodun	Kwara	8.560	5.011	2	
+Ifako/Ijaye	Ifako/Ijaye	Lagos	6.658	3.312	2	
+Ajeromi/Ifelodun	Ajeromi/Ifelodun	Lagos	6.449	3.347	2	
+Ifo	Ifo	Ogun	6.782	3.252	2	Ifo Local Government Area
+Ifedayo	Ifedayo	Osun	7.978	4.989	2	Agbegbe Ijoba Ibile Ifedayo|Ife Dayo|Ifedajo|Ifedayo Local Government Area
+Ife North	Ife North	Osun	7.267	4.447	2	Agbegbe Ijoba Ibile Ariwa Ife|Ife Nord|Ife North Local Government Area|Ife ta Arewa|Ife-North|Pak Ife
+Irepodun/Ifelodun	Irepodun/Ifelodun	Ekiti	7.716	5.229	2	Agbegbe Ijoba Ibile Irepodun/Ifelodun|Ifelodun/Irepodun|Irepodun/Ifelodun Local Government Area
+Fouche	Degema	Rivers	4.734	6.968	2	Ifoko
+Ifako-Ijaiye	Ifako/Ijaye	Lagos	6.665	3.303	2	Ifako Ijaiye|Ifako-Ijaiye|Ifako-Ijaye
+Ifi	Gboko	Benue	7.345	9.117	2	
+Ifunkun	Buruku	Benue	7.263	9.136	2	Ifunku
+Ifer	Gboko	Benue	7.426	8.825	2	
+Ifete-Aguleri-Igbezu	Anambra East	Anambra	6.311	6.908	2	
+Ifelodun	Amuwo Odofin	Lagos	6.469	3.293	2	Festac III Ward
+Ifoshi	Oshodi/Isolo	Lagos	6.551	3.291	2	
+Ifako Pele	Ifako/Ijaye	Lagos	6.647	3.331	2	
+Ifako Coker	Ifako/Ijaye	Lagos	6.639	3.326	2	
+Ijaiye Ifako	Ifako/Ijaye	Lagos	6.632	3.332	2	
+Araromi Ifako	Kosofe	Lagos	6.560	3.387	2	
+Ifesowapa Temu Oke Oso	Epe	Lagos	6.657	3.854	2	
+Igbo-Ifon Maiyegun	Eti Osa	Lagos	6.432	3.542	2	
+Otu Ifite	Anambra West	Anambra	6.606	6.931	2	
+Ifagbure	Irewole	Osun	7.406	4.225	2	
+Busari-Ifon	Irepodun	Osun	7.923	4.529	2	
+Asade-Ifon	Irepodun	Osun	7.928	4.523	2	
+Igbo Ifa	Obokun	Osun	7.804	4.679	2	
+Ilefifun-Ifara	Ilaje	Ondo	6.361	4.795	2	
+Ope-Ifa	Obafemi Owode	Ogun	7.143	3.531	2	
+Ifate	Ori Ire	Oyo	8.531	4.048	2	
+Baba-Ifa	Ibarapa North	Oyo	7.572	3.121	2	
+Aba-Ife	Ife Central	Osun	7.532	4.485	2	
+Ile-Ife Expressway	Egbeda	Oyo	7.391	3.973	1	
+Ile-Ife Expressway	Irewole	Osun	7.385	4.202	1	
+Ile-Ife Expressway	Aiyedade	Osun	7.467	4.351	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.367	4.073	1	
+Ifaki - Oye	Oye	Ekiti	7.798	5.304	1	
+Ifon Street	Oredo	Edo	6.345	5.627	1	
+Fagbamila old ife Road	Ibadan North East	Oyo	7.399	3.928	1	
+Old Ife Road	Egbeda	Oyo	7.391	3.969	1	
+Ifeleye Road	Ibadan North West	Oyo	7.386	3.886	1	
+Ifite Ukpo Street	Oshodi/Isolo	Lagos	6.511	3.309	1	
+Ifateludo Street	Kosofe	Lagos	6.553	3.391	1	
+Kiniun-Ifa Street	Kosofe	Lagos	6.554	3.393	1	
+Ile-Ife Expressway	Ife North	Osun	7.493	4.485	1	
+Ifeanyi Ubah Crescent	Kosofe	Lagos	6.637	3.370	1	
+Charles Ifeanyi Street	Eti Osa	Lagos	6.444	3.465	1	
+Ifelodun Street	Alimosho	Lagos	6.598	3.307	1	
+Eru-Ifa Street	Eti Osa	Lagos	6.437	3.489	1	
+Ifueko Close	Oredo	Edo	6.299	5.590	1	
+Ifelodun Street	Shomolu	Lagos	6.537	3.396	1	
+Chief Ifeanyi Street	Shomolu	Lagos	6.528	3.394	1	
+Ifelodun Street	Oshodi/Isolo	Lagos	6.522	3.333	1	
+Ifoshi Road	Oshodi/Isolo	Lagos	6.542	3.301	1	
+Ejigbo Road	Alimosho	Lagos	6.564	3.300	1	Ifelodun Street
+Ifelodun Street	Alimosho	Lagos	6.628	3.277	1	
+Ifelodun Street	Agege	Lagos	6.641	3.312	1	
+Ifekoya Street	Agege	Lagos	6.614	3.311	1	
+Ifedayo Street	Alimosho	Lagos	6.644	3.282	1	
+Ifesowapo Street	Kosofe	Lagos	6.575	3.400	1	
+Engr.Ifedi Ezechukwu Street	Enugu South	Enugu	6.426	7.535	1	
+Ifediba Avenue	Enugu East	Enugu	6.479	7.589	1	
+Ifunanya Isaac Street	Enugu South	Enugu	6.419	7.527	1	
+Hon. Johnny Ifudu  Street	Enugu East	Enugu	6.473	7.504	1	
+Ifeanyi Emesim Street	Enugu East	Enugu	6.476	7.585	1	
+Ifeanyi Egbuciem Street	Enugu North	Enugu	6.461	7.573	1	
+Ifite Ukpo Avenue	Enugu North	Enugu	6.457	7.531	1	
+Ifenze Street	Enugu East	Enugu	6.497	7.516	1	
+Clement Ifedioranma Street	Enugu North	Enugu	6.464	7.578	1	
+Ifeanyi Emesun Street	Enugu East	Enugu	6.477	7.586	1	
+Ile-Ife Expressway	Isokan	Osun	7.358	4.132	1	
+Ile-Ife Expressway	Isokan	Osun	7.359	4.157	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.383	4.009	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.391	3.975	1	
+Barr Ifeoma Okafor Close	Enugu East	Enugu	6.471	7.531	1	
+Dr Ifeanyi Eze Street	Enugu South	Enugu	6.415	7.479	1	
+Ifite Road	Awka South	Anambra	6.250	7.099	1	
+Dr Mrs Ify Nwobosi Street	Enugu North	Enugu	6.432	7.535	1	
+Ifeanyi Egwuatu Crescent	Enugu East	Enugu	6.517	7.503	1	
+Ifemelumma Street	Enugu East	Enugu	6.477	7.585	1	
+Pastor Ifedayo Street	Oshodi/Isolo	Lagos	6.502	3.299	1	
+Ifeanyi Mgbolu Street	Oshodi/Isolo	Lagos	6.498	3.318	1	
+Ifidi Close	Eti Osa	Lagos	6.495	3.585	1	
+Ifeanyi Oradiwe Street	Eti Osa	Lagos	6.468	3.661	1	
+Ifeoma Osewa Crescent	Eti Osa	Lagos	6.451	3.579	1	
+Ifoshi Road	Oshodi/Isolo	Lagos	6.547	3.330	1	
+Ile-Ife Expressway	Ife Central	Osun	7.489	4.541	1	
+Ifelodun Street	Ifo	Ogun	6.673	3.329	1	
+Ifelodun Street	Ado Odo/Ota	Ogun	6.682	3.284	1	
+Ifesowapo Street	Ado Odo/Ota	Ogun	6.744	3.255	1	
+Ifon-Ogbomosho road	Orolu	Osun	7.887	4.444	1	
+Ifiok Ojuolape Street	Eti Osa	Lagos	6.447	3.509	1	
+Tom Iffie Crescent	Uvwie	Delta	5.546	5.772	1	
+Ado- Iworoko-Ifaki Road	Adó-Èkìtì	Ekiti	7.627	5.218	1	
+Ifelere Quarters	Akure South	Ondo	7.222	5.191	1	
+Martina Ifediora Street	Eti Osa	Lagos	6.476	3.659	1	
+Ifeanyichukwu Nwagbo Street	Oshimili South	Delta	6.238	6.707	1	
+Ifaki - Ikole - Omuo Ekiti Road	Ikole	Ekiti	7.792	5.455	1	
+Ifedayo Street	Orolu	Osun	7.868	4.479	1	
+Ifie Road	Sapele	Delta	5.898	5.668	1	
+Sir Ifeanyi Onwuta Street	Awka South	Anambra	6.250	7.101	1	
+Old Ife Road	Ibadan North East	Oyo	7.392	3.936	1	
+Old Ife Road	Ibadan North East	Oyo	7.397	3.921	1	
+Ifa Atai Street	Uyo	Akwa Ibom	5.026	7.939	1	
+Ifidi Close	Eti Osa	Lagos	6.495	3.584	1	
+Hon.Johnny Ifudu Close	Enugu East	Enugu	6.472	7.503	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.403	3.945	1	
+Ile-Ife Expressway	Egbeda	Oyo	7.402	3.946	1	
+Ifite Road	Awka South	Anambra	6.226	7.080	1	
+Ifeloju Street	Alimosho	Lagos	6.598	3.295	1	
+Old Ife Road	Egbeda	Oyo	7.385	3.986	1	
+Hon, Johnny Ifudu Avenue	Enugu East	Enugu	6.494	7.482	1	
 Ifoko Jetty	Asari-Toru	Rivers	4.762	6.816	0	
 AFRIGIST (Ex. RECTAS) O.A.U Campus Ile-Ife	Ife Central	Osun	7.505	4.524	0	
 Ifira Akoko Market	Akoko South East	Ondo	7.389	5.917	0	
@@ -65,121 +253,9 @@ African Church Primary School, Kajola Ifo	Ifo	Ogun	6.795	3.243	0
 African Church Primary School, Ayede Ifo	Ifo	Ogun	6.793	3.203	0	
 Christ Church School, Olomu-Ifo	Ifo	Ogun	6.705	3.382	0	
 St. Mary's Roman Catholic Mission School III, Ifo	Ifo	Ogun	6.813	3.197	0	
-Ala - Ifeku	Etsako Central	Edo	6.846	6.611	2	
-Ifeku Uyi	Etsako Central	Edo	6.831	6.596	2	
-Owa-Ifeku	Etsako Central	Edo	6.831	6.604	2	
-Okpatawo Ogane-Ifeku	Etsako Central	Edo	6.808	6.601	2	
-Allah-Ifeku I	Etsako Central	Edo	6.796	6.607	2	
-Allah-Ifeku II	Esan South-East	Edo	6.790	6.609	2	
 Ifeku Market	Esan South-East	Edo	6.747	6.620	0	
 Ifeoluwa Maternity Home	Ojo	Lagos	6.467	3.185	0	
-Ifie-kporo	Warri South	Delta	5.552	5.681	2	
 Ifo Field	Enugu East	Enugu	6.482	7.538	0	
 Ifiesta Cosmetics House	Municipal Area Council	FCT Abuja	9.134	7.388	0	
-Ifako	Kosofe	Lagos	6.566	3.388	2	
-Ifite Village	Anaocha	Anambra	6.061	7.034	2	
-Ile-Ife Expressway	Egbeda	Oyo	7.391	3.973	1	
-Ile-Ife Expressway	Irewole	Osun	7.385	4.202	1	
-Ile-Ife Expressway	Aiyedade	Osun	7.467	4.351	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.367	4.073	1	
-Ifaki - Oye	Oye	Ekiti	7.798	5.304	1	
-Ifon Street	Oredo	Edo	6.345	5.627	1	
-Fagbamila old ife Road	Ibadan North East	Oyo	7.399	3.928	1	
-Old Ife Road	Egbeda	Oyo	7.391	3.969	1	
-Ifeleye Road	Ibadan North West	Oyo	7.386	3.886	1	
-Ifite Ukpo Street	Oshodi/Isolo	Lagos	6.511	3.309	1	
-Ifateludo Street	Kosofe	Lagos	6.553	3.391	1	
-Kiniun-Ifa Street	Kosofe	Lagos	6.554	3.393	1	
-Ile-Ife Expressway	Ife North	Osun	7.493	4.485	1	
-Ifeanyi Ubah Crescent	Kosofe	Lagos	6.637	3.370	1	
-Charles Ifeanyi Street	Eti Osa	Lagos	6.444	3.465	1	
-Ifelodun Street	Alimosho	Lagos	6.598	3.307	1	
-Ifelodun Street	Agege	Lagos	6.609	3.313	1	
-Eru-Ifa Street	Eti Osa	Lagos	6.437	3.489	1	
-Ifueko Close	Oredo	Edo	6.299	5.590	1	
-Ifelodun Street	Shomolu	Lagos	6.537	3.396	1	
-Chief Ifeanyi Street	Shomolu	Lagos	6.528	3.394	1	
-Ifelodun Street	Oshodi/Isolo	Lagos	6.522	3.333	1	
-Ifoshi Road	Oshodi/Isolo	Lagos	6.542	3.301	1	
-Ejigbo Road	Alimosho	Lagos	6.564	3.300	1	Ifelodun Street
-Ifelodun Street	Alimosho	Lagos	6.628	3.277	1	
-Ifelodun Street	Agege	Lagos	6.641	3.312	1	
-Ifekoya Street	Agege	Lagos	6.614	3.311	1	
-Ifedayo Street	Alimosho	Lagos	6.644	3.282	1	
-Ifesowapo Street	Kosofe	Lagos	6.575	3.400	1	
-Engr.Ifedi Ezechukwu Street	Enugu South	Enugu	6.426	7.535	1	
-Ifediba Avenue	Enugu East	Enugu	6.479	7.589	1	
-Ifunanya Isaac Street	Enugu South	Enugu	6.419	7.527	1	
-Hon. Johnny Ifudu  Street	Enugu East	Enugu	6.473	7.504	1	
-Ifeanyi Emesim Street	Enugu East	Enugu	6.476	7.585	1	
-Ifeanyi Egbuciem Street	Enugu North	Enugu	6.461	7.573	1	
-Ifite Ukpo Avenue	Enugu North	Enugu	6.457	7.531	1	
-Ifenze Street	Enugu East	Enugu	6.497	7.516	1	
-Clement Ifedioranma Street	Enugu North	Enugu	6.464	7.578	1	
-Ifeanyi Emesun Street	Enugu East	Enugu	6.477	7.586	1	
-Ile-Ife Expressway	Isokan	Osun	7.358	4.132	1	
-Ile-Ife Expressway	Isokan	Osun	7.359	4.157	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.383	4.009	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.391	3.975	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.381	4.022	1	
-Ile-Ife Expressway	Isokan	Osun	7.355	4.151	1	
-Ifeanyi Emesun Street	Enugu East	Enugu	6.477	7.585	1	
-Barr Ifeoma Okafor Close	Enugu East	Enugu	6.471	7.531	1	
-Dr Ifeanyi Eze Street	Enugu South	Enugu	6.415	7.479	1	
-Ifite Road	Awka South	Anambra	6.250	7.099	1	
-Dr Mrs Ify Nwobosi Street	Enugu North	Enugu	6.432	7.535	1	
-Ifeanyi Egwuatu Crescent	Enugu East	Enugu	6.517	7.503	1	
-Ifemelumma Street	Enugu East	Enugu	6.477	7.585	1	
-Pastor Ifedayo Street	Oshodi/Isolo	Lagos	6.502	3.299	1	
-Ifeanyi Mgbolu Street	Oshodi/Isolo	Lagos	6.498	3.318	1	
-Ifidi Close	Eti Osa	Lagos	6.495	3.585	1	
-Ifeanyi Oradiwe Street	Eti Osa	Lagos	6.468	3.661	1	
-Ifeoma Osewa Crescent	Eti Osa	Lagos	6.451	3.579	1	
-Ifoshi Road	Oshodi/Isolo	Lagos	6.547	3.330	1	
-Ile-Ife Expressway	Ife Central	Osun	7.489	4.541	1	
-Ifelodun Street	Ifo	Ogun	6.673	3.329	1	
-Ifelodun Street	Ado Odo/Ota	Ogun	6.682	3.284	1	
-Ifesowapo Street	Ado Odo/Ota	Ogun	6.744	3.255	1	
-Ifon-Ogbomosho road	Orolu	Osun	7.887	4.444	1	
-Ifiok Ojuolape Street	Eti Osa	Lagos	6.447	3.509	1	
-Tom Iffie Crescent	Uvwie	Delta	5.546	5.772	1	
-Ado- Iworoko-Ifaki Road	Adó-Èkìtì	Ekiti	7.627	5.218	1	
-Ile-Ife Expressway	Ife North	Osun	7.489	4.532	1	
-Ifelere Quarters	Akure South	Ondo	7.222	5.191	1	
-Martina Ifediora Street	Eti Osa	Lagos	6.476	3.659	1	
-Ifeanyichukwu Nwagbo Street	Oshimili South	Delta	6.238	6.707	1	
-Ifaki - Ikole - Omuo Ekiti Road	Ikole	Ekiti	7.792	5.455	1	
-Ifedayo Street	Orolu	Osun	7.868	4.479	1	
-Ifie Road	Sapele	Delta	5.898	5.668	1	
-Sir Ifeanyi Onwuta Street	Awka South	Anambra	6.250	7.101	1	
-Old Ife Road	Ibadan North East	Oyo	7.392	3.936	1	
-Old Ife Road	Ibadan North East	Oyo	7.393	3.927	1	
-Old Ife Road	Ibadan North East	Oyo	7.397	3.921	1	
-Ifa Atai Street	Uyo	Akwa Ibom	5.026	7.939	1	
-Ifidi Close	Eti Osa	Lagos	6.495	3.584	1	
 Ife-Oluwa Primary School	Agege	Lagos	6.614	3.326	0	
 Oke-Ifako Nursery / Primary School	Kosofe	Lagos	6.560	3.392	0	
-Hon.Johnny Ifudu Close	Enugu East	Enugu	6.472	7.503	1	
-Ifeku Island	Esan South-East	Edo	6.744	6.595	2	
-Ile-Ife Expressway	Egbeda	Oyo	7.403	3.945	1	
-Ile-Ife Expressway	Egbeda	Oyo	7.402	3.946	1	
-Ifite Road	Awka South	Anambra	6.226	7.080	1	
-Ifeloju Street	Alimosho	Lagos	6.598	3.295	1	
-Old Ife Road	Ona Ara	Oyo	7.392	3.947	1	
-Old Ife Road	Egbeda	Oyo	7.385	3.986	1	
-Ile-Ife Expressway	Ife North	Osun	7.496	4.511	1	
-Ile-Ife Expressway	Ife North	Osun	7.496	4.521	1	
-Hon, Johnny Ifudu Avenue	Enugu East	Enugu	6.494	7.482	1	
-Ifangni	Ifangni	Ogun	6.644	2.711	2	
-Irepodun/Ifelodun	Irepodun/Ifelodun	Ekiti	7.706	5.264	2	
-Ifelodun	Ifelodun	Kwara	8.633	5.179	2	
-Ifako/Ijaye	Ifako/Ijaye	Lagos	6.660	3.321	2	
-Ifo	Ifo	Ogun	6.756	3.242	2	
-Ifedore	Ifedore	Ondo	7.353	5.110	2	
-Ifedayo	Ifedayo	Osun	7.962	4.985	2	
-Ifelodun	Ifelodun	Osun	7.905	4.637	2	
-Ife South	Ife South	Osun	7.225	4.610	2	
-Ife North	Ife North	Osun	7.278	4.453	2	
-Ife Central	Ife Central	Osun	7.546	4.528	2	
-Ife East	Ife East	Osun	7.403	4.600	2	
-Ajeromi/Ifelodun	Ajeromi/Ifelodun	Lagos	6.455	3.336	2	

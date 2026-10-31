@@ -1,3 +1,4 @@
+Isara	Remo North	Ogun	6.989	3.682	3	Isara-Remo|Ishara
 Rekebu	Tsafe	Zamfara	11.932	6.835	2	
 Awdaw Refurefu	Yewa North	Ogun	6.930	2.854	2	
 Rego	Garki	Jigawa	12.390	8.850	2	
@@ -5,6 +6,7 @@ Reda	Kwali	FCT Abuja	8.710	7.076	2	Rada
 Tunga Rere	Argungu	Kebbi	12.597	4.306	2	
 Rendema	Arewa Dandi	Kebbi	12.912	4.060	2	
 Remi	Balanga	Gombe	9.900	11.658	2	
+Mayo Ranewo	Ardo-Kola	Taraba	8.817	10.900	2	Mallam Renewa;Renewa
 Reak	Langtang North	Plateau	9.233	9.783	2	
 Ode-Remo	Remo North	Ogun	6.970	3.676	2	
 Refurefu	Yewa North	Ogun	6.917	2.850	2	
@@ -13,88 +15,59 @@ Rezun	Tsafe	Zamfara	11.894	6.888	2
 Refurefu Egbebi	Yewa North	Ogun	6.935	2.855	2	
 Gidan Rere	Kware	Sokoto	13.169	5.297	2	
 Redibe	Dikwa	Borno	11.915	14.142	2	
-Maigari General Resources	Jos North	Plateau	9.971	8.894	0	
-Redeemer Int. Group of School	Oredo	Edo	6.306	5.626	0	
 Links Reservation	Ibadan North West	Oyo	7.403	3.878	2	
 Rehabilitation	Kumbotso	Kano	11.951	8.605	2	
 Reke	Shani	Borno	10.224	11.767	2	
-Allaby Resources Ltd	Ejigbo	Osun	7.884	4.320	0	
-LA RENAISSANCE	Ipokia	Ogun	6.532	2.712	0	
-Federal land Resources Owerri	Owerri West	Imo	5.444	6.924	0	
-Mother of Redeemer Cat. Sec School	Uvwie	Delta	5.549	5.781	0	
-Regent International School	Okpe	Delta	5.591	5.708	0	
-Reigners Academy	Uvwie	Delta	5.566	5.772	0	
-Christ the Redeemer's Prime Seed High School	Uvwie	Delta	5.542	5.766	0	
-Christ the Redeemer's Primeseed Scho	Uvwie	Delta	5.543	5.764	0	
-AFRIGIST (Ex. RECTAS) O.A.U Campus Ile-Ife	Ife Central	Osun	7.505	4.524	0	
-Tinapa Business and Resort	Odukpani	Cross River	5.051	8.316	0	
-Musalat Integrated Resources Nig Ltd	Ogbomosho North	Oyo	8.136	4.248	0	
-Forestry Research Institute of Nigeria	Ibadan South West	Oyo	7.392	3.862	0	
-Religious department	Gombe	Gombe	10.306	11.175	0	
-PEN RESOURCE ACADEMY (boarding sch)& ROBOTICS CENTER	Akko	Gombe	10.290	11.053	0	
-Yajiwa Camp Kusheri Refugee Site	Jere	Borno	11.789	13.131	0	
-Muna Da`Alti 2B Refugee Site	Jere	Borno	11.867	13.251	0	
-Muna Mallam Kori Refugee Site	Jere	Borno	11.866	13.250	0	
-Muna Moforo Refugee Site	Jere	Borno	11.867	13.246	0	
-Kessa Kura Refugee Site	Jere	Borno	11.919	13.193	0	
 Recca	Kumbotso	Kano	11.888	8.463	2	
 Rege Gangare	Wudil	Kano	11.815	8.892	2	
 Unguwar Reka Huguma	Takai	Kano	11.564	9.318	2	Huguma;Kogin Huguma
-BDH global resources	Jos North	Plateau	9.959	8.880	0	
-Redeemers Private School	Municipal Area Council	FCT Abuja	9.140	7.379	0	
-Dr. abubakar abdullahi Baba  jolly phonics resources room	Gombe	Gombe	10.307	11.167	0	
-mosque male and female rest roo	Gombe	Gombe	10.306	11.175	0	
-Rest Room	Gombe	Gombe	10.305	11.175	0	
-male Rest Room	Gombe	Gombe	10.306	11.175	0	
-44 Reference Hospital Plot A12 By Rail Line	Kaduna North	Kaduna	10.578	7.444	0	
-Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.535	7.422	0	
-Redeem Medical Center Annex	Ojo	Lagos	6.471	3.162	0	
-Redeemed Medical Center	Ojo	Lagos	6.467	3.182	0	
-Divine Release Maternity Home	Ojo	Lagos	6.458	3.185	0	
-Realcare Hospitals	Alimosho	Lagos	6.630	3.260	0	
-Regina Mundi Catholic Hospital	Mushin	Lagos	6.527	3.356	0	
-Redeemtion Medical Clinic	Mushin	Lagos	6.529	3.359	0	
-Rembo Hospital	Mushin	Lagos	6.532	3.344	0	
-Redemption Lodge	Akure South	Ondo	7.292	5.147	0	
-Redemption Mansion Lodge	Akure South	Ondo	7.292	5.146	0	
-Chemistry Research Laboratory	Akure South	Ondo	7.302	5.134	0	Department Of Chemistry
-Post Graduate Research Lab	Akure South	Ondo	7.301	5.134	0	
-REHOBOTH COLLEGE GATE	Akure South	Ondo	7.287	5.152	0	
-Rehoboth College Of Health	Akure South	Ondo	7.286	5.152	0	
-Rehoboth Estate Phase 2	Akure South	Ondo	7.285	5.152	0	
-Rehoboth Estate	Akure South	Ondo	7.286	5.152	0	
-De Republik	Akure South	Ondo	7.287	5.147	0	
-Renue Clinic	Amuwo Odofin	Lagos	6.470	3.278	0	
-Nigerian Navy Reference Hospital	Amuwo Odofin	Lagos	6.452	3.282	0	
-Regina Mundi Girls Secondary School	Iwo	Osun	7.640	4.170	0	
-ABBA ZEE REFILLING GAS	Ungongo	Kano	12.050	8.579	0	
-READING ACADEMY	Gwale	Kano	11.961	8.474	0	
-GEOVILLA RESOURCES	Ogbia	Bayelsa	4.866	6.276	0	
-Remnant Adventist School Laranto	Jos North	Plateau	9.944	8.873	0	
 Regawa	Madaoua	Sokoto	13.658	6.161	2	
-Air Force Research And Development Centre (AFRDC)	Kaduna North	Kaduna	10.611	7.443	0	
-SCHOOL OF BASIC AND REMEDIAL STUDIES	Kaduna North	Kaduna	10.609	7.442	0	
-Mandate Market, Western Reservoir Road, Ilorin, Nigeria	Ilorin West	Kwara	8.475	4.506	0	
-Heavens gate redeem, F Division Road, Tanke	Ilorin South	Kwara	8.499	4.588	0	
-reem	Owerri Municipal	Imo	5.490	7.037	0	
-point of no return	Badagry	Lagos	6.405	2.885	0	
-Barbados (Garden And Relaxation Spot)	Municipal Area Council	FCT Abuja	8.969	7.358	0	
-Sodamo Rentals	Municipal Area Council	FCT Abuja	9.142	7.374	0	
-Sunrise Restaurant	Municipal Area Council	FCT Abuja	9.121	7.385	0	
-Rich-Bridge Hotel And Restaurant	Municipal Area Council	FCT Abuja	9.075	7.430	0	
-International Relations Department	Kaduna North	Kaduna	10.610	7.445	0	
-Redeemers University, Ede	Ede South	Osun	7.680	4.460	0	
-Redeemers University Staff Primary School	Ede South	Osun	7.679	4.459	0	
-Redeemers University Health Centre	Ede South	Osun	7.677	4.457	0	
+Remo North	Remo North	Ogun	6.995	3.718	2	
+Resa	Igabi	Kaduna	10.565	7.403	2	
+Reri	Ganjuwa	Bauchi	10.528	10.063	2	
+Rendema	Arewa Dandi	Kebbi	12.917	4.067	2	
+Remi	Makoda	Kano	12.267	8.524	2	
+Reme	Balanga	Gombe	9.902	11.657	2	Remi
+Rek	Langtang North	Plateau	9.251	9.797	2	
+Refurefu Egbedi	Yewa North	Ogun	6.927	2.854	2	Awdaw Refurefu|Refurefu Egbebi
+Refurefu	Yewa North	Ogun	6.905	2.847	2	
+Refelle	Balanga	Gombe	10.029	11.738	2	Rafelle
+Odan-Remi	Ipokia	Ogun	6.789	2.820	2	Odan Remi
+Mayo Ranewo	Ardo-Kola	Taraba	8.820	10.914	2	Mallam Renewa|Renewa
+Fadaman Reke	Hong	Adamawa	10.229	12.984	2	
+Tungan Reri	Dandi	Kebbi	11.684	3.746	2	
+Ago Reuben	Okitipupa	Ondo	6.429	4.818	2	Ago-Reuben
+Kurma Forest Reserve	Makoda	Kano	12.350	8.483	2	
+Dutsin Kiye Forest Reserve	Kazaure	Jigawa	12.715	8.466	2	
+Dutsin Fanda Forest Reserve	Kazaure	Jigawa	12.686	8.444	2	
+Remawa	Rimi	Katsina	12.812	7.773	2	
+Dutsin Reme	Bakori	Katsina	11.528	7.338	2	
+Giro Forest Reserve	Suru	Kebbi	11.773	4.262	2	
+Rezun	Tsafe	Zamfara	11.894	6.873	2	
+Ama-Renner	Andoni	Rivers	4.435	7.425	2	
+Roni	Roni	Jigawa	12.549	8.331	2	Agbegbe Ijoba Ibile Roni|Roni Local Government Area|reani
+Gundulwa Forest Reserve	Gujba	Yobe	11.578	11.899	2	
+Gwaha Forest Reserve	Shiroro	Niger	9.650	6.815	2	
+Ikeja Government Reserved Area	Ikeja	Lagos	6.580	3.352	2	Ikeja G.R.A.
+Government Reserve Area	Ikeja	Lagos	6.584	3.349	2	G.R.A. Ward
+Bacha Forest Reserve	Kagarko	Kaduna	9.418	7.823	2	
+Rebok	Zangon Kataf	Kaduna	9.713	8.322	2	
+Remure	Warri South-West	Delta	5.601	5.249	2	
+Tashon Reke	Yola North	Adamawa	9.257	12.189	2	
+Rebek	Shongom	Gombe	9.692	10.955	2	
+Rede	Obafemi Owode	Ogun	7.073	3.415	2	
+Oloko Rebete	Ife South	Osun	7.375	4.693	2	
+Wamba Forest Reserve	Wamba	Nasarawa	8.959	8.587	2	
+Budo-Reke	Oyun	Kwara	8.193	4.625	2	
+Reke	Odo Otin	Osun	8.054	4.633	2	
+Rege	Toto	Nasarawa	8.112	7.278	2	
 Alfred Rewane Road	Eti Osa	Lagos	6.448	3.429	1	
 Alfred Rewane	Eti Osa	Lagos	6.442	3.426	1	
 Remi Fani-Kayode Avenue	Ikeja	Lagos	6.574	3.351	1	
-Alfred Rewane Road	Eti Osa	Lagos	6.458	3.432	1	
 Rebisi Street	Port-Harcourt	Rivers	4.760	7.031	1	
 Red Cross Crescent	Oredo	Edo	6.312	5.627	1	
 Reservation Road	Oredo	Edo	6.326	5.621	1	
 Recording Close	Oredo	Edo	6.343	5.603	1	
-Center for Research and Preventive Health Care	Oredo	Edo	6.339	5.598	0	
 Red avenue	Lagelu	Oyo	7.432	3.958	1	
 Remilekun Street	Kosofe	Lagos	6.595	3.388	1	
 Reverend Adegoke Street	Oshodi/Isolo	Lagos	6.505	3.318	1	
@@ -104,7 +77,6 @@ Reverend Olutayo Avenue	Oshodi/Isolo	Lagos	6.517	3.312	1
 Remi Olowude Way	Eti Osa	Lagos	6.430	3.468	1	
 Remi Akande	Alimosho	Lagos	6.589	3.293	1	
 Reeve Road	Eti Osa	Lagos	6.453	3.440	1	
-Remi Olowude Way	Eti Osa	Lagos	6.423	3.467	1	
 Refinery Road	Chikun	Kaduna	10.422	7.490	1	
 Rei Olowude Crescent	Eti Osa	Lagos	6.456	3.440	1	
 Rex Lawson Street	Municipal Area Council	FCT Abuja	9.113	7.383	1	
@@ -125,13 +97,9 @@ Federal Inland Revenue Service Road	Enugu North	Enugu	6.442	7.486	1
 Redcross Way	Enugu North	Enugu	6.441	7.491	1	
 Rehabilitation Road	Enugu East	Enugu	6.481	7.578	1	
 bypass residential road through Angwan soya Jos	Jos North	Plateau	9.932	8.873	1	
-bypass residential road through Angwan soya Jos	Jos North	Plateau	9.935	8.876	1	
 Rev.Okezie Emmanuel Close	Enugu North	Enugu	6.461	7.528	1	
 Reuben Chiaha Street	Oshodi/Isolo	Lagos	6.493	3.304	1	
 Redemption Street	Ìkòròdú	Lagos	6.627	3.480	1	
-Centre for African Entrepreneurship Research & Traininng	Ungongo	Kano	11.974	8.429	0	
-Centre for Research in Nigeria Languages and Folklore	Ungongo	Kano	11.971	8.430	0	
-Laboratory & Learning Resource Centre	Ungongo	Kano	11.973	8.431	0	
 Resurrection Drive	Eti Osa	Lagos	6.434	3.499	1	
 Remilade Opadokun Street	Eti Osa	Lagos	6.426	3.497	1	
 Remi Oyefiade Crescent	Eti Osa	Lagos	6.488	3.583	1	
@@ -149,8 +117,6 @@ Redemption Close	Eti Osa	Lagos	6.458	3.581	1
 Redeem Street	Alimosho	Lagos	6.642	3.254	1	
 Redemption Way	Eti Osa	Lagos	6.493	3.588	1	
 Remilekun Road	Surulere	Lagos	6.508	3.353	1	
-44 Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.532	7.421	0	
-College of Basic and Remedial Studies, Kaduna State University	Kaduna North	Kaduna	10.506	7.434	0	
 Residential Areas	Geidam	Yobe	12.840	12.169	1	
 Reclamation Road	Sapele	Delta	5.893	5.672	1	
 ReRoad	Borgu	Niger	9.928	4.304	1	
@@ -160,7 +126,6 @@ RECTAS Road	Ife Central	Osun	7.506	4.525	1
 Refinery Road	Uvwie	Delta	5.569	5.769	1	
 Refinery Road	Uvwie	Delta	5.569	5.781	1	
 Rev Fr. Obieh Street	Uvwie	Delta	5.541	5.761	1	
-Reservation Road	Oredo	Edo	6.321	5.615	1	
 Redeemer Street	Oshimili North	Delta	6.208	6.681	1	
 Rex Street	Ughelli North	Delta	5.485	5.994	1	
 Ago-Iwoye Ishara Remo road	Remo North	Ogun	7.010	3.724	1	
@@ -168,24 +133,101 @@ Ago-Iwoye Ishara Remo road	Remo North	Ogun	6.993	3.682	1
 Residential	Ìsẹ́yìn	Oyo	7.986	3.600	1	
 jalan residensial	Ungongo	Kano	12.044	8.458	1	
 Remkom Street	Bwari	FCT Abuja	9.159	7.311	1	
-Reddington Hospital - Ikeja GRA	Ikeja	Lagos	6.583	3.357	0	
 Igbo Rennaissance Center Road	Isuikwuato	Abia	5.851	7.426	1	
 Rex Bello street	Ilorin East	Kwara	8.486	4.603	1	
-Reservation Road	Ilorin East	Kwara	8.485	4.590	1	
 Redeemed Close	Ilorin East	Kwara	8.478	4.619	1	
-Rehabilitation Road	Enugu East	Enugu	6.492	7.579	1	
 Rehabilitation Road	Enugu East	Enugu	6.496	7.577	1	
-Reddington Hospital	Eti Osa	Lagos	6.433	3.420	0	
 Residential Road	Uruan	Akwa Ibom	4.969	7.996	1	
-Nigerian Navy Reference Hospital Calabar	Calabar Municipal	Cross River	5.002	8.334	0	NNRH
 Redwood Close	Eti Osa	Lagos	6.424	3.490	1	
+Old Refinery Road	Obio/Akpor	Rivers	4.842	7.067	1	
+Residential road	Zaria	Kaduna	11.041	7.614	1	
+small road to go residential area	Abaji	FCT Abuja	9.212	6.841	1	
+small road to residential area	Abaji	FCT Abuja	9.214	6.843	1	
+residential road	Lau	Taraba	9.208	11.290	1	
+Renao Street	Municipal Area Council	FCT Abuja	9.038	7.481	1	
+Regina Omolara Street	Ikeja	Lagos	6.597	3.358	1	
+students residents	Jos North	Plateau	9.986	8.883	1	
+Refinery Road	Uvwie	Delta	5.569	5.734	1	
+Maigari General Resources	Jos North	Plateau	9.971	8.894	0	
+Redeemer Int. Group of School	Oredo	Edo	6.306	5.626	0	
+Allaby Resources Ltd	Ejigbo	Osun	7.884	4.320	0	
+La Renaissance	Ipokia	Ogun	6.532	2.712	0	
+Federal land Resources Owerri	Owerri West	Imo	5.444	6.924	0	
+Mother of Redeemer Cat. Sec School	Uvwie	Delta	5.549	5.781	0	
+Regent International School	Okpe	Delta	5.591	5.708	0	
+Reigners Academy	Uvwie	Delta	5.566	5.772	0	
+Christ the Redeemer's Prime Seed High School	Uvwie	Delta	5.542	5.766	0	
+Christ the Redeemer's Primeseed Scho	Uvwie	Delta	5.543	5.764	0	
+AFRIGIST (Ex. RECTAS) O.A.U Campus Ile-Ife	Ife Central	Osun	7.505	4.524	0	
+Tinapa Business and Resort	Odukpani	Cross River	5.051	8.316	0	
+Musalat Integrated Resources Nig Ltd	Ogbomosho North	Oyo	8.136	4.248	0	
+Forestry Research Institute of Nigeria	Ibadan South West	Oyo	7.392	3.862	0	
+Religious department	Gombe	Gombe	10.306	11.175	0	
+PEN RESOURCE ACADEMY (boarding sch)& ROBOTICS CENTER	Akko	Gombe	10.290	11.053	0	
+Yajiwa Camp Kusheri Refugee Site	Jere	Borno	11.789	13.131	0	
+Muna Da`Alti 2B Refugee Site	Jere	Borno	11.867	13.251	0	
+Muna Mallam Kori Refugee Site	Jere	Borno	11.866	13.250	0	
+Muna Moforo Refugee Site	Jere	Borno	11.867	13.246	0	
+Kessa Kura Refugee Site	Jere	Borno	11.919	13.193	0	
+BDH global resources	Jos North	Plateau	9.959	8.880	0	
+Redeemers Private School	Municipal Area Council	FCT Abuja	9.140	7.379	0	
+Dr. abubakar abdullahi Baba  jolly phonics resources room	Gombe	Gombe	10.307	11.167	0	
+mosque male and female rest roo	Gombe	Gombe	10.306	11.175	0	
+Rest Room	Gombe	Gombe	10.305	11.175	0	
+male Rest Room	Gombe	Gombe	10.306	11.175	0	
+44 Reference Hospital Plot A12 By Rail Line	Kaduna North	Kaduna	10.578	7.444	0	
+Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.535	7.422	0	
+Redeem Medical Center Annex	Ojo	Lagos	6.471	3.162	0	
+Redeemed Medical Center	Ojo	Lagos	6.467	3.182	0	
+Divine Release Maternity Home	Ojo	Lagos	6.458	3.185	0	
+Realcare Hospitals	Alimosho	Lagos	6.630	3.260	0	
+Regina Mundi Catholic Hospital	Mushin	Lagos	6.527	3.356	0	
+Redeemtion Medical Clinic	Mushin	Lagos	6.529	3.359	0	
+Rembo Hospital	Mushin	Lagos	6.532	3.344	0	
+Redemption Lodge	Akure South	Ondo	7.292	5.147	0	
+Redemption Mansion Lodge	Akure South	Ondo	7.292	5.146	0	
+Chemistry Research Laboratory	Akure South	Ondo	7.302	5.134	0	Department Of Chemistry
+Post Graduate Research Lab	Akure South	Ondo	7.301	5.134	0	
+Rehoboth College Gate	Akure South	Ondo	7.287	5.152	0	
+Rehoboth College Of Health	Akure South	Ondo	7.286	5.152	0	
+Rehoboth Estate Phase 2	Akure South	Ondo	7.285	5.152	0	
+Rehoboth Estate	Akure South	Ondo	7.286	5.152	0	
+De Republik	Akure South	Ondo	7.287	5.147	0	
+Renue Clinic	Amuwo Odofin	Lagos	6.470	3.278	0	
+Nigerian Navy Reference Hospital	Amuwo Odofin	Lagos	6.452	3.282	0	
+Regina Mundi Girls Secondary School	Iwo	Osun	7.640	4.170	0	
+Abba Zee Refilling Gas	Ungongo	Kano	12.050	8.579	0	
+Reading Academy	Gwale	Kano	11.961	8.474	0	
+Geovilla Resources	Ogbia	Bayelsa	4.866	6.276	0	
+Remnant Adventist School Laranto	Jos North	Plateau	9.944	8.873	0	
+Air Force Research And Development Centre (AFRDC)	Kaduna North	Kaduna	10.611	7.443	0	
+School Of Basic And Remedial Studies	Kaduna North	Kaduna	10.609	7.442	0	
+Mandate Market, Western Reservoir Road, Ilorin, Nigeria	Ilorin West	Kwara	8.475	4.506	0	
+Heavens gate redeem, F Division Road, Tanke	Ilorin South	Kwara	8.499	4.588	0	
+reem	Owerri Municipal	Imo	5.490	7.037	0	
+point of no return	Badagry	Lagos	6.405	2.885	0	
+Barbados (Garden And Relaxation Spot)	Municipal Area Council	FCT Abuja	8.969	7.358	0	
+Sodamo Rentals	Municipal Area Council	FCT Abuja	9.142	7.374	0	
+Sunrise Restaurant	Municipal Area Council	FCT Abuja	9.121	7.385	0	
+Rich-Bridge Hotel And Restaurant	Municipal Area Council	FCT Abuja	9.075	7.430	0	
+International Relations Department	Kaduna North	Kaduna	10.610	7.445	0	
+Redeemers University, Ede	Ede South	Osun	7.680	4.460	0	
+Redeemers University Staff Primary School	Ede South	Osun	7.679	4.459	0	
+Redeemers University Health Centre	Ede South	Osun	7.677	4.457	0	
+Center for Research and Preventive Health Care	Oredo	Edo	6.339	5.598	0	
+Centre for African Entrepreneurship Research & Traininng	Ungongo	Kano	11.974	8.429	0	
+Centre for Research in Nigeria Languages and Folklore	Ungongo	Kano	11.971	8.430	0	
+Laboratory & Learning Resource Centre	Ungongo	Kano	11.973	8.431	0	
+44 Nigerian Army Reference Hospital	Kaduna South	Kaduna	10.532	7.421	0	
+College of Basic and Remedial Studies, Kaduna State University	Kaduna North	Kaduna	10.506	7.434	0	
+Reddington Hospital - Ikeja GRA	Ikeja	Lagos	6.583	3.357	0	
+Reddington Hospital	Eti Osa	Lagos	6.433	3.420	0	
+Nigerian Navy Reference Hospital Calabar	Calabar Municipal	Cross River	5.002	8.334	0	NNRH
 Rem Dabson	Ìkòròdú	Lagos	6.587	3.522	0	
 Lagos State Rehabilitation and Vocational Training Centre	Ifo	Ogun	6.640	3.377	0	
-Old Refinery Road	Obio/Akpor	Rivers	4.842	7.067	1	
-NISER	Akinyele	Oyo	7.475	3.908	0	Nigerian Institute of Social & Economic Research
+Niser	Akinyele	Oyo	7.475	3.908	0	Nigerian Institute of Social & Economic Research
 Institute of Agricultural Research & Training (IAR&T)	Ibadan South West	Oyo	7.389	3.842	0	IAR&T
 Cocoa Research Institute of Nigeria CRIN	Oluyole	Oyo	7.212	3.849	0	CRIN
-Residential road	Zaria	Kaduna	11.041	7.614	1	
 Remdabson	Ìkòròdú	Lagos	6.634	3.512	0	
 Lagos State Rehabilitation and Training Centre, Owutu	Ìkòròdú	Lagos	6.642	3.485	0	
 German Leprosy & Tb Relief Association	Enugu South	Enugu	6.427	7.518	0	
@@ -193,18 +235,9 @@ National Veterinary Reseach Institute	Oredo	Edo	6.316	5.618	0
 General Hospital Jama're	Jama'Are	Bauchi	11.657	9.933	0	
 Christ The Redeemer's College	Shagamu	Ogun	6.794	3.570	0	
 Regal Hospital	Uvwie	Delta	5.565	5.761	0	
-small road to go residential area	Abaji	FCT Abuja	9.212	6.841	1	
-small road to residential area	Abaji	FCT Abuja	9.214	6.843	1	
 TB Leprosy Referral Hospital	Paikoro	Niger	9.530	6.591	0	
 red cross hospital	Tarauni	Kano	11.957	8.587	0	
-RENAO STREET	Municipal Area Council	FCT Abuja	9.038	7.481	1	
-Regina Omolara Street	Ikeja	Lagos	6.597	3.358	1	
-Reclamation Road	Sapele	Delta	5.892	5.676	1	
-students residents	Jos North	Plateau	9.986	8.883	1	
-Residential	Ìsẹ́yìn	Oyo	7.988	3.606	1	
 Federal University of Petroleum Resources	Uvwie	Delta	5.568	5.838	0	
 Reri Secoundry School	Ìkòròdú	Lagos	6.539	3.518	0	
-Refinery Road	Uvwie	Delta	5.569	5.734	1	
 Government Secondary School	Municipal Area Council	FCT Abuja	8.975	7.505	0	Government Secondary School, Apo Resettlement
 Renaissance University, Ugbawka	Nkanu West	Enugu	6.279	7.560	0	
-Remo North	Remo North	Ogun	6.995	3.718	2	

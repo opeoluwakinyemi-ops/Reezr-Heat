@@ -1,3 +1,4 @@
+Ewet Housing	Uyo	Akwa Ibom	5.030	7.910	2	
 Ewekoro	Ewekoro	Ogun	6.907	3.209	2	Ewekora
 Ewe	Odukpani	Cross River	5.437	8.005	2	Ewe (2)
 Ewokiri	Nembe	Bayelsa	4.569	6.349	2	
@@ -25,18 +26,6 @@ Ewonko Ganabigi	Gbako	Niger	9.483	6.183	2	Ganabigi
 Ikot Ewa	Akpabuyo	Cross River	4.959	8.647	2	
 Ewon	Abua/Odual	Rivers	4.779	6.641	2	Ewon;Iyaki-Ewon;Iyaki
 Ewora	Etsako West	Edo	6.893	6.354	2	Eworra;Eworan Ote
-EWEKA PRIMARY SCHOOL	Egor	Edo	6.363	5.583	0	
-Oba Ewuare College	Oredo	Edo	6.297	5.601	0	
-Eware Primary School	Oredo	Edo	6.344	5.609	0	
-local government primary school ewu-osi	Shagamu	Ogun	6.853	3.526	0	
-african church primary school, ewu -oloja	Shagamu	Ogun	6.761	3.528	0	
-Ansar Ud Deen Primary School,Ewutagbe	Ifo	Ogun	6.761	3.238	0	
-Ebenezer African Church Primary School Ii, Ewupe Ota	Ado Odo/Ota	Ogun	6.651	3.061	0	
-Otunba Gbenga Daniel Model Primary School, Ewu-Oliwo	Ifo	Ogun	6.813	3.197	0	
-Ebenezer African Church Primary School Ii, Ewupe Ota	Ado Odo/Ota	Ogun	6.712	3.197	0	
-Ansar Ud Deen Primary School,Ewutagbe	Ado Odo/Ota	Ogun	6.573	3.150	0	
-Otunba Gbenga Daniel Model Primary School, Ewu-Oliwo	Shagamu	Ogun	6.850	3.634	0	
-Ebenezer African Church Primary School I, Ewupe Ota	Ado Odo/Ota	Ogun	6.716	3.203	0	
 Ewhoeviri	Ndokwa East	Delta	5.324	6.359	2	
 Ewhogu	Ndokwa East	Delta	5.515	6.486	2	
 Ewhokpe	Ndokwa East	Delta	5.475	6.463	2	
@@ -44,6 +33,70 @@ Ewo-Okorafor	Ndokwa East	Delta	5.502	6.390	2	Ewhokorafor/Okorafor
 Ewohkpokpo	Isoko North	Delta	5.471	6.080	2	
 Ewusagba	Isoko North	Delta	5.458	6.083	2	
 Ewhotie	Isoko North	Delta	5.548	6.149	2	
+Ewekoro	Ewekoro	Ogun	6.962	3.173	2	
+Umu Ewere	Ngor-Okpala	Imo	5.350	7.150	2	
+Sheshi Ewowara	Edati	Niger	8.950	6.082	2	
+Oke-Ewo	Ogo Oluwa	Oyo	7.890	4.368	2	Oke Ewo|OkeEwo
+Kara-Ewumi	Obafemi Owode	Ogun	6.832	3.394	2	
+Iwoama	Degema	Rivers	4.789	6.786	2	Ewoama
+Ibiono Ewura	Ini	Akwa Ibom	5.367	7.777	2	
+Ewuru	Ika South	Delta	6.241	6.147	2	
+Ewuru	Aniocha South	Delta	6.061	6.560	2	
+Ewu-Osi	Shagamu	Ogun	6.857	3.533	2	
+Ewu-Oliwo	Shagamu	Ogun	6.724	3.654	2	
+Ewu-Ogun	Shagamu	Ogun	6.832	3.501	2	
+Ewu-Ode	Shagamu	Ogun	6.848	3.572	2	
+Ewun	Katcha	Niger	9.268	6.223	2	
+Ewuji-Asa	Olorunsogo	Oyo	8.888	4.175	2	Ewuji Asa
+Ewuji	Moro	Kwara	8.872	4.233	2	
+Ewugi	Agaie	Niger	8.956	6.286	2	
+Ewu	Ilejemeje	Ekiti	7.932	5.183	2	
+Ewu	Oshodi/Isolo	Lagos	6.559	3.323	2	
+Evbomede One	Orhionmwon	Edo	6.236	6.091	2	Evbomede I|Ewotedo
+Ewossa	Iguegben	Edo	6.461	6.273	2	
+Ewonko Ganabigi	Gbako	Niger	9.495	6.187	2	Ganabigi
+Iyogh	Abua/Odual	Rivers	4.780	6.641	2	Ewon|Iyaki|Iyaki-Ewon
+Ewokiri	Nembe	Bayelsa	4.613	6.280	2	
+Ewohimi	Esan South-East	Edo	6.482	6.325	2	
+Ewode	Ovia North-East	Edo	6.184	5.417	2	
+Ewoama	Brass	Bayelsa	4.311	6.265	2	
+Ewiji	Aiyedade	Osun	7.513	4.295	2	
+Ewetunde	Ìsẹ́yìn	Oyo	7.731	3.390	2	
+Ewendiulu	Odukpani	Cross River	5.444	8.019	2	
+Ewen	Akamkpa	Cross River	5.248	8.222	2	
+Ewelusa	Nembe	Bayelsa	4.469	6.289	2	Ewelesua|Ewelesuo|Ewelsuo
+Ewedeyi	Ibarapa North	Oyo	7.606	3.290	2	
+Eguare-Ewatto	Esan South-East	Edo	6.502	6.366	2	Ewalto|Ewassa|Ewatto
+Ewan	Uhunmwonde	Edo	6.433	5.967	2	
+Ewu	Ado Odo/Ota	Ogun	6.631	3.203	2	
+Ewu-Lema	Shagamu	Ogun	6.716	3.652	2	
+Ikot Ewo	Biase	Cross River	5.420	8.058	2	
+Eweme	Okobo	Akwa Ibom	4.763	8.104	2	
+Ewu II	Ughelli South	Delta	5.375	5.991	2	
+Ewen-Ukwa	Odukpani	Cross River	5.470	7.989	2	
+Ewet	Uyo	Akwa Ibom	5.025	7.946	2	
+Eko-Ewuh	Esan Central	Edo	6.768	6.238	2	Eko
+Ewhopaka	Isoko South	Delta	5.375	6.313	2	
+Ewhogu	Ndokwa East	Delta	5.528	6.512	2	
+Ewhoekone	Ndokwa East	Delta	5.318	6.368	2	
+Ewhoedafeimoni	Ndokwa East	Delta	5.320	6.364	2	
+Ewhoejomane	Ndokwa East	Delta	5.324	6.358	2	
+Ewhoeghove	Sagbama	Bayelsa	5.298	6.375	2	
+Ewelem Camp	Ndokwa East	Delta	5.734	6.574	2	
+Ewungi	Gbako	Niger	9.366	5.957	2	
+Ewako	Gbako	Niger	9.375	6.024	2	
+Ewonankadi Sodi	Edati	Niger	9.051	6.101	2	
+Ewogi	Katcha	Niger	9.061	6.193	2	
+Ihenwen-Ewuh	Esan Central	Edo	6.808	6.244	2	
+Ewela-Olomopo	Yewa North	Ogun	7.291	3.027	2	
+Ewuge	Odeda	Ogun	7.277	3.422	2	
+Osolo-Ewesumi	Irewole	Osun	7.449	4.189	2	
+Igboekiti-Ewedade	Egbedore	Osun	7.863	4.553	2	
+Obun-Ewi	Ondo East	Ondo	7.156	4.888	2	
+Ewedina	Obafemi Owode	Ogun	7.066	3.531	2	
+Odun-Ewu	Oluyole	Oyo	7.180	3.990	2	
+Ewusi	Asa	Kwara	8.255	4.554	2	
+Ewogigabi	Katcha	Niger	8.967	6.284	2	
 Ewanta Street	Oredo	Edo	6.353	5.625	1	
 2nd Ewanta	Oredo	Edo	6.354	5.625	1	
 1st Ewanta Lane	Oredo	Edo	6.354	5.625	1	
@@ -63,13 +116,11 @@ Ewere lane	Egor	Edo	6.369	5.625	1
 ewmade street	Egor	Edo	6.376	5.636	1	
 Inomwan-Eweka Street	Oredo	Edo	6.344	5.599	1	
 2nd Ewasede Lane	Oredo	Edo	6.332	5.634	1	
-Iyi-Eweka/Emotan/Idia Primary School	Oredo	Edo	6.346	5.630	0	
 Oseni Ewu Street	Oshodi/Isolo	Lagos	6.565	3.341	1	
 Old Ewu Road	Oshodi/Isolo	Lagos	6.553	3.332	1	
 Ewaen street	Egor	Edo	6.349	5.577	1	
 Ewemade Street	Egor	Edo	6.357	5.574	1	
 Second Ewemade Street	Egor	Edo	6.358	5.574	1	
-Eweka Street	Egor	Edo	6.364	5.632	1	
 Ewah road	Oredo	Edo	6.357	5.643	1	
 Oba Ewuare College Lane	Oredo	Edo	6.297	5.602	1	
 Ope Ewe Street	Ifako/Ijaye	Lagos	6.677	3.289	1	
@@ -82,8 +133,6 @@ Baba Ewe Street	Oshodi/Isolo	Lagos	6.500	3.307	1
 Jibayo Ewuola Close	Eti Osa	Lagos	6.502	3.605	1	
 Ewenla Road	Oshodi/Isolo	Lagos	6.554	3.344	1	
 Ewupe Road	Ado Odo/Ota	Ogun	6.692	3.222	1	
-Ewah road	Oredo	Edo	6.352	5.644	1	
-Ewasede Street	Oredo	Edo	6.333	5.634	1	
 Okechukwu Ewuzie Road	Oshodi/Isolo	Lagos	6.585	3.339	1	
 Evelyn Ewerido Street	Uvwie	Delta	5.561	5.750	1	
 Ewemade Street	Ikpoba-Okha	Edo	6.273	5.633	1	
@@ -92,9 +141,21 @@ Ewhubare Street	Surulere	Lagos	6.487	3.335	1
 Ewet Lane	Uyo	Akwa Ibom	5.024	7.939	1	
 Ewet street	Uyo	Akwa Ibom	5.024	7.937	1	
 Ewu Ajasa	Ado Odo/Ota	Ogun	6.633	3.199	1	
-EWEKA STREET	Egor	Edo	6.372	5.579	1	
+Eweka Street	Egor	Edo	6.372	5.579	1	
+Eweta Street	Ifelodun	Osun	7.932	4.657	1	
+Eweka Primary School	Egor	Edo	6.363	5.583	0	
+Oba Ewuare College	Oredo	Edo	6.297	5.601	0	
+Eware Primary School	Oredo	Edo	6.344	5.609	0	
+local government primary school ewu-osi	Shagamu	Ogun	6.853	3.526	0	
+african church primary school, ewu -oloja	Shagamu	Ogun	6.761	3.528	0	
+Ansar Ud Deen Primary School,Ewutagbe	Ifo	Ogun	6.761	3.238	0	
+Ebenezer African Church Primary School Ii, Ewupe Ota	Ado Odo/Ota	Ogun	6.651	3.061	0	
+Otunba Gbenga Daniel Model Primary School, Ewu-Oliwo	Ifo	Ogun	6.813	3.197	0	
+Ebenezer African Church Primary School Ii, Ewupe Ota	Ado Odo/Ota	Ogun	6.712	3.197	0	
+Ansar Ud Deen Primary School,Ewutagbe	Ado Odo/Ota	Ogun	6.573	3.150	0	
+Otunba Gbenga Daniel Model Primary School, Ewu-Oliwo	Shagamu	Ogun	6.850	3.634	0	
+Ebenezer African Church Primary School I, Ewupe Ota	Ado Odo/Ota	Ogun	6.716	3.203	0	
+Iyi-Eweka/Emotan/Idia Primary School	Oredo	Edo	6.346	5.630	0	
 Ewenla Primary School	Oshodi/Isolo	Lagos	6.554	3.344	0	
 Ewutuntun Grammar School	Oshodi/Isolo	Lagos	6.565	3.337	0	
 Ewaen Clinic&Maternity	Oredo	Edo	6.337	5.616	0	
-Eweta Street	Ifelodun	Osun	7.932	4.657	1	
-Ewekoro	Ewekoro	Ogun	6.962	3.173	2	

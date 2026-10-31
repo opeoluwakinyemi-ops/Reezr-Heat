@@ -1,6 +1,15 @@
+Gindiri	Mangu	Plateau	9.598	9.229	3	
+Girei	Girei	Adamawa	9.363	12.545	3	
+Sabongidda Ora	Owan West	Edo	6.905	5.934	3	Sabon Gidda
+Bula Bul (Tumbun Gini)	Abadam	Borno	13.465	13.659	3	
+Zango Layin Gidan Mai Unguwar	Gaya	Kano	11.864	9.001	3	
+Sabongida-Ora	Owan West	Edo	6.902	5.931	3	Sabon Gida|Sabongidda|Sabongidda Ora
+Giwa	Giwa	Kaduna	11.316	7.450	3	
+Gidan Madi	Tangaza	Sokoto	13.296	4.975	3	
+Giade	Giade	Bauchi	11.391	10.200	3	
+Babban Gida	Tarmua	Yobe	12.155	11.771	3	Baban Gida|Babangida
+Gidan Kwano	Bosso	Niger	9.530	6.450	2	
 Kan Girni	Igabi	Kaduna	10.739	7.597	2	
-Gidan Mata Station	Bosso	Niger	9.738	6.236	0	
-Gimi Station	Makarfi	Kaduna	11.336	7.918	0	
 Marikishi	Shiroro	Niger	9.550	6.650	2	Sabon Gida
 Gidan Tudu	Shagari	Sokoto	12.488	4.905	2	
 Gidan Barke	Shagari	Sokoto	12.509	5.063	2	
@@ -12,7 +21,10 @@ Gidan Sani	Ikara	Kaduna	11.408	8.040	2	Sani
 Gidan Umaru	Kiru	Kano	11.381	8.204	2	Umaru
 Gidan Buhari	Kiru	Kano	11.415	8.251	2	Buhari
 Gimare	Lafia	Nasarawa	8.485	8.553	2	
+Gidan Ibrahim	Kurmi	Taraba	7.067	10.667	2	Ibrahim
 Gidan Hashimu	Danja	Katsina	11.333	7.667	2	Hashimu
+Gidan Ali	Kurmi	Taraba	7.333	10.583	2	Ali
+Jato	Kurmi	Taraba	7.033	10.583	2	Gidan Jato;Jato
 Gini	Munya	Niger	9.717	6.917	2	Jimi
 Barikin Gidar Kanat	Jos South	Plateau	9.767	8.817	2	
 Girigwe	Obi	Nasarawa	8.450	8.697	2	
@@ -68,12 +80,14 @@ Yelwa Tifida	Kwami	Gombe	10.517	11.283	2	Yelwa Gidan Tifida
 Gidan Sarikin Uguru	Rafi	Niger	10.417	6.350	2	Uguru
 Gidan Maiaki	Gwagwalada	FCT Abuja	8.917	6.950	2	Maiaki
 Gidan Magajia	Baruten	Kwara	9.138	3.261	2	
+Gidan Dogo	Kurmi	Taraba	7.167	10.600	2	Dogo
 Barimaw	Wamba	Nasarawa	9.033	8.583	2	Gita Baremu
 Giwa Higi	Askira-Uba	Borno	10.712	13.294	2	
 Giza	Mafa	Borno	12.232	13.383	2	
 Gidan Bugaji	Gada	Sokoto	13.766	5.773	2	
 Gisum	Yunusari	Yobe	13.033	12.283	2	
 Gidan Shaba	Kokona	Nasarawa	8.680	7.971	2	Shaba
+Sabon Gida Tukura	Kurmi	Taraba	7.350	10.500	2	Tukura
 Gidan Segaya	Wurno	Sokoto	13.139	5.344	2	
 Gidan Tata	Qua'An Pan	Plateau	8.550	9.000	2	Tata;Janta;Jenta
 Buga da Gindi	Barkin Ladi	Plateau	9.761	8.961	2	
@@ -133,7 +147,11 @@ Gizige	Konduga	Borno	11.493	13.150	2
 Pem Giji	Mangu	Plateau	9.586	9.316	2	
 Gita Gruge	Gwandu	Kebbi	12.348	4.590	2	
 Giya	Garki	Jigawa	12.350	9.200	2	Kafin Giya
+Gidan Sarakin Samari	Kurmi	Taraba	7.317	10.583	2	Sarakin Samari
 Gidan Liman	Binji	Sokoto	13.181	4.883	2	
+Gidan Adaji	Kurmi	Taraba	7.167	10.683	2	Adaji
+Gidan Amale	Kurmi	Taraba	7.300	10.900	2	Amale
+Giwa	Kurmi	Taraba	7.200	10.700	2	Gidan Giwa
 Gidan Jaro	Danja	Katsina	11.383	7.750	2	Jaro
 Gidan Tanko	Gada	Sokoto	13.850	5.583	2	
 Gidan Mangoro	Shagari	Sokoto	12.533	4.952	2	
@@ -143,10 +161,10 @@ Gidila Tsofoa	Zango	Katsina	12.897	8.658	2
 Gidila Saboa	Zango	Katsina	12.899	8.646	2	
 Garni	Zango	Katsina	12.864	8.522	2	Girna
 Gilli-Gilli	Ovia North-East	Edo	6.153	5.345	2	Gili-Gili
-Gindiri	Mangu	Plateau	9.598	9.229	3	
 Gidan Jatao Bataro	Shiroro	Niger	10.283	6.733	2	Jato
 Gidan Balla Abude	Kudan	Kaduna	11.367	7.733	2	Balla Abude
 Gigyara	Alkaleri	Bauchi	9.883	9.917	2	
+Gidan Maikurdi	Kurmi	Taraba	7.044	10.712	2	
 Gidan Sala	Wamako	Sokoto	13.171	5.251	2	
 Gidan Mairakunmi	Gada	Sokoto	13.659	5.559	2	
 Gidan Angode	Gada	Sokoto	13.650	5.554	2	
@@ -211,16 +229,19 @@ Gidan Sande	Gwandu	Kebbi	12.551	4.483	2
 Gijiwa	Shiroro	Niger	9.783	6.317	2	Gijiwi
 Gidan Baki	Garki	Jigawa	12.350	9.233	2	Baki
 Gidan Shehu	Wase	Plateau	8.908	10.019	2	
-Girei	Girei	Adamawa	9.363	12.545	3	
 Gidan Tukunguna	Rafi	Niger	10.383	6.100	2	
 Barikin Sabon Gidan Kanat	Jos South	Plateau	9.767	8.817	2	
 Wuro Giyea	Mubi North	Adamawa	10.347	13.237	2	
+Gindin Dutse	Donga	Taraba	7.350	10.267	2	Gindin Dutsi
 Gidan Wakili	Munya	Niger	9.919	7.283	2	
-Sabongidda Ora	Owan West	Edo	6.905	5.934	3	Sabon Gidda
 Gidan Liman	Bagudo	Kebbi	11.418	3.775	2	
 Giraba	Hawul	Borno	10.462	12.285	2	Geraba
+Gidan Kunama	Kurmi	Taraba	7.467	10.717	2	Kunama
+Gidan Dodo	Kurmi	Taraba	7.183	10.683	2	Dodo
 Gidan Sarikin Wuchanja	Rafi	Niger	10.383	6.083	2	Uchinda;Wuchinza
+Gidan Agudu	Kurmi	Taraba	7.483	10.667	2	Agudu
 Gidan Alhaji	Kware	Sokoto	13.136	5.287	2	
+Gidan Maikudu	Kurmi	Taraba	7.044	10.712	2	
 Gidan Bashu	Arewa Dandi	Kebbi	13.184	4.422	2	
 Gidan Maikabam	Gada	Sokoto	13.711	5.524	2	
 Gidan Nahiru	Bungudu	Zamfara	12.286	6.692	2	
@@ -269,14 +290,19 @@ Gidan Gwaja	Kiru	Kano	11.373	8.197	2	Gwaja
 Gidan Sarkin Noma Maizuma	Ikara	Kaduna	11.449	8.095	2	Sarkin Noma Maizuma
 Gidan Gala	Sumaila	Kano	11.385	8.849	2	
 Gidan Sarkin Dutse	Shagari	Sokoto	12.724	5.181	2	
+Gidan Hamman	Kurmi	Taraba	7.450	10.817	2	Hamman
+Gidan Baji	Kurmi	Taraba	7.467	10.717	2	Baji
 Gero	Kabba/Bunu	Kogi	8.250	6.250	2	Giro
+Tomi	Kurmi	Taraba	7.167	10.733	2	Gidan Tomi
 Gidan Tsofo	Barkin Ladi	Plateau	9.684	9.085	2	
+Gidan Adi	Kurmi	Taraba	7.333	10.517	2	Adi
 Gire	Mubi South	Adamawa	10.139	13.308	2	
 Gidan Madugu	Karu	Nasarawa	8.737	7.839	2	Madugu
 Gidan Amadu	Danja	Katsina	11.317	7.683	2	Amadu
 Gidan Sarikin Uran Chiku	Rafi	Niger	10.333	6.400	2	Uran Chikki
 Giris	Bagudo	Kebbi	11.594	3.711	2	
 Kwamagira	Hawul	Borno	10.516	12.375	2	Koguma Gira
+Gidan Dujere	Kurmi	Taraba	7.150	10.967	2	Dujere
 Salifu	Mokwa	Niger	9.267	4.833	2	Gidan Salifu;Salifu
 Gidan Tudu	Kware	Sokoto	13.214	5.283	2	
 Giwi	Askira-Uba	Borno	10.513	13.110	2	
@@ -337,6 +363,7 @@ Kaura Girke	Tureta	Sokoto	12.599	5.476	2
 Butai	Kafin Hausa	Jigawa	12.267	9.933	2	Gidan Butai
 Abba	Funakaye	Gombe	10.850	11.467	2	Gidan Abba
 Girei Petel	Maiha	Adamawa	9.933	13.217	2	Grrei Petel;Gīre-Pētel
+Gidan Waya	Kurmi	Taraba	7.100	10.767	2	Waya
 Gidan Madawaki	Zurmi	Zamfara	12.729	6.808	2	
 Maza	Garki	Jigawa	12.350	9.317	2	Gidan Maza
 Gingawa	Arewa Dandi	Kebbi	12.435	3.839	2	
@@ -401,7 +428,8 @@ Sabon Gida	Lafia	Nasarawa	8.534	8.680	2
 Gidan Gulbi	Tureta	Sokoto	12.592	5.446	2	
 Gimi	Rafi	Niger	10.096	6.148	2	
 Gidan Obandamo	Dange-Shuni	Sokoto	12.982	5.388	2	
-Gidan Sufa	Wukari	Nasarawa	7.950	9.300	2	Fanu;Sufa;Dansufa
+Gidan Boro	Kurmi	Taraba	7.067	10.583	2	Boro
+Gidan Sufa	Wukari	Taraba	7.950	9.300	2	Fanu;Sufa;Dansufa
 Gidan Maikasuwa	Kaita	Katsina	13.324	7.811	2	
 Za-Girta	Michika	Adamawa	10.462	13.490	2	
 Gilma	Mubi North	Adamawa	10.261	13.230	2	
@@ -409,11 +437,12 @@ Gilgil	Kala-Balge	Borno	11.968	14.462	2
 Hardo	Funakaye	Gombe	10.983	11.433	2	Gidan Hardo
 Gidan Sabuwa	Yankwashi	Jigawa	12.732	8.591	2	Sabuwa
 Gidan Adamu	Zango	Katsina	12.870	8.551	2	Adamu
+Gidan Mbora	Kurmi	Taraba	7.450	10.717	2	Mbora
+Adogo	Ibi	Taraba	8.450	10.017	2	Gidan Adogo
 Gidan Aikaw	Kware	Sokoto	13.152	5.288	2	
 Gidan-Fulani	Kware	Sokoto	13.283	5.250	2	
 Giagodna	Paikoro	Niger	9.333	6.583	2	Girgondna
 Gidan Maigemi	Augie	Kebbi	12.763	4.603	2	
-Gidan Madi	Tangaza	Sokoto	13.296	4.976	2	
 Gidan Umaru	Rafi	Niger	10.190	6.164	2	
 Gidan Musa	Gusau	Zamfara	12.089	6.601	2	
 Gidan Mashau	Birnin Magaji-Kiyaw	Zamfara	12.302	6.859	2	
@@ -467,6 +496,8 @@ Gidan Gomna	Maru	Zamfara	11.387	6.361	2
 Guidan Bawa	Isa	Sokoto	13.223	6.721	2	Gidan Bawa
 Gidan Dorowa	Shagari	Sokoto	12.527	5.070	2	
 Gidan Garkwa	Dange-Shuni	Sokoto	12.664	5.475	2	
+Gunduma	Kurmi	Taraba	7.183	10.633	2	Gidan Garba
+Gidan Usaini	Kurmi	Taraba	7.067	10.933	2	Usaini
 Gidan Mutum Daia	Sanga	Kaduna	9.050	8.117	2	Mutum Daia
 Gidan Mekwonko	Argungu	Kebbi	12.663	4.548	2	
 Angwan Giginya	Chikun	Kaduna	10.350	7.333	2	Unguwar Giginya
@@ -478,6 +509,7 @@ Tudun Giro	Suru	Kebbi	11.597	3.956	2
 Grassa	Hawul	Borno	10.412	12.077	2	Girasa
 Ngilangshimtu	Hawul	Borno	10.331	12.162	2	Gilamshemu
 Gidan Ushiba	Rafi	Niger	10.350	6.350	2	Ushiba
+Maiguru	Kurmi	Taraba	7.080	10.663	2	Gidan Maiguru
 Gidan Kado	Wamba	Nasarawa	9.117	8.634	2	
 Sabon Gida	Wase	Plateau	9.317	10.433	2	Gida
 Gidan Makera	Kware	Sokoto	13.144	5.315	2	
@@ -509,12 +541,7 @@ Guidan Girbi	Gusau	Zamfara	12.140	6.628	2
 Gidan Anazar	Gwadabawa	Sokoto	13.563	5.354	2	
 Gidan Anache	Bungudu	Zamfara	12.265	6.811	2	
 Giro-Masa	Shanga	Kebbi	11.104	4.722	2	Giru
-Word Sworth Gifted School	Oredo	Edo	6.299	5.608	0	
-Oredo Girls Junior/ Senior Secondary School	Oredo	Edo	6.324	5.630	0	
-Gius Obaseki Group of Schools	Oredo	Edo	6.346	5.629	0	
-Trans Ekulu Girls Secondary School	Enugu East	Enugu	6.477	7.502	0	
 Gidan Kiriya	Illela	Sokoto	13.789	5.344	2	
-Gidan Nisau Health Post	Kunchi	Kano	12.358	8.193	0	
 Bahawa	Doguwa	Kano	10.606	8.720	2	Gidan Bahawa
 Giginyu	Nassarawa	Kano	11.991	8.566	2	
 Gidan Baban Gwari	Fagge	Kano	12.031	8.513	2	
@@ -527,8 +554,6 @@ Gidan Gali Da Mato	Tudun Wada	Kano	11.312	8.315	2
 Gidan Kawo	Tudun Wada	Kano	11.273	8.363	2	
 Gidan Sani Nomadic	Tudun Wada	Kano	11.312	8.393	2	
 Gishirya	Tudun Wada	Kano	11.337	8.408	2	
-Bula Bul (Tumbun Gini)	Abadam	Borno	13.465	13.659	3	
-Baptist Girls High School	Osogbo	Osun	7.769	4.545	0	
 Kutyhathali Yunusa Gindi	Shani	Borno	10.230	12.122	2	
 Gingilori	Nganzai	Borno	12.237	13.205	2	
 Gidde	Jere	Borno	12.002	13.249	2	
@@ -544,26 +569,12 @@ Government Girls Secondary School Quarters	Biu	Borno	10.745	12.155	2	GGSS Quarte
 Mai Girari	Damboa	Borno	11.082	12.726	2	
 Babban Giji	Tarauni	Kano	11.955	8.540	2	
 Gidan Gago	Sabon Birni	Sokoto	13.663	5.982	2	
-Turban Gida Health Facility	Tarmua	Yobe	12.468	11.678	0	
-Turban Gida Health Facility	Borsari	Yobe	12.508	11.674	0	
-GOVERNMENT GIRLS SECONDARY SCHOOL	Mariga	Niger	10.141	6.006	0	
-Gilgal Dental Clinics	Eti Osa	Lagos	6.448	3.430	0	
-Girls Seconadry School	Owerri Municipal	Imo	5.487	7.021	0	
-Federal Government Girls College	Owerri Municipal	Imo	5.501	7.034	0	
-girls technical college	Aba North	Abia	5.124	7.385	0	
-Mercy Girls college	Aba North	Abia	5.120	7.384	0	
 point five Gidim Dona Div.	Yamaltu/Deba	Gombe	10.280	11.219	2	
-Babban Giji Secondary School, Karkasara	Tarauni	Kano	11.959	8.545	0	
-GYADI GYADI, GIRLS SECONDARY SCHOOL	Tarauni	Kano	11.968	8.545	0	
 Gilkoa	Gada	Sokoto	13.688	5.942	2	
 Gidan Jeda	Gada	Sokoto	13.693	5.923	2	
 Doutchi Kozoro	Gada	Sokoto	13.764	5.814	2	Gidan Bizo
-GIGM	Uvwie	Delta	5.548	5.781	0	
-Joinkramer Girls Secondary School	Yenegoa	Bayelsa	5.170	6.496	0	
-GIGM	Yenegoa	Bayelsa	4.935	6.310	0	
 Giza Bulama Bukar	Monguno	Borno	12.255	13.380	2	
 Giza Gana	Mafa	Borno	12.235	13.385	2	
-Gina Montessori Academy	Yenegoa	Bayelsa	4.946	6.343	0	
 Gidan Tune	Gwadabawa	Sokoto	13.555	5.522	2	
 Gidan Soja	Shinkafi	Zamfara	13.180	6.313	2	
 Gidan Yar Fara	Gada	Sokoto	13.591	5.906	2	
@@ -589,9 +600,6 @@ Bayo Gidan	Dange-Shuni	Sokoto	12.938	5.296	2
 Gidan Abba	Bodinga	Sokoto	12.892	5.138	2	
 Gidan Gwari	Bodinga	Sokoto	12.885	5.132	2	
 Gidan gulubi	Gada	Sokoto	13.615	5.772	2	
-Giweo	Ikwerre	Rivers	4.925	6.922	0	
-Ogbomoso Girl's High School	Ogbomosho North	Oyo	8.161	4.245	0	
-Giwa Hospital	Kaduna North	Kaduna	10.543	7.433	0	
 Gidan Mai Bukka	Rogo	Kano	11.379	7.778	2	
 Gidan Gado	Rogo	Kano	11.449	7.753	2	
 Kofar Fada	Rogo	Kano	11.560	7.936	2	Gidan Jajaye
@@ -633,7 +641,6 @@ Tudun Wada Layin Gidan Mai Unguwar	Gaya	Kano	11.918	9.025	2
 Gidan Jeji Babban Ga	Ajingi	Kano	11.957	9.204	2	
 Gidan Laila	Madobi	Kano	11.851	8.479	2	
 Gidan Kwari	Madobi	Kano	11.861	8.496	2	
-Zango Layin Gidan Mai Unguwar	Gaya	Kano	11.864	9.001	3	
 Gidan Yawa	Gezawa	Kano	12.023	8.788	2	
 Gidan Gada	Dawakin Kudu	Kano	11.799	8.793	2	
 Gidan Sarkin Noma Gabas	Gaya	Kano	11.832	9.125	2	
@@ -662,116 +669,9 @@ Gidan Sarkin Baka	Rano	Kano	11.529	8.595	2
 Gidan Korau	Tudun Wada	Kano	11.292	8.511	2	
 Gidan Gizo	Rano	Kano	11.520	8.498	2	
 Gidan Deri	Rano	Kano	11.528	8.498	2	
-Fiwasaye Girls' Grammar School	Akure North	Ondo	7.258	5.219	0	
-Ginga Clinic	Suru	Kebbi	12.041	4.075	0	
-Federal Government Girl's College, Imiringi	Ogbia	Bayelsa	4.862	6.373	0	
-City girls College	Enugu North	Enugu	6.433	7.503	0	
 Gidan Maifada	Gudu	Sokoto	13.550	4.333	2	
-Ginza medical center	Jos North	Plateau	9.928	8.881	0	
-Maman Gimbiya clinic kabong	Jos North	Plateau	9.927	8.870	0	
-Government Girls Secondary School	Sabon Gari	Kaduna	11.170	7.660	0	
-Gibril Aminu model school	Bauchi	Bauchi	10.310	9.799	0	
 Gidan Mai Akwiya	Lafia	Nasarawa	8.547	8.740	2	
-Farin Gida Alpha Specialist Hospital	Kaduna North	Kaduna	10.582	7.418	0	
-Gimo Maternity Buba Sauri Road Romi	Kaduna North	Kaduna	10.532	7.424	0	
-Giltoo Aris Specialist Hospital	Kaduna South	Kaduna	10.482	7.428	0	
-Divine Gift Medical Centre Hospital	Amuwo Odofin	Lagos	6.446	3.222	0	
-Isabatudeen Girls Grammar School	Lagelu	Oyo	7.422	3.941	0	
-Giant IBK	Akure South	Ondo	7.292	5.153	0	
-Giant Villa	Akure South	Ondo	7.290	5.149	0	
-Regina Mundi Girls Secondary School	Iwo	Osun	7.640	4.170	0	
-GIDAN GADO SCIENCE ACADEMY AND ISLAMIYYA	Ungongo	Kano	12.050	8.579	0	
-GOVT GIRL DORAYI KARAMA	Gwale	Kano	11.967	8.473	0	
 Gidan Karfe	Chikun	Kaduna	10.448	7.502	2	
-Girls' Secondary School	Nnewi North	Anambra	6.041	6.895	0	Anglican Girls Secondary school
-Babban Gida	Tarmua	Yobe	12.159	11.774	2	Babbangida
-Gig Logistics Gwarinpa 2	Municipal Area Council	FCT Abuja	9.117	7.392	0	
-Gig Mobility (Gigm) Utako	Municipal Area Council	FCT Abuja	9.065	7.440	0	
-Gilmore Bus Stop	Municipal Area Council	FCT Abuja	9.020	7.497	0	
-Gimbiya Street	Municipal Area Council	FCT Abuja	9.041	7.504	1	
-Gimba Road	Kaduna North	Kaduna	10.547	7.449	1	
-Giwa Amu Road	Oredo	Edo	6.311	5.604	1	
-Ojo Giwa Street	Lagos Island	Lagos	6.460	3.391	1	
-Ayinde Giwa Street	Oshodi/Isolo	Lagos	6.522	3.324	1	
-Karimu Giwa Street	Eti Osa	Lagos	6.443	3.425	1	
-Layin Farin Gida	Tarauni	Kano	11.971	8.555	1	
-Benoni Road	Oredo	Edo	6.308	5.603	1	Giwa Amu Lane
-Gidan Mai Roundabout	Bauchi	Bauchi	10.320	9.823	1	
-Giwa Street	Mushin	Lagos	6.530	3.364	1	
-Sumonu Giwa Street	Alimosho	Lagos	6.637	3.295	1	
-Giwa-Amu Street	Warri South	Delta	5.537	5.751	1	
-Ginuwa Road Warri	Warri South	Delta	5.518	5.752	1	
-Idris Giris Illo Road	Birnin Kebbi	Kebbi	12.444	4.178	1	
-girgiri filling station	Maiduguri	Borno	11.849	13.142	1	
-Abakpa Girls Secondary School Road	Enugu East	Enugu	6.482	7.533	1	
-Urban Girls Secondary School	Enugu North	Enugu	6.429	7.501	1	
-Gillis Onyeabor Street	Enugu North	Enugu	6.439	7.538	1	
-Giraffe Street	Enugu East	Enugu	6.469	7.508	1	
-Layin Gidan Deneji	Tarauni	Kano	11.976	8.560	1	
-Gidan Hakimi Road	Tofa	Kano	12.059	8.272	1	
-Layin gidan sanjaji	Kumbotso	Kano	11.890	8.501	1	
-Giwa Afunpotu Street	Ìkòròdú	Lagos	6.625	3.501	1	
-Babban Giji Secondary School, Karkasara	Tarauni	Kano	11.958	8.546	0	
-junction Layin Gidan Kashi	Kumbotso	Kano	11.954	8.479	1	
-Gidan Kifi Street	Kano Municipal	Kano	11.974	8.532	1	
-Gidan Kasa Street	Ungongo	Kano	11.979	8.448	1	
-Ginsawa Health Post	Tofa	Kano	12.029	8.259	0	
-Layin gidan bene	Kumbotso	Kano	11.891	8.501	1	
-Layin gidsn hakimi	Kumbotso	Kano	11.892	8.502	1	
-Layin gidan malan audu	Kumbotso	Kano	11.890	8.499	1	
-Sir Rufus Foluso Giwa Street	Eti Osa	Lagos	6.443	3.463	1	
-Gideon Ngwaba Street	Eti Osa	Lagos	6.488	3.590	1	
-Gilar Dispensary	Jama'Are	Bauchi	11.718	9.958	0	
-Gidan YanBama	Jere	Borno	11.791	13.178	1	
-Rinjin Gingin Dispensary	Toro	Bauchi	10.225	9.259	0	
-Giraka Dispensary	Bauchi	Bauchi	9.936	9.863	0	
-Sabon Gidan	Tafawa-Balewa	Bauchi	9.918	9.813	0	
-Gilbert Odior Street	Eti Osa	Lagos	6.471	3.578	1	
-Dr. Gideon Nweze Ave.	Owerri Municipal	Imo	5.482	7.011	1	
-Federal University of Technology, Minna	Bosso	Niger	9.525	6.448	0	Main Campus (Gidan Kwano)
-Abayomi Giwa Street	Ojo	Lagos	6.457	3.169	1	
-Giwa Street	Ifako/Ijaye	Lagos	6.659	3.317	1	
-Moninuola Giwa Street	Eti Osa	Lagos	6.485	3.580	1	
-Gideon Obhakhan Close	Eti Osa	Lagos	6.467	3.622	1	
-Gisanri Street	Ìkòròdú	Lagos	6.630	3.483	1	
-Ramot Giwa Close	Eti Osa	Lagos	6.501	3.586	1	
-Gidan YanManguno	Jere	Borno	11.806	13.176	1	
-Gidan Bredi	Jere	Borno	11.805	13.170	1	
-Gideon Adeniran Street	Alimosho	Lagos	6.640	3.301	1	
-Gideon Inabor Street	Isoko North	Delta	5.532	6.210	1	
-Layin gidan ado	Kumbotso	Kano	11.890	8.497	1	
-Girls school Road	Esan West	Edo	6.751	6.116	1	
-Layin Gidan Kashi	Kumbotso	Kano	11.953	8.478	1	
-Layin Gidan Inyass	Kumbotso	Kano	11.950	8.475	1	
-Layin Gidan Mutum 30	Kumbotso	Kano	11.951	8.475	1	
-Government Girls College	Maiduguri	Borno	11.832	13.141	0	
-Yerma - Government Girls Secondary School (GGSS)	Maiduguri	Borno	11.834	13.121	0	
-Gidan Leda Street	Kumbotso	Kano	11.951	8.534	1	
-Gidan Leda Street	Kumbotso	Kano	11.952	8.536	1	
-Gil Gal Close	Enugu East	Enugu	6.469	7.546	1	
-GIWEO INTERNATIONAL ACADEMY	Ikwerre	Rivers	4.925	6.922	0	
-Amuzukwu Girls High School	Umuahia North	Abia	5.542	7.501	0	
-Federal Government Girls' College	Port-Harcourt	Rivers	4.782	7.051	0	
-Anwar ul-Islam Girls High School	Ifako/Ijaye	Lagos	6.661	3.295	0	
-Waziri Gidado General Hospital	Dala	Kano	12.058	8.470	0	
-Gidan Sarkin Noma Primary Health Centre	Gaya	Kano	11.823	9.120	0	
-Giade Maternity and Child Health Center	Giade	Bauchi	11.386	10.184	0	
-Giade General Hospital	Giade	Bauchi	11.387	10.210	0	
-Gidan Mada Dispensary	Warji	Bauchi	11.232	9.624	0	
-Gidan Waya Dispensary	Ganjuwa	Bauchi	10.565	10.088	0	
-Gidan Ganji Primary Center	Itas/Gadau	Bauchi	11.853	9.965	0	
-Gidgid Hamma Primary Health Center	Tafawa-Balewa	Bauchi	9.598	9.807	0	
-Gizaki Community Primary Health Care	Bogoro	Bauchi	9.585	9.650	0	
-Rumde Giwa Health Post	Fufore	Adamawa	8.980	12.225	0	
-Gishiwari Dispensary	Fune	Yobe	11.632	11.372	0	
-Anglican Girls Grammar School	Odogbolu	Ogun	6.835	3.904	0	
-Giasom Close	Eti Osa	Lagos	6.478	3.573	1	
-Gideon Avenue	Ikpoba-Okha	Edo	6.350	5.651	1	
-St louis girls secoundary school	Jos North	Plateau	9.926	8.880	0	
-Anglican Girls Grammar School	Municipal Area Council	FCT Abuja	9.011	7.474	0	AGGS
-Air Force Girls Comprehensive School	Municipal Area Council	FCT Abuja	8.979	7.265	0	
-Gift Hospital	Oredo	Edo	6.342	5.621	0	
-Mount Gilead Hospital	Egor	Edo	6.372	5.614	0	
 Gidgid Bayam	Jakusko	Yobe	12.503	10.978	2	
 Girbobo	Kaugama	Jigawa	12.716	9.791	2	
 Gidan Goga	Maradun	Zamfara	12.699	6.484	2	
@@ -814,3 +714,1309 @@ Giginyu	Nassarawa	Kano	11.992	8.560	2
 Rugar Gidado	Dange-Shuni	Sokoto	12.949	5.341	2	
 Gidan Rugga More	Kware	Sokoto	13.100	5.265	2	
 Gidan Bubu	Wamako	Sokoto	13.114	5.182	2	
+Sabon Gidan Zawan	Sanga	Kaduna	9.417	8.540	2	Zac Zawan
+Wuro Giye	Fufore	Adamawa	8.925	12.245	2	
+Wuro Giye	Jada	Adamawa	8.687	12.214	2	
+Wuro Girangero	Fufore	Adamawa	8.840	12.402	2	
+Wakili Giwa	Ardo-Kola	Taraba	8.777	11.376	2	
+Kabin Giro	Birnin Magaji-Kiyaw	Zamfara	12.458	6.745	2	Ungwan Kabin Giro
+Ungwan Giginya	Zaria	Kaduna	11.033	7.700	2	
+Tungan Giwa	Shanga	Kebbi	10.962	4.727	2	
+Tungan Gimba Bamaraba	Ngaski	Kebbi	10.217	4.617	2	
+Tungan Nupawa	Lafia	Nasarawa	8.644	8.819	2	Tunga Gimba|Tungan Gimba|TunganNupawa
+Tashan Gidan Waya	Ganjuwa	Bauchi	10.566	10.085	2	
+Sambam Gida	Jaba	Kaduna	9.455	8.052	2	Samban
+Sabon Gida Tati	Ussa	Taraba	7.283	10.150	2	
+Sabon Gida Mai Suna	Donga	Taraba	7.481	10.501	2	
+Sabon Gida	Soba	Kaduna	10.765	8.024	2	
+Sabon Gida	Kaduna North	Kaduna	10.583	7.417	2	
+Sabon Gida	Shiroro	Niger	10.388	6.712	2	
+Sabon Gida	Bauchi	Bauchi	10.079	9.685	2	
+Sabon Gida	Song	Adamawa	9.955	12.555	2	
+Sabon Gida	Tafawa-Balewa	Bauchi	9.924	9.809	2	
+Sabon Gida	Jos South	Plateau	9.780	8.814	2	
+Sabon Gida	Shiroro	Niger	9.817	6.333	2	Sabon
+Sabon Gida	Wase	Plateau	9.314	10.440	2	Gida
+Sabon Gida	Abaji	FCT Abuja	8.870	6.869	2	
+Sabon-Gida	Kwali	FCT Abuja	8.700	7.003	2	
+Sabon-Gidan Kireyi	Lafia	Nasarawa	8.532	8.687	2	Kireyi|Sabon Gida|Sabon-GidanKireyi|SabonGida
+Sabon Gida	Bali	Taraba	7.987	10.994	2	
+Sabon Gida	Donga	Taraba	7.475	10.360	2	
+Sabon Gida	Takum	Taraba	7.000	9.717	2	
+Gidan Kura	Dange-Shuni	Sokoto	12.923	5.253	2	Rugan Kura
+Rugan Gilliri	Bauchi	Bauchi	10.302	10.002	2	
+Rinjim Gaini	Toro	Bauchi	10.062	9.093	2	Rin gin Gani|Rinjim Gani
+Rafin-Giwa	Suru	Kebbi	11.872	4.028	2	
+Pem Giji	Mangu	Plateau	9.583	9.317	2	
+Parnyel Gidam	Mubi North	Adamawa	10.199	13.160	2	
+Gadum Gabas	Nafada	Gombe	11.007	11.168	2	Mallam Gidado
+Mai Giya	Kubau	Kaduna	11.152	8.312	2	
+Mai Gishiri	Chikun	Kaduna	10.689	7.173	2	
+Lumde Giwa	Mayo-Belwa	Adamawa	8.978	12.152	2	
+Kusa-Da-Gida	Kogi	Kogi	8.262	6.857	2	Kusa da Gida|KusadaGida
+Kurmin Giwa	Paikoro	Niger	9.633	7.284	2	
+Koguma Gira	Hawul	Borno	10.516	12.375	2	
+Gidan-Maikarfi	Larmurde	Adamawa	9.437	11.530	2	Kelu
+Kashin Giwa	Bagudo	Kebbi	11.389	4.231	2	
+Kan Gimi	Igabi	Kaduna	10.734	7.600	2	Kangimi
+Kalahi Girei	Song	Adamawa	9.837	12.999	2	
+Jauro Girji	Bali	Taraba	8.439	11.113	2	
+Gurum	Hawul	Borno	10.580	12.012	2	Girim
+Grikau	Kebbe	Sokoto	12.139	4.819	2	Girkau
+Gio	Tai	Rivers	4.703	7.236	2	Goi
+Gizibur	Geidam	Yobe	12.857	12.106	2	
+Giza	Keana	Nasarawa	8.199	8.642	2	
+Giyagiri	Tarmua	Yobe	12.314	11.435	2	
+Giwoligyo	Dekina	Kogi	7.415	6.930	2	
+Giwere II	Bama	Borno	11.381	14.332	2	
+Giwaye	Ikara	Kaduna	11.383	7.967	2	
+Giwatazo	Maiyama	Kebbi	12.139	4.380	2	
+Giwasir	Hong	Adamawa	10.173	12.953	2	
+Giwasalak	Hong	Adamawa	10.181	12.944	2	
+Giware Buba	Fufore	Adamawa	8.849	12.645	2	
+Giwa Elewure	Ibarapa North	Oyo	7.612	3.280	2	
+Giwa	Akinyele	Oyo	7.606	3.938	2	
+Givwa	Gwoza	Borno	10.949	13.513	2	
+Gitata	Karu	Nasarawa	9.123	7.946	2	
+Gital	Tafawa-Balewa	Bauchi	9.790	9.603	2	
+Gita	Paikoro	Niger	9.433	6.775	2	
+Gisum	Yunusari	Yobe	13.024	12.291	2	
+Gishuwa	Potiskum	Yobe	11.691	11.214	2	
+Gishirya	Tudun Wada	Kano	11.365	8.416	2	
+Gisgerawa	Kaita	Katsina	13.205	7.692	2	
+Girtiba	Dukku	Gombe	10.795	10.600	2	
+Girsili	Toro	Bauchi	10.195	9.397	2	
+Girku	Igabi	Kaduna	10.512	7.830	2	
+Giringwe	Obi	Nasarawa	8.455	8.711	2	Girigwe
+Girin	Gassol	Taraba	8.575	11.015	2	Garin
+Girim	Biu	Borno	10.674	12.223	2	
+Girim	Gwer West	Benue	7.470	8.189	2	
+Girigilan	Gombi	Adamawa	10.324	12.595	2	
+Giribobo	Kankia	Katsina	12.326	7.708	2	
+Girgirnari	Kaga	Borno	11.683	12.302	2	Girigiriri
+Girgi	Mubi South	Adamawa	10.182	13.261	2	
+Giremawa	Bindawa	Katsina	12.762	7.960	2	
+Girbobo	Kankara	Katsina	11.896	7.631	2	
+Girboa	Gujba	Yobe	11.542	12.092	2	
+Girasa	Hawul	Borno	10.412	12.078	2	
+Girari	Maigatari	Jigawa	12.761	9.639	2	
+Gira	Song	Adamawa	9.959	12.486	2	
+Gir	Kanam	Plateau	9.451	10.366	2	
+Gipso	Bali	Taraba	7.994	11.173	2	
+Ginnery	Malumfashi	Katsina	11.798	7.607	2	
+Ginkoso	Madobi	Kano	11.806	8.274	2	
+Gini	Shiroro	Niger	9.998	6.700	2	
+Gingu	Tangaza	Sokoto	13.535	4.843	2	
+Gingawa	Arewa Dandi	Kebbi	12.434	3.839	2	
+Ginga	Shagari	Sokoto	12.682	5.147	2	
+Gindyen	Ushongo	Benue	7.149	8.985	2	
+Gindin Waya	Wukari	Taraba	8.079	9.789	2	Gindiwaya
+Gindiri	Kurmi	Taraba	7.253	10.613	2	
+Gindin Kete	Awe	Nasarawa	8.104	9.281	2	
+Gindin Dutse	Teungo	Adamawa	7.722	11.816	2	
+Gindi-Mango	Doma	Nasarawa	8.428	8.390	2	Gindi Mango|GindiMango
+Gindi Akwati	Barkin Ladi	Plateau	9.461	8.838	2	
+Nnadindi	Lavun	Niger	9.352	5.702	2	Gindi
+Gindei	Rafi	Niger	9.990	6.142	2	
+Ginda	Edu	Kwara	8.899	5.046	2	
+Gimsum	Bogoro	Bauchi	9.709	9.695	2	
+Gimi	Makarfi	Kaduna	11.329	7.940	2	
+Gimbawa	Ikara	Kaduna	11.178	8.312	2	
+Gimba	Soba	Kaduna	11.068	7.956	2	
+Gimba	Kachia	Kaduna	9.907	7.687	2	
+Gimba	Wamba	Nasarawa	9.012	8.620	2	
+Giloagli	Ifelodun	Kwara	8.636	5.107	2	
+Gilliri	Ganjuwa	Bauchi	10.559	10.088	2	
+Gilliri	Ganjuwa	Bauchi	10.392	9.978	2	
+Gilkobi	Bassa	Plateau	10.079	8.955	2	
+Gilkari	Fune	Yobe	11.896	11.144	2	Gilkali
+Gilima	Taura	Jigawa	12.223	9.437	2	
+Gilik	Gamawa	Bauchi	11.675	10.556	2	
+Gile	Konshisha	Benue	7.329	8.609	2	
+Gildanbara	Gombi	Adamawa	10.064	12.573	2	
+Gilbedi	Gada	Sokoto	13.650	5.783	2	
+Gikau	Sardauna	Taraba	6.886	11.445	2	
+Gijiwa	Shiroro	Niger	9.957	6.541	2	
+Gigira	Jema'A	Kaduna	9.366	8.109	2	
+Giginya	Sumaila	Kano	11.250	8.811	2	
+Gigin	Musawa	Katsina	12.102	7.794	2	
+Gigane	Igabi	Kaduna	10.867	7.467	2	
+Gierkun	Wushishi	Niger	9.579	5.805	2	
+Giere	Fufore	Adamawa	9.437	12.815	2	
+Gidimbiri	Bali	Taraba	8.223	11.479	2	
+Gidima	Tangaza	Sokoto	13.267	5.037	2	Tsalibawa
+Gidila	Hong	Adamawa	10.185	12.888	2	
+Gidigidi	Egbeda	Oyo	7.417	4.033	2	
+Gidi-Gidi	Lagelu	Oyo	7.495	4.114	2	Gidi Gidi
+Gidi	Alkaleri	Bauchi	10.191	10.594	2	
+Gidi	Lapai	Niger	8.625	6.683	2	
+Gidgid	Nangere	Yobe	11.745	11.093	2	
+Gidgid	Kanam	Plateau	9.478	9.845	2	
+Gidenari	Shira	Bauchi	11.562	10.029	2	
+Gidel	Hong	Adamawa	10.276	12.940	2	
+Gidan Zunkpaida	Shiroro	Niger	9.725	6.767	2	
+Gidan Zomo	Zangon Kataf	Kaduna	9.958	8.023	2	
+Gidan Zari	Shiroro	Niger	9.762	6.790	2	Zari
+Gidan Yusufu	Kagarko	Kaduna	9.500	7.467	2	
+Gidan Yausa	Kurmi	Taraba	7.328	10.457	2	
+Gidan Yango	Lafia	Nasarawa	8.549	8.744	2	
+Gidan Yange	Birnin Kebbi	Kebbi	12.525	4.401	2	
+Guidan Yakubu	Bungudu	Zamfara	12.170	6.532	2	Gidan Yakubu
+Gidan Wusheynu	Rafi	Niger	10.438	6.509	2	
+Gidan Wuka	Donga	Taraba	7.459	10.468	2	
+Gidan Warida	Chikun	Kaduna	10.583	6.933	2	
+Gidan Walu	Tureta	Sokoto	12.533	5.467	2	
+Gidan Usumanu	Bali	Taraba	7.573	10.422	2	
+Guidan Usuman	Bungudu	Zamfara	12.192	6.557	2	Gidan Usuman
+Gidan Usuman	Sardauna	Taraba	7.151	11.035	2	
+Gidan Usuman	Karim Lamido	Taraba	9.215	11.102	2	Gidan Usmanu|Usmanu
+Gidan Usman Danladi	Rafi	Niger	10.288	6.442	2	
+Gidan Ulu	Ibi	Taraba	8.332	9.984	2	
+Guidan Uban Dawaki	Bungudu	Zamfara	12.289	6.570	2	Gidan Uban Dawaki
+Gidan Uban Dawaki	Rafi	Niger	10.122	6.233	2	
+Tukura	Nasarawa	Nasarawa	8.142	7.507	2	Gidan Tukura
+Gidan Tudu	Shagari	Sokoto	12.625	5.131	2	
+Gidan Tudu	Sumaila	Kano	11.343	8.953	2	
+Gidan Tomi	Kurmi	Taraba	7.179	10.733	2	Tomi
+Gidan Tiraki	Igabi	Kaduna	10.553	7.768	2	
+Gidan Tetige	Rafi	Niger	10.400	6.367	2	
+Gidan Tarasilawa	Shiroro	Niger	9.937	6.723	2	
+Guidan Tanko	Bungudu	Zamfara	12.045	6.523	2	Gidan Tanko
+Gidan Tanko	Rafi	Niger	10.433	6.433	2	
+Gidan Tambari Kokwa	Shiroro	Niger	10.426	6.878	2	
+Gidan Takere	Bali	Taraba	7.548	10.462	2	
+Gidan Tangoi	Kachia	Kaduna	9.692	8.045	2	Gidan Tagwai
+Gidan Sule	Kagarko	Kaduna	9.541	7.878	2	
+Gidan Sufa	Wukari	Taraba	7.921	9.220	2	Dansufa|Fanu|Sufa
+Gidan Soja	Awe	Nasarawa	8.419	9.232	2	
+Gidan Sogida	Sardauna	Taraba	7.135	11.051	2	
+Guidan Sodangi	Bungudu	Zamfara	12.225	6.510	2	Gidan Sodangi
+Gidan Shere	Doguwa	Kano	10.671	8.741	2	Shere
+Gidan Shekaro	Chikun	Kaduna	10.433	7.367	2	
+Guidan Shanono	Bungudu	Zamfara	12.209	6.524	2	Gidan Shanono
+Guidan Shagwo	Gusau	Zamfara	12.011	6.674	2	Gidan Shagwa
+Gidan Shabagu	Rafi	Niger	10.350	6.350	2	
+Gidan Shaba	Gwagwalada	FCT Abuja	9.166	6.878	2	
+Shaba	Kokona	Nasarawa	8.652	7.937	2	Gidan Shaba
+Gidan Sarumai	Shiroro	Niger	10.067	6.700	2	
+Guidan Sarkin Noma	Gusau	Zamfara	12.105	6.984	2	Gidan Sarkin Noma
+Gidan Sarkin Lau	Igabi	Kaduna	10.551	7.314	2	
+Gidan Sarkin-Katul	Kachia	Kaduna	9.912	8.024	2	Gidan Sarikin Katul
+Gidan Sarkin Bishini	Kachia	Kaduna	9.621	7.433	2	
+Gidan Sarkin Bakre	Chikun	Kaduna	10.067	7.317	2	
+Gidan Sarikin Togwoma	Rafi	Niger	10.333	6.283	2	Togwoma
+Gidan Sarikin Noma	Rafi	Niger	10.283	6.433	2	
+Gidan Sarikin Kukunga	Mariga	Niger	10.583	6.100	2	
+Guidan Sarde	Bungudu	Zamfara	12.235	6.547	2	Gidan Sardo|Guidan Sardo
+Gidan Salifu	Mokwa	Niger	9.267	4.833	2	Salifu
+Gidan Salatu	Takum	Taraba	7.567	9.883	2	
+Guidan Sake	Gusau	Zamfara	12.076	6.671	2	Gidan Sake
+Guidan Sakarawa	Bungudu	Zamfara	12.128	6.575	2	Gidan Sakarawa
+Gidan Rai	Guma	Benue	8.079	8.392	2	
+Gidan Pawa	Bwari	FCT Abuja	9.304	7.429	2	
+Gidan Patuko	Shiroro	Niger	9.960	6.820	2	
+Gidan Pate	Zangon Kataf	Kaduna	9.941	8.178	2	
+Gidan Ogu	Rafi	Niger	10.183	6.350	2	
+Gidan Oga	Doma	Nasarawa	7.934	8.265	2	
+Gidan Odu	Ibi	Taraba	8.318	9.750	2	
+Gidan Obandamo	Dange-Shuni	Sokoto	12.983	5.383	2	
+Gidan Nufawa	Ibi	Taraba	8.314	9.978	2	
+Gidan Nduna	Bali	Taraba	7.677	10.876	2	
+Gidan Nbora	Municipal Area Council	FCT Abuja	9.057	7.389	2	
+Guidan Nayo	Bungudu	Zamfara	12.217	6.517	2	Gidan Nayo
+Gidan Mutuwa	Jada	Adamawa	8.619	12.049	2	
+Gidan Mbora	Kurmi	Taraba	7.455	10.715	2	Mbora
+Maza	Garki	Jigawa	12.352	9.315	2	Gidan Maza
+Gidan Maza	Ringim	Jigawa	12.193	9.186	2	
+Gidan Matoro	Maru	Zamfara	11.324	6.489	2	
+Gidan-Mata	Doma	Nasarawa	8.463	8.433	2	Gidan Mata|GidanMata
+Gidan Masu	Ibi	Taraba	8.326	9.723	2	
+Guidan Mashau	Birnin Magaji-Kiyaw	Zamfara	12.304	6.859	2	Gidan Mashau
+Guidan Manuga	Gusau	Zamfara	12.094	6.590	2	Gidan Manuga
+Guidan Mani	Bungudu	Zamfara	12.220	6.545	2	Gidan Mani
+Gidan Mangoro	Obi	Nasarawa	8.349	8.744	2	
+Gidan Mallam Sani	Kirfi	Bauchi	10.271	10.778	2	
+Gidan Mallan Kagwa	Ibi	Taraba	8.091	9.784	2	
+Guidan Malijatu	Isa	Sokoto	13.189	6.041	2	Gidan Malijatu
+Gidan Malaha	Ussa	Taraba	7.177	10.204	2	
+Guidan Makuru	Birnin Magaji-Kiyaw	Zamfara	12.309	6.854	2	Gidan Makuru
+Gidan Makeri	Donga	Taraba	7.361	10.275	2	
+Gidan Makera	Illela	Sokoto	13.650	5.483	2	
+Gidan Makaminkura	Kachia	Kaduna	9.608	7.363	2	
+Gidan Makama	Kachia	Kaduna	9.957	7.386	2	
+Gidan Maizaji	Rafi	Niger	10.450	6.383	2	
+Gidan Maimadaji	Kachia	Kaduna	9.654	7.424	2	
+Guidan Mai-Kwazo	Bungudu	Zamfara	12.120	6.561	2	Gidan Mai Kwazo
+Gidan Maikudu	Kurmi	Taraba	7.032	10.719	2	Gatari|Gidan Maikurdi|Maikudu
+Gidan Maikudi	Bali	Taraba	7.674	10.480	2	
+Gidan Maikarfi	Rafi	Niger	10.450	6.417	2	
+Gidan Maiguru	Kurmi	Taraba	7.079	10.663	2	Maiguru
+Gidan Maigemi	Augie	Kebbi	12.767	4.600	2	
+Gidan Maigari Boka	Rafi	Niger	10.467	6.350	2	
+Gidan-Maiganga	Munya	Niger	9.772	7.195	2	
+Tangebe	Gudu	Sokoto	13.551	4.334	2	Gidan Maifada
+Gidan Maidowa	Rafi	Niger	10.383	6.517	2	
+Gidan Maichibi	Donga	Taraba	7.505	10.601	2	
+Gidan Maiakuya	Lafia	Nasarawa	8.545	8.735	2	Gidan Mai Akwiya|GidanMaiAkwiya|GidanMaiakuya
+Guidan Mage	Gusau	Zamfara	12.137	6.646	2	Gidan Mage
+Gidan-Magana	Maru	Zamfara	11.405	6.125	2	
+Gidan Magajia	Baruten	Kwara	9.129	3.269	2	
+Guidan Magagi	Gusau	Zamfara	12.225	6.936	2	Gidan Magagi
+Gidan Mafidaji	Chikun	Kaduna	10.584	6.929	2	
+Gidan-Madugo	Karu	Nasarawa	8.741	7.836	2	Gidan Madugu|Madugu
+Gidan Madugu	Bali	Taraba	7.726	10.777	2	
+Gidan Madawakin Tugulbi	Rafi	Niger	10.403	6.466	2	
+Gidan Madatsi	Shiroro	Niger	9.904	6.602	2	
+Gidan Madakin Antan	Zangon Kataf	Kaduna	9.945	8.072	2	
+Gidan Madaki	Shiroro	Niger	10.072	6.709	2	
+Gidan Madaiki	Kurmi	Taraba	7.254	10.445	2	
+Gidan Liman	Kachia	Kaduna	9.858	7.886	2	
+Gidan Limam	Kware	Sokoto	13.100	5.267	2	
+Gidan Lifidi	Mikang	Plateau	9.028	9.393	2	
+Gidan Labo	Sabuwa	Katsina	11.350	7.083	2	
+Gidan Kyambo	Munya	Niger	9.796	7.260	2	
+Gidan Kwaso	Kajuru	Kaduna	10.040	7.680	2	
+Gidan Kuyambana	Rafi	Niger	10.254	6.390	2	
+Gidan Kurao	Rafi	Niger	10.450	6.417	2	
+Gidan Kuka	Fakai	Kebbi	11.417	4.817	2	Kuka
+Guidan Kuje	Gusau	Zamfara	12.195	6.697	2	Gidan Kuje
+Gidan Koshi	Shelleng	Adamawa	9.962	12.014	2	
+Bakin Kogi Kazare	Zangon Kataf	Kaduna	9.909	8.420	2	Gidan Kigudu
+Gidan Kauyen Bassawa	Birnin Gwari	Kaduna	10.850	6.750	2	
+Gidan Katipidna	Munya	Niger	9.631	6.983	2	
+Gidan Karowi	Ikara	Kaduna	11.322	8.117	2	Karowi
+Guidan Karte	Bungudu	Zamfara	12.135	6.760	2	Gidan Karfe
+Gidan Kaki	Nasarawa Egon	Nasarawa	8.700	8.667	2	
+Gidan Kaduna	Donga	Taraba	7.537	10.376	2	
+Guidan Kadiri	Bungudu	Zamfara	12.255	6.847	2	Gidan Kadiri
+Gidanjo	Bauchi	Bauchi	10.205	9.826	2	
+Jirlahi	Lau	Taraba	9.224	11.519	2	Gidan Jilehi
+Gidan-Jigo	Wasagu-Danko	Kebbi	11.399	6.045	2	
+Gidan Jibri	Kachia	Kaduna	9.633	8.093	2	Gidan Jibir
+Gidan Jero	Shagari	Sokoto	12.414	4.930	2	
+Guidan Jatto	Gusau	Zamfara	12.140	6.978	2	Gidan Jatto
+Gidan Jatto	Chikun	Kaduna	10.400	7.455	2	
+Mazaki	Zangon Kataf	Kaduna	9.868	8.418	2	Gidan Jatto
+Gidan Jatau	Zangon Kataf	Kaduna	9.857	8.386	2	Gidan Jatto
+Gidan Jato	Kachia	Kaduna	10.100	7.450	2	
+Gidan Jatau	Kachia	Kaduna	9.950	7.520	2	Mai-Gari
+Gidan Jatau	Donga	Taraba	7.431	10.379	2	
+Gidan Jan Bako	Rafi	Niger	10.067	6.250	2	
+Guidan Janari	Bungudu	Zamfara	12.136	6.505	2	Gidan Janari
+Gidan Isubu	Ibi	Taraba	8.342	9.983	2	
+Gidan Isa	Kurmi	Taraba	7.207	10.683	2	
+Gidan Isa	Ussa	Taraba	6.861	9.814	2	
+Gidan Le	Maru	Zamfara	12.267	6.384	2	Gidan Ile
+Guidan Idi	Gusau	Zamfara	12.060	6.781	2	Gidan Idi
+Gidan Idi	Wukari	Taraba	7.935	9.876	2	
+Gidan Ibrahim	Kachia	Kaduna	9.815	7.898	2	
+Gidan Hunu	Kagarko	Kaduna	9.576	7.395	2	
+Gidan Hassan	Kachia	Kaduna	9.947	7.720	2	
+Gidan Hassan	Kurmi	Taraba	7.303	10.582	2	
+Gidan Hardo Dangana	Jos South	Plateau	9.799	8.805	2	Gidan Hardo
+Guidan Halilu	Gusau	Zamfara	12.093	6.619	2	Gidan Halilu
+Gidan Haikimi	Augie	Kebbi	12.832	4.576	2	
+Guidan Hagu	Bungudu	Zamfara	12.147	6.574	2	Gidan Hagu
+Gidan Gwari	Kachia	Kaduna	9.534	7.223	2	
+Gidan Gwano	Darazo	Bauchi	10.988	10.373	2	
+Gidan Gurmayi	Shiroro	Niger	10.200	6.717	2	
+Gidan Gona	Kachia	Kaduna	9.984	7.900	2	
+Gidan Goma	Shiroro	Niger	9.944	6.761	2	
+Guidan Goje	Gusau	Zamfara	12.104	6.765	2	Gidan Goje
+Gidan Gizo	Kachia	Kaduna	10.117	7.433	2	
+Gidan Giwa	Arewa Dandi	Kebbi	13.036	4.400	2	
+Gidan Giwa	Kurmi	Taraba	7.192	10.699	2	Giwa
+Guidan Giasa	Maru	Zamfara	12.030	6.311	2	Gidan Giasa
+Gidan Gesa	Tangaza	Sokoto	13.527	5.166	2	
+Gidan Gayan	Igabi	Kaduna	10.704	7.748	2	
+Gidan Gawo	Illela	Sokoto	13.556	5.176	2	
+Gidan Gashi	Garki	Jigawa	12.333	9.223	2	
+Gidan Garkwa	Dange-Shuni	Sokoto	12.667	5.483	2	
+Gidan Ganuwa	Doguwa	Kano	10.564	8.710	2	Ganuwa
+Gidan Ganaga	Munya	Niger	9.788	6.877	2	Gidan Ganga
+Gidan Gamahimani	Rafi	Niger	10.200	6.100	2	
+Gidan Galadima	Maru	Zamfara	11.409	6.526	2	
+Gidan Galadima	Maru	Zamfara	11.216	6.327	2	
+Gidan Galadima	Shiroro	Niger	10.541	6.810	2	
+Gidan Galadima	Shiroro	Niger	10.200	6.450	2	
+Gidan Galadima	Shiroro	Niger	10.012	6.814	2	
+Gidan Gajere	Zangon Kataf	Kaduna	10.054	8.124	2	
+Gidan Gajere	Kachia	Kaduna	9.599	7.298	2	
+Gidan Gagaru	Kagarko	Kaduna	9.446	7.684	2	
+Gidan Fatuma	Lavun	Niger	9.672	5.306	2	Fatuma
+Guidan Fakkam	Gusau	Zamfara	12.078	6.703	2	Gidan Fakkam
+Guidan Fadama	Isa	Sokoto	13.126	6.537	2	Gidan Fadama
+Gidan el Haji	Gassol	Taraba	8.255	10.067	2	
+Gidan Dutsi	Kachia	Kaduna	10.071	7.544	2	
+Gidan Duna	Kagarko	Kaduna	9.575	7.325	2	
+Gidan Dujere	Kurmi	Taraba	7.155	10.962	2	Dujere
+Gidan Doke	Dange-Shuni	Sokoto	12.867	5.267	2	
+Gidan Dogo	Kachia	Kaduna	9.696	7.419	2	
+Gidan Dogo	Kachia	Kaduna	9.621	7.437	2	
+Gidan Dogo	Kurmi	Taraba	7.166	10.607	2	Dogo
+Gidan Dikon Sulare	Gwandu	Kebbi	12.610	4.515	2	
+Gidan Dedi	Tangaza	Sokoto	13.262	4.959	2	
+Gidan Debe	Augie	Kebbi	12.826	4.575	2	
+Gidan-Debe	Argungu	Kebbi	12.582	4.402	2	Gidan Debbi
+Guidan Dan Umoru	Tsafe	Zamfara	12.028	6.943	2	Gidan Dan Umoru
+Gidan Dan Lami	Kiru	Kano	11.414	8.158	2	Dan Lami (1)
+Gidan Danlaji	Bogoro	Bauchi	9.540	9.683	2	
+Gidan Dan Giwa	Tureta	Sokoto	12.574	5.308	2	
+Gidan Dan Damo	Sabuwa	Katsina	11.228	7.025	2	
+Gidan Dan Baki	Kachia	Kaduna	9.837	7.481	2	
+Gidan Danbabba	Mariga	Niger	10.683	6.017	2	
+Gidan Damao	Rafi	Niger	10.333	6.333	2	
+Gidan Dalawi	Munya	Niger	9.835	7.289	2	
+Gidan Dala	Kachia	Kaduna	9.951	7.406	2	
+Gidan Dajeru	Bali	Taraba	8.050	11.073	2	
+Gidan Dago	Maru	Zamfara	11.248	6.398	2	
+Gidan Chigo	Gbako	Niger	9.302	6.075	2	
+Gidan Busa	Kachia	Kaduna	9.786	7.449	2	
+Gidan Buhari	Rafi	Niger	10.467	6.417	2	
+Gidan-Budu	Tambuwal	Sokoto	12.671	4.820	2	
+Gidan Biza	Maradun	Zamfara	12.479	6.201	2	
+Gidan Biko	Argungu	Kebbi	12.806	4.523	2	
+Gidan Bidawa	Birnin Gwari	Kaduna	10.483	6.283	2	
+Gidanbi	Gwagwalada	FCT Abuja	9.021	6.881	2	
+Guidan Beriberi	Bungudu	Zamfara	12.164	6.558	2	Gidan Beriberi
+Guidan Begini	Gusau	Zamfara	12.187	6.694	2	Gidan Begini
+Gidan Baura	Shagari	Sokoto	12.631	5.098	2	Gidan Bawura
+Guidan Bawa	Gusau	Zamfara	12.044	6.742	2	Gidan Bawa
+Gidan Bawa	Giwa	Kaduna	10.750	7.150	2	
+Gidan Bawa	Kachia	Kaduna	9.812	7.900	2	
+Gidan Bauchi	Yorro	Taraba	8.747	11.651	2	
+Gidan Bature	Kurmi	Taraba	7.023	10.878	2	
+Gidan Bassa	Doma	Nasarawa	7.974	8.185	2	
+Gidan Basamu	Dange-Shuni	Sokoto	12.933	5.450	2	
+Gidan Basakuri	Shiroro	Niger	9.906	6.644	2	
+Gidan Barde	Chikun	Kaduna	10.217	7.450	2	
+Gidan-Barde	Munya	Niger	9.868	7.021	2	Gidan Barde Chibiani
+Gidan Baraji	Giwa	Kaduna	10.750	7.117	2	
+Gidan Bani	Dukku	Gombe	10.793	10.734	2	
+Gidan Bango	Illela	Sokoto	13.650	5.467	2	Gidan Bongo|Goran Bongo
+Gidan Bango	Wurno	Sokoto	13.203	5.354	2	
+Gidan Bala	Birnin Gwari	Kaduna	10.483	6.283	2	
+Guidan Bako	Gusau	Zamfara	12.128	6.642	2	Gidan Bako
+Gidan Bako	Zangon Kataf	Kaduna	9.897	8.150	2	
+Gidan-Bako	Kachia	Kaduna	9.867	7.776	2	
+Gidan Baki	Garki	Jigawa	12.356	9.225	2	Baki
+Gidan-Bakai	Munya	Niger	9.754	7.055	2	Baka
+Gidan Bahawa	Doguwa	Kano	10.604	8.720	2	Bahawa
+Gidan Banago	Paikoro	Niger	9.707	7.245	2	Gidan Bahago
+Gidan Bagudu	Rafi	Niger	10.466	6.297	2	
+Gidan Baguda	Rafi	Niger	10.208	6.376	2	
+Gidan Babale	Kachia	Kaduna	9.926	8.051	2	Gidan Baballe
+Gidan Azara	Kachia	Kaduna	9.619	7.460	2	
+Gidana-Yanmu	Kachia	Kaduna	9.872	7.839	2	
+Gidan Awane	Rafi	Niger	10.433	6.417	2	
+Guidan Awala	Tsafe	Zamfara	12.061	6.918	2	Gidan Awala
+Gidan Ausa	Lafia	Nasarawa	8.411	8.506	2	
+Gidan-Atta	Doma	Nasarawa	8.374	8.310	2	Gidan Atta|GidanAtta
+Gidan Atoro	Wukari	Taraba	7.992	10.090	2	
+Gidan Ashafa	Zangon Kataf	Kaduna	9.823	8.187	2	Gidanashafa
+Gidan Ardo Ali	Sardauna	Taraba	7.143	11.059	2	
+Gidan Anju	Bali	Taraba	8.031	11.084	2	
+Gidan Ango	Chikun	Kaduna	10.346	7.491	2	
+Guidan Anache	Bungudu	Zamfara	12.265	6.828	2	Gidan Anache
+Gidan Amale	Paikoro	Niger	9.573	7.231	2	
+Gidan-Amadu	Takum	Taraba	7.394	9.945	2	Gid Amadu
+Gidan Almustafa	Gada	Sokoto	13.683	5.633	2	
+Gidan Alkuru	Ankpa	Kogi	7.314	7.427	2	Alkuru
+Gidan Alkali	Kachia	Kaduna	9.942	7.457	2	
+Guidan Aljeni	Gusau	Zamfara	12.251	6.892	2	Gidan Aljeni
+Guidan Ali	Bungudu	Zamfara	12.217	6.615	2	Gidan Ali
+Gidan Ali	Kurmi	Taraba	7.337	10.588	2	Ali
+Gidan Alhaji	Sardauna	Taraba	7.144	11.039	2	
+Gidan Akwaja	Kachia	Kaduna	9.607	7.503	2	
+Gidan Aka	Omala	Kogi	7.632	7.618	2	Giddan Akka
+Gidan Aji	Kurmi	Taraba	7.185	10.262	2	
+Gidan Agata	Kachia	Kaduna	9.708	7.371	2	
+Gidan Adori	Rafi	Niger	10.167	6.167	2	
+Gidan Adi	Kurmi	Taraba	7.337	10.518	2	Adi
+Gidan Adamu	Kagarko	Kaduna	9.339	7.820	2	
+Gidan Adamu	Donga	Taraba	7.602	10.279	2	
+Guidan Abu	Bungudu	Zamfara	12.154	6.541	2	Gidan Abu
+Abba	Funakaye	Gombe	10.854	11.476	2	Gidan Abba
+Gidam	Shani	Borno	10.323	11.983	2	
+Gidago	Surulere	Oyo	7.939	4.388	2	
+Gida	Paikoro	Niger	9.484	6.711	2	
+Gibirawa	Augie	Kebbi	12.845	4.552	2	Gobirawa
+Giagodna	Paikoro	Niger	9.335	6.593	2	Girgondna
+Geraba	Hawul	Borno	10.456	12.286	2	Giraba
+Gedere	Arewa Dandi	Kebbi	12.615	3.790	2	Gidderi
+Garin Tudu	Fakai	Kebbi	11.627	4.551	2	Gidan Tudu
+Garin Gidado	Gassol	Taraba	8.467	10.745	2	
+Gidan Sarkin Baka	Kokona	Nasarawa	8.806	8.044	2	Gandun Sarki|GandunSarki|GidanSarkinBaka
+Fura Girki	Gusau	Zamfara	12.255	6.967	2	
+Fura Girke	Tureta	Sokoto	12.574	5.382	2	
+Dutsen Giginia	Doguwa	Kano	10.731	8.585	2	Giginia
+Duba Sarikin Pawa	Goronyo	Sokoto	13.502	5.929	2	Duba Serikin Pawa|Duban Sarkin Pawa|Gidan Sarkin Pawa
+Dogon Giginya	Giwa	Kaduna	10.883	7.217	2	
+Dogo Digiyan	Maru	Zamfara	11.206	6.400	2	Dogo Gigiyan
+Daudun Gini	Shiroro	Niger	10.025	6.756	2	
+Dan Tsofo	Barkin Ladi	Plateau	9.688	9.076	2	Gidan Tsofo
+Dabagin Gimsua	Wurno	Sokoto	13.267	5.467	2	Dabgin Gimsua
+Buga-da-gindi	Barkin Ladi	Plateau	9.760	8.960	2	Buga da Gindi
+Birni Gide	Bungudu	Zamfara	12.299	6.736	2	
+Barikin Sabon Gidar Kanat	Jos South	Plateau	9.772	8.813	2	Barakin S Gidan Kanat|Barikin Gidar Kanat|Barikin Sabon Gidan Kanat
+Balulada	Maiyama	Kebbi	12.084	4.303	2	Babulada|Rafin Gindi
+Anjidan Gida	Akwanga	Nasarawa	9.071	8.293	2	Anjida
+Gidan Gogo	Bwari	FCT Abuja	9.196	7.557	2	
+Gidan Rago	Karu	Nasarawa	9.112	7.716	2	
+Ginda	Municipal Area Council	FCT Abuja	8.941	7.509	2	
+Gidan Mudu	Karu	Nasarawa	8.901	7.648	2	
+Gidan Waziri	Karu	Nasarawa	8.902	7.618	2	
+Gidan Busa	Karu	Nasarawa	8.797	7.580	2	
+Gidan Gabbas	Minjibir	Kano	12.166	8.638	2	
+Gidan Biriti	Minjibir	Kano	12.145	8.626	2	
+Gigiyun	Minjibir	Kano	12.105	8.624	2	
+Girnashe	Isa	Sokoto	13.207	6.257	2	
+Givun	Hong	Adamawa	10.393	13.106	2	
+Girimburum	Mubi South	Adamawa	10.127	13.401	2	
+Giwa Digir	Askira-Uba	Borno	10.716	13.099	2	
+Girli	Kala-Balge	Borno	11.845	14.384	2	
+Gilamshemu	Hawul	Borno	10.336	12.156	2	
+Girim	Hawul	Borno	10.490	12.010	2	
+Gigi	Gwer East	Benue	7.327	8.417	2	
+Gida	Gwer East	Benue	7.381	8.494	2	
+Gicho	Agatu	Benue	7.784	8.083	2	
+Gidan Musa	Nasarawa	Nasarawa	7.963	8.021	2	
+Gidan Zana	Bagudo	Kebbi	11.465	3.572	2	
+Gidan Ganta	Babura	Jigawa	12.666	8.836	2	
+Gidanibra	Babura	Jigawa	12.610	8.883	2	
+Gidan Meda	Babura	Jigawa	12.586	8.913	2	
+Gidan Maja	Garki	Jigawa	12.573	8.959	2	
+Gidan Dunu	Babura	Jigawa	12.574	8.936	2	
+Yantuba Gidan Gide	Babura	Jigawa	12.538	8.825	2	
+Yadda Girma	Babura	Jigawa	12.535	8.845	2	
+Girdo	Babura	Jigawa	12.517	8.864	2	
+Gidan Kanawa	Babura	Jigawa	12.531	8.886	2	
+Gidan Kili	Garki	Jigawa	12.508	8.943	2	
+Gizo Haba	Kazaure	Jigawa	12.707	8.529	2	
+Gizo Baladi	Kazaure	Jigawa	12.696	8.521	2	
+Majin Gini	Bagwai	Kano	12.141	8.134	2	
+Gidan Dawa	Babura	Jigawa	12.413	8.797	2	
+Gidan Lege	Ringim	Jigawa	12.270	8.979	2	
+Farin Gidan	Ringim	Jigawa	12.225	8.944	2	
+Sabon Gari Gididia	Ringim	Jigawa	12.238	8.991	2	
+Gidan Galadima	Sandamu	Katsina	12.879	8.331	2	
+Gidan Gunduna	Batagarawa	Katsina	12.814	7.632	2	
+Gizaki	Bindawa	Katsina	12.643	7.843	2	
+Gidan Gari	Bindawa	Katsina	12.611	7.926	2	
+Gidan Baiye	Charanchi	Katsina	12.584	7.676	2	
+Gida Malo	Malumfashi	Katsina	12.009	7.796	2	
+Gidan Zamai	Mariga	Niger	10.241	6.032	2	
+Gidan Madawakin Kura	Mariga	Niger	10.293	6.055	2	
+Gidan Nayaya	Rafi	Niger	10.218	6.126	2	
+Gidan Magiru	Rafi	Niger	10.212	6.202	2	
+Gidan Madawakin	Rafi	Niger	10.251	6.146	2	
+Gidan Dangara	Rafi	Niger	10.260	6.196	2	
+Gidan Gamashinao	Rafi	Niger	10.259	6.117	2	
+Gidan Gamatung	Rafi	Niger	10.277	6.113	2	
+Gidan Taka	Rafi	Niger	10.281	6.144	2	
+Gidan Gamayange	Rafi	Niger	10.270	6.137	2	
+Gidan Gamagubi	Rafi	Niger	10.282	6.159	2	
+Gidan Dangana	Rafi	Niger	10.290	6.157	2	
+Gidan Maima	Rafi	Niger	10.290	6.076	2	
+Gidan Bidawa	Rafi	Niger	10.307	6.092	2	
+Gidan Koko	Rafi	Niger	10.304	6.138	2	
+Gidan Jataobuki	Rafi	Niger	10.308	6.209	2	
+Gidan Ipasu	Rafi	Niger	10.314	6.134	2	
+Gidan Gwangari	Rafi	Niger	10.339	6.043	2	
+Gidan Kibiji	Rafi	Niger	10.326	6.134	2	
+Gidan Sarikin Ushama	Rafi	Niger	10.325	6.143	2	
+Gidan Gamayange	Rafi	Niger	10.348	6.218	2	
+Gidan Gajere	Rafi	Niger	10.358	6.214	2	
+Gidan Zata	Birnin Gwari	Kaduna	10.386	6.211	2	
+Gidan Bature Makeri	Birnin Gwari	Kaduna	10.392	6.164	2	
+Gidan Gwangari	Rafi	Niger	10.386	6.078	2	
+Gidan Basakwache	Rafi	Niger	10.379	6.063	2	
+Gidan Yameyao	Rafi	Niger	10.392	6.064	2	
+Gidan Obiza	Mariga	Niger	10.408	6.010	2	
+Gidan Bugana	Rafi	Niger	10.407	6.059	2	
+Gidan Sarikan Dogari	Birnin Gwari	Kaduna	10.409	6.164	2	
+Gidan Uadam	Birnin Gwari	Kaduna	10.424	6.191	2	
+Gidan Dakari	Birnin Gwari	Kaduna	10.431	6.197	2	
+Gidan Kakangari	Birnin Gwari	Kaduna	10.452	6.162	2	
+Gidan Angu	Birnin Gwari	Kaduna	10.414	6.222	2	
+Gidan Maidoka	Rafi	Niger	10.379	6.234	2	
+Gidan Magayaki	Rafi	Niger	10.323	6.227	2	
+Gidan Angu	Rafi	Niger	10.347	6.246	2	
+Gidan Daudu	Rafi	Niger	10.371	6.282	2	
+Gidan Madudu	Rafi	Niger	10.359	6.303	2	
+Gidan Angu	Rafi	Niger	10.410	6.319	2	
+Gidan Kwabura	Mariga	Niger	10.419	6.043	2	
+Gidan Banagu	Birnin Gwari	Kaduna	10.493	6.134	2	
+Gidan Maijirigin Wakili	Mariga	Niger	10.446	6.004	2	
+Gidan Baji	Rafi	Niger	10.420	6.367	2	
+Gidan Ajingi	Rafi	Niger	10.393	6.400	2	
+Gidan Dansoho	Rafi	Niger	10.377	6.368	2	
+Gidan Maijaki	Rafi	Niger	10.368	6.372	2	
+Gidan Bala-Maleri	Rafi	Niger	10.346	6.405	2	
+Gidan Bagudu	Rafi	Niger	10.336	6.382	2	
+Gidan Biyaboki	Rafi	Niger	10.320	6.369	2	
+Gidan Adamu	Rafi	Niger	10.314	6.408	2	
+Gidan Sunauma	Rafi	Niger	10.446	6.417	2	
+Gidan Kwaruru	Rafi	Niger	10.388	6.447	2	
+Gidan Sarikan-Ringa	Rafi	Niger	10.367	6.441	2	
+Gidan Buwayi	Rafi	Niger	10.372	6.511	2	
+Gidan Zamfara	Shiroro	Niger	10.317	6.581	2	
+Gidan Magayaki	Shiroro	Niger	10.320	6.589	2	
+Gidan Machinja	Shiroro	Niger	10.356	6.767	2	
+Gidan Daudu	Shiroro	Niger	10.305	6.743	2	
+Gidan Sarikan Kokwa	Shiroro	Niger	10.396	6.840	2	
+Gidan Nabuwi	Shiroro	Niger	10.358	6.823	2	
+Gidan Baku	Mariga	Niger	10.813	6.095	2	
+Gidan Dogo	Birnin Gwari	Kaduna	10.767	6.107	2	
+Gidan Kolo	Mariga	Niger	10.764	6.012	2	
+Gidan Masegi	Birnin Gwari	Kaduna	10.752	6.170	2	
+Gidan Ishiwai	Birnin Gwari	Kaduna	10.761	6.170	2	
+Gidan Namama	Mariga	Niger	10.695	6.016	2	
+Gidan Kurihau	Birnin Gwari	Kaduna	10.687	6.120	2	
+Gidan Baibaka	Mariga	Niger	10.665	6.033	2	
+Gidan Chigudia	Birnin Gwari	Kaduna	10.675	6.151	2	
+Gidan Nawardi	Birnin Gwari	Kaduna	10.701	6.160	2	
+Gidan Kigana	Birnin Gwari	Kaduna	10.643	6.142	2	
+Gidan Dogo	Birnin Gwari	Kaduna	10.627	6.185	2	
+Gidan Baku	Mariga	Niger	10.654	6.083	2	
+Gidan Saure	Mariga	Niger	10.643	6.104	2	
+Gidan Mudi	Mariga	Niger	10.627	6.066	2	
+Gidan Sarikin-Hauma	Mariga	Niger	10.648	6.034	2	
+Gidan Maibagiwa	Birnin Gwari	Kaduna	10.618	6.121	2	
+Gidan Kolo	Mariga	Niger	10.591	6.014	2	
+Gidan Sarikin-Ubaru	Mariga	Niger	10.594	6.044	2	
+Gidan Danjima	Mariga	Niger	10.587	6.062	2	
+Gidan Galadima	Mariga	Niger	10.557	6.061	2	
+Gidan Makeri	Mariga	Niger	10.557	6.098	2	
+Gidan Dogo	Birnin Gwari	Kaduna	10.559	6.164	2	
+Gidan Galadima-Agiru	Birnin Gwari	Kaduna	10.535	6.091	2	
+Gidan Seria	Birnin Gwari	Kaduna	10.605	6.180	2	
+Gidan Dandamo	Birnin Gwari	Kaduna	10.678	6.196	2	
+Gidan Kubizaro	Birnin Gwari	Kaduna	10.670	6.207	2	
+Gidan Madawakin Nasarawa	Birnin Gwari	Kaduna	10.554	6.265	2	
+Gidan Gajere	Birnin Gwari	Kaduna	10.501	6.295	2	
+Gidan Masara	Birnin Gwari	Kaduna	10.605	6.364	2	
+Gidan Bawa	Birnin Gwari	Kaduna	10.590	6.358	2	
+Gidan Aligeta	Birnin Gwari	Kaduna	10.583	6.409	2	
+Gidan Berima	Shiroro	Niger	10.467	6.817	2	
+Gidan Zarmai	Shiroro	Niger	10.463	6.896	2	
+Gidan Mudai	Shiroro	Niger	10.445	6.891	2	
+Gidan Galadima	Shiroro	Niger	10.222	6.397	2	
+Gidan Umaru	Shiroro	Niger	10.220	6.423	2	
+Gidan Maaji	Shiroro	Niger	10.200	6.445	2	
+Gidan Maimo	Shiroro	Niger	10.191	6.424	2	
+Gidan Sarikin Doma	Shiroro	Niger	10.176	6.431	2	
+Gidan Idi	Rafi	Niger	10.183	6.361	2	
+Gidan Tukura	Rafi	Niger	10.146	6.340	2	
+Gidan Dangana	Rafi	Niger	10.119	6.379	2	
+Gidan Maiganga	Rafi	Niger	10.232	6.267	2	
+Gidan Jato Simamba	Rafi	Niger	10.215	6.220	2	
+Gidan Daiji Makeri	Rafi	Niger	10.165	6.177	2	
+Gidan Umaru	Rafi	Niger	10.187	6.168	2	
+Gidan Koshama	Rafi	Niger	10.117	6.173	2	
+Gidan Garba	Rafi	Niger	10.167	6.100	2	
+Gidan Dangana	Rafi	Niger	10.141	6.066	2	
+Gidan Tanko	Rafi	Niger	10.068	6.106	2	
+Gidan Majanjan	Rafi	Niger	10.039	6.241	2	
+Gidan Zudangi	Rafi	Niger	10.087	6.292	2	
+Gidan Sarikan Sufana	Rafi	Niger	10.065	6.306	2	
+Gidan Audu Magiru	Rafi	Niger	10.072	6.336	2	
+Gidan Barau	Rafi	Niger	10.072	6.364	2	
+Gidan Gafia	Rafi	Niger	10.101	6.387	2	
+Gidan Kafinta	Rafi	Niger	10.055	6.397	2	
+Gidan Wakayi	Rafi	Niger	10.027	6.416	2	
+Gidan Muazo	Rafi	Niger	10.015	6.384	2	
+Gidan Abarshi	Rafi	Niger	10.047	6.477	2	
+Gidan Maikomo	Rafi	Niger	10.019	6.493	2	
+Gidan Wani	Rafi	Niger	10.070	6.515	2	
+Gidan Usisi	Shiroro	Niger	10.036	6.555	2	
+Gidan Sariki	Shiroro	Niger	10.018	6.575	2	
+Gidan Bako	Shiroro	Niger	10.072	6.625	2	
+Gidan Peleta	Shiroro	Niger	10.041	6.624	2	
+Gidan Madaki	Shiroro	Niger	10.007	6.641	2	
+Gidan Kwaso	Shiroro	Niger	10.035	6.843	2	
+Gidan Madebe	Binji	Sokoto	13.281	4.955	2	
+Gidan-Here	Binji	Sokoto	13.275	4.878	2	
+Gidan Lahi	Binji	Sokoto	13.158	4.852	2	
+Giliodi	Gudu	Sokoto	13.206	4.390	2	
+Gidan Kajai	Binji	Sokoto	13.132	4.935	2	
+Gidan Barka	Augie	Kebbi	13.025	4.551	2	
+Gidan Gero	Silame	Sokoto	13.022	4.785	2	
+Gidan Buji	Binji	Sokoto	13.127	4.936	2	
+Gidan Bizo	Gada	Sokoto	13.761	5.814	2	
+Gidan Bugaji	Madaoua	Sokoto	13.736	5.991	2	
+Gidan Shekaro	Madaoua	Sokoto	13.720	5.984	2	
+Gidan Jeda	Gada	Sokoto	13.691	5.927	2	
+Gidan Kuka	Gada	Sokoto	13.721	5.826	2	
+Gidan Kiasu	Illela	Sokoto	13.730	5.343	2	
+Gidan Ajia	Illela	Sokoto	13.763	5.411	2	
+Gidan Zomo	Gada	Sokoto	13.716	5.716	2	
+Gilbedi	Gada	Sokoto	13.659	5.818	2	
+Gidan Leo	Sabon Birni	Sokoto	13.605	5.996	2	
+Gidan Atarhir	Sabon Birni	Sokoto	13.591	5.935	2	Gidan Atahir
+Gidan Yafara	Sabon Birni	Sokoto	13.579	5.927	2	
+Gidan Illo	Gada	Sokoto	13.591	5.715	2	
+Gidan Kura	Illela	Sokoto	13.669	5.446	2	
+Gidan Adua	Goronyo	Sokoto	13.557	5.806	2	Gidan Audu
+Gidan Bakuso	Gada	Sokoto	13.554	5.761	2	
+Gidanmieri	Gada	Sokoto	13.590	5.597	2	
+Gidan Isaka	Gada	Sokoto	13.564	5.535	2	
+Gidan Tudu	Illela	Sokoto	13.582	5.424	2	
+Gidan Kare	Illela	Sokoto	13.552	5.385	2	
+Gidan Illagamu	Illela	Sokoto	13.539	5.374	2	
+Gidan Sauna	Illela	Sokoto	13.566	5.182	2	
+Gidan Kaji	Goronyo	Sokoto	13.509	5.696	2	
+Gidan Tudu	Gada	Sokoto	13.506	5.710	2	
+Gidan Salihu	Goronyo	Sokoto	13.508	5.776	2	
+Gidan Shibkau	Sabon Birni	Sokoto	13.529	5.991	2	
+Gidan-Marafa	Goronyo	Sokoto	13.455	5.554	2	
+Gidan Runa	Gwadabawa	Sokoto	13.453	5.230	2	Gidan Rana
+Gidan-Alamu	Gwadabawa	Sokoto	13.342	5.171	2	
+Gidan Fulani	Kware	Sokoto	13.284	5.249	2	
+Gidan Modi	Wurno	Sokoto	13.300	5.472	2	
+Gidan Alfa	Goronyo	Sokoto	13.217	5.903	2	
+Gidan Magadji	Wurno	Sokoto	13.245	5.357	2	
+Gidan Makera	Kware	Sokoto	13.245	5.152	2	
+Gidan Zabarmawa	Wamako	Sokoto	13.194	5.150	2	
+Gidan Agulu	Binji	Sokoto	13.168	5.023	2	
+Gidan Alkali	Wamako	Sokoto	13.142	5.202	2	
+Gidan Mirabu	Rabah	Sokoto	13.082	5.481	2	
+Gidan Kobi	Kware	Sokoto	13.090	5.274	2	
+Gidan Gajeri	Wamako	Sokoto	13.097	5.188	2	
+Kombola	Wamako	Sokoto	13.102	5.034	2	Gidan Gari Kombola
+Gidan Gari	Wamako	Sokoto	13.102	5.020	2	Gidan Gari Kombola
+Gidan Badanfari	Wamako	Sokoto	13.035	5.115	2	Gidan Badamfari
+Gidan Gero	Kware	Sokoto	13.062	5.298	2	
+Gidan Soho	Kware	Sokoto	13.062	5.385	2	
+Gidan Mallam Garba	Borgu	Niger	10.885	4.339	2	
+Gidan Bawa	Borgu	Niger	10.872	4.340	2	
+Gidan Dawraji	Borgu	Niger	10.776	4.326	2	
+Gidan Medugu	Agwara	Niger	10.867	4.490	2	
+Gidan Kasuga	Agwara	Niger	10.746	4.413	2	
+Gidan Gona	Magama	Niger	10.487	4.917	2	
+Gidan Kariya	Agwara	Niger	10.701	4.474	2	
+Gidan Almuwa	Gwadabawa	Sokoto	13.513	5.297	2	
+Gidan Aihasan	Illela	Sokoto	13.509	5.458	2	Gidan Alhasan
+Gidan-Dankyamashi	Goronyo	Sokoto	13.507	5.626	2	
+Gidan-Masa	Gwadabawa	Sokoto	13.364	5.194	2	
+Gidan Chica	Gwadabawa	Sokoto	13.327	5.156	2	
+Gidan-Pamba	Wurno	Sokoto	13.312	5.442	2	
+Gidan-Boba	Wurno	Sokoto	13.271	5.419	2	
+Gidan Arizu	Kware	Sokoto	13.211	5.295	2	
+Gidan-Tambare	Kware	Sokoto	13.185	5.236	2	
+Gidan Kane	Wamako	Sokoto	13.175	5.202	2	
+Gidan Magaji	Rabah	Sokoto	13.107	5.376	2	
+Gidan Matomi	Kware	Sokoto	13.095	5.328	2	
+Gidan Makera	Kware	Sokoto	13.093	5.307	2	
+Roga Giwa	Kware	Sokoto	13.109	5.299	2	
+Gidan Megoyo	Wamako	Sokoto	13.108	5.203	2	
+Gidan Tanko	Goronyo	Sokoto	13.443	5.985	2	
+Tsamiyan Giya	Malumfashi	Katsina	11.835	7.641	2	
+Mallam Dan Gida	Bakori	Katsina	11.808	7.394	2	
+Gika	Faskari	Katsina	11.757	7.221	2	
+Gidan Daduwa	Rogo	Kano	11.494	7.689	2	
+Girga	Funtua	Katsina	11.507	7.373	2	
+Gidan Giwa	Kafur	Katsina	11.472	7.680	2	
+Gidan Bingyele	Rogo	Kano	11.471	7.790	2	
+Gidan Wula	Danja	Katsina	11.421	7.693	2	
+Gidan Mallam Sani	Danja	Katsina	11.397	7.640	2	
+Gidan Dabo	Dandume	Katsina	11.400	7.260	2	
+Gidan Dandi	Sabuwa	Katsina	11.387	7.125	2	
+Gidan Sarkin Noma	Sabuwa	Katsina	11.346	7.063	2	
+Gidan Liman	Dandume	Katsina	11.372	7.166	2	
+Gidan Sarkin Noma	Funtua	Katsina	11.341	7.365	2	
+Gidan Madobi	Danja	Katsina	11.301	7.630	2	
+Gidan Gwamkai	Danja	Katsina	11.314	7.602	2	
+Sabon Gida	Dandume	Katsina	11.321	7.219	2	
+Gidan Liman	Dandume	Katsina	11.294	7.195	2	
+Gidan Dan Auta	Sabuwa	Katsina	11.275	7.135	2	
+Gidan Mai Ungwan	Sabuwa	Katsina	11.202	7.121	2	
+Gidan Liman	Sabuwa	Katsina	11.152	7.181	2	
+Gidan Makera	Giwa	Kaduna	11.110	7.307	2	
+Gidan Adam	Giwa	Kaduna	11.079	7.086	2	
+Gidan Mallam Ali	Zaria	Kaduna	11.013	7.543	2	
+Gidan Kabawa	Fakai	Kebbi	11.577	4.597	2	
+Giro Forest Reserve	Suru	Kebbi	11.773	4.262	2	
+Gidan Naki	Fakai	Kebbi	11.686	4.816	2	
+Gidan-Masu	Fakai	Kebbi	11.605	4.906	2	
+Garin Gidi	Bagudo	Kebbi	11.382	4.274	2	
+Gidan Sule	Rijau	Niger	11.210	4.841	2	
+Gidan Madugu	Fakai	Kebbi	11.719	4.767	2	
+Gidan Dahabsa	Tureta	Sokoto	12.575	5.412	2	
+Gidan Dangaladima	Shagari	Sokoto	12.524	5.062	2	
+Gidan Sarkin-Noma	Dukku	Gombe	10.397	10.969	2	
+Gidan Mika	Faskari	Katsina	11.582	6.900	2	
+Gidan Gomna	Maru	Zamfara	11.383	6.358	2	
+Gidan Tudu	Shagari	Sokoto	12.486	4.908	2	
+Gidan Ali Maikaga	Aleiro	Kebbi	12.261	4.544	2	
+Gidan Nasarawa	Kebbe	Sokoto	12.209	4.748	2	
+Gidan-Baraji	Maru	Zamfara	11.363	6.403	2	
+Gidan Bido	Wasagu-Danko	Kebbi	11.350	6.096	2	
+Gidan Bera	Tsafe	Zamfara	11.909	6.970	2	
+Gidan Bako	Tsafe	Zamfara	11.907	6.961	2	
+Sabon Gida	Borgu	Niger	10.476	3.901	2	
+Gidanna-Barabe	Borgu	Niger	10.414	3.840	2	
+Gidan Dazabe	Ikara	Kaduna	11.458	8.109	2	
+Gidan Saidu	Ikara	Kaduna	11.415	8.104	2	
+Gidan Awaisu	Ikara	Kaduna	11.356	8.090	2	
+Gidan Wambai	Makarfi	Kaduna	11.356	8.058	2	
+Gidan Abashi	Ikara	Kaduna	11.391	8.094	2	
+Gidan Mallm Yako	Ikara	Kaduna	11.393	8.118	2	
+Gidan Garbari	Kiru	Kano	11.401	8.123	2	
+Gidan Barde	Kiru	Kano	11.399	8.176	2	
+Gidan Dankaka	Kiru	Kano	11.385	8.165	2	
+Gidan Lebura	Kiru	Kano	11.367	8.194	2	
+Gidan Sarkin Noma	Kiru	Kano	11.392	8.244	2	
+Gidan Bawa	Kiru	Kano	11.358	8.223	2	
+Gidan Liman	Ikara	Kaduna	11.254	8.116	2	
+Gidan Madugu	Ikara	Kaduna	11.193	8.200	2	
+Gidan Kogo	Sumaila	Kano	11.324	8.954	2	
+Gidan Gizo	Tudun Wada	Kano	11.303	8.758	2	
+Gidan Bagobiri	Kiru	Kano	11.493	8.169	2	
+Gidan Habu	Kiru	Kano	11.472	8.184	2	
+Gidan Talle Bamaguje	Kiru	Kano	11.425	8.222	2	
+Gidan Rogo	Kiru	Kano	11.440	8.196	2	
+Giwa	Giwa	Kaduna	11.121	7.406	2	Agbegbe Ijoba Ibile Giwa
+Giade	Giade	Bauchi	11.406	10.283	2	Agbegbe Ijoba Ibile Giade|Giade Local Government Area
+Gillam Banze	Ngala	Borno	12.368	13.991	2	
+Giwa Kirkoma	Askira-Uba	Borno	10.516	13.146	2	
+Dade Gijaja	Fika	Yobe	11.327	11.183	2	
+Gidan Dogo	Jos North	Plateau	9.892	8.938	2	
+Dorowa Gindin Dutse	Jos South	Plateau	9.743	8.858	2	
+Giring	Jos North	Plateau	9.883	8.885	2	
+Gingin	Musawa	Katsina	12.056	7.784	2	
+Lolo Giris	Bagudo	Kebbi	11.607	3.663	2	
+Gindi Nassarawa Kyarmi Galbi	Jega	Kebbi	12.237	4.332	2	
+Gidiga	Maiyama	Kebbi	12.120	4.267	2	
+Gidan Kaya	Gwadabawa	Sokoto	13.274	5.318	2	
+Gidan Madi	Tangaza	Sokoto	13.303	4.998	2	
+Gidan Kare	Tureta	Sokoto	12.575	5.622	2	
+Gidan Hamidu	Wamako	Sokoto	13.186	5.156	2	
+Gidgid Bayam	Jakusko	Yobe	12.484	10.950	2	
+Ruwan Gizo	Talata Mafara	Zamfara	12.227	5.955	2	
+Gidan Tagwai	Kachia	Kaduna	9.726	8.034	2	
+Gidan Jatau	Zangon Kataf	Kaduna	9.677	8.205	2	
+Gidan Waya	Jema'A	Kaduna	9.464	8.451	2	
+Gidan Tukara	Doma	Nasarawa	7.934	8.300	2	
+Gi	Buruku	Benue	7.512	9.030	2	
+Gidan Iga	Buruku	Benue	7.512	9.026	2	
+Gidan Amadu	Wukari	Taraba	7.895	9.500	2	
+Gidan Agubbi	Logo	Benue	7.774	9.094	2	
+Gidan Epagworo	Guma	Benue	7.639	9.033	2	
+Gidan Ander	Logo	Benue	7.663	9.113	2	
+Gidan Paiforo	Logo	Benue	7.625	9.124	2	
+Gidan Puro	Logo	Benue	7.644	9.199	2	
+Gisa	Wukari	Taraba	7.928	9.789	2	
+Sabon Gida	Wukari	Taraba	7.765	9.758	2	Sabongida
+Gidan Adibatu	Wukari	Taraba	7.953	9.875	2	
+Gidan Giwa	Wukari	Taraba	7.720	9.754	2	
+Gidan Idi	Wukari	Taraba	7.988	9.961	2	
+Girgba	Buruku	Benue	7.218	9.100	2	
+Gidan Tiv	Bali	Taraba	7.851	10.960	2	
+Gidan Chickoro	Ukum	Benue	7.498	9.687	2	
+Gidan Ateka	Katsina-Ala	Benue	7.171	9.670	2	
+Gide	Markurdi	Benue	7.769	8.517	2	
+Ginge	Gboko	Benue	7.393	8.870	2	
+Gihde	Gboko	Benue	7.293	8.913	2	
+Gidan	Edati	Niger	9.108	5.653	2	
+Gidan Yarbawa	Gbako	Niger	9.345	6.048	2	
+Gidan Zana	Gbako	Niger	9.298	6.083	2	
+Gidan Alkali	Gbako	Niger	9.158	6.076	2	
+Gidan Besheru	Gbako	Niger	9.151	6.031	2	
+Shetu Giwan	Lapai	Niger	9.125	6.681	2	
+Gidan Tuguru	Shiroro	Niger	9.939	6.639	2	
+Gidan Zarumai	Shiroro	Niger	9.955	6.658	2	
+Gidan Uriga	Shiroro	Niger	9.958	6.664	2	
+Gidan Maatsi	Shiroro	Niger	9.959	6.660	2	
+Gidan Daudo	Shiroro	Niger	9.960	6.667	2	
+Gidan Basseyi	Shiroro	Niger	9.960	6.672	2	
+Gidan Gidjiwa	Shiroro	Niger	9.962	6.675	2	
+Gidan Wusiba	Shiroro	Niger	9.964	6.676	2	
+Gidan Jagbawaya	Shiroro	Niger	9.959	6.676	2	
+Gidan Kanaiwa	Shiroro	Niger	9.942	6.701	2	
+Gidan Sama	Shiroro	Niger	9.942	6.706	2	
+Gidan Dogali	Shiroro	Niger	9.936	6.709	2	
+Gidan Barisaya	Shiroro	Niger	9.939	6.721	2	
+Gidan Galadima	Shiroro	Niger	9.944	6.745	2	
+Gidan Sule	Shiroro	Niger	9.922	6.686	2	
+Gidan Katsina	Shiroro	Niger	9.924	6.647	2	
+Gidan Jakaba Masa	Shiroro	Niger	9.900	6.634	2	
+Gidan Yarima Sama	Shiroro	Niger	9.881	6.504	2	
+Gidan Laydna	Shiroro	Niger	9.885	6.551	2	
+Gidan Sabon Gijiwa	Shiroro	Niger	9.891	6.581	2	
+Gidan Sangka	Shiroro	Niger	9.882	6.572	2	
+Gidan Gunday	Shiroro	Niger	9.872	6.578	2	
+Gidan Maidaki	Shiroro	Niger	9.856	6.573	2	
+Gidan Galadima	Shiroro	Niger	9.848	6.585	2	
+Gidan Marikuchi	Shiroro	Niger	9.848	6.585	2	
+Gidan Panjuma	Shiroro	Niger	9.846	6.612	2	
+Gidan Zarumai Dongari	Shiroro	Niger	9.874	6.627	2	
+Gidan Wonbai	Shiroro	Niger	9.852	6.639	2	
+Gidan Wala	Shiroro	Niger	9.860	6.646	2	
+Gidan Kabro	Shiroro	Niger	9.860	6.671	2	
+Gidan Galuko	Shiroro	Niger	9.866	6.703	2	
+Gidan Daudo	Shiroro	Niger	9.839	6.743	2	
+Gidan Sabuko	Shiroro	Niger	9.838	6.747	2	
+Gidan Zarumai	Shiroro	Niger	9.834	6.734	2	
+Gidan Dugo	Shiroro	Niger	9.822	6.747	2	
+Gidan Mbanwi	Shiroro	Niger	9.835	6.700	2	
+Gidan Dulukma	Shiroro	Niger	9.833	6.705	2	
+Gidan Maawi	Shiroro	Niger	9.805	6.715	2	
+Gidan Gwope	Shiroro	Niger	9.809	6.702	2	
+Gidan Kaingka	Shiroro	Niger	9.814	6.671	2	
+Gidan Kabro	Shiroro	Niger	9.823	6.652	2	
+Gidan Dogari	Shiroro	Niger	9.819	6.651	2	
+Gidan Kasan Kari	Shiroro	Niger	9.808	6.641	2	
+Gidan Badiako	Shiroro	Niger	9.797	6.629	2	
+Gidan Galadima	Shiroro	Niger	9.817	6.624	2	
+Gidan Majalu	Shiroro	Niger	9.821	6.620	2	
+Gidan Sarikin Maso	Shiroro	Niger	9.823	6.645	2	
+Gidan Mallam Musa	Shiroro	Niger	9.826	6.631	2	
+Gidan Tawali	Shiroro	Niger	9.844	6.607	2	
+Gidan Wutchi	Shiroro	Niger	9.834	6.591	2	
+Gidan Pautno	Shiroro	Niger	9.829	6.595	2	
+Gidan Doka	Shiroro	Niger	9.801	6.550	2	
+Gidan Baduko	Bosso	Niger	9.775	6.533	2	
+Gidan Sarikin Nama	Bosso	Niger	9.777	6.534	2	
+Gidan Wanna	Shiroro	Niger	9.794	6.626	2	
+Gidan Sulfida	Shiroro	Niger	9.788	6.622	2	
+Gidan Zarumai	Shiroro	Niger	9.783	6.618	2	
+Gidan Kalipi	Shiroro	Niger	9.787	6.635	2	
+Gidan Agbalo	Shiroro	Niger	9.775	6.644	2	
+Gidan Boka	Shiroro	Niger	9.777	6.648	2	
+Gidan Badakarama	Shiroro	Niger	9.796	6.652	2	
+Gidan Yukwi	Shiroro	Niger	9.785	6.674	2	
+Akaw	Shiroro	Niger	9.795	6.695	2	Gidan Akawa
+Gidan Nati	Shiroro	Niger	9.949	6.771	2	
+Gidan Tukwo	Munya	Niger	9.910	6.925	2	
+Gidan Zarumayi	Shiroro	Niger	9.919	6.824	2	
+Gidan Yaro	Shiroro	Niger	9.935	6.810	2	
+Gidan Utsiri	Shiroro	Niger	9.932	6.803	2	
+Gidan Katsina	Shiroro	Niger	9.944	6.788	2	
+Gidan Sata	Shiroro	Niger	9.930	6.810	2	
+Gidan Sagwana	Shiroro	Niger	9.938	6.779	2	
+Gidan Zaria	Shiroro	Niger	9.943	6.771	2	
+Gidan Badi	Shiroro	Niger	9.940	6.755	2	
+Gidan Arigani	Shiroro	Niger	9.936	6.770	2	
+Gidan Kwatio	Munya	Niger	9.865	6.980	2	
+Gidan Tawo	Munya	Niger	9.822	6.911	2	
+Gidan Guwi	Shiroro	Niger	9.756	6.815	2	
+Gidan Adeja	Shiroro	Niger	9.777	6.824	2	
+Gidan Wakili	Shiroro	Niger	9.782	6.826	2	
+Gidan Zeggi	Shiroro	Niger	9.782	6.823	2	
+Gidan Vimo	Shiroro	Niger	9.784	6.832	2	
+Gidan Doma Kwaiko	Shiroro	Niger	9.790	6.827	2	
+Gidan Pinayi	Shiroro	Niger	9.796	6.848	2	
+Gidan Kwabita	Shiroro	Niger	9.785	6.847	2	
+Gidan Sule	Munya	Niger	9.793	6.870	2	
+Gidan Maybatsi	Munya	Niger	9.788	6.871	2	
+Gidan Alugoy	Munya	Niger	9.777	6.877	2	
+Gidan Adugo	Munya	Niger	9.774	6.880	2	
+Gidan Gazuma	Munya	Niger	9.783	6.921	2	
+Gidan Bakaradna	Munya	Niger	9.794	6.956	2	
+Gidan Zangkaray	Munya	Niger	9.799	6.980	2	
+Gidan Bidagoy	Munya	Niger	9.783	6.968	2	
+Gidan Daka	Munya	Niger	9.775	6.962	2	
+Gidan Awako	Shiroro	Niger	9.745	6.805	2	
+Gidan Turuko	Shiroro	Niger	9.740	6.801	2	
+Gidan Busa	Shiroro	Niger	9.717	6.795	2	
+Gidan Pakama	Shiroro	Niger	9.748	6.843	2	
+Gidan Tukura	Shiroro	Niger	9.745	6.832	2	
+Gidan Gugi	Shiroro	Niger	9.739	6.840	2	
+Gidan Gugi	Shiroro	Niger	9.730	6.831	2	
+Gidan Musa	Shiroro	Niger	9.739	6.851	2	
+Gidan Akayi	Munya	Niger	9.729	6.877	2	
+Gidan Satuko	Munya	Niger	9.702	6.899	2	
+Gidan Zikasi	Munya	Niger	9.734	6.932	2	
+Gidan Galadima	Munya	Niger	9.717	6.960	2	
+Gidan Barga	Munya	Niger	9.724	6.972	2	
+Gidan Katika	Munya	Niger	9.714	6.976	2	
+Gidan Zarumayi	Munya	Niger	9.708	6.981	2	
+Gidan Gombwa	Munya	Niger	9.698	6.960	2	
+Gidan Padasaria	Munya	Niger	9.698	6.954	2	
+Gidan Matya	Munya	Niger	9.639	6.968	2	
+Gidan Kutumbo	Munya	Niger	9.659	6.943	2	
+Gidan Finape	Munya	Niger	9.676	6.932	2	
+Gidan Kaburo	Munya	Niger	9.640	6.901	2	
+Gidan Lugwo	Munya	Niger	9.670	6.889	2	
+Gidan Jikwo	Shiroro	Niger	9.678	6.806	2	
+Gidan Kuwlo	Shiroro	Niger	9.679	6.816	2	
+Gidan Adjata	Shiroro	Niger	9.686	6.828	2	
+Gidan Galadima	Munya	Niger	9.682	6.884	2	
+Gidan Kongo	Munya	Niger	9.666	6.881	2	
+Gidan Awta	Munya	Niger	9.648	6.894	2	
+Gidan Dingge	Munya	Niger	9.652	6.848	2	
+Gidan Dibata	Munya	Niger	9.651	6.845	2	
+Gidan Bikwo	Munya	Niger	9.639	6.878	2	
+Gidan Zeggi	Shiroro	Niger	9.634	6.845	2	
+Gidan Berde Galadima	Munya	Niger	9.595	6.932	2	
+Gidan Saudna	Munya	Niger	9.603	6.935	2	
+Gidan Kukma	Munya	Niger	9.611	6.941	2	
+Gidan Kadjita	Munya	Niger	9.636	6.975	2	
+Gidan Wakili	Munya	Niger	9.588	6.998	2	
+Gindi Dutse	Bosso	Niger	9.719	6.525	2	
+Gidan Sugbi	Bosso	Niger	9.716	6.623	2	
+Gidan Dagma	Bosso	Niger	9.709	6.639	2	
+Gidan Agugu	Shiroro	Niger	9.720	6.675	2	
+Gidan Makam	Bosso	Niger	9.669	6.630	2	
+Gidan Mayo	Shiroro	Niger	9.635	6.738	2	
+Gidan Pasama	Shiroro	Niger	9.643	6.726	2	
+Gidan Tukura	Chanchaga	Niger	9.582	6.551	2	
+Gidan Dogo	Bosso	Niger	9.578	6.529	2	
+Gijaro	Mayo-Belwa	Adamawa	8.848	12.018	2	
+Wuro Giye	Jada	Adamawa	8.621	12.021	2	
+Wuro Gidou	Jada	Adamawa	8.743	12.327	2	
+Gidou	Fufore	Adamawa	8.946	12.402	2	
+Gijaro	Fufore	Adamawa	8.993	12.181	2	
+Gidan Dan Galadima	Paikoro	Niger	9.677	7.249	2	
+Gidan Garba	Paikoro	Niger	9.629	7.234	2	
+Gidan Kaboro	Munya	Niger	9.675	7.136	2	
+Gidan Yusufu	Kachia	Kaduna	9.750	7.475	2	
+Gidan-Gwari	Paikoro	Niger	9.634	7.272	2	
+New Gidan Kwaso	Kagarko	Kaduna	9.535	7.502	2	
+Gidan Mangwa	Kachia	Kaduna	9.872	7.483	2	
+Gidan-Musa	Munya	Niger	9.914	7.019	2	
+Gidan-Sarkin Koda	Munya	Niger	9.915	7.044	2	
+Gidan-Gwari	Munya	Niger	9.858	7.028	2	
+Gidan Kundi	Jaba	Kaduna	9.441	7.952	2	
+Ankul Gida	Jaba	Kaduna	9.399	7.975	2	
+Gidan Sarki	Kagarko	Kaduna	9.384	7.810	2	
+Girgwa	Kagarko	Kaduna	9.301	7.841	2	
+Girgo	Kagarko	Kaduna	9.311	7.862	2	
+Gidan Abe	Karu	Nasarawa	9.255	7.865	2	
+Gidan Bina	Karu	Nasarawa	9.281	7.897	2	
+Gidan Waziri	Karu	Nasarawa	9.304	7.901	2	
+Gidan Sarkinago	Kagarko	Kaduna	9.313	7.881	2	
+Gidan Habu	Karu	Nasarawa	9.238	7.880	2	
+Sabon Gida	Karu	Nasarawa	9.226	7.860	2	
+Gidan Kako	Karu	Nasarawa	9.170	7.965	2	
+Gidan Umaru	Karu	Nasarawa	9.162	7.954	2	
+Gidan Madaki	Karu	Nasarawa	9.145	7.989	2	
+Gidan Baushe	Karu	Nasarawa	9.168	7.912	2	
+Gidan Kuzoto	Karu	Nasarawa	9.129	7.904	2	
+Gidan Oji	Karu	Nasarawa	9.155	7.903	2	
+Gidan Ilan	Karu	Nasarawa	9.169	7.894	2	
+Gidan Shehu	Karu	Nasarawa	9.179	7.874	2	
+Gidan Kako	Karu	Nasarawa	9.170	7.882	2	
+Gidan Mammu	Karu	Nasarawa	9.154	7.880	2	
+Gidan Kasuwa	Karu	Nasarawa	9.168	7.861	2	
+Gidan Uji	Karu	Nasarawa	9.136	7.880	2	
+Gidan Galadima	Karu	Nasarawa	9.155	7.856	2	
+Gidan Epara	Karu	Nasarawa	9.128	7.851	2	
+Gidan Ejigba	Karu	Nasarawa	9.138	7.847	2	
+Gidan Gida	Karu	Nasarawa	9.153	7.831	2	
+Gidan Ajigbo	Karu	Nasarawa	9.142	7.828	2	
+Gidan Baushe	Karu	Nasarawa	9.176	7.832	2	
+Gidan Lukwi	Karu	Nasarawa	9.118	7.790	2	
+Gidan Bahago	Karu	Nasarawa	9.121	7.820	2	
+Gidan Labaki	Karu	Nasarawa	9.101	7.820	2	
+Gidan Ausha	Karu	Nasarawa	9.099	7.825	2	
+Gidan Panbaki	Karu	Nasarawa	9.093	7.851	2	
+Gidan Ade	Karu	Nasarawa	9.087	7.825	2	
+Gidan Ijikpa	Karu	Nasarawa	9.096	7.801	2	
+Gidan Obaro	Karu	Nasarawa	9.087	7.798	2	
+Gidan Gona	Karu	Nasarawa	9.082	7.823	2	
+Gidan Oge	Karu	Nasarawa	9.080	7.838	2	
+Gidan Danboyi	Karu	Nasarawa	9.076	7.816	2	
+Gidan Patauchi	Karu	Nasarawa	9.127	7.861	2	
+Gidan Okara	Karu	Nasarawa	9.121	7.873	2	
+Gidan Ngeru	Karu	Nasarawa	9.122	7.907	2	
+Gidan Alan	Karu	Nasarawa	9.110	7.908	2	
+Gidan Kura	Karu	Nasarawa	9.114	7.927	2	
+Gidan Jawo	Karu	Nasarawa	9.113	7.917	2	
+Gidan Ashe	Karu	Nasarawa	9.111	7.920	2	
+Gidan Audu	Karu	Nasarawa	9.096	7.904	2	
+Gidan Ajaye	Karu	Nasarawa	9.095	7.894	2	
+Gidan Ajua	Karu	Nasarawa	9.092	7.905	2	
+Gidan Tukura	Karu	Nasarawa	9.087	7.926	2	
+Gidan Anjo	Karu	Nasarawa	9.075	7.892	2	
+Gidan Takati	Karu	Nasarawa	9.072	7.914	2	
+Gida Jatau	Karu	Nasarawa	9.097	7.977	2	
+Gidan Magaji	Karu	Nasarawa	9.060	7.900	2	
+Gidan Kuska	Karu	Nasarawa	9.064	7.893	2	
+Gidan Tekpa	Karu	Nasarawa	9.049	7.924	2	
+Gidan Kampani	Karu	Nasarawa	9.033	7.931	2	
+Gidan Pataki	Kokona	Nasarawa	9.029	7.937	2	
+Gidan Agwai	Kokona	Nasarawa	9.017	7.956	2	
+Gidan Audu	Kokona	Nasarawa	9.034	7.969	2	
+Gidan Awara	Kokona	Nasarawa	9.021	7.988	2	
+Gidan Paali	Karu	Nasarawa	9.065	7.804	2	
+Gidan Aleku	Karu	Nasarawa	9.056	7.820	2	
+Gidan Amari	Karu	Nasarawa	9.038	7.871	2	
+Gidan Audu	Karu	Nasarawa	9.067	7.937	2	
+Gidan-Kwasau	Kagarko	Kaduna	9.487	7.508	2	
+Gidan Turaki	Kagarko	Kaduna	9.440	7.636	2	
+Sabon-Gida	Kagarko	Kaduna	9.402	7.703	2	
+Gidan-Dutse	Kagarko	Kaduna	9.389	7.675	2	
+Gidan-Ciso	Kagarko	Kaduna	9.383	7.714	2	
+Gidan-Bijimi	Bwari	FCT Abuja	9.362	7.658	2	
+Gidan Bawa	Kachia	Kaduna	9.739	7.682	2	
+Gidan-Dare	Kachia	Kaduna	9.658	7.603	2	
+Gidan Madaki	Kachia	Kaduna	9.654	7.602	2	
+Gidan Dandoka	Kachia	Kaduna	9.640	7.622	2	
+Gidan Galadima	Kachia	Kaduna	9.664	7.569	2	
+Gidan Tankokurutu	Kachia	Kaduna	9.675	7.554	2	
+Gidan Abaseya	Kachia	Kaduna	9.655	7.521	2	
+Gidan Dogon Yaro	Kagarko	Kaduna	9.609	7.687	2	
+Gidan Abasa	Kagarko	Kaduna	9.554	7.740	2	
+Gidan Sarki Gitata	Karu	Nasarawa	9.109	7.956	2	
+Gidan Agu	Karim Lamido	Taraba	8.736	10.525	2	
+Gida-Giwa	Wase	Plateau	8.608	10.016	2	
+Giwa Kogi	Wase	Plateau	8.944	10.288	2	Gwa Kogi
+Gimbi	Wase	Plateau	8.956	10.261	2	
+Gidan Me Agbagba	Karim Lamido	Taraba	8.701	10.402	2	
+Gidan Seriki Numa	Gassol	Taraba	8.526	10.476	2	
+Giwa	Shendam	Plateau	8.924	9.726	2	
+Gindi	Shendam	Plateau	8.830	9.679	2	
+Gidan-Damok	Langtang North	Plateau	8.872	9.806	2	
+Gidan Ali	Wase	Plateau	8.893	9.881	2	
+Ungwan Ginginya	Sanga	Kaduna	9.246	8.384	2	
+Ungwan Gimba	Sanga	Kaduna	9.179	8.433	2	
+Gingir	Akwanga	Nasarawa	9.056	8.395	2	Gwgir
+Gikoso	Akwanga	Nasarawa	9.006	8.201	2	
+Sabon Gidan Kwoi	Jaba	Kaduna	9.432	8.011	2	
+Kogun Gindi	Jema'A	Kaduna	9.292	8.222	2	
+Sabon Gini	Zangon Kataf	Kaduna	9.875	8.457	2	
+Goran Gida	Zangon Kataf	Kaduna	9.846	8.333	2	
+Ramai Gida	Zangon Kataf	Kaduna	9.764	8.280	2	
+Gidan Maga	Zangon Kataf	Kaduna	9.686	8.118	2	
+Gidan Jato	Zangon Kataf	Kaduna	9.702	8.177	2	
+Zuturu Gida	Zangon Kataf	Kaduna	9.748	8.215	2	
+Gidan Makam	Kachia	Kaduna	9.630	8.089	2	
+Gidan Sani	Jaba	Kaduna	9.613	8.103	2	
+Gidan Zango	Kachia	Kaduna	9.634	8.056	2	
+Marsa Gida	Zangon Kataf	Kaduna	9.613	8.186	2	
+Ungwan Gimba	Zangon Kataf	Kaduna	9.912	8.197	2	
+Ungwan Giwa	Zangon Kataf	Kaduna	9.894	8.200	2	
+Gidanbiri	Kachia	Kaduna	9.870	8.008	2	
+Gidan Umaru	Zangon Kataf	Kaduna	9.834	8.238	2	
+Gindi Dutse	Barkin Ladi	Plateau	9.458	8.974	2	
+Giyer	Qua'An Pan	Plateau	8.977	9.105	2	
+Sabon Gida	Qua'An Pan	Plateau	8.707	9.154	2	
+Girakhas	Qua'An Pan	Plateau	8.924	9.279	2	
+Makaama	Shendam	Plateau	8.958	9.435	2	Gidan Makama
+Sabon-Gida	Qua'An Pan	Plateau	8.593	9.270	2	
+Gidan Adamu	Shendam	Plateau	8.930	9.457	2	
+Gidan Kogi	Wase	Plateau	9.013	9.891	2	
+Gimpawo	Yola North	Adamawa	9.347	12.355	2	
+Gimpawo	Girei	Adamawa	9.336	12.497	2	
+Gimpawa	Yola North	Adamawa	9.242	12.339	2	
+Gireji	Yola North	Adamawa	9.201	12.434	2	
+Gidan-Kaya	Larmurde	Adamawa	9.447	11.594	2	
+Gindi Dutse	Numan	Adamawa	9.274	11.749	2	
+Gilagila	Demsa	Adamawa	9.324	11.982	2	
+Gidan Rimi	Demsa	Adamawa	9.316	11.815	2	
+Gidan Makeri	Demsa	Adamawa	9.318	11.839	2	
+Girle Kura	Ngala	Borno	12.291	14.266	2	
+Girle Gana	Ngala	Borno	12.295	14.264	2	
+Jauro Hamma	Alkaleri	Bauchi	9.859	10.908	2	Gidan Jauro Hamma
+Jauro Gani	Alkaleri	Bauchi	9.839	10.882	2	Gidan Jauro Gano
+Gila	Billiri	Gombe	9.719	10.973	2	Gilo
+Gidan Dari	Alkaleri	Bauchi	9.615	10.951	2	
+Girowo	Karim Lamido	Taraba	9.409	10.689	2	
+Gidan Chomo	Karim Lamido	Taraba	9.178	11.149	2	
+Gidi-Gidi	Egbeda	Oyo	7.344	4.114	2	
+Gidarwo	Fufore	Adamawa	9.212	12.704	2	
+Giere	Fufore	Adamawa	9.192	12.633	2	
+Mayo Girei	Girei	Adamawa	9.402	12.471	2	
+Giere	Fufore	Adamawa	9.452	12.643	2	
+Gidan Gandosuna	Baruten	Kwara	9.524	3.285	2	
+Gidi-Ogbo	Ife East	Osun	7.374	4.583	2	
+Giwa Olowo	Moro	Kwara	8.814	4.276	2	
+Giwafa	Wamba	Nasarawa	8.932	8.561	2	
+Sabon Gida	Qua'An Pan	Plateau	8.786	8.959	2	
+Gidan Buba	Lafia	Nasarawa	8.676	8.763	2	
+Gidan Gambo	Lafia	Nasarawa	8.625	8.896	2	
+Gidan Yakubu	Lafia	Nasarawa	8.688	8.687	2	Gidan Yakubu Lungu|GidanYakubu|GidanYakubuLungu
+Gidan Madaki	Lafia	Nasarawa	8.677	8.683	2	
+Gidan-Alkali	Lafia	Nasarawa	8.643	8.656	2	Gidan-Aikali
+Gidan-Eje	Lafia	Nasarawa	8.555	8.708	2	
+Gidan Tanko	Kokona	Nasarawa	8.966	8.145	2	
+Sabon Gida	Kokona	Nasarawa	8.848	8.014	2	
+Gidan Wase	Kokona	Nasarawa	8.851	8.047	2	
+Gidan Umoro	Kokona	Nasarawa	8.796	8.048	2	
+Gidan Mada	Kokona	Nasarawa	8.852	8.216	2	
+Sabon Gida	Kokona	Nasarawa	8.784	8.015	2	
+Giwa	Ifelodun	Kwara	8.479	4.794	2	
+Gidan Ndayama	Mokwa	Niger	9.203	4.886	2	GidanNdayama
+Gidar Sana	Mokwa	Niger	9.205	4.854	2	Chikanji|GidarSana
+Gidan-Arago	Doma	Nasarawa	8.365	8.282	2	
+Gidan-Nawo	Doma	Nasarawa	8.379	8.314	2	
+Gidan Zabutu	Nasarawa	Nasarawa	8.200	8.072	2	Gidan-Zabutu|GidanZabutu
+Gidan Anyabe	Nasarawa	Nasarawa	8.205	8.067	2	
+Gidan-Jirigi	Nasarawa	Nasarawa	8.224	8.121	2	
+Gidan Sana	Nasarawa	Nasarawa	8.212	8.112	2	
+Gidan Ukoh	Nasarawa	Nasarawa	8.209	8.109	2	
+Gidire	Teungo	Adamawa	8.098	12.041	2	
+Gidan Bili	Ganye	Adamawa	8.401	11.651	2	GidanBili
+Gidan Awure	Demsa	Adamawa	9.574	12.259	2	GidanAwure
+Mayo Giraba	Song	Adamawa	9.785	12.779	2	MayoGiraba
+Ruwan-gida	Nasarawa	Nasarawa	8.106	7.411	2	
+Gidin Dutse	Sardauna	Taraba	7.009	11.393	2	GidinDutse
+Gidan Gbaka	Sardauna	Taraba	6.958	10.877	2	
+Gidan Kaka	Nasarawa	Nasarawa	8.541	7.652	2	GidanKaka
+Gidan-Biri	Nasarawa	Nasarawa	8.537	7.691	2	
+Gidan Kubi	Nasarawa	Nasarawa	8.729	7.554	2	GidanKubi
+Gidan-Olu	Nasarawa	Nasarawa	8.655	7.649	2	
+Gidan-Kabulu	Karu	Nasarawa	8.737	7.662	2	
+Gidan Maishanu	Nasarawa	Nasarawa	8.603	7.671	2	GidanMaishanu
+Gidan-Ajesa	Karu	Nasarawa	8.736	7.657	2	
+Gidan-Tukura	Karu	Nasarawa	8.748	7.920	2	
+Gidan-Magajia	Nasarawa	Nasarawa	8.679	7.696	2	
+Girigo	Nasarawa	Nasarawa	8.639	7.729	2	
+Gidan Koro	Karu	Nasarawa	8.749	7.896	2	GidanKoro
+Gidan-Biri	Nasarawa	Nasarawa	8.617	7.716	2	
+Gidan-Tabo	Karu	Nasarawa	8.745	7.897	2	
+Gidan-Audi	Nasarawa	Nasarawa	8.673	7.652	2	
+Gidan-Aso	Karu	Nasarawa	8.742	7.660	2	
+Gidan-Biri	Nasarawa	Nasarawa	8.627	7.684	2	
+Gidan-Waru	Nasarawa	Nasarawa	8.700	7.672	2	
+Gidan-Bassa	Nasarawa	Nasarawa	8.707	7.652	2	
+Gidan Audu	Municipal Area Council	FCT Abuja	8.865	7.326	2	GidanAudu
+Gidan Bawa	Municipal Area Council	FCT Abuja	8.873	7.340	2	GidanBawa
+Gidan-Bahagwo	Municipal Area Council	FCT Abuja	8.900	7.374	2	
+Gidan Jatau	Municipal Area Council	FCT Abuja	8.932	7.254	2	GidanJatau
+Gidansa	Municipal Area Council	FCT Abuja	8.937	7.276	2	
+Gidan-Gwari	Municipal Area Council	FCT Abuja	8.884	7.470	2	
+Gidan-Choko	Municipal Area Council	FCT Abuja	8.869	7.429	2	
+Giwau Kurmi	Municipal Area Council	FCT Abuja	8.910	7.374	2	GiwauKurmi
+Gidan-Giwa	Kokona	Nasarawa	8.712	8.140	2	
+Gidan-Mangoro	Kokona	Nasarawa	8.659	8.156	2	
+Gidan Magaji	Sardauna	Taraba	6.565	11.336	2	
+Mai Gimba	Sardauna	Taraba	6.843	11.076	2	
+Gidan Mba	Sardauna	Taraba	6.942	11.476	2	
+Giwa	Iwo	Osun	7.676	4.082	2	
+Gidan	Doma	Nasarawa	7.944	8.228	2	
+Sabon Gida	Bosso	Niger	9.737	6.338	2	
+Gira	Song	Adamawa	9.941	12.538	2	
+Sabon Gida	Kwali	FCT Abuja	8.677	6.953	2	SabonGida
+Gimbiya Street	Municipal Area Council	FCT Abuja	9.041	7.504	1	
+Gimba Road	Kaduna North	Kaduna	10.547	7.449	1	
+Giwa Amu Road	Oredo	Edo	6.311	5.604	1	
+Ojo Giwa Street	Lagos Island	Lagos	6.460	3.391	1	
+Ayinde Giwa Street	Oshodi/Isolo	Lagos	6.522	3.324	1	
+Karimu Giwa Street	Eti Osa	Lagos	6.443	3.425	1	
+Layin Farin Gida	Tarauni	Kano	11.971	8.555	1	
+Benoni Road	Oredo	Edo	6.308	5.603	1	Giwa Amu Lane
+Gidan Mai Roundabout	Bauchi	Bauchi	10.320	9.823	1	
+Giwa Street	Mushin	Lagos	6.530	3.364	1	
+Sumonu Giwa Street	Alimosho	Lagos	6.637	3.295	1	
+Giwa-Amu Street	Warri South	Delta	5.537	5.751	1	
+Ginuwa Road Warri	Warri South	Delta	5.518	5.752	1	
+Idris Giris Illo Road	Birnin Kebbi	Kebbi	12.444	4.178	1	
+girgiri filling station	Maiduguri	Borno	11.849	13.142	1	
+Abakpa Girls Secondary School Road	Enugu East	Enugu	6.482	7.533	1	
+Urban Girls Secondary School	Enugu North	Enugu	6.429	7.501	1	
+Gillis Onyeabor Street	Enugu North	Enugu	6.439	7.538	1	
+Giraffe Street	Enugu East	Enugu	6.469	7.508	1	
+Layin Gidan Deneji	Tarauni	Kano	11.976	8.560	1	
+Gidan Hakimi Road	Tofa	Kano	12.059	8.272	1	
+Layin gidan sanjaji	Kumbotso	Kano	11.890	8.501	1	
+Giwa Afunpotu Street	Ìkòròdú	Lagos	6.625	3.501	1	
+junction Layin Gidan Kashi	Kumbotso	Kano	11.954	8.479	1	
+Gidan Kifi Street	Kano Municipal	Kano	11.974	8.532	1	
+Gidan Kasa Street	Ungongo	Kano	11.979	8.448	1	
+Layin gidan bene	Kumbotso	Kano	11.891	8.501	1	
+Layin gidsn hakimi	Kumbotso	Kano	11.892	8.502	1	
+Layin gidan malan audu	Kumbotso	Kano	11.890	8.499	1	
+Sir Rufus Foluso Giwa Street	Eti Osa	Lagos	6.443	3.463	1	
+Gideon Ngwaba Street	Eti Osa	Lagos	6.488	3.590	1	
+Gidan YanBama	Jere	Borno	11.791	13.178	1	
+Gilbert Odior Street	Eti Osa	Lagos	6.471	3.578	1	
+Dr. Gideon Nweze Ave.	Owerri Municipal	Imo	5.482	7.011	1	
+Abayomi Giwa Street	Ojo	Lagos	6.457	3.169	1	
+Giwa Street	Ifako/Ijaye	Lagos	6.659	3.317	1	
+Moninuola Giwa Street	Eti Osa	Lagos	6.485	3.580	1	
+Gideon Obhakhan Close	Eti Osa	Lagos	6.467	3.622	1	
+Gisanri Street	Ìkòròdú	Lagos	6.630	3.483	1	
+Ramot Giwa Close	Eti Osa	Lagos	6.501	3.586	1	
+Gidan YanManguno	Jere	Borno	11.806	13.176	1	
+Gidan Bredi	Jere	Borno	11.805	13.170	1	
+Gideon Adeniran Street	Alimosho	Lagos	6.640	3.301	1	
+Gideon Inabor Street	Isoko North	Delta	5.532	6.210	1	
+Layin gidan ado	Kumbotso	Kano	11.890	8.497	1	
+Girls school Road	Esan West	Edo	6.751	6.116	1	
+Layin Gidan Kashi	Kumbotso	Kano	11.953	8.478	1	
+Layin Gidan Inyass	Kumbotso	Kano	11.950	8.475	1	
+Layin Gidan Mutum 30	Kumbotso	Kano	11.951	8.475	1	
+Gidan Leda Street	Kumbotso	Kano	11.951	8.534	1	
+Gidan Leda Street	Kumbotso	Kano	11.952	8.536	1	
+Gil Gal Close	Enugu East	Enugu	6.469	7.546	1	
+Giasom Close	Eti Osa	Lagos	6.478	3.573	1	
+Gideon Avenue	Ikpoba-Okha	Edo	6.350	5.651	1	
+Gidan Mata Station	Bosso	Niger	9.738	6.236	0	
+Gimi Station	Makarfi	Kaduna	11.336	7.918	0	
+Word Sworth Gifted School	Oredo	Edo	6.299	5.608	0	
+Oredo Girls Junior/ Senior Secondary School	Oredo	Edo	6.324	5.630	0	
+Gius Obaseki Group of Schools	Oredo	Edo	6.346	5.629	0	
+Trans Ekulu Girls Secondary School	Enugu East	Enugu	6.477	7.502	0	
+Gidan Nisau Health Post	Kunchi	Kano	12.358	8.193	0	
+Baptist Girls High School	Osogbo	Osun	7.769	4.545	0	
+Turban Gida Health Facility	Tarmua	Yobe	12.468	11.678	0	
+Turban Gida Health Facility	Borsari	Yobe	12.508	11.674	0	
+Government Girls Secondary School	Mariga	Niger	10.141	6.006	0	
+Gilgal Dental Clinics	Eti Osa	Lagos	6.448	3.430	0	
+Girls Seconadry School	Owerri Municipal	Imo	5.487	7.021	0	
+Federal Government Girls College	Owerri Municipal	Imo	5.501	7.034	0	
+girls technical college	Aba North	Abia	5.124	7.385	0	
+Mercy Girls college	Aba North	Abia	5.120	7.384	0	
+Babban Giji Secondary School, Karkasara	Tarauni	Kano	11.959	8.545	0	
+Gyadi Gyadi, Girls Secondary School	Tarauni	Kano	11.968	8.545	0	
+GIGM	Uvwie	Delta	5.548	5.781	0	
+Joinkramer Girls Secondary School	Yenegoa	Bayelsa	5.170	6.496	0	
+GIGM	Yenegoa	Bayelsa	4.935	6.310	0	
+Gina Montessori Academy	Yenegoa	Bayelsa	4.946	6.343	0	
+Giweo	Ikwerre	Rivers	4.925	6.922	0	
+Ogbomoso Girl's High School	Ogbomosho North	Oyo	8.161	4.245	0	
+Giwa Hospital	Kaduna North	Kaduna	10.543	7.433	0	
+Fiwasaye Girls' Grammar School	Akure North	Ondo	7.258	5.219	0	
+Ginga Clinic	Suru	Kebbi	12.041	4.075	0	
+Federal Government Girl's College, Imiringi	Ogbia	Bayelsa	4.862	6.373	0	
+City girls College	Enugu North	Enugu	6.433	7.503	0	
+Ginza medical center	Jos North	Plateau	9.928	8.881	0	
+Maman Gimbiya clinic kabong	Jos North	Plateau	9.927	8.870	0	
+Government Girls Secondary School	Sabon Gari	Kaduna	11.170	7.660	0	
+Gibril Aminu model school	Bauchi	Bauchi	10.310	9.799	0	
+Farin Gida Alpha Specialist Hospital	Kaduna North	Kaduna	10.582	7.418	0	
+Gimo Maternity Buba Sauri Road Romi	Kaduna North	Kaduna	10.532	7.424	0	
+Giltoo Aris Specialist Hospital	Kaduna South	Kaduna	10.482	7.428	0	
+Divine Gift Medical Centre Hospital	Amuwo Odofin	Lagos	6.446	3.222	0	
+Isabatudeen Girls Grammar School	Lagelu	Oyo	7.422	3.941	0	
+Giant IBK	Akure South	Ondo	7.292	5.153	0	
+Giant Villa	Akure South	Ondo	7.290	5.149	0	
+Regina Mundi Girls Secondary School	Iwo	Osun	7.640	4.170	0	
+Gidan Gado Science Academy And Islamiyya	Ungongo	Kano	12.050	8.579	0	
+Govt Girl Dorayi Karama	Gwale	Kano	11.967	8.473	0	
+Girls' Secondary School	Nnewi North	Anambra	6.041	6.895	0	Anglican Girls Secondary school
+Gig Logistics Gwarinpa 2	Municipal Area Council	FCT Abuja	9.117	7.392	0	
+Gig Mobility (Gigm) Utako	Municipal Area Council	FCT Abuja	9.065	7.440	0	
+Gilmore Bus Stop	Municipal Area Council	FCT Abuja	9.020	7.497	0	
+Ginsawa Health Post	Tofa	Kano	12.029	8.259	0	
+Gilar Dispensary	Jama'Are	Bauchi	11.718	9.958	0	
+Rinjin Gingin Dispensary	Toro	Bauchi	10.225	9.259	0	
+Giraka Dispensary	Bauchi	Bauchi	9.936	9.863	0	
+Sabon Gidan	Tafawa-Balewa	Bauchi	9.918	9.813	0	
+Federal University of Technology, Minna	Bosso	Niger	9.525	6.448	0	Main Campus (Gidan Kwano)
+Government Girls College	Maiduguri	Borno	11.832	13.141	0	
+Yerma - Government Girls Secondary School (GGSS)	Maiduguri	Borno	11.834	13.121	0	
+Giweo International Academy	Ikwerre	Rivers	4.925	6.922	0	
+Amuzukwu Girls High School	Umuahia North	Abia	5.542	7.501	0	
+Federal Government Girls' College	Port-Harcourt	Rivers	4.782	7.051	0	
+Anwar ul-Islam Girls High School	Ifako/Ijaye	Lagos	6.661	3.295	0	
+Waziri Gidado General Hospital	Dala	Kano	12.058	8.470	0	
+Gidan Sarkin Noma Primary Health Centre	Gaya	Kano	11.823	9.120	0	
+Giade Maternity and Child Health Center	Giade	Bauchi	11.386	10.184	0	
+Giade General Hospital	Giade	Bauchi	11.387	10.210	0	
+Gidan Mada Dispensary	Warji	Bauchi	11.232	9.624	0	
+Gidan Waya Dispensary	Ganjuwa	Bauchi	10.565	10.088	0	
+Gidan Ganji Primary Center	Itas/Gadau	Bauchi	11.853	9.965	0	
+Gidgid Hamma Primary Health Center	Tafawa-Balewa	Bauchi	9.598	9.807	0	
+Gizaki Community Primary Health Care	Bogoro	Bauchi	9.585	9.650	0	
+Rumde Giwa Health Post	Fufore	Adamawa	8.980	12.225	0	
+Gishiwari Dispensary	Fune	Yobe	11.632	11.372	0	
+Anglican Girls Grammar School	Odogbolu	Ogun	6.835	3.904	0	
+St louis girls secoundary school	Jos North	Plateau	9.926	8.880	0	
+Anglican Girls Grammar School	Municipal Area Council	FCT Abuja	9.011	7.474	0	AGGS
+Air Force Girls Comprehensive School	Municipal Area Council	FCT Abuja	8.979	7.265	0	
+Gift Hospital	Oredo	Edo	6.342	5.621	0	
+Mount Gilead Hospital	Egor	Edo	6.372	5.614	0	

@@ -1,9 +1,9 @@
+Ejigbo	Ejigbo	Osun	7.900	4.317	3	
+Ejule	Ofu	Kogi	7.359	7.099	3	
 Odo-Oba	Oyo East	Oyo	7.850	4.067	2	Odo Oba Ejemu;Odo-Oba;Odo-Awba
 Ejikulu	Ofu	Kogi	7.250	7.150	2	Ejikolu
 Ejekiri	Akuku Toru	Rivers	4.428	6.548	2	Markkiri;Ejekiri
 Apiapum Eja	Abakaliki	Ebonyi	6.279	8.395	2	Opiapum
-Ejigbo	Ejigbo	Osun	7.900	4.317	3	
-Ejule	Ofu	Kogi	7.359	7.099	3	
 Ejenessan	Ethiope West	Delta	5.862	5.793	2	
 Ejekwe	Yala	Cross River	6.565	8.432	2	Ezekwe
 Ejeba	Warri South	Delta	5.540	5.737	2	
@@ -22,18 +22,70 @@ Ejeba	Ughelli North	Delta	5.619	6.101	2
 Ejirawo	Ikom	Cross River	6.098	8.602	2	Ajiriwo
 Ejirin	Epe	Lagos	6.615	3.896	2	
 Ejibafun	Ikom	Cross River	6.096	8.469	2	Ejibafut
-Ejigbo Town Hall	Ejigbo	Osun	7.903	4.314	0	
 Ejima	Agatu	Benue	8.005	7.699	2	
-Ejiro Schools	Uvwie	Delta	5.536	5.761	0	
-Unity School, Ejigbo	Ejigbo	Osun	7.888	4.322	0	
-Baptist High School, Ejigbo	Ejigbo	Osun	7.897	4.319	0	
 Ejemekwuru	Oguta	Imo	5.596	6.923	2	
-Ejona primary school	Etsako Central	Edo	6.829	6.596	0	
-P.c.Ejims Limited	Jos North	Plateau	9.982	8.898	0	
-Ejiwunmi Tradomedical	Ojo	Lagos	6.467	3.141	0	
-Oja Ejigbo(Ejigbo Market)	Ejigbo	Osun	7.903	4.314	0	
-Shopping Complex Ejigbo	Ejigbo	Osun	7.902	4.314	0	
 Ejigbo	Oshodi/Isolo	Lagos	6.550	3.293	2	
+Ejigbo	Ejigbo	Osun	7.811	4.310	2	
+Odo-Oba Ejemu	Afijio	Oyo	7.847	4.080	2	Odo Oba Ejemu|Odo-Awba|Odo-Oba|Odo-ObaEjemu
+Idi-Eji	Ori Ire	Oyo	8.361	4.211	2	Idi Eji
+Ejule	Ibaji	Kogi	6.946	6.824	2	Ejuli
+Ejuku	Yagba East	Kogi	8.056	5.751	2	Juku
+Ejudiko	Gbako	Niger	9.150	5.850	2	
+Ejoekun	Oluyole	Oyo	7.296	3.826	2	
+Ejirawo	Ikom	Cross River	6.097	8.592	2	Ajiriwo
+Ejikulu	Ofu	Kogi	7.245	7.201	2	Ejikolu
+Ejikonagi	Edati	Niger	8.918	6.013	2	
+Ejiko	Agaie	Niger	9.077	6.525	2	
+Ejigbo-Parapo	Ejigbo	Osun	7.827	4.355	2	Ejigbo Parapo|EjigboParapo
+Ejidogari	Moro	Kwara	8.903	4.650	2	
+Ejiba	Yagba West	Kogi	8.301	5.647	2	
+Eji	Ori Ire	Oyo	8.629	4.171	2	
+Ejesi II	Ife North	Osun	7.363	4.482	2	
+Ejemu-Oran	Aiyedade	Osun	7.225	4.237	2	Ejemu Oran
+Ejemu	Aiyedade	Osun	7.513	4.369	2	Ijemu
+Ejeme Unor	Aniocha South	Delta	6.019	6.373	2	Ejeme Uno|Ijema|Ijemma Unor
+Ejeme-Aniogo	Aniocha South	Delta	6.017	6.357	2	
+Ezekiri	Akuku Toru	Rivers	4.429	6.547	2	Ejekiri|Markkiri
+Ejeghe Agoma	Ikom	Cross River	6.226	8.445	2	Enjija
+Ejeba	Okpe	Delta	5.779	5.810	2	
+Edjeba	Ughelli North	Delta	5.619	6.102	2	Ejeba
+Ejali	Agatu	Benue	7.889	7.716	2	
+Eja	Yewa North	Ogun	7.129	2.866	2	
+Eja	Yala	Cross River	6.865	8.753	2	
+Apiapum Eja	Obubra	Cross River	6.235	8.430	2	Opiapum
+Igbo Ejo	Apapa	Lagos	6.424	3.354	2	
+Ejaka	Eleme	Rivers	4.776	7.152	2	
+Ejaga	Abakaliki	Ebonyi	6.303	8.340	2	
+Ejibafara	Obubra	Cross River	6.140	8.412	2	
+Eja	Ogoja	Cross River	6.442	8.668	2	
+Ejeketa	Ethiope West	Delta	5.823	5.835	2	
+Ejeve	Warri South	Delta	5.540	5.653	2	
+Ejemekwuru	Oguta	Imo	5.593	6.924	2	
+Ejigbo	Ejigbo	Osun	7.867	4.286	2	Ejigbo Local Government Area
+Garin Eji	Fika	Yobe	11.188	11.258	2	
+Ejuku	Bassa	Kogi	7.788	7.032	2	
+Ejiko	Gbako	Niger	9.468	5.964	2	
+Ejiko	Gbako	Niger	9.305	5.949	2	
+Ejikokpata	Gbako	Niger	9.094	5.857	2	
+Ejirin Ketu	Epe	Lagos	6.620	3.876	2	
+Gidan Ejigba	Karu	Nasarawa	9.138	7.847	2	
+Ejuonao	Warri South-West	Delta	5.609	5.333	2	
+Ejelu	Odeda	Ogun	7.229	3.442	2	
+Ejikeiye	Ona Ara	Oyo	7.350	4.012	2	
+Ejike	Ona Ara	Oyo	7.289	4.062	2	
+Ejioku	Lagelu	Oyo	7.470	4.072	2	
+Ejiola	Irewole	Osun	7.343	4.302	2	
+Ejemu	Irewole	Osun	7.447	4.267	2	
+Eleta-Ejemu	Aiyedade	Osun	7.344	4.320	2	
+Ejemu	Irepodun	Osun	7.934	4.532	2	
+Ejioro	Atakunmosa West	Osun	7.634	4.664	2	
+Ejagure	Ilesha West	Osun	7.654	4.678	2	
+Ejio	Ife East	Osun	7.466	4.619	2	
+Gidan-Eje	Lafia	Nasarawa	8.555	8.708	2	
+Ejendilogu	Oyun	Kwara	8.081	4.665	2	
+Ejemu	Lagelu	Oyo	7.528	4.156	2	
+Ejemu	Afijio	Oyo	7.736	4.031	2	
+Ejemu	Isokan	Osun	7.280	4.193	2	
 John Ejakita Street	Eti Osa	Lagos	6.431	3.523	1	
 Idimu-Ejibo Road	Alimosho	Lagos	6.571	3.287	1	
 Idimu-Ejibo Road	Alimosho	Lagos	6.573	3.284	1	
@@ -67,31 +119,32 @@ Ejigbo - Ede Road	Egbedore	Osun	7.840	4.398	1
 Ejigbo - Iwo Road	Ola Oluwa	Osun	7.709	4.233	1	
 Iwo - Ejigbo Road	Ejigbo	Osun	7.885	4.298	1	
 Sere Ejembi Cl	Kosofe	Lagos	6.627	3.367	1	
-Chief Ejim Street	Obio/Akpor	Rivers	4.836	7.027	1	
 Ejoyokah Street	Uvwie	Delta	5.565	5.771	1	
 Aghofure Ejemudo Close	Uvwie	Delta	5.559	5.758	1	
 Ejukolemu Layout	Uvwie	Delta	5.539	5.770	1	
 Ejewhor Street	Warri South	Delta	5.537	5.754	1	
 Ika - Ejigbo Road	Ejigbo	Osun	7.904	4.315	1	
-Ejigbo - Ede Road	Egbedore	Osun	7.770	4.434	1	
-Ejigbo - Ede Road	Egbedore	Osun	7.762	4.434	1	
 Ejigbo-Iwo	Iwo	Osun	7.650	4.180	1	
 Iwo - Ejigbo Road	Iwo	Osun	7.660	4.184	1	
 Iwo - Ejigbo Road	Iwo	Osun	7.663	4.185	1	
 Ejigbo Road	Ola Oluwa	Osun	7.706	4.247	1	
 Ejigbo - Ede Road	Ejigbo	Osun	7.891	4.319	1	
 Iwo - Ejigbo Road	Ejigbo	Osun	7.894	4.306	1	
-Iwo - Ejigbo Road	Ejigbo	Osun	7.897	4.311	1	
-Ede - Ejigbo Road	Ejigbo	Osun	7.899	4.316	1	
 Awo - Ejigbo Road	Ejigbo	Osun	7.897	4.317	1	
-Awo - Ejigbo Road	Ejigbo	Osun	7.894	4.319	1	
 Ejigbo - Oko Road	Ejigbo	Osun	7.923	4.320	1	
 Ejimeh Bamgbose Avenue	Ìkòròdú	Lagos	6.614	3.578	1	
 EJ Udenyi Street	Municipal Area Council	FCT Abuja	9.047	7.548	1	
 Martin Ejembi Crescent	Municipal Area Council	FCT Abuja	8.988	7.492	1	
-Idimu-Ejibo Road	Alimosho	Lagos	6.559	3.297	1	
 Inno Ejike Street	Owerri Municipal	Imo	5.483	6.997	1	
 Idimu-Ejibo Road	Oshodi/Isolo	Lagos	6.550	3.302	1	
 Ejigbo-Iwo Road	Ola Oluwa	Osun	7.749	4.230	1	
 Ikotun - Ejigbo Road	Alimosho	Lagos	6.548	3.268	1	
-Ejigbo	Ejigbo	Osun	7.811	4.310	2	
+Ejigbo Town Hall	Ejigbo	Osun	7.903	4.314	0	
+Ejiro Schools	Uvwie	Delta	5.536	5.761	0	
+Unity School, Ejigbo	Ejigbo	Osun	7.888	4.322	0	
+Baptist High School, Ejigbo	Ejigbo	Osun	7.897	4.319	0	
+Ejona primary school	Etsako Central	Edo	6.829	6.596	0	
+P.c.Ejims Limited	Jos North	Plateau	9.982	8.898	0	
+Ejiwunmi Tradomedical	Ojo	Lagos	6.467	3.141	0	
+Oja Ejigbo(Ejigbo Market)	Ejigbo	Osun	7.903	4.314	0	
+Shopping Complex Ejigbo	Ejigbo	Osun	7.902	4.314	0	

@@ -99,12 +99,6 @@ Kyallin Bula	Bichi	Kano	12.384	8.128	2
 Kyauta Cikin Gari	Bichi	Kano	12.196	8.341	2	
 Sani Kyaure	Bunkure	Kano	11.706	8.603	2	
 Kyayya	Jema'A	Kaduna	9.353	8.126	2	
-Abba Kyari Close	Municipal Area Council	FCT Abuja	9.005	7.482	1	
-Zakari A. Kyari Street	Municipal Area Council	FCT Abuja	9.092	7.461	1	
-Kyansha Health Post	Takai	Kano	11.487	9.107	0	
-Kyauta Health Post	Bichi	Kano	12.194	8.339	0	
-KY Hotel	Oyo West	Oyo	7.859	3.919	1	
-KY Oil & Gas Ltd.	Lokoja	Kogi	7.796	6.741	0	
 Kyambarawa	Kaura Namoda	Zamfara	12.413	6.632	2	
 Kyadawa Holai	Gada	Sokoto	13.765	5.550	2	
 Kyangakwai	Dandi	Kebbi	11.963	3.744	2	
@@ -115,3 +109,134 @@ Kyalli	Bichi	Kano	12.311	8.166	2
 Kyambo	Babura	Jigawa	12.486	8.747	2	
 Kyarama	Ringim	Jigawa	12.166	8.958	2	
 Kyata	Ningi	Bauchi	10.930	8.922	2	
+Wuro Kyari	Girei	Adamawa	9.502	12.479	2	
+Wuro-Ardo-Kyari	Yola North	Adamawa	9.156	12.600	2	Wuro Ardo Kyari
+Tyo Kyaa	Konshisha	Benue	7.127	8.577	2	
+Tungan Kyewale	Agwara	Niger	10.899	4.644	2	
+Tse Kyula	Gwer East	Benue	7.609	8.665	2	
+Tse Kyado	Gwer East	Benue	7.610	8.650	2	
+Mai Kyau	Donga	Taraba	7.463	10.472	2	
+Kyuran	Konshisha	Benue	7.103	8.733	2	
+Kyuen	Awe	Nasarawa	8.286	8.995	2	
+Kyu	Gboko	Benue	7.444	8.644	2	
+Kyovor	Konshisha	Benue	7.265	8.554	2	
+Kyorior	Gboko	Benue	7.264	8.716	2	
+Kyor	Gwer East	Benue	7.429	8.216	2	
+Kyoon	Markurdi	Benue	7.781	8.595	2	
+Kyongo	Konshisha	Benue	7.166	8.610	2	
+Kyondu	Gboko	Benue	7.443	8.640	2	
+Kyobo	Ushongo	Benue	7.106	8.807	2	
+Kyo	Konshisha	Benue	7.247	8.526	2	
+Kylema	Mokwa	Niger	9.217	4.817	2	
+Kyiyou	Gboko	Benue	7.358	8.671	2	
+Kyereku	Doma	Nasarawa	7.979	8.070	2	
+Kyende	Konshisha	Benue	7.127	8.615	2	
+Kyemtu	Kwande	Benue	6.679	9.585	2	
+Kyeleve	Obi	Nasarawa	8.318	8.939	2	
+Kyekwura	Awe	Nasarawa	8.114	9.179	2	Akekura
+Kyekunwaje	Bungudu	Zamfara	12.131	6.467	2	
+Kyeghvangel	Konshisha	Benue	7.018	8.869	2	
+Kyegh	Konshisha	Benue	7.027	8.800	2	
+Kyayel	Konshisha	Benue	7.332	8.589	2	
+Kyawu	Abaji	FCT Abuja	9.127	6.883	2	
+Kyausu	Lafia	Nasarawa	8.442	8.854	2	
+Kyarsha	Kwande	Benue	6.761	9.530	2	
+Kyarker	Gwer East	Benue	7.337	8.521	2	
+Kyarimi	Jega	Kebbi	12.225	4.332	2	
+Kyaraku	Nasarawa	Nasarawa	8.016	7.734	2	
+Kyar	Ushongo	Benue	7.064	8.864	2	
+Kyanso	Ussa	Taraba	7.075	10.177	2	
+Kyanga	Tangaza	Sokoto	13.509	5.175	2	
+Kyandal	Karim Lamido	Taraba	9.330	11.074	2	
+Kyan	Takum	Taraba	7.299	10.025	2	
+Kyambe	Markurdi	Benue	7.839	8.522	2	
+Kyakyor	Ushongo	Benue	7.074	8.952	2	
+Kyahakilba Kura	Askira-Uba	Borno	10.530	12.999	2	
+Kyahakilba Gana	Hong	Adamawa	10.522	12.988	2	
+Kyado	Markurdi	Benue	7.876	8.511	2	
+Kyaberi	Ajingi	Kano	11.967	9.117	2	
+Kyabashi	Markurdi	Benue	7.672	8.577	2	
+Kyaan	Markurdi	Benue	7.837	8.521	2	
+Kyaakyor	Ushongo	Benue	7.078	8.856	2	
+Kyaaja	Konshisha	Benue	7.326	8.600	2	
+Kyaahemba	Ushongo	Benue	7.128	8.998	2	
+Kyaa	Gboko	Benue	7.198	8.685	2	
+Kya	Gboko	Benue	7.418	8.624	2	
+Kyoyel	Konshisha	Benue	7.137	8.623	2	Kroyel
+Kiyun	Baruten	Kwara	8.729	2.987	2	Kiyon|Kyanu
+Jan Kyankyan	Karaye	Kano	11.783	7.883	2	
+Jan Kyankyan	Karaye	Kano	11.783	7.867	2	
+Gidan Kyambo	Munya	Niger	9.796	7.260	2	
+Dummadummi Kyaure	Kafin Hausa	Jigawa	12.003	9.840	2	
+Kyauta	Bichi	Kano	12.206	8.328	2	
+Kyanyon	Gwer East	Benue	7.247	8.359	2	
+Kyanjir	Gwer East	Benue	7.590	8.401	2	
+Kyande	Gwer West	Benue	7.683	8.184	2	
+Kyekya	Agatu	Benue	7.821	8.106	2	
+Kyasua	Gwer East	Benue	7.323	8.383	2	
+Kyaras	Baure	Katsina	12.791	8.884	2	
+Kyankyaro	Kazaure	Jigawa	12.647	8.657	2	
+Kyalula	Makoda	Kano	12.568	8.523	2	
+Kyararaba	Gezawa	Kano	12.014	8.768	2	
+Ungwan Kyanbo	Kafur	Katsina	11.712	7.813	2	
+Kyawa	Kafur	Katsina	11.671	7.794	2	
+Kyasan	Shanga	Kebbi	11.143	4.631	2	
+Kyan Bawa	Garum Mallam	Kano	11.712	8.385	2	
+Guyuk	Guyuk	Adamawa	9.823	11.920	2	Agbegbe Ijoba Ibile Guyuk|Gayuk|Guyuk Local Government Area|kywk
+Kyagh	Gwer East	Benue	7.332	8.322	2	
+Kyasoo	Gwer East	Benue	7.332	8.343	2	
+Kyar	Gwer East	Benue	7.271	8.367	2	
+Kyabashi	Gwer East	Benue	7.275	8.360	2	
+Kyambo	Babura	Jigawa	12.482	8.743	2	
+Gindi Nassarawa Kyarmi Galbi	Jega	Kebbi	12.237	4.332	2	
+Kyaram	Bukkuyum	Zamfara	11.841	5.390	2	
+Kyian	Logo	Benue	7.732	9.150	2	
+Kyambe	Wukari	Taraba	7.862	9.905	2	
+Kyanon	Wukari	Taraba	7.934	9.972	2	
+Kyernum	Wukari	Taraba	7.863	9.940	2	
+Kyowe	Ukum	Benue	7.724	9.593	2	
+Kyeghba	Ukum	Benue	7.727	9.583	2	
+Kyanyon	Donga	Taraba	7.604	9.845	2	
+Kyuku	Gboko	Benue	7.388	9.027	2	
+Kyenge	Gboko	Benue	7.267	9.075	2	
+Kyaatser	Gboko	Benue	7.271	9.050	2	
+Kyado	Gboko	Benue	7.433	9.106	2	
+Kyausu	Gboko	Benue	7.310	9.122	2	
+Kyenge	Buruku	Benue	7.295	9.243	2	
+Kyem	Katsina-Ala	Benue	7.483	9.430	2	
+Kyernum	Katsina-Ala	Benue	7.287	9.450	2	
+Kyonuande	Buruku	Benue	7.195	9.081	2	
+Kyado	Buruku	Benue	7.162	9.076	2	
+Kyo	Ushongo	Benue	7.147	9.023	2	
+Kyuior	Ushongo	Benue	7.143	9.062	2	
+Kyeleve	Ushongo	Benue	7.142	9.073	2	
+Kyumen	Ushongo	Benue	7.045	9.073	2	
+Kyereve	Ushongo	Benue	7.071	9.150	2	
+Kyernum	Ushongo	Benue	7.019	9.161	2	
+Kyaan	Buruku	Benue	7.229	9.188	2	
+Kyowe	Katsina-Ala	Benue	7.222	9.356	2	
+Kyoyer	Katsina-Ala	Benue	7.179	9.350	2	
+Kyaave	Katsina-Ala	Benue	7.178	9.357	2	
+Kyujov	Gboko	Benue	7.493	8.893	2	
+Kyagen	Gboko	Benue	7.446	8.951	2	
+Tse-Kyobo	Gboko	Benue	7.455	8.897	2	
+Kyase	Gboko	Benue	7.451	8.891	2	
+Kyengegh	Gboko	Benue	7.433	8.763	2	
+Kyuta	Gboko	Benue	7.388	8.797	2	
+Kye	Gboko	Benue	7.378	8.842	2	
+Kyura	Gboko	Benue	7.342	8.946	2	
+Kyogen	Gboko	Benue	7.373	8.859	2	
+Tse-Kyura	Gboko	Benue	7.325	8.808	2	
+Kyagh	Gboko	Benue	7.305	8.855	2	
+Kyaave	Gboko	Benue	7.286	8.981	2	
+Kyaabashi	Gboko	Benue	7.260	8.867	2	
+Kyuuta	Gboko	Benue	7.262	8.758	2	
+Umaru Kyanka	Gbako	Niger	9.477	6.029	2	
+Kyari	Jaba	Kaduna	9.558	8.151	2	
+Kyuvur	Obi	Nasarawa	8.259	8.527	2	
+Abba Kyari Close	Municipal Area Council	FCT Abuja	9.005	7.482	1	
+Zakari A. Kyari Street	Municipal Area Council	FCT Abuja	9.092	7.461	1	
+KY Hotel	Oyo West	Oyo	7.859	3.919	1	
+Kyansha Health Post	Takai	Kano	11.487	9.107	0	
+Kyauta Health Post	Bichi	Kano	12.194	8.339	0	
+KY Oil & Gas Ltd.	Lokoja	Kogi	7.796	6.741	0	

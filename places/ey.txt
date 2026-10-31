@@ -1,5 +1,4 @@
-eyin osa	Epe	Lagos	6.568	3.975	0	
-National Eye Centre Nigeria	Igabi	Kaduna	10.574	7.405	0	
+Eyofin	Udung Uko	Akwa Ibom	4.752	8.231	3	Eyo-Ofin
 Eyio Ekiti	Irepodun/Ifelodun	Ekiti	7.728	5.183	2	Igin
 Eyaem	Ikpoba-Okha	Edo	6.384	5.691	2	
 Ikot Eyd	Nsit Ubium	Akwa Ibom	4.765	7.954	2	
@@ -11,25 +10,58 @@ Esade	Ogo Oluwa	Oyo	7.967	4.217	2	Eyeshada
 Ikot Enyi	Akpabuyo	Cross River	4.823	8.471	2	Ikot Eyi;Ikot Eyi Nko
 Eyulor	Urue Offong/Oruko	Akwa Ibom	4.731	8.169	2	
 Idofin Eyinafo	Oke Ero	Kwara	8.211	5.285	2	
-Eyanga Market	Oredo	Edo	6.336	5.618	0	
-Sure mercies eye clinic & services	Enugu North	Enugu	6.450	7.493	0	
-EYN Mbalala	Chibok	Borno	10.769	12.879	0	
-State School,  Eyabugbe Primary School	Uvwie	Delta	5.542	5.762	0	
-Viandra Eyes Clinic	Yenegoa	Bayelsa	4.954	6.349	0	
-TLC Eye Clinic	Obio/Akpor	Rivers	4.837	7.031	0	
-Niger Optical Eye Clinic	Obio/Akpor	Rivers	4.847	7.048	0	
-Eye Foundation Hospital	Municipal Area Council	FCT Abuja	9.000	7.482	0	
-Romee Eye Clinic	Warri South	Delta	5.531	5.740	0	
-Jordan Eye 👀	Jos North	Plateau	9.892	8.884	0	
 Afaha Udo Eyod	Ibesikpo Asutan	Akwa Ibom	4.896	7.937	2	
-Hyssop Eye Clinic	Ojo	Lagos	6.494	3.125	0	
-St Joseph Eye Clinic	Alimosho	Lagos	6.580	3.239	0	
-Afonja Eye Clinic	Alimosho	Lagos	6.522	3.258	0	
-Hf Dental Eye Clinic	Amuwo Odofin	Lagos	6.459	3.306	0	
-Elite Eyes and Opticals	Eti Osa	Lagos	6.432	3.509	0	
+Udung Eyo Utitntai	Mbo	Akwa Ibom	4.648	8.179	2	
+Ubukpor Urua Eye	Mbo	Akwa Ibom	4.697	8.224	2	
+Odofin Eyinafo	Oke Ero	Kwara	8.211	5.286	2	
+Obot Eyo	Odukpani	Cross River	5.085	8.204	2	
+Mbukpo Eyo Akan	Okobo	Akwa Ibom	4.733	8.102	2	
+Ikpe-Mbak-Eyop	Obot Akara	Akwa Ibom	5.268	7.694	2	
+Ikot Eyo Edem	Akpabuyo	Cross River	4.902	8.516	2	
+Ikot Eyo	Nsit Ubium	Akwa Ibom	4.763	7.955	2	Ikot Eyd
+Ikot Eyiene	Mkpat Enin	Akwa Ibom	4.740	7.797	2	
+Ikot Eyem Imo	Ikot Abasi	Akwa Ibom	4.649	7.601	2	
+Ikot Ekpo Eyo	Akpabuyo	Cross River	4.887	8.396	2	
+Eyotong	Oron	Akwa Ibom	4.786	8.221	2	
+Eyo Sung	Udung Uko	Akwa Ibom	4.756	8.249	2	
+Eyo Nsek	Udung Uko	Akwa Ibom	4.757	8.236	2	
+Eyo Nku	Okobo	Akwa Ibom	4.764	8.107	2	
+Eyombon	Ogoja	Cross River	6.448	8.682	2	
+Eyo Abasi	Oron	Akwa Ibom	4.780	8.236	2	Eyo Abassi
+Eyita	Shagamu	Ogun	6.690	3.535	2	
+Eyinwa	Odogbolu	Ogun	6.748	3.787	2	
+Eyinta	Atakunmosa West	Osun	7.541	4.723	2	
+Eyinodo	Ijebu North	Ogun	6.988	3.927	2	
+Eyin-Eregu	Ijebu North	Ogun	7.012	4.064	2	Eyin Eregu
+Eyimi	Ogoja	Cross River	6.439	8.688	2	
+Eyehedia	Ini	Akwa Ibom	5.357	7.805	2	
+Eye-Foroji	Ifelodun	Kwara	8.889	4.899	2	Eye Foroji
+Eye	Katcha	Niger	9.014	6.222	2	
+Eyara	Ughelli South	Delta	5.418	5.869	2	
+Eyafengi	Mokwa	Niger	9.433	5.317	2	
+Eyaen	Ikpoba-Okha	Edo	6.384	5.691	2	Eyaem
+Esade	Ogo Oluwa	Oyo	7.969	4.210	2	Eyeshada
+Ade-Eyo	Ogbomosho North	Oyo	8.238	4.286	2	Ade Eyo
+Eyeade	Afijio	Oyo	7.726	3.857	2	
+Eyika	Adavi	Kogi	7.609	6.297	2	
+Esuk Ekpo Eyo	Calabar Municipal	Cross River	4.943	8.393	2	
+Esin Ufot Eyamba	Akpabuyo	Cross River	4.862	8.419	2	
+Eyobiasang	Urue Offong/Oruko	Akwa Ibom	4.681	8.202	2	
+Nkakat Ikot Eyamba	Akpabuyo	Cross River	4.853	8.418	2	
+Eyefikebenagbene	Ekeremor	Bayelsa	4.908	5.589	2	
+Ndon Eyo	Onna	Akwa Ibom	4.633	7.857	2	
+Eyop	Obot Akara	Akwa Ibom	5.257	7.676	2	Ikpe-Mbak-Eyop
+Ikot-Obio Eyem	Obot Akara	Akwa Ibom	5.262	7.613	2	
+Ikot Abasi Eyop	Obot Akara	Akwa Ibom	5.265	7.648	2	
+Ogute-Okpa	Owan East	Edo	6.955	6.014	2	Evbiamen|Eybiamen
+Eyogbe II	Warri South-West	Delta	5.624	5.477	2	
+Eyin-Oke	Ijebu North	Ogun	7.102	4.154	2	
+Oke-Eyo	Yewa North	Ogun	7.151	2.781	2	
+Eyin-Oke	Atakunmosa West	Osun	7.283	4.720	2	
+Iloro-Eyingun	Atakunmosa East	Osun	7.484	4.756	2	
+Eyingun-Onimole	Ile Oluji/Okeigbo	Ondo	7.265	4.814	2	
+Eyin-Awo	Ile Oluji/Okeigbo	Ondo	7.289	4.919	2	
 Gnassingbe Eyadema Street	Municipal Area Council	FCT Abuja	9.041	7.522	1	
-Nigeria National Eye Centre Kaduna	Igabi	Kaduna	10.574	7.407	0	
-Prime Optical Eye Clinic	Oredo	Edo	6.325	5.616	0	
 Eyinle Street	Lagos Island	Lagos	6.457	3.392	1	
 Eyinogun Street	Oshodi/Isolo	Lagos	6.555	3.332	1	
 Eyo Street	Shomolu	Lagos	6.540	3.370	1	
@@ -47,17 +79,30 @@ Eyo Edem St	Calabar Municipal	Cross River	4.960	8.318	1
 Chief Oma Eyewuoma Road	Ibeju Lekki	Lagos	6.459	3.678	1	
 Route Eyumodjock - Ekok	Etung	Cross River	5.807	8.854	1	
 Ekpo Eyo Street	Calabar South	Cross River	4.939	8.338	1	
-Eyinogun Street	Oshodi/Isolo	Lagos	6.550	3.336	1	
+Route Eyumodjock - Ekok	Etung	Cross River	5.819	8.874	1	
+Eyin Oke Health Centre	Ilesha West	Osun	7.620	4.732	1	
+eyin osa	Epe	Lagos	6.568	3.975	0	
+National Eye Centre Nigeria	Igabi	Kaduna	10.574	7.405	0	
+Eyanga Market	Oredo	Edo	6.336	5.618	0	
+Sure mercies eye clinic & services	Enugu North	Enugu	6.450	7.493	0	
+EYN Mbalala	Chibok	Borno	10.769	12.879	0	
+State School,  Eyabugbe Primary School	Uvwie	Delta	5.542	5.762	0	
+Viandra Eyes Clinic	Yenegoa	Bayelsa	4.954	6.349	0	
+TLC Eye Clinic	Obio/Akpor	Rivers	4.837	7.031	0	
+Niger Optical Eye Clinic	Obio/Akpor	Rivers	4.847	7.048	0	
+Eye Foundation Hospital	Municipal Area Council	FCT Abuja	9.000	7.482	0	
+Romee Eye Clinic	Warri South	Delta	5.531	5.740	0	
+Jordan Eye 👀	Jos North	Plateau	9.892	8.884	0	
+Hyssop Eye Clinic	Ojo	Lagos	6.494	3.125	0	
+St Joseph Eye Clinic	Alimosho	Lagos	6.580	3.239	0	
+Afonja Eye Clinic	Alimosho	Lagos	6.522	3.258	0	
+Hf Dental Eye Clinic	Amuwo Odofin	Lagos	6.459	3.306	0	
+Elite Eyes and Opticals	Eti Osa	Lagos	6.432	3.509	0	
+Nigeria National Eye Centre Kaduna	Igabi	Kaduna	10.574	7.407	0	
+Prime Optical Eye Clinic	Oredo	Edo	6.325	5.616	0	
 Katsina Eye Clinic	Muhammadu Dikko Stadium	Katsina	12.995	7.595	0	
 Eye Foundation Hospital & Laser Centre	Eti Osa	Lagos	6.440	3.456	0	
-Route Eyumodjock - Ekok	Etung	Cross River	5.819	8.874	1	
 Eye Foundation Hospital	Ìkòròdú	Lagos	6.628	3.506	0	
 Haske Eye Specialist Hospital	Kaduna North	Kaduna	10.584	7.460	0	
 Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.825	13.145	0	
 Eyn Dispensary Kwakwa'ah	Hong	Adamawa	10.183	13.046	0	
-Route Eyumodjock - Ekok	Etung	Cross River	5.814	8.857	1	
-Route Eyumodjock - Ekok	Etung	Cross River	5.815	8.859	1	
-Eyin Oke Health Centre	Ilesha West	Osun	7.620	4.732	1	
-Ojokoro Eyita Road	Ìkòròdú	Lagos	6.630	3.506	1	
-Ojokoro Eyita Road	Ìkòròdú	Lagos	6.633	3.504	1	
-Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.826	13.142	0	

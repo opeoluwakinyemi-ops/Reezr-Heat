@@ -1,4 +1,3 @@
-2Nd Gate Bus Stop	Municipal Area Council	FCT Abuja	9.142	7.324	0	
 2nd Street	Ovia North-East	Edo	6.446	5.605	1	
 2nd Ofumwengbe Street	Oredo	Edo	6.349	5.626	1	
 2nd Isiuwa Lane	Oredo	Edo	6.345	5.635	1	
@@ -33,15 +32,13 @@
 2nd Ehenede Lane	Oredo	Edo	6.337	5.608	1	
 2nd Agboma Lane	Oredo	Edo	6.335	5.605	1	
 2nd Owegie Lane	Oredo	Edo	6.338	5.607	1	
-OGIDA BARRACK'S 2ND ENTRANCE	Egor	Edo	6.364	5.588	1	
+Ogida Barrack'S 2Nd Entrance	Egor	Edo	6.364	5.588	1	
 2nd Itohan Street	Oredo	Edo	6.351	5.611	1	
 2nd Ewasede Lane	Oredo	Edo	6.332	5.634	1	
 2nd Ibiwe Lane	Oredo	Edo	6.337	5.622	1	
 2nd Street	Eti Osa	Lagos	6.467	3.422	1	
 2nd Avenue	Amuwo Odofin	Lagos	6.462	3.289	1	
-2nd Avenue	Amuwo Odofin	Lagos	6.463	3.301	1	
 2nd Avenue	Eti Osa	Lagos	6.452	3.458	1	
-2nd Avenue	Eti Osa	Lagos	6.457	3.462	1	
 2nd Avenue	Municipal Area Council	FCT Abuja	9.047	7.391	1	
 2nd Avenue	Municipal Area Council	FCT Abuja	9.044	7.393	1	
 2nd adesagbon street	Egor	Edo	6.379	5.638	1	
@@ -66,11 +63,11 @@ North 2Nd	Enugu East	Enugu	6.481	7.494	1
 2Nd Avenue	Enugu East	Enugu	6.480	7.494	1	
 Second Avenue	Obio/Akpor	Rivers	4.810	6.977	1	2nd Avenue
 2nd Street	Ikere	Ekiti	7.461	5.225	1	
-2ND UTAGBAN ROAD	Oredo	Edo	6.289	5.574	1	
+2Nd Utagban Road	Oredo	Edo	6.289	5.574	1	
 2nd Avenue	Amuwo Odofin	Lagos	6.460	3.267	1	
 2nd st	Kumbotso	Kano	11.955	8.588	1	
 2nd Avenue	Ovia North-East	Edo	6.448	5.601	1	
 2nd Avenue	Eti Osa	Lagos	6.465	3.606	1	
 2nd Guobadia Road	Ikpoba-Okha	Edo	6.214	5.614	1	
 2nd Cementry Road	Egor	Edo	6.342	5.590	1	
-2nd Guobadia Road	Ikpoba-Okha	Edo	6.211	5.616	1	
+2Nd Gate Bus Stop	Municipal Area Council	FCT Abuja	9.142	7.324	0	

@@ -1,4 +1,15 @@
-eyin osa	Epe	Lagos	6.568	3.975	0	
+Osina	Ideato North	Imo	5.883	7.100	3	
+Òṣogbo	Olorunda	Osun	7.779	4.554	3	Oshogbo
+Erin-osun	Egbedore	Osun	7.828	4.484	3	
+Oshodi	Oshodi/Isolo	Lagos	6.557	3.349	3	
+Osu	Atakunmosa West	Osun	7.585	4.623	3	Oshu
+Oshodi	Oshodi/Isolo	Lagos	6.555	3.344	3	
+Bode Osi	Ola Oluwa	Osun	7.749	4.228	3	Bode-Olla|Bode-Olle|Ibede-Osi|Ibode-Osi
+Araromi-Opin	Ekiti	Kwara	8.065	5.256	3	Araromi-Osi
+Eti Osa	Eti Osa	Lagos	6.442	3.550	3	
+Osisioma	Osisioma Ngwa	Abia	5.160	7.322	3	
+Eti-Osa	Oshodi/Isolo	Lagos	6.531	3.326	3	
+Oke Ose	Ilorin South	Kwara	8.500	4.600	2	
 Ososa	Odogbolu	Ogun	6.795	3.856	2	Osasa
 Oshigbudu	Agatu	Benue	7.830	7.870	2	
 Osubi	Okpe	Delta	5.594	5.827	2	
@@ -6,7 +17,6 @@ Oshita	Ogbaru	Anambra	6.036	6.749	2	Oshila
 Osuakwa	Ogbaru	Anambra	5.867	6.783	2	Ihala
 Oshuko	Olorunsogo	Oyo	8.850	4.050	2	Oshuko;Tesi Baba Pupa
 Isare	Ekiti	Kwara	8.100	5.233	2	Isare Osi;Isare
-Araromi-Opin	Ekiti	Kwara	8.067	5.250	2	Araromi-Osi
 Osan Ekiti	Moba	Ekiti	8.022	5.067	2	
 Aba Osa	Akinyele	Oyo	7.633	4.067	2	Osha
 Osanpon Oke	Okitipupa	Ondo	6.493	4.639	2	
@@ -14,7 +24,6 @@ Ossu	Oguta	Imo	5.649	6.766	2	Ezi-Ossu
 Oshun Budepo	Ijebu North	Ogun	7.033	4.067	2	Oshun;Oshun Budepo
 Ososun	Ifo	Ogun	6.822	3.234	2	Oshosun
 Oshofo	Owan West	Edo	7.054	5.923	2	
-Osu	Atakunmosa West	Osun	7.583	4.617	2	Oshu
 Osmayingbene	Burutu	Delta	5.280	5.355	2	
 Ikerin Osi	Ekiti	Kwara	8.100	5.233	2	Ikerin
 Opo Oshun	Surulere	Oyo	8.048	4.318	2	Opo-Osun
@@ -41,7 +50,6 @@ Osho	Ijebu East	Ogun	6.710	4.323	2
 Awshaw	Odeda	Ogun	7.333	3.717	2	Oloyo Oso;Awshaw
 Osin-Ikole	Ikole	Ekiti	7.804	5.418	2	Usin
 Odo Oshun	Surulere	Oyo	8.117	4.400	2	Odo Awshun
-Osina	Ideato North	Imo	5.883	7.100	3	
 Ossissa	Ndokwa East	Delta	5.942	6.506	2	
 Osimili	Ndokwa East	Delta	5.972	6.699	2	Abara Osimili
 Osibadan	Ipokia	Ogun	6.483	2.800	2	Oshibadan
@@ -53,61 +61,277 @@ Osokoma	Southern Ijaw	Bayelsa	4.796	6.081	2
 Umuleke Ossissa	Ndokwa East	Delta	5.915	6.476	2	
 Isabiyi	Akinyele	Oyo	7.550	3.900	2	Oshabi
 Osan	Moba	Ekiti	8.021	5.066	2	
-Òṣogbo	Olorunda	Osun	7.779	4.554	3	Oshogbo
-Osimike Health Service	Egor	Edo	6.378	5.635	0	
-Idi-osan Bus Stop	Egbeda	Oyo	7.448	4.026	0	
-Osaro Motors park	Oredo	Edo	6.336	5.621	0	
-Osuntokun Stop	Ibadan North	Oyo	7.423	3.910	0	
-OSFICO Oil	Ibadan North West	Oyo	7.411	3.866	0	
 Ikot Ata Osung	Ikot Ekpene	Akwa Ibom	5.245	7.685	2	
-Erin-osun	Egbedore	Osun	7.828	4.484	3	
 Osunfiade	Ejigbo	Osun	7.848	4.344	2	
-Osele Market	Akoko North East	Ondo	7.523	5.751	0	
-Eti Ose Market	Akoko South East	Ondo	7.448	5.962	0	
-Ose Oba Market	Akoko South West	Ondo	7.316	5.672	0	
 Idi-Osan	Egbeda	Oyo	7.447	4.026	2	
-Total Oshodi	Ikeja	Lagos	6.559	3.364	0	
-african church central school, ososun	Ifo	Ogun	6.821	3.233	0	
-local government primary school ewu-osi	Shagamu	Ogun	6.853	3.526	0	
-St. Barnabas' African Church Primary School, Osuke-Ota	Shagamu	Ogun	6.830	3.634	0	
-St. Barnabas' African Church Primary School, Osuke-Ota	Ado Odo/Ota	Ogun	6.623	3.143	0	
-Oshimiri bus stop	Enugu South	Enugu	6.417	7.531	0	
-Eti-Osa	Eti Osa	Lagos	6.463	3.585	0	
 Osikenike	Sagbama	Bayelsa	5.315	6.454	2	
 Osifo	Sagbama	Bayelsa	5.309	6.439	2	
 Ositu	Ahoada West	Rivers	5.084	6.480	2	
-Ibadan Central Hospital, Ososami Road, Oke Ado, New GRA. Ibadan	Ibadan North East	Oyo	7.396	3.929	0	
-Folawiyo Hospital, Idi-ose	Akinyele	Oyo	7.504	3.915	0	
-Ramna Hospital (Ramunaak Clinic and maternity Agbamu, Idi Ose	Akinyele	Oyo	7.507	3.924	0	
 Ezi-Ossu Camp	Ohaji/Egbema	Imo	5.612	6.773	2	
-Oko-Oshimili Pry School	Esan South-East	Edo	6.788	6.605	0	
 Oko- Oshimili	Esan South-East	Edo	6.786	6.605	2	
-Aje International Market, Ido-Osun	Egbedore	Osun	7.790	4.499	0	
-Ido-Osun High School, Ido-Osun	Egbedore	Osun	7.784	4.490	0	
-Islahudeen Model College, Ido-Osun	Egbedore	Osun	7.782	4.491	0	
-St.Paul Anglican Primary School, Ido-Osun	Egbedore	Osun	7.780	4.489	0	
-Islahudeen Nur & Pri School, Ido-Osun	Egbedore	Osun	7.780	4.488	0	
-Ido-Osun Town Hall	Egbedore	Osun	7.780	4.482	0	
-Young Tajudeen Primary School, Ido-Osun	Egbedore	Osun	7.784	4.486	0	
-Muslim Model College, Ido-Osun	Egbedore	Osun	7.783	4.487	0	
-Cars to Osogbo	Ife North	Osun	7.498	4.520	0	
-Osiakpo Village	Takum	Benue	7.248	9.829	2	
-Osubi Airport	Okpe	Delta	5.595	5.819	0	
-Irewe Primary Care Health Center Osulu Kingdom	Ojo	Lagos	6.418	3.145	0	
-Federal Neuro Psychatric Hospital Oshodi	Mushin	Lagos	6.548	3.349	0	
-Joycy Hospital Saka Adisa Street Abule Osun	Amuwo Odofin	Lagos	6.455	3.232	0	
-Oshodi	Oshodi/Isolo	Lagos	6.557	3.351	0	
+Osiakpo Village	Takum	Taraba	7.248	9.829	2	
 Osugbene	Southern Ijaw	Bayelsa	4.398	5.969	2	
 Osomba	Akamkpa	Cross River	5.442	8.637	2	
-Ose Olohun Petroleum Nig. Ltd., Ipo, Ajasse, Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.468	4.568	0	
-osborne ferry terminal (ikoyi)	Eti Osa	Lagos	6.464	3.417	0	
-abule osun	Amuwo Odofin	Lagos	6.437	3.237	0	
-Osolu Junior and Senior High School	Ojo	Lagos	6.417	3.144	0	
 Isheri Osun	Oshodi/Isolo	Lagos	6.518	3.289	2	
 Osapa London	Eti Osa	Lagos	6.444	3.508	2	
+Oshimili South	Oshimili South	Delta	6.130	6.731	2	
+Ido-Osi	Ido-Osi	Ekiti	7.863	5.197	2	
+Osisioma Ngwa	Osisioma Ngwa	Abia	5.192	7.336	2	
+Oshodi/Isolo	Oshodi/Isolo	Lagos	6.540	3.312	2	
+Ose	Ose	Ondo	7.051	5.729	2	
+Osogbo	Osogbo	Osun	7.758	4.575	2	
+Oshimili North	Oshimili North	Delta	6.303	6.648	2	
+Umu Osu	Isiala Mbano	Imo	5.670	7.157	2	
+Umuleke Ossisa	Ndokwa East	Delta	5.913	6.475	2	Umuleke-Ossissa
+Tesi-Baba-Pupa	Olorunsogo	Oyo	8.852	4.058	2	Oshuko|Tesi Baba Pupa
+Rumu-Osi	Obio/Akpor	Rivers	4.879	6.941	2	
+Osusu Aku	Ugwunagbo	Abia	5.037	7.357	2	
+Osusu	Isiala-Ngwa South	Abia	5.383	7.383	2	
+Osuntedo	Ejigbo	Osun	7.694	4.329	2	Awshun Teddo
+Osunlepo	Irewole	Osun	7.470	4.175	2	
+Osunlade	Moro	Kwara	8.684	4.473	2	
+Osungboye	Ifo	Ogun	6.800	3.100	2	
+Osun Ekiti	Moba	Ekiti	8.017	5.067	2	Awsun|Osan
+Osun-Aro	Oluyole	Oyo	7.245	3.979	2	Osun Aro
+Osun	Moba	Ekiti	7.978	5.092	2	
+Osun	Lagelu	Oyo	7.540	4.057	2	
+Osun	Obafemi Owode	Ogun	7.017	3.501	2	
+Osuk Ita	Uruan	Akwa Ibom	5.091	7.998	2	
+Osugh	Keana	Nasarawa	8.083	9.050	2	
+Osuakwa	Ihiala	Anambra	5.857	6.797	2	Ihala
+Osu	Ogo Oluwa	Oyo	7.901	4.376	2	
+Osu	Odeda	Ogun	7.250	3.729	2	
+Osu	Nnewi South	Anambra	5.947	6.987	2	
+Ezi-Ossu	Oguta	Imo	5.648	6.767	2	Ossu|Osu
+Ossissa-Stat	Ndokwa East	Delta	5.923	6.489	2	Ossissa
+Osowuelegan Iju	Olorunsogo	Oyo	8.677	4.111	2	
+Oso Okwa	Osisioma Ngwa	Abia	5.222	7.366	2	
+Osonde	Oluyole	Oyo	7.189	3.937	2	
+Osonachu	Ihiala	Anambra	5.853	6.943	2	Osunachu
+Osomegbe	Etsako Central	Edo	6.950	6.617	2	
+Osolo-Kilarigbe	Ejigbo	Osun	7.793	4.335	2	Osolo Kilarigbe|OsoloKilarigbe
+Osokpuru	Izzi	Ebonyi	6.453	8.217	2	
+Osokoro	Ovia South-West	Edo	6.585	5.177	2	
+Osoko	Aiyedade	Osun	7.234	4.256	2	
+Osok	Odukpani	Cross River	5.165	8.172	2	
+Osogun	Ibarapa East	Oyo	7.713	3.484	2	
+Oso	Shagamu	Ogun	6.821	3.521	2	
+Oso	Ijebu East	Ogun	6.708	4.310	2	Osho
+Oso	Edda	Ebonyi	5.870	7.816	2	
+Osiok	Eket	Akwa Ibom	4.643	7.993	2	
+Osin	Ona Ara	Oyo	7.327	4.005	2	
+Osi-Mola	Abeokuta North	Ogun	7.367	3.077	2	Osi Mola
+Ossimilli	Ndokwa East	Delta	5.970	6.700	2	Abara Osimili|Osimili
+Osikuma	Asa	Kwara	8.508	4.423	2	
+Osijogun	Ọ̀wọ̀	Ondo	7.150	5.567	2	
+Osigini	Moro	Kwara	8.828	4.330	2	
+Senta-Osiele	Odeda	Ogun	7.191	3.448	2	Awshile|Oshiele|Osiele
+Osibadan	Ipokia	Ogun	6.479	2.805	2	Oshibadan
+Osia Umu-Mgbede	Osisioma Ngwa	Abia	5.100	7.306	2	
+Osiama	Sagbama	Bayelsa	4.876	6.038	2	
+Osi	Ekiti	Kwara	8.078	5.222	2	
+Oshun-Budepo	Ijebu North	Ogun	7.038	4.072	2	Oshun|Oshun Budepo
+Oshotan	Egbeda	Oyo	7.457	4.006	2	
+Oshono	Riyom	Plateau	9.439	8.692	2	
+Osho	Isokan	Osun	7.266	4.203	2	
+Osho	Surulere	Lagos	6.483	3.333	2	
+Oshirigwe	Oju	Benue	6.812	8.454	2	
+Oshiri	Onicha	Ebonyi	6.135	7.890	2	
+Oshina	Yala	Cross River	6.873	8.777	2	
+Oseyemi	Atiba	Oyo	8.022	3.889	2	
+Oseyawo-Lalekan	Itesiwaju	Oyo	8.312	3.482	2	Oseyawo Lalekan
+Oseyawo-Iwaju	Itesiwaju	Oyo	8.320	3.495	2	Oseyawo Iwaju
+Ose Olose	Ado Odo/Ota	Ogun	6.683	3.067	2	
+Osenseni	Kogi	Kogi	8.153	6.782	2	
+Osemele	Ndokwa West	Delta	5.718	6.456	2	
+Oseko	Odeda	Ogun	7.286	3.427	2	
+Osegere	Egbeda	Oyo	7.384	4.087	2	
+Osefa	Atiba	Oyo	7.922	3.939	2	
+Osebi	Izzi	Ebonyi	6.458	8.304	2	
+Osarokun	Ori Ire	Oyo	8.551	4.221	2	
+Osari	Ese Odo	Ondo	6.284	4.878	2	
+Osalakin	Moro	Kwara	8.762	4.481	2	
+Osa	Isokan	Osun	7.299	4.232	2	
+Osa	Isokan	Osun	7.247	4.158	2	
+Osa	Obi Ngwa	Abia	5.183	7.433	2	
+Oloyo-Oso	Odeda	Ogun	7.332	3.715	2	Awshaw|Oloyo Oso
+Olori-Osho	Oyo West	Oyo	7.901	3.750	2	Olori Osho|OloriOsho
+Osin-Okete	Ilorin West	Kwara	8.433	4.583	2	Oko Erin|OkoErin
+Oke-Osu	Ibarapa Central	Oyo	7.389	3.216	2	Oke Osu
+Oke-Osin	Atakunmosa West	Osun	7.666	4.621	2	Oke Osin
+Ojo-Oshun	Surulere	Oyo	8.056	4.357	2	Ojo Oshun
+Obiohoro Osu	Isiala Mbano	Imo	5.752	7.242	2	
+Laji Osun	Asa	Kwara	8.262	4.513	2	
+Isare-Osi	Ekiti	Kwara	8.094	5.229	2	Isare|Isare Osi
+Ineme Osa	Akoko-Edo	Edo	7.353	6.236	2	
+Ikot Osukpong	Ika	Akwa Ibom	5.048	7.573	2	
+Ikot Osong	Onna	Akwa Ibom	4.704	7.876	2	
+Ikot Oson	Etinan	Akwa Ibom	4.948	7.837	2	
+Ikot Osom	Abak	Akwa Ibom	5.067	7.799	2	
+Ikot Osom	Ibesikpo Asutan	Akwa Ibom	4.958	7.901	2	
+Igbo-Osan	Abeokuta North	Ogun	7.377	3.088	2	Igbo Osan
+Ido-Oshun	Egbedore	Osun	7.780	4.482	2	Ido Oshun|Ido-Awshun
+Idi-Osi	Asa	Kwara	8.568	4.434	2	Idi Osi
+Idi-Ose	Akinyele	Oyo	7.501	3.913	2	Idi Ose|IdiOse
+Idi-Osan	Obafemi Owode	Ogun	7.095	3.518	2	Idi Osan
+Ewu-Osi	Shagamu	Ogun	6.857	3.533	2	
+Epe Osi	Ekiti	Kwara	8.077	5.235	2	Epe|EpeOsi|Epi Osi
+Umusa-Dege	Ndokwa West	Delta	6.012	6.290	2	Ekum Osadegbe
+Ehin-Osa	Ogun Waterside	Ogun	6.424	4.536	2	Ehin Osa
+Alaso-Osun	Akinyele	Oyo	7.631	4.002	2	Alaso Osun|AlasoOsun
+Alaso-Osun	Aiyedade	Osun	7.223	4.170	2	Alaso Osun
+Ago Osakwe	Egor	Edo	6.350	5.550	2	
+Aba-Osa	Akinyele	Oyo	7.628	4.076	2	Aba Osa|Osha
+Iseri-Oshun	Alimosho	Lagos	6.515	3.275	2	Iseri-Osun|Isheri-Oshun
+Orile Oshodi	Oshodi/Isolo	Lagos	6.557	3.335	2	
+Ososun	Ìkòròdú	Lagos	6.551	3.484	2	
+Olusosun	Ikeja	Lagos	6.589	3.374	2	Oshosun
+Ososun	Kosofe	Lagos	6.601	3.384	2	Onikosi
+Osa	Afijio	Oyo	7.687	3.995	2	
+Idi-Osan	Akinyele	Oyo	7.547	3.826	2	Idi Osan|IdiOsan
+Bale-Oso	Ido	Oyo	7.503	3.842	2	Bale Oso
+Osanyindeyi	Akinyele	Oyo	7.616	3.985	2	
+Ositedo	Akinyele	Oyo	7.585	3.920	2	
+Oshugboko	Ahoada East	Rivers	4.954	6.658	2	Osubogo
+Ososo	Shagamu	Ogun	6.791	3.479	2	
+Osoko	Obafemi Owode	Ogun	6.894	3.344	2	
+Osurowo	Ọ̀wọ̀	Ondo	7.228	5.487	2	
+Oskju	Akoko-Edo	Edo	7.357	6.083	2	
+Atim Osam	Akpabuyo	Cross River	4.949	8.416	2	
+Osu Ofi	Urue Offong/Oruko	Akwa Ibom	4.754	8.182	2	
+Tungu Oseni	Dandi	Kebbi	11.713	3.690	2	
+Ago-Osogbon	Irele	Ondo	6.472	5.107	2	
+Osoguo	Ethiope West	Delta	5.828	5.829	2	
+Osele	Warri South	Delta	5.503	5.679	2	
+Osmayingbene	Burutu	Delta	5.280	5.356	2	
+Osemereyo	Ughelli South	Delta	5.285	5.947	2	
+Osusugie	Burutu	Delta	5.173	5.730	2	
+Umu-Osoko	Ikwuano	Abia	5.382	7.599	2	
+Osung-Ita	Ini	Akwa Ibom	5.354	7.748	2	
+Ikot Osom	Obot Akara	Akwa Ibom	5.212	7.577	2	
+Osuk	Ibiono Ibom	Akwa Ibom	5.208	7.898	2	
+Osuk-Ediene	Ikono	Akwa Ibom	5.146	7.805	2	
+Ikot Osukpong	Ibiono Ibom	Akwa Ibom	5.066	7.868	2	
+Oso	Edda	Ebonyi	5.867	7.802	2	
+Osu-Umuezekpe	Ihiala	Anambra	5.876	6.795	2	
+Osiam	Oguta	Imo	5.778	6.795	2	
+Ossu-Obodo	Oguta	Imo	5.691	6.813	2	
+Osoji	Oguta	Imo	5.623	6.753	2	
+Osoji	Oguta	Imo	5.627	6.750	2	
+Osabari-Okpe Camp	Isoko North	Delta	5.490	6.350	2	
+Osutu	Ndokwa East	Delta	5.530	6.525	2	
+Osiobe Camp	Sagbama	Bayelsa	5.284	6.368	2	
+Abar-Ossimilli	Ndokwa East	Delta	5.956	6.695	2	
+Osi Mili	Ndokwa East	Delta	5.943	6.695	2	
+Ossomari	Ndokwa East	Delta	5.936	6.690	2	
+Oshede Camp	Ndokwa East	Delta	5.783	6.508	2	
+Oseogwugwu	Ohaji/Egbema	Imo	5.553	6.733	2	
+Ose-Mmahu	Ohaji/Egbema	Imo	5.540	6.725	2	
+Oseokishikpa	Ohaji/Egbema	Imo	5.531	6.720	2	
+Ose-Acheke	Ohaji/Egbema	Imo	5.510	6.707	2	
+Osuji Beach	Owerri West	Imo	5.442	6.987	2	
+Osiakpu	Ogba/Egbema/Ndoni	Rivers	5.318	6.685	2	
+Oshimili North	Oshimili North	Delta	6.323	6.644	2	Oshimili Nord|Oshimili ta Arewa|Pak Oshimili
+Oshimili South	Oshimili South	Delta	6.092	6.682	2	Lam Oshimili|Oshimili Sud|Oshimili ta Kudu|nan ao xi mi li
+Oshodi/Isolo	Oshodi/Isolo	Lagos	6.559	3.302	2	
+Osisioma Ngwa	Osisioma Ngwa	Abia	5.199	7.331	2	Agbegbe Ijoba Ibile Osisioma-Ngwa|Osisioma|Osisioma Ngwa Local Government Area|Ozisioma Ngva
+Oshodi-Isolo	Oshodi/Isolo	Lagos	6.561	3.335	2	Oshodi|Oshodi Local Government Area|Oshodi-Isolo
+Osev	Gwer West	Benue	7.565	8.161	2	
+Oshiver	Markurdi	Benue	7.610	8.496	2	
+Korkyaa	Gboko	Benue	7.363	9.146	2	Osu
+Osu	Katsina-Ala	Benue	7.151	9.412	2	
+Osom	Gboko	Benue	7.301	8.819	2	
+Osua	Nembe	Bayelsa	4.477	6.186	2	
+Osheshi	Gbako	Niger	9.487	5.968	2	
+Abule Oshun	Amuwo Odofin	Lagos	6.443	3.227	2	
+Isheri-Oshun	Alimosho	Lagos	6.499	3.273	2	
+Ifesowapa Temu Oke Oso	Epe	Lagos	6.657	3.854	2	
+Ajiran Osapa	Eti Osa	Lagos	6.453	3.530	2	
+Osagie-Uhi	Uhunmwonde	Edo	6.562	6.061	2	
+Osu	Abeokuta North	Ogun	7.243	3.286	2	
+Osasa	Odeda	Ogun	7.327	3.278	2	
+Idi-Ose	Odeda	Ogun	7.179	3.482	2	
+Ose	Odeda	Ogun	7.282	3.402	2	
+Oshun	Lagelu	Oyo	7.485	4.030	2	
+Oke-Osi	Egbeda	Oyo	7.374	4.024	2	
+Osho	Ona Ara	Oyo	7.193	4.053	2	
+Osunrinde	Ona Ara	Oyo	7.184	4.047	2	
+Osho	Egbeda	Oyo	7.362	4.064	2	
+Osolo-Ewesumi	Irewole	Osun	7.449	4.189	2	
+Osa-Fasunle	Irewole	Osun	7.418	4.188	2	
+Opo-Osun	Irewole	Osun	7.452	4.261	2	
+Idi-Osan	Aiyedade	Osun	7.488	4.344	2	
+Osa	Aiyedade	Osun	7.406	4.353	2	
+Oshunwale	Aiyedade	Osun	7.150	4.373	2	
+Osa	Ife South	Osun	7.185	4.488	2	
+Osokalu	Ede North	Osun	7.724	4.528	2	
+Oshogbo	Ede South	Osun	7.688	4.540	2	
+Osokalu	Atakunmosa West	Osun	7.666	4.577	2	
+Idi-Osan	Boripe	Osun	7.814	4.614	2	
+Oshun	Atakunmosa West	Osun	7.737	4.600	2	
+Oke Oshun	Atakunmosa West	Osun	7.724	4.584	2	
+Ita Osan	Atakunmosa West	Osun	7.613	4.675	2	
+Osolo	Boripe	Osun	7.792	4.647	2	
+Osho	Ila	Osun	7.930	4.898	2	
+Oshobiyi-Balogun	Yewa North	Ogun	7.073	2.880	2	
+Alagbe-Osupa	Imeko Afon	Ogun	7.423	2.748	2	
+Osogun	Ife East	Osun	7.488	4.628	2	
+Osogun	Ife East	Osun	7.465	4.578	2	
+Ita-Osa	Ife East	Osun	7.432	4.567	2	
+Jagun-Osin	Ife North	Osun	7.410	4.533	2	
+Oke-Osun	Ife North	Osun	7.337	4.523	2	
+Osi-Soko	Ife South	Osun	7.323	4.539	2	
+Osi-Okero	Ife South	Osun	7.314	4.543	2	
+Osi-Otun	Ife South	Osun	7.301	4.554	2	
+Ose-Ogundele	Ife South	Osun	7.171	4.630	2	
+Ose-Arowolo	Ife South	Osun	7.173	4.626	2	
+Ose-Cementi	Ife South	Osun	7.177	4.627	2	
+Ota-Osan	Ondo East	Ondo	7.156	4.865	2	
+Osala	Ondo East	Ondo	7.092	4.945	2	
+Oshun	Ondo East	Ondo	7.110	4.952	2	
+Idi-Osan	Ile Oluji/Okeigbo	Ondo	7.230	4.974	2	
+Osesu	Obafemi Owode	Ogun	7.020	3.570	2	
+Osiele	Obafemi Owode	Ogun	7.116	3.735	2	
+Osinun	Obafemi Owode	Ogun	7.088	3.656	2	
+Osunlade	Moro	Kwara	8.794	4.426	2	
+Osude	Moro	Kwara	8.722	4.381	2	
+Osere	Asa	Kwara	8.553	4.466	2	
+Idera-Osi	Ekiti	Kwara	8.098	5.239	2	
+Eti-Osa	Ibeju Lekki	Lagos	6.463	3.679	2	
+Osoba	Lokoja	Kogi	8.084	6.694	2	
+Alebi-Osu	Ìsẹ́yìn	Oyo	7.761	3.634	2	
+Osere	Oyun	Kwara	8.091	4.638	2	
+Idi-Oso	Surulere	Oyo	8.060	4.547	2	
+Osuru	Ìsẹ́yìn	Oyo	7.976	3.614	2	
+Olori-Oso	Oyo West	Oyo	7.946	3.868	2	
+Isale-Osin	Ifelodun	Kwara	8.486	4.749	2	
+Osie	Moro	Kwara	9.079	4.821	2	
+Olori-Osa	Atiba	Oyo	7.977	4.001	2	
+Osupa	Ogo Oluwa	Oyo	7.941	4.132	2	
+Osifila	Surulere	Oyo	7.974	4.328	2	
+Osere	Ilorin West	Kwara	8.465	4.537	2	
+Osin	Ilorin West	Kwara	8.413	4.570	2	
+Osanso	Akinyele	Oyo	7.612	4.004	2	
+Oshunwonyi	Aiyedire	Osun	7.531	4.269	2	
+Osa	Aiyedire	Osun	7.549	4.215	2	
+Ire-Osun	Ede South	Osun	7.652	4.434	2	
+Osadeyi	Ede South	Osun	7.650	4.493	2	
+Idi-Osan	Aiyedire	Osun	7.585	4.159	2	
+Ire-Osun	Ede South	Osun	7.626	4.484	2	
+Idi-Osun	Aiyedire	Osun	7.566	4.188	2	
+Osiele	Odeda	Ogun	7.227	3.424	2	
+Osa	Aiyedade	Osun	7.296	4.300	2	
+Osa	Irewole	Osun	7.359	4.264	2	
+Oke-Osin	Atakunmosa West	Osun	7.622	4.661	2	
+Osanpon	Okitipupa	Ondo	6.473	4.640	2	
+Oso	Odeda	Ogun	7.352	3.711	2	
+Osa	Ife South	Osun	7.258	4.523	2	
+Osowuelegan	Olorunsogo	Oyo	8.698	4.185	2	
+Osun	Lagelu	Oyo	7.551	4.139	2	
+Osa	Afijio	Oyo	7.703	4.050	2	
+Osolo	Aiyedire	Osun	7.534	4.178	2	
 Osborne Road	Eti Osa	Lagos	6.464	3.422	1	
 Oshodi Road	Oshodi/Isolo	Lagos	6.556	3.350	1	
-Osborne Road	Eti Osa	Lagos	6.456	3.408	1	
 Oshogbu Street	Agege	Lagos	6.629	3.319	1	
 Adetayo Osho Street	Shomolu	Lagos	6.525	3.383	1	
 Odo Osun Road	Ibadan North East	Oyo	7.378	3.900	1	
@@ -128,7 +352,6 @@ Osarobo Street	Oredo	Edo	6.338	5.600	1
 Osadgiede Street	Oredo	Edo	6.305	5.614	1	
 Osagie Street	Egor	Edo	6.371	5.641	1	
 Osasenaga street	Egor	Edo	6.352	5.575	1	
-Osasenaga Street	Egor	Edo	6.356	5.577	1	
 Osamudiamen Street	Egor	Edo	6.374	5.586	1	
 Osaghae Street	Egor	Edo	6.373	5.639	1	
 Ese Osa Street	Egor	Edo	6.361	5.584	1	
@@ -154,12 +377,10 @@ Osaigbovo Street	Oredo	Edo	6.296	5.598	1
 Osayande Street	Egor	Edo	6.371	5.585	1	
 Osarodion street	Egor	Edo	6.372	5.627	1	
 Edo Osagie Street	Oredo	Edo	6.321	5.611	1	
-Osagiede Street	Egor	Edo	6.368	5.586	1	
 Oshodin Avenue	Egor	Edo	6.362	5.624	1	
 Bob-Oshodin Street	Egor	Edo	6.364	5.627	1	
 Edo-Osagie Street	Egor	Edo	6.324	5.568	1	
 Osagie street	Egor	Edo	6.352	5.584	1	
-Osayande street	Egor	Edo	6.349	5.581	1	
 Osarumwense street	Egor	Edo	6.351	5.577	1	
 Osun Street	Egor	Edo	6.364	5.578	1	
 Osaretin Street	Oredo	Edo	6.341	5.611	1	
@@ -171,9 +392,7 @@ Edo Osagie Lane	Oredo	Edo	6.320	5.611	1
 Osasenaga street	Egor	Edo	6.381	5.633	1	
 osagbiovo street	Egor	Edo	6.379	5.639	1	
 Osawaru Street	Egor	Edo	6.367	5.569	1	
-Osawaru Mega Plaza	Oredo	Edo	6.336	5.621	0	
 ilobu- osogbo road	Egbedore	Osun	7.820	4.524	1	
-Osasco Shopping Mall	Oredo	Edo	6.339	5.619	0	
 Osawe Close	Oredo	Edo	6.340	5.622	1	
 Oshodi Street	Lagos Island	Lagos	6.454	3.398	1	
 Oseni Close	Surulere	Lagos	6.492	3.358	1	
@@ -229,21 +448,16 @@ Dennis Osadebey Crescent	Municipal Area Council	FCT Abuja	9.017	7.484	1
 V. V. Osisidgwu Crescent	Municipal Area Council	FCT Abuja	9.064	7.439	1	
 Osun Street	Municipal Area Council	FCT Abuja	8.987	7.435	1	
 Osogbo-Iwo Road	Egbedore	Osun	7.796	4.483	1	
-Osogbo-Iwo Road	Egbedore	Osun	7.792	4.476	1	
 Osogbo - Iwo Road	Egbedore	Osun	7.783	4.527	1	
 Osogbo-Iwo Road	Egbedore	Osun	7.779	4.461	1	
 Oshoba Close	Surulere	Lagos	6.508	3.338	1	
 Oshofisan Street	Surulere	Lagos	6.509	3.337	1	
 Dennis Osadebe Street	Municipal Area Council	FCT Abuja	9.058	7.512	1	
-OSIMIKE HEALTH SERVICE	Egor	Edo	6.378	5.635	0	
-OSASIMA NURSING AND MATERNITY HOME	Egor	Edo	6.361	5.581	0	
-OSAYANDE LANE	Egor	Edo	6.360	5.569	1	
-OSAYE STREET	Egor	Edo	6.362	5.570	1	
+Osayande Lane	Egor	Edo	6.360	5.569	1	
+Osaye Street	Egor	Edo	6.362	5.570	1	
 Oshiogue Street	Egor	Edo	6.372	5.642	1	
-Osun Street	Egor	Edo	6.366	5.575	1	
 Osadiaye Street	Egor	Edo	6.357	5.572	1	
 Osadolor street	Egor	Edo	6.351	5.575	1	
-Osagie Street	Egor	Edo	6.360	5.575	1	
 Osagie lane	Egor	Edo	6.352	5.584	1	
 Osaigbovo Street	Egor	Edo	6.365	5.579	1	
 Osaretin Street	Egor	Edo	6.364	5.578	1	
@@ -327,19 +541,16 @@ Gbongan - Osogbo Road	Ede North	Osun	7.716	4.493	1
 Osun State House of Assembly	Ede North	Osun	7.741	4.518	1	
 Osun State Government Secretariat Round About	Ede North	Osun	7.733	4.515	1	
 Gbongan - Osogbo Road	Ede North	Osun	7.731	4.514	1	
-Gbongan - Osogbo Road	Ede North	Osun	7.710	4.486	1	
 Gbongan - Osogbo Road	Ede North	Osun	7.755	4.526	1	
 Orlu-Osina-Akokwa-Uga Rd	Orlu	Imo	5.810	7.063	1	
 Orlu-Osina-Akokwa-Uga Rd	Orlu	Imo	5.799	7.039	1	
 Gbongan - Osogbo Road	Ede North	Osun	7.753	4.523	1	
 Osanyintola Street	Ifako/Ijaye	Lagos	6.678	3.287	1	
 Osanyinpeju Street	Agege	Lagos	6.627	3.315	1	
-Osun State Hospital Management, Asubiaro	Osogbo	Osun	7.763	4.543	0	
 Osatohan Close	Eti Osa	Lagos	6.470	3.575	1	
 Osolo Street	Ejigbo	Osun	7.896	4.313	1	
 Osuntedo	Ejigbo	Osun	7.699	4.331	1	
 Odo-Osunmu Street	Ilesha West	Osun	7.630	4.733	1	
-Odo-Osunmu Street	Ilesha West	Osun	7.627	4.736	1	
 Ajoke Osho Street	Ifako/Ijaye	Lagos	6.673	3.304	1	
 Babs Osibo Street	Kosofe	Lagos	6.615	3.383	1	
 Osogbo - Iwo Road	Egbedore	Osun	7.790	4.504	1	
@@ -379,32 +590,22 @@ Osuagwu Lane	Uvwie	Delta	5.552	5.775	1
 Osiobe Close	Uvwie	Delta	5.554	5.775	1	
 Kingsley Osuh Avenue	Eti Osa	Lagos	6.508	3.583	1	
 Osas Ojo Avenue	Ovia North-East	Edo	6.439	5.578	1	
-Gbongan - Osogbo Road	Aiyedade	Osun	7.493	4.360	1	
 Osumbor Avenue	Ikpoba-Okha	Edo	6.315	5.639	1	
-Gbongan - Osogbo Road	Ede North	Osun	7.741	4.518	1	
 Osagie Avenue	Ikpoba-Okha	Edo	6.273	5.631	1	
 Osogbo - Ilesa Road	Osogbo	Osun	7.760	4.562	1	
-Osogbo - Ilesa Road	Osogbo	Osun	7.772	4.555	1	
-Gbongan - Osogbo Road	Ede North	Osun	7.768	4.539	1	
-Osogbo - Ilesa Road	Osogbo	Osun	7.777	4.551	1	
 Erin osun - Ede Road	Egbedore	Osun	7.765	4.445	1	
-OSAGIE OBABUEKI STREET	Oredo	Edo	6.286	5.565	1	
-OSAGHAE STREET	Oredo	Edo	6.292	5.568	1	
+Osagie Obabueki Street	Oredo	Edo	6.286	5.565	1	
+Osaghae Street	Oredo	Edo	6.292	5.568	1	
 Gbongan - Osogbo Road	Ede South	Osun	7.683	4.466	1	
-Gbongan - Osogbo Road	Ede South	Osun	7.687	4.467	1	
-Osuntedo	Ejigbo	Osun	7.695	4.325	1	
 Osuntedo	Ejigbo	Osun	7.702	4.339	1	
 Gbongan - Osogbo Road	Aiyedade	Osun	7.537	4.393	1	
-Gbongan - Osogbo Road	Aiyedade	Osun	7.529	4.387	1	
 Emando Osimen Road	Esan West	Edo	6.763	6.128	1	
 Engr. Oseni Street	Ogbomosho North	Oyo	8.181	4.239	1	
-Oshodi Street	Lagos Island	Lagos	6.455	3.398	1	
 Osamede Evbuomwan Close	Eti Osa	Lagos	6.463	3.629	1	
 Oshodi Road	Akure South	Ondo	7.256	5.195	1	
 Osolo Way	Oshodi/Isolo	Lagos	6.537	3.332	1	
 Idi-Osan - Oke-omi Rd	Egbeda	Oyo	7.448	4.024	1	
 High Chief Osisiego Close	Eti Osa	Lagos	6.473	3.582	1	
-Osolo Street	Ejigbo	Osun	7.894	4.316	1	
 Prof. Danladi Osori Way	Municipal Area Council	FCT Abuja	8.984	7.430	1	
 Osaka Street	Municipal Area Council	FCT Abuja	8.991	7.428	1	
 Barikisu Oshinmi Street	Eti Osa	Lagos	6.478	3.583	1	
@@ -416,8 +617,6 @@ Osapaul Street	Eti Osa	Lagos	6.475	3.635	1
 Ugo Osuya Ave	Eti Osa	Lagos	6.502	3.609	1	
 Osikoti Street	Akure South	Ondo	7.271	5.204	1	
 Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.452	1	
-Osubi Airport	Uvwie	Delta	5.590	5.811	0	
-Osolo Way	Oshodi/Isolo	Lagos	6.548	3.332	1	
 Oshodi Road	Oshodi/Isolo	Lagos	6.557	3.340	1	
 Osikoti Road	Akure North	Ondo	7.272	5.206	1	
 Gbongan - Osogbo Road	Ede South	Osun	7.625	4.439	1	
@@ -426,46 +625,74 @@ Omo Osagie Street	Eti Osa	Lagos	6.444	3.424	1
 P Osume Close	Uvwie	Delta	5.565	5.780	1	
 Osemi Ebi Close	Uvwie	Delta	5.557	5.757	1	
 Osogbo - Ilesa Road	Osogbo	Osun	7.754	4.567	1	
-Oshodi Transport Interchange - Terminal 1	Mushin	Lagos	6.555	3.351	0	
-Oshodi Transport Interchange - Terminal 2	Oshodi/Isolo	Lagos	6.556	3.350	0	
-Oshodi Transport Interchange - Terminal 3	Ikeja	Lagos	6.557	3.353	0	
-Jesu Oseun Street	Ifo	Ogun	6.689	3.292	1	
 Isheri- Osun Road 2	Alimosho	Lagos	6.513	3.274	1	
 Isheri - Osun Road	Alimosho	Lagos	6.514	3.272	1	
 Gbongan - Osogbo Road	Aiyedade	Osun	7.504	4.367	1	
 Gbongan - Osogbo Road	Aiyedade	Osun	7.468	4.331	1	
 Osamudiamen Street	Oredo	Edo	6.327	5.610	1	
-Oshodi Primary School	Oshodi/Isolo	Lagos	6.560	3.347	0	
-Bakre Disu Oshodi Memorial High School	Agege	Lagos	6.613	3.317	0	
 Ukpebor Osayande Street	Ikpoba-Okha	Edo	6.210	5.648	1	
 Osagbovo Street	Ikpoba-Okha	Edo	6.186	5.648	1	
-Isale Osi Primary Health Centre	Ibadan South West	Oyo	7.374	3.891	0	
-Osun State Comprehensive Health Centre, Iragberi	Egbedore	Osun	7.778	4.377	0	
 Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.462	1	
 Olaitan Oshinuga St	Kosofe	Lagos	6.588	3.401	1	
-Osborne Road	Eti Osa	Lagos	6.461	3.430	1	
 Mrs. Nonye Osi Street	Eti Osa	Lagos	6.481	3.609	1	
 Oshodi Street	Ilorin East	Kwara	8.453	4.587	1	
 Alhaji Oseni Olanrewaju Mosque	Ilorin East	Kwara	8.486	4.565	1	
 OSM highway	Demsa	Adamawa	9.283	11.857	1	
-Gbongan - Osogbo Road	Ede South	Osun	7.626	4.440	1	
 Godwin Osasghae Avenue	Oredo	Edo	6.254	5.625	1	
 Godwin Osasghae Avenue	Oredo	Edo	6.252	5.624	1	
 Iga Osolo Street	Ojo	Lagos	6.497	3.119	1	
 Osopo Salawu Street	Egbedore	Osun	7.814	4.531	1	
 Lugard Osuji Close	Owerri Municipal	Imo	5.482	6.997	1	
-Osogbo - Ilesa Road	Osogbo	Osun	7.745	4.574	1	
 Osarumen Street	Ikpoba-Okha	Edo	6.249	5.700	1	
 Osawaru Street	Egor	Edo	6.385	5.582	1	
-Yemi Osinbajo Boulevard	Municipal Area Council	FCT Abuja	9.100	7.465	1	
-Osogbo - Iwo Road	Olorunda	Osun	7.785	4.545	1	
 Oshinfowokan Street	Ìkòròdú	Lagos	6.621	3.501	1	
 Oseni Amoja Street	Eti Osa	Lagos	6.457	3.614	1	
-Oshimili South	Oshimili South	Delta	6.130	6.731	2	
-Ido-Osi	Ido-Osi	Ekiti	7.863	5.197	2	
-Osisioma Ngwa	Osisioma Ngwa	Abia	5.192	7.336	2	
-Oshodi/Isolo	Oshodi/Isolo	Lagos	6.540	3.312	2	
-Ose	Ose	Ondo	7.051	5.729	2	
-Osogbo	Osogbo	Osun	7.758	4.575	2	
-Eti Osa	Eti Osa	Lagos	6.459	3.532	2	
-Oshimili North	Oshimili North	Delta	6.303	6.648	2	
+eyin osa	Epe	Lagos	6.568	3.975	0	
+Osimike Health Service	Egor	Edo	6.378	5.635	0	
+Idi-osan Bus Stop	Egbeda	Oyo	7.448	4.026	0	
+Osaro Motors park	Oredo	Edo	6.336	5.621	0	
+Osuntokun Stop	Ibadan North	Oyo	7.423	3.910	0	
+OSFICO Oil	Ibadan North West	Oyo	7.411	3.866	0	
+Osele Market	Akoko North East	Ondo	7.523	5.751	0	
+Eti Ose Market	Akoko South East	Ondo	7.448	5.962	0	
+Ose Oba Market	Akoko South West	Ondo	7.316	5.672	0	
+Total Oshodi	Ikeja	Lagos	6.559	3.364	0	
+african church central school, ososun	Ifo	Ogun	6.821	3.233	0	
+local government primary school ewu-osi	Shagamu	Ogun	6.853	3.526	0	
+St. Barnabas' African Church Primary School, Osuke-Ota	Shagamu	Ogun	6.830	3.634	0	
+St. Barnabas' African Church Primary School, Osuke-Ota	Ado Odo/Ota	Ogun	6.623	3.143	0	
+Oshimiri bus stop	Enugu South	Enugu	6.417	7.531	0	
+Eti-Osa	Eti Osa	Lagos	6.463	3.585	0	
+Ibadan Central Hospital, Ososami Road, Oke Ado, New GRA. Ibadan	Ibadan North East	Oyo	7.396	3.929	0	
+Folawiyo Hospital, Idi-ose	Akinyele	Oyo	7.504	3.915	0	
+Ramna Hospital (Ramunaak Clinic and maternity Agbamu, Idi Ose	Akinyele	Oyo	7.507	3.924	0	
+Oko-Oshimili Pry School	Esan South-East	Edo	6.788	6.605	0	
+Aje International Market, Ido-Osun	Egbedore	Osun	7.790	4.499	0	
+Ido-Osun High School, Ido-Osun	Egbedore	Osun	7.784	4.490	0	
+Islahudeen Model College, Ido-Osun	Egbedore	Osun	7.782	4.491	0	
+St.Paul Anglican Primary School, Ido-Osun	Egbedore	Osun	7.780	4.489	0	
+Islahudeen Nur & Pri School, Ido-Osun	Egbedore	Osun	7.780	4.488	0	
+Ido-Osun Town Hall	Egbedore	Osun	7.780	4.482	0	
+Young Tajudeen Primary School, Ido-Osun	Egbedore	Osun	7.784	4.486	0	
+Muslim Model College, Ido-Osun	Egbedore	Osun	7.783	4.487	0	
+Cars to Osogbo	Ife North	Osun	7.498	4.520	0	
+Osubi Airport	Okpe	Delta	5.595	5.819	0	
+Irewe Primary Care Health Center Osulu Kingdom	Ojo	Lagos	6.418	3.145	0	
+Federal Neuro Psychatric Hospital Oshodi	Mushin	Lagos	6.548	3.349	0	
+Joycy Hospital Saka Adisa Street Abule Osun	Amuwo Odofin	Lagos	6.455	3.232	0	
+Ose Olohun Petroleum Nig. Ltd., Ipo, Ajasse, Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.468	4.568	0	
+osborne ferry terminal (ikoyi)	Eti Osa	Lagos	6.464	3.417	0	
+abule osun	Amuwo Odofin	Lagos	6.437	3.237	0	
+Osolu Junior and Senior High School	Ojo	Lagos	6.417	3.144	0	
+Osawaru Mega Plaza	Oredo	Edo	6.336	5.621	0	
+Osasco Shopping Mall	Oredo	Edo	6.339	5.619	0	
+Osasima Nursing And Maternity Home	Egor	Edo	6.361	5.581	0	
+Osun State Hospital Management, Asubiaro	Osogbo	Osun	7.763	4.543	0	
+Osubi Airport	Uvwie	Delta	5.590	5.811	0	
+Oshodi Transport Interchange - Terminal 1	Mushin	Lagos	6.555	3.351	0	
+Oshodi Transport Interchange - Terminal 2	Oshodi/Isolo	Lagos	6.556	3.350	0	
+Oshodi Transport Interchange - Terminal 3	Ikeja	Lagos	6.557	3.353	0	
+Oshodi Primary School	Oshodi/Isolo	Lagos	6.560	3.347	0	
+Bakre Disu Oshodi Memorial High School	Agege	Lagos	6.613	3.317	0	
+Isale Osi Primary Health Centre	Ibadan South West	Oyo	7.374	3.891	0	
+Osun State Comprehensive Health Centre, Iragberi	Egbedore	Osun	7.778	4.377	0	

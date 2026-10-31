@@ -1,4 +1,12 @@
 Ọ̀yọ́	Oyo West	Oyo	7.841	3.932	3	Oyo
+Owa Oyiebu	Ika North East	Delta	6.184	6.199	3	Owa Oyibu
+Oyigbo	Oyigbo	Rivers	4.881	7.133	3	Obigbo
+Iwollo-Oye	Ezeagu	Enugu	6.442	7.285	3	Iwollo-Oye;Iwolo-Oye
+Oyo	Oyo West	Oyo	7.854	3.932	3	Oio|Ojo
+Oye-Ekiti	Oye	Ekiti	7.800	5.332	3	Oye
+Oyan	Odo Otin	Osun	8.050	4.767	3	
+Owa-Oyibu	Ika North East	Delta	6.183	6.199	3	Owa Oyiebu
+Oke-Oyi	Ilorin East	Kwara	8.583	4.716	3	
 Oke Oyan	Ifelodun	Kwara	8.357	5.180	2	
 Eko-Ende	Ifelodun	Osun	7.943	4.595	2	Eko Onde;Eko-Ende;Eko-Oyinde
 Oyoko	Ika South	Delta	6.104	6.170	2	Ojieko
@@ -8,10 +16,7 @@ Oyate	Ifelodun	Kwara	8.331	5.246	2
 Oyinbogbene	Ovia South-West	Edo	6.303	5.135	2	Oribogweni
 Oyode	Isoko North	Delta	5.452	6.255	2	
 Oke Oyi	Isin	Kwara	8.255	4.990	2	
-Owa Oyiebu	Ika North East	Delta	6.184	6.199	3	Owa Oyibu
 Oyuko Ibighi	Urue Offong/Oruko	Akwa Ibom	4.789	8.197	2	
-Oyigbo	Oyigbo	Rivers	4.881	7.133	3	Obigbo
-Iwollo-Oye	Ezeagu	Enugu	6.442	7.285	3	Iwollo-Oye;Iwolo-Oye
 Iyiowa Odekpa	Ogbaru	Anambra	6.089	6.757	2	Iyiowa-Odekpa;Oyiowa Odekpa
 Oyubia	Urue Offong/Oruko	Akwa Ibom	4.759	8.168	2	
 Onyoma	Southern Ijaw	Bayelsa	4.775	6.068	2	Oyoma
@@ -19,23 +24,169 @@ Amankwo	Ezeagu	Enugu	6.484	7.250	2	Amanko;Amankwor Oye
 Oyangbene	Burutu	Delta	5.226	5.706	2	
 Oyu	Ogu Bolo	Rivers	4.732	7.196	2	
 Umu Oye	Ngor-Okpala	Imo	5.367	7.083	2	Omu Oye
-Oyan	Odo Otin	Osun	8.050	4.767	2	
 Oyagbe	Ido	Oyo	7.535	3.733	2	
 Oyobu	Kolokuma/Opokuma	Bayelsa	5.084	6.268	2	
 Oyuko	Oron	Akwa Ibom	4.792	8.197	2	
-Oyekpa primary school, Ekpesa	Akoko-Edo	Edo	7.424	6.074	0	
-Oyelagbawo Grammar School	Irepodun	Kwara	8.328	4.816	0	
-ade oyo maternity teaching hospital	Ibadan North	Oyo	7.387	3.902	0	
-Oyin Akoko Market	Akoko North West	Ondo	7.673	5.758	0	
-Oyemekun Grammar School	Akure South	Ondo	7.261	5.178	0	
-Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.740	3.216	0	
-Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.687	3.204	0	
-Local Government Primary School, Oyero	Ado Odo/Ota	Ogun	6.675	3.126	0	
-Oye emene Market	Enugu East	Enugu	6.479	7.578	0	
-Oyinkansola	Abeokuta South	Ogun	7.131	3.329	0	
-Oyingbo	Surulere	Lagos	6.483	3.381	0	
 Oyeregbene	Southern Ijaw	Bayelsa	4.541	6.067	2	
-white sand oyingbo	Lagos Mainland	Lagos	6.477	3.388	0	
+Oyi	Oyi	Anambra	6.240	6.907	2	
+Oye	Oye	Ekiti	7.881	5.338	2	
+Oyun	Oyun	Kwara	8.200	4.632	2	
+Oyo East	Oyo East	Oyo	7.870	4.029	2	
+Oyo West	Oyo West	Oyo	7.957	3.817	2	
+Oyigbo	Oyigbo	Rivers	4.847	7.303	2	
+Umu Oyoro	Omumma	Rivers	5.133	7.242	2	
+Umu-Oye	Ngor-Okpala	Imo	5.447	7.181	2	
+Taku-Oyo	Atiba	Oyo	8.032	3.929	2	Taku Oyo
+Oyoku Asang	Okobo	Akwa Ibom	4.749	8.093	2	
+Oyo-Ile	Oyo West	Oyo	8.037	3.757	2	Oyo Ile
+Oyohe	Sapele	Delta	5.797	5.733	2	
+Oyebu	Kolokuma/Opokuma	Bayelsa	5.079	6.255	2	Oyobu
+Oyo	Ife North	Osun	7.355	4.474	2	
+Oyo	Aiyedade	Osun	7.218	4.226	2	
+Oyioba	Yala	Cross River	6.651	8.454	2	
+Onyina	Obubra	Cross River	6.028	8.383	2	Oyina
+Oyigbobini	Ese Odo	Ondo	6.337	4.966	2	Ojigbobini
+Oyi-Ajegunle	Ifelodun	Kwara	8.508	4.824	2	Oyi Ajegunle
+Oyewo	Ìkòròdú	Lagos	6.567	3.600	2	Oyewaw
+Oyesorun	Ibarapa East	Oyo	7.554	3.390	2	
+Oyero	Obafemi Owode	Ogun	7.104	3.484	2	
+Oyero	Ifo	Ogun	6.776	3.279	2	
+Oyere-Kereja	Ife North	Osun	7.290	4.421	2	Oyere Kereja
+Oyere-Fadehan	Ife North	Osun	7.225	4.394	2	Oyere Fadehan
+Oyere-Asujo	Ife North	Osun	7.263	4.431	2	Oyere Asujo
+Oyere-Adedire	Aiyedade	Osun	7.206	4.388	2	Oyere Adedire
+Oyengha	Ikom	Cross River	6.056	8.520	2	
+Oyelade	Ogbomosho North	Oyo	8.106	4.301	2	
+Oyekiri	Akuku Toru	Rivers	4.339	6.685	2	
+Oyejobi	Ijebu North	Ogun	7.135	4.043	2	
+Oyegun	Akinyele	Oyo	7.598	3.921	2	
+Oyedeji	Lagelu	Oyo	7.543	4.049	2	
+Oyebode	Ibarapa Central	Oyo	7.479	3.327	2	
+Oyebode	Ibarapa Central	Oyo	7.490	3.302	2	
+Oyebisi	Ejigbo	Osun	7.801	4.346	2	
+Oye	Oturkpo	Benue	7.311	8.038	2	
+Oye	Obafemi Owode	Ogun	7.135	3.390	2	
+Oyateru	Ido	Oyo	7.486	3.804	2	
+Oyate	Ori Ire	Oyo	8.535	4.112	2	
+Oyatawe	Ido	Oyo	7.647	3.830	2	
+Oyarinde	Oluyole	Oyo	7.318	3.778	2	
+Oyangbene	Burutu	Delta	5.307	5.719	2	
+Oyadina	Ido	Oyo	7.423	3.708	2	
+Oke-Oyi	Isin	Kwara	8.255	4.989	2	Oke Oyi|OkeOyi
+Ogu	Ogu Bolo	Rivers	4.731	7.196	2	Oyu
+Odo-Oya	Ogo Oluwa	Oyo	7.985	4.297	2	Odo Oya|OdoOya
+Nne Oyi	Isiala-Ngwa North	Abia	5.267	7.317	2	
+Iyiowa Odek	Ogbaru	Anambra	6.092	6.757	2	Iyiowa-Odekpa|Oyiowa Odekpa
+Iwollo-Oghe	Ezeagu	Enugu	6.442	7.284	2	Iwollo-Oye|Iwolo-Oye
+Isangbe-Oye	Egbedore	Osun	7.855	4.416	2	Isangbe Oye|IsangbeOye
+Isajin-Oyindola	Egbeda	Oyo	7.440	4.116	2	Isajin Oyindola
+Ikot Oyoro	Mkpat Enin	Akwa Ibom	4.609	7.770	2	
+Ikot Oyom Ene	Akpabuyo	Cross River	4.950	8.511	2	
+Igbo Oya	Obafemi Owode	Ogun	6.967	3.450	2	
+Ibiti-Oye	Egbeda	Oyo	7.415	4.056	2	Ibiti Oye
+Eko-Onde	Ifelodun	Osun	7.942	4.595	2	Eko Onde|Eko-Ende|Eko-Oyinde
+Egi-Oyopo	Irepodun	Kwara	8.283	4.840	2	Egi Oyopo|EgiOyopo
+Baba-Oye	Ogo Oluwa	Oyo	8.005	4.297	2	Baba Oye
+Awuro-Oyo I	Ife North	Osun	7.349	4.479	2	Awuro Oyo I
+Ara-Oyo	Atiba	Oyo	7.950	3.975	2	Ara Oyo|AraOyo
+Akama-Oghe	Ezeagu	Enugu	6.442	7.318	2	Akama-Oye
+Agboro-Oyo	Yewa North	Ogun	7.287	2.952	2	Agboro Oyo
+Oyeku	Emuoha	Rivers	4.926	6.820	2	Obaku
+Oyekan	Afijio	Oyo	7.708	3.970	2	
+Oyada	Akinyele	Oyo	7.636	3.984	2	
+Oyeteju	Akinyele	Oyo	7.617	3.908	2	
+Oyo-Ode	Akinyele	Oyo	7.573	3.969	2	Oyo Ode|OyoOde
+Oyawo	Ido	Oyo	7.475	3.817	2	
+Oyo	Oluyole	Oyo	7.338	3.758	2	
+Oyelakun	Oluyole	Oyo	7.330	3.830	2	
+Oba-Oyinbo	Epe	Lagos	6.507	4.093	2	
+Oyegbami	Shagamu	Ogun	6.818	3.621	2	
+Agbe Oyinrin	Akure North	Ondo	7.268	5.341	2	
+Oyi-Alabari	Ijero	Ekiti	7.907	5.034	2	
+Oyi-Kaka	Ijero	Ekiti	7.915	5.034	2	
+Oyiwo	Oju	Benue	7.006	8.450	2	
+Oye	Oju	Benue	6.905	8.161	2	
+Oyina	Ikwo	Ebonyi	6.127	8.301	2	
+Okoroba Oyo Ita	Akpabuyo	Cross River	4.889	8.472	2	
+Ago Oyinbo	Irele	Ondo	6.462	4.954	2	
+Oyenke	Okpe	Delta	5.727	5.746	2	
+Oyangbene	Burutu	Delta	5.238	5.670	2	
+Oyakimiyeye	Southern Ijaw	Bayelsa	4.605	5.770	2	
+Asuk-Oyet	Andoni	Rivers	4.475	7.478	2	
+Oyorokoto	Andoni	Rivers	4.449	7.331	2	
+Oye Camp I&II	Sagbama	Bayelsa	5.289	6.426	2	
+Obodo Oyibo	Ndokwa East	Delta	5.750	6.578	2	
+Oyi	Patani	Delta	5.244	6.210	2	
+Oybourbo	Isoko South	Delta	5.246	6.234	2	
+Oyegbene	Sagbama	Bayelsa	5.213	6.237	2	
+Oyakama	Ahoada West	Rivers	5.052	6.540	2	
+Oyi	Oyi	Anambra	6.177	6.862	2	Agbegbe Ijoba Ibile Oyi
+Oyo East	Oyo East	Oyo	7.879	4.021	2	Ilaoorun Oyo|Oyo Est|Oyo Leste|Oyo ta Gabas|Tang Oyo
+Oyun	Oyun	Kwara	8.168	4.652	2	Ijoba Agbegbe Oyun
+Oyankia	Brass	Bayelsa	4.304	6.389	2	
+Oyingbo	Lagos Mainland	Lagos	6.475	3.379	2	
+Oye Market	Awka North	Anambra	6.328	6.981	2	
+Oyewole Alagba	Agege	Lagos	6.621	3.304	2	
+Okine Oyadiran	Lagos Mainland	Lagos	6.510	3.380	2	
+Oke-Oyinbo Aiyetoro	Ìkòròdú	Lagos	6.573	3.587	2	
+Falamo Oyinkan Abayomi	Eti Osa	Lagos	6.447	3.437	2	
+Oyomon-Ubiaja	Esan South-East	Edo	6.664	6.368	2	
+Uton Oyibo	Warri North	Delta	5.771	5.132	2	
+Oyewo	Yewa North	Ogun	7.040	3.099	2	
+Bale-Oya	Odeda	Ogun	7.384	3.410	2	
+Oyewo	Oluyole	Oyo	7.176	4.005	2	
+Oyekunle	Aiyedade	Osun	7.155	4.127	2	
+Oyetola	Egbeda	Oyo	7.340	4.087	2	
+Oyefemi	Lagelu	Oyo	7.454	4.095	2	
+Yo-Oye	Irewole	Osun	7.460	4.260	2	Maringbere
+Awuro-Oyo III	Ife North	Osun	7.344	4.464	2	
+Oyalakun	Irepodun	Osun	7.948	4.536	2	
+Oyada	Ede South	Osun	7.655	4.542	2	
+Oyo	Boripe	Osun	7.820	4.666	2	
+Aba-Oyo	Obokun	Osun	7.837	4.893	2	
+Oyo	Ila	Osun	7.884	4.871	2	
+Oyun	Moro	Kwara	8.586	4.582	2	
+Oyela	Okitipupa	Ondo	6.424	4.774	2	
+Ago-Oyelusi	Ese Odo	Ondo	6.348	4.902	2	
+Oyenge	Guma	Benue	8.080	8.668	2	
+Oyere-Ayani	Ife North	Osun	7.337	4.501	2	
+Oyinbo	Ife South	Osun	7.236	4.615	2	
+Oyo	Ife East	Osun	7.350	4.588	2	
+Oyaninsuwa	Ori Ire	Oyo	8.003	4.048	2	
+Iya-Oyo	Ori Ire	Oyo	8.285	4.185	2	
+Oye	Ibarapa North	Oyo	7.620	3.209	2	
+Oyewusi	Ibarapa East	Oyo	7.667	3.565	2	
+Oyedeji	Ido	Oyo	7.522	3.734	2	
+Oke-Oye	Oyun	Kwara	8.206	4.597	2	
+Asa-Oye	Oyun	Kwara	8.112	4.625	2	
+Oyatutu	Oyo West	Oyo	7.919	3.924	2	
+Oyedokun	Afijio	Oyo	7.785	3.837	2	
+Oyelewe	Ifelodun	Kwara	8.439	4.859	2	
+Oyediran	Ejigbo	Osun	7.804	4.315	2	
+Oyetola	Ejigbo	Osun	7.804	4.332	2	
+Oyebode	Ejigbo	Osun	7.800	4.340	2	
+Oyetolu	Orolu	Osun	7.919	4.471	2	
+Oye-Araromi	Orolu	Osun	7.924	4.467	2	
+Joromo-Oyun	Ilorin South	Kwara	8.446	4.682	2	
+Oye	Ede South	Osun	7.669	4.479	2	
+Oyedemi	Lagelu	Oyo	7.566	4.030	2	
+Ile-Oye	Aiyedire	Osun	7.541	4.193	2	
+Oye Market	Ede South	Osun	7.664	4.477	2	OyeMarket
+Oyerinde	Afijio	Oyo	7.724	4.016	2	
+Oyewo	Iwo	Osun	7.738	4.127	2	
+Oyekola	Afijio	Oyo	7.659	4.014	2	
+Otun-Oyekola	Lagelu	Oyo	7.512	4.029	2	
+Oyada	Ede South	Osun	7.629	4.391	2	
+Oyediran	Iwo	Osun	7.629	4.120	2	
+Oyebola	Afijio	Oyo	7.676	4.002	2	
+Oyedele	Ede South	Osun	7.704	4.488	2	
+Bale-Oya	Lagelu	Oyo	7.531	4.135	2	
+Oyigun	Lagelu	Oyo	7.580	4.051	2	
+Oyediran	Lagelu	Oyo	7.503	4.053	2	
+Oyeregbene	Southern Ijaw	Bayelsa	4.490	6.021	2	
+Oyo	Ife North	Osun	7.344	4.439	2	
+Oyere	Ife North	Osun	7.277	4.447	2	
+Aba-Oyo	Ori Ire	Oyo	8.046	4.084	2	
 Oyetayo Street	Oshodi/Isolo	Lagos	6.564	3.348	1	
 Oyegunwa Street	Oshodi/Isolo	Lagos	6.568	3.342	1	
 Oyewole Street	Agege	Lagos	6.622	3.304	1	
@@ -71,7 +222,6 @@ Layi Oyekanmi Street	Mushin	Lagos	6.527	3.342	1
 Oyenubi Street	Kosofe	Lagos	6.553	3.399	1	
 Muyibat Oyefusi Crescent	Ikeja	Lagos	6.635	3.364	1	
 Ajao Road	Ikeja	Lagos	6.602	3.341	1	Oyetubo Str
-Oyekan Street	Surulere	Lagos	6.505	3.352	1	
 Oyediran Close	Ikeja	Lagos	6.597	3.357	1	
 Oyetola Street	Ikeja	Lagos	6.588	3.365	1	
 Princess Dolo Oyekan Street	Eti Osa	Lagos	6.428	3.474	1	
@@ -104,19 +254,14 @@ Oyarinu Street	Kosofe	Lagos	6.593	3.400	1
 Oyo Road	Afijio	Oyo	7.710	3.916	1	
 Oyo Road	Akinyele	Oyo	7.494	3.915	1	
 Oyo Road	Akinyele	Oyo	7.530	3.911	1	
-Oyo Road	Akinyele	Oyo	7.499	3.913	1	
 Ogbomoso Oyo Road	Ogbomosho North	Oyo	8.135	4.236	1	
-Oyo Road	Ibadan North	Oyo	7.453	3.907	1	
 Oyo Road	Akinyele	Oyo	7.459	3.909	1	
 Oyo Road	Ibadan North	Oyo	7.418	3.896	1	
-Oyo Road	Ibadan North	Oyo	7.412	3.893	1	
 OyoheLoop	Sapele	Delta	5.814	5.734	1	
 Oye Maeket Road	Enugu South	Enugu	6.411	7.536	1	
 Oyiwode Street	Enugu South	Enugu	6.396	7.492	1	
 Chief Fidelix Oya Drive	Enugu East	Enugu	6.504	7.525	1	
 Oyemekun Street	Ifako/Ijaye	Lagos	6.637	3.331	1	
-Oyo Road	Akinyele	Oyo	7.470	3.913	1	
-Oyo Road	Ibadan North West	Oyo	7.401	3.890	1	
 Oyediran Street	Surulere	Lagos	6.489	3.353	1	
 Oyo Road	Akinyele	Oyo	7.587	3.913	1	
 Remi Oyefiade Crescent	Eti Osa	Lagos	6.488	3.583	1	
@@ -128,7 +273,6 @@ Oyebajo Street	Shomolu	Lagos	6.528	3.369	1
 Oyefesobi Street	Kosofe	Lagos	6.603	3.385	1	
 Oyero Street	Kosofe	Lagos	6.600	3.387	1	
 Jaiye Oyedotun Street	Kosofe	Lagos	6.616	3.369	1	
-Oba Oyewole Shopping Plaza	Olorunda	Osun	7.781	4.554	0	
 Oyo- Iseyin Road	Oyo West	Oyo	7.902	3.805	1	
 Amb. Oyerinde Road	Oriade	Osun	7.575	4.883	1	
 Oyo Road	Atiba	Oyo	8.028	3.914	1	
@@ -151,11 +295,8 @@ Oyekan Keye Road	Alimosho	Lagos	6.587	3.307	1
 Oyelakin Street	Alimosho	Lagos	6.648	3.254	1	
 Oyatoki Street	Agege	Lagos	6.639	3.307	1	
 Oyatogun Street	Ikeja	Lagos	6.642	3.347	1	
-Oyo Road	Akinyele	Oyo	7.478	3.914	1	
-Oyingbo Street	Lagos Mainland	Lagos	6.483	3.386	1	
 Monilola Oyeyinka Street	Oshodi/Isolo	Lagos	6.546	3.319	1	
 Bayo Oyewale Street	Oshodi/Isolo	Lagos	6.516	3.312	1	
-General Hospital oyo	Oyo West	Oyo	7.830	3.929	0	
 Tunde Oyediran Close	Eti Osa	Lagos	6.472	3.580	1	
 Fred Oyubu Close	Uvwie	Delta	5.541	5.756	1	
 Salamu Oyolola Street	Ejigbo	Osun	7.899	4.315	1	
@@ -164,46 +305,45 @@ Sidikat Oyedokun Avenue	Olorunda	Osun	7.795	4.555	1
 Victorious Rd, Isekolowo Area, Oyo, Nigeria.	Oyo West	Oyo	7.878	3.928	1	
 Oyetunde Street	Osogbo	Osun	7.778	4.540	1	
 Prince Oyewumi Street	Ogbomosho North	Oyo	8.151	4.254	1	
-Prince Oyewumi Street	Ogbomosho North	Oyo	8.151	4.255	1	
 Oyewole Street	Ogbomosho North	Oyo	8.160	4.248	1	
 Oyewole-Agbaidu Crescent	Ewekoro	Ogun	6.845	3.189	1	
-Oba Adeyinka Oyekan Avenue	Eti Osa	Lagos	6.457	3.425	1	
 Oyinkan Abayomi Drive	Eti Osa	Lagos	6.444	3.431	1	
 Oyawe	Ido	Oyo	7.471	3.817	1	
 Oyo Lane	Oluyole	Oyo	7.344	3.820	1	
-Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.886	4.319	1	
-Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.895	4.306	1	
 Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.896	4.303	1	
 Dipo Oyebadejo Street	Alimosho	Lagos	6.538	3.260	1	
 Oyarinu Street	Ìkòròdú	Lagos	6.574	3.626	1	
 Oyewole Avenue	Ìkòròdú	Lagos	6.629	3.527	1	
-Adebayo Oyelana Street	Oshodi/Isolo	Lagos	6.535	3.294	1	
 Oyebode St	Alimosho	Lagos	6.674	3.256	1	
 Oyo Road	Oyo West	Oyo	7.832	3.924	1	
 Aishat Oyeronke Street	Ilorin East	Kwara	8.477	4.620	1	
 Oke-Oyinbo Street	Ìkòròdú	Lagos	6.574	3.592	1	
 Oyibo Efe Close	Okpe	Delta	5.593	5.833	1	
-Oyingbo Bus Terminal	Lagos Mainland	Lagos	6.480	3.383	0	
 Olabode Oyesile Street	Obafemi Owode	Ogun	6.703	3.397	1	
 Oyo-Ogbomoso Road	Ogbomosho South	Oyo	8.096	4.197	1	
 Oyo-Ogbomoso Road	Ori Ire	Oyo	8.048	4.144	1	
 Oyo- Iseyin Road	Oyo West	Oyo	7.867	3.875	1	
 Oyo- Iseyin Road	Oyo West	Oyo	7.859	3.889	1	
 Oyo Road	Oyo West	Oyo	7.878	3.935	1	
-Oye Market	Aguata	Anambra	6.046	7.027	0	
 Oyi River Street	Municipal Area Council	FCT Abuja	9.103	7.487	1	
 Oyingbo Flyover Bridge	Surulere	Lagos	6.482	3.383	1	
 Oyeolowoisale Street	Oshodi/Isolo	Lagos	6.545	3.301	1	
-Oyo- Iseyin Road	Oyo West	Oyo	7.853	3.902	1	
-Oyo- Iseyin Road	Oyo West	Oyo	7.847	3.905	1	
 Oyegunwa St	Shomolu	Lagos	6.542	3.391	1	
 Bamidele Oyewole Close	Eti Osa	Lagos	6.460	3.536	1	
-Ogbomoso Oyo Road	Ogbomosho North	Oyo	8.130	4.233	1	
 Oyedeji Crescent	Ìkòròdú	Lagos	6.641	3.490	1	
 Oyenuga Street	Ìkòròdú	Lagos	6.628	3.503	1	
-Oyi	Oyi	Anambra	6.240	6.907	2	
-Oye	Oye	Ekiti	7.881	5.338	2	
-Oyun	Oyun	Kwara	8.200	4.632	2	
-Oyo East	Oyo East	Oyo	7.870	4.029	2	
-Oyo West	Oyo West	Oyo	7.957	3.817	2	
-Oyigbo	Oyigbo	Rivers	4.847	7.303	2	
+Oyekpa primary school, Ekpesa	Akoko-Edo	Edo	7.424	6.074	0	
+Oyelagbawo Grammar School	Irepodun	Kwara	8.328	4.816	0	
+ade oyo maternity teaching hospital	Ibadan North	Oyo	7.387	3.902	0	
+Oyin Akoko Market	Akoko North West	Ondo	7.673	5.758	0	
+Oyemekun Grammar School	Akure South	Ondo	7.261	5.178	0	
+Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.740	3.216	0	
+Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.687	3.204	0	
+Local Government Primary School, Oyero	Ado Odo/Ota	Ogun	6.675	3.126	0	
+Oye emene Market	Enugu East	Enugu	6.479	7.578	0	
+Oyinkansola	Abeokuta South	Ogun	7.131	3.329	0	
+white sand oyingbo	Lagos Mainland	Lagos	6.477	3.388	0	
+Oba Oyewole Shopping Plaza	Olorunda	Osun	7.781	4.554	0	
+General Hospital oyo	Oyo West	Oyo	7.830	3.929	0	
+Oyingbo Bus Terminal	Lagos Mainland	Lagos	6.480	3.383	0	
+Oye Market	Aguata	Anambra	6.046	7.027	0	

@@ -1,18 +1,30 @@
+Pambeguwa	Kubau	Kaduna	10.681	8.281	3	
+Patani	Patani	Delta	5.228	6.192	3	
+Pangri	Bali	Taraba	8.130	10.985	3	
+Pategi	Pategi	Kwara	8.728	5.758	3	
+Ago Palace	Oshodi/Isolo	Lagos	6.503	3.306	3	
+Sarkin Pawa	Munya	Niger	10.021	7.112	3	
+Patigi	Pategi	Kwara	8.729	5.756	3	Pategi
+Pantisawa	Yorro	Taraba	8.945	11.512	3	Panti Sawa|Pantishawa
+Pankshin	Pankshin	Plateau	9.325	9.435	3	
+Paiko	Paikoro	Niger	9.437	6.634	3	
+Palmgrove	Shomolu	Lagos	6.542	3.367	2	
+Panseke	Abeokuta South	Ogun	7.160	3.350	2	
+Parkview	Eti Osa	Lagos	6.456	3.441	2	
 Palm Point	Brass	Bayelsa	4.270	6.086	2	
 Panana	Biu	Borno	10.918	11.770	2	Panama
 Paroka	Wasagu-Danko	Kebbi	11.109	5.897	2	
 Udegi	Nasarawa	Nasarawa	8.251	7.902	2	Udegi mbeki emire palace
 Paka	Mubi South	Adamawa	10.107	13.229	2	Pakka
+Panti Sawa	Yorro	Taraba	8.950	11.517	2	Panti Sawa;Pantishawa
 Patako	Ifelodun	Kwara	8.466	5.008	2	
 Kwajaffa Pabur	Hawul	Borno	10.464	12.420	2	Kwajaffa Babur
 Bwala Pakila	Hawul	Borno	10.393	12.377	2	Bwal-Pakla
 Pan Dongari	Rafi	Niger	10.410	6.399	2	
 Gidan Sarkin Pawa	Goronyo	Sokoto	13.502	5.929	2	
 Pakuro	Obafemi Owode	Ogun	6.802	3.421	2	Pakuraw
-Pambeguwa	Kubau	Kaduna	10.681	8.281	3	
 Parafa	Ìkòròdú	Lagos	6.639	3.548	2	
 Paperi	Bassa	Kogi	7.800	7.050	2	Pwekweri
-Patani	Patani	Delta	5.228	6.192	3	
 Shabaisa	Agaie	Niger	9.050	6.517	2	Pati Kasan
 Pamo	Isin	Kwara	8.288	5.029	2	
 Palma Bura	Kwaya Kusar	Borno	10.357	12.023	2	Palma
@@ -31,7 +43,6 @@ Unguwar Tsofo Pada	Maru	Zamfara	11.501	6.545	2	Ungwan Tsofo Poda
 Ungwan Sarkin Pada	Ikara	Kaduna	11.259	8.222	2	Sarkin Pada
 Gidan-Pamba	Wurno	Sokoto	13.315	5.446	2	
 Pako	Moro	Kwara	9.085	4.824	2	
-Pategi	Pategi	Kwara	8.728	5.758	3	
 Pirtha	Hawul	Borno	10.254	12.079	2	Parda
 Pajala	Shani	Borno	10.339	12.004	2	Pachala
 Pandaji	Abaji	FCT Abuja	8.800	6.783	2	Pandagi
@@ -55,7 +66,6 @@ Panda	Akko	Gombe	9.986	11.446	2
 Tsouraka	Gada	Sokoto	13.784	5.779	2	Pampara
 Duban Sarkin Pawa	Goronyo	Sokoto	13.502	5.929	2	Duba Sarikin Pawa
 Pantame	Gombe	Gombe	10.266	11.180	2	
-Pankshin	Pankshin	Plateau	9.329	9.441	2	
 Paiko	Paikoro	Niger	9.435	6.634	2	
 Pakthea	Hawul	Borno	10.591	12.112	2	Pakilsha
 Paipai	Obafemi Owode	Ogun	7.117	3.617	2	
@@ -71,6 +81,7 @@ Ungwan Sarkin Pawa	Danja	Katsina	11.350	7.684	2	Sarkin Pawa
 Kuka Panjam	Rijau	Niger	11.041	5.312	2	Tungan Kuka Panjam
 Pagachi	Igabi	Kaduna	10.820	7.357	2	
 Palta	Yamaltu/Deba	Gombe	10.197	11.599	2	
+Kpambo	Ussa	Taraba	7.167	9.983	2	Pambu
 Pama	Isin	Kwara	8.288	5.029	2	
 Takumpata	Wushishi	Niger	9.550	6.200	2	Takun Pata;Mekira
 Pakilama	Hawul	Borno	10.438	12.161	2	Paklama
@@ -82,6 +93,723 @@ Mboa Paya Garga	Chibok	Borno	10.931	12.770	2	Mbowa Paiyagarga
 Pari	Giwa	Kaduna	11.195	7.487	2	
 Parakam	Gudu	Sokoto	13.226	4.398	2	Parakum
 Pauwa	Kankara	Katsina	11.981	7.314	2	Fauwa
+Fanyabo	Doguwa	Kano	11.113	8.546	2	Panyabo
+Pama	Hawul	Borno	10.478	12.248	2	
+Mifa Patala	Chibok	Borno	10.892	12.919	2	
+Lawan Kachalla	Chibok	Borno	10.748	12.924	2	Paya Yesu
+Pahra	Shani	Borno	10.174	11.808	2	
+Pala Kombo	Bayo	Borno	10.237	11.786	2	
+Panshani	Shani	Borno	10.184	11.820	2	
+Motor Park	Gubio	Borno	12.495	12.775	2	
+Panchani Kulede	Shani	Borno	10.211	12.045	2	
+Panshani Dan Yaro Shanu	Shani	Borno	10.208	12.049	2	
+Panshani Kulede Sambo	Shani	Borno	10.204	12.045	2	
+Jajel Pabu	Chibok	Borno	10.721	12.918	2	
+Jigalta Motor Pack	Nganzai	Borno	12.605	13.320	2	
+Panklang	Kwaya Kusar	Borno	10.410	11.941	2	
+Pankikang Jauro Hamldu	Shani	Borno	10.134	11.998	2	
+Pankilang Bulama Hamidu	Shani	Borno	10.133	12.004	2	Pankillang
+Pankilang Fulani	Shani	Borno	10.136	11.995	2	
+Brinkima	Shani	Borno	10.341	11.974	2	Pajala Ajiya
+Pajala Lafiya	Shani	Borno	10.338	12.002	2	
+Paka Bura	Kwaya Kusar	Borno	10.365	12.011	2	Paka
+Paka Fulani	Kwaya Kusar	Borno	10.354	12.019	2	
+Palma Fulani	Kwaya Kusar	Borno	10.354	12.020	2	
+Panchani Maianguwa Likita	Kwaya Kusar	Borno	10.431	11.998	2	
+Panchani Maianguwa Yusuf B	Kwaya Kusar	Borno	10.429	11.996	2	
+Panchari Bura	Kwaya Kusar	Borno	10.428	11.996	2	
+Pazirga	Bayo	Borno	10.588	11.720	2	
+Pamin A	Kwaya Kusar	Borno	10.587	11.864	2	
+Pamin B	Kwaya Kusar	Borno	10.614	11.848	2	
+Pamin C	Kwaya Kusar	Borno	10.615	11.853	2	
+Pamin	Kwaya Kusar	Borno	10.609	11.856	2	
+Palami Juwa	Hawul	Borno	10.549	12.342	2	
+Babba Pate	Biu	Borno	10.718	11.947	2	
+Palma Fulani	Biu	Borno	10.749	12.372	2	
+Palma	Biu	Borno	10.750	12.374	2	
+Para Hussara	Askira-Uba	Borno	10.500	13.239	2	
+point seven Pandaya 1 Gona Div.	Yamaltu/Deba	Gombe	10.200	11.237	2	
+Point 3 Pantami Division	Akko	Gombe	10.275	11.124	2	
+Pandanka	Kumbotso	Kano	11.928	8.485	2	
+Palmgrove Christian Community	Abak	Akwa Ibom	4.999	7.766	2	
+Pata	Ndokwa East	Delta	5.874	6.660	2	
+Pata I	Ndokwa East	Delta	5.894	6.667	2	
+Pata II	Ndokwa East	Delta	5.875	6.652	2	
+Pata III	Ndokwa East	Delta	5.869	6.660	2	
+Pandinkude	Billiri	Gombe	9.805	11.090	2	
+Innovation Park	Nkanu East	Enugu	6.440	7.669	2	
+Robertson Patches	Calabar South	Cross River	4.795	8.347	2	
+Papa Ajao	Mushin	Lagos	6.541	3.347	2	
+Parrot Crossing	Calabar South	Cross River	4.826	8.331	2	
+Passa Kai	Bokkos	Plateau	9.146	8.815	2	
+River Park Estate	Municipal Area Council	FCT Abuja	8.981	7.331	2	
+Bindigari Pawari	Ngelzarma	Yobe	11.759	11.933	2	
+Pambegua	Kubau	Kaduna	10.580	8.321	2	
+Panhauya	Giwa	Kaduna	11.137	7.591	2	
+Pari	Kauru	Kaduna	9.795	8.548	2	
+Panshekara	Kumbotso	Kano	11.905	8.469	2	
+Pala	Ikara	Kaduna	11.158	8.455	2	
+Paki	Ikara	Kaduna	11.491	8.073	2	
+Patani	Patani	Delta	5.175	6.094	2	
+Pategi	Pategi	Kwara	8.670	5.817	2	
+Paikoro	Paikoro	Niger	9.493	6.838	2	
+Pankshin	Pankshin	Plateau	9.305	9.379	2	
+Qua'An Pan	Qua'An Pan	Plateau	8.766	9.124	2	
+Papa South	Darazo	Bauchi	11.143	10.865	2	
+Pali West	Alkaleri	Bauchi	9.926	10.470	2	
+Pali East	Alkaleri	Bauchi	10.037	10.561	2	
+Papa North	Darazo	Bauchi	11.225	10.845	2	
+Pama Whitambaya	Hawul	Borno	10.405	12.239	2	
+Yolde Pate	Yola North	Adamawa	9.204	12.444	2	
+Uruba Paro	Fufore	Adamawa	8.961	12.189	2	
+Ungwan Patachi	Kachia	Kaduna	10.034	7.998	2	
+Ungwan Panganu	Zaria	Kaduna	11.061	7.772	2	
+Ungwan Pa Hausawa	Lere	Kaduna	10.380	8.482	2	
+Ungwan Pa	Zangon Kataf	Kaduna	9.909	8.129	2	
+Angwan Pa	Kachia	Kaduna	9.826	7.328	2	Unguwan Pa|Ungwan Pa
+Ungwan Tsofo Poda	Maru	Zamfara	11.501	6.537	2	Tsofo Pada|Unguwar Tsofo Pada
+Unguwar Sarkin Pawa	Gusau	Zamfara	11.593	6.609	2	Ungwan Sarkin Pawa
+Tungan Papa	Ngaski	Kebbi	10.598	4.776	2	
+Tungan Pa	Municipal Area Council	FCT Abuja	9.030	7.210	2	
+Takumpata	Wushishi	Niger	9.556	6.195	2	Mekira|Takun Pata
+Rafin Pa	Municipal Area Council	FCT Abuja	8.996	7.153	2	
+Paza Baba	Fufore	Adamawa	8.854	12.653	2	
+Payawula	Askira-Uba	Borno	10.653	12.686	2	
+Payawoshodi Hamlets	Askira-Uba	Borno	10.554	12.958	2	
+Payashetan Chalba	Chibok	Borno	10.746	12.925	2	
+Payashan Abulde	Chibok	Borno	10.754	12.954	2	
+Payamopu Kura	Chibok	Borno	10.794	12.824	2	
+Pawa	Kwande	Benue	6.862	9.549	2	
+Pavun	Konshisha	Benue	7.021	8.770	2	
+Pauta	Igabi	Kaduna	10.760	7.327	2	
+Patishin	Edati	Niger	9.023	6.047	2	
+Patiko	Mashegu	Niger	9.782	4.712	2	
+Patiko	Edu	Kwara	8.914	4.921	2	
+Patiko	Surulere	Oyo	8.173	4.340	2	
+Patigi	Gbako	Niger	9.387	6.017	2	
+Patigi	Katcha	Niger	9.231	6.266	2	
+Pate	Gwagwalada	FCT Abuja	9.033	6.879	2	
+Pataleri	Ewekoro	Ogun	7.002	3.191	2	
+Patakobre	Gombi	Adamawa	10.053	12.387	2	
+Patako	Ido	Oyo	7.451	3.775	2	
+Pata	Tudun Wada	Kano	11.197	8.460	2	
+Passaganga	Gwaram	Jigawa	11.410	9.815	2	
+Passa Bonga	Jos North	Plateau	9.933	8.951	2	
+Pasoki	Donga	Taraba	7.821	10.351	2	
+Paskare	Giwa	Kaduna	11.112	6.994	2	
+Pasi	Badagry	Lagos	6.450	2.717	2	Pashi
+Pashimbe	Ussa	Taraba	7.259	10.192	2	
+Pashi	Gwagwalada	FCT Abuja	9.025	6.933	2	
+Pashaka	Mokwa	Niger	9.042	5.214	2	
+Pasatulu	Yauri	Kebbi	10.913	4.705	2	
+Pasatulu	Agwara	Niger	10.917	4.683	2	
+Pasa-Lamba	Asa	Kwara	8.615	4.408	2	Pasa Lamba
+Pasala	Birnin Gwari	Kaduna	10.805	6.523	2	
+Pasa Kai	Jos South	Plateau	9.688	8.857	2	
+Pasagida	Girei	Adamawa	9.548	12.455	2	
+Paruji Jabbi	Gombi	Adamawa	10.261	12.717	2	
+Paruji	Gombi	Adamawa	10.279	12.717	2	
+Parputa	Gombi	Adamawa	10.157	12.298	2	
+Paroka	Wasagu-Danko	Kebbi	11.117	5.900	2	
+Parnyel Gidam	Mubi North	Adamawa	10.199	13.160	2	
+Parnyel	Mubi North	Adamawa	10.189	13.171	2	
+Pariya	Fufore	Adamawa	9.381	12.700	2	
+Pari-Pundu	Jada	Adamawa	8.730	12.615	2	Pari Pandu|Pari Pundu|PariPandu|PariPundu
+Parindaso	Malumfashi	Katsina	11.883	7.850	2	
+Parda	Ningi	Bauchi	11.185	8.995	2	
+Parda	Shani	Borno	10.247	12.076	2	
+Parda	Fufore	Adamawa	9.180	12.723	2	
+Paratubo	Southern Ijaw	Bayelsa	4.784	5.847	2	
+Parapila	Fufore	Adamawa	9.482	12.777	2	
+Parakwi	Hawul	Borno	10.366	12.331	2	
+Para	Lagelu	Oyo	7.508	4.043	2	
+Papiri Kara	Agwara	Niger	10.636	4.524	2	
+Papiri Gajere	Agwara	Niger	10.820	4.503	2	
+Papiri Gajere	Agwara	Niger	10.805	4.512	2	
+Papiri	Agwara	Niger	10.630	4.521	2	
+Papa Market	Ola Oluwa	Osun	7.732	4.285	2	
+Papa-Malu	Akinyele	Oyo	7.494	3.890	2	Papa Malu
+Papalanto	Ewekoro	Ogun	6.887	3.198	2	Papa Alanto
+Papa-Ige	Ido	Oyo	7.503	3.744	2	Papa Ige
+Papa-Ifa	Ewekoro	Ogun	6.989	3.095	2	
+Papa-Bale	Ijebu North	Ogun	7.044	4.055	2	Papa Bale
+Papa	Iwo	Osun	7.745	4.089	2	
+Papa	Irewole	Osun	7.470	4.186	2	
+Papa	Odeda	Ogun	7.227	3.488	2	
+Papa	Odeda	Ogun	7.193	3.491	2	
+Papa	Obafemi Owode	Ogun	7.074	3.406	2	
+Panzuru	Gbako	Niger	9.409	6.162	2	
+Panyabo	Doguwa	Kano	11.078	8.649	2	
+Panya	Boki	Cross River	6.507	8.841	2	
+Panwasa	Kokona	Nasarawa	8.758	8.202	2	
+Panu	Oyo West	Oyo	8.012	3.766	2	
+Panu	Irewole	Osun	7.467	4.203	2	
+Panu	Ijebu North	Ogun	7.078	3.869	2	
+Panti-Vorobe	Yorro	Taraba	8.979	11.483	2	
+Panti-Tugang	Jalingo	Taraba	8.881	11.344	2	
+Pantinapu	Yorro	Taraba	8.962	11.395	2	
+Pantimazang	Yorro	Taraba	8.864	11.483	2	
+Pantilapu	Yorro	Taraba	8.926	11.505	2	
+Panti Kura	Bali	Taraba	8.650	11.679	2	
+Pantikare	Yorro	Taraba	8.892	11.431	2	
+Pantigana	Ardo-Kola	Taraba	8.775	11.421	2	
+Panti	Lavun	Niger	9.217	5.667	2	
+Panshanu	Toro	Bauchi	10.099	9.218	2	
+Pashani	Shani	Borno	10.211	11.824	2	Panshani
+Pan-Shani	Shani	Borno	10.209	12.040	2	
+Pansamu	Ikara	Kaduna	11.117	8.471	2	
+Panpanpi	Abaji	FCT Abuja	9.222	6.880	2	
+Panna	Kagarko	Kaduna	9.532	7.330	2	
+Panmadina	Zaria	Kaduna	11.015	7.655	2	
+Pankoko	Olorunsogo	Oyo	8.698	4.075	2	
+Panko	Badagry	Lagos	6.461	2.871	2	
+Pankama	Birnin Gwari	Kaduna	11.113	6.954	2	
+Paniso	Malumfashi	Katsina	11.722	7.533	2	
+Panhauya	Giwa	Kaduna	11.119	7.622	2	
+Panguru	Alkaleri	Bauchi	9.946	10.713	2	Pangurum
+Pango	Itas/Gadau	Bauchi	11.723	9.821	2	
+Pangeri	Buji	Jigawa	11.529	9.707	2	
+Pangajere	Jaba	Kaduna	9.541	7.974	2	Pan Gajere
+Panda	Karu	Nasarawa	9.262	7.839	2	Pandam
+Pandaji	Abaji	FCT Abuja	8.514	6.854	2	Pandegi
+Panda	Ogbomosho South	Oyo	8.069	4.275	2	
+Panama	Biu	Borno	10.916	11.771	2	Panana
+Pan	Vandeikya	Benue	7.029	8.992	2	
+Pampara Akeiba	Bagudo	Kebbi	11.584	4.206	2	
+Pambo	Ussa	Taraba	7.012	10.015	2	
+Pamayaji	Lere	Kaduna	10.311	8.772	2	
+Pam	Konshisha	Benue	7.033	8.529	2	
+Palma	Biu	Borno	10.795	11.938	2	
+Palma	Kwaya Kusar	Borno	10.363	12.011	2	
+Palgore	Rogo	Kano	11.508	7.697	2	Gwangwan
+Pala	Ikara	Kaduna	11.138	8.450	2	
+Pala	Ganjuwa	Bauchi	10.756	10.334	2	
+Pala	Odeda	Ogun	7.280	3.356	2	
+Pakuti	Paikoro	Niger	9.399	6.951	2	
+Pakuta	Surulere	Oyo	8.259	4.405	2	
+Pakuru	Toro	Bauchi	10.461	9.126	2	
+Pakua	Ibarapa North	Oyo	7.637	3.232	2	
+Paku	Ola Oluwa	Osun	7.756	4.254	2	
+Pakoyi	Asa	Kwara	8.511	4.452	2	
+Pakoto	Ifo	Ogun	6.791	3.199	2	
+Onipako	Moro	Kwara	9.085	4.823	2	Pako
+Pako	Lapai	Niger	8.710	6.587	2	
+Paklama	Hawul	Borno	10.434	12.161	2	
+Pakka Gyegeri	Mubi South	Adamawa	10.104	13.209	2	
+Pakka	Mubi South	Adamawa	10.106	13.224	2	Paka
+Pakindeje	Ilaje	Ondo	6.284	4.731	2	
+Pakin	Fufore	Adamawa	9.687	12.744	2	Pakim
+Pakilsha	Hawul	Borno	10.591	12.110	2	
+Paki	Jema'A	Kaduna	9.482	8.147	2	
+Pakarau Kare Kare	Nangere	Yobe	11.884	11.063	2	
+Pakarau	Nangere	Yobe	11.798	11.026	2	
+Pajuegunmo	Ori Ire	Oyo	8.593	4.157	2	
+Pajazam	Yorro	Taraba	8.932	11.506	2	
+Paiye	Moro	Kwara	8.758	4.311	2	
+Paiwawol	Maiha	Adamawa	10.088	13.134	2	
+Paipe	Municipal Area Council	FCT Abuja	9.031	7.374	2	
+Paiko	Gwagwalada	FCT Abuja	8.997	7.027	2	Paikon Kore|PaikonKore
+Pai	Bosso	Niger	9.584	6.202	2	
+Pai	Gwagwalada	FCT Abuja	8.913	6.957	2	
+Pahng	Barkin Ladi	Plateau	9.635	8.932	2	
+Pagwan	Jema'A	Kaduna	9.500	8.144	2	
+Pagun	Egbeda	Oyo	7.461	4.018	2	
+Pago	Paikoro	Niger	9.498	6.614	2	
+Pagai	Mariga	Niger	10.600	6.017	2	
+Padgaya	Shiroro	Niger	9.937	6.668	2	
+Padawa	Gurara	Niger	9.289	7.021	2	Pakawa
+Padambayi	Munya	Niger	10.017	6.933	2	
+Pada	Shanono	Kano	11.980	7.900	2	
+Pabiku	Ìsẹ́yìn	Oyo	7.680	3.403	2	
+Pabi-Ekun	Akinyele	Oyo	7.549	4.009	2	Pabi Ekum|PabiEkum
+Pa	Igabi	Kaduna	10.857	7.314	2	
+Pa	Chikun	Kaduna	10.433	7.426	2	
+Olowo-Papa	Ewekoro	Ogun	7.051	3.209	2	Olowo Papa
+New Panga	Ngaski	Kebbi	10.205	4.625	2	
+Mbowa Paiyagarga	Chibok	Borno	10.929	12.770	2	
+Mayo Paka	Bali	Taraba	8.638	11.546	2	
+Mai Panpo	Bali	Taraba	7.931	10.989	2	
+Pasam Dutse	Demsa	Adamawa	9.267	11.771	2	Kpasam|Pasam
+Kauran Pawa	Shiroro	Niger	10.000	6.600	2	
+Karkashin Pa	Sanga	Kaduna	9.231	8.328	2	
+Jauro-Papa	Jada	Adamawa	8.474	12.101	2	Jauro Papa|JauroPapa
+Iresa-Pa	Surulere	Oyo	8.075	4.348	2	Iresa Pa|Iressa|Iressa (2)
+Ijale-Papa	Abeokuta North	Ogun	7.194	3.203	2	Ijale Papa
+Ibibio Palm Tapper Settlement	Akuku Toru	Rivers	4.746	6.638	2	
+Hulwai Paleha	Gombi	Adamawa	10.114	12.510	2	
+Gidan Pawa	Bwari	FCT Abuja	9.304	7.429	2	
+Gidan Patuko	Shiroro	Niger	9.960	6.820	2	
+Gidan Pate	Zangon Kataf	Kaduna	9.941	8.178	2	
+Paki	Jema'A	Kaduna	9.480	8.126	2	Fori
+Ejigbo-Parapo	Ejigbo	Osun	7.827	4.355	2	Ejigbo Parapo|EjigboParapo
+Duba Sarikin Pawa	Goronyo	Sokoto	13.502	5.929	2	Duba Serikin Pawa|Duban Sarkin Pawa|Gidan Sarkin Pawa
+Daniya Pati	Gbako	Niger	9.426	6.014	2	Daniya
+Pakarau	Nangere	Yobe	11.868	11.063	2	Ciroma Dayi|Ciromaday
+Chi-Patake	Igabi	Kaduna	10.758	7.460	2	
+Bwal-Pakla	Hawul	Borno	10.395	12.378	2	
+Barakin Passa	Bassa	Plateau	10.030	8.838	2	
+Bampan	Akwanga	Nasarawa	9.062	8.450	2	Ban Pan
+Aba-Panu	Itesiwaju	Oyo	8.282	3.567	2	Aba Panu
+Aba-Panu	Ìsẹ́yìn	Oyo	7.764	3.531	2	Aba Panu|AbaPanu
+Paputache	Municipal Area Council	FCT Abuja	9.033	7.590	2	
+Panu	Afijio	Oyo	7.723	3.962	2	
+Panu	Afijio	Oyo	7.689	3.877	2	
+Pakuru	Ido	Oyo	7.524	3.762	2	
+Papa	Akinyele	Oyo	7.593	3.884	2	
+Pakiti	Akinyele	Oyo	7.521	3.990	2	
+Parma	Chikun	Kaduna	10.453	7.442	2	
+Pathanda	Hong	Adamawa	10.350	13.013	2	
+Pambula	Madagali	Adamawa	10.890	13.419	2	
+Ago-Panu	Ọ̀wọ̀	Ondo	7.274	5.453	2	
+Ago-Panu	Ọ̀wọ̀	Ondo	7.277	5.623	2	
+Ago-Panu	Emure	Ekiti	7.341	5.479	2	
+Panu	Gbonyin	Ekiti	7.582	5.397	2	
+Parapatu	Shelleng	Adamawa	10.022	12.209	2	
+Pamta	Gombi	Adamawa	10.091	12.351	2	
+Pachala	Shani	Borno	10.335	12.004	2	
+Paglama	Hawul	Borno	10.483	12.186	2	
+Pabe	Ovia South-West	Edo	6.110	5.264	2	
+Pawangu	Arewa Dandi	Kebbi	12.500	3.830	2	
+Ungua Sarki Pawa	Baure	Katsina	12.819	8.788	2	
+Pakarawa	Dutsi	Katsina	12.900	8.126	2	
+Palali	Dan Musa	Katsina	12.197	7.250	2	
+Palele	Shiroro	Niger	10.306	6.933	2	
+Kauran-Pawa	Shiroro	Niger	10.561	6.604	2	
+Pampara	Gada	Sokoto	13.781	5.781	2	
+Gidan-Pamba	Wurno	Sokoto	13.312	5.442	2	
+Panu	Kankara	Katsina	11.958	7.410	2	
+Ungwan Paki	Rogo	Kano	11.538	7.793	2	
+Ungwan Kauran Pawa	Dandume	Katsina	11.384	7.287	2	
+Ungwan Pa	Sabuwa	Katsina	11.390	7.032	2	
+Ungwan Pa	Giwa	Kaduna	11.251	7.358	2	
+Ungwan Pan Filani	Zaria	Kaduna	11.054	7.604	2	
+Pankau	Danja	Katsina	11.325	7.616	2	
+Paawal	Akko	Gombe	10.238	10.925	2	
+Paliabebe	Ekeremor	Bayelsa	4.884	5.680	2	
+Paina	Ekeremor	Bayelsa	4.744	5.596	2	
+Pandaran	Sumaila	Kano	11.450	8.958	2	
+Pagi	Doguwa	Kano	11.114	8.535	2	
+Pan Dan Wali	Soba	Kaduna	11.054	8.069	2	
+Panyabo	Doguwa	Kano	11.112	8.545	2	
+Ede North	Ede North	Osun	7.707	4.509	2	Agbegbe Ijoba Ibile Ariwa Ede|Ede Nord|Ede ta Arewa|Ndi North|Pak Ede
+Idemili North	Idemili North	Anambra	6.128	6.933	2	Agbegbe Ijoba Ibile Ariwa Idemili|Idemili Nord|Idemili ta Arewa|Pak Idemili
+Orumba North	Orumba North	Anambra	6.067	7.083	2	Agbegbe Ijoba Ibile Ariwa Orumba|Orumba Nord|Orumba ta Arewa|Pak Orumba
+Ika North East	Ika North East	Delta	6.229	6.290	2	Ika Nord Est|Ika ta Arewa maso Gabas|Pak Ika
+Isoko North	Isoko North	Delta	5.525	6.234	2	Isoco Setentrional|Isoko Nord|Isoko ta Arewa|Pak Isoko
+Oshimili North	Oshimili North	Delta	6.323	6.644	2	Oshimili Nord|Oshimili ta Arewa|Pak Oshimili
+Ughelli North	Ughelli North	Delta	5.511	6.048	2	Pak Ughelli|Ughelli Nord|Ughelli ta Arewa|Ughilli North
+Warri North	Warri North	Delta	5.882	5.277	2	Agbegbe Ijoba Ibile Ariwa Warri|Pak Warri|Warri Nord|Warri ta Arewa
+Afikpo North	Afikpo North	Ebonyi	5.893	7.937	2	Afikpo Nord|Afikpo Norte|Afikpo ta Arewa|Agbegbe Ijoba Ibile Ariwa Afikpo|Pak Afikpo
+Pankshin	Pankshin	Plateau	9.216	9.399	2	Agbegbe Ijoba Ibile Pankshin
+Paikoro	Paikoro	Niger	9.468	6.856	2	Agbegbe Ijoba Ibile Paikoro
+Ibarapa North	Ibarapa North	Oyo	7.646	3.159	2	Ariwa Ibarapa|Ibarapa Nord|Ibarapa ta Arewa|Pak Ibarapa
+Ovia North-East	Ovia North-East	Edo	6.645	5.580	2	Ovia Nord Est|Ovia North East|Ovia ta Arewa maso Gabas|Tang-pak Ovia
+Umuahia North	Umuahia North	Abia	5.558	7.469	2	Agbegbe Ijoba Ibile Ariwa Umuahia|Pak Umuahia|Pivnichna Umuakhija|Umuahia Nord|Umuahia ta Arewa
+Jos North	Jos North	Plateau	9.939	8.902	2	Agbegbe Ijoba Ibile Ariwa Jos|Jos Nord|Jos North Local Government Area|Jos ta Arewa|Pak Jos
+Qua'An Pan	Qua'An Pan	Plateau	8.761	9.161	2	Qua'an Pan|Qua'an Pan Local Government Area|Qua'an-Pan
+Ijebu North	Ijebu North	Ogun	6.996	3.971	2	Agbegbe Ijoba Ibile Ariwa Ijebu|Ijebu Nord|Ijebu North Local Government Area|Ijebu ta Arewa|Ijebu-Norte|Pak Ijebu
+Ife North	Ife North	Osun	7.267	4.447	2	Agbegbe Ijoba Ibile Ariwa Ife|Ife Nord|Ife North Local Government Area|Ife ta Arewa|Ife-North|Pak Ife
+Esan North-East	Esan North-East	Edo	6.755	6.397	2	Ehsan Nort-Ist|Esan Nord Est|Esan North East|Esan North East Local Government Area|Esan ta Arewa maso Gabas|Tang-pak Esa
+Patani	Patani	Delta	5.179	6.098	2	Patani Local Government Area
+Ideato North	Ideato North	Imo	5.885	7.131	2	Agbegbe Ijoba Ibile Ariwa Ideato|Ideato Nord|Ideato Norte|Ideato North Local Government Area|Ideato ta Arewa|Pak Ideato
+Owerri North	Owerri North	Imo	5.457	7.103	2	Agbegbe Ijoba Ibile Ariwa Owerri|Owerri Nord|Owerri North Local Government Area|Owerri ta Arewa|Pak Owerri|beioueri
+Mubi North	Mubi North	Adamawa	10.350	13.406	2	Agbegbe Ijoba Ibile Ariwa Mubi|Mubi Nord|Mubi North Local Government Area|Mubi ta Arewa|Pak Mubi
+Palam	Madagali	Adamawa	10.691	13.495	2	
+Papa	Nafada	Gombe	11.124	11.307	2	
+Maiva Palam	Madagali	Adamawa	10.722	13.499	2	
+Parve	Gwer East	Benue	7.276	8.479	2	
+Garin Pate	Gassol	Taraba	8.488	10.663	2	
+Bindigari Pawari	Ngelzarma	Yobe	11.744	11.963	2	
+Pambegua	Kubau	Kaduna	10.608	8.297	2	
+Pala	Ikara	Kaduna	11.153	8.441	2	
+Pali West	Alkaleri	Bauchi	10.038	10.417	2	
+Pali East	Alkaleri	Bauchi	10.068	10.541	2	
+Papa North	Darazo	Bauchi	11.233	10.813	2	
+Papa South	Darazo	Bauchi	11.137	10.884	2	
+Palama	Toro	Bauchi	9.969	9.295	2	
+Padawa	Doma	Nasarawa	7.940	8.258	2	
+Pancho	Gwer West	Benue	7.672	8.128	2	
+Paa	Buruku	Benue	7.527	9.094	2	
+Gidan Paiforo	Logo	Benue	7.625	9.124	2	
+Pawa	Ukum	Benue	7.650	9.709	2	
+Pahar	Buruku	Benue	7.268	9.246	2	
+Pagher	Buruku	Benue	7.169	9.060	2	
+Paun	Ushongo	Benue	7.085	9.242	2	
+Pav	Buruku	Benue	7.227	9.261	2	
+Pagher	Ushongo	Benue	7.042	9.342	2	
+Pagher	Ushongo	Benue	7.030	9.353	2	
+Pavun	Katsina-Ala	Benue	7.246	9.403	2	
+Pahar	Katsina-Ala	Benue	7.177	9.371	2	
+Palegh	Gboko	Benue	7.440	8.945	2	
+Patindaegi	Gbako	Niger	9.326	5.997	2	
+Patigufu	Gbako	Niger	9.277	5.888	2	
+Patitagi	Gbako	Niger	9.192	5.889	2	
+Patisantan	Gbako	Niger	9.165	5.982	2	
+Patigi	Gbako	Niger	9.108	5.853	2	
+Patitagi	Edati	Niger	9.040	5.941	2	
+Patigiwari	Edati	Niger	9.041	5.970	2	
+Patindaworo	Edati	Niger	9.015	5.982	2	
+Patitagi	Gbako	Niger	9.067	5.874	2	
+Patishin	Lavun	Niger	9.136	5.747	2	
+Pategi	Gbako	Niger	9.451	6.157	2	
+Pansuru	Gbako	Niger	9.435	6.123	2	
+Paraka	Katcha	Niger	9.333	6.203	2	
+Panti	Katcha	Niger	9.101	6.188	2	
+Patungi	Katcha	Niger	9.041	6.181	2	
+Pangbe	Gurara	Niger	9.390	6.857	2	
+Gidan Panjuma	Shiroro	Niger	9.846	6.612	2	
+Gidan Pautno	Shiroro	Niger	9.829	6.595	2	
+Gadin Tunrakin Pada	Shiroro	Niger	9.778	6.595	2	
+Gidan Pakama	Shiroro	Niger	9.748	6.843	2	
+Gidan Padasaria	Munya	Niger	9.698	6.954	2	
+Pamuko	Bosso	Niger	9.703	6.588	2	
+Gidan Pasama	Shiroro	Niger	9.643	6.726	2	
+Papa Ajao	Mushin	Lagos	6.545	3.343	2	
+Papa-Ashafa	Agege	Lagos	6.617	3.322	2	
+Bello Patel	Jada	Adamawa	8.546	12.345	2	
+Parewa	Jada	Adamawa	8.510	12.281	2	
+Wuro Papaya	Fufore	Adamawa	8.837	12.392	2	
+Paiko	Munya	Niger	9.945	7.072	2	
+Panada	Ifako/Ijaye	Lagos	6.651	3.315	2	
+Papa-Uku Olusanya	Agege	Lagos	6.621	3.322	2	
+Papa Ashafa	Agege	Lagos	6.617	3.309	2	
+Pamu	Etsako West	Edo	6.940	6.351	2	
+Pazi	Karu	Nasarawa	9.276	7.833	2	
+Panungwa	Karu	Nasarawa	9.277	7.852	2	
+Angwan Pa a	Kagarko	Kaduna	9.321	7.894	2	
+Rafin	Karu	Nasarawa	9.197	7.868	2	Rafin-Pa
+Papari	Karu	Nasarawa	9.160	7.956	2	
+Paki	Karu	Nasarawa	9.173	7.869	2	
+Pankurege	Karu	Nasarawa	9.111	7.778	2	
+Gidan Panbaki	Karu	Nasarawa	9.093	7.851	2	
+Gidan Patauchi	Karu	Nasarawa	9.127	7.861	2	
+Rafin Paa	Karu	Nasarawa	9.071	7.938	2	
+Panitu	Karu	Nasarawa	9.101	7.947	2	
+Gidan Pataki	Kokona	Nasarawa	9.029	7.937	2	
+Gidan Paali	Karu	Nasarawa	9.065	7.804	2	
+Pankore	Kagarko	Kaduna	9.441	7.700	2	
+Padan-Gwari	Bwari	FCT Abuja	9.326	7.711	2	
+Angwan-Pa	Kagarko	Kaduna	9.361	7.747	2	
+Pasun	Yorro	Taraba	8.976	11.499	2	
+Pazam	Yorro	Taraba	8.954	11.500	2	
+Panti Maajo	Ardo-Kola	Taraba	8.976	11.234	2	
+Pangam	Ardo-Kola	Taraba	8.962	11.242	2	
+Pantilade	Ardo-Kola	Taraba	8.875	11.238	2	
+Wuro Pasali	Ardo-Kola	Taraba	8.597	11.245	2	
+Pantivor	Jalingo	Taraba	8.928	11.333	2	
+Pantimabi	Jalingo	Taraba	8.863	11.358	2	
+Pantinda	Jalingo	Taraba	8.859	11.366	2	
+Panti-Gana	Yorro	Taraba	8.992	11.460	2	
+Pantimashi	Yorro	Taraba	8.937	11.442	2	
+Palla	Yorro	Taraba	8.874	11.403	2	
+Pantinovinu	Ardo-Kola	Taraba	8.779	11.401	2	
+Pantitedang	Jalingo	Taraba	8.796	11.446	2	
+Panti-Shonfa	Yorro	Taraba	8.969	11.468	2	
+Pantiwuya	Ardo-Kola	Taraba	8.733	11.354	2	
+Pantimanu	Ardo-Kola	Taraba	8.710	11.315	2	
+Pantipin	Ardo-Kola	Taraba	8.700	11.361	2	
+Panzam	Shendam	Plateau	8.807	9.637	2	
+Panglang	Shendam	Plateau	8.935	9.732	2	
+Pandum	Shendam	Plateau	8.860	9.738	2	
+Paya	Wase	Plateau	8.645	9.952	2	
+Ungwan Pa	Akwanga	Nasarawa	9.160	8.287	2	
+Ungwan Pa	Akwanga	Nasarawa	9.067	8.466	2	
+Ungwan Pa Tudu	Sanga	Kaduna	9.200	8.195	2	
+Ungwan Pa Kassa	Sanga	Kaduna	9.192	8.196	2	
+Ungwan Pa	Sanga	Kaduna	9.181	8.212	2	
+Ungwan Pa	Akwanga	Nasarawa	9.059	8.210	2	
+Ungwan Pataki	Jema'A	Kaduna	9.252	8.191	2	
+Dajin Pama	Zangon Kataf	Kaduna	9.945	8.327	2	
+Pak	Kaura	Kaduna	9.630	8.404	2	
+Panga	Jaba	Kaduna	9.534	8.036	2	
+Pangai	Jaba	Kaduna	9.560	8.081	2	
+Palong	Qua'An Pan	Plateau	8.651	9.068	2	
+Panjin	Qua'An Pan	Plateau	8.905	9.299	2	
+Pantal	Shendam	Plateau	8.995	9.333	2	
+Panjin	Shendam	Plateau	8.896	9.351	2	
+Pangpiya	Shendam	Plateau	8.962	9.449	2	
+Pap	Qua'An Pan	Plateau	8.746	9.332	2	
+Panripon	Warri South-West	Delta	5.515	5.179	2	
+Paweire	Girei	Adamawa	9.485	12.409	2	
+Pantilade Area	Yorro	Taraba	9.125	11.676	2	
+Pandi	Demsa	Adamawa	9.358	11.950	2	
+Pasum	Mayo-Belwa	Adamawa	9.146	11.997	2	
+Pantami	Alkaleri	Bauchi	9.824	10.887	2	
+Pangoro	Billiri	Gombe	9.755	10.977	2	
+Patako	Abeokuta North	Ogun	7.388	3.020	2	
+Pade	Ewekoro	Ogun	7.010	3.253	2	
+Papa	Obafemi Owode	Ogun	7.001	3.359	2	
+Panu	Obafemi Owode	Ogun	7.005	3.425	2	
+Pagbuda	Obafemi Owode	Ogun	7.143	3.498	2	
+Papa	Odeda	Ogun	7.242	3.384	2	
+Paku	Egbeda	Oyo	7.403	4.059	2	
+Alli-Panu	Aiyedade	Osun	7.159	4.131	2	
+Pagbo	Ona Ara	Oyo	7.278	4.077	2	
+Papa	Egbeda	Oyo	7.374	4.128	2	
+Pari	Irewole	Osun	7.411	4.172	2	
+Idogun-Panu	Isokan	Osun	7.268	4.154	2	
+Papanla	Isokan	Osun	7.335	4.216	2	
+Papa	Irewole	Osun	7.344	4.270	2	
+Payi	Irewole	Osun	7.364	4.268	2	
+Panseke	Aiyedade	Osun	7.448	4.329	2	
+Oja-Papa	Aiyedade	Osun	7.403	4.318	2	
+Papa	Aiyedade	Osun	7.332	4.344	2	
+Panu	Obokun	Osun	7.790	4.767	2	
+Oke-Padre	Ado Odo/Ota	Ogun	6.582	2.933	2	
+Araromi Papanla	Yewa South	Ogun	6.840	2.949	2	
+Panire	Fufore	Adamawa	9.072	12.664	2	
+Paar	Obi	Nasarawa	8.417	8.722	2	
+Panu	Ife North	Osun	7.413	4.520	2	
+Pastor	Ife South	Osun	7.146	4.617	2	
+Panu	Ife South	Osun	7.253	4.602	2	
+Panu	Ife East	Osun	7.347	4.586	2	
+Ago-Paul	Ife East	Osun	7.459	4.642	2	
+Ago-Paul	Atakunmosa West	Osun	7.312	4.691	2	
+Panu	Atakunmosa West	Osun	7.373	4.729	2	
+Panu	Atakunmosa East	Osun	7.457	4.763	2	
+Fagbo-Padi	Ondo East	Ondo	7.116	4.971	2	
+Pamo	Ori Ire	Oyo	8.143	4.059	2	
+Panpo	Asa	Kwara	8.477	4.398	2	
+Pasa	Asa	Kwara	8.456	4.452	2	
+Pankere	Surulere	Oyo	8.095	4.434	2	
+Papa-Oguntobi	Oluyole	Oyo	7.170	3.969	2	
+Paruru	Baruten	Kwara	9.414	3.292	2	
+Moshi Paru	Baruten	Kwara	9.357	3.167	2	
+Pamo	Moro	Kwara	8.717	4.404	2	
+Pambo	Moro	Kwara	8.757	4.416	2	
+Paku	Moro	Kwara	8.703	4.419	2	
+Pabiyeku	Ori Ire	Oyo	8.502	4.294	2	
+Papakoto	Ibarapa East	Oyo	7.674	3.548	2	
+Pandam	Qua'An Pan	Plateau	8.645	8.979	2	
+Panoro	Oyun	Kwara	8.155	4.632	2	
+Rafin-Pa	Akwanga	Nasarawa	8.948	8.489	2	Rafin Pa|RafinPa
+Angwan-Pa	Kokona	Nasarawa	8.793	8.084	2	
+Pamole	Ido	Oyo	7.520	3.737	2	
+Palade	Ifelodun	Kwara	8.408	4.808	2	
+Pati-Turku	Edu	Kwara	9.051	4.911	2	
+Pakogi	Moro	Kwara	9.071	4.874	2	
+Patiko	Edu	Kwara	9.077	4.899	2	
+Patiyka	Mokwa	Niger	9.191	4.804	2	
+Parapo	Ogo Oluwa	Oyo	7.969	4.128	2	
+Korin Pappe	Madarounfa	Katsina	13.102	7.383	2	
+Parawel Baba	Song	Adamawa	9.981	12.383	2	ParawelBaba
+Parawel Karemi	Song	Adamawa	9.964	12.395	2	ParawelKaremi
+Palta	Song	Adamawa	9.880	12.217	2	
+Patamei	Song	Adamawa	9.813	12.484	2	
+Pajuba	Asa	Kwara	8.324	4.591	2	
+Panda	Toto	Nasarawa	8.195	7.209	2	
+Papara	Toto	Nasarawa	8.017	7.044	2	
+Pasali	Nasarawa	Nasarawa	8.621	7.659	2	
+Pasali	Municipal Area Council	FCT Abuja	8.956	7.443	2	
+Parfun	Municipal Area Council	FCT Abuja	8.859	7.345	2	
+Papa	Sardauna	Taraba	6.933	11.412	2	
+Papa	Lagelu	Oyo	7.576	4.113	2	
+Pakoyi	Ola Oluwa	Osun	7.680	4.245	2	
+Pasam	Numan	Adamawa	9.301	11.763	2	
+Pakuta	Asa	Kwara	8.349	4.411	2	
+Panu	Afijio	Oyo	7.710	4.016	2	
+Ilupeju Bye Pass	Mushin	Lagos	6.545	3.359	1	
+Palm Avenue	Mushin	Lagos	6.536	3.353	1	
+Shere to Pategi Road	Ifelodun	Kwara	8.823	4.974	1	
+Yankari National Park approach road	Alkaleri	Bauchi	10.130	10.193	1	
+Benin by pass	Uhunmwonde	Edo	6.362	5.745	1	
+Ahman Pategi Road	Kaduna North	Kaduna	10.545	7.441	1	
+Etsu Patigi Close	Kaduna North	Kaduna	10.576	7.463	1	
+Pauwa Road	Kaduna North	Kaduna	10.571	7.459	1	
+Pariya Street	Kaduna North	Kaduna	10.509	7.453	1	
+Col.Paul Ogbebor Crescent	Oredo	Edo	6.333	5.607	1	
+Ukhiri Palace Road	Ikpoba-Okha	Edo	6.246	5.738	1	
+Palace Road	Egor	Edo	6.365	5.581	1	
+Paul Ogieva Street	Ikpoba-Okha	Edo	6.378	5.692	1	
+Pa Edomwonyi street	Egor	Edo	6.366	5.623	1	
+Park Road	Sabon Gari	Kaduna	11.099	7.721	1	
+James Yakubu Pam Street	Municipal Area Council	FCT Abuja	9.040	7.465	1	
+Oba Palace Road	Oredo	Edo	6.332	5.621	1	
+Patrick O. Bokkor Crescent	Municipal Area Council	FCT Abuja	9.070	7.429	1	
+St John Pachi Street	Lagos Island	Lagos	6.458	3.391	1	
+Park Road	Surulere	Lagos	6.487	3.374	1	
+Paul Hendrickse Road	Ibadan North	Oyo	7.425	3.913	1	
+Park Lane	Ibadan North	Oyo	7.443	3.900	1	
+Salvation Army-Oke-Padi Road	Ibadan North West	Oyo	7.386	3.886	1	
+Palace Road	Eti Osa	Lagos	6.430	3.450	1	
+Patey Street	Lagos Island	Lagos	6.454	3.401	1	
+Park Lane	Apapa	Lagos	6.449	3.359	1	
+Palace Way	Kosofe	Lagos	6.541	3.404	1	
+Parkview Estate	Eti Osa	Lagos	6.456	3.441	1	
+Patience Coker Street	Eti Osa	Lagos	6.432	3.433	1	
+Parliament Road	Ibadan North	Oyo	7.402	3.897	1	
+Eastern By Pass	Kumbotso	Kano	11.934	8.575	1	
+Emir Palace Road	Kano Municipal	Kano	11.989	8.519	1	
+Palm Church Street	Lagos Island	Lagos	6.457	3.390	1	
+Parakou Crescent	Municipal Area Council	FCT Abuja	9.078	7.468	1	
+PA Michael Imoudu Avenue	Municipal Area Council	FCT Abuja	9.101	7.406	1	3rd Avenue
+Rwang Pam Street	Jos North	Plateau	9.922	8.889	1	
+Pope John Paul II Street	Municipal Area Council	FCT Abuja	9.083	7.495	1	
+Shere to Pategi Road	Edu	Kwara	8.828	5.097	1	
+Shere to Pategi Road	Pategi	Kwara	8.746	5.650	1	
+Panama Street	Municipal Area Council	FCT Abuja	9.108	7.485	1	
+Parkhill Street	Municipal Area Council	FCT Abuja	9.106	7.415	1	
+Patrick Flurent Street	Municipal Area Council	FCT Abuja	8.983	7.440	1	
+Patrick Flurent Street	Municipal Area Council	FCT Abuja	8.987	7.442	1	
+Pakali Close	Municipal Area Council	FCT Abuja	9.084	7.477	1	
+Pope John Paul II Crescent	Municipal Area Council	FCT Abuja	9.082	7.496	1	
+Royal Palm Drive	Eti Osa	Lagos	6.464	3.419	1	
+Okpamen Lane Off Palace Road	Egor	Edo	6.364	5.582	1	
+Palace Crescent	Egor	Edo	6.364	5.579	1	
+Chris-Pat Close	Eti Osa	Lagos	6.473	3.617	1	
+Park Avenue	Eti Osa	Lagos	6.497	3.615	1	
+Park Lane	Eti Osa	Lagos	6.500	3.615	1	
+old buruku park road	Jos North	Plateau	9.926	8.886	1	
+Old Bukuru Park Road	Jos North	Plateau	9.925	8.888	1	
+St Paul's Lane	Oredo	Edo	6.327	5.616	1	
+Bye Pass Road	Akko	Gombe	10.258	11.190	1	
+Ago Palace Way	Oshodi/Isolo	Lagos	6.505	3.307	1	
+Pako Bustop	Shomolu	Lagos	6.520	3.385	1	
+Pantami Road	Gombe	Gombe	10.269	11.168	1	
+Pastor Ojediran Street	Oshodi/Isolo	Lagos	6.543	3.303	1	
+Pa Odemuyiwa Street	Ado Odo/Ota	Ogun	6.684	3.288	1	
+Paul Okperuvwe Drive	Uvwie	Delta	5.558	5.772	1	
+Pastor Victor Great Street	Uvwie	Delta	5.559	5.752	1	Edafe Imono Street
+Pariola Street	Kosofe	Lagos	6.576	3.395	1	
+Shere to Pategi Road	Pategi	Kwara	8.728	5.717	1	
+Ugbo Paul Street	Enugu East	Enugu	6.484	7.529	1	
+Park Way	Enugu North	Enugu	6.466	7.501	1	
+Pat Amae Okolo Street	Enugu North	Enugu	6.464	7.576	1	
+Paradiso Eden Drive	Enugu South	Enugu	6.419	7.516	1	
+Ebony Paint Road	Enugu South	Enugu	6.394	7.499	1	
+Park Avenue	Enugu North	Enugu	6.464	7.503	1	
+Park Avenue Link Road	Enugu North	Enugu	6.460	7.493	1	
+Marshal Paint Road	Enugu North	Enugu	6.460	7.536	1	
+Pa Azubike Orji Street	Enugu East	Enugu	6.493	7.507	1	
+Edward Nnaji Park Street	Enugu North	Enugu	6.456	7.525	1	
+St Patrick's Street	Enugu East	Enugu	6.475	7.591	1	
+Igwe Edward Nnaji Palace Road	Enugu East	Enugu	6.496	7.515	1	
+Park Close	Enugu North	Enugu	6.459	7.489	1	
+Patrick Okezie Uzendu Avenue	Enugu East	Enugu	6.465	7.572	1	
+Patez Crescent	Enugu South	Enugu	6.413	7.503	1	
+Saint Gregory The Great Parish Road	Enugu South	Enugu	6.412	7.487	1	
+Chief Edward Nnaji Park Street	Enugu North	Enugu	6.456	7.524	1	
+St Joseph Parish	Enugu East	Enugu	6.476	7.520	1	
+Park Avenue Link Road	Enugu North	Enugu	6.454	7.485	1	
+Pantami Road	Gombe	Gombe	10.280	11.166	1	
+Rd Parakwai	Igabi	Kaduna	10.831	7.688	1	
+Amen Patrick Crescent	Enugu South	Enugu	6.419	7.525	1	
+Mile - Six Bye Pass Road	Yorro	Taraba	8.938	11.371	1	
+Holy Spirit Parish Close	Enugu North	Enugu	6.469	7.486	1	
+Paskal Jek Close	Enugu North	Enugu	6.454	7.516	1	
+Shere to Pategi Road	Pategi	Kwara	8.729	5.700	1	
+Paris Agaro Avenue	Oshodi/Isolo	Lagos	6.491	3.305	1	
+Paddy Chuka Street	Oshodi/Isolo	Lagos	6.501	3.296	1	
+Pastor Ifedayo Street	Oshodi/Isolo	Lagos	6.502	3.299	1	
+Palace Road	Epe	Lagos	6.583	3.965	1	
+Parkcity Close	Eti Osa	Lagos	6.456	3.472	1	
+Palm Springs Road	Eti Osa	Lagos	6.435	3.498	1	
+Pacific Drive	Eti Osa	Lagos	6.430	3.550	1	
+Pacific Alley	Eti Osa	Lagos	6.429	3.551	1	
+Pa Timothy Osunsina	Eti Osa	Lagos	6.440	3.555	1	
+Royal Palm Court	Eti Osa	Lagos	6.502	3.613	1	
+Emirs palace road	Chanchaga	Niger	9.621	6.551	1	
+Palm Drive	Eti Osa	Lagos	6.463	3.511	1	
+Ughelli-Patani Rd	Ughelli North	Delta	5.456	6.023	1	
+Paul Street	Eti Osa	Lagos	6.466	3.635	1	
+Patrick Yakowa Way	Kaduna North	Kaduna	10.509	7.460	1	
+Panchari Bura Road	Kwaya Kusar	Borno	10.434	12.009	1	
+Pala Kombo Road	Bayo	Borno	10.245	11.789	1	
+Ibrahim Sule Panda Street	Nassarawa	Kano	11.976	8.585	1	
+Warri-Patani Rd	Ughelli North	Delta	5.462	6.022	1	
+Palm Springs Road	Eti Osa	Lagos	6.450	3.492	1	
+Oganemo Palace Road	Ibeju Lekki	Lagos	6.471	3.719	1	
+Paul Okuntola Street	Mushin	Lagos	6.524	3.351	1	
+Highway path	Ikwerre	Rivers	4.947	7.014	1	
+Highway path	Oyigbo	Rivers	4.860	7.144	1	
+Pat-Obadjere Street	Eti Osa	Lagos	6.492	3.595	1	
+Paulson Ridge Street	Eti Osa	Lagos	6.465	3.584	1	
+Parsley Road	Eti Osa	Lagos	6.461	3.511	1	
+Highway path	Atakunmosa West	Osun	7.528	4.721	1	
+Highway path	Atakunmosa West	Osun	7.550	4.749	1	
+Papa Ajao Street	Ogbomosho North	Oyo	8.137	4.235	1	
+Pat Amadi Street	Owerri North	Imo	5.503	7.037	1	
+Bye-Pass Road	Uhunmwonde	Edo	6.405	5.693	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.904	10.361	1	
+Yankari National Park approach road	Alkaleri	Bauchi	10.063	10.279	1	
+Party Street	Shomolu	Lagos	6.535	3.372	1	
+Ughelli Patani Road	Warri South	Delta	5.524	5.753	1	
+Ekurede Itsekiri By-Pass	Warri South	Delta	5.521	5.730	1	
+Palace Way	Alimosho	Lagos	6.550	3.243	1	
+Panada Street	Oshodi/Isolo	Lagos	6.531	3.322	1	
+Park Lane	Shomolu	Lagos	6.519	3.377	1	
+Palace Road	Ifo	Ogun	6.642	3.385	1	
+Pa Shekoni Street	Eti Osa	Lagos	6.475	3.629	1	Asajon Way
+Pasoku Street	Ìkòròdú	Lagos	6.610	3.505	1	
+Palm Avenue	Lagelu	Oyo	7.441	3.960	1	
+Bye-Pass Road	Ovia North-East	Edo	6.431	5.634	1	
+Palace Square	Ife North	Osun	7.553	4.452	1	
+Pathway	Fune	Yobe	11.840	11.791	1	
+Yakubu Pam Street	Kaduna North	Kaduna	10.578	7.427	1	
+paccho Estate	Obio/Akpor	Rivers	4.875	6.916	1	
+Bar. Paul Nwchukwu Street	Eti Osa	Lagos	6.444	3.514	1	
+Otunba Payne Street	Shomolu	Lagos	6.522	3.399	1	
+Paulinus Nwankwo Road	Eti Osa	Lagos	6.478	3.609	1	
+St. Patrick Church	Ife Central	Osun	7.497	4.542	1	
+Bye-Pass Road	Uhunmwonde	Edo	6.439	5.654	1	
+Bye-Pass Road	Uhunmwonde	Edo	6.425	5.668	1	
+Palace Road	Ede North	Osun	7.738	4.434	1	
+Palm St	Esan West	Edo	6.752	6.070	1	
+Palace Road Ugbori	Warri South	Delta	5.526	5.735	1	
+Palmwell Street	Esan West	Edo	6.749	6.079	1	
+Bye Pass Road	Akko	Gombe	10.275	11.123	1	
+Payne Crescent	Apapa	Lagos	6.442	3.371	1	
+Pastor Samuel Amoja Street	Eti Osa	Lagos	6.457	3.613	1	
+Bye Pass Road	Gombe	Gombe	10.256	11.170	1	
+Highway path	Obio/Akpor	Rivers	4.856	7.117	1	
+Park Close	Eti Osa	Lagos	6.429	3.549	1	
+Park way	Eti Osa	Lagos	6.429	3.550	1	
+Patrice Lumumba Lane	Eti Osa	Lagos	6.467	3.649	1	
+Palm Close	Municipal Area Council	FCT Abuja	9.044	7.481	1	
+Mungo Park Close	Municipal Area Council	FCT Abuja	9.043	7.509	1	
+Paul Bassey (Barracks Road)	Uyo	Akwa Ibom	5.035	7.931	1	Okokon Etuk Street
+Paradise Street	Municipal Area Council	FCT Abuja	9.115	7.369	1	
+Palasa Street	Lokoja	Kogi	7.809	6.734	1	
+Parliament	Akure North	Ondo	7.237	5.224	1	
+Yakubu James Pam Street	Municipal Area Council	FCT Abuja	9.056	7.478	1	
+Jolly Nyame Bye Pass Road	Yorro	Taraba	8.967	11.391	1	
+Paul Okuntola Street	Mushin	Lagos	6.527	3.352	1	
+Yankari National Park approach road	Bauchi	Bauchi	10.240	10.147	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.947	10.345	1	
+Yankari National Park approach road	Alkaleri	Bauchi	10.012	10.311	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.884	10.383	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.886	10.381	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.871	10.395	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.845	10.411	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.820	10.429	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.780	10.479	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.763	10.507	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.765	10.505	1	
+Yankari National Park approach road	Alkaleri	Bauchi	9.795	10.455	1	
+Shere to Pategi Road	Pategi	Kwara	8.762	5.611	1	
+Shere to Pategi Road	Pategi	Kwara	8.752	5.510	1	
+Shere to Pategi Road	Edu	Kwara	8.767	5.380	1	
+Shere to Pategi Road	Edu	Kwara	8.760	5.261	1	
+St Anne's Parish close	Aboh-Mbaise	Imo	5.494	7.197	1	
+Pastor Akindehinmi street	Ìkòròdú	Lagos	6.552	3.542	1	
+Paul Odili Crescent	Municipal Area Council	FCT Abuja	8.973	7.348	1	
+Egba Palace Road	Ikpoba-Okha	Edo	6.260	5.692	1	
+Park Street	Zurmi	Zamfara	12.595	6.774	1	
+Paulo Drive	Municipal Area Council	FCT Abuja	8.980	7.347	1	
+Path	Ìkòròdú	Lagos	6.662	3.656	1	
+Pa Matthew Ayinde close	Ilorin East	Kwara	8.480	4.622	1	
+Eze Obiekweihe Palace Rd	Oru East	Imo	5.789	6.930	1	
+Foot Path	Njikoka	Anambra	6.183	6.959	1	
+Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.946	1	
+Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.943	1	
+Palm Lane	Umuahia North	Abia	5.540	7.491	1	
+Palm Avenue	Oluyole	Oyo	7.344	3.820	1	
+Highway path	Ilesha East	Osun	7.607	4.779	1	
+Highway path	Ikwerre	Rivers	4.973	7.009	1	
+Ramat Park Flyover	Ikpoba-Okha	Edo	6.350	5.662	1	
+Highway Path	Bokkos	Plateau	9.366	8.884	1	
+Pastor Olu Olusakin Avenue	Eti Osa	Lagos	6.452	3.566	1	
+Paul Odulaja Crescent	Kosofe	Lagos	6.561	3.393	1	
 Dadi Motor Park, Kwangila	Sabon Gari	Kaduna	11.129	7.705	0	
 BRT Palmgrove	Shomolu	Lagos	6.542	3.367	0	
 Blessed St. Paul Memorial Group of Schools	Egor	Edo	6.366	5.587	0	
@@ -100,52 +828,14 @@ Cliffosa Motor Park	Oredo	Edo	6.347	5.624	0
 Iyare Motor Park	Oredo	Edo	6.349	5.622	0	
 Parkview Montessori School Enugu	Enugu North	Enugu	6.459	7.494	0	
 Ogba Bus Park	Ikeja	Lagos	6.633	3.342	0	
-Fanyabo	Doguwa	Kano	11.113	8.546	2	Panyabo
 sango pataki community health center	Ibadan North	Oyo	7.427	3.893	0	
 Cross Country Motor Park	Sokoto North	Sokoto	13.056	5.215	0	
-Pama	Hawul	Borno	10.478	12.248	2	
-Mifa Patala	Chibok	Borno	10.892	12.919	2	
-Lawan Kachalla	Chibok	Borno	10.748	12.924	2	Paya Yesu
-Pahra	Shani	Borno	10.174	11.808	2	
-Pala Kombo	Bayo	Borno	10.237	11.786	2	
-Panshani	Shani	Borno	10.184	11.820	2	
-Motor Park	Gubio	Borno	12.495	12.775	2	
-Panchani Kulede	Shani	Borno	10.211	12.045	2	
-Panshani Dan Yaro Shanu	Shani	Borno	10.208	12.049	2	
-Panshani Kulede Sambo	Shani	Borno	10.204	12.045	2	
 Pahra Clinic	Shani	Borno	10.175	11.809	0	
-Jajel Pabu	Chibok	Borno	10.721	12.918	2	
-Jigalta Motor Pack	Nganzai	Borno	12.605	13.320	2	
-Panklang	Kwaya Kusar	Borno	10.410	11.941	2	
-Pankikang Jauro Hamldu	Shani	Borno	10.134	11.998	2	
-Pankilang Bulama Hamidu	Shani	Borno	10.133	12.004	2	Pankillang
-Pankilang Fulani	Shani	Borno	10.136	11.995	2	
-Brinkima	Shani	Borno	10.341	11.974	2	Pajala Ajiya
-Pajala Lafiya	Shani	Borno	10.338	12.002	2	
-Paka Bura	Kwaya Kusar	Borno	10.365	12.011	2	Paka
-Paka Fulani	Kwaya Kusar	Borno	10.354	12.019	2	
-Palma Fulani	Kwaya Kusar	Borno	10.354	12.020	2	
-Panchani Maianguwa Likita	Kwaya Kusar	Borno	10.431	11.998	2	
-Panchani Maianguwa Yusuf B	Kwaya Kusar	Borno	10.429	11.996	2	
-Panchari Bura	Kwaya Kusar	Borno	10.428	11.996	2	
 Pama Dispensary	Hawul	Borno	10.478	12.248	0	
-Pazirga	Bayo	Borno	10.588	11.720	2	
-Pamin A	Kwaya Kusar	Borno	10.587	11.864	2	
-Pamin B	Kwaya Kusar	Borno	10.614	11.848	2	
-Pamin C	Kwaya Kusar	Borno	10.615	11.853	2	
-Pamin	Kwaya Kusar	Borno	10.609	11.856	2	
-Palami Juwa	Hawul	Borno	10.549	12.342	2	
-Babba Pate	Biu	Borno	10.718	11.947	2	
-Palma Fulani	Biu	Borno	10.749	12.372	2	
-Palma	Biu	Borno	10.750	12.374	2	
-Para Hussara	Askira-Uba	Borno	10.500	13.239	2	
 pas de nom	Ipokia	Ogun	6.645	2.738	0	
 Clinique La paix	Ipokia	Ogun	6.538	2.732	0	
-Papa market	Ola Oluwa	Osun	7.732	4.285	0	
 Obalende Motor Park	Lagos Island	Lagos	6.450	3.407	0	
 AKTC Park	Itu	Akwa Ibom	5.056	7.884	0	
-point seven Pandaya 1 Gona Div.	Yamaltu/Deba	Gombe	10.200	11.237	2	
-Point 3 Pantami Division	Akko	Gombe	10.275	11.124	2	
 Patcey Oil Filling Station	Yenegoa	Bayelsa	4.943	6.343	0	
 Peace Park	Yenegoa	Bayelsa	4.954	6.350	0	
 Paudsiman Filling Station	Yenegoa	Bayelsa	4.948	6.333	0	
@@ -169,7 +859,6 @@ Palms Shopping Mall	Ibadan South West	Oyo	7.364	3.865	0
 St. Paul Secondary School	Ikot Ekpene	Akwa Ibom	5.172	7.728	0	
 St Paul School	Southern Ijaw	Bayelsa	4.718	5.945	0	
 Peace Park Ogrute Enugu Ezike	Igbo-Eze-North	Enugu	6.982	7.448	0	
-Pandanka	Kumbotso	Kano	11.928	8.485	2	
 Shehu Palace Health Clinic	Maiduguri	Borno	11.848	13.161	0	
 Imo Transport Company ITC Park	Port-Harcourt	Rivers	4.816	7.008	0	
 Peace Mass Transit Park	Onitsha North	Anambra	6.135	6.793	0	
@@ -215,12 +904,7 @@ St. Peter'S And Paul'S School Eruku	Ado Odo/Ota	Ogun	6.541	3.012	0
 St. Paul'S Anglican Primary School, Emuren	Shagamu	Ogun	6.754	3.648	0	
 St. Paul Primary School, Alagbo Ofin	Shagamu	Ogun	6.846	3.648	0	
 Olive Pry Health Centre, iso pako, Bodija	Ibadan North	Oyo	7.440	3.920	0	
-Palmgrove Christian Community	Abak	Akwa Ibom	4.999	7.766	2	
 Papalanto Station	Ewekoro	Ogun	6.913	3.233	0	
-Pata	Ndokwa East	Delta	5.874	6.660	2	
-Pata I	Ndokwa East	Delta	5.894	6.667	2	
-Pata II	Ndokwa East	Delta	5.875	6.652	2	
-Pata III	Ndokwa East	Delta	5.869	6.660	2	
 Rural Hospital Sarkin Pawa	Munya	Niger	10.022	7.123	0	
 St. Paul Anglican Primary School	Olorunsogo	Oyo	8.743	4.141	0	
 S. D pasali oil & gas	Jos North	Plateau	9.955	8.901	0	
@@ -254,9 +938,6 @@ Ibeshe Palace	Amuwo Odofin	Lagos	6.412	3.256	0
 Ikare Palace	Amuwo Odofin	Lagos	6.418	3.238	0	
 Ipata Oloje Old Spare Part Market, Anifowoshe Street, Ilorin, Nigeria	Ilorin West	Kwara	8.504	4.515	0	Ipata Oloje Spare Parts Market
 Page Schools	Municipal Area Council	FCT Abuja	8.982	7.492	0	
-Ago Palace	Oshodi/Isolo	Lagos	6.503	3.306	3	
-Pandinkude	Billiri	Gombe	9.805	11.090	2	
-Innovation Park	Nkanu East	Enugu	6.440	7.669	2	
 Junction Park/ Garki	Municipal Area Council	FCT Abuja	9.030	7.500	0	
 Louis Pasteur Hospital Complex Limited, Abuja	Municipal Area Council	FCT Abuja	9.111	7.377	0	
 Narto Park, Dei-Dei Junction, Abuja	Municipal Area Council	FCT Abuja	9.114	7.259	0	
@@ -266,251 +947,38 @@ Kabusa Park - To Gudu Market	Municipal Area Council	FCT Abuja	8.956	7.444	0
 Peace Park	Municipal Area Council	FCT Abuja	9.068	7.441	0	
 El Rufai Park Bus Stop	Gwagwalada	FCT Abuja	8.944	7.081	0	
 Jabi Motor Park	Municipal Area Council	FCT Abuja	9.064	7.433	0	
-Robertson Patches	Calabar South	Cross River	4.795	8.347	2	
-Papa Ajao	Mushin	Lagos	6.541	3.347	2	
-Parrot Crossing	Calabar South	Cross River	4.826	8.331	2	
-Ilupeju Bye Pass	Mushin	Lagos	6.545	3.359	1	
-Palm Avenue	Mushin	Lagos	6.536	3.353	1	
-Shere to Pategi Road	Ifelodun	Kwara	8.823	4.974	1	
-Yankari National Park approach road	Alkaleri	Bauchi	10.130	10.193	1	
-Benin by pass	Uhunmwonde	Edo	6.362	5.745	1	
 Kawo Motor Park	Kaduna North	Kaduna	10.585	7.449	0	
-Ahman Pategi Road	Kaduna North	Kaduna	10.545	7.441	1	
-Etsu Patigi Close	Kaduna North	Kaduna	10.576	7.463	1	
-Pauwa Road	Kaduna North	Kaduna	10.571	7.459	1	
-Pariya Street	Kaduna North	Kaduna	10.509	7.453	1	
-Col.Paul Ogbebor Crescent	Oredo	Edo	6.333	5.607	1	
-Ukhiri Palace Road	Ikpoba-Okha	Edo	6.246	5.738	1	
-Palace Road	Egor	Edo	6.365	5.581	1	
-Paul Ogieva Street	Ikpoba-Okha	Edo	6.378	5.692	1	
-Pa Edomwonyi street	Egor	Edo	6.366	5.623	1	
-Park Road	Sabon Gari	Kaduna	11.099	7.721	1	
-James Yakubu Pam Street	Municipal Area Council	FCT Abuja	9.040	7.465	1	
-Oba Palace Road	Oredo	Edo	6.332	5.621	1	
-Patrick O. Bokkor Crescent	Municipal Area Council	FCT Abuja	9.070	7.429	1	
 Paragon Group of School	Oredo	Edo	6.350	5.615	0	
-St John Pachi Street	Lagos Island	Lagos	6.458	3.391	1	
-Park Road	Surulere	Lagos	6.487	3.374	1	
-Paul Hendrickse Road	Ibadan North	Oyo	7.425	3.913	1	
-Park Lane	Ibadan North	Oyo	7.443	3.900	1	
-Salvation Army-Oke-Padi Road	Ibadan North West	Oyo	7.386	3.886	1	
 Swimming Pool's Pavillion	Ibadan North	Oyo	7.444	3.898	0	
-Palace Road	Eti Osa	Lagos	6.430	3.450	1	
-Patey Street	Lagos Island	Lagos	6.454	3.401	1	
-Park Lane	Apapa	Lagos	6.449	3.359	1	
-Palace Way	Kosofe	Lagos	6.541	3.404	1	
-Parkview Estate	Eti Osa	Lagos	6.456	3.441	1	
-Patience Coker Street	Eti Osa	Lagos	6.432	3.433	1	
-Parliament Road	Ibadan North	Oyo	7.402	3.897	1	
-Eastern By Pass	Kumbotso	Kano	11.934	8.575	1	
-Emir Palace Road	Kano Municipal	Kano	11.989	8.519	1	
-Palm Church Street	Lagos Island	Lagos	6.457	3.390	1	
-Parakou Crescent	Municipal Area Council	FCT Abuja	9.078	7.468	1	
-PA Michael Imoudu Avenue	Municipal Area Council	FCT Abuja	9.101	7.406	1	3rd Avenue
-Rwang Pam Street	Jos North	Plateau	9.922	8.889	1	
-Pope John Paul II Street	Municipal Area Council	FCT Abuja	9.083	7.495	1	
-Shere to Pategi Road	Edu	Kwara	8.828	5.097	1	
-Shere to Pategi Road	Pategi	Kwara	8.746	5.650	1	
-Panama Street	Municipal Area Council	FCT Abuja	9.108	7.485	1	
-Parkhill Street	Municipal Area Council	FCT Abuja	9.106	7.415	1	
-Patrick Flurent Street	Municipal Area Council	FCT Abuja	8.983	7.440	1	
-Patrick Flurent Street	Municipal Area Council	FCT Abuja	8.987	7.442	1	
-Pakali Close	Municipal Area Council	FCT Abuja	9.084	7.477	1	
-Pope John Paul II Crescent	Municipal Area Council	FCT Abuja	9.082	7.496	1	
-Royal Palm Drive	Eti Osa	Lagos	6.464	3.419	1	
-Okpamen Lane Off Palace Road	Egor	Edo	6.364	5.582	1	
-Palace Crescent	Egor	Edo	6.364	5.579	1	
-Chris-Pat Close	Eti Osa	Lagos	6.473	3.617	1	
-Park Avenue	Eti Osa	Lagos	6.497	3.615	1	
-Park Lane	Eti Osa	Lagos	6.500	3.615	1	
-Passa Kai	Bokkos	Plateau	9.146	8.815	2	
 Federal College of Education Pankshin	Pankshin	Plateau	9.335	9.394	0	
-old buruku park road	Jos North	Plateau	9.926	8.886	1	
-Old Bukuru Park Road	Jos North	Plateau	9.925	8.888	1	
-St Paul's Lane	Oredo	Edo	6.327	5.616	1	
-BYE PASS ROAD	Akko	Gombe	10.258	11.190	1	
-Ago Palace Way	Oshodi/Isolo	Lagos	6.505	3.307	1	
 Park 'N' Shop	Municipal Area Council	FCT Abuja	9.084	7.468	0	
-Pako Bustop	Shomolu	Lagos	6.520	3.385	1	
-Pantami Road	Gombe	Gombe	10.269	11.168	1	
-Pastor Ojediran Street	Oshodi/Isolo	Lagos	6.543	3.303	1	
-Pa Odemuyiwa Street	Ado Odo/Ota	Ogun	6.684	3.288	1	
-Paul Okperuvwe Drive	Uvwie	Delta	5.558	5.772	1	
-Pastor Victor Great Street	Uvwie	Delta	5.559	5.752	1	Edafe Imono Street
 Angwan Rukuba Park	Jos North	Plateau	9.933	8.911	0	
-Pariola Street	Kosofe	Lagos	6.576	3.395	1	
-Parliament Road	Ibadan North	Oyo	7.405	3.900	1	
-Shere to Pategi Road	Pategi	Kwara	8.728	5.717	1	
-Shere to Pategi Road	Pategi	Kwara	8.727	5.729	1	
-Shere to Pategi Road	Pategi	Kwara	8.726	5.739	1	
-Ugbo Paul Street	Enugu East	Enugu	6.484	7.529	1	
-Park Way	Enugu North	Enugu	6.466	7.501	1	
-Pat Amae Okolo Street	Enugu North	Enugu	6.464	7.576	1	
-Paradiso Eden Drive	Enugu South	Enugu	6.419	7.516	1	
-Ebony Paint Road	Enugu South	Enugu	6.394	7.499	1	
-Park Avenue	Enugu North	Enugu	6.464	7.503	1	
-Park Avenue	Enugu North	Enugu	6.461	7.495	1	
-Park Avenue Link Road	Enugu North	Enugu	6.460	7.493	1	
-Marshal Paint Road	Enugu North	Enugu	6.460	7.536	1	
-Pa Azubike Orji Street	Enugu East	Enugu	6.493	7.507	1	
-Edward Nnaji Park Street	Enugu North	Enugu	6.456	7.525	1	
-St Patrick's Street	Enugu East	Enugu	6.475	7.591	1	
-Igwe Edward Nnaji Palace Road	Enugu East	Enugu	6.496	7.515	1	
-Park Close	Enugu North	Enugu	6.459	7.489	1	
-Patrick Okezie Uzendu Avenue	Enugu East	Enugu	6.465	7.572	1	
-Patez Crescent	Enugu South	Enugu	6.413	7.503	1	
-Saint Gregory The Great Parish Road	Enugu South	Enugu	6.412	7.487	1	
-Chief Edward Nnaji Park Street	Enugu North	Enugu	6.456	7.524	1	
-St Joseph Parish	Enugu East	Enugu	6.476	7.520	1	
-Park Avenue Link Road	Enugu North	Enugu	6.462	7.497	1	
-Park Avenue Link Road	Enugu North	Enugu	6.454	7.485	1	
-Pantami Road	Gombe	Gombe	10.280	11.166	1	
-Rd Parakwai	Igabi	Kaduna	10.831	7.688	1	
 Adamwa Sunshine Motor Park	Maiduguri	Borno	11.838	13.146	0	
-Amen Patrick Crescent	Enugu South	Enugu	6.419	7.525	1	
-Holy Spirit Parish Close	Enugu North	Enugu	6.469	7.486	1	
-Paskal Jek Close	Enugu North	Enugu	6.454	7.516	1	
-Shere to Pategi Road	Pategi	Kwara	8.729	5.700	1	
-Paris Agaro Avenue	Oshodi/Isolo	Lagos	6.491	3.305	1	
-Paddy Chuka Street	Oshodi/Isolo	Lagos	6.501	3.296	1	
-Pastor Ifedayo Street	Oshodi/Isolo	Lagos	6.502	3.299	1	
-Palace Road	Epe	Lagos	6.583	3.965	1	
 Panshekara Primary Health Centre	Kumbotso	Kano	11.899	8.457	0	
-Parkcity Close	Eti Osa	Lagos	6.456	3.472	1	
-Palm Springs Road	Eti Osa	Lagos	6.435	3.498	1	
-Pacific Drive	Eti Osa	Lagos	6.430	3.550	1	
-Pacific Alley	Eti Osa	Lagos	6.429	3.551	1	
-Pa Timothy Osunsina	Eti Osa	Lagos	6.440	3.555	1	
-Royal Palm Court	Eti Osa	Lagos	6.502	3.613	1	
 Pango Dispensary	Itas/Gadau	Bauchi	11.761	9.799	0	
 Pahlycom Clinic	Bauchi	Bauchi	10.297	9.843	0	
 Palla Dispensary	Bauchi	Bauchi	10.082	9.819	0	
 Palama Dispensary	Toro	Bauchi	10.027	9.335	0	
-Emirs palace road	Chanchaga	Niger	9.621	6.551	1	
-Palm Drive	Eti Osa	Lagos	6.463	3.511	1	
-Ughelli-Patani Rd	Ughelli North	Delta	5.456	6.023	1	
-Paul Street	Eti Osa	Lagos	6.466	3.635	1	
-Patrick Yakowa Way	Kaduna North	Kaduna	10.509	7.460	1	
-Panchari Bura Road	Kwaya Kusar	Borno	10.434	12.009	1	
-Pala Kombo Road	Bayo	Borno	10.245	11.789	1	
-Ibrahim Sule Panda Street	Nassarawa	Kano	11.976	8.585	1	
-Warri-Patani Rd	Ughelli North	Delta	5.462	6.022	1	
-Palm Springs Road	Eti Osa	Lagos	6.450	3.492	1	
-Oganemo Palace Road	Ibeju Lekki	Lagos	6.471	3.719	1	
-Paul Okuntola Street	Mushin	Lagos	6.524	3.351	1	
-Highway path	Ikwerre	Rivers	4.947	7.014	1	
-Highway path	Oyigbo	Rivers	4.860	7.144	1	
 Proposed Paediatric Hospital	Tarauni	Kano	11.969	8.533	0	
-Pat-Obadjere Street	Eti Osa	Lagos	6.492	3.595	1	
-Paulson Ridge Street	Eti Osa	Lagos	6.465	3.584	1	
-Parsley Road	Eti Osa	Lagos	6.461	3.511	1	
 Bonus Pastor (Catholic) Junior Seminar and Secondary School	Ideato North	Imo	5.876	7.094	0	
-Highway path	Atakunmosa West	Osun	7.528	4.721	1	
-Highway path	Atakunmosa West	Osun	7.550	4.749	1	
-Papa Ajao Street	Ogbomosho North	Oyo	8.137	4.235	1	
-Pat Amadi Street	Owerri North	Imo	5.503	7.037	1	
-Bye-Pass Road	Uhunmwonde	Edo	6.405	5.693	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.904	10.361	1	
-Yankari National Park approach road	Alkaleri	Bauchi	10.063	10.279	1	
-Party Street	Shomolu	Lagos	6.535	3.372	1	
-Ughelli Patani Road	Warri South	Delta	5.524	5.753	1	
-Ekurede Itsekiri By-Pass	Warri South	Delta	5.521	5.730	1	
-Palace Way	Alimosho	Lagos	6.550	3.243	1	
-Panada Street	Oshodi/Isolo	Lagos	6.531	3.322	1	
-Park Lane	Shomolu	Lagos	6.519	3.377	1	
-Palace Road	Ifo	Ogun	6.642	3.385	1	
-Pa Shekoni Street	Eti Osa	Lagos	6.475	3.629	1	Asajon Way
-Pasoku Street	Ìkòròdú	Lagos	6.610	3.505	1	
-Palm Avenue	Lagelu	Oyo	7.441	3.960	1	
-Bye-Pass Road	Ovia North-East	Edo	6.431	5.634	1	
-Palace Square	Ife North	Osun	7.553	4.452	1	
 Mafa Para-Vetenary Clinic	Tarmua	Yobe	12.358	12.222	0	
-Royal Palm Drive	Eti Osa	Lagos	6.460	3.409	1	
-Pathway	Fune	Yobe	11.840	11.791	1	
 Polo Park Mall	Enugu North	Enugu	6.460	7.496	0	
-Eastern By Pass	Kumbotso	Kano	11.935	8.576	1	
-Yakubu Pam Street	Kaduna North	Kaduna	10.578	7.427	1	
-paccho Estate	Obio/Akpor	Rivers	4.875	6.916	1	
-Bar. Paul Nwchukwu Street	Eti Osa	Lagos	6.444	3.514	1	
 Lycée Français Louis Pasteur	Eti Osa	Lagos	6.426	3.436	0	
-Otunba Payne Street	Shomolu	Lagos	6.522	3.399	1	
-Paulinus Nwankwo Road	Eti Osa	Lagos	6.478	3.609	1	
-St. Patrick Church	Ife Central	Osun	7.497	4.542	1	
-Bye-Pass Road	Uhunmwonde	Edo	6.439	5.654	1	
-Bye-Pass Road	Uhunmwonde	Edo	6.429	5.653	1	
-Bye-Pass Road	Uhunmwonde	Edo	6.425	5.668	1	
-Palace Road	Ede North	Osun	7.738	4.434	1	
-Palm St	Esan West	Edo	6.752	6.070	1	
-Palace Road Ugbori	Warri South	Delta	5.526	5.735	1	
-Palmwell Street	Esan West	Edo	6.749	6.079	1	
-BYE PASS ROAD	Akko	Gombe	10.275	11.123	1	
-Payne Crescent	Apapa	Lagos	6.442	3.371	1	
-Pastor Samuel Amoja Street	Eti Osa	Lagos	6.457	3.613	1	
-Highway path	Ikwerre	Rivers	4.947	7.017	1	
-BYE PASS ROAD	Gombe	Gombe	10.256	11.170	1	
-BYE PASS ROAD	Gombe	Gombe	10.258	11.155	1	
-Highway path	Obio/Akpor	Rivers	4.856	7.117	1	
-Highway path	Obio/Akpor	Rivers	4.854	7.117	1	
 Westwood Park School, Jos	Jos North	Plateau	9.868	8.888	0	
-Emir Palace Road	Kano Municipal	Kano	11.991	8.528	1	
-Park Close	Eti Osa	Lagos	6.429	3.549	1	
-Park way	Eti Osa	Lagos	6.429	3.550	1	
-Patrice Lumumba Lane	Eti Osa	Lagos	6.467	3.649	1	
-Palm Close	Municipal Area Council	FCT Abuja	9.044	7.481	1	
-Mungo Park Close	Municipal Area Council	FCT Abuja	9.043	7.509	1	
-Paul Bassey (Barracks Road)	Uyo	Akwa Ibom	5.035	7.931	1	Okokon Etuk Street
-Paradise Street	Municipal Area Council	FCT Abuja	9.115	7.369	1	
 St. John Paul II School	Eti Osa	Lagos	6.457	3.428	0	
-Palasa Street	Lokoja	Kogi	7.809	6.734	1	
-Parliament	Akure North	Ondo	7.237	5.224	1	
-Yakubu James Pam Street	Municipal Area Council	FCT Abuja	9.056	7.478	1	
-Paul Okuntola Street	Mushin	Lagos	6.527	3.352	1	
-Ibrahim Sule Panda Street	Nassarawa	Kano	11.976	8.585	1	
-Patey Street	Lagos Island	Lagos	6.456	3.401	1	
-Park Lane	Apapa	Lagos	6.446	3.367	1	
-Ebony Paint Road	Enugu South	Enugu	6.391	7.494	1	
-Palm Avenue	Mushin	Lagos	6.534	3.345	1	
-Yankari National Park approach road	Bauchi	Bauchi	10.240	10.147	1	
-Yankari National Park approach road	Bauchi	Bauchi	10.229	10.151	1	
-old buruku park road	Jos North	Plateau	9.929	8.885	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.947	10.345	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.946	10.345	1	
-Yankari National Park approach road	Alkaleri	Bauchi	10.012	10.311	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.884	10.383	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.886	10.381	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.871	10.395	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.845	10.411	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.820	10.429	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.803	10.446	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.809	10.440	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.780	10.479	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.763	10.507	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.765	10.505	1	
-Yankari National Park approach road	Alkaleri	Bauchi	9.795	10.455	1	
-Parliament	Akure North	Ondo	7.234	5.223	1	
-Shere to Pategi Road	Pategi	Kwara	8.762	5.611	1	
-Shere to Pategi Road	Pategi	Kwara	8.752	5.510	1	
-Shere to Pategi Road	Edu	Kwara	8.767	5.380	1	
-Shere to Pategi Road	Edu	Kwara	8.760	5.261	1	
-St Anne's Parish close	Aboh-Mbaise	Imo	5.494	7.197	1	
 Sharks Park Station	Port-Harcourt	Rivers	4.766	7.018	0	
 Bus Park	Bosso	Niger	9.537	6.455	0	
 St Patrick’s College	Calabar Municipal	Cross River	5.024	8.341	0	
 Bus Park	Isuikwuato	Abia	5.828	7.396	0	
-Pastor Akindehinmi street	Ìkòròdú	Lagos	6.552	3.542	1	
 Palms Mall	Ado Odo/Ota	Ogun	6.697	3.257	0	
 Ladipo Market	Mushin	Lagos	6.545	3.345	0	Ladipo Auto Spare Parts Market
-Paul Odili Crescent	Municipal Area Council	FCT Abuja	8.973	7.348	1	
 Pan-Atlantic University	Ibeju Lekki	Lagos	6.491	3.858	0	
 St Paul School I Field	Southern Ijaw	Bayelsa	4.718	5.945	0	
-Paul Odili Crescent	Municipal Area Council	FCT Abuja	8.976	7.346	1	
 Agbala Paediatric Centre	Ìkòròdú	Lagos	6.631	3.508	0	
-Palm Drive	Eti Osa	Lagos	6.453	3.510	1	
 Patricia General Hospital	Sumaila	Kano	11.524	8.958	0	
 Papa Model Primary Health Center	Darazo	Bauchi	11.243	10.838	0	
 Pali Health Center	Alkaleri	Bauchi	10.273	10.340	0	
 Palmer Clinic	Obio/Akpor	Rivers	4.812	6.982	0	Palmer Hospital
-Egba Palace Road	Ikpoba-Okha	Edo	6.260	5.692	1	
 Paragalda Health Clinic	Hong	Adamawa	10.394	13.179	0	
 Paragalda Primary Health Center	Hong	Adamawa	10.398	13.186	0	
 Mafa Para-Vetenary Clinic	Tarmua	Yobe	12.362	12.228	0	
@@ -519,60 +987,17 @@ Parda Health Post	Fufore	Adamawa	9.181	12.722	0
 Private Patient Medical Store Filingo	Fufore	Adamawa	9.311	12.892	0	
 paiwawoi heath center	Maiha	Adamawa	10.093	13.131	0	
 Pariya Maternal And Child Health Clinic	Fufore	Adamawa	9.379	12.700	0	
-Pandinkude	Billiri	Gombe	9.808	11.093	2	
 Gurum Pawo Health Center	Ganye	Adamawa	8.451	11.938	0	
-Park Street	Zurmi	Zamfara	12.595	6.774	1	
-Paulo Drive	Municipal Area Council	FCT Abuja	8.980	7.347	1	
-OUT-GOING PATIENT        DEPARTMENT	Isiala Mbano	Imo	5.679	7.240	0	
-Path	Ìkòròdú	Lagos	6.662	3.656	1	
-Pa Matthew Ayinde close	Ilorin East	Kwara	8.480	4.622	1	
-Paul Odili Crescent	Municipal Area Council	FCT Abuja	8.975	7.344	1	
+Out-Going Patient        Department	Isiala Mbano	Imo	5.679	7.240	0	
 Paramount Ruler House	Eastern Obolo	Akwa Ibom	4.536	7.706	0	
-Eze Obiekweihe Palace Rd	Oru East	Imo	5.789	6.930	1	
-FOOT PATH	Njikoka	Anambra	6.183	6.959	1	
-Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.946	1	
 Park View family Hospital	Jos North	Plateau	9.870	8.857	0	
-Prince Patrick Ehapa Street	Epe	Lagos	6.607	3.943	1	
-Palm Lane	Umuahia North	Abia	5.540	7.491	1	
 Bus Park	Jos North	Plateau	9.949	8.891	0	
-Edward Nnaji Park Street	Enugu North	Enugu	6.454	7.525	1	
-Ilupeju Bye Pass	Mushin	Lagos	6.544	3.357	1	
 Bama Motor Park Shopping centre	Jere	Borno	11.805	13.184	0	
-Bama Motor Park Shopping centre	Jere	Borno	11.805	13.184	0	
+Bama Motor Park Shopping centre	Jere	Borno	11.804	13.184	0	
 Bama Motor Park Shopping centre	Jere	Borno	11.804	13.186	0	
-Parliament Road	Ibadan North	Oyo	7.408	3.909	1	
-Park Lane	Apapa	Lagos	6.450	3.354	1	
-Palm Springs Road	Eti Osa	Lagos	6.448	3.498	1	
-Palace Road	Ede North	Osun	7.738	4.435	1	
-Palm Avenue	Oluyole	Oyo	7.344	3.820	1	
-Highway path	Ilesha East	Osun	7.607	4.779	1	
-Highway path	Ikwerre	Rivers	4.944	7.017	1	
-Highway path	Ikwerre	Rivers	4.973	7.009	1	
-Ramat Park Flyover	Ikpoba-Okha	Edo	6.350	5.662	1	
-Highway Path	Bokkos	Plateau	9.366	8.884	1	
 Paelon Memorial Hospital	Eti Osa	Lagos	6.423	3.415	0	
-River Park Estate	Municipal Area Council	FCT Abuja	8.981	7.331	2	
-Pastor Olu Olusakin Avenue	Eti Osa	Lagos	6.452	3.566	1	
-Paediatric Emergency/Paediatrics Ward	Nnewi North	Anambra	6.000	6.880	0	
+Paediatric Emergency/Paediatrics	Nnewi North	Anambra	6.000	6.880	0	
 Medical Out-Patient Clinic	Nnewi North	Anambra	5.999	6.880	0	
 Surgical Out-Patient Clinic	Nnewi North	Anambra	5.999	6.881	0	
 General Out-Patient Department (GOPD)	Nnewi North	Anambra	5.999	6.882	0	
-Paul Odulaja Crescent	Kosofe	Lagos	6.561	3.393	1	
 Paediatric Hospital Zoo Road Kano	Tarauni	Kano	11.970	8.534	0	
-Bindigari Pawari	Ngelzarma	Yobe	11.759	11.933	2	
-Pambegua	Kubau	Kaduna	10.580	8.321	2	
-Panhauya	Giwa	Kaduna	11.137	7.591	2	
-Pari	Kauru	Kaduna	9.795	8.548	2	
-Panshekara	Kumbotso	Kano	11.905	8.469	2	
-Pala	Ikara	Kaduna	11.158	8.455	2	
-Paki	Ikara	Kaduna	11.491	8.073	2	
-Patani	Patani	Delta	5.175	6.094	2	
-Pategi	Pategi	Kwara	8.670	5.817	2	
-Paikoro	Paikoro	Niger	9.493	6.838	2	
-Pankshin	Pankshin	Plateau	9.305	9.379	2	
-Qua'An Pan	Qua'An Pan	Plateau	8.766	9.124	2	
-Papa South	Darazo	Bauchi	11.143	10.865	2	
-Pali West	Alkaleri	Bauchi	9.926	10.470	2	
-Pali East	Alkaleri	Bauchi	10.037	10.561	2	
-Papa North	Darazo	Bauchi	11.225	10.845	2	
-Pama Whitambaya	Hawul	Borno	10.405	12.239	2	

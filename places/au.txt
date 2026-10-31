@@ -1,7 +1,9 @@
-Auchan Station	Ikara	Kaduna	11.414	8.018	0	
+Anguwan Audu	Kwaya Kusar	Borno	10.344	11.925	3	Peta
+Auchi	Etsako West	Edo	7.067	6.268	3	
+Auyo	Auyo	Jigawa	12.333	9.939	3	Kiggin
+Augie	Augie	Kebbi	12.890	4.600	3	Augi
 Gidan Malam Audu	Maru	Zamfara	11.434	6.522	2	
 Ungwar Mallam Audu	Kubau	Kaduna	11.097	8.547	2	
-Anguwan Audu	Kwaya Kusar	Borno	10.344	11.925	3	Peta
 Avbriaria	Ikpoba-Okha	Edo	6.283	5.633	2	Aubriaria
 Unguwar Audu	Bungudu	Zamfara	12.116	6.869	2	
 Auno	Konduga	Borno	11.848	12.938	2	
@@ -21,12 +23,11 @@ Tungan Audu	Sabuwa	Katsina	11.263	6.987	2
 Jama'Are	Shani	Borno	10.099	11.862	2	Auro Jamari
 Audu	Bungudu	Zamfara	12.118	6.874	2	
 Ahun	Yagba West	Kogi	8.333	5.333	2	Aun
+Audu	Kurmi	Taraba	7.135	10.602	2	
 Aune	Oturkpo	Benue	7.474	8.036	2	
 Augi	Augie	Kebbi	12.892	4.601	2	
 Auki	Bungudu	Zamfara	12.182	6.506	2	
 Ungwan Audi	Sabuwa	Katsina	11.220	7.110	2	Audi
-Auchi	Etsako West	Edo	7.067	6.268	3	
-Autie Rose Foundation Group of Schools	Oredo	Edo	6.342	5.603	0	
 Auma L Maina	Damboa	Borno	11.102	12.473	2	
 Lawan Audu	Chibok	Borno	10.773	12.953	2	
 Auwairi	Magumeri	Borno	12.085	12.896	2	
@@ -37,20 +38,13 @@ Ardo Aude	Shani	Borno	10.309	12.197	2
 Alhaji Audu	Kwaya Kusar	Borno	10.425	12.025	2	
 Jauro Audi	Hawul	Borno	10.392	12.475	2	
 Shikwi Bulama Audu Baushi	Hawul	Borno	10.634	12.053	2	
-Auno Primary Health Clinic	Konduga	Borno	11.847	12.933	0	
 Aulari	Konduga	Borno	11.543	13.594	2	
 Bila Autama	Chibok	Borno	10.894	12.814	2	
 Auno	Konduga	Borno	11.829	13.069	2	
 Auro	Konduga	Borno	11.653	13.022	2	
 Auno Malam Bukarti	Konduga	Borno	11.848	12.925	2	
-Aunty Gold's Christian Academy	Uvwie	Delta	5.566	5.772	0	
-Aunty Pat School	Warri South	Delta	5.531	5.745	0	
-St. Augustine Schools	Warri South	Delta	5.532	5.757	0	
-Aunty Mercy Blessed School	Warri South	Delta	5.529	5.758	0	
 Tungan Auta	Magama	Niger	10.685	4.917	2	
-Katsina State Transport Authority	Muhammadu Dikko Stadium	Katsina	12.981	7.587	0	
 Augi west	Augie	Kebbi	12.888	4.596	2	
-Auga Akoko Market	Akoko North East	Ondo	7.557	5.916	0	
 Auzunawa	Dawakin Tofa	Kano	12.067	8.404	2	
 Audaran	Minjibir	Kano	12.231	8.587	2	
 Aujirawar Alkali	Gezawa	Kano	12.005	8.645	2	
@@ -62,34 +56,106 @@ Auzara Yamma	Takai	Kano	11.521	9.322	2
 Auzara Tsakiya	Takai	Kano	11.522	9.327	2	
 Auduga	Garko	Kano	11.617	8.799	2	
 Sabon Gari Auduga	Tudun Wada	Kano	11.281	8.444	2	
-Augie South	Augie	Kebbi	12.881	4.590	0	
-Rural Hospital Auna	Magama	Niger	10.186	4.737	0	
-st. augustine catholic primary school i	Ìjẹ̀bú Òde	Ogun	6.822	3.926	0	
-st. augustine catholic primary school ii	Ìjẹ̀bú Òde	Ogun	6.821	3.927	0	
-Ezinifite (Augusta) Town Hall	Jos North	Plateau	9.924	8.886	0	
-MAL. AUDU MAI ALMAJIRAI	Ungongo	Kano	12.048	8.568	0	
-AULAD INTNL SCHOOL	Ungongo	Kano	12.050	8.575	0	
-MAKARANTAR MAL AUWALU	Ungongo	Kano	12.044	8.565	0	
-MAKARANTAR MALAN AUWAL	Ungongo	Kano	12.044	8.565	0	
-KARANTAR MALAM AUWAL FARIN MASALLACHI	Gwale	Kano	11.960	8.468	0	
-Austoma	Municipal Area Council	FCT Abuja	9.082	7.465	0	
-St. Augustine Private School	Jos North	Plateau	9.871	8.849	0	
-Local Authority Primary School Akarakumoh	Badagry	Lagos	6.412	2.957	0	
-Beenish Auto Limited	Municipal Area Council	FCT Abuja	9.120	7.393	0	
-Shola Autos	Municipal Area Council	FCT Abuja	9.121	7.387	0	
-Automotive Engineering Department	Kaduna North	Kaduna	10.612	7.441	0	
+Auyakayi	Auyo	Jigawa	12.372	9.988	2	
+Aujara	Jahun	Jigawa	12.028	9.432	2	
+Augie North	Augie	Kebbi	12.894	4.580	2	
+Augie	Augie	Kebbi	12.901	4.629	2	
+Augie South	Augie	Kebbi	12.909	4.605	2	
+Auchan	Ikara	Kaduna	11.427	8.040	2	
+Dan Aunai	Dutsi	Katsina	12.861	8.187	2	
+Auyo	Auyo	Jigawa	12.333	9.913	2	
+Auno	Konduga	Borno	11.836	13.050	2	
+Ungwan Audu	Giwa	Kaduna	11.125	7.523	2	
+Unguwar Auramo	Ringim	Jigawa	12.126	9.185	2	
+Audu	Bungudu	Zamfara	12.103	6.871	2	Unguwar Audu
+Gidan Ausa	Lafia	Nasarawa	8.411	8.506	2	
+Dan Auta	Madobi	Kano	11.875	8.472	2	
+Dan Aunai	Dutsi	Katsina	12.891	8.191	2	
+Baba Audu	Nangere	Yobe	11.777	11.203	2	
+Audukenchi	Lavun	Niger	9.382	5.750	2	Awodu Kinchi
+Auyo	Auyo	Jigawa	12.355	9.963	2	
+Auya	Nangere	Yobe	11.795	11.056	2	
+Auul	Gboko	Benue	7.245	8.691	2	
+Auul	Konshisha	Benue	7.235	8.613	2	
+Autugh	Konshisha	Benue	7.071	8.758	2	
+Auta	Nangere	Yobe	11.669	11.027	2	
+Ausa	Ushongo	Benue	7.093	8.951	2	
+Auro Jamari	Shani	Borno	10.095	11.873	2	
+Aundu	Ibi	Taraba	8.306	9.725	2	
+Auna	Magama	Niger	10.188	4.723	2	
+Aule	Gboko	Benue	7.268	8.664	2	
+Aule	Konshisha	Benue	7.048	8.836	2	
+Aule	Kwande	Benue	6.876	9.585	2	
+Aukpa	Oturkpo	Benue	7.473	8.006	2	
+Aujara	Jahun	Jigawa	12.052	9.422	2	
+Auge	Pategi	Kwara	8.695	5.693	2	
+Auga	Akoko North East	Ondo	7.555	5.917	2	
+Audu Maikyauta	Donga	Taraba	7.434	10.310	2	
+Aududugum	Fune	Yobe	11.957	11.134	2	
+Audu	Ussa	Taraba	7.323	10.191	2	
+Audu	Konshisha	Benue	7.173	8.616	2	
+Audi	Kachia	Kaduna	10.017	7.383	2	
+Audi	Jema'A	Kaduna	9.296	8.292	2	
+Auchanawa	Ikara	Kaduna	11.219	8.258	2	
+Angwan-Audu	Maru	Zamfara	11.259	6.504	2	
+Auzaga	Nasarawa Egon	Nasarawa	8.729	8.547	2	Alizaga
+Aujarawa Kurma	Gezawa	Kano	12.010	8.658	2	
+Audu	Gwer West	Benue	7.711	8.237	2	
+Audu	Apa	Benue	7.716	8.053	2	
+Auya	Babura	Jigawa	12.570	8.861	2	
+Sabon Gari Aunaka	Babura	Jigawa	12.669	8.719	2	
+Ba’auzini	Kazaure	Jigawa	12.659	8.503	2	
+Autawa	Batagarawa	Katsina	12.863	7.591	2	
+Rugar Auo	Kankia	Katsina	12.598	7.807	2	
+Gidan Audu Magiru	Rafi	Niger	10.072	6.336	2	
+Gidan Adua	Goronyo	Sokoto	13.557	5.806	2	Gidan Audu
+Auta	Agwara	Niger	10.738	4.390	2	
+Auta	Agwara	Niger	10.889	4.422	2	
+Auta	Agwara	Niger	10.856	4.429	2	
+Ungwan Audu	Rogo	Kano	11.476	7.803	2	
+Ungwan Dan Auta	Sabuwa	Katsina	11.396	7.049	2	
+Ungwan Audu	Danja	Katsina	11.309	7.621	2	
+Gidan Dan Auta	Sabuwa	Katsina	11.275	7.135	2	
+Ungwan Audi	Zaria	Kaduna	11.030	7.576	2	
+Dan Auta	Tsafe	Zamfara	11.871	6.779	2	
+Augusto-Obe	Ekeremor	Bayelsa	4.840	5.488	2	
+Kafin Audu Bako	Doguwa	Kano	11.124	8.582	2	
+Augie	Augie	Kebbi	12.919	4.564	2	Augie Local Government Area
+Auyo	Auyo	Jigawa	12.377	9.988	2	Auyo Local Government Area
+Auleri	Kukawa	Borno	13.207	13.511	2	
+Yelina Audwa	Fika	Yobe	11.186	11.244	2	
+Aujara	Jahun	Jigawa	12.043	9.456	2	
+Augie North	Augie	Kebbi	12.898	4.574	2	
+Audu	Guma	Benue	7.812	9.020	2	
+Aure	Wukari	Taraba	7.679	9.822	2	
+Aushu	Donga	Taraba	7.612	9.828	2	Anshu
+Audu	Katsina-Ala	Benue	7.317	9.365	2	
+Audu	Buruku	Benue	7.155	9.066	2	
+Aunguwa	Kwande	Benue	7.012	9.361	2	
+Etsu-Audu	Agaie	Niger	9.080	6.317	2	
+Gidan Ausha	Karu	Nasarawa	9.099	7.825	2	
+Gidan Audu	Karu	Nasarawa	9.096	7.904	2	
+Gidan Audu	Kokona	Nasarawa	9.034	7.969	2	
+Gidan Audu	Karu	Nasarawa	9.067	7.937	2	
+Garin Baba Audu Ja	Ardo-Kola	Taraba	8.827	11.097	2	
+Garin Mallam Audu	Yorro	Taraba	8.914	11.445	2	
+Garin Jauro Audu	Gassol	Taraba	8.570	10.786	2	
+Auta	Qua'An Pan	Plateau	8.647	9.066	2	
+Ause	Shendam	Plateau	8.501	9.358	2	
+Audu	Akwanga	Nasarawa	8.893	8.271	2	
+Ngurore Wuro Ma'Auda	Song	Adamawa	9.939	12.616	2	NguroreWuroMa'Auda
+Aure	Song	Adamawa	9.881	12.599	2	
+Gidan-Audi	Nasarawa	Nasarawa	8.673	7.652	2	
+Gidan Audu	Municipal Area Council	FCT Abuja	8.865	7.326	2	GidanAudu
 Basheer Augusto Street	Surulere	Lagos	6.490	3.360	1	
 Benin Auchi Road	Etsako West	Edo	6.884	6.270	1	
 Augustus Aikhomu Way	Municipal Area Council	FCT Abuja	9.072	7.437	1	
 Chief Augustine Anozie Street	Eti Osa	Lagos	6.443	3.455	1	
 Audu Bako Way	Tarauni	Kano	11.987	8.546	1	
-Audu Bako Way	Fagge	Kano	11.994	8.544	1	
-Audu Bako Way	Nassarawa	Kano	12.001	8.543	1	
 Audu Ogbe Street	Municipal Area Council	FCT Abuja	9.068	7.426	1	
 Auimasuen Street	Egor	Edo	6.364	5.576	1	
 Mallam Audu St	Jos North	Plateau	9.926	8.887	1	
 Audu Baale Street	Lagos Mainland	Lagos	6.509	3.392	1	
-ZUBAIRU BN AUWAM;ZBA clinic	Gombe	Gombe	10.261	11.171	0	
 Zubairu Bn Auwam Close	Gombe	Gombe	10.260	11.171	1	
 Dr. Augustine Agu Street	Enugu East	Enugu	6.479	7.483	1	
 Augustine Agbo Street	Enugu East	Enugu	6.489	7.514	1	
@@ -100,12 +166,10 @@ Auno Road	Maiduguri	Borno	11.858	13.147	1
 Austin Obiador Street	Oshodi/Isolo	Lagos	6.501	3.299	1	
 Kabiru Auta Street	Kano Municipal	Kano	11.976	8.531	1	
 Dr. Musa Auyo Street	Ungongo	Kano	11.973	8.442	1	
-Musa Abdullahi Auditorium	Ungongo	Kano	11.973	8.428	0	
 Autan Bawo Street	Tarauni	Kano	11.972	8.535	1	
 Layin gidan malan audu	Kumbotso	Kano	11.890	8.499	1	
 Road 45/Audu Angulu	Eti Osa	Lagos	6.454	3.578	1	
 Benin-Auchi Road	Esan West	Edo	6.754	6.060	1	
-American University of Nigeria	Yola North	Adamawa	9.198	12.499	0	AUN
 Auburn Avenue	Alimosho	Lagos	6.640	3.288	1	
 Basheer Augusto Close	Mushin	Lagos	6.551	3.363	1	
 Aule Road	Akure South	Ondo	7.272	5.161	1	
@@ -115,28 +179,44 @@ Audu Bako Way	Tarauni	Kano	11.984	8.547	1
 autoroute	Abadam	Borno	13.512	13.072	1	
 autoroute	Abadam	Borno	13.515	13.069	1	
 Benin Auchi Road	Esan Central	Edo	6.743	6.219	1	
-Ladipo Market	Mushin	Lagos	6.545	3.345	0	Ladipo Auto Spare Parts Market
-Gakkulam Audi Primary Health Center	Darazo	Bauchi	11.127	10.512	0	
-Benin Auchi Road	Uhunmwonde	Edo	6.417	5.763	1	
-Auchi Polytechnic	Etsako West	Edo	7.063	6.278	0	
 Lamu Audu Drive	Municipal Area Council	FCT Abuja	9.066	7.486	1	
-Aura Primary School	Municipal Area Council	FCT Abuja	8.828	7.581	0	
 Boge Authentic Avenue	Ìkòròdú	Lagos	6.684	3.542	1	
 Main Entrance to Law Auditorium	Ovia North-East	Edo	6.744	5.405	1	
 Benin Auchi Road	Esan Central	Edo	6.799	6.256	1	
-Benin Auchi Road	Esan Central	Edo	6.815	6.258	1	
 Benin Auchi Road	Etsako West	Edo	6.841	6.252	1	
 Benin Auchi Road	Etsako West	Edo	6.831	6.256	1	
 Augustine Olumense Street	Ikpoba-Okha	Edo	6.224	5.671	1	
-Law Auditorium Closed Door	Ovia North-East	Edo	6.744	5.404	0	
 Auta Peni Street	Chikun	Kaduna	10.462	7.440	1	
-Auyakayi	Auyo	Jigawa	12.372	9.988	2	
-Auyo	Auyo	Jigawa	12.336	9.937	2	
-Aujara	Jahun	Jigawa	12.028	9.432	2	
-Augie North	Augie	Kebbi	12.894	4.580	2	
-Augie	Augie	Kebbi	12.901	4.629	2	
-Augie South	Augie	Kebbi	12.909	4.605	2	
-Auchan	Ikara	Kaduna	11.427	8.040	2	
-Dan Aunai	Dutsi	Katsina	12.861	8.187	2	
-Auyo	Auyo	Jigawa	12.333	9.913	2	
-Auno	Konduga	Borno	11.836	13.050	2	
+Auchan Station	Ikara	Kaduna	11.414	8.018	0	
+Autie Rose Foundation Group of Schools	Oredo	Edo	6.342	5.603	0	
+Auno Primary Health Clinic	Konduga	Borno	11.847	12.933	0	
+Aunty Gold's Christian Academy	Uvwie	Delta	5.566	5.772	0	
+Aunty Pat School	Warri South	Delta	5.531	5.745	0	
+St. Augustine Schools	Warri South	Delta	5.532	5.757	0	
+Aunty Mercy Blessed School	Warri South	Delta	5.529	5.758	0	
+Katsina State Transport Authority	Muhammadu Dikko Stadium	Katsina	12.981	7.587	0	
+Auga Akoko Market	Akoko North East	Ondo	7.557	5.916	0	
+Augie South	Augie	Kebbi	12.881	4.590	0	
+Rural Hospital Auna	Magama	Niger	10.186	4.737	0	
+st. augustine catholic primary school i	Ìjẹ̀bú Òde	Ogun	6.822	3.926	0	
+st. augustine catholic primary school ii	Ìjẹ̀bú Òde	Ogun	6.821	3.927	0	
+Ezinifite (Augusta) Town Hall	Jos North	Plateau	9.924	8.886	0	
+Mal. Audu Mai Almajirai	Ungongo	Kano	12.048	8.568	0	
+Aulad Intnl School	Ungongo	Kano	12.050	8.575	0	
+Makarantar Mal Auwalu	Ungongo	Kano	12.044	8.565	0	
+Makarantar Malan Auwal	Ungongo	Kano	12.044	8.565	0	
+Karantar Malam Auwal Farin Masallachi	Gwale	Kano	11.960	8.468	0	
+Austoma	Municipal Area Council	FCT Abuja	9.082	7.465	0	
+St. Augustine Private School	Jos North	Plateau	9.871	8.849	0	
+Local Authority Primary School Akarakumoh	Badagry	Lagos	6.412	2.957	0	
+Beenish Auto Limited	Municipal Area Council	FCT Abuja	9.120	7.393	0	
+Shola Autos	Municipal Area Council	FCT Abuja	9.121	7.387	0	
+Automotive Engineering Department	Kaduna North	Kaduna	10.612	7.441	0	
+ZUBAIRU BN AUWAM;ZBA clinic	Gombe	Gombe	10.261	11.171	0	
+Musa Abdullahi Auditorium	Ungongo	Kano	11.973	8.428	0	
+American University of Nigeria	Yola North	Adamawa	9.198	12.499	0	AUN
+Ladipo Market	Mushin	Lagos	6.545	3.345	0	Ladipo Auto Spare Parts Market
+Gakkulam Audi Primary Health Center	Darazo	Bauchi	11.127	10.512	0	
+Auchi Polytechnic	Etsako West	Edo	7.063	6.278	0	
+Aura Primary School	Municipal Area Council	FCT Abuja	8.828	7.581	0	
+Law Auditorium Closed Door	Ovia North-East	Edo	6.744	5.404	0	

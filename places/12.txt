@@ -1,10 +1,6 @@
 Mile 12	Kosofe	Lagos	6.606	3.395	3	
-Mile 12 Bus Stop	Kosofe	Lagos	6.606	3.400	0	
 Mbthli 12 3	Hawul	Borno	10.558	12.027	2	
-Mile 12 Bus Stop	Kosofe	Lagos	6.604	3.402	0	
-Yusuf Dantsoho Hospital Pq 12 Danladi Inusa Road Uguwan Sunusi Kaduna	Kaduna South	Kaduna	10.528	7.404	0	
-Angelic Care Health Center 124 Adaloko Road By Pako Bstop	Ojo	Lagos	6.477	3.158	0	
-Mile 12	Kosofe	Lagos	6.604	3.395	2	
+Mile Twelve	Kosofe	Lagos	6.606	3.395	2	Mile 12
 Road 12	Lagelu	Oyo	7.434	3.959	1	
 12th Street	Eti Osa	Lagos	6.466	3.422	1	
 122 Road	Municipal Area Council	FCT Abuja	9.044	7.391	1	
@@ -15,7 +11,6 @@ Road 12	Enugu East	Enugu	6.476	7.495	1
 Federal Road F.128	Maru	Zamfara	11.616	6.172	1	
 Federal Road F.128	Maru	Zamfara	11.607	6.141	1	
 Federal Road F.128	Maru	Zamfara	11.591	6.098	1	
-Federal Road F.128	Maru	Zamfara	11.588	6.092	1	
 Federal Road F.128	Maru	Zamfara	11.653	6.246	1	
 Federal Road F.128	Maru	Zamfara	11.625	6.213	1	
 Federal Road F.128	Maru	Zamfara	11.550	5.918	1	
@@ -23,14 +18,12 @@ Federal Road F.128	Maru	Zamfara	11.550	5.918	1
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.582	6.567	1	
 Federal Road F.126 Zungeru - Izom	Chanchaga	Niger	9.607	6.554	1	
 Federal Road F.126 Zungeru - Izom	Chanchaga	Niger	9.644	6.540	1	
-Federal Road F.126 Zungeru - Izom	Chanchaga	Niger	9.615	6.547	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.545	6.583	1	
 Road 12	Eti Osa	Lagos	6.459	3.580	1	
 Road 12	Eti Osa	Lagos	6.461	3.553	1	
 Federal Road F.128 Benin Border - Bisagana	Mobbar	Borno	13.141	12.600	1	
 Federal Road F.126 Zungeru - Izom	Wushishi	Niger	9.789	6.164	1	
 Federal Road F.126 Zungeru - Izom	Paikoro	Niger	9.403	6.742	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.535	6.580	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.682	6.243	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.630	6.312	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.637	6.387	1	
@@ -41,43 +34,36 @@ Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.618	13.266	1
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.510	13.194	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.516	13.148	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.565	13.241	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.560	13.236	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.576	13.256	1	
 Federal Road F.128	Bungudu	Zamfara	11.708	6.416	1	
 Federal Road F.128	Bungudu	Zamfara	11.699	6.510	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.653	13.323	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.594	13.266	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.605	13.266	1	
-Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.662	13.328	1	
 Federal Road F.128	Gusau	Zamfara	11.718	6.577	1	
 Road 12	Obio/Akpor	Rivers	4.825	7.058	1	
 B-1203	Bama	Borno	11.672	13.690	1	
 Road 12	Obio/Akpor	Rivers	4.811	6.973	1	
 B-12	Mafa	Borno	11.878	13.833	1	
-Road 12	Eti Osa	Lagos	6.446	3.553	1	
 Road 12	Ife Central	Osun	7.531	4.538	1	
 Road 12	Etche	Rivers	4.911	7.123	1	
 Road 12	Ijebu North	Ogun	6.926	3.870	1	
 Federal Road F.126 Zungeru - Izom	Chanchaga	Niger	9.658	6.527	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.671	6.509	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.570	6.574	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.556	6.581	1	
 Federal Road F.128 Benin Border - Bisagana	Mobbar	Borno	13.087	12.533	1	
 12th st	Tarauni	Kano	11.958	8.589	1	
 Federal Road F.128	Gusau	Zamfara	11.712	6.593	1	
 Federal Road F.128	Maru	Zamfara	11.685	6.328	1	
 Federal Road F.128	Maru	Zamfara	11.669	6.271	1	
-Federal Road F.128	Bungudu	Zamfara	11.718	6.561	1	
 Federal Road F.128	Bungudu	Zamfara	11.715	6.551	1	
 B-1200	Mafa	Borno	11.776	13.669	1	
 Federal Road F.128	Maru	Zamfara	11.696	6.346	1	
 Federal Road F.128	Maru	Zamfara	11.685	6.337	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.534	6.580	1	
 Federal Road F.128 Benin Border - Bisagana	Abadam	Borno	13.514	13.136	1	
-Mile 12 Bus Terminal	Kosofe	Lagos	6.605	3.400	0	
-Mile 12 Market	Kosofe	Lagos	6.609	3.392	0	
 Road 12	Eti Osa	Lagos	6.465	3.604	1	
 Link 12	Gwale	Kano	11.973	8.473	1	
 Federal Road F.126 Zungeru - Izom	Wushishi	Niger	9.732	6.199	1	
-Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.690	6.238	1	
 Federal Road F.126 Zungeru - Izom	Bosso	Niger	9.684	6.478	1	
+Mile 12 Bus Stop	Kosofe	Lagos	6.606	3.400	0	
+Yusuf Dantsoho Hospital Pq 12 Danladi Inusa Road Uguwan Sunusi Kaduna	Kaduna South	Kaduna	10.528	7.404	0	
+Angelic Care Health Center 124 Adaloko Road By Pako Bstop	Ojo	Lagos	6.477	3.158	0	
+Mile 12 Bus Terminal	Kosofe	Lagos	6.605	3.400	0	
+Mile 12 Market	Kosofe	Lagos	6.609	3.392	0	

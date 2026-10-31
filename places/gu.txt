@@ -1,3 +1,18 @@
+Gubio	Gubio	Borno	12.498	12.782	3	Gubiya
+Gujungu	Taura	Jigawa	12.363	9.582	3	
+Gulak	Madagali	Adamawa	10.806	13.457	3	
+Guri	Guri	Jigawa	12.728	10.420	3	
+Guyuk	Guyuk	Adamawa	9.909	11.934	3	
+Gurbin Baure	Jibia	Katsina	12.985	7.050	3	
+Gumel	Gumel	Jigawa	12.628	9.389	3	
+Gurin	Fufore	Adamawa	9.112	12.885	3	
+Gudumbali	Guzamala	Borno	12.944	13.177	3	
+Gulbin Boka	Mariga	Niger	10.800	5.362	3	
+Gusau	Gusau	Zamfara	12.166	6.661	3	
+Gubindari I	Aleiro	Kebbi	12.240	4.467	3	
+Maiduguri	Maiduguri	Borno	11.847	13.157	3	MIU|Maidiguri|Maidugari|Maiduguris|Majduguri|ma'iduguri|mai du gu li|maidouguri|maiduguli|maiduguri|maydwghwry|maydwgwrw
+Gummi	Gummi	Zamfara	12.145	5.118	3	Gunmi|Kunmi
+Gella	Mubi South	Adamawa	10.157	13.300	3	Ouro Guela|Uro-Gela
 Gumsi	Yusufari	Yobe	13.172	10.256	2	
 Gueskérou	Diffa	Borno	13.480	12.843	2	
 Guidan Samni	Sabon Birni	Sokoto	13.707	6.001	2	
@@ -18,11 +33,8 @@ Guidan Asan	Isa	Sokoto	13.328	6.688	2
 Guidan Labou	Sabon Birni	Sokoto	13.420	6.610	2	
 Guidan Koré	Madarounfa	Katsina	13.207	7.554	2	
 Gurai	Baruten	Kwara	9.628	3.293	2	
-Guga	Giwa	Kaduna	11.253	7.552	0	
-Gusau	Gusau	Zamfara	12.173	6.697	0	
 Goulbin Ka	Kebbe	Sokoto	11.693	4.411	2	Gulbin Ka
 Gurka	Auyo	Jigawa	12.353	10.237	2	
-Gubio	Gubio	Borno	12.498	12.782	3	Gubiya
 Gunbiri	Bunza	Kebbi	12.170	4.108	2	
 Gwombe	Gwandu	Kebbi	12.528	4.730	2	Gumbai
 Gumawa	Maiyama	Kebbi	12.294	4.231	2	
@@ -41,7 +53,6 @@ Gumbirku	Hawul	Borno	10.300	12.044	2	Gumburku
 Gur Lawan	Biu	Borno	10.778	12.232	2	Gur
 Gur Garubula	Biu	Borno	10.774	12.217	2	
 Gundu	Hawul	Borno	10.392	12.072	2	
-Gujungu	Taura	Jigawa	12.363	9.582	3	
 Gurumpawa	Ganye	Adamawa	8.450	11.933	2	Gurumpawo
 Guguwa	Ngaski	Kebbi	10.581	4.690	2	
 Guidan Mashau	Birnin Magaji-Kiyaw	Zamfara	12.303	6.848	2	
@@ -63,7 +74,6 @@ Guru	Kirfi	Bauchi	10.314	10.810	2
 Gurungu	Toro	Bauchi	10.633	8.980	2	
 Guna’a	Warji	Bauchi	11.217	9.685	2	
 Gubda	Shira	Bauchi	11.602	9.962	2	
-Gulak	Madagali	Adamawa	10.806	13.457	3	
 Gulumba Gana	Bama	Borno	11.650	14.104	2	
 Gugo	Paikoro	Niger	9.300	6.650	2	Bukwo;Bugo
 Gulmare	Bunza	Kebbi	12.099	3.913	2	
@@ -97,7 +107,6 @@ Ungwan Gungurfu	Giwa	Kaduna	11.179	7.586	2
 Gureji	Agaie	Niger	8.725	6.429	2	Gwuregi
 Gurjia	Fika	Yobe	11.382	11.528	2	
 Gurbana	Fune	Yobe	11.910	11.060	2	
-Guri	Guri	Jigawa	12.728	10.420	3	
 Gumsuri	Damboa	Borno	11.054	12.810	2	Goumsouri
 Guji	Borsari	Yobe	12.829	11.558	2	
 Tudun Bakin Gulbi	Tsafe	Zamfara	11.677	6.723	2	
@@ -165,7 +174,6 @@ Gumbulu	Aleiro	Kebbi	12.339	4.442	2
 Guniel	Gwandu	Kebbi	12.573	4.493	2	
 Marafa Gungu	Silame	Sokoto	12.985	4.815	2	
 Gumau Pelu	Alkaleri	Bauchi	10.142	10.183	2	
-Guyuk	Guyuk	Adamawa	9.909	11.934	3	
 Gujin	Kagarko	Kaduna	9.450	7.383	2	Gujeni;Gujini
 Gulbin Ka	Wasagu-Danko	Kebbi	11.660	5.545	2	
 Gupena	Gurara	Niger	9.384	7.212	2	
@@ -180,7 +188,6 @@ Gume	Dikwa	Borno	11.903	14.201	2
 Unguwar Gude	Gusau	Zamfara	12.263	6.901	2	
 Guidan Sake	Gusau	Zamfara	12.074	6.670	2	
 Gundubul	Gada	Sokoto	13.673	5.874	2	
-Gurbin Baure	Jibia	Katsina	12.985	7.050	3	
 Gudungudu	Illela	Sokoto	13.606	5.247	2	Gudumgudum
 Guidan Dawai	Bungudu	Zamfara	12.191	6.512	2	
 Guidan Dan Umoru	Tsafe	Zamfara	12.032	6.946	2	
@@ -190,7 +197,6 @@ Tudun Gudali	Illela	Sokoto	13.719	5.346	2
 Guidan Buda	Bungudu	Zamfara	12.399	6.519	2	
 Guidan Mai-Kwazo	Bungudu	Zamfara	12.116	6.553	2	
 Guidan Sarkin Noma	Gusau	Zamfara	12.102	6.987	2	
-Gummi	Gummi	Zamfara	12.143	5.119	2	Gunmi
 Guma	Tambuwal	Sokoto	12.457	5.040	2	
 Guidan Husaini	Gusau	Zamfara	12.124	6.901	2	
 Gudanakwari	Bagudo	Kebbi	11.520	4.051	2	
@@ -207,13 +213,11 @@ Rafin Guzuma	Maiyama	Kebbi	12.047	4.367	2
 Gude	Kabo	Kano	11.949	8.051	2	Gudi;Gudei
 Sabon Layi Gumafuna Gasi	Shani	Borno	10.152	11.821	2	Guma Fina
 Gurfata	Gwagwalada	FCT Abuja	9.128	7.061	2	
-Gumel	Gumel	Jigawa	12.628	9.389	3	
 Gudugbu Orile	Afijio	Oyo	7.802	4.041	2	
 Ndachejiya	Gbako	Niger	9.500	6.117	2	Gududzuru;Gududzoro
 Gumsai-Gagala	Yunusari	Yobe	13.092	12.243	2	
 Gura Top	Jos South	Plateau	9.833	8.883	2	
 Gumil	Tambuwal	Sokoto	12.361	4.777	2	
-Gurin	Fufore	Adamawa	9.112	12.885	3	
 Guidan Liman	Bungudu	Zamfara	12.068	6.554	2	
 Guidan Giasa	Maru	Zamfara	12.036	6.319	2	
 Guidan Arna	Bungudu	Zamfara	12.214	6.794	2	Gidan Arna
@@ -256,10 +260,9 @@ Gurayi	Tambuwal	Sokoto	12.469	4.995	2
 Tunga Gusau	Shanga	Kebbi	11.141	4.488	2	
 Guidan Bawa	Isa	Sokoto	13.223	6.721	2	Gidan Bawa
 Gusoli	Agaie	Niger	8.933	6.350	2	
+Gunduma	Kurmi	Taraba	7.183	10.633	2	Gidan Garba
 Gunji Twaki	Lokoja	Kogi	8.704	6.321	2	
 Galabinda	Biu	Borno	10.796	11.782	2	Gulabinda
-Gudumbali	Guzamala	Borno	12.944	13.177	3	
-Gulbin Boka	Mariga	Niger	10.800	5.362	3	
 Gudol Baba	Bunza	Kebbi	12.292	3.865	2	
 Goru Gulgale	Arewa Dandi	Kebbi	12.296	3.672	2	
 Gudol Maiyara	Bunza	Kebbi	12.271	3.852	2	
@@ -272,6 +275,7 @@ Guidan Nuhu	Gusau	Zamfara	12.104	6.990	2
 Guidan Nasheku	Bungudu	Zamfara	12.171	6.890	2	
 Gumbi	Yauri	Kebbi	10.627	4.702	2	
 Guidan Dogon Daji	Gusau	Zamfara	12.060	6.665	2	
+Guga	Giwa	Kaduna	11.252	7.551	2	
 Guidan Buzu	Bungudu	Zamfara	12.350	6.501	2	
 Guidan Dango	Bungudu	Zamfara	12.297	6.509	2	
 Guidan Fakkam	Gusau	Zamfara	12.079	6.706	2	
@@ -279,11 +283,7 @@ Guidan Dan Mai-Zare	Gusau	Zamfara	12.041	6.668	2
 Guidan Girbi	Gusau	Zamfara	12.140	6.628	2	
 Guidan Alhasan	Maradun	Zamfara	12.713	6.230	2	
 Guidan Janari	Bungudu	Zamfara	12.135	6.503	2	
-Gusau	Gusau	Zamfara	12.166	6.661	3	
 Guwa Kalibowa	Mobbar	Borno	13.323	12.742	2	Guwa Kalimboa
-Gusau	Gusau	Zamfara	12.166	6.671	0	
-Gurawa Health Post	Karaye	Kano	11.768	7.888	0	
-Mazan Gudu Health Post	Gabasawa	Kano	12.195	8.907	0	
 Gurduba Cikin Gari	Ajingi	Kano	12.022	9.003	2	
 Gurduba Sabon Gari	Ajingi	Kano	12.021	8.998	2	
 Gurjiya	Ajingi	Kano	12.030	8.967	2	Gurjia
@@ -291,7 +291,6 @@ Gul Kudu	Gaya	Kano	11.777	9.111	2
 Gulbai	Doguwa	Kano	11.141	8.572	2	
 Gurjiya	Dawakin Kudu	Kano	11.882	8.552	2	
 Gurgur	Ajingi	Kano	12.059	9.168	2	
-Guruntun Dispensary	Alkaleri	Bauchi	10.261	10.300	0	Badaram Dutsi
 Guba	Kwaya Kusar	Borno	10.555	11.868	2	
 Gurhi	Damboa	Borno	11.057	12.543	2	
 Gusudae	Chibok	Borno	10.869	12.841	2	
@@ -365,7 +364,6 @@ Gumbeli Jauro Bawa	Bayo	Borno	10.412	11.671	2
 Gumbeli Jauro Manu	Bayo	Borno	10.419	11.675	2	
 Gumbelli Jauro Bello	Bayo	Borno	10.419	11.675	2	
 Guriktiku	Hawul	Borno	10.479	12.407	2	
-Gubindari I	Aleiro	Kebbi	12.240	4.467	3	
 Gubindari II	Aleiro	Kebbi	12.238	4.471	2	
 Gubindari III	Aleiro	Kebbi	12.242	4.477	2	
 Gumozone Aliero	Jega	Kebbi	12.331	4.362	2	
@@ -379,16 +377,12 @@ Gura Viu Kuthla	Biu	Borno	10.613	12.242	2
 Gumshe Bajigila	Mafa	Borno	11.797	13.790	2	
 Gumshe Modu	Mafa	Borno	11.794	13.784	2	
 Gumshe Ngoma	Mafa	Borno	11.794	13.788	2	
-Gubio Maternity and Child Health	Gubio	Borno	12.492	12.784	0	
-Guwo Laanti Dispensary	Kaga	Borno	11.625	12.530	0	
 Gur Kutangaru	Biu	Borno	10.776	12.224	2	
 Gujuri	Mafa	Borno	11.805	13.690	2	Matta Gujjari
 Gur Yabanjau	Biu	Borno	10.841	12.190	2	
 Gumsuri Lawan Karaga	Damboa	Borno	11.057	12.807	2	
 Gumsuri Lawn Ali	Damboa	Borno	11.055	12.813	2	
 Guja	Bama	Borno	11.390	13.763	2	
-GUÉRISON DIVINE	Badagry	Lagos	6.353	2.795	0	
-Guba Health Facility	Borsari	Yobe	12.807	11.419	0	
 Chikun Gudu	Ngala	Borno	12.549	14.067	2	
 N'Guel Chondi	Goudoumaria	Yobe	13.379	10.865	2	
 N'Guererewa	Maïné Soroa	Yobe	13.370	11.529	2	
@@ -422,7 +416,6 @@ Gujjiya	Silame	Sokoto	12.985	4.761	2
 Tungar guru	Bukkuyum	Zamfara	11.934	5.495	2	
 Gidan gulubi	Gada	Sokoto	13.615	5.772	2	
 Gungi	Mokwa	Niger	9.135	4.815	2	
-Sheikh Gummi PHC	Wamako	Sokoto	13.019	5.227	0	
 Unguwar Gulbi	Bichi	Kano	12.179	8.288	2	
 Gulu Cikin Gari	Rimin Gado	Kano	11.864	8.297	2	Gulu
 Gudau	Dawakin Tofa	Kano	12.194	8.367	2	
@@ -445,179 +438,15 @@ Dan Waziri Gidan Gulbi	Gaya	Kano	11.740	9.015	2
 Gunsu	Takai	Kano	11.388	9.156	2	
 Sabon Garin Gurjiya	Garko	Kano	11.645	8.839	2	
 Gunds Tasha	Kibiya	Kano	11.506	8.713	2	
-Guburnde Dispensary	Bayo	Borno	10.336	11.773	0	
-Daula Hospital Gusau	Gusau	Zamfara	12.172	6.684	0	
-General Hospital Gummi	Gummi	Zamfara	12.141	5.123	0	
-Tashan Gurgu Health Post	Demsa	Adamawa	9.338	11.863	0	
-Tashan Gurugu Health Post	Demsa	Adamawa	9.338	11.862	0	
-gulak secreteriat	Madagali	Adamawa	10.800	13.448	0	
 Guzape District	Municipal Area Council	FCT Abuja	9.011	7.507	2	
 Gudu District	Municipal Area Council	FCT Abuja	9.008	7.480	2	
 Gumbi	Gudu	Sokoto	13.506	4.268	2	
-GUO transport terminal Bus stop	Enugu North	Enugu	6.438	7.489	0	
 Guidna	Municipal Area Council	FCT Abuja	9.126	7.312	2	
 Kata Guiri	Madaoua	Sokoto	13.678	6.258	2	
 Guiltari 2	Gouré	Yobe	13.135	9.948	2	
-École Primaire Guidan Elh Sambo	Tessaoua	Katsina	13.287	8.145	0	
 Guidan Elh Sambo	Tessaoua	Katsina	13.288	8.147	2	
 Guidan bakoye	Madarounfa	Katsina	13.109	7.319	2	
-Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
 Zangon Guidan Maidouma	Madaoua	Sokoto	13.740	5.922	2	
-Guo Logistics - Utako Station	Municipal Area Council	FCT Abuja	9.067	7.443	0	
-Kabusa Park - To Gudu Market	Municipal Area Council	FCT Abuja	8.956	7.444	0	
-Guo Transport - Utako	Municipal Area Council	FCT Abuja	9.067	7.443	0	
-Guava Close	Kaduna North	Kaduna	10.541	7.448	1	
-Gumel Road	Kaduna North	Kaduna	10.511	7.433	1	
-Guava Road	Kaduna North	Kaduna	10.572	7.464	1	
-Guava Close	Kaduna North	Kaduna	10.571	7.464	1	
-Gumel to Maigatari Road	Maigatari	Jigawa	12.716	9.401	1	
-Gudumbali - Gajiram Road	Guzamala	Borno	12.852	13.188	1	
-Guobadia Street	Oredo	Edo	6.299	5.620	1	
-Oni-Guobadia Street	Oredo	Edo	6.303	5.617	1	
-Major General Ibrahim Gumel Road	Sabon Gari	Kaduna	11.112	7.724	1	
-Guobadia Road	Oredo	Edo	6.269	5.620	1	
-Kano-Gumel Road	Nassarawa	Kano	12.011	8.593	1	
-Gurara Street	Municipal Area Council	FCT Abuja	9.063	7.482	1	
-Gurara Street	Municipal Area Council	FCT Abuja	9.096	7.497	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.521	6.565	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.520	6.567	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.535	6.563	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.577	6.572	1	
-Gumel to Hadejia Road	Kaugama	Jigawa	12.606	9.776	1	
-Yola - Gurin Federal Road	Fufore	Adamawa	9.180	12.722	1	
-Goniri - Gujba Road	Gujba	Yobe	11.496	12.318	1	
-Ibrahim Gumel Street	Enugu North	Enugu	6.447	7.494	1	
-Major Gen. Ibrahim D. Gumel Street	Enugu North	Enugu	6.449	7.494	1	
-Guidance and Counselling Unit	Sabon Gari	Kaduna	11.152	7.655	0	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.407	6.610	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.569	6.591	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.396	6.619	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.424	6.611	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.436	6.608	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.732	6.564	1	
-Gudau - Sabon Birni Road	Bungudu	Zamfara	12.223	6.675	1	
-Gusau - Dansadau Road	Gusau	Zamfara	12.002	6.623	1	
-Yahaya Gusail Road	Wamako	Sokoto	13.018	5.235	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.573	6.330	1	
-Gujba - Ngalda Road	Gulani	Yobe	11.098	11.554	1	
-Gude Health Post	Kabo	Kano	11.954	8.067	0	
-Gurduba Health Post	Ajingi	Kano	12.022	9.002	0	
-Gumawa Health Post	Gabasawa	Kano	12.139	8.862	0	
-Gulbi Health Post	Bichi	Kano	12.182	8.289	0	
-Gudau Health Post	Dawakin Tofa	Kano	12.180	8.357	0	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.489	6.574	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.389	6.623	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.590	6.352	1	
-Babu Gudu Maternity	Itas/Gadau	Bauchi	11.954	10.005	0	
-Gursoli Maternity	Katagum	Bauchi	11.662	10.232	0	
-Guda Dispensary	Jama'Are	Bauchi	11.621	9.904	0	
-Gumau Dispensary	Toro	Bauchi	10.255	9.017	0	
-Guruntu Dispensary	Alkaleri	Bauchi	10.010	10.161	0	
-Goniri - Gujba Road	Gujba	Yobe	11.538	12.083	1	
-Goniri - Gujba Road	Gujba	Yobe	11.493	12.306	1	
-Gudumbali - Gajiram Road	Nganzai	Borno	12.606	13.207	1	
-Yola - Gurin Federal Road	Fufore	Adamawa	9.170	12.619	1	
-Yola - Gurin Federal Road	Fufore	Adamawa	9.208	12.640	1	
-Yola - Gurin Federal Road	Fufore	Adamawa	9.112	12.885	1	
-Gujba - Ngalda Road	Gujba	Yobe	11.433	11.857	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.405	6.275	1	
-Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.117	6.452	1	
-Matta Gujjari Health Clinic	Mafa	Borno	11.806	13.689	0	
-Guidna Community	Municipal Area Council	FCT Abuja	9.130	7.313	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.829	6.522	1	
-Gudau - Sabon Birni Road	Shinkafi	Zamfara	12.979	6.497	1	
-Gurigwa Health Clinic	Fufore	Adamawa	8.916	12.597	0	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.605	6.375	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.593	6.358	1	
-Abubakar Gumi Road	Kaduna North	Kaduna	10.527	7.452	1	
-Gumel to Hadejia Road	Hadejia	Jigawa	12.457	10.041	1	
-Rayfield-Gura Topp Road	Jos South	Plateau	9.808	8.896	1	
-Kano-Gumel Road	Nassarawa	Kano	12.011	8.598	1	
-Kano-Gumel Road	Garki	Jigawa	12.353	9.158	1	
-Yahaya Gusail Road	Wamako	Sokoto	13.023	5.234	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.566	6.323	1	
-Gudau - Sabon Birni Road	Guidan Roumdji	Sokoto	13.615	6.417	1	
-Gumel to Maigatari Road	Gumel	Jigawa	12.623	9.385	1	
-Prof. Saidu M. Gusau Street	Ungongo	Kano	11.973	8.446	1	
-Sadia Guest Inn Road	Chanchaga	Niger	9.585	6.547	1	
-Sadia Guest Inn Road	Chanchaga	Niger	9.583	6.547	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.462	6.593	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.452	6.599	1	
-Gudau - Sabon Birni Road	Bungudu	Zamfara	12.349	6.638	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.337	6.639	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.358	6.638	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.636	6.594	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.612	6.591	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.602	6.587	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.589	6.593	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.680	6.580	1	
-Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.654	6.590	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.770	6.551	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.785	6.533	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.709	6.577	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.691	6.577	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.907	6.474	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.886	6.487	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.869	6.508	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.857	6.515	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.844	6.521	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.836	6.525	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.799	6.524	1	
-Gudau - Sabon Birni Road	Zurmi	Zamfara	12.810	6.526	1	
-Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.070	6.505	1	
-Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.106	6.470	1	
-Gujba - Ngalda Road	Fika	Yobe	11.100	11.424	1	
-Gujba - Ngalda Road	Fika	Yobe	11.101	11.413	1	
-Gujba - Ngalda Road	Gulani	Yobe	11.171	11.684	1	
-Gujba - Ngalda Road	Gujba	Yobe	11.299	11.733	1	
-Gregory University Uturu	Isuikwuato	Abia	5.851	7.430	0	GUU
-Gursulu Dispensary	Yunusari	Yobe	13.040	12.052	0	
-Gulu Primary Health Centre	Rimin Gado	Kano	11.866	8.301	0	
-Gundutse Health Post	Kura	Kano	11.825	8.514	0	
-Gurjiya Primary Health Centre	Bunkure	Kano	11.750	8.556	0	
-Tudun Gunsau Health Post	Wudil	Kano	11.760	8.852	0	
-Gurungawa Health Post	Kumbotso	Kano	11.936	8.524	0	
-Gunda Health Post	Kibiya	Kano	11.506	8.713	0	
-Gudan Tuwo Health Post	Shanono	Kano	11.998	8.066	0	
-Gukka Dispensary	Toro	Bauchi	10.384	9.222	0	
-Gudun Primary Health Center	Bauchi	Bauchi	10.270	9.854	0	
-Bulmo Dispensary	Itas/Gadau	Bauchi	11.874	10.085	0	Gulmo
-Maraba Gumai Yamma	Zaki	Bauchi	11.955	10.245	0	
-Gurka Maternity	Auyo	Jigawa	12.357	10.237	0	
-Model Primary Health Center Gurbana	Damban	Bauchi	11.733	10.729	0	
-General Hospital Gubio	Gubio	Borno	12.499	12.777	0	
-Maternal and New Child Health Clinic, Kofar Guga	Muhammadu Dikko Stadium	Katsina	12.990	7.585	0	
-Yada Gungume Primary Health Center	Ningi	Bauchi	10.865	9.057	0	
-Model Primary Health Center Gumau	Toro	Bauchi	10.258	9.014	0	Wunu North Primary Health Center
-Gungu Dispensary	Bauchi	Bauchi	9.989	9.720	0	
-Guinness Road	Ikpoba-Okha	Edo	6.219	5.630	1	
-2nd Guobadia Road	Ikpoba-Okha	Edo	6.214	5.614	1	
-Gudumiya Hp	Hong	Adamawa	10.190	12.792	0	
-Guri kasuwa health post	Demsa	Adamawa	9.233	11.805	0	
-Gubio Road Idp Camp Clinic	Kala-Balge	Borno	12.284	14.469	1	
-400 Housing Estate Gubio Road IDP Camp Clinic B	Maiduguri	Borno	11.906	13.085	1	
-Gumshi Dispensary	Yusufari	Yobe	13.171	10.257	0	
-Gurin Pbf Health Facilities	Fufore	Adamawa	9.111	12.884	0	
-Wuro Yelde Health Post Gurin	Fufore	Adamawa	9.117	12.873	0	
-Gudusu Primary Health Care Center	Fufore	Adamawa	9.509	12.644	0	
-Gudugurka Dispensary	Fune	Yobe	12.315	11.229	0	
-Gurnati L C C N Dispensary Gurnati	Fufore	Adamawa	9.028	12.600	0	
-Gurumpah Health Clinic	Fufore	Adamawa	9.062	12.456	0	
-Gubana Maternal And Child Health Care	Fune	Yobe	11.563	11.325	0	
-Cottage Hospital Guyuk	Guyuk	Adamawa	9.918	11.942	0	
-Guyuk Health Facility	Guyuk	Adamawa	9.906	11.930	0	
-Gudi Dispensary	Nangere	Yobe	11.756	10.966	0	
-Gudin Health Post	Ganye	Adamawa	8.441	11.989	0	
-Gurum Pawo Health Center	Ganye	Adamawa	8.451	11.938	0	
-400 Housing Estate Gubio Road IDP Camp Clinic B	Magumeri	Borno	11.910	13.083	1	
-Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.611	6.409	1	
-Gudu Market	Municipal Area Council	FCT Abuja	8.999	7.472	0	
-Gumel to Maigatari Road	Gumel	Jigawa	12.627	9.384	1	
-2nd Guobadia Road	Ikpoba-Okha	Edo	6.211	5.616	1	
-Kano-Gumel Road	Gezawa	Kano	12.027	8.693	1	
-Guidna Community	Municipal Area Council	FCT Abuja	9.105	7.304	1	
-Kano-Gumel Road	Gezawa	Kano	12.099	8.759	1	
-Kano-Gumel Road	Gezawa	Kano	12.076	8.743	1	
 Guji M Tallari	Borsari	Yobe	12.895	11.637	2	
 Gulani	Gulani	Yobe	10.702	11.648	2	
 Gujba	Gujba	Yobe	11.439	11.959	2	
@@ -631,8 +460,6 @@ Karauswa Garu Guna	Karasuwa	Yobe	13.111	10.845	2
 Gunka	Jahun	Jigawa	12.137	9.413	2	
 Guntai	Gwiwa	Jigawa	12.766	8.362	2	
 Gujungu	Taura	Jigawa	12.343	9.525	2	
-Gumel	Gumel	Jigawa	12.623	9.404	2	
-Guri	Guri	Jigawa	12.706	10.409	2	
 Gusau	Gumel	Jigawa	12.619	9.389	2	
 Gusami Gari	Birnin Magaji-Kiyaw	Zamfara	12.385	6.890	2	
 Gusami Hayi	Birnin Magaji-Kiyaw	Zamfara	12.331	6.912	2	
@@ -696,5 +523,677 @@ Chulu Gumbi	Yauri	Kebbi	10.629	4.717	2
 Guduf A&B	Gwoza	Borno	11.091	13.730	2	
 Guzape	Municipal Area Council	FCT Abuja	9.012	7.507	2	
 Gudu	Municipal Area Council	FCT Abuja	9.009	7.479	2	
-Gumbi	Wamako	Sokoto	13.032	5.165	2	
 Gundutse	Kura	Kano	11.816	8.518	2	
+Zangon Gulya	Ajingi	Kano	12.046	8.954	2	
+Guduikko	Mokwa	Niger	9.225	5.485	2	Yiko
+Yan Guruza	Gwarzo	Kano	11.901	8.071	2	
+Wuro Gurama	Jada	Adamawa	8.790	12.198	2	
+Wuro Gundu	Nafada	Gombe	10.935	11.312	2	
+Vaase	Wukari	Taraba	7.888	9.556	2	Gusa Vaase|Vassa
+Ungwan Guduba	Giwa	Kaduna	11.017	7.150	2	Angwan Guduba
+Unguwan Gudalai	Sumaila	Kano	11.251	8.887	2	
+Tunga Gumai	Bagudo	Kebbi	11.478	4.136	2	
+Tsamiyan Gude	Malumfashi	Katsina	11.806	7.584	2	
+Tashon Guyaku	Gombi	Adamawa	10.325	12.667	2	
+Tading Ngurore	Ganye	Adamawa	8.551	11.864	2	Grori|Gurore
+Sigire Gudu	Song	Adamawa	9.952	12.588	2	
+Sebore Gumbi	Mayo-Belwa	Adamawa	8.912	12.128	2	
+Sabon Gari Gurum	Bassa	Plateau	10.029	8.827	2	Sabon Garin Gurum
+Gulani	Burutu	Delta	5.362	5.326	2	Gula|Ogula|Ogulagha II
+Namtari Gurel	Yola North	Adamawa	9.288	12.294	2	
+Marafa Gungu	Silame	Sokoto	12.982	4.817	2	
+Kusoti	Agaie	Niger	8.916	6.368	2	Gusoli
+Kurmin Gurmana	Shiroro	Niger	10.020	6.654	2	
+Kukoki	Rafi	Niger	10.126	6.440	2	Kukoki Guda
+Gwuregi	Agaie	Niger	8.726	6.430	2	Gureji
+Guzurawa	Safana	Katsina	12.397	7.272	2	
+Guzuo	Katcha	Niger	8.880	6.225	2	
+Guzum Maha	Maiha	Adamawa	10.078	13.197	2	
+Guzan	Mokwa	Niger	9.017	5.483	2	
+Guyaku	Gombi	Adamawa	10.272	12.479	2	
+Guwal	Kwaya Kusar	Borno	10.541	11.917	2	
+Guwa	Shiroro	Niger	9.917	6.514	2	
+Guva	Askira-Uba	Borno	10.567	12.989	2	
+Guttu	Gumel	Jigawa	12.677	9.435	2	
+Guto	Paikoro	Niger	9.492	6.534	2	
+Gutkelmi	Kauru	Kaduna	10.180	8.266	2	
+Gutan	Ogun Waterside	Ogun	6.473	4.554	2	
+Gusuru	Shiroro	Niger	9.986	6.733	2	
+Gusun	Gurara	Niger	9.423	7.171	2	
+Gusu	Toro	Bauchi	10.197	8.970	2	
+Gusu	Bassa	Plateau	10.187	8.944	2	
+Gusi	Kwaya Kusar	Borno	10.392	12.014	2	Gasi
+Gushi	Birnin Gwari	Kaduna	10.950	6.717	2	
+Gusako	Chikun	Kaduna	10.213	7.160	2	
+Gurzum	Ganjuwa	Bauchi	10.549	9.906	2	
+Gurzhin	Gombi	Adamawa	10.111	12.664	2	
+Gurza	Lere	Kaduna	10.087	8.548	2	
+Guruza	Donga	Taraba	7.778	10.013	2	
+Gurusu	Bosso	Niger	9.634	6.615	2	
+Gurun Gawa	Kumbotso	Kano	11.931	8.520	2	
+Gurumpawo	Fufore	Adamawa	9.066	12.456	2	
+Gurum	Tsanyawa	Kano	12.345	7.978	2	
+Gurum	Hawul	Borno	10.580	12.012	2	Girim
+Gurum	Gombi	Adamawa	10.093	12.599	2	
+Gurum	Bassa	Plateau	10.029	8.836	2	
+Gurum	Mayo-Belwa	Adamawa	8.942	12.165	2	
+Guruja	Teungo	Adamawa	7.721	11.883	2	
+Gurudindin	Hawul	Borno	10.330	12.186	2	
+Gurowa	Gassol	Taraba	8.505	10.810	2	
+Gurnuva	Mubi North	Adamawa	10.375	13.462	2	
+Gurjia	Minjibir	Kano	12.222	8.711	2	Garjiya|Gurjiya
+Gurjia	Lere	Kaduna	10.359	8.755	2	
+Guri-Nati	Fufore	Adamawa	9.026	12.602	2	Guri Nati
+Gurin	Fufore	Adamawa	9.113	12.885	2	
+Guriki	Gombi	Adamawa	10.078	12.734	2	
+Guri	Mubi South	Adamawa	10.237	13.460	2	
+Guri	Chikun	Kaduna	10.200	7.133	2	
+Gurgu Sudan	Sardauna	Taraba	7.000	11.083	2	
+Gurgur	Biu	Borno	10.673	12.248	2	
+Gurgum	Fune	Yobe	11.971	11.064	2	
+Gurfa	Toro	Bauchi	10.657	9.092	2	
+Guredi	Abaji	FCT Abuja	8.768	6.803	2	
+Gure	Lere	Kaduna	10.319	8.381	2	
+Gurdu	Shira	Bauchi	11.473	9.950	2	
+Gurdam	Tangaza	Sokoto	13.487	4.781	2	
+Gurbutu	Gamawa	Bauchi	12.044	10.582	2	
+Gurbuna	Jakusko	Yobe	12.242	10.898	2	
+Gurbe Jibu	Wukari	Taraba	8.218	9.889	2	
+Gurara	Buji	Jigawa	11.666	9.820	2	
+Gurama	Bali	Taraba	7.708	10.751	2	Guruma
+Guraka	Toro	Bauchi	10.673	8.866	2	
+Guraji	Garki	Jigawa	12.419	9.260	2	
+Guraji	Kankara	Katsina	12.050	7.275	2	
+Gura Jawa	Nafada	Gombe	10.892	11.332	2	
+Gurai	Magama	Niger	10.242	4.899	2	
+Gura	Hawul	Borno	10.584	12.184	2	
+Gupan Tumo	Kabo	Kano	11.975	8.101	2	
+Gupa	Lapai	Niger	8.428	6.693	2	
+Gunugu	Shiroro	Niger	10.280	7.015	2	
+Gunugu	Rafi	Niger	9.884	6.392	2	Gunugo
+Gunu	Shiroro	Niger	9.674	6.739	2	
+Goto	Toto	Nasarawa	8.314	7.219	2	Guntu
+Gunta	Warji	Bauchi	11.063	9.639	2	
+Gunrafia	Gwagwalada	FCT Abuja	8.974	7.033	2	
+Gunniyan	Moro	Kwara	8.693	4.428	2	
+Gunka	Jahun	Jigawa	12.145	9.365	2	
+Gunji	Lere	Kaduna	10.097	8.554	2	
+Guni Station	Munya	Niger	9.833	6.933	2	
+Gunigi	Agaie	Niger	9.219	6.500	2	
+Guni	Munya	Niger	9.798	6.945	2	Gunni
+Gungu Saje	Mayo-Belwa	Adamawa	8.694	11.821	2	
+Gungura	Ganjuwa	Bauchi	10.628	10.423	2	
+Gungun	Konshisha	Benue	7.142	8.573	2	
+Gunguama	Birnin Kudu	Jigawa	11.345	9.535	2	
+Gungu Abdulahi	Wukari	Taraba	8.215	9.891	2	
+Gungu	Gassol	Taraba	8.674	10.358	2	Kawatataru|Kwata Taru
+Gungi-Boku	Mokwa	Niger	9.304	4.669	2	Gungiborku|Wasa
+Gunduri	Darazo	Bauchi	11.070	10.428	2	
+Gunduma	Kokona	Nasarawa	8.963	7.890	2	
+Gunduma	Gassol	Taraba	8.575	10.719	2	
+Gunduma	Bali	Taraba	8.533	11.314	2	
+Gunduma	Bali	Taraba	8.342	11.051	2	
+Gunduma	Kurmi	Taraba	7.170	10.643	2	
+Gundu	Hawul	Borno	10.397	12.069	2	
+Gundu	Gboko	Benue	7.263	8.736	2	
+Gundu	Konshisha	Benue	7.191	8.658	2	
+Gundu	Kwande	Benue	6.886	9.627	2	
+Gundinga	Kware	Sokoto	13.259	5.155	2	Gundunga
+Gundale	Shongom	Gombe	9.565	11.031	2	
+Gunda	Toro	Bauchi	10.717	8.994	2	
+Gunburuku	Hawul	Borno	10.325	12.023	2	Gumburku|Gumburkuru
+Gunbir	Hawul	Borno	10.387	12.111	2	
+Guna’a	Birnin Kudu	Jigawa	11.250	9.600	2	
+Guna	Gurara	Niger	9.478	7.177	2	
+Gumuzo	Jega	Kebbi	12.330	4.360	2	
+Gumula	Konshisha	Benue	7.101	8.571	2	
+Gumti	Teungo	Adamawa	7.647	11.769	2	
+Gumshir	Kanam	Plateau	9.344	9.796	2	
+Gumsa	Geidam	Yobe	12.562	11.799	2	
+Gumo	Song	Adamawa	9.942	12.479	2	
+Gumna	Mafa	Borno	12.112	13.661	2	
+Gumel	Kachia	Kaduna	9.850	7.975	2	
+Gunibulu	Aleiro	Kebbi	12.339	4.442	2	Gumbulu
+Gumbu	Mokwa	Niger	9.350	4.850	2	
+Gumbo	Kogi	Kogi	8.182	6.942	2	
+Gumbenawa	Wamako	Sokoto	13.133	5.230	2	Gumborawa|Gumbura
+Gumau	Toro	Bauchi	10.252	9.015	2	
+Gumari	Demsa	Adamawa	9.201	12.026	2	
+Gumamai	Toro	Bauchi	10.832	8.839	2	
+Gumale	Bauchi	Bauchi	10.266	9.706	2	
+Guma Fina	Shani	Borno	10.159	11.828	2	
+Guma	Mashi	Katsina	13.080	7.874	2	
+Gum	Tafawa-Balewa	Bauchi	9.658	9.963	2	
+Gum	Guma	Benue	7.905	8.800	2	
+Gum	Takum	Taraba	7.479	10.113	2	
+Gum	Gboko	Benue	7.393	8.741	2	
+Gum	Kwande	Benue	6.975	9.506	2	
+Gulu West	Lapai	Niger	8.656	6.586	2	
+Gulumari	Nafada	Gombe	10.860	11.291	2	
+Gulum	Yorro	Taraba	8.959	11.355	2	
+Gululu	Miga	Jigawa	12.191	9.580	2	
+Gulufu	Edu	Kwara	9.024	4.979	2	
+Gulu	Rimin Gado	Kano	11.862	8.298	2	
+Gulu	Lapai	Niger	8.667	6.597	2	
+Gulmare	Bunza	Kebbi	12.098	3.915	2	
+Gulma	Argungu	Kebbi	12.642	4.355	2	
+Gullanmorar	Tarmua	Yobe	12.489	11.665	2	Gullamoran
+Guliyang	Fufore	Adamawa	9.027	12.288	2	
+Gulimari	Akko	Gombe	10.034	11.042	2	
+Guldungurun	Shani	Borno	10.266	12.196	2	Guldungurung
+Gulbin Ka	Bukkuyum	Zamfara	11.683	5.533	2	
+Gulani	Gulani	Yobe	10.724	11.690	2	Gulai
+Gulangi	Rafi	Niger	9.993	6.007	2	
+Gulan Bubu	Bayo	Borno	10.262	11.734	2	Gulan
+Gulabinda	Biu	Borno	10.795	11.783	2	
+Gula	Fune	Yobe	11.607	11.569	2	
+Gula	Fune	Yobe	11.538	11.334	2	
+Gula	Hawul	Borno	10.501	12.375	2	
+Gukpa	Agaie	Niger	8.957	6.578	2	
+Gukaru	Alkaleri	Bauchi	10.175	10.185	2	
+Gujuba	Kaltungo	Gombe	9.941	11.327	2	
+Gujiya	Bunkure	Kano	11.752	8.561	2	Gurjiya
+Gujibabu	Fufore	Adamawa	9.132	12.399	2	
+Gujiba	Akko	Gombe	10.155	11.204	2	
+Gujeri	Konduga	Borno	11.537	12.817	2	
+Gujela	Gombi	Adamawa	10.296	12.668	2	
+Gujba	Gujba	Yobe	11.500	11.934	2	
+Gujam	Nangere	Yobe	11.857	10.994	2	
+Gbuja	Akwanga	Nasarawa	9.175	8.350	2	Guja
+Guin	Tafawa-Balewa	Bauchi	9.857	9.615	2	
+Gugwal	Kanam	Plateau	9.391	9.809	2	
+Guguwa	Ngaski	Kebbi	10.567	4.700	2	
+Guguwa	Ngaski	Kebbi	10.567	4.683	2	
+Gugurum	Biriniwa	Jigawa	12.853	10.283	2	
+Gugur	Kanke	Plateau	9.273	9.699	2	
+Gugulu	Shani	Borno	10.046	12.089	2	
+Gugub	Damboa	Borno	10.965	12.568	2	
+Gugu	Guyuk	Adamawa	9.784	12.003	2	
+Guga	Bakori	Katsina	11.728	7.351	2	
+Gufka	Biu	Borno	10.727	12.074	2	
+Guduwi	Fika	Yobe	11.259	11.439	2	
+Gudusuru	Edu	Kwara	8.920	5.294	2	Guduzuru
+Gudusu	Fufore	Adamawa	9.510	12.643	2	
+Gudure	Song	Adamawa	10.025	12.637	2	
+Gudun Guya	Chikun	Kaduna	10.491	7.231	2	
+Gudumiya	Hong	Adamawa	10.258	12.799	2	
+Gudumiya	Hong	Adamawa	10.192	12.788	2	
+Gudumgudum	Illela	Sokoto	13.600	5.250	2	
+Guduma	Munya	Niger	9.595	6.998	2	
+Guduk	Wase	Plateau	9.384	10.176	2	
+Gudugbu-Orile	Afijio	Oyo	7.803	4.041	2	Gudugbu Orile|GudugbuOrile
+Gudugbu	Afijio	Oyo	7.734	3.977	2	
+Guduf Bubaya Gawa	Gwoza	Borno	11.074	13.736	2	
+Guduba	Buji	Jigawa	11.453	9.654	2	
+Gudu	Song	Adamawa	9.923	12.542	2	
+Gudu	Asa	Kwara	8.676	4.356	2	
+Gudu	Ushongo	Benue	7.047	8.960	2	
+Gudoko	Nafada	Gombe	11.080	11.108	2	
+Gudna	Paikoro	Niger	9.353	6.576	2	
+Gudio	Shiroro	Niger	10.362	6.669	2	
+Gudi	Fika	Yobe	11.436	11.186	2	
+Gudi	Gbako	Niger	9.534	6.174	2	
+Gudi	Wamba	Nasarawa	8.940	8.546	2	
+Gudi	Akwanga	Nasarawa	8.883	8.269	2	
+Gude	Argungu	Kebbi	12.683	4.700	2	
+Gude	Mubi South	Adamawa	10.199	13.309	2	
+Gudawi	Hong	Adamawa	10.337	12.737	2	
+Gudaba	Shelleng	Adamawa	10.279	12.304	2	
+Guda	Ningi	Bauchi	11.066	9.557	2	
+Guchi	Sanga	Kaduna	9.223	8.156	2	
+Gubula	Madagali	Adamawa	10.881	13.578	2	
+Gobirawa	Bodinga	Sokoto	12.944	5.177	2	Gubrawa
+Gubori	Borsari	Yobe	12.922	11.258	2	
+Gubogumma	Guzamala	Borno	12.966	13.453	2	
+Gubi	Funakaye	Gombe	11.086	11.395	2	
+Gubi	Bauchi	Bauchi	10.438	9.812	2	
+Guberundi	Bayo	Borno	10.335	11.774	2	Guburunde
+Gubeni	Chikun	Kaduna	10.200	7.083	2	
+Gubdo	Potiskum	Yobe	11.620	11.208	2	
+Gudbo	Fune	Yobe	11.587	11.326	2	Gubdo
+Gubda	Shira	Bauchi	11.444	10.240	2	
+Gubber	Fune	Yobe	12.164	11.470	2	
+Gubam	Bama	Borno	11.450	14.189	2	
+Gubagi	Gbako	Niger	9.131	6.036	2	
+Guba	Borsari	Yobe	12.795	11.422	2	
+Guako	Municipal Area Council	FCT Abuja	9.031	7.194	2	
+Gure	Baruten	Kwara	9.629	3.291	2	Guai|Gurai
+Gu	Hong	Adamawa	10.411	12.990	2	
+Gu	Ushongo	Benue	7.051	8.923	2	
+Gonda	Biu	Borno	10.789	11.850	2	Gunda
+Gunki	Nasarawa	Nasarawa	8.584	7.745	2	Gogwasa
+Guidan Yakubu	Bungudu	Zamfara	12.170	6.532	2	Gidan Yakubu
+Guidan Usuman	Bungudu	Zamfara	12.192	6.557	2	Gidan Usuman
+Guidan Uban Dawaki	Bungudu	Zamfara	12.289	6.570	2	Gidan Uban Dawaki
+Guidan Tanko	Bungudu	Zamfara	12.045	6.523	2	Gidan Tanko
+Guidan Sodangi	Bungudu	Zamfara	12.225	6.510	2	Gidan Sodangi
+Guidan Shanono	Bungudu	Zamfara	12.209	6.524	2	Gidan Shanono
+Guidan Shagwo	Gusau	Zamfara	12.011	6.674	2	Gidan Shagwa
+Guidan Sarkin Noma	Gusau	Zamfara	12.105	6.984	2	Gidan Sarkin Noma
+Guidan Sarde	Bungudu	Zamfara	12.235	6.547	2	Gidan Sardo|Guidan Sardo
+Guidan Sake	Gusau	Zamfara	12.076	6.671	2	Gidan Sake
+Guidan Sakarawa	Bungudu	Zamfara	12.128	6.575	2	Gidan Sakarawa
+Guidan Nayo	Bungudu	Zamfara	12.217	6.517	2	Gidan Nayo
+Guidan Mashau	Birnin Magaji-Kiyaw	Zamfara	12.304	6.859	2	Gidan Mashau
+Guidan Manuga	Gusau	Zamfara	12.094	6.590	2	Gidan Manuga
+Guidan Mani	Bungudu	Zamfara	12.220	6.545	2	Gidan Mani
+Guidan Malijatu	Isa	Sokoto	13.189	6.041	2	Gidan Malijatu
+Guidan Makuru	Birnin Magaji-Kiyaw	Zamfara	12.309	6.854	2	Gidan Makuru
+Guidan Mai-Kwazo	Bungudu	Zamfara	12.120	6.561	2	Gidan Mai Kwazo
+Guidan Mage	Gusau	Zamfara	12.137	6.646	2	Gidan Mage
+Guidan Magagi	Gusau	Zamfara	12.225	6.936	2	Gidan Magagi
+Guidan Kuje	Gusau	Zamfara	12.195	6.697	2	Gidan Kuje
+Guidan Karte	Bungudu	Zamfara	12.135	6.760	2	Gidan Karfe
+Guidan Kadiri	Bungudu	Zamfara	12.255	6.847	2	Gidan Kadiri
+Guidan Jatto	Gusau	Zamfara	12.140	6.978	2	Gidan Jatto
+Guidan Janari	Bungudu	Zamfara	12.136	6.505	2	Gidan Janari
+Guidan Idi	Gusau	Zamfara	12.060	6.781	2	Gidan Idi
+Guidan Halilu	Gusau	Zamfara	12.093	6.619	2	Gidan Halilu
+Guidan Hagu	Bungudu	Zamfara	12.147	6.574	2	Gidan Hagu
+Gidan Gurmayi	Shiroro	Niger	10.200	6.717	2	
+Guidan Goje	Gusau	Zamfara	12.104	6.765	2	Gidan Goje
+Guidan Giasa	Maru	Zamfara	12.030	6.311	2	Gidan Giasa
+Guidan Fakkam	Gusau	Zamfara	12.078	6.703	2	Gidan Fakkam
+Guidan Fadama	Isa	Sokoto	13.126	6.537	2	Gidan Fadama
+Guidan Dan Umoru	Tsafe	Zamfara	12.028	6.943	2	Gidan Dan Umoru
+Guidan Beriberi	Bungudu	Zamfara	12.164	6.558	2	Gidan Beriberi
+Guidan Begini	Gusau	Zamfara	12.187	6.694	2	Gidan Begini
+Guidan Bawa	Gusau	Zamfara	12.044	6.742	2	Gidan Bawa
+Guidan Bako	Gusau	Zamfara	12.128	6.642	2	Gidan Bako
+Guidan Awala	Tsafe	Zamfara	12.061	6.918	2	Gidan Awala
+Guidan Anache	Bungudu	Zamfara	12.265	6.828	2	Gidan Anache
+Guidan Aljeni	Gusau	Zamfara	12.251	6.892	2	Gidan Aljeni
+Guidan Ali	Bungudu	Zamfara	12.217	6.615	2	Gidan Ali
+Guidan Abu	Bungudu	Zamfara	12.154	6.541	2	Gidan Abu
+Gurau	Goronyo	Sokoto	13.491	5.843	2	Gauro
+Garin Jauro Gurama	Ardo-Kola	Taraba	8.778	10.934	2	
+Gurbana	Nangere	Yobe	11.881	11.041	2	Gabakau
+Dongo Gure	Gombi	Adamawa	10.237	12.726	2	
+Dan Gunu	Munya	Niger	10.026	7.061	2	
+Dan Gummai	Jama'Are	Bauchi	11.680	9.868	2	
+Dama Guli	Bungudu	Zamfara	12.208	6.434	2	
+Gulmari	Kirfi	Bauchi	10.285	10.514	2	Bulmari
+Budun Gulum	Shani	Borno	10.054	11.871	2	Bodun Gulum
+Gulmare	Dandi	Kebbi	12.079	3.858	2	Bele Sumbe
+Bauchi Gusga	Teungo	Adamawa	7.967	12.003	2	
+Barakin Gurum	Bassa	Plateau	10.035	8.841	2	
+Anguwan Gumeru	Ganjuwa	Bauchi	10.781	9.782	2	
+Aiye Gu Ulu	Kabba/Bunu	Kogi	7.885	6.189	2	
+Gurushe	Municipal Area Council	FCT Abuja	9.128	7.513	2	
+Burku	Karu	Nasarawa	9.103	7.611	2	Gurku
+Gurku Gwari	Karu	Nasarawa	9.092	7.616	2	
+Guva	Gwoza	Borno	11.127	13.792	2	
+Guva Yashi	Hong	Adamawa	10.339	13.114	2	
+Gumna	Dikwa	Borno	11.819	14.202	2	
+Gulduba	Bama	Borno	11.591	14.116	2	
+Gudugbe	Ewekoro	Ogun	6.976	3.231	2	
+Guburdi	Kwaya Kusar	Borno	10.461	12.009	2	
+Guzugum	Hawul	Borno	10.500	12.226	2	
+Tse-Guletsa	Gboko	Benue	7.489	8.801	2	
+Gur	Gwer East	Benue	7.572	8.351	2	
+Gusabo	Gwer East	Benue	7.578	8.478	2	
+Gu	Gwer West	Benue	7.623	8.146	2	
+Gurugabe	Suru	Kebbi	11.595	3.899	2	
+Garin Guza	Baure	Katsina	12.824	8.933	2	
+Gurai	Baure	Katsina	12.769	8.947	2	
+Gurfai	Babura	Jigawa	12.652	8.787	2	
+Gutsula	Babura	Jigawa	12.584	8.798	2	
+Gurjia	Yankwashi	Jigawa	12.700	8.622	2	
+Gurumfa	Kazaure	Jigawa	12.657	8.624	2	
+Gurjia	Ajingi	Kano	12.028	8.967	2	
+Gudawa	Dutsi	Katsina	12.968	8.079	2	
+Gurjiya	Daura	Katsina	12.989	8.336	2	
+Gurjiya	Dutsi	Katsina	12.936	8.086	2	
+Gundu	Sandamu	Katsina	12.890	8.342	2	
+Gure	Rimi	Katsina	12.765	7.749	2	
+Gunki	Rimi	Katsina	12.892	7.727	2	
+Gidan Gunduna	Batagarawa	Katsina	12.814	7.632	2	
+Gumi	Bindawa	Katsina	12.701	7.833	2	
+Hanya Gundawa	Kankara	Katsina	12.046	7.463	2	
+Gurbi Mikiya	Kankara	Katsina	12.038	7.431	2	
+Gurbi	Tsafe	Zamfara	12.024	7.151	2	
+Gunday	Shiroro	Niger	10.336	6.921	2	
+Gurikisa	Birnin Gwari	Kaduna	10.541	6.236	2	
+Rafin Gungumi	Rafi	Niger	10.177	6.232	2	
+Guadaguri	Shiroro	Niger	10.104	6.678	2	
+Gungu	Madaoua	Sokoto	13.734	5.997	2	
+Gusau	Goronyo	Sokoto	13.600	5.635	2	
+Gulumbawa	Gwadabawa	Sokoto	13.447	5.487	2	
+Gulu	Agwara	Niger	10.848	4.403	2	
+Gungu Masu	Ngaski	Kebbi	10.415	4.635	2	
+Bakin Gulbe	Wamako	Sokoto	13.103	5.216	2	
+Gurbi	Tsafe	Zamfara	11.978	7.070	2	
+Ruwau Gugi	Bakori	Katsina	11.665	7.381	2	
+Dan Guzuri	Makarfi	Kaduna	11.363	7.834	2	
+Gusu	Zuru	Kebbi	11.384	4.979	2	
+Tunga Kaiwa Gungawa	Bagudo	Kebbi	11.019	4.420	2	
+Guwani	Shanga	Kebbi	11.044	4.864	2	
+Gulmari	Kirfi	Bauchi	10.342	10.799	2	
+Guna’a	Ningi	Bauchi	11.229	9.594	2	
+Gursau	Tambuwal	Sokoto	12.393	4.696	2	
+Guaragbene	Southern Ijaw	Bayelsa	4.430	5.981	2	
+Guraraj	Kiru	Kano	11.717	8.253	2	
+Awka South	Awka South	Anambra	6.207	7.068	2	Agbegbe Ijoba Ibile Guusu Awka|Awka Sud|Awka ta Kudu|Lam Awka|Ndida Awka
+Ife South	Ife South	Osun	7.200	4.600	2	Agbegbe Ijoba Ibile Guusu Ife|Ife SouthLGA|Ife Sud|Ife ta Kudu|Lam Ife
+Idemili South	Idemili South	Anambra	6.048	6.950	2	Agbegbe Ijoba Ibile Guusu Idemili|Idemili Sud|Idemili ta Kudu|Lam Idemili
+Nnewi South	Nnewi South	Anambra	5.933	6.923	2	Agbegbe Ijoba Ibile Guusu Nnewi|Lam Nnewi|Nnewi Sud|Nnewi ta Kudu
+Guma	Guma	Benue	7.967	8.767	2	Agbegbe Ijoba Ibile Guma|guma
+Aniocha South	Aniocha South	Delta	6.128	6.483	2	Agbegbe Ijoba Ibile Guusu Aniocha|Aniocha Sud|Aniocha ta Kudu|Lam Aniocha
+Warri South	Warri South	Delta	5.613	5.611	2	Agbegbe Ijoba Ibile Guusu Warri|Lam Warri|Warri Sud|Warri ta Kudu
+Gujba	Gujba	Yobe	11.383	11.967	2	
+Gulani	Gulani	Yobe	11.000	11.717	2	Agbegbe Ijoba Ibile Gulani|gurani
+Umuahia South	Umuahia South	Abia	5.462	7.440	2	Agbegbe Ijoba Ibile Guusu Umuahia|Lam Umuahia|Pivdenna Umuakhija|Umuahia Sud|Umuahia ta Kudu
+Gummi	Gummi	Zamfara	12.054	5.114	2	Agbegbe Ijoba Ibile Gummi|Gumi
+Gudu	Gudu	Sokoto	13.432	4.495	2	Gudu Local Government Area
+Bungudu	Bungudu	Zamfara	12.189	6.489	2	Agbegbe Ijoba Ibile Bungudu|Bungudu Local Government Area|ben gu du
+Gusau	Gusau	Zamfara	11.876	6.620	2	Gusau Local Government Area
+Gwarzo	Gwarzo	Kano	11.884	7.956	2	Agbegbe Ijoba Ibile Gwarzo|Guarzo|Gwarzo Local Government Area
+Guri	Guri	Jigawa	12.658	10.470	2	Guri Local Government Area
+Langtang South	Langtang South	Plateau	8.602	9.810	2	Agbegbe Ijoba Ibile Guusu Langtang|Lam Langtang|Langtang South Local Government Area|Langtang Sud|Langtang ta Kudu|Langt
+Abeokuta South	Abeokuta South	Ogun	7.154	3.355	2	Abeokuta South Local Government Area|Abeokuta Sud|Abeokuta ta Kudu|Abeokuta-South|Abeokuta-Sul|Agbegbe Ijoba Ibile Guusu
+Ekiti South-West	Ekiti South-West	Ekiti	7.513	5.052	2	Agbegbe Ijoba Ibile Guusu-Iwoorun Ekiti|Ekiti South West|Ekiti South West Local Government Area|Ekiti Sud Ouest|Ekiti Su
+Akure South	Akure South	Ondo	7.205	5.188	2	Agbegbe Ijoba Ibile Guusu Akure|Akure South Local Government Area|Akure Sud|Akure ta Kudu|Lam Akure|jnwb akwr
+Onitsha South	Onitsha South	Anambra	6.127	6.777	2	Agbegbe Ijoba Ibile Guusu Onitsha|Lam Onitsha|Onitsha South Local Government Area|Onitsha Sud|Onitsha ta Kudu|Onitsha-Su
+Mubi South	Mubi South	Adamawa	10.187	13.396	2	Agbegbe Ijoba Ibile Guusu Mubi|Lam Mubi|Mubi South Local Government Area|Mubi Sud|Mubi ta Kudu
+Guyuk	Guyuk	Adamawa	9.823	11.920	2	Agbegbe Ijoba Ibile Guyuk|Gayuk|Guyuk Local Government Area|kywk
+Yola South	Yola South	Adamawa	9.253	12.436	2	Agbegbe Ijoba Ibile Guusu Yola|Lam Yola|Yola Fombina|Yola South Local Government Area|Yola Sud|Yola ta Kudu|ywla jnwby
+Guzamala	Guzamala	Borno	12.918	13.214	2	Agbegbe Ijoba Ibile Guzamala|Guzamala Local Government Area
+Gubio	Gubio	Borno	12.678	12.754	2	Gubio Local Government Area
+Gurture	Song	Adamawa	9.838	13.045	2	
+Gulkole Rock	Gwoza	Borno	11.225	13.781	2	
+Gulak Dambaram	Madagali	Adamawa	10.826	13.458	2	
+Gubi	Mubi North	Adamawa	10.403	13.417	2	
+Gulfu One	Gwoza	Borno	11.265	13.322	2	
+Gulfu Two	Gwoza	Borno	11.258	13.311	2	
+Garin Gwano Guduku	Nafada	Gombe	11.088	11.155	2	
+Gununu	Fune	Yobe	11.665	11.457	2	
+Gundulwa Forest Reserve	Gujba	Yobe	11.578	11.899	2	
+Guusu	Gwer East	Benue	7.285	8.410	2	
+Gulumba	Bama	Borno	11.653	13.958	2	
+Gumsuri	Damboa	Borno	11.039	12.961	2	
+Gunda	Biu	Borno	10.841	11.812	2	
+Gur	Biu	Borno	10.810	12.284	2	
+Gudumbali East	Guzamala	Borno	12.964	13.306	2	
+Gujungu	Taura	Jigawa	12.349	9.550	2	
+Gude	Kabo	Kano	11.957	8.054	2	
+Gurbi	Jibia	Katsina	12.911	7.101	2	
+Gundawa	Kankara	Katsina	12.036	7.486	2	
+Gumumunde-Rafin Tsaka	Arewa Dandi	Kebbi	12.328	3.724	2	
+Gulma	Argungu	Kebbi	12.649	4.358	2	
+Gulmare	Gwandu	Kebbi	12.379	4.542	2	
+Guba Dapso	Borsari	Yobe	12.739	11.388	2	
+Gujba	Gujba	Yobe	11.453	11.949	2	
+Gumsa	Geidam	Yobe	12.503	11.823	2	
+Karauswa Garu Guna	Karasuwa	Yobe	13.106	10.838	2	
+Gumshi	Yusufari	Yobe	13.172	10.334	2	
+Gusami Hayi	Birnin Magaji-Kiyaw	Zamfara	12.326	6.876	2	
+Gumel	Kachia	Kaduna	9.818	7.997	2	
+Gure Kahugu	Lere	Kaduna	10.313	8.419	2	
+Gudumbali West	Guzamala	Borno	13.032	12.996	2	
+Gudi Dozi	Fika	Yobe	11.334	11.050	2	
+Gungura B	Ganjuwa	Bauchi	10.815	10.420	2	
+Gungura A	Ganjuwa	Bauchi	10.694	10.435	2	
+Gundari	Misau	Bauchi	11.329	10.493	2	
+Gundu	Apa	Benue	7.652	8.075	2	
+Gume	Gwer West	Benue	7.552	8.150	2	
+Gusa	Wukari	Taraba	7.923	9.323	2	
+Gum	Wukari	Taraba	7.978	9.443	2	
+Guye	Buruku	Benue	7.516	9.028	2	
+Gungun	Ukum	Benue	7.746	9.419	2	
+Gusa	Wukari	Taraba	7.886	9.549	2	
+Gum	Wukari	Taraba	7.696	9.724	2	
+Gum	Ukum	Benue	7.643	9.512	2	
+Guda	Ukum	Benue	7.596	9.546	2	
+Guse	Ukum	Benue	7.574	9.525	2	
+Gusa	Ukum	Benue	7.564	9.553	2	
+Guntu	Wukari	Taraba	7.699	9.780	2	
+Gugul	Takum	Taraba	7.528	9.912	2	
+Gum	Takum	Taraba	7.512	9.900	2	
+Guse	Takum	Taraba	7.525	9.939	2	
+Inche Gunke	Ukum	Benue	7.694	9.497	2	
+Gundu	Gboko	Benue	7.359	9.034	2	
+Gumyongo	Buruku	Benue	7.484	9.246	2	
+Gure	Buruku	Benue	7.373	9.213	2	
+Gulaku	Buruku	Benue	7.393	9.307	2	
+Gum	Katsina-Ala	Benue	7.396	9.441	2	
+Gum	Ushongo	Benue	7.090	9.193	2	
+Gudugu	Katsina-Ala	Benue	7.221	9.443	2	
+Gusa	Kwande	Benue	7.026	9.482	2	
+Gunduma	Donga	Taraba	7.507	10.532	2	
+Gusha	Gboko	Benue	7.461	8.929	2	
+Gube	Gboko	Benue	7.386	8.986	2	
+Gugu	Gboko	Benue	7.331	8.873	2	
+Guma	Gboko	Benue	7.256	8.999	2	
+Gurun Fara	Zaki	Bauchi	12.130	10.335	2	
+Gudurafi	Gbako	Niger	9.088	5.904	2	
+Gubata	Gbako	Niger	9.064	5.920	2	
+Gusadin	Gbako	Niger	9.063	5.865	2	
+Guma	Yusufari	Yobe	13.080	10.979	2	
+Gunduri	Yusufari	Yobe	13.019	11.100	2	
+Guye	Gbako	Niger	9.308	6.086	2	
+Guye	Katcha	Niger	9.207	6.262	2	
+Gudugi	Katcha	Niger	9.109	6.183	2	
+Gudugi	Wushishi	Niger	9.724	6.063	2	
+Gusasi	Bosso	Niger	9.663	6.457	2	
+Gidan Gunday	Shiroro	Niger	9.872	6.578	2	
+Gidan Guwi	Shiroro	Niger	9.756	6.815	2	
+Guintao	Shiroro	Niger	9.710	6.782	2	
+Gidan Gugi	Shiroro	Niger	9.739	6.840	2	
+Gidan Gugi	Shiroro	Niger	9.730	6.831	2	
+New Gurusupe	Bosso	Niger	9.637	6.631	2	
+Gunure	Mayo-Belwa	Adamawa	8.862	12.063	2	
+Gumba	Fufore	Adamawa	8.840	12.488	2	
+Gurchami	Kagarko	Kaduna	9.465	7.868	2	
+Gurdi	Karu	Nasarawa	9.277	7.747	2	
+Guruje	Zing	Taraba	8.843	11.773	2	
+Gurei	Mayo-Belwa	Adamawa	8.977	11.978	2	
+Guram	Yorro	Taraba	8.793	11.485	2	
+Gungu Sanbo	Ibi	Taraba	8.693	10.295	2	
+Gunok	Wase	Plateau	8.898	9.913	2	
+Gunka	Sanga	Kaduna	9.129	8.434	2	
+Kan Gurara	Zangon Kataf	Kaduna	9.746	8.188	2	
+Ungwan Guga	Zangon Kataf	Kaduna	9.808	8.233	2	
+Guonam	Qua'An Pan	Plateau	8.716	9.113	2	
+Gunnam	Qua'An Pan	Plateau	8.683	9.116	2	
+Gube	Qua'An Pan	Plateau	8.718	9.211	2	
+Guguri	Demsa	Adamawa	9.498	12.250	2	
+Tambo Gure	Girei	Adamawa	9.495	12.400	2	
+Yolde Gubuda	Mayo-Belwa	Adamawa	9.092	12.044	2	
+Wuro Gube	Fufore	Adamawa	9.086	12.249	2	
+Gurbin-Baure	Larmurde	Adamawa	9.444	11.587	2	
+Gudagu	Lau	Taraba	9.234	11.598	2	
+Guri	Demsa	Adamawa	9.233	11.787	2	
+Sabon Guri	Demsa	Adamawa	9.217	11.814	2	
+Garin Guda	Akko	Gombe	9.969	10.993	2	
+Guda	Akko	Gombe	9.879	10.998	2	
+Guda Waziri	Akko	Gombe	9.867	10.998	2	
+Gulak	Karim Lamido	Taraba	9.326	10.914	2	
+Gusuni	Karim Lamido	Taraba	9.182	11.120	2	
+Gumbidari	Aleiro	Kebbi	12.241	4.477	2	
+Gurelbei	Fufore	Adamawa	9.155	12.689	2	
+Gurel	Fufore	Adamawa	9.287	12.731	2	
+Aba Gureje	Ile Oluji/Okeigbo	Ondo	7.363	4.890	2	
+Gulwa	Ngala	Borno	12.239	14.206	2	
+Gugurugi	Lokoja	Kogi	8.487	6.231	2	
+Arugwadun Guna	Nasarawa Egon	Nasarawa	8.779	8.683	2	
+Gudugba	Oyun	Kwara	8.200	4.599	2	
+Gunje	Akwanga	Nasarawa	8.981	8.396	2	
+Gwuje	Akwanga	Nasarawa	8.957	8.369	2	Gunje
+Gunje	Akwanga	Nasarawa	8.954	8.406	2	
+Gunka	Kokona	Nasarawa	8.924	8.054	2	
+Gudindi	Kokona	Nasarawa	8.826	8.040	2	
+Ogunmola Gudugbu	Afijio	Oyo	7.771	3.993	2	
+Gunde Bata	Song	Adamawa	9.936	12.249	2	GundeBata
+Gudunyian	Song	Adamawa	9.813	12.398	2	
+Gundo	Shelleng	Adamawa	9.707	12.024	2	
+Gur	Song	Adamawa	9.667	12.334	2	
+Gwar Gundandaji	Song	Adamawa	9.824	12.446	2	GwarGundandaji
+Gulungu	Song	Adamawa	9.842	12.612	2	
+Sabongari Gudure	Fufore	Adamawa	9.694	12.727	2	SabongariGudure
+Gudugba	Ilorin South	Kwara	8.392	4.747	2	
+Gudun-Kariya	Toto	Nasarawa	8.497	7.348	2	
+Monu Gusi	Toto	Nasarawa	8.068	7.119	2	MonuGusi
+Gubuwa	Toto	Nasarawa	8.435	7.175	2	
+Gunufufu	Kuje	FCT Abuja	8.605	7.221	2	
+Gunagu	Kuje	FCT Abuja	8.683	7.274	2	
+Gudun Karia	Nasarawa	Nasarawa	8.696	7.615	2	GudunKaria
+Gudaba	Municipal Area Council	FCT Abuja	8.900	7.273	2	
+Gude	Municipal Area Council	FCT Abuja	8.864	7.425	2	
+Chabbal Gudali	Sardauna	Taraba	6.866	11.170	2	
+Gujari	Ngala	Borno	12.366	13.992	2	
+Guzan	Edati	Niger	9.000	5.533	2	
+Wuro Gurama	Jada	Adamawa	8.775	12.252	2	
+Guduma	Munya	Niger	9.679	7.020	2	
+Gunniyan	Moro	Kwara	8.733	4.385	2	
+Guava Close	Kaduna North	Kaduna	10.541	7.448	1	
+Gumel Road	Kaduna North	Kaduna	10.511	7.433	1	
+Guava Road	Kaduna North	Kaduna	10.572	7.464	1	
+Guava Close	Kaduna North	Kaduna	10.571	7.464	1	
+Gumel to Maigatari Road	Maigatari	Jigawa	12.716	9.401	1	
+Gudumbali - Gajiram Road	Guzamala	Borno	12.852	13.188	1	
+Guobadia Street	Oredo	Edo	6.299	5.620	1	
+Oni-Guobadia Street	Oredo	Edo	6.303	5.617	1	
+Major General Ibrahim Gumel Road	Sabon Gari	Kaduna	11.112	7.724	1	
+Guobadia Road	Oredo	Edo	6.269	5.620	1	
+Kano-Gumel Road	Nassarawa	Kano	12.011	8.593	1	
+Gurara Street	Municipal Area Council	FCT Abuja	9.063	7.482	1	
+Gurara Street	Municipal Area Council	FCT Abuja	9.096	7.497	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.521	6.565	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.535	6.563	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.577	6.572	1	
+Gumel to Hadejia Road	Kaugama	Jigawa	12.606	9.776	1	
+Yola - Gurin Federal Road	Fufore	Adamawa	9.180	12.722	1	
+Goniri - Gujba Road	Gujba	Yobe	11.496	12.318	1	
+Ibrahim Gumel Street	Enugu North	Enugu	6.447	7.494	1	
+Major Gen. Ibrahim D. Gumel Street	Enugu North	Enugu	6.449	7.494	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.407	6.610	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.569	6.591	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.396	6.619	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.436	6.608	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.732	6.564	1	
+Gudau - Sabon Birni Road	Bungudu	Zamfara	12.223	6.675	1	
+Gusau - Dansadau Road	Gusau	Zamfara	12.002	6.623	1	
+Yahaya Gusail Road	Wamako	Sokoto	13.018	5.235	1	
+Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.573	6.330	1	
+Gujba - Ngalda Road	Gulani	Yobe	11.098	11.554	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.489	6.574	1	
+Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.590	6.352	1	
+Goniri - Gujba Road	Gujba	Yobe	11.538	12.083	1	
+Goniri - Gujba Road	Gujba	Yobe	11.493	12.306	1	
+Gudumbali - Gajiram Road	Nganzai	Borno	12.606	13.207	1	
+Yola - Gurin Federal Road	Fufore	Adamawa	9.170	12.619	1	
+Yola - Gurin Federal Road	Fufore	Adamawa	9.208	12.640	1	
+Yola - Gurin Federal Road	Fufore	Adamawa	9.112	12.885	1	
+Gujba - Ngalda Road	Gujba	Yobe	11.433	11.857	1	
+Gudau - Sabon Birni Road	Sabon Birni	Sokoto	13.405	6.275	1	
+Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.117	6.452	1	
+Guidna Community	Municipal Area Council	FCT Abuja	9.130	7.313	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.829	6.522	1	
+Gudau - Sabon Birni Road	Shinkafi	Zamfara	12.979	6.497	1	
+Abubakar Gumi Road	Kaduna North	Kaduna	10.527	7.452	1	
+Gumel to Hadejia Road	Hadejia	Jigawa	12.457	10.041	1	
+Rayfield-Gura Topp Road	Jos South	Plateau	9.808	8.896	1	
+Kano-Gumel Road	Nassarawa	Kano	12.011	8.598	1	
+Kano-Gumel Road	Garki	Jigawa	12.353	9.158	1	
+Yahaya Gusail Road	Wamako	Sokoto	13.023	5.234	1	
+Gudau - Sabon Birni Road	Guidan Roumdji	Sokoto	13.615	6.417	1	
+Gumel to Maigatari Road	Gumel	Jigawa	12.623	9.385	1	
+Prof. Saidu M. Gusau Street	Ungongo	Kano	11.973	8.446	1	
+Sadia Guest Inn Road	Chanchaga	Niger	9.585	6.547	1	
+Sadia Guest Inn Road	Chanchaga	Niger	9.583	6.547	1	
+Gudau - Sabon Birni Road	Bungudu	Zamfara	12.349	6.638	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.337	6.639	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.636	6.594	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.612	6.591	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.680	6.580	1	
+Gudau - Sabon Birni Road	Kaura Namoda	Zamfara	12.654	6.590	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.770	6.551	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.907	6.474	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.869	6.508	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.836	6.525	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.799	6.524	1	
+Gudau - Sabon Birni Road	Zurmi	Zamfara	12.810	6.526	1	
+Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.070	6.505	1	
+Gudau - Sabon Birni Road	Shinkafi	Zamfara	13.106	6.470	1	
+Gujba - Ngalda Road	Fika	Yobe	11.100	11.424	1	
+Gujba - Ngalda Road	Fika	Yobe	11.101	11.413	1	
+Gujba - Ngalda Road	Gulani	Yobe	11.171	11.684	1	
+Gujba - Ngalda Road	Gujba	Yobe	11.299	11.733	1	
+Guinness Road	Ikpoba-Okha	Edo	6.219	5.630	1	
+2nd Guobadia Road	Ikpoba-Okha	Edo	6.214	5.614	1	
+Gubio Road Idp Camp Clinic	Kala-Balge	Borno	12.284	14.469	1	
+400 Housing Estate Gubio Road IDP Camp Clinic B	Maiduguri	Borno	11.906	13.085	1	
+Kano-Gumel Road	Gezawa	Kano	12.027	8.693	1	
+Guidna Community	Municipal Area Council	FCT Abuja	9.105	7.304	1	
+Kano-Gumel Road	Gezawa	Kano	12.099	8.759	1	
+Kano-Gumel Road	Gezawa	Kano	12.076	8.743	1	
+Gusau	Gusau	Zamfara	12.173	6.697	0	
+Gurawa Health Post	Karaye	Kano	11.768	7.888	0	
+Mazan Gudu Health Post	Gabasawa	Kano	12.195	8.907	0	
+Guruntun Dispensary	Alkaleri	Bauchi	10.261	10.300	0	Badaram Dutsi
+Gubio Maternity and Child Health	Gubio	Borno	12.492	12.784	0	
+Guwo Laanti Dispensary	Kaga	Borno	11.625	12.530	0	
+Guérison Divine	Badagry	Lagos	6.353	2.795	0	
+Guba Health Facility	Borsari	Yobe	12.807	11.419	0	
+Sheikh Gummi PHC	Wamako	Sokoto	13.019	5.227	0	
+Guburnde Dispensary	Bayo	Borno	10.336	11.773	0	
+Daula Hospital Gusau	Gusau	Zamfara	12.172	6.684	0	
+General Hospital Gummi	Gummi	Zamfara	12.141	5.123	0	
+Tashan Gurgu Health Post	Demsa	Adamawa	9.338	11.863	0	
+Tashan Gurugu Health Post	Demsa	Adamawa	9.338	11.862	0	
+gulak secreteriat	Madagali	Adamawa	10.800	13.448	0	
+GUO transport terminal Bus stop	Enugu North	Enugu	6.438	7.489	0	
+École Primaire Guidan Elh Sambo	Tessaoua	Katsina	13.287	8.145	0	
+Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
+Guo Logistics - Utako Station	Municipal Area Council	FCT Abuja	9.067	7.443	0	
+Kabusa Park - To Gudu Market	Municipal Area Council	FCT Abuja	8.956	7.444	0	
+Guo Transport - Utako	Municipal Area Council	FCT Abuja	9.067	7.443	0	
+Guidance and Counselling Unit	Sabon Gari	Kaduna	11.152	7.655	0	
+Gude Health Post	Kabo	Kano	11.954	8.067	0	
+Gurduba Health Post	Ajingi	Kano	12.022	9.002	0	
+Gumawa Health Post	Gabasawa	Kano	12.139	8.862	0	
+Gulbi Health Post	Bichi	Kano	12.182	8.289	0	
+Gudau Health Post	Dawakin Tofa	Kano	12.180	8.357	0	
+Babu Gudu Maternity	Itas/Gadau	Bauchi	11.954	10.005	0	
+Gursoli Maternity	Katagum	Bauchi	11.662	10.232	0	
+Guda Dispensary	Jama'Are	Bauchi	11.621	9.904	0	
+Gumau Dispensary	Toro	Bauchi	10.255	9.017	0	
+Guruntu Dispensary	Alkaleri	Bauchi	10.010	10.161	0	
+Matta Gujjari Health Clinic	Mafa	Borno	11.806	13.689	0	
+Gurigwa Health Clinic	Fufore	Adamawa	8.916	12.597	0	
+Gregory University Uturu	Isuikwuato	Abia	5.851	7.430	0	GUU
+Gursulu Dispensary	Yunusari	Yobe	13.040	12.052	0	
+Gulu Primary Health Centre	Rimin Gado	Kano	11.866	8.301	0	
+Gundutse Health Post	Kura	Kano	11.825	8.514	0	
+Gurjiya Primary Health Centre	Bunkure	Kano	11.750	8.556	0	
+Tudun Gunsau Health Post	Wudil	Kano	11.760	8.852	0	
+Gurungawa Health Post	Kumbotso	Kano	11.936	8.524	0	
+Gunda Health Post	Kibiya	Kano	11.506	8.713	0	
+Gudan Tuwo Health Post	Shanono	Kano	11.998	8.066	0	
+Gukka Dispensary	Toro	Bauchi	10.384	9.222	0	
+Gudun Primary Health Center	Bauchi	Bauchi	10.270	9.854	0	
+Bulmo Dispensary	Itas/Gadau	Bauchi	11.874	10.085	0	Gulmo
+Maraba Gumai Yamma	Zaki	Bauchi	11.955	10.245	0	
+Gurka Maternity	Auyo	Jigawa	12.357	10.237	0	
+Model Primary Health Center Gurbana	Damban	Bauchi	11.733	10.729	0	
+General Hospital Gubio	Gubio	Borno	12.499	12.777	0	
+Maternal and New Child Health Clinic, Kofar Guga	Muhammadu Dikko Stadium	Katsina	12.990	7.585	0	
+Yada Gungume Primary Health Center	Ningi	Bauchi	10.865	9.057	0	
+Model Primary Health Center Gumau	Toro	Bauchi	10.258	9.014	0	Wunu North Primary Health Center
+Gungu Dispensary	Bauchi	Bauchi	9.989	9.720	0	
+Gudumiya Hp	Hong	Adamawa	10.190	12.792	0	
+Guri kasuwa health post	Demsa	Adamawa	9.233	11.805	0	
+Gumshi Dispensary	Yusufari	Yobe	13.171	10.257	0	
+Gurin Pbf Health Facilities	Fufore	Adamawa	9.111	12.884	0	
+Wuro Yelde Health Post Gurin	Fufore	Adamawa	9.117	12.873	0	
+Gudusu Primary Health Care Center	Fufore	Adamawa	9.509	12.644	0	
+Gudugurka Dispensary	Fune	Yobe	12.315	11.229	0	
+Gurnati L C C N Dispensary Gurnati	Fufore	Adamawa	9.028	12.600	0	
+Gurumpah Health Clinic	Fufore	Adamawa	9.062	12.456	0	
+Gubana Maternal And Child Health Care	Fune	Yobe	11.563	11.325	0	
+Cottage Hospital Guyuk	Guyuk	Adamawa	9.918	11.942	0	
+Guyuk Health Facility	Guyuk	Adamawa	9.906	11.930	0	
+Gudi Dispensary	Nangere	Yobe	11.756	10.966	0	
+Gudin Health Post	Ganye	Adamawa	8.441	11.989	0	
+Gurum Pawo Health Center	Ganye	Adamawa	8.451	11.938	0	
+Gudu Market	Municipal Area Council	FCT Abuja	8.999	7.472	0	

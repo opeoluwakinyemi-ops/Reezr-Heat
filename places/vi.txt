@@ -1,16 +1,12 @@
+Victoria Island	Eti Osa	Lagos	6.430	3.426	3	
 Vitabura	Hawul	Borno	10.385	12.550	2	
 Leprosy Village	Michika	Adamawa	10.668	13.371	2	
-Victoria Island	Eti Osa	Lagos	6.430	3.426	3	
 Yokri Sobo	Burutu	Delta	5.421	5.290	2	Yoki Village
 Vinishima	Ushongo	Benue	7.069	8.861	2	Vihishima
 Vilegwa	Michika	Adamawa	10.640	13.354	2	
 Visik	Madagali	Adamawa	10.900	13.633	2	Wisik
 Viyang	Chibok	Borno	10.885	12.790	2	Balajan
 Oluwa Village	Lagelu	Oyo	7.429	3.985	2	
-Victory Group of School	Oredo	Edo	6.339	5.596	0	
-Victory Plaza	Enugu East	Enugu	6.479	7.503	0	
-Viva Healthfoo Shop & Dietetic Clinic	Enugu South	Enugu	6.418	7.495	0	
-Victory Clinic	Enugu North	Enugu	6.436	7.500	0	
 Mallumuri Village	Maiduguri	Borno	11.883	13.097	2	
 Vil	Bayo	Borno	10.229	11.697	2	
 Fulani Vidau	Hawul	Borno	10.415	12.506	2	
@@ -18,78 +14,17 @@ Vikila	Kwaya Kusar	Borno	10.471	12.014	2
 Virahyel	Kwaya Kusar	Borno	10.394	12.008	2	
 Gura Viu Kuthla	Biu	Borno	10.613	12.242	2	
 Viu Kuthla	Biu	Borno	10.619	12.246	2	
-Viyang	Chibok	Borno	10.879	12.765	2	
 Galadimawa Village	Municipal Area Council	FCT Abuja	8.995	7.424	2	
 village	Magumeri	Borno	12.382	12.511	2	
 village	Magumeri	Borno	12.368	12.519	2	
-Vibrant Child Nursery and primary School	Oyigbo	Rivers	4.888	7.130	0	
-Vic and CC Pet. Filling Station	Okpe	Delta	5.600	5.697	0	
 Victoria Garden City	Eti Osa	Lagos	6.464	3.546	2	
-Viandra Eyes Clinic	Yenegoa	Bayelsa	4.954	6.349	0	
-Vicah Clinic	Warri South	Delta	5.529	5.752	0	
-Divine Victory School	Warri South	Delta	5.533	5.756	0	
-First view Schools	Udu	Delta	5.508	5.832	0	West view Schools
-Iyamoyyong village market	Obubra	Cross River	5.974	8.357	0	
 Batti Village	Gwadabawa	Sokoto	13.462	5.397	2	
-Okeodo Village Market	Akure North	Ondo	7.261	5.385	0	
-Ago Panu Village Market	Ọ̀wọ̀	Ondo	7.279	5.626	0	
-Jos Motors Village Market	Ọ̀wọ̀	Ondo	7.168	5.625	0	
-Alao Village Market	Ọ̀wọ̀	Ondo	7.152	5.697	0	
-Amurin Village Market	Ọ̀wọ̀	Ondo	7.125	5.579	0	
-Elegbeka Village Market	Ose	Ondo	7.011	5.715	0	
-Victory College	Akoko North East	Ondo	7.535	5.768	0	
-Victory Land College	Ojo	Lagos	6.460	3.167	0	
-Vinna Pet	Kaduna South	Kaduna	10.467	7.432	0	
 Yan Salmo Village	Dawakin Tofa	Kano	12.139	8.500	2	
 Yakasai Village	Dawakin Tofa	Kano	12.155	8.486	2	
 nana village	Girei	Adamawa	9.378	12.560	2	
-vizik heath clinic	Biu	Borno	10.850	11.685	0	
-ECWA Virtue Academy	Municipal Area Council	FCT Abuja	8.992	7.423	0	
 Mechanic Village	Isoko South	Delta	5.482	6.199	2	
-Victoria's vestige memorial hospital	Jos North	Plateau	9.899	8.882	0	
-Vintage Hubb	Municipal Area Council	FCT Abuja	9.079	7.479	0	
-Vision Ideal	Ushongo	Benue	7.157	9.290	0	
-VICTORY PRIVATE PRIMARY SCHOOL	Jos North	Plateau	9.963	8.865	0	
-VICTORY HIGH SCHOOL	Jos North	Plateau	9.963	8.866	0	
-Osiakpo Village	Takum	Benue	7.248	9.829	2	
-Geology Visiting lecturers Office	Gombe	Gombe	10.305	11.175	0	
-Victory Specialist Hopital	Kaduna North	Kaduna	10.582	7.453	0	
-Hope For The Village Clinic	Chikun	Kaduna	10.443	7.556	0	
-Vineyard Convalescent Hospital	Ojo	Lagos	6.459	3.140	0	
-Victory Success Maternity Home	Alimosho	Lagos	6.586	3.246	0	
-The Vine Medical Center	Alimosho	Lagos	6.583	3.246	0	
-Victory Life Medical Diagnostic	Alimosho	Lagos	6.516	3.255	0	
-Vintage Hospital	Alimosho	Lagos	6.552	3.227	0	
-Odonton Ville Dental Clinic	Mushin	Lagos	6.557	3.364	0	
-John Vic Clinic	Mushin	Lagos	6.532	3.346	0	
-Villa Park	Akure South	Ondo	7.291	5.151	0	
-VIP Lodge	Akure South	Ondo	7.291	5.151	0	
-Sunlight Villa	Akure South	Ondo	7.285	5.150	0	
-Victor Island	Akure South	Ondo	7.285	5.152	0	
-Able God Villa	Akure South	Ondo	7.287	5.152	0	
-Olayemi Villa	Akure South	Ondo	7.287	5.153	0	
-Amazing Grace Villa	Akure South	Ondo	7.290	5.148	0	
-Giant Villa	Akure South	Ondo	7.290	5.149	0	
-Tomorrow Villa	Akure South	Ondo	7.289	5.148	0	
-Gate SGV Villa	Akure South	Ondo	7.290	5.149	0	
-Vico Hope International College	Iwo	Osun	7.651	4.174	0	
-Grace View Medical Center	Amuwo Odofin	Lagos	6.447	3.277	0	
-Law School (VI)	Eti Osa	Lagos	6.440	3.425	0	
-Bonny Camp (VI)	Eti Osa	Lagos	6.436	3.405	0	
-Solid Rock view Private School	Jos North	Plateau	9.929	8.909	0	
-Computer Village, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.555	0	
+Osiakpo Village	Takum	Taraba	7.248	9.829	2	
 Vitality Bay	Nkanu East	Enugu	6.420	7.636	2	
-fiki marine (victoria island)	Eti Osa	Lagos	6.439	3.425	0	
-bonny camp (victoria island)	Eti Osa	Lagos	6.436	3.405	0	
-law school (victoria island)	Eti Osa	Lagos	6.440	3.425	0	
-Fiki Marine (VI)	Eti Osa	Lagos	6.439	3.425	0	
-ogogoro village	Amuwo Odofin	Lagos	6.426	3.398	0	
-Five Cowries/Falomo (VI)	Eti Osa	Lagos	6.442	3.427	0	
-Santa Virgo Int'l Academy	Municipal Area Council	FCT Abuja	9.050	7.586	0	
-Villa Junction	Municipal Area Council	FCT Abuja	9.057	7.524	0	
-Gsm Village Bus Stop	Municipal Area Council	FCT Abuja	9.055	7.468	0	
-Villa Bridge Bus Stop	Municipal Area Council	FCT Abuja	9.054	7.512	0	
-Zinq Bridge Aparments - Family Apartment, Balcony, City View	Municipal Area Council	FCT Abuja	9.099	7.423	0	
 Ihulu Village	Aguata	Anambra	6.050	7.034	2	
 Uffa Village	Aguata	Anambra	6.053	7.038	2	
 Ifite Village	Anaocha	Anambra	6.061	7.034	2	
@@ -97,11 +32,64 @@ Nduana Village	Anaocha	Anambra	6.065	7.034	2
 Etuleze Village	Aguata	Anambra	6.047	7.025	2	
 Iruowelle Village	Aguata	Anambra	6.041	7.024	2	
 village2	Dawakin Kudu	Kano	11.833	8.598	2	
+Itedo Village	Ogun Waterside	Ogun	6.423	4.537	2	
+Puba Vidau	Hawul	Borno	10.398	12.418	2	
+Wuro Achaba Villages	Madagali	Adamawa	10.896	13.562	2	
+Vio	Hawul	Borno	10.583	12.085	2	
+Vingir	Guma	Benue	7.912	8.687	2	
+Vindir	Donga	Taraba	7.765	10.190	2	
+Vindelam	Mayo-Belwa	Adamawa	9.088	12.057	2	
+Vinde Daluwa Sama	Gombi	Adamawa	10.052	12.572	2	
+Vina	Hawul	Borno	10.628	12.053	2	Vuna
+Vimpera	Takum	Taraba	7.252	10.078	2	
+Vimiwagh	Kwande	Benue	6.752	9.597	2	
+Vikityor	Gboko	Benue	7.272	8.640	2	
+Viashoma	Ushongo	Benue	7.103	8.988	2	
+Via	Obi	Nasarawa	8.395	8.840	2	
+Jaaji Villages	Gwoza	Borno	10.969	13.586	2	
+Ijora Village	Apapa	Lagos	6.467	3.367	2	New Ijora Settlement
+Bolakel Villages	Chibok	Borno	10.940	12.886	2	
+Anagunji Villages	Ipokia	Ogun	6.491	2.841	2	Anagoji|Anagunji
+Amon Kasa	Lere	Kaduna	10.226	8.647	2	Amon Kasa Bisa|Amon Kasa Villages
+Calabar Municipal	Calabar Municipal	Cross River	4.991	8.303	2	Calabar Municipal Local Government Area|Calabar Ville|Calabar-Municipal|Kalabar Municipal
+Vi	Michika	Adamawa	10.530	13.383	2	
+Puba Vidau	Hawul	Borno	10.387	12.389	2	
+Viashima	Markurdi	Benue	7.738	8.467	2	
+Viasehima	Ukum	Benue	7.575	9.438	2	
+Vievie	Wukari	Taraba	7.761	9.742	2	
+Viashima	Wukari	Taraba	7.712	9.731	2	
+Vishigh	Ukum	Benue	7.567	9.531	2	
+Viashima	Ukum	Benue	7.515	9.601	2	
+Vinishima	Katsina-Ala	Benue	7.284	9.438	2	Vihishima
+Vishir	Ushongo	Benue	7.064	9.065	2	
+Vii	Ushongo	Benue	7.042	9.080	2	
+Vishir	Buruku	Benue	7.133	9.106	2	
+Vihi	Ushongo	Benue	7.109	9.253	2	
+Vihitamen	Katsina-Ala	Benue	7.129	9.389	2	
+Vihikwagh	Gboko	Benue	7.461	8.846	2	
+Vishigh	Gboko	Benue	7.488	8.941	2	
+Iche Vishir	Gboko	Benue	7.395	8.799	2	
+Vishir	Gboko	Benue	7.320	8.806	2	
+Vihishima	Gboko	Benue	7.266	8.798	2	
+Gidan Vimo	Shiroro	Niger	9.784	6.832	2	
+Victoria Island Annex	Eti Osa	Lagos	6.430	3.444	2	
+Apese Victoria Island Extension	Eti Osa	Lagos	6.427	3.444	2	
+Vilikilang	Girei	Adamawa	9.302	12.481	2	
+Vinde Dajidere	Fufore	Adamawa	9.174	12.224	2	
+Vinde Mini	Fufore	Adamawa	9.147	12.196	2	
+Vinde Mimi	Fufore	Adamawa	9.137	12.178	2	
+Wuro Vida	Lau	Taraba	9.174	11.598	2	
+Vire	Mayo-Belwa	Adamawa	9.052	11.818	2	
+Vinde	Fufore	Adamawa	9.179	12.624	2	
+Viengo	Fufore	Adamawa	9.390	12.724	2	
+Bacity Village	Edu	Kwara	9.042	4.967	2	BacityVillage
+Ndafu Village	Mokwa	Niger	9.181	4.845	2	NdafuVillage
+Vinde Gagta	Song	Adamawa	9.962	12.463	2	VindeGagta
+Mbilla Villages	Song	Adamawa	9.736	12.947	2	MbillaVillages
 Anthony Village Road	Kosofe	Lagos	6.559	3.369	1	
 Ugbor Village Road	Oredo	Edo	6.282	5.609	1	
 Victor Avenue	Oredo	Edo	6.348	5.600	1	
 Ugbor-Amagba Village Road	Oredo	Edo	6.238	5.604	1	
-Shopping Mall (Phone village)	Oredo	Edo	6.336	5.621	0	
 John-Vic Igboanugo Street	Eti Osa	Lagos	6.439	3.461	1	
 Victor Olaiya Street	Agege	Lagos	6.624	3.300	1	
 Victoria Arobieke Street	Eti Osa	Lagos	6.444	3.472	1	
@@ -147,7 +135,6 @@ Mrs Victoria Onovo Crescent	Enugu South	Enugu	6.404	7.481	1
 Villa Maria Close	Enugu East	Enugu	6.470	7.591	1	
 Canal View Drive	Amuwo Odofin	Lagos	6.495	3.291	1	
 Chief Vitus Uzoh Street	Oshodi/Isolo	Lagos	6.502	3.320	1	
-Vice Chancellor's Mosque	Ungongo	Kano	11.973	8.427	0	
 Ologolo Village Road	Eti Osa	Lagos	6.434	3.515	1	
 Victor Iyoha Close	Eti Osa	Lagos	6.494	3.598	1	
 Victor Nwanaford Crescent	Eti Osa	Lagos	6.457	3.566	1	
@@ -157,18 +144,13 @@ Green Villa Road	Yenegoa	Bayelsa	4.939	6.332	1
 Victor Adegbade Drive Way	Ife Central	Osun	7.496	4.542	1	
 Chemin du Village	Mariga	Niger	10.872	5.907	1	
 Victory Street	Udu	Delta	5.505	5.791	1	
-Victor Attah International  Airport	Uruan	Akwa Ibom	4.908	8.087	0	
 Victor Oluwole Street	Alimosho	Lagos	6.570	3.298	1	
 Victor Fagbemi Road	Alimosho	Lagos	6.627	3.284	1	
 Vincent Street	Shomolu	Lagos	6.527	3.377	1	
 Aswani Mechanic Village	Oshodi/Isolo	Lagos	6.541	3.329	1	
 Victoria Akinleye Close	Oshodi/Isolo	Lagos	6.541	3.319	1	
 Lady Virginia Ayolugbe Street	Onitsha North	Anambra	6.180	6.785	1	
-Essence International School African Heritage Village	Kaduna North	Kaduna	10.536	7.455	0	
 Ayeni Village Road	Oshodi/Isolo	Lagos	6.567	3.336	1	
-King's College "Annex" Victoria Island Campus	Eti Osa	Lagos	6.436	3.427	0	
-Government Junior College Victoria Island	Eti Osa	Lagos	6.433	3.414	0	
-Corona School Victoria Island	Eti Osa	Lagos	6.434	3.413	0	
 Vision Street	Uvwie	Delta	5.555	5.773	1	
 Victorious Rd, Isekolowo Area, Oyo, Nigeria.	Oyo West	Oyo	7.878	3.928	1	
 Creek View Road (New World city)	Warri South	Delta	5.528	5.711	1	
@@ -183,32 +165,96 @@ Nwosu Compound Umuamara village Obuda Aba	Aba South	Abia	5.093	7.350	1
 Ojokoro Village Road	Ìkòròdú	Lagos	6.639	3.488	1	
 Violet Yough Close	Eti Osa	Lagos	6.430	3.430	1	
 Adedoyin Rhodes-Vivour Close	Municipal Area Council	FCT Abuja	9.051	7.524	1	
-Prime View Avenue	Ifo	Ogun	6.666	3.415	1	
-Victoria Island Nursery & Primary School	Eti Osa	Lagos	6.436	3.438	0	
 Lords Vineyard School Avenue	Enugu East	Enugu	6.466	7.550	1	
 Viena Street	Warri South	Delta	5.538	5.754	1	
-Victoria Arobieke Street	Eti Osa	Lagos	6.448	3.472	1	
-Vitality Oil & Gas	Alimosho	Lagos	6.567	3.252	0	
-Cooperative Villa Road	Eti Osa	Lagos	6.503	3.613	1	
-Green Villiage Clinic	Numan	Adamawa	9.453	12.037	0	
-Kabilo Vichel Health Post Kabilo Vichel	Fufore	Adamawa	9.031	12.216	0	
-Nursing Village	Jere	Borno	11.830	13.083	0	
 Islamic Village Road	Asa	Kwara	8.467	4.470	1	
-Islamic Village Road	Asa	Kwara	8.461	4.460	1	
 Victor Williams Close	Obio/Akpor	Rivers	4.820	7.075	1	
 Vivian Olunwa Circle	Port-Harcourt	Rivers	4.792	7.030	1	
 Victory Hall Road	Ikeja	Lagos	6.585	3.360	1	
 Victor Amosu Street	Eti Osa	Lagos	6.440	3.566	1	
 Victory Way	Municipal Area Council	FCT Abuja	8.978	7.339	1	
+Green Villa Street	Obafemi Owode	Ogun	7.111	3.323	1	
+Victoria Street	Lagos Mainland	Lagos	6.505	3.392	1	
+Victory Group of School	Oredo	Edo	6.339	5.596	0	
+Victory Plaza	Enugu East	Enugu	6.479	7.503	0	
+Viva Healthfoo Shop & Dietetic Clinic	Enugu South	Enugu	6.418	7.495	0	
+Victory Clinic	Enugu North	Enugu	6.436	7.500	0	
+Vibrant Child Nursery and primary School	Oyigbo	Rivers	4.888	7.130	0	
+Vic and CC Pet. Filling Station	Okpe	Delta	5.600	5.697	0	
+Viandra Eyes Clinic	Yenegoa	Bayelsa	4.954	6.349	0	
+Vicah Clinic	Warri South	Delta	5.529	5.752	0	
+Divine Victory School	Warri South	Delta	5.533	5.756	0	
+First view Schools	Udu	Delta	5.508	5.832	0	West view Schools
+Iyamoyyong village market	Obubra	Cross River	5.974	8.357	0	
+Okeodo Village Market	Akure North	Ondo	7.261	5.385	0	
+Ago Panu Village Market	Ọ̀wọ̀	Ondo	7.279	5.626	0	
+Jos Motors Village Market	Ọ̀wọ̀	Ondo	7.168	5.625	0	
+Alao Village Market	Ọ̀wọ̀	Ondo	7.152	5.697	0	
+Amurin Village Market	Ọ̀wọ̀	Ondo	7.125	5.579	0	
+Elegbeka Village Market	Ose	Ondo	7.011	5.715	0	
+Victory College	Akoko North East	Ondo	7.535	5.768	0	
+Victory Land College	Ojo	Lagos	6.460	3.167	0	
+Vinna Pet	Kaduna South	Kaduna	10.467	7.432	0	
+vizik heath clinic	Biu	Borno	10.850	11.685	0	
+ECWA Virtue Academy	Municipal Area Council	FCT Abuja	8.992	7.423	0	
+Victoria's vestige memorial hospital	Jos North	Plateau	9.899	8.882	0	
+Vintage Hubb	Municipal Area Council	FCT Abuja	9.079	7.479	0	
+Vision Ideal	Ushongo	Benue	7.157	9.290	0	
+Victory Private Primary School	Jos North	Plateau	9.963	8.865	0	
+Victory High School	Jos North	Plateau	9.963	8.866	0	
+Geology Visiting lecturers Office	Gombe	Gombe	10.305	11.175	0	
+Victory Specialist Hopital	Kaduna North	Kaduna	10.582	7.453	0	
+Hope For The Village Clinic	Chikun	Kaduna	10.443	7.556	0	
+Vineyard Convalescent Hospital	Ojo	Lagos	6.459	3.140	0	
+Victory Success Maternity Home	Alimosho	Lagos	6.586	3.246	0	
+The Vine Medical Center	Alimosho	Lagos	6.583	3.246	0	
+Victory Life Medical Diagnostic	Alimosho	Lagos	6.516	3.255	0	
+Vintage Hospital	Alimosho	Lagos	6.552	3.227	0	
+Odonton Ville Dental Clinic	Mushin	Lagos	6.557	3.364	0	
+John Vic Clinic	Mushin	Lagos	6.532	3.346	0	
+Villa Park	Akure South	Ondo	7.291	5.151	0	
+VIP Lodge	Akure South	Ondo	7.291	5.151	0	
+Sunlight Villa	Akure South	Ondo	7.285	5.150	0	
+Victor Island	Akure South	Ondo	7.285	5.152	0	
+Able God Villa	Akure South	Ondo	7.287	5.152	0	
+Olayemi Villa	Akure South	Ondo	7.287	5.153	0	
+Amazing Grace Villa	Akure South	Ondo	7.290	5.148	0	
+Giant Villa	Akure South	Ondo	7.290	5.149	0	
+Tomorrow Villa	Akure South	Ondo	7.289	5.148	0	
+Gate SGV Villa	Akure South	Ondo	7.290	5.149	0	
+Vico Hope International College	Iwo	Osun	7.651	4.174	0	
+Grace View Medical Center	Amuwo Odofin	Lagos	6.447	3.277	0	
+Law School (VI)	Eti Osa	Lagos	6.440	3.425	0	
+Bonny Camp (VI)	Eti Osa	Lagos	6.436	3.405	0	
+Solid Rock view Private School	Jos North	Plateau	9.929	8.909	0	
+Computer Village, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.555	0	
+fiki marine (victoria island)	Eti Osa	Lagos	6.439	3.425	0	
+bonny camp (victoria island)	Eti Osa	Lagos	6.436	3.405	0	
+law school (victoria island)	Eti Osa	Lagos	6.440	3.425	0	
+Fiki Marine (VI)	Eti Osa	Lagos	6.439	3.425	0	
+ogogoro village	Amuwo Odofin	Lagos	6.426	3.398	0	
+Five Cowries/Falomo (VI)	Eti Osa	Lagos	6.442	3.427	0	
+Santa Virgo Int'l Academy	Municipal Area Council	FCT Abuja	9.050	7.586	0	
+Villa Junction	Municipal Area Council	FCT Abuja	9.057	7.524	0	
+Gsm Village Bus Stop	Municipal Area Council	FCT Abuja	9.055	7.468	0	
+Villa Bridge Bus Stop	Municipal Area Council	FCT Abuja	9.054	7.512	0	
+Zinq Bridge Aparments - Family Apartment, Balcony, City View	Municipal Area Council	FCT Abuja	9.099	7.423	0	
+Shopping Mall (Phone village)	Oredo	Edo	6.336	5.621	0	
+Vice Chancellor's Mosque	Ungongo	Kano	11.973	8.427	0	
+Victor Attah International  Airport	Uruan	Akwa Ibom	4.908	8.087	0	
+Essence International School African Heritage Village	Kaduna North	Kaduna	10.536	7.455	0	
+King's College "Annex" Victoria Island Campus	Eti Osa	Lagos	6.436	3.427	0	
+Government Junior College Victoria Island	Eti Osa	Lagos	6.433	3.414	0	
+Corona School Victoria Island	Eti Osa	Lagos	6.434	3.413	0	
+Victoria Island Nursery & Primary School	Eti Osa	Lagos	6.436	3.438	0	
+Vitality Oil & Gas	Alimosho	Lagos	6.567	3.252	0	
+Green Villiage Clinic	Numan	Adamawa	9.453	12.037	0	
+Kabilo Vichel Health Post Kabilo Vichel	Fufore	Adamawa	9.031	12.216	0	
+Nursing Village	Jere	Borno	11.830	13.083	0	
 Victory Academy	Municipal Area Council	FCT Abuja	8.950	7.443	0	
 virgman Nigerian lmtd	Jos North	Plateau	9.869	8.854	0	
 Park View family Hospital	Jos North	Plateau	9.870	8.857	0	
-Itedo Village	Ogun Waterside	Ogun	6.423	4.537	2	
-Green Villa Street	Obafemi Owode	Ogun	7.111	3.323	1	
-Ugbor Village Road	Oredo	Edo	6.259	5.605	1	
-Victoria Street	Lagos Mainland	Lagos	6.505	3.392	1	
 Bulumkutu GSM Village	Maiduguri	Borno	11.834	13.100	0	
 Nigeria Arabic Language Village Ngala	Maiduguri	Borno	11.820	13.162	0	
 GSM Village	Municipal Area Council	FCT Abuja	9.054	7.471	0	
 St. Vincent Ferrer College, Malumfashi	Malumfashi	Katsina	11.760	7.612	0	
-Puba Vidau	Hawul	Borno	10.398	12.418	2	

@@ -1,3 +1,4 @@
+Zonkwa	Zangon Kataf	Kaduna	9.785	8.291	3	Zankuwa|Zenkuwa
 Zenkuwa	Zangon Kataf	Kaduna	9.787	8.289	2	Zonkwa
 Zerarva	Michika	Adamawa	10.657	13.502	2	
 Zendi	Jos East	Plateau	9.850	9.250	2	
@@ -8,20 +9,81 @@ Zezi	Yabo	Sokoto	12.750	5.068	2
 Ikawga-Zebe	Ado Odo/Ota	Ogun	6.517	2.950	2	
 Zebir	Jos East	Plateau	9.817	9.183	2	Zebir (2)
 Zangebe	Mafa	Borno	12.080	13.673	2	Zengebe
-Zenkuwa	Zangon Kataf	Kaduna	9.784	8.284	0	
-Zenith PHC	Lagos Island	Lagos	6.465	3.390	0	
 Zenge	Gada	Sokoto	13.826	5.529	2	
-Zephaniah Maternity Center	Alimosho	Lagos	6.529	3.271	0	
-Zephaniah Maternity Center	Mushin	Lagos	6.512	3.334	0	
-Saint Zeno Hospital	Iwo	Osun	7.639	4.170	0	
-ABBA ZEE REFILLING GAS	Ungongo	Kano	12.050	8.579	0	
 Zeddi	Jakusko	Yobe	12.170	10.986	2	
-Zenith-ICT	Ede South	Osun	7.681	4.456	0	
+Zerami	Shira	Bauchi	11.577	10.031	2	
+Zenyaku	Gwer East	Benue	7.579	8.554	2	
+Zente	Rijau	Niger	11.017	5.133	2	
+Zengem	Konshisha	Benue	7.130	8.587	2	
+Zenda-Hyo-Igbana	Konshisha	Benue	7.104	8.537	2	
+Zenabi	Doguwa	Kano	10.790	8.771	2	
+Zembel	Konshisha	Benue	7.024	8.802	2	
+Zelemo	Gboko	Benue	7.473	8.708	2	
+Zel	Kwande	Benue	6.755	9.549	2	
+Zeken	Larmurde	Adamawa	9.513	11.898	2	
+Zekemo	Konshisha	Benue	7.153	8.686	2	
+Zei	Yunusari	Yobe	12.975	11.863	2	
+Zei	Fika	Yobe	11.408	11.067	2	
+Zehi	Ningi	Bauchi	10.977	8.910	2	
+Sagi	Augie	Kebbi	13.069	4.693	2	Zeggi|Zegi
+Zeggi	Jahun	Jigawa	12.022	9.541	2	
+Zegekaa	Ushongo	Benue	7.189	8.964	2	
+Zege	Konshisha	Benue	7.193	8.530	2	
+Zedawa	Garki	Jigawa	12.296	8.731	2	
+Zebu	Wukari	Taraba	7.947	9.307	2	
+Zebir	Jos East	Plateau	9.827	9.141	2	Zebir (1)
+Jekana	Kaiama	Kwara	9.535	3.950	2	Zekana
+Ikoga Zebbe	Ado Odo/Ota	Ogun	6.509	2.953	2	Ikawga|Ikawga-Zebe|Ikoga
+Zegemzeba	Gboko	Benue	7.474	8.788	2	
+Zeku	Gwer West	Benue	7.734	8.136	2	
+Zenke	Agatu	Benue	7.750	8.072	2	
+Ungwan Zegezagi	Sabuwa	Katsina	11.237	7.131	2	
+Zeku	Askira-Uba	Borno	10.690	13.160	2	
+Zery	Gwer East	Benue	7.264	8.406	2	
+Zegeyo	Doma	Nasarawa	7.963	8.271	2	
+Zezo	Markurdi	Benue	7.725	8.426	2	
+Zenke	Ukum	Benue	7.787	9.376	2	
+Zekere	Ukum	Benue	7.730	9.464	2	Zekera
+Zende	Katsina-Ala	Benue	7.540	9.458	2	
+Zegeate	Wukari	Taraba	7.732	9.727	2	
+Zegejil	Ukum	Benue	7.539	9.520	2	
+Achin Zegi	Ukum	Benue	7.536	9.747	2	
+Zeve	Donga	Taraba	7.668	9.859	2	
+Zever	Buruku	Benue	7.465	9.109	2	
+Zege	Logo	Benue	7.463	9.348	2	
+Zegeor	Katsina-Ala	Benue	7.441	9.319	2	
+Zever	Katsina-Ala	Benue	7.391	9.318	2	
+Zege	Katsina-Ala	Benue	7.362	9.334	2	
+Zever	Katsina-Ala	Benue	7.288	9.303	2	
+Zege	Buruku	Benue	7.223	9.130	2	
+Zever	Buruku	Benue	7.219	9.233	2	
+Zegeor	Ushongo	Benue	7.045	9.212	2	
+Zegeor	Katsina-Ala	Benue	7.240	9.352	2	
+Zege	Ushongo	Benue	7.135	9.304	2	
+Zem	Katsina-Ala	Benue	7.237	9.429	2	
+Zemgem	Katsina-Ala	Benue	7.215	9.364	2	
+Zermo	Katsina-Ala	Benue	7.212	9.382	2	
+Zensha	Gboko	Benue	7.406	8.930	2	
+Zege	Gboko	Benue	7.287	8.913	2	
+Zege	Gboko	Benue	7.274	8.849	2	
+Zevel	Gboko	Benue	7.292	8.774	2	
+Zeru	Wushishi	Niger	9.568	6.085	2	
+Gidan Zeggi	Shiroro	Niger	9.782	6.823	2	
+Gidan Zeggi	Shiroro	Niger	9.634	6.845	2	
+Umaru Zedi	Ardo-Kola	Taraba	8.823	11.141	2	
+Zegegh	Qua'An Pan	Plateau	8.587	8.999	2	
+Zege	Kuje	FCT Abuja	8.617	7.103	2	
 Zenith Bank Drive	Shomolu	Lagos	6.520	3.398	1	
 Dr Zed Chukwujama Street	Enugu South	Enugu	6.417	7.528	1	
 Zebra Close	Enugu North	Enugu	6.466	7.508	1	
 Zeenac Crescent	Enugu South	Enugu	6.402	7.505	1	
 Zebra Lane	Eti Osa	Lagos	6.464	3.646	1	
-zekkun health post	Larmurde	Adamawa	9.517	11.896	0	
 Baver Zeremo Street	Markurdi	Benue	7.719	8.580	1	
 Zenith Bank Road	Ovia North-East	Edo	6.740	5.405	1	
+Zenith PHC	Lagos Island	Lagos	6.465	3.390	0	
+Zephaniah Maternity Center	Alimosho	Lagos	6.529	3.271	0	
+Zephaniah Maternity Center	Mushin	Lagos	6.512	3.334	0	
+Saint Zeno Hospital	Iwo	Osun	7.639	4.170	0	
+Abba Zee Refilling Gas	Ungongo	Kano	12.050	8.579	0	
+Zenith-ICT	Ede South	Osun	7.681	4.456	0	
+zekkun health post	Larmurde	Adamawa	9.517	11.896	0	

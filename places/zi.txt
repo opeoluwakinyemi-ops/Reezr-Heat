@@ -1,3 +1,5 @@
+Zinna	Zing	Taraba	8.992	11.748	3	
+Zing	Zing	Taraba	8.991	11.748	3	Zinna
 Zirgi Ngelewa	Geidam	Yobe	12.563	12.404	2	
 Ziyiko	Agaie	Niger	8.933	6.300	2	
 Zigau	Shira	Bauchi	11.426	9.958	2	
@@ -10,22 +12,87 @@ Ezeotu-Zion	Southern Ijaw	Bayelsa	4.720	5.578	2
 Azagbene-Zion	Ekeremor	Bayelsa	4.868	5.796	2	
 Zulum	Nganzai	Borno	12.431	13.354	2	Zilumo
 Daba-Bilolu Zion	Ilaje	Ondo	6.053	4.990	2	Daba Bilobu Zion
-Zinna	Zing	Adamawa	8.992	11.748	3	
 Zira Bulama Jagwa	Biu	Borno	10.820	12.173	2	Zura Birmari
-Zira Oil Co LTD	Jos North	Plateau	9.954	8.892	0	
-Zion Faith Group Of Schools	Oredo	Edo	6.328	5.630	0	
 Matta Zineri	Magumeri	Borno	12.082	12.922	2	
 Zigaiyima	Bayo	Borno	10.598	11.664	2	
 Tsahuyam Zimta A	Biu	Borno	10.648	12.091	2	
 Tsahuyam Zimta B	Biu	Borno	10.650	12.096	2	
 Zimta 2A	Biu	Borno	10.650	12.109	2	
 Zira Ma'aji	Biu	Borno	10.812	12.204	2	
-Mount Zion Faith Clinic	Uvwie	Delta	5.536	5.761	0	
-Zicla Intl. School	Uvwie	Delta	5.543	5.765	0	
 Ebikiri Zion	Southern Ijaw	Bayelsa	4.724	5.946	2	
 Tsamiyar Ziri	Minjibir	Kano	12.234	8.511	2	
 Ziyara	Sumaila	Kano	11.354	8.938	2	
 Zina 2	Tudun Wada	Kano	11.323	8.777	2	
+Zinyau	Rano	Kano	11.512	8.554	2	
+Zing	Zing	Taraba	8.859	11.765	2	
+Zindiwa	Gamawa	Bauchi	11.859	10.775	2	
+Zirami	Giade	Bauchi	11.569	10.318	2	
+Zip	Karim Lamido	Taraba	8.744	10.648	2	
+Zinna Dedi	Mayo-Belwa	Adamawa	8.952	11.964	2	
+Zinkur	Nafada	Gombe	11.084	11.309	2	
+Zindiwa	Gamawa	Bauchi	11.883	10.810	2	
+Zindiri	Giade	Bauchi	11.421	10.237	2	
+Zindi	Misau	Bauchi	11.283	10.550	2	
+Zinda	Mobbar	Borno	12.932	12.723	2	
+Zion	Ilaje	Ondo	6.399	4.867	2	
+Zilum	Nganzai	Borno	12.431	13.354	2	Zilumo
+Kinemuba	Ngala	Borno	12.285	14.117	2	Zilad
+Zigiri	Kebbe	Sokoto	12.154	4.826	2	Jigiri
+Zigindimi	Yusufari	Yobe	13.120	10.541	2	
+Ziem	Toro	Bauchi	10.147	9.282	2	
+Zidna	Munya	Niger	9.567	6.978	2	
+Zideyeregbene	Ekeremor	Bayelsa	5.063	5.764	2	
+Ziawa	Darazo	Bauchi	11.278	11.009	2	Fakali
+Oroyo-Zion	Ilaje	Ondo	6.234	4.648	2	
+Opuba-Zion	Ilaje	Ondo	6.064	4.908	2	
+Jauro Zinki	Bali	Taraba	8.279	11.039	2	
+Ilaleri-Zion	Ese Odo	Ondo	6.265	4.963	2	
+Dauya Ziriyaku	Hong	Adamawa	10.106	12.881	2	
+Bori Zinha	Zing	Taraba	8.919	11.723	2	
+Ziona	Municipal Area Council	FCT Abuja	8.909	7.510	2	
+Zida Dingli	Madagali	Adamawa	10.886	13.709	2	
+Zigaziga	Hong	Adamawa	10.260	13.057	2	
+Zinda	Bama	Borno	11.752	14.224	2	
+Zimeta	Hawul	Borno	10.442	12.376	2	
+Zijar	Gboko	Benue	7.300	8.905	2	
+Zion	Ogun Waterside	Ogun	6.534	4.398	2	
+Zion	Ilaje	Ondo	6.388	4.726	2	
+Mount Zion	Ilaje	Ondo	6.399	4.687	2	
+Zinari	Kankara	Katsina	11.844	7.429	2	
+Keremo-Zion	Burutu	Delta	5.405	5.472	2	
+Ziakedegbene	Ekeremor	Bayelsa	4.982	5.611	2	
+Zigbene	Ekeremor	Bayelsa	4.806	5.587	2	
+Ziga	Garko	Kano	11.417	8.792	2	
+Zing	Zing	Taraba	8.883	11.745	2	Zing Local Government Area
+Zindi	Nafada	Gombe	11.163	11.056	2	
+Zindiwa	Gamawa	Bauchi	11.861	10.805	2	
+Zirami	Giade	Bauchi	11.565	10.338	2	
+Gidan Zikasi	Munya	Niger	9.734	6.932	2	
+Shugaba Zinnawa	Ardo-Kola	Taraba	8.854	11.118	2	Shugaba Zinnawo
+Ali Zinna	Ardo-Kola	Taraba	8.847	11.137	2	
+Ungwan Ziti	Zangon Kataf	Kaduna	9.704	8.271	2	Maudachi
+Zion	Warri North	Delta	5.771	5.069	2	
+Zion	Warri South-West	Delta	5.598	5.274	2	
+Zinvie	Badagry	Lagos	6.464	2.893	2	
+Gragbijo-Zion	Ilaje	Ondo	6.175	4.701	2	
+Zion-Sahayi	Ilaje	Ondo	6.049	4.840	2	
+Zion	Ilaje	Ondo	6.195	4.813	2	
+Zida	Municipal Area Council	FCT Abuja	8.909	7.497	2	
+Zimbabwe Street	Kaduna South	Kaduna	10.474	7.438	1	
+Zion Close	Ifo	Ogun	6.644	3.370	1	
+Zinsou St	Ikeja	Lagos	6.646	3.365	1	
+Zik Avenue	Jos North	Plateau	9.927	8.883	1	
+Zion Avenue	Enugu North	Enugu	6.478	7.483	1	
+Ziks Avenue	Enugu North	Enugu	6.428	7.494	1	
+Ziks Avenue	Enugu North	Enugu	6.436	7.492	1	
+Mount Zion Layout, Ugwaji	Enugu South	Enugu	6.418	7.537	1	
+Mount Zion Road	Calabar South	Cross River	4.942	8.336	1	
+Zion Compound	Shomolu	Lagos	6.528	3.392	1	
+Zion Street	Warri South	Delta	5.600	5.670	1	
+Zira Oil Co LTD	Jos North	Plateau	9.954	8.892	0	
+Zion Faith Group Of Schools	Oredo	Edo	6.328	5.630	0	
+Mount Zion Faith Clinic	Uvwie	Delta	5.536	5.761	0	
+Zicla Intl. School	Uvwie	Delta	5.543	5.765	0	
 Zion Methodist Primary School I, Ota	Ado Odo/Ota	Ogun	6.726	3.220	0	
 Zion Methodist Primary School Ii, Ota	Ado Odo/Ota	Ogun	6.536	3.068	0	
 Zion African Church Primary School, Otun	Ado Odo/Ota	Ogun	6.644	2.942	0	
@@ -39,25 +106,11 @@ A.i zira oil	Jos North	Plateau	9.969	8.894	0
 Zion Clinic Ak45 Yoruba Road	Kaduna North	Kaduna	10.510	7.426	0	
 ZION Home	Akure South	Ondo	7.288	5.150	0	
 Zinq Bridge Aparments - Family Apartment, Balcony, City View	Municipal Area Council	FCT Abuja	9.099	7.423	0	
-Zimbabwe Street	Kaduna South	Kaduna	10.474	7.438	1	
-Zion Close	Ifo	Ogun	6.644	3.370	1	
-Zinsou St	Ikeja	Lagos	6.646	3.365	1	
-Zik Avenue	Jos North	Plateau	9.927	8.883	1	
-Zion Avenue	Enugu North	Enugu	6.478	7.483	1	
-Ziks Avenue	Enugu North	Enugu	6.428	7.494	1	
-Ziks Avenue	Enugu North	Enugu	6.436	7.492	1	
-Mount Zion Layout, Ugwaji	Enugu South	Enugu	6.418	7.537	1	
 Zirami Dispensary	Giade	Bauchi	11.562	10.353	0	
 Zindi Dispensary	Katagum	Bauchi	11.568	10.490	0	Gangai Maternity
 Mainasara Nursing Home Zimin Zayam	Toro	Bauchi	10.136	9.283	0	
-Mount Zion Road	Calabar South	Cross River	4.942	8.336	1	
-Zion Compound	Shomolu	Lagos	6.528	3.392	1	
 Zigau Maternity	Shira	Bauchi	11.428	9.963	0	
 Zindiwa Maternity Clinic	Gamawa	Bauchi	11.885	10.808	0	
 Zinzani Health Clinic	Nangere	Yobe	11.829	11.025	0	
 Zinzano Health Clinic	Nangere	Yobe	11.835	10.994	0	
-Zion Street	Warri South	Delta	5.600	5.670	1	
 ziebok High school	Jos North	Plateau	9.863	8.857	0	
-Zinyau	Rano	Kano	11.512	8.554	2	
-Zindiwa	Gamawa	Bauchi	11.859	10.775	2	
-Zirami	Giade	Bauchi	11.569	10.318	2	

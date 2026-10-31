@@ -1,17 +1,11 @@
 Rugga Cumo	Shagari	Sokoto	12.758	5.121	2	
-Customs	Ibadan North	Oyo	7.413	3.912	0	
 Custom Barrack	Fagge	Kano	12.024	8.520	2	
 Custom Officers Mess	Fagge	Kano	12.032	8.520	2	
 Custom Staff School	Fagge	Kano	12.033	8.518	2	
-Cumono Ventures  Filling Station	Uvwie	Delta	5.562	5.748	0	
-Cumi	Obio/Akpor	Rivers	4.831	7.061	0	Cumi Medical Center
-Bularaba HEALTH CURE	Gulani	Yobe	11.070	11.794	0	
-Custom House Idp Clinic	Gwoza	Borno	11.228	13.777	0	
-CUSTECH	Adavi	Kogi	7.681	6.422	0	
-Cureland Medical Centre, Moniya Road, Akingbile	Akinyele	Oyo	7.523	3.915	0	
-God Cures Hospital	Ojo	Lagos	6.470	3.143	0	
-ABBA CUSTOM SPECIAL PRIMARY SCHOOL	Gwale	Kano	11.964	8.475	0	
-Customs Bus Stop	Municipal Area Council	FCT Abuja	9.060	7.466	0	
+Rugar Cumo	Shagari	Sokoto	12.758	5.121	2	Rugan Gamau|Rugga Cumo
+Cucula	Kagarko	Kaduna	9.370	7.757	2	
+Cukula Daji	Kagarko	Kaduna	9.363	7.758	2	
+Cukumi	Bwari	FCT Abuja	9.342	7.521	2	
 Mama Custom Street	Ikpoba-Okha	Edo	6.370	5.655	1	
 Curtis Adeniyi Jones Close	Surulere	Lagos	6.493	3.355	1	
 Custom Street	Lagos Island	Lagos	6.454	3.389	1	
@@ -20,3 +14,13 @@ Cubango Close	Municipal Area Council	FCT Abuja	9.096	7.495	1
 Cuito Close	Municipal Area Council	FCT Abuja	9.091	7.495	1	
 custome lane	Enugu East	Enugu	6.507	7.530	1	
 Custom Road	Yenegoa	Bayelsa	4.940	6.329	1	
+Customs	Ibadan North	Oyo	7.413	3.912	0	
+Cumono Ventures  Filling Station	Uvwie	Delta	5.562	5.748	0	
+Cumi	Obio/Akpor	Rivers	4.831	7.061	0	Cumi Medical Center
+Bularaba HEALTH CURE	Gulani	Yobe	11.070	11.794	0	
+Custom House Idp Clinic	Gwoza	Borno	11.228	13.777	0	
+Custech	Adavi	Kogi	7.681	6.422	0	
+Cureland Medical Centre, Moniya Road, Akingbile	Akinyele	Oyo	7.523	3.915	0	
+God Cures Hospital	Ojo	Lagos	6.470	3.143	0	
+Abba Custom Special Primary School	Gwale	Kano	11.964	8.475	0	
+Customs Bus Stop	Municipal Area Council	FCT Abuja	9.060	7.466	0	

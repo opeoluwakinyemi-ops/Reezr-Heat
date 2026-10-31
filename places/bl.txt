@@ -1,12 +1,30 @@
 Bulabilin	Biu	Borno	10.874	11.729	2	Blablin
 Blake	Maru	Zamfara	11.851	6.334	2	
 Sen	Baruten	Kwara	9.000	2.883	2	Blogiveru
-Blessed St. Paul Memorial Group of Schools	Egor	Edo	6.366	5.587	0	
-May Blossom High School	Enugu South	Enugu	6.414	7.502	0	
 Diaka Bllazi	Hawul	Borno	10.306	12.155	2	
 Gwalam Bladwizi	Hawul	Borno	10.468	12.336	2	
 Boulaye (Blahi)	Bosso	Borno	13.601	13.230	2	
 Blamare / Boulamiri	Diffa	Borno	13.492	12.907	2	
+Blukono	Obanliku	Cross River	6.618	9.326	2	
+Blablin	Biu	Borno	10.873	11.727	2	
+Blackman Camp	Ekeremor	Bayelsa	4.972	5.679	2	Blackman
+Blackgbene	Ekeremor	Bayelsa	4.895	5.560	2	
+Blantyre Street	Municipal Area Council	FCT Abuja	9.073	7.483	1	
+Black Moore Close	Obio/Akpor	Rivers	4.829	7.046	1	
+Blessed People Avenue	Oredo	Edo	6.305	5.625	1	
+black road	Numan	Adamawa	9.461	12.028	1	
+Black and Proud Crescent	Enugu South	Enugu	6.415	7.499	1	
+Blessed Iwene Tansi Crescent	Enugu East	Enugu	6.489	7.509	1	
+Blueberry Avenue	Eti Osa	Lagos	6.496	3.614	1	
+Blue Street	Chanchaga	Niger	9.640	6.519	1	
+Engr. Dave Umahi Blvd.	Afikpo North	Ebonyi	5.894	7.931	1	
+Bless Jah Crescent	Alimosho	Lagos	6.598	3.279	1	
+Efe Block Road	Esan West	Edo	6.744	6.100	1	
+Block C	Kaduna North	Kaduna	10.517	7.444	1	
+Blackberry Street	Oluyole	Oyo	7.340	3.819	1	
+Blue Bell	Municipal Area Council	FCT Abuja	9.059	7.429	1	
+Blessed St. Paul Memorial Group of Schools	Egor	Edo	6.366	5.587	0	
+May Blossom High School	Enugu South	Enugu	6.414	7.502	0	
 Public School (Black and White)	Kaduna North	Kaduna	10.546	7.444	0	
 Blessed Hope School	Uvwie	Delta	5.563	5.752	0	
 Blueville County Schools	Uvwie	Delta	5.563	5.778	0	
@@ -14,8 +32,8 @@ Aunty Mercy Blessed School	Warri South	Delta	5.529	5.758	0
 National Blood Transfusion Center (NBTS) Sokoto	Sokoto South	Sokoto	13.050	5.246	0	
 Blessing Camp Market	Idanre	Ondo	6.877	5.093	0	
 Block C	Gombe	Gombe	10.306	11.173	0	
-A-BLOCK	Gombe	Gombe	10.306	11.172	0	
-B-BLOCK	Gombe	Gombe	10.306	11.173	0	
+A-Block	Gombe	Gombe	10.306	11.172	0	
+B-Block	Gombe	Gombe	10.306	11.173	0	
 De Bless & Bless Others Oil Ltd	Yenegoa	Bayelsa	4.947	6.358	0	
 Blessed clinic	Jos North	Plateau	9.894	8.865	0	
 f c e (T) administrative block	Gombe	Gombe	10.315	11.148	0	
@@ -34,28 +52,12 @@ Block C	Akure South	Ondo	7.295	5.148	0
 Block D	Akure South	Ondo	7.295	5.148	0	
 Abiola Block 2	Akure South	Ondo	7.303	5.143	0	
 Abiola Block 3	Akure South	Ondo	7.303	5.143	0	
-Block D	Akure South	Ondo	7.287	5.153	0	
-Block C	Akure South	Ondo	7.287	5.153	0	
 Deoyefemi Clinic Block 4 Jakande Estate Mile 2	Amuwo Odofin	Lagos	6.464	3.307	0	
 Blessed Assurance Maternity Home	Amuwo Odofin	Lagos	6.457	3.303	0	
 fountain block	Ogbia	Bayelsa	4.793	6.321	0	
 Blessed Trinity Hospital	Municipal Area Council	FCT Abuja	9.031	7.588	0	
-Blantyre Street	Municipal Area Council	FCT Abuja	9.073	7.483	1	
-Black Moore Close	Obio/Akpor	Rivers	4.829	7.046	1	
 Blue Cross Clinic	Egor	Edo	6.360	5.625	0	
-Blessed People Avenue	Oredo	Edo	6.305	5.625	1	
-black road	Numan	Adamawa	9.461	12.028	1	
-Black and Proud Crescent	Enugu South	Enugu	6.415	7.499	1	
-Blessed Iwene Tansi Crescent	Enugu East	Enugu	6.489	7.509	1	
-Blueberry Avenue	Eti Osa	Lagos	6.496	3.614	1	
-Blue Street	Chanchaga	Niger	9.640	6.519	1	
-Engr. Dave Umahi Blvd.	Afikpo North	Ebonyi	5.894	7.931	1	
-Bless Jah Crescent	Alimosho	Lagos	6.598	3.279	1	
-Efe Block Road	Esan West	Edo	6.744	6.100	1	
 Unique Blossom school	Ìkòròdú	Lagos	6.606	3.498	0	
-Block C	Kaduna North	Kaduna	10.517	7.444	1	
-Blackberry Street	Oluyole	Oyo	7.340	3.819	1	
 Admin block A	Awka North	Anambra	6.244	7.119	0	
 Admin Block B	Awka North	Anambra	6.245	7.117	0	
 blilachi primary health center	Numan	Adamawa	9.540	12.056	0	
-Blue Bell	Municipal Area Council	FCT Abuja	9.059	7.429	1	

@@ -3,10 +3,27 @@ Nung Ikong Ufok	Uruan	Akwa Ibom	4.929	8.045	2
 Ufu Esioni	Edda	Ebonyi	5.833	7.833	2	
 Nung Ikono Ufok	Uruan	Akwa Ibom	4.929	8.045	2	
 Ufulu	Ndokwa East	Delta	5.701	6.542	2	
-Ufoma Specialist Hospital	Mushin	Lagos	6.551	3.360	0	
 Ufuoma	Warri South-West	Delta	5.521	5.250	2	
 Ufuma	Orumba North	Anambra	6.080	7.194	2	
 Uffa Village	Aguata	Anambra	6.053	7.038	2	
+Ufaye	Dikwa	Borno	12.000	13.967	2	
+Ufwaka	Rafi	Niger	10.230	6.039	2	
+Ufut	Biase	Cross River	5.505	8.026	2	
+Ufuku	Essien Udim	Akwa Ibom	5.073	7.580	2	
+Ufueseni	Edda	Ebonyi	5.832	7.848	2	Ufu Esioni
+Ufiele	Ohafia	Abia	5.622	7.896	2	
+Ufak Efin	Odukpani	Cross River	5.167	8.067	2	
+Leho Mbulla-Ufa Yamma	Askira-Uba	Borno	10.692	12.820	2	
+Leho Mbulla-Ufa-Gabas	Askira-Uba	Borno	10.690	12.834	2	
+Ufok Ubet	Odukpani	Cross River	5.048	8.214	2	
+Esin Ufot Eyamba	Akpabuyo	Cross River	4.862	8.419	2	
+Ufort Camp	Ekeremor	Bayelsa	4.973	5.710	2	Ufort
+Ekpenyong Ufum	Essien Udim	Akwa Ibom	5.159	7.584	2	
+Ikot Ufen	Abak	Akwa Ibom	5.047	7.762	2	
+Ufuomanefe	Ughelli North	Delta	5.320	6.052	2	
+Ndi-Ufumuta	Ikwo	Ebonyi	6.056	8.094	2	
+Ufaye	Dikwa	Borno	12.002	13.964	2	
+Ufal	Keana	Nasarawa	8.223	8.616	2	
 Ufunmwengbe Street	Oredo	Edo	6.339	5.621	1	
 Ufumwen Street	Egor	Edo	6.367	5.625	1	
 Ufunmwengbe Lane	Oredo	Edo	6.340	5.621	1	
@@ -16,4 +33,4 @@ Ejike Ufonna Street	Oshodi/Isolo	Lagos	6.501	3.319	1
 Ufondu Nnaji Crescent	Eti Osa	Lagos	6.468	3.633	1	
 Usong ufok Nwet	Ukanafun	Akwa Ibom	4.869	7.654	1	
 Ufondu Nnaji	Eti Osa	Lagos	6.468	3.633	1	
-Ufaye	Dikwa	Borno	12.000	13.967	2	
+Ufoma Specialist Hospital	Mushin	Lagos	6.551	3.360	0	

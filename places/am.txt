@@ -1,3 +1,18 @@
+Amassoma	Southern Ijaw	Bayelsa	4.970	6.109	3	Amassama
+Eha Amufu	Isi-Uzo	Enugu	6.652	7.768	3	
+Amagunze	Nkanu East	Enugu	6.330	7.652	3	
+Amaigbo	Nwangele	Imo	5.729	7.117	3	Amibo;Amigbo
+Ambursa	Birnin Kebbi	Kebbi	12.508	4.337	3	
+Amukpe	Sapele	Delta	5.861	5.715	3	
+Ammanawa	Dange-Shuni	Sokoto	12.908	5.311	3	
+Amorka	Ihiala	Anambra	5.756	6.877	3	
+Amaseri	Afikpo North	Ebonyi	5.914	7.883	3	
+Amurie	Njaba	Imo	5.671	7.014	3	
+Amafuo	Ihiala	Anambra	5.817	6.898	3	
+Umundugba	Isu	Imo	5.676	7.072	3	Amanduba|Amandugba
+Amaigbo	Edda	Ebonyi	5.789	7.838	3	amaigubo|amaygbw|amayqbw
+Ago-Amodu	Saki East	Oyo	8.623	3.614	3	Ago Amadu|Shepeteri
+Amawbia	Awka South	Anambra	6.210	7.050	2	
 Amana	Igabi	Kaduna	10.732	7.663	2	
 Uma	Ushongo	Benue	7.113	8.854	2	Amua
 Orhemen Amire	Buruku	Benue	7.627	8.909	2	
@@ -6,10 +21,7 @@ Amahor	Iguegben	Edo	6.467	6.198	2	Amaho
 Amini	Odeda	Ogun	7.250	3.750	2	Amin
 Amdaga	Gwoza	Borno	11.205	13.676	2	
 Amacuku	Dambatta	Kano	12.580	8.591	2	
-Amassoma	Southern Ijaw	Bayelsa	4.970	6.109	3	Amassama
-Eha Amufu	Isi-Uzo	Enugu	6.652	7.768	3	
 Amankwo	Ezeagu	Enugu	6.452	7.302	2	Amanko
-Amagunze	Nkanu East	Enugu	6.330	7.652	3	
 Amabilou	Ekeremor	Bayelsa	4.984	5.803	2	Amabulou;Amabulu;Amabulo
 Old Amatu	Ekeremor	Bayelsa	4.925	5.461	2	Old Amatu;Amatu
 Ama-Sunday	Andoni	Rivers	4.496	7.416	2	
@@ -36,6 +48,7 @@ Amabilou	Ekeremor	Bayelsa	4.897	5.686	2	Amabilo
 Amdullahi	Bagudo	Kebbi	11.547	4.013	2	
 Amahor	Iguegben	Edo	6.448	6.141	2	Amahor Southwest
 Amaiyi	Edda	Ebonyi	5.767	7.817	2	
+Gidan Amale	Kurmi	Taraba	7.300	10.900	2	Amale
 Amangba	Oredo	Edo	6.233	5.600	2	
 Asa Amuhi	Ugwunagbo	Abia	5.017	7.333	2	
 Amodu	Ifelodun	Kwara	8.286	4.741	2	
@@ -56,7 +69,6 @@ Ama Apu	Isiala-Ngwa South	Abia	5.431	7.398	2
 Ama Apu	Isiala-Ngwa South	Abia	5.367	7.359	2	
 Kugama Ama	Mayo-Belwa	Adamawa	9.150	12.050	2	Kugama Arna
 Imule Amos	Yewa North	Ogun	6.850	2.783	2	
-Amaigbo	Nwangele	Imo	5.729	7.117	3	Amibo;Amigbo
 Ameke Abiriba	Ohafia	Abia	5.715	7.735	2	
 Amada	Bunza	Kebbi	12.196	3.916	2	
 Amauro	Ohaozara	Ebonyi	5.967	7.867	2	
@@ -70,12 +82,10 @@ Egbagu	Awka North	Anambra	6.270	7.125	2	Egbagu-Amansi
 Ameka	Obi	Benue	7.091	8.293	2	Ameke;Angmekka
 Amanawa	Kalgo	Kebbi	12.355	4.188	2	
 Ambere	Wasagu-Danko	Kebbi	11.682	4.973	2	
-Ambursa	Birnin Kebbi	Kebbi	12.508	4.337	3	
 New Amatu	Ekeremor	Bayelsa	4.873	5.476	2	Amatu;Ametu
 Ama Uzu	Kolokuma/Opokuma	Bayelsa	5.183	6.367	2	Ara
 Amper	Kanke	Plateau	9.355	9.702	2	
 Ameka	Dekina	Kogi	7.417	7.300	2	Aneke
-Amaigbo	Edda	Ebonyi	5.783	7.833	2	
 Gidan Amadu	Danja	Katsina	11.317	7.683	2	Amadu
 Amar Dogo	Sanga	Kaduna	9.117	8.533	2	Amar
 Ama Igbo	Umuahia South	Abia	5.496	7.423	2	
@@ -98,7 +108,6 @@ Kyachawa	Baure	Katsina	12.683	8.853	2	Dan Amela
 Amawom	Ikwuano	Abia	5.467	7.567	2	
 Amahali	Kware	Sokoto	13.179	5.331	2	
 Guidan Amadu	Gusau	Zamfara	12.259	6.899	2	
-Amukpe	Sapele	Delta	5.861	5.715	3	
 Ungwan Amawou	Tudun Wada	Kano	11.355	8.378	2	Amawou
 Amaduri	Kaga	Borno	11.247	12.604	2	
 Ukukwa	Awka North	Anambra	6.260	7.136	2	Ukukwa-Amanse
@@ -116,7 +125,6 @@ Amata	Abakaliki	Ebonyi	6.296	8.310	2	Amala
 Tungan Amadu	Suru	Kebbi	11.620	3.959	2	
 Amadebegbene	Ese Odo	Ondo	6.229	4.861	2	
 Amarawa	Illela	Sokoto	13.708	5.295	2	
-Ammanawa	Dange-Shuni	Sokoto	12.908	5.311	3	
 Ikwake Amatangolo Odirogu	Degema	Rivers	4.753	6.967	2	
 Amankwo	Ezeagu	Enugu	6.484	7.250	2	Amanko;Amankwor Oye
 Amurin	Ọ̀wọ̀	Ondo	7.270	5.466	2	Imure-Ile
@@ -134,19 +142,6 @@ Bila Ambulder	Chibok	Borno	10.755	12.954	2	Payashan Abulde
 Amugoro	Arewa Dandi	Kebbi	12.683	3.895	2	Amagoro
 Swasun Amadu	Katcha	Niger	9.350	6.200	2	Mitachigi
 Amarata	Yenegoa	Bayelsa	4.933	6.290	2	
-Queen Amina College	Kaduna South	Kaduna	10.476	7.421	0	QAC|QAC
-Mall of America	Oredo	Edo	6.325	5.615	0	
-Amena International School	Oredo	Edo	6.306	5.601	0	
-Amazing grace nur/pry	Oredo	Edo	6.334	5.609	0	
-Ndiagu Amechi Uwani Health Center	Enugu South	Enugu	6.408	7.532	0	
-St. Theresa Primary School Amainyi	Obowo	Imo	5.583	7.389	0	
-Ekeamainyi Market Amainyi	Obowo	Imo	5.586	7.386	0	
-Ekeikpa Market Amainyi	Ihitte/Uboma	Imo	5.603	7.381	0	
-Amainyi High School Amainyi	Obowo	Imo	5.595	7.386	0	
-Madarasatu Amina Islamiyya Primary School	Nassarawa	Kano	12.027	8.551	0	
-Unguwar Malam Amadu Health Post	Rogo	Kano	11.493	7.772	0	
-Dutsan Amare Health Post	Karaye	Kano	11.827	7.991	0	
-Amasad Clinic	Bauchi	Bauchi	10.301	9.830	0	
 Ambodari	Damboa	Borno	11.068	12.726	2	
 Ambouta	Birni N'Konni	Sokoto	13.753	5.126	2	
 Ambasador Yusufari	Maiduguri	Borno	11.815	13.176	2	
@@ -180,7 +175,6 @@ Amarvai Ballar	Mafa	Borno	11.835	13.807	2
 Amarvai Mallam	Mafa	Borno	11.831	13.800	2	
 Amarvai Nguzowa	Mafa	Borno	11.831	13.797	2	
 Ardo Aman	Chibok	Borno	10.865	12.751	2	Babayel
-Amazing Investments Limited	Lagelu	Oyo	7.435	3.944	0	
 Okura	Dekina	Kogi	7.430	7.383	2	Ameka
 Amurari	Monguno	Borno	12.326	13.419	2	
 Aida Kura'am Ajidiri	Kukawa	Borno	12.812	13.537	2	
@@ -197,76 +191,605 @@ Modu Amsari	Konduga	Borno	11.925	12.769	2
 Amarwa Goniri	Jere	Borno	11.723	13.289	2	
 Ari Ka Amiri	Konduga	Borno	11.602	13.181	2	
 Amarwa Bulamari	Jere	Borno	11.729	13.300	2	
-Amefua Investment Filling Station	Uvwie	Delta	5.536	5.759	0	
-Amaris Nursery and Primary School	Port-Harcourt	Rivers	4.818	7.066	0	
-Captain Amadi Polytecnic	Obio/Akpor	Rivers	4.835	6.995	0	
-Mobile Ambulance Center	Sokoto South	Sokoto	13.051	5.246	0	
 Amanawa Hayi	Dange-Shuni	Sokoto	12.924	5.310	2	
-Amurin Market	Ọ̀wọ̀	Ondo	7.264	5.466	0	
-Amurin Village Market	Ọ̀wọ̀	Ondo	7.125	5.579	0	
-Anglican Model College Ogbomoso (AMCO)	Ogbomosho North	Oyo	8.142	4.242	0	
-Afro-American Wealth Oil and Gaz	Alimosho	Lagos	6.582	3.284	0	
-Amnesty oil & Gas nig Ltd	Akko	Gombe	10.305	10.932	0	
 Dan Amale	Kabo	Kano	11.946	8.033	2	
 Yan Amar	Tsanyawa	Kano	12.415	8.081	2	
 Yan Amar	Tsanyawa	Kano	12.391	8.075	2	
 Amarawa	Dawakin Tofa	Kano	12.237	8.416	2	
 Amarawa	Gaya	Kano	11.819	8.903	2	
-Amorka	Ihiala	Anambra	5.756	6.877	3	
-Amanawa Leprosy Centre	Kalgo	Kebbi	12.355	4.188	0	
-Zauro Ambrusa General Hospital	Birnin Kebbi	Kebbi	12.497	4.313	0	
-Amino Kanu Teaching Hospital	Nassarawa	Kano	11.977	8.594	0	
-Amadiya Muslim Hospital	Borgu	Niger	9.875	4.518	0	
-St. Peters Primary School Amode-Ota	Ado Odo/Ota	Ogun	6.596	2.954	0	
-St. Peters Primary School Amode-Ota	Ado Odo/Ota	Ogun	6.672	3.045	0	
-Amechi Bus stop	Enugu South	Enugu	6.410	7.504	0	
-Al-Ameen Hospital, Awotan, Apete	Ido	Oyo	7.449	3.862	0	
 Amakohia	Owerri West	Imo	5.529	6.965	2	
-American International School Abuja	Municipal Area Council	FCT Abuja	9.023	7.457	0	
 Amalu	Esan South-East	Edo	6.786	6.592	2	
 Amadaka	Eastern Obolo	Akwa Ibom	4.532	7.704	2	
 Amizu	Afikpo North	Ebonyi	5.880	7.941	2	
-Amaseri	Afikpo North	Ebonyi	5.914	7.883	3	
-Amina Zwindila Foundation School	Jos North	Plateau	9.920	8.911	0	
 Amaba	Isuikwuato	Abia	5.729	7.514	2	
 Amaokwe	Isuikwuato	Abia	5.759	7.473	2	
 Amiyi	Isuikwuato	Abia	5.767	7.439	2	
-Gibril Aminu model school	Bauchi	Bauchi	10.310	9.799	0	
-Amurie	Njaba	Imo	5.671	7.014	3	
-Aman Clinic Makera Cd 35 Zango Road Sabon Gari South	Kaduna South	Kaduna	10.507	7.407	0	
-Amina Nmadi Health Facility	Kaduna South	Kaduna	10.495	7.403	0	
-Amina Hospital And Maternity	Kaduna South	Kaduna	10.455	7.426	0	
-Queen Amina Infirmary	Kaduna South	Kaduna	10.475	7.422	0	
-Gomna Awan Hospital Queen Amina College Pobox 211	Kaduna South	Kaduna	10.475	7.423	0	
-Amrullah Hospital	Kaduna South	Kaduna	10.515	7.399	0	
-Alaso Amikanle Primary Health Care Center	Alimosho	Lagos	6.650	3.245	0	
-Amen Health Center	Alimosho	Lagos	6.634	3.281	0	
-Amuwo Mile 2 Primary Health Center	Alimosho	Lagos	6.562	3.270	0	
-Am Hospital	Mushin	Lagos	6.502	3.328	0	
-Amazing Grace Villa	Akure South	Ondo	7.290	5.148	0	
-Taofiq Amabi Global service	Iwo	Osun	7.644	4.168	0	
-Amc Hospital	Amuwo Odofin	Lagos	6.465	3.314	0	
-Aminat Convalesce Home	Amuwo Odofin	Lagos	6.442	3.312	0	
-Jes 7 Jes Clinic Amuwo Housing	Amuwo Odofin	Lagos	6.448	3.280	0	
-Amazing success model academy	Alimosho	Lagos	6.532	3.235	0	
-AMANA SCHOOL	Ungongo	Kano	12.038	8.568	0	
-MADRASATUL ZADUL MA AM ISLAMIYYA	Ungongo	Kano	12.055	8.582	0	
-AMATULRAHMAN ROYAL INT' SCHOOL KANO	Gwale	Kano	11.964	8.468	0	
-AMATULRAHAMAN ROYAL INTNL SCHOOLS	Gwale	Kano	11.961	8.469	0	
 Amazo	Ekeremor	Bayelsa	5.114	5.408	2	
-Amafuo	Ihiala	Anambra	5.817	6.898	3	
-AMAO hall	Kaduna North	Kaduna	10.610	7.440	0	
-Ita Amodu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.539	0	
-Ipata Market., Amilegbe Road, Ilorin, Nigeria	Ilorin East	Kwara	8.499	4.562	0	
 Amechi	Enugu South	Enugu	6.382	7.508	2	
 Amorji-Nike	Enugu East	Enugu	6.513	7.522	2	
 Cornelius-ama	Opobo/Nkoro	Rivers	4.503	7.480	2	
-Ambassador Kingsley Motors Nig Ltd	Municipal Area Council	FCT Abuja	9.121	7.386	0	
-Ojuelegba Amala Point Idu Junction	Municipal Area Council	FCT Abuja	9.037	7.413	0	
 Amokwu Afa	Udi	Enugu	6.612	7.357	2	
 Amofia Agu	Udi	Enugu	6.568	7.252	2	
 Amukoko	Ajeromi/Ifelodun	Lagos	6.469	3.342	2	
 Amuwo Odofin	Amuwo Odofin	Lagos	6.478	3.312	2	
+Amachi Awkunanaw	Enugu South	Enugu	6.405	7.508	2	
+Amechi	Enugu South	Enugu	6.405	7.524	2	
+Amanga	Sule Tankakar	Jigawa	12.637	9.127	2	
+Amaryawa	Roni	Jigawa	12.571	8.363	2	
+Dan Ama	Gumel	Jigawa	12.628	9.342	2	
+Zaria Amiru	Koko-Besse	Kebbi	11.306	4.243	2	
+Ambursa	Birnin Kebbi	Kebbi	12.527	4.337	2	
+Amarawa	Warawa	Kano	11.902	8.775	2	
+Amchaka	Bama	Borno	11.533	14.307	2	
+Amarmari	Zaki	Bauchi	12.119	10.365	2	
+Amuwo Odofin	Amuwo Odofin	Lagos	6.447	3.266	2	
+Rudu Amanawa	Dange-Shuni	Sokoto	12.885	5.292	2	
+Wuro Jaudu Amodu	Fufore	Adamawa	9.551	12.804	2	
+Wuro Jauro Amadu	Guyuk	Adamawa	9.645	12.000	2	
+Wuro Amadu	Jada	Adamawa	8.647	12.357	2	
+Wanzum Amagwa	Buruku	Benue	7.640	8.950	2	
+Ungwan Mallam Amadu	Soba	Kaduna	10.710	8.036	2	
+Ungwan Amadu	Obi	Nasarawa	8.448	8.653	2	
+Mere	Jema'A	Kaduna	9.463	8.211	2	Amere|Unguwar Amere
+Umuosi Amumara	Ikeduru	Imo	5.592	7.178	2	
+Amuawta	Idemili North	Anambra	6.109	6.823	2	Umuaja-Obosi|Umuoja-Obosi
+Umuekun-Amai	Ndokwa West	Delta	5.755	6.240	2	Umuekum-Amai
+Umu-Akwu-Ameke	Umu-Nneochi	Abia	5.983	7.351	2	
+Ukywl-Amu	Konshisha	Benue	7.187	8.586	2	
+Tunga Amani	Argungu	Kebbi	12.760	4.408	2	
+Tse-Amondu	Gwer East	Benue	7.483	8.238	2	
+Omon	Obubra	Cross River	5.922	8.268	2	Amon
+Oko-Amako	Oshimili South	Delta	6.126	6.739	2	Oko-Amakom
+Oke-Amu	Itesiwaju	Oyo	8.124	3.521	2	Oke Amu|Oke-Amaw|Oke-Amo
+Odirogu	Degema	Rivers	4.753	6.966	2	Ikwake Amatangolo Odirogu|Odirogo
+Obusia-Amachi	Abakaliki	Ebonyi	6.304	8.168	2	
+Obugha-Amachi	Abakaliki	Ebonyi	6.287	8.184	2	
+Ndi-Owere Amangwu	Edda	Ebonyi	5.877	7.847	2	
+Ndiebe Amagbo	Arochukwu	Abia	5.598	7.657	2	
+Ndiagu Amagu	Ikwo	Ebonyi	5.973	8.136	2	
+Lergo Amadu	Akko	Gombe	10.088	11.200	2	Legro Aba
+Kponch Amu	Markurdi	Benue	7.683	8.646	2	
+Jauro Amadu	Kwami	Gombe	10.545	11.008	2	
+Jauro Amadu	Jada	Adamawa	8.561	12.344	2	
+Imule-Amos	Yewa North	Ogun	6.842	2.786	2	Imule|Imule Amos
+Ikot Amba	Obot Akara	Akwa Ibom	5.218	7.569	2	
+Ikot Ama	Essien Udim	Akwa Ibom	5.063	7.579	2	
+Goni Amaramanti	Borsari	Yobe	12.939	11.393	2	
+Gidan Amale	Paikoro	Niger	9.573	7.231	2	
+Gidan-Amadu	Takum	Taraba	7.394	9.945	2	Gid Amadu
+Ezi-Amata	Isiala-Ngwa South	Abia	5.335	7.506	2	
+Emabo	Ankpa	Kogi	7.426	7.705	2	Amabo|Amabu
+Eke Amanenga	Olamaboro	Kogi	7.144	7.309	2	
+Eguare-Amede	Esan West	Edo	6.775	6.078	2	Egoro|Eguare-Egoro
+Egbagu	Awka North	Anambra	6.270	7.124	2	Egbagu-Amansi
+Batu Amanda	Kurmi	Taraba	7.056	10.895	2	
+Amo	Bassa	Plateau	10.098	8.751	2	Barakin Amo
+Aya-Ama	Kolokuma/Opokuma	Bayelsa	5.073	6.292	2	
+Awiakalakala	Ogbia	Bayelsa	4.649	6.340	2	Amakalakala
+Asia Amanhie	Ugwunagbo	Abia	5.017	7.333	2	Asta Amanhie
+Asaga-Amangwu	Edda	Ebonyi	5.836	7.874	2	
+Antul	Dikwa	Borno	12.018	13.961	2	Amtel|Amtul
+Amuzukwu	Umuahia North	Abia	5.541	7.506	2	
+Amuzu	Ezza South	Ebonyi	6.170	8.029	2	
+Amuzu	Aboh-Mbaise	Imo	5.383	7.283	2	
+Amuyode	Atiba	Oyo	8.071	3.914	2	
+Amuwo	Amuwo Odofin	Lagos	6.454	3.305	2	
+Amuta	Akko	Gombe	9.977	11.186	2	
+Amusan	Ibarapa North	Oyo	7.566	3.328	2	
+Amusan	Egbeda	Oyo	7.458	4.041	2	
+Amurri	Nkanu West	Enugu	6.260	7.529	2	
+Amuro	Ikwuano	Abia	5.465	7.587	2	
+Amurire	Ona Ara	Oyo	7.144	4.054	2	
+Amuor	Gboko	Benue	7.348	8.628	2	
+Amunga	Obanliku	Cross River	6.646	9.209	2	
+Amuma	Ohafia	Abia	5.643	7.890	2	
+Amuloko	Afijio	Oyo	7.750	3.950	2	
+Amuloko	Ona Ara	Oyo	7.337	3.976	2	
+Amula	Oturkpo	Benue	7.281	8.159	2	
+Amula	Oturkpo	Benue	7.285	8.094	2	
+Amula	Ijebu North	Ogun	7.085	3.994	2	
+Amukoko	Moro	Kwara	8.854	4.548	2	
+Amukoko	Aiyedade	Osun	7.214	4.250	2	
+Amuko	Munya	Niger	10.005	7.043	2	
+Amukegun-Modakeke	Ife North	Osun	7.281	4.472	2	Amukegun Modakeke
+Amukegun-Ibadan	Ife North	Osun	7.281	4.467	2	Amukegun Ibadan
+Amukabi	Arochukwu	Abia	5.413	7.958	2	
+Amufu	Okpokwu	Benue	7.006	7.915	2	
+Amufi	Igbo-Eze-North	Enugu	6.956	7.472	2	
+Amufi	Uhunmwonde	Edo	6.350	5.717	2	
+Amuegbedi	Sapele	Delta	5.766	5.713	2	
+Amuda Egunsola	Itesiwaju	Oyo	8.228	3.563	2	
+Amuda	Ibarapa East	Oyo	7.548	3.382	2	
+Amucha	Njaba	Imo	5.739	7.043	2	
+Amu	Moro	Kwara	9.033	4.700	2	
+Amtasa	Gombi	Adamawa	10.251	12.489	2	
+Ampan	Kanke	Plateau	9.356	9.570	2	
+Amoya	Owan East	Edo	7.174	5.998	2	
+Amough	Lafia	Nasarawa	8.422	8.839	2	
+Amoudu	Obi	Nasarawa	8.389	8.832	2	
+Amosun	Afijio	Oyo	7.657	3.954	2	
+Amosun	Akinyele	Oyo	7.563	4.015	2	
+Amosu	Oluyole	Oyo	7.178	3.934	2	
+Amoso	Edda	Ebonyi	5.808	7.851	2	
+Amorie	Ezza South	Ebonyi	6.157	8.140	2	
+Amorie	Owerri North	Imo	5.383	7.067	2	
+Amore	Yewa North	Ogun	7.399	2.948	2	
+Amopara	Nkwerre	Imo	5.766	7.080	2	
+Amoor	Gboko	Benue	7.364	8.666	2	
+Amoor	Gboko	Benue	7.359	8.619	2	
+Amono	Uzo-Uwani	Enugu	6.766	7.206	2	
+Amon Kasa	Lere	Kaduna	10.226	8.647	2	Amon Kasa Bisa|Amon Kasa Villages
+Amoncha	Afikpo North	Ebonyi	5.833	7.929	2	
+Amoloye	Aiyedade	Osun	7.588	4.487	2	
+Amolor	Konshisha	Benue	7.027	8.812	2	
+Amoloko	Isokan	Osun	7.290	4.183	2	
+Amokwu	Bende	Abia	5.541	7.631	2	
+Amokwo Okposieshi	Ohaukwu	Ebonyi	6.504	7.945	2	
+Amokwo	Igalamela-Odolu	Kogi	6.817	7.091	2	Amokwu
+Amoko	Kogi	Kogi	8.365	6.899	2	
+Amokan	Obafemi Owode	Ogun	7.108	3.378	2	
+Amokaha	Tarka	Benue	7.665	8.811	2	
+Amoje	Odeda	Ogun	7.319	3.419	2	
+Amoje	Oluyole	Oyo	7.296	3.791	2	
+Amoior	Konshisha	Benue	7.019	8.836	2	
+Amoigbe	Ìsẹ́yìn	Oyo	7.697	3.323	2	
+Amodu	Ifelodun	Kwara	8.428	5.064	2	
+Amodu	Ona Ara	Oyo	7.200	4.033	2	
+Amobia	Awka South	Anambra	6.196	7.056	2	
+Amoba	Edda	Ebonyi	5.796	7.833	2	
+Amo	Ife North	Osun	7.252	4.451	2	
+Amkov	Konshisha	Benue	7.326	8.567	2	
+Amkilange	Gombi	Adamawa	10.115	12.648	2	
+Amja	Bama	Borno	11.473	14.198	2	Bula-Bushara|Hamja
+Amizu	Arochukwu	Abia	5.572	7.730	2	
+Amiza	Gwer East	Benue	7.584	8.591	2	
+Amiri	Oru East	Imo	5.726	6.960	2	
+Eminigboko	Abua/Odual	Rivers	4.954	6.592	2	Aminigboko
+Amini	Odeda	Ogun	7.235	3.749	2	Amin
+Amindoli	Kaga	Borno	11.571	12.564	2	
+Amieghomwan	Ovia South-West	Edo	6.490	5.425	2	
+Amide	Gboko	Benue	7.213	8.732	2	
+Amichi	Nnewi South	Anambra	5.987	6.983	2	
+Amgbegha	Gboko	Benue	7.413	8.664	2	
+Amgbaye	Guma	Benue	8.087	8.546	2	
+Amfu	Kachia	Kaduna	9.801	7.519	2	
+Ameri	Ezza South	Ebonyi	6.176	8.138	2	
+Amere	Ola Oluwa	Osun	7.714	4.211	2	
+Amenyi-Opuitumo	Ikwo	Ebonyi	6.025	8.076	2	
+Amenu	Ohaozara	Ebonyi	5.982	7.871	2	
+Amenger	Tarka	Benue	7.553	8.866	2	
+Amengel	Ushongo	Benue	7.185	8.887	2	
+Amendhoklan	Esan North-East	Edo	6.725	6.372	2	Amedokai|Amendhokian
+Amena	Markurdi	Benue	7.648	8.558	2	
+Amen	Konshisha	Benue	7.080	8.798	2	
+Amemga	Konshisha	Benue	7.138	8.535	2	
+Amelu-Abam	Arochukwu	Abia	5.577	7.742	2	
+Ameke-Ngwo	Udi	Enugu	6.438	7.402	2	Ameke
+Ameke-Abiriba	Ohafia	Abia	5.715	7.734	2	
+Ameke	Igalamela-Odolu	Kogi	6.831	7.078	2	
+Ameke	Umuahia North	Abia	5.564	7.514	2	Ama Eke
+Ameka	Dekina	Kogi	7.424	7.373	2	Aneke
+Ameka	Ezza South	Ebonyi	6.163	8.110	2	
+Amejiogbe	Oyo West	Oyo	8.003	3.854	2	
+Amechi	Ohaukwu	Ebonyi	6.411	7.981	2	
+Amechi	Ohaozara	Ebonyi	5.991	7.863	2	
+Amduru Karemi	Gombi	Adamawa	10.082	12.522	2	
+Amduru Babba	Gombi	Adamawa	10.053	12.502	2	
+Amduru	Gombi	Adamawa	10.088	12.532	2	
+Amdewe	Hong	Adamawa	10.359	12.681	2	
+Ambwe	Kurmi	Taraba	7.114	10.742	2	
+Amburu	Kurmi	Taraba	7.144	10.815	2	
+Ambudu	Magumeri	Borno	12.177	13.079	2	
+Ambora	Kurmi	Taraba	7.363	10.871	2	
+Ambo	Ussa	Taraba	7.152	10.168	2	
+Ambo	Kurmi	Taraba	7.076	10.768	2	
+Ambiya	Damboa	Borno	10.946	12.612	2	
+Ambia	Gujba	Yobe	11.380	12.225	2	
+Ambe	Sanga	Kaduna	9.332	8.417	2	
+Ambe	Sanga	Kaduna	9.338	8.380	2	
+Ambe	Ushongo	Benue	7.065	8.965	2	
+Ambam	Jema'A	Kaduna	9.518	8.320	2	
+Ambakar	Lafia	Nasarawa	8.938	8.890	2	
+Amba	Kokona	Nasarawa	8.631	8.134	2	
+Amba	Sardauna	Taraba	6.774	10.914	2	
+Amayo	Ilorin South	Kwara	8.416	4.624	2	
+Amawzari	Isiala Mbano	Imo	5.665	7.102	2	
+Isuochi	Umu-Nneochi	Abia	6.006	7.401	2	Amawda|Amoda
+Amawa	Lere	Kaduna	10.271	8.658	2	
+Amawa	Lere	Kaduna	10.195	8.620	2	
+Amavo	Osisioma Ngwa	Abia	5.234	7.314	2	
+Amauzu	Isiala-Ngwa South	Abia	5.350	7.367	2	
+Ama-Uru	Arochukwu	Abia	5.614	7.744	2	
+Amauro	Afikpo North	Ebonyi	5.956	7.875	2	
+Amaumara	Ezinihitte	Imo	5.432	7.315	2	
+Ama-Uke	Ohafia	Abia	5.631	7.858	2	
+Amaudara	Bende	Abia	5.818	7.678	2	
+New Amatu	Ekeremor	Bayelsa	4.888	5.468	2	Amatu|Ametu
+Amatolo	Sagbama	Bayelsa	5.023	6.066	2	
+Amatita	Sanga	Kaduna	9.097	8.528	2	Amartita
+Amate-Enu	Afikpo North	Ebonyi	5.945	7.927	2	
+Amasu	Arochukwu	Abia	5.378	7.913	2	
+Amaso-Nta	Edda	Ebonyi	5.842	7.802	2	
+Amasa	Ori Ire	Oyo	8.498	4.258	2	
+Amasa	Arochukwu	Abia	5.438	7.909	2	
+Amaryawa	Roni	Jigawa	12.565	8.351	2	
+Amaruru Ikeduru	Ikeduru	Imo	5.583	7.193	2	
+Amarti	Geidam	Yobe	12.664	11.936	2	
+Amars	Sanga	Kaduna	9.085	8.544	2	
+Amaraka	Isiala Mbano	Imo	5.651	7.148	2	
+Amar	Ibi	Taraba	8.690	10.351	2	
+Amapunta	Isiala-Ngwa North	Abia	5.317	7.367	2	
+Amapu	Obi Ngwa	Abia	5.133	7.467	2	
+Amapa	Olamaboro	Kogi	7.234	7.421	2	
+Amaowele	Awgu	Enugu	6.179	7.424	2	
+Amaokwe-Elu	Bende	Abia	5.725	7.592	2	
+Ama-Okwe	Bende	Abia	5.741	7.664	2	
+Ama Oku	Bende	Abia	5.740	7.605	2	
+Ama Okpu	Osisioma Ngwa	Abia	5.220	7.277	2	
+Ama Okayi	Bende	Abia	5.820	7.625	2	
+Amaoji Lodu	Bende	Abia	5.620	7.529	2	
+Ama-Oji	Bende	Abia	5.687	7.523	2	
+Ama Ogugu	Umuahia North	Abia	5.583	7.450	2	
+Amaogudu	Aninri	Enugu	5.946	7.673	2	
+Amao	Moro	Kwara	8.710	4.447	2	
+Amao	Orolu	Osun	7.933	4.450	2	
+Amanta	Ohafia	Abia	5.687	7.740	2	
+Amansiodo	Ezeagu	Enugu	6.473	7.293	2	
+Amankwu	Arochukwu	Abia	5.509	7.820	2	
+Amakalu	Bende	Abia	5.707	7.606	2	Amankalu
+Amankalu	Bende	Abia	5.705	7.666	2	
+Amangwu	Edda	Ebonyi	5.842	7.863	2	
+Amangwu	Isuikwuato	Abia	5.828	7.521	2	
+Ama-Ngwu	Ohafia	Abia	5.667	7.870	2	
+Amange	Ushongo	Benue	7.126	8.763	2	
+Amangam	Bokkos	Plateau	9.203	8.742	2	
+Amanga	Degema	Rivers	4.750	6.917	2	
+Ammanawa	Dange-Shuni	Sokoto	12.917	5.302	2	Amanawa
+Amanagwu	Arochukwu	Abia	5.379	7.898	2	
+Amanagbene	Ekeremor	Bayelsa	5.049	5.837	2	
+Amana	Igabi	Kaduna	10.717	7.667	2	
+Amamini	Arochukwu	Abia	5.503	7.915	2	
+Amalango	Ushongo	Benue	7.264	8.934	2	
+Amala	Markurdi	Benue	7.857	8.535	2	
+Amala	Udenu	Enugu	6.941	7.540	2	Amala Umueze
+Amala	Ngor-Okpala	Imo	5.224	7.198	2	
+Amaku	Nasarawa	Nasarawa	8.238	8.128	2	
+Amaku	Isiala-Ngwa North	Abia	5.353	7.423	2	
+Amaku	Etche	Rivers	5.142	7.113	2	
+Amakpo	Ohafia	Abia	5.699	7.668	2	
+Amakohia	Ihitte/Uboma	Imo	5.618	7.353	2	
+Amakohia	Ikeduru	Imo	5.552	7.169	2	
+Amakohia	Ikeduru	Imo	5.502	7.177	2	
+Ama Izi	Ikwuano	Abia	5.366	7.583	2	
+Amaiyi	Edda	Ebonyi	5.778	7.823	2	
+Ama-Inyi	Isiala-Ngwa North	Abia	5.308	7.460	2	Ama Iyi
+Ama-Inyi	Obowo	Imo	5.594	7.384	2	
+Amai-Nge	Ndokwa West	Delta	5.752	6.228	2	
+Ama Igbo	Umuahia South	Abia	5.500	7.433	2	
+Amaidi	Isuikwuato	Abia	5.842	7.435	2	
+Amaide	Isoko South	Delta	5.333	6.165	2	
+Amaibo	Ngor-Okpala	Imo	5.382	7.126	2	
+Amai	Ndokwa West	Delta	5.753	6.204	2	
+Amahia	Ika South	Delta	6.236	6.126	2	
+Amaguwa	Ringim	Jigawa	12.268	9.058	2	
+Amagu-Anyim	Izzi	Ebonyi	6.466	8.405	2	Amagu|Anyim
+Amagu	Abakaliki	Ebonyi	6.217	8.076	2	
+Amagu	Aninri	Enugu	5.954	7.692	2	
+Amagu	Ivo	Ebonyi	5.874	7.581	2	
+Amago-Ebenebe	Awka North	Anambra	6.337	7.132	2	Amago-Ebenede
+Amagbo	Bende	Abia	5.625	7.618	2	
+Amagamari	Mafa	Borno	11.882	13.305	2	Galameri
+Amafor	Ngor-Okpala	Imo	5.344	7.078	2	
+Amaeze	Bende	Abia	5.783	7.605	2	
+Amaeze	Owerri North	Imo	5.403	7.043	2	
+Amaekwulu	Aguata	Anambra	5.977	7.050	2	
+Amaebu Ogwa	Mbaitoli	Imo	5.634	7.087	2	
+Ama-Ekpu	Edda	Ebonyi	5.823	7.851	2	
+Ama-Ekpu	Bende	Abia	5.785	7.713	2	
+Ama Ekpu	Isiala-Ngwa North	Abia	5.333	7.333	2	
+Ama-Eke	Bende	Abia	5.751	7.686	2	
+Amaeka-Iza	Ohaukwu	Ebonyi	6.652	8.044	2	
+Amadu Kulu	Bali	Taraba	8.553	11.291	2	
+Amadugama	Ogbia	Bayelsa	4.696	6.257	2	
+Amadu	Teungo	Adamawa	8.195	11.999	2	
+Amadim-Olo	Ezeagu	Enugu	6.430	7.180	2	
+Amadi	Port-Harcourt	Rivers	4.791	7.029	2	
+Amachi	Abakaliki	Ebonyi	6.292	8.265	2	
+Amachi	Odukpani	Cross River	5.398	8.005	2	
+Amachara	Igbo-Eze-North	Enugu	6.979	7.491	2	
+Amachara	Abakaliki	Ebonyi	6.185	8.117	2	
+Amabo	Ibaji	Kogi	6.627	6.716	2	
+Amabiriba	Ivo	Ebonyi	5.945	7.626	2	
+Amabanba	Aninri	Enugu	5.968	7.666	2	
+Amaba	Ikwuano	Abia	5.450	7.542	2	
+Amaatimin	Konshisha	Benue	7.105	8.742	2	
+Ama Apu Ife	Osisioma Ngwa	Abia	5.127	7.281	2	
+Ama Apu	Ugwunagbo	Abia	5.000	7.400	2	
+Ama Akama	Umuahia South	Abia	5.468	7.481	2	
+Ama Aji	Omumma	Rivers	5.155	7.250	2	
+Ama-Achi	Isiala-Ngwa South	Abia	5.312	7.511	2	
+Ama-Achara	Umuahia South	Abia	5.534	7.456	2	
+Ama	Gboko	Benue	7.491	8.710	2	
+Alabakan Amututu	Ife South	Osun	7.232	4.479	2	
+Amao	Afijio	Oyo	7.726	3.878	2	
+Amodu	Afijio	Oyo	7.718	3.959	2	
+Amusan	Akinyele	Oyo	7.592	3.992	2	
+Abam Ama	Okrika	Rivers	4.777	7.088	2	
+Amunigun	Ido	Oyo	7.397	3.773	2	
+Amao	Oluyole	Oyo	7.272	3.789	2	
+Amogun	Oluyole	Oyo	7.299	3.942	2	
+Amatagwolo	Port-Harcourt	Rivers	4.792	6.980	2	Amatangoolo
+Amckuka	Kala-Balge	Borno	11.728	14.255	2	
+Amcigo	Kala-Balge	Borno	11.668	14.251	2	
+Adu-Ama	Akuku Toru	Rivers	4.363	6.541	2	
+Amdi	Dekina	Kogi	7.520	6.841	2	
+Amkwaha	Gombi	Adamawa	10.132	12.474	2	
+Ameche	Gwer East	Benue	7.186	8.347	2	
+Amoda	Ohimini	Benue	7.193	8.085	2	
+Tse Amua	Gboko	Benue	7.394	8.997	2	
+Amala	Gwer West	Benue	7.562	8.216	2	
+Amise	Gwer West	Benue	7.612	8.216	2	
+Tse-Amoche	Markurdi	Benue	7.684	8.386	2	
+Amanda	Doma	Nasarawa	7.941	8.267	2	
+Amakka	Ishielu	Ebonyi	6.241	7.871	2	
+Amadim-Olo	Ezeagu	Enugu	6.441	7.180	2	
+Ama-Awji	Enugu East	Enugu	6.517	7.521	2	
+Amono	Uzo-Uwani	Enugu	6.762	7.205	2	
+America	Ogoja	Cross River	6.626	8.833	2	
+Amada	Bunza	Kebbi	12.194	3.915	2	
+Amarawa	Dan Musa	Katsina	12.158	7.520	2	
+Ambarura	Gada	Sokoto	13.606	5.536	2	
+Tungan Ama	Kware	Sokoto	13.258	5.253	2	
+Mallam Aminu	Faskari	Katsina	11.649	7.025	2	
+Ungwan Amodu	Danja	Katsina	11.465	7.395	2	
+Ungwan Amadu	Dandume	Katsina	11.344	7.238	2	
+Ungwan Amadu	Giwa	Kaduna	11.338	7.438	2	
+Tunga Amadu	Koko-Besse	Kebbi	11.263	4.508	2	
+Amasuoma	Burutu	Delta	5.288	5.709	2	
+Ambebro	Burutu	Delta	5.265	5.668	2	
+Amatebo	Bomadi	Delta	5.164	5.917	2	
+Amatu-Ilaje	Ekeremor	Bayelsa	5.069	5.404	2	
+Amatu	Ekeremor	Bayelsa	5.081	5.398	2	Amatu-Ijaw
+Jasha Amadu	Argungu	Kebbi	12.643	4.477	2	
+Amasingbene	Ekeremor	Bayelsa	4.954	5.545	2	
+Amatefegbene	Southern Ijaw	Bayelsa	4.687	5.773	2	
+Amatafugbene	Southern Ijaw	Bayelsa	4.619	5.766	2	Amatafagbene
+Amotu	Ekeremor	Bayelsa	4.927	5.461	2	Amatu|Old Amatu
+Amo-Ebilene	Ekeremor	Bayelsa	4.822	5.498	2	
+Amoji	Ugwunagbo	Abia	4.986	7.314	2	
+Ammaman	Ika	Akwa Ibom	4.977	7.494	2	
+Amadi Flats	Port-Harcourt	Rivers	4.789	7.016	2	
+Tamuna Ama	Ogu Bolo	Rivers	4.720	7.203	2	
+Ama-Friday	Andoni	Rivers	4.493	7.420	2	
+Ama-Miller	Andoni	Rivers	4.486	7.449	2	
+Amatamuno	Andoni	Rivers	4.489	7.460	2	
+Ama-Alibi	Andoni	Rivers	4.488	7.468	2	
+Asuk-Ama	Andoni	Rivers	4.475	7.479	2	
+Amansa	Andoni	Rivers	4.460	7.339	2	
+Ama-Ekut	Andoni	Rivers	4.447	7.483	2	
+Ama-Renner	Andoni	Rivers	4.435	7.425	2	
+Amagu	Ivo	Ebonyi	5.926	7.561	2	
+Amiyima	Edda	Ebonyi	5.953	7.827	2	
+Ameta	Edda	Ebonyi	5.905	7.767	2	
+Amuraw	Okigwe	Imo	5.801	7.302	2	
+Amaibo	Isuikwuato	Abia	5.775	7.500	2	
+Amancho	Edda	Ebonyi	5.809	7.840	2	
+Amamba	Ohafia	Abia	5.691	7.728	2	
+Amaokai	Bende	Abia	5.752	7.667	2	
+Ameke	Bende	Abia	5.741	7.595	2	
+Amedukwe	Bende	Abia	5.662	7.506	2	
+Amabia-Elu	Bende	Abia	5.645	7.655	2	
+Amazu	Bende	Abia	5.641	7.672	2	
+Amazu	Umuahia North	Abia	5.524	7.566	2	
+Amuzuoro	Umuahia North	Abia	5.520	7.538	2	
+Amanze	Obowo	Imo	5.578	7.399	2	
+Amuzi	Obowo	Imo	5.574	7.319	2	
+Amaba-Ubibia	Bende	Abia	5.500	7.660	2	
+Ubila Ametiti	Arochukwu	Abia	5.408	7.931	2	
+Amangwu	Arochukwu	Abia	5.396	7.883	2	
+Ama Oji	Isiala-Ngwa South	Abia	5.387	7.379	2	
+Ujari & Amanagu	Odukpani	Cross River	5.298	7.980	2	
+Amaba Ime	Ikwuano	Abia	5.462	7.541	2	
+Amanini	Arochukwu	Abia	5.494	7.886	2	
+Amaetiti	Arochukwu	Abia	5.491	7.899	2	
+Amiyi	Arochukwu	Abia	5.475	7.917	2	
+Amaebe	Arochukwu	Abia	5.442	7.908	2	
+Ameke	Arochukwu	Abia	5.438	7.912	2	
+Amodu	Arochukwu	Abia	5.429	7.909	2	
+Amachi	Arochukwu	Abia	5.400	7.968	2	
+Ama Anyam	Ikot Ekpene	Akwa Ibom	5.190	7.660	2	
+Amechi	Ohaozara	Ebonyi	5.990	7.896	2	
+Amonye	Umu-Nneochi	Abia	5.938	7.549	2	
+Amangbara	Afikpo North	Ebonyi	5.883	7.950	2	
+Amurie	Ohafia	Abia	5.769	7.760	2	
+Amaozara	Bende	Abia	5.730	7.620	2	
+Amabanta	Bende	Abia	5.735	7.605	2	
+Amabo	Bende	Abia	5.729	7.606	2	
+Ama-Ukwu	Ohafia	Abia	5.693	7.671	2	
+Ama-Oji	Bende	Abia	5.688	7.653	2	
+Amayi	Bende	Abia	5.681	7.645	2	
+Ama-Ekpu	Ohafia	Abia	5.650	7.834	2	
+Amabia-Ala	Arochukwu	Abia	5.649	7.678	2	
+Ameke Isiegbu	Bende	Abia	5.639	7.621	2	
+Ama Ogbu	Arochukwu	Abia	5.587	7.699	2	
+Amamini	Edda	Ebonyi	5.779	7.861	2	
+Amakoroma	Arochukwu	Abia	5.415	7.957	2	
+Amoebo	Orsu	Imo	5.819	6.962	2	
+Amazu I	Oru East	Imo	5.796	6.976	2	
+Amagu	Oru East	Imo	5.799	6.939	2	
+Amazu II	Oru East	Imo	5.771	6.970	2	
+Amamputu-Uli	Ihiala	Anambra	5.788	6.820	2	
+Amokwa	Oru West	Imo	5.748	6.882	2	
+Lagos Iyede-Ame	Ndokwa East	Delta	5.481	6.396	2	
+Iyede Ame	Isoko North	Delta	5.458	6.436	2	
+Ami	Ogbaru	Anambra	5.840	6.705	2	
+Amukunu	Patani	Delta	5.140	6.113	2	
+Amabebegbene	Kolokuma/Opokuma	Bayelsa	5.094	6.348	2	Okotiama
+Amatolo Camp IV	Sagbama	Bayelsa	5.017	6.057	2	
+Amatolo Camp I	Southern Ijaw	Bayelsa	5.009	6.104	2	
+Amatolo Camp II	Southern Ijaw	Bayelsa	5.011	6.098	2	
+Amatolo Camp III	Southern Ijaw	Bayelsa	5.013	6.093	2	
+Amapun	Owerri West	Imo	5.475	6.950	2	
+Amasowomwan	Orhionmwon	Edo	6.262	6.036	2	Ute
+Amuwo Odofin	Amuwo Odofin	Lagos	6.472	3.263	2	
+Dahle Ama	Gwoza	Borno	11.218	13.813	2	
+Amah Juli	Nafada	Gombe	11.131	11.280	2	
+Amarchia	Fune	Yobe	11.992	11.025	2	
+Amaleghani	Abua/Odual	Rivers	4.847	6.644	2	
+Amangu	Emuoha	Rivers	4.821	6.921	2	
+Amibo	Nkanu West	Enugu	6.313	7.463	2	
+Amofea-Agu	Udi	Enugu	6.567	7.251	2	
+Amokwue-Affa	Udi	Enugu	6.607	7.357	2	
+Amokwue-Obukpa	Nsukka	Enugu	6.884	7.418	2	
+Amagu	Uzo-Uwani	Enugu	6.550	7.134	2	
+Amanata	Ohaukwu	Ebonyi	6.427	7.951	2	Amananta
+Amele	Gwer East	Benue	7.243	8.419	2	
+Amachara	Izzi	Ebonyi	6.556	8.182	2	
+Amaiyima-Onuhu	Ebonyi	Ebonyi	6.382	8.044	2	
+Amachi-Amachu	Abakaliki	Ebonyi	6.295	8.180	2	
+Uburu-Amachi	Abakaliki	Ebonyi	6.281	8.205	2	
+Ama-Uda	Izzi	Ebonyi	6.476	8.330	2	
+Amana	Ezza South	Ebonyi	6.148	8.044	2	
+Amezekwe	Ezza South	Ebonyi	6.145	8.068	2	
+Amegu-Ezza	Ezza South	Ebonyi	6.124	8.045	2	
+Amudo	Ezza South	Ebonyi	6.110	8.008	2	
+Ameka-Ikwo	Ikwo	Ebonyi	6.104	8.088	2	
+Amadu	Ezza South	Ebonyi	6.073	8.048	2	
+Ama-Okpo	Ikwo	Ebonyi	6.097	8.158	2	
+Amuda	Ikwo	Ebonyi	6.054	8.150	2	
+Amon	Ikwo	Ebonyi	6.060	8.167	2	
+Agalagu-Amagu	Ikwo	Ebonyi	6.025	8.144	2	
+Amchaka	Bama	Borno	11.480	14.289	2	
+Dan Ama	Gumel	Jigawa	12.636	9.346	2	
+Zaria Amiru	Koko-Besse	Kebbi	11.298	4.254	2	
+Rudu Amanawa	Dange-Shuni	Sokoto	12.884	5.295	2	
+Dan Amar A	Bauchi	Bauchi	10.313	9.855	2	
+Dan Amar B	Bauchi	Bauchi	10.302	9.857	2	
+Amaa	Gwer West	Benue	7.562	8.203	2	
+Amaga	Wukari	Taraba	7.830	9.203	2	
+Amimi	Logo	Benue	7.761	9.271	2	
+Amenger	Ukum	Benue	7.816	9.409	2	
+Amuta	Ukum	Benue	7.764	9.426	2	
+Amo	Logo	Benue	7.582	9.131	2	
+Amenge	Buruku	Benue	7.561	9.122	2	
+Ambha	Katsina-Ala	Benue	7.531	9.473	2	
+Gidan Amadu	Wukari	Taraba	7.895	9.500	2	
+Ama	Wukari	Taraba	7.818	9.704	2	
+Amaseshinzwa	Ukum	Benue	7.628	9.730	2	
+Hula-Amadu	Takum	Taraba	7.572	9.855	2	
+Ama	Gboko	Benue	7.435	9.065	2	
+Amire	Gboko	Benue	7.378	9.039	2	
+Ambor	Gboko	Benue	7.354	9.061	2	
+Amalado	Gboko	Benue	7.341	9.086	2	
+Amawar	Gboko	Benue	7.267	9.045	2	
+Amela	Gboko	Benue	7.256	9.076	2	
+Amande	Gboko	Benue	7.353	9.113	2	
+Ambighar	Gboko	Benue	7.319	9.130	2	
+Aminde	Katsina-Ala	Benue	7.415	9.347	2	
+Amokaha	Buruku	Benue	7.269	9.276	2	
+Ambighir	Logo	Benue	7.497	9.369	2	
+Amase	Katsina-Ala	Benue	7.317	9.396	2	
+Amatso	Katsina-Ala	Benue	7.297	9.395	2	
+Amaafu	Katsina-Ala	Benue	7.303	9.444	2	
+Amooka	Katsina-Ala	Benue	7.372	9.493	2	
+Amogema	Gboko	Benue	7.215	9.036	2	
+Amase	Ushongo	Benue	7.125	9.004	2	
+Amokaha	Ushongo	Benue	7.059	9.008	2	
+Amina	Ushongo	Benue	7.111	9.129	2	
+Amaa	Ushongo	Benue	7.082	9.146	2	
+Amo	Buruku	Benue	7.201	9.210	2	
+Amar	Ushongo	Benue	7.036	9.263	2	
+Amoshi	Katsina-Ala	Benue	7.172	9.342	2	
+Amaandiir	Katsina-Ala	Benue	7.151	9.449	2	
+Amande	Katsina-Ala	Benue	7.216	9.480	2	
+Amee	Gboko	Benue	7.451	8.760	2	
+Aminde	Gboko	Benue	7.489	8.903	2	
+Ameeya	Gboko	Benue	7.458	8.936	2	
+Amogo	Gboko	Benue	7.439	8.917	2	
+Aminde	Gboko	Benue	7.430	8.894	2	
+Amee	Gboko	Benue	7.350	8.958	2	
+Amoo	Gboko	Benue	7.315	8.861	2	
+Amua	Gboko	Benue	7.314	8.904	2	
+Ameen	Gboko	Benue	7.335	8.952	2	
+Amee	Gboko	Benue	7.292	8.947	2	
+Amiwawoye	Katcha	Niger	9.450	6.218	2	
+Jauro Amadu	Jada	Adamawa	8.800	12.172	2	
+Wuro Amadu	Jada	Adamawa	8.774	12.130	2	
+Amada	Anaocha	Anambra	6.111	6.984	2	
+Amukoko	Apapa	Lagos	6.465	3.346	2	
+Ajasa Amikanle	Alimosho	Lagos	6.638	3.248	2	
+Amah-Naitioa	Etsako West	Edo	6.871	6.410	2	
+Amah	Etsako West	Edo	6.829	6.405	2	
+Gidan Amari	Karu	Nasarawa	9.038	7.871	2	
+Amale	Wase	Plateau	8.995	10.036	2	
+Ambe Sarki	Sanga	Kaduna	9.291	8.438	2	
+Ambe Madaki	Sanga	Kaduna	9.279	8.412	2	
+Ambasi	Kokona	Nasarawa	9.022	8.163	2	
+Amare	Jema'A	Kaduna	9.384	8.245	2	
+Amantu	Sanga	Kaduna	9.357	8.629	2	
+Ampia	Qua'An Pan	Plateau	8.623	9.251	2	
+Ampia	Qua'An Pan	Plateau	8.634	9.267	2	
+Ambakagbene	Ekeremor	Bayelsa	4.829	5.826	2	
+Amurie-Nkporo	Bende	Abia	5.513	7.643	2	
+Amsaburu	Kala-Balge	Borno	12.345	14.477	2	
+Amechi	Karim Lamido	Taraba	9.548	10.991	2	Amache
+Amache	Karim Lamido	Taraba	9.437	10.872	2	
+Amala	Abeokuta South	Ogun	7.146	3.391	2	
+Amusa	Ijebu North	Ogun	7.095	4.131	2	
+Aminu	Irewole	Osun	7.465	4.173	2	
+Amula-Samu	Isokan	Osun	7.302	4.178	2	
+Amula-Akinwale	Isokan	Osun	7.301	4.189	2	
+Ani-Aminu	Aiyedade	Osun	7.421	4.351	2	
+Amina	Ife North	Osun	7.473	4.449	2	
+Oba-Amusan	Ife North	Osun	7.483	4.416	2	
+Amugba	Ife North	Osun	7.432	4.441	2	
+Amosun	Ife Central	Osun	7.606	4.536	2	
+Amuta	Atakunmosa West	Osun	7.537	4.635	2	
+Amosun-Olorisa	Atakunmosa West	Osun	7.635	4.603	2	
+Amosun	Ede South	Osun	7.648	4.537	2	
+Aminiwon	Ede South	Osun	7.654	4.555	2	
+Aminiwon	Atakunmosa West	Osun	7.659	4.603	2	
+Amiyaya	Ado Odo/Ota	Ogun	6.663	2.977	2	
+Ago-Amos	Okitipupa	Ondo	6.486	4.806	2	
+Ojudo-Amo	Ilaje	Ondo	6.024	4.897	2	
+Ameregh	Guma	Benue	8.128	8.531	2	
+Ama	Guma	Benue	8.133	8.528	2	
+Amtsa	Keana	Nasarawa	8.191	8.591	2	
+Aiye-Amodu	Ife South	Osun	7.246	4.576	2	
+Amusan	Ife South	Osun	7.223	4.521	2	
+Amula	Ife South	Osun	7.134	4.582	2	
+Amodu	Ife South	Osun	7.266	4.585	2	
+Amuye	Atakunmosa West	Osun	7.358	4.705	2	
+Amula	Ife South	Osun	7.219	4.707	2	
+Amula-Soji	Ife South	Osun	7.169	4.691	2	
+Amada	Ile Oluji/Okeigbo	Ondo	7.303	4.776	2	
+Amugba	Asa	Kwara	8.483	4.382	2	
+Amasa	Ogo Oluwa	Oyo	8.005	4.272	2	
+Amusan	Odeda	Ogun	7.194	3.552	2	
+Ameiye	Odeda	Ogun	7.278	3.639	2	
+Amalegbe	Asa	Kwara	8.623	4.271	2	
+Amobilu	Ibarapa North	Oyo	7.566	3.123	2	
+Ambekemo	Ibarapa North	Oyo	7.518	3.127	2	
+Amari	Wamba	Nasarawa	8.978	8.598	2	
+Amagara	Lafia	Nasarawa	8.610	8.734	2	
+Amire	Lafia	Nasarawa	8.533	8.699	2	
+Isale-Amoyo	Asa	Kwara	8.222	4.531	2	
+Oke-Ami	Offa	Kwara	8.194	4.669	2	
+Amanve	Akwanga	Nasarawa	8.974	8.328	2	
+Amanve	Akwanga	Nasarawa	8.988	8.336	2	
+Amarin	Ifelodun	Kwara	8.468	4.958	2	
+Jauro Amidu	Bali	Taraba	8.296	11.030	2	JauroAmidu
+Amasa	Toto	Nasarawa	8.256	7.346	2	Ainasa
+Ambere	Kokona	Nasarawa	8.646	8.144	2	
+Ardo Amadu	Sardauna	Taraba	6.548	11.194	2	
+Amadika	Sardauna	Taraba	6.857	11.213	2	
+Amokoko	Iwo	Osun	7.713	4.167	2	
+Amatangolo	Degema	Rivers	4.753	6.965	2	
+Amagu-Anyim	Izzi	Ebonyi	6.436	8.410	2	
+Amagu	Abakaliki	Ebonyi	6.203	8.124	2	
+Ndiagu-Amagu	Ikwo	Ebonyi	6.020	8.118	2	
+Amula	Ijebu North	Ogun	7.100	4.031	2	
+Wuro Jauro Amadu	Numan	Adamawa	9.587	12.020	2	WuroJauroAmadu
 Amoo Street	Agege	Lagos	6.630	3.314	1	
 Amadi-Ama Road	Port-Harcourt	Rivers	4.801	7.027	1	
 Amadi Street	Port-Harcourt	Rivers	4.815	7.011	1	
@@ -290,8 +813,6 @@ Amadasun Lane	Oredo	Edo	6.338	5.625	1
 Ambasador street	Egor	Edo	6.363	5.622	1	
 Ameze Str	Oredo	Edo	6.310	5.626	1	
 Aminu Road	Sabon Gari	Kaduna	11.115	7.731	1	
-Amuiuwu Hospital	Oredo	Edo	6.347	5.599	0	
-Amazing Academy Nurery, primary and Secondary	Oredo	Edo	6.354	5.614	0	
 Amodu Tinaji Close	Eti Osa	Lagos	6.432	3.427	1	
 Amodu Tijani Close	Eti Osa	Lagos	6.432	3.427	1	
 Amusa Street	Oshodi/Isolo	Lagos	6.558	3.331	1	
@@ -313,8 +834,6 @@ Aminu Sale Road	Municipal Area Council	FCT Abuja	9.126	7.432	1
 Jubril Aminu Crescent	Municipal Area Council	FCT Abuja	9.129	7.432	1	
 Trans-Amadi Industrial Layour Road	Port-Harcourt	Rivers	4.821	7.040	1	
 Aminu Kano Crescent	Municipal Area Council	FCT Abuja	9.075	7.472	1	
-Aminu Kano Teaching Hospital	Tarauni	Kano	11.961	8.550	0	
-Mallam Aminu Kano International Airport	Fagge	Kano	12.056	8.543	0	
 Amowie street	Egor	Edo	6.350	5.582	1	
 Agu Amaechi Street	Eti Osa	Lagos	6.471	3.617	1	
 Ambrose Alli Avenue	Oredo	Edo	6.319	5.617	1	
@@ -382,19 +901,16 @@ Udeji Amechi Ukononu	Enugu North	Enugu	6.464	7.479	1
 Udeji Amechi Ukunonu	Enugu North	Enugu	6.466	7.479	1	
 Ama-Abor Street	Enugu North	Enugu	6.455	7.558	1	
 Amechi Street	Enugu East	Enugu	6.473	7.578	1	
-Amagu Ugwu Road	Enugu South	Enugu	6.380	7.514	1	
 Amah Street	Enugu South	Enugu	6.410	7.498	1	
 Ndiagu Amaechi Road	Enugu South	Enugu	6.408	7.531	1	
 Amuri Road	Enugu East	Enugu	6.482	7.509	1	
-Amuri Road	Enugu East	Enugu	6.482	7.501	1	
 Amechi Link Road	Enugu South	Enugu	6.393	7.511	1	
 Chief Phillip Amaehule Close	Obio/Akpor	Rivers	4.862	7.045	1	
 Ammani Inuwa street	Fagge	Kano	12.008	8.531	1	
 Aminu Babandi street	Fagge	Kano	11.997	8.538	1	
 Suleiman Crescent	Nassarawa	Kano	12.003	8.569	1	Aminuddeen Abubakar Road
-Amagugwu Road	Nkanu West	Enugu	6.371	7.502	1	
 Amina Way	Ibadan North	Oyo	7.449	3.902	1	
-AMASAYE ROAD	Dambatta	Kano	12.438	8.513	1	
+Amasaye Road	Dambatta	Kano	12.438	8.513	1	
 Ama-etiti Street	Enugu East	Enugu	6.480	7.513	1	
 Umenekedi agu Amechi Road	Enugu South	Enugu	6.390	7.520	1	
 Amawbia Close	Enugu North	Enugu	6.454	7.530	1	
@@ -403,17 +919,11 @@ Amalu Close	Enugu East	Enugu	6.480	7.485	1
 Amangwu Drive	Enugu South	Enugu	6.413	7.523	1	
 Amocha Street	Enugu East	Enugu	6.506	7.506	1	
 Amoli Street	Enugu East	Enugu	6.514	7.514	1	
-Amachi Awkunanaw	Enugu South	Enugu	6.405	7.508	2	
-Amechi	Enugu South	Enugu	6.405	7.524	2	
 Amacharike Street	Enugu South	Enugu	6.402	7.486	1	
 Chief Amadi Drive	Enugu North	Enugu	6.462	7.526	1	
 Ibrahim Amoda Street	Oshodi/Isolo	Lagos	6.509	3.309	1	
 Amaize Are Street	Ìkòròdú	Lagos	6.633	3.507	1	
-Dan Amale Health Post	Kabo	Kano	11.945	8.030	0	
-Yan'Amar Health Post	Tsanyawa	Kano	12.413	8.080	0	
 Amadasun Street	Eti Osa	Lagos	6.434	3.520	1	
-Amana Medical Center	Katagum	Bauchi	11.673	10.183	0	
-Amana Clinic	Jama'Are	Bauchi	11.668	9.922	0	
 Amukpe - Agbor - Uromi Road	Okpe	Delta	5.774	5.816	1	
 Amity Estate Road	Eti Osa	Lagos	6.477	3.663	1	
 Amafor Road	Ohaji/Egbema	Imo	5.503	6.868	1	
@@ -436,7 +946,6 @@ Ama Agabi-Ubahadara Rd	Oru East	Imo	5.784	6.940	1
 Pat Amadi Street	Owerri North	Imo	5.503	7.037	1	
 Kola Amodu Close	Kosofe	Lagos	6.624	3.369	1	
 Oke Amusa Avenue	Alimosho	Lagos	6.563	3.263	1	
-American University of Nigeria	Yola North	Adamawa	9.198	12.499	0	AUN
 Amusa Savage Street	Ifo	Ogun	6.681	3.311	1	
 Alhaji Amosun Street	Oshodi/Isolo	Lagos	6.520	3.331	1	
 Amodu Street	Mushin	Lagos	6.526	3.362	1	
@@ -458,22 +967,17 @@ Amikanle Road	Alimosho	Lagos	6.657	3.254	1
 Amusan Street	Ifo	Ogun	6.676	3.309	1	
 Ameen Street	Shomolu	Lagos	6.520	3.382	1	
 Aminisan Street	Shagamu	Ogun	6.851	3.652	1	
-American International School Lagos	Eti Osa	Lagos	6.438	3.434	0	
 Ama-Onyekwere inland road	Ahiazu-Mbaise	Imo	5.520	7.264	1	
 Umunnachi-Amaozhi(Ogbe) road	Ahiazu-Mbaise	Imo	5.515	7.277	1	
 Ahmed Amusa Street	Ibeju Lekki	Lagos	6.478	3.729	1	
 Amahor - Ugun Road	Iguegben	Edo	6.469	6.200	1	
 Hon. Sani Aminu Crescent	Kaduna North	Kaduna	10.526	7.454	1	
 Amukpe - Agbor - Uromi Road	Okpe	Delta	5.770	5.859	1	
-Amukpe - Agbor - Uromi Road	Okpe	Delta	5.765	5.845	1	
-Amukpe - Agbor - Uromi Road	Okpe	Delta	5.768	5.852	1	
 Biosa Amantu Street	Oshimili South	Delta	6.204	6.708	1	
 Aminu Kano Road	Kaduna North	Kaduna	10.579	7.430	1	
 Umuaka, Ekwe, Amandugba, Amigbo and Nkwere Road	Njaba	Imo	5.677	7.025	1	
 Amechi Road	Nkanu West	Enugu	6.364	7.531	1	
-Amechi Road	Nkanu West	Enugu	6.346	7.532	1	
 Amb. Adeniran Way	Oriade	Osun	7.575	4.894	1	
-Aminu Road	Sabon Gari	Kaduna	11.107	7.726	1	Kaduna Road
 Amuto Street	Lagos Island	Lagos	6.455	3.397	1	
 Amitaye Road	Sapele	Delta	5.900	5.668	1	
 Pastor Samuel Amoja Street	Eti Osa	Lagos	6.457	3.613	1	
@@ -483,7 +987,6 @@ Amadi Chukwu Close	Obio/Akpor	Rivers	4.873	6.978	1
 Amaji Street	Obio/Akpor	Rivers	4.824	6.998	1	
 Mr. Wali Amadi Close	Obio/Akpor	Rivers	4.899	6.923	1	
 George Amewhule Street	Obio/Akpor	Rivers	4.850	7.003	1	
-Aminu Kano Way	Dala	Kano	12.005	8.495	1	
 Aminu Dutse Street	Kano Municipal	Kano	11.986	8.521	1	
 Queen Amina Crescent	Municipal Area Council	FCT Abuja	9.149	7.328	1	
 Okon Amasi Avenue	Uyo	Akwa Ibom	5.013	7.930	1	
@@ -498,59 +1001,110 @@ Amb V.E Udoyen Street	Municipal Area Council	FCT Abuja	9.025	7.547	1
 Suleiman Crescent	Nassarawa	Kano	12.003	8.561	1	Aminuddeen Abubakar Road
 Amazon Street	Municipal Area Council	FCT Abuja	9.101	7.482	1	
 Amara Olu Street	Ikeja	Lagos	6.626	3.356	1	
-Amagu Ugwu Road	Enugu South	Enugu	6.385	7.499	1	
 Obekwe Amankwe Street	Orumba North	Anambra	6.088	7.155	1	
 Amalu Street	Enugu East	Enugu	6.483	7.577	1	
 Omupo - Amodu Asungbolu Road	Ifelodun	Kwara	8.278	4.791	1	
-Amazing Filling Station	Ibadan South East	Oyo	7.346	3.885	0	
 Ameyo Adadevoh Way	Municipal Area Council	FCT Abuja	9.101	7.428	1	
-Amuzukwu Girls High School	Umuahia North	Abia	5.542	7.501	0	
-Amuwo Odofin Maternal & Childcare Centre	Amuwo Odofin	Lagos	6.462	3.302	0	
 Amojo Benjamin Street	Municipal Area Council	FCT Abuja	9.084	7.385	1	
-Amojo Benjamin Street	Municipal Area Council	FCT Abuja	9.080	7.386	1	
 Odiabidi Aminigboko Rd	Abua/Odual	Rivers	4.928	6.628	1	
 AN Amosu Avenue	Municipal Area Council	FCT Abuja	9.040	7.550	1	
 Lawal Amoo Street	Eti Osa	Lagos	6.451	3.567	1	
-Obu Amarachukwu Emmanuel Hospital & Maternity	Enugu East	Enugu	6.482	7.509	0	
-Amarawa Health Post	Gaya	Kano	11.818	8.901	0	
-Amarchiyari Maternity	Gamawa	Bauchi	12.135	10.450	0	
 Amaka Ndoma-Egba Street	Municipal Area Council	FCT Abuja	8.980	7.462	1	
 AM Mamu Close	Municipal Area Council	FCT Abuja	9.042	7.548	1	
-Amac Primary Health Care Galadimawa	Municipal Area Council	FCT Abuja	8.992	7.426	0	
-MUSA YAR'ADUA MEMORIAL PRIMARY SCHOOL (AMBUTTAI)	Muhammadu Dikko Stadium	Katsina	12.992	7.598	0	
 Amikanle Road	Alimosho	Lagos	6.662	3.255	1	
 Uzo Ogbanzu Amaowerre	Orumba South	Anambra	6.028	7.215	1	Uzo Amaowerre
 Amusa Street	Shomolu	Lagos	6.521	3.383	1	
 Amb V.E Udoyen	Municipal Area Council	FCT Abuja	9.024	7.546	1	
-Amuro Town Hall	Afikpo North	Ebonyi	5.886	7.933	0	
-Amodu Bello way	Ilorin East	Kwara	8.480	4.588	1	
 AN Amosu Street	Municipal Area Council	FCT Abuja	9.044	7.547	1	
 Victor Amosu Street	Eti Osa	Lagos	6.440	3.566	1	
-Amihie Umuchu Primary Health Center	Aguata	Anambra	5.953	7.132	0	
-Oke Amusa Avenue	Alimosho	Lagos	6.567	3.264	1	
 Rami Akinyele Amosu Street	Eti Osa	Lagos	6.450	3.569	1	
-Ama Agabi-Ubahadara Rd	Oru East	Imo	5.788	6.933	1	
 Egemole-Ubahadara-Amagu Ring Rd	Oru East	Imo	5.790	6.932	1	
 Amachi Street	Afikpo North	Ebonyi	5.878	7.937	1	
-Enuguagu/amangwu health center	Nkanu West	Enugu	6.331	7.509	0	
 Amoke Alashela Street	Alimosho	Lagos	6.620	3.283	1	
-Amina Way	Ibadan North	Oyo	7.444	3.906	1	
 IO Amao Avenue	Municipal Area Council	FCT Abuja	9.040	7.545	1	
 IO Amao Avenue	Municipal Area Council	FCT Abuja	9.040	7.546	1	
-Amawbia Street	Enugu South	Enugu	6.420	7.497	1	
 Amudalat Onigbanjo Crescent	Eti Osa	Lagos	6.463	3.629	1	
-Amagugwu Road	Enugu South	Enugu	6.386	7.502	1	
 Amusa Arowolo Street	Ìkòròdú	Lagos	6.622	3.503	1	
 Oseni Amoja Street	Eti Osa	Lagos	6.457	3.614	1	
 HRM. King Amen Sariki Road	Yenegoa	Bayelsa	4.867	6.210	1	
+Queen Amina College	Kaduna South	Kaduna	10.476	7.421	0	QAC|QAC
+Mall of America	Oredo	Edo	6.325	5.615	0	
+Amena International School	Oredo	Edo	6.306	5.601	0	
+Amazing grace nur/pry	Oredo	Edo	6.334	5.609	0	
+Ndiagu Amechi Uwani Health Center	Enugu South	Enugu	6.408	7.532	0	
+St. Theresa Primary School Amainyi	Obowo	Imo	5.583	7.389	0	
+Ekeamainyi Market Amainyi	Obowo	Imo	5.586	7.386	0	
+Ekeikpa Market Amainyi	Ihitte/Uboma	Imo	5.603	7.381	0	
+Amainyi High School Amainyi	Obowo	Imo	5.595	7.386	0	
+Madarasatu Amina Islamiyya Primary School	Nassarawa	Kano	12.027	8.551	0	
+Unguwar Malam Amadu Health Post	Rogo	Kano	11.493	7.772	0	
+Dutsan Amare Health Post	Karaye	Kano	11.827	7.991	0	
+Amasad Clinic	Bauchi	Bauchi	10.301	9.830	0	
+Amazing Investments Limited	Lagelu	Oyo	7.435	3.944	0	
+Amefua Investment Filling Station	Uvwie	Delta	5.536	5.759	0	
+Amaris Nursery and Primary School	Port-Harcourt	Rivers	4.818	7.066	0	
+Captain Amadi Polytecnic	Obio/Akpor	Rivers	4.835	6.995	0	
+Mobile Ambulance Center	Sokoto South	Sokoto	13.051	5.246	0	
+Amurin Market	Ọ̀wọ̀	Ondo	7.264	5.466	0	
+Amurin Village Market	Ọ̀wọ̀	Ondo	7.125	5.579	0	
+Anglican Model College Ogbomoso (AMCO)	Ogbomosho North	Oyo	8.142	4.242	0	
+Afro-American Wealth Oil and Gaz	Alimosho	Lagos	6.582	3.284	0	
+Amnesty oil & Gas nig Ltd	Akko	Gombe	10.305	10.932	0	
+Amanawa Leprosy Centre	Kalgo	Kebbi	12.355	4.188	0	
+Zauro Ambrusa General Hospital	Birnin Kebbi	Kebbi	12.497	4.313	0	
+Amino Kanu Teaching Hospital	Nassarawa	Kano	11.977	8.594	0	
+Amadiya Muslim Hospital	Borgu	Niger	9.875	4.518	0	
+St. Peters Primary School Amode-Ota	Ado Odo/Ota	Ogun	6.596	2.954	0	
+St. Peters Primary School Amode-Ota	Ado Odo/Ota	Ogun	6.672	3.045	0	
+Amechi Bus stop	Enugu South	Enugu	6.410	7.504	0	
+Al-Ameen Hospital, Awotan, Apete	Ido	Oyo	7.449	3.862	0	
+American International School Abuja	Municipal Area Council	FCT Abuja	9.023	7.457	0	
+Amina Zwindila Foundation School	Jos North	Plateau	9.920	8.911	0	
+Gibril Aminu model school	Bauchi	Bauchi	10.310	9.799	0	
+Aman Clinic Makera Cd 35 Zango Road Sabon Gari South	Kaduna South	Kaduna	10.507	7.407	0	
+Amina Nmadi Health Facility	Kaduna South	Kaduna	10.495	7.403	0	
+Amina Hospital And Maternity	Kaduna South	Kaduna	10.455	7.426	0	
+Queen Amina Infirmary	Kaduna South	Kaduna	10.475	7.422	0	
+Gomna Awan Hospital Queen Amina College Pobox 211	Kaduna South	Kaduna	10.475	7.423	0	
+Amrullah Hospital	Kaduna South	Kaduna	10.515	7.399	0	
+Alaso Amikanle Primary Health Care Center	Alimosho	Lagos	6.650	3.245	0	
+Amen Health Center	Alimosho	Lagos	6.634	3.281	0	
+Amuwo Mile 2 Primary Health Center	Alimosho	Lagos	6.562	3.270	0	
+Am Hospital	Mushin	Lagos	6.502	3.328	0	
+Amazing Grace Villa	Akure South	Ondo	7.290	5.148	0	
+Taofiq Amabi Global service	Iwo	Osun	7.644	4.168	0	
+Amc Hospital	Amuwo Odofin	Lagos	6.465	3.314	0	
+Aminat Convalesce Home	Amuwo Odofin	Lagos	6.442	3.312	0	
+Jes 7 Jes Clinic Amuwo Housing	Amuwo Odofin	Lagos	6.448	3.280	0	
+Amazing success model academy	Alimosho	Lagos	6.532	3.235	0	
+Amana School	Ungongo	Kano	12.038	8.568	0	
+Madrasatul Zadul Ma Am Islamiyya	Ungongo	Kano	12.055	8.582	0	
+Amatulrahman Royal Int' School Kano	Gwale	Kano	11.964	8.468	0	
+Amatulrahaman Royal Intnl Schools	Gwale	Kano	11.961	8.469	0	
+AMAO hall	Kaduna North	Kaduna	10.610	7.440	0	
+Ita Amodu Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.497	4.539	0	
+Ipata Market., Amilegbe Road, Ilorin, Nigeria	Ilorin East	Kwara	8.499	4.562	0	
+Ambassador Kingsley Motors Nig Ltd	Municipal Area Council	FCT Abuja	9.121	7.386	0	
+Ojuelegba Amala Point Idu Junction	Municipal Area Council	FCT Abuja	9.037	7.413	0	
+Amuiuwu Hospital	Oredo	Edo	6.347	5.599	0	
+Amazing Academy Nurery, primary and Secondary	Oredo	Edo	6.354	5.614	0	
+Aminu Kano Teaching Hospital	Tarauni	Kano	11.961	8.550	0	
+Mallam Aminu Kano International Airport	Fagge	Kano	12.056	8.543	0	
+Dan Amale Health Post	Kabo	Kano	11.945	8.030	0	
+Yan'Amar Health Post	Tsanyawa	Kano	12.413	8.080	0	
+Amana Medical Center	Katagum	Bauchi	11.673	10.183	0	
+Amana Clinic	Jama'Are	Bauchi	11.668	9.922	0	
+American University of Nigeria	Yola North	Adamawa	9.198	12.499	0	AUN
+American International School Lagos	Eti Osa	Lagos	6.438	3.434	0	
+Amazing Filling Station	Ibadan South East	Oyo	7.346	3.885	0	
+Amuzukwu Girls High School	Umuahia North	Abia	5.542	7.501	0	
+Amuwo Odofin Maternal & Childcare Centre	Amuwo Odofin	Lagos	6.462	3.302	0	
+Obu Amarachukwu Emmanuel Hospital & Maternity	Enugu East	Enugu	6.482	7.509	0	
+Amarawa Health Post	Gaya	Kano	11.818	8.901	0	
+Amarchiyari Maternity	Gamawa	Bauchi	12.135	10.450	0	
+Amac Primary Health Care Galadimawa	Municipal Area Council	FCT Abuja	8.992	7.426	0	
+Musa Yar'Adua Memorial Primary School (Ambuttai)	Muhammadu Dikko Stadium	Katsina	12.992	7.598	0	
+Amuro Town Hall	Afikpo North	Ebonyi	5.886	7.933	0	
+Amihie Umuchu Primary Health Center	Aguata	Anambra	5.953	7.132	0	
+Enuguagu/amangwu health center	Nkanu West	Enugu	6.331	7.509	0	
 Dutsin-Amare Primary School	Muhammadu Dikko Stadium	Katsina	12.990	7.611	0	
-Amanga	Sule Tankakar	Jigawa	12.637	9.127	2	
-Amaryawa	Roni	Jigawa	12.571	8.363	2	
-Dan Ama	Gumel	Jigawa	12.628	9.342	2	
-Zaria Amiru	Koko-Besse	Kebbi	11.306	4.243	2	
-Ambursa	Birnin Kebbi	Kebbi	12.527	4.337	2	
-Amarawa	Warawa	Kano	11.902	8.775	2	
-Amchaka	Bama	Borno	11.533	14.307	2	
-Amarmari	Zaki	Bauchi	12.119	10.365	2	
-Amuwo Odofin	Amuwo Odofin	Lagos	6.447	3.266	2	
-Rudu Amanawa	Dange-Shuni	Sokoto	12.885	5.292	2	

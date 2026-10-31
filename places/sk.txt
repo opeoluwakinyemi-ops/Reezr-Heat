@@ -1,3 +1,10 @@
+Ukwa East	Ukwa East	Abia	4.900	7.367	2	Agbegbe Ijoba Ibile Ilaorun Ukwa|Skhidna Ukva|Tang Ukwa|Ukva-Ist|Ukwa Est|Ukwa ta Gabas
+Hilli Skh Said	Gwoza	Borno	11.315	13.924	2	
+Skuru	Madagali	Adamawa	10.761	13.499	2	
+Skuf	Michika	Adamawa	10.513	13.342	2	
+Skatikume	Gulani	Yobe	11.057	11.770	2	
+Skin Road	Warri South	Delta	5.511	5.753	1	
+skizzle road	Nassarawa	Kano	12.010	8.612	1	
 Skin Clinic	Bama	Borno	11.526	13.688	0	
 Skom ng	Jos North	Plateau	9.956	8.898	0	
 Skane Radiologistic center	Jos North	Plateau	9.897	8.882	0	
@@ -5,6 +12,4 @@ Sky Crest High School	Bauchi	Bauchi	10.313	9.825	0
 Skills Specialist Hospital	Kaduna North	Kaduna	10.500	7.437	0	
 Blue Sky Hospital	Alimosho	Lagos	6.593	3.290	0	
 Sky Memorial Bus Stop	Municipal Area Council	FCT Abuja	9.066	7.457	0	
-Skin Road	Warri South	Delta	5.511	5.753	1	
 Galway Skane Hospital	Warri South	Delta	5.528	5.750	0	
-skizzle road	Nassarawa	Kano	12.010	8.612	1	
