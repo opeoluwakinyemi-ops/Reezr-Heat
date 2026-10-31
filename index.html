@@ -53,6 +53,14 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .band .big span{font-size:30px;font-weight:600;letter-spacing:0}
 .band h2{font-size:24px;margin-top:8px;font-weight:800}
 .band p{margin:4px 0 0;opacity:.95}
+/* Heat scale: the five levels with a marker. Widths follow the length of each name. */
+.scale{position:relative;margin-top:12px;--cols:1.3fr .8fr .7fr 1.15fr 1fr}
+.scale .track,.scale .names{display:grid;grid-template-columns:var(--cols);gap:2px}
+.scale .track{height:10px;padding:2px;background:#fff;border-radius:999px;overflow:hidden;box-sizing:content-box}
+.scale .track i{display:block}
+.scale .names{font-size:11px;margin-top:5px;padding:0 2px;text-align:center}
+.scale .names span{opacity:.85}.scale .names .on{opacity:1;font-weight:700}
+#scale-m{position:absolute;top:-4px;width:6px;height:22px;margin-left:-3px;background:#12202b;border:2px solid #fff;border-radius:4px;box-sizing:border-box;transition:left .35s}
 #lvlsub{font-size:17px;font-weight:600;line-height:1.35;margin-top:6px;opacity:1}
 .acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .acts button{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:999px;padding:10px 14px;background:#fff;color:#0a4f66;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
@@ -148,7 +156,7 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
 }
 [hidden]{display:none!important}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-@media (prefers-reduced-motion:reduce){.band{transition:none}}
+@media (prefers-reduced-motion:reduce){.band,#scale-m{transition:none}}
 </style>
 </head>
 <body>
@@ -168,7 +176,7 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
 <div class="col-a">
 <div class="band" id="band" aria-live="polite">
 <div class="where" id="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small></div></div>
-<div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><p id="lvlsub"></p>
+<div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><div class="scale" id="scale" role="img"><div class="track"></div><b id="scale-m"></b><div class="names"></div></div><p id="lvlsub"></p>
 <div class="acts" id="back-w" hidden><button id="back"><span data-ic="clock"></span>Back to now</button></div></div>
 <div id="start"><h2 id="sh">How hot does it feel where you are?</h2><p id="sp">See the live heat for your town and what to do to stay safe.</p>
 <div class="acts" id="acts"><button id="go-loc"><span data-ic="locate"></span>Use my location</button><button id="go-town"><span data-ic="search"></span>Search my town</button></div></div>
@@ -374,6 +382,17 @@ function render(){
  $("lvl").textContent="Feels like · "+lv.n;$("lvlsub").textContent=S.sel==null?answer():lv.s;
  $("wear").innerHTML=tips(lv.w);$("do").innerHTML=tips(lv.d);$("avoid").innerHTML=tips(lv.a,true);
  $("em").hidden=hi<32;
+ drawScale(hi,lv);
+}
+// Where this reading sits among the five levels: names on the scale, marker within its level.
+const SCALE=[["Comfortable",20,27,1.3],["Warm",27,32,.8],["Hot",32,39.5,.7],["Dangerous",39.5,51,1.15],["Extreme",51,58,1]];
+function drawScale(v,lv){
+ const box=$("scale"),i=LV.indexOf(lv),all=SCALE.reduce((a,x)=>a+x[3],0),[,lo,hi,w]=SCALE[i];
+ if(!box.querySelector("i")){box.querySelector(".track").innerHTML=LV.map(l=>"<i style='background:"+l.c+"'></i>").join("")}
+ box.querySelector(".names").innerHTML=SCALE.map((x,j)=>"<span"+(j===i?" class='on'":"")+">"+x[0]+"</span>").join("");
+ const before=SCALE.slice(0,i).reduce((a,x)=>a+x[3],0),within=Math.max(0,Math.min(1,(v-lo)/(hi-lo)));
+ $("scale-m").style.left=Math.max(1,Math.min(99,(before+w*within)/all*100))+"%";
+ box.setAttribute("aria-label","Heat scale: "+lv.n+", level "+(i+1)+" of 5");
 }
 // Plan ahead: the hottest part of the rest of today and of tomorrow, the cooler hours to go
 // out, and every hour to tap for its advice.
