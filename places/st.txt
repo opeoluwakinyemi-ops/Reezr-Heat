@@ -1,0 +1,873 @@
+New Stadium	Jos North	Plateau	9.950	8.867	2	
+Fadeyi Bus Stop	Shomolu	Lagos	6.525	3.368	0	
+St. Saviours Nusery School Complex	Surulere	Lagos	6.489	3.376	0	
+St Anthony's Primary School, Umudioka	Idemili North	Anambra	6.162	6.919	0	
+ASCL Staff Comprehensive Secondary School III	Ajaokuta	Kogi	7.553	6.630	0	
+ASCL Staff Comprehensive Secondary School II	Ajaokuta	Kogi	7.554	6.645	0	
+ASCL Staff Secondary School I	Ajaokuta	Kogi	7.550	6.600	0	
+NNPC Filling Sta	Jos North	Plateau	9.957	8.864	0	
+Blessed St. Paul Memorial Group of Schools	Egor	Edo	6.366	5.587	0	
+Standard School	Egor	Edo	6.363	5.589	0	
+St. Phillips Education School	Egor	Edo	6.362	5.577	0	
+St Paul Memorial Secondary School	Egor	Edo	6.366	5.586	0	
+St Mary Dedidcation Brithish School	Oredo	Edo	6.312	5.628	0	
+Bus Stop	Oredo	Edo	6.329	5.628	0	
+St Michael Primary School	Ifelodun	Kwara	8.278	4.791	0	
+Nigeria Prisons Staff Nursery/Primary/Secondary School	Oredo	Edo	6.295	5.596	0	
+Stores	Oredo	Edo	6.302	5.603	0	
+ST. Mary Dedication Education Centre	Oredo	Edo	6.322	5.617	0	
+Stores	Oredo	Edo	6.302	5.605	0	
+Idi-osan Bus Stop	Egbeda	Oyo	7.448	4.026	0	
+Mile 12 Bus Stop	Kosofe	Lagos	6.606	3.400	0	
+E.C.T.S Bus Stop	Oredo	Edo	6.333	5.605	0	
+E.C.T.S Bus Stop	Egor	Edo	6.329	5.588	0	
+St Paul's Primary School	Oredo	Edo	6.329	5.615	0	
+Bus Stop	Oredo	Edo	6.345	5.636	0	
+ECTS (Comrade) Bus Stop	Oredo	Edo	6.337	5.621	0	
+Bus Stop	Oredo	Edo	6.335	5.623	0	
+St. Peters Anglican Daycare Nursry/Primary School	Oredo	Edo	6.344	5.622	0	
+ESUT Medicine Student's Hostel	Enugu North	Enugu	6.463	7.496	0	
+Good Hope Stars Schools	Enugu East	Enugu	6.466	7.496	0	
+Hematology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
+Pharmacy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
+St Leo The Great Nursery & Primary School	Enugu East	Enugu	6.480	7.508	0	
+Enugu State College Of Education (Technical), Enugu	Enugu North	Enugu	6.460	7.499	0	
+Enugu State College Of Education Technical Enugu	Enugu North	Enugu	6.460	7.499	0	
+ekiti state government territory	Adó-Èkìtì	Ekiti	7.623	5.213	3	
+St. Theresa Primary School Amainyi	Obowo	Imo	5.583	7.389	0	
+National Bus Stop	Muhammadu Dikko Stadium	Katsina	12.984	7.601	0	
+Osuntokun Stop	Ibadan North	Oyo	7.423	3.910	0	
+Awolowo Stop	Ibadan North	Oyo	7.417	3.911	0	
+Bodija Market Stop	Ibadan North	Oyo	7.434	3.912	0	
+Aare Stop	Ibadan North	Oyo	7.423	3.910	0	
+Secretariat Stop	Ibadan North	Oyo	7.409	3.911	0	
+St. Joseph's Primary School	Ogoja	Cross River	6.498	8.552	0	
+Custom Staff School	Fagge	Kano	12.033	8.518	2	
+GSS Staff Quarters	Gwarzo	Kano	11.914	7.926	2	
+mol mutlad filling stations	Ibadan North	Oyo	7.380	3.899	0	
+Boluwaji Bus Stop	Ibadan South East	Oyo	7.341	3.907	0	
+Dogo Bus Stop	Ibadan South West	Oyo	7.383	3.828	0	
+St. Peters Maternity Health Centre, Aperin	Ibadan North East	Oyo	7.375	3.919	0	
+Synagogue Bus-Stop	Alimosho	Lagos	6.546	3.272	0	
+Baptist Bus Stop	Lagelu	Oyo	7.433	3.942	0	
+Last bus stop	Alimosho	Lagos	6.499	3.242	0	
+St Louis Secondary School Bompai	Nassarawa	Kano	12.019	8.563	0	
+Mbaise Secondary School, Aboh Mbaise, Imo State	Aboh-Mbaise	Imo	5.476	7.269	0	
+St. Joseph Primary School	Ile Oluji/Okeigbo	Ondo	7.165	4.729	0	
+St. John Primary School	Ile Oluji/Okeigbo	Ondo	7.159	4.725	0	
+St. Andrew Primary School	Ile Oluji/Okeigbo	Ondo	7.162	4.725	0	
+St. Gabriel Primary School	Ile Oluji/Okeigbo	Ondo	7.165	4.724	0	
+Ojuore bus stop	Ado Odo/Ota	Ogun	6.689	3.226	0	
+Iya Segun bus stop	Alimosho	Lagos	6.499	3.245	0	
+Judiciary bus stop	Afikpo North	Ebonyi	5.806	7.924	0	
+Liberty Bus-Stop	Alimosho	Lagos	6.613	3.267	0	
+LIVING STONE SCHOOL	Tarauni	Kano	11.962	8.536	0	
+Stop over bus stop	Oshodi/Isolo	Lagos	6.554	3.325	0	
+Junction bus stop	Oshodi/Isolo	Lagos	6.552	3.329	0	
+St Luke Petroleum	Uvwie	Delta	5.546	5.774	0	
+Senior Staff Cop Filling Station	Warri South	Delta	5.545	5.744	0	
+State School of Nursing	Warri South	Delta	5.535	5.743	0	
+State School,  Eyabugbe Primary School	Uvwie	Delta	5.542	5.762	0	
+St. Anthony Group of School	Uvwie	Delta	5.541	5.761	0	
+St. Philomena School	Uvwie	Delta	5.551	5.777	0	
+St. Luke Pet. Ltd. Filling Station	Uvwie	Delta	5.559	5.776	0	
+Star of David Intl. School	Uvwie	Delta	5.555	5.770	0	
+State School Okugbe Primary School	Uvwie	Delta	5.562	5.745	0	
+Standard High School	Uvwie	Delta	5.565	5.762	0	
+Aso Treasures Standard High School	Yenegoa	Bayelsa	4.930	6.307	0	
+Oja Ota Bus Stop	Ado Odo/Ota	Ogun	6.684	3.215	0	
+St. Luke's School	Uvwie	Delta	5.547	5.771	0	
+St. Paul's Nursery and Primary School, Warri City	Warri South	Delta	5.508	5.763	0	
+Staford House Intl. College	Uvwie	Delta	5.545	5.782	0	
+Staford House Nursery and Primary School	Uvwie	Delta	5.545	5.782	0	
+Nobel Stride Schools	Uvwie	Delta	5.562	5.774	0	
+Izisco Obos	Uvwie	Delta	5.537	5.759	0	Izisco Obos Institite of Maritime Studies
+Twinkle Star School	Uvwie	Delta	5.533	5.764	0	
+Izisco Obos Institute of Maritime Studies and Texh	Uvwie	Delta	5.539	5.757	0	
+General Paint Bus Stop	Eti Osa	Lagos	6.471	3.590	0	
+St. Augustine Schools	Warri South	Delta	5.532	5.757	0	
+Paragon Clinic and Imaging	Obio/Akpor	Rivers	4.827	7.015	0	Paragon Clinic Stadium Road
+Stark Filling Station	Obio/Akpor	Rivers	4.848	7.064	0	
+State Primary School	Obio/Akpor	Rivers	4.829	7.038	0	
+State Primary School	Obio/Akpor	Rivers	4.837	7.047	0	State Primary School  Rumorolu
+St Peter Ojuolape	Egbeda	Oyo	7.447	4.031	0	
+Eleshingodogbo Bus-stop	Egbeda	Oyo	7.450	4.032	0	
+State School Olodi Primary School	Warri South	Delta	5.526	5.757	0	
+St. Theresa 's Group of Schools	Udu	Delta	5.508	5.831	0	
+Katsina State Transport Authority	Muhammadu Dikko Stadium	Katsina	12.981	7.587	0	
+State Epid Unit	Sokoto South	Sokoto	13.050	5.246	0	
+Elele Bus stop	Ìkòròdú	Lagos	6.673	3.479	0	
+Royal Step International School	Obio/Akpor	Rivers	4.856	6.972	0	
+Armed Forces Command and Staff College Secondary School, Jaji.	Igabi	Kaduna	10.843	7.561	0	
+St. Patrick primary School Iyamoyong	Obubra	Cross River	5.972	8.358	0	
+St. Peter's Government Elementary School	Ife Central	Osun	7.493	4.556	0	
+Badiko Bus Stop	Kaduna South	Kaduna	10.534	7.410	0	
+Ogijo Bus Stop	Shagamu	Ogun	6.706	3.510	0	
+Rock Canaan bus stop	Ado Odo/Ota	Ogun	6.731	3.269	0	
+Delta State Polytechnic, Ogwashi-Uku	Aniocha South	Delta	6.225	6.571	0	
+School of Postgraduate Studies FUD	Dutse	Jigawa	11.727	9.363	0	
+Aruna Bus Stop	Ìkòròdú	Lagos	6.625	3.493	0	
+Agric Bus Stop	Ìkòròdú	Lagos	6.625	3.488	0	
+Majidun Ogolonto Bus Stop	Ìkòròdú	Lagos	6.620	3.473	0	
+Majidun Awori Bus Stop	Ìkòròdú	Lagos	6.619	3.463	0	
+Irawo Bus Stop	Kosofe	Lagos	6.610	3.422	0	
+Idera Bus Stop	Kosofe	Lagos	6.612	3.416	0	
+Idera Bus Stop	Kosofe	Lagos	6.612	3.415	0	
+Onirin Bus Stop	Kosofe	Lagos	6.609	3.409	0	
+Mile 12 Bus Stop	Kosofe	Lagos	6.604	3.402	0	
+Adewumi Bus Stop	Egbeda	Oyo	7.451	4.034	0	
+St Brigid primary & nursery school	Ahiazu-Mbaise	Imo	5.523	7.265	0	
+St. John's Secondary Kachia	Kachia	Kaduna	9.895	7.951	0	
+St. John's Primary Kachia	Kachia	Kaduna	9.894	7.952	0	
+St. John's Hall	Kachia	Kaduna	9.893	7.953	0	
+St. Paul Secondary School	Ikot Ekpene	Akwa Ibom	5.172	7.728	0	
+Anthony Bus Stop	Ikeja	Lagos	6.559	3.367	0	
+Maryland Bus Stop	Ikeja	Lagos	6.575	3.370	0	
+Maryland Bus Stop	Ikeja	Lagos	6.574	3.369	0	
+St Paul School	Southern Ijaw	Bayelsa	4.718	5.945	0	
+School of Post graduate studies	Gombe	Gombe	10.306	11.172	0	
+Vulcanizer Bus Stop	Alimosho	Lagos	6.601	3.301	0	
+St. Mary's Roman Catholic Mission School I, Ifo	Ifo	Ogun	6.812	3.197	0	
+Government Staff Quaters Ggss	Kura	Kano	11.785	8.427	2	
+Kano State University Of Science And Technology	Wudil	Kano	11.805	8.856	2	
+DICON Staff clinic	Kaduna South	Kaduna	10.488	7.420	0	
+St. Loius Grammar School	Akure South	Ondo	7.253	5.179	0	
+State Specialist Hospital	Ngelzarma	Yobe	11.730	11.957	0	
+Mohammed Goni College of Legal and Islamic Studies	Maiduguri	Borno	11.847	13.149	0	
+St. Mathias Grammar School	Akure South	Ondo	7.253	5.210	0	
+Oil Mill Bus Stop	Obio/Akpor	Rivers	4.854	7.064	0	
+State Primary School, Olanada	Obio/Akpor	Rivers	4.834	6.995	0	
+St. Joseph's College, Ondo	Ondo West	Ondo	7.104	4.818	0	
+Gombe State Transport Services (Gombe Line)	Gombe	Gombe	10.287	11.165	0	
+Nasarawa state university	Keffi	Nasarawa	8.843	7.907	0	
+Nasarawa state poly, Lafia	Lafia	Nasarawa	8.546	8.535	0	
+st. augustine catholic primary school i	Ìjẹ̀bú Òde	Ogun	6.822	3.926	0	
+st. augustine catholic primary school ii	Ìjẹ̀bú Òde	Ogun	6.821	3.927	0	
+st. paul anglican primary school, igbololo	Shagamu	Ogun	6.856	3.645	0	
+st. michael primary school, apebi	Ìjẹ̀bú Òde	Ogun	6.813	3.927	0	
+st. andrew's anglican primary school, odoasonyin	Ìjẹ̀bú Òde	Ogun	6.832	3.935	0	
+st. paul primary school, ayepe road	Shagamu	Ogun	6.836	3.659	0	
+st. paul's anglican primary school iii, makun	Shagamu	Ogun	6.851	3.642	0	
+st. peter's roman catholic mission primary school sch i ota	Ado Odo/Ota	Ogun	6.691	3.236	0	
+st. saviours anglican primary school ii ijoko	Ado Odo/Ota	Ogun	6.742	3.255	0	
+st. paul anglican primary school simawa	Ado Odo/Ota	Ogun	6.690	3.238	0	
+st. paul primary school ii makun	Shagamu	Ogun	6.852	3.641	0	
+st. collemciles primary school. ofin	Shagamu	Ogun	6.847	3.655	0	
+St. Peter'S Roman Catholic Mission Primary School Sch Ii Ota	Ado Odo/Ota	Ogun	6.610	3.118	0	
+St. Paul Anglican Primary School Simawa	Ìjẹ̀bú Òde	Ogun	6.726	3.999	0	
+St. Micheal African Church Primary School Ii Ota	Ifo	Ogun	6.704	3.320	0	
+St. Paul Primary School Ii Makun	Ado Odo/Ota	Ogun	6.530	3.136	0	
+St. Collemciles Primary School. Ofin	Ado Odo/Ota	Ogun	6.609	2.994	0	
+St. Alloysius Catholic. Pry School, Iloti.	Ifo	Ogun	6.702	3.342	0	
+St. Peter'S And Paul'S School Eruku	Ado Odo/Ota	Ogun	6.672	3.045	0	
+St. John'S Anglican Primary School, Ode-Lemo	Ado Odo/Ota	Ogun	6.561	2.961	0	
+St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.742	3.263	0	
+St.Peter Anglican Primary School, Agooro	Ado Odo/Ota	Ogun	6.588	2.931	0	
+St. Peters Anglican Primary School Itele-Ota	Ifo	Ogun	6.716	3.354	0	
+St. Peters Primary School Amode-Ota	Ado Odo/Ota	Ogun	6.596	2.954	0	
+St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Shagamu	Ogun	6.851	3.650	0	
+St. John'S Anglican Primary School Iii, Ogijo	Shagamu	Ogun	6.831	3.647	0	
+St. Peters Anglican Primary School Odan Otun	Ado Odo/Ota	Ogun	6.661	3.182	0	
+St. John'S Anglican Primary School Ii, Ogijo	Shagamu	Ogun	6.686	3.580	0	
+St. Peters Anglican Primary School Onigbonbo	Shagamu	Ogun	6.830	3.648	0	
+St. Peter African Church Primary School I, Iyesi	Ado Odo/Ota	Ogun	6.712	3.265	0	
+St. Peter African Church Primary School Ii, Iyesi	Ado Odo/Ota	Ogun	6.726	3.195	0	
+St. Micheal African Church Primary School I Ota	Ado Odo/Ota	Ogun	6.581	3.048	0	
+St. Paul'S (Rcm) Primary School Igode	Ìjẹ̀bú Òde	Ogun	6.706	3.960	0	
+St. Peter'S African Church School, Oke-Aro	Ìjẹ̀bú Òde	Ogun	6.734	3.982	0	
+St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ifo	Ogun	6.683	3.321	0	
+St. David'S Anglican School, Orogbe	Epe	Lagos	6.665	4.005	0	
+St. John'S Anglican Primary School, Sunren Okenla Ifo	Ifo	Ogun	6.728	3.329	0	
+St. Patrick'S Catholic Primary School, Isiwo	Ìjẹ̀bú Òde	Ogun	6.832	3.908	0	
+St. Peter School Ii, Oke-Aro	Ìjẹ̀bú Òde	Ogun	6.818	3.930	0	
+St. Anne'S Catholic Primary School, Irawo	Ado Odo/Ota	Ogun	6.543	3.130	0	
+St. Peter'S Anglican Primary School, Tomoba	Ado Odo/Ota	Ogun	6.662	3.093	0	
+St. Paul'S African Church School I, Agbado	Ifo	Ogun	6.811	3.158	0	
+St. Paul'S African Church Primary School, Agbado	Ado Odo/Ota	Ogun	6.724	3.163	0	
+St. Peters (F.A.C.M) Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.822	3.913	0	
+St. James School African Church School,Seriki	Shagamu	Ogun	6.686	3.580	0	
+St. Paul'S Primary School I Makun	Shagamu	Ogun	6.842	3.649	0	
+St. Paul'S African Church Primary School Ilogbo Ota	Ìjẹ̀bú Òde	Ogun	6.823	3.914	0	
+St. Paul Primary School I, Ijoku	Kosofe	Lagos	6.638	3.385	0	
+St. Paul'S African Church Primary School I, Ilogbo Ota	Ìjẹ̀bú Òde	Ogun	6.813	3.927	0	
+St.Saviour'S School, Olayemi	Ado Odo/Ota	Ogun	6.534	3.024	0	
+Precious Stone Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.816	3.930	0	
+St. Paul Primary School Oke Ate	Ìjẹ̀bú Òde	Ogun	6.824	3.913	0	
+St.John'S African Church Primary School, Itoki	Ado Odo/Ota	Ogun	6.661	3.092	0	
+St. Francis (Rcm) Primary School, Igbosoro	Ifo	Ogun	6.808	3.193	0	
+St. Barnabas' African Church Primary School, Osuke-Ota	Shagamu	Ogun	6.830	3.634	0	
+St. Paul'S Anglican Primary School, Emuren	Shagamu	Ogun	6.853	3.526	0	
+St. Francis Primary School. Fakale	Ado Odo/Ota	Ogun	6.687	3.204	0	
+St. Paul Primary School, Alagbo Ofin	Ado Odo/Ota	Ogun	6.604	3.067	0	
+St. Mary'S Roman Catholic Mission School Ii, Ifo	Ifo	Ogun	6.649	3.370	0	
+St.Joseph'S Anglican Primary School,Odonoko	Ado Odo/Ota	Ogun	6.742	3.255	0	
+St. Mary'S Roman Catholic Mission School I, Ifo	Shagamu	Ogun	6.773	3.494	0	
+St. Mark'S Anglican Primary School, Iwelepe	Shagamu	Ogun	6.876	3.574	0	
+St. John'S Anglican Primary School, Sunren Okenla Ifo	Ewekoro	Ogun	6.873	3.298	0	
+St. Paul Primary School I, Ijoku	Shagamu	Ogun	6.842	3.647	0	
+St. Paul Primary School Ii, Ijoku	Shagamu	Ogun	6.842	3.649	0	
+St. Paul Primary School Oke Ate	Shagamu	Ogun	6.839	3.633	0	
+St. Paul'S Anglican Primary School, Ayetoro	Shagamu	Ogun	6.831	3.502	0	
+St. Peters (F.A.C.M) Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.821	3.927	0	
+St. Mary'S Roman Catholic Mission School Ii, Ifo	Ifo	Ogun	6.816	3.208	0	
+St David'S Anglican Primary School Ibogun Sowunmi	Ifo	Ogun	6.816	3.096	0	
+St. James School African Church School,Seriki	Ifo	Ogun	6.812	3.246	0	
+St. David'S Anglican School, Orogbe	Ifo	Ogun	6.809	3.210	0	
+Precious Stone Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.794	3.947	0	
+St.Saviour'S School, Olayemi	Ifo	Ogun	6.794	3.315	0	
+St. Paul Anglican Primary School Simawa	Shagamu	Ogun	6.773	3.494	0	
+St.Peter Anglican Primary School, Agooro	Ifo	Ogun	6.761	3.238	0	
+St. John'S Anglican Primary School, Ode-Lemo	Shagamu	Ogun	6.746	3.663	0	
+St. Peter'S Anglican Primary School, Tomoba	Odogbolu	Ogun	6.732	3.848	0	
+St. Alloysius Catholic. Pry School, Iloti.	Ìjẹ̀bú Òde	Ogun	6.726	3.999	0	
+St. Paul'S African Church Primary School Ilogbo Ota	Ado Odo/Ota	Ogun	6.724	3.163	0	
+St. Paul'S African Church Primary School I, Ilogbo Ota	Ado Odo/Ota	Ogun	6.724	3.163	0	
+St. Patrick'S Catholic Primary School, Isiwo	Ìjẹ̀bú Òde	Ogun	6.714	3.962	0	
+St.John'S African Church Primary School, Itoki	Ifo	Ogun	6.713	3.288	0	
+St. Saviour'S Anglican Primary School Ijoko	Ado Odo/Ota	Ogun	6.712	3.231	0	
+St. John'S Anglican Primary School Iii, Ogijo	Shagamu	Ogun	6.705	3.511	0	
+St. John'S Anglican Primary School I, Ogijo	Shagamu	Ogun	6.705	3.511	0	
+St. John'S Anglican Primary School Ii, Ogijo	Shagamu	Ogun	6.704	3.511	0	
+St. Micheal African Church Primary School Ii Ota	Ado Odo/Ota	Ogun	6.696	3.238	0	
+St. Micheal African Church Primary School I Ota	Ado Odo/Ota	Ogun	6.695	3.237	0	
+St. Peter'S Roman Catholic Mission Primary School Sch Ii Ota	Ado Odo/Ota	Ogun	6.690	3.238	0	
+St. Paul'S (Rcm) Primary School Igode	Shagamu	Ogun	6.686	3.580	0	
+St. Paul'S African Church School I, Agbado	Ifo	Ogun	6.686	3.290	0	
+St. Paul'S African Church Primary School, Agbado	Ifo	Ogun	6.684	3.298	0	
+St. James Anglican Primary School I Iado Odo	Ado Odo/Ota	Ogun	6.684	3.235	0	
+St. James Anglican Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.683	3.237	0	
+St. Paul'S Anglican Primary School, Oluke	Ifo	Ogun	6.683	3.304	0	
+St. Peter'S African Church School, Oke-Aro	Ifo	Ogun	6.683	3.321	0	
+St. Peter School Ii, Oke-Aro	Ifo	Ogun	6.683	3.321	0	
+St. Peters Primary School Amode-Ota	Ado Odo/Ota	Ogun	6.672	3.045	0	
+St. Anne'S Catholic Primary School, Irawo	Epe	Lagos	6.665	4.005	0	
+St. Peter African Church Primary School Ii, Iyesi	Ado Odo/Ota	Ogun	6.662	3.183	0	
+St. Peter African Church Primary School I, Iyesi	Ado Odo/Ota	Ogun	6.661	3.182	0	
+St. Peters Anglican Primary School Onigbonbo	Ado Odo/Ota	Ogun	6.642	3.088	0	
+St. Peters Anglican Primary School Odan Otun	Ado Odo/Ota	Ogun	6.638	3.207	0	
+St. Barnabas' African Church Primary School, Osuke-Ota	Ado Odo/Ota	Ogun	6.623	3.143	0	
+St. Peters Anglican Primary School Itele-Ota	Ado Odo/Ota	Ogun	6.584	3.192	0	
+St. Stephen'S Roman Catholic Mission Primary School Ajogbo Asokere	Ado Odo/Ota	Ogun	6.583	3.024	0	
+St. Joseph Roman Catholic Mission Primary School Sch Ii Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
+St. Peter'S And Paul'S School Eruku	Ado Odo/Ota	Ogun	6.541	3.012	0	
+St. Thomas Roman Catholic Mission Primary Schoo Idimu	Ado Odo/Ota	Ogun	6.596	3.165	0	
+St. Paul'S Anglican Primary School, Emuren	Shagamu	Ogun	6.754	3.648	0	
+St. Paul Primary School, Alagbo Ofin	Shagamu	Ogun	6.846	3.648	0	
+St. Jude'S Anglican Primary School Itekun	Ado Odo/Ota	Ogun	6.518	3.169	0	
+St. Francis Primary School. Fakale	Shagamu	Ogun	6.758	3.528	0	
+St. Francis (Rcm) Primary School, Igbosoro	Shagamu	Ogun	6.698	3.547	0	
+St. Joseph Roman Catholic Mission Primary  School 1 Ado Odo	Ado Odo/Ota	Ogun	6.580	2.931	0	
+St. Mary's Roman Catholic Mission School III, Ifo	Ifo	Ogun	6.813	3.197	0	
+St. John Anglican School. Mosimi	Shagamu	Ogun	6.754	3.551	0	
+St. Joseph Anglican School, Odonoko	Ìjẹ̀bú Òde	Ogun	6.744	4.003	0	
+Ogui Junction Bus-Stop	Enugu North	Enugu	6.462	7.511	0	
+Dio De Steel Oil & Gas	Enugu North	Enugu	6.460	7.534	0	
+Mkpokiti Bus Stop	Enugu North	Enugu	6.440	7.511	0	
+Oshimiri bus stop	Enugu South	Enugu	6.417	7.531	0	
+Obiagu Bus Stop	Enugu North	Enugu	6.436	7.497	0	
+P&T Bus stop	Enugu North	Enugu	6.441	7.487	0	
+Abuja BUs stop	Enugu North	Enugu	6.430	7.509	0	
+Mbanugo Bus stop coal camp	Enugu South	Enugu	6.419	7.478	0	
+Mayor Bus stop	Enugu South	Enugu	6.399	7.489	0	
+Igbariam Bus stop	Enugu South	Enugu	6.417	7.495	0	
+GUO transport terminal Bus stop	Enugu North	Enugu	6.438	7.489	0	
+UBA Bus stop	Enugu North	Enugu	6.429	7.488	0	
+Okilo Bus Stop	Enugu South	Enugu	6.420	7.518	0	
+Precious Bus stop	Enugu South	Enugu	6.401	7.478	0	
+Amechi Bus stop	Enugu South	Enugu	6.410	7.504	0	
+ESBS Bus stop	Enugu North	Enugu	6.432	7.517	0	
+New Society Bus stop Emene	Enugu East	Enugu	6.473	7.582	0	
+edozie bus stop	Enugu North	Enugu	6.428	7.494	0	
+St Mary's Catholic Hospital, Eleta, Academy, Ibadan	Ibadan South East	Oyo	7.355	3.911	0	
+Secretariat Staff Clinic , Total Garden road	Ibadan North	Oyo	7.411	3.908	0	
+As-salam Medical Centre, Office bus-stop Sasa	Akinyele	Oyo	7.486	3.914	0	
+Federal School of Statistics (FSS) Clinic, Sasa	Akinyele	Oyo	7.476	3.904	0	
+Stars International College	Ìkòròdú	Lagos	6.626	3.501	0	
+Roban Stores	Ebonyi	Ebonyi	6.337	8.093	0	
+Bright Hope Standard College	Obio/Akpor	Rivers	4.859	7.114	0	
+St. Paul Anglican Primary School	Olorunsogo	Oyo	8.743	4.141	0	
+St John's College Jos	Jos North	Plateau	9.931	8.876	0	
+Stahealth specialist hospital	Jos North	Plateau	9.931	8.879	0	
+ST. Maria Goretti Academy Army engineer Jos	Jos North	Plateau	9.974	8.853	0	
+Plateau State primary health care clinic Fomwan	Jos North	Plateau	9.923	8.897	0	
+Plateau state government dental centre	Jos North	Plateau	9.897	8.885	0	
+Plateau State Primary Health care Board	Jos North	Plateau	9.942	8.874	0	
+Plateau state specialist hospital	Jos North	Plateau	9.896	8.884	0	
+Dan kasheari medical store	Jos North	Plateau	9.916	8.893	0	
+Nas Pharmacy and stores	Jos North	Plateau	9.914	8.895	0	
+Micki-Mike Medicine store	Jos North	Plateau	9.923	8.903	0	
+Plateau State primary health care	Jos North	Plateau	9.944	8.889	0	
+St.Paul Anglican Primary School, Ido-Osun	Egbedore	Osun	7.780	4.489	0	
+St Leo's College Abeokuta	Abeokuta South	Ogun	7.128	3.329	0	
+St. George's RCM Primary School, Ofatedo	Egbedore	Osun	7.781	4.503	0	
+Streams of Life Hospital	Owerri North	Imo	5.447	7.061	0	
+Stanford Model High school	Bauchi	Bauchi	10.291	9.789	0	
+School for Arqabic and Islamic Studies	Yola North	Adamawa	9.207	12.488	0	
+Royal Step Academy	Municipal Area Council	FCT Abuja	9.019	7.421	0	
+Star Hope Nursery and Primary School	Municipal Area Council	FCT Abuja	8.942	7.433	0	
+ST Malachy Academy	Kubau	Kaduna	10.677	8.288	0	
+Nkanu, Enugu State	Afikpo North	Ebonyi	5.862	7.949	3	
+state primary school (rumueme)	Obio/Akpor	Rivers	4.826	6.981	0	
+Bauchi State University, Bauchi Campus	Bauchi	Bauchi	10.313	9.826	0	
+St. Paul Secondary School	Bauchi	Bauchi	10.320	9.833	0	
+St. Paul Nur/Pri School	Bauchi	Bauchi	10.321	9.834	0	
+Prison Children Staff School	Jos North	Plateau	9.909	8.947	0	
+faculty of law Gombe state university	Gombe	Gombe	10.306	11.173	0	
+Gombe state university day care	Gombe	Gombe	10.308	11.173	0	
+Src secretariat gombe state university	Gombe	Gombe	10.307	11.175	0	
+Gombe state university src park	Gombe	Gombe	10.307	11.175	0	
+GSTC Vocational Gombe state	Gombe	Gombe	10.296	11.178	0	
+GSTC Gombe state	Gombe	Gombe	10.296	11.178	0	
+GCDSS GOMBE STATE	Gombe	Gombe	10.301	11.182	0	
+Usman Memorial Primary school Gombe, Gombe State	Gombe	Gombe	10.294	11.170	0	
+Usman Memorial Primary school Gombe , Gombe State	Gombe	Gombe	10.294	11.171	0	
+Bubayero Primary school Gombe, Gombe State	Gombe	Gombe	10.291	11.168	0	
+Gombe state university College	Gombe	Gombe	10.305	11.138	0	
+Glofes Filling Station	Akure South	Ondo	7.308	5.139	0	Glofes Filling StationmC
+Senete chamber Gombe state University	Gombe	Gombe	10.303	11.173	0	
+St. Philips Academy	Jos North	Plateau	9.921	8.914	0	
+Rivers State House of Assembly Quarters	Obio/Akpor	Rivers	4.824	7.009	2	
+Ministry Of Health and Human Service Kaduna State Kaduna	Kaduna North	Kaduna	10.522	7.439	0	
+Teaching Hospital No10 Sylvester Crescent Barnawa Kaduna State	Kaduna South	Kaduna	10.483	7.439	0	
+St Gerald Catholic Hospital No74 Naiyayi Road Opposite Space 2000	Kaduna South	Kaduna	10.477	7.437	0	
+St Gerard's Catholic Church Hospital	Kaduna South	Kaduna	10.467	7.421	0	
+General Hospital Sabon Tasha St Simon Catholic Church	Chikun	Kaduna	10.428	7.528	0	
+Beside Startech Filing Station Kakau	Chikun	Kaduna	10.380	7.397	0	
+Tree Star Hospital No1 Natata Street	Chikun	Kaduna	10.435	7.416	0	
+Conner Stone Medical Center	Ojo	Lagos	6.458	3.159	0	
+St David Med Center	Ojo	Lagos	6.456	3.221	0	
+Nestle Nig Plc Staff Clinic	Ado Odo/Ota	Ogun	6.501	3.087	0	
+St Monica Hospital	Alimosho	Lagos	6.593	3.234	0	
+St Joseph Eye Clinic	Alimosho	Lagos	6.580	3.239	0	
+Tri Star Hospital	Alimosho	Lagos	6.606	3.297	0	
+St Alexander Hospital And Maternity Home	Alimosho	Lagos	6.615	3.296	0	
+Day Star Health Cares	Alimosho	Lagos	6.626	3.281	0	
+St Grace Natural Medical Clinic And Me Eternity	Alimosho	Lagos	6.507	3.262	0	
+St White Shield Clinic	Alimosho	Lagos	6.539	3.245	0	
+Marie Stopes Clinic General Medical Care And Laboratory	Alimosho	Lagos	6.540	3.224	0	
+St Claire Specialist Clinic	Mushin	Lagos	6.516	3.360	0	
+St Femos Conual Home	Mushin	Lagos	6.509	3.329	0	
+D2 Staff Clinic	Mushin	Lagos	6.556	3.356	0	
+St Andrew Hospital	Mushin	Lagos	6.532	3.343	0	
+SOS Chemical Store	Akure South	Ondo	7.302	5.134	0	
+Futa Staff Primary School(PTA BUILDING)	Akure South	Ondo	7.296	5.148	0	
+Students Affairs	Akure South	Ondo	7.301	5.138	0	Prof. Kolade Ipinmoroti Building
+Galaxy Electronics Store	Iwo	Osun	7.630	4.170	0	
+St Clements Hospital	Amuwo Odofin	Lagos	6.465	3.287	0	
+St Judes Hospital Maternity	Amuwo Odofin	Lagos	6.463	3.296	0	
+St Grace Nursing and Convascent Home	Amuwo Odofin	Lagos	6.456	3.293	0	
+Royal Steps Academy	Jos North	Plateau	9.894	8.886	0	
+St Joseph Mission Clinic	Amuwo Odofin	Lagos	6.446	3.311	0	
+Akabor City Gate, Ojoto, Idemili South LGA, Anambra State, Nigeria	Idemili South	Anambra	6.066	6.860	0	
+St. Paul Primary & Secondary School	Jos North	Plateau	9.924	8.886	0	
+St Mary Grace School	Alimosho	Lagos	6.526	3.233	0	
+USMAN BN AFFAN COLLEGE OF ISLAMIC STUDIES	Ungongo	Kano	12.049	8.572	0	
+TWO STAR INTERNATIONAL SCHOOL	Gwale	Kano	11.966	8.468	0	
+Story Academy Special needs school	Kosofe	Lagos	6.568	3.380	0	
+Olookan Stop	Kosofe	Lagos	6.580	3.410	0	
+St Mark's High School	Ise/Orun	Ekiti	7.462	5.431	0	
+St John's Primary School	Ise/Orun	Ekiti	7.462	5.432	0	
+St Marks Primary School	Ise/Orun	Ekiti	7.462	5.431	0	
+St Theresa Primary	Ise/Orun	Ekiti	7.465	5.419	0	
+Stadium	Municipal Area Council	FCT Abuja	9.046	7.452	0	
+GENERAL STUDIES UNIT	Kaduna North	Kaduna	10.609	7.442	0	
+SCHOOL OF BASIC AND REMEDIAL STUDIES	Kaduna North	Kaduna	10.609	7.442	0	
+St James CAC Schools, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.473	4.554	0	
+St Anthony School, Office Road, Ilorin, Nigeria	Ilorin East	Kwara	8.485	4.572	0	
+Olalomi Hospital, Stadium Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.479	4.550	0	
+Iyana Opomalu Bus Stop, Emirs Road, Ilorin, Nigeria	Ilorin East	Kwara	8.491	4.559	0	
+St. Joseph Centenary Catholic College, Office Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.571	0	
+National Open University Sobi Study Center, Sobi Road, Ilorin, Nigeria	Moro	Kwara	8.562	4.558	0	
+MFM Junction Bus Stop, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.621	0	
+Kwara State Polytechnic, Share-Oja Oba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.543	4.634	0	
+Galad College Of Advanced Studies, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.612	0	
+Statictics Department	Kaduna North	Kaduna	10.609	7.445	0	
+Anchormed Hospital, Tanke Tipper Garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.602	0	
+Pipeline bustop, tanke tipper garage, Ilorin, Kwara State, Nigeria	Ilorin East	Kwara	8.483	4.603	0	
+Enugu State University of Science and Technology (ESUT)	Nkanu West	Enugu	6.307	7.538	0	
+St. Augustine Private School	Jos North	Plateau	9.871	8.849	0	
+Dean Of Student Affairs Building	Ovia North-East	Edo	6.744	5.406	0	
+College Of Business & Management Studies	Ovia North-East	Edo	6.740	5.405	0	
+St. Michael Nursery & Primary School	Ojo	Lagos	6.453	3.166	0	
+Habiba Standard School	Karu	Nasarawa	8.952	7.680	0	
+Queen Step Unique Academy	Municipal Area Council	FCT Abuja	9.045	7.588	0	
+Life Fort Stars Model Academy	Karu	Nasarawa	8.959	7.690	0	
+Drestone Studio	Municipal Area Council	FCT Abuja	8.964	7.392	0	
+Lugbe Bus Stop	Municipal Area Council	FCT Abuja	8.981	7.380	0	
+Stephtrina Daycare	Municipal Area Council	FCT Abuja	9.137	7.384	0	
+Seven Star Laundry	Municipal Area Council	FCT Abuja	9.120	7.392	0	
+Afoson And Company;Usman Fashion Store	Municipal Area Council	FCT Abuja	9.129	7.391	0	
+Cynzi Stitches	Municipal Area Council	FCT Abuja	9.121	7.388	0	
+Fosh Studio	Municipal Area Council	FCT Abuja	9.120	7.391	0	
+Oliver Twist Super Store	Municipal Area Council	FCT Abuja	8.976	7.363	0	
+Kabusa Junction Bus Stop	Municipal Area Council	FCT Abuja	8.973	7.496	0	
+Berger Bus Stop	Municipal Area Council	FCT Abuja	9.067	7.454	0	
+Aya Bus Stop, Abuja, Nigeria	Municipal Area Council	FCT Abuja	9.049	7.527	0	
+Cbn Junction Bus Stop	Municipal Area Council	FCT Abuja	8.998	7.571	0	
+The School Bus Stop	Municipal Area Council	FCT Abuja	9.083	7.468	0	
+Corolla Bus Stop	Municipal Area Council	FCT Abuja	9.050	7.487	0	
+De Muzik Bus Stop Concept & Entertainment (Deejay Prezzy)	Municipal Area Council	FCT Abuja	9.026	7.400	0	
+Gsm Village Bus Stop	Municipal Area Council	FCT Abuja	9.055	7.468	0	
+Apo Roundabout Bus Stop	Municipal Area Council	FCT Abuja	9.013	7.491	0	
+Jikwoyi Phase 2 Cele Bus Stop	Municipal Area Council	FCT Abuja	8.979	7.561	0	
+Kugbo Second Gate Bus Stop	Municipal Area Council	FCT Abuja	9.028	7.550	0	
+Tipper Garage Bus Stop	Municipal Area Council	FCT Abuja	8.878	7.239	0	
+Customs Bus Stop	Municipal Area Council	FCT Abuja	9.060	7.466	0	
+Cbn Bus Stop	Municipal Area Council	FCT Abuja	9.029	7.503	0	
+Waterboard Junction Bus Stop	Municipal Area Council	FCT Abuja	9.050	7.519	0	
+Deeper Life Bus Stop	Municipal Area Council	FCT Abuja	9.044	7.511	0	
+Powerhouse Junction Bus Stop	Municipal Area Council	FCT Abuja	9.048	7.516	0	
+El Rufai Park Bus Stop	Gwagwalada	FCT Abuja	8.944	7.081	0	
+Near Charley Boy Bus Stop	Municipal Area Council	FCT Abuja	9.120	7.391	0	
+Kugbo Bus Stop	Municipal Area Council	FCT Abuja	9.028	7.549	0	
+Head Of Service Bus Stop	Municipal Area Council	FCT Abuja	9.058	7.503	0	
+Central Mosque - Masalachi Bus Stop	Municipal Area Council	FCT Abuja	9.057	7.483	0	
+Tipper Garrage Bus Stop	Municipal Area Council	FCT Abuja	8.879	7.240	0	
+Welder Bus Stop Kubwa	Municipal Area Council	FCT Abuja	9.145	7.347	0	
+Wuse District Hospital Bus Stop	Municipal Area Council	FCT Abuja	9.063	7.468	0	
+Barracks Bus Stop	Municipal Area Council	FCT Abuja	9.046	7.537	0	
+Gilmore Bus Stop	Municipal Area Council	FCT Abuja	9.020	7.497	0	
+Life Camp Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.404	0	
+War College Bus Stop	Municipal Area Council	FCT Abuja	9.050	7.488	0	
+Wuse Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.464	0	
+Villa Bridge Bus Stop	Municipal Area Council	FCT Abuja	9.054	7.512	0	
+Eagle Square Bus Stop	Municipal Area Council	FCT Abuja	9.059	7.497	0	
+Finance Bridge Bus Stop	Municipal Area Council	FCT Abuja	9.057	7.499	0	
+2Nd Gate Bus Stop	Municipal Area Council	FCT Abuja	9.142	7.324	0	
+Transformer Bus Stop	Municipal Area Council	FCT Abuja	9.017	7.487	0	
+Under Bridge Bus Stop	Municipal Area Council	FCT Abuja	9.021	7.482	0	
+Nnpc Bus Stop	Municipal Area Council	FCT Abuja	9.052	7.486	0	
+Wuse General Hospital First Gate Bus Stop	Municipal Area Council	FCT Abuja	9.062	7.468	0	
+Arab Junction Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.445	0	
+Zone 3 Bus Stop	Municipal Area Council	FCT Abuja	9.063	7.472	0	
+Central Road Bus Stop	Municipal Area Council	FCT Abuja	9.000	7.556	0	
+Bus Stop	Municipal Area Council	FCT Abuja	9.055	7.466	0	
+Zone 4 Bus Stop	Municipal Area Council	FCT Abuja	9.064	7.475	0	
+Zone 6 Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.463	0	
+Barracks Bus Stop	Municipal Area Council	FCT Abuja	9.018	7.486	0	
+Last Keke Napep Bus Stop	Municipal Area Council	FCT Abuja	8.997	7.467	0	
+Area 10 Bus Stop	Municipal Area Council	FCT Abuja	9.039	7.486	0	
+Before Bridge Bus Stop Nyanya	Municipal Area Council	FCT Abuja	9.023	7.570	0	
+Rocha'S Plaza Bus Stop	Municipal Area Council	FCT Abuja	9.061	7.467	0	
+Bus Stop After Bridge Zone 3	Municipal Area Council	FCT Abuja	9.064	7.471	0	
+Sky Memorial Bus Stop	Municipal Area Council	FCT Abuja	9.066	7.457	0	
+Bus Stop	Municipal Area Council	FCT Abuja	9.054	7.454	0	
+Wuse Market Bus Stop	Municipal Area Council	FCT Abuja	9.068	7.465	0	
+Gaduwa Estate Bus Stop	Municipal Area Council	FCT Abuja	9.005	7.466	0	
+Gwarinpa Bus Stop	Municipal Area Council	FCT Abuja	9.119	7.406	0	
+Stone Bridge Ltd	Municipal Area Council	FCT Abuja	9.059	7.455	0	
+Strong Bridge It Solutions	Municipal Area Council	FCT Abuja	9.045	7.412	0	
+Stone Bridge	Municipal Area Council	FCT Abuja	9.106	7.364	0	
+University of Cross River State, Calabar Main Campus	Calabar South	Cross River	4.931	8.329	0	
+Lagos State Senior Model College, Kankon	Badagry	Lagos	6.421	2.759	0	
+Lagos State Junior Model College Kankon	Badagry	Lagos	6.420	2.758	0	
+Redeemers University Staff Primary School	Ede South	Osun	7.679	4.459	0	
+Agbama Housing Estate Main Gate, Umuahia, Abia State	Umuahia South	Abia	5.502	7.499	0	
+store	Amuwo Odofin	Lagos	6.419	3.397	0	
+Sharon Stars International School	Obio/Akpor	Rivers	4.882	6.981	0	
+Administrative Staff College Of Nigeria	Badagry	Lagos	6.413	2.940	0	ASCON
+Majolate St	Mushin	Lagos	6.533	3.365	1	
+Stadium Road	Obio/Akpor	Rivers	4.825	7.016	1	
+St. Andrews Street	Obio/Akpor	Rivers	4.834	7.031	1	
+Stadium Road	Oredo	Edo	6.332	5.611	1	
+Stella Obasanjo Way	Oredo	Edo	6.274	5.624	1	
+Gaius Idubor Str	Oredo	Edo	6.299	5.610	1	
+John Amboson St	Chikun	Kaduna	10.458	7.460	1	
+Stephen Shekari Avenue	Kaduna South	Kaduna	10.471	7.423	1	
+Medical Store Road	Egor	Edo	6.368	5.627	1	
+Aideyan Str	Oredo	Edo	6.307	5.619	1	
+Osawnoyi Steet	Oredo	Edo	6.328	5.595	1	
+Enoma Str	Oredo	Edo	6.300	5.598	1	
+Okoro Str	Oredo	Edo	6.301	5.599	1	
+Ogboro Str	Oredo	Edo	6.302	5.594	1	
+Obasohan Str	Oredo	Edo	6.299	5.596	1	
+JBS str	Oredo	Edo	6.308	5.626	1	
+Noroware-Omonudo Str	Oredo	Edo	6.301	5.607	1	
+2nd Oshodin strt	Oredo	Edo	6.308	5.608	1	
+Isacc Str	Oredo	Edo	6.306	5.619	1	
+Aisosa Stret	Egor	Edo	6.370	5.631	1	
+Omoruyi Str	Oredo	Edo	6.301	5.595	1	
+Ogbeide Str	Oredo	Edo	6.301	5.596	1	
+Ameze Str	Oredo	Edo	6.310	5.626	1	
+St. Robina Hospitle	Oredo	Edo	6.308	5.618	0	
+Idoluwo Steet	Lagos Island	Lagos	6.462	3.391	1	
+St John Pachi Street	Lagos Island	Lagos	6.458	3.391	1	
+Saka Agbaje stret	Ibadan North	Oyo	7.424	3.913	1	
+Bassey Duke St	Calabar Municipal	Cross River	4.955	8.324	1	
+Alfa Aminu St	Shomolu	Lagos	6.544	3.373	1	
+Abeokuta St	Shomolu	Lagos	6.543	3.369	1	
+Omoalade Alafia St	Shomolu	Lagos	6.542	3.378	1	
+Soji Oshodi St	Shomolu	Lagos	6.542	3.376	1	
+Akinsanya St	Shomolu	Lagos	6.544	3.370	1	
+Ogunbadejo St	Shomolu	Lagos	6.535	3.380	1	
+Banjo St	Shomolu	Lagos	6.542	3.368	1	
+Students Affairs	Ibadan North	Oyo	7.444	3.899	0	
+Immortal Church Streets	Alimosho	Lagos	6.533	3.264	1	
+State Hospital Road	Ibadan South West	Oyo	7.356	3.866	1	Adeoyo Road
+St. Gregory's College Road	Eti Osa	Lagos	6.448	3.410	1	
+Albert Adekoya St	Kosofe	Lagos	6.557	3.390	1	
+Oluwatoyin Eleoramo St	Kosofe	Lagos	6.632	3.371	1	
+Adekunle Ibraheem St	Ikeja	Lagos	6.648	3.364	1	
+Shonibare St	Ikeja	Lagos	6.644	3.366	1	
+Zinsou St	Ikeja	Lagos	6.646	3.365	1	
+Raimi St	Ikeja	Lagos	6.645	3.368	1	
+Shoyemi St	Ikeja	Lagos	6.645	3.366	1	
+Moses Adebayo St	Ikeja	Lagos	6.648	3.364	1	
+Ajao Road	Ikeja	Lagos	6.602	3.341	1	Oyetubo Str
+Abel Oreniyi St	Ikeja	Lagos	6.590	3.365	1	
+Dosu Ogundele St	Alimosho	Lagos	6.600	3.297	1	
+Oremeji St	Alimosho	Lagos	6.599	3.296	1	
+Arakan Steet	Apapa	Lagos	6.440	3.366	1	
+Stella Ogunleye Street	Eti Osa	Lagos	6.427	3.462	1	
+Stadium Roundabout	Kaduna North	Kaduna	10.502	7.425	1	
+State Road	Tarauni	Kano	11.987	8.545	1	
+State Road	Tarauni	Kano	11.987	8.546	1	
+Stadium Road	Kano Municipal	Kano	11.992	8.533	1	
+Stadium Road	Kano Municipal	Kano	11.995	8.531	1	
+Star Lake Close	Municipal Area Council	FCT Abuja	9.089	7.496	1	
+Stephen Orosanye Street	Municipal Area Council	FCT Abuja	9.114	7.419	1	
+ELM St	Municipal Area Council	FCT Abuja	8.987	7.439	1	
+Stadium Road	Obio/Akpor	Rivers	4.822	7.024	1	
+Lucky Strasse Street	Egor	Edo	6.367	5.636	1	
+LAST BUS STOP ROAD	Egor	Edo	6.362	5.569	1	
+St. Jame's Street Off Okpamen Lane	Egor	Edo	6.365	5.582	1	
+Adesagbon Str	Egor	Edo	6.379	5.635	1	
+Balogun Ajikobi St	Ilorin East	Kwara	8.500	4.536	1	
+Mallam Audu St	Jos North	Plateau	9.926	8.887	1	
+Dimaro Str.	Oredo	Edo	6.293	5.587	1	
+Egbor Str;Legemah Way	Oredo	Edo	6.312	5.602	1	
+Hillary Str.	Oredo	Edo	6.299	5.590	1	
+Igbinosun Str.	Oredo	Edo	6.298	5.590	1	
+Jesuorobo Str.	Oredo	Edo	6.299	5.588	1	
+St Paul's Lane	Oredo	Edo	6.327	5.616	1	
+1st Stadium Lane	Oredo	Edo	6.330	5.613	1	
+St Agnes Street	Lagos Mainland	Lagos	6.510	3.379	1	
+Ojekale St	Shomolu	Lagos	6.537	3.400	1	
+Obanlearo St	Shomolu	Lagos	6.541	3.384	1	
+Akinromola St	Shomolu	Lagos	6.541	3.389	1	
+University Senior Staff Quarters Road	Ilorin South	Kwara	8.467	4.643	1	
+Oni-ajisafe str	Ojo	Lagos	6.456	3.224	1	
+Alh Memunat str	Ojo	Lagos	6.453	3.225	1	
+Arufa str	Ojo	Lagos	6.456	3.224	1	
+James Ademola St	Alimosho	Lagos	6.627	3.280	1	
+Adebanjo Stret	Agege	Lagos	6.614	3.315	1	
+Shittu Abiola St	Ifo	Ogun	6.684	3.290	1	
+Amose St	Ado Odo/Ota	Ogun	6.685	3.284	1	
+St. Theresa Close	Uvwie	Delta	5.561	5.771	1	
+St. Steven Road	Uvwie	Delta	5.559	5.774	1	
+Steve Alele Street	Uvwie	Delta	5.561	5.753	1	
+Stadium Road	Warri South	Delta	5.513	5.753	1	
+Niyi Adedeji St	Kosofe	Lagos	6.577	3.390	1	
+Musa Adewokun St	Kosofe	Lagos	6.591	3.384	1	
+Niyi Ogunleye St	Kosofe	Lagos	6.590	3.384	1	
+Emannuel St	Kosofe	Lagos	6.585	3.399	1	
+Goodluck St	Kosofe	Lagos	6.583	3.401	1	
+Phillip Onashile St	Kosofe	Lagos	6.604	3.396	1	
+St Martins way	Oredo	Edo	6.304	5.577	1	
+Chief Stephen Obi-Okwubanego Crescent	Enugu South	Enugu	6.419	7.521	1	
+St. Michael Road	Enugu North	Enugu	6.452	7.506	1	
+St. Francis Street	Enugu East	Enugu	6.483	7.499	1	
+St Davis Drive	Enugu East	Enugu	6.488	7.491	1	
+St. Luke Lane	Enugu North	Enugu	6.439	7.502	1	
+Federal Staff Close	Enugu North	Enugu	6.437	7.522	1	
+Corner Stone Avenue	Enugu East	Enugu	6.496	7.511	1	
+St John Crescent	Enugu East	Enugu	6.481	7.513	1	
+St. Thomas Street	Enugu North	Enugu	6.446	7.505	1	
+St Patrick's Street	Enugu East	Enugu	6.475	7.591	1	
+St Jude Street	Enugu East	Enugu	6.476	7.587	1	
+Railway Main Store Road	Enugu North	Enugu	6.449	7.498	1	
+Stone-House Close	Enugu South	Enugu	6.398	7.481	1	
+St Joseph Parish	Enugu East	Enugu	6.476	7.520	1	
+Stan Wood Avenue	Enugu South	Enugu	6.407	7.505	1	
+Stanley Mbamelu Street	Enugu East	Enugu	6.493	7.499	1	
+Comfortable Store Crescent	Enugu East	Enugu	6.471	7.529	1	
+Steven Victoria Onovo Close	Enugu East	Enugu	6.469	7.547	1	
+Stanchully Street	Enugu East	Enugu	6.513	7.524	1	
+sixth st	Tarauni	Kano	11.959	8.587	1	
+14th st	Kumbotso	Kano	11.956	8.590	1	
+9th st	Tarauni	Kano	11.958	8.587	1	
+15th st	Tarauni	Kano	11.959	8.587	1	
+11th st	Tarauni	Kano	11.960	8.588	1	
+St. Saviour's Street	Oshodi/Isolo	Lagos	6.511	3.322	1	
+Chief Popoola Straat	Ìkòròdú	Lagos	6.635	3.507	1	
+Sahad Stores	Tarauni	Kano	11.975	8.535	0	
+Stadium Road	Fagge	Kano	12.017	8.543	1	
+koso, Kagarko local government, Kaduna state, Nigeria	Kagarko	Kaduna	9.339	7.815	1	
+Mike Ajize Stret	Eti Osa	Lagos	6.446	3.477	1	
+Still Water Garden Road	Eti Osa	Lagos	6.433	3.486	1	
+Otunba Steve Ajose Drive	Eti Osa	Lagos	6.430	3.498	1	
+Chief Idowu Baale St	Eti Osa	Lagos	6.492	3.583	1	
+Stiv-Jaka Avenue	Eti Osa	Lagos	6.504	3.623	1	
+St. Joseph Street	Eti Osa	Lagos	6.443	3.514	1	
+Laura Stephens Road	Eti Osa	Lagos	6.450	3.582	1	
+Stadium Road	Chanchaga	Niger	9.623	6.551	1	
+St Johnsworth Road	Eti Osa	Lagos	6.458	3.521	1	
+Stephen Awoyale Street	Isin	Kwara	8.254	5.020	1	
+Eromon St	Esan West	Edo	6.745	6.142	1	
+Alli St	Esan West	Edo	6.746	6.136	1	
+Saka Oluguina Strre	Eti Osa	Lagos	6.451	3.571	1	
+Loma Mansa St	Municipal Area Council	FCT Abuja	9.067	7.473	1	
+Brighter Star Nursery and Primary School	Ede North	Osun	7.719	4.490	0	
+Osun State House of Assembly	Ede North	Osun	7.741	4.518	1	
+Osun State Government Secretariat Round About	Ede North	Osun	7.733	4.515	1	
+Gombe State University	Gombe	Gombe	10.309	11.175	0	
+Brighter Star Street	Ede North	Osun	7.720	4.491	1	
+Stadium Road	Kachia	Kaduna	9.873	7.957	1	
+Staff Quarters Road	Akure South	Ondo	7.303	5.133	1	
+Oyebode St	Alimosho	Lagos	6.672	3.254	1	
+Stadium/Ray Jacobs Rd	Oru West	Imo	5.738	6.897	1	
+Garden St	Calabar Municipal	Cross River	4.957	8.311	1	
+Stella Sholanke Street	Oshodi/Isolo	Lagos	6.551	3.323	1	
+Uwalaka St	Umuahia North	Abia	5.537	7.504	1	
+Awolowo St	Umuahia North	Abia	5.539	7.499	1	
+Amusa Ishola Str	Alimosho	Lagos	6.532	3.268	1	
+Ezogulafor St	Umuahia North	Abia	5.531	7.502	1	
+Afara St	Umuahia North	Abia	5.533	7.503	1	
+Umuobasi St	Umuahia North	Abia	5.530	7.499	1	
+State Secretariat Road	Umuahia North	Abia	5.521	7.507	1	
+Stadium Roundabout	Olorunda	Osun	7.794	4.575	1	
+Nelson Mandela St	Calabar Municipal	Cross River	4.956	8.324	1	
+Bedwell St	Calabar Municipal	Cross River	4.955	8.321	1	
+Goldie St	Calabar Municipal	Cross River	4.952	8.331	1	
+Goldie St	Calabar Municipal	Cross River	4.947	8.341	1	
+Lugard St	Calabar Municipal	Cross River	4.956	8.322	1	
+Goldie St	Calabar Municipal	Cross River	4.958	8.323	1	
+Orok Orok St	Calabar Municipal	Cross River	4.947	8.338	1	
+Bateba St.	Calabar Municipal	Cross River	4.953	8.335	1	
+Stella Akinseye Street	Eti Osa	Lagos	6.464	3.584	1	
+Osun State Hospital Management, Asubiaro	Osogbo	Osun	7.763	4.543	0	
+Okeleru St	Ilorin East	Kwara	8.499	4.538	1	
+St Marks Street	Ise/Orun	Ekiti	7.462	5.430	1	
+Stadium Road	Ogbomosho North	Oyo	8.159	4.263	1	
+Egbede St	Esan West	Edo	6.766	6.067	1	
+Straat/nietGeclassificeerd	Mariga	Niger	10.797	5.785	1	
+Madonna St	Owerri North	Imo	5.505	7.033	1	
+Akwelubo St	Oshimili South	Delta	6.179	6.750	1	
+Senator Akin Olasunkanmi St	Kosofe	Lagos	6.621	3.383	1	
+Mudasiru Owoyele St	Kosofe	Lagos	6.615	3.382	1	
+Ishola Solomon St	Kosofe	Lagos	6.620	3.386	1	
+Ogunyadewo St	Kosofe	Lagos	6.615	3.380	1	
+Edionwele St	Esan West	Edo	6.738	6.151	1	
+Abebe St	Esan West	Edo	6.756	6.065	1	
+Owoeye St	Esan West	Edo	6.751	6.068	1	
+Aigbomian St	Esan West	Edo	6.748	6.051	1	
+Edimeke St	Esan West	Edo	6.755	6.054	1	
+Celestial Church St	Ifo	Ogun	6.679	3.317	1	
+Straight point	Numan	Adamawa	9.463	11.736	1	
+Royal Duke Ibejiako Str.	Owerri Municipal	Imo	5.484	7.011	1	
+Kwara State University	Moro	Kwara	8.716	4.473	0	
+Okwulehie St	Umuahia North	Abia	5.532	7.493	1	
+Item St	Umuahia North	Abia	5.532	7.495	1	
+Crowtther St	Umuahia North	Abia	5.532	7.495	1	
+Goldie St	Calabar Municipal	Cross River	4.956	8.327	1	
+Wembley St	Calabar Municipal	Cross River	4.958	8.324	1	
+Eyo Edem St	Calabar Municipal	Cross River	4.960	8.318	1	
+Egerton St	Calabar Municipal	Cross River	4.954	8.313	1	
+Sterling Street	Port-Harcourt	Rivers	4.815	7.068	1	
+Sokoto State Polytechnic	Wamako	Sokoto	13.008	5.194	0	
+Alh. Mukaila Str	Alimosho	Lagos	6.537	3.269	1	
+St. Peters Road	Ojo	Lagos	6.457	3.189	1	
+Akintola St	Alimosho	Lagos	6.658	3.280	1	
+St. Michael School Street	Ojo	Lagos	6.453	3.166	1	
+Awoyokun St	Mushin	Lagos	6.536	3.364	1	
+Idera St	Mushin	Lagos	6.536	3.362	1	
+Olapido Sode St	Mushin	Lagos	6.533	3.364	1	
+Sosanya St	Mushin	Lagos	6.534	3.362	1	
+Ajegunle St	Mushin	Lagos	6.534	3.363	1	
+Fagbile St	Mushin	Lagos	6.535	3.363	1	
+Karimu St	Mushin	Lagos	6.534	3.364	1	
+Adekunle St	Mushin	Lagos	6.535	3.364	1	
+Oyewole Habeeb St	Kosofe	Lagos	6.556	3.386	1	
+Isiyaka Rabiu College of Quranic Studies	Gwale	Kano	11.979	8.496	0	
+Sule Bada St	Mushin	Lagos	6.535	3.362	1	
+Suraju Onajowo St	Ifo	Ogun	6.680	3.316	1	
+Alade Stadium Road	Alimosho	Lagos	6.640	3.251	1	
+Steve Igbasan Street	Alimosho	Lagos	6.549	3.219	1	
+Alhaji Ashafa St	Kosofe	Lagos	6.626	3.366	1	
+Ramat Longe St	Kosofe	Lagos	6.626	3.368	1	
+Engr. Hakeem Oladapo Str	Ifo	Ogun	6.682	3.296	1	
+Samuel Edosa St	Kosofe	Lagos	6.619	3.387	1	
+Adeola Adepegba St	Ifako/Ijaye	Lagos	6.676	3.284	1	
+Taibat Banire St	Ifako/Ijaye	Lagos	6.675	3.284	1	
+Adekanbi St	Ifako/Ijaye	Lagos	6.683	3.281	1	
+Aiyedun St	Ifako/Ijaye	Lagos	6.684	3.280	1	
+Disu St	Ifako/Ijaye	Lagos	6.689	3.270	1	
+Oluwaseyi St	Ado Odo/Ota	Ogun	6.686	3.278	1	
+Akinade St	Alimosho	Lagos	6.670	3.255	1	
+Nnanna St	Owerri North	Imo	5.506	7.036	1	
+Benue State University Teaching Hospital	Markurdi	Benue	7.726	8.571	0	
+St. Peters' unity sec. school Road	Akure South	Ondo	7.258	5.185	1	
+St Murumba School	Ife Central	Osun	7.490	4.549	1	
+St. Annes Nurs & Pri School	Kaduna South	Kaduna	10.472	7.423	0	
+Stadium Road	Akure South	Ondo	7.256	5.188	1	
+College of Basic and Remedial Studies, Kaduna State University	Kaduna North	Kaduna	10.506	7.434	0	
+Lagos State Polytechnic	Oshodi/Isolo	Lagos	6.528	3.334	0	LASPOTECH
+Institute of Petroleum Studies	Obio/Akpor	Rivers	4.894	6.917	0	
+Bauchi State Airport	Bauchi	Bauchi	10.456	9.747	0	
+St. Michael Close	Ikeja	Lagos	6.578	3.365	1	
+Ogo Oluwa St	Ado Odo/Ota	Ogun	6.683	3.285	1	
+Collins Uchidiuno St	Eti Osa	Lagos	6.439	3.475	1	
+St. Loius Road	Akure South	Ondo	7.253	5.179	1	
+Buggai St	Chikun	Kaduna	10.464	7.462	1	
+St. George Avenue	Eti Osa	Lagos	6.470	3.572	1	
+Kwoi St	Chikun	Kaduna	10.465	7.462	1	
+OAU International Staff School	Ife Central	Osun	7.519	4.534	1	
+Stadium Road	Ife Central	Osun	7.499	4.559	1	
+St. Patrick Church	Ife Central	Osun	7.497	4.542	1	
+Ajiduah Str	Aniocha South	Delta	6.172	6.515	1	
+Umuchu St	Oshimili South	Delta	6.181	6.752	1	
+Benji Onyedili St	Oshimili South	Delta	6.175	6.751	1	
+Cherubim and Seraphim St	Esan West	Edo	6.755	6.056	1	
+Palm St	Esan West	Edo	6.752	6.070	1	
+Odomoba St	Ise/Orun	Ekiti	7.462	5.425	1	
+Stadium Road	Warri South	Delta	5.513	5.758	1	
+Egan St	Esan West	Edo	6.733	6.155	1	
+Uwenlebo St	Esan West	Edo	6.740	6.147	1	
+Staff Road	Akure South	Ondo	7.305	5.127	1	
+Stateline Road	Akure South	Ondo	7.291	5.153	1	
+Stephen Shekari Avenue	Kaduna South	Kaduna	10.459	7.424	1	
+Transformer St.	Port-Harcourt	Rivers	4.787	6.961	1	
+Bayo St.	Port-Harcourt	Rivers	4.790	6.960	1	
+Kolawale Ajayi Streer	Eti Osa	Lagos	6.456	3.614	1	
+State Hospital Road	Ibadan South West	Oyo	7.353	3.863	1	Adeoyo Road
+fourth st	Kumbotso	Kano	11.956	8.591	1	
+third st	Kumbotso	Kano	11.957	8.591	1	
+10th st	Kumbotso	Kano	11.955	8.591	1	
+Abam St	Umuahia North	Abia	5.536	7.502	1	
+Rumuola - Stadium Link Road	Obio/Akpor	Rivers	4.830	7.013	1	Cosmic Homes Road
+State Secrtariat Road	Umuahia North	Abia	5.522	7.502	1	
+Bernett Bassey Streer	Uyo	Akwa Ibom	5.021	7.939	1	
+Hewett St	Calabar Municipal	Cross River	4.958	8.320	1	
+Mohammed Sanusi Str II	Municipal Area Council	FCT Abuja	9.114	7.381	1	
+Ehimen St	Esan West	Edo	6.729	6.141	1	
+Oluwo Dabiri Str	Alimosho	Lagos	6.534	3.267	1	
+St. John Paul II School	Eti Osa	Lagos	6.457	3.428	0	
+Bateba St.	Calabar Municipal	Cross River	4.951	8.338	1	
+Oyebode St	Alimosho	Lagos	6.674	3.256	1	
+Stella Maris Road	Ilorin South	Kwara	8.475	4.632	1	
+University Senior Staff Quarters Road	Ilorin South	Kwara	8.476	4.641	1	
+Johnson St	Onitsha South	Anambra	6.151	6.773	1	
+Tifedayo St	Ifo	Ogun	6.682	3.296	1	
+Habib str	Ojo	Lagos	6.453	3.224	1	
+Church Bus stop	Alimosho	Lagos	6.609	3.256	1	
+12th st	Tarauni	Kano	11.958	8.589	1	
+13th st	Tarauni	Kano	11.958	8.588	1	
+6th st	Tarauni	Kano	11.958	8.588	1	
+2nd st	Kumbotso	Kano	11.955	8.588	1	
+Stadium Road	Fagge	Kano	12.014	8.542	1	
+State Road	Nassarawa	Kano	11.989	8.535	1	
+Ademolu St	Shomolu	Lagos	6.542	3.391	1	
+Tawose St	Mushin	Lagos	6.537	3.364	1	
+Lagos State University	Ojo	Lagos	6.484	3.197	0	LASU
+College of Arabic and Islamic Studies	Muhammadu Dikko Stadium	Katsina	12.976	7.601	0	
+St. Thereasa Road	Enugu South	Enugu	6.421	7.452	1	
+Obafemi Awolowo University Staff School	Ife Central	Osun	7.524	4.535	0	
+STT&T	Ikeja	Lagos	6.575	3.351	0	
+Kogi State Specialist Hospital, Lokoja	Lokoja	Kogi	7.793	6.732	0	
+St Anne's Parish close	Aboh-Mbaise	Imo	5.494	7.197	1	
+St. Kizito Clinic & Maternity Ward	Eti Osa	Lagos	6.435	3.505	0	
+Ebute Elebo St.	Kosofe	Lagos	6.548	3.407	1	
+Olanrewaju Jegede Brown Str	Alimosho	Lagos	6.534	3.270	1	
+Alh. Jamiu Kebe Str	Alimosho	Lagos	6.533	3.269	1	
+St. Steven School	Uvwie	Delta	5.556	5.773	0	
+St Patrick’s College	Calabar Municipal	Cross River	5.024	8.341	0	
+Abia State University	Isuikwuato	Abia	5.822	7.401	0	ABSU
+Staff clinic	Lagos Island	Lagos	6.457	3.401	0	
+State Hospital	Saki West	Oyo	8.672	3.398	0	
+Jagun Molu St	Shomolu	Lagos	6.547	3.395	1	
+Lagos State University Teaching Hospital	Ikeja	Lagos	6.590	3.341	0	LASUTH
+St Nicholas Hospital	Lagos Island	Lagos	6.449	3.397	0	
+Bright Streer	Onitsha South	Anambra	6.152	6.775	1	
+St Raphael Divine Mercy Specialist Hospital	Ìkòròdú	Lagos	6.625	3.550	0	
+Lagos State Rehabilitation and Vocational Training Centre	Ifo	Ogun	6.640	3.377	0	
+Lagos State Civil Service College	Ìkòròdú	Lagos	6.596	3.518	0	
+Lagos State Polytechnic	Ìkòròdú	Lagos	6.638	3.532	0	LASPOTECH|LASPOTECH
+St Paul School I Field	Southern Ijaw	Bayelsa	4.718	5.945	0	
+Federal School of Statistics	Akinyele	Oyo	7.481	3.903	0	
+State School II, Usokun	Degema	Rivers	4.786	6.774	0	
+State Primary School, Rumuokoro	Obio/Akpor	Rivers	4.866	6.997	0	
+St. Saviour's School Ebute-Metta	Surulere	Lagos	6.490	3.376	0	
+St. Judes Anglican Primary School	Lagos Mainland	Lagos	6.485	3.384	0	
+Lagos State Junior Model College	Ìkòròdú	Lagos	6.623	3.661	0	
+Lagos State Rehabilitation and Training Centre, Owutu	Ìkòròdú	Lagos	6.642	3.485	0	
+St. Michael Oil & Gas	Ìkòròdú	Lagos	6.592	3.643	0	
+State Primary School, Onipetesi-Mangoro	Ikeja	Lagos	6.607	3.327	0	
+St. Joseph Nursery / Primary School	Agege	Lagos	6.611	3.329	0	
+St Gerards Catholic Hospital	Kaduna South	Kaduna	10.467	7.422	0	
+ST James Clinic and Maternity	Egor	Edo	6.366	5.583	0	
+Adeoyo State Hospital	Ibadan South West	Oyo	7.350	3.863	0	
+St Gabriel's Specialist Hospital	Enugu East	Enugu	6.478	7.494	0	
+Enugu State Medical Diagnostic Centre	Enugu North	Enugu	6.455	7.495	0	
+Senate Bus Stop	Akure South	Ondo	7.302	5.140	0	
+Bauchi State Specialist Hospital	Bauchi	Bauchi	10.318	9.842	0	
+St.Mary's Health Centre	Ibadan North East	Oyo	7.386	3.918	0	
+Mammography Unit, Enugu State University Teaching Hospital	Enugu North	Enugu	6.463	7.494	0	
+Physiotherapy Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.461	7.494	0	
+Surgical Ward, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.495	0	
+Theatre, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
+Radiology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.463	7.494	0	
+Strong Tower Academy	Ìkòròdú	Lagos	6.621	3.522	0	
+Sokoto State University	Bodinga	Sokoto	12.941	5.200	0	
+Imo State University	Owerri North	Imo	5.505	7.047	0	
+Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.825	13.145	0	
+Osun State Comprehensive Health Centre, Iragberi	Egbedore	Osun	7.778	4.377	0	
+Imo state university teaching hosp.	Orlu	Imo	5.779	7.044	0	
+St. LukeÃ¢Â€Â˜s medical center	Surulere	Lagos	6.498	3.330	0	
+Borno State Specialist Hospital	Maiduguri	Borno	11.837	13.151	0	
+St. Melvin's Hospital	Warri South	Delta	5.510	5.767	0	
+Stow Road	Bomadi	Delta	5.162	5.917	1	
+St Charles Clinic	Ajeromi/Ifelodun	Lagos	6.449	3.329	0	
+Ondo State Bus Terminal	Akure South	Ondo	7.261	5.175	0	
+State Isolation Centre	Maiduguri	Borno	11.874	13.143	0	
+State Teaching Hospital	Ngelzarma	Yobe	11.738	11.921	0	
+Private Patient Medical Store Filingo	Fufore	Adamawa	9.311	12.892	0	
+Yobe State University	Ngelzarma	Yobe	11.690	11.948	0	
+ALSCON STAFF SCHOOL	Ikot Abasi	Akwa Ibom	4.582	7.596	0	
+Institute of Petroleum Studies Road	Ikwerre	Rivers	4.923	6.921	1	
+Olaitan Oshinuga St	Kosofe	Lagos	6.588	3.401	1	
+Edo State University, Iyamho	Etsako West	Edo	7.130	6.303	0	Edo University
+Anglican str	Akoko-Edo	Edo	7.442	6.070	1	
+17th st	Tarauni	Kano	11.958	8.587	1	
+water st	Tarauni	Kano	11.958	8.586	1	
+Kamal-Deen St	Ilorin East	Kwara	8.503	4.535	1	
+Oluwafere St	Shomolu	Lagos	6.542	3.390	1	
+St Andrew  Nursrey and Primary School	Abeokuta South	Ogun	7.126	3.325	0	
+Odudu str	Ojo	Lagos	6.457	3.224	1	
+Oni-ajisafe str	Ojo	Lagos	6.455	3.226	1	
+Ade Str.	Ìkòròdú	Lagos	6.641	3.601	1	
+Ola Str	Ìkòròdú	Lagos	6.641	3.608	1	
+Stadium Road	Ife Central	Osun	7.495	4.555	1	
+Mariere Bus Stop	Enugu South	Enugu	6.426	7.507	0	
+stanel oil	Jos North	Plateau	9.878	8.925	0	
+students residents	Jos North	Plateau	9.986	8.883	1	
+St Lukes	Jos North	Plateau	9.868	8.862	0	
+St murumba college	Jos North	Plateau	9.945	8.868	0	
+St louis girls secoundary school	Jos North	Plateau	9.926	8.880	0	
+IDI streat	Gombe	Gombe	10.293	11.176	1	
+Sunday Leko Str.	Eleme	Rivers	4.779	7.123	1	
+Near 60 Hasell St, Charleston, SC 29401, USA	Ado Odo/Ota	Ogun	6.543	3.066	1	
+Ogunnaike St	Shomolu	Lagos	6.542	3.369	1	
+Costain Bus stop	Lagos Mainland	Lagos	6.482	3.370	0	
+St. John School	Ìkòròdú	Lagos	6.537	3.516	0	
+Ile-Epo Bus Stop	Alimosho	Lagos	6.634	3.301	0	
+Katangua Bus Stop	Alimosho	Lagos	6.642	3.305	0	
+Majolate St	Mushin	Lagos	6.538	3.364	1	
+Awoyokun St	Mushin	Lagos	6.536	3.366	1	
+Oyegunwa St	Shomolu	Lagos	6.542	3.391	1	
+Oluwatoyin St	Shomolu	Lagos	6.540	3.387	1	
+St Jude Women`s Clinic	Municipal Area Council	FCT Abuja	9.101	7.417	0	
+Willie Onyejiaka St	Owerri Municipal	Imo	5.505	7.031	1	
+Str	Magumeri	Borno	11.850	13.010	1	
+Ekiti State Airport	Adó-Èkìtì	Ekiti	7.657	5.355	0	
+Enugu State University of Science and Technology (ESUT)	Nkanu West	Enugu	6.301	7.545	0	
+Godwin H Ogbadu St	Municipal Area Council	FCT Abuja	9.104	7.476	1	
+Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.826	13.142	0	
+Sahad Stores	Maiduguri	Borno	11.795	13.128	0	
+State High School Ibereko	Badagry	Lagos	6.439	2.913	0	
+St. John Street	Eti Osa	Lagos	6.447	3.605	1	
+St. Vincent Ferrer College, Malumfashi	Malumfashi	Katsina	11.760	7.612	0	
+Katsina State Institute of Technology and Management	Batagarawa	Katsina	12.954	7.628	0	
+Abia State Airport	Isiala-Ngwa South	Abia	5.401	7.463	0	
+Taibat Banire St	Ifako/Ijaye	Lagos	6.676	3.284	1	
+Facilities and central store walkway	Ikenne	Ogun	6.890	3.724	1	
+Muhammadu Dikko Stadium	Muhammadu Dikko Stadium	Katsina	13.018	7.624	2	

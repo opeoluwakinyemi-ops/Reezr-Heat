@@ -1,0 +1,743 @@
+Kukawa	Guzamala	Borno	12.925	13.566	3	Koukawa;Koukaoua
+Kourouma-Batiaka	Madaoua	Sokoto	13.673	6.295	2	
+Koundoukoundou	Kukawa	Borno	13.179	13.975	2	
+Angoual Dan Koulki	Kantché	Katsina	13.174	8.314	2	
+Kokoutouko	Magaria	Katsina	13.100	8.399	2	
+Rigal Koli	Magaria	Katsina	13.082	8.421	2	
+Dan Kolio Yammâ	Gazaoua	Katsina	13.342	7.893	2	
+Birnin Kouka	Mashi	Katsina	13.324	7.986	2	
+Kolèngué	Madarounfa	Katsina	13.017	7.100	2	
+Doutchi Koûrâ	Jibia	Katsina	13.101	7.355	2	
+Koufan Kässoua	Madarounfa	Katsina	13.180	7.520	2	
+Guidan Koré	Madarounfa	Katsina	13.207	7.554	2	
+Dan Koundili	Mai'Adua	Katsina	13.219	8.228	2	
+Konwesso	Borgu	Niger	10.900	4.294	2	
+Korokopogbene	Southern Ijaw	Bayelsa	4.656	5.712	2	
+Kobejo	Yewa North	Ogun	6.917	2.767	2	
+Kodera	Yewa North	Ogun	7.050	2.800	2	
+Koya	Yabo	Sokoto	12.654	4.909	2	
+Tungu Kone	Augie	Kebbi	12.882	4.661	2	
+KOMU	Itesiwaju	Oyo	8.233	3.200	3	
+Kogin Sidda	Takai	Kano	11.533	9.067	2	Sidda
+Kobo Ile	Baruten	Kwara	8.850	3.150	2	Gobo;Kobo;Kobo Ile
+Kotchia	Mubi South	Adamawa	10.255	13.277	2	
+Kwang	Askira-Uba	Borno	10.843	13.223	2	Kona;Kong
+Dadin Kowa	Shani	Borno	10.138	12.069	2	Dadinkowa
+Kanya Maikaho	Garki	Jigawa	12.365	8.916	2	Maikaho;Kogin Maikaho
+Kwakwaba	Dandi	Kebbi	11.740	3.726	2	Kokoba
+Bulama Koma	Biu	Borno	10.745	12.149	2	Bula Makoama
+Tunga Kokani	Dandi	Kebbi	11.716	3.814	2	
+Kogu	Kwaya Kusar	Borno	10.429	12.023	2	
+Kwaguthela	Hawul	Borno	10.554	12.174	2	Kokela
+Pilak	Shani	Borno	10.064	11.833	2	Kombo
+Kontagora	Kontagora	Niger	10.400	5.470	3	
+Dan Koda	Birnin Magaji-Kiyaw	Zamfara	12.490	6.736	2	
+Kofa	Birnin Magaji-Kiyaw	Zamfara	12.458	6.788	2	
+Jan Kobe	Bungudu	Zamfara	12.202	6.583	2	
+Koko	Koko-Besse	Kebbi	11.426	4.515	3	
+Dadin Kowa	Fika	Yobe	11.235	11.095	2	
+Kokukukur	Fika	Yobe	11.325	11.465	2	
+Bakin Kogi	Toro	Bauchi	10.200	9.052	2	
+Katamma	Jakusko	Yobe	12.564	10.927	2	Kotoma
+Talawa Lawan Kolomi	Damboa	Borno	11.228	12.316	2	Talagala
+Gidan-Konkoni	Maru	Zamfara	11.411	6.056	2	
+Koshika	Askira-Uba	Borno	10.505	13.162	2	
+Kotcha	Mubi South	Adamawa	10.101	13.303	2	
+Koja	Mubi South	Adamawa	10.101	13.303	2	
+Koroforti;Koroforji	Guzamala	Borno	12.871	13.090	2	
+Kodemaram	Abadam	Borno	13.581	13.246	2	Kodomaram
+Koma Kaudi	Kala-Balge	Borno	12.010	14.583	2	
+Keffi	Ringim	Jigawa	12.274	8.968	2	Babushe;Kogin Babushe
+Buzuku	Hawul	Borno	10.469	12.565	2	Kogubuzugu
+Kolokolo (II)	Warri North	Delta	6.024	5.465	2	Kolokolo
+Komo	Zango	Katsina	12.923	8.631	2	
+Koro	Ekiti	Kwara	8.150	5.517	2	
+Kosubosu	Baruten	Kwara	9.551	3.228	3	
+Koren Gesu	Gwadabawa	Sokoto	13.416	5.244	2	
+Konkwesso	Borgu	Niger	10.847	4.098	2	Konkweso
+Gidan Gari Kombola	Wamako	Sokoto	13.103	5.022	2	
+Guidan Kolo	Gusau	Zamfara	12.093	6.646	2	
+Konwa	Bungudu	Zamfara	11.798	6.405	2	
+Koburut	Shani	Borno	10.212	11.733	2	Koberut
+Korochara	Kukawa	Borno	13.031	13.756	2	
+Kokorkokor	Fika	Yobe	11.328	11.463	2	
+Koka	Tsafe	Zamfara	11.973	7.102	2	
+Nyaleri	Damboa	Borno	11.294	12.850	2	Kuka Kowa
+Korode	Damboa	Borno	11.054	12.545	2	
+Konigbagbe	Shagamu	Ogun	6.793	3.572	2	
+Kominio/Ukhomunyio	Etsako East	Edo	7.291	6.381	2	
+Kafin Fulani	Ningi	Bauchi	10.979	9.245	2	Kogin Fulani;Fulani
+Dogon Koli	Toro	Bauchi	10.204	9.374	2	
+Konyas	Augie	Kebbi	12.839	4.535	2	
+Kombani	Akko	Gombe	10.088	10.979	2	Kombani Sarki
+Kochiyel	Kirfi	Bauchi	10.323	10.614	2	
+Kono	Khana	Rivers	4.599	7.500	2	
+Kowara	Shanga	Kebbi	11.046	4.615	2	
+Kogin Baba	Teungo	Adamawa	7.902	11.532	2	
+Mayo Kole	Jada	Adamawa	8.800	12.167	2	Maio Kole
+Kwagor Ngula	Maiha	Adamawa	9.967	13.117	2	Koágol;Kowagol
+Bakin Kogi	Jema'A	Kaduna	9.492	8.273	2	
+Kokora	Agaie	Niger	8.636	6.450	2	
+Kotscha	Mubi South	Adamawa	10.101	13.303	2	
+Koskos	Arewa Dandi	Kebbi	12.413	3.764	2	
+Korawa	Gezawa	Kano	12.116	8.742	2	
+Kwapila	Shani	Borno	10.150	12.064	2	Kopla
+Koguhu	Hawul	Borno	10.461	12.319	2	
+Wuro Koncha	Song	Adamawa	9.800	12.667	2	Kancha;Wuro Kancha
+Dogda	Shani	Borno	10.266	11.867	2	Kora
+Korobo	Edu	Kwara	8.851	5.259	2	
+Tungan Kogoro	Shanga	Kebbi	10.975	4.587	2	
+Koloriya	Ngaski	Kebbi	10.140	4.669	2	
+Koliyal	Wurno	Sokoto	13.288	5.553	2	
+Konia	Yauri	Kebbi	10.639	4.704	2	
+Na Korau	Bungudu	Zamfara	12.054	6.566	2	
+Kokoto	Gudu	Sokoto	13.371	4.609	2	Kokotau
+Koren Gesu Gesu	Gwadabawa	Sokoto	13.439	5.233	2	
+Bakin Kogi	Bakori	Katsina	11.545	7.494	2	Dawan Musa
+Kotembe	Bama	Borno	11.373	13.876	3	
+Kafin Zaki	Ningi	Bauchi	10.861	9.584	2	Kogin Zaki
+Kwogel	Silame	Sokoto	12.942	4.839	2	Koggyal
+Kobabpale	Michika	Adamawa	10.651	13.327	2	
+Kowo Bewa	Khana	Rivers	4.634	7.364	2	Kono Bewa;Bewa
+Bakin Kogi	Alkaleri	Bauchi	10.072	10.355	2	Birnin Kogi
+Kolaku	Shani	Borno	10.039	11.781	2	Kalaki
+Kore	Biu	Borno	10.607	11.919	2	Kwori
+Dadin Kowa	Biu	Borno	10.779	11.940	2	
+Komi Oba	Yewa North	Ogun	6.950	2.950	2	
+Kobe	Mafa	Borno	11.851	13.825	2	Kofe
+Kotoku	Mubi North	Adamawa	10.378	13.285	2	
+Kori	Obafemi Owode	Ogun	6.867	3.467	2	Kori-Okude
+Koko	Zing	Adamawa	9.004	11.745	2	
+Kogi	Bwari	FCT Abuja	9.181	7.472	2	
+Koudu	Bagudo	Kebbi	11.003	3.841	2	
+Korin Gwasa	Baure	Katsina	12.812	8.641	2	Kwilingowata
+Koropengbene	Ese Odo	Ondo	6.144	4.981	2	Biagbene II
+Kubure	Baruten	Kwara	8.867	3.100	2	Kuburi;Kobure
+Kolokolo	Warri North	Delta	5.798	5.179	2	Kolokola
+Koso	Oyo West	Oyo	8.033	3.767	2	
+Koringo	Illela	Sokoto	13.694	5.444	2	
+Kojo	Goronyo	Sokoto	13.448	5.612	2	Kojiyo
+Gidan Kolo	Gusau	Zamfara	12.092	6.645	2	
+Kagara	Kafur	Katsina	11.661	7.842	2	Kogara
+Ungwan Dadin Kowa	Makarfi	Kaduna	11.274	7.973	2	Dadin Kowa
+Kuroghakiri	Akuku Toru	Rivers	4.355	6.587	2	Koniyiboko;Kuroghakkiri
+Koraman-Dutse	Shanga	Kebbi	11.415	4.596	2	
+Koko	Ifelodun	Kwara	8.333	4.750	2	
+Koton Karifi	Kogi	Kogi	8.098	6.798	2	
+Kwapala Kwapala	Kwaya Kusar	Borno	10.412	11.918	2	Kopala
+Kofare	Girei	Adamawa	9.333	12.467	2	Kaffare
+Deba Kowa	Yamaltu/Deba	Gombe	10.288	11.500	3	
+Kasan Kogi	Kachia	Kaduna	9.867	7.800	2	Kasam Kogi
+Kohuma	Askira-Uba	Borno	10.542	13.172	2	
+Bari Koraram	Abadam	Borno	13.651	13.333	2	
+Mallam Koro	Gurara	Niger	9.267	7.133	2	Mallam Karo;Mallam
+Kogi	Kaura Namoda	Zamfara	12.538	6.630	2	
+Kornya	Konshisha	Benue	6.915	8.922	3	korinya
+Tungan Kokani	Dandi	Kebbi	11.751	3.849	2	
+Ungwan Kolgo	Arewa Dandi	Kebbi	12.691	3.897	2	
+Koda	Ingawa	Katsina	12.630	8.073	2	Kudda
+Sirisanga Koho	Suru	Kebbi	11.577	3.993	2	
+Ngohi	Askira-Uba	Borno	10.672	12.691	2	Ngohi Kofan Hakimi
+Korongelen Bula Dunya	Chibok	Borno	10.857	12.714	2	
+Korongelen Bula-Burakar	Chibok	Borno	10.868	12.709	2	
+Kwamagira	Hawul	Borno	10.516	12.375	2	Koguma Gira
+Mbuma Kogu	Hawul	Borno	10.472	12.235	2	
+Kwagu	Hawul	Borno	10.445	12.315	2	Kogu
+Kokona	Edu	Kwara	8.850	5.083	2	
+Rinji Kori	Kware	Sokoto	13.189	5.259	2	Runji
+Kogin Sarki	Gudu	Sokoto	13.276	4.519	2	Keur Sarki
+Kotohari	Gudu	Sokoto	13.486	4.744	2	
+Kolmani Musari	Akko	Gombe	10.140	10.826	2	
+Tofa	Ringim	Jigawa	12.150	9.083	2	Kogin Tofa
+Ogbema Koku	Abua/Odual	Rivers	4.789	6.641	2	Ogboma-Koku
+Kotonkoro	Mariga	Niger	11.031	5.958	2	
+Koko	Ipokia	Ogun	6.716	2.794	2	
+Kange	Ushongo	Benue	7.055	8.894	2	Konge
+Kokoro	Tambuwal	Sokoto	12.322	4.614	2	
+Kogin Dabga	Karaye	Kano	11.797	8.099	2	Dabga
+Kwo	Girei	Adamawa	9.450	12.350	2	Koh
+Gimare Kosa	Lafia	Nasarawa	8.485	8.550	2	
+Korama	Yenegoa	Bayelsa	5.037	6.296	2	
+Kogi	Obafemi Owode	Ogun	7.133	3.567	2	Kawgi
+Korobori	Baruten	Kwara	8.983	3.100	2	Korobwari
+Gwagwamdi	Askira-Uba	Borno	10.778	13.068	2	Gogombi;Kokombi;Gokombi
+Koutelaha	Kala-Balge	Borno	11.744	14.565	2	Kutelaha
+Malum Kaunari	Abadam	Borno	13.698	13.338	2	Malum Konari
+Koma	Zango	Katsina	12.923	8.631	2	
+Kongma	Shani	Borno	10.057	12.100	2	
+Kwagushar Unguwar Ibrahim	Hawul	Borno	10.529	12.363	2	Koksha
+Kwathan Kobu	Kwaya Kusar	Borno	10.371	12.009	2	Kubo
+Koshaba	Mokwa	Niger	9.210	5.038	2	
+Koloware	Patani	Delta	5.210	6.158	2	
+Kogu	Kwaya Kusar	Borno	10.418	11.949	2	
+Kokumso	Demsa	Adamawa	9.417	12.050	2	Kokomto
+Koda Mayawa	Charanchi	Katsina	12.636	7.736	2	Koda
+Kalanieni	Tangaza	Sokoto	13.281	5.058	2	Kologene
+Kokiya	Birnin Magaji-Kiyaw	Zamfara	12.531	6.889	2	
+Kafi	Gada	Sokoto	13.687	5.725	2	Koffe
+Kufita	Birnin Gwari	Kaduna	11.040	6.622	2	Kofita
+Gidan Kolodo	Kware	Sokoto	13.092	5.308	2	
+Konkomba	Tsafe	Zamfara	11.762	6.766	2	
+Kolmani Gaji Mari	Alkaleri	Bauchi	10.149	10.807	2	Kolmani
+Kurugbaba	Brass	Bayelsa	4.358	6.267	2	Korugbaba
+Kokuwa	Gulani	Yobe	11.106	11.902	2	Kukawa
+Kore	Zaki	Bauchi	12.420	10.414	2	
+Tuwa Koro	Augie	Kebbi	12.873	4.541	2	
+Komotorufagbene	Southern Ijaw	Bayelsa	4.535	5.877	2	
+Konga	Brass	Bayelsa	4.336	6.056	2	Kongo
+Didango Kofa	Fufore	Adamawa	9.600	12.800	2	Kota;Kofa
+Kodomiri	Damboa	Borno	11.230	13.031	2	
+Barikin Kogi	Barkin Ladi	Plateau	9.667	9.067	2	
+Bakin Kogi	Barkin Ladi	Plateau	9.667	9.067	2	
+Baccure Kofare	Yola South	Adamawa	9.233	12.433	2	
+Mayel Kohi	Yola North	Adamawa	9.183	12.367	2	Mayel Kowi;Mayel Koki
+Koko	Warri North	Delta	6.003	5.465	3	
+Rogonburta	Dutsi	Katsina	12.836	8.231	2	Kogonburta
+Kokwali	Dandi	Kebbi	11.719	3.650	2	
+Kuihuma	Chibok	Borno	10.735	12.736	2	Korohuma Bulama Bulabukar
+Kori	Ringim	Jigawa	12.281	8.918	2	
+Kolo	Tangaza	Sokoto	13.468	5.016	2	
+Kojola	Yola North	Adamawa	9.350	12.300	2	Kojelare
+Bodo Kouda	Kala-Balge	Borno	12.144	14.478	2	
+Marinai	Chikun	Kaduna	10.539	6.840	2	Bakin Kogi
+Kosoci	Shanga	Kebbi	10.973	4.524	2	
+Kolajia	Tangaza	Sokoto	13.464	4.905	2	
+Bingel Sarkin-Koni	Arewa Dandi	Kebbi	13.181	4.459	2	Bungel
+Kotorkoshi	Bungudu	Zamfara	12.138	6.818	2	
+Kora Ganawa	Tsafe	Zamfara	11.902	6.787	2	
+Tunga Kawate	Bagudo	Kebbi	11.186	4.269	2	Kowati
+Kote Kura / Awaram	Bama	Borno	11.416	14.048	2	
+Korokorosei	Southern Ijaw	Bayelsa	4.747	6.009	2	
+Kokanawa	Wasagu-Danko	Kebbi	11.685	5.111	2	
+Koidi Tijaniye	Mobbar	Borno	12.901	12.570	2	Kakodi
+Kokomo	Fakai	Kebbi	11.373	4.975	2	
+Kokologbene	Southern Ijaw	Bayelsa	4.764	5.911	2	
+Konkul	Maiha	Adamawa	9.633	13.100	2	Konkout
+Agwan Sarkin-Koro	Paikoro	Niger	9.517	7.083	2	Angwan Sarkin Koro
+koso	Kagarko	Kaduna	9.351	7.813	2	
+Kofin	Askira-Uba	Borno	10.553	13.098	0	
+Kopa	Michika	Adamawa	10.744	13.328	2	Kofa
+Konduga	Konduga	Borno	11.653	13.418	2	Kanduga
+Kauwa Kura	Diffa	Borno	13.389	12.792	2	Kowa
+Odo	Ewekoro	Ogun	6.900	3.167	2	Koro
+Kopje	Damboa	Borno	11.226	13.161	2	
+Kokori	Ethiope East	Delta	5.631	6.034	3	
+Koreyel	Gwiwa	Jigawa	12.756	8.207	2	
+Kopre	Hong	Adamawa	10.467	12.847	2	Kopri
+Komdi Lawanti	Damboa	Borno	10.986	12.865	2	Komndi Gana
+Ungwan Kolo	Arewa Dandi	Kebbi	12.330	3.732	2	
+Galaro Kongoro	Kalgo	Kebbi	12.415	3.980	2	
+Ado Kompani	Kaura Namoda	Zamfara	12.428	6.612	2	
+Kongel	Jama'Are	Bauchi	11.617	9.850	2	
+Konono	Ngaski	Kebbi	10.844	4.856	2	
+Kolio	Ngaski	Kebbi	10.732	4.900	2	
+Igun Waterside	Ethiope East	Delta	5.742	5.969	2	Kokori
+Kolalawa	Kware	Sokoto	13.200	5.252	2	
+Kogiri	Bungudu	Zamfara	12.039	6.534	2	
+Kekoke	Gudu	Sokoto	13.602	4.429	2	Kokoki
+Ungwan Mallam Koshi	Gusau	Zamfara	11.642	6.560	2	
+Koran Ganawa	Tsafe	Zamfara	11.902	6.787	2	
+Magaji Dan Kowi	Tsafe	Zamfara	11.836	6.936	2	
+Kontcha	Teungo	Adamawa	7.974	12.237	3	
+Kombo-Abedimo	Akpabuyo	Cross River	4.663	8.518	2	
+Kofar Marusa Primary School	Muhammadu Dikko Stadium	Katsina	12.988	7.613	0	
+Dadin Kowa Primary Health Centre	Doguwa	Kano	10.702	8.631	0	
+Kogo Primary Health Centre	Kiru	Kano	11.623	8.172	0	
+Kokai Health Post	Tsanyawa	Kano	12.219	8.022	0	
+Rafin Kofa	Dutse	Jigawa	11.741	9.149	2	
+Kofar Yamma	Bagwai	Kano	12.094	8.036	2	
+Kofar Kudu Dumbulum	Tsanyawa	Kano	12.184	8.019	3	Dumbulum
+Dadin Kowa	Doguwa	Kano	10.699	8.628	3	Tasha
+Kofar Mazugal	Dala	Kano	12.014	8.517	2	
+Kofar Ruwa	Dala	Kano	12.022	8.491	2	
+Komayu	Ajingi	Kano	12.074	9.171	2	
+Koya	Gwarzo	Kano	11.881	7.955	2	Zango
+Koubougué	Ngala	Borno	12.366	14.257	2	
+Magam Kotoko	Kala-Balge	Borno	12.371	14.419	2	
+Kokai Cikin Gari	Tsanyawa	Kano	12.219	8.025	2	Kokai
+Bakin Kogi Model Primary Health Center	Alkaleri	Bauchi	10.260	10.301	0	Galen Duguri HC - Gangar Dispensary
+Dan Koûssou	Madarounfa	Katsina	13.163	7.205	2	
+Kouroufawa	Madarounfa	Katsina	13.130	7.227	2	
+Kassa Koura	Bosso	Borno	13.532	13.040	2	
+Gajigana	Magumeri	Borno	12.257	13.108	3	Kori
+Kotte	Nganzai	Borno	12.447	13.186	2	
+Koshebe Kanuri	Mafa	Borno	11.976	13.319	2	Koshobe
+Koljiri	Damboa	Borno	11.052	12.544	2	
+Korogilum Aja	Chibok	Borno	10.857	12.704	2	Koramgilim B
+Lawan Kolo	Chibok	Borno	10.906	12.831	2	
+Kodeng	Shani	Borno	10.303	11.944	2	
+Konduku	Shani	Borno	10.242	11.810	2	
+Pala Kombo	Bayo	Borno	10.237	11.786	2	
+Ali Koriri	Magumeri	Borno	12.174	12.892	2	
+Koidimari	Magumeri	Borno	12.139	12.900	2	
+Kolori	Magumeri	Borno	12.080	12.959	2	
+Matta Koriri A	Magumeri	Borno	12.154	12.876	2	
+Matta Koriri B	Magumeri	Borno	12.156	12.875	2	
+Abatcha Koriri	Magumeri	Borno	12.386	12.656	2	
+Kolo Fannari	Gubio	Borno	12.522	12.567	2	
+Kolo Kusuri	Gubio	Borno	12.520	12.567	2	
+Mallam Koriri	Magumeri	Borno	12.434	12.600	2	
+Mallam Koriri	Gubio	Borno	12.447	12.597	2	
+Kolomari	Nganzai	Borno	12.386	12.900	2	
+Kore	Nganzai	Borno	12.434	12.924	2	
+Bukar Kolori	Nganzai	Borno	12.546	13.141	2	
+Kellu Koriri	Nganzai	Borno	12.546	13.144	2	
+Kodori	Nganzai	Borno	12.398	13.099	2	
+Kodori	Nganzai	Borno	12.492	13.125	2	
+Kondori	Nganzai	Borno	12.438	13.091	2	
+Yagana Kolomti	Nganzai	Borno	12.515	13.042	2	
+Yana Kolomti	Nganzai	Borno	12.514	13.044	2	
+Kodu Mallanti	Nganzai	Borno	12.520	13.297	2	
+Koduri Bulamari	Nganzai	Borno	12.521	13.297	2	
+Koduri Kyari Kurari	Nganzai	Borno	12.501	13.314	2	
+Zannari Korimiri	Nganzai	Borno	12.510	13.259	2	Koromiri
+Bukar Kolori	Magumeri	Borno	12.243	12.735	2	
+Goni Kolori	Magumeri	Borno	12.282	12.725	2	
+Kellu Koriri	Magumeri	Borno	12.251	12.735	2	
+Malla Koriri	Magumeri	Borno	12.274	12.727	2	
+Kogu	Shani	Borno	10.247	11.993	2	Kogu Two
+Koshim	Shani	Borno	10.171	11.965	2	
+Bukar Kolori	Nganzai	Borno	12.361	12.898	2	
+Kolori	Magumeri	Borno	12.233	12.950	2	
+Kolori	Nganzai	Borno	12.350	12.903	2	
+Kooram	Magumeri	Borno	12.213	12.871	2	
+Mallam Kolori	Magumeri	Borno	12.277	12.957	2	
+Bukar Koriri	Magumeri	Borno	12.311	13.042	2	
+Kongulon	Magumeri	Borno	12.272	13.090	2	
+Kosari Bulama Massa	Magumeri	Borno	12.226	13.099	2	
+Maraa Kodori	Nganzai	Borno	12.379	13.179	2	
+Tamsu Kori	Nganzai	Borno	12.322	13.136	2	
+Komandawa	Jere	Borno	12.066	13.100	2	
+Komandawa 2	Jere	Borno	11.970	13.177	2	
+Komandawa III	Jere	Borno	11.973	13.171	2	
+Komandawa	Jere	Borno	11.969	13.177	2	
+Goniri Kolomi	Mafa	Borno	12.004	13.287	2	
+Gurnum Kole I	Jere	Borno	11.969	13.226	2	
+Gurnum Kole II	Jere	Borno	11.975	13.229	2	
+Komchori	Jere	Borno	11.939	13.238	2	Kayaya
+Koshiri	Mafa	Borno	11.913	13.305	2	
+Kallayeri Modu Koloye	Magumeri	Borno	12.170	12.791	2	
+Kareram Mallumti Kosoye	Magumeri	Borno	12.197	12.781	2	Ngalari
+Koljimari Bidiri	Magumeri	Borno	12.134	12.737	2	
+Lawan Kolori Meleri	Magumeri	Borno	12.199	12.780	2	
+kartari B Kolomi	Magumeri	Borno	12.131	12.712	2	
+Koljiri	Damboa	Borno	11.088	12.896	2	
+Korongilum Zarma	Chibok	Borno	10.864	12.709	2	Korangilin A
+Kor Angilin Health Centre	Chibok	Borno	10.865	12.711	0	
+Bukar Kolori	Gubio	Borno	12.607	12.909	2	
+Modu Kollori	Gubio	Borno	12.574	12.863	2	
+Kobchi	Askira-Uba	Borno	10.868	13.161	2	
+Korko	Bayo	Borno	10.271	11.605	2	
+Bulama Kontori	Nganzai	Borno	12.647	13.097	2	
+Kodori Yalabe	Nganzai	Borno	12.680	13.075	2	
+Maina Koriri	Nganzai	Borno	12.577	13.166	2	
+Kodilli	Gubio	Borno	12.805	12.773	2	
+Kolkol	Bayo	Borno	10.253	11.643	2	
+Korko Fulani	Bayo	Borno	10.276	11.603	2	
+Korko Fulani	Bayo	Borno	10.274	11.599	2	
+Kotuva	Damboa	Borno	11.003	12.991	2	
+Koyari	Nganzai	Borno	12.606	13.251	2	
+Kokuri	Bassa	Kogi	7.944	7.206	2	
+Ardo Kowa	Shani	Borno	10.030	11.879	2	
+Kopandi Jibir	Shani	Borno	10.120	11.951	2	Kopondi Jauro Jibbir
+kopandi Musa	Shani	Borno	10.114	11.949	2	
+Kartari B Kolomi	Magumeri	Borno	12.115	12.803	2	
+Pilak Health Post Kombo Shani	Shani	Borno	10.064	11.832	0	
+Korikumawa	Magumeri	Borno	12.324	12.275	2	
+Tamsu Kori	Mobbar	Borno	12.863	12.458	2	
+Garin Koshi	Shani	Borno	10.334	11.942	2	
+Kogu Magira	Kwaya Kusar	Borno	10.418	11.948	2	
+Kogu	Shani	Borno	10.321	11.935	2	
+Kosseyl	Shani	Borno	10.070	12.045	2	Kasuyel
+Kelling Mai Angwa Kongo	Shani	Borno	10.309	12.175	2	
+Kodegere	Hawul	Borno	10.297	12.152	2	
+Kokuli	Shani	Borno	10.271	12.168	2	
+Ari Koriri	Gubio	Borno	12.830	12.645	2	
+Bulama Koloye	Gubio	Borno	12.779	12.641	2	
+Kodowuri	Mobbar	Borno	12.794	12.490	2	
+Ari koriri	Mobbar	Borno	12.913	12.629	2	
+Malum Kolomiri	Mobbar	Borno	12.920	12.633	2	
+Kodiriri	Gubio	Borno	12.801	12.847	2	
+Kokalla	Gubio	Borno	12.868	12.847	2	
+Kode Wango	Mobbar	Borno	13.218	12.631	2	
+Dadin Kowa	Hawul	Borno	10.437	12.097	2	
+Dadin Kowa	Hawul	Borno	10.334	12.176	2	
+Bakin Kogi	Hawul	Borno	10.374	12.431	2	
+Tiraku Kofur B	Hawul	Borno	10.486	12.356	2	
+Mallam Kolomari	Mobbar	Borno	13.372	12.892	2	
+Lawan Kosolari	Nganzai	Borno	12.735	13.192	2	
+Maje Kokori	Marte	Borno	12.267	13.821	2	
+Garin Kolo	Bayo	Borno	10.573	11.659	2	
+Gonan Kowa	Bayo	Borno	10.514	11.675	2	
+Koyamti Kyaribe	Mafa	Borno	11.841	13.425	2	
+Kogu	Bayo	Borno	10.697	11.777	2	
+Kogu Duku	Kwaya Kusar	Borno	10.501	11.968	2	
+Dadin Kowa	Biu	Borno	10.625	12.341	2	
+Kogu Thlar	Biu	Borno	10.577	12.368	2	
+Tiraku Kofur A	Hawul	Borno	10.489	12.356	2	
+Kolop	Damboa	Borno	10.872	12.430	2	
+Ngohi Kofan Hakimi Medical Dispensary	Askira-Uba	Borno	10.671	12.690	0	
+Kodocha	Damboa	Borno	11.192	12.587	2	
+Komda Tuya	Damboa	Borno	11.014	12.862	2	
+Komdi Gari	Damboa	Borno	11.011	12.869	2	
+Koyeri	Damboa	Borno	11.167	12.691	2	
+Koshari	Gwoza	Borno	11.275	13.858	2	
+Korohuma	Chibok	Borno	10.729	12.780	2	
+Koumogouna	Abadam	Borno	13.648	13.675	2	
+Kogum River	Jema'A	Kaduna	9.248	8.228	0	
+Konigin Des Fredens College	Enugu South	Enugu	6.413	7.502	0	
+Bandi / Bandi Koura	Bosso	Borno	13.511	12.946	2	
+Koaram	Bosso	Borno	13.546	13.082	2	
+Koukoudou	Bosso	Borno	13.531	13.006	2	
+Ari Kouari	Maïné Soroa	Yobe	13.125	12.231	2	
+Assaga Koura/Gana	Diffa	Borno	13.314	12.708	2	
+Kiri Koudo	Diffa	Yobe	13.088	12.353	2	
+Koulo Koura	Diffa	Borno	13.286	12.671	2	
+N'Garoua Koura	Diffa	Borno	13.382	12.757	2	
+Kotolougui	Tibiri	Kebbi	12.836	3.968	2	
+Doutchi Kozoro	Gada	Sokoto	13.764	5.814	2	Gidan Bizo
+Goulou Koulsao	Madarounfa	Sokoto	13.189	6.806	2	
+Kobay Ventures Filling Station	Uvwie	Delta	5.569	5.743	0	
+Kofaben Intl Filling Station	Yenegoa	Bayelsa	4.922	6.314	0	
+Kobison Oil Filling Station	Yenegoa	Bayelsa	4.923	6.314	0	
+Kolori	Monguno	Borno	12.351	13.427	2	
+Kororam	Monguno	Borno	12.489	13.476	2	
+Koftarari	Monguno	Borno	12.370	13.450	2	
+Kodomiri	Monguno	Borno	12.557	13.528	2	
+Ngumari Koso	Monguno	Borno	12.276	13.370	2	
+KOFABEN Intl Filling Station	Yenegoa	Bayelsa	4.938	6.313	0	
+Kollomari	Guzamala	Borno	12.862	13.572	2	
+Nolwodo Konto Bukar	Guzamala	Borno	12.733	13.345	2	
+Kolo Koleri	Guzamala	Borno	12.695	13.244	2	
+Kosorok B Modu Royami	Guzamala	Borno	12.957	13.070	2	
+Kosheri Kura B Abatcha	Guzamala	Borno	12.752	13.298	2	
+Kodori Bulamari	Guzamala	Borno	12.663	13.308	2	
+Kolkolla A	Guzamala	Borno	13.066	12.889	2	
+Bor Kolori	Guzamala	Borno	12.614	13.386	2	
+Kosire Goni Garimani	Guzamala	Borno	12.857	13.235	2	
+Kontori	Guzamala	Borno	12.681	13.270	2	
+Kofou Bulamari Bintu	Guzamala	Borno	12.721	13.416	2	
+Kenza Yakku Modu Kodumuri	Guzamala	Borno	12.698	13.382	2	
+Kosorok Bulama Abatcha	Guzamala	Borno	12.963	13.054	2	
+Kosorok Kajiduri	Guzamala	Borno	12.949	13.046	2	
+Koshiri Wallambe	Guzamala	Borno	12.735	13.298	2	
+Koshiri Gana	Guzamala	Borno	12.744	13.302	2	
+Koshiri	Guzamala	Borno	12.732	13.302	2	
+Kodouri	Guzamala	Borno	12.841	13.247	2	
+Kontori B Ali	Konduga	Borno	11.844	12.824	2	
+Kolori Kyari Mele	Konduga	Borno	11.845	12.827	2	
+Kotori	Jere	Borno	11.766	13.265	2	
+Kodokolam	Kaga	Borno	11.946	12.682	2	
+Kolori Karumi	Konduga	Borno	11.711	13.209	2	
+Kolomatari	Konduga	Borno	11.676	12.961	2	
+Bonzon Bulama Kolo	Jere	Borno	11.703	13.319	2	
+Kontori Kachallari	Konduga	Borno	11.637	13.259	2	
+Kolori	Konduga	Borno	11.710	13.213	2	
+Kolokimeri	Konduga	Borno	11.584	12.971	2	
+Tamsu Kori	Kaga	Borno	11.877	12.658	2	
+Kodu Kullum	Konduga	Borno	11.841	12.769	2	
+Koyamti	Konduga	Borno	11.678	13.093	2	
+Kontori Bulaw	Konduga	Borno	11.637	13.264	2	
+Kolgifayo Sale	Konduga	Borno	11.656	13.181	2	
+Kolomari	Konduga	Borno	11.632	13.061	2	
+Kota	Konduga	Borno	11.664	12.996	2	
+Komala	Konduga	Borno	11.488	12.966	2	
+Modu Kolori	Kaga	Borno	11.980	12.697	2	
+Kondoli Gamboye	Konduga	Borno	11.678	13.236	2	
+Kolgifayo Bulamari	Konduga	Borno	11.654	13.168	2	
+Koya Bulama B	Jere	Borno	11.768	13.231	2	
+Kobay Filling Station, Warri	Warri South	Delta	5.529	5.723	0	
+Koloni	Bakura	Zamfara	12.578	6.008	2	
+Konaluba	Tureta	Sokoto	12.679	5.510	2	
+Kona Kinba	Dange-Shuni	Sokoto	12.967	5.290	2	
+Kolokoura	Diffa	Borno	13.281	12.668	2	
+Illikimou kolly	Imeko Afon	Ogun	7.431	2.787	2	
+Epp Kolly	Imeko Afon	Ogun	7.431	2.785	0	
+Kolawole Market	Ile Oluji/Okeigbo	Ondo	7.269	5.012	0	
+Koseru Market	Odigbo	Ondo	6.677	4.525	0	
+Dan Kounkourou	Madarounfa	Katsina	13.114	7.432	2	
+Kouloum-Dina	Kala-Balge	Borno	11.714	14.595	2	
+Muna Mallam Kori Refugee Site	Jere	Borno	11.866	13.250	0	
+Koba	Rogo	Kano	11.473	7.691	2	
+Dayaso	Rogo	Kano	11.516	7.736	2	Ungwan Dan Kolo
+Kofar Fada	Rogo	Kano	11.560	7.936	2	Gidan Jajaye
+Kogon Kura	Gwarzo	Kano	11.925	7.900	2	
+Kofar	Shanono	Kano	12.027	7.942	2	
+Kotoko	Kiru	Kano	11.589	8.082	2	
+Kogo	Kiru	Kano	11.625	8.169	2	
+Dangada Kofa Fada	Bagwai	Kano	12.012	8.128	2	Dan Gada
+Yako Kofar Fada	Kiru	Kano	11.654	8.190	2	Yako
+Santar Komau	Bichi	Kano	12.238	8.139	2	
+Danmarina Hayi Kogi	Madobi	Kano	11.833	8.303	2	Damurna
+Kofar Arewa	Dawakin Tofa	Kano	12.059	8.392	2	
+Koren Tabo	Makoda	Kano	12.479	8.429	2	
+Unguwar Kore	Makoda	Kano	12.502	8.438	2	
+Kore Gari	Dambatta	Kano	12.359	8.746	2	Kore
+Koguna	Makoda	Kano	12.381	8.457	2	
+Sambauna Kofar Fada	Minjibir	Kano	12.126	8.595	2	San Bauna
+Koya	Dambatta	Kano	12.264	8.619	2	
+Kowa Kati	Minjibir	Kano	12.251	8.676	2	
+Koranci Cikin Gari	Ungongo	Kano	12.083	8.556	2	
+Koya Mai Masallaci	Minjibir	Kano	12.122	8.620	2	
+Koya	Minjibir	Kano	12.119	8.628	2	Koya Tadeta
+Yar Kogi Cikin Gari	Gezawa	Kano	12.143	8.760	2	
+Dadin Kowa	Wudil	Kano	11.909	8.884	2	
+Kogar Kaza	Dawakin Kudu	Kano	11.806	8.727	2	
+Kogar Babba	Dawakin Kudu	Kano	11.809	8.721	2	
+Korawa	Warawa	Kano	11.941	8.725	2	
+Komi	Wudil	Kano	11.809	8.845	3	Wudil
+Kore Sabuwa	Dawakin Kudu	Kano	11.863	8.608	2	
+Unguwar Reka Huguma	Takai	Kano	11.564	9.318	2	Huguma;Kogin Huguma
+Sani Arewa	Garko	Kano	11.531	9.022	2	Kogin Sani
+Kofar Kudu	Takai	Kano	11.442	9.089	2	
+Kofar Fada	Takai	Kano	11.408	9.195	2	
+Kofar Chiri	Garko	Kano	11.604	8.861	2	Kafin Chiri
+Tukuta Kofar Gabas	Tudun Wada	Kano	11.282	8.704	2	
+Rufan Kofar Fada	Tudun Wada	Kano	11.316	8.718	2	
+Kofar Gabas	Tudun Wada	Kano	11.434	8.771	2	
+Kofar Kudu	Tudun Wada	Kano	11.367	8.673	2	
+Gidan Korau	Tudun Wada	Kano	11.292	8.511	2	
+Saji Kofar Fada Dangage	Rano	Kano	11.464	8.586	2	
+Kode	Bunkure	Kano	11.642	8.519	2	
+Sabuwar Kode	Bunkure	Kano	11.643	8.521	2	
+komsiri heath post	Jada	Adamawa	8.722	12.056	0	
+kopa basic heath clinic	Michika	Adamawa	10.738	13.338	0	
+kofur heath center	Madagali	Adamawa	10.760	13.496	0	
+konkol maternity clinic	Maiha	Adamawa	9.650	13.103	0	
+King Koko Express	Yenegoa	Bayelsa	4.935	6.285	0	
+Kowa Hospital	Chanchaga	Niger	9.656	6.529	0	
+United African Primary School, Ajibode Konifewo	Ado Odo/Ota	Ogun	6.712	3.231	0	
+United African Church Primary School Ii, Kooko Atan	Ado Odo/Ota	Ogun	6.614	3.225	0	
+United African Church Primary School I, Kooko Atan	Ifo	Ogun	6.795	3.243	0	
+United African Primary School, Ajibode Konifewo	Ado Odo/Ota	Ogun	6.726	3.195	0	
+United African Church Primary School I, Kooko Atan	Ado Odo/Ota	Ogun	6.671	3.090	0	
+United African Church Primary School Ii, Kooko Atan	Ado Odo/Ota	Ogun	6.657	3.091	0	
+Erho Korhi	Ethiope East	Delta	5.668	6.022	2	
+Kofar Jauro	Funakaye	Gombe	10.816	11.473	2	
+Community Secondary School, Korokoro	Tai	Rivers	4.734	7.311	0	
+Kofar Gwari Primary Health Centre	Kokona	Nasarawa	8.686	8.008	0	
+Kobi Primary School	Bauchi	Bauchi	10.312	9.839	0	
+Koron Tsohuwa Primary Health Care	Kaduna South	Kaduna	10.467	7.439	0	
+Kochin Apartment A	Akure South	Ondo	7.290	5.152	0	
+Students Affairs	Akure South	Ondo	7.301	5.138	0	Prof. Kolade Ipinmoroti Building
+Kolex Olabamiji	Iwo	Osun	7.630	4.168	0	
+Koiya	Jakusko	Yobe	12.223	10.863	2	
+Komadugu Gana	Fune	Yobe	12.097	11.021	2	
+Colare Bornu	Gulani	Yobe	11.097	11.545	2	Kolare Bornu
+Konya	Wamba	Nasarawa	8.869	8.665	2	
+koko beach	Amuwo Odofin	Lagos	6.409	3.243	0	
+PHC Kodape	Karu	Nasarawa	8.953	7.680	0	
+Kodape Primary School	Karu	Nasarawa	8.954	7.679	0	
+Kosofe	Kosofe	Lagos	6.569	3.380	2	
+Karimu Kotun Street	Eti Osa	Lagos	6.425	3.424	1	
+Kosoko Street	Ifo	Ogun	6.653	3.369	1	
+Felicia Koleosho Street	Ikeja	Lagos	6.597	3.359	1	
+Kobomoje Street	Ibadan South East	Oyo	7.370	3.898	1	
+Korau Road	Kaduna North	Kaduna	10.529	7.459	1	
+Kontagora Road	Kaduna North	Kaduna	10.515	7.429	1	
+Konkord Street	Oredo	Edo	6.328	5.598	1	
+Maroua-Kousséri	Kala-Balge	Borno	11.594	14.652	1	
+Maroua-Kousséri	Kala-Balge	Borno	11.789	14.631	1	
+Maroua-Kousséri	Kala-Balge	Borno	12.049	14.633	1	
+Kofo Abayomi Road	Eti Osa	Lagos	6.435	3.415	1	
+Kola Adewoyin Street	Ibadan North	Oyo	7.440	3.910	1	
+Koyejo Street	Ibadan South West	Oyo	7.381	3.879	1	
+Kosoko Street	Lagos Island	Lagos	6.460	3.386	1	
+Kosofe Road	Eti Osa	Lagos	6.457	3.411	1	
+Kodesoh Street	Ikeja	Lagos	6.593	3.342	1	
+Kolawole Oki Close	Kosofe	Lagos	6.560	3.391	1	
+Kola Adeyeye Street	Kosofe	Lagos	6.606	3.375	1	
+Kokumo Street	Ikeja	Lagos	6.638	3.350	1	
+Alh. Kofoworola Crescent	Ikeja	Lagos	6.606	3.345	1	
+Kolawole Odunsi Street	Ikeja	Lagos	6.594	3.346	1	
+Kola Adeyina Close	Eti Osa	Lagos	6.450	3.474	1	
+Kofo Abayomi Street	Eti Osa	Lagos	6.437	3.410	1	
+Kofar Mata Road	Kano Municipal	Kano	11.995	8.518	1	
+Koilo Street	Lagos Island	Lagos	6.457	3.393	1	
+Kolda Street	Municipal Area Council	FCT Abuja	9.070	7.488	1	
+Koro Rd	Municipal Area Council	FCT Abuja	9.141	7.372	1	
+Komoe Street	Municipal Area Council	FCT Abuja	9.089	7.495	1	
+Kokoma Close	Municipal Area Council	FCT Abuja	9.087	7.470	1	
+Koforidua Street	Municipal Area Council	FCT Abuja	9.056	7.460	1	
+Kontagora Street	Municipal Area Council	FCT Abuja	9.033	7.482	1	
+Sani Lawal Kofan Mata	Tarauni	Kano	11.969	8.556	1	
+Koya Street	Surulere	Lagos	6.500	3.343	1	
+Kosoko Drive	Shomolu	Lagos	6.516	3.394	1	
+Kosoko Drive	Shomolu	Lagos	6.518	3.395	1	
+Kokumo Street	Agege	Lagos	6.623	3.304	1	
+Komolafe Street	Agege	Lagos	6.624	3.321	1	
+Kotie Street	Warri South	Delta	5.530	5.745	1	
+Ajio-Koti Mbaduku Road	Kwande	Benue	6.737	9.216	1	
+Kode Street	Kosofe	Lagos	6.572	3.375	1	
+Nasir Ado Bayero Road	Kano Municipal	Kano	11.986	8.526	1	Sabuwar Kofa
+Korau Road	Nassarawa	Kano	12.000	8.565	1	
+Kofar Dawanau Road	Dala	Kano	12.017	8.495	1	
+FCE Kontagora Road	Kontagora	Niger	10.382	5.464	1	
+Komi Road	Wudil	Kano	11.809	8.844	1	
+Kolajo Close	Ifako/Ijaye	Lagos	6.638	3.327	1	
+Kopex Quarters	Enugu North	Enugu	6.460	7.474	1	
+Kofar Yamma	Tofa	Kano	12.058	8.267	1	
+Kofo Kasimu Avenue	Amuwo Odofin	Lagos	6.481	3.301	1	
+Kofar Yamma Close	Wudil	Kano	11.808	8.843	1	
+Olayunji Koya Street	Ìkòròdú	Lagos	6.616	3.506	1	
+Kociya Street	Kano Municipal	Kano	11.977	8.532	1	
+Kogo Health Post	Takai	Kano	11.581	9.156	0	
+Koren Tabo Health Post	Makoda	Kano	12.502	8.440	0	
+Koguna Primary Health Centre	Makoda	Kano	12.385	8.460	0	
+Kore Primary Health Centre	Dambatta	Kano	12.358	8.749	0	
+Koya Health Post	Dambatta	Kano	12.264	8.620	0	
+koso, Kagarko local government, Kaduna state, Nigeria	Kagarko	Kaduna	9.339	7.815	1	
+Kofar Mata Road	Kano Municipal	Kano	12.000	8.526	1	
+Adewale Kolawole Crescent	Eti Osa	Lagos	6.426	3.464	1	
+Muna Kori Bula Yalaye	Jere	Borno	11.871	13.240	1	
+Kowa Health Clinic Rimin Zayam	Toro	Bauchi	10.140	9.290	0	
+Modern Primary Health Center Bakin Kogi	Alkaleri	Bauchi	10.074	10.351	0	
+Dasham Bakin Kogi Health Center	Kanke	Plateau	9.494	9.545	0	
+Engr. Kola Ajibola Street	Eti Osa	Lagos	6.452	3.576	1	
+Pont Kogui	Diffa	Borno	13.278	12.621	1	
+Pala Kombo Road	Bayo	Borno	10.245	11.789	1	
+Konshisha Street	Markurdi	Benue	7.723	8.538	1	
+Hanyar Koya Asibiti	Minjibir	Kano	12.121	8.624	1	
+Komauah Alayande Close	Eti Osa	Lagos	6.477	3.659	1	
+Kolawole Shonibare Street	Oshodi/Isolo	Lagos	6.542	3.328	1	
+Koroama Access Road	Yenegoa	Bayelsa	5.037	6.292	1	
+Layin Kotu Street	Tarauni	Kano	11.969	8.534	1	
+Opolo New Road-AIT-Elebele-Kolocreek-Imiringi	Yenegoa	Bayelsa	4.912	6.340	1	
+Opolo New Road-AIT-Elebele-Kolocreek-Imiringi	Ogbia	Bayelsa	4.862	6.348	1	
+Opolo New Road-AIT-Elebele-Kolocreek-Imiringi	Ogbia	Bayelsa	4.873	6.338	1	
+Koko-Atanda-Offa Road	Ifelodun	Kwara	8.313	4.726	1	
+Kofar Gabas Road	Tofa	Kano	12.056	8.275	1	
+Kofar Fada Road	Babura	Jigawa	12.773	9.015	1	
+Kola Amodu Close	Kosofe	Lagos	6.624	3.369	1	
+Kobiti Road	Abeokuta South	Ogun	7.159	3.340	1	
+Emmanuel Kolawole Street	Shomolu	Lagos	6.528	3.377	1	
+Alh. Kofoworola Close	Ojo	Lagos	6.461	3.170	1	
+Kosebinu Street	Alimosho	Lagos	6.654	3.279	1	
+Koya Akinwale Street	Alimosho	Lagos	6.596	3.256	1	
+Kola Olaogun	Alimosho	Lagos	6.630	3.285	1	
+Kole Awani Street	Ifako/Ijaye	Lagos	6.667	3.314	1	
+Kolawole Shonibare Street	Mushin	Lagos	6.549	3.362	1	
+Kolawole Adekunle Street	Eti Osa	Lagos	6.474	3.566	1	
+Kolade James Street	Kosofe	Lagos	6.553	3.383	1	
+Kokoro Aye	Ifo	Ogun	6.683	3.294	1	
+Koya Adeniran Street	Ìkòròdú	Lagos	6.617	3.487	1	
+Muna Koreri	Jere	Borno	11.865	13.241	0	
+Maroua-Kousséri	Kala-Balge	Borno	11.920	14.645	1	
+Nedugo-Okolobiri-Ogbunagha-Koroama	Yenegoa	Bayelsa	5.053	6.373	1	
+Frank Kokori Street	Eti Osa	Lagos	6.469	3.589	1	
+Kolington Street	Alimosho	Lagos	6.630	3.279	1	
+Karimu Kotun Street	Eti Osa	Lagos	6.426	3.426	1	
+Kolawole Shonibare Street	Oshodi/Isolo	Lagos	6.546	3.326	1	
+Kofoworola Akah Street	Oshodi/Isolo	Lagos	6.539	3.308	1	
+Kogberegbe Street	Oshodi/Isolo	Lagos	6.532	3.320	1	
+Olufemi Kolawole Street	Oshodi/Isolo	Lagos	6.517	3.318	1	
+Koko Street	Uvwie	Delta	5.565	5.772	1	
+COMRADE KOKOMA EHIGIAMUSOE AVENUE	Oredo	Edo	6.295	5.570	1	
+Oke Koto	Iwo	Osun	7.639	4.181	1	
+Lawan kolo Street	Ngelzarma	Yobe	11.752	11.973	1	
+Kolawale Ajayi Streer	Eti Osa	Lagos	6.456	3.614	1	
+Kolda Street	Gwagwalada	FCT Abuja	9.111	7.218	1	
+Kolawole Akinyemi Street	Badagry	Lagos	6.441	2.979	1	
+Kogi Lane	Ado Odo/Ota	Ogun	6.683	3.041	1	
+FCE Kontagora Road	Kontagora	Niger	10.395	5.468	1	
+konigba	Ijebu North	Ogun	6.942	3.904	1	
+Kosodo	Ibadan North East	Oyo	7.375	3.909	1	
+Kosoko Street	Ifo	Ogun	6.675	3.375	1	
+Kosi by ugwunobakpa	Onitsha North	Anambra	6.156	6.776	1	
+Kolade Abayomi Drive	Eti Osa	Lagos	6.476	3.628	1	
+Kofo Kolaru Street	Eti Osa	Lagos	6.505	3.584	1	
+Kofo Abayomi Road	Eti Osa	Lagos	6.436	3.410	1	
+Kofar Kudu Road	Tofa	Kano	12.057	8.273	1	
+Kogi State Specialist Hospital, Lokoja	Lokoja	Kogi	7.793	6.732	0	
+Kodesoh Street	Uvwie	Delta	5.550	5.774	1	
+Maroua-Kousséri	Kala-Balge	Borno	11.911	14.644	1	
+Kofa Primary Health Centre	Bebeji	Kano	11.555	8.264	0	
+Kokiya Health Post	Shanono	Kano	12.006	8.054	0	
+Kofar Chiri Primary Health Centre	Garko	Kano	11.601	8.863	0	
+Family Planning Clinic Kofawa	Bauchi	Bauchi	10.294	9.844	0	
+Kofar Dumi Maternal and Child Health Clinic	Bauchi	Bauchi	10.308	9.857	0	Maternity and Child Health Center Tudun Wadan
+Kobi Dispensary	Bauchi	Bauchi	10.313	9.840	0	
+Dogon Jeji Health Clinic	Jama'Are	Bauchi	11.739	9.955	0	Kofar Yamma
+Bada Koshi Primary Health Center	Bogoro	Bauchi	9.554	9.504	0	Boi Primary Health Center
+Diete-Koki Memorial Hospital	Yenegoa	Bayelsa	4.945	6.338	0	
+Maternal and New Child Health Clinic, Kofar Guga	Muhammadu Dikko Stadium	Katsina	12.990	7.585	0	
+Kogin Sallah Health Post	Toro	Bauchi	10.131	9.028	0	
+Opolo New Road-AIT-Elebele-Kolocreek-Imiringi	Ogbia	Bayelsa	4.859	6.344	1	
+Konduga General Hospital	Konduga	Borno	11.657	13.407	0	
+kodomun comprehensive health clinic	Demsa	Adamawa	9.458	12.216	0	
+kodomin primary health care	Demsa	Adamawa	9.457	12.216	0	
+Kodomin health care entrance	Demsa	Adamawa	9.458	12.216	0	
+kongoli primary health facilities maiha	Maiha	Adamawa	9.792	13.106	0	
+Koka Health Clinic	Tarmua	Yobe	12.057	11.968	0	
+Bujum Kona Health Clinic	Numan	Adamawa	9.312	11.660	0	
+Nedugo-Okolobiri-Ogbunagha-Koroama	Yenegoa	Bayelsa	5.046	6.339	1	
+tigno kogi dispensary	Larmurde	Adamawa	9.507	11.734	0	
+kojiti primary heath center	Madagali	Adamawa	10.688	13.541	0	
+Kiri Kolere Primary Health Care Center	Fufore	Adamawa	9.096	12.220	0	
+salma koli heath post	Maiha	Adamawa	10.016	13.096	0	
+Korowanga Dispensary	Fune	Yobe	11.823	11.684	0	
+Kollere Health Clinic	Fune	Yobe	11.885	11.285	0	
+Koksufa Health Post	Fufore	Adamawa	9.062	12.456	0	
+Koriyel Dispensary	Fune	Yobe	12.163	11.469	0	
+Koriyel Dispensary	Fune	Yobe	12.165	11.472	0	
+Koyaya Health Post	Fune	Yobe	11.474	11.533	0	
+Shadda Koko	Tarauni	Kano	11.976	8.561	1	
+korinya city technical academy	Konshisha	Benue	6.909	8.905	0	
+govt secondary school korinya	Konshisha	Benue	6.933	8.934	0	
+adzer beke college korinya city	Konshisha	Benue	6.924	8.933	0	
+Dadin kowa comprehensive health center	Jos South	Plateau	9.851	8.867	0	
+Kosoko Street	Ifo	Ogun	6.641	3.369	1	
+Kofar Mata Road	Fagge	Kano	12.005	8.533	1	
+Adewale Kolawole Crescent	Eti Osa	Lagos	6.426	3.468	1	
+General Hospital Kontagora	Kontagora	Niger	10.401	5.471	0	
+Kawaji PHC, Kwanar Kotu, Kano	Nassarawa	Kano	12.010	8.578	0	
+Kollere Kafaje	Fune	Yobe	11.918	11.252	2	
+Konkomma	Machina	Yobe	13.111	10.070	2	
+Koriyel	Tarmua	Yobe	12.317	11.553	2	
+Sungul Koka	Tarmua	Yobe	12.064	11.992	2	
+Korayel	Gwiwa	Jigawa	12.760	8.205	2	
+Kofar Yamma	Gumel	Jigawa	12.634	9.388	2	
+Kofar Arewa	Gumel	Jigawa	12.641	9.390	2	
+Kasuwar Kofa	Hadejia	Jigawa	12.448	10.042	2	
+Kore Balatu	Gagarawa	Jigawa	12.424	9.438	2	
+Kore	Garki	Jigawa	12.370	9.438	2	
+Koya	Miga	Jigawa	12.239	9.830	2	
+Kotorkoshi	Bungudu	Zamfara	12.157	6.861	2	
+Tudun Kose	Binji	Sokoto	13.271	4.925	2	
+Kojiyo	Goronyo	Sokoto	13.472	5.595	2	
+Koko Magaji	Koko-Besse	Kebbi	11.408	4.527	2	
+Kokani South	Argungu	Kebbi	12.742	4.537	2	
+Koko Firchin	Koko-Besse	Kebbi	11.420	4.484	2	
+Kola Tarasa	Birnin Kebbi	Kebbi	12.455	4.121	2	
+Kokani North	Argungu	Kebbi	12.771	4.532	2	
+Jega Kokani	Jega	Kebbi	12.222	4.427	2	
+Koko-Besse	Koko-Besse	Kebbi	11.436	4.479	2	
+Limancin Kona	Zaria	Kaduna	11.050	7.697	2	
+Kurmin Kogi	Ikara	Kaduna	11.237	8.163	2	
+Kofa	Bebeji	Kano	11.560	8.270	2	
+Dadin Kowa	Doguwa	Kano	10.672	8.644	2	
+Koguna	Makoda	Kano	12.387	8.447	2	
+Kokiya	Shanono	Kano	11.995	8.059	2	
+Kogo	Kiru	Kano	11.639	8.151	2	
+Kore	Dambatta	Kano	12.379	8.732	2	
+Kofa	Kusada	Katsina	12.455	7.895	2	
+Koda	Charanchi	Katsina	12.625	7.725	2	
+Koza	Mai'Adua	Katsina	13.088	8.342	2	
+Kogari	Matazu	Katsina	12.226	7.745	2	
+Kolokuma/Opokuma	Kolokuma/Opokuma	Bayelsa	5.066	6.246	2	
+Konshisha	Konshisha	Benue	7.120	8.618	2	
+Kogi	Kogi	Kogi	8.127	6.856	2	
+Kokona	Kokona	Nasarawa	8.846	8.083	2	
+Ngurthlavu Kopa	Askira-Uba	Borno	10.797	13.289	2	
+Mulgo Kopchi	Damboa	Borno	11.240	13.072	2	
+Koshebe	Mafa	Borno	11.994	13.322	2	
+Wawa Korode	Damboa	Borno	11.152	12.530	2	
+Korongilum	Chibok	Borno	10.891	12.650	2	
+Konkiyel	Darazo	Bauchi	11.119	10.495	2	
+Kore	Gamawa	Bauchi	12.225	10.354	2	
+Kombo	Shani	Borno	10.069	11.819	2	
+Kosofe	Kosofe	Lagos	6.582	3.415	2	
+Konduga	Konduga	Borno	11.633	13.184	2	
+Konduga	Konduga	Borno	11.682	13.410	2	
+Kontagora	Kontagora	Niger	10.448	5.513	2	
+Kosawa	Kura	Kano	11.769	8.467	2	

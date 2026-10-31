@@ -1,0 +1,925 @@
+Tudu	Chikun	Kaduna	10.467	7.352	2	
+Tunga Lele	Bunza	Kebbi	12.160	4.114	2	
+Tungan Sauna	Bunza	Kebbi	12.147	4.117	2	
+Tung Fara	Gwandu	Kebbi	12.431	4.725	2	
+Gidan Tudu	Shagari	Sokoto	12.488	4.905	2	
+Tunga Zabaruma	Koko-Besse	Kebbi	11.307	4.364	2	
+Tunga Mailafia	Bagudo	Kebbi	11.398	4.273	2	
+Tungar Zazzagawa	Argungu	Kebbi	12.705	4.367	2	
+Tudun Jatau	Igabi	Kaduna	10.755	7.298	2	Tudun Jarau
+Turawa	Fakai	Kebbi	11.561	4.969	2	
+Tungan-Doro	Fakai	Kebbi	11.567	4.912	2	
+Tunga Hakimi Umaru	Bagudo	Kebbi	11.025	4.328	2	
+Tungan Kwokene	Bagudo	Kebbi	11.561	4.041	2	
+Tunga Alhaji	Bagudo	Kebbi	11.428	4.256	2	
+Tungin-Shakushe	Fakai	Kebbi	11.703	4.822	2	
+Tunga Malam Garba	Koko-Besse	Kebbi	11.373	4.429	2	
+Tunga Numafara	Bagudo	Kebbi	11.134	4.216	2	
+Tundun-Goggo-Fulani	Gummi	Zamfara	12.110	4.982	2	
+Tunga Kwala	Bagudo	Kebbi	11.324	4.176	2	
+Tunga Yelwa Borgu	Bagudo	Kebbi	11.304	4.177	2	
+Tunga Zabarmawa	Koko-Besse	Kebbi	11.469	4.413	2	
+Tuimpeigagbene	Southern Ijaw	Bayelsa	4.408	5.854	2	Dubagbene
+Tungan Umuro	Borgu	Niger	10.430	3.860	2	
+Tungu Kone	Augie	Kebbi	12.882	4.661	2	
+Tungawayin	Bosso	Niger	9.517	6.267	2	Tungawagi
+Tulaye	Jega	Kebbi	12.105	4.404	2	
+Baiona	Paikoro	Niger	9.400	6.883	2	Tungan Kuka;Baidna
+Abuja	Abaji	FCT Abuja	9.250	6.933	2	Tufa
+Dan Tudu	Sabon Birni	Sokoto	13.599	6.156	2	
+Tungan Kiroma	Dandi	Kebbi	11.679	3.730	2	
+Tungan Baidu	Dandi	Kebbi	11.824	3.918	2	
+Tungan Sumaru	Dandi	Kebbi	11.669	3.766	2	
+Tungan Danbena	Bunza	Kebbi	12.151	3.947	2	
+Tungan Habi	Dandi	Kebbi	11.704	3.673	2	
+Tudun Sani	Dandi	Kebbi	11.692	3.679	2	
+Tungan Bauna	Dandi	Kebbi	11.812	3.786	2	
+Tungan Musa	Dandi	Kebbi	11.937	3.896	2	
+Tunga Bala	Bunza	Kebbi	12.219	3.969	2	
+Tungan Arawa	Bagudo	Kebbi	11.423	3.772	2	
+Tungan Maigari	Dandi	Kebbi	11.669	3.798	2	
+Tunga Kokani	Dandi	Kebbi	11.716	3.814	2	
+Tungan Kwokoi	Dandi	Kebbi	11.712	3.823	2	
+Tumbu	Shani	Borno	10.059	12.036	2	
+Tum	Biu	Borno	10.607	12.109	2	
+Tulutu	Goronyo	Sokoto	13.442	5.815	2	Tu
+Tungan-Rungunmawa	Illela	Sokoto	13.801	5.342	2	
+Old Tangwagi	Wushishi	Niger	9.583	6.067	2	Tunwagi
+Tungan Zau	Shanga	Kebbi	11.265	4.755	2	
+Tungan Gimba	Lafia	Nasarawa	8.650	8.817	2	Tunga Gimba;Tungan Gimba
+Tungan Kuria	Gwandu	Kebbi	12.470	4.740	2	
+Tungan Makeri	Shanga	Kebbi	10.934	4.593	2	
+Tungan Makeri	Yauri	Kebbi	10.779	4.729	2	
+Tungan Maaji	Shanga	Kebbi	10.989	4.698	2	
+Tungan Buda	Shanga	Kebbi	10.986	4.770	2	
+Tungan Bori	Shanga	Kebbi	10.919	4.721	2	
+Tungan Barumi	Shanga	Kebbi	10.983	4.534	2	
+Tungan Barachi	Agwara	Niger	10.905	4.593	2	
+Tugan Noma	Agwara	Niger	10.874	4.401	2	Tungar Noma
+Tudu	Bungudu	Zamfara	12.363	6.504	2	
+Dan Tudu Wusenia	Tangaza	Sokoto	13.644	4.799	2	
+Tudu	Gudu	Sokoto	13.466	4.253	2	
+Tunga	Wurno	Sokoto	13.216	5.481	2	
+Tungan Jakai	Gwadabawa	Sokoto	13.456	5.518	2	
+Tungayama	Gwadabawa	Sokoto	13.453	5.513	2	
+Tungan Tudu	Bagudo	Kebbi	10.972	4.357	2	
+Tungan Sahi	Shanga	Kebbi	10.992	4.918	2	
+Kaddi Tudu	Gada	Sokoto	13.601	5.732	2	
+Tungan-Gona	Ngaski	Kebbi	10.444	4.658	2	
+Tungan Mare	Arewa Dandi	Kebbi	13.156	4.421	2	
+Tudun Wada	Kaura Namoda	Zamfara	12.373	6.659	2	
+Tubwibwi	Gusau	Zamfara	12.027	6.759	2	
+Tundunrahaje	Maru	Zamfara	11.357	6.539	2	
+Tudun-Raha	Maru	Zamfara	11.459	6.343	2	
+Tudun Wada	Maru	Zamfara	11.493	6.454	2	
+Tunga	Kware	Sokoto	13.079	5.397	2	
+Tungan Wazam	Bagudo	Kebbi	11.516	4.114	2	
+Tungan Sauna	Bagudo	Kebbi	11.563	4.347	2	
+Tungan Dole	Suru	Kebbi	11.828	4.039	2	
+Tunga Zagi	Bagudo	Kebbi	11.453	4.159	2	
+Tunga Ulu	Bagudo	Kebbi	11.380	4.230	2	
+Tungan Jauta	Bodinga	Sokoto	12.962	5.129	2	
+Tudu	Goronyo	Sokoto	13.409	5.701	2	
+Tungan Aliu	Sakaba	Kebbi	11.181	5.383	2	
+Tungan Macheri	Wasagu-Danko	Kebbi	11.213	5.737	2	
+Tukur	Buji	Jigawa	11.540	9.768	2	Yalwar Tukur
+Tunga-Damalu	Bagudo	Kebbi	11.553	4.321	2	
+Tungan-Mallam Mara	Fakai	Kebbi	11.595	4.706	2	
+Tungan Senga	Bagudo	Kebbi	11.658	4.201	2	
+Tunga Tukkuwa	Koko-Besse	Kebbi	11.235	4.303	2	
+Tunga Babuga	Koko-Besse	Kebbi	11.274	4.315	2	
+Tungan Deko	Tambuwal	Sokoto	12.225	4.660	2	
+Tungan Dumbo	Fakai	Kebbi	11.617	4.954	2	
+Kiadan Tudu	Arewa Dandi	Kebbi	12.973	4.171	2	Kiada
+Tumpere	Kirfi	Bauchi	10.338	10.798	2	Tumpure
+Tunga Gwani	Argungu	Kebbi	12.778	4.439	2	
+Tungan Maji	Kebbe	Sokoto	11.701	4.401	2	
+Tungan Hassan	Bagudo	Kebbi	11.449	4.371	2	
+Tunga Barahe	Koko-Besse	Kebbi	11.449	4.414	2	
+Tunga Tafo	Koko-Besse	Kebbi	11.212	4.308	2	
+Tunga Mai	Koko-Besse	Kebbi	11.366	4.354	2	
+Tunga Maje	Koko-Besse	Kebbi	11.357	4.352	2	
+Tudai	Lere	Kaduna	10.303	8.638	2	
+Tudun Samberu	Shagari	Sokoto	12.581	5.267	2	Tungan Samberu
+Tungan Fulani	Toro	Bauchi	10.042	8.992	2	
+Tunga Bahata	Bagudo	Kebbi	11.027	4.248	2	
+Tungan-Gamji	Fakai	Kebbi	11.673	4.879	2	
+Tunga Rere	Argungu	Kebbi	12.597	4.306	2	
+Tunga Boka	Arewa Dandi	Kebbi	12.837	4.331	2	
+Tudu	Tsafe	Zamfara	12.047	6.820	2	
+Tangagbene	Southern Ijaw	Bayelsa	4.561	5.698	2	Tangbene;Tuinpega
+Tundun Dumi	Augie	Kebbi	12.835	4.753	2	
+Tudun-Wada	Wasagu-Danko	Kebbi	11.325	6.019	2	
+Tukudawa	Isa	Sokoto	13.159	6.440	2	
+Malam Gana	Gbako	Niger	9.350	5.917	2	Tungar Malam Gana;Tungan Malam Gana
+Tubule	Bayo	Borno	10.312	11.754	2	Tobali
+Tungan Chado	Lavun	Niger	9.317	5.617	2	
+Tunga Sawai	Bagudo	Kebbi	11.467	4.167	2	
+Tungan Dan Zaki	Rijau	Niger	11.293	4.775	2	
+Tunga Sarikawa	Bagudo	Kebbi	11.460	4.038	2	
+Chinka	Wukari	Nasarawa	8.033	9.433	2	Chinkai;Sinkai;Tungan Sinkai
+Tula Yiri	Kaltungo	Gombe	9.800	11.500	2	Tula Yari
+Tungan Godawa	Bunza	Kebbi	12.119	3.997	2	
+Tungan Brawa	Dandi	Kebbi	11.683	3.733	2	
+Tungan Madi	Dandi	Kebbi	11.623	3.834	2	
+Tungan Manu	Dandi	Kebbi	12.062	3.857	2	
+Tungan Belkeri	Dandi	Kebbi	11.639	3.817	2	
+Tungan Manun Kulu	Bunza	Kebbi	12.300	3.963	2	
+Tungan Gama	Dandi	Kebbi	12.151	3.665	2	
+Tunga Nama	Dandi	Kebbi	11.744	3.678	2	
+Tungan Mena	Dandi	Kebbi	11.838	3.891	2	
+Tungan Mallamanuga	Bunza	Kebbi	12.159	3.949	2	
+Tungan Birji	Dandi	Kebbi	11.871	3.882	2	
+Tungan Sule	Dandi	Kebbi	11.772	3.684	2	
+Tungan Bajida	Dandi	Kebbi	11.908	3.672	2	
+Tudun Kulul	Gada	Sokoto	13.685	5.625	2	
+Tunga-Dankemo	Wurno	Sokoto	13.261	5.391	2	Dan Kemu
+Tula Baule	Kaltungo	Gombe	9.867	11.483	2	Tungan Baule
+Tungar Ndaboji	Mokwa	Niger	9.400	5.067	2	Ndaboji;Tungan Ndaboji
+Tuaniako	Dekina	Kogi	7.467	7.167	2	Tuoniako;Toniyonko
+Tungan Rafin Dinya	Kachia	Kaduna	9.767	7.450	2	Rafin Dinya
+Tungan Tarkwata	Shanga	Kebbi	10.891	4.811	2	
+Tungan Dindani	Shanga	Kebbi	10.889	4.848	2	
+Tungan Wasari	Shanga	Kebbi	10.925	4.590	2	
+Tungan Sara	Ngaski	Kebbi	10.688	4.800	2	
+Tungan Mogaji	Ngaski	Kebbi	10.799	4.987	2	
+Tungan Kaluwa	Ngaski	Kebbi	10.833	4.839	2	
+Tungan Giwa	Shanga	Kebbi	10.964	4.725	2	
+Tungan Bori	Shanga	Kebbi	10.987	4.608	2	
+Tungan Bindiga	Yauri	Kebbi	10.846	4.800	2	
+Tungar Bube	Borgu	Niger	10.968	4.247	2	
+Tunga-Mahaman	Kware	Sokoto	13.311	5.288	2	Tungan Mahaman
+Tungan Samu	Ngaski	Kebbi	10.288	4.833	2	
+Tungan Makeri	Borgu	Niger	10.905	4.210	2	Tugan Makeri;Sabon Gari
+Tululu	Talata Mafara	Zamfara	12.312	6.047	2	
+Tungan Daukalawa	Silame	Sokoto	13.009	4.702	2	
+Gidan Tudo	Silame	Sokoto	13.015	4.758	2	
+Tungan Abdulkola	Silame	Sokoto	13.022	4.705	2	
+Gidan Mama	Shiroro	Niger	10.105	6.718	2	Tunga Mamma Agwagwa;Tungan Mamma Agwagwa
+Tugen Na’alma	Malumfashi	Katsina	11.982	7.618	2	Tuge (2)
+Tunga Madugu	Gwadabawa	Sokoto	13.432	5.266	2	
+Tunga Jipere	Bagudo	Kebbi	11.271	4.174	2	Jifferi
+Tunga Sule	Bagudo	Kebbi	11.475	4.132	2	
+Gidan Tudu	Fakai	Kebbi	11.628	4.550	2	Garin Tudu
+Tunga Gwamba	Bagudo	Kebbi	11.402	4.115	2	
+Tunga Buzaye	Koko-Besse	Kebbi	11.321	4.246	2	
+Tungan Kiria	Suru	Kebbi	11.772	4.078	2	
+Tungan Isaka	Bagudo	Kebbi	11.527	4.065	2	
+Torugbene	Burutu	Delta	5.057	5.737	2	Tukama
+Tunga-Yusufu	Kware	Sokoto	13.315	5.281	2	Tungan Yusufu
+Tungan Adua	Bunza	Kebbi	12.136	4.093	2	
+Tunga Maigizo	Koko-Besse	Kebbi	11.260	4.354	2	
+Ungwan Tudu	Kalgo	Kebbi	12.310	4.202	2	
+Tungan Arawa	Gwandu	Kebbi	12.357	4.527	2	
+Tunga Bako	Koko-Besse	Kebbi	11.264	4.334	2	
+Tungan Jato	Bagudo	Kebbi	11.602	4.172	2	
+Tune	Kebbe	Sokoto	11.700	4.726	2	
+Tungan Dutsi	Fakai	Kebbi	11.616	4.940	2	
+Tukku	Shanga	Kebbi	11.315	4.706	2	
+Tunga Numa	Bagudo	Kebbi	11.122	4.310	2	
+Tungan Nasaru	Kebbe	Sokoto	12.158	4.723	2	
+Kufankidda-Tudu	Arewa Dandi	Kebbi	12.987	4.167	2	
+Tunga Baure	Bagudo	Kebbi	11.371	4.138	2	
+Tunga Numaruwa	Borgu	Niger	11.004	4.228	2	
+Tunga Wahanu	Bagudo	Kebbi	11.025	4.317	2	
+Tunganoma	Arewa Dandi	Kebbi	12.775	4.215	2	
+Tungan Danufe	Bunza	Kebbi	12.229	4.061	2	
+Tunju	Bunza	Kebbi	12.181	4.028	2	
+Turai	Shanga	Kebbi	11.369	4.658	2	
+Tuwo	Shanga	Kebbi	11.384	4.730	2	
+Tulua	Tambuwal	Sokoto	12.299	4.782	2	Tuluwa
+Tulmi	Gummi	Zamfara	12.064	5.003	2	
+Tunga Lawal	Bagudo	Kebbi	11.069	4.242	2	
+Tudun Raha	Maru	Zamfara	11.321	6.503	2	
+Tudun Bakin Gulbi	Tsafe	Zamfara	11.677	6.723	2	
+Kapubara	Borgu	Niger	10.643	3.875	2	Tungan Madugu
+Tudun Fulani	Bosso	Niger	9.667	6.550	2	Tudun Filani
+Tungan Umoru	Wushishi	Niger	9.883	5.917	2	
+Rabogi	Paikoro	Niger	9.283	6.567	2	Tungan Malain Marua;Rabo
+Tungan Mutundaya	Shiroro	Niger	9.683	6.783	2	Tunga Matun Daya
+Tudu	Billiri	Gombe	9.699	11.058	2	
+Benu	Lapai	Niger	9.117	6.700	2	Tungan Benu
+Tungan Wakili	Ngaski	Kebbi	10.208	4.605	2	
+Tungan Daudu	Lafia	Nasarawa	8.667	8.817	2	Tunga Daudu
+Turba	Isa	Sokoto	13.283	6.382	2	
+Tungan-Nuhubanu	Dandi	Kebbi	11.828	3.920	2	
+Tungan-Jibo	Dandi	Kebbi	11.715	3.712	2	
+Tungan-Alhaji-Musa	Dandi	Kebbi	11.652	3.769	2	
+Tungan-Makera	Dandi	Kebbi	11.774	3.945	2	
+Tungan Tule	Suru	Kebbi	11.595	3.977	2	
+Sarma Tudu	Tangaza	Sokoto	13.687	5.120	2	
+Tunpushi	Baure	Katsina	12.834	8.860	2	Tumfushi
+Tunga Gwuntu	Tafa	Niger	9.216	7.223	2	
+Tubopiri	Nembe	Bayelsa	4.528	6.399	2	Tobopiri
+Tudun Wada	Maru	Zamfara	12.174	6.383	2	
+Tungan Aburigi	Shanga	Kebbi	10.928	4.722	2	
+Tungan Muhamman	Shanga	Kebbi	10.992	4.811	2	
+Tungan Mogaji	Ngaski	Kebbi	10.919	4.927	2	
+Tungan Mekidi	Shanga	Kebbi	10.944	4.606	2	
+Tungan Kogoro	Shanga	Kebbi	10.975	4.587	2	
+Tungan Maizari	Yauri	Kebbi	10.906	4.758	2	
+Tungan Janje	Shanga	Kebbi	10.982	4.569	2	
+Tungan Dala	Shanga	Kebbi	10.970	4.707	2	
+Tulum Bere	Gudu	Sokoto	13.347	4.157	2	
+Tunga Madugu	Kware	Sokoto	13.322	5.239	2	
+Tunga Bako	Kware	Sokoto	13.320	5.227	2	
+Tumbo	Arewa Dandi	Kebbi	13.157	4.138	2	
+Tulas	Gudu	Sokoto	13.319	4.214	2	Tilas
+Tudun Mairaira	Tsafe	Zamfara	12.086	7.090	2	
+Tunga Besa	Gwadabawa	Sokoto	13.445	5.398	2	
+Tuluski	Goronyo	Sokoto	13.489	5.680	2	
+Tungan Haruna	Gwadabawa	Sokoto	13.452	5.225	2	
+Tungfafe	Gwadabawa	Sokoto	13.475	5.274	2	
+Tungan Tudo	Augie	Kebbi	13.052	4.678	2	
+Tungan Haki	Gusau	Zamfara	11.964	6.580	2	
+Unkwan-Turaki	Maru	Zamfara	11.375	6.077	2	
+Tubegbe	Burutu	Delta	5.118	5.869	2	Tebegbe
+Tunga Rabargahaya	Bagudo	Kebbi	11.483	4.196	2	
+Tungan Nagoma	Suru	Kebbi	11.786	4.182	2	
+Tungan Gimba	Suru	Kebbi	11.795	4.113	2	
+Tungan Dede	Suru	Kebbi	11.798	4.128	2	
+Tunga Farda	Bagudo	Kebbi	11.417	4.206	2	
+Tungan Jodi	Suru	Kebbi	11.802	4.181	2	
+Turame	Kiru	Kano	11.339	8.280	2	
+Tudun Wada	Tudun Wada	Kano	11.248	8.401	3	
+Tunga-Nachini	Kware	Sokoto	13.310	5.256	2	
+Tudun Wada	Fakai	Kebbi	11.488	5.086	2	
+Tungan Fako	Silame	Sokoto	13.018	4.704	2	
+Tunga Sarka	Arewa Dandi	Kebbi	12.583	4.008	2	
+Tunga Goyya	Koko-Besse	Kebbi	11.267	4.380	2	
+Tungan-Daji	Fakai	Kebbi	11.536	4.940	2	
+Tunigan-Nomo	Tambuwal	Sokoto	12.317	4.847	2	
+Tungan-Udu	Fakai	Kebbi	11.680	4.871	2	
+Tunga Karwa	Koko-Besse	Kebbi	11.201	4.438	2	
+Gidan Turawa	Fakai	Kebbi	11.566	4.969	2	
+Tunga Kilmo	Bagudo	Kebbi	11.032	4.381	2	
+Tunga Tsaka	Argungu	Kebbi	12.687	4.436	2	
+Tunga Monumi	Bagudo	Kebbi	11.064	4.311	2	
+Tungan Zamia	Suru	Kebbi	11.845	4.029	2	
+Tungan Manu	Bagudo	Kebbi	11.564	4.037	2	
+Tungan Babugudu	Fakai	Kebbi	11.575	4.659	2	
+Tunga Mude	Koko-Besse	Kebbi	11.466	4.507	2	
+Tulua	Kebbe	Sokoto	11.660	4.603	2	
+Tungan-Maigadambo	Fakai	Kebbi	11.528	4.861	2	
+Tunga Hakimi Haro	Koko-Besse	Kebbi	11.352	4.354	2	
+Tunga Maje	Koko-Besse	Kebbi	11.348	4.356	2	
+Tunga Mogaji	Koko-Besse	Kebbi	11.319	4.317	2	
+Tureta	Tureta	Sokoto	12.594	5.544	3	
+Tudun Wadan Gobe	Arewa Dandi	Kebbi	12.890	4.263	2	
+Tunga Gowesu	Bagudo	Kebbi	11.306	4.176	2	
+Tunga Ilimoni	Bagudo	Kebbi	11.365	4.145	2	
+Tungan-Majidadi	Fakai	Kebbi	11.606	4.937	2	
+Tuluwa	Tureta	Sokoto	12.563	5.396	2	Tulluwa
+Tungan-Anna	Gummi	Zamfara	12.072	4.876	2	
+Tunga Limaw	Argungu	Kebbi	12.676	4.399	2	
+Tunga Lawa	Argungu	Kebbi	12.672	4.394	2	
+Tungan Gwragwu	Shinkafi	Zamfara	13.104	6.471	2	
+Tunga Dorowa	Shagari	Sokoto	12.527	5.070	2	
+Tunga Bombo	Bagudo	Kebbi	11.355	4.181	2	
+Tugulbi Gabi	Rafi	Niger	10.450	6.467	2	Tugulbi
+Tungan Wazam	Bagudo	Kebbi	11.604	4.165	2	
+Tungan Guguwa	Shanga	Kebbi	10.919	4.744	2	
+Gidan Tukunguna	Rafi	Niger	10.383	6.100	2	
+Babun Tunga	Tafa	Niger	9.234	7.219	2	Babban Tunga
+Boboshe	Mafa	Borno	11.806	13.808	2	Tuburge;Taburge
+Wuro Tuga	Mubi North	Adamawa	10.300	13.236	2	
+Tunbun Buhari	Monguno	Borno	12.716	13.974	2	Jubularam
+Tungan Alwaji	Dandi	Kebbi	11.691	3.724	2	
+Tungan Danfulani	Bunza	Kebbi	12.041	3.998	2	
+Tungan Mallam Garuba	Suru	Kebbi	11.617	3.942	2	
+Turimi Dutse	Arewa Dandi	Kebbi	12.456	3.898	2	
+Tungan Madaci	Arewa Dandi	Kebbi	12.417	3.776	2	
+Tunga Sabarmawa	Bunza	Kebbi	12.121	3.980	2	
+Tunga	Dandi	Kebbi	11.715	3.813	2	
+Tungan Yakwe	Bagudo	Kebbi	11.448	3.583	2	
+Tungan Auna	Dandi	Kebbi	11.840	3.684	2	
+Tungan Daindi	Dandi	Kebbi	11.952	3.930	2	
+Rumji Dan Tudu	Illela	Sokoto	13.706	5.205	2	
+Tunkwura	Gwadabawa	Sokoto	13.508	5.213	2	
+Tungan Maikudu	Bunza	Kebbi	12.313	3.940	2	
+Tunga Maje	Koko-Besse	Kebbi	11.354	4.216	2	
+Tungan Falo	Shanga	Kebbi	10.983	4.793	2	
+Tungan Gajere Meshai	Shanga	Kebbi	10.927	4.569	2	
+Tungan Asala	Magama	Niger	10.588	4.944	2	
+Tugan Teku	Borgu	Niger	10.537	4.463	2	
+Sabon-Tunga	Shanga	Kebbi	10.963	4.633	2	
+Tungan Walinga	Ngaski	Kebbi	10.716	4.812	2	
+Tungan Mangoro	Ngaski	Kebbi	10.865	4.950	2	
+Tungan Isale	Magama	Niger	10.532	4.829	2	
+Tulua Kabi	Gudu	Sokoto	13.292	4.289	2	
+Tugan Arawa	Borgu	Niger	10.883	4.253	2	
+Tudujamu	Madaoua	Sokoto	13.754	5.890	2	
+Tudun Aya	Illela	Sokoto	13.735	5.418	2	
+Tungan Buru	Shanga	Kebbi	10.982	4.915	2	
+Tugan Numan	Gwadabawa	Sokoto	13.430	5.234	2	Tungar numa
+Tungan Baso	Wamako	Sokoto	13.034	5.113	2	Tunga Baso
+Tunga Rimi	Bagudo	Kebbi	11.288	4.186	2	
+Tungan-Ilo	Koko-Besse	Kebbi	11.595	4.331	2	
+Tungan-Jibo	Suru	Kebbi	11.991	4.070	2	
+Tuomo	Burutu	Delta	5.109	5.879	2	
+Tunga Alhaji	Koko-Besse	Kebbi	11.339	4.237	2	
+Tungan Goje	Bagudo	Kebbi	11.217	4.202	2	
+Tunga Mashe	Argungu	Kebbi	12.747	4.453	2	
+Tungan Illo	Bagudo	Kebbi	11.533	4.192	2	
+Tungan Maigizo	Maiyama	Kebbi	11.743	4.474	2	
+Tunga Burahi	Bagudo	Kebbi	11.486	4.284	2	
+Tunga Rana	Koko-Besse	Kebbi	11.266	4.324	2	
+Tunga-Bawundiri	Bagudo	Kebbi	11.465	4.253	2	
+Tungan-Doli	Shagari	Sokoto	12.518	4.955	2	
+Tunga Maidoma	Koko-Besse	Kebbi	11.242	4.297	2	
+Tunga Mogaji	Koko-Besse	Kebbi	11.371	4.352	2	
+Tungan Ilo	Koko-Besse	Kebbi	11.287	4.395	2	
+Tunga Manu	Bagudo	Kebbi	11.108	4.298	2	
+Tunga Kane	Koko-Besse	Kebbi	11.280	4.388	2	
+Tunga Mugua	Bagudo	Kebbi	11.041	4.327	2	
+Tunga Runtuwa	Bagudo	Kebbi	11.448	4.214	2	
+Tunga Kawo	Bagudo	Kebbi	11.434	4.270	2	
+Tubule	Kirfi	Bauchi	10.457	10.671	2	
+Tukuruwa	Bagudo	Kebbi	11.542	4.017	2	
+Tungan-Marafa	Bagudo	Kebbi	11.501	4.070	2	
+Tunga Banbara	Bagudo	Kebbi	11.444	4.121	2	
+Tunga Maimuliha	Bagudo	Kebbi	11.376	4.260	2	
+Tungabarke	Shagari	Sokoto	12.509	5.064	2	
+Tunga Takalafia	Koko-Besse	Kebbi	11.165	4.388	2	
+Tunga Idi	Koko-Besse	Kebbi	11.296	4.238	2	
+Tunga Soshia	Bagudo	Kebbi	11.417	4.168	2	
+Tunga Jato	Koko-Besse	Kebbi	11.354	4.419	2	
+Tunga Sabarmawa	Birnin Kebbi	Kebbi	12.613	4.198	2	
+Tungar Kawo	Wushishi	Niger	9.667	6.050	2	Tungan Kawo
+Tumbuya	Baruten	Kwara	8.917	3.317	2	
+Tudai	Wamako	Sokoto	13.120	5.234	2	
+Tukuru	Katcha	Niger	8.904	6.148	2	
+Tungan Mairuwa	Augie	Kebbi	12.799	4.603	2	
+Tudun Wada	Bayo	Borno	10.544	11.597	2	Todinwadi
+Tungu Oseni	Dandi	Kebbi	11.715	3.690	2	
+Tungan Kokani	Dandi	Kebbi	11.751	3.849	2	
+Tungan Ladan	Dandi	Kebbi	11.691	3.696	2	
+Ungwan Tudu	Arewa Dandi	Kebbi	12.725	3.961	2	
+Tungan Noma	Suru	Kebbi	11.617	3.856	2	
+Tungan Sandago	Dandi	Kebbi	11.633	3.838	2	
+Tunga Baraje	Dandi	Kebbi	11.665	3.977	2	
+Tungan Tuni	Bunza	Kebbi	12.118	3.907	2	
+Tungan Bero	Bunza	Kebbi	12.303	3.948	2	
+Tungan Ali	Arewa Dandi	Kebbi	12.463	3.904	2	
+Tungan Nyadia	Dandi	Kebbi	11.838	3.890	2	
+Tungan Issaferma	Dandi	Kebbi	11.608	3.836	2	
+Tokurwa	Dandi	Kebbi	11.885	3.628	2	Tukuruwa;Tukurwa
+Tungan Mallam Ibrahim	Suru	Kebbi	11.628	3.943	2	
+Tungan Alhorma	Dandi	Kebbi	11.626	3.812	2	
+Tukuya	Hawul	Borno	10.342	12.078	2	
+Tungan Baje	Bagudo	Kebbi	11.545	3.555	2	
+Tunga Mekidi	Tafa	Niger	9.219	7.224	2	
+Tukuruwa	Teungo	Adamawa	7.900	11.383	2	Tukurua
+Tungan Makigani	Kware	Sokoto	13.258	5.256	2	
+Gidan Tudu	Kware	Sokoto	13.214	5.283	2	
+Buzai Tudai	Kuje	FCT Abuja	8.572	7.177	2	Tudai
+Tutunguwa	Guzamala	Borno	12.758	13.323	2	
+Tungan Gamji	Shanga	Kebbi	10.916	4.754	2	
+Tungan Dogo	Ngaski	Kebbi	10.200	4.624	2	
+Tungan Daudu	Shanga	Kebbi	10.916	4.851	2	
+Tungan Bagala	Ngaski	Kebbi	10.809	4.854	2	
+Tungan Kikwashi	Borgu	Niger	10.538	4.463	2	
+Tungan Tankara	Ngaski	Kebbi	10.773	4.944	2	
+Tungan Mogaji	Ngaski	Kebbi	10.567	4.754	2	
+Tungan Magala	Magama	Niger	10.697	4.814	2	
+Tungan Balure	Ngaski	Kebbi	10.911	4.939	2	
+Tudun Saigi	Maru	Zamfara	12.203	6.425	2	
+Tunkuzu	Ngaski	Kebbi	10.355	4.766	2	
+Tungan Rigia	Agwara	Niger	10.571	4.465	2	
+Tungan Rati	Augie	Kebbi	13.059	4.687	2	
+Tungan Jero	Arewa Dandi	Kebbi	13.189	4.430	2	
+Tunga Matsi	Illela	Sokoto	13.500	5.372	2	
+Tukasu	Kaura Namoda	Zamfara	12.354	6.665	2	
+Tunga Kuku	Talata Mafara	Zamfara	12.241	6.063	2	
+Mamansuka Tudu	Illela	Sokoto	13.540	5.293	2	Mamasuka Tudu
+Tudun Gudali	Illela	Sokoto	13.719	5.346	2	
+Tungan Chichi	Gudu	Sokoto	13.194	4.425	2	
+Mai Tukuniyan Dangu	Maru	Zamfara	11.309	6.453	2	
+Tungan Yero	Bagudo	Kebbi	11.626	4.159	2	
+Tungan Akwada	Bagudo	Kebbi	11.509	4.260	2	
+Tunga Goje	Bagudo	Kebbi	11.461	4.163	2	
+Kwahu	Giwa	Kaduna	11.154	6.971	2	Tungan Kwahu;Tunga Kwahu
+Tuga	Bagudo	Kebbi	11.411	4.230	2	
+Iwuru-Turunkekpem	Biase	Cross River	5.399	8.221	2	Iwuru
+Sabon Turunku	Igabi	Kaduna	10.804	7.685	2	Turunku
+Tungan-Eni	Suru	Kebbi	11.881	4.144	2	
+Tunga Titubara	Bagudo	Kebbi	11.495	4.077	2	
+Tunga-Ango	Bagudo	Kebbi	11.474	4.283	2	
+Tunga Kaiwa Gungawa	Bagudo	Kebbi	11.029	4.420	2	
+Tunga Yakana	Bagudo	Kebbi	11.484	4.272	2	
+Tunga Malam	Koko-Besse	Kebbi	11.374	4.362	2	
+Tungan Tero	Suru	Kebbi	11.776	4.133	2	
+Tunga-Dogo	Bagudo	Kebbi	11.081	4.307	2	
+Tungan Haikim	Kebbe	Sokoto	12.196	4.790	2	
+Tungan Jero	Suru	Kebbi	12.007	4.173	2	
+Tungan-Kura	Fakai	Kebbi	11.584	4.957	2	
+Tunga Gwarafa	Koko-Besse	Kebbi	11.282	4.379	2	
+Tunga Dade	Augie	Kebbi	12.927	4.574	2	
+Tungan Yari	Suru	Kebbi	11.839	4.111	2	
+Tungan-Rihi	Fakai	Kebbi	11.514	4.912	2	
+Tungan Gimba	Koko-Besse	Kebbi	11.348	4.274	2	
+Tunga Auni	Birnin Kebbi	Kebbi	12.545	4.234	2	
+Tugan Numa	Kalgo	Kebbi	12.270	4.041	2	
+Tunu	Ekeremor	Bayelsa	5.111	5.448	2	
+Tunga Bawa	Augie	Kebbi	12.857	4.538	2	
+Tumbikuku	Bonny	Rivers	4.562	7.170	2	
+Tungan Audu	Sabuwa	Katsina	11.263	6.987	2	
+Tusherai	Kebbe	Sokoto	11.779	4.699	2	
+Tungan Batarata	Shanga	Kebbi	11.018	4.604	2	
+Tuna	Binji	Sokoto	13.166	4.870	2	
+Tuluwa	Koko-Besse	Kebbi	11.349	4.200	2	
+Tunga Dunyan	Bagudo	Kebbi	11.455	4.220	2	
+Tumfure	Akko	Gombe	10.283	11.083	2	
+Tukun Kasa	Jema'A	Kaduna	9.500	8.483	2	Nisama
+Tungar Ndaba	Lavun	Niger	9.500	5.433	2	Ndaba;Tungan Ndaba
+Birnin Tudu	Fakai	Kebbi	11.527	5.136	2	
+Tugan Zakara	Shanga	Kebbi	10.906	4.772	2	
+Tumbicha	Mubi North	Adamawa	10.368	13.452	2	
+Tungan Salahu	Lavun	Niger	9.252	5.633	2	
+Tukuyawa	Jahun	Jigawa	12.000	9.467	2	
+Tungar Munini	Lavun	Niger	9.300	5.600	2	Tungan Munini
+Kuka Tunkara	Arewa Dandi	Kebbi	12.341	3.763	2	
+Tungan Kuruma	Dandi	Kebbi	11.824	3.885	2	
+Tungan Kada	Bagudo	Kebbi	11.445	3.948	2	
+Tungan-Hakimi	Dandi	Kebbi	11.824	3.896	2	
+Tungan Daudu	Suru	Kebbi	11.628	3.950	2	
+Tungan Maji	Dandi	Kebbi	11.634	3.825	2	
+Tungan Noma	Bagudo	Kebbi	11.442	3.928	2	
+Tungan Dodo	Dandi	Kebbi	11.666	3.766	2	
+Tungan Sule	Arewa Dandi	Kebbi	12.444	3.733	2	
+Tungan Maje	Dandi	Kebbi	12.023	3.936	2	
+Tukoy	Arewa Dandi	Kebbi	12.506	3.663	2	
+Tungan Bagum	Dandi	Kebbi	11.871	3.636	2	
+Tungan Noma	Dandi	Kebbi	11.807	3.672	2	
+Tungan Dogona	Dandi	Kebbi	11.918	3.681	2	
+Tunkarra	Gwadabawa	Sokoto	13.512	5.202	2	
+Tudun Pulut	Gada	Sokoto	13.688	5.623	2	
+Egbeda Tuba	Ona Ara	Oyo	7.277	3.995	2	
+Tungan Lauje	Shanga	Kebbi	10.949	4.720	2	
+Tungan Lafiya	Ngaski	Kebbi	10.702	4.808	2	
+Ganganale	Borgu	Niger	10.902	4.131	2	Tugan Noma
+Tundun Sakwa	Chikun	Kaduna	10.721	6.837	2	
+Tungan Bagudu	Mariga	Niger	10.742	6.021	2	Tunga Bagudu
+Tulun Dabaka	Arewa Dandi	Kebbi	13.078	4.187	2	Tulun Dabaga
+Tungan Daudu Noma	Borgu	Niger	10.814	4.197	2	Tugan Daudu Noma
+Tunga-Rini	Gwadabawa	Sokoto	13.326	5.278	2	
+Tun Kuda	Birnin Magaji-Kiyaw	Zamfara	12.275	6.853	2	
+Tungan Zaki	Gwadabawa	Sokoto	13.440	5.377	2	
+Tungan Mekidi	Bagudo	Kebbi	10.943	4.336	2	
+Gidin Tudo	Binji	Sokoto	13.132	4.956	2	
+Tungan Doleh	Silame	Sokoto	13.042	4.788	2	
+Tungan Toso	Silame	Sokoto	13.018	4.710	2	
+Tunugara	Tangaza	Sokoto	13.716	4.868	2	
+Tungan Turuba	Arewa Dandi	Kebbi	13.110	4.372	2	
+Tungan Namaiwa	Gudu	Sokoto	13.199	4.406	2	
+Tunga Musa	Bagudo	Kebbi	11.368	4.246	2	
+Tunga Mallan	Bagudo	Kebbi	11.109	4.309	2	
+Gidan Tudu	Goronyo	Sokoto	13.478	5.808	2	
+Tunga-Majakai	Kware	Sokoto	13.313	5.259	2	
+Tukogbene	Southern Ijaw	Bayelsa	4.626	6.153	2	
+Tungan Mudi	Silame	Sokoto	13.012	4.705	2	
+Tudan Wada	Toro	Bauchi	10.111	9.007	2	
+Tunga Buda	Bagudo	Kebbi	11.422	4.157	2	
+Tungan Kade	Bagudo	Kebbi	11.530	4.193	2	
+Tunga Megunya	Bagudo	Kebbi	11.482	4.282	2	
+Tungan-Kana	Fakai	Kebbi	11.511	4.962	2	
+Tuluwa	Bodinga	Sokoto	12.962	5.162	2	Tuntuwa
+Tubokoroya	Southern Ijaw	Bayelsa	4.439	5.861	2	
+Tungan Giwa	Shanga	Kebbi	11.316	4.588	2	
+Tunga Rini	Bagudo	Kebbi	11.419	4.139	2	
+Tunga Jajai	Bagudo	Kebbi	11.026	4.368	2	
+Tungan Dania	Bagudo	Kebbi	11.627	4.198	2	
+Tungan Nunata	Bunza	Kebbi	12.182	4.113	2	
+Tungan-Salugbawa	Fakai	Kebbi	11.698	4.844	2	
+Tungan	Fakai	Kebbi	11.524	4.922	2	
+Tunga Jelebe	Koko-Besse	Kebbi	11.208	4.323	2	
+Tunga Bawa	Birnin Kebbi	Kebbi	12.579	4.162	2	
+Tunga Labari	Koko-Besse	Kebbi	11.301	4.244	2	
+Tunga Asarara	Bagudo	Kebbi	11.138	4.068	2	
+Tuwa Koro	Augie	Kebbi	12.873	4.541	2	
+Tungan Lema	Augie	Kebbi	12.889	4.503	2	
+Tumbikoko	Bonny	Rivers	4.562	7.170	2	
+Tungar Wada	Wase	Plateau	9.250	10.167	2	Wada;Tungan Wada
+Bamage Tudu	Bodinga	Sokoto	12.727	5.250	2	Bamge
+Tungan Goge	Birnin Kebbi	Kebbi	12.345	4.262	2	
+Tungan Makuba	Shiroro	Niger	10.132	6.685	2	
+Tungan-Gado	Dandi	Kebbi	11.707	3.645	2	
+Tungan Manaba	Dandi	Kebbi	11.687	3.743	2	
+Tungan Maiyara	Suru	Kebbi	11.629	3.911	2	
+Tungan Amadu	Suru	Kebbi	11.620	3.959	2	
+Tungan Kembufana	Dandi	Kebbi	11.650	3.807	2	
+Tungan Noma	Dandi	Kebbi	11.716	3.813	2	
+Tungan Gwaya	Bagudo	Kebbi	11.481	3.564	2	
+Tungan Daudu Ngare	Bagudo	Kebbi	11.467	3.671	2	
+Tungan Sabo	Bagudo	Kebbi	11.446	3.545	2	
+Tursa	Rabah	Sokoto	13.223	5.687	2	
+Tudu	Arewa Dandi	Kebbi	12.586	3.839	2	
+Tudun Dawaki	Gwadabawa	Sokoto	13.404	5.278	2	Tudun Doki
+Tunga Alhadji Atiku	Bagudo	Kebbi	11.485	4.139	2	
+Tungan Fona	Rijau	Niger	10.857	5.093	2	Fona
+Tungar Damo	Borgu	Niger	10.624	4.309	2	Tungan Damu
+Tugan Aberici	Bagudo	Kebbi	10.942	4.317	2	
+New Tungan-Dangaje	Borgu	Niger	10.405	4.452	2	Tungan-Dangaje
+Tungan Uwar Yara	Ngaski	Kebbi	10.710	4.884	2	
+Tungan Kawo	Ngaski	Kebbi	10.169	4.653	2	
+Unguwar Tudu	Bungudu	Zamfara	12.363	6.504	2	
+Tungan Aljeina	Borgu	Niger	10.870	4.190	2	Litenswa;Tugan Aljeina
+Tudun Danserima	Kware	Sokoto	13.054	5.423	2	
+Tugan Noma	Bagudo	Kebbi	10.960	4.343	2	
+Tunga	Gada	Sokoto	13.766	5.633	2	
+Tungan Bakere	Agwara	Niger	10.630	4.404	3	
+Tumbula	Rabah	Sokoto	13.198	5.639	2	
+Tungan Jato	Borgu	Niger	10.888	4.215	2	Tungun Jato;Tungar Jatau;Tugun Jato;Tungar Jalau
+Tunga Ajiya	Agwara	Niger	10.820	4.700	2	
+Tugan Tudu	Gwadabawa	Sokoto	13.481	5.295	2	
+Diddiba Tudu	Wamako	Sokoto	13.118	4.975	2	
+Tungan Magera	Talata Mafara	Zamfara	12.429	6.190	2	
+Birnin Tudu	Gummi	Zamfara	12.085	5.298	2	
+Mai Tukuniyan Baban Gona	Maru	Zamfara	11.293	6.447	2	
+Tungan Fulani	Arewa Dandi	Kebbi	13.155	4.380	2	
+Tunga Mayel	Bagudo	Kebbi	11.171	4.333	2	
+Tune	Fakai	Kebbi	11.687	4.668	2	
+Tunga Taru	Bagudo	Kebbi	11.464	4.039	2	Turu
+Tunga Kawate	Bagudo	Kebbi	11.186	4.269	2	Kowati
+Kuka Panjam	Rijau	Niger	11.041	5.312	2	Tungan Kuka Panjam
+Sar Shombo	Rijau	Niger	11.027	5.310	2	Tungan Sar Shombo;Tungan Sarkin Shombo;Tungar Sarkin Shombo
+Tungan Katchira	Gudu	Sokoto	13.188	4.465	2	
+Tundan Wada	Toro	Bauchi	10.111	9.007	2	
+Tunga Chindo	Bagudo	Kebbi	11.492	4.134	2	
+Tunga Bargawa-Bisa	Bagudo	Kebbi	11.469	4.279	2	
+Tunga Atto	Koko-Besse	Kebbi	11.464	4.461	2	
+Tunga	Jega	Kebbi	12.225	4.557	2	
+Unguwar Turai	Doguwa	Kano	10.709	8.611	2	Turai
+Tunga Gusau	Shanga	Kebbi	11.141	4.488	2	
+Tunga Wakaso	Bagudo	Kebbi	11.077	4.317	2	
+Tunga Allahma	Bagudo	Kebbi	11.084	4.318	2	
+Bakin-Turu	Shanga	Kebbi	11.012	4.796	2	
+Tunga Kade	Bagudo	Kebbi	11.166	4.169	2	
+Tude	Lere	Kaduna	10.305	8.638	2	
+Tunga Nagyera	Bagudo	Kebbi	11.407	4.147	2	
+Tungan-Dogon Yaro	Bagudo	Kebbi	11.517	4.057	2	
+Tungan-Mogaji	Gummi	Zamfara	12.077	4.947	2	
+Tunga Kanana	Argungu	Kebbi	12.769	4.382	2	
+Tafingarda	Ganjuwa	Bauchi	10.808	10.329	2	Tungan Garda
+Tungan Bisalla Makeri	Rijau	Niger	11.154	4.770	2	
+Tungan Duchi	Shanga	Kebbi	11.044	5.024	2	
+Tongamaliki	Gbako	Niger	9.483	6.167	2	Genobiji;Tunga Maliki
+Tunga Amadu	Argungu	Kebbi	12.598	4.280	2	
+Model Primary School Tudunsaibu	Yola North	Adamawa	9.100	12.533	0	
+Gidan Tukura	Nasarawa	Nasarawa	8.142	7.507	2	Tukura
+Birnin Tudu	Augie	Kebbi	12.933	4.686	2	
+Tudun Wada	Michika	Adamawa	10.583	13.340	2	
+Tunga Makuba	Shiroro	Niger	10.132	6.685	2	
+Tungan Malanderi	Dandi	Kebbi	11.710	3.662	2	
+Tungun Yankwora	Dandi	Kebbi	11.706	3.718	2	
+Tungan Bari	Dandi	Kebbi	11.637	3.825	2	
+Tungan Kade	Dandi	Kebbi	12.039	3.893	2	
+Tungan Mumuni	Dandi	Kebbi	11.708	3.683	2	
+Tungan Iname	Dandi	Kebbi	11.760	3.764	2	
+Tudun Giro	Suru	Kebbi	11.597	3.956	2	
+Tunga Goge	Bagudo	Kebbi	11.479	3.559	2	
+Tungan Fari	Shanga	Kebbi	10.921	4.818	2	
+Tungan Bala	Ngaski	Kebbi	10.178	4.679	2	
+Tukusu	Ngaski	Kebbi	10.698	4.926	2	
+Donlipe	Borgu	Niger	10.810	4.008	2	Tungar Noma
+Tungan Gora	Shiroro	Niger	10.156	6.706	2	Tungan Malam Gajere
+Tungan Yami	Agwara	Niger	10.785	4.695	2	
+Tunga-Tsoro	Tangaza	Sokoto	13.329	4.995	2	
+Tumbulumkum	Illela	Sokoto	13.694	5.162	2	
+Tungan Bariki	Yauri	Kebbi	10.652	4.704	2	
+Tungan-Garubi	Ngaski	Kebbi	10.342	4.667	2	
+Bako	Rafi	Niger	10.299	6.238	2	Tungan Bako
+Angwan Tudu	Gwadabawa	Sokoto	13.483	5.291	2	
+Tunga	Binji	Sokoto	13.129	4.842	2	Tungan
+Tungan Rafi	Gwadabawa	Sokoto	13.505	5.285	2	
+Tumfafi	Bungudu	Zamfara	12.154	6.845	2	
+Tungan Noma Utula	Agwara	Niger	10.887	4.354	2	
+Tuduki	Anka	Zamfara	11.855	6.027	2	
+Tumuna	Tangaza	Sokoto	13.427	4.998	2	
+Tunkurawa	Tangaza	Sokoto	13.273	4.977	2	
+Tungan Jigo	Illela	Sokoto	13.520	5.412	2	Tunga Jigo
+Tungan Mesaje	Bagudo	Kebbi	11.524	4.073	2	
+Tunga Masu	Bagudo	Kebbi	11.499	4.100	2	
+Tunga Hakimi Isa	Koko-Besse	Kebbi	11.345	4.230	2	
+Tungan Malam	Suru	Kebbi	11.781	4.118	2	
+Tungan Kabawa	Suru	Kebbi	11.858	4.172	2	
+Tunga Lombo	Kebbe	Sokoto	11.688	4.420	2	
+Tundifai	Suru	Kebbi	11.704	4.127	2	Tindifai
+Tuga	Bagudo	Kebbi	11.369	4.149	2	
+Tumbun Jaki	Abadam	Borno	13.568	13.460	2	
+Tudun Magaji Health Post	Rogo	Kano	11.453	7.782	0	
+Tudun Kaya Health Post	Karaye	Kano	11.733	7.931	0	
+Tumfafi Health Post	Gwarzo	Kano	11.838	8.022	0	
+Turawa Primary Health Centre	Karaye	Kano	11.698	8.048	0	
+Unguwar Turaki Health Post	Kabo	Kano	11.820	8.231	0	
+Tukuibi Health Post	Bichi	Kano	12.268	8.342	0	
+Tudun Karago	Ajingi	Kano	11.988	8.989	2	
+Turmusawa	Doguwa	Kano	10.740	8.741	2	
+Falgore	Doguwa	Kano	11.122	8.576	3	Tudun Ningi
+Tudun Maliki	Kumbotso	Kano	11.963	8.531	2	
+Tudun Murtala	Nassarawa	Kano	12.033	8.569	2	
+Tudun Wada	Nassarawa	Kano	12.025	8.558	2	
+Tudun Nupawa	Kaduna South	Kaduna	10.514	7.418	2	
+Tudun Fulani	Ungongo	Kano	12.039	8.477	2	
+Tudun Nufawa	Kano Municipal	Kano	12.002	8.513	2	
+Tudun Wazurchi	Kano Municipal	Kano	11.988	8.517	2	
+Tudun Yola	Gwale	Kano	11.995	8.470	2	
+Tukuda	Sumaila	Kano	11.212	8.766	2	
+Unguwar Turawa	Kumbotso	Kano	11.910	8.571	2	Unguwar Rimi
+Tudun Burtu	Gwarzo	Kano	11.927	7.944	2	
+Unguwar Tudu	Gwarzo	Kano	11.930	7.954	2	
+Unguwar Tudu	Tudun Wada	Kano	11.333	8.326	2	
+Bula Bul (Tumbun Gini)	Abadam	Borno	13.465	13.659	3	
+Tunbun Fitinewa	Kukawa	Borno	13.339	13.857	2	
+Tunbun Rago	Abadam	Borno	13.480	13.485	3	
+Tunbun Madayi	Kukawa	Borno	13.412	13.796	3	
+Moduganari Tudu	Maiduguri	Borno	11.822	13.126	2	
+Tudun Wada	Maiduguri	Borno	11.838	13.114	2	
+Jauro Tukur	Shani	Borno	10.272	11.904	2	
+Jauro Tummi	Shani	Borno	10.194	11.836	2	
+Tudu	Shani	Borno	10.226	11.881	2	
+Tumbulla	Magumeri	Borno	12.207	12.840	2	
+Goni Tujjari	Gubio	Borno	12.450	12.599	2	
+Tujjari	Nganzai	Borno	12.425	13.181	2	Tujari
+Tulur	Nganzai	Borno	12.437	13.050	2	
+Tulur	Nganzai	Borno	12.463	13.040	2	
+Tundromti	Nganzai	Borno	12.530	13.169	2	
+Mallam Turari	Nganzai	Borno	12.471	13.222	2	
+Tumtumari	Nganzai	Borno	12.431	13.300	2	
+Wuro Hari Alhaji Tukur	Shani	Borno	10.207	12.031	2	
+Tuba Ajus	Jere	Borno	12.130	13.164	2	
+Tuba Lawanti	Jere	Borno	12.143	13.147	2	
+Tuba Muktari	Jere	Borno	12.131	13.145	2	
+Tuba Musari	Jere	Borno	12.146	13.136	2	
+Goni Tushiri	Gubio	Borno	12.683	12.591	2	
+Tungar Daji	Anka	Zamfara	11.905	6.093	2	
+Tudun Naira	Bayo	Borno	10.236	11.743	2	
+Tuji	Bayo	Borno	10.292	11.629	2	
+Jaurol Jibir	Shani	Borno	10.095	11.947	2	Jauro Tukur
+Mai Turmi	Shani	Borno	10.087	11.951	2	
+Tudun Wada	Shani	Borno	10.055	11.796	2	
+Tudu	Magumeri	Borno	12.109	12.824	2	
+Jauro Tukur	Kwaya Kusar	Borno	10.463	11.903	2	
+Laro Jauro Tukur	Kwaya Kusar	Borno	10.410	11.812	2	
+Laro Jauro Tukur	Kwaya Kusar	Borno	10.421	11.817	2	
+Trunda Anguwanuwan Musa	Shani	Borno	10.073	11.963	2	Turumda
+Tudun Wada Bulama	Shani	Borno	10.127	11.969	2	
+Tudun Wada Makaranta	Shani	Borno	10.123	11.972	2	
+Turo	Mobbar	Borno	12.985	12.592	2	
+Tuwori	Mobbar	Borno	12.996	12.575	2	
+Modu Turubti	Mobbar	Borno	13.082	12.669	2	
+Tudu	Bayo	Borno	10.334	11.548	2	
+Tudun Wada	Bayo	Borno	10.400	11.664	2	
+Tudure	Bayo	Borno	10.350	11.625	2	
+Tunya	Bayo	Borno	10.323	11.635	2	
+Bulama Tuakari	Hawul	Borno	10.363	12.043	2	
+Taukari	Hawul	Borno	10.330	12.088	2	Tuwakari
+Turkuta	Hawul	Borno	10.394	12.243	2	
+Kudo Tul	Mobbar	Borno	13.402	12.898	2	
+Tudun Wada	Bayo	Borno	10.589	11.771	2	
+Tungushe	Jere	Borno	12.039	13.073	2	
+Tungushe Primary Health Centre	Jere	Borno	12.036	13.072	0	
+Tusuwa	Damboa	Borno	11.093	12.520	2	
+Komda Tuya	Damboa	Borno	11.014	12.862	2	
+Iclass Tuition	Ibadan North	Oyo	7.425	3.922	0	
+Tudun Masala	Sabon Birni	Sokoto	13.644	5.968	2	Tundumasana
+Turban Gida Health Facility	Tarmua	Yobe	12.468	11.678	0	
+Turban Gida Health Facility	Borsari	Yobe	12.508	11.674	0	
+Turkish International School	Kaduna North	Kaduna	10.538	7.465	0	
+Tundun wada Lowcost div	Gombe	Gombe	10.255	11.175	2	
+Tube	Monguno	Borno	12.347	13.338	2	
+Sabon Tumbun	Monguno	Borno	12.751	13.972	2	
+Kenza Yakku Mallam Tujari	Guzamala	Borno	12.689	13.383	2	
+Tujjamari	Konduga	Borno	11.685	12.988	2	
+Tumbala	Konduga	Borno	11.569	13.122	2	
+Tungan Auta	Magama	Niger	10.685	4.917	2	
+Turare Filling station	Muhammadu Dikko Stadium	Katsina	12.990	7.586	0	
+Gidan Tune	Gwadabawa	Sokoto	13.555	5.522	2	
+Tunga Laila	Bagudo	Kebbi	11.066	4.318	2	
+Tuntube	Isa	Sokoto	13.297	6.255	2	
+Tudure2	Tangaza	Sokoto	13.365	4.989	2	
+Tungar Raphi	Gwadabawa	Sokoto	13.465	5.331	2	
+Tunga Madugu	Gwadabawa	Sokoto	13.508	5.332	2	
+Tudun Malami	Wurno	Sokoto	13.179	5.426	2	
+Tungar Lawal	Bakura	Zamfara	12.330	5.823	2	
+Tungar Madachi	Bakura	Zamfara	12.348	5.809	2	
+Tungar Tsaka	Anka	Zamfara	12.232	5.787	2	
+Tungar Shadadi	Bakura	Zamfara	12.346	5.818	2	
+Tungar Gobirawa	Bakura	Zamfara	12.425	5.814	2	
+Tullure	Silame	Sokoto	13.014	4.932	2	
+Tuntube	Dange-Shuni	Sokoto	12.942	5.250	2	
+Kaura Tuntube	Dange-Shuni	Sokoto	12.946	5.240	2	
+Tudun Danjeka	Dange-Shuni	Sokoto	12.956	5.241	2	
+Tungar guru	Bukkuyum	Zamfara	11.934	5.495	2	
+Gangarbin Tudu	Rogo	Kano	11.616	7.814	2	Ungwan Tudu
+Daura Mai Ruwa	Karaye	Kano	11.726	7.981	2	Tudun Kaya
+Turawa	Karaye	Kano	11.695	8.046	2	
+Janbirji Tudu	Shanono	Kano	11.970	7.910	2	Jamboriji
+Tumfafi	Gwarzo	Kano	11.837	8.021	2	
+Yan Tudu	Garum Mallam	Kano	11.748	8.395	2	
+Tukura	Dawakin Tofa	Kano	12.059	8.409	2	
+Tudun Wada	Bichi	Kano	12.299	8.424	2	
+Tunkurau	Dambatta	Kano	12.577	8.554	2	
+Tukui	Makoda	Kano	12.370	8.518	2	
+Tudun Wada	Minjibir	Kano	12.222	8.710	2	
+Tunkunawa	Minjibir	Kano	12.231	8.673	2	
+Tumfafi Kanawa	Dawakin Tofa	Kano	12.101	8.446	3	Tumfafi
+Tudun Murtala Gandu	Ungongo	Kano	12.095	8.506	2	
+Tusku	Kumbotso	Kano	11.906	8.518	2	
+Tumbau	Gezawa	Kano	11.992	8.814	2	
+Tudun Gausau	Wudil	Kano	11.759	8.851	2	
+Mesar Tudu	Gezawa	Kano	12.124	8.723	2	Mesatadu
+Turba	Warawa	Kano	11.930	8.813	2	
+Tudun Wada Layin Gidan Mai Unguwar	Gaya	Kano	11.918	9.025	2	
+Turaki	Kura	Kano	11.787	8.525	2	
+Kirya Tudu	Kura	Kano	11.819	8.452	2	
+Tundun Bayero	Dawakin Kudu	Kano	11.842	8.522	2	
+Tugugu	Bunkure	Kano	11.713	8.568	2	
+Gidan Tuku	Warawa	Kano	11.801	8.827	2	
+Fegin Turbaya	Bunkure	Kano	11.701	8.491	2	
+Fanchan Tudu	Dawakin Kudu	Kano	11.778	8.714	2	
+Jumar Tudu	Wudil	Kano	11.763	8.793	2	
+Tumbushi	Takai	Kano	11.334	9.145	2	
+Tukuda	Sumaila	Kano	11.331	9.118	2	
+Tudun Makama	Takai	Kano	11.398	9.158	2	
+Kantudu	Sumaila	Kano	11.360	8.790	2	Kan-Tudu
+Tukuta Kofar Gabas	Tudun Wada	Kano	11.282	8.704	2	
+Tuburu	Bunkure	Kano	11.658	8.639	2	
+Tuku	Tudun Wada	Kano	11.319	8.545	2	
+Tudun Fulani	Bunkure	Kano	11.675	8.450	2	
+Health Centre, Tungbo	Sagbama	Bayelsa	5.126	6.168	0	
+Federal Science and Technical College, Tungbo	Sagbama	Bayelsa	5.131	6.171	0	
+Health Centre Tugwama	Rafi	Niger	10.333	6.286	0	
+Tuga Nama	Illela	Sokoto	13.752	5.283	2	
+Chisome Tutors	Enugu North	Enugu	6.460	7.536	0	
+Tungbo	Sagbama	Bayelsa	5.126	6.169	2	
+Tua Model Schools	Obio/Akpor	Rivers	4.861	7.045	0	
+Hwolshe medical center Tudun Wada	Jos North	Plateau	9.892	8.867	0	
+Primary health care tudu wada	Jos North	Plateau	9.905	8.868	0	
+Divine Turning Point International School	Obio/Akpor	Rivers	4.884	6.954	0	
+Government secondary school Mafo Tudun Wada	Jos North	Plateau	9.900	8.861	0	
+Tuberculosis and Leprosy center Tapa	Ibarapa North	Oyo	7.556	3.228	0	
+Tuberculosis and Leprosy center	Ibarapa North	Oyo	7.556	3.228	0	
+Cb2 Musawa By Faki Road Tudun Wada	Kaduna South	Kaduna	10.512	7.407	0	
+Tudun Wada Family Health Unit Clinic	Kaduna South	Kaduna	10.511	7.413	0	
+Yusuf Dantsoho Hospital Kv 206 Lbrahim Taiwo Road Tudun Wada Kaduna	Kaduna South	Kaduna	10.512	7.411	0	
+M b Tukur Primary Health Care Malali	Kaduna North	Kaduna	10.561	7.472	0	
+Tudun Nupawa Primary Health Center	Kaduna South	Kaduna	10.516	7.417	0	
+Hospitals Zci Rock Road Tudun Nupawa	Kaduna South	Kaduna	10.517	7.415	0	
+Tundun Wada Primary Health Center	Chikun	Kaduna	10.476	7.636	0	
+Primary Healthcare Tudun Wada No2 Bugai Road Kujama	Chikun	Kaduna	10.477	7.643	0	
+Primary Health Center Tudun Wada Opposite New Market Kujama	Chikun	Kaduna	10.476	7.633	0	
+Gwamna Awan General Hospital Tunga Road No60 Angwa Sauri	Chikun	Kaduna	10.415	7.425	0	
+Primary Health Care Tudun Wada Road Rido	Chikun	Kaduna	10.399	7.508	0	
+Tudun Wada	Akko	Gombe	9.977	10.955	2	
+Tutorial lesson	Alimosho	Lagos	6.524	3.240	0	
+TUNGA SCIENCE ACADEMY	Gwale	Kano	11.962	8.467	0	
+Jauro Tudun Wada Primary School	Gombe	Gombe	10.300	11.171	0	
+Nigerian Tulip International School	Municipal Area Council	FCT Abuja	9.080	7.470	0	
+Tunu	Ekeremor	Bayelsa	4.886	5.614	2	
+Oja Tuntun, Oko Erin, Nigeria	Ilorin East	Kwara	8.488	4.538	3	
+FGQJ+WXH, Oja Tutun, Oja Oba, Oko Erin 240281, Kwara, Nigeria	Ilorin West	Kwara	8.490	4.532	0	
+Oja Tutun, Oko Erin, Nigeria	Ilorin West	Kwara	8.490	4.533	3	
+General Tunde Idiagbon International Airport, Ilorin, Ilorin, Nigeria	Asa	Kwara	8.435	4.495	0	
+Tunga Maje	Kaiama	Kwara	9.700	4.064	2	
+Aliyu Turaki Road	Kaduna North	Kaduna	10.542	7.457	1	
+Tunde Hassan Street	Kosofe	Lagos	6.564	3.390	1	
+Tunde Gabby	Ikeja	Lagos	6.636	3.349	1	
+Tunde Apatira Street	Alimosho	Lagos	6.609	3.300	1	
+Onikoyi Road	Eti Osa	Lagos	6.454	3.450	1	Turnbull Road
+Mao Tse Tung Street	Municipal Area Council	FCT Abuja	9.050	7.510	1	
+Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.269	8.383	1	
+Tunde Ajaga Street	Lagos Mainland	Lagos	6.502	3.381	1	
+Turton Street	Lagos Mainland	Lagos	6.507	3.375	1	
+Tunde Bello Street	Shomolu	Lagos	6.527	3.390	1	
+Alhaji Tunde Salisu Street	Oshodi/Isolo	Lagos	6.537	3.310	1	
+Abano Tunel,Off Redeem Church	Enugu North	Enugu	6.456	7.502	1	
+Riga fada tusku street	Kumbotso	Kano	11.911	8.518	1	
+Mahmood Tukur Road	Ungongo	Kano	11.973	8.435	1	
+Tukur Road	Nassarawa	Kano	12.001	8.557	1	
+Tukur Shanono Street	Ungongo	Kano	11.977	8.451	1	
+TUNKU ROAD	Dambatta	Kano	12.379	8.580	1	
+Ikara to Tudun Wada Road	Ikara	Kaduna	11.177	8.295	1	
+Tuga Health Post	Bagwai	Kano	12.067	8.243	0	
+Tudun Maliki Street	Kumbotso	Kano	11.962	8.531	1	
+Tudara Health Post	Bagwai	Kano	12.105	8.065	0	
+Tudun Bojuwa Health Post	Fagge	Kano	12.050	8.487	0	
+Tudun Wada Health Post	Nassarawa	Kano	12.023	8.554	0	
+Tunde Fisayo Street	Eti Osa	Lagos	6.445	3.479	1	
+Tulip Court	Eti Osa	Lagos	6.497	3.617	1	
+Wasiu Otu Tuloro Street	Eti Osa	Lagos	6.504	3.605	1	
+Tunde Ajimoti Street	Eti Osa	Lagos	6.500	3.605	1	
+Tarsawa Dispensary	Gamawa	Bauchi	11.830	10.793	0	Tudun Fada Dispensary
+Tashan Turmi Maternity	Kirfi	Bauchi	10.363	10.756	0	
+Buka Tulai Dispensary	Toro	Bauchi	10.073	9.288	0	
+Tumu Dispensary	Toro	Bauchi	10.068	8.964	0	
+Buka Tulai Maternity	Toro	Bauchi	10.074	9.288	0	
+Tunde Adeleye Street	Eti Osa	Lagos	6.445	3.520	1	
+Tunji Bello Street	Eti Osa	Lagos	6.455	3.574	1	
+TUMU KASHERE ROAD	Akko	Gombe	10.066	11.059	1	
+Tulip Road	Eti Osa	Lagos	6.455	3.513	1	
+Umar Turawa Street	Tarauni	Kano	11.955	8.540	1	
+Tunde Obitayo Street	Kosofe	Lagos	6.621	3.387	1	
+Tuga Road	Tofa	Kano	12.061	8.262	1	
+Tunde William Street	Alimosho	Lagos	6.589	3.277	1	
+Tunde Afolabi Street	Eti Osa	Lagos	6.472	3.563	1	
+Chief Tunde Thompson Close	Eti Osa	Lagos	6.474	3.576	1	
+Tunde Balogun Street	Alimosho	Lagos	6.675	3.263	1	
+Tunde Akinyemi Street	Ìkòròdú	Lagos	6.639	3.484	1	
+Tunji Adejumo	Ifo	Ogun	6.686	3.308	1	
+Tunji Aderinto Street	Oshodi/Isolo	Lagos	6.525	3.326	1	
+Tunde Laitan Drive	Eti Osa	Lagos	6.450	3.483	1	
+Tunde Oyediran Close	Eti Osa	Lagos	6.472	3.580	1	
+Ikara to Tudun Wada Road	Ikara	Kaduna	11.196	8.324	1	
+Ikara to Tudun Wada Road	Ikara	Kaduna	11.220	8.364	1	
+Ikara to Tudun Wada Road	Tudun Wada	Kano	11.243	8.383	1	
+Eesa Tuntun Communty Road	Egbedore	Osun	7.785	4.486	1	
+Tudun Wada - Rugurugu Road	Tudun Wada	Kano	11.312	8.384	1	
+TUKULMA ROAD	Kwami	Gombe	10.345	11.218	1	
+Tunis Crescent	Ungongo	Kano	11.989	8.462	1	Sabo Danbatta Street
+Tunde Agunbiade Street	Eti Osa	Lagos	6.454	3.612	1	
+Ikara to Tudun Wada Road	Ikara	Kaduna	11.167	8.239	1	
+TUMU KASHERE ROAD	Akko	Gombe	10.112	11.108	1	
+Turnbull Road	Eti Osa	Lagos	6.457	3.446	1	
+Tum Farute Street	Eti Osa	Lagos	6.476	3.654	1	
+Oxbridge Tutorial College	Ikeja	Lagos	6.578	3.357	0	
+Tudun Gunsau Health Post	Wudil	Kano	11.760	8.852	0	
+Turai Yar'Adua Primary Health Centre	Kumbotso	Kano	11.953	8.515	0	
+Gudan Tuwo Health Post	Shanono	Kano	11.998	8.066	0	
+Gazan Tumfafi Dispensary	Shira	Bauchi	11.427	10.105	0	
+Tuya General Hospital	Warji	Bauchi	11.192	9.752	0	Warji General Hospital
+Tudun Wada Dispensary	Warji	Bauchi	11.222	9.652	0	
+Tulu Dispensary	Toro	Bauchi	10.576	9.028	0	
+Tulu Maternity	Toro	Bauchi	10.577	9.030	0	
+Health Center Tubule	Kirfi	Bauchi	10.460	10.670	0	
+Kofar Dumi Maternal and Child Health Clinic	Bauchi	Bauchi	10.308	9.857	0	Maternity and Child Health Center Tudun Wadan
+Tungushe Priimary Health Center	Jere	Borno	12.036	13.072	0	
+Tudun wada Maternityand child health care	Potiskum	Yobe	11.715	11.087	0	
+Tudun Wada Maternity and Child Health Center	Ngelzarma	Yobe	11.675	11.945	0	
+Tulotulo Kaska Health Post	Yusufari	Yobe	13.280	10.910	0	
+Tulotulo Lawanti Health Post	Yusufari	Yobe	13.371	11.009	0	
+Tudun Wada Clinic	Numan	Adamawa	9.458	12.035	0	
+tuhum waziri primary heath center	Madagali	Adamawa	10.736	13.531	0	
+Turmi Ngazari Dispensary	Fika	Yobe	11.352	11.421	0	
+Tudunwada Dispensary	Fune	Yobe	11.859	11.193	0	
+JAURO TUDUN WADA PRIMARY T/WADA	Gombe	Gombe	10.300	11.171	0	
+Tunde Shitta Street	Ifo	Ogun	6.759	3.182	1	
+Prince Tunde Adewoyin Street	Ede North	Osun	7.719	4.476	1	
+Tumubiri Street	Yenegoa	Bayelsa	4.866	6.210	1	
+Turmi Malori	Fika	Yobe	11.389	11.542	2	
+Garin Tuwo	Gulani	Yobe	10.771	11.655	2	
+Tulotulo	Yusufari	Yobe	13.262	10.861	2	
+Turabu	Kiri Kasama	Jigawa	12.506	10.139	2	
+Turbus	Maigatari	Jigawa	12.758	9.699	2	
+Birnin Tudu	Bakura	Zamfara	12.679	6.028	2	
+Tudun Wada	Gusau	Zamfara	12.124	6.746	2	
+Birnin Tudu	Gummi	Zamfara	12.049	5.274	2	
+Tudun Kose	Binji	Sokoto	13.271	4.925	2	
+Tureta	Tureta	Sokoto	12.609	5.537	2	
+Tullun Doya	Gudu	Sokoto	13.469	4.374	2	
+Tursa	Rabah	Sokoto	13.167	5.646	2	
+Lamba Tureta	Tureta	Sokoto	12.685	5.531	2	
+Tureta	Tureta	Sokoto	12.519	5.495	2	
+Tunga Mallamawa	Kware	Sokoto	13.070	5.417	2	
+Tunga	Wurno	Sokoto	13.271	5.406	2	
+Tuntube-Tsefe	Dange-Shuni	Sokoto	12.967	5.249	2	
+Turba	Isa	Sokoto	13.253	6.370	2	
+Tulluwa	Bodinga	Sokoto	12.941	5.157	2	
+Birnin Tudu Gudale	Augie	Kebbi	12.902	4.690	2	
+Tunga	Bunza	Kebbi	12.198	4.043	2	
+Birnin Tudu	Fakai	Kebbi	11.568	5.042	2	
+Bagudo Tuga	Bagudo	Kebbi	11.391	4.216	2	
+Tudun Kuka	Sakaba	Kebbi	11.255	5.447	2	
+Tukur Tukur	Zaria	Kaduna	11.092	7.702	2	
+Lazuru Tuddai	Lere	Kaduna	10.298	8.658	2	
+Turunku	Igabi	Kaduna	10.836	7.677	2	
+Tundun Wada North	Kaduna South	Kaduna	10.512	7.415	2	
+Tundun Wada South	Kaduna South	Kaduna	10.497	7.404	2	
+Tudun Wada	Makarfi	Kaduna	11.397	7.896	2	
+Turawa	Soba	Kaduna	11.103	8.090	2	
+Tundun Wada West	Kaduna South	Kaduna	10.496	7.389	2	
+Tudun Wada	Zaria	Kaduna	11.085	7.715	2	
+Tudun Fulani	Ungongo	Kano	12.028	8.419	2	
+Tudun Kaya	Karaye	Kano	11.698	7.905	2	
+Mesar Tudu	Gezawa	Kano	12.121	8.695	2	
+Tumfafi	Dawakin Tofa	Kano	12.132	8.470	2	
+Tudun Wada	Nassarawa	Kano	12.017	8.552	2	
+Turawa	Karaye	Kano	11.739	8.052	2	
+Unguwar Tudu	Gwarzo	Kano	11.943	7.982	2	
+Tudun Wada	Tudun Wada	Kano	11.316	8.524	2	
+Tumbau	Gezawa	Kano	12.002	8.798	2	
+Tunas	Roni	Jigawa	12.674	8.195	2	
+Tumburkai A	Dandume	Katsina	11.302	7.219	2	
+Tudun Wada	Daura	Katsina	13.015	8.326	2	
+Tuge	Musawa	Katsina	12.016	7.577	2	
+Tudun Iya	Funtua	Katsina	11.329	7.362	2	
+Tumburkai B	Dandume	Katsina	11.350	7.276	2	
+Yayarin Tukur	Buji	Jigawa	11.552	9.799	2	
+Tubule	Kirfi	Bauchi	10.455	10.693	2	
+Tumbi	Gamawa	Bauchi	12.290	10.602	2	
+Tudun Wada	Warji	Bauchi	11.190	9.642	2	
+Tumfafi	Shira	Bauchi	11.439	10.154	2	
+Tuba	Jere	Borno	12.082	13.142	2	
+Tudun Nupawa	Kaduna South	Kaduna	10.522	7.422	2	
+Tudun Wada B	Sokoto South	Sokoto	13.039	5.247	2	
+Tudun Wada A	Sokoto South	Sokoto	13.056	5.249	2	

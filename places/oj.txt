@@ -1,0 +1,257 @@
+Oje	Abeokuta North	Ogun	7.333	3.100	2	Awje
+Balogun	Ifelodun	Kwara	8.467	4.833	2	Balogun Oja;Balogun
+Ga Oja	Ifelodun	Kwara	8.317	4.700	2	
+Ojo	Akinyele	Oyo	7.466	3.913	2	
+Ile Ogi	Aiyedade	Osun	7.583	4.417	2	Oji
+Ojo	Akamkpa	Cross River	5.406	8.273	2	Ojo Akankpa;Ojo Akanpa
+Ojor Nkonemba	Akamkpa	Cross River	5.431	8.285	2	Ojo Nkon Mba
+Ojundo	Yewa North	Ogun	6.883	2.783	2	
+Oje	Dekina	Kogi	7.662	7.403	2	
+Oyoko	Ika South	Delta	6.104	6.170	2	Ojieko
+Ojoba	Burutu	Delta	5.030	5.670	2	
+Bulou-Ozobo	Burutu	Delta	5.045	5.679	2	Bulou-Ojobo;Bulou-Camp
+Ojo	Egbedore	Osun	7.812	4.426	2	
+Oju Ota	Yewa South	Ogun	6.795	2.953	2	
+Ojoto	Idemili South	Anambra	6.058	6.863	3	
+Jikwa	Sapele	Delta	5.950	5.633	2	Jikwa;Ojikwa
+Ojaota	Yewa North	Ogun	7.367	2.783	2	Awja Ata
+Ojiegbe	Ebonyi	Ebonyi	6.496	8.134	2	
+Oja	Akinyele	Oyo	7.508	3.897	2	
+Ojiguo	Sapele	Delta	5.927	5.624	2	
+Ojo	Ojo	Lagos	6.464	3.190	3	
+Ora Ojora	Akoko North West	Ondo	7.656	5.890	2	Ojo
+Ojigagala	Igalamela-Odolu	Kogi	7.042	6.737	2	Ogigala
+Ojenike	Surulere	Oyo	8.017	4.467	2	Awjennike
+Ojete	Yewa South	Ogun	6.828	2.901	2	
+Fagbo	Ondo East	Ondo	7.100	4.967	2	Oja Fagbo;Fagbo
+Ojon	Ilaje	Ondo	6.150	4.717	2	Ojan
+Ojagemo	Ìkòròdú	Lagos	6.574	3.660	2	Ojagemaw
+Aketu-Oja	Ifo	Ogun	6.681	3.375	2	Akute-Oja
+Ojere	Obafemi Owode	Ogun	7.107	3.335	2	
+Ojoku	Oyun	Kwara	8.253	4.658	2	
+Ojonu	Oyun	Kwara	8.253	4.658	2	
+Ojoemo	Akinyele	Oyo	7.552	3.945	2	Ojo-Emmaw
+Ojobo	Egbeda	Oyo	7.400	4.017	2	
+Oja Odan	Yewa North	Ogun	6.895	2.844	3	
+Ila-Oja-Aboto	Asa	Kwara	8.150	4.550	2	Ila-Oja-Aboto;Aboto Oja
+Ojigbobini	Ese Odo	Ondo	6.335	4.968	2	
+Ojala	Oturkpo	Benue	7.545	8.011	2	
+Ojassa	Yewa North	Ogun	7.050	2.783	2	
+Ojogbede	Ovia South-West	Edo	6.453	5.459	2	
+Ojedeji	Ido	Oyo	7.638	3.803	2	Awjedeji
+New Ujiji	Agwara	Niger	10.545	4.459	2	Ojiji
+Ojor	Biase	Cross River	5.349	8.104	2	
+Ojantelle	Apa	Benue	7.741	7.882	2	Ajantele;Ojanteile
+Ojomo	Oturkpo	Benue	7.350	8.082	2	
+Ojukiri Opuaru	Degema	Rivers	4.641	7.020	2	
+Ojogba	Esan West	Edo	6.527	6.146	2	Ugiogba
+Ojutaiye	Ori Ire	Oyo	8.317	4.350	2	Ojutaye
+Ojutaiye	Ogo Oluwa	Oyo	7.933	4.133	2	Ojutaye
+Oji	Kogi	Kogi	8.150	6.783	2	
+Edidi Oja	Isin	Kwara	8.231	4.943	2	
+Oja Oba Market	Ibadan South West	Oyo	7.374	3.895	0	
+Lamido Oji	Biu	Borno	10.874	11.811	2	
+Ojuore bus stop	Ado Odo/Ota	Ogun	6.689	3.226	0	
+Oja Ota Bus Stop	Ado Odo/Ota	Ogun	6.684	3.215	0	
+St Peter Ojuolape	Egbeda	Oyo	7.447	4.031	0	
+Gbaghia Oja Market	Ondo West	Ondo	7.056	4.622	0	
+Oja Oba Ulede	Akoko South West	Ondo	7.372	5.728	0	
+Market Oja Oba	Ose	Ondo	7.303	5.899	0	
+Fagbo Oja Market	Ondo East	Ondo	7.121	4.971	0	
+Asanta Oja Market	Ondo East	Ondo	6.989	4.957	0	
+Ebute Ojo/Sifax Ferry Terminal	Ojo	Lagos	6.453	3.205	0	
+Oja Titun	Ogbomosho North	Oyo	8.142	4.243	0	
+Oja 'gbo	Ogbomosho North	Oyo	8.130	4.249	0	
+Ojomu	Eti Osa	Lagos	6.455	3.521	2	
+zumuratul islamiyah primary school, ojumele	Shagamu	Ogun	6.847	3.636	0	
+wesley primary school ojumele, makun	Ifo	Ogun	6.811	3.181	0	
+wesley primary school ojumele, makun	Shagamu	Ogun	6.847	3.636	0	
+Wesley Primary School Ojumele, Makun	Ado Odo/Ota	Ogun	6.541	3.012	0	
+Community Primary School, Ojo-Ogundele	Ifo	Ogun	6.819	3.157	0	
+Community Primary, Ojodu Abiodun	Ifo	Ogun	6.807	3.203	0	
+Community Primary School, Ii Ojodu-Abiodun	Ado Odo/Ota	Ogun	6.703	3.271	0	
+Community Primary School, Ojo-Ogundele	Ifo	Ogun	6.663	3.360	0	
+Community Primary, Ojodu Abiodun	Ifo	Ogun	6.649	3.370	0	
+Hamdalat Hospital, Ojoo	Akinyele	Oyo	7.472	3.912	0	
+2 Div Military Hospital, Odogbo Cantonment, Ojoo	Akinyele	Oyo	7.471	3.918	0	
+Ojoo Pry Healthcare Centre	Akinyele	Oyo	7.471	3.916	0	
+Aroro Pry Health Centre, Ojoo	Akinyele	Oyo	7.523	3.958	0	
+Ojojo Primary School, Warri	Warri South	Delta	5.514	5.748	0	
+Oju	Oju	Benue	6.871	8.422	3	
+Igbede Primary Health Center Igbede Bstop Ojo Igbede	Ojo	Lagos	6.452	3.163	0	
+Hon C O Ojelabi Health Center Igbo Elerin	Ojo	Lagos	6.482	3.188	0	
+Tedi Primary Health Center Ojo	Amuwo Odofin	Lagos	6.446	3.228	0	
+Ojuoluwa Medical Centre	Ado Odo/Ota	Ogun	6.566	3.081	0	
+Ojo Bala Ologunebi Trado And Maternity Clinic	Alimosho	Lagos	6.495	3.244	0	
+Merit Medical Centre Ojuwoyw	Mushin	Lagos	6.533	3.353	0	
+Oja Ale	Iwo	Osun	7.635	4.180	0	
+Oja Ejigbo(Ejigbo Market)	Ejigbo	Osun	7.903	4.314	0	
+Akabor City Gate, Ojoto, Idemili South LGA, Anambra State, Nigeria	Idemili South	Anambra	6.066	6.860	0	
+Ojo Market waterside	Ojo	Lagos	6.453	3.204	0	
+Ojok	Akamkpa	Cross River	5.606	8.822	2	
+Oja Tuntun, Oko Erin, Nigeria	Ilorin East	Kwara	8.488	4.538	3	
+Oja Oba, Oko Erin, Nigeria	Ilorin West	Kwara	8.488	4.534	3	
+Oja Oba, Ilorin, Nigeria	Ilorin East	Kwara	8.496	4.546	0	
+FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
+FGVV+JQH, Omu-Aran-Oja Oba, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.494	4.544	0	
+FGQJ+WXH, Oja Tutun, Oja Oba, Oko Erin 240281, Kwara, Nigeria	Ilorin West	Kwara	8.490	4.532	0	
+Babaoko Market Rd, Oja Oba, Kwara, Nigeria	Ilorin East	Kwara	8.487	4.539	1	
+Ojagboro, Gambari Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.501	4.560	0	
+Oja Tutun, Oko Erin, Nigeria	Ilorin West	Kwara	8.490	4.533	3	
+Kwara State Polytechnic, Share-Oja Oba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.543	4.634	0	
+Jimba-Oja, Nigeria	Ifelodun	Kwara	8.394	4.682	2	
+Oji River	Oji-River	Enugu	6.255	7.269	3	
+irewe ojo	Ojo	Lagos	6.425	3.153	0	
+Ojo Senior High School	Ojo	Lagos	6.453	3.218	0	
+Ojo Junior High School	Ojo	Lagos	6.453	3.219	0	
+Awori Junior College, Ojo	Ojo	Lagos	6.459	3.200	0	
+Ojuelegba Amala Point Idu Junction	Municipal Area Council	FCT Abuja	9.037	7.413	0	
+Ojuelegba	Mushin	Lagos	6.511	3.362	2	
+Ojodu Berger	Ikeja	Lagos	6.642	3.369	2	
+Ojota	Kosofe	Lagos	6.587	3.379	2	
+Ojokoro	Ifako/Ijaye	Lagos	6.671	3.302	2	
+Ojoniya	Obanliku	Cross River	6.332	9.332	2	
+Ojekunle Street	Mushin	Lagos	6.536	3.340	1	
+Omo-Ojeide Street	Oredo	Edo	6.290	5.603	1	
+Ojomoh Street	Oredo	Edo	6.299	5.624	1	
+OJO STREET BY POWERLINE	Egor	Edo	6.371	5.588	1	
+Ojo street	Egor	Edo	6.355	5.575	1	
+Ojo Giwa Street	Lagos Island	Lagos	6.460	3.391	1	
+Ojo Street	Eti Osa	Lagos	6.447	3.413	1	
+Ojo Badan Avenue	Ibadan North	Oyo	7.422	3.907	1	
+Lagos-Ojoo Expressway	Ibadan North East	Oyo	7.384	3.921	1	
+Amodu Ojikutu Street	Eti Osa	Lagos	6.425	3.419	1	
+Fola Ojikutu Street	Oshodi/Isolo	Lagos	6.511	3.309	1	
+Adebola Ojomu Street	Surulere	Lagos	6.494	3.346	1	
+Dayo Ojutiku Street	Surulere	Lagos	6.507	3.344	1	
+Ojo Lane	Eti Osa	Lagos	6.457	3.415	1	
+Ojomu Road	Eti Osa	Lagos	6.449	3.447	1	
+Oja oba Street	Kosofe	Lagos	6.543	3.400	1	
+Oja Oba Street	Kosofe	Lagos	6.545	3.399	1	
+Philip Ojedokun Street	Kosofe	Lagos	6.637	3.386	1	
+Riskat Ojikutu Street	Ikeja	Lagos	6.636	3.350	1	
+Ojora Avenue	Ikeja	Lagos	6.606	3.342	1	
+Oje Imianvan street	Ikeja	Lagos	6.602	3.361	1	
+Omotayo Ojo Street	Ikeja	Lagos	6.600	3.351	1	
+Theophilus Oji Street	Eti Osa	Lagos	6.441	3.465	1	
+Old Ojo road	Amuwo Odofin	Lagos	6.458	3.288	1	
+Oju Olobun Close	Eti Osa	Lagos	6.428	3.415	1	
+Ojora Road	Eti Osa	Lagos	6.451	3.448	1	Hawesworth Road
+Ojora Colony	Eti Osa	Lagos	6.436	3.422	1	
+Oju Olokun Street	Lagos Island	Lagos	6.462	3.390	1	
+Ojoku Street	Ajeromi/Ifelodun	Lagos	6.447	3.342	1	
+Ojo Road	Ajeromi/Ifelodun	Lagos	6.460	3.338	1	
+Muri Ojara Street	Ajeromi/Ifelodun	Lagos	6.470	3.343	1	
+Ojuku Road	Offa	Kwara	8.210	4.693	1	
+Jimoh Ojuku Street	Surulere	Lagos	6.508	3.338	1	
+Ojo-Eki street	Egor	Edo	6.355	5.579	1	
+Jaivbo Ojigbo Street	Eti Osa	Lagos	6.495	3.589	1	
+Adebola Ojomu Street	Surulere	Lagos	6.494	3.343	1	
+Adedamola Ojoma Close	Surulere	Lagos	6.490	3.351	1	
+Idahosa Ojo Osagie Street	Surulere	Lagos	6.489	3.343	1	
+Ojelabi Awolola Street	Lagos Mainland	Lagos	6.509	3.389	1	
+Ojuelegba Road	Surulere	Lagos	6.509	3.367	1	
+Ojekale St	Shomolu	Lagos	6.537	3.400	1	
+Ojo Street	Shomolu	Lagos	6.529	3.384	1	
+Adebayo Ojo Street	Oshodi/Isolo	Lagos	6.524	3.316	1	
+Pastor Ojediran Street	Oshodi/Isolo	Lagos	6.543	3.303	1	
+Imam Ojoku	Agege	Lagos	6.619	3.316	1	
+Dele Ojo Close	Ifako/Ijaye	Lagos	6.664	3.311	1	
+Ojugo Street	Warri South	Delta	5.534	5.750	1	
+Ojogwu Close	Uvwie	Delta	5.553	5.770	1	
+Ojabugbe Street	Warri South	Delta	5.529	5.756	1	
+Ojo Street	Oredo	Edo	6.343	5.602	1	
+Imade-Ojo Close	Oredo	Edo	6.329	5.606	1	
+Esu Awele-Oja Oba Road	Ibadan South East	Oyo	7.374	3.899	1	
+Ben Ojeh Crescent	Enugu East	Enugu	6.480	7.485	1	
+Ojiadazie Crescent	Enugu South	Enugu	6.422	7.528	1	
+Ojike Lane	Enugu South	Enugu	6.424	7.488	1	
+Ojoto Crescent	Enugu East	Enugu	6.481	7.501	1	
+Oji Street	Enugu South	Enugu	6.421	7.490	1	
+Oji River Street	Enugu East	Enugu	6.478	7.523	1	
+Ojebe -Ogene Drive	Enugu North	Enugu	6.438	7.535	1	
+Onunwa Ojukwu	Enugu South	Enugu	6.385	7.472	1	
+Ojutu-Erin road	Egbedore	Osun	7.828	4.492	1	
+Oja Odan Road, Ilaro	Yewa South	Ogun	6.887	2.951	1	
+Anthony Ojeikere Street	Ifako/Ijaye	Lagos	6.639	3.333	1	
+Chima Oji Drive	Enugu East	Enugu	6.470	7.500	1	
+Christopher Ojobo Street	Enugu East	Enugu	6.469	7.535	1	
+Chukwuemeka Ojiyi Drive	Enugu East	Enugu	6.498	7.528	1	
+Eke Road/ Ojide Street	Enugu South	Enugu	6.383	7.473	1	
+Omenife Ojoto Close	Enugu South	Enugu	6.405	7.483	1	
+Ojefia Crescent	Oshodi/Isolo	Lagos	6.489	3.307	1	
+Ojokoro Eyita Road	Ìkòròdú	Lagos	6.644	3.498	1	
+Raheem Sho-Oja Street	Ìkòròdú	Lagos	6.621	3.489	1	
+Ojora Street	Ikeja	Lagos	6.604	3.340	1	
+Iyahe - Oju Road	Oju	Benue	6.800	8.457	1	
+Joshua Ebun Ojo Close	Eti Osa	Lagos	6.442	3.463	1	
+Ojulari Road	Eti Osa	Lagos	6.437	3.493	1	
+Princess Folashade Ojutalayo Close	Eti Osa	Lagos	6.442	3.466	1	
+Dr. Lanre Ojo Drive	Eti Osa	Lagos	6.442	3.582	1	
+Olakunle Ojo Street	Alimosho	Lagos	6.684	3.263	1	
+Amusa Ojubanire Street	Ibeju Lekki	Lagos	6.479	3.728	1	
+Egnr Kimiebi Ojujoh Close	Ibeju Lekki	Lagos	6.476	3.723	1	
+Ojerinde Street	Mushin	Lagos	6.522	3.352	1	
+Ojike Lane	Umuahia North	Abia	5.526	7.494	1	
+Olusegun Ojeleye Street	Eti Osa	Lagos	6.471	3.579	1	
+Oja Oba Ijebu Jesha-Oke Mesi Road	Oriade	Osun	7.684	4.822	1	
+Ade-Ojo Street	Ife Central	Osun	7.504	4.547	1	
+Ojoyin Street	Ife Central	Osun	7.483	4.550	1	
+Oke Oja/Temidire/Ayegunle/Ijero Road	Ido-Osi	Ekiti	7.866	5.160	1	
+Ojude Street/Ise emure road	Ise/Orun	Ekiti	7.457	5.435	1	
+Oju Okpaka Street	Oshodi/Isolo	Lagos	6.486	3.295	1	
+Ojiaka Street	Oshodi/Isolo	Lagos	6.514	3.303	1	
+Dele Ojewole Street	Alimosho	Lagos	6.594	3.251	1	Dele Ajewole Street
+Ojoboh Street	Eti Osa	Lagos	6.484	3.592	1	
+Ojuelegba Street	Ado Odo/Ota	Ogun	6.696	3.276	1	
+Philips Ojo Street	Ìkòròdú	Lagos	6.653	3.513	1	
+Oba Oyewumi Ojekale Way	Ejigbo	Osun	7.849	4.340	1	
+OJO STREET BY POWERLINE	Egor	Edo	6.377	5.587	1	
+Odumegwu Ojukwu Way	Municipal Area Council	FCT Abuja	9.001	7.478	1	
+Ifiok Ojuolape Street	Eti Osa	Lagos	6.447	3.509	1	
+Ojoh Close	Uvwie	Delta	5.563	5.754	1	
+Olayinka Ojutalayo Street	Ife Central	Osun	7.494	4.541	1	
+Osas Ojo Avenue	Ovia North-East	Edo	6.439	5.578	1	
+Ojo Street	Ika South	Delta	6.258	6.163	1	
+Olufemi Ojo Street	Adó-Èkìtì	Ekiti	7.619	5.210	1	
+Eze Ojinnaka Compound	Njaba	Imo	5.675	7.023	1	
+Oju Oja Street	Ijero	Ekiti	7.836	5.035	1	
+Lanre Ojerinde Street	Ewekoro	Ogun	6.845	3.191	1	
+Oladele Ojogbede Street	Eti Osa	Lagos	6.432	3.499	1	
+Jaivbo Ojigbo Street	Eti Osa	Lagos	6.495	3.589	1	
+Seliu Oje Street	Alimosho	Lagos	6.527	3.268	1	
+Ojuelegba Street	Ado Odo/Ota	Ogun	6.698	3.274	1	
+Ojuelegba Street	Ado Odo/Ota	Ogun	6.693	3.279	1	
+Ojo - Igbede Road	Ojo	Lagos	6.462	3.167	1	
+Ojokoro Road	Ìkòròdú	Lagos	6.637	3.485	1	
+Ojioko Akubieze Close	Owerri North	Imo	5.507	7.032	1	
+Ojokoro Village Road	Ìkòròdú	Lagos	6.639	3.488	1	
+Ojuelegba Road	Surulere	Lagos	6.510	3.365	1	
+Old Ojo Road	Amuwo Odofin	Lagos	6.459	3.307	1	
+Chukwuemeka Odumegwu Ojukwu University, Uli	Ihiala	Anambra	5.772	6.837	0	
+Ojoku Street	Ajeromi/Ifelodun	Lagos	6.441	3.342	1	
+Iyahe - Oju Road	Yala	Cross River	6.727	8.455	1	
+Iyahe - Oju Road	Yala	Cross River	6.546	8.427	1	
+Ojuku Road	Offa	Kwara	8.154	4.715	1	
+Nigerian Navy Secondary School Ojo	Amuwo Odofin	Lagos	6.451	3.277	0	
+Ojefia Crescent	Oshodi/Isolo	Lagos	6.488	3.305	1	
+PHC Ka'oje	Bagudo	Kebbi	11.187	4.122	0	
+Raji Kehinde Alfa-Oja Street	Asa	Kwara	8.479	4.482	1	
+Akobo - Ojurin Road	Lagelu	Oyo	7.424	3.937	1	
+Ojo-Kadiri Street	Eti Osa	Lagos	6.473	3.615	1	
+Ojojo Primary School	Warri South	Delta	5.514	5.748	0	
+EK Ojo Street	Municipal Area Council	FCT Abuja	9.045	7.547	1	
+Ojumola Street	Ajeromi/Ifelodun	Lagos	6.443	3.347	1	
+Omoba Egberongbe Ojomo Street	Eti Osa	Lagos	6.479	3.629	1	
+Maryland-Opebi-Ojota Link Bridge	Ikeja	Lagos	6.581	3.369	1	
+Maryland-Opebi-Ojota Link Bridge	Ikeja	Lagos	6.583	3.375	1	
+Oja Odan Road, Ilaro	Yewa South	Ogun	6.886	2.994	1	
+Oja Odan Road, Ilaro	Yewa South	Ogun	6.887	3.006	1	
+Ojokoro Road	Ìkòròdú	Lagos	6.636	3.489	1	
+Ojokoro Eyita Road	Ìkòròdú	Lagos	6.630	3.506	1	
+Ojokoro Eyita Road	Ìkòròdú	Lagos	6.633	3.504	1	
+Oja Odan Road, Ilaro	Yewa North	Ogun	6.897	2.861	1	
+Oja Odan Road, Ilaro	Yewa North	Ogun	6.894	2.903	1	
+Oju	Oju	Benue	6.870	8.364	2	
+Oji-River	Oji-River	Enugu	6.165	7.303	2	
+Ojo	Ojo	Lagos	6.462	3.166	2	

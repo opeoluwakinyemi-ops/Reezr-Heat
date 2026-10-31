@@ -1,0 +1,624 @@
+Port Harcourt	Port-Harcourt	Rivers	4.768	7.019	3	
+Hardo Buba	Biriniwa	Jigawa	12.736	10.093	2	
+Harasawa	Birnin Kebbi	Kebbi	12.427	4.247	2	
+Tunga Hakimi Umaru	Bagudo	Kebbi	11.025	4.328	2	
+Hama	Shanga	Kebbi	11.105	4.816	2	
+Haikini	Maru	Zamfara	11.320	6.535	2	
+Namtari Kahu	Girei	Adamawa	9.500	12.450	2	Hamajidda
+Gidan Hashimu	Danja	Katsina	11.333	7.667	2	Hashimu
+Hardo Deba	Yamaltu/Deba	Gombe	10.143	11.301	2	
+Harbo	Jahun	Jigawa	12.151	9.541	2	Harbo Tsakuwawa
+Wuro Harde	Mubi North	Adamawa	10.287	13.259	2	
+Mangu Halle	Mangu	Plateau	9.506	9.107	2	
+Tungan Habi	Dandi	Kebbi	11.704	3.673	2	
+Maina Hari	Biu	Borno	10.678	12.158	2	
+Hamma Ali	Kware	Sokoto	13.167	5.316	2	
+Gidan Hayaki	Kware	Sokoto	13.200	5.255	2	
+Ungwan Haruna	Rogo	Kano	11.405	7.729	2	Haruna
+Harry's Town	Degema	Rivers	4.798	6.779	2	
+Dalijem Hausawa	Binji	Sokoto	13.240	4.876	2	
+Dutsin Haba	Toro	Bauchi	10.517	9.459	2	
+Keta Hausawa	Kalgo	Kebbi	12.264	4.011	2	
+Tungan Hassan	Bagudo	Kebbi	11.449	4.371	2	
+Hantsi	Shanga	Kebbi	11.010	4.823	2	
+Hatuwa	Shanga	Kebbi	11.109	4.511	2	
+Han-Han	Maru	Zamfara	11.407	6.466	2	
+Kamaru Hausawa	Zangon Kataf	Kaduna	9.883	8.185	2	
+Naraguta Hausawa	Jos North	Plateau	9.983	8.900	2	Naraguta
+Ungwan Hamani	Kalgo	Kebbi	12.444	3.985	2	
+Harang	Hawul	Borno	10.568	12.462	2	Haran
+Habewu	Kware	Sokoto	13.301	5.192	2	
+Gidan Dan Hagu	Gusau	Zamfara	12.072	6.608	2	
+Halilu	Makarfi	Kaduna	11.300	7.872	2	
+Hadejia	Hadejia	Jigawa	12.453	10.042	3	
+Bulama Haseini	Guri	Jigawa	12.591	10.405	2	Bulama Haseni
+Gidan Haikimi	Augie	Kebbi	12.834	4.574	2	
+Madinka Hausawa	Kalgo	Kebbi	12.454	4.038	2	
+Nyanga Hausawa	Kalgo	Kebbi	12.309	4.051	2	
+Ungwar Hayatu	Girei	Adamawa	9.533	12.433	2	Bumara
+Hausare	Shagari	Sokoto	12.525	4.906	2	
+Bwaka Hamadawa	Tureta	Sokoto	12.583	5.317	2	
+Abun Hali	Kala-Balge	Borno	11.899	14.499	2	
+Gede Haikimi	Bunza	Kebbi	12.194	3.982	2	
+Kufara Kan Hauwa	Chikun	Kaduna	10.665	6.880	2	Kufara
+Tungan Haruna	Gwadabawa	Sokoto	13.452	5.225	2	
+Tungan Haki	Gusau	Zamfara	11.964	6.580	2	
+Gidan Halilu	Gusau	Zamfara	12.097	6.612	2	
+Hayin Kano	Kubau	Kaduna	10.808	8.548	2	
+Ungwan Hassan	Ikara	Kaduna	11.306	8.209	2	Hassan
+Dutsin Habe	Toro	Bauchi	10.517	9.459	2	
+Habe	Toro	Bauchi	10.517	9.459	2	
+Ungwan Haruna	Birnin Kebbi	Kebbi	12.400	4.179	2	
+Hassan	Fakai	Kebbi	11.487	4.737	2	
+Tunga Hakimi Haro	Koko-Besse	Kebbi	11.352	4.354	2	
+Wuro Hammagu	Mubi South	Adamawa	10.217	13.267	2	Wuro Bobbowa;Bobbowa
+Wuro Hamadalil	Girei	Adamawa	9.483	12.433	2	Hamadalin
+Assob Hausa	Riyom	Plateau	9.533	8.650	2	Assab Hausa
+Ungwan-Hassan	Dandi	Kebbi	11.666	3.719	2	
+Hamiya	Shani	Borno	10.309	12.217	2	
+Ejuavekpimi	Warri North	Delta	6.054	5.261	2	Harrisons Camp
+Hasan	Tangaza	Sokoto	13.442	5.117	2	
+Dalijem Hausawa	Binji	Sokoto	13.243	4.859	2	
+Garin Hasan	Maigatari	Jigawa	12.720	9.716	2	
+Gari-Hausawa	Wasagu-Danko	Kebbi	11.695	4.973	2	
+Haska	Yusufari	Yobe	13.193	11.311	2	
+Takari Hausawa	Gwandu	Kebbi	12.435	4.515	2	
+Halibu Soja	Koko-Besse	Kebbi	11.401	4.370	2	
+Hausawan Bugai	Chikun	Kaduna	10.549	7.642	2	
+Hasga	Mubi North	Adamawa	10.409	13.376	2	
+Hamrari	Monguno	Borno	12.389	13.380	2	
+Hema 2	Hawul	Borno	10.566	12.166	2	Hayama
+Ngohi	Askira-Uba	Borno	10.672	12.691	2	Ngohi Kofan Hakimi
+Hamma Lamu	Shani	Borno	10.064	12.053	2	
+Dasin Hausa	Fufore	Adamawa	9.274	12.659	2	
+Hamborawa	Ringim	Jigawa	12.183	9.133	2	Hambarawa
+Hammari	Dange-Shuni	Sokoto	12.918	5.454	2	Hetereti
+Badon Hanya	Wamako	Sokoto	12.984	5.212	2	
+Dutsen Habe	Toro	Bauchi	10.517	9.459	2	
+Hanto	Fakai	Kebbi	11.434	4.829	2	
+Hakwon Sarki	Augie	Kebbi	12.703	4.701	2	Fakwon Sarki
+Tungan Haikim	Kebbe	Sokoto	12.196	4.790	2	
+Hantsu	Miga	Jigawa	12.220	9.597	2	
+Hausa	Bokkos	Plateau	9.322	8.877	2	
+Haw	Askira-Uba	Borno	10.595	13.219	2	
+Tungan-Hakimi	Dandi	Kebbi	11.824	3.896	2	
+Dandang Hardo	Shani	Borno	10.122	12.033	2	Dandang
+Hamna	Hawul	Borno	10.345	12.100	2	
+Mbuma Hamtamnya	Hawul	Borno	10.476	12.239	2	
+Garin Lawa Hamma	Shani	Borno	10.220	12.106	2	Gahri Hamman
+Hausawa	Kware	Sokoto	13.129	5.302	2	
+Ham'aras	Kala-Balge	Borno	11.892	14.318	2	
+Gidan Hamma	Illela	Sokoto	13.591	5.497	2	
+Gidan Mallam Haruna	Kaura Namoda	Zamfara	12.449	6.531	2	
+Haragawa	Illela	Sokoto	13.634	5.425	2	
+Garan Hasan	Maigatari	Jigawa	12.720	9.716	2	
+Hoche	Ankpa	Kogi	7.474	7.742	2	Hache
+Kambaza-Hausawa	Gwandu	Kebbi	12.453	4.565	2	
+Gazo Hausawa	Birnin Kebbi	Kebbi	12.444	4.278	2	
+Rafin Hardo	Lere	Kaduna	10.404	8.783	2	Hardo
+Ago Hausa	Badagry	Lagos	6.402	2.849	2	
+Monguna Hausawa	Bokkos	Plateau	9.324	8.873	2	
+Hardo	Funakaye	Gombe	10.983	11.433	2	Gidan Hardo
+Jama’a Haro	Makoda	Kano	12.545	8.523	2	
+Ungwan-Hamidu	Dandi	Kebbi	11.688	3.723	2	
+Sangwa Bulama Hamma	Shani	Borno	10.326	12.200	2	Bulama Hamma
+Jam Jam Jauro Hammadu	Shani	Borno	10.217	12.020	2	Jamjam
+Unguwar Hayi	Gusau	Zamfara	12.130	6.703	2	
+Guidan Dan Hagu	Gusau	Zamfara	12.072	6.608	2	
+Gidan Hashimu	Gada	Sokoto	13.561	5.744	2	
+Guidan Halilu	Gusau	Zamfara	12.097	6.612	2	
+Kafin Hausa	Kafin Hausa	Jigawa	12.241	9.913	2	Kaffin-Hausa;Keffin Hausa
+Hawachaka	Arewa Dandi	Kebbi	12.882	4.053	2	
+Hashidu	Kirfi	Bauchi	10.398	10.716	2	Hashidu Habe
+Hausawan	Chikun	Kaduna	10.549	7.643	2	
+Mayo Haka	Jada	Adamawa	8.750	12.300	2	Mayo Hako
+Haruna	Baure	Katsina	12.716	8.858	2	
+Jauro Hamma	Shani	Borno	10.107	12.059	2	Wuro Jauro Hamadu
+Hayi	Gusau	Zamfara	12.129	6.704	2	
+Gidan Haruna	Rafi	Niger	10.178	6.064	2	
+Mallam Haruna	Kaura Namoda	Zamfara	12.450	6.531	2	
+Ungwan Hasan	Rogo	Kano	11.425	7.718	2	Ungwan Hassan;Hassan
+Tunga Hakimi Isa	Koko-Besse	Kebbi	11.345	4.230	2	
+Port Harcourt Station	Port-Harcourt	Rivers	4.765	7.016	0	
+Omupo Town Hall	Ifelodun	Kwara	8.278	4.792	0	
+Harvesters Int'l Theological Seminary	Oredo	Edo	6.331	5.626	0	
+Happy Time Crèche, Nursery & Primary School	Enugu South	Enugu	6.420	7.492	0	
+Hansa Clinics	Enugu North	Enugu	6.430	7.496	0	
+Hago Primary Health Centre	Rogo	Kano	11.480	7.831	0	
+Hawadin Galadima Primary Health Centre	Kabo	Kano	11.866	8.236	0	
+Hayin Gwarmai Health Post	Bebeji	Kano	11.460	8.204	0	
+Hagawa Health Post	Bichi	Kano	12.255	8.169	0	
+Unguwar Hakimi	Shanono	Kano	12.056	7.989	2	
+Hausawa Dumo	Gaya	Kano	11.737	9.093	2	
+Hausawa Hadi	Gaya	Kano	11.731	9.100	2	
+Hausawa Magaji Gari Mai Unguwa	Gaya	Kano	11.726	9.106	2	
+Zuwan Hawa	Albasu	Kano	11.731	9.223	2	
+Hayin Mangwaro	Sumaila	Kano	11.112	8.849	2	
+Hayin Tama	Sumaila	Kano	11.114	8.852	2	
+Hausawa	Tarauni	Kano	11.968	8.537	2	
+Hajj Camp	Fagge	Kano	12.027	8.524	2	
+Hayin Yawa	Tudun Wada	Kano	11.247	8.419	2	Hayinyawa
+Ndanga Lawan Haruna	Chibok	Borno	10.806	12.872	2	
+Shaffa Ly Angwa Hassan	Hawul	Borno	10.509	12.325	2	
+Dusuman Hausari	Jere	Borno	11.908	13.264	2	
+Sarkin Hausawa	Maiduguri	Borno	11.841	13.170	2	
+Ejigbo Town Hall	Ejigbo	Osun	7.903	4.314	0	
+Jauro Harun	Shani	Borno	10.207	11.889	2	
+Jauro Hashimu	Shani	Borno	10.193	11.896	2	
+Leda Jauro Hasimu	Shani	Borno	10.195	11.891	2	
+Lede Jauro Haru	Shani	Borno	10.183	11.898	2	
+Mallam Hannari	Nganzai	Borno	12.385	13.084	2	
+Adamu Hassana	Shani	Borno	10.182	11.958	2	
+Wuro Hari Alhaji Tukur	Shani	Borno	10.207	12.031	2	
+Wuro Hari	Shani	Borno	10.198	12.032	2	
+Hausari 1	Jere	Borno	11.951	13.229	2	
+Hausari 2	Jere	Borno	11.953	13.229	2	
+Muskum Hassan	Mafa	Borno	11.992	13.585	2	
+Hashime	Mafa	Borno	11.970	13.400	2	
+Hayaba Gana	Mafa	Borno	11.941	13.389	2	
+Hayaba Kura	Mafa	Borno	11.953	13.399	2	Jibrinti
+Goniri Hassanti	Nganzai	Borno	12.661	13.107	2	
+Hassanti	Nganzai	Borno	12.664	13.106	2	
+Hassanti	Gubio	Borno	12.646	12.648	2	
+Jauro Habu	Shani	Borno	10.187	11.700	2	
+Ardo Hamed	Chibok	Borno	10.848	12.925	2	
+Bila Hassan	Chibok	Borno	10.796	12.923	2	
+Jauro Haruna Musa	Shani	Borno	10.043	11.875	2	
+Kafetowa B Hassaini	Magumeri	Borno	12.027	12.377	2	
+Jauro Haliru	Kwaya Kusar	Borno	10.413	11.949	2	
+Jauro Hamma	Kwaya Kusar	Borno	10.415	11.943	2	
+Zobi Haruna	Kwaya Kusar	Borno	10.435	11.869	2	
+Bulama Hausawa Jigo	Shani	Borno	10.076	11.963	2	
+Liman Hamma	Shani	Borno	10.098	12.060	2	
+Pankikang Jauro Hamldu	Shani	Borno	10.134	11.998	2	
+Pankilang Bulama Hamidu	Shani	Borno	10.133	12.004	2	Pankillang
+Peshongo Liman Hamma	Shani	Borno	10.100	12.064	2	
+Bulama Haruna	Shani	Borno	10.280	12.173	2	
+Kelling Hamidu Iliya	Shani	Borno	10.309	12.177	2	
+Haddore	Bayo	Borno	10.341	11.597	2	
+Garin Alhaji Hassan	Bayo	Borno	10.355	11.633	2	
+Garin Hanau	Kwaya Kusar	Borno	10.481	11.744	2	
+Hammari	Bayo	Borno	10.427	11.640	2	
+Hayin Abba	Bayo	Borno	10.345	11.617	2	
+Hayin Tsamiya	Bayo	Borno	10.485	11.670	2	
+Kwardum Hamma	Kwaya Kusar	Borno	10.424	11.965	2	
+Hamtamya	Hawul	Borno	10.467	12.304	2	
+Jauro Hayu	Bayo	Borno	10.581	11.715	2	
+Hardo Wagilla	Biu	Borno	10.731	12.340	2	
+Lamido Haro	Biu	Borno	10.896	11.775	2	
+Maina Hari Health Clinic	Biu	Borno	10.678	12.159	0	
+Ngohi Kofan Hakimi Medical Dispensary	Askira-Uba	Borno	10.671	12.690	0	
+Hayin Kwari	Biu	Borno	10.964	12.251	2	
+Ardo Haman	Chibok	Borno	10.864	12.752	2	
+Ardo Happa	Chibok	Borno	10.809	12.778	2	
+Hassan Gwarzo School	Tarauni	Kano	11.949	8.540	0	
+Hadidi Shopping Complex	Kaduna North	Kaduna	10.547	7.464	0	
+UTAGBAN TOWN HALL	Oredo	Edo	6.294	5.564	0	
+Yele Hawari	Monguno	Borno	12.405	13.569	2	
+Fullatari Mai Hamma	Monguno	Borno	12.676	13.711	2	
+Hassanti	Guzamala	Borno	12.790	13.222	2	
+Gusari Modu Hauwami	Guzamala	Borno	12.715	13.377	2	
+Souls Harvester Schools	Uvwie	Delta	5.539	5.759	0	
+Hansreal	Alimosho	Lagos	6.546	3.265	0	
+Haidara	Dange-Shuni	Sokoto	12.778	5.313	2	
+Hausawa	Dange-Shuni	Sokoto	12.843	5.330	2	
+Amanawa Hayi	Dange-Shuni	Sokoto	12.924	5.310	2	
+town Hall	Ìkòròdú	Lagos	6.614	3.503	0	
+St. John's Hall	Kachia	Kaduna	9.893	7.953	0	
+Ogbomoso Town Hall	Ogbomosho North	Oyo	8.131	4.248	0	
+Migbewe 1 Town Hall	Lagos Mainland	Lagos	6.495	3.388	0	
+Bale Towe Town Hall	Lagos Mainland	Lagos	6.495	3.389	0	
+Hafdala corporate Limited	Toro	Bauchi	10.226	9.511	0	
+Haruna Kadir Rashid	Gombe	Gombe	10.308	11.173	0	
+Hago	Rogo	Kano	11.484	7.832	2	
+Hayi	Rogo	Kano	11.552	7.818	2	
+Yammawa Hausawa	Karaye	Kano	11.749	7.928	2	Ungwan Alhazi
+Unguwar Haladu	Kiru	Kano	11.406	8.254	2	
+Hayin Dan Sallau	Kiru	Kano	11.655	8.166	2	
+Hayin Gwarmai	Bebeji	Kano	11.460	8.205	2	
+Harbau	Tsanyawa	Kano	12.385	8.059	2	
+Harda	Kunchi	Kano	12.482	8.349	2	
+Danmarina Hayi Kogi	Madobi	Kano	11.833	8.303	2	Damurna
+Hayin Katsinawa	Bebeji	Kano	11.485	8.349	2	Katsalle
+Haruna	Bebeji	Kano	11.366	8.322	2	
+Hayin Ruwa	Garum Mallam	Kano	11.603	8.436	2	
+Hadin Tsamiya	Kunchi	Kano	12.391	8.403	2	
+Hayin Hago	Dawakin Tofa	Kano	12.097	8.352	2	
+Hadin Sarke	Bichi	Kano	12.329	8.372	2	
+Hankaki	Dambatta	Kano	12.320	8.648	2	
+Hadin Maikaye	Makoda	Kano	12.324	8.523	2	
+Hausawa	Warawa	Kano	11.928	8.697	2	
+Hayin Wazo	Warawa	Kano	11.967	8.687	2	
+Hausawa	Dawakin Kudu	Kano	11.869	8.514	2	
+Haladawa	Warawa	Kano	11.978	8.707	2	
+Jama'Ar Ganji Hadin Kansila	Gaya	Kano	11.842	9.181	2	
+Hadin Kansila	Gaya	Kano	11.838	9.188	2	
+Handawaki Yamma	Gaya	Kano	11.777	8.908	2	
+Hargagi	Wudil	Kano	11.709	8.917	2	
+Kula Hanyar Gala	Sumaila	Kano	11.395	8.941	2	Kula
+Hatsai	Takai	Kano	11.388	9.093	2	
+Hayin Gaude	Rano	Kano	11.434	8.532	2	
+Hausawa	Kibiya	Kano	11.526	8.664	2	
+Hayin Halilu	Kibiya	Kano	11.523	8.627	2	
+Hayin Liman	Tudun Wada	Kano	11.292	8.482	2	
+Alor Town Hall	Idemili South	Anambra	6.080	6.965	0	
+Hada Kaya Dispensary	Gwoza	Borno	11.192	13.878	0	
+Dasin Hausa Primary Health Care Center	Fufore	Adamawa	9.266	12.648	0	
+Hansal International School	Yenegoa	Bayelsa	4.939	6.358	0	
+COVENANT HALL SCHOOL	Eti Osa	Lagos	6.444	3.513	0	
+New Haven Primary School	Enugu North	Enugu	6.457	7.525	0	
+Hamdalat Hospital, Ojoo	Akinyele	Oyo	7.472	3.912	0	
+Harvase International School	Municipal Area Council	FCT Abuja	8.995	7.424	0	
+Aladja Town Hall	Udu	Delta	5.489	5.756	0	
+Ekorhon Town Hall	Udu	Delta	5.491	5.757	0	
+King Nnah Ngonwa Memory Hall	Tai	Rivers	4.741	7.203	0	
+Hariz Petroleum LTD Gas Plant	Jos North	Plateau	9.977	8.846	0	
+Hariz Petroleum Farin Gada Jos	Jos North	Plateau	9.958	8.864	0	
+Hariz Petroleum Ltd	Jos North	Plateau	9.905	8.911	0	
+Ido-Osun Town Hall	Egbedore	Osun	7.780	4.482	0	
+Jesuit Memorial College Port Harcourt	Ikwerre	Rivers	4.926	6.967	0	
+Hagios International School	Abakaliki	Ebonyi	6.235	8.105	0	
+Hammawa Primary School	Yola North	Adamawa	9.207	12.486	0	
+Dallari Haoussari	Gouré	Yobe	13.295	10.453	2	
+Ouro Hamayel	Maiha	Adamawa	9.916	13.242	2	
+General Hassan Usman Katsina (Unity College)	Bauchi	Bauchi	10.278	9.801	0	
+A.A Haruna Memorial School	Gombe	Gombe	10.307	11.149	0	
+Halimat clinic	Rafi	Niger	10.406	6.394	0	
+BPA Hall	Bogoro	Bauchi	9.561	9.503	0	
+Hamago	Jibia	Katsina	13.126	7.221	2	
+Town Hall	Ejigbo	Osun	7.830	4.128	0	
+Hauwa Nursing And Maternity	Kaduna South	Kaduna	10.507	7.399	0	
+Ramat Hospital Hayin Banku Kaduna	Kaduna North	Kaduna	10.572	7.442	0	
+Hayin Banki Health Care	Kaduna North	Kaduna	10.578	7.436	0	
+Primary Haelth Care No1 River Line Road Kabala Coastin	Kaduna North	Kaduna	10.501	7.440	0	
+Kakuri Hausa Primary Health Center	Kaduna South	Kaduna	10.465	7.413	0	
+Hajia Asama'u Ahmad Makarfi Health Center Barnawa	Kaduna South	Kaduna	10.481	7.430	0	
+Crown Well Hospital Haggai Diagonistic Ltd	Alimosho	Lagos	6.595	3.228	0	
+Hammed Conwale Hospital	Mushin	Lagos	6.528	3.345	0	
+Harmony Lodge	Akure South	Ondo	7.290	5.149	0	
+Oba Adebiyi Adesida Hall	Akure South	Ondo	7.304	5.141	0	
+Goloen Haven	Akure South	Ondo	7.289	5.149	0	
+Happy Link	Akure South	Ondo	7.285	5.150	0	
+Debosun Hall	Akure South	Ondo	7.286	5.152	0	
+Iwo City Hall	Iwo	Osun	7.634	4.179	0	
+Prof. Adebisi Balogun Postgraduates Hall	Akure South	Ondo	7.298	5.146	0	
+Garin Hamza	Akko	Gombe	9.867	10.944	2	
+Ezinifite (Augusta) Town Hall	Jos North	Plateau	9.924	8.886	0	
+HAYATUL ISLAMPRIMARY SCHOOL	Ungongo	Kano	12.044	8.565	0	
+HASIYA MEMORIAL SCHOOL	Ungongo	Kano	12.055	8.582	0	
+HASINAH MEMORIAL	Ungongo	Kano	12.055	8.582	0	
+FATHU RABBANI MAL. HASSAN	Ungongo	Kano	12.037	8.563	0	
+ABU HANIFA ACADEMY	Kumbotso	Kano	11.959	8.479	0	
+MAKARANTAR MALAN HARISU DORAYI	Gwale	Kano	11.965	8.469	0	
+HAFSA LITAHAFEZUL QUR AN	Gwale	Kano	11.959	8.473	0	
+HAJARA MEMORIAL SCIENCE SCHOOL	Gwale	Kano	11.961	8.471	0	
+A.B Hamza	Faskari	Katsina	11.705	7.158	0	
+Caring Hands Clinic & Maternity	Jos North	Plateau	9.916	8.921	0	
+AFDB HALL	Municipal Area Council	FCT Abuja	8.999	7.420	0	
+AETD Hangar	Kaduna North	Kaduna	10.609	7.443	0	
+AMAO hall	Kaduna North	Kaduna	10.610	7.440	0	
+AED lecture Room (Hall A, Hall B2. Hall B3, Hall C2, Hall C3)	Kaduna North	Kaduna	10.612	7.440	0	
+Happy Island	Enugu North	Enugu	6.430	7.604	2	
+New Haven	Enugu North	Enugu	6.458	7.524	2	
+Hall	Ovia North-East	Edo	6.743	5.403	0	
+Harmony Enterprises	Oye	Ekiti	7.797	5.326	0	
+Habiba Standard School	Karu	Nasarawa	8.952	7.680	0	
+Harold Sodipo Crescent	Ikeja	Lagos	6.589	3.354	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.851	7.059	1	
+New Haven Estate Road	Obio/Akpor	Rivers	4.848	7.038	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.800	7.006	1	
+Port Harcourt Road	Aba South	Abia	5.097	7.354	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.468	7.005	1	
+Dan Hausa Road	Tarauni	Kano	11.984	8.546	1	
+Mallam Isa Hassan Road	Kaduna North	Kaduna	10.582	7.466	1	
+Abba Habib Road	Kaduna North	Kaduna	10.539	7.466	1	
+Dr. Yahaya Hamza Street	Kaduna North	Kaduna	10.513	7.452	1	
+Kaduna Long haul Bus station	Kaduna North	Kaduna	10.587	7.440	0	
+Hadeja Road	Kaduna North	Kaduna	10.517	7.429	1	
+Gammayim - Hadejia Road	Auyo	Jigawa	12.398	10.043	1	
+Hasan Housing Est. Road 1	Eti Osa	Lagos	6.435	3.507	1	
+Hasan Housing Est. Road 3	Eti Osa	Lagos	6.431	3.505	1	
+Hasan Housing Est. Road 2	Eti Osa	Lagos	6.433	3.506	1	
+Hassen Street	Oshodi/Isolo	Lagos	6.563	3.338	1	
+Hakeem Dosumu Street	Oshodi/Isolo	Lagos	6.495	3.303	1	
+Harvey Road	Shomolu	Lagos	6.513	3.381	1	
+Hassan Street	Oshodi/Isolo	Lagos	6.523	3.334	1	
+Tunde Hassan Street	Kosofe	Lagos	6.564	3.390	1	
+Hakeem Balogun Street	Ikeja	Lagos	6.625	3.356	1	
+Alhaji Haruna Street	Ifako/Ijaye	Lagos	6.643	3.335	1	
+Haruna Subairu Street	Oshodi/Isolo	Lagos	6.572	3.344	1	
+Havana Street	Oshodi/Isolo	Lagos	6.519	3.313	1	
+Alhaji Hakeen Odumosu Street	Eti Osa	Lagos	6.434	3.471	1	
+Hakeen Dickson Drive	Eti Osa	Lagos	6.426	3.462	1	
+Habitat Close	Eti Osa	Lagos	6.447	3.473	1	
+Ojora Road	Eti Osa	Lagos	6.451	3.448	1	Hawesworth Road
+Hakeem Dickson Road	Eti Osa	Lagos	6.435	3.475	1	
+Hall Lane	Apapa	Lagos	6.448	3.359	1	
+Hadejia Road	Nassarawa	Kano	12.008	8.575	1	
+Hadejia Road	Nassarawa	Kano	12.007	8.557	1	
+Hadejia Road	Nassarawa	Kano	12.009	8.575	1	
+Hadejia Road	Nassarawa	Kano	12.008	8.554	1	
+Hameed Kasumu Street	Eti Osa	Lagos	6.459	3.446	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.857	7.070	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.777	7.010	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.792	7.002	1	
+Port Harcourt Crescent	Municipal Area Council	FCT Abuja	9.038	7.501	1	
+Harare Street	Municipal Area Council	FCT Abuja	9.068	7.460	1	
+IBM Haruna Street	Municipal Area Council	FCT Abuja	9.062	7.440	1	
+Chief Hope Harriman Street	Eti Osa	Lagos	6.452	3.475	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.785	7.005	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.836	7.017	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.833	7.005	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.830	7.004	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.808	7.010	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.848	7.048	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.841	7.032	1	
+Harbour Road	Port-Harcourt	Rivers	4.761	7.015	1	
+Hargeysa Street	Municipal Area Council	FCT Abuja	9.064	7.464	1	
+Gammayim - Hadejia Road	Hadejia	Jigawa	12.434	10.036	1	
+Gumel to Hadejia Road	Kaugama	Jigawa	12.606	9.776	1	
+Hadejia to Nguru Road	Kiri Kasama	Jigawa	12.656	10.235	1	
+Dan Hausa	Tarauni	Kano	11.979	8.548	1	
+Gammayim - Hadejia Road	Hadejia	Jigawa	12.441	10.031	1	
+QUEEN HANNAHBEL DEMOSTRATION SHCOOL	Egor	Edo	6.359	5.628	0	
+Alh. Hafusat Abdulazeez Street	Eti Osa	Lagos	6.478	3.622	1	
+Olusegun Obasanjo Bypass, Port Harcourt	Port-Harcourt	Rivers	4.806	6.994	1	
+Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.335	7.352	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.862	7.090	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.721	7.386	1	
+Joseph Harrison Street	Lagos Mainland	Lagos	6.504	3.388	1	
+Joseph Harrison Street	Lagos Mainland	Lagos	6.508	3.388	1	
+Harvey Road	Shomolu	Lagos	6.509	3.373	1	
+Hassan Street	Ojo	Lagos	6.475	3.175	1	
+Hassan Adejobi Street	Agege	Lagos	6.620	3.309	1	
+Hassana Ogunsanya	Alimosho	Lagos	6.657	3.289	1	
+Hakeem Ajala Street	Kosofe	Lagos	6.576	3.386	1	
+Hassan Usman Katsina Road	Lokoja	Kogi	7.824	6.689	1	
+Enugu - Port Harcourt Expressway	Awgu	Enugu	6.050	7.492	1	
+Enugu - Port Harcourt Expressway	Isuikwuato	Abia	5.915	7.408	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.874	7.115	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.489	7.020	1	
+Hadijah Street	Enugu East	Enugu	6.481	7.509	1	
+Haroid Eneh Close	Enugu East	Enugu	6.485	7.498	1	
+Hassan Lane	Enugu North	Enugu	6.427	7.491	1	
+Igwe Harford Agana Street	Enugu South	Enugu	6.416	7.482	1	
+New Haven Market Rd	Enugu North	Enugu	6.460	7.513	1	
+Port Harcourt Street	Enugu North	Enugu	6.431	7.498	1	
+Hawkins Andrews Close	Enugu North	Enugu	6.445	7.536	1	
+Hanse Street	Enugu North	Enugu	6.448	7.528	1	
+Hajiya Mariya road	Fagge	Kano	11.996	8.543	1	
+Hajiya Mariya Sanusi Street	Fagge	Kano	11.997	8.541	1	
+Adamu Haruna Link	Fagge	Kano	11.998	8.540	1	
+Hamisu Dankaka link	Fagge	Kano	11.998	8.542	1	
+Hama Street	Jos North	Plateau	9.936	8.880	1	
+Harvester Close	Ibadan South West	Oyo	7.365	3.867	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.372	7.495	1	
+Abba Habib link	Fagge	Kano	11.995	8.542	1	
+Harmony Road	Enugu East	Enugu	6.499	7.529	1	
+Havirl Street	Enugu East	Enugu	6.511	7.524	1	
+Hassan Gwarzo Road	Tarauni	Kano	11.958	8.542	1	
+Hassan Gwarzo Road	Tarauni	Kano	11.957	8.547	1	
+Gidan Hakimi Road	Tofa	Kano	12.059	8.272	1	
+New Haven Layout	Enugu North	Enugu	6.454	7.524	2	
+New Haven Layout Extension	Enugu North	Enugu	6.455	7.550	2	
+Enugu - Port Harcourt Expressway	Aba South	Abia	5.070	7.328	1	
+Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.336	7.353	1	
+Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.305	1	
+Chris Harry crescent	Oshodi/Isolo	Lagos	6.504	3.301	1	
+Hausawa Road	Wudil	Kano	11.808	8.845	1	
+Habeeb Akinlade Avenue	Ìkòròdú	Lagos	6.640	3.483	1	
+HAUSAWA MODELBOYS SEC SCHOOL	Tarauni	Kano	11.965	8.540	0	
+Hassan Ladan Street	Kano Municipal	Kano	11.973	8.533	1	Abba CTV Street
+Dr Hamisu Abdullahi Street	Ungongo	Kano	11.977	8.446	1	
+Hawandawaki Health Post	Kumbotso	Kano	11.955	8.425	0	
+Hawadin Bango Primary Health Centre	Kabo	Kano	11.889	8.257	0	
+Layin gidsn hakimi	Kumbotso	Kano	11.892	8.502	1	
+Hausawa Health Post	Gaya	Kano	11.730	9.100	0	
+Zuwan Hawa Health Post	Albasu	Kano	11.729	9.224	0	
+Harbau Primary Health Centre	Tsanyawa	Kano	12.383	8.062	0	
+Jama'Ar Hazo Health Post	Makoda	Kano	12.546	8.521	0	
+Hammed Kasumu Street	Eti Osa	Lagos	6.446	3.529	1	
+Hakeem Dickson Road	Eti Osa	Lagos	6.440	3.475	1	
+Chesachi Hani Okoroafor Close	Eti Osa	Lagos	6.444	3.480	1	
+Meadow Hall Way	Eti Osa	Lagos	6.429	3.489	1	
+Hadi Ukashatu Close	Nassarawa	Kano	12.005	8.570	1	
+Hazel Lane	Eti Osa	Lagos	6.496	3.610	1	
+Mayowa Hassan Street	Eti Osa	Lagos	6.483	3.589	1	
+Hamdala Clinic	Katagum	Bauchi	11.677	10.184	0	
+Dumin Hayi Dispensary	Bauchi	Bauchi	10.480	9.705	0	
+Garin Hamza Maternity	Alkaleri	Bauchi	9.876	10.935	0	
+Hazelwood Road	Eti Osa	Lagos	6.457	3.527	1	
+Olusola Harris Way	Eti Osa	Lagos	6.461	3.579	1	
+Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.306	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.924	7.236	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.875	7.117	1	
+Harris Drive	Eti Osa	Lagos	6.459	3.549	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.889	7.146	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.888	7.144	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.896	7.165	1	
+Habibu Gwarzo Street	Nassarawa	Kano	11.968	8.582	1	
+Hanyar Koya Asibiti	Minjibir	Kano	12.121	8.624	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.898	7.179	1	
+Hakeem Atunrase Street	Ìkòròdú	Lagos	6.625	3.495	1	
+Chief Aleru Street, Omuoko, Aluu, Port Harcourt	Ikwerre	Rivers	4.922	6.916	1	
+Hazel Close	Eti Osa	Lagos	6.462	3.513	1	
+Altantic Hall Boarding School	Epe	Lagos	6.613	3.965	0	
+Port Harcourt International Airport	Ikwerre	Rivers	5.006	6.949	0	
+Alhaji Hassan Makinde Street	Ifako/Ijaye	Lagos	6.651	3.305	1	Taiwo Adewole Street
+Port Harcourt - Owerri Road	Owerri West	Imo	5.393	6.963	1	
+Port Harcourt - Owerri Road	Owerri West	Imo	5.388	6.968	1	
+Mohammed L. Hassan Street	Municipal Area Council	FCT Abuja	9.059	7.418	1	
+M.S. Haruna Avenue	Municipal Area Council	FCT Abuja	9.069	7.345	1	
+Hanson Avenue	Port-Harcourt	Rivers	4.791	7.038	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.926	7.239	1	
+Prince Hassan Close	Ojo	Lagos	6.464	3.140	1	
+Hassan Street	Oshodi/Isolo	Lagos	6.533	3.328	1	
+Haleem Akiode Street	Oshodi/Isolo	Lagos	6.540	3.317	1	
+Hameed Makanjuola Avenue	Oshodi/Isolo	Lagos	6.542	3.315	1	
+Hassan Usman Katsina Polytechnic	Batagarawa	Katsina	12.920	7.589	0	
+Oyewole Habeeb St	Kosofe	Lagos	6.556	3.386	1	
+Chief Hakeem Shobande Close	Eti Osa	Lagos	6.473	3.575	1	
+Hassan Street	Kosofe	Lagos	6.601	3.380	1	
+Harmony Estate	Eti Osa	Lagos	6.488	3.597	1	
+Engr. Hakeem Oladapo Str	Ifo	Ogun	6.682	3.296	1	
+Harrison Amadasun Street	Kosofe	Lagos	6.613	3.408	1	
+Hassan Street	Ìkòròdú	Lagos	6.639	3.484	1	
+Happy Day Avenue	Ìkòròdú	Lagos	6.630	3.485	1	
+Habeeb Akinlade Avenue	Ìkòròdú	Lagos	6.639	3.487	1	
+Haggai Avenue	Oshodi/Isolo	Lagos	6.497	3.310	1	
+Musa Halidu	Sabon Gari	Kaduna	11.161	7.646	1	
+Isemi Ile Town Hall	Kajola	Oyo	7.989	3.372	0	
+ECWA CHURCH HAUSA ROAD	Akko	Gombe	10.293	11.102	1	
+Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.428	7.538	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.367	7.494	1	
+Port Harcourt - Owerri Road	Ikwerre	Rivers	5.152	6.846	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.255	6.882	1	
+Habitat Drive	Obio/Akpor	Rivers	4.878	6.915	1	
+Hassan Gwarzo Road	Tarauni	Kano	11.955	8.543	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.297	6.931	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.286	6.923	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.277	6.917	1	
+University of Port Harcourt Demostration Secondary School	Ikwerre	Rivers	4.911	6.910	0	
+Harrison Sholaja Street	Oshodi/Isolo	Lagos	6.511	3.306	1	
+Preince Sanmi Harrison Avenue	Eti Osa	Lagos	6.450	3.483	1	
+Haruna Zubairu Street	Chikun	Kaduna	10.462	7.441	1	
+Hassan Baba Street	Kaduna North	Kaduna	10.529	7.457	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.870	7.368	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.876	7.372	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.408	7.526	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.382	7.498	1	
+Enugu - Port Hacourt Road	Enugu South	Enugu	6.396	7.518	1	
+Old Port Harcourt-Aba Road	Awgu	Enugu	6.114	7.518	1	
+Gumel to Hadejia Road	Hadejia	Jigawa	12.457	10.041	1	
+Hadejia to Nguru Road	Hadejia	Jigawa	12.457	10.041	1	
+Gammayim - Hadejia Road	Kafin Hausa	Jigawa	12.272	10.078	1	
+Gammayim - Hadejia Road	Auyo	Jigawa	12.415	10.049	1	
+Gammayim - Hadejia Road	Auyo	Jigawa	12.425	10.050	1	
+Gammayim - Hadejia Road	Hadejia	Jigawa	12.445	10.028	1	
+Hamzawie Close	Kaduna South	Kaduna	10.496	7.405	1	
+Al-Hassan Musa Street	Eti Osa	Lagos	6.444	3.611	1	
+Hannat Balogun Close	Eti Osa	Lagos	6.456	3.420	1	
+Hajia Zara Street	Kuje	FCT Abuja	8.883	7.208	1	
+Hamza Abdullahi Street	Municipal Area Council	FCT Abuja	9.154	7.326	1	
+Port Harcourt street	Uyo	Akwa Ibom	5.027	7.917	1	
+Hadejia to Nguru Road	Guri	Jigawa	12.821	10.349	1	
+Hadejia to Nguru Road	Nguru	Yobe	12.869	10.418	1	
+Gammayim - Hadejia Road	Kafin Hausa	Jigawa	12.331	10.061	1	
+Gammayim - Hadejia Road	Kafin Hausa	Jigawa	12.307	10.066	1	
+Hajj Camp Street	Fagge	Kano	12.024	8.524	1	
+Hajj Camp Street	Fagge	Kano	12.027	8.526	1	
+Habibu Ringim Street	Dala	Kano	11.996	8.496	1	
+Haruna Eshinlokun Street	Eti Osa	Lagos	6.476	3.630	1	
+Harmony Crescent	Ilorin East	Kwara	8.478	4.618	1	
+Layin Alaramma Mal Haruna	Kumbotso	Kano	11.954	8.475	1	
+Habib str	Ojo	Lagos	6.453	3.224	1	
+Hassan Usman Katsina Street	Municipal Area Council	FCT Abuja	9.031	7.517	1	
+Umuegorom Town Hall	Ihiala	Anambra	5.873	6.845	0	
+Hakeem Balogun Street	Ikeja	Lagos	6.623	3.356	1	
+Adamu Haruna	Fagge	Kano	11.995	8.541	1	
+Dan Hausa Road	Tarauni	Kano	11.986	8.545	1	
+Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.455	7.540	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.884	7.139	1	
+Court Hall	Nsit Atai	Akwa Ibom	4.832	8.038	1	
+Ndiofutu Town Hall	Ikwo	Ebonyi	6.162	8.295	0	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.310	6.942	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.302	6.937	1	
+Usokun Town Hall	Degema	Rivers	4.783	6.770	0	
+Nigerian Air Force Port Harcourt	Obio/Akpor	Rivers	4.856	7.026	0	
+Okunola Memorial Hall	Ejigbo	Osun	7.908	4.315	0	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.622	7.436	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.587	7.447	1	
+Hamzat Aramon Close	Obafemi Owode	Ogun	6.793	3.417	1	
+Hawley Street	Lagos Island	Lagos	6.452	3.404	1	
+Halifield Schools	Kosofe	Lagos	6.575	3.373	0	
+Be Happy Petroleum	Ìkòròdú	Lagos	6.631	3.540	0	
+Habeeb	Ìkòròdú	Lagos	6.632	3.534	0	
+Ijede Town Hall	Ìkòròdú	Lagos	6.564	3.591	0	
+Community Town Hall	Southern Ijaw	Bayelsa	4.718	5.945	0	
+Port Harcourt Mall	Port-Harcourt	Rivers	4.775	7.014	0	
+College Hall	Shomolu	Lagos	6.516	3.375	0	
+Badagry City Hall	Badagry	Lagos	6.413	2.883	0	
+Hanora Clinic	Oredo	Edo	6.338	5.598	0	
+Kafin Hardo Dispensary	Giade	Bauchi	11.425	10.188	0	
+Gainan Hausa Maternity	Misau	Bauchi	11.395	10.589	0	
+Hardawa Maternity	Misau	Bauchi	11.413	10.462	0	
+Haske Eye Specialist Hospital	Kaduna North	Kaduna	10.584	7.460	0	
+Hanafari Model Primary Health Center	Jama'Are	Bauchi	11.601	9.888	0	
+Gidgid Hamma Primary Health Center	Tafawa-Balewa	Bauchi	9.598	9.807	0	
+Lagos Health Center Harvey Road	Shomolu	Lagos	6.512	3.374	0	
+hadiyo primary heath clinic	Larmurde	Adamawa	9.589	11.808	0	
+Hamalaire Namro Health Post	Fufore	Adamawa	8.889	12.228	0	
+wuro halde health post	Kirfi	Bauchi	10.299	10.303	0	
+wuro harde health post	Kirfi	Bauchi	10.299	10.303	0	
+Prof. Hafizu Abubakar Street	Gwale	Kano	11.980	8.470	1	
+Jibrin R. Haske Close	Municipal Area Council	FCT Abuja	9.104	7.412	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.484	7.016	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.478	7.012	1	
+Amuro Town Hall	Afikpo North	Ebonyi	5.886	7.933	0	
+Town Hall	Moba	Ekiti	8.022	5.066	0	
+Victory Hall Road	Ikeja	Lagos	6.585	3.360	1	
+Karshi Development Town Hall	Municipal Area Council	FCT Abuja	8.828	7.567	0	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.816	7.010	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.825	7.005	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.775	7.013	1	
+Hamza Abdullahi Street	Municipal Area Council	FCT Abuja	9.154	7.322	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.843	7.038	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.846	7.043	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.864	7.098	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.880	7.128	1	
+Near 60 Hasell St, Charleston, SC 29401, USA	Ado Odo/Ota	Ogun	6.543	3.066	1	
+AED - Hall A, Hall B	Kaduna North	Kaduna	10.611	7.440	0	
+Igbeti Town Hall	Olorunsogo	Oyo	8.748	4.129	0	
+Hampton Apartments	Municipal Area Council	FCT Abuja	9.043	7.510	2	
+Harriman Avenue	Ikpoba-Okha	Edo	6.210	5.616	1	
+Meadow Hall School	Eti Osa	Lagos	6.444	3.438	0	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.269	6.905	1	
+Harmony Estate Road	Enugu East	Enugu	6.486	7.541	1	
+Harmony Road	Enugu East	Enugu	6.508	7.519	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.396	7.517	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.388	7.502	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.344	7.488	1	
+Harmony Way	Oluyole	Oyo	7.341	3.820	1	
+Ali Haruna Street	Tarauni	Kano	11.938	8.546	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.866	7.102	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.822	7.336	1	
+Enugu - Port Harcourt Expressway	Aba South	Abia	5.058	7.327	1	
+Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.125	7.330	1	
+Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.126	7.330	1	
+Enugu - Port Harcourt Expressway	Umuahia South	Abia	5.504	7.446	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.537	7.461	1	
+Port Harcourt Road	Aba South	Abia	5.104	7.365	1	
+Harmony Street	Oshodi/Isolo	Lagos	6.520	3.298	1	
+Sir Muhammad Sunusi Hospital Hadejia Road	Nassarawa	Kano	12.010	8.597	0	
+Hausari	Geidam	Yobe	12.877	11.913	2	
+Sarkin Hausawa	Barde	Yobe	12.815	11.039	2	
+Harbo Tsohuwa	Jahun	Jigawa	12.151	9.501	2	
+Hadejia	Hadejia	Jigawa	12.454	10.048	2	
+Hammado	Gumel	Jigawa	12.595	9.441	2	
+Kafin Hausa	Kafin Hausa	Jigawa	12.196	9.925	2	
+Hadin	Kaugama	Jigawa	12.333	9.801	2	
+Hantsu	Miga	Jigawa	12.231	9.585	2	
+Harbo Sabuwa	Jahun	Jigawa	12.115	9.500	2	
+Gusami Hayi	Birnin Magaji-Kiyaw	Zamfara	12.331	6.912	2	
+Gidan Hamma	Illela	Sokoto	13.609	5.481	2	
+Hamma Ali Marabawa	Kware	Sokoto	13.195	5.313	2	
+Gidan Hamidu	Wamako	Sokoto	13.181	5.145	2	
+Hanwa	Sabon Gari	Kaduna	11.120	7.698	2	
+Haskiya	Kubau	Kaduna	11.016	8.516	2	
+Magajin Hajji	Karaye	Kano	11.756	8.001	2	
+Hawadin Galadima	Kabo	Kano	11.884	8.260	2	
+Dan Hassan	Kura	Kano	11.784	8.538	2	
+Hamcheta	Mani	Katsina	12.918	7.908	2	
+Hambagda	Gwoza	Borno	11.038	13.558	2	
+Hausari	Maiduguri	Borno	11.839	13.151	2	
+Hausari Zadawa	Askira-Uba	Borno	10.627	12.869	2	
+Hardo	Bauchi	Bauchi	10.314	9.841	2	
+Hardawa	Misau	Bauchi	11.424	10.465	2	
+Kafin Hausa	Kafin Hausa	Jigawa	12.164	9.987	2	
+Hanafari	Jama'Are	Bauchi	11.600	9.884	2	
+Hawul	Hawul	Borno	10.455	12.308	2	
+Hausari Tampul	Askira-Uba	Borno	10.562	13.211	2	
+Port-Harcourt	Port-Harcourt	Rivers	4.769	7.037	2	
+Hausawa Asibiti	Potiskum	Yobe	11.729	11.063	2	
+Hausari	Gwoza	Borno	11.073	13.697	2	
+Hayin Banki	Kaduna North	Kaduna	10.587	7.431	2	

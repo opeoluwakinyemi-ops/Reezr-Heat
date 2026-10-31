@@ -1,0 +1,323 @@
+Omoba Station	Isiala-Ngwa North	Abia	5.245	7.407	0	
+Omu	Epe	Lagos	6.495	3.974	2	Emu
+Owinkiri Kalama	Asari-Toru	Rivers	4.738	6.834	2	Owinkiri Kalama;Winkiri Kalama;Omekwe-Kalama
+Omu Ipetu	Irepodun	Kwara	8.099	5.084	2	
+Oke Omo	Oyo East	Oyo	7.867	4.000	2	Oke-Awmaw;Oke Omo
+Achara Ndiagu Omegio	Ikwo	Ebonyi	6.133	8.150	2	Achara Ndiagu Omegio;Achara Ndiagu
+Omu	Odogbolu	Ogun	6.692	3.863	2	
+Umo Diogo	Emuoha	Rivers	5.172	6.798	2	Omo Doga;Umo Diogo
+Omega Achara	Ikwo	Ebonyi	6.100	8.233	2	
+Omicha Umu Awada	Ezinihitte	Imo	5.500	7.333	2	Onicha Uma Awada
+Ominyi	Izzi	Ebonyi	6.501	8.384	2	
+Ominiyi	Izzi	Ebonyi	6.501	8.384	2	
+Ode-Omu	Aiyedade	Osun	7.533	4.400	2	
+Omolomo	Warri North	Delta	5.868	5.001	2	
+Omu-Ijelu	Oye	Ekiti	7.863	5.395	2	Omu Ijebu
+Odo Omi	Oke Ero	Kwara	8.217	5.217	2	Odo Ore
+Abba Omega	Onicha	Ebonyi	6.003	8.004	2	Abba Omege
+Ago Ugbene	Ilaje	Ondo	6.396	4.817	2	Ago-Ugbene;Ugbene Yoyo;Ugbene Biere;Ugbene Omi
+Omotosho	Okitipupa	Ondo	6.724	4.649	2	
+Umu Enge	Isiala-Ngwa North	Abia	5.267	7.400	2	Umuevge;Omo Enge
+Molume	Ilaje	Ondo	5.962	4.923	2	Omolomo
+Omuoko	Ikwerre	Rivers	4.921	6.912	2	
+Amon;Omon	Obubra	Cross River	5.920	8.268	2	
+Mamerebo	Dekina	Kogi	7.417	7.000	2	Mamarebo;Omamahebo
+Omo Akpo	Ohaji/Egbema	Imo	5.253	6.881	2	
+Ilu-Omoba	Gbonyin	Ekiti	7.640	5.420	2	
+Omole	Ikeja	Lagos	6.642	3.361	2	
+Omubiokolo	Bonny	Rivers	4.480	7.308	2	
+Agbor	Ika South	Delta	6.258	6.182	3	Ominije
+Omugo	Irepodun	Kwara	8.106	4.926	2	
+Omu Aran	Irepodun	Kwara	8.139	5.101	3	
+Omin Adio	Ido	Oyo	7.394	3.753	2	
+Omokwa	Abua/Odual	Rivers	4.850	6.655	2	Amokwa
+Omuo	Ekiti East	Ekiti	7.758	5.721	2	
+Okwode Omoniyi	Ethiope West	Delta	5.878	5.784	2	
+Omugo	Ifelodun	Kwara	8.259	5.196	2	
+Omoku	Ogba/Egbema/Ndoni	Rivers	5.345	6.657	3	Omoko
+Omuo-Obadore	Ekiti East	Ekiti	7.730	5.724	3	
+Omilabu	Akinyele	Oyo	7.546	3.946	2	
+Omode	Ifelodun	Kwara	8.450	4.750	2	
+Omodun	Lagelu	Oyo	7.567	4.067	2	Awmawdun
+Omadino	Warri South	Delta	5.626	5.652	2	
+Ito-Omu	Epe	Lagos	6.501	3.631	2	
+Umu Oye	Ngor-Okpala	Imo	5.367	7.083	2	Omu Oye
+Ikot Oma	Akpabuyo	Cross River	4.939	8.547	2	Nyon Idibi Ikot Umo;Ikot Umo
+Omifon	Odigbo	Ondo	6.806	4.851	2	
+Omupo Grammar School	Ifelodun	Kwara	8.282	4.783	0	
+Omupo Town Hall	Ifelodun	Kwara	8.278	4.792	0	
+Omo group of schools	Oredo	Edo	6.327	5.629	0	
+Omupo	Ifelodun	Kwara	8.276	4.796	3	
+ALPHA ET OMEGA	Ipokia	Ogun	6.637	2.736	0	
+Omowa, Isanlu	Yagba East	Kogi	8.260	5.838	2	
+Omolad	Oshodi/Isolo	Lagos	6.539	3.291	0	
+Omuro International Market Ugbo Ilaje	Ilaje	Ondo	6.153	4.793	0	
+Araromi Omoladun Market	Ifedore	Ondo	7.365	5.174	0	
+Omifon Market	Odigbo	Ondo	6.829	4.861	0	
+Ode Omi Market	Irele	Ondo	6.478	4.889	0	
+Omolere Group of School	Akure North	Ondo	7.261	5.221	0	
+Omoleye Busstop	Shagamu	Ogun	6.698	3.512	0	
+Methodist Primary School, Oko Omi	Ado Odo/Ota	Ogun	6.712	3.076	0	
+African Church School, Omitoro	Ifo	Ogun	6.747	3.284	0	
+Omoluwabi Model Primary School, Imepe	Ado Odo/Ota	Ogun	6.706	3.244	0	
+African Church School, Omitoro	Ifo	Ogun	6.812	3.197	0	
+Omoluwabi Model Primary School, Imepe	Ìjẹ̀bú Òde	Ogun	6.811	3.913	0	
+Omuma	Oru East	Imo	5.757	6.946	3	Umumma
+Omavovwe	Ughelli North	Delta	5.546	6.053	2	
+Omuofu-Obi	Isoko South	Delta	5.487	6.211	2	
+Omega clinic	Jos North	Plateau	9.941	8.869	0	
+Omega High School	Jos North	Plateau	9.872	8.933	0	
+Omosola Hospital	Alimosho	Lagos	6.617	3.297	0	
+Ola Omoyenji Maternity Home	Mushin	Lagos	6.517	3.347	0	
+Omo Medical Health Center	Mushin	Lagos	6.539	3.364	0	
+FHQ6+6RM, Omu-Aran-Oja Oba, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.488	4.562	0	
+FGVV+JQH, Omu-Aran-Oja Oba, Ilorin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.494	4.544	0	
+Ero Omo Hospital, Kilanko Road, Ilorin, Nigeria	Ilorin East	Kwara	8.453	4.585	0	
+Jobore, Omu Ijebu	Odogbolu	Ogun	6.710	3.866	3	
+Ibido, omu ijebu	Odogbolu	Ogun	6.711	3.868	3	
+Irete, omu ijebu	Odogbolu	Ogun	6.701	3.864	3	
+Omoda Hospital	Ilorin East	Kwara	8.504	4.535	0	
+Omagwa	Ikwerre	Rivers	4.989	6.916	3	
+Omor	Ayamelum	Anambra	6.519	6.957	3	
+Omoku Street	Port-Harcourt	Rivers	4.804	6.999	1	
+Omore Road	Ovia North-East	Edo	6.421	5.613	1	
+Omiyale Road	Ibadan South East	Oyo	7.372	3.897	1	
+Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.983	6.917	1	
+Omo-Ojeide Street	Oredo	Edo	6.290	5.603	1	
+Omoriodion Street	Oredo	Edo	6.328	5.602	1	
+Omoigui-Obasogie Street	Oredo	Edo	6.334	5.594	1	
+Omwanruyi street	Egor	Edo	6.379	5.629	1	
+Omoruyi street	Egor	Edo	6.382	5.636	1	
+Omosefe Street	Egor	Edo	6.362	5.630	1	
+H. Omo Osagie Avenue	Oredo	Edo	6.321	5.617	1	
+Omorodion Avenue	Oredo	Edo	6.304	5.618	1	
+Omosede Eweka Street	Oredo	Edo	6.337	5.615	1	
+Omofonmwan Street	Egor	Edo	6.369	5.636	1	
+Omosumwen Street	Oredo	Edo	6.306	5.598	1	
+Omoruyi Street	Oredo	Edo	6.346	5.599	1	
+Omoziku Street	Oredo	Edo	6.319	5.588	1	
+Solo Omamogho Street	Oredo	Edo	6.321	5.590	1	
+Omo Idubor Street	Egor	Edo	6.376	5.591	1	
+Omoregbe Avenue	Oredo	Edo	6.313	5.609	1	
+Noroware-Omonudo Str	Oredo	Edo	6.301	5.607	1	
+Norowarw-Omonudo Way	Oredo	Edo	6.301	5.607	1	
+Omoma Street	Oredo	Edo	6.298	5.595	1	
+Omorogbe Close	Oredo	Edo	6.291	5.591	1	
+Omoregie Street	Oredo	Edo	6.297	5.597	1	
+Omorose Street	Oredo	Edo	6.296	5.599	1	
+Omorefe Street	Oredo	Edo	6.272	5.613	1	
+Omoregbomwan Street	Egor	Edo	6.361	5.625	1	
+Omogui street	Egor	Edo	6.382	5.632	1	
+omozeghian street	Egor	Edo	6.368	5.630	1	
+Omonuwa street	Egor	Edo	6.352	5.578	1	
+Omo Street	Oredo	Edo	6.336	5.623	1	
+Omoruyi Avenue	Oredo	Edo	6.343	5.601	1	
+Omorodion Street	Ikpoba-Okha	Edo	6.345	5.713	1	
+Omoregbe Street	Ikpoba-Okha	Edo	6.380	5.695	1	
+omoigui street	Egor	Edo	6.376	5.637	1	
+Omozogie Street	Oredo	Edo	6.312	5.607	1	
+Omorumwan Street	Egor	Edo	6.362	5.624	1	
+Omoregie Street	Egor	Edo	6.362	5.624	1	
+Omoruyi lane	Egor	Edo	6.382	5.637	1	
+Omoruyi Str	Oredo	Edo	6.301	5.595	1	
+Omomo Street	Oredo	Edo	6.330	5.612	1	
+Omidi Dum Street	Lagos Island	Lagos	6.455	3.396	1	
+Omolewa Street	Surulere	Lagos	6.511	3.359	1	
+Omo Oba Olukolu Street	Eti Osa	Lagos	6.435	3.523	1	
+Omoba Murphy Adetoro Road	Eti Osa	Lagos	6.434	3.526	1	
+Adebisi Omotola Close	Eti Osa	Lagos	6.429	3.435	1	
+Omolade Oshilowo Street	Oshodi/Isolo	Lagos	6.566	3.334	1	
+Omilade Street	Oshodi/Isolo	Lagos	6.553	3.333	1	
+Omoalade Alafia St	Shomolu	Lagos	6.542	3.378	1	
+Omolewa Street	Ibadan North	Oyo	7.397	3.905	1	
+Omitowoju Street	Ibadan North West	Oyo	7.395	3.888	1	
+Omotola Street	Ibadan North West	Oyo	7.397	3.889	1	
+Godwin Omonua Street	Oshodi/Isolo	Lagos	6.520	3.327	1	
+Segun Omolale Street	Oshodi/Isolo	Lagos	6.515	3.316	1	
+Omo Obajesu Street	Alimosho	Lagos	6.605	3.306	1	
+Deji Omo Owo Street	Kosofe	Lagos	6.630	3.378	1	
+Omole Phase 1	Ikeja	Lagos	6.634	3.361	1	
+Ola Omibiyi Street	Ifako/Ijaye	Lagos	6.637	3.340	1	
+Omomo Street	Ifako/Ijaye	Lagos	6.634	3.326	1	
+Omolara Badaru Close	Ifako/Ijaye	Lagos	6.639	3.328	1	
+Omodara Street	Ikeja	Lagos	6.586	3.368	1	
+Omotayo Ojo Street	Ikeja	Lagos	6.600	3.351	1	
+Omotayo Street	Alimosho	Lagos	6.541	3.258	1	
+Omolade Aluko Street	Oshodi/Isolo	Lagos	6.513	3.307	1	
+Omorinre Johnson Street	Eti Osa	Lagos	6.436	3.461	1	
+Godwin Omene Street	Eti Osa	Lagos	6.440	3.478	1	
+Omotayo Street	Agege	Lagos	6.627	3.311	1	
+Tokunbo Omisore Street	Eti Osa	Lagos	6.448	3.456	1	
+Ladipo Omotesho Cole Street	Eti Osa	Lagos	6.434	3.465	1	
+Omotayo Omotosho Street	Amuwo Odofin	Lagos	6.468	3.309	1	
+Omodeinde Road	Municipal Area Council	FCT Abuja	9.134	7.380	1	
+Samuel Omu Street	Municipal Area Council	FCT Abuja	9.004	7.479	1	
+Igwuruta to Airport ‘Junction, Omagwa	Ikwerre	Rivers	4.966	6.989	1	
+Omodunni Street	Surulere	Lagos	6.510	3.343	1	
+Omojuwa Street	Egor	Edo	6.368	5.585	1	
+Omoruyi Street	Egor	Edo	6.365	5.578	1	
+Omo-ogieva Street	Egor	Edo	6.358	5.572	1	
+Omoidahosa Street	Egor	Edo	6.360	5.575	1	
+Omorodion Avenue Street	Egor	Edo	6.357	5.571	1	
+Omorodion street	Egor	Edo	6.357	5.577	1	
+Omoruyi street	Egor	Edo	6.359	5.581	1	
+D.O Omigie Close	Oredo	Edo	6.317	5.623	1	
+Omomo Lane	Oredo	Edo	6.335	5.614	1	
+Omupo - Ilala Road	Irepodun	Kwara	8.303	4.807	1	
+Omupo - Amodu Asungbolu Road	Ifelodun	Kwara	8.284	4.768	1	
+Omotashe Compound	Mushin	Lagos	6.511	3.337	1	
+Ominiyi Street	Mushin	Lagos	6.512	3.336	1	
+Omosolape Street	Mushin	Lagos	6.517	3.342	1	
+Omosebi Street	Mushin	Lagos	6.515	3.341	1	
+Omobola Street	Mushin	Lagos	6.513	3.344	1	
+Omupo - Ilala - Buari Road	Irepodun	Kwara	8.320	4.830	1	
+Comr. Omoregie Way	Oredo	Edo	6.299	5.588	1	
+Omorogbe Lane	Oredo	Edo	6.314	5.609	1	
+Samuel Omotara Street	Surulere	Lagos	6.496	3.344	1	
+Ade-Omo Olubiyi Street	Surulere	Lagos	6.490	3.345	1	
+Omomeji Street	Ede North	Osun	7.768	4.535	1	
+Omigade Street	Ede North	Osun	7.763	4.529	1	
+Omoba Oshilokun Street	Alimosho	Lagos	6.540	3.265	1	
+Omodeinde Street	Agege	Lagos	6.619	3.316	1	
+Omoanon Edogun Avenue	Alimosho	Lagos	6.635	3.281	1	
+Omowunmi Street	Alimosho	Lagos	6.649	3.281	1	
+Omisesan Street	Alimosho	Lagos	6.678	3.258	1	
+Omonigho Close	Uvwie	Delta	5.564	5.760	1	
+Omatsola Cresent	Warri South	Delta	5.519	5.749	1	
+Omode Street	Warri South	Delta	5.531	5.756	1	
+Omo-Agege Road	Warri South	Delta	5.543	5.739	1	
+Omo Ighodalo Street	Kosofe	Lagos	6.576	3.393	1	
+Omene-Johnson Street	Oredo	Edo	6.327	5.603	1	
+Omoruyi Street	Oredo	Edo	6.323	5.628	1	
+Omosefe Lane	Oredo	Edo	6.312	5.588	1	
+Omorodion Street	Oredo	Edo	6.350	5.616	1	
+Omeleme Drive	Enugu East	Enugu	6.478	7.527	1	
+Omuokoloagu Street	Enugu North	Enugu	6.438	7.530	1	
+Omerigwe Street	Enugu East	Enugu	6.487	7.515	1	
+Sir Mike Omeje Avenue	Enugu North	Enugu	6.467	7.485	1	
+Omachiana Street	Enugu South	Enugu	6.410	7.490	1	
+Omaba Eze Close	Enugu East	Enugu	6.479	7.580	1	
+Ugbo Omeha Street	Enugu North	Enugu	6.459	7.549	1	
+Ilorin - Omupo - Ajasse Ipo Road	Ifelodun	Kwara	8.398	4.662	1	
+Ilorin - Omupo - Ajasse Ipo Road	Ifelodun	Kwara	8.394	4.681	1	
+Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.431	4.595	1	
+Ilorin - Omupo - Ajasse Ipo Road	Ifelodun	Kwara	8.315	4.767	1	
+Barr. IK Omeje Street	Enugu North	Enugu	6.467	7.474	1	
+Omenife Ojoto Close	Enugu South	Enugu	6.405	7.483	1	
+D.O. Omovie Street	Oshodi/Isolo	Lagos	6.508	3.298	1	
+Idi-Omo Street	Lagos Island	Lagos	6.465	3.389	1	
+Ombo Shokelu Street	Ìkòròdú	Lagos	6.651	3.512	1	
+George Omonubi Street	Eti Osa	Lagos	6.427	3.458	1	
+Omoba Murphy Adetoro Road	Eti Osa	Lagos	6.438	3.526	1	
+Folashade Omode Street	Eti Osa	Lagos	6.439	3.557	1	
+Ito-omu / eleranigbe road	Epe	Lagos	6.501	3.650	1	
+Omonoba Avenue	Eti Osa	Lagos	6.463	3.579	1	
+Nempi-Omuma Rd	Oru East	Imo	5.754	6.948	1	
+Mgbidi-Omuma-Nkume Rd	Oru East	Imo	5.757	6.946	1	
+Omudioga to Ahia FS Rd	Ikwerre	Rivers	5.178	6.876	1	
+Lawrence Omole Close	Eti Osa	Lagos	6.428	3.435	1	
+Omolayo Avenue	Lagelu	Oyo	7.437	3.951	1	
+Omotanbaje Street	Lagelu	Oyo	7.438	3.959	1	
+Omowunmi Street	Alimosho	Lagos	6.675	3.256	1	
+Omoniyi Street	Kosofe	Lagos	6.615	3.374	1	
+Chief Aleru Street, Omuoko, Aluu, Port Harcourt	Ikwerre	Rivers	4.922	6.916	1	
+Omachi Street	Obio/Akpor	Rivers	4.870	7.007	1	
+Omoba S. Akinolu Street	Eti Osa	Lagos	6.473	3.577	1	
+Adelegan Omol	Ilesha West	Osun	7.631	4.736	1	
+Oke Ori Omi Road	Adó-Èkìtì	Ekiti	7.619	5.218	1	
+Aina Omiteru Street	Ojo	Lagos	6.455	3.172	1	
+Omoyele Close	Oshodi/Isolo	Lagos	6.540	3.318	1	
+Omotosho Street	Ojo	Lagos	6.464	3.181	1	
+Omolara Close	Alimosho	Lagos	6.646	3.289	1	
+Omodigbo Street	Mushin	Lagos	6.534	3.351	1	
+David Omodara Street	Ifo	Ogun	6.680	3.322	1	
+Omo Oba Shamsideen Street	Eti Osa	Lagos	6.473	3.578	1	
+Felix Omogbehin Close	Eti Osa	Lagos	6.475	3.578	1	
+Omo Disu Close	Kosofe	Lagos	6.610	3.379	1	
+Omoba Bade Street	Eti Osa	Lagos	6.485	3.582	1	
+Omoyeni Street	Ifako/Ijaye	Lagos	6.676	3.286	1	
+Omolara Olusi Street	Eti Osa	Lagos	6.479	3.628	1	
+Omoniyi Street	Ifo	Ogun	6.682	3.299	1	
+Roland Omorege	Ìkòròdú	Lagos	6.637	3.485	1	
+Chief Oma Eyewuoma Road	Ibeju Lekki	Lagos	6.459	3.678	1	
+Omojola Street	Ìkòròdú	Lagos	6.678	3.495	1	
+Iwogban-Omoregie-Ute Road	Uhunmwonde	Edo	6.414	5.687	1	
+Sola Omole Street	Eti Osa	Lagos	6.500	3.582	1	
+Noah Omoboye Street	Eti Osa	Lagos	6.468	3.636	1	
+Iwogban-Omoregie-Ute Road	Uhunmwonde	Edo	6.415	5.703	1	
+Iwogban-Omoregie-Ute Road	Uhunmwonde	Edo	6.414	5.681	1	
+Omene Street	Sapele	Delta	5.888	5.681	1	
+Omudioga to Ahia FS Rd	Ikwerre	Rivers	5.151	6.846	1	
+Omoku – Ndoni	Ogba/Egbema/Ndoni	Rivers	5.353	6.657	1	
+Adebisi Omotola Street	Oshodi/Isolo	Lagos	6.537	3.329	1	
+Frank Omoregie Close	Uvwie	Delta	5.553	5.774	1	
+Omoregie Street	Warri South	Delta	5.537	5.752	1	
+Omadino-Ughoton Road	Okpe	Delta	5.601	5.692	1	
+Abayomi Omisore Street	Ife Central	Osun	7.495	4.533	1	
+Omunakwe Street	Obio/Akpor	Rivers	4.841	7.001	1	
+Olusegun Omotoro Street	Ibeju Lekki	Lagos	6.481	3.726	1	
+Omomo Street	Oredo	Edo	6.335	5.614	1	
+Lawrence Omolayo Road	Adó-Èkìtì	Ekiti	7.603	5.218	1	
+Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.891	4.313	1	
+Omore Road	Ovia North-East	Edo	6.417	5.604	1	
+Great Omoruyi Street	Ikpoba-Okha	Edo	6.278	5.638	1	
+Sam Omowumi Street	Ido-Osi	Ekiti	7.877	5.171	1	
+OMORUYI STREET	Oredo	Edo	6.291	5.567	1	
+OMORUYI STREET	Oredo	Edo	6.288	5.563	1	ODEH STREET
+Omagbemi G. Kakayor Street	Warri South	Delta	5.529	5.715	1	
+Omi- Omo Street	Ise/Orun	Ekiti	7.459	5.427	1	
+Ifaki - Ikole - Omuo Ekiti Road	Ikole	Ekiti	7.792	5.455	1	
+Elele to Omoku	Ogba/Egbema/Ndoni	Rivers	5.333	6.662	1	
+Omofoyewa Street	Ido	Oyo	7.433	3.830	1	
+Omowunmi Avenue	Eti Osa	Lagos	6.472	3.659	1	
+Idi-Osan - Oke-omi Rd	Egbeda	Oyo	7.448	4.024	1	
+Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.886	4.319	1	
+Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.895	4.306	1	
+Oba Omowonuola Oyeyode Street	Ejigbo	Osun	7.896	4.303	1	
+Omodeinde Road	Municipal Area Council	FCT Abuja	9.136	7.381	1	
+Dipo Omotayo Street	Eti Osa	Lagos	6.487	3.590	1	
+Aliyu Omeiza Street	Suleja	Niger	9.171	7.213	1	
+Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.415	4.612	1	
+Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.410	4.636	1	
+Godwin Omonua Street	Oshodi/Isolo	Lagos	6.520	3.322	1	
+Adekunle Omirinde Close	Eti Osa	Lagos	6.507	3.600	1	
+Adekunle Omirinde Street	Eti Osa	Lagos	6.507	3.599	1	
+Omotayo Lawal Street	Eti Osa	Lagos	6.508	3.594	1	
+Samuel Omidiji Street	Eti Osa	Lagos	6.507	3.601	1	
+Omoroga Street	Agege	Lagos	6.628	3.313	1	
+Omupo - Amodu Asungbolu Road	Ifelodun	Kwara	8.278	4.791	1	
+Omadino Bridge	Warri South	Delta	5.626	5.650	1	
+Omadino Road	Warri South	Delta	5.641	5.650	1	
+Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	5.084	6.832	1	
+Omo Osagie Street	Eti Osa	Lagos	6.444	3.424	1	
+Omuse Road	Emuoha	Rivers	5.050	6.732	1	
+Mill Road (Omuadi)	Emuoha	Rivers	5.061	6.726	1	
+Omotejowho Street	Uvwie	Delta	5.540	5.753	1	
+Omovie Street	Warri South	Delta	5.534	5.760	1	
+Ominira Street	Ife North	Osun	7.545	4.457	1	
+Omuoko market	Ikwerre	Rivers	4.918	6.907	0	
+Awo-Omamma Hospital	Oru East	Imo	5.670	6.926	0	
+Omolaja Sodipo School	Abeokuta South	Ogun	7.122	3.332	0	
+Omi-Adio Station	Ido	Oyo	7.409	3.748	0	
+Omoku – Ndoni	Ogba/Egbema/Ndoni	Rivers	5.414	6.689	1	
+Omoku – Ndoni	Ogba/Egbema/Ndoni	Rivers	5.387	6.671	1	
+Omoku – Ndoni	Ogba/Egbema/Ndoni	Rivers	5.455	6.697	1	
+The Federal College of Education (Technical), Omoku	Ogba/Egbema/Ndoni	Rivers	5.333	6.649	0	
+Ilorin - Omupo - Ajasse Ipo Road	Ilorin South	Kwara	8.414	4.614	1	
+Omolola Group of Schools	Shagamu	Ogun	6.833	3.627	0	
+Orie-Omuma Market	Oru East	Imo	5.757	6.947	0	
+Prince Oweh Omas Avenue	Oredo	Edo	6.282	5.585	1	
+Regina Omolara Street	Ikeja	Lagos	6.597	3.358	1	
+Omosebi road	Ilorin East	Kwara	8.461	4.575	1	
+Omo Idubor Street	Egor	Edo	6.375	5.589	1	
+Omuma Street	Port-Harcourt	Rivers	4.797	6.997	1	
+Omuma Street	Port-Harcourt	Rivers	4.795	6.996	1	
+Omokaro Street	Oredo	Edo	6.276	5.530	1	
+Omole Street	Ovia South-West	Edo	6.555	5.357	1	
+Omotola Street	Lagos Mainland	Lagos	6.506	3.390	1	
+Omoba Egberongbe Ojomo Street	Eti Osa	Lagos	6.479	3.629	1	
+Omoku – Ndoni	Ogba/Egbema/Ndoni	Rivers	5.455	6.697	1	
+Dada Omolara Street	Eti Osa	Lagos	6.450	3.615	1	
+Igwuruta to Airport Junction, Omagwa	Ikwerre	Rivers	4.994	6.886	1	
+Omala	Omala	Kogi	7.778	7.566	2	
+Omumma	Omumma	Rivers	5.093	7.235	2	

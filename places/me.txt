@@ -1,0 +1,615 @@
+Meke	Etsako West	Edo	7.130	6.259	2	
+Mesani	Gwandu	Kebbi	12.536	4.474	2	
+Metele	Abadam	Borno	13.358	13.426	2	
+Mlala	Hawul	Borno	10.558	12.038	2	Melala
+Gidan Megoru	Sokoto North	Sokoto	13.071	5.207	2	
+Melliyaklo	Goronyo	Sokoto	13.589	5.611	2	
+Ungwan-Mama-Meduma	Wasagu-Danko	Kebbi	11.336	6.151	2	
+Erure Meji	Warri South	Delta	5.552	5.620	2	
+Mede	Ipokia	Ogun	6.660	2.785	2	
+Meko	Imeko Afon	Ogun	7.449	2.843	3	
+Tungan Mena	Dandi	Kebbi	11.838	3.891	2	
+Gidan Mekatura	Gwadabawa	Sokoto	13.382	5.163	2	
+Mesiji	Wamako	Sokoto	13.076	5.114	2	
+Mela	Shagari	Sokoto	12.648	5.094	2	
+Mellaram	Gubio	Borno	12.693	12.889	2	
+Mesa	Ushongo	Benue	7.104	8.783	2	Msaa
+Gobare Mekasuwa	Gwandu	Kebbi	12.560	4.456	2	
+Imesi Ile	Obokun	Osun	7.833	4.833	2	Oke-Messi-Ipole;Oke-Mesi-Ipole;Imesi Ile
+Megikitagi	Edu	Kwara	8.898	5.237	2	
+Merenyi	Mubi North	Adamawa	10.406	13.390	2	Mirini
+Kabbarau	Mobbar	Borno	13.205	12.881	2	Meru K Bukarye
+Mbulamel	Biu	Borno	10.628	12.190	2	Bula Mel
+Tungan Mekidi	Shanga	Kebbi	10.944	4.606	2	
+Ungwan Merogo	Birnin Kebbi	Kebbi	12.361	4.268	2	
+Oke Mesi	Ekiti West	Ekiti	7.817	4.917	2	Oke Messi
+Garin Merata	Shanga	Kebbi	11.460	4.653	2	Garin Marafa
+Madaki	Biu	Borno	10.819	11.751	2	Maidaki Mesau
+Mergu	Mobbar	Borno	13.193	12.958	2	
+Mejaw	Saki East	Oyo	8.800	3.417	2	
+Meleri	Kala-Balge	Borno	12.050	14.367	2	
+Tungan Gajere Meshai	Shanga	Kebbi	10.927	4.569	2	
+Gidan Mekomo	Augie	Kebbi	12.863	4.556	2	
+Ekan Meje	Moba	Ekiti	8.038	5.099	2	
+Tunga Mekidi	Tafa	Niger	9.219	7.224	2	
+Medugu	Borgu	Niger	10.553	4.293	2	Megudu
+Ebute-Metta	Lagos Mainland	Lagos	6.486	3.386	2	
+Maimakwami	Baure	Katsina	12.775	8.635	2	Memokweni
+Dole	Baure	Katsina	12.772	8.679	2	Memokweni
+Merin	Akinyele	Oyo	7.553	3.992	2	
+Ungwan Medodo	Bagudo	Kebbi	10.928	4.364	2	
+Gidan Mekware	Gwadabawa	Sokoto	13.283	5.292	2	
+Tungan Mekidi	Bagudo	Kebbi	10.943	4.336	2	
+Tunga Megunya	Bagudo	Kebbi	11.482	4.282	2	
+Merwa Gana	Nguru	Yobe	13.042	10.325	2	Murba Gana
+Ungwan Megida	Arewa Dandi	Kebbi	12.630	4.023	2	
+Merama	Hawul	Borno	10.482	12.197	2	
+Meli	Gwadabawa	Sokoto	13.425	5.215	2	Mele
+Ungwan Megusaye	Arewa Dandi	Kebbi	12.476	3.927	2	
+Gadon Meta	Goronyo	Sokoto	13.381	5.820	2	Gadon Mata
+Mekaki	Sule Tankakar	Jigawa	12.782	9.173	2	
+Gidan Mekwonko	Argungu	Kebbi	12.663	4.548	2	
+Mefaru	Mai'Adua	Katsina	13.185	8.226	2	
+Takumpata	Wushishi	Niger	9.550	6.200	2	Takun Pata;Mekira
+Bele Mepama	Dandi	Kebbi	12.055	3.855	2	
+Tungan Mesaje	Bagudo	Kebbi	11.524	4.073	2	
+Mega Plaza	Kaduna South	Kaduna	10.440	7.405	0	
+Garrick Memorial Secondary School	Oredo	Edo	6.332	5.602	0	
+NNPC mega station	Jos North	Plateau	9.891	8.881	0	
+Blessed St. Paul Memorial Group of Schools	Egor	Edo	6.366	5.587	0	
+Imuagbonhen Memoral School	Egor	Edo	6.362	5.575	0	
+St Paul Memorial Secondary School	Egor	Edo	6.366	5.586	0	
+Metropolitan Institute of Technology	Oredo	Edo	6.305	5.625	0	
+Abe Medical Clinic and Maternity	Oredo	Edo	6.331	5.630	0	
+Ayolik Medical Center	Oredo	Edo	6.331	5.627	0	
+Life Line Medicare Clinic	Oredo	Edo	6.332	5.627	0	
+Prime Meridian School	Oredo	Edo	6.307	5.612	0	
+Abuja Metro	Municipal Area Council	FCT Abuja	9.050	7.472	0	
+Calvary Medical Centre	Oredo	Edo	6.334	5.605	0	
+Malachi Memorial school	Oredo	Edo	6.331	5.607	0	
+Patanne medical equipment shop	Oredo	Edo	6.327	5.625	0	
+Ann Marie Memorial School	Oredo	Edo	6.323	5.598	0	
+Merrigold Plaza	Oredo	Edo	6.343	5.610	0	
+Alfa Medical Center	Enugu North	Enugu	6.464	7.496	0	
+ESUT Medicine Student's Hostel	Enugu North	Enugu	6.463	7.496	0	
+Sure mercies eye clinic & services	Enugu North	Enugu	6.450	7.493	0	
+Chinwe Memorial Clinic	Enugu South	Enugu	6.413	7.544	0	
+Methodist College	Enugu South	Enugu	6.419	7.487	0	
+Jacob Memorial Clinic	Enugu North	Enugu	6.438	7.502	0	
+Bethel Medical Clinic	Enugu North	Enugu	6.448	7.501	0	
+Methodist Grammer School	Ibadan North	Oyo	7.429	3.912	0	
+Subola Memorial School	Ibadan North	Oyo	7.403	3.911	0	
+Methodist School II	Ibadan North	Oyo	7.420	3.914	0	
+Methodist Primary School	Ibadan North	Oyo	7.436	3.910	0	
+Mekwandira Health Post	Doguwa	Kano	10.809	8.630	0	
+Custom Officers Mess	Fagge	Kano	12.032	8.520	2	
+Mégia	Madarounfa	Sokoto	13.207	6.788	2	
+Jauro Mesa	Shani	Borno	10.182	11.843	2	
+Meileri	Gubio	Borno	12.482	12.575	2	
+Meleri	Gubio	Borno	12.424	12.713	2	
+Meleri	Nganzai	Borno	12.514	13.141	2	
+Meleri	Magumeri	Borno	12.372	12.682	2	
+Burari B Ashemi	Nganzai	Borno	12.285	13.178	2	Meleri
+Meleri	Magumeri	Borno	12.168	13.013	2	
+Melire	Magumeri	Borno	11.902	13.071	2	
+Mai Meleri	Mafa	Borno	11.898	13.297	2	
+Metene	Mafa	Borno	12.147	13.870	2	
+Lawan Kolori Meleri	Magumeri	Borno	12.199	12.780	2	
+Meleri	Jere	Borno	11.733	13.229	2	Limanti
+Mebungashi	Bayo	Borno	10.293	11.584	2	
+Abatcha Meleri	Nganzai	Borno	12.618	13.209	2	
+Medim	Essien Udim	Akwa Ibom	5.047	7.628	2	
+Meleram	Gubio	Borno	12.731	12.884	2	
+Meleri Duttumiri	Gubio	Borno	12.826	12.854	2	
+Melengarnari	Mobbar	Borno	13.224	12.678	2	
+Meru B Aliye	Mobbar	Borno	13.204	12.902	2	
+Meru B Umara	Mobbar	Borno	13.200	12.880	2	
+Meru Fuyema	Mobbar	Borno	13.215	12.873	2	
+Meru M Fannami	Mobbar	Borno	13.217	12.904	2	
+Melekemeri	Abadam	Borno	13.443	12.940	2	
+Atla Medical Centre	Maiduguri	Borno	11.798	13.142	0	
+Ngohi Kofan Hakimi Medical Dispensary	Askira-Uba	Borno	10.671	12.690	0	
+Menjari	Damboa	Borno	11.077	12.738	2	
+MÉDICAL ILE OLA	Ifangni	Ogun	6.728	2.780	0	
+Gramath Medical Center	Ado Odo/Ota	Ogun	6.686	3.248	0	
+NNPC Mega Petrol Station	Uhunmwonde	Edo	6.436	5.685	0	
+Boula Meleri	Diffa	Yobe	13.089	12.351	2	
+Geography Dept Medical Center	Sabon Gari	Kaduna	11.153	7.649	0	
+NNPC Mega Station	Oshimili North	Delta	6.214	6.661	0	
+Mercy Girls college	Aba North	Abia	5.120	7.384	0	
+Bukar Meram	Monguno	Borno	12.641	14.059	2	
+Medokcham	Guzamala	Borno	12.904	12.998	2	
+Bolori Meleri	Monguno	Borno	12.749	13.502	2	
+Meleri	Guzamala	Borno	12.819	13.178	2	
+Ali Meremiri	Guzamala	Borno	12.689	13.269	2	
+Bolori Bulama Sarki Mele	Guzamala	Borno	12.781	13.501	2	
+Metrixmed Clinic	Yenegoa	Bayelsa	4.938	6.332	0	
+Hybrid Medical Diagotics	Yenegoa	Bayelsa	4.943	6.326	0	
+371 Nigerian Air Force Medical Center	Uvwie	Delta	5.583	5.714	0	
+Loyola Medical Center	Uvwie	Delta	5.555	5.778	0	
+Onome Acapuncture and Medical Center	Uvwie	Delta	5.560	5.776	0	
+Kolori Kyari Mele	Konduga	Borno	11.845	12.827	2	
+Makinta Meleri	Konduga	Borno	11.645	13.347	2	
+Ballemiri (Melleri)	Konduga	Borno	11.822	12.933	2	
+Grace Hill Medical Center	Uvwie	Delta	5.564	5.766	0	
+The Islamic Natural Medical Clinic	Uvwie	Delta	5.567	5.780	0	
+Ibru Medical Center	Ughelli North	Delta	5.533	6.062	0	
+Cheers Medical and Diagontics  Center	Warri South	Delta	5.534	5.748	0	
+Compos Mentis Intl. School	Warri South	Delta	5.538	5.749	0	
+Messiah African Church Group of Schools	Warri South	Delta	5.530	5.745	0	
+Aunty Mercy Blessed School	Warri South	Delta	5.529	5.758	0	
+Cumi	Obio/Akpor	Rivers	4.831	7.061	0	Cumi Medical Center
+Sudi Medical Services	Obio/Akpor	Rivers	4.850	7.063	0	
+Antek Medical Laboratories	Obio/Akpor	Rivers	4.831	7.026	0	
+Bishop Crowther Memorial Schools	Obio/Akpor	Rivers	4.837	7.030	0	
+Siya Medical Center	Obio/Akpor	Rivers	4.837	7.034	0	
+Northwest Megastation	Odukpani	Cross River	5.088	8.346	0	
+Family Medicine Department FMC	Muhammadu Dikko Stadium	Katsina	12.980	7.611	0	
+Azafafa Global Merchant LTD	Giwa	Kaduna	11.039	7.088	0	
+NNPC Mega	Ogbomosho North	Oyo	8.142	4.246	0	
+LAUTECH Medical College	Ogbomosho North	Oyo	8.160	4.258	0	
+Shalom Medical Centre	Ogbomosho North	Oyo	8.143	4.247	0	
+ADENIRAN MEMORIAL GRAMMAR SCHOOL	Ogbomosho North	Oyo	8.136	4.211	0	
+NNPC MEGA STATION	Sokoto South	Sokoto	13.019	5.244	0	NNPC mega station
+College of Medical sciences	Gombe	Gombe	10.303	11.175	0	
+Mejabot Oil	Ìkòròdú	Lagos	6.643	3.480	0	
+Metro hospital	Gombe	Gombe	10.298	11.147	0	
+Dan Meyangun	Dawakin Tofa	Kano	12.137	8.423	2	
+Mekiya	Gabasawa	Kano	12.236	8.875	2	
+Mekiya C	Gabasawa	Kano	12.229	8.864	2	
+Mesa Burmi	Gezawa	Kano	12.149	8.742	2	
+Mesar Tudu	Gezawa	Kano	12.124	8.723	2	Mesatadu
+Geo Medical Center	Oshodi/Isolo	Lagos	6.572	3.343	0	
+4 Demo Mess	Igabi	Kaduna	10.809	7.548	0	
+Unimaid Medical Center	Jere	Borno	11.804	13.197	0	
+Megaleyi	Fufore	Adamawa	9.026	12.396	0	
+Psychiatric Mental Home Jega	Jega	Kebbi	12.224	4.371	0	
+Bamaiyi Sundume Memorial Medical Health Centre	Zuru	Kebbi	11.316	5.233	0	
+Nasara Medical Clinic	Wasagu-Danko	Kebbi	11.397	5.484	0	
+NNPC Mega Filling Station	Yenegoa	Bayelsa	4.910	6.295	0	
+Believers Faith Medical Clinic	Yenegoa	Bayelsa	4.936	6.281	0	
+Ayetunde Medical Centre Tegina	Rafi	Niger	10.069	6.189	0	
+Eginna Memorial Maternity Home Clinic	Lapai	Niger	9.211	6.563	0	
+Divine Mercy Clinic And Maternity	Shiroro	Niger	9.919	6.805	0	
+Azuwah Mem	Kachia	Kaduna	9.611	7.314	0	
+sokoya memorial wesley primary school, makun	Shagamu	Ogun	6.851	3.630	0	
+United African Methodist School Eleja Dodo	Ifo	Ogun	6.755	3.230	0	
+United African Methodist Church Primary School, Elemoki	Ado Odo/Ota	Ogun	6.592	2.939	0	
+Local Government Primary School, Ita-Merin	Ado Odo/Ota	Ogun	6.684	3.235	0	
+Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.638	3.207	0	
+Zion Methodist Primary School I, Ota	Ado Odo/Ota	Ogun	6.726	3.220	0	
+Zion Methodist Primary School Ii, Ota	Ado Odo/Ota	Ogun	6.536	3.068	0	
+Methodist Primary School, Oko Omi	Ado Odo/Ota	Ogun	6.712	3.076	0	
+Methodist Primary School, Oke Ore	Ado Odo/Ota	Ogun	6.535	2.898	0	
+Methodist Primary School, Soki Ere	Ado Odo/Ota	Ogun	6.583	3.024	0	
+Methodist Primary School, Agboku-Igbekan	Ado Odo/Ota	Ogun	6.562	2.943	0	
+Methodist Primary School, Odugbe	Ifo	Ogun	6.751	3.273	0	
+Mahdiyyat Memorial Primary School, Onirugba	Ado Odo/Ota	Ogun	6.680	3.185	0	
+Otubu Memorial Primary School, Apebi	Ado Odo/Ota	Ogun	6.591	2.999	0	
+Africa Church Primary School, Meesan Ota	Ifo	Ogun	6.663	3.360	0	
+Sokoya Memorial Wesley Primary School. Makun	Shagamu	Ogun	6.851	3.630	0	
+Mahdiyyat Memorial Primary School, Onirugba	Ìjẹ̀bú Òde	Ogun	6.838	3.933	0	
+Otubu Memorial Primary School, Apebi	Ìjẹ̀bú Òde	Ogun	6.814	3.923	0	
+Local Government Primary School, Ita-Merin	Shagamu	Ogun	6.753	3.601	0	
+United African Methodist Church, Eleja, Iraye	Shagamu	Ogun	6.730	3.586	0	
+Zion Methodist Primary School Ii, Ota	Ado Odo/Ota	Ogun	6.689	3.229	0	
+Zion Methodist Primary School I, Ota	Ado Odo/Ota	Ogun	6.689	3.229	0	
+Methodist Primary School, Oke Ore	Ado Odo/Ota	Ogun	6.678	3.036	0	
+Africa Church Primary School, Meesan Ota	Ado Odo/Ota	Ogun	6.670	3.158	0	
+United African Methodist School Eleja Dodo	Ado Odo/Ota	Ogun	6.641	3.053	0	
+Methodist Primary School, Odugbe	Ado Odo/Ota	Ogun	6.617	3.087	0	
+Methodist Primary School, Idobarun	Ado Odo/Ota	Ogun	6.609	2.994	0	
+Methodist Central Primary School Ii, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
+Methodist Central Primary School I, Ado Odo	Ado Odo/Ota	Ogun	6.592	2.942	0	
+United African Methodist Church Primary School, Ado-Odo	Ado Odo/Ota	Ogun	6.589	2.942	0	
+Methodist Primary School, Agboku-Igbekan	Ado Odo/Ota	Ogun	6.559	2.929	0	
+Methodist Primary School, Soki Ere	Ado Odo/Ota	Ogun	6.535	2.898	0	
+United African Methodist Church Primary School, Okanran	Ado Odo/Ota	Ogun	6.529	2.998	0	
+African Methodist Church Primary School, Elemoki	Ado Odo/Ota	Ogun	6.675	2.983	0	
+UNN Medical Center	Nsukka	Enugu	6.860	7.413	0	
+Belwin Memorial Clinic	Enugu North	Enugu	6.458	7.515	0	
+Memfys Hospital	Enugu East	Enugu	6.477	7.493	0	
+Federal Medical Centre	Lokoja	Kogi	7.800	6.742	0	
+Oni and Sons Memorial Hospital, (Adeoyo) Ring Road, Ibadan	Ibadan South West	Oyo	7.362	3.862	0	
+Gbemisola Memorial hospital, Boluwaji Area, Ibadan	Oluyole	Oyo	7.338	3.905	0	
+Al-Lateef Medical Hospital, Akingbile Junction	Akinyele	Oyo	7.513	3.913	0	
+Michael Bella Memorial Hospital, General Gas-Akobo	Lagelu	Oyo	7.428	3.939	0	
+Faith Maternity Clinic & Child Welfare(Mummy Mercy)	Akinyele	Oyo	7.481	3.920	0	
+Cureland Medical Centre, Moniya Road, Akingbile	Akinyele	Oyo	7.523	3.915	0	
+Dola Medical Centre, Iwo-Road/Olodo	Lagelu	Oyo	7.429	3.999	0	
+As-salam Medical Centre, Office bus-stop Sasa	Akinyele	Oyo	7.486	3.914	0	
+Classic Symbols Diagnostic Ltd Medical Centre	Municipal Area Council	FCT Abuja	8.995	7.425	0	
+Medical Center	Lagelu	Oyo	7.428	3.982	0	
+Mechanic Village	Isoko South	Delta	5.482	6.199	2	
+King Nnah Ngonwa Memory Hall	Tai	Rivers	4.741	7.203	0	
+LOFTY GRIMSHAW MEMORIAL INSTITUTE	Jos North	Plateau	9.954	8.854	0	
+Madi Memorial Hospital	Akko	Gombe	10.295	11.097	0	
+Ginza medical center	Jos North	Plateau	9.928	8.881	0	
+Nelcon Merchants Nig. LTD	Jos North	Plateau	9.974	8.848	0	
+Excellence Medical center Bida Bidi Jos	Jos North	Plateau	9.984	8.856	0	
+Nasarawa Medical Center (Salako)	Jos North	Plateau	9.935	8.905	0	
+JKG5 Medical Center	Jos North	Plateau	9.934	8.908	0	
+Adventist Medical Center	Jos North	Plateau	9.934	8.920	0	
+Christian medical center	Jos North	Plateau	9.910	8.894	0	
+Hopehill medical center	Jos North	Plateau	9.896	8.887	0	
+Victoria's vestige memorial hospital	Jos North	Plateau	9.899	8.882	0	
+Hwolshe medical center Tudun Wada	Jos North	Plateau	9.892	8.867	0	
+Dan kasheari medical store	Jos North	Plateau	9.916	8.893	0	
+Goshen Medical Center Furaka	Jos North	Plateau	9.908	8.916	0	
+Micki-Mike Medicine store	Jos North	Plateau	9.923	8.903	0	
+Rikkos Medical Center	Jos North	Plateau	9.888	8.920	0	
+G. Medical	Jos North	Plateau	9.920	8.914	0	
+Jesuit Memorial College Port Harcourt	Ikwerre	Rivers	4.926	6.967	0	
+Capital Medicare	Ebonyi	Ebonyi	6.324	8.124	0	
+Merogun	Warri South	Delta	5.511	5.769	2	
+Mighty Mercy International School	Municipal Area Council	FCT Abuja	8.940	7.429	0	
+Faculty of Veterinary Medicine	Jos North	Plateau	9.977	8.886	0	
+Iyanu Medical Center	Ibarapa North	Oyo	7.553	3.226	0	
+Lamingo Medical Center	Jos North	Plateau	9.904	8.936	0	
+Usman Memorial Islamiyya School (Loddo)	Gombe	Gombe	10.295	11.170	0	
+Usman Memorial Islamiyya School (Loddo), Gombe	Gombe	Gombe	10.295	11.170	0	
+Usman Memorial Primary school Gombe, Gombe State	Gombe	Gombe	10.294	11.170	0	
+Usman Memorial Primary school Gombe , Gombe State	Gombe	Gombe	10.294	11.171	0	
+A.A Haruna Memorial School	Gombe	Gombe	10.307	11.149	0	
+Islamic Medical Foundation Musawa Road Zango	Kaduna South	Kaduna	10.505	7.406	0	
+Abdulazeez Memorial Clinic and Maternity	Kaduna South	Kaduna	10.508	7.399	0	
+Meyetti Primary Health Center	Kaduna North	Kaduna	10.514	7.445	0	
+Zakari Memorial Clinic Primary Health Center	Kaduna North	Kaduna	10.509	7.432	0	
+Shehu Muhammad Kangiwa Medical Center Kaduna Polytechnic	Kaduna South	Kaduna	10.524	7.416	0	
+Methodist Church Hospital	Chikun	Kaduna	10.459	7.580	0	
+Safiya Medical Center	Chikun	Kaduna	10.375	7.395	0	
+Henlong Medical Clinic And Maternity	Chikun	Kaduna	10.478	7.379	0	
+Pioneer Medical Clinic	Ojo	Lagos	6.496	3.172	0	
+Noble Medical Digonistic Centre	Ojo	Lagos	6.492	3.174	0	
+Grace Land Medical Center	Ojo	Lagos	6.490	3.200	0	
+Ademola Medical Center	Ojo	Lagos	6.494	3.144	0	
+Goodness Medical Center	Ojo	Lagos	6.461	3.105	0	
+Denow Ayetoro Medical Center	Ojo	Lagos	6.488	3.154	0	
+Ketu Medical Clinic	Ojo	Lagos	6.487	3.153	0	
+Goodness Medical Services	Ojo	Lagos	6.461	3.144	0	
+Chidove Homoeopathic Medical Center	Ojo	Lagos	6.487	3.165	0	
+Abodunrin Medical Center	Ojo	Lagos	6.471	3.178	0	
+Redeem Medical Center Annex	Ojo	Lagos	6.471	3.162	0	
+Conner Stone Medical Center	Ojo	Lagos	6.458	3.159	0	
+Dikue Medical Centre	Ojo	Lagos	6.465	3.172	0	
+Redeemed Medical Center	Ojo	Lagos	6.467	3.182	0	
+Alexander Memorial Hospital Olugbemi Agric	Ojo	Lagos	6.458	3.220	0	
+St David Med Center	Ojo	Lagos	6.456	3.221	0	
+Divine Gift Medical Centre Hospital	Amuwo Odofin	Lagos	6.446	3.222	0	
+Oluwalogbon Medical Centre	Ado Odo/Ota	Ogun	6.580	3.089	0	
+Ojuoluwa Medical Centre	Ado Odo/Ota	Ogun	6.566	3.081	0	
+Medics Clinical Venture	Ado Odo/Ota	Ogun	6.561	3.079	0	
+Agbara Medical Center	Ado Odo/Ota	Ogun	6.503	3.101	0	
+Falola Clinic Medical	Ado Odo/Ota	Ogun	6.524	3.136	0	
+Falola Medical Clinic	Ado Odo/Ota	Ogun	6.537	3.135	0	
+New Merit Hospital Limited	Alimosho	Lagos	6.670	3.254	0	
+First Wave Medical Center	Alimosho	Lagos	6.646	3.271	0	
+Chrisol Medicals Maternity Home	Alimosho	Lagos	6.617	3.273	0	
+Lee Way Medical Center	Alimosho	Lagos	6.622	3.275	0	
+Double Crown Medical Diagnostic Service	Alimosho	Lagos	6.621	3.276	0	
+Agape Medical Centre	Alimosho	Lagos	6.607	3.258	0	
+Quest Medical Diagnosis	Alimosho	Lagos	6.602	3.271	0	
+Solad Medical Centre And Maternity Hospital	Alimosho	Lagos	6.601	3.268	0	
+Prestige Medical Clinic 6a Aina Obembe Street Ipaja	Alimosho	Lagos	6.601	3.254	0	
+Araba Medical Center	Alimosho	Lagos	6.640	3.278	0	
+Merian Primary Health Care Center	Alimosho	Lagos	6.664	3.282	0	
+Moyo Medical Center	Alimosho	Lagos	6.583	3.252	0	
+The Vine Medical Center	Alimosho	Lagos	6.583	3.246	0	
+Rabban Medical Centre	Alimosho	Lagos	6.607	3.280	0	
+Good Land Medical Diagnosis	Alimosho	Lagos	6.609	3.286	0	
+Grace Point Medical Centre	Alimosho	Lagos	6.579	3.208	0	
+Shasha Medical Centre	Alimosho	Lagos	6.587	3.306	0	
+Carelife Medical Centre	Alimosho	Lagos	6.580	3.279	0	
+Pons Medicaldiagonistics	Alimosho	Lagos	6.577	3.282	0	
+Ogunmoded Memorial Hospital And Maternity Home	Alimosho	Lagos	6.549	3.263	0	
+Joba Diagnostic Medical Service	Alimosho	Lagos	6.548	3.262	0	
+Kamzone Medical Diagnostic	Alimosho	Lagos	6.547	3.264	0	
+Joas Medical Diagnostics	Alimosho	Lagos	6.546	3.272	0	
+Matcom Medical Diagnostic Service S	Alimosho	Lagos	6.540	3.256	0	
+Gg Able Medical Diaglab	Alimosho	Lagos	6.531	3.259	0	
+Victory Life Medical Diagnostic	Alimosho	Lagos	6.516	3.255	0	
+St Grace Natural Medical Clinic And Me Eternity	Alimosho	Lagos	6.507	3.262	0	
+Above Clinic Medical Centre	Alimosho	Lagos	6.539	3.255	0	
+Afriglobal Medicare	Alimosho	Lagos	6.556	3.248	0	
+Life Fount Medical Center	Alimosho	Lagos	6.557	3.227	0	
+Maciland Medical Center	Alimosho	Lagos	6.524	3.249	0	
+Pakal Medical Centre	Alimosho	Lagos	6.526	3.215	0	
+Marie Stopes Clinic General Medical Care And Laboratory	Alimosho	Lagos	6.540	3.224	0	
+Eldunamis Medical Center	Alimosho	Lagos	6.542	3.224	0	
+Isuti Medical Centre	Alimosho	Lagos	6.552	3.219	0	
+Orisegun Med Center	Mushin	Lagos	6.525	3.350	0	
+A Aand A Medical Diagostic Center	Mushin	Lagos	6.515	3.356	0	
+Risaaj Hospital And Medicure	Mushin	Lagos	6.516	3.344	0	
+Dans Medical Hospital	Mushin	Lagos	6.513	3.335	0	
+Grace Springs Med Clinic	Mushin	Lagos	6.547	3.361	0	
+Mary Anne Med Clinic	Mushin	Lagos	6.549	3.360	0	
+Mecure Health Care	Mushin	Lagos	6.553	3.347	0	
+Federal Medical Centre	Mushin	Lagos	6.551	3.350	0	
+Ultima Medical Hospital	Mushin	Lagos	6.540	3.367	0	
+Omo Medical Health Center	Mushin	Lagos	6.539	3.364	0	
+Merit Medical Clinic	Mushin	Lagos	6.537	3.353	0	
+Calvaty Med Center	Mushin	Lagos	6.536	3.352	0	
+Merit Medical Centre Ojuwoyw	Mushin	Lagos	6.533	3.353	0	
+Redeemtion Medical Clinic	Mushin	Lagos	6.529	3.359	0	
+Jag-Bon Medical Center	Mushin	Lagos	6.520	3.367	0	
+Mercy Maternity Center	Mushin	Lagos	6.534	3.346	0	
+God's Mercy Lodge	Akure South	Ondo	7.290	5.149	0	
+Metallurgical And Materials Engineering Mineral Processing Laboratory	Akure South	Ondo	7.296	5.149	0	
+School Of Basic Medical Sciences(SBMS)	Akure South	Ondo	7.296	5.149	0	
+God Save Patient Medicine & Provision	Akure South	Ondo	7.289	5.148	0	
+Safehands Medical Centre	Amuwo Odofin	Lagos	6.458	3.300	0	
+Adetunji Memorial Hospital	Amuwo Odofin	Lagos	6.456	3.306	0	
+Pentecost Medical Center 112 Festac Town	Amuwo Odofin	Lagos	6.470	3.293	0	
+Praise Medical Center	Amuwo Odofin	Lagos	6.468	3.289	0	
+Holy Rosary Medical Center	Amuwo Odofin	Lagos	6.467	3.285	0	
+Makal Medical Center	Amuwo Odofin	Lagos	6.458	3.294	0	
+Macfin Medical Clinic	Amuwo Odofin	Lagos	6.458	3.293	0	
+Holy Family Catholic Church Medical Centre Festac	Amuwo Odofin	Lagos	6.468	3.283	0	
+Igbologun Medical Centre	Amuwo Odofin	Lagos	6.421	3.333	0	
+Outreach Medical Service	Amuwo Odofin	Lagos	6.421	3.245	0	
+Igbologun Medical Center	Amuwo Odofin	Lagos	6.414	3.252	0	
+Far East Medical Center	Amuwo Odofin	Lagos	6.422	3.274	0	
+Grace View Medical Center	Amuwo Odofin	Lagos	6.447	3.277	0	
+Dunamis House Medical Center	Amuwo Odofin	Lagos	6.456	3.262	0	
+Rhowil Total Care Medical Center	Amuwo Odofin	Lagos	6.453	3.263	0	
+Life Hope Multi Medical Center	Amuwo Odofin	Lagos	6.454	3.261	0	
+John Pofi Foundation Medical Center Fudawa	Jos North	Plateau	9.929	8.918	0	
+Federal Medical Centre Abuja	Municipal Area Council	FCT Abuja	9.015	7.408	0	
+Federal Medical Centre	Umuahia North	Abia	5.517	7.501	0	
+Mobolaji Johnson Station	Surulere	Lagos	6.502	3.374	0	Ebute Metta Station
+Meevic home grace	Alimosho	Lagos	6.535	3.235	0	
+Barry Medical Clinic	Kosofe	Lagos	6.607	3.421	0	
+dan's medical centre hospital	Kosofe	Lagos	6.608	3.424	0	
+calvary medical centre	Kosofe	Lagos	6.606	3.423	0	
+Carry medical clinic	Kosofe	Lagos	6.607	3.421	0	
+ABUBAKAR SADIQ MEMORIAL INTERNATIONAL	Ungongo	Kano	12.044	8.571	0	
+ALHASAN MEMORIAL	Ungongo	Kano	12.040	8.565	0	
+HASIYA MEMORIAL SCHOOL	Ungongo	Kano	12.055	8.582	0	
+HASINAH MEMORIAL	Ungongo	Kano	12.055	8.582	0	
+MAKARANTAR MAL ME MANGWARO	Nassarawa	Kano	12.034	8.563	0	
+J MEDICAL CENTER	Ungongo	Kano	12.053	8.576	0	
+Sharif Nuhu Memorial	Gwale	Kano	11.960	8.476	0	
+BINTA AHMAD MEMORIAL ACADEMY	Gwale	Kano	11.961	8.474	0	
+IDRIS MEGAWAYI	Gwale	Kano	11.964	8.480	0	
+HAJARA MEMORIAL SCIENCE SCHOOL	Gwale	Kano	11.961	8.471	0	
+MUBARAKUN MEDICINE	Gwale	Kano	11.963	8.474	0	
+Lord's own medical center	Alimosho	Lagos	6.525	3.234	0	
+Mechanical Lecture Room	Kaduna North	Kaduna	10.612	7.442	0	
+messiah high school, Tipper Garage Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.494	4.617	0	
+Khadijat Memorial Hospital, Sango Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.511	4.588	0	
+Yusjib Industrial Medicare, Ajasse-Ipo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.461	4.575	0	
+Dr. Bash Medical Care And Services	Bauchi	Bauchi	10.317	9.819	0	
+Abande Memorial School	Maiduguri	Borno	11.823	13.154	0	
+National Postgraduate Medical College of Nigeria	Ojo	Lagos	6.491	3.144	0	
+Methodist Senior High School, Badagry	Badagry	Lagos	6.413	2.899	0	
+Fed Med Junction	Municipal Area Council	FCT Abuja	9.016	7.412	0	
+Jesus Is Lord Mechanics	Municipal Area Council	FCT Abuja	9.143	7.377	0	
+Sky Memorial Bus Stop	Municipal Area Council	FCT Abuja	9.066	7.457	0	
+Martha medical services	Yenegoa	Bayelsa	4.965	6.368	0	
+Faculty of Basic Medical Science	Ede South	Osun	7.681	4.448	0	
+African Medical Centre of Excellence	Municipal Area Council	FCT Abuja	8.951	7.473	0	
+Mende	Kosofe	Lagos	6.573	3.374	2	
+Memorial Drive	Municipal Area Council	FCT Abuja	9.064	7.487	1	
+Meiran Road	Alimosho	Lagos	6.661	3.280	1	
+Mende Road	Kosofe	Lagos	6.572	3.371	1	
+Medical Store Road	Egor	Edo	6.368	5.627	1	
+Mechanic Road	Egor	Edo	6.372	5.570	1	
+Osawaru Mega Plaza	Oredo	Edo	6.336	5.621	0	
+Time Medical Clinic & Maternity	Oredo	Edo	6.336	5.605	0	
+NNPC Medical Centre	Oredo	Edo	6.312	5.603	0	
+Globa Medical Clinic	Oredo	Edo	6.342	5.609	0	
+Mercy Eneli Street	Surulere	Lagos	6.499	3.354	1	
+Jatto Memorial Christian College	Oredo	Edo	6.325	5.589	0	
+Ihenhen medical centre	Oredo	Edo	6.326	5.596	0	
+Mekunwen Road	Eti Osa	Lagos	6.446	3.440	1	
+Methodist Church Street	Ikeja	Lagos	6.589	3.364	1	
+Ajisebiara Mecca Street	Alimosho	Lagos	6.594	3.298	1	
+Meridian Drive	Municipal Area Council	FCT Abuja	8.986	7.485	1	
+Mechanic Village Road	Ajaokuta	Kogi	7.547	6.663	1	
+Meknes Street	Municipal Area Council	FCT Abuja	9.067	7.474	1	
+Mercy way	Egor	Edo	6.350	5.574	1	
+Memedu Aremu Street	Surulere	Lagos	6.506	3.346	1	
+Madam Meg Shegbe Otone Street	Eti Osa	Lagos	6.479	3.605	1	
+Chief Meme Otone Road	Eti Osa	Lagos	6.477	3.603	1	
+Meadow Holloway Street	Eti Osa	Lagos	6.434	3.488	1	
+College of Medicine Road	Lagos Mainland	Lagos	6.510	3.396	1	
+Alh Memunat str	Ojo	Lagos	6.453	3.225	1	
+Meiran Road	Alimosho	Lagos	6.636	3.270	1	
+Metronex Road	Uvwie	Delta	5.542	5.780	1	
+Mesharun Street	Warri South	Delta	5.532	5.755	1	
+Mene Street	Warri South	Delta	5.533	5.754	1	
+Metobor Street	Uvwie	Delta	5.535	5.762	1	
+Megafond Street	Ado Odo/Ota	Ogun	6.696	3.267	1	
+Megs Close	Enugu North	Enugu	6.469	7.492	1	
+Meniru	Enugu South	Enugu	6.404	7.492	1	
+Medical Road	Enugu North	Enugu	6.476	7.485	1	
+Coal Camp Medical Centre Road	Enugu South	Enugu	6.418	7.477	1	
+Metro Street	Enugu South	Enugu	6.400	7.504	1	
+Methodist Church Crescent	Enugu East	Enugu	6.480	7.526	1	
+Melina Close	Enugu North	Enugu	6.466	7.488	1	
+Meniru Street	Enugu South	Enugu	6.403	7.494	1	
+Clenz Metals Street	Enugu North	Enugu	6.462	7.547	1	
+Meniru Street	Enugu North	Enugu	6.478	7.478	1	
+Mezinwa Street	Enugu North	Enugu	6.475	7.476	1	
+Meche Link Road	Enugu South	Enugu	6.418	7.479	1	
+Metu Street	Enugu South	Enugu	6.408	7.502	1	
+Mezienwa Street	Enugu North	Enugu	6.473	7.476	1	
+Menkiti Lane	Enugu North	Enugu	6.437	7.493	1	
+First Metrodame Close	Enugu North	Enugu	6.435	7.490	1	
+Menkiti Street	Enugu East	Enugu	6.471	7.524	1	
+Saudat Memorial School Street	Ungongo	Kano	11.971	8.440	1	
+Akilu Memorial Primary Health Centre	Madobi	Kano	11.769	8.288	0	
+Mesaburmi Health Post	Gezawa	Kano	12.146	8.742	0	
+Mesatud Health Post	Gezawa	Kano	12.123	8.722	0	
+Ibukun Awosika Street	Eti Osa	Lagos	6.443	3.525	1	Udeco Medical Road
+Meadow Hall Way	Eti Osa	Lagos	6.429	3.489	1	
+Megamound Avenue	Eti Osa	Lagos	6.439	3.554	1	
+Fed. Medical Center Azare	Katagum	Bauchi	11.673	10.199	0	
+Amana Medical Center	Katagum	Bauchi	11.673	10.183	0	
+Dambaba Medical Center	Ningi	Bauchi	11.063	9.570	0	
+Alpha Mead Crescent	Eti Osa	Lagos	6.468	3.616	1	
+Ghumtukum Medical Centre	Maiduguri	Borno	11.799	13.143	0	
+Melford Okilo Road	Yenegoa	Bayelsa	4.936	6.284	1	
+Oja Oba Ijebu Jesha-Oke Mesi Road	Oriade	Osun	7.684	4.822	1	
+Mercy Street	Ife Central	Osun	7.496	4.545	1	
+Adebayo Alao-Akala Memorial Highway	Ogbomosho North	Oyo	8.136	4.204	1	
+Mehmeh Street	Ika South	Delta	6.251	6.206	1	
+Mercy Clinic Road	Abeokuta South	Ogun	7.131	3.331	1	
+Merret Rd	Shomolu	Lagos	6.516	3.371	1	
+Aswani Mechanic Village	Oshodi/Isolo	Lagos	6.541	3.329	1	
+Zakari Isah Memorial Hospital	Kaduna North	Kaduna	10.509	7.432	0	
+Methodist Boys' High School	Eti Osa	Lagos	6.427	3.435	0	
+Mercy Close	Chikun	Kaduna	10.462	7.438	1	
+Megamby Street	Ibeju Lekki	Lagos	6.479	3.733	1	
+ORE MEJI Street	Ewekoro	Ogun	6.930	3.213	1	
+ORE MEJI Street	Ewekoro	Ogun	6.928	3.215	1	
+mercyland baptist church street	Ogbomosho North	Oyo	8.160	4.249	1	
+Mekunwen Road	Eti Osa	Lagos	6.444	3.435	1	
+Megamound Avenue	Eti Osa	Lagos	6.438	3.563	1	
+Divine Mercy Secondary School	Municipal Area Council	FCT Abuja	9.049	7.511	0	
+Meri Road	Ìkòròdú	Lagos	6.592	3.518	1	
+Adebayo Alao-Akala Memorial Highway	Ogbomosho North	Oyo	8.137	4.229	1	
+Sedenu Mews	Obio/Akpor	Rivers	4.876	6.996	1	
+Udeco Medical Road	Eti Osa	Lagos	6.444	3.527	1	
+Mebilewo	Kosofe	Lagos	6.607	3.386	1	
+Ajaokuta Medical Centre	Ajaokuta	Kogi	7.574	6.639	0	
+Mekuwen Street	Municipal Area Council	FCT Abuja	9.091	7.384	1	
+Okunola Memorial Hall	Ejigbo	Osun	7.908	4.315	0	
+Baptist Medical Center	Saki West	Oyo	8.663	3.400	0	
+UNILAG Medical Centre	Shomolu	Lagos	6.514	3.396	0	
+Methodist Primary School	Ìkòròdú	Lagos	6.554	3.475	0	
+Methodist Primary School	Ìkòròdú	Lagos	6.602	3.588	0	
+Methodist Primary School	Oshodi/Isolo	Lagos	6.556	3.346	0	
+Methodist Primary School	Ìkòròdú	Lagos	6.616	3.567	0	
+St Raphael Divine Mercy Specialist Hospital	Ìkòròdú	Lagos	6.625	3.550	0	
+Methodist Primary School	Ìkòròdú	Lagos	6.597	3.517	0	
+Braithwaite Memorial Hospital	Port-Harcourt	Rivers	4.780	7.013	0	
+Ebute Metta Health Centre	Lagos Mainland	Lagos	6.488	3.385	0	
+Ebute Metta Primary School	Lagos Mainland	Lagos	6.488	3.385	0	
+St. Saviour's School Ebute-Metta	Surulere	Lagos	6.490	3.376	0	
+Methodist Primary School, Agura	Ìkòròdú	Lagos	6.577	3.630	0	
+Methodist Primary School, Gberigbe	Ìkòròdú	Lagos	6.602	3.621	0	
+Mekenge Layout	Calabar Municipal	Cross River	4.966	8.339	1	
+Bakre Disu Oshodi Memorial High School	Agege	Lagos	6.613	3.317	0	
+Excellent Medical Centre	Egor	Edo	6.372	5.635	0	
+Quality Medical Centre	Egor	Edo	6.380	5.631	0	
+Irowa Medical Center	Oredo	Edo	6.321	5.628	0	
+Oretse Medical Centre	Oredo	Edo	6.328	5.612	0	
+Igbinobaro Medical center	Oredo	Edo	6.341	5.610	0	
+Bupa Medical Centre	Oredo	Edo	6.332	5.607	0	
+NAF Medical Centre	Oredo	Edo	6.315	5.607	0	
+Christ Medical Center	Oredo	Edo	6.329	5.627	0	
+Itual Medical centre	Oredo	Edo	6.341	5.596	0	
+Enugu State Medical Diagnostic Centre	Enugu North	Enugu	6.455	7.495	0	
+Apata Memorial Schools	Oshodi/Isolo	Lagos	6.520	3.322	0	
+33 Artillery Brigade Medical Center	Bauchi	Bauchi	10.323	9.816	0	33 AB MC
+Tosin Medical Centre	Ibadan South West	Oyo	7.375	3.894	0	
+ladisa memorial health center	Ibadan North	Oyo	7.448	3.911	0	
+FMC Crechè;Family Medicine Department	Muhammadu Dikko Stadium	Katsina	12.986	7.577	0	
+Melandige Maternity And Child Health Care	Itas/Gadau	Bauchi	11.956	10.213	0	
+ESUT College of Medicine Enugu	Enugu North	Enugu	6.460	7.494	0	
+Federal Medical Center	Katagum	Bauchi	11.673	10.199	0	
+Azab Mega Station	Ìkòròdú	Lagos	6.628	3.512	0	
+Dara Medical Clinic	Municipal Area Council	FCT Abuja	9.035	7.480	0	
+Federal Medical Centre Zowo	Gubio	Borno	12.646	12.740	0	
+Borno Medical Clinic	Maiduguri	Borno	11.853	13.145	0	
+Olive Medical Clinic	Maiduguri	Borno	11.801	13.161	0	
+231 Tank Batallion Nigerian Army Medical Corps	Biu	Borno	10.595	12.193	0	231/331 MRS
+Chrisbo Medical Centre	Lagelu	Oyo	7.435	3.946	0	
+Medison Specialist Women's Hospital	Eti Osa	Lagos	6.428	3.464	0	
+Global Rayfield Medical Center	Port-Harcourt	Rivers	4.790	7.040	0	
+MARANATHA MEDICAL CENTER	Shomolu	Lagos	6.529	3.380	0	
+St. LukeÃ¢Â€Â˜s medical center	Surulere	Lagos	6.498	3.330	0	
+Federal Medical Centre	Surulere	Lagos	6.484	3.381	0	
+Tandem Medical Center	Jos North	Plateau	9.877	8.873	0	
+Diete-Koki Memorial Hospital	Yenegoa	Bayelsa	4.945	6.338	0	
+Gratias Merced Specialist Hospital	Yenegoa	Bayelsa	4.950	6.337	0	
+Shawsand Medical Centre	Obio/Akpor	Rivers	4.859	7.073	0	
+Federal Medical Centre, Umuahia	Umuahia North	Abia	5.519	7.496	0	
+St. Melvin's Hospital	Warri South	Delta	5.510	5.767	0	
+Khadija Memorial Hospital	Toro	Bauchi	10.069	9.132	0	
+De Joseph Medical Convalescent Health Centre	Oshodi/Isolo	Lagos	6.556	3.340	0	
+Melford Okilo Road	Yenegoa	Bayelsa	4.930	6.291	1	
+NNPC Mega Station	Akure South	Ondo	7.285	5.175	0	
+Federal Medical Centre, Nguru	Nguru	Yobe	12.885	10.446	0	
+Potiskum Medical center 5p.m.c	Potiskum	Yobe	11.709	11.086	0	
+Naf Medical Center 79 Cg Maiduguri	Konduga	Borno	11.841	13.072	0	
+Woryabi Memorial Clinicimary	Demsa	Adamawa	9.498	12.143	0	
+Hrh Francis Dire Memorial Clinic Mch Nassarawo Demsa	Numan	Adamawa	9.458	12.044	0	
+Badisya Memorial Nursing Maternity Home Chigari	Fufore	Adamawa	9.071	12.663	0	
+Private Patient Medical Store Filingo	Fufore	Adamawa	9.311	12.892	0	
+Garin Mele Health Post	Nangere	Yobe	11.742	11.147	0	
+Federal Medical Centre	Suru	Kebbi	11.637	4.071	0	
+Meiran Road	Alimosho	Lagos	6.652	3.271	1	
+Abbey Medical Centre	Ajeromi/Ifelodun	Lagos	6.447	3.337	0	
+Medical Center Building	Nsukka	Enugu	6.860	7.413	0	
+MUSA YAR'ADUA MEMORIAL PRIMARY SCHOOL (AMBUTTAI)	Muhammadu Dikko Stadium	Katsina	12.992	7.598	0	
+Meiran Road	Alimosho	Lagos	6.633	3.269	1	
+Medical Center	Enugu South	Enugu	6.424	7.507	0	
+merogun Community	Warri South	Delta	5.498	5.769	2	
+Megamound Avenue	Eti Osa	Lagos	6.439	3.570	1	
+Medina Street	Ìsẹ́yìn	Oyo	7.954	3.595	1	
+Kufang Medical center	Jos North	Plateau	9.864	8.864	0	
+Chief Ndukwe Ukpai Memorial Close	Owerri Municipal	Imo	5.477	6.994	1	
+FEDERAL MEDICAL CENTER, JABI	Municipal Area Council	FCT Abuja	9.016	7.408	0	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.981	3.620	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.019	3.702	1	
+Emmanuel Medical Centre	Egbedore	Osun	7.776	4.528	0	
+ADENIRAN MEMORIAL GRAMMAR SCHOOL	Ogbomosho North	Oyo	8.134	4.212	0	
+H-Medix	Municipal Area Council	FCT Abuja	9.043	7.526	0	
+First Mercy Specialist Hospital	Akure South	Ondo	7.253	5.183	0	
+Meadow Hall School	Eti Osa	Lagos	6.444	3.438	0	
+Mea Mater Elizabeth High School, Orjiagu	Nkanu West	Enugu	6.288	7.557	0	
+Jatto Memorial Christian College	Oredo	Edo	6.325	5.587	0	
+College of Basic Medical and Health Sciences	Konduga	Borno	11.855	12.983	0	
+Ireti Medical Clinic	Akoko South West	Ondo	7.440	5.763	0	
+Paelon Memorial Hospital	Eti Osa	Lagos	6.423	3.415	0	
+Mechanical Engineering Department  / Met & Mat Engineering Department	Kaduna North	Kaduna	10.613	7.442	0	
+School Clinic	Lokoja	Kogi	7.857	6.683	0	Medical Centre
+Toluwani Medical Center	Iwo	Osun	7.647	4.190	0	
+Okougha Uzebba Medical Center	Owan West	Edo	7.003	5.917	0	
+Ijero Bestfield Medical Clinic	Ijero	Ekiti	7.808	5.077	0	
+Medical Emergency	Nnewi North	Anambra	6.000	6.881	0	
+Sir Emeka Offor Medical Ward	Nnewi North	Anambra	5.998	6.880	0	
+Medical Out-Patient Clinic	Nnewi North	Anambra	5.999	6.880	0	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.993	3.642	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.997	3.650	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.002	3.666	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.039	3.767	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.028	3.732	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.031	3.742	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.034	3.752	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.036	3.757	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.049	3.799	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.043	3.780	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.045	3.786	1	
+Adebayo Alao-Akala Memorial Highway	Oyo West	Oyo	8.045	3.788	1	
+Adebayo Alao-Akala Memorial Highway	Atiba	Oyo	8.075	3.847	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.188	4.090	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.154	4.012	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.158	4.014	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.161	4.020	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.165	4.030	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.171	4.045	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.174	4.053	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.182	4.073	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.180	4.117	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.183	4.108	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.006	3.679	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	8.014	3.686	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.172	4.132	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.168	4.141	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.151	4.160	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.146	4.181	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.144	4.185	1	
+Adebayo Alao-Akala Memorial Highway	Ori Ire	Oyo	8.141	4.188	1	
+Adebayo Alao-Akala Memorial Highway	Ìsẹ́yìn	Oyo	7.974	3.604	1	
+Guji Metalari	Borsari	Yobe	12.760	11.678	2	
+Medu	Gagarawa	Jigawa	12.491	9.439	2	
+Dutsin Mari Dul Meru	Koko-Besse	Kebbi	11.199	4.385	2	
+Bagaye Mera	Augie	Kebbi	12.895	4.640	2	
+Meyari	Makarfi	Kaduna	11.291	7.969	2	
+Mekiya	Gabasawa	Kano	12.222	8.897	2	
+Mesar Tudu	Gezawa	Kano	12.121	8.695	2	
+Melendigi	Itas/Gadau	Bauchi	11.926	10.216	2	
+Mezan	Kafin Hausa	Jigawa	12.283	10.172	2	

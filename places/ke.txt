@@ -1,0 +1,341 @@
+Dan Kétou	Madarounfa	Sokoto	13.188	6.796	2	
+Dan Kéché	Madarounfa	Katsina	13.102	7.383	2	
+Kenieba	Borsari	Yobe	12.856	11.242	2	
+Kenu	Baruten	Kwara	9.108	3.112	2	
+Kewo	Boripe	Osun	7.883	4.767	2	Adeshiyan
+Keri	Roni	Jigawa	12.596	8.348	2	
+Kebbe	Kebbe	Sokoto	12.129	4.735	3	
+Kachere	Chikun	Kaduna	10.322	7.217	2	Kecheri
+Ikeinyabiri	Southern Ijaw	Bayelsa	4.719	5.995	2	Keyanbiri
+Kafin Wambai	Lafia	Nasarawa	8.567	8.450	2	Kafin Wamba;Kefin Wombai
+Kaffin-Sanu	Karu	Nasarawa	8.716	7.830	2	Keffin Shanu
+Igbo Kekere	Oyo West	Oyo	8.050	3.750	2	
+Bula Ganna Keisa	Abadam	Borno	13.645	13.292	2	
+Kelling	Shani	Borno	10.309	12.176	2	Kelen
+Ke	Degema	Rivers	4.455	6.915	2	
+Keta Hausawa	Kalgo	Kebbi	12.264	4.011	2	
+Kemugbe	Baruten	Kwara	10.060	3.623	2	
+Kelu	Larmurde	Adamawa	9.437	11.530	2	
+Keffi	Keffi	Nasarawa	8.845	7.877	3	
+Barwati	Kukawa	Borno	12.791	13.674	2	Kekeno
+Kelle	Askira-Uba	Borno	10.694	13.205	2	
+Keffin Moyi	Awe	Nasarawa	8.100	9.267	2	Kafin Mayi
+Keffi	Ringim	Jigawa	12.274	8.968	2	Babushe;Kogin Babushe
+Keffi Sule	Baure	Katsina	12.858	8.775	2	
+Tunga-Dankemo	Wurno	Sokoto	13.261	5.391	2	Dan Kemu
+Ketere Utula	Agwara	Niger	10.690	4.456	2	
+Kerimayo	Bagudo	Kebbi	11.509	4.030	2	
+Ketu	Abeokuta North	Ogun	7.300	3.083	2	
+Keri	Shanga	Kebbi	11.393	4.557	2	
+Kekeno	Kukawa	Borno	12.767	13.700	2	Checheno
+Kefi	Dekina	Kogi	7.550	7.050	2	Keffi
+Ketere	Ori Ire	Oyo	8.550	4.267	2	Birnin Ketake
+Kirenawa	Marte	Borno	12.425	13.937	2	Fage;Krenowa;Keronowa
+Kein Yewu	Toto	Nasarawa	8.090	7.138	2	Kainyehu
+Kabura	Biu	Borno	10.581	12.226	2	Kebura
+Ijale Ketu	Yewa North	Ogun	7.196	2.832	2	
+Keta	Goronyo	Sokoto	13.496	5.877	2	
+Kende	Bagudo	Kebbi	11.526	4.257	2	
+Keya Nungu	Jema'A	Kaduna	9.330	8.063	2	Keya;Kanock Daji
+Keonokpo	Ndokwa East	Delta	5.628	6.593	2	
+Gbure	Obafemi Owode	Ogun	7.083	3.633	2	Kenta
+Kekau	Garki	Jigawa	12.481	8.912	2	Keko
+Ungwan Kesau	Tsafe	Zamfara	12.050	7.064	2	
+Keboko	Degema	Rivers	4.517	6.825	2	
+Kerun	Bukkuyum	Zamfara	11.825	5.508	2	
+Kebu	Wasagu-Danko	Kebbi	11.559	5.226	2	
+Keli	Wasagu-Danko	Kebbi	11.541	5.142	2	
+Kesawa	Konduga	Borno	11.844	12.777	2	
+Kemibiama	Southern Ijaw	Bayelsa	4.795	5.945	2	Kamebiama;Kemibiama;Kamabiama
+Kemdi	Michika	Adamawa	10.504	13.507	2	
+Kemta	Odeda	Ogun	7.250	3.667	2	Ogunbayo
+Kemburawa	Bungudu	Zamfara	12.398	6.608	2	
+Kogin Sarki	Gudu	Sokoto	13.276	4.519	2	Keur Sarki
+Keniki	Suru	Kebbi	11.914	4.086	2	
+Kyeta	Ningi	Bauchi	10.949	8.907	2	Keta
+Kayerda	Lere	Kaduna	10.498	8.594	2	Keyarda
+Ketu	Epe	Lagos	6.636	3.877	2	
+Keffin Larabawa	Zaki	Bauchi	11.937	10.300	2	
+Rafin Kenki	Ningi	Bauchi	11.214	9.406	2	
+Keminini	Nembe	Bayelsa	4.601	6.315	2	
+Kekeria	Sule Tankakar	Jigawa	12.817	9.183	2	
+Ketu Adieowe	Ado Odo/Ota	Ogun	6.600	3.067	2	Ketu
+Ali Kelluri	Abadam	Borno	13.465	12.933	2	Bulturi
+Ketaban	Boki	Cross River	6.257	8.986	2	Ketabor
+Karlaje	Shani	Borno	10.043	12.048	2	Kera Laji
+Kekemeke-Oke	Ese Odo	Ondo	6.320	4.974	2	Keremeke-Oke
+Dutsin Keiwa	Bagudo	Kebbi	10.971	4.420	2	
+Afojupa	Obafemi Owode	Ogun	6.924	3.432	2	Afojupa-Kekere
+Kebokokiri	Degema	Rivers	4.449	6.849	2	
+Okerembete	Ife East	Osun	7.333	4.583	2	Kerembete
+Kere	Shagari	Sokoto	12.493	4.887	2	
+Kerang	Mangu	Plateau	9.342	9.208	2	
+Darge Kessa'a	Abadam	Borno	13.558	13.273	2	Dare Keisa
+Kyanbo	Babura	Jigawa	12.499	8.739	2	Kembo
+Tungan Kembufana	Dandi	Kebbi	11.650	3.807	2	
+Agbono Kekere	Asa	Kwara	8.566	4.390	2	
+Kafin Hausa	Kafin Hausa	Jigawa	12.241	9.913	2	Kaffin-Hausa;Keffin Hausa
+Keffin Madaki	Ganjuwa	Bauchi	10.688	9.762	2	
+Kestu	Shanga	Kebbi	11.421	4.671	2	
+Kemenji	Kaiama	Kwara	9.717	3.917	2	
+Kembu	Akko	Gombe	10.046	11.299	2	
+Kirawa	Gwoza	Borno	11.193	13.909	2	Kerawa;Keraua
+Kenu Boko	Baruten	Kwara	9.097	3.103	2	
+Kellumiri	Bama	Borno	11.573	13.668	2	
+Kyari Keluri	Mobbar	Borno	13.373	12.883	2	Kindil Chiro
+Gidan Karauku	Rafi	Niger	10.267	6.283	2	Keraku;Gidan Karauko
+Kedeme	Demsa	Adamawa	9.450	12.233	2	Kademin
+Tabanni	Musawa	Katsina	12.138	7.856	2	Kekaji
+Kekoke	Gudu	Sokoto	13.602	4.429	2	Kokoki
+Keje-Kaina	Suru	Kebbi	11.894	4.091	2	
+Birnin Kebbi	Birnin Kebbi	Kebbi	12.457	4.201	3	
+BRT Ketu	Kosofe	Lagos	6.598	3.386	0	
+Kenzia Group of School	Oredo	Edo	6.298	5.586	0	
+Ngudowa Bulama Matta Kellu	Mobbar	Borno	13.323	12.764	2	
+Kekasa	Dawakin Kudu	Kano	11.800	8.684	2	
+Kesa Dispensary	Gamawa	Bauchi	11.964	10.698	0	
+Dan Kelluri	Maiduguri	Borno	11.836	13.159	2	
+Foteri Kelasaye	Magumeri	Borno	12.079	12.872	2	
+Kele Yamari	Magumeri	Borno	12.153	12.999	2	
+Usman Kelluri	Magumeri	Borno	12.182	12.956	2	
+Goni Kelluri	Gubio	Borno	12.457	12.581	2	
+Modu Kellori	Gubio	Borno	12.415	12.804	2	
+Bukar Kennari	Nganzai	Borno	12.553	13.143	2	
+Kellu Koriri	Nganzai	Borno	12.546	13.144	2	
+Modu Kelluri	Nganzai	Borno	12.488	13.181	2	
+Kellemari	Nganzai	Borno	12.519	13.188	2	
+Kessa'a	Nganzai	Borno	12.434	13.344	2	
+Ndraw Abatcha Kellu	Nganzai	Borno	12.449	13.203	2	
+Kellu Koriri	Magumeri	Borno	12.251	12.735	2	
+Modu Kelluri	Magumeri	Borno	12.259	12.920	2	
+Kessa Ngala Shuwabe	Nganzai	Borno	12.134	13.270	2	
+Gra Kelluri	Jere	Borno	11.944	13.161	2	
+Kesa Kura Aunari	Jere	Borno	12.006	13.177	2	
+Kesa Kura Dordumti	Jere	Borno	12.003	13.175	2	
+Kessa kura	Jere	Borno	12.001	13.177	2	
+Kellori	Jere	Borno	11.931	13.261	2	
+Kezamari	Jere	Borno	11.968	13.265	2	
+Kelluri	Gubio	Borno	12.596	12.682	2	
+Abba Kelluri	Gubio	Borno	12.683	12.757	2	
+Bukar Kelluri	Gubio	Borno	12.652	12.739	2	
+Ken'nari	Nganzai	Borno	12.562	12.982	2	
+Kendamari	Nganzai	Borno	12.577	13.083	2	
+Kerari	Nganzai	Borno	12.564	13.130	2	
+Kyari Kellu	Nganzai	Borno	12.579	13.088	2	
+Sullum Kellu	Nganzai	Borno	12.569	13.153	2	
+Bulama Abba Kelluri	Gubio	Borno	12.863	12.784	2	
+Goni Kelluri	Gubio	Borno	12.790	12.726	2	
+Bukar Kelluri	Gubio	Borno	12.559	12.515	2	
+Kelluri	Gubio	Borno	12.675	12.593	2	
+Kere	Shani	Borno	10.222	11.776	2	
+Bulama Mallum Kellumi	Nganzai	Borno	12.627	13.317	2	
+Kanumburi Kyari Keluri	Nganzai	Borno	12.697	13.187	2	
+Kyari Kelluri	Nganzai	Borno	12.722	13.237	2	
+Mallam Abbatchari	Nganzai	Borno	12.724	13.236	2	Kyari Kelluri
+Mallam Kellumeri	Nganzai	Borno	12.625	13.307	2	
+Mallum Kellumi	Nganzai	Borno	12.619	13.315	2	
+Modu kelluri	Nganzai	Borno	12.620	13.193	2	
+Goni Kemiri	Magumeri	Borno	11.949	12.974	2	
+Kelewele	Shani	Borno	10.088	11.903	2	
+Kelea B	Magumeri	Borno	12.033	12.527	2	
+Kelewa	Magumeri	Borno	12.031	12.527	2	
+Masho B Kellu	Mobbar	Borno	12.848	12.460	2	
+Kelling Bulama Goni	Shani	Borno	10.306	12.173	2	
+Kelling Hamidu Iliya	Shani	Borno	10.309	12.177	2	
+Kelling Mai Angwa Kongo	Shani	Borno	10.309	12.175	2	
+Kachalla Kelluri	Mobbar	Borno	13.240	12.573	2	
+Kesangisiriya	Abadam	Borno	13.475	12.966	2	
+Bararam Kura	Bama	Borno	11.496	13.652	2	Kelluri
+Keljos and Philnas filling Station	Ughelli North	Delta	5.504	6.020	0	
+Dassa Kelluri 2	Monguno	Borno	12.581	13.601	2	
+Kenza Yakku	Kukawa	Borno	12.928	13.577	2	
+Modu Kelluri	Guzamala	Borno	12.806	13.190	2	
+Keleno Bulama Modu	Guzamala	Borno	12.754	13.403	2	
+Keleno Bulama Modu	Guzamala	Borno	12.742	13.381	2	
+Kelono Modu Arimami	Guzamala	Borno	12.748	13.372	2	
+Kenza Yakku Mallam Tujari	Guzamala	Borno	12.689	13.383	2	
+Ya Anari Modu Kellu	Guzamala	Borno	12.715	13.345	2	
+Modu Kelluri	Nganzai	Borno	12.742	13.245	2	
+Kenza Yakku Modu Kodumuri	Guzamala	Borno	12.698	13.382	2	
+Kelluri	Guzamala	Borno	12.693	13.456	2	
+Kelesua	Guzamala	Borno	12.916	13.072	2	
+Kenza Yakku Bul	Guzamala	Borno	12.685	13.384	2	
+Kelliyamari	Konduga	Borno	11.684	12.948	2	
+Kefe Academy	Warri South	Delta	5.532	5.755	0	
+Kez Clinic	Obio/Akpor	Rivers	4.834	7.028	0	
+Kelmawa	Illela	Sokoto	13.493	5.435	2	
+Kiluje	Bodinga	Sokoto	12.655	5.324	2	Keloji
+Birnin Kebbi North	Birnin Kebbi	Kebbi	12.467	4.203	2	
+Birnin Kebbi east	Birnin Kebbi	Kebbi	12.447	4.202	2	
+Birnin Kebbi south	Birnin Kebbi	Kebbi	12.454	4.198	2	
+Kessa Kura Refugee Site	Jere	Borno	11.919	13.193	0	
+Kyarana	Kiru	Kano	11.580	8.143	2	Kerana
+Keba	Dawakin Tofa	Kano	12.110	8.308	2	
+Keba	Dawakin Tofa	Kano	12.155	8.323	2	
+Butalawa Keso	Kura	Kano	11.793	8.428	2	
+Gagarawa	Gabasawa	Kano	12.229	8.929	2	Gagarawa;Kerihi
+Keware	Dawakin Tofa	Kano	12.247	8.497	2	
+Kera	Ungongo	Kano	12.084	8.515	2	
+Ketawa	Gezawa	Kano	12.069	8.751	2	Maraya Kattawa
+Gachi Kedi	Wudil	Kano	11.807	8.870	2	
+Martin Luther Agwai International Peace Keeping Centre	Igabi	Kaduna	10.811	7.544	0	
+Kedemure Primary Health Center	Demsa	Adamawa	9.333	12.002	0	
+Ang. Church Primary School Keto Mosimi	Ado Odo/Ota	Ogun	6.691	3.236	0	
+Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.690	3.238	0	
+Local Government. School Ketu Adie Owe	Ado Odo/Ota	Ogun	6.604	3.067	0	
+-Kenyatta Market	Enugu South	Enugu	6.423	7.494	0	
+Kenan-Irri	Sagbama	Bayelsa	5.303	6.402	2	
+Kemerun	Ndokwa East	Delta	5.931	6.613	2	
+General Hospital No2 Kkb Sarki Street Keke B	Chikun	Kaduna	10.559	7.494	0	
+General Hospital Kaduna Keke B Main Township Road	Chikun	Kaduna	10.556	7.494	0	
+Ketu Medical Clinic	Ojo	Lagos	6.487	3.153	0	
+Kena Hospital	Ojo	Lagos	6.466	3.183	0	
+Kemberi Primary Health Center	Ojo	Lagos	6.467	3.187	0	
+Ketu Health Centre	Ado Odo/Ota	Ogun	6.599	3.072	0	
+Kent Hospital	Alimosho	Lagos	6.563	3.251	0	
+Kexpress Clinic	Amuwo Odofin	Lagos	6.456	3.261	0	
+RIMIN KEBE SPECIALI PRIMARY SCHOOL	Ungongo	Kano	12.046	8.570	0	
+Keny Armani	Oshimili North	Delta	6.210	6.671	0	
+Sadi Kemil	Municipal Area Council	FCT Abuja	8.987	7.393	0	
+Keremo	Burutu	Delta	5.404	5.471	2	
+Agboyi Ketu	Kosofe	Lagos	6.583	3.408	0	
+Kelintadeni	Madaoua	Sokoto	13.751	5.889	2	
+Kesun Badara	Kirfi	Bauchi	10.338	10.364	2	
+Thomas Kent Academy	Bauchi	Bauchi	10.266	9.796	0	
+Kenyatta Market	Enugu South	Enugu	6.423	7.498	0	
+Kemberi	Ojo	Lagos	6.469	3.180	2	
+Gbuduwyi Keke Junction	Municipal Area Council	FCT Abuja	8.960	7.433	0	
+Keke Junction, Durumi 2	Municipal Area Council	FCT Abuja	9.009	7.468	0	
+Last Keke Napep Bus Stop	Municipal Area Council	FCT Abuja	8.997	7.467	0	
+Ketu	Kosofe	Lagos	6.593	3.392	3	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.050	7.527	1	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.050	7.523	1	
+Jomo Kenyatta Street	Municipal Area Council	FCT Abuja	9.046	7.527	1	
+Keffi Street	Eti Osa	Lagos	6.446	3.415	1	
+Buraimoh Kenku Street	Eti Osa	Lagos	6.430	3.428	1	
+Pulka Bokko - Kerawa Road	Gwoza	Borno	11.210	13.793	1	
+Kenya Road	Kaduna North	Kaduna	10.561	7.473	1	
+Keffi Road	Kaduna North	Kaduna	10.507	7.429	1	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.043	7.539	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	8.993	7.675	1	
+Abuja-Keffi Expressway	Keffi	Nasarawa	8.867	7.791	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	8.916	7.708	1	
+Kernel Street	Surulere	Lagos	6.487	3.351	1	
+Keystone Bank Crescent	Eti Osa	Lagos	6.434	3.425	1	
+Emmanuel Keshi	Kosofe	Lagos	6.619	3.378	1	
+Kebbi Street	Eti Osa	Lagos	6.466	3.424	1	
+Kenneth Agbakaru Street	Eti Osa	Lagos	6.441	3.460	1	
+Tayo Kehinde Close	Alimosho	Lagos	6.593	3.295	1	
+Birnin Kebbi Street	Municipal Area Council	FCT Abuja	9.024	7.484	1	
+J.F. Kennedy Street	Municipal Area Council	FCT Abuja	9.050	7.515	1	
+Bernin Kebbi Crescent	Municipal Area Council	FCT Abuja	9.025	7.482	1	
+Olushola Keku Street	Surulere	Lagos	6.508	3.342	1	
+Pulka Bokko - Kerawa Road	Gwoza	Borno	11.198	13.902	1	
+Bishop Kelly Lane	Oredo	Edo	6.326	5.614	1	
+Keffi to Kachia Road	Keffi	Nasarawa	8.874	7.873	1	
+Kehinde Etaoko Street	Amuwo Odofin	Lagos	6.446	3.265	1	
+Kelani Lane	Surulere	Lagos	6.509	3.366	1	
+Kelani Street	Agege	Lagos	6.617	3.309	1	
+Kenneth Dike Way	Ibadan North	Oyo	7.440	3.907	1	
+Kenneth Dike Way	Ibadan North	Oyo	7.431	3.913	1	
+Sir Ken Nnamdi Drive	Enugu South	Enugu	6.420	7.520	1	
+Kenneth Road	Enugu South	Enugu	6.405	7.498	1	
+Sir Ken Nnamani Drive	Enugu South	Enugu	6.419	7.518	1	
+Keep Right	Enugu North	Enugu	6.465	7.525	1	
+Ade Kelvins Street	Enugu East	Enugu	6.472	7.595	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	8.912	7.714	1	
+Kevin Ogbonna Close	Enugu North	Enugu	6.469	7.478	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	9.018	7.612	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	9.028	7.598	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	9.014	7.629	1	
+Abuja-Keffi Expressway	Karu	Nasarawa	8.916	7.699	1	
+East Kenwood Street	Alimosho	Lagos	6.505	3.268	1	
+Gachi Kedi Health Post	Wudil	Kano	11.802	8.869	0	
+Ketawa H.P Health Post	Gezawa	Kano	12.068	8.751	0	
+Keffi to Kachia Road	Kagarko	Kaduna	9.468	7.940	1	
+Keffi to Kachia Road	Karu	Nasarawa	9.248	8.034	1	
+Nassarawa to Keffi Road	Keffi	Nasarawa	8.807	7.861	1	
+Fameshe Kehinde Street	Eti Osa	Lagos	6.429	3.495	1	
+Kenneth Odidika Close	Eti Osa	Lagos	6.436	3.514	1	
+Kessington Oribhabor Street	Eti Osa	Lagos	6.424	3.521	1	
+Kemi Durosinmi Etti Street	Eti Osa	Lagos	6.452	3.580	1	
+Keffi to Kachia Road	Kokona	Nasarawa	8.912	7.886	1	
+Keffi to Kachia Road	Karu	Nasarawa	9.155	7.950	1	
+Kemi Amusa Street	Ibeju Lekki	Lagos	6.478	3.731	1	
+Ken Narebor Street	Ibeju Lekki	Lagos	6.477	3.721	1	
+Keji Olajide Street	Eti Osa	Lagos	6.475	3.656	1	
+Jomo Kenyatta Road	Eti Osa	Lagos	6.468	3.648	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.741	7.966	1	
+W/KESA-M/INNA ROAD	Gombe	Gombe	10.309	11.175	1	
+Kehinde Street	Alimosho	Lagos	6.656	3.279	1	
+Kessangarola Health Post	Nganzai	Borno	12.136	13.268	0	
+Ketu Street	Surulere	Lagos	6.489	3.341	1	
+Adisa Lawal Keshinro Street	Eti Osa	Lagos	6.466	3.584	1	
+Kelani Street	Ifo	Ogun	6.685	3.307	1	
+Kehinde Aina Street	Ìkòròdú	Lagos	6.651	3.513	1	
+Kekeno Non Government IDP Camp	Jere	Borno	11.782	13.139	1	
+Oyekan Keye Road	Alimosho	Lagos	6.587	3.307	1	
+Emmanuel Keshi Street	Kosofe	Lagos	6.619	3.382	1	
+Kelubia Lane	Uvwie	Delta	5.564	5.777	1	
+KEHINDE AVENUE	Oredo	Edo	6.288	5.572	1	
+jalan kecil	Ungongo	Kano	12.040	8.461	1	
+Kemka Nwabiani Lane	Eti Osa	Lagos	6.474	3.564	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.852	7.972	1	
+Kenneth Dike Way	Ibadan North	Oyo	7.415	3.911	1	
+Kenneth Dike Way	Ibadan North	Oyo	7.411	3.912	1	
+Kez Udezue Street	Municipal Area Council	FCT Abuja	9.091	7.457	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.801	7.968	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.839	7.968	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.828	7.968	1	
+Keffi to Kachia Road	Jaba	Kaduna	9.345	8.032	1	
+Keffi to Kachia Road	Jema'A	Kaduna	9.323	8.033	1	
+Keffi to Kachia Road	Jaba	Kaduna	9.369	8.030	1	
+Keffi to Kachia Road	Jema'A	Kaduna	9.287	8.046	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.673	7.954	1	
+Keffi to Kachia Road	Karu	Nasarawa	9.050	7.928	1	
+Keffi to Kachia Road	Karu	Nasarawa	8.974	7.895	1	
+Keffi to Kachia Road	Kokona	Nasarawa	8.900	7.884	1	
+Keffi to Kachia Road	Kokona	Nasarawa	8.892	7.880	1	
+Kenyatta Street	Enugu South	Enugu	6.423	7.498	1	
+Alh. Jamiu Kebe Str	Alimosho	Lagos	6.533	3.269	1	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.029	7.584	1	
+Ketu Market	Kosofe	Lagos	6.596	3.384	0	
+Nassarawa to Keffi Road	Karu	Nasarawa	8.731	7.834	1	
+Nassarawa to Keffi Road	Nasarawa	Nasarawa	8.653	7.799	1	
+Keme Balogun College	Ìkòròdú	Lagos	6.556	3.476	0	
+Kemfat Street	Eti Osa	Lagos	6.470	3.575	1	
+PHC kekkel	Billiri	Gombe	9.888	11.227	0	
+Kekeno Health Center	Gamawa	Bauchi	12.174	10.652	0	
+Kesowo Primary Health Care	Jama'Are	Bauchi	11.614	9.872	0	
+Kedemure Health Post	Demsa	Adamawa	9.332	12.003	0	
+Kerau Health Post	Guyuk	Adamawa	9.687	11.900	0	
+Garin Keri Dispensary	Nangere	Yobe	11.871	10.987	0	
+Mhc Kelluri	Geidam	Yobe	12.858	11.789	0	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.028	7.551	1	
+Raji Kehinde Alfa-Oja Street	Asa	Kwara	8.479	4.482	1	
+Agboyi Nursery/ Primary School, Alakpere Ketu	Kosofe	Lagos	6.578	3.410	0	
+Keffi Street	Eti Osa	Lagos	6.442	3.415	1	
+Kehinde Etaoko Street	Amuwo Odofin	Lagos	6.445	3.260	1	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.022	7.564	1	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.021	7.566	1	
+Abuja-Keffi Expressway	Municipal Area Council	FCT Abuja	9.025	7.575	1	
+Kenyi Secondary School	Kagarko	Kaduna	9.553	7.933	0	
+Kenyi Health Centre	Kagarko	Kaduna	9.542	7.924	0	
+New Kenyatta	Enugu South	Enugu	6.423	7.541	0	
+Nassarawa to Keffi Road	Nasarawa	Nasarawa	8.554	7.718	1	
+Nassarawa to Keffi Road	Nasarawa	Nasarawa	8.559	7.722	1	
+Ken Alli Close	Eti Osa	Lagos	6.473	3.571	1	
+Keta	Tsafe	Zamfara	11.852	6.736	2	
+Kebbe East	Kebbe	Sokoto	12.120	4.763	2	
+Kebbe West	Kebbe	Sokoto	12.120	4.682	2	
+Kende Kurgu	Bagudo	Kebbi	11.518	4.279	2	
+Kebbe	Kebbe	Sokoto	11.886	4.744	2	
+Birnin Kebbi	Birnin Kebbi	Kebbi	12.473	4.269	2	
+Gwanfi Kele	Wasagu-Danko	Kebbi	11.638	5.204	2	
+Kerawa	Igabi	Kaduna	10.957	7.466	2	
+Ketawa	Gezawa	Kano	12.061	8.754	2	
+Ketare	Kankara	Katsina	11.906	7.575	2	
+Keffi	Keffi	Nasarawa	8.836	7.834	2	
+Keana	Keana	Nasarawa	8.173	8.756	2	
+Kessa'A	Abadam	Borno	13.675	13.466	2	
+Kekeno	Kukawa	Borno	12.827	13.775	2	

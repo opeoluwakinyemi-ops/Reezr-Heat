@@ -1,0 +1,1107 @@
+Port Harcourt	Port-Harcourt	Rivers	4.768	7.019	3	
+Potiskum	Potiskum	Yobe	11.712	11.076	3	
+West Point	Bonny	Rivers	4.563	7.060	2	
+East Point	Bonny	Rivers	4.569	7.071	2	
+North Point	Bonny	Rivers	4.574	7.066	2	
+Bell Point	Bonny	Rivers	4.566	7.052	2	
+Winstanley Head	Bonny	Rivers	4.535	7.234	2	Winstanley Point
+Percival Point	Degema	Rivers	4.600	6.999	2	
+Palm Point	Brass	Bayelsa	4.270	6.086	2	
+Field Point	Bonny	Rivers	4.383	7.134	2	
+MacDonald Point	Warri South	Delta	5.548	5.634	2	
+Epupu	Asa	Kwara	8.417	4.350	2	Popo
+Burasana Potolo	Warri North	Delta	6.108	5.222	2	Potolo
+Major Porter	Barkin Ladi	Plateau	9.447	8.935	2	
+Pono	Bayo	Borno	10.343	11.763	2	Porno
+Pwosra	Hawul	Borno	10.418	12.193	2	Posura
+Unguwar Tsofo Pada	Maru	Zamfara	11.501	6.545	2	Ungwan Tsofo Poda
+Egwema	Brass	Bayelsa	4.306	6.191	3	Egwema Pogu
+Poros	Bayo	Borno	10.533	11.634	2	
+Pontela	Ogo Oluwa	Oyo	7.917	4.167	2	Pawntola
+Anguwar Sarkin Yaki Polchi	Tafawa-Balewa	Bauchi	10.149	9.610	2	Sarkin Yaki Polchi
+Poso	Ife North	Osun	7.300	4.483	2	
+Pongel	Mubi North	Adamawa	10.367	13.211	2	
+Pokoto	Yewa North	Ogun	6.900	2.967	2	
+Poka	Epe	Lagos	6.621	3.983	2	
+Gidan Pore	Binji	Sokoto	13.290	4.891	2	
+Podo	Oluyole	Oyo	7.315	3.870	2	Ipodo
+Polaku	Yenegoa	Bayelsa	5.032	6.282	2	
+Pompomari	Biu	Borno	10.721	12.159	2	
+Potogri	Irele	Ondo	6.366	5.027	2	Egwe Inana
+Polanji	Silame	Sokoto	13.071	4.816	2	Falanje
+Manawaji Potiskum	Fika	Yobe	11.444	11.520	2	
+Pongno	Demsa	Adamawa	9.633	12.233	2	Pounou
+Polobugo	Southern Ijaw	Bayelsa	4.684	6.118	2	Polobogo
+Bula-Pogu	Askira-Uba	Borno	10.650	13.044	2	
+Port Harcourt Station	Port-Harcourt	Rivers	4.765	7.016	0	
+Forum of Nigerian Women in Politice	Oredo	Edo	6.334	5.628	0	
+South Point Royal School	Oredo	Edo	6.323	5.613	0	
+Polytechnic	Ibadan North	Oyo	7.439	3.880	2	
+Dayaso Health Post	Rogo	Kano	11.516	7.736	0	
+Ruwan Bago Health Post	Rogo	Kano	11.407	7.758	0	
+Sundu Health Post	Rogo	Kano	11.381	7.761	0	
+Tudun Magaji Health Post	Rogo	Kano	11.453	7.782	0	
+Unguwar Liman Health Post	Rogo	Kano	11.405	7.744	0	
+Unguwar Malam Amadu Health Post	Rogo	Kano	11.493	7.772	0	
+Kaleku Health Post	Rogo	Kano	11.625	7.883	0	
+Karshi Health Post	Rogo	Kano	11.541	7.826	0	
+Kauyen Liman Health Post	Rogo	Kano	11.543	7.821	0	
+Tsohuwar Rogo Health Post	Rogo	Kano	11.575	7.800	0	
+Zoza Health Post	Rogo	Kano	11.627	7.872	0	
+Ba'Awa Health Post	Kiru	Kano	11.598	7.987	0	
+Maska Health Post	Kiru	Kano	11.595	8.081	0	
+Sagondare Health Post	Rogo	Kano	11.480	7.955	0	
+Dalal Health Post	Gwarzo	Kano	11.835	7.949	0	
+Dambazau Health Post	Karaye	Kano	11.812	8.029	0	
+Daura Health Post	Karaye	Kano	11.726	7.983	0	
+Dederi Health Post	Karaye	Kano	11.844	8.057	0	
+Dutsan Amare Health Post	Karaye	Kano	11.827	7.991	0	
+Kadafa Health Post	Karaye	Kano	11.799	7.941	0	
+Kurugu Health Post	Karaye	Kano	11.833	8.040	0	
+Sabon Fegi Health Post	Karaye	Kano	11.806	8.064	0	
+Sabon Layin Kara Health Post	Gwarzo	Kano	11.825	7.933	0	
+Tudun Kaya Health Post	Karaye	Kano	11.733	7.931	0	
+Tumfafi Health Post	Gwarzo	Kano	11.838	8.022	0	
+Unguwar Tofa Health Post	Karaye	Kano	11.786	7.960	0	
+Zangun Majema Health Post	Karaye	Kano	11.816	8.002	0	
+Dokar Sati Health Post	Doguwa	Kano	10.729	8.619	0	
+Mekwandira Health Post	Doguwa	Kano	10.809	8.630	0	
+Achilafiya Health Post	Kiru	Kano	11.748	8.139	0	
+Alhazawa Health Post	Kiru	Kano	11.709	8.167	0	
+Bargoni Health Post	Kiru	Kano	11.719	8.105	0	
+Baskore Health Post	Kabo	Kano	11.843	8.148	0	
+Dashi Health Post	Kiru	Kano	11.717	8.227	0	
+Gazan Health Post	Kiru	Kano	11.711	8.197	0	
+Husama Health Post	Karaye	Kano	11.788	8.113	0	
+Kafin Dabga Health Post	Karaye	Kano	11.832	8.123	0	
+Kailani Health Post	Kiru	Kano	11.730	8.182	0	
+Kanwa Health Post	Kabo	Kano	11.826	8.150	0	
+Kauyen Mahuta Health Post	Kabo	Kano	11.866	8.154	0	
+Malan Gajere Health Post	Kabo	Kano	11.860	8.192	0	
+Masanawa Health Post	Kabo	Kano	11.847	8.243	0	
+Unguwar Turaki Health Post	Kabo	Kano	11.820	8.231	0	
+Walawa Health Post	Kabo	Kano	11.786	8.223	0	
+Zuwo Health Post	Kiru	Kano	11.750	8.206	0	
+Bauda Health Post	Kiru	Kano	11.589	8.190	0	
+Durmawa Health Post	Bebeji	Kano	11.605	8.258	0	
+Gwarmai Health Post	Bebeji	Kano	11.533	8.255	0	
+Maraku Health Post	Kiru	Kano	11.677	8.129	0	
+Tsaudawa Health Post	Kiru	Kano	11.681	8.203	0	
+Badafi Health Post	Kiru	Kano	11.373	8.169	0	
+Gajale Health Post	Kiru	Kano	11.434	8.237	0	
+Hayin Gwarmai Health Post	Bebeji	Kano	11.460	8.204	0	
+Yalwa Health Post	Kiru	Kano	11.486	8.187	0	
+Maganda Health Post	Doguwa	Kano	10.640	8.759	0	
+Rufai Health Post	Doguwa	Kano	10.639	8.647	0	
+Yalwan Dan Musa Health Post	Doguwa	Kano	10.576	8.716	0	
+Badari Health Post	Gwarzo	Kano	11.803	7.894	0	
+Dan Gayaki Health Post	Karaye	Kano	11.725	7.903	0	
+Gurawa Health Post	Karaye	Kano	11.768	7.888	0	
+Malamawa Health Post	Gwarzo	Kano	11.835	7.860	0	
+Bankaura Health Post	Bichi	Kano	12.271	8.381	0	
+Belli Health Post	Bichi	Kano	12.312	8.285	0	
+Bum-Bum Health Post	Bichi	Kano	12.249	8.397	0	
+Daddo Health Post	Bichi	Kano	12.300	8.335	0	
+Damfamin Tofa Health Post	Dawakin Tofa	Kano	12.223	8.428	0	
+Gawon Bature Health Post	Bichi	Kano	12.263	8.419	0	
+Jinjimawa Health Post	Bichi	Kano	12.331	8.274	0	
+Jodade Health Post	Kunchi	Kano	12.372	8.306	0	
+Kawaji Health Post	Bichi	Kano	12.232	8.333	0	
+Kirya Health Post	Dawakin Tofa	Kano	12.213	8.389	0	
+Kwamarawa Health Post	Bichi	Kano	12.330	8.390	0	
+Tinki Health Post	Bichi	Kano	12.303	8.393	0	
+Tofawa Health Post	Kunchi	Kano	12.347	8.329	0	
+Tukuibi Health Post	Bichi	Kano	12.268	8.342	0	
+Yanbundu Health Post	Bichi	Kano	12.269	8.293	0	
+Yola Health Post	Bichi	Kano	12.244	8.288	0	
+Zangon Mata Health Post	Dawakin Tofa	Kano	12.233	8.414	0	
+Damisa Health Post	Bichi	Kano	12.309	8.216	0	
+Farsa Health Post	Tsanyawa	Kano	12.382	8.101	0	
+Gidan Nisau Health Post	Kunchi	Kano	12.358	8.193	0	
+Hagawa Health Post	Bichi	Kano	12.255	8.169	0	
+Karari Health Post	Bichi	Kano	12.243	8.174	0	
+Lamba Health Post	Bichi	Kano	12.340	8.148	0	
+Malikawa Sarari Health Post	Bichi	Kano	12.380	8.148	0	
+Rimaye Health Post	Bichi	Kano	12.267	8.201	0	
+Tatsan Health Post	Tsanyawa	Kano	12.289	8.093	0	
+Tsidau Health Post	Bichi	Kano	12.300	8.149	0	
+Waire Health Post	Bichi	Kano	12.345	8.221	0	
+Yangwarzo Health Post	Bichi	Kano	12.274	8.156	0	
+Kokai Health Post	Tsanyawa	Kano	12.219	8.022	0	
+Yanmamman Health Post	Tsanyawa	Kano	12.262	8.041	0	
+Gwarabjawa Health Post	Dambatta	Kano	12.448	8.542	0	
+Mazan Gudu Health Post	Gabasawa	Kano	12.195	8.907	0	
+Police Barrack	Nassarawa	Kano	12.018	8.556	2	
+Police Barrack	Fagge	Kano	12.020	8.522	2	
+Bojos Dispensary	Alkaleri	Bauchi	10.271	10.333	0	Kunzun Health Post
+Yoyo Pompoma	Monguno	Borno	12.712	13.637	2	
+Filin Jirgi	Biu	Borno	10.582	12.208	2	Pompomari
+Bulama Pole	Shani	Borno	10.265	11.808	2	
+Anguwan Police Station Sobo	Shani	Borno	10.235	12.046	2	
+Mobile Police Barack	Maiduguri	Borno	11.828	13.127	2	
+Side Poket	Jere	Borno	11.826	13.188	2	
+Billa Dawa Pogu	Chibok	Borno	10.814	12.990	2	
+Ndanga Bila Pogu	Chibok	Borno	10.819	12.867	2	
+Kareji Health Post	Shani	Borno	10.036	11.860	0	
+Pilak Health Post Kombo Shani	Shani	Borno	10.064	11.832	0	
+Pono Chillawa	Bayo	Borno	10.359	11.754	2	
+Pono Kanombiri	Bayo	Borno	10.338	11.744	2	
+Pono Machido	Bayo	Borno	10.346	11.748	2	
+Pono jauro	Bayo	Borno	10.359	11.749	2	
+Pompomari Primary Health Centre	Konduga	Borno	11.837	13.066	0	
+Police Barracks	Damboa	Borno	11.162	12.764	2	
+Darajamal Health Post Clinic	Bama	Borno	11.324	13.971	0	
+Nuhu Bamalli Polytechnic Zaria	Zaria	Kaduna	11.037	7.674	0	
+Poplat filling station	Ile Oluji/Okeigbo	Ondo	7.166	4.728	0	
+The Federal Polytechnic	Yewa South	Ogun	6.892	2.983	0	
+Anikantamo Health Post	Lagos Island	Lagos	6.458	3.394	0	
+Oke Ari Health Post	Lagos Island	Lagos	6.460	3.385	0	
+point five wuro yolde, Gombe Div.	Kwami	Gombe	10.338	11.185	2	
+point two Yellewangurza, Gona Div	Gombe	Gombe	10.269	11.190	2	
+point five Gidim Dona Div.	Yamaltu/Deba	Gombe	10.280	11.219	2	
+point seven Pandaya 1 Gona Div.	Yamaltu/Deba	Gombe	10.200	11.237	2	
+point eight Barunde Gona Div.	Akko	Gombe	10.258	11.185	2	
+point nine Dubai Quarters Gona Div.	Akko	Gombe	10.256	11.183	2	
+point ten Bomala Gona Div.	Gombe	Gombe	10.256	11.168	2	
+point twelve Wuro Juli, Gona Div.	Akko	Gombe	10.263	11.138	2	
+crown polytechnic	Adó-Èkìtì	Ekiti	7.613	5.130	0	
+Point 3 Pantami Division	Akko	Gombe	10.275	11.124	2	
+Powell School	Uvwie	Delta	5.566	5.781	0	
+POHP Physiotherapy Clinic	Uvwie	Delta	5.536	5.760	0	
+Captain Amadi Polytecnic	Obio/Akpor	Rivers	4.835	6.995	0	
+Delta State Polytechnic, Ogwashi-Uku	Aniocha South	Delta	6.225	6.571	0	
+School of Postgraduate Studies FUD	Dutse	Jigawa	11.727	9.363	0	
+School of Post graduate studies	Gombe	Gombe	10.306	11.172	0	
+Politcal Science Department	Gombe	Gombe	10.306	11.175	0	
+Liquid power filling station BCJ	Gombe	Gombe	10.278	11.199	0	
+Police Barrack	Wudil	Kano	11.793	8.845	2	
+Lugge Health Post	Darazo	Bauchi	10.962	10.348	0	
+Wushi H Post	Ganjuwa	Bauchi	10.730	9.607	0	
+Police Clinic	Sokoto South	Sokoto	13.033	5.247	0	
+General Hospital Potiskum	Nangere	Yobe	11.722	10.991	0	
+tinyema heath post	Fufore	Adamawa	8.767	12.449	0	
+gangnai heath post	Jada	Adamawa	8.752	12.091	0	
+Polytechnic Clinic	Kaura Namoda	Zamfara	12.637	6.585	0	
+komsiri heath post	Jada	Adamawa	8.722	12.056	0	
+Mbangan tiren heath post	Jada	Adamawa	8.704	11.999	0	
+polo dispensary	Jada	Adamawa	8.673	12.036	0	
+timkola heath post	Jada	Adamawa	8.641	12.161	0	
+boro heath post	Jada	Adamawa	8.643	12.108	0	
+dashen heath post	Jada	Adamawa	8.577	12.133	0	
+duna heath post	Ganye	Adamawa	8.446	12.295	0	
+Tashan Gurgu Health Post	Demsa	Adamawa	9.338	11.863	0	
+Tashan Gurugu Health Post	Demsa	Adamawa	9.338	11.862	0	
+Ngungwaling Health Post	Demsa	Adamawa	9.509	12.212	0	
+NGbobenge heath post	Larmurde	Adamawa	9.659	11.820	0	
+bunary heath post	Larmurde	Adamawa	9.483	11.474	0	
+Gwei heath post	Larmurde	Adamawa	9.537	11.632	0	
+Lupanga Health Post	Demsa	Adamawa	9.287	11.991	0	
+maitunku primary heath post	Larmurde	Adamawa	9.604	11.519	0	
+Wuro Bakumbo Health Post	Demsa	Adamawa	9.308	12.024	0	
+diriff heath post	Madagali	Adamawa	10.819	13.639	0	
+sukur settlement heath post	Madagali	Adamawa	10.880	13.609	0	
+Dzakwa Health Post	Askira-Uba	Borno	10.460	13.163	0	
+Health Post Uba Dispensary	Askira-Uba	Borno	10.454	13.206	0	
+kaya primary heath post	Madagali	Adamawa	10.817	13.421	0	
+dagali heath post	Madagali	Adamawa	10.788	13.462	0	
+wuro gayadi primary heath post	Michika	Adamawa	10.713	13.389	0	
+gazama heath post	Madagali	Adamawa	10.728	13.513	0	
+kurang heath post	Madagali	Adamawa	10.713	13.592	0	
+sukur sama heath post	Madagali	Adamawa	10.742	13.584	0	
+gori heath post	Madagali	Adamawa	10.940	13.634	0	
+kilange heath post	Maiha	Adamawa	10.171	13.124	0	
+jalingo buhu heath post	Maiha	Adamawa	10.040	13.157	0	
+Ba Umshe Health Post	Fufore	Adamawa	9.366	12.696	0	
+Safatawa Health Post	Fufore	Adamawa	9.029	12.394	0	
+Tawa Health Post	Fufore	Adamawa	9.002	12.401	0	
+Timkolba Health Post	Ganye	Adamawa	8.324	11.977	0	
+Mbalwaha Health Post	Hong	Adamawa	10.330	12.945	0	
+Daksiri Health Post	Hong	Adamawa	10.144	12.926	0	
+Health Post Tasha Tiding	Hong	Adamawa	10.135	12.965	0	
+Health Post Mothol	Hong	Adamawa	10.135	12.932	0	
+Health Post Zugwagunli Uding	Hong	Adamawa	10.149	12.905	0	
+Mbolinyi Health Post	Hong	Adamawa	10.097	12.954	0	
+Garaha Larh Health Post	Hong	Adamawa	10.410	12.848	0	
+Garaha Dutse Health Post	Hong	Adamawa	10.399	12.887	0	
+Davan Health Post	Ganye	Adamawa	8.422	11.989	0	
+Federal Polytechnic, Ekowe	Southern Ijaw	Bayelsa	4.710	6.093	0	
+Marine Police Training School, Toru-Orua	Sagbama	Bayelsa	5.101	6.066	0	
+Fed poly Nasarawa	Nasarawa	Nasarawa	8.566	7.725	0	
+Nasarawa state poly, Lafia	Lafia	Nasarawa	8.546	8.535	0	
+Potungi Health Centre	Katcha	Niger	9.041	6.179	0	
+christ church primary school ii, porogun	Ìjẹ̀bú Òde	Ogun	6.824	3.913	0	
+Christ Church Primary School I, Porogun	Shagamu	Ogun	6.842	3.647	0	
+Christ Church Primary School Iii, Porogun	Ìjẹ̀bú Òde	Ogun	6.822	3.913	0	
+Christ Church Primary School I, Porogun	Ìjẹ̀bú Òde	Ogun	6.821	3.915	0	
+POSH specialist Hospital	Enugu North	Enugu	6.458	7.518	0	
+Post Housing Army Engineer	Jos North	Plateau	9.973	8.849	2	
+Nigerian police clinic	Jos North	Plateau	9.918	8.881	0	
+Divine Turning Point International School	Obio/Akpor	Rivers	4.884	6.954	0	
+Jesuit Memorial College Port Harcourt	Ikwerre	Rivers	4.926	6.967	0	
+Eke Poro	Warri North	Delta	5.829	5.024	2	
+School of Postgraduate	Jos North	Plateau	9.968	8.880	0	
+Federal Polythecnic	Bauchi	Bauchi	10.259	9.774	0	
+federal polytechnic, permanent side	Kaltungo	Gombe	9.822	11.342	0	
+Teshegwa Health post	Kiri Kasama	Jigawa	12.548	10.142	0	
+Kiramisau Health Post	Kiri Kasama	Jigawa	12.551	10.141	0	
+Police College Clinic Kaduna	Kaduna North	Kaduna	10.510	7.444	0	
+Senda Poly Hospital	Kaduna South	Kaduna	10.463	7.414	0	
+Gomna Awan Hospital Queen Amina College Pobox 211	Kaduna South	Kaduna	10.475	7.423	0	
+Shehu Muhammad Kangiwa Medical Center Kaduna Polytechnic	Kaduna South	Kaduna	10.524	7.416	0	
+Emmanuel Power Hospital	Ojo	Lagos	6.476	3.163	0	
+Grace Point Medical Centre	Alimosho	Lagos	6.579	3.208	0	
+Pons Medicaldiagonistics	Alimosho	Lagos	6.577	3.282	0	
+Health Point Diagnostic	Alimosho	Lagos	6.546	3.266	0	
+Post Graduate Research Lab	Akure South	Ondo	7.301	5.134	0	
+School Of Postgraduates (Phase 2)	Akure South	Ondo	7.299	5.135	0	
+School Of Postgraduates ( Phase 1)	Akure South	Ondo	7.299	5.135	0	
+Prof. Adebisi Balogun Postgraduates Hall	Akure South	Ondo	7.298	5.146	0	
+The Point Clinic	Amuwo Odofin	Lagos	6.443	3.312	0	
+Federal Polytechnic Oko	Aguata	Anambra	6.051	7.107	0	
+John Pofi Foundation Medical Center Fudawa	Jos North	Plateau	9.929	8.918	0	
+Portharcourtgbene	Southern Ijaw	Bayelsa	4.458	5.949	2	
+Police	Amuwo Odofin	Lagos	6.412	3.252	0	
+Port/Checkpoint	Eti Osa	Lagos	6.441	3.404	0	
+Moore Point	Burutu	Delta	5.393	5.369	2	
+Obbo fish and pork, Obo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.561	0	
+Kwara State Polytechnic, Share-Oja Oba Road, Ilorin, Nigeria	Ilorin East	Kwara	8.543	4.634	0	
+Kwara polytechnics, Ilorin, Nigeria	Ilorin East	Kwara	8.537	4.544	0	
+Charis Shopping Complex, Post Office, Ilorin, Nigeria	Ilorin East	Kwara	8.488	4.563	0	
+point of no return	Badagry	Lagos	6.405	2.885	0	
+power line	Amuwo Odofin	Lagos	6.416	3.248	0	
+ferry port/checkpoint	Eti Osa	Lagos	6.441	3.404	0	
+National Postgraduate Medical College of Nigeria	Ojo	Lagos	6.491	3.144	0	
+Post Graduate School	Kaduna North	Kaduna	10.611	7.440	0	
+Ojuelegba Amala Point Idu Junction	Municipal Area Council	FCT Abuja	9.037	7.413	0	
+New Police Station Road Mpape	Municipal Area Council	FCT Abuja	8.957	7.367	0	
+Powerhouse Junction Bus Stop	Municipal Area Council	FCT Abuja	9.048	7.516	0	
+Postgraduate building	Ede South	Osun	7.682	4.459	0	
+Moore Point	Calabar South	Cross River	4.787	8.362	2	
+King Point	Akpabuyo	Cross River	4.694	8.500	2	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.851	7.059	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.800	7.006	1	
+Port Harcourt Road	Aba South	Abia	5.097	7.354	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.468	7.005	1	
+Polytechnic Road	Ibadan North West	Oyo	7.421	3.878	1	
+Pool Street	Ikpoba-Okha	Edo	6.354	5.691	1	
+Nigeria Police Training School	Kaduna North	Kaduna	10.507	7.450	0	
+Pola Road	Kaduna North	Kaduna	10.508	7.452	1	
+Wudil - Potiskum Federal Road	Ajingi	Kano	11.947	9.036	1	
+Wudil - Potiskum Federal Road	Zaki	Bauchi	12.307	10.277	1	
+Gombe - Potiskum Road	Fika	Yobe	11.334	11.291	1	
+Gombe - Potiskum Road	Nafada	Gombe	10.952	11.335	1	
+Wudil - Potiskum Federal Road	Potiskum	Yobe	11.710	11.085	1	
+OJO STREET BY POWERLINE	Egor	Edo	6.371	5.588	1	
+Olafuyi Popoola Street	Oshodi/Isolo	Lagos	6.567	3.334	1	
+Powerline Road	Alimosho	Lagos	6.652	3.255	1	
+Popoola Street	Shomolu	Lagos	6.540	3.380	1	
+Popoola Street	Ibadan North	Oyo	7.432	3.931	1	
+Poly Road	Ibadan North	Oyo	7.427	3.890	1	
+Swimming Pool's Pavillion	Ibadan North	Oyo	7.444	3.898	0	
+Polo Road	Eti Osa	Lagos	6.447	3.419	1	
+Tincan Island Port Road	Apapa	Lagos	6.435	3.350	1	
+Tincan Island Port Road	Apapa	Lagos	6.434	3.339	1	
+Tincan Island Port Road	Apapa	Lagos	6.435	3.360	1	
+Point Road	Apapa	Lagos	6.451	3.361	1	
+Ponle Street	Alimosho	Lagos	6.604	3.295	1	
+Baba Ponmile Street	Ikeja	Lagos	6.606	3.326	1	
+Adebisi Popoola Crescent	Eti Osa	Lagos	6.446	3.475	1	
+Wilmot Point Road	Eti Osa	Lagos	6.422	3.409	1	
+Post Office Road	Fagge	Kano	12.004	8.534	1	
+Post Office Road	Fagge	Kano	12.004	8.537	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.857	7.070	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.777	7.010	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.792	7.002	1	
+Porto Novo Street	Municipal Area Council	FCT Abuja	9.072	7.468	1	
+Poultry Street	Sabon Gari	Kaduna	11.124	7.699	1	
+Port Harcourt Crescent	Municipal Area Council	FCT Abuja	9.038	7.501	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.282	10.367	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.274	10.370	1	
+Pope John Paul II Street	Municipal Area Council	FCT Abuja	9.083	7.495	1	
+Pomona Street	Municipal Area Council	FCT Abuja	8.993	7.438	1	
+Pomona Street	Municipal Area Council	FCT Abuja	8.996	7.432	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.785	7.005	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.836	7.017	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.833	7.005	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.830	7.004	1	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.808	7.010	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.848	7.048	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.841	7.032	1	
+Pope John Paul II Crescent	Municipal Area Council	FCT Abuja	9.082	7.496	1	
+Power line	Egor	Edo	6.363	5.574	1	
+Powerline Academy School	Egor	Edo	6.355	5.573	0	
+1st Power line	Egor	Edo	6.351	5.584	1	
+South Point Roya Lanel	Oredo	Edo	6.323	5.613	1	
+Olusegun Obasanjo Bypass, Port Harcourt	Port-Harcourt	Rivers	4.806	6.994	1	
+Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.335	7.352	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.862	7.090	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.721	7.386	1	
+Polo roundabout	Jos North	Plateau	9.929	8.875	1	
+Gombe - Potiskum Road	Fika	Yobe	11.094	11.370	1	
+Powerline Road	Agege	Lagos	6.634	3.309	1	
+Ijaiye Road	Ifako/Ijaye	Lagos	6.667	3.287	1	Post Office Road
+Gombe - Potiskum Road	Kwami	Gombe	10.499	11.320	1	
+Gombe - Potiskum Road	Kwami	Gombe	10.595	11.378	1	
+Gombe - Potiskum Road	Kwami	Gombe	10.505	11.331	1	
+Gombe - Potiskum Road	Kwami	Gombe	10.528	11.350	1	
+Wudil - Potiskum Federal Road	Nangere	Yobe	11.831	10.965	1	
+Wudil - Potiskum Federal Road	Potiskum	Yobe	11.715	11.061	1	
+Wudil - Potiskum Federal Road	Potiskum	Yobe	11.715	11.055	1	
+Pont de l'Elbeid	Ngala	Borno	12.374	14.222	1	
+Gombe - Potiskum Road	Potiskum	Yobe	11.700	11.073	1	
+Enugu - Port Harcourt Expressway	Awgu	Enugu	6.050	7.492	1	
+Enugu - Port Harcourt Expressway	Isuikwuato	Abia	5.915	7.408	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.874	7.115	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.489	7.020	1	
+Akwuke Police Barracks Road	Enugu South	Enugu	6.382	7.492	1	
+Police Detective College Road	Enugu South	Enugu	6.422	7.485	1	
+Power Line Street	Enugu East	Enugu	6.472	7.578	1	
+Polly Jaja Drive	Enugu North	Enugu	6.439	7.532	1	
+Police Detective College Road	Enugu South	Enugu	6.420	7.484	1	
+Police Squadron Barracks Road	Enugu South	Enugu	6.411	7.494	1	
+Police Children School Entrance Road	Enugu North	Enugu	6.464	7.524	1	
+Port Harcourt Street	Enugu North	Enugu	6.431	7.498	1	
+Port 2 Street	Enugu North	Enugu	6.429	7.497	1	
+Pond Street	Enugu East	Enugu	6.478	7.522	1	
+Pond Close	Enugu East	Enugu	6.478	7.522	1	
+Police Childeren School Entrance Road	Enugu North	Enugu	6.464	7.523	1	
+Enugu Portharcourt Link	Enugu North	Enugu	6.427	7.538	1	
+Enugu Portharcourt Expressway Link	Enugu North	Enugu	6.427	7.538	1	
+Enugu Porthacourt Link Road	Enugu North	Enugu	6.453	7.540	1	
+Enugu Porthacourt Road	Enugu North	Enugu	6.427	7.538	1	
+Enugu Porthacourt Link Road	Enugu North	Enugu	6.461	7.539	1	
+Enugu Porthacourt Link Road	Enugu South	Enugu	6.377	7.497	1	
+Enugu Porthacourt Link Road	Enugu South	Enugu	6.392	7.511	1	
+Enugu Porthacourt Link Road	Enugu South	Enugu	6.416	7.531	1	
+Enugu Porthacourt Link Road	Enugu South	Enugu	6.414	7.529	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.372	7.495	1	
+Police Barracks Lane	Enugu North	Enugu	6.440	7.494	1	
+Powerline Road	Ifako/Ijaye	Lagos	6.661	3.331	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.673	11.360	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.750	11.368	1	
+Enugu - Port Harcourt Expressway	Aba South	Abia	5.070	7.328	1	
+Enugu - Port Harcourt Expressway	Isiala-Ngwa North	Abia	5.336	7.353	1	
+Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.305	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.841	11.432	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.867	11.431	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.898	11.394	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.898	11.407	1	
+Chief Popoola Straat	Ìkòròdú	Lagos	6.635	3.507	1	
+Geza Health Post	Minjibir	Kano	12.188	8.508	0	
+Rafin Tsamiya Health Post	Tsanyawa	Kano	12.195	8.041	0	
+Kwarkiya Health Post	Minjibir	Kano	12.247	8.596	0	
+Garke Health Post	Minjibir	Kano	12.211	8.589	0	
+Kankarawa Health Post	Minjibir	Kano	12.223	8.624	0	
+Gasgainu Health Post	Minjibir	Kano	12.238	8.643	0	
+Mai Aduwa Health Post	Makoda	Kano	12.275	8.571	0	
+Danbawa Health Post	Minjibir	Kano	12.256	8.546	0	
+Sarbi Health Post	Minjibir	Kano	12.297	8.674	0	
+Kwandarma Health Post	Minjibir	Kano	12.217	8.663	0	
+Zango Health Post	Minjibir	Kano	12.251	8.700	0	
+Bare Bari Health Post	Makoda	Kano	12.493	8.498	0	
+Gaya South Health Post	Gaya	Kano	11.858	9.005	0	
+Shawu Health Post	Takai	Kano	11.437	9.137	0	
+Baushe Health Post	Dambatta	Kano	12.517	8.633	0	
+Ruwantsa Health Post	Dambatta	Kano	12.408	8.739	0	
+Falgore Health Post	Doguwa	Kano	11.121	8.576	0	
+Baure Health Post	Bagwai	Kano	12.081	8.190	0	
+Kauyen Adam Health Post	Bagwai	Kano	12.130	8.202	0	
+Yartofa Health Post	Bagwai	Kano	12.078	8.136	0	
+Kariya Health Post	Bagwai	Kano	12.043	8.202	0	
+Jaube Health Post	Dawakin Tofa	Kano	12.157	8.209	0	
+Munsira Health Post	Bichi	Kano	12.191	8.225	0	
+Tsattawa Health Post	Bagwai	Kano	12.129	8.138	0	
+Iyawa Health Post	Bichi	Kano	12.177	8.236	0	
+Badau Health Post	Bagwai	Kano	12.193	8.133	0	
+Badodo Health Post	Bagwai	Kano	12.089	8.214	0	
+Rimin-Bai Health Post	Bagwai	Kano	12.063	8.197	0	
+Tuga Health Post	Bagwai	Kano	12.067	8.243	0	
+Dutsen Karya Health Post	Bichi	Kano	12.211	8.133	0	
+Rimin Dako Health Post	Bagwai	Kano	12.085	8.254	0	
+Gajal Health Post	Bagwai	Kano	12.084	8.106	0	
+Romo Health Post	Bagwai	Kano	12.073	8.170	0	
+Ba'Awa Health Post	Bagwai	Kano	12.123	8.188	0	
+Kawoni Health Post	Ajingi	Kano	11.997	9.206	0	
+Biyamusu Health Post	Ajingi	Kano	12.080	9.192	0	
+Kara-Dagaji Health Post	Ajingi	Kano	11.930	9.155	0	
+Dan'Malam Health Post	Ajingi	Kano	11.939	9.190	0	
+Gamoji Health Post	Gaya	Kano	11.844	9.178	0	
+Jigar Health Post	Albasu	Kano	11.664	9.169	0	
+Yawurma Health Post	Albasu	Kano	11.648	9.168	0	
+Daho Health Post	Albasu	Kano	11.665	9.207	0	
+Zananne Health Post	Albasu	Kano	11.636	9.256	0	
+Jirago Health Post	Albasu	Kano	11.576	9.279	0	
+Yanchibi Health Post	Tsanyawa	Kano	12.240	7.892	0	
+Yanganau Health Post	Tsanyawa	Kano	12.254	7.958	0	
+Zarogi Health Post	Tsanyawa	Kano	12.248	7.992	0	
+Zakawa Health Post	Tsanyawa	Kano	12.287	7.885	0	
+Gachi Kedi Health Post	Wudil	Kano	11.802	8.869	0	
+Yartofa Health Post	Warawa	Kano	11.930	8.688	0	
+Tamawa Health Post	Rimin Gado	Kano	11.898	8.343	0	
+Jili Health Post	Rimin Gado	Kano	11.899	8.278	0	
+Jauben Health Post	Tofa	Kano	12.026	8.317	0	
+Sakaratsa Health Post	Rimin Gado	Kano	11.922	8.377	0	
+Agalawa Health Post	Madobi	Kano	11.881	8.371	0	
+Jajira Health Post	Ungongo	Kano	12.033	8.425	0	
+Kwami Health Post	Tofa	Kano	12.020	8.307	0	
+Jujin Health Post	Rimin Gado	Kano	11.920	8.267	0	
+Maigari Health Post	Rimin Gado	Kano	11.919	8.332	0	
+Zango II Health Post	Rimin Gado	Kano	12.020	8.279	0	
+Maraya Health Post	Madobi	Kano	11.892	8.411	0	
+Doka Health Post	Tofa	Kano	11.990	8.305	0	
+Tabanni Health Post	Tofa	Kano	11.972	8.309	0	
+Hawandawaki Health Post	Kumbotso	Kano	11.955	8.425	0	
+Unguwar Rimi Health Post	Tofa	Kano	11.973	8.333	0	
+Maigari Ingila Health Post	Rimin Gado	Kano	11.921	8.302	0	
+Zango I Health Post	Rimin Gado	Kano	11.984	8.283	0	
+Karofin Yashi Health Post	Rimin Gado	Kano	11.883	8.350	0	
+Wari Health Post	Kabo	Kano	11.913	8.189	0	
+Indabo Health Post	Rimin Gado	Kano	11.963	8.180	0	
+Leni Health Post	Shanono	Kano	12.008	8.100	0	
+Bakwami Health Post	Shanono	Kano	12.034	8.114	0	
+Rinji Health Post	Kabo	Kano	11.880	8.163	0	
+Kwajale Health Post	Bagwai	Kano	12.035	8.222	0	
+Durun Health Post	Kabo	Kano	11.904	8.231	0	
+Butu Butu Health Post	Rimin Gado	Kano	11.966	8.209	0	
+Sarigarin Health Post	Kabo	Kano	11.969	8.117	0	
+Ginsawa Health Post	Tofa	Kano	12.029	8.259	0	
+Kanye Health Post	Kabo	Kano	11.960	8.147	0	
+Yango Health Post	Rimin Gado	Kano	11.996	8.228	0	
+Kafinmaiko Health Post	Bagwai	Kano	12.039	8.168	0	
+Balan Health Post	Kabo	Kano	11.914	8.166	0	
+Sharifai Health Post	Rimin Gado	Kano	11.924	8.246	0	
+Shadau Health Post	Kabo	Kano	11.875	8.210	0	
+Kazar Daw Health Post	Rimin Gado	Kano	11.967	8.195	0	
+Dorogo Health Post	Shanono	Kano	12.002	7.973	0	
+Dan Amale Health Post	Kabo	Kano	11.945	8.030	0	
+Yarkasuwa Health Post	Gwarzo	Kano	11.917	7.935	0	
+Dorogo Health Post	Gwarzo	Kano	11.982	7.988	0	
+Gude Health Post	Kabo	Kano	11.954	8.067	0	
+Dutsen Bakoshi Health Post	Shanono	Kano	12.027	7.946	0	
+Faran Health Post	Kibiya	Kano	11.539	8.625	0	
+Kyansha Health Post	Takai	Kano	11.487	9.107	0	
+Yan Bawa Health Post	Sumaila	Kano	11.371	9.059	0	
+Rubun Health Post	Albasu	Kano	11.627	9.088	0	
+Hungu Health Post	Albasu	Kano	11.614	9.002	0	
+Kafin Sidda Health Post	Takai	Kano	11.524	9.066	0	
+Mangari Health Post	Albasu	Kano	11.645	9.009	0	
+Yauwra Health Post	Albasu	Kano	11.610	8.969	0	
+Sanni Health Post	Garko	Kano	11.531	9.019	0	
+Sittika Health Post	Albasu	Kano	11.574	8.982	0	
+Faragai Health Post	Albasu	Kano	11.669	8.986	0	
+Duja Health Post	Albasu	Kano	11.654	9.091	0	
+Fanda Health Post	Albasu	Kano	11.604	9.048	0	
+Rinji Health Post	Albasu	Kano	11.693	9.004	0	
+Chamarana Health Post	Albasu	Kano	11.631	9.107	0	
+Gamawa Health Post	Takai	Kano	11.541	9.118	0	
+Baleke Health Post	Albasu	Kano	11.653	9.050	0	
+Umbarum Health Post	Albasu	Kano	11.558	9.058	0	
+Alfindi Health Post	Sumaila	Kano	11.524	8.999	0	
+Kan Iyaka Health Post	Takai	Kano	11.612	9.086	0	
+Kogo Health Post	Takai	Kano	11.581	9.156	0	
+Gagarame Health Post	Albasu	Kano	11.554	9.191	0	
+Sakwaya Health Post	Takai	Kano	11.535	9.176	0	
+Sayasaya Health Post	Albasu	Kano	11.716	8.967	0	
+Hausawa Health Post	Gaya	Kano	11.730	9.100	0	
+Jibawa Health Post	Gaya	Kano	11.782	8.979	0	
+Fanidau Health Post	Gaya	Kano	11.803	9.116	0	
+Maimakawa Health Post	Gaya	Kano	11.796	9.132	0	
+Kazurawa Health Post	Gaya	Kano	11.772	9.017	0	
+Kalahaddi Health Post	Gaya	Kano	11.720	9.024	0	
+Yan Kau Health Post	Gaya	Kano	11.760	8.979	0	
+Kullumi Health Post	Ajingi	Kano	12.031	9.030	0	
+Kawari Health Post	Ajingi	Kano	12.008	9.006	0	
+Maigana Health Post	Ajingi	Kano	11.943	9.001	0	
+Chula Health Post	Ajingi	Kano	11.990	8.971	0	
+Gurduba Health Post	Ajingi	Kano	12.022	9.002	0	
+Kiroro Health Post	Ajingi	Kano	11.962	9.118	0	
+Kara-Makama Health Post	Ajingi	Kano	11.957	9.074	0	
+Kunkurawa Health Post	Ajingi	Kano	11.975	9.064	0	
+Sakalawa Health Post	Ajingi	Kano	11.983	9.010	0	
+Gafasa Health Post	Ajingi	Kano	11.985	9.133	0	
+Jiyayya Health Post	Ajingi	Kano	11.981	9.094	0	
+Dundun Health Post	Ajingi	Kano	11.933	9.035	0	
+Zuwan Hawa Health Post	Albasu	Kano	11.729	9.224	0	
+Goron Dutse Health Post	Shanono	Kano	12.158	7.872	0	
+Yankwada Health Post	Shanono	Kano	12.203	7.876	0	
+Danshado Health Post	Shanono	Kano	12.043	7.889	0	
+Bakaji Health Post	Shanono	Kano	12.125	7.875	0	
+Gagarawa Health Post	Ajingi	Kano	12.050	9.003	0	
+Unguwar Bai Health Post	Ajingi	Kano	12.047	8.981	0	
+Yankamaye Health Post	Tsanyawa	Kano	12.314	7.897	0	
+Yaan'Awaki Health Post	Tsanyawa	Kano	12.366	8.018	0	
+Dorayi Health Post	Tsanyawa	Kano	12.371	8.077	0	
+Kabagiwa Health Post	Tsanyawa	Kano	12.311	8.023	0	
+Nasarawa Health Post	Tsanyawa	Kano	12.370	7.992	0	
+Daddarawa Health Post	Tsanyawa	Kano	12.236	8.075	0	
+Bankamawa Health Post	Shanono	Kano	12.127	7.936	0	
+Masaurari Health Post	Bagwai	Kano	12.124	8.078	0	
+Kundila Health Post	Shanono	Kano	12.130	7.985	0	
+Alajawa Health Post	Bagwai	Kano	12.102	7.994	0	
+Tudara Health Post	Bagwai	Kano	12.105	8.065	0	
+Alajawa Health Post	Shanono	Kano	12.115	7.966	0	
+Kuraku Health Post	Shanono	Kano	12.170	7.917	0	
+Jigilawa Health Post	Tsanyawa	Kano	12.194	8.064	0	
+Godarawa Health Post	Shanono	Kano	12.052	8.076	0	
+Gadanya Health Post	Bagwai	Kano	12.091	8.039	0	
+Yan'Amar Health Post	Tsanyawa	Kano	12.413	8.080	0	
+Dunbule Health Post	Kunchi	Kano	12.506	8.245	0	
+Bumai Health Post	Kunchi	Kano	12.513	8.192	0	
+Danjaka Health Post	Kunchi	Kano	12.408	8.222	0	
+Galadimawa Health Post	Kunchi	Kano	12.489	8.221	0	
+Hugungumai Health Post	Kunchi	Kano	12.436	8.222	0	
+Malikawa Garu Health Post	Bichi	Kano	12.398	8.154	0	
+Karofawa Health Post	Kunchi	Kano	12.486	8.238	0	
+Gadaba Health Post	Kunchi	Kano	12.530	8.226	0	
+Unguwar Gyartai Health Post	Kunchi	Kano	12.441	8.168	0	
+Yankifi Health Post	Kunchi	Kano	12.473	8.269	0	
+Tabani Health Post	Kunchi	Kano	12.414	8.330	0	
+Magawata Health Post	Kunchi	Kano	12.423	8.277	0	
+Kaya Health Post	Kunchi	Kano	12.550	8.268	0	
+Dankwai Health Post	Kunchi	Kano	12.410	8.356	0	
+Ganji Health Post	Makoda	Kano	12.422	8.395	0	
+Ridawa Health Post	Kunchi	Kano	12.455	8.347	0	
+Danmadaki Health Post	Makoda	Kano	12.581	8.499	0	
+Kantudu Health Post	Makoda	Kano	12.573	8.470	0	
+Masallachi Health Post	Dambatta	Kano	12.473	8.538	0	
+Maiganji Health Post	Dambatta	Kano	12.435	8.574	0	
+Jama'Ar Hazo Health Post	Makoda	Kano	12.546	8.521	0	
+Koren Tabo Health Post	Makoda	Kano	12.502	8.440	0	
+GSS Dambatta Health Post	Dambatta	Kano	12.425	8.517	0	
+Yammawa Health Post	Dambatta	Kano	12.508	8.469	0	
+Yan Bawa Health Post	Makoda	Kano	12.534	8.497	0	
+Jibga Fulani Health Post	Makoda	Kano	12.401	8.488	0	
+Chasko Health Post	Dambatta	Kano	12.554	8.591	0	
+Gwalaida Health Post	Dambatta	Kano	12.465	8.574	0	
+Marke Danya Health Post	Dambatta	Kano	12.462	8.460	0	
+Kurna Health Post	Makoda	Kano	12.546	8.480	0	
+Yammawa Gamji Health Post	Dambatta	Kano	12.488	8.476	0	
+Ajumawa Health Post	Dambatta	Kano	12.477	8.506	0	
+Diggol Health Post	Dambatta	Kano	12.525	8.559	0	
+Balloda Health Post	Dambatta	Kano	12.405	8.595	0	
+Kwasauri Health Post	Dambatta	Kano	12.431	8.678	0	
+Yammawa Wanzari Health Post	Dambatta	Kano	12.511	8.655	0	
+Dungurmi Health Post	Dambatta	Kano	12.410	8.651	0	
+Laraba Takuya Health Post	Dambatta	Kano	12.367	8.687	0	
+Dan Dake Health Post	Gabasawa	Kano	12.218	8.721	0	
+Katsarduwa Health Post	Dambatta	Kano	12.332	8.665	0	
+Yumbu Health Post	Gabasawa	Kano	12.237	8.781	0	
+Tona Health Post	Dambatta	Kano	12.315	8.729	0	
+Shana Health Post	Gabasawa	Kano	12.262	8.742	0	
+Saidawa Health Post	Dambatta	Kano	12.274	8.631	0	
+Dumma Health Post	Dambatta	Kano	12.379	8.771	0	
+Koya Health Post	Dambatta	Kano	12.264	8.620	0	
+Doga Health Post	Gabasawa	Kano	12.223	8.810	0	
+Badawa Health Post	Gabasawa	Kano	12.256	8.888	0	
+Gambawa Health Post	Gabasawa	Kano	12.245	8.826	0	
+Yama Health Post	Gabasawa	Kano	12.271	8.812	0	
+Tarauni Health Post	Gabasawa	Kano	12.113	8.897	0	
+Dadin Duniya Health Post	Gabasawa	Kano	12.165	8.889	0	
+Kawo Health Post	Gabasawa	Kano	12.162	8.854	0	
+Santsi Health Post	Gabasawa	Kano	12.050	8.879	0	
+Chikawa Health Post	Gabasawa	Kano	12.136	8.893	0	
+Kumbo Health Post	Gabasawa	Kano	12.204	8.884	0	
+Tankarau Health Post	Gabasawa	Kano	12.083	8.907	0	
+Gumawa Health Post	Gabasawa	Kano	12.139	8.862	0	
+Yar Zabaina Health Post	Gabasawa	Kano	12.155	8.799	0	
+Zango Health Post	Gezawa	Kano	12.093	8.685	0	
+Mesaburmi Health Post	Gezawa	Kano	12.146	8.742	0	
+Immuali Health Post	Gezawa	Kano	12.116	8.731	0	
+Gezawa Health Post	Gezawa	Kano	12.101	8.751	0	
+Yaranchi Health Post	Gabasawa	Kano	12.166	8.755	0	
+Ketawa H.P Health Post	Gezawa	Kano	12.068	8.751	0	
+Baita Health Post	Gezawa	Kano	12.133	8.650	0	
+Wasai Health Post	Minjibir	Kano	12.154	8.675	0	
+Daradau Health Post	Gezawa	Kano	12.053	8.701	0	
+Mesatud Health Post	Gezawa	Kano	12.123	8.722	0	
+Kwadage Health Post	Gabasawa	Kano	12.142	8.784	0	
+Garji Health Post	Minjibir	Kano	12.196	8.626	0	
+Tsalle Health Post	Gezawa	Kano	12.081	8.715	0	
+Satame Health Post	Makoda	Kano	12.290	8.530	0	
+Tashar Basa Health Post	Makoda	Kano	12.336	8.445	0	
+Fagwalo Health Post	Dambatta	Kano	12.364	8.465	0	
+Jigawa Satame Health Post	Makoda	Kano	12.317	8.560	0	
+Zuru Felele Health Post	Makoda	Kano	12.347	8.539	0	
+Shantake Health Post	Makoda	Kano	12.346	8.518	0	
+Dalal Health Post	Makoda	Kano	12.368	8.517	0	
+Fagwalo Health Post	Bichi	Kano	12.301	8.443	0	
+Tangaji Health Post	Makoda	Kano	12.305	8.488	0	
+Wailare Health Post	Makoda	Kano	12.268	8.530	0	
+Dawon Kaya Health Post	Makoda	Kano	12.302	8.541	0	
+Jemomi Health Post	Dawakin Tofa	Kano	12.245	8.500	0	
+Takau Health Post	Dambatta	Kano	12.368	8.594	0	
+Yatsi Health Post	Bichi	Kano	12.255	8.471	0	
+Shiddar Health Post	Dambatta	Kano	12.375	8.567	0	
+Bakarari Health Post	Makoda	Kano	12.281	8.498	0	
+Kungu Health Post	Bichi	Kano	12.271	8.445	0	
+Roba Health Post	Dawakin Tofa	Kano	12.235	8.480	0	
+Dalal Mahuta Health Post	Dambatta	Kano	12.321	8.607	0	
+Sabon Ruwa Health Post	Makoda	Kano	12.372	8.438	0	
+Sabon Gari Doka Health Post	Ungongo	Kano	12.088	8.448	0	
+Katsinawa Health Post	Ungongo	Kano	12.062	8.449	0	
+Gyaranya Health Post	Minjibir	Kano	12.196	8.590	0	
+Yammata Health Post	Fagge	Kano	12.064	8.473	0	
+Galula Health Post	Ungongo	Kano	12.043	8.574	0	
+Fango Health Post	Dawakin Tofa	Kano	12.176	8.446	0	
+Baguja Health Post	Ungongo	Kano	12.101	8.521	0	
+Kwuidawa Health Post	Dawakin Tofa	Kano	12.164	8.475	0	
+Kuru Health Post	Minjibir	Kano	12.169	8.530	0	
+Bachirawa Health Post	Ungongo	Kano	12.058	8.463	0	
+Danrirmi Health Post	Ungongo	Kano	12.058	8.489	0	
+Tudun Bojuwa Health Post	Fagge	Kano	12.050	8.487	0	
+Tsakiya Health Post	Minjibir	Kano	12.138	8.552	0	
+Jalli Health Post	Dawakin Tofa	Kano	12.184	8.463	0	
+Dankunkuru Health Post	Ungongo	Kano	12.065	8.571	0	
+Yakasai Health Post	Dawakin Tofa	Kano	12.156	8.483	0	
+Tarda Health Post	Ungongo	Kano	12.115	8.519	0	
+Zangon Barebari Health Post	Ungongo	Kano	12.070	8.486	0	
+Zabainawar Dansudu Health Post	Minjibir	Kano	12.159	8.511	0	
+Dan Itache Health Post	Dawakin Tofa	Kano	12.208	8.497	0	
+Doka Health Post	Ungongo	Kano	12.096	8.469	0	
+Kantama Babba Health Post	Minjibir	Kano	12.182	8.594	0	
+Gera Health Post	Ungongo	Kano	12.089	8.552	0	
+Madaci Health Post	Dawakin Tofa	Kano	12.196	8.474	0	
+Gulbi Health Post	Bichi	Kano	12.182	8.289	0	
+Gajida Health Post	Tofa	Kano	12.081	8.282	0	
+Romi Health Post	Dawakin Tofa	Kano	12.126	8.368	0	
+Chedi Bubba Ruga Health Post	Dawakin Tofa	Kano	12.139	8.393	0	
+Yarrutu Health Post	Dawakin Tofa	Kano	12.117	8.296	0	
+GSS Gramma Health Post	Dawakin Tofa	Kano	12.102	8.334	0	
+Danguguwa Health Post	Dawakin Tofa	Kano	12.058	8.395	0	
+Dungurawa Health Post	Dawakin Tofa	Kano	12.163	8.358	0	
+Chedi Maidala Health Post	Dawakin Tofa	Kano	12.135	8.422	0	
+Tsaure Health Post	Bichi	Kano	12.207	8.320	0	
+Dogon Marke Health Post	Dawakin Tofa	Kano	12.154	8.320	0	
+Marke Health Post	Dawakin Tofa	Kano	12.129	8.272	0	
+Dindere Health Post	Tofa	Kano	12.091	8.265	0	
+Sarkakiya Health Post	Dawakin Tofa	Kano	12.127	8.338	0	
+Gudau Health Post	Dawakin Tofa	Kano	12.180	8.357	0	
+Badume Health Post	Bichi	Kano	12.189	8.313	0	
+Yakasai Health Post	Bichi	Kano	12.202	8.292	0	
+Gabari Health Post	Dawakin Tofa	Kano	12.047	8.395	0	
+SSS Dawakin Tofa Health Post	Dawakin Tofa	Kano	12.118	8.339	0	
+Kwa Health Post	Dawakin Tofa	Kano	12.149	8.374	0	
+Kunnawa Health Post	Dawakin Tofa	Kano	12.175	8.333	0	
+Sanakur Health Post	Bichi	Kano	12.165	8.265	0	
+Kyauta Health Post	Bichi	Kano	12.194	8.339	0	
+Bagadawa Health Post	Dawakin Tofa	Kano	12.121	8.403	0	
+Fagen Kawo Health Post	Dawakin Tofa	Kano	12.081	8.417	0	
+Yalwa Karama Health Post	Tofa	Kano	12.058	8.335	0	
+Gwamai Health Post	Dawakin Tofa	Kano	12.185	8.319	0	
+Gargari Health Post	Dawakin Tofa	Kano	12.178	8.302	0	
+Kadawa Health Post	Dawakin Tofa	Kano	12.072	8.373	0	
+Buruntumau Health Post	Dawakin Tofa	Kano	12.184	8.421	0	
+Tudun Wada Health Post	Nassarawa	Kano	12.023	8.554	0	
+Wudil - Potiskum Federal Road	Miga	Jigawa	12.175	9.737	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	12.084	10.544	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.362	11.153	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.448	11.229	1	
+point one kwanan Alheri, Gona Div	Gombe	Gombe	10.278	11.189	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.938	10.736	1	
+Wudil - Potiskum Federal Road	Potiskum	Yobe	11.701	11.102	1	
+Hotoro Danmarke Health Post	Tarauni	Kano	11.962	8.581	0	
+National Polio Immunization Office	Zaki	Bauchi	12.284	10.345	0	Town Maternity
+Zubuki Health Post	Itas/Gadau	Bauchi	11.835	10.047	0	
+National Polio Immunization Office Itas	Itas/Gadau	Bauchi	11.853	9.963	0	
+Majiya Health Post	Itas/Gadau	Bauchi	11.832	9.903	0	
+Buzawa Health Post	Itas/Gadau	Bauchi	11.768	9.704	0	
+Garin Dole Health Post	Itas/Gadau	Bauchi	11.759	9.662	0	
+Duhuwa Health Post	Itas/Gadau	Bauchi	11.732	9.690	0	
+Ajiya Health Post	Dass	Bauchi	10.006	9.526	0	Ecwa Health Clinic
+Polchi Dispensary	Toro	Bauchi	10.124	9.299	0	
+Polchi Maternity	Toro	Bauchi	10.123	9.301	0	
+Bazali Primary Health Center	Dass	Bauchi	10.094	9.394	0	Primary Health Center Polchi
+Dan Health Post	Alkaleri	Bauchi	9.875	10.175	0	
+Murno Health Post	Tafawa-Balewa	Bauchi	9.725	9.277	0	
+Enugu - Port Harcourt Expressway	Ugwunagbo	Abia	5.001	7.306	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.924	7.236	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.875	7.117	1	
+Pont Kogui	Diffa	Borno	13.278	12.621	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.889	7.146	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.888	7.144	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.896	7.165	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.898	7.179	1	
+Chief Aleru Street, Omuoko, Aluu, Port Harcourt	Ikwerre	Rivers	4.922	6.916	1	
+Police Post	Obio/Akpor	Rivers	4.881	7.008	1	
+Popo Road	Oyun	Kwara	8.197	4.601	1	
+Port Harcourt International Airport	Ikwerre	Rivers	5.006	6.949	0	
+Gamboru A Health Post	Ngala	Borno	12.362	14.208	0	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.376	11.166	1	
+Poultry Road	Esan West	Edo	6.748	6.087	1	
+Powerline Road	Ifako/Ijaye	Lagos	6.674	3.275	1	
+Straight point	Numan	Adamawa	9.463	11.736	1	
+Wudil - Potiskum Federal Road	Wudil	Kano	11.810	8.881	1	
+Wudil - Potiskum Federal Road	Wudil	Kano	11.803	8.855	1	
+Port Harcourt - Owerri Road	Owerri West	Imo	5.393	6.963	1	
+Port Harcourt - Owerri Road	Owerri West	Imo	5.388	6.968	1	
+Enugu - Port Harcourt Expressway	Ukwa West	Abia	4.926	7.239	1	
+Sokoto State Polytechnic	Wamako	Sokoto	13.008	5.194	0	
+Kessangarola Health Post	Nganzai	Borno	12.136	13.268	0	
+Hassan Usman Katsina Polytechnic	Batagarawa	Katsina	12.920	7.589	0	
+Popoola Street	Alimosho	Lagos	6.651	3.289	1	
+Powerline Road	Eti Osa	Lagos	6.486	3.580	1	
+Poluyi Crescent	Alimosho	Lagos	6.665	3.254	1	
+Powerline Street	Alimosho	Lagos	6.661	3.256	1	
+CHIBRA HEALTH POST	Bayo	Borno	10.375	11.810	0	
+Dambitam dispensary health post	Bayo	Borno	10.447	11.746	0	
+Powerline Road	Ikpoba-Okha	Edo	6.312	5.636	1	
+OJO STREET BY POWERLINE	Egor	Edo	6.377	5.587	1	
+Lagos State Polytechnic	Oshodi/Isolo	Lagos	6.528	3.334	0	LASPOTECH
+Bosso health post	Demsa	Adamawa	9.559	12.147	0	
+Polo Park Mall	Enugu North	Enugu	6.460	7.496	0	
+Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.428	7.538	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.367	7.494	1	
+Port Harcourt - Owerri Road	Ikwerre	Rivers	5.152	6.846	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.255	6.882	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.340	11.146	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.297	6.931	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.286	6.923	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.277	6.917	1	
+University of Port Harcourt Demostration Secondary School	Ikwerre	Rivers	4.911	6.910	0	
+Popo Street	Surulere	Lagos	6.509	3.370	1	
+Popoola Are Street	Oshodi/Isolo	Lagos	6.509	3.312	1	
+Powell Street	Uvwie	Delta	5.566	5.782	1	
+Police College Ikeja	Ikeja	Lagos	6.590	3.355	0	
+Poly Road	Oye	Ekiti	7.921	5.315	1	
+Powerline Road	Akure South	Ondo	7.224	5.195	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.870	7.368	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.876	7.372	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.408	7.526	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.382	7.498	1	
+Enugu Porthacourt Road	Enugu South	Enugu	6.408	7.526	1	
+Enugu - Port Hacourt Road	Enugu South	Enugu	6.396	7.518	1	
+Federal Polytechnic Ilaro	Yewa South	Ogun	6.897	2.984	0	FPI
+Old Port Harcourt-Aba Road	Awgu	Enugu	6.114	7.518	1	
+Powel Street	Uvwie	Delta	5.539	5.767	1	
+poppy road	Numan	Adamawa	9.461	12.029	1	
+Wudil - Potiskum Federal Road	Jahun	Jigawa	12.077	9.620	1	
+wudil potiskum Federal Road	Jahun	Jigawa	12.077	9.620	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.878	11.424	1	
+UTAGBAN POWERLINE ROAD	Oredo	Edo	6.291	5.573	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.390	11.175	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.388	11.174	1	
+Bannalewa Health Post	Fune	Yobe	12.051	11.513	0	
+Poly Road	Khana	Rivers	4.659	7.378	1	
+Wudil - Potiskum Federal Road	Potiskum	Yobe	11.710	11.085	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.921	10.763	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.895	10.795	1	
+Port Harcourt street	Uyo	Akwa Ibom	5.027	7.917	1	
+Powerline Road	Eti Osa	Lagos	6.484	3.579	1	
+Baba Ponmile Street	Ikeja	Lagos	6.603	3.325	1	
+Wudil - Potiskum Federal Road	Ringim	Jigawa	12.015	9.268	1	
+Wudil - Potiskum Federal Road	Jahun	Jigawa	12.050	9.434	1	
+Popoola Street	Ado Odo/Ota	Ogun	6.674	3.219	1	
+Popo Igbonna Street	Ilorin East	Kwara	8.484	4.540	1	
+Popoola Close	Ifako/Ijaye	Lagos	6.659	3.306	1	
+Ramat College Polytechnic Maiduguri	Maiduguri	Borno	11.843	13.131	0	
+Gombe - Potiskum Road	Potiskum	Yobe	11.669	11.094	1	
+Gombe - Potiskum Road	Potiskum	Yobe	11.688	11.080	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.475	11.294	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.488	11.310	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.650	11.370	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.623	11.372	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.695	11.363	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.729	11.365	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.779	11.406	1	
+Gombe - Potiskum Road	Funakaye	Gombe	10.762	11.380	1	
+Wudil - Potiskum Federal Road	Wudil	Kano	11.800	8.847	1	
+Wudil - Potiskum Federal Road	Wudil	Kano	11.796	8.840	1	
+Wudil - Potiskum Federal Road	Gamawa	Bauchi	11.926	10.758	1	
+Post Office Road	Akure South	Ondo	7.253	5.194	1	
+Enugu - Port Harcourt Expressway	Enugu North	Enugu	6.455	7.540	1	
+Enugu Porthacourt Road	Enugu North	Enugu	6.455	7.540	1	
+Enugu Porthacourt Road	Enugu North	Enugu	6.458	7.540	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.884	7.139	1	
+Postgraduate College	Ife Central	Osun	7.516	4.530	0	
+Maternity Health Post	Yunusari	Yobe	13.158	11.672	0	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.310	6.942	1	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.302	6.937	1	
+Nigerian Police Hospital - Falomo	Eti Osa	Lagos	6.442	3.429	0	
+Bauwa Health Post	Fune	Yobe	11.464	11.419	0	
+Nigerian Air Force Port Harcourt	Obio/Akpor	Rivers	4.856	7.026	0	
+Gombe - Potiskum Road	Potiskum	Yobe	11.666	11.096	1	
+Police Training School Ikeja	Ikeja	Lagos	6.592	3.346	0	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.622	7.436	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.587	7.447	1	
+Lagos State Polytechnic	Ìkòròdú	Lagos	6.638	3.532	0	LASPOTECH|LASPOTECH
+Port Harcourt Mall	Port-Harcourt	Rivers	4.775	7.014	0	
+Kudurun Health Post	Madobi	Kano	11.789	8.378	0	
+Ningawa Health Post	Madobi	Kano	11.822	8.401	0	
+Rikadawa Health Post	Madobi	Kano	11.734	8.309	0	
+Yakun Health Post	Madobi	Kano	11.740	8.265	0	
+Rufan Health Post	Tudun Wada	Kano	11.318	8.718	0	
+Yaryasa Health Post	Tudun Wada	Kano	11.337	8.308	0	
+Tagwaye Health Post	Doguwa	Kano	10.781	8.594	0	
+Bono Health Post	Bunkure	Kano	11.704	8.632	0	
+Fanchan Health Post	Dawakin Kudu	Kano	11.780	8.722	0	
+Gundutse Health Post	Kura	Kano	11.825	8.514	0	
+Amarawa Health Post	Gaya	Kano	11.818	8.901	0	
+Fadi Sonka Health Post	Wudil	Kano	11.785	8.876	0	
+Poly Clinic	Ibadan North	Oyo	7.441	3.908	0	
+Tsaraka Health Post	Bichi	Kano	12.215	8.182	0	
+Tudun Gunsau Health Post	Wudil	Kano	11.760	8.852	0	
+Gama Health Post	Nassarawa	Kano	12.034	8.552	0	
+Gurungawa Health Post	Kumbotso	Kano	11.936	8.524	0	
+Dorawar Sallau Health Post	Garum Mallam	Kano	11.669	8.416	0	
+Aisami Health Post	Gwale	Kano	11.995	8.500	0	
+Bakin Ruwa Health Post	Dala	Kano	11.999	8.503	0	
+Bechi Health Post	Kumbotso	Kano	11.926	8.492	0	
+Bokavo Health Post	Fagge	Kano	12.033	8.508	0	
+Chiranchi Health Post	Kumbotso	Kano	11.952	8.476	0	
+Dala Health Post	Dala	Kano	12.013	8.506	0	
+Danmaliki Health Post	Kumbotso	Kano	11.927	8.514	0	
+Dausayi Health Post	Ungongo	Kano	12.013	8.444	0	
+Dorayi Babba Health Post	Gwale	Kano	11.975	8.462	0	
+Kokiya Health Post	Shanono	Kano	12.006	8.054	0	
+Hotoro South Health Post	Nassarawa	Kano	11.970	8.582	0	
+Kawaji Health Post	Nassarawa	Kano	12.010	8.577	0	
+Sani Zubairu Health Post	Gwale	Kano	11.987	8.510	0	
+Danshayi Health Post	Rimin Gado	Kano	11.895	8.376	0	
+Dansudu Health Post	Tofa	Kano	11.998	8.326	0	
+Dawaki Health Post	Rano	Kano	11.550	8.579	0	
+Dundu Health Post	Bunkure	Kano	11.666	8.713	0	
+Durba Health Post	Kibiya	Kano	11.571	8.719	0	
+Gunda Health Post	Kibiya	Kano	11.506	8.713	0	
+Jauben Yamma Health Post	Bagwai	Kano	12.067	8.056	0	
+Runkusawa Health Post	Kumbotso	Kano	11.891	8.427	0	
+Dan Isa Health Post	Rimin Gado	Kano	11.939	8.226	0	
+Gudan Tuwo Health Post	Shanono	Kano	11.998	8.066	0	
+Bakin Lahadi Health Post	Sumaila	Kano	11.357	8.947	0	
+Zobo Health Post	Darazo	Bauchi	11.214	10.919	0	
+Police Clinic	Bauchi	Bauchi	10.319	9.827	0	
+Kwaimawa Health Post	Alkaleri	Bauchi	10.176	10.718	0	
+Bartak Health Post	Alkaleri	Bauchi	10.269	10.336	0	
+Police hospital Eleyele Ibadan	Ibadan North West	Oyo	7.408	3.865	0	
+the polytechnic health center	Ibadan North	Oyo	7.436	3.885	0	
+PHC pobawure, kalmai	Billiri	Gombe	9.933	11.120	0	
+Momari Health Post	Itas/Gadau	Bauchi	11.898	10.247	0	
+Duwaru Health Post	Gamawa	Bauchi	12.042	10.741	0	
+National Polio Immunization Office	Gamawa	Bauchi	12.133	10.534	0	
+Gambara Health Post	Itas/Gadau	Bauchi	11.828	9.691	0	
+Kaduna Polytechnic	Kaduna North	Kaduna	10.521	7.444	0	
+Gamu Health Post	Kanam	Plateau	9.749	9.964	0	
+Yerwa Polyclinic	Maiduguri	Borno	11.811	13.165	0	
+Walawa Health Post	Makoda	Kano	12.344	8.477	0	
+Kogin Sallah Health Post	Toro	Bauchi	10.131	9.028	0	
+Sauna Kawaji Health Post	Nassarawa	Kano	12.019	8.600	0	
+Bidda Wakka Health Post	Demsa	Adamawa	9.238	11.937	0	
+Kwapre Health Post	Hong	Adamawa	10.467	12.844	0	
+Shashau Health Post Shashau	Hong	Adamawa	10.325	12.852	0	
+Zah Health Post	Hong	Adamawa	10.411	12.743	0	
+Chika Health Post	Hong	Adamawa	10.406	13.048	0	
+Gashala Dzugbu Health Post	Hong	Adamawa	10.379	13.084	0	
+Musda Health Post	Hong	Adamawa	10.384	12.919	0	
+Jabba Health Post	Hong	Adamawa	10.130	13.083	0	
+health post	Jada	Adamawa	8.666	12.427	0	
+Guri kasuwa health post	Demsa	Adamawa	9.233	11.805	0	
+Potiskum Medical center 5p.m.c	Potiskum	Yobe	11.709	11.086	0	
+Pompomari Primary Health Center	Konduga	Borno	11.836	13.066	0	
+gan'alada heath post	Jada	Adamawa	8.701	12.040	0	
+Makera Health Post	Hong	Adamawa	10.283	13.076	0	
+Lowalom Gora Health Post	Shani	Borno	10.032	11.887	0	
+Mamgla nana heath post	Jada	Adamawa	8.671	11.994	0	
+Potiskum General Hospital	Potiskum	Yobe	11.725	11.069	0	
+Garin Abba Health Post	Fune	Yobe	11.775	11.236	0	
+gadjo heath post	Jada	Adamawa	8.506	12.376	0	
+wuro mallum health post	Maiha	Adamawa	9.904	13.223	0	
+balaur iheath post	Jada	Adamawa	8.646	12.328	0	
+fabraune health post	Demsa	Adamawa	9.350	11.889	0	
+Ngbekendewe Health Post	Demsa	Adamawa	9.401	11.880	0	
+jauro bellel health post	Jada	Adamawa	8.617	12.408	0	
+kwale health post	Demsa	Adamawa	9.485	12.122	0	
+maliki 11 health post	Demsa	Adamawa	9.359	12.079	0	
+Moshood Abiola Polytechnic MAPOLY Abeokuta	Obafemi Owode	Ogun	7.072	3.327	0	
+Fulatari Health Post	Tarmua	Yobe	12.263	11.512	0	
+Garga Health Post	Tarmua	Yobe	12.268	11.512	0	
+Zuran 11 health post	Demsa	Adamawa	9.460	12.101	0	
+belanga health post	Demsa	Adamawa	9.631	12.214	0	
+lassala health post	Demsa	Adamawa	9.563	12.183	0	
+Latali health post	Demsa	Adamawa	9.563	12.183	0	
+Mandawari Health Post	Yunusari	Yobe	13.019	11.930	0	
+Dara Kura Health Post	Yunusari	Yobe	13.138	11.905	0	
+Dingle Kasa Health Post	Demsa	Adamawa	9.265	11.855	0	
+Kwafara health post	Demsa	Adamawa	9.320	11.824	0	
+Yadini health post	Demsa	Adamawa	9.226	11.752	0	
+mbagung health post	Demsa	Adamawa	9.498	12.251	0	
+Musuiti Health Post	Demsa	Adamawa	9.509	12.213	0	
+Mwarawo Health Post	Demsa	Adamawa	9.511	12.201	0	
+Tassala Health Post	Demsa	Adamawa	9.500	12.146	0	
+Dumbol Lawanti Health Post	Yunusari	Yobe	13.063	11.828	0	
+Zabudum Dachia Health Post	Yunusari	Yobe	12.977	11.817	0	
+Tulotulo Kaska Health Post	Yusufari	Yobe	13.280	10.910	0	
+Tulotulo Lawanti Health Post	Yusufari	Yobe	13.371	11.009	0	
+primary heath post	Larmurde	Adamawa	9.523	11.824	0	
+hoki heath post	Larmurde	Adamawa	9.527	11.872	0	
+zekkun health post	Larmurde	Adamawa	9.517	11.896	0	
+Kedemure Health Post	Demsa	Adamawa	9.332	12.003	0	
+Beti Health Post	Fufore	Adamawa	9.110	12.668	0	
+L C C N Health Post Ba Usmanu	Fufore	Adamawa	8.905	12.720	0	
+Goshinda Health Post	Fufore	Adamawa	9.579	12.998	0	
+Health Post	Song	Adamawa	9.595	13.053	0	
+Magdari Health Post	Song	Adamawa	9.667	12.947	0	
+kwambula heath post	Madagali	Adamawa	10.764	13.398	0	
+Mbunga Health Post	Fufore	Adamawa	9.509	13.010	0	
+Ribabu Health Post	Fufore	Adamawa	9.645	12.861	0	
+Tala Health Post Tala	Fufore	Adamawa	9.622	12.919	0	
+Njanjanre Health Post	Fufore	Adamawa	9.222	12.738	0	
+Federal Polytechnic, Ado-Ekiti	Adó-Èkìtì	Ekiti	7.590	5.304	0	FPA
+wanuki heath post	Madagali	Adamawa	10.784	13.486	0	
+hyambula primary heath post	Madagali	Adamawa	10.868	13.525	0	
+Parda Health Post	Fufore	Adamawa	9.181	12.722	0	
+Wuro Yelde Health Post Gurin	Fufore	Adamawa	9.117	12.873	0	
+Bagauri Health Post	Fufore	Adamawa	8.834	12.615	0	
+Bosivani Health Post	Fufore	Adamawa	8.799	12.485	0	
+Gogra Health Post	Fufore	Adamawa	8.946	12.573	0	
+Ngurore Health Post	Fufore	Adamawa	8.977	12.617	0	
+Dingala Health Post	Fufore	Adamawa	8.927	12.220	0	
+Gatiro Health Post	Fufore	Adamawa	9.075	12.262	0	
+Gatugel Health Post	Fufore	Adamawa	9.037	12.256	0	
+Hamalaire Namro Health Post	Fufore	Adamawa	8.889	12.228	0	
+ndalmi heath post	Madagali	Adamawa	10.766	13.536	0	
+Health Post	Fufore	Adamawa	9.027	12.172	0	
+kapule heath post	Hong	Adamawa	10.132	13.108	0	
+maraba heath post	Maiha	Adamawa	9.627	13.100	0	
+wurokurere heath post	Fufore	Adamawa	9.535	13.128	0	
+Jilima Health Post	Fufore	Adamawa	9.021	12.078	0	
+Kabilo Vichel Health Post Kabilo Vichel	Fufore	Adamawa	9.031	12.216	0	
+Kiri Health Post	Fufore	Adamawa	9.096	12.220	0	
+salma koli heath post	Maiha	Adamawa	10.016	13.096	0	
+Ndingala Health Post	Fufore	Adamawa	8.927	12.221	0	
+Rumde Giwa Health Post	Fufore	Adamawa	8.980	12.225	0	
+Digino Health Post	Fufore	Adamawa	9.372	12.640	0	
+Makwai Health Post	Fune	Yobe	11.865	11.264	0	
+Gazara Kuma Health Post	Fune	Yobe	12.070	11.002	0	
+Chafajaule Health Post	Fufore	Adamawa	9.316	12.865	0	
+Dason Bwate Health Post	Fufore	Adamawa	9.252	12.634	0	
+Dason Health Post	Fufore	Adamawa	9.252	12.633	0	
+Dulo Bwatiye Health Post	Fufore	Adamawa	9.345	12.780	0	
+Bai Health Post	Fufore	Adamawa	8.985	12.501	0	
+Koksufa Health Post	Fufore	Adamawa	9.062	12.456	0	
+Tomsoro Health Post	Fufore	Adamawa	9.052	12.482	0	
+Bilachi Health Post	Fufore	Adamawa	9.378	12.847	0	
+Boloko Health Post	Fufore	Adamawa	9.566	12.745	0	
+Dengeshi Health Post	Fufore	Adamawa	9.538	12.857	0	
+Babande Health Post	Fune	Yobe	12.052	11.236	0	
+Bati Health Post	Fufore	Adamawa	8.886	12.460	0	
+Health Post	Fune	Yobe	11.970	11.377	0	
+Begni Health Post	Fufore	Adamawa	8.891	12.393	0	
+Laide Health Post	Fufore	Adamawa	8.847	12.470	0	
+Nyibango Health Post	Fufore	Adamawa	9.005	12.339	0	
+Ogburi Health Post	Fufore	Adamawa	8.800	12.421	0	
+Maltumba Bilal Health Post	Fune	Yobe	11.706	11.326	0	
+Ugi Health Post	Fufore	Adamawa	8.981	12.434	0	
+Wuitere Health Post	Fufore	Adamawa	8.851	12.399	0	
+Dissol Health Post	Ganye	Adamawa	8.325	12.057	0	
+Gansanen Health Post	Ganye	Adamawa	8.211	12.035	0	
+Jusangum Health Post	Ganye	Adamawa	8.348	11.976	0	
+Dadiri Health Post	Jada	Adamawa	8.466	12.058	0	
+Gang Woki Health Post	Jada	Adamawa	8.469	12.091	0	
+Karabli Health Post	Guyuk	Adamawa	9.711	11.877	0	
+Jagra Health Post	Guyuk	Adamawa	9.885	11.903	0	
+Gwalgaura Health Post	Guyuk	Adamawa	9.713	11.938	0	
+Kerau Health Post	Guyuk	Adamawa	9.687	11.900	0	
+Pondiwe Health Facility	Guyuk	Adamawa	9.732	11.937	0	
+Mutuku Health Post	Hong	Adamawa	10.315	12.971	0	
+Mutuku Nsida Health Post	Hong	Adamawa	10.315	12.970	0	
+Dakza Health Post	Hong	Adamawa	10.150	13.002	0	
+Wuro Bokki Health Post	Hong	Adamawa	10.178	12.885	0	
+Banga Health Post	Hong	Adamawa	10.439	12.852	0	
+wuro halde health post	Kirfi	Bauchi	10.299	10.303	0	
+wuro harde health post	Kirfi	Bauchi	10.299	10.303	0	
+Tarajim Health Post	Nangere	Yobe	12.023	10.956	0	
+Fadawa Health Post	Nangere	Yobe	11.575	11.008	0	
+Gabaru Health Post	Nangere	Yobe	11.777	10.929	0	
+Yaro Karekare Health Post	Nangere	Yobe	11.681	10.939	0	
+Daniski Health Post	Nangere	Yobe	11.629	11.008	0	
+Buzu Karekare Health Post	Nangere	Yobe	11.797	11.030	0	
+Duddaye Health Post	Nangere	Yobe	11.804	10.995	0	
+Koyaya Health Post	Fune	Yobe	11.474	11.533	0	
+Ajiri Health Post	Geidam	Yobe	12.828	11.722	0	
+Kwanan Kuka Health Post	Hong	Adamawa	10.235	12.993	0	
+Health Post Mblagyang	Hong	Adamawa	10.339	13.047	0	
+Fadama Rake Health Post	Hong	Adamawa	10.229	12.980	0	
+Garin Mele Health Post	Nangere	Yobe	11.742	11.147	0	
+Potiskum Central Health Clinic	Potiskum	Yobe	11.709	11.069	0	
+Potiskum Maternity and Child Health Center	Potiskum	Yobe	11.710	11.068	0	
+Pessi Health Post	Ganye	Adamawa	8.452	12.131	0	
+Dalam Health Post	Ganye	Adamawa	8.478	11.915	0	
+Dimgam Health Post	Ganye	Adamawa	8.448	11.955	0	
+Gangjaen Health Post	Ganye	Adamawa	8.420	11.958	0	
+Gangjang Health Post	Ganye	Adamawa	8.420	11.957	0	
+Gatenen Health Post	Ganye	Adamawa	8.434	11.920	0	
+Gudin Health Post	Ganye	Adamawa	8.441	11.989	0	
+Sanvam Health Post	Ganye	Adamawa	8.403	11.990	0	
+Banda Sarga Health Post	Jada	Adamawa	8.515	12.152	0	
+Bandatsarga Health Post	Jada	Adamawa	8.516	12.152	0	
+Bari Jimila Health Post	Ganye	Adamawa	8.471	12.247	0	
+Wadore Health Post	Jada	Adamawa	8.466	12.163	0	
+New Market Health Post	Jada	Adamawa	8.456	12.043	0	
+Ngurore Gantum Health Post	Ganye	Adamawa	8.331	12.226	0	
+Health Post	Geidam	Yobe	12.547	12.425	0	
+Health Post	Geidam	Yobe	12.845	12.319	0	
+Health Post	Geidam	Yobe	12.888	11.920	0	
+Health Post	Geidam	Yobe	12.889	11.925	0	
+Health Post	Geidam	Yobe	12.869	11.899	0	
+Health Post	Geidam	Yobe	12.808	11.828	0	
+Health Post	Gujba	Yobe	11.521	12.237	0	
+Health Post	Gujba	Yobe	11.613	12.272	0	
+Health Post	Gujba	Yobe	11.377	12.185	0	
+Health Post	Gujba	Yobe	11.271	11.727	0	
+Health Post	Gulani	Yobe	10.923	11.760	0	
+ealth Post	Gulani	Yobe	11.070	11.805	0	
+Health Post	Gulani	Yobe	11.105	11.898	0	
+Health Post	Gulani	Yobe	11.096	11.865	0	
+Health Post	Gulani	Yobe	10.911	11.546	0	
+Health Post	Gulani	Yobe	10.877	11.600	0	
+Health Post	Gulani	Yobe	10.876	11.634	0	
+Health Post	Gulani	Yobe	10.869	11.567	0	
+Health Post	Gulani	Yobe	11.054	11.561	0	
+Health Post	Fika	Yobe	11.022	11.508	0	
+Health Post	Gulani	Yobe	11.071	11.660	0	
+Health Post	Gulani	Yobe	11.047	11.723	0	
+Health Post	Gulani	Yobe	11.058	11.927	0	
+Health Post	Gulani	Yobe	11.049	11.913	0	
+Health Post	Gulani	Yobe	11.022	11.789	0	
+Health Post	Gulani	Yobe	11.096	11.865	0	
+Health Post	Gulani	Yobe	11.070	11.806	0	
+Auchi Polytechnic	Etsako West	Edo	7.063	6.278	0	
+Poly Road	Etsako West	Edo	7.015	6.285	1	
+POSH, Specialist Hospital	Enugu North	Enugu	6.457	7.524	0	
+Powerline Street	Alimosho	Lagos	6.665	3.261	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.484	7.016	1	
+Port Harcourt - Owerri Road	Owerri Municipal	Imo	5.478	7.012	1	
+Wudil - Potiskum Federal Road	Potiskum	Yobe	11.714	11.067	1	
+Postoffice road	Chikun	Kaduna	10.455	7.454	1	
+Powerline Road	Ifo	Ogun	6.669	3.328	1	
+Kayle Bagah Post	Akko	Gombe	9.996	11.157	0	
+The Potters Specialist Hospital	Jos North	Plateau	9.864	8.860	0	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.816	7.010	1	
+Port Harcourt - Aba Expressway	Obio/Akpor	Rivers	4.825	7.005	1	
+federal polytechnic kaltungo,	Shongom	Gombe	9.827	11.288	0	
+Port Harcourt - Aba Expressway	Port-Harcourt	Rivers	4.775	7.013	1	
+Powerline Street	Alimosho	Lagos	6.654	3.255	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.843	7.038	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.846	7.043	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.864	7.098	1	
+Enugu - Port Harcourt Expressway	Oyigbo	Rivers	4.880	7.128	1	
+Oil and Gas Polytechnic,	Bonny	Rivers	4.431	7.194	0	
+Port Harcourt - Owerri Road	Ohaji/Egbema	Imo	5.269	6.905	1	
+Enugu Porthacourt Road	Enugu South	Enugu	6.405	7.525	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.396	7.517	1	
+Enugu - Port Harcourt Expressway	Enugu South	Enugu	6.388	7.502	1	
+Enugu - Port Harcourt Expressway	Nkanu West	Enugu	6.344	7.488	1	
+Enugu - Port Harcourt Expressway	Obio/Akpor	Rivers	4.866	7.102	1	
+Enugu - Port Harcourt Expressway	Okigwe	Imo	5.822	7.336	1	
+Enugu - Port Harcourt Expressway	Aba South	Abia	5.058	7.327	1	
+Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.125	7.330	1	
+Enugu - Port Harcourt Expressway	Osisioma Ngwa	Abia	5.126	7.330	1	
+Enugu - Port Harcourt Expressway	Umuahia South	Abia	5.504	7.446	1	
+Enugu - Port Harcourt Expressway	Umuahia North	Abia	5.537	7.461	1	
+Port Harcourt Road	Aba South	Abia	5.104	7.365	1	
+Jigawa Health Post	Mashi	Katsina	13.004	7.950	0	
+Kwanjamawa Health Post	Jahun	Jigawa	12.108	9.592	0	
+Safa Health Post	Auyo	Jigawa	12.239	9.861	0	
+Mu’Azu Health Post	Sule Tankakar	Jigawa	12.756	9.301	0	
+Potiskum	Potiskum	Yobe	11.668	11.126	2	
+Polchi	Dass	Bauchi	10.091	9.407	2	
+Port-Harcourt	Port-Harcourt	Rivers	4.769	7.037	2	

@@ -1,0 +1,2669 @@
+Kaduna	Kaduna North	Kaduna	10.518	7.436	3	
+Kaura-Namoda	Kaura Namoda	Zamfara	12.594	6.586	3	
+Kan Rafi	Igabi	Kaduna	10.600	7.616	2	
+Kaingiwa	Arewa Dandi	Kebbi	12.553	3.817	3	
+Kaita	Kaita	Katsina	13.084	7.741	3	
+Guidan Kara	Gada	Sokoto	13.756	5.856	2	
+Biguel Kankoura	Gada	Sokoto	13.820	5.700	2	
+Kantiérawa	Madaoua	Sokoto	13.684	6.098	2	
+Kanamga	Maïné Soroa	Yobe	13.124	12.110	2	
+Guidan Kané	Kaita	Katsina	13.333	7.793	2	
+Guidan Kaji	Gazaoua	Katsina	13.322	8.035	2	
+Dan Kano	Guidan Roumdji	Sokoto	13.279	6.739	2	
+Garin Kané	Guidan Roumdji	Sokoto	13.581	6.469	2	
+Garin Kaoura	Jibia	Katsina	13.064	7.171	2	
+Koufan Kässoua	Madarounfa	Katsina	13.180	7.520	2	
+May Adoua Kadey	Tessaoua	Katsina	13.270	8.175	2	
+Kadi	Chikun	Kaduna	10.453	7.254	2	
+Kan Girni	Igabi	Kaduna	10.739	7.597	2	
+Kakau	Chikun	Kaduna	10.376	7.396	2	
+Kaiama	Kaiama	Kwara	9.610	3.941	3	
+Kaderko	Keana	Nasarawa	8.250	8.533	0	
+Goulbin Ka	Kebbe	Sokoto	11.693	4.411	2	Gulbin Ka
+Kajuru	Kajuru	Kaduna	10.264	7.622	0	
+Kalichiro	Abadam	Borno	13.537	13.213	2	
+Dutsen Kam	Warji	Bauchi	11.117	9.850	2	Dutsin Kam
+Kala Orubou	Brass	Bayelsa	4.386	6.245	2	Kallah
+Maimazari Katawa	Dambatta	Kano	12.569	8.615	2	
+Kalalawa	Ngelzarma	Yobe	11.939	11.861	2	Kailalawa
+Kafin Gwandu	Toro	Bauchi	10.296	9.115	2	Gwandu
+Katti Kime	Tarmua	Yobe	12.099	12.191	2	Kati Kime
+Kairi	Mobbar	Borno	12.980	12.642	2	
+Owinkiri Kalama	Asari-Toru	Rivers	4.738	6.834	2	Owinkiri Kalama;Winkiri Kalama;Omekwe-Kalama
+Kari	Darazo	Bauchi	11.243	10.559	3	
+Karaye	Maiyama	Kebbi	12.030	4.273	2	
+Kamakawo	Bunza	Kebbi	12.124	4.002	2	
+Kamagama	Yabo	Sokoto	12.735	4.867	2	
+Kaikayaje	Birnin Kebbi	Kebbi	12.560	4.194	2	
+Katu	Suru	Kebbi	11.892	4.268	2	
+Kadoli	Kirfi	Bauchi	10.305	10.741	2	
+Kanawo Adarawa	Tambuwal	Sokoto	12.322	4.661	2	
+Dogon Kade	Koko-Besse	Kebbi	11.328	4.407	2	
+Dogon-Kade	Gummi	Zamfara	12.062	4.973	2	
+Kachere	Chikun	Kaduna	10.322	7.217	2	Kecheri
+Kade	Shanga	Kebbi	11.186	4.636	2	
+Ungwan Kambari	Tambuwal	Sokoto	12.419	4.869	2	
+Kaiaji	Isa	Sokoto	13.137	6.483	2	
+Kahaure	Tsafe	Zamfara	11.866	6.854	2	
+Gidan Karowi	Ikara	Kaduna	11.324	8.114	2	Karowi
+Kapali	Bauchi	Bauchi	10.172	10.173	2	
+Kafin Sarkin Yaki	Kirfi	Bauchi	10.540	10.414	2	
+Kafin Iyal	Kirfi	Bauchi	10.588	10.469	2	
+Kadaja	Tudun Wada	Kano	11.229	8.508	2	
+Kafin Wambai	Lafia	Nasarawa	8.567	8.450	2	Kafin Wamba;Kefin Wombai
+Katanga	Kiyawa	Jigawa	11.700	9.468	2	
+Kachuwi	Munya	Niger	9.933	7.167	2	Kuchiwai
+Kabulawa	Marte	Borno	12.265	13.532	2	
+Namtari Kahu	Girei	Adamawa	9.500	12.450	2	Hamajidda
+Karu	Municipal Area Council	FCT Abuja	9.011	7.575	2	
+Kaffin-Sanu	Karu	Nasarawa	8.716	7.830	2	Keffin Shanu
+Kangli	Girei	Adamawa	9.400	12.383	2	Kangali;Kagalong
+Karagari	Kwami	Gombe	10.504	11.352	2	
+Kamuru	Zangon Kataf	Kaduna	9.889	8.189	0	
+Karandadi	Borgu	Niger	10.520	4.492	2	
+Kajola	Yewa South	Ogun	6.767	2.967	2	Kajawla
+Kwarabe	Jema'A	Kaduna	9.347	8.043	2	Kano
+Kabo	Gurara	Niger	9.412	7.180	2	
+Gazarago	Kuje	FCT Abuja	8.732	7.437	2	Kazarago
+Kaku	Riyom	Plateau	9.583	8.767	2	
+Barikin Gidar Kanat	Jos South	Plateau	9.767	8.817	2	
+Kafin Fulani	Gwaram	Jigawa	11.350	9.733	2	Kafin Filani
+Kaya	Madagali	Adamawa	10.816	13.419	2	
+Kalauwa A	Abadam	Borno	13.507	13.085	2	Kalauwa Bulabulin
+Kaza	Dikwa	Borno	12.008	14.209	2	Kasa
+Katsina Ala	Buruku	Benue	7.167	9.283	3	
+Dan Karmawa	Sabon Birni	Sokoto	13.447	6.361	2	
+Unguwa Kangarro	Kachia	Kaduna	9.726	7.761	2	
+Kaoje	Dandi	Kebbi	11.949	3.902	2	
+Kanya Maikaho	Garki	Jigawa	12.365	8.916	2	Maikaho;Kogin Maikaho
+Kazaure	Kazaure	Jigawa	12.654	8.415	2	
+Kaweri	Zango	Katsina	12.888	8.694	2	
+Jeki Kanakuru	Shani	Borno	10.070	12.003	2	Jeki
+Kashim	Shani	Borno	10.133	12.064	2	
+Dutsen Kafa	Tsanyawa	Kano	12.278	8.057	2	
+Kaifin Maiko	Bagwai	Kano	12.038	8.166	2	Kafin Maiko
+Kagara	Baure	Katsina	12.878	8.805	2	
+Katirje	Tafawa-Balewa	Bauchi	9.734	9.326	2	
+Kate	Ona Ara	Oyo	7.217	4.033	2	Kute
+Katari	Kachia	Kaduna	9.700	7.450	2	Kateri
+Kapo	Fufore	Adamawa	9.241	12.630	2	
+Kalma	Kala-Balge	Borno	12.184	14.561	2	Kulma
+Kaza	Talata Mafara	Zamfara	12.125	6.094	2	
+Kashuan Daji	Rafi	Niger	10.315	6.166	2	
+Katalan Kaura	Gwadabawa	Sokoto	13.313	5.132	2	
+Kasaura	Kaura Namoda	Zamfara	12.491	6.641	2	
+Dogon Kawo	Tsafe	Zamfara	12.010	7.080	2	
+Kadadi	Gada	Sokoto	13.860	5.489	2	
+Kaddi Tudu	Gada	Sokoto	13.601	5.732	2	
+Katutu	Tangaza	Sokoto	13.541	4.841	2	
+Kazaure	Gudu	Sokoto	13.282	4.196	2	Kazaura
+Karakai	Bungudu	Zamfara	12.376	6.451	2	
+Gidan Kano	Talata Mafara	Zamfara	12.466	6.147	2	Guidan Kano
+Ungwan Kati	Maru	Zamfara	11.210	6.461	2	
+Ungwan Karo	Rogo	Kano	11.395	7.773	2	Karo
+Ungwan Kanakargo	Makarfi	Kaduna	11.263	7.982	2	Kanakargo
+Unguwar Kaura	Tsafe	Zamfara	11.719	6.881	2	
+Kaua	Kajuru	Kaduna	10.419	7.803	2	Kalla
+Kashiramu	Igabi	Kaduna	10.546	7.756	2	Kashirmo
+Rugga Alkali	Shagari	Sokoto	12.742	5.130	2	Rugan Kale
+Juran Kari	Lere	Kaduna	10.368	8.676	2	Karfi
+Katoge	Maru	Zamfara	11.168	6.496	2	
+Karda	Tsafe	Zamfara	11.866	6.902	2	
+Kawara-Boi	Suru	Kebbi	11.837	4.174	2	
+Kaura Minyo	Bodinga	Sokoto	12.836	5.127	2	Kura Munjo
+Kaura Malun	Tureta	Sokoto	12.584	5.276	2	Kaura Malam
+Karuonguwa	Ngelzarma	Yobe	11.916	11.870	2	
+Kafiwa	Jakusko	Yobe	12.711	10.717	2	
+Katamma	Jakusko	Yobe	12.564	10.927	2	Kotoma
+Karaga Waro	Kaga	Borno	11.908	12.553	2	Karagawaru
+Kalgo	Kalgo	Kebbi	12.332	4.202	3	
+Kade	Gwandu	Kebbi	12.546	4.451	2	
+Kalajanga	Kirfi	Bauchi	10.327	10.635	2	
+Wura-Kafi	Gummi	Zamfara	12.090	4.878	2	
+Kabar	Igabi	Kaduna	10.633	7.684	2	Kaban
+Kaboro	Maru	Zamfara	11.245	6.149	2	
+Rijian Kassa	Fakai	Kebbi	11.593	4.971	2	
+Karamin-Tago	Arewa Dandi	Kebbi	12.755	4.235	2	
+Baban-Kada	Maru	Zamfara	11.320	6.557	2	
+Kalage	Zurmi	Zamfara	13.054	6.662	2	
+Kalange	Tsafe	Zamfara	11.898	6.861	2	
+Kariya	Tudun Wada	Kano	11.252	8.329	2	
+Karofi Yashi	Rimin Gado	Kano	11.881	8.344	2	Karofin Yashi
+Gar	Alkaleri	Bauchi	10.072	10.263	2	Gar Kangere
+Kadedan	Sakaba	Kebbi	10.986	5.612	2	
+Katcha	Katcha	Niger	8.762	6.312	3	
+Kafin Bormi	Balanga	Gombe	9.981	11.673	2	
+Kweri	Birnin Kudu	Jigawa	11.609	9.581	2	Karfi
+Kasi	Shani	Borno	10.324	11.928	2	Kassi
+Karare	Batagarawa	Katsina	12.833	7.583	2	Karere (1)
+Kubuku Kadaka	Kwaya Kusar	Borno	10.428	11.928	2	Kubuku Kaduga
+Kamaru Hausawa	Zangon Kataf	Kaduna	9.883	8.185	2	
+Kamo	Kaltungo	Gombe	9.917	11.350	2	Kamu
+Kagoro	Kaura	Kaduna	9.600	8.383	2	
+Kannike	Akinyele	Oyo	7.583	3.850	2	
+Fagan Kawo	Garki	Jigawa	12.400	9.350	2	Fagen Kawo
+Aruna Kata	Edu	Kwara	8.826	5.245	2	
+Karunji	Baruten	Kwara	9.920	3.595	2	
+Kawaki	Lafia	Nasarawa	8.480	8.534	2	
+Kansagi	Katcha	Niger	9.017	6.267	2	Kansanagi;Kansangi
+Dan Kanam	Kaita	Katsina	13.234	7.893	2	Dan Kunama;Dan Kunama
+Kabur	Mubi South	Adamawa	10.200	13.263	2	
+Kauriri	Konduga	Borno	11.534	13.538	2	Kabuiri
+Kadugulo	Kala-Balge	Borno	11.904	14.411	2	
+Kangarwa	Kukawa	Borno	13.310	13.508	2	
+Kanama	Abadam	Borno	13.308	13.279	2	Kaririwa
+Garere Kiriye	Abadam	Borno	13.293	13.341	2	Kanama
+Karam	Abadam	Borno	13.475	13.396	2	
+Keffin Moyi	Awe	Nasarawa	8.100	9.267	2	Kafin Mayi
+Kachiri	Damboa	Borno	11.253	13.134	2	
+Shabaisa	Agaie	Niger	9.050	6.517	2	Pati Kasan
+Koma Kaudi	Kala-Balge	Borno	12.010	14.583	2	
+Kadawa	Dandume	Katsina	11.433	7.217	2	Kadawa Abas
+Kanya Babba	Babura	Jigawa	12.434	8.847	3	
+Kadama	Hawul	Borno	10.461	12.421	2	
+Gwanadi Kanti	Dandi	Kebbi	11.680	3.684	2	
+Doruwa-Goma	Baure	Katsina	12.763	8.665	2	Kasamawa
+Kaikiawa	Zango	Katsina	12.874	8.707	2	
+Kaffin Rabo	Babura	Jigawa	12.517	8.783	2	Ungwan Kyambo;Kyambo;Unguwar Kyambo
+Kangakoe	Dandi	Kebbi	11.841	3.734	2	
+Kali	Bagudo	Kebbi	11.483	3.716	2	
+Kagadame	Babura	Jigawa	12.566	8.660	2	
+Tasawa Karama	Dambatta	Kano	12.559	8.633	2	
+Kadun	Kagarko	Kaduna	9.575	7.788	2	
+Karaya	Rafi	Niger	10.217	6.233	2	Kayara
+Kaiya	Sakaba	Kebbi	11.054	5.560	2	
+Kandem	Wurno	Sokoto	13.142	5.347	2	
+Karma	Konduga	Borno	11.701	13.066	2	Kama
+Kaboji	Mashegu	Niger	10.109	5.427	2	
+Kaurame Funamayo	Demsa	Adamawa	9.233	12.033	2	Kaurami
+Kashidire	Kala-Balge	Borno	11.969	14.409	2	
+Illela-Kakore	Arewa Dandi	Kebbi	13.142	4.325	2	
+Tungan Kaluwa	Ngaski	Kebbi	10.833	4.839	2	
+Kato	Agwara	Niger	10.719	4.692	2	
+Gidan Kaya	Gwadabawa	Sokoto	13.285	5.339	2	
+Ungwan Kabin Giro	Birnin Magaji-Kiyaw	Zamfara	12.458	6.745	2	
+Kanta	Gada	Sokoto	13.787	5.477	2	
+Ferin-Kaya	Bagudo	Kebbi	10.982	4.326	2	
+Gidan Kajai	Binji	Sokoto	13.134	4.936	2	
+Kaurawa	Tangaza	Sokoto	13.673	4.923	2	Kaurawo
+Kambana	Tangaza	Sokoto	13.612	4.859	2	
+Karoka	Bungudu	Zamfara	12.226	6.802	2	
+Kalambayna	Wamako	Sokoto	13.042	5.191	2	Kalabaina
+Kabawa	Binji	Sokoto	13.259	4.924	2	
+Gidan Kara	Gada	Sokoto	13.558	5.786	2	
+Kafin Magaji	Gwarzo	Kano	11.929	7.979	2	
+Ungwan Kanawa	Ikara	Kaduna	11.194	8.232	2	Kanawa
+Kamazo	Chikun	Kaduna	10.484	7.461	2	
+Kanva	Toro	Bauchi	10.191	8.991	2	Kanya
+Katabu	Igabi	Kaduna	10.695	7.512	3	
+Karallaji	Bagudo	Kebbi	11.199	4.027	2	Karlaje
+Karara	Toro	Bauchi	10.482	8.892	2	
+Kalaftogbene Camp	Burutu	Delta	5.138	5.581	2	
+Katage	Faskari	Katsina	11.593	6.859	2	
+Katanga	Tsafe	Zamfara	11.835	6.929	2	
+Fadan Kaiba	Kauru	Kaduna	10.278	8.269	2	
+Ogbogoro	Obio/Akpor	Rivers	4.847	6.929	2	Kalabukuru
+Kayauri	Nangere	Yobe	11.891	11.067	2	Kaiuri
+Kakuma	Ijumu	Kogi	7.583	6.006	2	Kakumu
+Kakanfo	Yewa North	Ogun	6.863	2.889	2	
+Kabiama	Sagbama	Bayelsa	5.043	6.087	2	
+Kafin Fulani	Ningi	Bauchi	10.979	9.245	2	Kogin Fulani;Fulani
+Kawia	Magumeri	Borno	12.072	12.440	2	
+Kaltongo	Akko	Gombe	10.090	10.720	2	
+Kajina	Chikun	Kaduna	10.297	7.223	2	
+Matan Kali	Anka	Zamfara	12.079	6.061	2	
+Kawalan-Birni	Gummi	Zamfara	12.152	4.936	2	
+Kaura Dole	Tambuwal	Sokoto	12.306	4.681	2	
+Karamadanba	Koko-Besse	Kebbi	11.434	4.390	2	
+Kalabari	Asari-Toru	Rivers	4.764	6.815	2	Kalabari Settlement
+Ungwan Dan Kade	Kubau	Kaduna	10.762	8.232	2	Dan Kade
+Ungwa Kaye	Birnin Kebbi	Kebbi	12.527	4.150	2	
+Ungwan Kawo	Maru	Zamfara	11.452	6.376	2	
+Katriji	Sumaila	Kano	11.251	8.791	2	
+Kapubara	Borgu	Niger	10.643	3.875	2	Tungan Madugu
+Ungwan Kane	Tsafe	Zamfara	11.796	6.857	2	
+Garun Kaya	Kura	Kano	11.768	8.496	2	
+Kafin Galadima	Kirfi	Bauchi	10.558	10.437	2	
+Karlahi	Fufore	Adamawa	9.090	12.701	2	
+Zungon Katab	Zangon Kataf	Kaduna	9.833	8.400	2	Zangwan Katab;Zangon Katab;Katab;Zungon Katab
+Karmajiji	Municipal Area Council	FCT Abuja	9.024	7.423	2	
+Unguwar Kaga	Jibia	Katsina	13.083	7.267	2	Ungwan Kaga;Kaga
+Kaltungo	Kaltungo	Gombe	9.820	11.312	3	
+Giya	Garki	Jigawa	12.350	9.200	2	Kafin Giya
+Kassa Market	Barkin Ladi	Plateau	9.584	8.902	2	
+Bununu Kasa	Tafawa-Balewa	Bauchi	9.868	9.663	2	
+Kanja	Wamba	Nasarawa	9.020	8.717	2	
+Kalusari	Damboa	Borno	11.280	13.102	2	
+Kachia	Kachia	Kaduna	9.871	7.957	3	
+Kabbarau	Mobbar	Borno	13.205	12.881	2	Meru K Bukarye
+Kalauwa B	Abadam	Borno	13.501	13.073	2	Kalauwa Kura
+Kala	Kala-Balge	Borno	12.083	14.467	2	
+Kawuiya	Abadam	Borno	13.560	13.246	2	Kawuya
+Kein Yewu	Toto	Nasarawa	8.090	7.138	2	Kainyehu
+Kakalafia	Birnin Kebbi	Kebbi	12.540	4.195	2	
+Kyankyaro Tsofuwa	Babura	Jigawa	12.636	8.661	2	Kankawa
+Kasate	Bagudo	Kebbi	11.624	3.642	2	
+Gwarta Karama	Yankwashi	Jigawa	12.813	8.522	2	Gwirta
+Ungwan Kanya	Arewa Dandi	Kebbi	12.550	3.935	2	
+Kabaka	Bagudo	Kebbi	11.376	3.713	2	
+Kabura	Biu	Borno	10.581	12.226	2	Kebura
+Kaggera	Baure	Katsina	12.878	8.805	2	
+Wuro Koncha	Song	Adamawa	9.800	12.667	2	Kancha;Wuro Kancha
+Kafiwol	Funakaye	Gombe	11.003	11.427	2	
+Kaliyal	Bagudo	Kebbi	11.486	4.102	2	
+Dogon Kade	Kaura Namoda	Zamfara	12.306	6.766	2	
+Warji	Warji	Bauchi	11.183	9.750	2	Katanga Warji;Katangan Warji
+Kajibore II	Bama	Borno	11.451	14.142	2	Kaji Bore
+Dan Kaka	Kaura Namoda	Zamfara	12.411	6.683	2	Unguwar Dan Kaka
+Bakura	Shiroro	Niger	10.394	6.612	2	Karagutu
+Kangiye	Gwadabawa	Sokoto	13.340	5.143	2	
+Katanga	Illela	Sokoto	13.717	5.375	2	
+Kamdan	Tangaza	Sokoto	13.616	5.029	2	
+Karubka	Maru	Zamfara	12.152	6.170	2	
+Kasabu	Agwara	Niger	10.861	4.719	2	
+Karama	Gagarawa	Jigawa	12.399	9.584	2	
+Kufara Kan Hauwa	Chikun	Kaduna	10.665	6.880	2	Kufara
+Kalugo	Binji	Sokoto	13.095	4.714	2	
+Gidan Kako	Gwadabawa	Sokoto	13.453	5.252	2	
+Kalakawa	Kware	Sokoto	13.209	5.224	2	
+Guidan Karte	Bungudu	Zamfara	12.139	6.767	2	
+Kalaba	Illela	Sokoto	13.510	5.466	2	
+Kaura	Kudan	Kaduna	11.312	7.821	2	
+Kangi	Fakai	Kebbi	11.587	4.613	2	
+Hayin Kano	Kubau	Kaduna	10.808	8.548	2	
+Kahuku	Lere	Kaduna	10.297	8.433	2	Kahugu
+Kawara Mairuwa	Suru	Kebbi	11.849	4.170	2	
+Kasamai	Kubau	Kaduna	10.778	8.546	2	Kasami
+Kazuwa	Wasagu-Danko	Kebbi	11.302	6.090	2	
+Kazage	Maru	Zamfara	11.309	6.456	2	
+Karauchi	Maru	Zamfara	11.304	6.585	2	
+Kaurami	Demsa	Adamawa	9.233	12.017	2	Kaurame
+Allah Karrim	Kukawa	Borno	13.116	13.868	2	
+Kafin Madaki	Ganjuwa	Bauchi	10.688	9.761	2	
+Bultawa	Fune	Yobe	11.910	11.752	2	Bula Kawa
+Mosere Ikoga	Ibeju Lekki	Lagos	6.426	3.683	2	Mosherel Kawga
+Karfin Chana	Gudu	Sokoto	13.244	4.507	2	
+Kafin Zaki	Ningi	Bauchi	10.861	9.584	2	Kogin Zaki
+Kafin Romi	Gamawa	Bauchi	12.052	10.506	2	
+Kiri Kasamma	Kiri Kasama	Jigawa	12.693	10.255	2	Kiri Kasama;Kirikasamma;Kirikasama
+Karigiri	Dungass	Yobe	13.026	9.845	2	
+Karelto Kanguri	Gubio	Borno	12.800	12.635	2	
+Okolobili	Abua/Odual	Rivers	4.805	6.720	2	Kalabari Settlement
+Kankarawai	Jega	Kebbi	12.058	4.394	2	
+Kaisoje	Shagari	Sokoto	12.556	4.940	2	
+Kataro	Suru	Kebbi	11.910	4.024	2	
+Ungwan Kaiwa	Jega	Kebbi	12.172	4.197	2	
+Tunga Karwa	Koko-Besse	Kebbi	11.201	4.438	2	
+Kamborra	Southern Ijaw	Bayelsa	4.485	5.911	2	
+Babban Kauye	Tsafe	Zamfara	11.911	6.874	2	
+Kargo	Bebeji	Kano	11.396	8.371	2	
+Ka Lori	Oyigbo	Rivers	4.803	7.438	2	
+Yelwa	Ganjuwa	Bauchi	10.885	10.356	2	Yelwa Kahum
+Kakuma	Ganjuwa	Bauchi	10.630	10.197	2	
+Kadarko	Keana	Nasarawa	8.233	8.567	2	Kaderko
+Kasaru	Kagarko	Kaduna	9.618	7.867	2	
+Gidan Maikeri	Chikun	Kaduna	10.183	7.383	2	Kabula
+Karum	Municipal Area Council	FCT Abuja	9.058	7.379	2	Karumo;Karimu
+Kuttu	Garki	Jigawa	12.433	9.033	2	Kafin Kuttu
+Kasumu	Yewa North	Ogun	7.317	2.900	2	Kasunmu
+Kangi Tsuanpa	Katcha	Niger	9.083	6.167	2	Kangi
+Keya Nungu	Jema'A	Kaduna	9.330	8.063	2	Keya;Kanock Daji
+Kamantan	Zangon Kataf	Kaduna	9.850	8.183	2	Kamatan
+Kolaku	Shani	Borno	10.039	11.781	2	Kalaki
+Kuka Kadangari	Birnin Kudu	Jigawa	11.529	9.617	2	
+Kaguram	Monguno	Borno	12.617	13.667	2	
+Katsura	Gudu	Sokoto	13.612	4.446	2	
+Barikin Sabon Gidan Kanat	Jos South	Plateau	9.767	8.817	2	
+Kaldangari	Dikwa	Borno	11.870	14.214	2	
+Tireji Kali	Bama	Borno	11.489	14.277	2	
+Kafin Doki	Gwaram	Jigawa	11.267	9.767	2	Kafin Dokin
+Katipe	Munya	Niger	9.822	7.094	2	
+Garin Kada	Arewa Dandi	Kebbi	12.373	3.812	2	
+Bwalagyang Bila Kabu	Chibok	Borno	10.878	12.784	2	Bwalaghyan
+Yanjari Kaweri	Baure	Katsina	12.721	8.790	2	
+Katamba	Song	Adamawa	10.021	12.440	2	Katamda
+Katsarduwa	Dambatta	Kano	12.334	8.664	2	
+Ungua Kaura	Baure	Katsina	12.884	8.739	2	
+Ungwan Kade	Arewa Dandi	Kebbi	12.554	3.941	2	
+Kangiwa	Bagudo	Kebbi	11.336	3.713	2	
+Kakilmari	Chibok	Borno	10.866	12.976	2	
+Kagarko	Kagarko	Kaduna	9.494	7.698	2	
+Kantawa	Wamako	Sokoto	13.153	5.250	2	
+Awala	Bungudu	Zamfara	12.066	6.530	2	Kadusa
+Kaurare	Shagari	Sokoto	12.627	4.937	2	
+Kaura	Argungu	Kebbi	12.580	4.280	2	
+Kwolikon Kasa	Kagarko	Kaduna	9.467	7.267	2	
+Kangi	Shanga	Kebbi	11.310	4.598	2	
+Arum Karimi	Wamba	Nasarawa	9.117	8.650	2	Arum Kurmi;Arum-Karmi
+Kakihum	Mariga	Niger	10.859	5.641	2	
+Kurkujar	Musawa	Katsina	12.093	7.772	2	Kurkiyan;Karkujun;Kurkuyan;Kurkujan
+Kawari	Kaura Namoda	Zamfara	12.456	6.642	2	
+Kamata	Wamako	Sokoto	13.008	5.122	2	
+Tulua Kabi	Gudu	Sokoto	13.292	4.289	2	
+Karare	Rimi	Katsina	12.758	7.587	2	Karere (2)
+Kagoya	Gada	Sokoto	13.665	5.849	2	
+Karihe	Bungudu	Zamfara	12.110	6.851	2	
+Kaila	Ngaski	Kebbi	10.333	4.847	2	
+Kaura	Wamako	Sokoto	13.129	5.242	2	
+Kalume	Arewa Dandi	Kebbi	13.179	4.147	2	
+Durusa Kadiri	Gudu	Sokoto	13.543	4.319	2	Darousa
+Kamasu	Silame	Sokoto	13.047	4.961	2	
+Kagara	Goronyo	Sokoto	13.400	5.638	2	
+Gidan Kadiri	Bungudu	Zamfara	12.256	6.848	2	
+Gidan Kada	Bungudu	Zamfara	12.213	6.869	2	
+Ungwan Kaura	Giwa	Kaduna	11.150	7.101	2	Angwan Kaura
+Ungwan Kasa	Giwa	Kaduna	11.127	7.428	2	Angwan Kasa
+Muya	Giwa	Kaduna	10.749	7.115	2	Muya Kadaga
+Gidan Karma	Kware	Sokoto	13.318	5.210	2	
+Karengia	Gada	Sokoto	13.541	5.734	2	Karangiya
+Karo 2	Malumfashi	Katsina	11.952	7.601	2	Karo
+Kagara	Kafur	Katsina	11.661	7.842	2	Kogara
+Sofon Kazage	Giwa	Kaduna	11.063	6.983	2	Sabon Kazage
+Kasewa	Chikun	Kaduna	10.345	7.153	2	
+Karku	Kajuru	Kaduna	10.282	7.577	2	Kaku
+Karambana	Lere	Kaduna	10.121	8.655	2	
+Kantu	Warri South-West	Delta	5.445	5.350	2	Akantu;Katu
+Kabchi	Mashegu	Niger	10.188	5.404	2	Kabechi
+Liman Katagum	Bauchi	Bauchi	10.008	9.775	2	
+Karuonguwa	Fune	Yobe	11.822	11.685	2	
+Kafa	Damboa	Borno	11.315	12.475	2	Kaba
+Kajola	Ijebu North	Ogun	7.033	3.917	2	Kajawla
+Kanuskiri	Brass	Bayelsa	4.354	6.262	2	Kanusikiri
+Karaguwa	Gubio	Borno	12.612	12.598	2	
+Kaseri	Gubio	Borno	12.575	12.791	2	
+Dan Kariwa	Mobbar	Borno	12.952	12.459	2	
+Karoga	Shagari	Sokoto	12.588	4.894	2	
+Kangiwa	Maiyama	Kebbi	12.297	4.272	2	
+Kaltonga	Akko	Gombe	10.091	10.720	2	
+Kadolli	Kirfi	Bauchi	10.304	10.740	2	
+Kaura	Tambuwal	Sokoto	12.305	4.577	2	
+Babban Kauye	Gusau	Zamfara	11.597	6.667	2	
+Kanfani	Argungu	Kebbi	12.724	4.605	2	
+Ungwan Kajinjiri	Igabi	Kaduna	10.802	7.471	2	Ungwan Kajiniri;Anguwan Kajinjiri
+Garin Kanawa	Kirfi	Bauchi	10.258	10.535	2	
+Tunga Kane	Koko-Besse	Kebbi	11.280	4.388	2	
+Tunga Kawo	Bagudo	Kebbi	11.434	4.270	2	
+Kangahi	Fakai	Kebbi	11.416	4.990	2	
+Kaura Wanke	Shagari	Sokoto	12.611	5.008	2	
+Rafin Kade	Kalgo	Kebbi	12.354	4.200	2	
+Kemibiama	Southern Ijaw	Bayelsa	4.795	5.945	2	Kamebiama;Kemibiama;Kamabiama
+Kaffi	Shinkafi	Zamfara	13.145	6.360	2	
+Karengi	Borgu	Niger	10.540	3.909	2	Karenzi
+Kanya	Taura	Jigawa	12.300	9.167	2	Rugar Kanya
+Kagara	Tambuwal	Sokoto	12.484	4.990	2	
+Kadunu	Mangu	Plateau	9.678	9.152	2	
+Tungar Kawo	Wushishi	Niger	9.667	6.050	2	Tungan Kawo
+Umu Kabia	Nwangele	Imo	5.695	7.078	2	
+Kanama	Chikun	Kaduna	10.633	6.833	2	Kunama
+Damero	Baruten	Kwara	8.883	3.083	2	Kayeru
+Koton Karifi	Kogi	Kogi	8.098	6.798	2	
+Kalikuti	Katcha	Niger	9.233	6.517	2	Kalukuti
+Kaiama	Kolokuma/Opokuma	Bayelsa	5.119	6.302	3	
+Gulbin Ka	Wasagu-Danko	Kebbi	11.660	5.545	2	
+Kanafi	Sanga	Kaduna	9.467	8.502	2	
+Kajola	Ifelodun	Kwara	8.347	5.168	2	
+Kofare	Girei	Adamawa	9.333	12.467	2	Kaffare
+Kasan Kogi	Kachia	Kaduna	9.867	7.800	2	Kasam Kogi
+Kafa	Michika	Adamawa	10.606	13.392	2	
+Kaula	Abadam	Borno	13.499	13.386	2	
+Karei	Abadam	Borno	13.616	13.275	2	
+Kaswa	Shiroro	Niger	10.117	6.683	2	Kawo
+Kajeri	Bama	Borno	11.444	13.760	2	
+Kafanchan	Jema'A	Kaduna	9.585	8.293	3	
+Mallam Koro	Gurara	Niger	9.267	7.133	2	Mallam Karo;Mallam
+Kabong	Jos North	Plateau	9.933	8.867	2	
+Bakin Kasuwa West	Hawul	Borno	10.447	12.158	2	Digira
+Unguwar Kanya	Zango	Katsina	12.937	8.615	2	
+Kauri	Zango	Katsina	12.888	8.694	2	
+Ungwan Kalgo	Arewa Dandi	Kebbi	12.550	3.934	2	
+Kauyaga	Chibok	Borno	10.847	12.978	2	
+Kawari	Baure	Katsina	12.802	8.660	2	
+Kigir	Biu	Borno	10.567	12.218	2	Kagua
+Rosa Kaide	Arewa Dandi	Kebbi	13.037	4.449	2	
+Ungwan Karimu	Arewa Dandi	Kebbi	12.469	3.926	2	
+Kabal Balram	Monguno	Borno	12.626	13.732	2	
+Ran Kassa	Barkin Ladi	Plateau	9.585	8.941	2	
+Kankala	Michika	Adamawa	10.579	13.506	2	
+Kalikaderu	Isa	Sokoto	13.234	6.138	2	
+Karna	Guzamala	Borno	13.096	13.078	2	
+Kasasa	Bungudu	Zamfara	12.080	6.560	2	
+Kamitau	Goronyo	Sokoto	13.305	5.865	2	
+Kayowa	Bagudo	Kebbi	10.910	4.418	2	
+Katella	Gwadabawa	Sokoto	13.307	5.139	2	Katala
+Kaura Kimba	Wamako	Sokoto	13.048	5.115	2	
+Kadagiwa	Wurno	Sokoto	13.259	5.751	2	
+Kafin Chana	Gudu	Sokoto	13.224	4.488	2	
+Guidan Karbo	Kaura Namoda	Zamfara	12.314	6.709	2	Gidan Karbo
+Karkun Biba	Kauru	Kaduna	10.113	8.385	2	Karkun Bisa
+Kayerda	Lere	Kaduna	10.498	8.594	2	Keyarda
+Kajui	Kachia	Kaduna	10.032	8.000	2	
+Bakin Kasuan Gwari	Chikun	Kaduna	10.297	7.280	2	Bakin Kasua;Bakin Kasua Gwari
+Gidan Sarkin Karigi	Lere	Kaduna	10.318	8.485	2	Sar Karigi
+Cross Kauwa	Kukawa	Borno	12.946	13.672	2	Kuros Kauwa
+Gabai Kalama	Ngelzarma	Yobe	11.966	11.755	2	
+Kalabilema	Nembe	Bayelsa	4.472	6.360	2	Kalebilema
+Kandu	Wasagu-Danko	Kebbi	11.576	5.211	2	
+Elem Kalabari	Degema	Rivers	4.570	6.974	2	
+Kajawai	Kiri Kasama	Jigawa	12.451	10.357	2	
+Katiwa	Jakusko	Yobe	12.711	10.717	2	
+Kabba	Kabba/Bunu	Kogi	7.829	6.073	2	
+Karagu	Yunusari	Yobe	13.157	11.673	2	
+Kareto Town	Mobbar	Borno	12.886	12.505	2	Karetu
+Molu M. Kanari	Gubio	Borno	12.766	13.005	2	Marlu
+Dagana Kanem	Mobbar	Borno	12.848	12.482	2	
+Kariskin	Sakaba	Kebbi	11.012	5.590	2	
+Kange	Ushongo	Benue	7.055	8.894	2	Konge
+Karimi Maradu	Tambuwal	Sokoto	12.320	4.780	2	
+Kabai	Chikun	Kaduna	10.301	7.480	2	
+Tunga Kaiwa Gungawa	Bagudo	Kebbi	11.029	4.420	2	
+Kadol	Kirfi	Bauchi	10.305	10.741	2	
+Asarara Kaura	Kebbe	Sokoto	12.130	4.695	2	
+Kariya	Tambuwal	Sokoto	12.280	4.686	2	
+Kafa	Maiyama	Kebbi	11.732	4.328	2	
+Bindanu Karami	Kebbe	Sokoto	11.629	4.519	2	
+Kadaura	Giwa	Kaduna	11.043	6.981	2	Gidazumi
+Tabkin Kaiwa	Dange-Shuni	Sokoto	12.704	5.465	2	
+Kasama	Southern Ijaw	Bayelsa	4.864	5.962	2	
+Angwa Kao	Maru	Zamfara	11.316	6.566	2	
+Mai-Kabarume	Wasagu-Danko	Kebbi	11.287	6.075	2	
+Kauyen Jatau	Tsafe	Zamfara	11.910	6.827	2	
+Karfi	Kubau	Kaduna	11.042	8.292	2	Karif (3)
+Kagadama	Birnin Kudu	Jigawa	11.417	9.536	2	
+Kasheri Amadu	Bayo	Borno	10.337	11.791	2	Kasheri
+Tukun Kasa	Jema'A	Kaduna	9.500	8.483	2	Nisama
+Karewa	Yola South	Adamawa	9.245	12.450	2	
+Kassa	Barkin Ladi	Plateau	9.588	8.896	2	
+Kanock	Jema'A	Kaduna	9.334	8.083	2	Kirki
+Kaura Girke	Tureta	Sokoto	12.599	5.476	2	
+Kajola	Yewa North	Ogun	6.867	2.750	2	
+Bununu Kassa	Tafawa-Balewa	Bauchi	9.868	9.663	2	
+Kakosso	Yabo	Sokoto	12.751	4.832	2	
+Kardio Fulani	Gwoza	Borno	11.265	13.651	2	
+Kulango	Yola North	Adamawa	9.367	12.283	2	Kalangu;Kulangu
+Kogi	Obafemi Owode	Ogun	7.133	3.567	2	Kawgi
+Kapu	Lokoja	Kogi	8.643	6.302	2	
+Kanikuru	Agaie	Niger	9.117	6.467	2	Kankuru
+Kakuda Tsuru	Gumel	Jigawa	12.554	9.382	2	
+Kaura	Shagari	Sokoto	12.596	4.998	2	
+Kalangu	Shagari	Sokoto	12.638	4.940	2	
+Kacha	Dutse	Jigawa	11.820	9.190	2	
+Kankila	Michika	Adamawa	10.616	13.264	2	
+Kabur-Maduwa	Askira-Uba	Borno	10.651	13.262	2	
+Kabela	Mobbar	Borno	13.200	12.653	2	
+Malum Kaunari	Abadam	Borno	13.698	13.338	2	Malum Konari
+Kapagi	Agaie	Niger	9.167	6.417	2	
+Tungan Kada	Bagudo	Kebbi	11.445	3.948	2	
+Kakibare	Makoda	Kano	12.549	8.514	2	
+Ungua Cinai Karama	Babura	Jigawa	12.605	8.663	2	
+Kamba	Dandi	Kebbi	11.854	3.655	3	
+Karza	Ringim	Jigawa	12.155	8.960	2	
+Karkarku	Sandamu	Katsina	12.994	8.357	2	Daudau
+Kaumutiyahi	Chibok	Borno	10.861	12.962	2	Kaumutuyahi
+Karlaje	Shani	Borno	10.043	12.048	2	Kera Laji
+Kagadama	Ringim	Jigawa	12.271	8.937	2	
+Kagwaru	Karu	Nasarawa	9.174	7.682	2	
+Kassikarama	Ogbia	Bayelsa	4.821	6.257	2	
+Gidan Sarikin Katul	Kachia	Kaduna	9.900	8.017	2	
+Kaura Dodu	Gwadabawa	Sokoto	13.232	5.333	2	
+Kaga	Marte	Borno	12.151	13.911	2	
+Kadan	Kagarko	Kaduna	9.526	7.807	2	
+Kanguri	Abadam	Borno	13.540	13.125	2	
+Kagari	Rafi	Niger	10.417	6.067	2	
+Unguwar Karki	Gusau	Zamfara	12.197	6.941	2	Karki
+Iyakan Kasa	Ngaski	Kebbi	10.250	4.670	2	
+Karufi	Kaura Namoda	Zamfara	12.342	6.659	2	
+Unguwar Karihe	Bungudu	Zamfara	12.112	6.847	2	
+Kadadi	Gada	Sokoto	13.816	5.536	2	
+Sahiel Kaurawa	Gada	Sokoto	13.709	5.659	2	
+Kalanieni	Tangaza	Sokoto	13.281	5.058	2	Kologene
+Kaikazaka	Goronyo	Sokoto	13.390	5.994	2	
+Kagogi	Borgu	Niger	10.255	4.503	2	
+Daraye Kaura	Wamako	Sokoto	13.145	5.069	2	
+Kalhu	Rabah	Sokoto	13.036	5.736	2	
+Kaboki	Gusau	Zamfara	12.176	6.986	2	
+Kabawa	Wamako	Sokoto	13.076	5.099	2	
+Kalaba	Gwadabawa	Sokoto	13.433	5.302	2	
+Kaideji	Tangaza	Sokoto	13.612	5.022	2	
+Kadusa	Bungudu	Zamfara	12.076	6.468	2	
+Matan Kali	Bungudu	Zamfara	12.029	6.427	2	
+Kakore Gamuzza	Arewa Dandi	Kebbi	13.142	4.320	2	
+Kaida	Bungudu	Zamfara	12.414	6.603	2	
+Kafi	Gada	Sokoto	13.687	5.725	2	Koffe
+Kaddi	Gada	Sokoto	13.591	5.737	2	
+Ungwan Kawuwa	Makarfi	Kaduna	11.270	7.908	2	Kawuwa
+Karo 1	Musawa	Katsina	11.964	7.595	2	Karo
+Dari Kada	Karaye	Kano	11.830	7.995	2	Dan Kada
+Gidan Almuwa Karembi	Gwadabawa	Sokoto	13.513	5.304	2	Karanbi
+Ungwan Kartau	Ikara	Kaduna	11.147	8.208	2	Kartau
+Ungwan Kado	Soba	Kaduna	11.044	8.108	2	Kado
+Ungwan Fadaman-Kale	Ikara	Kaduna	11.298	8.107	2	Fadaman Kale
+Karim Kir	Kwaya Kusar	Borno	10.559	11.975	2	Karin Kura
+Kamtu	Fakai	Kebbi	11.584	4.851	2	
+Kawara	Shanga	Kebbi	11.083	4.547	2	Kaure
+Kazarma	Maru	Zamfara	11.267	6.517	2	
+Ungwan Kabu	Soba	Kaduna	11.164	8.033	2	Kabu
+Ungwan Dan Kande	Soba	Kaduna	11.040	8.148	2	Dan Kande
+Kampta	Burutu	Delta	5.224	5.741	2	
+Kanu	Ekeremor	Bayelsa	5.011	5.990	2	
+Kaura	Bodinga	Sokoto	12.873	5.108	2	
+Kassarawa	Dange-Shuni	Sokoto	12.954	5.229	2	
+Karra	Lokoja	Kogi	8.542	6.215	2	
+Karani	Binji	Sokoto	13.133	4.559	2	
+Kagalmari	Kaga	Borno	11.410	12.779	2	
+Kajola	Ondo East	Ondo	7.174	5.001	2	Kajola Owena
+Kasimbila	Takum	Benue	6.872	9.673	2	Kashimbila
+Kafin Larabawa	Zaki	Bauchi	11.937	10.300	2	
+Kambaza-Hausawa	Gwandu	Kebbi	12.453	4.565	2	
+Kamba	Maiyama	Kebbi	12.039	4.253	2	
+Kajiji	Shagari	Sokoto	12.537	4.936	3	
+Tungan Kade	Bagudo	Kebbi	11.530	4.193	2	
+Tungan-Kana	Fakai	Kebbi	11.511	4.962	2	
+Kawara Manu	Maiyama	Kebbi	11.998	4.234	2	
+Kawara	Birnin Kebbi	Kebbi	12.450	4.262	2	Kaura
+Dogondaji-Karaye	Maiyama	Kebbi	12.012	4.328	2	
+Kaloba Camp	Burutu	Delta	5.404	5.427	2	
+Rugan Kadawa	Kalgo	Kebbi	12.289	4.018	2	
+Kaihile	Bunza	Kebbi	12.194	4.032	2	
+Gidan Kabawa	Fakai	Kebbi	11.575	4.564	2	
+Kade	Shanga	Kebbi	11.281	4.697	2	
+Rafi Na Kacheri	Rijau	Niger	11.202	4.940	2	
+Kafin Maiyaki	Kiru	Kano	11.459	8.202	2	
+Kirfin Kasa	Kirfi	Bauchi	10.405	10.403	2	
+Kalan Boli	Kirfi	Bauchi	10.532	10.456	2	
+Kaduba	Gwandu	Kebbi	12.654	4.547	2	
+Ungwan Kaura	Sanga	Kaduna	9.170	8.534	2	
+Kainyabiri	Southern Ijaw	Bayelsa	4.748	6.163	2	
+Karawua	Damboa	Borno	11.206	13.025	2	
+Karatiderde	Ifelodun	Kwara	8.867	4.900	2	
+Kangire	Birnin Kudu	Jigawa	11.492	9.491	2	
+Kangi Balaru	Yabo	Sokoto	12.644	4.960	2	
+Kanufi	Sanga	Kaduna	9.465	8.501	2	
+Kato	Tafa	Niger	9.241	7.303	2	Kata
+Kayawa	Kaga	Borno	11.814	12.359	2	
+Kau Bul	Gujba	Yobe	11.098	12.042	2	
+Kalage	Sabon Birni	Sokoto	13.649	6.300	2	
+Kali	Michika	Adamawa	10.479	13.399	2	
+Kafamuya	Michika	Adamawa	10.583	13.422	2	
+Wuro Kawu	Maiha	Adamawa	10.056	13.124	2	Kawu
+Kafarati	Kwami	Gombe	10.383	11.100	2	Kafareti
+Arum Kadaa	Sanga	Kaduna	9.117	8.617	2	Arum Kadau
+Ali Karumiri	Bama	Borno	11.488	13.703	2	
+Kadan	Agaie	Niger	9.167	6.417	2	
+Kansana Magaji	Bunza	Kebbi	12.386	3.968	2	
+Kandawa	Ingawa	Katsina	12.621	8.030	2	
+Karkarna	Yankwashi	Jigawa	12.765	8.511	2	Kirkirna
+Kautikari	Chibok	Borno	10.820	12.990	3	Kwatagari
+Cibiki Karimi	Arewa Dandi	Kebbi	12.474	3.850	2	
+Kankare	Babura	Jigawa	12.461	8.825	2	
+Kansana Saiyena	Bunza	Kebbi	12.393	3.968	2	
+Ungwan Kanta	Arewa Dandi	Kebbi	12.622	3.896	2	
+Kanbari	Katcha	Niger	9.365	6.281	2	
+Kamari	Damboa	Borno	11.278	13.091	2	
+Kafiwal	Funakaye	Gombe	11.003	11.427	2	
+Unguwar Kanrana	Kachia	Kaduna	9.741	7.766	2	
+Kawa	Wamako	Sokoto	13.175	5.238	2	
+Tungan Kawo	Ngaski	Kebbi	10.169	4.653	2	
+Kantoro	Shanga	Kebbi	10.986	4.502	2	
+Gidan Kata	Illela	Sokoto	13.638	5.314	2	
+Tafkin Kazai	Tsafe	Zamfara	12.035	7.103	2	
+Karofi	Dutsin Ma	Katsina	12.486	7.588	2	Karafi
+Kaiwa	Rabah	Sokoto	13.022	5.747	2	
+Makuri	Rafi	Niger	10.008	6.457	2	Kakuri
+Kalmalo	Illela	Sokoto	13.721	5.247	2	Kalmalu
+Kadasaka Kilea	Gada	Sokoto	13.688	5.578	2	
+Kaurawo Manu	Tangaza	Sokoto	13.670	4.921	2	
+Kano	Arewa Dandi	Kebbi	13.039	4.392	2	
+Karayi	Gwadabawa	Sokoto	13.432	5.341	2	
+Karazau	Gusau	Zamfara	12.079	6.774	2	
+Kurdula	Gudu	Sokoto	13.573	4.368	2	Kardula
+Kandawa	Silame	Sokoto	13.049	4.946	2	
+Karanja	Silame	Sokoto	13.026	4.778	2	
+Kade Daba	Maru	Zamfara	12.268	6.414	2	
+Gidan Kadi	Gusau	Zamfara	12.092	6.681	2	
+Guidan Kadi	Gusau	Zamfara	12.091	6.681	2	
+Guidan Kada	Bungudu	Zamfara	12.205	6.871	2	
+Kadaro	Kware	Sokoto	13.116	5.282	2	
+Ungwan Cesa	Giwa	Kaduna	11.181	7.298	2	Kaza
+Kargo	Igabi	Kaduna	10.802	7.583	2	
+Tabkin-Kada	Jega	Kebbi	11.981	4.544	2	
+Tunga Kawate	Bagudo	Kebbi	11.186	4.269	2	Kowati
+Kaleko	Rogo	Kano	11.625	7.927	2	
+Kafin Hausa	Kafin Hausa	Jigawa	12.241	9.913	2	Kaffin-Hausa;Keffin Hausa
+Tungan Katchira	Gudu	Sokoto	13.188	4.465	2	
+Awulu	Ankpa	Kogi	7.575	7.652	2	Kasuan Awuru
+Koidi Tijaniye	Mobbar	Borno	12.901	12.570	2	Kakodi
+Kamsu	Arewa Dandi	Kebbi	12.804	4.155	2	
+Kambaza-Fulani	Gwandu	Kebbi	12.444	4.549	2	
+Kawari	Augie	Kebbi	12.905	4.669	2	
+Kaurari	Tambuwal	Sokoto	12.354	4.636	2	
+Kaura	Aleiro	Kebbi	12.293	4.463	3	
+Kankura	Suru	Kebbi	11.911	4.140	2	
+Kafuri	Chikun	Kaduna	10.447	7.667	2	Kapari
+Tunga Kade	Bagudo	Kebbi	11.166	4.169	2	
+Wawa Karosa	Jega	Kebbi	12.226	4.268	2	
+Tunga Kanana	Argungu	Kebbi	12.769	4.382	2	
+Kambora	Southern Ijaw	Bayelsa	4.485	5.911	2	
+Katanga Sabarmawa	Argungu	Kebbi	12.795	4.436	2	
+Karshi	Municipal Area Council	FCT Abuja	8.828	7.550	2	Karshe
+Kataeregi	Katcha	Niger	9.360	6.296	2	
+Kagini	Municipal Area Council	FCT Abuja	9.133	7.299	2	
+Karadiri	Marte	Borno	12.271	13.778	2	Ngubdori
+Kamaru	Barkin Ladi	Plateau	9.784	8.970	2	
+Kamzuwa	Kwaya Kusar	Borno	10.365	11.910	2	Kamzua
+Karamashi	Machina	Yobe	12.850	9.717	2	
+Kajola	Ife Central	Osun	7.517	4.500	2	
+Kaimari	Damboa	Borno	11.309	12.390	2	
+Kawir	Kagarko	Kaduna	9.587	7.792	2	
+Kanja	Sanga	Kaduna	9.147	8.631	2	
+Kalulua	Marte	Borno	12.210	13.584	2	
+Kurumo	Asa	Kwara	8.467	4.333	2	Karuma
+Kambuwa	Rijau	Niger	10.980	5.086	2	
+Bama	Bama	Borno	11.524	13.691	3	Kasugula Bama
+Kamale	Michika	Adamawa	10.629	13.540	2	
+Konduga	Konduga	Borno	11.653	13.418	2	Kanduga
+Kauwa Kura	Diffa	Borno	13.389	12.792	2	Kowa
+Ali Kauri	Abadam	Borno	13.506	13.136	2	
+Gidan Karauku	Rafi	Niger	10.267	6.283	2	Keraku;Gidan Karauko
+Karshi	Ringim	Jigawa	12.234	8.948	2	Karshe
+Tungan Kade	Dandi	Kebbi	12.039	3.893	2	
+Kawari	Zango	Katsina	12.909	8.612	2	Kaurin Saidu
+Kanda	Zango	Katsina	12.937	8.594	2	
+Ungwar Kaura	Baure	Katsina	12.884	8.739	2	
+Kauthama 2	Chibok	Borno	10.743	12.796	2	Kauthlama Gana
+Katambe	Municipal Area Council	FCT Abuja	9.013	7.586	2	
+Kedeme	Demsa	Adamawa	9.450	12.233	2	Kademin
+Kaiama	Kaiama	Kwara	9.623	3.948	2	Kaima
+Gidan Kado	Wamba	Nasarawa	9.117	8.634	2	
+Fadan Kagoma	Jema'A	Kaduna	9.518	8.185	2	
+Kafi	Alkaleri	Bauchi	9.681	10.309	2	
+Kasela	Akinyele	Oyo	7.476	3.955	2	
+Kasabari	Kagarko	Kaduna	9.449	7.752	2	
+Kadasaka	Gada	Sokoto	13.681	5.539	2	
+Idon Kasa	Municipal Area Council	FCT Abuja	8.986	7.210	2	
+Soki Kafuta	Barkin Ladi	Plateau	9.529	8.984	2	
+Dutsen Kato	Jos South	Plateau	9.750	8.783	2	
+Kagii	Mubi South	Adamawa	10.144	13.228	2	
+Kagara	Rafi	Niger	10.184	6.253	3	
+Kawo	Shiroro	Niger	10.142	6.702	2	
+Kalkami	Shanga	Kebbi	10.980	4.620	2	
+Kadida	Tangaza	Sokoto	13.466	4.991	2	
+Gidan Kaura	Kware	Sokoto	13.066	5.388	2	
+Kai	Borgu	Niger	10.957	4.096	2	
+Kasura	Gudu	Sokoto	13.565	4.473	2	
+Katsira	Goronyo	Sokoto	13.530	5.879	2	
+Kawadata	Goronyo	Sokoto	13.383	5.642	2	
+Kagara Rina	Goronyo	Sokoto	13.393	5.600	2	
+Kaimi	Goronyo	Sokoto	13.535	5.581	2	
+Kamanji	Faskari	Katsina	11.594	7.227	2	Mairuwa;Mairua
+Kardage	Dange-Shuni	Sokoto	12.876	5.399	2	
+Kandawa	Giwa	Kaduna	11.248	6.949	2	
+Kasuwan Magani	Kajuru	Kaduna	10.399	7.716	2	
+Keje-Kaina	Suru	Kebbi	11.894	4.091	2	
+Tungan Kabawa	Suru	Kebbi	11.858	4.172	2	
+Ungwan Katoye	Maru	Zamfara	11.246	6.480	2	
+Kamaka	Gummi	Zamfara	12.280	5.303	2	
+Kalafiogbene	Burutu	Delta	5.154	5.604	2	Kalafigbene;Adekagbene
+Kano	Kano Municipal	Kano	11.994	8.522	3	
+Katsina	Muhammadu Dikko Stadium	Katsina	12.989	7.601	3	
+Kano	Fagge	Kano	11.999	8.539	0	
+Kantin Kwari	Kaduna North	Kaduna	10.520	7.431	0	
+Kanamma	Maïné Soroa	Yobe	13.100	12.108	2	
+Kalimbori Bulama Ali	Mobbar	Borno	13.307	12.723	2	
+Guwa Kalibowa	Mobbar	Borno	13.323	12.742	2	Guwa Kalimboa
+Kamagunma	Mobbar	Borno	13.348	12.774	2	
+Mallam Karto Park	Fagge	Kano	12.007	8.540	0	
+Kawo Primary	Nassarawa	Kano	11.982	8.572	0	
+Maikaho	Shani	Borno	10.096	11.690	3	Mai Kaho
+Kafanchan	Jema'A	Kaduna	9.591	8.303	0	
+Kankada	Zangon Kataf	Kaduna	9.672	8.321	0	
+Kaneram	Mobbar	Borno	13.192	12.573	2	
+Kamsiyochukwu Clinic Maternity	Enugu East	Enugu	6.483	7.517	0	
+Kaduna Emergency Operations Center	Kaduna North	Kaduna	10.514	7.453	0	
+Kaleku Health Post	Rogo	Kano	11.625	7.883	0	
+Karshi Health Post	Rogo	Kano	11.541	7.826	0	
+Kauyen Liman Health Post	Rogo	Kano	11.543	7.821	0	
+Kadafa Health Post	Karaye	Kano	11.799	7.941	0	
+Kara Primary Health Centre	Gwarzo	Kano	11.843	7.959	0	
+Sabon Layin Kara Health Post	Gwarzo	Kano	11.825	7.933	0	
+Tudun Kaya Health Post	Karaye	Kano	11.733	7.931	0	
+Kabo Cottage General Hospital	Kabo	Kano	11.851	8.168	0	
+Kafin Dabga Health Post	Karaye	Kano	11.832	8.123	0	
+Kailani Health Post	Kiru	Kano	11.730	8.182	0	
+Kanwa Health Post	Kabo	Kano	11.826	8.150	0	
+Kauyen Mahuta Health Post	Kabo	Kano	11.866	8.154	0	
+Kawaji Health Post	Bichi	Kano	12.232	8.333	0	
+Karari Health Post	Bichi	Kano	12.243	8.174	0	
+Kawari	Ajingi	Kano	12.008	9.004	2	
+Tudun Karago	Ajingi	Kano	11.988	8.989	2	
+Kafi Jirgi Magiji Masallaci Yamma	Gaya	Kano	11.746	9.140	2	
+Kantsi	Dawakin Kudu	Kano	11.822	8.648	2	
+Kantsi	Dawakin Kudu	Kano	11.841	8.649	2	
+Kagadama	Doguwa	Kano	10.625	8.729	2	Kagan Dama
+Katsage	Bagwai	Kano	12.142	8.048	2	
+Kakume	Doguwa	Kano	10.746	8.735	2	
+Kadirawa	Doguwa	Kano	10.674	8.667	2	
+Sabuwar Kaura	Doguwa	Kano	10.677	8.592	2	Sabon Kaura
+Sabuwar Kaura	Doguwa	Kano	10.812	8.575	2	
+Dogon Kawo	Doguwa	Kano	11.174	8.556	2	
+Yan Kaura	Doguwa	Kano	11.132	8.530	2	
+Kwangoro	Sumaila	Kano	11.154	8.865	2	Kangoro
+Yankamaya Jarawa	Tsanyawa	Kano	12.329	7.930	2	Yan Kamaye
+Kafin Alu	Tarauni	Kano	11.959	8.572	2	Kauye Alu
+Kan Karofi	Kano Municipal	Kano	11.989	8.525	2	
+Karkasara	Tarauni	Kano	11.954	8.546	2	
+Kawaji	Nassarawa	Kano	12.012	8.580	2	
+Kabuga Housing Estate	Gwale	Kano	11.975	8.471	2	
+Dorayi Karama	Gwale	Kano	11.994	8.477	2	
+Gidan Sarkin Kano	Kano Municipal	Kano	11.992	8.519	2	
+Kabuga Salanta North	Gwale	Kano	11.972	8.486	2	
+Kabuga Salanta South	Gwale	Kano	11.969	8.488	2	
+Kabuga	Gwale	Kano	11.997	8.486	2	
+Kabuwaya South	Dala	Kano	12.007	8.512	2	
+Kabuwaya North	Dala	Kano	12.013	8.508	2	
+Kantudu	Dala	Kano	12.010	8.509	2	
+Katsina Road	Fagge	Kano	12.025	8.517	2	
+Gamawa	Sumaila	Kano	11.235	8.996	2	Kanawa
+Kaja	Sumaila	Kano	11.184	8.910	2	
+Kara Babba	Ajingi	Kano	12.068	9.059	2	
+Kan Iyaka Gabas	Ajingi	Kano	11.962	9.097	2	
+Kara	Ajingi	Kano	11.955	9.076	2	
+Kadanga Tsohuwa	Tudun Wada	Kano	11.222	8.495	2	
+Kafi	Gwarzo	Kano	11.914	7.962	2	
+Sabon Garin Kayyu	Gwarzo	Kano	11.902	7.950	2	Kayyu|Kayu
+Dogon Kawo	Tudun Wada	Kano	11.321	8.320	2	
+Gidan Kawo	Tudun Wada	Kano	11.273	8.363	2	
+Sabo Kaura	Tudun Wada	Kano	11.342	8.361	2	
+Sabuwar Kaura	Tudun Wada	Kano	11.316	8.416	2	
+Rinjin Kantu	Tsanyawa	Kano	12.265	8.074	2	
+Kafin Zaka Dispensary	Misau	Bauchi	11.493	10.662	0	
+Kappan Filling Station	Ibadan South East	Oyo	7.359	3.914	0	
+Kassa Koura	Bosso	Borno	13.532	13.040	2	
+Dabogoum-Kayawa	Diffa	Borno	13.214	12.527	2	
+Kaliboua	Diffa	Borno	13.146	12.505	2	
+Kankouri	Bosso	Borno	13.721	13.345	2	
+Kafiya Fulatari	Mobbar	Borno	13.237	12.685	2	
+Kashimeri	Bama	Borno	11.610	13.959	2	Kashimiri
+Kaltumi Telari	Nganzai	Borno	12.405	13.335	2	
+Koshebe Kanuri	Mafa	Borno	11.976	13.319	2	Koshobe
+Lari Kari	Jere	Borno	11.869	13.173	2	
+Baram Kauwa	Mafa	Borno	11.847	13.250	2	
+Dala Kafe	Jere	Borno	11.816	13.094	2	
+Goni Kachallari	Jere	Borno	11.849	13.189	2	
+Kaigama	Maiduguri	Borno	11.813	13.147	2	
+Kasula	Maiduguri	Borno	11.827	13.094	2	
+Kasugula Bama	Bama	Borno	11.519	13.689	3	
+Kamuya	Biu	Borno	11.033	12.058	2	
+Bila Mai Karagu	Chibok	Borno	10.834	12.982	2	
+Gargang Lawan Kano	Damboa	Borno	11.022	12.799	2	
+Kaya Lawan Abogu	Damboa	Borno	11.019	12.896	3	Kaya
+Kauji Kura	Damboa	Borno	11.040	12.704	3	
+Kauthama Bulama Ali 1	Chibok	Borno	10.758	12.818	2	
+Lawan Kachalla	Chibok	Borno	10.748	12.924	2	Paya Yesu
+Kaule	Shani	Borno	10.037	11.970	2	
+Jauro Kade	Shani	Borno	10.313	11.933	2	
+Jauro Kawu	Shani	Borno	10.230	11.825	2	
+Tashan Kadai	Shani	Borno	10.150	11.853	2	
+Moyo Abba Kauri	Nganzai	Borno	12.788	13.136	2	
+Ajiri Lawan Fannta Kazallari A	Magumeri	Borno	12.204	12.851	2	Ajiri Lawan Fanntami Kazallari A
+Ajiri Lawan Fanntami Kazallari B	Magumeri	Borno	12.201	12.852	2	Ajiri Lawan Fannta Kazallari B
+Grema Karteri	Magumeri	Borno	12.175	12.954	2	
+Kadauri	Magumeri	Borno	12.122	12.840	2	
+Kadijeri	Magumeri	Borno	12.080	12.876	2	
+Kaisamari	Magumeri	Borno	12.046	12.863	2	
+Kaleri	Magumeri	Borno	12.115	12.940	2	
+Kallari	Magumeri	Borno	12.201	12.922	2	
+Kambairi	Magumeri	Borno	12.119	12.938	2	
+Kangadiri	Magumeri	Borno	12.139	12.883	2	
+Kashimti	Magumeri	Borno	12.183	12.847	2	
+Kawullaro	Magumeri	Borno	12.069	12.881	2	
+Kazallari	Magumeri	Borno	12.184	12.841	2	
+Matta Kalturi	Magumeri	Borno	12.068	12.881	2	
+Matta Kariri	Magumeri	Borno	12.160	12.880	2	
+Moruma Kazallari	Magumeri	Borno	12.146	12.883	2	
+Kairi	Mobbar	Borno	13.248	12.646	2	
+Ali Kauri	Magumeri	Borno	12.384	12.635	2	
+Boram Karauwa	Magumeri	Borno	12.401	12.576	2	
+Goni Kakari	Magumeri	Borno	12.394	12.584	2	
+Kanumburi	Magumeri	Borno	12.403	12.528	2	
+Kangarwa	Gubio	Borno	12.489	12.831	2	
+Kanumburi	Gubio	Borno	12.546	12.763	2	
+Kartari	Gubio	Borno	12.422	12.802	2	
+Kaulele	Gubio	Borno	12.469	12.824	2	
+Kyari Kaari	Gubio	Borno	12.497	12.804	2	
+Mal Kanari	Gubio	Borno	12.551	12.762	2	
+Mallam Kachallari	Gubio	Borno	12.493	12.803	2	
+Kafaram	Nganzai	Borno	12.490	12.933	2	
+Kailele	Gubio	Borno	12.397	12.836	2	
+Kairi	Gubio	Borno	12.450	12.860	2	
+Kalimari	Gubio	Borno	12.441	12.895	2	
+Kaumari	Gubio	Borno	12.523	12.889	2	
+Mallar Karari	Nganzai	Borno	12.539	13.007	2	
+Abba Kaari	Nganzai	Borno	12.393	13.163	2	
+Abba kauri	Nganzai	Borno	12.438	13.150	2	
+Burari Kale	Nganzai	Borno	12.550	13.168	2	
+Kafaram	Nganzai	Borno	12.514	13.028	2	
+Kajiram	Nganzai	Borno	12.526	13.157	2	
+Karamari	Nganzai	Borno	12.391	13.097	2	
+Kartari	Nganzai	Borno	12.392	13.051	2	
+Kattiri	Nganzai	Borno	12.444	13.052	2	
+Kawuya	Nganzai	Borno	12.551	13.089	2	
+Kazaram	Nganzai	Borno	12.488	13.162	2	
+Mallam Karumiri	Nganzai	Borno	12.405	13.168	2	
+Ali Kalteri	Nganzai	Borno	12.531	13.197	2	
+Kairi	Nganzai	Borno	12.545	13.305	2	Jowari
+Kajiduri	Nganzai	Borno	12.520	13.247	2	
+Kajiri	Nganzai	Borno	12.537	13.306	2	
+Kaleri	Nganzai	Borno	12.420	13.275	2	
+Kalimari	Nganzai	Borno	12.520	13.297	2	
+Kangunari	Nganzai	Borno	12.474	13.221	2	
+Kanguri	Nganzai	Borno	12.549	13.254	2	
+Kanumburi	Nganzai	Borno	12.425	13.201	2	
+Katarmari	Nganzai	Borno	12.515	13.225	2	
+Kaula Njimma Alhajiri	Nganzai	Borno	12.458	13.294	2	
+Kaula Njimma Bulamari	Nganzai	Borno	12.454	13.289	2	
+Kyari Ka ari	Nganzai	Borno	12.447	13.270	2	
+Borram Karauwa	Magumeri	Borno	12.362	12.796	2	
+Bukar Kanari	Magumeri	Borno	12.266	12.786	2	
+Bukar Kanari	Magumeri	Borno	12.362	12.771	2	
+Kachallari	Magumeri	Borno	12.266	12.785	2	
+Kachallari	Magumeri	Borno	12.324	12.677	2	
+Kadarra Ajiri B	Magumeri	Borno	12.320	12.766	2	
+Kadarra Ajiri	Magumeri	Borno	12.319	12.762	2	
+Kairi Gore	Magumeri	Borno	12.297	12.668	2	
+Kartari	Magumeri	Borno	12.357	12.791	2	
+Karumi Aisari	Magumeri	Borno	12.226	12.786	2	
+Kashiya	Magumeri	Borno	12.227	12.758	2	
+Kaumari	Magumeri	Borno	12.241	12.790	2	
+Kayamari	Magumeri	Borno	12.308	12.726	2	
+Kayaramari	Magumeri	Borno	12.271	12.748	2	
+Kurmeri Kadauri	Magumeri	Borno	12.270	12.779	2	
+Mallum Kaleri	Magumeri	Borno	12.237	12.806	2	
+Alhaji Kai Awaki	Shani	Borno	10.189	12.018	2	
+Goni Ali Kachallami	Magumeri	Borno	12.250	12.978	2	Goniri
+Kaumiri Gana	Magumeri	Borno	12.245	12.934	2	
+Malari Kawuri	Nganzai	Borno	12.370	12.935	2	
+Aba Kaari	Nganzai	Borno	12.322	13.135	2	
+Abba Ka'ari	Nganzai	Borno	12.312	13.131	2	
+Ashanti Bulama Karta	Magumeri	Borno	12.223	13.093	2	
+Goni Kanumburi	Nganzai	Borno	12.330	13.135	2	
+Kachallari	Magumeri	Borno	12.321	13.046	2	
+Kadauri	Magumeri	Borno	12.284	13.067	2	
+Kanguri Lawan	Magumeri	Borno	12.292	13.130	2	
+Kartari	Nganzai	Borno	12.251	13.170	2	Ali Wayari
+Kaula	Nganzai	Borno	12.264	13.134	2	
+Dawalle	Nganzai	Borno	12.278	13.215	2	Kartari Bulamari
+Kartari Musari	Nganzai	Borno	12.269	13.231	2	
+Mafamari	Nganzai	Borno	12.295	13.206	2	Mallam Kalleri
+Modu Kalari	Nganzai	Borno	12.363	13.239	2	Mallam Moduri;Musa Yanari
+Bukar Kauleri	Gubio	Borno	12.643	12.792	2	
+Kadai Mallumti	Gubio	Borno	12.663	12.793	2	
+Bulama Kachallari	Magumeri	Borno	12.205	13.041	2	
+Kalemiri	Magumeri	Borno	12.183	13.033	2	
+Karnowa	Magumeri	Borno	12.140	13.072	2	
+Duwungil Kanuribe	Nganzai	Borno	12.139	13.224	2	
+Mai Njita Kanube	Nganzai	Borno	12.113	13.254	2	
+Goni Kartari	Jere	Borno	11.953	13.145	2	Bulabulin
+Karafi	Jere	Borno	12.033	13.156	2	
+Karwinari	Jere	Borno	11.940	13.163	2	
+Kayari	Jere	Borno	11.964	13.180	2	
+Azaya Kalmari	Mafa	Borno	11.943	13.315	2	
+Kankwana	Mafa	Borno	11.888	13.318	2	
+Kashakasha	Mafa	Borno	11.986	13.293	2	
+Komchori	Jere	Borno	11.939	13.238	2	Kayaya
+Aza Kasuwa	Mafa	Borno	12.156	13.754	2	
+Kaleri	Mafa	Borno	12.169	13.751	2	
+Kalgiri	Mafa	Borno	12.135	13.769	2	
+S Kanuribe	Mafa	Borno	12.056	13.809	2	
+Kajeri B Maye	Mafa	Borno	11.880	13.822	2	
+Kajeri Mai Burem	Mafa	Borno	11.869	13.820	2	
+Kata'Ara	Mafa	Borno	11.992	13.793	2	
+Kalari	Mafa	Borno	11.942	13.593	2	
+Kasaiwa	Mafa	Borno	11.955	13.661	2	
+Kachalla Mallumti	Gubio	Borno	12.614	12.736	2	
+Kajidiri	Gubio	Borno	12.608	12.708	2	
+Kalmari	Gubio	Borno	12.638	12.721	2	
+Kawulmari	Gubio	Borno	12.577	12.665	2	
+Kachalla Tarti	Gubio	Borno	12.598	12.784	2	
+Karnowa C	Gubio	Borno	12.638	12.745	2	
+Kawiya	Gubio	Borno	12.591	12.784	2	
+Kamfut	Mafa	Borno	11.916	13.454	2	
+CBN Quarters/Abba Karti	Maiduguri	Borno	11.795	13.130	2	
+Kangadari	Maiduguri	Borno	11.767	13.111	2	
+Mainari Kanuri	Jere	Borno	11.732	13.085	2	
+Molai Kallumari	Jere	Borno	11.768	13.128	2	
+Goni Kadur	Gubio	Borno	12.707	12.672	2	
+Kadirti	Gubio	Borno	12.723	12.657	2	
+Malam Kanguri	Gubio	Borno	12.662	12.704	2	
+Yana Kauri	Gubio	Borno	12.676	12.695	2	
+Aji Kaumari	Gubio	Borno	12.904	12.751	2	
+Kafiya	Gubio	Borno	12.944	12.822	2	
+Kajidiri	Gubio	Borno	12.986	12.831	2	
+Kankari	Gubio	Borno	12.984	12.810	2	
+Bukar Kadauri	Magumeri	Borno	12.045	12.747	2	
+Goni Bukar Kaltumi	Magumeri	Borno	12.173	12.830	2	
+Kadauri Bulama Bunu	Magumeri	Borno	12.053	12.830	2	
+Kadauri	Magumeri	Borno	12.208	12.816	2	
+Kallayeri Modu Koloye	Magumeri	Borno	12.170	12.791	2	
+Kallura Mallum Mutti	Magumeri	Borno	12.175	12.757	2	
+Kalurra Ali Wadiri	Magumeri	Borno	12.179	12.748	2	
+Karari	Magumeri	Borno	12.177	12.794	2	
+Kareram Mallumti Kosoye	Magumeri	Borno	12.197	12.781	2	Ngalari
+Lawanti Kareram	Magumeri	Borno	12.171	12.787	2	
+Lawanti	Magumeri	Borno	12.090	12.739	2	Ka'ayijiya Lawanti
+kartari B Kolomi	Magumeri	Borno	12.131	12.712	2	
+Kalla	Damboa	Borno	11.176	12.787	2	
+Ali Kadairi	Gubio	Borno	12.628	12.877	2	
+Chari Kaari	Gubio	Borno	12.563	12.868	2	
+Kanguri	Gubio	Borno	12.698	12.837	2	
+Kanumburi	Gubio	Borno	12.641	12.909	2	
+Kariya	Gubio	Borno	12.695	12.888	2	
+Kyari Kadauri	Gubio	Borno	12.609	12.860	2	
+Kyari Kairi	Nganzai	Borno	12.595	13.002	2	
+Dala Kaleri	Mafa	Borno	11.855	13.307	2	
+Kadauri	Nganzai	Borno	12.652	13.066	2	
+Kadauri	Gubio	Borno	12.669	13.030	2	
+Kajuduri	Nganzai	Borno	12.652	13.098	2	
+Kaleri Kurnawa	Nganzai	Borno	12.619	13.059	2	
+Kalleri	Nganzai	Borno	12.629	13.151	2	
+Kanumburi	Nganzai	Borno	12.669	13.089	2	
+Kanumburi	Nganzai	Borno	12.700	13.181	2	
+Kasalti	Nganzai	Borno	12.712	13.076	2	
+Gafte Alhaji Kale	Mobbar	Borno	13.273	12.719	2	
+Kannam	Diffa	Borno	13.355	12.758	2	
+Alhaji Kaudiri	Gubio	Borno	12.887	12.732	2	
+Alhaji Surwaye	Gubio	Borno	12.729	12.661	2	Goni Katirti
+Bukar Kalauri	Gubio	Borno	12.807	12.771	2	
+Kadurti	Gubio	Borno	12.750	12.748	2	
+Kajidiri	Gubio	Borno	12.862	12.779	2	
+Kakari	Gubio	Borno	12.881	12.789	2	
+Kanguri	Gubio	Borno	12.876	12.769	2	
+Kaumiri	Gubio	Borno	12.860	12.786	2	
+Kawar Lawanti	Gubio	Borno	12.754	12.717	2	
+Kawul	Gubio	Borno	12.759	12.802	2	
+Zanna Kanamari	Gubio	Borno	12.795	12.780	2	
+Abba Kauri	Gubio	Borno	12.634	12.518	2	
+Ali Kanguri	Gubio	Borno	12.628	12.504	2	
+Kachallari	Gubio	Borno	12.618	12.609	2	
+Kadairi	Gubio	Borno	12.657	12.586	2	
+Kadauri	Gubio	Borno	12.606	12.491	2	
+Kadi Kadi	Gubio	Borno	12.615	12.521	2	
+Kaumari	Gubio	Borno	12.580	12.641	2	
+Kyari Kakari	Gubio	Borno	12.589	12.636	2	
+Jauro Kawunta	Shani	Borno	10.188	11.726	2	
+Kaibaki	Bayo	Borno	10.289	11.721	2	
+Kwada Kautikari	Chibok	Borno	10.842	12.978	2	
+Bila Kabu	Chibok	Borno	10.769	12.948	2	
+Yimirmugze Kautikari	Chibok	Borno	10.781	12.989	2	
+Abba Ka'ari	Nganzai	Borno	12.624	13.325	2	Goni Kaleri
+Abba Kawuri	Nganzai	Borno	12.564	13.308	2	
+Kairi	Nganzai	Borno	12.585	13.249	2	
+Kaiyari	Nganzai	Borno	12.588	13.312	2	
+Kaljari	Nganzai	Borno	12.622	13.217	2	
+Kangadia	Nganzai	Borno	12.592	13.291	2	
+Kanumburi Kyari Keluri	Nganzai	Borno	12.697	13.187	2	
+Kanumburi	Nganzai	Borno	12.617	13.302	2	
+Kashimti	Nganzai	Borno	12.710	13.239	2	
+Kaisuwa	Magumeri	Borno	11.973	12.920	2	
+Kangara	Magumeri	Borno	11.985	12.919	2	
+Karnowa	Magumeri	Borno	12.029	12.938	2	
+Karumuri	Magumeri	Borno	12.029	12.949	2	
+Monoram Kairamti	Magumeri	Borno	11.945	12.925	2	
+Ardo kano	Shani	Borno	10.055	11.894	2	
+Jaro Kano	Shani	Borno	10.060	11.896	2	
+Jauro Kano	Shani	Borno	10.058	11.897	2	
+Jauro Kari	Shani	Borno	10.078	11.879	2	
+Lende Kato	Shani	Borno	10.136	11.838	2	
+Mai Kaho	Shani	Borno	10.126	11.929	2	
+T Kare	Shani	Borno	10.085	11.914	2	
+Tashan Kare	Shani	Borno	10.081	11.916	2	
+Ka'ayijiwa Fandanari	Magumeri	Borno	12.074	12.741	2	
+Kalari	Magumeri	Borno	12.173	12.794	2	
+Kaltari	Magumeri	Borno	12.172	12.775	2	
+Kartari B Kolomi	Magumeri	Borno	12.115	12.803	2	
+Kaulamari	Magumeri	Borno	12.119	12.729	2	
+Kayiram Aisami	Magumeri	Borno	12.085	12.831	2	
+Kareji Health Post	Shani	Borno	10.036	11.860	0	
+Kachallari	Magumeri	Borno	12.001	12.495	2	
+Kafetowa B Hassaini	Magumeri	Borno	12.027	12.377	2	
+Kafetowa B Umar	Magumeri	Borno	12.021	12.385	2	
+Kannpmari	Magumeri	Borno	12.016	12.346	2	
+Bulama Kandirari	Magumeri	Borno	12.021	12.211	2	
+Kajiramari	Magumeri	Borno	12.045	12.208	2	
+Goni Kanari	Magumeri	Borno	12.282	12.270	2	
+L. Karami	Geidam	Yobe	12.542	12.245	2	Kiari Karamri
+Kaisa	Magumeri	Borno	12.136	12.400	2	
+Kaishiya	Magumeri	Borno	12.168	12.420	2	
+Kaluari	Magumeri	Borno	12.054	12.335	2	
+Kadaira	Magumeri	Borno	12.060	12.573	2	
+Kadarra B	Magumeri	Borno	12.064	12.571	2	
+Kaiwuyya	Magumeri	Borno	12.060	12.501	2	
+Kadarti	Magumeri	Borno	12.233	12.520	2	
+Kainowa Gana	Magumeri	Borno	12.315	12.599	2	
+Kainowa Kura	Magumeri	Borno	12.325	12.603	2	
+Kairi	Magumeri	Borno	12.335	12.594	2	
+Kaleri	Magumeri	Borno	12.355	12.575	2	
+Lawanti Karawa	Magumeri	Borno	12.309	12.597	2	
+Kachemdi	Mobbar	Borno	12.881	12.434	2	
+T Kachallari	Mobbar	Borno	12.869	12.452	2	
+Jauro Kawu	Kwaya Kusar	Borno	10.411	11.945	2	
+Kabara	Shani	Borno	10.325	11.941	2	
+Karekare	Kwaya Kusar	Borno	10.364	11.895	2	
+Kasheri Jauro	Bayo	Borno	10.335	11.785	2	
+Yimbu Jauro Kauwa	Kwaya Kusar	Borno	10.397	11.830	2	
+Kalusari	Mobbar	Borno	13.027	12.459	2	
+Dangdang Kanakuru	Shani	Borno	10.117	12.037	2	
+Katsinawa	Shani	Borno	10.136	12.090	2	
+Kosseyl	Shani	Borno	10.070	12.045	2	Kasuyel
+Goni Kauri	Gubio	Borno	12.762	12.643	2	
+Grema Kauri	Mobbar	Borno	12.876	12.532	2	
+Kachallari	Mobbar	Borno	12.800	12.574	2	
+Kalumari	Mobbar	Borno	12.843	12.549	2	
+Mallam Kakari	Gubio	Borno	12.761	12.643	2	
+Kairi B Sala	Mobbar	Borno	12.932	12.493	2	
+Kairi	Mobbar	Borno	12.936	12.492	2	
+Kaleri Angultiye	Mobbar	Borno	12.957	12.651	2	
+Kalumari	Mobbar	Borno	12.922	12.643	2	
+Arima Kawuri	Gubio	Borno	12.728	12.892	2	
+Bulama Modu Kadairi	Gubio	Borno	12.739	12.875	2	
+Kadairi	Gubio	Borno	12.740	12.875	2	
+Kajidin Kura	Gubio	Borno	12.803	12.866	2	
+Kafiya	Gubio	Borno	12.950	12.842	2	
+Kashimti	Gubio	Borno	12.949	12.856	2	
+Kachalla Kelluri	Mobbar	Borno	13.240	12.573	2	
+Kaneram	Mobbar	Borno	13.165	12.578	2	
+Bogum Kaleri	Mobbar	Borno	13.098	12.809	2	
+Kaleri Bulabulin	Mobbar	Borno	13.097	12.810	2	
+Dan Karuna	Bayo	Borno	10.336	11.559	2	
+Garin Mai Kanwa	Bayo	Borno	10.344	11.556	2	
+Bullam Kabi	Bayo	Borno	10.421	11.676	2	
+Changilba Kaware	Bayo	Borno	10.338	11.717	2	
+Kabara 1	Bayo	Borno	10.438	11.740	2	
+Kabara 2	Bayo	Borno	10.434	11.737	2	
+Kaki Gombe	Bayo	Borno	10.477	11.661	2	
+Kanawa	Bayo	Borno	10.325	11.746	2	
+Pono Kanombiri	Bayo	Borno	10.338	11.744	2	
+Kafidaya	Mobbar	Borno	13.234	12.845	2	
+Kalemari	Mobbar	Borno	13.221	12.857	2	
+La Ali Kauri	Mobbar	Borno	13.083	12.840	2	
+Kasina	Hawul	Borno	10.331	12.176	2	
+Kastira	Hawul	Borno	10.386	12.455	2	
+Kaule Clinic	Shani	Borno	10.034	11.971	0	
+LCCN Clinic Karlaje	Shani	Borno	10.043	12.050	0	
+Kaliliya	Abadam	Borno	13.315	13.273	2	
+Malum Kadomari	Abadam	Borno	13.358	13.120	2	
+Kacharidi	Mobbar	Borno	13.395	12.908	2	
+Kalsusari	Mobbar	Borno	13.339	12.851	2	
+Kauri	Mobbar	Borno	13.255	12.880	2	
+Bukar Kadi	Abadam	Borno	13.453	12.926	2	
+Karidi	Abadam	Borno	13.429	12.868	2	
+Kalwa	Abadam	Borno	13.463	13.117	2	
+Kalwaram	Abadam	Borno	13.539	13.252	2	
+Kajela	Nganzai	Borno	12.731	13.187	2	
+Aji Kartari	Nganzai	Borno	12.552	13.370	2	
+Kaimari	Nganzai	Borno	12.553	13.367	2	
+Kajerye	Marte	Borno	12.285	13.766	2	
+Kali	Aleiro	Kebbi	12.273	4.443	2	
+Batsari Kaura	Bayo	Borno	10.552	11.652	2	
+Garin Kaigama	Bayo	Borno	10.627	11.717	2	
+Kaki Dawal	Bayo	Borno	10.604	11.718	2	
+Kaware	Bayo	Borno	10.567	11.680	2	
+Ruwan Kanwa	Bayo	Borno	10.594	11.729	2	
+Buba Kayamda	Hawul	Borno	10.571	11.976	2	
+Katamsura	Hawul	Borno	10.650	12.027	2	
+Dagumba Katcharda	Mafa	Borno	11.789	13.761	2	
+Mallumri A Kabu	Mafa	Borno	11.816	13.771	2	
+Kawiya	Damboa	Borno	11.228	12.899	2	
+Ngirna Kadairi	Damboa	Borno	11.211	12.873	2	
+Kareto Primary Care Centre	Mobbar	Borno	12.884	12.509	0	
+Kala Health Clinic	Kala-Balge	Borno	12.080	14.464	0	
+Karagawaru Dispensary	Kaga	Borno	11.906	12.554	0	
+Kayamla	Konduga	Borno	11.692	13.220	2	
+Katamsira	Biu	Borno	10.610	12.369	2	
+Kayamla Health Clinic	Konduga	Borno	11.689	13.220	0	
+Kayawa	Biu	Borno	10.825	12.246	2	
+Kashomri	Konduga	Borno	11.591	13.578	2	
+Kawuri	Konduga	Borno	11.573	13.537	2	
+Alhaji Kado	Biu	Borno	10.736	12.355	2	
+Diwa Kamda	Biu	Borno	10.680	12.366	2	
+Kana Birniwa	Biu	Borno	10.780	12.340	2	
+Kana Kuthli Madu	Biu	Borno	10.764	12.322	2	
+Kana	Biu	Borno	10.781	12.311	2	
+Kamuya Wuru	Biu	Borno	11.045	12.055	2	
+Kasina	Biu	Borno	10.840	12.000	2	
+Kaduna - Rigasa	Igabi	Kaduna	10.549	7.355	0	
+Bulama Karabima	Damboa	Borno	11.236	12.763	2	
+Litawa Kashimri	Damboa	Borno	11.080	12.833	2	
+Gumsuri Lawan Karaga	Damboa	Borno	11.057	12.807	2	
+Kauji Sabon Gari	Damboa	Borno	11.053	12.721	2	Kauji S/Gari
+Malaharam Kaburi	Damboa	Borno	11.035	12.750	2	
+Kadari	Bama	Borno	11.452	13.759	2	
+Karagaji-Yamati	Bama	Borno	11.461	13.818	2	
+Karnowa Bula Adamu	Bama	Borno	11.498	13.767	2	
+NCCE Quarters Karmo	Municipal Area Council	FCT Abuja	9.056	7.375	2	
+Kaiga	Kukawa	Borno	13.414	13.841	2	
+Karéka	Dungass	Jigawa	12.839	9.225	2	
+Liman Katagum	Bauchi	Bauchi	10.006	9.782	0	
+Kagoro	Kaura	Kaduna	9.613	8.400	0	
+Kaugama	Kaugama	Jigawa	12.478	9.736	0	
+Kaura-Namoda	Kaura Namoda	Zamfara	12.574	6.573	0	
+Kankomi	Chikun	Kaduna	10.338	7.526	0	
+Kamade	Bosso	Borno	13.546	13.107	2	
+Maria Kadi	Bosso	Borno	13.574	13.228	2	
+Toumboun Mota (Kaota Moya)	Bosso	Borno	13.716	13.466	2	
+Karguidi (Karidi)	Goudoumaria	Yobe	13.378	11.350	2	
+Ligaridi Kale	Goudoumaria	Yobe	13.382	11.076	2	
+Madou Kakouri	Goudoumaria	Yobe	13.383	11.130	2	
+Kanamai Ligaridi	Maïné Soroa	Yobe	13.119	12.110	2	
+PHC Kambama	Shagari	Sokoto	12.614	5.223	0	Kambama Upgraded Dispensary
+Kagara Primary Health Clinic and Dispensary	Goronyo	Sokoto	13.393	5.602	0	
+Dabagoun Kaywa	Diffa	Borno	13.200	12.520	2	
+Kagare	Diffa	Borno	13.503	12.866	2	
+Karawa	Diffa	Borno	13.510	12.937	2	
+Kargueri I	Diffa	Borno	13.427	12.807	2	
+Kargueri II	Diffa	Borno	13.426	12.806	2	
+Kayowa	Diffa	Borno	13.307	12.684	2	
+Kaduna North	Kaduna North	Kaduna	10.541	7.426	0	
+Kaduna Junction	Kaduna South	Kaduna	10.492	7.416	0	
+Mallam Kaari	Gubio	Borno	12.584	12.521	2	
+Babban Giji Secondary School, Karkasara	Tarauni	Kano	11.959	8.545	0	
+Wasiri Kalari	Monguno	Borno	12.491	13.470	2	
+Kalwa	Monguno	Borno	12.502	13.706	2	
+Kaguran Kura	Monguno	Borno	12.598	13.664	2	
+Garu Kime Kyari Kanu	Monguno	Borno	12.701	13.569	2	
+Bukar Kannari	Monguno	Borno	12.651	13.533	2	
+Kafi Sungul Modu Fantami	Guzamala	Borno	12.684	13.474	2	
+Garu Kime Bukar Kauri	Monguno	Borno	12.720	13.566	2	
+Katamnwu Kura	Monguno	Borno	12.386	13.529	2	
+Gune Kanuri	Monguno	Borno	12.453	13.503	2	
+Dassa Kalumari	Monguno	Borno	12.565	13.632	2	
+Kassa B	Monguno	Borno	12.607	13.571	2	
+Kyari Kalegi	Monguno	Borno	12.466	13.403	2	
+Kaguran Gana	Monguno	Borno	12.597	13.669	2	
+Mallam Kaumari	Monguno	Borno	12.603	13.524	2	
+Kasa A	Monguno	Borno	12.609	13.568	2	
+Kaisungul	Monguno	Borno	12.632	13.506	2	
+Kature	Monguno	Borno	12.265	13.284	2	
+Kalla Maulau Kura	Guzamala	Borno	12.923	13.501	2	
+Kallamare Alhajiri	Guzamala	Borno	12.912	13.487	2	
+Kalla Maulau Bulamari	Guzamala	Borno	12.919	13.501	2	
+Kalla Maula	Guzamala	Borno	12.914	13.513	2	
+Kangarwa	Kukawa	Borno	13.149	13.559	2	
+Kallamare Kanguri	Guzamala	Borno	12.915	13.484	2	
+Kafisungul	Guzamala	Borno	12.724	13.395	2	
+Zarmari Kayari	Guzamala	Borno	12.768	13.363	2	
+Kadugure Goni Bukarti	Nganzai	Borno	12.599	13.360	2	
+Kafetowa Malamti	Guzamala	Borno	12.880	13.197	2	
+Kafela Alibe	Nganzai	Borno	12.739	13.225	2	
+Kafela Isabe	Nganzai	Borno	12.735	13.220	2	
+Karna Jidiyari	Guzamala	Borno	13.082	13.026	2	
+Kadiya	Guzamala	Borno	12.852	13.285	2	
+Kattanna	Guzamala	Borno	12.886	13.345	2	
+Kafetuwa Bur Amsami	Guzamala	Borno	12.878	13.182	2	
+Abatcha Kawuri	Nganzai	Borno	12.556	13.334	2	
+Kalimbori Bukar Tarmi	Guzamala	Borno	12.754	13.466	2	
+Kangarwa Kura	Guzamala	Borno	12.764	13.295	2	
+Kalusaram	Guzamala	Borno	12.901	13.106	2	
+Ka'Adamti	Guzamala	Borno	12.602	13.373	2	
+Kangarwa Kachallari	Guzamala	Borno	12.759	13.299	2	
+Kafou Modu Bultuye	Guzamala	Borno	12.722	13.410	2	
+Kadugure Bulamari	Guzamala	Borno	12.609	13.358	2	
+Karna Gabchari	Guzamala	Borno	13.083	13.080	2	
+Kashimti	Guzamala	Borno	12.625	13.440	2	
+Kadauri	Guzamala	Borno	12.669	13.309	2	
+Kaulara	Guzamala	Borno	12.886	12.933	2	
+Njemia Kale Mayamiye	Guzamala	Borno	12.970	12.907	2	
+Kadugure Buwamari	Nganzai	Borno	12.601	13.352	2	
+Kalilli	Guzamala	Borno	12.645	13.369	2	
+Kadauri	Guzamala	Borno	12.626	13.382	2	
+Kalimari Flatari	Guzamala	Borno	12.733	13.476	2	
+Ya Anari Bukar Kanami	Guzamala	Borno	12.714	13.353	2	
+Kalimbori Dambori	Guzamala	Borno	12.749	13.460	2	
+Zomari Kasungu	Guzamala	Borno	12.729	13.407	2	
+Kosorok Kajiduri	Guzamala	Borno	12.949	13.046	2	
+Kadugure Kanummari	Nganzai	Borno	12.592	13.348	2	
+Burwa Ali Kalimboye	Guzamala	Borno	12.752	13.411	2	
+Kafetuwa Bugiri	Guzamala	Borno	12.874	13.179	2	
+Kangarwa Gana	Guzamala	Borno	12.777	13.278	2	
+Abbana Kawuri	Guzamala	Borno	12.619	13.382	2	
+Bor Karumi	Guzamala	Borno	12.798	13.222	2	
+Kadugure Bannamari	Nganzai	Borno	12.599	13.356	2	
+Goni Kaumari	Guzamala	Borno	12.961	13.018	2	
+Kaleri	Konduga	Borno	11.683	13.062	2	
+Ka Ajiri	Jere	Borno	11.754	13.243	2	
+Ali Kawuri	Kaga	Borno	11.905	12.679	2	
+Katularam	Konduga	Borno	11.685	13.027	2	
+Kalari Abdu	Jere	Borno	11.737	13.285	2	
+Goni Kanuburi	Kaga	Borno	11.897	12.647	2	
+Kolori Karumi	Konduga	Borno	11.711	13.209	2	
+Kontori Kachallari	Konduga	Borno	11.637	13.259	2	
+Kambari	Jere	Borno	11.730	13.329	2	
+Karjari	Kaga	Borno	11.934	12.668	2	
+Kachallari	Konduga	Borno	11.707	13.159	2	
+Mallam Kanumburi	Konduga	Borno	11.695	13.206	2	
+Karamti	Konduga	Borno	11.711	13.188	2	
+Ari Ka Amiri	Konduga	Borno	11.602	13.181	2	
+Kaduwa	Konduga	Borno	11.581	13.014	2	
+Kadamari	Kaga	Borno	11.934	12.685	2	
+Kadamari	Konduga	Borno	11.799	12.814	2	
+Jololo Kafiya	Magumeri	Borno	11.915	12.970	2	
+Katirti Modu Gaye	Konduga	Borno	11.893	12.792	2	
+Goni Kanburi 2	Kaga	Borno	11.902	12.649	2	
+Mamman Kareri	Konduga	Borno	11.688	13.149	2	
+Tarwoshe Kalti	Konduga	Borno	11.643	13.205	2	
+Kadauri Kadai	Konduga	Borno	11.847	12.935	2	
+Kachallari	Jere	Borno	11.727	13.307	2	
+Kasalari	Jere	Borno	11.719	13.311	2	
+Mallam Kalamri	Konduga	Borno	11.725	13.161	2	
+Kaulowa	Konduga	Borno	11.707	13.032	2	
+Kadauri	Konduga	Borno	11.921	12.694	2	
+Kartari A	Konduga	Borno	11.788	13.014	2	
+Kamit Schools	Uvwie	Delta	5.567	5.779	0	
+Mala Kachallah Model School	Maiduguri	Borno	11.841	13.156	0	
+MHT2(Jajeri Kantudu)	Maiduguri	Borno	11.879	13.133	0	
+Katsina State Transport Authority	Muhammadu Dikko Stadium	Katsina	12.981	7.587	0	
+Kano Emergency Operations Center	Nassarawa	Kano	11.996	8.550	0	
+Kano motor park	Muhammadu Dikko Stadium	Katsina	12.970	7.600	0	
+Katossarawa	Illela	Sokoto	13.791	5.341	2	
+Kadadinboda	Gada	Sokoto	13.861	5.488	2	
+Gidan Kara	Gada	Sokoto	13.597	5.568	2	
+Katsrwatsra	Goronyo	Sokoto	13.563	5.577	2	
+Tashar Kaiwa	Talata Mafara	Zamfara	12.285	6.164	2	
+Kadauri	Maru	Zamfara	12.347	6.325	2	
+Kawadata	Wurno	Sokoto	13.288	5.615	2	
+Dabagin Kaurare	Wurno	Sokoto	13.271	5.433	2	
+Kaura	Tureta	Sokoto	12.383	5.704	2	
+Kaura Malam	Bakura	Zamfara	12.279	5.807	2	
+Gidan Kare	Tureta	Sokoto	12.561	5.575	2	
+Kawara	Tureta	Sokoto	12.483	5.643	2	Karua
+Kampaniala	Tureta	Sokoto	12.673	5.535	2	
+Kaura Magaji	Dange-Shuni	Sokoto	12.811	5.337	2	
+Kalangawa	Kebbe	Sokoto	12.112	4.776	2	
+Karaye	Gummi	Zamfara	11.986	5.045	2	
+Kalgo	Tambuwal	Sokoto	12.370	4.789	2	
+Kaura Tuntube	Dange-Shuni	Sokoto	12.946	5.240	2	
+Kaura Buba	Bodinga	Sokoto	12.932	5.114	2	
+Kawo	Chikun	Kaduna	10.142	7.174	2	
+Kamba South	Dandi	Kebbi	11.846	3.654	2	
+Kafin Soli Primary School	Kankia	Katsina	12.503	7.740	0	
+Kajola Camp Market	Odigbo	Ondo	6.725	4.510	0	
+Kakau	Chikun	Kaduna	10.374	7.350	0	
+GSS Kachia	Kachia	Kaduna	9.881	7.958	0	
+St. John's Secondary Kachia	Kachia	Kaduna	9.895	7.951	0	
+St. John's Primary Kachia	Kachia	Kaduna	9.894	7.952	0	
+Kâdja	Borgu	Niger	10.537	3.809	2	
+Kabusu	Karu	Nasarawa	9.195	7.628	2	
+Karakwy	Kala-Balge	Borno	11.521	14.626	2	
+Haruna Kadir Rashid	Gombe	Gombe	10.308	11.173	0	
+Kamhan filling station	Yamaltu/Deba	Gombe	10.278	11.268	0	
+KAISAN oil & gas ltd	Akko	Gombe	10.274	11.122	0	
+Karo	Rogo	Kano	11.410	7.775	2	
+Kadana	Rogo	Kano	11.497	7.817	2	
+Kaleku	Rogo	Kano	11.629	7.886	2	Zoza
+Daura Mai Ruwa	Karaye	Kano	11.726	7.981	2	Tudun Kaya
+Kaya	Karaye	Kano	11.733	7.929	2	
+Katsalle	Gwarzo	Kano	11.812	7.866	2	
+Karimi	Karaye	Kano	11.742	7.895	2	
+Karar Kwari	Gwarzo	Kano	11.843	7.962	2	Jama’ar Kasa
+Tasawar Gimba	Gwarzo	Kano	11.823	7.933	2	Sabon Gari Kara
+Kariya	Kiru	Kano	11.440	8.171	2	
+Kayar Waja	Kabo	Kano	11.980	8.147	2	Kanya
+Unguwar Kaka	Kiru	Kano	11.619	8.184	2	Ungwan Kaka
+Kastelle	Dawakin Tofa	Kano	12.158	8.211	2	
+Kauyen Adam	Bagwai	Kano	12.132	8.205	2	Adam
+Sabaru Unguwar Dutsen Karya	Bichi	Kano	12.211	8.145	2	
+Karofawa	Kunchi	Kano	12.484	8.238	2	
+Sabuwar Kasuwa	Bichi	Kano	12.285	8.180	2	
+Kawaji	Bichi	Kano	12.231	8.331	2	Kawaje
+Karambani	Bichi	Kano	12.239	8.293	2	
+Yar Kasuwa	Tofa	Kano	12.058	8.273	3	
+Kanawa	Tofa	Kano	12.087	8.346	2	
+Kalekun Fulani	Dawakin Tofa	Kano	12.129	8.335	2	
+Kaleku	Dawakin Tofa	Kano	12.140	8.326	2	
+Hayin Katsinawa	Bebeji	Kano	11.485	8.349	2	Katsalle
+Garin Kaya	Bebeji	Kano	11.461	8.283	2	
+Kabingiro	Bebeji	Kano	11.406	8.272	2	
+Kafin Agur	Madobi	Kano	11.861	8.361	2	K. Agur
+Kanwa Gabas	Madobi	Kano	11.858	8.422	2	Kanwa
+Kasuwar Kuka	Kunchi	Kano	12.428	8.354	2	Kuka
+Kaga Dama	Dawakin Tofa	Kano	12.089	8.404	2	
+Katsalle	Dawakin Tofa	Kano	12.121	8.370	2	
+Karas	Dawakin Tofa	Kano	12.081	8.361	2	
+Fagen Kawo C Gari	Dawakin Tofa	Kano	12.080	8.418	2	
+Dan Kauye	Dawakin Tofa	Kano	12.089	8.422	2	
+Jar Kasa	Dawakin Tofa	Kano	12.087	8.384	2	
+Kayaba Kanawa	Dawakin Tofa	Kano	12.165	8.404	2	
+Kau-Kau	Bichi	Kano	12.322	8.392	2	
+Dawan Kaya	Makoda	Kano	12.303	8.540	2	
+Dawan Kaya	Dambatta	Kano	12.316	8.579	2	
+Katsiro	Dambatta	Kano	12.598	8.549	2	Katsuro
+Kafawa	Dambatta	Kano	12.503	8.457	2	
+Kanwaye	Dambatta	Kano	12.481	8.673	2	
+Tasawar Kanawa	Dambatta	Kano	12.554	8.634	2	Tasawa Dabba
+Kadan Dani	Makoda	Kano	12.537	8.457	2	
+Karanbanin Lalai	Dambatta	Kano	12.427	8.496	2	
+Kadane	Dambatta	Kano	12.368	8.738	2	
+Kadage	Dambatta	Kano	12.300	8.722	2	
+Kamfala	Dambatta	Kano	12.389	8.784	2	
+Zakiran Kauye	Dambatta	Kano	12.355	8.627	2	
+Kauyen Mai Unguwa	Dambatta	Kano	12.371	8.484	2	Mai-Ungwa
+Yamar Kanawa	Gabasawa	Kano	12.273	8.811	2	
+Kadage	Gabasawa	Kano	12.269	8.738	2	
+Kantama Babba	Minjibir	Kano	12.179	8.596	2	Kantama
+Kashirya Cikin Gari	Minjibir	Kano	12.167	8.565	2	
+Madawa Mai Kasuwa	Minjibir	Kano	12.155	8.577	2	Madawa
+Saidawa Katsarduwa	Dambatta	Kano	12.293	8.629	2	
+Kadage	Dambatta	Kano	12.263	8.626	2	
+Kashirya	Minjibir	Kano	12.251	8.635	2	
+Garin Kaya	Minjibir	Kano	12.242	8.669	2	
+Kowa Kati	Minjibir	Kano	12.251	8.676	2	
+Katsinawa Cikin Gari	Ungongo	Kano	12.060	8.449	2	
+Kadawa Makabarta	Ungongo	Kano	12.077	8.453	2	
+Tumfafi Kanawa	Dawakin Tofa	Kano	12.101	8.446	3	Tumfafi
+Kansuwa	Ungongo	Kano	12.113	8.498	2	
+Bakin Kasuwa	Ungongo	Kano	12.107	8.495	2	
+Kaura Goje	Nassarawa	Kano	12.041	8.550	2	
+Kauyen Rangaza Inkyan	Ungongo	Kano	12.040	8.590	2	
+Katsinawa	Ungongo	Kano	12.085	8.553	2	
+Sabuwar Kaduna	Dawakin Tofa	Kano	12.130	8.467	2	
+Kankaren Dole	Dawakin Kudu	Kano	11.908	8.687	2	
+Kadawa	Warawa	Kano	11.933	8.677	2	
+Unguwar Kanawa	Dawakin Kudu	Kano	11.883	8.682	2	
+Unguwar Kaya	Warawa	Kano	11.966	8.661	2	
+Kadage	Gezawa	Kano	12.003	8.683	2	
+Tikar Kare	Warawa	Kano	11.994	8.691	2	
+Charo Katurje	Gezawa	Kano	12.066	8.694	2	Katirije
+Kazawa Cikin Gari	Minjibir	Kano	12.162	8.669	2	
+Kawo Yukana	Minjibir	Kano	12.204	8.696	2	Kawo
+Kadage	Minjibir	Kano	12.194	8.628	2	
+Kamfa	Kumbotso	Kano	11.904	8.517	2	
+Kayi Kwari	Kumbotso	Kano	11.896	8.451	2	
+Kansila Tsoho	Gwale	Kano	11.938	8.475	2	
+Kansila Tsoho	Kumbotso	Kano	11.935	8.475	2	
+Layin Kansila Tsoho	Kumbotso	Kano	11.933	8.475	2	
+Layin Kansila	Kumbotso	Kano	11.922	8.463	2	
+Kadage	Gabasawa	Kano	12.188	8.761	2	
+Bujawa Kanawa	Gezawa	Kano	12.134	8.744	2	Bujawa
+Kagadama	Gabasawa	Kano	12.142	8.830	2	Kagandama
+Kadage	Gabasawa	Kano	12.197	8.792	2	Kadaje
+Kawo	Gabasawa	Kano	12.153	8.858	2	
+Kalawa	Ajingi	Kano	12.043	8.974	2	
+Kara Karama	Ajingi	Kano	12.066	9.053	2	
+Kadiri	Ajingi	Kano	12.066	9.034	2	Kafin Kadiri
+Yola Karfe	Gezawa	Kano	12.034	8.826	2	
+Katarkawa Kanawa	Warawa	Kano	11.970	8.833	2	
+Kagane	Gabasawa	Kano	12.147	8.898	2	
+Jigoron Kanawa	Gabasawa	Kano	12.144	8.931	2	Jigoro
+Tsamiyar Kara	Gezawa	Kano	12.040	8.727	2	Tsamia Kara
+Kwagar Kanawa	Gezawa	Kano	12.072	8.771	2	
+Kafin Makaho	Gezawa	Kano	12.044	8.779	2	
+Ketawa	Gezawa	Kano	12.069	8.751	2	Maraya Kattawa
+Kankwana Alalula	Gabasawa	Kano	12.061	8.858	2	
+Kakau	Gabasawa	Kano	12.082	8.827	2	Kiawa
+Kakau	Gabasawa	Kano	12.045	8.870	2	
+Uba Karawa	Gabasawa	Kano	12.073	8.835	2	
+Karmami	Gabasawa	Kano	12.102	8.823	2	
+Kadage	Gabasawa	Kano	12.086	8.907	2	
+Kauyas Layin Gidan Mai Unguwa	Gaya	Kano	11.899	9.032	2	
+Kafi	Ajingi	Kano	11.948	8.982	2	K. Yar Maraya
+Kawoni	Ajingi	Kano	11.996	9.207	2	
+Musku Kanawa	Gezawa	Kano	11.990	8.766	2	
+Kadewa Cikin Gari	Gezawa	Kano	12.006	8.720	2	
+Kadawa Zango	Gezawa	Kano	11.998	8.723	2	
+Kawari	Gaya	Kano	11.899	9.067	2	
+Kogar Kaza	Dawakin Kudu	Kano	11.806	8.727	2	
+Kawa	Kura	Kano	11.830	8.446	2	
+Yar Kanya	Kura	Kano	11.800	8.438	2	
+Katsinawa	Kura	Kano	11.791	8.522	2	
+Gana Kakun	Warawa	Kano	11.926	8.734	2	
+Kangayau	Warawa	Kano	11.940	8.706	2	
+Karabawa	Dawakin Kudu	Kano	11.894	8.702	2	
+Kanwa	Dawakin Kudu	Kano	11.888	8.732	2	
+Kano State University Of Science And Technology	Wudil	Kano	11.805	8.856	2	
+Kara	Ajingi	Kano	11.932	9.154	2	
+Jama'Ar Ganji Hadin Kansila	Gaya	Kano	11.842	9.181	2	
+Hadin Kansila	Gaya	Kano	11.838	9.188	2	
+Kagadama Katsinawa	Gaya	Kano	11.832	9.174	2	
+Gidan Kaji	Bunkure	Kano	11.721	8.541	2	
+Kanta	Warawa	Kano	11.867	8.815	2	
+Kasai Gabas	Gaya	Kano	11.803	8.916	2	
+Unguwar Kalla	Garum Mallam	Kano	11.735	8.455	2	
+Kadane	Kura	Kano	11.739	8.457	2	
+Kalahaddi Yamma	Gaya	Kano	11.717	9.025	2	
+Fidalami Zanguwar Kanawa	Gaya	Kano	11.738	9.005	2	
+Kalhaddi Cikin Gari	Albasu	Kano	11.719	9.014	2	
+Kazurawa Kudu	Gaya	Kano	11.775	9.018	2	
+Kamagata Fetere	Dawakin Kudu	Kano	11.774	8.763	2	
+Katai	Wudil	Kano	11.752	8.771	2	
+Gidan Kaya	Dawakin Kudu	Kano	11.776	8.705	2	
+Karwai Kwari	Bunkure	Kano	11.733	8.645	2	
+Unguwar Kaya	Bunkure	Kano	11.706	8.644	2	
+Tabuli	Gaya	Kano	11.772	8.935	3	Kadem;Kademi
+Kabo	Gaya	Kano	11.740	8.934	2	
+Sabuwar Kasuwa	Albasu	Kano	11.553	9.189	2	
+Kafin Malamai	Garko	Kano	11.663	8.882	2	
+Kauyen Nuhu	Takai	Kano	11.467	9.225	2	
+Karfi	Takai	Kano	11.455	9.155	2	
+Kargo	Sumaila	Kano	11.353	8.931	2	
+Sabuwar Kaura	Sumaila	Kano	11.360	8.880	2	
+Tohon Karfi	Takai	Kano	11.424	9.177	2	
+Kauye Dodo	Takai	Kano	11.414	9.185	2	
+Taushen Kaji	Takai	Kano	11.399	9.178	2	
+Kauyen Galadima	Takai	Kano	11.411	9.227	2	
+Kawo	Sumaila	Kano	11.385	9.068	2	
+Kayarda	Takai	Kano	11.377	9.125	2	
+Bakin Kasuwa	Takai	Kano	11.381	9.088	2	
+Kanawa	Sumaila	Kano	11.432	9.022	2	
+Kazaurawa	Rano	Kano	11.391	8.540	2	
+Kantudu	Sumaila	Kano	11.360	8.790	2	Kan-Tudu
+Kofar Chiri	Garko	Kano	11.604	8.861	2	Kafin Chiri
+Sabuwar Karfau	Garko	Kano	11.551	8.797	2	
+Zangon Kanawa	Tudun Wada	Kano	11.390	8.775	2	
+Kalambu	Kibiya	Kano	11.432	8.616	2	
+Sabon Kasuwa	Tudun Wada	Kano	11.393	8.674	2	
+Kahu	Kibiya	Kano	11.484	8.659	2	Kafu
+Karefa	Tudun Wada	Kano	11.323	8.438	2	
+Kafin Alhaji	Rano	Kano	11.492	8.587	2	
+Ruwan Kanya	Rano	Kano	11.471	8.505	2	
+Sabuwar Kaura	Rano	Kano	11.438	8.465	2	
+Karana	Bunkure	Kano	11.627	8.524	2	
+Kadassaka Dispensary	Gada	Sokoto	13.677	5.566	0	
+Kasgada PHC	Kware	Sokoto	13.280	5.202	0	
+PHC Kadadin Buda	Gada	Sokoto	13.865	5.487	0	
+Kagara General Hospital	Talata Mafara	Zamfara	12.347	6.131	0	
+General Hospital Kaura	Kaura Namoda	Zamfara	12.584	6.593	0	
+Hada Kaya Dispensary	Gwoza	Borno	11.192	13.878	0	
+Jeki Kanakuri Dispensary	Shani	Borno	10.067	12.000	0	
+kaya primary heath post	Madagali	Adamawa	10.817	13.421	0	
+Kabilo Health Clinic	Fufore	Adamawa	9.031	12.209	0	
+Shiwa Kalaa Health Clinic	Hong	Adamawa	10.261	13.046	0	
+kalallawa Gabai	Ngelzarma	Yobe	11.891	11.921	2	
+Amino Kanu Teaching Hospital	Nassarawa	Kano	11.977	8.594	0	
+Genaral Hospital Kambaza	Gwandu	Kebbi	12.459	4.571	0	
+Kaurata	Toro	Bauchi	10.441	8.816	2	
+Kadade Sarki	Toro	Bauchi	10.459	8.817	2	
+Kadade Maje	Toro	Bauchi	10.460	8.826	2	
+Kargo	Lere	Kaduna	10.412	8.798	2	
+Kadade Rimi	Toro	Bauchi	10.455	8.824	2	
+Kado District	Municipal Area Council	FCT Abuja	9.091	7.427	2	
+Kaura District	Municipal Area Council	FCT Abuja	9.003	7.446	2	
+Katampe District	Municipal Area Council	FCT Abuja	9.103	7.462	2	
+Local Government Primary School, Kajola - Iboro	Ado Odo/Ota	Ogun	6.712	3.197	0	
+Community Primary School, Kajola Orile	Ifo	Ogun	6.809	3.210	0	
+Community Primary School, Kajola Orile	Ifo	Ogun	6.817	3.206	0	
+African Church Primary School, Kajola Ifo	Ifo	Ogun	6.795	3.243	0	
+Local Government Primary School, Kajola - Iboro	Ado Odo/Ota	Ogun	6.695	3.058	0	
+Kainowa West	Mobbar	Borno	13.274	12.667	2	
+Kainowa Est	Mobbar	Borno	13.272	12.674	2	
+Kaoura Lahama	Gudu	Sokoto	13.486	4.224	2	
+Kalabari Beach	Oguta	Imo	5.699	6.798	2	
+Kabe 1	Kala-Balge	Borno	11.855	14.618	2	
+Kauna hospital	Jos North	Plateau	9.921	8.889	0	
+Kauna health clinic and maternity	Jos North	Plateau	9.900	8.867	0	
+UMM clinic kabong	Jos North	Plateau	9.928	8.872	0	
+Maman Gimbiya clinic kabong	Jos North	Plateau	9.927	8.870	0	
+Dan kasheari medical store	Jos North	Plateau	9.916	8.893	0	
+Kaisan LPG	Jos North	Plateau	9.903	8.901	0	
+Pilot Science Primary School, Karshi	Municipal Area Council	FCT Abuja	8.829	7.568	0	
+Karshi Junior Secondary School	Municipal Area Council	FCT Abuja	8.830	7.567	0	
+Usha-Kadu Primary Health Clinic	Nasarawa	Nasarawa	8.188	7.879	0	
+Karshi	Municipal Area Council	FCT Abuja	8.826	7.576	0	
+Kata Guiri	Madaoua	Sokoto	13.678	6.258	2	
+Kagini	Municipal Area Council	FCT Abuja	9.125	7.292	0	
+Kandawa Malemale	Gouré	Yobe	13.117	9.919	2	
+Karama Boukari	Gouré	Yobe	13.120	9.938	2	
+Government Secondary School Kabusa	Municipal Area Council	FCT Abuja	8.950	7.445	0	
+LEA Primary School Kabusa	Municipal Area Council	FCT Abuja	8.950	7.445	0	
+Kabusa Healthcare	Municipal Area Council	FCT Abuja	8.950	7.441	0	
+Kabusa Marketplace	Municipal Area Council	FCT Abuja	8.949	7.445	0	
+Kamjaza Ventures Limited	Girei	Adamawa	9.339	12.502	0	
+Sabon Kaura Primary School	Bauchi	Bauchi	10.293	9.786	0	
+Karima International Academy	Bauchi	Bauchi	10.285	9.788	0	
+Karima International Academy	Bauchi	Bauchi	10.287	9.787	0	
+General Hassan Usman Katsina (Unity College)	Bauchi	Bauchi	10.278	9.801	0	
+Anguaoul Mai Kano	Mai'Adua	Katsina	13.284	8.136	2	
+General hospital Kaltungo	Kaltungo	Gombe	9.831	11.321	0	
+School of Health Technology Kaltungo	Kaltungo	Gombe	9.828	11.320	0	
+Kasuwan Mata	Jos North	Plateau	9.913	8.912	0	
+General Hospital Kagarko	Kagarko	Kaduna	9.493	7.689	0	
+Model Science Primary School, Kagarko	Kagarko	Kaduna	9.492	7.703	0	
+Katarko	Gujba	Yobe	11.562	11.916	2	
+Kare 1	Madarounfa	Katsina	13.125	7.277	2	
+Kare 2	Madarounfa	Katsina	13.126	7.293	2	
+Kabala West Primary Health Center	Kaduna South	Kaduna	10.504	7.394	0	
+Jodem Hospital Yoruba Road Central Kaduna Central Kaduna	Kaduna South	Kaduna	10.473	7.406	0	
+Kagoro Road Primary Health Care	Kaduna South	Kaduna	10.512	7.402	0	
+Yusuf Dantsoho Hospital Kv 206 Lbrahim Taiwo Road Tudun Wada Kaduna	Kaduna South	Kaduna	10.512	7.411	0	
+Es 5 Junction Road By Station Roundabout Kaduna	Kaduna South	Kaduna	10.497	7.419	0	
+Saint Gerad Hospital Kakuri Noaa 26 Makera Road Nasarawa Kaduna	Chikun	Kaduna	10.478	7.397	0	
+Phc Makera Main Roadkakuri Kaduna	Kaduna South	Kaduna	10.468	7.412	0	
+General Hospital Baro Dikko No19 Kaduna Road Nasarawa Kafuna	Chikun	Kaduna	10.471	7.397	0	
+Hospitals No13a Tafoki Road Kabala West	Kaduna South	Kaduna	10.503	7.396	0	
+Primary Health Care Isa Kaita Raid Malali	Kaduna North	Kaduna	10.549	7.465	0	
+44 Army Hospital No13 Abba Road Off Lea Primary School Kagoro Road	Kaduna North	Kaduna	10.557	7.441	0	
+Barau Dikko Hospital NoBN13 Kinshasha Road Unguwan Rimi Kaduna	Kaduna North	Kaduna	10.534	7.462	0	
+Ramat Hospital Hayin Banku Kaduna	Kaduna North	Kaduna	10.572	7.442	0	
+Kawo General Hospital NoH14 Kawo Road Kawo Market Kawo Kaduna	Kaduna North	Kaduna	10.582	7.449	0	
+Kawo General Hospital	Kaduna North	Kaduna	10.583	7.447	0	
+Barau Dikko Teaching Hospital Dana Old Airport Kawo Kaduna	Kaduna North	Kaduna	10.591	7.446	0	
+Kawo Primary Health Center	Kaduna North	Kaduna	10.593	7.451	0	
+Barau Dikko Teaching Hospital NoT15 Darma Road Kawo	Kaduna North	Kaduna	10.577	7.449	0	
+Specialist Hospital No20a Gobarar Road Unguwar Rimi Kaduna	Kaduna North	Kaduna	10.509	7.458	0	
+NNPC Hospital No2 Sultan Road Unguwan Rimi Gra Kaduna	Kaduna North	Kaduna	10.536	7.452	0	
+Primary Healthcare Kabala Layin Sarki Kabalan Doki Kaduna	Kaduna North	Kaduna	10.502	7.446	0	
+Primary health care Kc3 Zuba Road Shooting Range Kabala	Kaduna North	Kaduna	10.505	7.449	0	
+Dialogue Clinic Isah Kaita	Kaduna North	Kaduna	10.546	7.447	0	
+44 Army Hospital No27 Idenpence Way Kaduna	Kaduna North	Kaduna	10.513	7.441	0	
+Ministry Of Health and Human Service Kaduna State Kaduna	Kaduna North	Kaduna	10.522	7.439	0	
+Primary Haelth Care No1 River Line Road Kabala Coastin	Kaduna North	Kaduna	10.501	7.440	0	
+Police College Clinic Kaduna	Kaduna North	Kaduna	10.510	7.444	0	
+Kabala Primary Health Center	Kaduna North	Kaduna	10.502	7.444	0	
+312 Artenary Kalapanzi Barracks Primary Health Center	Kaduna South	Kaduna	10.455	7.420	0	
+Kakuri Hausa Primary Health Center	Kaduna South	Kaduna	10.465	7.413	0	
+Kakuri Gwari 1 Primary Health Center	Kaduna South	Kaduna	10.461	7.410	0	
+Teaching Hospital No10 Sylvester Crescent Barnawa Kaduna State	Kaduna South	Kaduna	10.483	7.439	0	
+Yusuf Dantsoho Hospital Pq 12 Danladi Inusa Road Uguwan Sunusi Kaduna	Kaduna South	Kaduna	10.528	7.404	0	
+Shehu Muhammad Kangiwa Medical Center Kaduna Polytechnic	Kaduna South	Kaduna	10.524	7.416	0	
+General Hospital Kujama Kujama Market Kaduna	Chikun	Kaduna	10.476	7.637	0	
+Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
+General Hospital Kaduna Keke B Main Township Road	Chikun	Kaduna	10.556	7.494	0	
+Barau Dikko Teaching Hospital Jama'a Road Kadaure	Chikun	Kaduna	10.524	7.489	0	
+Primary Health Care By Yakowa Way Karjipu	Chikun	Kaduna	10.496	7.467	0	
+Kakau Daji Primary Health Center	Chikun	Kaduna	10.385	7.456	0	
+Beside Startech Filing Station Kakau	Chikun	Kaduna	10.380	7.397	0	
+Gwamna Awan General Hospital Primary Health Care Kakau	Chikun	Kaduna	10.376	7.395	0	
+General Hospital Sabon Tasha Karatudu Road	Chikun	Kaduna	10.425	7.415	0	
+General Hospital Sabon Tasha Firoro Road Uboro Sabon Tasha Kaduna	Chikun	Kaduna	10.451	7.469	0	
+Kamazou Health Clinic	Chikun	Kaduna	10.467	7.485	0	
+General Hospital Sabontasha Kaduna Majalisa Street Sabontasha Kaduna	Chikun	Kaduna	10.434	7.459	0	
+Kakau Primary Health Care Center	Chikun	Kaduna	10.428	7.356	0	
+Kamzone Medical Diagnostic	Alimosho	Lagos	6.547	3.264	0	
+Kayode Health Center Onipanu	Mushin	Lagos	6.533	3.365	0	
+Kajla Primary Health Center	Mushin	Lagos	6.527	3.366	0	
+Bola kasim market	Kosofe	Lagos	6.606	3.409	0	
+UBAYYU BIN KAAB	Ungongo	Kano	12.042	8.567	0	
+MALAN KABIRU ALMAJIRI SCHOOL	Ungongo	Kano	12.043	8.565	0	
+IBN KASIR ACADEMY	Ungongo	Kano	12.038	8.564	0	
+MAKARATAR MARAYU DA MASU KARAMIN KARFI	Ungongo	Kano	12.035	8.564	0	
+KALIPHA MAI ICHE	Ungongo	Kano	12.054	8.580	0	
+ALQAMAR COLLEGE KANO	Gwale	Kano	11.963	8.478	0	
+KARANTAR MALAM AUWAL FARIN MASALLACHI	Gwale	Kano	11.960	8.468	0	
+AMATULRAHMAN ROYAL INT' SCHOOL KANO	Gwale	Kano	11.964	8.468	0	
+ZAM-ZAM INTL SCHOOL KANO	Gwale	Kano	11.963	8.467	0	
+MAI KANO ACADEMY	Gwale	Kano	11.954	8.471	0	
+ASHABUL KAHFI QADIRIYYA RIYADUL JANNAH	Gwale	Kano	11.960	8.476	0	
+MADARATU UBAIYI BIN KA'AB	Gwale	Kano	11.963	8.479	0	
+NASHRUL ULUMI AL-ISLAMIYYA PRIMARY SEC.DORAYI KARAMA	Gwale	Kano	11.964	8.480	0	
+MADINA COLLEGE KANO	Gwale	Kano	11.966	8.470	0	
+DARUL KAIR INTNL SCHOOLS	Gwale	Kano	11.957	8.471	0	
+GOVT GIRL DORAYI KARAMA	Gwale	Kano	11.967	8.473	0	
+GOV'T SECOND SCHOOL DORAYI KARAMA	Gwale	Kano	11.968	8.473	0	
+DORAYI KARAMA PRIMARY HEALTH CARE	Gwale	Kano	11.965	8.477	0	
+Kadira	Guri	Jigawa	12.614	10.514	2	Kadera
+Kakumi	Bakori	Katsina	11.790	7.310	2	
+Kadmuna Market	Kanke	Plateau	9.393	9.566	0	
+Gidan Karfe	Chikun	Kaduna	10.448	7.502	2	
+Katako Timber Shed	Jos North	Plateau	9.944	8.878	0	
+Katako Yan Gwanjo	Jos North	Plateau	9.943	8.878	0	
+Ecwa Kauna Secondary Schools	Bauchi	Bauchi	10.265	9.797	0	
+Olumawu Basic School, Oni Kanga Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.477	4.567	0	
+Kankatu Market, Okelele Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.506	4.546	0	
+Kamo Primary Health Care (PHC Kamo)	Kaltungo	Gombe	9.957	11.344	0	
+Kandawa Rogodo	Dungass	Jigawa	12.825	9.299	2	
+Cross Kauwa Primary School	Kukawa	Borno	12.941	13.676	0	
+Kalasunju	Opobo/Nkoro	Rivers	4.478	7.545	2	
+kabiyesi itomu jetty	Eti Osa	Lagos	6.502	3.627	0	
+kabakaba	Apapa	Lagos	6.431	3.373	0	
+Kanikoko	Kaiama	Kwara	9.566	4.030	2	
+kabayi Nur, Pro & Secondary School	Karu	Nasarawa	9.035	7.594	0	
+Kamata International School	Karu	Nasarawa	8.946	7.676	0	
+Kabo Communication Center	Municipal Area Council	FCT Abuja	9.131	7.389	0	
+Kabusa Junction	Municipal Area Council	FCT Abuja	8.974	7.496	0	
+Kabusa Junction Bus Stop	Municipal Area Council	FCT Abuja	8.973	7.496	0	
+Beauty&Katz Multi Collections	Municipal Area Council	FCT Abuja	8.966	7.380	0	
+Kabusa Park - To Gudu Market	Municipal Area Council	FCT Abuja	8.956	7.444	0	
+Lagos State Senior Model College, Kankon	Badagry	Lagos	6.421	2.759	0	
+Lagos State Junior Model College Kankon	Badagry	Lagos	6.420	2.758	0	
+Kagare	Sandamu	Katsina	12.963	8.408	2	
+Kakwe	Boki	Cross River	6.468	9.214	2	
+Kanyang II	Boki	Cross River	6.276	9.054	2	
+Kanyang I	Boki	Cross River	6.261	9.045	2	
+Great Ka	Calabar South	Cross River	4.790	8.363	2	
+Karimu Kotun Street	Eti Osa	Lagos	6.425	3.424	1	
+Kasumu Ekemode Street	Eti Osa	Lagos	6.425	3.422	1	
+Bishop Kale Close	Eti Osa	Lagos	6.425	3.423	1	
+Remi Fani-Kayode Avenue	Ikeja	Lagos	6.574	3.351	1	
+Alhaji Kanike Street	Eti Osa	Lagos	6.441	3.417	1	
+Kano-Maiduguri Highway	Dawakin Kudu	Kano	11.925	8.639	1	
+Kano-Zaria Highway	Sabon Gari	Kaduna	11.130	7.705	1	
+Kaduna Street	Port-Harcourt	Rivers	4.797	7.004	1	
+Aminu Kano Crescent	Municipal Area Council	FCT Abuja	9.084	7.470	1	
+Kashim Ibrahim Street	Municipal Area Council	FCT Abuja	9.069	7.464	1	
+Kachia Road	Kaduna South	Kaduna	10.466	7.420	1	
+Kashim Ibrahim Way	Tarauni	Kano	11.982	8.548	1	
+Nigeria National Eye Centre Kaduna	Igabi	Kaduna	10.574	7.407	0	
+Malumfashi - Katsina Road	Kankara	Katsina	11.886	7.455	1	
+Kataru Road	Kaduna North	Kaduna	10.550	7.452	1	
+Isa Kaita Road	Kaduna North	Kaduna	10.539	7.471	1	
+Kainji Road	Kaduna North	Kaduna	10.542	7.463	1	
+Kabir Road	Kaduna North	Kaduna	10.538	7.467	1	
+Kawo Motor Park	Kaduna North	Kaduna	10.585	7.449	0	
+Kanta Road	Kaduna North	Kaduna	10.527	7.436	1	
+River Karama Road	Kaduna North	Kaduna	10.555	7.465	1	
+Kazaure Road	Kaduna North	Kaduna	10.508	7.428	1	
+Kagarko Road	Kaduna North	Kaduna	10.580	7.461	1	
+Kado Road	Kaduna North	Kaduna	10.580	7.459	1	
+Kargo Road	Kaduna North	Kaduna	10.572	7.456	1	
+Kamba Close	Kaduna North	Kaduna	10.575	7.459	1	
+Katagum Road	Kaduna North	Kaduna	10.514	7.443	1	
+Katsina Close	Kaduna North	Kaduna	10.559	7.452	1	
+Dikwa - Kauwa Road	Kukawa	Borno	12.800	13.675	1	
+Kabba Road	Kaduna North	Kaduna	10.517	7.433	1	
+Kabala Road	Kaduna North	Kaduna	10.513	7.462	1	
+Kagara Road	Kaduna North	Kaduna	10.522	7.457	1	
+Kaduna Long haul Bus station	Kaduna North	Kaduna	10.587	7.440	0	
+Abuja-Kaduna Highway	Chikun	Kaduna	10.435	7.405	1	
+Abuja-Kaduna Highway	Chikun	Kaduna	10.325	7.389	1	
+Abuja-Kaduna Highway	Kaduna South	Kaduna	10.438	7.405	1	
+Katsina Roundabout	Kaduna North	Kaduna	10.512	7.431	1	
+Kaunda Close	Chikun	Kaduna	10.459	7.451	1	
+Katsina Road	Kaduna North	Kaduna	10.513	7.437	1	
+Kano Road	Kaduna North	Kaduna	10.516	7.431	1	
+Kakanda Road	Kaduna South	Kaduna	10.514	7.414	1	
+Kajuru Road	Kaduna South	Kaduna	10.516	7.419	1	
+Kaduna Capital School	Kaduna North	Kaduna	10.548	7.466	0	
+Kaduna-Jos Highway	Igabi	Kaduna	10.679	7.492	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.723	7.567	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.722	7.587	1	
+Kaduna-Jos Highway	Kubau	Kaduna	10.680	8.273	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.656	7.476	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.636	7.469	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.611	7.466	1	
+Kaduna-Jos Highway	Kaduna North	Kaduna	10.599	7.453	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.633	7.469	1	
+Kaura Namoda - Jibiya Road	Kaura Namoda	Zamfara	12.661	6.627	1	
+Kampala Close	Municipal Area Council	FCT Abuja	9.064	7.473	1	
+Abuja-Kaduna Highway	Kagarko	Kaduna	9.610	7.454	1	
+Abuja-Kaduna Highway	Kagarko	Kaduna	9.568	7.424	1	
+Kaiama Road	Olorunsogo	Oyo	8.704	4.190	1	
+Karimu Street	Surulere	Lagos	6.509	3.360	1	
+Kayode Abraham Street	Eti Osa	Lagos	6.425	3.441	1	
+Kazeem Abogun Street	Eti Osa	Lagos	6.432	3.525	1	
+Kalejaiye Street	Oshodi/Isolo	Lagos	6.567	3.332	1	
+Kayode Maliki Street	Egbeda	Oyo	7.385	3.980	1	
+Engr Kayode Orekoya Street	Lagelu	Oyo	7.438	3.955	1	
+El-Kanemi Road	Ibadan North	Oyo	7.442	3.899	1	
+Kadara Street	Lagos Mainland	Lagos	6.483	3.389	1	
+Kano Street	Lagos Mainland	Lagos	6.484	3.386	1	
+Alhaji Wahab Kajogbola Street	Oshodi/Isolo	Lagos	6.513	3.306	1	
+Kamoru Adeyemi Street	Oshodi/Isolo	Lagos	6.522	3.319	1	
+Kayode Taiwo Avenue	Kosofe	Lagos	6.620	3.378	1	
+Karimu Giwa Street	Eti Osa	Lagos	6.443	3.425	1	
+Kao Close	Alimosho	Lagos	6.604	3.314	1	
+Alhaji Kareem Ogungbeye Street	Ikeja	Lagos	6.625	3.356	1	
+Alhaji Kareem Street	Kosofe	Lagos	6.630	3.375	1	
+Kayode Yusuf	Ikeja	Lagos	6.646	3.357	1	
+Kayode Street	Ifako/Ijaye	Lagos	6.633	3.339	1	
+Kadiri Street	Ifako/Ijaye	Lagos	6.646	3.332	1	
+Kafayat Abdulrasaq Street	Eti Osa	Lagos	6.441	3.467	1	
+Karimu Ikotun Street	Lagos Mainland	Lagos	6.502	3.383	1	
+Kasali Onileere Street	Ìkòròdú	Lagos	6.621	3.497	1	
+Kasali Street	Alimosho	Lagos	6.573	3.301	1	
+Kamoru Alimi Street	Agege	Lagos	6.614	3.327	1	
+Kayode Animashaun Street	Eti Osa	Lagos	6.444	3.469	1	
+Kayode Otitoju Street	Eti Osa	Lagos	6.450	3.473	1	
+Kate Elegushi Road	Eti Osa	Lagos	6.435	3.486	1	
+Katsina Road	Kaduna North	Kaduna	10.513	7.430	1	
+Kachia Road	Chikun	Kaduna	10.443	7.487	1	
+Kachia Road	Kaduna South	Kaduna	10.485	7.419	1	
+Kachia Road	Kaduna South	Kaduna	10.485	7.419	1	
+Kachia Road	Chikun	Kaduna	10.450	7.449	1	
+Kachia Road	Kaduna South	Kaduna	10.455	7.426	1	
+Kaduna Airport Link Road	Igabi	Kaduna	10.593	7.362	1	
+Kachia Road	Chikun	Kaduna	10.434	7.517	1	
+Abuja-Kaduna Highway	Kachia	Kaduna	10.000	7.410	1	
+Abuja-Kaduna Highway	Kachia	Kaduna	10.078	7.371	1	
+Abuja-Kaduna Highway	Kachia	Kaduna	10.036	7.389	1	
+Abuja-Kaduna Highway	Kachia	Kaduna	10.063	7.380	1	
+Abuja-Kaduna Highway	Chikun	Kaduna	10.317	7.384	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.675	7.488	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.693	7.511	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.716	7.749	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.692	7.503	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.701	7.756	1	
+Rd Kargo	Igabi	Kaduna	10.816	7.578	1	
+Kano-Zaria Highway	Tarauni	Kano	11.941	8.564	1	
+Kano-Zaria Highway	Dawakin Kudu	Kano	11.880	8.540	1	
+Katsina Road	Dala	Kano	12.041	8.486	1	
+Kano-Zaria Highway	Kumbotso	Kano	11.911	8.546	1	
+Kano-Zaria Highway	Kumbotso	Kano	11.944	8.566	1	
+Katsina Road	Fagge	Kano	12.050	8.479	1	
+Kano-Maiduguri Highway	Darazo	Bauchi	11.432	10.818	1	
+Kano-Maiduguri Highway	Dawakin Kudu	Kano	11.902	8.659	1	
+Kano-Gumel Road	Nassarawa	Kano	12.011	8.593	1	
+Murtala Muhammad Way Kano	Nassarawa	Kano	12.009	8.546	1	
+Murtala Muhammad way Kano	Nassarawa	Kano	12.009	8.545	1	
+Kano-Gwarzo Road	Gwale	Kano	11.980	8.466	1	
+Aminu Kano Way	Dala	Kano	12.004	8.495	1	
+Kano-Gwarzo Road	Gwale	Kano	11.990	8.506	1	
+Gwarzo Road Kano	Gwale	Kano	11.978	8.460	1	
+Yusuf Maitama Sule University Kano, city campus	Kano Municipal	Kano	11.991	8.531	0	
+Hameed Kasumu Street	Eti Osa	Lagos	6.459	3.446	1	
+Alhaji Kadiri Salami Street	Ajeromi/Ifelodun	Lagos	6.444	3.322	1	
+Kashim Ibrahim Way	Municipal Area Council	FCT Abuja	9.081	7.473	1	
+Katsina Ala Street	Municipal Area Council	FCT Abuja	9.094	7.493	1	
+Kainji Crescent	Municipal Area Council	FCT Abuja	9.092	7.505	1	
+Kano-Zaria Highway	Sabon Gari	Kaduna	11.141	7.728	1	
+Kabo Street	Municipal Area Council	FCT Abuja	9.030	7.493	1	
+Kaura Namoda Close	Municipal Area Council	FCT Abuja	9.028	7.477	1	
+Kashim Ibrahim Road	Maiduguri	Borno	11.850	13.172	1	
+Kashim Ibrahim Road	Maiduguri	Borno	11.858	13.156	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.424	9.951	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.427	9.956	1	
+Kano Street	Municipal Area Council	FCT Abuja	9.030	7.471	1	
+Kamo Street	Municipal Area Council	FCT Abuja	9.028	7.475	1	
+Kalemie Street	Municipal Area Council	FCT Abuja	9.070	7.459	1	
+Kade Street	Municipal Area Council	FCT Abuja	9.083	7.467	1	
+Katampe Road	Municipal Area Council	FCT Abuja	9.108	7.451	1	
+John J. Kadiya Street	Municipal Area Council	FCT Abuja	9.036	7.517	1	
+Old Karu Road	Municipal Area Council	FCT Abuja	9.018	7.588	1	
+Kalagbor Street	Port-Harcourt	Rivers	4.816	7.011	1	
+Aminu Kano Crescent	Municipal Area Council	FCT Abuja	9.075	7.472	1	
+katako road	Jos North	Plateau	9.951	8.886	1	
+Kachia Close	Municipal Area Council	FCT Abuja	9.032	7.480	1	
+Abuja-Kaduna Highway	Kachia	Kaduna	9.768	7.448	1	
+Abuja-Kaduna Highway	Kachia	Kaduna	9.713	7.455	1	
+Abuja-Kaduna Highway	Kachia	Kaduna	9.833	7.463	1	
+Kabba Close	Municipal Area Council	FCT Abuja	9.030	7.479	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.844	13.054	1	
+Kano-Maiduguri Highway	Maiduguri	Borno	11.834	13.117	1	
+Aminu Kano Teaching Hospital	Tarauni	Kano	11.961	8.550	0	
+Mallam Aminu Kano International Airport	Fagge	Kano	12.056	8.543	0	
+Nasiru Kabara Street	Tarauni	Kano	11.971	8.534	1	
+Sen. Isa Kachiko Road	Tarauni	Kano	11.979	8.553	1	
+Kano-Zaria Highway	Kiru	Kano	11.461	8.194	1	
+Kano-Zaria Highway	Bebeji	Kano	11.610	8.377	1	
+Kano-Zaria Highway	Garum Mallam	Kano	11.665	8.417	1	
+Kano-Zaria Highway	Garum Mallam	Kano	11.634	8.405	1	
+Kano-Zaria Highway	Garum Mallam	Kano	11.700	8.421	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.249	8.412	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.346	8.303	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.333	8.311	1	
+Rahama to Kafin Mayaki Road	Bebeji	Kano	11.380	8.274	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.278	8.340	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.337	8.309	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.238	8.427	1	
+Kaduna Road	Bauchi	Bauchi	10.312	9.819	1	
+Kaduna-Jos Highway	Lere	Kaduna	10.424	8.676	1	
+Rahama to Kafin Mayaki Road	Lere	Kaduna	10.555	8.678	1	
+Karounwi Street	Surulere	Lagos	6.507	3.337	1	
+Kadiri Street	Surulere	Lagos	6.504	3.338	1	
+Durbin Katsina Road	Nassarawa	Kano	12.011	8.564	1	
+Kam Salem Street	Municipal Area Council	FCT Abuja	9.036	7.484	1	
+kano - Daura Road	Sandamu	Katsina	12.828	8.399	1	
+Azare - Katagum Road	Katagum	Bauchi	11.684	10.189	1	
+Karimu Adeyi Street	Eti Osa	Lagos	6.477	3.610	1	
+Kayode Oni Animashaun Street	Eti Osa	Lagos	6.473	3.611	1	
+Kayode Oseni Street	Eti Osa	Lagos	6.487	3.588	1	
+Kashimawo Adekunle Street	Eti Osa	Lagos	6.494	3.602	1	
+Passa Kai	Bokkos	Plateau	9.146	8.815	2	
+Kaiama Road	Ilorin West	Kwara	8.508	4.529	1	
+Kamalideen Road	Ilorin East	Kwara	8.508	4.540	1	
+Kaiama Road	Ilorin East	Kwara	8.499	4.544	1	
+Kaduna-Jos Highway	Jos North	Plateau	9.958	8.859	1	
+Kabiyesi Street	Mushin	Lagos	6.512	3.335	1	
+Kasali Street	Mushin	Lagos	6.512	3.341	1	
+Kaduna-Jos Highway	Bassa	Plateau	10.199	8.895	1	
+Alhaji Kayode Close	Surulere	Lagos	6.489	3.345	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.678	11.348	1	
+Kano-Maiduguri Highway	Darazo	Bauchi	11.244	10.559	1	
+Kaiama Road	Asa	Kwara	8.551	4.468	1	
+Kaiama Road	Asa	Kwara	8.636	4.376	1	
+Kaiama Road	Asa	Kwara	8.544	4.474	1	
+Kaiama Road	Ilorin West	Kwara	8.520	4.500	1	
+Kaiama Road	Asa	Kwara	8.589	4.441	1	
+Kaiama Road	Asa	Kwara	8.587	4.446	1	
+Kaiama Road	Asa	Kwara	8.579	4.459	1	
+Kaiama Road	Asa	Kwara	8.570	4.462	1	
+Kaiama Road	Asa	Kwara	8.582	4.453	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.740	11.956	1	
+Kano-Maiduguri Highway	Darazo	Bauchi	11.254	10.557	1	
+Keffi to Kachia Road	Keffi	Nasarawa	8.874	7.873	1	
+Kalambaina Road	Wamako	Sokoto	13.026	5.220	1	
+Kalambaina Road	Wamako	Sokoto	13.024	5.231	1	
+Kalambaina Road	Wamako	Sokoto	13.029	5.210	1	
+Kalambaina Road	Wamako	Sokoto	13.049	5.189	1	
+Kaita Road	Muhammadu Dikko Stadium	Katsina	13.019	7.627	1	
+Katsina Airport	Muhammadu Dikko Stadium	Katsina	13.004	7.661	0	
+Abuja-Kaduna Highway	Municipal Area Council	FCT Abuja	9.092	7.218	1	
+Abuja-Kaduna Highway	Suleja	Niger	9.183	7.212	1	
+Abuja-Kaduna Highway	Suleja	Niger	9.189	7.210	1	
+Kakawa Street	Lagos Island	Lagos	6.453	3.390	1	
+Oba Kayode Akinyemi Way	Amuwo Odofin	Lagos	6.474	3.321	1	
+Kayode Street	Mushin	Lagos	6.532	3.364	1	
+Kadiri Street	Mushin	Lagos	6.523	3.367	1	
+Abdul Karimu Street	Lagos Mainland	Lagos	6.508	3.397	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.781	6.770	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.851	6.846	1	
+Adenuga Kajero Street	Shomolu	Lagos	6.530	3.385	1	
+Kayode Adebanji Street	Oshodi/Isolo	Lagos	6.533	3.309	1	
+Kareem Babatunde	Agege	Lagos	6.618	3.312	1	
+Kareem Oyelade Street	Agege	Lagos	6.623	3.308	1	
+Kasumu Street	Agege	Lagos	6.626	3.321	1	
+Kajoyo Street	Alimosho	Lagos	6.679	3.259	1	
+Kayode Oladimeji Street	Ifo	Ogun	6.679	3.304	1	
+Karien Street	Warri South	Delta	5.531	5.759	1	
+Kazeem Street	Kosofe	Lagos	6.590	3.396	1	
+Kajola street	Kosofe	Lagos	6.570	3.376	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.700	11.072	1	
+Kano-Zaria Highway	Kura	Kano	11.755	8.423	1	
+Kano-Zaria Highway	Kura	Kano	11.841	8.516	1	
+Kano-Zaria Highway	Kura	Kano	11.799	8.460	1	
+Kano-Zaria Highway	Kura	Kano	11.774	8.421	1	
+Kano-Zaria Highway	Sabon Gari	Kaduna	11.150	7.742	1	
+Kano-Zaria Highway	Makarfi	Kaduna	11.369	7.968	1	
+Kano-Zaria Highway	Kudan	Kaduna	11.200	7.778	1	
+Kano-Zaria Highway	Kiru	Kano	11.466	8.200	1	
+Abuja-Kaduna Highway	Kachia	Kaduna	9.946	7.422	1	
+Abuja-Kaduna Highway	Kachia	Kaduna	9.850	7.459	1	
+Abuja-Kaduna Highway	Kagarko	Kaduna	9.416	7.333	1	
+Abuja-Kaduna Highway	Kagarko	Kaduna	9.407	7.327	1	
+Abuja-Kaduna Highway	Tafa	Niger	9.323	7.251	1	
+Hassan Usman Katsina Road	Lokoja	Kogi	7.824	6.689	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.835	13.090	1	
+Kano-Maiduguri Highway	Kaga	Borno	11.820	12.572	1	
+Kano-Maiduguri Highway	Kaga	Borno	11.807	12.485	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.744	11.970	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.691	11.678	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.688	11.184	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.686	11.191	1	
+Kano-Maiduguri Highway	Fika	Yobe	11.668	11.241	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.698	11.096	1	
+Kano-Maiduguri Highway	Wudil	Kano	11.797	8.834	1	
+Kano-Maiduguri Highway	Wudil	Kano	11.744	8.857	1	
+Kano-Maiduguri Highway	Warawa	Kano	11.814	8.819	1	
+Kaiama Road	Asa	Kwara	8.686	4.287	1	
+Kaiama Road	Asa	Kwara	8.669	4.329	1	
+Kaiama Road	Asa	Kwara	8.681	4.303	1	
+Kaiama Road	Asa	Kwara	8.675	4.317	1	
+Kaiama Road	Asa	Kwara	8.688	4.282	1	
+Kaiama Road	Asa	Kwara	8.672	4.324	1	
+Kaiama Road	Asa	Kwara	8.696	4.231	1	
+Kaiama Road	Asa	Kwara	8.696	4.222	1	
+Kaiama Road	Asa	Kwara	8.690	4.260	1	
+Kaiama Road	Asa	Kwara	8.693	4.244	1	
+Kaduna Street	Enugu North	Enugu	6.437	7.498	1	
+Abel Kama Avenue	Enugu North	Enugu	6.428	7.531	1	
+Kaduna-Jos Highway	Lere	Kaduna	10.406	8.690	1	
+Kanife Close	Enugu North	Enugu	6.480	7.481	1	
+Kano Street	Enugu North	Enugu	6.428	7.479	1	
+Chief Kalu Ukiwe Street	Enugu East	Enugu	6.485	7.478	1	
+Chief Kalu Ukiwe Street	Enugu East	Enugu	6.486	7.478	1	
+Kawawa Street	Enugu South	Enugu	6.420	7.531	1	
+Kano - Katsina	Rimi	Katsina	12.847	7.668	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.700	7.526	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.716	7.557	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.731	7.719	1	
+Kaduna-Jos Highway	Igabi	Kaduna	10.761	7.661	1	
+Kaduna-Jos Highway	Kauru	Kaduna	10.690	7.984	1	
+Kaduna-Jos Highway	Kubau	Kaduna	10.682	8.220	1	
+Kaduna-Jos Highway	Kubau	Kaduna	10.679	8.251	1	
+Bello Kano Terrace	Tarauni	Kano	11.983	8.545	1	
+Kwanar Badawa, Kano	Nassarawa	Kano	12.008	8.580	1	
+Alhaji Kazeem Street	Alimosho	Lagos	6.565	3.245	1	
+Kabba Street	Fagge	Kano	12.031	8.535	1	
+Karkasara Road	Tarauni	Kano	11.950	8.556	1	
+Kagara General Hospital	Rafi	Niger	10.191	6.259	0	
+Dikwa - Kauwa Road	Dikwa	Borno	12.052	13.921	1	
+Dikwa - Kauwa Road	Monguno	Borno	12.680	13.616	1	
+Malumfashi - Katsina Road	Batagarawa	Katsina	12.716	7.529	1	
+Malumfashi - Katsina Road	Batagarawa	Katsina	12.708	7.525	1	
+Malumfashi - Katsina Road	Batagarawa	Katsina	12.731	7.529	1	
+Malumfashi - Katsina Road	Batagarawa	Katsina	12.818	7.562	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.450	7.504	1	
+BAKIN KASUWA/ SANSAN ROAD	Dambatta	Kano	12.441	8.604	1	
+karanbanin larai road	Makoda	Kano	12.422	8.428	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.383	9.524	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.351	9.603	1	
+Malumfashi - Katsina Road	Kankara	Katsina	12.009	7.458	1	
+Malumfashi - Katsina Road	Kankara	Katsina	12.075	7.471	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.101	7.230	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.055	7.163	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	12.986	7.050	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.003	7.077	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.106	7.252	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.059	7.173	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.009	7.102	1	
+Kagadama road	Makoda	Kano	12.492	8.544	1	
+Kajola Road	Ifako/Ijaye	Lagos	6.657	3.336	1	
+Kara crescent	Wudil	Kano	11.809	8.846	1	
+Kara road extension	Wudil	Kano	11.809	8.852	1	
+Kachia Road	Chikun	Kaduna	10.435	7.516	1	
+Kachia Road	Kajuru	Kaduna	10.310	7.719	1	
+Kachia Road	Kajuru	Kaduna	10.387	7.713	1	
+Kachia Road	Kajuru	Kaduna	10.396	7.716	1	
+Kachia Road	Kajuru	Kaduna	10.229	7.911	1	
+Kachia Road	Kajuru	Kaduna	10.374	7.717	1	
+Kachia Road	Kajuru	Kaduna	10.341	7.709	1	
+Kachia Road	Kachia	Kaduna	10.048	7.992	1	
+Kachia Road	Kachia	Kaduna	9.965	7.984	1	
+Kano-Maiduguri Highway	Garko	Kano	11.659	8.895	1	
+Kano-Maiduguri Highway	Wudil	Kano	11.637	8.931	1	
+Kashim Ibrahim Road	Ibadan North	Oyo	7.450	3.897	1	
+Kaduna-Jos Highway	Kubau	Kaduna	10.684	8.342	1	
+Kaduna-Jos Highway	Lere	Kaduna	10.687	8.372	1	
+Kaduna-Jos Highway	Kubau	Kaduna	10.676	8.309	1	
+Kaduna-Jos Highway	Kubau	Kaduna	10.681	8.283	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.427	9.488	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.423	9.489	1	
+Kaduna-Jos Highway	Lere	Kaduna	10.690	8.390	1	
+Kaduna-Jos Highway	Lere	Kaduna	10.683	8.457	1	
+Kaduna-Jos Highway	Lere	Kaduna	10.629	8.467	1	
+Kaduna-Jos Highway	Lere	Kaduna	10.591	8.462	1	
+Kaduna-Jos Highway	Lere	Kaduna	10.610	8.458	1	
+Kaduna-Jos Highway	Lere	Kaduna	10.517	8.496	1	
+Kamfa Road	Kumbotso	Kano	11.909	8.513	1	
+Kano-Zaria Highway	Kura	Kano	11.817	8.490	1	
+Kara road (Main gate)	Wudil	Kano	11.804	8.848	1	
+Kano-Maiduguri Highway	Albasu	Kano	11.626	8.952	1	
+Kano-Maiduguri Highway	Albasu	Kano	11.610	8.987	1	
+Kano-Maiduguri Highway	Albasu	Kano	11.613	9.030	1	
+Kano-Maiduguri Highway	Albasu	Kano	11.553	9.190	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.717	6.721	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.720	6.727	1	
+Malumfashi - Katsina Road	Kurfi	Katsina	12.639	7.495	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.427	7.463	1	
+Karta	Jere	Borno	11.831	13.080	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.469	9.444	1	
+Kano-Maiduguri Highway	Takai	Kano	11.527	9.337	1	
+Kaduwa II	Jere	Borno	11.788	13.136	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.414	9.490	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.384	9.507	1	
+Kaduna Street	Konduga	Borno	11.855	13.056	1	
+Oba Kabiru Agbabiaka Ave	Oshodi/Isolo	Lagos	6.506	3.305	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.417	9.893	1	
+Kano-Maiduguri Highway	Gwaram	Jigawa	11.346	9.642	1	
+Kofo Kasimu Avenue	Amuwo Odofin	Lagos	6.481	3.301	1	
+Kalejaiye Street	Ìkòròdú	Lagos	6.622	3.495	1	
+Kayode Babalola Street	Ìkòròdú	Lagos	6.652	3.514	1	
+Babban Giji Secondary School, Karkasara	Tarauni	Kano	11.958	8.546	0	
+Kao Alabi Crescent	Ìkòròdú	Lagos	6.618	3.481	1	
+junction Layin Gidan Kashi	Kumbotso	Kano	11.954	8.479	1	
+Kasuwar Kuka Primary Health Centre	Kunchi	Kano	12.430	8.353	0	
+Layin Kasuwa Street	Gwale	Kano	11.979	8.472	1	
+Kabiru Auta Street	Kano Municipal	Kano	11.976	8.531	1	
+Gidan Kasa Street	Ungongo	Kano	11.979	8.448	1	
+Kawu Wakili Street	Ungongo	Kano	11.975	8.450	1	
+Bayero University Kano	Ungongo	Kano	11.964	8.431	0	Bayero University Kano (New Campus)|BUK
+Kankarawa Health Post	Minjibir	Kano	12.223	8.624	0	
+Layin Sarkin kasuwa	Tarauni	Kano	11.976	8.561	1	
+Kauyen Adam Health Post	Bagwai	Kano	12.130	8.202	0	
+Kariya Health Post	Bagwai	Kano	12.043	8.202	0	
+Dutsen Karya Health Post	Bichi	Kano	12.211	8.133	0	
+Kawoni Health Post	Ajingi	Kano	11.997	9.206	0	
+Kwarin Goshi - Sabuwar Kaura Road	Tudun Wada	Kano	11.310	8.408	1	
+Kara-Dagaji Health Post	Ajingi	Kano	11.930	9.155	0	
+Karkasara Road	Tarauni	Kano	11.940	8.555	1	
+Karofin Yashi Health Post	Rimin Gado	Kano	11.883	8.350	0	
+Kanye Health Post	Kabo	Kano	11.960	8.147	0	
+Kafinmaiko Health Post	Bagwai	Kano	12.039	8.168	0	
+Kazar Daw Health Post	Rimin Gado	Kano	11.967	8.195	0	
+Kabiru dogo	Kumbotso	Kano	11.891	8.500	1	
+Kabobo street	Fagge	Kano	12.009	8.529	1	
+Kabiru Sanda road	Tarauni	Kano	11.976	8.559	1	
+Kasuwan Kifi street	Akko	Gombe	10.277	11.203	1	
+Fammar - Kadigawa - Unguwar Gai Road	Kibiya	Kano	11.579	8.740	1	
+Kafin Sidda Health Post	Takai	Kano	11.524	9.066	0	
+Kan Iyaka Health Post	Takai	Kano	11.612	9.086	0	
+Kachako Primary Health Centre	Takai	Kano	11.538	9.249	0	
+Kazurawa Health Post	Gaya	Kano	11.772	9.017	0	
+Kalahaddi Health Post	Gaya	Kano	11.720	9.024	0	
+Yan Kau Health Post	Gaya	Kano	11.760	8.979	0	
+Kawari Health Post	Ajingi	Kano	12.008	9.006	0	
+Kara-Makama Health Post	Ajingi	Kano	11.957	9.074	0	
+Kabagiwa Health Post	Tsanyawa	Kano	12.311	8.023	0	
+Karofawa Health Post	Kunchi	Kano	12.486	8.238	0	
+Kaya Health Post	Kunchi	Kano	12.550	8.268	0	
+Kantudu Health Post	Makoda	Kano	12.573	8.470	0	
+Katsarduwa Health Post	Dambatta	Kano	12.332	8.665	0	
+Karmami Primary Health Centre	Gabasawa	Kano	12.106	8.823	0	
+Kawo Health Post	Gabasawa	Kano	12.162	8.854	0	
+Bayero University Kano	Gwale	Kano	11.981	8.483	0	
+Hammed Kasumu Street	Eti Osa	Lagos	6.446	3.529	1	
+Kauyen Mai Unguwar Primary Health Centre	Dambatta	Kano	12.371	8.487	0	
+Dawon Kaya Health Post	Makoda	Kano	12.302	8.541	0	
+Katsinawa Health Post	Ungongo	Kano	12.062	8.449	0	
+Kaura Goje Primary Health Centre	Nassarawa	Kano	12.044	8.546	0	
+Kantama Babba Health Post	Minjibir	Kano	12.182	8.594	0	
+Kadawa Primary Health Centre	Ungongo	Kano	12.076	8.457	0	
+Fagen Kawo Health Post	Dawakin Tofa	Kano	12.081	8.417	0	
+Yalwa Karama Health Post	Tofa	Kano	12.058	8.335	0	
+Kadawa Health Post	Dawakin Tofa	Kano	12.072	8.373	0	
+Yar Kasuwa Road	Tofa	Kano	12.060	8.275	1	
+Kano-Zaria Highway	Makarfi	Kaduna	11.263	7.840	1	
+Kano-Zaria Highway	Makarfi	Kaduna	11.339	7.905	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.631	8.645	1	
+koso, Kagarko local government, Kaduna state, Nigeria	Kagarko	Kaduna	9.339	7.815	1	
+Keffi to Kachia Road	Kagarko	Kaduna	9.468	7.940	1	
+Keffi to Kachia Road	Karu	Nasarawa	9.248	8.034	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.673	8.638	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.663	8.644	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.766	8.605	1	
+Rahama to Kafin Mayaki Road	Kubau	Kaduna	10.835	8.573	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.017	8.615	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.910	8.619	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.083	8.594	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.068	8.608	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.133	8.572	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.175	8.537	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.160	8.550	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.115	8.580	1	
+Kayode Animashaun Street	Eti Osa	Lagos	6.446	3.469	1	
+John Obasi Kalu Close	Eti Osa	Lagos	6.427	3.465	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.476	7.533	1	
+Dutsin Ma - Kankiya Road	Charanchi	Katsina	12.472	7.692	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.491	7.612	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.485	7.551	1	
+Dutsin Ma - Kankiya Road	Kankia	Katsina	12.492	7.718	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.484	7.627	1	
+Dutsin Ma - Kankiya Road	Charanchi	Katsina	12.475	7.652	1	
+Dutsin Ma - Kankiya Road	Charanchi	Katsina	12.475	7.709	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.484	7.585	1	
+Dutsin Ma - Kankiya Road	Kankia	Katsina	12.507	7.756	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.946	6.963	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	12.995	7.062	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	12.988	7.056	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.920	6.927	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.065	7.181	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.731	6.736	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.894	6.900	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	12.997	7.065	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.759	6.765	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.094	7.224	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.912	6.927	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.708	6.694	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.072	7.188	1	
+Hospital Fadan Kagoma	Jema'A	Kaduna	9.500	8.173	0	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.225	8.446	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.203	8.499	1	
+Katsinawa Dispensary	Itas/Gadau	Bauchi	11.801	10.169	0	
+Sabon Kafi Dispensary	Jama'Are	Bauchi	11.727	9.870	0	
+Kashuri Dispensary	Itas/Gadau	Bauchi	11.793	10.211	0	
+Garin Kauli Dispensary	Katagum	Bauchi	11.761	10.202	0	
+Karabarwa Maternity Health Center	Shira	Bauchi	11.582	9.920	0	Katabuwa Dispensary
+Katsalle Health Clinic	Katagum	Bauchi	11.668	10.180	0	
+Kujuru Dispensary	Katagum	Bauchi	11.669	10.148	0	Kazunu Dispensary
+Kamaku Dispensary	Jama'Are	Bauchi	11.540	9.916	0	
+Ruwan Kanki Dispensary	Ningi	Bauchi	11.279	9.466	0	
+Kawawa Dispensary	Ningi	Bauchi	11.018	8.891	0	Unguwar Kanawa Dispensary
+Kajala Dispensary	Ningi	Bauchi	10.899	9.104	0	Limi Dispensary
+Mararraban/L Katagum Health Clinic	Bauchi	Bauchi	10.104	9.665	0	
+Bundilin Kasa Health Facility	Dass	Bauchi	9.972	9.605	0	
+Liman Katagum Town Dispensary	Bauchi	Bauchi	10.014	9.774	0	
+Kagadama Dispensary	Dass	Bauchi	10.032	9.552	0	
+Kadage Dispensary	Toro	Bauchi	10.214	9.046	0	
+Kardam Dispensary	Tafawa-Balewa	Bauchi	9.833	9.382	0	Ungwa Wakili
+Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	8.828	7.569	1	
+El Kanemi Street	Municipal Area Council	FCT Abuja	9.095	7.405	1	
+Azare - Katagum Road	Zaki	Bauchi	11.990	10.218	1	
+Josephine Ndubuisi Kanu Street	Eti Osa	Lagos	6.449	3.585	1	
+Bamidele Kasali street	Alimosho	Lagos	6.553	3.239	1	
+Shehu Kangiwa Road	Chanchaga	Niger	9.597	6.549	1	
+Shehu Kangiwa Road	Chanchaga	Niger	9.604	6.556	1	
+Kamal Shasi Street	Eti Osa	Lagos	6.452	3.520	1	
+Fatai Kaffo Street	Eti Osa	Lagos	6.441	3.515	1	
+Prince Kazeem Eletu Way	Eti Osa	Lagos	6.443	3.510	1	
+Kankiwa Road	Sokoto North	Sokoto	13.062	5.216	1	
+Abuja-Kaduna Highway	Kagarko	Kaduna	9.484	7.381	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.733	11.913	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.738	11.944	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.676	11.363	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.679	11.334	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.664	11.504	1	
+Kano-Maiduguri Highway	Giade	Bauchi	11.371	10.250	1	
+Kafachan Close	Municipal Area Council	FCT Abuja	9.035	7.479	1	
+Kalu Ezera Street	Owerri Municipal	Imo	5.487	7.040	1	
+Kasin	Chibok	Borno	10.835	13.000	1	
+Keffi to Kachia Road	Kokona	Nasarawa	8.912	7.886	1	
+Keffi to Kachia Road	Karu	Nasarawa	9.155	7.950	1	
+Kachia Road	Chikun	Kaduna	10.452	7.577	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.685	11.620	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.664	11.505	1	
+TUMU KASHERE ROAD	Akko	Gombe	10.066	11.059	1	
+Kaduna Airport	Igabi	Kaduna	10.687	7.306	0	
+Kasali Babalola Street	Ede North	Osun	7.758	4.531	1	
+Kafaru Eletu Crescent	Ibeju Lekki	Lagos	6.474	3.698	1	
+Kaduna Street	Umuahia North	Abia	5.536	7.498	1	
+Karimu Street	Oshodi/Isolo	Lagos	6.532	3.325	1	
+Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	8.951	7.550	1	
+Kaiama - okpokuma route	Kolokuma/Opokuma	Bayelsa	5.071	6.290	1	
+HRM. King Ebenezer Akakuro Kagbo Road	Yenegoa	Bayelsa	4.870	6.208	1	
+Kano University of Science and Technology	Wudil	Kano	11.806	8.850	0	
+Keffi to Kachia Road	Kachia	Kaduna	9.741	7.966	1	
+KASUWAN MATA ROAD	Gombe	Gombe	10.303	11.165	1	
+Karonwi Street	Ifako/Ijaye	Lagos	6.654	3.305	1	
+Gwarzo to Kano Road	Tofa	Kano	11.963	8.409	1	
+Gwarzo to Kano Road	Ungongo	Kano	11.960	8.417	1	
+Alhaji Kalejaiye Street	Shomolu	Lagos	6.529	3.377	1	
+Alhaji Ola Kazeem Avenue	Alimosho	Lagos	6.585	3.276	1	
+Kashim Ibrahim University	Konduga	Borno	11.838	12.997	0	
+Hassan Usman Katsina Polytechnic	Batagarawa	Katsina	12.920	7.589	0	
+Karimu St	Mushin	Lagos	6.534	3.364	1	
+Ralph J. Karieren Crescent	Eti Osa	Lagos	6.461	3.585	1	
+Mutiatu Kayode Street	Oshodi/Isolo	Lagos	6.562	3.327	1	
+Kazeem Street	Alimosho	Lagos	6.524	3.217	1	
+Gbolahan Karumi Street	Ifo	Ogun	6.681	3.319	1	
+Kayode Oduba Street	Eti Osa	Lagos	6.478	3.578	1	
+Karimu Street	Alimosho	Lagos	6.677	3.268	1	
+Kayode Arapatile Street	Ìkòròdú	Lagos	6.622	3.495	1	
+Ahmed Kasumu Street	Eti Osa	Lagos	6.441	3.521	1	
+Kayode Abioye Close	Ìkòròdú	Lagos	6.626	3.478	1	
+Kayode Begun Street	Ìkòròdú	Lagos	6.630	3.478	1	
+Kasagula - Dalwa East	Konduga	Borno	11.718	13.368	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.735	12.181	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.730	12.148	1	
+Kano-Maiduguri Highway	Kaga	Borno	11.807	12.485	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.828	12.704	1	
+Kano-Maiduguri Highway	Kaga	Borno	11.828	12.645	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.849	12.883	1	
+Kara Market	Mariga	Niger	10.136	6.018	0	
+Akeem Kassim Street	Oshodi/Isolo	Lagos	6.490	3.292	1	
+Kasim Ajanaku	Ìkòròdú	Lagos	6.636	3.482	1	
+Kayode street	Ìkòròdú	Lagos	6.595	3.509	1	
+Kai Road	Eti Osa	Lagos	6.458	3.450	1	
+College of Basic and Remedial Studies, Kaduna State University	Kaduna North	Kaduna	10.506	7.434	0	
+Abuja-Kaduna Highway	Kachia	Kaduna	9.776	7.446	1	
+Abdul Kareem Adisa Close	Municipal Area Council	FCT Abuja	8.997	7.511	1	
+Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	8.914	7.563	1	
+Kano-Maiduguri Highway	Warawa	Kano	11.850	8.717	1	
+Kajola Street	Alimosho	Lagos	6.665	3.259	1	
+Kasumu Street	Kosofe	Lagos	6.614	3.375	1	
+Karimu Kotun Street	Eti Osa	Lagos	6.426	3.426	1	
+Kakeyeyi	Zaria	Kaduna	11.113	7.759	2	
+Kachia Road	Kaduna South	Kaduna	10.456	7.424	1	
+Azare - Katagum Road	Katagum	Bauchi	11.690	10.187	1	
+Kankara Road	Bakori	Katsina	11.817	7.325	1	
+Kagoro Close	Chikun	Kaduna	10.461	7.441	1	
+Kariende Street	Uvwie	Delta	5.538	5.768	1	
+Katsina Road	Kaduna North	Kaduna	10.512	7.423	1	
+Kakaki Road	Kaduna North	Kaduna	10.530	7.468	1	
+Karaye Road	Kaduna North	Kaduna	10.567	7.454	1	
+Isa Kaita Road	Kaduna North	Kaduna	10.546	7.448	1	
+Kashim Ibrahim Road	Kaduna North	Kaduna	10.534	7.452	1	
+Kamsalem Road	Kaduna North	Kaduna	10.558	7.457	1	
+Aminu Kano Road	Kaduna North	Kaduna	10.579	7.430	1	
+Omagbemi G. Kakayor Street	Warri South	Delta	5.529	5.715	1	
+Kaduna Airport Link Road	Igabi	Kaduna	10.648	7.347	1	
+Aminu Road	Sabon Gari	Kaduna	11.107	7.726	1	Kaduna Road
+Kaiama-opokuma route ext	Kolokuma/Opokuma	Bayelsa	5.036	6.251	1	
+Kano Road	Bauchi	Bauchi	10.311	9.818	1	
+Trans Kalabari Road	Port-Harcourt	Rivers	4.782	6.966	1	
+Farouq Kabeer Street	Dala	Kano	11.995	8.502	1	
+Kamalu Close	Obio/Akpor	Rivers	4.868	6.967	1	
+Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	8.871	7.587	1	
+Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	8.853	7.583	1	
+Kano-Gumel Road	Nassarawa	Kano	12.011	8.598	1	
+Kano-Gumel Road	Garki	Jigawa	12.353	9.158	1	
+Kaba  Road	Kumbotso	Kano	11.890	8.503	1	
+Aminu Kano Way	Dala	Kano	12.005	8.495	1	
+Kajola Road	Ado Odo/Ota	Ogun	6.661	3.100	1	
+Oba Kayode Akinyemi Way	Amuwo Odofin	Lagos	6.476	3.317	1	
+Kano-Maiduguri Highway	Gwaram	Jigawa	11.333	9.764	1	
+Kano-Maiduguri Highway	Gwaram	Jigawa	11.347	9.685	1	
+Kajola Road	Ifako/Ijaye	Lagos	6.655	3.343	1	
+Kashimawo Adekunle Street	Eti Osa	Lagos	6.495	3.598	1	
+Old Karu Road	Municipal Area Council	FCT Abuja	9.010	7.574	1	
+Kano-Maiduguri Highway	Maiduguri	Borno	11.835	13.094	1	
+Mal. Kamaludeen Alkali Street	Ungongo	Kano	11.975	8.446	1	
+Kaiama Road	Ilorin West	Kwara	8.512	4.515	1	
+Kalambaina Road	Wamako	Sokoto	13.036	5.199	1	
+Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	9.014	7.574	1	
+Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	9.018	7.573	1	
+Old Karu Road	Municipal Area Council	FCT Abuja	9.008	7.581	1	
+Dikwa - Kauwa Road	Kukawa	Borno	12.946	13.672	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.841	12.769	1	
+Kampala Close	Municipal Area Council	FCT Abuja	9.066	7.473	1	
+Markus Kangye Boulevard	Municipal Area Council	FCT Abuja	9.004	7.465	1	
+Kashim Ibrahim Road	Ibadan North	Oyo	7.452	3.894	1	
+Layin Gidan Kashi	Kumbotso	Kano	11.953	8.478	1	
+Gaa-Kanbi Rd, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.466	4.575	1	
+Kalabari Close	Eti Osa	Lagos	6.440	3.445	1	
+Rahama to Kafin Mayaki Road	Lere	Kaduna	10.441	8.655	1	
+Kachia Road	Kachia	Kaduna	9.864	7.958	1	
+Kachia Road	Kachia	Kaduna	9.858	7.968	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.852	7.972	1	
+Kayode Street	Mushin	Lagos	6.533	3.366	1	
+Kabo Link	Nassarawa	Kano	11.992	8.569	1	
+Hassan Usman Katsina Street	Municipal Area Council	FCT Abuja	9.031	7.517	1	
+Katampe Road	Municipal Area Council	FCT Abuja	9.087	7.439	1	
+Karkasara Road	Tarauni	Kano	11.943	8.560	1	
+Kashim Ibrahim College	Maiduguri	Borno	11.843	13.120	0	
+Keffi to Kachia Road	Kachia	Kaduna	9.801	7.968	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.839	7.968	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.828	7.968	1	
+Keffi to Kachia Road	Jaba	Kaduna	9.345	8.032	1	
+Keffi to Kachia Road	Jema'A	Kaduna	9.323	8.033	1	
+Keffi to Kachia Road	Jaba	Kaduna	9.369	8.030	1	
+Keffi to Kachia Road	Jema'A	Kaduna	9.287	8.046	1	
+Keffi to Kachia Road	Kachia	Kaduna	9.673	7.954	1	
+Karkasara Road	Tarauni	Kano	11.960	8.546	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.970	7.017	1	
+Kaura Namoda - Jibiya Road	Zurmi	Zamfara	12.983	7.039	1	
+Dutsin Ma - Kankiya Road	Kankia	Katsina	12.543	7.822	1	
+Dutsin Ma - Kankiya Road	Kankia	Katsina	12.549	7.829	1	
+Kano-Zaria Highway	Tarauni	Kano	11.966	8.552	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.036	7.140	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.023	7.126	1	
+Umar bin Kathab road	Tarauni	Kano	11.977	8.543	1	
+Kaura Namoda - Jibiya Road	Jibia	Katsina	13.107	7.266	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.555	7.487	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.473	7.488	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.445	7.481	1	
+Malumfashi - Katsina Road	Dan Musa	Katsina	12.200	7.474	1	
+Malumfashi - Katsina Road	Dan Musa	Katsina	12.183	7.482	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.299	7.463	1	
+Malumfashi - Katsina Road	Dan Musa	Katsina	12.217	7.473	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.386	7.446	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.362	7.462	1	
+TUMU KASHERE ROAD	Akko	Gombe	10.112	11.108	1	
+Katsina Eye Clinic	Muhammadu Dikko Stadium	Katsina	12.995	7.595	0	
+Umar Musa Yaraddua University, Katsina	Batagarawa	Katsina	12.878	7.587	0	
+Keffi to Kachia Road	Karu	Nasarawa	9.050	7.928	1	
+Keffi to Kachia Road	Karu	Nasarawa	8.974	7.895	1	
+Keffi to Kachia Road	Kokona	Nasarawa	8.900	7.884	1	
+Keffi to Kachia Road	Kokona	Nasarawa	8.892	7.880	1	
+Central Market, Katsina	Muhammadu Dikko Stadium	Katsina	12.970	7.603	0	
+Kano-Maiduguri Highway	Misau	Bauchi	11.313	10.458	1	
+Kano-Maiduguri Highway	Misau	Bauchi	11.292	10.499	1	
+Kano-Maiduguri Highway	Warawa	Kano	11.817	8.801	1	
+Katako road	Jos North	Plateau	9.954	8.878	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.408	10.013	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.425	9.987	1	
+Kalabari National College	Asari-Toru	Rivers	4.741	6.858	0	
+Kakadenri Dispensary	Yunusari	Yobe	13.081	11.513	0	
+Kadawa Primary School	Nguru	Yobe	12.878	10.467	0	
+Kai Road	Eti Osa	Lagos	6.454	3.451	1	
+Government Secondary School Fadan Kagoma	Jema'A	Kaduna	9.486	8.163	0	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.691	11.053	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.673	11.047	1	
+Kabusa Gardens Estate	Municipal Area Council	FCT Abuja	8.963	7.435	2	
+Karage Filling Station	Ejigbo	Osun	7.907	4.315	0	
+Kajimaranm Dispensary	Yusufari	Yobe	13.195	10.560	0	
+Kafiya Dispensary	Yunusari	Yobe	13.073	11.673	0	
+Kara Market	Ifo	Ogun	6.646	3.381	0	
+Kadan Close	Municipal Area Council	FCT Abuja	9.043	7.507	1	
+Kaduna Airport Link Road	Igabi	Kaduna	10.691	7.331	1	
+Kayrem	Ìkòròdú	Lagos	6.663	3.636	0	
+Kaz Oil	Ibeju Lekki	Lagos	6.473	3.731	0	
+Karfi Primary Health Centre	Kura	Kano	11.825	8.497	0	
+Kadawa Gate Primary Health Centre	Garum Mallam	Kano	11.644	8.412	0	
+Kauye Alu Primary Health Centre	Tarauni	Kano	11.960	8.572	0	
+Kawaji Health Post	Nassarawa	Kano	12.010	8.577	0	
+Kadamu Primary Health Centre	Shanono	Kano	12.178	7.984	0	
+Kafin Hardo Dispensary	Giade	Bauchi	11.425	10.188	0	
+Kargo Dispensary	Shira	Bauchi	11.488	10.153	0	
+Kanya Dispensary	Darazo	Bauchi	11.068	10.355	0	
+Kari Health Center	Darazo	Bauchi	11.241	10.553	0	
+Kano - Katsina	Charanchi	Katsina	12.697	7.721	1	
+Kano - Katsina	Rimi	Katsina	12.815	7.688	1	
+Dunkwui Kasuwa Primary Health Center	Misau	Bauchi	11.336	10.537	0	
+K/Kanawa Maternity	Warji	Bauchi	11.224	9.789	0	
+Kafin Lemo Health Clinic	Sumaila	Kano	11.269	9.028	0	
+Kalajanga Dispensary Clinic	Kirfi	Bauchi	10.328	10.636	0	
+Kadolli Dispensary	Kirfi	Bauchi	10.307	10.738	0	
+Kaloma Maternity	Kirfi	Bauchi	10.290	10.434	0	
+Kurwala Kamfani Dispensary	Bauchi	Bauchi	10.249	10.204	0	
+Kangyare Primary Health Center	Bauchi	Bauchi	10.261	9.997	0	
+Kadage Dispensary	Bauchi	Bauchi	10.161	9.691	0	
+Maternity Clinic Kusu Yalwan Kagadama	Bauchi	Bauchi	10.266	9.793	0	
+PHC pobawure, kalmai	Billiri	Gombe	9.933	11.120	0	
+Kafin Romi Dispensary	Gamawa	Bauchi	12.054	10.506	0	
+Kadi Kadi Dispensary	Gamawa	Bauchi	12.284	10.553	0	
+General Hospital Katagum	Zaki	Bauchi	12.288	10.344	0	
+Katagum Town Maternity	Zaki	Bauchi	12.286	10.356	0	
+Kaduna Polytechnic	Kaduna North	Kaduna	10.521	7.444	0	
+Sabon Kariya Maternity	Ganjuwa	Bauchi	10.875	9.752	0	
+Kafin Madaki Maternity	Ganjuwa	Bauchi	10.687	9.756	0	
+Sauna Kawaji Health Post	Nassarawa	Kano	12.019	8.600	0	
+Dikwa - Kauwa Road	Marte	Borno	12.388	13.801	1	
+Dikwa - Kauwa Road	Dikwa	Borno	12.056	13.922	1	
+Guri kasuwa health post	Demsa	Adamawa	9.233	11.805	0	
+Kashimri Health Clinic	Konduga	Borno	11.591	13.579	0	
+Kawuri Health Clinic	Konduga	Borno	11.576	13.533	0	
+Kakam Yali Maternal Child Hospital	Konduga	Borno	11.653	13.415	0	
+kali heath	Jada	Adamawa	8.570	12.433	0	
+Kariuari Dispensary	Tarmua	Yobe	12.382	11.632	0	
+Kanama Primary Health Care	Maïné Soroa	Yobe	13.099	12.105	0	
+Dingle Kasa Health Post	Demsa	Adamawa	9.265	11.855	0	
+Kajimaranm Dispensary	Yusufari	Yobe	13.194	10.559	0	
+Tulotulo Kaska Health Post	Yusufari	Yobe	13.280	10.910	0	
+Karlahi Maternity And Child Health	Fufore	Adamawa	8.842	12.572	0	
+kapule heath post	Hong	Adamawa	10.132	13.108	0	
+Jauro Sardauna Kabillo Primary Health Care Center	Fufore	Adamawa	9.031	12.209	0	
+Kabilo Vichel Health Post Kabilo Vichel	Fufore	Adamawa	9.031	12.216	0	
+Kadarbu Primary Health Clinic	Fufore	Adamawa	9.511	12.702	0	
+Kadawati A Garba Dispensary	Fune	Yobe	11.855	11.123	0	
+Kayere Maternal and Child Health Care	Fune	Yobe	12.018	11.127	0	
+Karabli Health Post	Guyuk	Adamawa	9.711	11.877	0	
+Yaro Karekare Health Post	Nangere	Yobe	11.681	10.939	0	
+Buzu Karekare Health Post	Nangere	Yobe	11.797	11.030	0	
+Katsira Health Clinic	Nangere	Yobe	11.817	11.011	0	
+Garin Kadai Dispensary	Nangere	Yobe	11.924	10.864	0	
+Kael Dispensary	Nangere	Yobe	11.795	11.127	0	
+General Hospital Kangiwa	Arewa Dandi	Kebbi	12.549	3.824	0	
+General Hospital Kamba	Dandi	Kebbi	11.851	3.663	0	
+PHC Ka'oje	Bagudo	Kebbi	11.187	4.122	0	
+Markus Kangye Boulevard	Municipal Area Council	FCT Abuja	9.000	7.463	1	
+KASUWAR MATA	Gombe	Gombe	10.301	11.170	0	
+Dr. Masud Kazaure Street	Gwale	Kano	11.979	8.472	1	
+Link 8 Kaabul Abas Sunusi Street	Gwale	Kano	11.974	8.475	1	
+Primary Health Care Karshi	Municipal Area Council	FCT Abuja	8.829	7.573	0	
+Imam Kabir Street	Ungongo	Kano	11.977	8.447	1	
+Salisu Kabo Street	Ungongo	Kano	11.976	8.447	1	
+Kainji Air Base	Borgu	Niger	9.897	4.496	0	
+Kaiama Road	Asa	Kwara	8.540	4.477	1	
+Kajola Station	Ifo	Ogun	6.814	3.232	0	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.696	11.139	1	
+Kamal-Deen St	Ilorin East	Kwara	8.503	4.535	1	
+Nyanya-Karshi Road	Municipal Area Council	FCT Abuja	8.987	7.566	1	
+Kakaki Street	Obafemi Owode	Ogun	6.695	3.421	1	
+Isa Kaita Road	Kaduna North	Kaduna	10.548	7.463	1	
+Karshi General Hospital	Municipal Area Council	FCT Abuja	8.825	7.571	0	
+Karshi Development Town Hall	Municipal Area Council	FCT Abuja	8.828	7.567	0	
+Kambili Close	Enugu South	Enugu	6.414	7.518	1	
+Kayle Bagah Post	Akko	Gombe	9.996	11.157	0	
+Ojo-Kadiri Street	Eti Osa	Lagos	6.473	3.615	1	
+Kabusa Community Secondary School	Municipal Area Council	FCT Abuja	8.949	7.440	0	
+Kanti Sauki	Jos South	Plateau	9.855	8.862	0	
+federal polytechnic kaltungo,	Shongom	Gombe	9.827	11.288	0	
+UBE Kalaring	Kaltungo	Gombe	9.811	11.309	0	
+Isa Kaita Road	Kaduna North	Kaduna	10.547	7.466	1	
+Katampe Road	Municipal Area Council	FCT Abuja	9.103	7.448	1	
+Katampe Road	Municipal Area Council	FCT Abuja	9.117	7.455	1	
+KASU Sick Bay	Kaduna North	Kaduna	10.519	7.450	0	
+Kaura Modern Market	Municipal Area Council	FCT Abuja	9.006	7.456	0	
+Katampe Road	Municipal Area Council	FCT Abuja	9.117	7.455	1	
+Kachia Road	Chikun	Kaduna	10.470	7.649	1	
+Kachia Road	Chikun	Kaduna	10.418	7.673	1	
+Kaura Namoda Street	Municipal Area Council	FCT Abuja	9.027	7.475	1	
+Kaduwa II	Jere	Borno	11.789	13.134	1	
+Katangua Bus Stop	Alimosho	Lagos	6.642	3.305	0	
+Chief Kabiru Ogunleye Street	Eti Osa	Lagos	6.450	3.612	1	
+Kabiko CLose	Chikun	Kaduna	10.449	7.502	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.727	11.872	1	
+Almannar Academy Kado	Municipal Area Council	FCT Abuja	9.083	7.413	0	
+Aaron B Katari Close	Chikun	Kaduna	10.464	7.439	1	
+AIR FORCE INSTITUTE OF TECHNOLOGY (AFIT), Kaduna	Kaduna North	Kaduna	10.613	7.462	0	
+Kano-Gumel Road	Gezawa	Kano	12.027	8.693	1	
+Kano-Maiduguri Highway	Warawa	Kano	11.814	8.814	1	
+Oba Kabiru Agbabiaka Ave	Oshodi/Isolo	Lagos	6.506	3.305	1	
+Kashim Ibrahim University Teaching Hospital	Konduga	Borno	11.856	12.988	0	
+Kasuwan Shanu	Maiduguri	Borno	11.860	13.178	0	
+Kajola Ibooro Road	Ado Odo/Ota	Ogun	6.689	3.057	1	
+Razak Kawaliu Ogunsemo Street	Eti Osa	Lagos	6.474	3.563	1	
+Kayode I Micah Street	Eti Osa	Lagos	6.448	3.606	1	
+Kano-Gumel Road	Gezawa	Kano	12.099	8.759	1	
+Kano-Gumel Road	Gezawa	Kano	12.076	8.743	1	
+Katsina State Institute of Technology and Management	Batagarawa	Katsina	12.954	7.628	0	
+Kautikari Primary Health Center	Chibok	Borno	10.819	12.984	0	
+Karare 2 Health Center	Rimi	Katsina	12.994	7.769	0	
+Kayalwa Primary School	Muhammadu Dikko Stadium	Katsina	12.995	7.609	0	
+Kawaji PHC, Kwanar Kotu, Kano	Nassarawa	Kano	12.010	8.578	0	
+Asbitin Murtala, Wambai Kano	Kano Municipal	Kano	12.000	8.521	0	
+Kwari Market, Kano	Fagge	Kano	12.003	8.530	0	
+Sabon gari market Kano	Fagge	Kano	12.011	8.539	0	
+Paediatric Hospital Zoo Road Kano	Tarauni	Kano	11.970	8.534	0	
+Alhaji Jimoh Kareem Close	Eti Osa	Lagos	6.471	3.619	1	
+Kollere Kafaje	Fune	Yobe	11.918	11.252	2	
+Kafiya	Yunusari	Yobe	13.029	11.687	2	
+Katuzu	Barde	Yobe	12.855	11.021	2	
+Karasuwa Galu	Karasuwa	Yobe	12.952	10.610	2	
+Kaliyari	Borsari	Yobe	12.925	11.437	2	
+Jawur Katamma	Jakusko	Yobe	12.713	10.989	2	
+Kayeri	Fune	Yobe	12.030	11.112	2	
+Sasawa Kabaru	Ngelzarma	Yobe	11.824	11.987	2	
+Karauswa Garu Guna	Karasuwa	Yobe	13.111	10.845	2	
+Kanuri	Nguru	Yobe	12.885	10.474	2	
+Karasuwa	Karasuwa	Yobe	13.000	10.672	2	
+Kawaya	Buji	Jigawa	11.587	9.760	2	
+Kachi	Dutse	Jigawa	11.712	9.354	2	
+Kanwa	Jahun	Jigawa	11.956	9.456	2	
+Kantoga	Birnin Kudu	Jigawa	11.484	9.364	2	
+Karanga	Biriniwa	Jigawa	12.793	9.843	2	
+Kaugama	Kaugama	Jigawa	12.458	9.739	2	
+Kasuwar Kofa	Hadejia	Jigawa	12.448	10.042	2	
+Kargo	Garki	Jigawa	12.493	9.125	2	
+Kafur	Auyo	Jigawa	12.406	10.033	2	
+Karkarna	Yankwashi	Jigawa	12.769	8.516	2	
+Kale	Jahun	Jigawa	12.081	9.360	2	
+Kanti	Kazaure	Jigawa	12.626	8.421	2	
+Kafin Hausa	Kafin Hausa	Jigawa	12.196	9.925	2	
+Kasuwar Kuda	Hadejia	Jigawa	12.442	10.048	2	
+Kazura	Biriniwa	Jigawa	12.707	10.003	2	
+Kanya	Garki	Jigawa	12.377	8.934	2	
+Kafin Babushe	Ringim	Jigawa	12.269	8.995	2	
+Kiri Kasamma	Kiri Kasama	Jigawa	12.684	10.241	2	
+Katanga	Kiyawa	Jigawa	11.682	9.479	2	
+Katuka	Kiyawa	Jigawa	11.824	9.556	2	
+Kanya	Babura	Jigawa	12.462	8.845	2	
+Karnaya	Dutse	Jigawa	11.834	9.345	2	
+Kangire	Birnin Kudu	Jigawa	11.527	9.475	2	
+Kaugama	Kaugama	Jigawa	12.551	9.759	2	
+Kachallari	Biriniwa	Jigawa	12.691	9.861	2	
+Kagara	Kaura Namoda	Zamfara	12.369	6.675	2	
+Kayaye	Talata Mafara	Zamfara	12.593	6.107	2	
+Kaya	Maradun	Zamfara	12.834	6.327	2	
+Kanoma	Maru	Zamfara	12.172	6.250	2	
+Kanwa	Zurmi	Zamfara	12.726	6.617	2	
+Kagara	Talata Mafara	Zamfara	12.302	6.091	2	
+Gada Karakai	Bungudu	Zamfara	12.250	6.474	2	
+Kaura Namoda	Kaura Namoda	Zamfara	12.477	6.572	2	
+Dosara Birnin Kaya	Maradun	Zamfara	12.502	6.255	2	
+Kabanga	Kware	Sokoto	13.014	5.446	2	
+Kagara	Goronyo	Sokoto	13.368	5.640	2	
+Kalmalo	Illela	Sokoto	13.686	5.216	2	
+Kadadi	Gada	Sokoto	13.818	5.503	2	
+Kaffe	Gada	Sokoto	13.679	5.722	2	
+Gidan Kaya	Gwadabawa	Sokoto	13.267	5.336	2	
+Kalgo	Sabon Birni	Sokoto	13.381	6.304	2	
+Gidan Katta	Illela	Sokoto	13.643	5.288	2	
+Jabo-Kagara	Tambuwal	Sokoto	12.410	5.038	2	
+Karfe Sarki	Gudu	Sokoto	13.337	4.513	2	
+Kaddi	Gada	Sokoto	13.607	5.711	2	
+Gidan Kare	Tureta	Sokoto	12.581	5.639	2	
+Kammata	Wamako	Sokoto	12.974	5.050	2	
+Kajiji	Shagari	Sokoto	12.538	4.948	2	
+Kadassaka	Gada	Sokoto	13.684	5.558	2	
+Karfe Chana	Gudu	Sokoto	13.266	4.600	2	
+Katuru	Shinkafi	Zamfara	13.128	6.338	2	
+Kaura	Wamako	Sokoto	13.094	5.101	2	
+Kambama	Shagari	Sokoto	12.503	5.235	2	
+Kaura Miyo	Bodinga	Sokoto	12.808	5.180	2	
+Kalanjeni	Tangaza	Sokoto	13.271	5.048	2	
+Katami South	Silame	Sokoto	12.904	4.740	2	
+Katami North	Silame	Sokoto	12.968	4.713	2	
+Kashin Zama	Aleiro	Kebbi	12.377	4.478	2	
+Kamba-Kamba	Dandi	Kebbi	11.896	3.662	2	
+Kawara	Shanga	Kebbi	11.051	4.497	2	
+Kangi	Fakai	Kebbi	11.566	4.637	2	
+Katanga Fagada	Jega	Kebbi	12.084	4.433	2	
+Karaye	Maiyama	Kebbi	11.980	4.308	2	
+Kanya	Wasagu-Danko	Kebbi	11.294	5.664	2	
+Kambuwa	Ngaski	Kebbi	10.921	4.977	2	
+Kalgo	Kalgo	Kebbi	12.353	4.180	2	
+Kardi	Birnin Kebbi	Kebbi	12.388	4.241	2	
+Kawara	Maiyama	Kebbi	11.961	4.272	2	
+Kangiwa	Arewa Dandi	Kebbi	12.531	3.730	2	
+Kalgo	Kalgo	Kebbi	12.390	4.043	2	
+Kambaza	Gwandu	Kebbi	12.455	4.554	2	
+Kaoje Gwamba	Bagudo	Kebbi	11.201	4.005	2	
+Kyabu Kandu	Wasagu-Danko	Kebbi	11.630	5.363	2	
+Kachia	Kachia	Kaduna	9.894	7.915	2	
+Kareh	Kubau	Kaduna	10.748	8.369	2	
+Kajuru	Kajuru	Kaduna	10.332	7.680	2	
+Kauran Wali North	Kudan	Kaduna	11.329	7.824	2	
+Katugal	Kagarko	Kaduna	9.452	7.870	2	
+Gure Kahugu	Lere	Kaduna	10.312	8.399	2	
+Kaura	Zaria	Kaduna	11.047	7.708	2	
+Kargi	Kubau	Kaduna	11.090	8.384	2	
+Kauru East	Kauru	Kaduna	10.591	8.217	2	
+Kagarko South	Kagarko	Kaduna	9.494	7.621	2	
+Kagarko North	Kagarko	Kaduna	9.539	7.716	2	
+Kamantan	Zangon Kataf	Kaduna	9.773	8.124	2	
+Kafanchan B	Jema'A	Kaduna	9.592	8.292	2	
+Kasuwan Magani	Kajuru	Kaduna	10.381	7.719	2	
+Kakangi	Birnin Gwari	Kaduna	10.789	6.233	2	
+Kakuri Gwari	Kaduna South	Kaduna	10.455	7.408	2	
+Kaninkon	Jema'A	Kaduna	9.512	8.310	2	
+Kallah	Kajuru	Kaduna	10.440	7.900	2	
+Kakangi	Giwa	Kaduna	11.196	7.464	2	
+Kadarko	Kaura	Kaduna	9.649	8.436	2	
+Katari	Kachia	Kaduna	9.694	7.451	2	
+Kauru West	Kauru	Kaduna	10.543	8.125	2	
+Kajuru	Kajuru	Kaduna	10.255	7.771	2	
+Kauran Wali South	Kudan	Kaduna	11.299	7.838	2	
+Kafanchan A	Jema'A	Kaduna	9.582	8.290	2	
+Kaura	Kaura	Kaduna	9.664	8.481	2	
+Kakau	Chikun	Kaduna	10.339	7.432	2	
+Karshi	Sanga	Kaduna	9.419	8.506	2	
+Zangon Kataf	Zangon Kataf	Kaduna	9.897	8.258	2	
+Kaura	Kaura	Kaduna	9.642	8.452	2	
+Kagoma	Jema'A	Kaduna	9.495	8.172	2	
+Kazaure	Kazaure	Jigawa	12.665	8.435	2	
+Kayarda	Lere	Kaduna	10.537	8.601	2	
+Karo	Ungongo	Kano	12.114	8.539	2	
+Karfi	Takai	Kano	11.447	9.154	2	
+Karshi	Ringim	Jigawa	12.265	8.944	2	
+Kanawa	Sumaila	Kano	11.396	9.035	2	
+Kafin Agur	Madobi	Kano	11.874	8.369	2	
+Kawaji	Nassarawa	Kano	12.011	8.573	2	
+Kahu	Kibiya	Kano	11.461	8.666	2	
+Yalwa Karama	Tofa	Kano	12.073	8.344	2	
+Tudun Kaya	Karaye	Kano	11.698	7.905	2	
+Katumari	Garko	Kano	11.552	8.994	2	
+Unguwa Uku Kauyen Alu	Tarauni	Kano	11.956	8.574	2	
+Karefa	Tudun Wada	Kano	11.347	8.444	2	
+Kadan Dani	Makoda	Kano	12.559	8.486	2	
+Kachako	Takai	Kano	11.535	9.294	2	
+Kausani	Wudil	Kano	11.817	8.878	2	
+Kafin Dabga	Karaye	Kano	11.814	8.125	2	
+Karofin Yashi	Rimin Gado	Kano	11.895	8.367	2	
+Kara	Gwarzo	Kano	11.853	7.936	2	
+Kasuwar Kuka	Kunchi	Kano	12.390	8.346	2	
+Kazurawa	Gaya	Kano	11.727	9.050	2	
+Kadigawa	Kibiya	Kano	11.564	8.745	2	
+Kafin Malamai	Garko	Kano	11.690	8.854	2	
+Dabin-Kanawa	Ajingi	Kano	11.953	8.908	2	
+Kantama	Minjibir	Kano	12.190	8.584	2	
+Kanwa	Madobi	Kano	11.867	8.436	2	
+Kadawa	Garum Mallam	Kano	11.633	8.434	2	
+Katarkawa	Warawa	Kano	11.950	8.837	2	
+Kabo	Kabo	Kano	11.891	8.201	2	
+Kadawa	Ungongo	Kano	12.071	8.488	2	
+Kau-Kau	Bichi	Kano	12.270	8.224	2	
+Kano Municipal	Kano Municipal	Kano	11.984	8.527	2	
+Karmami	Gabasawa	Kano	12.107	8.847	2	
+Kadamu	Shanono	Kano	12.154	7.968	2	
+Kabuwaya	Dala	Kano	12.013	8.507	2	
+Kanwa	Kabo	Kano	11.835	8.152	2	
+Kabo	Kabo	Kano	11.856	8.178	2	
+Kademi	Gaya	Kano	11.761	8.931	2	
+Karaye	Karaye	Kano	11.761	7.979	2	
+Kafur	Kafur	Katsina	11.673	7.677	2	
+Kahuta B	Danja	Katsina	11.367	7.714	2	
+Kabagiwa	Tsanyawa	Kano	12.384	8.055	2	
+Kaita	Kaita	Katsina	13.116	7.747	2	
+Kandawa	Batsari	Katsina	12.932	7.311	2	
+Karau	Mashi	Katsina	13.032	8.033	2	
+Kandarawa	Bakori	Katsina	11.731	7.401	2	
+Kabomo	Bakori	Katsina	11.607	7.436	2	
+Karofi B	Dutsin Ma	Katsina	12.518	7.614	2	
+Kadandani	Rimi	Katsina	12.756	7.682	2	
+Ruwan Kaya A	Dutsi	Katsina	12.868	8.236	2	
+Kande	Zango	Katsina	12.962	8.568	2	
+Kagare	Sandamu	Katsina	12.947	8.421	2	
+Kandawa	Ingawa	Katsina	12.603	8.037	2	
+Kawarin Kudi	Zango	Katsina	12.901	8.673	2	
+Maje Karare	Rimi	Katsina	12.781	7.630	2	
+Karkarku	Sandamu	Katsina	12.997	8.359	2	
+Kaita	Kaita	Katsina	13.180	7.792	2	
+Kahuta A	Danja	Katsina	11.395	7.688	2	
+Kayauki	Batagarawa	Katsina	13.006	7.697	2	
+Kankara	Kankara	Katsina	11.972	7.361	2	
+Kakumi	Bakori	Katsina	11.807	7.340	2	
+Karofi A	Dutsin Ma	Katsina	12.492	7.572	2	
+Kayawa	Dutsi	Katsina	12.944	8.150	2	
+Ruwan Kaya B	Dutsi	Katsina	12.921	8.199	2	
+Abadau Kagara	Batsari	Katsina	12.774	7.335	2	
+Danjanku-Karachi	Musawa	Katsina	12.112	7.695	2	
+Karfi	Malumfashi	Katsina	11.725	7.493	2	
+Katsayal	Sandamu	Katsina	12.914	8.436	2	
+Karare	Batsari	Katsina	12.724	7.375	2	
+Kankara	Kankara	Katsina	11.915	7.407	2	
+Sabuwar Kasa	Kafur	Katsina	11.537	7.660	2	
+Kafin Soli	Kankia	Katsina	12.482	7.737	2	
+Kamri	Bindawa	Katsina	12.658	7.840	2	
+Kafarda	Kusada	Katsina	12.429	8.031	2	
+Karaduwa	Matazu	Katsina	12.291	7.743	2	
+Fakuwa Kafin Dangi	Kankia	Katsina	12.593	7.805	2	
+Kafur	Kafur	Katsina	11.633	7.698	2	
+Kankia	Kankia	Katsina	12.429	7.795	2	
+Kaikai	Kusada	Katsina	12.491	8.003	2	
+Kabba/Bunu	Kabba/Bunu	Kogi	8.070	6.141	2	
+Kachia	Kachia	Kaduna	9.857	7.689	2	
+Kagarko	Kagarko	Kaduna	9.490	7.574	2	
+Kaltungo	Kaltungo	Gombe	9.827	11.436	2	
+Karu	Karu	Nasarawa	8.995	7.751	2	
+Kaiama	Kaiama	Kwara	9.536	4.115	2	
+Kajola	Kajola	Oyo	8.029	3.359	2	
+Kauru	Kauru	Kaduna	10.356	8.183	2	
+Kamaru	Kauru	Kaduna	9.809	8.610	2	
+Katsina-Ala	Katsina-Ala	Benue	7.314	9.566	2	
+Kafa Mafi	Damboa	Borno	11.296	12.373	2	
+Kabulawa	Marte	Borno	12.264	13.514	2	
+Kaguram	Monguno	Borno	12.618	13.653	2	
+Kauwa	Kukawa	Borno	12.961	13.717	2	
+K Kaudi	Kala-Balge	Borno	11.932	14.553	2	
+Kasugula	Bama	Borno	11.548	13.702	2	
+Kareto	Mobbar	Borno	12.856	12.490	2	
+Kautikari	Chibok	Borno	10.843	13.034	2	
+Kaga	Kaga	Borno	11.601	12.530	2	
+Kawuri	Konduga	Borno	11.576	13.585	2	
+Kala	Kala-Balge	Borno	12.100	14.480	2	
+Kararam	Magumeri	Borno	12.179	12.790	2	
+Kardam B	Tafawa-Balewa	Bauchi	9.743	9.206	2	
+Kasuwan Kaji	Katagum	Bauchi	11.674	10.179	2	
+Kafin Kuka	Katagum	Bauchi	11.690	10.183	2	
+Kafin Madaki A	Ganjuwa	Bauchi	10.661	9.705	2	
+Kiri Kasama	Kiri Kasama	Jigawa	12.598	10.251	2	
+Katanga	Warji	Bauchi	11.178	9.775	2	
+Bakin Kasuwa	Katagum	Bauchi	11.668	10.197	2	
+Kardam A	Tafawa-Balewa	Bauchi	9.842	9.341	2	
+Kangere	Bauchi	Bauchi	10.255	10.038	2	
+Kanke	Kanke	Plateau	9.367	9.639	2	
+Katagum	Zaki	Bauchi	12.288	10.346	2	
+Kafin Sule	Misau	Bauchi	11.371	10.347	2	
+Kafin Iya	Kirfi	Bauchi	10.596	10.500	2	
+Kashuri	Itas/Gadau	Bauchi	11.826	10.304	2	
+Kafin Hausa	Kafin Hausa	Jigawa	12.164	9.987	2	
+Kardam C	Tafawa-Balewa	Bauchi	9.764	9.305	2	
+Kariya A	Ganjuwa	Bauchi	10.875	9.695	2	
+Kafin Romi	Gamawa	Bauchi	12.088	10.463	2	
+Kafin Lemo	Ningi	Bauchi	11.242	9.121	2	
+Kafin Larabawa	Zaki	Bauchi	11.914	10.327	2	
+Kanam	Kanam	Plateau	9.491	10.155	2	
+Karagawaru	Kaga	Borno	11.889	12.542	2	
+Kalizoram	Magumeri	Borno	12.193	12.299	2	
+M. Kaza	Dikwa	Borno	11.992	14.213	2	
+Kala-Balge	Kala-Balge	Borno	11.907	14.456	2	
+Katcha	Katcha	Niger	9.115	6.244	2	
+Kaura	Municipal Area Council	FCT Abuja	9.002	7.442	2	
+Katagum	Katagum	Bauchi	11.656	10.350	2	
+Katampe	Municipal Area Council	FCT Abuja	9.102	7.462	2	
+Kabala	Kaduna North	Kaduna	10.506	7.446	2	
+Kawo	Kaduna North	Kaduna	10.586	7.456	2	
+Kaduna North	Kaduna North	Kaduna	10.556	7.453	2	
+Kaduna South	Kaduna South	Kaduna	10.498	7.402	2	
+Kalambaina	Wamako	Sokoto	13.057	5.191	2	
+Kauran Mata	Madobi	Kano	11.861	8.474	2	
+Karfi	Kura	Kano	11.821	8.478	2	
+Kado	Municipal Area Council	FCT Abuja	9.090	7.428	2	

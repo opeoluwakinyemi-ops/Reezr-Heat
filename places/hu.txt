@@ -1,0 +1,100 @@
+Huchi	Wamako	Sokoto	13.054	5.074	2	
+Hulkuye	Maiyama	Kebbi	11.991	4.292	2	
+Chinchia;Hui	Baure	Katsina	12.694	8.782	2	
+Huddu	Mubi North	Adamawa	10.212	13.191	2	
+Huddu	Mubi South	Adamawa	10.073	13.244	2	
+Whitambaya	Hawul	Borno	10.393	12.252	2	Hutenbaya
+Illela Huda	Goronyo	Sokoto	13.414	5.702	2	
+Wuchi	Gwadabawa	Sokoto	13.330	5.424	2	Huchi
+Hura	Illela	Sokoto	13.758	5.357	2	
+Gidan Huri	Goronyo	Sokoto	13.478	5.577	2	
+Hubbare	Maiha	Adamawa	10.097	13.102	2	
+Humusu	Hawul	Borno	10.402	12.161	2	
+Gidan Husaini	Gusau	Zamfara	12.111	6.899	2	
+Hudussu	Arewa Dandi	Kebbi	12.922	4.120	2	
+Salma Hubbare	Song	Adamawa	10.023	13.052	2	
+Humbutidi	Maiha	Adamawa	10.123	13.149	2	Betengi;Humbutodi;Humbetode;Humbetodi;Bétengui
+Hunkui	Tangaza	Sokoto	13.383	4.926	2	
+Guidan Husaini	Gusau	Zamfara	12.124	6.901	2	
+Husa	Hong	Adamawa	10.292	13.021	2	New Migizir
+Hurda	Mubi North	Adamawa	10.329	13.236	2	
+Kuda Gangarra	Yankwashi	Jigawa	12.766	8.460	2	Hudda Gangarra
+Whiteyaukwar	Kwaya Kusar	Borno	10.432	12.030	2	Huitayankwar
+Degema Hulk	Abua/Odual	Rivers	4.760	6.750	2	
+Huda	Birnin Kebbi	Kebbi	12.395	4.306	2	
+Huyum	Askira-Uba	Borno	10.769	13.146	2	
+Huda	Goronyo	Sokoto	13.399	5.697	2	
+Angwa Hure	Gudu	Sokoto	13.473	4.162	2	
+Hura	Gwadabawa	Sokoto	13.594	5.319	2	
+Gidan Husaini	Shagari	Sokoto	12.602	5.248	2	
+Hurti	Bokkos	Plateau	9.276	8.789	2	
+Husania	Hawul	Borno	10.511	12.123	2	
+Huba	Hawul	Borno	10.402	12.114	2	
+Rugu Huru	Illela	Sokoto	13.575	5.239	2	
+Husama Health Post	Karaye	Kano	11.788	8.113	0	
+Mallam Hudu	Mobbar	Borno	13.109	12.509	2	
+Hussaineri	Nganzai	Borno	12.350	13.159	2	
+Nahuta Bulama Hussaini	Shani	Borno	10.316	11.944	2	
+Huza	Hawul	Borno	10.553	12.141	2	
+Huma B Bukar	Biu	Borno	10.708	12.186	2	
+Para Hussara	Askira-Uba	Borno	10.500	13.239	2	
+Hussara Health Clinic	Askira-Uba	Borno	10.499	13.237	0	
+Humajigam	Chibok	Borno	10.735	12.763	2	
+Darrul Hudda	Kaduna North	Kaduna	10.565	7.478	0	
+Kuwa Hu	Kukawa	Borno	12.866	13.593	2	
+Njemia Hummoye	Guzamala	Borno	12.983	12.904	2	
+Huntu	Kiru	Kano	11.518	8.157	2	
+Hungunmai	Kunchi	Kano	12.436	8.225	2	
+Makera Hurumi	Wudil	Kano	11.894	8.900	2	
+Lajawa Hurumi	Wudil	Kano	11.873	8.924	2	Lajawa
+Unguwar Reka Huguma	Takai	Kano	11.564	9.318	2	Huguma;Kogin Huguma
+Kwanar Huguma	Takai	Kano	11.541	9.321	2	
+Dagumawa Hurimi	Wudil	Kano	11.757	8.826	2	
+Achika Hurumi	Wudil	Kano	11.689	8.931	2	Acika
+Darki Hurumi	Wudil	Kano	11.661	8.921	2	Darki
+Tsakuwa Hurumi	Garko	Kano	11.530	8.789	2	
+Buda Hurumi	Garko	Kano	11.602	8.783	2	
+Hudumcha Dispensary	Gwoza	Borno	11.129	13.792	0	
+humbutuidi pbf heath facility	Maiha	Adamawa	10.123	13.159	0	
+hubare heath clinic	Maiha	Adamawa	10.091	13.100	0	
+Vintage Hubb	Municipal Area Council	FCT Abuja	9.079	7.479	0	
+Hussey College Warri	Warri South	Delta	5.523	5.749	0	
+NURUL HUDA INTERNATIONAL ACADEMY GOMBE	Gombe	Gombe	10.277	11.143	0	
+Ministry Of Health and Human Service Kaduna State Kaduna	Kaduna North	Kaduna	10.522	7.439	0	
+Huse Of Peace Specialist Clinic	Mushin	Lagos	6.531	3.341	0	
+MAKARANTAR MALAM IBRAHIM MAI YAR HULA	Ungongo	Kano	12.040	8.564	0	
+HUSNAH BEST ACADEMY	Ungongo	Kano	12.046	8.566	0	
+SHAMSUL HUDA AL ISLAMIYYA	Ungongo	Kano	12.042	8.573	0	
+AL AZHAR COLLEGE OF SCIENCE AND HUMANITIES	Gwale	Kano	11.962	8.476	0	
+Public Transport Hub	Municipal Area Council	FCT Abuja	9.047	7.500	0	
+Hughes Avenue	Lagos Mainland	Lagos	6.500	3.377	1	
+Hussey Road	Shomolu	Lagos	6.518	3.372	1	
+David Hughes Street	Ifako/Ijaye	Lagos	6.641	3.336	1	
+Alhaji Hussein Sunmonu Street	Eti Osa	Lagos	6.443	3.462	1	
+Hunpunu-Wusu Road	Eti Osa	Lagos	6.436	3.473	1	
+Hunkuyi Street	Municipal Area Council	FCT Abuja	9.043	7.507	1	
+Shotayo Hughes Street	Surulere	Lagos	6.501	3.342	1	
+Humani Close	Surulere	Lagos	6.492	3.346	1	
+Hundeyin Street	Kosofe	Lagos	6.574	3.389	1	
+Balat Hughes	Fagge	Kano	12.026	8.536	1	
+Dr. Hussain Z. Danbatta	Gwale	Kano	11.977	8.473	1	
+Humphrey Uzoigwe Street	Enugu East	Enugu	6.498	7.497	1	
+Mall. Hussaini street	Tarauni	Kano	11.978	8.561	1	
+Hudaibiyya Primary School	Kano Municipal	Kano	11.974	8.521	0	
+Hungu Health Post	Albasu	Kano	11.614	9.002	0	
+Hugungumai Health Post	Kunchi	Kano	12.436	8.222	0	
+Hussey Road	Shomolu	Lagos	6.521	3.375	1	
+Huji Rd.	Owerri Municipal	Imo	5.484	7.015	1	
+Humani Street	Agege	Lagos	6.615	3.321	1	
+Balat Hughes	Fagge	Kano	12.026	8.532	1	
+Humani Street	Agege	Lagos	6.614	3.321	1	
+Mai Hula Street	Tarauni	Kano	11.959	8.540	1	
+Humanity Hospital	Uvwie	Delta	5.546	5.783	0	
+humbutudi maternity clinic	Mubi North	Adamawa	10.176	13.173	0	
+Hussey College Warri	Warri South	Delta	5.525	5.748	0	
+Kwacce Huru	Tangaza	Sokoto	13.215	5.050	2	
+Huchi	Gwadabawa	Sokoto	13.361	5.448	2	
+Hunkuyi	Kudan	Kaduna	11.268	7.651	2	
+Hungu	Albasu	Kano	11.597	8.989	2	
+Hui	Baure	Katsina	12.722	8.721	2	
+Dille Huyim	Askira-Uba	Borno	10.831	13.177	2	

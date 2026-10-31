@@ -1,0 +1,381 @@
+Fulatari	Fune	Yobe	12.067	11.149	2	Fellatari
+Tundun-Goggo-Fulani	Gummi	Zamfara	12.110	4.982	2	
+Futuk	Alkaleri	Bauchi	9.836	10.898	3	
+Hema Fulani	Kwaya Kusar	Borno	10.434	11.950	2	Hyama
+Fusa	Jos East	Plateau	9.770	9.001	2	
+Kafin Fulani	Gwaram	Jigawa	11.350	9.733	2	Kafin Filani
+Sabongari Futu	Askira-Uba	Borno	10.689	13.248	2	
+Fulawari	Kaga	Borno	11.367	12.683	2	
+Gombi Fulani	Gombi	Adamawa	10.162	12.740	2	
+Gidan Fulani	Gada	Sokoto	13.654	5.553	2	
+Funtua	Funtua	Katsina	11.523	7.308	3	
+Dajina Fugu Kurri	Geidam	Yobe	12.850	12.348	2	Dajina Fogu Kurri
+Dutsin Fulani	Toro	Bauchi	10.421	9.467	2	
+Fulani	Silame	Sokoto	12.958	4.843	2	
+Tungan Fulani	Toro	Bauchi	10.042	8.992	2	
+Dutsen Fusam	Kiyawa	Jigawa	11.938	9.873	2	Fusam;Dutsin Fusam
+Fuchi Mukhtari	Mafa	Borno	11.749	13.595	2	
+Fufore	Fufore	Adamawa	9.221	12.650	3	
+Kaurame Funamayo	Demsa	Adamawa	9.233	12.033	2	Kaurami
+Fusami	Fika	Yobe	11.189	11.210	2	
+Kafin Fulani	Ningi	Bauchi	10.979	9.245	2	Kogin Fulani;Fulani
+Dutsen Fulani	Toro	Bauchi	10.420	9.467	2	
+Furana	Ikara	Kaduna	11.273	8.209	2	
+Tudun Fulani	Bosso	Niger	9.667	6.550	2	Tudun Filani
+Fufu	Ilorin South	Kwara	8.448	4.721	2	
+Fugu Dallari	Guzamala	Borno	12.639	13.426	2	
+Asala Fura	Jere	Borno	12.052	13.200	2	
+Furtimi	Baure	Katsina	12.701	8.709	2	Furtumi
+Fuganga	Shani	Borno	10.063	12.048	2	Pufunga
+Wuro Funa	Shani	Borno	10.072	12.062	2	Wuro Jauro Bello
+Unguwar Fulani	Bungudu	Zamfara	12.270	6.644	2	
+Fuskam;Fuskam Mata	Bassa	Plateau	10.181	8.900	2	
+Nyanga Fulani	Gusau	Zamfara	12.305	7.084	2	
+Furifuri	Bungudu	Zamfara	12.239	6.587	2	
+Nyanga Fulani	Kalgo	Kebbi	12.307	4.076	2	
+Takari Fulani	Gwandu	Kebbi	12.434	4.504	2	
+Furiya	Abadam	Borno	13.499	13.040	2	
+Kida Wakaya	Hawul	Borno	10.499	12.091	2	Kidda Fulani
+Futawa	Bagudo	Kebbi	11.391	4.265	2	
+Fulani	Bungudu	Zamfara	12.268	6.637	2	
+Tapkin Fuss	Gudu	Sokoto	13.558	4.564	2	
+Fununu	Brass	Bayelsa	4.317	6.103	2	Funumu
+Ngarbia Fulani	Gujba	Yobe	11.434	11.763	2	Ngabia Fulani
+Fumutorutu	Southern Ijaw	Bayelsa	4.476	5.968	2	
+Tilden Fulani	Toro	Bauchi	10.043	8.993	2	
+Lashana Fulani	Shani	Borno	10.079	11.904	2	Lechina
+Fuma Tasha	Hawul	Borno	10.559	12.028	2	Tasha
+Fufera-Fulani	Song	Adamawa	10.019	12.445	2	
+Fulatari	Bama	Borno	11.600	14.233	2	Fellatari
+Soka ca Futa	Barkin Ladi	Plateau	9.527	8.989	2	
+Fura Girki	Gusau	Zamfara	12.259	6.967	2	
+Sigire Fulbe	Song	Adamawa	9.933	12.617	2	Sigire
+Kardio Fulani	Gwoza	Borno	11.265	13.651	2	
+Fursum	Jos East	Plateau	9.750	9.114	2	
+Elesin Fufu	Oyun	Kwara	8.150	4.600	2	
+Fuwma	Hawul	Borno	10.529	12.268	2	Fuma
+Lagingin Fulani	Shani	Borno	10.235	12.102	2	Lagingin
+Rogan Fulani	Dandi	Kebbi	11.847	3.882	2	
+Bera Fulani	Bayo	Borno	10.531	11.613	2	
+Malum Fuhuri	Bama	Borno	11.430	13.882	2	
+Furiya	Kankara	Katsina	11.881	7.586	2	Furia
+Fulani	Toro	Bauchi	10.421	9.466	2	
+Fafan Fulani	Kirfi	Bauchi	10.368	10.599	2	
+Gidan-Fulani	Tambuwal	Sokoto	12.518	4.807	2	
+Runtu Fulani	Fakai	Kebbi	11.623	4.819	2	
+Eggon Fulani	Asa	Kwara	8.333	4.450	2	Asani;Eggon Fulani
+Fursum (1)	Jos East	Plateau	9.750	9.066	2	
+Fugumari	Chibok	Borno	10.938	12.694	2	
+Gongon Fulani	Shani	Borno	10.276	12.130	2	
+Gidan-Fulani	Kware	Sokoto	13.283	5.250	2	
+Alya Fulani	Tangaza	Sokoto	13.537	4.997	2	Alia
+Deba Fulani	Kwami	Gombe	10.425	11.382	3	
+Gidan Fulani	Illela	Sokoto	13.685	5.431	2	
+Dalijem Fulani	Binji	Sokoto	13.249	4.872	2	
+Tungan Fulani	Arewa Dandi	Kebbi	13.155	4.380	2	
+Ungwan Fulani	Soba	Kaduna	11.052	8.009	2	Filani
+Kambaza-Fulani	Gwandu	Kebbi	12.444	4.549	2	
+Fugar	Etsako Central	Edo	7.087	6.497	3	
+Duban-Fulani	Goronyo	Sokoto	13.493	5.912	2	
+AP Fuel	Kaduna North	Kaduna	10.531	7.442	0	
+AP Fuel	Kaduna South	Kaduna	10.488	7.419	0	
+Funtua	Funtua	Katsina	11.529	7.320	0	
+Echemas Fuel Station	Jos North	Plateau	9.959	8.891	0	
+Inomwan Fundation Secondary School	Oredo	Edo	6.311	5.627	0	
+F&O Fuel Station	Municipal Area Council	FCT Abuja	9.082	7.489	0	
+Fulatan Primary Health Centre	Rogo	Kano	11.401	7.859	0	
+Fulani	Ajingi	Kano	11.971	8.971	2	
+Tudun Fulani	Ungongo	Kano	12.039	8.477	2	
+Gidan Fulani	Sumaila	Kano	11.251	8.810	2	
+Yar Fulani	Tudun Wada	Kano	11.185	8.470	2	Yarfulani
+Fuskar Maaji	Tudun Wada	Kano	11.284	8.371	2	Faskar Maaji
+Kafiya Fulatari	Mobbar	Borno	13.237	12.685	2	
+Biri Fulani	Hawul	Borno	10.579	12.115	2	
+Ghumma	Hawul	Borno	10.524	12.255	3	Fuma Bura
+Fugu Ashemi	Maiduguri	Borno	11.850	13.149	2	
+Furmari	Maiduguri	Borno	11.843	13.155	2	
+Jigawa Fulani	Shani	Borno	10.217	11.932	2	
+Mbukuja Fulani	Shani	Borno	10.267	11.906	2	Bukuja Sabon Gari
+Ribado Fulani	Shani	Borno	10.309	11.899	2	
+Ari Fudomai A	Magumeri	Borno	12.187	12.841	2	
+Ari Fudomari B	Magumeri	Borno	12.188	12.841	2	
+Furi Mallumti B	Magumeri	Borno	12.170	12.999	2	
+Furi Mallumti	Magumeri	Borno	12.166	13.000	2	
+Fulatari Ardo Yura	Gubio	Borno	12.507	12.503	2	
+Fulatari Wakil Nuhu	Gubio	Borno	12.525	12.523	2	
+Furi	Magumeri	Borno	12.389	12.631	2	
+Majl furramti	Magumeri	Borno	12.413	12.566	2	
+Fulatari Bulama Ali	Gubio	Borno	12.475	12.755	2	
+Fulatari Gamboram	Gubio	Borno	12.502	12.659	2	
+Fulatari Mai Sule	Gubio	Borno	12.479	12.752	2	
+Fulatari	Magumeri	Borno	12.246	12.683	2	
+Fulatari	Magumeri	Borno	12.348	12.711	2	
+Furram Lawanti	Magumeri	Borno	12.244	12.765	2	
+Bakaina Fulani	Shani	Borno	10.145	12.034	2	
+Gwalasho Fulani A	Shani	Borno	10.161	12.065	2	
+Gwalasho Fulani B	Shani	Borno	10.159	12.069	2	
+Jagali Fulani	Shani	Borno	10.255	12.036	2	
+Kulara Fulani B	Shani	Borno	10.218	11.962	2	
+Kulara Fulani	Shani	Borno	10.217	11.959	2	Kulara Fulani A
+Kwapella Fulani	Shani	Borno	10.152	12.063	2	
+Fuguri	Magumeri	Borno	12.284	13.104	2	
+Fulatari B Usman	Magumeri	Borno	12.286	13.043	2	
+Warram Fulatari	Nganzai	Borno	12.230	13.172	2	Malan
+Unguwar Dinya Fulani	Dambatta	Kano	12.556	8.664	2	
+Fuguri	Jere	Borno	12.143	13.111	2	
+Fularari	Magumeri	Borno	12.145	13.070	2	
+Fuye	Mafa	Borno	12.041	13.268	2	
+Fugus	Jere	Borno	11.986	13.194	2	
+Limanti Fuguri	Mafa	Borno	11.883	13.359	2	
+Fuguri	Jere	Borno	11.791	13.063	2	
+Furka	Maiduguri	Borno	11.783	13.084	2	
+Abba Fuguri	Nganzai	Borno	12.620	13.175	2	
+Fuguri	Gubio	Borno	12.646	13.022	2	
+Fulatari	Mobbar	Borno	13.380	12.805	2	
+Daurari Alhaji Fuguye	Gubio	Borno	12.792	12.760	2	
+Fulatari B	Gubio	Borno	12.810	12.767	2	
+Fulatari Musaye	Gubio	Borno	12.826	12.684	2	
+Fulatari	Gubio	Borno	12.804	12.762	2	
+Fulatari	Gubio	Borno	12.883	12.760	2	
+Fulatari	Gubio	Borno	12.892	12.829	2	
+Bukar Fuyemari	Gubio	Borno	12.642	12.563	2	
+Fulatari	Gubio	Borno	12.560	12.549	2	
+Goni Fuguri	Gubio	Borno	12.644	12.636	2	
+Korko Fulani	Bayo	Borno	10.276	11.603	2	
+Yulde Fulani	Bayo	Borno	10.299	11.761	2	
+Korko Fulani	Bayo	Borno	10.274	11.599	2	
+Lawan Thlawur Fulami	Chibok	Borno	10.810	12.931	2	
+Yimirmugze Fulani	Chibok	Borno	10.794	12.998	2	
+Fulatari	Nganzai	Borno	12.653	13.354	2	
+Fuuri	Magumeri	Borno	12.026	12.953	2	
+Fulatari Jauro Isa	Magumeri	Borno	12.096	12.236	2	
+Balba Fulani	Kwaya Kusar	Borno	10.369	11.930	2	
+Gwarawa Fulani	Shani	Borno	10.104	12.008	2	
+Pankilang Fulani	Shani	Borno	10.136	11.995	2	
+Wuro Funa Buba	Shani	Borno	10.073	12.062	2	
+Wuro Funa Sanda	Shani	Borno	10.070	12.067	2	
+Wuro Funo Baba	Shani	Borno	10.071	12.058	2	
+Fulani Vidau	Hawul	Borno	10.415	12.506	2	
+Fulatari Bulamari	Gubio	Borno	12.771	12.656	2	
+Fulatari	Gubio	Borno	12.801	12.635	2	
+Fulatari	Mobbar	Borno	12.926	12.643	2	
+Fuguri	Gubio	Borno	12.902	12.860	2	
+Mallum Mattari Futeye	Mobbar	Borno	13.236	12.714	2	
+Wuro Funo	Bayo	Borno	10.341	11.583	2	
+Meru Fuyema	Mobbar	Borno	13.215	12.873	2	
+Dunkur Fulani	Kwaya Kusar	Borno	10.397	11.996	2	
+Fikka Fulani	Kwaya Kusar	Borno	10.436	12.009	2	
+Jauro Fulani	Kwaya Kusar	Borno	10.465	12.009	2	
+Paka Fulani	Kwaya Kusar	Borno	10.354	12.019	2	
+Palma Fulani	Kwaya Kusar	Borno	10.354	12.020	2	
+Riba Fulani	Hawul	Borno	10.385	12.247	2	
+Fulani Chivimobulu	Hawul	Borno	10.380	12.467	2	
+Fulani Gelaviriwa	Hawul	Borno	10.390	12.425	2	
+Fulani Lina	Hawul	Borno	10.380	12.320	2	
+Fulani Timpul	Hawul	Borno	10.423	12.314	2	
+Furi	Mobbar	Borno	13.245	12.865	2	
+Fuchunari	Abadam	Borno	13.422	12.935	2	
+Fudum	Abadam	Borno	13.478	12.961	2	
+T Fulani	Abadam	Borno	13.478	13.470	2	
+Daba Fulani	Kwaya Kusar	Borno	10.509	11.905	2	
+Dakwana Fulani	Kwaya Kusar	Borno	10.576	11.895	2	
+Dema Fulani	Kwaya Kusar	Borno	10.509	11.907	2	
+Fulani Dutse	Kwaya Kusar	Borno	10.570	11.910	2	
+Gumahi Fulani	Kwaya Kusar	Borno	10.546	11.846	2	
+Misau Fulani	Kwaya Kusar	Borno	10.511	11.945	2	
+Gulthu Fulani	Hawul	Borno	10.622	11.982	2	
+Lambam Fulani	Kwaya Kusar	Borno	10.538	12.001	2	
+Magaba Fulani	Kwaya Kusar	Borno	10.512	11.961	2	
+Wangere Fulani	Hawul	Borno	10.547	12.071	2	
+Arawi Fulani	Biu	Borno	10.660	12.300	2	
+Azare Tasha Fulani	Hawul	Borno	10.526	12.276	2	
+Doma Fulani	Hawul	Borno	10.503	12.130	2	
+Waksha Fulani	Biu	Borno	10.597	12.138	2	
+Yawi Fulani 1	Biu	Borno	10.594	12.222	2	
+Yawi Fulani 2	Biu	Borno	10.590	12.223	2	
+Yawi Fulani 3	Biu	Borno	10.600	12.221	2	
+Mapi Fulani	Biu	Borno	10.721	12.009	2	
+Bam Fulani	Biu	Borno	10.673	12.279	2	
+Fulani Arewa	Biu	Borno	10.685	12.171	2	
+Fulani Toro	Biu	Borno	10.684	12.178	2	
+Jali Fulani	Biu	Borno	10.703	12.155	2	
+Palma Fulani	Biu	Borno	10.749	12.372	2	
+Rigan Fulani	Biu	Borno	10.912	12.177	2	
+New Fulani	Chibok	Borno	10.873	12.778	2	
+Deba Fulani	Kwami	Gombe	10.421	11.370	0	
+FUTA North Gate	Akure South	Ondo	7.307	5.140	2	
+Maria Fustina  Clinic	Okpe	Delta	5.590	5.708	0	
+Galgal Fuleye	Monguno	Borno	12.326	13.376	2	
+Fuwumari	Monguno	Borno	12.433	13.523	2	
+Chirawa Fute	Kukawa	Borno	12.758	13.588	2	
+Manga Fulatari	Monguno	Borno	12.410	13.438	2	
+Fulatari	Monguno	Borno	12.529	13.478	2	
+Dassa M Fugari	Monguno	Borno	12.603	13.598	2	
+Fullatari Mai Hamma	Monguno	Borno	12.676	13.711	2	
+Funakpo Academy	Yenegoa	Bayelsa	4.952	6.349	0	
+Fuwaliri Bulaburin	Guzamala	Borno	12.900	13.532	2	
+Fulatamare	Kukawa	Borno	12.800	13.658	2	
+Fuwaliri Bulamari	Guzamala	Borno	12.898	13.524	2	
+Fuwaliri	Guzamala	Borno	12.865	13.541	2	
+Fuguri	Guzamala	Borno	12.807	13.218	2	
+Furtuwa	Guzamala	Borno	12.605	13.450	2	
+Fulatari Wamiri	Guzamala	Borno	12.707	13.457	2	
+Fulaiya	Guzamala	Borno	12.624	13.398	2	
+Fulatari Umoruye	Guzamala	Borno	12.641	13.399	2	
+Burwa Fulatari	Guzamala	Borno	12.759	13.388	2	
+Fulatari Ba Adambe	Guzamala	Borno	12.616	13.411	2	
+Funlyafa School	Yenegoa	Bayelsa	4.939	6.327	0	
+Fushi 2	Konduga	Borno	11.925	12.782	2	
+Bukar Fulatari	Konduga	Borno	11.718	13.180	2	
+Funomari	Konduga	Borno	11.655	13.081	2	
+Mallum Saina/Fuci	Konduga	Borno	11.922	12.784	2	
+Bula Isa Fulata	Konduga	Borno	11.824	12.918	2	
+Future Glory School	Uvwie	Delta	5.539	5.754	0	
+Musba'u Garba Fuel Station	Tofa	Kano	11.965	8.404	0	
+Total Fuel Station	Tofa	Kano	11.964	8.405	0	
+School of Postgraduate Studies FUD	Dutse	Jigawa	11.727	9.363	0	
+Fuakpa	Bonny	Rivers	4.474	7.191	2	
+Fuye	Ngala	Borno	12.271	14.167	3	
+Fulatan	Rogo	Kano	11.394	7.859	2	
+Godajin Fulani	Gwarzo	Kano	11.803	7.893	2	
+Unguwar Fulani	Kabo	Kano	11.856	8.170	2	
+Kalekun Fulani	Dawakin Tofa	Kano	12.129	8.335	2	
+Fulani	Ungongo	Kano	12.025	8.425	2	
+Badawa B Fulani	Dambatta	Kano	12.258	8.606	2	
+Unguwar Fulani	Gezawa	Kano	12.061	8.659	2	
+Runawar Fulani	Minjibir	Kano	12.175	8.616	2	
+Chedi Fulani	Minjibir	Kano	12.189	8.675	2	Yola Cedi
+Fulani 1	Wudil	Kano	11.766	8.793	2	
+Fulatan	Ajingi	Kano	11.967	8.918	2	
+Unguwar Fulani	Albasu	Kano	11.661	8.965	2	
+Danwazirin Fulani	Albasu	Kano	11.729	9.018	2	
+Fulani 2	Wudil	Kano	11.774	8.802	2	
+Fuloti	Takai	Kano	11.560	9.105	3	
+Fulani	Takai	Kano	11.373	9.199	2	
+Funkuyi Danya Arewa	Rano	Kano	11.464	8.559	2	
+Tudun Fulani	Bunkure	Kano	11.675	8.450	2	
+Fufore Cottage Hospital	Fufore	Adamawa	9.217	12.663	0	
+AP fueling station	Jos North	Plateau	9.924	8.889	0	
+Conoil fueling station	Jos North	Plateau	9.922	8.890	0	
+Total fuel station	Jos North	Plateau	9.921	8.890	0	
+Mobil fuel station	Jos North	Plateau	9.920	8.889	0	
+Mobil fuel station	Jos North	Plateau	9.910	8.891	0	
+Oando fuel station	Jos North	Plateau	9.930	8.874	0	
+Goshen Medical Center Furaka	Jos North	Plateau	9.908	8.916	0	
+MRS fuel station	Jos North	Plateau	9.949	8.891	0	
+Mobil fueling station	Bauchi	Bauchi	10.318	9.834	0	
+Opposite FUTA Campus	Akure South	Ondo	7.308	5.139	0	
+A'NA'AN ACADEMY FURAKA	Jos North	Plateau	9.912	8.920	0	
+God'swill Academy Fudawa	Jos North	Plateau	9.925	8.917	0	
+Fudawa Clinic	Jos North	Plateau	9.930	8.916	0	
+Federal University of Technology, Akure	Akure South	Ondo	7.293	5.150	0	FUTA
+Fueller Health Hospital	Alimosho	Lagos	6.644	3.262	0	
+FUTA Geotechnical Lab	Akure South	Ondo	7.303	5.133	0	
+Futa Staff Primary School(PTA BUILDING)	Akure South	Ondo	7.296	5.148	0	
+John Pofi Foundation Medical Center Fudawa	Jos North	Plateau	9.929	8.918	0	
+BRIGHT FUTURE SCIENCE ACADEMY	Ungongo	Kano	12.043	8.569	0	
+Fuel station	Oshimili North	Delta	6.205	6.686	0	
+Funky Mass	Ise/Orun	Ekiti	7.462	5.419	0	
+Bright Future Heritage School	Karu	Nasarawa	8.950	7.690	0	
+Adex Global Furniture	Municipal Area Council	FCT Abuja	9.141	7.380	0	
+Fulani Road	Kaduna North	Kaduna	10.532	7.463	1	
+Fufure Road	Kaduna North	Kaduna	10.509	7.452	1	
+Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.025	7.486	1	
+Funsho Kinoshi Street	Oshodi/Isolo	Lagos	6.503	3.315	1	
+Funmi Osidein Street	Alimosho	Lagos	6.540	3.260	1	
+Fuzo Ezimora Street	Eti Osa	Lagos	6.433	3.469	1	
+Funso Martins Street	Eti Osa	Lagos	6.459	3.440	1	
+Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.029	7.485	1	
+Funsho Street Link	Lagos Mainland	Lagos	6.507	3.384	1	
+Funmilayo Onaronke Street	Shomolu	Lagos	6.527	3.391	1	
+Funmilayo Fatoberu Street	Alimosho	Lagos	6.540	3.265	1	
+Fuskar Gabas Primary Health Centre	Kano Municipal	Kano	12.005	8.518	0	
+Mohammed Bello Fulani Street	Ungongo	Kano	11.976	8.451	1	
+Fulasko street	Fagge	Kano	12.009	8.530	1	
+Jibga Fulani Health Post	Makoda	Kano	12.401	8.488	0	
+Fubara Dublin Green Street	Eti Osa	Lagos	6.430	3.521	1	
+Furana - Jeli B Road	Ikara	Kaduna	11.278	8.226	1	
+Furniture Factory road	Sokoto North	Sokoto	13.057	5.220	1	
+FUTO ROAD	Owerri West	Imo	5.385	6.992	1	
+FUTA South Gate Road	Akure South	Ondo	7.290	5.156	1	
+Funso George	Ifako/Ijaye	Lagos	6.666	3.313	1	
+Fuschia Road	Eti Osa	Lagos	6.455	3.511	1	
+Funso Owoyemi Street	Ifako/Ijaye	Lagos	6.671	3.303	1	
+Obinze Futo Road	Owerri Municipal	Imo	5.488	7.031	1	
+Furana - Jeli B Road	Tudun Wada	Kano	11.280	8.257	1	
+Furana - Jeli B Road	Ikara	Kaduna	11.280	8.242	1	
+Furana - Jeli B Road	Ikara	Kaduna	11.280	8.252	1	
+Furana - Jeli B Road	Ikara	Kaduna	11.277	8.216	1	
+Furana - Jeli B Road	Ikara	Kaduna	11.276	8.213	1	
+Funtua Road	Kaduna South	Kaduna	10.516	7.419	1	
+Funke-Layo Aremu Street	Ogbomosho North	Oyo	8.155	4.250	1	
+Apatapiti Road, FUTA.	Akure South	Ondo	7.292	5.150	1	
+Fulton Avenue	Nsukka	Enugu	6.860	7.411	1	
+Full Life Avenue	Uyo	Akwa Ibom	5.007	7.933	1	
+Furo Street Obuda-Aba	Aba South	Abia	5.093	7.349	1	
+FUTA SECONDARY SCHOOL	Akure South	Ondo	7.294	5.149	0	
+Layin Dan Fulani	Kumbotso	Kano	11.954	8.476	1	
+NNPC Fuel Station	Eti Osa	Lagos	6.451	3.430	0	
+Mobil Fuel Station	Eti Osa	Lagos	6.437	3.441	0	
+Total Fuel Station	Eti Osa	Lagos	6.437	3.450	0	
+Mobil Fuel Station	Eti Osa	Lagos	6.431	3.408	0	
+Mobil Fuel Station	Eti Osa	Lagos	6.442	3.419	0	
+Total Fuel Station	Eti Osa	Lagos	6.442	3.416	0	
+Oando Fuel Station	Eti Osa	Lagos	6.443	3.421	0	
+Forte Oil Fuel Station	Eti Osa	Lagos	6.444	3.427	0	
+Forte Oil Fuel Station	Eti Osa	Lagos	6.445	3.423	0	
+Ascon Fuel Station	Eti Osa	Lagos	6.447	3.462	0	
+Pinnacle Oil Fuel Station	Eti Osa	Lagos	6.430	3.468	0	
+MRS Fuel Station	Eti Osa	Lagos	6.434	3.485	0	
+Forte Oil Fuel Station	Eti Osa	Lagos	6.435	3.455	0	
+Petrocam Fuel Station	Eti Osa	Lagos	6.431	3.474	0	
+MRS Fuel Station	Eti Osa	Lagos	6.423	3.411	0	
+Oando Fuel Station	Eti Osa	Lagos	6.433	3.492	0	
+World Oil Fuel Station	Eti Osa	Lagos	6.435	3.495	0	
+Conoil Fuel Station	Eti Osa	Lagos	6.435	3.491	0	
+Mobil Oil Fuel Station	Eti Osa	Lagos	6.437	3.507	0	
+SPG Fuel Station	Eti Osa	Lagos	6.437	3.508	0	
+Total Oil Fuel Station	Eti Osa	Lagos	6.439	3.518	0	
+Conoil Fuel Station	Eti Osa	Lagos	6.441	3.530	0	
+Tyse Oil Fuel Station	Eti Osa	Lagos	6.444	3.541	0	
+Oando Fuel Station	Eti Osa	Lagos	6.446	3.546	0	
+Futa South Gate Road	Akure South	Ondo	7.198	5.187	1	
+Mobil Fuel Station	Ikeja	Lagos	6.605	3.347	0	
+Abata Fuel Station	Eti Osa	Lagos	6.425	3.446	0	
+Oando Fuel Station	Eti Osa	Lagos	6.449	3.410	0	
+Forte Oil Fuel Station	Eti Osa	Lagos	6.448	3.471	0	
+YKT Fuel Station	Shomolu	Lagos	6.549	3.393	0	
+Federal University of Agriculture, Abeokuta	Odeda	Ogun	7.228	3.451	0	FUNAAB
+Lomin Fulani Maternity	Kirfi	Bauchi	10.406	10.794	0	
+Fuchukuwa Dispensary	Zaki	Bauchi	12.090	10.265	0	
+Futuk Primary Health Center	Shongom	Gombe	9.700	10.954	0	Gobirawa Maternal And Child Health
+Funmilayo Okao Street	Oredo	Edo	6.228	5.593	1	
+Funky filling station	Akure North	Ondo	7.282	5.216	0	
+Tashan Fulani Dispensary	Tarmua	Yobe	12.030	11.821	0	
+Fulatari Health Post	Tarmua	Yobe	12.263	11.512	0	
+Furo Primary Health Center	Fufore	Adamawa	9.086	12.881	0	
+Furo Primary Healthcare Clinic	Fufore	Adamawa	9.451	12.723	0	
+Dulo Fulani Health Clinic	Fufore	Adamawa	9.293	12.792	0	
+Dumbulwa Fulani Dispensary	Fune	Yobe	11.642	11.336	0	
+New FUTA Clinic	Akure South	Ondo	7.297	5.145	0	
+Techno Fuel Station	Amuwo Odofin	Lagos	6.469	3.297	0	
+Engr Funsho Street	Obafemi Owode	Ogun	6.846	3.378	1	
+Funmilayo Ransome Kuti Road	Municipal Area Council	FCT Abuja	9.025	7.487	1	
+FUTA South Gate Road	Akure South	Ondo	7.293	5.153	1	
+Federal University of Transportation Daura	Daura	Katsina	12.972	8.343	0	Muhammadu Buhari University of Transportation, Daura|FUTD
+Fune	Fune	Yobe	11.892	11.432	2	
+Mubi Fussami	Fika	Yobe	11.221	11.297	2	
+Fulata	Maigatari	Jigawa	12.752	9.381	2	
+Furfuri Kwaikwai	Bungudu	Zamfara	12.214	6.582	2	
+Furagirke	Tureta	Sokoto	12.551	5.511	2	
+Tudun Fulani	Ungongo	Kano	12.028	8.419	2	
+Fulatan	Rogo	Kano	11.446	7.901	2	
+Funtua	Funtua	Katsina	11.426	7.353	2	
+Funakaye	Funakaye	Gombe	10.854	11.445	2	
+Fukurti	Geidam	Yobe	12.905	12.293	2	
+Futchimiram	Geidam	Yobe	12.727	12.412	2	
+Furram	Magumeri	Borno	12.291	12.803	2	
+Fuye	Ngala	Borno	12.268	14.149	2	
+Futuk East	Alkaleri	Bauchi	9.791	10.914	2	
+Futuk West	Alkaleri	Bauchi	9.897	10.849	2	
+Fufore	Fufore	Adamawa	9.258	12.759	2	

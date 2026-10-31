@@ -1,0 +1,557 @@
+Isola	Ewekoro	Ogun	6.835	3.324	2	Ishola
+Isan Town	Epe	Lagos	6.518	3.676	2	
+Isokwe	Etsako East	Edo	7.214	6.450	2	
+Uokha	Owan East	Edo	7.074	6.045	2	Usokha;Isokka
+Gidan Isa	Kiru	Kano	11.439	8.148	2	Isa
+Isanlu Esa	Yagba West	Kogi	8.482	5.484	2	
+Isare	Ekiti	Kwara	8.100	5.233	2	Isare Osi;Isare
+Isiaka	Ifelodun	Kwara	8.443	5.058	2	
+Isu	Etche	Rivers	5.133	7.017	2	
+Isekun	Ogun Waterside	Ogun	6.365	4.384	2	Isaku
+Isero	Ola Oluwa	Osun	7.767	4.133	2	
+Isge-Rana	Gwoza	Borno	10.983	13.350	2	Isge-Rana;Isge
+Gidan-Isa	Wamako	Sokoto	13.105	5.116	2	
+Odo-Isa	Idanre	Ondo	7.057	5.114	2	
+Usele Warri Island	Warri South	Delta	5.501	5.679	2	
+Isan	Remo North	Ogun	7.067	3.783	2	Ishan
+Isakara	Moro	Kwara	9.000	4.833	2	
+Isagolu	Obafemi Owode	Ogun	7.100	3.667	2	Amushan
+Okun Isoku	Ogun Waterside	Ogun	6.367	4.367	2	Oku
+Isanlu Makutu	Yagba East	Kogi	8.267	5.800	2	Isanlu Makatu
+Ishuku	Yewa North	Ogun	7.033	2.750	2	
+Igoya	Ife North	Osun	7.367	4.533	2	Ishawya;Ishoya
+Isaobi	Atakunmosa West	Osun	7.630	4.666	2	
+Isaga	Abeokuta North	Ogun	7.100	3.167	2	Ishaga
+Iso Bendiga	Boki	Cross River	6.222	8.815	2	Izo Bendiga;Isobendeghe;Iso Bendega
+Issaferma	Suru	Kebbi	11.604	3.974	2	Issa
+Isola	Ado Odo/Ota	Ogun	6.617	3.050	2	Ishola
+Mawun Isale	Ipokia	Ogun	6.467	2.833	2	Mawun Isale;Mawun
+Ugbosien Island	Sapele	Delta	5.804	5.626	2	Ugbosien Island;Gbosien
+Isampo	Ekeremor	Bayelsa	5.063	5.849	2	Isampou
+Ekrebuo Isiokolo	Ethiope East	Delta	5.597	5.991	2	
+Tungan Isaka	Bagudo	Kebbi	11.527	4.065	2	
+Isunba	Amuwo Odofin	Lagos	6.447	3.284	2	
+Isia	Ijero	Ekiti	7.851	5.110	2	
+Ise - Ekiti	Ise/Orun	Ekiti	7.463	5.428	3	
+Iso	Ọ̀wọ̀	Ondo	7.277	5.422	2	Isho
+Isoni	Southern Ijaw	Bayelsa	4.884	6.001	2	
+Garin Isa	Fakai	Kebbi	11.540	4.740	2	
+Issele Asaba	Aniocha South	Delta	6.267	6.597	2	
+Essan	Paikoro	Niger	9.483	6.767	2	Isan
+Isemi	Kajola	Oyo	7.983	3.367	2	Isemi;Isemi Ile
+Iseyin	Ìsẹ́yìn	Oyo	7.971	3.596	3	
+Isung Udun Ukor	Udung Uko	Akwa Ibom	4.726	8.270	2	Usung Udun Ukor
+Islokolo	Ethiope East	Delta	5.595	6.000	3	
+Ode Itsekiri Warri Island	Warri South	Delta	5.489	5.703	2	
+Isamuro	Ijebu North	Ogun	6.972	3.832	2	Ishamuro
+Isheri	Ifo	Ogun	6.638	3.380	2	
+Esabang	Obubra	Cross River	5.913	8.446	2	Issabang
+Abudu-Isu	Awgu	Enugu	6.233	7.420	2	Abodow-Isu
+Isua	Akoko South East	Ondo	7.438	5.899	2	Ishua
+Isero	Ola Oluwa	Osun	7.750	4.133	2	Iseru
+Ishukwa	Ogba/Egbema/Ndoni	Rivers	5.658	6.628	2	
+Isiokpo	Ikwerre	Rivers	5.001	6.873	3	Nsokpo
+Issele Uku	Aniocha North	Delta	6.316	6.477	3	
+Isaga Latunji	Yewa South	Ogun	6.791	2.975	2	Ishaga
+Victoria Island	Eti Osa	Lagos	6.430	3.426	3	
+Issga	Bama	Borno	11.385	13.689	2	Iza;Isza
+Iseoluwa	Ilaje	Ondo	6.150	4.717	2	Isheluwa
+Isasi	Ojo	Lagos	6.500	3.167	2	Ishasi;Isashi
+Iselegu	Ndokwa East	Delta	5.838	6.472	2	Isetegu
+Ere-Ise	Epe	Lagos	6.566	4.027	2	
+Tungan Isale	Magama	Niger	10.532	4.829	2	
+Rafia Island	Yauri	Kebbi	10.833	4.724	2	
+Garin Isa	Fakai	Kebbi	11.639	4.580	2	
+Ishara	Remo North	Ogun	6.992	3.681	3	
+Isan-Ekiti	Oye	Ekiti	7.921	5.319	2	Ishan
+Agbabor-Isu	Onicha	Ebonyi	6.167	7.843	2	Agbabo
+Ago-Isame	Akoko-Edo	Edo	7.132	6.203	2	
+Iselu	Yewa North	Ogun	7.017	2.817	2	
+Inorin Community, Warri Island	Warri South	Delta	5.500	5.688	2	
+Orugbo Warri Island	Warri South	Delta	5.503	5.712	2	
+Olugbo-Odo Warri Island	Warri South	Delta	5.486	5.671	2	
+Abak Isiet	Onna	Akwa Ibom	4.676	7.847	2	Abat Isiet
+Izogen	Esan West	Edo	6.570	6.151	2	Izogen;Isogen;Izogem
+Issele Mkpitime	Aniocha North	Delta	6.336	6.540	2	
+Isinyi-Nando	Anambra East	Anambra	6.362	6.928	2	Isinyu-Nando
+Isikite	Aniocha South	Delta	6.024	6.538	2	
+Isan	Obafemi Owode	Ogun	7.067	3.550	2	Ishan
+Isapa	Ekiti	Kwara	8.142	5.328	2	
+Iziogo	Izzi	Ebonyi	6.645	8.203	2	Ijogo;Isiogo
+Tungan Issaferma	Dandi	Kebbi	11.608	3.836	2	
+Isiekenesi	Ideato South	Imo	5.791	7.129	2	
+Isari	Dikwa	Borno	12.083	14.300	2	Eisarī
+Isagbo	Yewa South	Ogun	6.633	2.917	2	Isagbo;Ishagbo
+Isaga Abiodun	Yewa North	Ogun	6.967	2.983	2	
+Isufuri	Mobbar	Borno	13.040	12.454	2	
+Isaka	Okrika	Rivers	4.740	6.999	2	
+Isaihkiri	Akuku Toru	Rivers	4.713	6.587	2	Isaiahkiri
+Isoku	Ewekoro	Ogun	6.908	3.290	2	Ishoku
+Isu-Ulo	Orumba South	Anambra	6.012	7.227	2	Isu
+Iseagu	Isi-Uzo	Enugu	6.757	7.566	2	Isyago
+Ugbodede Community Warri Island	Warri South	Delta	5.528	5.676	2	
+Ajademadema Warri Island	Warri South	Delta	5.535	5.668	2	
+Isa	Isa	Sokoto	13.203	6.406	3	
+Isanlu Isin	Isin	Kwara	8.230	5.084	3	
+Isundunrin	Ejigbo	Osun	7.867	4.267	2	Ishudunrin
+Ishawo	Ìkòròdú	Lagos	6.666	3.464	2	
+Isieke	Ohaukwu	Ebonyi	6.380	8.036	3	
+Ise	Epe	Lagos	6.417	4.213	2	
+Isuofia	Aguata	Anambra	6.030	7.058	2	
+Shosan-Isale	Akoko South East	Ondo	7.407	5.923	2	Shosan
+Isokpo Water Side	Ikwerre	Rivers	4.913	6.881	2	
+Isale	Ado Odo/Ota	Ogun	6.698	3.142	2	
+Ajigba Community, Warri Island	Warri South	Delta	5.497	5.692	2	
+Isu Okpu	Ideato North	Imo	5.900	7.200	3	
+Isuku	Yewa North	Ogun	7.033	2.750	2	
+Ijaka Isale	Yewa North	Ogun	7.180	2.902	2	Ijaka
+Ishau	Kachia	Kaduna	9.617	7.317	2	
+Isi Ohumini	Ebonyi	Ebonyi	6.640	8.160	2	Isiohummini
+Issakana	Dandi	Kebbi	11.626	3.958	2	
+Isiehor	Ovia North-East	Edo	6.414	5.604	2	
+Issiet	Uruan	Akwa Ibom	4.940	8.075	2	Isiel
+Etak Isip	Mbo	Akwa Ibom	4.590	8.304	2	Etak Isip Or;Etok
+Iserin	Ibarapa North	Oyo	7.722	3.277	2	
+Isie	Isin	Kwara	8.302	4.896	2	
+Ikum Island	Yauri	Kebbi	10.840	4.726	2	
+Isiyako	Illela	Sokoto	13.535	5.275	2	
+Isaba	Warri South-West	Delta	5.411	5.723	2	
+Iseleogono	Brass	Bayelsa	4.574	6.440	2	
+Isiwu	Ìkòròdú	Lagos	6.660	3.619	2	Isiu
+Isiwo	Ìjẹ̀bú Òde	Ogun	6.707	3.960	2	
+Isong Inyang	Akamkpa	Cross River	5.250	8.318	2	
+Ishe	Akoko North East	Ondo	7.512	5.918	2	Nse
+Isiegbu Ozuitem	Bende	Abia	5.650	7.600	2	
+Ikot Akpan Isiet	Onna	Akwa Ibom	4.655	7.839	2	Ikot;Ikot Akpan
+Isabiyi	Akinyele	Oyo	7.550	3.900	2	Oshabi
+Jauro Isa Dama	Shani	Borno	10.086	11.876	2	Dama
+Agbaja Isu	Nwangele	Imo	5.700	7.133	2	
+Isoko	Ejigbo	Osun	7.917	4.283	2	Ishoko
+Shangul Anguwan Wakili Isa	Biu	Borno	10.635	12.151	2	Changul
+Mbagu Isa	Shani	Borno	10.228	12.093	2	Mbagu
+Ishero	Ola Oluwa	Osun	7.767	4.133	2	
+Ishiagu	Ivo	Ebonyi	5.950	7.567	3	
+Isuobiangwu	Ngor-Okpala	Imo	5.430	7.186	2	
+Umu Ozu Isu	Nwangele	Imo	5.723	7.130	2	
+Baba Isale	Lagelu	Oyo	7.550	4.050	2	Babasale
+Tunga Hakimi Isa	Koko-Besse	Kebbi	11.345	4.230	2	
+Tin Can Island Jetty	Apapa	Lagos	6.433	3.335	0	
+Sheikh Lawal Abubakar Islamic School	Kaduna North	Kaduna	10.508	7.433	0	
+Snake Island	Amuwo Odofin	Lagos	6.428	3.335	0	
+Madarasatu Amina Islamiyya Primary School	Nassarawa	Kano	12.027	8.551	0	
+Bulama Boliya and Alfaruq Islamiya	Maiduguri	Borno	11.870	13.145	2	
+Gadai Isari	Nganzai	Borno	12.398	12.947	2	
+Isari	Magumeri	Borno	12.281	12.726	2	
+Isari	Jere	Borno	11.971	13.216	2	
+Maiduguri Isari	Nganzai	Borno	12.637	13.151	2	
+Isa Julde	Chibok	Borno	10.733	12.835	2	
+Jauro Isa Kurkude	Shani	Borno	10.099	11.830	2	
+Jauro Ishaka	Shani	Borno	10.048	11.863	2	
+Sabon Fegi	Shani	Borno	10.082	11.830	2	Jauro Isa Bello
+Ikot Isemin	Etim Ekpo	Akwa Ibom	5.006	7.627	2	
+Fulatari Jauro Isa	Magumeri	Borno	12.096	12.236	2	
+Gumbu jauro Isa	Kwaya Kusar	Borno	10.345	11.825	2	
+Laro Jauro Ishaku	Kwaya Kusar	Borno	10.419	11.823	2	
+Jauro Isa	Bayo	Borno	10.454	11.757	2	
+Drawalama Ishaku	Shani	Borno	10.317	11.975	2	
+Isuwari	Abadam	Borno	13.120	13.190	2	
+Bera Jauro Isa	Bayo	Borno	10.529	11.620	2	
+Kwagushar Unguwar Isa	Hawul	Borno	10.526	12.358	2	
+Jauro Isa	Biu	Borno	10.865	11.666	2	
+Obunta-Isiala	Ikwuano	Abia	5.384	7.584	2	
+Faya Issa	Maïné Soroa	Yobe	13.381	11.502	2	
+Issoufouri	Bosso	Borno	13.540	13.204	2	
+Isusu Primary school	Yenegoa	Bayelsa	5.159	6.489	0	
+Kafela Isabe	Nganzai	Borno	12.735	13.220	2	
+Isa Ngarari	Guzamala	Borno	12.782	13.482	2	
+Balari Modu Isari	Guzamala	Borno	12.843	13.224	2	
+Matta Isari Bulamari	Guzamala	Borno	12.789	13.457	2	
+Awa Isari	Guzamala	Borno	12.824	13.191	2	
+Awa Isari	Guzamala	Borno	12.808	13.252	2	
+Goni Burari B Isa	Guzamala	Borno	12.723	13.450	2	
+Isari Alhajeri	Guzamala	Borno	12.784	13.487	2	
+Isanari	Konduga	Borno	11.704	12.996	2	
+Bula Isa Fulata	Konduga	Borno	11.824	12.918	2	
+The Islamic Natural Medical Clinic	Uvwie	Delta	5.567	5.780	0	
+Island Clinic	Warri South	Delta	5.536	5.758	0	
+Bara'Imul Iman - Islamic School	Maiduguri	Borno	11.812	13.142	0	
+Mara Imul Iman - Islamic School	Maiduguri	Borno	11.806	13.152	0	
+Omowa, Isanlu	Yagba East	Kogi	8.260	5.838	2	
+Kwanar Isa	Isa	Sokoto	13.133	6.400	2	
+God is Good	Municipal Area Council	FCT Abuja	9.066	7.438	0	
+Al-muhibbah Islamic academy	Igabi	Kaduna	10.591	7.474	0	
+Isarun Market	Ifedore	Ondo	7.401	5.069	0	
+Ise Akoko Market	Akoko North East	Ondo	7.513	5.916	0	
+Isua Akoko Market	Akoko South East	Ondo	7.457	5.916	0	
+Isuada Market	Ọ̀wọ̀	Ondo	7.221	5.584	0	
+Tin Can Island	Apapa	Lagos	6.434	3.335	0	
+igbologun/snake island	Amuwo Odofin	Lagos	6.428	3.334	0	
+Isiodum	Andoni	Rivers	4.538	7.424	2	
+isofin	Ojo	Lagos	6.449	3.145	0	
+Ndjamena Issa	Kala-Balge	Borno	11.935	14.638	2	
+General Hospital Isa	Isa	Sokoto	13.200	6.393	0	
+Isikan Market	Akure South	Ondo	7.251	5.183	0	
+Biu Isolation Centre	Biu	Borno	10.619	12.170	0	
+Monguno Isolation Centre	Monguno	Borno	12.685	13.606	0	
+Mohammed Goni College of Legal and Islamic Studies	Maiduguri	Borno	11.847	13.149	0	
+dispensary ishishiwa	Madagali	Adamawa	10.815	13.534	0	
+Islamic High School	Ibadan North	Oyo	7.419	3.934	0	
+Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
+local government school i, isheri-olofin	Kosofe	Lagos	6.637	3.386	0	
+zumuratul islamiyah primary school, ojumele	Shagamu	Ogun	6.847	3.636	0	
+zumuratul islamiyyah primary school, i akute	Ifo	Ogun	6.680	3.369	0	
+Zumuratul Islamiyyah Primary School, Iii Ishasi	Ìjẹ̀bú Òde	Ogun	6.814	3.930	0	
+Roman Catholic Mission Primary School, Isalu	Ado Odo/Ota	Ogun	6.657	3.091	0	
+Christ Church Primary School, Isiwo	Ifo	Ogun	6.765	3.258	0	
+Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.818	3.185	0	
+St. Patrick'S Catholic Primary School, Isiwo	Ìjẹ̀bú Òde	Ogun	6.832	3.908	0	
+Moslem Primary School I, Isoku	Ifo	Ogun	6.812	3.114	0	
+Moslem Primary School Ii, Isoku	Ìjẹ̀bú Òde	Ogun	6.810	3.922	0	
+Moslem Primary School I, Isoku	Ìjẹ̀bú Òde	Ogun	6.810	3.922	0	
+St. Patrick'S Catholic Primary School, Isiwo	Ìjẹ̀bú Òde	Ogun	6.714	3.962	0	
+Christ Church Primary School, Isiwo	Ìjẹ̀bú Òde	Ogun	6.706	3.960	0	
+Zumuratul Islamiyyah Primary School, Ii Akute	Ifo	Ogun	6.684	3.369	0	
+Zumuratul Islamiyyah Primary School, Iii Ishasi	Ifo	Ogun	6.669	3.374	0	
+Roman Catholic Mission Primary School, Isalu	Ado Odo/Ota	Ogun	6.644	2.942	0	
+Isua	Yenegoa	Bayelsa	5.165	6.495	2	
+Isusu	Ahoada West	Rivers	5.159	6.491	2	
+Ise-Elili	Ndokwa East	Delta	5.502	6.527	2	
+Olive Pry Health Centre, iso pako, Bodija	Ibadan North	Oyo	7.440	3.920	0	
+Iseyin District Grammar School	Ìsẹ́yìn	Oyo	7.955	3.615	0	
+General Hospital Iseyin	Ìsẹ́yìn	Oyo	7.948	3.618	0	
+Abdullahi IBN Masud islamic School	Maiduguri	Borno	11.828	13.109	0	
+Ise Edeugbana	Ndokwa East	Delta	5.620	6.588	2	
+Ise-Owulume	Ndokwa East	Delta	5.608	6.573	2	
+Iseonukpo	Ndokwa East	Delta	5.588	6.574	2	
+Iseede Egerega	Ndokwa East	Delta	5.644	6.557	2	
+Isuaja Camp	Ndokwa East	Delta	5.689	6.554	2	
+Islahudeen Model College, Ido-Osun	Egbedore	Osun	7.782	4.491	0	
+Islahudeen Nur & Pri School, Ido-Osun	Egbedore	Osun	7.780	4.488	0	
+Ikpisan Community Warri Island	Warri South	Delta	5.503	5.723	2	
+School for Arqabic and Islamic Studies	Yola North	Adamawa	9.207	12.488	0	
+Isiaka Obilago	Ivo	Ebonyi	5.868	7.545	3	
+Nkwoagu Isuochi	Umu-Nneochi	Abia	5.990	7.401	3	
+Isi-Ikwuato	Isuikwuato	Abia	5.737	7.503	3	Isuikwuato
+Isu LGA Headquarters	Isu	Imo	5.695	7.069	0	
+Isingwu	Umuahia North	Abia	5.648	7.441	2	
+Usman Memorial Islamiyya School (Loddo)	Gombe	Gombe	10.295	11.170	0	
+Usman Memorial Islamiyya School (Loddo), Gombe	Gombe	Gombe	10.295	11.170	0	
+Isbra Filling Station	Ejigbo	Osun	7.826	4.126	0	
+Islamic Medical Foundation Musawa Road Zango	Kaduna South	Kaduna	10.505	7.406	0	
+Ishaku Hospital	Kaduna South	Kaduna	10.496	7.419	0	
+Primary Health Care Isa Kaita Raid Malali	Kaduna North	Kaduna	10.549	7.465	0	
+National Hospital Abuja No4mm Lawal Jafaru Isa Road	Kaduna North	Kaduna	10.542	7.472	0	
+Isuhu Dan Tsoho Hospital Isuhu Dan Tsoho Hospital	Kaduna North	Kaduna	10.532	7.460	0	
+Dialogue Clinic Isah Kaita	Kaduna North	Kaduna	10.546	7.447	0	
+Isashi Primary Health Care Center	Ojo	Lagos	6.502	3.172	0	
+Isefun Primary Health Care Center	Alimosho	Lagos	6.580	3.207	0	
+Isabatudeen Girls Grammar School	Lagelu	Oyo	7.422	3.941	0	
+Health Center Isheri Olofin	Alimosho	Lagos	6.577	3.281	0	
+Isuti Medical Centre	Alimosho	Lagos	6.552	3.219	0	
+Isolo Road Primary Health Care Centre	Mushin	Lagos	6.527	3.349	0	
+Victor Island	Akure South	Ondo	7.285	5.152	0	
+Igbologun Primary Health Center Snake Island	Amuwo Odofin	Lagos	6.418	3.329	0	
+USMAN BN AFFAN COLLEGE OF ISLAMIC STUDIES	Ungongo	Kano	12.049	8.572	0	
+HAYATUL ISLAMPRIMARY SCHOOL	Ungongo	Kano	12.044	8.565	0	
+UMMUL KHAIRI ISLAMIYYA	Ungongo	Kano	12.043	8.566	0	
+MUASSA ISLAMIYYA	Ungongo	Kano	12.045	8.572	0	
+MALAN YARO ISLAMIYYA	Ungongo	Kano	12.044	8.570	0	
+MADARASATUL KHALID BIN WALID ISLAMIYYA	Ungongo	Kano	12.043	8.567	0	
+NURUDDEEN ISLAMIYYA SCHOOL	Ungongo	Kano	12.037	8.568	0	
+ISLAMIYYA	Ungongo	Kano	12.041	8.571	0	
+ISLAMIYYA QURANIC SCHOOL	Ungongo	Kano	12.041	8.569	0	
+DARUL QUR'AN ISLAMIYYA SCHOOL	Ungongo	Kano	12.040	8.569	0	
+NASARATUDDEEN ISLAMIYYA	Ungongo	Kano	12.042	8.569	0	
+ULUMUDDEN ISLAMIYA	Ungongo	Kano	12.039	8.565	0	
+ALHAJI YUSUF GARBA ALI ISLAMIC FOUNDATION	Ungongo	Kano	12.036	8.565	0	
+GIDAN GADO SCIENCE ACADEMY AND ISLAMIYYA	Ungongo	Kano	12.050	8.579	0	
+MADARASATUL ADAM MAIGARI ISLAMIYYA	Ungongo	Kano	12.047	8.568	0	
+NURUL ISLAM	Ungongo	Kano	12.039	8.563	0	
+MADRASATUL ZADUL MA AM ISLAMIYYA	Ungongo	Kano	12.055	8.582	0	
+MARKAZU ISALIL KHAIR UMMATI SCHOOL	Ungongo	Kano	12.046	8.570	0	
+AL-HIKIMA ISLAMIC INSTITUTE	Ungongo	Kano	12.043	8.572	0	
+SHAMSUL HUDA AL ISLAMIYYA	Ungongo	Kano	12.042	8.573	0	
+MAKARANTAR MLM ISUHU	Gwale	Kano	11.962	8.479	0	
+MAKARANTAR LAYIN ISIYAKU MAI KIFI	Gwale	Kano	11.957	8.472	0	
+ABDULLAHI BIN MASUD ( FAISALIYYA) ISLAMIYYA	Gwale	Kano	11.955	8.470	0	
+DR.MORIKI ISLAMIC ACADEMY	Gwale	Kano	11.960	8.479	0	
+NASHRUL ULUMI AL-ISLAMIYYA PRIMARY SEC.DORAYI KARAMA	Gwale	Kano	11.964	8.480	0	
+UMMUL QURA ISLAMIYYA	Gwale	Kano	11.964	8.478	0	
+Madarasatul Nurul Islam	Bauchi	Bauchi	10.292	9.783	0	
+Minaret Islamic School, Awolowo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.471	4.612	0	
+International School, Unilag	Lagos Mainland	Lagos	6.512	3.391	0	ISL
+Happy Island	Enugu North	Enugu	6.430	7.604	2	
+Ishiagu	Enugu North	Enugu	6.428	7.550	2	
+Isolo	Oshodi/Isolo	Lagos	6.529	3.319	3	
+Garu Islamic College Of Health Technology Bauchi	Bauchi	Bauchi	10.305	9.788	0	
+isashi landing	Ado Odo/Ota	Ogun	6.511	3.174	0	
+igando landing/isuti	Alimosho	Lagos	6.552	3.207	0	
+fiki marine (victoria island)	Eti Osa	Lagos	6.439	3.425	0	
+bonny camp (victoria island)	Eti Osa	Lagos	6.436	3.405	0	
+law school (victoria island)	Eti Osa	Lagos	6.440	3.425	0	
+isoda	Amuwo Odofin	Lagos	6.426	3.348	0	
+first gate (tin can island)	Apapa	Lagos	6.435	3.343	0	
+Voice of Islam Hospital	Lafia	Nasarawa	8.523	8.524	0	
+Jesus Is Lord Mechanics	Municipal Area Council	FCT Abuja	9.143	7.377	0	
+Isheri Osun	Oshodi/Isolo	Lagos	6.518	3.289	2	
+Banana Island	Eti Osa	Lagos	6.464	3.453	2	
+Lagos Island	Lagos Island	Lagos	6.455	3.390	3	
+Isaac John Street	Ikeja	Lagos	6.580	3.359	1	
+Ring Road	Lagos Island	Lagos	6.459	3.401	1	Lagos Island Inner Ring Road
+Ring Road	Lagos Island	Lagos	6.457	3.407	1	Lagos Island Inner Ring Road
+Ishaga Road	Mushin	Lagos	6.519	3.350	1	
+Ishola Street	Lagos Mainland	Lagos	6.497	3.380	1	
+Ishau Adewale Street	Surulere	Lagos	6.490	3.359	1	
+Isolo Road	Oshodi/Isolo	Lagos	6.531	3.334	1	
+Ring Road	Lagos Island	Lagos	6.444	3.406	1	Lagos Island Inner Ring Road
+Ndidem Usong Iso	Calabar Municipal	Cross River	4.976	8.341	1	
+Mallam Isa Hassan Road	Kaduna North	Kaduna	10.582	7.466	1	
+Isa Kaita Road	Kaduna North	Kaduna	10.539	7.471	1	
+Ishaku Road	Kaduna North	Kaduna	10.557	7.461	1	
+Ishaku Road	Kaduna North	Kaduna	10.572	7.460	1	
+1st Isiuwa Lane	Oredo	Edo	6.345	5.634	1	
+2nd Isiuwa Lane	Oredo	Edo	6.345	5.635	1	
+Isiwemwenro Street	Ikpoba-Okha	Edo	6.323	5.632	1	
+Isibor Street	Oredo	Edo	6.334	5.613	1	
+2nd Isibor Avenue	Oredo	Edo	6.306	5.611	1	
+Isibor Street	Ikpoba-Okha	Edo	6.311	5.633	1	
+Isacc Str	Oredo	Edo	6.306	5.619	1	
+Isiruhe lane	Oredo	Edo	6.340	5.628	1	
+1st Isibor Street	Oredo	Edo	6.306	5.611	1	
+Isale Agbede Street	Lagos Island	Lagos	6.457	3.391	1	
+Ring Road	Lagos Island	Lagos	6.465	3.395	1	Lagos Island Inner Ring Road
+Adeniji Adele Road	Lagos Island	Lagos	6.456	3.381	1	Lagos Island Inner Ring Road
+Ishola Street	Surulere	Lagos	6.508	3.358	1	
+Isefun Road	Alimosho	Lagos	6.564	3.203	1	
+Ishola Anigbjumo Street	Oshodi/Isolo	Lagos	6.554	3.341	1	
+Ishola Imam Street	Oshodi/Isolo	Lagos	6.556	3.330	1	
+New Marina Road	Lagos Island	Lagos	6.442	3.402	1	Lagos Island Inner Ring Road
+Isolo Road	Eti Osa	Lagos	6.457	3.410	1	
+Island Way	Eti Osa	Lagos	6.459	3.417	1	
+New Marina Road	Lagos Island	Lagos	6.448	3.393	1	Lagos Island Inner Ring Road
+New Marina Road	Lagos Island	Lagos	6.454	3.382	1	Lagos Island Inner Ring Road
+Isijiola Street	Mushin	Lagos	6.554	3.366	1	
+Isolo Road	Oshodi/Isolo	Lagos	6.532	3.336	1	
+Isolo Road	Mushin	Lagos	6.529	3.348	1	
+Tincan Island Port Road	Apapa	Lagos	6.435	3.350	1	
+Tincan Island Port Road	Apapa	Lagos	6.434	3.339	1	
+Tincan Island Port Road	Apapa	Lagos	6.435	3.360	1	
+Isaac Okomo Street	Kosofe	Lagos	6.570	3.396	1	Epetedo Street
+Isheri Road	Ifo	Ogun	6.640	3.373	1	
+Isiaka Saliu Street	Ikeja	Lagos	6.651	3.355	1	
+Ishola Bello Street	Ikeja	Lagos	6.641	3.354	1	
+Taiwo Ishola Street	Eti Osa	Lagos	6.441	3.478	1	
+Lasu-Isheri Road	Alimosho	Lagos	6.577	3.268	1	
+Lasu-Isheri Road	Alimosho	Lagos	6.551	3.239	1	
+Ishola Makinde Street	Alimosho	Lagos	6.604	3.296	1	
+Ishola Yusuf Street	Agege	Lagos	6.612	3.325	1	
+Iseyin Road	Apapa	Lagos	6.452	3.354	1	
+Banana Island Road	Eti Osa	Lagos	6.460	3.450	1	
+Ishaga Close	Mushin	Lagos	6.520	3.345	1	
+Osaro Isokpan Street	Eti Osa	Lagos	6.441	3.466	1	
+Iskalu Lane	Ajeromi/Ifelodun	Lagos	6.443	3.336	1	
+Akpan Isemin Close	Municipal Area Council	FCT Abuja	9.002	7.481	1	
+Ishaya Shekari Crescent	Municipal Area Council	FCT Abuja	9.115	7.425	1	
+Isaac Boro Street	Port-Harcourt	Rivers	4.792	7.004	1	
+Khalid B. Isah Street	Municipal Area Council	FCT Abuja	9.107	7.370	1	
+Isaka Street	Port-Harcourt	Rivers	4.761	7.033	1	
+Sen. Isa Kachiko Road	Tarauni	Kano	11.979	8.553	1	
+Ist adesagbon lane	Egor	Edo	6.379	5.638	1	
+Ist uwagho street	Egor	Edo	6.377	5.633	1	
+Isiba Street	Mushin	Lagos	6.512	3.337	1	
+Issa Williams Street	Lagos Island	Lagos	6.455	3.383	1	
+Ring Road	Lagos Island	Lagos	6.465	3.394	1	Lagos Island Inner Ring Road
+Ring Road	Lagos Island	Lagos	6.454	3.409	1	Lagos Island Inner Ring Road
+Isiba Street	Alimosho	Lagos	6.540	3.267	1	
+Isiba Street	Alimosho	Lagos	6.542	3.264	1	
+Ishola Abass	Alimosho	Lagos	6.626	3.281	1	
+Ishajimi Street	Agege	Lagos	6.621	3.304	1	
+Dr Clement Isong	Municipal Area Council	FCT Abuja	9.057	7.529	1	
+Ago-Iwoye Ishara Remo road	Ijebu North	Ogun	6.965	3.832	1	
+Isiuwa Street	Oredo	Edo	6.345	5.634	1	
+Isiruhe street	Oredo	Edo	6.340	5.629	1	
+Isekhere Street	Oredo	Edo	6.338	5.620	1	
+Isuofia Street	Enugu East	Enugu	6.483	7.505	1	
+Isiuzor Street	Enugu South	Enugu	6.427	7.523	1	
+Isingwu Ugbo Street	Enugu South	Enugu	6.427	7.530	1	
+Isi Uzo Street	Enugu East	Enugu	6.484	7.502	1	
+Ifunanya Isaac Street	Enugu South	Enugu	6.419	7.527	1	
+Ishiagu Road	Enugu South	Enugu	6.410	7.543	1	
+Isieke Street	Enugu East	Enugu	6.484	7.516	1	
+Isiekenesi Street	Enugu East	Enugu	6.484	7.520	1	
+Isuofia Link	Enugu East	Enugu	6.484	7.503	1	
+Isiadinso Close	Enugu North	Enugu	6.454	7.494	1	
+Isiagu Street	Enugu South	Enugu	6.420	7.497	1	
+Isigwe Street	Enugu North	Enugu	6.474	7.474	1	
+Isuoba Lane	Enugu East	Enugu	6.476	7.504	1	
+Isuoba Close	Enugu East	Enugu	6.476	7.504	1	
+Isiukwuato Street	Enugu North	Enugu	6.452	7.505	1	
+Isuu awaa Street	Enugu South	Enugu	6.413	7.503	1	
+Isuofia Street	Enugu South	Enugu	6.412	7.503	1	
+Isseke Street	Enugu North	Enugu	6.447	7.529	1	
+Isiagu Road	Nkanu West	Enugu	6.373	7.514	1	
+Ishielu Street	Enugu North	Enugu	6.447	7.525	1	
+Isaac Okolo Street	Enugu East	Enugu	6.470	7.596	1	
+Isuochi Street	Enugu South	Enugu	6.419	7.494	1	
+Abeokuta - Iseyin	Ìsẹ́yìn	Oyo	7.758	3.422	1	
+Isale Afon Road	Ogbomosho North	Oyo	8.134	4.248	1	
+Isi Ude Road	Nkanu West	Enugu	6.375	7.501	1	
+Ishiagu	Enugu North	Enugu	6.444	7.569	2	
+Ishi Dokwu Avenue	Enugu East	Enugu	6.512	7.522	1	
+Isulo Close	Enugu East	Enugu	6.514	7.505	1	
+isle road	Enugu East	Enugu	6.507	7.524	1	
+Isaac Solame Street	Ìkòròdú	Lagos	6.638	3.483	1	
+Femi Isara Street	Ìkòròdú	Lagos	6.632	3.499	1	
+Isikalu Street	Ìkòròdú	Lagos	6.615	3.502	1	
+Isheri Road	Ikeja	Lagos	6.639	3.357	1	
+Isore Dispensary	Shira	Bauchi	11.497	9.805	0	
+Ishaya Iko Ibrahim Road	Karu	Nasarawa	8.884	7.600	1	
+Iseoluwapo Street	Alimosho	Lagos	6.549	3.275	1	
+Prince Rauf Ishola Lemomu Street	Eti Osa	Lagos	6.446	3.517	1	
+Isan to Eleranigbe road	Epe	Lagos	6.512	3.678	1	
+Ring Road	Lagos Island	Lagos	6.463	3.384	1	Lagos Island Inner Ring Road
+Marina Road	Lagos Island	Lagos	6.455	3.382	1	Lagos Island Inner Ring Road
+Ishola Adewunmi Crescent	Ibeju Lekki	Lagos	6.475	3.697	1	
+Isuti Road	Alimosho	Lagos	6.551	3.228	1	
+Amusa Ishola Str	Alimosho	Lagos	6.532	3.268	1	
+Isaac John Street	Shomolu	Lagos	6.528	3.370	1	
+Lasu-Isheri Road	Ojo	Lagos	6.479	3.201	1	
+Ndidem Usong Iso	Calabar Municipal	Cross River	4.959	8.334	1	
+Ise-Oluwa Close	Ede North	Osun	7.721	4.492	1	
+Eagle Island Road	Obio/Akpor	Rivers	4.794	6.974	1	
+Isaac Boro Expressway	Yenegoa	Bayelsa	4.943	6.343	1	
+Isaac Boro Expressway	Yenegoa	Bayelsa	4.954	6.358	1	
+Isaac Boro Expressway	Yenegoa	Bayelsa	4.907	6.289	1	
+Isaac Boro Expressway	Yenegoa	Bayelsa	4.909	6.296	1	
+Issac-Iboh Ofu Street	Eti Osa	Lagos	6.470	3.575	1	
+Oyo- Iseyin Road	Oyo West	Oyo	7.902	3.805	1	
+Ojude Street/Ise emure road	Ise/Orun	Ekiti	7.457	5.435	1	
+Isoko Road	Ughelli North	Delta	5.492	5.999	1	
+Ishola Solomon St	Kosofe	Lagos	6.620	3.386	1	
+Isokan Street	Alimosho	Lagos	6.650	3.259	1	
+Chief Labi Ishola-Lemomu Street	Eti Osa	Lagos	6.455	3.583	1	
+Isiyaka Rabiu College of Quranic Studies	Gwale	Kano	11.979	8.496	0	
+Ishaga Road	Ifo	Ogun	6.683	3.310	1	
+Chief Israel Udo Street	Eti Osa	Lagos	6.468	3.623	1	
+Ishaga Road	Ifo	Ogun	6.686	3.307	1	
+Ishola Arojojoye Street	Eti Osa	Lagos	6.496	3.587	1	
+Isikan Road	Akure South	Ondo	7.249	5.183	1	
+Banana Island Roundabout	Eti Osa	Lagos	6.463	3.451	1	
+Banana Island Roundabout	Eti Osa	Lagos	6.466	3.453	1	
+Zakari Isah Memorial Hospital	Kaduna North	Kaduna	10.509	7.432	0	
+Iseke Street	Onitsha North	Anambra	6.178	6.785	1	
+Madarasatu Tarbiyyatul Islam	Kaduna North	Kaduna	10.541	7.465	0	
+Baptist Primary School Isemi Ile	Kajola	Oyo	7.990	3.374	0	
+Isemi Ile Town Hall	Kajola	Oyo	7.989	3.372	0	
+ADS Primaryy School Isemi Ile	Kajola	Oyo	7.992	3.375	0	
+Isemi Ile Grammar School	Kajola	Oyo	7.997	3.374	0	
+Mukadasi Isola Street	Oshodi/Isolo	Lagos	6.509	3.316	1	
+Isiolaoyekan Close	Eti Osa	Lagos	6.434	3.418	1	
+King's College "Annex" Victoria Island Campus	Eti Osa	Lagos	6.436	3.427	0	
+Government Junior College Victoria Island	Eti Osa	Lagos	6.433	3.414	0	
+Corona School Victoria Island	Eti Osa	Lagos	6.434	3.413	0	
+Chief Isoken Otone Street	Eti Osa	Lagos	6.478	3.603	1	
+Isa Dan Made Road	Kaduna North	Kaduna	10.515	7.449	1	
+Yusuf Isma'il Road	Kaduna North	Kaduna	10.527	7.453	1	
+Isa Kaita Road	Kaduna North	Kaduna	10.546	7.448	1	
+Hon Isaac Ekene I. Street	Oshimili North	Delta	6.179	6.671	1	
+Victorious Rd, Isekolowo Area, Oyo, Nigeria.	Oyo West	Oyo	7.878	3.928	1	
+Senator Isiaka Adetunji Adeleke Free Way	Osogbo	Osun	7.777	4.544	1	
+Isokun Road	Ilesha West	Osun	7.628	4.742	1	
+Isokun Road	Ilesha West	Osun	7.639	4.745	1	
+Isiaye Drive	Oshimili South	Delta	6.237	6.707	1	
+Isuti Road	Alimosho	Lagos	6.554	3.213	1	
+Isuti Road	Alimosho	Lagos	6.553	3.222	1	
+Lasu-Isheri Road	Ojo	Lagos	6.501	3.199	1	
+Ise Emure-Ikere Road	Ise/Orun	Ekiti	7.455	5.430	1	
+Ago-Iwoye Ishara Remo road	Remo North	Ogun	7.010	3.724	1	
+Ago-Iwoye Ishara Remo road	Remo North	Ogun	6.993	3.682	1	
+Isyaku Nature Street	Ungongo	Kano	12.031	8.594	1	
+Isaac Boro Expressway	Yenegoa	Bayelsa	4.937	6.334	1	
+Baale Isuka Street	Eti Osa	Lagos	6.471	3.648	1	
+Ndidem Usong Iso	Calabar Municipal	Cross River	5.022	8.364	1	
+Olu Ishola Close	Municipal Area Council	FCT Abuja	9.131	7.384	1	
+Isiba Oluwo	Alimosho	Lagos	6.583	3.290	1	
+Lasu-Isheri Road	Alimosho	Lagos	6.567	3.252	1	
+Banana Island School	Eti Osa	Lagos	6.464	3.454	0	
+Lasu-Isheri Road	Alimosho	Lagos	6.531	3.217	1	
+Lasu-Isheri Road	Alimosho	Lagos	6.540	3.223	1	
+Isefun Road	Alimosho	Lagos	6.592	3.225	1	
+Isocare Industries road	Ìkòròdú	Lagos	6.680	3.521	1	
+Nnamdi Isama Crescent	Municipal Area Council	FCT Abuja	9.028	7.458	1	
+Isolo Road	Akure South	Ondo	7.255	5.197	1	
+Ishaga Road	Mushin	Lagos	6.514	3.357	1	
+Ishaga Road	Mushin	Lagos	6.516	3.355	1	
+College of Islamic Theology - Elkanemi	Maiduguri	Borno	11.832	13.113	0	
+Isi Ude Road	Enugu South	Enugu	6.379	7.505	1	
+Isi Ude Road	Enugu South	Enugu	6.375	7.503	1	
+Internal Road. Mopo Isanlu	Yagba East	Kogi	8.264	5.845	1	
+College of Arabic and Islamic Studies	Muhammadu Dikko Stadium	Katsina	12.976	7.601	0	
+Lasu-Isheri Road	Ojo	Lagos	6.521	3.207	1	
+Victoria Island Nursery & Primary School	Eti Osa	Lagos	6.436	3.438	0	
+Zumratul Islamiya Grammar school	Ìkòròdú	Lagos	6.588	3.523	0	
+Lagos Island Maternity Hospital	Lagos Island	Lagos	6.449	3.398	0	
+Isheri Road	Ifo	Ogun	6.639	3.379	1	
+Isheri- Osun Road 2	Alimosho	Lagos	6.513	3.274	1	
+Air Marshal Issac Alpa Road	Municipal Area Council	FCT Abuja	8.975	7.263	1	
+Isheri - Osun Road	Alimosho	Lagos	6.514	3.272	1	
+Isefun Road	Alimosho	Lagos	6.581	3.208	1	
+Olu Ishola Close	Municipal Area Council	FCT Abuja	9.131	7.385	1	
+Anwar ul Islam Primary School	Ìkòròdú	Lagos	6.569	3.593	0	
+Lasu-Isheri Road	Ojo	Lagos	6.486	3.199	1	
+Anwar-ul-Islam Nursery / Primary School, Oniwaya	Agege	Lagos	6.611	3.320	0	
+Anwar-ul-Islam Model College, Agege	Agege	Lagos	6.615	3.320	0	
+Isale Eko Avenue	Eti Osa	Lagos	6.461	3.418	1	
+Isolo General Hospital	Oshodi/Isolo	Lagos	6.528	3.321	0	
+Anwar ul-Islam Girls High School	Ifako/Ijaye	Lagos	6.661	3.295	0	
+Dan Isa Health Post	Rimin Gado	Kano	11.939	8.226	0	
+Isale Osi Primary Health Centre	Ibadan South West	Oyo	7.374	3.891	0	
+Primary Health Center Isawa	Giade	Bauchi	11.557	10.212	0	
+Isaac Boro Expressway	Yenegoa	Bayelsa	4.952	6.354	1	
+State Isolation Centre	Maiduguri	Borno	11.874	13.143	0	
+Isefun Road	Alimosho	Lagos	6.599	3.235	1	
+Warri Island Road	Warri South	Delta	5.514	5.696	1	
+Isheri Road	Ikeja	Lagos	6.635	3.344	1	
+Islamic Village Road	Asa	Kwara	8.467	4.470	1	
+Islamic Village Road	Asa	Kwara	8.461	4.460	1	
+Eagle Island Road	Obio/Akpor	Rivers	4.806	6.976	1	
+Oyo- Iseyin Road	Oyo West	Oyo	7.867	3.875	1	
+Oyo- Iseyin Road	Oyo West	Oyo	7.859	3.889	1	
+Ishiokahia	Ngor-Okpala	Imo	5.299	7.268	2	
+Banana Island	Eti Osa	Lagos	6.460	3.464	2	
+Isa Kaita Road	Kaduna North	Kaduna	10.548	7.463	1	
+Lasu-Isheri Road	Ojo	Lagos	6.464	3.205	1	
+Ifeku Island	Esan South-East	Edo	6.744	6.595	2	
+Islamic Moral International School	Municipal Area Council	FCT Abuja	8.829	7.576	0	
+Isaac Boro Street	Port-Harcourt	Rivers	4.788	7.006	1	
+Isokun Primary Health Center	Oyo West	Oyo	7.847	3.921	0	
+Isieke Street	Enugu North	Enugu	6.440	7.546	1	
+Oyo- Iseyin Road	Oyo West	Oyo	7.853	3.902	1	
+Oyo- Iseyin Road	Oyo West	Oyo	7.847	3.905	1	
+Isa Kaita Road	Kaduna North	Kaduna	10.547	7.466	1	
+Ishiagu Road	Enugu North	Enugu	6.425	7.542	1	
+Ishiagu Road	Enugu South	Enugu	6.417	7.549	1	
+Owutu-Isawo Road	Ìkòròdú	Lagos	6.633	3.483	1	
+IsuNjaba Street	Owerri Municipal	Imo	5.509	7.013	1	
+God Is Able Maternity	Awka South	Anambra	6.168	7.067	0	
+Dan' Isa	Kaura Namoda	Zamfara	12.337	6.761	2	
+Isa North	Isa	Sokoto	13.214	6.393	2	
+Isa South	Isa	Sokoto	13.166	6.386	2	
+Isa	Isa	Sokoto	13.220	6.381	2	
+Isgogo Dago	Zuru	Kebbi	11.520	5.181	2	
+Isuikwuato	Isuikwuato	Abia	5.808	7.470	2	
+Isoko North	Isoko North	Delta	5.521	6.131	2	
+Isoko South	Isoko South	Delta	5.390	6.211	2	
+Ishielu	Ishielu	Ebonyi	6.427	7.844	2	
+Isi-Uzo	Isi-Uzo	Enugu	6.742	7.681	2	
+Isiala-Ngwa North	Isiala-Ngwa North	Abia	5.280	7.442	2	
+Isiala-Ngwa South	Isiala-Ngwa South	Abia	5.386	7.416	2	
+Isu	Isu	Imo	5.687	7.056	2	
+Isiala Mbano	Isiala Mbano	Imo	5.685	7.196	2	
+Isin	Isin	Kwara	8.258	5.039	2	
+Oshodi/Isolo	Oshodi/Isolo	Lagos	6.540	3.312	2	
+Ise/Orun	Ise/Orun	Ekiti	7.421	5.385	2	
+Isokan	Isokan	Osun	7.292	4.197	2	
+Ìsẹ́yìn	Ìsẹ́yìn	Oyo	7.850	3.553	2	
+Isawa	Giade	Bauchi	11.569	10.241	2	
+Lagos Island	Lagos Island	Lagos	6.515	3.491	2	

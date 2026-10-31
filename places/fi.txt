@@ -1,0 +1,422 @@
+So Fine Petrol Station	Agege	Lagos	6.648	3.307	0	
+A/P Filling Station	Ibadan South West	Oyo	7.378	3.855	0	
+Fiega Balargé	Diffa	Borno	13.356	12.752	2	
+Field Point	Bonny	Rivers	4.383	7.134	2	
+Filele	Lokoja	Kogi	7.852	6.724	2	
+Kafin Fulani	Gwaram	Jigawa	11.350	9.733	2	Kafin Filani
+Filinga	Shinkafi	Zamfara	13.065	6.196	2	
+Tudun Fulani	Bosso	Niger	9.667	6.550	2	Tudun Filani
+Filiya	Shongom	Gombe	9.581	11.101	3	
+Allai	Kazaure	Jigawa	12.657	8.576	2	Filla
+Ungwan Tabkin Fili	Isa	Sokoto	13.300	6.702	2	Unguwar Tabkin Fili
+Biri Filani	Nafada	Gombe	10.915	11.270	2	
+Fikka	Kwaya Kusar	Borno	10.434	12.009	2	
+Fier	Pankshin	Plateau	9.405	9.399	2	
+Mai Fillani	Gusau	Zamfara	11.599	6.622	2	
+Sabon Layi Gumafuna Gasi	Shani	Borno	10.152	11.821	2	Guma Fina
+Fitila	Oyo West	Oyo	7.846	3.729	2	
+Filin Jirgi	Sokoto South	Sokoto	13.017	5.267	2	
+Ficheuchi	Paikoro	Niger	9.333	6.517	2	Fichekuchi
+Bawa Dan Firi	Shanga	Kebbi	11.015	4.932	2	
+Inorin Fishing Camp	Warri South	Delta	5.516	5.607	2	
+Finima	Bonny	Rivers	4.406	7.138	2	
+Fingilla	Dandi	Kebbi	11.900	3.779	2	
+Ungwan Fulani	Soba	Kaduna	11.052	8.009	2	Filani
+Fikhayel	Bayo	Borno	10.554	11.618	3	Pikawade
+Firishi	Kalgo	Kebbi	12.312	4.219	2	Hirishi
+Fiabrasite	Ese Odo	Ondo	6.251	4.973	2	
+NNPC Filling Sta	Jos North	Plateau	9.957	8.864	0	
+Oando Filing Station	Jos North	Plateau	9.959	8.876	0	
+MRS filling station	Jos North	Plateau	9.959	8.879	0	
+Ascon Filling Station	Ikpoba-Okha	Edo	6.330	5.635	0	
+Mobil Filling Station	Ikpoba-Okha	Edo	6.334	5.635	0	
+Filling Station	Ifelodun	Kwara	8.267	4.800	0	
+Firm Foundation Adult Education Center	Oredo	Edo	6.336	5.632	0	
+Mrs Filling Station	Nassarawa	Kano	11.978	8.565	0	
+Oando Filling Station	Oredo	Edo	6.330	5.595	0	
+Tanyi Filling Station	Oredo	Edo	6.329	5.591	0	
+Conoil Filling Station	Oredo	Edo	6.335	5.622	0	
+MRS Filling Station	Oredo	Edo	6.346	5.629	0	
+Mobil Filling Station	Oredo	Edo	6.342	5.634	0	
+Oando Filling Station	Oredo	Edo	6.343	5.634	0	
+Hydret Filling Station	Oredo	Edo	6.350	5.621	0	
+josudum Filling Station	Oredo	Edo	6.339	5.618	0	
+First Holistic Health Physiotherapy Clinic	Enugu North	Enugu	6.426	7.495	0	
+First Choice Specialist Clinic	Enugu North	Enugu	6.437	7.505	0	
+Oko-Filling	Alimosho	Lagos	6.566	3.251	0	
+Conoil Filling Station	Muhammadu Dikko Stadium	Katsina	12.985	7.601	0	
+MRS Filling Station	Muhammadu Dikko Stadium	Katsina	12.985	7.601	0	
+A.A. Rano Filling Station	Muhammadu Dikko Stadium	Katsina	12.984	7.602	0	
+Oando Filling Station	Muhammadu Dikko Stadium	Katsina	12.983	7.603	0	
+Oando Filling Station	Muhammadu Dikko Stadium	Katsina	12.987	7.600	0	
+Mobil Filling Station	Muhammadu Dikko Stadium	Katsina	12.987	7.600	0	
+Fima	Kala-Balge	Borno	12.375	14.336	2	
+Kappan Filling Station	Ibadan South East	Oyo	7.359	3.914	0	
+Anetosh Global Ltd. Filling Station	Ibadan South East	Oyo	7.356	3.919	0	
+Kicks Filling Station	Ibadan South East	Oyo	7.342	3.907	0	
+mol mutlad filling stations	Ibadan North	Oyo	7.380	3.899	0	
+Total Filling Station	Ibadan North West	Oyo	7.389	3.893	0	
+Tunbun Fitinewa	Kukawa	Borno	13.339	13.857	2	
+Filin Jirgi	Biu	Borno	10.582	12.208	2	Pompomari
+Filu Gana	Mafa	Borno	12.249	13.337	2	
+Filu Kura	Mafa	Borno	12.247	13.350	2	
+Fika	Kwaya Kusar	Borno	10.341	11.894	2	
+Fika	Bayo	Borno	10.369	11.818	2	
+Kwgulathu Fis	Hawul	Borno	10.434	12.547	2	
+Fika Kuthi Yamta	Kwaya Kusar	Borno	10.434	12.012	2	
+Fikka Fulani	Kwaya Kusar	Borno	10.436	12.009	2	
+Firkuthi	Hawul	Borno	10.322	12.074	2	
+Fika Abba	Kwaya Kusar	Borno	10.571	11.902	2	
+Fika Bayu	Kwaya Kusar	Borno	10.563	11.911	2	
+Fika Danchiwa	Kwaya Kusar	Borno	10.570	11.917	2	
+Fiwasaye Grammar School	Akure South	Ondo	7.255	5.197	0	
+Fishingo	Biu	Borno	10.877	12.223	2	
+Total Filling Station	Kano Municipal	Kano	11.967	8.530	0	
+CLINIQUE FIFATIN	Ipokia	Ogun	6.646	2.744	0	
+Mobil Filling Station	Port-Harcourt	Rivers	4.816	7.009	0	
+Poplat filling station	Ile Oluji/Okeigbo	Ondo	7.166	4.728	0	
+Oando Filling Station	Enugu South	Enugu	6.418	7.510	0	
+Anchor Filling Station	Enugu North	Enugu	6.428	7.494	0	
+Mobil Filling Station	Enugu North	Enugu	6.428	7.494	0	
+Dewa Fide	Diffa	Borno	13.414	12.814	2	
+point five wuro yolde, Gombe Div.	Kwami	Gombe	10.338	11.185	2	
+point five Gidim Dona Div.	Yamaltu/Deba	Gombe	10.280	11.219	2	
+Total Filling Station	Sabon Gari	Kaduna	11.104	7.721	0	
+Azman filling station Nyanya	Municipal Area Council	FCT Abuja	9.028	7.579	0	
+Oando Filling Station	Eleme	Rivers	4.790	7.111	0	
+Kimiowe Filling Station	Kolokuma/Opokuma	Bayelsa	5.121	6.296	0	
+Total Filling Station	Warri South	Delta	5.532	5.740	0	
+NNPC Filling Station	Uvwie	Delta	5.548	5.778	0	
+Senior Staff Cop Filling Station	Warri South	Delta	5.545	5.744	0	
+Martrix Filling Station	Warri South	Delta	5.533	5.742	0	
+Mobil Filling Station	Uvwie	Delta	5.548	5.780	0	
+Forte Oil Filling Station	Uvwie	Delta	5.548	5.780	0	
+FORMAS Filling Station	Uvwie	Delta	5.541	5.778	0	
+Kinmason Pet Filling Station	Uvwie	Delta	5.544	5.769	0	
+Ayenayeri Filling Station	Uvwie	Delta	5.542	5.766	0	
+Eki 1 Global Energy Filling Station	Ughelli North	Delta	5.552	5.912	0	
+JVT Oil gas filling Station	Ughelli North	Delta	5.511	5.990	0	
+Delta Gasoline Filling Station	Uvwie	Delta	5.571	5.809	0	
+Keljos and Philnas filling Station	Ughelli North	Delta	5.504	6.020	0	
+NNPC Filling Station	Uvwie	Delta	5.562	5.769	0	
+Oando Filling Station	Uvwie	Delta	5.549	5.780	0	
+Aribet Ventures Filling Station	Uvwie	Delta	5.569	5.777	0	
+Rank Oil and Gas Filing Station	Uvwie	Delta	5.562	5.785	0	
+Wilmas Filling Station	Uvwie	Delta	5.569	5.775	0	
+AP Filling Station	Uvwie	Delta	5.569	5.784	0	
+Total Filling Station	Uvwie	Delta	5.568	5.785	0	
+NNPC Filling Station	Uvwie	Delta	5.569	5.728	0	
+TEA Filling Station	Uvwie	Delta	5.565	5.763	0	
+Chi Tim Filling Station	Uvwie	Delta	5.569	5.728	0	
+Ascon Filling Station	Uvwie	Delta	5.565	5.758	0	
+Conoil Filling Station	Uvwie	Delta	5.573	5.788	0	
+Awenode Filling Station	Uvwie	Delta	5.560	5.793	0	
+Tezinos Oil Filling Station	Uvwie	Delta	5.562	5.768	0	
+Cumono Ventures  Filling Station	Uvwie	Delta	5.562	5.748	0	
+Vic and CC Pet. Filling Station	Okpe	Delta	5.600	5.697	0	
+Supasa Oil and Gas Filling Station	Okpe	Delta	5.598	5.702	0	
+Godstime Pet. Filling Station	Uvwie	Delta	5.562	5.744	0	
+French Joga Nig. Ltd Filling Station	Uvwie	Delta	5.569	5.744	0	
+FORMAS Filling Station	Uvwie	Delta	5.564	5.755	0	
+NELMIC Filling Station	Uvwie	Delta	5.569	5.735	0	
+Jebale Pet. and Gas Filling Station	Uvwie	Delta	5.571	5.724	0	
+Fegor Filling Station	Uvwie	Delta	5.584	5.712	0	
+St. Luke Pet. Ltd. Filling Station	Uvwie	Delta	5.559	5.776	0	
+NELMIC Filling Station	Uvwie	Delta	5.546	5.773	0	
+Kobay Ventures Filling Station	Uvwie	Delta	5.569	5.743	0	
+Joceco Filling Station	Uvwie	Delta	5.566	5.744	0	
+Pet and Gas Filling Station	Yenegoa	Bayelsa	4.937	6.333	0	
+NNPC Filling Station	Yenegoa	Bayelsa	5.018	6.396	0	
+Tamic Nig.Ltd Filling Station	Yenegoa	Bayelsa	4.931	6.324	0	
+NNPC Filling Station	Yenegoa	Bayelsa	4.927	6.320	0	
+Emily and Gas Filling Station	Yenegoa	Bayelsa	4.923	6.314	0	
+Jovero Filling Station	Yenegoa	Bayelsa	4.926	6.319	0	
+Kofaben Intl Filling Station	Yenegoa	Bayelsa	4.922	6.314	0	
+Kobison Oil Filling Station	Yenegoa	Bayelsa	4.923	6.314	0	
+KOFABEN Intl Filling Station	Yenegoa	Bayelsa	4.938	6.313	0	
+Patcey Oil Filling Station	Yenegoa	Bayelsa	4.943	6.343	0	
+Tadaerigha Ventures Filling Station	Yenegoa	Bayelsa	4.940	6.338	0	
+Watgo Petroleum Filling Station	Yenegoa	Bayelsa	4.947	6.349	0	
+TAMIC Filling Station	Yenegoa	Bayelsa	4.953	6.344	0	
+South South Oil and gas Filling Station	Yenegoa	Bayelsa	4.952	6.356	0	
+FINAPS	Yenegoa	Bayelsa	4.951	6.346	0	
+Jezco Filling Station	Ahoada West	Rivers	5.066	6.446	0	
+Paudsiman Filling Station	Yenegoa	Bayelsa	4.948	6.333	0	
+Ido Oil Filling Station	Yenegoa	Bayelsa	4.946	6.330	0	
+UnlessGod Filling Station	Yenegoa	Bayelsa	4.947	6.331	0	
+NNPC Filling Station	Yenegoa	Bayelsa	4.956	6.360	0	
+A. A. Rano Filling Station	Uvwie	Delta	5.551	5.782	0	
+Pato Ohis Filling Station	Uvwie	Delta	5.541	5.783	0	
+Kobay Filling Station, Warri	Warri South	Delta	5.529	5.723	0	
+Manz Petrol Filling Station	Uvwie	Delta	5.565	5.761	0	
+Chit-Lish Filling Station	Uvwie	Delta	5.566	5.760	0	
+Borosa Filling Station	Uvwie	Delta	5.565	5.760	0	
+CVC Filling Station	Uvwie	Delta	5.569	5.738	0	
+Ogale Nig. Filling Station	Udu	Delta	5.496	5.796	0	
+Amefua Investment Filling Station	Uvwie	Delta	5.536	5.759	0	
+Admuscon Filling Station	Warri South	Delta	5.520	5.756	0	
+Bonosik Oil and Gas Filling Station	Uvwie	Delta	5.534	5.762	0	
+Pagson Motors Filling Station	Uvwie	Delta	5.542	5.755	0	
+Asolyn Filling Station	Uvwie	Delta	5.541	5.754	0	
+Benjones Filling Station	Warri South	Delta	5.534	5.760	0	
+New Citizen Filling Station	Uvwie	Delta	5.552	5.744	0	
+Aghofure Filling Station	Ughelli North	Delta	5.577	5.878	0	
+Bobby Filling Station	Obio/Akpor	Rivers	4.855	6.973	0	
+Chelsea Filling Station	Obio/Akpor	Rivers	4.828	7.063	0	
+Total Filling Station	Port-Harcourt	Rivers	4.813	7.044	0	
+YKC Filling Station	Port-Harcourt	Rivers	4.822	7.054	0	
+BSNNICC Filling Station	Obio/Akpor	Rivers	4.829	7.063	0	
+Ochet Oil Filling Station	Obio/Akpor	Rivers	4.828	7.064	0	
+Hydropet Filling Station	Obio/Akpor	Rivers	4.850	7.054	0	
+Sobaz Filling Station	Obio/Akpor	Rivers	4.865	7.056	0	
+NNPC Filling Station	Obio/Akpor	Rivers	4.836	7.085	0	
+MRS Filling Station	Obio/Akpor	Rivers	4.836	7.026	0	
+Avina Filling Station	Obio/Akpor	Rivers	4.854	7.063	0	
+Total Filling Station	Obio/Akpor	Rivers	4.845	7.041	0	
+Total Filling Station	Obio/Akpor	Rivers	4.839	7.029	0	
+MRS Filling Station	Obio/Akpor	Rivers	4.844	7.039	0	
+Liquid Bulk Filling Station	Obio/Akpor	Rivers	4.853	7.062	0	
+Total Filling Station	Obio/Akpor	Rivers	4.851	7.058	0	
+Propel Filling Station	Obio/Akpor	Rivers	4.835	7.034	0	
+Eterna Filling Station	Obio/Akpor	Rivers	4.825	7.039	0	
+Forte Oil Filling Station	Obio/Akpor	Rivers	4.848	7.049	0	
+Stark Filling Station	Obio/Akpor	Rivers	4.848	7.064	0	
+Mobil Filling Station	Obio/Akpor	Rivers	4.837	7.036	0	
+NNPC Filling Station	Port-Harcourt	Rivers	4.819	7.051	0	
+Tani-Tobi Filling Station	Obio/Akpor	Rivers	4.843	7.041	0	
+Propel Filling Station	Obio/Akpor	Rivers	4.851	7.060	0	
+Pamel Enterprise Filling Station	Obio/Akpor	Rivers	4.873	6.962	0	
+CGC Ventures Filling Station	Obio/Akpor	Rivers	4.870	6.981	0	
+Mobil Filling Station	Yenegoa	Bayelsa	5.016	6.395	0	
+Sobaz Filling Station	Yenegoa	Bayelsa	4.992	6.378	0	
+Robor Energy Filling Station	Ughelli North	Delta	5.495	6.015	0	
+Colizo Filling Station	Ughelli North	Delta	5.402	6.058	0	
+Filling Station	Yenegoa	Bayelsa	5.032	6.402	0	Tony's Filling Station
+Wilmas Filling Station	Ughelli North	Delta	5.479	6.019	0	
+Livelong Filling Station	Uvwie	Delta	5.560	5.793	0	
+Falcon Bay Oil Filling Station	Uvwie	Delta	5.573	5.800	0	
+Matrix Filling Station	Uvwie	Delta	5.569	5.798	0	
+Filling Station	Obio/Akpor	Rivers	4.853	7.062	0	
+Danny Peace Filling Station	Yenegoa	Bayelsa	5.014	6.393	0	
+Turare Filling station	Muhammadu Dikko Stadium	Katsina	12.990	7.586	0	
+Dominion Oil Filling Station	Okpe	Delta	5.601	5.694	0	
+Otueyal Filling Station	Yenegoa	Bayelsa	5.030	6.402	0	
+Total Filling Station	Warri South	Delta	5.529	5.747	0	
+FE and S Filling Station	Udu	Delta	5.507	5.814	0	
+Foyal Filling Station	Uvwie	Delta	5.527	5.774	0	
+Mobil	Uvwie	Delta	5.528	5.774	0	Mobil  Filling Station
+First view Schools	Udu	Delta	5.508	5.832	0	West view Schools
+Itaigho Ventures Filling Station	Udu	Delta	5.508	5.827	0	
+Vwede Filling Station	Udu	Delta	5.509	5.827	0	
+Matrix Filling Station	Udu	Delta	5.497	5.794	0	
+Ovoh Filling Station	Uvwie	Delta	5.528	5.781	0	
+Conoil  Filling Station	Udu	Delta	5.499	5.792	0	
+Choilee Filling Station	Udu	Delta	5.506	5.813	0	
+Just One Filling Station	Obio/Akpor	Rivers	4.858	6.968	0	
+Ummodah filling station	Billiri	Gombe	9.910	11.217	0	
+MA Filling Station	Uvwie	Delta	5.580	5.831	0	
+Alade Global Filling Station	Ogbomosho North	Oyo	8.123	4.225	0	
+Emaayo Filling Station	Ogbomosho North	Oyo	8.129	4.233	0	
+Bovas Filling Station	Ogbomosho North	Oyo	8.136	4.237	0	
+ATP Filling Station	Ogbomosho North	Oyo	8.142	4.246	0	
+Total Filling Station	Ogbomosho North	Oyo	8.135	4.219	0	
+Fisherman Trade	Port-Harcourt	Rivers	4.774	7.025	2	
+A. A. Rano filling Station	Kaduna North	Kaduna	10.594	7.450	0	
+Mobil Filling Station	Bauchi	Bauchi	10.320	9.822	0	
+Gsu filling station	Gombe	Gombe	10.303	11.171	0	
+AYR filling station	Akko	Gombe	10.257	11.185	0	
+Kamhan filling station	Yamaltu/Deba	Gombe	10.278	11.268	0	
+A Y M Shafa filling station liji cross	Yamaltu/Deba	Gombe	10.277	11.230	0	
+Modibbo filling station	Yamaltu/Deba	Gombe	10.277	11.280	0	
+Sadiqu shehu and sons filling station	Yamaltu/Deba	Gombe	10.278	11.267	0	
+Alhaji Ibrahim G Abdulkarim filling station	Yamaltu/Deba	Gombe	10.277	11.257	0	
+Oando filling station	Yamaltu/Deba	Gombe	10.277	11.236	0	
+Total filling station liji	Yamaltu/Deba	Gombe	10.277	11.230	0	
+NNPC filling station	Akko	Gombe	10.275	11.210	0	
+Liquid power filling station BCJ	Gombe	Gombe	10.278	11.199	0	
+Bandirawo filling station	Yamaltu/Deba	Gombe	10.277	11.281	0	
+MRS filing station	Akko	Gombe	10.292	11.065	0	
+Energium filling station	Ojo	Lagos	6.462	3.167	0	
+Firmitsi	Ajingi	Kano	11.892	9.123	2	
+Fidalami Zanguwar Kanawa	Gaya	Kano	11.738	9.005	2	
+Fita Gabas	Takai	Kano	11.478	9.065	2	
+Fita Arewa	Takai	Kano	11.478	9.063	2	
+Sabon Fili	Sumaila	Kano	11.531	8.947	2	
+Fiyaran	Rano	Kano	11.631	8.669	2	
+Fiyaran	Rano	Kano	11.627	8.633	2	
+Unguwar Findi	Rano	Kano	11.558	8.582	3	
+Mobil Filling Station	Ikpoba-Okha	Edo	6.321	5.637	0	
+Fiwasaye Girls' Grammar School	Akure North	Ondo	7.258	5.219	0	
+Prudent Child First School	Enugu North	Enugu	6.468	7.492	0	
+Kimiowei Filling Station	Yenegoa	Bayelsa	4.934	6.285	0	
+Barbizon Filling Station	Eleme	Rivers	4.825	7.081	0	
+King Pearl's Learning Field, Elelenwo	Eleme	Rivers	4.826	7.082	0	
+Sede Filling Station	Eleme	Rivers	4.825	7.081	0	
+NNPC Mega Filling Station	Yenegoa	Bayelsa	4.910	6.295	0	
+Filling Station	Sagbama	Bayelsa	5.165	6.206	0	
+first african church mission school ii adenrele ifo	Ifo	Ogun	6.808	3.193	0	
+First Anglican Church Mission Central School, Olowu	Ifo	Ogun	6.812	3.246	0	
+First African Church Mission School, Ibaragun	Ìjẹ̀bú Òde	Ogun	6.811	3.913	0	
+First African Church Mission School I Adenrele Ifo	Ifo	Ogun	6.811	3.192	0	
+First African Church Mission School Iii, Aderenle	Shagamu	Ogun	6.847	3.655	0	
+First African Church Mission School Iii, Aderenle	Ifo	Ogun	6.811	3.192	0	
+First African Church Mission School, Ibaragun	Ifo	Ogun	6.762	3.326	0	
+First Anglican Church Mission Central School, Olowu	Ifo	Ogun	6.760	3.107	0	
+AP filling Station	Iwo	Osun	7.635	4.180	0	
+Filin A'uzu	Abadam	Borno	13.549	13.744	2	
+Total Filling Station	Olorunsogo	Oyo	8.748	4.133	0	
+Bovas filling station Gamajigo	Jos North	Plateau	9.980	8.849	0	
+G. 9 First Healthcare Clinic	Jos North	Plateau	9.925	8.916	0	
+A-l zira filling station	Jos North	Plateau	9.960	8.870	0	
+Shafa filling station	Jos North	Plateau	9.953	8.878	0	
+Total Filling Station	Shagamu	Ogun	6.857	3.630	0	
+Total Filling Station	Eti Osa	Lagos	6.473	3.625	0	
+AYM Shafa filling station	Gwale	Kano	11.986	8.481	0	
+Glofes Filling Station	Akure South	Ondo	7.308	5.139	0	Glofes Filling StationmC
+madarasatul Alaramma malan gambo littah fizzul Quran	Gombe	Gombe	10.289	11.159	0	
+Firdji CDS	Jibia	Katsina	13.115	7.284	2	
+Firdji	Jibia	Katsina	13.111	7.283	2	
+Filling Station	Ejigbo	Osun	7.829	4.135	0	
+Isbra Filling Station	Ejigbo	Osun	7.826	4.126	0	
+Al Fijir Clinics	Kaduna South	Kaduna	10.502	7.387	0	
+Beside Startech Filing Station Kakau	Chikun	Kaduna	10.380	7.397	0	
+General Hospital Sabon Tasha Firoro Road Uboro Sabon Tasha Kaduna	Chikun	Kaduna	10.451	7.469	0	
+First Wave Medical Center	Alimosho	Lagos	6.646	3.271	0	
+Mountain Of Fire Hospital	Mushin	Lagos	6.508	3.329	0	
+First Next Level Academy	Akure South	Ondo	7.292	5.150	0	
+Levan Hospital First Avenue G Close Festac Town	Amuwo Odofin	Lagos	6.470	3.296	0	
+Firstline Hospital Festac	Amuwo Odofin	Lagos	6.463	3.284	0	
+NNPC Filling Station	Iwo	Osun	7.641	4.166	0	
+See Bee Filling Station	Iwo	Osun	7.651	4.171	0	
+Adebayo Filling Station	Ejigbo	Osun	7.899	4.312	0	
+Afazib Filling Station	Ejigbo	Osun	7.898	4.311	0	
+Ramos Balo Filling Station	Ejigbo	Osun	7.896	4.317	0	
+Jim-Ris Filling Station	Iwo	Osun	7.653	4.207	0	
+First winner's nursery & primary school	Alimosho	Lagos	6.530	3.232	0	
+Filling Station	Kosofe	Lagos	6.609	3.423	0	
+FIRST CLASS CLINIC AND MATERNITY	Gwale	Kano	11.963	8.480	0	
+TFK filling station	Alimosho	Lagos	6.528	3.236	0	
+Fidelity filling station	Alimosho	Lagos	6.528	3.238	0	
+Fika	Fika	Yobe	11.285	11.312	3	Fike
+Ijaw Fishing Camp	Burutu	Delta	5.441	5.311	2	
+Obbo fish and pork, Obo Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.481	4.561	0	
+Energy filling station, Basin Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.595	0	
+Total comfort filling station, Agbabiaka Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.463	4.588	0	
+OANDO Filling Station. Adewole, Ilorin	Ilorin West	Kwara	8.479	4.519	0	
+Nowas Filling Station	Enugu East	Enugu	6.482	7.501	0	
+Fire Service	Enugu North	Enugu	6.459	7.510	0	
+Ifo Field	Enugu East	Enugu	6.482	7.538	0	
+fiki marine (victoria island)	Eti Osa	Lagos	6.439	3.425	0	
+Fiki Marine (VI)	Eti Osa	Lagos	6.439	3.425	0	
+first gate (tin can island)	Apapa	Lagos	6.435	3.343	0	
+Five Cowries/Falomo (VI)	Eti Osa	Lagos	6.442	3.427	0	
+Fisas Junction	Municipal Area Council	FCT Abuja	8.944	7.324	0	
+Mobil Filling Station - Mabushi Abuja	Municipal Area Council	FCT Abuja	9.086	7.457	0	
+Finance Bridge	Municipal Area Council	FCT Abuja	9.056	7.498	0	
+Finance Bridge Bus Stop	Municipal Area Council	FCT Abuja	9.057	7.499	0	
+Wuse General Hospital First Gate Bus Stop	Municipal Area Council	FCT Abuja	9.062	7.468	0	
+Total Filling Station	Mushin	Lagos	6.512	3.359	0	
+Fiddle Commercial Avenue	Port-Harcourt	Rivers	4.803	7.032	1	
+Fijabi Street	Ibadan South West	Oyo	7.376	3.894	1	
+First Erie Lane	Oredo	Edo	6.329	5.630	1	
+First Ire Street	Oredo	Edo	6.344	5.616	1	
+First Ofumwengbe lane	Oredo	Edo	6.346	5.608	1	
+Mobil Filling Station	Oredo	Edo	6.338	5.615	0	
+MRS Filling Station	Oredo	Edo	6.338	5.612	0	
+Mobil Filling Station	Ibadan South East	Oyo	7.343	3.878	0	
+Finbarr road	Shomolu	Lagos	6.535	3.392	1	
+Fifth Lane	Surulere	Lagos	6.497	3.372	1	
+Fisher Street	Agege	Lagos	6.610	3.321	1	
+Josephine Fingesi Street	Eti Osa	Lagos	6.447	3.458	1	
+O. P. Fingesi Street	Municipal Area Council	FCT Abuja	9.068	7.437	1	
+Adamu Fika Street	Municipal Area Council	FCT Abuja	9.076	7.400	1	
+fire service road	Jos North	Plateau	9.925	8.888	1	
+Finance Road	Ifako/Ijaye	Lagos	6.639	3.321	1	
+First East Circular	Ikpoba-Okha	Edo	6.331	5.635	1	
+girgiri filling station	Maiduguri	Borno	11.849	13.142	1	
+Fire Service Road	Enugu South	Enugu	6.418	7.487	1	
+First Avenue	Enugu North	Enugu	6.451	7.514	1	
+Chief Fidelis Nnaji Street	Enugu East	Enugu	6.510	7.503	1	
+Chief Fidelix Oya Drive	Enugu East	Enugu	6.504	7.525	1	
+Firebird Way	Enugu North	Enugu	6.437	7.538	1	
+First Metrodame Close	Enugu North	Enugu	6.435	7.490	1	
+Fidelis U.Ezeugwu Street	Enugu North	Enugu	6.472	7.485	1	
+De Fire Nanka Street	Oshodi/Isolo	Lagos	6.492	3.294	1	
+Fijabi Street	Ìkòròdú	Lagos	6.628	3.478	1	
+Premier Filling Station	Tarauni	Kano	11.973	8.534	0	
+Mutum Daya to Filiya Road	Karim Lamido	Gombe	9.524	10.966	1	
+Tunde Fisayo Street	Eti Osa	Lagos	6.445	3.479	1	
+Under Five Clinic	Jama'Are	Bauchi	11.665	9.933	0	
+Protek Filling Station	Ibadan South East	Oyo	7.360	3.890	0	
+First Avenue	Eti Osa	Lagos	6.452	3.530	1	
+MRS Filling Station	Municipal Area Council	FCT Abuja	8.991	7.397	0	
+Epe Fish Market	Epe	Lagos	6.583	3.991	0	
+Finbars Road	Umuahia North	Abia	5.530	7.498	1	
+Finbars Road	Umuahia North	Abia	5.523	7.498	1	
+MRS Filling Station	Tarauni	Kano	11.973	8.534	0	
+Fiongha Jephthah Road	Yenegoa	Bayelsa	4.928	6.312	1	
+Fiwasaye Road	Akure North	Ondo	7.272	5.216	1	
+Fibigbade Street	Ijebu North	Ogun	6.941	3.909	1	
+Spring Field Estate	Eti Osa	Lagos	6.486	3.596	1	
+Fiwakesin Street	Alimosho	Lagos	6.640	3.253	1	
+First Avenue	Ado Odo/Ota	Ogun	6.690	3.279	1	
+Fifth Avenue	Ado Odo/Ota	Ogun	6.693	3.277	1	
+AP Filling Station	Akure North	Ondo	7.281	5.223	0	
+AP Filling Station	Obio/Akpor	Rivers	4.894	6.915	0	
+Gamag Filling Station	Obio/Akpor	Rivers	4.876	6.913	0	
+Glorious flow filling station	Obio/Akpor	Rivers	4.876	6.915	0	
+First Gate	Akure North	Ondo	7.258	5.247	1	
+School field	Obio/Akpor	Rivers	4.884	6.904	0	
+Fiddle Commercial Avenue	Port-Harcourt	Rivers	4.803	7.035	1	
+BUK First Gate	Gwale	Kano	11.979	8.474	1	
+New Finima Road	Bonny	Rivers	4.398	7.162	1	
+Five Cowries Terminal	Eti Osa	Lagos	6.442	3.427	0	Falomo Ferry Terminal
+Total Filling Station	Muhammadu Dikko Stadium	Katsina	12.975	7.597	0	
+Mutum Daya to Filiya Road	Billiri	Gombe	9.809	11.165	1	
+Mutum Daya to Filiya Road	Billiri	Gombe	9.784	11.146	1	
+Mutum Daya to Filiya Road	Billiri	Gombe	9.751	11.142	1	
+Mutum Daya to Filiya Road	Billiri	Gombe	9.874	11.199	1	
+Mutum Daya to Filiya Road	Shongom	Gombe	9.662	11.120	1	
+Mutum Daya to Filiya Road	Billiri	Gombe	9.714	11.145	1	
+Amazing Filling Station	Ibadan South East	Oyo	7.346	3.885	0	
+Karage Filling Station	Ejigbo	Osun	7.907	4.315	0	
+First Avenue	Ovia North-East	Edo	6.448	5.601	1	
+road in the fields	Lavun	Niger	9.661	5.325	1	
+road in the fields	Lavun	Niger	9.665	5.324	1	
+road in the fields	Mashegu	Niger	9.669	5.282	1	
+road in the fields	Lavun	Niger	9.743	5.487	1	
+Conoil Filling Station	Municipal Area Council	FCT Abuja	8.959	7.498	0	
+St Paul School I Field	Southern Ijaw	Bayelsa	4.718	5.945	0	
+First KKTJ	Ìkòròdú	Lagos	6.663	3.518	0	
+Chong Fi Petroleum	Ìkòròdú	Lagos	6.634	3.484	0	
+NNPC filing station	Alimosho	Lagos	6.577	3.283	0	
+Gwale Filin Mushe Maternal and Child Care	Gwale	Kano	11.986	8.504	0	
+Federal College of Fisheries and Marine Technology	Eti Osa	Lagos	6.421	3.412	0	
+Under Five Clinic	Bauchi	Bauchi	10.302	9.840	0	
+Collakins Filling Station	Shagamu	Ogun	6.700	3.511	0	
+Mobil Filling Station	Akure North	Ondo	7.258	5.221	0	
+Funky filling station	Akure North	Ondo	7.282	5.216	0	
+Nassarawo Demsa Peraonal Base Finance Health Facilities Demsa	Numan	Adamawa	9.452	12.046	0	
+Private Patient Medical Store Filingo	Fufore	Adamawa	9.311	12.892	0	
+Afbope filling station	Shagamu	Ogun	6.694	3.513	0	
+Faith Field Academy	Municipal Area Council	FCT Abuja	8.989	7.427	0	
+New Finima Road	Bonny	Rivers	4.408	7.187	1	
+AP Filling Station	Municipal Area Council	FCT Abuja	9.068	7.404	0	
+First Ekogiawe Street	Ovia North-East	Edo	6.422	5.613	1	
+Opi High School Opi	Nsukka	Enugu	6.762	7.433	0	First High School
+BASSACO Filling Station	Jos North	Plateau	9.859	8.866	0	
+Sherma filling station	Municipal Area Council	FCT Abuja	9.017	7.427	0	
+AFDIN filling station	Municipal Area Council	FCT Abuja	9.030	7.437	0	
+Nana Firdausi Plaza	Gusau	Zamfara	12.170	6.676	0	
+First Class Grammar School	Egbedore	Osun	7.777	4.527	0	
+Moye Filling Station	Osogbo	Osun	7.783	4.528	0	
+First Mercy Specialist Hospital	Akure South	Ondo	7.253	5.183	0	
+Mutum Daya to Filiya Road	Shongom	Gombe	9.634	11.093	1	
+Mutum Daya to Filiya Road	Shongom	Gombe	9.610	11.095	1	
+Collins Figbele Crescent	Ughelli South	Delta	5.511	5.860	1	
+Fika Anze	Fika	Yobe	11.271	11.333	2	
+Firji	Gwiwa	Jigawa	12.750	8.393	2	
+Koko Firchin	Koko-Besse	Kebbi	11.420	4.484	2	
+Firchin	Jega	Kebbi	12.249	4.365	2	
+Fikhayel	Bayo	Borno	10.516	11.626	2	
+Fika	Fika	Yobe	11.321	11.273	2	

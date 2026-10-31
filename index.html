@@ -126,7 +126,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 <div class="panel">
 <h3><span data-ic="map-pin"></span>Where are you?</h3>
 <button class="btn s" id="loc"><span data-ic="locate"></span>Use my location</button>
-<input type="search" id="town" placeholder="Or search a Nigerian town, e.g. Kano" autocomplete="off" aria-label="Search your town">
+<input type="search" id="town" placeholder="Or search your town or area in Nigeria" autocomplete="off" aria-label="Search your town or area">
 <div class="results" id="results"></div>
 <div class="note" id="locmsg" aria-live="polite"></div>
 <p class="or">Or set the reading yourself</p>
@@ -152,7 +152,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 <div class="panel" id="terms"></div>
 </section>
 
-<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0). Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors.<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
@@ -421,19 +421,83 @@ $("loc").onclick=()=>{
   track("location",{ok:"granted"});loadPlace({name,lat,lon},false,"gps");
  },()=>{track("location",{ok:"denied"});$("locmsg").textContent="Couldn’t get your location. Allow location for this site, or search your town instead."},{timeout:15000,maximumAge:600000});
 };
-// Town search, Nigerian towns only.
+// Place search, Nigeria only, from three sources merged. Our own list (places/, OpenStreetMap
+// names built by tools/build_places.py) answers at once and needs no outside service. Open-Meteo
+// and Photon add to it when they respond. Nominatim is a backup, but its rules forbid
+// search-as-you-type, so it only runs on Enter or a tap.
+const timed=(url,ms)=>{const c=new AbortController(),t=setTimeout(()=>c.abort(),ms);
+ return fetch(url,{signal:c.signal}).then(r=>{if(!r.ok)throw 0;return r.json()}).finally(()=>clearTimeout(t))};
+const uniq=a=>a.filter((x,i)=>x&&a.indexOf(x)===i);
+const stateName=x=>{const n=String(x||"").replace(/ State$/,"");return n==="FCT"||n==="Federal Capital Territory"?"FCT Abuja":n};
+// Lower case without tone marks, so Ògbómọ̀ṣọ́ and Ogbomoso match.
+const norm=s=>String(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
+const wordsOf=s=>norm(s).split(/[^a-z0-9]+/).filter(Boolean);
+const shardCache={};
+function loadShard(k){return shardCache[k]||(shardCache[k]=(async()=>{
+ const r=await fetch("places/"+k+".txt");if(r.status===404)return [];if(!r.ok)throw 0;
+ return (await r.text()).split("\n").filter(Boolean).map(l=>{const [name,area,state,lat,lon,kind,alts]=l.split("\t");
+  return {name,area,state,lat:+lat,lon:+lon,kind:Math.min(+kind,2),big:kind==="3",alts,words:wordsOf(name+" "+alts),where:wordsOf(area+" "+state)}})
+})().catch(e=>{delete shardCache[k];throw e}))}
+// Spelling slips: one wrong letter in a short word, two in a long one.
+function closeTo(a,b){const lim=b.length>=8?2:1;if(b.length<4||Math.abs(a.length-b.length)>lim)return false;
+ let p=[...Array(b.length+1).keys()];for(let i=1;i<=a.length;i++){const c=[i];for(let j=1;j<=b.length;j++)c[j]=Math.min(p[j]+1,c[j-1]+1,p[j-1]+(a[i-1]===b[j-1]?0:1));p=c}
+ return p[b.length]<=lim}
+async function findOwn(q){
+ const ws=wordsOf(q);if(!ws.length)return [];
+ const lists=await Promise.all(uniq(ws.filter(w=>w.length>=2).map(w=>w.slice(0,2))).map(loadShard));
+ const rows=[...new Set(lists.flat())],all=w=>r=>r.words.some(x=>x.startsWith(w))||r.where.some(x=>x.startsWith(w));
+ const hit=rows.filter(r=>ws.every(w=>all(w)(r)));if(hit.length)return hit;
+ return rows.filter(r=>ws.every(w=>all(w)(r)||r.words.some(x=>closeTo(x,w))))}
+async function findOpenMeteo(q){
+ const j=await timed("https://geocoding-api.open-meteo.com/v1/search?count=10&language=en&countryCode=NG&name="+encodeURIComponent(q.split(",")[0].trim()),5000);
+ return (j.results||[]).filter(x=>x.country_code==="NG").map(x=>({name:x.name,area:x.admin2,state:x.admin1,lat:x.latitude,lon:x.longitude,kind:2,big:(x.population||0)>20000}))}
+async function findPhoton(q){
+ const j=await timed("https://photon.komoot.io/api/?limit=15&lang=en&bbox=2.6,4,14.7,14&q="+encodeURIComponent(q),5000);
+ return j.features.map(f=>({p:f.properties,c:f.geometry.coordinates})).filter(({p})=>p.countrycode==="NG"&&p.name&&p.type!=="state"&&!["waterway","natural","landuse"].includes(p.osm_key))
+  .map(({p,c})=>({name:p.name,area:p.city||p.district||p.county,state:p.state,lat:c[1],lon:c[0],kind:p.osm_key==="place"||p.osm_key==="boundary"?2:p.osm_key==="highway"?1:0,big:["city","town"].includes(p.osm_value)}))}
+async function findNominatim(q){
+ const j=await timed("https://nominatim.openstreetmap.org/search?format=jsonv2&limit=10&addressdetails=1&accept-language=en&countrycodes=ng&q="+encodeURIComponent(q),8000);
+ return j.filter(x=>x.name&&!["waterway","natural","landuse"].includes(x.category)).map(x=>{const a=x.address||{};
+  return {name:x.name,area:a.city||a.town||a.suburb||a.village||a.county,state:stateName(a.state),lat:+x.lat,lon:+x.lon,kind:x.category==="place"||x.category==="boundary"?2:x.category==="highway"?1:0,big:["city","town"].includes(x.type)}})}
+// Best match first: the words typed appearing in the name matter most, then real places over
+// streets over landmarks. Equal scores keep Open-Meteo's order, which puts bigger towns first.
+function rankPlaces(q,list){
+ const ws=wordsOf(q),low=ws.join(" "),first=wordsOf(q.split(",")[0]).join(" ");
+ const scored=list.map((x,i)=>{const names=x.words||wordsOf(x.name+" "+(x.alts||"")),where=x.where||wordsOf(x.area+" "+x.state),n=wordsOf(x.name).join(" ");let v=x.kind;
+  if(n===low||n===first)v+=6+(x.big?2:0);
+  for(const w of ws)v+=names.some(a=>a.startsWith(w))?3:where.some(a=>a.startsWith(w))?1:0;
+  return {x,v,i}}).sort((a,b)=>b.v-a.v||a.i-b.i);
+ // The same name within about 3 km is one place.
+ const out=[];for(const {x} of scored)if(!out.some(y=>norm(y.name)===norm(x.name)&&Math.abs(y.lat-x.lat)<.03&&Math.abs(y.lon-x.lon)<.03))out.push(x);
+ return out.filter(x=>inNigeria(x.lat,x.lon))}
+const placeLabel=x=>uniq([x.name,stateName(x.state)!==x.name?stateName(x.state):""]).join(", ").slice(0,80);
+function showPlaces(res,q){
+ const top=res.slice(0,6),name=wordsOf(q).join(" "),same=res.filter(x=>wordsOf(x.name).join(" ")===name).length;
+ // Many towns share a name, such as Sabon Gari; not every list needs this hint.
+ const many=same>=3&&res.length>6?"<div class='note'>Many places share this name. Add your state to narrow it down.</div>":"";
+ $("results").innerHTML=top.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+esc(uniq([x.area!==x.name?x.area:"",stateName(x.state)]).join(", "))+"</small></button>").join("")+many;
+ $("results").querySelectorAll("button").forEach(b=>b.onclick=()=>{const x=top[+b.dataset.i];
+  $("results").innerHTML="";$("town").value="";
+  loadPlace({name:placeLabel(x),lat:+x.lat.toFixed(2),lon:+x.lon.toFixed(2)},false,"search")})}
 let qT=0,qN=0;
+// deep: someone pressed Enter or tapped "Search more", so the backup may be asked as well.
+async function searchPlaces(q,deep){
+ const n=++qN;clearTimeout(qT);
+ if(!$("results").children.length||deep)$("results").innerHTML="<div class='note'>Searching…</div>";
+ // Our own list first, so an outside service that is slow or down never holds anyone up.
+ let mine=[],ownOk=true;try{mine=await findOwn(q);if(n!==qN)return;if(mine.length)showPlaces(rankPlaces(q,mine),q)}catch(e){ownOk=false}
+ const asks=[findOpenMeteo(q),findPhoton(q)];if(deep)asks.push(findNominatim(q));
+ const done=await Promise.allSettled(asks);if(n!==qN)return;
+ const res=rankPlaces(q,[...mine,...done.flatMap(d=>d.status==="fulfilled"?d.value:[])]);
+ if(res.length)return showPlaces(res,q);
+ if(!ownOk&&done.every(d=>d.status==="rejected")){$("results").innerHTML="<div class='note'>Search needs an internet connection.</div>";return}
+ const more=deep?"":"<button id='more'>Search more</button>";
+ $("results").innerHTML="<div class='note'>Couldn’t find “"+esc(q)+"” in Nigeria. Check the spelling, try the nearest bigger town or area, or use your location.</div>"+more;
+ if(!deep)$("more").onclick=()=>searchPlaces(q,true)}
 $("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
- if(q.length<2){$("results").innerHTML="";return}
- qT=setTimeout(async()=>{const n=++qN;
-  try{const r=await fetch("https://geocoding-api.open-meteo.com/v1/search?count=10&language=en&countryCode=NG&name="+encodeURIComponent(q));const j=await r.json();if(n!==qN)return;
-   const seen=new Set(),res=(j.results||[]).filter(x=>x.country_code==="NG").filter(x=>{const k=x.name+"|"+x.admin1;return !seen.has(k)&&seen.add(k)}).slice(0,5);
-   $("results").innerHTML=res.length?res.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+esc(x.admin1||"")+"</small></button>").join(""):"<div class='note'>No Nigerian town found. Check the spelling.</div>";
-   $("results").querySelectorAll("button").forEach(b=>b.onclick=()=>{const x=res[+b.dataset.i];
-    $("results").innerHTML="";$("town").value="";
-    loadPlace({name:[x.name,x.admin1&&x.admin1!==x.name?x.admin1:""].filter(Boolean).join(", "),lat:+x.latitude.toFixed(2),lon:+x.longitude.toFixed(2)},false,"search")});
-  }catch(err){if(n===qN)$("results").innerHTML="<div class='note'>Search needs an internet connection.</div>"}
- },350)};
+ if(q.length<2){qN++;$("results").innerHTML="";return}
+ qT=setTimeout(()=>searchPlaces(q,false),350)};
+$("town").onkeydown=e=>{const q=$("town").value.trim();if(e.key==="Enter"&&q.length>=2){e.preventDefault();searchPlaces(q,true)}};
 $("t").oninput=$("h").oninput=()=>{S.t=+$("t").value;S.h=+$("h").value;S.manual=true;S.sel=null;render()};
 $("back").onclick=()=>pick(null);
 $("go-loc").onclick=()=>$("loc").click();

@@ -10,7 +10,7 @@ Files kept off the public site: .assetsignore.
 Install: open the https link on a phone. Chrome shows "Add to Home screen" / Install.
 Live temperature ("Use my location") only works over https.
 
-Change the cache name in sw.js (reezr-heat-v16) whenever you ship a new version.
+Change the cache name in sw.js (reezr-heat-v17) whenever you ship a new version.
 Local preview: python -m http.server 8765
 
 Accuracy (constants at the top of the feels-like code in index.html):
@@ -19,6 +19,10 @@ Accuracy (constants at the top of the feels-like code in index.html):
   Measured 30 Oct 2026 on 23,856 reports from 23 Nigerian stations: Mar-May and Dec 2025,
   Jan, Aug and Oct 2026. Station reports from Ogimet; past forecasts from Open-Meteo's
   previous-runs API. These numbers are for Nigeria; other countries need their own check.
+
+Place search (places/ holds OpenStreetMap names, © OpenStreetMap contributors, ODbL):
+  Rebuild from a Geofabrik extract: tools/osm_extract.py, then tools/build_places.py.
+  Needs pip packages osmium and shapely. Extracting Nigeria took about 9 hours on a laptop.
 
 Usage stats (anonymous; worker.js lists exactly what is stored):
   Events go to the Cloudflare D1 database "reezrheat-analytics" (binding DB).

@@ -1,0 +1,2047 @@
+Winstanley Head	Bonny	Rivers	4.535	7.234	2	Winstanley Point
+Hema Fulani	Kwaya Kusar	Borno	10.434	11.950	2	Hyama
+Sangwa Bulama Heldugu	Shani	Borno	10.335	12.218	2	
+Heddi	Kebbe	Sokoto	11.678	4.513	2	
+Mijuwana Health Clinic	Shani	Borno	10.095	12.056	0	Feshingo
+Hema 2	Hawul	Borno	10.566	12.166	2	Hayama
+Hammari	Dange-Shuni	Sokoto	12.918	5.454	2	Hetereti
+Hena	Hawul	Borno	10.399	12.106	2	
+Henume	Badagry	Lagos	6.400	2.850	2	
+Idibo KM 18 Health Centre	Ajaokuta	Kogi	7.489	6.578	2	
+Helanae	Argungu	Kebbi	12.682	4.490	2	Felende
+Useh Primary Health Care	Egor	Edo	6.367	5.578	0	
+Osimike Health Service	Egor	Edo	6.378	5.635	0	
+Urban Health Center	Oredo	Edo	6.336	5.631	0	
+Hema 1	Hawul	Borno	10.561	12.160	2	
+Hematology Dept, Enugu State University Teaching Hospital	Enugu North	Enugu	6.462	7.494	0	
+Ndiagu Amechi Uwani Health Center	Enugu South	Enugu	6.408	7.532	0	
+Viva Healthfoo Shop & Dietetic Clinic	Enugu South	Enugu	6.418	7.495	0	
+Sacred Heart Primary & Secondary School	Enugu South	Enugu	6.422	7.489	0	
+First Holistic Health Physiotherapy Clinic	Enugu North	Enugu	6.426	7.495	0	
+Tsara Primary Health Centre	Rogo	Kano	11.451	7.728	0	
+Dayaso Health Post	Rogo	Kano	11.516	7.736	0	
+Fulatan Primary Health Centre	Rogo	Kano	11.401	7.859	0	
+Gwangwan Primary Health Centre	Rogo	Kano	11.487	7.747	0	
+Hago Primary Health Centre	Rogo	Kano	11.480	7.831	0	
+Ruwan Bago Health Post	Rogo	Kano	11.407	7.758	0	
+Sundu Health Post	Rogo	Kano	11.381	7.761	0	
+Tudun Magaji Health Post	Rogo	Kano	11.453	7.782	0	
+Unguwar Liman Health Post	Rogo	Kano	11.405	7.744	0	
+Unguwar Malam Amadu Health Post	Rogo	Kano	11.493	7.772	0	
+Zarewa Primary Health Centre	Rogo	Kano	11.397	7.812	0	
+Bari Primary Health Centre	Rogo	Kano	11.568	7.751	0	
+Kaleku Health Post	Rogo	Kano	11.625	7.883	0	
+Karshi Health Post	Rogo	Kano	11.541	7.826	0	
+Kauyen Liman Health Post	Rogo	Kano	11.543	7.821	0	
+Tsohuwar Rogo Health Post	Rogo	Kano	11.575	7.800	0	
+Zoza Health Post	Rogo	Kano	11.627	7.872	0	
+Ba'Awa Health Post	Kiru	Kano	11.598	7.987	0	
+Jajaye Primary Health Centre	Rogo	Kano	11.557	7.936	0	
+Maska Health Post	Kiru	Kano	11.595	8.081	0	
+Sagondare Health Post	Rogo	Kano	11.480	7.955	0	
+Yanoko Primary Health Centre	Rogo	Kano	11.456	7.918	0	
+Dalal Health Post	Gwarzo	Kano	11.835	7.949	0	
+Dambazau Health Post	Karaye	Kano	11.812	8.029	0	
+Daura Health Post	Karaye	Kano	11.726	7.983	0	
+Dederi Health Post	Karaye	Kano	11.844	8.057	0	
+Dutsan Amare Health Post	Karaye	Kano	11.827	7.991	0	
+Kadafa Health Post	Karaye	Kano	11.799	7.941	0	
+Kara Primary Health Centre	Gwarzo	Kano	11.843	7.959	0	
+Kurugu Health Post	Karaye	Kano	11.833	8.040	0	
+Sabon Birni Primary Health Centre	Gwarzo	Kano	11.856	8.031	0	
+Sabon Fegi Health Post	Karaye	Kano	11.806	8.064	0	
+Sabon Layin Kara Health Post	Gwarzo	Kano	11.825	7.933	0	
+Tudun Kaya Health Post	Karaye	Kano	11.733	7.931	0	
+Tumfafi Health Post	Gwarzo	Kano	11.838	8.022	0	
+Turawa Primary Health Centre	Karaye	Kano	11.698	8.048	0	
+Unguwar Tofa Health Post	Karaye	Kano	11.786	7.960	0	
+Yola Primary Health Centre	Karaye	Kano	11.720	7.949	0	
+Zangun Majema Health Post	Karaye	Kano	11.816	8.002	0	
+Dadin Kowa Primary Health Centre	Doguwa	Kano	10.702	8.631	0	
+Dariyar Shere Primary Health Centre	Doguwa	Kano	10.671	8.741	0	
+Dokar Sati Health Post	Doguwa	Kano	10.729	8.619	0	
+Kwando Primary Health Centre	Doguwa	Kano	10.708	8.682	0	
+Mekwandira Health Post	Doguwa	Kano	10.809	8.630	0	
+Ririwai Primary Health Centre	Doguwa	Kano	10.750	8.728	0	
+Achilafiya Health Post	Kiru	Kano	11.748	8.139	0	
+Alhazawa Health Post	Kiru	Kano	11.709	8.167	0	
+Bargoni Health Post	Kiru	Kano	11.719	8.105	0	
+Baskore Health Post	Kabo	Kano	11.843	8.148	0	
+Dashi Health Post	Kiru	Kano	11.717	8.227	0	
+Dugabau Primary Health Centre	Kabo	Kano	11.803	8.207	0	
+Gazan Health Post	Kiru	Kano	11.711	8.197	0	
+Hawadin Galadima Primary Health Centre	Kabo	Kano	11.866	8.236	0	
+Husama Health Post	Karaye	Kano	11.788	8.113	0	
+Kafin Dabga Health Post	Karaye	Kano	11.832	8.123	0	
+Kailani Health Post	Kiru	Kano	11.730	8.182	0	
+Kanwa Health Post	Kabo	Kano	11.826	8.150	0	
+Kauyen Mahuta Health Post	Kabo	Kano	11.866	8.154	0	
+Malan Gajere Health Post	Kabo	Kano	11.860	8.192	0	
+Masanawa Health Post	Kabo	Kano	11.847	8.243	0	
+Unguwar Turaki Health Post	Kabo	Kano	11.820	8.231	0	
+Walawa Health Post	Kabo	Kano	11.786	8.223	0	
+Yammedi Primary Health Centre	Karaye	Kano	11.824	8.092	0	
+Zuwo Health Post	Kiru	Kano	11.750	8.206	0	
+Bauda Health Post	Kiru	Kano	11.589	8.190	0	
+Dangora Primary Health Centre	Kiru	Kano	11.536	8.157	0	
+Durmawa Health Post	Bebeji	Kano	11.605	8.258	0	
+Gwarmai Health Post	Bebeji	Kano	11.533	8.255	0	
+Kogo Primary Health Centre	Kiru	Kano	11.623	8.172	0	
+Maraku Health Post	Kiru	Kano	11.677	8.129	0	
+Tsaudawa Health Post	Kiru	Kano	11.681	8.203	0	
+Yako Primary Health Centre	Kiru	Kano	11.656	8.193	0	
+Badafi Health Post	Kiru	Kano	11.373	8.169	0	
+Gajale Health Post	Kiru	Kano	11.434	8.237	0	
+Hayin Gwarmai Health Post	Bebeji	Kano	11.460	8.204	0	
+Yalwa Health Post	Kiru	Kano	11.486	8.187	0	
+Maganda Health Post	Doguwa	Kano	10.640	8.759	0	
+Rufai Health Post	Doguwa	Kano	10.639	8.647	0	
+Yalwan Dan Musa Health Post	Doguwa	Kano	10.576	8.716	0	
+Badari Health Post	Gwarzo	Kano	11.803	7.894	0	
+Dan Gayaki Health Post	Karaye	Kano	11.725	7.903	0	
+Gurawa Health Post	Karaye	Kano	11.768	7.888	0	
+Jama'A Primary Health Centre	Gwarzo	Kano	11.815	7.866	0	
+Kwanyawa Primary Health Centre	Karaye	Kano	11.772	7.867	0	
+Malamawa Health Post	Gwarzo	Kano	11.835	7.860	0	
+Bankaura Health Post	Bichi	Kano	12.271	8.381	0	
+Belli Health Post	Bichi	Kano	12.312	8.285	0	
+Bum-Bum Health Post	Bichi	Kano	12.249	8.397	0	
+Daddo Health Post	Bichi	Kano	12.300	8.335	0	
+Damargu Primary Health Centre	Bichi	Kano	12.266	8.322	0	
+Damfamin Tofa Health Post	Dawakin Tofa	Kano	12.223	8.428	0	
+Gawon Bature Health Post	Bichi	Kano	12.263	8.419	0	
+Gwarmai Primary Health Centre	Kunchi	Kano	12.363	8.405	0	
+Jinjimawa Health Post	Bichi	Kano	12.331	8.274	0	
+Jodade Health Post	Kunchi	Kano	12.372	8.306	0	
+Kawaji Health Post	Bichi	Kano	12.232	8.333	0	
+Kirya Health Post	Dawakin Tofa	Kano	12.213	8.389	0	
+Kuku Primary Health Centre	Kunchi	Kano	12.373	8.282	0	
+Kwamarawa Health Post	Bichi	Kano	12.330	8.390	0	
+Saye Primary Health Centre	Bichi	Kano	12.275	8.396	0	
+Taddangari Primary Health Centre	Bichi	Kano	12.235	8.309	0	
+Tinki Health Post	Bichi	Kano	12.303	8.393	0	
+Tofawa Health Post	Kunchi	Kano	12.347	8.329	0	
+Tukuibi Health Post	Bichi	Kano	12.268	8.342	0	
+Yanbundu Health Post	Bichi	Kano	12.269	8.293	0	
+Yola Health Post	Bichi	Kano	12.244	8.288	0	
+Zangon Mata Health Post	Dawakin Tofa	Kano	12.233	8.414	0	
+Baje Primary Health Centre	Kunchi	Kano	12.365	8.257	0	
+Chiromawa Primary Health Centre	Bichi	Kano	12.322	8.159	0	
+Damisa Health Post	Bichi	Kano	12.309	8.216	0	
+Danzabua Primary Health Centre	Bichi	Kano	12.346	8.110	0	
+Farsa Health Post	Tsanyawa	Kano	12.382	8.101	0	
+Gidan Nisau Health Post	Kunchi	Kano	12.358	8.193	0	
+Hagawa Health Post	Bichi	Kano	12.255	8.169	0	
+Karari Health Post	Bichi	Kano	12.243	8.174	0	
+Lamba Health Post	Bichi	Kano	12.340	8.148	0	
+Malikawa Sarari Health Post	Bichi	Kano	12.380	8.148	0	
+Rigana Primary Health Centre	Kunchi	Kano	12.378	8.210	0	
+Rimaye Health Post	Bichi	Kano	12.267	8.201	0	
+Tatsan Health Post	Tsanyawa	Kano	12.289	8.093	0	
+Tsidau Health Post	Bichi	Kano	12.300	8.149	0	
+Waire Health Post	Bichi	Kano	12.345	8.221	0	
+Yangwarzo Health Post	Bichi	Kano	12.274	8.156	0	
+Mariri Primary Health Centre	Kumbotso	Kano	11.950	8.609	0	
+Kokai Health Post	Tsanyawa	Kano	12.219	8.022	0	
+Yanmamman Health Post	Tsanyawa	Kano	12.262	8.041	0	
+Gwarabjawa Health Post	Dambatta	Kano	12.448	8.542	0	
+Mazan Gudu Health Post	Gabasawa	Kano	12.195	8.907	0	
+Model Primary Health Center Rahama	Toro	Bauchi	10.453	8.760	0	
+Bakin Kogi Model Primary Health Center	Alkaleri	Bauchi	10.260	10.301	0	Galen Duguri HC - Gangar Dispensary
+Bojos Dispensary	Alkaleri	Bauchi	10.271	10.333	0	Kunzun Health Post
+Maimadi Health Center	Alkaleri	Bauchi	10.272	10.335	0	
+Mari-ari Health Center	Alkaleri	Bauchi	10.273	10.342	0	
+sango pataki community health center	Ibadan North	Oyo	7.427	3.893	0	
+Boluwaji Health Centre	Ibadan South East	Oyo	7.343	3.906	0	
+Sacred Heart Private School	Ibadan North West	Oyo	7.393	3.878	0	
+Alafara Aderogba Health Centre	Ibadan North East	Oyo	7.383	3.905	0	
+Mapo Health Center	Ibadan South East	Oyo	7.377	3.898	0	
+Oranyan Health Centre	Ibadan South East	Oyo	7.375	3.901	0	
+Lagelu Youth Friendly Health Centre, Agugu	Ibadan North East	Oyo	7.384	3.927	0	
+St. Peters Maternity Health Centre, Aperin	Ibadan North East	Oyo	7.375	3.919	0	
+Agbongbon Health Center	Ibadan South East	Oyo	7.367	3.900	0	
+Zwall Health Clinic	Tafawa-Balewa	Bauchi	9.837	9.474	0	
+Helma Pindar	Shani	Borno	10.190	12.018	2	
+Kor Angilin Health Centre	Chibok	Borno	10.865	12.711	0	
+Primary Health Centre Chibok	Chibok	Borno	10.866	12.854	0	Garu Primary Health Centre
+Gomboru Health Clinic	Ngala	Borno	12.370	14.211	0	
+Manawaji Health	Ngala	Borno	12.421	14.128	0	
+Wumbi Health Clinic	Kala-Balge	Borno	12.361	14.359	0	
+Comprehensive Health Centre	Mobbar	Borno	13.262	12.617	0	
+Azir Health Clinic	Damboa	Borno	11.044	12.646	0	
+Galangi Primary Health Centre	Kaga	Borno	11.509	12.514	0	
+Hoyo Health Clinic	Magumeri	Borno	12.000	12.950	0	
+Jauro Gotel Primary Health Centre	Shani	Borno	10.100	11.750	0	
+Kareji Health Post	Shani	Borno	10.036	11.860	0	
+Pilak Health Post Kombo Shani	Shani	Borno	10.064	11.832	0	
+Hema	Kwaya Kusar	Borno	10.432	11.955	2	
+Hentara	Hawul	Borno	10.328	12.173	2	
+Kubo Comprehensive Health Center	Shani	Borno	10.108	12.031	0	
+Labau Health Clinic	Shani	Borno	10.052	12.015	0	
+Primary Health Centre Clinic	Shani	Borno	10.029	11.972	0	
+Buma Maternity and Child Health	Hawul	Borno	10.329	12.178	0	
+Hyera Primary Health Centre	Hawul	Borno	10.476	12.304	0	
+Primary Health Centre Gari 2	Shani	Borno	10.216	12.110	0	
+Uba Primary Health Center	Askira-Uba	Borno	10.459	13.214	0	
+Tshuyam Mamman Wani Hel	Hawul	Borno	10.575	12.034	2	Mamman Wanihil
+Doro Duguri Health Clinic	Kukawa	Borno	13.271	13.804	0	
+Cocin Rural Health Programme	Kukawa	Borno	13.095	13.815	0	
+Aduwa Health Clinic	Guzamala	Borno	12.945	13.176	0	
+Garanda Health Clinic	Guzamala	Borno	13.001	12.991	0	
+Dabarmasara Health Clinic	Monguno	Borno	12.804	13.835	0	
+Barwati Health Clinic	Kukawa	Borno	12.812	13.671	0	
+Buwa Health Clinic	Monguno	Borno	12.609	13.509	0	
+Dogoshi Health Clinic	Kukawa	Borno	12.862	13.675	0	
+Lawanti Health Clinic	Guzamala	Borno	12.577	13.414	0	
+Lingir Health Clinic	Monguno	Borno	12.688	13.511	0	
+Mile Ninety Health Clinic	Kukawa	Borno	12.780	13.665	0	
+Wamiri Health Clinic	Guzamala	Borno	12.726	13.457	0	
+Aduwa Health Clinic	Guzamala	Borno	12.825	13.190	0	
+Goni Adamti Health Centre	Guzamala	Borno	12.685	13.355	0	
+Lawanti Health Centre	Guzamala	Borno	12.661	13.278	0	
+Binduldul Health Clinic	Gubio	Borno	12.798	12.636	0	
+Gubio Maternity and Child Health	Gubio	Borno	12.492	12.784	0	
+Damaram Health Clinic	Nganzai	Borno	12.531	13.189	0	
+Gajigana Model Primary Health Care Center	Magumeri	Borno	12.250	13.104	0	
+Gajiram Health Clinic	Nganzai	Borno	12.494	13.214	0	
+Sigal Health Clinic	Kala-Balge	Borno	12.287	14.535	0	
+Tilam Health Clinic	Kala-Balge	Borno	12.298	14.430	0	
+Kala Health Clinic	Kala-Balge	Borno	12.080	14.464	0	
+Kumaga Health Clinic	Kala-Balge	Borno	12.136	14.620	0	
+Mallam Maja Primary Health Centre	Dikwa	Borno	11.986	14.091	0	
+Mijigite Health Clinic	Dikwa	Borno	11.928	13.941	0	
+Tungushe Primary Health Centre	Jere	Borno	12.036	13.072	0	
+Abasori Health Clinic	Kaga	Borno	11.925	12.664	0	
+Chobal Kura Primary Health Centre	Magumeri	Borno	11.955	13.002	0	
+Dongo Health Center	Kaga	Borno	11.575	12.450	0	
+Marguba Primary Health Centre	Kaga	Borno	11.694	12.584	0	
+Benisheik Maternal Child Health Clinic	Kaga	Borno	11.807	12.488	0	
+Shittimari Primary Health Care	Kaga	Borno	11.526	12.412	0	
+Tobolo Health Clinic	Kaga	Borno	11.557	12.550	0	
+Auno Primary Health Clinic	Konduga	Borno	11.847	12.933	0	
+Jewu Primary Health Clinic	Konduga	Borno	11.767	12.854	0	
+Mastafannamiri Primary Health Clinic	Konduga	Borno	11.532	12.991	0	
+Abbari Primary Health Clinic	Konduga	Borno	11.599	13.020	0	
+Ajiri Health Clinic	Konduga	Borno	11.660	13.114	0	
+Alau Health Clinic	Jere	Borno	11.731	13.235	0	
+Dalori Primary Health Clinic	Jere	Borno	11.756	13.263	0	
+Jiddari Primary Health Centre	Jere	Borno	11.795	13.146	0	
+Kayamla Health Clinic	Konduga	Borno	11.689	13.220	0	
+Kimeri Primary Health Clinic	Jere	Borno	11.709	13.320	0	
+Pompomari Primary Health Centre	Konduga	Borno	11.837	13.066	0	
+Shehuri Primary Health Clinic	Maiduguri	Borno	11.846	13.156	0	
+Wanori Primary Health Clinic	Jere	Borno	11.746	13.301	0	
+Budingeri Health Clinic	Konduga	Borno	11.682	13.366	0	
+Lawanti Primary Health Clinic	Konduga	Borno	11.587	13.480	0	
+Mairamri Primary Health Clinic	Konduga	Borno	11.601	13.489	0	
+Salahu Primary Health Centre	Kwaya Kusar	Borno	10.561	11.941	0	
+Maina Hari Health Clinic	Biu	Borno	10.678	12.159	0	
+Maternity and Child Health Miringa	Biu	Borno	10.726	12.146	0	
+Mandaragirau Health Centre	Biu	Borno	10.693	12.331	0	
+Hussara Health Clinic	Askira-Uba	Borno	10.499	13.237	0	
+Multafu Primary Health Centre	Askira-Uba	Borno	10.770	13.273	0	
+Shikarkir Primary Health Center	Chibok	Borno	10.803	12.776	0	
+Yimirali Health Clinic	Askira-Uba	Borno	10.612	12.995	0	
+Banki Health Clinic	Bama	Borno	11.249	14.151	0	
+Bulungu Health Clinic	Bama	Borno	11.434	13.794	0	
+Darajamal Health Post Clinic	Bama	Borno	11.324	13.971	0	
+Maternity and Child Health Bama	Bama	Borno	11.517	13.685	0	
+Alhajiri Primary Health Clinic	Konduga	Borno	11.475	12.881	0	
+Nyaleri Primary Health Clinic	Damboa	Borno	11.295	12.848	0	
+Yajiwa Health Clinic	Kaga	Borno	11.389	12.723	0	
+Ajigin Mairi Health Clinic	Damboa	Borno	11.171	12.287	0	
+Kingdom Heritage Schools	Owerri Municipal	Imo	5.482	7.013	0	
+Heipang	Barkin Ladi	Plateau	9.643	8.879	0	
+Damaya Health Facility	Borsari	Yobe	12.828	11.559	0	
+Turban Gida Health Facility	Tarmua	Yobe	12.468	11.678	0	
+Guba Health Facility	Borsari	Yobe	12.807	11.419	0	
+Turban Gida Health Facility	Borsari	Yobe	12.508	11.674	0	
+Yar Akija Basic Health Clinic	Sokoto South	Sokoto	13.054	5.236	0	Akija Clinic
+Kagara Primary Health Clinic and Dispensary	Goronyo	Sokoto	13.393	5.602	0	
+Njaba L.G.A Head Quarter	Njaba	Imo	5.736	7.015	0	
+Anikantamo Health Post	Lagos Island	Lagos	6.458	3.394	0	
+Nassarawo Demsa Health Clinic	Numan	Adamawa	9.453	12.046	0	
+Sacre Heart	Kaduna North	Kaduna	10.511	7.441	0	
+Oke Ari Health Post	Lagos Island	Lagos	6.460	3.385	0	
+Olowogbowo Primary Health Centre	Lagos Island	Lagos	6.459	3.382	0	
+Ikoyi-Ijumu Health Centre	Ijumu	Kogi	7.847	5.927	0	
+Pinnacle Ace Health Center	Uvwie	Delta	5.548	5.774	0	
+Royal Heritage School	Uvwie	Delta	5.544	5.779	0	
+Health Center	Okpe	Delta	5.592	5.706	0	
+Primary Health Care	Yenegoa	Bayelsa	4.944	6.334	0	
+Hellomari	Konduga	Borno	11.575	12.934	2	
+Precious Height Academy	Okpe	Delta	5.590	5.710	0	
+Bioscreen Health Services Limited	Warri South	Delta	5.531	5.747	0	
+Model Primary Health Care Center	Obio/Akpor	Rivers	4.830	7.071	0	
+Sacred Heart Seminary	Obio/Akpor	Rivers	4.846	7.045	0	
+National Primary Health Care Development Agency	Muhammadu Dikko Stadium	Katsina	12.989	7.585	0	
+Eagles Height International School	Warri South	Delta	5.529	5.733	0	
+OriEru Primary Health Centre	Ibadan North West	Oyo	7.381	3.891	0	
+Primary health care centre Sabon Birni	Kware	Sokoto	13.247	5.275	0	
+Primary health care centre Dabire	Argungu	Kebbi	12.570	4.415	0	
+Primary health care centre Nagudawa	Tambuwal	Sokoto	12.392	4.755	0	
+Primary health care centre Dabagin Ardo	Dange-Shuni	Sokoto	12.954	5.382	0	
+Bularaba HEALTH CURE	Gulani	Yobe	11.070	11.794	0	
+Primary Health Center, Emekuku	Port-Harcourt	Rivers	4.794	6.997	0	
+Kingdom Heritage Model School	Ogbomosho North	Oyo	8.164	4.258	0	
+Heyden	Ikeja	Lagos	6.603	3.332	0	
+Primary Oral Health Centre, Idikan (UCH Annex)	Ibadan North West	Oyo	7.383	3.891	0	
+Sasa Community Health Centre	Akinyele	Oyo	7.486	3.914	0	
+Primary Health Care Kwadom	Yamaltu/Deba	Gombe	10.277	11.288	0	
+Balogun Primary Healthcare Center.	Alimosho	Lagos	6.591	3.228	0	
+SHONGO HEALTH CLINIC	Akko	Gombe	10.289	11.080	0	
+Primary Health Center Ota	Ado Odo/Ota	Ogun	6.691	3.237	0	
+Ajiua Health Centre	Girei	Adamawa	9.278	12.459	0	
+Primary Health Care Romon Sarki	Tambuwal	Sokoto	12.229	4.602	0	
+PHC ILORA	Afijio	Oyo	7.800	3.900	0	Primary Health Centre, Ilora
+Lugge Health Post	Darazo	Bauchi	10.962	10.348	0	
+Twaidi Zaidi Basic Health Centre	Binji	Sokoto	13.251	4.936	0	
+Kware Comprehensive Health Centre	Kware	Sokoto	13.228	5.259	0	
+Prlmary Health Centre	Goronyo	Sokoto	13.442	5.676	0	
+tinyema heath post	Fufore	Adamawa	8.767	12.449	0	
+Mustaphawari Health Clinic	Konduga	Borno	11.532	12.991	0	
+Abduri Health Clinic	Konduga	Borno	11.654	13.421	0	
+gangnai heath post	Jada	Adamawa	8.752	12.091	0	
+Health Clinic	Bungudu	Zamfara	12.134	6.807	0	
+Arboko Health Clinic	Gwoza	Borno	11.146	13.856	0	
+Ashigashiya Primary Health Centre	Gwoza	Borno	11.139	13.870	0	
+Gwoza Town Health Clinic	Gwoza	Borno	11.086	13.701	0	
+Kughum Health Clinic	Gwoza	Borno	11.054	13.791	0	
+Barawa Primary Health Care Centre	Gwoza	Borno	11.054	13.790	0	
+Ndaba Health Clinic	Gwoza	Borno	11.240	13.943	0	
+Farm Centre Idp Health Centre	Gwoza	Borno	11.229	13.776	0	
+gangsifa primary heath	Jada	Adamawa	8.685	11.927	0	
+komsiri heath post	Jada	Adamawa	8.722	12.056	0	
+Mbangan tiren heath post	Jada	Adamawa	8.704	11.999	0	
+Mbulo primary heath center	Ganye	Adamawa	8.655	11.901	0	
+timkola heath post	Jada	Adamawa	8.641	12.161	0	
+boro heath post	Jada	Adamawa	8.643	12.108	0	
+dashen heath post	Jada	Adamawa	8.577	12.133	0	
+gang abdu primary heath clinic	Jada	Adamawa	8.615	12.138	0	
+duna heath post	Ganye	Adamawa	8.446	12.295	0	
+Zajeri Primary Health Center	Maiduguri	Borno	11.873	13.127	0	
+bolon health	Demsa	Adamawa	9.412	11.995	0	
+dong health clinic	Demsa	Adamawa	9.412	11.993	0	
+dowaya health clinic	Demsa	Adamawa	9.455	12.063	0	
+Tashan Gurgu Health Post	Demsa	Adamawa	9.338	11.863	0	
+Tashan Gurugu Health Post	Demsa	Adamawa	9.338	11.862	0	
+Ngungwaling Health Post	Demsa	Adamawa	9.509	12.212	0	
+wuro ladde heath clinic	Shelleng	Adamawa	9.890	12.204	0	
+savannah health facility	Larmurde	Adamawa	9.589	11.915	0	
+lafiya primary heath care	Larmurde	Adamawa	9.646	11.815	0	
+NGbobenge heath post	Larmurde	Adamawa	9.659	11.820	0	
+bafyo primary heath center	Larmurde	Adamawa	9.603	11.790	0	
+tipto maternity and child heath	Larmurde	Adamawa	9.612	11.657	0	
+opalo primary heath clinic	Larmurde	Adamawa	9.511	11.929	0	
+Rigange primary heath center	Larmurde	Adamawa	9.574	11.761	0	
+bunary heath post	Larmurde	Adamawa	9.483	11.474	0	
+balaifi heath clinic	Larmurde	Adamawa	9.503	11.469	0	
+Gwei heath post	Larmurde	Adamawa	9.537	11.632	0	
+Kedemure Primary Health Center	Demsa	Adamawa	9.333	12.002	0	
+Lupanga Health Post	Demsa	Adamawa	9.287	11.991	0	
+maitunku primary heath post	Larmurde	Adamawa	9.604	11.519	0	
+suwa primary heath center	Larmurde	Adamawa	9.534	11.607	0	
+Wuro Bakumbo Health Post	Demsa	Adamawa	9.308	12.024	0	
+diriff heath post	Madagali	Adamawa	10.819	13.639	0	
+sukur settlement heath post	Madagali	Adamawa	10.880	13.609	0	
+vizik heath clinic	Biu	Borno	10.850	11.685	0	
+duhu primary heath center	Madagali	Adamawa	10.789	13.441	0	
+duhu heath center	Madagali	Adamawa	10.789	13.437	0	
+Shehu Palace Health Clinic	Maiduguri	Borno	11.848	13.161	0	
+Dzakwa Health Post	Askira-Uba	Borno	10.460	13.163	0	
+Health Post Uba Dispensary	Askira-Uba	Borno	10.454	13.206	0	
+Uba Primary Health Care Center	Askira-Uba	Borno	10.451	13.218	0	
+gwangwanso healt clinic	Kokona	Nasarawa	8.818	8.177	0	
+mayo wandu heath clinic	Michika	Adamawa	10.708	13.438	0	
+kaya primary heath post	Madagali	Adamawa	10.817	13.421	0	
+lihyambula health clinic	Madagali	Adamawa	10.860	13.507	0	
+dagali heath post	Madagali	Adamawa	10.788	13.462	0	
+kopa basic heath clinic	Michika	Adamawa	10.738	13.338	0	
+wuro gayadi primary heath post	Michika	Adamawa	10.713	13.389	0	
+gazama heath post	Madagali	Adamawa	10.728	13.513	0	
+kofur heath center	Madagali	Adamawa	10.760	13.496	0	
+kurang heath post	Madagali	Adamawa	10.713	13.592	0	
+sukur sama heath post	Madagali	Adamawa	10.742	13.584	0	
+gori heath post	Madagali	Adamawa	10.940	13.634	0	
+jamtari hetath center	Maiha	Adamawa	9.561	13.166	0	
+humbutuidi pbf heath facility	Maiha	Adamawa	10.123	13.159	0	
+kilange heath post	Maiha	Adamawa	10.171	13.124	0	
+ludga maternity and child heath	Maiha	Adamawa	9.969	13.281	0	
+vokini heath facility	Mubi North	Adamawa	10.132	13.169	0	
+jaba jaba heath clinic	Maiha	Adamawa	9.974	13.227	0	
+Kabilo Health Clinic	Fufore	Adamawa	9.031	12.209	0	
+jalingo buhu heath post	Maiha	Adamawa	10.040	13.157	0	
+maiha gari maternity and heath facility	Maiha	Adamawa	9.994	13.215	0	
+hubare heath clinic	Maiha	Adamawa	10.091	13.100	0	
+manjekin A primary heath center	Maiha	Adamawa	10.040	13.131	0	
+Mayome Health Center	Fufore	Adamawa	9.227	12.231	0	
+Ba Umshe Health Post	Fufore	Adamawa	9.366	12.696	0	
+Dasin Hausa Primary Health Care Center	Fufore	Adamawa	9.266	12.648	0	
+Bilachi Primary Health Centerc	Fufore	Adamawa	9.378	12.850	0	
+Safatawa Health Post	Fufore	Adamawa	9.029	12.394	0	
+Tawa Health Post	Fufore	Adamawa	9.002	12.401	0	
+Timkolba Health Post	Ganye	Adamawa	8.324	11.977	0	
+Mbalwaha Health Post	Hong	Adamawa	10.330	12.945	0	
+Shiwa Kalaa Health Clinic	Hong	Adamawa	10.261	13.046	0	
+Daksiri Health Post	Hong	Adamawa	10.144	12.926	0	
+Duchidama Health Clinic	Hong	Adamawa	10.164	12.966	0	
+Health Post Tasha Tiding	Hong	Adamawa	10.135	12.965	0	
+Health Post Mothol	Hong	Adamawa	10.135	12.932	0	
+Health Post Zugwagunli Uding	Hong	Adamawa	10.149	12.905	0	
+Uding Maternal And Child Health Clinic	Hong	Adamawa	10.153	12.905	0	
+Mbolinyi Health Post	Hong	Adamawa	10.097	12.954	0	
+Garaha Larh Health Post	Hong	Adamawa	10.410	12.848	0	
+Garaha Dutse Health Post	Hong	Adamawa	10.399	12.887	0	
+Zhedinyi Health Clinic	Hong	Adamawa	10.442	12.988	0	
+Davan Health Post	Ganye	Adamawa	8.422	11.989	0	
+Gangwoni Health Clinic	Ganye	Adamawa	8.229	12.236	0	
+Bamaiyi Sundume Memorial Medical Health Centre	Zuru	Kebbi	11.316	5.233	0	
+Aromiwe Primary Health Care	Egbedore	Osun	7.835	4.481	0	
+Kuelu Primary Health Care	Egbedore	Osun	7.841	4.483	0	
+Primary Health Center	Kaura Namoda	Zamfara	12.432	6.608	0	
+Primary Health Centre, Toru-Ebeni	Sagbama	Bayelsa	4.980	6.076	0	
+Health Centre, Tungbo	Sagbama	Bayelsa	5.126	6.168	0	
+Bangwu Maternal And Child Health Clinic	Bosso	Niger	9.539	6.319	0	
+Community Health Clinic	Gbako	Niger	9.162	6.112	0	
+Etsu Yahaya Abubakar Health Center	Katcha	Niger	9.279	6.194	0	
+Sa'achi Nku Health Clinic	Edati	Niger	8.903	5.881	0	
+Health Center	Katcha	Niger	9.028	6.130	0	
+Manigi Health Centre	Lavun	Niger	9.742	5.489	0	
+Health Centre Tugwama	Rafi	Niger	10.333	6.286	0	
+Potungi Health Centre	Katcha	Niger	9.041	6.179	0	
+Health Clinic	Shiroro	Niger	9.997	6.554	0	
+Maternity Child Health Care	Shiroro	Niger	9.870	6.710	0	
+Maternal And Child Health Care Chimbi	Paikoro	Niger	9.464	6.996	0	
+Leemp Health Center	Rafi	Niger	10.209	6.236	0	
+Health Clinic Dikko Dabban	Lavun	Niger	9.267	5.739	0	
+Maternal And Child Health Care Old Airport	Chanchaga	Niger	9.625	6.537	0	
+Sasa Primary Health Center	Akinyele	Oyo	7.486	3.914	0	
+University Health Service, Jaja Clinic, UI	Ibadan North	Oyo	7.443	3.901	0	
+Orogun Public Healthcare Centre	Akinyele	Oyo	7.458	3.912	0	
+Better Life Health Care, Agbowo	Ibadan North	Oyo	7.442	3.909	0	
+Olive Pry Health Centre, iso pako, Bodija	Ibadan North	Oyo	7.440	3.920	0	
+Ojoo Pry Healthcare Centre	Akinyele	Oyo	7.471	3.916	0	
+Aroro Pry Health Centre, Ojoo	Akinyele	Oyo	7.523	3.958	0	
+Agboyi primary health Centre (PHC)	Kosofe	Lagos	6.578	3.410	0	
+Nassarawo Demsa Maternity and Child Health	Numan	Adamawa	9.460	12.040	0	
+Abacheke Model Primary Health Care Centre	Ohaji/Egbema	Imo	5.498	6.726	0	
+Heritage Little lambs academy Jos	Jos North	Plateau	9.956	8.855	0	
+Primary health care downbase	Jos North	Plateau	9.957	8.851	0	
+Total health care	Jos North	Plateau	9.925	8.882	0	
+Primary Healthcare Clinic Gamajigo	Jos North	Plateau	9.975	8.858	0	
+Primary Health Care Center	Jos North	Plateau	9.936	8.915	0	
+Alheri Health clinic & Maternity	Jos North	Plateau	9.933	8.922	0	
+Plateau State primary health care clinic Fomwan	Jos North	Plateau	9.923	8.897	0	
+Primary Health Care (P. H. C)	Jos North	Plateau	9.928	8.915	0	
+G. 9 First Healthcare Clinic	Jos North	Plateau	9.925	8.916	0	
+Plateau State Primary Health care Board	Jos North	Plateau	9.942	8.874	0	
+Primary Health care clinic	Jos North	Plateau	9.918	8.902	0	
+Daccom health care	Jos North	Plateau	9.937	8.871	0	
+Al Afrah Health Care Centre	Jos North	Plateau	9.915	8.902	0	
+Ecwa health clinic	Jos North	Plateau	9.899	8.872	0	
+Kauna health clinic and maternity	Jos North	Plateau	9.900	8.867	0	
+Primary Health care centre	Jos North	Plateau	9.914	8.895	0	
+Ecwa Health Clinic & Maternity	Jos North	Plateau	9.911	8.912	0	
+Primary health care tudu wada	Jos North	Plateau	9.905	8.868	0	
+Pax herbal clinic	Jos North	Plateau	9.905	8.872	0	
+Primary Health Centre Jenta Adamu	Jos North	Plateau	9.925	8.875	0	
+Naraguta health clinic	Jos North	Plateau	9.984	8.898	0	
+Primary health clinic ikukkumung	Jos North	Plateau	9.908	8.856	0	
+Plateau State primary health care	Jos North	Plateau	9.944	8.889	0	
+Beacon Height School	Municipal Area Council	FCT Abuja	9.140	7.380	0	
+Primary Health Care Center Dutse Alhaji	Municipal Area Council	FCT Abuja	9.142	7.373	0	
+Umogidi Primary Health Centre	Oturkpo	Benue	7.553	8.000	0	
+Usha-Kadu Primary Health Clinic	Nasarawa	Nasarawa	8.188	7.879	0	
+Ayele Primary Health Clinic	Nasarawa	Nasarawa	8.010	7.896	0	
+Loko 1 Primary Health Centre	Nasarawa	Nasarawa	8.004	7.847	0	
+Odu Primary Health Clinic	Nasarawa	Nasarawa	8.455	7.895	0	
+Udege-Mbeki Primary Health Centre	Nasarawa	Nasarawa	8.421	7.907	0	
+Marmara Primary Health Centre	Nasarawa	Nasarawa	8.611	7.769	0	
+Shamage Primary Health Clinic	Nasarawa	Nasarawa	8.629	7.785	0	
+Laminga Primary Health Centre	Nasarawa	Nasarawa	8.680	7.811	0	
+Kofar Gwari Primary Health Centre	Kokona	Nasarawa	8.686	8.008	0	
+Yalwan Soba, Primary Health Centre	Karu	Nasarawa	8.774	7.907	0	
+Primary health care center	Municipal Area Council	FCT Abuja	9.016	7.423	0	
+Divine Heritage Nursey and Primary School	Municipal Area Council	FCT Abuja	9.019	7.423	0	
+Royal Health Care Galadimawa	Municipal Area Council	FCT Abuja	8.992	7.427	0	
+Primary Healthcare Clinic	Municipal Area Council	FCT Abuja	8.942	7.441	0	
+Kabusa Healthcare	Municipal Area Council	FCT Abuja	8.950	7.441	0	
+Shadalafiya Primary Health Care	Municipal Area Council	FCT Abuja	8.944	7.442	0	
+Obelle Health Center	Emuoha	Rivers	5.035	6.809	0	
+New Heritage Crest International School	Obio/Akpor	Rivers	4.872	6.959	0	
+Ayete health center	Ibarapa North	Oyo	7.544	3.221	0	
+Primary Health Center	Ibarapa North	Oyo	7.555	3.228	0	
+Six bed Primary Health care, Tapa	Ibarapa North	Oyo	7.562	3.235	0	
+Isu LGA Headquarters	Isu	Imo	5.695	7.069	0	
+Thomas Moore College of Health Technology	Bauchi	Bauchi	10.272	9.796	0	
+Thomas Moore College of Health Technology	Bauchi	Bauchi	10.320	9.833	0	
+Sangotedo Primary Health Care Center	Eti Osa	Lagos	6.472	3.632	0	
+tikisu primary heath center	Madagali	Adamawa	10.716	13.560	0	
+Doma health Clinic Gombe	Kaltungo	Gombe	9.724	11.347	0	
+School of Health Technology Kaltungo	Kaltungo	Gombe	9.828	11.320	0	
+primary health care	Darazo	Bauchi	11.071	10.570	0	
+Teshegwa Health post	Kiri Kasama	Jigawa	12.548	10.142	0	
+Kiramisau Health Post	Kiri Kasama	Jigawa	12.551	10.141	0	
+Royal Heritage Academy	Jos North	Plateau	9.936	8.917	0	
+Government day senior secondary school herwagana	Gombe	Gombe	10.285	11.177	0	
+Aaye Primary Health Clinic	Akure South	Ondo	7.340	5.180	0	
+Dwn Quarters Primary Health Center	Kaduna South	Kaduna	10.491	7.415	0	
+Asibitinyara Health Center	Kaduna South	Kaduna	10.505	7.411	0	
+Garba Lawal Primary Health Center	Kaduna South	Kaduna	10.505	7.412	0	
+Primary Health Center Maker	Kaduna South	Kaduna	10.468	7.413	0	
+Kabala West Primary Health Center	Kaduna South	Kaduna	10.504	7.394	0	
+Makera II Primary Health Center	Kaduna South	Kaduna	10.478	7.410	0	
+Makera 1 Primary Health Care	Kaduna South	Kaduna	10.469	7.412	0	
+Kagoro Road Primary Health Care	Kaduna South	Kaduna	10.512	7.402	0	
+Ungwan Muazu Primary Health Center	Kaduna South	Kaduna	10.498	7.393	0	
+Zango Road Primary Health Center	Kaduna South	Kaduna	10.503	7.409	0	
+Tudun Wada Family Health Unit Clinic	Kaduna South	Kaduna	10.511	7.413	0	
+Amina Nmadi Health Facility	Kaduna South	Kaduna	10.495	7.403	0	
+Primary Health Center Nassarawa	Chikun	Kaduna	10.471	7.399	0	
+Nassarawa Primary Health Center	Chikun	Kaduna	10.460	7.398	0	
+General Hospitals And Primary Health Care Gwagwada Primary Health Care	Chikun	Kaduna	10.461	7.398	0	
+Primary Health Care Isa Kaita Raid Malali	Kaduna North	Kaduna	10.549	7.465	0	
+M b Tukur Primary Health Care Malali	Kaduna North	Kaduna	10.561	7.472	0	
+Sickle Cell Patient Health Promotion Center	Kaduna North	Kaduna	10.559	7.458	0	
+Unguwar Sarki Primary Health Center	Kaduna North	Kaduna	10.551	7.448	0	
+Unguwan Shanu Primary Health Center	Kaduna North	Kaduna	10.547	7.438	0	
+Hayin Banki Health Care	Kaduna North	Kaduna	10.578	7.436	0	
+Soba Primary Health Center	Kaduna North	Kaduna	10.586	7.438	0	
+Kawo Primary Health Center	Kaduna North	Kaduna	10.593	7.451	0	
+Unguwar Rimi Primary Health Center	Kaduna North	Kaduna	10.527	7.462	0	
+Family Care Health Center	Kaduna North	Kaduna	10.527	7.460	0	
+Primary Healthcare Kabala Layin Sarki Kabalan Doki Kaduna	Kaduna North	Kaduna	10.502	7.446	0	
+Primary health care Kc3 Zuba Road Shooting Range Kabala	Kaduna North	Kaduna	10.505	7.449	0	
+Meyetti Primary Health Center	Kaduna North	Kaduna	10.514	7.445	0	
+National Healthcare Center	Kaduna North	Kaduna	10.520	7.441	0	
+Ministry Of Health and Human Service Kaduna State Kaduna	Kaduna North	Kaduna	10.522	7.439	0	
+Jos Road Primary Health Center	Kaduna North	Kaduna	10.516	7.436	0	
+Zakari Memorial Clinic Primary Health Center	Kaduna North	Kaduna	10.509	7.432	0	
+Kabala Primary Health Center	Kaduna North	Kaduna	10.502	7.444	0	
+Primary Health Center Warri Street	Kaduna North	Kaduna	10.514	7.426	0	
+Junction Road Primary Health Center	Kaduna North	Kaduna	10.504	7.426	0	
+Abakawa Community Health Center	Kaduna North	Kaduna	10.547	7.426	0	
+Unguwar Mai Chibi Comprehensive Health Care	Kaduna South	Kaduna	10.451	7.433	0	
+312 Artenary Kalapanzi Barracks Primary Health Center	Kaduna South	Kaduna	10.455	7.420	0	
+Three Primary Health Care	Kaduna South	Kaduna	10.456	7.413	0	
+Kakuri Hausa Primary Health Center	Kaduna South	Kaduna	10.465	7.413	0	
+Kakuri Gwari 1 Primary Health Center	Kaduna South	Kaduna	10.461	7.410	0	
+Hajia Asama'u Ahmad Makarfi Health Center Barnawa	Kaduna South	Kaduna	10.481	7.430	0	
+Anturu Primary Health Center	Kaduna South	Kaduna	10.468	7.438	0	
+Koron Tsohuwa Primary Health Care	Kaduna South	Kaduna	10.467	7.439	0	
+Kurmin Mashi181 Primary Health Care	Kaduna South	Kaduna	10.553	7.415	0	
+Badikko Family Health	Kaduna South	Kaduna	10.536	7.408	0	
+Yelwa Maibene Health Clinic	Kaduna South	Kaduna	10.539	7.409	0	
+Askolaye Primary Health Center	Kaduna South	Kaduna	10.533	7.402	0	
+Ungwan Sanusi Primary Health Center	Kaduna South	Kaduna	10.525	7.410	0	
+Kubau Road Primary Health Center	Kaduna South	Kaduna	10.520	7.407	0	
+Tudun Nupawa Primary Health Center	Kaduna South	Kaduna	10.516	7.417	0	
+Kujama Gari Primary Health Center	Chikun	Kaduna	10.458	7.638	0	
+Tundun Wada Primary Health Center	Chikun	Kaduna	10.476	7.636	0	
+Primary Healthcare Tudun Wada No2 Bugai Road Kujama	Chikun	Kaduna	10.477	7.643	0	
+Salvation Health Clinic	Chikun	Kaduna	10.480	7.633	0	
+Primary Health Center Tudun Wada Opposite New Market Kujama	Chikun	Kaduna	10.476	7.633	0	
+Tokache Health Clinic	Chikun	Kaduna	10.528	7.616	0	
+Maraban Rido Primary Health Center	Chikun	Kaduna	10.432	7.529	0	
+Doka Primary Health Center	Chikun	Kaduna	10.554	7.529	0	
+Rido Primary Health Center	Chikun	Kaduna	10.509	7.475	0	
+Primary Health Care By Yakowa Way Karjipu	Chikun	Kaduna	10.496	7.467	0	
+Kakau Daji Primary Health Center	Chikun	Kaduna	10.385	7.456	0	
+Gwamna Awan General Hospital Primary Health Care Kakau	Chikun	Kaduna	10.376	7.395	0	
+Yelwa Primary Health Care	Chikun	Kaduna	10.435	7.421	0	
+Health Centre Gonin Gora	Chikun	Kaduna	10.431	7.397	0	
+Gonin Gora Primary Health Center	Chikun	Kaduna	10.431	7.402	0	
+Buwaya Health Clinic	Chikun	Kaduna	10.405	7.407	0	
+Primary Health Care Off Sarki Street Opp Bahago School Rido	Chikun	Kaduna	10.401	7.498	0	
+Primary Health Care Tudun Wada Road Rido	Chikun	Kaduna	10.399	7.508	0	
+Bayan Dutse Primary Health Care	Chikun	Kaduna	10.477	7.457	0	
+Babban Saura Primary Health Center	Chikun	Kaduna	10.485	7.463	0	
+Kamazou Health Clinic	Chikun	Kaduna	10.467	7.485	0	
+Kakau Primary Health Care Center	Chikun	Kaduna	10.428	7.356	0	
+Henlong Medical Clinic And Maternity	Chikun	Kaduna	10.478	7.379	0	
+Layi Health Dispensary	Chikun	Kaduna	10.486	7.320	0	
+Isashi Primary Health Care Center	Ojo	Lagos	6.502	3.172	0	
+Era Primary Health Care Center	Ojo	Lagos	6.477	3.124	0	
+Imude Primary Health Care Center	Ojo	Lagos	6.467	3.115	0	
+Angelic Care Health Center 124 Adaloko Road By Pako Bstop	Ojo	Lagos	6.477	3.158	0	
+Primary Health Building Dadiluwi Ilaje Riverine	Badagry	Lagos	6.404	3.029	0	
+Taffi Awori Primary Health Centre	Badagry	Lagos	6.408	3.074	0	
+Healing Land Hospital And Maternity	Ojo	Lagos	6.460	3.140	0	
+Shibiri Primary Health Centre	Ojo	Lagos	6.462	3.144	0	
+Primary Health Center Ese Ofin Riverine	Ojo	Lagos	6.444	3.147	0	
+Irewe Primary Care Health Center Osulu Kingdom	Ojo	Lagos	6.418	3.145	0	
+Deelshaddai Health Canter Home	Ojo	Lagos	6.459	3.177	0	
+Igbede Primary Health Center Igbede Bstop Ojo Igbede	Ojo	Lagos	6.452	3.163	0	
+Kemberi Primary Health Center	Ojo	Lagos	6.467	3.187	0	
+Okokomaiko Primary Health Care Board	Ojo	Lagos	6.471	3.191	0	
+Hon C O Ojelabi Health Center Igbo Elerin	Ojo	Lagos	6.482	3.188	0	
+Genesis Health Center	Ojo	Lagos	6.454	3.190	0	
+Safe Healing Nursing Home	Amuwo Odofin	Lagos	6.459	3.223	0	
+Tedi Primary Health Center Ojo	Amuwo Odofin	Lagos	6.446	3.228	0	
+Ketu Health Centre	Ado Odo/Ota	Ogun	6.599	3.072	0	
+Egudu Health Center	Ado Odo/Ota	Ogun	6.552	3.043	0	
+Agbara Primary Health Care Center	Ado Odo/Ota	Ogun	6.504	3.102	0	
+Igbesa Primary Health Center	Ado Odo/Ota	Ogun	6.528	3.134	0	
+Ikogbo Primary Health Center	Ado Odo/Ota	Ogun	6.532	3.179	0	
+Odan Abuja Primary Health Center	Ado Odo/Ota	Ogun	6.578	3.175	0	
+Ilupewo Health Center	Ado Odo/Ota	Ogun	6.680	3.252	0	
+Heaven Hospital Alagbado	Alimosho	Lagos	6.679	3.261	0	
+Agbado Okeodo Primary Health Center	Alimosho	Lagos	6.678	3.260	0	
+Oke Ilo Health Center	Alimosho	Lagos	6.673	3.254	0	
+Alaso Amikanle Primary Health Care Center	Alimosho	Lagos	6.650	3.245	0	
+Agbenuba Health Centre	Alimosho	Lagos	6.650	3.262	0	
+Surulere Primary Health Care Center	Alimosho	Lagos	6.654	3.260	0	
+Raufmomic Health Care	Alimosho	Lagos	6.639	3.259	0	
+Fueller Health Hospital	Alimosho	Lagos	6.644	3.262	0	
+Ayobo Primary Health Care Centre	Alimosho	Lagos	6.606	3.235	0	
+Ipaja Primary Health Centre	Alimosho	Lagos	6.604	3.254	0	
+Amen Health Center	Alimosho	Lagos	6.634	3.281	0	
+Agbelekale Primary Health Care	Alimosho	Lagos	6.638	3.284	0	
+Merian Primary Health Care Center	Alimosho	Lagos	6.664	3.282	0	
+Alimosho Health Centre	Alimosho	Lagos	6.600	3.300	0	
+Health Center Akinogun	Alimosho	Lagos	6.609	3.285	0	
+Oki Primary Health	Alimosho	Lagos	6.615	3.296	0	
+Ogundimu Primary Health Care Centre	Alimosho	Lagos	6.624	3.292	0	
+Aboru Primary Health Centre	Alimosho	Lagos	6.625	3.282	0	
+Day Star Health Cares	Alimosho	Lagos	6.626	3.281	0	
+Rauf Aregbesola Flagship Pry Healthcare Center	Alimosho	Lagos	6.595	3.283	0	
+Isefun Primary Health Care Center	Alimosho	Lagos	6.580	3.207	0	
+Cele Apata Community Health Center	Alimosho	Lagos	6.575	3.215	0	
+Orisunbare Primary Health Care Center	Alimosho	Lagos	6.570	3.303	0	
+Alimosho Local Goverment Egbe Idimu Lcda Health Center	Alimosho	Lagos	6.571	3.288	0	
+Ogbomoshotedo Community Health Cetre	Alimosho	Lagos	6.575	3.258	0	
+Max Health Consultant Hospital Ltd	Alimosho	Lagos	6.578	3.263	0	
+Health Center Isheri Olofin	Alimosho	Lagos	6.577	3.281	0	
+Amuwo Mile 2 Primary Health Center	Alimosho	Lagos	6.562	3.270	0	
+Elf Foundation Primary Health Centre	Alimosho	Lagos	6.552	3.269	0	
+Health Point Diagnostic	Alimosho	Lagos	6.546	3.266	0	
+Agodo Primary Health Center	Alimosho	Lagos	6.532	3.279	0	
+Best Option Healthcare And Maternity Home	Alimosho	Lagos	6.529	3.254	0	
+Cornell Health Laboratory Service	Alimosho	Lagos	6.529	3.259	0	
+Glory Of God Health Care Centre	Alimosho	Lagos	6.516	3.260	0	
+Ijegun Primary Health Care	Alimosho	Lagos	6.514	3.252	0	
+Datam Conv Health Care Center	Alimosho	Lagos	6.523	3.251	0	
+Ijagemo Primary Health Centre	Alimosho	Lagos	6.505	3.224	0	
+Hefamaa Laboratory	Alimosho	Lagos	6.528	3.214	0	
+Egan Primary Health Care Center	Alimosho	Lagos	6.550	3.236	0	
+Jubilee Health Center And Laboratory	Alimosho	Lagos	6.536	3.227	0	
+Okerube Health Centre	Alimosho	Lagos	6.528	3.239	0	
+Ayodamola Health Careand Maternity Home	Alimosho	Lagos	6.523	3.238	0	
+Ijedodo Primary Health Center	Alimosho	Lagos	6.498	3.248	0	
+Isolo Road Primary Health Care Centre	Mushin	Lagos	6.527	3.349	0	
+Health Center Mushin	Mushin	Lagos	6.525	3.355	0	
+Ogungbaiye Primary Health Centre	Mushin	Lagos	6.525	3.353	0	
+Odus Health Center	Mushin	Lagos	6.521	3.345	0	
+Alves Primary Health Center	Mushin	Lagos	6.515	3.345	0	
+Ilasa Health Centre	Mushin	Lagos	6.520	3.337	0	
+Itireijesha Primary Health Care	Mushin	Lagos	6.510	3.337	0	
+Coker Primary Health Center	Mushin	Lagos	6.548	3.362	0	
+Mecure Health Care	Mushin	Lagos	6.553	3.347	0	
+Tolajide Health Centre	Mushin	Lagos	6.529	3.357	0	
+Omo Medical Health Center	Mushin	Lagos	6.539	3.364	0	
+Heritage Hospital	Mushin	Lagos	6.534	3.356	0	
+Ayatuga Health Care	Mushin	Lagos	6.533	3.354	0	
+Ayantuga Primary Health Centre	Mushin	Lagos	6.533	3.355	0	
+Kayode Health Center Onipanu	Mushin	Lagos	6.533	3.365	0	
+Kajla Primary Health Center	Mushin	Lagos	6.527	3.366	0	
+Palm Avenue Primary Health Centre	Mushin	Lagos	6.537	3.350	0	
+Canvalescent And Health Care Center	Mushin	Lagos	6.534	3.345	0	
+Sacred Heart Lodge	Akure South	Ondo	7.291	5.150	0	
+Heritage Hostel	Akure South	Ondo	7.288	5.152	0	
+Rehoboth College Of Health	Akure South	Ondo	7.286	5.152	0	
+Hephzibah hostel	Akure South	Ondo	7.292	5.151	0	
+Helayo hostel	Akure South	Ondo	7.292	5.151	0	
+Clinic Healthcare	Amuwo Odofin	Lagos	6.473	3.312	0	
+Bogije Primary Health Center	Amuwo Odofin	Lagos	6.470	3.307	0	
+Neb's Clinic and Health Care Service	Amuwo Odofin	Lagos	6.468	3.296	0	
+Agboju Primary Health Care Centre	Amuwo Odofin	Lagos	6.459	3.291	0	
+Festac Primary Health Centre	Amuwo Odofin	Lagos	6.470	3.284	0	
+Serenity and Wellbeing Health Care Services	Jos North	Plateau	9.895	8.887	0	
+Igbologun Primary Health Center Snake Island	Amuwo Odofin	Lagos	6.418	3.329	0	
+Irede Primary Health Centre	Amuwo Odofin	Lagos	6.427	3.234	0	
+Ibafon Primary Health Center	Ajeromi/Ifelodun	Lagos	6.443	3.331	0	
+Agbaju Primary Health Center	Amuwo Odofin	Lagos	6.453	3.245	0	
+Charles Henry Specialist Hospital	Amuwo Odofin	Lagos	6.449	3.257	0	
+Irede Primary Health Center Riverine	Amuwo Odofin	Lagos	6.448	3.261	0	
+Satellite Town Primary Health Care Center	Amuwo Odofin	Lagos	6.450	3.265	0	
+Irede Primary Health Center	Amuwo Odofin	Lagos	6.441	3.265	0	
+Akingbade Health Bay	Ife Central	Osun	7.505	4.522	0	
+Ajegunle Primary Health care Centre	Kosofe	Lagos	6.607	3.431	0	
+PEAK HELGHT NURSERY SCHOOL	Ungongo	Kano	12.040	8.565	0	
+HEART LAND SPECIAL ACADEMY	Gwale	Kano	11.960	8.470	0	
+MADINA COLLEGE OF HEALTH SCIENCES	Gwale	Kano	11.967	8.478	0	
+DORAYI KARAMA PRIMARY HEALTH CARE	Gwale	Kano	11.965	8.477	0	
+Babatunde Sanwo-Olu primary health care center Okerube	Alimosho	Lagos	6.529	3.239	0	
+Ago Market Health Centre, Oko Erin, Nigeria	Ilorin East	Kwara	8.493	4.550	0	
+YUSJIB COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY (YUSCOHTECH)	Ilorin South	Kwara	8.432	4.596	0	
+ibido health clinic	Odogbolu	Ogun	6.711	3.869	0	
+Heavens gate redeem, F Division Road, Tanke	Ilorin South	Kwara	8.499	4.588	0	
+Kamo Primary Health Care (PHC Kamo)	Kaltungo	Gombe	9.957	11.344	0	
+HEADQUARTERS	Kaduna North	Kaduna	10.608	7.442	0	
+Erin-Ijesa Primary Health Centre	Oriade	Osun	7.569	4.891	0	
+Garu Islamic College Of Health Technology Bauchi	Bauchi	Bauchi	10.305	9.788	0	
+Innovative Heritage Academy	Municipal Area Council	FCT Abuja	9.046	7.587	0	
+Health Centre Okoloile	Andoni	Rivers	4.499	7.457	0	
+Bright Future Heritage School	Karu	Nasarawa	8.950	7.690	0	
+Heritage Computers	Municipal Area Council	FCT Abuja	9.112	7.378	0	
+Head Of Service Bus Stop	Municipal Area Council	FCT Abuja	9.058	7.503	0	
+Redeemers University Health Centre	Ede South	Osun	7.677	4.457	0	
+Ebonyi Primary Health Centre	Olamaboro	Kogi	7.173	7.576	0	
+Ajaka Comprehensive Health Centre	Igalamela-Odolu	Kogi	7.176	6.825	0	
+Egge Basic Health Care	Okene	Kogi	7.568	6.194	0	
+Okuta Mobile Health Clinic	Baruten	Kwara	9.219	3.197	0	
+Mother Of Perpetual Help Nursery and Primary School	Ojo	Lagos	6.459	3.182	0	
+Herbert Macaulay Street	Port-Harcourt	Rivers	4.792	7.008	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.064	7.476	1	
+Center for Research and Preventive Health Care	Oredo	Edo	6.339	5.598	0	
+Paul Hendrickse Road	Ibadan North	Oyo	7.425	3.913	1	
+Herbert Macaulay Way	Lagos Mainland	Lagos	6.486	3.385	1	
+Herbert Macaulay Street	Mushin	Lagos	6.516	3.367	1	
+Henry Adefowope	Ikeja	Lagos	6.584	3.368	1	
+Herbert Maculay Crescent	Ikeja	Lagos	6.581	3.345	1	
+Herbert Macaulay Street	Lagos Mainland	Lagos	6.481	3.387	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.053	7.485	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.044	7.491	1	
+Herbert Maacaulay Way	Municipal Area Council	FCT Abuja	9.056	7.483	1	
+OSIMIKE HEALTH SERVICE	Egor	Edo	6.378	5.635	0	
+Royal Height Comprehensive College	Egor	Edo	6.364	5.630	0	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.055	7.484	1	
+Herbert Macaulay Way	Lagos Mainland	Lagos	6.508	3.378	1	
+Heritage Hotel Street	Ede North	Osun	7.763	4.537	1	
+Sacred Heart Street	Enugu South	Enugu	6.422	7.488	1	
+Health Centre Street	Enugu East	Enugu	6.480	7.516	1	
+kingdom Heritage Model School Link	Enugu North	Enugu	6.443	7.505	1	
+Primary Health Centre	Ogoja	Cross River	6.498	8.553	0	
+Hezekiah Nnaji Crescent	Enugu South	Enugu	6.393	7.509	1	
+Fuskar Gabas Primary Health Centre	Kano Municipal	Kano	12.005	8.518	0	
+Geza Health Post	Minjibir	Kano	12.188	8.508	0	
+Rafin Tsamiya Health Post	Tsanyawa	Kano	12.195	8.041	0	
+Kasuwar Kuka Primary Health Centre	Kunchi	Kano	12.430	8.353	0	
+UKHIRI HEALTH CENTRE	Ikpoba-Okha	Edo	6.255	5.724	0	
+Kwarkiya Health Post	Minjibir	Kano	12.247	8.596	0	
+Garke Health Post	Minjibir	Kano	12.211	8.589	0	
+Kankarawa Health Post	Minjibir	Kano	12.223	8.624	0	
+Gasgainu Health Post	Minjibir	Kano	12.238	8.643	0	
+Mai Aduwa Health Post	Makoda	Kano	12.275	8.571	0	
+Danbawa Health Post	Minjibir	Kano	12.256	8.546	0	
+Sarbi Health Post	Minjibir	Kano	12.297	8.674	0	
+Kwandarma Health Post	Minjibir	Kano	12.217	8.663	0	
+Zango Health Post	Minjibir	Kano	12.251	8.700	0	
+Bare Bari Health Post	Makoda	Kano	12.493	8.498	0	
+Gaya South Health Post	Gaya	Kano	11.858	9.005	0	
+Shawu Health Post	Takai	Kano	11.437	9.137	0	
+Baushe Health Post	Dambatta	Kano	12.517	8.633	0	
+Ruwantsa Health Post	Dambatta	Kano	12.408	8.739	0	
+Falgore Primary Health Centre	Rogo	Kano	11.512	7.695	0	
+Azore Primary Health Centre	Kura	Kano	11.759	8.396	0	
+Akilu Memorial Primary Health Centre	Madobi	Kano	11.769	8.288	0	
+Falgore Health Post	Doguwa	Kano	11.121	8.576	0	
+Baure Health Post	Bagwai	Kano	12.081	8.190	0	
+Kauyen Adam Health Post	Bagwai	Kano	12.130	8.202	0	
+Yartofa Health Post	Bagwai	Kano	12.078	8.136	0	
+Kariya Health Post	Bagwai	Kano	12.043	8.202	0	
+Jaube Health Post	Dawakin Tofa	Kano	12.157	8.209	0	
+Munsira Health Post	Bichi	Kano	12.191	8.225	0	
+Tsattawa Health Post	Bagwai	Kano	12.129	8.138	0	
+Iyawa Health Post	Bichi	Kano	12.177	8.236	0	
+Badau Health Post	Bagwai	Kano	12.193	8.133	0	
+Badodo Health Post	Bagwai	Kano	12.089	8.214	0	
+Rimin-Bai Health Post	Bagwai	Kano	12.063	8.197	0	
+Tuga Health Post	Bagwai	Kano	12.067	8.243	0	
+Dutsen Karya Health Post	Bichi	Kano	12.211	8.133	0	
+Rimin Dako Health Post	Bagwai	Kano	12.085	8.254	0	
+Gajal Health Post	Bagwai	Kano	12.084	8.106	0	
+Romo Health Post	Bagwai	Kano	12.073	8.170	0	
+Ba'Awa Health Post	Bagwai	Kano	12.123	8.188	0	
+Toranke Primary Health Centre	Ajingi	Kano	11.993	9.172	0	
+Kawoni Health Post	Ajingi	Kano	11.997	9.206	0	
+Biyamusu Health Post	Ajingi	Kano	12.080	9.192	0	
+Kara-Dagaji Health Post	Ajingi	Kano	11.930	9.155	0	
+Dan'Malam Health Post	Ajingi	Kano	11.939	9.190	0	
+Gamoji Health Post	Gaya	Kano	11.844	9.178	0	
+Jigar Health Post	Albasu	Kano	11.664	9.169	0	
+Yawurma Health Post	Albasu	Kano	11.648	9.168	0	
+Daho Health Post	Albasu	Kano	11.665	9.207	0	
+Tsangaya Primary Health Centre	Albasu	Kano	11.619	9.215	0	
+Zananne Health Post	Albasu	Kano	11.636	9.256	0	
+Jirago Health Post	Albasu	Kano	11.576	9.279	0	
+Yanchibi Health Post	Tsanyawa	Kano	12.240	7.892	0	
+Yanganau Health Post	Tsanyawa	Kano	12.254	7.958	0	
+Zarogi Health Post	Tsanyawa	Kano	12.248	7.992	0	
+Zakawa Health Post	Tsanyawa	Kano	12.287	7.885	0	
+Gachi Kedi Health Post	Wudil	Kano	11.802	8.869	0	
+Panshekara Primary Health Centre	Kumbotso	Kano	11.899	8.457	0	
+Gofaro Primary Health Centre	Gezawa	Kano	12.019	8.748	0	
+Yartofa Health Post	Warawa	Kano	11.930	8.688	0	
+Tamawa Health Post	Rimin Gado	Kano	11.898	8.343	0	
+Jili Health Post	Rimin Gado	Kano	11.899	8.278	0	
+Jauben Health Post	Tofa	Kano	12.026	8.317	0	
+Sakaratsa Health Post	Rimin Gado	Kano	11.922	8.377	0	
+Chalawa Primary Health Centre	Kumbotso	Kano	11.918	8.425	0	
+Chiromawa Primary Health Centre	Ungongo	Kano	12.037	8.412	0	
+Agalawa Health Post	Madobi	Kano	11.881	8.371	0	
+Jajira Health Post	Ungongo	Kano	12.033	8.425	0	
+Kwami Health Post	Tofa	Kano	12.020	8.307	0	
+Jujin Health Post	Rimin Gado	Kano	11.920	8.267	0	
+Maigari Health Post	Rimin Gado	Kano	11.919	8.332	0	
+Yarimawa Primary Health Centre	Tofa	Kano	12.027	8.369	0	
+Zango II Health Post	Rimin Gado	Kano	12.020	8.279	0	
+Maraya Health Post	Madobi	Kano	11.892	8.411	0	
+Langel Primary Health Centre	Tofa	Kano	11.990	8.395	0	
+Doka Health Post	Tofa	Kano	11.990	8.305	0	
+Tabanni Health Post	Tofa	Kano	11.972	8.309	0	
+Hawandawaki Health Post	Kumbotso	Kano	11.955	8.425	0	
+Yalwa Primary Health Centre	Rimin Gado	Kano	11.953	8.310	0	
+Unguwar Rimi Health Post	Tofa	Kano	11.973	8.333	0	
+Maigari Ingila Health Post	Rimin Gado	Kano	11.921	8.302	0	
+Zango I Health Post	Rimin Gado	Kano	11.984	8.283	0	
+Karofin Yashi Health Post	Rimin Gado	Kano	11.883	8.350	0	
+Lambu Primary Health Centre	Tofa	Kano	11.993	8.360	0	
+Wari Health Post	Kabo	Kano	11.913	8.189	0	
+Godiya Primary Health Centre	Kabo	Kano	11.920	8.129	0	
+Indabo Health Post	Rimin Gado	Kano	11.963	8.180	0	
+Leni Health Post	Shanono	Kano	12.008	8.100	0	
+Bakwami Health Post	Shanono	Kano	12.034	8.114	0	
+Rinji Health Post	Kabo	Kano	11.880	8.163	0	
+Kwajale Health Post	Bagwai	Kano	12.035	8.222	0	
+Rimin Gado Primary Health Centre	Rimin Gado	Kano	11.972	8.248	0	
+Durun Health Post	Kabo	Kano	11.904	8.231	0	
+Butu Butu Health Post	Rimin Gado	Kano	11.966	8.209	0	
+Sarigarin Health Post	Kabo	Kano	11.969	8.117	0	
+Ginsawa Health Post	Tofa	Kano	12.029	8.259	0	
+Hawadin Bango Primary Health Centre	Kabo	Kano	11.889	8.257	0	
+Kanye Health Post	Kabo	Kano	11.960	8.147	0	
+Yango Health Post	Rimin Gado	Kano	11.996	8.228	0	
+Kafinmaiko Health Post	Bagwai	Kano	12.039	8.168	0	
+Balan Health Post	Kabo	Kano	11.914	8.166	0	
+Gammo M.P.H.C Primary Health Centre	Kabo	Kano	11.893	8.132	0	
+Dangada Primary Health Centre	Bagwai	Kano	12.011	8.132	0	
+Sharifai Health Post	Rimin Gado	Kano	11.924	8.246	0	
+Shadau Health Post	Kabo	Kano	11.875	8.210	0	
+Makamauta Primary Health Centre	Gwarzo	Kano	11.913	8.105	0	
+Kazar Daw Health Post	Rimin Gado	Kano	11.967	8.195	0	
+Dorogo Health Post	Shanono	Kano	12.002	7.973	0	
+Dan Amale Health Post	Kabo	Kano	11.945	8.030	0	
+Yarkasuwa Health Post	Gwarzo	Kano	11.917	7.935	0	
+Dorogo Health Post	Gwarzo	Kano	11.982	7.988	0	
+Gude Health Post	Kabo	Kano	11.954	8.067	0	
+Dutsen Bakoshi Health Post	Shanono	Kano	12.027	7.946	0	
+Getso Primary Health Centre	Gwarzo	Kano	11.870	7.976	0	
+Faran Health Post	Kibiya	Kano	11.539	8.625	0	
+Kyansha Health Post	Takai	Kano	11.487	9.107	0	
+Yan Bawa Health Post	Sumaila	Kano	11.371	9.059	0	
+Rubun Health Post	Albasu	Kano	11.627	9.088	0	
+Hungu Health Post	Albasu	Kano	11.614	9.002	0	
+Kafin Sidda Health Post	Takai	Kano	11.524	9.066	0	
+Mangari Health Post	Albasu	Kano	11.645	9.009	0	
+Yauwra Health Post	Albasu	Kano	11.610	8.969	0	
+Sanni Health Post	Garko	Kano	11.531	9.019	0	
+Sittika Health Post	Albasu	Kano	11.574	8.982	0	
+Faragai Health Post	Albasu	Kano	11.669	8.986	0	
+Duja Health Post	Albasu	Kano	11.654	9.091	0	
+Bataiya Primary Health Centre	Albasu	Kano	11.684	9.029	0	
+Fanda Health Post	Albasu	Kano	11.604	9.048	0	
+Rinji Health Post	Albasu	Kano	11.693	9.004	0	
+Chamarana Health Post	Albasu	Kano	11.631	9.107	0	
+Gamawa Health Post	Takai	Kano	11.541	9.118	0	
+Baleke Health Post	Albasu	Kano	11.653	9.050	0	
+Albasu Cottage Primary Health Centre	Albasu	Kano	11.668	9.128	0	
+Umbarum Health Post	Albasu	Kano	11.558	9.058	0	
+Alfindi Health Post	Sumaila	Kano	11.524	8.999	0	
+Kan Iyaka Health Post	Takai	Kano	11.612	9.086	0	
+Kogo Health Post	Takai	Kano	11.581	9.156	0	
+Gagarame Health Post	Albasu	Kano	11.554	9.191	0	
+Durbunde Primary Health Centre	Takai	Kano	11.540	9.232	0	
+Sakwaya Health Post	Takai	Kano	11.535	9.176	0	
+Kachako Primary Health Centre	Takai	Kano	11.538	9.249	0	
+Sayasaya Health Post	Albasu	Kano	11.716	8.967	0	
+Hausawa Health Post	Gaya	Kano	11.730	9.100	0	
+Jibawa Health Post	Gaya	Kano	11.782	8.979	0	
+Fanidau Health Post	Gaya	Kano	11.803	9.116	0	
+Maimakawa Health Post	Gaya	Kano	11.796	9.132	0	
+Kazurawa Health Post	Gaya	Kano	11.772	9.017	0	
+Kalahaddi Health Post	Gaya	Kano	11.720	9.024	0	
+Yan Kau Health Post	Gaya	Kano	11.760	8.979	0	
+Kullumi Health Post	Ajingi	Kano	12.031	9.030	0	
+Kawari Health Post	Ajingi	Kano	12.008	9.006	0	
+Maigana Health Post	Ajingi	Kano	11.943	9.001	0	
+Chula Health Post	Ajingi	Kano	11.990	8.971	0	
+Gurduba Health Post	Ajingi	Kano	12.022	9.002	0	
+Kiroro Health Post	Ajingi	Kano	11.962	9.118	0	
+Kara-Makama Health Post	Ajingi	Kano	11.957	9.074	0	
+Kunkurawa Health Post	Ajingi	Kano	11.975	9.064	0	
+Sakalawa Health Post	Ajingi	Kano	11.983	9.010	0	
+Gafasa Health Post	Ajingi	Kano	11.985	9.133	0	
+Jiyayya Health Post	Ajingi	Kano	11.981	9.094	0	
+Dundun Health Post	Ajingi	Kano	11.933	9.035	0	
+Zuwan Hawa Health Post	Albasu	Kano	11.729	9.224	0	
+Goron Dutse Health Post	Shanono	Kano	12.158	7.872	0	
+Yankwada Health Post	Shanono	Kano	12.203	7.876	0	
+Danshado Health Post	Shanono	Kano	12.043	7.889	0	
+Bakaji Health Post	Shanono	Kano	12.125	7.875	0	
+Tsaure Primary Health Centre	Shanono	Kano	12.095	7.880	0	
+Gagarawa Health Post	Ajingi	Kano	12.050	9.003	0	
+Unguwar Bai Health Post	Ajingi	Kano	12.047	8.981	0	
+Yankamaye Health Post	Tsanyawa	Kano	12.314	7.897	0	
+Yaan'Awaki Health Post	Tsanyawa	Kano	12.366	8.018	0	
+Dorayi Health Post	Tsanyawa	Kano	12.371	8.077	0	
+Kabagiwa Health Post	Tsanyawa	Kano	12.311	8.023	0	
+Nasarawa Health Post	Tsanyawa	Kano	12.370	7.992	0	
+Yankamaye Primary Health Centre	Tsanyawa	Kano	12.329	7.929	0	
+Daddarawa Health Post	Tsanyawa	Kano	12.236	8.075	0	
+Tafashiya Primary Health Centre	Tsanyawa	Kano	12.213	8.078	0	
+Bankamawa Health Post	Shanono	Kano	12.127	7.936	0	
+Yakanawa Primary Health Centre	Tsanyawa	Kano	12.194	7.984	0	
+Masaurari Health Post	Bagwai	Kano	12.124	8.078	0	
+Kundila Health Post	Shanono	Kano	12.130	7.985	0	
+Alajawa Health Post	Bagwai	Kano	12.102	7.994	0	
+Tudara Health Post	Bagwai	Kano	12.105	8.065	0	
+Alajawa Health Post	Shanono	Kano	12.115	7.966	0	
+Kuraku Health Post	Shanono	Kano	12.170	7.917	0	
+Jigilawa Health Post	Tsanyawa	Kano	12.194	8.064	0	
+Godarawa Health Post	Shanono	Kano	12.052	8.076	0	
+Dumbulum Primary Health Centre	Tsanyawa	Kano	12.192	8.016	0	
+Gadanya Health Post	Bagwai	Kano	12.091	8.039	0	
+Yan'Amar Health Post	Tsanyawa	Kano	12.413	8.080	0	
+Harbau Primary Health Centre	Tsanyawa	Kano	12.383	8.062	0	
+Shuwaki Primary Health Centre	Kunchi	Kano	12.425	8.173	0	
+Dunbule Health Post	Kunchi	Kano	12.506	8.245	0	
+Bumai Health Post	Kunchi	Kano	12.513	8.192	0	
+Danjaka Health Post	Kunchi	Kano	12.408	8.222	0	
+Galadimawa Health Post	Kunchi	Kano	12.489	8.221	0	
+Hugungumai Health Post	Kunchi	Kano	12.436	8.222	0	
+Malikawa Garu Health Post	Bichi	Kano	12.398	8.154	0	
+Karofawa Health Post	Kunchi	Kano	12.486	8.238	0	
+Gadaba Health Post	Kunchi	Kano	12.530	8.226	0	
+Yandadi Primary Health Centre	Kunchi	Kano	12.453	8.235	0	
+Unguwar Gyartai Health Post	Kunchi	Kano	12.441	8.168	0	
+Kunchi Primary Health Centre	Kunchi	Kano	12.502	8.275	0	
+Shamakawa Primary Health Centre	Kunchi	Kano	12.433	8.310	0	
+Yankifi Health Post	Kunchi	Kano	12.473	8.269	0	
+Tabani Health Post	Kunchi	Kano	12.414	8.330	0	
+Magawata Health Post	Kunchi	Kano	12.423	8.277	0	
+Kaya Health Post	Kunchi	Kano	12.550	8.268	0	
+Dankwai Health Post	Kunchi	Kano	12.410	8.356	0	
+Ganji Health Post	Makoda	Kano	12.422	8.395	0	
+Ridawa Health Post	Kunchi	Kano	12.455	8.347	0	
+Makoda Primary Health Centre	Makoda	Kano	12.423	8.428	0	
+Danmadaki Health Post	Makoda	Kano	12.581	8.499	0	
+Kantudu Health Post	Makoda	Kano	12.573	8.470	0	
+Masallachi Health Post	Dambatta	Kano	12.473	8.538	0	
+Maiganji Health Post	Dambatta	Kano	12.435	8.574	0	
+Jama'Ar Hazo Health Post	Makoda	Kano	12.546	8.521	0	
+Koren Tabo Health Post	Makoda	Kano	12.502	8.440	0	
+GSS Dambatta Health Post	Dambatta	Kano	12.425	8.517	0	
+Yammawa Health Post	Dambatta	Kano	12.508	8.469	0	
+Koguna Primary Health Centre	Makoda	Kano	12.385	8.460	0	
+Yan Bawa Health Post	Makoda	Kano	12.534	8.497	0	
+Jibga Fulani Health Post	Makoda	Kano	12.401	8.488	0	
+Chasko Health Post	Dambatta	Kano	12.554	8.591	0	
+Gwalaida Health Post	Dambatta	Kano	12.465	8.574	0	
+Marke Danya Health Post	Dambatta	Kano	12.462	8.460	0	
+Kurna Health Post	Makoda	Kano	12.546	8.480	0	
+Yammawa Gamji Health Post	Dambatta	Kano	12.488	8.476	0	
+Ajumawa Health Post	Dambatta	Kano	12.477	8.506	0	
+Diggol Health Post	Dambatta	Kano	12.525	8.559	0	
+Balloda Health Post	Dambatta	Kano	12.405	8.595	0	
+Kwasauri Health Post	Dambatta	Kano	12.431	8.678	0	
+Yammawa Wanzari Health Post	Dambatta	Kano	12.511	8.655	0	
+Goran Maje Primary Health Centre	Dambatta	Kano	12.534	8.687	0	
+Dungurmi Health Post	Dambatta	Kano	12.410	8.651	0	
+Kore Primary Health Centre	Dambatta	Kano	12.358	8.749	0	
+Laraba Takuya Health Post	Dambatta	Kano	12.367	8.687	0	
+Dan Dake Health Post	Gabasawa	Kano	12.218	8.721	0	
+Katsarduwa Health Post	Dambatta	Kano	12.332	8.665	0	
+Yumbu Health Post	Gabasawa	Kano	12.237	8.781	0	
+Tona Health Post	Dambatta	Kano	12.315	8.729	0	
+Shana Health Post	Gabasawa	Kano	12.262	8.742	0	
+Saidawa Health Post	Dambatta	Kano	12.274	8.631	0	
+Dumma Health Post	Dambatta	Kano	12.379	8.771	0	
+Koya Health Post	Dambatta	Kano	12.264	8.620	0	
+Doga Health Post	Gabasawa	Kano	12.223	8.810	0	
+Badawa Health Post	Gabasawa	Kano	12.256	8.888	0	
+Gambawa Health Post	Gabasawa	Kano	12.245	8.826	0	
+Yama Health Post	Gabasawa	Kano	12.271	8.812	0	
+Karmami Primary Health Centre	Gabasawa	Kano	12.106	8.823	0	
+Zakirai Primary Health Centre	Gabasawa	Kano	12.105	8.885	0	
+Tarauni Health Post	Gabasawa	Kano	12.113	8.897	0	
+Dadin Duniya Health Post	Gabasawa	Kano	12.165	8.889	0	
+Kawo Health Post	Gabasawa	Kano	12.162	8.854	0	
+Santsi Health Post	Gabasawa	Kano	12.050	8.879	0	
+Chikawa Health Post	Gabasawa	Kano	12.136	8.893	0	
+Kumbo Health Post	Gabasawa	Kano	12.204	8.884	0	
+Tankarau Health Post	Gabasawa	Kano	12.083	8.907	0	
+Gumawa Health Post	Gabasawa	Kano	12.139	8.862	0	
+Yar Zabaina Health Post	Gabasawa	Kano	12.155	8.799	0	
+Garun Danga Primary Health Centre	Gabasawa	Kano	12.207	8.842	0	
+Gabasawa Primary Health Centre	Gabasawa	Kano	12.176	8.906	0	
+Babawa Primary Health Centre	Gezawa	Kano	12.058	8.660	0	
+Zango Health Post	Gezawa	Kano	12.093	8.685	0	
+Mesaburmi Health Post	Gezawa	Kano	12.146	8.742	0	
+Immuali Health Post	Gezawa	Kano	12.116	8.731	0	
+Gezawa Health Post	Gezawa	Kano	12.101	8.751	0	
+Yaranchi Health Post	Gabasawa	Kano	12.166	8.755	0	
+Ketawa H.P Health Post	Gezawa	Kano	12.068	8.751	0	
+Baita Health Post	Gezawa	Kano	12.133	8.650	0	
+Gandurwawa Primary Health Centre	Minjibir	Kano	12.155	8.617	0	
+Wasai Health Post	Minjibir	Kano	12.154	8.675	0	
+Daradau Health Post	Gezawa	Kano	12.053	8.701	0	
+Mesatud Health Post	Gezawa	Kano	12.123	8.722	0	
+Kwadage Health Post	Gabasawa	Kano	12.142	8.784	0	
+Garji Health Post	Minjibir	Kano	12.196	8.626	0	
+Tsalle Health Post	Gezawa	Kano	12.081	8.715	0	
+Zaura Babba Primary Health Centre	Ungongo	Kano	12.059	8.620	0	
+Yautar Kudu Primary Health Centre	Gabasawa	Kano	12.197	8.759	0	
+Satame Health Post	Makoda	Kano	12.290	8.530	0	
+Tashar Basa Health Post	Makoda	Kano	12.336	8.445	0	
+Fagwalo Health Post	Dambatta	Kano	12.364	8.465	0	
+Jigawa Satame Health Post	Makoda	Kano	12.317	8.560	0	
+Zuru Felele Health Post	Makoda	Kano	12.347	8.539	0	
+Shantake Health Post	Makoda	Kano	12.346	8.518	0	
+Dalal Health Post	Makoda	Kano	12.368	8.517	0	
+Kauyen Mai Unguwar Primary Health Centre	Dambatta	Kano	12.371	8.487	0	
+Fagwalo Health Post	Bichi	Kano	12.301	8.443	0	
+Tangaji Health Post	Makoda	Kano	12.305	8.488	0	
+Wailare Health Post	Makoda	Kano	12.268	8.530	0	
+Dawon Kaya Health Post	Makoda	Kano	12.302	8.541	0	
+Jemomi Health Post	Dawakin Tofa	Kano	12.245	8.500	0	
+Takau Health Post	Dambatta	Kano	12.368	8.594	0	
+Yatsi Health Post	Bichi	Kano	12.255	8.471	0	
+Shiddar Health Post	Dambatta	Kano	12.375	8.567	0	
+Bakarari Health Post	Makoda	Kano	12.281	8.498	0	
+Kungu Health Post	Bichi	Kano	12.271	8.445	0	
+Roba Health Post	Dawakin Tofa	Kano	12.235	8.480	0	
+Dalal Mahuta Health Post	Dambatta	Kano	12.321	8.607	0	
+Sabon Ruwa Health Post	Makoda	Kano	12.372	8.438	0	
+Maitsidau Primary Health Centre	Makoda	Kano	12.355	8.496	0	
+Sabon Gari Doka Health Post	Ungongo	Kano	12.088	8.448	0	
+Katsinawa Health Post	Ungongo	Kano	12.062	8.449	0	
+Rijiyar Lemo Maternal and Child Health	Fagge	Kano	12.055	8.477	0	
+Gyaranya Health Post	Minjibir	Kano	12.196	8.590	0	
+Yammata Health Post	Fagge	Kano	12.064	8.473	0	
+Galula Health Post	Ungongo	Kano	12.043	8.574	0	
+Sabon Gari Rangaza Primary Health Centre	Ungongo	Kano	12.055	8.606	0	
+Fango Health Post	Dawakin Tofa	Kano	12.176	8.446	0	
+Kurna Primary Health Centre	Dala	Kano	12.045	8.482	0	
+Baguja Health Post	Ungongo	Kano	12.101	8.521	0	
+Kwuidawa Health Post	Dawakin Tofa	Kano	12.164	8.475	0	
+Kuru Health Post	Minjibir	Kano	12.169	8.530	0	
+Bachirawa Health Post	Ungongo	Kano	12.058	8.463	0	
+Inusawa Primary Health Centre	Ungongo	Kano	12.069	8.597	0	
+Danrirmi Health Post	Ungongo	Kano	12.058	8.489	0	
+Tudun Bojuwa Health Post	Fagge	Kano	12.050	8.487	0	
+Shauni Primary Health Centre	Ungongo	Kano	12.048	8.609	0	
+Tsakiya Health Post	Minjibir	Kano	12.138	8.552	0	
+Nigerian Air Force Primary Health Centre	Fagge	Kano	12.045	8.532	0	
+Jalli Health Post	Dawakin Tofa	Kano	12.184	8.463	0	
+Gayawa Primary Health Centre	Ungongo	Kano	12.055	8.562	0	
+Sambauna Primary Health Centre	Minjibir	Kano	12.125	8.599	0	
+Dalal Primary Health Centre	Ungongo	Kano	12.046	8.567	0	
+Dankunkuru Health Post	Ungongo	Kano	12.065	8.571	0	
+Yakasai Health Post	Dawakin Tofa	Kano	12.156	8.483	0	
+Tarda Health Post	Ungongo	Kano	12.115	8.519	0	
+Kaura Goje Primary Health Centre	Nassarawa	Kano	12.044	8.546	0	
+Fanisau Primary Health Centre	Ungongo	Kano	12.079	8.535	0	
+Dausara Primary Health Centre	Ungongo	Kano	12.073	8.581	0	
+Rijiyar Lemo Primary Health Centre	Fagge	Kano	12.047	8.481	0	
+Zangon Barebari Health Post	Ungongo	Kano	12.070	8.486	0	
+Jaba Primary Health Centre	Fagge	Kano	12.059	8.546	0	
+Zabainawar Dansudu Health Post	Minjibir	Kano	12.159	8.511	0	
+Dan Itache Health Post	Dawakin Tofa	Kano	12.208	8.497	0	
+Doka Health Post	Ungongo	Kano	12.096	8.469	0	
+Kantama Babba Health Post	Minjibir	Kano	12.182	8.594	0	
+Gera Health Post	Ungongo	Kano	12.089	8.552	0	
+Madaci Health Post	Dawakin Tofa	Kano	12.196	8.474	0	
+Kadawa Primary Health Centre	Ungongo	Kano	12.076	8.457	0	
+Kwachiri Primary Health Centre	Fagge	Kano	12.066	8.501	0	
+Dawanau Primary Health Centre	Dawakin Tofa	Kano	12.095	8.438	0	
+Tattarawa Primary Health Centre	Dawakin Tofa	Kano	12.177	8.382	0	
+Gulbi Health Post	Bichi	Kano	12.182	8.289	0	
+Gajida Health Post	Tofa	Kano	12.081	8.282	0	
+Romi Health Post	Dawakin Tofa	Kano	12.126	8.368	0	
+Chedi Bubba Ruga Health Post	Dawakin Tofa	Kano	12.139	8.393	0	
+Yarrutu Health Post	Dawakin Tofa	Kano	12.117	8.296	0	
+GSS Gramma Health Post	Dawakin Tofa	Kano	12.102	8.334	0	
+Danguguwa Health Post	Dawakin Tofa	Kano	12.058	8.395	0	
+Dungurawa Health Post	Dawakin Tofa	Kano	12.163	8.358	0	
+Chedi Maidala Health Post	Dawakin Tofa	Kano	12.135	8.422	0	
+Tsaure Health Post	Bichi	Kano	12.207	8.320	0	
+Dogon Marke Health Post	Dawakin Tofa	Kano	12.154	8.320	0	
+Marke Health Post	Dawakin Tofa	Kano	12.129	8.272	0	
+Dindere Health Post	Tofa	Kano	12.091	8.265	0	
+Sarkakiya Health Post	Dawakin Tofa	Kano	12.127	8.338	0	
+Gudau Health Post	Dawakin Tofa	Kano	12.180	8.357	0	
+Badume Health Post	Bichi	Kano	12.189	8.313	0	
+Yakasai Health Post	Bichi	Kano	12.202	8.292	0	
+Gabari Health Post	Dawakin Tofa	Kano	12.047	8.395	0	
+SSS Dawakin Tofa Health Post	Dawakin Tofa	Kano	12.118	8.339	0	
+Kwa Health Post	Dawakin Tofa	Kano	12.149	8.374	0	
+Kunnawa Health Post	Dawakin Tofa	Kano	12.175	8.333	0	
+Sanakur Health Post	Bichi	Kano	12.165	8.265	0	
+Kyauta Health Post	Bichi	Kano	12.194	8.339	0	
+Bagadawa Health Post	Dawakin Tofa	Kano	12.121	8.403	0	
+Fagen Kawo Health Post	Dawakin Tofa	Kano	12.081	8.417	0	
+Yalwa Karama Health Post	Tofa	Kano	12.058	8.335	0	
+Gwamai Health Post	Dawakin Tofa	Kano	12.185	8.319	0	
+Gargari Health Post	Dawakin Tofa	Kano	12.178	8.302	0	
+Kadawa Health Post	Dawakin Tofa	Kano	12.072	8.373	0	
+Yanoko Primary Health Centre	Tofa	Kano	12.055	8.298	0	
+Bugai Primary Health Centre	Tofa	Kano	12.042	8.316	0	
+Buruntumau Health Post	Dawakin Tofa	Kano	12.184	8.421	0	
+Tudun Wada Health Post	Nassarawa	Kano	12.023	8.554	0	
+Mallam Shuaibu Primary Health Centre	Nassarawa	Kano	12.021	8.557	0	
+Unguwar Uku Primary Health Centre	Tarauni	Kano	11.958	8.561	0	
+Hotoro Danmarke Health Post	Tarauni	Kano	11.962	8.581	0	
+Alganari Health Facility	Zaki	Bauchi	12.437	10.356	0	
+Primary Health Center Barnesu	Zaki	Bauchi	12.332	10.348	0	
+Zubuki Health Post	Itas/Gadau	Bauchi	11.835	10.047	0	
+Ragwan Health Clinic	Katagum	Bauchi	11.744	10.106	0	
+Yaraye Health Center	Itas/Gadau	Bauchi	11.832	9.844	0	
+Majiya Health Post	Itas/Gadau	Bauchi	11.832	9.903	0	
+Buzawa Health Post	Itas/Gadau	Bauchi	11.768	9.704	0	
+Garin Dole Health Post	Itas/Gadau	Bauchi	11.759	9.662	0	
+Duhuwa Health Post	Itas/Gadau	Bauchi	11.732	9.690	0	
+Garai Primary Health Center	Itas/Gadau	Bauchi	11.816	9.901	0	
+Majiya Health Center	Itas/Gadau	Bauchi	11.836	9.897	0	
+Jarmawo Maternal And Child Health Clinic	Giade	Bauchi	11.544	10.320	0	
+Ngaima Health Center	Nangere	Yobe	11.775	10.893	0	
+Tale Health Clinic	Damban	Bauchi	11.602	10.866	0	
+Primary Health Center Andubun	Shira	Bauchi	11.513	9.822	0	
+Karabarwa Maternity Health Center	Shira	Bauchi	11.582	9.920	0	Katabuwa Dispensary
+Katsalle Health Clinic	Katagum	Bauchi	11.668	10.180	0	
+Gwaram Primary Health Center	Misau	Bauchi	11.463	10.580	0	
+Duwo Health Center	Ganjuwa	Bauchi	10.844	10.428	0	
+Tashan Babiye C Health Center	Bauchi	Bauchi	10.306	9.845	0	
+Molete Health Centre	Ibadan South West	Oyo	7.360	3.889	0	
+Adifase Comprehensive Health Centre	Ibadan South West	Oyo	7.387	3.829	0	
+Primary Heath Care Luda	Bauchi	Bauchi	10.045	9.872	0	
+Mmaternity and Child Health Center Dajin	Tafawa-Balewa	Bauchi	10.033	9.641	0	
+Mararraban/L Katagum Health Clinic	Bauchi	Bauchi	10.104	9.665	0	
+Kungas Health Clinic	Bauchi	Bauchi	10.064	9.896	0	
+Bundilin Kasa Health Facility	Dass	Bauchi	9.972	9.605	0	
+Kowa Health Clinic Rimin Zayam	Toro	Bauchi	10.140	9.290	0	
+Zumbul Dangri Health Clinic	Dass	Bauchi	10.018	9.467	0	
+Ajiya Health Post	Dass	Bauchi	10.006	9.526	0	Ecwa Health Clinic
+Dumba Health Clinic	Dass	Bauchi	10.062	9.456	0	
+Debardak Maternity Health Clinic	Dass	Bauchi	10.013	9.556	0	
+Garam Health Facility	Dass	Bauchi	9.973	9.522	0	
+Latahazan Health Clinic	Toro	Bauchi	10.044	8.994	0	
+Ecwa Health Clinic	Toro	Bauchi	10.250	9.016	0	
+Zungur Primary Health Center	Bauchi	Bauchi	9.970	9.789	0	
+Tsohon Garin Lukshi Health Center	Dass	Bauchi	10.031	9.420	0	
+Bazali Primary Health Center	Dass	Bauchi	10.094	9.394	0	Primary Health Center Polchi
+Jalingo Health Clinc	Bauchi	Bauchi	10.120	10.149	0	
+Yola Maternal Child Health Clinic	Bauchi	Bauchi	10.138	10.115	0	Badakoshi Maternal and Child Health Clinic
+Yalwan Duguri Model Primary Health Center	Alkaleri	Bauchi	9.960	10.184	0	
+Dan Health Post	Alkaleri	Bauchi	9.875	10.175	0	
+Zakshi Primary Health Center	Toro	Bauchi	9.941	9.347	0	
+Falke Primary Health Center	Bauchi	Bauchi	9.947	9.865	0	
+Shira Health Clinic	Alkaleri	Bauchi	10.050	10.279	0	
+Gala Health Clinic	Dass	Bauchi	9.900	9.403	0	
+Wurno Community Primary Health Center	Tafawa-Balewa	Bauchi	9.799	9.892	0	Burda Mph
+Kumbala Health Clinic	Alkaleri	Bauchi	9.893	10.041	0	
+Juwara Maternity and Child Health Center	Bauchi	Bauchi	9.962	9.942	0	
+Bunja Health Clinic	Dass	Bauchi	9.967	9.494	0	
+Modern Primary Health Center Bakin Kogi	Alkaleri	Bauchi	10.074	10.351	0	
+S Gari Primary Health Center	Dass	Bauchi	9.959	9.508	0	
+Mai Juju Tasha Health Clinic	Tafawa-Balewa	Bauchi	9.743	9.158	0	
+Murno Health Post	Tafawa-Balewa	Bauchi	9.725	9.277	0	
+Bogoro Maternal and Child Health Clinic	Bogoro	Bauchi	9.661	9.598	0	
+Marin Daji Health Clinic	Tafawa-Balewa	Bauchi	9.686	9.441	0	
+Health Clinic Bongah	Bogoro	Bauchi	9.627	9.562	0	
+Bazanshi Health Center	Bogoro	Bauchi	9.715	9.529	0	
+Bonga Health Center	Bogoro	Bauchi	9.655	9.571	0	Mwari Pmss Clinic
+Gwana Maternal and Child Health Clinic	Alkaleri	Bauchi	9.653	10.752	0	
+Dasham Bakin Kogi Health Center	Kanke	Plateau	9.494	9.545	0	
+Yola Nora Health Clinic	Tafawa-Balewa	Bauchi	9.736	9.741	0	
+Tapshin Health Clinic	Tafawa-Balewa	Bauchi	9.504	9.461	0	
+Lafiyan-sara Maternal and Child Health Clinic	Bogoro	Bauchi	9.686	9.554	0	
+Zaki Health Center	Bogoro	Bauchi	9.660	9.597	0	
+Dambar Health Center	Bogoro	Bauchi	9.625	9.458	0	
+Mwari Maternity and Child Health Center	Bogoro	Bauchi	9.669	9.575	0	
+Anglican Health Clinic Sara	Tafawa-Balewa	Bauchi	9.633	9.427	0	
+Taki Health Clinic	Tafawa-Balewa	Bauchi	9.635	9.941	0	
+Lere Primary Health Center	Tafawa-Balewa	Bauchi	9.713	9.338	0	
+Herbert Orji Avenue	Eti Osa	Lagos	6.447	3.510	1	
+Gamboru Primary Health Care Center	Ngala	Borno	12.370	14.211	0	
+Gora Health Clinic	Shani	Borno	10.046	11.913	0	Gora Dispensry
+Ngollam Health Clinic	Monguno	Borno	12.530	13.699	0	
+Masba Abbari Health Clinic	Konduga	Borno	11.599	13.020	0	
+Matta Gujjari Health Clinic	Mafa	Borno	11.806	13.689	0	
+Mukhtari Health Clinic	Mafa	Borno	11.824	13.598	0	
+Ngelzarma Maternal and Child Health Center	Fune	Yobe	11.686	11.628	0	
+Health Center Road	Ikwerre	Rivers	4.918	6.910	1	
+mildu model primary heath center	Madagali	Adamawa	10.829	13.570	0	
+Charles Heary Secondary School	Ideato North	Imo	5.856	7.104	0	
+Gamboru A Health Post	Ngala	Borno	12.362	14.208	0	
+Eyin Oke Health Centre	Atakunmosa West	Osun	7.604	4.697	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.063	7.474	1	
+Migration Health Assessment Center - Abuja	Municipal Area Council	FCT Abuja	9.086	7.472	0	
+Sacred Heart Close	Eti Osa	Lagos	6.475	3.571	1	
+Kessangarola Health Post	Nganzai	Borno	12.136	13.268	0	
+Herik Close	Ifo	Ogun	6.685	3.322	1	
+CHIBRA HEALTH POST	Bayo	Borno	10.375	11.810	0	
+Dambitam dispensary health post	Bayo	Borno	10.447	11.746	0	
+Jajere Maternal And Child Health Care	Fune	Yobe	11.983	11.437	0	
+Henry Fajemirokun Street	Akure North	Ondo	7.264	5.209	1	
+Gurigwa Health Clinic	Fufore	Adamawa	8.916	12.597	0	
+Essence International School African Heritage Village	Kaduna North	Kaduna	10.536	7.455	0	
+Bosso health post	Demsa	Adamawa	9.559	12.147	0	
+Logumani Health Clinic	Ngala	Borno	12.200	14.017	0	
+Degubi Model Health Centre	Nangere	Yobe	11.646	10.987	0	
+Open Heaven Academy	Obio/Akpor	Rivers	4.877	6.913	0	
+Open Heaven Church Road	Obio/Akpor	Rivers	4.877	6.913	1	
+Bannalewa Health Post	Fune	Yobe	12.051	11.513	0	
+Herbert Macauley Road	Port-Harcourt	Rivers	4.791	7.010	1	
+Hewett St	Calabar Municipal	Cross River	4.958	8.320	1	
+Comprehensive Health Center Bakeko	Katcha	Niger	8.958	6.210	0	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.066	7.468	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.068	7.463	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.067	7.454	1	
+Cardia Heart Street	Kumbotso	Kano	11.950	8.478	1	
+CS Hedima Street	Municipal Area Council	FCT Abuja	9.045	7.552	1	
+Henry Miami Street	Oshimili North	Delta	6.220	6.649	1	
+Idikan Community Health Centre (UCH Annex)	Ibadan North West	Oyo	7.383	3.891	0	
+OAU Health Centre	Ife Central	Osun	7.519	4.516	0	
+Maternity Health Post	Yunusari	Yobe	13.158	11.672	0	
+Bulabulin Maternal and Child Health Care	Yunusari	Yobe	13.068	12.371	0	
+Balanguwa Model Primary Health Center	Nguru	Yobe	13.026	10.415	0	
+Lawan Musa Maternity and  Child Health Clinic	Barde	Yobe	12.870	11.048	0	
+Bauwa Health Post	Fune	Yobe	11.464	11.419	0	
+Dubbol Model Primary Health Care	Fune	Yobe	11.462	11.467	0	
+Army Barrack Health Clinic	Nguru	Yobe	12.878	10.491	0	
+Heliport Ugborikoko	Uvwie	Delta	5.542	5.769	0	
+Calabar Municipal Government Headquarters	Calabar Municipal	Cross River	4.974	8.342	0	
+Henrik Road	Mobbar	Borno	13.075	12.508	1	
+Ngojin Health Facility	Potiskum	Yobe	11.653	11.070	0	
+Onikan Health Centre	Lagos Island	Lagos	6.445	3.405	0	
+Primary Health center	Ìkòròdú	Lagos	6.613	3.503	0	
+Ikwette Health Center	Obanliku	Cross River	6.399	9.406	0	
+E. Henry Street	Port-Harcourt	Rivers	4.761	7.034	1	
+Our Lady's Health of the Sick Hospital	Port-Harcourt	Rivers	4.801	7.019	0	
+Obussa Primary Health Center	Oju	Benue	6.830	8.295	0	
+Ebute Metta Health Centre	Lagos Mainland	Lagos	6.488	3.385	0	
+Agura Primary Health Care Centre	Ìkòròdú	Lagos	6.580	3.628	0	
+Ogoloma Health Centre	Okrika	Rivers	4.736	7.079	0	
+Heyden	Eti Osa	Lagos	6.460	3.555	0	
+Primary Health Center, Badore	Eti Osa	Lagos	6.509	3.612	0	
+Fountain Heights Secondary School	Surulere	Lagos	6.494	3.349	0	
+Gulu Primary Health Centre	Rimin Gado	Kano	11.866	8.301	0	
+Kudurun Health Post	Madobi	Kano	11.789	8.378	0	
+Ningawa Health Post	Madobi	Kano	11.822	8.401	0	
+Rikadawa Health Post	Madobi	Kano	11.734	8.309	0	
+Sani Mashal Primary Health Centre	Kura	Kano	11.770	8.426	0	
+Yakun Health Post	Madobi	Kano	11.740	8.265	0	
+Burji Primary Health Centre	Doguwa	Kano	11.166	8.547	0	
+Rufan Health Post	Tudun Wada	Kano	11.318	8.718	0	
+Sitti Primary Health Centre	Sumaila	Kano	11.287	8.789	0	
+Masu Primary Health Centre	Sumaila	Kano	11.202	8.806	0	Massu Primary Health Centre
+Yaryasa Health Post	Tudun Wada	Kano	11.337	8.308	0	
+Balare Primary Health Centre	Ajingi	Kano	11.991	8.931	0	
+Abakpa Nike Health Centre	Enugu East	Enugu	6.479	7.516	0	
+Health Solutions Specialist Hospital	Enugu East	Enugu	6.477	7.490	0	
+Lajawa Primary Health Centre	Wudil	Kano	11.870	8.923	0	
+Tagwaye Health Post	Doguwa	Kano	10.781	8.594	0	
+Bono Health Post	Bunkure	Kano	11.704	8.632	0	
+Dawakiji Primary Health Centre	Dawakin Kudu	Kano	11.864	8.704	0	
+Fanchan Health Post	Dawakin Kudu	Kano	11.780	8.722	0	
+Danhassan Primary Health Centre	Kura	Kano	11.794	8.517	0	
+Dukawa Primary Health Centre	Kura	Kano	11.776	8.588	0	
+Gundutse Health Post	Kura	Kano	11.825	8.514	0	
+Gurjiya Primary Health Centre	Bunkure	Kano	11.750	8.556	0	
+Karfi Primary Health Centre	Kura	Kano	11.825	8.497	0	
+Amarawa Health Post	Gaya	Kano	11.818	8.901	0	
+Fadi Sonka Health Post	Wudil	Kano	11.785	8.876	0	
+Ogui Nike Health Center	Enugu North	Enugu	6.434	7.502	0	
+Tsaraka Health Post	Bichi	Kano	12.215	8.182	0	
+Tudun Gunsau Health Post	Wudil	Kano	11.760	8.852	0	
+Utai Primary Health Centre	Wudil	Kano	11.744	8.882	0	
+Gama Health Post	Nassarawa	Kano	12.034	8.552	0	
+Gurungawa Health Post	Kumbotso	Kano	11.936	8.524	0	
+Dorawar Sallau Health Post	Garum Mallam	Kano	11.669	8.416	0	
+Kadawa Gate Primary Health Centre	Garum Mallam	Kano	11.644	8.412	0	
+Kofa Primary Health Centre	Bebeji	Kano	11.555	8.264	0	
+Tariwa Primary Health Centre	Bebeji	Kano	11.599	8.315	0	
+Wak Primary Health Centre	Bebeji	Kano	11.591	8.358	0	
+Ahmad Ado Bayero Primary Health Centre	Kumbotso	Kano	11.927	8.580	0	
+Aisami Health Post	Gwale	Kano	11.995	8.500	0	
+Akth Primary Health Centre	Kumbotso	Kano	11.892	8.500	0	
+Bakin Ruwa Health Post	Dala	Kano	11.999	8.503	0	
+Bechi Health Post	Kumbotso	Kano	11.926	8.492	0	
+Bokavo Health Post	Fagge	Kano	12.033	8.508	0	
+Chiranchi Health Post	Kumbotso	Kano	11.952	8.476	0	
+Dala Health Post	Dala	Kano	12.013	8.506	0	
+Dandinshe Primary Health Centre	Dala	Kano	12.021	8.486	0	
+Danmaliki Health Post	Kumbotso	Kano	11.927	8.514	0	
+Dausayi Health Post	Ungongo	Kano	12.013	8.444	0	
+Dorayi Babba Health Post	Gwale	Kano	11.975	8.462	0	
+Kokiya Health Post	Shanono	Kano	12.006	8.054	0	
+Hotoro Primary Health Centre	Nassarawa	Kano	11.975	8.583	0	
+Hotoro South Health Post	Nassarawa	Kano	11.970	8.582	0	
+Kauye Alu Primary Health Centre	Tarauni	Kano	11.960	8.572	0	
+Kawaji Health Post	Nassarawa	Kano	12.010	8.577	0	
+Sani Zubairu Health Post	Gwale	Kano	11.987	8.510	0	
+Tokarawa Primary Health Centre	Nassarawa	Kano	12.008	8.606	0	
+Turai Yar'Adua Primary Health Centre	Kumbotso	Kano	11.953	8.515	0	
+Zawa Chiki Primary Health Centre	Kumbotso	Kano	11.919	8.466	0	
+Kutama Primary Health Centre	Gwarzo	Kano	11.870	7.873	0	
+Lakwaya Primary Health Centre	Gwarzo	Kano	11.983	7.867	0	
+Rahama Primary Health Centre	Bebeji	Kano	11.408	8.273	0	
+Warawa Primary Health Centre	Warawa	Kano	11.876	8.746	0	
+Burji Primary Health Centre	Madobi	Kano	11.894	8.395	0	
+Danshayi Health Post	Rimin Gado	Kano	11.895	8.376	0	
+Dansudu Health Post	Tofa	Kano	11.998	8.326	0	
+Tsanyawa Primary Health Centre	Tsanyawa	Kano	12.298	7.981	0	
+Dawaki Health Post	Rano	Kano	11.550	8.579	0	
+Dundu Health Post	Bunkure	Kano	11.666	8.713	0	
+Durba Health Post	Kibiya	Kano	11.571	8.719	0	
+Kibiya Primary Health Centre	Kibiya	Kano	11.533	8.663	0	
+Gunda Health Post	Kibiya	Kano	11.506	8.713	0	
+Faruruwa Primary Health Centre	Shanono	Kano	12.183	7.939	0	
+Gogori Primary Health Centre	Bagwai	Kano	12.147	8.070	0	
+Jauben Yamma Health Post	Bagwai	Kano	12.067	8.056	0	
+Tarai Primary Health Centre	Kibiya	Kano	11.500	8.673	0	
+Ahip Primary Health Centre	Garko	Kano	11.644	8.802	0	
+Darki Primary Health Centre	Wudil	Kano	11.660	8.919	0	
+Garko Primary Health Centre	Garko	Kano	11.642	8.801	0	
+Garko Primary Health Centre	Garko	Kano	11.656	8.804	0	
+Kofar Chiri Primary Health Centre	Garko	Kano	11.601	8.863	0	
+Janguza Primary Health Centre	Tofa	Kano	11.959	8.379	0	
+Lambu Primary Health Centre	Tofa	Kano	12.007	8.353	0	
+Runkusawa Health Post	Kumbotso	Kano	11.891	8.427	0	
+Dan Isa Health Post	Rimin Gado	Kano	11.939	8.226	0	
+Gudan Tuwo Health Post	Shanono	Kano	11.998	8.066	0	
+Bakin Lahadi Health Post	Sumaila	Kano	11.357	8.947	0	
+Dal Primary Health Centre	Garko	Kano	11.476	8.825	0	
+Kadamu Primary Health Centre	Shanono	Kano	12.178	7.984	0	
+Sare-Sare Primary Health Centre	Bagwai	Kano	12.123	8.050	0	
+Ungogo Primary Health Centre	Ungongo	Kano	12.092	8.490	0	
+Badume Primary Health Centre	Dawakin Tofa	Kano	12.188	8.311	0	
+Danguguwa Primary Health Centre	Dawakin Tofa	Kano	12.060	8.394	0	
+Tofa Primary Health Centre	Tofa	Kano	12.062	8.271	0	
+Abbas Primary Health Centre	Bagwai	Kano	12.153	8.136	0	
+Balan Primary Health Centre	Gaya	Kano	11.810	9.023	0	
+Gidan Sarkin Noma Primary Health Centre	Gaya	Kano	11.823	9.120	0	
+Ajingi Primary Health Centre	Ajingi	Kano	11.970	9.043	0	
+Makarya Primary Health Centre	Ajingi	Kano	11.936	9.113	0	
+Disina Primary Health Center	Shira	Bauchi	11.476	9.914	0	
+Faggo Model Primary Health Center	Shira	Bauchi	11.384	9.958	0	
+Yana Health Clinic	Shira	Bauchi	11.412	10.014	0	
+Giade Maternity and Child Health Center	Giade	Bauchi	11.386	10.184	0	
+Model Primary Health Center Jamaa	Shira	Bauchi	11.460	10.111	0	
+Maternity and Child Health Centerealth Center Faguji	Giade	Bauchi	11.514	10.257	0	
+Model Primary Health Center Zabi	Giade	Bauchi	11.498	10.296	0	
+Sabon Sara Primary Health Center	Giade	Bauchi	11.432	10.302	0	
+Uzum Maternal And Child Health Clinic	Giade	Bauchi	11.519	10.206	0	
+Primary Health Center Akuyam	Misau	Bauchi	11.466	10.627	0	
+Wahu Health Center	Darazo	Bauchi	11.386	10.656	0	
+Chinade Primary Health Center	Katagum	Bauchi	11.518	10.426	0	Low Cost A Primary Health Care Center
+Rigar Ganji Primary Health Center	Misau	Bauchi	11.486	10.498	0	
+Lanzai Primary Health Center	Darazo	Bauchi	11.430	10.803	0	
+Zobo Health Post	Darazo	Bauchi	11.214	10.919	0	
+Garin Abare Health Center	Darazo	Bauchi	11.249	10.896	0	
+Papa Model Primary Health Center	Darazo	Bauchi	11.243	10.838	0	
+Kari Health Center	Darazo	Bauchi	11.241	10.553	0	
+Yubunga Primary Health Center	Darazo	Bauchi	11.247	10.580	0	Zandam Dispensary
+Dunkwui Kasuwa Primary Health Center	Misau	Bauchi	11.336	10.537	0	
+Lago Health Center	Darazo	Bauchi	11.181	10.489	0	
+Primary Health Center Beti	Misau	Bauchi	11.292	10.418	0	
+Yalwa Primary Health Center	Giade	Bauchi	11.250	10.246	0	
+Dallaji Primary Health Center	Warji	Bauchi	11.213	9.675	0	
+Nasaru Model Primary Health Center	Ningi	Bauchi	11.226	9.603	0	
+Kafin Lemo Health Clinic	Sumaila	Kano	11.269	9.028	0	
+Shirgiya Health Clinic	Sumaila	Kano	11.317	9.119	0	
+Primary Health Center Rishi	Toro	Bauchi	10.484	8.940	0	
+Wundi Maternity Health Clinic	Toro	Bauchi	10.478	8.898	0	
+Zalau Primary Health Center	Toro	Bauchi	10.393	9.015	0	
+Ibrahim Bako Health Center	Bauchi	Bauchi	10.316	9.882	0	
+Primary Health Center Doya	Bauchi	Bauchi	10.315	9.852	0	Maternity Bayan Fada
+Barum Primary Health Center	Bauchi	Bauchi	10.352	10.066	0	Beru Primary Health Center
+Badara Health Clinic	Kirfi	Bauchi	10.348	10.360	0	
+Beni Health Clinic	Kirfi	Bauchi	10.462	10.397	0	
+Wanka Health Clinic	Kirfi	Bauchi	10.451	10.432	0	
+Health Center Tubule	Kirfi	Bauchi	10.460	10.670	0	
+Health Center	Ìkòròdú	Lagos	6.592	3.523	0	
+Adum Primary Health Center	Olamaboro	Kogi	7.163	7.651	0	
+Bara Health Center	Kirfi	Bauchi	10.371	10.725	0	
+Lariski Health Clinic	Kirfi	Bauchi	10.344	10.811	0	
+Zongoma Health Clinic	Kirfi	Bauchi	10.425	10.782	0	
+Garin Sale Maimaciji Health Center	Kirfi	Bauchi	10.265	10.669	0	
+Kwaimawa Health Post	Alkaleri	Bauchi	10.176	10.718	0	
+Bartak Health Post	Alkaleri	Bauchi	10.269	10.336	0	
+Gwaram Health Clinic	Alkaleri	Bauchi	10.238	10.286	0	
+Pali Health Center	Alkaleri	Bauchi	10.273	10.340	0	
+Shafa Primary Health Center	Bauchi	Bauchi	10.154	10.129	0	
+Gudun Primary Health Center	Bauchi	Bauchi	10.270	9.854	0	
+Jitar Primary Health Center	Bauchi	Bauchi	10.239	9.934	0	
+Kangyare Primary Health Center	Bauchi	Bauchi	10.261	9.997	0	
+Kir Maternal And Child Health Care	Bauchi	Bauchi	10.154	9.875	0	
+Kofar Dumi Maternal and Child Health Clinic	Bauchi	Bauchi	10.308	9.857	0	Maternity and Child Health Center Tudun Wadan
+Isale Osi Primary Health Centre	Ibadan South West	Oyo	7.374	3.891	0	
+Miri Primary Health Center	Bauchi	Bauchi	10.309	9.744	0	Dumin Zungur Dispensary
+Model Primary Health Center Wuntin Dada	Bauchi	Bauchi	10.314	9.770	0	
+Primary Health Center Federal Lowcost	Bauchi	Bauchi	10.287	9.828	0	
+Rumba Primary Health Center	Bauchi	Bauchi	10.153	9.799	0	Gangu Dispensary
+Nobordo Primary Health Center	Toro	Bauchi	10.223	9.398	0	
+sabo public healthcare centre	Ibadan North West	Oyo	7.402	3.886	0	
+Odinjo Comprehensive Health Center	Ibadan South East	Oyo	7.359	3.913	0	
+the polytechnic health center	Ibadan North	Oyo	7.436	3.885	0	
+idiogun maternity health clinic	Ibadan North	Oyo	7.395	3.918	0	
+ladisa memorial health center	Ibadan North	Oyo	7.448	3.911	0	
+agbowo community maternity health center	Ibadan North	Oyo	7.449	3.914	0	
+ashi health center ( basorun)	Ibadan North	Oyo	7.426	3.931	0	
+primary health care center basorun	Ibadan North	Oyo	7.415	3.933	0	
+Ibadan North East LG Primary Health Care Centre, Iwo Road	Ibadan North East	Oyo	7.404	3.934	0	
+Akeke/Olorombo Health Centre, Bashorun	Ibadan North East	Oyo	7.416	3.939	0	
+Health Clinic, Aremo, Atipe	Ibadan North East	Oyo	7.378	3.916	0	
+Ode Aje Health Centre	Ibadan North East	Oyo	7.382	3.916	0	
+St.Mary's Health Centre	Ibadan North East	Oyo	7.386	3.918	0	
+Agugu Community Health Centre, Agugu	Ibadan North East	Oyo	7.384	3.922	0	
+Oke'badan Community Health And Maternity Centre	Ibadan North East	Oyo	7.387	3.923	0	
+Oke Adu Health Centre, Oke Adu	Ibadan North East	Oyo	7.389	3.917	0	
+Lagelu Ilupeju Health Centre, Agugu	Ibadan North East	Oyo	7.386	3.927	0	
+Sabon Gari Health Clinic	Toro	Bauchi	10.206	9.361	0	
+Edunabon Community Health Centre	Ife North	Osun	7.553	4.458	0	
+Bara Health Center	Gulani	Yobe	10.937	11.680	0	
+Umuezie Health Center	Aboh-Mbaise	Imo	5.493	7.193	0	
+Wurobagga Primary Health Centre	Bagwai	Kano	12.150	8.098	0	
+Tashena Model Primary Health Center	Zaki	Bauchi	12.306	10.287	0	
+Atafowa Primary Health Center	Itas/Gadau	Bauchi	11.964	10.064	0	Sharfori Dispensary
+Bakar Kuka Primary Health Center	Itas/Gadau	Bauchi	12.001	10.122	0	
+Melandige Maternity And Child Health Care	Itas/Gadau	Bauchi	11.956	10.213	0	
+Momari Health Post	Itas/Gadau	Bauchi	11.898	10.247	0	
+Gadiya Primary Health Center	Gamawa	Bauchi	11.963	10.450	0	
+Primary Health Center Wabu	Gamawa	Bauchi	11.963	10.742	0	
+Duwaru Health Post	Gamawa	Bauchi	12.042	10.741	0	
+Marana Health Clinic	Gamawa	Bauchi	12.119	10.746	0	
+Kekeno Health Center	Gamawa	Bauchi	12.174	10.652	0	
+Primary Health Center Gamawa	Gamawa	Bauchi	12.133	10.533	0	Gwarbatu Dispensary Clinic
+Makawa Primary Health Care	Zaki	Bauchi	12.206	10.197	0	
+Model Primary Health Care Murmur	Zaki	Bauchi	12.133	10.213	0	
+Alegongo Primary Health Care Centre	Lagelu	Oyo	7.441	3.952	0	
+Model Primary Health Center Gololo	Gamawa	Bauchi	12.314	10.690	0	
+Model Primary Health Center Mainawa	Gamawa	Bauchi	12.221	10.411	0	
+Lodiyo Primary Heaith Care	Zaki	Bauchi	12.386	10.579	0	
+Bambal Gabas Primary Health Center	Itas/Gadau	Bauchi	11.747	9.738	0	
+Gambara Health Post	Itas/Gadau	Bauchi	11.828	9.691	0	
+Magarya Primary Health Center	Itas/Gadau	Bauchi	11.860	9.805	0	
+Dogon Jeji Health Clinic	Jama'Are	Bauchi	11.739	9.955	0	Kofar Yamma
+Mashema Primary Health Center	Itas/Gadau	Bauchi	11.786	9.944	0	
+Talba Model Primary Health Center	Jama'Are	Bauchi	11.708	9.849	0	
+Gadau Primary Health Center	Itas/Gadau	Bauchi	11.833	10.165	0	
+Dagauda Primary Health Center	Damban	Bauchi	11.706	10.860	0	
+Model Primary Health Center Gurbana	Damban	Bauchi	11.733	10.729	0	
+Model Primary Health Center Jalam	Damban	Bauchi	11.557	10.839	0	
+Yame Model Primary Health Center	Damban	Bauchi	11.592	10.647	0	
+Yayu Primary Health Center	Katagum	Bauchi	11.543	10.557	0	
+Bulkachuwa Matenity/Primary Health Center	Katagum	Bauchi	11.647	10.512	0	
+Primary Health Center Gambaki	Katagum	Bauchi	11.581	10.361	0	
+Primary Health Center Isawa	Giade	Bauchi	11.557	10.212	0	
+Changanawa Primary Health Center	Jama'Are	Bauchi	11.663	10.064	0	
+Galdimari Primary Health Center	Jama'Are	Bauchi	11.657	10.034	0	
+Hanafari Model Primary Health Center	Jama'Are	Bauchi	11.601	9.888	0	
+Kesowo Primary Health Care	Jama'Are	Bauchi	11.614	9.872	0	
+Primary Health Center Yangamai	Jama'Are	Bauchi	11.667	9.902	0	
+Zubo Primary Health Center	Shira	Bauchi	11.644	9.981	0	
+Gamu Health Post	Kanam	Plateau	9.749	9.964	0	
+Kundak Primary Health Center.	Alkaleri	Bauchi	9.795	9.900	0	
+Duguri Health Center	Alkaleri	Bauchi	9.695	10.256	0	
+Futuk Primary Health Center	Shongom	Gombe	9.700	10.954	0	Gobirawa Maternal And Child Health
+Datsang Health Center	Bogoro	Bauchi	9.596	9.671	0	
+Gidgid Hamma Primary Health Center	Tafawa-Balewa	Bauchi	9.598	9.807	0	
+Bada Koshi Primary Health Center	Bogoro	Bauchi	9.554	9.504	0	Boi Primary Health Center
+Gizaki Community Primary Health Care	Bogoro	Bauchi	9.585	9.650	0	
+Lusa Maternal and Child Health Clinic	Bogoro	Bauchi	9.617	9.592	0	
+Coccin Primary Health Center	Bogoro	Bauchi	9.568	9.492	0	
+Gambar Health Center	Bogoro	Bauchi	9.580	9.465	0	
+Gwange Health Clinic	Maiduguri	Borno	11.827	13.167	0	
+Heman Diagonostic And Hospital Center	Maiduguri	Borno	11.809	13.181	0	
+Mala K B F Health Centre	Maiduguri	Borno	11.858	13.124	0	
+Osun State Comprehensive Health Centre, Iragberi	Egbedore	Osun	7.778	4.377	0	
+Zugachi Primary Health Centre	Gabasawa	Kano	12.065	8.857	0	
+Walawa Health Post	Makoda	Kano	12.344	8.477	0	
+Lagos Health Center Harvey Road	Shomolu	Lagos	6.512	3.374	0	
+Primary health centre umukuru okehi	Etche	Rivers	5.129	7.159	0	
+Golong tobal health clinic	Song	Adamawa	10.004	12.650	0	
+Shagari Health Clinic	Yola North	Adamawa	9.190	12.479	0	
+Toungo Health Clinic	Yola North	Adamawa	9.204	12.484	0	
+Dwam Health Clinic	Demsa	Adamawa	9.462	12.089	0	
+Udo Primary Health Center	Ovia South-West	Edo	6.481	5.370	0	
+MRS Barracks Primary Health Centre	Tofa	Kano	11.953	8.392	0	
+PRIMARY HEALTH CARE	Oredo	Edo	6.294	5.565	0	
+Ugborikoko Primary Health Center	Uvwie	Delta	5.535	5.760	0	
+Maternal and New Child Health Clinic, Kofar Guga	Muhammadu Dikko Stadium	Katsina	12.990	7.585	0	
+College of Health Sciences	Warri South	Delta	5.518	5.734	0	
+Gabarin Health Center	Darazo	Bauchi	11.115	10.439	0	
+Gakkulam Audi Primary Health Center	Darazo	Bauchi	11.127	10.512	0	
+Gabchiyari Health Center	Darazo	Bauchi	11.055	10.600	0	
+Ganjuwa Primary Health Center	Ganjuwa	Bauchi	10.855	10.171	0	
+Miya Model Primary Health Center	Ganjuwa	Bauchi	10.906	9.832	0	
+Primary Health Center Miya	Ganjuwa	Bauchi	10.888	9.827	0	
+Gadar Maiwa Primary Health Center	Ningi	Bauchi	10.935	9.599	0	
+Model Primary Health Center Zagaya	Ningi	Bauchi	10.975	9.572	0	Model Primary Health Center Tsangaya
+Yada Gungume Primary Health Center	Ningi	Bauchi	10.865	9.057	0	
+Digawan Zala Primary Health Center	Ganjuwa	Bauchi	10.810	9.980	0	
+Model Primary Health Care Dewu	Kirfi	Bauchi	10.507	10.446	0	
+Bure Health Clinic	Kirfi	Bauchi	10.524	10.327	0	
+Primary Health Center Nasarawa	Ganjuwa	Bauchi	10.613	9.921	0	
+Durum Primary Health Center	Bauchi	Bauchi	10.515	9.762	0	
+Model Primary Health Center Gumau	Toro	Bauchi	10.258	9.014	0	Wunu North Primary Health Center
+Kogin Sallah Health Post	Toro	Bauchi	10.131	9.028	0	
+Tilde Dispensary	Toro	Bauchi	10.040	8.987	0	Tilde Maternity and Tilde Health Clinic
+Primary Health Center Dott Babba	Dass	Bauchi	10.034	9.508	0	
+Gwaskwaram Primary Health Center	Bauchi	Bauchi	10.075	9.957	0	
+Birin Primary Health Center	Alkaleri	Bauchi	10.002	10.085	0	
+Yuguda Primary Health Center	Bauchi	Bauchi	10.050	10.025	0	
+Fanti Maternity and Child Health Center	Alkaleri	Bauchi	10.070	10.278	0	
+Mundamiyo Health Clinic	Alkaleri	Bauchi	9.846	9.991	0	
+Sabon Garin Garkuwa Health Center	Bauchi	Bauchi	9.961	9.879	0	
+Kim Health Center	Tafawa-Balewa	Bauchi	9.806	9.713	0	
+Model Primary Health Center Bununu	Tafawa-Balewa	Bauchi	9.870	9.661	0	
+Baraza Primary Health Center	Dass	Bauchi	9.966	9.439	0	
+Model Primary Health Center Lusa	Bogoro	Bauchi	9.639	9.711	0	Gobbiya Model Primary Health Center
+Sauna Kawaji Health Post	Nassarawa	Kano	12.019	8.600	0	
+De Joseph Medical Convalescent Health Centre	Oshodi/Isolo	Lagos	6.556	3.340	0	
+Yusufari Maternal And Child Health Care	Yusufari	Yobe	13.069	11.175	0	
+Bidda Wakka Health Post	Demsa	Adamawa	9.238	11.937	0	
+Primary Health Clinic	Hong	Adamawa	10.363	12.866	0	
+Abduri Primary Health Clinic	Mafa	Borno	11.746	13.364	0	
+Kwapre Health Post	Hong	Adamawa	10.467	12.844	0	
+Kinling Health Clinic	Hong	Adamawa	10.397	12.748	0	
+Shashau Health Post Shashau	Hong	Adamawa	10.325	12.852	0	
+Zah Health Post	Hong	Adamawa	10.411	12.743	0	
+Chika Health Post	Hong	Adamawa	10.406	13.048	0	
+Gartsanu Health Clinic	Hong	Adamawa	10.413	12.977	0	
+Gashala Dzugbu Health Post	Hong	Adamawa	10.379	13.084	0	
+Gaya Fa'a Primary Health Center	Hong	Adamawa	10.466	12.985	0	
+Kuva Gaya Primary Health Center	Hong	Adamawa	10.444	13.003	0	
+Maki Health Clinic	Hong	Adamawa	10.379	13.040	0	
+Mijili Primary Health Care	Hong	Adamawa	10.348	12.976	0	
+Musda Health Post	Hong	Adamawa	10.384	12.919	0	
+Sikalmi Primary Health Care	Hong	Adamawa	10.423	12.974	0	
+Development Agency Dzakwa Primary Health Care	Hong	Adamawa	10.360	13.163	0	
+Hildi Primary Health Center	Hong	Adamawa	10.402	13.169	0	
+Jalingo Health Clinic	Mubi North	Adamawa	10.389	13.210	0	
+Paragalda Health Clinic	Hong	Adamawa	10.394	13.179	0	
+Paragalda Primary Health Center	Hong	Adamawa	10.398	13.186	0	
+Wajah Primary Health Center	Hong	Adamawa	10.234	12.919	0	
+Dziga Yerima Health Clinic	Hong	Adamawa	10.216	13.035	0	
+Jabba Health Post	Hong	Adamawa	10.130	13.083	0	
+Ngurno Health Center	Monguno	Borno	12.717	13.690	0	
+Bula Mallumbe Health Clinic	Ngala	Borno	12.359	14.283	0	
+Ndufu Health Clinic	Ngala	Borno	12.224	14.280	0	
+health post	Jada	Adamawa	8.666	12.427	0	
+Bille primary health center	Demsa	Adamawa	9.258	11.898	0	
+dankunkung prmary health clnc	Demsa	Adamawa	9.212	11.888	0	
+gejembo health clinic	Demsa	Adamawa	9.308	11.906	0	gejembo
+Guri kasuwa health post	Demsa	Adamawa	9.233	11.805	0	
+terreh primary health center	Demsa	Adamawa	9.250	11.862	0	
+Bamburu health clinic	Demsa	Adamawa	9.535	12.204	0	
+Tika health clinic	Demsa	Adamawa	9.549	12.246	0	
+Chobal Kura Primary Health Center	Magumeri	Borno	11.955	13.002	0	
+Pompomari Primary Health Center	Konduga	Borno	11.836	13.066	0	
+Tungushe Priimary Health Center	Jere	Borno	12.036	13.072	0	
+Dalori Health Clinic	Jere	Borno	11.756	13.263	0	
+gonglare heath clinic	Jada	Adamawa	8.860	12.147	0	
+Gabchari Health Clinic	Konduga	Borno	11.616	13.656	0	
+Kashimri Health Clinic	Konduga	Borno	11.591	13.579	0	
+Kawuri Health Clinic	Konduga	Borno	11.576	13.533	0	
+Ngalimari Health Clinic	Konduga	Borno	11.562	13.660	0	
+kilbawo heath clinic	Jada	Adamawa	8.832	12.245	0	
+Gani Gaku health clinic	Demsa	Adamawa	9.394	12.161	0	
+farang primary health center	Jada	Adamawa	8.749	12.046	0	
+gan'alada heath post	Jada	Adamawa	8.701	12.040	0	
+Makera Health Post	Hong	Adamawa	10.283	13.076	0	
+Arnari Health Clinic	Konduga	Borno	11.722	13.454	0	
+Maidurmari Health Clinic	Konduga	Borno	11.535	13.482	0	
+Mairami Health Clinic	Konduga	Borno	11.601	13.489	0	
+28 Housing Health Clinic	Konduga	Borno	11.645	13.425	0	
+Lowalom Gora Health Post	Shani	Borno	10.032	11.887	0	
+Tudun wada Maternityand child health care	Potiskum	Yobe	11.715	11.087	0	
+kodomun comprehensive health clinic	Demsa	Adamawa	9.458	12.216	0	
+kodomin primary health care	Demsa	Adamawa	9.457	12.216	0	
+Kodomin health care entrance	Demsa	Adamawa	9.458	12.216	0	
+Kudiri maternity and child health clinic	Girei	Adamawa	9.477	12.289	0	kudiri primary
+kwayine health clinic	Girei	Adamawa	9.396	12.364	0	
+Murgarang health clinic	Demsa	Adamawa	9.462	12.176	0	
+Billachi primary health center	Numan	Adamawa	9.540	12.055	0	
+blilachi primary health center	Numan	Adamawa	9.540	12.056	0	
+Bilachi health clinic	Numan	Adamawa	9.541	12.056	0	
+gangsanji primary heath center	Jada	Adamawa	8.646	12.080	0	
+Dilli primary health center	Demsa	Adamawa	9.537	12.160	0	
+Loh pimary health clinic	Demsa	Adamawa	9.501	12.108	0	
+loh health clinic	Demsa	Adamawa	9.501	12.108	0	
+loh primary health center	Demsa	Adamawa	9.500	12.108	0	
+Mamgla nana heath post	Jada	Adamawa	8.671	11.994	0	
+Mbula primary heath center	Jada	Adamawa	8.646	12.028	0	
+wro alhaji healthy clinic	Maiha	Adamawa	9.920	13.238	0	
+primary health clinic	Maiha	Adamawa	9.952	13.186	0	
+primary health clinic	Maiha	Adamawa	10.008	13.143	0	
+Yindiski Maternity and Child Health Center	Potiskum	Yobe	11.725	11.087	0	
+primary health center	Maiha	Adamawa	9.746	13.249	0	
+sorau primary health center	Maiha	Adamawa	9.746	13.250	0	
+Garin Abba Health Post	Fune	Yobe	11.775	11.236	0	
+Mamudo Maternal and Child Health Care	Potiskum	Yobe	11.686	11.185	0	
+primary health clinic	Maiha	Adamawa	9.712	13.114	0	
+gadjo heath post	Jada	Adamawa	8.506	12.376	0	
+Zanwa Health Facility	Fune	Yobe	11.762	11.259	0	
+Badejo Maternal and Child Health Clinic	Potiskum	Yobe	11.658	11.102	0	
+Brabri Maidico Dispensary Healthcare	Potiskum	Yobe	11.692	11.105	0	
+Yerimaram Maternity Child Health Center	Potiskum	Yobe	11.725	11.101	0	
+Babbangida Comprehensive Health Centre	Tarmua	Yobe	12.148	11.777	0	
+Babbangida Health Clinic	Tarmua	Yobe	12.147	11.774	0	
+primary health clinic	Maiha	Adamawa	9.892	13.204	0	
+wuro mallum health post	Maiha	Adamawa	9.904	13.223	0	
+bello petal heath clinic	Jada	Adamawa	8.521	12.360	0	
+dong health cliinic	Demsa	Adamawa	9.403	11.916	0	
+kongoli primary health facilities maiha	Maiha	Adamawa	9.792	13.106	0	
+dong primary health care center	Demsa	Adamawa	9.394	11.920	0	
+fabraune health post	Demsa	Adamawa	9.350	11.889	0	
+gada health clinic	Demsa	Adamawa	9.386	11.938	0	
+janawuri health clinic	Demsa	Adamawa	9.373	11.861	0	
+laworu health clinic	Demsa	Adamawa	9.405	11.938	0	
+Ngbekendewe Health Post	Demsa	Adamawa	9.401	11.880	0	
+Ngbekwe Health Clinic	Demsa	Adamawa	9.400	11.880	0	
+jauro bellel health post	Jada	Adamawa	8.617	12.408	0	
+dowaya primary health care center	Demsa	Adamawa	9.454	12.062	0	
+kali heath	Jada	Adamawa	8.570	12.433	0	
+kwale health post	Demsa	Adamawa	9.485	12.122	0	
+maliki 11 health post	Demsa	Adamawa	9.359	12.079	0	
+Chukiriwa Maternity and Child Health Center	Nangere	Yobe	11.950	10.880	0	
+Chirokusko Primary Health Centre	Tarmua	Yobe	12.064	11.666	0	
+Jumbam Maternal and Child Health Care	Tarmua	Yobe	12.476	11.543	0	
+Fulatari Health Post	Tarmua	Yobe	12.263	11.512	0	
+Shanga Mmaternal And Child Health Care	Fune	Yobe	11.754	11.500	0	
+Garga Health Post	Tarmua	Yobe	12.268	11.512	0	
+Mafa Modern Primary Healthcare Centre	Tarmua	Yobe	12.361	12.228	0	
+Manda Daa Health Facility	Tarmua	Yobe	12.429	11.441	0	
+Tudun Wada Maternity and Child Health Center	Ngelzarma	Yobe	11.675	11.945	0	
+Koka Health Clinic	Tarmua	Yobe	12.057	11.968	0	
+sabon geri priimary health care center	Demsa	Adamawa	9.434	12.075	0	sabon geri
+Zuran 11 health post	Demsa	Adamawa	9.460	12.101	0	
+Bultuwa Primary Health Center	Yunusari	Yobe	13.016	12.098	0	
+bellanga health clinic	Demsa	Adamawa	9.631	12.214	0	
+belanga health post	Demsa	Adamawa	9.631	12.214	0	
+kwaba primary health center	Demsa	Adamawa	9.608	12.196	0	
+lassala health post	Demsa	Adamawa	9.563	12.183	0	
+Latali health post	Demsa	Adamawa	9.563	12.183	0	
+Nahuta Health Clinic	Potiskum	Yobe	11.691	11.075	0	
+Burkati Health Clinic Maternity and Child Health Center	Yunusari	Yobe	13.091	11.778	0	
+Bali Health Facilities Demsa	Demsa	Adamawa	9.312	11.802	0	
+Kanama Primary Health Care	Maïné Soroa	Yobe	13.099	12.105	0	
+Mandawari Health Post	Yunusari	Yobe	13.019	11.930	0	
+Dara Kura Health Post	Yunusari	Yobe	13.138	11.905	0	
+Toshia Maternity and Child Health Center	Yunusari	Yobe	13.229	11.836	0	
+Bariki B Primary Health Care	Numan	Adamawa	9.249	11.688	0	
+Bujum Kona Health Clinic	Numan	Adamawa	9.312	11.660	0	
+Dingle Kasa Health Post	Demsa	Adamawa	9.265	11.855	0	
+Kpankwai Health Clinic	Numan	Adamawa	9.269	11.693	0	
+Kwafara health post	Demsa	Adamawa	9.320	11.824	0	
+Mayo Lope Model Health Center	Numan	Adamawa	9.237	11.683	0	
+Tagombali Health Clinic	Demsa	Adamawa	9.329	11.838	0	
+Tana Babba Primary Health Center	Numan	Adamawa	9.288	11.662	0	
+Tashangurgu Health Clinic	Demsa	Adamawa	9.335	11.865	0	
+Yadini health post	Demsa	Adamawa	9.226	11.752	0	
+Bangun Health Facility	Demsa	Adamawa	9.498	12.252	0	
+mbagung health post	Demsa	Adamawa	9.498	12.251	0	
+Kpakmyahi Health Clinic	Girei	Adamawa	9.495	12.267	0	
+Kpakmygi Health Facility Care Clinic	Girei	Adamawa	9.495	12.267	0	
+Mbula Maternity Health Clinic	Demsa	Adamawa	9.511	12.193	0	
+Mbula Primary Health Care Facilty	Demsa	Adamawa	9.511	12.192	0	
+Musuiti Health Post	Demsa	Adamawa	9.509	12.213	0	
+Mwarawo Health Post	Demsa	Adamawa	9.511	12.201	0	
+Tassala Health Post	Demsa	Adamawa	9.500	12.146	0	
+Thai Primary Health Center	Demsa	Adamawa	9.512	12.168	0	
+pakka primary heath center	Mubi South	Adamawa	10.123	13.219	0	
+Ngirabo Health Clinic	Yunusari	Yobe	13.293	11.590	0	
+Dumbol Lawanti Health Post	Yunusari	Yobe	13.063	11.828	0	
+Zabudum Dachia Health Post	Yunusari	Yobe	12.977	11.817	0	
+Bulatura Health Clinic	Yusufari	Yobe	13.352	11.232	0	
+Shekke Health Clinic	Yusufari	Yobe	13.039	10.942	0	
+Tulotulo Kaska Health Post	Yusufari	Yobe	13.280	10.910	0	
+Tulotulo Lawanti Health Post	Yusufari	Yobe	13.371	11.009	0	
+Mbemun heath clinic	Larmurde	Adamawa	9.569	11.833	0	
+hadiyo primary heath clinic	Larmurde	Adamawa	9.589	11.808	0	
+lamurde primary health center	Larmurde	Adamawa	9.607	11.790	0	
+sabon gari heath clinic	Larmurde	Adamawa	9.573	11.794	0	
+primary heath post	Larmurde	Adamawa	9.523	11.824	0	
+tingnu primary heath clinic	Larmurde	Adamawa	9.520	11.802	0	
+hoki heath post	Larmurde	Adamawa	9.527	11.872	0	
+opalo primary heath center	Larmurde	Adamawa	9.510	11.927	0	
+zekkun health post	Larmurde	Adamawa	9.517	11.896	0	
+Yahau Model Health Center	Demsa	Adamawa	9.511	12.168	0	
+Gadina Health Clinic Health Clinic	Numan	Adamawa	9.447	12.037	0	
+Kedemure Health Post	Demsa	Adamawa	9.332	12.003	0	
+Nasarawo Model Health Center	Numan	Adamawa	9.452	12.045	0	
+Nassarawo Demsa Peraonal Base Finance Health Facilities Demsa	Numan	Adamawa	9.452	12.046	0	
+Sale Waja Health Clinic	Numan	Adamawa	9.442	12.030	0	
+Belichuti Primary Health Clinic	Fufore	Adamawa	9.184	12.636	0	
+Beti Health Post	Fufore	Adamawa	9.110	12.668	0	
+Chigari Primary Health Facility	Fufore	Adamawa	9.071	12.663	0	
+Garin Chekke Health Clinic	Fufore	Adamawa	9.091	12.701	0	
+Gawi Primary Health Care	Fufore	Adamawa	9.162	12.634	0	
+L C C N Health Post Ba Usmanu	Fufore	Adamawa	8.905	12.720	0	
+Wuro Ardo Health Clinic	Yola North	Adamawa	9.158	12.598	0	
+babel primary heath center	Madagali	Adamawa	10.815	13.639	0	
+Farang P B F Health Facilities	Fufore	Adamawa	9.578	12.916	0	
+Goshinda Health Post	Fufore	Adamawa	9.579	12.998	0	
+Health Post	Song	Adamawa	9.595	13.053	0	
+Mbilla Health Clinic	Song	Adamawa	9.595	13.053	0	
+Kuriyaji Health Clinic	Song	Adamawa	9.639	13.036	0	
+vemgo heath clinic	Madagali	Adamawa	10.838	13.646	0	
+Kuryaji Primary Health Center	Song	Adamawa	9.639	13.037	0	
+Magdari Health Post	Song	Adamawa	9.667	12.947	0	
+kwambula heath post	Madagali	Adamawa	10.764	13.398	0	
+Mbunga Health Post	Fufore	Adamawa	9.509	13.010	0	
+Ribabu Health Post	Fufore	Adamawa	9.645	12.861	0	
+Tala Health Post Tala	Fufore	Adamawa	9.622	12.919	0	
+Abba Kumbo Health Clinic	Fufore	Adamawa	9.218	12.651	0	
+Modern Health Clinic Anguwar Gombere	Fufore	Adamawa	9.223	12.649	0	
+Njanjanre Health Post	Fufore	Adamawa	9.222	12.738	0	
+bakin dutse heath center	Madagali	Adamawa	10.846	13.480	0	
+bitiku heath clinic	Madagali	Adamawa	10.886	13.380	0	
+Chikito Primary Health Clinic	Fufore	Adamawa	9.243	12.873	0	
+kuba heath center	Madagali	Adamawa	10.858	13.390	0	
+Durin Health Center	Fufore	Adamawa	9.111	12.885	0	
+mdg town primary heath clinic	Madagali	Adamawa	10.805	13.456	0	
+wanuki heath post	Madagali	Adamawa	10.784	13.486	0	
+Furo Primary Health Center	Fufore	Adamawa	9.086	12.881	0	
+hyambula primary heath post	Madagali	Adamawa	10.868	13.525	0	
+Gurin Pbf Health Facilities	Fufore	Adamawa	9.111	12.884	0	
+Muninga Maternity Health Clinic	Fufore	Adamawa	9.193	12.879	0	
+Parda Health Post	Fufore	Adamawa	9.181	12.722	0	
+Waurunelbi Basic Health Clinic	Fufore	Adamawa	9.052	12.861	0	
+Wuro Yelde Health Post Gurin	Fufore	Adamawa	9.117	12.873	0	
+Bagauri Health Post	Fufore	Adamawa	8.834	12.615	0	
+kinchinga primary heath clinic	Madagali	Adamawa	10.785	13.351	0	
+dzuel heath center	Madagali	Adamawa	10.719	13.495	0	
+Bosivani Health Post	Fufore	Adamawa	8.799	12.485	0	
+Gogra Health Post	Fufore	Adamawa	8.946	12.573	0	
+Karlahi Maternity And Child Health	Fufore	Adamawa	8.842	12.572	0	
+Ngurore Health Post	Fufore	Adamawa	8.977	12.617	0	
+Uncompleted Maternity Health Clinic Bokki Chamba	Fufore	Adamawa	8.833	12.497	0	
+Dingala Health Post	Fufore	Adamawa	8.927	12.220	0	
+Gatiro Health Clinic	Fufore	Adamawa	9.074	12.262	0	
+Gatiro Health Post	Fufore	Adamawa	9.075	12.262	0	
+Gatugel Health Post	Fufore	Adamawa	9.037	12.256	0	
+Hamalaire Namro Health Post	Fufore	Adamawa	8.889	12.228	0	
+Mashio Maternal and Child Health Care	Fune	Yobe	11.827	11.608	0	
+kojiti primary heath center	Madagali	Adamawa	10.688	13.541	0	
+tuhum waziri primary heath center	Madagali	Adamawa	10.736	13.531	0	
+worogas primary heath center	Madagali	Adamawa	10.708	13.533	0	
+ndalmi heath post	Madagali	Adamawa	10.766	13.536	0	
+chakawa basic heath clinic	Madagali	Adamawa	10.891	13.582	0	
+maduvu heath center	Madagali	Adamawa	10.800	13.592	0	
+NGlama heath center	Madagali	Adamawa	10.729	13.625	0	
+wulla kushirir primary heath center	Madagali	Adamawa	10.742	13.632	0	
+belel primary heath center	Maiha	Adamawa	9.667	13.225	0	
+bungel b heath facility	Maiha	Adamawa	9.637	13.220	0	
+Health Post	Fufore	Adamawa	9.027	12.172	0	
+kapule heath post	Hong	Adamawa	10.132	13.108	0	
+Mbalagi heath clinic	Hong	Adamawa	10.206	13.126	0	
+boloko madel heath center	Fufore	Adamawa	9.552	13.106	0	
+Jauro Sardauna Kabillo Primary Health Care Center	Fufore	Adamawa	9.031	12.209	0	
+maraba heath post	Maiha	Adamawa	9.627	13.100	0	
+wurokurere heath post	Fufore	Adamawa	9.535	13.128	0	
+Jilima Health Post	Fufore	Adamawa	9.021	12.078	0	
+primayo primary heath clinic	Maiha	Adamawa	10.070	13.109	0	
+Kabilo Vichel Health Post Kabilo Vichel	Fufore	Adamawa	9.031	12.216	0	
+Kiri Health Post	Fufore	Adamawa	9.096	12.220	0	
+Kiri Kolere Primary Health Care Center	Fufore	Adamawa	9.096	12.220	0	
+kwabul heath clinic	Maiha	Adamawa	10.061	13.110	0	
+kwabuon ardo heath clinic	Maiha	Adamawa	10.039	13.134	0	
+paiwawoi heath center	Maiha	Adamawa	10.093	13.131	0	
+Mayo Ine Primary Health Center	Fufore	Adamawa	9.115	12.231	0	
+salma koli heath post	Maiha	Adamawa	10.016	13.096	0	
+Mayoine Maternity And Child Health	Fufore	Adamawa	9.115	12.230	0	
+Mayosirkan Health Clinic	Fufore	Adamawa	9.027	12.171	0	
+Ndingala Health Post	Fufore	Adamawa	8.927	12.221	0	
+Rumde Giwa Health Post	Fufore	Adamawa	8.980	12.225	0	
+Wuro Lamido Health Clinic	Fufore	Adamawa	9.192	12.234	0	
+Bagale Health Clinic	Fufore	Adamawa	9.345	12.684	0	
+Bengo Health Clinic	Fufore	Adamawa	9.413	12.723	0	
+Digino Health Post	Fufore	Adamawa	9.372	12.640	0	
+Furo Primary Healthcare Clinic	Fufore	Adamawa	9.451	12.723	0	
+Gudusu Primary Health Care Center	Fufore	Adamawa	9.509	12.644	0	
+Kadarbu Primary Health Clinic	Fufore	Adamawa	9.511	12.702	0	
+Nasarawo Health Facilities	Fufore	Adamawa	9.451	12.722	0	
+Makwai Health Post	Fune	Yobe	11.865	11.264	0	
+Kollere Health Clinic	Fune	Yobe	11.885	11.285	0	
+Balarabe Health Clinic	Fune	Yobe	11.931	11.234	0	
+Kayere Maternal and Child Health Care	Fune	Yobe	12.018	11.127	0	
+Gazara Kuma Health Post	Fune	Yobe	12.070	11.002	0	
+Pariya Maternal And Child Health Clinic	Fufore	Adamawa	9.379	12.700	0	
+Wuro Ahi Primary Health Center	Fufore	Adamawa	9.458	12.621	0	
+Wuro Yolde Health Clinic	Fufore	Adamawa	9.538	12.750	0	
+Beti Health Clinic	Fufore	Adamawa	9.296	12.699	0	
+Chafajaule Health Post	Fufore	Adamawa	9.316	12.865	0	
+Choufajaule Health Clinic	Fufore	Adamawa	9.316	12.864	0	
+Dason Bwate Health Post	Fufore	Adamawa	9.252	12.634	0	
+Dason Health Post	Fufore	Adamawa	9.252	12.633	0	
+Dulo Bwatiye Health Post	Fufore	Adamawa	9.345	12.780	0	
+Kpanae Primary Health Care Center	Fufore	Adamawa	9.345	12.780	0	
+Dulo Fulani Health Clinic	Fufore	Adamawa	9.293	12.792	0	
+Bai Health Post	Fufore	Adamawa	8.985	12.501	0	
+Choli B F Health Facilities	Yola North	Adamawa	9.106	12.475	0	
+Choli Health Center	Yola North	Adamawa	9.106	12.474	0	
+Gurumpah Health Clinic	Fufore	Adamawa	9.062	12.456	0	
+Koksufa Health Post	Fufore	Adamawa	9.062	12.456	0	
+Jili Health Center	Fufore	Adamawa	9.088	12.387	0	
+Tomsoro Health Post	Fufore	Adamawa	9.052	12.482	0	
+Bilachi Health Post	Fufore	Adamawa	9.378	12.847	0	
+Boloko Health Post	Fufore	Adamawa	9.566	12.745	0	
+Dengeshi Health Post	Fufore	Adamawa	9.538	12.857	0	
+Mbila Health Clinic Mbilla Bilachi	Fufore	Adamawa	9.397	12.877	0	
+Wuro Bokki Maternal And Child Health Clinic	Fufore	Adamawa	9.386	12.795	0	
+Wuro Bokki Primary Health Care Center	Fufore	Adamawa	9.391	12.795	0	
+Wurobokki Primary Health Centerc	Fufore	Adamawa	9.392	12.794	0	
+Nahuta Health Clinic	Potiskum	Yobe	11.690	11.075	0	
+Dogon Kuka B Maternal And Child Health Care	Fune	Yobe	11.910	11.059	0	
+Babande Health Post	Fune	Yobe	12.052	11.236	0	
+Bati Health Post	Fufore	Adamawa	8.886	12.460	0	
+Health Post	Fune	Yobe	11.970	11.377	0	
+Begni Health Post	Fufore	Adamawa	8.891	12.393	0	
+binkolo health facility	Shendam	Plateau	8.796	9.458	0	
+Laide Health Post	Fufore	Adamawa	8.847	12.470	0	
+Gubana Maternal And Child Health Care	Fune	Yobe	11.563	11.325	0	
+Nyibango Health Post	Fufore	Adamawa	9.005	12.339	0	
+Dogon Kuka A Maternal And Child Health Care	Fune	Yobe	11.668	11.414	0	
+Ogburi Health Post	Fufore	Adamawa	8.800	12.421	0	
+Dubbol Model Primary Health Care	Fune	Yobe	11.463	11.463	0	
+Maltumba Bilal Health Post	Fune	Yobe	11.706	11.326	0	
+Ugi Health Post	Fufore	Adamawa	8.981	12.434	0	
+Bula Health Facility	Fune	Yobe	11.739	11.262	0	
+Wuitere Health Post	Fufore	Adamawa	8.851	12.399	0	
+Aigada Maikasuwa Health Clinic	Fune	Yobe	11.761	11.293	0	
+Damagum Maternity and Child Health Center	Fune	Yobe	11.676	11.333	0	
+Bornokichi Health Clinic	Fune	Yobe	12.270	11.315	0	
+Bindigi Maternal And Child Health Centre	Fune	Yobe	12.184	11.252	0	
+Alagarno Maternal and Child Health Care	Fune	Yobe	11.923	11.639	0	
+Mazawun Basic Health Center	Fika	Yobe	11.217	11.401	0	
+Garin Ari Health Clinic	Fika	Yobe	11.326	11.464	0	
+Duffuwel Health Clinic	Fika	Yobe	11.276	11.522	0	
+Manawachi Health Clinic	Fika	Yobe	11.443	11.519	0	
+Yadim Health Facility	Fufore	Adamawa	8.973	12.402	0	
+Yadim Maternal And Child Health Center	Fufore	Adamawa	8.973	12.402	0	
+Babidi Health Clinic	Jada	Adamawa	8.639	12.187	0	
+Bakarigoso Health Clinic	Jada	Adamawa	8.546	12.271	0	
+Dissol Health Post	Ganye	Adamawa	8.325	12.057	0	
+Gamu Primary Health Care Center	Ganye	Adamawa	8.265	12.068	0	
+Gansanen Health Post	Ganye	Adamawa	8.211	12.035	0	
+Jusangum Health Post	Ganye	Adamawa	8.348	11.976	0	
+Sankom Health Clinic	Ganye	Adamawa	8.308	12.030	0	
+Sankum Health Clinic	Ganye	Adamawa	8.308	12.030	0	
+Ganye 1 Primary Health Care Center	Ganye	Adamawa	8.431	12.053	0	
+Nodinga Health Clinic	Jada	Adamawa	8.447	12.050	0	
+Old Market Primary Healthcare Center	Ganye	Adamawa	8.431	12.053	0	
+Yebbi Primary Health Center	Jada	Adamawa	8.448	12.051	0	
+Dadiri Health Post	Jada	Adamawa	8.466	12.058	0	
+Gang Woki Health Post	Jada	Adamawa	8.469	12.091	0	
+Zakawon Primary Health Centerc	Larmurde	Adamawa	9.666	11.832	0	
+Sakuwa 1 Health Clinic	Guyuk	Adamawa	9.683	11.873	0	
+Karabli Health Post	Guyuk	Adamawa	9.711	11.877	0	
+Jagra Health Post	Guyuk	Adamawa	9.885	11.903	0	
+Guyuk Health Facility	Guyuk	Adamawa	9.906	11.930	0	
+Dangilapare Primary Health Center Clinic	Guyuk	Adamawa	9.902	11.920	0	
+Pwalamoliye Primary Health Center	Guyuk	Adamawa	9.909	11.949	0	
+Sauka Health Facility	Guyuk	Adamawa	9.902	11.909	0	
+Gwalgaura Health Post	Guyuk	Adamawa	9.713	11.938	0	
+Sisikina Primary Health Center	Guyuk	Adamawa	9.902	11.892	0	
+Kerau Health Post	Guyuk	Adamawa	9.687	11.900	0	
+Pondiwe Health Facility	Guyuk	Adamawa	9.732	11.937	0	
+Lokoro Primary Health Center	Guyuk	Adamawa	9.857	11.933	0	
+Dirmina Primary Health Care	Guyuk	Adamawa	9.850	11.917	0	
+Theble Primary Health Care	Guyuk	Adamawa	9.696	11.916	0	
+Mutuku Health Clinic	Hong	Adamawa	10.294	12.959	0	
+Mutuku Health Post	Hong	Adamawa	10.315	12.971	0	
+Mutuku Nsida Health Post	Hong	Adamawa	10.315	12.970	0	
+Dakza Health Post	Hong	Adamawa	10.150	13.002	0	
+Dzhedinyi Primary Health Center	Hong	Adamawa	10.143	12.989	0	
+Mbulanga Health Clinic	Hong	Adamawa	10.178	12.854	0	
+Tasha Tiding Health Clinic	Hong	Adamawa	10.132	12.962	0	
+Wuro Bokki Health Post	Hong	Adamawa	10.178	12.885	0	
+Banga Health Post	Hong	Adamawa	10.439	12.852	0	
+Dabna Health Clinic	Hong	Adamawa	10.383	12.824	0	
+wuro halde health post	Kirfi	Bauchi	10.299	10.303	0	
+wuro harde health post	Kirfi	Bauchi	10.299	10.303	0	
+Chukriwa Primary Health Center	Nangere	Yobe	11.963	10.873	0	
+Dadiso Health Centre	Nangere	Yobe	11.941	10.841	0	
+Tarajim Health Post	Nangere	Yobe	12.023	10.956	0	
+Dagare Maternity and Child Health Center	Nangere	Yobe	11.601	11.019	0	
+Fadawa Health Post	Nangere	Yobe	11.575	11.008	0	
+Primary Health Center	Nangere	Yobe	11.611	11.047	0	
+Dawasa Maternity and Child Health Center	Nangere	Yobe	11.978	10.958	0	
+Ngetra Primary Health Center	Nangere	Yobe	11.906	10.928	0	
+Dazigau Maternal And Child Health Care	Nangere	Yobe	11.724	10.995	0	
+Gabaru Health Post	Nangere	Yobe	11.777	10.929	0	
+Yaro Karekare Health Post	Nangere	Yobe	11.681	10.939	0	
+Chalillo Health Center	Nangere	Yobe	11.641	10.947	0	
+Daniski Health Post	Nangere	Yobe	11.629	11.008	0	
+Buzu Karekare Health Post	Nangere	Yobe	11.797	11.030	0	
+Duddaye Health Post	Nangere	Yobe	11.804	10.995	0	
+Banshika Primary Health Center	Hong	Adamawa	10.195	12.991	0	
+Bangshika Primary Health Care Center	Hong	Adamawa	10.249	13.014	0	
+Lakum Primary Health Clinic	Guyuk	Adamawa	9.911	11.964	0	
+Deremina 1 Primary Health Center	Guyuk	Adamawa	9.918	11.959	0	
+Garin Baba Health Clinic	Nangere	Yobe	11.924	10.969	0	
+Katsira Health Clinic	Nangere	Yobe	11.817	11.011	0	
+Zinzani Health Clinic	Nangere	Yobe	11.829	11.025	0	
+Zinzano Health Clinic	Nangere	Yobe	11.835	10.994	0	
+Kukuri Maternal and Child Health Care	Nangere	Yobe	11.887	10.853	0	
+she Maternal and Child Health Care	Fune	Yobe	11.592	11.536	0	
+Koyaya Health Post	Fune	Yobe	11.474	11.533	0	
+Ajiri Health Post	Geidam	Yobe	12.828	11.722	0	
+Kwanan Kuka Health Post	Hong	Adamawa	10.235	12.993	0	
+Kwambala Health Clinic	Hong	Adamawa	10.267	13.095	0	
+Kubtava Health Clinic	Hong	Adamawa	10.345	12.904	0	
+Health Post Mblagyang	Hong	Adamawa	10.339	13.047	0	
+Fadama Rake Health Post	Hong	Adamawa	10.229	12.980	0	
+Garin Mele Health Post	Nangere	Yobe	11.742	11.147	0	
+Maternity and Child Health	Nangere	Yobe	11.846	11.180	0	
+Baraniya Health Clinic	Nangere	Yobe	11.879	10.966	0	
+Watinane Maternal and Child Health Care	Nangere	Yobe	11.757	11.012	0	
+Primary Health Center Dunsai	Nguru	Yobe	12.861	10.554	0	
+Anguwan Jaji Health Clinic	Potiskum	Yobe	11.715	11.048	0	
+Maternal Child Health Mazagane	Potiskum	Yobe	11.640	11.026	0	
+Potiskum Central Health Clinic	Potiskum	Yobe	11.709	11.069	0	
+Potiskum Maternity and Child Health Center	Potiskum	Yobe	11.710	11.068	0	
+Catholic Health Centre	Potiskum	Yobe	11.705	11.097	0	
+Dogon Zare Maternity and Child Health Center	Potiskum	Yobe	11.700	11.086	0	
+Gamsha Health Clinic	Itas/Gadau	Bauchi	11.882	9.859	0	
+Pessi Health Post	Ganye	Adamawa	8.452	12.131	0	
+Sangasmi Primary Health Center	Ganye	Adamawa	8.436	12.062	0	
+Dalam Health Post	Ganye	Adamawa	8.478	11.915	0	
+Datnubu Health Clinic	Ganye	Adamawa	8.458	11.883	0	
+Dimgam Health Post	Ganye	Adamawa	8.448	11.955	0	
+Gangjaen Health Post	Ganye	Adamawa	8.420	11.958	0	
+Gangjang Health Post	Ganye	Adamawa	8.420	11.957	0	
+Gatenen Health Post	Ganye	Adamawa	8.434	11.920	0	
+Gudin Health Post	Ganye	Adamawa	8.441	11.989	0	
+Gurum Pawo Health Center	Ganye	Adamawa	8.451	11.938	0	
+Sammeri Health Clinic	Ganye	Adamawa	8.426	11.956	0	
+Sanvam Health Post	Ganye	Adamawa	8.403	11.990	0	
+Banda Sarga Health Post	Jada	Adamawa	8.515	12.152	0	
+Bandatsarga Health Post	Jada	Adamawa	8.516	12.152	0	
+Bari Jimila Health Post	Ganye	Adamawa	8.471	12.247	0	
+Garamba Health Clinic	Ganye	Adamawa	8.433	12.122	0	
+Jaggu Primary Health Care Center	Jada	Adamawa	8.489	12.191	0	
+Wadore Health Post	Jada	Adamawa	8.466	12.163	0	
+New Market Health Post	Jada	Adamawa	8.456	12.043	0	
+Sangasumi Primary Health Center	Jada	Adamawa	8.445	12.046	0	
+Arnado Debbo Primary Health Care	Ganye	Adamawa	8.409	12.059	0	
+Dagberum Health Clinic	Ganye	Adamawa	8.373	12.007	0	
+Gangtum Health Clinic	Ganye	Adamawa	8.363	12.150	0	
+Gangwoni Health Care	Ganye	Adamawa	8.299	12.236	0	
+Ngurore Gantum Health Post	Ganye	Adamawa	8.331	12.226	0	
+Matakuskum Health Facility	Geidam	Yobe	12.858	11.808	0	
+Primary Health Center	Geidam	Yobe	12.858	11.808	0	
+Health Post	Geidam	Yobe	12.547	12.425	0	
+Health Post	Geidam	Yobe	12.845	12.319	0	
+Primary Health Center	Geidam	Yobe	12.565	11.802	0	
+Health Post	Geidam	Yobe	12.888	11.920	0	
+Health Post	Geidam	Yobe	12.889	11.925	0	
+Primary Health Clinic	Geidam	Yobe	12.879	11.925	0	
+rimary Health Clinic	Geidam	Yobe	12.893	11.929	0	
+Health Post	Geidam	Yobe	12.869	11.899	0	
+Primary Health Center	Geidam	Yobe	12.794	11.899	0	
+Health Post	Geidam	Yobe	12.808	11.828	0	
+Primary Health Clinic	Gujba	Yobe	11.099	12.043	0	
+Primary Health Clinic	Gujba	Yobe	11.209	12.027	0	
+Primary Health Clinic	Gujba	Yobe	11.278	12.002	0	
+Health Post	Gujba	Yobe	11.521	12.237	0	
+Health Post	Gujba	Yobe	11.613	12.272	0	
+rimary Health Clinic	Gujba	Yobe	11.504	11.934	0	
+Health Post	Gujba	Yobe	11.377	12.185	0	
+Health Post	Gujba	Yobe	11.271	11.727	0	
+Primary Health Clinic	Gujba	Yobe	11.537	12.093	0	
+Primary Health Center	Gujba	Yobe	11.353	11.807	0	
+Primary Health Center	Gulani	Yobe	10.937	11.681	0	
+Primary Health Clinic	Gulani	Yobe	10.931	11.680	0	
+Health Post	Gulani	Yobe	10.923	11.760	0	
+Primary Health Clinic	Gulani	Yobe	11.070	11.794	0	
+Primary Health Clinic	Gulani	Yobe	11.068	11.797	0	
+Health Post	Gulani	Yobe	11.105	11.898	0	
+Primary Health Center	Gulani	Yobe	11.151	11.878	0	
+Health Post	Gulani	Yobe	11.096	11.865	0	
+Primary Health Clinic	Gulani	Yobe	11.032	11.730	0	
+Primary Health Clinic	Gulani	Yobe	10.629	11.569	0	
+Primary Health Clinic	Gulani	Yobe	10.611	11.587	0	
+Primary Health Center	Gulani	Yobe	10.957	11.615	0	
+primary Health Center	Gulani	Yobe	10.765	11.673	0	
+Primary Health Clinic	Gulani	Yobe	10.891	11.656	0	
+Health Post	Gulani	Yobe	10.911	11.546	0	
+Primary Health Clinic	Gulani	Yobe	10.880	11.673	0	
+Health Post	Gulani	Yobe	10.877	11.600	0	
+Health Post	Gulani	Yobe	10.876	11.634	0	
+Health Post	Gulani	Yobe	10.869	11.567	0	
+Health Post	Gulani	Yobe	11.054	11.561	0	
+Health Post	Fika	Yobe	11.022	11.508	0	
+Health Post	Gulani	Yobe	11.071	11.660	0	
+Health Post	Gulani	Yobe	11.047	11.723	0	
+Health Post	Gulani	Yobe	11.058	11.927	0	
+Health Post	Gulani	Yobe	11.049	11.913	0	
+Health Post	Gulani	Yobe	11.022	11.789	0	
+Health Post	Gulani	Yobe	11.096	11.865	0	
+Health Post	Gulani	Yobe	11.070	11.806	0	
+University Health Services Fed University Of Technology Minna	Chanchaga	Niger	9.653	6.529	0	
+Obulo Primary Health Clinic	Umu-Nneochi	Abia	5.963	7.312	0	
+Primary Health Care Karshi	Municipal Area Council	FCT Abuja	8.829	7.573	0	
+Primary Health Centre	Ohaji/Egbema	Imo	5.504	6.755	0	
+Amac Primary Health Care Galadimawa	Municipal Area Council	FCT Abuja	8.992	7.426	0	
+dubange primary heath center	Larmurde	Adamawa	9.607	11.801	0	
+kwata primary health center	Larmurde	Adamawa	9.475	11.638	0	
+Obuama health center	Degema	Rivers	4.791	6.779	0	
+Ganchanji Primary Health Center	Jada	Adamawa	8.646	12.078	0	
+Afikpo North Local Government Headquarters	Afikpo North	Ebonyi	5.891	7.925	0	
+Abeugo Health Centre	Abi	Cross River	5.880	8.003	0	
+Nassarawo Demsa Primary Health Center	Demsa	Adamawa	9.451	12.047	0	
+AGBARHA HEALTH CENTER	Ughelli North	Delta	5.534	6.074	0	
+Balanshi Primary Health Center	Bauchi	Bauchi	10.160	10.059	0	
+Amihie Umuchu Primary Health Center	Aguata	Anambra	5.953	7.132	0	
+Isokun Primary Health Center	Oyo West	Oyo	7.847	3.921	0	
+Waru Health Centre	Municipal Area Council	FCT Abuja	8.928	7.487	0	
+Ophenna Edda health centre	Abakaliki	Ebonyi	6.183	8.359	0	
+Enuguagu/amangwu health center	Nkanu West	Enugu	6.331	7.509	0	
+Primary health care unit	Gombe	Gombe	10.292	11.166	0	
+Dadin kowa comprehensive health center	Jos South	Plateau	9.851	8.867	0	
+Oloya Primary Health Center	Egbeda	Oyo	7.412	3.972	0	
+Odo Okun Health Center	Oluyole	Oyo	7.298	3.844	0	
+Ologoama Health Centre	Nembe	Bayelsa	4.619	6.278	0	
+Kenyi Health Centre	Kagarko	Kaduna	9.542	7.924	0	
+Nwofe Health Center	Izzi	Ebonyi	6.516	8.163	0	
+O. B. Lulu Briggs Health Center	Obio/Akpor	Rivers	4.902	6.909	0	
+Njimtilo Primary Health Clinic	Magumeri	Borno	11.849	13.018	0	
+Eyin Oke Health Centre	Ilesha West	Osun	7.620	4.732	1	
+College of Basic Medical and Health Sciences	Konduga	Borno	11.855	12.983	0	
+Nguwom Primary Health Center	Mafa	Borno	11.884	13.345	0	
+COLLEGE OF HEALTH TECHNOLOGY	Maiduguri	Borno	11.830	13.144	0	
+Health Centre Street	Yenegoa	Bayelsa	4.867	6.208	1	
+Iho Basic Health Center	Ikeduru	Imo	5.567	7.105	0	
+Ngoshe Primary Health Clinic	Gwoza	Borno	11.133	13.793	0	
+Tampul Primary Health Clinic	Askira-Uba	Borno	10.578	13.223	0	
+Kautikari Primary Health Center	Chibok	Borno	10.819	12.984	0	
+Mallam Fatori Primary Health Center	Abadam	Borno	13.665	13.342	0	
+Asa Umuakwa Primary Health Center	Ugwunagbo	Abia	5.012	7.325	0	
+Ihie Ukwu Primary Health Care Center	Ugwunagbo	Abia	5.007	7.309	0	
+Alaglanu Primary Health Center	Ohimini	Benue	7.235	8.023	0	
+Awenabo National Model Primary Health Center	Buruku	Benue	7.679	8.932	0	
+Ihugh Primary Health Center	Vandeikya	Benue	7.008	9.025	0	
+Rawan Dutsi Maternity and  Child Health Clinic	Sandamu	Katsina	12.844	8.352	0	
+Jigawa Health Post	Mashi	Katsina	13.004	7.950	0	
+Rijiyar Tsamiya Maternity and  Child Health Clinic	Sandamu	Katsina	12.880	8.273	0	
+Makera Health Clinic	Faskari	Katsina	11.683	7.023	0	
+Obuohia Ibere Health Center	Ikwuano	Abia	5.419	7.600	0	
+Karare 2 Health Center	Rimi	Katsina	12.994	7.769	0	
+Unguwar Labe Health Clinic	Mai'Adua	Katsina	13.212	8.206	0	
+Kurchi Health Clinic	Mai'Adua	Katsina	13.080	8.173	0	
+Buni Yadi Primary Health Care Center	Gujba	Yobe	11.281	12.002	0	
+Ibolo Primary Health Center	Ekwusigo	Anambra	6.018	6.820	0	
+Divine Health Clinic	Idemili North	Anambra	6.120	6.840	0	
+Kudai Primary Health Clinic	Dutse	Jigawa	11.631	9.340	0	
+Kwanjamawa Health Post	Jahun	Jigawa	12.108	9.592	0	
+Safa Health Post	Auyo	Jigawa	12.239	9.861	0	
+Mu’Azu Health Post	Sule Tankakar	Jigawa	12.756	9.301	0	
+Duhuwa Primary Health Clinic	Gumel	Jigawa	12.554	9.380	0	
+Heraldome lane	Uyo	Akwa Ibom	5.009	7.903	1	
+Herini Madachi	Koko-Besse	Kebbi	11.363	4.340	2	
+Sakwa Hema	Hawul	Borno	10.525	12.193	2	

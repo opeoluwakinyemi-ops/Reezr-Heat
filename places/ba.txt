@@ -1,0 +1,2365 @@
+Bauchi	Bauchi	Bauchi	10.315	9.845	3	
+Bayero University	Dala	Kano	12.016	8.507	0	
+Gajiram	Nganzai	Borno	12.491	13.212	3	Balamari
+Kourouma-Batiaka	Madaoua	Sokoto	13.673	6.295	2	
+Guidan Barao	Birni N'Konni	Sokoto	13.888	5.514	2	
+Balifolo	Dioundiou	Kebbi	12.517	3.651	2	
+Dan Bardé	Magaria	Katsina	12.889	8.855	2	
+Balamari	Dungass	Yobe	13.008	9.817	2	
+Bashiri	Gouré	Yobe	13.199	9.992	2	
+Ballago	Madaoua	Sokoto	13.699	6.047	2	Laboa
+Baréwas	Diffa	Borno	13.095	12.478	2	
+Fiega Balargé	Diffa	Borno	13.356	12.752	2	
+Banéné	Mashi	Katsina	13.345	7.844	2	
+Dan Baba	Mai'Adua	Katsina	13.278	8.140	2	
+Babana	Borgu	Niger	10.434	3.818	3	
+Barakin	Barkin Ladi	Plateau	9.533	8.900	2	Barakin Ladi;Bar-n-Ladi;Barakin;B-Ladi;Barikin Ladi
+Bam	Fune	Yobe	11.758	11.496	2	Bamma
+Bagega	Anka	Zamfara	11.865	6.003	2	
+Dogon Bauci	Fika	Yobe	11.326	11.478	2	
+Ibafo	Obafemi Owode	Ogun	6.742	3.422	3	Bafo
+Baala	Odeda	Ogun	7.150	3.533	2	Ogunda
+Banimgbe	Ado Odo/Ota	Ogun	6.517	2.883	2	Banimgbo
+Bakana	Degema	Rivers	4.755	6.985	2	
+Bawada	Gwandu	Kebbi	12.447	4.508	2	
+Bamungadi	Jega	Kebbi	12.174	4.210	2	
+Bayawa	Augie	Kebbi	12.844	4.691	2	
+Bangara	Augie	Kebbi	12.835	4.630	2	
+Bagoni	Argungu	Kebbi	12.818	4.473	2	
+Bagare	Gwandu	Kebbi	12.509	4.686	2	
+Babban Kwari	Suru	Kebbi	12.002	4.149	2	
+Rafin Baona	Aleiro	Kebbi	12.273	4.400	2	
+Bayan Dutse	Suru	Kebbi	12.030	4.192	2	
+Baga Sakka	Tambuwal	Sokoto	12.296	4.580	2	
+Bangannan	Kalgo	Kebbi	12.301	4.001	2	
+Barogu	Shanga	Kebbi	10.994	4.830	2	
+Gidan Barke	Shagari	Sokoto	12.509	5.063	2	
+Baen	Khana	Rivers	4.630	7.456	2	
+Ungwan Bawa Gangan	Tsafe	Zamfara	11.967	6.757	2	
+Badawari	Kirfi	Bauchi	10.283	10.374	2	
+Oshuko	Olorunsogo	Oyo	8.850	4.050	2	Oshuko;Tesi Baba Pupa
+Wuro Basambo	Girei	Adamawa	9.500	12.483	2	Modibbo
+Wuro Bakumbo	Demsa	Adamawa	9.317	12.033	2	Wuro Bakmbo
+Ungwan Dan Baba	Danja	Katsina	11.400	7.617	2	Dan Baba
+Unguwar Bako	Sanga	Kaduna	9.235	8.217	2	
+Bakin Rijiya	Wase	Plateau	9.017	10.000	2	
+Biri Bolawa	Nafada	Gombe	10.917	11.283	2	Bir Balawa
+Balogun	Ifelodun	Kwara	8.467	4.833	2	Balogun Oja;Balogun
+Baiona	Paikoro	Niger	9.400	6.883	2	Tungan Kuka;Baidna
+Bargare	Yola South	Adamawa	9.233	12.417	2	
+Bacita	Edu	Kwara	9.066	4.958	3	Basita
+Batungo	Yamaltu/Deba	Gombe	10.162	11.320	2	
+Batsari Kuka	Bayo	Borno	10.552	11.639	2	Basare
+Bawue	Agaie	Niger	8.796	6.545	2	
+Barikin Gidar Kanat	Jos South	Plateau	9.767	8.817	2	
+Mulke Barikin Sayejo	Song	Adamawa	9.654	12.558	2	
+Babauri	Mashi	Katsina	13.091	8.039	2	Badauri
+Bararam Kura	Bama	Borno	11.482	13.616	2	
+Bagira	Mubi North	Adamawa	10.322	13.419	2	
+Bashanko	Katcha	Niger	9.417	6.217	2	Gbashanko
+Bana	Mobbar	Borno	13.269	12.651	2	
+Tungan Baidu	Dandi	Kebbi	11.824	3.918	2	
+Bakaina Bura	Shani	Borno	10.139	12.034	2	Bakaina
+Dugu Bangu	Suru	Kebbi	11.622	3.886	2	
+Bamjiki	Hawul	Borno	10.510	12.339	2	Bamjigil
+Kwajaffa Pabur	Hawul	Borno	10.464	12.420	2	Kwajaffa Babur
+Goron Baram	Dandi	Kebbi	11.902	3.888	2	
+Ungwan Bawaci	Kalgo	Kebbi	12.430	3.954	2	
+Bakarkuka	Babura	Jigawa	12.682	8.931	2	Bakarkura
+Batali	Babura	Jigawa	12.636	8.758	2	
+Batale	Babura	Jigawa	12.636	8.758	2	
+Tungan Bauna	Dandi	Kebbi	11.812	3.786	2	
+Tunga Bala	Bunza	Kebbi	12.219	3.969	2	
+Bolama	Shelleng	Adamawa	10.031	12.084	2	Balama
+Bam	Biu	Borno	10.603	12.103	2	Bum
+Gidan Dan Badamasi	Minjibir	Kano	12.229	8.604	2	
+Anguwar Babeto	Shani	Borno	10.219	12.062	3	Shani
+Yalwa Barki	Biu	Borno	10.598	12.211	2	Yalwa Bariki
+Bashikbi	Hong	Adamawa	10.317	12.828	2	Bashigabi
+Bareberi	Ringim	Jigawa	12.269	8.960	2	
+Barikin Tin Tin	Jos South	Plateau	9.767	8.933	2	
+Basi	Oyo West	Oyo	7.962	3.799	2	
+Baraia Zaki	Bungudu	Zamfara	12.260	6.455	2	
+Baigasuwa	Maradun	Zamfara	12.475	6.156	2	
+Bamboo	Bungudu	Zamfara	12.318	6.630	2	
+Banki	Bama	Borno	11.662	14.020	2	
+Badiri	Dikwa	Borno	11.890	14.256	2	
+Bari	Mariga	Niger	10.284	5.731	2	
+Mutundaya	Shiroro	Niger	10.264	6.910	2	Bakuchi
+Tungan Barumi	Shanga	Kebbi	10.983	4.534	2	
+Tungan Barachi	Agwara	Niger	10.905	4.593	2	
+Bunkari	Binji	Sokoto	13.120	4.902	2	Bakori
+Besse	Shiroro	Niger	10.099	6.620	2	Bassa
+Unguwar Bawa	Bungudu	Zamfara	12.130	6.883	2	
+Barmo	Bungudu	Zamfara	12.210	6.878	2	
+Dan Bago	Bukkuyum	Zamfara	12.169	5.455	2	
+Ungwan Barau	Rogo	Kano	11.410	7.747	2	Ungwan Mallam Barau;Mallam Barau
+Guidan Bako	Gusau	Zamfara	12.130	6.645	2	
+Bagarawa	Bodinga	Sokoto	12.886	5.237	2	Baragai
+Badaria	Tambuwal	Sokoto	12.416	5.024	2	
+Guidan Bawa	Gusau	Zamfara	12.079	6.720	2	
+Bagai	Dange-Shuni	Sokoto	12.917	5.417	2	
+Kirkatha	Shani	Borno	10.088	11.957	3	Bargu
+Ungwan Baribare	Ikara	Kaduna	11.311	8.120	2	Baribare
+Bahindi	Bagudo	Kebbi	11.465	4.183	2	
+Badi	Ilorin East	Kwara	8.600	4.733	2	Gbadi
+Babana Gwaya	Fika	Yobe	11.483	11.100	2	Banana Gwaya
+Bagargar	Fika	Yobe	11.286	11.266	2	Bogargar
+Alalabo Obenikiri	Akuku Toru	Rivers	4.486	6.813	2	Alalabo Obenikiri;Bankikiri
+Bakin Kogi	Toro	Bauchi	10.200	9.052	2	
+Bayasung	Obanliku	Cross River	6.529	9.249	2	Baiyasung
+Baiomari	Borsari	Yobe	12.770	11.510	3	
+Bayaluga	Obanliku	Cross River	6.616	9.313	2	Bebi
+Yanda Bayo	Damban	Bauchi	11.507	10.746	2	Yando Bayo
+Babarijo	Suru	Kebbi	11.732	4.126	2	
+Zugun Bagudu	Bagudo	Kebbi	11.453	4.282	2	
+Bami	Aleiro	Kebbi	12.338	4.388	2	
+Bara	Gwandu	Kebbi	12.415	4.507	2	
+Yaro Bango	Fakai	Kebbi	11.613	4.558	2	
+Bawanka	Jega	Kebbi	12.163	4.541	2	
+Barguwa	Tambuwal	Sokoto	12.540	4.845	2	
+Ungan-Bawa	Gwandu	Kebbi	12.421	4.655	2	
+Bakisa	Maru	Zamfara	11.478	6.476	2	
+Badungu	Birnin Kudu	Jigawa	11.302	9.470	2	
+Badaria	Jega	Kebbi	12.198	4.271	2	
+Tunga Babuga	Koko-Besse	Kebbi	11.274	4.315	2	
+Tunga Barahe	Koko-Besse	Kebbi	11.449	4.414	2	
+Bashi	Kebbe	Sokoto	11.659	4.594	2	
+Sharifai	Soba	Kaduna	10.910	8.027	2	Bakura
+Tunga Bahata	Bagudo	Kebbi	11.027	4.248	2	
+Ungwa Baki	Arewa Dandi	Kebbi	12.925	4.095	2	
+Lumene Bangha	Khana	Rivers	4.723	7.493	2	Lumene
+Baban-Kada	Maru	Zamfara	11.320	6.557	2	
+Ungwan Bauka	Gusau	Zamfara	11.663	6.613	2	
+Gidan Barau	Ikara	Kaduna	11.367	8.087	2	Barau
+Ungwan Barnawa	Ikara	Kaduna	11.278	8.215	2	
+Ohit	Bassa	Plateau	9.967	8.733	2	Bahit
+Barikin Riya	Lafia	Nasarawa	8.517	8.618	2	
+Base	Odeda	Ogun	7.183	3.617	2	Base;Baase Iporo
+Bwen	Baruten	Kwara	8.840	2.897	2	Bawe
+Ibrahim Baidu	Kwaya Kusar	Borno	10.504	11.843	3	Kwaya
+Eripa	Yewa North	Ogun	7.167	2.983	2	Bale Apena
+Basanyin	Ifelodun	Kwara	8.284	4.749	2	
+Barwati	Kukawa	Borno	12.791	13.674	2	Kekeno
+Bahere	Yamaltu/Deba	Gombe	10.283	11.583	2	
+Bahe	Kwaya Kusar	Borno	10.380	11.862	2	Bahai
+Basilan	Dange-Shuni	Sokoto	12.815	5.382	2	
+Barimaw	Wamba	Nasarawa	9.033	8.583	2	Gita Baremu
+Bar Jirgi Summa	Jos South	Plateau	9.866	8.900	2	
+Barikin Bako	Barkin Ladi	Plateau	9.734	8.956	2	
+Babayaya	Mubi North	Adamawa	10.420	13.229	2	
+Tappare Babati	Mubi North	Adamawa	10.400	13.224	2	
+Bazaya	Kala-Balge	Borno	11.556	14.325	2	
+Barum	Abadam	Borno	13.529	13.162	2	
+Babura	Babura	Jigawa	12.773	9.017	3	
+Badeggi	Katcha	Niger	9.050	6.150	2	Badegg
+Bare	Billiri	Gombe	9.882	11.232	2	
+Baunchor	Boki	Cross River	6.330	9.009	2	Buanchor
+Keffi	Ringim	Jigawa	12.274	8.968	2	Babushe;Kogin Babushe
+Kanya Babba	Babura	Jigawa	12.434	8.847	3	
+Barwi	Hawul	Borno	10.584	12.140	2	Barawe
+Ungua Ballami	Kazaure	Jigawa	12.616	8.639	2	
+Banizumbo	Dandi	Kebbi	11.686	3.770	2	
+Baban Jori Dikko	Bunza	Kebbi	12.142	3.998	2	
+Tungan Bajida	Dandi	Kebbi	11.908	3.672	2	
+Banlada	Babura	Jigawa	12.463	8.800	2	
+Dan Bando	Babura	Jigawa	12.426	8.749	2	
+Bagura	Augie	Kebbi	12.867	4.511	2	
+Bariak	Agaie	Niger	8.688	6.391	2	
+Tula Baule	Kaltungo	Gombe	9.867	11.483	2	Tungan Baule
+Gidan Bakai	Munya	Niger	9.750	7.050	2	Baka
+Badikko	Toro	Bauchi	10.171	9.094	2	
+Borjono	Bama	Borno	11.529	14.144	2	Barjino
+Mallam Barau	Kaura Namoda	Zamfara	12.481	6.513	2	
+Bakin Ruwa	Agwara	Niger	10.944	4.684	2	
+Barakin Babele	Jos North	Plateau	10.018	8.946	2	
+Share Bachaka	Arewa Dandi	Kebbi	13.163	4.144	2	
+Bagida	Tangaza	Sokoto	13.703	4.915	2	
+Bamgi	Gudu	Sokoto	13.397	4.653	2	Banyi
+Baredi	Gada	Sokoto	13.708	5.692	2	
+Baagu	Agwara	Niger	10.595	4.374	2	
+Gidan Babagoji	Bungudu	Zamfara	12.176	6.511	2	
+Guidan Babagoji	Bungudu	Zamfara	12.176	6.511	2	
+Baga	Wamako	Sokoto	13.026	5.173	2	
+Ungwan Baraje	Giwa	Kaduna	11.334	7.512	2	Baraje
+Batere	Warri North	Delta	5.778	5.134	2	Baterre
+Barnawa	Kaduna South	Kaduna	10.483	7.435	2	
+Ungwan Basanko	Ikara	Kaduna	11.226	8.172	2	Basanko
+Babasango	Akinyele	Oyo	7.609	3.878	2	Baba Shango
+Nasarawa	Nafada	Gombe	11.105	11.243	2	Baruwo;Nasarawa;Baruo Nasarawa;Buruo;Baruo Nassarawa
+Bagel	Dass	Bauchi	10.048	9.597	2	
+Balogun Eniaiyewu	Ibarapa Central	Oyo	7.350	3.317	2	Balogun-Enianewu;Balogun Eniaiyewu
+Gbajimba	Guma	Benue	7.816	8.860	2	Bajimba
+Basheyi	Roni	Jigawa	12.594	8.302	2	
+Baragumi	Roni	Jigawa	12.632	8.285	2	
+Tunga Bako	Koko-Besse	Kebbi	11.264	4.334	2	
+Bajida	Fakai	Kebbi	11.401	4.964	2	
+Baware	Yabo	Sokoto	12.714	4.965	2	
+Balachar	Maru	Zamfara	11.362	6.458	2	
+Babompa	Tsafe	Zamfara	11.794	6.855	2	
+Baba-Doka	Maru	Zamfara	11.259	6.362	2	Ungwan Dangaladima
+Bakinkuja	Birnin Kudu	Jigawa	11.464	9.596	2	
+Bakoshi	Suru	Kebbi	12.011	4.049	2	
+Tunga Baure	Bagudo	Kebbi	11.371	4.138	2	
+Banga	Tambuwal	Sokoto	12.311	4.737	2	
+Marabu-Bawa	Maru	Zamfara	11.492	6.545	2	
+Tudun Bakin Gulbi	Tsafe	Zamfara	11.677	6.723	2	
+Bubuche	Augie	Kebbi	12.859	4.631	2	Babuchi
+Bagbene	Ekeremor	Bayelsa	4.986	5.972	2	
+Bako	Sanga	Kaduna	9.233	8.217	2	
+Barakin Sabawa	Jos North	Plateau	9.869	8.934	2	
+Bantine	Biu	Borno	10.888	11.845	2	Bantini
+Kogin Baba	Teungo	Adamawa	7.902	11.532	2	
+Bale	Damboa	Borno	11.202	13.070	2	Baale
+Bale	Oyo West	Oyo	7.966	3.787	2	
+Araromi Balogun	Aiyedade	Osun	7.050	4.217	2	Araromi Balogun;Araromi
+Baba Sango	Ibarapa North	Oyo	7.700	3.283	2	
+Barkam	Bayo	Borno	10.212	11.698	2	
+Bakin Kogi	Jema'A	Kaduna	9.492	8.273	2	
+Barakia	Isa	Sokoto	13.197	6.185	2	
+Bagga	Mubi South	Adamawa	10.141	13.290	2	
+Baagira	Mubi North	Adamawa	10.322	13.419	2	
+Balile	Kala-Balge	Borno	11.784	14.537	2	Belile
+Baje	Kala-Balge	Borno	11.666	14.466	2	Baji
+Balogun	Obafemi Owode	Ogun	7.000	3.617	2	Balogun Ikanna
+Balbaya	Bayo	Borno	10.622	11.736	2	Balbiya
+Gari Bara Serki	Dandi	Kebbi	12.149	3.641	2	
+Kure Baba	Arewa Dandi	Kebbi	12.596	3.862	2	
+Bulbawada	Hawul	Borno	10.612	12.491	2	Babalwada
+Bam	Biu	Borno	10.973	12.035	2	
+Bawuri	Minjibir	Kano	12.238	8.616	2	
+Bambula	Chibok	Borno	10.894	12.686	2	Bombula Bula-Fali
+Balu Argungun	Dandi	Kebbi	12.040	3.951	2	
+Mulbiya	Hawul	Borno	10.479	12.139	2	Balbiya
+Bagemu	Babura	Jigawa	12.425	8.768	2	
+Ungwan Bawa	Kalgo	Kebbi	12.421	3.928	2	
+Barakin Lerawi	Jos North	Plateau	9.867	8.883	2	
+Gidan Jatao Bataro	Shiroro	Niger	10.283	6.733	2	Jato
+Baure	Shani	Borno	10.049	11.919	3	Gwara
+Lapai	Agaie	Niger	9.050	6.567	2	Badeggi;Badeji
+Banga	Kaura Namoda	Zamfara	12.510	6.624	2	
+Baya Wiri	Bungudu	Zamfara	12.304	6.720	2	
+Gidan Balla Abude	Kudan	Kaduna	11.367	7.733	2	Balla Abude
+Goran Bagage	Arewa Dandi	Kebbi	12.583	4.001	2	Goyu
+Bassa;Bazza	Michika	Adamawa	10.564	13.318	2	
+Bazaya	Kala-Balge	Borno	11.557	14.325	2	
+Unguwar Mallam Barau	Kaura Namoda	Zamfara	12.478	6.516	2	
+Banke	Kubau	Kaduna	10.826	8.500	2	
+Bakura	Shiroro	Niger	10.394	6.612	2	Karagutu
+Angwa Bawa	Gudu	Sokoto	13.231	4.444	2	
+Tunga Bako	Kware	Sokoto	13.320	5.227	2	
+Bakerma	Tangaza	Sokoto	13.313	5.033	2	
+Batiaka	Arewa Dandi	Kebbi	13.162	4.139	2	
+Gajari Baleawa	Binji	Sokoto	13.123	4.746	2	
+Gidan Bawa	Binji	Sokoto	13.177	4.969	2	
+Gidan Bango	Wurno	Sokoto	13.205	5.357	2	
+Gidan-Bauchi	Goronyo	Sokoto	13.488	5.579	2	
+Guidan Bawa	Bungudu	Zamfara	12.335	6.507	2	
+Guidan Bako	Kaura Namoda	Zamfara	12.343	6.691	2	Gidan Bako
+Bala	Shagari	Sokoto	12.643	5.187	2	Bela
+Badon Barade	Wamako	Sokoto	12.989	5.196	2	
+Ungwan Bado	Maru	Zamfara	11.514	6.551	2	Unguwar Bado
+Gidan Bawa Gaga	Bungudu	Zamfara	12.160	6.519	2	
+Babu;Bubu	Alkaleri	Bauchi	10.046	10.701	2	
+Bakin Kogi	Bakori	Katsina	11.545	7.494	2	Dawan Musa
+Masu Baka	Toro	Bauchi	10.134	9.463	2	
+Kukan Baraje	Bukkuyum	Zamfara	11.787	5.644	2	
+Balo	Akuku Toru	Rivers	4.449	6.813	2	Balo;Dagogokiri
+Bakana	Degema	Rivers	4.737	6.966	2	Bakana Town
+Balegeta	Obanliku	Cross River	6.354	9.343	2	Belegeta
+Obagagi	Agatu	Benue	7.892	7.909	2	Obagagi;Bagaji;Bagagi;Obagiji
+Babilla	Yunusari	Yobe	13.205	11.653	2	
+Bakata	Gamawa	Bauchi	11.889	10.589	2	Bakate
+Baban Doka	Maru	Zamfara	11.301	6.412	2	
+Badariya	Bagudo	Kebbi	11.458	4.271	2	
+Barnawa	Shira	Bauchi	11.565	9.982	2	
+Gura-Sulu-Bawa	Gwandu	Kebbi	12.407	4.713	2	
+Bagai	Augie	Kebbi	12.863	4.587	2	
+Badadi	Gwandu	Kebbi	12.525	4.793	2	
+Baban Dutse	Birnin Kebbi	Kebbi	12.550	4.106	2	
+Bakachi	Fakai	Kebbi	11.688	4.701	2	
+Garin-Bana	Fakai	Kebbi	11.655	4.752	2	
+Tungan Babugudu	Fakai	Kebbi	11.575	4.659	2	
+Barden Yana	Kaduna South	Kaduna	10.474	7.433	2	Bardon Yana
+Mallam Bawa	Fakai	Kebbi	11.368	4.885	2	
+Ban Lori	Oyigbo	Rivers	4.806	7.432	2	
+Babban Kauye	Tsafe	Zamfara	11.911	6.874	2	
+Gidan Bagadu	Ikara	Kaduna	11.474	8.091	2	Bagudu
+Babana	Borgu	Niger	10.430	3.815	2	
+Bakin Kogi	Alkaleri	Bauchi	10.072	10.355	2	Birnin Kogi
+Bamikemo	Ile Oluji/Okeigbo	Ondo	7.300	4.883	2	Bamikamo
+Gidan Baki	Garki	Jigawa	12.350	9.233	2	Baki
+Bamban	Kaltungo	Gombe	9.700	11.500	2	
+Beti Bappawo	Fufore	Adamawa	9.100	12.667	2	Beti Bappawo;Beti
+Babun Tunga	Tafa	Niger	9.234	7.219	2	Babban Tunga
+Baga	Marte	Borno	12.535	13.851	2	Boderi
+Bada Ajegunle	Ilorin South	Kwara	8.417	4.717	2	
+Barimaw	Wamba	Nasarawa	9.017	8.583	2	
+Barikin Sabon Gidan Kanat	Jos South	Plateau	9.767	8.817	2	
+Bar-N-Bako	Barkin Ladi	Plateau	9.735	8.957	2	
+Banshe	Jada	Adamawa	8.514	12.201	2	
+Banari	Bama	Borno	11.518	13.602	2	
+Bazamri	Konduga	Borno	11.675	13.452	2	
+Barta'a	Abadam	Borno	13.250	13.297	2	
+Duchin Bako Station	Zangon Kataf	Kaduna	9.967	8.150	2	
+Wuro Bayo	Ganye	Adamawa	8.217	12.017	2	
+Badabai	Maiyama	Kebbi	12.017	4.315	2	
+Badni	Mangu	Plateau	9.598	9.304	2	
+Baye	Ewekoro	Ogun	7.017	3.250	2	
+Balogun Budoloke	Ifelodun	Kwara	8.437	5.031	2	
+Bari	Mashegu	Niger	9.595	4.861	2	
+Sandare Baban	Kalgo	Kebbi	12.488	4.034	2	
+Kumci Baba	Arewa Dandi	Kebbi	12.477	3.708	2	
+Basuye	Minjibir	Kano	12.212	8.690	2	
+Pbale Banteka	Minjibir	Kano	12.214	8.600	2	
+Balungwe	Hawul	Borno	10.492	12.260	2	
+Baragumi	Roni	Jigawa	12.620	8.262	2	
+Bangulasa	Bunza	Kebbi	12.098	3.817	2	Bangalasa
+Bangai Musa	Bunza	Kebbi	12.178	3.856	2	
+Balu Bunza	Bunza	Kebbi	12.052	3.967	2	
+Wunje Unguwan Sani Barka	Shani	Borno	10.188	12.008	2	Wunje
+Barikin Daji	Bunza	Kebbi	12.138	3.792	2	Bar Daji
+Cibiki Baba	Arewa Dandi	Kebbi	12.476	3.843	2	
+Ungwan Baro	Arewa Dandi	Kebbi	12.572	3.799	2	
+Sabon Bala	Bunza	Kebbi	12.187	3.742	2	
+Bada	Akinyele	Oyo	7.481	3.946	2	
+Balewa	Bungudu	Zamfara	12.332	6.640	2	
+Bamawa	Kaura Namoda	Zamfara	12.338	6.758	2	Barnawa
+Bapari	Shelleng	Adamawa	9.983	12.067	2	Gugungua
+Pakorgel	Jada	Adamawa	8.783	12.167	2	Bakorgel
+Babanifa	Surulere	Oyo	8.183	4.433	2	Babanifa;Baba Onifa
+Balaji	Katcha	Niger	8.900	6.217	2	
+Bajeri	Jere	Borno	11.815	13.082	2	
+Barkini	Tambuwal	Sokoto	12.518	4.959	2	
+Ungwan Barebari	Tsafe	Zamfara	12.014	7.111	2	
+Mallam Bawa	Gusau	Zamfara	12.007	6.670	2	
+Gidan Bashu	Arewa Dandi	Kebbi	13.184	4.422	2	
+Dawa	Toro	Bauchi	10.432	8.987	2	Barakin Dawa
+Balugu	Magama	Niger	10.251	4.718	2	
+Basanta	Illela	Sokoto	13.645	5.283	2	
+Kushaka	Shiroro	Niger	10.521	6.816	2	Bakuna;Gwakuna
+Bankanu	Kware	Sokoto	13.237	5.256	2	
+Ungwan Dan Baba	Bungudu	Zamfara	12.108	6.551	2	
+Dan Baba	Bungudu	Zamfara	12.108	6.552	2	
+Baha	Yauri	Kebbi	10.798	4.737	2	
+Bage	Birnin Magaji-Kiyaw	Zamfara	12.398	6.712	2	Unguwar Bage
+Balah	Gwadabawa	Sokoto	13.388	5.169	2	
+Ungwan Bature	Giwa	Kaduna	11.080	7.401	2	Bature
+Gidan Bawura	Shagari	Sokoto	12.628	5.092	2	Gidan Baura
+Guidan Bawa	Gusau	Zamfara	12.049	6.739	2	
+Bawda	Gwadabawa	Sokoto	13.589	5.346	2	
+Tungan Baso	Wamako	Sokoto	13.034	5.113	2	Tunga Baso
+Gbarogolo	Burutu	Delta	5.190	5.804	2	Gbarigolo;Baragola;Gbaregolo
+Bakana	Sapele	Delta	5.925	5.576	2	Bakama
+Bangi	Bodinga	Sokoto	12.739	5.263	2	
+Baka Tara	Kebbe	Sokoto	11.565	4.523	2	
+Gidan-Bango	Wurno	Sokoto	13.323	5.462	2	
+Barakin Werram	Riyom	Plateau	9.605	8.798	2	
+Garin Basam	Fune	Yobe	11.695	11.698	2	
+Biriri	Tarmua	Yobe	12.056	11.778	2	Bariri
+Barinje	Roni	Jigawa	12.616	8.285	2	
+Baguda	Birnin Kebbi	Kebbi	12.553	4.158	2	
+Baka	Gwandu	Kebbi	12.405	4.527	2	
+Tunga-Bawundiri	Bagudo	Kebbi	11.465	4.253	2	
+Fafan Bare Bari	Kirfi	Bauchi	10.374	10.618	2	
+Fanfan Bare Bari	Kirfi	Bauchi	10.374	10.618	2	
+Bawada	Birnin Kebbi	Kebbi	12.378	4.349	2	
+Banide	Augie	Kebbi	12.845	4.473	2	
+Balagandi	Gwandu	Kebbi	12.306	4.559	2	
+Babban Kauye	Gusau	Zamfara	11.597	6.667	2	
+Badayeso	Warji	Bauchi	11.108	9.691	2	
+Bakabe	Maiyama	Kebbi	12.277	4.283	2	
+Bakon Giwa	Koko-Besse	Kebbi	11.335	4.413	2	
+Kwaren Bagga	Arewa Dandi	Kebbi	12.675	4.173	2	
+Tanza Babba	Jega	Kebbi	12.085	4.558	2	
+Kuka Bakway	Arewa Dandi	Kebbi	12.898	4.229	2	
+Tunga Banbara	Bagudo	Kebbi	11.444	4.121	2	
+Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.761	9.553	3	
+Ungwan Dan Baba	Giwa	Kaduna	11.300	7.367	2	Dan Baba
+Barakin Nafam Dregi	Barkin Ladi	Plateau	9.583	8.983	2	
+Baase	Abeokuta North	Ogun	7.217	3.250	2	Basse
+Balda	Gwoza	Borno	11.269	13.353	2	
+Ibabban Tsuani	Gwagwalada	FCT Abuja	9.167	6.967	2	Babban Tsauni
+Balogun	Oyo West	Oyo	7.900	3.833	2	
+Bukaji	Demsa	Adamawa	9.367	12.217	2	Bukkaji;Bakaje;Bukaji
+Baba Ode	Itesiwaju	Oyo	8.200	3.217	2	Baba-awde;Baba Ode
+Bajoga	Funakaye	Gombe	10.852	11.432	3	
+Bawan Dogo	Chikun	Kaduna	10.767	6.850	2	
+Badore	Eti Osa	Lagos	6.510	3.616	2	
+Bagi	Lokoja	Kogi	8.536	6.237	2	
+Bar-n-John	Barkin Ladi	Plateau	9.533	8.950	2	Barikin John
+Barikin Jirga Summa	Jos North	Plateau	9.866	8.898	2	
+Baron	Mangu	Plateau	9.400	9.150	2	
+Barakin Sho	Barkin Ladi	Plateau	9.517	8.817	2	
+Bar	Tafawa-Balewa	Bauchi	9.897	9.701	2	
+Batande	Mubi North	Adamawa	10.359	13.238	2	
+Barama	Mubi North	Adamawa	10.276	13.291	2	
+Batara	Kala-Balge	Borno	11.602	14.280	2	Batarari
+Badu	Nganzai	Borno	12.703	13.218	2	Badu Lawanti
+Bagum	Mobbar	Borno	13.178	12.822	2	
+Bari Koraram	Abadam	Borno	13.651	13.333	2	
+Balanga	Balanga	Gombe	9.945	11.601	2	
+Mayo Bani	Mubi North	Adamawa	10.441	13.241	2	
+Basua	Boki	Cross River	6.061	8.999	2	Basna
+Bamzir	Chibok	Borno	10.828	12.792	2	Bamzur
+Bakin Kasuwa West	Hawul	Borno	10.447	12.158	2	Digira
+Tunga Baraje	Dandi	Kebbi	11.665	3.977	2	
+Ungwan Bano	Arewa Dandi	Kebbi	12.529	3.918	2	
+Unguwar Bako	Garki	Jigawa	12.549	8.993	2	Unguwar Baka;Ungwan Baka;Baka
+Babulada	Arewa Dandi	Kebbi	12.408	3.865	2	
+Tungan Baje	Bagudo	Kebbi	11.545	3.555	2	
+Bakin Ruwa	Bagudo	Kebbi	11.101	3.966	2	Baikinrua
+Bala Kuita	Dambatta	Kano	12.418	8.759	2	
+Lowolam Ibrahim Barka	Shani	Borno	10.194	12.025	2	Lawulum
+Baraya	Arewa Dandi	Kebbi	12.591	3.836	2	
+Baba Mutum	Baure	Katsina	12.817	8.996	2	Mutum;Birnin Mutum
+Kabal Balram	Monguno	Borno	12.626	13.732	2	
+Gbarame	Munya	Niger	9.633	7.050	2	Barame
+Baza	Tsafe	Zamfara	12.007	6.895	2	
+Dan Bara	Lere	Kaduna	10.567	8.400	2	Danbaro
+Wuron Bayi	Mubi South	Adamawa	10.200	13.250	2	
+Orangun	Ila	Osun	7.917	4.917	2	Balogun
+Tungan Bagala	Ngaski	Kebbi	10.809	4.854	2	
+Tungan Balure	Ngaski	Kebbi	10.911	4.939	2	
+Gidan Barau	Gada	Sokoto	13.877	5.526	2	
+Bakalambani	Borgu	Niger	10.767	4.083	2	Puissa Bani
+Bachaka	Gudu	Sokoto	13.407	4.173	2	
+Gidan Badamfari	Wamako	Sokoto	13.035	5.115	2	Gidan Badanfari
+Balkore	Kware	Sokoto	13.299	5.234	2	
+Basansan	Kware	Sokoto	13.089	5.358	2	
+Gurbin Baure	Jibia	Katsina	12.985	7.050	3	
+Gidan-Bakar	Tangaza	Sokoto	13.299	4.969	2	
+Bawgwel	Tangaza	Sokoto	13.697	5.011	2	
+Bakin Kusu	Wamako	Sokoto	13.055	5.195	2	
+Jimojimi-Basansagawa	Gudu	Sokoto	13.748	4.758	2	Jimajimi
+Baleo Dutche	Binji	Sokoto	13.136	4.888	2	
+Gidan Badua	Wamako	Sokoto	13.055	5.154	2	
+Bauni	Tangaza	Sokoto	13.611	5.076	2	
+Bakingida	Goronyo	Sokoto	13.412	5.547	2	
+Dan Barde	Tsafe	Zamfara	11.931	7.164	2	
+Badon Hanya	Wamako	Sokoto	12.984	5.212	2	
+Bazanga	Danja	Katsina	11.299	7.613	2	
+Ruwan Bawa	Gusau	Zamfara	11.975	6.659	2	
+Bakin Kasuan Gwari	Chikun	Kaduna	10.297	7.280	2	Bakin Kasua;Bakin Kasua Gwari
+Bakari Goso	Jada	Adamawa	8.533	12.250	2	Belo’s;Bakari Busau;Bokari Busso;Bakārī-Gosso
+Old Bakana	Degema	Rivers	4.745	6.964	2	Bush Bakana
+Bale	Obafemi Owode	Ogun	6.884	3.428	2	Bala
+Bassambiri	Brass	Bayelsa	4.533	6.417	2	Basambiri;Bassambri
+Baiyeku	Ìkòròdú	Lagos	6.538	3.553	2	
+Batarataya	Shanga	Kebbi	11.062	4.584	2	
+Badau	Maru	Zamfara	11.335	6.520	2	
+Bancu	Tambuwal	Sokoto	12.481	4.873	2	
+Ungwan Bagga	Arewa Dandi	Kebbi	12.627	4.119	2	
+Badaria Baba	Kalgo	Kebbi	12.302	4.179	2	Badariya
+Baba Maradu	Tambuwal	Sokoto	12.332	4.772	2	
+Bakin Goru	Bagudo	Kebbi	11.402	4.126	2	
+Bakaiyadiya	Birnin Kebbi	Kebbi	12.337	4.295	2	
+Bako	Koko-Besse	Kebbi	11.272	4.509	2	
+Tunga Bawa	Augie	Kebbi	12.857	4.538	2	
+Basaura	Jega	Kebbi	12.321	4.255	2	Basabra
+Ban Ogoyi	Tai	Rivers	4.802	7.226	2	Ban Ogoyi;Ban Ogoi
+Baban Baki	Talata Mafara	Zamfara	12.192	5.984	2	
+Gidan Baru	Maru	Zamfara	11.310	6.490	2	
+Bafarawa	Isa	Sokoto	13.320	6.655	2	
+Baturi	Ikara	Kaduna	11.190	8.383	2	Butari
+Giginya Bakwai	Buji	Jigawa	11.629	9.675	2	
+Tungan Batarata	Shanga	Kebbi	11.018	4.604	2	
+Bankodare	Katcha	Niger	9.167	6.233	2	Bakondare
+Bunga Baba	Birnin Kebbi	Kebbi	12.528	4.195	2	
+Bale Okoso	Yewa North	Ogun	7.017	2.783	2	
+Ba	Baruten	Kwara	9.058	2.927	2	
+Bajagga	Fufore	Adamawa	9.150	12.200	2	Bajaga
+Bajabure	Girei	Adamawa	9.303	12.466	2	
+Bachida	Lapai	Niger	9.133	6.683	2	Gbachida
+Berum	Biu	Borno	10.705	11.899	2	Barum
+Batake	Ido	Oyo	7.572	3.654	2	
+Bariga	Shomolu	Lagos	6.541	3.388	3	
+Bararam Gana	Bama	Borno	11.486	13.643	2	
+Pechar	Fufore	Adamawa	8.817	12.317	2	Bangafini
+Barama Lokuwa	Mubi North	Adamawa	10.283	13.306	2	
+Babige	Mubi North	Adamawa	10.302	13.314	2	
+Ba'Abul	Abadam	Borno	13.554	13.348	2	Babul
+Dutsin Bako	Zangon Kataf	Kaduna	9.967	8.150	2	
+Bakoji	Katcha	Niger	8.883	6.183	2	
+Balogun	Ifelodun	Kwara	8.437	5.031	2	
+Bahoda	Dandi	Kebbi	11.969	3.943	2	
+Baeban-Tabkin	Dandi	Kebbi	11.943	3.899	2	
+Banikube	Dandi	Kebbi	11.695	3.765	2	
+Babanruga	Makoda	Kano	12.318	8.517	2	Baba Ruga
+Garaba Bature	Zango	Katsina	12.931	8.577	2	
+Bani	Bagudo	Kebbi	11.497	3.622	2	
+Tungan Bagum	Dandi	Kebbi	11.871	3.636	2	
+Ungua Babon Gari Diyan	Dambatta	Kano	12.559	8.688	2	
+Bangwa	Birnin Kebbi	Kebbi	12.513	4.101	2	
+Wuro Bajam	Girei	Adamawa	9.583	12.467	2	Baijam
+Gidan Barde Chibiani	Munya	Niger	9.867	7.017	2	
+Bagajau	Askira-Uba	Borno	10.735	13.304	2	
+Unguwar Mallam Bawa	Gusau	Zamfara	12.008	6.670	2	
+Bandakwai	Shanga	Kebbi	10.954	4.654	2	
+Gidan Bahagu	Rafi	Niger	10.197	6.120	2	
+Tungan Bagudu	Mariga	Niger	10.742	6.021	2	Tunga Bagudu
+Baranzaki	Wurno	Sokoto	13.288	5.569	2	
+Masalawa Baba	Illela	Sokoto	13.655	5.471	2	
+Bai	Rimi	Katsina	12.876	7.712	2	
+Ban Zara Hill	Maru	Zamfara	12.219	6.368	2	
+Ungwan Mallam Bawa	Makarfi	Kaduna	11.335	7.857	2	Mallam Bawa
+Barkeji	Wamako	Sokoto	13.015	5.167	2	
+Bassawa	Sabon Gari	Kaduna	11.178	7.673	2	Basawa
+Badiya	Shagari	Sokoto	12.621	5.144	2	Badiyawa
+Badau	Bodinga	Sokoto	12.788	5.147	2	Badow
+Gidan Barau	Goronyo	Sokoto	13.525	5.611	2	
+Gidan-Bala	Fakai	Kebbi	11.531	4.903	2	
+Bakali	Suru	Kebbi	11.873	4.178	2	
+Bagudo	Bagudo	Kebbi	11.404	4.228	3	
+Babban Saura	Chikun	Kaduna	10.510	7.473	2	
+Bogeya	Rabah	Sokoto	12.900	5.617	2	Bageya
+Mallam Baka	Toro	Bauchi	10.134	9.463	2	
+Dogon Bauchi	Fika	Yobe	11.326	11.477	2	
+Barguma	Kaga	Borno	11.601	12.407	2	Burguma
+Balo Creek	Akuku Toru	Rivers	4.457	6.823	2	
+Barkin Daji	Gummi	Zamfara	11.866	5.118	2	
+Batu	Ningi	Bauchi	10.877	9.454	2	
+Bayan Dutse	Gwaram	Jigawa	11.010	9.908	2	Bayan Dutsi
+Baba Gigiyan	Maru	Zamfara	11.201	6.425	2	
+Bamirunji	Birnin Kebbi	Kebbi	12.453	4.413	2	
+Bagida	Tambuwal	Sokoto	12.269	4.709	2	
+Bawa Dan Firi	Shanga	Kebbi	11.015	4.932	2	
+Banizombo	Koko-Besse	Kebbi	11.387	4.361	2	
+Ungwan Makera	Faskari	Katsina	11.675	7.016	2	Bakin Gulbi
+Gidan-Bala	Fakai	Kebbi	11.535	4.879	2	
+Tunga Bawa	Birnin Kebbi	Kebbi	12.579	4.162	2	
+Bunu Barana	Tai	Rivers	4.762	7.242	2	
+Bugobi	Ofu	Kogi	7.300	7.283	2	Bagobi
+Ita Balogun	Yewa North	Ogun	6.939	2.872	2	
+Kangi Balaru	Yabo	Sokoto	12.644	4.960	2	
+Banda Sule	Gwandu	Kebbi	12.586	4.548	2	
+Badagry	Badagry	Lagos	6.417	2.885	3	
+Bayago	Irepodun	Kwara	8.161	4.814	2	
+Barakin Momo Dogo	Jos South	Plateau	9.733	8.717	2	
+Baro	Agaie	Niger	8.615	6.419	3	Barbo
+Bararaji	Tangaza	Sokoto	13.350	5.089	2	
+Bamage Tudu	Bodinga	Sokoto	12.727	5.250	2	Bamge
+Baolagi	Agaie	Niger	8.691	6.391	2	
+Badi	Mubi South	Adamawa	10.061	13.267	2	Bade
+Bangola	Argungu	Kebbi	12.600	4.289	2	
+Bawan Dodo	Barkin Ladi	Plateau	9.633	9.067	2	Birnin Dodo;Bawan Dado
+Barikin Kogi	Barkin Ladi	Plateau	9.667	9.067	2	
+Bakin Kogi	Barkin Ladi	Plateau	9.667	9.067	2	
+Baccure Kofare	Yola South	Adamawa	9.233	12.433	2	
+Unguwar Sarkin Baka	Babura	Jigawa	12.600	8.691	2	Ungwan Sarkin Baka;Sarkin Baka
+Batsaba	Kazaure	Jigawa	12.678	8.595	2	Basaba
+Bani Goro	Suru	Kebbi	11.612	3.873	2	
+Bagala	Arewa Dandi	Kebbi	12.360	3.833	2	
+Balalangu	Bagudo	Kebbi	11.470	3.674	2	
+Bassura	Bagudo	Kebbi	11.482	3.972	2	
+Bangai Dogon Tapki	Bunza	Kebbi	12.186	3.853	2	
+Dan Baji	Bungudu	Zamfara	12.415	6.548	2	
+Barwoshe	Bama	Borno	11.437	13.839	2	
+Bana	Diffa	Borno	13.296	12.637	2	
+Gunki	Shiroro	Niger	10.597	6.745	2	Baraje
+Makoshi	Agwara	Niger	10.770	4.643	2	Bakoshi
+Marinai	Chikun	Kaduna	10.539	6.840	2	Bakin Kogi
+Bauchi	Gudu	Sokoto	13.592	4.430	2	
+Batagarawa	Batagarawa	Katsina	12.903	7.619	2	
+Tungan Bakere	Agwara	Niger	10.630	4.404	3	
+Bawa	Bungudu	Zamfara	12.121	6.889	2	
+Bayanka	Gwadabawa	Sokoto	13.604	5.321	2	
+Gidan Bawa	Bungudu	Zamfara	12.335	6.507	2	
+Ungwan Bakon	Sabuwa	Katsina	11.266	7.115	2	Ungwan Bakon Bauga;Angwan Bakon Bauga
+Mai Tukuniyan Baban Gona	Maru	Zamfara	11.293	6.447	2	
+Bawa Gaga	Bungudu	Zamfara	12.160	6.519	2	
+Bango	Fakai	Kebbi	11.666	4.636	2	
+Ungwan Bature	Soba	Kaduna	11.066	8.055	2	Bature
+Ungwan Badu	Makarfi	Kaduna	11.282	8.013	2	Badu
+Bakoci	Koko-Besse	Kebbi	11.350	4.424	2	
+Baga	Kukawa	Borno	13.096	13.822	3	
+Bendi	Obanliku	Cross River	6.516	9.167	2	Bandi
+Bayara	Bauchi	Bauchi	10.210	9.727	2	
+Banoram	Magumeri	Borno	12.054	12.650	2	
+Bangwelli	Toro	Bauchi	10.351	9.153	2	
+Bambiyo	Giade	Bauchi	11.383	10.247	2	Bombio
+Gidan-Barawo	Maru	Zamfara	11.451	6.040	2	
+Tunga Bargawa-Bisa	Bagudo	Kebbi	11.469	4.279	2	
+Anguwan Sarkin Baka	Birnin Kudu	Jigawa	11.384	9.512	2	
+Barkeji	Tambuwal	Sokoto	12.453	4.770	2	
+Bakoshi	Kalgo	Kebbi	12.286	4.088	2	
+Babuji	Shagari	Sokoto	12.541	4.958	2	
+Bakin-Turu	Shanga	Kebbi	11.012	4.796	2	
+Angwan Bawamakeri	Maru	Zamfara	11.254	6.512	2	
+Bauchi	Gusau	Zamfara	11.620	6.637	2	
+Guidan Bawa	Isa	Sokoto	13.223	6.721	2	Gidan Bawa
+Baluba	Bonny	Rivers	4.564	7.171	2	
+Bame-Fadama	Birnin Kebbi	Kebbi	12.413	4.413	2	
+Badara	Alkaleri	Bauchi	10.061	10.306	2	
+Shanu	Ido	Oyo	7.624	3.784	2	Bashanu
+Geji Bauchi	Kwami	Gombe	10.512	11.337	2	
+Baradogi	Pategi	Kwara	8.750	5.767	2	
+Bangu	Balanga	Gombe	9.957	11.747	2	
+Bamgboye	Odeda	Ogun	7.200	3.733	2	Gbangboye
+Bangbose	Moro	Kwara	8.667	4.400	2	Bamgbose
+Iyedi Balogun	Ewekoro	Ogun	6.833	3.300	2	Iyede-Balogun
+Bankwagi	Wushishi	Niger	9.683	6.100	2	Bankogi
+Bambam	Kaltungo	Gombe	9.700	11.500	2	
+Ungwan Bahago	Sanga	Kaduna	9.066	8.494	2	
+Wuro Tammai	Girei	Adamawa	9.317	12.467	2	Bam
+Borobie	Baruten	Kwara	8.950	3.033	2	Barobia;Burobie
+Bama	Bama	Borno	11.524	13.691	3	Kasugula Bama
+Bandamari	Abadam	Borno	13.635	13.348	2	
+Moro Bale	Yewa South	Ogun	6.883	2.950	2	
+Bakogi Station	Katcha	Niger	8.883	6.183	2	
+Feske Baba	Arewa Dandi	Kebbi	12.752	3.978	2	
+Gudol Baba	Bunza	Kebbi	12.292	3.865	2	
+Viyang	Chibok	Borno	10.885	12.790	2	Balajan
+Tungan Bari	Dandi	Kebbi	11.637	3.825	2	
+Bantli	Hawul	Borno	10.399	12.226	2	Bantali
+Bagade	Babura	Jigawa	12.592	8.993	2	
+Gauri-Banza	Bunza	Kebbi	12.238	3.929	2	
+Ungwan Baro	Arewa Dandi	Kebbi	12.351	3.712	2	
+Balazola	Gwoza	Borno	11.232	13.680	2	
+Ungwan Sarkin Baka	Igabi	Kaduna	10.800	7.367	2	Baka
+Bakoshi	Bungudu	Zamfara	12.074	6.498	2	
+Badaku	Kaura Namoda	Zamfara	12.485	6.476	2	
+Baban Gebe	Maru	Zamfara	12.143	6.324	2	
+Baba Isale	Lagelu	Oyo	7.550	4.050	2	Babasale
+Bajako	Gbako	Niger	9.283	6.083	2	Batako
+Batake	Lokoja	Kogi	8.457	6.367	2	
+Tungan Bala	Ngaski	Kebbi	10.178	4.679	2	
+Gidan Bakabe	Kware	Sokoto	13.070	5.423	2	
+Balle	Gudu	Sokoto	13.469	4.681	2	
+Balla	Goronyo	Sokoto	13.365	5.579	2	
+Babuche	Kware	Sokoto	13.300	5.253	2	
+Tungan Bariki	Yauri	Kebbi	10.652	4.704	2	
+Unguwar Barmo	Bungudu	Zamfara	12.194	6.886	2	
+Bako	Rafi	Niger	10.299	6.238	2	Tungan Bako
+Bakachira	Illela	Sokoto	13.690	5.402	2	
+Bak-n-Ruwa	Ngaski	Kebbi	10.489	4.633	2	
+Garu Baba	Illela	Sokoto	13.626	5.370	2	
+Gidan Bako	Gusau	Zamfara	12.129	6.645	2	
+Sarkin Baka	Maru	Zamfara	11.200	6.506	2	
+Bakokodia	Warri South-West	Delta	5.671	5.322	2	
+Birnin Barwa	Igabi	Kaduna	10.870	7.768	2	
+Bongo	Igabi	Kaduna	10.652	7.678	2	Bango Darina;Bango
+Ungwan Bakayadda	Kudan	Kaduna	11.239	7.781	2	
+Bauchi	Bauchi	Bauchi	10.317	9.841	3	
+BRT Barracks	Surulere	Lagos	6.506	3.365	0	
+Bakery	Alimosho	Lagos	6.600	3.296	0	
+Bara	Kirfi	Bauchi	10.409	10.604	3	
+Ogida Barrack's Market	Egor	Edo	6.364	5.589	0	
+Bayan Dutse	Shani	Borno	10.062	11.815	2	
+United Baptist Grammar School	Oredo	Edo	6.340	5.624	0	
+Universal Basic Education	Oredo	Edo	6.339	5.625	0	
+Balanga	Abadam	Borno	13.513	13.092	2	Bolunga
+Moduwari Barwati	Kukawa	Borno	12.815	13.671	2	
+Balogun	Akinyele	Oyo	7.457	3.951	2	
+Baptist High School	Enugu South	Enugu	6.422	7.492	0	
+Oritamefa Baptist Model School	Ibadan North	Oyo	7.398	3.908	0	
+Ruwan Bago Health Post	Rogo	Kano	11.407	7.758	0	
+Bari Primary Health Centre	Rogo	Kano	11.568	7.751	0	
+Ba'Awa Health Post	Kiru	Kano	11.598	7.987	0	
+Bargoni Health Post	Kiru	Kano	11.719	8.105	0	
+Baskore Health Post	Kabo	Kano	11.843	8.148	0	
+Bauda Health Post	Kiru	Kano	11.589	8.190	0	
+Badafi Health Post	Kiru	Kano	11.373	8.169	0	
+Badari Health Post	Gwarzo	Kano	11.803	7.894	0	
+Bankaura Health Post	Bichi	Kano	12.271	8.381	0	
+Gawon Bature Health Post	Bichi	Kano	12.263	8.419	0	
+Baje Primary Health Centre	Kunchi	Kano	12.365	8.257	0	
+Bagwai	Bagwai	Kano	12.158	8.136	3	
+Wuro Bagga	Bagwai	Kano	12.152	8.100	2	Wurabugga
+Bayawa	Gaya	Kano	11.779	9.114	2	
+Jikan Bawa	Doguwa	Kano	10.649	8.680	2	
+Bakarfa	Doguwa	Kano	10.649	8.592	2	
+Tsakuwa Babban Gari	Dawakin Kudu	Kano	11.793	8.644	3	Tsakuwa
+Bahawa	Doguwa	Kano	10.606	8.720	2	Gidan Bahawa
+Bakaji	Shanono	Kano	12.130	7.873	3	
+Unguwar Bala	Doguwa	Kano	11.149	8.526	2	Ungwar Bara
+Nigerian Air Force Base	Fagge	Kano	12.034	8.530	2	NAF Base
+Police Barrack	Nassarawa	Kano	12.018	8.556	2	
+Wuro Bagga	Nassarawa	Kano	11.995	8.592	2	
+Badawa	Nassarawa	Kano	12.000	8.576	2	
+Bakin Ruwa 1	Dala	Kano	11.998	8.504	2	
+Bakin Ruwa 2	Dala	Kano	12.003	8.508	2	
+Custom Barrack	Fagge	Kano	12.024	8.520	2	
+Dorayi Babba Cikin Gari	Gwale	Kano	11.969	8.461	2	
+Gidan Baban Gwari	Fagge	Kano	12.031	8.513	2	
+Police Barrack	Fagge	Kano	12.020	8.522	2	
+Balbelu	Sumaila	Kano	11.201	8.742	2	
+Kara Babba	Ajingi	Kano	12.068	9.059	2	
+Samana Bakin Rafi	Tudun Wada	Kano	11.274	8.321	2	
+Mashaya Babba	Tudun Wada	Kano	11.299	8.352	2	
+Douhoun Bara	Madarounfa	Zamfara	13.004	7.048	2	
+Baba Nrafi	Madarounfa	Sokoto	13.189	6.828	2	
+Bakin Kogi Model Primary Health Center	Alkaleri	Bauchi	10.260	10.301	0	Galen Duguri HC - Gangar Dispensary
+Guruntun Dispensary	Alkaleri	Bauchi	10.261	10.300	0	Badaram Dutsi
+Bakassi	Monguno	Borno	12.813	14.030	2	
+Baptist Girls High School	Osogbo	Osun	7.769	4.545	0	
+Banki	Bama	Borno	11.251	14.148	3	
+Army Barrack	Biu	Borno	10.596	12.190	2	
+Bam Bwala	Biu	Borno	10.666	12.292	2	
+Baramsura	Hawul	Borno	10.440	12.101	2	
+Wargile Bajoga	Shani	Borno	10.170	11.988	2	
+Maiwa Baleri	Mafa	Borno	11.884	13.455	2	
+Baracks	Jere	Borno	11.911	13.108	2	
+Baram Kauwa	Mafa	Borno	11.847	13.250	2	
+Kasugula Bama	Bama	Borno	11.519	13.689	3	
+Maina Baba	Bayo	Borno	10.342	11.579	2	
+Jauro Babayo	Shani	Borno	10.056	11.937	2	
+Oke Moyo Baptist Primary School	Ejigbo	Osun	7.896	4.320	0	
+Ardo Bayu	Shani	Borno	10.292	11.927	2	
+Bajoga	Shani	Borno	10.215	11.873	2	
+Bakailla	Shani	Borno	10.295	11.950	2	
+Banga	Shani	Borno	10.146	11.900	2	
+Bappa Laleko	Shani	Borno	10.277	11.876	2	
+Bappa Nana	Bayo	Borno	10.238	11.784	2	
+Diki Diki Gor Ba	Shani	Borno	10.288	11.889	2	
+Jauro Baba Wuro Dispensary	Shani	Borno	10.260	11.872	0	
+Jauro Bahago	Shani	Borno	10.260	11.819	2	
+Jauro Baiyo	Shani	Borno	10.279	11.889	2	
+Kwanden Bakatore	Shani	Borno	10.299	11.937	2	
+Basuri	Nganzai	Borno	12.762	13.173	2	
+Gundi Bafiari	Gubio	Borno	12.791	13.062	2	
+Ali Bairi	Magumeri	Borno	12.072	12.990	2	
+Badairi	Magumeri	Borno	12.188	12.954	2	
+Kura Bari	Magumeri	Borno	12.184	13.006	2	
+Baram Kuru Lawanti	Gubio	Borno	12.501	12.604	2	
+Baram Kuru	Gubio	Borno	12.514	12.608	2	
+Kyari Ba Ari	Gubio	Borno	12.549	12.519	2	
+Mallam Banari	Gubio	Borno	12.479	12.590	2	
+Balumiri	Nganzai	Borno	12.490	13.130	2	
+Bashari	Nganzai	Borno	12.512	13.162	2	
+Barari Gana	Nganzai	Borno	12.437	13.271	2	Barari B
+Barari Kura A	Nganzai	Borno	12.435	13.275	2	
+Mallam Moduri Balumi	Nganzai	Borno	12.465	13.211	2	
+Barkauri	Magumeri	Borno	12.224	12.780	2	
+Babawa	Shani	Borno	10.195	12.000	2	
+Bakaina Fulani	Shani	Borno	10.145	12.034	2	
+Mbagu Babayo	Shani	Borno	10.230	12.090	2	
+Bare Lawanti	Magumeri	Borno	12.295	13.084	2	
+Bare Modu Mala	Magumeri	Borno	12.286	13.090	2	
+Barkari Bukar	Mafa	Borno	11.948	13.293	2	
+Barkari Bunube	Mafa	Borno	11.943	13.287	2	
+Barkari M. Bukar	Mafa	Borno	11.952	13.299	2	
+Bashetti	Jere	Borno	11.901	13.251	2	
+Aza Baimari	Mafa	Borno	12.188	13.750	2	
+Babbari	Mafa	Borno	11.938	13.636	2	
+Baligali	Mafa	Borno	11.958	13.548	2	
+Basharti	Mafa	Borno	11.938	13.599	2	
+Bazam Goniri	Gubio	Borno	12.567	12.793	2	
+Bazam Lawanti	Gubio	Borno	12.575	12.791	2	
+Bura Bazzamari	Gubio	Borno	12.636	12.776	2	
+Kyari Baari	Gubio	Borno	12.602	12.767	2	
+Bamba	Mafa	Borno	11.889	13.487	2	
+Bangobari E	Gubio	Borno	12.685	12.756	2	
+Mobile Police Barack	Maiduguri	Borno	11.828	13.127	2	
+Molai judumari	Jere	Borno	11.743	13.101	2	Molai Bariki
+Goni Balumiri	Gubio	Borno	12.709	12.692	2	
+Batchawadari	Magumeri	Borno	12.193	12.738	2	
+Ganamari	Magumeri	Borno	12.171	12.798	2	Bamchira A
+Ali Baramari	Gubio	Borno	12.588	12.884	2	
+Ba'anari	Gubio	Borno	12.707	12.846	2	
+Ba'anari 2	Gubio	Borno	12.707	12.847	2	
+Bamblaa	Gubio	Borno	12.655	12.864	2	
+Ban Ngudoram	Gubio	Borno	12.720	12.905	2	
+Balumiri	Nganzai	Borno	12.667	13.090	2	
+Balumeri	Gubio	Borno	12.807	12.704	2	
+Mallam Bayari	Gubio	Borno	12.855	12.753	2	
+Bar Kwaramti	Gubio	Borno	12.685	12.594	2	
+Bakkiti	Bayo	Borno	10.256	11.769	2	
+Balangeru	Shani	Borno	10.191	11.730	2	
+Audu Bazzazige	Bayo	Borno	10.313	11.578	2	
+Bangalori	Bayo	Borno	10.314	11.593	2	
+Ndeki Anguwan Mallam Barau	Bayo	Borno	10.309	11.585	2	
+Baderi	Nganzai	Borno	12.566	13.211	2	
+Balumeri B	Nganzai	Borno	12.562	13.218	2	
+Balumri	Nganzai	Borno	12.557	13.224	2	
+Barmari	Nganzai	Borno	12.708	13.217	2	
+Barteri	Magumeri	Borno	12.015	12.935	2	
+Bagana	Omala	Kogi	8.028	7.597	2	
+Bakumi	Omala	Kogi	7.902	7.514	2	
+Baba Shanya	Shani	Borno	10.114	11.941	2	
+Bama	Shani	Borno	10.130	11.812	2	
+Chairman Balu	Shani	Borno	10.074	11.896	2	
+Mittiri	Magumeri	Borno	12.084	12.774	2	Bambam
+Barganamari	Magumeri	Borno	12.274	12.281	2	
+Baban Naire	Bayo	Borno	10.370	11.794	2	
+Balba Bura	Kwaya Kusar	Borno	10.373	11.934	2	
+Balba Fulani	Kwaya Kusar	Borno	10.369	11.930	2	
+Jauro Babayo	Kwaya Kusar	Borno	10.487	11.834	2	
+Maiba Bakari	Kwaya Kusar	Borno	10.488	11.863	2	
+Sakdiya Babayo	Bayo	Borno	10.419	11.786	2	
+Zobe Jauro Umar Baka	Kwaya Kusar	Borno	10.438	11.867	2	
+Zona Babba Suleiman	Kwaya Kusar	Borno	10.401	11.899	2	
+Bamkuwa A Suri	Mobbar	Borno	12.911	12.460	2	
+Bamkuwa Kura	Mobbar	Borno	12.918	12.458	2	
+Bamkuwa Sheruri	Mobbar	Borno	12.914	12.464	2	
+Baba Yaya	Shani	Borno	10.104	12.078	2	
+Bapparu	Shani	Borno	10.110	11.971	2	
+Jauro Bello Babba	Shani	Borno	10.073	12.005	2	
+Peshingo Jauro Baba	Shani	Borno	10.098	12.061	2	
+Wuro Babaye	Shani	Borno	10.067	12.049	2	
+Wuro Funo Baba	Shani	Borno	10.071	12.058	2	
+Jarwua Baba Chindo	Shani	Borno	10.310	12.211	2	
+Umar Bata	Shani	Borno	10.251	12.139	2	
+Banakanam	Mobbar	Borno	12.814	12.548	2	
+Balama Kurdi	Mobbar	Borno	13.059	12.480	2	
+Bayan Dutse	Bayo	Borno	10.368	11.572	2	
+Changilba Gabas Alh Bala	Bayo	Borno	10.362	11.708	2	
+Gumbeli Jauro Bawa	Bayo	Borno	10.412	11.671	2	
+Samawa Alhaji Bammi	Bayo	Borno	10.459	11.711	2	
+Batauri	Mobbar	Borno	13.214	12.834	2	
+Banowa	Abadam	Borno	13.149	13.174	2	
+Bamdi	Shani	Borno	10.316	11.987	2	
+Baram	Hawul	Borno	10.351	12.046	2	
+Bargu Daya	Kwaya Kusar	Borno	10.452	11.992	2	
+Bargu Degri	Kwaya Kusar	Borno	10.404	12.011	2	
+Bargu Dunkur	Kwaya Kusar	Borno	10.400	12.007	2	
+Bargu	Kwaya Kusar	Borno	10.402	12.008	2	
+Batuli	Hawul	Borno	10.382	12.256	2	
+Bayu	Hawul	Borno	10.436	12.152	2	
+Bakin Kogi	Hawul	Borno	10.374	12.431	2	
+Balgi	Hawul	Borno	10.476	12.411	2	
+Bakaina Dispensary	Shani	Borno	10.139	12.036	0	
+Bargu Clinic	Shani	Borno	10.088	11.963	0	
+Banowa	Abadam	Borno	13.203	13.272	2	Banuwa
+Baram Kindilla	Abadam	Borno	13.174	13.312	2	
+Barta A	Abadam	Borno	13.312	13.272	2	
+Balari	Mobbar	Borno	13.249	12.893	2	
+Walu Baleri	Mobbar	Borno	13.286	12.838	2	
+Bakari	Abadam	Borno	13.430	13.571	2	
+Modu Baliri	Nganzai	Borno	12.730	13.208	2	
+Ballamari	Nganzai	Borno	12.401	13.360	2	
+Garin Baleri	Bayo	Borno	10.578	11.585	2	
+Unguwar Basharu	Aleiro	Kebbi	12.280	4.421	2	
+Batsari Dogo	Bayo	Borno	10.548	11.653	2	
+Batsari Kaura	Bayo	Borno	10.552	11.652	2	
+Baushe Sule	Bayo	Borno	10.559	11.730	2	
+Bera Baushe	Bayo	Borno	10.536	11.632	2	
+Garin Babayo	Kwaya Kusar	Borno	10.493	11.729	2	
+Garin Baka	Bayo	Borno	10.594	11.739	2	
+Juggal 4 Jauro Barka	Kwaya Kusar	Borno	10.504	11.729	2	
+Bami Ibrahim	Kwaya Kusar	Borno	10.508	11.945	2	
+Baushe Wada / Alhaji Muazu	Kwaya Kusar	Borno	10.603	11.878	2	
+Baushe Wada	Kwaya Kusar	Borno	10.621	11.871	2	
+Fika Bayu	Kwaya Kusar	Borno	10.563	11.911	2	
+Bakumdum	Hawul	Borno	10.530	12.041	2	
+Banga	Hawul	Borno	10.627	11.984	2	
+Bantam Bulama Idi	Kwaya Kusar	Borno	10.520	11.983	2	
+Bantam Jauro Sakani	Kwaya Kusar	Borno	10.513	11.986	2	
+Bantam Wakil Jibir	Kwaya Kusar	Borno	10.517	11.983	2	
+Birni Barki	Hawul	Borno	10.513	12.012	2	
+Minta Bakari	Kwaya Kusar	Borno	10.551	11.967	2	
+Shikwi Bulama Audu Baushi	Hawul	Borno	10.634	12.053	2	
+Balgi	Hawul	Borno	10.507	12.204	2	
+Amarvai Ballar	Mafa	Borno	11.835	13.807	2	
+Balle Bajigila	Mafa	Borno	11.777	13.774	2	
+Gumshe Bajigila	Mafa	Borno	11.797	13.790	2	
+Bala Aviu	Damboa	Borno	11.224	13.144	2	
+Malum’Mbayeri	Kukawa	Borno	12.767	13.755	2	Mallum Bairi
+Barwati Health Clinic	Kukawa	Borno	12.812	13.671	0	
+Bam	Biu	Borno	10.624	12.406	2	
+Baraki Chandum	Biu	Borno	10.585	12.415	2	
+Babba Pate	Biu	Borno	10.718	11.947	2	
+Bambarka	Bayo	Borno	10.668	11.809	2	
+Jauro Baba	Biu	Borno	10.723	11.945	2	
+Bara	Biu	Borno	10.724	12.085	2	
+Bam Fulani	Biu	Borno	10.673	12.279	2	
+Bango	Biu	Borno	10.738	12.236	2	
+Baramsira	Biu	Borno	10.692	12.280	2	
+Maina Tochi	Biu	Borno	10.696	12.161	2	Alhaji Bakari
+Bahago	Biu	Borno	10.784	12.340	2	
+Bam Mbula	Biu	Borno	10.739	12.370	2	
+Jauro Bawa	Biu	Borno	10.852	11.700	2	
+Jauro Baba Uro	Biu	Borno	10.865	11.820	2	
+Banki Health Clinic	Bama	Borno	11.249	14.151	0	
+Baharko	Damboa	Borno	11.072	12.643	2	
+Ardo Aman	Chibok	Borno	10.865	12.751	2	Babayel
+Ba Magumo	Chibok	Borno	10.867	12.749	2	
+Ba'a Monguno	Chibok	Borno	10.884	12.764	2	
+Kwada	Chibok	Borno	10.884	12.789	2	Lawan Balla
+Bala Maduri	Damboa	Borno	11.050	12.854	2	
+Batari	Damboa	Borno	11.060	12.738	2	
+Police Barracks	Damboa	Borno	11.162	12.764	2	
+Maternity and Child Health Bama	Bama	Borno	11.517	13.685	0	
+Bararam Kura	Bama	Borno	11.496	13.652	2	Kelluri
+Barderi	Bama	Borno	11.481	13.650	2	Dangela
+Ardo Bapa	Chibok	Borno	10.758	12.736	2	
+Ardo Bashir	Chibok	Borno	10.822	12.738	2	
+Bamjir Bila Dize	Chibok	Borno	10.831	12.800	2	
+Bamzir B Pukuma	Chibok	Borno	10.830	12.802	2	
+Lawan Babayel Nomadic	Chibok	Borno	10.775	12.814	2	
+Knowledge Base International Kiddies Embassy	Akinyele	Oyo	7.527	3.925	0	
+Baptist Bus Stop	Lagelu	Oyo	7.433	3.942	0	
+Oke Okanla Baptist Primary School	Osogbo	Osun	7.768	4.553	0	
+Babban Giji	Tarauni	Kano	11.955	8.540	2	
+Baaza	Borgu	Niger	10.319	4.413	2	
+Bajoga	Funakaye	Gombe	10.846	11.438	0	
+Bauchi	Bauchi	Bauchi	10.293	9.849	0	
+Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.771	9.557	0	
+Baba	Markurdi	Benue	7.764	8.524	0	
+Nuhu Bamalli Polytechnic Zaria	Zaria	Kaduna	11.037	7.674	0	
+Sick Bay	Sabon Gari	Kaduna	11.155	7.652	0	
+Bandi / Bandi Koura	Bosso	Borno	13.511	12.946	2	
+Bassa	Bosso	Borno	13.520	12.961	2	
+Malam Kiaridi Barou	Goudoumaria	Yobe	13.382	11.341	2	
+Bacha	Maïné Soroa	Yobe	13.258	11.889	2	
+Djetkoram Manda (Baredi)	Maïné Soroa	Yobe	13.354	11.609	2	
+Bagara	Diffa	Borno	13.290	12.593	2	
+Yar Akija Basic Health Clinic	Sokoto South	Sokoto	13.054	5.236	0	Akija Clinic
+Bagouromiram	Diffa	Borno	13.152	12.540	2	
+point eight Barunde Gona Div.	Akko	Gombe	10.258	11.185	2	
+baptist secondary school	Adó-Èkìtì	Ekiti	7.615	5.193	0	
+Babban Giji Secondary School, Karkasara	Tarauni	Kano	11.959	8.545	0	
+Balgari	Tibiri	Kebbi	12.723	3.897	2	
+Basic Junior Secondary School	Yenegoa	Bayelsa	4.953	6.343	0	
+Baga Road Market	Maiduguri	Borno	11.870	13.124	0	
+Baura	Monguno	Borno	12.397	13.441	2	
+Army Barrack	Monguno	Borno	12.701	13.638	2	
+Barwati	Kukawa	Borno	13.095	13.822	2	
+Balari Modu Isari	Guzamala	Borno	12.843	13.224	2	
+Barati	Guzamala	Borno	13.133	12.920	2	
+Fulatari Ba Adambe	Guzamala	Borno	12.616	13.411	2	
+Baram Bul Bulamari	Nganzai	Borno	12.653	13.221	2	
+Kadugure Bannamari	Nganzai	Borno	12.599	13.356	2	
+Kurnawa Bawaleya	Guzamala	Borno	12.604	13.433	2	
+Bade Mammariye	Konduga	Borno	11.735	13.185	2	
+Bananari	Konduga	Borno	11.841	12.904	2	
+Laujeri Bulama Ba Ale	Jere	Borno	11.722	13.283	2	
+Bayaram	Konduga	Borno	11.684	13.229	2	
+Ballemiri (Melleri)	Konduga	Borno	11.822	12.933	2	
+Bulabulin Baligawe	Konduga	Borno	11.710	13.122	2	
+Barikiyr	Konduga	Borno	11.620	13.301	2	
+Balonguwa Kura	Konduga	Borno	11.711	12.989	2	
+Bamti 1	Kaga	Borno	11.920	12.677	2	
+New Creation Baptist Nur and Pri School	Warri South	Delta	5.537	5.749	0	
+Avenue Baptist School	Warri South	Delta	5.530	5.750	0	
+Bara'Imul Iman - Islamic School	Maiduguri	Borno	11.812	13.142	0	
+Universal basic dducation junior	Gwoza	Borno	11.219	13.784	0	
+Falcon Bay Oil Filling Station	Uvwie	Delta	5.573	5.800	0	
+Basira	Sabon Birni	Sokoto	13.410	6.628	2	
+Bacita Airstrip	Edu	Kwara	9.043	4.919	0	
+Baptist College of Theology	Owerri West	Imo	5.417	6.948	0	
+Bachaka Masallaci	Madaoua	Sokoto	13.676	6.296	2	
+Barda Yabo	Shinkafi	Zamfara	13.104	6.395	2	
+Bararrarahe Jindilu	Tangaza	Sokoto	13.350	5.090	2	
+Batti Village	Gwadabawa	Sokoto	13.462	5.397	2	
+Bakin Kuga	Bungudu	Zamfara	12.244	6.518	2	
+Gidan Baare	Tureta	Sokoto	12.354	5.728	2	
+Balela	Bakura	Zamfara	12.355	5.820	2	
+Dabagi	Dange-Shuni	Sokoto	12.735	5.452	2	Babagi Birni
+Bancho	Tambuwal	Sokoto	12.494	4.868	2	
+Batsauje	Bodinga	Sokoto	12.734	5.233	2	
+Bayo Gidan	Dange-Shuni	Sokoto	12.938	5.296	2	
+Bakura	Bakura	Zamfara	12.604	5.874	2	
+Badiko Bus Stop	Kaduna South	Kaduna	10.534	7.410	0	
+Batati	Mokwa	Niger	9.147	5.225	2	
+Central Primary School,Baganje	Billiri	Gombe	9.847	11.179	0	
+Civil Engineering Hydraulic Basin	Shomolu	Lagos	6.519	3.397	0	
+Bagbe Akure Market	Akure South	Ondo	7.251	5.195	0	
+Badore Ferry Terminal	Eti Osa	Lagos	6.512	3.615	0	
+Bayeku Ferry Terminal	Ìkòròdú	Lagos	6.536	3.553	0	
+Ilaje Waterfront Jetty Terminal Bariga	Shomolu	Lagos	6.528	3.400	0	
+Ode Bara Market	Ejigbo	Osun	7.904	4.315	0	
+Baptist High School, Ejigbo	Ejigbo	Osun	7.897	4.319	0	
+Nigerian Baptist Theological Seminary	Ogbomosho North	Oyo	8.132	4.232	0	
+Baliya	Borgu	Niger	10.505	3.811	2	
+Bale Towe Town Hall	Lagos Mainland	Lagos	6.495	3.389	0	
+Barracks	Ikeja	Lagos	6.618	3.361	0	
+Baptist	Port-Harcourt	Rivers	4.760	7.039	2	
+Marine Base	Port-Harcourt	Rivers	4.770	7.027	2	
+Musa Babayo	Gombe	Gombe	10.306	11.171	0	
+Bagzumta oil Nig ltd	Yamaltu/Deba	Gombe	10.276	11.240	0	
+Bandirawo filling station	Yamaltu/Deba	Gombe	10.277	11.281	0	
+BANGO ENERGY LTD.	Akko	Gombe	10.292	11.072	0	
+Balogun Primary Healthcare Center.	Alimosho	Lagos	6.591	3.228	0	
+World Bank Market	Owerri Municipal	Imo	5.482	7.002	0	
+Federeal Neuro-Psychiatric Hospital, Barnawa	Kaduna South	Kaduna	10.463	7.429	0	
+Barga PHC	Tambuwal	Sokoto	12.171	4.643	0	
+Ruwan Bago	Rogo	Kano	11.405	7.757	2	
+Sabon Layin Baja	Rogo	Kano	11.519	7.682	2	
+Dusten Bari	Rogo	Kano	11.579	7.724	2	Agalawa
+Sabon Gari Bari	Rogo	Kano	11.570	7.755	2	Bari
+Ba'Awa Cikin Gari	Kiru	Kano	11.597	7.986	2	Ba’awa
+Barbaji	Rogo	Kano	11.526	7.977	2	
+Babban Gida A	Gwarzo	Kano	11.915	7.895	2	
+Badumawa	Shanono	Kano	11.988	7.892	2	
+Badafi	Kiru	Kano	11.374	8.168	2	Sabuwar Badafi
+Bakari	Rogo	Kano	11.498	8.023	2	Makeri
+Bargi	Kiru	Kano	11.354	8.250	2	
+Bada A	Kiru	Kano	11.672	8.095	2	
+Bada B	Kiru	Kano	11.670	8.095	2	
+Bauda Cikin Gari	Kiru	Kano	11.587	8.191	2	Bauda
+Babban Layi	Kabo	Kano	11.906	8.231	2	
+Balbelu	Kunchi	Kano	12.380	8.213	2	
+Wuro Bagga	Bichi	Kano	12.212	8.280	2	
+Badume Cikin Gari	Bichi	Kano	12.191	8.314	2	Badumo
+Basiru	Bebeji	Kano	11.360	8.307	2	
+Bagauda	Bebeji	Kano	11.570	8.386	2	
+Zaure Bakwai	Garum Mallam	Kano	11.686	8.370	3	
+Janguza Army Barrack	Tofa	Kano	11.956	8.390	2	Janguza
+Bagga	Dawakin Tofa	Kano	12.100	8.405	2	
+Nassarawa Bagadawa	Dawakin Tofa	Kano	12.123	8.383	2	
+Bansarki	Dawakin Tofa	Kano	12.187	8.434	2	
+Bankaura	Bichi	Kano	12.268	8.385	2	
+Baro Marke	Bichi	Kano	12.332	8.376	2	
+Gawon Bature	Makoda	Kano	12.579	8.473	2	
+Unguwar Bai	Dambatta	Kano	12.584	8.613	2	
+Baushe	Dambatta	Kano	12.516	8.631	2	
+Baro	Makoda	Kano	12.517	8.442	2	
+Balloda A	Dambatta	Kano	12.403	8.595	2	
+Balloda B	Dambatta	Kano	12.390	8.582	2	
+Sabon Gari Bayo	Dambatta	Kano	12.329	8.632	2	
+Ballagaza	Gabasawa	Kano	12.256	8.884	2	Balagaza
+Balakwaita	Gabasawa	Kano	12.246	8.900	2	Badawa Balakuita
+Badawa Danduwa	Gabasawa	Kano	12.248	8.913	2	
+Kuka Bakwai	Minjibir	Kano	12.230	8.554	2	
+Badawa B Fulani	Dambatta	Kano	12.258	8.606	2	
+Zangon Bare Bari	Minjibir	Kano	12.243	8.702	2	
+Kantama Babba	Minjibir	Kano	12.179	8.596	2	Kantama
+Geranya Bardawa	Minjibir	Kano	12.194	8.591	2	Geranya
+Sambauna Kofar Fada	Minjibir	Kano	12.126	8.595	2	San Bauna
+Tsalle Badamasi	Minjibir	Kano	12.230	8.621	2	
+Bawuri Cikin Gari	Minjibir	Kano	12.243	8.616	2	
+Bakin Kasuwa	Ungongo	Kano	12.107	8.495	2	
+Bakaura Danbaba	Dawakin Tofa	Kano	12.144	8.451	2	
+Badako	Dawakin Tofa	Kano	12.161	8.464	2	
+Jama'Ar Yan Barkono	Minjibir	Kano	12.186	8.510	2	
+Baba	Dawakin Kudu	Kano	11.900	8.700	2	
+Tsamiya Babba	Gezawa	Kano	11.984	8.616	2	
+Zaura Babba	Ungongo	Kano	12.060	8.623	2	Zaura
+Bangare	Gezawa	Kano	12.112	8.684	2	
+Chaka Baba	Gezawa	Kano	12.092	8.658	3	
+Bagurawa	Minjibir	Kano	12.171	8.627	2	Sabon Gari Bagurawa
+Baita	Gezawa	Kano	12.131	8.653	2	
+Bakin Ruwa	Kumbotso	Kano	11.915	8.463	3	
+Batakaye	Kumbotso	Kano	11.914	8.505	2	
+Bakin Dogo	Kumbotso	Kano	11.896	8.457	3	
+Bakin Gangara	Kumbotso	Kano	11.927	8.508	2	
+Tashar Bako	Minjibir	Kano	12.177	8.705	2	
+Bariya	Gabasawa	Kano	12.186	8.747	2	
+Barwa	Gezawa	Kano	12.135	8.706	2	
+Badawa	Ajingi	Kano	12.061	8.993	2	
+Unguwar Bai	Ajingi	Kano	12.048	8.982	2	Ungua Bai
+Bakin Dila A	Ajingi	Kano	11.970	8.869	2	
+Bare	Gezawa	Kano	12.084	8.777	2	
+Bakin Dila B	Ajingi	Kano	11.952	8.873	2	
+Baginawa	Warawa	Kano	11.930	8.805	2	
+Gaddama Babba	Warawa	Kano	11.881	8.833	2	
+Dusten Jijir Bakin Rimi	Gaya	Kano	11.898	8.963	2	
+Chiromawa Bakin Shara	Ajingi	Kano	12.011	8.941	2	
+Balare	Ajingi	Kano	11.991	8.927	2	
+Bangashe Cikin Gari Layin Gidan Sarki	Gaya	Kano	11.894	9.018	2	
+Gidan Jeji Babban Ga	Ajingi	Kano	11.957	9.204	2	
+Kogar Babba	Dawakin Kudu	Kano	11.809	8.721	2	
+Tundun Bayero	Dawakin Kudu	Kano	11.842	8.522	2	
+Unguwar Bango	Madobi	Kano	11.852	8.475	2	
+Baburko	Gezawa	Kano	11.996	8.732	2	
+Police Barrack	Wudil	Kano	11.793	8.845	2	
+Dukawa Babbangida	Dawakin Kudu	Kano	11.816	8.802	2	
+Bauchiyel	Wudil	Kano	11.799	8.853	2	
+Laraba Basama	Wudil	Kano	11.783	8.818	2	
+Ban Rimaye	Ajingi	Kano	11.922	9.146	2	
+Sheda Babban Gida	Albasu	Kano	11.668	9.007	2	
+Bataiya	Albasu	Kano	11.684	9.033	2	
+Baleke Cikin Gari	Albasu	Kano	11.656	9.050	2	
+Baleke Dija	Albasu	Kano	11.665	9.050	2	
+Basifariya	Dawakin Kudu	Kano	11.841	8.565	2	
+Zangon Baure	Bunkure	Kano	11.699	8.540	3	Bunkure
+Unguwar Barde	Bunkure	Kano	11.704	8.543	2	
+Babban Gida	Kura	Kano	11.769	8.596	2	
+Barade Yamma	Dawakin Kudu	Kano	11.723	8.681	2	
+Badawa	Dawakin Kudu	Kano	11.739	8.663	2	
+Barbelu	Dawakin Kudu	Kano	11.735	8.662	2	
+Unguwar Baki	Bunkure	Kano	11.704	8.632	2	
+Banbara	Wudil	Kano	11.715	8.813	2	
+Baji Gari	Sumaila	Kano	11.439	8.994	2	Baji
+Bango	Sumaila	Kano	11.444	9.035	2	
+Banga 2	Wudil	Kano	11.678	8.908	2	
+Bango	Takai	Kano	11.322	9.144	2	
+Bagagare	Sumaila	Kano	11.411	8.901	2	
+Birnin Bako	Takai	Kano	11.339	9.129	2	Bako
+Bagwaro	Takai	Kano	11.375	9.175	2	
+Banaka	Takai	Kano	11.393	9.126	2	
+Bakin Kasuwa	Takai	Kano	11.381	9.088	2	
+Sabon Garin Baburi	Tudun Wada	Kano	11.340	8.733	2	
+Bazane Babba	Tudun Wada	Kano	11.343	8.760	2	
+Baburi	Tudun Wada	Kano	11.329	8.739	2	
+Barho	Tudun Wada	Kano	11.325	8.666	2	
+Gidan Bauchi	Sumaila	Kano	11.309	8.794	2	
+Baure	Tudun Wada	Kano	11.434	8.780	2	
+Gidan Sarkin Baka	Rano	Kano	11.529	8.595	2	
+Barnawa Cikin Gari	Bunkure	Kano	11.594	8.476	2	Barnawa
+Barge	Bunkure	Kano	11.590	8.493	2	
+Twaidi Zaidi Basic Health Centre	Binji	Sokoto	13.251	4.936	0	
+Wali Bako Clinic	Sokoto South	Sokoto	13.038	5.252	0	
+General Hospital Bakura	Bakura	Zamfara	12.715	5.869	0	
+Barawa Primary Health Care Centre	Gwoza	Borno	11.054	13.790	0	
+bafyo primary heath center	Larmurde	Adamawa	9.603	11.790	0	
+balaifi heath clinic	Larmurde	Adamawa	9.503	11.469	0	
+Wuro Bakumbo Health Post	Demsa	Adamawa	9.308	12.024	0	
+kopa basic heath clinic	Michika	Adamawa	10.738	13.338	0	
+community base bamaco initiative	Madagali	Adamawa	10.893	13.619	0	
+dispensary wuro bamadi	Maiha	Adamawa	9.574	13.107	0	
+bamako clinic kwaboon	Maiha	Adamawa	10.047	13.078	0	
+Ba Umshe Health Post	Fufore	Adamawa	9.366	12.696	0	
+Muna Garage El Badawe	Ngelzarma	Yobe	11.874	11.872	0	
+PHC Basaura	Jega	Kebbi	12.321	4.254	0	
+Babarejo Dispensary	Suru	Kebbi	11.563	3.987	0	
+Martha Bamaiyi General Hospital Zuru	Zuru	Kebbi	11.419	5.238	0	
+Bagudo General Hospital	Bagudo	Kebbi	11.414	4.239	0	
+Bamaiyi Sundume Memorial Medical Health Centre	Zuru	Kebbi	11.316	5.233	0	
+W C W C Bakura	Bakura	Zamfara	12.712	5.870	0	
+Barbizon Filling Station	Eleme	Rivers	4.825	7.081	0	
+Bangwu Maternal And Child Health Clinic	Bosso	Niger	9.539	6.319	0	
+BHC Dije Bala	Suleja	Niger	9.175	7.179	0	
+baptist day school, ereko	Ìjẹ̀bú Òde	Ogun	6.816	3.930	0	
+baptist day school, ekundayo	Ifo	Ogun	6.819	3.157	0	
+local government primary school, baale-akinosi	Ifo	Ogun	6.682	3.352	0	
+baptist day school, pakoto ifo	Ifo	Ogun	6.803	3.201	0	
+Baptist Day School, Pakoto Ifo	Ifo	Ogun	6.722	3.288	0	
+Baptist Day Primary School,Igbesa	Ado Odo/Ota	Ogun	6.679	3.134	0	
+Africa Church Primary School, Liasu Balogun	Ado Odo/Ota	Ogun	6.679	3.135	0	
+African Church Primary School, Bandu	Ifo	Ogun	6.809	3.211	0	
+Salvation Army Primary School Egudu-Baale	Ìjẹ̀bú Òde	Ogun	6.714	3.962	0	
+Baptist Day School, Ibogun Olaogun	Ifo	Ogun	6.715	3.306	0	
+St. Barnabas' African Church Primary School, Osuke-Ota	Shagamu	Ogun	6.830	3.634	0	
+Baptist Day Primary School, Iloro	Shagamu	Ogun	6.818	3.635	0	
+Baptist Day School, Ibogun Olaogun	Ifo	Ogun	6.835	3.123	0	
+Africa Church Primary School, Liasu Balogun	Ado Odo/Ota	Ogun	6.676	3.224	0	
+Baptist Day Primary School,Olorunleke	Ado Odo/Ota	Ogun	6.641	3.049	0	
+Baptist Day Primary School, Iloro	Ado Odo/Ota	Ogun	6.638	2.969	0	
+St. Barnabas' African Church Primary School, Osuke-Ota	Ado Odo/Ota	Ogun	6.623	3.143	0	
+Salvation Army Primary School Egudu-Baale	Ado Odo/Ota	Ogun	6.552	3.045	0	
+African Church Primary School, Bandu	Ado Odo/Ota	Ogun	6.548	2.948	0	
+Baptist Day Primary School,Igbesa	Ado Odo/Ota	Ogun	6.526	3.142	0	
+Bolajoko Hospital(Badejoko Hospital) Mokola road, after GTBank	Ibadan North	Oyo	7.412	3.892	0	
+Baba David Clinic (Faithbased Clinic) Oke Alasepe Abaeja	Akinyele	Oyo	7.476	3.917	0	
+Babeudoli	Birni N'Konni	Sokoto	13.813	5.328	2	
+Community Primary School, Barayira Tai	Tai	Rivers	4.744	7.203	0	
+Sheikh Dahiru Usman Bauchi Foundation	Municipal Area Council	FCT Abuja	8.831	7.571	0	
+Govt Day Secondary school Bakari Dukku	Bauchi	Bauchi	10.312	9.827	0	
+Baze University Hospital	Municipal Area Council	FCT Abuja	9.008	7.403	0	
+Bassanjiwa	Municipal Area Council	FCT Abuja	9.014	7.282	0	
+Banari Gana	Gouré	Yobe	13.167	9.982	2	
+Government Day Sec School Basawa.	Sabon Gari	Kaduna	11.182	7.669	0	
+Bazohure	Abi	Cross River	5.859	7.970	2	
+Bayatu	Obanliku	Cross River	6.549	9.223	2	
+Bayaba	Obanliku	Cross River	6.548	9.243	2	
+Baptist Science Grammar School	Jos North	Plateau	9.926	8.912	0	
+Bauchi State University, Bauchi Campus	Bauchi	Bauchi	10.313	9.826	0	
+G.G Bauchi	Bauchi	Bauchi	10.339	9.845	0	
+Baptist College of Theology	Jos North	Plateau	9.907	8.945	0	
+Dr. abubakar abdullahi Baba  jolly phonics resources room	Gombe	Gombe	10.307	11.167	0	
+Guidan bakoye	Madarounfa	Katsina	13.109	7.319	2	
+BBS Babcock Business School	Ikenne	Ogun	6.891	3.724	0	
+General Hospital Baro Dikko No19 Kaduna Road Nasarawa Kafuna	Chikun	Kaduna	10.471	7.397	0	
+Barau Dikko Hospital NoBN13 Kinshasha Road Unguwan Rimi Kaduna	Kaduna North	Kaduna	10.534	7.462	0	
+Ramat Hospital Hayin Banku Kaduna	Kaduna North	Kaduna	10.572	7.442	0	
+Barau Dikko Teaching Hospital Gwari Road Mando	Kaduna North	Kaduna	10.585	7.418	0	
+Hayin Banki Health Care	Kaduna North	Kaduna	10.578	7.436	0	
+Barau Dikko Teaching Hospital Dana Old Airport Kawo Kaduna	Kaduna North	Kaduna	10.591	7.446	0	
+Barau Dikko Teaching Hospital NoT15 Darma Road Kawo	Kaduna North	Kaduna	10.577	7.449	0	
+312 Artenary Kalapanzi Barracks Primary Health Center	Kaduna South	Kaduna	10.455	7.420	0	
+Barau Dikko Teaching Hospital No1 Suleiman Ahmed Road Shagari Lowcost	Kaduna South	Kaduna	10.464	7.432	0	
+Teaching Hospital No10 Sylvester Crescent Barnawa Kaduna State	Kaduna South	Kaduna	10.483	7.439	0	
+Hajia Asama'u Ahmad Makarfi Health Center Barnawa	Kaduna South	Kaduna	10.481	7.430	0	
+Badikko Family Health	Kaduna South	Kaduna	10.536	7.408	0	
+Barka Specialist Hospital	Kaduna South	Kaduna	10.524	7.400	0	
+Barau Dikko Teaching Hospital Dan Honu 2 New Millennium City	Chikun	Kaduna	10.536	7.505	0	
+Barau Dikko Teaching Hospital Jama'a Road Kadaure	Chikun	Kaduna	10.524	7.489	0	
+Primary Health Care Off Sarki Street Opp Bahago School Rido	Chikun	Kaduna	10.401	7.498	0	
+General Hospital Barodikko No1b Yarima Street Ang Pama	Chikun	Kaduna	10.456	7.456	0	
+Bayan Dutse Primary Health Care	Chikun	Kaduna	10.477	7.457	0	
+Babban Saura Primary Health Center	Chikun	Kaduna	10.485	7.463	0	
+Bagado Dispensary Clinic	Chikun	Kaduna	10.472	7.493	0	
+Banke Hospital	Alimosho	Lagos	6.601	3.246	0	
+Basic Hospital	Alimosho	Lagos	6.572	3.292	0	
+Ojo Bala Ologunebi Trado And Maternity Clinic	Alimosho	Lagos	6.495	3.244	0	
+Christ Bay Consultant Hospital	Akure South	Ondo	7.291	5.153	0	
+School Of Basic Medical Sciences(SBMS)	Akure South	Ondo	7.296	5.149	0	
+Aipate Baptist Church Grammar School	Iwo	Osun	7.630	4.168	0	
+Baptist High school	Iwo	Osun	7.630	4.164	0	
+Prof. Adebisi Balogun Postgraduates Hall	Akure South	Ondo	7.298	5.146	0	
+Idi Ape Baptist School	Ejigbo	Osun	7.898	4.316	0	
+Ramos Balo Filling Station	Ejigbo	Osun	7.896	4.317	0	
+Baptist Royal Academy	Bauchi	Bauchi	10.319	9.831	0	
+Akingbade Health Bay	Ife Central	Osun	7.505	4.522	0	
+solomon banjo plaza	Kosofe	Lagos	6.603	3.419	0	
+Barry Medical Clinic	Kosofe	Lagos	6.607	3.421	0	
+BARDEN BOKO COLLEGE	Ungongo	Kano	12.039	8.570	0	
+BARANTAR MALAM SANI	Ungongo	Kano	12.044	8.563	0	
+MAKARANTAR MALAM BABBA	Ungongo	Kano	12.038	8.563	0	
+BASIRU COAL STATION	Gwale	Kano	11.965	8.476	0	
+BABAN ABBA SCHOOL	Gwale	Kano	11.961	8.478	0	
+TSANGAYAR MALAN BALA	Gwale	Kano	11.959	8.471	0	
+Babatunde Sanwo-Olu primary health care center Okerube	Alimosho	Lagos	6.529	3.239	0	
+Badejo	Potiskum	Yobe	11.655	11.103	2	Bodejo
+Garin Babaji	Fika	Yobe	11.312	11.230	2	
+Dan Bawo	Faskari	Katsina	11.776	7.286	2	
+Bako	Faskari	Katsina	11.748	7.165	2	
+Ungwan Bambami	Safana	Katsina	12.420	7.300	2	
+Bariga Waterfront	Shomolu	Lagos	6.528	3.400	0	
+Baba Shino	Amuwo Odofin	Lagos	6.425	3.257	0	
+jegba marina badagry/commando jetty	Badagry	Lagos	6.416	2.876	0	
+Bap	Ise/Orun	Ekiti	7.467	5.427	0	
+Badara	Kirfi	Bauchi	10.350	10.358	2	
+Baba	Kirfi	Bauchi	10.360	10.373	2	
+Kesun Badara	Kirfi	Bauchi	10.338	10.364	2	
+SCHOOL OF BASIC AND REMEDIAL STUDIES	Kaduna North	Kaduna	10.609	7.442	0	
+Olumawu Basic School, Oni Kanga Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.477	4.567	0	
+Balogun Nursery & Primary School Ibrahim Taiwo Road, Ilorin, Nigeria	Ilorin East	Kwara	8.483	4.551	0	
+Babaoko Market Rd, Oja Oba, Kwara, Nigeria	Ilorin East	Kwara	8.487	4.539	1	
+Energy filling station, Basin Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.595	0	
+Balogun Hospital, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.542	0	
+Baboko, Nigeria	Ilorin East	Kwara	8.489	4.543	0	
+Baboko Community Secondary School, Oko Erin, Nigeria	Ilorin East	Kwara	8.490	4.539	0	
+Dr. Bash Medical Care And Services	Bauchi	Bauchi	10.317	9.819	0	
+Vitality Bay	Nkanu East	Enugu	6.420	7.636	2	
+Garu Islamic College Of Health Technology Bauchi	Bauchi	Bauchi	10.305	9.788	0	
+second badagry	Ajeromi/Ifelodun	Lagos	6.441	3.349	0	
+Tarkwa Bay	Amuwo Odofin	Lagos	6.401	3.397	0	
+badore jetty (tarzan)	Eti Osa	Lagos	6.515	3.606	0	
+Babban Gida	Tarmua	Yobe	12.159	11.774	2	Babbangida
+Methodist Senior High School, Badagry	Badagry	Lagos	6.413	2.899	0	
+Batabi	Kaiama	Kwara	9.213	3.865	2	
+Litertif Lounge And Bar	Municipal Area Council	FCT Abuja	8.988	7.369	0	
+Barbados (Garden And Relaxation Spot)	Municipal Area Council	FCT Abuja	8.969	7.358	0	
+Jiggy Barbers	Municipal Area Council	FCT Abuja	9.120	7.393	0	
+Barracks Bus Stop	Municipal Area Council	FCT Abuja	9.046	7.537	0	
+Barracks Bus Stop	Municipal Area Council	FCT Abuja	9.018	7.486	0	
+Banex Pedestrian Bridge	Municipal Area Council	FCT Abuja	9.085	7.465	0	
+Zinq Bridge Aparments - Family Apartment, Balcony, City View	Municipal Area Council	FCT Abuja	9.099	7.423	0	
+Faculty of Basic Medical Science	Ede South	Osun	7.681	4.448	0	
+Banana Island	Eti Osa	Lagos	6.464	3.453	2	
+Egge Basic Health Care	Okene	Kogi	7.568	6.194	0	
+Bashu Okpambe	Boki	Cross River	6.108	9.135	2	
+Bateriko	Obanliku	Cross River	6.482	9.143	2	
+Bamba	Boki	Cross River	6.280	9.126	2	
+Bamfua	Obanliku	Cross River	6.479	9.246	2	
+sagbokoji back	Apapa	Lagos	6.429	3.380	0	
+Babs Ladipo Street	Ifako/Ijaye	Lagos	6.655	3.309	1	
+Sanni Balogun Street	Ifako/Ijaye	Lagos	6.662	3.306	1	
+Oladipo Bateye Street	Ikeja	Lagos	6.574	3.346	1	
+Balogun Ilawe Street	Agege	Lagos	6.616	3.314	1	
+Balogun Street	Ikeja	Lagos	6.599	3.335	1	
+Bamishile Street	Ikeja	Lagos	6.599	3.355	1	
+Mobolaji Bank-Anthony Way	Ikeja	Lagos	6.589	3.356	1	
+Balogun Street	Ikeja	Lagos	6.604	3.346	1	
+Babs Animashaun Street	Surulere	Lagos	6.493	3.349	1	
+Babs Animashaun Street	Surulere	Lagos	6.481	3.349	1	
+Rasaq Balogun Street	Surulere	Lagos	6.495	3.361	1	
+Bajulaiye Street	Shomolu	Lagos	6.531	3.379	1	
+Bakare Ave	Shomolu	Lagos	6.544	3.368	1	
+Baale Street	Ojo	Lagos	6.487	3.197	1	
+Bashorun Street	Agege	Lagos	6.616	3.313	1	
+Tafawa Balewa Square	Lagos Island	Lagos	6.446	3.400	1	
+Basheer Augusto Street	Surulere	Lagos	6.490	3.360	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.289	1	
+Tafawa Balewa Crescent	Surulere	Lagos	6.496	3.355	1	
+Bassey Street	Alimosho	Lagos	6.594	3.291	1	
+Adisa Bashua Street	Surulere	Lagos	6.498	3.353	1	
+Younis Bashorun Street	Eti Osa	Lagos	6.429	3.437	1	
+Bajulaye Road	Shomolu	Lagos	6.525	3.372	1	
+Gombi - Baromari Road	Biu	Borno	10.710	12.151	1	
+Bamidele Adebule Street	Kosofe	Lagos	6.568	3.379	1	
+Marine Base Road	Port-Harcourt	Rivers	4.768	7.022	1	
+Ibrahim Babangida Way	Municipal Area Council	FCT Abuja	9.083	7.489	1	IBB Way
+Ibrahim Babangida Boulevard	Municipal Area Council	FCT Abuja	9.099	7.496	1	
+Balogun Ibikunle Road	Ibadan North West	Oyo	7.388	3.894	1	
+Ibrahim Babangida Way	Municipal Area Council	FCT Abuja	9.068	7.476	1	
+Abdullahi Bayero way	Nassarawa	Kano	11.992	8.539	1	
+Ahmed Baba Ibrahim Road	Kaduna North	Kaduna	10.578	7.464	1	
+Bagwai Street	Kaduna North	Kaduna	10.578	7.468	1	
+Bayajidda Road	Kaduna North	Kaduna	10.544	7.460	1	
+Bajju Road	Kaduna North	Kaduna	10.579	7.460	1	
+Aliyu Barau Road	Kaduna North	Kaduna	10.575	7.468	1	
+Baba Marte Road	Kaduna North	Kaduna	10.568	7.458	1	
+Badarawa Main Road	Kaduna North	Kaduna	10.560	7.454	1	
+Bayajida Road	Kaduna North	Kaduna	10.514	7.427	1	
+Bakori Road	Kaduna North	Kaduna	10.508	7.435	1	
+Sarkin Baka Street	Chikun	Kaduna	10.493	7.494	1	
+Bathurest Street	Kaduna North	Kaduna	10.523	7.466	1	
+Balarabe Musa Close	Kaduna North	Kaduna	10.537	7.474	1	
+Bala Lane	Kaduna North	Kaduna	10.526	7.468	1	
+Community Bank Road	Kaduna South	Kaduna	10.528	7.404	1	
+Bango Road	Chikun	Kaduna	10.460	7.447	1	
+Balarabe Musa Street	Chikun	Kaduna	10.471	7.449	1	
+Aminu Bambale Street	Kaduna South	Kaduna	10.463	7.436	1	
+Babandodo Street	Kaduna South	Kaduna	10.472	7.410	1	
+Bashama Road	Kaduna North	Kaduna	10.505	7.424	1	
+Tafawa Balewa Way	Kaduna North	Kaduna	10.513	7.454	1	
+Tafawa Balewa Way	Kaduna North	Kaduna	10.522	7.450	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.492	11.839	1	
+Basimi Street	Oredo	Edo	6.334	5.614	1	
+Basimi Street	Oredo	Edo	6.333	5.616	1	
+Bar. Ikpewe street	Egor	Edo	6.354	5.577	1	
+Bamawo Street	Oredo	Edo	6.336	5.626	1	
+OGIDA BARRACK'S 2ND ENTRANCE	Egor	Edo	6.364	5.588	1	
+BATC Road	Sabon Gari	Kaduna	11.121	7.727	1	
+Dogon Bauchi Road	Sabon Gari	Kaduna	11.112	7.730	1	
+Badarawa Road	Kaduna North	Kaduna	10.565	7.454	1	
+Batsone Avenue	Oredo	Edo	6.317	5.592	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.499	3.105	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.492	3.156	1	
+Lagos-Badagry Expressway	Badagry	Lagos	6.462	2.967	1	
+Bamako Street	Municipal Area Council	FCT Abuja	9.053	7.460	1	
+Ibrahim Babangida Way	Municipal Area Council	FCT Abuja	9.066	7.475	1	IBB Way
+Massey Bamgboshe Street	Lagos Island	Lagos	6.450	3.405	1	
+Barthurst Road	Apapa	Lagos	6.449	3.356	1	Bathurst Road
+Babani Street	Surulere	Lagos	6.484	3.375	1	
+Ojo Badan Avenue	Ibadan North	Oyo	7.422	3.907	1	
+Barracks Road	Surulere	Lagos	6.489	3.369	1	
+Baale Street	Eti Osa	Lagos	6.435	3.524	1	
+Rasaki Balogun Street	Eti Osa	Lagos	6.426	3.523	1	
+Keystone Bank Crescent	Eti Osa	Lagos	6.434	3.425	1	
+Babatunde Road	Surulere	Lagos	6.511	3.351	1	
+Babalola Street	Mushin	Lagos	6.513	3.344	1	
+Bale Street	Surulere	Lagos	6.479	3.334	1	
+Bayo Olumide Street	Oshodi/Isolo	Lagos	6.521	3.326	1	
+Bassey Duke St	Calabar Municipal	Cross River	4.955	8.324	1	
+Babayanju Street	Oshodi/Isolo	Lagos	6.568	3.337	1	
+Bawala Street	Shomolu	Lagos	6.545	3.377	1	
+Balogun Street	Shomolu	Lagos	6.536	3.377	1	
+Bariga Road	Shomolu	Lagos	6.534	3.385	1	
+Banjo St	Shomolu	Lagos	6.542	3.368	1	
+Alfara Basorun Road	Ibadan North East	Oyo	7.386	3.908	1	
+Barth Road	Ibadan North	Oyo	7.441	3.903	1	
+Ashimowu Bakare Street	Surulere	Lagos	6.509	3.338	1	
+Bassie Ogamba Street	Surulere	Lagos	6.495	3.358	1	
+Oko-Baba Street	Lagos Mainland	Lagos	6.489	3.390	1	
+Salami Bashorun Street	Surulere	Lagos	6.503	3.334	1	
+Alhaji Babs Aregbesola	Oshodi/Isolo	Lagos	6.513	3.309	1	
+Bolaji Banwo Street	Surulere	Lagos	6.487	3.336	1	
+Baale Osuntoki Street	Ibadan North West	Oyo	7.401	3.864	1	
+Bashorun Apampa Avenue	Ibadan North West	Oyo	7.402	3.868	1	
+Baale Akintayo Street	Ibadan North West	Oyo	7.402	3.863	1	
+Baale Mosaderin Street	Ibadan North West	Oyo	7.401	3.868	1	
+Bankole Street	Lagos Island	Lagos	6.458	3.382	1	
+Balabina Street	Lagos Island	Lagos	6.452	3.389	1	
+Badagry Street	Eti Osa	Lagos	6.460	3.417	1	
+Alhaji Bashorun Street	Eti Osa	Lagos	6.444	3.417	1	
+Bankole Oki Street	Eti Osa	Lagos	6.455	3.424	1	
+Bankole Cardoso Avenue	Eti Osa	Lagos	6.454	3.438	1	Barrow Avenue
+Balogun Street	Lagos Island	Lagos	6.463	3.387	1	
+Otunba Bakare Avenue	Kosofe	Lagos	6.555	3.400	1	
+Gafari Balogun Street	Kosofe	Lagos	6.571	3.396	1	
+Mobolaji Bank-Anthony Way	Ikeja	Lagos	6.591	3.340	1	
+Mobolaji Bank-Anthony Way	Ikeja	Lagos	6.590	3.354	1	
+Babatola Close	Ikeja	Lagos	6.598	3.340	1	
+Balogun Close	Kosofe	Lagos	6.551	3.401	1	
+Bamidele Street	Kosofe	Lagos	6.556	3.403	1	
+Babayemi Street	Kosofe	Lagos	6.558	3.402	1	
+Jimoh Bajulaiye	Kosofe	Lagos	6.559	3.391	1	
+kunle otukoya / banjoko street	Kosofe	Lagos	6.564	3.394	1	
+Bakare Dawodu Street	Kosofe	Lagos	6.554	3.392	1	
+Babalola Street	Kosofe	Lagos	6.554	3.392	1	
+Jimoh Balogun Street	Kosofe	Lagos	6.606	3.377	1	
+Adekunle Banjo Avenue	Kosofe	Lagos	6.612	3.374	1	
+Hakeem Balogun Street	Ikeja	Lagos	6.625	3.356	1	
+Babatunde Atere Street	Kosofe	Lagos	6.630	3.373	1	
+Alhaji Bakare Street	Ikeja	Lagos	6.642	3.368	1	
+Babajide Awolesi Street	Kosofe	Lagos	6.636	3.390	1	
+Bashiru Street	Ikeja	Lagos	6.643	3.365	1	
+Baale Street	Ikeja	Lagos	6.646	3.360	1	
+Rasheed Baruwa Crescent	Ikeja	Lagos	6.639	3.364	1	
+Babatunde Ladega Street	Ikeja	Lagos	6.634	3.355	1	
+Babington Ashaye Crescent	Ikeja	Lagos	6.638	3.357	1	
+Babatunde Street	Ifako/Ijaye	Lagos	6.641	3.340	1	
+Ayodele Babalola Close	Ifako/Ijaye	Lagos	6.635	3.341	1	
+Alhaji Bakare Street	Ikeja	Lagos	6.649	3.351	1	
+Bayeiwu Close	Ifako/Ijaye	Lagos	6.638	3.343	1	
+Ali Balogun Street	Ikeja	Lagos	6.606	3.343	1	
+Bashorun Street	Agege	Lagos	6.623	3.326	1	
+Badejo Street	Agege	Lagos	6.620	3.330	1	
+Ore Banwo Olusola Street	Ifako/Ijaye	Lagos	6.640	3.330	1	
+Omolara Badaru Close	Ifako/Ijaye	Lagos	6.639	3.328	1	
+Baoku Street	Ifako/Ijaye	Lagos	6.642	3.330	1	
+Adedayo Banjo Street	Ikeja	Lagos	6.599	3.358	1	
+Balogun Street	Ikeja	Lagos	6.610	3.355	1	
+Jo' Babs Dare Close	Ikeja	Lagos	6.589	3.361	1	
+Bayode Oluwole Street	Ikeja	Lagos	6.602	3.347	1	
+Muiz Banire Street	Ikeja	Lagos	6.585	3.342	1	
+Muiz Banire Street	Ikeja	Lagos	6.585	3.344	1	
+Bayo Adejonwo Street	Ikeja	Lagos	6.578	3.368	1	
+Matthew Babashola Street	Alimosho	Lagos	6.539	3.259	1	
+Ajibaye Bakare Street	Alimosho	Lagos	6.540	3.258	1	
+Ajayi Bankole Street	Alimosho	Lagos	6.536	3.283	1	
+Muiz Banire Street	Eti Osa	Lagos	6.439	3.471	1	
+Baderinwa Alabi Street	Eti Osa	Lagos	6.433	3.472	1	
+Muniru Baruwa Street	Surulere	Lagos	6.508	3.346	1	
+Badaru Street	Surulere	Lagos	6.505	3.350	1	
+Babalola Street	Alimosho	Lagos	6.589	3.300	1	
+Bamishile Road	Alimosho	Lagos	6.588	3.297	1	
+Baba Ponmile Street	Ikeja	Lagos	6.606	3.326	1	
+Bauch Road	Apapa	Lagos	6.442	3.366	1	
+Bashorun Okusanya Avenue	Eti Osa	Lagos	6.449	3.474	1	
+Babatunde Anjous Avenue	Eti Osa	Lagos	6.452	3.478	1	
+Babafemi Osoba Crescent	Eti Osa	Lagos	6.459	3.470	1	
+Banana Island Road	Eti Osa	Lagos	6.460	3.450	1	
+Jaiye Balogun Street	Eti Osa	Lagos	6.462	3.441	1	
+Babatunde Masha Street	Eti Osa	Lagos	6.445	3.457	1	
+Balarabe Musa Crescent	Eti Osa	Lagos	6.438	3.437	1	
+Akanni Bashorun Street	Eti Osa	Lagos	6.444	3.467	1	
+Chartered Bank Close	Eti Osa	Lagos	6.429	3.412	1	
+Olukunle Bakare Close	Eti Osa	Lagos	6.431	3.427	1	
+Ayo Babatunde Crescent	Eti Osa	Lagos	6.431	3.459	1	
+Baajiki Close	Eti Osa	Lagos	6.439	3.458	1	
+Babatunde Dabiri Street	Eti Osa	Lagos	6.435	3.464	1	
+Baiyeku Road	Ìkòròdú	Lagos	6.573	3.529	1	
+Sabo-Badan Road	Ibadan North	Oyo	7.401	3.893	1	
+Bank Road	Kaduna North	Kaduna	10.534	7.427	1	
+Bank Road	Kaduna North	Kaduna	10.537	7.428	1	
+Abdullahi Bayero Road	Fagge	Kano	11.991	8.535	1	
+Dr Bala Mohammed road	Tarauni	Kano	11.983	8.543	1	
+Audu Bako Way	Tarauni	Kano	11.987	8.546	1	
+Audu Bako Way	Fagge	Kano	11.994	8.544	1	
+Audu Bako Way	Nassarawa	Kano	12.001	8.543	1	
+Oke badan Crescent	Ibadan North	Oyo	7.425	3.913	1	
+Baale Adeyemo Street	Ajeromi/Ifelodun	Lagos	6.457	3.343	1	
+Baala Ayetoro Street	Ajeromi/Ifelodun	Lagos	6.459	3.346	1	
+Bakare Faro Street	Ajeromi/Ifelodun	Lagos	6.463	3.340	1	
+Bambari Crescent	Municipal Area Council	FCT Abuja	9.051	7.456	1	
+Bangui Street	Municipal Area Council	FCT Abuja	9.070	7.481	1	
+IBB Way ( Ibrahim Badamasi Babangida )	Municipal Area Council	FCT Abuja	9.070	7.495	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.267	9.786	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.315	9.820	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.308	9.811	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.190	9.713	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.211	9.726	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.839	9.476	1	
+Banjul Street	Municipal Area Council	FCT Abuja	9.082	7.471	1	
+Bauchi Ring Road	Jos North	Plateau	9.936	8.908	1	
+Damri - Bakura - Tsamiya Road	Bakura	Zamfara	12.701	5.858	1	
+Basin Road	Ilorin South	Kwara	8.503	4.597	1	
+Bala Shehu Crescent	Municipal Area Council	FCT Abuja	9.015	7.442	1	
+Badagry Crescent	Municipal Area Council	FCT Abuja	9.033	7.477	1	
+Dimeji Bankole Street	Municipal Area Council	FCT Abuja	9.057	7.440	1	
+Babangida Kingibe Street	Municipal Area Council	FCT Abuja	9.014	7.521	1	
+Bala Muhammed Way	Municipal Area Council	FCT Abuja	9.012	7.507	1	
+Babatope Bejide Crescent	Eti Osa	Lagos	6.444	3.473	1	
+Bala Sokoto Way	Municipal Area Council	FCT Abuja	9.075	7.427	1	
+Banham Street	Port-Harcourt	Rivers	4.760	7.026	1	
+Marine Base Road	Port-Harcourt	Rivers	4.770	7.028	1	
+Barthurst Street	Port-Harcourt	Rivers	4.764	7.021	1	
+Barnham Street	Port-Harcourt	Rivers	4.763	7.026	1	
+Kukawa - Baga Road	Kukawa	Borno	12.967	13.691	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.308	1	
+Bank Road	Fagge	Kano	12.005	8.539	1	
+Bako Maishinku Street	Gwale	Kano	11.992	8.498	1	
+Ado Bayero road	Fagge	Kano	12.009	8.536	1	
+Bala Rabiu Street	Gwale	Kano	11.993	8.499	1	
+Mambayya House Bayero University	Dala	Kano	12.015	8.507	0	
+Babura Road	Nassarawa	Kano	11.991	8.544	1	
+Bagudu Street	Tarauni	Kano	11.973	8.559	1	Layin Bagudu
+Layin Barrister	Tarauni	Kano	11.970	8.556	1	
+Bauchi Central Roundabout	Bauchi	Bauchi	10.314	9.847	1	
+Gombi - Baromari Road	Hawul	Borno	10.391	12.543	1	
+Gombi - Baromari Road	Gombi	Adamawa	10.279	12.726	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.302	9.808	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	10.051	9.603	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	9.982	9.510	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.098	9.651	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	10.005	9.526	1	
+Tafawa Balewa Way	Municipal Area Council	FCT Abuja	9.040	7.491	1	
+Tafa Balewa Way	Municipal Area Council	FCT Abuja	9.030	7.479	1	
+Tafa Balewa Way	Municipal Area Council	FCT Abuja	9.051	7.491	1	
+Tafawa Balewa Way	Municipal Area Council	FCT Abuja	9.054	7.490	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.445	11.826	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.418	11.828	1	
+Eze-bazuaye street	Egor	Edo	6.359	5.574	1	
+Langtang - Bauchi Federal Road	Langtang North	Plateau	9.277	9.775	1	
+Baiye Street	Surulere	Lagos	6.507	3.348	1	
+Folawiyo Bankole Street	Surulere	Lagos	6.505	3.348	1	
+Baoku Street	Surulere	Lagos	6.508	3.348	1	
+Langtang - Bauchi Federal Road	Langtang North	Plateau	9.215	9.790	1	
+Langtang - Bauchi Federal Road	Langtang North	Plateau	9.245	9.798	1	
+Bayo Adeshiyan Avenue	Eti Osa	Lagos	6.510	3.586	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.383	9.579	1	
+Gombi - Baromari Road	Biu	Borno	10.630	12.186	1	
+Balogun Ajikobi St	Ilorin East	Kwara	8.500	4.536	1	
+Bauchi Road	Jos North	Plateau	9.936	8.893	1	
+Bauchi Road	Jos North	Plateau	9.932	8.893	1	
+Ballo Osagie Avenue	Oredo	Edo	6.304	5.618	1	
+Balogun Street	Mushin	Lagos	6.512	3.339	1	
+Balogun Lane	Mushin	Lagos	6.515	3.341	1	
+Babalola Close	Mushin	Lagos	6.513	3.344	1	
+Tafawa Balewa Street	Jos North	Plateau	9.925	8.883	1	
+Peter Bawa Cres	Jos North	Plateau	9.929	8.882	1	
+Nigeria Prisons Barracks Road	Oredo	Edo	6.295	5.593	1	
+Prisons Barrack	Oredo	Edo	6.294	5.593	1	
+Gombi - Baromari Road	Biu	Borno	10.671	12.161	1	
+Bababtope Street	Surulere	Lagos	6.487	3.340	1	
+Balogun Close	Surulere	Lagos	6.489	3.347	1	
+Basiyi Street	Surulere	Lagos	6.489	3.344	1	
+Lagos Badagry Expressway	Apapa	Lagos	6.477	3.364	1	
+Ali Baba Crescent	Municipal Area Council	FCT Abuja	9.070	7.430	1	
+Umar Babura Road	Nassarawa	Kano	11.992	8.572	1	
+Bata Market	Fagge	Kano	12.012	8.535	0	
+Tafawa Balewa Way	Batagarawa	Katsina	12.902	7.597	1	
+Batsari Road	Batagarawa	Katsina	12.922	7.525	1	
+Balogun Street	Lagos Island	Lagos	6.455	3.383	1	
+Rafiu Babatunde Road	Amuwo Odofin	Lagos	6.468	3.312	1	
+New Balogun Street	Mushin	Lagos	6.527	3.365	1	
+Audu Baale Street	Lagos Mainland	Lagos	6.509	3.392	1	
+Balogun Street	Lagos Mainland	Lagos	6.505	3.393	1	
+Zenith Bank Drive	Shomolu	Lagos	6.520	3.398	1	
+Tafawa Balewa Way	Shomolu	Lagos	6.516	3.397	1	
+Banjo Street	Surulere	Lagos	6.507	3.368	1	
+Hogan Bassey Close	Surulere	Lagos	6.502	3.364	1	
+Gold and Base	Jos North	Plateau	9.879	8.897	1	
+Bamiji Lawal Street	Shomolu	Lagos	6.538	3.397	1	
+Banji Adewole Street	Shomolu	Lagos	6.525	3.385	1	
+Banjo Street	Shomolu	Lagos	6.540	3.385	1	
+Baruwa Street	Ede North	Osun	7.771	4.535	1	
+Alhaja Munirat T badmus Street	Ede North	Osun	7.767	4.535	1	
+Adeniyi Bada Crescent	Ede North	Osun	7.764	4.530	1	
+Anchor Basic and High School Street	Olorunda	Osun	7.791	4.565	1	
+Badaru Street	Amuwo Odofin	Lagos	6.457	3.302	1	
+Babawa street	Amuwo Odofin	Lagos	6.458	3.299	1	
+Ali Balogun street	Amuwo Odofin	Lagos	6.458	3.296	1	
+Baale Street	Oshodi/Isolo	Lagos	6.518	3.333	1	
+Bankole Street	Oshodi/Isolo	Lagos	6.519	3.328	1	
+Baale Street	Oshodi/Isolo	Lagos	6.526	3.324	1	
+Bashiru Shekoni Street	Oshodi/Isolo	Lagos	6.532	3.308	1	
+Bayo Oluwafemi Street	Alimosho	Lagos	6.625	3.273	1	
+Alirat Badejo Street	Alimosho	Lagos	6.636	3.297	1	
+Kareem Babatunde	Agege	Lagos	6.618	3.312	1	
+Balogun Crescent	Alimosho	Lagos	6.641	3.299	1	
+Babayemi Street	Agege	Lagos	6.629	3.316	1	
+Bade Abiona Street	Agege	Lagos	6.631	3.313	1	
+Thomas Babatunde Drive	Agege	Lagos	6.645	3.308	1	
+Bakare Opesha Street	Agege	Lagos	6.621	3.309	1	
+Michael Babatunde Ave	Ifo	Ogun	6.678	3.297	1	
+Alhaji Bashy Street	Alimosho	Lagos	6.680	3.261	1	
+Bankole Fagbohun Street	Ifako/Ijaye	Lagos	6.651	3.337	1	
+Balogun Ilawe	Kosofe	Lagos	6.586	3.395	1	
+Bakare Street	Kosofe	Lagos	6.590	3.393	1	
+Baptist College Of Theology	Oredo	Edo	6.349	5.611	0	
+Baptist High School	Oredo	Edo	6.349	5.610	0	
+Ball Umeh Street	Kosofe	Lagos	6.568	3.372	1	
+Basorun Road	Ibadan North	Oyo	7.413	3.932	1	
+Sabo-Badan Road	Ibadan North	Oyo	7.397	3.916	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.778	9.536	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.780	9.535	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.487	9.548	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.832	9.479	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.875	9.495	1	
+Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.686	9.553	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.760	9.548	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	9.927	9.500	1	
+Tafawa Balewa Way	Kaduna North	Kaduna	10.531	7.446	1	
+Kurna Baban Layi	Dala	Kano	12.034	8.490	1	
+Akwuke Police Barracks Road	Enugu South	Enugu	6.382	7.492	1	
+Banico Avenue	Enugu East	Enugu	6.485	7.510	1	
+Conrad Basah	Enugu East	Enugu	6.480	7.485	1	
+Barr C O N Akabogu Drive	Enugu North	Enugu	6.467	7.489	1	
+Bar. Geo Nwosu Avenue	Enugu South	Enugu	6.421	7.511	1	
+Barth Okafor Drive	Enugu North	Enugu	6.473	7.483	1	
+Bank Avenue	Enugu North	Enugu	6.441	7.488	1	
+Centre Baptist Church Road	Enugu North	Enugu	6.439	7.488	1	
+Police Squadron Barracks Road	Enugu South	Enugu	6.411	7.494	1	
+Edible Bakery Crescent	Enugu East	Enugu	6.481	7.528	1	
+Bassey Street	Enugu South	Enugu	6.422	7.478	1	
+82 Division Army Barracks Road	Enugu North	Enugu	6.462	7.513	1	
+82 Division Army Barracks Ro	Enugu North	Enugu	6.461	7.517	1	
+Basden Street	Enugu North	Enugu	6.444	7.500	1	
+Bauchi Avenue	Enugu East	Enugu	6.479	7.510	1	
+Barrister S N Oguh Drive	Enugu South	Enugu	6.390	7.503	1	
+Barry Esom Nwankwo Avenue	Enugu East	Enugu	6.493	7.493	1	
+Barrister Ikpeama Street	Enugu East	Enugu	6.497	7.498	1	
+Barnabas Street	Enugu East	Enugu	6.492	7.522	1	
+Army Barracks Road	Enugu North	Enugu	6.465	7.518	1	
+Army Barracks Road	Enugu North	Enugu	6.465	7.513	1	
+Army Barracks Road	Enugu North	Enugu	6.466	7.517	1	
+Bassy Duke Link	Enugu North	Enugu	6.457	7.515	1	
+Bassey Duke Street	Enugu North	Enugu	6.457	7.515	1	
+82 Division Army Barracks Road	Enugu North	Enugu	6.463	7.519	1	
+Nigerian Army Barack	Enugu South	Enugu	6.392	7.491	1	
+103 Battalion Road	Enugu South	Enugu	6.393	7.494	1	
+Bauchi Street	Mubi North	Adamawa	10.269	13.272	1	
+Balat Hughes	Fagge	Kano	12.026	8.536	1	
+Balle Street	Sokoto South	Sokoto	13.037	5.256	1	
+Bayajidda Road	Ungongo	Kano	11.961	8.420	1	
+Titin Baba Dan Baffa	Gwale	Kano	11.988	8.513	1	
+Nasir Ado Bayero Road	Kano Municipal	Kano	11.986	8.526	1	Sabuwar Kofa
+Aminu Babandi street	Fagge	Kano	11.997	8.538	1	
+Barrister Nasir A. Dangiri link	Fagge	Kano	11.998	8.541	1	
+Babban Kwari Street	Nassarawa	Kano	11.997	8.570	1	
+Kwanar Badawa, Kano	Nassarawa	Kano	12.008	8.580	1	
+Bakori Road	Municipal Area Council	FCT Abuja	9.145	7.328	1	
+domkat bali road	Jos North	Plateau	9.871	8.861	1	
+angwan Baki Road	Jos North	Plateau	9.857	8.860	1	
+Babban layi	Jos North	Plateau	9.925	8.907	1	
+ABU Zaria Sick Bay	Sabon Gari	Kaduna	11.155	7.652	0	
+Gombi - Baromari Road	Gombi	Adamawa	10.151	12.737	1	
+Basorun Road	Ibadan North East	Oyo	7.404	3.926	1	
+Bank Avenue	Enugu East	Enugu	6.479	7.496	1	
+82 Division Army Barracks	Enugu East	Enugu	6.472	7.511	2	
+BAKIN KASUWA/ SANSAN ROAD	Dambatta	Kano	12.441	8.604	1	
+Barr Ifeoma Okafor Close	Enugu East	Enugu	6.471	7.531	1	
+Babatunde Close	Ifako/Ijaye	Lagos	6.646	3.324	1	
+Barr. IK Omeje Street	Enugu North	Enugu	6.467	7.474	1	
+Barr. Offorbuike Nwanjoku Close	Enugu North	Enugu	6.465	7.550	1	
+Barr. S.J Ani Drive	Enugu East	Enugu	6.511	7.519	1	
+Barr.Asigwa Street	Enugu East	Enugu	6.515	7.516	1	
+Barr.Sam Otoboeze Street	Enugu North	Enugu	6.467	7.475	1	
+Chief Bartholomeu Edeh Close	Enugu East	Enugu	6.514	7.513	1	
+Police Barracks Lane	Enugu North	Enugu	6.440	7.494	1	
+Gyadi-Gyadi Baban Layi	Tarauni	Kano	11.970	8.545	1	
+Lambu Banki Road	Tofa	Kano	12.003	8.359	1	
+Bawo Road	Tarauni	Kano	11.967	8.539	1	
+Airforce Base	Enugu East	Enugu	6.474	7.515	2	
+Batuta Road	Ibadan North	Oyo	7.450	3.888	1	
+Baba Mukkaddam Road	Ungongo	Kano	11.969	8.435	1	
+Lagos-Badagry Expressway	Ajeromi/Ifelodun	Lagos	6.475	3.339	1	
+Lagos-Badagry Expressway	Apapa	Lagos	6.479	3.358	1	
+Bayo Adenokun Avenue	Oshodi/Isolo	Lagos	6.503	3.296	1	
+Baba Ewe Street	Oshodi/Isolo	Lagos	6.500	3.307	1	
+Babalola Avenue	Oshodi/Isolo	Lagos	6.506	3.294	1	
+Balogun Kuku Street	Surulere	Lagos	6.484	3.332	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.348	11.932	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.358	11.900	1	
+Jamiu Ali Balogun Street	Apapa	Lagos	6.465	3.366	1	
+Yakubu Bako Close	Nassarawa	Kano	11.996	8.557	1	
+Wahab Balogun Street	Ìkòròdú	Lagos	6.623	3.491	1	
+Moshood Balogun Street	Ìkòròdú	Lagos	6.617	3.486	1	
+Baale Mudashiru Jogbinyu Street	Ìkòròdú	Lagos	6.650	3.514	1	
+Kayode Babalola Street	Ìkòròdú	Lagos	6.652	3.514	1	
+Jacob Banjoko	Ikeja	Lagos	6.600	3.341	1	
+Babban Giji Secondary School, Karkasara	Tarauni	Kano	11.958	8.546	0	
+Olajide Basorun Avenue	Ìkòròdú	Lagos	6.625	3.535	1	
+Barrister Mike Esso Street	Ìkòròdú	Lagos	6.652	3.515	1	
+Banjo Crescent	Ìkòròdú	Lagos	6.633	3.480	1	
+Badagry Street	Ìkòròdú	Lagos	6.624	3.479	1	
+Bamimosu Street	Ìkòròdú	Lagos	6.603	3.494	1	
+Bakare Street	Epe	Lagos	6.580	3.962	1	
+BALA MUHD BORODO STREET	Kano Municipal	Kano	11.974	8.528	1	
+Balarabe Chiroma Sreet	Ungongo	Kano	11.975	8.449	1	
+Zangina Bala Street	Ungongo	Kano	11.976	8.451	1	
+Bayero University Kano	Ungongo	Kano	11.964	8.431	0	Bayero University Kano (New Campus)|BUK
+Bank Road	Ungongo	Kano	11.968	8.426	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.317	9.829	1	
+Bare Bari Health Post	Makoda	Kano	12.493	8.498	0	
+BAUSHE ROAD	Dambatta	Kano	12.541	8.635	1	
+Baushe Health Post	Dambatta	Kano	12.517	8.633	0	
+Autan Bawo Street	Tarauni	Kano	11.972	8.535	1	
+Baure Health Post	Bagwai	Kano	12.081	8.190	0	
+Badau Health Post	Bagwai	Kano	12.193	8.133	0	
+Badodo Health Post	Bagwai	Kano	12.089	8.214	0	
+Rimin-Bai Health Post	Bagwai	Kano	12.063	8.197	0	
+Ba'Awa Health Post	Bagwai	Kano	12.123	8.188	0	
+Bakwami Health Post	Shanono	Kano	12.034	8.114	0	
+Hawadin Bango Primary Health Centre	Kabo	Kano	11.889	8.257	0	
+Balan Health Post	Kabo	Kano	11.914	8.166	0	
+Sanda mai Barewa street	Fagge	Kano	12.010	8.527	1	
+Dutsen Bakoshi Health Post	Shanono	Kano	12.027	7.946	0	
+Yan Bawa Health Post	Sumaila	Kano	11.371	9.059	0	
+Bataiya Primary Health Centre	Albasu	Kano	11.684	9.029	0	
+Baleke Health Post	Albasu	Kano	11.653	9.050	0	
+Bakaji Health Post	Shanono	Kano	12.125	7.875	0	
+Unguwar Bai Health Post	Ajingi	Kano	12.047	8.981	0	
+Bankamawa Health Post	Shanono	Kano	12.127	7.936	0	
+Yan Bawa Health Post	Makoda	Kano	12.534	8.497	0	
+Balloda Health Post	Dambatta	Kano	12.405	8.595	0	
+Badawa Health Post	Gabasawa	Kano	12.256	8.888	0	
+Bayero University Kano	Gwale	Kano	11.981	8.483	0	
+Babawa Primary Health Centre	Gezawa	Kano	12.058	8.660	0	
+Baita Health Post	Gezawa	Kano	12.133	8.650	0	
+Zaura Babba Primary Health Centre	Ungongo	Kano	12.059	8.620	0	
+Tashar Basa Health Post	Makoda	Kano	12.336	8.445	0	
+Bakarari Health Post	Makoda	Kano	12.281	8.498	0	
+Baguja Health Post	Ungongo	Kano	12.101	8.521	0	
+Bachirawa Health Post	Ungongo	Kano	12.058	8.463	0	
+Zangon Barebari Health Post	Ungongo	Kano	12.070	8.486	0	
+Kantama Babba Health Post	Minjibir	Kano	12.182	8.594	0	
+Badume Health Post	Bichi	Kano	12.189	8.313	0	
+Bagadawa Health Post	Dawakin Tofa	Kano	12.121	8.403	0	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.362	11.153	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.448	11.229	1	
+Sabon Line Street	Gombe	Gombe	10.269	11.172	1	JAURO BAPPI STREET
+Baale Street	Eti Osa	Lagos	6.425	3.527	1	
+Badaru Street	Eti Osa	Lagos	6.435	3.509	1	
+Nicole Balogun Street	Eti Osa	Lagos	6.438	3.521	1	
+Hon. Saheed Bankole Street	Eti Osa	Lagos	6.430	3.513	1	
+Bankole Lukmon Street	Eti Osa	Lagos	6.432	3.513	1	
+Ocean Bay Drive	Eti Osa	Lagos	6.429	3.554	1	
+Baale Street	Eti Osa	Lagos	6.428	3.558	1	
+Bashiru Olusesi Avenue	Eti Osa	Lagos	6.443	3.539	1	
+Badore Road	Eti Osa	Lagos	6.506	3.604	1	
+Bayo Shodipo Street	Eti Osa	Lagos	6.493	3.599	1	
+Babs Adegbite Avenue	Eti Osa	Lagos	6.496	3.590	1	
+Chief Idowu Baale St	Eti Osa	Lagos	6.492	3.583	1	
+Yaryasa - Bargi Road	Tudun Wada	Kano	11.335	8.302	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.348	14.290	1	
+Yaryasa - Bargi Road	Kiru	Kano	11.327	8.269	1	
+Yaryasa - Bargi Road	Kiru	Kano	11.336	8.297	1	
+Balsam Court	Eti Osa	Lagos	6.497	3.619	1	
+Joyce Balogun Street	Eti Osa	Lagos	6.489	3.589	1	
+Balogun Close	Eti Osa	Lagos	6.488	3.582	1	
+Allan Balogun Street	Eti Osa	Lagos	6.443	3.514	1	
+Bagam Dispensary	Zaki	Bauchi	12.372	10.552	0	
+Primary Health Center Barnesu	Zaki	Bauchi	12.332	10.348	0	
+Baburti Dispensary	Jama'Are	Bauchi	11.700	10.042	0	
+Babu Gudu Maternity	Itas/Gadau	Bauchi	11.954	10.005	0	
+Badderi Dispensary	Katagum	Bauchi	11.557	10.413	0	
+Bakori Dispensary	Gamawa	Bauchi	11.740	10.540	0	
+Barkeji Dispensary	Katagum	Bauchi	11.748	10.290	0	
+Tashan Babiye C Health Center	Bauchi	Bauchi	10.306	9.845	0	
+Bayan dutse	Bassa	Plateau	9.977	8.837	1	
+Balorabe Dispensary	Toro	Bauchi	10.103	9.294	0	
+Badel Maternity	Dass	Bauchi	9.972	9.473	0	
+Badikko Dispensary	Toro	Bauchi	10.172	9.093	0	
+Bagas Maternity/clinic	Dass	Bauchi	9.975	9.484	0	
+Balarabe Maternity Clinic	Toro	Bauchi	10.103	9.293	0	
+Bazali Primary Health Center	Dass	Bauchi	10.094	9.394	0	Primary Health Center Polchi
+Yola Maternal Child Health Clinic	Bauchi	Bauchi	10.138	10.115	0	Badakoshi Maternal and Child Health Clinic
+Badara Dipensary	Alkaleri	Bauchi	10.014	10.132	0	
+Yelwan Bashi Dispensary	Dass	Bauchi	9.926	9.546	0	
+Ball Clinic	Tafawa-Balewa	Bauchi	9.838	9.747	0	
+Bandas Dispensary	Dass	Bauchi	9.874	9.364	0	
+Modern Primary Health Center Bakin Kogi	Alkaleri	Bauchi	10.074	10.351	0	
+Bashi Mat/clinic	Dass	Bauchi	9.930	9.534	0	
+Bazanshi Health Center	Bogoro	Bauchi	9.715	9.529	0	
+Dasham Bakin Kogi Health Center	Kanke	Plateau	9.494	9.545	0	
+Banram Dispensiry	Bogoro	Bauchi	9.550	9.753	0	
+Duklin Bauchi Maternity	Mangu	Plateau	9.584	9.319	0	
+Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.746	9.555	1	
+Dr Babatunde Goodluck Way	Eti Osa	Lagos	6.445	3.579	1	
+Bamidele Kasali street	Alimosho	Lagos	6.553	3.239	1	
+Alhaji Yekini Olawale Bakare Avenue	Eti Osa	Lagos	6.453	3.520	1	
+Bashiru Agoro Street	Eti Osa	Lagos	6.427	3.579	1	
+Baale Lamidi Musa Street	Eti Osa	Lagos	6.458	3.569	1	
+Gombi - Baromari Road	Ngelzarma	Yobe	11.734	11.960	1	
+Gombi - Baromari Road	Ngelzarma	Yobe	11.750	11.962	1	
+Barwati - Dabar Masara road	Kukawa	Borno	12.807	13.816	1	
+Baga primary school	Kukawa	Borno	13.094	13.821	0	
+Doro Baga Market	Kukawa	Borno	13.115	13.853	0	
+Dr. Babatunde Ayeni Street	Eti Osa	Lagos	6.452	3.578	1	
+Dani Bakare Street	Eti Osa	Lagos	6.451	3.615	1	
+Baale Crescent	Eti Osa	Lagos	6.464	3.577	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.366	14.250	1	
+Kukawa - Baga Road	Kukawa	Borno	13.080	13.798	1	
+Kukawa - Baga Road	Guzamala	Borno	12.926	13.516	1	
+Federal Road F259 Bama - Gambaru	Bama	Borno	11.531	13.694	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.360	14.224	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.361	14.234	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.364	14.240	1	
+Gombi - Baromari Road	Ngelzarma	Yobe	11.736	11.960	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.790	9.533	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.476	9.553	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	10.042	9.591	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.300	9.757	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.228	9.741	1	
+Langtang - Bauchi Federal Road	Dass	Bauchi	10.031	9.556	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.304	9.748	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.821	9.492	1	
+Langtang - Bauchi Federal Road	Tafawa-Balewa	Bauchi	9.818	9.497	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.451	9.566	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.421	9.572	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.324	9.736	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.363	9.656	1	
+Federal Road F259 Bama - Gambaru	Bama	Borno	11.578	13.853	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.356	14.204	1	
+Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	11.893	14.322	1	
+Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.258	14.487	1	
+Union Baptist Church Street	Osogbo	Osun	7.774	4.545	1	
+Gombi - Baromari Road	Hawul	Borno	10.410	12.529	1	
+Gombi - Baromari Road	Hawul	Borno	10.384	12.548	1	
+Gombi - Baromari Road	Hawul	Borno	10.434	12.496	1	
+Gombi - Baromari Road	Hawul	Borno	10.384	12.544	1	
+Baramsura - Birni Road	Hawul	Borno	10.472	12.102	1	
+Oye Balogun Street	Eti Osa	Lagos	6.442	3.485	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.395	11.844	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.376	11.873	1	
+Bamgbopa Street	Shomolu	Lagos	6.522	3.381	1	
+Federal Road F259 Bama - Gambaru	Bama	Borno	11.774	14.237	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.459	11.833	1	
+Ibrahim Baidu - Milda Road	Kwaya Kusar	Borno	10.478	11.838	1	
+Gombi - Baromari Road	Hawul	Borno	10.443	12.479	1	
+Gombi - Baromari Road	Hawul	Borno	10.526	12.301	1	
+Gombi - Baromari Road	Hawul	Borno	10.400	12.542	1	
+Federal Road F259 Bama - Gambaru	Bama	Borno	11.535	13.716	1	
+Adeniyi Balogun Street	Epe	Lagos	6.583	3.972	1	
+General Hospital Bama	Bama	Borno	11.534	13.690	0	
+Gombi - Baromari Road	Ngelzarma	Yobe	11.762	11.956	1	
+Gombi - Baromari Road	Biu	Borno	10.941	12.084	1	
+Gombi - Baromari Road	Biu	Borno	10.734	12.148	1	
+Gombi - Baromari Road	Biu	Borno	10.614	12.194	1	
+Gombi - Baromari Road	Biu	Borno	10.616	12.193	1	
+yarmani Batagarawa	Batagarawa	Katsina	12.902	7.620	1	
+Gombi - Baromari Road	Borsari	Yobe	12.494	11.507	1	
+Gombi - Baromari Road	Borsari	Yobe	12.622	11.513	1	
+Bank Road	Akure South	Ondo	7.300	5.139	1	
+Kasali Babalola Street	Ede North	Osun	7.758	4.531	1	
+Bola Balogun Street	Ibeju Lekki	Lagos	6.482	3.726	1	
+Olayiwola Bankole Street	Ibeju Lekki	Lagos	6.476	3.722	1	
+Balogun Estate Road	Eti Osa	Lagos	6.470	3.654	1	
+Bamgbala Close	Eti Osa	Lagos	6.473	3.654	1	
+Bajomo Close	Ifo	Ogun	6.673	3.325	1	
+Bashua Road	Shomolu	Lagos	6.531	3.377	1	
+Baale Shekoni Street	Oshodi/Isolo	Lagos	6.535	3.320	1	
+Banana Close	Oshodi/Isolo	Lagos	6.548	3.328	1	
+Ajibade Babatola Street	Oshodi/Isolo	Lagos	6.544	3.321	1	
+Edet Bassey Close	Eti Osa	Lagos	6.474	3.574	1	
+Taiwo Badru Close	Eti Osa	Lagos	6.505	3.580	1	
+Alhaji Nojimudeen Bakare Street	Eti Osa	Lagos	6.506	3.586	1	
+Sidney Bamidele	Markurdi	Benue	7.678	8.531	1	
+Bateba St.	Calabar Municipal	Cross River	4.953	8.335	1	
+Baybridge Road	Yenegoa	Bayelsa	4.933	6.316	1	
+Raheem Balogun Street	Eti Osa	Lagos	6.453	3.566	1	
+Wellington Bassey Way (Barracks Road)	Uyo	Akwa Ibom	5.038	7.932	1	
+Basin Road	Ilorin East	Kwara	8.509	4.599	1	
+Oluwole Baker Street	Eti Osa	Lagos	6.473	3.579	1	
+Barracks Road	Yola South	Adamawa	9.231	12.440	1	
+Baale Eleyele Street	Ife Central	Osun	7.495	4.551	1	
+Nwachukwu Orizu Street, World bank	Owerri Municipal	Imo	5.485	6.998	1	
+Jauro Bappi Street	Gombe	Gombe	10.275	11.169	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.376	11.166	1	
+Holy Trinity Rd, World Bank	Owerri Municipal	Imo	5.485	7.000	1	
+Barwal	Gombe	Gombe	10.306	11.168	1	
+Alhaji Bashiru Shittu Street	Kosofe	Lagos	6.622	3.373	1	
+Babs Osibo Street	Kosofe	Lagos	6.615	3.383	1	
+Adelabu- Babs Juncton	Surulere	Lagos	6.493	3.349	1	
+Bashua Street	Shomolu	Lagos	6.530	3.375	1	
+Barcelona Street	Municipal Area Council	FCT Abuja	8.989	7.427	1	
+Barracks Rd	Calabar Municipal	Cross River	4.962	8.328	1	
+Baale Aliu Street	Ojo	Lagos	6.458	3.171	1	
+Barrister Adebogun Avenue	Oshodi/Isolo	Lagos	6.523	3.312	1	
+Alimi Bada Street	Oshodi/Isolo	Lagos	6.538	3.318	1	
+Bankole Close	Oshodi/Isolo	Lagos	6.537	3.308	1	
+Timothy Babatunde Street	Agege	Lagos	6.642	3.308	1	
+Bashiru Adedeji Street	Alimosho	Lagos	6.609	3.238	1	
+Anthony Bada Street	Alimosho	Lagos	6.649	3.279	1	
+Babakunbi Dawodu Street	Ifako/Ijaye	Lagos	6.665	3.305	1	
+Basheer Augusto Close	Mushin	Lagos	6.551	3.363	1	
+Bamgbose Street	Alimosho	Lagos	6.535	3.264	1	
+Bakare Street	Mushin	Lagos	6.519	3.349	1	
+Banjoko Street	Oshodi/Isolo	Lagos	6.558	3.349	1	
+Sule Bada St	Mushin	Lagos	6.535	3.362	1	
+Sulaimon Agboola Balogun Close	Eti Osa	Lagos	6.474	3.576	1	
+Bamidele Daramola Street	Eti Osa	Lagos	6.484	3.576	1	
+Olabisi Balogun Street	Kosofe	Lagos	6.607	3.380	1	
+Omoba Bade Street	Eti Osa	Lagos	6.485	3.582	1	
+Bade Caster Street	Eti Osa	Lagos	6.485	3.583	1	
+Abideen Bamgbala Street	Eti Osa	Lagos	6.487	3.595	1	
+Banjo Street	Ifako/Ijaye	Lagos	6.666	3.295	1	
+Wole Bamiduro Street	Ifako/Ijaye	Lagos	6.668	3.295	1	
+Olajide Bavron Street	Alimosho	Lagos	6.661	3.283	1	
+Taibat Banire St	Ifako/Ijaye	Lagos	6.675	3.284	1	
+Tunde Balogun Street	Alimosho	Lagos	6.675	3.263	1	
+Afolabi Balogun Crescent	Ìkòròdú	Lagos	6.638	3.485	1	
+Bamidele Ladifi Lane	Ìkòròdú	Lagos	6.630	3.484	1	
+Sir Bama Street	Ìkòròdú	Lagos	6.641	3.488	1	
+Lawrence Badejo Avenue	Ìkòròdú	Lagos	6.639	3.497	1	
+Bakare Wera Street	Ìkòròdú	Lagos	6.635	3.501	1	
+Babcock University	Ikenne	Ogun	6.892	3.728	0	
+Gombi - Baromari Road	Tarmua	Yobe	12.149	11.775	1	
+Balogun Street	Oshodi/Isolo	Lagos	6.512	3.317	1	
+Balogun Kuku Street	Ìkòròdú	Lagos	6.652	3.513	1	
+Bajoga Northeast Airport	Funakaye	Gombe	10.925	11.506	0	
+Babalola Lane	Ife Central	Osun	7.484	4.552	1	
+Nigerian Air Force Base Abuja	Municipal Area Council	FCT Abuja	8.967	7.260	2	NAF Base
+Banana Island Roundabout	Eti Osa	Lagos	6.463	3.451	1	
+Banana Island Roundabout	Eti Osa	Lagos	6.466	3.453	1	
+Badarawa Main Road	Kaduna North	Kaduna	10.560	7.455	1	
+College of Basic and Remedial Studies, Kaduna State University	Kaduna North	Kaduna	10.506	7.434	0	
+Baptist Primary School Isemi Ile	Kajola	Oyo	7.990	3.374	0	
+Bauchi State Airport	Bauchi	Bauchi	10.456	9.747	0	
+Banjul Circle	Obio/Akpor	Rivers	4.904	6.910	1	
+Banjul Circle	Ikwerre	Rivers	4.905	6.909	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.294	9.804	1	
+Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.083	14.466	1	
+Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.000	14.452	1	
+Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	11.994	14.430	1	
+Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	11.958	14.399	1	
+Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.051	14.456	1	
+Baale Way	Eti Osa	Lagos	6.440	3.523	1	
+Ibrahim Bako Road	Kaduna North	Kaduna	10.576	7.423	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.340	11.146	1	
+Banire Street	Mushin	Lagos	6.513	3.361	1	
+Akin Baruwa Street	Mushin	Lagos	6.516	3.359	1	
+Babs Shokeni Street	Alimosho	Lagos	6.604	3.313	1	
+Bameke Street	Alimosho	Lagos	6.580	3.305	1	
+Araromi Bailey	Ado Odo/Ota	Ogun	6.688	3.282	1	
+Alhaji Bashiru Shittu Street	Kosofe	Lagos	6.622	3.381	1	
+Barbington Street	Kosofe	Lagos	6.601	3.395	1	
+Bailey Street	Shomolu	Lagos	6.524	3.377	1	
+Bankole Street	Shomolu	Lagos	6.541	3.375	1	
+Gombi - Baromari Road	Gombi	Adamawa	10.353	12.624	1	
+Gombi - Baromari Road	Gombi	Adamawa	10.372	12.607	1	
+Lagos-Badagry Expressway	Surulere	Lagos	6.479	3.350	1	
+Abeni Bakare Street	Oshodi/Isolo	Lagos	6.562	3.330	1	
+Baderin Street	Oshodi/Isolo	Lagos	6.559	3.332	1	
+Bayo Oyewale Street	Oshodi/Isolo	Lagos	6.516	3.312	1	
+Opeyensi Bamidele Drive	Eti Osa	Lagos	6.452	3.483	1	
+Baale Street	Eti Osa	Lagos	6.430	3.497	1	
+Bar. Paul Nwchukwu Street	Eti Osa	Lagos	6.444	3.514	1	
+Waziri Babba Lawan Street	Yola North	Adamawa	9.205	12.479	1	
+Francis Bagudu Street	Chikun	Kaduna	10.464	7.441	1	
+Bako Waziri Close	Chikun	Kaduna	10.463	7.439	1	
+Baale Street	Eti Osa	Lagos	6.454	3.571	1	
+Baale Eleyele Street	Ife Central	Osun	7.495	4.550	1	
+Bahago Street	Chikun	Kaduna	10.464	7.478	1	
+Yaryasa - Bargi Road	Kiru	Kano	11.338	8.253	1	
+Bashama Road	Kaduna North	Kaduna	10.506	7.425	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.282	9.799	1	
+Hassan Baba Street	Kaduna North	Kaduna	10.529	7.457	1	
+Bashourun Avenue	Eti Osa	Lagos	6.463	3.578	1	
+Sarkin Baka Street	Chikun	Kaduna	10.489	7.471	1	
+Bayo Adepoju Street	Osogbo	Osun	7.773	4.537	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.239	9.752	1	
+Baptist Street	Okpe	Delta	5.606	5.678	1	
+Faith Baptist Road	Esan West	Edo	6.750	6.077	1	
+Baru	Misau	Bauchi	11.315	10.463	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.390	11.175	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.388	11.174	1	
+Oore-Ofe Baptist Church Avenue	Ogbomosho North	Oyo	8.150	4.254	1	
+mercyland baptist church street	Ogbomosho North	Oyo	8.160	4.249	1	
+Bannalewa Health Post	Fune	Yobe	12.051	11.513	0	
+Balogun Street	Ibeju Lekki	Lagos	6.477	3.823	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.315	9.818	1	
+Bayo St.	Port-Harcourt	Rivers	4.790	6.960	1	
+Ali Balogun Street	Lagos Island	Lagos	6.458	3.387	1	
+Bayo Kuku Road	Eti Osa	Lagos	6.459	3.434	1	
+Babajide Okunubi Avenue	Eti Osa	Lagos	6.468	3.625	1	
+Uban bala street	Gombe	Gombe	10.293	11.188	1	
+SABON LINE STREET	Gombe	Gombe	10.283	11.173	1	JAURO BAPPI STREET
+Hannat Balogun Close	Eti Osa	Lagos	6.456	3.420	1	
+ECO BANK ROAD	Nasarawa	Nasarawa	8.548	7.713	1	
+Bank Road	Ibadan South West	Oyo	7.388	3.878	1	
+Prof. Don Baridam Close	Ikwerre	Rivers	4.908	6.910	1	
+Balat Hughes	Fagge	Kano	12.026	8.532	1	
+Balogun Musa Street	Eti Osa	Lagos	6.426	3.593	1	
+Baale Street	Eti Osa	Lagos	6.425	3.584	1	
+Rasulu Balogun Disu Street	Eti Osa	Lagos	6.425	3.586	1	
+Barrister G.C Nonyelum Street	Awka South	Anambra	6.246	7.102	1	
+Baale way	Ìkòròdú	Lagos	6.621	3.598	1	
+Baale Isuka Street	Eti Osa	Lagos	6.471	3.648	1	
+Balogun Estate Road	Eti Osa	Lagos	6.475	3.653	1	
+Barracks Rd	Calabar Municipal	Cross River	4.964	8.325	1	
+Bakori Road	Municipal Area Council	FCT Abuja	9.145	7.328	1	
+Bernett Bassey Streer	Uyo	Akwa Ibom	5.021	7.939	1	
+Gombi - Baromari Road	Biu	Borno	10.605	12.204	1	
+Paul Bassey (Barracks Road)	Uyo	Akwa Ibom	5.035	7.931	1	Okokon Etuk Street
+Alh Badmus Street	Egbeda	Oyo	7.449	4.031	1	
+Dr Badmus Street	Egbeda	Oyo	7.449	4.032	1	
+Babandoki Avenue	Suleja	Niger	9.195	7.186	1	
+Bar. C.O.N. Akabogu Street	Eti Osa	Lagos	6.476	3.606	1	
+Alh. Ramota Balogun Street	Ìkòròdú	Lagos	6.620	3.524	1	
+Bayo Shodipo Street	Eti Osa	Lagos	6.495	3.599	1	
+Abideen Bamgbala Street	Eti Osa	Lagos	6.486	3.595	1	
+Abideen Bamgbala Street	Eti Osa	Lagos	6.485	3.594	1	
+Banku Village Road	Ifo	Ogun	6.674	3.422	1	
+Barr Dotun Adetunji Street	Ìkòròdú	Lagos	6.593	3.531	1	
+Bashorun Street	Agege	Lagos	6.614	3.313	1	
+Baba Ponmile Street	Ikeja	Lagos	6.603	3.325	1	
+Balogun Ilawe Street	Agege	Lagos	6.614	3.314	1	
+Banana Island School	Eti Osa	Lagos	6.464	3.454	0	
+Barikisu Oshinmi Street	Eti Osa	Lagos	6.478	3.583	1	
+Barikisu Oshinmi Street	Eti Osa	Lagos	6.477	3.588	1	
+Ali Baba Street	Lokoja	Kogi	7.796	6.723	1	
+Bateba St.	Calabar Municipal	Cross River	4.951	8.338	1	
+Baiyeku Road	Ìkòròdú	Lagos	6.549	3.542	1	
+Comprehensive Health Center Bakeko	Katcha	Niger	8.958	6.210	0	
+Ejimeh Bamgbose Avenue	Ìkòròdú	Lagos	6.614	3.578	1	
+Prof. Dalhatu Balarabe Street	Ungongo	Kano	11.972	8.441	1	
+Adebayo Ba'anu close	Ilorin East	Kwara	8.471	4.630	1	
+2 BABA ABUBAKAR street, Sobi Rd, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.506	4.552	1	
+Kukawa - Baga Road	Kukawa	Borno	12.946	13.672	1	
+Babatunde Idiagbon Road	Ilorin South	Kwara	8.480	4.631	1	
+Babatunde Idiagbon Road	Ilorin South	Kwara	8.473	4.648	1	
+Yakubu Bauchi Road	Ungongo	Kano	11.970	8.435	1	
+Yakubu Bauchi Road	Ungongo	Kano	11.970	8.435	1	
+Umaru Audi Road	Ilorin South	Kwara	8.496	4.595	1	Basin Road
+Babariq Close	Eti Osa	Lagos	6.472	3.637	1	
+Babatunde Tandoh Street	Eti Osa	Lagos	6.505	3.585	1	
+Army Barracks Road	Enugu North	Enugu	6.463	7.513	1	
+AS Badeh Street	Municipal Area Council	FCT Abuja	9.047	7.554	1	
+AS Badeh Street	Municipal Area Council	FCT Abuja	9.049	7.555	1	
+Barr Adebiyi Oroyinyin Street	Ilorin East	Kwara	8.475	4.619	1	
+Layin Baba Manjo	Kumbotso	Kano	11.950	8.476	1	
+Bailey Street	Shomolu	Lagos	6.526	3.376	1	
+Banking layout	Uyo	Akwa Ibom	4.998	7.930	1	
+Baale Street	Eti Osa	Lagos	6.445	3.484	1	
+Damri - Bakura - Tsamiya Road	Bakura	Zamfara	12.645	5.881	1	
+Damri - Bakura - Tsamiya Road	Bakura	Zamfara	12.623	5.881	1	
+Hakeem Balogun Street	Ikeja	Lagos	6.623	3.356	1	
+Batsari Road	Muhammadu Dikko Stadium	Katsina	12.975	7.581	1	
+Abdullahi Bayero way	Nassarawa	Kano	11.995	8.548	1	
+Aro Bamgbose Close	Eti Osa	Lagos	6.433	3.469	1	
+Audu Bako Way	Tarauni	Kano	11.984	8.547	1	
+Bababugi	Tarauni	Kano	11.970	8.555	1	
+Gombi - Baromari Road	Gujba	Yobe	11.555	11.918	1	
+Gombi - Baromari Road	Ngelzarma	Yobe	11.707	11.950	1	
+Gombi - Baromari Road	Gujba	Yobe	11.183	12.037	1	
+Gombi - Baromari Road	Gujba	Yobe	11.315	11.988	1	
+Bauchi Ring Road	Jos North	Plateau	9.902	8.898	1	
+Bauchi Ring Road	Jos North	Plateau	9.899	8.894	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.152	9.687	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.175	9.696	1	
+Langtang - Bauchi Federal Road	Bauchi	Bauchi	10.295	9.805	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.475	11.294	1	
+Gombe - Potiskum Road; Ashaka Bajago Road	Kwami	Gombe	10.488	11.310	1	
+Bauchi Ring Road	Jos North	Plateau	9.912	8.912	1	
+Bauchi Ring Road	Jos North	Plateau	9.905	8.911	1	
+Langtang - Bauchi Federal Road	Langtang North	Plateau	9.178	9.802	1	
+Langtang - Bauchi Federal Road	Langtang North	Plateau	9.165	9.801	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.379	9.603	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.372	9.617	1	
+Langtang - Bauchi Federal Road	Kanke	Plateau	9.377	9.610	1	
+Bank Street	Enugu East	Enugu	6.466	7.569	1	
+Willinton Bassy	Uyo	Akwa Ibom	5.039	7.934	1	
+Balanguwa Model Primary Health Center	Nguru	Yobe	13.026	10.415	0	
+Bauwa Health Post	Fune	Yobe	11.464	11.419	0	
+Army Barrack Health Clinic	Nguru	Yobe	12.878	10.491	0	
+Badia East	Apapa	Lagos	6.469	3.361	2	
+Tafawa Balewa Square Bus Terminal	Lagos Island	Lagos	6.445	3.401	0	
+Community Secondary School Baiyeku	Ìkòròdú	Lagos	6.551	3.538	0	
+Gold and Base	Jos South	Plateau	9.865	8.901	1	
+Beulah Baptist Church College	Ejigbo	Osun	7.909	4.318	0	
+Baptist Medical Center	Saki West	Oyo	8.663	3.400	0	
+Alhaji Yekini Olawale Bakare Street	Eti Osa	Lagos	6.440	3.546	1	
+Balogun Street	Ikeja	Lagos	6.599	3.335	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.459	3.277	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.298	1	
+Badagry General Hospital	Badagry	Lagos	6.416	2.899	0	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.457	3.260	1	
+N Batagarawa Street	Municipal Area Council	FCT Abuja	9.046	7.548	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.456	3.245	1	
+Massey Bamgboshe Street	Lagos Island	Lagos	6.451	3.401	1	
+Bamgboshe Street	Lagos Island	Lagos	6.453	3.394	1	
+Keme Balogun College	Ìkòròdú	Lagos	6.556	3.476	0	
+Local Government Primary School, Baiyeku	Ìkòròdú	Lagos	6.538	3.551	0	
+Baptist School	Kosofe	Lagos	6.606	3.394	0	
+Babington Macaulay Junior Seminary	Ìkòròdú	Lagos	6.639	3.600	0	BMJS
+Barracks Street	Port-Harcourt	Rivers	4.761	7.024	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.366	14.258	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.364	14.268	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.347	14.296	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.356	14.312	1	
+Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.364	14.324	1	
+Federal Road F259 Bama - Gambaru	Kala-Balge	Borno	12.365	14.326	1	
+Federal Road F259 Bama - Gambaru	Ngala	Borno	12.361	14.280	1	
+Banuso	Ìkòròdú	Lagos	6.631	3.508	0	
+Balad Private Schools	Ìkòròdú	Lagos	6.645	3.479	0	
+Bakre Disu Oshodi Memorial High School	Agege	Lagos	6.613	3.317	0	
+Badagry City Hall	Badagry	Lagos	6.413	2.883	0	
+Badagry Market	Badagry	Lagos	6.421	2.875	0	
+Florence Baker Close	Eti Osa	Lagos	6.477	3.580	1	
+Model College Badore	Eti Osa	Lagos	6.512	3.610	0	
+Primary Health Center, Badore	Eti Osa	Lagos	6.509	3.612	0	
+Baale Ajagbe Street	Eti Osa	Lagos	6.474	3.632	1	
+Basswood Street	Eti Osa	Lagos	6.461	3.518	1	
+Gombi - Baromari Road	Ngelzarma	Yobe	11.638	11.926	1	
+Baale road	Alimosho	Lagos	6.498	3.247	1	
+Balare Primary Health Centre	Ajingi	Kano	11.991	8.931	0	
+Allah bamu Lafiya Hospital	Muhammadu Dikko Stadium	Katsina	12.993	7.608	0	
+Ahmad Ado Bayero Primary Health Centre	Kumbotso	Kano	11.927	8.580	0	
+Bakin Ruwa Health Post	Dala	Kano	11.999	8.503	0	
+Dorayi Babba Health Post	Gwale	Kano	11.975	8.462	0	
+Lagos Baptist Academy	Shomolu	Lagos	6.546	3.373	0	
+Bakin Lahadi Health Post	Sumaila	Kano	11.357	8.947	0	
+Badume Primary Health Centre	Dawakin Tofa	Kano	12.188	8.311	0	
+Balan Primary Health Centre	Gaya	Kano	11.810	9.023	0	
+Abubakar Tafawa Balewa Teaching Hospital	Bauchi	Bauchi	10.323	9.831	0	
+Bauchi State Specialist Hospital	Bauchi	Bauchi	10.318	9.842	0	
+Baliam Dispensary	Shira	Bauchi	11.322	9.957	0	
+Bangire Dispensary	Shira	Bauchi	11.319	10.043	0	
+Ibrahim Bako Health Center	Bauchi	Bauchi	10.316	9.882	0	
+Primary Health Center Doya	Bauchi	Bauchi	10.315	9.852	0	Maternity Bayan Fada
+Badaromo Dispensary	Ganjuwa	Bauchi	10.465	10.024	0	
+Barum Primary Health Center	Bauchi	Bauchi	10.352	10.066	0	Beru Primary Health Center
+Badara Health Clinic	Kirfi	Bauchi	10.348	10.360	0	
+Bar Dispensary	Tafawa-Balewa	Bauchi	9.905	9.694	0	
+Bani Maternity	Kirfi	Bauchi	10.374	10.783	0	
+Bara Health Center	Kirfi	Bauchi	10.371	10.725	0	
+Bartak Health Post	Alkaleri	Bauchi	10.269	10.336	0	
+Bamanu Maternity	Bauchi	Bauchi	10.177	10.088	0	
+Bayara General Hospital Hosp	Bauchi	Bauchi	10.226	9.734	0	Idh Bayara
+ashi health center ( basorun)	Ibadan North	Oyo	7.426	3.931	0	
+primary health care center basorun	Ibadan North	Oyo	7.415	3.933	0	
+Akeke/Olorombo Health Centre, Bashorun	Ibadan North East	Oyo	7.416	3.939	0	
+Oke'badan Community Health And Maternity Centre	Ibadan North East	Oyo	7.387	3.923	0	
+Bara Health Center	Gulani	Yobe	10.937	11.680	0	
+Bauchi Emergency Operations Center	Bauchi	Bauchi	10.306	9.822	0	
+Bakar Kuka Primary Health Center	Itas/Gadau	Bauchi	12.001	10.122	0	
+Bambal Gabas Primary Health Center	Itas/Gadau	Bauchi	11.747	9.738	0	
+Baze University	Municipal Area Council	FCT Abuja	9.008	7.402	0	
+Bada Koshi Primary Health Center	Bogoro	Bauchi	9.554	9.504	0	Boi Primary Health Center
+Baptist Hospital, Eigbo	Ejigbo	Osun	7.898	4.321	0	
+231 Tank Batallion Nigerian Army Medical Corps	Biu	Borno	10.595	12.193	0	231/331 MRS
+Banby Specialist Hospital	Lagelu	Oyo	7.434	3.944	0	
+Sick Bay,PH City Council	Port-Harcourt	Rivers	4.771	7.018	0	
+Seventh-day Adventist Hospital and Motherless Babies' Home, ABA	Aba North	Abia	5.123	7.385	0	
+MRS Barracks Primary Health Centre	Tofa	Kano	11.953	8.392	0	
+Primary Health Center Dott Babba	Dass	Bauchi	10.034	9.508	0	
+Bangin Maternity	Dass	Bauchi	9.893	9.612	0	
+Baraza Primary Health Center	Dass	Bauchi	9.966	9.439	0	
+Mobolaji Bank-Anthony Way	Ikeja	Lagos	6.573	3.364	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.458	3.269	1	
+Lagos-Badagry Expressway	Surulere	Lagos	6.478	3.343	1	
+Lagos-Badagry Expressway	Surulere	Lagos	6.463	3.322	1	
+Lagos-Badagry Expressway	Surulere	Lagos	6.469	3.330	1	
+Bale Street	Surulere	Lagos	6.479	3.345	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.460	3.231	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.458	3.235	1	
+General Hospital Bama	Bama	Borno	11.262	14.156	0	
+Bamburu health clinic	Demsa	Adamawa	9.535	12.204	0	
+Badejo Maternal and Child Health Clinic	Potiskum	Yobe	11.658	11.102	0	
+Babbangida Comprehensive Health Centre	Tarmua	Yobe	12.148	11.777	0	
+Babbangida Health Clinic	Tarmua	Yobe	12.147	11.774	0	
+balaur iheath post	Jada	Adamawa	8.646	12.328	0	
+batel	Jada	Adamawa	8.552	12.410	0	
+Barkami Dispensary	Tarmua	Yobe	12.284	11.891	0	
+Bali Health Facilities Demsa	Demsa	Adamawa	9.312	11.802	0	
+Bariki B Primary Health Care	Numan	Adamawa	9.249	11.688	0	
+Tana Babba Primary Health Center	Numan	Adamawa	9.288	11.662	0	
+Bangun Health Facility	Demsa	Adamawa	9.498	12.252	0	
+Nassarawo Demsa Peraonal Base Finance Health Facilities Demsa	Numan	Adamawa	9.452	12.046	0	
+Badisya Memorial Nursing Maternity Home Chigari	Fufore	Adamawa	9.071	12.663	0	
+L C C N Health Post Ba Usmanu	Fufore	Adamawa	8.905	12.720	0	
+babel primary heath center	Madagali	Adamawa	10.815	13.639	0	
+Afe Babalola University	Adó-Èkìtì	Ekiti	7.600	5.310	0	ABUAD
+bakin dutse heath center	Madagali	Adamawa	10.846	13.480	0	
+Waurunelbi Basic Health Clinic	Fufore	Adamawa	9.052	12.861	0	
+Bagauri Health Post	Fufore	Adamawa	8.834	12.615	0	
+chakawa basic heath clinic	Madagali	Adamawa	10.891	13.582	0	
+Bagale Health Clinic	Fufore	Adamawa	9.345	12.684	0	
+Balarabe Health Clinic	Fune	Yobe	11.931	11.234	0	
+Bai Health Post	Fufore	Adamawa	8.985	12.501	0	
+Babande Health Post	Fune	Yobe	12.052	11.236	0	
+Bati Health Post	Fufore	Adamawa	8.886	12.460	0	
+Mazawun Basic Health Center	Fika	Yobe	11.217	11.401	0	
+Babidi Health Clinic	Jada	Adamawa	8.639	12.187	0	
+Bakari Gose Disp Clinic	Jada	Adamawa	8.545	12.272	0	
+Bakarigoso Health Clinic	Jada	Adamawa	8.546	12.271	0	
+Barhama Dispensary	Ganye	Adamawa	8.433	12.050	0	
+Banga Health Post	Hong	Adamawa	10.439	12.852	0	
+Banshika Primary Health Center	Hong	Adamawa	10.195	12.991	0	
+Bangshika Primary Health Care Center	Hong	Adamawa	10.249	13.014	0	
+Garin Baba Health Clinic	Nangere	Yobe	11.924	10.969	0	
+Baraniya Health Clinic	Nangere	Yobe	11.879	10.966	0	
+Banda Sarga Health Post	Jada	Adamawa	8.515	12.152	0	
+Bandatsarga Health Post	Jada	Adamawa	8.516	12.152	0	
+Bari Jimila Health Post	Ganye	Adamawa	8.471	12.247	0	
+Balogun Road	Oyo West	Oyo	7.915	3.842	1	
+Bala Muhammed Way	Municipal Area Council	FCT Abuja	9.012	7.518	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.460	3.215	1	
+Lagos-Badagry Expressway	Amuwo Odofin	Lagos	6.459	3.223	1	
+Bashir Buhan Street	Gwale	Kano	11.975	8.472	1	
+Prof. Badayi Sani Street	Gwale	Kano	11.977	8.475	1	
+Link 5 Bar. Bala Fagge Street	Gwale	Kano	11.975	8.476	1	
+Kwanar Bazawara, Yankaba	Nassarawa	Kano	12.011	8.583	1	
+Babayaro Street (Layin High Tension)	Ungongo	Kano	11.973	8.445	1	
+Kainji Air Base	Borgu	Niger	9.897	4.496	0	
+Ecole de Bandi	Bosso	Borno	13.512	12.943	0	
+CSI Bandi	Bosso	Borno	13.513	12.944	0	
+Wale Balogun Close	Eti Osa	Lagos	6.479	3.629	1	
+Bariga	Shomolu	Lagos	6.525	3.399	2	
+Basorun Road	Ibadan North	Oyo	7.423	3.936	1	
+Banana Island	Eti Osa	Lagos	6.460	3.464	2	
+Community Primary School Ground, Barayira	Tai	Rivers	4.744	7.202	0	
+Baba Ari Street	Municipal Area Council	FCT Abuja	9.044	7.549	1	
+Barr. Obi Eregbuonye Street	Oshimili North	Delta	6.179	6.668	1	
+Balanshi Primary Health Center	Bauchi	Bauchi	10.160	10.059	0	
+Mobolaji Bank-Anthony Way	Ikeja	Lagos	6.572	3.368	1	
+Mobolaji Bank-Anthony Way	Ikeja	Lagos	6.579	3.360	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.461	3.203	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.479	3.179	1	
+Lagos-Badagry Expressway	Ojo	Lagos	6.469	3.191	1	
+Nigerian Army Barrack Link	Enugu South	Enugu	6.391	7.492	1	
+BAYO DAHUNSI STREET	Eti Osa	Lagos	6.431	3.501	1	
+Lateef Bamidele Street	Oshodi/Isolo	Lagos	6.494	3.300	1	
+Banga Street	Sapele	Delta	5.859	5.694	1	
+Kukawa - Baga Road	Guzamala	Borno	12.927	13.581	1	
+Kayle Bagah Post	Akko	Gombe	9.996	11.157	0	
+Backyard Road	Obio/Akpor	Rivers	4.876	6.919	1	
+AB Bagare Street	Municipal Area Council	FCT Abuja	9.044	7.546	1	
+Thomas Bamidele Close	Eti Osa	Lagos	6.471	3.580	1	
+madam Banga street	Ethiope East	Delta	5.646	5.964	1	
+BASSACO Filling Station	Jos North	Plateau	9.859	8.866	0	
+Baptist High School	Chanchaga	Niger	9.627	6.546	0	
+KASU Sick Bay	Kaduna North	Kaduna	10.519	7.450	0	
+Baver Zeremo Street	Markurdi	Benue	7.719	8.580	1	
+Bakuna	Shiroro	Niger	10.534	6.814	2	
+Balogun S. Fayowole	Ibeju Lekki	Lagos	6.459	3.708	1	
+Bama Motor Park Shopping centre	Jere	Borno	11.805	13.184	0	
+Bama Motor Park Shopping centre	Jere	Borno	11.805	13.184	0	
+Bama Motor Park Shopping centre	Jere	Borno	11.804	13.186	0	
+Basorun Market	Ibadan North East	Oyo	7.417	3.934	0	
+Balogun Boulevard Street	Esan West	Edo	6.771	6.125	1	
+Union Baptist Church, Nursery and Primary School	Ede North	Osun	7.726	4.481	0	
+Badeku Road	Ona Ara	Oyo	7.310	4.106	1	
+Bamidele Oyewole Close	Eti Osa	Lagos	6.460	3.536	1	
+Government Science College Basaura	Jega	Kebbi	12.322	4.262	0	
+Asibitin Malan Barau	Muhammadu Dikko Stadium	Katsina	12.983	7.595	0	
+Bamidele Adebule Street	Kosofe	Lagos	6.565	3.381	1	
+Gombi - Baromari Road	Ngelzarma	Yobe	11.665	11.935	1	
+Gombi - Baromari Road	Ngelzarma	Yobe	11.668	11.937	1	
+Babs Ogunwole Street	Ifako/Ijaye	Lagos	6.661	3.310	1	
+Zenith Bank Road	Ovia North-East	Edo	6.740	5.405	1	
+Olori Risikat Bashua Street	Ìkòròdú	Lagos	6.630	3.506	1	
+Banuso Street	Ilesha West	Osun	7.624	4.741	1	
+Bayo Rotilu Street	Ìkòròdú	Lagos	6.634	3.505	1	
+College of Basic Medical and Health Sciences	Konduga	Borno	11.855	12.983	0	
+Abanum-Banks Street	Aniocha South	Delta	6.220	6.625	1	
+Bauchi Road	Jos North	Plateau	9.952	8.892	1	
+Baiyeku Road	Ìkòròdú	Lagos	6.586	3.523	1	
+Baale Araromi Street	Eti Osa	Lagos	6.455	3.565	1	
+Ademola Babalola Street	Eti Osa	Lagos	6.451	3.566	1	
+Nicole Balogun Street	Eti Osa	Lagos	6.434	3.521	1	
+Bamaiyi Close	Chikun	Kaduna	10.460	7.440	1	
+Iho Basic Health Center	Ikeduru	Imo	5.567	7.105	0	
+Taibat Banire St	Ifako/Ijaye	Lagos	6.676	3.284	1	
+Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.615	9.532	1	
+Langtang - Bauchi Federal Road	Bogoro	Bauchi	9.552	9.512	1	
+Akanni Bashuua Street	Shomolu	Lagos	6.530	3.377	1	
+Bayamari	Borsari	Yobe	12.758	11.535	2	
+Balle	Geidam	Yobe	12.841	11.761	2	
+Bare Bari	Potiskum	Yobe	11.693	11.048	2	
+Gidgid Bayam	Jakusko	Yobe	12.503	10.978	2	
+Babangida	Tarmua	Yobe	12.182	11.873	2	
+Baauzini	Kazaure	Jigawa	12.702	8.500	2	
+Barde	Barde	Yobe	12.716	10.643	2	
+Batu	Biriniwa	Jigawa	12.797	10.093	2	
+Alhaji Barka	Gumel	Jigawa	12.576	9.374	2	
+Kore Balatu	Gagarawa	Jigawa	12.424	9.438	2	
+Balarabe	Maigatari	Jigawa	12.619	9.572	2	
+Matara Babba	Guri	Jigawa	12.754	10.394	2	
+Kafin Babushe	Ringim	Jigawa	12.269	8.995	2	
+Babura	Babura	Jigawa	12.760	9.046	2	
+Bakura	Bakura	Zamfara	12.704	5.877	2	
+Barayar Zaki	Anka	Zamfara	12.186	5.758	2	
+Banga	Kaura Namoda	Zamfara	12.505	6.634	2	
+Badarawa	Shinkafi	Zamfara	13.019	6.507	2	
+Sarkin Mafara-Sarkin Baura	Kaura Namoda	Zamfara	12.609	6.610	2	
+Bagega	Anka	Zamfara	11.889	6.025	2	
+Bardoki	Gummi	Zamfara	11.918	5.106	2	
+Darhela Badau	Bodinga	Sokoto	12.783	5.159	2	
+Bachaka	Gudu	Sokoto	13.395	4.188	2	
+Bakura	Bakura	Zamfara	12.558	5.864	2	
+Basansan	Kware	Sokoto	13.099	5.334	2	
+Balle	Gudu	Sokoto	13.470	4.654	2	
+Bagida	Tambuwal	Sokoto	12.245	4.810	2	
+Bakale	Yabo	Sokoto	12.868	4.972	2	
+Bankanu	Kware	Sokoto	13.240	5.224	2	
+Bargaja	Isa	Sokoto	13.197	6.451	2	
+Bashire-Maikada	Tambuwal	Sokoto	12.309	4.681	2	
+Bangi Dabaga	Bodinga	Sokoto	12.722	5.299	2	
+Bagarawa	Bodinga	Sokoto	12.894	5.209	2	
+Barkeji-Nabaguda	Tambuwal	Sokoto	12.395	4.780	2	
+Bakuwai	Suru	Kebbi	11.909	4.038	2	
+Bajida	Fakai	Kebbi	11.414	4.943	2	
+Dunbegu Basaura	Jega	Kebbi	12.293	4.333	2	
+Banizumbu	Dandi	Kebbi	11.664	3.830	2	
+Rafin Bauna	Aleiro	Kebbi	12.291	4.415	2	
+Bahindi Khaliel	Bagudo	Kebbi	11.474	4.102	2	
+Barbarejo	Suru	Kebbi	11.617	3.994	2	
+Bangu	Fakai	Kebbi	11.642	4.649	2	
+Bandan	Suru	Kebbi	11.783	4.070	2	
+Bayawa North	Augie	Kebbi	12.845	4.727	2	
+Bayawa South	Augie	Kebbi	12.756	4.725	2	
+Bachaka	Arewa Dandi	Kebbi	13.156	4.318	2	
+Damba Bakoshi	Koko-Besse	Kebbi	11.376	4.294	2	
+Bani Tsamiya	Bagudo	Kebbi	11.309	3.651	2	
+Bagaye Mera	Augie	Kebbi	12.895	4.640	2	
+Bagudo Tuga	Bagudo	Kebbi	11.391	4.216	2	
+Barde	Jema'A	Kaduna	9.336	8.076	2	
+Basawa	Sabon Gari	Kaduna	11.166	7.677	2	
+Badurum	Kauru	Kaduna	9.921	8.480	2	
+Ruwan Bago	Rogo	Kano	11.454	7.772	2	
+Fara Barije	Roni	Jigawa	12.624	8.284	2	
+Baragumi	Roni	Jigawa	12.623	8.230	2	
+Babawa	Gezawa	Kano	12.045	8.647	2	
+Wuro Bagga	Bagwai	Kano	12.163	8.109	2	
+Yan Barau	Dawakin Kudu	Kano	11.837	8.544	2	
+Bataiya	Albasu	Kano	11.665	9.033	2	
+Balan	Gaya	Kano	11.794	9.036	2	
+Bauda	Kiru	Kano	11.567	8.195	2	
+Bargoni	Kiru	Kano	11.739	8.136	2	
+Unguwar Bai	Ajingi	Kano	12.046	9.060	2	
+Barkum	Bunkure	Kano	11.660	8.654	2	
+Bachirawa	Ungongo	Kano	12.051	8.442	2	
+Bagwai	Bagwai	Kano	12.178	8.171	2	
+Baawa	Kiru	Kano	11.613	8.032	2	
+Balare	Ajingi	Kano	12.005	8.929	2	
+Dutsen Bakoshi	Shanono	Kano	12.019	7.940	2	
+Garun Babba	Garum Mallam	Kano	11.586	8.423	2	
+Bagwai	Bagwai	Kano	12.102	8.120	2	
+Badume	Bichi	Kano	12.226	8.345	2	
+Babbar Ruga	Makoda	Kano	12.339	8.534	2	
+Badafi	Kiru	Kano	11.382	8.201	2	
+Tsamiya Babba	Gezawa	Kano	12.003	8.660	2	
+Baguda	Bebeji	Kano	11.652	8.327	2	
+Baburi	Tudun Wada	Kano	11.303	8.713	2	
+Babban Giji	Tarauni	Kano	11.965	8.538	2	
+Batali	Babura	Jigawa	12.625	8.767	2	
+Bareruwa	Ingawa	Katsina	12.602	8.188	2	
+Banye	Charanchi	Katsina	12.662	7.593	2	
+Bakori B	Bakori	Katsina	11.562	7.470	2	
+Bauranya	Kusada	Katsina	12.411	8.005	2	
+Babban Duhu B	Safana	Katsina	12.646	7.133	2	
+Bakiyawa	Batagarawa	Katsina	12.897	7.446	2	
+Baure B	Safana	Katsina	12.536	7.144	2	
+Bakori A	Bakori	Katsina	11.548	7.411	2	
+Ba'Awa	Kaita	Katsina	13.180	7.909	2	
+Barkiya	Kurfi	Katsina	12.660	7.541	2	
+Barawa	Batagarawa	Katsina	12.918	7.504	2	
+Bamle	Mashi	Katsina	13.273	8.004	2	
+Babban Mutum	Baure	Katsina	12.791	8.966	2	
+Baure	Baure	Katsina	12.790	8.782	2	
+Babura	Babura	Jigawa	12.605	8.828	2	
+Batsari	Batsari	Katsina	12.756	7.243	2	
+Batsari	Batsari	Katsina	12.845	7.268	2	
+Barde Kwantakwaran	Bakori	Katsina	11.595	7.563	2	
+Bakori	Bakori	Katsina	11.677	7.408	2	
+Batagarawa	Batagarawa	Katsina	12.875	7.621	2	
+Batagarawa	Batagarawa	Katsina	12.868	7.531	2	
+Babban Duhu A	Safana	Katsina	12.681	7.253	2	
+Baure A	Safana	Katsina	12.631	7.263	2	
+Bagiwa	Mani	Katsina	12.882	7.876	2	
+Baure	Baure	Katsina	12.838	8.742	2	
+Baure	Bindawa	Katsina	12.768	7.874	2	
+Bagudo	Bagudo	Kebbi	11.294	3.892	2	
+Bassa	Bassa	Kogi	7.747	6.961	2	
+Barkin Ladi	Barkin Ladi	Plateau	9.575	8.970	2	
+Bara	Gulani	Yobe	11.003	11.873	2	
+Barwati	Kukawa	Borno	12.962	13.783	2	
+Bargu	Shani	Borno	10.120	11.903	2	
+Baga	Kukawa	Borno	13.096	13.990	2	
+Badu	Nganzai	Borno	12.706	13.179	2	
+Badairi	Marte	Borno	12.580	13.858	2	
+Balanga	Balanga	Gombe	9.820	11.716	2	
+Balbaya	Bayo	Borno	10.607	11.761	2	
+Balago	Kiyawa	Jigawa	11.902	9.689	2	
+Bangire	Shira	Bauchi	11.316	10.023	2	
+Baturiya	Kiri Kasama	Jigawa	12.534	10.270	2	
+Bagwaro	Takai	Kano	11.365	9.164	2	
+Bakin Kasuwa	Katagum	Bauchi	11.668	10.197	2	
+Bara	Kirfi	Bauchi	10.331	10.671	2	
+Bassa	Bassa	Plateau	10.056	8.818	2	
+Bagel Bajar	Dass	Bauchi	10.081	9.528	2	
+Bambal	Itas/Gadau	Bauchi	11.757	9.659	2	
+Badara	Kirfi	Bauchi	10.323	10.309	2	
+Baba	Kirfi	Bauchi	10.332	10.376	2	
+Baima	Warji	Bauchi	11.089	9.772	2	
+Bashe	Ningi	Bauchi	11.052	8.825	2	
+Badagari	Bogoro	Bauchi	9.572	9.662	2	
+Baraza	Dass	Bauchi	9.946	9.436	2	
+Bal	Bogoro	Bauchi	9.711	9.572	2	
+Bauchi	Bauchi	Bauchi	10.250	9.950	2	
+Tafawa-Balewa	Tafawa-Balewa	Bauchi	9.844	9.593	2	
+Balma	Ningi	Bauchi	11.234	9.359	2	
+Basirka	Gwaram	Jigawa	11.146	10.285	2	
+Bama	Bama	Borno	11.513	14.024	2	
+Ngubala Bamma	Magumeri	Borno	11.927	13.044	2	
+Banowa	Abadam	Borno	13.202	13.184	2	
+Bayo	Bayo	Borno	10.469	11.676	2	
+Banki	Bama	Borno	11.317	14.116	2	
+Garin Baka	Ngaski	Kebbi	10.638	4.776	2	
+Kala-Balge	Kala-Balge	Borno	11.907	14.456	2	
+Baruten	Baruten	Kwara	9.385	3.481	2	
+Badagry	Badagry	Lagos	6.439	2.906	2	
+Hayin Banki	Kaduna North	Kaduna	10.587	7.431	2	
+Badiko	Kaduna South	Kaduna	10.545	7.413	2	
+Bado	Wamako	Sokoto	12.988	5.200	2	
+Bakin Ruwa	Dala	Kano	11.997	8.503	2	

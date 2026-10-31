@@ -1,0 +1,977 @@
+Oviri-Court	Okpe	Delta	5.654	5.769	2	Oviri
+Narayi High Cost	Chikun	Kaduna	10.471	7.447	2	
+Inorin Community, Warri Island	Warri South	Delta	5.500	5.688	2	
+Ugbodede Community Warri Island	Warri South	Delta	5.528	5.676	2	
+Ajigba Community, Warri Island	Warri South	Delta	5.497	5.692	2	
+Cousinigbene	Southern Ijaw	Bayelsa	4.529	5.893	2	
+Rough Corner Spit	Bonny	Rivers	4.368	7.130	2	
+Command Secondary School	Chikun	Kaduna	10.444	7.424	0	
+Conoil	Chikun	Kaduna	10.433	7.404	0	
+Conoil	Municipal Area Council	FCT Abuja	8.959	7.343	0	
+Conoil	Kaduna North	Kaduna	10.525	7.430	0	
+Conoil	Igabi	Kaduna	10.810	7.555	0	
+Conoil	Igabi	Kaduna	10.647	7.473	0	
+Edo College	Ikpoba-Okha	Edo	6.332	5.647	0	
+St. Saviours Nusery School Complex	Surulere	Lagos	6.489	3.376	0	
+ASCL Staff Comprehensive Secondary School III	Ajaokuta	Kogi	7.553	6.630	0	
+ASCL Staff Comprehensive Secondary School II	Ajaokuta	Kogi	7.554	6.645	0	
+Pengana Concept Limited	Jos North	Plateau	9.956	8.862	0	
+Queen Amina College	Kaduna South	Kaduna	10.476	7.421	0	QAC|QAC
+Dambo Sixth Form College	Kaduna South	Kaduna	10.480	7.419	0	
+Zira Oil Co LTD	Jos North	Plateau	9.954	8.892	0	
+Command Children School	Oredo	Edo	6.312	5.620	0	
+Federal government college, Ibillo	Akoko-Edo	Edo	7.448	6.060	0	
+ECTS (Comrade Bus)	Oredo	Edo	6.334	5.623	0	
+Holy Mary Comprehensive College	Oredo	Edo	6.324	5.631	0	
+Imaguero College	Oredo	Edo	6.322	5.628	0	
+Oba Ewuare College	Oredo	Edo	6.297	5.601	0	
+Shopping Complex	Oredo	Edo	6.307	5.617	0	
+Shopping Complex	Oredo	Edo	6.344	5.610	0	
+Unival Computer School	Oredo	Edo	6.343	5.612	0	
+KDG Consultant (HR training)	Oredo	Edo	6.334	5.609	0	
+Shopping Complex & Offices	Oredo	Edo	6.338	5.612	0	
+Conoil Filling Station	Oredo	Edo	6.335	5.622	0	
+Shopping complex	Oredo	Edo	6.336	5.620	0	
+Colombia Academy	Oredo	Edo	6.338	5.596	0	
+Ihogbe College	Oredo	Edo	6.351	5.617	0	
+ECTS (Comrade) Bus Stop	Oredo	Edo	6.337	5.621	0	
+Emotan College	Oredo	Edo	6.347	5.620	0	
+Idia College	Oredo	Edo	6.345	5.622	0	
+Spring Com Computer School	Oredo	Edo	6.341	5.620	0	
+Old Edo College	Oredo	Edo	6.343	5.618	0	
+Cocci International Secondary School	Enugu East	Enugu	6.483	7.514	0	
+Fountain Comprehensive College	Enugu East	Enugu	6.477	7.507	0	
+Methodist College	Enugu South	Enugu	6.419	7.487	0	
+Holy Rosary College Uwani, Enugu	Enugu North	Enugu	6.429	7.495	0	
+Concil Obiagu Primary School	Enugu North	Enugu	6.433	7.497	0	
+Enugu State College Of Education (Technical), Enugu	Enugu North	Enugu	6.460	7.499	0	
+Enugu State College Of Education Technical Enugu	Enugu North	Enugu	6.460	7.499	0	
+Conoil Filling Station	Muhammadu Dikko Stadium	Katsina	12.985	7.601	0	
+Conoil Petrol Station	Ibadan North	Oyo	7.438	3.909	0	
+Fedeal Cooperative College	Ibadan North West	Oyo	7.412	3.871	0	
+Nustreams Conference Centre	Ibadan South West	Oyo	7.383	3.869	0	
+Kabo Cottage General Hospital	Kabo	Kano	11.851	8.168	0	
+Commissioner Road	Tarauni	Kano	11.985	8.548	2	
+sango pataki community health center	Ibadan North	Oyo	7.427	3.893	0	
+Cross Country Motor Park	Sokoto North	Sokoto	13.056	5.215	0	
+Comprehensive Health Centre	Mobbar	Borno	13.262	12.617	0	
+Kubo Comprehensive Health Center	Shani	Borno	10.108	12.031	0	
+Government Science College	Aleiro	Kebbi	12.304	4.482	0	
+Federal College of Agriculture	Akure North	Ondo	7.269	5.207	0	
+Cocin Rural Health Programme	Kukawa	Borno	13.095	13.815	0	
+Low-Cost	Damboa	Borno	11.170	12.764	2	
+Shuwari Low-Cost	Damboa	Borno	11.178	12.774	2	
+Admus Concept Nigeria Limited	Akinyele	Oyo	7.524	3.918	0	
+J Nissi College	Lagelu	Oyo	7.439	3.961	0	
+ConOil Station	Ede North	Osun	7.752	4.521	0	
+Governor's College	Kano Municipal	Kano	11.990	8.532	0	
+Konigin Des Fredens College	Enugu South	Enugu	6.413	7.502	0	
+County Grammar School	Etche	Rivers	4.974	7.036	0	
+Federal Government Girls College	Owerri Municipal	Imo	5.501	7.034	0	
+Emmanuel College	Owerri Municipal	Imo	5.480	7.032	0	
+Hadidi Shopping Complex	Kaduna North	Kaduna	10.547	7.464	0	
+Dialogue Computer Training School	Kaduna North	Kaduna	10.546	7.439	0	
+girls technical college	Aba North	Abia	5.124	7.385	0	
+Mercy Girls college	Aba North	Abia	5.120	7.384	0	
+Sharp corner Lowcost div	Gombe	Gombe	10.274	11.180	2	
+CONOIL	Oshodi/Isolo	Lagos	6.554	3.324	0	
+Senior Staff Cop Filling Station	Warri South	Delta	5.545	5.744	0	
+College of Education	Warri South	Delta	5.542	5.744	0	
+Conoil	Uvwie	Delta	5.550	5.781	0	
+Conoil Filling Station	Uvwie	Delta	5.573	5.788	0	
+Corona International School	Uvwie	Delta	5.564	5.766	0	
+Community Primary School	Yenegoa	Bayelsa	4.953	6.355	0	
+Faith Comprehensive Sec Sch	Yenegoa	Bayelsa	4.952	6.349	0	
+Community Primary School	Yenegoa	Bayelsa	4.944	6.334	0	
+Community Sec. School	Ahoada West	Rivers	5.090	6.473	0	
+Staford House Intl. College	Uvwie	Delta	5.545	5.782	0	
+Low Cost	Konduga	Borno	11.655	13.407	2	
+Edulyn College	Uvwie	Delta	5.565	5.755	0	
+Blueville County Schools	Uvwie	Delta	5.563	5.778	0	
+Compos Mentis Intl. School	Warri South	Delta	5.538	5.749	0	
+Roof Computer Academy	Warri South	Delta	5.531	5.745	0	
+Precision Imaging Consultant	Obio/Akpor	Rivers	4.826	7.050	0	
+Eagle Transport Company	Obio/Akpor	Rivers	4.851	7.055	0	
+Conoil	Obio/Akpor	Rivers	4.839	7.028	0	
+Conoil	Obio/Akpor	Rivers	4.846	7.046	0	
+Oginigba Comprehensive Secondary School	Obio/Akpor	Rivers	4.829	7.040	0	
+Government Comprehensive Secondary School	Yenegoa	Bayelsa	5.066	6.438	0	
+Colizo Filling Station	Ughelli North	Delta	5.402	6.058	0	
+Community Secondary School	Yenegoa	Bayelsa	5.017	6.395	0	
+Conoil  Filling Station	Udu	Delta	5.499	5.792	0	
+Conoil	Ado Odo/Ota	Ogun	6.532	3.077	0	
+Conoil	Ojo	Lagos	6.494	3.147	0	
+Armed Forces Command and Staff College Secondary School, Jaji.	Igabi	Kaduna	10.843	7.561	0	
+Baptist College of Theology	Owerri West	Imo	5.417	6.948	0	
+Community Primary School	Yenegoa	Bayelsa	4.959	6.364	0	
+Folk Technical college Ikwo	Ezza South	Ebonyi	6.155	8.145	0	
+Conoil	Chikun	Kaduna	10.450	7.461	0	
+Calabar International Convention Centre	Odukpani	Cross River	5.043	8.315	0	
+Victory College	Akoko North East	Ondo	7.535	5.768	0	
+Obeledu Community Secondary School	Anaocha	Anambra	6.072	7.019	0	
+Ahiara Technical College (ATC) Nnarambia	Ahiazu-Mbaise	Imo	5.525	7.262	0	
+Umuezie Community Primary School	Aboh-Mbaise	Imo	5.495	7.197	0	
+LAUTECH Medical College	Ogbomosho North	Oyo	8.160	4.258	0	
+Anglican Model College Ogbomoso (AMCO)	Ogbomosho North	Oyo	8.142	4.242	0	
+Ori Oke Community High Schools	Ogbomosho North	Oyo	8.147	4.242	0	
+Federal Government College, Ogbomoso	Ogbomosho North	Oyo	8.155	4.229	0	
+Shehu Shagari Collage of Education	Wamako	Sokoto	12.997	5.214	0	
+Lasoju comprehensive high school	Asa	Kwara	8.361	4.432	0	
+Conoil	Oshodi/Isolo	Lagos	6.506	3.323	0	
+Sasa Community School	Akinyele	Oyo	7.486	3.913	0	
+Sasa Community Health Centre	Akinyele	Oyo	7.486	3.914	0	
+Comprehensive High School Azuzuama	Southern Ijaw	Bayelsa	4.714	5.942	0	
+Hafdala corporate Limited	Toro	Bauchi	10.226	9.511	0	
+Faculty of Science Complex	Gombe	Gombe	10.305	11.175	0	
+College of Medical sciences	Gombe	Gombe	10.303	11.175	0	
+GPC GORO PETRO COMPANY LTD.	Akko	Gombe	10.292	11.078	0	
+Liberty College	Alimosho	Lagos	6.592	3.228	0	
+Learnfast Comprehensive Academy	Ojo	Lagos	6.461	3.168	0	
+Victory Land College	Ojo	Lagos	6.460	3.167	0	
+Kware Comprehensive Health Centre	Kware	Sokoto	13.228	5.259	0	
+Mohammed Goni College of Legal and Islamic Studies	Maiduguri	Borno	11.847	13.149	0	
+High Court Clinic	Gwoza	Borno	11.071	13.692	0	
+Fufore Cottage Hospital	Fufore	Adamawa	9.217	12.663	0	
+community base bamaco initiative	Madagali	Adamawa	10.893	13.619	0	
+College Clinic Gang Woki	Jada	Adamawa	8.457	12.086	0	
+community secondary school (CPS)	Ogba/Egbema/Ndoni	Rivers	5.334	6.647	0	
+Rivers Transport Company RTC	Port-Harcourt	Rivers	4.817	7.007	0	
+Imo Transport Company ITC Park	Port-Harcourt	Rivers	4.816	7.008	0	
+Isaac Jasper Boro College of Education, Sagbama	Sagbama	Bayelsa	5.151	6.194	0	
+Federal Government Girl's College, Imiringi	Ogbia	Bayelsa	4.862	6.373	0	
+Federal Science and Technical College, Tungbo	Sagbama	Bayelsa	5.131	6.171	0	
+Cedar Court British International School	Yenegoa	Bayelsa	4.934	6.284	0	
+St. Joseph's College, Ondo	Ondo West	Ondo	7.104	4.818	0	
+Jesus college	Oturkpo	Benue	7.204	8.153	0	
+Community Health Clinic	Gbako	Niger	9.162	6.112	0	
+community primary school, bungalow	Ifo	Ogun	6.807	3.203	0	
+community primary school, ijoko-lemode	Ifo	Ogun	6.730	3.285	0	
+community primary school, olorunsogo	Ewekoro	Ogun	6.875	3.317	0	
+st. collemciles primary school. ofin	Shagamu	Ogun	6.847	3.655	0	
+Community Primaryschool, Orile-Ifo	Ifo	Ogun	6.688	3.332	0	
+Community Primary School, Olorunsogo	Ado Odo/Ota	Ogun	6.594	2.935	0	
+St. Collemciles Primary School. Ofin	Ado Odo/Ota	Ogun	6.609	2.994	0	
+Community Primary School, Tigbo	Ado Odo/Ota	Ogun	6.591	2.945	0	
+Community Primary School, Ilupeju	Ado Odo/Ota	Ogun	6.683	3.237	0	
+Community Primary School, Ijomu	Ado Odo/Ota	Ogun	6.709	3.237	0	
+Community Primary School, Araromi Oke-Aro	Ado Odo/Ota	Ogun	6.667	3.129	0	
+Community Primary School New-Lemode	Ifo	Ogun	6.800	3.184	0	
+Community Primary School,Owode Titun	Ado Odo/Ota	Ogun	6.689	3.022	0	
+Community Primary School, Akeredolu	Ado Odo/Ota	Ogun	6.671	3.058	0	
+Community Primary School, Wasimi Ajibawo	Ifo	Ogun	6.692	3.367	0	
+Community Primary School, Onibudo	Ado Odo/Ota	Ogun	6.681	3.229	0	
+Community Primary School, Ijigbo	Ado Odo/Ota	Ogun	6.586	3.075	0	
+Community Primary School, David Camp	Ado Odo/Ota	Ogun	6.548	2.948	0	
+Imoro Ogijo Comm. Primary School Ogijo	Ìjẹ̀bú Òde	Ogun	6.807	3.909	0	
+Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.552	3.045	0	
+Community Primary School, Kajola Orile	Ifo	Ogun	6.809	3.210	0	
+Community Primary School, Olambe	Ado Odo/Ota	Ogun	6.651	2.983	0	
+Community Primary School,Iloye	Ifo	Ogun	6.749	3.308	0	
+Community Primary School, Adiyan	Shagamu	Ogun	6.806	3.591	0	
+Community Primary School, Onipetesi	Ifo	Ogun	6.760	3.107	0	
+Community Primary School School, Obasa	Ifo	Ogun	6.835	3.123	0	
+Community Primary School, Akera	Ìjẹ̀bú Òde	Ogun	6.808	3.912	0	
+Community Primary School, Abule Sule	Ìjẹ̀bú Òde	Ogun	6.821	3.915	0	
+Community Primary School, Mose	Ifo	Ogun	6.684	3.298	0	
+Salvation Army School, Coker	Ado Odo/Ota	Ogun	6.709	3.236	0	
+Ilupeju Community Primary School I, Iyana Iyesi	Ifo	Ogun	6.767	3.147	0	
+Communty Primary School, Ago-Ajeri	Ifo	Ogun	6.700	3.303	0	
+Community Primary School, Igbusi	Ifo	Ogun	6.803	3.195	0	
+Community Primary School, Ogungbade	Ìjẹ̀bú Òde	Ogun	6.814	3.923	0	
+Community School, Moboluwaduro	Ìjẹ̀bú Òde	Ogun	6.794	3.947	0	
+Ilupeju Community Primary School Ii, Iyana Iyesi	Ìjẹ̀bú Òde	Ogun	6.825	3.910	0	
+Community Primary School, Olaparun	Ado Odo/Ota	Ogun	6.504	3.102	0	
+Community Primary School, Ojo-Ogundele	Ifo	Ogun	6.819	3.157	0	
+Comminity Primary School Olomu Agosi	Ado Odo/Ota	Ogun	6.542	2.965	0	
+Community Primary School, Legun	Shagamu	Ogun	6.847	3.636	0	
+Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.684	3.300	0	
+Community Primaryschool, Emily-Obadina	Ado Odo/Ota	Ogun	6.579	3.087	0	
+Community Primary, Ojodu Abiodun	Ifo	Ogun	6.807	3.203	0	
+Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.740	3.216	0	
+Community Primary School, Ii Ojodu-Abiodun	Ado Odo/Ota	Ogun	6.703	3.271	0	
+Community Primary School, Warewa	Shagamu	Ogun	6.852	3.651	0	
+Community Primary School School, Obasa	Ewekoro	Ogun	6.877	3.307	0	
+Molupa Community Primary School, Molipa.	Odogbolu	Ogun	6.850	3.911	0	
+Emily Tinuosho Obadina Community School Ii, Ajowa	Ifo	Ogun	6.831	3.195	0	
+Community Primaryschool, Emily-Obadina	Ifo	Ogun	6.830	3.198	0	
+Comminity Primary School Olomu Agosi	Ifo	Ogun	6.829	3.205	0	
+Community Primaryschool, Orile-Ifo	Ifo	Ogun	6.827	3.186	0	
+Community Primary School, Kajola Orile	Ifo	Ogun	6.817	3.206	0	
+Salvation Army School, Coker	Ifo	Ogun	6.816	3.196	0	
+Community Primary School, Olaparun	Ifo	Ogun	6.811	3.158	0	
+Community Primary School, Mose	Ifo	Ogun	6.805	3.193	0	
+Community Primary School, Abata-Titun	Ifo	Ogun	6.801	3.200	0	
+Local Government Primary School, Coker Market	Ifo	Ogun	6.770	3.135	0	
+Community Primary School, Ogungbade	Ifo	Ogun	6.768	3.225	0	
+Community Primary School, Abule Sule	Ifo	Ogun	6.765	3.258	0	
+Community Primary School, Igbusi	Ifo	Ogun	6.755	3.185	0	
+Community Primary School,Owode Titun	Ifo	Ogun	6.755	3.230	0	
+Communty Primary School, Ago-Ajeri	Ifo	Ogun	6.751	3.273	0	
+Community Primary School, Onipetesi	Ifo	Ogun	6.747	3.284	0	
+Community Primary School, David Camp	Ifo	Ogun	6.743	3.278	0	
+Community Primary School, Legun	Ifo	Ogun	6.725	3.348	0	
+Community Primary School, Abudu	Ado Odo/Ota	Ogun	6.724	3.219	0	
+Imoro Ogijo Comm. Primary School Ogijo	Shagamu	Ogun	6.723	3.499	0	
+Community Primary School New-Lemode	Ifo	Ogun	6.722	3.288	0	
+Community Primary School, Warewa	Ifo	Ogun	6.716	3.298	0	
+Community Primary School, Olaogun	Ifo	Ogun	6.716	3.298	0	
+Community Primary School, Onibudo	Ifo	Ogun	6.716	3.354	0	
+Community Primary School, Olambe	Ifo	Ogun	6.712	3.307	0	
+Community Primary School,Iloye	Ado Odo/Ota	Ogun	6.712	3.265	0	
+Community Primary School, Adiyan	Ifo	Ogun	6.711	3.307	0	
+Community Primary School, Araromi Oke-Aro	Ifo	Ogun	6.704	3.320	0	
+Community Primary School, Akeredolu	Ifo	Ogun	6.702	3.355	0	
+Community Primary School, Temidire	Ifo	Ogun	6.702	3.342	0	
+Community School, Moboluwaduro	Ifo	Ogun	6.700	3.303	0	
+Community Primary School, Akera	Ado Odo/Ota	Ogun	6.693	3.286	0	
+Community Primary School, Aboro	Ifo	Ogun	6.690	3.294	0	
+Community Primary School, Ilupeju	Ifo	Ogun	6.688	3.332	0	
+Oba Moshood Oyede Community Primary School, Onipanu	Ado Odo/Ota	Ogun	6.687	3.204	0	
+Ilupeju Community Primary School Ii, Iyana Iyesi	Ado Odo/Ota	Ogun	6.680	3.185	0	
+Ilupeju Community Primary School I, Iyana Iyesi	Ado Odo/Ota	Ogun	6.673	3.176	0	
+Community Primary School, Wasimi Ajibawo	Ado Odo/Ota	Ogun	6.671	3.058	0	
+Community Primary School, Ojo-Ogundele	Ifo	Ogun	6.663	3.360	0	
+Community Primary, Ojodu Abiodun	Ifo	Ogun	6.649	3.370	0	
+Community Primary School, Ijigbo	Ado Odo/Ota	Ogun	6.596	2.954	0	
+Community Primary School, Orile Igboko	Ado Odo/Ota	Ogun	6.586	3.075	0	
+Community Primary School, Tigbo	Ado Odo/Ota	Ogun	6.737	3.186	0	
+Atoyo Ogbugba Com. Primary School, Atoyo	Shagamu	Ogun	6.848	3.652	0	
+COVENANT HALL SCHOOL	Eti Osa	Lagos	6.444	3.513	0	
+Community Primary School, Apebi	Ìjẹ̀bú Òde	Ogun	6.813	3.927	0	
+Mbanugo Bus stop coal camp	Enugu South	Enugu	6.419	7.478	0	
+City girls College	Enugu North	Enugu	6.433	7.503	0	
+Coal City University Enugu	Enugu North	Enugu	6.462	7.587	0	
+Adorable British College	Enugu North	Enugu	6.455	7.558	0	
+Comfort Zone Hospital, Akingbile-Moniya Road	Akinyele	Oyo	7.514	3.910	0	
+Palmgrove Christian Community	Abak	Akwa Ibom	4.999	7.766	2	
+college of nursing/midwifery	Ngelzarma	Yobe	11.728	11.960	0	
+Abuato Confluence	Ndokwa East	Delta	5.947	6.636	2	
+Stars International College	Ìkòròdú	Lagos	6.626	3.501	0	
+Abadoned construction of Oba Airport	Idemili South	Anambra	6.088	6.832	2	
+Mufutau Lanihun College	Egbeda	Oyo	7.394	3.942	0	
+Community Primary School, Barayira Tai	Tai	Rivers	4.744	7.203	0	
+Cottage Hospital, Atanda	Ifelodun	Kwara	8.320	4.737	0	
+Community LGEA Pry School, Atanda	Ifelodun	Kwara	8.319	4.735	0	
+Ajio Community Secondary School, Ajio,	Kwande	Benue	6.797	9.210	0	
+Dore Numa College, Warri	Warri South	Delta	5.508	5.762	0	
+Community Secondary School, Korokoro	Tai	Rivers	4.734	7.311	0	
+Dore Numa College Warri	Warri South	Delta	5.508	5.762	0	
+Bright Hope Standard College	Obio/Akpor	Rivers	4.859	7.114	0	
+St John's College Jos	Jos North	Plateau	9.931	8.876	0	
+Conoil fueling station	Jos North	Plateau	9.922	8.890	0	
+Conoil	Jos North	Plateau	9.904	8.893	0	
+JDS multi concept LTD.	Jos North	Plateau	9.939	8.868	0	
+Shuma Oil Co. Nig Ltd	Jos North	Plateau	9.901	8.896	0	
+AIB and company Ltd	Jos North	Plateau	9.960	8.888	0	
+Islahudeen Model College, Ido-Osun	Egbedore	Osun	7.782	4.491	0	
+Muslim Model College, Ido-Osun	Egbedore	Osun	7.783	4.487	0	
+St Leo's College Abeokuta	Abeokuta South	Ogun	7.128	3.329	0	
+Catholic Comprehensive High School	Abeokuta South	Ogun	7.132	3.333	0	
+Ikpisan Community Warri Island	Warri South	Delta	5.503	5.723	2	
+Jesuit Memorial College Port Harcourt	Ikwerre	Rivers	4.926	6.967	0	
+Confidence INT'L Academy	Municipal Area Council	FCT Abuja	9.142	7.381	0	
+The Day Spring College	Municipal Area Council	FCT Abuja	9.150	7.366	0	
+Command Secondary School Abakaliki	Abakaliki	Ebonyi	6.257	8.111	0	
+Nkwegu Community Primary School	Abakaliki	Ebonyi	6.252	8.110	0	
+Iyara	Warri South	Delta	5.508	5.762	2	Atso-Olú community
+Nana College Warri	Warri South	Delta	5.521	5.740	0	
+Okere Community	Warri South	Delta	5.526	5.745	2	
+Dom Domingos College Warri	Warri South	Delta	5.538	5.743	0	
+Federal Government College Warri	Warri South	Delta	5.530	5.724	0	
+Yonwuren College Warri	Warri South	Delta	5.529	5.717	0	
+Diagnoroy Consult ltd	Municipal Area Council	FCT Abuja	9.018	7.421	0	
+Hussey College Warri	Warri South	Delta	5.523	5.749	0	
+Confidence age care home	Jos North	Plateau	9.971	8.849	0	
+Community Secondary School Obelle	Ikwerre	Rivers	5.072	6.812	0	
+College of Agric	Bauchi	Bauchi	10.284	9.797	0	
+Command Secondary School	Bauchi	Bauchi	10.334	9.815	0	
+Command Children School	Bauchi	Bauchi	10.325	9.823	0	
+City Comprehensive	Bauchi	Bauchi	10.319	9.823	0	
+Thomas Moore College of Health Technology	Bauchi	Bauchi	10.272	9.796	0	
+General Hassan Usman Katsina (Unity College)	Bauchi	Bauchi	10.278	9.801	0	
+Thomas Moore College of Health Technology	Bauchi	Bauchi	10.320	9.833	0	
+Baptist College of Theology	Jos North	Plateau	9.907	8.945	0	
+Crane College	Eti Osa	Lagos	6.472	3.629	0	
+Government Technocal College, Erin-Ile	Oyun	Kwara	8.112	4.704	0	
+Cottage Hospital	Burutu	Delta	5.351	5.344	0	
+Kwaine College of Education (KCOE) Yelanguruza Gombe	Gombe	Gombe	10.272	11.196	0	
+All Saints' College Gombe	Gombe	Gombe	10.300	11.146	0	
+Gombe state university College	Gombe	Gombe	10.305	11.138	0	
+Dhadi Petroleum Co. Nig. Limited	Gombe	Gombe	10.307	11.149	0	
+faculty of science complex park	Gombe	Gombe	10.306	11.175	0	
+Iworo Ajido Model College	Badagry	Lagos	6.437	2.974	0	
+ETF-CERC GOMBE Admin block comprence room 2	Gombe	Gombe	10.303	11.160	0	
+Prof. Idowu Sobowale School of Communication	Ìkòròdú	Lagos	6.668	3.637	0	
+College of Enivornmental Sciences and Management	Ìkòròdú	Lagos	6.671	3.639	0	
+Ark Of God Covenant Clinics And Maternity	Kaduna South	Kaduna	10.467	7.410	0	
+Primary Haelth Care No1 River Line Road Kabala Coastin	Kaduna North	Kaduna	10.501	7.440	0	
+Police College Clinic Kaduna	Kaduna North	Kaduna	10.510	7.444	0	
+Abakawa Community Health Center	Kaduna North	Kaduna	10.547	7.426	0	
+Unguwar Mai Chibi Comprehensive Health Care	Kaduna South	Kaduna	10.451	7.433	0	
+Gomna Awan Hospital Queen Amina College Pobox 211	Kaduna South	Kaduna	10.475	7.423	0	
+Cocin Clinic And Maternity	Chikun	Kaduna	10.447	7.435	0	
+Vineyard Convalescent Hospital	Ojo	Lagos	6.459	3.140	0	
+Edo Convalescent Homeclinic And Easy Delivery	Ojo	Lagos	6.458	3.154	0	
+Conner Stone Medical Center	Ojo	Lagos	6.458	3.159	0	
+Bolus Coudlescent Center	Ojo	Lagos	6.484	3.187	0	
+Oluwabamise Convalescent and Maternity Home	Alimosho	Lagos	6.578	3.207	0	
+Cele Apata Community Health Center	Alimosho	Lagos	6.575	3.215	0	
+Ogbomoshotedo Community Health Cetre	Alimosho	Lagos	6.575	3.258	0	
+Max Health Consultant Hospital Ltd	Alimosho	Lagos	6.578	3.263	0	
+B Rock Convalescent And Maternity Home	Alimosho	Lagos	6.550	3.260	0	
+Cornell Health Laboratory Service	Alimosho	Lagos	6.529	3.259	0	
+Cj Confidence Care	Alimosho	Lagos	6.559	3.245	0	
+Datam Conv Health Care Center	Alimosho	Lagos	6.523	3.251	0	
+Hammed Conwale Hospital	Mushin	Lagos	6.528	3.345	0	
+Saltak Consualtant Home	Mushin	Lagos	6.528	3.351	0	
+Alhameed Conval Hospital	Mushin	Lagos	6.526	3.355	0	
+Belan Consultant Home	Mushin	Lagos	6.514	3.342	0	
+St Femos Conual Home	Mushin	Lagos	6.509	3.329	0	
+Coker Primary Health Center	Mushin	Lagos	6.548	3.362	0	
+Glasmithkline Company Clinic	Mushin	Lagos	6.555	3.354	0	
+Continental Hospital And Maternity Home	Mushin	Lagos	6.528	3.359	0	
+School of Computing	Akure South	Ondo	7.305	5.132	0	
+REHOBOTH COLLEGE GATE	Akure South	Ondo	7.287	5.152	0	
+Rehoboth College Of Health	Akure South	Ondo	7.286	5.152	0	
+Christ Bay Consultant Hospital	Akure South	Ondo	7.291	5.153	0	
+Life Spring's Covenant Life Nursery & Primary School	Akure South	Ondo	7.289	5.148	0	
+Solademi shopping complex	Iwo	Osun	7.628	4.160	0	
+Federal college of Education	Iwo	Osun	7.645	4.171	0	
+Common Sight Ltd	Amuwo Odofin	Lagos	6.459	3.296	0	
+St Grace Nursing and Convascent Home	Amuwo Odofin	Lagos	6.456	3.293	0	
+Newton College	Iwo	Osun	7.650	4.161	0	
+Vico Hope International College	Iwo	Osun	7.651	4.174	0	
+Shopping Complex Ejigbo	Ejigbo	Osun	7.902	4.314	0	
+Adeeyo Shopping Complex	Ejigbo	Osun	7.902	4.315	0	
+Aminat Convalesce Home	Amuwo Odofin	Lagos	6.442	3.312	0	
+Rabjib college	Jos North	Plateau	9.913	8.888	0	
+Brotherhood Model College	Calabar South	Cross River	4.933	8.316	0	
+Community market	Kosofe	Lagos	6.609	3.430	0	
+PILLARS COLLEGE	Alimosho	Lagos	6.522	3.233	0	
+Ikeoluwa conprehensive college	Alimosho	Lagos	6.531	3.234	0	
+Ike Oluwa comprehensive college	Alimosho	Lagos	6.531	3.234	0	
+Alpha comprehensive schools	Alimosho	Lagos	6.530	3.232	0	
+Connection Private school	Alimosho	Lagos	6.525	3.228	0	
+Denoy kids academy & college	Alimosho	Lagos	6.522	3.228	0	
+USMAN BN AFFAN COLLEGE OF ISLAMIC STUDIES	Ungongo	Kano	12.049	8.572	0	
+INTELLECTUAL SCIENCE COMMUNITY SCHOOL	Ungongo	Kano	12.048	8.571	0	
+BARDEN BOKO COLLEGE	Ungongo	Kano	12.039	8.570	0	
+ASSAYYADA AISHA COLLEGE	Ungongo	Kano	12.035	8.565	0	
+ALQAMAR COLLEGE KANO	Gwale	Kano	11.963	8.478	0	
+DORAYI COMMUNITY SCHOOL	Gwale	Kano	11.958	8.470	0	
+MADINA;ALKHAIR COCKING GAS AND ENGINEERING	Gwale	Kano	11.962	8.476	0	
+BASIRU COAL STATION	Gwale	Kano	11.965	8.476	0	
+PREMIER COLLEGE OF ART AND SCIENCE SCHOOL	Gwale	Kano	11.963	8.480	0	
+MADINA COLLEGE KANO	Gwale	Kano	11.966	8.470	0	
+MADINA COLLEGE OF HEALTH SCIENCES	Gwale	Kano	11.967	8.478	0	
+AL-FAUZ GLOBAL COLLEGE	Gwale	Kano	11.968	8.470	0	
+PEACE INTERNATIONAL COLLEGE	Gwale	Kano	11.967	8.475	0	
+DOGARA MODEL COLLEGE	Gwale	Kano	11.966	8.479	0	
+AL AZHAR COLLEGE OF SCIENCE AND HUMANITIES	Gwale	Kano	11.962	8.476	0	
+Colare Bornu	Gulani	Yobe	11.097	11.545	2	Kolare Bornu
+Gani Development College Pil Ganii	Langtang North	Plateau	9.187	9.878	0	
+Conoil	Onitsha South	Anambra	6.130	6.769	0	
+Shining Grace College & Salama Triumph Private School	Jos North	Plateau	9.945	8.871	0	
+Conoil Petrol Station	Ikpoba-Okha	Edo	6.298	5.631	0	
+jegba marina badagry/commando jetty	Badagry	Lagos	6.416	2.876	0	
+Coconut Landing	Amuwo Odofin	Lagos	6.438	3.336	0	
+Nogohom Community Primary School	Jos North	Plateau	9.962	8.933	0	
+Confidence Model International School	Jos North	Plateau	9.930	8.908	0	
+Cocin Treasure Academy	Jos North	Plateau	9.930	8.918	0	
+Cocin Clinic	Bauchi	Bauchi	10.271	9.792	0	
+Matanmi Shopping Complex, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.484	4.564	0	
+Kingsland College oke foma ilorin, Ilorin, Nigeria	Ilorin West	Kwara	8.494	4.505	0	
+HisGrace College of Education Ilorin, Mubo Street, Oko Erin, Nigeria	Ilorin East	Kwara	8.503	4.572	0	
+Conoil, Challenge Road, Ilorin, Nigeria	Ilorin East	Kwara	8.492	4.567	0	
+Total comfort filling station, Agbabiaka Rd, Ilorin, Nigeria	Ilorin East	Kwara	8.463	4.588	0	
+St. Joseph Centenary Catholic College, Office Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.486	4.571	0	
+ITA AJIA Shopping Complex, Oko Erin, Nigeria	Ilorin East	Kwara	8.500	4.551	0	
+Galad College Of Advanced Studies, Tanke Road, Ilorin, Nigeria	Ilorin East	Kwara	8.481	4.612	0	
+Computer Village, New Yidi Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.480	4.555	0	
+Colony 2 Estate, Oke Ogun, Nigeria	Ilorin East	Kwara	8.473	4.630	2	
+Charis Shopping Complex, Post Office, Ilorin, Nigeria	Ilorin East	Kwara	8.488	4.563	0	
+Baboko Community Secondary School, Oko Erin, Nigeria	Ilorin East	Kwara	8.490	4.539	0	
+YUSJIB COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY (YUSCOHTECH)	Ilorin South	Kwara	8.432	4.596	0	
+Thinkers Corner	Enugu East	Enugu	6.471	7.527	2	
+Coal Camp	Enugu North	Enugu	6.464	7.457	2	
+College of Law	Ovia North-East	Edo	6.745	5.404	0	
+College of Engineering	Ovia North-East	Edo	6.742	5.407	0	
+College of natural and applied science	Ovia North-East	Edo	6.741	5.405	0	
+College Of Law Administrative Building	Ovia North-East	Edo	6.745	5.403	0	
+College Of Business & Management Studies	Ovia North-East	Edo	6.740	5.405	0	
+Cocean	Owerri Municipal	Imo	5.491	7.053	0	
+Community Market, Erin-Ijesa	Oriade	Osun	7.569	4.894	0	
+Garu Islamic College Of Health Technology Bauchi	Bauchi	Bauchi	10.305	9.788	0	
+Cornelius-ama	Opobo/Nkoro	Rivers	4.503	7.480	2	
+imore community	Amuwo Odofin	Lagos	6.427	3.281	0	
+Five Cowries/Falomo (VI)	Eti Osa	Lagos	6.442	3.427	0	
+Awori Junior College, Ojo	Ojo	Lagos	6.459	3.200	0	
+Dynamic Foundation College	Ojo	Lagos	6.462	3.170	0	
+National Postgraduate Medical College of Nigeria	Ojo	Lagos	6.491	3.144	0	
+Bethel Concept International Model Academy	Karu	Nasarawa	8.955	7.686	0	
+Galaxy Academy College	Karu	Nasarawa	9.040	7.597	0	
+Community Secondary School Okoloile	Andoni	Rivers	4.501	7.459	0	
+Community Primary School Okoloile	Andoni	Rivers	4.502	7.459	0	
+Country Model School	Karu	Nasarawa	8.959	7.674	0	
+Conoil Petrol Station Junction Akin Mabogunje Drive	Municipal Area Council	FCT Abuja	8.967	7.352	0	
+Kabo Communication Center	Municipal Area Council	FCT Abuja	9.131	7.389	0	
+Preshy Cakes & Confectioneries	Municipal Area Council	FCT Abuja	9.137	7.385	0	
+Afoson And Company;Usman Fashion Store	Municipal Area Council	FCT Abuja	9.129	7.391	0	
+Ifiesta Cosmetics House	Municipal Area Council	FCT Abuja	9.134	7.388	0	
+Heritage Computers	Municipal Area Council	FCT Abuja	9.112	7.378	0	
+Squareroot Multy Services Company Limited	Municipal Area Council	FCT Abuja	9.142	7.372	0	
+Global Tech Computers	Municipal Area Council	FCT Abuja	9.110	7.384	0	
+Louis Pasteur Hospital Complex Limited, Abuja	Municipal Area Council	FCT Abuja	9.111	7.377	0	
+Abuja Continental Hotel Junction	Municipal Area Council	FCT Abuja	9.063	7.479	0	
+Beauty&Katz Multi Collections	Municipal Area Council	FCT Abuja	8.966	7.380	0	
+Corolla Bus Stop	Municipal Area Council	FCT Abuja	9.050	7.487	0	
+Father Otis Communication	Municipal Area Council	FCT Abuja	8.972	7.362	0	
+De Muzik Bus Stop Concept & Entertainment (Deejay Prezzy)	Municipal Area Council	FCT Abuja	9.026	7.400	0	
+Anids Mass Transit Company	Municipal Area Council	FCT Abuja	9.063	7.432	0	
+War College Bus Stop	Municipal Area Council	FCT Abuja	9.050	7.488	0	
+Main Bridge Computer Network Nig Ltd.	Municipal Area Council	FCT Abuja	9.076	7.399	0	
+The Bridge Concepts Nigeria Limited	Municipal Area Council	FCT Abuja	9.072	7.445	0	
+Computer Science Department	Kaduna North	Kaduna	10.610	7.446	0	
+DIKOR Comprehensive College	Badagry	Lagos	6.428	2.808	0	
+Lagos State Senior Model College, Kankon	Badagry	Lagos	6.421	2.759	0	
+Lagos State Junior Model College Kankon	Badagry	Lagos	6.420	2.758	0	
+Westerfield College	Municipal Area Council	FCT Abuja	9.095	7.483	0	
+Coker	Surulere	Lagos	6.479	3.334	2	
+Trade Fair Complex	Amuwo Odofin	Lagos	6.469	3.254	2	
+Ajaka Comprehensive Health Centre	Igalamela-Odolu	Kogi	7.176	6.825	0	
+Cottage Hospital Okposi	Ohaozara	Ebonyi	6.031	7.808	0	
+Community High School, Aguluzigbo	Aguata	Anambra	6.043	7.024	0	
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.067	7.500	1	
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.043	7.457	1	
+Jonathan Coker Road	Ifako/Ijaye	Lagos	6.658	3.319	1	
+College Road	Ifako/Ijaye	Lagos	6.643	3.329	1	
+Command Secondary School Road	Alimosho	Lagos	6.640	3.261	1	
+Community Road	Ikeja	Lagos	6.602	3.356	1	
+Bishop Aboyade Cole Street	Eti Osa	Lagos	6.436	3.439	1	
+Coker Road	Mushin	Lagos	6.555	3.362	1	
+Progress College Road	Ifako/Ijaye	Lagos	6.652	3.311	1	
+Administrative Staff College Of Nigeria	Badagry	Lagos	6.413	2.940	0	ASCON
+Kings College Road	Lagos Island	Lagos	6.449	3.399	1	
+Cole Street	Mushin	Lagos	6.513	3.361	1	
+Fiddle Commercial Avenue	Port-Harcourt	Rivers	4.803	7.032	1	
+Corporation Drive	Eti Osa	Lagos	6.457	3.410	1	
+New Court Road	Ibadan South West	Oyo	7.386	3.883	1	
+Golf Course Road	Kaduna North	Kaduna	10.521	7.447	1	
+Coronation Crescent	Kaduna North	Kaduna	10.539	7.438	1	
+Sarduna College Road	Kaduna North	Kaduna	10.568	7.454	1	
+Ivory Coast Street	Kaduna North	Kaduna	10.559	7.467	1	
+Conakary Avenue	Kaduna North	Kaduna	10.559	7.465	1	
+Commissioner Road	Kaduna North	Kaduna	10.569	7.458	1	
+Community Bank Road	Kaduna South	Kaduna	10.528	7.404	1	
+Sarduna College Road	Kaduna North	Kaduna	10.574	7.462	1	
+Cook Road	Oredo	Edo	6.340	5.630	1	
+Old Edo College Road	Oredo	Edo	6.343	5.619	1	
+College Road	Oredo	Edo	6.327	5.600	1	
+Commercial way	Oredo	Edo	6.315	5.622	1	
+Commercial Avenue	Oredo	Edo	6.317	5.624	1	
+Col.Paul Ogbebor Crescent	Oredo	Edo	6.333	5.607	1	
+4th College Lane	Oredo	Edo	6.326	5.600	1	
+1st Christ Coming Close	Oredo	Edo	6.329	5.611	1	
+Coronation Close	Oredo	Edo	6.327	5.620	1	
+Uzebu Community Secretariat	Oredo	Edo	6.340	5.611	0	
+Centre for Community Development Education	Oredo	Edo	6.327	5.621	0	
+Constantine Street	Municipal Area Council	FCT Abuja	9.065	7.478	1	
+University College Hospital (UCH)	Ibadan North	Oyo	7.401	3.898	0	
+APEX COMPUTER INSTITUTE	Egor	Edo	6.374	5.633	0	
+Federal Housing Complex Road	Eti Osa	Lagos	6.438	3.433	1	
+Adeniyi Coker Street	Eti Osa	Lagos	6.426	3.445	1	
+Coates Street	Lagos Mainland	Lagos	6.484	3.390	1	
+Cole Street	Surulere	Lagos	6.508	3.344	1	
+Jatto Memorial Christian College	Oredo	Edo	6.325	5.589	0	
+New Convenant Street	Ibadan North West	Oyo	7.394	3.876	1	
+Cole Street	Lagos Island	Lagos	6.459	3.381	1	
+St. Gregory's College Road	Eti Osa	Lagos	6.448	3.410	1	
+Saint Gregory's College	Eti Osa	Lagos	6.446	3.412	0	
+Cowbell Way	Oshodi/Isolo	Lagos	6.527	3.333	1	
+Community Street	Kosofe	Lagos	6.555	3.402	1	
+Ashabi Cole Street	Ikeja	Lagos	6.620	3.356	1	
+Ashabi Cole Street	Ikeja	Lagos	6.621	3.355	1	
+Community Street	Ifako/Ijaye	Lagos	6.645	3.341	1	
+Akinola Cole Crescent	Ikeja	Lagos	6.612	3.344	1	
+Cow Lane	Agege	Lagos	6.623	3.327	1	
+Coker Road	Ifako/Ijaye	Lagos	6.639	3.330	1	
+Nelson Cole Avenue	Ifako/Ijaye	Lagos	6.650	3.326	1	
+Coker Close	Ifako/Ijaye	Lagos	6.641	3.329	1	
+Georgius Cole Street	Ifako/Ijaye	Lagos	6.642	3.325	1	
+Ayoola Coker Street	Ikeja	Lagos	6.583	3.353	1	
+Cottage Drive	Eti Osa	Lagos	6.439	3.463	1	
+Commercial Road	Apapa	Lagos	6.439	3.373	1	
+Olawale Cole Ontiri Avenue	Eti Osa	Lagos	6.453	3.474	1	
+Michael Olawale Cole Drive	Eti Osa	Lagos	6.458	3.477	1	
+Ladipo Omotesho Cole Street	Eti Osa	Lagos	6.434	3.465	1	
+Patience Coker Street	Eti Osa	Lagos	6.432	3.433	1	
+Ojora Colony	Eti Osa	Lagos	6.436	3.422	1	
+Princely Court Road	Eti Osa	Lagos	6.426	3.453	1	
+Itirin Court	Eti Osa	Lagos	6.434	3.433	1	
+Constitution Road	Kaduna North	Kaduna	10.502	7.429	1	
+Race Course Road	Nassarawa	Kano	12.003	8.554	1	
+Race Course Road	Nassarawa	Kano	12.007	8.556	1	
+Race Course Road	Nassarawa	Kano	11.994	8.550	1	
+Copper Avenue	Amuwo Odofin	Lagos	6.474	3.301	1	
+College Road	Apapa	Lagos	6.467	3.352	1	
+Nigerian College of Aviation Technology	Sabon Gari	Kaduna	11.134	7.685	0	NCAT
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.058	7.489	1	
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.048	7.472	1	
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.051	7.478	1	
+Constitution Avenue	Municipal Area Council	FCT Abuja	8.997	7.468	1	
+Conakry Street	Municipal Area Council	FCT Abuja	9.062	7.469	1	
+Abuja Shopping Complex	Municipal Area Council	FCT Abuja	9.032	7.483	0	
+Mohammed Bello Councillor	Tarauni	Kano	11.971	8.558	1	
+Ilellah Shopping Complex Roundabout	Bauchi	Bauchi	10.306	9.829	1	
+High Court road	Ilorin East	Kwara	8.485	4.568	1	
+Coast-U Feli Street	Surulere	Lagos	6.503	3.343	1	
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.063	7.496	1	
+Royal Height Comprehensive College	Egor	Edo	6.364	5.630	0	
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.055	7.484	1	
+Goose Berry Court	Eti Osa	Lagos	6.494	3.610	1	
+Cooperative Villa Road	Eti Osa	Lagos	6.508	3.611	1	
+High Court Road	Oredo	Edo	6.324	5.624	1	
+Federal College of Education Pankshin	Pankshin	Plateau	9.335	9.394	0	
+Omotashe Compound	Mushin	Lagos	6.511	3.337	1	
+Adeyemi Compound	Mushin	Lagos	6.512	3.340	1	
+Comr. Omoregie Way	Oredo	Edo	6.299	5.588	1	
+Golf Course Avenue	Oredo	Edo	6.326	5.620	1	
+Oba Ewuare College Lane	Oredo	Edo	6.297	5.602	1	
+common road	Numan	Adamawa	9.461	12.026	1	
+Cole Street	Mushin	Lagos	6.530	3.365	1	
+Coker Street	Mushin	Lagos	6.532	3.359	1	
+Commercial Road	Shomolu	Lagos	6.516	3.392	1	
+College of Medicine Road	Lagos Mainland	Lagos	6.510	3.396	1	
+Commercial Avenue	Lagos Mainland	Lagos	6.506	3.376	1	
+Community Road	Shomolu	Lagos	6.525	3.391	1	
+College Road	Osogbo	Osun	7.774	4.548	1	
+Aga Community Road	Egbedore	Osun	7.779	4.478	1	
+Coca Cola Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.464	4.561	1	
+Comfort street	Amuwo Odofin	Lagos	6.458	3.299	1	
+Community Road	Ifako/Ijaye	Lagos	6.676	3.291	1	
+Housing Complex Road	Warri South	Delta	5.545	5.741	1	
+Cole-emuze Avenue	Oredo	Edo	6.325	5.594	1	
+Baptist College Of Theology	Oredo	Edo	6.349	5.611	0	
+Federal College of Education, Obudu	Obudu	Cross River	6.678	9.170	0	
+Golf Course Road	Oredo	Edo	6.316	5.618	1	
+College Road	Enugu East	Enugu	6.483	7.524	1	
+Conrad Basah	Enugu East	Enugu	6.480	7.485	1	
+Coal City Garden Estate	Enugu North	Enugu	6.449	7.489	1	
+College of Education Road	Enugu North	Enugu	6.460	7.499	1	
+Federal Government College Enugu	Enugu South	Enugu	6.423	7.523	1	
+Police Detective College Road	Enugu South	Enugu	6.422	7.485	1	
+Colliery Avenue	Enugu North	Enugu	6.444	7.493	1	
+Court Avenue	Enugu North	Enugu	6.440	7.523	1	
+Coal Camp Medical Centre Road	Enugu South	Enugu	6.418	7.477	1	
+Police Detective College Road	Enugu South	Enugu	6.420	7.484	1	
+College Road Link	Enugu North	Enugu	6.431	7.499	1	
+Coal City	Enugu North	Enugu	6.450	7.487	1	
+Covenant Avenue	Enugu East	Enugu	6.484	7.517	1	
+Cornelia Drive	Enugu North	Enugu	6.462	7.524	1	
+Colliery Avenue	Enugu North	Enugu	6.446	7.490	1	
+Colliery Street	Enugu North	Enugu	6.432	7.479	1	
+College Road Ogui	Enugu North	Enugu	6.431	7.499	1	
+Court Avenue	Enugu North	Enugu	6.444	7.485	1	
+College Avenue	Enugu South	Enugu	6.412	7.488	1	
+Collins Ejikeme Close	Enugu East	Enugu	6.495	7.509	1	
+Corner Stone Avenue	Enugu East	Enugu	6.496	7.511	1	
+Oguabor Community Road	Enugu North	Enugu	6.472	7.467	1	
+Railway Coperation Road	Enugu North	Enugu	6.450	7.501	1	
+Colliery Quarter Crescent	Enugu North	Enugu	6.431	7.481	1	
+Chief Cosmas Nwinya Street	Enugu South	Enugu	6.401	7.482	1	
+Commisioner Street	Enugu South	Enugu	6.385	7.476	1	
+Constitution Road	Enugu North	Enugu	6.448	7.484	1	
+National Trade Fair Complex Road	Enugu North	Enugu	6.463	7.481	1	
+Concrete Avenue	Enugu North	Enugu	6.450	7.495	1	
+Cooperative Boulevard	Enugu East	Enugu	6.474	7.492	1	
+College Road	Enugu East	Enugu	6.482	7.536	1	
+O'connor Road	Enugu North	Enugu	6.443	7.499	1	
+New Race Course Road	Nassarawa	Kano	11.998	8.556	1	
+Guidance and Counselling Unit	Sabon Gari	Kaduna	11.152	7.655	0	
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.073	7.506	1	
+Prince Cornelius Nnaji Street	Enugu North	Enugu	6.457	7.547	1	
+Colliery Quaters	Enugu North	Enugu	6.434	7.477	2	
+Thinkers Corner	Enugu North	Enugu	6.459	7.520	2	
+Federal Government College	Jere	Borno	11.813	13.185	0	
+Comfortable Store Crescent	Enugu East	Enugu	6.471	7.529	1	
+Combe Avenue	Enugu North	Enugu	6.452	7.505	1	
+cornwall road	Enugu East	Enugu	6.509	7.527	1	
+Colonel Asi Elua	Ifako/Ijaye	Lagos	6.652	3.339	1	
+Court Road	Tarauni	Kano	11.971	8.542	1	
+Coal Camp	Enugu South	Enugu	6.421	7.482	2	
+Community Road	Oshodi/Isolo	Lagos	6.504	3.298	1	
+Gaskiya College Road	Apapa	Lagos	6.466	3.359	1	
+Gaskiya College Road	Apapa	Lagos	6.466	3.355	1	
+Ayinikaiye Court	Ìkòròdú	Lagos	6.622	3.490	1	
+Taiwo Olugbenga Court	Ìkòròdú	Lagos	6.636	3.498	1	
+Faculty of Education Complex	Ungongo	Kano	11.973	8.430	0	
+Albasu Cottage Primary Health Centre	Albasu	Kano	11.668	9.128	0	
+Prime Collage International	Nassarawa	Kano	11.995	8.557	0	
+Fagwalawa Cottage General Hospital	Dambatta	Kano	12.316	8.685	0	
+Tony Chetta Collage	Fagge	Kano	12.029	8.531	0	
+Water Corporation Road	Eti Osa	Lagos	6.424	3.450	1	
+Wisdom Court	Eti Osa	Lagos	6.502	3.616	1	
+Olive Court	Eti Osa	Lagos	6.497	3.618	1	
+Ixora Court	Eti Osa	Lagos	6.497	3.616	1	
+Frangipani Court	Eti Osa	Lagos	6.498	3.614	1	
+Pine Court	Eti Osa	Lagos	6.497	3.613	1	
+Tulip Court	Eti Osa	Lagos	6.497	3.617	1	
+Royal Palm Court	Eti Osa	Lagos	6.502	3.613	1	
+Balsam Court	Eti Osa	Lagos	6.497	3.619	1	
+Drasilla Court	Eti Osa	Lagos	6.496	3.612	1	
+Benevolence Court	Eti Osa	Lagos	6.494	3.613	1	
+Femi Collins Street	Eti Osa	Lagos	6.490	3.583	1	
+Adifase Comprehensive Health Centre	Ibadan South West	Oyo	7.387	3.829	0	
+Lekki Conservation Center	Eti Osa	Lagos	6.443	3.535	1	
+Wurno Community Primary Health Center	Tafawa-Balewa	Bauchi	9.799	9.892	0	Burda Mph
+Cocin Dispensary	Tafawa-Balewa	Bauchi	9.693	9.462	0	
+Cocin Dispensary Tapshin	Pankshin	Plateau	9.487	9.453	0	
+College of Education	Katagum	Bauchi	11.675	10.210	0	
+Ogali Community Road	Eleme	Rivers	4.783	7.143	1	
+Okun-Ajah Community Road	Eti Osa	Lagos	6.429	3.591	1	
+Lafiaji Community Rd	Eti Osa	Lagos	6.431	3.555	1	
+Columbine Street	Eti Osa	Lagos	6.456	3.524	1	
+Coachwood Road	Eti Osa	Lagos	6.462	3.523	1	
+Emma Abimbola Cole Street	Eti Osa	Lagos	6.443	3.477	1	
+Eme Court Road	Nnewi North	Anambra	6.007	6.911	1	
+Community Road	Ado Odo/Ota	Ogun	6.691	3.253	1	
+Maverick College	Ibadan North	Oyo	7.432	3.897	0	
+Cobham Street	Oshodi/Isolo	Lagos	6.548	3.322	1	
+Guidna Community	Municipal Area Council	FCT Abuja	9.130	7.313	1	
+Ndoni Community Road	Ogba/Egbema/Ndoni	Rivers	5.453	6.688	1	
+COBI	Baruten	Kwara	9.657	3.262	2	
+Ndoni Community Road	Ogba/Egbema/Ndoni	Rivers	5.516	6.611	1	
+Cootage Road	Ede South	Osun	7.704	4.460	1	
+Corae Maria Secondary School	Ideato North	Imo	5.852	7.096	0	
+Community Primary School Road	Ekiti West	Ekiti	7.693	5.083	1	
+Fajuyi /Oduduwa College Road	Ife Central	Osun	7.487	4.550	1	
+Igboya Community	Ife Central	Osun	7.497	4.558	1	
+Covenant Avenue	Adó-Èkìtì	Ekiti	7.610	5.220	1	
+Concorde Avenue	Owerri Municipal	Imo	5.485	7.016	1	
+Comfort Obiona Street	Ifako/Ijaye	Lagos	6.657	3.296	1	
+Ndoni Community Road	Ogba/Egbema/Ndoni	Rivers	5.463	6.651	1	
+College Road	Owerri North	Imo	5.479	7.123	1	
+Government Arabic College	Gombe	Gombe	10.309	11.168	0	
+Community Development Road	Esan Central	Edo	6.787	6.306	1	
+Concorde Avenue	Owerri Municipal	Imo	5.488	7.014	1	
+Concorde Avenue	Owerri Municipal	Imo	5.482	7.017	1	
+Concorde Avenue	Owerri Municipal	Imo	5.473	7.021	1	
+Jesus Corper	Umuahia North	Abia	5.529	7.514	1	
+Yonwuren College Road, Ugbuwangue	Warri South	Delta	5.528	5.715	1	
+Chemin de la Coline	Mariga	Niger	10.869	5.892	1	
+Connector to main road	Bagudo	Kebbi	11.108	3.799	1	
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.040	7.450	1	
+National Defence College	Municipal Area Council	FCT Abuja	9.047	7.489	0	
+Housing Complex Road	Warri South	Delta	5.535	5.743	1	
+Housing Complex Road	Uvwie	Delta	5.562	5.744	1	
+Housing Complex Road	Uvwie	Delta	5.553	5.744	1	
+Cornelius Nzebuka Street	Alimosho	Lagos	6.630	3.287	1	
+College Crescent	Ibeju Lekki	Lagos	6.467	3.775	1	
+Cordial Close	Eti Osa	Lagos	6.474	3.569	1	
+Isiyaka Rabiu College of Quranic Studies	Gwale	Kano	11.979	8.496	0	
+College Avenue	Alimosho	Lagos	6.646	3.255	1	
+Cooperation Drive	Kosofe	Lagos	6.614	3.406	1	
+Aniyikaiye Court	Ìkòròdú	Lagos	6.622	3.491	1	
+Conelius Odinjor Crescent	Eti Osa	Lagos	6.444	3.530	1	
+International Community School	Municipal Area Council	FCT Abuja	9.053	7.417	0	
+Community Road	Alimosho	Lagos	6.675	3.264	1	
+Emmanuel College Avenue	Alimosho	Lagos	6.676	3.261	1	
+Congo Crescent	Municipal Area Council	FCT Abuja	8.992	7.432	1	
+Community Road	Alimosho	Lagos	6.653	3.251	1	
+Covenant University	Ado Odo/Ota	Ogun	6.668	3.163	0	
+Command Secondary School	Chikun	Kaduna	10.441	7.429	0	
+College of Basic and Remedial Studies, Kaduna State University	Kaduna North	Kaduna	10.506	7.434	0	
+Ideani Community Secondary School	Idemili South	Anambra	6.089	6.934	0	
+Commercial Avenue	Sapele	Delta	5.894	5.672	1	
+Coorperate Plaza	Kaduna North	Kaduna	10.548	7.454	0	
+Zamani College	Kaduna North	Kaduna	10.548	7.468	0	
+Glover Court	Eti Osa	Lagos	6.452	3.436	1	
+Coal Camp Road	Enugu North	Enugu	6.428	7.479	1	
+Day Waterman College	Obafemi Owode	Ogun	7.022	3.492	0	
+Friends Colony Estate Access Road	Eti Osa	Lagos	6.449	3.515	1	
+Coates Street	Lagos Mainland	Lagos	6.482	3.384	1	
+Collins Uchidiuno St	Eti Osa	Lagos	6.439	3.475	1	
+Pinewood Court Road	Eti Osa	Lagos	6.452	3.485	1	
+King's College "Annex" Victoria Island Campus	Eti Osa	Lagos	6.436	3.427	0	
+Government Junior College Victoria Island	Eti Osa	Lagos	6.433	3.414	0	
+Corona School Victoria Island	Eti Osa	Lagos	6.434	3.413	0	
+Housing Complex Road	Uvwie	Delta	5.569	5.744	1	
+Community Road	Eti Osa	Lagos	6.507	3.585	1	
+Jasmine Court	Eti Osa	Lagos	6.501	3.619	1	
+Mbabi Mbayo Community	Ife Central	Osun	7.503	4.547	1	
+Police College Ikeja	Ikeja	Lagos	6.590	3.355	0	
+Golf Course Road	Oredo	Edo	6.321	5.615	1	
+Conakry Crescent	Kaduna North	Kaduna	10.559	7.465	1	
+Coronation Crescent	Kaduna North	Kaduna	10.539	7.435	1	
+Sarduna College Road	Kaduna North	Kaduna	10.575	7.464	1	
+Eesa Tuntun Communty Road	Egbedore	Osun	7.785	4.486	1	
+Eze Ojinnaka Compound	Njaba	Imo	5.675	7.023	1	
+COMRADE KOKOMA EHIGIAMUSOE AVENUE	Oredo	Edo	6.295	5.570	1	
+Community Road	Obafemi Owode	Ogun	6.799	3.424	1	
+Worlu compound	Obio/Akpor	Rivers	4.877	6.916	1	
+College Crescent	Ibeju Lekki	Lagos	6.473	3.778	1	
+Edobor Collins Street	Ibeju Lekki	Lagos	6.449	3.674	1	
+Covenant Close	Obio/Akpor	Rivers	4.799	6.952	1	
+Constitution Road	Kaduna North	Kaduna	10.504	7.435	1	
+Ebubu Community Road	Eleme	Rivers	4.781	7.147	1	
+Corona Primary School Ikoyi	Eti Osa	Lagos	6.444	3.438	0	
+govt college nasarawa crescent	Nasarawa	Nasarawa	8.555	7.711	1	
+Rochas Foundation College, Jos	Jos North	Plateau	9.878	8.878	0	
+Fiddle Commercial Avenue	Port-Harcourt	Rivers	4.803	7.035	1	
+Eleme Community Road	Eleme	Rivers	4.794	7.109	1	
+Eleme Community Road	Eleme	Rivers	4.796	7.108	1	
+Rumuola - Stadium Link Road	Obio/Akpor	Rivers	4.830	7.013	1	Cosmic Homes Road
+Okun-Ajah Community Road	Eti Osa	Lagos	6.435	3.589	1	
+Constitution Avenue	Municipal Area Council	FCT Abuja	9.045	7.465	1	
+Colonel Ukpo Avenue	Bonny	Rivers	4.432	7.177	1	
+Court Road	Bonny	Rivers	4.450	7.172	1	
+Cornerstone Street	Markurdi	Benue	7.715	8.573	1	
+Comprehensive Health Center Bakeko	Katcha	Niger	8.958	6.210	0	
+Coca-Cola Road	Ilorin East	Kwara	8.455	4.563	1	
+Nwosu Compound Umuamara village Obuda Aba	Aba South	Abia	5.093	7.350	1	
+Eme Court Road	Nnewi North	Anambra	5.994	6.904	1	
+Coca Cola Road, Oko Erin, Nigeria	Ilorin West	Kwara	8.417	4.555	1	
+Concorde Avenue	Owerri Municipal	Imo	5.465	7.024	1	
+Water Corporation Road	Eti Osa	Lagos	6.427	3.441	1	
+College of Education Road	Ilorin West	Kwara	8.475	4.531	1	
+Command Secondary School Road	Alimosho	Lagos	6.617	3.257	1	
+Command Secondary School Road	Alimosho	Lagos	6.613	3.256	1	
+Corporation Drive	Eti Osa	Lagos	6.461	3.418	1	
+Government Girls College	Maiduguri	Borno	11.832	13.141	0	
+College of Islamic Theology - Elkanemi	Maiduguri	Borno	11.832	13.113	0	
+Kashim Ibrahim College	Maiduguri	Borno	11.843	13.120	0	
+Ramat College Polytechnic Maiduguri	Maiduguri	Borno	11.843	13.131	0	
+College Road	Ifako/Ijaye	Lagos	6.643	3.324	1	
+Zion Compound	Shomolu	Lagos	6.528	3.392	1	
+Five Cowries Terminal	Eti Osa	Lagos	6.442	3.427	0	Falomo Ferry Terminal
+Texas Connection Ferries	Eti Osa	Lagos	6.464	3.418	0	
+College of Arabic and Islamic Studies	Muhammadu Dikko Stadium	Katsina	12.976	7.601	0	
+Cosmos Udoette Street	Ibesikpo Asutan	Akwa Ibom	4.980	7.957	1	
+Cooperative Boulevard	Enugu East	Enugu	6.475	7.491	1	
+Court of Appeal Road	Akure South	Ondo	7.231	5.220	1	
+Orire Community	Akure South	Ondo	7.248	5.158	1	
+Conoil Fuel Station	Eti Osa	Lagos	6.435	3.491	0	
+Conoil Fuel Station	Eti Osa	Lagos	6.441	3.530	0	
+Idikan Community Health Centre (UCH Annex)	Ibadan North West	Oyo	7.383	3.891	0	
+Continent Hotel	Akure North	Ondo	7.234	5.239	1	
+Four Corners Road	Udi	Enugu	6.326	7.434	1	
+Federal science and technical college	Ido-Osi	Ekiti	7.885	5.171	0	
+Court Hall	Nsit Atai	Akwa Ibom	4.832	8.038	1	
+Postgraduate College	Ife Central	Osun	7.516	4.530	0	
+Cocean	Owerri North	Imo	5.448	7.058	0	
+Kalabari National College	Asari-Toru	Rivers	4.741	6.858	0	
+Community Secondary School	Emuoha	Rivers	5.055	6.726	0	
+Noble International Comprehensive Academy	Emuoha	Rivers	5.057	6.727	0	
+Federal Government College Warri	Warri South	Delta	5.528	5.726	0	
+Delta Career College	Warri South	Delta	5.540	5.749	0	
+Urhobo Model College	Uvwie	Delta	5.531	5.779	0	
+Essi College Warri	Warri South	Delta	5.510	5.763	0	
+St Patrick’s College	Calabar Municipal	Cross River	5.024	8.341	0	
+Federal College of Education	Yola South	Adamawa	9.247	12.472	0	FCE
+Conoil	Lagos Island	Lagos	6.448	3.395	0	
+Yaba College of Technology	Shomolu	Lagos	6.520	3.376	0	Yabatech|YabaTech|YCT
+Costa Rica Street	Municipal Area Council	FCT Abuja	9.110	7.361	1	
+KRCP Coop Street	Municipal Area Council	FCT Abuja	8.975	7.348	1	
+College Road	Ughelli North	Delta	5.539	6.081	1	
+Air Force Comprehensive School	Dawakin Tofa	Kano	12.145	8.383	0	
+Community Secondary School Baiyeku	Ìkòròdú	Lagos	6.551	3.538	0	
+Saliola Model College	Ejigbo	Osun	7.899	4.317	0	
+Beulah Baptist Church College	Ejigbo	Osun	7.909	4.318	0	
+Chrisland College, Idimu	Alimosho	Lagos	6.564	3.288	0	
+Computed Tomography Unit	Maiduguri	Borno	11.865	13.118	0	
+Eleme/Alese Community Road	Tai	Rivers	4.717	7.250	1	
+Community Road	Oshodi/Isolo	Lagos	6.509	3.294	1	
+Federal Government College Ogbomoso	Ogbomosho North	Oyo	8.158	4.229	0	
+Federal College of Education (Technical), Akoka	Shomolu	Lagos	6.522	3.383	0	
+College Road	Epe	Lagos	6.619	3.963	1	
+College Road	Epe	Lagos	6.624	3.985	1	
+Igbobi College	Shomolu	Lagos	6.530	3.372	0	
+Federal Government College Lagos	Ojo	Lagos	6.490	3.141	0	
+Ogudu GRA School Complex	Kosofe	Lagos	6.579	3.384	0	
+Keme Balogun College	Ìkòròdú	Lagos	6.556	3.476	0	
+Conoil	Ìkòròdú	Lagos	6.624	3.491	0	
+Mahmud Ahmadiyya College	Ìkòròdú	Lagos	6.584	3.590	0	
+Kingsfield College	Ìkòròdú	Lagos	6.610	3.582	0	
+Adeniran Ogunsanya College of Education	Ado Odo/Ota	Ogun	6.502	3.110	0	AOCOED
+Elepe Community Secondary School	Ìkòròdú	Lagos	6.614	3.571	0	
+Tiakod College	Ìkòròdú	Lagos	6.613	3.566	0	
+Lagos State Civil Service College	Ìkòròdú	Lagos	6.596	3.518	0	
+Oriwu Senior Model College	Ìkòròdú	Lagos	6.605	3.518	0	
+Conoil Filling Station	Municipal Area Council	FCT Abuja	8.959	7.498	0	
+Comprehensive High School Azuzuama Road	Southern Ijaw	Bayelsa	4.714	5.942	1	
+Community Town Hall	Southern Ijaw	Bayelsa	4.718	5.945	0	
+Ologbobiri Community Road	Southern Ijaw	Bayelsa	4.697	6.032	1	
+Government College Ibadan (GCI)	Ibadan South West	Oyo	7.377	3.834	0	GCI
+Cocoa Research Institute of Nigeria CRIN	Oluyole	Oyo	7.212	3.849	0	CRIN
+College Hall	Shomolu	Lagos	6.516	3.375	0	
+Federal Government Girls' College	Port-Harcourt	Rivers	4.782	7.051	0	
+Mimbar College	Ibadan North	Oyo	7.424	3.920	0	
+Lagos State Junior Model College	Ìkòròdú	Lagos	6.623	3.661	0	
+Community Junior & Senior Grammar School, Gberigbe	Ìkòròdú	Lagos	6.605	3.619	0	
+Excellent West College	Ìkòròdú	Lagos	6.611	3.581	0	
+Government Junior Model College, Owutu	Ìkòròdú	Lagos	6.618	3.481	0	GJMC
+Farm Settlement Community Primary School, Odogunyan	Ìkòròdú	Lagos	6.659	3.520	0	
+Brightfield College	Agege	Lagos	6.610	3.319	0	
+Anwar-ul-Islam Model College, Agege	Agege	Lagos	6.615	3.320	0	
+Dairy Farm School Complex	Ifako/Ijaye	Lagos	6.627	3.327	0	
+Conoil	Ikeja	Lagos	6.592	3.343	0	
+Conoil	Mushin	Lagos	6.526	3.360	0	
+Grandview Court Road	Eti Osa	Lagos	6.447	3.514	1	
+commercial area track road	Gombe	Gombe	10.307	11.174	1	
+Complex Road	Gombe	Gombe	10.306	11.175	1	
+SMART COPMLEX ROAD	Owerri West	Imo	5.384	6.990	1	
+Model College Badore	Eti Osa	Lagos	6.512	3.610	0	
+Cooperative Villa Road	Eti Osa	Lagos	6.503	3.613	1	
+Government Technical College Agidingbi	Ikeja	Lagos	6.623	3.355	0	
+Oxbridge Tutorial College	Ikeja	Lagos	6.578	3.357	0	
+Cottage Hospital	Ifelodun	Kwara	8.273	4.787	0	
+Chisi Cottage Clinic	Egor	Edo	6.327	5.581	0	
+Colliery Hospital	Enugu North	Enugu	6.449	7.478	0	
+Federal College of Fisheries and Marine Technology	Eti Osa	Lagos	6.421	3.412	0	
+Chinade Primary Health Center	Katagum	Bauchi	11.518	10.426	0	Low Cost A Primary Health Care Center
+Alwadati Consultant Clinic	Bauchi	Bauchi	10.314	9.818	0	
+Odinjo Comprehensive Health Center	Ibadan South East	Oyo	7.359	3.913	0	
+agbowo community maternity health center	Ibadan North	Oyo	7.449	3.914	0	
+Agugu Community Health Centre, Agugu	Ibadan North East	Oyo	7.384	3.922	0	
+Oke'badan Community Health And Maternity Centre	Ibadan North East	Oyo	7.387	3.923	0	
+Ayekale Community Maternity Centre, Agugu	Ibadan North East	Oyo	7.377	3.928	0	
+Edunabon Community Health Centre	Ife North	Osun	7.553	4.458	0	
+ESUT College of Medicine Enugu	Enugu North	Enugu	6.460	7.494	0	
+Government Technical College Ikorodu	Ìkòròdú	Lagos	6.619	3.518	0	
+Technical College	Kaduna North	Kaduna	10.553	7.469	0	
+Confucious Institute	Awka North	Anambra	6.248	7.121	0	
+Christ The Redeemer's College	Shagamu	Ogun	6.794	3.570	0	
+Collakins Filling Station	Shagamu	Ogun	6.700	3.511	0	
+Gizaki Community Primary Health Care	Bogoro	Bauchi	9.585	9.650	0	
+Coccin Primary Health Center	Bogoro	Bauchi	9.568	9.492	0	
+231 Tank Batallion Nigerian Army Medical Corps	Biu	Borno	10.595	12.193	0	231/331 MRS
+Osun State Comprehensive Health Centre, Iragberi	Egbedore	Osun	7.778	4.377	0	
+Sick Bay,PH City Council	Port-Harcourt	Rivers	4.771	7.018	0	
+Crest Consultant Hospital	Yenegoa	Bayelsa	4.927	6.313	0	
+College of Health Sciences	Warri South	Delta	5.518	5.734	0	
+De Joseph Medical Convalescent Health Centre	Oshodi/Isolo	Lagos	6.556	3.340	0	
+ConOil	Akure South	Ondo	7.251	5.176	0	
+Cottage Hospital Wuro Ai	Fufore	Adamawa	9.217	12.664	0	
+Igoba Community High School	Akure North	Ondo	7.294	5.232	0	
+Cocin Mission Clinic	Kukawa	Borno	13.095	13.815	0	
+kodomun comprehensive health clinic	Demsa	Adamawa	9.458	12.216	0	
+Babbangida Comprehensive Health Centre	Tarmua	Yobe	12.148	11.777	0	
+Jamtari Cottage Hospital	Fufore	Adamawa	9.024	12.063	0	
+Federal Government College Clinic	Jada	Adamawa	8.463	12.056	0	
+Cottage Hospital Guyuk	Guyuk	Adamawa	9.918	11.942	0	
+Community Primary School	Ahoada West	Rivers	5.078	6.462	0	
+Command Secondary School Road	Alimosho	Lagos	6.626	3.259	1	
+Kins Comprehensive College	Ogba/Egbema/Ndoni	Rivers	5.329	6.643	0	
+Lano Community Secondary School	Yamaltu/Deba	Gombe	10.174	11.476	0	
+Ndoni Community Road	Ogba/Egbema/Ndoni	Rivers	5.473	6.634	1	
+Ndoni Community Road	Ogba/Egbema/Ndoni	Rivers	5.546	6.595	1	
+Towolo Community Primary School	Ìkòròdú	Lagos	6.613	3.441	0	
+Salvation college	Kosofe	Lagos	6.609	3.433	0	
+Ndoni Community Road	Ogba/Egbema/Ndoni	Rivers	5.458	6.671	1	
+The Federal College of Education (Technical), Omoku	Ogba/Egbema/Ndoni	Rivers	5.333	6.649	0	
+Council road	Egbedore	Osun	7.836	4.479	1	
+Sarduna College Road	Kaduna North	Kaduna	10.576	7.466	1	
+Community B5	Municipal Area Council	FCT Abuja	8.967	7.438	1	
+Community B4	Municipal Area Council	FCT Abuja	8.966	7.437	1	
+Community B1	Municipal Area Council	FCT Abuja	8.966	7.437	1	
+Community A21	Municipal Area Council	FCT Abuja	8.965	7.437	1	
+Community A19	Municipal Area Council	FCT Abuja	8.964	7.436	1	
+Community A8	Municipal Area Council	FCT Abuja	8.966	7.436	1	
+Community A9	Municipal Area Council	FCT Abuja	8.965	7.436	1	
+Community A7	Municipal Area Council	FCT Abuja	8.966	7.436	1	
+Community A6	Municipal Area Council	FCT Abuja	8.967	7.436	1	
+Community A5	Municipal Area Council	FCT Abuja	8.967	7.437	1	
+Community A4	Municipal Area Council	FCT Abuja	8.968	7.437	1	
+Community A2	Municipal Area Council	FCT Abuja	8.969	7.438	1	
+Community A3	Municipal Area Council	FCT Abuja	8.968	7.437	1	
+Community B8	Municipal Area Council	FCT Abuja	8.967	7.438	1	
+Community B9	Municipal Area Council	FCT Abuja	8.968	7.438	1	
+Community B10	Municipal Area Council	FCT Abuja	8.968	7.439	1	
+Commumity B7	Municipal Area Council	FCT Abuja	8.967	7.438	1	
+Community B6	Municipal Area Council	FCT Abuja	8.967	7.438	1	
+Community B3	Municipal Area Council	FCT Abuja	8.966	7.438	1	
+Nabel International College	Municipal Area Council	FCT Abuja	8.987	7.426	0	
+Conoil	Warri South	Delta	5.515	5.743	0	
+Ukwugba Community School Egbema	Ohaji/Egbema	Imo	5.555	6.754	0	
+Community Primary School Abachaeke	Ohaji/Egbema	Imo	5.505	6.731	0	
+Coca-Cola Road	Ilorin East	Kwara	8.474	4.561	1	
+Coca-Cola Road	Ilorin East	Kwara	8.478	4.561	1	
+Concrete Avenue	Enugu North	Enugu	6.451	7.494	1	
+Community Primary School Ground, Barayira	Tai	Rivers	4.744	7.202	0	
+Ugbori Community	Warri South	Delta	5.514	5.733	2	
+Ekurede Itsekiri Community	Warri South	Delta	5.521	5.730	2	
+Ajamimogha Community	Warri South	Delta	5.526	5.736	2	
+Uwangue College Warri	Warri South	Delta	5.517	5.745	0	
+Institution of continuing education Warri	Warri South	Delta	5.519	5.746	0	I.C.E
+adzer beke college korinya city	Konshisha	Benue	6.924	8.933	0	
+Commercial Avenue	Sapele	Delta	5.892	5.677	1	
+Community Close	Municipal Area Council	FCT Abuja	9.116	7.457	1	
+Government College Umuahia	Umuahia South	Abia	5.501	7.532	0	
+Corban Nursery & Primary School	Ìkòròdú	Lagos	6.635	3.563	0	
+Edukugho Community	Warri South	Delta	5.503	5.764	2	
+merogun Community	Warri South	Delta	5.498	5.769	2	
+Nana Model College, Warri	Warri South	Delta	5.521	5.740	0	
+Agbassa community	Warri South	Delta	5.516	5.754	2	
+Okere Community	Warri South	Delta	5.516	5.741	2	
+Kabusa Community Secondary School	Municipal Area Council	FCT Abuja	8.949	7.440	0	
+Odion Community	Warri South	Delta	5.508	5.757	2	
+Ogedegbe Community	Warri South	Delta	5.512	5.767	2	
+Ereku Community	Warri South	Delta	5.511	5.761	2	
+Hussey College Warri	Warri South	Delta	5.525	5.748	0	
+Community Primary School Obokofia	Ohaji/Egbema	Imo	5.540	6.803	0	
+Community Primary School Obokofia	Ohaji/Egbema	Imo	5.523	6.802	0	
+Community Primary School Obile	Ohaji/Egbema	Imo	5.384	6.777	0	
+Collins Okoro Street	Oshimili North	Delta	6.219	6.642	1	
+bishops college	Jos North	Plateau	9.943	8.866	0	
+St murumba college	Jos North	Plateau	9.945	8.868	0	
+Community school Nnarambia(Anyanonu)	Ahiazu-Mbaise	Imo	5.517	7.269	0	
+Bobby's Compound Road	Njaba	Imo	5.689	7.022	1	
+Coker Street	Agege	Lagos	6.627	3.308	1	
+CONOIL	Municipal Area Council	FCT Abuja	9.054	7.484	0	
+Kid Court Street	Eti Osa	Lagos	6.457	3.538	1	
+Race Course Road	Kaduna North	Kaduna	10.536	7.444	1	
+Command Link Road	Kaduna South	Kaduna	10.451	7.423	1	
+College Of Law Driveway	Ovia North-East	Edo	6.745	5.405	1	
+Dadin kowa comprehensive health center	Jos South	Plateau	9.851	8.867	0	
+Air Force Girls Comprehensive School	Municipal Area Council	FCT Abuja	8.979	7.265	0	
+Faculty of Computing	Kaduna North	Kaduna	10.610	7.446	0	
+Costain Bus stop	Lagos Mainland	Lagos	6.482	3.370	0	
+Conoil	Municipal Area Council	FCT Abuja	8.969	7.353	0	
+Angiama Community road	Southern Ijaw	Bayelsa	4.830	6.138	1	
+COMPOREHENSIVE DAY GABKKA.	Gombe	Gombe	10.272	11.164	0	
+Cok Best Mall	Municipal Area Council	FCT Abuja	9.146	7.306	0	
+Lagos Coastal Highway	Ibeju Lekki	Lagos	6.432	3.733	1	
+Government Science College Basaura	Jega	Kebbi	12.322	4.262	0	
+Collins Figbele Crescent	Ughelli South	Delta	5.511	5.860	1	
+Costain Road	Ikpoba-Okha	Edo	6.386	5.650	1	
+Lagos Coastal Highway	Ibeju Lekki	Lagos	6.429	3.706	1	
+College Road	Enugu East	Enugu	6.482	7.532	1	
+Cootage Road	Ede North	Osun	7.712	4.447	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.426	3.509	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.426	3.547	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.428	3.525	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.428	3.523	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.432	3.591	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.425	3.494	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.423	3.470	1	
+Lagos Coastal Highway	Eti Osa	Lagos	6.425	3.455	1	
+Jatto Memorial Christian College	Oredo	Edo	6.325	5.587	0	
+Lagos Coastal Highway	Eti Osa	Lagos	6.433	3.595	1	
+College of Basic Medical and Health Sciences	Konduga	Borno	11.855	12.983	0	
+Angiama Community road	Southern Ijaw	Bayelsa	4.833	6.117	1	
+SS Court (Gate 2)	Eti Osa	Lagos	6.437	3.545	1	
+SS Court (Gate 1)	Eti Osa	Lagos	6.437	3.545	1	
+COLLEGE OF HEALTH TECHNOLOGY	Maiduguri	Borno	11.830	13.144	0	
+Government College	Maiduguri	Borno	11.835	13.130	0	
+Guidna Community	Municipal Area Council	FCT Abuja	9.105	7.304	1	
+Federal Housing Complex Road	Eti Osa	Lagos	6.438	3.436	1	
+Prof. Thomas Commander Street	Yenegoa	Bayelsa	4.873	6.213	1	
+Aburuku Compound Street	Yenegoa	Bayelsa	4.870	6.211	1	
+St. Vincent Ferrer College, Malumfashi	Malumfashi	Katsina	11.760	7.612	0	
+Abocho Cottage Hospital	Dekina	Kogi	7.573	6.999	0	
+Da-Costa Street	Lagos Mainland	Lagos	6.508	3.386	1	
+Cole Street	Mushin	Lagos	6.530	3.363	1	
+Nwafor Orizu College of Education	Anambra East	Anambra	6.216	6.802	0	
+Lafiaji Community	Eti Osa	Lagos	6.431	3.560	2	
+Prince Arthur Eze Mother & Child Complex	Nnewi North	Anambra	5.997	6.880	0	
+Municipal Area Council	Municipal Area Council	FCT Abuja	8.898	7.394	2	

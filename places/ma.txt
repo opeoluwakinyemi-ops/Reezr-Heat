@@ -1,0 +1,3935 @@
+Maiduguri	Maiduguri	Borno	11.839	13.154	3	Yerwa
+Makurdi	Markurdi	Benue	7.731	8.538	3	
+Machina	Machina	Yobe	13.137	10.049	3	
+Dan Mani	Isa	Sokoto	13.300	6.710	2	
+Marara	Diffa	Borno	13.293	12.647	2	
+Guidan May Douma	Gada	Sokoto	13.734	5.922	2	
+Maïmoujia	Kantché	Katsina	13.177	8.289	2	
+Malé Malé	Gouré	Yobe	13.099	9.899	2	
+Malahango	Madaoua	Sokoto	13.661	6.171	2	
+Gajaji Mastafa	Diffa	Borno	13.079	12.456	2	
+Mankawri	Diffa	Yobe	13.111	12.288	2	
+Sajé Manja	Kaita	Katsina	13.345	7.813	2	
+Dan Makiawa	Gazaoua	Katsina	13.309	7.727	2	
+Mazâ Wajé	Mashi	Katsina	13.329	7.947	2	
+Mamori	Madarounfa	Sokoto	13.240	6.774	2	
+Malam	Madarounfa	Sokoto	13.245	6.755	2	
+May Daboro	Jibia	Katsina	13.108	7.303	2	
+Makouba	Tessaoua	Katsina	13.249	8.202	2	
+May Adoua Kadey	Tessaoua	Katsina	13.270	8.175	2	
+Mayo Yim	Teungo	Adamawa	7.801	11.467	2	
+Gidan Mata Station	Bosso	Niger	9.738	6.236	0	
+Maromarum	Wamako	Sokoto	13.072	5.190	2	Maro Marun
+MacDonald Point	Warri South	Delta	5.548	5.634	2	
+Marikishi	Shiroro	Niger	9.550	6.650	2	Sabon Gida
+Longo Makera	Shagari	Sokoto	12.512	5.069	2	
+Odo-Mola	Epe	Lagos	6.607	3.986	2	Odo-Mala
+Maibwari	Fune	Yobe	11.825	11.681	2	
+Marke	Potiskum	Yobe	11.720	11.217	2	
+Maimazari Katawa	Dambatta	Kano	12.569	8.615	2	
+Masholari	Fune	Yobe	11.848	11.573	2	
+Rinjim Mukur	Toro	Bauchi	10.129	9.272	2	Mahur
+Madawun	Fune	Yobe	12.110	11.031	2	
+Masta Fanameri	Konduga	Borno	11.532	12.990	2	Matafanamri
+Magu	Bassa	Kogi	7.483	6.796	2	
+Mangungum	Magumeri	Borno	12.252	12.336	2	
+Mallemadigo	Itas/Gadau	Bauchi	11.960	10.215	2	
+Birnin Malam	Jega	Kebbi	12.126	4.537	2	
+Maitsari	Gwandu	Kebbi	12.457	4.530	2	
+Ungwan Matangi	Kubau	Kaduna	10.718	8.282	2	Matangi
+Makeri	Fakai	Kebbi	11.375	4.965	2	
+Masawari	Tambuwal	Sokoto	12.332	4.712	2	
+Madara	Tambuwal	Sokoto	12.371	4.830	2	
+Unguwar Masama	Doguwa	Kano	10.669	8.703	2	
+Tunga Mailafia	Bagudo	Kebbi	11.398	4.273	2	
+Ungwan Malam	Gwandu	Kebbi	12.546	4.476	2	
+Runtu Magaji	Fakai	Kebbi	11.687	4.820	2	
+Macheri	Shanga	Kebbi	11.431	4.669	2	
+Tunga Malam Garba	Koko-Besse	Kebbi	11.373	4.429	2	
+Mazagoma	Jega	Kebbi	12.311	4.319	2	
+Maruda	Gwandu	Kebbi	12.493	4.764	2	
+Majiatudu	Arewa Dandi	Kebbi	12.780	4.145	2	
+Maiyama	Maiyama	Kebbi	12.083	4.368	2	
+Marabu-Abu	Maru	Zamfara	11.495	6.540	2	
+Macikawa Matoru	Maru	Zamfara	11.363	6.515	2	
+Malekete	Birnin Gwari	Kaduna	11.008	6.574	2	
+Gidan Malam Audu	Maru	Zamfara	11.434	6.522	2	
+Maholo	Maru	Zamfara	11.181	6.346	2	
+Matate	Isa	Sokoto	13.193	6.300	2	
+Ungwan Mani	Tsafe	Zamfara	11.993	6.962	2	
+Ikot Ukpong Manta	Oruk Anam	Akwa Ibom	4.685	7.560	2	
+Mamudu	Ganjuwa	Bauchi	10.784	10.466	2	
+Ungwar Mallam Audu	Kubau	Kaduna	11.097	8.547	2	
+Mangal	Monguno	Borno	12.509	13.514	2	Mangol
+Madaka	Rafi	Niger	10.012	6.459	2	
+Mape	Municipal Area Council	FCT Abuja	9.145	7.493	2	
+Malummaduri	Malam Maduri	Jigawa	12.565	9.882	3	
+Makatayi	Ngaski	Kebbi	10.387	4.751	2	
+Mayo Lope	Numan	Adamawa	9.242	11.680	3	
+Maryland	Ikeja	Lagos	6.577	3.366	2	
+Mai Mairamri	Bama	Borno	11.425	13.759	2	
+Mal Umari	Kaga	Borno	11.454	12.642	2	
+Malope	Jada	Adamawa	8.689	12.372	2	
+Maiyari;Maiyaki	Agaie	Niger	9.146	6.319	2	
+Makwarua	Sabon Birni	Sokoto	13.336	6.402	2	
+Makerowa	Mai'Adua	Katsina	13.267	8.141	2	
+Malinda	Mubi South	Adamawa	10.158	13.289	2	
+Mairami	Konduga	Borno	11.603	13.489	2	Mairamri
+Wuro Madagali	Askira-Uba	Borno	10.567	13.227	2	
+New Marte	Marte	Borno	12.248	13.870	2	
+Garema-Maleri	Mobbar	Borno	13.074	12.795	2	
+Malum Zuberu	Abadam	Borno	13.487	13.388	2	
+Mayir	Sanga	Kaduna	9.250	8.601	2	
+Mangu Halle	Mangu	Plateau	9.506	9.107	2	
+Malam Gonare	Bama	Borno	11.437	13.726	2	
+Maigana	Bayo	Borno	10.308	11.588	2	
+Mabirio	Ngaski	Kebbi	10.902	5.015	2	
+Kanya Maikaho	Garki	Jigawa	12.365	8.916	2	Maikaho;Kogin Maikaho
+May Kilia	Baure	Katsina	12.902	8.750	2	
+Goro-Malam	Dandi	Kebbi	11.868	3.878	2	
+Chironbi Mallamai	Babura	Jigawa	12.649	8.929	2	Muchurrumbi
+Bulama Koma	Biu	Borno	10.745	12.149	2	Bula Makoama
+Tungan Maigari	Dandi	Kebbi	11.669	3.798	2	
+Ungwan Malamawa	Arewa Dandi	Kebbi	12.545	3.908	2	
+Ungwar Mallam Birama	Hawul	Borno	10.383	12.049	2	
+Mai Anguwa Ali	Kwaya Kusar	Borno	10.399	12.017	2	Shafa
+Malori Faragona	Ungongo	Kano	12.099	8.521	2	
+Madiya	Biu	Borno	10.642	12.144	2	Madia
+Minta B	Hawul	Borno	10.525	12.064	2	Mainta
+Maina Hari	Biu	Borno	10.678	12.158	2	
+Masama	Arewa Dandi	Kebbi	13.187	4.405	2	
+Mandaragirau	Biu	Borno	10.694	12.329	2	Mandaragarau
+Itebu Manuwa	Ogun Waterside	Ogun	6.454	4.546	2	
+Mallamawa	Goronyo	Sokoto	13.474	5.768	2	
+Kaifin Maiko	Bagwai	Kano	12.038	8.166	2	Kafin Maiko
+Ungwan Manomi	Arewa Dandi	Kebbi	12.360	3.690	2	
+Mara Mara	Riyom	Plateau	9.581	8.781	2	
+Ungwan Maiganga	Wamba	Nasarawa	8.999	8.545	2	
+Maguta	Ipokia	Ogun	6.500	2.783	2	
+Gidan Magwi	Shiroro	Niger	10.050	6.550	2	Maowo
+Matau	Bodinga	Sokoto	12.694	5.338	2	
+Maradu	Wukari	Benue	7.886	9.559	2	
+Unguwar Mane	Bungudu	Zamfara	12.109	6.869	2	
+Unguwar Mata	Gusau	Zamfara	12.222	6.913	2	Mata
+Maraha	Ngaski	Kebbi	10.318	4.727	2	
+Makondo	Magama	Niger	10.072	4.719	2	Makwando
+Machipa	Ngaski	Kebbi	10.401	4.687	2	
+Masuku	Shiroro	Niger	10.486	6.640	2	Masaka
+Mahuta	Tsafe	Zamfara	12.066	6.919	2	
+Tungan Makeri	Shanga	Kebbi	10.934	4.593	2	
+Tungan Makeri	Yauri	Kebbi	10.779	4.729	2	
+Tungan Maaji	Shanga	Kebbi	10.989	4.698	2	
+Makarta	Kaura Namoda	Zamfara	12.315	6.737	2	Unguwar Makarta
+Makeri	Tsafe	Zamfara	12.079	6.945	2	
+Guidan Mashau	Birnin Magaji-Kiyaw	Zamfara	12.303	6.848	2	
+Mada	Tangaza	Sokoto	13.480	4.776	2	
+Marabawa	Kware	Sokoto	13.218	5.307	2	
+Makarnla	Ngaski	Kebbi	10.489	4.770	2	
+Malikansaa	Goronyo	Sokoto	13.574	5.850	2	
+Mai Didi	Gusau	Zamfara	12.201	6.613	2	
+Machian Ogu	Rafi	Niger	10.029	6.185	2	Ugu
+Yakumosin	Borgu	Niger	10.019	4.475	2	Malale
+Maru	Maru	Zamfara	12.334	6.406	3	
+Malemawa	Talata Mafara	Zamfara	12.139	6.111	2	
+Majinchi	Maru	Zamfara	12.351	6.247	2	
+Makina	Gwadabawa	Sokoto	13.586	5.288	2	
+Gidan Mallam	Gada	Sokoto	13.523	5.707	2	
+Tungan Mare	Arewa Dandi	Kebbi	13.156	4.421	2	
+Gidan Mana	Gwadabawa	Sokoto	13.452	5.201	2	
+Aduwa Masa	Gwadabawa	Sokoto	13.434	5.251	2	
+Masabo	Rimi	Katsina	12.943	7.734	2	
+Madachi	Bungudu	Zamfara	12.164	6.812	2	
+Guidan Magajin Toga	Gusau	Zamfara	12.209	6.976	2	
+Gidan Magagi	Gusau	Zamfara	12.226	6.940	2	
+Yan Mallamai	Tsafe	Zamfara	11.895	7.137	2	Anguwan Mallamai
+Ungwan Barau	Rogo	Kano	11.410	7.747	2	Ungwan Mallam Barau;Mallam Barau
+Guidan Makeri	Kaura Namoda	Zamfara	12.367	6.755	2	Gidan Makeri;Makeri
+Ungwan Maguzawa	Giwa	Kaduna	11.280	7.567	2	
+Ungwan Madara	Giwa	Kaduna	11.313	7.484	2	
+Maigoshi	Gada	Sokoto	13.687	5.803	2	
+Udan Marki	Gudu	Sokoto	13.327	4.565	2	
+Maje	Giwa	Kaduna	11.288	7.551	2	
+Ungwan Masaka	Ikara	Kaduna	11.121	8.229	2	Masaka
+Ungwan Madaki Danas Abe	Soba	Kaduna	11.067	8.088	2	Madaki Danas-Abe
+Ungwan Madaki	Ikara	Kaduna	11.316	8.135	2	Madaki
+Maikendi	Fakai	Kebbi	11.628	4.814	2	
+Gidan Mai Garu	Kubau	Kaduna	11.010	8.413	2	Mai-Garu
+Maraba	Maru	Zamfara	11.413	6.486	2	
+Marafa	Fakai	Kebbi	11.539	4.774	2	
+Manyatoko	Koko-Besse	Kebbi	11.723	4.344	2	
+Madaka	Maru	Zamfara	11.260	6.577	2	
+Ungwan Mallam	Ikara	Kaduna	11.167	8.149	2	Mallam
+Ungwan Makao	Makarfi	Kaduna	11.314	8.013	2	Makao
+Ungwan Maialewa	Kubau	Kaduna	11.047	8.248	2	Maialewa
+Maidagi	Fakai	Kebbi	11.663	4.915	2	
+Ungwan-Mama-Meduma	Wasagu-Danko	Kebbi	11.336	6.151	2	
+Maganawa	Wamako	Sokoto	12.977	5.174	2	
+Kaura Malun	Tureta	Sokoto	12.584	5.276	2	Kaura Malam
+Maribi	Tsafe	Zamfara	11.873	6.719	2	
+Madukka	Dange-Shuni	Sokoto	12.860	5.526	2	
+Manawaji Bornu	Fune	Yobe	11.447	11.523	2	
+Ejekiri	Akuku Toru	Rivers	4.428	6.548	2	Markkiri;Ejekiri
+Tungan Macheri	Wasagu-Danko	Kebbi	11.213	5.737	2	
+Mazagune	Potiskum	Yobe	11.640	11.039	2	Mazagani;Mazagune
+Mahaku	Wamako	Sokoto	13.001	4.995	2	
+Massaba	Borsari	Yobe	12.886	11.223	2	
+Mamikiri	Akuku Toru	Rivers	4.730	6.737	2	
+Imala	Yewa North	Ogun	7.400	2.983	2	Mala
+Materam	Tarmua	Yobe	12.187	12.172	2	
+Majidun	Ìkòròdú	Lagos	6.615	3.467	2	
+Madachi	Katagum	Bauchi	11.496	10.427	2	
+Maigaraja Lumu	Kebbe	Sokoto	11.686	4.656	2	
+Unguwar Maina	Buji	Jigawa	11.594	9.632	2	
+Ungwan Masoyi	Kalgo	Kebbi	12.493	4.020	2	
+Tungan-Mallam Mara	Fakai	Kebbi	11.595	4.706	2	
+Birnin Madi	Jega	Kebbi	12.212	4.332	2	
+Maichiri	Tambuwal	Sokoto	12.133	4.562	2	
+Magun	Gwandu	Kebbi	12.585	4.578	2	
+Mase	Kirfi	Bauchi	10.452	10.674	2	
+Tungan Maji	Kebbe	Sokoto	11.701	4.401	2	
+Marumbua	Bunza	Kebbi	12.247	4.147	2	
+Maro	Shanga	Kebbi	11.225	4.515	2	
+Tunga Mai	Koko-Besse	Kebbi	11.366	4.354	2	
+Tunga Maje	Koko-Besse	Kebbi	11.357	4.352	2	
+Yole-Magorawa	Gwandu	Kebbi	12.441	4.629	2	
+Malam	Birnin Kebbi	Kebbi	12.568	4.217	2	
+Makangara	Arewa Dandi	Kebbi	12.731	4.030	2	
+Maikali	Arewa Dandi	Kebbi	12.868	4.176	2	
+Gidan Mammam	Ikara	Kaduna	11.356	8.120	2	Mammam
+Ungwan Madaiki	Ningi	Bauchi	11.183	8.999	2	
+Rufan Mai Garu	Tudun Wada	Kano	11.296	8.720	2	
+Maigarin Damo	Rimin Gado	Kano	11.919	8.323	2	Maigari Damo
+Gidan Mallam Mati	Kiru	Kano	11.337	8.196	2	
+Mahangi	Ikara	Kaduna	11.228	8.225	2	
+Madaiki	Jema'A	Kaduna	9.396	8.099	2	Unguwar Madaiki
+Malam Gana	Gbako	Niger	9.350	5.917	2	Tungar Malam Gana;Tungan Malam Gana
+Madiya	Gwandu	Kebbi	12.389	4.510	2	
+Ungwan Maitakama	Sanga	Kaduna	9.167	8.600	2	
+Mukugi	Lapai	Niger	9.117	6.583	2	Maikwogi
+Gidan Maiaki	Gwagwalada	FCT Abuja	8.917	6.950	2	Maiaki
+Gidan Magajia	Baruten	Kwara	9.138	3.261	2	
+Machiyan Kuka	Tafawa-Balewa	Bauchi	9.867	9.700	2	
+Isanlu Makutu	Yagba East	Kogi	8.267	5.800	2	Isanlu Makatu
+Magbon	Ifelodun	Kwara	8.429	4.992	2	
+Moleyo	Atiba	Oyo	8.050	4.017	2	Mawleyaw
+Maigyemu	Tafawa-Balewa	Bauchi	9.733	9.350	2	
+Maru	Dukku	Gombe	10.917	11.033	2	Maro
+Masifa	Ori Ire	Oyo	8.033	4.133	2	Mashifa
+Mangu Town	Mangu	Plateau	9.486	9.141	3	
+Maijuju	Jos East	Plateau	9.755	9.151	2	
+Gani Mada	Sanga	Kaduna	9.217	8.400	2	Gani;Gani Mada
+Maleri	Kwami	Gombe	10.542	11.423	3	
+Modogan	Ipokia	Ogun	6.785	2.735	2	Madogan
+Mai Lalle	Sabon Birni	Sokoto	13.585	6.105	2	Unguwa Lalle
+Maiwa	Sabon Birni	Sokoto	13.606	6.404	2	
+Magan	Kala-Balge	Borno	11.997	14.445	2	
+Masakali	Mobbar	Borno	13.082	12.487	2	
+Mamuri Gana	Abadam	Borno	13.692	13.339	2	
+Bukan Madayiki	Lafia	Nasarawa	8.435	8.552	2	
+Bulagana	Ngala	Borno	12.233	14.083	2	Belagana-Malem
+Ma'afa	Mafa	Borno	12.110	13.701	2	Mafa
+Keffin Moyi	Awe	Nasarawa	8.100	9.267	2	Kafin Mayi
+Kuka Maiki	Dandi	Kebbi	12.049	3.830	2	
+Maisi	Arewa Dandi	Kebbi	12.578	3.877	2	
+Tungan Madi	Dandi	Kebbi	11.623	3.834	2	
+Tungan Manu	Dandi	Kebbi	12.062	3.857	2	
+Tungan Manun Kulu	Bunza	Kebbi	12.300	3.963	2	
+Maraki	Arewa Dandi	Kebbi	12.428	3.815	2	
+Unguwar Marke	Zango	Katsina	12.941	8.629	2	
+Marke	Arewa Dandi	Kebbi	12.529	3.679	2	
+Tungan Mallamanuga	Bunza	Kebbi	12.159	3.949	2	
+Maibara	Baure	Katsina	12.847	8.642	2	Maribara
+Wara Mayel	Shani	Borno	10.102	12.093	2	
+Malawa	Zango	Katsina	12.993	8.517	2	
+Mayaki	Bunza	Kebbi	12.185	3.904	2	
+Mangel	Vandeikya	Benue	7.017	8.933	2	
+Madaki	Buji	Jigawa	11.559	9.802	2	
+Malamawa	Kware	Sokoto	13.127	5.282	2	
+Maidawa	Wamako	Sokoto	13.175	5.243	2	
+Makirin	Magama	Niger	10.700	4.816	2	
+Mayo Yim	Teungo	Adamawa	7.800	11.700	2	Maio Yim
+Makarfe	Kagarko	Kaduna	9.583	7.467	2	Makarfi
+Mawun Isale	Ipokia	Ogun	6.467	2.833	2	Mawun Isale;Mawun
+Major Porter	Barkin Ladi	Plateau	9.447	8.935	2	
+Masba	Konduga	Borno	11.554	13.005	2	Masaba
+Marraba	Mubi North	Adamawa	10.349	13.323	2	
+Maduru	Mani	Katsina	13.019	7.829	2	
+Mallam Barau	Kaura Namoda	Zamfara	12.481	6.513	2	
+Makulu	Ngaski	Kebbi	10.146	4.676	2	
+Magaji	Bungudu	Zamfara	12.232	6.768	2	
+Unguwar Makera	Gusau	Zamfara	12.135	6.977	2	
+Gundawa	Kankara	Katsina	12.029	7.517	2	Masaurari
+Magengobir	Rimi	Katsina	12.809	7.660	2	Maje
+Marumaru	Wamako	Sokoto	13.090	5.165	2	
+Tunga-Mahaman	Kware	Sokoto	13.311	5.288	2	Tungan Mahaman
+Mahuta	Maru	Zamfara	12.182	6.290	2	
+Tungan Makeri	Borgu	Niger	10.905	4.210	2	Tugan Makeri;Sabon Gari
+Mareri	Gusau	Zamfara	12.146	6.719	2	
+Mamula	Bungudu	Zamfara	12.289	6.671	2	
+Gungu Masu	Ngaski	Kebbi	10.439	4.666	2	
+Gidan Makera	Illela	Sokoto	13.689	5.418	2	
+Maje	Maru	Zamfara	12.002	6.423	2	
+Guidan Makuru	Birnin Magaji-Kiyaw	Zamfara	12.316	6.856	2	Gidan Makuru
+Gidan Mama	Shiroro	Niger	10.105	6.718	2	Tunga Mamma Agwagwa;Tungan Mamma Agwagwa
+Tunga Madugu	Gwadabawa	Sokoto	13.432	5.266	2	
+Guidan Machido	Bungudu	Zamfara	12.230	6.804	2	
+Mugaba	Giwa	Kaduna	11.105	7.173	2	Magaba
+Kafin Magaji	Gwarzo	Kano	11.929	7.979	2	
+Mallam Nakande	Bungudu	Zamfara	11.604	6.513	2	
+Marake	Illela	Sokoto	13.511	5.424	2	
+Maishaika	Maiyama	Kebbi	11.736	4.470	2	
+Marafe	Wasagu-Danko	Kebbi	11.253	6.040	2	
+Majidi	Maiyama	Kebbi	11.933	4.271	2	
+Malamawa	Doguwa	Kano	10.798	8.670	2	
+Madarau	Gusau	Zamfara	11.960	6.674	2	
+Ungwan Sarkin Noma Mara	Ikara	Kaduna	11.325	8.179	2	Sarkin Noma Mara
+Ungwan Maigshiri	Makarfi	Kaduna	11.285	8.068	2	Maigishiri
+Ungwan Magama	Maru	Zamfara	11.383	6.498	2	
+Mazare	Yabo	Sokoto	12.704	5.037	2	
+Gidan Makan	Doguwa	Kano	10.693	8.591	2	Makan
+Manga	Zuru	Kebbi	11.388	5.210	2	
+Magado	Obafemi Owode	Ogun	6.739	3.410	2	Magboro-Shofolarin
+Mokoloki	Obafemi Owode	Ogun	6.886	3.379	2	Mawkawlawki
+Maigelma	Anka	Zamfara	11.913	5.939	2	
+Marma	Kiri Kasama	Jigawa	12.657	10.343	3	
+Madachi	Kiri Kasama	Jigawa	12.579	10.205	3	
+Maku	Awgu	Enugu	6.133	7.468	2	Nmaku
+Ma-e-e	Sakaba	Kebbi	11.220	5.420	2	
+Tunga Maigizo	Koko-Besse	Kebbi	11.260	4.354	2	
+Ungwan Ma Aji	Igabi	Kaduna	10.584	7.494	2	
+Madawachi	Arewa Dandi	Kebbi	12.812	4.035	2	
+Dutsin Mari	Koko-Besse	Kebbi	11.191	4.446	2	
+Dogon-Manu	Gummi	Zamfara	12.059	4.986	2	
+Matsiri	Gummi	Zamfara	12.143	4.867	2	
+Matan Kali	Anka	Zamfara	12.079	6.061	2	
+Marori	Akko	Gombe	10.309	10.932	2	
+Madinka Hausawa	Kalgo	Kebbi	12.454	4.038	2	
+Maiari	Alkaleri	Bauchi	10.015	10.687	2	
+Makera	Shanga	Kebbi	11.243	4.626	2	
+Majema	Fakai	Kebbi	11.600	4.987	2	
+Maskawa	Argungu	Kebbi	12.715	4.424	2	
+Mashe	Argungu	Kebbi	12.759	4.466	2	
+Masaida	Arewa Dandi	Kebbi	12.943	4.131	2	
+Margai	Kebbe	Sokoto	12.173	4.763	2	
+Marafaka	Kalgo	Kebbi	12.342	4.208	2	
+Mamunu	Arewa Dandi	Kebbi	12.797	4.113	2	
+Malissa	Gwandu	Kebbi	12.444	4.721	2	
+Majiasara	Arewa Dandi	Kebbi	12.767	4.135	2	
+Maikurfuna	Kebbe	Sokoto	12.017	4.622	2	
+Massama	Gwandu	Kebbi	12.464	4.700	2	Masama
+Marabu-Bawa	Maru	Zamfara	11.492	6.545	2	
+Gidan Mallam Idi	Ikara	Kaduna	11.426	8.113	2	Mallam Idi
+Unguwar Madaiki	Ningi	Bauchi	11.183	8.999	2	
+Kapubara	Borgu	Niger	10.643	3.875	2	Tungan Madugu
+Mantawa	Kirfi	Bauchi	10.313	10.751	2	
+Masuwa	Ganjuwa	Bauchi	10.600	10.213	2	
+Yema Mata	Yewa North	Ogun	6.947	2.919	2	
+Manu Shodo	Biu	Borno	10.853	11.641	2	Manicodo
+Rabogi	Paikoro	Niger	9.283	6.567	2	Tungan Malain Marua;Rabo
+Tungan Mutundaya	Shiroro	Niger	9.683	6.783	2	Tunga Matun Daya
+Idi Mongoro	Yewa North	Ogun	7.317	2.883	2	Idi Mango;Idi Mongoro
+Madauci	Zangon Kataf	Kaduna	9.783	8.317	2	Madauchi
+Unguwan Mallam Madu	Kwaya Kusar	Borno	10.471	11.774	2	Kurbagayi
+Dotatsu	Agaie	Niger	9.083	6.450	2	Magba
+Manaouatchi	Gwoza	Borno	11.212	13.933	2	
+Maio	Itas/Gadau	Bauchi	11.768	9.966	2	
+Mayo Kole	Jada	Adamawa	8.800	12.167	2	Maio Kole
+Masa	Ori Ire	Oyo	8.400	4.267	2	Afoda
+Mazanya	Goronyo	Sokoto	13.283	5.967	2	Mazania
+Maiduguri	Biu	Borno	10.895	11.730	2	Maidugari
+Mulgwe Mayirima	Konduga	Borno	11.454	13.293	2	
+Magaram (2)	Monguno	Borno	12.550	13.467	2	Magaram
+Gidan Mangoro	Shagari	Sokoto	12.533	4.952	2	
+Maifaru	Sule Tankakar	Jigawa	12.833	9.117	2	
+Mai Idontoro	Barkin Ladi	Plateau	9.717	8.990	2	
+Wuro Mallum	Maiha	Adamawa	9.905	13.224	2	
+Mgwogi	Gbako	Niger	9.250	6.033	2	Mawogi
+Maikasuwa	Kaita	Katsina	13.324	7.811	2	
+Manpi	Michika	Adamawa	10.490	13.383	2	
+Marraraba	Hong	Adamawa	10.312	13.162	3	
+Bula Mastafa	Bama	Borno	11.619	14.042	2	
+Malaji	Gwaram	Jigawa	11.300	9.950	2	Mafaji
+Maigatari	Maigatari	Jigawa	12.807	9.451	2	
+Maneara	Agaie	Niger	9.102	6.424	2	
+Manfara	Agaie	Niger	9.102	6.424	2	
+Madi Mallam	Kwaya Kusar	Borno	10.543	11.914	2	Guwal
+Makari	Tibiri	Kebbi	12.746	3.937	2	
+Tungan-Makera	Dandi	Kebbi	11.774	3.945	2	
+Sabon Rijia Maidaji	Bunza	Kebbi	12.292	3.910	2	
+Masko	Babura	Jigawa	12.627	8.862	2	Musko
+Marakim-Bure	Gudu	Sokoto	13.647	4.482	2	Maraken Bori
+Massama	Arewa Dandi	Kebbi	12.476	3.843	2	
+Madakka	Zango	Katsina	12.902	8.489	2	Madukka
+Mamza	Shani	Borno	10.248	12.135	2	Kidamanza
+Maran	Ilaje	Ondo	6.188	4.676	2	Manran
+Ungua Maza	Baure	Katsina	12.806	8.857	2	Gladimawa
+Malgam	Tangaza	Sokoto	13.677	5.019	2	
+Mallam Maitari	Damboa	Borno	11.216	13.070	2	Mallam-Maitari
+Magamiya	Zangon Kataf	Kaduna	9.831	8.382	2	
+Maga	Ngala	Borno	12.151	13.981	2	
+Madizo	Kala-Balge	Borno	11.946	14.482	2	
+Mane	Bungudu	Zamfara	12.115	6.876	2	
+Unguwar Mallam Barau	Kaura Namoda	Zamfara	12.478	6.516	2	
+Mallamai	Gusau	Zamfara	12.013	6.788	2	Unguwar Mallamai
+Maaji	Gusau	Zamfara	12.285	6.934	2	Unguwar Maaji
+Tungan Maizari	Yauri	Kebbi	10.906	4.758	2	
+Unguwar Makeri	Gusau	Zamfara	12.082	6.943	2	
+Makera	Birnin Magaji-Kiyaw	Zamfara	12.423	6.798	2	Unguwar Makera
+Dutsin Ma	Dutsin Ma	Katsina	12.455	7.496	3	
+Tunga Madugu	Kware	Sokoto	13.322	5.239	2	
+Masalawan Duchi	Illela	Sokoto	13.636	5.490	2	
+Gidan Mairakunmi	Gada	Sokoto	13.659	5.559	2	
+Kurugin Mardowa	Mariga	Niger	10.808	6.056	2	Kurugin Maidowa;Kurigin Maidowa
+Tudun Mairaira	Tsafe	Zamfara	12.086	7.090	2	
+Maradun	Maradun	Zamfara	12.570	6.246	2	
+Matangkari	Augie	Kebbi	13.074	4.545	2	Motangkari
+Mazozawa	Gusau	Zamfara	12.173	6.586	2	
+Masagu (1)	Bungudu	Zamfara	12.144	6.454	2	
+Maji	Bungudu	Zamfara	12.021	6.445	2	
+Rugu Mawa	Maru	Zamfara	12.322	6.292	2	
+Maji	Silame	Sokoto	13.005	4.743	2	
+Ungwan Rijiya	Makarfi	Kaduna	11.345	7.910	2	Mai-Rijiya
+Guidan Mai-Jatau	Gusau	Zamfara	12.171	6.971	2	
+Matari	Soba	Kaduna	10.934	7.831	2	
+Maje	Giwa	Kaduna	11.276	7.549	2	
+Malamawan Gabas	Kafur	Katsina	11.774	7.762	2	Mallamawa
+Ungwan Maguzawa	Giwa	Kaduna	11.124	7.586	2	
+Makwaye	Giwa	Kaduna	11.200	7.596	2	
+Galadiman Maje	Giwa	Kaduna	11.288	7.551	2	
+Gidan-Maihako	Goronyo	Sokoto	13.542	5.573	2	
+Marakai	Bagudo	Kebbi	11.425	4.266	2	
+Fuskam;Fuskam Mata	Bassa	Plateau	10.181	8.900	2	
+Mareri	Maru	Zamfara	11.957	6.452	2	
+Kawara Mairuwa	Suru	Kebbi	11.849	4.170	2	
+Dusa Ma	Igabi	Kaduna	10.851	7.698	2	Dusa Mai
+Majiyor	Dange-Shuni	Sokoto	12.897	5.405	2	Majia
+Gaba-Mata	Shanga	Kebbi	11.018	4.713	2	
+Daba Magaji	Kukawa	Borno	13.056	13.762	2	Daba Magagi
+Mazoma	Mubi North	Adamawa	10.317	13.429	2	
+Masu Baka	Toro	Bauchi	10.134	9.463	2	
+Kafin Madaki	Ganjuwa	Bauchi	10.688	9.761	2	
+Magboro	Obafemi Owode	Ogun	6.715	3.402	2	Magboro-Akeran
+Marumari	Fune	Yobe	12.145	11.084	2	
+Mafoworad	Ife South	Osun	7.117	4.617	2	
+Mamu	Ijebu North	Ogun	7.083	3.917	2	
+Gidan-Mani	Maru	Zamfara	11.459	6.090	2	
+Dan Makarwa	Wasagu-Danko	Kebbi	11.332	6.083	2	
+Gidan Soho-Makada	Fakai	Kebbi	11.529	4.951	2	
+Mania	Tambuwal	Sokoto	12.389	4.613	2	Maniya
+Garin Maidabo	Kebbe	Sokoto	11.641	4.572	2	
+Maidahini	Bunza	Kebbi	12.134	4.043	2	
+Madadi	Gwandu	Kebbi	12.369	4.571	2	Maidada
+Mayanu	Kiru	Kano	11.616	7.978	2	
+Masama	Maiyama	Kebbi	12.018	4.376	2	
+Mado	Kirfi	Bauchi	10.291	10.807	2	
+Tungan Manu	Bagudo	Kebbi	11.564	4.037	2	
+Mangal	Bagudo	Kebbi	11.425	4.231	2	
+Runtu Magaji Maidama	Fakai	Kebbi	11.685	4.815	2	
+Maseri	Fakai	Kebbi	11.659	4.631	2	
+Garin Magaji	Kebbe	Sokoto	11.637	4.559	2	
+Tungan-Maigadambo	Fakai	Kebbi	11.528	4.861	2	
+Magaji	Fakai	Kebbi	11.409	4.857	2	
+Tunga Maje	Koko-Besse	Kebbi	11.348	4.356	2	
+Mallam Bawa	Fakai	Kebbi	11.368	4.885	2	
+Wuro Maliki	Birnin Kebbi	Kebbi	12.422	4.092	2	
+Tungan-Majidadi	Fakai	Kebbi	11.606	4.937	2	
+Mandera	Shagari	Sokoto	12.521	4.898	2	
+Maitawaye	Maiyama	Kebbi	12.070	4.332	2	
+Madottai	Sabon Birni	Sokoto	13.409	6.553	2	Madotai
+Mashema	Zurmi	Zamfara	13.059	6.665	2	Mashemo
+Madaiki	Ningi	Bauchi	11.183	8.999	2	
+Gidan Maishinkafa	Kiru	Kano	11.426	8.185	2	Maishinkafa
+Majemu	Karaye	Kano	11.827	8.020	2	
+Mai-Doka	Giwa	Kaduna	11.317	7.517	2	
+Ungwan Malamawa	Shagari	Sokoto	12.553	4.926	2	
+Gidan Maikeri	Chikun	Kaduna	10.183	7.383	2	Kabula
+Madalla	Gwagwalada	FCT Abuja	9.096	7.213	3	
+Wulo Mangal	Monguno	Borno	12.551	13.551	2	
+Tambe Manga	Girei	Adamawa	9.533	12.350	2	Tambua
+Mamerebo	Dekina	Kogi	7.417	7.000	2	Mamarebo;Omamahebo
+Garin Merata	Shanga	Kebbi	11.460	4.653	2	Garin Marafa
+Magesu	Guyuk	Adamawa	9.721	11.884	2	
+Madaki	Biu	Borno	10.819	11.751	2	Maidaki Mesau
+Malum Jalumiri	Bama	Borno	11.495	13.637	2	
+Mashaya	Sabon Birni	Sokoto	13.570	6.070	2	
+Maturrumi	Mai'Adua	Katsina	13.160	8.251	2	
+Maduguva	Mubi South	Adamawa	10.218	13.457	2	Madagoba;Maduguba
+Maplau	Mubi North	Adamawa	10.158	13.197	2	
+Mada	Kala-Balge	Borno	11.990	14.381	2	
+Mainari	Dikwa	Borno	11.868	14.185	2	
+Mulge	Bama	Borno	11.561	14.254	2	Malge
+Marka;Adawa	Bama	Borno	11.525	14.281	2	
+Gaa Mango	Baruten	Kwara	9.070	2.965	2	
+Magine	Ngala	Borno	12.196	13.970	2	Magene
+Mabuto	Mariga	Niger	10.681	5.744	2	
+Ungua Mallam	Makoda	Kano	12.541	8.507	2	
+Mallamawa	Bunza	Kebbi	12.342	3.900	2	
+Tungan Mallam Garuba	Suru	Kebbi	11.617	3.942	2	
+Mantau	Dambatta	Kano	12.594	8.602	2	
+Tungan Madaci	Arewa Dandi	Kebbi	12.417	3.776	2	
+Sabon Gari Madugu	Minjibir	Kano	12.232	8.698	2	
+Masama	Suru	Kebbi	11.663	3.989	2	
+Machere	Arewa Dandi	Kebbi	12.560	3.904	2	
+Malero	Dandi	Kebbi	11.849	3.688	2	
+Bwala	Hawul	Borno	10.460	12.163	3	Marama
+Maore	Gudu	Sokoto	13.445	4.137	2	
+Makir	Hong	Adamawa	10.377	12.915	2	Makkir
+Wulahari Bura	Shani	Borno	10.200	12.031	2	Wuro Mali
+Madlau	Biu	Borno	10.723	12.095	2	Maldau
+Malang	Hawul	Borno	10.490	12.200	2	
+Maleh	Silame	Sokoto	13.111	4.827	2	Male
+Sarma Magaji	Tangaza	Sokoto	13.686	5.107	2	
+Mankera	Wamako	Sokoto	13.014	5.076	2	Mankeri
+Gungun Maji	Bunza	Kebbi	12.392	3.982	2	
+Tungan Maikudu	Bunza	Kebbi	12.313	3.940	2	
+Ungwan Madaki	Arewa Dandi	Kebbi	12.367	3.704	2	
+Marnona	Wurno	Sokoto	13.213	5.497	2	
+Magira	Sabon Birni	Sokoto	13.361	6.470	2	
+Tunga Maje	Koko-Besse	Kebbi	11.354	4.216	2	
+Maiturare	Shagari	Sokoto	12.708	5.184	2	
+Sangere Sani	Demsa	Adamawa	9.317	12.100	2	Wuro Mallam Sani;Sangare Sani
+Mallam Bukar	Biu	Borno	10.809	11.773	2	Mallam Buku
+Markace	Dikwa	Borno	11.927	14.151	2	
+Masa	Dikwa	Borno	11.796	14.051	2	Massa
+Madan	Kontagora	Niger	10.380	5.459	2	Madara
+Mallam Bawa	Gusau	Zamfara	12.007	6.670	2	
+Makina	Ngaski	Kebbi	10.237	4.652	2	
+Madunguru	Ngaski	Kebbi	10.165	4.707	2	
+Tungan Mangoro	Ngaski	Kebbi	10.865	4.950	2	
+Gidan Maikabam	Gada	Sokoto	13.711	5.524	2	
+Maibinji	Goronyo	Sokoto	13.373	5.715	2	
+Makuci	Ngaski	Kebbi	10.348	4.893	2	
+Maradi	Rabah	Sokoto	12.999	5.748	2	
+Malgan	Binji	Sokoto	13.280	4.877	2	
+Marake	Gusau	Zamfara	12.036	6.752	2	
+Matukuda	Anka	Zamfara	12.112	6.094	2	
+Matona	Talata Mafara	Zamfara	12.267	6.064	2	Matuna
+Makurdi	Rimi	Katsina	12.906	7.674	2	
+Manya	Maru	Zamfara	12.095	6.174	2	
+Malmayi	Maru	Zamfara	12.033	6.368	2	
+Maganga	Goronyo	Sokoto	13.499	5.591	2	
+Doma Maguzawa	Faskari	Katsina	11.699	7.284	2	Doma
+Guidan Dan Makwayo	Bungudu	Zamfara	12.224	6.822	2	
+Guidan Mallam Chido	Gusau	Zamfara	12.019	6.673	2	
+Guidan Mai Sauri	Bungudu	Zamfara	12.343	6.515	2	
+Mairimai	Wasagu-Danko	Kebbi	11.328	6.035	2	
+Tsofon-Maigama	Maru	Zamfara	11.439	6.488	2	
+Guidan Maman	Gusau	Zamfara	12.165	6.729	2	
+Gidan Mallam Yaya	Gusau	Zamfara	12.110	6.675	2	
+Marafaro	Goronyo	Sokoto	13.289	5.908	2	
+Garin Mallam Julde	Kirfi	Bauchi	10.464	10.586	2	
+Gidan Maibeli	Soba	Kaduna	11.020	8.045	2	Maibeli
+Gidan Makera	Kware	Sokoto	13.096	5.306	2	
+Ungwan Makwaro	Soba	Kaduna	11.113	8.088	2	Makwaro
+Bula Mairmi	Fakai	Kebbi	11.705	4.829	2	
+Magabci	Yabo	Sokoto	12.710	5.070	2	Magachi
+Mara-Mawa	Wurno	Sokoto	13.332	5.471	2	
+Maiha	Maiha	Adamawa	9.996	13.216	2	
+Malabu	Fufore	Adamawa	9.560	12.781	3	
+Maweje	Odogbolu	Ogun	6.768	3.924	2	
+Jajimaji	Karasuwa	Yobe	12.899	10.808	2	Jajimari;Jaji Maji
+Magongo	Ogori/Magongo	Kogi	7.474	6.155	2	Magogo
+Birnin Mailafia	Ningi	Bauchi	10.792	9.056	2	Mailafia
+Tunga Mashe	Argungu	Kebbi	12.747	4.453	2	
+Ungwan Mairago	Birnin Kebbi	Kebbi	12.412	4.171	2	
+Gidan Maiawaki	Maru	Zamfara	11.398	6.546	2	
+Tungan Maigizo	Maiyama	Kebbi	11.743	4.474	2	
+Maaji	Shanga	Kebbi	11.025	4.713	2	
+Madachi	Tambuwal	Sokoto	12.210	4.561	2	Mawadachi
+Tunga Maidoma	Koko-Besse	Kebbi	11.242	4.297	2	
+Mabawa	Argungu	Kebbi	12.743	4.414	2	
+Tunga Manu	Bagudo	Kebbi	11.108	4.298	2	
+Massama	Arewa Dandi	Kebbi	12.864	4.149	2	
+Maruta	Gwaram	Jigawa	11.457	9.864	2	
+Tungan-Marafa	Bagudo	Kebbi	11.501	4.070	2	
+Tunga Maimuliha	Bagudo	Kebbi	11.376	4.260	2	
+Marafa Gungu	Silame	Sokoto	12.985	4.815	2	
+Magama	Maru	Zamfara	11.463	6.316	2	
+Masuru	Wasagu-Danko	Kebbi	11.266	6.119	2	
+Gidan Sarkin Noma Maizuma	Ikara	Kaduna	11.449	8.095	2	Sarkin Noma Maizuma
+Madugu	Kwami	Gombe	10.484	11.301	2	
+Manuga	Edu	Kwara	9.097	5.028	2	
+Ungwan Mai Doka	Giwa	Kaduna	11.317	7.517	2	
+Ungwan Madaiki	Birnin Gwari	Kaduna	10.800	6.650	2	Ungwan Madiaki
+Wuro Mallum	Fufore	Adamawa	9.135	12.680	2	
+Maiyanga	Barkin Ladi	Plateau	9.399	8.899	2	
+Papa Malu	Akinyele	Oyo	7.492	3.879	2	
+Wuro Malam Musa	Demsa	Adamawa	9.300	12.133	2	Wuro Mallam Musa
+Gadara Magaji	Shagari	Sokoto	12.627	4.970	2	
+Mallamri	Damboa	Borno	11.249	13.060	2	
+Najira	Jada	Adamawa	8.667	12.017	2	Manglā;Mangala
+Majeja	Okitipupa	Ondo	6.467	4.650	2	Ikoya
+Mami	Ogo Oluwa	Oyo	7.983	4.317	2	Mumi
+Tungan Mairuwa	Augie	Kebbi	12.799	4.603	2	
+Malafa	Shiroro	Niger	10.400	6.850	2	Malufa
+Madaderi	Mafa	Borno	11.804	13.801	2	
+Maiha	Maiha	Adamawa	10.062	13.184	3	Jalingo Maiha
+Mandara	Michika	Adamawa	10.663	13.428	2	
+Mallam Maja	Dikwa	Borno	11.987	14.091	2	Malum Maja
+Mainari	Abadam	Borno	13.599	13.341	2	
+Gidan Madugu	Karu	Nasarawa	8.737	7.839	2	Madugu
+Madigan	Ìkòròdú	Lagos	6.605	3.606	2	
+Maje	Abaji	FCT Abuja	9.100	6.883	2	
+Mayo Bani	Mubi North	Adamawa	10.441	13.241	2	
+Mamuda	Nafada	Gombe	10.817	11.317	2	
+Mallam Koro	Gurara	Niger	9.267	7.133	2	Mallam Karo;Mallam
+Masifa	Ejigbo	Osun	7.900	4.267	2	Mashifa
+Mokuro	Ife East	Osun	7.500	4.600	2	Makuro
+Tsaldauta Mallamai	Kazaure	Jigawa	12.639	8.638	2	
+Kure Marina	Arewa Dandi	Kebbi	12.585	3.828	2	
+Maicibi	Bunza	Kebbi	12.099	3.962	2	
+Ungua Mantou	Baure	Katsina	12.721	8.874	2	Dangaraba
+Madagbayu	Ovia South-West	Edo	6.396	5.100	2	Madagbayo
+Ungwar Mallam	Zango	Katsina	12.981	8.508	2	
+Bidawata Mallamal	Zango	Katsina	12.886	8.573	2	Dasha
+Birnin Maye	Kazaure	Jigawa	12.694	8.654	2	Maye
+Tungan Mallam Ibrahim	Suru	Kebbi	11.628	3.943	2	
+Ungwan Mazubi	Arewa Dandi	Kebbi	12.539	3.912	2	
+Ungwan Mala Auta	Bunza	Kebbi	12.357	3.919	2	
+Ungwan Makwado	Arewa Dandi	Kebbi	12.299	3.731	2	
+Machita	Magama	Niger	10.600	5.317	2	Machifa
+Manyi	Riyom	Plateau	9.533	8.583	2	Manyin
+Dumayo	Fufore	Adamawa	9.117	12.400	2	Mayo
+Tungan Makigani	Kware	Sokoto	13.258	5.256	2	
+Matagami	Kaura	Kaduna	9.667	8.400	2	Malagan;Matagami
+Manawaji	Ngala	Borno	12.259	14.313	2	
+Unguwar Maje	Batagarawa	Katsina	12.893	7.473	2	Ungwan Maje;Maje
+Matia-Kuka	Yauri	Kebbi	10.741	4.726	2	
+Tungan Magala	Magama	Niger	10.697	4.814	2	
+Marake	Gada	Sokoto	13.703	5.532	2	
+Makira	Gudu	Sokoto	13.513	4.305	2	
+Gidan Magadji	Wurno	Sokoto	13.245	5.359	2	
+Mapawa	Dan Musa	Katsina	12.261	7.535	2	Yanshanta
+Malali	Illela	Sokoto	13.662	5.335	2	
+Masama	Wurno	Sokoto	13.259	5.851	2	
+Rikaka Magaji	Rabah	Sokoto	13.203	5.660	2	
+Maburgami	Tangaza	Sokoto	13.269	5.069	2	
+Margau	Bungudu	Zamfara	12.164	6.402	2	
+Mariya	Maru	Zamfara	12.187	6.196	2	
+Marke	Tsafe	Zamfara	12.090	6.896	2	
+Tunga Matsi	Illela	Sokoto	13.500	5.372	2	
+Sabongari Masawa	Illela	Sokoto	13.682	5.444	2	
+Gidan Mallami	Goronyo	Sokoto	13.592	5.645	2	
+Ungwan Mallam Mamudu	Rogo	Kano	11.417	7.864	2	Mallam Mamudu
+Mamansuka Tudu	Illela	Sokoto	13.540	5.293	2	Mamasuka Tudu
+Kutosheka	Kankara	Katsina	11.825	7.579	2	Makauraci
+Makeri	Tsafe	Zamfara	11.966	7.203	2	
+Mahuta	Wasagu-Danko	Kebbi	11.247	6.016	2	
+Makina Fadama	Gwadabawa	Sokoto	13.591	5.301	2	
+Guidan Mai-Kwazo	Bungudu	Zamfara	12.116	6.553	2	
+Ungwa Magoje	Maru	Zamfara	11.382	6.448	2	
+Mazakari	Igabi	Kaduna	10.864	7.750	2	
+Mai Tukuniyan Dangu	Maru	Zamfara	11.309	6.453	2	
+Ungwan Mallami	Faskari	Katsina	11.805	6.990	2	Mallami;Unguwar Mallami
+Marke	Makarfi	Kaduna	11.267	7.839	2	
+Angwan Mapera	Ikara	Kaduna	11.278	8.126	2	
+Malele	Maru	Zamfara	11.386	6.362	2	
+Maitambari	Bagudo	Kebbi	11.654	4.140	2	
+Yar-Mahanga	Maru	Zamfara	11.219	6.326	2	
+Makankawara	Suru	Kebbi	11.832	4.110	2	
+Maresu	Lere	Kaduna	10.474	8.770	2	
+Magworoda	Maiyama	Kebbi	11.749	4.348	2	
+Mawadach	Maru	Zamfara	11.147	6.115	2	
+Madaki	Ganjuwa	Bauchi	10.688	9.762	2	
+Madeniye	Nangere	Yobe	11.783	11.174	2	
+Mashama	Nangere	Yobe	11.783	11.226	2	
+Madukuri	Yusufari	Yobe	12.981	11.247	2	
+Molu M. Kanari	Gubio	Borno	12.766	13.005	2	Marlu
+Magawa	Yunusari	Yobe	12.977	12.239	2	Margawa
+Karimi Maradu	Tambuwal	Sokoto	12.320	4.780	2	
+Maini	Argungu	Kebbi	12.739	4.387	2	
+Dutsin Mogaji	Mariga	Niger	11.020	6.070	2	Matankware
+Dan-Matari	Wasagu-Danko	Kebbi	11.369	6.116	2	
+Makporu	Suru	Kebbi	11.978	4.116	2	
+Tunga Malam	Koko-Besse	Kebbi	11.374	4.362	2	
+Baba Maradu	Tambuwal	Sokoto	12.332	4.772	2	
+Unguwar Mahdi	Jega	Kebbi	12.143	4.194	2	
+Mazoji	Kebbe	Sokoto	12.117	4.831	2	
+Fagada Maidaji	Jega	Kebbi	12.102	4.448	2	
+Zongo Mari	Akko	Gombe	10.352	10.876	2	
+Makuri	Tsafe	Zamfara	11.865	7.127	2	
+Maimadi	Alkaleri	Bauchi	10.168	10.791	2	
+Maijanfuta	Fakai	Kebbi	11.555	4.836	2	
+Bulu-Mairimi	Fakai	Kebbi	11.690	4.834	2	
+Madangho	Warri South-West	Delta	5.600	5.215	2	
+Mallam Tsoho	Rijau	Niger	11.227	4.730	2	
+Masu	Tambuwal	Sokoto	12.275	4.677	2	
+Maikada	Tambuwal	Sokoto	12.338	4.662	2	
+Maigasari	Arewa Dandi	Kebbi	12.857	4.173	2	
+Maigeso	Maru	Zamfara	11.252	6.551	2	
+Mai Fillani	Gusau	Zamfara	11.599	6.622	2	
+Mai-Kabarume	Wasagu-Danko	Kebbi	11.287	6.075	2	
+Gidan Maigaru	Soba	Kaduna	11.025	8.158	2	Maigaru
+Machido	Alkaleri	Bauchi	10.056	10.317	2	
+Anguwan Mallam Alkali	Ganjuwa	Bauchi	10.704	10.487	2	Angwan Malam Alkali;Ungwan Mallam Alkali
+Mangar	Wamba	Nasarawa	9.066	8.736	2	
+Mankoka	Agaie	Niger	9.107	6.384	2	Nankoko
+Ungwan Mada	Sanga	Kaduna	9.320	8.552	2	
+Mashita	Edu	Kwara	8.953	5.236	2	
+Mahabi	Miga	Jigawa	12.200	9.633	2	Gidan Mahabi
+Mayen	Bama	Borno	11.340	13.895	2	
+Malam-Maduri	Malam Maduri	Jigawa	12.561	9.881	2	
+Magarza	Kalgo	Kebbi	12.292	4.171	2	
+Malam Atuman	Jahun	Jigawa	12.083	9.500	2	Atuman;Mallam Atuman
+Maroko	Eti Osa	Lagos	6.429	3.455	2	
+Mallam Garba	Bosso	Niger	9.635	6.281	2	
+Makun	Agaie	Niger	9.017	6.533	2	Kurmin Ayaba
+Gadan Bulama Usman	Kwaya Kusar	Borno	10.529	11.886	2	Mallam Usman
+Mallam Sidi	Kwami	Gombe	10.468	11.294	3	
+Moniya	Akinyele	Oyo	7.528	3.912	2	Mawniya
+Maisandari	Bama	Borno	11.444	13.737	2	
+Mai Idon Taro	Barkin Ladi	Plateau	9.717	8.989	2	
+Dan Makeri	Baure	Katsina	12.833	9.033	2	
+Wuro Mayo	Tafawa-Balewa	Bauchi	9.699	9.817	2	
+Gidan Madawaki	Zurmi	Zamfara	12.729	6.808	2	
+Maza	Garki	Jigawa	12.350	9.317	2	Gidan Maza
+Kabur-Maduwa	Askira-Uba	Borno	10.651	13.262	2	
+Maikadiri	Askira-Uba	Borno	10.760	13.315	2	
+Mayo Wandu	Michika	Adamawa	10.691	13.454	2	Brishishiwa
+Malabi	Konduga	Borno	11.517	13.343	2	
+Masalaram	Abadam	Borno	13.078	13.289	2	
+Malum Kaunari	Abadam	Borno	13.698	13.338	2	Malum Konari
+Mangu	Mangu	Plateau	9.476	9.158	2	
+Maiduguri	Nafada	Gombe	10.800	11.333	2	
+Maraganta	Gwiwa	Jigawa	12.774	8.270	2	Malaganta
+Maiyama	Dandi	Kebbi	12.119	3.665	2	
+Maikiliya	Baure	Katsina	12.902	8.750	2	
+Ungwan-Mayaiki	Dandi	Kebbi	11.710	3.721	2	
+Tsaldauta Maharba	Kazaure	Jigawa	12.644	8.636	2	
+Maimakwami	Baure	Katsina	12.775	8.635	2	Memokweni
+Tungan Maji	Dandi	Kebbi	11.634	3.825	2	
+Tungan Maje	Dandi	Kebbi	12.023	3.936	2	
+Sabon Gari Mallam Ladi	Minjibir	Kano	12.220	8.575	2	
+Maimazari	Baure	Katsina	12.878	8.779	2	
+Rijia Mata	Zango	Katsina	12.909	8.658	2	
+Mogamfo	Tangaza	Sokoto	13.505	4.945	2	Magamho
+Magari	Biu	Borno	10.989	12.154	2	Mangari
+Magaria	Tangaza	Sokoto	13.706	4.993	2	
+Mavirang	Hawul	Borno	10.538	12.383	2	Maveran
+Mamansuka	Gwadabawa	Sokoto	13.552	5.315	2	Momonsuka
+Majape	Odeda	Ogun	7.283	3.317	2	Majepe
+Ndayama	Paikoro	Niger	9.317	6.517	2	Kurmin Marke
+Bila Malabu	Fufore	Adamawa	9.583	13.050	2	Billa Mababou;Billa-Malabu
+Mamba	Pategi	Kwara	8.617	5.933	2	Momba
+Mainasara	Ifelodun	Kwara	8.408	5.033	2	
+Gashiga	Maiha	Adamawa	9.800	13.167	2	Buda Manga;Manga
+Mayin	Ogo Oluwa	Oyo	8.017	4.300	2	
+Mangar	Bokkos	Plateau	9.210	8.691	2	
+Malowsari	Bama	Borno	11.453	13.700	2	
+Malum Fuhuri	Bama	Borno	11.430	13.882	2	
+Unguwar Madaiki	Jema'A	Kaduna	9.483	8.183	2	Madaiki
+Madira	Kaura Namoda	Zamfara	12.637	6.564	2	
+Maiwa	Nganzai	Borno	12.322	13.238	2	Maiba
+Unguwar Mallam Bawa	Gusau	Zamfara	12.008	6.670	2	
+Farin Mallam	Birnin Magaji-Kiyaw	Zamfara	12.378	6.771	2	Unguwar Farin Mallam
+Makawa	Ngaski	Kebbi	10.564	4.718	2	
+Unguwar Mahuta	Tsafe	Zamfara	12.068	6.935	2	
+Unguwar Magaji	Bungudu	Zamfara	12.231	6.768	2	
+Unguwar Majiro	Gusau	Zamfara	12.304	6.920	2	Majiro
+Masalawa Baba	Illela	Sokoto	13.655	5.471	2	
+Koda Mayawa	Charanchi	Katsina	12.636	7.736	2	Koda
+Masuka	Gada	Sokoto	13.808	5.516	2	Mosuka
+Gidan Magajiya	Goronyo	Sokoto	13.306	5.594	2	
+Maguru	Kaura Namoda	Zamfara	12.466	6.587	2	
+Matan Kali	Bungudu	Zamfara	12.029	6.427	2	
+Masagu	Bungudu	Zamfara	12.144	6.454	2	
+Masagu (2)	Bungudu	Zamfara	12.126	6.443	2	
+Manmande	Gwadabawa	Sokoto	13.458	5.445	2	
+Maikonaga	Talata Mafara	Zamfara	12.178	6.052	2	Maikwonaga
+Madanfara	Arewa Dandi	Kebbi	13.004	4.287	2	Madamfara
+Ungwan Mallam Bawa	Makarfi	Kaduna	11.335	7.857	2	Mallam Bawa
+Gidan Mai Kwazo	Bungudu	Zamfara	12.116	6.553	2	
+Maiswashi	Maru	Zamfara	11.224	6.428	2	
+Mazangamo	Igabi	Kaduna	10.849	7.714	2	
+Gidan Mallam Haruna	Kaura Namoda	Zamfara	12.449	6.531	2	
+Gidan Dan Mai Zare	Gusau	Zamfara	12.041	6.668	2	
+Madobi	Giwa	Kaduna	11.259	7.595	2	
+Ungwan Madaba	Soba	Kaduna	11.078	8.036	2	Madaba
+Maikori	Suru	Kebbi	11.989	4.152	2	
+Tunga Mallan	Bagudo	Kebbi	11.109	4.309	2	
+Ungwan Mai Jaki	Makarfi	Kaduna	11.268	8.012	2	Mai-Jaki
+Kolmani Gaji Mari	Alkaleri	Bauchi	10.149	10.807	2	Kolmani
+Madakin Jada	Zangon Kataf	Kaduna	10.005	8.107	2	Madakin Jaba
+Mashidi	Wasagu-Danko	Kebbi	11.334	6.121	2	
+Gidan Makera	Doguwa	Kano	10.696	8.562	2	Makera
+Tunga-Majakai	Kware	Sokoto	13.313	5.259	2	
+Mallam Baka	Toro	Bauchi	10.134	9.463	2	
+Garin Malam Yako	Fika	Yobe	11.346	11.217	2	Garin Mallam Yako
+Manawaji Potiskum	Fika	Yobe	11.444	11.520	2	
+Mashio	Fune	Yobe	11.826	11.608	2	Masho
+Moba	Obafemi Owode	Ogun	6.770	3.434	2	Maba
+Mattara	Machina	Yobe	13.042	9.889	2	
+Malewa	Tarmua	Yobe	12.018	12.065	2	
+Dutsen Marra	Ningi	Bauchi	10.820	9.298	2	Marra;Dutsin Marra
+Malaya	Dukku	Gombe	11.005	10.749	2	Malala
+Mali	Argungu	Kebbi	12.653	4.494	2	
+Matsiri	Bunza	Kebbi	12.116	4.096	2	
+Gidan-Mallam-Azuka	Maru	Zamfara	11.378	6.070	2	
+Mamawa	Gwandu	Kebbi	12.380	4.526	2	
+Ungwan Masama	Doguwa	Kano	10.669	8.703	2	
+Maigizo	Shanga	Kebbi	11.250	4.593	2	
+Ungwan Makera	Faskari	Katsina	11.675	7.016	2	Bakin Gulbi
+Kawara Manu	Maiyama	Kebbi	11.998	4.234	2	
+Dogan Marke	Tambuwal	Sokoto	12.248	4.713	2	
+Maikabi	Fakai	Kebbi	11.459	4.899	2	
+Kwara Makeri	Shanga	Kebbi	11.097	4.766	2	
+Ungwan Madaki	Giwa	Kaduna	10.764	7.140	2	Anguwan Madaki
+Matankari	Arewa Dandi	Kebbi	12.825	4.163	2	
+Mareke	Shagari	Sokoto	12.600	4.982	2	
+Mainikuay	Augie	Kebbi	12.864	4.474	2	
+Makina	Maru	Zamfara	11.344	6.549	2	
+Ungwan Dan Madubu	Gusau	Zamfara	11.675	6.573	2	
+Mai Yara	Gusau	Zamfara	11.616	6.598	2	
+Mai-Agumi	Kebbe	Sokoto	11.801	4.856	2	
+Tabani-Marabawa	Maru	Zamfara	11.351	6.543	2	
+Mangawa	Tsafe	Zamfara	11.948	6.872	2	
+Kafin Maiyaki	Kiru	Kano	11.459	8.202	2	
+Ungwan Mayola	Kiru	Kano	11.339	8.242	2	
+Yewa Mata	Yewa North	Ogun	6.947	2.917	2	
+Mansur	Alkaleri	Bauchi	9.555	10.630	2	
+Magaba	Kwaya Kusar	Borno	10.514	11.955	2	
+Maiba	Kwaya Kusar	Borno	10.488	11.864	2	
+Mopo Onijebu	Ibeju Lekki	Lagos	6.426	3.636	2	Mawpo Ijebu;Mopo Ijebbu
+Mayaki	Lapai	Niger	8.850	6.700	2	
+Mallam Mudi	Birnin Gwari	Kaduna	11.067	6.817	2	Malam Mudi
+Motunde	Afijio	Oyo	7.670	3.910	2	Mawtunde
+Maisaimari Birin	Damboa	Borno	11.198	13.052	2	Maisaimari-Birin
+Mallam Ana	Kwami	Gombe	10.467	11.247	2	
+Mallanche	Takum	Benue	6.949	9.696	2	
+Araromi	Moro	Kwara	8.867	4.433	2	Maliki
+Massenge	Wamba	Nasarawa	9.101	8.739	2	
+Matogbun	Ifo	Ogun	6.717	3.350	2	
+Madala	Asa	Kwara	8.553	4.466	2	
+Mallamawa	Isa	Sokoto	13.275	6.453	2	
+Gidan Maikasuwa	Kaita	Katsina	13.324	7.811	2	
+Maiaduwa	Mai'Adua	Katsina	13.191	8.212	2	
+Malada	Mubi South	Adamawa	10.154	13.286	2	
+Mal Adamri	Guzamala	Borno	12.777	13.229	2	
+Mangule	Bama	Borno	11.634	14.106	2	Mongele;Mangele
+Magadamma	Abadam	Borno	13.505	13.047	2	
+Maraya	Yabo	Sokoto	12.856	5.067	2	
+Tungan Makuba	Shiroro	Niger	10.132	6.685	2	
+Mayel Kohi	Yola North	Adamawa	9.183	12.367	2	Mayel Kowi;Mayel Koki
+Madaci	Magama	Niger	10.200	4.700	2	Old Madaci
+Okpura Egbu	Abakaliki	Ebonyi	6.185	8.056	2	Okpura Mamuzu
+Malabawa	Arewa Dandi	Kebbi	12.732	3.957	2	
+Kansana Magaji	Bunza	Kebbi	12.386	3.968	2	
+Tungan Manaba	Dandi	Kebbi	11.687	3.743	2	
+Tungan Maiyara	Suru	Kebbi	11.629	3.911	2	
+Nisan Marke	Ringim	Jigawa	12.201	8.982	2	Marke
+Masoma	Dandi	Kebbi	11.663	3.822	2	
+Ungua Magaji	Babura	Jigawa	12.669	8.768	2	Magaji;Ungwan Magaji
+Gwara Maroji	Suru	Kebbi	11.604	3.954	2	
+Madafa	Dandi	Kebbi	11.670	3.692	2	
+Rijiya Mata	Zango	Katsina	12.909	8.658	2	
+Yan Maulu;Yan Molo	Baure	Katsina	12.774	8.857	2	
+Oko-Makun	Ijebu East	Ogun	6.623	4.190	2	Makun
+Garin Ali	Yamaltu/Deba	Gombe	10.300	11.350	2	Garin Malam Ali
+Makera	Riyom	Plateau	9.617	8.717	2	
+Mashapa	Municipal Area Council	FCT Abuja	9.163	7.484	2	Mahapa
+Bussa Mangu	Yabo	Sokoto	12.689	4.983	2	
+Malikawa	Kware	Sokoto	13.221	5.284	2	
+Gidan Maigemi	Augie	Kebbi	12.763	4.603	2	
+Makadi	Dange-Shuni	Sokoto	12.814	5.305	2	
+Mawshaw	Yewa North	Ogun	6.867	2.750	2	
+Mamalok	Kanam	Plateau	9.651	10.157	2	
+Maigana	Madagali	Adamawa	10.800	13.338	2	
+Mainari (Bulabulin)	Abadam	Borno	13.530	13.219	2	
+Gidan Madi	Tangaza	Sokoto	13.296	4.976	2	
+Makoshi	Agwara	Niger	10.770	4.643	2	Bakoshi
+Marinai	Chikun	Kaduna	10.539	6.840	2	Bakin Kogi
+Gidan Mashau	Birnin Magaji-Kiyaw	Zamfara	12.302	6.859	2	
+Gidan Mani	Bungudu	Zamfara	12.222	6.548	2	
+Matazu	Matazu	Katsina	12.234	7.674	2	Mataza;Matasu
+Mabera	Sokoto South	Sokoto	13.030	5.259	2	
+Old Makawa	Ngaski	Kebbi	10.531	4.667	2	
+Madikal Kwaja	Birnin Gwari	Kaduna	10.741	6.621	2	Maidikan Kwaga
+Makuri	Rafi	Niger	10.008	6.457	2	Kakuri
+Mai-Daji	Bungudu	Zamfara	12.074	6.523	2	
+Magamin Diddi	Maradun	Zamfara	12.649	6.291	2	
+Marge	Talata Mafara	Zamfara	12.495	6.142	2	
+Maraya	Maru	Zamfara	12.197	6.194	2	
+Masagu	Bungudu	Zamfara	12.126	6.443	2	
+Kaurawo Manu	Tangaza	Sokoto	13.670	4.921	2	
+Masawa	Illela	Sokoto	13.676	5.441	2	
+Gadon Meta	Goronyo	Sokoto	13.381	5.820	2	Gadon Mata
+Sauni Majina	Birnin Magaji-Kiyaw	Zamfara	12.307	6.900	2	
+Tungan Magera	Talata Mafara	Zamfara	12.429	6.190	2	
+Gidan Dan Makwayo	Bungudu	Zamfara	12.223	6.822	2	
+Gidan Machido	Bungudu	Zamfara	12.233	6.802	2	
+Gidan Mallam Chido	Gusau	Zamfara	12.020	6.673	2	
+Gidan Mai Sauri	Bungudu	Zamfara	12.343	6.515	2	
+Manai	Gada	Sokoto	13.588	5.574	2	
+Guidan Mallam Yaya	Gusau	Zamfara	12.110	6.676	2	
+Mai Tukuniyan Baban Gona	Maru	Zamfara	11.293	6.447	2	
+Malumfashi	Malumfashi	Katsina	11.785	7.622	3	
+Mahuta	Kafur	Katsina	11.689	7.856	2	Mafuta
+Magada	Soba	Kaduna	11.187	7.851	2	Maggada
+Tunga Mayel	Bagudo	Kebbi	11.171	4.333	2	
+Maigaraya	Fakai	Kebbi	11.687	4.668	2	
+Maro Marun Tonka	Bodinga	Sokoto	12.926	5.178	2	
+Maitankari	Suru	Kebbi	11.992	4.059	2	Matankari
+Ungwan-Mai Awiki	Maru	Zamfara	11.371	6.409	2	
+Dutsen Mai	Igabi	Kaduna	10.896	7.705	2	
+Mabera	Shagari	Sokoto	12.751	5.136	2	
+Mandakwa	Gbako	Niger	9.267	6.033	2	Mandzakwa
+Keffin Madaki	Ganjuwa	Bauchi	10.688	9.762	2	
+Garin Maisaje	Ngelzarma	Yobe	11.826	11.912	2	Garin Maisae
+Maganwa	Geidam	Yobe	12.773	11.867	2	
+Mal Kuri	Magumeri	Borno	12.273	12.450	2	Mal Kurri
+Maya	Ìkòròdú	Lagos	6.652	3.578	2	
+Udeni Magaji	Doma	Nasarawa	7.940	8.075	2	Udeni
+Dan Maitaba	Wasagu-Danko	Kebbi	11.259	6.076	2	
+Ungwan Matankadi	Soba	Kaduna	10.807	8.100	2	
+Mashigi	Igabi	Kaduna	10.578	7.479	2	
+Masama	Doguwa	Kano	10.669	8.703	2	
+Ungwan Makera	Tsafe	Zamfara	11.816	7.003	2	
+Makera	Argungu	Kebbi	12.708	4.422	2	
+Mashaia	Suru	Kebbi	11.827	4.112	2	
+Gidan Madugu	Fakai	Kebbi	11.713	4.768	2	
+Matankari	Birnin Kebbi	Kebbi	12.334	4.314	2	
+Marmaro	Aleiro	Kebbi	12.365	4.447	2	
+Angwan-Maiwasa	Maru	Zamfara	11.301	6.578	2	
+Mai Nasara	Gusau	Zamfara	11.616	6.556	2	
+Majara	Maru	Zamfara	11.408	6.392	2	
+Mayo Lugungel	Mubi North	Adamawa	10.469	13.268	2	
+Tungan Bisalla Makeri	Rijau	Niger	11.154	4.770	2	
+Manjim	Gujba	Yobe	11.335	12.084	2	
+Tongamaliki	Gbako	Niger	9.483	6.167	2	Genobiji;Tunga Maliki
+Maya Belwa	Mayo-Belwa	Adamawa	9.050	12.060	3	
+Madaiki	Guma	Benue	7.982	8.538	2	Madaki
+Makera	Wurno	Sokoto	13.121	5.369	2	
+Garin Mairakuni	Shelleng	Adamawa	9.970	12.049	2	
+Malana	Tureta	Sokoto	12.627	5.493	2	
+Malakadala	Shira	Bauchi	11.383	9.967	2	Malakalada
+Mainyakare	Bama	Borno	11.378	13.707	2	
+Birnin Maurida	Birnin Kebbi	Kebbi	12.515	4.130	2	
+Maigarmaka	Maigatari	Jigawa	12.785	9.506	2	
+Maitoso	Sanga	Kaduna	9.157	8.529	2	
+Masabu	Mariga	Niger	10.700	5.383	2	Mosabu
+Rujin Magaji	Dange-Shuni	Sokoto	12.844	5.292	2	
+Namtari Manga	Yola North	Adamawa	9.317	12.283	2	Namtari
+Marmozhi	Lavun	Niger	9.485	5.681	2	
+Magagindoke	Sabon Birni	Sokoto	13.569	6.311	2	Magagindok
+Makerawa	Mai'Adua	Katsina	13.267	8.141	2	
+Mafa	Mafa	Borno	11.924	13.600	3	Moufi
+Makzu	Michika	Adamawa	10.596	13.364	2	
+Marte	Marte	Borno	12.365	13.830	2	Marte-Kuna
+Mamuri	Abadam	Borno	13.468	13.389	2	
+Mallam Madugu	Song	Adamawa	9.567	12.567	2	Madugu
+Mayo Haka	Jada	Adamawa	8.750	12.300	2	Mayo Hako
+Tunga Makuba	Shiroro	Niger	10.132	6.685	2	
+Tungan Malanderi	Dandi	Kebbi	11.710	3.662	2	
+Gudol Maiyara	Bunza	Kebbi	12.271	3.852	2	
+Kuka Maifulani	Arewa Dandi	Kebbi	12.334	3.753	2	
+Makangawa	Garki	Jigawa	12.360	8.953	2	
+Dan Maigari	Garki	Jigawa	12.511	8.913	2	Danmugen;Dunmugen
+Marina	Bunza	Kebbi	12.021	3.982	2	
+Masare	Baure	Katsina	12.745	8.708	2	Musari
+Unguwar Magaji	Yankwashi	Jigawa	12.793	8.579	2	Magaji
+Matalawa	Ingawa	Katsina	12.786	8.136	2	
+Maikulki	Binji	Sokoto	13.163	4.932	2	Maikuri
+Makwia	Gudu	Sokoto	13.339	4.254	2	Makwa
+Mahintedo	Ilaje	Ondo	6.480	4.585	2	
+Maimazari	Baure	Katsina	12.872	8.766	2	
+Ungwan Mauri	Arewa Dandi	Kebbi	12.544	3.935	2	
+Ungwan Mato	Arewa Dandi	Kebbi	12.371	3.757	2	
+Masaka	Karu	Nasarawa	9.005	7.674	3	
+Manchok	Kaura	Kaduna	9.669	8.514	3	
+Makera	Sabon Birni	Sokoto	13.392	6.464	2	
+Dan Malga	Tureta	Sokoto	12.603	5.489	2	
+Gidan Makera	Kware	Sokoto	13.144	5.315	2	
+Dan Makulu	Kaura Namoda	Zamfara	12.485	6.629	2	
+Maisaimari	Damboa	Borno	11.207	12.999	2	
+Masu	Mafa	Borno	12.207	13.304	2	Masu Nuri
+Maganda	Birnin Gwari	Kaduna	10.928	6.755	2	
+Tungan Gora	Shiroro	Niger	10.156	6.706	2	Tungan Malam Gajere
+Mara Zamfarawa	Dan Musa	Katsina	12.234	7.261	2	Dan Musa
+Malamawa	Kware	Sokoto	13.082	5.434	2	
+Gidan Magajia	Rabah	Sokoto	13.093	5.387	2	
+Gidan Mayawaki	Tangaza	Sokoto	13.302	5.027	2	
+Makurdi	Ngaski	Kebbi	10.366	4.838	2	
+Masuki	Gada	Sokoto	13.764	5.545	2	
+Marumaro	Gada	Sokoto	13.803	5.659	2	
+Madochi	Maru	Zamfara	12.043	6.309	2	
+Masuki	Gada	Sokoto	13.774	5.647	2	
+Mache	Gwadabawa	Sokoto	13.447	5.322	2	
+Jebba Gidan Madugu	Tangaza	Sokoto	13.502	5.148	2	Jabba Gidan Madugu
+Masari	Goronyo	Sokoto	13.524	5.656	2	
+Mahurde	Goronyo	Sokoto	13.486	5.961	2	
+Maimasu	Gwadabawa	Sokoto	13.506	5.329	2	
+Ungwan Mashika	Sabuwa	Katsina	11.463	7.092	2	Mashika
+Ungwan Maryamu	Makarfi	Kaduna	11.340	7.834	2	Maryamu
+Gidan Makangara	Rafi	Niger	10.260	6.284	2	
+Masasa	Illela	Sokoto	13.618	5.289	2	
+Mairairai	Wasagu-Danko	Kebbi	11.334	6.131	2	
+Kamanji	Faskari	Katsina	11.594	7.227	2	Mairuwa;Mairua
+Dan Mahawayi	Giwa	Kaduna	11.309	7.575	2	
+Ungwan Jikan Mama	Makarfi	Kaduna	11.221	7.854	2	
+Mazakar	Igabi	Kaduna	10.862	7.748	2	
+Mazagamo	Igabi	Kaduna	10.847	7.715	2	
+Birnin Magaji	Gummi	Zamfara	12.166	5.302	2	
+Mallam Haruna	Kaura Namoda	Zamfara	12.450	6.531	2	
+Ungwan Mallam Koshi	Gusau	Zamfara	11.642	6.560	2	
+Guidan Dan Mai-Zare	Gusau	Zamfara	12.041	6.668	2	
+Magaji Jirgi	Tsafe	Zamfara	11.854	7.101	2	
+Ungwan Mallamai	Makarfi	Kaduna	11.264	8.041	2	Mailamaj
+Ungwan Mahammadu	Kiru	Kano	11.357	8.269	2	Mahammadu
+Manawa	Maru	Zamfara	11.404	6.334	2	
+Tunga Masu	Bagudo	Kebbi	11.499	4.100	2	
+Maje	Maru	Zamfara	12.011	6.409	2	
+Maraya	Maru	Zamfara	11.459	6.143	2	
+Kasuwan Magani	Kajuru	Kaduna	10.399	7.716	2	
+Ungwan Mallam Abdu	Soba	Kaduna	11.030	8.125	2	Mallam Abdu
+Ungwan Malaika	Soba	Kaduna	11.027	8.210	2	Malaika
+Magaji	Tsafe	Zamfara	11.836	6.937	2	
+Magaji Dan Kowi	Tsafe	Zamfara	11.836	6.936	2	
+Tungan Malam	Suru	Kebbi	11.781	4.118	2	
+Maidanga	Fakai	Kebbi	11.711	4.750	2	
+Ungwan-Mani	Maru	Zamfara	11.415	6.104	2	
+Ungwan-Maiawaki	Wasagu-Danko	Kebbi	11.329	6.149	2	
+Giro-Masa	Shanga	Kebbi	11.104	4.722	2	Giru
+Magodo	Kosofe	Lagos	6.618	3.378	2	
+Maiduguri	Maiduguri	Borno	11.863	13.157	0	
+Maigari General Resources	Jos North	Plateau	9.971	8.894	0	
+Shopping Mall	Egor	Edo	6.364	5.589	0	
+Mall of America	Oredo	Edo	6.325	5.615	0	
+Nigeria Institute of Management	Oredo	Edo	6.307	5.623	0	
+St Mary Dedidcation Brithish School	Oredo	Edo	6.312	5.628	0	
+Abe Medical Clinic and Maternity	Oredo	Edo	6.331	5.630	0	
+Holy Mary Comprehensive College	Oredo	Edo	6.324	5.631	0	
+Shopping Mall	Oredo	Edo	6.309	5.618	0	
+Ngudowa Bulama Matta Kellu	Mobbar	Borno	13.323	12.764	2	
+ST. Mary Dedication Education Centre	Oredo	Edo	6.322	5.617	0	
+Shopping Mall	Oredo	Edo	6.298	5.603	0	
+Mallam Karto Park	Fagge	Kano	12.007	8.540	0	
+Maikaho	Shani	Borno	10.096	11.690	3	Mai Kaho
+Malachi Memorial school	Oredo	Edo	6.331	5.607	0	
+Shopping Mall	Oredo	Edo	6.334	5.606	0	
+Shopping Mall	Oredo	Edo	6.335	5.608	0	
+Man Prof High School	Oredo	Edo	6.345	5.601	0	
+Ann Marie Memorial School	Oredo	Edo	6.323	5.598	0	
+Shopping Mall	Egor	Edo	6.330	5.587	0	
+Aye Shopping Mall	Oredo	Edo	6.338	5.616	0	
+Bobizua Shopping Mall	Oredo	Edo	6.335	5.615	0	
+Owan West Mass Transit	Oredo	Edo	6.344	5.627	0	
+Ero Shopping Mall	Oredo	Edo	6.349	5.622	0	
+Alheri Mai Mai	Abadam	Borno	13.693	13.373	2	
+Chinwendu Clinic & Maternity	Enugu East	Enugu	6.480	7.519	0	
+Kamsiyochukwu Clinic Maternity	Enugu East	Enugu	6.483	7.517	0	
+Magnet Nursery & Primary School	Enugu North	Enugu	6.461	7.500	0	
+May Blossom High School	Enugu South	Enugu	6.414	7.502	0	
+Madonna Daycare Center	Enugu South	Enugu	6.418	7.491	0	
+Moonlight Clinic & Maternity	Enugu North	Enugu	6.425	7.480	0	
+Kofar Marusa Primary School	Muhammadu Dikko Stadium	Katsina	12.988	7.613	0	
+Madarasatu Amina Islamiyya Primary School	Nassarawa	Kano	12.027	8.551	0	
+Tudun Magaji Health Post	Rogo	Kano	11.453	7.782	0	
+Unguwar Malam Amadu Health Post	Rogo	Kano	11.493	7.772	0	
+Maska Health Post	Kiru	Kano	11.595	8.081	0	
+Zangun Majema Health Post	Karaye	Kano	11.816	8.002	0	
+Kauyen Mahuta Health Post	Kabo	Kano	11.866	8.154	0	
+Malan Gajere Health Post	Kabo	Kano	11.860	8.192	0	
+Masanawa Health Post	Kabo	Kano	11.847	8.243	0	
+Maraku Health Post	Kiru	Kano	11.677	8.129	0	
+Maganda Health Post	Doguwa	Kano	10.640	8.759	0	
+Malamawa Health Post	Gwarzo	Kano	11.835	7.860	0	
+Zangon Mata Health Post	Dawakin Tofa	Kano	12.233	8.414	0	
+Malikawa Sarari Health Post	Bichi	Kano	12.380	8.148	0	
+Mariri Primary Health Centre	Kumbotso	Kano	11.950	8.609	0	
+Mazan Gudu Health Post	Gabasawa	Kano	12.195	8.907	0	
+Maidawa	Ajingi	Kano	11.956	8.997	2	
+Hausawa Magaji Gari Mai Unguwa	Gaya	Kano	11.726	9.106	2	
+Kafi Jirgi Magiji Masallaci Yamma	Gaya	Kano	11.746	9.140	2	
+Masaurari	Bagwai	Kano	12.123	8.075	2	
+Maraku	Doguwa	Kano	10.648	8.688	2	
+Dan Marke	Dawakin Kudu	Kano	11.859	8.652	2	
+Madawa	Dawakin Kudu	Kano	11.826	8.655	2	
+Maganda Gari	Doguwa	Kano	10.642	8.760	2	Maganda
+Makauta	Doguwa	Kano	10.694	8.698	2	
+Maigwado	Doguwa	Kano	10.805	8.576	2	Maigodo
+Malamawa	Shanono	Kano	12.070	7.885	2	
+Marmara	Doguwa	Kano	11.107	8.583	2	
+Hayin Mangwaro	Sumaila	Kano	11.112	8.849	2	
+Matanfada	Kunchi	Kano	12.576	8.244	2	Matan Fada
+Maganda	Nassarawa	Kano	12.010	8.552	2	
+Maradi	Tarauni	Kano	11.960	8.590	2	
+Marhaba	Tarauni	Kano	11.974	8.552	2	
+Tudun Maliki	Kumbotso	Kano	11.963	8.531	2	
+Kofar Mazugal	Dala	Kano	12.014	8.517	2	
+Lokon Makera	Gwale	Kano	11.984	8.513	2	
+Madigawa	Dala	Kano	12.002	8.506	2	
+Mai Aduwa	Gwale	Kano	11.996	8.499	2	
+Makafi C	Dala	Kano	12.015	8.499	2	
+Makasa	Gwale	Kano	11.990	8.492	2	
+Mandawari	Gwale	Kano	11.995	8.511	2	
+Sani Mai Nagge	Gwale	Kano	11.987	8.498	2	
+Mako	Sumaila	Kano	11.213	8.967	2	
+Masu	Sumaila	Kano	11.199	8.807	2	Massu
+Marmara	Sumaila	Kano	11.251	8.787	2	
+Matugwai	Sumaila	Kano	11.261	8.762	2	Matuswai
+Mala	Tudun Wada	Kano	11.256	8.436	2	
+Unguwar Masu Rariya	Tudun Wada	Kano	11.245	8.401	2	
+Unguwar Tijjani Maibu	Kumbotso	Kano	11.951	8.531	2	
+Mabuga	Ajingi	Kano	11.959	9.060	2	
+Mabugar Kwashi	Ajingi	Kano	11.960	9.059	2	
+Makuntu	Ajingi	Kano	11.961	9.125	2	
+Maiakusa	Tudun Wada	Kano	11.249	8.449	2	Jandutse
+Unguwar Makera	Gwarzo	Kano	11.945	7.988	2	
+Mardia	Kala-Balge	Borno	12.328	14.505	2	
+Gidan Gali Da Mato	Tudun Wada	Kano	11.312	8.315	2	
+Unguwar Mai Tashe	Tudun Wada	Kano	11.341	8.345	2	
+Unguwar Maituntu	Tudun Wada	Kano	11.321	8.302	2	
+Fuskar Maaji	Tudun Wada	Kano	11.284	8.371	2	Faskar Maaji
+Makwalla Zungur	Tudun Wada	Kano	11.280	8.428	2	
+Malamawa	Tudun Wada	Kano	11.289	8.431	2	
+Mashaya Babba	Tudun Wada	Kano	11.299	8.352	2	
+Magam Kotoko	Kala-Balge	Borno	12.371	14.419	2	
+Tafashiyar Malamai	Tsanyawa	Kano	12.214	8.080	2	Tafahiya
+Mavoumaø	Michika	Adamawa	10.460	13.440	2	
+Makawa Dispensary	Zaki	Bauchi	12.206	10.200	0	
+Makafiya Dispensary	Darazo	Bauchi	11.188	10.935	0	
+Maijama'a Clinic	Bauchi	Bauchi	10.317	9.839	0	
+Maimadi Health Center	Alkaleri	Bauchi	10.272	10.335	0	
+Mari-ari Health Center	Alkaleri	Bauchi	10.273	10.342	0	
+ade oyo maternity teaching hospital	Ibadan North	Oyo	7.387	3.902	0	
+Mapo Market	Ibadan South West	Oyo	7.376	3.896	0	
+Mapo Health Center	Ibadan South East	Oyo	7.377	3.898	0	
+Immaculate Maternity	Ibadan South East	Oyo	7.377	3.898	0	
+St. Peters Maternity Health Centre, Aperin	Ibadan North East	Oyo	7.375	3.919	0	
+Boko Maïgao	Madarounfa	Katsina	13.117	7.144	2	
+Nzuda Mairi	Damboa	Borno	11.121	12.733	2	
+Dabarmasara	Monguno	Borno	12.806	13.839	2	Dabar Masara
+Mabas	Madagali	Adamawa	10.809	13.654	2	
+Mallum Mattari Usman Bintumi	Mobbar	Borno	13.242	12.722	2	
+Maindari	Mobbar	Borno	13.246	12.821	2	
+Walu Mansuri	Mobbar	Borno	13.300	12.831	2	
+Doron Mallum	Abadam	Borno	13.417	13.595	2	
+Tunbun Madayi	Kukawa	Borno	13.412	13.796	3	
+Garin Mallam Wakil	Biu	Borno	10.823	12.240	2	
+Mandafuma	Biu	Borno	10.710	12.251	2	
+Mallam Hudu	Mobbar	Borno	13.109	12.509	2	
+Mai Anguwa Saidu Budam	Shani	Borno	10.320	11.960	2	Budam
+Masarne Goni Alili	Gubio	Borno	12.774	12.701	2	
+Maiwa Baleri	Mafa	Borno	11.884	13.455	2	
+Malamari	Maiduguri	Borno	11.883	13.092	2	Mallumuri
+Mairi Central	Jere	Borno	11.816	13.190	2	
+Maibukart II	Jere	Borno	11.739	13.090	2	
+Mammanti	Jere	Borno	11.751	13.123	2	
+Marimari	Mafa	Borno	11.782	13.313	2	
+Auma L Maina	Damboa	Borno	11.102	12.473	2	
+Bila Mai Karagu	Chibok	Borno	10.834	12.982	2	
+Nchiha Mallum	Chibok	Borno	10.853	12.716	2	
+Lawan Mainta	Chibok	Borno	10.732	12.997	2	
+Maina Baba	Bayo	Borno	10.342	11.579	2	
+Garba Maidoki	Shani	Borno	10.148	11.868	2	
+Jauro Maaji Tagja	Shani	Borno	10.217	11.934	2	
+Jauro Maidu	Shani	Borno	10.204	11.944	2	
+Jauro Mamman	Shani	Borno	10.185	11.897	2	
+Leda Jauro Manman	Shani	Borno	10.191	11.892	2	
+Mabbode	Bayo	Borno	10.294	11.817	2	
+Mainari	Shani	Borno	10.219	11.911	2	
+Maisaje	Shani	Borno	10.166	11.900	2	
+Mallam Yayaro	Shani	Borno	10.275	11.870	2	
+Minjakty Maigawa	Shani	Borno	10.297	11.904	2	
+Mallam Kuluri	Nganzai	Borno	12.730	13.082	2	
+Bukar Maajiri	Magumeri	Borno	12.191	12.833	2	
+Furi Mallumti B	Magumeri	Borno	12.170	12.999	2	
+Furi Mallumti	Magumeri	Borno	12.166	13.000	2	
+Mahindari	Magumeri	Borno	12.160	12.846	2	
+Mairari	Magumeri	Borno	12.123	12.850	2	
+Mairiri A	Magumeri	Borno	12.188	12.851	2	
+Mairiri B	Magumeri	Borno	12.187	12.850	2	
+Malamari	Magumeri	Borno	12.065	12.947	2	
+Malanari	Magumeri	Borno	12.107	12.892	2	
+Mallam Bowori	Magumeri	Borno	12.176	12.992	2	Mallam Umarti
+Mallam Burari	Magumeri	Borno	12.143	12.851	2	
+Mallam Kurnari	Magumeri	Borno	12.148	13.000	2	
+Mallam Siwundi	Magumeri	Borno	12.201	12.876	2	
+Mallam Usmanti	Magumeri	Borno	12.184	12.956	2	
+Mallammari	Magumeri	Borno	12.068	12.947	2	
+Mallamti	Magumeri	Borno	12.075	12.870	2	
+Mallanari	Magumeri	Borno	12.150	12.897	2	
+Mallewari	Magumeri	Borno	12.155	12.961	2	
+Mallum Bulamari	Magumeri	Borno	12.084	12.923	2	
+Mallum Shediri	Magumeri	Borno	12.162	12.870	2	
+Mallum Umarti	Magumeri	Borno	12.052	12.903	2	
+Mallum Yanari	Magumeri	Borno	12.193	12.864	2	
+Mallum Zannari	Magumeri	Borno	12.146	12.903	2	
+Mallumti	Magumeri	Borno	12.117	13.004	2	
+Malta Damburi	Magumeri	Borno	12.171	12.931	2	
+Matta Foddumari	Magumeri	Borno	12.117	13.001	2	
+Matta Kalturi	Magumeri	Borno	12.068	12.881	2	
+Matta Kariri	Magumeri	Borno	12.160	12.880	2	
+Matta Koriri A	Magumeri	Borno	12.154	12.876	2	
+Matta Koriri B	Magumeri	Borno	12.156	12.875	2	
+Matta Zineri	Magumeri	Borno	12.082	12.922	2	
+Mattaram B Kurumi	Magumeri	Borno	12.075	12.933	2	
+Mattaram Bulama Bidiye	Magumeri	Borno	12.081	12.877	2	
+Mattaram	Magumeri	Borno	12.077	12.932	2	
+Mattaramti	Magumeri	Borno	12.195	12.906	2	
+Sheru Maidaye	Magumeri	Borno	12.169	12.899	2	
+Ali Mairamri	Gubio	Borno	12.464	12.608	2	
+Goni Mastafari Kura	Gubio	Borno	12.525	12.559	2	
+Mafari	Gubio	Borno	12.476	12.573	2	
+Maina Kurti	Gubio	Borno	12.490	12.574	2	
+Maina Umarti	Gubio	Borno	12.457	12.611	2	
+Mainakurti	Gubio	Borno	12.475	12.640	2	
+Mainari	Gubio	Borno	12.484	12.596	2	
+Majl furramti	Magumeri	Borno	12.413	12.566	2	
+Malari	Gubio	Borno	12.526	12.560	2	
+Malari	Gubio	Borno	12.540	12.607	2	
+Malla Abduri	Gubio	Borno	12.531	12.601	2	
+Mallam Ajiri	Gubio	Borno	12.520	12.581	2	
+Mallam Banari	Gubio	Borno	12.479	12.590	2	
+Mallam Koriri	Magumeri	Borno	12.434	12.600	2	
+Mallam Koriri	Gubio	Borno	12.447	12.597	2	
+Mallam Moduri	Gubio	Borno	12.448	12.590	2	
+Mallum Mudori	Gubio	Borno	12.542	12.546	2	
+Fulatari Mai Sule	Gubio	Borno	12.479	12.752	2	
+Mal Kanari	Gubio	Borno	12.551	12.762	2	
+Mallam Amsari	Gubio	Borno	12.445	12.659	2	
+Mallam Attamari	Gubio	Borno	12.455	12.739	2	
+Mallam Kachallari	Gubio	Borno	12.493	12.803	2	
+Mallam Kurari	Gubio	Borno	12.395	12.817	2	
+Mayamari	Gubio	Borno	12.455	12.744	2	
+Lawan Mallamti Well	Gubio	Borno	12.450	12.843	2	
+Lawan mallamti	Gubio	Borno	12.451	12.856	2	
+Madara	Nganzai	Borno	12.395	12.965	2	
+Mainari	Gubio	Borno	12.423	12.879	2	
+Mal Abatchari	Gubio	Borno	12.489	12.863	2	
+Malairi	Nganzai	Borno	12.550	12.988	2	
+Malari	Gubio	Borno	12.476	12.848	2	
+Mall Usmanti	Gubio	Borno	12.481	12.922	2	
+Mallam Burari	Gubio	Borno	12.526	12.895	2	
+Mallam Dunari	Gubio	Borno	12.528	12.882	2	
+Mallam Kimeri	Nganzai	Borno	12.393	12.927	2	
+Mallar Karari	Nganzai	Borno	12.539	13.007	2	
+Mattari	Gubio	Borno	12.490	12.858	2	
+Mayari	Gubio	Borno	12.527	12.905	2	
+Modu Maireri	Gubio	Borno	12.480	12.922	2	
+Moruma Mallumti	Gubio	Borno	12.533	12.855	2	
+Goni Mallamti	Nganzai	Borno	12.496	13.024	2	
+Lauwa Bulama Masawa	Nganzai	Borno	12.422	13.135	2	
+Lauwa Malam Zaineri	Nganzai	Borno	12.424	13.134	2	
+Mairama	Nganzai	Borno	12.474	13.065	2	
+Mallam Buhiri	Nganzai	Borno	12.513	13.142	2	
+Mallam Bukarti	Nganzai	Borno	12.544	13.172	2	
+Mallam Hannari	Nganzai	Borno	12.385	13.084	2	
+Mallam Karumiri	Nganzai	Borno	12.405	13.168	2	
+Mallam Kyariri	Nganzai	Borno	12.547	13.088	2	
+Mallari	Nganzai	Borno	12.496	13.132	2	
+Malum Sulumti	Nganzai	Borno	12.429	13.134	2	
+Manum Lawanti	Nganzai	Borno	12.443	13.042	2	
+Manum	Nganzai	Borno	12.447	13.041	2	
+Marram	Nganzai	Borno	12.447	13.145	2	
+Masta Bindiri	Nganzai	Borno	12.401	13.110	2	
+Damaji Bulama Mallambe	Nganzai	Borno	12.479	13.325	2	
+Grema Mattari	Nganzai	Borno	12.418	13.233	2	
+Kodu Mallanti	Nganzai	Borno	12.520	13.297	2	
+Mala Ajiri Bulamari	Nganzai	Borno	12.463	13.331	2	
+Mala Ajiri Gana	Nganzai	Borno	12.464	13.333	2	
+Mala Wango	Nganzai	Borno	12.438	13.311	2	
+Malayari	Nganzai	Borno	12.445	13.240	2	
+Mallam Aliri	Nganzai	Borno	12.512	13.207	2	
+Mallam Burari	Nganzai	Borno	12.460	13.223	2	
+Mallam Gajimiri	Nganzai	Borno	12.538	13.262	2	
+Mallam Mattari	Nganzai	Borno	12.545	13.293	2	Galamari
+Mallam Moduri Balumi	Nganzai	Borno	12.465	13.211	2	
+Mallam Moduri Gana	Nganzai	Borno	12.463	13.216	2	
+Mallam Moduri Kura	Nganzai	Borno	12.425	13.197	2	
+Mallam Moduri	Nganzai	Borno	12.424	13.198	2	
+Mallam Nanari	Nganzai	Borno	12.530	13.286	2	
+Mallam Turari	Nganzai	Borno	12.471	13.222	2	
+Mallamatari	Nganzai	Borno	12.477	13.263	2	
+Mallan Bori	Nganzai	Borno	12.546	13.287	2	Mallam Burti
+Mallumti B	Nganzai	Borno	12.553	13.192	2	
+Mallumti	Nganzai	Borno	12.473	13.255	2	
+Mallumti	Nganzai	Borno	12.524	13.197	2	
+Maraa Bukar Marari	Nganzai	Borno	12.396	13.189	2	
+Maraa Goniri	Nganzai	Borno	12.388	13.186	2	
+Maraa.Bulamari	Nganzai	Borno	12.392	13.191	2	
+Maremari	Nganzai	Borno	12.473	13.327	2	
+Matta Kimeri A	Nganzai	Borno	12.400	13.248	2	
+Ndraw Mainari	Nganzai	Borno	12.448	13.214	2	
+Umari Goniri	Nganzai	Borno	12.526	13.287	2	Mallam Kurari
+Bukarti B Maji	Magumeri	Borno	12.350	12.675	2	
+Madamari	Magumeri	Borno	12.293	12.785	2	
+Mainari	Magumeri	Borno	12.351	12.703	2	
+Majimeri	Magumeri	Borno	12.261	12.732	2	
+Malam Moduri	Magumeri	Borno	12.243	12.714	2	
+Malari	Magumeri	Borno	12.263	12.732	2	
+Malla Koriri	Magumeri	Borno	12.274	12.727	2	
+Mallam Awatchari	Magumeri	Borno	12.230	12.770	2	
+Mallam Buluri	Magumeri	Borno	12.221	12.819	2	
+Mallam Kurti	Magumeri	Borno	12.310	12.725	2	
+Mallam Kurti	Magumeri	Borno	12.345	12.710	2	
+Mallam Maiduri	Magumeri	Borno	12.298	12.668	2	
+Mallam Mairari	Magumeri	Borno	12.296	12.729	2	
+Mallam Moduri	Magumeri	Borno	12.216	12.694	2	
+Mallam Umarti	Magumeri	Borno	12.326	12.676	2	
+Mallamti	Magumeri	Borno	12.320	12.679	2	
+Mallum Kaleri	Magumeri	Borno	12.237	12.806	2	
+Mallumti	Magumeri	Borno	12.221	12.766	2	
+Massa Majiri	Magumeri	Borno	12.315	12.711	2	
+Mattari	Magumeri	Borno	12.249	12.724	2	
+Mallumganari	Magumeri	Borno	12.325	12.769	2	
+Galu Mallam Danladi	Shani	Borno	10.206	11.974	2	
+Gorojombo Unguwan Makeri	Shani	Borno	10.252	11.999	2	Grojombo
+Jam Jam Mallam Ahmadu	Shani	Borno	10.215	12.025	2	
+Mada	Shani	Borno	10.271	12.027	2	
+Madina	Shani	Borno	10.258	12.092	2	
+Mbororo Machido	Shani	Borno	10.245	11.985	2	
+Shapuk Anguwan Manager	Shani	Borno	10.209	12.011	2	
+Maidairi	Magumeri	Borno	12.273	12.991	2	
+Maillari	Magumeri	Borno	12.266	12.923	2	
+Mainari	Magumeri	Borno	12.273	12.921	2	
+Malari Kawuri	Nganzai	Borno	12.370	12.935	2	
+Mallam Abbari	Magumeri	Borno	12.253	12.905	2	
+Mallam Burari 1	Magumeri	Borno	12.245	12.992	2	
+Mallam Burari	Magumeri	Borno	12.243	12.993	2	
+Mallam Fannari	Magumeri	Borno	12.253	12.936	2	
+Mallam Kolori	Magumeri	Borno	12.277	12.957	2	
+Malliari	Magumeri	Borno	12.271	12.952	2	
+Mallumti Duliye	Magumeri	Borno	12.223	12.941	2	
+Mallumti Gana	Magumeri	Borno	12.219	12.936	2	
+Mallumti Kura	Magumeri	Borno	12.225	12.941	2	
+Mallumti	Magumeri	Borno	12.227	12.941	2	
+Mattari B	Magumeri	Borno	12.214	12.939	2	
+Bare Modu Mala	Magumeri	Borno	12.286	13.090	2	
+Kosari Bulama Massa	Magumeri	Borno	12.226	13.099	2	
+Mainari B Umara	Magumeri	Borno	12.308	13.069	2	
+Mainari	Magumeri	Borno	12.235	13.076	2	
+Majimari	Nganzai	Borno	12.380	13.062	2	
+Mallam Kurari	Nganzai	Borno	12.355	13.149	2	
+Mallam Zannari	Nganzai	Borno	12.342	13.016	2	
+Mallan	Nganzai	Borno	12.297	13.174	2	
+Maraa Kodori	Nganzai	Borno	12.379	13.179	2	
+Maraa Mainari	Nganzai	Borno	12.374	13.180	2	
+Massam	Nganzai	Borno	12.299	13.173	2	
+Warram Fulatari	Nganzai	Borno	12.230	13.172	2	Malan
+Burari B Mamman	Nganzai	Borno	12.269	13.188	2	Goniri
+Kyari Suguri Mallambe	Nganzai	Borno	12.248	13.188	2	
+Maa Birni	Mafa	Borno	12.215	13.337	2	
+Maa Manganari	Mafa	Borno	12.226	13.333	2	
+Mafamari	Nganzai	Borno	12.295	13.206	2	Mallam Kalleri
+Mairi	Nganzai	Borno	12.243	13.189	2	
+Malari	Mafa	Borno	12.214	13.271	2	
+Maleri	Nganzai	Borno	12.249	13.186	2	
+Maliki	Mafa	Borno	12.229	13.276	2	
+Maliuri	Nganzai	Borno	12.245	13.191	2	
+Mallam Zakamiri	Nganzai	Borno	12.258	13.245	2	
+Mallum Moduri	Nganzai	Borno	12.373	13.235	2	Modu Wandari
+Mankari Bulamari	Mafa	Borno	12.262	13.308	2	Mankari
+Maraa Moromari	Nganzai	Borno	12.371	13.185	2	
+Modu Kalari	Nganzai	Borno	12.363	13.239	2	Mallam Moduri;Musa Yanari
+Marini	Dambatta	Kano	12.591	8.640	2	
+Kadai Mallumti	Gubio	Borno	12.663	12.793	2	
+Mainari	Gubio	Borno	12.696	12.823	2	
+Mallam Bunuri	Gubio	Borno	12.713	12.822	2	
+Mallam Usmanti	Gubio	Borno	12.696	12.817	2	
+Mainari I	Jere	Borno	12.113	13.088	2	
+Mainari II	Jere	Borno	12.111	13.090	2	
+Makadamal	Jere	Borno	12.078	13.168	2	
+Makulbe	Jere	Borno	12.060	13.173	2	
+Mallami	Jere	Borno	12.079	13.068	2	
+Mattari	Magumeri	Borno	12.174	13.012	2	
+Ma A Jaja	Mafa	Borno	12.197	13.341	2	
+Maafandi	Mafa	Borno	12.183	13.342	2	
+Maagadakauwu	Mafa	Borno	12.181	13.345	2	
+Mai Njita Kanube	Nganzai	Borno	12.113	13.254	2	
+Majimeri	Jere	Borno	12.024	13.135	2	
+Malam Matari	Jere	Borno	11.981	13.097	2	
+Mallumuri Village	Maiduguri	Borno	11.883	13.097	2	
+Mammy Market	Jere	Borno	11.907	13.100	2	
+Masamajiri	Jere	Borno	11.936	13.095	2	
+Mattari	Jere	Borno	12.024	13.121	2	
+Maximum Prison Quarters	Maiduguri	Borno	11.895	13.096	2	
+Bula Maturi	Jere	Borno	11.888	13.224	2	
+Mai Meleri	Mafa	Borno	11.898	13.297	2	
+Malis	Jere	Borno	11.985	13.243	2	
+Maa Shuwari Bulamari	Mafa	Borno	12.205	13.371	2	
+Maasharafti	Mafa	Borno	12.191	13.370	2	
+Maska Alibe	Mafa	Borno	12.195	13.508	2	
+Maska Lawamti	Mafa	Borno	12.175	13.524	2	Masfa Lawamti
+Bulamari Marketg	Mafa	Borno	12.054	13.588	2	
+Maiwa	Mafa	Borno	12.059	13.700	2	
+Maluma	Mafa	Borno	12.182	13.706	2	
+Marhumma	Mafa	Borno	12.058	13.629	2	
+Ma'Aza	Mafa	Borno	12.065	13.726	2	
+Mainari	Mafa	Borno	12.172	13.831	2	
+Maskate	Mafa	Borno	12.045	13.830	2	Kwaya
+Kajeri B Maye	Mafa	Borno	11.880	13.822	2	
+Kajeri Mai Burem	Mafa	Borno	11.869	13.820	2	
+Madina	Mafa	Borno	11.967	13.830	2	
+Madigine	Mafa	Borno	11.999	13.549	2	
+Madinatu Borehole	Mafa	Borno	11.906	13.554	2	
+Mainari	Mafa	Borno	11.985	13.662	2	
+Kachalla Mallumti	Gubio	Borno	12.614	12.736	2	
+Maiduguri	Gubio	Borno	12.630	12.665	2	
+Maina Bukarti	Gubio	Borno	12.598	12.704	2	
+Mallam Fantameri	Gubio	Borno	12.619	12.736	2	
+Mallum Kururi	Gubio	Borno	12.582	12.671	2	
+Mallum Suri	Gubio	Borno	12.636	12.698	2	
+Makiyamari	Gubio	Borno	12.589	12.831	2	
+Makkiari	Gubio	Borno	12.588	12.831	2	
+Mal Fantamari	Gubio	Borno	12.601	12.767	2	
+Mallam Asheri Bukamaye	Gubio	Borno	12.624	12.754	2	
+Mallam Durmanti	Gubio	Borno	12.636	12.788	2	
+Mallam Suguri	Gubio	Borno	12.573	12.831	2	
+Mallana Asheri Gamboye	Gubio	Borno	12.621	12.756	2	
+Mallana Asheri Guboye	Gubio	Borno	12.623	12.752	2	
+Mallana Guboye B	Gubio	Borno	12.622	12.754	2	
+Mallumti	Gubio	Borno	12.594	12.770	2	
+Mattabasamari A	Gubio	Borno	12.639	12.774	2	
+Mattari	Gubio	Borno	12.599	12.768	2	
+Maiwa Kura	Mafa	Borno	11.881	13.446	2	
+Maiwa	Mafa	Borno	11.882	13.443	2	
+Mainari Kanuri	Jere	Borno	11.732	13.085	2	
+Malari	Jere	Borno	11.795	13.073	2	
+Mainari	Gubio	Borno	12.713	12.669	2	
+Malam Kanguri	Gubio	Borno	12.662	12.704	2	
+Mallam Ajiramti	Gubio	Borno	12.677	12.714	2	
+Mallam Durmari	Gubio	Borno	12.676	12.720	2	
+Mallum Marrari	Gubio	Borno	12.652	12.726	2	
+Masar Bugiri	Gubio	Borno	12.689	12.686	2	
+Mata Gambori	Gubio	Borno	12.685	12.683	2	
+Goni Mattari	Gubio	Borno	12.938	12.767	2	
+Malumti	Mobbar	Borno	13.064	12.822	2	
+Malatari	Magumeri	Borno	12.085	12.820	2	Ali Ngware
+Kallura Mallum Mutti	Magumeri	Borno	12.175	12.757	2	
+Kareram Mallumti Kosoye	Magumeri	Borno	12.197	12.781	2	Ngalari
+Maina Moduri	Magumeri	Borno	12.054	12.756	2	
+Makintari	Magumeri	Borno	12.192	12.795	2	
+Mala 'anari	Magumeri	Borno	12.189	12.795	2	
+Mallam Faltari	Magumeri	Borno	12.171	12.780	2	
+Mallam Galtimari	Magumeri	Borno	12.182	12.772	2	
+Mallum Ajiri	Magumeri	Borno	12.209	12.719	2	
+Mallumti Bukar Sugumiye	Magumeri	Borno	12.204	12.778	2	
+Malumti	Magumeri	Borno	12.208	12.775	2	
+Mattari	Magumeri	Borno	12.166	12.792	2	
+Malaharam Kura	Damboa	Borno	11.048	12.752	2	Malaharam
+Bintu Mainamti	Gubio	Borno	12.572	12.864	2	
+Mallam Dauri	Gubio	Borno	12.653	12.860	2	
+Mallam Dunomari	Gubio	Borno	12.726	12.848	2	
+Mallam Fandamiri	Gubio	Borno	12.579	12.835	2	
+Mariram	Gubio	Borno	12.649	12.993	2	
+Masho B	Gubio	Borno	12.642	12.832	2	
+Masho Gana	Gubio	Borno	12.611	12.857	2	
+Masho	Gubio	Borno	12.639	12.834	2	
+Matta Goniramti	Gubio	Borno	12.585	12.868	2	
+Gomboru Maternal And Child Clinic	Ngala	Borno	12.370	14.210	0	
+Manawaji Health	Ngala	Borno	12.421	14.128	0	
+Manawaji	Ngala	Borno	12.420	14.125	2	
+Maigilari	Mafa	Borno	11.797	13.313	2	
+Mainari	Jere	Borno	11.762	13.222	2	
+Bintu Madamti	Nganzai	Borno	12.664	13.081	2	
+Goni mallam Gana Yatcha	Nganzai	Borno	12.648	13.105	2	
+Ma'are	Nganzai	Borno	12.572	13.182	2	
+Maiduguri Isari	Nganzai	Borno	12.637	13.151	2	
+Maiduguri	Nganzai	Borno	12.627	13.152	2	
+Maina Koriri	Nganzai	Borno	12.577	13.166	2	
+Mainamari	Nganzai	Borno	12.580	13.015	2	
+Malaimari	Nganzai	Borno	12.709	13.178	2	
+Malamti	Nganzai	Borno	12.629	13.041	2	
+Malana Gambori	Nganzai	Borno	12.719	13.181	2	
+Malemari	Nganzai	Borno	12.705	13.175	2	
+Mallam Abturi	Nganzai	Borno	12.677	13.140	2	
+Mallam Bujiri	Nganzai	Borno	12.571	13.027	2	
+Mallam Kurnari	Gubio	Borno	12.713	13.034	2	
+Mallam Sulumti	Nganzai	Borno	12.669	13.084	2	
+Mallam Umarari	Nganzai	Borno	12.691	13.097	2	
+Mallamti	Nganzai	Borno	12.636	13.153	2	
+Mammanti Alajiri	Nganzai	Borno	12.628	13.159	2	
+Matari	Nganzai	Borno	12.557	13.138	2	
+Ali Mataranti	Gubio	Borno	12.828	12.713	2	
+Goni Mansuri	Gubio	Borno	12.782	12.728	2	
+Lagari Mallumti	Gubio	Borno	12.866	12.770	2	
+Maina Bukarti	Gubio	Borno	12.893	12.768	2	
+Makintari	Gubio	Borno	12.837	12.769	2	
+Mallam Awari	Gubio	Borno	12.857	12.801	2	
+Mallam Bayari	Gubio	Borno	12.855	12.753	2	
+Mallam Burari	Gubio	Borno	12.860	12.768	2	
+Mallam Burti	Gubio	Borno	12.802	12.773	2	
+Mallam Kyariri	Gubio	Borno	12.845	12.763	2	
+Malum Kyareri	Gubio	Borno	12.739	12.659	2	
+Mansari	Gubio	Borno	12.782	12.717	2	
+Mata Shinari	Gubio	Borno	12.860	12.813	2	
+Matta Shinari	Gubio	Borno	12.854	12.814	2	
+Goni Matari	Gubio	Borno	12.555	12.544	2	
+Maina Gajiramti	Gubio	Borno	12.626	12.526	2	
+Mainari	Gubio	Borno	12.584	12.506	2	
+Malari	Gubio	Borno	12.614	12.642	2	
+Mallam Bukarti	Gubio	Borno	12.680	12.641	2	
+Mallum Nduri	Gubio	Borno	12.557	12.537	2	
+Mallum Tari	Gubio	Borno	12.568	12.549	2	
+Mauramri	Gubio	Borno	12.584	12.654	2	
+Makurdi	Markurdi	Benue	7.726	8.533	0	
+Jauro Alhaji Mati	Shani	Borno	10.206	11.736	2	
+Jauro Magaji Kulti	Shani	Borno	10.222	11.751	2	
+Jauro Mati	Shani	Borno	10.198	11.734	2	
+Machiya	Bayo	Borno	10.283	11.703	2	
+Maidana	Bayo	Borno	10.252	11.622	2	
+Maje	Bayo	Borno	10.299	11.642	2	
+Majiya	Bayo	Borno	10.295	11.726	2	
+Makera A	Bayo	Borno	10.249	11.732	2	
+Makera B	Bayo	Borno	10.246	11.715	2	
+Makera	Bayo	Borno	10.279	11.628	2	
+Mallawa	Bayo	Borno	10.296	11.661	2	
+Yolde Makera	Bayo	Borno	10.298	11.770	2	
+Ndeki Anguwan Mallam Barau	Bayo	Borno	10.309	11.585	2	
+Bila Mallum Nomadic	Chibok	Borno	10.741	12.851	2	
+Bulama Mallum Kellumi	Nganzai	Borno	12.627	13.317	2	
+Goni Mattari	Nganzai	Borno	12.615	13.305	2	
+Maiduguri	Nganzai	Borno	12.634	13.198	2	
+Malari	Nganzai	Borno	12.582	13.187	2	
+Mallam Abbatchari	Nganzai	Borno	12.724	13.236	2	Kyari Kelluri
+Mallam Borti Goni Kulumi	Nganzai	Borno	12.621	13.209	2	
+Mallam Borti	Nganzai	Borno	12.616	13.213	2	
+Mallam Kellumeri	Nganzai	Borno	12.625	13.307	2	
+Mallam Kyariri Goni Yuramti	Nganzai	Borno	12.628	13.198	2	
+Mallam Kyariri Moduzaramiri	Nganzai	Borno	12.629	13.200	2	
+Mallam Kyariri	Nganzai	Borno	12.632	13.198	2	
+Mallam Zannari	Nganzai	Borno	12.559	13.304	2	
+Mallum Kellumi	Nganzai	Borno	12.619	13.315	2	
+Mallumti	Nganzai	Borno	12.567	13.195	2	Kumoi
+Masta Kurari	Nganzai	Borno	12.623	13.352	2	
+Mattari	Nganzai	Borno	12.615	13.297	2	
+Mattari	Nganzai	Borno	12.631	13.215	2	
+Malari	Magumeri	Borno	12.039	12.917	2	
+Mallam Bukar	Magumeri	Borno	12.027	12.928	2	
+Mallam Bukarti	Magumeri	Borno	12.028	12.926	2	
+Mallam Dalari	Magumeri	Borno	11.920	12.955	2	
+Mallam Umarti	Magumeri	Borno	11.930	12.931	2	
+Mallum Abachari	Magumeri	Borno	11.992	12.962	2	
+Mallum Sulumti	Magumeri	Borno	11.944	12.973	2	
+Maramari Gana	Magumeri	Borno	12.030	12.838	2	
+Mattari	Magumeri	Borno	12.020	12.931	2	
+Mattawango	Magumeri	Borno	12.036	12.893	2	
+Maiagu	Omala	Kogi	8.002	7.479	2	
+Maiogu	Omala	Kogi	8.002	7.479	2	
+Garin Mai Kura	Shani	Borno	10.095	11.904	2	
+Jauro Manager	Shani	Borno	10.043	11.874	2	
+Jauro manaja	Shani	Borno	10.046	11.875	2	
+Mai Kaho	Shani	Borno	10.126	11.929	2	
+Mai Turmi	Shani	Borno	10.087	11.951	2	
+Mallam Sajo	Shani	Borno	10.123	11.920	2	
+Tashan Maina	Shani	Borno	10.109	11.784	2	
+Ali Mattari	Magumeri	Borno	12.082	12.751	2	
+Mallam Gajiri	Magumeri	Borno	12.166	12.789	2	
+Maramari Kura	Magumeri	Borno	12.028	12.831	2	
+Jokollam B Maima	Magumeri	Borno	12.001	12.391	2	
+Mainuk	Kaga	Borno	11.830	12.631	3	Mainok
+Maiburum	Magumeri	Borno	12.126	12.343	2	
+Ali Mariri	Magumeri	Borno	12.282	12.577	2	
+Bukar Majimeri	Magumeri	Borno	12.363	12.608	2	
+Maidu Gajimeri	Magumeri	Borno	12.377	12.525	2	
+Malari	Magumeri	Borno	12.370	12.574	2	
+Mallum Maiduri	Magumeri	Borno	12.368	12.600	2	
+Mallum Umarti	Magumeri	Borno	12.331	12.601	2	
+Marnari	Mobbar	Borno	12.886	12.424	2	
+Masho B Kellu	Mobbar	Borno	12.848	12.460	2	
+Masho B. Dalami	Mobbar	Borno	12.848	12.478	2	
+Masho Kuriyayi	Mobbar	Borno	12.823	12.455	2	
+Masho	Mobbar	Borno	12.845	12.456	2	
+T Majiri	Mobbar	Borno	12.870	12.450	2	
+Bulama Moku Madu	Kwaya Kusar	Borno	10.372	11.913	2	
+Disa Jauro Manu	Kwaya Kusar	Borno	10.453	11.827	2	
+Gadan Mallam	Kwaya Kusar	Borno	10.482	11.794	2	
+Garin Mallam Gaina	Kwaya Kusar	Borno	10.331	11.910	2	
+Kogu Magira	Kwaya Kusar	Borno	10.418	11.948	2	
+Maiba Bakari	Kwaya Kusar	Borno	10.488	11.863	2	
+Maiba Jauro Umar	Kwaya Kusar	Borno	10.486	11.861	2	
+Maiba Saidu	Kwaya Kusar	Borno	10.487	11.865	2	
+Maiba Tabare	Kwaya Kusar	Borno	10.485	11.857	2	
+Maikaho	Kwaya Kusar	Borno	10.379	11.870	2	
+Ladanti Mai Tadi	Mobbar	Borno	12.926	12.468	2	
+Malla Aminari	Mobbar	Borno	13.019	12.455	2	
+Mallumti Burin	Mobbar	Borno	13.053	12.451	2	
+Jauro Magaji	Shani	Borno	10.063	12.038	2	
+Maiduna	Shani	Borno	10.088	12.082	2	
+Marawo	Shani	Borno	10.101	12.068	2	
+Tudun Wada Makaranta	Shani	Borno	10.123	11.972	2	
+Kelling Mai Angwa Kongo	Shani	Borno	10.309	12.175	2	
+Mai Gari	Shani	Borno	10.255	12.136	2	
+Un Maigari	Shani	Borno	10.251	12.136	2	
+Makkamari	Mobbar	Borno	12.794	12.548	2	
+Mallam Fafari	Mobbar	Borno	12.817	12.625	2	
+Mallam Kakari	Gubio	Borno	12.761	12.643	2	
+Mallam Kuramti	Mobbar	Borno	12.850	12.573	2	
+Mallam Sulumti	Gubio	Borno	12.796	12.654	2	
+Mallum Burti	Mobbar	Borno	12.786	12.566	2	
+Mallum Yunari	Mobbar	Borno	12.864	12.549	2	
+Masho Sheruri	Mobbar	Borno	12.852	12.483	2	
+Matkauri	Mobbar	Borno	12.769	12.544	2	
+Angulti Malumti	Mobbar	Borno	12.952	12.633	2	
+Majeri	Mobbar	Borno	12.905	12.526	2	
+Mallam Abbari	Mobbar	Borno	12.910	12.576	2	
+Mallam Musaye	Mobbar	Borno	12.971	12.626	2	
+Mallam Usmandi	Mobbar	Borno	12.921	12.578	2	
+Mallamti Ganyawa	Mobbar	Borno	12.994	12.577	2	
+Malum Kolomiri	Mobbar	Borno	12.920	12.633	2	
+Mamu G.Bukar	Mobbar	Borno	13.038	12.555	2	
+Mamu Mangari	Mobbar	Borno	13.042	12.542	2	
+Musari Mallumti	Gubio	Borno	12.891	12.842	2	
+M Magaji 2	Mobbar	Borno	13.110	12.515	2	
+Mallam Gambori	Mobbar	Borno	13.177	12.815	2	
+Mallum Mattari Futeye	Mobbar	Borno	13.236	12.714	2	
+Garin Mai Dawa	Bayo	Borno	10.320	11.575	2	
+Garin Mai Kanwa	Bayo	Borno	10.344	11.556	2	
+Mallam Lawali	Bayo	Borno	10.324	11.585	2	
+Changilba Gabas Mai Saje	Bayo	Borno	10.371	11.707	2	
+Garin Mai Rijiya	Bayo	Borno	10.341	11.622	2	
+Gedaba Tashan Raba Jauro Mai Gari	Bayo	Borno	10.434	11.653	2	
+Gumbeli Jauro Manu	Bayo	Borno	10.419	11.675	2	
+Pono Machido	Bayo	Borno	10.346	11.748	2	
+Unguwan Mallam Dahiru	Kwaya Kusar	Borno	10.477	11.777	2	
+Mainari A Chulum	Mobbar	Borno	13.194	13.004	2	
+Matta Kimeri	Mobbar	Borno	13.205	12.854	2	
+Maya	Diffa	Borno	13.183	12.547	2	
+Mai Anguwa Abdu Budam	Shani	Borno	10.316	11.964	2	Budam M Saidu
+Panchani Maianguwa Likita	Kwaya Kusar	Borno	10.431	11.998	2	
+Panchani Maianguwa Yusuf B	Kwaya Kusar	Borno	10.429	11.996	2	
+Bulama Abdul Maina	Shani	Borno	10.333	12.216	2	
+Machamuna	Hawul	Borno	10.377	12.280	2	
+Madrasatu Tarbiyyatul Awladul Muslimin	Kaduna South	Kaduna	10.531	7.404	0	
+Mallam Jakwa	Hawul	Borno	10.479	12.432	2	
+Zara Mai Gemu	Hawul	Borno	10.481	12.432	2	
+Buma Maternity and Child Health	Hawul	Borno	10.329	12.178	0	
+Malum Bukarti	Abadam	Borno	13.062	13.255	2	
+Malundi	Abadam	Borno	13.105	13.210	2	
+Mashayi	Abadam	Borno	13.367	13.188	2	
+Malum Kadomari	Abadam	Borno	13.358	13.120	2	
+Mashayi	Abadam	Borno	13.361	13.183	2	
+Mala Alide	Mobbar	Borno	13.276	12.861	2	
+Mallam Kolomari	Mobbar	Borno	13.372	12.892	2	
+Mallam Kyaridi	Mobbar	Borno	13.343	12.852	2	
+Malumti Kura	Mobbar	Borno	13.245	12.912	2	
+Mattari	Mobbar	Borno	13.406	12.918	2	
+Maya	Abadam	Borno	13.403	12.937	2	
+Bula Malari	Abadam	Borno	13.477	12.984	2	
+Malumti	Abadam	Borno	13.581	13.253	2	
+Alheri Malengine	Abadam	Borno	13.690	13.407	2	
+Maa Shuwari	Mafa	Borno	12.212	13.369	2	
+Maje Kokori	Marte	Borno	12.267	13.821	2	
+Maje Malumri	Marte	Borno	12.280	13.820	2	
+Maje Sharuwuri	Marte	Borno	12.266	13.820	2	
+Ma’arta	Marte	Borno	12.381	13.784	2	
+Jiga Makera	Aleiro	Kebbi	12.284	4.539	2	
+Jauro Magu	Bayo	Borno	10.580	11.727	2	
+Masa'ida	Bayo	Borno	10.592	11.699	2	
+Mastuwa	Bayo	Borno	10.651	11.747	2	
+Tashan Marke	Kwaya Kusar	Borno	10.488	11.732	2	
+Gashina Mala Quarters	Kwaya Kusar	Borno	10.518	11.853	2	
+Jam'are Makeri	Biu	Borno	10.618	11.923	2	
+Mahira	Bayo	Borno	10.660	11.811	2	
+Mai Wuya	Kwaya Kusar	Borno	10.547	11.919	2	
+Maiba Inusa	Kwaya Kusar	Borno	10.490	11.850	2	
+Makeri	Biu	Borno	10.620	11.928	2	
+Malam Ali Jimeta	Kwaya Kusar	Borno	10.548	11.949	2	
+Dladi Makaranta	Hawul	Borno	10.551	12.060	2	
+Garin Mallam	Kwaya Kusar	Borno	10.492	11.960	2	
+Maana	Hawul	Borno	10.543	12.070	2	
+Madusaku	Hawul	Borno	10.648	12.049	2	
+Magaba Fulani	Kwaya Kusar	Borno	10.512	11.961	2	
+Manda Bwala	Hawul	Borno	10.550	12.050	2	
+Mandabwala	Hawul	Borno	10.540	12.035	2	
+Mashu	Hawul	Borno	10.655	12.039	2	
+Matheba	Hawul	Borno	10.563	11.999	2	
+Tshuyam Mamman Wani Hel	Hawul	Borno	10.575	12.034	2	Mamman Wanihil
+Mamdataku	Hawul	Borno	10.490	12.141	2	Mandataku
+Amarvai Mallam	Mafa	Borno	11.831	13.800	2	
+Gavaya Ma'Aji	Mafa	Borno	11.793	13.769	2	
+Ma'Allasuwa Yaga Dupe	Mafa	Borno	11.810	13.801	2	
+Ma'Allasuwa Yaga Munye	Mafa	Borno	11.813	13.804	2	
+Mallumri A Kabu	Mafa	Borno	11.816	13.771	2	
+Mallumri Agabiye	Mafa	Borno	11.831	13.790	2	
+Mallumri Asga	Mafa	Borno	11.833	13.781	2	
+Mallumri Nguzowa	Mafa	Borno	11.821	13.771	2	
+Mallumri Yaga Munye	Mafa	Borno	11.828	13.785	2	
+Umchille Maibula	Mafa	Borno	11.786	13.760	2	
+Mallam Masari	Bama	Borno	11.636	13.678	2	
+Malamiri	Damboa	Borno	11.214	13.095	2	Ngaburari
+Mallam Fatori	Abadam	Borno	13.675	13.339	3	Bisagana;Malam Fatori;Bisugana;Malumfatori;Malum Fatori
+Malum’Mbayeri	Kukawa	Borno	12.767	13.755	2	Mallum Bairi
+Madari	Kukawa	Borno	12.847	13.666	2	Maduwari;Maduwan
+Mairari	Guzamala	Borno	12.683	13.438	2	
+Gubio Maternity and Child Health	Gubio	Borno	12.492	12.784	0	
+Mandala	Monguno	Borno	12.525	13.604	2	
+Mawulli Lawanti	Marte	Borno	12.329	13.721	2	
+Mallam Maja Primary Health Centre	Dikwa	Borno	11.986	14.091	0	
+Bulonguwa Maibe	Dikwa	Borno	11.941	13.881	2	
+Makintakururi	Kaga	Borno	11.780	12.390	2	
+Makintakururi Clinic	Kaga	Borno	11.778	12.392	0	
+Marguba Primary Health Centre	Kaga	Borno	11.694	12.584	0	
+Benisheik Maternal Child Health Clinic	Kaga	Borno	11.807	12.488	0	
+Mastafannamiri Primary Health Clinic	Konduga	Borno	11.532	12.991	0	
+Marja Shettima	Hawul	Borno	10.502	12.347	2	
+Rugan Maina	Biu	Borno	10.730	11.950	2	
+Rugan Mallam Mohammadu	Biu	Borno	10.720	11.945	2	
+Mapi Fulani	Biu	Borno	10.721	12.009	2	
+Mapi	Biu	Borno	10.724	12.008	2	
+Mairi Clinic	Jere	Borno	11.811	13.188	0	
+Machido	Biu	Borno	10.725	12.151	2	
+Maina Tochi	Biu	Borno	10.696	12.161	2	Alhaji Bakari
+Makadas	Biu	Borno	10.687	12.171	2	
+Zira Ma'aji	Biu	Borno	10.812	12.204	2	
+Gujuri	Mafa	Borno	11.805	13.690	2	Matta Gujjari
+Maidurmari	Konduga	Borno	11.535	13.478	2	
+Mallam Fantamri	Bama	Borno	11.646	13.612	2	
+Mairamri Primary Health Clinic	Konduga	Borno	11.601	13.489	0	
+Kana Kuthli Madu	Biu	Borno	10.764	12.322	2	
+Maraban Birma	Biu	Borno	10.767	12.392	2	
+Mararaba Kimba	Biu	Borno	10.788	12.416	2	
+Mararaba Kimbaq	Biu	Borno	10.797	12.411	2	
+Mararaba Tila	Biu	Borno	10.667	12.350	2	
+Jauro Manu Laima Alhaji Maina	Biu	Borno	10.901	11.748	2	
+Malumti	Damboa	Borno	11.219	12.264	2	
+Maina Hari Health Clinic	Biu	Borno	10.678	12.159	0	
+Maternity and Child Health Miringa	Biu	Borno	10.726	12.146	0	
+Mandaragirau Health Centre	Biu	Borno	10.693	12.331	0	
+Machima B	Damboa	Borno	11.195	12.506	2	
+Ba Magumo	Chibok	Borno	10.867	12.749	2	
+Bala Maduri	Damboa	Borno	11.050	12.854	2	
+Mai Girari	Damboa	Borno	11.082	12.726	2	
+Malaharam Abatilozu	Damboa	Borno	11.034	12.747	2	
+Malaharam Golori	Damboa	Borno	11.038	12.746	2	
+Malaharam Kaburi	Damboa	Borno	11.035	12.750	2	
+Matamgle	Damboa	Borno	11.149	12.669	2	
+Bula Madagermbe	Bama	Borno	11.377	13.975	2	
+Bula Mattabe	Bama	Borno	11.405	13.873	2	
+Magdewerne	Gwoza	Borno	11.314	13.848	2	Magde Werne
+Mairamri	Bama	Borno	11.461	13.787	2	
+Manarchie	Gwoza	Borno	11.223	13.931	2	
+Maternity and Child Health Bama	Bama	Borno	11.517	13.685	0	
+Maza	Gujba	Yobe	11.060	12.047	2	
+Ajigin Mairi Health Clinic	Damboa	Borno	11.171	12.287	0	
+Manawaji	Chibok	Borno	10.822	12.684	2	
+Maéwa	Diffa	Yobe	13.085	12.384	2	
+ADOLAKS Marketing Ltd	Ede North	Osun	7.766	4.537	0	
+Malindi	Dungass	Yobe	13.046	9.835	2	
+Tudun Masala	Sabon Birni	Sokoto	13.644	5.968	2	Tundumasana
+Maijuju	Tafawa-Balewa	Bauchi	9.748	9.156	0	
+Manchok	Kaura	Kaduna	9.655	8.520	0	
+Malam-Maduri	Malam Maduri	Jigawa	12.560	9.886	0	
+Malloumbé	Kukawa	Borno	13.399	13.859	2	
+École primaire de Madina	Ngala	Borno	12.373	14.302	0	Madina Primary School
+Maria Kadi	Bosso	Borno	13.574	13.228	2	
+Madou Gakouri Peulh	Goudoumaria	Yobe	13.391	11.130	2	
+Madou Kakouri	Goudoumaria	Yobe	13.383	11.130	2	
+Malam Kiaridi Barou	Goudoumaria	Yobe	13.382	11.341	2	
+Malam Moussari	Goudoumaria	Yobe	13.385	10.921	2	
+Djetkoram Manda (Baredi)	Maïné Soroa	Yobe	13.354	11.609	2	
+Iguir Maloumdi	Maïné Soroa	Yobe	13.127	12.224	2	
+Mandougouri	Maïné Soroa	Yobe	13.227	11.936	2	
+Maridi Adji Dogari	Maïné Soroa	Yobe	13.246	11.927	2	
+Maridi Peulh (Sehendou)	Maïné Soroa	Yobe	13.347	11.608	2	
+Mariri	Maïné Soroa	Yobe	13.346	11.595	2	
+Alla Garno Maloumdi	Diffa	Borno	13.409	12.790	2	
+Fougouri (Boula Matari)	Diffa	Borno	13.401	12.770	2	
+Maiwa I	Diffa	Yobe	13.088	12.385	2	
+Maiwa III	Diffa	Yobe	13.088	12.385	2	
+Massa	Diffa	Borno	13.410	12.793	2	
+Maya	Diffa	Borno	13.166	12.542	2	
+Mallam Kaari	Gubio	Borno	12.584	12.521	2	
+Marché d'Iwoyé	Imeko Afon	Ogun	7.554	2.743	0	
+Maniago	Kala-Balge	Borno	12.179	14.667	2	
+Gadan malali Lowcost div	Gombe	Gombe	10.283	11.173	2	
+HOTORO MARADI SPECIAL PRIMARY SCHOOL	Tarauni	Kano	11.960	8.580	0	
+Ajao Estate main entrance	Oshodi/Isolo	Lagos	6.552	3.329	0	
+Josen clinic and maternity21	Oyigbo	Rivers	4.882	7.136	0	
+Martrix Filling Station	Warri South	Delta	5.533	5.742	0	
+Holy Martyrs of Uganda Seminary	Uvwie	Delta	5.547	5.782	0	
+Maria Fustina  Clinic	Okpe	Delta	5.590	5.708	0	
+Mangal Mulumri	Monguno	Borno	12.471	13.491	2	
+Ngumatiana Mammanti	Monguno	Borno	12.349	13.508	2	
+Maintari	Monguno	Borno	12.702	13.592	2	
+Mangam	Monguno	Borno	12.411	13.414	2	
+Maikurni	Monguno	Borno	12.495	13.454	2	
+Mashella Gaana	Monguno	Borno	12.467	13.727	2	
+Mallam Shishi Gremari	Monguno	Borno	12.485	13.581	2	
+Mangul Shiwari	Monguno	Borno	12.311	13.443	2	
+Kwatar Mashaya	Monguno	Borno	12.697	13.875	2	
+Manga Fulatari	Monguno	Borno	12.410	13.438	2	
+Mayaram	Monguno	Borno	12.500	13.565	2	
+Dabar Masara Bulama Goni Zarami	Monguno	Borno	12.714	13.638	2	
+Magaram	Monguno	Borno	12.589	13.711	2	
+Ngumati G. Masali	Monguno	Borno	12.350	13.511	2	
+Madore	Monguno	Borno	12.366	13.338	2	
+Mashilla	Monguno	Borno	12.473	13.727	2	
+Dasaa Malari	Monguno	Borno	12.569	13.609	2	
+Mangul Malari	Monguno	Borno	12.313	13.443	2	
+Gummatiana Mairi	Monguno	Borno	12.368	13.510	2	
+Matawari	Monguno	Borno	12.476	13.536	2	
+Manzai Kura	Monguno	Borno	12.529	13.572	2	
+Madukawuri	Kukawa	Borno	12.780	13.574	2	
+Mangal Shuwari	Monguno	Borno	12.488	13.486	2	
+Maya	Monguno	Borno	12.436	13.431	2	
+Mallam Kaumari	Monguno	Borno	12.603	13.524	2	
+Kiji Matari	Monguno	Borno	12.688	13.550	2	
+Malamri	Monguno	Borno	12.382	13.356	2	
+Mattari	Monguno	Borno	12.718	13.568	2	
+Fullatari Mai Hamma	Monguno	Borno	12.676	13.711	2	
+Mangal Tamsuwa	Monguno	Borno	12.479	13.505	2	
+Dassa Malamri	Monguno	Borno	12.563	13.629	2	
+Kalla Maulau Kura	Guzamala	Borno	12.923	13.501	2	
+Kwatar Mali	Kukawa	Borno	13.102	13.888	2	
+Mallimanti	Kukawa	Borno	12.884	13.604	2	
+Matalari	Guzamala	Borno	12.873	13.588	2	
+Kalla Maulau Bulamari	Guzamala	Borno	12.919	13.501	2	
+Duguri Masaram	Kukawa	Borno	13.311	13.506	2	
+Mallam Tarti	Guzamala	Borno	12.888	13.544	2	
+Mallam Amsari	Guzamala	Borno	12.864	13.552	2	
+Kalla Maula	Guzamala	Borno	12.914	13.513	2	
+Manya	Kukawa	Borno	12.871	13.612	2	
+Malam Ganari	Monguno	Borno	12.759	13.530	2	
+Goni Mattari	Guzamala	Borno	12.654	13.334	2	
+Kafetowa Malamti	Guzamala	Borno	12.880	13.197	2	
+Mallam Mainari	Guzamala	Borno	12.695	13.425	2	
+Gonji Bulama Masa	Guzamala	Borno	12.684	13.421	2	
+Maliari	Guzamala	Borno	12.864	12.978	2	
+Nolwodo Mairiri	Guzamala	Borno	12.762	13.336	2	
+Matta Isari Bulamari	Guzamala	Borno	12.789	13.457	2	
+Tarkosoye Madakauri	Guzamala	Borno	13.121	12.941	2	
+Mallam Moduri	Guzamala	Borno	12.717	13.318	2	
+Kenza Yakku Mallam Tujari	Guzamala	Borno	12.689	13.383	2	
+Malamti Umarari	Nganzai	Borno	12.574	13.348	2	
+Malam Kyariri	Guzamala	Borno	12.794	13.219	2	
+Mandarari Bulamari	Guzamala	Borno	12.713	13.429	2	
+Njemia Kale Mayamiye	Guzamala	Borno	12.970	12.907	2	
+Malari	Guzamala	Borno	12.842	13.177	2	
+Mallumti	Guzamala	Borno	12.653	13.248	2	
+Nolwodo Mainari	Guzamala	Borno	12.755	13.359	2	
+Maiduri	Guzamala	Borno	12.672	13.291	2	
+Mairari	Guzamala	Borno	12.661	13.370	2	
+Mallam Gambori	Guzamala	Borno	12.697	13.251	2	
+Mandalla	Guzamala	Borno	12.825	13.061	2	
+Mattari	Guzamala	Borno	12.646	13.449	2	
+Ya Anari Mamman Alhaji	Guzamala	Borno	12.711	13.342	2	
+Mallam Fandari	Guzamala	Borno	12.716	13.306	2	
+Malamti	Guzamala	Borno	12.709	13.417	2	
+Mallam Gori	Guzamala	Borno	12.832	13.220	2	
+Nolwodo Mallum Gwori	Guzamala	Borno	12.739	13.348	2	
+Mallumri	Nganzai	Borno	12.643	13.235	2	
+Matari Kudoye	Guzamala	Borno	13.119	12.962	2	
+Jorori Mallam Ngubtori	Guzamala	Borno	12.632	13.455	2	
+Mallam Abachari	Guzamala	Borno	12.693	13.330	2	
+Nolwodo Mallum Kinnari	Guzamala	Borno	12.751	13.353	2	
+Mallam Go'ori	Guzamala	Borno	12.824	13.226	2	
+Ababtcha Mall Fantamiye	Guzamala	Borno	12.746	13.290	2	
+Madonna Model School	Warri South	Delta	5.543	5.738	0	
+Mainari Bmala	Jere	Borno	11.748	13.258	2	
+Maidubori	Konduga	Borno	11.722	13.452	2	
+Mallamti	Konduga	Borno	11.501	12.990	2	
+Mandarari	Konduga	Borno	11.661	13.396	2	
+Mallam Yauri	Magumeri	Borno	11.993	12.745	2	
+Mammanti	Konduga	Borno	11.902	12.724	2	
+Bade Mammariye	Konduga	Borno	11.735	13.185	2	
+Mallam Fantari	Konduga	Borno	11.796	12.852	2	
+Malari	Konduga	Borno	11.667	13.463	2	
+Malum Gajere	Konduga	Borno	11.772	12.842	2	
+Makinta Meleri	Konduga	Borno	11.645	13.347	2	
+Mallam Kanumburi	Konduga	Borno	11.695	13.206	2	
+Goni Masari	Kaga	Borno	11.828	12.679	2	
+Mallamri	Konduga	Borno	11.715	13.537	2	
+Malasari	Konduga	Borno	11.870	12.975	2	
+Mallum Saina/Fuci	Konduga	Borno	11.922	12.784	2	
+Mamman Kareri	Konduga	Borno	11.688	13.149	2	
+Mattiri	Konduga	Borno	11.851	12.735	2	
+Mamman Asheri	Konduga	Borno	11.656	13.405	2	
+Mallulum	Konduga	Borno	11.497	13.019	2	
+Mallam Kalamri	Konduga	Borno	11.725	13.161	2	
+Mallam Bulamari	Konduga	Borno	11.862	12.813	2	
+Mata Kwayamki	Magumeri	Borno	11.969	12.734	2	
+Auno Malam Bukarti	Konduga	Borno	11.848	12.925	2	
+Mallum Abbari	Kaga	Borno	11.843	12.688	2	
+Makintamallamiri	Konduga	Borno	11.624	13.147	2	
+Maiduri	Konduga	Borno	11.816	12.838	2	
+Matthias Intl. Academy	Uvwie	Delta	5.585	5.712	0	
+Maryland Intl. School	Uvwie	Delta	5.566	5.778	0	
+Maxim Schools	Uvwie	Delta	5.563	5.775	0	
+Maranatta Schools	Uvwie	Delta	5.544	5.771	0	
+Manz Petrol Filling Station	Uvwie	Delta	5.565	5.761	0	
+Maryland Group of Schools	Uvwie	Delta	5.569	5.763	0	
+Izisco Obos	Uvwie	Delta	5.537	5.759	0	Izisco Obos Institite of Maritime Studies
+Izisco Obos Institute of Maritime Studies and Texh	Uvwie	Delta	5.539	5.757	0	
+Magic Touch schools	Warri South	Delta	5.530	5.757	0	
+Matville School	Obio/Akpor	Rivers	4.834	7.028	0	
+New Day Clinic and Maternity	Obio/Akpor	Rivers	4.850	7.063	0	
+Santa Maria Child Development Centre	Obio/Akpor	Rivers	4.839	7.045	0	
+Mara Imul Iman - Islamic School	Maiduguri	Borno	11.806	13.152	0	
+Mala Kachallah Model School	Maiduguri	Borno	11.841	13.156	0	
+Matrix Filling Station	Uvwie	Delta	5.569	5.798	0	
+Majekobaje Estate	Egbeda	Oyo	7.446	4.031	2	
+Ikeja City Mall	Ikeja	Lagos	6.615	3.357	0	
+Matrix Filling Station	Udu	Delta	5.497	5.794	0	
+Major	Ìkòròdú	Lagos	6.673	3.478	0	
+MANUAH BUSTOP	Enugu South	Enugu	6.425	7.508	0	
+Bachaka Masallaci	Madaoua	Sokoto	13.676	6.296	2	
+Mallamawa	Shinkafi	Zamfara	13.092	6.365	2	
+Marna A	Sabon Birni	Sokoto	13.574	6.087	2	
+Mallamawa1	Illela	Sokoto	13.795	5.350	2	
+Makada	Gada	Sokoto	13.677	5.590	2	
+Tunga Madugu	Gwadabawa	Sokoto	13.508	5.332	2	
+Mallamawa	Bukkuyum	Zamfara	12.023	5.541	2	
+Gada Mayya	Anka	Zamfara	12.007	5.845	2	
+Kwana Maje	Anka	Zamfara	12.059	5.870	2	
+Dan Marke	Maru	Zamfara	12.268	6.441	2	
+Tasha R Mayanchi	Maru	Zamfara	12.360	6.256	2	
+Mafara	Talata Mafara	Zamfara	12.566	6.058	3	
+Tudun Malami	Wurno	Sokoto	13.179	5.426	2	
+Marannawa	Gwadabawa	Sokoto	13.233	5.320	2	
+Dogon Marke	Kware	Sokoto	13.019	5.391	2	
+Lambo Magaji	Kware	Sokoto	13.021	5.340	2	
+Kaura Malam	Bakura	Zamfara	12.279	5.807	2	
+Tungar Madachi	Bakura	Zamfara	12.348	5.809	2	
+Dogon Marke	Tureta	Sokoto	12.574	5.566	2	
+Mahuta	Tureta	Sokoto	12.528	5.578	2	
+Maikdau	Bodinga	Sokoto	12.775	5.297	2	
+Kaura Magaji	Dange-Shuni	Sokoto	12.811	5.337	2	
+Maitakobi	Dange-Shuni	Sokoto	12.806	5.317	2	
+Ruggar Maniya	Tambuwal	Sokoto	12.403	4.616	2	
+Mazuru	Yabo	Sokoto	12.753	5.078	2	
+Danjawo Mashekari	Silame	Sokoto	13.044	4.745	2	
+Margai	Silame	Sokoto	12.998	4.772	2	
+Majiya Adarawa	Dange-Shuni	Sokoto	12.894	5.339	2	
+Mami	Dange-Shuni	Sokoto	13.001	5.253	2	
+Mammy Market	Dange-Shuni	Sokoto	12.988	5.262	0	
+Fodio mall	Sokoto North	Sokoto	13.057	5.221	0	
+Magajin Rafi B	Sokoto North	Sokoto	13.061	5.245	2	
+Magajin Rafi A	Sokoto North	Sokoto	13.063	5.251	2	
+Magajin Gari B	Sokoto North	Sokoto	13.070	5.229	2	
+Magajin Gari B	Sokoto North	Sokoto	13.071	5.243	2	
+Maiduguri Monday Market	Maiduguri	Borno	11.836	13.153	0	
+University of Maiduguri Teaching Hospital	Jere	Borno	11.825	13.183	0	
+Mazoubi	Gudu	Sokoto	13.457	4.130	2	
+Mafoni liberty Primary School	Maiduguri	Borno	11.804	13.139	0	
+Maiduguri International Scholl	Maiduguri	Borno	11.806	13.140	0	
+Angoual Magazi Ango	Arewa Dandi	Kebbi	12.906	4.051	2	
+Mami	Lokoja	Kogi	8.491	6.327	2	
+Mamu Oil	Kudan	Kaduna	11.291	7.659	0	
+Queen Maris Group of Schools	Alimosho	Lagos	6.532	3.262	0	
+MA Filling Station	Uvwie	Delta	5.580	5.831	0	
+Idoani Main Market	Ose	Ondo	7.296	5.846	0	
+Marina/CMS Ferry Terminal	Lagos Island	Lagos	6.449	3.390	0	
+Majidun Ogolonto Bus Stop	Ìkòròdú	Lagos	6.620	3.473	0	
+Majidun Awori Bus Stop	Ìkòròdú	Lagos	6.619	3.463	0	
+Palms Shopping Mall	Ibadan South West	Oyo	7.364	3.865	0	
+Maryland Catholic Nursery and Primary School	Ogbomosho North	Oyo	8.159	4.248	0	
+Masifa DC Primary School	Ogbomosho North	Oyo	8.141	4.251	0	
+Gouré Maanin	Borgu	Niger	10.406	3.602	2	
+Maryland Bus Stop	Ikeja	Lagos	6.575	3.370	0	
+Maryland Bus Stop	Ikeja	Lagos	6.574	3.369	0	
+Makoko Dream Primary School	Lagos Mainland	Lagos	6.495	3.388	0	
+Makoko Dream Nursery School	Lagos Mainland	Lagos	6.496	3.388	0	
+Mao	Alimosho	Lagos	6.611	3.301	0	
+Marine Base	Port-Harcourt	Rivers	4.770	7.027	2	
+Mallan Inna Maternity	Gombe	Gombe	10.310	11.177	0	
+IDi maternity Clinic	Gombe	Gombe	10.293	11.182	0	
+Rogan Magaji	Shagari	Sokoto	12.690	5.127	2	Rugar Magaji
+Muna Mallam Kori Refugee Site	Jere	Borno	11.866	13.250	0	
+St. Mary's Roman Catholic Mission School I, Ifo	Ifo	Ogun	6.812	3.197	0	
+Dandi Mahe PHC	Shagari	Sokoto	12.735	5.117	0	
+PHC Marnona	Wurno	Sokoto	13.214	5.494	0	
+Makamfaci Nassarawa	Rogo	Kano	11.442	7.881	2	
+Gidan Mai Bukka	Rogo	Kano	11.379	7.778	2	
+Makeragari	Rogo	Kano	11.504	7.683	2	
+Unguwar Mairogo	Rogo	Kano	11.504	7.717	2	
+Unguwar Mallam	Rogo	Kano	11.495	7.771	2	
+Unguwar Malam Ladan	Rogo	Kano	11.489	7.967	2	
+Daura Mai Ruwa	Karaye	Kano	11.726	7.981	2	Tudun Kaya
+Sabuwar Unguwa	Rogo	Kano	11.597	7.917	2	Ungwan Madaki
+Gangarawa	Gwarzo	Kano	11.838	7.860	2	Malamawa
+Jama'Ar Manzo	Karaye	Kano	11.684	7.944	2	Ma
+Mai Alkama	Karaye	Kano	11.660	7.938	2	Ungwan Randi
+Kwarin Malam	Karaye	Kano	11.651	7.928	2	Citama
+Malam Sani	Karaye	Kano	11.704	7.902	2	
+Malamawa Mainika	Gwarzo	Kano	11.919	7.900	2	
+Mainika Cikin Gari	Gwarzo	Kano	11.926	7.873	2	
+Rinjin Malam	Kiru	Kano	11.701	8.087	2	Ringin Mauam
+Bakari	Rogo	Kano	11.498	8.023	2	Makeri
+Maska	Kiru	Kano	11.598	8.084	2	
+Unguwar Mani	Kiru	Kano	11.551	8.041	2	
+Makada A	Gwarzo	Kano	11.897	8.024	2	Makada
+Mahuta	Kabo	Kano	11.943	8.017	2	
+Mabuga	Kabo	Kano	11.953	8.065	2	
+Garun Madadi	Gwarzo	Kano	11.882	8.052	2	Madadi;Dan Madadi
+Unguwar Mani	Karaye	Kano	11.754	8.055	2	
+Safara Malamai	Kiru	Kano	11.430	8.223	2	
+Maraku	Kiru	Kano	11.678	8.129	2	
+Makera	Kiru	Kano	11.686	8.149	2	
+Madaki	Kiru	Kano	11.580	8.199	2	
+Gidan Mai Duniya	Kiru	Kano	11.735	8.202	2	
+Masanawa	Kabo	Kano	11.844	8.241	2	Massanawa
+Makwalla	Dawakin Tofa	Kano	12.159	8.208	2	
+Malamawa	Kunchi	Kano	12.421	8.175	2	
+Malikawa Garu	Bichi	Kano	12.395	8.152	2	Malikawa
+Yalwa	Bichi	Kano	12.378	8.148	2	Malikawan Safari
+Farawa Malamai	Bichi	Kano	12.316	8.112	2	
+Mauni	Bichi	Kano	12.206	8.344	2	
+Marke Cikin Gari	Dawakin Tofa	Kano	12.127	8.272	2	Marke
+Mazan Dawa	Bebeji	Kano	11.450	8.272	2	
+Tashar Mara	Bebeji	Kano	11.452	8.319	2	
+Danmaura	Garum Mallam	Kano	11.715	8.400	2	Dan Maura
+Maiunguwa Ubale	Garum Mallam	Kano	11.712	8.425	2	
+Magami	Kumbotso	Kano	11.910	8.408	2	
+Unguwar Madugu	Makoda	Kano	12.422	8.392	2	
+Makada	Dawakin Tofa	Kano	12.112	8.381	2	
+Fegin Mallam	Dawakin Tofa	Kano	12.143	8.422	2	
+Makera	Dawakin Tofa	Kano	12.146	8.418	2	
+Cedin Mai Dala	Dawakin Tofa	Kano	12.135	8.423	2	
+Zangon Mata Cikin Gari	Dawakin Tofa	Kano	12.231	8.413	2	
+Baro Marke	Bichi	Kano	12.332	8.376	2	
+Magin Zawa	Bichi	Kano	12.343	8.419	2	
+Manomi	Makoda	Kano	12.479	8.410	2	
+Unguwar Mahuta	Dambatta	Kano	12.323	8.606	2	
+Mareke	Dambatta	Kano	12.415	8.628	2	Maraki;Marake
+Marken Mahuta	Dambatta	Kano	12.389	8.632	2	Marke
+Maiganji Danbatta	Dambatta	Kano	12.434	8.577	2	Maiganji
+Marken Danya	Dambatta	Kano	12.458	8.463	2	
+Marken Dano	Dambatta	Kano	12.465	8.456	2	
+Maihura	Dambatta	Kano	12.353	8.780	2	Maifura
+Mai Faru	Dambatta	Kano	12.374	8.668	2	
+Makera	Dambatta	Kano	12.333	8.682	2	
+Hadin Maikaye	Makoda	Kano	12.324	8.523	2	
+Kauyen Mai Unguwa	Dambatta	Kano	12.371	8.484	2	Mai-Ungwa
+Mazana	Gabasawa	Kano	12.217	8.802	2	
+Makwai	Makoda	Kano	12.264	8.584	2	
+Malamawa	Gabasawa	Kano	12.245	8.838	2	Mallamawa
+Doga Garin Malan	Gabasawa	Kano	12.228	8.814	2	
+Marai	Makoda	Kano	12.283	8.489	2	
+Madawa	Minjibir	Kano	12.146	8.570	2	
+Fegin Mata	Minjibir	Kano	12.153	8.540	2	
+Kuru Makera	Minjibir	Kano	12.172	8.535	2	Kuru
+Madawa Mai Kasuwa	Minjibir	Kano	12.155	8.577	2	Madawa
+Sabon Gidan Alhaji Mati	Minjibir	Kano	12.228	8.618	2	
+Zango Mai Asibiti	Minjibir	Kano	12.252	8.700	2	
+Mangwarori Unguwar Yamma	Ungongo	Kano	12.049	8.458	2	
+Kadawa Makabarta	Ungongo	Kano	12.077	8.453	2	
+Unguwar Masaka	Ungongo	Kano	12.072	8.500	2	
+Manta Jallo	Ungongo	Kano	12.096	8.471	2	
+Dauni Fegi Layin Mai Unguwa	Minjibir	Kano	12.107	8.586	2	
+Marke	Minjibir	Kano	12.250	8.598	2	
+Makera	Minjibir	Kano	12.239	8.576	2	
+Mai Adua	Makoda	Kano	12.275	8.572	2	
+Makurdi	Minjibir	Kano	12.192	8.499	2	
+Yumdawan Mataci	Dawakin Tofa	Kano	12.183	8.485	2	
+Zabainawar Maikuidi	Minjibir	Kano	12.140	8.518	2	
+Makerawa	Dawakin Tofa	Kano	12.210	8.496	2	
+Machinawa	Minjibir	Kano	12.167	8.524	2	
+Madaci Cikin Gari	Dawakin Tofa	Kano	12.198	8.473	2	Madachi
+Mashuni	Ungongo	Kano	12.126	8.494	2	
+Mariri	Kumbotso	Kano	11.949	8.617	3	
+Wamen Madaki	Dawakin Kudu	Kano	11.872	8.615	2	
+Marke	Warawa	Kano	11.982	8.682	2	
+Aujirawa Madaci	Gezawa	Kano	12.012	8.658	2	
+Koya Mai Masallaci	Minjibir	Kano	12.122	8.620	2	
+Sabuwar Maraya	Gezawa	Kano	12.085	8.653	2	
+Matallawa Yamadi	Gezawa	Kano	12.047	8.692	2	Matalawa
+Matallawar Daraudau	Gezawa	Kano	12.048	8.698	2	Daradou
+Yan Malu	Minjibir	Kano	12.204	8.644	2	
+Gidan Mai Unguwa	Kumbotso	Kano	11.930	8.472	2	
+Marayar Gawo	Gabasawa	Kano	12.166	8.743	2	
+Garin Mati	Gezawa	Kano	12.151	8.754	2	
+Malamawa	Gabasawa	Kano	12.137	8.804	2	Mallamawa
+Malamawa Gawa	Ajingi	Kano	12.050	9.015	2	
+Mango	Ajingi	Kano	12.047	8.969	2	
+Yola Marayar Kuka	Gezawa	Kano	12.016	8.836	2	
+Yola Maraya Dudu	Gezawa	Kano	12.022	8.812	2	Marayadudu
+Makauwachi A	Wudil	Kano	11.723	8.815	2	
+Magama	Gabasawa	Kano	12.201	8.922	2	
+Malamai	Gabasawa	Kano	12.199	8.886	2	Garin Mallamai
+Mazangudu	Gabasawa	Kano	12.198	8.906	2	
+Makera	Gezawa	Kano	12.044	8.787	2	
+Unguwar Mahauta	Gezawa	Kano	12.101	8.751	3	
+Yan Musa Mahauta	Gezawa	Kano	12.065	8.718	2	
+Kuka Sharifai	Gezawa	Kano	12.078	8.732	2	Maraya Kuka
+Kafin Makaho	Gezawa	Kano	12.044	8.779	2	
+Ketawa	Gezawa	Kano	12.069	8.751	2	Maraya Kattawa
+Magarya	Gezawa	Kano	12.099	8.790	2	Magaria
+Zakiri Maigari	Gabasawa	Kano	12.101	8.885	3	Zakirai
+Marita	Ajingi	Kano	11.943	8.937	2	
+Makera Hurumi	Wudil	Kano	11.894	8.900	2	
+Kauyas Layin Gidan Mai Unguwa	Gaya	Kano	11.899	9.032	2	
+Maigana	Ajingi	Kano	11.942	9.001	2	
+Kafi	Ajingi	Kano	11.948	8.982	2	K. Yar Maraya
+Yan Gero Layin Gidan Sabo Mai Dawa	Gaya	Kano	11.926	9.033	2	
+Tudun Wada Layin Gidan Mai Unguwar	Gaya	Kano	11.918	9.025	2	
+Shagogo Magaji	Gaya	Kano	11.843	8.931	2	
+Madarin Taba 1	Warawa	Kano	11.959	8.741	2	
+Matunbawa	Gezawa	Kano	11.994	8.758	2	
+Makarya	Ajingi	Kano	11.940	9.111	2	Unguwar Makarya Sabuwa
+Zango Layin Gidan Mai Unguwar	Gaya	Kano	11.864	9.001	3	
+Unguwar Mahaukci	Gaya	Kano	11.857	9.004	3	
+Madarin Taba 2	Warawa	Kano	11.940	8.732	2	
+Dan Malam	Ajingi	Kano	11.937	9.192	2	
+Maimakawa Gidan Wakili	Gaya	Kano	11.795	9.134	2	Maimakawa
+Matage	Dawakin Kudu	Kano	11.852	8.526	2	
+Gidan Makera	Kura	Kano	11.772	8.595	2	
+Marke	Bunkure	Kano	11.762	8.530	2	
+Manga	Wudil	Kano	11.832	8.912	2	
+Mazare	Wudil	Kano	11.861	8.908	2	
+Masami	Wudil	Kano	11.863	8.918	2	
+Masama	Wudil	Kano	11.841	8.890	2	
+Fegin Malu	Kura	Kano	11.776	8.484	2	
+Sabon Garin Mai Goro	Dawakin Kudu	Kano	11.762	8.642	2	
+Ungwar Magaji	Dawakin Kudu	Kano	11.740	8.666	2	
+Mazari	Takai	Kano	11.467	9.234	2	
+Unguwar Mahauta	Wudil	Kano	11.742	8.850	2	
+Gidan Maidu	Albasu	Kano	11.722	8.957	2	
+Mashare	Sumaila	Kano	11.519	9.010	2	
+Unguwar Mangoro	Garko	Kano	11.555	8.994	2	
+Kafin Malamai	Garko	Kano	11.663	8.882	2	
+Dan Marke	Wudil	Kano	11.647	8.942	2	
+Mazari	Takai	Kano	11.462	9.226	2	
+Magami	Sumaila	Kano	11.287	9.021	2	
+Tudun Makama	Takai	Kano	11.398	9.158	2	
+Magarya	Garko	Kano	11.692	8.794	2	
+Magarya	Garko	Kano	11.683	8.809	2	
+Dalawar Malam	Tudun Wada	Kano	11.337	8.677	2	
+Makama Kudu	Garko	Kano	11.569	8.765	2	
+Unguwar Mahauta	Kibiya	Kano	11.449	8.720	2	
+Gidan Makera	Rano	Kano	11.584	8.618	2	
+Maguji	Rano	Kano	11.549	8.578	2	
+Rurum Malam Tsohon Gari	Rano	Kano	11.410	8.480	2	Rurum
+Maneks Hospital	Kaduna South	Kaduna	10.468	7.414	0	
+Manja	Tangaza	Sokoto	13.741	5.132	2	
+Marabawa upgraded dispensary	Kware	Sokoto	13.218	5.306	0	
+PHC Mabera	Sokoto South	Sokoto	13.031	5.250	0	
+Makuwana Dispensary	Sabon Birni	Sokoto	13.571	6.247	0	
+Maryaam Abacha Hospital	Sokoto South	Sokoto	13.063	5.232	0	
+Martin Luther Agwai International Peace Keeping Centre	Igabi	Kaduna	10.811	7.544	0	
+Maimusari	Jere	Borno	11.833	13.186	2	Mai Musari
+Mafoni Day Secondary School	Maiduguri	Borno	11.846	13.150	0	
+Mafoni Primary School	Maiduguri	Borno	11.845	13.151	0	
+University of Maiduguri Teaching Hospital UMTH	Jere	Borno	11.825	13.186	0	
+General Hospital Maradh	Maradun	Zamfara	12.554	6.193	0	
+Federal Neuro Psychiatric Hospital Maiduguri	Maiduguri	Borno	11.865	13.119	0	
+St. Mathias Grammar School	Akure South	Ondo	7.253	5.210	0	
+tipto maternity and child heath	Larmurde	Adamawa	9.612	11.657	0	
+maitunku primary heath post	Larmurde	Adamawa	9.604	11.519	0	
+mayo wandu heath clinic	Michika	Adamawa	10.708	13.438	0	
+ludga maternity and child heath	Maiha	Adamawa	9.969	13.281	0	
+konkol maternity clinic	Maiha	Adamawa	9.650	13.103	0	
+maiha gari maternity and heath facility	Maiha	Adamawa	9.994	13.215	0	
+manjekin A primary heath center	Maiha	Adamawa	10.040	13.131	0	
+Mayome Health Center	Fufore	Adamawa	9.227	12.231	0	
+yola maternity clinic	Lafia	Nasarawa	8.766	8.767	0	
+Uding Maternal And Child Health Clinic	Hong	Adamawa	10.153	12.905	0	
+Martha Bamaiyi General Hospital Zuru	Zuru	Kebbi	11.419	5.238	0	
+General Hospital Maiyama	Maiyama	Kebbi	12.074	4.371	0	
+Maru General Hospital	Maru	Zamfara	12.325	6.407	0	
+Peace Mass Transit Park	Onitsha North	Anambra	6.135	6.793	0	
+Peace Mass Transit Park	Onitsha North	Anambra	6.135	6.793	0	
+Marine Police Training School, Toru-Orua	Sagbama	Bayelsa	5.101	6.066	0	
+Kadade Maje	Toro	Bauchi	10.460	8.826	2	
+Unguwan Mallam Sa'adu	Toro	Bauchi	10.438	8.810	2	
+Bangwu Maternal And Child Health Clinic	Bosso	Niger	9.539	6.319	0	
+Maitama District	Municipal Area Council	FCT Abuja	9.090	7.491	2	
+Mabushi District	Municipal Area Council	FCT Abuja	9.084	7.449	2	
+Manigi Health Centre	Lavun	Niger	9.742	5.489	0	
+Clinic Matenity Center	Kontagora	Niger	10.401	5.460	0	
+Eginna Memorial Maternity Home Clinic	Lapai	Niger	9.211	6.563	0	
+PHC Shagabe And Maternity	Paikoro	Niger	9.292	6.646	0	
+Maternity Child Health Care	Shiroro	Niger	9.870	6.710	0	
+Taimako Hospital And Maternity	Chanchaga	Niger	9.618	6.551	0	
+Divine Mercy Clinic And Maternity	Shiroro	Niger	9.919	6.805	0	
+Maternal And Child Health Care Chimbi	Paikoro	Niger	9.464	6.996	0	
+Maternal And Child Health Care Old Airport	Chanchaga	Niger	9.625	6.537	0	
+ansar-udeen primary school, makun, sagamu	Shagamu	Ogun	6.851	3.634	0	
+st. paul's anglican primary school iii, makun	Shagamu	Ogun	6.851	3.642	0	
+sokoya memorial wesley primary school, makun	Shagamu	Ogun	6.851	3.630	0	
+wesley primary school ojumele, makun	Ifo	Ogun	6.811	3.181	0	
+wesley primary school ojumele, makun	Shagamu	Ogun	6.847	3.636	0	
+united primary school, matogun	Ifo	Ogun	6.724	3.342	0	
+st. paul primary school ii makun	Shagamu	Ogun	6.852	3.641	0	
+Wesley Primary School Ojumele, Makun	Ado Odo/Ota	Ogun	6.541	3.012	0	
+United Primary School, Matogun	Ado Odo/Ota	Ogun	6.526	3.142	0	
+St. Paul Primary School Ii Makun	Ado Odo/Ota	Ogun	6.530	3.136	0	
+Our Savior /Mary Primary School, Odokwu	Ado Odo/Ota	Ogun	6.613	3.228	0	
+Mahdiyyat Memorial Primary School, Onirugba	Ado Odo/Ota	Ogun	6.680	3.185	0	
+St. Paul'S Primary School I Makun	Shagamu	Ogun	6.842	3.649	0	
+St. Mary'S Roman Catholic Mission School Ii, Ifo	Ifo	Ogun	6.649	3.370	0	
+St. Mary'S Roman Catholic Mission School I, Ifo	Shagamu	Ogun	6.773	3.494	0	
+St. Mark'S Anglican Primary School, Iwelepe	Shagamu	Ogun	6.876	3.574	0	
+Sokoya Memorial Wesley Primary School. Makun	Shagamu	Ogun	6.851	3.630	0	
+Mahdiyyat Memorial Primary School, Onirugba	Ìjẹ̀bú Òde	Ogun	6.838	3.933	0	
+St. Mary'S Roman Catholic Mission School Ii, Ifo	Ifo	Ogun	6.816	3.208	0	
+Our Savior /Mary Primary School, Odokwu	Ìjẹ̀bú Òde	Ogun	6.734	3.982	0	
+St. Mary's Roman Catholic Mission School III, Ifo	Ifo	Ogun	6.813	3.197	0	
+Mount Carmel Maternity	Enugu North	Enugu	6.459	7.522	0	
+Mayor Bus stop	Enugu South	Enugu	6.399	7.489	0	
+Ogbete main Market	Enugu North	Enugu	6.435	7.482	0	
+Maryland secondary school	Enugu South	Enugu	6.414	7.513	0	
+Gods Grace Maternity Faith Home	Ibadan North West	Oyo	7.382	3.888	0	
+Honesty Clinic and Maternity Hospital	Akinyele	Oyo	7.481	3.907	0	
+St Mary's Catholic Hospital, Eleta, Academy, Ibadan	Ibadan South East	Oyo	7.355	3.911	0	
+Origbegi Satisfaction maternity hospital, Ayeye	Ibadan North West	Oyo	7.383	3.893	0	
+Oreofe Maternity, Ori Eru	Ibadan North West	Oyo	7.388	3.889	0	
+CAC Oke Imole Maternity Home, Agbeni Ibadan	Ibadan South West	Oyo	7.378	3.888	0	
+Fajimi Maternity Centre, sasa	Akinyele	Oyo	7.476	3.921	0	
+Ramna Hospital (Ramunaak Clinic and maternity Agbamu, Idi Ose	Akinyele	Oyo	7.507	3.924	0	
+Faith Maternity Clinic & Child Welfare(Mummy Mercy)	Akinyele	Oyo	7.481	3.920	0	
+Gidan Maifada	Gudu	Sokoto	13.550	4.333	2	
+Abdullahi IBN Masud islamic School	Maiduguri	Borno	11.828	13.109	0	
+Malia	Kala-Balge	Borno	11.544	14.634	2	
+Mada 1	Kala-Balge	Borno	11.558	14.632	2	
+Makoghwre	Ughelli North	Delta	5.601	6.088	2	
+Nassarawo Demsa Maternity and Child Health	Numan	Adamawa	9.460	12.040	0	
+Mutuke Maternity Clinic	Funakaye	Gombe	10.817	11.473	0	
+Professor seddi sabastine Maimako faculty of management sciences	Jos North	Plateau	9.966	8.879	0	
+Madi Memorial Hospital	Akko	Gombe	10.295	11.097	0	
+Akawu Na Mata Oil and Gas Limited	Jos North	Plateau	9.957	8.895	0	
+ST. Maria Goretti Academy Army engineer Jos	Jos North	Plateau	9.974	8.853	0	
+Al-Zunnur Clinic and Maternity	Bassa	Plateau	9.993	8.852	0	
+Yolab Marchant Nig. LTD	Jos North	Plateau	9.959	8.858	0	
+Yanawo Clinic and Maternity Farin Gada Jos	Jos North	Plateau	9.963	8.861	0	
+Alheri Health clinic & Maternity	Jos North	Plateau	9.933	8.922	0	
+Lafiya clinic and maternity	Jos North	Plateau	9.908	8.895	0	
+La tahzan clinic and maternity	Jos North	Plateau	9.924	8.898	0	
+Ultima Hospital and maternity Jos	Jos North	Plateau	9.924	8.911	0	
+Umeh Uche Martin and sons	Jos North	Plateau	9.927	8.912	0	
+Glory Clinic and Maternity	Jos North	Plateau	9.939	8.877	0	
+Gordita clinic and maternity Alheri	Jos North	Plateau	9.937	8.872	0	
+Kauna health clinic and maternity	Jos North	Plateau	9.900	8.867	0	
+Maman Gimbiya clinic kabong	Jos North	Plateau	9.927	8.870	0	
+Pathfinders Hospital and Maternity	Jos North	Plateau	9.940	8.861	0	
+Ecwa Health Clinic & Maternity	Jos North	Plateau	9.911	8.912	0	
+Jenvak hospital & maternity	Jos North	Plateau	9.903	8.869	0	
+Abrar clinic and maternity	Jos North	Plateau	9.958	8.879	0	
+Nasiha clinic and Maternity	Jos North	Plateau	9.937	8.894	0	
+Matrix	Jos North	Plateau	9.955	8.902	0	
+Dan Marna Petroleum	Muhammadu Dikko Stadium	Katsina	12.971	7.641	0	
+Government secondary school Mafo Tudun Wada	Jos North	Plateau	9.900	8.861	0	
+Ebonyi Mall	Abakaliki	Ebonyi	6.308	8.103	0	
+Mammy Market	Abakaliki	Ebonyi	6.280	8.102	0	
+Marmara Primary Health Centre	Nasarawa	Nasarawa	8.611	7.769	0	
+Kandawa Malemale	Gouré	Yobe	13.117	9.919	2	
+Dallari Mangari	Gouré	Yobe	13.297	10.455	2	
+Male-male	Gouré	Yobe	13.102	9.898	2	
+Shoprite Delta Mall	Uvwie	Delta	5.571	5.783	0	
+Madaratsul tafuzal quran	Municipal Area Council	FCT Abuja	9.017	7.422	0	
+Wazobia Clinic and Maternity	Municipal Area Council	FCT Abuja	8.939	7.429	0	
+Kabusa Marketplace	Municipal Area Council	FCT Abuja	8.949	7.445	0	
+Safeside Clinic and Maternity	Ohaji/Egbema	Imo	5.556	6.753	0	
+Marina	Lagos Island	Lagos	6.446	3.395	0	
+ST Malachy Academy	Kubau	Kaduna	10.677	8.288	0	
+Marktot	Kabba/Bunu	Kogi	7.829	6.073	0	
+Manga Saleh Primary School	Bauchi	Bauchi	10.310	9.836	0	
+Matrix	Bauchi	Bauchi	10.293	9.804	0	
+Alfurqan Clinic and Maternity	Bauchi	Bauchi	10.291	9.801	0	
+Anguaoul Mai Kano	Mai'Adua	Katsina	13.284	8.136	2	
+Sina Mala	Michika	Adamawa	10.517	13.517	2	
+male and female mosque road	Gombe	Gombe	10.306	11.175	0	
+mosque male and female rest roo	Gombe	Gombe	10.306	11.175	0	
+Numa Clinic and Maternity	Warri South	Delta	5.522	5.757	0	
+male Rest Room	Gombe	Gombe	10.306	11.175	0	
+madarasatul Alaramma malan gambo littah fizzul Quran	Gombe	Gombe	10.289	11.159	0	
+Gidan Mai Akwiya	Lafia	Nasarawa	8.547	8.740	2	
+Kasuwan Mata	Jos North	Plateau	9.913	8.912	0	
+Sunnyvale Mall	Municipal Area Council	FCT Abuja	8.986	7.447	0	
+College of Enivornmental Sciences and Management	Ìkòròdú	Lagos	6.671	3.639	0	
+Maternity Center	Ejigbo	Osun	7.832	4.136	0	
+BU Mall	Ikenne	Ogun	6.891	3.720	0	
+Primary Health Center Maker	Kaduna South	Kaduna	10.468	7.413	0	
+Makera II Primary Health Center	Kaduna South	Kaduna	10.478	7.410	0	
+Alheri Hospital And Maternity	Kaduna South	Kaduna	10.476	7.410	0	
+Ark Of God Covenant Clinics And Maternity	Kaduna South	Kaduna	10.467	7.410	0	
+Makera 1 Primary Health Care	Kaduna South	Kaduna	10.469	7.412	0	
+Rapha Mamasuwe Maternity And Clinic	Kaduna South	Kaduna	10.500	7.386	0	
+Khamaz Clinic And Maternity	Kaduna South	Kaduna	10.504	7.389	0	
+Abdulazeez Memorial Clinic and Maternity	Kaduna South	Kaduna	10.508	7.399	0	
+Hauwa Nursing And Maternity	Kaduna South	Kaduna	10.507	7.399	0	
+Aman Clinic Makera Cd 35 Zango Road Sabon Gari South	Kaduna South	Kaduna	10.507	7.407	0	
+Nassarawa Ecwa Maternity Home	Chikun	Kaduna	10.473	7.403	0	
+Sanasi Nursing And Maternity Home	Chikun	Kaduna	10.476	7.398	0	
+Saint Gerad Hospital Kakuri Noaa 26 Makera Road Nasarawa Kaduna	Chikun	Kaduna	10.478	7.397	0	
+Al Ramadan Nursing And Maternity Home Nassarawa	Chikun	Kaduna	10.471	7.395	0	
+Phc Makera Main Roadkakuri Kaduna	Kaduna South	Kaduna	10.468	7.412	0	
+Al Mansur Specialist Hospital	Kaduna North	Kaduna	10.551	7.460	0	
+Primary Health Care Isa Kaita Raid Malali	Kaduna North	Kaduna	10.549	7.465	0	
+44 Hospital No8 Togo Street Malali	Kaduna North	Kaduna	10.562	7.468	0	
+M b Tukur Primary Health Care Malali	Kaduna North	Kaduna	10.561	7.472	0	
+specialist Hospital No6 Shehu Ibrahim Close Malali	Kaduna North	Kaduna	10.550	7.470	0	
+Barau Dikko Teaching Hospital Gwari Road Mando	Kaduna North	Kaduna	10.585	7.418	0	
+Madinat Specialist Hospital	Kaduna North	Kaduna	10.572	7.458	0	
+Jama'a Nursing And Maternity Home	Kaduna North	Kaduna	10.600	7.455	0	
+General Hospital Marafa Close Off Independence Way Marafa	Kaduna North	Kaduna	10.514	7.441	0	
+Gimo Maternity Buba Sauri Road Romi	Kaduna North	Kaduna	10.532	7.424	0	
+Unguwan Makama Clinic	Kaduna South	Kaduna	10.451	7.399	0	
+Savannah Hospital And Maternity	Kaduna South	Kaduna	10.443	7.416	0	
+Jadan Clinic And Maternity	Kaduna South	Kaduna	10.440	7.407	0	
+Unguwar Mai Chibi Comprehensive Health Care	Kaduna South	Kaduna	10.451	7.433	0	
+Amina Hospital And Maternity	Kaduna South	Kaduna	10.455	7.426	0	
+Holiness Nursing And Maternity	Kaduna South	Kaduna	10.448	7.433	0	
+Theck Maternity Home	Kaduna South	Kaduna	10.446	7.428	0	
+Hajia Asama'u Ahmad Makarfi Health Center Barnawa	Kaduna South	Kaduna	10.481	7.430	0	
+Kurmin Mashi181 Primary Health Care	Kaduna South	Kaduna	10.553	7.415	0	
+Yelwa Maibene Health Clinic	Kaduna South	Kaduna	10.539	7.409	0	
+Rasmah Maternity And Clinic	Kaduna South	Kaduna	10.530	7.404	0	
+Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction	Chikun	Kaduna	10.431	7.522	0	
+Maraban Rido Primary Health Center	Chikun	Kaduna	10.432	7.529	0	
+Kauna Clinic Kujama By Novin Gust House Maraba Rido	Chikun	Kaduna	10.434	7.533	0	
+General Hospital Sabon Tasha Down The Market Road Maraban Rido	Chikun	Kaduna	10.426	7.533	0	
+General Hospital Kaduna Keke B Main Township Road	Chikun	Kaduna	10.556	7.494	0	
+Abu Hospital Plot 13 Maje Street Gonin Gora	Chikun	Kaduna	10.437	7.398	0	
+Cocin Clinic And Maternity	Chikun	Kaduna	10.447	7.435	0	
+General Hospital Sabontasha Kaduna Majalisa Street Sabontasha Kaduna	Chikun	Kaduna	10.434	7.459	0	
+Henlong Medical Clinic And Maternity	Chikun	Kaduna	10.478	7.379	0	
+Wisdom Hospital And Maternity	Ojo	Lagos	6.502	3.198	0	
+Angelic Care Foundation Maternity	Ojo	Lagos	6.494	3.142	0	
+Oriowo Maternity Home	Ojo	Lagos	6.477	3.123	0	
+Healing Land Hospital And Maternity	Ojo	Lagos	6.460	3.140	0	
+Munidola Maternity Center	Ojo	Lagos	6.454	3.144	0	
+Grace Mobolaji Maternity	Ojo	Lagos	6.455	3.139	0	
+Mainframe Hospital And Maternity Centre	Ojo	Lagos	6.486	3.174	0	
+Divine Favour Maternity Center Adoloko	Ojo	Lagos	6.478	3.159	0	
+Blessed Mary Natural Clinic And Maternity	Ojo	Lagos	6.465	3.189	0	
+Ifeoluwa Maternity Home	Ojo	Lagos	6.467	3.185	0	
+Bossom Hospital And Maternity	Ojo	Lagos	6.484	3.187	0	
+Fellowship Clinic And Maternity Center	Ojo	Lagos	6.457	3.202	0	
+Divine Release Maternity Home	Ojo	Lagos	6.458	3.185	0	
+Toluwalope Clinic and Maternity	Ado Odo/Ota	Ogun	6.512	3.092	0	
+Sefa Hospital Clinic And Maternity	Ado Odo/Ota	Ogun	6.504	3.101	0	
+Chrisol Medicals Maternity Home	Alimosho	Lagos	6.617	3.273	0	
+Daverhodes Clinic And Maternity Home	Alimosho	Lagos	6.599	3.268	0	
+Solad Medical Centre And Maternity Hospital	Alimosho	Lagos	6.601	3.268	0	
+The Ark Hospital And Maternity Centre	Alimosho	Lagos	6.606	3.254	0	
+Abalamo Maternity Centre	Alimosho	Lagos	6.605	3.261	0	
+Alanni Traditional Hospital and Maternity Home	Alimosho	Lagos	6.592	3.237	0	
+Sethfone Hospital And Maternity Home	Alimosho	Lagos	6.654	3.288	0	
+Victory Success Maternity Home	Alimosho	Lagos	6.586	3.246	0	
+Samas Hospital And Maternity	Alimosho	Lagos	6.584	3.247	0	
+Moria Clinic And Maternity Home	Alimosho	Lagos	6.604	3.302	0	
+St Alexander Hospital And Maternity Home	Alimosho	Lagos	6.615	3.296	0	
+Summit Hospital And Maternity Home	Alimosho	Lagos	6.594	3.304	0	
+Careway Hospital And Maternity	Alimosho	Lagos	6.593	3.290	0	
+Oluwabamise Convalescent and Maternity Home	Alimosho	Lagos	6.578	3.207	0	
+Hope In God Faith Clinic and Maternity Home	Alimosho	Lagos	6.577	3.209	0	
+Majesty Hospital	Alimosho	Lagos	6.578	3.282	0	
+Mary The Queen Hospital	Alimosho	Lagos	6.592	3.300	0	
+Emc Hospital and Maternity	Alimosho	Lagos	6.585	3.305	0	
+Mojol Hospital and Maternity Home	Alimosho	Lagos	6.585	3.297	0	
+Max Health Consultant Hospital Ltd	Alimosho	Lagos	6.578	3.263	0	
+Flora Hospital And Maternity	Alimosho	Lagos	6.576	3.264	0	
+Ajiboye Clinic And Maternity Home	Alimosho	Lagos	6.578	3.281	0	
+Bluesea Hospital And Maternity	Alimosho	Lagos	6.558	3.280	0	
+B Rock Convalescent And Maternity Home	Alimosho	Lagos	6.550	3.260	0	
+Broad Hospital And Maternity	Alimosho	Lagos	6.549	3.266	0	
+Ogunmoded Memorial Hospital And Maternity Home	Alimosho	Lagos	6.549	3.263	0	
+Matcom Medical Diagnostic Service S	Alimosho	Lagos	6.540	3.256	0	
+Best Option Healthcare And Maternity Home	Alimosho	Lagos	6.529	3.254	0	
+Zephaniah Maternity Center	Alimosho	Lagos	6.529	3.271	0	
+Purpose Of God Clinic and Maternity	Alimosho	Lagos	6.568	3.246	0	
+Mount Moriah Hospital And Maternity	Alimosho	Lagos	6.563	3.225	0	
+Okey Madu Maternity Home	Alimosho	Lagos	6.548	3.248	0	
+Christ Apostolic Maternity Center	Alimosho	Lagos	6.561	3.237	0	
+Olatemi Maternity Home	Alimosho	Lagos	6.514	3.252	0	
+Maciland Medical Center	Alimosho	Lagos	6.524	3.249	0	
+Adebek Maternity Home	Alimosho	Lagos	6.526	3.216	0	
+Santa Maria Hospital	Alimosho	Lagos	6.549	3.232	0	
+Marie Stopes Clinic General Medical Care And Laboratory	Alimosho	Lagos	6.540	3.224	0	
+Pelfik Clinic And Maternity Center	Alimosho	Lagos	6.550	3.218	0	
+Atinuke Tr Clinic And Maternity Home	Alimosho	Lagos	6.547	3.219	0	
+Ayodamola Health Careand Maternity Home	Alimosho	Lagos	6.523	3.238	0	
+Ojo Bala Ologunebi Trado And Maternity Clinic	Alimosho	Lagos	6.495	3.244	0	
+Labake Maternity Center	Mushin	Lagos	6.521	3.344	0	
+Ola Omoyenji Maternity Home	Mushin	Lagos	6.517	3.347	0	
+Mary Anne Hospital	Mushin	Lagos	6.521	3.339	0	
+Zephaniah Maternity Center	Mushin	Lagos	6.512	3.334	0	
+Able God Hospital Maternity	Mushin	Lagos	6.504	3.332	0	
+May Hospital Ilupeju	Mushin	Lagos	6.548	3.359	0	
+Mary Anne Med Clinic	Mushin	Lagos	6.549	3.360	0	
+Goodhope Clinic and Maternity	Mushin	Lagos	6.545	3.344	0	
+Ebenezer Specialist Clinic and Maternity	Mushin	Lagos	6.539	3.355	0	
+Fafolu Clinic and Maternity Home	Mushin	Lagos	6.535	3.355	0	
+Divine Favour Maternity Home	Mushin	Lagos	6.534	3.353	0	
+Continental Hospital And Maternity Home	Mushin	Lagos	6.528	3.359	0	
+New Bethsaida Hospital Maternity	Mushin	Lagos	6.536	3.351	0	
+Mercy Maternity Center	Mushin	Lagos	6.534	3.346	0	
+Oluwadamilare Maternity Home	Mushin	Lagos	6.535	3.339	0	
+Redemption Mansion Lodge	Akure South	Ondo	7.292	5.146	0	
+Mainland Hostel	Akure South	Ondo	7.289	5.149	0	
+Maitama	Akure South	Ondo	7.289	5.150	0	
+Metallurgical And Materials Engineering Mineral Processing Laboratory	Akure South	Ondo	7.296	5.149	0	
+Blessed Assurance Maternity Home	Amuwo Odofin	Lagos	6.457	3.303	0	
+Godspower Specialist Clinic Hospital And Matanity	Amuwo Odofin	Lagos	6.467	3.286	0	
+Lasapienza Hospital and Maternity	Amuwo Odofin	Lagos	6.465	3.295	0	
+St Judes Hospital Maternity	Amuwo Odofin	Lagos	6.463	3.296	0	
+Fravyn Maternity	Amuwo Odofin	Lagos	6.459	3.295	0	
+Makal Medical Center	Amuwo Odofin	Lagos	6.458	3.294	0	
+Macfin Medical Clinic	Amuwo Odofin	Lagos	6.458	3.293	0	
+Far East Maternity Center	Amuwo Odofin	Lagos	6.457	3.297	0	
+De Marvel Hospitalsabo Crown Hospital	Amuwo Odofin	Lagos	6.465	3.272	0	
+Bethesda Family Clinic And Maternity	Amuwo Odofin	Lagos	6.463	3.284	0	
+Iyagbe Maternity Centre	Amuwo Odofin	Lagos	6.418	3.200	0	
+Shalom Riyyah Hospital And Maternity	Amuwo Odofin	Lagos	6.468	3.242	0	
+Divine Care Neighborhood Clinic And Maternity Satellite Town	Amuwo Odofin	Lagos	6.453	3.252	0	
+Holy Family Hospital and Maternity Home	Amuwo Odofin	Lagos	6.446	3.261	0	
+Bengoz Maternity Home	Amuwo Odofin	Lagos	6.442	3.266	0	
+Kudar Clinic And Maternity	Jos North	Plateau	9.903	8.872	0	
+St Mary Grace School	Alimosho	Lagos	6.526	3.233	0	
+Mary Greg Schools	Alimosho	Lagos	6.525	3.236	0	
+MAL. AUDU MAI ALMAJIRAI	Ungongo	Kano	12.048	8.568	0	
+IMAM MALIK PRIMARY	Ungongo	Kano	12.049	8.574	0	
+MAKARANTAR MAL AUWALU	Ungongo	Kano	12.044	8.565	0	
+RAHAMA ACADEMY SCHOOL Z/MARIKITA	Ungongo	Kano	12.050	8.577	0	
+MALAN YARO ISLAMIYYA	Ungongo	Kano	12.044	8.570	0	
+MADARASATUL SUNNATU NABIYYI	Ungongo	Kano	12.043	8.568	0	
+MADARASATUL KHALID BIN WALID ISLAMIYYA	Ungongo	Kano	12.043	8.567	0	
+MAKARANTAR MALAN AUWAL	Ungongo	Kano	12.044	8.565	0	
+MADARASATUL TA'ALIMUL QUR'AN	Ungongo	Kano	12.040	8.570	0	
+MALAN YUSHA'U NA ANNABI QUR'ANIC SCHOOL	Ungongo	Kano	12.043	8.565	0	
+MALAN KABIRU ALMAJIRI SCHOOL	Ungongo	Kano	12.043	8.565	0	
+MALAN USMAN ALMAJIRI SCHOOL	Ungongo	Kano	12.043	8.567	0	
+MAKARANTAR MALAM IBRAHIM MAI YAR HULA	Ungongo	Kano	12.040	8.564	0	
+MAKARANTAR MALAM MAI JAN LEBE	Ungongo	Kano	12.039	8.564	0	
+MADARASATUL ADAM MAIGARI ISLAMIYYA	Ungongo	Kano	12.047	8.568	0	
+MAKARATAR ZUBAIRU BIN AWAM	Ungongo	Kano	12.041	8.565	0	
+BARANTAR MALAM SANI	Ungongo	Kano	12.044	8.563	0	
+MAKARATAR MARAYU DA MASU KARAMIN KARFI	Ungongo	Kano	12.035	8.564	0	
+MAKARANTAR MALAM SUNUSI	Ungongo	Kano	12.041	8.562	0	
+MADRASATUL ZADUL MA AM ISLAMIYYA	Ungongo	Kano	12.055	8.582	0	
+FATHU RABBANI MAL. HASSAN	Ungongo	Kano	12.037	8.563	0	
+MAKARANTAR MALAM BABBA	Ungongo	Kano	12.038	8.563	0	
+MAKARANTAR MAL ME MANGWARO	Nassarawa	Kano	12.034	8.563	0	
+MA AHAD	Nassarawa	Kano	12.034	8.561	0	
+MARKAZU ISALIL KHAIR UMMATI SCHOOL	Ungongo	Kano	12.046	8.570	0	
+MAL. MUSA MAI ITACE	Ungongo	Kano	12.041	8.572	0	
+KALIPHA MAI ICHE	Ungongo	Kano	12.054	8.580	0	
+MAKARANTAR MLM ISUHU	Gwale	Kano	11.962	8.479	0	
+MAKARATAR MLM ABDULMUMINU	Gwale	Kano	11.963	8.478	0	
+MAKARANTAR TASIU MAI ALMAJIRAI	Gwale	Kano	11.961	8.467	0	
+KARANTAR MALAM AUWAL FARIN MASALLACHI	Gwale	Kano	11.960	8.468	0	
+MAKARANTAR MAL SAMAILA	Gwale	Kano	11.957	8.470	0	
+MAKARANTAR LAYIN ISIYAKU MAI KIFI	Gwale	Kano	11.957	8.472	0	
+ANAS BIN MALEEK	Kumbotso	Kano	11.957	8.476	0	
+MAKARANTAR MALAM SAMA'ILA	Gwale	Kano	11.960	8.472	0	
+ABDULLAHI BIN MASUD ( FAISALIYYA) ISLAMIYYA	Gwale	Kano	11.955	8.470	0	
+MAI KANO ACADEMY	Gwale	Kano	11.954	8.471	0	
+MAI GAWAYI TRANSFORMER STREET	Gwale	Kano	11.961	8.475	0	
+MADINA;ALKHAIR COCKING GAS AND ENGINEERING	Gwale	Kano	11.962	8.476	0	
+MADARATU UBAIYI BIN KA'AB	Gwale	Kano	11.963	8.479	0	
+MADARASATUL ZUBAIRU BIN AWWAM	Gwale	Kano	11.962	8.467	0	
+MAKARANTAR MALAN HARISU DORAYI	Gwale	Kano	11.965	8.469	0	
+MADINA COLLEGE KANO	Gwale	Kano	11.966	8.470	0	
+TSANGAYAR MALAN BALA	Gwale	Kano	11.959	8.471	0	
+MADINA COLLEGE OF HEALTH SCIENCES	Gwale	Kano	11.967	8.478	0	
+MAKARANTAR MALAM MAI KUMSA	Gwale	Kano	11.962	8.475	0	
+MADADI	Gwale	Kano	11.959	8.473	0	
+FIRST CLASS CLINIC AND MATERNITY	Gwale	Kano	11.963	8.480	0	
+Temitope faith clinic and maternity house	Alimosho	Lagos	6.520	3.237	0	
+Elisafe faith maternity home	Alimosho	Lagos	6.530	3.237	0	
+Mambo Clinic	Calabar South	Cross River	4.944	8.329	0	
+Maiduwa	Fika	Yobe	11.348	11.289	2	
+Mara	Guri	Jigawa	12.633	10.481	2	
+Maikere	Faskari	Katsina	11.812	7.285	2	
+Building Materials	Jos South	Plateau	9.836	8.865	0	
+Mainsea	Onitsha North	Anambra	6.145	6.812	0	
+Matrix	Oshimili North	Delta	6.206	6.681	0	
+Caring Hands Clinic & Maternity	Jos North	Plateau	9.916	8.921	0	
+Marina/CMS	Lagos Island	Lagos	6.449	3.390	0	
+Alluvia Marine/Afisco (Lekki 1)	Eti Osa	Lagos	6.448	3.459	0	
+jegba marina badagry/commando jetty	Badagry	Lagos	6.416	2.876	0	
+Zangon Guidan Maidouma	Madaoua	Sokoto	13.740	5.922	2	
+St Mark's High School	Ise/Orun	Ekiti	7.462	5.431	0	
+St Marks Primary School	Ise/Orun	Ekiti	7.462	5.431	0	
+Funky Mass	Ise/Orun	Ekiti	7.462	5.419	0	
+PHC Mazah	Jos North	Plateau	9.963	8.934	0	
+Makraba I	Warri South-West	Delta	5.783	5.450	2	
+Makraba II	Warri South-West	Delta	5.784	5.436	2	
+Madarasatul Nurul Islam	Bauchi	Bauchi	10.292	9.783	0	
+Al-Bishir Clinic & Maternity	Bauchi	Bauchi	10.299	9.796	0	
+Shoprite Kwara Mall, Fate Road, Oko Erin, Nigeria	Ilorin South	Kwara	8.499	4.586	0	
+Olupelu Clinic and Maternity, Oko Erin, Nigeria	Ilorin West	Kwara	8.495	4.511	0	
+Matanmi Shopping Complex, Oko Erin 240101, Kwara, Nigeria	Ilorin East	Kwara	8.484	4.564	0	
+Mandate Estate, Ilorin, Nigeria	Ilorin East	Kwara	8.472	4.555	3	
+Edinwo Mall, Fate Tanke Road, Oko Erin, Nigeria	Ilorin East	Kwara	8.484	4.602	0	
+Tolulope Clinic & Maternity, Oko Erin, Nigeria	Ilorin East	Kwara	8.485	4.601	0	
+Mandate Market, Western Reservoir Road, Ilorin, Nigeria	Ilorin West	Kwara	8.475	4.506	0	
+Ankara lounge & more, Mandate Square, Oko Erin, Nigeria	Ilorin West	Kwara	8.475	4.502	0	
+Shoprite Mall	Enugu North	Enugu	6.460	7.496	0	
+Mafoluku	Oshodi/Isolo	Lagos	6.560	3.332	2	
+Maryland	Enugu South	Enugu	6.419	7.517	2	
+Makoko	Lagos Mainland	Lagos	6.496	3.392	2	
+Shehu Marafa Model Primary School Nasarawa Burkullu	Bukkuyum	Zamfara	12.052	5.742	0	
+Main Campus Gate	Ovia North-East	Edo	6.741	5.410	0	
+College Of Business & Management Studies	Ovia North-East	Edo	6.740	5.405	0	
+Maibiri	Jema'A	Kaduna	9.305	8.040	2	
+Mabushi Bus Terminal	Municipal Area Council	FCT Abuja	9.087	7.457	0	
+Dan Makia	Dungass	Jigawa	12.818	9.329	2	
+Maï Gamdji	Dungass	Jigawa	12.826	9.451	2	
+Maï Manda	Dungass	Jigawa	12.818	9.355	2	
+Maïkiriya Sud	Dungass	Jigawa	12.829	9.316	2	
+Malan Tsangaye	Dungass	Jigawa	12.823	9.415	2	
+mainland iddo	Lagos Mainland	Lagos	6.471	3.385	0	
+fiki marine (victoria island)	Eti Osa	Lagos	6.439	3.425	0	
+alluvia marine/afisco (lekki phase 1)	Eti Osa	Lagos	6.448	3.459	0	
+Fiki Marine (VI)	Eti Osa	Lagos	6.439	3.425	0	
+manager	Apapa	Lagos	6.430	3.371	0	
+Mall	Eti Osa	Lagos	6.443	3.481	0	
+Bolien Mall	Eti Osa	Lagos	6.443	3.481	0	
+Maimuna Gwarzo	Kaduna South	Kaduna	10.525	7.408	0	
+De Marvel Sabo Crown Hospital	Ojo	Lagos	6.463	3.173	0	
+Tunga Maje	Kaiama	Kwara	9.700	4.064	2	
+Evergreen Clinics & Maternity	Municipal Area Council	FCT Abuja	9.032	7.588	0	
+New Hope Hospital & Maternity	Municipal Area Council	FCT Abuja	9.044	7.589	0	
+Conoil Petrol Station Junction Akin Mabogunje Drive	Municipal Area Council	FCT Abuja	8.967	7.352	0	
+Living Faith Church, Mai Suya Junction, New Jerusalem, Dutse Makaranta	Bwari	FCT Abuja	9.168	7.386	0	
+Okada Junction By Mama Abdul	Municipal Area Council	FCT Abuja	9.001	7.392	0	
+Mobil Filling Station - Mabushi Abuja	Municipal Area Council	FCT Abuja	9.086	7.457	0	
+Anids Mass Transit Company	Municipal Area Council	FCT Abuja	9.063	7.432	0	
+Peace Mass Transit Gwagwalada, Abuja	Gwagwalada	FCT Abuja	8.935	7.092	0	
+Central Mosque - Masalachi Bus Stop	Municipal Area Council	FCT Abuja	9.057	7.483	0	
+Peace Mass Transport	Municipal Area Council	FCT Abuja	9.069	7.441	0	
+Main Bridge Computer Network Nig Ltd.	Municipal Area Council	FCT Abuja	9.076	7.399	0	
+Maitama - Wuse Ii Bridge	Municipal Area Council	FCT Abuja	9.087	7.474	0	
+Purchasing And Supply Chain Management Department- NBTE	Kaduna North	Kaduna	10.611	7.444	0	
+Mathematics Department	Kaduna North	Kaduna	10.609	7.445	0	
+Martha medical services	Yenegoa	Bayelsa	4.965	6.368	0	
+University of Cross River State, Calabar Main Campus	Calabar South	Cross River	4.931	8.329	0	
+Faculty of Management Science	Ede South	Osun	7.681	4.457	0	
+Agbama Housing Estate Main Gate, Umuahia, Abia State	Umuahia South	Abia	5.502	7.499	0	
+Abuja International Building Materials Market	Municipal Area Council	FCT Abuja	9.102	7.278	0	
+Samora Machel Street	Municipal Area Council	FCT Abuja	9.040	7.520	1	
+Maitama Sule	Municipal Area Council	FCT Abuja	9.048	7.522	1	
+Matama Avenue	Municipal Area Council	FCT Abuja	9.079	7.513	1	
+Mabo Street	Mushin	Lagos	6.514	3.360	1	
+Eric Manuel Cresent	Surulere	Lagos	6.491	3.361	1	
+Marina Road	Badagry	Lagos	6.412	2.883	1	
+Maitama Sule Street	Eti Osa	Lagos	6.444	3.424	1	
+Majolate St	Mushin	Lagos	6.533	3.365	1	
+Risikat Majaro Street	Alimosho	Lagos	6.651	3.296	1	
+Alhaji Masha Road	Surulere	Lagos	6.498	3.361	1	
+Maiduguri Bypass	Bauchi	Bauchi	10.335	9.834	1	
+Kano-Maiduguri Highway	Dawakin Kudu	Kano	11.925	8.639	1	
+Marine Base Road	Port-Harcourt	Rivers	4.768	7.022	1	
+Mary Slessor Avenue	Calabar Municipal	Cross River	4.959	8.328	1	
+Herbert Macaulay Street	Port-Harcourt	Rivers	4.792	7.008	1	
+Marigold Cresent	Obio/Akpor	Rivers	4.849	7.040	1	
+Maitama Roundabout	Municipal Area Council	FCT Abuja	9.084	7.492	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.064	7.476	1	
+Major Salawu Street	Ibadan North	Oyo	7.442	3.913	1	
+Mapo Street	Ibadan South West	Oyo	7.377	3.894	1	
+Magazine Road	Ibadan North West	Oyo	7.397	3.871	1	
+Main Road	Sabon Gari	Kaduna	11.103	7.722	1	
+Malumfashi - Katsina Road	Kankara	Katsina	11.886	7.455	1	
+Mallam Isa Hassan Road	Kaduna North	Kaduna	10.582	7.466	1	
+Dutsen Ma Road	Kaduna North	Kaduna	10.583	7.462	1	
+Marnona Drive	Kaduna North	Kaduna	10.551	7.449	1	
+Maska Road	Kaduna North	Kaduna	10.546	7.442	1	
+Maikano Road	Kaduna North	Kaduna	10.542	7.469	1	
+Maikano Crescent	Kaduna North	Kaduna	10.543	7.468	1	
+Mali Street	Kaduna North	Kaduna	10.559	7.466	1	
+Dan Marna Road	Kaduna North	Kaduna	10.539	7.463	1	
+Masanawa Road	Kaduna North	Kaduna	10.580	7.456	1	
+Baba Marte Road	Kaduna North	Kaduna	10.568	7.458	1	
+Badarawa Main Road	Kaduna North	Kaduna	10.560	7.454	1	
+Gumel to Maigatari Road	Maigatari	Jigawa	12.716	9.401	1	
+Maiduguri - Monguno Road	Monguno	Borno	12.688	13.568	1	
+Dutsin-Ma Road	Kaduna South	Kaduna	10.519	7.404	1	
+Masallaci Road	Kaduna North	Kaduna	10.579	7.457	1	
+Dutsin-Ma Road	Kaduna South	Kaduna	10.512	7.404	1	
+Aliyu Makama Road	Kaduna South	Kaduna	10.491	7.425	1	
+Makaranta Street	Chikun	Kaduna	10.447	7.437	1	
+Musa Malle Road	Kaduna North	Kaduna	10.585	7.461	1	
+Mayere Road	Chikun	Kaduna	10.465	7.442	1	
+GGSS Maimuna Gwarzo	Kaduna South	Kaduna	10.525	7.408	0	
+Makaranta Street	Kaduna South	Kaduna	10.507	7.416	1	
+Maiduguri - Damasak Road	Mobbar	Borno	12.843	12.582	1	
+Saint Maira Goretti Road	Ikpoba-Okha	Edo	6.310	5.638	1	
+Mairhoghoionba Street	Ikpoba-Okha	Edo	6.321	5.630	1	
+Maho Street	Oredo	Edo	6.330	5.598	1	
+Madam Egbe Avenue	Oredo	Edo	6.297	5.604	1	
+Mama Custom Street	Ikpoba-Okha	Edo	6.370	5.655	1	
+Maman Nasir	Municipal Area Council	FCT Abuja	9.039	7.523	1	
+Mallam Madori Road	Kaduna South	Kaduna	10.520	7.424	1	
+Major General Ibrahim Gumel Road	Sabon Gari	Kaduna	11.112	7.724	1	
+Mambilla Road	Kaduna North	Kaduna	10.552	7.464	1	
+Rosie Marie Intl School	Oredo	Edo	6.351	5.615	0	
+Time Medical Clinic & Maternity	Oredo	Edo	6.336	5.605	0	
+Madrid Academy	Oredo	Edo	6.346	5.598	0	
+Maroua-Kousséri	Kala-Balge	Borno	11.594	14.652	1	
+Maroua-Kousséri	Kala-Balge	Borno	11.789	14.631	1	
+Maroua-Kousséri	Kala-Balge	Borno	12.049	14.633	1	
+Sheikh Jafar Mahmud Way	Kumbotso	Kano	11.958	8.479	1	
+Mambolo Street	Municipal Area Council	FCT Abuja	9.060	7.463	1	
+Shopping Mall (Phone village)	Oredo	Edo	6.336	5.621	0	
+Shopping Mall	Oredo	Edo	6.338	5.617	0	
+Osasco Shopping Mall	Oredo	Edo	6.339	5.619	0	
+Abi Shopping Mall	Oredo	Edo	6.312	5.609	0	
+Marine Road	Apapa	Lagos	6.441	3.354	1	
+Martin Street	Lagos Island	Lagos	6.457	3.386	1	
+Alakoro Marina Street	Lagos Island	Lagos	6.462	3.384	1	
+Massey Bamgboshe Street	Lagos Island	Lagos	6.450	3.405	1	
+Makurdi Street	Surulere	Lagos	6.489	3.374	1	
+Matthew Street	Surulere	Lagos	6.507	3.366	1	
+Maja Street	Surulere	Lagos	6.506	3.366	1	
+Sir Samuel Manuwa Street	Eti Osa	Lagos	6.435	3.435	1	
+Idowu Martins Street	Eti Osa	Lagos	6.434	3.420	1	
+Makinde Street	Oshodi/Isolo	Lagos	6.557	3.329	1	
+Mafoluku Road	Oshodi/Isolo	Lagos	6.556	3.334	1	
+MacCarthy Lane	Oshodi/Isolo	Lagos	6.558	3.350	1	
+Mabayoje Street	Oshodi/Isolo	Lagos	6.560	3.343	1	
+Majaro Street	Oshodi/Isolo	Lagos	6.562	3.330	1	
+Third Mainland Bridge	Lagos Mainland	Lagos	6.486	3.395	1	
+New Marina Road	Lagos Island	Lagos	6.442	3.402	1	Lagos Island Inner Ring Road
+Kayode Maliki Street	Egbeda	Oyo	7.385	3.980	1	
+Wadei Martin Street	Ibadan North	Oyo	7.441	3.887	1	
+Manuwa Drive	Ibadan North	Oyo	7.442	3.899	1	
+Maiduguri Road	Kaduna North	Kaduna	10.506	7.434	1	
+Manugo Street	Surulere	Lagos	6.505	3.345	1	
+A.J. Marinho Drive	Eti Osa	Lagos	6.427	3.432	1	
+Bishop Mark Davidson Street	Oshodi/Isolo	Lagos	6.501	3.317	1	
+Makinde Street	Alimosho	Lagos	6.538	3.265	1	
+Makoko Road	Lagos Mainland	Lagos	6.495	3.384	1	
+Maiye Ogundana	Kosofe	Lagos	6.621	3.372	1	
+Akintola Maja Street	Ibadan South West	Oyo	7.396	3.868	1	
+Maduike Street	Eti Osa	Lagos	6.440	3.419	1	
+Manuwa Street	Eti Osa	Lagos	6.443	3.414	1	
+Mainland Way	Eti Osa	Lagos	6.458	3.416	1	
+MacPherson Avenue	Eti Osa	Lagos	6.444	3.442	1	
+Macgregor Road	Eti Osa	Lagos	6.452	3.423	1	
+Magbon Close	Eti Osa	Lagos	6.443	3.442	1	
+Okunola Martins Close	Eti Osa	Lagos	6.445	3.424	1	
+New Marina Road	Lagos Island	Lagos	6.448	3.393	1	Lagos Island Inner Ring Road
+Old Marina Street	Lagos Island	Lagos	6.443	3.401	1	
+New Marina Road	Lagos Island	Lagos	6.454	3.382	1	Lagos Island Inner Ring Road
+Marina Roundabout	Lagos Island	Lagos	6.455	3.382	1	
+Malu Road	Ajeromi/Ifelodun	Lagos	6.455	3.354	1	
+Malu Road	Apapa	Lagos	6.456	3.359	1	
+Herbert Macaulay Way	Lagos Mainland	Lagos	6.486	3.385	1	
+Herbert Macaulay Street	Mushin	Lagos	6.516	3.367	1	
+Mabawonku Street	Kosofe	Lagos	6.551	3.401	1	
+Clinic Road Lagos Mainland	Lagos Mainland	Lagos	6.492	3.385	1	
+Mary Gold Close	Kosofe	Lagos	6.549	3.406	1	
+Moronu Maduagwu Street	Surulere	Lagos	6.501	3.351	1	
+Majekodunmi Street	Ikeja	Lagos	6.598	3.351	1	
+Herbert Maculay Crescent	Ikeja	Lagos	6.581	3.345	1	
+Maryland Crescent	Ikeja	Lagos	6.577	3.367	1	
+Matthew Babashola Street	Alimosho	Lagos	6.539	3.259	1	
+Chris Madueke Drive	Eti Osa	Lagos	6.441	3.461	1	
+Mayaki Usman Crescent	Eti Osa	Lagos	6.444	3.457	1	
+Jubril Martins Street	Eti Osa	Lagos	6.431	3.438	1	
+Magchuka Street	Alimosho	Lagos	6.599	3.305	1	
+Segun Majekodunmi Street	Alimosho	Lagos	6.607	3.300	1	
+Ishola Makinde Street	Alimosho	Lagos	6.604	3.296	1	
+Majekwu Close	Ikeja	Lagos	6.602	3.325	1	
+Mayaka Street	Agege	Lagos	6.613	3.326	1	
+Babatunde Masha Street	Eti Osa	Lagos	6.445	3.457	1	
+Mabogunje Road	Eti Osa	Lagos	6.427	3.455	1	
+Admiral Macaulay Close	Eti Osa	Lagos	6.440	3.490	1	
+Mando Road	Igabi	Kaduna	10.592	7.407	1	
+Maiduguri Road	Tarauni	Kano	11.968	8.551	1	
+Maiduguri Road	Nassarawa	Kano	11.976	8.566	1	
+Kano-Maiduguri Highway	Darazo	Bauchi	11.432	10.818	1	
+Kano-Maiduguri Highway	Dawakin Kudu	Kano	11.902	8.659	1	
+Madina Road	Fagge	Kano	12.014	8.535	1	
+Kofar Mata Road	Kano Municipal	Kano	11.995	8.518	1	
+Yusuf Maitama Sule University Kano, city campus	Kano Municipal	Kano	11.991	8.531	0	
+Macualay Road	Ibadan North	Oyo	7.443	3.888	1	
+Massey Street	Lagos Island	Lagos	6.453	3.393	1	
+Marina Road	Lagos Island	Lagos	6.457	3.380	1	
+Funso Martins Street	Eti Osa	Lagos	6.459	3.440	1	
+Herbert Macaulay Street	Lagos Mainland	Lagos	6.481	3.387	1	
+Makanjuola Street	Apapa	Lagos	6.470	3.347	1	
+Matan Fada Road	Nassarawa	Kano	11.988	8.542	1	
+Madeira Street	Municipal Area Council	FCT Abuja	9.086	7.490	1	
+Marrakesh Street	Municipal Area Council	FCT Abuja	9.082	7.478	1	
+Mahatma Gandhi Street	Municipal Area Council	FCT Abuja	9.048	7.508	1	
+Mao Tse Tung Street	Municipal Area Council	FCT Abuja	9.050	7.510	1	
+Matadi Street	Municipal Area Council	FCT Abuja	9.062	7.474	1	
+Maputo Street	Municipal Area Council	FCT Abuja	9.062	7.470	1	
+Martin Luther King Jr. Street	Municipal Area Council	FCT Abuja	9.107	7.410	1	
+Makurdi Street	Municipal Area Council	FCT Abuja	9.040	7.483	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.424	9.951	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.427	9.956	1	
+Maracaibo Close	Municipal Area Council	FCT Abuja	9.099	7.484	1	Lake Maracaibo Close
+Mani Close	Municipal Area Council	FCT Abuja	9.029	7.473	1	
+Maseru Street	Municipal Area Council	FCT Abuja	9.068	7.461	1	
+Makeni Street	Municipal Area Council	FCT Abuja	9.070	7.461	1	
+Massenya Street	Municipal Area Council	FCT Abuja	9.070	7.462	1	
+P.O.W MAFEMI CRESCENT	Municipal Area Council	FCT Abuja	9.068	7.435	1	
+Ndagi Mamudo Close	Municipal Area Council	FCT Abuja	9.062	7.421	1	
+Massana street	Municipal Area Council	FCT Abuja	9.054	7.466	1	
+Magoro Drive	Municipal Area Council	FCT Abuja	8.978	7.451	1	
+City Mart Close	Municipal Area Council	FCT Abuja	8.997	7.430	1	
+Nelson Mandela Street	Municipal Area Council	FCT Abuja	9.042	7.531	1	
+Jose Marti Crescent	Municipal Area Council	FCT Abuja	9.039	7.516	1	
+Maccido Royal Estate	Municipal Area Council	FCT Abuja	8.989	7.420	1	
+Malanje Street	Municipal Area Council	FCT Abuja	9.068	7.471	1	
+Marine Base Road	Port-Harcourt	Rivers	4.770	7.028	1	
+Masaka Close	Municipal Area Council	FCT Abuja	9.056	7.457	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.844	13.054	1	
+Kano-Maiduguri Highway	Maiduguri	Borno	11.834	13.117	1	
+Bako Maishinku Street	Gwale	Kano	11.992	8.498	1	
+Mai Rigar Fata Street	Gwale	Kano	11.991	8.497	1	
+Ajassa Main road	Fagge	Kano	11.995	8.536	1	
+Mallam Aminu Kano International Airport	Fagge	Kano	12.056	8.543	0	
+Mambayya House Bayero University	Dala	Kano	12.015	8.507	0	
+Layin mai Solar	Tarauni	Kano	11.973	8.558	1	
+Masallacin Murtala Street	Tarauni	Kano	11.961	8.536	1	
+Mal Uzairu street	Tarauni	Kano	11.972	8.557	1	
+Maitama Sule Road	Nassarawa	Kano	11.993	8.549	1	
+Sani Lawal Kofan Mata	Tarauni	Kano	11.969	8.556	1	
+Malami street	Tarauni	Kano	11.971	8.556	1	
+Mairuwa street	Tarauni	Kano	11.973	8.558	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.249	8.412	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.346	8.303	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.333	8.311	1	
+Rahama to Kafin Mayaki Road	Bebeji	Kano	11.380	8.274	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.278	8.340	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.337	8.309	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.238	8.427	1	
+Maiduguri International Airport	Maiduguri	Borno	11.871	13.099	0	
+Wayan Makafi Street	Bauchi	Bauchi	10.298	9.841	1	
+Rahama to Kafin Mayaki Road	Lere	Kaduna	10.555	8.678	1	
+Mahogany Street	Fagge	Kano	12.029	8.537	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.053	7.485	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.044	7.491	1	
+Zakaria Maimalari Street	Municipal Area Council	FCT Abuja	9.047	7.488	1	
+Herbert Maacaulay Way	Municipal Area Council	FCT Abuja	9.056	7.483	1	
+Marshall Iberi close	Egor	Edo	6.370	5.569	1	
+OSASIMA NURSING AND MATERNITY HOME	Egor	Edo	6.361	5.581	0	
+Madam Meg Shegbe Otone Street	Eti Osa	Lagos	6.479	3.605	1	
+Chief Matones Way	Eti Osa	Lagos	6.477	3.606	1	
+Mary Ezeani Street	Eti Osa	Lagos	6.477	3.622	1	
+Makurdi to Zaki Biam Road	Buruku	Benue	7.436	9.111	1	
+Jubril Martins Street	Surulere	Lagos	6.506	3.349	1	
+Sarki Mangu Street	Jos North	Plateau	9.911	8.887	1	
+Mallam Audu St	Jos North	Plateau	9.926	8.887	1	
+Maiduguri Bypass	Bauchi	Bauchi	10.321	9.823	1	
+Gidan Mai Roundabout	Bauchi	Bauchi	10.320	9.823	1	
+Maiduguri Bypass	Bauchi	Bauchi	10.346	9.841	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.678	11.348	1	
+macomma road	Numan	Adamawa	9.461	12.029	1	
+Kano-Maiduguri Highway	Darazo	Bauchi	11.244	10.559	1	
+Magaji Rumfa Road	Nassarawa	Kano	11.987	8.560	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.740	11.956	1	
+Kano-Maiduguri Highway	Darazo	Bauchi	11.254	10.557	1	
+Nguru to Machina Road	Nguru	Yobe	12.951	10.350	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.055	7.484	1	
+Marine Road	Apapa	Lagos	6.447	3.352	1	
+Yahaya Madaki Way	Muhammadu Dikko Stadium	Katsina	12.981	7.614	1	
+Old Marina Street	Lagos Island	Lagos	6.450	3.391	1	
+Old Marina Street	Lagos Island	Lagos	6.455	3.383	1	
+Alhaji Masha Road	Surulere	Lagos	6.500	3.355	1	
+Herbert Macaulay Way	Lagos Mainland	Lagos	6.508	3.378	1	
+Maroko Road	Eti Osa	Lagos	6.436	3.441	1	
+Matanmi Street	Mushin	Lagos	6.532	3.365	1	
+Makoko Road	Lagos Mainland	Lagos	6.497	3.389	1	
+Maye Street	Lagos Mainland	Lagos	6.506	3.374	1	
+Martins Street	Mushin	Lagos	6.510	3.367	1	
+Makinde Close	Surulere	Lagos	6.509	3.365	1	
+Madina Link	Nassarawa	Kano	11.991	8.569	1	
+Mabinuori Street	Shomolu	Lagos	6.549	3.376	1	
+Matthew Ajala Street	Ede North	Osun	7.763	4.532	1	
+Ido-Osun Main Road	Egbedore	Osun	7.780	4.483	1	
+Ido-Osun Main Road	Egbedore	Osun	7.777	4.487	1	
+Maxwell Street	Ojo	Lagos	6.461	3.168	1	
+Mabinuori Street	Oshodi/Isolo	Lagos	6.516	3.328	1	
+Markaz Road	Agege	Lagos	6.622	3.316	1	
+Makajuola Street	Alimosho	Lagos	6.647	3.293	1	
+Ola Martins Street	Alimosho	Lagos	6.635	3.290	1	
+Sola Martins Street	Ifako/Ijaye	Lagos	6.667	3.308	1	
+Makanju Street	Ifako/Ijaye	Lagos	6.666	3.319	1	
+Maduku Street	Warri South	Delta	5.529	5.751	1	
+Maro Street	Uvwie	Delta	5.555	5.768	1	
+Mabiaku Road	Warri South	Delta	5.522	5.738	1	
+Makurdi-Gbajimba Road	Markurdi	Benue	7.805	8.644	1	
+Makurdi Airport	Markurdi	Benue	7.713	8.621	0	
+Mary Slessor	Municipal Area Council	FCT Abuja	9.057	7.528	1	
+St Martins way	Oredo	Edo	6.304	5.577	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.700	11.072	1	
+Maiduguri - Monguno Road	Maiduguri	Borno	11.878	13.116	1	
+Maiduguri - Monguno Road	Maiduguri	Borno	11.874	13.118	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.835	13.090	1	
+Kano-Maiduguri Highway	Kaga	Borno	11.820	12.572	1	
+Kano-Maiduguri Highway	Kaga	Borno	11.807	12.485	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.744	11.970	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.691	11.678	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.688	11.184	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.686	11.191	1	
+Kano-Maiduguri Highway	Fika	Yobe	11.668	11.241	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.698	11.096	1	
+Kano-Maiduguri Highway	Wudil	Kano	11.797	8.834	1	
+Kano-Maiduguri Highway	Wudil	Kano	11.744	8.857	1	
+Kano-Maiduguri Highway	Warawa	Kano	11.814	8.819	1	
+Manuwa Street	Enugu North	Enugu	6.462	7.500	1	
+Major Gen. Ibrahim D. Gumel Street	Enugu North	Enugu	6.449	7.494	1	
+Mary Emmanuel Street	Enugu East	Enugu	6.487	7.492	1	
+Maduka Street	Enugu East	Enugu	6.484	7.528	1	
+Igwe J O Mama Drive	Enugu North	Enugu	6.475	7.484	1	
+Makurdi Street	Enugu East	Enugu	6.478	7.505	1	
+Maku Street	Enugu East	Enugu	6.472	7.585	1	
+Ogbete Main Market Road	Enugu North	Enugu	6.438	7.487	1	
+Onitsha South Local Government Mass Transit Road	Enugu South	Enugu	6.421	7.482	1	
+Egwuekwe Street Maryland	Enugu South	Enugu	6.417	7.506	1	
+Malobi Street	Enugu East	Enugu	6.493	7.509	1	
+Mabia Street	Enugu East	Enugu	6.486	7.521	1	
+Marshal Paint Road	Enugu North	Enugu	6.460	7.536	1	
+Ogbodo Onam Street, Maryland	Enugu South	Enugu	6.417	7.505	1	
+Macon Drive	Enugu East	Enugu	6.481	7.526	1	
+Man.U.Avenue	Enugu East	Enugu	6.479	7.536	1	
+Maku Street	Enugu East	Enugu	6.473	7.585	1	
+Maternity Avenue	Enugu North	Enugu	6.446	7.502	1	
+Ezeh Matthew Avenue	Enugu East	Enugu	6.488	7.577	1	
+Ave Maria Lane	Enugu East	Enugu	6.487	7.578	1	
+Railway Main Store Road	Enugu North	Enugu	6.449	7.498	1	
+Mary Emmanuel Street	Enugu East	Enugu	6.485	7.481	1	
+Maunel School Link	Enugu North	Enugu	6.461	7.498	1	
+Mazi Ike Okereke Street	Enugu North	Enugu	6.467	7.577	1	
+Eze Matthew Avenue	Enugu East	Enugu	6.488	7.578	1	
+Martin Ezeifeoma Street	Enugu East	Enugu	6.492	7.500	1	
+Centenary Main Road	Enugu South	Enugu	6.400	7.524	1	
+Max Ozoaka Street	Enugu North	Enugu	6.472	7.487	1	
+Virgo Mater Crescent	Enugu South	Enugu	6.419	7.515	1	
+Oye Maeket Road	Enugu South	Enugu	6.411	7.536	1	
+16 P.O.W MAFEMI CRESCENT	Municipal Area Council	FCT Abuja	9.070	7.436	1	
+MASALLACIN JALLI STREET	Kano Municipal	Kano	11.993	8.525	1	
+Hajiya Mariya road	Fagge	Kano	11.996	8.543	1	
+Hajiya Mariya Sanusi Street	Fagge	Kano	11.997	8.541	1	
+Mayu Road	Nassarawa	Kano	12.001	8.545	1	
+Sharada Mallam Street	Kano Municipal	Kano	11.978	8.508	1	
+Marafa Street	Kano Municipal	Kano	11.970	8.503	1	
+Umar Madahaji Street	Fagge	Kano	11.997	8.539	1	
+Musa Y. Maikifi	Fagge	Kano	11.997	8.540	1	
+Makarantar Galadima	Gwale	Kano	11.989	8.514	0	
+Gwadabe Maitasa Street	Gwale	Kano	11.995	8.507	1	
+Madaka Road	Rafi	Niger	10.185	6.260	1	
+Sarki Mangu Street	Jos North	Plateau	9.910	8.884	1	
+Rafin Mallam/Sabon Birni Road	Fagge	Kano	12.055	8.496	1	
+Marcus Garvey Street	Enugu North	Enugu	6.457	7.518	1	
+Malumfashi - Katsina Road	Batagarawa	Katsina	12.716	7.529	1	
+Malumfashi - Katsina Road	Batagarawa	Katsina	12.708	7.525	1	
+Malumfashi - Katsina Road	Batagarawa	Katsina	12.731	7.529	1	
+Malumfashi - Katsina Road	Batagarawa	Katsina	12.818	7.562	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.450	7.504	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.383	9.524	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.351	9.603	1	
+Malumfashi - Katsina Road	Kankara	Katsina	12.009	7.458	1	
+Malumfashi - Katsina Road	Kankara	Katsina	12.075	7.471	1	
+Eric & Maric Close	Enugu East	Enugu	6.484	7.507	1	
+Akama Mathew Street	Enugu East	Enugu	6.512	7.523	1	
+Hon. Sir Mathew Ugwueze Close	Enugu North	Enugu	6.436	7.506	1	
+Madubuaja Street	Enugu East	Enugu	6.511	7.525	1	
+Mario East Street	Enugu East	Enugu	6.521	7.518	1	
+Maurice's Close	Enugu South	Enugu	6.419	7.513	1	
+Villa Maria Close	Enugu East	Enugu	6.470	7.591	1	
+GWANDA-MARKE ROAD	Dambatta	Kano	12.584	8.618	1	
+Masudu street	Tarauni	Kano	11.977	8.561	1	
+Mall. Hussaini street	Tarauni	Kano	11.978	8.561	1	
+Lungun Malamai Road	Tofa	Kano	12.058	8.275	1	
+Magnus Abe Street	Municipal Area Council	FCT Abuja	9.044	7.436	1	
+Kano-Maiduguri Highway	Garko	Kano	11.659	8.895	1	
+Kano-Maiduguri Highway	Wudil	Kano	11.637	8.931	1	
+Masaba Road	Ibadan North	Oyo	7.451	3.893	1	
+Madaki Road	Ibadan North	Oyo	7.447	3.895	1	
+Mac Dan	Enugu East	Enugu	6.482	7.483	1	
+Macdan Chukwu Ani Avenue	Enugu East	Enugu	6.483	7.484	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.427	9.488	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.423	9.489	1	
+Mahmood Tukur Road	Ungongo	Kano	11.973	8.435	1	
+Nelson Mandela Crescent	Ungongo	Kano	11.969	8.435	1	
+Kara road (Main gate)	Wudil	Kano	11.804	8.848	1	
+Kano-Maiduguri Highway	Albasu	Kano	11.626	8.952	1	
+Kano-Maiduguri Highway	Albasu	Kano	11.610	8.987	1	
+Kano-Maiduguri Highway	Albasu	Kano	11.613	9.030	1	
+Kano-Maiduguri Highway	Albasu	Kano	11.553	9.190	1	
+Malumfashi - Katsina Road	Kurfi	Katsina	12.639	7.495	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.427	7.463	1	
+Yar Maraya - Ikara Road	Tudun Wada	Kano	11.276	8.303	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.469	9.444	1	
+Kano-Maiduguri Highway	Takai	Kano	11.527	9.337	1	
+Matthaias Okonkwo Street	Oshodi/Isolo	Lagos	6.507	3.298	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.414	9.490	1	
+Kano-Maiduguri Highway	Birnin Kudu	Jigawa	11.384	9.507	1	
+Makinde Street	Surulere	Lagos	6.509	3.362	1	
+Maitama close	Konduga	Borno	11.855	13.056	1	
+Maitama close	Konduga	Borno	11.856	13.057	1	
+Marayesa Street	Surulere	Lagos	6.489	3.334	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.417	9.893	1	
+Kano-Maiduguri Highway	Gwaram	Jigawa	11.346	9.642	1	
+Olufunke Mabadeje Street	Ìkòròdú	Lagos	6.620	3.493	1	
+Titin Mai Adda Street	Kano Municipal	Kano	11.975	8.534	1	
+Adamu Mai Chemist Street	Kano Municipal	Kano	11.973	8.531	1	
+Markas Juma'at Mosque Street	Ungongo	Kano	11.974	8.446	1	
+Layin Mai Gari Street Chiranci	Gwale	Kano	11.954	8.467	1	
+Mai Aduwa Health Post	Makoda	Kano	12.275	8.571	0	
+Kutama - Mainika Road	Gwarzo	Kano	11.898	7.869	1	
+Layin Masallaci	Tarauni	Kano	11.978	8.561	1	
+makera road	Dambatta	Kano	12.333	8.681	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.246	8.250	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.215	8.233	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.178	8.237	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.175	8.235	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.191	8.229	1	
+Dan'Malam Health Post	Ajingi	Kano	11.939	9.190	0	
+Tudun Maliki Street	Kumbotso	Kano	11.962	8.531	1	
+Sheka Makaranta Street	Kumbotso	Kano	11.955	8.531	1	
+Maigari Health Post	Rimin Gado	Kano	11.919	8.332	0	
+Maraya Health Post	Madobi	Kano	11.892	8.411	0	
+Maigari Ingila Health Post	Rimin Gado	Kano	11.921	8.302	0	
+Makamauta Primary Health Centre	Gwarzo	Kano	11.913	8.105	0	
+Kwanar malan	Kumbotso	Kano	11.890	8.502	1	
+Sanda mai Barewa street	Fagge	Kano	12.010	8.527	1	
+Layin gidan malan audu	Kumbotso	Kano	11.890	8.499	1	
+Madaki Road	Kumbotso	Kano	11.898	8.516	1	
+Mall, Bilya Street	Tarauni	Kano	11.977	8.558	1	
+Lakwaya - Mainika Road	Gwarzo	Kano	11.966	7.875	1	
+Mangari Health Post	Albasu	Kano	11.645	9.009	0	
+Maimakawa Health Post	Gaya	Kano	11.796	9.132	0	
+Maigana Health Post	Ajingi	Kano	11.943	9.001	0	
+Kara-Makama Health Post	Ajingi	Kano	11.957	9.074	0	
+Masaurari Health Post	Bagwai	Kano	12.124	8.078	0	
+Malikawa Garu Health Post	Bichi	Kano	12.398	8.154	0	
+Magawata Health Post	Kunchi	Kano	12.423	8.277	0	
+Makoda Primary Health Centre	Makoda	Kano	12.423	8.428	0	
+Masallachi Health Post	Dambatta	Kano	12.473	8.538	0	
+Maiganji Health Post	Dambatta	Kano	12.435	8.574	0	
+Marke Danya Health Post	Dambatta	Kano	12.462	8.460	0	
+Goran Maje Primary Health Centre	Dambatta	Kano	12.534	8.687	0	
+Kauyen Mai Unguwar Primary Health Centre	Dambatta	Kano	12.371	8.487	0	
+Dalal Mahuta Health Post	Dambatta	Kano	12.321	8.607	0	
+Maitsidau Primary Health Centre	Makoda	Kano	12.355	8.496	0	
+Rijiyar Lemo Maternal and Child Health	Fagge	Kano	12.055	8.477	0	
+Madaci Health Post	Dawakin Tofa	Kano	12.196	8.474	0	
+Chedi Maidala Health Post	Dawakin Tofa	Kano	12.135	8.422	0	
+Dogon Marke Health Post	Dawakin Tofa	Kano	12.154	8.320	0	
+Marke Health Post	Dawakin Tofa	Kano	12.129	8.272	0	
+Mallam Shuaibu Primary Health Centre	Nassarawa	Kano	12.021	8.557	0	
+Abbas Maje Nassarawa Secondary Secondary	Fagge	Kano	12.033	8.536	0	
+CMD Road Magodo GRA Phase 2	Kosofe	Lagos	6.622	3.365	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.631	8.645	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.673	8.638	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.663	8.644	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.766	8.605	1	
+Rahama to Kafin Mayaki Road	Kubau	Kaduna	10.835	8.573	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.017	8.615	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	10.910	8.619	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.083	8.594	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.068	8.608	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.133	8.572	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.175	8.537	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.160	8.550	1	
+Rahama to Kafin Mayaki Road	Doguwa	Kano	11.115	8.580	1	
+Kofar Mata Road	Kano Municipal	Kano	12.000	8.526	1	
+Makurdi to Zaki Biam Road	Ukum	Benue	7.497	9.519	1	
+Makurdi to Zaki Biam Road	Logo	Benue	7.495	9.300	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.476	7.533	1	
+Dutsin Ma - Kankiya Road	Charanchi	Katsina	12.472	7.692	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.491	7.612	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.485	7.551	1	
+Dutsin Ma - Kankiya Road	Kankia	Katsina	12.492	7.718	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.484	7.627	1	
+Dutsin Ma - Kankiya Road	Charanchi	Katsina	12.475	7.652	1	
+Dutsin Ma - Kankiya Road	Charanchi	Katsina	12.475	7.709	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.484	7.585	1	
+Dutsin Ma - Kankiya Road	Kankia	Katsina	12.507	7.756	1	
+Oseni Mayeigun Street	Eti Osa	Lagos	6.432	3.513	1	
+Mathew Osawemen Street	Eti Osa	Lagos	6.431	3.513	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.225	8.446	1	
+Rahama to Kafin Mayaki Road	Tudun Wada	Kano	11.203	8.499	1	
+Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.344	8.364	1	
+Yar Maraya - Ikara Road	Ikara	Kaduna	11.276	8.262	1	
+Marigold Avenue	Eti Osa	Lagos	6.498	3.618	1	
+Ebilate Mac Yoroki Street	Eti Osa	Lagos	6.487	3.590	1	
+Magbagbeola Street	Eti Osa	Lagos	6.485	3.588	1	
+Mayowa Hassan Street	Eti Osa	Lagos	6.483	3.589	1	
+Alganari Dispensary	Zaki	Bauchi	12.389	10.387	0	Mainako Rimindi
+Masaje Dispensary	Zaki	Bauchi	12.437	10.666	0	
+Maikore Dispensary	Zaki	Bauchi	12.248	10.241	0	
+National Polio Immunization Office	Zaki	Bauchi	12.284	10.345	0	Town Maternity
+Maiwa Dispensary	Zaki	Bauchi	12.372	10.275	0	
+Malawasai Dispensary	Zaki	Bauchi	12.191	10.284	0	
+Mazai Dispensary	Itas/Gadau	Bauchi	11.858	10.040	0	
+Majiya Health Post	Itas/Gadau	Bauchi	11.832	9.903	0	
+Majiya Health Center	Itas/Gadau	Bauchi	11.836	9.897	0	
+Mabai Maternity	Jama'Are	Bauchi	11.752	9.948	0	
+Babu Gudu Maternity	Itas/Gadau	Bauchi	11.954	10.005	0	
+Marmaniji Dispensary	Jama'Are	Bauchi	11.737	9.897	0	
+Bidir Maternity	Katagum	Bauchi	11.625	10.201	0	
+Thinade Maternity	Katagum	Bauchi	11.667	10.200	0	
+Jarmawo Maternal And Child Health Clinic	Giade	Bauchi	11.544	10.320	0	
+Gursoli Maternity	Katagum	Bauchi	11.662	10.232	0	
+Madawa Dispensary	Damban	Bauchi	11.683	10.766	0	
+Tarmasuwa Maternity	Gamawa	Bauchi	11.826	10.792	0	
+Madiri Dispensary	Katagum	Bauchi	11.624	10.563	0	
+Zindi Dispensary	Katagum	Bauchi	11.568	10.490	0	Gangai Maternity
+Town Maternity	Jama'Are	Bauchi	11.666	9.927	0	
+Madangala Dispensary	Katagum	Bauchi	11.643	10.153	0	
+Karabarwa Maternity Health Center	Shira	Bauchi	11.582	9.920	0	Katabuwa Dispensary
+Rarum Maternity	Jama'Are	Bauchi	11.611	9.846	0	
+Bunga Maternity	Warji	Bauchi	11.064	9.636	0	
+Matawai Maternity	Lere	Kaduna	10.507	8.776	0	
+Tashan Turmi Maternity	Kirfi	Bauchi	10.363	10.756	0	
+Kwagal Maternity	Kirfi	Bauchi	10.288	10.589	0	
+Rinjin Gaini Maternity	Toro	Bauchi	10.062	9.098	0	
+Mararraban/L Katagum Health Clinic	Bauchi	Bauchi	10.104	9.665	0	
+Dabardata Maternity	Dass	Bauchi	10.003	9.519	0	
+Gwalfada Maternity	Toro	Bauchi	10.123	9.043	0	
+Badel Maternity	Dass	Bauchi	9.972	9.473	0	
+Tashan Mai Allo Dispensary	Toro	Bauchi	10.102	9.224	0	
+Lukshi Maternity	Dass	Bauchi	10.022	9.376	0	
+Debardak Maternity Health Clinic	Dass	Bauchi	10.013	9.556	0	
+Magama Clinic	Toro	Bauchi	10.069	9.126	0	
+Buka Tulai Maternity	Toro	Bauchi	10.074	9.288	0	
+Mara Dispensary	Toro	Bauchi	10.304	9.284	0	
+Polchi Maternity	Toro	Bauchi	10.123	9.301	0	
+Toro Maternity	Toro	Bauchi	10.058	9.065	0	
+Saminakan Gwa Maternity	Toro	Bauchi	10.301	9.197	0	
+Dajin Maternity	Tafawa-Balewa	Bauchi	10.029	9.645	0	Lamna Dispensiry
+Lirr Maternity	Dass	Bauchi	10.071	9.502	0	
+Magama Gari Dispensary	Toro	Bauchi	10.082	9.164	0	
+Wandi Maternity	Dass	Bauchi	9.982	9.496	0	
+Bagas Maternity/clinic	Dass	Bauchi	9.975	9.484	0	
+Balarabe Maternity Clinic	Toro	Bauchi	10.103	9.293	0	
+Mainasara Nursing Home Zimin Zayam	Toro	Bauchi	10.136	9.283	0	
+Dott Maternity	Dass	Bauchi	10.024	9.517	0	
+Yola Maternal Child Health Clinic	Bauchi	Bauchi	10.138	10.115	0	Badakoshi Maternal and Child Health Clinic
+Maternity	Tafawa-Balewa	Bauchi	9.839	9.747	0	
+Gale Maternity	Alkaleri	Bauchi	10.056	10.339	0	
+Garin Hamza Maternity	Alkaleri	Bauchi	9.876	10.935	0	
+Gar Maternity	Alkaleri	Bauchi	10.073	10.267	0	
+Gandi Maternity	Toro	Bauchi	9.948	9.326	0	
+Mai Ari	Alkaleri	Bauchi	10.017	10.683	0	
+Juwara Maternity and Child Health Center	Bauchi	Bauchi	9.962	9.942	0	
+Zari Maku Dispensary	Toro	Bauchi	9.932	9.290	0	
+Bashi Mat/clinic	Dass	Bauchi	9.930	9.534	0	
+Mai Juju Tasha Health Clinic	Tafawa-Balewa	Bauchi	9.743	9.158	0	
+Bogoro Maternal and Child Health Clinic	Bogoro	Bauchi	9.661	9.598	0	
+Marin Daji Health Clinic	Tafawa-Balewa	Bauchi	9.686	9.441	0	
+Gwana Maternal and Child Health Clinic	Alkaleri	Bauchi	9.653	10.752	0	
+Lafiyan-sara Maternal and Child Health Clinic	Bogoro	Bauchi	9.686	9.554	0	
+Duklin Bauchi Maternity	Mangu	Plateau	9.584	9.319	0	
+Mwari Maternity and Child Health Center	Bogoro	Bauchi	9.669	9.575	0	
+Sara Maternity and Clinic	Tafawa-Balewa	Bauchi	9.631	9.425	0	
+Mandara Close	Municipal Area Council	FCT Abuja	9.081	7.507	1	
+Mambilla Street	Municipal Area Council	FCT Abuja	9.080	7.511	1	
+Alhaji Maruf Alli Owe Street	Eti Osa	Lagos	6.447	3.518	1	
+E Mac Yoroki Street	Eti Osa	Lagos	6.441	3.517	1	
+Sokoto Main Garage	Sokoto North	Sokoto	13.060	5.226	0	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.733	11.913	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.738	11.944	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.676	11.363	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.679	11.334	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.664	11.504	1	
+Barwati - Dabar Masara road	Kukawa	Borno	12.807	13.816	1	
+Bola Matanmi Street	Eti Osa	Lagos	6.449	3.572	1	
+Magbon Street	Eti Osa	Lagos	6.448	3.565	1	
+Loma Mansa St	Municipal Area Council	FCT Abuja	9.067	7.473	1	
+Maiduguri - Monguno Road	Nganzai	Borno	12.386	13.155	1	
+Maiduguri - Monguno Road	Nganzai	Borno	12.600	13.318	1	
+Maiduguri - Monguno Road	Nganzai	Borno	12.485	13.211	1	
+Marina Road	Lagos Island	Lagos	6.455	3.382	1	Lagos Island Inner Ring Road
+Maiduguri - Damasak Road	Mobbar	Borno	13.105	12.508	1	
+Maiduguri - Damasak Road	Mobbar	Borno	13.079	12.526	1	
+Kano-Maiduguri Highway	Giade	Bauchi	11.371	10.250	1	
+Marsh Street	Mobbar	Borno	12.936	12.681	1	
+Marine Road	Lokoja	Kogi	7.802	6.746	1	
+Mafa General Hospital	Mafa	Borno	11.919	13.597	0	
+Masba Abbari Health Clinic	Konduga	Borno	11.599	13.020	0	
+University Of Maiduguri Teaching Hospital	Jere	Borno	11.822	13.187	0	
+Matta Gujjari Health Clinic	Mafa	Borno	11.806	13.689	0	
+Kano-Maiduguri Highway	Fune	Yobe	11.685	11.620	1	
+Kano-Maiduguri Highway	Fune	Yobe	11.664	11.505	1	
+Ngelzarma to Mashio road	Fune	Yobe	11.829	11.608	1	
+Ngelzarma Maternal and Child Health Center	Fune	Yobe	11.686	11.628	0	
+Maigana Street	Zaria	Kaduna	11.081	7.692	1	
+Tade Mabayoje Close	Lagelu	Oyo	7.438	3.953	1	
+Maverick College	Ibadan North	Oyo	7.432	3.897	0	
+Main Residential road	Abaji	FCT Abuja	9.206	6.848	1	
+Lakwaya - Mainika Road	Gwarzo	Kano	11.932	7.871	1	
+Tayo Makinde Street	Ifako/Ijaye	Lagos	6.672	3.293	1	
+Macaulay Street	Umuahia North	Abia	5.529	7.495	1	
+Makurdi-Jos	Lafia	Nasarawa	8.481	8.550	1	
+Macaulay Street	Umuahia North	Abia	5.523	7.495	1	
+Umudara Main Road	Ikwuano	Abia	5.414	7.548	1	
+Tokunbo Macaulay Street	Kosofe	Lagos	6.614	3.379	1	
+Mabinuori Street	Kosofe	Lagos	6.615	3.376	1	
+Mary Slessor Avenue	Calabar Municipal	Cross River	4.954	8.337	1	
+Marian Road	Calabar Municipal	Cross River	4.952	8.332	1	
+Nelson Mandela St	Calabar Municipal	Cross River	4.956	8.324	1	
+Marian Road	Calabar Municipal	Cross River	4.956	8.332	1	
+Man O War road	Ikwerre	Rivers	4.905	6.902	1	
+maris clos	Obio/Akpor	Rivers	4.878	6.995	1	
+Mabinton Estate Road	Yenegoa	Bayelsa	4.928	6.303	1	
+Nelson Mandela Road	Uyo	Akwa Ibom	5.044	7.915	1	
+Osun State Hospital Management, Asubiaro	Osogbo	Osun	7.763	4.543	0	
+Mai Unguwa Tela Street	Tarauni	Kano	11.956	8.541	1	
+Betsay Shopping Mall	Olorunda	Osun	7.780	4.557	0	
+Corae Maria Secondary School	Ideato North	Imo	5.852	7.096	0	
+Mayowa Street	Ife Central	Osun	7.486	4.556	1	
+St Marks Street	Ise/Orun	Ekiti	7.462	5.430	1	
+Sheik Mayowa Street	Saki West	Oyo	8.669	3.391	1	
+KASUWAN MATA ROAD	Gombe	Gombe	10.303	11.165	1	
+agbor main	Ika South	Delta	6.259	6.178	1	
+Federal University Dutsin Ma - Take off Campus	Dutsin Ma	Katsina	12.473	7.483	0	
+Phillip Majek Street	Ifako/Ijaye	Lagos	6.665	3.314	1	
+Madonna St	Owerri North	Imo	5.505	7.033	1	
+Alhaji Hassan Makinde Street	Ifako/Ijaye	Lagos	6.651	3.305	1	Taiwo Adewole Street
+Kutama - Mainika Road	Gwarzo	Kano	11.880	7.869	1	
+Kutama - Mainika Road	Gwarzo	Kano	11.874	7.868	1	
+Clinic Road Lagos Mainland	Lagos Mainland	Lagos	6.492	3.389	1	
+Federal University of Technology, Minna	Bosso	Niger	9.525	6.448	0	Main Campus (Gidan Kwano)
+Connector to main road	Bagudo	Kebbi	11.108	3.799	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.063	7.474	1	
+Matama Avenue	Municipal Area Council	FCT Abuja	9.085	7.514	1	
+Matama Avenue	Municipal Area Council	FCT Abuja	9.074	7.512	1	
+Jabi Lake Mall	Municipal Area Council	FCT Abuja	9.078	7.426	0	
+Abubakar Gari Malam Road	Birnin Kebbi	Kebbi	12.447	4.181	1	
+Abigael Mabadeje Street	Alimosho	Lagos	6.554	3.240	1	
+Mallam Buba Street	Oshodi/Isolo	Lagos	6.522	3.309	1	
+Alh. Martins Close	Ojo	Lagos	6.461	3.167	1	
+Hameed Makanjuola Avenue	Oshodi/Isolo	Lagos	6.542	3.315	1	
+Makinde Street	Alimosho	Lagos	6.659	3.283	1	
+Marconi Road	Mushin	Lagos	6.542	3.365	1	
+Maxwell Ijeh Street	Surulere	Lagos	6.486	3.333	1	
+Magnus Oyewole Close	Eti Osa	Lagos	6.469	3.582	1	
+Mazi Onyebuchi Street	Eti Osa	Lagos	6.481	3.581	1	
+Jesu Maria Close	Eti Osa	Lagos	6.476	3.573	1	
+Aro Mashodun Street	Eti Osa	Lagos	6.485	3.584	1	
+Mazi Ukodike Ibe Street	Eti Osa	Lagos	6.482	3.583	1	
+Malomo Olusholademi Chaccour Avenue	Eti Osa	Lagos	6.486	3.597	1	
+Bola Makinde	Alimosho	Lagos	6.664	3.261	1	
+Alhaji Abdul Ganiyu Maja Street	Ìkòròdú	Lagos	6.628	3.504	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.735	12.181	1	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.730	12.148	1	
+Kano-Maiduguri Highway	Kaga	Borno	11.807	12.485	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.828	12.704	1	
+Kano-Maiduguri Highway	Kaga	Borno	11.828	12.645	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.849	12.883	1	
+Makurdi to Zaki Biam Road	Tarka	Benue	7.636	8.878	1	
+MAKURDI-GBOKO ROAD	Markurdi	Benue	7.716	8.604	1	
+Maurice Abimbola Street	Eti Osa	Lagos	6.495	3.587	1	
+Mamowolo Street	Ifo	Ogun	6.733	3.287	1	
+Maikano Close	Kaduna North	Kaduna	10.573	7.467	1	
+Badarawa Main Road	Kaduna North	Kaduna	10.560	7.455	1	
+Jajere Maternal And Child Health Care	Fune	Yobe	11.983	11.437	0	
+LEA Maiduguri Road	Kaduna North	Kaduna	10.504	7.435	0	
+Mafa Para-Vetenary Clinic	Tarmua	Yobe	12.358	12.222	0	
+Marubeni CSR School	Uhunmwonde	Edo	6.415	5.688	0	
+Macpherson Road	Sapele	Delta	5.898	5.670	1	
+Mary Travis	Kaduna North	Kaduna	10.542	7.463	0	
+Madarasatu Tarbiyyatul Islam	Kaduna North	Kaduna	10.541	7.465	0	
+Mannix Way	Mobbar	Borno	12.896	12.688	1	
+Maroua-Kousséri	Kala-Balge	Borno	11.920	14.645	1	
+Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	8.998	7.485	1	
+Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.006	7.478	1	
+Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.000	7.483	1	
+Polo Park Mall	Enugu North	Enugu	6.460	7.496	0	
+Kano-Maiduguri Highway	Warawa	Kano	11.850	8.717	1	
+Maiduguri - Monguno Road	Magumeri	Borno	12.098	13.064	1	
+Zakariyya Maimalari Road	Kaduna North	Kaduna	10.576	7.428	1	
+NGO Maternity	Obio/Akpor	Rivers	4.875	6.916	0	
+Okechukwu Madueke Street	Oshodi/Isolo	Lagos	6.485	3.294	1	
+Aliyu Makama Road	Kaduna South	Kaduna	10.475	7.434	1	
+Makariqus Street	Eti Osa	Lagos	6.471	3.564	1	
+Joseph M Maigari Street	Chikun	Kaduna	10.462	7.439	1	
+Mary Hill High School Road	Adó-Èkìtì	Ekiti	7.628	5.228	1	
+Mayfair Hotel	Ife North	Osun	7.491	4.534	1	
+Martina Ifediora Street	Eti Osa	Lagos	6.476	3.659	1	
+Novare Lekki Mall	Eti Osa	Lagos	6.468	3.639	0	
+M.B Marwa Crescent	Kaduna North	Kaduna	10.507	7.453	1	
+Isa Dan Made Road	Kaduna North	Kaduna	10.515	7.449	1	
+M. Yahaya Mahmud Close	Kaduna North	Kaduna	10.527	7.454	1	
+Enrico Mattei Italian International School Lagos	Eti Osa	Lagos	6.444	3.466	0	
+Mashi Road	Kaduna North	Kaduna	10.561	7.451	1	
+Maryam Street	Kaduna North	Kaduna	10.570	7.463	1	
+Mai Afaku Road	Kaduna North	Kaduna	10.569	7.460	1	
+Mali Crescent	Kaduna North	Kaduna	10.560	7.466	1	
+Avenue Maria Street	Oshimili North	Delta	6.223	6.668	1	
+Massallachi Street	Chikun	Kaduna	10.542	7.486	1	
+Maternity Road	Isoko North	Delta	5.509	6.119	1	
+Maple Avenue	Ilesha West	Osun	7.660	4.725	1	
+Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.339	8.340	1	
+maailman pisin tie	Gboko	Benue	7.422	8.840	1	
+Unguwar Mai Tashe - Makera Alko Road	Tudun Wada	Kano	11.340	8.346	1	
+Mando Road	Igabi	Kaduna	10.590	7.380	1	
+Mamaland Road	Esan West	Edo	6.744	6.091	1	
+maroon road	Numan	Adamawa	9.462	12.029	1	
+MAKURDI-GBOKO ROAD	Markurdi	Benue	7.721	8.574	1	
+MAKURDI-GBOKO ROAD	Markurdi	Benue	7.723	8.561	1	
+Makurdi to Zaki Biam Road	Gboko	Benue	7.366	9.043	1	
+Maryland Drive	Ogbomosho North	Oyo	8.160	4.250	1	
+Malu Road	Akure South	Ondo	7.301	5.144	1	
+Marina Road	Badagry	Lagos	6.420	2.875	1	
+Marina Road	Badagry	Lagos	6.412	2.889	1	
+Major Bowen Road	Sapele	Delta	5.884	5.688	1	
+Wayan Makafi Street	Bauchi	Bauchi	10.295	9.840	1	
+Madaka Road	Rafi	Niger	10.184	6.268	1	
+Madaka Road	Rafi	Niger	10.177	6.291	1	
+Agbor road Main	Esan South-East	Edo	6.561	6.373	1	
+Main Entrance Road	Eleme	Rivers	4.814	7.098	1	
+Main Street	Municipal Area Council	FCT Abuja	9.116	7.366	1	
+Maryland Road	Ikwerre	Rivers	4.906	6.906	1	
+Layin mai unguwa	Dala	Kano	12.034	8.489	1	
+Magazine Road	Ibadan North West	Oyo	7.389	3.880	1	
+Herbert Macauley Road	Port-Harcourt	Rivers	4.791	7.010	1	
+Sharada Mallam Street	Kano Municipal	Kano	11.975	8.508	1	
+Sheikh Jafar Mahmud Way	Gwale	Kano	11.979	8.485	1	
+Alhj. Mannir Street	Gwale	Kano	11.964	8.476	1	
+Makanjuola Avenue	Shagamu	Ogun	6.760	3.478	1	
+Makaranta Road	Gwale	Kano	11.985	8.509	1	
+Makaranta Road	Gwale	Kano	11.985	8.504	1	
+Marguerite Cartwright Avenue	Nsukka	Enugu	6.857	7.406	1	
+Mama Iyabo Street	Jos North	Plateau	9.876	8.883	1	
+Magoro Drive	Municipal Area Council	FCT Abuja	8.975	7.451	1	
+Old Marian	Calabar Municipal	Cross River	4.973	8.338	1	
+Mama Iyabo Street	Jos North	Plateau	9.879	8.886	1	
+Mary Slessor Avenue	Calabar Municipal	Cross River	4.961	8.323	1	
+Malcolm Fraser Street	Municipal Area Council	FCT Abuja	9.050	7.511	1	
+Kano-Maiduguri Highway	Gwaram	Jigawa	11.333	9.764	1	
+Kano-Maiduguri Highway	Gwaram	Jigawa	11.347	9.685	1	
+Mama Ada Nwakwo Street	Eti Osa	Lagos	6.478	3.606	1	
+Abubakar Malami Street	Municipal Area Council	FCT Abuja	9.121	7.366	1	
+Abubakar Malami Street	Municipal Area Council	FCT Abuja	9.122	7.364	1	
+Main Street	Municipal Area Council	FCT Abuja	8.992	7.435	1	
+Adeola Mayegun Street	Alimosho	Lagos	6.514	3.249	1	
+Marama Road	Municipal Area Council	FCT Abuja	9.021	7.585	1	
+Gumel to Maigatari Road	Gumel	Jigawa	12.623	9.385	1	
+Maine - Edgerly Road	Calabar South	Cross River	4.939	8.322	1	
+Maine - Edgerly Road	Calabar South	Cross River	4.923	8.315	1	
+Kano-Maiduguri Highway	Maiduguri	Borno	11.835	13.094	1	
+Mayne Avenue	Calabar Municipal	Cross River	4.948	8.331	1	
+Alh. Alowonle Makere Street	Ìkòròdú	Lagos	6.586	3.609	1	
+Maj. Gen Manwell Close	Municipal Area Council	FCT Abuja	8.939	7.542	1	
+Mal. Kamaludeen Alkali Street	Ungongo	Kano	11.975	8.446	1	
+Layin Farin Masalaci Street	Ungongo	Kano	11.975	8.450	1	
+Mai Unguwa Street	Ungongo	Kano	12.002	8.447	1	
+Matasa Drive	Chanchaga	Niger	9.647	6.521	1	
+Air Marshal Oluseyi Petinrin Drive	Municipal Area Council	FCT Abuja	8.972	7.260	1	
+Major General Godwin Abbe Crescent	Municipal Area Council	FCT Abuja	8.972	7.258	1	
+Rafin Mallam/Sabon Birni Road	Ungongo	Kano	12.072	8.499	1	
+Kano-Maiduguri Highway	Konduga	Borno	11.841	12.769	1	
+Musa Mamman Road	Municipal Area Council	FCT Abuja	9.127	7.400	1	
+Stella Maris Road	Ilorin South	Kwara	8.475	4.632	1	
+Marine Street	Onitsha South	Anambra	6.149	6.771	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.066	7.468	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.068	7.463	1	
+Herbert Macaulay Way	Municipal Area Council	FCT Abuja	9.067	7.454	1	
+Logbara-Magapon Road	Abeokuta South	Ogun	7.152	3.339	1	
+Markus Kangye Boulevard	Municipal Area Council	FCT Abuja	9.004	7.465	1	
+main street	Dange-Shuni	Sokoto	12.951	5.337	1	
+Malabo Street	Municipal Area Council	FCT Abuja	9.082	7.469	1	
+Samuel Jereton Mariere Road	Municipal Area Council	FCT Abuja	9.011	7.474	1	
+Sheikh Jafar Mahmud Way	Gwale	Kano	11.944	8.475	1	
+Charanci Layin Makabarta	Kumbotso	Kano	11.949	8.476	1	
+Maria Ibidunni Street	Ilorin East	Kwara	8.474	4.618	1	
+Rahama to Kafin Mayaki Road	Lere	Kaduna	10.441	8.655	1	
+Layin Alaramma Mal Haruna	Kumbotso	Kano	11.954	8.475	1	
+Layin Ya Malan	Kumbotso	Kano	11.951	8.475	1	
+Layin Baba Manjo	Kumbotso	Kano	11.950	8.476	1	
+Zakaria Maimalari Street	Municipal Area Council	FCT Abuja	9.043	7.484	1	
+Zakaria Maimalari Street	Municipal Area Council	FCT Abuja	9.045	7.485	1	
+Majaro Street	Lagos Mainland	Lagos	6.511	3.388	1	
+Talata Mafara bridge	Talata Mafara	Zamfara	12.565	6.083	1	
+Centenary Main Road	Enugu South	Enugu	6.392	7.532	1	
+Centenary Main Road	Enugu South	Enugu	6.390	7.539	1	
+Centenary Main Road	Enugu South	Enugu	6.398	7.526	1	
+Major General Orji Street	Enugu North	Enugu	6.442	7.458	1	
+Madeira Street	Municipal Area Council	FCT Abuja	9.084	7.487	1	
+Ramat College Polytechnic Maiduguri	Maiduguri	Borno	11.843	13.131	0	
+Maisikeli Street	Tarauni	Kano	11.940	8.561	1	
+Maiduguri - Damasak Road	Mobbar	Borno	13.093	12.518	1	
+Dutsin Ma - Kankiya Road	Kankia	Katsina	12.543	7.822	1	
+Dutsin Ma - Kankiya Road	Kankia	Katsina	12.549	7.829	1	
+Tsohuwar Makabarta Street	Tarauni	Kano	11.957	8.537	1	
+Mai Hula Street	Tarauni	Kano	11.959	8.540	1	
+Mafoluku Road	Oshodi/Isolo	Lagos	6.557	3.338	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.555	7.487	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.473	7.488	1	
+Dutsin Ma - Kankiya Road	Dutsin Ma	Katsina	12.445	7.481	1	
+Malumfashi - Katsina Road	Dan Musa	Katsina	12.200	7.474	1	
+Malumfashi - Katsina Road	Dan Musa	Katsina	12.183	7.482	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.299	7.463	1	
+Malumfashi - Katsina Road	Dan Musa	Katsina	12.217	7.473	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.386	7.446	1	
+Malumfashi - Katsina Road	Dutsin Ma	Katsina	12.362	7.462	1	
+Mayfair Road	Enugu North	Enugu	6.447	7.457	1	
+Mario Obiazi Drive	Oshimili North	Delta	6.216	6.661	1	
+Saint Mary's Road	Yenegoa	Bayelsa	4.950	6.347	1	
+Maiduguri - Damasak Road	Gubio	Borno	12.493	12.785	1	
+Maiduguri - Damasak Road	Magumeri	Borno	12.116	12.822	1	
+Alhaji Masha Street	Eti Osa	Lagos	6.441	3.414	1	
+Makurdi to Zaki Biam Road	Markurdi	Benue	7.711	8.656	1	
+Makurdi to Zaki Biam Road	Markurdi	Benue	7.713	8.646	1	
+Kano-Maiduguri Highway	Misau	Bauchi	11.313	10.458	1	
+Kano-Maiduguri Highway	Misau	Bauchi	11.292	10.499	1	
+Mayfair Road	Enugu North	Enugu	6.445	7.461	1	
+Makurdi-Gbajimba Road	Guma	Benue	7.833	8.773	1	
+Kano-Maiduguri Highway	Warawa	Kano	11.817	8.801	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.408	10.013	1	
+Kano-Maiduguri Highway	Shira	Bauchi	11.425	9.987	1	
+Malete Road	Moro	Kwara	8.677	4.519	1	
+Margaret Ekpo International Airport	Calabar Municipal	Cross River	4.969	8.347	0	
+Owerri City Mall	Owerri Municipal	Imo	5.476	7.057	0	
+Maternity Health Post	Yunusari	Yobe	13.158	11.672	0	
+Bulabulin Maternal and Child Health Care	Yunusari	Yobe	13.068	12.371	0	
+Ogbete Main Market Road	Enugu North	Enugu	6.437	7.483	1	
+Bula Malla Dispensary	Yunusari	Yobe	13.205	11.408	0	
+Mini-mama road	Obio/Akpor	Rivers	4.865	6.932	1	
+Odoma Clinic and Maternity	Igalamela-Odolu	Kogi	7.131	6.770	0	
+St. Kizito Clinic & Maternity Ward	Eti Osa	Lagos	6.435	3.505	0	
+Lawan Musa Maternity and  Child Health Clinic	Barde	Yobe	12.870	11.048	0	
+Magbaja Street	Uvwie	Delta	5.565	5.776	1	
+Magbaja Street	Uvwie	Delta	5.566	5.777	1	
+Warri Main Market	Warri South	Delta	5.513	5.746	0	
+Calabar Mall	Calabar Municipal	Cross River	4.960	8.327	0	
+Maritime Academy of Nigeria	Oron	Akwa Ibom	4.807	8.254	0	
+Modibbo Adama University of Technology	Girei	Adamawa	9.353	12.504	0	Federal University of Technology|Mautech
+City Mall	Lagos Island	Lagos	6.444	3.403	0	
+Dr. Mark Abani Street	Municipal Area Council	FCT Abuja	9.114	7.363	1	
+Manawaji Dispensary	Yunusari	Yobe	13.063	11.595	0	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.691	11.053	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.673	11.047	1	
+Prince Maxwell Igwe Close Umuezie Nguru	Aboh-Mbaise	Imo	5.493	7.188	1	
+Abia Mall	Umuahia North	Abia	5.541	7.497	0	
+Oluwole Urban Mall	Lagos Island	Lagos	6.457	3.387	0	
+Palms Mall	Ado Odo/Ota	Ogun	6.697	3.257	0	
+Lagos Island Maternity Hospital	Lagos Island	Lagos	6.449	3.398	0	
+Massey Street Children Hospital	Lagos Island	Lagos	6.455	3.392	0	
+Amuwo Odofin Maternal & Childcare Centre	Amuwo Odofin	Lagos	6.462	3.302	0	
+Air Marshal Issac Alpa Road	Municipal Area Council	FCT Abuja	8.975	7.263	1	
+Maroua-Kousséri	Kala-Balge	Borno	11.911	14.644	1	
+Massey Bamgboshe Street	Lagos Island	Lagos	6.451	3.401	1	
+Mahmud Ahmadiyya College	Ìkòròdú	Lagos	6.584	3.590	0	
+Babington Macaulay Junior Seminary	Ìkòròdú	Lagos	6.639	3.600	0	BMJS
+Port Harcourt Mall	Port-Harcourt	Rivers	4.775	7.014	0	
+manuwa bus sop	Enugu South	Enugu	6.425	7.508	0	
+Chocolate Mall	Municipal Area Council	FCT Abuja	9.070	7.479	0	
+Mallo Petroleum	Ìkòròdú	Lagos	6.671	3.671	0	
+Cherubim & Seraphim Primary School, Majidun	Ìkòròdú	Lagos	6.617	3.478	0	
+Mallo Petroleum	Ìkòròdú	Lagos	6.641	3.515	0	
+Malok Beach Road	Ìkòròdú	Lagos	6.603	3.494	0	
+Majidun Junior Grammar School	Ìkòròdú	Lagos	6.614	3.477	0	
+State Primary School, Onipetesi-Mangoro	Ikeja	Lagos	6.607	3.327	0	
+Djibril Martin High School Agege	Agege	Lagos	6.614	3.320	0	
+Mami Market	Ojo	Lagos	6.462	3.228	0	
+Martin Ejembi Crescent	Municipal Area Council	FCT Abuja	8.988	7.492	1	
+John Maruna Street	Municipal Area Council	FCT Abuja	8.976	7.343	1	
+Matrix	Ibeju Lekki	Lagos	6.473	3.782	0	
+A1 Winnes Maternity and Nursing Home	Egor	Edo	6.366	5.626	0	
+Aljumah Maternity and Nursing Home	Egor	Edo	6.371	5.634	0	
+The Lord Maternity and Nursing Home	Egor	Edo	6.372	5.584	0	
+ST James Clinic and Maternity	Egor	Edo	6.366	5.583	0	
+Sani Mashal Primary Health Centre	Kura	Kano	11.770	8.426	0	
+Masu Primary Health Centre	Sumaila	Kano	11.202	8.806	0	Massu Primary Health Centre
+Aronsaye Maternity	Oredo	Edo	6.337	5.631	0	
+Okorare Clinic and Maternity	Oredo	Edo	6.330	5.604	0	
+Ewaen Clinic&Maternity	Oredo	Edo	6.337	5.616	0	
+Obu Amarachukwu Emmanuel Hospital & Maternity	Enugu East	Enugu	6.482	7.509	0	
+Gwale Filin Mushe Maternal and Child Care	Gwale	Kano	11.986	8.504	0	
+Federal College of Fisheries and Marine Technology	Eti Osa	Lagos	6.421	3.412	0	
+Makarya Primary Health Centre	Ajingi	Kano	11.936	9.113	0	
+Malu Road	Akure South	Ondo	7.298	5.146	1	
+Tsumba Maternity	Shira	Bauchi	11.522	9.971	0	
+Yana Maternity	Shira	Bauchi	11.406	10.016	0	
+Zigau Maternity	Shira	Bauchi	11.428	9.963	0	
+Doguwa Maternity	Giade	Bauchi	11.386	10.165	0	
+Giade Maternity and Child Health Center	Giade	Bauchi	11.386	10.184	0	
+Maternity and Child Health Centerealth Center Faguji	Giade	Bauchi	11.514	10.257	0	
+Uzum Maternal And Child Health Clinic	Giade	Bauchi	11.519	10.206	0	
+Zadawa Maternity	Misau	Bauchi	11.446	10.371	0	
+Gainan Hausa Maternity	Misau	Bauchi	11.395	10.589	0	
+Lemari Maternity	Darazo	Bauchi	11.375	10.720	0	
+ASD Mall	Kaduna North	Kaduna	10.514	7.441	0	
+Hardawa Maternity	Misau	Bauchi	11.413	10.462	0	
+Madachi Dispensary	Katagum	Bauchi	11.499	10.427	0	
+Felun Abba Maternity	Toro	Bauchi	10.340	9.633	0	
+Makera Dispensary	Toro	Bauchi	10.375	9.523	0	
+Makera Maternity	Toro	Bauchi	10.376	9.523	0	
+Kukadi Maternity	Misau	Bauchi	11.302	10.463	0	
+Zangifadari Town Maternity	Misau	Bauchi	11.316	10.472	0	Misau Town Maternity
+Nahuce Maternity	Shira	Bauchi	11.330	9.998	0	
+K/Kanawa Maternity	Warji	Bauchi	11.224	9.789	0	
+Masaruwa Dispensary	Warji	Bauchi	11.203	9.712	0	Dallaji Dispensary
+Unguwan Danya Dispensary	Warji	Bauchi	11.222	9.839	0	K/mada Dispensary
+Gidan Mada Dispensary	Warji	Bauchi	11.232	9.624	0	
+Yayari Maternity	Warji	Bauchi	11.195	9.646	0	
+Agwar Maje Maternity	Takai	Kano	11.323	9.136	0	
+Rauta Maternity	Toro	Bauchi	10.520	9.573	0	
+Tulu Maternity	Toro	Bauchi	10.577	9.030	0	
+Wundi Maternity Health Clinic	Toro	Bauchi	10.478	8.898	0	
+Primary Health Center Doya	Bauchi	Bauchi	10.315	9.852	0	Maternity Bayan Fada
+Urban Maternity	Bauchi	Bauchi	10.327	9.847	0	
+Bununu Maternity	Tafawa-Balewa	Bauchi	9.886	9.682	0	
+Sharfuri Maternal Clinic	Kirfi	Bauchi	10.316	10.569	0	
+Bani Maternity	Kirfi	Bauchi	10.374	10.783	0	
+Lomin Fulani Maternity	Kirfi	Bauchi	10.406	10.794	0	
+Garin Sale Maimaciji Health Center	Kirfi	Bauchi	10.265	10.669	0	
+Kaloma Maternity	Kirfi	Bauchi	10.290	10.434	0	
+Alkaleri Town Maternity	Alkaleri	Bauchi	10.268	10.330	0	
+Dembori Maternity	Kirfi	Bauchi	10.280	10.314	0	
+Bamanu Maternity	Bauchi	Bauchi	10.177	10.088	0	
+Kir Maternal And Child Health Care	Bauchi	Bauchi	10.154	9.875	0	
+Kofar Dumi Maternal and Child Health Clinic	Bauchi	Bauchi	10.308	9.857	0	Maternity and Child Health Center Tudun Wadan
+Apple Clinic and Maternity	Bauchi	Bauchi	10.315	9.805	0	
+Maternity Clinic Kusu Yalwan Kagadama	Bauchi	Bauchi	10.266	9.793	0	
+Tashin Dirimi Maternity	Toro	Bauchi	10.224	9.586	0	
+Zaranda Maternity	Toro	Bauchi	10.232	9.513	0	
+idiogun maternity health clinic	Ibadan North	Oyo	7.395	3.918	0	
+agbowo community maternity health center	Ibadan North	Oyo	7.449	3.914	0	
+St.Mary's Health Centre	Ibadan North East	Oyo	7.386	3.918	0	
+Oke'badan Community Health And Maternity Centre	Ibadan North East	Oyo	7.387	3.923	0	
+Ayekale Community Maternity Centre, Agugu	Ibadan North East	Oyo	7.377	3.928	0	
+Tashan Maitolare Dispensary	Toro	Bauchi	10.188	9.332	0	
+K/Larabawa Maternity	Zaki	Bauchi	11.935	10.296	0	
+Maduma Maternity	Zaki	Bauchi	12.037	10.275	0	Bura Kura
+Maraba Gumai Yamma	Zaki	Bauchi	11.955	10.245	0	
+Melandige Maternity And Child Health Care	Itas/Gadau	Bauchi	11.956	10.213	0	
+Udubo Maternity Clinic	Gamawa	Bauchi	11.942	10.632	0	
+Udubo Maternity Hospital	Gamawa	Bauchi	11.943	10.630	0	
+Zindiwa Maternity Clinic	Gamawa	Bauchi	11.885	10.808	0	
+Marana Health Clinic	Gamawa	Bauchi	12.119	10.746	0	
+Amarchiyari Maternity	Gamawa	Bauchi	12.135	10.450	0	
+Makawa Primary Health Care	Zaki	Bauchi	12.206	10.197	0	
+Sakwa Maternity	Zaki	Bauchi	12.121	10.295	0	
+Model Primary Health Center Mainawa	Gamawa	Bauchi	12.221	10.411	0	
+Saradigum Maternity	Zaki	Bauchi	12.367	10.413	0	
+Gurka Maternity	Auyo	Jigawa	12.357	10.237	0	
+Katagum Town Maternity	Zaki	Bauchi	12.286	10.356	0	
+Mammography Unit, Enugu State University Teaching Hospital	Enugu North	Enugu	6.463	7.494	0	
+Bursali Maternity Maternity	Jakusko	Yobe	12.455	10.720	0	
+Lodiya Maternity	Zaki	Bauchi	12.387	10.578	0	
+Ariri Maternity	Zaki	Bauchi	12.416	10.410	0	
+Magarya Primary Health Center	Itas/Gadau	Bauchi	11.860	9.805	0	
+Itas Town Maternity	Itas/Gadau	Bauchi	11.856	9.968	0	
+Mashema Primary Health Center	Itas/Gadau	Bauchi	11.786	9.944	0	
+Aido Dispensary	Gamawa	Bauchi	11.842	10.590	0	Raga Maternity
+Bulkachuwa Matenity/Primary Health Center	Katagum	Bauchi	11.647	10.512	0	
+Tatari Ali Maternity	Katagum	Bauchi	11.692	10.201	0	
+Evan Maternity	Katagum	Bauchi	11.675	10.183	0	Urban Maternity
+Makaramuta Maternity	Katagum	Bauchi	11.689	10.192	0	
+Matsango Maternity	Katagum	Bauchi	11.659	10.195	0	
+Town Maternity	Katagum	Bauchi	11.678	10.194	0	
+Management Sciences	Awka North	Anambra	6.250	7.113	0	
+Futuk Primary Health Center	Shongom	Gombe	9.700	10.954	0	Gobirawa Maternal And Child Health
+Lusa Maternal and Child Health Clinic	Bogoro	Bauchi	9.617	9.592	0	
+General Hospital Marama	Hawul	Borno	10.453	12.163	0	
+Marte General Hospital	Marte	Borno	12.363	13.826	0	
+General Hospital Mafa	Mafa	Borno	11.917	13.600	0	
+Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.825	13.145	0	
+Mala K B F Health Centre	Maiduguri	Borno	11.858	13.124	0	
+Hirku Clinic And Maternity Home	Biu	Borno	10.623	12.187	0	
+MARANATHA MEDICAL CENTER	Shomolu	Lagos	6.529	3.380	0	
+Favour Nursing and Maternity Home	Yenegoa	Bayelsa	4.925	6.307	0	
+Yeneagoa Hospital and Maternity	Yenegoa	Bayelsa	4.929	6.305	0	
+GloryLand Hospital and Maternity	Yenegoa	Bayelsa	4.953	6.356	0	
+Maternal and New Child Health Clinic, Kofar Guga	Muhammadu Dikko Stadium	Katsina	12.990	7.585	0	
+Maternal and Child Care GH	Warri South	Delta	5.517	5.735	0	
+Maviscope Hospital & Fertility Centre	Ikpoba-Okha	Edo	6.272	5.634	0	
+PHC Magam	Kankia	Katsina	12.326	7.703	0	
+Sabon Kariya Maternity	Ganjuwa	Bauchi	10.875	9.752	0	
+Gadar Maiwa Primary Health Center	Ningi	Bauchi	10.935	9.599	0	
+Kafin Madaki Maternity	Ganjuwa	Bauchi	10.687	9.756	0	
+Zalanga Maternity	Ganjuwa	Bauchi	10.616	10.176	0	
+Magama Maternity	Toro	Bauchi	10.069	9.127	0	
+Tilde Dispensary	Toro	Bauchi	10.040	8.987	0	Tilde Maternity and Tilde Health Clinic
+Rimin Zayam Maternity	Toro	Bauchi	10.141	9.291	0	
+Town Maternity	Dass	Bauchi	10.002	9.511	0	
+Fanti Maternity and Child Health Center	Alkaleri	Bauchi	10.070	10.278	0	
+Bangin Maternity	Dass	Bauchi	9.893	9.612	0	
+Makava Street	Ikpoba-Okha	Edo	6.239	5.653	1	
+Yusufari Maternal And Child Health Care	Yusufari	Yobe	13.069	11.175	0	
+Maafa Dispensary	Mafa	Borno	12.108	13.699	0	
+Gashala Mamudu Dispensary	Hong	Adamawa	10.404	13.083	0	
+Maki Health Clinic	Hong	Adamawa	10.379	13.040	0	
+Garari Maternity Clinic	Hong	Adamawa	10.106	13.076	0	
+Bula Mallumbe Health Clinic	Ngala	Borno	12.359	14.283	0	
+Fas Child and Maternity Clinic	Ngala	Borno	12.211	14.298	0	
+Akure Shopping Mall	Akure South	Ondo	7.236	5.214	0	
+Manawaji Dispensary	Ngala	Borno	12.421	14.128	0	
+Demsa maternity	Demsa	Adamawa	9.454	12.152	0	
+Naf Medical Center 79 Cg Maiduguri	Konduga	Borno	11.841	13.072	0	
+kilbawo maternity clinic	Mayo-Belwa	Adamawa	8.829	12.088	0	
+Makera Health Post	Hong	Adamawa	10.283	13.076	0	
+Maidurmari Health Clinic	Konduga	Borno	11.535	13.482	0	
+Mairami Health Clinic	Konduga	Borno	11.601	13.489	0	
+Kakam Yali Maternal Child Hospital	Konduga	Borno	11.653	13.415	0	
+Sadu Clinic And Maternity	Kukawa	Borno	13.096	13.823	0	
+Tudun wada Maternityand child health care	Potiskum	Yobe	11.715	11.087	0	
+Kudiri maternity and child health clinic	Girei	Adamawa	9.477	12.289	0	kudiri primary
+Mamgla nana heath post	Jada	Adamawa	8.671	11.994	0	
+mangla nana	Jada	Adamawa	8.735	12.066	0	
+wuro iya maternity center	Maiha	Adamawa	9.957	13.227	0	
+Yindiski Maternity and Child Health Center	Potiskum	Yobe	11.725	11.087	0	
+Mamudo Maternal and Child Health Care	Potiskum	Yobe	11.686	11.185	0	
+Badejo Maternal and Child Health Clinic	Potiskum	Yobe	11.658	11.102	0	
+Brabri Maidico Dispensary Healthcare	Potiskum	Yobe	11.692	11.105	0	
+Yerimaram Maternity Child Health Center	Potiskum	Yobe	11.725	11.101	0	
+wuro mallum health post	Maiha	Adamawa	9.904	13.223	0	
+kongoli primary health facilities maiha	Maiha	Adamawa	9.792	13.106	0	
+maliki 11 health post	Demsa	Adamawa	9.359	12.079	0	
+MacJob Junior Sec. School	Abeokuta South	Ogun	7.122	3.336	0	
+Moshood Abiola Polytechnic MAPOLY Abeokuta	Obafemi Owode	Ogun	7.072	3.327	0	
+Chukiriwa Maternity and Child Health Center	Nangere	Yobe	11.950	10.880	0	
+Jumbam Maternal and Child Health Care	Tarmua	Yobe	12.476	11.543	0	
+Mattari Dispensary	Tarmua	Yobe	12.492	11.612	0	
+Mafa Para-Vetenary Clinic	Tarmua	Yobe	12.362	12.228	0	
+Mafa Modern Primary Healthcare Centre	Tarmua	Yobe	12.361	12.228	0	
+Manda Daa Health Facility	Tarmua	Yobe	12.429	11.441	0	
+Tudun Wada Maternity and Child Health Center	Ngelzarma	Yobe	11.675	11.945	0	
+Manda Dawa Dispensary	Tarmua	Yobe	12.432	11.441	0	
+Burkati Health Clinic Maternity and Child Health Center	Yunusari	Yobe	13.091	11.778	0	
+Mandawari Health Post	Yunusari	Yobe	13.019	11.930	0	
+Toshia Maternity and Child Health Center	Yunusari	Yobe	13.229	11.836	0	
+Mayo Lope Model Health Center	Numan	Adamawa	9.237	11.683	0	
+Mbula Maternity Health Clinic	Demsa	Adamawa	9.511	12.193	0	
+Maibugori Dispensary	Yusufari	Yobe	13.031	11.365	0	
+gyawana maternity clinic	Larmurde	Adamawa	9.571	11.884	0	
+nursing home and maternity	Larmurde	Adamawa	9.569	11.889	0	
+Gyakan maternal and child clinic	Larmurde	Adamawa	9.494	11.552	0	
+Badisya Memorial Nursing Maternity Home Chigari	Fufore	Adamawa	9.071	12.663	0	
+Magdari Health Post	Song	Adamawa	9.667	12.947	0	
+Muninga Maternity Health Clinic	Fufore	Adamawa	9.193	12.879	0	
+Karlahi Maternity And Child Health	Fufore	Adamawa	8.842	12.572	0	
+Uncompleted Maternity Health Clinic Bokki Chamba	Fufore	Adamawa	8.833	12.497	0	
+Mashio Maternal and Child Health Care	Fune	Yobe	11.827	11.608	0	
+mafer clinic	Madagali	Adamawa	10.791	13.574	0	
+materniy wagga	Madagali	Adamawa	10.929	13.649	0	
+maduvu heath center	Madagali	Adamawa	10.800	13.592	0	
+humbutudi maternity clinic	Mubi North	Adamawa	10.176	13.173	0	
+boloko madel heath center	Fufore	Adamawa	9.552	13.106	0	
+maraba heath post	Maiha	Adamawa	9.627	13.100	0	
+Mayo Ine Primary Health Center	Fufore	Adamawa	9.115	12.231	0	
+Mayoine Maternity And Child Health	Fufore	Adamawa	9.115	12.230	0	
+Mayosirkan Health Clinic	Fufore	Adamawa	9.027	12.171	0	
+Mashio Dispensary	Fune	Yobe	11.879	11.461	0	
+Makwai Health Post	Fune	Yobe	11.865	11.264	0	
+Machama Dispensary	Nangere	Yobe	11.793	11.232	0	
+Kayere Maternal and Child Health Care	Fune	Yobe	12.018	11.127	0	
+Pariya Maternal And Child Health Clinic	Fufore	Adamawa	9.379	12.700	0	
+Lafiya Dispensary Malabu	Fufore	Adamawa	9.556	12.782	0	
+Wuro Bokki Maternal And Child Health Clinic	Fufore	Adamawa	9.386	12.795	0	
+Dogon Kuka B Maternal And Child Health Care	Fune	Yobe	11.910	11.059	0	
+Gubana Maternal And Child Health Care	Fune	Yobe	11.563	11.325	0	
+Dogon Kuka A Maternal And Child Health Care	Fune	Yobe	11.668	11.414	0	
+Maltumba Bilal Health Post	Fune	Yobe	11.706	11.326	0	
+Aigada Maikasuwa Health Clinic	Fune	Yobe	11.761	11.293	0	
+Damagum Maternity and Child Health Center	Fune	Yobe	11.676	11.333	0	
+Bindigi Maternal And Child Health Centre	Fune	Yobe	12.184	11.252	0	
+Alagarno Maternal and Child Health Care	Fune	Yobe	11.923	11.639	0	
+Mazawun Basic Health Center	Fika	Yobe	11.217	11.401	0	
+Manawachi Health Clinic	Fika	Yobe	11.443	11.519	0	
+Maluri Dispensary	Fika	Yobe	11.351	11.463	0	
+Yadim Maternal And Child Health Center	Fufore	Adamawa	8.973	12.402	0	
+Kurum Maternity	Ganye	Adamawa	8.324	11.978	0	
+Dagare Maternity and Child Health Center	Nangere	Yobe	11.601	11.019	0	
+Dawasa Maternity and Child Health Center	Nangere	Yobe	11.978	10.958	0	
+Dazigau Maternal And Child Health Care	Nangere	Yobe	11.724	10.995	0	
+Kukuri Maternal and Child Health Care	Nangere	Yobe	11.887	10.853	0	
+she Maternal and Child Health Care	Fune	Yobe	11.592	11.536	0	
+Maternity and Child Health	Nangere	Yobe	11.846	11.180	0	
+Watinane Maternal and Child Health Care	Nangere	Yobe	11.757	11.012	0	
+Maternal Child Health Mazagane	Potiskum	Yobe	11.640	11.026	0	
+Potiskum Maternity and Child Health Center	Potiskum	Yobe	11.710	11.068	0	
+Dogon Zare Maternity and Child Health Center	Potiskum	Yobe	11.700	11.086	0	
+Jama'a Clinic and Maternity	Potiskum	Yobe	11.705	11.099	0	
+General Hospital Mada	Gusau	Zamfara	12.141	6.926	0	
+Mandong lane	Jos North	Plateau	9.946	8.846	1	
+General Hospital Magami	Gusau	Zamfara	11.719	6.595	0	
+Matakuskum Health Facility	Geidam	Yobe	12.858	11.808	0	
+Main Street	Zurmi	Zamfara	12.589	6.778	1	
+AM Mamu Close	Municipal Area Council	FCT Abuja	9.042	7.548	1	
+Markus Kangye Boulevard	Municipal Area Council	FCT Abuja	9.000	7.463	1	
+Novare Central Mall	Municipal Area Council	FCT Abuja	9.065	7.458	0	
+Febson Mall	Municipal Area Council	FCT Abuja	9.066	7.469	0	
+Marshall Chinedu Avenue	Owerri North	Imo	5.487	7.079	1	
+KASUWAR MATA	Gombe	Gombe	10.301	11.170	0	
+PROF. A. MAHDI ACADEMY (PRIMARY)	Gombe	Gombe	10.312	11.177	0	
+PROF. A. MAHDI ACADEMY(SECONDARY)	Gombe	Gombe	10.312	11.177	0	
+Manara Primary School	Yamaltu/Deba	Gombe	10.173	11.472	0	
+Abubakar Maishanu Street	Gwale	Kano	11.981	8.472	1	
+Dr. Masud Kazaure Street	Gwale	Kano	11.979	8.472	1	
+Sharif Maulana Street	Gwale	Kano	11.975	8.473	1	
+Link 13 Alh. Bello Malami Street	Gwale	Kano	11.973	8.473	1	
+Madam Juliana Okoye Close	Eti Osa	Lagos	6.451	3.539	1	
+Mac Bento Close	Municipal Area Council	FCT Abuja	9.043	7.551	1	
+Maiduguri Road	Nassarawa	Kano	11.963	8.592	1	
+Kano-Maiduguri Highway	Potiskum	Yobe	11.696	11.139	1	
+Mandara Street	Municipal Area Council	FCT Abuja	8.974	7.340	1	
+MALE WARD	Isiala Mbano	Imo	5.679	7.240	0	
+MATERNITY WARD	Isiala Mbano	Imo	5.680	7.240	0	
+Maybe small road	Sabon Birni	Sokoto	13.571	6.114	1	
+Maybe Dirt Road	Sabon Birni	Sokoto	13.531	6.119	1	
+Maybe Small dirt road	Sabon Birni	Sokoto	13.540	6.120	1	
+Maybe tiny dirt road	Sabon Birni	Sokoto	13.557	6.105	1	
+Makurdi to Zaki Biam Road	Logo	Benue	7.494	9.384	1	
+Makurdi to Zaki Biam Road	Buruku	Benue	7.463	9.210	1	
+As-Salam Clinic & Maternity Home	Bauchi	Bauchi	10.357	9.861	0	
+Mango street	Municipal Area Council	FCT Abuja	8.995	7.488	1	
+Pa Matthew Ayinde close	Ilorin East	Kwara	8.480	4.622	1	
+Mukadam Mahmud Street	Ilorin East	Kwara	8.477	4.614	1	
+FCT department of mass education	Municipal Area Council	FCT Abuja	8.822	7.569	0	
+Malam Kuri Riyal Road	Gombe	Gombe	10.263	11.168	1	
+Akin Mabogunje Drive	Municipal Area Council	FCT Abuja	8.970	7.351	1	
+Iruoma Obosi Hospital Maternity	Idemili North	Anambra	6.121	6.832	0	
+Mandela Hospital	Jos South	Plateau	9.726	8.798	0	
+Mariere Bus Stop	Enugu South	Enugu	6.426	7.507	0	
+Maryland Close	Oluyole	Oyo	7.343	3.820	1	
+Mafoluku Bus Terminal	Oshodi/Isolo	Lagos	6.556	3.325	0	
+Main Avenue	Bauchi	Bauchi	10.273	9.795	1	
+Makanjuola Avenue	Shagamu	Ogun	6.760	3.474	1	
+Marysol Specialist Hospital	Jos North	Plateau	9.868	8.929	0	
+madam Banga street	Ethiope East	Delta	5.646	5.964	1	
+Maranatha Academy & Mt Tabor International Schools	Jos North	Plateau	9.863	8.860	0	
+Famuyiwa Mayowa Crescent	Odeda	Ogun	7.220	3.449	1	
+Masanawa Road	Kaduna North	Kaduna	10.580	7.453	1	
+Main Entrance to Law Auditorium	Ovia North-East	Edo	6.744	5.405	1	
+Main Campus Entrance Route	Ovia North-East	Edo	6.742	5.407	1	
+Maiduguri Bypass	Bauchi	Bauchi	10.335	9.834	1	
+Faplins Estate Mall	Municipal Area Council	FCT Abuja	8.970	7.437	0	
+Ave Maria International Academy	Obio/Akpor	Rivers	4.864	7.051	0	
+agbor main	Ika South	Delta	6.258	6.220	1	
+NAFOWA Mini Market	Municipal Area Council	FCT Abuja	8.968	7.257	0	Mammy Market
+agbor main	Ika South	Delta	6.256	6.188	1	
+agbor main	Ika South	Delta	6.253	6.199	1	
+Faculty of Social and Management Science - NUC	Kaduna North	Kaduna	10.610	7.445	0	
+Madaki Close	Kaduna North	Kaduna	10.573	7.463	1	
+Mascoly Street	Shagamu	Ogun	6.867	3.659	1	
+Moye Maternity Home	Ikeja	Lagos	6.652	3.357	0	
+Gumel to Maigatari Road	Gumel	Jigawa	12.627	9.384	1	
+MA Idris Close	Municipal Area Council	FCT Abuja	9.040	7.546	1	
+Dabo Mall	Municipal Area Council	FCT Abuja	9.018	7.493	0	
+Marina Train Station	Lagos Island	Lagos	6.446	3.396	0	
+Cok Best Mall	Municipal Area Council	FCT Abuja	9.146	7.306	0	
+Majolate St	Mushin	Lagos	6.538	3.364	1	
+Mabogunje Road	Eti Osa	Lagos	6.427	3.457	1	
+Main Street	Municipal Area Council	FCT Abuja	9.114	7.370	1	
+Major/King Agara Street	Obio/Akpor	Rivers	4.813	6.962	1	
+Sam Madiebo Close	Oshodi/Isolo	Lagos	6.504	3.321	1	
+Asibitin Malan Barau	Muhammadu Dikko Stadium	Katsina	12.983	7.595	0	
+Marketplace	Jega	Kebbi	12.320	4.254	0	
+Falomo Shopping Mall	Eti Osa	Lagos	6.444	3.428	0	
+Sunflower Mall	Municipal Area Council	FCT Abuja	8.979	7.469	0	
+Kano-Maiduguri Highway	Ngelzarma	Yobe	11.727	11.872	1	
+Uniport Mall	Obio/Akpor	Rivers	4.900	6.921	0	
+Maryland-Opebi-Ojota Link Bridge	Ikeja	Lagos	6.581	3.369	1	
+Institute of Management and Technology (IMT)	Enugu North	Enugu	6.432	7.510	0	
+Kofar Mata Road	Fagge	Kano	12.005	8.533	1	
+Centenary Main Road	Enugu South	Enugu	6.384	7.546	1	
+Kano-Maiduguri Highway	Warawa	Kano	11.814	8.814	1	
+Makurdi to Zaki Biam Road	Logo	Benue	7.498	9.365	1	
+Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.483	9.415	1	
+Makurdi to Zaki Biam Road	Katsina-Ala	Benue	7.487	9.445	1	
+Main Campus Exit Route	Ovia North-East	Edo	6.742	5.406	1	
+Century Mall	Municipal Area Council	FCT Abuja	9.003	7.470	0	
+Chijioke Madukaife Close	Awgu	Enugu	6.044	7.486	1	
+Maryland-Opebi-Ojota Link Bridge	Ikeja	Lagos	6.583	3.375	1	
+Greenwich Mall	Owerri Municipal	Imo	5.489	7.040	0	
+ORCA Mall	Eti Osa	Lagos	6.422	3.419	0	
+Mea Mater Elizabeth High School, Orjiagu	Nkanu West	Enugu	6.288	7.557	0	
+Abubakar Gari Malam Road	Birnin Kebbi	Kebbi	12.444	4.166	1	
+Alhaji Sule Maito Street	Ìkòròdú	Lagos	6.621	3.500	1	
+Maimisari School	Jere	Borno	11.809	13.182	0	
+Borno State Hospital Management Board - Eye & Dental Hospital	Maiduguri	Borno	11.826	13.142	0	
+Maiduguri International School	Maiduguri	Borno	11.805	13.140	0	
+Mechanical Engineering Department  / Met & Mat Engineering Department	Kaduna North	Kaduna	10.613	7.442	0	
+Malik Ohanugo Close	Eti Osa	Lagos	6.476	3.578	1	
+Mafowoku Street	Shomolu	Lagos	6.530	3.386	1	
+Major L. Fakrogba Street	Eti Osa	Lagos	6.458	3.614	1	
+Makurdi-Jos	Lafia	Nasarawa	8.494	8.517	1	
+Prof. Martin E. Allison Road	Yenegoa	Bayelsa	4.875	6.216	1	
+St. Vincent Ferrer College, Malumfashi	Malumfashi	Katsina	11.760	7.612	0	
+Katsina State Institute of Technology and Management	Batagarawa	Katsina	12.954	7.628	0	
+Mallam Fatori Primary Health Center	Abadam	Borno	13.665	13.342	0	
+Mangal Airstrip	Ijumu	Kogi	8.027	5.939	0	
+Rawan Dutsi Maternity and  Child Health Clinic	Sandamu	Katsina	12.844	8.352	0	
+Rijiyar Tsamiya Maternity and  Child Health Clinic	Sandamu	Katsina	12.880	8.273	0	
+Makera Health Clinic	Faskari	Katsina	11.683	7.023	0	
+Makinde Street	Oshodi/Isolo	Lagos	6.559	3.336	1	
+God Is Able Maternity	Awka South	Anambra	6.168	7.067	0	
+Mayori	Yusufari	Yobe	13.260	10.478	2	
+Turmi Malori	Fika	Yobe	11.389	11.542	2	
+Maimalari	Yusufari	Yobe	13.136	11.065	2	
+Manda Da'A	Tarmua	Yobe	12.395	11.424	2	
+Zangaya Mazawaun	Fika	Yobe	11.262	11.496	2	
+Mamudo	Potiskum	Yobe	11.708	11.205	2	
+Ma'Anna	Geidam	Yobe	12.728	11.872	2	
+Masaba	Borsari	Yobe	12.900	11.189	2	
+Mashio	Fune	Yobe	11.819	11.538	2	
+Marmari Gudugurka	Fune	Yobe	12.246	11.187	2	
+Maskandare	Machina	Yobe	12.995	9.966	2	
+Machina	Machina	Yobe	13.145	10.092	2	
+Jaji Maji	Karasuwa	Yobe	12.912	10.806	2	
+Maisandari Wi	Ngelzarma	Yobe	11.751	12.005	2	
+Mairari	Yunusari	Yobe	13.074	11.983	2	
+Maja Kura	Nguru	Yobe	12.890	10.352	2	
+Machinamari	Biriniwa	Jigawa	12.933	10.175	2	
+Rafin Marke	Garki	Jigawa	12.459	9.023	2	
+Machina	Machina	Yobe	13.034	10.047	2	
+Maigatari Arewa	Maigatari	Jigawa	12.797	9.401	2	
+Matsaro	Hadejia	Jigawa	12.454	10.029	2	
+Marma	Kiri Kasama	Jigawa	12.686	10.326	2	
+Madaka	Gagarawa	Jigawa	12.549	9.561	2	
+Majema	Hadejia	Jigawa	12.451	10.040	2	
+Mai Aduwa	Gagarawa	Jigawa	12.464	9.594	2	
+Maradawa	Kazaure	Jigawa	12.639	8.374	2	
+Madobi	Dutse	Jigawa	11.648	9.416	2	
+Madana	Maigatari	Jigawa	12.616	9.684	2	
+Maje	Taura	Jigawa	12.230	9.382	2	
+Matara Babba	Guri	Jigawa	12.754	10.394	2	
+Maikilili	Gagarawa	Jigawa	12.527	9.622	2	
+Majia	Taura	Jigawa	12.309	9.460	2	
+Makaddari	Malam Maduri	Jigawa	12.481	9.825	2	
+Majawa	Kafin Hausa	Jigawa	12.178	10.096	2	
+Marke	Kaugama	Jigawa	12.326	9.718	2	
+Malam Maduri	Malam Maduri	Jigawa	12.524	9.937	2	
+Maje	Kiyawa	Jigawa	11.932	9.561	2	
+Margadu	Guri	Jigawa	12.828	10.357	2	
+Madachi	Kiri Kasama	Jigawa	12.573	10.199	2	
+Malam Madori	Malam Maduri	Jigawa	12.530	9.896	2	
+Matoya	Maigatari	Jigawa	12.744	9.460	2	
+Mairakumi	Malam Maduri	Jigawa	12.581	9.983	2	
+Matamu	Biriniwa	Jigawa	12.875	10.265	2	
+Maradun South	Maradun	Zamfara	12.548	6.248	2	
+Matseri	Anka	Zamfara	12.067	5.808	2	
+Maradun North	Maradun	Zamfara	12.573	6.346	2	
+Magaji	Gummi	Zamfara	12.054	5.138	2	
+Birnin Magaji	Birnin Magaji-Kiyaw	Zamfara	12.626	6.871	2	
+Mayana	Gusau	Zamfara	12.125	6.620	2	
+Magaji	Anka	Zamfara	12.075	5.952	2	
+Magami	Gusau	Zamfara	11.732	6.625	2	
+Makera-Take Tsaba	Talata Mafara	Zamfara	12.485	6.123	2	
+Mayanchi	Maru	Zamfara	12.335	6.264	2	
+Madomawa West	Birnin Magaji-Kiyaw	Zamfara	12.529	6.698	2	
+Maru	Maru	Zamfara	12.319	6.362	2	
+Kiyana N Malami	Birnin Magaji-Kiyaw	Zamfara	12.423	6.833	2	
+Madawaki	Gusau	Zamfara	12.189	6.633	2	
+Madomawa East	Birnin Magaji-Kiyaw	Zamfara	12.543	6.752	2	
+Sarkin Mafara-Sarkin Baura	Kaura Namoda	Zamfara	12.609	6.610	2	
+Birnin Magaji	Gummi	Zamfara	12.250	5.338	2	
+Talata Mafara	Talata Mafara	Zamfara	12.399	6.083	2	
+Mada	Gusau	Zamfara	12.122	6.957	2	
+Masama	Bukkuyum	Zamfara	12.097	5.602	2	
+Mayasa Kuturu	Zurmi	Zamfara	12.918	6.768	2	
+Mashema	Zurmi	Zamfara	13.070	6.731	2	
+Faru Magami	Maradun	Zamfara	12.832	6.203	2	
+Maradun	Maradun	Zamfara	12.716	6.327	2	
+Marafa	Wurno	Sokoto	13.288	5.428	2	
+Margai West	Kebbe	Sokoto	12.188	4.733	2	
+Magarya	Wurno	Sokoto	13.305	5.419	2	
+Makuwana	Sabon Birni	Sokoto	13.597	6.231	2	
+Margai East	Kebbe	Sokoto	12.188	4.816	2	
+Maikulki	Binji	Sokoto	13.167	4.894	2	
+Chacho-Marnona	Wurno	Sokoto	13.226	5.544	2	
+Hamma Ali Marabawa	Kware	Sokoto	13.195	5.313	2	
+Marake	Gudu	Sokoto	13.674	4.596	2	
+Magonho	Tangaza	Sokoto	13.500	4.921	2	
+Magajin Gari A	Sokoto North	Sokoto	13.072	5.242	2	
+Tunga Mallamawa	Kware	Sokoto	13.070	5.417	2	
+Mandera	Shagari	Sokoto	12.482	4.919	2	
+Dandin Mahe	Shagari	Sokoto	12.698	5.121	2	
+Mammande	Gwadabawa	Sokoto	13.483	5.519	2	
+Maje	Silame	Sokoto	13.013	4.732	2	
+Magajin Gari B	Sokoto North	Sokoto	13.077	5.226	2	
+Marafa	Silame	Sokoto	13.016	4.783	2	
+Bashire-Maikada	Tambuwal	Sokoto	12.309	4.681	2	
+Mamman Suka	Gwadabawa	Sokoto	13.576	5.326	2	
+Maikujera	Rabah	Sokoto	13.063	5.506	2	
+Takatuku Madorawa	Bodinga	Sokoto	12.908	5.176	2	
+Magajin Rafi B	Sokoto North	Sokoto	13.059	5.244	2	
+Jega Magaji 'A'	Jega	Kebbi	12.215	4.390	2	
+Koko Magaji	Koko-Besse	Kebbi	11.408	4.527	2	
+Jandutsi Birnin Malam	Jega	Kebbi	12.057	4.546	2	
+Marafa	Fakai	Kebbi	11.519	4.738	2	
+Hirishi-Magarza	Kalgo	Kebbi	12.307	4.207	2	
+Maidahini	Bunza	Kebbi	12.095	4.053	2	
+Herini Madachi	Koko-Besse	Kebbi	11.363	4.340	2	
+Bunza Marafa	Bunza	Kebbi	12.096	3.972	2	
+Maruda	Gwandu	Kebbi	12.532	4.749	2	
+Sambawa Mayalo	Maiyama	Kebbi	12.275	4.253	2	
+Maiyama	Maiyama	Kebbi	12.100	4.362	2	
+Malisa	Gwandu	Kebbi	12.410	4.719	2	
+Maihausawa	Dandi	Kebbi	11.835	3.651	2	
+Makera	Birnin Kebbi	Kebbi	12.526	4.093	2	
+Raha-Makeri	Bunza	Kebbi	12.101	4.088	2	
+Dan Umaru Mairairai	Wasagu-Danko	Kebbi	11.321	6.102	2	
+Mahuta	Fakai	Kebbi	11.589	4.925	2	
+Gwandu Marafa	Gwandu	Kebbi	12.533	4.649	2	
+Dutsin Mari Dul Meru	Koko-Besse	Kebbi	11.199	4.385	2	
+Masama	Gwandu	Kebbi	12.526	4.688	2	
+Jega Magaji 'B'	Jega	Kebbi	12.239	4.393	2	
+Matsinkai Geza	Bagudo	Kebbi	11.450	4.283	2	
+Marafa	Birnin Kebbi	Kebbi	12.482	4.209	2	
+Maiyama	Maiyama	Kebbi	12.007	4.296	2	
+Maikende	Fakai	Kebbi	11.685	4.834	2	
+Ribah Machika	Wasagu-Danko	Kebbi	11.411	5.455	2	
+Danko Maga	Wasagu-Danko	Kebbi	11.691	5.075	2	
+Maurida	Birnin Kebbi	Kebbi	12.570	4.161	2	
+Maigwaza	Dandi	Kebbi	11.771	3.951	2	
+Manga Ushe	Zuru	Kebbi	11.387	5.223	2	
+Maza Maza	Sakaba	Kebbi	11.323	5.451	2	
+Manchok	Kaura	Kaduna	9.691	8.501	2	
+Mah	Kubau	Kaduna	11.024	8.268	2	
+Maiburiji	Kaduna North	Kaduna	10.523	7.428	2	
+Madakiya	Zangon Kataf	Kaduna	9.685	8.296	2	
+Makami	Kauru	Kaduna	10.628	8.031	2	
+Makarfi	Makarfi	Kaduna	11.355	7.878	2	
+Maigizo	Jema'A	Kaduna	9.587	8.316	2	
+Kasuwan Magani	Kajuru	Kaduna	10.381	7.719	2	
+Garu Mariri	Lere	Kaduna	10.122	8.581	2	
+Maro	Kajuru	Kaduna	10.080	7.715	2	
+Maigana	Soba	Kaduna	10.915	7.832	2	
+Malagum	Kaura	Kaduna	9.677	8.381	2	
+Magajin Gari 2	Birnin Gwari	Kaduna	10.801	6.497	2	
+Makarfi	Makarfi	Kaduna	11.329	7.945	2	
+Maraku	Doguwa	Kano	10.615	8.701	2	
+Makoda	Makoda	Kano	12.419	8.413	2	
+Marke	Dawakin Tofa	Kano	12.136	8.285	2	
+Maimakawa	Gaya	Kano	11.780	9.115	2	
+Matan Fada	Kunchi	Kano	12.550	8.278	2	
+Maraku	Kiru	Kano	11.661	8.113	2	
+Makwaro	Garum Mallam	Kano	11.735	8.395	2	
+Dan Maliki	Kumbotso	Kano	11.935	8.514	2	
+Madachi	Rano	Kano	11.603	8.618	2	
+Maitsidau	Makoda	Kano	12.350	8.492	2	
+Mandawari	Gwale	Kano	11.995	8.511	2	
+Masu	Sumaila	Kano	11.119	8.787	2	
+Magajin Hajji	Karaye	Kano	11.756	8.001	2	
+Magajin Gari	Karaye	Kano	11.781	8.031	2	
+Madari	Warawa	Kano	11.923	8.742	2	
+Kafin Malamai	Garko	Kano	11.690	8.854	2	
+Madadi	Gwarzo	Kano	11.903	8.082	2	
+Goron Maje	Dambatta	Kano	12.512	8.673	2	
+Mariri	Kumbotso	Kano	11.941	8.622	2	
+Masanawa	Kabo	Kano	11.830	8.256	2	
+Garun Malam	Garum Mallam	Kano	11.680	8.351	2	
+Garum Mallam	Garum Mallam	Kano	11.659	8.401	2	
+Makoda	Makoda	Kano	12.427	8.431	2	
+Madobi	Madobi	Kano	11.769	8.286	2	
+Madobi	Madobi	Kano	11.818	8.343	2	
+Birnin Magaji-Kiyaw	Birnin Magaji-Kiyaw	Zamfara	12.472	6.869	2	
+Magajin Gari 3	Birnin Gwari	Kaduna	11.093	6.824	2	
+Makera	Funtua	Katsina	11.531	7.273	2	
+Magami	Mani	Katsina	12.872	7.967	2	
+Mahuta B	Dandume	Katsina	11.472	7.267	2	
+Mairua	Faskari	Katsina	11.619	7.248	2	
+Mahuta	Kafur	Katsina	11.681	7.845	2	
+Madogara	Batsari	Katsina	12.731	7.104	2	
+Matsai	Kaita	Katsina	13.190	7.677	2	
+Malumfashi B	Malumfashi	Katsina	11.800	7.604	2	
+Maibara	Baure	Katsina	12.833	8.669	2	
+Makaurachi	Malumfashi	Katsina	11.866	7.809	2	
+Mahuta A	Dandume	Katsina	11.409	7.281	2	
+Mazoji B	Matazu	Katsina	12.280	7.564	2	
+K Malamai	Zango	Katsina	12.890	8.586	2	
+Maikoni B	Mai'Adua	Katsina	13.106	8.254	2	
+Masari	Kafur	Katsina	11.638	7.668	2	
+Manawa	Batsari	Katsina	12.801	7.218	2	
+Magaji Wando	Dandume	Katsina	11.338	7.191	2	
+Malumfashi A	Malumfashi	Katsina	11.773	7.621	2	
+Mawashi	Kusada	Katsina	12.528	8.035	2	
+Madobi B	Daura	Katsina	12.955	8.298	2	
+Mashi	Mashi	Katsina	12.959	7.964	2	
+Maikwama	Dandume	Katsina	11.469	7.186	2	
+Mazoji A	Matazu	Katsina	12.218	7.580	2	
+Makera	Dutsin Ma	Katsina	12.314	7.439	2	
+Mainika	Gwarzo	Kano	11.918	7.880	2	
+Manomawa	Ingawa	Katsina	12.530	8.088	2	
+Maje Karare	Rimi	Katsina	12.781	7.630	2	
+Mazoji A	Daura	Katsina	12.992	8.270	2	
+Madobi A	Daura	Katsina	12.922	8.260	2	
+Matazu	Matazu	Katsina	12.238	7.659	2	
+Majen Wayya	Charanchi	Katsina	12.488	7.713	2	
+Maikoni A	Mai'Adua	Katsina	13.047	8.253	2	
+Maska	Funtua	Katsina	11.361	7.318	2	
+Mazoji B	Daura	Katsina	12.996	8.216	2	
+Mai'Adua C	Mai'Adua	Katsina	13.200	8.209	2	
+Majigiri	Mashi	Katsina	13.295	7.876	2	
+Yau-Yau Malamawa	Batsari	Katsina	12.973	7.337	2	
+Yar Malamai	Faskari	Katsina	11.857	7.221	2	
+Mai'Adua A	Mai'Adua	Katsina	13.162	8.231	2	
+Mai'Adua B	Mai'Adua	Katsina	13.180	8.264	2	
+Magama Masabo Kurabau	Rimi	Katsina	12.968	7.776	2	
+Makurda	Rimi	Katsina	13.043	7.798	2	
+Tsa Magam	Kankia	Katsina	12.396	7.823	2	
+Darini Magaji Abu	Batsari	Katsina	12.938	7.195	2	
+Mazanya	Jibia	Katsina	13.079	7.316	2	
+Mahuta C	Dandume	Katsina	11.437	7.298	2	
+Maigamji	Funtua	Katsina	11.455	7.322	2	
+Mai Gora	Faskari	Katsina	11.603	7.081	2	
+Machika	Mani	Katsina	12.835	7.853	2	
+Duwan Makau	Mani	Katsina	12.766	8.034	2	
+Mani	Mani	Katsina	12.907	7.933	2	
+Malumfashi	Malumfashi	Katsina	11.866	7.809	2	
+Mashi	Mashi	Katsina	13.132	8.013	2	
+Mai'Adua	Mai'Adua	Katsina	13.161	8.213	2	
+Mani	Mani	Katsina	12.843	7.888	2	
+Mara A	Dan Musa	Katsina	12.257	7.264	2	
+Matazu B	Matazu	Katsina	12.266	7.687	2	
+Maibakko	Sabuwa	Katsina	11.251	7.128	2	
+Maidabino A	Dan Musa	Katsina	12.189	7.344	2	
+Maidabino B	Dan Musa	Katsina	12.150	7.211	2	
+Mabai	Kankara	Katsina	11.873	7.375	2	
+Matazu A	Matazu	Katsina	12.224	7.673	2	
+Machika	Sabuwa	Katsina	11.512	7.055	2	
+Dutsin Ma	Dutsin Ma	Katsina	12.407	7.527	2	
+Mara B	Dan Musa	Katsina	12.250	7.383	2	
+Markurdi	Markurdi	Benue	7.735	8.518	2	
+Ogori/Magongo	Ogori/Magongo	Kogi	7.479	6.156	2	
+Magajin Gari 1	Birnin Gwari	Kaduna	10.635	6.618	2	
+Makuku	Sakaba	Kebbi	11.034	5.429	2	
+Makawa	Ngaski	Kebbi	10.503	4.625	2	
+Mayo-Belwa	Mayo-Belwa	Adamawa	8.871	12.020	2	
+Malari	Konduga	Borno	11.654	13.422	2	
+Mandunari	Gujba	Yobe	11.441	12.217	2	
+Kafa Mafi	Damboa	Borno	11.296	12.373	2	
+Ma'Afa	Mafa	Borno	12.126	13.709	2	
+Madagali	Madagali	Adamawa	10.787	13.489	2	
+Maimusari	Jere	Borno	11.829	13.184	2	
+Mandala	Monguno	Borno	12.501	13.617	2	
+M. Maja	Dikwa	Borno	11.905	14.070	2	
+Marguba	Kaga	Borno	11.693	12.624	2	
+Marte	Marte	Borno	12.403	13.833	2	
+Mairari	Guzamala	Borno	12.751	13.431	2	
+Mafoni	Maiduguri	Borno	11.849	13.149	2	
+Old Maiduguri	Jere	Borno	11.900	13.168	2	
+Mafa	Mafa	Borno	11.949	13.572	2	
+Magumeri	Magumeri	Borno	12.078	12.774	2	
+Marama Kidang	Hawul	Borno	10.416	12.154	2	
+Mashamari	Jere	Borno	11.849	13.189	2	
+Kafin Madaki A	Ganjuwa	Bauchi	10.661	9.705	2	
+Magami	Sumaila	Kano	11.236	8.953	2	
+Marana	Gamawa	Bauchi	12.108	10.685	2	
+Mainako North	Zaki	Bauchi	12.437	10.375	2	
+Maruta	Gwaram	Jigawa	11.422	9.853	2	
+Mara	Toro	Bauchi	10.247	9.289	2	
+Madabe	Buji	Jigawa	11.705	9.729	2	
+Mangu	Mangu	Plateau	9.362	9.182	2	
+Madara	Katagum	Bauchi	11.765	10.413	2	
+Maimadi	Alkaleri	Bauchi	10.044	10.683	2	
+Makawa	Zaki	Bauchi	12.189	10.201	2	
+Madufa	Zaki	Bauchi	12.087	10.207	2	
+Maiwa	Zaki	Bauchi	12.386	10.304	2	
+Mainako South	Zaki	Bauchi	12.383	10.433	2	
+Mashema	Itas/Gadau	Bauchi	11.814	9.934	2	
+Mansur	Alkaleri	Bauchi	9.702	10.627	2	
+Magarya	Itas/Gadau	Bauchi	11.859	9.791	2	
+Matsango	Katagum	Bauchi	11.647	10.197	2	
+Madangala	Katagum	Bauchi	11.681	10.155	2	
+Maiha	Maiha	Adamawa	9.856	13.158	2	
+Mainok	Kaga	Borno	11.850	12.645	2	
+Mairi	Jere	Borno	11.800	13.213	2	
+Maiduguri	Maiduguri	Borno	11.834	13.134	2	
+Maiwa	Nganzai	Borno	12.345	13.218	2	
+Mafa	Tarmua	Yobe	12.283	12.191	2	
+Magumeri	Magumeri	Borno	12.143	12.663	2	
+Maisandari	Maiduguri	Borno	11.795	13.113	2	
+Masu	Mafa	Borno	12.134	13.326	2	
+Mafa	Mafa	Borno	11.953	13.562	2	
+Mandaragirau	Biu	Borno	10.681	12.359	2	
+Marte	Marte	Borno	12.364	13.872	2	
+Margata	Dikwa	Borno	11.858	14.190	2	
+Mashegu	Mashegu	Niger	9.816	5.239	2	
+Maigatari Kudu	Maigatari	Jigawa	12.787	9.449	2	
+Maigatari	Maigatari	Jigawa	12.694	9.610	2	
+Magama	Magama	Niger	10.299	5.061	2	
+Mariga	Mariga	Niger	10.607	5.867	2	
+Mada	Kala-Balge	Borno	11.731	14.413	2	
+Maru	Maru	Zamfara	11.636	6.320	2	
+Mabushi	Municipal Area Council	FCT Abuja	9.083	7.450	2	
+Magwanshi	Katagum	Bauchi	11.744	10.114	2	
+Maitama	Municipal Area Council	FCT Abuja	9.090	7.491	2	
+Kauran Mata	Madobi	Kano	11.861	8.474	2	
+Lagos Mainland	Lagos Mainland	Lagos	6.493	3.388	2	
