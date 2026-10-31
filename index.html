@@ -76,6 +76,7 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .scale .names{font-size:11px;margin-top:5px;padding:0 2px;text-align:center}
 .scale .names span{opacity:.85}.scale .names .on{opacity:1;font-weight:700}
 #scale-m{position:absolute;top:-4px;width:6px;height:22px;margin-left:-3px;background:#12202b;border:2px solid #fff;border-radius:4px;box-sizing:border-box;transition:left .35s}
+.band .vs{font-size:14px;margin-top:6px;opacity:.95}
 #lvlsub{font-size:17px;font-weight:600;line-height:1.35;margin-top:6px;opacity:1}
 .acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .acts button{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:999px;padding:10px 14px;background:#fff;color:#0a4f66;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
@@ -192,7 +193,7 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
 <div class="band" id="band" aria-live="polite">
 <div class="sky" id="sky" aria-hidden="true"><i class="orb" id="orb"></i><i class="star" style="top:18%;right:30%"></i><i class="star" style="top:34%;right:9%"></i><i class="star" style="top:12%;right:12%"></i></div>
 <div class="where" id="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small></div></div>
-<div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><div class="scale" id="scale" role="img"><div class="track"></div><b id="scale-m"></b><div class="names"></div></div><p id="lvlsub"></p>
+<div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><div class="scale" id="scale" role="img"><div class="track"></div><b id="scale-m"></b><div class="names"></div></div><p id="lvlsub"></p><p class="vs" id="vs" hidden></p>
 <div class="acts" id="back-w" hidden><button id="back"><span data-ic="clock"></span>Back to now</button></div></div>
 <div id="start"><h2 id="sh">How hot does it feel where you are?</h2><p id="sp">See the live heat for your town and what to do to stay safe.</p>
 <div class="acts" id="acts"><button id="go-loc"><span data-ic="locate"></span>Use my location</button><button id="go-town"><span data-ic="search"></span>Search my town</button></div></div>
@@ -402,6 +403,14 @@ function render(){
  $("wear").innerHTML=tips(lv.w);$("do").innerHTML=tips(lv.d);$("avoid").innerHTML=tips(lv.a,true);
  $("em").hidden=hi<32;
  drawScale(hi,lv);
+ const vs=S.sel==null?yesterday():"";$("vs").hidden=!vs;$("vs").textContent=vs;
+}
+// How now compares with this time yesterday, from the same blend of models, so the difference is fair.
+function yesterday(){
+ const y=S.fc&&blendAt(S.fc.h,S.at-864e5);if(!y)return "";
+ const d=Math.round(nowFeels()-fcFeels(y));
+ if(!d)return "About the same as this time yesterday.";
+ return "About "+Math.abs(d)+"°C "+(d>0?"hotter":"cooler")+" than this time yesterday.";
 }
 // Sky for the time on screen: the chosen forecast hour, or now. The sun climbs towards midday.
 function drawSky(v){
@@ -534,7 +543,7 @@ async function loadPlace(place,quiet,src){
  if(!quiet){$("locmsg").textContent="Getting the live reading for "+place.name+"…";S.loading=place;S.err="";render()}
  // Give up after 10 seconds rather than leave people waiting on a weak connection.
  const ctl=new AbortController(),tm=setTimeout(()=>ctl.abort(),10000);
- try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&hourly=temperature_2m,relative_humidity_2m&forecast_days=3&models="+MODELS.join(",")+"&timezone=GMT",{signal:ctl.signal});
+ try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&hourly=temperature_2m,relative_humidity_2m&past_days=1&forecast_days=3&models="+MODELS.join(",")+"&timezone=GMT",{signal:ctl.signal});
   if(!r.ok)throw 0;const j=await r.json(),c=j.current||{};
   // Time of the reading itself (GMT from Open-Meteo), not when the phone fetched it.
   const p=Date.parse(c.time+"Z"),at=isFinite(p)?p:Date.now(),fc=readForecast(j.hourly,place);
