@@ -53,6 +53,7 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .band .big span{font-size:30px;font-weight:600;letter-spacing:0}
 .band h2{font-size:24px;margin-top:8px;font-weight:800}
 .band p{margin:4px 0 0;opacity:.95}
+#lvlsub{font-size:17px;font-weight:600;line-height:1.35;margin-top:6px;opacity:1}
 .acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .acts button{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:999px;padding:10px 14px;background:#fff;color:#0a4f66;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
 .plan .day{display:block;width:100%;text-align:left;border:1px solid var(--line);border-left:6px solid var(--c);background:var(--bg);color:var(--ink);border-radius:12px;padding:10px 12px;margin-top:8px;font:15px/1.45 "Instrument Sans",system-ui,sans-serif;cursor:pointer}
@@ -366,7 +367,7 @@ function render(){
   return}
  const hi=feels(),lv=lvl(hi);
  $("band").style.background=lv.c;$("hi").textContent=shown(hi);
- $("lvl").textContent="Feels like · "+lv.n;$("lvlsub").textContent=lv.s;
+ $("lvl").textContent="Feels like · "+lv.n;$("lvlsub").textContent=S.sel==null?answer():lv.s;
  $("wear").innerHTML=tips(lv.w);$("do").innerHTML=tips(lv.d);$("avoid").innerHTML=tips(lv.a,true);
  $("em").hidden=hi<32;
 }
@@ -378,11 +379,8 @@ function drawPlan(){
  const days=[["Rest of today",today],["Tomorrow",dayKey(now+864e5)]]
   .map(([n,k])=>({n,hs:H.filter(x=>dayKey(x.at)===k)})).filter(d=>d.hs.some(x=>daytime(hourOf(x.at))));
  $("days").innerHTML=days.map((d,i)=>{
-  const v=d.hs.map(fcFeels),top=Math.max(...v),pk=v.indexOf(top);let a=pk,b=pk;
-  // The hottest stretch: hours next to the peak that are within 1°C of it.
-  while(a>0&&v[a-1]>=top-1)a--;while(b<v.length-1&&v[b+1]>=top-1)b++;
-  const lv=lvl(top),range=hr(hourOf(d.hs[a].at))+"–"+hr(hourOf(d.hs[b].at)+1);
-  return "<button class='day' data-d='"+i+"' style='--c:"+lv.c+"'><b>"+d.n+"</b>Hottest "+range+", feels like "+shown(top)+"°C · "+lv.n+"<small>"+cooler(d.hs,top)+"</small></button>"}).join("");
+  const {top,from,to}=hottest(d.hs),lv=lvl(top);
+  return "<button class='day' data-d='"+i+"' style='--c:"+lv.c+"'><b>"+d.n+"</b>Hottest "+from+"–"+to+", feels like "+shown(top)+"°C · "+lv.n+"<small>"+cooler(d.hs,top)+"</small></button>"}).join("");
  $("days").querySelectorAll("button").forEach(b=>b.onclick=()=>{const d=days[+b.dataset.d],v=d.hs.map(fcFeels);pick(d.hs[v.indexOf(Math.max(...v))].at)});
  let last=today;
  $("hours").innerHTML="<button class='now' data-at='' aria-pressed='"+(S.sel==null)+"'>Now<b>"+shown(nowFeels())+"°</b></button>"+H.map(x=>{
@@ -390,15 +388,41 @@ function drawPlan(){
   return sep+"<button data-at='"+x.at+"' style='background:"+lv.c+"' aria-pressed='"+(S.sel===x.at)+"' aria-label='"+h+(k===today?" today":" tomorrow")+", feels like "+shown(f)+"°C, "+lv.n+"'>"+h+"<b>"+shown(f)+"°</b></button>"}).join("");
  $("hours").querySelectorAll("button").forEach(b=>b.onclick=()=>pick(b.dataset.at?+b.dataset.at:null));
 }
-// When it is cooler to go out: hours from 6am to 9pm that are below Hot.
-function cooler(hs,top){
- if(top<32)return "No hot hours expected.";
+// The hottest stretch of some hours: the peak, and the hours next to it within 1°C of it.
+function hottest(hs){const v=hs.map(fcFeels),top=Math.max(...v),pk=v.indexOf(top);let a=pk,b=pk;
+ while(a>0&&v[a-1]>=top-1)a--;while(b<v.length-1&&v[b+1]>=top-1)b++;
+ return {top,from:hr(hourOf(hs[a].at)),to:hr(hourOf(hs[b].at)+1)}}
+// When it is cooler to go out: hours from 6am to 9pm that are below Hot, as "before 10am" and so on.
+function coolTimes(hs){
  const ok=hs.filter(x=>daytime(hourOf(x.at))&&fcFeels(x)<32).map(x=>hourOf(x.at)),runs=[];
  for(const h of ok){const r=runs[runs.length-1];if(r&&h===r[1]+1)r[1]=h;else runs.push([h,h])}
- if(!runs.length)return "No cooler daytime hours. If you must go out, keep it short.";
+ if(!runs.length)return [];
  const first=hourOf(hs.find(x=>daytime(hourOf(x.at))).at);
- const t=runs.map(([a,b])=>a===first?"before "+hr(b+1):b===21?"after "+hr(a):hr(a)+"–"+hr(b+1));
+ return runs.map(([a,b])=>a===first?"before "+hr(b+1):b===21?"after "+hr(a):"between "+hr(a)+" and "+hr(b+1))}
+function cooler(hs,top){
+ if(top<32)return "No hot hours expected.";
+ const t=coolTimes(hs);
+ if(!t.length)return "No cooler daytime hours. If you must go out, keep it short.";
  return "Cooler to go out: "+t.join(", ").replace(/, ([^,]*)$/," and $1")+".";
+}
+// The one line people came for: how hot it will get and what to do about it. Looks at the rest
+// of today, or tomorrow once today's daytime hours have passed.
+function answer(){
+ const H=fcHours(),now=Date.now(),today=H.filter(x=>dayKey(x.at)===dayKey(now));
+ if(!H.length)return lvl(nowFeels()).s;
+ const tom=!today.some(x=>daytime(hourOf(x.at))),hs=tom?H.filter(x=>dayKey(x.at)===dayKey(now+864e5)):today;
+ const {top,from,to}=hottest(hs),peak=tom?top:Math.max(top,nowFeels()),lead=tom?"Tomorrow: ":"";
+ const cap=t=>tom?t[0].toLowerCase()+t.slice(1):t;
+ if(peak<27)return lead+cap("Comfortable. Normal care is enough.");
+ if(peak<32)return lead+cap("Warm. Carry water if you will be out for long.");
+ // Evening: the heat is behind us, so say so rather than naming the next hour as the hottest.
+ if(!tom&&top<32)return "Hot now and cooling down. Carry water if you go out.";
+ const easing=!tom&&hourOf(now)>=16&&nowFeels()>=top-.5,word=peak<39.5?"Hot":peak<51?"Dangerously hot":"Extremely dangerous heat";
+ const first=lead+cap(word)+(easing?(peak<51?" now, easing through the evening. ":" now. "):" from "+from+" to "+to+". ");
+ const t=coolTimes(hs),when=t.length?[t[0],...(t.length>1?[t[t.length-1]]:[])].join(" or "):"";
+ if(peak>=51)return first+"Stay indoors and keep cool.";
+ if(peak>=39.5)return first+(when?"If you must go out, go "+when+" and carry water.":"Stay out of the sun if you can, and carry water if you must go out.");
+ return first+(when?"Go out "+when+" and carry water.":"Keep trips out short and carry water.");
 }
 let planSeen=false;
 function pick(at){S.sel=at;render();
@@ -614,7 +638,7 @@ async function makePicture(){
  // Coloured top: measure first so the background can be painted before the text.
  g.font="700 44px "+bf;const pL=lines(g,wt.p,TW-56);
  g.font="500 30px "+bf;const wL=lines(g,wt.w,TW-56);
- g.font="500 36px "+bf;const sL=lines(g,lv.s,TW);
+ g.font="500 36px "+bf;const sL=lines(g,S.sel==null?answer():lv.s,TW);
  const yLogo=P+50,yPlace=yLogo+90,yWhen=yPlace+(pL.length-1)*52+44,yBig=yWhen+(wL.length-1)*40+200,yLvl=yBig+82,ySent=yLvl+58;
  let y=ySent+(sL.length-1)*48+46;
  g.fillStyle=lv.c;g.fillRect(0,0,W,y);g.fillStyle="#fff";
