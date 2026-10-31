@@ -22,7 +22,7 @@
 <title>Reezr Heat – Stay safe in the heat</title>
 <script>
 // Apply the saved theme before first paint so the page never flashes the wrong colours.
-try{const t=localStorage.getItem("rh-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}
+try{const t=JSON.parse(localStorage.getItem("rh-theme"));if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}
 </script>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -89,6 +89,58 @@ ul.tips li{display:flex;gap:12px;align-items:center;margin:0}
 .term{border-bottom:1px solid var(--line);padding:12px 0}.term:last-child{border:0}
 .term b{font-family:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;font-size:17px;display:block}
 footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer a{color:inherit}
+/* Phone: one column. The two groups dissolve so Plan ahead can sit straight under the reading. */
+#v-today{display:flex;flex-direction:column}
+.col-a,.col-b{display:contents}
+#band{order:1}#plan{order:2}.col-a>.panel{order:3}
+.advice,#em,.sharebar,#sharemsg{order:4}
+/* Tablet and up: advice side by side, Stay safe and Words use the width. */
+@media (min-width:720px){
+.wrap{max-width:760px}
+.advice{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:12px}
+.advice .panel{margin-top:0}
+.advice .do{grid-column:1;grid-row:1/span 2}
+.advice .wear,.advice .avoid{grid-column:2}
+.sharebar{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:12px}
+.sharebar .btn{margin-top:0}
+.sharebar:has(#pic[hidden]) #share{grid-column:1/-1}
+#v-safe:not([hidden]){display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+#v-safe .panel{margin-top:0}
+#v-words #q{max-width:560px;display:block}
+#terms{columns:2;column-gap:32px}
+.term{break-inside:avoid}
+.term:last-child{border-bottom:1px solid var(--line)}
+footer{max-width:680px;margin-left:auto;margin-right:auto}
+}
+/* Laptop and desktop: reading and search on the left, plan and advice on the right. */
+@media (min-width:1000px){
+.wrap{max-width:1320px;padding:20px 28px 40px;display:grid;grid-template-columns:auto minmax(0,1fr) auto;column-gap:24px;align-items:center}
+header{display:contents}
+header>div:first-child{grid-column:1;grid-row:1}
+header .seg{grid-column:3;grid-row:1;justify-self:end}
+nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
+.wrap>section{grid-column:1/-1;margin-top:18px;align-self:start}
+.wrap>footer{grid-column:1/-1;justify-self:center}
+#v-today:not([hidden]){display:grid;grid-template-columns:minmax(360px,440px) minmax(0,1fr);gap:20px;align-items:start}
+.col-a,.col-b{display:block}
+.col-b>.panel:first-child,.col-b>.advice:first-child{margin-top:0}
+.col-b>#plan[hidden]+.advice{margin-top:0}
+.band .big{font-size:92px}
+/* Every hour at a glance, so nobody needs to scroll sideways with a mouse. */
+.hours{display:grid;grid-template-columns:repeat(auto-fill,minmax(54px,1fr));overflow:visible;margin:12px 0 0;padding:4px 2px}
+.hours button{width:auto}
+.hours .sep{grid-column:1/-1;writing-mode:horizontal-tb;transform:none;font-size:13px;margin-top:6px}
+}
+/* The reading stays in view while reading the advice, where the screen is tall enough for it. */
+@media (min-width:1000px) and (min-height:820px){
+.col-a{position:sticky;top:16px}
+}
+@media (hover:hover){
+.plan .day:hover,.results button:hover,nav button:hover,.btn.s:hover{border-color:var(--acc)}
+.hours button:hover{filter:brightness(1.12)}
+.btn.p:hover{filter:brightness(1.08)}
+.acts button:hover{filter:brightness(.94)}
+}
 [hidden]{display:none!important}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 @media (prefers-reduced-motion:reduce){.band{transition:none}}
@@ -108,19 +160,13 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 <nav role="tablist"><button role="tab" id="t-today">Today</button><button role="tab" id="t-safe">Stay safe</button><button role="tab" id="t-words">Words</button></nav>
 
 <section id="v-today">
+<div class="col-a">
 <div class="band" id="band" aria-live="polite">
 <div class="where" id="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small></div></div>
 <div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><p id="lvlsub"></p>
 <div class="acts" id="back-w" hidden><button id="back"><span data-ic="clock"></span>Back to now</button></div></div>
 <div id="start"><h2 id="sh">How hot does it feel where you are?</h2><p id="sp">See the live heat for your town and what to do to stay safe.</p>
 <div class="acts" id="acts"><button id="go-loc"><span data-ic="locate"></span>Use my location</button><button id="go-town"><span data-ic="search"></span>Search my town</button></div></div>
-</div>
-
-<div class="panel plan" id="plan" hidden>
-<h3><span data-ic="clock"></span>Plan ahead</h3>
-<div id="days"></div>
-<div class="hours" id="hours" role="group" aria-label="Feels like, hour by hour"></div>
-<div class="note">Tap a time to see what to do then. This is a forecast and can be a few degrees off, so check again before you go out.</div>
 </div>
 
 <div class="panel">
@@ -135,14 +181,28 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 <label><span id="hl">Humidity</span><span id="hv"></span></label>
 <input type="range" id="h" min="1" max="100" step="1" value="60" aria-labelledby="hl">
 </div>
+</div>
 
+<div class="col-b">
+<div class="panel plan" id="plan" hidden>
+<h3><span data-ic="clock"></span>Plan ahead</h3>
+<div id="days"></div>
+<div class="hours" id="hours" role="group" aria-label="Feels like, hour by hour"></div>
+<div class="note">Tap a time to see what to do then. This is a forecast and can be a few degrees off, so check again before you go out.</div>
+</div>
+
+<div class="advice">
 <div class="panel wear"><h3>What to wear</h3><ul class="tips" id="wear"></ul></div>
 <div class="panel do"><h3>Do</h3><ul class="tips" id="do"></ul></div>
 <div class="panel avoid"><h3>Avoid</h3><ul class="tips" id="avoid"></ul></div>
+</div>
 <div class="alert" id="em" hidden></div>
+<div class="sharebar">
 <button class="btn p" id="share"><span data-ic="share-2"></span><span id="share-l">Share link</span></button>
 <button class="btn s" id="pic"><span data-ic="image"></span><span id="pic-l">Share as a picture</span></button>
+</div>
 <div class="note" id="sharemsg" aria-live="polite"></div>
+</div>
 </section>
 
 <section id="v-safe" hidden></section>
