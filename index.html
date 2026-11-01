@@ -34,7 +34,7 @@ body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Instrument Sa
 h1,h2,h3,.big{font-family:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;margin:0}
 .wrap{max-width:560px;margin:0 auto;padding:16px 16px 40px}
 svg.i{width:20px;height:20px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;vertical-align:-4px}
-header{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:12px}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:18px 8px;margin-bottom:14px}
 .brand{display:flex;align-items:baseline;gap:1px;font:800 24px/1.1 "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;letter-spacing:-.3px;color:var(--ink);text-decoration:none}
 .brand img{height:.86em;width:auto}
 .brand em{font-style:normal;color:var(--heat);margin-left:.25em}
@@ -42,7 +42,7 @@ header small{color:var(--mut);display:block;font-size:13px;margin-top:2px}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--card);flex:none}
 .seg button{border:0;background:none;color:var(--mut);width:40px;height:36px;display:grid;place-items:center;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
-nav{display:flex;gap:6px;margin:6px 0 14px}
+nav{display:flex;gap:6px;flex:1 0 100%}
 nav button{flex:1;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:10px 4px;border-radius:12px;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
 nav button[aria-selected="true"]{border-color:var(--acc);box-shadow:inset 0 -3px 0 var(--acc)}
 button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
@@ -146,6 +146,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 /* Tablet and up: advice side by side, Stay safe and Words use the width. */
 @media (min-width:720px){
 .wrap{max-width:760px}
+header{margin:-16px -16px 14px;padding:12px 16px;background:var(--bg);border-bottom:1px solid var(--line)}
 .advice{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:12px}
 .advice .panel{margin-top:0}
 .advice .do{grid-column:1;grid-row:1/span 2}
@@ -155,7 +156,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 .sharebar:has(#pic[hidden]) #share{grid-column:1/-1}
 #v-safe:not([hidden]){display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 #v-safe .panel{margin-top:0}
-#v-words{width:100%;max-width:760px;justify-self:center}
+#v-words{width:100%;max-width:760px;margin:0 auto}
 .term summary{pointer-events:auto;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px}
 .term summary::after{content:"+";font-size:22px;line-height:1;color:var(--acc)}
 .term[open] summary::after{content:"\2212"}
@@ -164,23 +165,27 @@ footer{max-width:680px;margin-left:auto;margin-right:auto}
 }
 /* Laptop and desktop: reading and search on the left, plan and advice on the right. */
 @media (min-width:1000px){
-.wrap{max-width:1320px;padding:20px 28px 40px;display:grid;grid-template-columns:auto minmax(0,1fr) auto;column-gap:24px;align-items:center}
-header{display:contents}
+.wrap{max-width:1320px;padding:0 28px 40px}
+header{display:grid;grid-template-columns:auto minmax(0,1fr) auto;column-gap:24px;margin:0 -28px 18px;padding:12px 28px}
 header>div:first-child{grid-column:1;grid-row:1}
 header .seg{grid-column:3;grid-row:1;justify-self:end}
-nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
-.wrap>section{grid-column:1/-1;margin-top:18px;align-self:start}
-.wrap>footer{grid-column:1/-1;justify-self:center}
+nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%)}
 #v-today:not([hidden]){display:grid;grid-template-columns:minmax(360px,440px) minmax(0,1fr);gap:20px;align-items:start}
 .col-a,.col-b{display:block}
 .col-b>.panel:first-child,.col-b>.advice:first-child{margin-top:0}
 .col-b>#plan[hidden]+.who{margin-top:0}
 .band .big{font-size:92px}
 }
-/* The reading stays in view while reading the advice, where the screen is tall enough for it. */
+/* The name and tabs stay on screen on tablets and up, unless the window is very short. */
+@media (min-width:720px) and (min-height:500px){
+html{scroll-padding-top:130px}
+header{position:sticky;top:0;z-index:5}
+}
+/* The left column stays in view while reading the advice. It moves as one piece, and scrolls on
+   its own if it is taller than the screen, so nothing slides under anything else. */
 @media (min-width:1000px) and (min-height:600px){
-.col-a{align-self:stretch}
-#band{position:sticky;top:16px;z-index:2}
+html{scroll-padding-top:90px}
+.col-a{position:sticky;top:83px;max-height:calc(100vh - 95px);overflow:auto;scrollbar-width:thin;padding:3px;margin:-3px}
 }
 @media (hover:hover){
 .sv .go:hover,.sv .rm:hover,.plan .day:hover,.results button:hover,nav button:hover,.btn.s:hover{border-color:var(--acc)}
@@ -202,8 +207,8 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%);margin:0}
 <div class="seg" role="group" aria-label="Colour theme">
 <button id="th-light" aria-label="Light mode" title="Light mode"><span data-ic="sun"></span></button><button id="th-dark" aria-label="Dark mode" title="Dark mode"><span data-ic="moon"></span></button>
 </div>
-</header>
 <nav role="tablist"><button role="tab" id="t-today">Today</button><button role="tab" id="t-safe">Stay safe</button><button role="tab" id="t-words">Words</button></nav>
+</header>
 
 <section id="v-today">
 <div class="col-a">
@@ -629,7 +634,10 @@ try{matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{sy
 
 // Live reading for a place, plus the hourly forecast to the end of tomorrow, in one request.
 // The forecast is saved with the reading so Plan ahead still works later without data.
+const colA=document.querySelector(".col-a");
+function showResults(){if(colA.scrollHeight>colA.clientHeight)colA.scrollTop+=$("town").getBoundingClientRect().top-colA.getBoundingClientRect().top-70}
 async function loadPlace(place,quiet,src){
+ colA.scrollTop=0;
  if(!quiet){$("locmsg").textContent="Getting the live reading for "+place.name+"…";S.loading=place;S.err="";render()}
  // Give up after 10 seconds rather than leave people waiting on a weak connection.
  const ctl=new AbortController(),tm=setTimeout(()=>ctl.abort(),10000);
@@ -763,6 +771,7 @@ function showPlaces(res,q){
  // Many towns share a name, such as Sabon Gari; not every list needs this hint.
  const many=same>=3&&res.length>6?"<div class='note'>Many places share this name. Add your state to narrow it down.</div>":"";
  $("results").innerHTML=top.map((x,i)=>"<button data-i='"+i+"'>"+esc(x.name)+" <small>"+(x.around?"around "+esc(x.around)+", ":"")+esc(uniq([x.area!==x.name?x.area:"",stateName(x.state)]).join(", "))+(x.approx?" · approximate location":"")+"</small></button>").join("")+many;
+ showResults();
  $("results").querySelectorAll("button").forEach(b=>b.onclick=()=>{const x=top[+b.dataset.i];
   $("results").innerHTML="";$("town").value="";
   loadPlace({name:placeLabel(x),lat:+x.lat.toFixed(2),lon:+x.lon.toFixed(2),approx:!!x.approx},false,"search")})}
@@ -780,6 +789,7 @@ async function searchPlaces(q,deep){
  if(!ownOk&&done.every(d=>d.status==="rejected")){$("results").innerHTML="<div class='note'>Search needs an internet connection.</div>";return}
  const more=deep?"":"<button id='more'>Search more</button>";
  $("results").innerHTML="<div class='note'>Couldn’t find “"+esc(q)+"” in Nigeria. Check the spelling, try the nearest bigger town or area, or use your location.</div>"+more;
+ showResults();
  if(!deep)$("more").onclick=()=>searchPlaces(q,true)}
 $("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
  if(q.length<2){qN++;$("results").innerHTML="";return}
