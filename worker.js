@@ -14,11 +14,11 @@
 const EVENTS = new Set(["open", "hide", "reading", "location", "share_link", "share_picture", "tab", "install", "plan"]);
 // Allowed values for each optional field; anything else is dropped.
 const FIELDS = {
-  src: ["link", "saved", "none", "gps", "search"],
+  src: ["link", "saved", "none", "gps", "search", "map"],
   lv: ["Comfortable", "Warm", "Hot", "Dangerous", "Extreme danger"],
   m: ["native", "copy", "download", "cancel", "fail"],
   ok: ["granted", "denied", "outside", "unsupported"],
-  tab: ["today", "safe", "words", "about"],
+  tab: ["today", "map", "safe", "words", "about"],
 };
 const ID = /^[a-z0-9-]{8,40}$/i;
 const DAY_MS = 86400000;

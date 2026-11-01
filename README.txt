@@ -10,7 +10,7 @@ Files kept off the public site: .assetsignore.
 Install: open the https link on a phone. Chrome shows "Add to Home screen" / Install.
 Live temperature ("Use my location") only works over https.
 
-Change the cache name in sw.js (reezr-heat-v37) whenever you ship a new version.
+Change the cache name in sw.js (reezr-heat-v38) whenever you ship a new version.
 Local preview: python -m http.server 8765
 
 Accuracy (constants at the top of the feels-like code in index.html):
@@ -35,3 +35,7 @@ Usage stats (anonymous; worker.js lists exactly what is stored):
 Local test with a local database:
   echo STATS_TOKEN=localtest > .dev.vars
   npx wrangler dev --persist-to <short folder>   (Windows: long paths break the local database)
+
+Heat map: nigeria-map.json holds simplified state outlines from Natural Earth (public domain) and each
+state's capital from our place files. Rebuild with tools/build_map.py. /api/map in worker.js works out
+feels-like at the capitals with the same blend as the app, at most once an hour, and saves it in D1.

@@ -76,7 +76,9 @@ def path(g):
 states = []
 for n, g in zip(names, simple):
     _, la, lo = best[n]
-    states.append({"s": n, "c": CAPITALS[n], "lat": round(la, 2), "lon": round(lo, 2), "x": px(lo), "y": py(la), "d": path(g)})
+    # The label sits in the roomiest part of the state, which is often not where the capital is.
+    mid = shapely.maximum_inscribed_circle(max(getattr(g, "geoms", [g]), key=lambda q: q.area), tolerance=0.01).coords[0]
+    states.append({"s": n, "c": CAPITALS[n], "lat": round(la, 2), "lon": round(lo, 2), "x": px(mid[0]), "y": py(mid[1]), "d": path(g)})
 bx = max(g.bounds[2] for g in simple)
 by = min(g.bounds[1] for g in simple)
 json.dump({"w": px(bx), "h": py(by), "states": states}, open(out, "w", encoding="utf-8", newline="\n"), ensure_ascii=False, separators=(",", ":"))
