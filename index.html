@@ -60,6 +60,8 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .orb{position:absolute;right:22px;width:56px;height:56px;border-radius:50%;transition:top .35s,box-shadow .35s}
 .sky.day .orb,.sky.dawn .orb,.sky.dusk .orb{background:#ffd451}
 .sky.dawn .orb,.sky.dusk .orb{background:#ffb35c}
+/* Before there is a reading the card is full of text, so the sun or moon stays out of its way. */
+.band:has(#reading[hidden]) .orb{display:none}
 .sky.night .orb{background:#f4efd8;box-shadow:inset -14px -6px 0 0 rgba(90,100,130,.55)!important}
 .star{position:absolute;width:3px;height:3px;border-radius:50%;background:#fff;opacity:0}
 .sky.night .star{opacity:.85}
