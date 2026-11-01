@@ -43,7 +43,8 @@ header small{color:var(--mut);display:block;font-size:13px;margin-top:2px}
 .seg button{border:0;background:none;color:var(--mut);width:40px;height:36px;display:grid;place-items:center;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
 nav{display:flex;gap:6px;flex:1 0 100%}
-nav button{flex:1;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:10px 4px;border-radius:12px;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
+nav button{flex:1;min-width:0;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:10px 2px;border-radius:12px;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
+@media (max-width:359px){nav button{font-size:14px}}
 nav button[aria-selected="true"]{border-color:var(--acc);box-shadow:inset 0 -3px 0 var(--acc)}
 button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
 .band{border-radius:20px;padding:18px 20px 22px;color:#fff;transition:background .35s}
@@ -151,6 +152,12 @@ ul.scenes svg{flex:none;width:112px;height:84px;border-radius:12px}
 .folk span{flex:1;min-width:0}
 .folk .pic{flex:none;width:52px;height:52px}
 .folk svg.i{color:var(--acc)}
+.intro{margin:0;font-size:17px}
+.how{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:12px}
+.how li{display:flex;gap:12px;align-items:center;margin:0}
+.how .tic{background:var(--bg)}
+.how b{display:block}
+.term a{color:var(--acc)}
 .term{border-bottom:1px solid var(--line);padding:12px 0}.term:last-child{border:0}
 .term summary{font:800 17px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px}
 .term summary::-webkit-details-marker{display:none}
@@ -183,7 +190,10 @@ header{margin:-16px -16px 14px;padding:12px 16px;background:var(--bg);border-bot
 ul.scenes{grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:16px}
 ul.scenes li{display:block}
 ul.scenes svg{display:block;width:100%;height:auto;margin-bottom:8px}
-#v-words{width:100%;max-width:760px;margin:0 auto}
+#v-words,#v-about{width:100%;max-width:760px;margin:0 auto}
+.how{grid-template-columns:repeat(3,minmax(0,1fr))}
+.how li{display:block}
+.how .tic{margin-bottom:8px}
 footer{max-width:680px;margin-left:auto;margin-right:auto}
 }
 /* Laptop and desktop: reading and search on the left, plan and advice on the right. */
@@ -192,7 +202,7 @@ footer{max-width:680px;margin-left:auto;margin-right:auto}
 header{display:grid;grid-template-columns:auto minmax(0,1fr) auto;column-gap:24px;margin:0 -28px 18px;padding:12px 28px}
 header>div:first-child{grid-column:1;grid-row:1}
 header .seg{grid-column:3;grid-row:1;justify-self:end}
-nav{grid-column:2;grid-row:1;justify-self:center;width:min(460px,100%)}
+nav{grid-column:2;grid-row:1;justify-self:center;width:min(560px,100%)}
 #v-today:not([hidden]){display:grid;grid-template-columns:minmax(360px,440px) minmax(0,1fr);gap:20px;align-items:start}
 .col-a,.col-b{display:block}
 .col-b>.panel:first-child,.col-b>.advice:first-child{margin-top:0}
@@ -230,7 +240,7 @@ html{scroll-padding-top:90px}
 <div class="seg" role="group" aria-label="Colour theme">
 <button id="th-light" aria-label="Light mode" title="Light mode"><span data-ic="sun"></span></button><button id="th-dark" aria-label="Dark mode" title="Dark mode"><span data-ic="moon"></span></button>
 </div>
-<nav role="tablist"><button role="tab" id="t-today">Today</button><button role="tab" id="t-safe">Stay safe</button><button role="tab" id="t-words">Words</button></nav>
+<nav role="tablist"><button role="tab" id="t-today">Today</button><button role="tab" id="t-safe">Stay safe</button><button role="tab" id="t-words">Words</button><button role="tab" id="t-about">About</button></nav>
 </header>
 
 <section id="v-today">
@@ -288,6 +298,8 @@ html{scroll-padding-top:90px}
 <input type="text" id="q" autocomplete="off" placeholder="Search a word, e.g. El Niño" aria-label="Search a word">
 <div class="panel" id="terms"></div>
 </section>
+
+<section id="v-about" hidden></section>
 
 <footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0). Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
@@ -362,6 +374,17 @@ const SCENE={"breeze": "<rect width=\"120\" height=\"90\" fill=\"#dff1fa\"/><rec
 const COOL={i:"zap-off",h:"Stay cool without power",b:[["breeze","Open windows on opposite sides of the room so air can pass through, especially at night."],["wetcloth","Hang a wet cloth or wet sack over a sunny window or doorway."],["lowfloor","Stay on the lowest, shadiest floor. Sit under a tree if the room is hotter than outside."],["cooling","Cool your neck, wrists, armpits and face with a wet cloth."],["outdoorcook","Cook early morning or evening, and outside if you can."]]};
 // Heat stroke comes first on the page, with the steps numbered and calling for help as step one.
 const SOS={h:"Heat stroke: act fast",signs:"Signs: confusion, severe headache, fainting, fits, very hot skin, fast pulse, or no sweating.",steps:["Call 112 or take them to the nearest hospital now.","Move the person to shade. Remove extra clothes.","Cool with wet cloth, fanning and water on the skin.","Give sips of water only if they are awake and alert."]};
+const ABOUT={intro:"Reezr Heat shows how hot it feels where you are in Nigeria, now and through tomorrow, and what to do to stay safe. It is free to use and made by Reezr Climate.",
+steps:[["phone","Choose your place","Use your location, or search your town or area."],["sun","See how hot it feels","A big number and a heat level, from Comfortable to Extreme danger."],["glass-water","Know what to do","See what to wear, do and avoid. Tap a time on the curve to plan ahead."]],
+faq:[["What does “feels like” mean?","How hot the air feels to your body once humidity is counted. Damp air slows the drying of sweat, so the same temperature can feel much hotter. This is why our number can be higher than the temperature on another weather app."],
+["How accurate is it?","Reezr Heat blends three weather models and corrects them using Nigerian weather station reports. In our test against 23 stations, across the hot season, Harmattan, the rains and October, the reading was off by about 1.6°C on average, and tomorrow’s forecast by about 1.8°C. The heat level matched the station’s about three times out of four. It can be further off at times, so treat it as a guide."],
+["How far ahead can it see?","To the end of tomorrow. Forecasts get less sure the further ahead they look, so check again before you go out."],
+["Does it work without internet?","The app and the advice open without internet. A new reading needs a connection. Until then you see your last reading with its time, and the forecast that came with it."],
+["What happens to my location?","We round it to about 1 km and send it to our weather and map services to get the reading and the name of the place. We do not store your location on our servers, and we do not ask for your name or phone number. Your saved places stay on your phone."],
+["Which places does it cover?","Nigeria for now. A place marked “approximate location” was placed by hand and has not yet been confirmed on a map, so its reading may be for a spot nearby."],
+["Is this medical advice?","No. It is general guidance and does not replace medical care. If someone is very ill, go to a clinic or hospital. For heat stroke, call 112."],
+["Can I put it on my phone like an app?","Yes. Open reezrheat.com in your phone’s browser and choose Add to Home screen or Install app from the menu. On an iPhone, use the Share button in Safari."],
+["How can I reach you?","Email <a href='mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback'>hello@reezrheat.com</a>."]]};
 const WORDS=[
 ["El Niño","A natural warming of the central and eastern Pacific Ocean that changes weather around the world. It often pushes global temperatures up and shifts where rain falls, but effects differ from place to place."],
 ["La Niña","The opposite of El Niño: a cooling of the same part of the Pacific. It tends to bring different rainfall and temperature patterns."],
@@ -500,7 +523,7 @@ function whereText(){
 function tips(list,avoid){return list.map(([i,t,plain])=>"<li><span class='tic"+(avoid&&!plain?" x":"")+"'><svg viewBox='0 0 64 64' aria-hidden='true'>"+ART[i]+"</svg></span><span>"+t+"</span></li>").join("")}
 
 function render(){
- ["today","safe","words"].forEach(k=>{$("v-"+k).hidden=S.tab!==k;$("t-"+k).setAttribute("aria-selected",S.tab===k)});
+ ["today","safe","words","about"].forEach(k=>{$("v-"+k).hidden=S.tab!==k;$("t-"+k).setAttribute("aria-selected",S.tab===k)});
  ["light","dark"].forEach(k=>$("th-"+k).setAttribute("aria-pressed",isDark()===(k==="dark")));
  if(S.sel!=null&&!picked())S.sel=null;
  const has=S.t!=null,wt=whereText();
@@ -689,6 +712,7 @@ function drawSafe(){$("v-safe").innerHTML="<div class='sos'><div><h3>"+svg("sire
 function openWho(k){S.who=k;store.set("rh-who",k);S.tab="today";render();track("tab",{tab:"today"});
  if(S.t==null){scrollTo(0,0);return}
  $("who").scrollIntoView({block:"start"});$("who-b").querySelector("[aria-pressed='true']").focus({preventScroll:true})}
+function drawAbout(){$("v-about").innerHTML="<div class='panel'><p class='intro'>"+ABOUT.intro+"</p></div><div class='panel'><h3>How it works</h3><ol class='how'>"+ABOUT.steps.map(([a,h,t],i)=>"<li><span class='tic'><svg viewBox='0 0 64 64' aria-hidden='true'>"+ART[a]+"</svg></span><div><b>"+(i+1)+". "+h+"</b><span>"+t+"</span></div></li>").join("")+"</ol></div><div class='panel'><h3>Common questions</h3>"+ABOUT.faq.map(([q,a])=>"<details class='term' name='faq'><summary>"+q+"</summary><p>"+a+"</p></details>").join("")+"</div>"}
 // The words open one at a time. A search shows the meanings straight away.
 function drawWords(){const q=$("q").value.trim().toLowerCase(),show=q;
  const r=WORDS.filter(w=>!q||w[0].toLowerCase().includes(q)||w[1].toLowerCase().includes(q));
@@ -866,7 +890,7 @@ $("town").onkeydown=e=>{const q=$("town").value.trim();if(e.key==="Enter"&&q.len
 $("back").onclick=()=>pick(null);
 $("go-loc").onclick=()=>$("loc").click();
 $("go-town").onclick=()=>{$("town").scrollIntoView({block:"center"});$("town").focus()};
-["today","safe","words"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render();track("tab",{tab:k})});
+["today","safe","words","about"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render();track("tab",{tab:k})});
 ["light","dark"].forEach(k=>$("th-"+k).onclick=()=>setTheme(k));
 $("q").oninput=drawWords;
 
@@ -962,7 +986,7 @@ S.who=store.get("rh-who")||"all";S.saved=store.get("rh-saved")||[];S.savedR=stor
  const link=isFinite(lat)&&isFinite(lon)&&inNigeria(lat,lon),last=store.get("rh-last");
  const saved=last&&last.place&&inNigeria(last.place.lat,last.place.lon)&&typeof last.t==="number"&&typeof last.h==="number";
  if(!link&&saved){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.fc=savedForecast(last)}
- drawSafe();drawWords();render();
+ drawSafe();drawWords();drawAbout();render();
  if(isFinite(lat)&&isFinite(lon)&&!link)$("locmsg").textContent=NOT_NG;
  if(link){open("link");loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2),approx:q.get("approx")==="1"},false,"link")}
  else if(saved){open("saved");loadPlace(last.place,true,"saved")}else open("none");
