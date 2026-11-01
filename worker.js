@@ -10,6 +10,8 @@
 //                    daily spreadsheet and &days=N (default 30) for the period
 //   GET  /api/map    feels-like at every state capital, for the heat map. Worked out once an
 //                    hour for everyone, so each phone downloads about 2 KB instead of the forecast.
+//   /api/push/*      heat alerts for people who turn them on. Only then, their saved places are
+//                    kept here with their phone's notification address, never with a name.
 
 const EVENTS = new Set(["open", "hide", "reading", "location", "share_link", "share_picture", "tab", "install", "plan"]);
 // Allowed values for each optional field; anything else is dropped.
@@ -26,6 +28,8 @@ const DAY_MS = 86400000;
 const watDay = ms => new Date(ms + 3600000).toISOString().slice(0, 10);
 
 const SCHEMA = [
+  "CREATE TABLE IF NOT EXISTS saved (k TEXT PRIMARY KEY, at INTEGER NOT NULL, v TEXT NOT NULL)",
+  "CREATE TABLE IF NOT EXISTS subs (id TEXT PRIMARY KEY, endpoint TEXT NOT NULL, places TEXT NOT NULL, day TEXT, warned TEXT NOT NULL DEFAULT '{}', msg TEXT, at INTEGER NOT NULL)",
   "CREATE TABLE IF NOT EXISTS events (ts INTEGER NOT NULL, day TEXT NOT NULL, device TEXT NOT NULL, session TEXT NOT NULL, name TEXT NOT NULL, country TEXT, region TEXT, src TEXT, lv TEXT, m TEXT, ok TEXT, tab TEXT, secs INTEGER, is_new INTEGER, installed INTEGER, mobile INTEGER)",
   "CREATE INDEX IF NOT EXISTS events_day ON events(day)",
   "CREATE INDEX IF NOT EXISTS events_device ON events(device)",
@@ -38,10 +42,14 @@ export default {
   async fetch(req, env, ctx) {
     const url = new URL(req.url);
     if (url.pathname === "/api/map") return heatMap(url, env, ctx);
+    if (url.pathname.startsWith("/api/push/")) return push(req, url, env);
     if (url.pathname === "/api/e") return req.method === "POST" ? collect(req, env) : new Response(null, { status: 405 });
     if (url.pathname === "/api/stats") return stats(env, url);
     if (url.pathname.startsWith("/api/")) return new Response("Not found", { status: 404 });
     return env.ASSETS.fetch(req);
+  },
+  async scheduled(ev, env, ctx) {
+    ctx.waitUntil(runAlerts(env).catch(e => console.error("alerts failed", e)));
   },
 };
 
@@ -128,7 +136,6 @@ async function buildMap(origin, env) {
   if (Object.keys(v).length < places.length) throw new Error("missing places");
   return { at: now, v };
 }
-const MAP_SCHEMA = "CREATE TABLE IF NOT EXISTS saved (k TEXT PRIMARY KEY, at INTEGER NOT NULL, v TEXT NOT NULL)";
 async function refreshMap(origin, env) {
   const m = await buildMap(origin, env), v = JSON.stringify(m);
   await env.DB.prepare("INSERT OR REPLACE INTO saved (k,at,v) VALUES ('map',?,?)").bind(m.at, v).run();
@@ -139,7 +146,7 @@ async function refreshMap(origin, env) {
 async function heatMap(url, env, ctx) {
   const send = (body, status = 200) => new Response(body, { status, headers: { "content-type": "application/json", "cache-control": "public, max-age=300" } });
   try {
-    await env.DB.prepare(MAP_SCHEMA).run();
+    await ensureSchema(env);
     const row = await env.DB.prepare("SELECT at,v FROM saved WHERE k='map'").first();
     if (!row) return send(await refreshMap(url.origin, env));
     if (Date.now() - row.at > MAP_FRESH_MS) ctx.waitUntil(refreshMap(url.origin, env).catch(e => console.error("map refresh failed", e)));
@@ -148,6 +155,130 @@ async function heatMap(url, env, ctx) {
     console.error("map failed", e);
     return new Response(JSON.stringify({ error: "unavailable" }), { status: 503, headers: { "content-type": "application/json", "cache-control": "no-store" } });
   }
+}
+
+// Heat alerts. A push carries no words: the phone wakes up and asks /api/push/msg what to show.
+const b64u = b => btoa(String.fromCharCode(...new Uint8Array(b))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+const PUSH_HOST = /^(fcm\.googleapis\.com|android\.googleapis\.com|([a-z0-9-]+\.)*push\.services\.mozilla\.com|web\.push\.apple\.com|[a-z0-9.-]+\.notify\.windows\.com)$/;
+const NOTICE = { title: "Reezr Heat alerts are on", body: "We will warn you the evening before dangerous heat at your saved places." };
+const DANGER = 39.5, EXTREME = 51, ALERTS_PER_RUN = 30, REPEAT_DAYS = 3;
+
+// The app's own signing key, made the first time it is needed and kept in the database.
+async function vapid(env) {
+  await env.DB.prepare("INSERT OR IGNORE INTO saved (k,at,v) VALUES ('vapid',?,?)").bind(Date.now(), await (async () => {
+    const k = await crypto.subtle.generateKey({ name: "ECDSA", namedCurve: "P-256" }, true, ["sign", "verify"]);
+    return JSON.stringify({ jwk: await crypto.subtle.exportKey("jwk", k.privateKey), pub: b64u(await crypto.subtle.exportKey("raw", k.publicKey)) });
+  })()).run();
+  return JSON.parse((await env.DB.prepare("SELECT v FROM saved WHERE k='vapid'").first()).v);
+}
+async function sendPush(endpoint, keys) {
+  const head = b64u(new TextEncoder().encode(JSON.stringify({ typ: "JWT", alg: "ES256" })));
+  const claims = b64u(new TextEncoder().encode(JSON.stringify({ aud: new URL(endpoint).origin, exp: Math.floor(Date.now() / 1000) + 3600, sub: "mailto:hello@reezrheat.com" })));
+  const key = await crypto.subtle.importKey("jwk", keys.jwk, { name: "ECDSA", namedCurve: "P-256" }, false, ["sign"]);
+  const sig = await crypto.subtle.sign({ name: "ECDSA", hash: "SHA-256" }, key, new TextEncoder().encode(head + "." + claims));
+  const r = await fetch(endpoint, { method: "POST", headers: { Authorization: "vapid t=" + head + "." + claims + "." + b64u(sig) + ", k=" + keys.pub, TTL: "43200", Urgency: "normal", "Content-Length": "0" } });
+  return r.status;
+}
+const subId = async endpoint => b64u(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(endpoint)));
+function cleanPlaces(list) {
+  if (!Array.isArray(list)) return null;
+  const out = [];
+  for (const x of list.slice(0, 5)) {
+    const lat = +x?.lat, lon = +x?.lon;
+    if (!(lat >= 3 && lat <= 15 && lon >= 2 && lon <= 16)) return null;
+    out.push({ name: String(x.name || "Saved place").slice(0, 80), lat: Math.round(lat * 100) / 100, lon: Math.round(lon * 100) / 100 });
+  }
+  return out;
+}
+async function push(req, url, env) {
+  const json = (o, status = 200) => Response.json(o, { status, headers: { "cache-control": "no-store" } });
+  try {
+    if (!env.DB) return json({ error: "unavailable" }, 503);
+    await ensureSchema(env);
+    if (url.pathname === "/api/push/key") return json({ key: (await vapid(env)).pub });
+    // When the evening check last ran, and how much it did. No places or addresses.
+    if (url.pathname === "/api/push/health") {
+      const row = await env.DB.prepare("SELECT at,v FROM saved WHERE k='alerts_run'").first();
+      return json(row ? { at: row.at, ...JSON.parse(row.v) } : { at: null });
+    }
+    if (req.method !== "POST") return new Response(null, { status: 405 });
+    const text = await req.text();
+    if (text.length > 4000) return json({ error: "too long" }, 400);
+    const body = JSON.parse(text), endpoint = String(body.endpoint || "");
+    let host = "";
+    try { const u = new URL(endpoint); host = u.protocol === "https:" ? u.hostname : ""; } catch (e) {}
+    if (!PUSH_HOST.test(host) || endpoint.length > 1000) return json({ error: "bad endpoint" }, 400);
+    const id = await subId(endpoint);
+    if (url.pathname === "/api/push/del") {
+      await env.DB.prepare("DELETE FROM subs WHERE id=?").bind(id).run();
+      return json({ ok: true });
+    }
+    if (url.pathname === "/api/push/msg") {
+      const row = await env.DB.prepare("SELECT msg FROM subs WHERE id=?").bind(id).first();
+      return json(row?.msg ? JSON.parse(row.msg) : NOTICE);
+    }
+    if (url.pathname === "/api/push/sub") {
+      const places = cleanPlaces(body.places);
+      if (!places || !places.length) return json({ error: "bad places" }, 400);
+      const had = await env.DB.prepare("SELECT id FROM subs WHERE id=?").bind(id).first();
+      await env.DB.prepare("INSERT INTO subs (id,endpoint,places,msg,at) VALUES (?,?,?,?,?) ON CONFLICT(id) DO UPDATE SET places=excluded.places")
+        .bind(id, endpoint, JSON.stringify(places), JSON.stringify(NOTICE), Date.now()).run();
+      // A first message right away, so people see that alerts reach their phone.
+      const pushed = had ? 0 : await sendPush(endpoint, await vapid(env));
+      return json({ ok: true, pushed });
+    }
+    return new Response("Not found", { status: 404 });
+  } catch (e) {
+    console.error("push failed", e);
+    return json({ error: "failed" }, 500);
+  }
+}
+// Runs every five minutes from 6pm Nigerian time and takes a small batch each time, because a
+// Cloudflare free-plan run may only make about 50 outside calls.
+async function runAlerts(env) {
+  await ensureSchema(env);
+  const now = Date.now(), today = watDay(now), tomorrow = watDay(now + DAY_MS);
+  const subs = (await env.DB.prepare("SELECT id,endpoint,places,warned FROM subs WHERE day IS NULL OR day<>? LIMIT ?").bind(today, ALERTS_PER_RUN).all()).results;
+  const note = o => env.DB.prepare("INSERT OR REPLACE INTO saved (k,at,v) VALUES ('alerts_run',?,?)").bind(now, JSON.stringify(o)).run();
+  if (!subs.length) return note({ checked: 0, sent: 0 });
+  const lists = subs.map(x => JSON.parse(x.places)), spots = [], at = {};
+  for (const l of lists) for (const x of l) {
+    const k = x.lat + "," + x.lon;
+    if (!(k in at)) { at[k] = spots.length; spots.push(x); }
+  }
+  const r = await fetch("https://api.open-meteo.com/v1/forecast?latitude=" + spots.map(x => x.lat).join(",") + "&longitude=" + spots.map(x => x.lon).join(",") +
+    "&hourly=temperature_2m,relative_humidity_2m&forecast_days=3&models=" + MODELS.join(",") + "&timezone=GMT");
+  if (!r.ok) throw new Error("forecast " + r.status);
+  const all = await r.json(), peaks = (Array.isArray(all) ? all : [all]).map(o => {
+    const v = feelsHours(o.hourly).filter(x => watDay(x[0]) === tomorrow).map(x => x[1]);
+    return v.length ? Math.max(...v) : null;
+  });
+  const keys = await vapid(env), writes = [];
+  let sent = 0;
+  for (let i = 0; i < subs.length; i++) {
+    const warned = JSON.parse(subs[i].warned || "{}"), hot = [];
+    for (const x of lists[i]) {
+      const k = x.lat + "," + x.lon, f = peaks[at[k]], w = warned[k];
+      if (f == null || f < DANGER) continue;
+      // Hot spells can last for weeks, so during one, warn again only every few days, or if it gets worse.
+      const days = w ? Math.round((Date.parse(tomorrow) - Date.parse(w.d)) / DAY_MS) : Infinity;
+      if (days < REPEAT_DAYS && f < w.f + 2 && f < EXTREME) continue;
+      warned[k] = { d: tomorrow, f: Math.round(f) };
+      hot.push({ name: x.name, f });
+    }
+    let status = 0, msg = null;
+    if (hot.length) {
+      hot.sort((a, b) => b.f - a.f);
+      msg = JSON.stringify({ title: (hot[0].f >= EXTREME ? "Extreme danger" : "Dangerous heat") + " tomorrow", body: hot.map(x => x.name + ": feels like " + (x.f > 55 ? "55+" : Math.round(x.f)) + "°C").join("\n") + "\nTap to plan your day." });
+      await env.DB.prepare("UPDATE subs SET msg=? WHERE id=?").bind(msg, subs[i].id).run();
+      status = await sendPush(subs[i].endpoint, keys);
+      sent++;
+    }
+    if (status === 404 || status === 410) writes.push(env.DB.prepare("DELETE FROM subs WHERE id=?").bind(subs[i].id));
+    else writes.push(env.DB.prepare("UPDATE subs SET day=?,warned=? WHERE id=?").bind(today, JSON.stringify(warned), subs[i].id));
+  }
+  await env.DB.batch(writes);
+  return note({ checked: subs.length, sent });
 }
 
 function same(a, b) {
@@ -189,6 +320,7 @@ async function stats(env, url) {
       SUM(name='reading' AND lv IN ('Dangerous','Extreme danger')) AS dangerous_readings
     FROM events WHERE day >= ?`, from);
   // People who used the app on two or more different days in the period.
+  const [alerts] = await q("SELECT COUNT(*) AS n FROM subs");
   const [ret] = await q(`SELECT COUNT(*) AS returning_people FROM (SELECT device FROM events WHERE day >= ? GROUP BY device HAVING COUNT(DISTINCT day) >= 2)`, from);
   const states = await q(`SELECT COALESCE(region,'Unknown') AS state, COUNT(DISTINCT device) AS people FROM events
     WHERE day >= ? AND country='NG' GROUP BY region ORDER BY people DESC`, from);
@@ -210,6 +342,7 @@ async function stats(env, url) {
     totals: {
       ...t,
       returning_people: ret?.returning_people ?? 0,
+      alerts_on: alerts?.n ?? 0,
       minutes_per_visit: t.visits ? Math.round((t.minutes_used / t.visits) * 10) / 10 : 0,
     },
     by_state: states, by_country: countries, levels_seen: levels, daily,

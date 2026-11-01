@@ -1,4 +1,4 @@
-const CACHE = "reezr-heat-v38";
+const CACHE = "reezr-heat-v39";
 const CORE = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/apple-touch-icon.png", "icons/logo-mark.png"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
@@ -21,4 +21,23 @@ self.addEventListener("fetch", e => {
       return res;
     }).catch(() => caches.match(r, { ignoreSearch: true }).then(m => m || caches.match("./")))
   );
+});
+// Heat alerts: a push carries no words, so ask the server what to show.
+self.addEventListener("push", e => {
+  e.waitUntil((async () => {
+    let m = { title: "Reezr Heat alert", body: "Open the app to see tomorrow's heat." };
+    try {
+      const sub = await self.registration.pushManager.getSubscription();
+      const r = await fetch("/api/push/msg", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ endpoint: sub.endpoint }) });
+      if (r.ok) m = await r.json();
+    } catch (err) {}
+    await self.registration.showNotification(m.title, { body: m.body, icon: "icons/icon-192.png", tag: "rh-alert" });
+  })());
+});
+self.addEventListener("notificationclick", e => {
+  e.notification.close();
+  e.waitUntil(self.clients.matchAll({ type: "window", includeUncontrolled: true }).then(l => {
+    const open = l.find(c => "focus" in c);
+    return open ? open.focus() : self.clients.openWindow("./");
+  }));
 });
