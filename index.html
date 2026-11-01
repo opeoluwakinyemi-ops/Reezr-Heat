@@ -55,7 +55,7 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .band.hero .sky{display:none}
 .band.hero h2{font-size:28px;line-height:1.15}
 .street{margin:14px -20px 0}
-.street svg{display:block;width:100%;height:auto}
+.street svg{display:block;width:100%;height:auto;overflow:visible}
 .lvs{display:grid;gap:8px}
 .lv{display:flex;gap:12px;align-items:center}
 .lv b{flex:none;width:96px;padding:8px 4px;text-align:center;color:#fff;border-radius:10px;font:800 15px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif}
@@ -166,7 +166,32 @@ ul.scenes svg{flex:none;width:112px;height:84px;border-radius:12px}
 .folk span{flex:1;min-width:0}
 .folk .pic{flex:none;width:52px;height:52px}
 .folk svg.i{color:var(--acc)}
-.intro{margin:0;font-size:17px}
+.ab-hero{border-radius:24px;overflow:hidden;color:#fff;text-align:center;padding:32px 20px 0;background:linear-gradient(180deg,#083f55 0%,#14708a 45%,#f2b277 92%)}
+.pill{display:inline-block;padding:4px 12px;border-radius:999px;background:#fff;color:#0a5f7c;font:700 13px "Instrument Sans",system-ui,sans-serif}
+.ab-hero h2{font-size:clamp(34px,6.2vw,68px);line-height:1.08;letter-spacing:-.5px;margin-top:12px}
+.ab-hero p{max-width:640px;margin:12px auto 0;font-size:clamp(17px,1.8vw,21px)}
+.ab-hero .street{margin:24px -20px 0}
+.ab-sec{margin-top:36px}
+.eyebrow{display:block;font:700 13px "Instrument Sans",system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--acc);margin-bottom:8px}
+.ab-two h3,.founder h3{font-size:clamp(28px,3.6vw,46px);line-height:1.12}
+.ab-two p{margin:12px 0 0;font-size:17px}
+.nums{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.nums>div{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px}
+.nums b{display:block;font:800 clamp(30px,3.8vw,50px)/1.1 "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;color:var(--heat)}
+.nums span{display:block;margin-top:6px;font-size:14px;color:var(--mut)}
+.tl{list-style:none;margin:8px 0 0;padding:0 0 0 22px;border-left:3px solid var(--line);display:grid;gap:20px}
+.tl li{position:relative;margin:0}
+.tl li::before{content:"";position:absolute;left:-31px;top:5px;width:15px;height:15px;border-radius:50%;background:var(--heat);border:3px solid var(--bg)}
+.tl span{display:block;font-size:13px;font-weight:700;color:var(--acc)}
+.tl b{display:block;font:800 20px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif}
+.tl p{margin:4px 0 0}
+.founder img{display:block;width:160px;height:160px;object-fit:cover;border-radius:50%;margin-bottom:14px}
+.founder strong{display:block;color:var(--mut);margin-top:4px}
+.founder p{margin:10px 0 0}
+.founder a{display:inline-block;margin-top:10px;color:var(--acc)}
+.faq{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:4px 16px}
+.ab-end{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;text-align:center}
+.ab-end p{margin:0 0 6px}
 .how{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:12px}
 .how li{display:flex;gap:12px;align-items:center;margin:0}
 .how .tic{background:var(--bg)}
@@ -240,6 +265,31 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(560px,100%)}
 .lv{display:block}
 .lv b{display:block;width:100%;margin-bottom:8px}
 .band.hero h2{font-size:34px}
+#v-about{max-width:none}
+.ab-hero{padding-top:56px}
+.ab-sec{margin-top:64px}
+.ab-two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:start}
+.ab-two p:first-child{margin-top:26px}
+.ab-two p{font-size:19px}
+.nums{grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.nums>div{padding:24px}
+.nums span{font-size:15px}
+.how{gap:24px}
+.how li{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px}
+.how b{font-size:19px}
+.tl{grid-template-columns:repeat(3,minmax(0,1fr));gap:32px;padding:0;border:0;margin-top:16px;position:relative}
+.tl::before{content:"";position:absolute;left:0;right:0;top:7px;height:3px;background:var(--line)}
+.tl li{padding-top:28px}
+.tl li::before{left:0;top:0}
+.tl b{font-size:24px}
+.founder{display:grid;grid-template-columns:260px minmax(0,1fr);gap:40px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:24px;padding:40px}
+.founder img{width:260px;height:260px;margin:0}
+.founder p{font-size:18px}
+.faq{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:40px;align-items:start;padding:8px 24px}
+.faq .term:last-child{border-bottom:1px solid var(--line)}
+.ab-end{display:flex;flex-wrap:wrap;gap:12px;align-items:center;padding:32px;text-align:left;margin-bottom:8px}
+.ab-end p{flex:1 1 100%;font-size:19px;margin:0}
+.ab-end .btn{width:auto;margin:0;padding:13px 22px}
 .ngmap{max-height:calc(100vh - 200px)}
 .mapg{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:24px;align-items:start}
 .maplist{margin-top:0;max-height:640px;overflow:auto;scrollbar-width:thin;padding-right:4px}
@@ -295,7 +345,7 @@ html{scroll-padding-top:90px}
 <div class="panel" id="find">
 <h3><span data-ic="map-pin"></span>Where are you?</h3>
 <button class="btn s" id="loc"><span data-ic="locate"></span>Use my location</button>
-<input type="search" id="town" placeholder="Or search your town or area in Nigeria" autocomplete="off" aria-label="Search your town or area">
+<input type="search" id="town" placeholder="Or search your town or area" autocomplete="off" aria-label="Search your town or area">
 <div class="results" id="results"></div>
 <div class="note" id="locmsg" aria-live="polite"></div>
 </div>
@@ -423,7 +473,14 @@ const SCENE={"breeze": "<rect width=\"120\" height=\"90\" fill=\"#dff1fa\"/><rec
 const COOL={i:"zap-off",h:"Stay cool without power",b:[["breeze","Open windows on opposite sides of the room so air can pass through, especially at night."],["wetcloth","Hang a wet cloth or wet sack over a sunny window or doorway."],["lowfloor","Stay on the lowest, shadiest floor. Sit under a tree if the room is hotter than outside."],["cooling","Cool your neck, wrists, armpits and face with a wet cloth."],["outdoorcook","Cook early morning or evening, and outside if you can."]]};
 // Heat stroke comes first on the page, with the steps numbered and calling for help as step one.
 const SOS={h:"Heat stroke: act fast",signs:"Signs: confusion, severe headache, fainting, fits, very hot skin, fast pulse, or no sweating.",steps:["Call 112 or take them to the nearest hospital now.","Move the person to shade. Remove extra clothes.","Cool with wet cloth, fanning and water on the skin.","Give sips of water only if they are awake and alert."]};
-const ABOUT={intro:"Reezr Heat shows how hot it feels where you are in Nigeria, now and through tomorrow, and what to do to stay safe. It is free to use and made by Reezr Climate.",
+// FOUNDER stays null, and its section stays off the page, until the wording and photo are approved.
+const FOUNDER=null;
+const ABOUT={title:"Know the heat before it harms you.",lead:"Reezr Heat shows how hot it feels where you are, how hot it will get, and what to do to stay safe.",
+mission:"No one in Nigeria should be caught out by dangerous heat.",
+why:["Heat can make people seriously ill. Those most at risk, including outdoor workers, traders, babies and elders, often have no simple way to know how dangerous a day will be.","We turn weather data into one clear number and plain advice anyone can act on. It is free to use, built for Nigeria, and keeps working when your connection drops."],
+nums:[["23","Nigerian weather stations used to test our readings"],["23,856","station reports checked, across four seasons"],["106,000+","places you can search, down to your area"],["37","state capitals on the live heat map"]],
+story:[["October 2026","Launched","Reezr Heat went live at reezrheat.com as a free heat guide for Nigeria."],["Today","Growing","Live readings and forecasts, a national heat map, advice for workers, parents, elders and traders, and alerts for your saved places."],["Next","Beyond Nigeria","Reaching more African countries affected by El Niño, each checked against its own weather stations."]],
+maker:"Reezr Heat is made by Reezr Climate, which helps people understand the climate risks where they live.",
 steps:[["phone","Choose your place","Use your location, or search your town or area."],["sun","See how hot it feels","A big number and a heat level, from Comfortable to Extreme danger."],["glass-water","Know what to do","See what to wear, do and avoid. Tap a time on the curve to plan ahead."]],
 faq:[["What does “feels like” mean?","How hot the air feels to your body once humidity is counted. Damp air slows the drying of sweat, so the same temperature can feel much hotter. This is why our number can be higher than the temperature on another weather app."],
 ["How accurate is it?","Reezr Heat blends three weather models and corrects them using Nigerian weather station reports. In our test against 23 stations, across the hot season, Harmattan, the rains and October, the reading was off by about 1.6°C on average, and tomorrow’s forecast by about 1.8°C. The heat level matched the station’s about three times out of four. It can be further off at times, so treat it as a guide."],
@@ -842,7 +899,18 @@ async function drawMap(){
  box.querySelectorAll(".modes button").forEach(b=>b.onclick=()=>{MAP.mode=+b.dataset.m;drawMap()});
  box.querySelectorAll(".ngmap path,.maplist .go").forEach(b=>b.onclick=()=>openCapital(st[+b.dataset.i]));
 }
-function drawAbout(){$("v-about").innerHTML="<div class='panel'><p class='intro'>"+ABOUT.intro+"</p></div><div class='panel'><h3>How it works</h3><ol class='how'>"+ABOUT.steps.map(([a,h,t],i)=>"<li><span class='tic'><svg viewBox='0 0 64 64' aria-hidden='true'>"+ART[a]+"</svg></span><div><b>"+(i+1)+". "+h+"</b><span>"+t+"</span></div></li>").join("")+"</ol></div><div class='panel'><h3>Common questions</h3>"+ABOUT.faq.map(([q,a])=>"<details class='term' name='faq'><summary>"+q+"</summary><p>"+a+"</p></details>").join("")+"</div>"}
+function drawAbout(){
+ const f=FOUNDER;
+ $("v-about").innerHTML="<div class='ab-hero'><span class='pill'>About</span><h2>"+ABOUT.title+"</h2><p>"+ABOUT.lead+"</p><div class='street' aria-hidden='true'>"+STREET+"</div></div>"
+  +"<div class='ab-sec ab-two'><div><span class='eyebrow'>Our mission</span><h3>"+ABOUT.mission+"</h3></div><div>"+ABOUT.why.map(x=>"<p>"+x+"</p>").join("")+"</div></div>"
+  +"<div class='ab-sec nums'>"+ABOUT.nums.map(([n,t])=>"<div><b>"+n+"</b><span>"+t+"</span></div>").join("")+"</div>"
+  +"<div class='ab-sec'><span class='eyebrow'>How it works</span><ol class='how'>"+ABOUT.steps.map(([a,h,t],i)=>"<li><span class='tic'><svg viewBox='0 0 64 64' aria-hidden='true'>"+ART[a]+"</svg></span><div><b>"+(i+1)+". "+h+"</b><span>"+t+"</span></div></li>").join("")+"</ol></div>"
+  +"<div class='ab-sec'><span class='eyebrow'>Our story</span><ol class='tl'>"+ABOUT.story.map(([w,h,t])=>"<li><span>"+w+"</span><b>"+h+"</b><p>"+t+"</p></li>").join("")+"</ol></div>"
+  +(f?"<div class='ab-sec founder'><img src='"+f.photo+"' alt='"+esc(f.name)+"' width='220' height='220'><div><span class='eyebrow'>Meet the founder</span><h3>"+esc(f.name)+"</h3><strong>"+esc(f.title)+"</strong>"+f.bio.map(x=>"<p>"+esc(x)+"</p>").join("")+(f.links||[]).map(([t,u])=>"<a href='"+u+"' target='_blank' rel='noopener'>"+esc(t)+"</a>").join(" ")+"</div></div>":"")
+  +"<div class='ab-sec'><span class='eyebrow'>Common questions</span><div class='faq'>"+ABOUT.faq.map(([q,a])=>"<details class='term' name='faq'><summary>"+q+"</summary><p>"+a+"</p></details>").join("")+"</div></div>"
+  +"<div class='ab-sec ab-end'><p>"+ABOUT.maker+"</p><button class='btn p' id='ab-go'>See the heat where you are</button><a class='btn s' href='mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback'>Email hello@reezrheat.com</a></div>";
+ $("ab-go").onclick=()=>{S.tab="today";render();scrollTo(0,0)}
+}
 // The words open one at a time. A search shows the meanings straight away.
 function drawWords(){const q=$("q").value.trim().toLowerCase(),show=q;
  const r=WORDS.filter(w=>!q||w[0].toLowerCase().includes(q)||w[1].toLowerCase().includes(q));
