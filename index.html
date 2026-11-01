@@ -133,6 +133,15 @@ ul.tips li{display:flex;gap:12px;align-items:center;margin:0}
 .btn[disabled]{opacity:.6;cursor:progress}
 .note{color:var(--mut);font-size:14px;margin-top:8px}
 .alert{border-left:5px solid #b42318;background:var(--card);border-radius:12px;padding:14px;margin-top:12px;border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.sos{background:#a61b29;color:#fff;border-radius:20px;padding:18px 20px}
+.sos h3{font-size:22px;line-height:1.2;display:flex;gap:8px;align-items:center}
+.sos h3 svg.i{width:26px;height:26px}
+.sos p{margin:8px 0 0}
+.sos .call{display:flex;gap:8px;justify-content:center;align-items:center;margin-top:14px;padding:14px;border-radius:14px;background:#fff;color:#a61b29;text-decoration:none;font:800 21px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif}
+.sos .call:focus-visible{outline-color:#fff}
+.sos ol{list-style:none;margin:16px 0 0;padding:0;display:grid;gap:12px}
+.sos li{display:flex;gap:12px;align-items:center;margin:0}
+.sos li b{flex:none;width:34px;height:34px;border-radius:50%;background:#fff;color:#a61b29;display:grid;place-items:center;font:800 18px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif}
 .term{border-bottom:1px solid var(--line);padding:12px 0}.term:last-child{border:0}
 .term summary{font:800 17px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px}
 .term summary::-webkit-details-marker{display:none}
@@ -158,6 +167,8 @@ header{margin:-16px -16px 14px;padding:12px 16px;background:var(--bg);border-bot
 .sharebar:has(#pic[hidden]) #share{grid-column:1/-1}
 #v-safe:not([hidden]){display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 #v-safe .panel{margin-top:0}
+.sos{grid-column:1/-1;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:28px;align-items:center}
+.sos ol{margin-top:0}
 #v-words{width:100%;max-width:760px;margin:0 auto}
 footer{max-width:680px;margin-left:auto;margin-right:auto}
 }
@@ -329,9 +340,10 @@ const GEN={w:[["shirt","Light, loose, light-coloured cotton clothes."]],
 const SAFE=[
 {i:"zap-off",h:"Stay cool without power",b:["Open windows on opposite sides of the room so air can pass through, especially at night.","Hang a wet cloth or wet sack over a sunny window or doorway.","Stay on the lowest, shadiest floor. Sit under a tree if the room is hotter than outside.","Cool your neck, wrists, armpits and face with a wet cloth.","Cook early morning or evening, and outside if you can."]},
 {i:"glass-water",h:"Water and ORS",b:["Sip water through the day. Don’t wait for thirst.","If you sweat a lot, have diarrhoea or vomit, use an ORS sachet. Mix it with exactly the amount of clean water written on the pack.","Drink only clean or treated water. Boil, filter or treat it if you are unsure.","Limit alcohol and very sugary drinks."]},
-{i:"users",h:"Who is at most risk",b:["Babies and young children","Elders and people who live alone","Pregnant women","People with heart, kidney, diabetes or other long-term illness","Outdoor workers: farmers, traders, builders, drivers, bike riders"]},
-{i:"siren",h:"Heat stroke: act fast",b:["Signs: confusion, severe headache, fainting, fits, very hot skin, fast pulse, or no sweating.","Move the person to shade. Remove extra clothes.","Cool with wet cloth, fanning and water on the skin.","Give sips of water only if they are awake and alert.","Call 112 or take them to the nearest hospital now."]}
+{i:"users",h:"Who is at most risk",b:["Babies and young children","Elders and people who live alone","Pregnant women","People with heart, kidney, diabetes or other long-term illness","Outdoor workers: farmers, traders, builders, drivers, bike riders"]}
 ];
+// Heat stroke comes first on the page, with the steps numbered and calling for help as step one.
+const SOS={h:"Heat stroke: act fast",signs:"Signs: confusion, severe headache, fainting, fits, very hot skin, fast pulse, or no sweating.",steps:["Call 112 or take them to the nearest hospital now.","Move the person to shade. Remove extra clothes.","Cool with wet cloth, fanning and water on the skin.","Give sips of water only if they are awake and alert."]};
 const WORDS=[
 ["El Niño","A natural warming of the central and eastern Pacific Ocean that changes weather around the world. It often pushes global temperatures up and shifts where rain falls, but effects differ from place to place."],
 ["La Niña","The opposite of El Niño: a cooling of the same part of the Pacific. It tends to bring different rainfall and temperature patterns."],
@@ -653,7 +665,7 @@ function answer(){
 let planSeen=false;
 function pick(at){S.sel=at;render();
  if(at!=null&&!planSeen){planSeen=true;track("plan")}}
-function drawSafe(){$("v-safe").innerHTML=SAFE.map(s=>"<div class='panel'><h3>"+svg(s.i)+s.h+"</h3><ul>"+s.b.map(x=>"<li>"+x+"</li>").join("")+"</ul></div>").join("")}
+function drawSafe(){$("v-safe").innerHTML="<div class='sos'><div><h3>"+svg("siren")+SOS.h+"</h3><p>"+SOS.signs+"</p><a class='call' href='tel:112'>"+svg("phone")+"Call 112</a></div><ol>"+SOS.steps.map((x,i)=>"<li><b>"+(i+1)+"</b><span>"+x+"</span></li>").join("")+"</ol></div>"+SAFE.map(s=>"<div class='panel'><h3>"+svg(s.i)+s.h+"</h3><ul>"+s.b.map(x=>"<li>"+x+"</li>").join("")+"</ul></div>").join("")}
 // The words open one at a time. A search shows the meanings straight away.
 function drawWords(){const q=$("q").value.trim().toLowerCase(),show=q;
  const r=WORDS.filter(w=>!q||w[0].toLowerCase().includes(q)||w[1].toLowerCase().includes(q));
