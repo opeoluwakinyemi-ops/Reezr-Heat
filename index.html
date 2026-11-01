@@ -753,20 +753,18 @@ function cooler(hs,top){
  if(!t.length)return "No cooler daytime hours. If you must go out, keep it short.";
  return "Cooler to go out: "+t.join(", ").replace(/, ([^,]*)$/," and $1")+".";
 }
-// The one line people came for: how hot it will get and what to do about it. Looks at the rest
-// of today, or tomorrow once today's daytime hours have passed.
+// The one line people came for: how hot it will get today and what to do about it. Once today's
+// daytime hours have passed it only describes now, because Plan ahead covers tomorrow.
 function answer(){
- const H=fcHours(),now=Date.now(),today=H.filter(x=>dayKey(x.at)===dayKey(now));
- if(!H.length)return lvl(nowFeels()).s;
- const tom=!today.some(x=>daytime(hourOf(x.at))),hs=tom?H.filter(x=>dayKey(x.at)===dayKey(now+864e5)):today;
- const {top,from,to}=hottest(hs),peak=tom?top:Math.max(top,nowFeels()),lead=tom?"Tomorrow: ":"";
- const cap=t=>tom?t[0].toLowerCase()+t.slice(1):t;
- if(peak<27)return lead+cap("Comfortable. Normal care is enough.");
- if(peak<32)return lead+cap("Warm. Carry water if you will be out for long.");
+ const H=fcHours(),now=Date.now(),hs=H.filter(x=>dayKey(x.at)===dayKey(now));
+ if(!hs.some(x=>daytime(hourOf(x.at))))return lvl(nowFeels()).s;
+ const {top,from,to}=hottest(hs),peak=Math.max(top,nowFeels());
+ if(peak<27)return "Comfortable. Normal care is enough.";
+ if(peak<32)return "Warm. Carry water if you will be out for long.";
  // Evening: the heat is behind us, so say so rather than naming the next hour as the hottest.
- if(!tom&&top<32)return "Hot now and cooling down. Carry water if you go out.";
- const easing=!tom&&hourOf(now)>=16&&nowFeels()>=top-.5,word=peak<39.5?"Hot":peak<51?"Dangerously hot":"Extremely dangerous heat";
- const first=lead+cap(word)+(easing?(peak<51?" now, easing through the evening. ":" now. "):" from "+from+" to "+to+". ");
+ if(top<32)return "Hot now and cooling down. Carry water if you go out.";
+ const easing=hourOf(now)>=16&&nowFeels()>=top-.5,word=peak<39.5?"Hot":peak<51?"Dangerously hot":"Extremely dangerous heat";
+ const first=word+(easing?(peak<51?" now, easing through the evening. ":" now. "):" from "+from+" to "+to+". ");
  const t=coolTimes(hs),when=t.length?[t[0],...(t.length>1?[t[t.length-1]]:[])].join(" or "):"";
  if(peak>=51)return first+"Stay indoors and keep cool.";
  if(peak>=39.5)return first+(when?"If you must go out, go "+when+" and carry water.":"Stay out of the sun if you can, and carry water if you must go out.");
@@ -790,11 +788,11 @@ async function loadMap(){MAP.asked=Date.now();
  try{const j=await timed("/api/map",1e4);if(j&&j.v){MAP.data=j;MAP.failed=false}else MAP.failed=true}catch(e){MAP.failed=true}
  drawNatl();if(S.tab==="map")drawMap()}
 function drawNatl(){
- // From 8pm today's heat is behind us, so the number looks at tomorrow instead.
- const m=hourOf(Date.now())>=20?2:1,n=MAP.data&&mapAge()<108e5?dangerCount(m):0,all=MAP.data?Object.keys(MAP.data.v).length:0;
- $("natl").hidden=!n;if(n)$("natl-t").textContent="Dangerous heat "+MAP.WHEN[m]+" in "+n+" of "+all+" state capitals";
+ // From 8pm today's heat is behind us, so the line goes away. The Map tab still shows tomorrow.
+ const n=MAP.data&&mapAge()<108e5&&hourOf(Date.now())<20?dangerCount(1):0,all=MAP.data?Object.keys(MAP.data.v).length:0;
+ $("natl").hidden=!n;if(n)$("natl-t").textContent="Dangerous heat today in "+n+" of "+all+" state capitals";
 }
-$("natl").onclick=()=>{S.tab="map";MAP.mode=hourOf(Date.now())>=20?2:1;render();track("tab",{tab:"map"});scrollTo(0,0)};
+$("natl").onclick=()=>{S.tab="map";MAP.mode=1;render();track("tab",{tab:"map"});scrollTo(0,0)};
 function openCapital(x){S.tab="today";S.sel=null;
  loadPlace({name:x.c===x.s||x.s==="FCT Abuja"?x.c:x.c+", "+x.s,lat:x.lat,lon:x.lon},false,"map");scrollTo({top:0,behavior:"smooth"})}
 async function drawMap(){
