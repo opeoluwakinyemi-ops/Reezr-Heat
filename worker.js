@@ -8,6 +8,8 @@
 //   POST /api/e      events from the app (always answers 204, even on bad input)
 //   GET  /api/stats  totals for reports; needs ?key=<STATS_TOKEN>, add &format=csv for a
 //                    daily spreadsheet and &days=N (default 30) for the period
+//   GET  /api/map    feels-like at every state capital, for the heat map. Worked out once an
+//                    hour for everyone, so each phone downloads about 2 KB instead of the forecast.
 
 const EVENTS = new Set(["open", "hide", "reading", "location", "share_link", "share_picture", "tab", "install", "plan"]);
 // Allowed values for each optional field; anything else is dropped.
@@ -33,8 +35,9 @@ let ready = null;
 const ensureSchema = env => (ready ??= env.DB.batch(SCHEMA.map(q => env.DB.prepare(q))).catch(e => { ready = null; throw e; }));
 
 export default {
-  async fetch(req, env) {
+  async fetch(req, env, ctx) {
     const url = new URL(req.url);
+    if (url.pathname === "/api/map") return heatMap(url, env, ctx);
     if (url.pathname === "/api/e") return req.method === "POST" ? collect(req, env) : new Response(null, { status: 405 });
     if (url.pathname === "/api/stats") return stats(env, url);
     if (url.pathname.startsWith("/api/")) return new Response("Not found", { status: 404 });
@@ -76,6 +79,75 @@ async function collect(req, env) {
     console.error("collect failed", e);
   }
   return ok;
+}
+
+// The same blend and corrections as the app (index.html), so the map and a reading agree.
+const MODELS = ["icon_global", "meteofrance_arpege_world", "ecmwf_aifs025_single"];
+const OFF_T = [-.2, -.3, -.4, .1, .1, .7, 0, -.2], OFF_H = [2, 2, 3, 2, 1, -1, 2, 3], LEAN = .7;
+const HOUR_MS = 3600000, MAP_FRESH_MS = 55 * 60000;
+const hourOf = at => new Date(at + HOUR_MS).getUTCHours();
+function hiC(tc, rh) {
+  const T = tc * 9 / 5 + 32;
+  let hi = 0.5 * (T + 61 + (T - 68) * 1.2 + rh * 0.094);
+  if ((hi + T) / 2 >= 80) {
+    hi = -42.379 + 2.04901523 * T + 10.14333127 * rh - 0.22475541 * T * rh - 0.00683783 * T * T - 0.05481717 * rh * rh + 0.00122874 * T * T * rh + 0.00085282 * T * rh * rh - 0.00000199 * T * T * rh * rh;
+    if (rh < 13 && T >= 80 && T <= 112) hi -= ((13 - rh) / 4) * Math.sqrt((17 - Math.abs(T - 95)) / 17);
+    if (rh > 85 && T >= 80 && T <= 87) hi += ((rh - 85) / 10) * ((87 - T) / 5);
+  }
+  return Math.max((hi - 32) * 5 / 9, tc);
+}
+// One place's hours as [time, feels-like].
+function feelsHours(hy) {
+  const out = [];
+  hy.time.forEach((t, i) => {
+    let a = 0, b = 0, n = 0;
+    for (const m of MODELS) {
+      const x = (hy["temperature_2m_" + m] || [])[i], y = (hy["relative_humidity_2m_" + m] || [])[i];
+      if (typeof x === "number" && typeof y === "number") { a += x; b += y; n++; }
+    }
+    if (!n) return;
+    const at = Date.parse(t + "Z"), p = ((hourOf(at) + 23) % 24) / 3, c = Math.floor(p), d = (c + 1) % 8, w = p - c;
+    const tc = a / n + OFF_T[c] * (1 - w) + OFF_T[d] * w, rh = Math.max(1, Math.min(100, b / n + OFF_H[c] * (1 - w) + OFF_H[d] * w));
+    out.push([at, hiC(tc, rh) + LEAN]);
+  });
+  return out;
+}
+async function buildMap(origin, env) {
+  const places = (await (await env.ASSETS.fetch(new Request(origin + "/nigeria-map.json"))).json()).states;
+  const r = await fetch("https://api.open-meteo.com/v1/forecast?latitude=" + places.map(x => x.lat).join(",") + "&longitude=" + places.map(x => x.lon).join(",") +
+    "&hourly=temperature_2m,relative_humidity_2m&past_days=1&forecast_days=3&models=" + MODELS.join(",") + "&timezone=GMT");
+  if (!r.ok) throw new Error("forecast " + r.status);
+  const all = await r.json(), now = Date.now(), today = watDay(now), tomorrow = watDay(now + DAY_MS), v = {};
+  places.forEach((pl, i) => {
+    const h = feelsHours(all[i].hourly), next = h.findIndex(x => x[0] > now);
+    if (next < 1) return;
+    const [a, b] = [h[next - 1], h[next]], peak = day => Math.max(...h.filter(x => watDay(x[0]) === day).map(x => x[1]));
+    const round = x => Math.round(x * 10) / 10;
+    v[pl.s] = [round(a[1] + (b[1] - a[1]) * (now - a[0]) / (b[0] - a[0])), round(peak(today)), round(peak(tomorrow))];
+  });
+  if (Object.keys(v).length < places.length) throw new Error("missing places");
+  return { at: now, v };
+}
+const MAP_SCHEMA = "CREATE TABLE IF NOT EXISTS saved (k TEXT PRIMARY KEY, at INTEGER NOT NULL, v TEXT NOT NULL)";
+async function refreshMap(origin, env) {
+  const m = await buildMap(origin, env), v = JSON.stringify(m);
+  await env.DB.prepare("INSERT OR REPLACE INTO saved (k,at,v) VALUES ('map',?,?)").bind(m.at, v).run();
+  return v;
+}
+// Answers from the saved map and refreshes it in the background once it is an hour old, so
+// nobody waits. If the weather service is down, the last map is sent with its own time on it.
+async function heatMap(url, env, ctx) {
+  const send = (body, status = 200) => new Response(body, { status, headers: { "content-type": "application/json", "cache-control": "public, max-age=300" } });
+  try {
+    await env.DB.prepare(MAP_SCHEMA).run();
+    const row = await env.DB.prepare("SELECT at,v FROM saved WHERE k='map'").first();
+    if (!row) return send(await refreshMap(url.origin, env));
+    if (Date.now() - row.at > MAP_FRESH_MS) ctx.waitUntil(refreshMap(url.origin, env).catch(e => console.error("map refresh failed", e)));
+    return send(row.v);
+  } catch (e) {
+    console.error("map failed", e);
+    return new Response(JSON.stringify({ error: "unavailable" }), { status: 503, headers: { "content-type": "application/json", "cache-control": "no-store" } });
+  }
 }
 
 function same(a, b) {
