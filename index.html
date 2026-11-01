@@ -267,7 +267,7 @@ html{scroll-padding-top:90px}
 <div class="col-a">
 <div class="band" id="band" aria-live="polite">
 <div class="sky" id="sky" aria-hidden="true"><i class="orb" id="orb"></i><i class="star" style="top:18%;right:30%"></i><i class="star" style="top:34%;right:9%"></i><i class="star" style="top:12%;right:12%"></i></div>
-<div class="where" id="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small></div><button id="save" aria-pressed="false"><span data-ic="bookmark"></span><span id="save-l">Save</span></button></div>
+<div class="where" id="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small><small id="air"></small></div><button id="save" aria-pressed="false"><span data-ic="bookmark"></span><span id="save-l">Save</span></button></div>
 <div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><div class="scale" id="scale" role="img"><div class="track"></div><b id="scale-m"></b><div class="names"></div></div><p id="lvlsub"></p><p class="vs" id="vs" hidden></p>
 <div class="acts" id="back-w" hidden><button id="back"><span data-ic="clock"></span>Back to now</button></div></div>
 <div id="start"><h2 id="sh">How hot does it feel where you are?</h2><p id="sp">See the live heat for your town and what to do to stay safe.</p>
@@ -537,15 +537,14 @@ const fmtTime=ms=>new Date(ms).toLocaleTimeString("en-NG",{hour:"numeric",minute
 const fmtDay=ms=>new Date(ms).toLocaleDateString("en-NG",{weekday:"short",day:"numeric",month:"short",timeZone:"Africa/Lagos"});
 const dayKey=ms=>new Date(ms+36e5).toISOString().slice(0,10),hourOf=ms=>new Date(ms+36e5).getUTCHours();
 const hr=h=>(h%12||12)+(h%24<12?"am":"pm"),daytime=h=>h>=6&&h<=21;
-// One line saying where the reading is from and how it was taken.
+// Where the reading is from, when it was taken, and the air temperature and humidity on their own line.
 function whereText(){
- if(S.t==null)return {p:S.loading?S.loading.name:"",w:""};
+ if(S.t==null)return {p:S.loading?S.loading.name:"",w:"",a:""};
  const f=picked();
  const near=S.place&&S.place.approx?"Approximate location · ":"";
- if(f)return {p:S.place.name,w:near+"Forecast for "+fmtTime(f.at)+", "+fmtDay(f.at)+" · "+Math.round(f.t)+"°C, "+Math.round(f.h)+"% humidity"};
- const r=Math.round(S.t)+"°C, "+Math.round(S.h)+"% humidity";
+ if(f)return {p:S.place.name,w:near+"Forecast for "+fmtTime(f.at)+", "+fmtDay(f.at),a:Math.round(f.t)+"°C, "+Math.round(f.h)+"% humidity"};
  // A saved reading more than two hours old is labelled as such until the refresh arrives.
- return {p:S.place.name,w:near+(Date.now()-S.at>72e5?"Last reading ":"Live reading ")+fmtTime(S.at)+", "+fmtDay(S.at)+" · "+r};
+ return {p:S.place.name,w:near+(Date.now()-S.at>72e5?"Last reading ":"Live reading ")+fmtTime(S.at)+", "+fmtDay(S.at),a:Math.round(S.t)+"°C, "+Math.round(S.h)+"% humidity"};
 }
 function tips(list,avoid){return list.map(([i,t,plain])=>"<li><span class='tic"+(avoid&&!plain?" x":"")+"'><svg viewBox='0 0 64 64' aria-hidden='true'>"+ART[i]+"</svg></span><span>"+t+"</span></li>").join("")}
 
@@ -560,7 +559,7 @@ function render(){
  drawSaved();
  $("reading").hidden=!has;$("start").hidden=has;$("where").hidden=!wt.p;$("pic").hidden=!has;
  $("back-w").hidden=S.sel==null;drawPlan();
- $("place").textContent=wt.p;$("when").textContent=wt.w;
+ $("place").textContent=wt.p;$("when").textContent=wt.w;$("air").textContent=wt.a;
  $("em").innerHTML=EM;
  if(!has){
   // No reading yet: never show a number. Invite a place, and give advice that is always true.
@@ -1035,7 +1034,7 @@ async function makePicture(){
  g.fillStyle="#fff";g.fillRect(0,0,W,c.height);g.textBaseline="alphabetic";
  // Coloured top: measure first so the background can be painted before the text.
  g.font="700 44px "+bf;const pL=lines(g,wt.p,TW-56);
- g.font="500 30px "+bf;const wL=lines(g,wt.w,TW-56);
+ g.font="500 30px "+bf;const wL=[...lines(g,wt.w,TW-56),...lines(g,wt.a,TW-56)];
  g.font="500 36px "+bf;const sL=lines(g,S.sel==null?answer():lv.s,TW);
  const yLogo=P+50,yPlace=yLogo+90,yWhen=yPlace+(pL.length-1)*52+44,yBig=yWhen+(wL.length-1)*40+200,yLvl=yBig+82,ySent=yLvl+58;
  let y=ySent+(sL.length-1)*48+46;
