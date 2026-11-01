@@ -134,9 +134,11 @@ ul.tips li{display:flex;gap:12px;align-items:center;margin:0}
 .note{color:var(--mut);font-size:14px;margin-top:8px}
 .alert{border-left:5px solid #b42318;background:var(--card);border-radius:12px;padding:14px;margin-top:12px;border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
 .term{border-bottom:1px solid var(--line);padding:12px 0}.term:last-child{border:0}
-.term summary{font:800 17px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;list-style:none;pointer-events:none}
+.term summary{font:800 17px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px}
 .term summary::-webkit-details-marker{display:none}
-.term p{margin:2px 0 0}
+.term summary::after{content:"+";font-size:22px;line-height:1;color:var(--acc)}
+.term[open] summary::after{content:"\2212"}
+.term p{margin:8px 0 0}
 footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer a{color:inherit}
 /* Phone: one column. The two groups dissolve so Plan ahead can sit straight under the reading. */
 #v-today{display:flex;flex-direction:column}
@@ -157,10 +159,6 @@ header{margin:-16px -16px 14px;padding:12px 16px;background:var(--bg);border-bot
 #v-safe:not([hidden]){display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 #v-safe .panel{margin-top:0}
 #v-words{width:100%;max-width:760px;margin:0 auto}
-.term summary{pointer-events:auto;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px}
-.term summary::after{content:"+";font-size:22px;line-height:1;color:var(--acc)}
-.term[open] summary::after{content:"\2212"}
-.term p{margin-top:8px}
 footer{max-width:680px;margin-left:auto;margin-right:auto}
 }
 /* Laptop and desktop: reading and search on the left, plan and advice on the right. */
@@ -350,8 +348,43 @@ const WORDS=[
 ["ORS","Oral rehydration salts: a sachet mixed with clean water that replaces water and salts lost through sweat, vomiting or diarrhoea."],
 ["Drought","A long period with much less rain than normal, causing water and food shortages."],
 ["Harmattan","A dry, dusty wind from the Sahara that blows over West Africa, mostly from November to March. It brings dry air, haze and cooler nights."],
-["Early warning","A message that tells people a hazard is coming in time to prepare, such as a heat or flood alert."]
-];
+["Early warning","A message that tells people a hazard is coming in time to prepare, such as a heat or flood alert."],
+["Torrential rainfall","Very heavy rain that pours down fast, often for a short time. Drains and rivers cannot carry the water away quickly enough, so it can cause flash floods."],
+["Flood","Water covering land that is normally dry. It can come from heavy rain, rivers overflowing, blocked drains or water released from dams."],
+["Flash flood","A flood that rises within minutes or a few hours of heavy rain, often with little warning. Even shallow moving water can knock a person over or carry a car away, so do not walk or drive through it."],
+["Dam release","Water let out of a dam when it gets too full, to protect the dam. It can raise rivers and flood towns downstream, sometimes far away."],
+["Rainy season","The months when most of the year’s rain falls. In Nigeria it starts earlier and lasts longer in the south, roughly March to October, and is shorter in the north, roughly June to September."],
+["Dry season","The months with little or no rain, roughly November to March in much of Nigeria and longer in the far north."],
+["August break","A short, drier spell in the rainy season, common in southern Nigeria around late July and August. Also called the little dry season."],
+["Dry spell","Days or weeks with little or no rain during the rainy season. It can harm crops that have already been planted."],
+["Monsoon","A seasonal change of wind that brings rain. In West Africa, moist wind from the Atlantic Ocean moves inland in the middle of the year and brings the rainy season."],
+["Thunderstorm","A storm with lightning and thunder, often with heavy rain and strong wind. If you can hear thunder, lightning is close enough to be a danger, so go inside a solid building."],
+["Lightning","A giant electric spark in a storm. It tends to strike tall or lone objects, so stay away from lone trees, open fields, metal poles and water."],
+["Windstorm","Strong wind, often at the start of a rainstorm, that can rip off roofs and bring down trees and power lines."],
+["Ocean surge","Sea water pushed onto land by strong waves and wind, flooding coastal areas. It has hit parts of the Lagos coast."],
+["Sea level rise","The slow rise of the ocean as the planet warms, because ice melts and warmer water takes up more space. It raises the risk of flooding on coasts such as Lagos and the Niger Delta."],
+["Gully erosion","Running water cuts deep channels into the soil, which can swallow roads, farms and houses. It is a serious problem in south-east Nigeria."],
+["Desertification","Dry land losing its soil and plants until it can hardly grow anything. Drought, overgrazing and cutting down trees all drive it, and it affects northern Nigeria."],
+["Dust haze","Fine dust hanging in the air, common during Harmattan. It makes it hard to see far and can irritate the eyes, nose and chest."],
+["Feels-like temperature","What the air feels like to your body once humidity is counted. This is the big number Reezr Heat shows."],
+["Heat cramps","Painful muscle spasms, often in the legs or belly, during heavy sweating or hard work in the heat. Stop, rest somewhere cool and drink water or ORS."],
+["Heat rash","Small, itchy red spots where sweat is trapped in the skin, often on the neck, chest or in skin folds. Keep the skin cool and dry."],
+["Heat dome","Hot air held over a wide area by high pressure in the atmosphere, like a lid on a pot. It can keep extreme heat in place for days or weeks."],
+["Urban heat island","Towns and cities staying hotter than the countryside around them, because concrete and roads soak up heat and there are fewer trees. The difference is often greatest at night."],
+["UV index","How strong the sun’s burning rays are. A high number means skin and eyes can be damaged quickly. In Nigeria it is often very high around midday."],
+["Air quality","How clean the air is to breathe. Smoke, soot, dust and traffic fumes make it worse and can harm the lungs and heart."],
+["Forecast","A best estimate of future weather, made with computer models of the atmosphere. It is less sure the further ahead it looks."],
+["NiMet","The Nigerian Meteorological Agency, the government body that issues Nigeria’s official weather forecasts and warnings."],
+["Seasonal Climate Prediction","NiMet’s yearly forecast for the seasons ahead, covering things like when the rains should start and end and how much rain to expect."],
+["Inter-Tropical Discontinuity","The boundary over West Africa where dry desert air meets moist air from the Atlantic. Rain generally falls south of it, and it moves north and south with the seasons. Also called the ITD."],
+["Global warming","The rise in Earth’s average temperature since the 1800s, mainly caused by human activity such as burning fossil fuels."],
+["Greenhouse gases","Gases such as carbon dioxide and methane that trap heat in the air, like a blanket around the Earth."],
+["Fossil fuels","Coal, oil and gas. Burning them releases most of the greenhouse gases that drive climate change."],
+["Adaptation","Changing how we live and build to cope with a changing climate, such as better drains, more shade and heat warnings."],
+["Mitigation","Cutting the greenhouse gases that cause climate change, such as by using solar power or protecting forests."],
+["Resilience","How well a person, community or system can cope with a shock such as a flood or heat wave, and recover from it."],
+["Food security","Everyone having reliable access to enough safe food. Drought and floods can threaten it."]
+].sort((a,b)=>a[0].localeCompare(b[0]));
 
 // place: {name, lat, lon}; at: time of the live reading (ms).
 // t/h stay null until there is a real reading; loading is the place being fetched.
@@ -621,8 +654,8 @@ let planSeen=false;
 function pick(at){S.sel=at;render();
  if(at!=null&&!planSeen){planSeen=true;track("plan")}}
 function drawSafe(){$("v-safe").innerHTML=SAFE.map(s=>"<div class='panel'><h3>"+svg(s.i)+s.h+"</h3><ul>"+s.b.map(x=>"<li>"+x+"</li>").join("")+"</ul></div>").join("")}
-// Wider screens list the words and open one at a time. Phones, and a search, show the meanings.
-function drawWords(){const q=$("q").value.trim().toLowerCase(),show=q||!matchMedia("(min-width:720px)").matches;
+// The words open one at a time. A search shows the meanings straight away.
+function drawWords(){const q=$("q").value.trim().toLowerCase(),show=q;
  const r=WORDS.filter(w=>!q||w[0].toLowerCase().includes(q)||w[1].toLowerCase().includes(q));
  $("terms").innerHTML=r.length?r.map(w=>"<details class='term'"+(show?" open":" name='word'")+"><summary>"+w[0]+"</summary><p>"+w[1]+"</p></details>").join(""):"No match found.";}
 
