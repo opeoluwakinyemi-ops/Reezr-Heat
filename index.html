@@ -159,7 +159,7 @@ ul.scenes svg{flex:none;width:112px;height:84px;border-radius:12px}
 .how .tic{background:var(--bg)}
 .how b{display:block}
 .term a{color:var(--acc)}
-.natl{order:1;display:flex;width:100%;align-items:center;gap:8px;margin-top:12px;padding:11px 12px;text-align:left;border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--ink);font:600 15px/1.3 "Instrument Sans",system-ui,sans-serif;cursor:pointer}
+.natl{display:flex;width:100%;align-items:center;gap:8px;margin-top:12px;padding:11px 12px;text-align:left;border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--ink);font:600 15px/1.3 "Instrument Sans",system-ui,sans-serif;cursor:pointer}
 .natl span:nth-child(2){flex:1;min-width:0}
 .natl svg.i{color:var(--acc)}
 .natl svg.i:first-child{color:#a61b29}
@@ -180,11 +180,11 @@ ul.scenes svg{flex:none;width:112px;height:84px;border-radius:12px}
 .term[open] summary::after{content:"\2212"}
 .term p{margin:8px 0 0}
 footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer a{color:inherit}
-/* Phone: one column. The two groups dissolve so Plan ahead can sit straight under the reading. */
+/* Phone: one column. The two groups dissolve so search can sit under the reading, then Plan ahead. */
 #v-today{display:flex;flex-direction:column}
 .col-a,.col-b{display:contents}
-#band{order:1}#plan{order:2}.col-a>.panel{order:3}
-.who,#who-p,.advice,#em,.sharebar,#sharemsg{order:4}
+#band{order:1}#find{order:2}.natl{order:3}#plan{order:4}#saved{order:5}
+.who,#who-p,.advice,#em,.sharebar,#sharemsg{order:6}
 /* Tablet and up: advice side by side, Stay safe and Words use the width. */
 @media (min-width:720px){
 .wrap{max-width:760px}
@@ -274,15 +274,15 @@ html{scroll-padding-top:90px}
 <div class="acts" id="acts"><button id="go-loc"><span data-ic="locate"></span>Use my location</button><button id="go-town"><span data-ic="search"></span>Search my town</button></div></div>
 </div>
 
-<button class="natl" id="natl" hidden><span data-ic="map-pin"></span><span id="natl-t"></span><span data-ic="chevron-right"></span></button>
-
-<div class="panel">
+<div class="panel" id="find">
 <h3><span data-ic="map-pin"></span>Where are you?</h3>
 <button class="btn s" id="loc"><span data-ic="locate"></span>Use my location</button>
 <input type="search" id="town" placeholder="Or search your town or area in Nigeria" autocomplete="off" aria-label="Search your town or area">
 <div class="results" id="results"></div>
 <div class="note" id="locmsg" aria-live="polite"></div>
 </div>
+
+<button class="natl" id="natl" hidden><span data-ic="map-pin"></span><span id="natl-t"></span><span data-ic="chevron-right"></span></button>
 
 <div class="panel" id="saved" hidden>
 <h3><span data-ic="bookmark"></span>Your places</h3>
@@ -393,7 +393,7 @@ const SAFE=[
 {i:"glass-water",h:"Water and ORS",b:["Sip water through the day. Don’t wait for thirst.","If you sweat a lot, have diarrhoea or vomit, use an ORS sachet. Mix it with exactly the amount of clean water written on the pack.","Drink only clean or treated water. Boil, filter or treat it if you are unsure.","Limit alcohol and very sugary drinks."]},
 ];
 // Who is at most risk. Tapping someone with their own advice opens it on Today; k is its WHO key.
-const RISK={i:"users",h:"Who is at most risk",p:[["baby","Babies and young children","parent"],["elder","Elders and people who live alone","elder"],["pregnant","Pregnant women"],["heart-pulse","People with heart, kidney, diabetes or other long-term illness"],["worker","Outdoor workers: farmers, builders, drivers, bike riders","worker"],["trader","Traders","trader"]]};
+const RISK={i:"users",h:"Who is at most risk",p:[["baby","Babies and young children","parent"],["elder","Elders and people who live alone","elder"],["pregnant","Pregnant women – speak to your doctor"],["heart-pulse","People with heart, kidney, diabetes or other long-term illness – speak to your doctor"],["worker","Outdoor workers: farmers, builders, drivers, bike riders","worker"],["trader","Traders","trader"]]};
 Object.assign(ART,{"baby": "<circle cx=\"32\" cy=\"34\" r=\"24\" fill=\"#f7c9d4\"/><circle cx=\"32\" cy=\"36\" r=\"17\" fill=\"#8f5a35\"/><path fill=\"#f7c9d4\" d=\"M15 34c2-12 9-17 17-17s15 5 17 17c-6-7-11-9-17-9s-11 2-17 9z\"/><circle cx=\"26\" cy=\"37\" r=\"2.5\" fill=\"#12202b\"/><circle cx=\"38\" cy=\"37\" r=\"2.5\" fill=\"#12202b\"/><path fill=\"none\" stroke=\"#12202b\" stroke-width=\"2.5\" stroke-linecap=\"round\" d=\"M27 44c3 2.5 7 2.5 10 0\"/>", "elder": "<circle cx=\"27\" cy=\"15\" r=\"10\" fill=\"#7a4a2b\"/><path fill=\"#e8edf0\" d=\"M17 14c1-8 6-10 10-10s9 2 10 10c-3-3-6-4-10-4s-7 1-10 4z\"/><path fill=\"#6f4aa8\" d=\"M15 60V38c0-8 5-12 12-12s12 4 12 12v22z\"/><path fill=\"none\" stroke=\"#7a4a2b\" stroke-width=\"5.5\" stroke-linecap=\"round\" d=\"M36 33l10 8\"/><path fill=\"none\" stroke=\"#8a5a33\" stroke-width=\"4\" stroke-linecap=\"round\" d=\"M47 41v19\"/>", "pregnant": "<circle cx=\"29\" cy=\"13\" r=\"9\" fill=\"#8f5a35\"/><path fill=\"#2b3a45\" d=\"M20 11c0-6 4-9 9-9s9 3 9 8c-3-2-6-3-9-3s-6 1-9 4z\"/><path fill=\"#e0568a\" d=\"M20 24c5-3 13-3 17 0 2 3 3 7 3 10 6 3 7 11 2 15-3 2-5 3-6 11H18c1-12 1-24 2-36z\"/><path fill=\"#fff\" opacity=\".28\" d=\"M38 36c4 3 4 9 0 12-2-4-2-8 0-12z\"/>", "worker": "<circle cx=\"32\" cy=\"19\" r=\"10\" fill=\"#7a4a2b\"/><path fill=\"#f5b41e\" d=\"M20 17c0-8 6-12 12-12s12 4 12 12z\"/><rect x=\"16\" y=\"15\" width=\"32\" height=\"4\" rx=\"2\" fill=\"#d9960f\"/><path fill=\"#e8823a\" d=\"M16 60V40c0-7 6-11 16-11s16 4 16 11v20z\"/><path fill=\"#ffe36b\" d=\"M21 40h22v5H21zM21 50h22v5H21z\"/>", "trader": "<path fill=\"#8a5a33\" d=\"M12 22h4v38h-4zM48 22h4v38h-4z\"/><path fill=\"#d9534f\" d=\"M8 8h48l4 15H4z\"/><path fill=\"#fff\" d=\"M18 8h9l-1.5 15H15zM37 8h9l3 15H38.5z\"/><path fill=\"#a06a36\" d=\"M10 42h44v18H10z\"/><circle cx=\"20\" cy=\"37\" r=\"5\" fill=\"#e8823a\"/><circle cx=\"32\" cy=\"37\" r=\"5\" fill=\"#ffc93c\"/><circle cx=\"44\" cy=\"37\" r=\"5\" fill=\"#2f9e5b\"/>"});
 // Staying cool without power, each with its own drawing made for this app.
 const SCENE={"breeze": "<rect width=\"120\" height=\"90\" fill=\"#dff1fa\"/><rect y=\"74\" width=\"120\" height=\"16\" fill=\"#e4c98f\"/><path fill=\"#c2572f\" d=\"M60 8 14 32h92z\"/><path fill=\"#f3e3c8\" d=\"M20 32h80v42H20z\"/><path fill=\"#dff1fa\" stroke=\"#8a5a33\" stroke-width=\"2\" d=\"M20 42h9v18h-9zM91 42h9v18h-9z\"/><g fill=\"none\" stroke=\"#2e8fd3\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 46c10-4 16 4 26 0s18-4 28 0 18 4 28 0 16 3 26-1\"/><path d=\"m106 40 6 5-5 6\"/><path d=\"M3 57c10-4 16 4 26 0s18-4 28 0 18 4 28 0 16 3 26-1\"/><path d=\"m106 51 6 5-5 6\"/></g>", "wetcloth": "<rect width=\"120\" height=\"90\" fill=\"#f3e3c8\"/><rect x=\"28\" y=\"10\" width=\"64\" height=\"70\" rx=\"2\" fill=\"#8a5a33\"/><rect x=\"33\" y=\"15\" width=\"54\" height=\"60\" fill=\"#fdf0c4\"/><circle cx=\"70\" cy=\"28\" r=\"10\" fill=\"#ffc93c\"/><path fill=\"#62b9e8\" d=\"M26 11h68v5H26z\"/><path fill=\"#62b9e8\" d=\"M33 16h54v40c-5 4-9 4-13.5 0s-9-4-13.5 0-9 4-13.5 0-9-4-13.5 0z\"/><path fill=\"#fff\" opacity=\".3\" d=\"M42 16h5v37h-5zM68 16h5v37h-5z\"/><path fill=\"#2e8fd3\" d=\"M42 60c2 3 3 5 3 6.5a3 3 0 0 1-6 0c0-1.5 1-3.5 3-6.5zM60 62c2 3 3 5 3 6.5a3 3 0 0 1-6 0c0-1.5 1-3.5 3-6.5zM78 60c2 3 3 5 3 6.5a3 3 0 0 1-6 0c0-1.5 1-3.5 3-6.5z\"/>", "lowfloor": "<rect width=\"120\" height=\"90\" fill=\"#dff1fa\"/><rect y=\"74\" width=\"120\" height=\"16\" fill=\"#e4c98f\"/><circle cx=\"104\" cy=\"14\" r=\"8\" fill=\"#ffc93c\"/><path fill=\"#c2572f\" d=\"M36 4 6 24h60z\"/><path fill=\"#f3e3c8\" d=\"M11 24h50v25H11z\"/><path fill=\"#b9d9e8\" d=\"M11 49h50v25H11z\"/><path fill=\"#7fc4e8\" stroke=\"#8a5a33\" stroke-width=\"1.5\" d=\"M19 30h12v11H19zM41 30h12v11H41z\"/><path stroke=\"#8a5a33\" stroke-width=\"2\" d=\"M11 49h50\"/><circle cx=\"36\" cy=\"54\" r=\"4.5\" fill=\"#7a4a2b\"/><path fill=\"#e8823a\" d=\"M31 72v-9c0-3 2-4.5 5-4.5s5 1.5 5 4.5v9z\"/><path fill=\"#a06a36\" d=\"M92 74c1-10 1-19 3-28h5c-2 9-2 18-2 28z\"/><path fill=\"#2f9e5b\" d=\"M97 22c-11 0-20 7-20 16 0 7 7 12 20 12s20-5 20-12c0-9-9-16-20-16z\"/><circle cx=\"83\" cy=\"56\" r=\"4.5\" fill=\"#7a4a2b\"/><path fill=\"#38a4df\" d=\"M78 74v-9c0-3 2-4.5 5-4.5s5 1.5 5 4.5v9z\"/>", "cooling": "<rect width=\"120\" height=\"90\" fill=\"#dff1fa\"/><path stroke=\"#8f5a35\" stroke-width=\"7\" stroke-linecap=\"round\" fill=\"none\" d=\"M46 37 31 56M74 37l15 19\"/><circle cx=\"60\" cy=\"16\" r=\"11\" fill=\"#8f5a35\"/><rect x=\"55\" y=\"25\" width=\"10\" height=\"7\" fill=\"#8f5a35\"/><path fill=\"#f3b23f\" d=\"M43 33c5-3 29-3 34 0l-2 33H45z\"/><path fill=\"#38608a\" d=\"M45 66h30l1 24H64l-4-14-4 14H44z\"/><g fill=\"#2e8fd3\" stroke=\"#fff\" stroke-width=\"1.5\"><circle cx=\"60\" cy=\"16\" r=\"4.5\"/><circle cx=\"60\" cy=\"29\" r=\"4.5\"/><circle cx=\"46\" cy=\"39\" r=\"4.5\"/><circle cx=\"74\" cy=\"39\" r=\"4.5\"/><circle cx=\"30\" cy=\"57\" r=\"4.5\"/><circle cx=\"90\" cy=\"57\" r=\"4.5\"/></g>", "outdoorcook": "<rect width=\"120\" height=\"90\" fill=\"#fde3bb\"/><circle cx=\"96\" cy=\"58\" r=\"15\" fill=\"#ffb35c\"/><rect y=\"58\" width=\"120\" height=\"32\" fill=\"#e4c98f\"/><path fill=\"#2b3a45\" d=\"M32 30h44c1 15-3 28-12 30H44c-9-2-13-15-12-30z\"/><path fill=\"#2b3a45\" d=\"M28 27h52v5H28z\"/><path fill=\"#66757f\" d=\"M31 66h14l2 8H29zM63 66h14l2 8H61zM47 70h14l2 6H45z\"/><path fill=\"#e8823a\" d=\"M54 44c8 7 13 13 13 20 0 6-6 9-13 9s-13-3-13-9c0-7 5-13 13-20z\"/><path fill=\"#ffc93c\" d=\"M54 56c4 4 7 7 7 10 0 3-3 5-7 5s-7-2-7-5c0-3 3-6 7-10z\"/>"};
@@ -570,7 +570,7 @@ function render(){
   return}
  const hi=feels(),lv=lvl(hi);
  $("band").style.background=lv.c;$("hi").textContent=shown(hi);
- $("lvl").textContent="Feels like · "+lv.n;$("lvlsub").textContent=S.sel==null?answer():lv.s;
+ $("lvl").textContent="Feels like · "+lv.n;$("lvlsub").textContent=lv.s;
  $("wear").innerHTML=tips(lv.w);$("do").innerHTML=tips(lv.d);$("avoid").innerHTML=tips(lv.a,true);
  $("em").hidden=hi<32;
  drawScale(hi,lv);
@@ -753,8 +753,8 @@ function cooler(hs,top){
  if(!t.length)return "No cooler daytime hours. If you must go out, keep it short.";
  return "Cooler to go out: "+t.join(", ").replace(/, ([^,]*)$/," and $1")+".";
 }
-// The one line people came for: how hot it will get today and what to do about it. Once today's
-// daytime hours have passed it only describes now, because Plan ahead covers tomorrow.
+// One line for shared pictures, which have no Plan ahead: how hot it will get today and what to do
+// about it. Once today's daytime hours have passed it only describes now.
 function answer(){
  const H=fcHours(),now=Date.now(),hs=H.filter(x=>dayKey(x.at)===dayKey(now));
  if(!hs.some(x=>daytime(hourOf(x.at))))return lvl(nowFeels()).s;
