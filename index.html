@@ -292,9 +292,10 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(560px,100%)}
 .tl li{padding-top:28px}
 .tl li::before{left:0;top:0}
 .tl b{font-size:24px}
-.founder{display:grid;grid-template-columns:260px minmax(0,1fr);gap:40px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:24px;padding:40px}
+.founder{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:40px}
+.founder:has(img){display:grid;grid-template-columns:260px minmax(0,1fr);gap:40px;align-items:center}
 .founder img{width:260px;height:260px;margin:0}
-.founder p{font-size:18px}
+.founder p{font-size:18px;max-width:880px}
 .faq{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:40px;align-items:start;padding:8px 24px}
 .faq .term:last-child{border-bottom:1px solid var(--line)}
 .ab-end{display:flex;flex-wrap:wrap;gap:12px;align-items:center;padding:32px;text-align:left;margin-bottom:8px}
@@ -491,8 +492,8 @@ const SCENE={"breeze": "<rect width=\"120\" height=\"90\" fill=\"#dff1fa\"/><rec
 const COOL={i:"zap-off",h:"Stay cool without power",b:[["breeze","Open windows on opposite sides of the room so air can pass through, especially at night."],["wetcloth","Hang a wet cloth or wet sack over a sunny window or doorway."],["lowfloor","Stay on the lowest, shadiest floor. Sit under a tree if the room is hotter than outside."],["cooling","Cool your neck, wrists, armpits and face with a wet cloth."],["outdoorcook","Cook early morning or evening, and outside if you can."]]};
 // Heat stroke comes first on the page, with the steps numbered and calling for help as step one.
 const SOS={h:"Heat stroke: act fast",signs:"Signs: confusion, severe headache, fainting, fits, very hot skin, fast pulse, or no sweating.",steps:["Call 112 or take them to the nearest hospital now.","Move the person to shade. Remove extra clothes.","Cool with wet cloth, fanning and water on the skin.","Give sips of water only if they are awake and alert."]};
-// FOUNDER stays null, and its section stays off the page, until the wording and photo are approved.
-const FOUNDER=null;
+// Wording approved by the founder. Add a photo path and links here when they are ready.
+const FOUNDER={"name": "Oluwaferanmi Akinyemi", "title": "Founder", "photo": "", "links": [], "bio": ["Climate change is already here, and Nigeria is among the countries expected to feel it most. This El Niño has made that plain: researchers at the University of Chicago’s Climate Impact Lab project about 31,400 extra heat deaths in Nigeria between September 2026 and February 2027. Nigeria may lack the infrastructure to buffer this, but knowing the risk and getting clear advice can help many people live through it. That is why I started Reezr Heat.", "I hold a bachelor’s degree in Geography/Meteorology from the Federal University of Technology, Minna, and a master’s degree in Geography/Climate Science from Kent State University, with experience in environmental public health."]};
 const ABOUT={title:"Know the heat before it harms you.",lead:"Reezr Heat shows how hot it feels where you are, how hot it will get, and what to do to stay safe.",
 mission:"No one in Nigeria should be caught out by dangerous heat.",
 why:["Heat can make people seriously ill. Those most at risk, including outdoor workers, traders, babies and elders, often have no simple way to know how dangerous a day will be.","We turn weather data into one clear number and plain advice anyone can act on. It is free to use, built for Nigeria, and keeps working when your connection drops."],
@@ -923,7 +924,7 @@ function drawAbout(){
   +"<div class='ab-sec nums'>"+ABOUT.nums.map(([n,t])=>"<div><b>"+n+"</b><span>"+t+"</span></div>").join("")+"</div>"
   +"<div class='ab-sec'><span class='eyebrow'>How it works</span><ol class='how'>"+ABOUT.steps.map(([a,h,t],i)=>"<li><span class='tic'><svg viewBox='0 0 64 64' aria-hidden='true'>"+ART[a]+"</svg></span><div><b>"+(i+1)+". "+h+"</b><span>"+t+"</span></div></li>").join("")+"</ol></div>"
   +"<div class='ab-sec'><span class='eyebrow'>Our story</span><ol class='tl'>"+ABOUT.story.map(([w,h,t])=>"<li><span>"+w+"</span><b>"+h+"</b><p>"+t+"</p></li>").join("")+"</ol></div>"
-  +(f?"<div class='ab-sec founder'><img src='"+f.photo+"' alt='"+esc(f.name)+"' width='220' height='220'><div><span class='eyebrow'>Meet the founder</span><h3>"+esc(f.name)+"</h3><strong>"+esc(f.title)+"</strong>"+f.bio.map(x=>"<p>"+esc(x)+"</p>").join("")+(f.links||[]).map(([t,u])=>"<a href='"+u+"' target='_blank' rel='noopener'>"+esc(t)+"</a>").join(" ")+"</div></div>":"")
+  +(f?"<div class='ab-sec founder'>"+(f.photo?"<img src='"+f.photo+"' alt='"+esc(f.name)+"' width='260' height='260'>":"")+"<div><span class='eyebrow'>Meet the founder</span><h3>"+esc(f.name)+"</h3><strong>"+esc(f.title)+"</strong>"+f.bio.map(x=>"<p>"+esc(x)+"</p>").join("")+(f.links||[]).map(([t,u])=>"<a href='"+u+"' target='_blank' rel='noopener'>"+esc(t)+"</a>").join(" ")+"</div></div>":"")
   +"<div class='ab-sec'><span class='eyebrow'>Common questions</span><div class='faq'>"+ABOUT.faq.map(([q,a])=>"<details class='term' name='faq'><summary>"+q+"</summary><p>"+a+"</p></details>").join("")+"</div></div>"
   +"<div class='ab-sec ab-end'><p>"+ABOUT.maker+"</p><button class='btn p' id='ab-go'>See the heat where you are</button><a class='btn s' href='mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback'>Email hello@reezrheat.com</a></div>";
  $("ab-go").onclick=()=>{S.tab="today";render();scrollTo(0,0)}
