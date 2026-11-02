@@ -10,7 +10,7 @@ Files kept off the public site: .assetsignore.
 Install: open the https link on a phone. Chrome shows "Add to Home screen" / Install.
 Live temperature ("Use my location") only works over https.
 
-Change the cache name in sw.js (reezr-heat-v48) whenever you ship a new version.
+Change the cache name in sw.js (reezr-heat-v49) whenever you ship a new version.
 Local preview: python -m http.server 8765
 
 Accuracy (constants at the top of the feels-like code in index.html):
@@ -47,3 +47,9 @@ More than that needs more cron runs or the paid plan. The signing key is made on
 
 Photos in photos/ are licensed from Wikimedia Commons and credited in the footer. Keep the credits if a
 photo stays, and check the licence page before adding any new one.
+
+Hotter than usual: normals.json is 2020-2024 ERA5 feels-like on a half-degree grid over Nigeria, one value
+in tenths of a degree per month and 3-hour block, plus the gap to our blend per block. tools/usual_grid.py
+downloads it (about 2.5 hours at free-tier pace). Tested on 12,035 reports from the 14 stations with enough
+NOAA ISD-Lite records from 2015-2024: says hotter 26% of the time, stations above normal 93% (90% or more in
+each season), clearly cooler 2.7%. Nigeria only; other countries need their own table and test.

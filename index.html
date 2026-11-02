@@ -429,7 +429,7 @@ html{scroll-padding-top:90px}
 
 <section id="v-about" hidden></section>
 
-<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0). Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). Photos from Wikimedia Commons, cropped: <a href="https://commons.wikimedia.org/wiki/File:People_walking_in_Tejuoso_market_Lagos.jpg" target="_blank" rel="noopener">Tejuoso market</a> by Biggiepopa, <a href="https://commons.wikimedia.org/wiki/File:The_Danfo_of_Lagos.jpg" target="_blank" rel="noopener">The Danfo of Lagos</a> by Oluwolehammond and <a href="https://commons.wikimedia.org/wiki/File:Rice_Field_Kateregi,_Niger_state_Nigeria.jpg" target="_blank" rel="noopener">Rice field, Niger State</a> by OtuNwachinemere (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>); <a href="https://commons.wikimedia.org/wiki/File:2010_Lagos_Nigeria_5175777053.jpg" target="_blank" rel="noopener">Lagos</a> by Stefan Magdalinski (<a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a>).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0), with past records from ERA5, Copernicus Climate Change Service. Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). Photos from Wikimedia Commons, cropped: <a href="https://commons.wikimedia.org/wiki/File:People_walking_in_Tejuoso_market_Lagos.jpg" target="_blank" rel="noopener">Tejuoso market</a> by Biggiepopa, <a href="https://commons.wikimedia.org/wiki/File:The_Danfo_of_Lagos.jpg" target="_blank" rel="noopener">The Danfo of Lagos</a> by Oluwolehammond and <a href="https://commons.wikimedia.org/wiki/File:Rice_Field_Kateregi,_Niger_state_Nigeria.jpg" target="_blank" rel="noopener">Rice field, Niger State</a> by OtuNwachinemere (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>); <a href="https://commons.wikimedia.org/wiki/File:2010_Lagos_Nigeria_5175777053.jpg" target="_blank" rel="noopener">Lagos</a> by Stefan Magdalinski (<a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a>).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
@@ -516,6 +516,7 @@ maker:"Reezr Heat is made by Reezr Climate, which helps people understand the cl
 steps:[["phone","Choose your place","Use your location, or search your town or area."],["sun","See how hot it feels","A big number and a heat level, from Comfortable to Extreme danger."],["glass-water","Know what to do","See what to wear, do and avoid. Tap a time on the curve to plan ahead."]],
 faq:[["What does “feels like” mean?","How hot the air feels to your body once humidity is counted. Damp air slows the drying of sweat, so the same temperature can feel much hotter. This is why our number can be higher than the temperature on another weather app."],
 ["How accurate is it?","Reezr Heat blends three weather models and corrects them using Nigerian weather station reports. In our test against 23 stations, across the hot season, Harmattan, the rains and October, the reading was off by about 1.6°C on average, and tomorrow’s forecast by about 1.8°C. The heat level matched the station’s about three times out of four. It can be further off at times, so treat it as a guide."],
+["What does “hotter than usual” mean?","It means it feels clearly hotter right now than is normal for your area at this time of day in this month, based on weather records from 2020 to 2024. We only say so when the gap is big enough to trust: in our test against 14 Nigerian weather stations, those stations were above their normal about 9 times in 10 when we said it. We do not say “cooler than usual”, because that was less reliable and heat can still be dangerous."],
 ["How far ahead can it see?","To the end of tomorrow. Forecasts get less sure the further ahead they look, so check again before you go out."],
 ["Does it work without internet?","The app and the advice open without internet. A new reading needs a connection. Until then you see your last reading with its time, and the forecast that came with it."],
 ["What happens to my location?","We round it to about 1 km and send it to our weather and map services to get the reading and the name of the place. We do not store your location on our servers, and we do not ask for your name or phone number. Your saved places stay on your phone unless you turn on alerts."],
@@ -690,7 +691,9 @@ function render(){
  $("em").hidden=hi<32;
  drawScale(hi,lv);
  drawWho(lv);
- const vs=S.sel==null?yesterday():"";$("vs").hidden=!vs;$("vs").textContent=vs;
+ loadNormals();
+ // One comparison at most: hotter than usual says more than yesterday when it applies.
+ const vs=S.sel==null?hotterThanUsual()||yesterday():"";$("vs").hidden=!vs;$("vs").textContent=vs;
 }
 // Saved places: kept on this phone only, up to five, each with its own reading.
 const SAVE_MAX=5,sameSpot=(a,b)=>a&&b&&a.lat===b.lat&&a.lon===b.lon;
@@ -770,6 +773,27 @@ function drawWho(lv){
  $("who-p").hidden=!w;if(!w)return;
  $("who-h").textContent=w.h;$("who-l").innerHTML=tips(w.l[LV.indexOf(lv)]);
 }
+// Whether now is clearly hotter than usual here for the month and time of day. normals.json holds
+// 2020-2024 ERA5 feels-like on a half-degree grid, plus the gap between ERA5 and our blend for each
+// 3-hour block. Tested against 14 stations' own records: when this speaks, they were above normal
+// 93% of the time. "Cooler" is not shown: it was unreliable in Harmattan and could make people careless.
+const NORMALS={data:null,asked:false},HOTTER_BY=2.5;
+async function loadNormals(){if(NORMALS.asked)return;NORMALS.asked=true;
+ try{NORMALS.data=await timed("normals.json",15e3);render()}catch(e){NORMALS.asked=false}}
+function normalFor(lat,lon,doy,hr){
+ const d=NORMALS.data,a=Math.floor(lat*2)/2,b=Math.floor(lon*2)/2,u=(lat-a)*2,t=(lon-b)*2;
+ let i=11;for(let j=0;j<12;j++)if(doy>=d.mid[j])i=j;
+ const nx=(i+1)%12,w=((doy-d.mid[i]+365)%365)/((d.mid[nx]-d.mid[i]+365)%365),p=((hr-1.5+24)%24)/3,c=Math.floor(p)%8,e=(c+1)%8,v=p-Math.floor(p);
+ const one=x=>{const at=m=>x[m*8+c]*(1-v)+x[m*8+e]*v;return (at(i)*(1-w)+at(nx)*w)/10};
+ let sum=0,tot=0,near=null;
+ for(const [la,lo,wt] of [[a,b,(1-u)*(1-t)],[a,b+.5,(1-u)*t],[a+.5,b,u*(1-t)],[a+.5,b+.5,u*t]]){
+  const x=d.cells[la.toFixed(1)+","+lo.toFixed(1)];if(!x)continue;near=near||x;sum+=one(x)*wt;tot+=wt}
+ return tot>0?sum/tot:near?one(near):null}
+function hotterThanUsual(){
+ if(!NORMALS.data||!S.place)return "";
+ const w=new Date(S.at+36e5),doy=Math.min(365,Math.floor((Date.UTC(w.getUTCFullYear(),w.getUTCMonth(),w.getUTCDate())-Date.UTC(w.getUTCFullYear(),0,0))/864e5)),hr=hourOf(S.at);
+ const n=normalFor(S.place.lat,S.place.lon,doy,hr);if(n==null)return "";
+ return nowFeels()-n-NORMALS.data.gap[Math.floor(hr/3)]>HOTTER_BY?"Hotter than usual for "+new Date(S.at).toLocaleDateString("en-NG",{month:"long",timeZone:"Africa/Lagos"})+".":""}
 // How now compares with this time yesterday, from the same blend of models, so the difference is fair.
 function yesterday(){
  const y=S.fc&&blendAt(S.fc.h,S.at-864e5);if(!y)return "";
