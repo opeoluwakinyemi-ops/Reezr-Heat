@@ -57,10 +57,6 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 #start{position:relative;z-index:1;padding:20px}
 .hero h2{font-size:30px;line-height:1.12}
 .hero p{margin:8px 0 0;font-size:17px}
-.faces{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
-.faces figure{margin:0}
-.faces img{display:block;width:100%;height:auto;border-radius:10px}
-.faces figcaption{margin-top:5px;font-size:13px;font-weight:600;line-height:1.25}
 .street svg{display:block;width:100%;height:auto;overflow:visible}
 .lvs{display:grid;gap:8px}
 .lv{display:flex;gap:12px;align-items:center}
@@ -276,8 +272,6 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(560px,100%)}
 #start{max-width:640px;padding:48px}
 .hero h2{font-size:56px;line-height:1.06;letter-spacing:-.5px}
 .hero p{font-size:21px;margin-top:12px}
-.faces{gap:16px}
-.faces figcaption{font-size:15px}
 #v-about{max-width:none}
 .ab-hero{padding-top:56px}
 .ab-sec{margin-top:64px}
@@ -357,11 +351,6 @@ html{scroll-padding-top:90px}
 <div class="home-b">
 <div class="panel" id="levels"><h3>What the heat levels mean</h3><div class="lvs" id="lvs"></div></div>
 
-<div class="panel" id="faces"><h3>For people out in the heat every day</h3><div class="faces">
-<figure><img src="photos/trader-480.webp" loading="lazy" width="480" height="360" alt="Traders and shoppers on a busy street in Lagos"><figcaption>Traders</figcaption></figure>
-<figure><img src="photos/danfo-480.webp" loading="lazy" width="480" height="360" alt="A yellow danfo bus with its conductor in Lagos"><figcaption>Drivers and conductors</figcaption></figure>
-<figure><img src="photos/farm-480.webp" loading="lazy" width="480" height="360" alt="Farmers walking home beside a rice farm in Niger State"><figcaption>Farmers</figcaption></figure>
-</div></div>
 
 <div class="panel do"><h3>On any hot day</h3><ul class="tips" id="home-do"></ul></div>
 <div class="alert" id="home-em"></div>
@@ -429,7 +418,7 @@ html{scroll-padding-top:90px}
 
 <section id="v-about" hidden></section>
 
-<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0), with past records from ERA5, Copernicus Climate Change Service. Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). Photos from Wikimedia Commons, cropped: <a href="https://commons.wikimedia.org/wiki/File:People_walking_in_Tejuoso_market_Lagos.jpg" target="_blank" rel="noopener">Tejuoso market</a> by Biggiepopa, <a href="https://commons.wikimedia.org/wiki/File:The_Danfo_of_Lagos.jpg" target="_blank" rel="noopener">The Danfo of Lagos</a> by Oluwolehammond and <a href="https://commons.wikimedia.org/wiki/File:Rice_Field_Kateregi,_Niger_state_Nigeria.jpg" target="_blank" rel="noopener">Rice field, Niger State</a> by OtuNwachinemere (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>); <a href="https://commons.wikimedia.org/wiki/File:2010_Lagos_Nigeria_5175777053.jpg" target="_blank" rel="noopener">Lagos</a> by Stefan Magdalinski (<a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a>).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0), with past records from ERA5, Copernicus Climate Change Service. Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). Photo: <a href="https://commons.wikimedia.org/wiki/File:People_walking_in_Tejuoso_market_Lagos.jpg" target="_blank" rel="noopener">Tejuoso market</a> by Biggiepopa, from Wikimedia Commons, cropped (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
