@@ -13,12 +13,12 @@
 //   /api/push/*      heat alerts for people who turn them on. Only then, their saved places are
 //                    kept here with their phone's notification address, never with a name.
 
-const EVENTS = new Set(["open", "hide", "reading", "location", "share_link", "share_picture", "tab", "install", "plan"]);
+const EVENTS = new Set(["open", "hide", "reading", "location", "share_link", "share_picture", "tab", "install", "plan", "who", "save", "alert"]);
 // Allowed values for each optional field; anything else is dropped.
 const FIELDS = {
   src: ["link", "saved", "none", "gps", "search", "map"],
   lv: ["Comfortable", "Warm", "Hot", "Dangerous", "Extreme danger"],
-  m: ["native", "copy", "download", "cancel", "fail"],
+  m: ["native", "copy", "download", "cancel", "fail", "whatsapp", "all", "worker", "parent", "elder", "trader", "add", "remove", "on", "off"],
   ok: ["granted", "denied", "outside", "unsupported"],
   tab: ["home", "today", "map", "safe", "words", "about"],
 };
@@ -78,7 +78,7 @@ async function collect(req, env) {
       const ts = Number.isFinite(e.t) && e.t <= now && e.t > now - 7 * DAY_MS ? Math.floor(e.t) : now;
       const secs = Number.isFinite(p.secs) ? Math.max(0, Math.min(43200, Math.round(p.secs))) : null;
       // Events saved offline keep the visit they happened in.
-      const session = ID.test(e.s) ? e.s : body.s;
+      const session = typeof e.s === "string" && ID.test(e.s) ? e.s : body.s;
       rows.push(stmt.bind(ts, watDay(ts), body.d, session, e.n, country, region, pick("src"), pick("lv"), pick("m"), pick("ok"), pick("tab"),
         secs, p.new === true ? 1 : p.new === false ? 0 : null, p.inst === true ? 1 : p.inst === false ? 0 : null, mobile));
     }
@@ -300,7 +300,8 @@ async function stats(env, url) {
       COUNT(DISTINCT device) AS people,
       COUNT(DISTINCT CASE WHEN name='open' AND is_new=1 THEN device END) AS new_people,
       COUNT(DISTINCT session) AS visits,
-      SUM(name='share_link' AND m IN ('native','copy')) AS link_shares,
+      SUM(name='share_link' AND m IN ('native','copy','whatsapp')) AS link_shares,
+      SUM(name='share_link' AND m='whatsapp') AS whatsapp_shares,
       SUM(name='share_picture' AND m IN ('native','download')) AS picture_shares,
       SUM(name='open' AND src='link') AS opened_from_shared_link,
       SUM(name='reading' AND src='gps') AS used_location,
@@ -308,19 +309,30 @@ async function stats(env, url) {
       SUM(name='reading' AND lv IN ('Dangerous','Extreme danger')) AS dangerous_readings,
       SUM(name='install') AS installs,
       SUM(name='plan') AS used_plan_ahead,
+      SUM(name='tab' AND tab='map') AS map_views,
+      SUM(name='save' AND m='add') AS places_saved,
+      SUM(name='alert' AND m='on') AS alerts_turned_on,
       ROUND(SUM(CASE WHEN name='hide' THEN secs ELSE 0 END)/60.0, 1) AS minutes_used
     FROM events WHERE day >= ? GROUP BY day ORDER BY day`, from);
   const [tot] = await q(`SELECT COUNT(DISTINCT device) AS people, COUNT(DISTINCT session) AS visits,
       ROUND(SUM(CASE WHEN name='hide' THEN secs ELSE 0 END)/60.0, 1) AS minutes_used,
-      SUM(name='share_link' AND m IN ('native','copy')) AS link_shares,
+      SUM(name='share_link' AND m IN ('native','copy','whatsapp')) AS link_shares,
+      SUM(name='share_link' AND m='whatsapp') AS whatsapp_shares,
       SUM(name='share_picture' AND m IN ('native','download')) AS picture_shares,
       SUM(name='open' AND src='link') AS opened_from_shared_link,
+      COUNT(DISTINCT CASE WHEN name='open' AND src='link' THEN device END) AS people_from_shared_links,
+      SUM(name='tab' AND tab='map') AS map_views,
+      SUM(name='save' AND m='add') AS places_saved,
+      SUM(name='alert' AND m='on') AS alerts_turned_on,
       SUM(name='install') AS installs,
       SUM(name='plan') AS used_plan_ahead,
       SUM(name='reading' AND lv IN ('Dangerous','Extreme danger')) AS dangerous_readings
     FROM events WHERE day >= ?`, from);
   // People who used the app on two or more different days in the period.
   const [alerts] = await q("SELECT COUNT(*) AS n FROM subs");
+  const adviceFor = await q(`SELECT m AS person, COUNT(DISTINCT device) AS people FROM events WHERE day >= ? AND name='who' AND m IS NOT NULL AND m<>'all' GROUP BY m ORDER BY people DESC`, from);
+  const tabs = await q(`SELECT tab, COUNT(*) AS views FROM events WHERE day >= ? AND name='tab' AND tab IS NOT NULL GROUP BY tab ORDER BY views DESC`, from);
+  const sources = await q(`SELECT src AS source, COUNT(*) AS readings FROM events WHERE day >= ? AND name='reading' AND src IS NOT NULL GROUP BY src ORDER BY readings DESC`, from);
   const [ret] = await q(`SELECT COUNT(*) AS returning_people FROM (SELECT device FROM events WHERE day >= ? GROUP BY device HAVING COUNT(DISTINCT day) >= 2)`, from);
   const states = await q(`SELECT COALESCE(region,'Unknown') AS state, COUNT(DISTINCT device) AS people FROM events
     WHERE day >= ? AND country='NG' GROUP BY region ORDER BY people DESC`, from);
@@ -345,6 +357,6 @@ async function stats(env, url) {
       alerts_on: alerts?.n ?? 0,
       minutes_per_visit: t.visits ? Math.round((t.minutes_used / t.visits) * 10) / 10 : 0,
     },
-    by_state: states, by_country: countries, levels_seen: levels, daily,
+    by_state: states, by_country: countries, levels_seen: levels, advice_for: adviceFor, tabs, reading_sources: sources, daily,
   }, { headers: { "cache-control": "no-store" } });
 }
