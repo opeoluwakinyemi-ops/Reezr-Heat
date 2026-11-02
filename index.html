@@ -51,17 +51,23 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 /* The sky behind the reading: tint and sun or moon follow the time of the reading, and the sun
    glows harder as heat rises. It only darkens or sits to the right, so the text stays readable. */
 .band{position:relative;overflow:hidden}
-.band.hero{background:linear-gradient(180deg,#0a5f7c 0%,#1d7f95 42%,#f2b277 88%);padding-bottom:0}
-.band.hero .sky{display:none}
-.band.hero h2{font-size:28px;line-height:1.15}
-.street{margin:14px -20px 0}
+.hero{position:relative;overflow:hidden;display:flex;align-items:flex-end;min-height:270px;border-radius:20px;color:#fff;background:#0a5f7c}
+.hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(4,30,42,.1) 15%,rgba(4,30,42,.88) 78%)}
+#start{position:relative;z-index:1;padding:20px}
+.hero h2{font-size:30px;line-height:1.12}
+.hero p{margin:8px 0 0;font-size:17px}
+.faces{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.faces figure{margin:0}
+.faces img{display:block;width:100%;height:auto;border-radius:10px}
+.faces figcaption{margin-top:5px;font-size:13px;font-weight:600;line-height:1.25}
 .street svg{display:block;width:100%;height:auto;overflow:visible}
 .lvs{display:grid;gap:8px}
 .lv{display:flex;gap:12px;align-items:center}
 .lv b{flex:none;width:96px;padding:8px 4px;text-align:center;color:#fff;border-radius:10px;font:800 15px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif}
 .lv strong{display:block}
 .lv span{display:block;font-size:14px;color:var(--mut)}
-#levels{order:6}
+#levels,#faces{order:6}
 .band>*:not(.sky){position:relative}
 .sky{position:absolute;inset:0;pointer-events:none;transition:background .35s}
 .sky.day{background:radial-gradient(circle at 88% 30%,rgba(255,255,255,.2),transparent 55%)}
@@ -71,8 +77,6 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .orb{position:absolute;right:22px;width:56px;height:56px;border-radius:50%;transition:top .35s,box-shadow .35s}
 .sky.day .orb,.sky.dawn .orb,.sky.dusk .orb{background:#ffd451}
 .sky.dawn .orb,.sky.dusk .orb{background:#ffb35c}
-/* Before there is a reading the card is full of text, so the sun or moon stays out of its way. */
-.band:has(#reading[hidden]) .orb{display:none}
 .sky.night .orb{background:#f4efd8;box-shadow:inset -14px -6px 0 0 rgba(90,100,130,.55)!important}
 .star{position:absolute;width:3px;height:3px;border-radius:50%;background:#fff;opacity:0}
 .sky.night .star{opacity:.85}
@@ -264,7 +268,13 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(560px,100%)}
 .lvs{grid-template-columns:repeat(5,minmax(0,1fr))}
 .lv{display:block}
 .lv b{display:block;width:100%;margin-bottom:8px}
-.band.hero h2{font-size:34px}
+.hero{grid-column:1/-1;min-height:420px;align-items:center}
+.hero::after{background:linear-gradient(90deg,rgba(4,30,42,.88) 15%,rgba(4,30,42,.1) 75%)}
+#start{max-width:640px;padding:48px}
+.hero h2{font-size:56px;line-height:1.06;letter-spacing:-.5px}
+.hero p{font-size:21px;margin-top:12px}
+.faces{gap:16px}
+.faces figcaption{font-size:15px}
 #v-about{max-width:none}
 .ab-hero{padding-top:56px}
 .ab-sec{margin-top:64px}
@@ -332,14 +342,16 @@ html{scroll-padding-top:90px}
 </header>
 
 <section id="v-today">
+<div class="hero" id="hero" aria-live="polite">
+<img src="photos/market-800.webp" srcset="photos/market-800.webp 800w, photos/market-1600.webp 1600w" sizes="(min-width:1000px) 1264px, 360px" width="1600" height="900" alt="People walking through Tejuoso market in Lagos" fetchpriority="high">
+<div id="start"><h2 id="sh">How hot does it feel where you are?</h2><p id="sp">See the live heat for your town and what to do to stay safe.</p></div>
+</div>
 <div class="col-a">
 <div class="band" id="band" aria-live="polite">
 <div class="sky" id="sky" aria-hidden="true"><i class="orb" id="orb"></i><i class="star" style="top:18%;right:30%"></i><i class="star" style="top:34%;right:9%"></i><i class="star" style="top:12%;right:12%"></i></div>
 <div class="where" id="where"><span data-ic="map-pin"></span><div><span id="place"></span><small id="when"></small><small id="air"></small></div><button id="save" aria-pressed="false"><span data-ic="bookmark"></span><span id="save-l">Save</span></button></div>
 <div id="reading" hidden><div class="big"><b id="hi"></b><span>°C</span></div><h2 id="lvl"></h2><div class="scale" id="scale" role="img"><div class="track"></div><b id="scale-m"></b><div class="names"></div></div><p id="lvlsub"></p><p class="vs" id="vs" hidden></p>
 <div class="acts" id="back-w" hidden><button id="back"><span data-ic="clock"></span>Back to now</button></div></div>
-<div id="start"><h2 id="sh">How hot does it feel where you are?</h2><p id="sp">See the live heat for your town and what to do to stay safe.</p>
-<div class="street" id="street" aria-hidden="true"></div></div>
 </div>
 
 <div class="panel" id="find">
@@ -370,6 +382,12 @@ html{scroll-padding-top:90px}
 
 <div class="panel" id="levels"><h3>What the heat levels mean</h3><div class="lvs" id="lvs"></div></div>
 
+<div class="panel" id="faces"><h3>For people out in the heat every day</h3><div class="faces">
+<figure><img src="photos/trader-480.webp" loading="lazy" width="480" height="360" alt="Traders and shoppers on a busy street in Lagos"><figcaption>Traders</figcaption></figure>
+<figure><img src="photos/danfo-480.webp" loading="lazy" width="480" height="360" alt="A yellow danfo bus with its conductor in Lagos"><figcaption>Drivers and conductors</figcaption></figure>
+<figure><img src="photos/farm-480.webp" loading="lazy" width="480" height="360" alt="Farmers walking home beside a rice farm in Niger State"><figcaption>Farmers</figcaption></figure>
+</div></div>
+
 <div class="who" id="who" role="group" aria-label="Advice for"><span>Advice for</span><div id="who-b"></div></div>
 <div class="panel do" id="who-p" hidden><h3 id="who-h"></h3><ul class="tips" id="who-l"></ul></div>
 <div class="advice">
@@ -397,7 +415,7 @@ html{scroll-padding-top:90px}
 
 <section id="v-about" hidden></section>
 
-<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0). Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0). Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). Photos from Wikimedia Commons, cropped: <a href="https://commons.wikimedia.org/wiki/File:People_walking_in_Tejuoso_market_Lagos.jpg" target="_blank" rel="noopener">Tejuoso market</a> by Biggiepopa, <a href="https://commons.wikimedia.org/wiki/File:The_Danfo_of_Lagos.jpg" target="_blank" rel="noopener">The Danfo of Lagos</a> by Oluwolehammond and <a href="https://commons.wikimedia.org/wiki/File:Rice_Field_Kateregi,_Niger_state_Nigeria.jpg" target="_blank" rel="noopener">Rice field, Niger State</a> by OtuNwachinemere (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>); <a href="https://commons.wikimedia.org/wiki/File:2010_Lagos_Nigeria_5175777053.jpg" target="_blank" rel="noopener">Lagos</a> by Stefan Magdalinski (<a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a>).<br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
@@ -455,7 +473,7 @@ const WHO={
   [["clock","Close or move to deep shade from 11am to 4pm if you can."],["users","Ask a neighbour to watch your stall while you cool down."],["glass-water","Drink water often. If you sweat a lot, use ORS too."]],
   [["house","Stay home if you can. Trading can wait."],["users","If you must trade, keep it short and keep someone beside you."]]]}
 };
-// A Nigerian street on a hot day, drawn for this app. It opens the page before there is a reading.
+// A Nigerian street on a hot day, drawn for this app. It opens the About page.
 const STREET="<svg viewBox=\"0 0 800 260\"><circle cx=\"640\" cy=\"66\" r=\"92\" fill=\"#ffd451\" opacity=\".14\"/><circle cx=\"640\" cy=\"66\" r=\"64\" fill=\"#ffd451\" opacity=\".24\"/><circle cx=\"640\" cy=\"66\" r=\"40\" fill=\"#ffd451\"/><path fill=\"#0a3d4f\" opacity=\".3\" d=\"M0 150h50v-30h40v20h60v-40h50v50h70v-25h60v25h80v-35h50v35h90v-20h60v20h190v70H0z\"/><path d=\"M0 88C140 104 280 104 407 82 540 104 680 106 800 92\" fill=\"none\" stroke=\"#2a1c10\" stroke-width=\"1.5\" opacity=\".55\"/><path d=\"M0 98C140 114 280 114 407 92 540 114 680 116 800 102\" fill=\"none\" stroke=\"#2a1c10\" stroke-width=\"1.5\" opacity=\".55\"/><rect x=\"60\" y=\"62\" width=\"30\" height=\"28\" rx=\"4\" fill=\"#20292f\"/><rect x=\"66\" y=\"56\" width=\"18\" height=\"6\" rx=\"2\" fill=\"#20292f\"/><rect x=\"30\" y=\"96\" width=\"120\" height=\"120\" fill=\"#f2dcb5\"/><rect x=\"25\" y=\"90\" width=\"130\" height=\"8\" rx=\"2\" fill=\"#c98f4e\"/><rect x=\"44\" y=\"108\" width=\"20\" height=\"22\" rx=\"1.5\" fill=\"#4f7f92\"/><rect x=\"44\" y=\"142\" width=\"20\" height=\"22\" rx=\"1.5\" fill=\"#4f7f92\"/><rect x=\"80\" y=\"108\" width=\"20\" height=\"22\" rx=\"1.5\" fill=\"#4f7f92\"/><rect x=\"80\" y=\"142\" width=\"20\" height=\"22\" rx=\"1.5\" fill=\"#4f7f92\"/><rect x=\"116\" y=\"108\" width=\"20\" height=\"22\" rx=\"1.5\" fill=\"#4f7f92\"/><rect x=\"116\" y=\"142\" width=\"20\" height=\"22\" rx=\"1.5\" fill=\"#4f7f92\"/><rect x=\"78\" y=\"178\" width=\"24\" height=\"38\" fill=\"#8a5a33\"/><path d=\"M143 128l13-24h86l13 24z\" fill=\"#8a97a0\"/><rect x=\"150\" y=\"128\" width=\"98\" height=\"88\" fill=\"#e98f5a\"/><rect x=\"164\" y=\"142\" width=\"22\" height=\"24\" rx=\"1.5\" fill=\"#fff1d6\"/><rect x=\"214\" y=\"142\" width=\"22\" height=\"24\" rx=\"1.5\" fill=\"#fff1d6\"/><rect x=\"186\" y=\"176\" width=\"24\" height=\"40\" fill=\"#7a4a2b\"/><rect x=\"248\" y=\"140\" width=\"146\" height=\"76\" fill=\"#fff1d6\"/><rect x=\"248\" y=\"140\" width=\"146\" height=\"17\" fill=\"#2f9e5b\"/><rect x=\"340\" y=\"164\" width=\"38\" height=\"52\" fill=\"#3a2a20\"/><rect x=\"296\" y=\"150\" width=\"3\" height=\"66\" fill=\"#3b2a1a\"/><path d=\"M256 162a42 34 0 0 1 84 0z\" fill=\"#d9534f\"/><path d=\"M284 162a20 34 0 0 1 28-33 20 34 0 0 1 0 33z\" fill=\"#fff\"/><rect x=\"262\" y=\"196\" width=\"50\" height=\"6\" fill=\"#8a5a33\"/><rect x=\"266\" y=\"202\" width=\"4\" height=\"14\" fill=\"#8a5a33\"/><rect x=\"304\" y=\"202\" width=\"4\" height=\"14\" fill=\"#8a5a33\"/><circle cx=\"272\" cy=\"191\" r=\"5\" fill=\"#e8823a\"/><circle cx=\"283\" cy=\"191\" r=\"5\" fill=\"#d9534f\"/><circle cx=\"294\" cy=\"191\" r=\"5\" fill=\"#e8823a\"/><circle cx=\"278\" cy=\"183\" r=\"5\" fill=\"#d9534f\"/><circle cx=\"289\" cy=\"183\" r=\"5\" fill=\"#e8823a\"/><circle cx=\"325\" cy=\"172\" r=\"8\" fill=\"#7a4a2b\"/><path d=\"M316 170c1-8 17-8 18 0-6-2-12-2-18 0z\" fill=\"#2f9e5b\"/><path d=\"M314 216c0-22 3-36 11-36s11 14 11 36z\" fill=\"#e8823a\"/><rect x=\"405\" y=\"72\" width=\"5\" height=\"144\" fill=\"#3b2a1a\"/><rect x=\"393\" y=\"80\" width=\"29\" height=\"4\" fill=\"#3b2a1a\"/><path d=\"M738 216c2-34 3-62 10-92l6 2c-6 30-7 58-7 90z\" fill=\"#8a5a33\"/><path fill=\"#2f9e5b\" d=\"M751 125c-14-16-34-16-50-3 16-4 32 0 50 3zM751 125c12-18 34-19 49-6-16-3-32 0-49 6zM751 125c-12-8-30-3-40 16 12-10 25-14 40-16zM751 125c13-7 29-3 39 16-11-9-24-14-39-16zM751 125c-3-15 3-27 12-33 0 13-4 24-12 33z\"/><rect y=\"214\" width=\"800\" height=\"6\" fill=\"#cdbb97\"/><rect y=\"220\" width=\"800\" height=\"40\" fill=\"#3a3f44\"/><rect x=\"14\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"100\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"186\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"272\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"358\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"444\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"530\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"616\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"702\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"788\" y=\"241\" width=\"42\" height=\"4\" rx=\"2\" fill=\"#f4efe2\" opacity=\".75\"/><rect x=\"432\" y=\"166\" width=\"214\" height=\"60\" rx=\"12\" fill=\"#f5b800\"/><path d=\"M640 170l26 22c5 4 6 8 6 14v16c0 3-2 4-5 4h-27z\" fill=\"#f5b800\"/><path d=\"M642 174l21 20h-21z\" fill=\"#27414f\"/><rect x=\"432\" y=\"199\" width=\"238\" height=\"5\" fill=\"#20292f\"/><rect x=\"432\" y=\"208\" width=\"238\" height=\"5\" fill=\"#20292f\"/><rect x=\"444\" y=\"174\" width=\"32\" height=\"20\" rx=\"1.5\" fill=\"#27414f\"/><rect x=\"482\" y=\"174\" width=\"32\" height=\"20\" rx=\"1.5\" fill=\"#27414f\"/><rect x=\"520\" y=\"174\" width=\"32\" height=\"20\" rx=\"1.5\" fill=\"#27414f\"/><rect x=\"558\" y=\"174\" width=\"32\" height=\"20\" rx=\"1.5\" fill=\"#27414f\"/><rect x=\"596\" y=\"174\" width=\"32\" height=\"20\" rx=\"1.5\" fill=\"#27414f\"/><rect x=\"470\" y=\"160\" width=\"130\" height=\"6\" rx=\"2\" fill=\"#20292f\"/><circle cx=\"478\" cy=\"228\" r=\"13\" fill=\"#1c232a\"/><circle cx=\"478\" cy=\"228\" r=\"5\" fill=\"#c9d3d9\"/><circle cx=\"620\" cy=\"228\" r=\"13\" fill=\"#1c232a\"/><circle cx=\"620\" cy=\"228\" r=\"5\" fill=\"#c9d3d9\"/><circle cx=\"112\" cy=\"236\" r=\"12\" fill=\"#1c232a\"/><circle cx=\"112\" cy=\"236\" r=\"4\" fill=\"#c9d3d9\"/><circle cx=\"176\" cy=\"236\" r=\"12\" fill=\"#1c232a\"/><circle cx=\"176\" cy=\"236\" r=\"4\" fill=\"#c9d3d9\"/><path d=\"M112 236l22-14h28l14 14\" fill=\"none\" stroke=\"#20292f\" stroke-width=\"5\" stroke-linejoin=\"round\"/><rect x=\"122\" y=\"214\" width=\"30\" height=\"7\" rx=\"3\" fill=\"#20292f\"/><path d=\"M162 222l-5-16h10\" fill=\"none\" stroke=\"#20292f\" stroke-width=\"4\" stroke-linejoin=\"round\"/><path d=\"M126 216c0-16 4-30 14-30s12 8 14 12l10 8-3 4-14-6-4 12z\" fill=\"#38a4df\"/><circle cx=\"143\" cy=\"176\" r=\"9\" fill=\"#d9534f\"/><rect x=\"145\" y=\"172\" width=\"9\" height=\"5\" rx=\"2\" fill=\"#20292f\"/><circle cx=\"704\" cy=\"182\" r=\"7\" fill=\"#7a4a2b\"/><path d=\"M696 216c0-16 2-27 8-27s8 11 8 27z\" fill=\"#6f4aa8\"/><path d=\"M704 178v-14\" stroke=\"#3b2a1a\" stroke-width=\"2\"/><path d=\"M682 166a22 16 0 0 1 44 0z\" fill=\"#38a4df\"/></svg>";
 const RANGE=["Under 27°", "27–31°", "32–39°", "40–50°", "51° and up"];
 // Shown before there is a reading: true on any hot day.
@@ -637,7 +655,7 @@ function render(){
  drawSky(has?feels():null);
  $("who").hidden=!has;if(!has)$("who-p").hidden=true;
  drawSaved();
- $("band").classList.toggle("hero",!has);$("levels").hidden=has;document.querySelector(".sharebar").hidden=!has;
+ $("hero").hidden=has;$("band").hidden=!has;$("levels").hidden=has;$("faces").hidden=has;document.querySelector(".sharebar").hidden=!has;
  document.querySelector(".wear").hidden=!has;document.querySelector(".avoid").hidden=!has;$("do-h").textContent=has?"Do":"On any hot day";
  $("reading").hidden=!has;$("start").hidden=has;$("where").hidden=!wt.p;$("pic").hidden=!has;
  $("back-w").hidden=S.sel==null;drawPlan();
@@ -645,8 +663,7 @@ function render(){
  $("em").innerHTML=EM;
  if(!has){
   // No reading yet: never show a number. Invite a place, and give advice that is always true.
-  $("band").style.background="";
-  $("sh").textContent=S.loading?"Getting the live reading…":"How hot does it feel where you are?";
+    $("sh").textContent=S.loading?"Getting the live reading…":"How hot does it feel where you are?";
   $("sp").textContent=S.loading?"This usually takes a few seconds.":S.err||"See the live heat for your town and what to do to stay safe.";
   $("do").innerHTML=tips(GEN.d);$("em").hidden=false;
   return}
@@ -1182,8 +1199,7 @@ S.who=store.get("rh-who")||"all";S.saved=store.get("rh-saved")||[];S.savedR=stor
  const link=isFinite(lat)&&isFinite(lon)&&inNigeria(lat,lon),last=store.get("rh-last");
  const saved=last&&last.place&&inNigeria(last.place.lat,last.place.lon)&&typeof last.t==="number"&&typeof last.h==="number";
  if(!link&&saved){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.fc=savedForecast(last)}
- $("street").innerHTML=STREET;
-  $("lvs").innerHTML=LV.map((l,i)=>"<div class='lv'><b style='background:"+l.c+"'>"+RANGE[i]+"</b><div><strong>"+l.n+"</strong><span>"+l.s+"</span></div></div>").join("");
+ $("lvs").innerHTML=LV.map((l,i)=>"<div class='lv'><b style='background:"+l.c+"'>"+RANGE[i]+"</b><div><strong>"+l.n+"</strong><span>"+l.s+"</span></div></div>").join("");
   drawSafe();drawWords();drawAbout();render();loadMap();
  if(isFinite(lat)&&isFinite(lon)&&!link)$("locmsg").textContent=NOT_NG;
  if(link){open("link");loadPlace({name:(q.get("place")||"Shared place").slice(0,80),lat:+lat.toFixed(2),lon:+lon.toFixed(2),approx:q.get("approx")==="1"},false,"link")}

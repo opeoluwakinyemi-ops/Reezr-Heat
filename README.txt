@@ -10,7 +10,7 @@ Files kept off the public site: .assetsignore.
 Install: open the https link on a phone. Chrome shows "Add to Home screen" / Install.
 Live temperature ("Use my location") only works over https.
 
-Change the cache name in sw.js (reezr-heat-v45) whenever you ship a new version.
+Change the cache name in sw.js (reezr-heat-v46) whenever you ship a new version.
 Local preview: python -m http.server 8765
 
 Accuracy (constants at the top of the feels-like code in index.html):
@@ -44,3 +44,6 @@ Heat alerts: off by default. Turning them on stores the saved places and the pho
 D1 table subs; turning off deletes the row. A cron in wrangler.jsonc runs every five minutes from 6pm WAT
 and checks 30 phones per run (about 360 a day), the most the free plan's 50 outside calls per run allow.
 More than that needs more cron runs or the paid plan. The signing key is made on first use and kept in D1.
+
+Photos in photos/ are licensed from Wikimedia Commons and credited in the footer. Keep the credits if a
+photo stays, and check the licence page before adding any new one.
