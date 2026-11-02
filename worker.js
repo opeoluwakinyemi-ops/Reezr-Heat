@@ -20,7 +20,7 @@ const FIELDS = {
   lv: ["Comfortable", "Warm", "Hot", "Dangerous", "Extreme danger"],
   m: ["native", "copy", "download", "cancel", "fail"],
   ok: ["granted", "denied", "outside", "unsupported"],
-  tab: ["today", "map", "safe", "words", "about"],
+  tab: ["home", "today", "map", "safe", "words", "about"],
 };
 const ID = /^[a-z0-9-]{8,40}$/i;
 const DAY_MS = 86400000;

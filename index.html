@@ -67,7 +67,8 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(-
 .lv b{flex:none;width:96px;padding:8px 4px;text-align:center;color:#fff;border-radius:10px;font:800 15px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif}
 .lv strong{display:block}
 .lv span{display:block;font-size:14px;color:var(--mut)}
-#levels,#faces{order:6}
+.home-g{margin-top:12px}
+#home-find .panel{margin-top:0}
 .band>*:not(.sky){position:relative}
 .sky{position:absolute;inset:0;pointer-events:none;transition:background .35s}
 .sky.day{background:radial-gradient(circle at 88% 30%,rgba(255,255,255,.2),transparent 55%)}
@@ -225,7 +226,7 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 /* Phone: one column. The two groups dissolve so search can sit under the reading, then Plan ahead. */
 #v-today{display:flex;flex-direction:column}
 .col-a,.col-b{display:contents}
-#band{order:1}#find{order:2}.natl{order:3}#plan{order:4}#saved{order:5}
+#band{order:1}#find{order:2}#plan{order:4}#saved{order:5}
 .who,#who-p,.advice,#em,.sharebar,#sharemsg{order:6}
 /* Tablet and up: advice side by side, Stay safe and Words use the width. */
 @media (min-width:720px){
@@ -264,11 +265,13 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(560px,100%)}
 #v-today:not([hidden]){display:grid;grid-template-columns:minmax(360px,440px) minmax(0,1fr);gap:20px;align-items:start}
 .col-a,.col-b{display:block}
 .col-b>.panel:first-child,.col-b>.advice:first-child{margin-top:0}
-.col-b>#plan[hidden]+#levels,.col-b>#levels[hidden]+.who{margin-top:0}
+.col-b>#plan[hidden]+.who{margin-top:0}
+.home-g{display:grid;grid-template-columns:minmax(360px,440px) minmax(0,1fr);gap:20px;align-items:start;margin-top:20px}
+.home-b>.panel:first-child{margin-top:0}
 .lvs{grid-template-columns:repeat(5,minmax(0,1fr))}
 .lv{display:block}
 .lv b{display:block;width:100%;margin-bottom:8px}
-.hero{grid-column:1/-1;min-height:420px;align-items:center}
+.hero{min-height:420px;align-items:center}
 .hero::after{background:linear-gradient(90deg,rgba(4,30,42,.88) 15%,rgba(4,30,42,.1) 75%)}
 #start{max-width:640px;padding:48px}
 .hero h2{font-size:56px;line-height:1.06;letter-spacing:-.5px}
@@ -342,11 +345,31 @@ html{scroll-padding-top:90px}
 <nav role="tablist"><button role="tab" id="t-today">Today</button><button role="tab" id="t-map">Map</button><button role="tab" id="t-safe">Stay safe</button><button role="tab" id="t-words">Words</button><button role="tab" id="t-about">About</button></nav>
 </header>
 
-<section id="v-today">
-<div class="hero" id="hero" aria-live="polite">
+<section id="v-home">
+<div class="hero" id="hero">
 <img src="photos/market-800.webp" srcset="photos/market-800.webp 800w, photos/market-1600.webp 1600w" sizes="(min-width:1000px) 1264px, 360px" width="1600" height="900" alt="People walking through Tejuoso market in Lagos" fetchpriority="high">
 <div id="start"><h2 id="sh">How hot does it feel where you are?</h2><p id="sp">See the live heat for your town and what to do to stay safe.</p></div>
 </div>
+<div class="home-g">
+<div class="home-a"><div id="home-find"></div>
+<button class="natl" id="natl" hidden><span data-ic="map-pin"></span><span id="natl-t"></span><span data-ic="chevron-right"></span></button>
+</div>
+<div class="home-b">
+<div class="panel" id="levels"><h3>What the heat levels mean</h3><div class="lvs" id="lvs"></div></div>
+
+<div class="panel" id="faces"><h3>For people out in the heat every day</h3><div class="faces">
+<figure><img src="photos/trader-480.webp" loading="lazy" width="480" height="360" alt="Traders and shoppers on a busy street in Lagos"><figcaption>Traders</figcaption></figure>
+<figure><img src="photos/danfo-480.webp" loading="lazy" width="480" height="360" alt="A yellow danfo bus with its conductor in Lagos"><figcaption>Drivers and conductors</figcaption></figure>
+<figure><img src="photos/farm-480.webp" loading="lazy" width="480" height="360" alt="Farmers walking home beside a rice farm in Niger State"><figcaption>Farmers</figcaption></figure>
+</div></div>
+
+<div class="panel do"><h3>On any hot day</h3><ul class="tips" id="home-do"></ul></div>
+<div class="alert" id="home-em"></div>
+</div>
+</div>
+</section>
+
+<section id="v-today" hidden>
 <div class="col-a">
 <div class="band" id="band" aria-live="polite">
 <div class="sky" id="sky" aria-hidden="true"><i class="orb" id="orb"></i><i class="star" style="top:18%;right:30%"></i><i class="star" style="top:34%;right:9%"></i><i class="star" style="top:12%;right:12%"></i></div>
@@ -363,8 +386,6 @@ html{scroll-padding-top:90px}
 <div class="note" id="locmsg" aria-live="polite"></div>
 </div>
 
-<button class="natl" id="natl" hidden><span data-ic="map-pin"></span><span id="natl-t"></span><span data-ic="chevron-right"></span></button>
-
 <div class="panel" id="saved" hidden>
 <h3><span data-ic="bookmark"></span>Your places</h3>
 <div id="saved-l"></div>
@@ -380,14 +401,6 @@ html{scroll-padding-top:90px}
 <div class="curve" id="curve"><svg id="curve-svg" aria-hidden="true"></svg><div class="curve-tip" id="curve-tip"></div><input type="range" id="curve-r" min="0" max="1" step="1" value="0" aria-label="Choose a time"></div>
 <div class="note">Tap a time to see what to do then. This is a forecast and can be a few degrees off, so check again before you go out.</div>
 </div>
-
-<div class="panel" id="levels"><h3>What the heat levels mean</h3><div class="lvs" id="lvs"></div></div>
-
-<div class="panel" id="faces"><h3>For people out in the heat every day</h3><div class="faces">
-<figure><img src="photos/trader-480.webp" loading="lazy" width="480" height="360" alt="Traders and shoppers on a busy street in Lagos"><figcaption>Traders</figcaption></figure>
-<figure><img src="photos/danfo-480.webp" loading="lazy" width="480" height="360" alt="A yellow danfo bus with its conductor in Lagos"><figcaption>Drivers and conductors</figcaption></figure>
-<figure><img src="photos/farm-480.webp" loading="lazy" width="480" height="360" alt="Farmers walking home beside a rice farm in Niger State"><figcaption>Farmers</figcaption></figure>
-</div></div>
 
 <div class="who" id="who" role="group" aria-label="Advice for"><span>Advice for</span><div id="who-b"></div></div>
 <div class="panel do" id="who-p" hidden><h3 id="who-h"></h3><ul class="tips" id="who-l"></ul></div>
@@ -568,7 +581,7 @@ const WORDS=[
 // place: {name, lat, lon}; at: time of the live reading (ms).
 // t/h stay null until there is a real reading; loading is the place being fetched.
 // fc: hourly forecast {lat, lon, h:[{at,t,h}]}; sel: time (ms) of the forecast hour picked, or null for now.
-let S={t:null,h:null,tab:"today",place:null,at:0,theme:"auto",loading:null,err:"",fc:null,sel:null};
+let S={t:null,h:null,tab:"home",place:null,at:0,theme:"auto",loading:null,err:"",fc:null,sel:null};
 const $=id=>document.getElementById(id);
 const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 
@@ -649,24 +662,26 @@ function tips(list,avoid){return list.map(([i,t,plain])=>"<li><span class='tic"+
 
 function render(){
  if(S.tab==="map")drawMap();
- ["today","map","safe","words","about"].forEach(k=>{$("v-"+k).hidden=S.tab!==k;$("t-"+k).setAttribute("aria-selected",S.tab===k)});
+ ["today","map","safe","words","about"].forEach(k=>$("t-"+k).setAttribute("aria-selected",S.tab===k));
+ ["home","today","map","safe","words","about"].forEach(k=>$("v-"+k).hidden=S.tab!==k);
+ // One search box, shown on whichever of the two screens is open.
+ const fh=S.tab==="home"?$("home-find"):colA;
+ if($("find").parentNode!==fh)fh===colA?colA.insertBefore($("find"),$("saved")):fh.append($("find"));
  ["light","dark"].forEach(k=>$("th-"+k).setAttribute("aria-pressed",isDark()===(k==="dark")));
  if(S.sel!=null&&!picked())S.sel=null;
  const has=S.t!=null,wt=whereText();
  drawSky(has?feels():null);
  $("who").hidden=!has;if(!has)$("who-p").hidden=true;
  drawSaved();
- $("hero").hidden=has;$("band").hidden=!has;$("levels").hidden=has;$("faces").hidden=has;document.querySelector(".sharebar").hidden=!has;
+ $("band").hidden=!has;document.querySelector(".sharebar").hidden=!has;
  document.querySelector(".wear").hidden=!has;document.querySelector(".avoid").hidden=!has;$("do-h").textContent=has?"Do":"On any hot day";
- $("reading").hidden=!has;$("start").hidden=has;$("where").hidden=!wt.p;$("pic").hidden=!has;
+ $("reading").hidden=!has;$("where").hidden=!wt.p;$("pic").hidden=!has;
  $("back-w").hidden=S.sel==null;drawPlan();
  $("place").textContent=wt.p;$("when").textContent=wt.w;$("air").textContent=wt.a;
  $("em").innerHTML=EM;
  if(!has){
   // No reading yet: never show a number. Invite a place, and give advice that is always true.
-    $("sh").textContent=S.loading?"Getting the live reading…":"How hot does it feel where you are?";
-  $("sp").textContent=S.loading?"This usually takes a few seconds.":S.err||"See the live heat for your town and what to do to stay safe.";
-  $("do").innerHTML=tips(GEN.d);$("em").hidden=false;
+    $("do").innerHTML=tips(GEN.d);$("em").hidden=false;
   return}
  const hi=feels(),lv=lvl(hi);
  $("band").style.background=lv.c;$("hi").textContent=shown(hi);
@@ -927,7 +942,7 @@ function drawAbout(){
   +(f?"<div class='ab-sec founder'>"+(f.photo?"<img src='"+f.photo+"' alt='"+esc(f.name)+"' width='260' height='260'>":"")+"<div><span class='eyebrow'>Meet the founder</span><h3>"+esc(f.name)+"</h3><strong>"+esc(f.title)+"</strong>"+f.bio.map(x=>"<p>"+esc(x)+"</p>").join("")+(f.links||[]).map(([t,u])=>"<a href='"+u+"' target='_blank' rel='noopener'>"+esc(t)+"</a>").join(" ")+"</div></div>":"")
   +"<div class='ab-sec'><span class='eyebrow'>Common questions</span><div class='faq'>"+ABOUT.faq.map(([q,a])=>"<details class='term' name='faq'><summary>"+q+"</summary><p>"+a+"</p></details>").join("")+"</div></div>"
   +"<div class='ab-sec ab-end'><p>"+ABOUT.maker+"</p><button class='btn p' id='ab-go'>See the heat where you are</button><a class='btn s' href='mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback'>Email hello@reezrheat.com</a></div>";
- $("ab-go").onclick=()=>{S.tab="today";render();scrollTo(0,0)}
+ $("ab-go").onclick=()=>{S.tab="home";render();scrollTo(0,0)}
 }
 // The words open one at a time. A search shows the meanings straight away.
 function drawWords(){const q=$("q").value.trim().toLowerCase(),show=q;
@@ -946,7 +961,7 @@ const colA=document.querySelector(".col-a");
 function showResults(){if(colA.scrollHeight>colA.clientHeight)colA.scrollTop+=$("town").getBoundingClientRect().top-colA.getBoundingClientRect().top-70}
 async function loadPlace(place,quiet,src){
  colA.scrollTop=0;
- if(!quiet){$("locmsg").textContent="Getting the live reading for "+place.name+"…";S.loading=place;S.err="";render()}
+ if(!quiet){$("locmsg").textContent="Getting the live reading for "+place.name+"…";S.loading=place;S.err="";S.tab="today";render()}
  // Give up after 10 seconds rather than leave people waiting on a weak connection.
  const ctl=new AbortController(),tm=setTimeout(()=>ctl.abort(),10000);
  try{const r=await fetch("https://api.open-meteo.com/v1/forecast?latitude="+place.lat+"&longitude="+place.lon+"&current=temperature_2m,relative_humidity_2m&hourly=temperature_2m,relative_humidity_2m&past_days=1&forecast_days=3&models="+MODELS.join(",")+"&timezone=GMT",{signal:ctl.signal});
@@ -1104,6 +1119,7 @@ $("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
  qT=setTimeout(()=>searchPlaces(q,false),350)};
 $("town").onkeydown=e=>{const q=$("town").value.trim();if(e.key==="Enter"&&q.length>=2){e.preventDefault();searchPlaces(q,true)}};
 $("back").onclick=()=>pick(null);
+document.querySelector(".brand").onclick=e=>{e.preventDefault();S.tab="home";render();track("tab",{tab:"home"});scrollTo(0,0)};
 ["today","map","safe","words","about"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render();track("tab",{tab:k})});
 ["light","dark"].forEach(k=>$("th-"+k).onclick=()=>setTheme(k));
 $("q").oninput=drawWords;
@@ -1192,7 +1208,8 @@ $("pic").onclick=async()=>{
  finally{$("pic").disabled=false}
 };
 
-// Start: a shared link's town first, then the last town used on this phone.
+// Start: everyone opens on the landing page, with the last town ready behind Today. A shared
+// link or an alert goes straight to its reading.
 S.theme=["light","dark"].includes(store.get("rh-theme"))?store.get("rh-theme"):"auto";syncThemeColor();
 S.who=store.get("rh-who")||"all";S.saved=store.get("rh-saved")||[];S.savedR=store.get("rh-saved-r")||{};S.savedAt=0;
 (()=>{const q=new URLSearchParams(location.search),lat=parseFloat(q.get("lat")),lon=parseFloat(q.get("lon"));
@@ -1200,6 +1217,8 @@ S.who=store.get("rh-who")||"all";S.saved=store.get("rh-saved")||[];S.savedR=stor
  const link=isFinite(lat)&&isFinite(lon)&&inNigeria(lat,lon),last=store.get("rh-last");
  const saved=last&&last.place&&inNigeria(last.place.lat,last.place.lon)&&typeof last.t==="number"&&typeof last.h==="number";
  if(!link&&saved){S.place=last.place;S.t=last.t;S.h=last.h;S.at=last.at;S.fc=savedForecast(last)}
+ if(q.get("open")==="today")S.tab="today";
+ $("home-do").innerHTML=tips(GEN.d);$("home-em").innerHTML=EM;
  $("lvs").innerHTML=LV.map((l,i)=>"<div class='lv'><b style='background:"+l.c+"'>"+RANGE[i]+"</b><div><strong>"+l.n+"</strong><span>"+l.s+"</span></div></div>").join("");
   drawSafe();drawWords();drawAbout();render();loadMap();
  if(isFinite(lat)&&isFinite(lon)&&!link)$("locmsg").textContent=NOT_NG;

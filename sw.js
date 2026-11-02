@@ -1,4 +1,4 @@
-const CACHE = "reezr-heat-v47";
+const CACHE = "reezr-heat-v48";
 const CORE = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/apple-touch-icon.png", "icons/logo-mark.png"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
@@ -37,7 +37,8 @@ self.addEventListener("push", e => {
 self.addEventListener("notificationclick", e => {
   e.notification.close();
   e.waitUntil(self.clients.matchAll({ type: "window", includeUncontrolled: true }).then(l => {
-    const open = l.find(c => "focus" in c);
-    return open ? open.focus() : self.clients.openWindow("./");
+    // An alert opens on the reading, not the landing page.
+    const open = l.find(c => "navigate" in c);
+    return open ? open.navigate("./?open=today").then(c => c.focus()) : self.clients.openWindow("./?open=today");
   }));
 });
