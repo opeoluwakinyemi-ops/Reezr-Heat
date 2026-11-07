@@ -81,6 +81,7 @@ for n, g in zip(names, simple):
     states.append({"s": n, "c": CAPITALS[n], "lat": round(la, 2), "lon": round(lo, 2), "x": px(mid[0]), "y": py(mid[1]), "d": path(g)})
 bx = max(g.bounds[2] for g in simple)
 by = min(g.bounds[1] for g in simple)
-json.dump({"w": px(bx), "h": py(by), "states": states}, open(out, "w", encoding="utf-8", newline="\n"), ensure_ascii=False, separators=(",", ":"))
+# "proj" lets other maps place points: x = (lon - lon0) * kx, y = (lat0 - lat) * ky.
+json.dump({"w": px(bx), "h": py(by), "proj": {"lon0": round(W0, 5), "lat0": round(N0, 5), "kx": round(CX * K, 5), "ky": K}, "states": states}, open(out, "w", encoding="utf-8", newline="\n"), ensure_ascii=False, separators=(",", ":"))
 print(len(states), "states", os.path.getsize(out), "bytes", "size", px(bx), py(by))
 print({s["s"]: (s["lat"], s["lon"]) for s in states})

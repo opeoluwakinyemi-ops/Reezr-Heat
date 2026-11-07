@@ -176,6 +176,24 @@ ul.scenes svg{flex:none;width:112px;height:84px;border-radius:12px}
 .ab-hero p{max-width:640px;margin:12px auto 0;font-size:clamp(17px,1.8vw,21px)}
 .ab-hero .street{margin:24px -20px 0}
 .ab-sec{margin-top:36px}
+.ab-switch{margin:0 0 16px}
+.data-lead{font-size:clamp(20px,2.4vw,28px);line-height:1.3;margin:0;font-family:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;font-weight:800}
+.steps-list{margin:8px 0 0;padding-left:22px;display:grid;gap:10px}
+.steps-list li,.credits li{margin:0}
+.steps-list a,.credits a,.st-list a{color:var(--acc)}
+.acc{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:6px 16px}
+.acc>div{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:8px;padding:10px 0;border-top:1px solid var(--line);align-items:center}
+.acc>div:first-child{border-top:0;font-size:13px;color:var(--mut)}
+.acc span{font:800 20px "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif}
+.acc>div:first-child span{font:600 13px "Instrument Sans",system-ui,sans-serif}
+.stmap{display:block;width:100%;height:auto}
+.stmap path{fill:var(--card);stroke:var(--line);stroke-width:3}
+.stmap circle{fill:var(--acc);stroke:var(--card);stroke-width:4}
+.stmap text{font:800 20px "Instrument Sans",system-ui,sans-serif;fill:var(--card);text-anchor:middle;dominant-baseline:central;pointer-events:none}
+.st-list{margin:12px 0 0;padding-left:28px;display:grid;gap:6px}
+.st-list li{margin:0}
+.st-list span{display:block;font-size:14px;color:var(--mut)}
+.credits{margin:8px 0 0;padding-left:20px;display:grid;gap:8px}
 .eyebrow{display:block;font:700 13px "Instrument Sans",system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--acc);margin-bottom:8px}
 .ab-two h3,.founder h3{font-size:clamp(28px,3.6vw,46px);line-height:1.12}
 .ab-two p{margin:12px 0 0;font-size:17px}
@@ -280,6 +298,8 @@ nav button{font-size:15px;padding:14px 2px 13px}
 .hero h2{font-size:56px;line-height:1.06;letter-spacing:-.5px}
 .hero p{font-size:21px;margin-top:12px}
 #v-about{max-width:none}
+.st-g{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:32px;align-items:start}
+.st-list{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:24px;margin-top:0}
 .ab-hero{padding-top:56px}
 .ab-sec{margin-top:64px}
 .ab-two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:start}
@@ -428,7 +448,7 @@ nav button:hover{color:var(--ink)}
 
 <section id="v-about" hidden></section>
 
-<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Readings blend three weather models from Open-Meteo and are usually within 1–2°C of nearby weather stations. Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0), with past records from ERA5, Copernicus Climate Change Service. Place search uses <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0). Photo: <a href="https://commons.wikimedia.org/wiki/File:Danfo_buses_on_the_street_of_Lagos_11_38_26_657000.jpeg" target="_blank" rel="noopener">Danfo buses on the street of Lagos</a> by Kaizenify, from Wikimedia Commons, cropped (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>).<br><br><a href="privacy.html">Privacy</a> · Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
+<footer><b>Reezr Heat is a free tool from Reezr Climate.</b><br>Questions or feedback: <a href="mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback">hello@reezrheat.com</a><br><br>Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo.com</a> (CC BY 4.0). <a href="#data" id="f-data">Data sources and credits</a> · <a href="privacy.html">Privacy</a><br><br>Version 2. General guidance, not a replacement for medical care. If someone is very ill, go to a clinic or hospital.</footer>
 </div>
 <script>
 // Pictograms: Lucide icons (lucide.dev), ISC licence.
@@ -505,7 +525,7 @@ const COOL={i:"zap-off",h:"Stay cool without power",b:[["breeze","Open windows o
 // Heat stroke comes first on the page, with the steps numbered and calling for help as step one.
 const SOS={h:"Heat stroke: act fast",signs:"Signs: confusion, severe headache, fainting, fits, very hot skin, fast pulse, or no sweating.",steps:["Call 112 or take them to the nearest hospital now.","Move the person to shade. Remove extra clothes.","Cool with wet cloth, fanning and water on the skin.","Give sips of water only if they are awake and alert."]};
 // Wording and photo approved by the founder.
-const FOUNDER={"name": "Oluwaferanmi Akinyemi", "title": "Founder", "photo": "photos/founder.webp", "links": [["LinkedIn", "https://www.linkedin.com/in/oluwaferanmi-akinyemi/"]], "bio": ["Climate change is already here, and Nigeria is among the countries expected to feel it most. This El Niño has made that plain: researchers at the University of Chicago’s Climate Impact Lab project about 31,400 extra heat deaths in Nigeria between September 2026 and February 2027. Nigeria may lack the infrastructure to buffer this, but knowing the risk and getting clear advice can help many people live through it. That is why I started Reezr Heat.", "I hold a bachelor’s degree in Geography/Meteorology from the Federal University of Technology, Minna, and a master’s degree in Geography/Climate Science from Kent State University, with experience in environmental public health."]};
+const FOUNDER={"name": "Oluwaferanmi Akinyemi", "title": "", "photo": "photos/founder.webp", "links": [["LinkedIn", "https://www.linkedin.com/in/oluwaferanmi-akinyemi/"]], "bio": ["Climate change is already here, and Nigeria is among the countries expected to feel it most. This El Niño has made that plain: researchers at the University of Chicago’s Climate Impact Lab project about 31,400 extra heat deaths in Nigeria between September 2026 and February 2027. Nigeria may lack the infrastructure to buffer this, but knowing the risk and getting clear advice can help many people live through it. That is why I started Reezr Heat.", "I am a meteorologist and climate scientist, with experience that cuts across environmental public health."]};
 const ABOUT={title:"Know the heat before it harms you.",lead:"Reezr Heat shows how hot it feels where you are, how hot it will get, and what to do to stay safe.",
 mission:"No one in Nigeria should be caught out by dangerous heat.",
 why:["Heat can make people seriously ill. Those most at risk, including outdoor workers, traders, babies and elders, often have no simple way to know how dangerous a day will be.","We turn weather data into one clear number and plain advice anyone can act on. It is free to use, built for Nigeria, and keeps working when your connection drops."],
@@ -544,10 +564,8 @@ const WORDS=[
 ["Torrential rainfall","Very heavy rain that pours down fast, often for a short time. Drains and rivers cannot carry the water away quickly enough, so it can cause flash floods."],
 ["Flood","Water covering land that is normally dry. It can come from heavy rain, rivers overflowing, blocked drains or water released from dams."],
 ["Flash flood","A flood that rises within minutes or a few hours of heavy rain, often with little warning. Even shallow moving water can knock a person over or carry a car away, so do not walk or drive through it."],
-["Dam release","Water let out of a dam when it gets too full, to protect the dam. It can raise rivers and flood towns downstream, sometimes far away."],
 ["Rainy season","The months when most of the year’s rain falls. In Nigeria it starts earlier and lasts longer in the south, roughly March to October, and is shorter in the north, roughly June to September."],
 ["Dry season","The months with little or no rain, roughly November to March in much of Nigeria and longer in the far north."],
-["August break","A short, drier spell in the rainy season, common in southern Nigeria around late July and August. Also called the little dry season."],
 ["Dry spell","Days or weeks with little or no rain during the rainy season. It can harm crops that have already been planted."],
 ["Monsoon","A seasonal change of wind that brings rain. In West Africa, moist wind from the Atlantic Ocean moves inland in the middle of the year and brings the rainy season."],
 ["Thunderstorm","A storm with lightning and thunder, often with heavy rain and strong wind. If you can hear thunder, lightning is close enough to be a danger, so go inside a solid building."],
@@ -556,7 +574,6 @@ const WORDS=[
 ["Ocean surge","Sea water pushed onto land by strong waves and wind, flooding coastal areas. It has hit parts of the Lagos coast."],
 ["Sea level rise","The slow rise of the ocean as the planet warms, because ice melts and warmer water takes up more space. It raises the risk of flooding on coasts such as Lagos and the Niger Delta."],
 ["Gully erosion","Running water cuts deep channels into the soil, which can swallow roads, farms and houses. It is a serious problem in south-east Nigeria."],
-["Desertification","Dry land losing its soil and plants until it can hardly grow anything. Drought, overgrazing and cutting down trees all drive it, and it affects northern Nigeria."],
 ["Dust haze","Fine dust hanging in the air, common during Harmattan. It makes it hard to see far and can irritate the eyes, nose and chest."],
 ["Feels-like temperature","What the air feels like to your body once humidity is counted. This is the big number Reezr Heat shows."],
 ["Heat cramps","Painful muscle spasms, often in the legs or belly, during heavy sweating or hard work in the heat. Stop, rest somewhere cool and drink water or ORS."],
@@ -567,15 +584,9 @@ const WORDS=[
 ["Air quality","How clean the air is to breathe. Smoke, soot, dust and traffic fumes make it worse and can harm the lungs and heart."],
 ["Forecast","A best estimate of future weather, made with computer models of the atmosphere. It is less sure the further ahead it looks."],
 ["NiMet","The Nigerian Meteorological Agency, the government body that issues Nigeria’s official weather forecasts and warnings."],
-["Seasonal Climate Prediction","NiMet’s yearly forecast for the seasons ahead, covering things like when the rains should start and end and how much rain to expect."],
-["Inter-Tropical Discontinuity","The boundary over West Africa where dry desert air meets moist air from the Atlantic. Rain generally falls south of it, and it moves north and south with the seasons. Also called the ITD."],
 ["Global warming","The rise in Earth’s average temperature since the 1800s, mainly caused by human activity such as burning fossil fuels."],
 ["Greenhouse gases","Gases such as carbon dioxide and methane that trap heat in the air, like a blanket around the Earth."],
 ["Fossil fuels","Coal, oil and gas. Burning them releases most of the greenhouse gases that drive climate change."],
-["Adaptation","Changing how we live and build to cope with a changing climate, such as better drains, more shade and heat warnings."],
-["Mitigation","Cutting the greenhouse gases that cause climate change, such as by using solar power or protecting forests."],
-["Resilience","How well a person, community or system can cope with a shock such as a flood or heat wave, and recover from it."],
-["Food security","Everyone having reliable access to enough safe food. Drought and floods can threaten it."]
 ].sort((a,b)=>a[0].localeCompare(b[0]));
 
 // place: {name, lat, lon}; at: time of the live reading (ms).
@@ -960,17 +971,36 @@ async function drawMap(){
  box.querySelectorAll(".ngmap path,.maplist .go").forEach(b=>b.onclick=()=>openCapital(st[+b.dataset.i]));
 }
 function drawAbout(){
- const f=FOUNDER;
- $("v-about").innerHTML="<div class='ab-hero'><span class='pill'>About</span><h2>"+ABOUT.title+"</h2><p>"+ABOUT.lead+"</p><div class='street' aria-hidden='true'>"+STREET+"</div></div>"
+ const f=FOUNDER,data=S.aview==="data";
+ $("v-about").innerHTML="<div class='modes ab-switch' role='group' aria-label='About pages'><button data-v='about' aria-pressed='"+!data+"'>About us</button><button data-v='data' aria-pressed='"+data+"'>Data</button></div><div id='ab-body'></div>";
+ $("v-about").querySelectorAll(".ab-switch button").forEach(b=>b.onclick=()=>{S.aview=b.dataset.v;drawAbout();track("tab",{tab:"about"})});
+ if(data){drawData();return}
+ $("ab-body").innerHTML="<div class='ab-hero'><span class='pill'>About</span><h2>"+ABOUT.title+"</h2><p>"+ABOUT.lead+"</p><div class='street' aria-hidden='true'>"+STREET+"</div></div>"
   +"<div class='ab-sec ab-two'><div><span class='eyebrow'>Our mission</span><h3>"+ABOUT.mission+"</h3></div><div>"+ABOUT.why.map(x=>"<p>"+x+"</p>").join("")+"</div></div>"
   +"<div class='ab-sec nums'>"+ABOUT.nums.map(([n,t])=>"<div><b>"+n+"</b><span>"+t+"</span></div>").join("")+"</div>"
   +"<div class='ab-sec'><span class='eyebrow'>How it works</span><ol class='how'>"+ABOUT.steps.map(([a,h,t],i)=>"<li><span class='tic'><svg viewBox='0 0 64 64' aria-hidden='true'>"+ART[a]+"</svg></span><div><b>"+(i+1)+". "+h+"</b><span>"+t+"</span></div></li>").join("")+"</ol></div>"
   +"<div class='ab-sec'><span class='eyebrow'>Our story</span><ol class='tl'>"+ABOUT.story.map(([w,h,t])=>"<li><span>"+w+"</span><b>"+h+"</b><p>"+t+"</p></li>").join("")+"</ol></div>"
-  +(f?"<div class='ab-sec founder'>"+(f.photo?"<img src='"+f.photo+"' alt='"+esc(f.name)+"' width='260' height='260'>":"")+"<div><span class='eyebrow'>Meet the founder</span><h3>"+esc(f.name)+"</h3><strong>"+esc(f.title)+"</strong>"+f.bio.map(x=>"<p>"+esc(x)+"</p>").join("")+(f.links||[]).map(([t,u])=>"<a href='"+u+"' target='_blank' rel='noopener'>"+esc(t)+"</a>").join(" ")+"</div></div>":"")
+  +(f?"<div class='ab-sec founder'>"+(f.photo?"<img src='"+f.photo+"' alt='"+esc(f.name)+"' width='260' height='260'>":"")+"<div><span class='eyebrow'>Meet the founder</span><h3>"+esc(f.name)+"</h3>"+(f.title?"<strong>"+esc(f.title)+"</strong>":"")+f.bio.map(x=>"<p>"+esc(x)+"</p>").join("")+(f.links||[]).map(([t,u])=>"<a href='"+u+"' target='_blank' rel='noopener'>"+esc(t)+"</a>").join(" ")+"</div></div>":"")
   +"<div class='ab-sec'><span class='eyebrow'>Common questions</span><div class='faq'>"+ABOUT.faq.map(([q,a])=>"<details class='term' name='faq'><summary>"+q+"</summary><p>"+a+"</p></details>").join("")+"</div></div>"
   +"<div class='ab-sec ab-end'><p>"+ABOUT.maker+"</p><button class='btn p' id='ab-go'>See the heat where you are</button><a class='btn s' href='mailto:hello@reezrheat.com?subject=Reezr%20Heat%20feedback'>Email hello@reezrheat.com</a></div>";
  $("ab-go").onclick=()=>{S.tab="home";render();scrollTo(0,0)}
 }
+// The Data page lives inside About. STATIONS: town, state, lat, lon, reports used in the accuracy test.
+const STATIONS=[["Katsina", "Katsina", 13.017, 7.683, 860], ["Sokoto", "Sokoto", 12.916, 5.207, 1276], ["Birnin Kebbi", "Kebbi", 12.467, 4.217, 383], ["Maiduguri", "Borno", 11.85, 13.083, 824], ["Zaria", "Kaduna", 11.13, 7.686, 389], ["Kaduna", "Kaduna", 10.696, 7.32, 639], ["Gombe", "Gombe", 10.283, 11.15, 653], ["Jos", "Plateau", 9.64, 8.869, 307], ["Minna", "Niger", 9.617, 6.533, 1428], ["Yola", "Adamawa", 9.258, 12.43, 1515], ["Abuja", "FCT", 9.25, 7.0, 2303], ["Ilorin", "Kwara", 8.44, 4.494, 1662], ["Osogbo", "Osun", 7.783, 4.483, 724], ["Ado Ekiti", "Ekiti", 7.65, 5.2, 61], ["Ibadan", "Oyo", 7.433, 3.9, 1000], ["Akure", "Ondo", 7.25, 5.3, 1437], ["Ondo", "Ondo", 7.1, 4.833, 67], ["Lagos (Ikeja)", "Lagos", 6.577, 3.321, 2490], ["Enugu", "Enugu", 6.467, 7.55, 1437], ["Benin City", "Edo", 6.317, 5.1, 781], ["Awka", "Anambra", 6.2, 7.05, 453], ["Owerri", "Imo", 5.483, 7.0, 1505], ["Port Harcourt", "Rivers", 5.015, 6.95, 1662]];
+const DATA={"lead": "Where Reezr Heat’s numbers come from, how we check them, and who we credit.", "how": ["We blend three global weather models, ICON from Germany’s weather service, ARPEGE from Météo-France and AIFS from the European Centre for Medium-Range Weather Forecasts, using <a href='https://open-meteo.com/' target='_blank' rel='noopener'>Open-Meteo</a>.", "We correct the blend for the time of day using Nigerian weather station reports. Then we work out how hot it feels from temperature and humidity with the heat index used by the US National Weather Service, leaning slightly towards warning.", "“Hotter than usual” compares the reading with 2020 to 2024 records from ERA5, for your area, the month and the time of day."], "acc": [["Right now", "1.6°C", "74%"], ["Tomorrow", "1.8°C", "72%"], ["Two days ahead", "1.9°C", "71%"]], "accNote": "Tested on 23,856 reports from 23 stations, in March to May and December 2025, and January, August and October 2026. Each station and season was scored using corrections learned without it. The day’s highest heat level matched the station’s 80% of the time.", "stNote": "These are NiMet weather stations whose reports are shared worldwide through the World Meteorological Organization. We collect them through Ogimet and NOAA. Nigeria has many more stations, and we aim to test against more of them.", "credits": ["Weather forecasts: <a href='https://open-meteo.com/' target='_blank' rel='noopener'>Open-Meteo.com</a> (CC BY 4.0), with models from DWD, Météo-France and ECMWF.", "Past weather records: ERA5, Copernicus Climate Change Service, through Open-Meteo.", "Station reports used for testing: <a href='https://www.ogimet.com/' target='_blank' rel='noopener'>Ogimet</a> and NOAA Integrated Surface Database.", "Place search: <a href='https://www.openstreetmap.org/copyright' target='_blank' rel='noopener'>OpenStreetMap</a> data, © OpenStreetMap contributors, and <a href='https://www.geonames.org/' target='_blank' rel='noopener'>GeoNames</a> (CC BY 4.0).", "Map outlines: <a href='https://www.naturalearthdata.com/' target='_blank' rel='noopener'>Natural Earth</a> (public domain).", "Landing photo: <a href='https://commons.wikimedia.org/wiki/File:Danfo_buses_on_the_street_of_Lagos_11_38_26_657000.jpeg' target='_blank' rel='noopener'>Danfo buses on the street of Lagos</a> by Kaizenify, from Wikimedia Commons, cropped (<a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'>CC BY-SA 4.0</a>).", "Icons: <a href='https://lucide.dev/' target='_blank' rel='noopener'>Lucide</a> (ISC licence). Other drawings were made for Reezr Heat."]};
+async function drawData(){
+ const box=$("ab-body");
+ if(!MAP.geo&&!MAP.asking){MAP.asking=true;try{MAP.geo=await timed("nigeria-map.json",1e4)}catch(e){}MAP.asking=false}
+ const g=MAP.geo,pr=g&&g.proj,X=lo=>(lo-pr.lon0)*pr.kx,Y=la=>(pr.lat0-la)*pr.ky;
+ const map=pr?"<svg class='stmap' viewBox='-12 -12 "+(g.w+24)+" "+(g.h+24)+"' role='img' aria-label='Map of the 23 weather stations. The list has every station.'>"+g.states.map(x=>"<path d='"+x.d+"'/>").join("")
+  +STATIONS.map(([t,st,la,lo,n],i)=>"<g><title>"+esc(t)+", "+esc(st)+": "+n.toLocaleString("en-NG")+" reports</title><circle cx='"+X(lo).toFixed(0)+"' cy='"+Y(la).toFixed(0)+"' r='17'/><text x='"+X(lo).toFixed(0)+"' y='"+Y(la).toFixed(0)+"'>"+(i+1)+"</text></g>").join("")+"</svg>":"<p class='note'>The station map needs an internet connection.</p>";
+ box.innerHTML="<div class='ab-sec'><span class='eyebrow'>Our data</span><p class='data-lead'>"+DATA.lead+"</p></div>"
+  +"<div class='ab-sec'><span class='eyebrow'>How a reading is made</span><ol class='steps-list'>"+DATA.how.map(x=>"<li>"+x+"</li>").join("")+"</ol></div>"
+  +"<div class='ab-sec'><span class='eyebrow'>How accurate it is</span><div class='acc'><div class='acc-h'><span></span><span>Average difference from stations</span><span>Heat level matched</span></div>"+DATA.acc.map(([a,b,c])=>"<div><b>"+a+"</b><span>"+b+"</span><span>"+c+"</span></div>").join("")+"</div><p class='note'>"+DATA.accNote+"</p></div>"
+  +"<div class='ab-sec'><span class='eyebrow'>Weather stations we test against</span><div class='st-g'><div>"+map+"</div><ol class='st-list'>"+STATIONS.map(([t,st,,,n])=>"<li><b>"+esc(t)+"</b><span>"+esc(st)+" · "+n.toLocaleString("en-NG")+" reports</span></li>").join("")+"</ol></div><p class='note'>"+DATA.stNote+"</p></div>"
+  +"<div class='ab-sec'><span class='eyebrow'>Sources and credits</span><ul class='credits'>"+DATA.credits.map(x=>"<li>"+x+"</li>").join("")+"</ul></div>";
+}
+function openData(){S.tab="about";S.aview="data";render();drawAbout();scrollTo(0,0)}
 // The words open one at a time. A search shows the meanings straight away.
 function drawWords(){const q=$("q").value.trim().toLowerCase(),show=q;
  const r=WORDS.filter(w=>!q||w[0].toLowerCase().includes(q)||w[1].toLowerCase().includes(q));
@@ -1146,6 +1176,7 @@ $("town").oninput=e=>{clearTimeout(qT);const q=e.target.value.trim();
  qT=setTimeout(()=>searchPlaces(q,false),350)};
 $("town").onkeydown=e=>{const q=$("town").value.trim();if(e.key==="Enter"&&q.length>=2){e.preventDefault();searchPlaces(q,true)}};
 $("back").onclick=()=>pick(null);
+$("f-data").onclick=e=>{e.preventDefault();openData()};
 document.querySelector(".brand").onclick=e=>{e.preventDefault();S.tab="home";render();track("tab",{tab:"home"});scrollTo(0,0)};
 ["today","map","safe","words","about"].forEach(k=>$("t-"+k).onclick=()=>{S.tab=k;render();track("tab",{tab:k})});
 ["light","dark"].forEach(k=>$("th-"+k).onclick=()=>setTheme(k));
