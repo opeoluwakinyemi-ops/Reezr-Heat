@@ -34,7 +34,7 @@ body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Instrument Sa
 h1,h2,h3,.big{font-family:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;margin:0}
 .wrap{max-width:560px;margin:0 auto;padding:16px 16px 40px}
 svg.i{width:20px;height:20px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;vertical-align:-4px}
-header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:18px 8px;margin-bottom:14px}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px 8px;margin-bottom:14px}
 .brand{display:flex;align-items:baseline;gap:1px;font:800 24px/1.1 "Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;letter-spacing:-.3px;color:var(--ink);text-decoration:none}
 .brand img{height:.86em;width:auto}
 .brand em{font-style:normal;color:var(--heat);margin-left:.25em}
@@ -42,10 +42,10 @@ header small{color:var(--mut);display:block;font-size:13px;margin-top:2px}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--card);flex:none}
 .seg button{border:0;background:none;color:var(--mut);width:40px;height:36px;display:grid;place-items:center;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
-nav{display:flex;gap:6px;flex:1 0 100%}
-nav button{flex:1;min-width:0;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:10px 2px;border-radius:12px;font:600 15px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
-@media (max-width:479px){nav{gap:4px}nav button{padding:10px 1px;font-size:clamp(11.5px,3.5vw,15px);white-space:nowrap}}
-nav button[aria-selected="true"]{border-color:var(--acc);box-shadow:inset 0 -3px 0 var(--acc)}
+nav{display:flex;justify-content:space-between;gap:2px;flex:1 0 100%;border-bottom:1px solid var(--line)}
+nav button{flex:none;border:0;background:none;color:var(--mut);padding:10px 6px 9px;border-radius:0;box-shadow:inset 0 -2px 0 transparent;font:600 14px "Instrument Sans",system-ui,sans-serif;cursor:pointer}
+@media (max-width:359px){nav button{padding:10px 3px 9px;font-size:13px}}
+nav button[aria-selected="true"]{color:var(--ink);box-shadow:inset 0 -2px 0 var(--acc)}
 button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
 .band{border-radius:20px;padding:18px 20px 66px;color:#fff;transition:background .35s}
 /* The sky behind the reading: tint and sun or moon follow the time of the reading, and the sun
@@ -230,7 +230,8 @@ footer{color:var(--mut);font-size:13px;margin-top:22px;text-align:center}footer 
 /* Tablet and up: advice side by side, Stay safe and Words use the width. */
 @media (min-width:720px){
 .wrap{max-width:760px}
-header{margin:-16px -16px 14px;padding:12px 16px;background:var(--bg);border-bottom:1px solid var(--line)}
+header{margin:-16px -16px 14px;padding:12px 16px 0;background:var(--bg);border-bottom:1px solid var(--line)}
+nav{border-bottom:0;justify-content:center;gap:12px}
 .advice{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:12px}
 .advice .panel{margin-top:0}
 .advice .do{grid-column:1;grid-row:1/span 2}
@@ -260,7 +261,10 @@ footer{max-width:680px;margin-left:auto;margin-right:auto}
 header{display:grid;grid-template-columns:auto minmax(0,1fr) auto;column-gap:24px;margin:0 -28px 18px;padding:12px 28px}
 header>div:first-child{grid-column:1;grid-row:1}
 header .seg{grid-column:3;grid-row:1;justify-self:end}
-nav{grid-column:2;grid-row:1;justify-self:center;width:min(560px,100%)}
+header{padding-bottom:0}
+header>div:first-child,header .seg{padding-bottom:12px}
+nav{grid-column:2;grid-row:1;justify-self:center;align-self:end;width:auto;gap:28px}
+nav button{font-size:15px;padding:14px 2px 13px}
 #v-today:not([hidden]){display:grid;grid-template-columns:minmax(360px,440px) minmax(0,1fr);gap:20px;align-items:start}
 .col-a,.col-b{display:block}
 .col-b>.panel:first-child,.col-b>.advice:first-child{margin-top:0}
@@ -303,8 +307,8 @@ nav{grid-column:2;grid-row:1;justify-self:center;width:min(560px,100%)}
 .ab-end .btn{width:auto;margin:0;padding:13px 22px}
 .ngmap{max-height:calc(100vh - 200px)}
 .mapg{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:24px;align-items:start}
-.maplist{margin-top:0;max-height:640px;overflow:auto;scrollbar-width:thin;padding-right:4px}
-.maplist .sv:first-child{margin-top:0}
+.maplist{margin-top:0}
+.maplist .modes{margin-top:0}
 .band .big{font-size:92px}
 }
 /* The name and tabs stay on screen on tablets and up, unless the window is very short. */
@@ -319,8 +323,9 @@ html{scroll-padding-top:90px}
 .col-a{position:sticky;top:83px;max-height:calc(100vh - 95px);overflow:auto;scrollbar-width:thin;padding:3px;margin:-3px}
 }
 @media (hover:hover){
+nav button:hover{color:var(--ink)}
 .ngmap path:hover{filter:brightness(1.15)}
-.folk button:hover,.natl:hover,.sv .go:hover,.sv .rm:hover,.plan .day:hover,.results button:hover,nav button:hover,.btn.s:hover{border-color:var(--acc)}
+.folk button:hover,.natl:hover,.sv .go:hover,.sv .rm:hover,.plan .day:hover,.results button:hover,.btn.s:hover{border-color:var(--acc)}
 .btn.p:hover{filter:brightness(1.08)}
 .acts button:hover{filter:brightness(.94)}
 }
@@ -504,12 +509,12 @@ const FOUNDER={"name": "Oluwaferanmi Akinyemi", "title": "Founder", "photo": "ph
 const ABOUT={title:"Know the heat before it harms you.",lead:"Reezr Heat shows how hot it feels where you are, how hot it will get, and what to do to stay safe.",
 mission:"No one in Nigeria should be caught out by dangerous heat.",
 why:["Heat can make people seriously ill. Those most at risk, including outdoor workers, traders, babies and elders, often have no simple way to know how dangerous a day will be.","We turn weather data into one clear number and plain advice anyone can act on. It is free to use, built for Nigeria, and keeps working when your connection drops."],
-nums:[["23","Nigerian weather stations used to test our readings"],["23,856","station reports checked, across four seasons"],["106,000+","places you can search, down to your area"],["37","state capitals on the live heat map"]],
+nums:[["23","Nigerian weather stations used to test our readings"],["23,856","station reports checked, across the dry and rainy seasons"],["106,000+","places you can search, down to your area"],["37","state capitals on the live heat map"]],
 story:[["October 2026","Launched","Reezr Heat went live at reezrheat.com as a free heat guide for Nigeria."],["Today","Growing","Live readings and forecasts, a national heat map, advice for workers, parents, elders and traders, and alerts for your saved places."],["Next","Beyond Nigeria","Reaching more African countries affected by El Niño, each checked against its own weather stations."]],
 maker:"Reezr Heat is made by Reezr Climate, which helps people understand the climate risks where they live.",
 steps:[["phone","Choose your place","Use your location, or search your town or area."],["sun","See how hot it feels","A big number and a heat level, from Comfortable to Extreme danger."],["glass-water","Know what to do","See what to wear, do and avoid. Tap a time on the curve to plan ahead."]],
 faq:[["What does “feels like” mean?","How hot the air feels to your body once humidity is counted. Damp air slows the drying of sweat, so the same temperature can feel much hotter. This is why our number can be higher than the temperature on another weather app."],
-["How accurate is it?","Reezr Heat blends three weather models and corrects them using Nigerian weather station reports. In our test against 23 stations, across the hot season, Harmattan, the rains and October, the reading was off by about 1.6°C on average, and tomorrow’s forecast by about 1.8°C. The heat level matched the station’s about three times out of four. It can be further off at times, so treat it as a guide."],
+["How accurate is it?","Reezr Heat blends three weather models and corrects them using Nigerian weather station reports. In our test against 23 stations, across the dry and rainy seasons, the reading was off by about 1.6°C on average, and tomorrow’s forecast by about 1.8°C. The heat level matched the station’s about three times out of four. It can be further off at times, so treat it as a guide."],
 ["What does “hotter than usual” mean?","It means it feels clearly hotter right now than is normal for your area at this time of day in this month, based on weather records from 2020 to 2024. We only say so when the gap is big enough to trust: in our test against 14 Nigerian weather stations, those stations were above their normal about 9 times in 10 when we said it. We do not say “cooler than usual”, because that was less reliable and heat can still be dangerous."],
 ["How far ahead can it see?","To the end of tomorrow. Forecasts get less sure the further ahead they look, so check again before you go out."],
 ["Does it work without internet?","The app and the advice open without internet. A new reading needs a connection. Until then you see your last reading with its time, and the forecast that came with it."],
@@ -916,7 +921,7 @@ function openWho(k){S.who=k;store.set("rh-who",k);S.tab="today";render();track("
  $("who").scrollIntoView({block:"start"});$("who-b").querySelector("[aria-pressed='true']").focus({preventScroll:true})}
 // The heat map. Each state shows the reading at its capital, worked out once an hour on the
 // server (worker.js). A map older than six hours is not shown, and the live number goes after three.
-const MAP={geo:null,data:null,mode:hourOf(Date.now())>=20?2:1,asked:0,failed:false,MODES:["Now","Today’s peak","Tomorrow’s peak"],WHEN:["right now","today","tomorrow"]};
+const MAP={geo:null,data:null,sort:"hot",all:false,mode:hourOf(Date.now())>=20?2:1,asked:0,failed:false,MODES:["Now","Today’s peak","Tomorrow’s peak"],WHEN:["right now","today","tomorrow"]};
 const mapAge=()=>MAP.data?Date.now()-MAP.data.at:Infinity,isDanger=f=>LV.indexOf(lvl(f))>=3;
 const dangerCount=m=>Object.values(MAP.data.v).filter(x=>isDanger(x[m])).length;
 async function loadMap(){MAP.asked=Date.now();
@@ -948,8 +953,10 @@ async function drawMap(){
   +st.map(x=>"<text x='"+x.x+"' y='"+x.y+"'>"+shown(val(x))+"</text>").join("")+"</svg>"
   +"<div class='legend'>"+LV.map(l=>"<span><i style='background:"+l.c+"'></i>"+l.n+"</span>").join("")+"</div>"
   +"<div class='note'>Each state shows the feels-like reading at its capital, so other parts of a state can differ. Updated "+fmtTime(MAP.data.at)+", "+fmtDay(MAP.data.at)+". Tap a state to see its capital.</div></div>"
-  +"<div class='maplist'>"+st.map((x,i)=>[x,i]).sort((a,b)=>val(b[0])-val(a[0])).map(([x,i])=>"<div class='sv'><button class='go' data-i='"+i+"'><span>"+esc(x.s)+"<small>"+esc(x.c)+" · "+lvl(val(x)).n+"</small></span><b style='background:"+lvl(val(x)).c+"'>"+shown(val(x))+"°</b></button></div>").join("")+"</div></div></div>";
- box.querySelectorAll(".modes button").forEach(b=>b.onclick=()=>{MAP.mode=+b.dataset.m;drawMap()});
+  +"<div class='maplist'><div class='modes' role='group' aria-label='Order'><button data-o='hot' aria-pressed='"+(MAP.sort==="hot")+"'>Hottest first</button><button data-o='az' aria-pressed='"+(MAP.sort==="az")+"'>A to Z</button></div>"+st.map((x,i)=>[x,i]).sort((a,b)=>MAP.sort==="az"?a[0].s.localeCompare(b[0].s):val(b[0])-val(a[0])).slice(0,MAP.all?99:8).map(([x,i])=>"<div class='sv'><button class='go' data-i='"+i+"'><span>"+esc(x.s)+"<small>"+esc(x.c)+" · "+lvl(val(x)).n+"</small></span><b style='background:"+lvl(val(x)).c+"'>"+shown(val(x))+"°</b></button></div>").join("")+"<button class='btn s' id='map-more'>"+(MAP.all?"Show fewer":"Show all "+st.length+" states")+"</button></div></div></div>";
+ box.querySelectorAll(".modes button[data-m]").forEach(b=>b.onclick=()=>{MAP.mode=+b.dataset.m;drawMap()});
+ box.querySelectorAll(".modes button[data-o]").forEach(b=>b.onclick=()=>{MAP.sort=b.dataset.o;drawMap()});
+ $("map-more").onclick=()=>{MAP.all=!MAP.all;drawMap()};
  box.querySelectorAll(".ngmap path,.maplist .go").forEach(b=>b.onclick=()=>openCapital(st[+b.dataset.i]));
 }
 function drawAbout(){
